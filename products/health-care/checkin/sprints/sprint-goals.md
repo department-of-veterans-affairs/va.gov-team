@@ -91,7 +91,8 @@
             - Will we be ready for this step?
         - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)        
     - **Sub Goal: Q2 Translations**
-        - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
+        - TENTATIVE 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
+            - Want to wait until Medication Wording is in
     - **Sub Goal: CIE Analytics**
         - 🟥 [Add the A11 (5 item question) intercept survey to confirm pages on pre-check-in and check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88146)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
