@@ -4,7 +4,7 @@
 
 - [MS Word transcript notes template](https://github.com/user-attachments/files/16116636/Transcript.notes.template.docx)
 
-## Participant transcripts
+## Participant Word doc transcripts
 
 - [P1 Transcript.docx](https://github.com/user-attachments/files/16198171/P1.docx)
 - [P2 Transcript.docxx](https://github.com/user-attachments/files/16240628/P2.docx)
