@@ -6,8 +6,6 @@
 <summary>SPRINT 13 - 8/7/2024-8/20/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 13 - 8/7/2024-8/20/2024
-
-#### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79886)
 - **GOAL: Support Congressional Mandate**
@@ -41,8 +39,6 @@
 <summary>SPRINT 12 - 7/24/2024-8/6/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
-
-#### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
 - **GOAL: Support Congressional Mandate**
@@ -103,11 +99,6 @@
 </details>
 
 ## SPRINT 11 - 7/10/2024-7/23/2024
-
-#### PLANNED RELEASES
-- NONE
-
-#### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82356)
     - **Sub Goal: Move to New AWS Instance**
