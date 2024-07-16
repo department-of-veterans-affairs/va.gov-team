@@ -48,7 +48,7 @@
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
         - ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
         - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)        
-        - 🟩🟥🟪 Participate in cross-team Staging Review with Appts Team (ask Jeff if it has been scheduled)
+        - 🟩🟥🟪 Participate in Staging Review
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
         - Goal is to complete this feature and get it through Staging Review and Infrasturcture, Security Readiness Review; we will then work with Kristen to determine when and who to pilot
@@ -80,17 +80,15 @@
             - 🟥 Release Product Guide
             - 🟪 Create Release notes & notify stakeholders
     - **Sub Goal: Upcoming VAOS Appointments**
-        - 🟥 [Update Userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
+        - 🟥 [Update Userflows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
         - 🟥 Schedule Design Intent
         - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
-        - 🟩 [[FE] Display Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
-            - Will we be ready for this step?
         - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)        
     - **Sub Goal: Q2 Translations**
         - TENTATIVE 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
             - Want to wait until Medication Wording is in
     - **Sub Goal: CIE Analytics**
-        - 🟥 [Add the A11 (5 item question) intercept survey to confirm pages on pre-check-in and check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88146)
+        - 🟪 [Add the A11 (5 item question) intercept survey to confirm pages on pre-check-in and check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88146)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
 - **GOAL: Address Tech Debt**
