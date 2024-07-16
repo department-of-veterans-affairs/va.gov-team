@@ -1,6 +1,8 @@
 # Authenticated Patterns
 Crafting evidence-based, adaptable and adoptable design patterns that will improve Veteran experiences across government digital services.
 
+**Office Hours:** 1:30 – 2:00pm every other Wednesday
+
 ## Table of Contents
 
 - [Team Members](#team-members)
