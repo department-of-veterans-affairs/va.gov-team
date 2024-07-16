@@ -55,9 +55,11 @@ Tell us briefly about what you're working on now (such as initial discovery, wir
 - [ ]  Yes
 - [ ]  No
  
- **Note** If you checked yes: Incremental launches require dynamic content. You'll need to ask your developer to build a React widget and provide CAIA with the ID code. CAIA will provide widget content and add the widget to your product’s static page. Please refer to this [GitHub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md) for more information.
- 
-- [ ]  I acknowledge that if I change the launch to be incremental, or change it from incremental to 100%, I must notify CAIA of this change as these additional steps will impact deadlines.
+ **Note:** For an incremental launch, we use React widgets to display dynamic content. We'll need at least 2 weeks of extra time to coordinate the content for this and work with your engineer. [Learn more about our process for dynamic content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md). If your launch plans change, notify CAIA of the change as soon as possible so we can talk about how that will impact the timeline.
+
+**If you are releasing incrementally:**
+- **What dates do you anticipate starting and ending your incremental launch?** `Enter dates`
+- **What is the name of your engineer who will build the React widget?** `Name`
 
 ## Collaboration cycle 
 
@@ -75,7 +77,7 @@ If you’re going through the collaboration cycle, provide your ticket number an
 
 ## Supporting artifacts
 Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. Include artifacts like your product outline, user flows, mockups and prototypes, or any draft content.
-- [Supporting artifact <name>](https://va.gov) `placeholder link`
+- [Supporting artifact<name>]
 
 ## Next steps
 - [ ] Post a link to this issue in the [#sitewide-content-sitewide-content-accessibility-ia](https://dsva.slack.com/channels/sitewide-content-accessibility-ia) slack channel and tag `@Naomi Eke`, and we’ll then acknowledge receipt. We'll then review the artifacts in more detail and work with you to determine timing for collaboration. Depending on the work, we may schedule a kickoff meeting to better understand how we'll partner together.
