@@ -1,4 +1,4 @@
-# CAIA Kickoff Process for product teams
+# Intro to CAIA Kickoffs for product teams
 `Current WIP Version: V1.0`
 
 ## In this document 📃
