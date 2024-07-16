@@ -53,6 +53,7 @@
         - 🟩🟥🟪 Participate in cross-team Staging Review with Appts Team (ask Jeff if it has been scheduled)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
+        - Goal is to complete this feature and get it through Staging Review and Infrasturcture, Security Readiness Review; we will then work with Kristen to determine when and who to pilot
         - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
         - 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
         - 🟪 [Create Product Directory Entry ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83625)
@@ -65,6 +66,7 @@
             - 🟥 Need to check Content and IA artifacts in Staging Review section
         - Schedule Infrasturcture, Security Readiness Review
     - **Sub Goal: Travel Claim Submission from Past Appts - Web**
+        - Goal is to wireframe the effort needed and coordinate with the Travel team
         - 🟥 [Update userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88086)
         - 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
         - 🟥 [Create Final Desktop Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
@@ -75,6 +77,7 @@
             - 🟪 [[PRODUCT] Appointments Online Scheduling Onboarding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88051)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Today's VISTA Appointments**
+        - Goal is to release this feature after we have responded to all blocking issues from Staging Review
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
         - 🟩🟦🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
             - 🟩 Merge code
@@ -85,6 +88,7 @@
         - 🟥 Schedule Design Intent
         - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
         - 🟩 [[FE] Display Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
+            - Will we be ready for this step?
         - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)        
     - **Sub Goal: Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
