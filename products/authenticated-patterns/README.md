@@ -8,12 +8,13 @@ Crafting evidence-based, adaptable and adoptable design patterns that will impro
 ---
 
 ### Team Members
-* Alexandria Parker: Delivery manager (Part-time)
-* Lynn Stahl: Product Manager
-* Adam Whitlock: Software Engineer 
-* Belle Poopongpanit: FS Developer
-* Christine Steiffer: UX Designer
-* Morgan Jones: UX Designer
+* Beck Phung: VA Product Owner @beckyphung 
+* Alexandria Parker: Delivery manager (Part-time) @ACParker89
+* Lynn Stahl: Product Manager @msbtterswrth
+* Adam Whitlock: Software Engineer @adamwhitlock1
+* Belle Poopongpanit: FS Developer @bellepx0
+* Christine Steiffer: UX Designer @ChristineRoseSteiffer 
+* Morgan Jones: UX Designer @Jones-Morgan 
 
 ### POCs
 
