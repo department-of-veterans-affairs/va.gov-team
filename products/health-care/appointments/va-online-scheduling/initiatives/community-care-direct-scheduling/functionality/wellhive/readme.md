@@ -4,7 +4,9 @@
 
 - [WellHive OAuth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/wellhive/wellhive-oauth-documentation.md)
 - [WellHive Specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/wellhive/wellhive-specifications.md)
-- [WellHive Care Navigation API Endpoints and Schedule.xlsx](https://github.com/user-attachments/files/16241116/WellHive.Care.Navigation.API.Schedule.xlsx)
+- [WellHive Care Navigation API Endpoints and Schedule with limits.xlsx](https://github.com/user-attachments/files/16274075/Care.Nav.API.Schedule.xlsx)
+
+- 
 
 ## EPS for MSAs UI Screenshoot
 
