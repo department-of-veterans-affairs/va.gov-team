@@ -151,7 +151,7 @@ Prompt: Select Grove City, OH
 
 Question: Why do you think these two providers are displayed here? 
 
-Explaination to follow up with: Sarah Bennett is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily Larson (Certified Nutrition Specialists) in the past on occasion. 
+Explaination to follow up with: Sarah Bennett is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily Larson in the past on occasion. 
 
 Prompt: Tell me about this page.
 
