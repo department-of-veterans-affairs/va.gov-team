@@ -79,14 +79,14 @@
 | Announce upcoming appointment modality | Test with Voiceover on Mac| Passed 	| N/A|
 | Announce upcoming appointment location| Test with Voiceover on Mac| Passed 	| N/A|
 | Announce past appointment date/time info | Test with Voiceover on Mac| Passed 	| N/A|
-| Announce past appointment type of care | TTest with Voiceover on Mac| Passed	| N/A|
+| Announce past appointment type of care | Test with Voiceover on Mac| Passed	| N/A|
 | Announce past appointment provider | Test with Voiceover on Mac| Passed	| N/A|
-| Announce past appointment modality | TTest with Voiceover on Mac| Passed	| N/A|
+| Announce past appointment modality | Test with Voiceover on Mac| Passed	| N/A|
 | Announce past appointment location | Test with Voiceover on Mac| Passed	| N/A|
 | Announce past appointment combo box| Test with Voiceover on Mac| ?	| N/A|
 | Announce request type of care | Test with Voiceover on Mac| Passed	| N/A|
 | Announce request modality | Test with Voiceover on Mac| Passed	| N/A|
-| Announce request location | TTest with Voiceover on Mac| Passed	| N/A|
+| Announce request location | Test with Voiceover on Mac| Passed	| N/A|
 
 Issue found when testing "Canceled upcoming video appointment" along with the "Past video appointment". After each line of text in the Scheduling facility area, the acreen reader is stopping and saying "empty group"
 
