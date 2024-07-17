@@ -1,5 +1,5 @@
 # Determining Ask VA queue from question text
-Last updated by @beckyphung: July 15, 2024
+Last updated by @beckyphung: July 17, 2024
 
 This doc describes how we can use current Ask VA data to train an AI model. The model will determine the queue a question should land in based on the question text.
 
@@ -57,6 +57,7 @@ There is a primary benefit to dynamically recommending queues to agents:
 -	Submitters will get quicker responses because questions get rerouted by agents to the correct queue the first time. We know it takes agents 1.5 times longer to respond to questions if they reroute a question multiple times compared to only rerouting once.
 ## Plan WIP
 -	WIP
+-	See planning work [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719949263359/22d8bf1e2d70fac8a9da7e57ca6642e2e23724fb?sender=u44efa807e992cacf10cf3697)
 ## Background
 There are currently 191 queues in the Ask VA CRM. Each queue has a specific group of people (aka ‘teams’ or user groups in CRM) who can answer questions only assigned to certain queues. 
 When a submitter submits a question through the Ask VA form, answers to the following questions determine which queue the question lands in: Category, Topic, and State of Residency.
