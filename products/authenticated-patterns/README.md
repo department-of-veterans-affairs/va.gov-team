@@ -6,7 +6,7 @@ Crafting evidence-based, adaptable and adoptable design patterns that will impro
 ## Table of Contents
 
 - [Team Members](#team-members)
-- [POCs](#pocs)
+- [Where to find us](#where-to-find-us)
 ---
 
 ### Team Members
@@ -18,6 +18,9 @@ Crafting evidence-based, adaptable and adoptable design patterns that will impro
 * Christine Steiffer: UX Designer @ChristineRoseSteiffer 
 * Morgan Jones: UX Designer @Jones-Morgan 
 
-### POCs
-
+### Where to find us
 - **Slack channel**: [#tmf-auth-exp-design-patterns](https://dsva.slack.com/archives/C07909N7U8Z)
+- **Mural**: https://app.mural.co/t/departmentofveteransaffairs9999/r/1719240814910
+- **GitHub repo**: https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns
+
+
