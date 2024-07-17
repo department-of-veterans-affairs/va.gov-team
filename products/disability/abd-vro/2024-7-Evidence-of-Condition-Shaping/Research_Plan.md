@@ -158,15 +158,20 @@ Secondary criteria:
 
 *At least 3 without a college degree*
 
-  - **Question for Perigean: Do we need to write a screener question for this?**
+  - Does not have Bachelor's, Master's, Professional, or Doctoral degree
 
-*At least 2 should speak a language other than English at home OR be of immigrant origin*
+*At least 2 should speak a language other than English at home*
 
-  - **Question for Perigean: Do we need to write a screener question for this?**
+  - What language do you mainly speak at home?
+      - English
+      - Spanish **(Recruit for language)** 
+      - Mandarin **(Recruit for language)**
+      - French **(Recruit for language)**
+      - Other (please specify) **(Recruit for language)**
 
 **Secondary (nice-to-have)**
 
-- If these are not already in Perigean's database, we'll need to write screening questions
+- These should all be in Perigean's database
 
 
 ## Timeline
