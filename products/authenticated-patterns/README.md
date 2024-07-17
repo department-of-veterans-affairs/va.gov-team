@@ -5,7 +5,7 @@ Crafting evidence-based, adaptable and adoptable design patterns that will impro
 
 ## Table of contents
 
-- [Our north star](#Our north star)
+- [Our north star](#our-north-star)
 - [Team Members](#team-members)
 - [Where to find us](#where-to-find-us)
 ---
