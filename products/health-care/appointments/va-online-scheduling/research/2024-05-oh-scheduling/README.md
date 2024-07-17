@@ -1,6 +1,6 @@
 # Oracle Health Scheduling 
 
-Tests an MVP for OH Scheduling, some additional concepts for improving the overall scheduling flow, and a pattern for notifications.
+Veteran study that tests an MVP for OH Scheduling, some additional concepts for improving the overall scheduling flow, and a pattern for notifications.
 
 - [Research plan]()
 - [Conversation guide]()
