@@ -9,7 +9,7 @@ The purpose of the annual IA audit is to quickly review all pages and features w
 Focus area | Date Uploaded | Audit File
 --- | --- | --- 
 Health care hub | July 2024 | [Health Care Hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Health%20care%20Hub%20Audit.xlsx) | 
-Disability hub | | | 
+Disability hub | July 2024 | [Disability Hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Disability%20Hub%20Audit.xlsx)| 
 Education and training hub | July 2024 | [Education hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Education%20Hub%20Audit.xlsx) | 
 Careers and employment hub | July 2024 | [Careers and Employment Hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Careers%20Hub%20Audit.xlsx) |
 Pension hub| July 2024 | [Pension Hub Audit 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Pension%20Hub%20Audit.xlsx) | 
