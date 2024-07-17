@@ -10,9 +10,9 @@ Focus area | Date Uploaded | Audit File
 --- | --- | --- 
 Health care hub | July 2024 | [Health Care Hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Health%20care%20Hub%20Audit.xlsx) | 
 Disability hub | | | 
-Education and training hub | | | 
+Education and training hub | July 2024 | [Education hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Education%20Hub%20Audit.xlsx) | 
 Careers and employment hub | July 2024 | [Careers and Employment Hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Careers%20Hub%20Audit.xlsx) |
-Pension hub| Aug 2023 | [Pension Hub Audit 2023](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/information-architecture/process/ia-audits/Pension%20Hub%20Audit-%202023.xlsx) | 
+Pension hub| July 2024 | [Pension Hub Audit 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Pension%20Hub%20Audit.xlsx) | 
 Housing assistance hub| July 2024 | [Housing Hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Housing%20Hub%20Audit.xlsx)| 
 Life insurance hub| July 2024 | [Life Insurance Hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Life%20Insurance%20Hub%20Audit.xlsx)
 Burials and memorials hub|July 2024| [Burial Hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Burials%20Hub%20Audit%20-%202023.xlsx) |
