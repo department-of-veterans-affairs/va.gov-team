@@ -6,7 +6,7 @@ When we started considering tools for prototyping authenticated patterns for VA.
 
 ## Pros and Cons
 
-Pros:
+**Pros:**
 
 1. Rapid prototyping
    - Instant preview of code changes
@@ -28,7 +28,7 @@ Pros:
    - Over 100 existing pens to reference that focus on VA applications like Profile and MyVa
    - 'partials' have been established to provide common reusable chunks of UI like the header and footer of VA.gov
 
-Cons:
+**Cons:**
 
 1. Security concerns
    - Pens are public by default, which may be inappropriate for sensitive VA.gov work. 
