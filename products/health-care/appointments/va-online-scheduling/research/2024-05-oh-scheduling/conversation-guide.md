@@ -103,7 +103,7 @@ What we're going to do is run through a series of tasks in an imaginary scenario
 
 Prompt: Tell me about this page (Appointment list page).
 
-Prompt: Tell me about what is at the top of the page
+Prompt: Tell me about what is at the top of the page. What do you think each of those icons and buttons do in the dark blue area with the VA logo?
 
 Prompt: How would you schedule an appointment from here?
 
@@ -125,7 +125,7 @@ Prompt: Continue scheduling your appointment.
 
 Prompt: Tell me about this page.
 
-Question: Which of your providers or clinics would you expect to see here if you were actually scheduling this appointment?
+Question: How would you expect these to be organized?
 
 Prompt: You need a food and nutrition appointment. How would you schedule that? 
 
@@ -151,7 +151,7 @@ Prompt: Select Grove City, OH
 
 Question: Why do you think these two providers are displayed here? 
 
-Explaination to follow up with: Sarah is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily in the past on occasion. 
+Explaination to follow up with: Sarah Bennett is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily Larson (Certified Nutrition Specialists) in the past on occasion. 
 
 Prompt: Tell me about this page.
 
@@ -224,7 +224,7 @@ Prompt: You have been doing physical therapy once a every few weeks and you need
 
 Prompt: You would like an appointment for August 16.
 
-Prompt: It looks like Aug 16 isn't available - The next date that will work for you is August 26 at 2:00pm. Go ahead and select that date and time
+Prompt: The next date that will work for you is August 26 at 2:00pm. Go ahead and select that date and time
 
 **Reason for appointment**
 
@@ -258,20 +258,17 @@ Question: What was the most confusing?
 
 Prompt: You have a high fever and have been sick for a couple of days, you want to get in to see your doctor asap because you don't seem to be getting better. What would you do? 
 
-**Schedule an appointment** 
+Question: How clear was it that this tool is not for urgent medical needs? Anything we could do better?
 
 Prompt: Now, looking through the scheduling tool is there anything that might be helpful in guiding you to getting care asap? 
 
 (They should find the "I need immediate care" in the list.)
 
+Prompt: Now you want to go back to your list of appointments, how would you do that?
+
 **Go back to the appointment list** 
 
-Prompt: Now you want to go back to your list of appointments, how would you do that?
 Prompt: Take a look at the top of your screen, can you tell me what you see up there?
-
-### Scenario 3 questions
-
-Question: How clear was it that this tool is not for urgent medical needs? Anything we could do better?
 
 
 ## 4: New Notification
