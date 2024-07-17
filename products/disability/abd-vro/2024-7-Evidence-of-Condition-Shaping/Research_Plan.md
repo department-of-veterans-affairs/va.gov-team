@@ -62,9 +62,9 @@ In additional to the discovery questions outlined above, we’ll also test the h
 
 This study will use a semi-structured interview around two primary objectives:
 
-1. Understand how Veterans think about this subject
+1. Understand how Veterans think about the topic. We'll ask them in detail about a recently filed claim or a claim they are planning to file in the future.
 
-2. Get feedback on two design concepts. The first concept will show generic content. The second will include content related to specific conditions. 
+2. Get feedback on design concepts focusing on informational content. The first concept will show generic content. The second will include content related to specific conditions. We'll also vary the details of the information presentation to test out different approaches to explaining the topic.
 
 
 ### Location
@@ -94,7 +94,8 @@ See: [All EE team recruitment equity checkers](https://docs.google.com/spreadshe
 
 Primary criteria:
 
-- Veteran has recently filed a disability claim OR is planning to file a claim for a new condition
+- Veteran has recently filed a disability claim ("Recent Filer") for a new condition, OR is planning to file a claim for a new condition ("Future Filer")
+   - At least 2 of these should be Recent Filers
 
 - At least 3 without a college degree
 
@@ -115,51 +116,51 @@ Secondary criteria:
 
 **Primary criteria** 
 
-- Veteran has recently filed a disability claim OR is planning to file a claim for a new condition
+*Veteran has recently filed a disability claim OR is planning to file a claim for a new condition*
 
   - When was the last time you filed a VA claim for a NEW disability? (Do not include an appeal or a claim for increase for a previously rated condition.)
 
-    - In the last three months **(recruit at least 2 with this answer)**
+    - In the last three months **(Recruit as Recent Filer)**
 
-    - In the last year
+    - In the last year **(Does not qualify as Recent Filer)**
 
-    - In the last two years
+    - In the last two years **(Does not qualify as Recent Filer)**
 
-    - More than 2 year ago
+    - More than 2 year ago **(Does not qualify as Recent Filer)**
 
-    - N/A - I’ve never filed a disability claim with the VA
+    - N/A - I’ve never filed a disability claim with the VA **(Does not qualify as Recent Filer)**
 
   - Are you planning to file a claim for a NEW disability within the next 3 months? (Do not include an appeal or a claim for increase for a previously rated condition.)
 
     - Yes
 
-    - No
+    - No **(Does not qualify as Future Filer)**
 
     - Not sure
 
   - If you answered Yes, above, what have you done so far to prepare your claim? (Select all that apply.)
 
-    - I have just started thinking about it
+    - I have just started thinking about it **(Does not qualify as Future Filer)**
 
-    - I have talked to friends, family, or other Veterans about it.  **(Recruit)**
+    - I have talked to friends, family, or other Veterans about it.  **(Recruit as Future Filer)**
 
-    - I have looked online for information. **(Recruit)**
+    - I have looked online for information. **(Recruit as Future Filer)**
 
-    - I have talked with a Veteran Service Organization or attorney about it. **(Recruit)**
+    - I have talked with a Veteran Service Organization or attorney about it. **(Recruit as Future Filer)**
 
-    - I have started collecting documents to support my claim. **(Recruit)**
+    - I have started collecting documents to support my claim. **(Recruit as Future Filer)**
 
-    - I have submitted an Intent to File. **(Recruit)**
+    - I have submitted an Intent to File. **(Recruit as Future Filer)**
 
-    - I started a claim application on VA.gov, but I have not finished filing the claim. **(Recruit)**
+    - I started a claim application on VA.gov, but I have not finished filing the claim. **(Recruit as Future Filer)**
 
-    - N/A - I am not planning to file a claim in the next three months.
+    - N/A - I am not planning to file a claim in the next three months. **(Does not qualify as Future Filer)**
 
-- At least 3 without a college degree
+*At least 3 without a college degree*
 
   - **Question for Perigean: Do we need to write a screener question for this?**
 
-- At least 2 should speak a language other than English at home OR be of immigrant origin
+*At least 2 should speak a language other than English at home OR be of immigrant origin*
 
   - **Question for Perigean: Do we need to write a screener question for this?**
 
@@ -205,8 +206,8 @@ Wednesday, July 24
 
 Thursday, July 25
 
-- 11:00am - 2:30pm ET
-- 3:30pm - 8pm ET (??? only Kim available)
+- 10:00am - 2:30pm ET
+- 3:30pm - 8pm ET (Please schedule only one session during this time range)
 
 Monday, July 29 (Don't schedule more than 2 sessions this day)
 
@@ -215,12 +216,12 @@ Monday, July 29 (Don't schedule more than 2 sessions this day)
 
 Tuesday, July 30
 
-- 11:00am - 2:30pm ET
+- 10:00am - 2:30pm ET
 - 4:00pm - 8:00pm ET
 
 Wednesday, July 31
 
-- 11:00am - 4:00pm ET
+- 10:00am - 4:00pm ET
 - 5:00pm - 8:00pm ET
 
 
