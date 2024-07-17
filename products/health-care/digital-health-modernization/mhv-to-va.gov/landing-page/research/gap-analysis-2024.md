@@ -1,4 +1,5 @@
 # Gap analysis research on the My HealtheVet home landing page
+Date: July 2024
 
 ## Background and problem statement
 On June 17, 2024, the My HealtheVet portal teams launched a large number of features into production that for the first time "integrate" the My HealtheVet experience onto VA.gov. Tools that were previously available, but siloed off as islands, are now more broadly available and can be seamlessly accessed through a secondary navigation bar. 
