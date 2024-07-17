@@ -8,11 +8,11 @@
 
 The majority of the issues and concerns described by Veterans in June corroborate previous findings, including but not limited to:
 
-**Findability and navigation issues** 
-
 **Unable to look up or download copay statements** 
 
 **Payment update discrepancy (an issue described in previous reports)**
+
+**Wanting to see payment history** 
 
 
 ## Quantitative Findings
