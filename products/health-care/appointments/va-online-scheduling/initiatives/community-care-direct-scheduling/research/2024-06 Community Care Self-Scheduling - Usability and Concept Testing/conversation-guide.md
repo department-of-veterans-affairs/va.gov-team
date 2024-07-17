@@ -17,7 +17,7 @@
 - Check your "screen sharing setup" and share permissions for participants.
 
 ---
-## Intro - 5 minutes
+## Intro - 1 minutes
 - Thanks for joining us today!
   
 - My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session. We also have [a11y support] here to help with any technology assistance.
@@ -32,6 +32,31 @@ Today, we're going to talk about receiving approval to self-schedule an appointm
 
 - Before we start, I have a few things that I want to go over with you:
 
+---
+## Warm up questions - 3 minutes 
+- Before we go to the prototype, let’s start with a few warm-up questions:
+
+- _If the participant is using a screen reader:_
+  - Are you using a screen reader or other assistive technology today? If so, what type? (For example, VoiceOver.)
+  - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert?
+  - How long have you been using that technology?
+
+- _If the participant is using screen magnification:_
+  - Are you using a screen magnification tool today? If so, what type? (For example, Zoom.)
+  - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert?
+  - How long have you been using that technology?
+
+- Have you used the Appointments tool on VA.gov to schedule and manage your health appointments before?
+
+- And, what device are you using to join this session today? (E.g., iPhone or Android device.)
+
+- So, I will be sharing a web page link with you during this session. How would you prefer to receive the link? For example, I could send it through the Zoom (messages) chat or email it to you.
+
+- Great. Thank you.
+
+
+---
+## Title
 - **This entire session should take about 1 hour and 15 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers and we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to, and whether you choose to participate or not will not affect your benefits in any way with VA. If you'd like to stop the session or don't want to answer a question for any reason at any time, that's no problem. Just let me know.
@@ -56,29 +81,7 @@ _If NO observers present OR if observers are present in Zoom waiting room._
         
       - Great. Thank you.
 
----
-## Warm up questions - 3 minutes 
-- Before we go to the prototype, let’s start with a few warm-up questions:
 
-- Have you used the Appointments tool on VA.gov to schedule and manage your health appointments before?
-
-- And, what device are you using to join this session today? (E.g., iPhone or Android device.)
-
-- So, I will be sharing a web page link with you during this session. How would you prefer to receive the link? For example, I could send it through the Zoom (messages) chat or email it to you.
-
-- _If the participant is using a screen reader:_
-  - Are you using a screen reader or other assistive technology today? If so, what type? (For example, VoiceOver.)
-  - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert?
-  - How long have you been using that technology?
-
-- _If the participant is using screen magnification:_
-  - Are you using a screen magnification tool today? If so, what type? (For example, Zoom.)
-  - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert?
-  - How long have you been using that technology?
-
-- Great. Thank you.
-
----
 ## Semi-structured interview - Referrals - 5-7 minutes
 
 _Note for moderator: If Veteran has difficulty answering some of these questions, consider not asking all of the them and moving to the next section._
