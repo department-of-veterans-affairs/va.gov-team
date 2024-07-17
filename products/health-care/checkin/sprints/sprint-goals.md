@@ -44,14 +44,16 @@
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
         - ✔️ 🟪 Create Collab Cycle Ticket
-        - 🟪 Schedule Staging Review
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
         - ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
         - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
         - ❗🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
         - ❗🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
         - ❗🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
-        - 🟩🟥🟪 Participate in Staging Review
+        - 🟪 Schedule Staging Review
+            - 🟩 Need Code Coverage link
+            - 🟩 Need E2E tests link
+            - 🟥 Need Contact Center review ticket link for Product Guide
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
         - Goal is to complete this feature and get it through Staging Review and Infrasturcture, Security Readiness Review; we will then work with Kristen to determine when and who to pilot
