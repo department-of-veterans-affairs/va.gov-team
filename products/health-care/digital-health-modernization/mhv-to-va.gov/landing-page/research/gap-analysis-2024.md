@@ -7,12 +7,25 @@ The Cartography team has since been working on analytics monitoring of the trans
 
 In July 2024, OCTO prioritized monitoring the current page and making very few iterations to the page, and our goal is to measure the extent to which this landing page is "successful" or not. By which we mean, is it meeting Veteran needs and expectations for a health portal hosted on VA.gov? An analytics evaluation plan is being drafted to get at better answering that question. But alongside that effort, we also conducted desk research to evaluate any potential gaps that may exist between the current state of the landing page, and what we already know Veterans likely expect. 
 
+## Resources 
+* MURAL capturing gap analysis work
+* MURAL evaluating the value proposition of the landing page 
+
 ## What is a "gap"?
 We define a gap as the space between where we are now, and where we need to be in order to meet Veteran and business needs. 
 
-## Gaps being analyzed
-We posit that some unmet Veteran and/or business needs might be identified by looking into potential gaps in these areas: 
-* Current state My HealtheVet home page vs. previously conducted generative research at the VA.
-* Current state My HealtheVet home page vs. qualitative Medallia feedback that has been captured from Veterans.
-* Current state My HealtheVet home page vs. market research (competitive analysis into other authenticated portals).
+## Gap areas being analyzed
+We posit that some unmet Veteran and/or business needs might be identified by looking into potential gaps between the My HealtheVet home page (current state) and what we see in these other forms of research:  
+1. Previously conducted generative research at the VA
+2. Qualitative Medallia feedback that has been captured from Veterans
+3. Market research (competitive analysis into other authenticated portals)
 
+### 1. Previously conducted generative research at the VA
+
+### 2. Qualitative Medallia feedback 
+
+### 3. Market research / competitive analysis
+
+## Synthesis
+
+## Next steps
