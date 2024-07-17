@@ -22,13 +22,10 @@
   
 - My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session. We also have [a11y support] here to help with any technology assistance.
 
-_If observers are present in Zoom waiting room._ 
+- _If observers are present in Zoom waiting room._
+  - I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
-- I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
-
-_If NO observers present OR if observers are present in Zoom waiting room._ 
-
-Today, we're going to talk about receiving approval to self-schedule an appointment with a a community care provider. 
+- Today, we're going to talk about receiving approval to self-schedule an appointment with a a community care provider. 
 
 - Before we start, I have a few things that I want to go over with you:
 
