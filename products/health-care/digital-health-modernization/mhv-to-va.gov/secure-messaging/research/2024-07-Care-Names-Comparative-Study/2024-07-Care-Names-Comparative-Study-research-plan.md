@@ -99,17 +99,47 @@ Cohort 2: Current state (n=9)
 
 Cohort 3: Current state (n=9)
 
-Cohort 4: Provider name (n=9)
+Cohort 4: Current state (n=9)
 
-Cohort 5: Provider name (n=9)
+Cohort 5: Current state (n=9)
 
-Cohort 6: Provider name (n=9)
+Cohort 6: Current state (n=9)
 
-Cohort 7: Location (n=9)
+Cohort 7: Current state (n=9)
 
-Cohort 8: Location (n=9)
+Cohort 8: Current state (n=5)
 
 Cohort 9: Location (n=9)
+
+Cohort 10: Location (n=9)
+
+Cohort 11: Location (n=9)
+
+Cohort 12: Location (n=9)
+
+Cohort 13: Location (n=9)
+
+Cohort 14: Location (n=9)
+
+Cohort 15: Location (n=9)
+
+Cohort 16: Location (n=5)
+
+Cohort 17: Provider (n=9)
+
+Cohort 18: Provider (n=9)
+
+Cohort 19: Provider (n=9)
+
+Cohort 20: Provider (n=9)
+
+Cohort 21: Provider (n=9)
+
+Cohort 22: Provider (n=9)
+
+Cohort 23: Provider (n=9)
+
+Cohort 24: Provider (n=5)
 
 
 ## Recruitment
@@ -143,18 +173,52 @@ Cohorts should vary by VISN, which include different states. No need to include 
 - Cohort 8: Kentucky or Tennessee
 
 - Cohort 9: Colorado, Wyoming, Oklahoma or Utah
+
+- Cohort 10: Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
   
+- Cohort 11: Georgia, Alabama, or South Carolina
+  
+- Cohort 12: South Dakota, Iowa, or Minnesota
+  
+- Cohort 13: New York
+
+- Cohort 14: Florida
+
+- Cohort 15: Oregon, Washington, Alaska or Idaho
+
+- Cohort 16: Pennsylvania or Delaware
+
+- Cohort 17: Kentucky or Tennessee
+
+- Cohort 18: Colorado, Wyoming, Oklahoma or Utah
+
+- Cohort 19: Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
+  
+- Cohort 20: Georgia, Alabama, or South Carolina
+  
+- Cohort 21: South Dakota, Iowa, or Minnesota
+  
+- Cohort 22: New York
+
+- Cohort 23: Florida
+
+- Cohort 24: Oregon, Washington, Alaska or Idaho
+
+
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       81      |         NA       |    81  |     0       |    0     |        0      | 
+|       213      |         NA       |    213  |     0       |    0     |        0      | 
 
 ### Criteria Table
+
+**No relevant criteria in Criteria Table; please see cohort geographical criteria (above) as primary reference. Did not extent Criteria Table to capture all cohorts as could not figure out to do this for 24 cohorts without making the table unreadable.** 
+
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |   9    |   9     |    9    |    9    |    9    |    9    |    9    |    9    |    9    |    9     |
+|*Various*       |            |   9    |   9     |    9    |    9    |    9    |    9    |    9    |    5    |    9    |    9     |
 |Male            |            |        |        |        |        |        |        |        |        |        |         |
 |Female          |           |        |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
