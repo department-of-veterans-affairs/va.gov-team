@@ -83,12 +83,12 @@
 | Announce past appointment provider | Test with Voiceover on Mac| Passed	| N/A|
 | Announce past appointment modality | Test with Voiceover on Mac| Passed	| N/A|
 | Announce past appointment location | Test with Voiceover on Mac| Passed	| N/A|
-| Announce past appointment combo box| Test with Voiceover on Mac| ?	| N/A|
+| Announce past appointment combo box| Test with Voiceover on Mac| N/A	| N/A|
 | Announce request type of care | Test with Voiceover on Mac| Passed	| N/A|
 | Announce request modality | Test with Voiceover on Mac| Passed	| N/A|
 | Announce request location | Test with Voiceover on Mac| Passed	| N/A|
 
-Issue found when testing "Canceled upcoming video appointment" along with the "Past video appointment". After each line of text in the Scheduling facility area, the acreen reader is stopping and saying "empty group"
+Issue found when testing "Canceled upcoming video appointment" along with the "Past video appointment". After each line of text in the Scheduling facility area, the screen reader is stopping on an element and saying "empty group"
 
 **For each of the appointment detail pages check the following:**
 
