@@ -43,10 +43,39 @@ This research looked at previously conducted studies at the VA - some specific t
 * MyVA Design research - 2020
 
 ### 2. Qualitative Medallia feedback 
-We combed through 
+We closely evaluated qualitative feedback from two surveys: A11 and Intercept that have been collected since the integration launch date of 6/17/2024. Feedback was sorted based on overall sentiment in these three categories: 
+* Positive feedback
+* Negative feedback 
+* "I want" feedback
+
+So far, analysis suggests that these features might add value to Veterans on the My HealtheVet home landing page:
+* Wants to update address on VA.gov
+* Wants to find account number on VA.gov 
 
 ### 3. Market research / competitive analysis
+Following the rules of Jakob's Law, we assume that Veterans prefer My HealtheVet on VA.gov to work the same way as all the other similar sites they already know. We did competitive analysis research into other authenticated portals across several domains: health, insurance, pharmacy, finance, etc. Images and notes about this analysis are captured here. 
 
+Competitors that were analyzed: 
+* My Chart (Epic)
+* Athena Health
+* Bank of America
+* A11y Bank
+* Chase Bank
+* Blue Cross Blue Shield
+* Cigna
+* Fidelity
+* Walgreens
+* FAFSA
+* FedLoan
+
+Trends:
+
+
+Gaps:
+
+
+Differences in on-page IA hierarchy:
+<img width="615" alt="Screenshot 2024-07-17 at 10 51 01 AM" src="https://github.com/user-attachments/assets/7db134ea-c06c-415c-be89-2a9230ab001c">
 
 ## Synthesis
 
