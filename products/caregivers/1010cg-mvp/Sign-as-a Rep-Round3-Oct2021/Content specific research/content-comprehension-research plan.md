@@ -68,7 +68,7 @@ Mixed-method interview and mental model: open-ended questions, directed storytel
 
 Tools: Zoom, [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027)
 
-For more details, please see: [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/content-comprehension-research%20plan.md)
+For more details, please see: [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/content-comprehension-conversation%20guide.md#conversation-guide-vsa-caregiver-mental-model-and-content-specific-comprehension-study-for-the-10-10cg-document-upload-november-2021)
 
 Recruiting: Perigean contract
 
@@ -133,7 +133,7 @@ _If needed:_  November 16, 2021 | 8:00am - 5:00pm EST
 - Observers: George Chewning (george.chewning@va.gov), Jen Sorensen (jen.sorensen@adhocteam.us)
 
 ## Resources
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/content-comprehension-research%20plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/Sign-as-a%20Rep-Round3-Oct2021/Content%20specific%20research/content-comprehension-conversation%20guide.md#conversation-guide-vsa-caregiver-mental-model-and-content-specific-comprehension-study-for-the-10-10cg-document-upload-november-2021)
 - [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1635267785345/2f0d4a4b46eb79c94cf93bcd0adb65ec8348554f?sender=u6ad375c1c8425e5bfec67027) for research
 - Design iteration [overview presentation](https://docs.google.com/presentation/d/1--9sY2qcPrxxmkSvJDUH5uShFyMgxCi3/edit?usp=sharing&ouid=106781647419399937562&rtpof=true&sd=true)
 - Sign as a rep [usability test 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/Usability%20Study-Sign%20as%20Representative-%20February%202021)
