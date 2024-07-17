@@ -22,7 +22,7 @@
   
 - My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session. We also have [a11y support] here to help with any technology assistance.
 
-- _If observers are present in Zoom waiting room._
+- _If observers are present in Zoom waiting room:_
   - I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
 - Today, we're going to talk about receiving approval to self-schedule an appointment with a a community care provider. 
@@ -59,7 +59,7 @@
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers and we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to, and whether you choose to participate or not will not affect your benefits in any way with VA. If you'd like to stop the session or don't want to answer a question for any reason at any time, that's no problem. Just let me know.
 
-- _If observers are present in Zoom waiting room._ 
+- _If observers are present in Zoom waiting room:_ 
     - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
        - _If no: Use Slack to kindly ask the observers to leave the Zoom._
        - _If yes: Admit observers._
@@ -276,11 +276,7 @@ _**Participant is on 2nd provider page:**_
 
 - And how does this match up to what you expected to find after submitting those options? 
 
-- _If participant is using a screen reader:_
-  - Ok, thank you. Let's pretend that the first provider under "All providers" (Dr. Kristina Jones, MD) matches what you're searching for. Go ahead and choose that provider.
-
-- _If participant is using screen magnification (or no AT):_
-  - Ok, thank you. Let's pretend that the second provider under "All providers" (Dr. Callista Grimes, DO) matches what you're searching for. Go ahead and choose that provider.
+- Ok, thank you. Let's pretend that the first provider under "All providers" (Dr. Kristina Jones, MD) matches what you're searching for. Go ahead and choose that provider.
 
 ---
 
