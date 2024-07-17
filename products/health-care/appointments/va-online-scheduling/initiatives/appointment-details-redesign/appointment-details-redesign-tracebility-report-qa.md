@@ -72,13 +72,13 @@
 
 | Screenreader| Test | Test result | Issue | 
 | ------- | ---------- | ----- | ----- |
-| Announce navigation options | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
-| Announce upcoming appointment date/time info | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
-| Announce upcoming appointment type of care | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
-| Announce upcoming appointment provider | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
-| Announce upcoming appointment modality | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
-| Announce upcoming appointment location| Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
-| Announce past appointment date/time info | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
+| Announce navigation options | Test with Voiceover on Mac, TalkBack on Android| Passed | N/A|
+| Announce upcoming appointment date/time info | Test with Voiceover on Mac, TalkBack on Android| Passed 	| N/A|
+| Announce upcoming appointment type of care | Test with Voiceover on Mac, TalkBack on Android| Passed | N/A|
+| Announce upcoming appointment provider | Test with Voiceover on Mac, TalkBack on Android| Passed 	| N/A|
+| Announce upcoming appointment modality | Test with Voiceover on Mac, TalkBack on Android| Passed 	| N/A|
+| Announce upcoming appointment location| Test with Voiceover on Mac, TalkBack on Android| Passed 	| N/A|
+| Announce past appointment date/time info | Test with Voiceover on Mac, TalkBack on Android|  	| N/A|
 | Announce past appointment type of care | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
 | Announce past appointment provider | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
 | Announce past appointment modality | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
@@ -88,6 +88,8 @@
 | Announce request modality | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
 | Announce request location | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
 
+Issue found when testing Canceled upcoming video appointment. After each line of text in the Scheduling facility area, the acreen reader is stopping and saying "empty group"
+
 ### Upcoming Appointments
 - [x] **Phone**
 - [x]  **In Person**
@@ -96,12 +98,17 @@
 ### Pending Appointments
 - [x]  **Phone**
 - [x]  **In Person**
-- [ ]  **Video** (Judy does not have)
+- [x]  **Video** (Judy does not have)
 
 ### Canceled Appointments
 - [x]  **Phone**
 - [x]  **In Person**
 - [x]  **Video**
+
+### Past Appointments
+- [ ]  **Phone**
+- [ ]  **In Person**
+- [ ]  **Video**
 
 
 |  Upcoming: Phone General accessibility| Test | Test result | Issue | 
@@ -285,3 +292,8 @@
 - [x]  **Phone**
 - [x]  **In Person**
 - [x]  **Video**
+
+### Past Appointments
+- [ ]  **Phone**
+- [ ]  **In Person**
+- [ ]  **Video**
