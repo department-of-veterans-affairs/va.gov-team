@@ -11,7 +11,8 @@ Sessions ran 60 minutes and asked participants for feedback on 2-3 possible subm
 Please direct any questions about recordings, participants, or the study to Evelyn Hilbrich Davis at evelyn@cityfriends.tech. 
 
 ## How to watch a recording
-All recordings are available in our [Sharepoint research folder]([[url](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EgClpik4g09KuYCp4wHSt3MBWhQmME18pi_w3OipVD6FNw?e=Nfdo6e)](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EgClpik4g09KuYCp4wHSt3MBWhQmME18pi_w3OipVD6FNw?e=Nfdo6e)). 
+All recordings are available in our Sharepoint research folder:https://dvagov.sharepoint.com/:f:/s/vaabdvro/EgClpik4g09KuYCp4wHSt3MBWhQmME18pi_w3OipVD6FNw?e=Nfdo6e
+
 Downloading or saving recordings is prohibited, please view only. 
 
 ## Participant Profiles
@@ -20,7 +21,7 @@ Use the descriptions below to choose which session you would like to review. All
 |   |   |  |  |
 |--|--|--|--|
 |**Participant session number**| **Cognitive disability (Y/N)** | **Theme of session**| **Description**
-|**P1** |No| **Comms Advocate** | Helps other Veterans file online, expresses greatest familiarity with the form. Confused by the two timelines (3 and 7-10 days); appreciates the emails and expects to receive more in the future for steps in the claims processing. |
+|**P1** |No| **Notify Me!** | Helps other Veterans file online, expresses greatest familiarity with the form. Confused by the two timelines (3 and 7-10 days); appreciates the emails and expects to receive more in the future for steps in the claims processing. |
 |P2 |No| **New Filer** | Has never filed 526 online-- used a rep to file BDD (appreciated the ease). Struggled to follow without the context of filing, personally (which could be valuable insight for VSOs), but liked aspects of the visual design for CST. Thought evidence failure = system insecurity. Expected a digital resubmission option.
 |**P3** |Yes|**Trusting Skeptic**  | Despite identifying as highly distrusting of VA, participant took the messaging as truthful across scenarios. When filing in 2018, his claim was redecided before he had to appeal; likes to think that decisions are being double-checked. Would like less "generic" lang for next steps in claims processing (liked CST steps). 
 |**P4** |No| **Claim ID Matters**|Did not scroll much and based impressions on content above the fold. Participant doesn't keep a paper record of claims; relies on [VA.gov](http://va.gov/) for information. In the backup path, P4 mentioned that the missing claim ID as contributing to lack of clarity of the submission status (4 out of 5). He said he would wait 20-30 days before calling and use his VA file number or SSN to ask for help once realizing his claim ID was missing from the scenario.  |
