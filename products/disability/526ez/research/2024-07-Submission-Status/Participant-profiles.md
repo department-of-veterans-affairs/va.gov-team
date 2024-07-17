@@ -4,7 +4,7 @@
 
 ## Overview
 
-The 526 Submission Status Evaluative Research Study will assess the clarity of the proposed submission model to see if Veterans have accurate expectations for the status and timeline in the days following submission. The study, including 8 research sessions, took place between July 8-15, 2024. 
+The 526 Submission Status Evaluative Research Study is assessing the clarity of changes to the 526 submission process to see if Veterans have accurate expectations for the status and timeline in the days following submission. The study, including 8 research sessions, took place between July 8-15, 2024. 
 
 Sessions ran 60 minutes and asked participants for feedback on 2-3 possible submission scenarios. VA practitioners who were unable to attend a session at the time are encouraged to review recordings. Note: These video recordings will only be available for duration of the study until August 31, 2024. 
 
