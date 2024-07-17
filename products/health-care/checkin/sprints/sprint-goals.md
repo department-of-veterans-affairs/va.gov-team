@@ -52,19 +52,18 @@
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
         - Goal is to complete this feature and get it through Staging Review and Infrasturcture, Security Readiness Review; we will then work with Kristen to determine when and who to pilot
-        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
-        - 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
-        - 🟪 [Create Product Directory Entry ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83625)
-        - 🟩 How will we make this available to only certain Pilot sites?
+        - 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
+        - 🟩 [Test E2E with VeText Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
+            - 🟩 How will we make this available to only certain Pilot sites?
         - 🟪 Schedule Staging Review
             - 🟩 Need instructions for Platform folks to test (is [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md) it??)
             - 🟩 Need Code Coverage link
             - 🟩 Need E2E tests link
             - 🟥 Need Contact Center review ticket link for Product Guide
             - 🟥 Need to check Content and IA artifacts in Staging Review section
-        - Schedule Infrasturcture, Security Readiness Review
+        - 🟩 Schedule Infrasturcture, Security Readiness Review
     - **Sub Goal: Travel Claim Submission from Past Appts - Web**
-        - Goal is to wireframe the effort needed and coordinate with the Travel team
+        - Goal is to wireframe the feature and coordinate with the Travel team
         - 🟪 Create product documents
         - 🟥 [Update userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88086)
         - 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
