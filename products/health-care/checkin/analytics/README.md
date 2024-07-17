@@ -39,9 +39,9 @@
 ```
 #### PRE-CHECK-IN
 ```
-.*health-care/appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin).*
+.*health-care/appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin|complete).*
   NOTE: these have to be done separately because of the appended GUID
-     .*health-care/appointment-pre-check-in/complete.*
+     .*health-care/appointment-pre-check-in/appointment-details.*
   NOTE: For exandables
     .*health-care/appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin|complete).*
 ```
