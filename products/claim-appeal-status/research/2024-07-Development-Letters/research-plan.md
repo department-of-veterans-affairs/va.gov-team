@@ -20,6 +20,8 @@ This work supports a Veteran whenever they are filing a disability compensation 
 1. Understand more about Veterans' experience with development letters today, including pain points and things that seem to be working.
 2. Evaluate the efficacy of the new 5103 Notice design. 
 3. Asses how well CST's tracked items "content model" for alerts works across a variety of different request types associated with development letters.
+4. Identify pain points in the current development letters experience that we might help resolve with CST user experience improvements
+5. Describe Veteran perception of the value and/or risks associated with electronic-only communications from VA
  
 
 ### Outcome
@@ -30,31 +32,28 @@ Identify pain points in the current development letters experience that we might
 - Is it clear what Veterans are being asked to do? Is it clear how it relates to the 5103 Notice letter?
 
 **Part 1: Understanding development letters experience**
-- Do you remember receiving letters from the VA while you were waiting for your claim?
-- What was the contents of the letters you received?
-- Was there anything particularly frustrating about your experience with these letters?
-- What would have made the experience better?
-- Did these letters make things easier in any way?
+- How do Veterans perceive and manage the letters they receive related to their claim?
+- Do Veterans have clarity about what actions they need to take for their claim?
+- What’s difficult about the letters Veterans receive about their benefits claims?
+- What's helpful about the letters Veterans receive about their benefits claims?
 
-**Part 2: Review 5103 design**
-- Looking at this design, what do you think you need to do here?
-- Where would you go to find your letter?
-- What action, if any, would you take?
-- Is there anything confusing about this?
+**Part 2: Evaluate 5103 design**
+- Are Veterans clear what the alert means and what they're being asked to do?
+- Are Veterans clear how the 5103 alert relatees to the 5103 Notice letter?
+- Can Veterans find the 5103 letter related to their claim?
 
 **Part 3: Review other benefit letter types**
-- Looking at this design, what do you think you need to do here?
-- Where would you go to find your letter?
-- What action, if any, would you take?
-- Is there anything confusing about this?
+- Are Veterans clear what the alert means and what they're being asked to do?
+
+**Part 4: Electronic-only communications**
 
 ### Hypothesis
 
-- Veterans will have had some confusing or frustrating experiences with development letters while their claim was being processed.
+- Veterans have had some confusing or frustrating experiences with development letters while their claim was being processed.
 - There are opportunities to improve the experience of receiving development letters by including them in CST.
 - The new 5103 design makes it clear to Veterans what the 5103 Notice letter is for and what is being asked of them.
 - It is reasonably easy for Veterans to find the development letter they're looking for among the full list of letters in the Claim Letters page.
-- The "content model" works to make various types of development letters and their notifications clear and actionable in CST.
+- CST's tracked items content model works to make various types of development letters and their notifications clear and actionable in CST.
 
 ## Methodology	
 Semi-structured interview
