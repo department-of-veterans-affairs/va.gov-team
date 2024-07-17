@@ -5,7 +5,7 @@
   - Nathan Burgess
     - Release the Document Upload Failure Notifications for the 526
     - Start the work on the Document Upload System Failure Emails
-      -  4142 email notification first
+      -  4142 email notification 
       -  0781 and 0781a discovery
       
   - Sam Stuckey
