@@ -8,8 +8,8 @@ The Cartography team has since been working on analytics monitoring of the trans
 In July 2024, OCTO prioritized monitoring the current page and making very few iterations to the page, and our goal is to measure the extent to which this landing page is "successful" or not. By which we mean, is it meeting Veteran needs and expectations for a health portal hosted on VA.gov? An analytics evaluation plan is being drafted to get at better answering that question. But alongside that effort, we also conducted desk research to evaluate any potential gaps that may exist between the current state of the landing page, and what we already know Veterans likely expect. 
 
 ## Resources 
-* MURAL capturing gap analysis work
-* MURAL evaluating the value proposition of the landing page 
+* [MURAL capturing gap analysis work](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720032090287/45ea8c3a6b9565d9fc9153ef904439297f8e5849?sender=uf94a77a19aaf687331c09367)
+* [MURAL evaluating the value proposition of the landing page](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720626651406/8ca7814644add1eb1ccc71085af34de249f35ded?sender=uf94a77a19aaf687331c09367) 
 
 ## What is a "gap"?
 We define a gap as the space between where we are now, and where we need to be in order to meet Veteran and business needs. 
