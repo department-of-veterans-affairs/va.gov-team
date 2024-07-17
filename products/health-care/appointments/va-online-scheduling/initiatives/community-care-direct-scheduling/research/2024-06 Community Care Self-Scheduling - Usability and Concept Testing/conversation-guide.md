@@ -27,11 +27,9 @@
 
 - Today, we're going to talk about receiving approval to self-schedule an appointment with a a community care provider. 
 
-- Before we start, I have a few things that I want to go over with you:
-
 ---
 ## Warm up questions - 3 minutes 
-- Before we go to the prototype, let’s start with a few warm-up questions:
+- Before we start, I have a few warm-up questions for you:
 
 - _If the participant is using a screen reader:_
   - Are you using a screen reader or other assistive technology today? If so, what type? (For example, VoiceOver.)
@@ -54,7 +52,7 @@
 
 ---
 ## Session overview - 3 minutes
-- Next, I have a few more things I'd like to go over with you.
+- Before we go to the prototype, I have a few more things that I want to go over with you:
 - **This entire session should take about 1 hour and 15 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers and we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to, and whether you choose to participate or not will not affect your benefits in any way with VA. If you'd like to stop the session or don't want to answer a question for any reason at any time, that's no problem. Just let me know.
