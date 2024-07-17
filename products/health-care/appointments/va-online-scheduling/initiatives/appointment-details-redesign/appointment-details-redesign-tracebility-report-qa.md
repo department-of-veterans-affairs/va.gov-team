@@ -90,7 +90,7 @@
 
 Issue found when testing "Canceled upcoming video appointment" along with the "Past video appointment". After each line of text in the Scheduling facility area, the acreen reader is stopping and saying "empty group"
 
-**For each of the appointment detail pages check the following: **
+**For each of the appointment detail pages check the following:**
 
 - Use VoiceOver to navigate through the page, listening for logical reading order, clear descriptions, and ease of navigation.
 - Check for alternative text on images by navigating to them and listening to the descriptions provided by VoiceOver.
