@@ -13,7 +13,7 @@ At a minimum, we will need to do:
 - [Inhouse manual testing for accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-we-audit.md). In addition to: trauma informed design checks for the components in our patterns.
 - Establish a testing protocol for patterns according to their governance documentation.
 - Consult with CIAI for accessibility testing.
-- Consult with the either Governance team or CIAI for documentation review regarding the Governance of the design pattern.
+- Consult with the either Governance team or CAIA for documentation review regarding the Governance of the design pattern.
 ## Next Steps
 I suggest we have a discussion with Becky about what our workflow should look like and gather feedback on the above suggestion as a starting point. I also suggest that we meet with the VADS team.
 ## Additional Resources							
