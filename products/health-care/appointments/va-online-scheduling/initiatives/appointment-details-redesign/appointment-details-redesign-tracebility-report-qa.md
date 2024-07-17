@@ -72,23 +72,23 @@
 
 | Screenreader| Test | Test result | Issue | 
 | ------- | ---------- | ----- | ----- |
-| Announce navigation options | Test with Voiceover on Mac, TalkBack on Android| Passed | N/A|
-| Announce upcoming appointment date/time info | Test with Voiceover on Mac, TalkBack on Android| Passed 	| N/A|
-| Announce upcoming appointment type of care | Test with Voiceover on Mac, TalkBack on Android| Passed | N/A|
-| Announce upcoming appointment provider | Test with Voiceover on Mac, TalkBack on Android| Passed 	| N/A|
-| Announce upcoming appointment modality | Test with Voiceover on Mac, TalkBack on Android| Passed 	| N/A|
-| Announce upcoming appointment location| Test with Voiceover on Mac, TalkBack on Android| Passed 	| N/A|
-| Announce past appointment date/time info | Test with Voiceover on Mac, TalkBack on Android| Passed 	| N/A|
-| Announce past appointment type of care | Test with Voiceover on Mac, TalkBack on Android| Passed	| N/A|
-| Announce past appointment provider | Test with Voiceover on Mac, TalkBack on Android| tbd	| N/A|
-| Announce past appointment modality | Test with Voiceover on Mac, TalkBack on Android| tbd	| N/A|
-| Announce past appointment location | Test with Voiceover on Mac, TalkBack on Android| tbd	| N/A|
-| Announce past appointment combo box| Test with Voiceover on Mac, TalkBack on Android| tbd	| N/A|
-| Announce request type of care | Test with Voiceover on Mac, TalkBack on Android| Passed	| N/A|
-| Announce request modality | Test with Voiceover on Mac, TalkBack on Android| Passed	| N/A|
-| Announce request location | Test with Voiceover on Mac, TalkBack on Android| Passed	| N/A|
+| Announce navigation options | Test with Voiceover on Mac | Passed | N/A|
+| Announce upcoming appointment date/time info | Test with Voiceover on Mac| Passed 	| N/A|
+| Announce upcoming appointment type of care | Test with Voiceover on Mac| Passed | N/A|
+| Announce upcoming appointment provider | Test with Voiceover on Mac| Passed 	| N/A|
+| Announce upcoming appointment modality | Test with Voiceover on Mac| Passed 	| N/A|
+| Announce upcoming appointment location| Test with Voiceover on Mac| Passed 	| N/A|
+| Announce past appointment date/time info | Test with Voiceover on Mac| Passed 	| N/A|
+| Announce past appointment type of care | TTest with Voiceover on Mac| Passed	| N/A|
+| Announce past appointment provider | Test with Voiceover on Mac| Passed	| N/A|
+| Announce past appointment modality | TTest with Voiceover on Mac| Passed	| N/A|
+| Announce past appointment location | Test with Voiceover on Mac| Passed	| N/A|
+| Announce past appointment combo box| Test with Voiceover on Mac| ?	| N/A|
+| Announce request type of care | Test with Voiceover on Mac| Passed	| N/A|
+| Announce request modality | Test with Voiceover on Mac| Passed	| N/A|
+| Announce request location | TTest with Voiceover on Mac| Passed	| N/A|
 
-Issue found when testing Canceled upcoming video appointment. After each line of text in the Scheduling facility area, the acreen reader is stopping and saying "empty group"
+Issue found when testing "Canceled upcoming video appointment" along with the "Past video appointment". After each line of text in the Scheduling facility area, the acreen reader is stopping and saying "empty group"
 
 ### Upcoming Appointments
 - [x] **Phone**
@@ -106,9 +106,9 @@ Issue found when testing Canceled upcoming video appointment. After each line of
 - [x]  **Video**
 
 ### Past Appointments
-- [ ]  **Phone**
-- [ ]  **In Person**
-- [ ]  **Video**
+- [ ]  **Phone** (Judy does not have)
+- [x]  **In Person**
+- [x]  **Video**
 
 
 |  Upcoming: Phone General accessibility| Test | Test result | Issue | 
