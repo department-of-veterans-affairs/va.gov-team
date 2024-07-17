@@ -27,7 +27,7 @@ In Sprint 14, the team provided support for multiple features and initiatives, o
 * #### Backend support for Oracle Health routing appointment requests to VetsAPI Patient Gateway for appointment requests
   * Vets API Patient Gateway was updated to return the last seen date for each patient relationship. This will facilitate the ranking of patient relationships when evaluating appointment eligibility.
 * #### Backend support to build VetsAPI Patient Gateway to extend VAOS with Oracle Health write-back capabilities: 
-   * Clincial Encounter Service was updated to replace SAS appointment type functionality. CES can now retrieve valid vista appointment types from Vista Fhir Adapater rather than the SAS client.
+   * Clincial Encounter Service was updated to replace SAS appointment type functionality. 
    * Vets API Patient Gateway had several updates in sprint 14 to extend VAOS with Oracle Health write-back capabilities. VPG was updated to ensure that all containers loaded during the VPG build are using the latest version and that each service reference is updated to the latest available version. VPG migrated scheduling configuration calls from the deprecated Mobile Facility Service API to use Clinic Scheduling Config Service instead. Additionally VPG replaced VAOS proxy calls with dedicated client calls. This allows for VPG to have more flexibility and control over validating VAOS operations. To enable downstream consumers to filter based on location, VPG was also updated to pull location data from identifier.
    
 ## 🏆 Sprint Goals and Stories
@@ -48,4 +48,4 @@ In Sprint 14, the team provided support for multiple features and initiatives, o
 
 
 ## ✈️ Planned Releases
-None
+Cerner Location Service Prod release requested 7/18/24 NGD-20301
