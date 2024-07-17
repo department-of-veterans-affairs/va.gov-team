@@ -7,3 +7,4 @@ Following the [gap analysis](https://dvagov.sharepoint.com/:w:/r/sites/HealthApa
 * [Participant notes](Participant%20notes%20-%20VAOS%20and%20MHV%20appointments%20list%20discovery.xlsx)
 * [Research findings](research-findings.md)
 * [Research findings - slide deck](Research%20Presentation%20-%20MHV%2BVAOS%20Appointments%20List%20Discovery.pdf)
+* [Research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/78)
