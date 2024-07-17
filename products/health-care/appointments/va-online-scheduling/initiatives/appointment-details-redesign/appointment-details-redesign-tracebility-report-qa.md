@@ -88,6 +88,22 @@
 | Announce request modality | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
 | Announce request location | Test with Voiceover on Mac, TalkBack on Android| TBD	| N/A|
 
+### Upcoming Appointments
+- [x] **Phone**
+- [x]  **In Person**
+- [x]  **Video**
+
+### Pending Appointments
+- [x]  **Phone**
+- [x]  **In Person**
+- [ ]  **Video** (Judy does not have)
+
+### Canceled Appointments
+- [x]  **Phone**
+- [x]  **In Person**
+- [x]  **Video**
+
+
 |  Upcoming: Phone General accessibility| Test | Test result | Issue | 
 | ------- | ---------- | ----- | ----- |
 | All text of 20px or smaller has a 4.5:1 contrast ratio to its background (or better) | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed	| N/A|
@@ -254,8 +270,6 @@
 
 
 
-
-Here's the simplified template:
 
 ### Upcoming Appointments
 - [x] **Phone**
