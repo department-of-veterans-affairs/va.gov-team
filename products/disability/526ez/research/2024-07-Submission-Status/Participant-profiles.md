@@ -11,7 +11,7 @@ Sessions ran 60 minutes and asked participants for feedback on 2-3 possible subm
 Please direct any questions about recordings, participants, or the study to Evelyn Hilbrich Davis at evelyn@cityfriends.tech. 
 
 ## How to watch a recording
-All recordings are available in our Sharepoint research folder:https://dvagov.sharepoint.com/:f:/s/vaabdvro/EgClpik4g09KuYCp4wHSt3MBWhQmME18pi_w3OipVD6FNw?e=Nfdo6e
+All recordings are available in our Sharepoint research folder: https://dvagov.sharepoint.com/:f:/s/vaabdvro/EgClpik4g09KuYCp4wHSt3MBWhQmME18pi_w3OipVD6FNw?e=Nfdo6e
 
 Downloading or saving recordings is prohibited, please view only. 
 
