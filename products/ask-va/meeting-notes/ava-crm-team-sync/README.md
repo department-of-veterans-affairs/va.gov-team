@@ -1,3 +1,34 @@
+## Meeting Notes for CRM Sync on 07/16/2024
+
+Rollout and Rollback
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+* Release will be staged 1x per day (canary monday, 25% tuesday...) for mid month
+* Release will be able to be rolled back through dynamic toggles (no deployment needed)
+* In case of roll back or needed notifications, CRM will upload an announcement to AVA home page
+* Users will be mapped to AVA experience via a MessageID, assigned at the start of a session, which will be visible via API response.
+
+### Action Items:
+
+- [X] JOE: Send Branches of Service list to Chris for validation with VBA.
+- [X] JOE: Schedule a new meeting to review rollout plan with CRM, including things like rollback and staggered release.
+- [ ] JOE/CEECEE: Reach out to MHV or Debt Resolution Team to discuss learnings from staged release
+    - Perhaps ping Travel Pay team as well since their model so closely follows ours. Might have useful insights.
+- [ ] CEECEE/TERRI: Look @ powerBI to determine 10% of users
+- [ ] CEECEE: Define rollback severity & justification (catastrophic etc.)
+- [ ] JOE: Upload release plan + Notes to Gitub
+- [ ] AVA VA.gov Team: Continue to gather AVA URLs
+- [ ] JOE: Create a new issue to track documenting our process for post-release changes and defects, from intake to deploy. Share with CRM.
+- [ ] JOE: Create a new issue to implement the "Policy Number" field for Life Insurance flow, post-release.
+- [ ] JOE/CeeCee: Discuss testing timeline, touchpoint, and their place in the roadmap for both teams in a future CRM Sync.
+
+
 ## Meeting Notes for CRM Sync on 07/09/2024
 
 E2E Testing and More
