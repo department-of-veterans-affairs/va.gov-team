@@ -32,7 +32,7 @@ Today, we're going to talk about receiving approval to self-schedule an appointm
 
 - Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 45 minutes (_1 hour and 15 minutes for AT users_).** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 1 hour and 15 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers and we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to, and whether you choose to participate or not will not affect your benefits in any way with VA. If you'd like to stop the session or don't want to answer a question for any reason at any time, that's no problem. Just let me know.
 
@@ -113,8 +113,7 @@ _Note for moderator: If Veteran has difficulty answering some of these questions
 
 - Ok, I’m sending you the prototype link now. 
 
-   - _Send [Figma prototype link](https://www.figma.com/proto/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=294-3585&t=LCu6HynSx7l1uQBW-1)._
-   - (for AT users) _Send [CodePen prototype link](https://codepen.io/team/va-cie/live/WNBQNxb)._
+   - _Send [CodePen prototype link](https://codepen.io/team/va-cie/live/WNBQNxb)._
 
 - You can go ahead and select that link. And let me know when you have that open. 
 
@@ -129,8 +128,6 @@ _Note for moderator: If Veteran has difficulty answering some of these questions
 
 - Ok, now I’d like to be able to see your screen so I can see how you’re using the prototype. **Are you comfortable sharing your screen with me today?**
    - _If no:_ No problem. In that case, would you be able to describe aloud to me what you are doing as you go through the prototype?
-     - _If still no, for non-screen reader users, moderator can choose to share their own screen._
-        - No problem. I'd like to try something else. I'll share my screen and control the prototype, but you can tell me what you would do next and I'll do that. How does that sound?
           
    - _If yes:_ Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now.
 
@@ -166,15 +163,7 @@ _Note for moderator: Get through this section quickly to save time._
 
 _**Participant is at mock sign in page:**_
 
-- At this point you would sign in to VA.gov, but go ahead and choose ID.me, since this is just a prototype representing a sign in.
-  
-- And, go ahead and begin to add your email address and it will auto-populate some information.
-  
-- Great. Now, go ahead and select "Sign in" to continue.
-  
-- And, once more, go ahead and begin to enter the 6-digit code that was, if we're imagining, texted to you.
-
-- Perfect. And, go ahead and select "Continue." 
+- At this point you would sign in to VA.gov, but go ahead and choose any option, since this is just a prototype representing a sign in.
 
 ---
 
@@ -196,10 +185,10 @@ _**Participant is at Appointment list:**_
 
 - _If task card was not mentioned:_ 
   - Did you notice anything about a scheduling an appointment? 
-  - Did you notice the box at the top of the page? And, what does that seem to mean to you?
+  - Did you notice the card at the top of the page? And, what does that mean to you?
 
 - _If expiration date was not mentioned:_
-  - Did you notice the expiration date for scheduling an appointment? And, what was your reaction when reviewing it?
+  - Did you notice the expiration date for scheduling an appointment? And, what was your reaction when reviewing that?
     
   - _If needed:_
     - Knowing that there's an expiration date, how does that affect how you’re thinking about this scheduling process? (For example, does it change how you’re thinking about it at all?)
@@ -230,7 +219,7 @@ _**Participant is on referral page:**_
 _**Participant is on provider page:**_ 
 - Tell me about this page.
 
-- _If preferred provider wasn't mentioned:_ What's your understanding of the box at the top of the page?
+- _If preferred provider wasn't mentioned:_ What's your understanding of the (card) section at the top of the page?
   
 - And without doing anything, I'm curious -- from here, how would you continue through finding a provider if I wasn't guiding you?
 
@@ -238,7 +227,7 @@ _**Participant is on provider page:**_
 
 - Go ahead and walk me through how you'd do that.
   
-- **Did you notice the "Filter and sort" link? Okay, now go ahead and select that link.**
+- _If needed:_ **Did you notice the "Filter and sort" link? Okay, now go ahead and select that link.**
   
 ---
 
@@ -274,7 +263,7 @@ _**Participant is on filter page:**_
 
 - Ok, and without doing anything yet, could you describe what filters you might select on this page?
   
-- Ok, for the purposes of this session, you can go ahead and select [Any practice], then the first option in the drop down, and select [Only show providers with online scheduling]. Then, submit those choices. 
+- Ok, for the purposes of this session, you can go ahead and select [Any practice], then the first option in the drop down, and select [Only show providers with online scheduling]. Then, for provider gender, you can select female. And then, submit those choices. 
 
 ---
 
@@ -287,17 +276,22 @@ _**Participant is on 2nd provider page:**_
 
 - And how does this match up to what you expected to find after submitting those options? 
 
-- Ok, thank you. Let's pretend that the first provider under "All providers" matches what you're looking for. Go ahead and choose that provider.
+- _If participant is using a screen reader:_
+  - Ok, thank you. Let's pretend that the first provider under "All providers" (Dr. Kristina Jones, MD) matches what you're searching for. Go ahead and choose that provider.
 
+- _If participant is using screen magnification (or no AT):_
+  - Ok, thank you. Let's pretend that the second provider under "All providers" (Dr. Callista Grimes, DO) matches what you're searching for. Go ahead and choose that provider.
 
 ---
 
 _**Participant is on choose time and date page:**_
-- Is there anything confusing about this page and the information included here?
-  
-- Is there anything missing you’d expect to find on this page?
 
-- Now, slowly walk me through how you would continue from here and go ahead and take those next steps. _(Stop participant to ask about any usability hurdles)_
+- This page is not completely accurate for what would actually be here, but we do have a representation of the steps you’d take at this point. Could you review those and talk me through that?
+- _If needed:_
+  - Is there anything confusing about this page and the information included here?
+  - Is there anything missing you’d expect to find on this page?
+
+- Thank you. Now, let’s imagine we selected July 26 for the date and then 8:30 am for the time. And, keeping that in mind, you can go ahead and select continue.
 
 ---
 
@@ -331,8 +325,6 @@ _**Participant is on success/detail page:**_
 
 _**Participant is on appointment list page (no task card):**_
 - Great. So, earlier, I asked you an open-ended question about where you would expect to find a list of your referrals. So, now, I’d like to get your feedback on an early concept for where those referrals might be located in this tool. 
-
-- Earlier, you mentioned that _______. **_(RECAP where the participant expected to find referrals from their earlier responses.)_**.
 
 - At this point, let's say you remembered you had another referral waiting to be self-scheduled. From this page, without selecting anything yet, where would you go to find that referral?
 
