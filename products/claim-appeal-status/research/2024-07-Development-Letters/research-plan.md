@@ -1,7 +1,7 @@
-# (WIP) Research Plan: Development Letters
+# Research Plan: Benefit claims development letters
 
 ## Background
-Veterans can currently access decision letters and 5103 Notice letters from the Claim Letters page. There are a number of "development letters" and other correspondence letters that the VA sends to Veterans that we want to also make available on this page for easy access.
+Veterans can currently access decision letters and 5103 response request notice letters from the VA.gov Claim Status Tool. VBA sends Veterans a number of "development letters" and other correspondence letters that VBA wants to also make available on this page in order to give Veterans the ability to elect digital-only communications in the future.
 
 As we introduce these letters to the Claim Letters page, we need to better understand the current experience of Veterans who receive development letters. What are some pain points in the current process that we might be able to help resolve by adding these letters to CST? 
 
@@ -18,14 +18,16 @@ This work supports a Veteran whenever they are filing a disability compensation 
 
 ## Research Goals	
 1. Understand more about Veterans' experience with development letters today, including pain points and things that seem to be working.
-2. Evaluate the efficacy of the new 5103 Notice design. Is it clear what Veterans are being asked to do? Is it clear how it relates to the 5103 Notice letter?
-3. Asses how well our "content model" for alerts works across a variety of different request types associated with development letters.
+2. Evaluate the efficacy of the new 5103 Notice design. 
+3. Asses how well CST's tracked items "content model" for alerts works across a variety of different request types associated with development letters.
  
 
 ### Outcome
 Identify pain points in the current development letters experience that we might help resolve with CST user experience improvements. Identify any issues with the new 5103 design and solidify a user-validated model for how we should communicate information and action items related to development letters in CST.
 
 ### Research questions
+
+- Is it clear what Veterans are being asked to do? Is it clear how it relates to the 5103 Notice letter?
 
 **Part 1: Understanding development letters experience**
 - Do you remember receiving letters from the VA while you were waiting for your claim?
@@ -51,6 +53,7 @@ Identify pain points in the current development letters experience that we might
 - Veterans will have had some confusing or frustrating experiences with development letters while their claim was being processed.
 - There are opportunities to improve the experience of receiving development letters by including them in CST.
 - The new 5103 design makes it clear to Veterans what the 5103 Notice letter is for and what is being asked of them.
+- It is reasonably easy for Veterans to find the development letter they're looking for among the full list of letters in the Claim Letters page.
 - The "content model" works to make various types of development letters and their notifications clear and actionable in CST.
 
 ## Methodology	
