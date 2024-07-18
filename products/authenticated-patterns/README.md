@@ -6,6 +6,7 @@ Crafting evidence-based, adaptable and adoptable design patterns that will impro
 ## Table of contents
 
 - [Our north star](#our-north-star)
+- [Where to find us](#what-is-an-authenticated-design-pattern)
 - [Team Members](#team-members)
 - [Where to find us](#where-to-find-us)
 ---
@@ -22,6 +23,9 @@ Our north star: Crafting evidence-based, adaptable and adoptable design patterns
 * Across government digital services: extendable across many VA teams and other  federal agencies 
 
  Our work ultimately makes it easier for other teams to build personalized, consistent authenticated exeriences.
+ 
+### What is an Authenticated Design Pattern?
+It is the sum of many components shared across one or more pages that create an optimal user flow within authenticated products or platforms. It should include governance and usage guidelines, code for components and pages, and examples.
 
 ### Team members
 * Beck Phung: VA Product Owner @beckyphung 
