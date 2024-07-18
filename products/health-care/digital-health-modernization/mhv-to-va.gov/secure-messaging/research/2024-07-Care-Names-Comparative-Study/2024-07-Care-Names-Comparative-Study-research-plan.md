@@ -104,21 +104,21 @@ Cohort 7: Current state (n=9) Link: https://ows.io/cm/j0c0il9u
 
 Cohort 8: Current state (n=5) Link: https://ows.io/cm/kunu74ql
 
-Cohort 9: Location (n=9)
+Cohort 9: Location (n=9) Link: https://ows.io/cm/t4q5uatu
 
-Cohort 10: Location (n=9)
+Cohort 10: Location (n=9) Link: https://ows.io/cm/sgcceq19
 
-Cohort 11: Location (n=9)
+Cohort 11: Location (n=9) Link: https://ows.io/cm/3fp6muz1
 
-Cohort 12: Location (n=9)
+Cohort 12: Location (n=9) Link: https://ows.io/cm/wgxd79o1
 
-Cohort 13: Location (n=9)
+Cohort 13: Location (n=9) Link: https://ows.io/cm/abp3wohi
 
-Cohort 14: Location (n=9)
+Cohort 14: Location (n=9) Link: https://ows.io/cm/cqv3rfkv
 
-Cohort 15: Location (n=9)
+Cohort 15: Location (n=9) Link: https://ows.io/cm/ztktuzd5
 
-Cohort 16: Location (n=5)
+Cohort 16: Location (n=5) Link: https://ows.io/cm/z2h4qapx
 
 Cohort 17: Provider (n=9)
 
