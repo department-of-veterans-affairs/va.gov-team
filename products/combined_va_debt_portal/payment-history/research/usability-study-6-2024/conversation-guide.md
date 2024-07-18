@@ -161,8 +161,16 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
     Time on task: ( fill in )
 
 -   Based on what you see here, what does the information on this page tell you about your debt?
-    
--   When is the next payment due?
+
+-    The next 2 questions were condensed on 7/18 after interview 3:
+
+  
+-    What is your debt balance and when is it due?
+	Success criteria:
+·       April 1, 2024, $830 (pass)
+
+
+-   [When is the next payment due?
     
     **Success criteria:**
     
@@ -181,7 +189,7 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
     
  - [ ]     Say the wrong number initially, but correct with further prompting (partial pass)
     
- - [ ]     They don’t know (fail)
+ - [ ]     They don’t know (fail)]
 
 - How do you feel about the amount of information on financial data points that you see here? (too much, too little)
 
