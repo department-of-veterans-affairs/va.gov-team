@@ -277,7 +277,7 @@ Prompt: Take a look at the top of your screen, can you tell me what you see up t
 
 #### Things to watch for:
 
-- How do they feel abou thaving to hit the back button so many times to get out of the scheduleing flow and back to their appointment list?
+- How do they feel about having to hit the back button so many times to get out of the scheduleing flow and back to their appointment list?
 
 ## 4: New Notification
 
