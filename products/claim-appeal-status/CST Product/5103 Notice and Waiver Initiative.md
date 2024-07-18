@@ -52,7 +52,7 @@ Our core bet is that if we provide veterans with a clearer understanding of 5103
 ## Out of scope
 
 * Other types of notices or waivers
-* Non-disability compensation claims
+* Claim types that don't receive 5103 requests
 
 ## How we will know if we are right (KPIs)
 
