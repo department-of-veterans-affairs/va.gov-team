@@ -37,7 +37,7 @@ Knowing that, are you comfortable if I record my screen and audio as we talk tod
   - What have you done so far to prepare your claim?
   - Are you working with anyone to help you?
  
-## Discuss details of either a past claim OR future claim
+## Discuss details of either a past claim OR future claim (5 min)
 *Moderator: Choose whether to focus on a future claim OR a past claim for this section. Do not try to cover both.*
 
 ### Future claim
@@ -72,7 +72,23 @@ Knowing that, are you comfortable if I record my screen and audio as we talk tod
   - What has happened with the claim since you submitted it?
     - Have the VA sent you to a C&P exam?
 
+## Concept evaluation
+### Introduction (5-10 min)
+- We’re working on content to help Veterans understand what is needed when they file a disability claim. Today, we’ll look at a document with this content together. I’m going to share my screen with you.
+- [share screen with content doc] Are you able to see my screen?
+  - *if yes* Great. Let's take a look at our first scenario.
+  - *if no: Troubleshoot*
+### Scenario 1: Generic (All Conditions)
+*Focus doc on content for “Scenario 1”* Imagine that you’re planning to file for a new condition for disability compensation. You can think about [x condition] you mentioned earlier.
+- Read through this content. Verbalize your thoughts aloud as you read.
+- *after reading*: What are your first impressions about this content? What information stood out to you?
+  - *Possible follow ups:* are there any questions that came up for you when you read this content? Is there any content in particular that makes you feel more or less confident about what to submit with a claim? 
+- *after discussing*: After reading this, what information would you try to provide to VA when filing for a new condition?
+ - *Follow-up*: What kind of documents would you look for to submit when you file your claim?
+- What would be your next steps before you file a new claim? Why?
 
+### Scenario 2a: Hypertension
+### Scenario 2b: Tinnitus
 
 
 
