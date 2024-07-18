@@ -42,9 +42,9 @@ See Appendix below for full milestone breakdown.
 | 1: Gulf war exposures                | May 21, 2024 | Complete    |                                                              |
 | 2: Herbicides and hazards            | July 3, 2024 | Complete    | Delayed by 5103 FDC update 5/16/24 & bugs in submit endpoint |
 | 3: Launch preparation                | Jul 22, 2024 | In Progress | Original date of 6/18 shifted due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review                                                             |
-| 4: Migrate /getPDF and /submit to LH |              | In Progress |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning this migration, delayed for Code Yellow. Lighthouse Submit available in LH staging environment 6/6/24, pending LH production release                                                              |
-| 5: New forms                         | Aug 1, 2024  | Not started |Dependent on submit migration completion                                                              |
-| 6: Vets with an IPF                  | Aug 15, 2024 | Not started |Targeting 14-21 days after new forms                                                              |
+| 4: Migrate /getPDF and /submit to LH |              | In Progress |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning /getPDF migration, /getPDF and /submit and TE all behind the same FF. Delayed for Code Yellow(?) Awaiting validation issue fixes from LH. Currently testing E2E.                                                              |
+| 5: Rollout: New forms (1.0)                         | Aug 1, 2024 (come back)  | Not started |                                                               |
+| 6: Rollout Vets with an IPF (1.1)                  | Aug 15, 2024 | Not started |Targeting 14-21 days after new forms (come back)                                                              |
 
 *Dates may vary
 
@@ -74,24 +74,24 @@ See Appendix below for full milestone breakdown.
 ## Use Cases
 There are two use cases that we are considering for this release. For each, we plan to follow an incremental release strategy using established traffic percentages to route Veterans to the 526 form. We plan to use Flipper to control availabity for each use case. In the 2019 form version, the toxic exposure section is not available to the Veteran. In 2022 form version, the toxic exposure section is available to the Veteran.
 
-### 1. New Forms
+### 1. New Forms (1.0)
 1. Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans do not have an IPF, and may or may not have a previous Intent To File (ITF).
 - Before full release:
-  - Authenticated users may be directed to fill out the 2022 form version of the form depending on the level of incremental traffic set for the 2022 form (25%/50%/75%/100%). Veterans who are not directed by the feature flag to complete the 2022 version of the form will complete the 2019 version. Veterans that are directed to the 2022 form version who leave the active session and return will be taken back to the 2022 form version. Veterans on the 2022 form version will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions.
+  - Authenticated users may be directed to fill out the 2022 form version of the form depending on the level of incremental traffic set for the 2022 form (25%/50%/75%/100%). Veterans who are not directed by the feature flag to complete the 2022 version of the form will complete the 2019 version. Veterans that are directed to the 2022 form version who leave the active session and return will be taken back to the 2022 form version.
 - After 100% release:
-  - All authenticated users who begin a new 526 form will be directed to the 2022 form version and will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions. Veterans who leave the active session and return will be taken back to the 2022 form version.
+  - All authenticated users who begin a new 526 form will be directed to the 2022 form version. Veterans who leave the active session and return will be taken back to the 2022 form version.
 
-### 2. Veterans With an In Progress Form
+### 2. Veterans With an In Progress Form (1.1)
 - Before full release
-  - Authenticated users who resume an in progress 526 form may be directed to fill out the 2022 form version of the form depending on the level of incremental traffic set for the 2022 form (25%/50%/75%/100%). Veterans who are not directed by the feature flag to complete the 2022 version of the form will complete the 2019 version. Veterans that are directed to the 2022 form version who leave the active session and return will be taken back to the 2022 form version. Veterans on the 2022 form version will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions. 
+  - After we've reached the 100% incremental release for 1.0, authenticated users who resume an in progress 526 form may be directed to fill out the 2022 form version of the form depending on the level of incremental traffic set for the 2022 form (25%/50%/75%/100%). Veterans who are not directed by the feature flag to complete the 2022 version of the form will complete the 2019 version. Veterans that are directed to the 2022 form version who leave the active session and return will be taken back to the 2022 form version. Veterans on the 2022 form version will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions. 
 - After 100% release
   - All authenticated users who resume an in progress 526 form will be directed to the 2022 form version and will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions. Veterans who leave the active session and return will be taken back to the 2022 form version.
 
 | Phase                                | Flipper Status | Form in Progress | Visible Form | TE Alert Displayed |
 |--------------------------------------|----------------|------------------|--------------|--------------------|
 | 5: New forms                         | Disabled       | No               | 2019         | No                 |
-| 5: New forms                         | Enabled        | No               | 2022         | Yes                |
-| 5: All New Forms (after 100%)        | N/A            | No               | 2022         | Yes                |
+| 5: New forms                         | Enabled        | No               | 2022         | No                |
+| 5: All New Forms (after 100%)        | N/A            | No               | 2022         | No                |
 | 6: Vets with an IPF                  | Disabled       | Yes, 2019        | 2019         | No                 |
 | 6: Vets with an IPF                  | Enabled        | Yes, 2019        | 2022         | Yes                |
 | 6: All Vets with an IPF (after 100%) | N/A            | Yes, 2019              | 2022         | Yes                |
@@ -103,74 +103,41 @@ You'll need to create a feature toggle (or two) for any moderately or significan
 
 List the features toggles here.
 
-| Toggle name | toggleValue | Description |
+| Toggle name | Feature | Description |
 | ----------- | ----------- | ----------- |
-| startedFormVersion | 1.0 | Enable the 2022 form when form is created |
-| startedFormVersion | 1.1 | Enable the 2022 form when in progress form is retrieved |
+| disability_526_toxic_exposure | 1.0 | Enable the 2022 form when form is created |
+| disability_526_toxic_exposure_ipf | 1.1 | Enable the 2022 form when in progress form is retrieved |
 
 ## Step 2: Validation
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production).
 - [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [ ] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+    - [ ] review the release plan with your team and signoff
+    - [ ] review the plan with your DEPO/OCTO representative and signoff
+
 
 ## Step 3: Production Rollout
 
 ### Do I need a staged rollout?
 
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
+**Yes, we are doing a staged rollout**
 
 ### Define the Rollback process
-DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to 2019 of the form.
-
-Rollback plan:
-1. PM and PO monitor analytics for issues (failed submissions, traffic irregularies, unexpected errors).
-2. Engineering disables flipper which hides the 2022 form version.
-   - Users with in-progress 2022 sessions will finish out their 2022 session.
-   - New users will be directed to the 2019 form version.
+DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which would prevent any Veterans starting a new form from receiving the 2022 version of the form. In the event catasrophically wrong with the user filling out the form, our failsafe rollback would be to take them off the 2022 path by removing the startedFormVersion key from the Veteran's formData. This would require manipulating form data in the database. This would also drop completed TE form data from the Veteran's 2022 form, but the TE form data would still exist in the database.
 
 ## 1.0 New Forms
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 Due to the need to test against the production lightouse /submit endpoint, we'll be testing this feature in production behind a feature flag. To mitigate the risks of downstream actions that occur as a result of submitting an application for disability compensation, we'll work with our VBA stakeholders to delete the submission records in VBMS.
 
 #### Planning
-- Desired date range or test duration: Aug 2, 2024
-- Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in [this sheet](https://docs.google.com/spreadsheets/d/1qFzoRny9uDHegSh1CemWP_FhL606ki54Z-Go-04jOUA/edit?usp=sharing) (scenarios tab)
-- How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test
-- How you'll conduct the testing: using test users and validating the staging form payload submissions with downstream stakeholders
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: Flipper
+- Desired date range or test duration: Aug 2-3, 2024
+- Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in TestRail
+- How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test, could be ann (internal) Veteran
+- Submitting 6 full submissions could be done by less than 6 people
+- How you'll conduct the testing: using test users and validating the form payload submissions (Argo) with downstream stakeholders
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Flipper [disability_526_toxic_exposure]
 
 #### Results
 - Number of users:
@@ -182,6 +149,13 @@ Due to the need to test against the production lightouse /submit endpoint, we'll
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
+
+#### Rollback plan:
+1. PM, Disability teams 1 & 2, OCTO PO monitor analytics for issues (failed submissions, traffic irregularities, unexpected errors).
+2. Engineering disables flipper [disability_526_toxic_exposure] which hides the 2022 form version.
+   - Users with in-progress 2022 sessions will finish out their 2022 session.
+   - New users will be directed to the 2019 form version.
+   - When identified issues are 2x "normal", consider removing the startedFormVersion key from the Veteran's formData
 
 #### Rollout Planning
 - Desired date range: Aug 5 - Aug 23
