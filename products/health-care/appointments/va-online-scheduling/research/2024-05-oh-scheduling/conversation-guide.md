@@ -248,8 +248,6 @@ Question: What did you think about scheduling from a past appointment?
 
 Prompt: Now, say you want to go back to see a list of your appointments how would you do that?
 
-#### Scenario 2 questions
-
 Question: Of everything you just saw, what was the most helpful?
 
 Question: What was the most confusing?
@@ -270,6 +268,9 @@ Prompt: Now you want to go back to your list of appointments, how would you do t
 
 Prompt: Take a look at the top of your screen, can you tell me what you see up there?
 
+#### Things to watch for:
+
+- How do they feel abou thaving to hit the back button so many times to get out of the scheduleing flow and back to their appointment list?
 
 ## 4: New Notification
 
