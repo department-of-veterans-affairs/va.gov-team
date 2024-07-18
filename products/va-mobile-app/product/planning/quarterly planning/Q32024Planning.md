@@ -15,6 +15,5 @@ Topics:
    -  [Backwards Incompatibility with Android](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+Backward&pane=issue&itemId=71445284)
           - Qart will update the SDK
           - Feel work on strategy / handling of what we tell Veterans for possible incompabitble issues is outside Qarts scope and resources
-   -  Accessibility - Program Need & Technical Debt - Q3 [#9067](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?pane=issue&itemId=71135466)
    -  Android - Upgrade SDK before 8/31/24 - Backward incompatible change [#8914](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?pane=issue&itemId=71445284)
 
