@@ -302,6 +302,7 @@ Prompt: (If needed) I'm interested to hear what you think they're for, and where
 - Of everything you saw today, what was the most confusing or challenging?
 - What worked well?
 - What could we do better?
+- Do you have any questions or final thoughts?
 
 ## Thank-You and Closing
 
