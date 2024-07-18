@@ -20,7 +20,7 @@
 ## Intro - 1 minutes
 - Thanks for joining us today!
   
-- My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session. We also have [a11y support] here to help with any technology assistance.
+- My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session. We also have [A11Y SUPPORT NAME] here to help with any technology assistance.
 
 - _If observers are present in Zoom waiting room:_
   - I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
