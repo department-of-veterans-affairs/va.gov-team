@@ -1,4 +1,4 @@
-# CST: 5103 Notice and Waiver Understanding Improvement Initiative
+# CST: 5103 Notice and Waiver Initiative
 
 * GitHub Label: 
 * Slack channel: #benefits-management-tools
