@@ -60,6 +60,13 @@ I’ll walk you through the process of sharing your screen, then I'll send you a
 
 * Great, that helps me troubleshoot with you if we run into any problems.
 
+Are you familiar with the My VA health portal? Do you go to any of the following VAs: 
+Mann-Grandstaff VA Medical Center in Spokane, Washington
+Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
+VA Central Ohio Healthcare System in Columbus, Ohio
+Roseburg VA Health Care System in Roseburg, Oregon
+VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
+
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
 * Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/1dSk9a4KDxqxKzgRDmXyPu/Prototype%3A-Scheduling-improvements--%7C-Appointments-FE?page-id=4279%3A28230&node-id=4279-29644&viewport=387%2C210%2C0.03&t=6zLyw5Xz3C1KA6gj-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4279%3A29644)
