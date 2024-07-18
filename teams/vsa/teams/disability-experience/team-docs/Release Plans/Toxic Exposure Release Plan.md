@@ -103,9 +103,10 @@ You'll need to create a feature toggle (or two) for any moderately or significan
 
 List the features toggles here.
 
-| Toggle name | Description |
-| ----------- | ----------- |
-| startedFormVersion | Enable the 2022 form |
+| Toggle name | toggleValue | Description |
+| ----------- | ----------- | ----------- |
+| startedFormVersion | 1.0 | Enable the 2022 form when form is created |
+| startedFormVersion | 1.1 | Enable the 2022 form when in progress form is retrieved |
 
 ## Step 2: Validation
 
@@ -116,7 +117,40 @@ List the features toggles here.
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
 
-## Step 3: Production Rollout - 1.0 New Forms
+## Step 3: Production Rollout
+
+### Do I need a staged rollout?
+
+**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
+
+- This change does not add substantial new functionality to VA.gov
+- This change does not impact user flows through tasks
+- This change does not affect traffic to backend services
+
+*Example*: a change to a page's text content **could skip** staged rollout
+
+*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
+
+*Example*: adding a new field to an existing form **could skip** staged rollout
+
+*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
+
+*Example*: a significant change to how users navigate an existing form **needs staged rollout**
+
+*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
+
+#### Exceptions
+
+Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
+
+| Feature type | Possible with feature toggles? |
+| --- | --- |
+| New feature in existing application | Yes |
+| New application | Yes |
+| Static content changes | Doable but tricky |
+| URL redirects | No |
+
+DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 ### Define the Rollback process
 DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to 2019 of the form.
@@ -127,15 +161,16 @@ Rollback plan:
    - Users with in-progress 2022 sessions will finish out their 2022 session.
    - New users will be directed to the 2019 form version.
 
+## 1.0 New Forms
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 Due to the need to test against the production lightouse /submit endpoint, we'll be testing this feature in production behind a feature flag. To mitigate the risks of downstream actions that occur as a result of submitting an application for disability compensation, we'll work with our VBA stakeholders to delete the submission records in VBMS.
 
 #### Planning
-- Desired date range or test duration:
+- Desired date range or test duration: Aug 2, 2024
 - Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in [this sheet](https://docs.google.com/spreadsheets/d/1qFzoRny9uDHegSh1CemWP_FhL606ki54Z-Go-04jOUA/edit?usp=sharing) (scenarios tab)
 - How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test
 - How you'll conduct the testing: using test users and validating the staging form payload submissions with downstream stakeholders
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Flipper
 
 #### Results
 - Number of users:
@@ -149,11 +184,11 @@ Due to the need to test against the production lightouse /submit endpoint, we'll
 We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
 
 #### Rollout Planning
-- Desired date range: 
+- Desired date range: Aug 5 - Aug 23
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - Abandonment rate:
-  - Submission volume:
+  - Abandonment rate: The same or less than we have currently [Metric TBD]
+  - Submission volume: 21-526ez has ~7500 submissions per week. Over 15 days we're expecting ~15,000
     - Canary: 12 submissions
     - 5%/10%/25%/50%/75%: >10 submissions
   - Error rate: <1%
