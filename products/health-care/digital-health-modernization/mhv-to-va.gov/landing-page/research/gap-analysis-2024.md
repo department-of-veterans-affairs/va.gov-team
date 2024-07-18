@@ -6,7 +6,7 @@ On June 17, 2024, the My HealtheVet portal teams launched a large number of feat
 
 In July 2024, OCTO health leadership prioritized a "stay steady" approach, calling for UX efforts to focus on monitoring the current state and making design iterations only when user-identified pain points emerge in feedback. Alongside the monitoring effort, **our team saw value in conducting desk research to evaluate any potential gaps that may exist between the current state of the landing page, and what we know Veterans want and/or likely expect.** 
 
-**Table of contents:**
+**On this page:**
 - [Resources](#resources)
 - [What is a gap](#gap)
 - [Gap areas being analyzed](#gaps-analyzed)
