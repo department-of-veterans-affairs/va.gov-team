@@ -10,7 +10,8 @@
 | Date Request | Date Implemented | Change Request  |
 |----| ---- | ----| 
 | 9/26/23 | 11/14/23 | Inclusion of Proof of Veteran Status in Features, Updated images to be iPhone images and include Proof of Veteran Status | 
-| 6/24/24 | | Updating app store images to include updated Appointment changes | 
+| 6/24/24 | Not implemented, there were questions then VAHB was going to update the images anyway so we waited | Updating app store images to include updated Appointment changes | 
+| 6/24/24 | 6/28/24 | VAHB added alt-text file per discussion with Donna. VAHB modified internal processes for these to be updated when PMs update app store images |
 | 7/18/24 | | Updating appstore images to include HSP and Appointment Changes |
  
 
