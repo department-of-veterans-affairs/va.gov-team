@@ -17,7 +17,7 @@ Note to observers in thread:
 
 ## Intro - 5 minutes
 
-Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ____________.
+Thanks so much for joining today. My name is Melissa, very nice to meet you. I'm here with my notetaker ____________.
 
 Today I'm going to ask you to help test out scheduling on VA.gov. Your feedback will help us understand how to improve the site for Veterans in the future.
 
@@ -33,7 +33,7 @@ Before we begin, I want to give you some background on how today's session will 
 - I will have you share your screen and ask you to complete various tasks and give feedback as you go.
 - Please know that there are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the scheduling tool, not you.
 - There is no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
-- My priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
+- I understand that discussing medical topics even if it is just hypothetical can be difficult at times and my priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
 - This entire session will take no more than 60 minutes. I'll keep an eye on the time and try to keep us moving along so that we don’t go over.
 - Finally, I would like to record the session. We use recordings to make sure our notes are accurate. The recordings will be destroyed after we've completed the study.
    - Given that, is it ok if I record the screen and the audio during our session today?
