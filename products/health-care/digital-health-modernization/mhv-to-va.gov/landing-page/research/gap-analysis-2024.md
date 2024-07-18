@@ -33,24 +33,26 @@ We posit that some unmet Veteran and/or business needs might be identified by lo
 This research looked at previously conducted studies at the VA - some specific to earlier health portal generative research, broader healthcare benefit related research, and some broader research and artifacts that are adjacent to health work and outcomes. Those studies include:
 
 **Health research:**
-* Digital Health Modernization generative research - 2020
+* [Digital Health Modernization generative research - 2020](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607438166231/034610fe4b845af0212aedcd5868db72e8ee48c8?sender=ua13e567cb5c4221acaa14949)
 * Digital Health Modernization strategy - 2017
-* Preferred Health Facilities research - 2021
-* 10-10EZ Toxic Exposure Questions Usability Study (10-10 Health Apps Team) - 2024
+* [Preferred Health Facilities research - 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/preferred-health-facilities-research-report.pdf)
+* [10-10EZ Toxic Exposure Questions Usability Study (10-10 Health Apps Team) - 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy/research-findings.md)
 
 **Other Veteran research and artifacts:**
-* VA.gov home page top tasks research (Public Websites Team) - 2022
-* Personalized home screen evaluative research (VAHB Mobile App Team) - 2024
-* Generative research on Transitioning Service Members (Authenticated Experience Team) - 2024
-* VA.gov home page user research (Public Websites Team) - 2023
-* Authenticated user generative research (Authenticated Experience Team) - 2020
-* Caregiver Journey Map
-* Building trust with women Veterans journey map
+* [Logged in homepage dsicovery summary - 2022]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#people-want-a-task-based-logged-in-homepage-tailored-to-them))
+* [VA.gov home page top tasks research (Public Websites Team) - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research)
+* [Personalized home screen evaluative research (VAHB Mobile App Team) - 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20findings.md)
+* [Generative research on Transitioning Service Members (Authenticated Experience Team) - 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md#we-identified-things-that-would-foster-a-sense-of-trust-and-make-an-onboarding-experience-useful-if-we-want-to-pursue-it)
+* [VA.gov home page user research (Public Websites Team) - 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md)
+* [Authenticated user generative research (Authenticated Experience Team) - 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
+* [Caregiver Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/ab4809450af08fbe0ad41f1d7fc44ae5a959d752/platform/design/va-product-journey-maps/Caregiver-Journey-Map.pdf)
+* [Building trust with women Veterans journey map
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/ab4809450af08fbe0ad41f1d7fc44ae5a959d752/platform/design/va-product-journey-maps/Building%20Trust%20with%20Women%20Veterans%20Journey%20Map.pdf)
 
 **Related desk research:**
-* Personalization Competitive Analysis (VAHB Mobile App Team) - 2023
-* Review of related user research: VA mobile app personalization (VAHB Mobile App Team) - 2022
-* MyVA Design research - 2020
+* [Personalization Competitive Analysis (VAHB Mobile App Team) - 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
+* [Review of related user research: VA mobile app personalization (VAHB Mobile App Team) - 2022](about:blank)
+* [MyVA Design research - 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d70bc22ef0c0bcdcaea61e36c6adedf9fd50595c/products/identity-personalization/my-va/2.0-redesign/My%20VA%20redesign%20-%20UX%20research%20and%20design%20hub.md)
 
 #### Themes/Trends: 
 
