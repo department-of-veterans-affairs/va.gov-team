@@ -1,7 +1,9 @@
-# Comp & Pen, Disability and Pension Payment Notifications (WIP)
+# Comp & Pen, Disability and Pension Payment Notifications
+
+Notifications are live as of August 2024. The notification setting on VA.gov was enabled on July 17, 2024. The Q&A on the payment history page was launched on July XX, 2024.
 
 ## Overview
-7 million Veterans receive recurring disability or pension payments. An average of 35,000 calls a month come into the call center for payments and debts. Often, Veterans have questions about if and when they will be receiving payments.  
+About 7 million Veterans receive recurring disability or pension payments. An average of 35,000 calls a month come into the call center for payments and debts. Often, Veterans have questions about if and when they will be receiving payments.  
 
 ## Desired Outcome
 Increase proactive communication to Veterans via SMS, so they know when to expect payments. This should reduce calls to the call center.
@@ -27,23 +29,24 @@ Prior to launch VBA will release a promotional campaign with a combination of th
 - Social media posts
 
 ## Problems
-1. The business line (VBA) is unable to trigger these notifications because there's a separate system managing the payment data.
-2. Each month a batch of 7 million payments will trigger notification requests, however, only a fraction of that will receive SMS notifications based on explicit opt-in.  
+1. VBA Comp and Pen team is unable to trigger payment notifications because they do not have an integration with the financial system processing these payment events.
+2. Each month a batch of 7 million payments events will be processed by VA Notify, however, only a fraction of them result in an SMS notification based on the Veteran's opt in status. Due to the volume, we need to efficiently determine these notifiable events without having to look up all 7 million every month.
 
-## Solutions
-1. [Integration coming in 2023] In partnership with the Benefits Integration Administration group (BIA/BIP Solutions) we are creating a notification trigger workflow powered by Kafka. See requirements below:
-    1. https://community.max.gov/display/VAExternal/BIA-CK101+-+Kafka+Solution+Requirements+-+VA+Notify
-    2. https://community.max.gov/display/VAExternal/BIA-CK102+-+Kafka+Intake+Worksheet+-+VA+Notify
+## Key Features and Integrations
+- [Live 11/15/2022] In partnership with VA Profile we are creating a communication item (opt-in) sync to push updates to VA Notify. This is currently only used for the Comp & Pen preference so we can reduce the amount of calls to VA profile and MPI monthly to only those who have opted-in. When processing the monthly batch of payment events we will first check our opt-in cache to determine if a notification is needed.
+- [Live 4/10/2024] In partnership with Benefits Integration Platform team (BIP) we are consuming payment events from their kafka event bus. VA Notify consumes all payment events, filters down to the recurring payment event, and determines if these applicable events have an associated opt in.
+- [Live June 2024] In partnership with MPI, VA Notify prepares an opt in cache prior to each monthly payment processing event by mapping opt ins to the applicable beneficiary identifier, which will be found in the payment event received from BIP.
+- [Live August 2024] VA Notify sends texts during courtesy hours each month to avoid disturbing the Veteran too early or late in the day. Because we do not know the recipient's timezone, we've established a time window that will support Hawaii through Eastern timezones: 1pm - 9pm ET. Each month, texts will start sending on the 22nd. If there are too many notifiable events to send all texts in a single day, VA Notify will continue sending texts during the courtesy hours until the end of the month. The financial system processes recurring payments on varying days each month and the schedule may vary year to year. The payment processing dates appears to range from the 15th to the 21st, which is why we don't start sending texts until the 22nd. 
+- [Live 7/XX/2024] CAIA published a Q&A for this new feature with guidance on opt in here: https://www.va.gov/va-payment-history/
 
-2. [Live 11/15/22] In partnership with VA Profile we are creating a communication item (opt-in) sync. This is currently only used for the Comp & Pen preference so we can reduce the amount of calls to VA profile monthly to only those who have opted-in. When processing the monthly batch of payment events we will first check our opt-in cache to determine if a notification is needed.
-
-## Future enhancements
-There are also one-time/retroactive payments that may warrant a confirmation notification.
+## Potential Future Ideas
+- Additional Payment Type Notifications
+- Opt in confirmation texts with conditional guidance on when they will begin receiving texts
 
 ## Launch Activites
-- [ ] VA Notify to test workflow with Production Data, notifications disabled at this point
-- [ ] VA Notify reach out to VA.gov Profile team and VA Profile to enable comp and pen preference in VA.gov notifications settings
-- [ ] Align timing with the preference go-live date. VA Notify reach out to CAIA team to add opt-in messaging to payments page.  See this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77798)
-- [ ] 10DLC approved and assigned
-- [ ] Short code approved and assigned
-- [ ] Check with Customer Support on what they might need in case Veterans call with questions. ***FYI - we have already given them a heads up and a screenshot of the SMS content***
+- [x] VA Notify to test workflow with Production Data, notifications disabled at this point
+- [x] VA Notify reach out to VA.gov Profile team and VA Profile to enable comp and pen preference in VA.gov notifications settings - **Launched 7/17/2024**
+- [x] Align timing with the preference go-live date. VA Notify reach out to CAIA team to add opt-in messaging to payments page.  See this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77798)
+- [x] 10DLC approved and assigned
+- [x] Short code approved and assigned
+- [x] Check with Customer Support on what they might need in case Veterans call with questions. [Slack thread](https://dsva.slack.com/archives/CNCEXNXK4/p1710358048345799)
