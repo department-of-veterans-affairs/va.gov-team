@@ -86,28 +86,23 @@ Images to be tested
 [Pre- and post-task questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2024-07-Care-Names-Comparative-Study/2024-07-Care-Names-Comparative-Study-pre-and-post-task-questions.md)
 
 **Chalkmark tests**
-- Will add links to cohorts once preview version is approved by research ops. 
-- [Practice cohort link]([https://dj540s05.optimalworkshop.com/chalkmark/6d8e546da575a19a1514efe53c75d41b/completed](https://dj540s05.optimalworkshop.com/chalkmark/6d8e546da575a19a1514efe53c75d41b))
-- Preview link for location
-- Preview link for provider name
-
 Practice cohort: Current state (n=9)
 
-Cohort 1: Current state (n=9)
+Cohort 1: Current state (n=9) Link: https://ows.io/cm/bs7efxw0
 
-Cohort 2: Current state (n=9)
+Cohort 2: Current state (n=9) Link: https://ows.io/cm/qaz8j2fb
 
-Cohort 3: Current state (n=9)
+Cohort 3: Current state (n=9) Link: https://ows.io/cm/dip1dkf0
 
-Cohort 4: Current state (n=9)
+Cohort 4: Current state (n=9) Link: https://ows.io/cm/xe4ugu0x
 
-Cohort 5: Current state (n=9)
+Cohort 5: Current state (n=9) Link: https://ows.io/cm/uqqx5z1i
 
-Cohort 6: Current state (n=9)
+Cohort 6: Current state (n=9) Link: https://ows.io/cm/8xnv30sc
 
-Cohort 7: Current state (n=9)
+Cohort 7: Current state (n=9) Link: https://ows.io/cm/j0c0il9u
 
-Cohort 8: Current state (n=5)
+Cohort 8: Current state (n=5) Link: https://ows.io/cm/kunu74ql
 
 Cohort 9: Location (n=9)
 
