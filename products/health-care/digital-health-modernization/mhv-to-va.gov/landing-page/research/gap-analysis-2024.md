@@ -101,6 +101,8 @@ Evaluated the solutions that competitors bring to the same problems we attempt t
 
 #### Differences in on-page IA hierarchy:
 
+<img width="615" alt="Screenshot 2024-07-17 at 10 51 01 AM" src="https://github.com/user-attachments/assets/7db134ea-c06c-415c-be89-2a9230ab001c">
+
 ## <a name="synthesis"></a>Synthesis<br>
 
 ## <a name="next-steps"></a>Next steps<br>
@@ -108,9 +110,3 @@ TBD
 
 
 
-
-<img width="615" alt="Screenshot 2024-07-17 at 10 51 01 AM" src="https://github.com/user-attachments/assets/7db134ea-c06c-415c-be89-2a9230ab001c">
-
-## Synthesis
-
-## Next steps
