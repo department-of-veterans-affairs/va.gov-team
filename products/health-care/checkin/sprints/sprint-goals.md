@@ -10,23 +10,19 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79886)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
+        - Sprint goal is to release this feature once the Staging Review is complete and all launch blockers have been addressed
         - 🟦🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
             - 🟩 Merge code
             - 🟥 Release Product Guide
             - 🟪 Create release notes & send stakeholder notification
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
-        - 🟩 Schedule Privacy, security, infrastructure rediness review
-        - 🟥🟪 Find out from Kristen about timing of pilot and pilot site(s)
     - **Sub Goal: Travel Claim Submission from Past Appts - Web**
-        - TBD
+        - 🟥 TBD
+        - 🟩 TBD
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Upcoming VAOS Appointments**
-        - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
-        - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
-        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
-            - Create Contact Center review ticket
-        - 🟪 [PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84422)           
+        - 🟩 TBD - need to finish work after UX design is finalized
+        - 🟦 TBD - remaining work?
     - **Sub Goal: Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
     - **Sub Goal: CIE Analytics**
@@ -71,6 +67,7 @@
             - 🟥 Need Contact Center review ticket link for Product Guide
             - 🟥 Need to check Content and IA artifacts in Staging Review section
         - 🟩 Schedule Infrasturcture, Security Readiness Review
+        - 🟥🟪 Find out from Kristen about timing of pilot and pilot site(s)
     - **Sub Goal: Travel Claim Submission from Past Appts - Web**
         - Goal is to wireframe the feature and coordinate with the Travel team
         - 🟪 Create product documents
