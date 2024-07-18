@@ -99,7 +99,7 @@ Primary criteria:
 
 - At least 3 without a college degree
 
-- At least 2 should speak a language other than English at home OR be of immigrant origin
+- At least 2 should speak a language other than English at home
 
 Secondary criteria:
 
@@ -158,7 +158,7 @@ Secondary criteria:
 
 *At least 3 without a college degree*
 
-  - Does not have Bachelor's, Master's, Professional, or Doctoral degree
+  - From Perigean's database: Does not have Bachelor's, Master's, Professional, or Doctoral degree
 
 *At least 2 should speak a language other than English at home*
 
@@ -171,7 +171,15 @@ Secondary criteria:
 
 **Secondary (nice-to-have)**
 
-- These should all be in Perigean's database
+*These should all be in Perigean's database:*
+
+- At least 2 from a rural area
+
+-  At least 1 should identify as LGBTQ+
+
+- At least one should identify as Asian or Hispanic
+
+- At least 2 who do not identify as male
 
 
 ## Timeline
