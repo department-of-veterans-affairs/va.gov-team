@@ -10,9 +10,9 @@ In July 2024, OCTO health leadership prioritized a "stay steady" approach, calli
 - [Resources](#resources)
 - [What is a gap](#gap)
 - [Gap areas being analyzed](#gaps-analyzed)
-- [Previously conducted research at VA](#va-research)
-- [Qualitative Medallia feedback](#medallia)
-- [Analogous market research / Competitive analysis](#competitive-analysis)
+  - [Previously conducted research at VA](#va-research)
+  - [Qualitative Medallia feedback](#medallia)
+  - [Analogous market research / Competitive analysis](#competitive-analysis)
 - [Synthesis](#synthesis)
 - [Next steps](#next-steps)
 
