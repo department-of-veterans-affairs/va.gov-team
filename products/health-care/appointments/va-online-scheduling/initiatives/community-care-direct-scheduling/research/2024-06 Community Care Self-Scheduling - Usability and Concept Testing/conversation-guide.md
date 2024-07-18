@@ -129,7 +129,8 @@ _Note for moderator: If Veteran has difficulty answering some of these questions
 ```
 
 - Ok, now, I’m sending you [directly in the Zoom chat, by email, or by text message] some information that represents a text message from VA. 
-  - > Your community care referral for physical therapy has been approved. Sign in to VA.gov and go to your VA appointments to schedule: https://www.va.gov/my-health/appointments/.
+
+> Your community care referral for physical therapy has been approved. Sign in to VA.gov and go to your VA appointments to schedule: https://www.va.gov/my-health/appointments/.
 
    - _As a fallback set up the imaginary situation and directly send the Appointment list link:_ _Send [CodePen prototype link](https://codepen.io/team/va-cie/live/XWwmWKg)._
 
