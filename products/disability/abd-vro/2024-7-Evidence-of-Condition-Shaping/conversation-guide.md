@@ -17,12 +17,66 @@ Once complete, ask the notetaker and observers to turn off their cameras for the
 Knowing that, are you comfortable if I record my screen and audio as we talk today?
   - If yes: Once I start recording, I’ll ask again for your confirmation.
 
-## Warm-up (2-5 min)
-- Could you talk about your previous experiences using VA.gov?
-- Have you worked with a representative or a group before to navigate VA services?
-- 
 
-## Veteran Understanding
+## Warm-up: Veteran Understanding (10 min)
+### Warm up/past claim
+- Talk to me about your past experience using VA.gov. 
+- What types of benefits do you currently receive from the VA?
+- Have you filed for disability compensation before?
+    - *if yes* Tell me about, in the past, how you’ve filed for disability compensation. Have you used paper forms or the online form? Have you done it yourself or used outside help?
+      - About how many different disabilities?
+      - Do you know what your overall rating is?
+      - When was the last claim that you filed?
+        - What kind of claim was it?
+          - *if new disability claim*, can explore that more
+          - *if not* When did you most recently file a claim for a new disability?
+### Future claim
+- Are you planning to file for compensation for any new disabilities?
+  - *if yes* What disabilities?
+  - When do you think you might file the claim?
+  - What have you done so far to prepare your claim?
+  - Are you working with anyone to help you?
+ 
+## Discuss details of either a past claim OR future claim
+*Moderator: Choose whether to focus on a future claim OR a past claim for this section. Do not try to cover both.*
+
+### Future claim
+- What do you think you need to provide the VA when you file your claim?
+  - *Probe for different types of evidence, how they'll document them, what documents they've read, etc.)*
+  - How have you learned about what’s needed?
+- You're going to file for [condition x].
+  - Do you plan to submit anything to show evidence of [condition x]? What?
+    - *Probe for issues around submitting a diagnosis*
+  - *If no*: What do you plan to tell the VA about your condition when you submit the claim?
+    - *Probe for details*
+    - How do you know you have this condition? *(if not obvious or already stated)*
+    - Have you considered trying to get a doctor's diagnosis before you submit your claim? Why or why not?
+  - How important do you think it is to provide a medical diagnosis when you first submit a claim?
+    - If you didn’t have a doctor’s diagnosis, what do you think the VA would do?
+
+### Past claim
+- What did you provide the VA when you filed your claim?
+  - *Probe for different types of evidence, how they'll document them, what documents they've read, etc.)*
+  - How did you learn about what’s needed?
+- You claimed [condition x, condition y, ...] Did you have a diagnosis from a doctor for each of those conditions?
+  - *if yes*:
+    - Who were the diagnoses from?
+    - Did you submit anything with your claim to show the diagnosis? What?
+    - *Probe for issues around submitting a diagnosis*
+  - *if no*: What did you tell the VA about your condition when you submitted the claim?
+    - *Probe for details*
+    - How do you know you have this condition? *(if not obvious or already stated)*
+    - Did you consider trying to get a doctor’s diagnosis before you submitted your claim? Why or why not?
+  - How important do you think it is to provide a medical diagnosis when you first submit a claim?
+    - If you didn’t have a doctor’s diagnosis, what do you think the VA would do?
+  - What has happened with the claim since you submitted it?
+    - Have the VA sent you to a C&P exam?
+
+
+
+
+
+
 
 ## Thank-you and Closing
 Well we really appreciate you taking the time to share your thoughts with us today. 
