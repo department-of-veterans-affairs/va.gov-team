@@ -79,7 +79,8 @@ Knowing that, are you comfortable if I record my screen and audio as we talk tod
   - *if yes* Great. Let's take a look at our first scenario.
   - *if no: Troubleshoot*
 ### Scenario 1: Generic (All Conditions)
-*Focus doc on content for “Scenario 1”* Imagine that you’re planning to file for a new condition for disability compensation. You can think about [x condition] you mentioned earlier.
+*Focus doc on content for “Scenario 1”*
+Imagine that you’re planning to file for a new condition for disability compensation. You can think about [x condition] you mentioned earlier.
 - Read through this content. Verbalize your thoughts aloud as you read.
 - *after reading*: What are your first impressions about this content? What information stood out to you?
   - *Possible follow ups:* are there any questions that came up for you when you read this content? Is there any content in particular that makes you feel more or less confident about what to submit with a claim? 
