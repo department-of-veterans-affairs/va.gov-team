@@ -4,12 +4,15 @@
  - https://mobile.va.gov/app/va-health-and-benefits
  - Mobile to send VA to update this site as needed
  - [Update App Store Ticket template](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=&labels=app+store&projects=&template=Update+App+Store.md&title=Update+App+Store)
+ - iPhone 6.7 images are used for this page. 
 
 ## Change Management
 | Date Request | Date Implemented | Change Request  |
 |----| ---- | ----| 
 | 9/26/23 | 11/14/23 | Inclusion of Proof of Veteran Status in Features, Updated images to be iPhone images and include Proof of Veteran Status | 
 | 6/24/24 | | Updating app store images to include updated Appointment changes | 
+| 7/18/24 | | Updating appstore images to include HSP and Appointment Changes |
+ 
 
 ## How to update 
 - Follow steps here to get new images [Updating the app stores Va Mobile Docs ](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores)
