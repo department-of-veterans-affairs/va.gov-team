@@ -112,9 +112,12 @@ _Note for moderator: If Veteran has difficulty answering some of these questions
 - Ok, I’m sending you the prototype link now. 
 
    - _Send [CodePen prototype link](https://codepen.io/team/va-cie/live/WNBQNxb)._
+ 
 
 - You can go ahead and select that link. And let me know when you have that open. 
 
+_(Note to moderator: As a fallback, send the "test message text" directly in the Zoom chat, by email, or by text message)_
+> Your community care referral for physical therapy has been approved. Sign in to VA.gov and go to your VA appointments to schedule: https://www.va.gov/my-health/appointments/.
 
 ```
    [If needed: Instructions for opening chat]
