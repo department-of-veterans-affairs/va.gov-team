@@ -310,7 +310,7 @@ Note: this document does not include research history for Appeals projects, whic
 
 - Number of participants: 8
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Usability%20Testing)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/research/usability-testing)
 
 - Keywords: IRIS, contact us form, inquiry
 
