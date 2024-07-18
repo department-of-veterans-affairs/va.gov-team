@@ -21,7 +21,7 @@ This work supports a Veteran whenever they are filing a disability compensation 
 2. Evaluate the efficacy of the new 5103 Notice design. 
 3. Asses how well CST's tracked items "content model" for alerts works across a variety of different request types associated with development letters.
 4. Identify pain points in the current development letters experience that we might help resolve with CST user experience improvements
-5. Describe Veteran perception of the value and/or risks associated with electronic-only communications from VA
+5. Assess Veteran perception of the value and/or risks associated with electronic-only communications from VA
  
 
 ### Outcome
@@ -46,6 +46,8 @@ Identify pain points in the current development letters experience that we might
 - Are Veterans clear what the alert means and what they're being asked to do?
 
 **Part 4: Electronic-only communications**
+- If they had the option, would Veterans like receiving only electronic communications like this?
+- How would they configure these communications, if they had those options?
 
 ### Hypothesis
 
