@@ -75,46 +75,32 @@ Before writing your recruitment criteria, be sure to review the following resour
 - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
 - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
-### Recruitment approach
-
-
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
-
 ### Recruitment criteria
 We would like to recruit 20 Veterans for this study.
 
 **Primary criteria (must-haves)**
-- Veterans must have filed a (standard, non-FDC) disability compensation claim with the VA in the past 2 years
-- Veterans must have received a letter from the VA related to their claim in the past 2 years
+- Veterans must have filed a (standard, non-FDC) disability compensation claim with the VA within the past 2 years.
+- Veterans must have received a letter from the VA related to their claim within the past 2 years.
 
 **Screener question**
-> Have you filed a disability compensation claim with the VA in the last 2 years? **Should be yes**
-> Have you received letters from the VA related to your claim in the last 2 years? **Should be yes**
-> Was your disability compensation claim a Fully Developed Claim (FDC)? **Screen out participants who respond Yes to this question**
+> "Have you filed a disability compensation claim with the VA in the last 2 years?" **Should be yes**
 
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+> "Have you received letters from the VA related to your claim in the last 2 years?" **Should be yes**
 
+We intend to use Maximum Variation Sampling as a recruitment strategy. Below is the demographic breakdown of participants we would like:
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+- 10 participants should be aged 55-64+
+- 10 participants should be Black or Hispanic Veterans
+- 5 participants should be in a rural area
+- 2 (at least) should be women
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD
+ 
 ### Research sessions
 * Planned dates of research: Aug 2-6, 9-13
 
@@ -130,7 +116,7 @@ Monday - Friday, 10 AM ET - 5 PM ET
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Gary Homidas (gary.homidas@adhocteam.us)
-- Research guide writing and task development (usually but not always same as moderator): Gary Homidas (gary.homidas@adhocteam.us), Skyler Schain (skyler.schain@coforma.io)	
+- Research guide writing and task development: Gary Homidas (gary.homidas@adhocteam.us), Skyler Schain (skyler.schain@coforma.io)	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Skyler Schain (skyler.schain@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)
 - Participant(s) for pilot test: 
