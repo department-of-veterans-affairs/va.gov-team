@@ -45,6 +45,7 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
+        - Sprint Goal is to get this feature ready-to-release and schedule a Staging Review
         - ✔️ 🟪 Create Collab Cycle Ticket
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
         - ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
@@ -59,7 +60,7 @@
             - 🟪 Need TestRail reports links
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
-        - Goal is to complete this feature and get it through Staging Review and Infrasturcture, Security Readiness Review; we will then work with Kristen to determine when and who to pilot
+        - Goal is to complete this feature and get it through Staging Review and Infrasturcture, Security, Readiness Review; we will then work with Kristen to determine when and who to pilot
         - 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
         - 🟩 [Test E2E with VeText Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
             - 🟩 How will we make this available to only certain Pilot sites?
@@ -80,13 +81,14 @@
         - 🟩🟦 [[BE][FE] Appointments Online Scheduling Onboarding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88049)        
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Today's VISTA Appointments**
-        - Goal is to release this feature after we have responded to all blocking issues from Staging Review
+        - Sprint Goal is to release this feature after we have responded to all blocking issues from Staging Review (which is 7/23)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
         - 🟩🟦🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
             - 🟩 Merge code
             - 🟥 Release Product Guide
             - 🟪 Create Release notes & notify stakeholders
     - **Sub Goal: Upcoming VAOS Appointments**
+        - Sprint Goal is to get the new design through Design Intent and create FE tickets for the work
         - 🟥 [Update Userflows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
         - 🟥 Schedule Design Intent
         - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
@@ -111,7 +113,7 @@
       - ✔️ ❗🟨 [[DevOps] Create Vista API ECS Terraform module](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86519)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
-       - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
+       - ✔️ ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
        - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Today's VISTA Appointments**
