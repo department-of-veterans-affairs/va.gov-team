@@ -109,25 +109,7 @@ _Note for moderator: If Veteran has difficulty answering some of these questions
 
 - Do you have any questions about that before we get started?
 
-- Ok, I’m sending you the prototype link now. 
-
-   - _Send [CodePen prototype link](https://codepen.io/team/va-cie/live/WNBQNxb)._
- 
-
-- You can go ahead and select that link. And let me know when you have that open. 
-
-_(Note to moderator: As a fallback, send the "test message text" directly in the Zoom chat, by email, or by text message)_
-> Your community care referral for physical therapy has been approved. Sign in to VA.gov and go to your VA appointments to schedule: https://www.va.gov/my-health/appointments/.
-
-```
-   [If needed: Instructions for opening chat]
-
-   - Ok. Now go ahead and tap (or select) the screen anywhere. And, as you tap (or select) the screen a menu will appear at the bottom of your screen.
-   - In that menu, tap (or select) “Chat."
-```
-
-
-- Ok, now I’d like to be able to see your screen so I can see how you’re using the prototype. **Are you comfortable sharing your screen with me today?**
+- First, I’d like to be able to see your screen so I can see how you’re using the prototype. **Are you comfortable sharing your screen with me today?**
    - _If no:_ No problem. In that case, would you be able to describe aloud to me what you are doing as you go through the prototype?
           
    - _If yes:_ Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now.
@@ -146,9 +128,25 @@ _(Note to moderator: As a fallback, send the "test message text" directly in the
    - Now, tap (or select) anywhere on the paragraph at the top of the screen that starts with "Everything on your screen."
 ```
 
+- Ok, now, I’m sending you [directly in the Zoom chat, by email, or by text message] some information that represents a text message from VA. 
+  - > Your community care referral for physical therapy has been approved. Sign in to VA.gov and go to your VA appointments to schedule: https://www.va.gov/my-health/appointments/.
+
+   - _As a fallback set up the imaginary situation and directly send the Appointment list link:_ _Send [CodePen prototype link](https://codepen.io/team/va-cie/live/XWwmWKg)._
+
+
+```
+   [If needed: Instructions for opening chat]
+
+   - Ok. Now go ahead and tap (or select) the screen anywhere. And, as you tap (or select) the screen a menu will appear at the bottom of your screen.
+   - In that menu, tap (or select) “Chat."
+```
+
+
+
+
 ---
 
-_**Participant starts at Text message:**_
+_**Participant starts at Text message (in Zoom chat / email / or text):**_
 
 _Note for moderator: Get through this section quickly to save time._
 
