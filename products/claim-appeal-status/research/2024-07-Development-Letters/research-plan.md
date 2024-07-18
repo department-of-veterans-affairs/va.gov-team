@@ -92,13 +92,15 @@ We would like to recruit 20 Veterans for this study.
 
 **Primary criteria (must-haves)**
 - Veterans must have filed a (standard, non-FDC) disability compensation claim with the VA in the past 2 years
-- [Open question: Do we want to filter for Veterans who say they remember receiving a VA letter?]
+- Veterans must have received a letter from the VA related to their claim in the past 2 years
 
 **Screener question**
-> Have you filed a disability compensation claim with the VA in the last 2 years?
+> Have you filed a disability compensation claim with the VA in the last 2 years? **Should be yes**
+> Have you received letters from the VA related to your claim in the last 2 years? **Should be yes**
 > Was your disability compensation claim a Fully Developed Claim (FDC)? **Screen out participants who respond Yes to this question**
 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
@@ -114,7 +116,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: Aug 2-6, 9-13
 
 ### Length of sessions
 * Session length: 1 hour
@@ -122,18 +124,15 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 2 sessions per day
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+Monday - Friday, 10 AM ET - 5 PM ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Moderator: Gary Homidas (gary.homidas@adhocteam.us)
+- Research guide writing and task development (usually but not always same as moderator): Gary Homidas (gary.homidas@adhocteam.us), Skyler Schain (skyler.schain@coforma.io)	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Skyler Schain (skyler.schain@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)
+- Participant(s) for pilot test: 
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	David Kennedy (david.kennedy@adhocteam.us)
+- Note-takers/Observers: Skyler Schain (skyler.schain@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us), David Kennedy (david.kennedy@adhocteam.us), Peri McLaren (peri.mclaren@adhocteam.us), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Sam Cormier (sam.cormier@coforma.io), Julie Strothman (julie.strothman@va.gov)
