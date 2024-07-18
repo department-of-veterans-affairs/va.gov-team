@@ -51,7 +51,7 @@ This research looked at previously conducted studies at the VA - some specific t
 
 **Related desk research:**
 * [Personalization Competitive Analysis (VAHB Mobile App Team) - 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md)
-* [Review of related user research: VA mobile app personalization (VAHB Mobile App Team) - 2022](about:blank)
+* [Review of related user research: VA mobile app personalization (VAHB Mobile App Team) - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d70bc22ef0c0bcdcaea61e36c6adedf9fd50595c/products/va-mobile-app/features/design-personalization/discovery/research/Review%20of%20User%20Research_%20VA%20Mobile%20App%20Personalization%20(Jul%202022).pdf)
 * [MyVA Design research - 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d70bc22ef0c0bcdcaea61e36c6adedf9fd50595c/products/identity-personalization/my-va/2.0-redesign/My%20VA%20redesign%20-%20UX%20research%20and%20design%20hub.md)
 
 #### Themes/Trends: 
