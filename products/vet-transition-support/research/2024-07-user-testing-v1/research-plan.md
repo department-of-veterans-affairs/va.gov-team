@@ -36,34 +36,35 @@ Secondarily, now that we have a MVP version of the VTS, the findings from the re
 #### Research questions
 Our research questions are the following:
 -	What should the VTS be named?
-o	Something catchy? Or informative? Or somewhere in between?
+    - Something catchy?
+    - Or informative?
+    - Or somewhere in between?
 -	How do users feel about the Review Answers Page?
-o	How often to people just skip it quickly?
-o	Do people use it to alter their answers just to see changes on the results page?
+    - How often to people just skip it quickly?
+    - Do people use it to alter their answers just to see changes on the results page?
 -	How quickly do users orient to the Results page?
-o	Is the information hierarchy helpful?
+    - Is the information hierarchy helpful?
 -	Are the questions we’re asking able to be answered easily by users?
-o	Are the questions valuable to users?
+      - Are the questions valuable to users?
 -	How many users use the Skip button?
-o	How many questions are skipped?
-o	Which questions are skipped most often? Why?
+   - How many questions are skipped?
+    - Which questions are skipped most often? Why?
 -	How are users interacting with the Filter option on the Results Page?
-o	Which of the filters are used most often?
-o	Which of the filters are used least often?
-o	Are there any filter options that aren’t listed on the prototype, that the user would wish to use?
+    - Which of the filters are used most often?
+    - Which of the filters are used least often?
+    - Are there any filter options that aren’t listed on the prototype, that the user would wish to use?
 -	How are users interacting with the Sort Option on the Results Page?
-o	Which of the sort options are used most often?
-o	Which of the sort options are used least often?
-o	Are there any sort options that aren’t listed on the prototype, that the user would wish to use?
+    - Which of the sort options are used most often?
+    - Which of the sort options are used least often?
+    - Are there any sort options that aren’t listed on the prototype, that the user would wish to use?
 -	How do users interact with the “Benefits you may not be eligible for” section?
-
-    -- Do people want this section?
-    -- Did the drop down meet their expectations?
-o	What to users expect to see here?
-o	What are people HOPING to see here?
-o	Is there a way that this section could help more?
+    - Do people want this section?
+    - Did the drop down meet their expectations?
+     - What do users expect to see here?
+    - What are people HOPING to see here?
+    - Is there a way that this section could help more?
 -	How visible is the “Time sensitive benefits” alert?
--- Is this section useful to users? Why?
+    - Is this section useful to users? Why?
 
 #### Hypothesis
 Our hypothesis is that Version 1 of the Veteran Transition Support questionnaire meets some needs of users and sets up the project to meet future needs of veterans. 
