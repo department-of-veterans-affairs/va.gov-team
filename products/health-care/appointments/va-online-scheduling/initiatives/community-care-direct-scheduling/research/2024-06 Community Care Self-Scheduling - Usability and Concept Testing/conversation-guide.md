@@ -25,7 +25,7 @@
 - _If observers are present in Zoom waiting room:_
   - I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
-- Today, we're going to talk about receiving approval to self-schedule an appointment with a a community care provider. 
+- Today, we're going to talk about receiving approval to self-schedule an appointment with a community care provider. 
 
 ---
 ## Warm up questions - 3 minutes 
