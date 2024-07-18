@@ -1,5 +1,5 @@
 # Authenticated Experience Design Patterns
-Crafting evidence-based, adaptable and adoptable design patterns that will improve Veteran experiences across government digital services.
+Crafting evidence-based, adaptable and adoptable design patterns that will improve Veteran authenticated experiences across government digital services.
 
 **Office Hours:** 1:30 – 2:00pm every other Wednesday
 
@@ -13,7 +13,7 @@ Crafting evidence-based, adaptable and adoptable design patterns that will impro
 ### Our north star
 Unlike most VFS teams, our goal isn't to ship a product on VA.gov. Our goal is to develop design patterns for the authenticated experience on VA.gov. We'll contribute them back to the VA Design System and the US Web Design System.
 
-Our north star: Crafting evidence-based, adaptable and adoptable design patterns that will improve Veteran experiences across government digital services.
+Our north star: Crafting evidence-based, adaptable and adoptable design patterns that will improve Veteran authenticated experiences across government digital services.
 * Evidence-based: research based and data-driven
 * Adaptable: flexible and reusable by teams
 * Adoptable: easily adopted by other teams
