@@ -62,7 +62,7 @@ I’ll walk you through the process of sharing your screen, then I'll send you a
 
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=&type=design&node-id=3706-84910&viewport=-1534%2C476%2C0.16&t=BeRNl3a5N7GfhYSb-1&scaling=min-zoom&starting-point-node-id=3706%3A84910&mode=design)
+* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/1dSk9a4KDxqxKzgRDmXyPu/Prototype%3A-Scheduling-improvements--%7C-Appointments-FE?page-id=4279%3A28230&node-id=4279-29644&viewport=387%2C210%2C0.03&t=6zLyw5Xz3C1KA6gj-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4279%3A29644)
 
 * Use chat to send user [link to mobile prototype.](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=2236%3A60173&type=design&node-id=2447-132766&viewport=457%2C427%2C0.16&t=77eZwwjIykTZ6rPe-1&scaling=min-zoom&starting-point-node-id=2447%3A132766&mode=design)
 
