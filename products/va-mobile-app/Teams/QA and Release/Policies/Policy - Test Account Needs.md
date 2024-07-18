@@ -63,4 +63,5 @@ Flagship App Teams and External Teams will also need to provide and lead the dat
 |+12 |Closed claims w/ no DDL |
 |Cecil.morgan@id.me | Video appointments |
 |+153 | Vaccines |
+| Request from Patrick Batemen | Oracle Test User | [Patrick Bateman confirmed he will provide 7/18](https://dsva.slack.com/archives/C018V2JCWRJ/p1721064428778819)  | 
 
