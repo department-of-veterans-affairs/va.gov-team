@@ -72,7 +72,7 @@ So far, analysis suggests that these features might add value to Veterans on the
 Following the rules of Jakob's Law, we assume that Veterans prefer My HealtheVet on VA.gov to work the same way as all the other similar sites they already know. We did competitive analysis research into other authenticated portals across several domains: health, insurance, pharmacy, finance, etc. Images and notes about this analysis are captured here. 
 
 **Competitive Analysis Rubric:** 
-Evaluated the solutions that competitors bring to the same problems we attempt to solve on teh current state of the My HelatheVet home page, which are expanded upon in this related document, but at a high-level include: 
+Evaluated the solutions that competitors bring to the same problems we attempt to solve on the current state of the My HealtheVet home page, which are expanded upon in [this related document](), but at a high-level include: 
 * Findability/navigation
 * Education
 * Help
