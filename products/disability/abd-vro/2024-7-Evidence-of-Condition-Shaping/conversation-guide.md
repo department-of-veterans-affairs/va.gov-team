@@ -78,7 +78,8 @@ Knowing that, are you comfortable if I record my screen and audio as we talk tod
 - [share screen with content doc] Are you able to see my screen?
   - *if yes* Great. Let's take a look at our first scenario.
   - *if no: Troubleshoot*
-### Scenario 1: Generic (All Conditions)
+    
+### Scenario 1: Generic (All Conditions) (20 min)
 *Focus doc on content for “Scenario 1”*
 Imagine that you’re planning to file for a new condition for disability compensation. You can think about [x condition] you mentioned earlier.
 - Read through this content. Verbalize your thoughts aloud as you read.
