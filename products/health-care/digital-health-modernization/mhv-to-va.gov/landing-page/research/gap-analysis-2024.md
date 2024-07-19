@@ -130,7 +130,8 @@ We evaluated the design solutions that competitors bring to the same needs that 
 #### Gaps identified:
 We also noted differences in how competitors address these needs. Any new ideas not included on our landing page today are considered potential product "gaps" between the current state of our product and what we predict that users expect from it, and what we may need to start addressing in a future state of this page:
 
-<img width="977" alt="Screenshot 2024-07-19 at 10 25 35 AM" src="https://github.com/user-attachments/assets/d234f6fc-691b-462d-a4e8-597f1eb0b512">
+<img width="855" alt="Screenshot 2024-07-19 at 12 44 24 PM" src="https://github.com/user-attachments/assets/633c9673-5fea-41c9-aa27-bf3e9b8f8f50">
+
 
 #### Differences in on-page IA hierarchy:
 
