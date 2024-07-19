@@ -37,12 +37,12 @@ Identify pain points in the current development letters experience that we might
 - What’s difficult about the letters Veterans receive about their benefits claims?
 - What's helpful about the letters Veterans receive about their benefits claims?
 
-**Part 2: Evaluate 5103 design**
+**Part 2: Evaluate 5103 design (Prototype)**
 - Are Veterans clear what the alert means and what they're being asked to do?
 - Are Veterans clear how the 5103 alert relatees to the 5103 Notice letter?
 - Can Veterans find the 5103 letter related to their claim?
 
-**Part 3: Review other benefit letter types**
+**Part 3: Review other benefit letter types (Prototype)**
 - Are Veterans clear what the alert means and what they're being asked to do?
 
 **Part 4: Electronic-only communications**
