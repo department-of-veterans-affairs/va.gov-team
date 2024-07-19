@@ -98,7 +98,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 * Date and time of pilot session: TBD
  
 ### Research sessions
-* Planned dates of research: Aug 2-6, 9-13
+* Planned dates of research: Aug 5-9, 12-16
 
 ### Length of sessions
 * Session length: 1 hour
@@ -107,7 +107,8 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 ### Availability
 
-Monday - Friday, 10 AM ET - 5 PM ET
+Monday, Friday: 10 AM ET - 5 PM ET
+Tuesday, Wednesday, Thursday: 9 AM - 3 PM ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
