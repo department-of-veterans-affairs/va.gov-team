@@ -6,7 +6,7 @@ Define what these are, why we need them, and how to remove them should we ever n
 ## Resources
 - [PR adding this feature](https://github.com/department-of-veterans-affairs/vets-api/pull/17621)
 - [Slack thread where we decide to build this](https://dsva.slack.com/archives/C053U7BUT27/p1721337336243199)
-- [Document outlining 'exclusive methodology' and why it's important
+- ['Exclusive methodology' and why it's important](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#note-on-exclusive-methodology)
 - [Form526StatusPollingJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/form526_status_polling_job.rb)
 
 ## What is a "paranoid success"?
