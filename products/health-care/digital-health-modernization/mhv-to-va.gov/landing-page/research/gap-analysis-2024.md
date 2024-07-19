@@ -34,7 +34,6 @@ This research looked at previously conducted studies at the VA - some specific t
 
 **Health research:**
 * [Digital Health Modernization generative research - 2020](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607438166231/034610fe4b845af0212aedcd5868db72e8ee48c8?sender=ua13e567cb5c4221acaa14949)
-* Digital Health Modernization strategy - 2017
 * [Preferred Health Facilities research - 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/preferred-health-facilities-research-report.pdf)
 * [10-10EZ Toxic Exposure Questions Usability Study (10-10 Health Apps Team) - 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy/research-findings.md)
 
