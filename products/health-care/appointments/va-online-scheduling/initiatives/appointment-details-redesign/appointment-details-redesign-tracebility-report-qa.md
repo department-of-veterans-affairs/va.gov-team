@@ -103,42 +103,45 @@ Issue found when testing "Canceled upcoming video appointment" along with the "P
 ### Upcoming Appointments
 - [x] **Phone**
 - [x]  **In Person**
-- [x]  **Video**
+- [x]  **Video - closed** 
+- [ ]  **Video - open** No open vid on Judy
 
 ### Pending Appointments
-- [x]  **Phone**
-- [x]  **In Person**
-- [x]  **Video** (Judy does not have)
+- [ ]  **VA**
+- [ ]  **CC**
 
 ### Canceled Appointments
 - [x]  **Phone**
 - [x]  **In Person**
 - [x]  **Video**
+- [ ]  **CC**
 
 ### Past Appointments
 - [ ]  **Phone** (Judy does not have)
 - [x]  **In Person**
 - [x]  **Video**
+- [ ]  **CC**
+
 
 ### Talkback on Android
 
 | Screenreader| Test | Test result | Issue | 
 | ------- | ---------- | ----- | ----- |
-| Announce navigation options | Test with Talkback on Android |  | N/A|
-| Announce upcoming appointment date/time info | Test with Talkback on Android|  	| N/A|
-| Announce upcoming appointment type of care | Test with Talkback on Android|  | N/A|
-| Announce upcoming appointment provider | Test with Talkback on Android|  	| N/A|
-| Announce upcoming appointment modality | Test with Talkback on Android|  	| N/A|
-| Announce upcoming appointment location| Test with Talkback on Android|  	| N/A|
-| Announce past appointment date/time info | Test with Talkback on Android|  	| N/A|
-| Announce past appointment type of care | Test with Talkback on Android| 	| N/A|
-| Announce past appointment provider | Test with Talkback on Android| 	| N/A|
-| Announce past appointment modality | Test with Talkback on Android| 	| N/A|
-| Announce past appointment location | Test with Talkback on Android| 	| N/A|
-| Announce past appointment combo box| Test with Talkback on Android| N/A	| N/A|
-| Announce request type of care | Test with Talkback on Android| 	| N/A|
-| Announce request modality | Test with Talkback on Android| 	| N/A|
-| Announce request location | Test with Talkback on Android| 	| N/A|
+| Announce navigation options | Test with Talkback on Android | Passed | N/A|
+| Announce upcoming appointment date/time info | Test with Talkback on Android | Passed 	| N/A|
+| Announce upcoming appointment type of care | Test with Talkback on Android | Passed | N/A|
+| Announce upcoming appointment provider | Test with Talkback on Android |  Not tested - Couldn't find appt with provider info on details	| N/A|
+| Announce upcoming appointment modality | Test with Talkback on Android | Passed 	| N/A|
+| Announce upcoming appointment location| Test with Talkback on Android | Passed 	| N/A|
+| Announce past appointment date/time info | Test with Talkback on Android |  Passed	| N/A|
+| Announce past appointment type of care | Test with Talkback on Android | Passed	| N/A|
+| Announce past appointment provider | Test with Talkback on Android | 	Not Tested - Couldn't find appt with provider info on details | N/A|
+| Announce past appointment modality | Test with Talkback on Android | Passed	| N/A|
+| Announce past appointment location | Test with Talkback on Android | Passed	| N/A|
+| Announce past appointment combo box| Test with Talkback on Android |  N/A - out of scope for this work	| N/A|
+| Announce request type of care | Test with Talkback on Android | 	| N/A|
+| Announce request modality | Test with Talkback on Android | 	| N/A|
+| Announce request location | Test with Talkback on Android | 	| N/A|
 
 **For each of the appointment detail pages check the following:**
 
@@ -147,14 +150,14 @@ Issue found when testing "Canceled upcoming video appointment" along with the "P
 - Test form elements, buttons, and links to ensure they are announced properly and can be activated using keyboard commands.
   
 ### Upcoming Appointments
-- [ ] **Phone**
-- [ ]  **In Person**
-- [ ]  **Video**
+- [x] **Phone**
+- [x]  **In Person**
+- [ ]  **Video - closed** 
+- [ ]  **Video - open** No open vid on Judy
 
 ### Pending Appointments
-- [ ]  **Phone**
-- [ ]  **In Person**
-- [ ]  **Video** (Judy does not have)
+- [ ]  **VA**
+- [ ]  **CC**
 
 ### Canceled Appointments
 - [ ]  **Phone**
@@ -162,7 +165,7 @@ Issue found when testing "Canceled upcoming video appointment" along with the "P
 - [ ]  **Video**
 
 ### Past Appointments
-- [ ]  **Phone** (Judy does not have)
+- [ ]  **Phone** 
 - [ ]  **In Person**
 - [ ]  **Video**
 
