@@ -50,4 +50,8 @@ Note that "success by age" is implicit. We do not chance the database record. It
 
 This feature will become obsolete if any of the following become true
 
-- someone else (e.g. Benefits Intake) accepts ownership of the 'next step' problem
+- someone else (e.g. Benefits Intake team) accepts ownership of the 'next step' problem
+- Benefits Intake `success` status becomes immutable, eliminating the edge case
+- We migrate off of Benefits Intake
+
+If we no longer need it, then it's safe do simply transition any `paranoid_success` submissions to `accepted` via a script or rake task, then remove the unused code. 
