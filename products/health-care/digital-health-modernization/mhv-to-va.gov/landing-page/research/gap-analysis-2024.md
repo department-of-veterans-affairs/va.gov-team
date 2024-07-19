@@ -96,35 +96,51 @@ So far, analysis suggests that these features might add value to Veterans on the
 * Wants to find account number on VA.gov 
 
 ### <a name="competitive-analysis"></a>3. Analogous market research / Competitive analysis<br>
-Following the rules of Jakob's Law, we assume that Veterans prefer My HealtheVet on VA.gov to work the same way as all the other similar sites they already know. We did competitive analysis research into other authenticated portals across several domains: health, insurance, pharmacy, finance, etc. Images and notes about this analysis are captured here. 
+Following the rules of Jakob's Law, we assume that Veterans prefer My HealtheVet on VA.gov to work the same way as all the other similar sites they already know. We did competitive analysis research into other authenticated portals across several domains: health, insurance, pharmacy, finance, etc. Images and notes about this analysis are captured [in this MURAL](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720032090287/45ea8c3a6b9565d9fc9153ef904439297f8e5849?sender=uf94a77a19aaf687331c09367) (also linked under "Resources" at the top of this page). 
 
-**Competitive Analysis Rubric:** 
-Evaluated the solutions that competitors bring to the same problems we attempt to solve on the current state of the My HealtheVet home page, which are expanded upon in [this related document](), but at a high-level include: 
-* Findability/navigation
+We evaluated the design solutions that competitors bring to the same needs that we _currently_ attempt to address on the My HealtheVet home page. Those needs are:
+* Navigation / findability
 * Education
 * Help
 * Branding and "sense of place" (did not evaluate as this is a unique problem for My HealtheVet on VA.gov, which is a portal within another website)
 * Communication and user control
 
-| Company | Market type | Navigation | Education | Help | Communication | User control | Other |
-|:------|:-----:|:------|:------|:------|:--------|:------|:------|
-| Epic/My Chart | Health | | | | | | |
-| Athena Health | Health | | | | | | |
-| Bank of America | Financial | | | | | | |
-| A11y Bank | Financial | | | | | | |
-| Chase Bank | Financial | | | | | | |
-| Fidelity | Financial | | | | | | |
-| Blue Cross Blue Shield | Insurance | | | | | | |
-| Cigna | Insurance | | | | | | |
-| Walgreens | Pharmacy | | | | | | |
-| FAFSA | Federal | | | | | | |
-| FedLoan | Federal | | | | | | |
-
 #### Market trends:
-
+* Navigation:
+  * Almost all competitors leverage a secondary navigation very similar to the solution we have in place within My HealtheVet today.
+  * Competitors do not have redundant, repeat navigation to things listed in the secondary navigation, except to surface direct shortcut links to top tasks (i.e. schedule an appointment, send a new message).
+* Education:
+  * Most competitors have sections with business value - promoting programs or other services that a user could "learn more" about, "explore" or take advantage of in some way. These sections do not appear to be conditional (are likely the same for all users).
+* Help
+  * Only some competitors surface help directly on the entry point pages to authenticated portals. When they do, it is typically small real-estate and includes a phone number or cross-link to another more detailed "help and support" or "contact us" page.
+* Communication
+  * My HealtheVet is currently working through a lot of change management and trying to communicate a transition, most other products evaluated were not - so this type of communication was difficult to assess. Most communication in competitor portals centers around making the user feel "known" and building trust that they know a lot about the user / have their unique needs in mind.
+  * Some competitors have 2-3 sections where current information about the user is directly surfaced on the page alongside relevant CTAs.
+  * All competitors use badge indicators and/or card-style notifications to draw the user's attention to new, unread, or time-sensitive information.
+* User control
+  * Highly visible cross-links to update personal information or manage settings (such as changing notification preferences, updating password, etc.)
+  * Some dismissible notifications
 
 #### Gaps identified:
+We also noted other needs being solved in the market by competitor products that we do not yet address at all on the My HealtheVet home page. Those are considered "gaps" between the current state of our product and what we predict that users expect from it, and what we need to start addressing in a future state of this page:
 
+* Heavy personalization
+  * All competitors have heavily customized pages with unique information about the user prioritized across the board
+  * All competitors leverage badges or notification cards to direct users to the new, unread, or relevant  
+  * Some competitors expose a care team (providers that were seen in the last X period of time) directly on the page 
+* Promoting programs or services that could be relevant or provide additional benefits to the user
+* Making the user feel "known"
+  * Welcome message and inclusion of their personal name
+  * Cross-links to updating personal information and/or managing settings (such as notification preferences, etc.)
+*  Providing estimated costs when relevant
+  * Competitors such as MyChart provide "cost estimates" for major procedures, such as surgeries
+* Streamlined navigation
+  * Competitors do not provide redundant navigation to the same tools already named in the secondary navigation
+  * Competitors do not have cross-links to tools or affordances on external sites
+  * Many competitors have the luxury of being a standalone portal (not living inside another website) - they are able to rely on a primary menu, or they may use a "more" item in their secondary navigation that opens an expandable component to other tools. 
+* Capping the page length (more relevant on mobile)
+  * The best competitor designs have between 5-6 page scrolls on the mobile version of the page.
+  * The worst experiences have less than 3 or more than 6.
 
 #### Differences in on-page IA hierarchy:
 
