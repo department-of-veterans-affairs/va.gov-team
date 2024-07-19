@@ -64,7 +64,7 @@ This study will use a semi-structured interview around two primary objectives:
 
 1. Understand how Veterans think about the topic. We'll ask them in detail about a recently filed claim or a claim they are planning to file in the future.
 
-2. Get feedback on design concepts focusing on informational content. The first concept will show generic content. The second will include content related to specific conditions. We'll also vary the details of the information presentation to test out different approaches to explaining the topic.
+2. Get feedback on design concepts focusing on informational content. The first concept will show generic content. The second will include content related to a specific condition. 
 
 
 ### Location
@@ -74,9 +74,9 @@ Remote, via Zoom  
 
 ### Research materials
 
-\[Link to conversation guide]
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/conversation-guide.md)
 
-\[Link to prototype]
+[Testing prototype (Google doc)](https://docs.google.com/document/d/1EyW3Z3hQVqDRuWvTcceS0D2o4SgoMqCqqZmCNFseGiU/edit?userstoinvite=katelyn.caillouet@agile6.com&sharingaction=manageaccess&role=writer) Note: We'll remove extraneous content from this doc before testing.
 
 
 ## Recruitment
@@ -186,7 +186,7 @@ Secondary criteria:
 
 ### Prepare
 
-Conversation guide and concepts will be ready Wednesday, July 17.
+Conversation guide and concepts will be ready Friday, July 19.
 
 Pilot session information 
 
@@ -194,12 +194,12 @@ Pilot session information 
 
 - Pilot participant email: TBD
 
-- Date and time of pilot session: Monday, July 22, Time TBD.
+- Date and time of pilot session: Wednesday, July 24, Time TBD.
 
 
 ### Planned dates of research
 
-- July 24-31 
+- July 25 - Aug 2 
 
 
 ### Length of sessions
@@ -216,11 +216,11 @@ Pilot session information 
 Thursday, July 25
 
 - 10:00am - 2:30pm ET
-- 3:30pm - 8pm ET (Please schedule only one session during this time range)
+- 3:30pm - 8pm ET (Please schedule only one session during this time)
 
 Friday, July 26
 
-- 
+- 4:30pm - 8:00pm (Please schedule only two sessions)
 
 Monday, July 29 (Don't schedule more than 2 sessions this day)
 
@@ -237,6 +237,14 @@ Wednesday, July 31
 - 10:00am - 4:00pm ET
 - 5:00pm - 8:00pm ET
 
+Thursday, August 1
+
+- 10:00am - 3:30pm ET
+  
+Friday, August 2
+
+- 11:00am - 3:00pm
+- 4:00pm - 8:00pm
 
 ### Team Roles
 
@@ -248,7 +256,7 @@ Below is the list of the people serving in each role and their contact informati
 
 - Participant recruiting & screening: Perigean
 
-- Project point of contact: _____________________
+- Project point of contact: Kim Ladin (backups: Carolyn Dew, Katelyn Caillouet)
 
 - Participant(s) for pilot test: TBD
 
