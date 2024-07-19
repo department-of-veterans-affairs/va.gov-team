@@ -105,6 +105,7 @@ We evaluated the design solutions that competitors bring to the same needs that 
 * Branding and "sense of place" (did not evaluate as this is a unique problem for My HealtheVet on VA.gov, which is a portal within another website)
 * Communication and user control
 * Personalization
+* Change management (did not evaluate as this is a unique problem for My HealtheVet on VA.gov) 
 
 #### Market trends:
 * Navigation:
@@ -114,8 +115,6 @@ We evaluated the design solutions that competitors bring to the same needs that 
   * Most competitors have sections with business value - promoting programs or other services that a user could "learn more" about, "explore" or take advantage of in some way. These sections do not appear to be conditional (are likely the same for all users).
 * Help
   * Only some competitors surface help directly on the entry point pages to authenticated portals. When they do, it is typically small real-estate and includes a phone number or cross-link to another more detailed "help and support" or "contact us" page.
-* Communication
-  * My HealtheVet is currently working through a lot of change management and trying to communicate a transition, most other products evaluated were not - so this type of communication was difficult to assess. Most communication in competitor portals centers around making the user feel "known" and building trust that they know a lot about the user / have their unique needs in mind.
   * All competitors use badge indicators and/or card-style notifications to draw the user's attention to new, unread, or time-sensitive information.
 * User control
   * Highly visible cross-links to update personal information or manage settings (such as changing notification preferences, updating password, etc.)
