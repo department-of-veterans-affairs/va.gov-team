@@ -39,6 +39,8 @@
 ## SPRINT 12 - 7/24/2024-8/6/2024
 - **GOAL: Support Production**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
+    - **Sub Goal: Move to New AWS Instance**
+      - ❗🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
         - Sprint Goal is to get this feature ready-to-release and schedule a Staging Review
