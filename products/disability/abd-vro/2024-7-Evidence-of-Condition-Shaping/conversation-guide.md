@@ -88,11 +88,42 @@ Imagine that you’re planning to file for a new condition for disability compen
  - *Follow-up*: What kind of documents would you look for to submit when you file your claim?
 - What would be your next steps before you file a new claim? Why?
 
-### Scenario 2a: Hypertension
-### Scenario 2b: Tinnitus
+### Scenario 2a: Hypertension (15-20 min)
+For our next scenario, imagine that you’re filing hypertension, also known as high blood pressure, for disability compensation. You are on VA.gov researching the information you need to gather before you begin your claim.
+
+Read through the text under “Scenario 2: Hypertension” and as before, share your thoughts out loud as you go through. 
+- *after reading*: What are your first impressions about this content? What information stood out to you? 
+- *after discussing*: After reading this, what information would you try to provide to VA when filing for hypertension? How has the content changed what documentation you would plan to submit?
+  - *follow-up*: What kind of documents would you look for to submit when you file your claim?
+- What would be your next steps before you file a new claim? Why?
+- Would you feel confident in your ability to gather the necessary information to submit a claim for hypertension?
 
 
+### Scenario 2b: Tinnitus (15-20 min)
+For this next scenario, imagine you plan to submit a new claim for tinnitus. You are on VA.gov researching the information you need to gather before you begin your claim.
 
+Read through the text under “Scenario 3: Tinnitus.” Again, think out loud as you go.
+- *after reading*: What are your first impressions about this content? What information stood out to you?
+- *after discussing highlights*: After reading this, what information would you be sure to provide to VA when filing for tinnitus? How has the content changed what documentation you would plan to submit?
+  - *follow-up*: What kind of documents would you look for to submit when you file your claim?
+- What would be your next steps before you file a new claim? Why?
+- Would you feel confident in your ability to gather the necessary information to submit a claim for tinnitus? Why (or why not)?
+
+### Comparison (5 min)
+Of the two scenarios, which one was more clear to you? *(probe for details)*
+
+Which one made you feel more confident in knowing what kinds of documents you’d need to submit with a claim? 
+*As needed, show the different versions on screen so the Veteran can refer to them / remember their differences*
+
+
+### Wrap-up (5 min)
+Thank you for working through those scenarios with me. I have a few more questions for you, and then we’ll wrap up.
+- Would this information change how you:
+  - ...might’ve filed a claim in the past?
+  - OR
+  - ...might file a claim in the future?
+*If yes*: What would you do differently?
+*If no*: Probe for details
 
 
 ## Thank-you and Closing
