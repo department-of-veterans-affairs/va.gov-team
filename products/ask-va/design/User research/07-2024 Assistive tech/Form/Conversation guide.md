@@ -149,9 +149,9 @@ Next, I'm going to share a link to the test website.
   - `IF YES` I'm going to `email, send in the Zoom chat, or dictate` the link now.
   - `IF NO` Would you prefer that I email you the link, send it in the Zoom chat or dictate it to you?
 
-> Dictate or send link.
+> Dictate or send link: [https://staging.va.gov/contact-us/ask-va-too/](https://staging.va.gov/contact-us/ask-va-too/).
 
-> Opens staging link.
+> Opens staging link: [https://staging.va.gov/contact-us/ask-va-too/](https://staging.va.gov/contact-us/ask-va-too/).
 
 ## Home page (10 minutes)
 
