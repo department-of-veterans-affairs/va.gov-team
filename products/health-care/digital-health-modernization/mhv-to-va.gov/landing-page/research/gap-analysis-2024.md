@@ -103,7 +103,7 @@ We evaluated the design solutions that competitors bring to the same needs that 
 * Education
 * Help
 * Branding and "sense of place" (did not evaluate as this is a unique problem for My HealtheVet on VA.gov, which is a portal within another website)
-* Communication and user control
+* User control
 * Personalization
 * Change management (did not evaluate as this is a unique problem for My HealtheVet on VA.gov) 
 
