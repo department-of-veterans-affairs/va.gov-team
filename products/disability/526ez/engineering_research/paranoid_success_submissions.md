@@ -31,6 +31,10 @@ There is an edge case however, wherein a submission can have a status of `succes
 
 To capture these changes, if they happen, we run a slightly modified "paranoid" version of the `Form526StatusPollingJob` once a week. This paranoid job will only "check up" on the submissions with the flakey `success` state in Benefits Intake.  These are represented localy by a `backup_submitted_claim_status` of `paranoid_success`.  A `paranoid_success` submission can be treated as successful for reporting, because we know if it changes we will capture the change with our weekly paranoid job.
 
+### The 'next step' problem
+
+There is a reaonable case to be made that there are better ways to deal with this edge case. "Paranoid success" logic is a clunky solution that involves multiple sources of truth and tracking what is essentially in an error in a totally different application. However, *someone* needs to be watching for it, otherwise it becomes a silent failure. When the failure happens, someone (human or application) needs to catch it and take the 'next step', e.g. send an alert, get it into the remediation pipeline, notify the vet, something. Right now the vets-api team owns the 'next step'. We take the next step by assigning the submission a state based on what Benefits Intake has updated it to, most likely `rejected`. When a submission is `rejected` from Benefits Intake, it is 'failure type' and automagicaly swept up in our failure tracking system (see 'exclusive methodology' for more). For more context, visit the slack thread linked above, but TL;DR is this; the lift was light, the overhead is low, and we have the better failure tracking / remediation system.
+
 ### Success by Age vs Paranoid Success
 
 There is a second scope `success_by_age_type` that is similar to `paranoid_success_type`. "success by age" submission meets the following criteria
@@ -41,3 +45,9 @@ There is a second scope `success_by_age_type` that is similar to `paranoid_succe
 After a year of "checking up" on a paranoid success submission, we say "enough is enough" and consider it successful for all time, unless someone explicitly tells us different. To put it another way, a paranoid success matures into a "success by age" if it remains a `success` for one year in Benefits Intake.
 
 Note that "success by age" is implicit. We do not chance the database record. It is identified by it's `paranoid_success` value and it's age.
+
+### How can we not need / remove this
+
+This feature will become obsolete if any of the following become true
+
+- someone else (e.g. Benefits Intake) accepts ownership of the 'next step' problem
