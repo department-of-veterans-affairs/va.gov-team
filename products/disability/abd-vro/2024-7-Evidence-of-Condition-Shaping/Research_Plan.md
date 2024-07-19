@@ -213,14 +213,14 @@ Pilot session information 
 
 ## Availability
 
-Wednesday, July 24
-
-- 11:00am - 8:00pm ET 
-
 Thursday, July 25
 
 - 10:00am - 2:30pm ET
 - 3:30pm - 8pm ET (Please schedule only one session during this time range)
+
+Friday, July 26
+
+- 
 
 Monday, July 29 (Don't schedule more than 2 sessions this day)
 
