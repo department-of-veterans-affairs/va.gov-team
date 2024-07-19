@@ -39,3 +39,5 @@ There is a second scope `success_by_age_type` that is similar to `paranoid_succe
 - it is **MORE** than a year old
 
 After a year of "checking up" on a paranoid success submission, we say "enough is enough" and consider it successful for all time, unless someone explicitly tells us different. To put it another way, a paranoid success matures into a "success by age" if it remains a `success` for one year in Benefits Intake.
+
+Note that "success by age" is implicit. We do not chance the database record. It is identified by it's `paranoid_success` value and it's age.
