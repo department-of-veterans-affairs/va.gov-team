@@ -104,6 +104,7 @@ We evaluated the design solutions that competitors bring to the same needs that 
 * Help
 * Branding and "sense of place" (did not evaluate as this is a unique problem for My HealtheVet on VA.gov, which is a portal within another website)
 * Communication and user control
+* Personalization
 
 #### Market trends:
 * Navigation:
@@ -115,34 +116,22 @@ We evaluated the design solutions that competitors bring to the same needs that 
   * Only some competitors surface help directly on the entry point pages to authenticated portals. When they do, it is typically small real-estate and includes a phone number or cross-link to another more detailed "help and support" or "contact us" page.
 * Communication
   * My HealtheVet is currently working through a lot of change management and trying to communicate a transition, most other products evaluated were not - so this type of communication was difficult to assess. Most communication in competitor portals centers around making the user feel "known" and building trust that they know a lot about the user / have their unique needs in mind.
-  * Some competitors have 2-3 sections where current information about the user is directly surfaced on the page alongside relevant CTAs.
   * All competitors use badge indicators and/or card-style notifications to draw the user's attention to new, unread, or time-sensitive information.
 * User control
   * Highly visible cross-links to update personal information or manage settings (such as changing notification preferences, updating password, etc.)
   * Some dismissible notifications
+* Personalization
+  * Many competitors make the user feel known right away: including a welcome message, including their name, and fronting information about the user immediately. 
+  * All competitors highly personalize the page to clearly communicate information unique to the user. Personalized components (notification cards or sections with specific content) are almost always given primary hierarchy placement on the page, but some features are prioritized as secondary (i.e. notification badges that are less visually "loud" or prominent).
+  * Some competitors have 2-3 sections where current information about the user is directly surfaced on the page alongside relevant CTAs.
+  * One health competitor exposes a care team on the page; the other includes names of physicians in messaging about those appointments or related care.
+  * Competitors have reminders (appointments, time sensitive tasks, follow-up needed, etc.)
+
 
 #### Gaps identified:
-We also noted other needs being solved in the market by competitor products that we do not yet address at all on the My HealtheVet home page. Those are considered "gaps" between the current state of our product and what we predict that users expect from it, and what we need to start addressing in a future state of this page:
+We also noted differences in how competitors address these needs. Any new ideas not included on our landing page today are considered potential product "gaps" between the current state of our product and what we predict that users expect from it, and what we may need to start addressing in a future state of this page:
 
-* Heavy personalization
-  * All competitors have heavily customized pages with unique information about the user prioritized across the board
-  * All competitors leverage badges or notification cards to direct users to the new, unread, or relevant  
-  * Some competitors expose a care team (providers that were seen in the last X period of time) directly on the page 
-* Promoting programs or services that could be relevant or provide additional benefits to the user
-* Making the user feel "known"
-  * Welcome message and inclusion of their personal name
-  * Fronting known information about the user right away (their banking accounts, their health care team, their upcoming trips, etc.)
-*  Providing estimated costs when relevant
-  * Competitors such as MyChart provide "cost estimates" for major procedures, such as surgeries
-* Streamlined navigation
-  * Competitors do not provide redundant navigation to the same tools already named in the secondary navigation
-  * Competitors do not have cross-links to tools or affordances on external sites
-  * Many competitors have the luxury of being a standalone portal (not living inside another website) - they are able to rely on a primary menu, or they may use a "more" item in their secondary navigation that opens an expandable component to other tools. 
-* Capping the page length (more relevant on mobile)
-  * The best competitor designs have between 5-6 page scrolls on the mobile version of the page.
-  * The worst experiences have less than 3 or more than 6.
-* User control
-  * Cross-links to update personal information and/or manage settings (such as notification preferences, etc.)
+<img width="977" alt="Screenshot 2024-07-19 at 10 25 35 AM" src="https://github.com/user-attachments/assets/d234f6fc-691b-462d-a4e8-597f1eb0b512">
 
 #### Differences in on-page IA hierarchy:
 
