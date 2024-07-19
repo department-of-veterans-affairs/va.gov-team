@@ -73,7 +73,7 @@ Knowing that, are you comfortable if I record my screen and audio as we talk tod
     - Have the VA sent you to a C&P exam?
 
 ## Concept evaluation
-### Introduction (5-10 min)
+### Introduction (5 min)
 - We’re working on content to help Veterans understand what is needed when they file a disability claim. Today, we’ll look at a document with this content together. I’m going to share my screen with you.
 - [share screen with content doc] Are you able to see my screen?
   - *if yes* Great. Let's take a look at our first scenario.
