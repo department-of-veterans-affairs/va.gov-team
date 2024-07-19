@@ -30,19 +30,19 @@ We posit that some unmet Veteran and/or business needs might be identified by lo
 3. Market research (competitive analysis into other authenticated portals)
 
 ### <a name="va-research"></a>1. Previously conducted research at VA<br>
-This research looked at previously conducted studies at the VA - some specific to earlier health portal generative research, broader healthcare benefit related research, and some broader research and artifacts that are adjacent to health work and outcomes. Those studies include:
+This research looked at previously conducted studies at the VA - some specific to earlier health portal generative research, broader healthcare benefit related research, and also research and artifacts that are adjacent to health work and outcomes. Those studies include:
 
 **Health research:**
 * [Digital Health Modernization generative research - 2020](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1607438166231/034610fe4b845af0212aedcd5868db72e8ee48c8?sender=ua13e567cb5c4221acaa14949)
 * [Preferred Health Facilities research - 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2021-05-facilities-personalization-research/preferred-health-facilities-research-report.pdf)
 * [10-10EZ Toxic Exposure Questions Usability Study (10-10 Health Apps Team) - 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy/research-findings.md)
+* [My HealtheVet home page user research - 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md)
 
 **Other Veteran research and artifacts:**
 * [Logged in homepage discovery summary - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/discovery-summary.md#people-want-a-task-based-logged-in-homepage-tailored-to-them)
 * [VA.gov home page top tasks research (Public Websites Team) - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research)
 * [Personalized home screen evaluative research (VAHB Mobile App Team) - 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20findings.md)
 * [Generative research on Transitioning Service Members (Authenticated Experience Team) - 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md#we-identified-things-that-would-foster-a-sense-of-trust-and-make-an-onboarding-experience-useful-if-we-want-to-pursue-it)
-* [VA.gov home page user research (Public Websites Team) - 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/previous-research-review.md)
 * [Authenticated user generative research (Authenticated Experience Team) - 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md)
 * [Caregiver Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/ab4809450af08fbe0ad41f1d7fc44ae5a959d752/platform/design/va-product-journey-maps/Caregiver-Journey-Map.pdf)
 * [Building trust with women Veterans journey map
@@ -55,8 +55,34 @@ This research looked at previously conducted studies at the VA - some specific t
 
 #### Themes/Trends: 
 
-#### Gaps identified: 
+* Common behaviors and motivations
+  * Veterans desire the VA to integrate siloed workflows so that they can more easily obtain, access, and **maximize** their benefits. _(DHM generative research study, 2020)_
+  * Caregivers develop workarounds to effectively manage health needs when sharing one MHV account. This causes friction and confusion (namely, providers being unwilling to communicate with caregiver thru messaging) _(DHM generative research study, 2020)_
+  * The complexity of VA discourages people from applying for benefits, especially for people with cognitive considerations. _(Generative research on Transitioning Service Members, 2024)_
+  * People unfamiliar with community care did not gravitate towards it while those who were familiar were drawn to it. _(My HealtheVet home page user research, 2023)_
+  * Most participants had to seek care outside the VA to meet their health needs. Some were referred to community care for speciality services. Others leveraged separate insurance to receive timely and personalized care from providers. _(Review of related user research: VA mobile app personalization, 2022) _
 
+* Asks for personalized / customized experiences
+  * When Veterans were asked to design their own home page, they created pages that gave them access to most important tasks in one place, guided them to benefit info and recommendations, minimized content not specific to them, provided them with important updates. _(Authenticated user generative research, 2020)_
+  * "Veterans want a page that is focused on current information specific to them, rather than generalized information for all Veterans." _(VA.gov home page user research, 2023)_
+  * Veterans would like to see us surface benefit **recommendations** alongside existing benefit management in a single place. _(Generative research on Transitioning Service Members, 2024)_
+
+* Mental model connection between health and disability benefits
+  * Navigating to disability claim info from MHV is complicated ; but MHV has valuable features, such as access to medical records for ongoing disability claims. _(DHM generative research study, 2020)_
+  * Veterans are concerned with documenting their service connected disabilities for fear of losing access to care. _(DHM generative research study, 2020)_
+
+* Desire for clear financial information in health portal
+  * Veterans and their caregivers rely on their outside health insurance providers and hard copy VA medical bills to decipher their VA health finances. _(DHM generative research study, 2020)_
+  * Veterans should be able to see financial information in context with their VA health services. _(DHM generative research study, 2020)_
+
+#### Gaps identified: 
+* Customize the landing page experience to include things that are highly relevant for them, have tasks in one place.
+* Help direct Veterans to new things that they may want to see right away.
+* Surface additional benefits that Veterans are eligible to apply for; make this clear and easy for them.
+* Notify and/or remind Veterans of time-sensitive information and actions they should take to better manage their care.
+* Veterans want to understand financial costs in-context, when they make decisions about their care. 
+* Better serve caregivers and understand their unique needs in helping Veterans manage their healthcare.
+* Clarify the relationship between disability and health benefits.
 
 ### <a name="medallia"></a>2. Qualitative Medallia feedback<br>
 We closely evaluated qualitative feedback from two surveys: A11 and Intercept that have been collected since the integration launch date of 6/17/2024. Feedback was sorted based on overall sentiment in these three categories: 
