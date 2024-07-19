@@ -126,6 +126,8 @@ Thank you for working through those scenarios with me. I have a few more questio
 *If yes*: What would you do differently?
 *If no*: Probe for details
 
+- That’s it for my questions. Is there anything else you’d like to tell me about what we discussed today?
+
 
 ## Thank-you and Closing
 Well we really appreciate you taking the time to share your thoughts with us today. 
