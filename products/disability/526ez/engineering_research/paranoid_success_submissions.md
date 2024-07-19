@@ -54,4 +54,4 @@ This feature will become obsolete if any of the following become true
 - Benefits Intake `success` status becomes immutable, eliminating the edge case
 - We migrate off of Benefits Intake
 
-If we no longer need it, then it's safe do simply transition any `paranoid_success` submissions to `accepted` via a script or rake task, then remove the unused code. 
+If we no longer need it, then it's safe to simply transition any `paranoid_success` submissions to `accepted` via a script or rake task, then remove the unused code. It's important that the `paranoid_success` is not deleted without first marking these submissions as `accepted`, otherwise they will show up as 'failure type'.
