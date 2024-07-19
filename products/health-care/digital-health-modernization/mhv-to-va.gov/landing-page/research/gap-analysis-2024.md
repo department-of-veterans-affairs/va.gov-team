@@ -131,7 +131,7 @@ We also noted other needs being solved in the market by competitor products that
 * Promoting programs or services that could be relevant or provide additional benefits to the user
 * Making the user feel "known"
   * Welcome message and inclusion of their personal name
-  * Cross-links to updating personal information and/or managing settings (such as notification preferences, etc.)
+  * Fronting known information about the user right away (their banking accounts, their health care team, their upcoming trips, etc.)
 *  Providing estimated costs when relevant
   * Competitors such as MyChart provide "cost estimates" for major procedures, such as surgeries
 * Streamlined navigation
@@ -141,6 +141,8 @@ We also noted other needs being solved in the market by competitor products that
 * Capping the page length (more relevant on mobile)
   * The best competitor designs have between 5-6 page scrolls on the mobile version of the page.
   * The worst experiences have less than 3 or more than 6.
+* User control
+  * Cross-links to update personal information and/or manage settings (such as notification preferences, etc.)
 
 #### Differences in on-page IA hierarchy:
 
