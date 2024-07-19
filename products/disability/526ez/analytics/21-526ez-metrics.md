@@ -1,4 +1,4 @@
-# 526 Metrics
+# 21-526ez Metrics
 
 ## Must have
 | Goal                                     | Metrics                                               | Definition                                                   | Location |
