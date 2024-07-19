@@ -20,9 +20,9 @@ This research supports [OCTO Objective 1](https://github.com/department-of-veter
 
 ## Research goals
 
-Our research in this phase focuses on answering one core question: 
+Our research in this phase aims to get a directional signal on this core question: 
 
->Can we influence Veterans to provide better evidence of a current condition when they file a claim?
+>Can content influence Veterans to provide better evidence of a current condition when they file a claim?
 
 
 ### Outcome
