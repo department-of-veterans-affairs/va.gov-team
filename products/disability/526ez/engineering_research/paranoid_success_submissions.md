@@ -29,7 +29,7 @@ Our `Form526StatusPollingJob` runs every night to capture these Benefits Intake 
 
 There is an edge case however, wherein a submission can have a status of `success` but later be changed to any other state. Because the `Form526StatusPollingJob` only polls "pending submissions" and we need to treat `success` as a local success state (not pending), this change won't be captured by the standard nightly polling. We need to reflect this change in our system to prevent this failure from remaining silent. 
 
-To capture these changes, if they happen, we run a slightly modified "paranoid" version of the `Form526StatusPollingJob` once a week. This paranoid job will only "check up" on the submissions with the flakey `success` state in Benefits Intake.  These are represented localy by a `backup_submitted_claim_status` of `paranoid_success`.  A `paranoid_success` submission can be treated as successful for reporting, because we know if it changes we will capture the change with our weekly paranoid job.
+To capture these changes, if they happen, we run a slightly modified "paranoid" version of the `Form526StatusPollingJob` once a week. This paranoid job will only "check up" on the submissions with the flaky `success` state in Benefits Intake.  These are represented localy by a `backup_submitted_claim_status` of `paranoid_success`.  A `paranoid_success` submission can be treated as successful for reporting, because we know if it changes we will capture the change with our weekly paranoid job.
 
 ### The 'next step' problem
 
