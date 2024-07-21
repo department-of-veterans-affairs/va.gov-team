@@ -70,6 +70,8 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
+    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+
 
 
 
@@ -87,6 +89,9 @@ ________________________________________________________________________________
        - 🟦 [Alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87732)
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
        - 🟦 [[SPIKE] Determine approach for checking if appts have been scheduled in WellHive, but aren't in VAOS Backend yet](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88491)
+    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+       - 🟥 [[Design] Finish cancel wireframes and pull into Wellhive API usage and MPV scope pages in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88489)
+
 
          
 </details>
