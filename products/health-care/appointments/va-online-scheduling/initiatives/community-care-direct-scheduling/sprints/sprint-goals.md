@@ -97,7 +97,7 @@ ________________________________________________________________________________
        - ❗ 🟨 [[Research] Complete research synthesis](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88888)
        - ❗ 🟨 [[Research] Create research findings presentation for OCTO, VSS, EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88889)
        - 🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)
-
+       - 🟨 [Create tickets to implement recommendations from research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88891)
          
 </details>
 
