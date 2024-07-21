@@ -87,6 +87,7 @@ ________________________________________________________________________________
        - 🟨 [Create tickets to implement recommendations from research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88891)
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
        - 🟥 [[Design] Finish cancel wireframes and pull into Wellhive API usage and MPV scope pages in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88489)
+       - 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
        - 🟥 [[Design] Create design when Veteran already has an appointment at that time](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88887)
     - **Sub Goal: [Feature] Migrate app pages to vets-website staging env**
