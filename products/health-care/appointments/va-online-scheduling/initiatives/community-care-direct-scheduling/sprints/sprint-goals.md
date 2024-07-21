@@ -72,6 +72,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
     - **Sub Goal: [Feature] Tech & Design Debt**
+    - **Sub Goal: [Feature] Migrate app pages to vets-website staging env**
 
 
 
@@ -102,6 +103,11 @@ ________________________________________________________________________________
        - ❗ 🟨 [[Research] Create research findings presentation for OCTO, VSS, EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88889)
        - 🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)
        - 🟨 [Create tickets to implement recommendations from research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88891)
+    - **Sub Goal: [Feature] Migrate app pages to vets-website staging env**
+       - 🟦 [Move Choose a provider page to stg env](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88894)
+       - 🟦 [Move Choose a provider page with filtered results to stg env](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88895)
+       - 🟦 [Move Filtering of providers page to stg eng](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88896)
+
          
 </details>
 
