@@ -91,7 +91,8 @@ ________________________________________________________________________________
        - 🟦 [[SPIKE] Determine approach for checking if appts have been scheduled in WellHive, but aren't in VAOS Backend yet](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88491)
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
        - 🟥 [[Design] Finish cancel wireframes and pull into Wellhive API usage and MPV scope pages in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88489)
-
+    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+       - 🟥 [[Design] Create design when Veteran already has an appointment at that time](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88887)
 
          
 </details>
