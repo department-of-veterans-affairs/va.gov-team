@@ -93,6 +93,10 @@ ________________________________________________________________________________
        - 🟥 [[Design] Finish cancel wireframes and pull into Wellhive API usage and MPV scope pages in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88489)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
        - 🟥 [[Design] Create design when Veteran already has an appointment at that time](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88887)
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
+       - 🟨 [[Research] Complete research synthesis](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88888)
+       - 🟨 [[Research] Create research findings presentation for OCTO, VSS, EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88889)
+       - 🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)
 
          
 </details>
