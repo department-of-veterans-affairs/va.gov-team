@@ -65,11 +65,11 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create KPIs**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-    - 
     - **Sub Goal: [Feature] Get connected with WellHive**
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
-    - **Sub Goal: [Feature] Integrate mocks with FE pages** 
+    - **Sub Goal: [Feature] Integrate mocks with FE pages**
+    - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
 
 
 
@@ -85,7 +85,9 @@ ________________________________________________________________________________
        - 🟦 [Confirm page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87728)
        - 🟦 [Success (appointment details) page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87730)
        - 🟦 [Alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87732)
-    
+    - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
+       - 🟦 [[SPIKE] Determine approach for checking if appts have been scheduled in WellHive, but aren't in VAOS Backend yet](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88491)
+
          
 </details>
 
