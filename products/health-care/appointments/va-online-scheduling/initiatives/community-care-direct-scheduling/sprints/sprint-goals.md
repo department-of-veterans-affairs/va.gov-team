@@ -61,13 +61,14 @@ ________________________________________________________________________________
 
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Get CC Consults**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create KPIs**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+    - 
     - **Sub Goal: [Feature] Get connected with WellHive**
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
-    - **Sub Goal: [Feature] Get authorized referrals from CDW**
     - **Sub Goal: [Feature] Integrate mocks with FE pages** 
 
 
@@ -77,12 +78,14 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments** 
+    - **Sub Goal: [Feature] Get CC Consults**
+       - ❗ 🟦 [Document architecture or sequence diagrams in repo based on conversation with VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
+       -  🟥 [Update Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88886)
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
        - 🟦 [Confirm page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87728)
        - 🟦 [Success (appointment details) page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87730)
        - 🟦 [Alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87732)
-    - **Sub Goal: [Feature] Get CC Consults**
-       - ❗ 🟦 [Document architecture or sequence diagrams in repo based on conversation with VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
+    
          
 </details>
 
