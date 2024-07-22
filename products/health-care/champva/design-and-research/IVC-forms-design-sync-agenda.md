@@ -1,4 +1,16 @@
 # Running Design and Research Agenda
+## July 22, 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil,
+- Facilitator: Steven
+- Next meeting facilitator: TBD
+- Agenda Topics
+  - Status on FMP service blueprint
+  - Status on CHAMPVA registration user journey
+  - Update to include prefill in FMP forms
+  - Status on CHAMPVA claims service blueprint
+  - Update on 10-10d UXR stakeholder readout
+### Notes
+- 
 ## July 15, 2024
 - Attendees: Premal Shah, Jamie Fiore, Syd Hoeper, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil
 - Facilitator: Steven
