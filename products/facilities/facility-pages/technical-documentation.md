@@ -10,10 +10,10 @@ Automated Testing of these pages is difficult, due to the potentially changing n
 Facilities Datadog dashboard: https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1720456851314&to_ts=1720460451314&live=true
 
 For more information on the nature of the product-specific monitors, including triage / escalation info: 
-* VAMC Monitoring information: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/engineering/monitoring.md
-* Vet Center monitoring information: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/engineering/monitoring.md
-* Facilities API monitoring: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/monitoring.md
-* Facility Locator monitoring: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/monitoring.md
+* VAMC Monitoring information: [facilities/medical-centers/engineering/monitoring.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/engineering/monitoring.md)
+* Vet Center monitoring information: [facilities/vet-centers/engineering/monitoring.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/engineering/monitoring.md)
+* Facilities API monitoring: [facilities/facilities-api/monitoring.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/monitoring.md)
+* Facility Locator monitoring: [facilities/facility-locator/engineering/monitoring.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/monitoring.md)
 
 ## Product technical documentation
 If a specific product has its own Lighthouse integration, notes are stored in the Product-specific engineering docs: 
