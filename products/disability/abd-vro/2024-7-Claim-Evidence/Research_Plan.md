@@ -199,7 +199,7 @@ Pilot session information 
 
 ### Planned dates of research
 
-- July 25 - Aug 2 
+- July 29 - Aug 2 
 
 
 ### Length of sessions
@@ -213,14 +213,6 @@ Pilot session information 
 
 ## Availability
 
-Thursday, July 25
-
-- 10:00am - 2:30pm ET
-- 3:30pm - 8pm ET (Please schedule only one session during this time)
-
-Friday, July 26
-
-- 4:30pm - 8:00pm (Please schedule only two sessions)
 
 Monday, July 29 (Don't schedule more than 2 sessions this day)
 
