@@ -4,30 +4,30 @@
 
 Janelle Finnerty, janelle.finnerty\@oddball.io
 
-[Research readout](https://dvagov.sharepoint.com/:f:/s/vaabdvro/ElIjVGsiUuxKlrLfz9kOF5EBsJ1m8hrAIschoOj0ESipVw?e=ehybDX)
+Jump to:
 
-[Research Goals](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.flw62kxuylf2)
+[Research Goals](#research-goals)
 
-[Research Questions](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.xzpwlgnn4bas)
+[Research Questions](#research-questions)
 
-[Methodology](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.neg1or2ty01z)
+[Methodology](#methodology)
 
-[Tasks and Conclusions](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.kbuzb28akgip)
+[Tasks and Conclusions](#tasks-and-conclusions)
 
-[Details of Findings](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.iv95kxm7zaha)
+[Details of Findings](#details-of-findings)
 
-[Additional Insights](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.o9sp6huxdo3l)
+[Additional Insights](#additional-insights)
 
-[Recommendations](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.nodqkq6pknac)
+[Recommendations](#recommendations)
 
-[Next Steps](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.86aq0jmg39jn)
+[Next Steps](#next-steps)
 
-[Appendix](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.cwd8u8959etn)
+[Further Research Needed](#further-research-needed)
 
-[Who we Talked To](https://docs.google.com/document/d/1BlpvSwSTc6XjIk_j_2kg9Ox7UeOugd9JBFx5mW-BkCc/edit#heading=h.8knnoew9esih)
+[Appendix](#appendix)
 
 
-# Research Goals
+# Research Goals<a id="research-goals"></a>
 
 ## Veteran Journey
 
