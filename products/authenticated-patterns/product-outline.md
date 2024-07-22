@@ -10,7 +10,8 @@ How might we update existing, or create new patterns to improve Veteran authenti
 - Users providing personal data in an application that is then later used to complete additional applications
 
 ## Undesired User Outcomes
-- 
+- Veterans have a more difficult time filling out user profiles and other forms
+- Users are confused about where their profile data lives and is used.
 
 ## Desired Business Outcomes
 - 6 - 8 VA reusable patterns for personalized, authenticated experiences are created
@@ -109,15 +110,15 @@ We believe this pattern could consist of a common 'user menu' including content,
 
 ### Initiatives
 - Prefill Form Data (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/17)
-- Maintain accurate data within their profile
-- Service History
-- Auto Save Alert
-- Make Descisions based on personalized form flows
-- Information mismatch handling
-- Stay informed of request status
-- Know when there's a personal notification
-- Help users sign in with less friction
-- Navigate as an authenticated user
+- Maintain accurate data within their profile (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/22)
+- Service History (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/27)
+- Auto Save Alert (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/24)
+- Make Descisions based on personalized form flows (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/25)
+- Information mismatch handling (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/30)
+- Stay informed of request status (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/21)
+- Know when there's a personal notification (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/19)
+- Help users sign in with less friction (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/20)
+- Navigate as an authenticated user (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/23)
 
 --- 
 
