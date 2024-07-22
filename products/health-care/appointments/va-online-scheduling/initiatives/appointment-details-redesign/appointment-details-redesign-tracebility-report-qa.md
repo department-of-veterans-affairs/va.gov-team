@@ -107,20 +107,20 @@ Issue found when testing "Canceled upcoming video appointment" along with the "P
 - [ ]  **Video - open** No open vid on Judy
 
 ### Pending Appointments
-- [ ]  **VA**
-- [ ]  **CC**
+- [x]  **VA**
+- [x]  **CC**
 
 ### Canceled Appointments
 - [x]  **Phone**
 - [x]  **In Person**
 - [x]  **Video**
-- [ ]  **CC**
+- [x]  **CC**
 
 ### Past Appointments
-- [ ]  **Phone** (Judy does not have)
+- [x]  **Phone**
 - [x]  **In Person**
 - [x]  **Video**
-- [ ]  **CC**
+- [x]  **CC**
 
 
 ### Talkback on Android
