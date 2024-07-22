@@ -90,14 +90,19 @@ We believe that creating a pattern for personalized form flows will significantl
 - progress/status bars
 
 ### Information mismatch handling
+We believe that alerting users to mismatched data when filling out forms will improve the quality of profile data and help reduct frustration and mistrust with users. As with other pattern prospects, we believe this could be a widely used pattern within other agencies authenticated form experiences.
 
 ### Stay informed of request status
+We believe that creating a pattern for how users are informed of the status of their requests, whther helpdesk or form submission related, is an extremely valuable pattern, however we acknowledge that this is also a very broad idea that will be more difficult to implement. We do believe that creating a pattern for a notification dashboard or similar is useful to other agencies with authenticated form submissions and helpdesks.
 
 ### Know when there's a personal notification
+We believe that creating a pattern for personal and timely notifications, is an extremely valuable pattern, however we acknowledge that this is also a very broad idea that will be more difficult to implement. We believe that this pattern may tie in closely with the previous request status pattern and may have ready to adopt patterns found in other agencies using USWDS.
 
 ### Help users sign in with less friction
+Currently there are many methods a user can authenticate on VA.gov including buttons, modals, inline links on pages, etc. We believe this could be improved by creating a pattern that could include guidance and components for how users authenticate on VA.gov and other federal agency sites using ID.me and login.gov. 
 
 ### Navigate as an authenticated user
+We believe this pattern could consist of a common 'user menu' including content, design and placement across the VA common header that could provide some guidance to other federal agencies via USWDS components for how and when to include a user or utility menu within the header.
 
 - *What are you going to build now, and why have you decided to start there?*
 - *Why this solution / approach over other solutions / approaches?*
