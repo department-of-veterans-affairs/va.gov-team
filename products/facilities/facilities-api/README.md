@@ -15,6 +15,7 @@ There are 2 versions of a Facilities API that are powered by vets-api. Both are 
   * [Code](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#code-1)
   * [Legacy API client consumers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#customers-1)
   * [Data sources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#data-sources-1)
+* [Monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api/monitoring.md) 
 
 ## Modern Facilities API
 The `facilities-api` provides endpoints to retrieve data about facilities from multiple upstream data sources, including Lighthouse and PPMS.
