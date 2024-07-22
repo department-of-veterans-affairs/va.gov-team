@@ -80,9 +80,14 @@ We believe this is a good pattern to begin with as there are many forms already 
 - directions to update profile data 
 
 ### Maintain accurate data within their profile
-
+We believe that creating improved personal profile maintenance interfaces will help improve and maintain data quality within user profiles. This pattern will tie in closely with the prefill form pattern and knowing where and how to update out of date information when forms are prefilled. As such we believe this is a good second pattern to work with and should consist of:
+- consistent presentation of profile fields across all VA products
+- directions to update profile data 
+- page-level alerts
+- inline alerts
 
 ### Service History
+Service History is a preexisting VADS component that we believe would be a good candidate for adoption by USWDS, as many other agencies require information about a user's service history, including the IRS and State Dept. While we think that some parts of this pattern may become obsolete once prefill is fully adopted, we believe that it is still a useful pattern for unauthenticated users and those agencies who have not yet integrated with DOD, VA or ID.me to verify/validate service history.
 
 ### Auto Save Alert
 
