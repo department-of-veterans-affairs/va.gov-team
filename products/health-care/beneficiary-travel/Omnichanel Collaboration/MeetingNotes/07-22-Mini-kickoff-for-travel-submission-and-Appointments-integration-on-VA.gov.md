@@ -10,7 +10,12 @@ Date: Monday, July 22, 2024
 - **[BTSSS Team] File a BT claim form flow on VA.gov:** When a link is selected from a past appointment on Appointments on VA.gov, the Appointments application will pass the patient ICN and appointment date and time to the BT claim flow tool. Veterans will be able to file a mileage-only claim for that appointment, which will then be routed into BTSSS for processing. 
 - **[Appointments/Check-in and BTSSS Teams] Check a BT claim status on VA.gov:** Veterans have the ability to check the status of their BT claim on VA.gov with the VA.gov Travel Reimbursement Status tool (not to be confused with the Benefits Claims Status tool).
    - In addition, there will be a link to navigate to the VA.gov Travel Reimbursement Status tool from past appointments on Appointments on VA.gov. When the appointment detail page loads, the BTSSS Get Claim Status API needs to be hit to determine if a Veteran has filed a claim for the day at that facility. If there has been a claim already filed, show information to the Veteran to review information on VA.gov about BT eligibility and how long they have to file after an appointment. 
-   - Note: this scope **_does not_** include displaying a BT claim’s status on the appointment detail pages. 
+   - Note: this scope **_does not_** include displaying a BT claim’s status on the appointment detail pages.
+ 
+### Eligible past appointment types
+
+- In-person appointments
+- Video at a VA facility appointment
 
 ## Existing design and research artifacts 
 
