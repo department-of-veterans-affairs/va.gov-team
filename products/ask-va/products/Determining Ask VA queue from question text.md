@@ -54,7 +54,7 @@ Agents reroute once correctly 90% of the time. 10% of the time, it takes agents 
 
 **Opportunity**: We could help agents reroute correctly the first time by recommending queues to agents in CRM. 
 There is a primary benefit to dynamically recommending queues to agents:  
--	Submitters will get quicker responses because questions get rerouted by agents to the correct queue the first time. We know it takes agents 1.5 times longer to respond to questions if they reroute a question multiple times compared to only rerouting once.
+-	Submitters will get quicker responses because questions get rerouted by agents to the correct queue the first time. We know **it takes agents 1.5 times longer to respond to questions if they reroute a question multiple times compared to only rerouting once**.
 ## Plan WIP
 -	WIP
 -	See planning work [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719949263359/22d8bf1e2d70fac8a9da7e57ca6642e2e23724fb?sender=u44efa807e992cacf10cf3697)
