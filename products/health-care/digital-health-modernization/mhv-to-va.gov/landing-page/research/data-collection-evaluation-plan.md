@@ -6,7 +6,7 @@
 
 ### **Objectives**
 
-- Put objectives here 
+- “Facilitate Veterans' transition to the new MHV landing page & features to complete health-related actions”
 
 ### **Key Results**
 
