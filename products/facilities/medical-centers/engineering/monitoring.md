@@ -1,8 +1,8 @@
-## VAMC Monitoring
+# VAMC Monitoring
 
 VAMC pages are generated on content-build from drupal data. These pages are changed by editors at different levels, but the resulting content is processed by content-build or next-build. 
 
-# Datadog Dashboard
+## Datadog Dashboard
  - [Facilities Alerting Dashboard including Facility-Locator API resources](https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities)
 
 ## Monitors
