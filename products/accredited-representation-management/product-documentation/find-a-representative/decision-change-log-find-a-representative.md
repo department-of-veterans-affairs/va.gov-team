@@ -1,4 +1,4 @@
-# Decision Log: Find a Representative
+# Decision and Change Log: Find a Representative
 
 - **10/20/2023**: Decided to split into distinct products (Find, Appoint and Widget).\
   _Discussed by the ARM team starting on 10/18/2023 and direction confirmed by Product Owner Zach Goldfine ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1697658933875239))._
