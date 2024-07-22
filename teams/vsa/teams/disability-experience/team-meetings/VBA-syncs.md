@@ -6,6 +6,8 @@ Goal of the meeting series: addressing policy related or other open questions fo
 …
 ### Notes
 1. the toxic exposure testing plan (logistics of how we create/cancel claims in prod) and release timing!
+2. why don't we ask service connection question for PTSD/mental health conditions?
+3. could we move POW question to step 1 of digital 526?
 
 ## 7/09/24 Biweekly VBA-DBEX Check-in
 ### Notes
