@@ -625,3 +625,58 @@ The technical documentation for prefill is here: https://depo-platform-documenta
 | src/applications/pre-need-integration/config/form.jsx                        | 40-10007 pre need burial planning form                                                      | /burials-and-memorials/pre-need-integration                                                                  |
 | src/applications/fry-dea/config/form.js                                      | Fry/DEA — VA Education Benefits For Survivors And Dependents                                | /fry-dea                                                                                                     |
 
+
+## Notes on SaveInProgressIntro component
+
+- component handles not only the save in progress messaging, but also the prefill within a singular alert
+- this alert is only shown if the user is already signed in and their application hasn't expired (60 days old), otherwise they will see language around signing in and what benefits being signed in will provide in relation to saving the form and prefill
+
+Main alert (authenticated):
+
+```
+<va-alert status="info" uswds visible>
+              <div className="usa-alert-body">
+                <strong>Note:</strong> Since you’re signed in to your account,
+                we can prefill part of your {appType} based on your account
+                details. You can also save your {appType} in progress and come
+                back later to finish filling it out.
+              </div>
+            </va-alert>
+
+appType is usually 'application' unless explicitly declared in the formConfig.customText.appType
+
+```
+
+Unauthenticated content
+Some content is dependent on 'displayNonVeteranMessaging' although not sure how you could determine that without the user being signed in already.
+```
+{this.props.displayNonVeteranMessaging ? (
+                <p>
+                  By signing in, you can save your work in progress.{' '}
+                  You&rsquo;ll have {retentionPeriod} from{' '}
+                  {retentionPeriodStart} your {appType} to come back and finish
+                  it.
+                </p>
+              ) : (
+                <>
+                  <p>Here&rsquo;s how signing in now helps you:</p>
+                  {signInHelpList ? (
+                    signInHelpList()
+                  ) : (
+                    <ul>
+                      <li>
+                        We can fill in some of your information for you to save
+                        you time.
+                      </li>
+                      <li>
+                        You can save your work in progress. You&rsquo;ll have{' '}
+                        {retentionPeriod} from {retentionPeriodStart} your{' '}
+                        {appType} to come back and finish it.
+                      </li>
+                    </ul>
+                  )}
+                </>
+              )}
+```
+
+
