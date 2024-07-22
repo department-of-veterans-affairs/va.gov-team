@@ -10,10 +10,8 @@
 
 ### **Key Results**
 
-Examples from SM 
-- Increased product use
-- Increased product Veteran feedback
-- Decreased negative Veteran feedback
+- Engagement rate (Datadog out-of-box): ≥50%
+- Landing page conversion rate (non-header action): ≥ 40%
 
 ## **KPIs**
 
