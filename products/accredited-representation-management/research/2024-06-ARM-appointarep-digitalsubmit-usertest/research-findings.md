@@ -1,4 +1,4 @@
-# Research Findings for ARM Team, Appoint a Representative - Digital Submit - User Test, 06/2024**
+# Research Findings for ARM Team, Appoint a Representative - Digital Submit - User Test, 06/2024
 
 **Office of the CTO - Digital Experience (OCTO-DE)**
 
