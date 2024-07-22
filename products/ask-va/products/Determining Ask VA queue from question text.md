@@ -1,5 +1,5 @@
 # Determining Ask VA queue from question text
-Last updated by @beckyphung: July 17, 2024
+Last updated by @beckyphung: July 22, 2024
 
 This doc describes how we can use current Ask VA data to train an AI model. The model will determine the queue a question should land in based on the question text.
 
