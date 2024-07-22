@@ -2,19 +2,19 @@
 
 ## Check-in (or eCheck-in)
 
-Last uploaded: July 12, 2024
+Last uploaded: July 22, 2024
 
-- [E-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16199282/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
+- [E-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16337337/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.pdf)
 
-- [E-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16199283/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
+- [E-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16337341/PATIENT.CHECK-IN_PRODUCT_GUIDE.v2.4.SRT.07162024.docx)
 
 ## Pre-Check-In
 
-Last uploaded: July 12, 2024
+Last uploaded: July 22, 2024
 
-- [PRE-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16199964/PRE-CHECK-IN_PRODUCT_GUIDE.pdf)
+- [PRE-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16337348/PRE-CHECK-IN_PRODUCT_GUIDE.v1.10.SRT.07152024.pdf)
 
-- [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16199963/PRE-CHECK-IN_PRODUCT_GUIDE.docx)
+- [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16337349/PRE-CHECK-IN_PRODUCT_GUIDE.v1.10.SRT.07152024.docx)
 
 ## Online Travel Reimbursement for Oracle Health (formerly Cerner) Facilities 
 
