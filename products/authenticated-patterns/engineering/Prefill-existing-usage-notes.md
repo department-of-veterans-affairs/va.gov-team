@@ -555,6 +555,8 @@ Within a form app's main config there is a property to allow prefill and this ta
 
 If the form has prefill enabled, then shouldn't there be the prefill component present somewhere within the form? We should continue to evaluate these forms one by one probably to see where the UX could be improved and what effect prefill has on their form flow.
 
+The technical documentation for prefill is here: https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-work-with-pre-fill
+
 | File                                                                         | App Name                                                                                    | Root URL                                                                                                     |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | src/applications/mock-sip-form/config/form.js                                | Mock SIP Form                                                                               | /mock-sip-form                                                                                               |
