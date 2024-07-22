@@ -72,6 +72,8 @@
 
 ## Screenreader testing
 
+[Issue where a link can't be activated via keyboard or VoiceOver](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88961)
+
 ### Voiceover on Mac
 
 | Screenreader| Test | Test result | Issue | 
@@ -111,7 +113,7 @@ Issue found when testing "Canceled upcoming video appointment" along with the "P
 - [x]  **CC**
 
 ### Canceled Appointments
-- [x]  **Phone**
+- [ ]  **Phone**
 - [x]  **In Person**
 - [x]  **Video**
 - [x]  **CC**
@@ -152,8 +154,8 @@ Issue found when testing "Canceled upcoming video appointment" along with the "P
 ### Upcoming Appointments
 - [x] **Phone**
 - [x]  **In Person**
-- [ ]  **Video - closed** 
-- [ ]  **Video - open** No open vid on Judy
+- [x]  **Video - closed** 
+- [ ]  **Video - open** (No upcoming joinable vid appts for Judy)
 
 ### Pending Appointments
 - [x]  **VA**
@@ -161,13 +163,15 @@ Issue found when testing "Canceled upcoming video appointment" along with the "P
 
 ### Canceled Appointments
 - [ ]  **Phone**
-- [ ]  **In Person**
-- [ ]  **Video**
+- [x]  **In Person**
+- [x]  **Video**
+- [x]  **CC**
 
 ### Past Appointments
-- [ ]  **Phone** 
-- [ ]  **In Person**
-- [ ]  **Video**
+- [x]  **Phone** 
+- [x]  **In Person**
+- [x]  **Video**
+- [x]  **CC**
 
 ## General Accessibility Test
 
