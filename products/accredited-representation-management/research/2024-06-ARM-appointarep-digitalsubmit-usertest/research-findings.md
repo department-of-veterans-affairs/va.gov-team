@@ -22,8 +22,6 @@ Jump to:
 
 [Next Steps](#next-steps)
 
-[Further Research Needed](#further-research-needed)
-
 [Appendix](#appendix)
 
 
@@ -330,18 +328,8 @@ This was our first time testing Find and Appoint a Representative side by side. 
 
 - Participant had strong distrust in VA systems and would re-submit the form, every week, with no end in mind. (P2)
 
-[Additional Insights](#additional-insights)
 
-[Recommendations](#recommendations)
-
-[Next Steps](#next-steps)
-
-[Further Research Needed](#further-research-needed)
-
-[Appendix](#appendix)
-<a id="research-goals"></a>
-
-# Additional Insights
+# Additional Insights<a id="additional-insights"></a>
 Findings that have been previously captured, but are continuing to be brought up by Veterans have been captured in Additional Insights.
 
 
@@ -373,7 +361,7 @@ Findings that have been previously captured, but are continuing to be brought up
 - Wanted profile and photograph of representative. (P10)
 
 
-# Recommendations
+# Recommendations<a id="recommendations"></a>
 
 ## Recruitment Improvements
 
@@ -494,7 +482,7 @@ Findings that have been previously captured, but are continuing to be brought up
   - Confirm content with stakeholders.
 
 
-# Next Steps
+# Next Steps<a id="next-steps"></a>
 
 ## Further Research Needed
 
@@ -505,7 +493,7 @@ Findings that have been previously captured, but are continuing to be brought up
   - Research with Veterans on Find a Representative content updates.
 
 
-# Appendix
+# Appendix<a id="appendix"></a>
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-06-ARM-appointarep-digitalsubmit-usertest/research-plan.md)
 
