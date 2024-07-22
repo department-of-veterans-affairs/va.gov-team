@@ -18,6 +18,7 @@ _Input was requested by Product Manager Lindsay Li-Smith via email “21-22/21-2
   _Confirmed at the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD1ae1d5de3ac54a0d9e1c1261c))_
 - **7/18/2024:** Confirmed MVP will target Veteran and non-Veteran claimant users (no “I am the accredited representative” path). The representative path was removed from MVP to reduce scope to launch, and because there were still open questions regarding the rep-initiated user experience.\
   _Discussed by the core ARM team in the July 17 demo, with VA Enablement and stakeholders present. Confirmed with the team the next day in standup ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67741#issuecomment-2237204197))._
-- **Pending**: Do not push contact information to the Profile.
+- **7/22/2024**: Do not push contact information updates to the Profile. \
+  _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1721064185404579))_
 - **Pending**: Decide if 2.0 releases on [VA.gov](http://VA.gov) (Veteran-facing) or the Accredited Representative Portal (VSO-facing)
 - **Pending**: Decide if the Request POA service lives in Lighthouse or vets-api
