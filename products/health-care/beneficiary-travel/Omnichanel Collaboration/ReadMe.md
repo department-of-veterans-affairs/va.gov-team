@@ -4,7 +4,8 @@
 
 ## What’s in Flight
 
-- Travel Reimbursement Status Page is due to begin rollout in August 2024
+- Travel Reimbursement Status Page is due to begin rollout in August 2024 (lead by Beneficiary Travel)
+- Mileage-only claim submission is in active design phase (Beneficiary Travel, PCI)
 
 
 ## Planned Future Work 
