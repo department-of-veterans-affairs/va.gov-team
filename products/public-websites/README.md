@@ -22,7 +22,7 @@ All requests will be refined and planned according to other team priorities, so 
 [Public Websites Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard?refresh_mode=sliding&from_ts=1698247139212&to_ts=1698250739212&live=true)
 Monitors for each product are described within product folders. e.g. 
 * [Find a Form monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md)
-* [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/engineering)
+* [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md)
 * Header (incl megamenu) and Footer, and
 * [Injected Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md)
 * [VA.gov search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/engineering/monitoring.md)
