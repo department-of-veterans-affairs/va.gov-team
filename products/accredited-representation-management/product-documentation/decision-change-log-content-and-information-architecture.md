@@ -2,7 +2,7 @@
 
 - **12/4/2023**: Stakeholder feedback is incorporated into landing page.\
   _Confirmed by CAIA Content Editor A Procik (_[_Slack message_](https://dsva.slack.com/archives/C05L6HSJLHM/p1701698627241959)_). Feedback requested by Product Manager Lindsay Li-Smith via email “Review by Fri 12/2: Representative Landing Page” and received from Lisa Koenigsberg (OIT), Martin Caraway (VBA), Jessica Pierce, Jenny Rosenau and Kayce White (Compensation Service)._
-- :tada:** 3/12/2024**: [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/) landing page is published. \
+- :tada: **3/12/2024**: [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/) landing page is published. \
   _Published by CAIA (_[_Github comment_](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67034#issuecomment-1989100865)_ confirming ready to publish)._
 - **3/18/2024**: Redirected [va.gov/disability/get-help-filing-claim/](https://www.va.gov/disability/get-help-filing-claim/) and [va.gov/decision-reviews/get-help-with-review-request/](https://www.va.gov/decision-reviews/get-help-with-review-request/) to the accredited representative landing page. \
   _Redirect implemented by the Public Websites team_ ([redirect plan](https://dvagov.sharepoint.com/:w:/s/SitewideCAIA/EXzlPiBgEiBKmYFApzlvs2oBxVQhSWag-nxboeMTNRLnNQ?e=I7Rpfu)).
