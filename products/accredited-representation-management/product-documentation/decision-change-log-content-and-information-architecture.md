@@ -10,7 +10,7 @@
   _Decided by CAIA content ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F065KP8MRHA?focus_section_id=temp:C:GGKa8a581d429694eecac216dcd5))._
 - **4/15/2024**: CAIA Content Lead Beth Potts is managing stakeholder feedback from Christa Shriber, Jonathan Taylor and Nathan Kroes (OGC) for the FAQ page.\
   _Communicated to ARM by CAIA Content Editor A Procik ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F065KP8MRHA?focus_section_id=temp:C:GGK224fb9850b6f476fa255dc2bb))._
-- :tada:** 4/19/2024**: [VA accredited representative FAQs](https://www.va.gov/resources/va-accredited-representative-faqs/) is published. \
+- :tada: **4/19/2024**: [VA accredited representative FAQs](https://www.va.gov/resources/va-accredited-representative-faqs/) is published. \
   _Published by CAIA (_[_Github ticket_](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68394)_)._
 - **4/26/2024**: FAQ page is added under the Disability section on the R\&S landing page.\
   _Published by CAIA (_[_Github ticket_](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68394)_)._
