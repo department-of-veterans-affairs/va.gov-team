@@ -1,3 +1,23 @@
-# Decision Log: Appoint a Representative
+# Decision and Change Log: Appoint a Representative
 
-Date - Decision | _Decided by: [Slack reference]( )_
+- **10/27/2023**: The 21-22 and 21-22a forms are updated to include a new field "Claimant's Date of Birth" and the 21-22a has an additional field "Authorization for Disclosure to Affiliated Personnel".\
+  _Notified by the Compensation Service Calendar automated updates. ([calendar link](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fvbacoweba5.vba.va.gov%2Fbl%2F21%2Fcalendar%2Fcal_Week.asp\&data=05%7C02%7C%7Cfb5aa9ac2a8144f1c2c108dc27cdcb98%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638429012045422344%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=za8k4WgCpYWf0LMiovJ54HLgaxR%2BSPHvtbzrV87ZVN4%3D\&reserved=0))._
+- **1/26/2024**: Lighthouse confirms that an older version of the PDF will not be an issue.\
+  _Confirmed by LH Benefits & Appeals APIs Crew Engineer Drew Fisher ([Slack message](https://dsva.slack.com/archives/C063D0M76HX/p1706308610572019?thread_ts=1706119737.834139\&cid=C063D0M76HX))._
+- **2/7/2024**: The 21-22a form has non-substantive updates to field 19, removing the word “optional” and including labeled checkboxes to 19a and 19b.\
+  _Notified by the Compensation Service Calendar automated updates. (_[_calendar link_](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fvbacoweba5.vba.va.gov%2Fbl%2F21%2Fcalendar%2Fcal_Week.asp\&data=05%7C02%7C%7Cfb5aa9ac2a8144f1c2c108dc27cdcb98%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638429012045422344%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=za8k4WgCpYWf0LMiovJ54HLgaxR%2BSPHvtbzrV87ZVN4%3D\&reserved=0)_)._
+- **2/21/2024**: Required fields for 21-22 and 21-22a forms are defined, with input from_ _Compensation Service stakeholders.\
+  _Input was requested by Product Manager Lindsay Li-Smith via email “21-22/21-22a Required Fields?” and provided by Jenny Rosenau and Jessica Pierce with Compensation Service (r_[_equired form fields_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/required-form-fields.md)_)._
+- **4/25/2024**: MVP is updated to include feedback from multiple rounds of stakeholder review (VBA, OGC, OIT/VEO, Compensation Service).\
+  _Communicated by Product Manager Lindsay Li-Smith via email “Design Review: Appoint a Rep (Digital form fill of 21-22/21-22a)”._
+- **6/12/2024**: Defined the MVP experience for LOA1 and LOA3 authenticated users.\
+  _Confirmation received from Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1718231009653709?thread_ts=1718137835.902289\&cid=C05L6HSJLHM))._
+- **6/24/2024**: VA OI\&T Privacy Officer approves the MVP email notification (confirmation and next steps).\
+  _Product Manger Lindsay Li-Smith requested approval via email “Seeking Privacy Officer for email Notification Content Approval” and Privacy Officer Gina Siefert confirmed there are no PHI concerns._
+- **7/16/2024**: Confirming MVP will release before v2 work will begin, as there are still dependencies to figure out prior to v2 release.\
+  _Confirmed at the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD1ae1d5de3ac54a0d9e1c1261c))_
+- **7/18/2024: **Confirmed MVP will target Veteran and non-Veteran claimant users (no “I am the accredited representative” path). The representative path was removed from MVP to reduce scope to launch, and because there were still open questions regarding the rep-initiated user experience.\
+  _Discussed by the core ARM team in the July 17 demo, with VA Enablement and stakeholders present. Confirmed with the team the next day in standup ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67741#issuecomment-2237204197))._
+- **Pending**: Do not push contact information to the Profile.
+- **Pending**: Decide if 2.0 releases on [VA.gov](http://VA.gov) (Veteran-facing) or the Accredited Representative Portal (VSO-facing)
+- **Pending**: Decide if the Request POA service lives in Lighthouse or vets-api
