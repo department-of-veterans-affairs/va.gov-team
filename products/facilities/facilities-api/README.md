@@ -83,7 +83,7 @@ Right now this API key only accesses the LH Facilities API. But within Lighthous
 
 #### **Rate limits**
 Rate limits are applied _**per consumer**_ to _**all APIs**_ accessed by that consumer.
-As of 12/23, the API rate limit is **2,000 requests/min.** (The 2,000 requests/min. rate limit applies to the collective traffic across all APIs accessed by the consumer/key.)
+As of 12/23, the API rate limit is **4,000 requests/min.** ([Slack from Lighthouse](https://dsva.slack.com/archives/C02BTJTDFTN/p1702652646370849?thread_ts=1702564438.393079&cid=C02BTJTDFTN)) The 4,000 requests/min rate limit applies to the collective traffic across all APIs accessed by the consumer/key.
 
 If/when we request rate limit changes, that rate limit will be set for all APIs accessed by the `VADOTGOV_FacilityLocator` API consumer, even if products are using different API keys. 
 
