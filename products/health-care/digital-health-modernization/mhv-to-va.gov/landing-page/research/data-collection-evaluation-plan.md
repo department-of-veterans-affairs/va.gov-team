@@ -18,6 +18,7 @@
 | **Theme** | **Question** | **Metric** |
 | --- | --- | --- |
 | Findability |  |  |
+| Engagement Rate |  |  |
 | Ease of Use | Do Veterans return to MHV National Portal? | Use of 'Go back to the previous version of My HealtheVet link |
 | Ease of Use | Do Veterans provide positive feedback? | Sentiment analysis from qualitative survey feedback, Sentiment analysis from qualitative call center feedback, Sentiment analysis from qualitative feedback emails |
 | Ease of Use | Do Veterans provide negative feedback? | Sentiment analysis from qualitative survey feedback, Sentiment analysis from qualitative call center feedback, Sentiment analysis from qualitative feedback emails |
