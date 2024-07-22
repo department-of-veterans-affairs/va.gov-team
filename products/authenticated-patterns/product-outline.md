@@ -3,9 +3,7 @@
 Our team aims to create patterns for the authenticated experience that can be shared with USWDS and other federal agencies.
 
 ## Problem Statement
-{{to do}}
-
-How might we update existing, or create new patterns to improve Veteran authenticated experiences? 
+How might we update existing, or create new patterns to improve Veteran authenticated experiences in a way that is adaptable by USWDS and other federal agencies? 
  
 ## Desired User Outcomes
 - Veterans are able to more fully complete their VA.gov profiles
@@ -17,7 +15,7 @@ How might we update existing, or create new patterns to improve Veteran authenti
 ## Desired Business Outcomes
 - 6 - 8 VA reusable patterns for personalized, authenticated experiences are created
 - Patterns are as easy as possible to implement across products and teams
-- Documentation for personalization patterns ready for integration into both https://design.va.gov and https://designsystem.digital.gov
+- Documentation for personalization patterns ready for integration into **both** https://design.va.gov and https://designsystem.digital.gov
 
 ## Undesired Business Outcomes
 - Less than 4 patterns are delivered
