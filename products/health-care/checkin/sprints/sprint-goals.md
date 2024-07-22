@@ -81,6 +81,7 @@
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Today's VISTA Appointments**
         - Sprint Goal is to release this feature after we have responded to all blocking issues from Staging Review (which is 7/23)
+        - 🟩 [[FE] - Review and merge PR last sprints tickets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88841)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
         - 🟩🟦🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
             - 🟩 Merge code
@@ -123,10 +124,10 @@
         - 🟥 [[UX] Create Final Wireframes for incorporating Upcoming VAOS Appointments into Pre-Check-in & eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87871)
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
-        - 🟩 [Check-in: Implement New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87416)
-        - 🟩 [Pre-Check-in: Update New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87422)
+        - ✔️ 🟩 [Check-in: Implement New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87416)
+        - ✔️ 🟩 [Pre-Check-in: Update New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87422)
         - ✔️ 🟩 [[FE] Remove unactionable statuses from appointment list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87394)
-        - 🟩 [[FE] Update Task Card ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87756)
+        - ✔️ 🟩 [[FE] Update Task Card ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87756)
     - **Sub Goal: CIE Analytics**
         - ✔️ 🟪 [Add the A11 (5 item question) intercept survey to confirm pages on pre-check-in and check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88146)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84429)
