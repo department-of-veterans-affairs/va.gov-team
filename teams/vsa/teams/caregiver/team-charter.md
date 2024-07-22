@@ -26,6 +26,7 @@ Health Products
 ### Product Portfolio:
 - [Online family caregiver application](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/)
 - [Online VA health care application](https://www.va.gov/health-care/apply/application/introduction)
+- [Online VA health benefits update form](https://www.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
 
 ---
 
@@ -37,7 +38,7 @@ Health Products
 - Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com / GH "emily-brown34" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
 - Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research
-- Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com / GH "katelyncai" - UX Design/Research
+- Renata Keck | Renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design/Research
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
 - Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com / GH "mkerns1" - Frontend Engineer
@@ -51,7 +52,7 @@ Health Products
 ### OCTO-DE team
 - Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
 - Patrick Bateman | patrick.bateman@va.gov - Product Owner
-- Kristen McConnell | kristen.mcconnell@va.gov - UX Lead
+- Lois Lewis | lois.lewis2@va.gov - UX Lead
 - Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
 - Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
 - Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
