@@ -5,7 +5,7 @@ The volume of clinical reminders has been impacting the quality of the time the 
  
 ## Research Links
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2024-04-clinincal-reminders-PCP/Research%20Plan%20for%20Primary%20Care%20Provider%20Survey%20Phase%201b%2C%20May%202024%20.md)
-- [PCP questionnaire survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2024-04-clinincal-reminders-PCP/PCP%20Questionnaire%20Survey.md)
+- [PCP questionnaire survey](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/2024-04-clinincal-reminders-PCP)
    <br> 
  <br>
 
@@ -65,7 +65,7 @@ The last correspondece and Typeform link was sent via MS Teams chat direct messa
 
 ### Survey questions​
 
-- [PCP questionnaire survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2024-04-clinincal-reminders-PCP/PCP%20Questionnaire%20Survey.md) 
+- [PCP questionnaire survey](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/2024-04-clinincal-reminders-PCP) 
    <br> 
  <br>
 
