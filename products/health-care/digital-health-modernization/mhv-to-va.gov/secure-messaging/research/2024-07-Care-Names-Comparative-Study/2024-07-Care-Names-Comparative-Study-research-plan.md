@@ -145,59 +145,65 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 ## Recruitment criteria
 Request a practice cohort to confirm accuracy of data collection. Practice cohort of n=9; collect data from 5 participant, review data to observe anomalies, perhaps adjust test, and then re-test with additional 4 participants. 
 
-Data for final analysis in this study will consist of 9 cohorts of 9 Veterans per cohort; total sample size = 81. Recruitment will be ongoing until all cohorts are filled. 
+Data for final analysis in this study will consist of 21 cohorts of 9 Veterans per cohort and 3 cohorts of 5 Veterans per cohort. 
+
+Between the practice cohort and the 24 cohorts, the total sample size will be 213
+
+Recruitment will be ongoing until all cohorts are filled. 
 
 Please exclude mobile users. Please exclude all assistive technology users as we cannot accommodate them in this study. 
 
 Cohorts should vary by VISN, which include different states. No need to include a participant from each state; a cohort should consist of 9 Veterans from any of the states listed next to each cohort. 
 
-- Cohort 1: Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
+- Cohort 0: Practice cohort
+
+- Cohort 1 (n=9): Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
   
-- Cohort 2: Georgia, Alabama, or South Carolina
+- Cohort 2 (n=9): Georgia, Alabama, or South Carolina
   
-- Cohort 3: South Dakota, Iowa, or Minnesota
+- Cohort 3 (n=9): South Dakota, Iowa, or Minnesota
   
-- Cohort 4: New York
+- Cohort 4 (n=9): New York
 
-- Cohort 5: Florida
+- Cohort 5 (n=9): Florida
 
-- Cohort 6: Oregon, Washington, Alaska or Idaho
+- Cohort 6 (n=9):Oregon, Washington, Alaska or Idaho
 
-- Cohort 7: Pennsylvania or Delaware
+- Cohort 7 (n=9): Pennsylvania or Delaware
 
-- Cohort 8: Kentucky or Tennessee
+- Cohort 8 (n=5): Kentucky or Tennessee
 
-- Cohort 9: Colorado, Wyoming, Oklahoma or Utah
+- Cohort 9 (n=9): Colorado, Wyoming, Oklahoma or Utah
 
-- Cohort 10: Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
+- Cohort 10 (n=9): Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
   
-- Cohort 11: Georgia, Alabama, or South Carolina
+- Cohort 11 (n=9): Georgia, Alabama, or South Carolina
   
-- Cohort 12: South Dakota, Iowa, or Minnesota
+- Cohort 12 (n=9): South Dakota, Iowa, or Minnesota
   
-- Cohort 13: New York
+- Cohort 13 (n=9): New York
 
-- Cohort 14: Florida
+- Cohort 14 (n=9): Florida
 
-- Cohort 15: Oregon, Washington, Alaska or Idaho
+- Cohort 15 (n=9): Oregon, Washington, Alaska or Idaho
 
-- Cohort 16: Pennsylvania or Delaware
+- Cohort 16 (n=5): Pennsylvania or Delaware
 
-- Cohort 17: Kentucky or Tennessee
+- Cohort 17 (n=9): Kentucky or Tennessee
 
-- Cohort 18: Colorado, Wyoming, Oklahoma or Utah
+- Cohort 18 (n=9): Colorado, Wyoming, Oklahoma or Utah
 
-- Cohort 19: Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
+- Cohort 19 (n=9): Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
   
-- Cohort 20: Georgia, Alabama, or South Carolina
+- Cohort 20 (n=9): Georgia, Alabama, or South Carolina
   
-- Cohort 21: South Dakota, Iowa, or Minnesota
+- Cohort 21 (n=9): South Dakota, Iowa, or Minnesota
   
-- Cohort 22: New York
+- Cohort 22 (n=9): New York
 
-- Cohort 23: Florida
+- Cohort 23 (n=9): Florida
 
-- Cohort 24: Oregon, Washington, Alaska or Idaho
+- Cohort 24 (n=5): Oregon, Washington, Alaska or Idaho
 
 
 
