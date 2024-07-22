@@ -171,3 +171,6 @@ Uses the `VADOTGOV_FacilityLocator` API consumer's API key to access Lighthouse
 ### Data sources
 - Lighthouse Facilities API
 
+
+## Monitoring
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/monitoring.md
