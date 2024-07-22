@@ -116,7 +116,7 @@ List the features toggles here.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
     - [ ] review the release plan with your team and signoff
     - [ ] review the plan with your DEPO/OCTO representative and signoff
-
+    - [ ] Review the generated 526 pdf to determine if any issues are launch blocking
 
 ## Step 3: Production Rollout
 
@@ -132,7 +132,7 @@ DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes
 Due to the need to test against the production lightouse /submit endpoint, we'll be testing this feature in production behind a feature flag. To mitigate the risks of downstream actions that occur as a result of submitting an application for disability compensation, we'll work with our VBA stakeholders to delete the submission records in VBMS.
 
 #### Planning
-- Desired date range or test duration: Aug 2-3, 2024
+- Desired date range or test duration: Aug 2-5, 2024
 - Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in TestRail
 - How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test, could be ann (internal) Veteran
 - Submitting 6 full submissions could be done by less than 6 people
@@ -155,39 +155,35 @@ We recommend that the rollout plan has five stages, each increasing the number o
 2. Engineering disables flipper [disability_526_toxic_exposure] which hides the 2022 form version.
    - Users with in-progress 2022 sessions will finish out their 2022 session.
    - New users will be directed to the 2019 form version.
-   - When identified issues are 2x "normal", consider removing the startedFormVersion key from the Veteran's formData
+   - When identified issues are 2x "normal", consider removing the startedFormVersion key from the Veteran's formData (see below for details)
+        - Refer to [troubleshooting SOP document for details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md) on how remediate form data
 
 #### Rollout Planning
-- Desired date range: Aug 5 - Aug 23
+- Desired date range: Aug 6 - Aug ? (come back to this)
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - Abandonment rate: The same or less than we have currently [Metric TBD]
+  - % of [normal](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/bi4-785-p5z), [backup](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/6ek-k9t-7d7), failsafe (come back to this) path rates are the same or less than what we have currently
   - Submission volume: 21-526ez has ~7500 submissions per week. Over 15 days we're expecting ~15,000
-    - Canary: 12 submissions
-    - 5%/10%/25%/50%/75%: >10 submissions
-  - Error rate: <1%
-  - Pageviews
+    - Stage A: Canary: (come back to this)
+    - 5%/10%/25%/50%/75%/100%:
+  - Error rate: <1% (dependent on current metrics above, compare this to normal error rate - come back)
 - Links to the dashboard(s) showing "success criteria" metrics:
   - Domo Dashboard request submitted
-  - [DataDog v2 submission dashboard](https://vagov.ddog-gov.com/logs?query=%40message_content%3A%22Lighthouse%3A%3ASubmitBenefitsIntakeClaim%20job%20starting%22%20%40named_tags.source%3Aburials-v2%20&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40payload.benefits_intake_uuid%2C%40payload.claim_id%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Casc&viz=stream&from_ts=1713934800000&to_ts=1714747320000&live=false)
-  - [Pageviews](https://analytics.google.com/analytics/web/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fanalytics%2F#/report/content-pages/a50123418w177519031p176188361/_u.date00=20240418&_u.date01=20240507&explorer-table.filter=~2Fburials-and-memorials-v2~2Fapplication~2F530~2Fintroduction&explorer-table.plotKeys=%5B%5D/)
-- Who is monitoring the dashboard(s)?: Product Manager (Laura Steele) and OCTO PO (Emily Theis)
+- Who is monitoring the dashboard(s)?: PM, Disability teams 1 & 2, OCTO PO (Emily Theis) monitor analytics for issues (failed submissions, traffic irregularities, unexpected errors)
+
 #### Prerequisites:
 Approvals & to do's for launch:
-- [ ] Development for release 1.0 and 1.1 are complete, and ability to distinguish between Veteran states to be selected for exposure to the 2022 526ez form using feature flag disability_526_toxic_exposure
-- [ ] OCTO PO - Emily Theis
-- [ ] Approval for PDFs - **need team name
-- [ ] DBEX Teams approve validation rake task results
+- [ ] Development for release 1.0 and 1.1 are complete, and the ability to give certain Veterans access to 2022 form based on the toggle state
+- [ ] DBEX Teams approve [Validation Rake Task](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88063) results
 - [ ] Monitoring configured by DBEX teams
-- [ ] vets-api Deployed, Toggled Off
-- [ ] vets-website Deployed
 - [X] Benchmark data for Veteran claim selection and monitoring during the release      
-- [X] [Troubleshooting SOP documented](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)     
+- [X] [Troubleshooting SOP documented](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)
 
 #### Release assumptions before kickoff:
 - DBEX team 1 will handle enabling/disabling the feature flag for the release.
 - DBEX teams 1 and 2 will both be available to troubleshoot any errors that arise. 
-  - If a claim fails both the primary and backup submission processes, the teams will research root cause, repair claim in production, and re-trigger primary submission. The teams will do whatever it takes to prevent a Veteran from needing to recomplete their claim.
+  - If a claim fails both the primary and backup submission processes, the teams will research root cause, repair claim in production, and re-trigger primary submission if possible. The teams will do whatever it takes to prevent a Veteran from needing to recomplete their claim.
+- Remediation steps are dependent on the type of error
 - Once a Veteran is selected for the 2022 526ez form they cannot be de-selected.
 
 ### Stage A: Canary 5% of users
