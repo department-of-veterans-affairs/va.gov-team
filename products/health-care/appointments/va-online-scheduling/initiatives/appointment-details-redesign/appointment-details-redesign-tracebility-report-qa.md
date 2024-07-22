@@ -87,7 +87,7 @@
 | Announce past appointment provider | Test with Voiceover on Mac| Passed	| N/A|
 | Announce past appointment modality | Test with Voiceover on Mac| Passed	| N/A|
 | Announce past appointment location | Test with Voiceover on Mac| Passed	| N/A|
-| Announce past appointment combo box| Test with Voiceover on Mac| N/A	| N/A|
+| Announce past appointment combo box| Test with Voiceover on Mac| N/A - out of scope for this work	| N/A|
 | Announce request type of care | Test with Voiceover on Mac| Passed	| N/A|
 | Announce request modality | Test with Voiceover on Mac| Passed	| N/A|
 | Announce request location | Test with Voiceover on Mac| Passed	| N/A|
@@ -128,20 +128,20 @@ Issue found when testing "Canceled upcoming video appointment" along with the "P
 | Screenreader| Test | Test result | Issue | 
 | ------- | ---------- | ----- | ----- |
 | Announce navigation options | Test with Talkback on Android | Passed | N/A|
-| Announce upcoming appointment date/time info | Test with Talkback on Android | Passed 	| N/A|
+| Announce upcoming appointment date/time info | Test with Talkback on Android | Passed | N/A|
 | Announce upcoming appointment type of care | Test with Talkback on Android | Passed | N/A|
 | Announce upcoming appointment provider | Test with Talkback on Android |  Not tested - Couldn't find appt with provider info on details	| N/A|
-| Announce upcoming appointment modality | Test with Talkback on Android | Passed 	| N/A|
-| Announce upcoming appointment location| Test with Talkback on Android | Passed 	| N/A|
-| Announce past appointment date/time info | Test with Talkback on Android |  Passed	| N/A|
-| Announce past appointment type of care | Test with Talkback on Android | Passed	| N/A|
-| Announce past appointment provider | Test with Talkback on Android | 	Not Tested - Couldn't find appt with provider info on details | N/A|
+| Announce upcoming appointment modality | Test with Talkback on Android | Passed | N/A|
+| Announce upcoming appointment location| Test with Talkback on Android | Passed | N/A|
+| Announce past appointment date/time info | Test with Talkback on Android |  Passed | N/A|
+| Announce past appointment type of care | Test with Talkback on Android | Passed | N/A|
+| Announce past appointment provider | Test with Talkback on Android | Not Tested - Couldn't find appt with provider info on details | N/A |
 | Announce past appointment modality | Test with Talkback on Android | Passed	| N/A|
 | Announce past appointment location | Test with Talkback on Android | Passed	| N/A|
 | Announce past appointment combo box| Test with Talkback on Android |  N/A - out of scope for this work	| N/A|
-| Announce request type of care | Test with Talkback on Android | 	| N/A|
-| Announce request modality | Test with Talkback on Android | 	| N/A|
-| Announce request location | Test with Talkback on Android | 	| N/A|
+| Announce request type of care | Test with Talkback on Android | Passed	| N/A|
+| Announce request modality | Test with Talkback on Android | Passed | N/A|
+| Announce request location | Test with Talkback on Android | Passed | N/A|
 
 **For each of the appointment detail pages check the following:**
 
@@ -156,8 +156,8 @@ Issue found when testing "Canceled upcoming video appointment" along with the "P
 - [ ]  **Video - open** No open vid on Judy
 
 ### Pending Appointments
-- [ ]  **VA**
-- [ ]  **CC**
+- [x]  **VA**
+- [x]  **CC**
 
 ### Canceled Appointments
 - [ ]  **Phone**
