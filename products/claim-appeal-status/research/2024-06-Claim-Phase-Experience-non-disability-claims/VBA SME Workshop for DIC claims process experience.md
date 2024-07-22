@@ -81,6 +81,6 @@ Github ticket: Epic [[Github]](https://github.com/department-of-veterans-affairs
 |----------| -------------|
 | [Session record](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/Research%20+%20Design/Workshops/claim%20phase%20experience%20-%20non%20disability%20claims/Understanding%20DIC%20claims%20and%20the%20internal%20process-20240711_110219-Meeting%20Recording.mp4?csf=1&web=1&e=VgTEwr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |  Recording of the workshop|
 | [Note-taking board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718906654073/9f6298e5f0b2a25a06a714c05b129918e2cbc92f?wid=0-1720625953189&outline=open) |  Mural board used for notes during the recording|
-| [team research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/24c2588860e8f32b2415addf0a81be8a2687f09e/products/dependents) |  Team folder containing research docs |
+| [team research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/24c2588860e8f32b2415addf0a81be8a2687f09e/products/pension) |  Pension team folder containing research docs |
 | [About DIC claims](https://www.va.gov/disability/dependency-indemnity-compensation/) | About VA DIC for spouses, dependents, and parents   |
 | [Survivor DIC rates](https://www.va.gov/disability/survivor-dic-rates/) | Surivor DIC rates |
