@@ -1,4 +1,4 @@
-# Decision Log: 5901
+# Decision and Change Log: 5901
 
 - **7/1/2024**: Kick off call, some discovery was captured, but Christa with OGC’s Benefits Law Group pushed back on involvement, due to lack of team resources and bandwidth.\
   _Meeting was with ARM, CAIA, OGC, VBA and VEO ([meeting notes](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/guestaccess.aspx?e=By0dxB\&share=EeaULUtJGQlMhfehpJI4ENMBubA5HrcXCAOXDDY5xwdRNQ))._
