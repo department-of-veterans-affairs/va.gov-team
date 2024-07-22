@@ -13,6 +13,7 @@ VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals t
 - [Data Key Map](https://docs.google.com/document/d/1RrRK4UYYYf3NTVanDZlWPPSc7Vj0dm45fVocJrmFFcI/edit?usp=sharing)
 - [Prefilling military history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/feature-briefs/Service%20history%20API.md)
 - [High Level Archtictecure Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/BurialFlow.png)
+- [Data Flow Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/Burial%20Data%20Flow%20Diagram.png)
 
 ---
 ## Incident Response
