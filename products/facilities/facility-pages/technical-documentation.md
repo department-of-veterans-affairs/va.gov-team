@@ -3,11 +3,13 @@
 Facility pages encompass Vet Centers, VAMC Systems and Facilities, VBA, etc., or all facility pages that are generated on content-build from drupal data. 
 These pages are changed by editors at different levels, but the resulting content is processed by content-build or next-build. 
 
-## Testing
-Testing of these pages is difficult, due to the potentially changing nature of the data. From one day to the next, a facility may be closed and inaccessible, 
-and should that happen, testing that may include that site is complicated.
+## Automated Testing
+Automated Testing of these pages is difficult, due to the potentially changing nature of the data. From one day to the next, a facility may be closed and inaccessible, and should that happen, testing that may include that site is complicated. We currently do not generate Cypress tests using production data for this reason.
 
 ## Alerting and Monitoring
+Facilities Datadog dashboard: https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1720456851314&to_ts=1720460451314&live=true
+
+For more information on the nature of the product-specific monitors, including triage / escalation info: 
 * VAMC Monitoring information: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/engineering/monitoring.md
 * Vet Center monitoring information: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/engineering/monitoring.md
 * Facility Locator monitoring: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/monitoring.md
@@ -72,9 +74,5 @@ For `cms-overlay` data to be present in Sandbox, it must be manually synced by t
    - Platform team / vets-api: #vfs-platform-support in DSVA slack  
  
 
-### Monitoring
-Links to dashboards that help identify and debug application issues
-Datadog dashboard: https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1720456851314&to_ts=1720460451314&live=true
 
 ## Technical diagrams 
-![Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-
