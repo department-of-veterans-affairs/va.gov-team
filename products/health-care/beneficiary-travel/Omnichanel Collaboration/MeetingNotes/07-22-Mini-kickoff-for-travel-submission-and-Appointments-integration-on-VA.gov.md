@@ -14,8 +14,13 @@ Date: Monday, July 22, 2024
  
 ### Eligible past appointment types
 
+[Appt type documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/feature-reference#appointment-details-views)
+
 - In-person appointments
+- In-person vaccine appointments 
 - Video at a VA facility appointment
+
+  
 
 ## Existing design and research artifacts 
 
