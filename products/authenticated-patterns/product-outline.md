@@ -36,21 +36,11 @@ Once fully adopted by VA teams, we expect these to be indicators of success:
 - 5% or greater theoretical increase in the percentage of users with completed profiles on VA.gov
 - {{need a KPI to hit for increase in prefill usage}}
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
+  - Lines of custom code removed from VA.gov (essentially replacing existing instances of current patterns with finalized versions)
+  - Authenticated users using stored personal data to complete applications to benefits and services
+  - Users providing personal data in an application that is then later used to complete additional applications
+  - 4-6 patterns are created and presented to USWDS for consideration
 
 ---
 
@@ -90,8 +80,14 @@ We believe that creating improved personal profile maintenance interfaces will h
 Service History is a preexisting VADS component that we believe would be a good candidate for adoption by USWDS, as many other agencies require information about a user's service history, including the IRS and State Dept. While we think that some parts of this pattern may become obsolete once prefill is fully adopted, we believe that it is still a useful pattern for unauthenticated users and those agencies who have not yet integrated with DOD, VA or ID.me to verify/validate service history.
 
 ### Auto Save Alert
+Autosave is a preexisting VADS component (https://design.va.gov/components/form/autosave) that we believe would be a good candidate for adoption by USWDS given the many, many forms that exist on other agency websites. As this already exists we thought it would be a 'quick win' we could slide in among other pattern work.
 
 ### Make Descisions based on personalized form flows
+We believe that creating a pattern for personalized form flows will significantly reduce time and cognitive load for users when filling out authenticated forms, allowing them to prefill known information or skip sections based on previously entered information. We believe this pattern will consist of:
+- page-level alerts
+- inline alerts
+- address/detail components
+- progress/status bars
 
 ### Information mismatch handling
 
