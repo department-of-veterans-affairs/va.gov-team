@@ -623,22 +623,21 @@ Task prompt: Find out if you have received a message from your doctor.
 
 ## Recommendations and Next Steps
 
-* **Activity section:**
+1. **Appointments Activity module:**
+    * Extend the 7-day date range in the module’s description text to 30 days, to better match participant expectations. 
+2.  **Prescriptions Activity module:**
+    * Eplore how to address the gap in participant expectations between the module’s description text “[#] available to refill” and the module’s destination (the full, unfiltered list of active prescriptions).
+    * Consider exploring ways to increase the usefulness of the module’s description text.
+3.  **Claims Activity module:**
+    * Consider exploring ways to increase the usefulness of the module’s description text.
+4. **Proof of Veteran status:**
+    * Eplore how to ensure that users who are eligible have access to Proof of Veteran status see it on their homescreens.
+5. **Follow up research:**
     * Given that there was some variation in how participants expected the Activity section to indicate that they had an item that was “in flight,” we recommend monitoring qualitative proxy sources and quantitative data for indicators related to the usability over time of the conditional display logic of the Activity section.
-* **Prescriptions:**
-    * Consider exploring how to address the gap in participant expectations between the module’s description text “[#] available to refill” and the module’s destination (the full, unfiltered list of active prescriptions).
-    * Consider exploring ways to increase the usefulness of the module’s description text.
-* **Appointments:**
-    * Consider extending the 7-day date range in the module’s description text to better match participant expectations. 
-* **Claims:**
-    * Consider exploring ways to increase the usefulness of the module’s description text.
-* **Proof of Veteran status:**
-    * Consider exploring how to ensure that users who are eligible have access to Proof of Veteran status see it on their homescreens.
-* **Follow up research:**
+    * Monitor engagement metrics over time to assess impact of personalized home screen
     * Conduct a future evaluative study of the personalized home screen with screen reader users.
     * Consider conducting a follow up study with former users of the app to determine if the personalized home screen 
 has made an impact on their perception of value.
-    * Monitor engagement metrics over time to assess impact of personalized home screen
 
 
 
