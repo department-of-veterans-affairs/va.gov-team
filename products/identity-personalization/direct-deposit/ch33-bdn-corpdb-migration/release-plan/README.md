@@ -49,9 +49,9 @@ We will need to use BOTH of these toggles to control the release.
 ### Results 
 |UAT|Result|
 |---|---|
-|Number of Users|  |
-|Number of Bugs Identified/Fixed|  |
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?|  |
+|Number of Users| 5 |
+|Number of Bugs Identified/Fixed| none |
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?| none |
 
 
 ## Phase II - Staged Rollout 
@@ -74,10 +74,12 @@ PM and PO will monitor DataDog analytics. If the team notices a spike in errors,
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 10% | ~7/17/2024 9AM |  |
-| Launch to 25% |  11AM |  |
-| Launch to 50% |  1PM |  |
-| Launch to 100% |  3PM |  |
+| Launch to 25% | ~7/23/2024 9AM |  |
+| Launch to 50% |  7/23 12APM |  |
+| Launch to 75% |  7/24 9AM  |  |
+| Launch to 100% |  7/24 12PM |  |
+
+[Tracking more details against the release ticket here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80859)
 
 ### 1-week results at 100%
 ||Results|
