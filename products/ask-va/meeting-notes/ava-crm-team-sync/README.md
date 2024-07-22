@@ -21,12 +21,12 @@ Rollout and Rollback
 - [ ] JOE/CEECEE: Reach out to MHV or Debt Resolution Team to discuss learnings from staged release
     - Perhaps ping Travel Pay team as well since their model so closely follows ours. Might have useful insights.
 - [ ] CEECEE/TERRI: Look @ powerBI to determine 10% of users
-- [ ] CEECEE: Define rollback severity & justification (catastrophic etc.)
-- [ ] JOE: Upload release plan + Notes to Gitub
+- [X] CEECEE: Define rollback severity & justification (catastrophic etc.)
+- [X] JOE: Upload release plan + Notes to Gitub
 - [ ] AVA VA.gov Team: Continue to gather AVA URLs
 - [ ] JOE: Create a new issue to track documenting our process for post-release changes and defects, from intake to deploy. Share with CRM.
 - [ ] JOE: Create a new issue to implement the "Policy Number" field for Life Insurance flow, post-release.
-- [ ] JOE/CeeCee: Discuss testing timeline, touchpoint, and their place in the roadmap for both teams in a future CRM Sync.
+- [X] JOE/CeeCee: Discuss testing timeline, touchpoint, and their place in the roadmap for both teams in a future CRM Sync.
 
 
 ## Meeting Notes for CRM Sync on 07/09/2024
