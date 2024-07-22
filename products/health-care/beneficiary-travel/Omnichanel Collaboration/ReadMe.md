@@ -1,7 +1,8 @@
 # Travel Pay Omnichannel Collaboration 
 
-
 ## What’s in Flight
+
+- Travel Reimbursement Status Page is due to begin rollout in August 2024
 
 
 ## Planned Future Work 
