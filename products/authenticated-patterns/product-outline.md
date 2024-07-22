@@ -1,4 +1,4 @@
-
+ 
 ## Overview
 Our team aims to create patterns for the authenticated experience that can be shared with USWDS and other federal agencies.
 
@@ -55,9 +55,48 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+Based on existing research and priorities from OCTO/VADS we have identified several potential candidate patterns. These include:
+- Prefill Form Data
+- Maintain accurate data within their profile
+- Service History
+- Auto Save Alert
+- Make Descisions based on personalized form flows
+- Information mismatch handling
+- Stay informed of request status
+- Know when there's a personal notification
+- Help users sign in with less friction
+- Navigate as an authenticated user
 
 ## Solution Approach
+
+### Prefill Form Data
+We believe this is a good pattern to begin with as there are many forms already using this pattern as a 'component' within VADS > forms (https://design.va.gov/components/form/prefill) and we that this would be a useful pattern to contribute up to USWDS as many other agencies have authenticated forms. We believe this pattern should consist of: 
+- one or more visual indications that form data has been prefilled, including but not limited to:
+- page-level alerts
+- inline alerts
+- additional info component
+- address/details component
+- input styling
+- directions to update profile data 
+
+### Maintain accurate data within their profile
+
+
+### Service History
+
+### Auto Save Alert
+
+### Make Descisions based on personalized form flows
+
+### Information mismatch handling
+
+### Stay informed of request status
+
+### Know when there's a personal notification
+
+### Help users sign in with less friction
+
+### Navigate as an authenticated user
 
 - *What are you going to build now, and why have you decided to start there?*
 - *Why this solution / approach over other solutions / approaches?*
@@ -65,9 +104,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
+- Prefill Form Data (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/17)
+- Maintain accurate data within their profile
+- Service History
+- Auto Save Alert
+- Make Descisions based on personalized form flows
+- Information mismatch handling
+- Stay informed of request status
+- Know when there's a personal notification
+- Help users sign in with less friction
+- Navigate as an authenticated user
 
 --- 
 
