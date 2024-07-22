@@ -37,116 +37,76 @@ Veterans can get the help of a representative at any point in the journey where 
 
 
 ## Goals
-
 - Understand how Veterans search, select, and expect to work with a representative.
-
 - Evaluate if changes to Find a Representative address previous research findings.
-
 - Evaluate if adding in digital submit and design changes to Find and Appoint a Representative, cause any usability challenges with participants.
 
 
 ## Outcome
-
 - Information on how Veterans search, find, and want to work with a representative will provide input on how Find and Appoint work together.
-
 - User testing will inform adjustments to the Find and Appoint a Representative flows (21-22 form only) to improve usability.
 
 
-# Research Questions
-
+# Research Questions<a id="research-questions"></a>
 - What methods do Veterans use today to find representation?
-
 - Are we hearing the same feedback from Veterans after Find a Representative updates?
-
 - Do Veterans see themselves using Find and Appoint together as a process?
-
 - Are there any usability challenges with the Find and Appoint user flows?
-
   - Do participants understand the information shown?
-
   - Are there any challenges with using the experience?
-
   - Are the next steps clear and actionable?
 
 
-# Methodology
-
+# Methodology<a id="methodology"></a>
 - **Warm-up questions /** The moderator will ask the Veteran a short series of questions to understand their current status with finding a representative and VA.gov engagement.
-
 - **Usability testing** / Participants will be asked to engage with a prototype to test usability, understandability of content, and desirability of features.
 
 
 ## Meet our Participants
 
 ### Previous Representation
-
 - 2 participants had never worked with a representative before. (P3, P9)
-
 - 3 participants had worked with a representative in the last 5 years. (P2, P7, P10)
-
   - 1 was changing because their representative only helps with disability benefits, and they need help with education benefits. (P2)
-
   - 1 was changing due to lower than anticipated benefits, but had positive comments about their representative experience. (P7)
-
   - 1 was changing representatives due to lack of previous support. (P10)
-
 - 2 participants had worked with 2+ representatives in the last 5 years. Both were changing representatives due to lack of previous support. (P4, P6)
 
 
 ### Search Methods
-
 - 4 participants were searching through their local VA facility. (P7, P10)
-
 - 4 participants were using online resources.
-
 - 3 participants were searching through peers.
 
 
 ### VA.gov Use
-
 - All participants used VA.gov for healthcare purposes.
-
 - 3 participants used VA.gov for additional services such as letters and claims.
-
 - 2 participants noted that they have difficulty using VA digital experiences. (P7, P10)
 
 
 ### VA.gov Consideration
-
 - 4 participants had used VA.gov (either eBenefits, OGC, or Find a Representative).
-
   - 1 participant attempted to use Find a Representative, but stopped after realizing the contact information was out of date.
-
   - 1 tried VA.gov but gave up. (P7)
-
 - 2 participants were considering using VA.gov.
-
 - 1 participants had never considered VA.gov as an option. (P10)
 
 
-# Tasks and Conclusions
-
+# Tasks and Conclusions<a id="tasks-and-conclusions"></a>
 1. **Adoption**: Would participants use the Find and Appoint a Representative tools?
-
    1. **💡Conclusion**: Participants were split on whether or not they’d adopt the tools, which led us to defining new audiences for ARM.
-
 2. **Task 1**: Review and provide feedback on Find a Representative experience, focusing on new features and functionality.
-
    1. [🚫](https://emojipedia.org/prohibited) **Conclusion**: Changes in content, addition of the VSO filter, and digital submit caused participants new challenges we have not previously seen on Find a Representative. Recommend revisiting new content and features.
-
 3. **Task 2**: Complete Appoint a Representative (21-22 form) and provide feedback on the experience.
-
    1. [⚠️](https://emojipedia.org/warning) **Conclusion**: The form tested well with participants, other than the concepts of digital submit, organization selection, and missing context of VA forms and processes. Recommend adding in additional context of VA forms and processes, along with any learnings from FAR V3 testing.
 
 
-# Details of Findings
+# Details of Findings<a id="details-of-findings"></a>
 
 ## Key
-
 ✅ No challenges completing the task.
-
 [⚠️](https://emojipedia.org/warning) Caused some hesitation or questions but didn’t stop task completion.
-
 [🚫](https://emojipedia.org/prohibited) Unable to complete task without help/would abandon flow.
 
 
@@ -370,9 +330,18 @@ This was our first time testing Find and Appoint a Representative side by side. 
 
 - Participant had strong distrust in VA systems and would re-submit the form, every week, with no end in mind. (P2)
 
+[Additional Insights](#additional-insights)
+
+[Recommendations](#recommendations)
+
+[Next Steps](#next-steps)
+
+[Further Research Needed](#further-research-needed)
+
+[Appendix](#appendix)
+<a id="research-goals"></a>
 
 # Additional Insights
-
 Findings that have been previously captured, but are continuing to be brought up by Veterans have been captured in Additional Insights.
 
 
