@@ -28,14 +28,3 @@
 ### Mobile app 
 
 
-
-
-
-
-
-
-
-
-
-<!-- watermark --><div style="background-color:#FFFFFF"><p style="color:#FFFFFF; font-size: 1px">gd2md-html: xyzzy Mon Jul 22 2024</p></div>
-
