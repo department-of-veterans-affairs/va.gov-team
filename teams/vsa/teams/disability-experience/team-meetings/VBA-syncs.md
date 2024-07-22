@@ -5,7 +5,7 @@ Goal of the meeting series: addressing policy related or other open questions fo
 ### In attendance
 …
 ### Notes
-1. …
+1. the toxic exposure testing plan (logistics of how we create/cancel claims in prod) and release timing!
 
 ## 7/09/24 Biweekly VBA-DBEX Check-in
 ### Notes
