@@ -10,15 +10,15 @@
 ## Monitors for Facility-Locator and Facilities pages
 
 **/v1/facilities/va and /facilities_api/v1/ccp/*** 
-- [Joins CCP and Facility lookup because they both use the same consumer](https://vagov.ddog-gov.com/monitors/161751)
+- Vets-API /facilities_api/v2/va (lighthouse v1) controller: rate limit - https://vagov.ddog-gov.com/monitors/161751)
   - Warning currently set at 400 req/minute and alert at 450 req/minute
   - Warnings and Alerts sent to #facilities-monitoring on DSVA slack.
 **/v1/facilities/va**
-- [Facility lookup 500 Errors](https://vagov.ddog-gov.com/monitors/164800)
+- Facility lookup 500 Errors - https://vagov.ddog-gov.com/monitors/164800
   - This determines if errors on the endpoint are above 5/minute for a warning and 15 for an alert.
   - Warnings and Alerts sent to #facilities-monitoring on DSVA slack.
 **/facilities_api/v1/ccp/**
-- [CCP lookup 500 Errors](https://vagov.ddog-gov.com/monitors/168062)
+- CCP lookup 500 Errors - https://vagov.ddog-gov.com/monitors/168062
   - This determines if errors on the endpoint are above 5/minute for a warning and 15 for an alert.
   - Warnings and Alerts sent to #facilities-monitoring on DSVA slack.
 
