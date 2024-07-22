@@ -12,6 +12,7 @@ Facilities Datadog dashboard: https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/s
 For more information on the nature of the product-specific monitors, including triage / escalation info: 
 * VAMC Monitoring information: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/engineering/monitoring.md
 * Vet Center monitoring information: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/engineering/monitoring.md
+* Facilities API monitoring: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/monitoring.md
 * Facility Locator monitoring: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/monitoring.md
 
 ## Product technical documentation
