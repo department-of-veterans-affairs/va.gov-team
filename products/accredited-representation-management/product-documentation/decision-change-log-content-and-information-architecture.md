@@ -1,4 +1,4 @@
-# Decision Log: Content and Information Architecture
+# Decision and Change Log: Content and Information Architecture
 
 - **12/4/2023**: Stakeholder feedback is incorporated into landing page.\
   _Confirmed by CAIA Content Editor A Procik (_[_Slack message_](https://dsva.slack.com/archives/C05L6HSJLHM/p1701698627241959)_). Feedback requested by Product Manager Lindsay Li-Smith via email “Review by Fri 12/2: Representative Landing Page” and received from Lisa Koenigsberg (OIT), Martin Caraway (VBA), Jessica Pierce, Jenny Rosenau and Kayce White (Compensation Service)._
