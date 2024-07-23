@@ -40,7 +40,12 @@
 - **Tech Debt**
     - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
     - 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
-  
+    - 🟩 [Staging Review finding: Replace imposter component with va-link-action ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89001)
+    - 🟩 [Staging Review finding: Capitalization errors in "review your information" header ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89002)
+    - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
+    - 🟩 [Staging Review finding: Missing punctuation in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89005)
+    - 🟩 [Staging Review finding: Missing periods in the appointment time in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89006)
+    - 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008)
 </details>
 
 <details>
@@ -96,12 +101,6 @@
 - **Tech Debt**
     - 🟩 [Staging Review finding: aria-labelledby on "Review your information now" may block voice users. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88999)
     - 🟩 [Staging Review finding: Use the vads-font-size-eyebrow typography token ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89000)
-    - 🟩 [Staging Review finding: Replace imposter component with va-link-action ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89001)
-    - 🟩 [Staging Review finding: Capitalization errors in "review your information" header ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89002)
-    - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
-    - 🟩 [Staging Review finding: Missing punctuation in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89005)
-    - 🟩 [Staging Review finding: Missing periods in the appointment time in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89006)
-    - 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008)
   
 </details>
 
