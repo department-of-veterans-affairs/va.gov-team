@@ -83,6 +83,8 @@ Examples:
   * Can’t complete a question (can’t answer a required field)
   * Can’t sign in
   * Can’t read the details of my answer from the VA| Roll back to Ava Classic
+  * Inquiry details don’t enter CRM - Submitter submits but the details don’t follow down stream 
+
 ```
 
   </td><td>Rollback to AVA Classic</td></tr>
