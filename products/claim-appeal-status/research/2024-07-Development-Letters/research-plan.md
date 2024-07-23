@@ -39,7 +39,8 @@ Identify pain points in the current development letters experience that we might
 
 **Part 2: Evaluate 5103 design (Prototype)**
 - Are Veterans clear what the alert means and what they're being asked to do?
-- Are Veterans clear how the 5103 alert relatees to the 5103 Notice letter?
+- On the document request page, what action are Veterans more likely to take?
+- Are Veterans clear how the 5103 alert relates to the 5103 Notice letter?
 - Can Veterans find the 5103 letter related to their claim?
 
 **Part 3: Review other benefit letter types (Prototype)**
