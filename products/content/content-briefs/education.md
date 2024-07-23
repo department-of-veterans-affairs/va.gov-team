@@ -31,6 +31,7 @@ This brief will help your team create content for your product that aligns with 
 | VR&E | Veteran Readiness and Employment (VR&E), formerly called VA Vocational Rehabilitation and Employment. This program is also known as Chapter 31. | This term lives primarily in the Career hub, but there's crossover in the Education hub. In the 2024 education audit, SMEs noted that many Veterans know this term as Chapter 31. | [VR&E page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) | Not in style guide - may need to look at current search data before standardizing and adding it |  |
 | Veteran vs Selected Reserve member vs service member |  | We need clarification on which term to use when we're speaking about someone who died in the line of duty |  |  |  |
 | line of duty other than active |  |  |  |  |  |
+| preparatory courses | We define this as, "Preparatory courses, or prep courses, help you prepare for admissions tests required for college or graduate school." | We use "preparatory courses" on the first mention and prep courses in all subsequent mentions.  | [In this prep course Q&A](https://prod.cms.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses) |  |  |
 
 
 ## Content considerations specific to this topic
