@@ -43,8 +43,7 @@ This is the text that is currently displayed on ask.va.gov. This descriptive tex
 |`Closed`|Closed|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
 |Reference number not found|No Results found. We could not locate an inquiry that matches your ID.  Please check the number and re-enter.  If you receive this message again, you can submit a new inquiry with your original question.  Include your old inquiry number for reference and we'll work to get your question fully answered.|A submitter searches for an reference number that is not found in the system.|
 
-
-## Temporary notes – July 23
+## Temporary example for meeting on July 23
 
 |Prev. Status|Status|Descriptive text|Trigger event|
 |:--|:--|:--|:--|
