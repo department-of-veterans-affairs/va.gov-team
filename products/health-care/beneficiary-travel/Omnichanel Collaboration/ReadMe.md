@@ -8,6 +8,7 @@
      - [View in staging](https://staging.va.gov/my-health/travel-claim-status)
      - [VA.gov Travel Pay Status Page v1 epic #83824](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83824)
 - Mileage-only claim submission is in active design phase (Beneficiary Travel, PCI)
+     - [Joint Collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87696) 
 
 
 ## Planned Future Work 
