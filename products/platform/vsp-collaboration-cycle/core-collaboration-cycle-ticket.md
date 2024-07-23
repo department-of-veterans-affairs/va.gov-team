@@ -82,7 +82,7 @@ Examples of **research with VA.gov users** include:
 - [ ] VACO (Veterans Affairs Central Office)
 - [ ] Other. Please specify: ____________
 
-**7. Will a VA editor notice this change?**
+**7. Will a VA editor (Drupal) notice this change?**
 - [ ] Yes
 - [ ] No
     
