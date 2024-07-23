@@ -16,6 +16,7 @@
 - File a travel claim from Past Appointments (Appointments, PCI)
      - [Appointments team ticket](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88032)
      - File a travel claim on VA.gov (Beneficiary Travel)
+- Check a travel claim status on VA.gov (Beneficiary Travel, PCI, Appointments)
 
 ## Research 
    #### 2024
