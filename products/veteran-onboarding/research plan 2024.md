@@ -156,7 +156,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Research sessions - Estimated
 * Planned dates of research: Currently we're estimating that our research will take place the first and second week of August.   
 * Proposed dates:
-	- 7/30, 8/1, 8/2, 8/5, 8/6, 8/7, 8/8, 8/9
+	- 8/1, 8/2, 8/5, 8/6, 8/7, 8/8, 8/9
 
 ### Length of sessions
 * Session length: 1 hour
@@ -165,7 +165,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.*  
-* July 30: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
+  
 * August 1: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
 * August 2: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
 * August 5: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
@@ -189,6 +189,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 
 ------
 Update Log: 
+* Liza McRuer, 7/23/2024, updated dates
 * Liza McRuer, 7/10/2024, updated dates   
 * Liza McRuer, 6/18/2024, added research materials, updated timeframe
 * Liza McRuer, 6/10/2024, adjusted goals and added in secondary research of testing a profile completion flow
