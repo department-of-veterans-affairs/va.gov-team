@@ -15,7 +15,7 @@
 ## Planned Future Work 
 
 - File a travel claim from Past Appointments (Appointments, PCI)
-     - This work will leverage the mileage-only claim submission on VA.gov work currently in progress by Beneficiary Travel and PCI
+     - This work will leverage the mileage-only claim submission on VA.gov work currently in progress by Beneficiary Travel and PCI see more in [July 22 notes](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83829)
      - [Appointments team ticket](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88032)
 - Check a travel claim status on VA.gov (Beneficiary Travel, PCI, Appointments)
 
