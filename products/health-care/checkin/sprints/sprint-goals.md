@@ -111,8 +111,7 @@
     - Non-launch-blocking issues from the Landing Page Staging Review
         - 🟩 [Staging Review finding: aria-labelledby on "Review your information now" may block voice users. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88999)
         - 🟩 [Staging Review finding: Use the vads-font-size-eyebrow typography token ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89000)
-        - 🟩 [Staging Review finding: Replace imposter component with va-link-action ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89001)
-        - 🟩 [Staging Review finding: Line break in date of birth description (Check if your information is up to date > Date of birth) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89003)
+        - 🟩 [Staging Review finding: Replace imposter component with va-link-action ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89001)terans-affairs/va.gov-team/issues/89003)
         - 🟩 [Staging Review finding: Capitalization errors in "review your information" header ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89002)
         - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
         - 🟩 [Staging Review finding: Missing punctuation in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89005)
@@ -123,7 +122,7 @@
 
 ## SPRINT 11 - 7/10/2024-7/23/2024
 - **GOAL: Support Production**
-    - ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82356)
+    - ✔️ ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82356)
     - **Sub Goal: Move to New AWS Instance**
       - ✔️ ❗🟨 [[DevOps] Complete ATO Control Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87382)
       - ✔️ ❗🟨 [[DevOps] Build an inventory of all AWS resources in vaec-cms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86930)
@@ -153,7 +152,7 @@
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84429)
         - ✔️ 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
 - **GOAL: Address Tech Debt**
-    - 🟩 [4 Modifications to Tagalog Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87810)
+    - ✔️ 🟩 [4 Modifications to Tagalog Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87810)
 
 ## SPRINT 10 - 6/26/2024-7/9/2024
 
