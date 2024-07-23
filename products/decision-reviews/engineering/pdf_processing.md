@@ -11,9 +11,9 @@ PDF validation requirements are set in [PDFUtilities::PDFValidator](https://gith
 ## PDF Processing/Decryption
 
 Evidence attachment files are uploaded to S3 for storage. Before they can be uploaded to S3, any encrypted PDF files must be decrypted before being sent to downstream services.
-As the existing PDF decryption library does not support newer encryption methods, Decision Reviews elected to use `HexaPDF` to decrypt PDFs (see [Common::PdfHelpers](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/pdf_helpers.rb)). 
+As the existing PDF decryption library (`PDFTK`) does not support newer encryption methods (e.g. AES-128), Decision Reviews elected to use `HexaPDF` to decrypt PDFs (see [Common::PdfHelpers](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/pdf_helpers.rb)).
 
-The long term plan is to use `HexaPDF` to replace `PDFTK` as the PDF decryption library in vets-api.
+The long term plan is to use `HexaPDF` to replace `PDFTK` as the primary PDF decryption library in vets-api.
 
 ### Implementation Details
 [DecisionReviewEvidenceAttachment](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/decision_review_evidence_attachment.rb) uses [DecisionReviewEvidenceAttachmentUploader](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/uploaders/decision_review_evidence_attachment_uploader.rb) to configure the details of the upload to S3 using CarrierWave.
