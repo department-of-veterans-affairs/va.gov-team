@@ -9,9 +9,11 @@ See VA Mobile Doc site [Updating the app stores](https://department-of-veterans-
 - Short Description - 80 characters
 - Full - Description - 4000 characters
 - What’s new in version - 500 characters
+- 9 screenshots
 
-### iOs Limitations 
+### iOS Limitations 
 - Title - 30 characters
 - Description - no limit
 - Keywords Filed - 100 characters
-- Whats new section - 4000 characters 
+- Whats new section - 4000 characters
+- 10 screenshots
