@@ -1,6 +1,4 @@
-# WIP - Appointment Details Copy Doc - 2024 Redesign
-
-See [data empty states](#appointment-data-empty-state-content) and the end of this doc
+# Appointment Details Copy Doc
 
 ## VA Requests
 
@@ -10,7 +8,7 @@ See [data empty states](#appointment-data-empty-state-content) and the end of th
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true`
 
-Page title: `Request for appointment | Veterans Affairs`
+Page title: `Request for [Type of Care] appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to pending appointments`
 
@@ -64,7 +62,7 @@ Phone number: `[Phone Number]`
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
-Page title: `Request for appointment | Veterans Affairs`
+Page title: `Request for [Type of Care] appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to pending appointments`
 
@@ -117,14 +115,14 @@ Phone number: `[Phone Number]`
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
-Page title: `Canceled request for appointment | Veterans Affairs`
+Page title: `Canceled request for [Type of Care] appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to pending appointments`
 
 **PAGE CONTENT**
 `[card icon: calendar_today]` 
 
-`[h1]` Canceled request for appointment
+`[h1]` Canceled request for [type of care] appointment
 
 [[Cancelation alert](./shared-content.md#cancelation-alert)]
 
@@ -489,7 +487,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA video appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Video appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
@@ -543,7 +541,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `Past VA video appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past video appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to past appointments`
 
@@ -583,7 +581,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `Canceled VA video appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled video appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
@@ -623,7 +621,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA video appointment at a VA facility on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Video appointment at VA location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
@@ -672,7 +670,7 @@ Contact this facility if you need to reschedule or cancel your appointment.
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `Past VA video appointment at a VA facility on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past video appointment at VA location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to past appointments`
 
@@ -716,7 +714,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `Canceled VA video appointment at VA facility on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled video appointment at VA location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
@@ -760,7 +758,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
@@ -811,7 +809,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `Past VA video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to past appointments`
 
@@ -853,7 +851,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `Canceled VA video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
@@ -895,7 +893,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA phone appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Phone appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
@@ -943,7 +941,7 @@ Other details: `[Booking Note]`
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `Past VA phone appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past phone appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to past appointments`
 
@@ -989,7 +987,7 @@ Other details: `[Booking Note]`
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `Canceled VA phone appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled phone appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
@@ -1035,7 +1033,7 @@ Other details: `[Booking Note]`
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true`
 
-Page title: `Request for community care appointment | Veterans Affairs`
+Page title: `Request for [Type of Care] community care appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to pending appointments`
 
@@ -1088,7 +1086,7 @@ Call `[Best times to call responses]`
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
-Page title: `Request for community care appointment | Veterans Affairs`
+Page title: `Request for [Type of Care] community care appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to pending appointments`
 
@@ -1141,7 +1139,7 @@ Call `[Best times to call responses]`
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
-Page title: `Canceled request for community care appointment | Veterans Affairs`
+Page title: `Canceled request for [Type of Care] community care appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to pending appointments`
 
