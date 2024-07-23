@@ -2,7 +2,7 @@
 
 
 
-## What’s in Flight
+## In Progress
 
 - Travel Reimbursement Status Page is due to begin rollout in August 2024 (lead by Beneficiary Travel)
      - [View in staging](https://staging.va.gov/my-health/travel-claim-status)
