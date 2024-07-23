@@ -71,6 +71,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 [Share [prototype link](#) with participant]
 
+## Part 2: Evaluate 5103 design (Prototype)
 ## CST Home Page - 5 minutes
 
 Imagine you're signed into your VA.gov account and looking at this page.
