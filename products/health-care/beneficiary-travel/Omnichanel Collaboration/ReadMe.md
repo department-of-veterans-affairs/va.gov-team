@@ -14,6 +14,8 @@
 
 ## Planned Future Work 
 
+- [Beneficiary Travel Blueprints - Digital Filing Modalities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712673980094/648adf9a347a7618219b71f7923b48ffa09764f6?wid=126-1718154129143&sender=ucbacbd1daef36939e8aa2288) by CX Catalog team
+
 - File a travel claim from Past Appointments (Appointments, PCI)
      - This work will leverage the mileage-only claim submission on VA.gov work currently in progress by Beneficiary Travel and PCI see more in [July 22 notes](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83829)
      - [Appointments team ticket](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88032)
