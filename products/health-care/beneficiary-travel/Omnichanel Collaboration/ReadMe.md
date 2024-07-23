@@ -13,7 +13,6 @@
 ## Planned Future Work 
 
 - File a travel claim from Past Appointments (Appointments, PCI)
-  
      - [Appointments team ticket](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88032)
 
 ## Research 
