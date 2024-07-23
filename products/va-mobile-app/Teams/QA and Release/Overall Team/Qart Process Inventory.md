@@ -14,3 +14,4 @@
 | Claims file request test data prep | | | Tom, Rachael, Therese| 
 | Detox (setup, best practices, managing mapping, AF and Nav, etc) | | | Tom, Rachael, Therese| 
 | Automated RC testing - kickoff | | | Tom, Rachael, Therese| 
+| Ability & knowledge to flip backend feature flags | | | Therese, Rachael(?) | 
