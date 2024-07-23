@@ -236,7 +236,7 @@ Are you currently a Commanding Officer?
 -	No
 
 ### Timeline
-We plan to begin interviews with Veterans, TSMs, and COs over a 2 week period. Ideally July 29th through August 9th. Dates are subject to move based on participant availability.
+We plan to interview Veterans, TSMs, and COs over approximately a 2-week period (August 6th through August 16th). Dates are subject to move based on participant availability.
 
 #### Prepare
 We will be testing a clickable prototype with users. This prototype will be hosted on Figma and a link will be sent to users for the testing.
@@ -254,35 +254,14 @@ Here is the mock participant information for the required pilot test:
 
 #### Research sessions
 Planned dates of research: 
-July 29 – August 9, 2024
+August 6 – August 16, 2024
 
 #### Length of sessions
-•	Session length: 1 hour
-•	Buffer time between sessions: 30 minutes
-•	Maximum Sessions per day: There will be 2 interviewers. Please do not schedule a particular interviewer for more than 2 interviews per day. 
+-	Session length: 1 hour
+-	Buffer time between sessions: 30 minutes
+-	Maximum Sessions per day: There will be 2 interviewers. Please do not schedule a particular interviewer for more than 2 interviews per day. 
 
 #### Availability
-Monday, July 29, 2024
--	09:00-11:00 EDT
--	12:00-17:00 EDT
-
-Tuesday, July 30, 2024
--	10:00-13:00 EDT
--	14:00-17:00 EDT
-
-Wednesday, July 31, 2024
--	09:00-17:00 EDT
-
-Thursday, August 1, 2024
--	10:00-14:00 EDT
--	15:00-17:00 EDT
-
-Friday, August 2, 2024
--	09:00-17:00 EDT
-
-Monday, August 5, 2024
--	09:00-17:00 EDT
-
 Tuesday, August 6, 2024
 -	10:00-17:00 EDT
 
@@ -294,6 +273,22 @@ Thursday, August 8, 2024
 
 Friday, August 9, 2024
 -	09:00-17:00 EDT
+
+Monday, August 12, 2024
+-	09:00-17:00 EDT
+
+Tuesday, August 13, 2024
+-	10:00-17:00 EDT
+
+Wednesday, August 14, 2024
+-	09:00-17:00 EDT
+
+Thursday, August 15, 2024
+-	10:00-17:00 EDT
+
+Friday, August 16, 2024
+-	09:00-17:00 EDT
+
 ### Team Roles	
 Moderators:
 -	Ronnie Young (404-357-8142; Veronica.young1@va.gov)
