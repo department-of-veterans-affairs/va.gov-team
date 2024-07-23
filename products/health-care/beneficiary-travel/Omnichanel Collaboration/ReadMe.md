@@ -11,31 +11,33 @@
 ## Planned Future Work 
 
 
-## Past Research and Design on Travel Pay
-   ### 2024
+## Research 
+   #### 2024
 
-#### [Travel Claim Status Language Generative Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study)
+#### [Travel Claim Status Language Generative Study - July](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study)
 
-#### [Reimbursement status look and feel study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-04-Reimbursement-Status-Look-and-Feel-Study)
-#### [Claim status visability IA study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
+#### [Reimbursement status look and feel study - May](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-04-Reimbursement-Status-Look-and-Feel-Study)
+#### [Claim status visability IA study _ February](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
 
 
-### 2023
+#### 2023
+
+#### [Past Appointments Travel Reimbursement Generative Usability Study - November](https://github.com/department-of-veterans-affairs/va.gov-team/tree/93738300a77e4cb6236cb225d6b2b871abf85f8f/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study)
 
 #### [Travel Reimbursement in eCheck-in Staff Interviews at Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Staff%20Interviews%20at%20Wilkes-Barre)
 #### [Travel Reimbursement in eCheck-in Veteran Intercepts at Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre)
 
-### 2022
+#### 2022
 
 #### [Patient Check In Research Plan for Travel Reimburesement MVP Remore Usability Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test)
 #### [BTSSS Path Analysis - April 2022](./2022-04-btsss-path-analysis)
 
 
-### 2021
+#### 2021
 
 #### [Check-in Remote Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/research-findings.md)
 
-## Misc. Design Links
+## Design Artifacts and Links
 
 
 ## Team Spaces 
