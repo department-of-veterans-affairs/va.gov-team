@@ -1,4 +1,4 @@
-## Decision Reviews PDF Processing Overview
+# Decision Reviews PDF Processing Overview
 
 ## Background
 
