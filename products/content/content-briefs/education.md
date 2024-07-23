@@ -32,6 +32,7 @@ This brief will help your team create content for your product that aligns with 
 | Veteran vs Selected Reserve member vs service member |  | We need clarification on which term to use when we're speaking about someone who died in the line of duty |  |  |  |
 | line of duty other than active |  |  |  |  |  |
 | preparatory courses | We define this as, "Preparatory courses, or prep courses, help you prepare for admissions tests required for college or graduate school." | We use "preparatory courses" on the first mention and prep courses in all subsequent mentions.  | [In this prep course Q&A](https://prod.cms.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses) |  |  |
+| regional processing office | We have 2 regional offices that process GI Bill applications. | Lowercase regional processing office when referring to them generally. Capitalize when referring to a specific office, like Muskogee Regional Processing Office. | [Regional processing office addresses](https://prod.cms.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses) |  |  |
 
 
 ## Content considerations specific to this topic
