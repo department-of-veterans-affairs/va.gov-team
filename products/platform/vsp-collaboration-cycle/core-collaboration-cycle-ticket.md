@@ -81,6 +81,10 @@ Examples of **research with VA.gov users** include:
 - [ ] NCA (National Cemetery Administration)
 - [ ] VACO (Veterans Affairs Central Office)
 - [ ] Other. Please specify: ____________
+
+**Will a VA editor notice this change?**
+- [ ] Yes
+- [ ] No
     
 </details>
 
