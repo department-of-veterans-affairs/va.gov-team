@@ -17,15 +17,15 @@
 #### [Travel Claim Status Language Generative Study - July](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study)
 
 #### [Reimbursement status look and feel study - May](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-04-Reimbursement-Status-Look-and-Feel-Study)
-#### [Claim status visability IA study _ February](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
+#### [Claim status visability IA study - February](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
 
 
 #### 2023
 
 #### [Past Appointments Travel Reimbursement Generative Usability Study - November](https://github.com/department-of-veterans-affairs/va.gov-team/tree/93738300a77e4cb6236cb225d6b2b871abf85f8f/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study)
 
-#### [Travel Reimbursement in eCheck-in Staff Interviews at Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Staff%20Interviews%20at%20Wilkes-Barre)
-#### [Travel Reimbursement in eCheck-in Veteran Intercepts at Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre)
+#### [Travel Reimbursement in eCheck-in Staff Interviews at Wilkes-Barre - August](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Staff%20Interviews%20at%20Wilkes-Barre)
+#### [Travel Reimbursement in eCheck-in Veteran Intercepts at Wilkes-Barre - August](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre)
 
 #### 2022
 
