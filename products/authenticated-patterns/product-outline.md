@@ -57,7 +57,7 @@ Based on existing research and priorities from OCTO/VADS we have identified seve
 - Navigate as an authenticated user
 
 ## Solution Approach
-We gathered as a team to prioritize patterns identified above based on the following factors:
+We gathered as a team to prioritize patterns identified, with items in the darkest teal (top right) corner being the first ones to tackle and moving outward to the left as the project continues on, based on the following factors:
 - It's related to the authenticated experience.
 - It solves a VA specific problem.
 - It is sufficiently abstract-able to be reusable.
@@ -68,7 +68,6 @@ We gathered as a team to prioritize patterns identified above based on the follo
 - Dependencies on other patterns.
 - Existing work already in progress.
 
-The final ordering is shown below, with items in the darkest teal (top right) corner being the first ones to tackle and moving outward to the left as the project continues on.
 ![image](https://github.com/user-attachments/assets/782e9b03-f34a-46cb-bc8f-cddbcb796976)
 
 
