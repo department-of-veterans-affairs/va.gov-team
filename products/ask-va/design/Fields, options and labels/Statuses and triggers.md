@@ -48,7 +48,7 @@ This is the text that is currently displayed on ask.va.gov. This descriptive tex
 |Prev. Status|Status|Descriptive text|Trigger event|
 |:--|:--|:--|:--|
 |`New`|>>|This isn't shown to submitters. Questions automatically start as `In progress`.|The system automatically sets the status to `New` when a question is submitted.|
-|`In progress|`In progress`|We're reviewing your question.|The system automatically sets the status to `In progress` when an agent is assigned. Even if the inquiry is re-routed, it will stay `In progress` until it moves to `Solved`.|
+|`In progress`|`In progress`|We're reviewing your question.|The system automatically sets the status to `In progress` when an agent is assigned. Even if the inquiry is re-routed, it will stay `In progress` until it moves to `Solved`.|
 |`Solved`|`Closed`|We either answered your question or didn't have enough information to answer your question. If you need more help, reply or ask a new question.|An agent manually changes the status to `Solved` when an inquiry: has been resolved, is a duplicate, or has insufficient details. `Solved` can also mean an agent has replied asking for more information, so the conversation may not be over.|
 |`Reopened`|`Reopened`|We received your reply. We'll respond soon.|The system automatically sets the status to `Reopened` when a submitter replies to a `Solved` inquiry.|
 |`Closed`|`Archived`|This isn't shown to submitters.|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity. This only applies to business inquiries, and happens so they will be removed from their dashboard.|
