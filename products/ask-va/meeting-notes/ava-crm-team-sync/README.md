@@ -1,3 +1,56 @@
+
+## Meeting Notes for July 23rd: 
+
+### Agenda:
+* CeeCee: Review Rollback severity + justification
+* Wayne: How long do we maintain classic AVA during / post cutover
+* Chris: Dark release in addition to the 1/20/25 release?
+* Tyler: Dashboard Statuses
+
+### Action Items: 
+* Natalie: to check with OITC on standard timelines for maintaining original instances when cutting over to a new one 
+* CeeCee : Update timeline for phased approach to review with team
+* Tyler & Chris: Sync up around Dashboard.
+
+### Proposed new Agenda for Tuesday July 30th: 
+* Review Timeline for potential phases approaches
+* Review Dashboard Statuses
+* Discuss UAT 
+
+
+### Notes:
+### Rollback & Release Planning:
+* New Fatal Error: Inquiry details don’t enter CRM, Submitter submits but the details don’t follow down stream 
+
+### How long do we maintain Classic AVA during or post cutover:
+#### Context: Difficulties will occur at the first new release post launch 
+* AVA Recommendation: weeks not months
+* Decision: VAPOs to discuss offline
+* Pro: safety in terms of rollback
+* Con: difficulty in maintaining 2 environments
+
+### Action : Natalie will check with OITC on standard timelines
+
+### Dark Release: Process & Decision
+* Goal: limit the risk at time of launch before accessing the general population (soft opening)
+* Context: making the phased rollout at the beginning a dark release. CRM would select their super users rather than a randomly assigned messageID, allowing CRM to help catch potential issues.
+Steps:
+* giving the link to selected submitters at the start 
+* Then move into the canary/staged approach
+* Opportunity: Still using the staged roll out approach but essentially adding an additional stage
+
+Question re phased approach:
+* Are we going to back up the timeline of development to accommodate the january 20th date?
+* ### Action: Review Staged release Timeline view Next Tuesday
+* Will we be development ready by this time?
+
+### Dashboard Statuses:
+* Context: some of the wording of statuses, is leading to some confusion
+* Recommendation: how we might change statuses on the front end
+* ### Action: Tyler & Chris to sync up 
+
+
+
 ## Meeting Notes for CRM Sync on 07/16/2024
 
 Rollout and Rollback
