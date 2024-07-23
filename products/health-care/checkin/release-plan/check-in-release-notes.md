@@ -12,6 +12,9 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 7/17/2024
+- Updated the eCheck-in application to handle a timeout from a call to the BTSSS API to submit a mileage-only travel reimbursement claim; in this scenario, the application will wait for 5 minutes and then call another BTSSS API endpoint that checks the status of any claims submitted on the day of the appointment; this allows the application to verify if the claim made it to BTSSS and give the Veteran the proper message
+
 ## 7/9/2024
 - Fixed a bug in Pre-Check-in to include the eyebrow component above the H1
     - [Ticket 87412](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87412)
