@@ -2,7 +2,7 @@
 
 _Updated: July 23, 2024_
 
-## How is driv time in VAOS calculated today? 
+## How is drive time in VAOS calculated today? 
 
 [Community Care Eligibility API via Lighthouse API Team](https://developer.va.gov/explore/api/community-care-eligibility/docs?version=current)
 
