@@ -21,7 +21,7 @@
         - 🟪 Need TestRail reports links
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
-    - 🟥 TBD
+    - 🟥 [Create Draft Desktop Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
     - 🟩 TBD
     - 🟩🟦 [[BE][FE] Appointments Online Scheduling Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88049)     
 - **Upcoming VAOS Appointments**
@@ -85,7 +85,6 @@
     - 🟪 Create product documents
     - 🟥 [Update userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88086)
     - 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
-    - 🟥 [Create Draft Desktop Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
     - 🟥 Schedule Design Intent (are we piggy-backing off Travel Team's Collab Cycle ticket?)   
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish the draft UX artifacts and schedule a Midpoint Review and to make progress on backend integration with VAOS/MAP**
