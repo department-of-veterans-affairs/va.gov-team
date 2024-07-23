@@ -64,7 +64,6 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Tech & Design Debt**
     - **Sub Goal: [Feature] Get CC Consults**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
-    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
     - **Sub Goal: [Feature] Migrate app pages to vets-website staging env**
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
@@ -85,14 +84,11 @@ ________________________________________________________________________________
        - ❗ 🟨 [[Research] Create research findings presentation for OCTO, VSS, EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88889)
        - 🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)
        - 🟨 [Create tickets to implement recommendations from research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88891)
-    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
-       - 🟥 [[Design] Finish cancel wireframes and pull into Wellhive API usage and MPV scope pages in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88489)
-       - 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
        - 🟥 [[Design] Create design when Veteran already has an appointment at that time](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88887)
+       - 🟥 [Design] Rework filter and results location now that preferred provider area is removed](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89103)
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
-       - 🟦 [[Integrate mocks] Integrate data from previous pages into Review/confirm page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87728)
-       - 🟦 [[Integrate mocks] Success (appointment details) page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87730)
+       - TBD
     - **Sub Goal: [Feature] Migrate app pages to vets-website staging env**
        - 🟦 [Move Filtering of providers page to stg eng](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88896)
        - 🟦 [Move Choose a provider page with filtered results to stg env](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88895)
