@@ -114,7 +114,6 @@
         - 🟩 [Staging Review finding: Replace imposter component with va-link-action ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89001)
         - 🟩 [Staging Review finding: Line break in date of birth description (Check if your information is up to date > Date of birth) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89003)
         - 🟩 [Staging Review finding: Capitalization errors in "review your information" header ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89002)
-        - 🟩 [Staging Review finding: Line break in date of birth description (Check if your information is up to date > Date of birth) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89003)
         - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
         - 🟩 [Staging Review finding: Missing punctuation in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89005)
         - 🟩 [Staging Review finding: Missing periods in the appointment time in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89006)
