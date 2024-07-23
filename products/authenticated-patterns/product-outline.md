@@ -57,6 +57,20 @@ Based on existing research and priorities from OCTO/VADS we have identified seve
 - Navigate as an authenticated user
 
 ## Solution Approach
+We gathered as a team to prioritize patterns identified above based on the following factors:
+- It's related to the authenticated experience.
+- It solves a VA specific problem.
+- It is sufficiently abstract-able to be reusable.
+- It meets sufficient quality measures to be integrated into the USWDS
+- It is portable to USWDS and would be useful to other agencies.
+- It would benefit existing applications.
+- Dependencies on other teams.
+- Dependencies on other patterns.
+- Existing work already in progress.
+
+The final ordering is shown below, with items in the darkest teal (top right) corner being the first ones to tackle and moving outward to the left as the project continues on.
+![image](https://github.com/user-attachments/assets/782e9b03-f34a-46cb-bc8f-cddbcb796976)
+
 
 ### Prefill Form Data
 We believe this is a good pattern to begin with as there are many forms already using this pattern as a 'component' within VADS > forms (https://design.va.gov/components/form/prefill) and we that this would be a useful pattern to contribute up to USWDS as many other agencies have authenticated forms. We believe this pattern should consist of: 
