@@ -38,6 +38,8 @@ Once you have access to ArgoCd, follow these steps:
           puts "ID: #{record.id}, Email: #{record.email}, First Name: #{record.first_name}, Last 
           Name: #{record.last_name}, Form Number: #{record.form_number}, Created At: #  
           {record.created_at}" end```   (Change the target_date filter the date you want to preview)
+
+![Argocd](/products/health-care/champva/1010D/Argocd.png)
    
 
 #### Team Actions:
