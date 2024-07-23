@@ -22,7 +22,24 @@ The Missing Pega Status alert is triggered when certain conditions regarding the
 - Determine which environment the failure resides on: vets-api development, staging, sandbox, and production environments currently reside in EKS (Amazon Elastic Kubernetes Service).
 - Use ArgoCD. ArgoCD provides a UI for developers to see the application and manages the deployment by checking the desired state against the deployed state.
 - Access to the vets-api EKS applications is managed via GitHub teams [link here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Cplatform-tech-team-support%2Cops-access-request&template=vetsapi-argo-terminal-access.yaml&title=Vets-api+terminal+access+for+%5Bindividual%5D). To obtain access, fill out a Vets-api ArgoCD terminal access request form. Note: prod access requires OCTO-DE approval and will take longer to get than the lower environments.
-- 
+- Once you get ArgoCD approval from Platform, you will need to connect to the VA network using your PIC Card. Then navigate to the environment you want to access.
+- [ArgoCd dev](https://argocd.vfs.va.gov/applications/vets-api-dev?view=tree&resource=)
+- [ArgoCd Staging](https://argocd.vfs.va.gov/applications/vets-api-staging?view=tree&resource=})
+- [ArgoCd Production](https://argocd.vfs.va.gov/applications/vets-api-prod?view=tree&resource=)
+
+Once you have access to ArgoCd, follow these steps:
+1. Search for "vets-api-{env-here}" in the search bar
+2. Click on a vets-api-web-* pod (far right) Note: Look for the pod icon
+3. A Terminal tab will appear on the far right
+4. Run ```bundle exec rails c```
+5. Run ```target_date = DateTime.new(2024, 7, 16)
+          records = IvcChampvaForm.where("created_at > ?", target_date)
+          records.each do |record|
+          puts "ID: #{record.id}, Email: #{record.email}, First Name: #{record.first_name}, Last 
+          Name: #{record.last_name}, Form Number: #{record.form_number}, Created At: #  
+          {record.created_at}" end```   (Change the target_date filter the date you want to preview)
+   
+
 #### Team Actions:
 - No Action needed, this alert is letting us know that volumes are back to normal
 
