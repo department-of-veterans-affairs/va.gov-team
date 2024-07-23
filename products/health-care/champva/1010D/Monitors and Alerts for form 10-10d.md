@@ -29,7 +29,8 @@ The Missing Pega Status alert is triggered when certain conditions regarding the
 ## Monitor: IVC ChampVA Forms Pega Callback API Errors
 ### Triggered: IVC ChampVA Forms Pega Callback API Errors
 #### Alert Reason
-- IVC ENG PLEASE ADD
+IVC ChampVA Forms Pega Callback API errors occur when there is a problem with the communication between our system and the Pega system. These errors can be triggered if Pega is temporarily unavailable or experiencing an outage. Additionally, issues may arise if there are network connectivity problems that prevent our system from reaching Pega. Misconfigurations or incorrect data formats in the API requests can also lead to these errors. Another reason could be that the Pega system rejects the data due to validation errors. Finally, if our API rate limits are exceeded, it can cause callback errors. Monitoring these errors helps us quickly identify and resolve issues, ensuring smooth operation of the form submission process.
+
 #### Team Actions
 - IVC PRODUCT WILL ADD
 
