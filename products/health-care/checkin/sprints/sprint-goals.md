@@ -83,7 +83,11 @@
         - 🟩🟦 [[BE][FE] Appointments Online Scheduling Onboarding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88049)        
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Today's VISTA Appointments**
-        - Sprint Goal is to release this feature after we have responded to all blocking issues from Staging Review (which is 7/23)
+        - Sprint Goal is to release this feature after we have responded to all launch-blocking issues from Staging Review (which is 7/23)
+        - Launch-blocking issues identified during the Staging Review
+            - 🟩 [Staging Review finding: Input error messages not announced by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89010)
+            - 🟩 [Staging Review finding: "Check in now" links not announced the same way by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89009)
+            - 🟩 [Staging Review finding: Inconsistent language around identity verification in "Check if your information is up to date" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89007)
         - 🟩 [[FE] - Review and merge PR last sprints tickets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88841)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
         - 🟩🟦🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
@@ -103,6 +107,17 @@
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
+    - Non-launch-blocking issues from the Landing Page Staging Review
+        - 🟩 [Staging Review finding: aria-labelledby on "Review your information now" may block voice users. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88999)
+        - 🟩 [Staging Review finding: Use the vads-font-size-eyebrow typography token ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89000)
+        - 🟩 [Staging Review finding: Replace imposter component with va-link-action ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89001)
+        - 🟩 [Staging Review finding: Line break in date of birth description (Check if your information is up to date > Date of birth) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89003)
+        - 🟩 [Staging Review finding: Capitalization errors in "review your information" header ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89002)
+        - 🟩 [Staging Review finding: Line break in date of birth description (Check if your information is up to date > Date of birth) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89003)
+        - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
+        - 🟩 [Staging Review finding: Missing punctuation in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89005)
+        - 🟩 [Staging Review finding: Missing periods in the appointment time in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89006)
+        - 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008)
   
 </details>
 
