@@ -159,7 +159,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
   - Ro Weaver
   - Bresha Lipscomb (Appointments Product Owner)
 - MHV on VA.gov
-  - Coulton Bunney
+  - Kaitlin Fink
 - Stakeholders
   - Dr. Maureen Layden (AVS Product Owner)
   - AVS Steering Committee (meets monthly)
