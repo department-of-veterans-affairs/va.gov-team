@@ -25,9 +25,13 @@
     - 🟩 TBD
     - 🟩🟦 [[BE][FE] Appointments Online Scheduling Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88049)     
 - **Upcoming VAOS Appointments**
-    - **Sprint Goal TBD**
-    - 🟩 TBD - need to finish work after UX design is finalized
+    - **Sprint Goal Finish all work and schedule a Staging Review & Infrastrucutre Readiness Review**
+    - 🟩 [[FE] Create Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
+    - 🟩 [[FE] Add Link to Access the Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89065)
+    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
     - 🟦 TBD - remaining work?
+    - 🟪 Schedule Staging Review    
+    - 🟩 Schedule Infrasturcture, Security Readiness Review
 - **Translations**
     - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
@@ -57,9 +61,6 @@
     - ❗🟩 [Staging Review finding: Inconsistent language around identity verification in "Check if your information is up to date" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89007)
     - ❗🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
     - ❗🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
-        - 🟩 Merge code
-        - 🟥 Release Product Guide
-        - 🟪 Create Release notes & notify stakeholders    
     - ❗🟪 Schedule a 508 Audit
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to complete this feature and schedule a Staging Review and an Infrasturcture, Security, & Readiness Review**
@@ -67,11 +68,6 @@
     - 🟩 [Test E2E with VeText Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
         - 🟩 How will we make this available to only certain Pilot sites?
     - 🟪 Schedule Staging Review
-        - 🟩 Need instructions for Platform folks to test (is [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md) it??)
-        - 🟩 Need Code Coverage link
-        - 🟩 Need E2E tests link
-        - 🟥 Need Contact Center review ticket link for Product Guide (Zach)
-        - 🟥 Need to check Content and IA artifacts in Staging Review section (Ben)
     - 🟩 Schedule Infrasturcture, Security Readiness Review
     - 🟥🟪 Find out from Kristen about timing of pilot and pilot site(s)
 - **Medication Wording for Appointments - Pre-Check-in**
