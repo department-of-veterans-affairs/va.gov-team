@@ -59,6 +59,10 @@ It might be helpful to walk through how the system works when sending Full Width
 
 - **Sending phase:** On a subsequent cron run, AdvancedQueue runs and processes all queued jobs. If present, our custom Job Type, [va_gov_aging_content_notification](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/docroot/modules/custom/va_gov_notifications/src/JobTypeMessageNotifyBase.php), assembles information necessary to create a new Message Template from the provided payload and sends the message using Message Notify.
 
+This can process flow can also be viewed [as a diagram on Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720566169860/b7483b3d4ff278571bc42268c10d448e7cd3f00c?sender=u9c899abc4fe36c9a698b1647).
+
+![Aging Content Notification Framework_2024-07-23_20-18-53](https://github.com/user-attachments/assets/376d3c49-e5d3-49e1-9731-77ab0b903235)
+
 #### Event
 
 Using a built-in Event plugin from ECA, anytime Drupal cron runs (currently every 15 minutes), ECA is queried for any Events that are scheduled to run. The Event contains a field to define the schedule using a cron expression, eg: **5 4 * * ***
@@ -117,7 +121,8 @@ Role based access controls for administrative tasks. We will define new Drupal p
 |-------------------|------------------|-------------------|-------------------|
 | 1.0 | 1/23/24 | Initial creation | Daniel Sasser |
 | 1.1 | 7/8/24 | Updates | Daniel Sasser |
-| 1.2 | 7/15/24 | Updates | Dave Picket |
+| 1.2 | 7/15/24 | Updates | Dave Pickett |
+| 1.21 | 7/23/24 | Diagram | Dave Pickett
 
 
 
