@@ -67,7 +67,7 @@ These are the main features we're testing:
 
 ## Key findings
 
-1. People use last updated date and status to find items that have a reply or should have a reply soon.
+1. People use date last updated and status to find items that have a reply or should have a reply soon.
 2. Question and category provide keywords that help people skim and identify particular items.
 3. Education business submitters organize their inquiries by student name.
 4. It can be confusing deciphering between new and in progress, but reopened and solved are well understood.
@@ -76,7 +76,7 @@ These are the main features we're testing:
 
 ## Details of findings 
 
-### Finding 1: People use last updated date and status to find items that have a reply or should have a reply soon.
+### Finding 1: People use date last updated and status to find items that have a reply or should have a reply soon.
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`, `AUD: School Certifying Officials (SCO)`, `DSC: Card`_
 
