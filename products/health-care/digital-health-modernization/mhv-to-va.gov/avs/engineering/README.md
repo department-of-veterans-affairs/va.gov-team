@@ -14,8 +14,6 @@ flowchart TB
     end
     subgraph VA.gov
     avs-fe["AVS Frontend (React)"]<-->vets-api
-    vets-api<-->Redis
-    vets-api<-->DB["Postgres"]
     vets-api<-->fwdproxy["HaProxy (fwdproxy)"]
     end    
     fwdproxy<-->avs-api
