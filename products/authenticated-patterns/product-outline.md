@@ -69,17 +69,17 @@ We gathered as a team to prioritize patterns identified, with items in the darke
 - Existing work already in progress.
 
 ![image](https://github.com/user-attachments/assets/782e9b03-f34a-46cb-bc8f-cddbcb796976)
-
+View our prioritization work [in this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719935240619/2a4978c3cf5c7320fbf5c37f26fa0860d0798589?sender=u44efa807e992cacf10cf3697)
 
 ### Prefill Form Data
 We believe this is a good pattern to begin with as there are many forms already using this pattern as a 'component' within VADS > forms (https://design.va.gov/components/form/prefill) and we that this would be a useful pattern to contribute up to USWDS as many other agencies have authenticated forms. We believe this pattern should consist of: 
 - one or more visual indications that form data has been prefilled, including but not limited to:
-- page-level alerts
-- inline alerts
-- additional info component
-- address/details component
-- input styling
-- directions to update profile data 
+  - page-level alerts
+  - inline alerts
+  - additional info component
+  - address/details component
+  - input styling
+  - directions to update profile data 
 
 ### Maintain accurate data within their profile
 We believe that creating improved personal profile maintenance interfaces will help improve and maintain data quality within user profiles. This pattern will tie in closely with the prefill form pattern and knowing where and how to update out of date information when forms are prefilled. As such we believe this is a good second pattern to work with and should consist of:
@@ -102,13 +102,13 @@ We believe that creating a pattern for personalized form flows will significantl
 - progress/status bars
 
 ### Information mismatch handling
-We believe that alerting users to mismatched data when filling out forms will improve the quality of profile data and help reduct frustration and mistrust with users. As with other pattern prospects, we believe this could be a widely used pattern within other agencies authenticated form experiences.
+We believe that alerting users to mismatched data when filling out forms will improve the quality of profile data and help reduce frustration and mistrust with users. As with other pattern prospects, we believe this could be a widely used pattern within other agencies authenticated form experiences.
 
 ### Stay informed of request status
-We believe that creating a pattern for how users are informed of the status of their requests, whther helpdesk or form submission related, is an extremely valuable pattern, however we acknowledge that this is also a very broad idea that will be more difficult to implement. We do believe that creating a pattern for a notification dashboard or similar is useful to other agencies with authenticated form submissions and helpdesks.
+We believe that creating a pattern for how users are informed of the status of their requests, whther helpdesk or form submission related, is an extremely valuable pattern. However we acknowledge that this is also a very broad idea that will be more difficult to implement. We do believe that creating a pattern for a notification dashboard or similar is useful to other agencies with authenticated form submissions and helpdesks.
 
 ### Know when there's a personal notification
-We believe that creating a pattern for personal and timely notifications, is an extremely valuable pattern, however we acknowledge that this is also a very broad idea that will be more difficult to implement. We believe that this pattern may tie in closely with the previous request status pattern and may have ready to adopt patterns found in other agencies using USWDS.
+We believe that creating a pattern for personal and timely notifications, is an extremely valuable pattern. However we acknowledge that this is also a very broad idea that will be more difficult to implement. We believe that this pattern may tie in closely with the previous request status pattern and may have ready to adopt patterns found in other agencies using USWDS.
 
 ### Help users sign in with less friction
 Currently there are many methods a user can authenticate on VA.gov including buttons, modals, inline links on pages, etc. We believe this could be improved by creating a pattern that could include guidance and components for how users authenticate on VA.gov and other federal agency sites using ID.me and login.gov. 
@@ -122,17 +122,23 @@ We believe this pattern could consist of a common 'user menu' including content,
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ### Initiatives
+#### FY24 Q4
 - Prefill Form Data (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/17)
 - Maintain accurate data within their profile (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/22)
 - Service History (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/27)
+
+#### FY25 Q1
 - Auto Save Alert (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/24)
 - Make Descisions based on personalized form flows (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/25)
 - Information mismatch handling (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/30)
+
+#### FY25 Q2
 - Stay informed of request status (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/21)
 - Know when there's a personal notification (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/19)
+
+#### FY25 Q3
 - Help users sign in with less friction (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/20)
 - Navigate as an authenticated user (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/23)
-
 --- 
 
 ## Launch Strategy
