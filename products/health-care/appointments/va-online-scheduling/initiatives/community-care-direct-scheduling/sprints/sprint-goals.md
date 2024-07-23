@@ -68,6 +68,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Migrate app pages to vets-website staging env**
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
 
 
 #### PLANNED RELEASES 
@@ -95,6 +96,8 @@ ________________________________________________________________________________
        - 🟦 [[SPIKE] Determine approach for checking if appts have been scheduled in WellHive, but aren't in VAOS Backend yet](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88491)
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
        - 🟦 [Provider list based on referral and patient preferences page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87727)
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+       - 🟥 [Move annotations in MVP page to specs page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88026)
 
 </details>
 
@@ -134,7 +137,7 @@ ________________________________________________________________________________
        - ~🟦 [Choose date and time for provider page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87731)~
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
        - 🟦 [Pending appts page with unscheduled referral and expired referral](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87738)
-       - 🟥 [Move annotations in MVP page to specs page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88026)
+       - :roller_skate: 🟥 [Move annotations in MVP page to specs page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88026)
     - **Sub Goal: [Feature] Design & Tech Debt**
        - ✔️ 🟥 [Add annotations into Figma MVP where we're calling the different API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87901)
        - 🟥 🟪 Review and update (or provide feedback on) schedule from Rob
