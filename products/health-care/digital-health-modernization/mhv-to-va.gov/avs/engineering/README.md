@@ -69,6 +69,6 @@ sequenceDiagram
 
 ### API Docs
 
-vets-api: https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/my_health/apidocs#/
-AVS backend: https://pvs.va.gov/avs/api/openapi
+- vets-api: https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/?url=https://dev-api.va.gov/my_health/apidocs#/
+- AVS backend: https://pvs.va.gov/avs/api/openapi
 
