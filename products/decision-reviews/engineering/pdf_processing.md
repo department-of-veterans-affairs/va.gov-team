@@ -4,8 +4,9 @@
 
 As part of the form submission process, Veterans can include and upload evidence attachments. Evidence attachments have a specific set of requirements to be accepted by downstream services (e.g EMMS).
 
-PDF validation is done by an API request to Lighthouse. See https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/decision_review/utilities/pdf_validation/service.rb 
-PDF validation requirements are set in https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/pdf_utilities/pdf_validator.rb
+PDF validation is done by an API request to Lighthouse (see [DecisionReview::PdfValidation::Service](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/decision_review/utilities/pdf_validation/service.rb)).
+
+PDF validation requirements are set in [PDFValidator::PDFValidator](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/pdf_utilities/pdf_validator.rb).
 
 ## PDF Processing/Decryption
 
