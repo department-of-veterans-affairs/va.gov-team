@@ -43,7 +43,13 @@
 
 #### [Check-in Remote Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/research-findings.md)
 
-## Design Artifacts and Links
+## Design Artifacts and Other Resources
+
+- [User flow for filing a BT claim from past appointments on VA.gov.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695774555765/73dec2c323f80ae6cb2a6e0a646221e2aeb680c4?sender=u37bb983bd3fc3cc00c7d3286), which will get updated to reflect changes and prepare for Design Intent (expected Aug 2024)
+
+
+**Form wireframes:** [Up-to-date designs](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3592-4824&t=JbmPVn8Znw5BOZVZ-1), with BTSSS starting on the [form intro page](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3593-3077&t=JbmPVn8Znw5BOZVZ-1).
+   - If SMS messages are going to be used to let Veterans know if the claim was or wasn’t successfully saved in BTSSS, then some of the links in the messages (from the Figma file) might need to change, e.g., to navigate users to the new VA.gov Travel Reimbursement Status tool.
 
 
 ## Team Spaces 
