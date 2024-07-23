@@ -28,7 +28,7 @@ Our north star: Crafting evidence-based, adaptable and adoptable design patterns
 It is the sum of many components shared across one or more pages that create an optimal user flow within authenticated products or platforms. It should include governance and usage guidelines, code for components and pages, and examples.
 
 ### Team members
-* Beck Phung: VA Product Owner @beckyphung 
+* Becky Phung: VA Product Owner @beckyphung 
 * Alexandria Parker: Delivery manager (Part-time) @ACParker89
 * Lynn Stahl: Product Manager @msbtterswrth
 * Adam Whitlock: Software Engineer @adamwhitlock1
