@@ -173,21 +173,21 @@ Cohorts should vary by VISN, which include different states. No need to include 
 
 - Cohort 8 (n=5): Kentucky or Tennessee
 
-- Cohort 9 (n=9): Colorado, Wyoming, Oklahoma or Utah
+- Cohort 9 (n=9): Colorado, Wyoming, Oklahoma or Utah; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=9
 
-- Cohort 10 (n=9): Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
+- Cohort 10 (n=9): Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=10
   
-- Cohort 11 (n=9): Georgia, Alabama, or South Carolina
+- Cohort 11 (n=9): Georgia, Alabama, or South Carolina; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=11
   
-- Cohort 12 (n=9): South Dakota, Iowa, or Minnesota
+- Cohort 12 (n=9): South Dakota, Iowa, or Minnesota; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=12
   
-- Cohort 13 (n=9): New York
+- Cohort 13 (n=9): New York; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=13
 
-- Cohort 14 (n=9): Florida
+- Cohort 14 (n=9): Florida; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=14
 
-- Cohort 15 (n=9): Oregon, Washington, Alaska or Idaho
+- Cohort 15 (n=9): Oregon, Washington, Alaska or Idaho; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=15
 
-- Cohort 16 (n=5): Pennsylvania or Delaware
+- Cohort 16 (n=5): Pennsylvania or Delaware; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=16
 
 - Cohort 17 (n=9): Kentucky or Tennessee
 
