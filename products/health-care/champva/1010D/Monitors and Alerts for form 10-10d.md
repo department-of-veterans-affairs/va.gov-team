@@ -18,8 +18,11 @@ The Missing Pega Status alert is triggered when certain conditions regarding the
 
 ### Recovered: Missing Pega Status
 #### Alert Reason
-- In order to troubleshoot the cause of the Missing Pega Status, follow these step:
+- In order to troubleshoot the cause of the Missing Pega Status, follow these steps:
 - Determine which environment the failure resides on: vets-api development, staging, sandbox, and production environments currently reside in EKS (Amazon Elastic Kubernetes Service).
+- Use ArgoCD. ArgoCD provides a UI for developers to see the application and manages the deployment by checking the desired state against the deployed state.
+- Access to the vets-api EKS applications is managed via GitHub teams [link here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Cplatform-tech-team-support%2Cops-access-request&template=vetsapi-argo-terminal-access.yaml&title=Vets-api+terminal+access+for+%5Bindividual%5D). To obtain access, fill out a Vets-api ArgoCD terminal access request form. Note: prod access requires OCTO-DE approval and will take longer to get than the lower environments.
+- 
 #### Team Actions:
 - No Action needed, this alert is letting us know that volumes are back to normal
 
