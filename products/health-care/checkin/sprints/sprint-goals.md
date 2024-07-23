@@ -48,9 +48,6 @@
     - 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008)
 </details>
 
-<details>
-<summary>SPRINT 12 - 7/24/2024-8/6/2024 FUTURE TENTATIVE</summary>
-
 ## SPRINT 12 - 7/24/2024-8/6/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
@@ -101,7 +98,6 @@
     - 🟩 [Staging Review finding: aria-labelledby on "Review your information now" may block voice users. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88999)
     - 🟩 [Staging Review finding: Use the vads-font-size-eyebrow typography token ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89000)
   
-</details>
 
 ## SPRINT 11 - 7/10/2024-7/23/2024
 - **GOAL: Support Production**
