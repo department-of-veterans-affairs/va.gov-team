@@ -1,6 +1,6 @@
 # Comp & Pen, Disability and Pension Payment Notifications
 
-Notifications are live as of August 2024. The notification setting on VA.gov was enabled on July 17, 2024. The Q&A on the payment history page was launched on July XX, 2024.
+Notifications are live as of August 2024. The notification setting on VA.gov was enabled on July 17, 2024. The Q&A on the payment history page was launched on July 19, 2024.
 
 ## Overview
 About 7 million Veterans receive recurring disability or pension payments. An average of 35,000 calls a month come into the call center for payments and debts. Often, Veterans have questions about if and when they will be receiving payments.  
@@ -37,7 +37,7 @@ Prior to launch VBA will release a promotional campaign with a combination of th
 - [Live 4/10/2024] In partnership with Benefits Integration Platform team (BIP) we are consuming payment events from their kafka event bus. VA Notify consumes all payment events, filters down to the recurring payment event, and determines if these applicable events have an associated opt in.
 - [Live June 2024] In partnership with MPI, VA Notify prepares an opt in cache prior to each monthly payment processing event by mapping opt ins to the applicable beneficiary identifier, which will be found in the payment event received from BIP.
 - [Live August 2024] VA Notify sends texts during courtesy hours each month to avoid disturbing the Veteran too early or late in the day. Because we do not know the recipient's timezone, we've established a time window that will support Hawaii through Eastern timezones: 1pm - 9pm ET. Each month, texts will start sending on the 22nd. If there are too many notifiable events to send all texts in a single day, VA Notify will continue sending texts during the courtesy hours until the end of the month. The financial system processes recurring payments on varying days each month and the schedule may vary year to year. The payment processing dates appears to range from the 15th to the 21st, which is why we don't start sending texts until the 22nd. 
-- [Live 7/XX/2024] CAIA published a Q&A for this new feature with guidance on opt in here: https://www.va.gov/va-payment-history/
+- [Live 7/19/2024] CAIA published a Q&A for this new feature with guidance on opt in here: https://www.va.gov/va-payment-history/
 
 ## Potential Future Ideas
 - Additional Payment Type Notifications
