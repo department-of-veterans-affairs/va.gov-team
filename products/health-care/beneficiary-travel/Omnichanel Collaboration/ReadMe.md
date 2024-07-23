@@ -5,11 +5,16 @@
 ## What’s in Flight
 
 - Travel Reimbursement Status Page is due to begin rollout in August 2024 (lead by Beneficiary Travel)
+     - [View in staging](https://staging.va.gov/my-health/travel-claim-status)
+     - [VA.gov Travel Pay Status Page v1 epic #83824](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83824)
 - Mileage-only claim submission is in active design phase (Beneficiary Travel, PCI)
 
 
 ## Planned Future Work 
 
+- File a travel claim from Past Appointments (Appointments, PCI)
+  
+     - [Appointments team ticket](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88032)
 
 ## Research 
    #### 2024
