@@ -57,15 +57,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Have you used VA.gov before?
 - If yes, could you briefly describe the last time you used it? Do you tend to go there for a specific use?
-- ~Do you generally interact with the VA in any other ways (on the phone, in person at an office)?~
 - Have you ever filed an application for disability compensation (Form 526-EZ) with the VA?
-- If yes, how many times? Have you ever done it on VA.gov?
+- If yes, when was the last time that you've filed a claim with the VA?
 
 ## Part 1: Understanding development letters experience (before the prototype) - 5 minutes
 
 - Do you remember receiving letters from the VA while you were waiting for your claim?
-- Describe your experience with that letter, and let us know if there was anything in the contents of the letter that  was helped you in fulfil the request or that was confusing.
-
+- Do you remember what was being asked of you in those letters?
+- Was there anything about the letter that was confusing?
+- Was there anything about the letter that helpful in fulfilling the request?
 
 [Ask participant to share their screen]
 
@@ -73,21 +73,19 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## CST Home Page - 5 minutes
 
-Imagine you're signed into your VA.gov account and looking at this page. You submitted a claim a couple of weeks ago, and you're logging in to check for an update.
+Imagine you're signed into your VA.gov account and looking at this page.
 
 - Do you know what this page is? If yes, what is it?
 - Describe to me what you're seeing here.
 - What do you think is the difference between the first claim and the second claim shown here?
-- **check** One claim has a notification, what would you do next if you wanted to know more about the request?
-- Looking at the claim card, how would you describe the phrase, "We sent you a development letter"?
-- Is there anything confusing about this?
-
+- Looking at the claim card, you can see it says, "We sent you a development letter". What do you think that means?
+- What would you do next if you wanted to know more about the request?
 
 ### Things to watch for:
 
 - Does the participant recognize the Claim Status Tool?
 - Do they recognize which claim is in progress?
-- **check** Are they initially inclined to investigate the notice on their own? (Do they lean towards calling VA)
+- Are they initially inclined to investigate the notice on their own? (Do they lean towards calling VA)
 
 ## Status Tab - 5 minutes
 
@@ -95,36 +93,42 @@ Imagine you're signed into your VA.gov account and looking at this page. You sub
 
 - Tell me what you see here. (Prompt them to scroll up and down.)
 - Based on what you see here, tell me what do you think this notice is communicating to you.
-
 - Do you feel like this page tells you everything you need to know about the claim? Why or why not?
-
 - If you wanted to learn more about the notice, where would you go from here?
 
+[Have the participant click "Details"]
 
 ### Things to watch for:
 
 - How do Veterans react to the Status page in general?
-- Does the concise request messaing provides sufficient clarity for the Veteran
-- Do Veteran have a grasp on the claim current status and the pending request (wanting to know if they are digesting the information on the page, between what you need to do and what we are doing)
+- Does the description on the later make it clear the Veteran what is being asked of them?
+- Does the Veteran have a grasp on the claim's current status and the pending request (wanting to know if they are digesting the information on the page, between what you need to do and what we are doing)
 
 
 ## Evidence notice page - 10 minutes
 
 - Describe in your own words what you think is being communicated?
-- **How clear was the connection between the 5103 alert and the 5103 Notice letter in your experience?**
 - What action, if any, would you take?
+
+[Questions for claim letters page]
 - Where would you go to find your claim letters?
-- What do you expect to happen you check the "I'm finished adding evidence" box?
+
+[Questions for evidence upload page]
+** need a file upload **
+
+[Questions for submitting waiver section]
+- What do you expect to happen when you check the "I'm finished adding evidence" checkbox?
 - What would happen if you don't take any action?
-- If there's anything you could do to improve this page, what would it be?
+
+- If there's anything we could do to improve this page, what would it be?
 - Is there anything confusing about this?
 - Is there anything helpful about this?
-- What suggestions do you have for improving the clarity of the 5103 alert and Notice letter?
+
 
 ### Things to watch for:
 - Is the participant making sense of the content on the page
 - Is the particpant aware of their options and the results of each
-- Are Veterans clear how the 5103 alert relatees to the 5103 Notice letter?
+- Are Veterans clear how the 5103 alert relates to the 5103 Notice letter?
 - Can Veterans find the 5103 letter?
 
 ## Waiver submitted - 5 minutes
