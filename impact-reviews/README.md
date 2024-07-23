@@ -25,4 +25,9 @@ _Presentations occur at noon ET_
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | September 5, 2024|
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | October 3, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | October 3, 2024 |
-
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | November 7, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | November 7, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | December 5, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | December 5, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | January 2, 2024 (_will likely adjust to the following week_) |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | January 2, 2024 (_will likely adjust to the following week_) |
