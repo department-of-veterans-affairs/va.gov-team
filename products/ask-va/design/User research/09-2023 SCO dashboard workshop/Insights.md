@@ -12,10 +12,10 @@ Last updated by @tygindraux on September 18, 2023
 ## Background
 
 ### Research goals
-* Understand the information you need to see when you log into Ask VA
+* Understand the information you need to review when you log into Ask VA
 * Understand when & why you need to filter and sort inquiries
 * Explore different ways to view business & personal inquiries
-* Understand the information you need to see when you open inquiry details
+* Understand the information you need to review when you open inquiry details
 
 ### Agenda
 * 5 min - Intros
