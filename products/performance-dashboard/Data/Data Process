@@ -1,129 +1,121 @@
-VA.GOV Performance Dashboard Data Process
+ VA.GOV Performance Dashboard Data Process
 
  
 
-The [VA.Gov Performance Dashboard](https://www.va.gov/performance-dashboard/) has had a complete data redesign, utilizing Domo has our processing tool to deliver Google Analytics and Medallia (CSAT) data to the dashboard.
+The[ VA.Gov Performance Dashboard](https://www.va.gov/performance-dashboard/) has had a complete data redesign, utilizing Domo has our processing tool to deliver Google Analytics and Medallia (CSAT) data to the dashboard.
 
  
 
 When IIR originally took on the project of revamping the data pipeline, we found many areas of improvement, including the removal of a process where users manually entered data, to creating ETL flows that improve performance and useability of the data.
 
+****
+
  
 
 The current process can be broken down into the following steps:
 
-1.     Data Ingestion to Domo
+1. **Data Ingestion to Domo**
 
-a.     Data comes into Domo for two primary sources, GA and Medallia
+- Data comes into Domo for two primary sources, GA and Medallia
 
-                                               i.     These sources are populated into Domo via
+  - These sources are populated into Domo via
 
-1.     Big Query data pulls (GA)
+    - Big Query data pulls (GA)
 
-a.     The analytics team handles the data ingestion from GA -> BQ -> Domo
+      - The analytics team handles the data ingestion from GA -> BQ -> Domo
 
-b.     We handle the ETL work to get the Domo data ready for the Performance Dashboard
+      - We handle the ETL work to get the Domo data ready for the Performance Dashboard
 
-2.     Domo email connector (Medallia)
+    - Domo email connector (Medallia)
 
-a.     The Platform support team handles the data ingestion from a VA hosted S3 bucket -> domo email connector
+      - The Platform support team handles the data ingestion from a VA hosted S3 bucket -> domo email connector
 
-b.     We handle the ETL work to get the Domo data ready for the Performance Dashboard
+      - We handle the ETL work to get the Domo data ready for the Performance Dashboard
 
-2.     Data Cleanup (ETL)
+2. **Data Cleanup (ETL)**
 
-a.     The Performance Dashboard functions fundamentally via three main things.
+- The Performance Dashboard functions fundamentally via three main things.
 
-                                               i.     The Raw GA data
+  - The Raw GA data
 
-                                             ii.     The Raw Medallia data
+  - The Raw Medallia data
 
-                                            iii.     A Domo webform that defines the proper mapping logic for GA and Medallia to work together, as well as the general flow of the dashboard’s layout (ordering)
+  - A Domo webform that defines the proper mapping logic for GA and Medallia to work together, as well as the general flow of the dashboard’s layout (ordering)
 
-b.     The Performance Dashboard is fueled by the following [Domo Dataflow](https://va-gov.domo.com/datacenter/dataflows/317/graph)
+- The Performance Dashboard is fueled by the following[ Domo Dataflow](https://va-gov.domo.com/datacenter/dataflows/317/graph)
 
-                                               i.     The datasets within this dataflow that are denoted with BQ are the GA data that comes from Big Query
+  - The datasets within this dataflow that are denoted with BQ are the GA data that comes from Big Query
 
-1.     For any questions on the GA data, please reach out to the Analytics and Insights team
+    - For any questions on the GA data, please reach out to the Analytics and Insights team
 
-                                             ii.     The dataset called \[Output] – Medallia Performance Dashboard is the Medallia data
+  - The dataset called \[Output] – Medallia Performance Dashboard is the Medallia data
 
-1.     For any questions on the Medallia data please reach out to the Veteran Support team
+    - For any questions on the Medallia data please reach out to the Veteran Support team
 
-                                            iii.     The dataset called Performance Dashboard Groups | Staging is our webform data
+  - The dataset called Performance Dashboard Groups | Staging is our webform data
 
-1.     This is our bread and butter, and as such we will go into more detail below
+    - This is our bread and butter, and as such we will go into more detail below
 
-c.     [Performance Dashboard Groups | Staging](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/overview) is a Domo webform that contains all of the mapping logic required to make the performance dashboard function with GA and Medallia
+- [Performance Dashboard Groups | Staging](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/overview) is a Domo webform that contains all of the mapping logic required to make the performance dashboard function with GA and Medallia
 
-                                               i.     GA data is mapped using a combination of Event Action, Event Label, and Event Category values, which are concatenated together from their raw BQ/GA datasets, with this document, to map them to the appropriate “Title”
+  - GA data is mapped using a combination of Event Action, Event Label, and Event Category values, which are concatenated together from their raw BQ/GA datasets, with this document, to map them to the appropriate “Title”
 
-                                             ii.     Medallia data is mapped using the “Simplified UR” field, which is joined together with URL mapping logic from the raw Medallia data source, again to map to the appropriate Title
+  - Medallia data is mapped using the “Simplified UR” field, which is joined together with URL mapping logic from the raw Medallia data source, again to map to the appropriate Title
 
-                                            iii.     This document also contains Group values, and various sorts, that place the Groups and titles into particular orders on the Performance Dashboard
+  - This document also contains Group values, and various sorts, that place the Groups and titles into particular orders on the Performance Dashboard
 
-                                            iv.     To fully understand how everything is working together, you’ll need to review the Domo dataflow referenced above, and track the processing throughout
+  - To fully understand how everything is working together, you’ll need to review the Domo dataflow referenced above, and track the processing throughout
 
- 
+****
 
-3.     Data Processing
+3. **Data Processing**
 
-a.     Domo currently updates the GA and Medallia data as a Monthly cadence
+- Domo currently updates the GA and Medallia data as a Monthly cadence
 
-                                               i.     We have plans to improve this to a daily pull, but requires working with the GA data specialists, and the Medallia data specialists to make sure their pushes to Domo come daily (many do, but not all). For consistency we did not want to push partial daily data, so until we can get it all, we are sticking with Monthly
+  - We have plans to improve this to a daily pull, but requires working with the GA data specialists, and the Medallia data specialists to make sure their pushes to Domo come daily (many do, but not all). For consistency we did not want to push partial daily data, so until we can get it all, we are sticking with Monthly
 
-b.     Adding a new Activity/Title
+- Adding a new Activity/Title
 
-                                               i.     If you are looking to add a new activity to the Performance Dashboard, you’ll need to do a few things:
+  - If you are looking to add a new activity to the Performance Dashboard, you’ll need to do a few things:
 
-1.     Gather the correct information via the form we are currently running (**Get a link for this from Megan)**
+    - Gather the correct information via the form we are currently running (**Get a link for this from Megan)**
 
-2.     Add a new row of data in the Domo Webform, filling out all of the required information, from the GA Event Label, Action, Category details (review with the analytics team if you need help finding the correct values)
+    - Add a new row of data in the Domo Webform, filling out all of the required information, from the GA Event Label, Action, Category details (review with the analytics team if you need help finding the correct values)
 
-3.     Fill out the simplified URL value, reviewing the URL value from the Medallia dataset to properly link things together (work with the group requesting their data be added to the dashboard to insure you’re using the correct URL string)
+    - Fill out the simplified URL value, reviewing the URL value from the Medallia dataset to properly link things together (work with the group requesting their data be added to the dashboard to insure you’re using the correct URL string)
 
-4.     Insert the correct group name for the new content
+    - Insert the correct group name for the new content
 
-5.     Develop an appropriate title value that will show on the dashboard
+    - Develop an appropriate title value that will show on the dashboard
 
-6.     Modify the sorts where appropriate
+    - Modify the sorts where appropriate
 
-c.     Removing an existing Activity/Title
+- Removing an existing Activity/Title
 
-                                               i.     To do this, simply make the metric no longer active by changing the Active Metric value for a row of data to 0, from 1
+  - To do this, simply make the metric no longer active by changing the Active Metric value for a row of data to 0, from 1
 
-1.     We do not recommend deleting the data, as it causes the loss of historical continuity
+    - We do not recommend deleting the data, as it causes the loss of historical continuity
 
-d.     Data calculations
+- Data calculations
 
-                                               i.     Domo only performs one calculation, the CSAT scores for Medallia data
+  - Domo only performs one calculation, the CSAT scores for Medallia data
 
-1.     All other calculations are being handled by the backend processes that ingest the output dataset via an  API call to the Domo output datasets
+    - All other calculations are being handled by the backend processes that ingest the output dataset via an  API call to the Domo output datasets
 
-2.     If there are any questions on the calculations being displayed on the Performance Dashboard, please review with your Backend and Front End Engineers
-
- 
+    - If there are any questions on the calculations being displayed on the Performance Dashboard, please review with your Backend and Front End Engineers
 
  
 
-4.     Data ingestion to Performance Dashboard:
+4. Data ingestion to Performance Dashboard:
 
-a.     The performance dashboard consists of two datasets:
+- The performance dashboard consists of two datasets:
 
-                                               i.     [Google Analytics:](https://va-gov.domo.com/datasources/80fb77ca-621c-436b-8a3f-dfdad48c320d/details/data/table)
+  - [Google Analytics:](https://va-gov.domo.com/datasources/80fb77ca-621c-436b-8a3f-dfdad48c320d/details/data/table)
 
-                                             ii.     [Medallia](https://va-gov.domo.com/datasources/afb89759-292f-40f0-8be4-0ccee76006d5/details/overview):   
+  - [Medallia](https://va-gov.domo.com/datasources/afb89759-292f-40f0-8be4-0ccee76006d5/details/overview):   
 
-b.     The data is pushed to the performance dashboard’s backend code by connecting an API call to the two respective dataset IDs
+- The data is pushed to the performance dashboard’s backend code by connecting an API call to the two respective dataset IDs
 
-                                               i.     GA: 80fb77ca-621c-436b-8a3f-dfdad48c320d
+  - GA: 80fb77ca-621c-436b-8a3f-dfdad48c320d
 
-                                             ii.     Medallia: afb89759-292f-40f0-8be4-0ccee76006d5
-
- 
-
- 
-
- 
-
- 
+  - Medallia: afb89759-292f-40f0-8be4-0ccee76006d5
