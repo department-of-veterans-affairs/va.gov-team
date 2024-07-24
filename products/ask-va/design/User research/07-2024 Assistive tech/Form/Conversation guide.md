@@ -115,8 +115,8 @@ I'd also like to know a little more about how you're using your assistive tech.
 
 - How long have you been using [tool]?
 - Would you say you're a beginner, intermediate or experienced [tool] user?
-- How often do you use `this tool`?
-- What device are you using today? [Desktop, mobile, tablet, Mac, Windows, Android]?
+- How often do you use [tool]?
+- What device are you using today? [Desktop, mobile, tablet, Mac, Windows, Android?]
 
 <details>
   <summary>Key things to notice</summary>
