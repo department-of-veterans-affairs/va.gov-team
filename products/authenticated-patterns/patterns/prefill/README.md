@@ -46,7 +46,7 @@ We believe this pattern should consist of:
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Oct. 1, 2024
 - *Actual Launch Date* 
   - tbd
 
