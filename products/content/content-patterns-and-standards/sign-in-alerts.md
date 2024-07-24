@@ -14,7 +14,7 @@ DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
 
 ## Sign-in alerts
 
-### Standard sign-in alert
+### Standard sign-in alert (for all tools and forms that require sign-in with a verified account)
 
 #### Sign in with a verified account to [CTA]
 You’ll need to sign in with a verified account through one of our account providers. Identity verification helps us protect your information and prevent fraud and identity theft.
