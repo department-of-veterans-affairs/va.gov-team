@@ -34,7 +34,7 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 
 The key goal of this study is to:
 
-* Identify any barriers that could prevent Veterans who use assistive technology from asking a question through Ask VA
+* Identify any barriers that could prevent Veterans who use assistive technology from reviewing past questions, reading a reply from VA or replying to VA through Ask VA
 
 ### Outcome
 
@@ -45,22 +45,17 @@ This research will help us document and prioritize any bugs or usability issues 
 * Are any headers, labels or links lacking description or clarity?
 * Can Veterans interact with all elements using only their keyboards?
 * Are click targets, hover states and labels of controls always available and clear?
-* Are Veterans still oriented and able to use the form when magnified?
-* Is it clear that information is pre-filled? Is it clear how to update pre-filled information?
-* Can Veterans understand their progress through the form without visual cues?
-* Should the progress bar heading be the first element in focus within the form?
+* Are Veterans still oriented and able to use the dashboard when magnified?
 * Are there any inconsistencies during the journey that present confusion?
-* Do Veterans who use assistive technology feel they can ask a question without the support of another person?
+* Do Veterans who use assistive technology feel they can read a reply from VA or reply to VA without the support of another person?
 * Does Ask VA need to change or evolve to offer an equitable experience? If so, how?
 
 ### Hypotheses
 
 1. Veterans will think headers, labels and links are descriptive and clear.
 2. Veterans will be able to interact with all elements using only their keyboards or other devices.
-4. Veterans will be oriented and still able to use the form when magnified.
-5. Veterans will understand that information has been pre-filled from 'their' account and know how to update it.
-6. Veterans will understand their progress in the form with or without visual cues.
-7. Sign in will be a barrier for some Veterans using a screen reader or magnification.
+3. Veterans will be oriented and still able to use the dashboard when magnified.
+4. Sign in will be a barrier for some Veterans using a screen reader or magnification.
 
 ## Methodology
 
@@ -68,7 +63,7 @@ We will run a moderated usability study remotely on Zoom. We will test in stagin
 
 ### Research materials
 
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Conversation%20guide.md)
+* [Conversation guide](add link)
 * [Staging link](https://staging.va.gov/contact-us/ask-va-too/)
 * [How to create a new test user account](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1218)
 * [List of test user accounts created for this study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md)
@@ -101,7 +96,7 @@ We will recruit 12 Veterans for:
 - **minimum** of 2 sessions with alternative navigation users
 - **minimum** of 1 session with a screen magnification user
 
-For more details about our criteria, refer to our [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/603).
+For more details about our criteria, refer to our [Recruitment ticket](add link).
 
 #### Cohort 1: Screen reader users
 
@@ -248,7 +243,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 5. Please list the name of the screen magnification tool you will use during the session.
     - Open text box
 
-## Timeline
+## Timeline UPDATE
 
 |Date|Milestone|
 |:--|:--|
@@ -258,7 +253,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 |August 22 - 29, 2024|Synthesis|
 |August 30, 2024|Share findings|
 
-### Pilot sessions
+### Pilot sessions UPDATE
 
 We will have 3 pilot sessions and/or asynchronous reviews with CAIA.
 
@@ -284,7 +279,7 @@ Here is our [CAIA research support ticket](https://github.com/department-of-vete
 - Buffer between sessions: 30 minutes
 - Maximum sessions per day: 2 sessions
 
-### Availability
+### Availability UPDATE
 
 We will provide 24 time slots, with the aim to book 12 sessions. We have provided 1.5 hour sessions, but for screen magnification users, please only book 1 hour.
 
@@ -318,5 +313,5 @@ Sessions will be limited to no more than 5 people, including 1 participant, 1 mo
 
 ## Approved by:
 
-- Becky Phung, PO on July 11, 2024
+- Becky Phung, PO on [DATE]
 - Shane Strassberg, VA Research Ops on [DATE]
