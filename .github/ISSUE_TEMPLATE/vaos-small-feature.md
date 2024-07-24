@@ -1,5 +1,5 @@
 ---
-name: VAOS Feature Template
+name: VAOS Feature Template (small effort)
 about: For VAOS product feature (small effort)
 title: "[Feature]"
 labels: epic, appointments-product-design, appointments-pm, appointments-feature
