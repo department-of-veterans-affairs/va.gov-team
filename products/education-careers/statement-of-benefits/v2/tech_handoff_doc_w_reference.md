@@ -64,21 +64,15 @@ Question for GIB Hand off:
 
   - The next step here would be to confer with the Lighthouse folks ([#lighthouse-delivery-platform-support](https://dsva.slack.com/archives/C03UA9MV1EH) on DSVA slack) and see if we can go ahead and let network requests flow to Lighthouse.
 
--
-
 - **Status about the script for creating test users**
 
   - Test users have been a source of frustration for us.  We had one test user which would allow us to retrieve GIBS data, but that user has “aged out” now.  It’s not a satisfying answer but those responses can be mocked out, either at the API level through [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata/) or using mocked requests in vets-website
 
   - For long term ownership purposes, we would recommend working with Lorri Glover and Michael Harlow in DSVA slack to create a specific relevant test user
 
--
-
 - **Other credentials like lighthouse access that can be transferred**
 
   - You will need to put up a request at [#lighthouse-delivery-platform-support](https://dsva.slack.com/archives/C03UA9MV1EH) on DSVA and they’ll assign you a client id.  You’ll need to send them an ssh key
-
--
 
 - **The operating hours for LTS are hardcoded into vets-api here.** 
 
@@ -93,8 +87,6 @@ Question for GIB Hand off:
   - And in general, any additional context for problems/solutions regarding error handling?
 
     - I think this would be a great area to explore next.
-
--
 
 - **Can you demonstrate configuring a test user for SOB, and can you share the necessary script or document the steps?**
 
@@ -118,8 +110,6 @@ Additional questions
 
   - This needs to be updated.  You can see instructions on how to do this [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications).  It will require adding an entry in both `vets-website` and `vets-api` but should be a relatively minor change 
 
--
-
 - **I noticed differences between Lighthouse and vets-api in how some attribute names are getting serialized for the amendment object. Can you point to where the key transformation is taking place?**
 
   - Differences between LH/vets-api:
@@ -135,8 +125,6 @@ Additional questions
     - amendmentEffectiveDate/changeEffectiveDate
 
   - I’m not sure about these.  It’s possible that these are incorrectly set in the serializer, to match the previous data contract with EVSS.  Further hammers home the importance of securing a good set of staging users.
-
--
 
 - **It looks like the BackendStatusesController also relies on the hardcoded LTS operating hours. The note here states the show action “only looks at GI bill scheduled downtime (and gets no data from PagerDuty).” Is PagerDuty tracking any metrics for GIBS that you’re aware of?**
 
