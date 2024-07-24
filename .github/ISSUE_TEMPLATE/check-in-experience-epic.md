@@ -1,6 +1,6 @@
 ---
 name: Check In Experience Epic
-about: TBD
+about: Template to create an Epic for the CIE team
 title: TBD
 labels: HCE-Checkin
 assignees: ''
