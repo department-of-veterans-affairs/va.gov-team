@@ -18,7 +18,7 @@ Agenda:
 
     - **Enhanced UI Messaging:** Provided clear and relevant messages within the UI to improve user experience.
 
-- **Intro to the codebase (5-7 min)** - We may scrap this section depending on how we feel out the intro
+- **Intro to the codebase (5-7 min)** 
 
   - **FE - Nick**
 
@@ -98,7 +98,7 @@ Question for GIB Hand off:
 
 - **Can you demonstrate configuring a test user for SOB, and can you share the necessary script or document the steps?**
 
-  - Mock user instruction? Do we have this? I know adam started to demo in the last meeting; let’s try to avoid live coding if possible and just hand over a set of instructions with an example
+  - 
 
 - **Are there any credentials that would need to be transferred after code transfer? For example, Lighthouse sandbox and production access. RSA key and client ID. Would client ID remain the same?**
 
