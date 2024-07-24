@@ -31,7 +31,8 @@ Background: the `toggle` toggle is on (remove if not needed)
 - [ ] [Technical Documentation]() is updated (must confirm if needed/or remove) 
 
 ---
-## How to configure this issue
+Delete this section before creating the ticket 
+## How to configure this issue 
 - [ ] **Attached to an Epic or Feature** (what body of work is this a part of?)
 - [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `contact center`, `research`, `accessibility`, `content`)
 - [ ] **Labeled with Type** (`bug`, `request`, `discovery`, `documentation`, etc.)
