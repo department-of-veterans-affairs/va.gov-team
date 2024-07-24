@@ -2,17 +2,19 @@
 DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
 
 **Notes:** 
-- Forms should use [to fill out this form] as the [CTA]. Don't vary the CTA for forms.
-- Tools should use a brief plain language phrase as the [CTA]. For example, [to refill prescriptions] or [to check your claim status]. Work with Sitewide CAIA team to decide on a CTA for your tool.
-- If your form or tool has /my-health in its URL:
-     - It may require a registration step on MHV national portal. Currently, only the secure messaging, medical records, and medications tools require MHV registration.
-     - It may need to live behind a /my-health route guard with a centralized sign-in flow.
-     - Work with the identity and cartography teams to set up the correct sign-in flow. 
-- If a form is only accessible after signing in (meaning there is no unauthenticated state of the form intro page), the sign-in alert must appear on the static unauthenticated page that serves as the entry point into the form. Currently, this only applies to 2 forms in the /my-health section: 1010EZR and order form for CPAP and hearing aid supplies.
+- All product teams who are creating or updating sign-in and verification alerts for their products must work with the identity team to confirm these alerts work correctly.
+- If your form or tool has /my-health in its URL, work with the identity and cartography teams to set up the correct sign-in flow. You may need an additional registration step on MHV national portal, and you may need to place your form or tool behind a /my-health route guard.
+- **Follow these rules for sign-in alert placement:**
+     - For most online tools, the sign-in alert goes on the static unauthenticated page that the CAIA team manages in Drupal. Here's an example of a [static page with a sign-in alert](https://www.va.gov/health-care/secure-messaging/). Work with CAIA to add the alert to this page. 
+     - For most online forms, the sign-in alert goes on the form intro page that the product team creates and manages. Here's example of a [form intro page with a sign-in alert](https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction).
+       - **Exception:** If your form or tool is only accessible after signing in (meaning there is no unauthenticated state of the intro page), the sign-in alert must appear on the static unauthenticated page that serves as the entry point. Currently, this only applies to 2 forms in the /my-health section: 1010EZR and order form for CPAP and hearing aid supplies.
+- **Follow these rules for the [CTA] variable in these alerts:**
+     - Forms should use [to fill out this form] as the [CTA]. Don't vary the CTA for forms.
+     - Tools should use a brief plain language phrase as the [CTA]. For example, [to refill prescriptions] or [to check your claim status]. Work with Sitewide CAIA team to decide on a CTA for your tool.
 
-## Sign-in flow for all forms and tools that don't require MHV registration
+## Sign-in alerts
 
-### Sign-in alert
+### Standard sign-in alert
 
 #### Sign in with a verified account to [CTA]
 You’ll need to sign in with a verified account through one of our account providers. Identity verification helps us protect your information and prevent fraud and identity theft.
@@ -25,7 +27,7 @@ You’ll need to sign in with a verified account through one of our account prov
 
 [text link] [Learn about creating an account](https://www.va.gov/resources/creating-an-account-for-vagov/)
 
-### Sign-in alert variation for forms that don't require sign-in and support prefill
+### Variation for forms with optional sign-in that support prefill
 
 #### Sign in with a verified account to save your work in progress
 
@@ -41,7 +43,7 @@ After you sign in, we’ll tell you if you need to verify your identity.
 
 [text link] Start your form without signing in
 
-### DRAFT Sign-in alert variation for forms that don't require sign-in and create an intent to file (ITF) DRAFT
+### DRAFT Variation for forms with optional sign-in that support prefill and create an intent to file (ITF) DRAFT
 
 #### Sign in with a verified account to save a potential start date for your benefits
 
@@ -58,10 +60,11 @@ After you sign in, we’ll tell you if you need to verify your identity.
 
 [text link] Start your form without signing in
 
+## Verification alerts
 
 ### Verify alert for LOA1/IAL1 Login.gov and ID.me accounts
 
-#### Verify your identity to [CTA] 
+#### Verify your identity to [CTA]
 We need you to verify your identity for your {Account type} account. This step helps us keep your information safe and prevent fraud and identity theft.
 
 This one-time process often takes about 10 minutes. You'll need to provide certain personal information and identification.
@@ -84,5 +87,3 @@ We need you to use a verified **Login.gov** or **ID.me** account to [access your
 [button] Sign in or create an account
 
 [text link] [Learn about creating an account](https://www.va.gov/resources/creating-an-account-for-vagov/)
-
-## Sign-in flows for tools that require MHV registration
