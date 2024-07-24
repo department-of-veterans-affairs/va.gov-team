@@ -10,17 +10,17 @@ new feature or significant change to existing features.
 ## Overview of the process
 1. Disability team gets the latest version of the product guide<br>
 If a guide has been updated recently and this doc has been kept up to date, most likely the latest version will be attached to a ticket linked here.
-If there are any questions about the latest version of a product guide, reach out to the CC team in DSVA slack in #vsp-contact-center-support<br><br>
+If there are any questions about the latest version of a product guide, reach out to the Contact Center team in DSVA slack in #vsp-contact-center-support<br><br>
 2. Drafts of new versions are created and shared internally<br>
 Make updates to the docs with change tracker on. Share with your product team for internal review via sharepoint in
 [Disability Benefits Experience/Documents/Drafts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Documentation/Drafts?csf=1&web=1&e=Bq1VNW).
 This has allowed for easier collaboration than uploading the docs to GitHub.<br><br>
-3. Submit drafts for CC review<br>
+3. Submit drafts for Contact Center review<br>
 Follow steps in [request-contact-center-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
 to create a ticket. Update the change logs within the docs and on this page with ticket number.<br><br>
-4. CC team reviews the docs <br>
+4. Contact Center team reviews the docs <br>
 Make any requested changes and update in sharepoint.<br><br>
-5. Complete!<br>CC team attaches the approved version to the ticket.
+5. Complete!<br>Contact Center team attaches the approved version to the ticket.
 
 ## Some best practices
 - Both guides should be updated at the same time to keep them in sync, unless there is a change that impacts only one of the two flows.
