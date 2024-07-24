@@ -43,8 +43,8 @@ See Appendix below for full milestone breakdown.
 | 2: Herbicides and hazards            | July 3, 2024 | Complete    | Delayed by 5103 FDC update 5/16/24 & bugs in submit endpoint |
 | 3: Launch preparation                | Jul 22, 2024 | In Progress | Original date of 6/18 shifted due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review                                                             |
 | 4: Migrate /getPDF and /submit to LH |              | In Progress |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning /getPDF migration, /getPDF and /submit and TE all behind the same FF. Delayed for Code Yellow(?) Awaiting validation issue fixes from LH. Currently testing E2E.                                                              |
-| 5: Rollout: New forms (1.0)                         | Aug 1, 2024 (come back)  | Not started |                                                               |
-| 6: Rollout Vets with an IPF (1.1)                  | Aug 15, 2024 | Not started |Targeting 14-21 days after new forms (come back)                                                              |
+| 5: Rollout: New forms (1.0)                         | Aug 15 - Sept 11 | Not started |                                                               |
+| 6: Rollout Vets with an IPF (1.1)                  | Sept 12 - Oct 2 | Not started |Exact dates may change                                                              |
 
 *Dates may vary
 
