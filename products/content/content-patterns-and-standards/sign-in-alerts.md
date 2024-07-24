@@ -71,18 +71,25 @@ This one-time process often takes about 10 minutes. You'll need to provide certa
 
 [action link] Verify your identity with {Account provider}
 
-### Verify alert for LOA1/IAL1 My HealtheVet accounts
+### Verify alert for LOA1/IAL1 My HealtheVet accounts 
 
-#### Create a verified Login.gov or ID.me account to [CTA] 
-We need you to use a verified **Login.gov** or **ID.me** account to [access your personal information through this tool **or** to fill out this form]. A verified account helps us keep your information safe and prevent fraud and identity theft.
+#### You need to sign in with a different account to [CTA] 
 
-**If you want to use ID.me, follow these steps:**
-1.	Sign in again with your new **ID.me** account. When you signed in with your **My HealtheVet** basic account, we created an **ID.me** account for you. You can sign in with the email address you provided during this process. You may need to reset your **ID.me** password before you can sign in with your new account.
-2.	After you sign in, we'll help you verify your identity for your **ID.me** account.
+To protect your information and prevent fraud and identity theft, we need you to sign in with a verified account. You have 2 options: a verified **Login.gov** or a verified **ID.me** account.
 
-**If you want to use Login.gov, follow these steps:**
-1.	Create a new **Login.gov** account.
-2.	Come back and sign in here with your **Login.gov** account. We’ll help you verify your identity for your account.
+**If you already have a Login.gov or ID.me account,** sign out of VA.gov. Then sign back in using that account. We’ll tell you if you need to verify your identity.
+
+**If you want to create a Login.gov account,** follow these steps:
+- Sign out of VA.gov.
+- On the VA.gov homepage, select **Create an account**. Create a **Login.gov** account.
+- Come back to VA.gov and sign in with your **Login.gov** account. We’ll help you verify your identity.
+
+**If you want to create an ID.me account,** you should know that we started this process for you when you signed in to VA.gov. Follow these steps to finish creating your account:
+- Sign out of VA.gov.
+- On the VA.gov homepage, select **Sign in**. Select **ID.me** from the sign-in options.
+- On the **ID.me** sign-in screen, select **Forgot password**. Enter the email address you used when you signed in to VA.gov.
+- Set up a new password and finish signing in using **ID.me**. Then, **ID.me** will help you finish creating your account.
+- Come back to VA.gov and sign in with your **ID.me** account. We’ll help you verify your identity.
   
 [button] Sign in or create an account
 
