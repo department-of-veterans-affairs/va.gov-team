@@ -142,6 +142,16 @@ body:
         - "Unsure"
     validations:
       required: true
+  - type: dropdown
+    id: cms
+    attributes:
+      label: Will a VA editor (Drupal) notice this change?
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: "## Artifacts"
