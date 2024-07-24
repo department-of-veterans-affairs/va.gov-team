@@ -121,7 +121,6 @@ List the features toggles here.
 ## Step 3: Production Rollout
 
 ### Do I need a staged rollout?
-
 **Yes, we are doing a staged rollout**
 
 ### Define the Rollback process
@@ -132,7 +131,7 @@ DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes
 Due to the need to test against the production lightouse /submit endpoint, we'll be testing this feature in production behind a feature flag. To mitigate the risks of downstream actions that occur as a result of submitting an application for disability compensation, we'll work with our VBA stakeholders to delete the submission records in VBMS.
 
 #### Planning
-- Desired date range or test duration: Aug 2-5, 2024
+- Desired date range or test duration: Aug 9 & 12, 2024
 - Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in TestRail
 - How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test, could be ann (internal) Veteran
 - Submitting 6 full submissions could be done by less than 6 people
@@ -159,7 +158,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
         - Refer to [troubleshooting SOP document for details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md) on how remediate form data
 
 #### Rollout Planning
-- Desired date range: Aug 6 - Aug ? (come back to this)
+- Desired date range: Aug 15 - Sept 11
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - % of [normal](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/bi4-785-p5z), [backup](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/6ek-k9t-7d7), failsafe (come back to this) path rates are the same or less than what we have currently
@@ -190,8 +189,8 @@ Approvals & to do's for launch:
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
-- Length of time: 2 hours
-- Percentage of Users (and roughly how many users do you expect this to be): 5% of users, ~12 users/submissions
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 5% of users, ~106 submissions
 
 #### Results
 - Number of unique users: 
@@ -204,10 +203,118 @@ Approvals & to do's for launch:
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
-- Length of time: 3 days (actual: )
-- Percentage of Users (and roughly how many users do you expect this to be): 10% of users, 885
+- Length of time: 4 days
+- Percentage of Users (and roughly how many users do you expect this to be): 10% of users, ~428 submissions
 
+#### Results
 
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage C: 25% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: 4 days
+- Percentage of Users (and roughly how many users do you expect this to be): 25%, 1071 submissions
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage D: 50% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 50%, 1071 submissions
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage E: 75% of users
+
+#### Planning
+
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 75%, 1605 submissions
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage F: 100% of users
+
+#### Planning
+
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 100%, 2141 submissions
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+## Post Launch metrics
+
+Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
+
+### 1-week results
+
+- Number of unique users: [FILL_IN]
+- Post-launch KPI 1 actual: [FILL_IN]
+- Post-launch KPI 2 actual: [FILL_IN]
+- Post-launch KPI 3 actual: [FILL_IN]
+- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
+- If yes, what: [FILL_IN]
+
+### 1-month results
+
+- Number of unique users: [FILL_IN]
+- Post-launch KPI 1 actual: [FILL_IN]
+- Post-launch KPI 2 actual: [FILL_IN]
+- Post-launch KPI 3 actual: [FILL_IN]
+- Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
+- If yes, what: [FILL_IN]
+
+## Post-launch Questions
+
+*To be completed once you have gathered your initial set of data, as outlined above.*
+
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+2. What qualitative feedback have you gathered from users or other stakeholders?
+3. Which assumptions you listed in your product outline were/were not validated?
+4. How might your product evolve now or in the future based on these results?
+5. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
+
+   
 ---
 #### Day 0:
 - 11am EDT <individual> Toggles Feature ON for all Users*
