@@ -14,17 +14,17 @@ If there are any questions about the latest version of a product guide, reach ou
 2. Drafts of new versions are created and shared internally<br>
 Make updates to the docs with change tracker on. Share with your product team for internal review via sharepoint in
 [Disability Benefits Experience/Documents/Drafts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Documentation/Drafts?csf=1&web=1&e=Bq1VNW).
-This has allowed for easier collaboration than uploading the docs to GitHub<br><br>
+This has allowed for easier collaboration than uploading the docs to GitHub.<br><br>
 3. Submit drafts for CC review<br>
 Follow steps in [request-contact-center-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
 to create a ticket. Update the change logs within the docs and on this page with ticket number.<br><br>
-4. CC team will review the docs. <br>
+4. CC team reviews the docs <br>
 Make any requested changes and update in sharepoint.<br><br>
-5. Complete!<br>CC team will attach the approved version to the ticket.
+5. Complete!<br>CC team attaches the approved version to the ticket.
 
 ## Some best practices
 - Both guides should be updated at the same time to keep them in sync, unless there is a change that impacts only one of the two flows.
-- Follow a light version of [semantic versioning](https://semver.org/) with major version increment for significant changes and minor version increment for small changes
+- Follow a light version of [semantic versioning](https://semver.org/) with major version increment for significant changes (such as a new OMB version of the 526 form or multiple large changes to the doc and its format) and minor version increment for small changes
 
 ## 526 Product Guide Ticket History
 |Date|Version|Ticket|Author|Description|
@@ -42,6 +42,6 @@ Make any requested changes and update in sharepoint.<br><br>
 |Date|Version|Ticket|Author|Description|
 |----|----|----|----|----|
 |Unknown|1.0|||Initial Version|
-|6/1/23|2.0|[#59016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59016)|Disability Experience Team 1|BDD SHA|
-|8/1/24|3.0|tbd|Disability Experience Team 1|Update to 2022 Version. Add Toxic Exposure.|
+|6/1/23|2.0|[#59016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59016)|Disability Experience Team 1|Reformat with new template. Add BDD SHA.|
+|8/1/24|3.0 (In Progress)|tbd|Disability Experience Team 1|Update to 2022 Version. Add Toxic Exposure.|
 
