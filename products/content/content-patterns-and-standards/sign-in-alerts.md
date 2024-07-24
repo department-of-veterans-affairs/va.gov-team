@@ -43,23 +43,6 @@ After you sign in, we’ll tell you if you need to verify your identity.
 
 [text link] Start your form without signing in
 
-### DRAFT Variation for forms with optional sign-in that support prefill and create an intent to file (ITF) DRAFT
-
-#### Sign in with a verified account to save a potential start date for your benefits
-
-Here’s how signing in with a verified account helps you:
-- We can save today's date as a potential start date for your benefits. 
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You’ll have {time limit} from when you start or make changes to submit your form.
-
-After you sign in, we’ll tell you if you need to verify your identity. 
-
-**Note:** You can sign in after you start filling out your form. But you'll lose any information you already filled in.
-
-{ Button } Sign in or create an account
-
-[text link] Start your form without signing in
-
 ## Verification alerts
 
 ### Verify alert for LOA1/IAL1 Login.gov and ID.me accounts
@@ -94,3 +77,23 @@ To protect your information and prevent fraud and identity theft, we need you to
 [button] Sign in or create an account
 
 [text link] [Learn about creating an account](https://www.va.gov/resources/creating-an-account-for-vagov/)
+
+
+## Additional variations not ready to implement
+
+### DRAFT Variation for forms with optional sign-in that support prefill and create an intent to file (ITF) DRAFT
+
+#### Sign in with a verified account to save a potential start date for your benefits
+
+Here’s how signing in with a verified account helps you:
+- We can save today's date as a potential start date for your benefits. 
+- We can fill in some of your information for you to save you time.
+- You can save your work in progress. You’ll have {time limit} from when you start or make changes to submit your form.
+
+After you sign in, we’ll tell you if you need to verify your identity. 
+
+**Note:** You can sign in after you start filling out your form. But you'll lose any information you already filled in.
+
+{ Button } Sign in or create an account
+
+[text link] Start your form without signing in
