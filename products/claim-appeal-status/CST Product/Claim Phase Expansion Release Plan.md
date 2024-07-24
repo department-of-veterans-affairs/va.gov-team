@@ -1,21 +1,21 @@
 # Claim Details V2 Release Plan 
 ## Phase I: UAT 
 ### Planning: 
-- Desired date range or test duration: 7/22/24, 1 day 
+- Desired date range or test duration: 7/23/24, 1 day 
 - Desired number of users: 3 
 - How you'll recruit the right production test users: We’ll be using personal and professional networks to recruit production test users.  
 - How you'll conduct the testing: Live, virtual sessions, giving users assigned tasks to test use cases.  
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: feature toggle  
 ### Results:  
 - Number of users: 3  
-- Number of bugs identified / fixed:  0/0
+- Number of bugs identified / fixed:  0/1. We identified a non-launch blocking issue in which re-opened, closed claims were showing the 5 step instead of 8 step experience. After communicating the issue with a VBA stakeholder, we determined this is not a launch blocker, but will be fixed before we expand to 25%. 
 - Types of errors logged: general usability issues: 0
 
  
 Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no If yes, what:
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing) 
-### Planning 7/23/24 - 8/15/24  
+### Planning 7/24/24 - 8/15/24  
 How will you make the product available in production while limiting the number of users who can find/access it: feature toggle  
 What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
 <ul>
@@ -29,7 +29,7 @@ Links to dashboard(s) showing "success criteria" metrics: <a href = "https://doc
 
 ### Stage A: Canary 
 #### Planning  
-Length of time: 1 business day
+Length of time: 2 business day
 Percentage of Users (and roughly how many users do you expect this to be): 5% (7500)
 #### Results:  
 <ul>
