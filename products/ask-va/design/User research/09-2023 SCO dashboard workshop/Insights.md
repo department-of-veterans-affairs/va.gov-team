@@ -26,7 +26,7 @@ Last updated by @tygindraux on September 18, 2023
 * 5 min - Closing & questions
 
 ### Materials
-We used Mural for this workshop. You can view the activities and findings here: [9/14/23 Dashboard workshop with SCOs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694439082995/b37a804f76e3eae53b295792c422244fef6bda9f?wid=0-1694720743894).
+We used Mural for this workshop: [9/14/23 Dashboard workshop with SCOs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694439082995/b37a804f76e3eae53b295792c422244fef6bda9f?wid=0-1694720743894).
 
 ## Insights
 
