@@ -12,28 +12,25 @@ _What details are necessary for understanding the specific work or request track
 
 ---
 
-## Acceptance Criteria
-Background: the `toggle` toggle is on
+## Development Checklist
+Background: the `toggle` toggle is on (remove if not needed) 
 
-Given 
-When 
-Then 
-And page content matches the [copy doc](#) 
-And page design matches the design spec
-
-Given 
-When 
-Then 
+- [ ] Task #1
+- [ ] Task #2
 
 ### Design Assets
-All spec copy is FPO. Use copy in copy doc.
+[Figma file]() (put N/A if not needed) 
+
+### Developer Reference
+[Swagger File]() (remove if not needed) 
+[File path]() (remove if not needed)
 
 ## Definition of Done
-- [ ] All acceptance criteria are met
-- [ ] Documentation is updated
+- [ ] All tasks criteria are met
+- [ ] [Technical Documentation]() is updated (must confirm if needed/or remove) 
 
 ---
 ## How to configure this issue
-- [ ] **Attached to an Epic** (what body of work is this a part of?)
+- [ ] **Attached to an Epic or Feature** (what body of work is this a part of?)
 - [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `contact center`, `research`, `accessibility`, `content`)
 - [ ] **Labeled with Type** (`bug`, `request`, `discovery`, `documentation`, etc.)
