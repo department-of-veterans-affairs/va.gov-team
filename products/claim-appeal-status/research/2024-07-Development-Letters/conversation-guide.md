@@ -72,7 +72,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 [Share [prototype link](#) with participant]
 
 ## Part 2: Evaluate 5103 design (Prototype)
-## CST Home Page - 5 minutes
+
+### Part 2 A: CST Home Page - 5 minutes
 
 Imagine you're signed into your VA.gov account and looking at this page.
 
@@ -82,13 +83,13 @@ Imagine you're signed into your VA.gov account and looking at this page.
 - Looking at the claim card, you can see it says, "We sent you a development letter". What do you think that means?
 - What would you do next if you wanted to know more about the request?
 
-### Things to watch for:
+#### Things to watch for:
 
 - Does the participant recognize the Claim Status Tool?
 - Do they recognize which claim is in progress?
 - Are they initially inclined to investigate the notice on their own? (Do they lean towards calling VA)
 
-## Status Tab - 5 minutes
+### Part 2 B: Status Tab - 5 minutes
 
 [Have the participant click "Details" on the in-progress claim]
 
@@ -99,55 +100,58 @@ Imagine you're signed into your VA.gov account and looking at this page.
 
 [Have the participant click "Details"]
 
-### Things to watch for:
+#### Things to watch for:
 
 - How do Veterans react to the Status page in general?
 - Does the description on the later make it clear the Veteran what is being asked of them?
 - Does the Veteran have a grasp on the claim's current status and the pending request (wanting to know if they are digesting the information on the page, between what you need to do and what we are doing)
 
-
-## Evidence notice page - 10 minutes
+### Part 2 C: Evidence notice page - 10 minutes
 
 - Describe in your own words what you think is being communicated?
 - What action, if any, would you take?
 
-[Questions for claim letters page]
+#### Questions for claim letters page
+
+- Tell me what you see here?
 - Where would you go to find your claim letters?
+- if you wanted to view a particular claim letter, what would you do?
+- Is there anything here you're not seeing that you wish was here?
 
-[Questions for evidence upload page]
-** need a file upload **
+[Have participant navigate back to evidence notice page]
 
-[Questions for submitting waiver section]
-- What do you expect to happen when you check the "I'm finished adding evidence" checkbox?
-- What would happen if you don't take any action?
+#### Questions for evidence upload, on the files page
+- Tell me what you see here?
+- If you wanted to upload evidence, what would you do?
+- After submitting your evidence, what do you expect to happen next?
 
-- If there's anything we could do to improve this page, what would it be?
-- Is there anything confusing about this?
-- Is there anything helpful about this?
-
-
-### Things to watch for:
-- Is the participant making sense of the content on the page
-- Is the particpant aware of their options and the results of each
-- Are Veterans clear how the 5103 alert relates to the 5103 Notice letter?
-- Can Veterans find the 5103 letter?
-
-## Waiver submitted - 5 minutes
+#### Questions for submitting waiver section
+- What do you expect to happen when you click the "I'm finished adding evidence" checkbox?
+- 
 [Participant clicks into submit waiver]
 
 - Describe what you are seeing on this page
 - what do you think will happen next
-
-### Things to watch for:
-- Are participants confident that they have fulfilled the request
+  
+#### Things to watch for:
+- Is the participant making sense of the content on the page
+- Is the particpant aware of their options and the results of each
+- Are Veterans clear how the 5103 alert relates to the 5103 Notice letter?
+- Can Veterans find the 5103 letter?
 - Do participants feel like there's still something else they need to do?
+
+Before we move away from this section, I few general questions about this experience
+
+- What would happen if you don't take any action?
+- If there's anything we could do to improve this page, what would it be?
+- Is there anything confusing about this?
+- Is there anything helpful about this?
 
 ## Part 3: Review other benefit letter types - 10 minutes
 
 [Participant clicks into the letter page]
 
 - Looking at this design, what do you think you need to do here? (Prompt them to scroll up and down.)
-
 - What action, if any, would you take?
 - Is there anything confusing about this?
 - If you could improve this in any way, what would you change?
@@ -162,16 +166,15 @@ Imagine you're signed into your VA.gov account and looking at this page.
 - How do you ensure you don’t miss important electronic communications?
 - What features or functionalities would make electronic communications more appealing or useful to you?
 
-### Things to watch for:
+### Things to note:
 
 - If they had the option, would Veterans like receiving only electronic communications like this?
 - How would they configure these communications, if they had those options?
 
-
 ## Post-Task Interview - 5 minutes
 
 - Overall, what did you think of what you saw today? Was it clear or confusing?
-- On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
+- On a scale of 1-5, how helpful would you say the flow was? (1 being least helpful, 5 being most helpful.)
 - If you could wave a magic wand and change anything about the evidence request experience, what would it be?
 - Any questions for me? 
 
