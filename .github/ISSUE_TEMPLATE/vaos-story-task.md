@@ -19,11 +19,12 @@ Background: the `toggle` toggle is on (remove if not needed)
 - [ ] Task #2
 
 ### Design Assets
-[Figma file]() (put N/A if not needed) 
+- [Figma file]() (put N/A if not needed) 
 
 ### Developer Reference
-[Swagger File]() (remove if not needed) 
-[File path]() (remove if not needed)
+
+- [Swagger File]() (remove if not needed)
+- [File path]() (remove if not needed)
 
 ## Definition of Done
 - [ ] All tasks criteria are met
