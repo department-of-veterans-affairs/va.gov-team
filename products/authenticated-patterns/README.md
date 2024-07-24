@@ -1,8 +1,6 @@
 # Authenticated Experience Design Patterns
 Crafting evidence-based, adaptable and adoptable design patterns that will improve Veteran authenticated experiences across government digital services.
 
-**Office Hours:** 1:30 – 2:00pm every other Wednesday
-
 ## Table of contents
 
 - [Our north star](#our-north-star)
