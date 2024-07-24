@@ -113,8 +113,10 @@ Okay, great. Thanks for sharing that with me. It's helpful to know a little bit 
 
 I'd also like to know a little more about how you're using your assistive tech.
 
-- Would you say you're a beginner, intermediate or experienced `SCREEN READER` `ALTERNATIVE NAVIGATION` `SCREEN MAGNIFIER` user?
+- How long have you been using [tool]?
+- Would you say you're a beginner, intermediate or experienced [tool] user?
 - How often do you use `this tool`?
+- What device are you using today? [Desktop, mobile, tablet, Mac, Windows, Android]?
 
 <details>
   <summary>Key things to notice</summary>
@@ -129,7 +131,7 @@ I'd also like to know a little more about how you're using your assistive tech.
 
 ## Set up (10 minutes)
 
-- Have you ever shared your screen on Zoom while using `this tool`?
+- Have you ever shared your screen on Zoom while using [tool]?
 
 Okay, great. We're going to do that now. So, if you have any windows open that you don't want to share, you can take a moment to close them.
 
