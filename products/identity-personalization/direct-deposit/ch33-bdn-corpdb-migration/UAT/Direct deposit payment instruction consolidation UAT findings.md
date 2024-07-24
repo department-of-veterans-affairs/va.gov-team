@@ -6,9 +6,13 @@ We successfully tested 5 participants (out of 7), including 3 internal Veterans 
 ### Demographics:
 
 Man | 39 years old | Hispanic, Latino, or Spanish origin
+
 Man | 77 years old | White
+
 Man | X years old | 
+
 Man | X years old | 
+
 Man | X years old |
 
 ## Tasks and Outcomes
