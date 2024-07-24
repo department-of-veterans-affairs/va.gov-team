@@ -110,4 +110,4 @@
 | 108 |[Mental health copay exemptions](https://www.va.gov/resources/mental-health-copay-exemptions) | Health care           | 5/29/24              |       | 
 | 109 |[Approved fields of study for the STEM Scholarship](https://www.va.gov/resources/approved-fields-of-study-for-the-stem-scholarship/) | Education           | 7/3/24              |       | 
 | 110 |[Can I use my VA education benefits to pay for preparatory courses?](https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/) | Education           | 7/22/24              |       | 
-| 111 |[GI Bill enrollment verification FAQs](https://www.va.gov/resources/gi-bill-enrollment-verification-faqs/)) | Education           | 7/23/24              |       | 
+| 111 |[GI Bill enrollment verification FAQs](https://www.va.gov/resources/gi-bill-enrollment-verification-faqs/) | Education           | 7/23/24              |       | 
