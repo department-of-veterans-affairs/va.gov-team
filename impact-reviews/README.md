@@ -21,7 +21,7 @@ _Presentations occur at noon ET_
 |----|----|----|----|----|
 | Benefits Management Tools | Jacob Worrell | _Enter initiative_ | _Enter launch date_ |  August 8, 2024|
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | August 8, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | September 5, 2024|
+| Benefits Management Tools | Lindsay Li-Smith and Janelle Finnerty | Accredited Representation Management | various | September 5, 2024|
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | September 5, 2024|
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | October 3, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | October 3, 2024 |
