@@ -51,8 +51,3 @@ For the final task, users were asked about their perceptions of the Account Secu
 
 - Said that they would assume 'account security'is for something local instead of id.me.
 - Likes that it showed identity is verified, MFA enabled.
-
-- 
-
-
-
