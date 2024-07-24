@@ -35,7 +35,7 @@ Make any requested changes and update in sharepoint.<br><br>
 |12/15/23|3.0|[#59295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59295)|Disability Experience Team 1|Reformat with new template|
 |4/17/24|3.1|[#81747](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81747)|Employee Experience|Rated Disabilities updates|
 |5/1/24|3.2|[#82085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82085)|Disability Experience Team 2|New Major Issues and Error Message sections|
-|6/3/24|3.3|[#84315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84315)|Contention Classification Team|New Conditions updates|
+|6/3/24|3.3|[#84315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84315)|Conditions Team|New Conditions updates|
 |8/1/24|4.0 (In Progress)|tbd|Disability Experience Team 1|Update to 2022 Version. Add Toxic Exposure.|
 
 ## 526 BDD Product Guide Ticket History
