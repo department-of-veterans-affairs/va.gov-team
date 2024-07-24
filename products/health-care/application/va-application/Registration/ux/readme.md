@@ -16,6 +16,19 @@ The problem is to add this option to the online EZ in a way that is not confusin
 - [Alert Content + Additional Questions](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=3025-106249&mode=design&t=L5TgC5z1rWG3Hpqd-0)
 
 
+
+
+### MVP Decisions + Content Review
+| Date | Name of Decision | Links + High-level descirption | Status |
+|------|-------------------------|-----------|---|
+|  July 24, 2024    |      Simplify unauthenticatd mvp flow                   |      To reduce technical complexity and address content logic / one-thing-per page; updated user flow for unauthenticated users (leave disability rating question where it is today in flow)     | Internal team via DSU + Slack; PO review | 
+|  July 23, 2024    |  One-thing-per-page + content logic                      |           |  |
+|      |                         |           | |
+|      |                         |           | |
+
+
+
+
 ### MVP Prioritization Post Workshops - March 2024
 
 - [Prioritization Matrix](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710355314983/31aebd05b2ad4aef0b3e3abb04e9b1886c1f4cff?sender=uadf1ed7fe7c76f0914967329) - in progress
