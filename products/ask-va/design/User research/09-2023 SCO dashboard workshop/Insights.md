@@ -38,7 +38,7 @@ We used Mural for this workshop: [Dashboard workshop with SCOs – Sep 2023](ht
 * Category and topic are often the same, for example, 'Education' and 'Work study'. This makes these labels less useful when you sort through inquiries.
 * **Takeaway:** This implies that inquiry number should not be the leading label, and we should re-think which labels should be shown at all.
 
-#### Most to least helpfull dashboard labels
+#### Most to least helpful dashboard labels
 ![Most to least helpful dashboard labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/09-2023-Most-to-least-helpful-labels.png)
 
 ### How do you prefer to sort or filter for an inquiry?
