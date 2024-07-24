@@ -44,6 +44,8 @@
 - Each pattern will have a separate CodePen
 - Does not support backend functionality
 
+Summary of notes on this discovery work are here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/engineering/Codepen-notes.md
+
 ## 4) Separate repo with static site deployment (Netlify, GitHub Pages)
 
 **Pros:**
