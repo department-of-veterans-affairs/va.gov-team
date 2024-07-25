@@ -15,6 +15,7 @@
   - [PCI GA4 Pre-Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A)
   - [PCI GA4 Travel Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
   - [OH Travel GA4 Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/iAXzqTMmQUCANjIKJbm3pA) - DRAFT
+  - [GA4 Data Sources Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md)
 - For audience count, completion count, verification rate, conversion rate, and error rate (based on API call successes/failures)
   - [PCI Datadog Metrics](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716916715976&to_ts=1719508715976&live=true)
 - For overall PCI downtime (used to calculate uptime) & individual application latencies
