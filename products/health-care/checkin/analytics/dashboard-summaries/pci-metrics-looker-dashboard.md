@@ -4,7 +4,7 @@ This dashboard displays timeline series graphs for PCI metrics as outlined below
 
 - [Check-in](#check-in)
 - [Pre-Check-in](#pre-check-in)
-- [Travel (via Check-in)](#travel-(via-check-in))
+- [Travel via Check-in](#travel-via-check-in)
 - [Various](#various)
 
 ## Check-in
@@ -48,7 +48,7 @@ This dashboard displays timeline series graphs for PCI metrics as outlined below
     - Value comes from StatsD metric calculation vets_api.statsd.api_check_in_v2_checkins_create_count_failure / (vets_api.statsd.api_check_in_v2_checkins_create_count_failure + vets_api.statsd.api_check_in_v2_checkins_create_count_success) * 100
     - Source is the "Check-in Error Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
-## Travel (via Check-in)
+## Travel via Check-in
 
   #### Travel Audience & Completions
   - Blue line shows the total number of Veterans who successfully verified their identity in eCheck-in
