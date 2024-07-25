@@ -73,15 +73,15 @@
 - [x] Schedule research sessions with Perigean
 - [x] Conduct research sessions
      - [x] Synthesize research findings
-     - [ ] Review findings with the team
-     - [ ] Make any necessary tickets/changes for design
+     - [x] Review findings with the team
+     - [x] Make any necessary tickets/changes for design
 - [ ] **Create Use Cases**
      - [ ] **Identify test users**
 - [x] Create Release Plan
-- [ ] Complete development
+- [x] Complete development
      - [x] Engineers work with Designers on any questions/clarifications
      - [x] Present to team for validation
-     - [ ] Present to Stakeholders for validation
+     - [x] Present to Stakeholders for validation
 - [ ] **Engage downstream system team for End-to-End QA coordination**
      - [ ] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
