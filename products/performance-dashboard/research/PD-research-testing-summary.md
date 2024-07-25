@@ -130,12 +130,12 @@ We took the feedback from the calls and created an affinity map to understand th
 
 #### Research Plan
 
-[Research plan document](https://docs.google.com/document/d/1tjW_tQEtun8pipa-LostI3i9y_aTsMyTeZQueCJIfSk/edit#heading=h.dspoq7ro9lat) 
+[Research plan document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/usability-research-plan.md) 
 
 
 #### Conversation Guide for Usability research (Conversation Guide 2)
 
-[Link to conversation guide](https://docs.google.com/document/d/1ygEEg9lOJqrsMQNmjayET3kUZfHOPGk8Bz4hLtGro50/edit#heading=h.3cpib8m3987m)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/usability-conversation-guide.md)
 
 ****
 
