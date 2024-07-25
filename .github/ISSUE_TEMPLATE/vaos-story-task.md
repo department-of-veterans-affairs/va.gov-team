@@ -1,5 +1,5 @@
 ---
-name: VAOS User Story / Task Template
+name: VAOS Developer Task Template
 about: For filing standard VAOS issues.
 title: ''
 labels: needs-grooming, appointments
