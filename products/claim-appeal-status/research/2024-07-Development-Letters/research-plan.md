@@ -98,7 +98,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 * Date and time of pilot session: Thu, August 8, 2-3 PM ET
  
 ### Research sessions
-* Planned dates of research: Aug 12-16, 19-23
+* Planned dates of research: Aug 12-16 and 19-23
 
 ### Length of sessions
 * Session length: 1 hour
