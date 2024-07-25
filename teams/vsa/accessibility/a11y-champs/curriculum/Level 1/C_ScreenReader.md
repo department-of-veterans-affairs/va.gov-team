@@ -28,7 +28,7 @@ If you're using a **Macbook** and don't hear things like `heading` and `list ite
 Good! This is supposed to be difficult, and why we have a community 👐
 - If you feel a little brave, ask for help on the `#accessibility-help` channel
 - If you want a safer space, ask for help on our `#a11y-champs` channel
-- If you'd like a private one on one session with a specialist, [sign up for CAIA's office hours](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) (Tuesdays at 4 p.m.)
+- If you'd like a private one on one session with a specialist, [sign up for CAIA's office hours](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) (Tuesdays at 4 p.m. Eastern)
 
 ## You completed level 1 🥇
 
