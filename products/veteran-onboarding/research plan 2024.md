@@ -182,7 +182,7 @@ Please request enough dates and at ***least double the amount of time slots for 
 - Moderator: Liza McRuer
 - Research guide writing and task development (usually but not always same as moderator): Liza McRuer
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	Liza McRuer
+- Project point of contact:	Liza McRuer, liza.mcruer@adhocteam.us, (202) 818-8710 x1393
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	Not this study, but we will conduct a secondary study
 - Note-takers and Observers: [Canvas in Public Channel](https://dsva.slack.com/docs/T03FECE8V/F073KRQ3FV5)
