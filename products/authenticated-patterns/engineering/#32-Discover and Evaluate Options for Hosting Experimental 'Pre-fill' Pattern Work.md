@@ -12,8 +12,9 @@
 - Our work may inadvertently affect other parts of the mock-form app
 - May require coordination with other teams working on vets-website, need to inform them of changes we do
 
-  **FINDINGS**
-  We created a new mock form app, which is separate from the other apps and should not affect them.
+### **FINDINGS**
+
+We created a new mock form app, which is separate from the other apps and should not affect them.
 
 # 2) Local vets-website repo branch with tunneling (Ngrok)
 
@@ -37,7 +38,7 @@
 **Cons:**
 - Will need to have VSCode
 
-**FINDINGS**
+### **FINDINGS**
 For tunneling, before we forward the port, we need to run the command, `yarn watch --env api=https://staging-api.va.gov` to tell the app to point to the staging API (otherwise it would look for localhost:3000 for the API and error out). However, after logging in with a test user, the page gets redirected to https://staging.va.gov/. After logging in, if you try to go back to the original tunneling address such as https://dm1rw53f-3001.usw3.devtunnels.ms/mock-form, you will be signed out. 
 
 # 3) Online code prototyping tools (CodePen, CodeSandbox)
