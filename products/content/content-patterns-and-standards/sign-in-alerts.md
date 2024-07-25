@@ -12,7 +12,7 @@ DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
      - Forms should use [to fill out this form] as the [CTA]. Don't vary the CTA for forms.
      - Tools should use a brief plain language phrase as the [CTA]. For example, [to refill prescriptions] or [to check your claim status]. Work with Sitewide CAIA team to decide on a CTA for your tool.
 
-## Sign-in alerts
+## Sign-in alerts — ready to implement
 
 ### Standard sign-in alert (for all tools and forms that require sign-in with a verified account)
 
@@ -43,7 +43,7 @@ After you sign in, we’ll tell you if you need to verify your identity.
 
 [text link] Start your form without signing in
 
-## Verification alerts
+## Verification alerts — ready to implement
 
 ### Verify alert for LOA1/IAL1 Login.gov and ID.me accounts
 
@@ -78,7 +78,7 @@ To check, sign out of VA.gov. Then try to create a new account with the email ad
 [text link] [Learn about creating an account](https://www.va.gov/resources/creating-an-account-for-vagov/)
 
 
-## Additional variations not ready to implement
+## Additional variations NOT ready to implement
 
 ### DRAFT Variation for forms with optional sign-in that support prefill and create an intent to file (ITF) DRAFT
 
