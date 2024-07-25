@@ -5,14 +5,9 @@ This [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/repor
 ## Table of Contents
 
 - [Check-in](#check-in)
-  - [Check-in Audience and Completions](#check-in-audience-and-completions)
-  - [Check-in Verifications Conversions and Errors](#check-in-verifications-conversions-and-errors)
 - [Pre-Check-in](#pre-check-in)
 - [Travel via Check-in](#travel-via-check-in)
 - [PCI Combined](#pci-combined)
-  - [Check-in and Pre-Check-in Link Clicks](#check-in-and-pre-check-in-link-clicks)
-  - [PCI Customer Satisfaction Score](#pci-customer-satisfaction-score)
-  - [PCI Downtime](#pci-downtime)
 
 ## Check-in
   
