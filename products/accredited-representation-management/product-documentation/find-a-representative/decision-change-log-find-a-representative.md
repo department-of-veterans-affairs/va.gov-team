@@ -13,4 +13,6 @@
 - **6/7/2024**: Removed the “Other” text input in the Report Outdated Information modal, because users were entering PII. All PII data has been removed.\
   _Initiated by Program Manager Parker Baranowski, managed by the ARM team, with VA Enablement staying informed ([post mortem - awaiting review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/pull/1722#pullrequestreview-2130200755))._
 - **7/18/2024**: Decided to remove the Report Outdated Information feature.\
-  _Product Owner Jennifer Bertsch requested this be prioritized for the next sprint ([slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721334455491939))._
+  _Product Owner Jennifer Bertsch requested this be prioritized for the next sprint ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721334455491939))._
+- **7/25/2024**: The Report Outdated Information feature was removed from Production.\
+  _Confirmed by Product Manager Lindsay Li-Smith ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721931488251949))._
