@@ -8,7 +8,7 @@
 
 ## Metrics Dashboards for Reporting Purposes
 - Looker Studio Visual Dashboards
-  - [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C) and [PCI Metrics Looker Studio Dashboard Data Sources Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-metrics-looker-dashboard.md)
+  - [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C) and [Data Sources Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-metrics-looker-dashboard.md)
   - [Travel Metrics](https://lookerstudio.google.com/reporting/940b5ada-fd8d-46ca-9c14-314dedd089ce)
 - For page views, button clicks, & collapses/expands of collapsible components
   - [PCI GA4 Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w)
