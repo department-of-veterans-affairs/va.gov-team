@@ -75,7 +75,7 @@
     - 🟥🟪 Find out from Kristen about timing of pilot and pilot site(s)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get the wireframes finalized and ready for frontend**      
-    - ❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+    - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
     - ✔️ ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to do the draft userflow & wireframes and schedule a Design Intent**
@@ -85,8 +85,8 @@
     - 🟥 Schedule Design Intent (are we piggy-backing off Travel Team's Collab Cycle ticket?)   
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish the draft UX artifacts and schedule a Midpoint Review and to make progress on backend integration with VAOS/MAP**
-    - 🟥 [Update Userflows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
-    - 🟥 Schedule Midpoint Review
+    - ✔️ 🟥 [Update Userflows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
+    - ✔️ 🟥 Schedule [Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89352)
     - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
     - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
     - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
