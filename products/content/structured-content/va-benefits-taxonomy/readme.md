@@ -41,7 +41,8 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
 - [Recorded presentation](https://us06web.zoom.us/rec/share/4u4dw63AwUGcUQe8IkTF9qRC5TYr7xa1CsAQ3bh-u4Hgn2xF7SsApAUy55NAHt_8.Brndd38-G5o4DGwe?startTime=1720726012000) (by Dave Pickett) about the Taxonomy and how this piece of work fits into it
   - Passcode: Kf#56B?j
 
-## Project Plan for MVP In scope
+## In Scope
+### MVP
 
 ### 👉🏼 Benefit Name / VA Benefit API ID
   * **Requirements**
@@ -61,20 +62,7 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
         - CAIA to provide the verbiage.
         - [[VA Benefits Taxonomy] Update text in the 'How to Apply' sections with more descriptive verbiage provide by CAIA #18163](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18163)
 
-### 👉🏼 Exclusionary and Simultaneous Benefits
-  * **Requirements**
-    * We will need some Content modeling around this. Might need to pull in Dave Picket?
-    * _Exclusionary Benefits Definition:_ Meaning > If you have _this_ benefit, you can’t have _that_ benefit.
-      -  Example: Question is asked of the Veteran: "Add Exclusionary benefits?" Example of options "Housebound **or** Aid & Attendance", etc. The note to the Veteran will be something like: "You can have one of these or the other, but not both (if you choose this benefit, you can’t select this linked benefit)."
-    * _Simultaneous Benefits Definition:_ Meaning > if you have this benefit, you MUST have this other benefit at the same time, _or_ you’re automatically enrolled in this other benefit at the same time.
-      -  Example language: Add Simultaneous benefit? Note to Veteran: What we’re talking about here is a benefit that you should or must consider applying for or obtaining at the same time as this benefit.
-  * **Tickets**
-    * Ticket: Content modeling: involve Dave Picket. Creating a linked tree, where one things has a reference to another. And we call that exclusionary. If an editor is looking at editing a benefit they would see a way to add/check exclusionary benefits. A separate field for simultaneous. Questions: Can a benefit have both exclusionary and simultaneous linked benefits? Dave will need to collaborate with UX/Daniel for field names.
-      * [[VA Benefit Taxonomy] Content modeling for Exclusionary and Simultaneous Benefits #18165](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18165)
-    * Ticket: UX: design of the forms in the CMS for the editors. Will need help text.
-      * [[VA Benefit Taxonomy] [UX] Provide editors the ability to indicate/add exclusionary or simultaneous benefits #18166](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18166)
-    * Ticket: Engineering ticket: build this.
-      * [[VA Benefit Taxonomy] [Drupal] Editors creating or editing benefit details can indicate exclusionary or simultaneous benefits #18167](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18167)
+
        
 ### 👉🏼 Benefit Description
   * **Requirements**
@@ -163,17 +151,21 @@ Note from CAIA: We need to think about how much depth we want to go into for the
     - Ticket - UX
     - Fran: Ask CAIA for help text for the editors.
  
-## Explicitly out of scope or MVP
-### 👉🏼 Benefit Description
-  * Long Description Post-MVP: If a Long description character count is more than the character count of the Brief description, but less than the character count of the Teaser description, the Brief description will then be required.
-  * Brief Description Post-MVP: Post-MVP: If a Brief character count is more than the character count of the Teaser description, then the Teaser description will be required.
+## Post MVP
 
-### 👉🏼 Approval fields: add more backend fields to help us track approvals and audits for this core reusable content. Fields such as “Approving SMEs,” “Date last reviewed by approving SMEs,” and “Associated
+### 👉🏼 Approval fields
+  - Add more backend fields to help us track approvals and audits for this core reusable content. Fields such as “Approving SMEs,” “Date last reviewed by approving SMEs,” and “Associated
  program office(s).  
 
-### 👉🏼 Front-end Work: Per Dave, work through some POC wireframes for this. For discussion and thought as we map this model to the page templates for core benefit pages. In our pages now, we often have a brief one-liner about a benefit and then a “Read more to learn…” How will we account for that with reusable content? Perhaps we just allow for page template to have an intro and then we pull in reusable content as needed. 
+### 👉🏼 Front-end Work
+  - Per Dave, work through some POC wireframes for this. For discussion and thought as we map this model to the page templates for core benefit pages. In our pages now, we often have a brief one-liner about a benefit and then a “Read more to learn…” How will we account for that with reusable content? Perhaps we just allow for page template to have an intro and then we pull in reusable content as needed. 
 
-## Product roadmap/phases
+## Out of Scope
+### 👉🏼 Exclusionary and Simultaneous Benefits
+  - Reason Out of Scope:
+    - Re: Simultaneous: there are no known clear cases for this logic. In reality, a Veteran may use the same application to apply for certain benefits (i.e. Healthcare and Dental) but the benefits are not necessarily both granted or may not be granted at the same time. It's more accurate to say, "If you are approved for A, you might also be eligible for [one or more other benefits]; "related" may be a better description than "simultaneous" but not obviously distinct from "co-considered"
+    - Re: Exclusionary: Most of the scenarios we considered can be characterized by "know your options" making it more important to surface the possible ramifications of choosing one benefit over another than to enforce logic such as "if A, than not B". T he granularity needed to cover the variations of exclusionary relationships could introduce a risk for editor confusion when choosing between two possible categories. The taxonomy is not expected to determine eligibility at this stage. Because of edge cases and the complexity of the relationships between benefits, we determined that simultaneous and exclusionary benefit relationship categories are not necessary for MVP. These scenarios can be covered by the "co-considered benefits" category for now. The content will be responsible for providing the details, rather than the content model.
+
 
 ## Testing Approach
 
