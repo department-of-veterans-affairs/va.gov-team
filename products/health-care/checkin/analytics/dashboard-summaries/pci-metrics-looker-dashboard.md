@@ -86,7 +86,7 @@ This [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/repor
       vets_api.statsd.api_check_in_v0_travel_claim_submit_claim_count_success * 100
     - Source is the "Travel Claim Error Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
-## Various
+## PCI Combined
   #### Check-in & Pre-Check-in Link Clicks
   - Purple line shows the total number of clicks on the check-in link by Veterans
     - Value comes from StatsD metric 'vets_api.statsd.api_check_in_v2_sessions_show_count_success'
