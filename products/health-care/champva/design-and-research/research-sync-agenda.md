@@ -1,5 +1,23 @@
 # Running Design and Research Agenda
 
+## July 25, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes, Devi Hill
+
+### Agenda topics
+- Review [10-10d UXR stakeholder readout deck](https://docs.google.com/presentation/d/1rneN0c0SynW1Jj_5_JuEqMKYtkbkEHLvV4n0KdCELpg/edit#slide=id.g892adcb623_0_141)
+- Discuss next up research for claims
+
+### Decisions and action items
+
+## July 18, 2024
+Canceled - Lois OOO
+
+## July 11, 2024
+Canceled - Lois OOO
+
+## July 4, 2024
+Canceled - July 4th holiday
+
 ## June 27, 2024
 Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes, Devi Hill
 
