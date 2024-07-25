@@ -60,7 +60,7 @@ Date: Monday, July 22, 2024
 | Can we deeplink to a specific claim? If so, what's the structure of the url parameters and how do we determine what values to include? And, should this be considered for MVP depending on level of effort? |  Assigned to Kevin. |
 | What's our plan for research needs? |  Moderated UAT in staging env. In addition, include links to past research in collab cycle ticket, while making note of number of AT users that have participated. |
 | How do the Medication Review changes impact the Appointment Detail Page designs?<br><br> | TBD. |
-| How are we planning to roll out this feature? Ayush to discuss with IVC during BT/Staff/API recurring meetings. E.g., VISN to VISN rollout? | TBD. |
+| How are we planning to roll out this feature? Ayush to discuss with IVC during BT/Staff/API recurring meetings. E.g., VISN to VISN rollout? | Lori started email thread with VTP stakeholders. |
 | Knowing that Appointments/Check-in has language translations for the BT question workflow, does BTSSS want or plan to use those? | Assigned to Ayush to decide. |
 
 ## To do's
