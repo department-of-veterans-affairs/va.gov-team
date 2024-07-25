@@ -37,7 +37,7 @@ Date: Monday, July 22, 2024
     - Usability testing for unified check-in flow, including mileage-only travel reimbursement screens
     - Path tested: Text message reminder > Appointment list > Complete check-in + travel flow from task card or details page
   - [2023-11 Past Appointments Travel Reimbursement Generative Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study)
-    - Questions around travel reimbursement, claim status exercise, and usability test for filing a past appointment travel reimbursement (mileage-only) claim
+    - Questions around travel reimbursement, claim status exercise, and usability test for filing a mileage-only travel reimbursement claim for a past appointment
     - Path tested: Email reminder/notification > Appointment list > File a mileage only claim from task card or details page
 
 
