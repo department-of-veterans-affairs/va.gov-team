@@ -87,21 +87,23 @@ This [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/repor
     - Source is the "Travel Claim Error Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
 ## Various
-  - Check-in & Pre-Check-in Link Clicks
-    - Purple line shows the total number of clicks on the check-in link by Veterans
-      - Value comes from StatsD metric 'vets_api.statsd.api_check_in_v2_sessions_show_count_success'
-      - Source is the "Check-in Link Clicks" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
-    - Orange line shows the total number of clicks on the pre-check-in link by Veterans
-      - Value comes from StatsD metric 'vets_api.statsd.api_pre_check_in_v2_sessions_show_count_success'
-      - Source is the "Pre-Check-in Link Clicks" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
-  - PCI Customer Satisfaction Score
-    - Blue line is the average Veteran satisfaction score from the Medallia survey results (1-5)
-      - Value comes from the calculation
-        AVG(Satisfaction by Directory Overview (from the Intercept Survey) + Satisfaction by directory (from the Feedback Survey))
-      - Source is the [Medallia Report](https://va-gov.domo.com/page/825663825?userId=748391715)
-  - PCI Downtime
-    - Blue line shows the percentage of time any of the PCI applications (i.e. eCheck-in or Pre-Check-in) were not available to Veterans 
-      - Value comes from the calculation
-        100 - Veteran facing - Mobile check-in: Uptime (Actual, not Objective)
-      - Source is the "Veteran facing - Mobile check-in: Uptime" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
+  #### Check-in & Pre-Check-in Link Clicks
+  - Purple line shows the total number of clicks on the check-in link by Veterans
+    - Value comes from StatsD metric 'vets_api.statsd.api_check_in_v2_sessions_show_count_success'
+    - Source is the "Check-in Link Clicks" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
+  - Orange line shows the total number of clicks on the pre-check-in link by Veterans
+    - Value comes from StatsD metric 'vets_api.statsd.api_pre_check_in_v2_sessions_show_count_success'
+    - Source is the "Pre-Check-in Link Clicks" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
+  
+  #### PCI Customer Satisfaction Score
+  - Blue line is the average Veteran satisfaction score from the Medallia survey results (1-5)
+    - Value comes from the calculation
+      AVG(Satisfaction by Directory Overview (from the Intercept Survey) + Satisfaction by directory (from the Feedback Survey))
+    - Source is the [Medallia Report](https://va-gov.domo.com/page/825663825?userId=748391715)
+  
+  #### PCI Downtime
+  - Blue line shows the percentage of time any of the PCI applications (i.e. eCheck-in or Pre-Check-in) were not available to Veterans 
+    - Value comes from the calculation
+      100 - Veteran facing - Mobile check-in: Uptime (Actual, not Objective)
+    - Source is the "Veteran facing - Mobile check-in: Uptime" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
     
