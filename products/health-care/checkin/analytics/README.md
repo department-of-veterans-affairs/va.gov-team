@@ -26,37 +26,6 @@
 - [How to Generate an Analytics Report for Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
     - This needs to be updated based on the outcome of the meeting with Stephen & Jeff/Leah
 
-## GA4 Explore Reports Regular Expressions for Pages
-#### CHECK-IN
-```
-.*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details).* 
-  NOTE: these have to be done separately because of the appended GUID
-    .*health-care/appointment-check-in/appointment-details.*
-    .*health-care/appointment-check-in/complete.*
-  NOTE: For exandables
-    .*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details|appointment-details|complete).*
-```
-#### PRE-CHECK-IN
-```
-.*health-care/appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin|complete).*
-  NOTE: these have to be done separately because of the appended GUID
-     .*health-care/appointment-pre-check-in/appointment-details.*
-  NOTE: For exandables
-    .*health-care/appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin|complete).*
-```
-#### TRAVEL IN CHECK-IN
-```
-.*health-care/appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).*
-```
-#### OH TRAVEL
-```
-.*my-health/appointment-travel-claim/(verify|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-review|travel-agreement).*
-    NOTE: these have to be done separately because of the appended GUID
-      .*my-health/appointment-travel-claim/complete.*
-    NOTE: For exandables
-      .*my-health/appointment-travel-claim/(verify|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-review|travel-agreement|complete).*
-```
-
 ## VSignals Feedback
 - [How to Request and Process VSignals Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
 
