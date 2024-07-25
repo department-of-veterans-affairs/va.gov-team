@@ -20,7 +20,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
     - [Ticket 87412](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87412)
 - Fixed a bug to remove the insurance information when selecting details before completing Pre-Check-in
     - [Ticket 87410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87410)
-- Updated eCheck-in H2 to read "Totay's appointments at this facility" for clarity
+- Updated eCheck-in H2 to read "Today's appointments at this facility" for clarity
     - [Ticket 87413](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87413)
 
 ## 6/24/2024
