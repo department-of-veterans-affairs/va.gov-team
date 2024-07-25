@@ -12,14 +12,14 @@ new feature or significant change to existing features.
 If a guide has been updated recently and this doc has been kept up to date, most likely the latest version will be attached to a ticket linked here.
 If there are any questions about the latest version of a product guide, reach out to the Contact Center team in DSVA slack in #vsp-contact-center-support<br><br>
 2. Drafts of new versions are created and shared internally<br>
-Make updates to the docs with change tracker on. Share with your product team for internal review via sharepoint in
+Make updates to the docs with [MS Word change tracker](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a#:~:text=Click%20or%20tap%20at%20the,moves%20to%20the%20next%20change.) on. This will identify changes that have been made since the last version. Share with your product team for internal review via sharepoint in
 [Disability Benefits Experience/Documents/Drafts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Documentation/Drafts?csf=1&web=1&e=Bq1VNW).
-This has allowed for easier collaboration than uploading the docs to GitHub.<br><br>
+This allows for better collaboration than uploading the docs to GitHub.<br><br>
 3. Submit drafts for Contact Center review<br>
 Follow steps in [request-contact-center-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
 to create a ticket. Update the change logs within the docs and on this page with ticket number.<br><br>
 4. Contact Center team reviews the docs <br>
-Make any requested changes and update in sharepoint.<br><br>
+Make any requested changes and update in sharepoint. They will typically look through each change and approve or comment on the change.<br><br>
 5. Complete!<br>Contact Center team attaches the approved version to the ticket.
 
 ## Some best practices
