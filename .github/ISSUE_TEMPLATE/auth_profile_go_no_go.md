@@ -14,7 +14,7 @@ Go / No-Go | `[Date]`
 
 **Decision:** `TBD` 
 
-
+---
 
 ### Team 
 
@@ -22,7 +22,7 @@ Have we reviewed the feature in staging and confirmed that it works as expected?
 - [ ] Yes 
 - [ ] No
 
-
+---
 ### PM/PO
 
 Was GA tracking implemented and verified with the Analytics team so that we can test tracking in production during UAT?  (Link to Dashboard(s))
@@ -38,7 +38,7 @@ Is staging review complete? (link)
 - [ ] Yes 
 - [ ] No
 
-
+---
 
 ### Team 
 
@@ -48,7 +48,7 @@ Is staging review complete? (link)
 
 
 
-
+---
 
 
 # Prod
@@ -59,12 +59,13 @@ Is staging review complete? (link)
 
 
 
-
+---
 ### UAT
 Is UAT complete?
 - [ ] Yes 
 - [ ] No 
 
+---
 ### BE 
 Is monitoring and alerting configured and working as expected? (Link to corresponding dashboard)
 - [ ] Yes 
@@ -75,7 +76,7 @@ Are you ready to monitor performance data for latency, errors, etc?
 - [ ] Yes 
 - [ ] No 
 
-
+---
 ### DEV 
 Are there any Sev1 bugs or accessibility issues outstanding?
 - [ ] Yes 
@@ -86,6 +87,7 @@ Are you ready to turn the feature on based on our release plan for a % of users?
 - [ ] Yes 
 - [ ] No 
 
+---
 ### PM/PO 
 Are metrics (domo/[data do](https://vagov.ddog-gov.com/dashboard/gra-npe-h52/authenticated-experience-direct-deposit?refresh_mode=sliding&from_ts=1696166658933&to_ts=1696253058933&live=true)g/ GA Link) updated to track this product data and are they working as expected? 
 - [ ] Yes 
