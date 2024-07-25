@@ -53,11 +53,11 @@ We created a script to ensure that we answered these questions:
 
 ##### Notes from discovery calls:
 
-[Jeff Notes](https://docs.google.com/document/d/1w47dOBuu_OFY7LVxz_KOK8EdTeSjN76ZHrsHFMhlj-A/edit)
+[Jeff Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/Notes%20from%20Discovery%20calls/Jeff-Notes.md)
 
-[Jon Notes](https://docs.google.com/document/d/1v2X35WPhCUJEqKr6u4jBn187ow9GgTlh1tmAkrQkkqw/edit#heading=h.mof8ud9mcj20)
+[Jon Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/Notes%20from%20Discovery%20calls/Jon-Notes.md)
 
-[Michelle Notes](https://docs.google.com/document/d/1URMdmTGcgaqge7jn-1CfCiVrDAphZmD5SapTzyxljfM/edit#heading=h.uh50l7tnvgnv)
+[Michelle Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/Notes%20from%20Discovery%20calls/Michelle-Notes.md)
 
 
 ##### Summary of findings:
