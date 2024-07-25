@@ -34,8 +34,9 @@ _Provide the description of the feature_
 - [ ] All task criteria are met
 - [ ] [Technical Documentation]() is updated (must confirm if needed, remove there is none)
 
-Delete this section before creating the ticket 
-## How to configure this issue 
+
+## How to configure this issue (Delete this section before creating the ticket)
 - [ ] **Attached to an Epic** (what body of work is this a part of?)
+- [ ] **If work needs to be split up, create the additional ticket(s) and keep the same format and update the checklist (just to keep it consistent and the requirements are listed in each ticket).** 
 - [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `contact center`, `research`, `accessibility`, `content`)
 - [ ] **Labeled with Type** (`bug`, `request`, `discovery`, `documentation`, etc.)
