@@ -2,7 +2,7 @@
 name: Authenticated Experience Profile Go/no-go convo template
 about: Template for Authenticated Experience Profile team go/no go conversations ( UAT and Prod )
 title: Practice Area | Profile | [Project] | UAT or Prod go/no-go convo
-labels: needs-refinement, profile, launch
+labels: needs-refinement, profile, launch, authenticated-experience
 assignees: 'mtcA6'
 
 ---
@@ -15,14 +15,14 @@ Go / No-Go | `[Date]`
 **Decision:** `TBD` 
 
 
---- 
+
 ### Team 
 
 Have we reviewed the feature in staging and confirmed that it works as expected?
 - [ ] Yes 
 - [ ] No
 
----
+
 ### PM/PO
 
 Was GA tracking implemented and verified with the Analytics team so that we can test tracking in production during UAT?  (Link to Dashboard(s))
@@ -38,7 +38,7 @@ Is staging review complete? (link)
 - [ ] Yes 
 - [ ] No
 
----
+
 
 ### Team 
 
@@ -56,7 +56,7 @@ Is staging review complete? (link)
 
 ## Decision: `[TBD]`
 
----
+
 
 
 
