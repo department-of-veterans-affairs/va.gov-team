@@ -32,7 +32,7 @@ To help identify our persona(s) we conducted a few Discovery calls.
 
 ##### Discovery conversation guide V1:
 
-[Performance Dashboard discovery call conversation guide](https://docs.google.com/document/d/17TJqllEs8EaPv6d0_S-zZgG47h_HJgmuFcD5Mzk233Q/edit#heading=h.jq196tgwocwp)
+[Performance Dashboard discovery call conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/PerformanceDashbord-discovery-conversation-guide.md)
 
 ****
 
