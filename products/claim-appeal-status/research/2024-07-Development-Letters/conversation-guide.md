@@ -127,7 +127,7 @@ Imagine you're signed into your VA.gov account and looking at this page.
 
 #### Questions for submitting waiver section
 - What do you expect to happen when you click the "I'm finished adding evidence" checkbox?
-- 
+
 [Participant clicks into submit waiver]
 
 - Describe what you are seeing on this page
