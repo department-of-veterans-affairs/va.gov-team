@@ -15,4 +15,4 @@
 - **7/18/2024**: Decided to remove the Report Outdated Information feature.\
   _Product Owner Jennifer Bertsch requested this be prioritized for the next sprint ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721334455491939))._
 - **7/25/2024**: The Report Outdated Information feature was removed from Production.\
-  _Confirmed by Product Manager Lindsay Li-Smith ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721931488251949))._
+  _Product Manager Lindsay Li-Smith confirmed this change and has updated OGC stakeholders ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721931488251949))._
