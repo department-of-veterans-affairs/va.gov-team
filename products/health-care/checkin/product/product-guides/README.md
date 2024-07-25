@@ -10,11 +10,11 @@ Last uploaded: July 22, 2024
 
 ## Pre-Check-In
 
-Last uploaded: July 22, 2024
+Last uploaded: July 25, 2024
 
-- [PRE-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16337348/PRE-CHECK-IN_PRODUCT_GUIDE.v1.10.SRT.07152024.pdf)
+- [PRE-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16379338/PRE-CHECK-IN_PRODUCT_GUIDE.v1.11.07252024.pdf)
 
-- [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16337349/PRE-CHECK-IN_PRODUCT_GUIDE.v1.10.SRT.07152024.docx)
+- [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16379339/PRE-CHECK-IN_PRODUCT_GUIDE.v1.11.07252024.docx)
 
 ## Online Travel Reimbursement for Oracle Health (formerly Cerner) Facilities 
 
