@@ -8,9 +8,7 @@ assignees: 'mtcA6'
 ---
 # UAT 
 
-## Background
-
-Go / No-Go | `[Date]` 
+## Go / No-Go | `[Date]` 
 
 **Decision:** `TBD` 
 
@@ -52,7 +50,7 @@ Is staging review complete? (link)
 
 
 # Prod
-### Launch Go / No Go |  `[Date]`
+## Launch Go / No Go |  `[Date]`
 
 ## Decision: `[TBD]`
 
