@@ -5,17 +5,17 @@ The following Google Analytics 4 dashboards contain metrics for Patient Check-in
   ## Check-in
   - [PCI Check-in Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w)
   - Tabs
-    - Pageviews - total number of pageview for pages that match this regular expression '.*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details).*'
-    - Details Pageviews - total number of pageviews for the appointment details page specifically (needed because of the appended UUID) using this regular expression '.*health-care/appointment-check-in/appointment-details.*'
-    - Complete Pageviews - total number of pagesview for the completion page specifically (needed because of appended UUID) using this regular expression '.*health-care/appointment-check-in/complete.*'
-    - Expandables - total number of expands/collapses on collapsible controls using this regular expression '.*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details|appointment-details|complete).*'
-    - Arrived Buttons - total number of button clicks for the "Have you arrived..." page using this regular expression 'appointment-check-in/arrived'
-    - Contact Buttons - total number of button clicks for the "Have you arrived..." page using this regular expression '/health-care/appointment-check-in/contact-information'
-    - EC Buttons - total number of button clicks for the "Have you arrived..." page using this regular expression 'appointment-check-in/emergency-contact'
-    - NOK Buttons - total number of button clicks for the "Have you arrived..." page using this regular expression '/health-care/appointment-check-in/next-of-kin'
-    - Details Buttons - total number of button clicks for the "Have you arrived..." page using this regular expression 'appointment-check-in/details'
-    - Appt Details Buttons - total number of button clicks for the "Have you arrived..." page using this regular expression 'appointment-check-in/appointment-details'
-
+    - Pageviews - total number of pageview for pages that match this regular expression '.\*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details).\*'
+    - Details Pageviews - total number of pageviews for the appointment details page specifically (needed because of the appended UUID) using this regular expression '.\*health-care/appointment-check-in/appointment-details.\*'
+    - Complete Pageviews - total number of pagesview for the completion page specifically (needed because of appended UUID) using this regular expression '.\*health-care/appointment-check-in/complete.\*'
+    - Expandables - total number of expands/collapses on collapsible controls using this regular expression '.\*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details|appointment-details|complete).\*'
+    - Arrived Buttons - total number of button clicks for the "Have you arrived..." page using this contains expression 'appointment-check-in/arrived'
+    - Contact Buttons - total number of button clicks for the "Have you arrived..." page using this contains expression 'appointment-check-in/contact-information'
+    - EC Buttons - total number of button clicks for the "Have you arrived..." page using this contains expression 'appointment-check-in/emergency-contact'
+    - NOK Buttons - total number of button clicks for the "Have you arrived..." page using this contains expression 'appointment-check-in/next-of-kin'
+    - Details Buttons - total number of button clicks for the "Have you arrived..." page using this contains expression 'appointment-check-in/details'
+    - Appt Details Buttons - total number of button clicks for the "Have you arrived..." page using this contains expression 'appointment-check-in/appointment-details'
+contains
   ## Pre-Check-in
   - [PCI Pre-Check-in Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A)
   - Tabs
