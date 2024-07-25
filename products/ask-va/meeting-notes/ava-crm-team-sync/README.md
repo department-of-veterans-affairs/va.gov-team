@@ -14,7 +14,6 @@
 
 ### Proposed new Agenda for Tuesday July 30th: 
 * Review Timeline for potential phases approaches
-* Review Dashboard Statuses
 * Discuss UAT 
 
 
