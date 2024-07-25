@@ -50,6 +50,9 @@ Upon investigation of a random set of submissions that were still in the `delive
 #### Implementation Design
 This will depend on what we identify as the problems with our polling job.
 
+#### UPDATE ON IMPLEMENTATION:
+[per the Benefits Intake documentation here](https://developer.va.gov/explore/api/benefits-intake/docs?version=current), submissions could take up to 2 weeks to receive a status of success. Because we are now considering `success` a "success type" status, we need to account for that. More on "paranoid success" and the issue of what a `success` status actually means [here (paranoid success)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/paranoid_success_submissions.md)
+
 ### 2. Rebuild State from the ground up
 
 #### Problem Statement
