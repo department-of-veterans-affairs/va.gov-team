@@ -30,15 +30,15 @@ Date: Monday, July 22, 2024
 - **Research**
   - [2022-12 Patient Check In Travel Reimbursement Veteran Intercept at Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre)
     - On-site UAT for mileage-only travel reimbursement pilot release
-    - Path: Text check-in > Receive check-in link > Check-in + travel flow
+    - Path tested: Text check-in > Receive check-in link > Complete check-in + travel flow
   - [2022-12 Patient Check In Travel Reimbursement Staff Interviews at Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Staff%20Interviews%20at%20Wilkes-Barre)
     - On-site staff interviews
   - [2023-04 Unified Check-In Experience Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study)
     - Usability testing for unified check-in flow, including mileage-only travel reimbursement screens
-    - Path: Text message reminder > Appointment list > Check-in + travel flow from task card or details page
+    - Path tested: Text message reminder > Appointment list > Complete check-in + travel flow from task card or details page
   - [2023-11 Past Appointments Travel Reimbursement Generative Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study)
     - Questions around travel reimbursement, claim status exercise, and usability test for filing a past appointment travel reimbursement (mileage-only) claim
-    - Path: Email reminder/notification > Appointment list > File a mileage only claim flow from task card or details page
+    - Path tested: Email reminder/notification > Appointment list > File a mileage only claim flow from task card or details page
 
 
 ### Other resources
