@@ -68,6 +68,7 @@ To protect your information and prevent fraud and identity theft, we need you to
 - Come back to VA.gov and sign in with your **Login.gov** or **ID.me** account. We’ll help you verify your identity.
 
 **Not sure if you already have a Login.gov or ID.me account?**
+
 You may have one if you’ve ever signed in to a federal website to manage your benefits—like Social Security or disability benefits. Or if you signed in to VA.gov with a **My HealtheVet** or **DS Logon** account, we may have started creating an **ID.me** account for you.
 
 To check, sign out of VA.gov. Then try to create a new account with the email address you think the account is attached to. If you already have one, the sign-in service provider will tell you. You can then try to reset your password.
