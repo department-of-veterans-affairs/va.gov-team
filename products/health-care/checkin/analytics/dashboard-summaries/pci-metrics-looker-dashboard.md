@@ -2,6 +2,7 @@
 
 This [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C) displays timeline series graphs for PCI metrics as outlined below; these metrics are captured in this [CIE Reporting Metrics spreadsheet](https://docs.google.com/spreadsheets/d/1dj3CpR-wLljqydLhwO4GEgvmzLBOUSHIqxM1LIYmHTc/edit?gid=737742016#gid=737742016) and used as the data source for the Looker Studio dashboard.
 
+## TABLE OF CONTENTS
 - [Check-in](#check-in)
   - [Check-in Audience & Completions](#check---in-audience-&-completions)
   - [Check-in Verifications, Conversions, & Errors](#check---in-verifications,-conversions,-&-errors)
