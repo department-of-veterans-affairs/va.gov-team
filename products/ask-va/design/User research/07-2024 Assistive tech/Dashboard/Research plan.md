@@ -243,17 +243,17 @@ We'd like to recruit people who use a mix of different screen magnification soft
 5. Please list the name of the screen magnification tool you will use during the session.
     - Open text box
 
-## Timeline UPDATE
+## Timeline
 
 |Date|Milestone|
 |:--|:--|
-|July 30, 2024|Research Review|
-|July 31 - Aug 1, 2024|Pilot sessions or reviews with CAIA|
-|August 13 - 20, 2024|Research sessions|
-|August 22 - 29, 2024|Synthesis|
-|August 30, 2024|Share findings|
+|September 3, 2024|Research Review|
+|September 4 - 5, 2024|Pilot sessions or reviews with CAIA|
+|September 18 - 25, 2024|Research sessions|
+|September 30 - October 4, 2024|Synthesis|
+|October 7, 2024|Share findings|
 
-### Pilot sessions UPDATE
+### Pilot sessions
 
 We will have 3 pilot sessions and/or asynchronous reviews with CAIA.
 
@@ -261,15 +261,15 @@ Here is our [CAIA research support ticket](https://github.com/department-of-vete
 
 **Pilot 1: Desktop with screen reader**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+- Date and time of pilot session: TBD around September 4-5, 2024
 
 **Pilot 2: Mobile with screen reader**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+- Date and time of pilot session: TBD around September 4-5, 2024
 
 **Pilot 3: Desktop with alternative navigation**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+- Date and time of pilot session: TBD around September 4-5, 2024
 
 ## Research sessions
 
@@ -285,18 +285,18 @@ We will provide 24 time slots, with the aim to book 12 sessions. We have provide
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Tuesday, Aug 13|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
-|Wednesday, Aug 14|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
-|Thursday, Aug 15|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
-|Friday, Aug 16|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
-|Monday, Aug 19|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
-|Tuesday, Aug 20|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Wednesday, Sept 18|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Thursday, Sept 19|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Friday, Sept 20|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Monday, Sept 23|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Tuesday, Sept 24|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Wednesday, Sept 25|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 
 We will also provide one day for overflow. This should only be booked if we don't reach our targets.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Wednesday, Aug 21|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Thursday, Sept 26|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 	
 ## Team roles
 
