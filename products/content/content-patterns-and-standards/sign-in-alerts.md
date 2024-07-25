@@ -2,7 +2,7 @@
 DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
 
 **Notes:** 
-- All product teams who are creating or updating sign-in and verification alerts for their products must work with the identity team to confirm these alerts work correctly.
+- All product teams who are creating or updating sign-in and verification alerts for their products must work with CAIA for content and with the identity team for a technical review to confirm these alerts work correctly.
 - If your form or tool has /my-health in its URL, work with the identity and cartography teams to set up the correct sign-in flow. You may need an additional registration step on MHV national portal, and you may need to place your form or tool behind a /my-health route guard.
 - **Follow these rules for sign-in alert placement:**
      - For most online tools, the sign-in alert goes on the static unauthenticated page that the CAIA team manages in Drupal. Here's an example of a [static page with a sign-in alert](https://www.va.gov/health-care/secure-messaging/). Work with CAIA to add the alert to this page. 
