@@ -2,14 +2,15 @@
 
 This [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C) displays timeline series graphs for PCI metrics as outlined below; these metrics are captured in this [CIE Reporting Metrics spreadsheet](https://docs.google.com/spreadsheets/d/1dj3CpR-wLljqydLhwO4GEgvmzLBOUSHIqxM1LIYmHTc/edit?gid=737742016#gid=737742016) and used as the data source for the Looker Studio dashboard.
 
-## TABLE OF CONTENTS
+## Table of Contents
+
 - [Check-in](#check-in)
-  - [Check-in Audience & Completions](#check---in-audience-&-completions)
-  - [Check-in Verifications, Conversions, & Errors](#check---in-verifications,-conversions,-&-errors)
+  - [Check-in Audience and Completions](#check-in-audience-and-completions)
+  - [Check-in Verifications, Conversions, and Errors](#check-in-verifications,-conversions,-and-errors)
 - [Pre-Check-in](#pre-check-in)
 - [Travel via Check-in](#travel-via-check-in)
 - [PCI Combined](#pci-combined)
-  - [Check-in & Pre-Check-in Link Clicks](#check---in-&-pre---check---in-link-clicks)
+  - [Check-in & Pre-Check-in Link Clicks](#check-in-and-pre-check-in-link-clicks)
   - [PCI Customer Satisfaction Score](#pci-customer-satisfaction-score)
   - [PCI Downtime](#pci-downtime)
 
@@ -41,7 +42,7 @@ This [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/repor
     - Source is the "Check-in Error Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
 ## Pre-Check-in
-  #### Pre-Check-in Audience & Completions
+  #### Pre-Check-in Audience and Completions
   - Blue line shows the total number of Veterans who successfully verified their identity in Pre-Check-in
     - Value comes from StatsD metric 'vets_api.statsd.api_pre_check_in_v2_sessions_create_count_success' and represents the number of successful calls to the API to verify a Veteran's identity in Pre-Check-in
     - Source is the "Pre-Check-in Audience" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
@@ -49,7 +50,7 @@ This [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/repor
     - Value comes from StatsD metric 'vets_api.statsd.api_check_in_v2_pre_checkins_create_count_success' and represents the number of successful calls to the API to complete pre-check-in for a Veteran
     - Source is the "Pre-Check-in Completions" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
-  #### Pre-Check-in Verifications, Conversions, & Errors
+  #### Pre-Check-in Verifications, Conversions, and Errors
   - Blue line shows the percentage of Veterans who successfully verified their identity from all Veterans who attempted to verify their identity in Pre-Check-in
     - Value comes from StatsD metric calculation
       vets_api.statsd.api_pre_check_in_v2_sessions_create_count_success / 
@@ -68,7 +69,7 @@ This [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/repor
 
 ## Travel via Check-in
 
-  #### Travel Audience & Completions
+  #### Travel Audience and Completions
   - Blue line shows the total number of Veterans who reached the "Would you like to file a travel reimbursement claim?" page in eCheck-in and continued the workflow
     - Value comes from the GA4 metric of all Veterans who clicked 'Yes' or 'No' (as translated) on the "Would you like to file a travel reimbursement claim?" page
     - Source is the "File Buttons" tab in the [PCI Travel Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
@@ -76,7 +77,7 @@ This [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/repor
     - Value comes from StatsD metric 'vets_api.statsd.api_check_in_v0_travel_claim_submit_claim_count_success' and represents the number of successful calls to the BTSSS API to submit a claim
     - Source is the "Travel Claim Completions" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
-  #### Travel Verifications, Conversions, & Errors
+  #### Travel Verifications, Conversions, and Errors
   - Blue line shows the percentage of Veterans who reached the "Would you like to file a travel reimbursement claim?" page and chose to file a travel reimbursement claim (clicked "Yes")
     - Value comes from the GA4 metric of all Veterans who clicked 'Yes' (as translated) on the "Would you like to file a travel reimbursement claim?" page
     - Source is the "File Buttons" tab in the [PCI Travel Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
