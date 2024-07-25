@@ -27,7 +27,7 @@ Date: Monday, July 22, 2024
 - **Form wireframes:** [Up-to-date designs](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3592-4824&t=JbmPVn8Znw5BOZVZ-1), with BTSSS starting on the [form intro page](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3593-3077&t=JbmPVn8Znw5BOZVZ-1).
    - If SMS messages are going to be used to let Veterans know if the claim was or wasn’t successfully saved in BTSSS, then some of the links in the messages (from the Figma file) might need to change, e.g., to navigate users to the new VA.gov Travel Reimbursement Status tool.
 - **Appointment detail pages on VA.gov wireframes:** The [appointment detail page wireframes](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3594-8284&t=JbmPVn8Znw5BOZVZ-1) will get updated as part of this process based on scope changes since the initial research was conducted.
-- **Research**
+- **Research:**
   - [2022-12 Patient Check In Travel Reimbursement Veteran Intercept at Wilkes-Barre](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre)
     - On-site UAT for mileage-only travel reimbursement pilot release
     - Path tested: Text check-in > Receive check-in link > Complete check-in + travel flow
