@@ -1,4 +1,4 @@
-## 1) vets-website _mock-form folder
+# 1) vets-website _mock-form folder
 
 **Kevin mentioned doing it this way. Might be strong suggestion**
 
@@ -12,7 +12,10 @@
 - Our work may inadvertently affect other parts of the mock-form app
 - May require coordination with other teams working on vets-website, need to inform them of changes we do
 
-## 2) Local vets-website repo branch with tunneling (Ngrok)
+  **FINDINGS**
+  We created a new mock form app, which is separate from the other apps and should not affect them.
+
+# 2) Local vets-website repo branch with tunneling (Ngrok)
 
 **Pros:**
 - Ease of sharing app without deploying to a remote server
@@ -24,8 +27,9 @@
 - Security considerations: URLs are publicly accessible 
 - Potential learning curve for understanding its setup
 - Dependency on service: requires an active, decent internet connection and relies on Ngrok’s servers, which may impact reliability in certain scenarios
+- Free version has limited capabilities. 
 
-### 2a) VSCode has a port forwarding feature! [Link to video](https://www.youtube.com/watch?v=Yigzm_ecs0c)
+## 2a) VSCode has a port forwarding feature! [Link to video](https://www.youtube.com/watch?v=Yigzm_ecs0c)
 
 **Pros:**
 - No setup required
@@ -33,7 +37,10 @@
 **Cons:**
 - Will need to have VSCode
 
-## 3) Online code prototyping tools (CodePen, CodeSandbox)
+**FINDINGS**
+For tunneling, before we forward the port, we need to run the command, `yarn watch --env api=https://staging-api.va.gov` to tell the app to point to the staging API (otherwise it would look for localhost:3000 for the API and error out). However, after logging in with a test user, the page gets redirected to https://staging.va.gov/. After logging in, if you try to go back to the original tunneling address such as https://dm1rw53f-3001.usw3.devtunnels.ms/mock-form, you will be signed out. 
+
+# 3) Online code prototyping tools (CodePen, CodeSandbox)
 
 **Pros:**
 - Easy to start coding in since there is not much to set up.
@@ -46,7 +53,7 @@
 
 Summary of notes on this discovery work are here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/engineering/Codepen-notes.md
 
-## 4) Separate repo with static site deployment (Netlify, GitHub Pages)
+# 4) Separate repo with static site deployment (Netlify, GitHub Pages)
 
 **Pros:**
 - Netlify has good docs, won’t be too difficult to deploy
