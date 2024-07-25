@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 11, 2024
+Last updated by @tygindraux: July 25, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -265,16 +265,16 @@ We will have 3 pilot sessions and/or asynchronous reviews with CAIA.
 Here is our [CAIA research support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87480).
 
 **Pilot 1: Desktop with screen reader**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+- Pilot participant: Jamie, CAIA (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: August 1, 2024 at 12:00pm EST
 
 **Pilot 2: Mobile with screen reader**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+- Pilot participant: Riley, CAIA (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: August 1, 2024 at 2:00pm EST
 
-**Pilot 3: Desktop with alternative navigation**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+**Pilot 3: Desktop with alternative navigation: MacOS Voice Command**
+- Pilot participant: Jamie, CAIA (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: August 2, 2024 at 3:00pm EST
 
 ## Research sessions
 
