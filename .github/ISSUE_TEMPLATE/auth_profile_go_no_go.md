@@ -8,7 +8,7 @@ assignees: 'mtcA6'
 ---
 # UAT 
 
-## Go / No-Go | `[Date]` 
+## UAT Go / No-Go | `[Date]` 
 
 **Decision:** `TBD` 
 
