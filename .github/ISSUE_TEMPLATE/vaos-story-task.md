@@ -15,8 +15,8 @@ _What details are necessary for understanding the specific work or request track
 ## Development Checklist
 Background: the `toggle` toggle is on (remove if not needed) 
 
-- [ ] Task #1
-- [ ] Task #2
+- [ ] Task 1
+- [ ] Task 2
 
 ### Design Assets
 - [Figma file]() (put N/A if not needed) 
