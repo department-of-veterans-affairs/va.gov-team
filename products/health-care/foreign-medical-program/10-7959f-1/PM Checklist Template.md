@@ -77,7 +77,7 @@
      - [ ] Make any necessary tickets/changes for design
 - [ ] **Create Use Cases**
      - [ ] **Identify test users**
-- [ ] **Create Release Plan**
+- [x] Create Release Plan
 - [ ] Complete development
      - [x] Engineers work with Designers on any questions/clarifications
      - [x] Present to team for validation
@@ -92,17 +92,17 @@
 - [ ] **Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket**
      - [ ] **Review findings with the team**
      - [ ] **Create tickets for work to be completed before launch**
-- [ ] Create Usability and/or UAT research plan and conversation guide
-- [ ] Request Research Plan review
-- [ ] Schedule Usability/UAT sessions with Perigean
-- [ ] Conduct Usability/UAT sessions
-     - [ ] Synthesize research findings, if needed (not usually needed for UAT)
-     - [ ] Review findings with the team
-     - [ ] Make any necessary tickets/changes for design and/or development
-- [ ] Complete any Design and/or Development work from Usability/UAT sessions
+- [x] Create Usability and/or UAT research plan and conversation guide
+- [x] Request Research Plan review
+- [x] Schedule Usability/UAT sessions with Perigean
+- [x] Conduct Usability/UAT sessions
+     - [x] Synthesize research findings, if needed (not usually needed for UAT)
+     - [x] Review findings with the team
+     - [x] Make any necessary tickets/changes for design and/or development
+- [x] Complete any Design and/or Development work from Usability/UAT sessions
 - [ ] Update Error matrix documentation with any new error states
 - [ ] Update any FE and/or BE Engineering documentation
-- [ ] **Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] **Update Contact Center guide**
 - [ ] **Submit Contact Center guide review ticket**
 - [ ] **Update Release Plan**
@@ -114,10 +114,10 @@
      - [ ] **Review Release Plan**
 - [ ] **Launch in a phased manner, according to Release Plan**
 - [ ] **Continuous check-ins with downstream system**
-- [ ] Conduct Usability/UAT sessions
-     - [ ] Synthesize research findings, if needed (not usually needed for UAT)
-     - [ ] Review findings with the team
-     - [ ] Make any necessary tickets for design and/or development
+- [x] Conduct Usability/UAT sessions
+     - [x] Synthesize research findings, if needed (not usually needed for UAT)
+     - [x] Review findings with the team
+     - [x] Make any necessary tickets for design and/or development
 - [ ] Impact review session to present the impact that the change has had on the product (~1 month after 100% launch)
 
 
