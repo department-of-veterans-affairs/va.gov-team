@@ -94,8 +94,8 @@ We intend to use Maximum Variation Sampling as a recruitment strategy. Below is 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: rocio.de-santiago@coforma.io
+* Date and time of pilot session: Thu, August 1, 2-3 PM ET
  
 ### Research sessions
 * Planned dates of research: Aug 5-9, 12-16
