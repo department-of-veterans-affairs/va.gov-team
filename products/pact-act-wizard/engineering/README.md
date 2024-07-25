@@ -4,7 +4,7 @@
 
 **App context root**: `/pact-act-eligibility`
 
-The PACT Act is a new law that expands VA benefits and health care for Veterans exposed to burn pits, Agent Orange, and other toxic substances. The app asks a series of questions based on when the Veteran served in the military to determine whether they are eligible for the benefits.
+The PACT Act is a 2023 law that expands VA benefits and health care for Veterans exposed to burn pits, Agent Orange, and other toxic substances. The app asks a series of questions based on when the Veteran served in the military to determine whether they are eligible for the benefits.
 
 The guidance at the end of the flow (results page) depends on the responses to the app's questions.
 
@@ -38,6 +38,6 @@ The app uses a large suite of Cypress and unit tests to verify flows and functio
 
 ## Product ownership
 
-The PACT Act app is owned by the Public Websites team.
+The PACT Act app is owned by the VA.gov Sitewide Product team, and is part of the Public Websites product portfolio.
 
 - [#sitewide-public-websites](https://dsva.slack.com/archives/C52CL1PKQ)
