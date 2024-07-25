@@ -7,13 +7,21 @@ assignees: ''
 
 ---
 
-### **[Note:]** Link to the epic_ 
+### **[Note:]** (delete this section before creating the Feature)
+  - Link to the Epic
+  - Convert this ticket to an Epic in ZenHub
+  - After it officially becomes an Epic, remove Epic label from the Feature
 
-### Product Checklist 
+#### Objective/Goal: _Team will provide the details here_
+
 <details>
-  <summary>Toggle Product Checklist</summary>
+   <summary>Feature Checklist</summary>
 
-## Product
+## Product Checklist 
+<details>
+  <summary>Product Checklist</summary>
+
+### Product
 - [ ] Initiative Summary
 - [ ] Release Plan
 - [ ] Update product guide
@@ -29,9 +37,9 @@ assignees: ''
 
 ### UX Design Checklist 
 <details>
-  <summary>Toggle UX Design Checklist</summary>
+  <summary>UX Design Checklist</summary>
 
-## Design
+#### Design
 - [ ] Review problem/opportunity statement
 - [ ]  Add questions and assumptions to initiative brief
 - [ ]  Add research links to initiative brief
@@ -44,9 +52,9 @@ assignees: ''
 
 ### Engineering Checklist 
 <details>
-  <summary>Toggle Engineering Checklist</summary>
+  <summary>Engineering Checklist</summary>
 
-### Engineering 
+#### Engineering 
 - [ ] Review design specs
 - [ ] Add unit test coverage
 - [ ] Add E2E test coverage
@@ -58,9 +66,9 @@ assignees: ''
 
 ### QA Checklist 
 <details>
-  <summary>Toggle QA Checklist</summary>
+  <summary>QA Checklist</summary>
 
-### QA (for collab cycle) - ** please delete if not applicable ** 
+#### QA (for collab cycle) - ** please delete if not applicable ** 
 - [ ] Regression test plan
 - [ ] Test plan
 - [ ] [Coverage for References
