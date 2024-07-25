@@ -18,14 +18,20 @@ This Looker Studio dashboard displays timeline series graphs for PCI metrics as 
     - Source is the "Check-in Completions" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
   #### Check-in Verifications, Conversions, & Errors
-  - Blue line shows the percentage of Veterans who successfully verified their identity from all Veterans who attempted to verify their identity
-    - Value comes from StatsD metric calculation vets_api.statsd.api_check_in_v2_sessions_create_count_success / (vets_api.statsd.api_check_in_v2_sessions_create_count_failure + vets_api.statsd.api_check_in_v2_sessions_create_count_success) * 100
+  - Blue line shows the percentage of Veterans who successfully verified their identity from all Veterans who attempted to verify their identity in eCheck-in
+    - Value comes from StatsD metric calculation
+      vets_api.statsd.api_check_in_v2_sessions_create_count_success / 
+      (vets_api.statsd.api_check_in_v2_sessions_create_count_failure + vets_api.statsd.api_check_in_v2_sessions_create_count_success) * 100
     - Source is the "Check-in Verification Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
-  - Green line shows the percentage of Veterans who successfully completed eCheck-in from all  Veterans who successfully verified their identity
-    - Value comes from StatsD metric calculation vets_api.statsd.api_check_in_v2_checkins_create_count_success / vets_api.statsd.api_check_in_v2_sessions_create_count_success * 100
+  - Green line shows the percentage of Veterans who successfully completed eCheck-in from all Veterans who successfully verified their identity
+    - Value comes from StatsD metric calculation
+      vets_api.statsd.api_check_in_v2_checkins_create_count_success / 
+      vets_api.statsd.api_check_in_v2_sessions_create_count_success * 100
     - Source is the "Check-in Conversion Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
-  - Red line shows the percentage of errors
-    - Value comes from StatsD metric calculation vets_api.statsd.api_check_in_v2_checkins_create_count_failure / (vets_api.statsd.api_check_in_v2_checkins_create_count_failure + vets_api.statsd.api_check_in_v2_checkins_create_count_success) * 100
+  - Red line shows the percentage of errors that occured during the calls to the API to check in a Veteran
+    - Value comes from StatsD metric calculation
+      vets_api.statsd.api_check_in_v2_checkins_create_count_failure / 
+      (vets_api.statsd.api_check_in_v2_checkins_create_count_failure + vets_api.statsd.api_check_in_v2_checkins_create_count_success) * 100
     - Source is the "Check-in Error Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
 ## Pre-Check-in
@@ -38,15 +44,21 @@ This Looker Studio dashboard displays timeline series graphs for PCI metrics as 
     - Source is the "Pre-Check-in Completions" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
   #### Pre-Check-in Verifications, Conversions, & Errors
-  - Blue line shows the percentage of Veterans who successfully verified their identity from all Veterans who attempted to verify their identity
-    - Value comes from StatsD metric calculation vets_api.statsd.api_check_in_v2_sessions_create_count_success / (vets_api.statsd.api_check_in_v2_sessions_create_count_failure + vets_api.statsd.api_check_in_v2_sessions_create_count_success) * 100
-    - Source is the "Check-in Verification Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
-  - Green line shows the percentage of Veterans who successfully completed eCheck-in from all  Veterans who successfully verified their identity
-    - Value comes from StatsD metric calculation vets_api.statsd.api_check_in_v2_checkins_create_count_success / vets_api.statsd.api_check_in_v2_sessions_create_count_success * 100
-    - Source is the "Check-in Conversion Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
-  - Red line shows the percentage of errors
-    - Value comes from StatsD metric calculation vets_api.statsd.api_check_in_v2_checkins_create_count_failure / (vets_api.statsd.api_check_in_v2_checkins_create_count_failure + vets_api.statsd.api_check_in_v2_checkins_create_count_success) * 100
-    - Source is the "Check-in Error Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
+  - Blue line shows the percentage of Veterans who successfully verified their identity from all Veterans who attempted to verify their identity in Pre-Check-in
+    - Value comes from StatsD metric calculation
+      vets_api.statsd.api_pre_check_in_v2_sessions_create_count_success / 
+      (vets_api.statsd.api_pre_check_in_v2_sessions_create_count_failure + vets_api.statsd.api_pre_check_in_v2_sessions_create_count_success) * 100
+    - Source is the "Pre-Check-in Verification Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
+  - Green line shows the percentage of Veterans who successfully completed Pre-Check-in from all Veterans who successfully verified their identity in Pre-Check-in
+    - Value comes from StatsD metric calculation
+      vets_api.statsd.api_check_in_v2_pre_checkins_create_count_success / 
+      vets_api.statsd.api_pre_check_in_v2_sessions_create_count_success * 100
+    - Source is the "Pre-Check-in Conversion Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
+  - Red line shows the percentage of errors that occured during the calls to the API to complete pre-check-in for a Veteran
+    - Value comes from StatsD metric calculation
+      vets_api.statsd.api_check_in_v2_pre_checkins_create_count_failure/ 
+      (vets_api.statsd.api_check_in_v2_pre_checkins_create_count_failure + vets_api.statsd.api_check_in_v2_pre_checkins_create_count_success) * 100
+    - Source is the "Pre-Check-in Error Rate (%)" box in the [PCI Metrics Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1719328454518&to_ts=1721920454518&live=true)
 
 ## Travel via Check-in
 
