@@ -95,10 +95,10 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 ### Prepare
 * Pilot participant email: rocio.de-santiago@coforma.io
-* Date and time of pilot session: Thu, August 1, 2-3 PM ET
+* Date and time of pilot session: Thu, August 8, 2-3 PM ET
  
 ### Research sessions
-* Planned dates of research: Aug 5-9, 12-16
+* Planned dates of research: Aug 12-16, 19-23
 
 ### Length of sessions
 * Session length: 1 hour
