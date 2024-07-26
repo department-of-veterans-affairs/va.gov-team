@@ -61,29 +61,29 @@ contains
 - [PCI & OH Travel Funnels](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8tsu4m2kR5eLtCmD9xzRcA)
 - Check-in Funnel Steps
   - Step 1: Verify - /health-care/appointment-check-in/verify
-  - Step 2: Arrived? - /health-care/appointment-check-in/arrived
-  - Step 3: Contact Info? - /health-care/appointment-check-in/contact-information
-  - Step 4: EC Info? - /health-care/appointment-check-in/emergency-contact
-  - Step 5: NOK Info? - /health-care/appointment-check-in/next-of-kin
-  - Step 6: Check in - /health-care/appointment-check-in/details
-  - Step 7: Complete - /health-care/appointment-check-in/complete
-- Check-in with Travel Funnel Steps
-  - Step 1: Verify - /health-care/appointment-check-in/verify
-  - Step 2: Arrived? - /health-care/appointment-check-in/arrived
-  - Step 3: Contact Info? (any of the 3 contact info questions)
-    - /health-care/appointment-check-in/contact-information
-    - /health-care/appointment-check-in/emergency-contact
-    - /health-care/appointment-check-in/next-of-kin
-  - Step 4: File Claim? - /health-care/appointment-check-in/travel-pay
-  - Step 5: Mileage Only? - /health-care/appointment-check-in/travel-mileage
-  - Step 6: Own Vehicle - /health-care/appointment-check-in/travel-vehicle
-  - Step 7: Own Address? - /health-care/appointment-check-in/travel-address
-  - Step 8: Review Claim - /health-care/appointment-check-in/travel-review
-  - Step 9: Check in - /health-care/appointment-check-in/details
-  - Step 10: Complete - /health-care/appointment-check-in/complete
+  - Step 2: Landing Page - either of these 2
+    - /health-care/appointment-check-in/appointments (new landing page)
+    - /health-care/appointment-check-in/arrived (old landing page)
+  - Step 3: Arrived? - /health-care/appointment-check-in/arrived
+  - Step 4: Contact Info? - /health-care/appointment-check-in/contact-information
+  - Step 5: EC Info? - /health-care/appointment-check-in/emergency-contact
+  - Step 6: NOK Info? - /health-care/appointment-check-in/next-of-kin
+  - Step 7: Check in - /health-care/appointment-check-in/details
+  - Step 8: Complete - /health-care/appointment-check-in/complete
+- Travel via Check-in Funnel Steps
+  - Step 1: Verify - /health-care/appointment-check-in/verify  
+  - Step 2: File Claim? - /health-care/appointment-check-in/travel-pay
+  - Step 3: Mileage Only? - /health-care/appointment-check-in/travel-mileage
+  - Step 4: Own Vehicle - /health-care/appointment-check-in/travel-vehicle
+  - Step 5: Own Address? - /health-care/appointment-check-in/travel-address
+  - Step 6: Review Claim - /health-care/appointment-check-in/travel-review
+  - Step 7: Check in - /health-care/appointment-check-in/details
+  - Step 8: Complete - /health-care/appointment-check-in/complete
 - Pre-Check-in Funnel Steps
   - Step 1: Verify - /health-care/appointment-pre-check-in/verify
-  - Step 2: Landing Page - /health-care/appointment-pre-check-in/introduction
+  - Step 2: Landing Page - one of these 2
+    - /health-care/appointment-pre-check-in/appointments (new landing page)
+    - /health-care/appointment-pre-check-in/introduction (old landing page)
   - Step 3: Contact Info? - /health-care/appointment-pre-check-in/contact-information
   - Step 4: EC Info? - /health-care/appointment-pre-check-in/emergency-contact
   - Step 5: NOK Info? - /health-care/appointment-pre-check-in/next-of-kin
