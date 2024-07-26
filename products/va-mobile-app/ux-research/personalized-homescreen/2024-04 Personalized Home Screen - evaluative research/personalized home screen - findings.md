@@ -22,7 +22,19 @@ Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)),
 
 The VA Flagship mobile app was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes).
 
-Quantitative data analysis indicates that users who initially download the app do not actively use the app over time, and [research participants have also reported that they download the app to see if it can help them (but then don’t use it regularly)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings). The VA Flagship mobile app team believes that bringing personalized content to the VA mobile app’s home screen will help new and current app users understand and find value in the app that they aren’t discovering now, help app users keep up with and manage their current interactions across VA, and ultimately help address the dip in retention we’re seeing.
+Quantitative data analysis indicates that users who initially download the app do not actively use the app over time, and [research participants have also reported that they download the app to see if it can help them but then don’t use it regularly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) and/or don’t have time to go through the app’s functionality. 
+
+The team believes that because Veterans lack the time to explore the app, the mobile app’s one-size-fits-all approach limits the app’s perceived value. In particular:
+* Veterans don’t have a way to get a quick overview of what VA is doing for them now or that something is needed from them in order to keep things moving.
+* Veteran expectations and understanding of what they think they can do in the mobile app are limited and often inaccurate (they want something to help them, and to know if the app is that thing).
+* As the app adds more functionality or a Veteran gets more benefits from VA, Veterans have to do more work to complete tasks and find information related to them.
+
+
+The VA Flagship mobile app team believes that bringing personalized content to the VA mobile app’s home screen will help new and current app users keep up with and manage their interactions across VA and find value in the app that they aren’t discovering now.
+
+#### Success measures:
+* **Comprehension:** Participants demonstrate an accurate understanding of what the app can do for them—in general and in their current circumstances.
+* **Perceived value:** Participants report that they find the app and personalized home screen valuable.
 
 See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md)
 
@@ -134,11 +146,11 @@ Because of the potential variability of the modules within the Activity section,
 
 1. Upon seeing the personalized VA mobile app home screen, participants will demonstrate that they understand what the VA mobile app can do (help users keep up with and manage interactions across VA).
 
-    **True.** Based on first impressions of the contents of the new personalized home screen—participants who were current users as well as non-users of the app demonstrated that they understood what the mobile app can do. When asked, they described the app using similar terms that participants have used to describe it in previous studies: ”All of the stuff that is important... in one place," "Streamlined & simple," and "Quick & convenient access.” One participant described the app as “an assistant” that would give her “highlights of what's coming up”.
+    **True.** Based on first impressions of the contents of the new personalized home screen, participants who were current users as well as non-users of the app demonstrated that they understood what the mobile app can do. When asked, they described the app using similar terms that participants have used to describe it in previous studies: ”All of the stuff that is important... in one place," "Streamlined & simple," and "Quick & convenient access.” One participant described the app as “an assistant” that would give her “highlights of what's coming up”.
 
 2. Participants will be able to imagine and describe how the app will help them with the tasks they currently use in the app and in their life.
 
-    **True.** When prompted, all participants were able to describe a situation in their life where they imagined they could use the VA mobile app home screen to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task.
+    **True.** When prompted, all participants were able to describe a situation in their life where they imagined they could use the VA mobile app home screen to help them: to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task.
 
 3. Participants will understand that the personalized home screen modules contain high-level data from their in-flight tasks, and may describe it as being helpful in keeping up with their tasks.
 
@@ -164,7 +176,7 @@ Because of the potential variability of the modules within the Activity section,
 
 
 ## Key Findings
-1. Participants demonstrated that they understood what the mobile can do and were able to describe a situation in their life where they imagined they could use the VA mobile app home screen to help.
+1. Participants demonstrated that they understood what the VA mobile app can do and were able to describe a specific situation in their life where they imagined they could use the VA mobile app home screen to help them.
 
 2. All participants recognized that the Activity modules on the home screen displayed their personalized information and seemed to understand that the description text on each module indicated that something that was “in-flight,” however, not all participants described the presence of the Activity module itself as indicating that something was an “in-flight task.”
 
