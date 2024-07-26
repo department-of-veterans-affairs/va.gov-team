@@ -9,7 +9,7 @@ Man | 39 years old | Hispanic, Latino, or Spanish origin
 
 Man | 77 years old | White
 
-Man | X years old | 
+Man | 40 years old | Hispanic, Latino, or Spanish origin
 
 Man | X years old | 
 
