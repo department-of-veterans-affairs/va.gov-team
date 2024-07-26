@@ -13,6 +13,7 @@ This initiative aims to foster a culture of learning from failure within the VA 
 
 * As a product team within the VA OCTO Benefits Portfolio, we are disincentivized from sharing our failures due to perceived competition and a culture that primarily celebrates successes.
 * As OCTO leadership, we lack visibility into important learnings from failures, which hampers our ability to make informed decisions and improvements across the portfolio.
+* As OCTO leadership, it's sometimes unclear how teams are benchmarking metrics around success/failure.
 * As a contractor working on VA.gov products, I feel pressure to highlight successes and downplay failures, which limits opportunities for cross-team learning and improvement.
 * As a product team, we may not be paying close enough attention to the data that defines our success or failure, limiting our ability to make informed decisions and improvements.
 
