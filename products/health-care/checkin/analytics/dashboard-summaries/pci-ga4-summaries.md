@@ -1,7 +1,13 @@
 # PCI GA4 Dashboards Summary
 
 The following Google Analytics 4 dashboards contain metrics for Patient Check-in and OH Travel.
- 
+
+## Table of Contents
+- [Check-in](#check-in)
+- [Check-in with Travel](#check-in-with-travel)
+- [Pre-Check-in](#pre-check-in)
+- [PCI Funnels](#pci-funnels)
+  
   ## Check-in
   - [PCI Check-in Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w)
   - Tabs
@@ -16,6 +22,18 @@ The following Google Analytics 4 dashboards contain metrics for Patient Check-in
     - Details Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/details'
     - Appt Details Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/appointment-details'
 contains
+
+  ## Check-in with Travel
+  - [PCI Travel Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
+  - Tabs
+    - Pageviews - total number of pageview for pages that match this **regular** expression '.\*appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).\*'
+    - Expandables- total number of expands/collapses on collapsible controls using this **regular** expression '.\*appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).\*'
+    - File Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-pay'
+    - Mileage Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-mileage'
+    - Vehicle Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-vehicle'
+    - Address Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-address'
+    - Review Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-review'
+
   ## Pre-Check-in
   - [PCI Pre-Check-in Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A)
   - Tabs
@@ -27,16 +45,7 @@ contains
     - EC Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/emergency-contact'
     - NOK Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/next-of-kin'
 
-  ## Travel via eCheck-in
-  - [PCI Travel Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
-  - Tabs
-    - Pageviews - total number of pageview for pages that match this **regular** expression '.\*appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).\*'
-    - Expandables- total number of expands/collapses on collapsible controls using this **regular** expression '.\*appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).\*'
-    - File Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-pay'
-    - Mileage Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-mileage'
-    - Vehicle Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-vehicle'
-    - Address Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-address'
-    - Review Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-review'
+
 
   ## OH Travel
   - [OH Travel Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/iAXzqTMmQUCANjIKJbm3pA)
@@ -50,5 +59,41 @@ contains
     - Address Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'my-health/appointment-travel-claim/travel-address'
     - Review Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression '.*my-health/appointment-travel-claim/travel-review'
    
-
+## PCI Funnels
+- [PCI & OH Travel Funnels](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8tsu4m2kR5eLtCmD9xzRcA)
+- Check-in Funnel Steps
+  - Step 1: Verify
+  - Step 2: Arrived?
+  - Step 3: Contact Info?
+  - Step 4: EC Info?
+  - Step 5: NOK Info?
+  - Step 6: Check in
+  - Step 7: Complete  
+- Check-in with Travel Funnel Steps
+  - Step 1: Verify
+  - Step 2: Arrived?
+  - Step 3: Contact Info? (any of the 3 contact info questions)
+  - Step 4: File Claim?
+  - Step 5: Mileage Only?
+  - Step 6: Own Vehicle
+  - Step 7: Own Address?
+  - Step 8: Review Claim
+  - Step 9: Check in
+  - Step 10: Complete  
+- Pre-Check-in Funnel Steps
+  - Step 1: Verify
+  - Step 2: Landing Page
+  - Step 3: Contact Info? 
+  - Step 4: EC Info?
+  - Step 5: NOK Info?  
+  - Step 6: Complete  
+- **DRAFT** OH Travel Funnel Steps
+  - Step 1: Verify 
+  - Step 2: File Claim?
+  - Step 3: Mileage Only?
+  - Step 4: Own Vehicle
+  - Step 5: Own Address?
+  - Step 6: Review Claim
+  - Step 7: Complete  
+   
 
