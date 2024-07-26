@@ -42,7 +42,7 @@ Last update: 7/23/24 by Cara Frissell
 
 #### [Travel Reimbursement in eCheck-in Veteran Intercepts at Wilkes-Barre - December](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre)
 
-#### [Patient Check In Research Plan for Travel Reimburesement MVP Remore Usability Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test)
+#### [Patient Check In Research Plan for Travel Reimburesement MVP Remore Usability Test - August](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test)
 #### [BTSSS Path Analysis - April 2022](./2022-04-btsss-path-analysis)
 
 
