@@ -24,7 +24,8 @@ Make any requested changes and update in sharepoint. They will typically look th
 
 ## Some best practices
 - Both guides should be updated at the same time to keep them in sync, unless there is a change that impacts only one of the two flows.
-- Follow a light version of [semantic versioning](https://semver.org/) with major version increment for significant changes (such as a new OMB version of the 526 form or multiple large changes to the doc and its format) and minor version increment for small changes
+- Follow a light version of [semantic versioning](https://semver.org/) with major version increment for significant changes (such as a new OMB version of the 526 form or multiple large changes to the doc and its format) and minor version increment for smaller changes
+- Previously the product guides were duplicated here in github, but this was caused syncing and collaboration challenges. Utilizing the already existing source of truth (docs in Sharepoint owned by the Contact Center) is preferable. 
 
 ## 526 Product Guide Ticket History
 |Date|Version|Ticket|Author|Description|
