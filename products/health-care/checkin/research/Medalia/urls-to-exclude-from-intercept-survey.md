@@ -10,6 +10,7 @@ These URLs should be excluded from the list of URLs from which the Medallia Inte
 ## eCheck-in
 - /health-care/appointment-check-in/verify
 - /health-care/appointment-check-in/loading-appointments
+- /health-care/appointment-check-in/appointments
 - /health-care/appointment-check-in/arrived
 - /health-care/appointment-check-in/contact-information
 - /health-care/appointment-check-in/emergency-contact
@@ -27,6 +28,7 @@ These URLs should be excluded from the list of URLs from which the Medallia Inte
 
 ## Pre-Check-in 
 - /health-care/appointment-pre-check-in/verify
+- /health-care/appointment-pre-check-in/appointments
 - /health-care/appointment-pre-check-in/introduction
 - /health-care/appointment-pre-check-in/contact-information
 - /health-care/appointment-pre-check-in/emergency-contact
