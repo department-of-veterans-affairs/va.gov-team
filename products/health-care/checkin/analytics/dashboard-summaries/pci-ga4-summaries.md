@@ -8,92 +8,94 @@ The following Google Analytics 4 dashboards contain metrics for Patient Check-in
 - [Pre-Check-in](#pre-check-in)
 - [PCI Funnels](#pci-funnels)
   
-  ## Check-in
-  - [PCI Check-in Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w)
-  - Tabs
-    - Pageviews - total number of pageview for pages that match this **regular** expression '.\*appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details).\*'
-    - Details Pageviews - total number of pageviews for the appointment details page specifically (needed because of the appended UUID) using this **regular** expression '.\*appointment-check-in/appointment-details.\*'
-    - Complete Pageviews - total number of pagesview for the completion page specifically (needed because of appended UUID) using this **regular** expression '.\*appointment-check-in/complete.\*'
-    - Expandables - total number of expands/collapses on collapsible controls using this **regular** expression '.\*appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details|appointment-details|complete).\*'
-    - Arrived Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/arrived'
-    - Contact Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/contact-information'
-    - EC Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/emergency-contact'
-    - NOK Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/next-of-kin'
-    - Details Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/details'
-    - Appt Details Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/appointment-details'
+## Check-in
+- [PCI Check-in Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w)
+- Tabs
+  - Pageviews - total number of pageview for pages that match this **regular** expression '.\*appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details).\*'
+  - Details Pageviews - total number of pageviews for the appointment details page specifically (needed because of the appended UUID) using this **regular** expression '.\*appointment-check-in/appointment-details.\*'
+  - Complete Pageviews - total number of pagesview for the completion page specifically (needed because of appended UUID) using this **regular** expression '.\*appointment-check-in/complete.\*'
+  - Expandables - total number of expands/collapses on collapsible controls using this **regular** expression '.\*appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details|appointment-details|complete).\*'
+  - Arrived Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/arrived'
+  - Contact Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/contact-information'
+  - EC Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/emergency-contact'
+  - NOK Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/next-of-kin'
+  - Details Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/details'
+  - Appt Details Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/appointment-details'
 contains
 
-  ## Check-in with Travel
-  - [PCI Travel Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
-  - Tabs
-    - Pageviews - total number of pageview for pages that match this **regular** expression '.\*appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).\*'
-    - Expandables- total number of expands/collapses on collapsible controls using this **regular** expression '.\*appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).\*'
-    - File Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-pay'
-    - Mileage Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-mileage'
-    - Vehicle Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-vehicle'
-    - Address Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-address'
-    - Review Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-review'
+## Check-in with Travel
+- [PCI Travel Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
+- Tabs
+  - Pageviews - total number of pageview for pages that match this **regular** expression '.\*appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).\*'
+  - Expandables- total number of expands/collapses on collapsible controls using this **regular** expression '.\*appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).\*'
+  - File Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-pay'
+  - Mileage Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-mileage'
+  - Vehicle Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-vehicle'
+  - Address Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-address'
+  - Review Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-check-in/travel-review'
 
-  ## Pre-Check-in
-  - [PCI Pre-Check-in Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A)
-  - Tabs
-    - Pageviews - total number of pageview for pages that match this **regular** expression '.\*appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin|complete).\*'
-    - Details Pageviews - total number of pagesview for the completion page specifically (needed because of appended UUID) using this **regular** expression '.\*appointment-pre-check-in/appointment-details.\*'
-    - Expandables- total number of expands/collapses on collapsible controls using this **regular** expression '.\*appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin|complete).\*'
-    - Intro Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/introduction'
-    - Contact Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/contact-information'
-    - EC Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/emergency-contact'
-    - NOK Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/next-of-kin'
+## Pre-Check-in
+- [PCI Pre-Check-in Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A)
+- Tabs
+  - Pageviews - total number of pageview for pages that match this **regular** expression '.\*appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin|complete).\*'
+  - Details Pageviews - total number of pagesview for the completion page specifically (needed because of appended UUID) using this **regular** expression '.\*appointment-pre-check-in/appointment-details.\*'
+  - Expandables- total number of expands/collapses on collapsible controls using this **regular** expression '.\*appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin|complete).\*'
+  - Intro Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/introduction'
+  - Contact Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/contact-information'
+  - EC Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/emergency-contact'
+  - NOK Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'appointment-pre-check-in/next-of-kin'
 
-
-
-  ## OH Travel
-  - [OH Travel Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/iAXzqTMmQUCANjIKJbm3pA)
-  - Tabs & their regular expression filter
-    - Pageviews - total number of pageview for pages that match this **regular** expression '.\*my-health/appointment-travel-claim/(verify|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-review|travel-agreement).\*'
-    - Complete Pageviews - total number of pagesview for the completion page specifically (needed because of appended UUID) using this **regular** expression '.\*my-health/appointment-travel-claim/complete.\*'
-    - Expandables- total number of expands/collapses on collapsible controls using this **regular** expression '.\*my-health/appointment-travel-claim/(verify|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-review|travel-agreement|complete).\*'
-    - File Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'my-health/appointment-travel-claim/travel-pay'
-    - Mileage Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'my-health/appointment-travel-claim/travel-mileage'
-    - Vehicle Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'my-health/appointment-travel-claim/travel-vehicle'
-    - Address Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'my-health/appointment-travel-claim/travel-address'
-    - Review Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression '.*my-health/appointment-travel-claim/travel-review'
+## OH Travel
+- [OH Travel Metrics GA4 Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/iAXzqTMmQUCANjIKJbm3pA)
+- Tabs & their regular expression filter
+  - Pageviews - total number of pageview for pages that match this **regular** expression '.\*my-health/appointment-travel-claim/(verify|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-review|travel-agreement).\*'
+  - Complete Pageviews - total number of pagesview for the completion page specifically (needed because of appended UUID) using this **regular** expression '.\*my-health/appointment-travel-claim/complete.\*'
+  - Expandables- total number of expands/collapses on collapsible controls using this **regular** expression '.\*my-health/appointment-travel-claim/(verify|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-review|travel-agreement|complete).\*'
+  - File Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'my-health/appointment-travel-claim/travel-pay'
+  - Mileage Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'my-health/appointment-travel-claim/travel-mileage'
+  - Vehicle Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'my-health/appointment-travel-claim/travel-vehicle'
+  - Address Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression 'my-health/appointment-travel-claim/travel-address'
+  - Review Buttons - total number of button clicks for the "Have you arrived..." page using this **contains** expression '.*my-health/appointment-travel-claim/travel-review'
    
 ## PCI Funnels
 - [PCI & OH Travel Funnels](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8tsu4m2kR5eLtCmD9xzRcA)
 - Check-in Funnel Steps
-  - Step 1: Verify
-  - Step 2: Arrived?
-  - Step 3: Contact Info?
-  - Step 4: EC Info?
-  - Step 5: NOK Info?
-  - Step 6: Check in
-  - Step 7: Complete  
+  - Step 1: Verify - /health-care/appointment-check-in/verify
+  - Step 2: Arrived? - /health-care/appointment-check-in/arrived
+  - Step 3: Contact Info? - /health-care/appointment-check-in/contact-information
+  - Step 4: EC Info? - /health-care/appointment-check-in/emergency-contact
+  - Step 5: NOK Info? - /health-care/appointment-check-in/next-of-kin
+  - Step 6: Check in - /health-care/appointment-check-in/details
+  - Step 7: Complete - /health-care/appointment-check-in/complete
 - Check-in with Travel Funnel Steps
-  - Step 1: Verify
-  - Step 2: Arrived?
+  - Step 1: Verify - /health-care/appointment-check-in/verify
+  - Step 2: Arrived? - /health-care/appointment-check-in/arrived
   - Step 3: Contact Info? (any of the 3 contact info questions)
-  - Step 4: File Claim?
-  - Step 5: Mileage Only?
-  - Step 6: Own Vehicle
-  - Step 7: Own Address?
-  - Step 8: Review Claim
-  - Step 9: Check in
-  - Step 10: Complete  
+    - /health-care/appointment-check-in/contact-information
+    - /health-care/appointment-check-in/emergency-contact
+    - /health-care/appointment-check-in/next-of-kin
+  - Step 4: File Claim? - /health-care/appointment-check-in/travel-pay
+  - Step 5: Mileage Only? - /health-care/appointment-check-in/travel-mileage
+  - Step 6: Own Vehicle - /health-care/appointment-check-in/travel-vehicle
+  - Step 7: Own Address? - /health-care/appointment-check-in/travel-address
+  - Step 8: Review Claim - /health-care/appointment-check-in/travel-review
+  - Step 9: Check in - /health-care/appointment-check-in/details
+  - Step 10: Complete - /health-care/appointment-check-in/complete
 - Pre-Check-in Funnel Steps
-  - Step 1: Verify
-  - Step 2: Landing Page
-  - Step 3: Contact Info? 
-  - Step 4: EC Info?
-  - Step 5: NOK Info?  
-  - Step 6: Complete  
+  - Step 1: Verify - /health-care/appointment-pre-check-in/verify
+  - Step 2: Landing Page - /health-care/appointment-pre-check-in/introduction
+  - Step 3: Contact Info? - /health-care/appointment-pre-check-in/contact-information
+  - Step 4: EC Info? - /health-care/appointment-pre-check-in/emergency-contact
+  - Step 5: NOK Info? - /health-care/appointment-pre-check-in/next-of-kin
+  - Step 6: Complete - /health-care/appointment-pre-check-in/complete
 - **DRAFT** OH Travel Funnel Steps
-  - Step 1: Verify 
-  - Step 2: File Claim?
-  - Step 3: Mileage Only?
-  - Step 4: Own Vehicle
-  - Step 5: Own Address?
-  - Step 6: Review Claim
-  - Step 7: Complete  
+  - Step 1: Verify - /my-health/appointment-travel-claim/verify
+  - Step 2: File Claim? - /my-health/appointment-travel-claim/travel-pay
+  - Step 3: Mileage Only? - /my-health/appointment-travel-claim/travel-mileage
+  - Step 4: Own Vehicle - /my-health/appointment-travel-claim/travel-vehicle
+  - Step 5: Own Address? - /my-health/appointment-travel-claim/travel-address
+  - Step 6: Review Claim - /my-health/appointment-travel-claim/travel-review
+  - Step 7: Complete - /my-health/appointment-travel-claim/travel-agreement
+
    
 
