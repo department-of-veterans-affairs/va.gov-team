@@ -79,6 +79,7 @@ Additionally, we bet that this focus on learning from failure will motivate team
 * Improvement in the specificity and relevance of success/failure metrics defined for new initiatives
 * Increase in the use of data analysis tools and techniques across teams
 * Number of product decisions or pivots directly attributed to learnings from failure discussions
+* Creation of leadership dashboards used to make decisions, not just report results. 
 
 ## Open Questions
 
