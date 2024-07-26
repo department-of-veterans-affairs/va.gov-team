@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 11, 2024
+Last updated by @tygindraux: July 25, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -50,7 +50,7 @@ This research will help us document and prioritize any bugs or usability issues 
 * Can Veterans understand their progress through the form without visual cues?
 * Should the progress bar heading be the first element in focus within the form?
 * Are there any inconsistencies during the journey that present confusion?
-* Do Veterans who use screen readers or magnification feel they can ask a question without the support of another person?
+* Do Veterans who use assistive technology feel they can ask a question without the support of another person?
 * Does Ask VA need to change or evolve to offer an equitable experience? If so, how?
 
 ### Hypotheses
@@ -58,21 +58,20 @@ This research will help us document and prioritize any bugs or usability issues 
 1. Veterans will think headers, labels and links are descriptive and clear.
 2. Veterans will be able to interact with all elements using only their keyboards or other devices.
 4. Veterans will be oriented and still able to use the form when magnified.
-5. Veteranss will understand that information has been pre-filled from 'their' account and know how to update it.
+5. Veterans will understand that information has been pre-filled from 'their' account and know how to update it.
 6. Veterans will understand their progress in the form with or without visual cues.
 7. Sign in will be a barrier for some Veterans using a screen reader or magnification.
 
 ## Methodology
 
-We will run a moderated usability study remotely on Zoom. We will test in staging using test user accounts.
-
-After each user, we will reset test user account passwords following [this guidance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76960).
+We will run a moderated usability study remotely on Zoom. We will test in staging using test user accounts. 
 
 ### Research materials
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Conversation%20guide.md)
-* [Staging link](https://staging.va.gov/contact-us/ask-va-too/introduction)
-* [How to reset test user account passwords](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76960)
+* [Staging link](https://staging.va.gov/contact-us/ask-va-too/)
+* [How to create a new test user account](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1218)
+* [List of test user accounts created for this study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md)
 	
 ## Recruitment	
 
@@ -89,7 +88,7 @@ We request that Perigean:
 
 > Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
 >
-> How would you prefer to receive a link to the prototype during the session? By email, text or through Zoom?
+> How would you prefer to receive a link to the prototype during the session? By email, through Zoom chat or dictated aloud?
 >
 > On the call, we’ll have an accessibility specialist with us. Are there any other accommodations that would be helpful during your session?
 >
@@ -266,16 +265,16 @@ We will have 3 pilot sessions and/or asynchronous reviews with CAIA.
 Here is our [CAIA research support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87480).
 
 **Pilot 1: Desktop with screen reader**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+- Pilot participant: Jamie, CAIA (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: August 1, 2024 at 12:00pm EST
 
 **Pilot 2: Mobile with screen reader**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+- Pilot participant: Riley, CAIA (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: August 1, 2024 at 2:00pm EST
 
-**Pilot 3: Desktop with alternative navigation**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+**Pilot 3: Desktop with alternative navigation: MacOS Voice Command**
+- Pilot participant: Jamie, CAIA (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: August 2, 2024 at 3:00pm EST
 
 ## Research sessions
 

@@ -36,4 +36,4 @@ This experience is available at https://www.va.gov/get-help-from-accredited-repr
       6. Email 🆕
 3. Include transparency around data accuracy 🆕
    1. Alert above search results
-   2. Report Outdated Information feature
+   2. ~Report Outdated Information feature~ _This feature was [removed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/decision-change-log-find-a-representative.md) on 7/25/2024_

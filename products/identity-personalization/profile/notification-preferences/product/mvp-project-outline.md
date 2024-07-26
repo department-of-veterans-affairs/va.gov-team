@@ -125,7 +125,7 @@ Please see the [communications preferences MVP doc](https://github.com/departmen
 
 ## Product Decisions
 
-- [UX specific decision doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/notifications/notification-preferences/design/notifications-ux-decisions.md)
+- [UX specific decision doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/design/notifications-ux-decisions.md)
 
 ## How to Access and Test
 - [Staging](https://staging.va.gov/profile/notifications)

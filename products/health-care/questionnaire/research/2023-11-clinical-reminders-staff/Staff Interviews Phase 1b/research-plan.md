@@ -1,4 +1,4 @@
-# 2024-04 Research Plan for Health Questionnaire, Clinical Reminders Pilot - Staff Interviews: Pase 1b.
+# 2024-04 Research Plan for Health Questionnaire, Clinical Reminders Pilot - Staff Interviews: Phase 1b.
 
 “The Clinical Reminder system helps caregivers deliver higher quality care to patients for both preventive health care and management of chronic conditions, and helps ensure that timely clinical interventions are initiated.
 

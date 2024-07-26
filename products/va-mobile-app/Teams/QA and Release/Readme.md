@@ -1,5 +1,8 @@
 # Overview | VA Mobile App Test Plan
 
+Quality Assurance, Accessibility, and Release Management (DevOps) 
+
+
 ## QA Documentation 
 Documentation can be found both within this QA and Release Github Folder and also on [QA page of the mobile documentation site](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/).
 
@@ -36,6 +39,7 @@ Starting Q2 2024 - 30% of Qarts capacity is being withheld specifically for Qart
 | Release Testing | Tom Gammons |
 | Dev Ops | Charnelle Domguia |
 | QART PM | Adam Kamsiser | 
+| Accessibilty | Brea Blackwelder |
 
 
 ![mobile-testing_service](https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/a1ab628a-4e15-4b1c-bbf1-2fdf169a8322)

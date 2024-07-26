@@ -22,7 +22,7 @@ All requests will be refined and planned according to other team priorities, so 
 [Public Websites Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard?refresh_mode=sliding&from_ts=1698247139212&to_ts=1698250739212&live=true)
 Monitors for each product are described within product folders. e.g. 
 * [Find a Form monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md)
-* [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/engineering)
+* [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md)
 * Header (incl megamenu) and Footer, and
 * [Injected Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md)
 * [VA.gov search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/engineering/monitoring.md)
@@ -44,7 +44,7 @@ Monitors for each product are described within product folders. e.g.
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | . |
 | [VA.gov Homepage](#vagov-homepage) | [Unauthed React healthcare widgets](#unauthed-react-widgets) | . |
-| [Promo Banner](#promo-banner) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) |  .  |
+| [Promo Banner](#promo-banner) | . |  .  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
@@ -100,6 +100,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 </details>
 
 ## Changelog
+* 07/2024: Design System team now owns the Veterans Crisis Line modal as a component: https://dsva.slack.com/archives/C06V7AAFVH7/p1721850350022329?thread_ts=1720203529.734199&cid=C06V7AAFVH7
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
 * 11/2023: [Breadcrumbs](#breadcrumbs) - Transitioned to CMS team as of Q4 2024, as a result of Accelerated Publishing work to manage Breadcrumbs for CMS-related content fully within the CMS
 * 11/2023: [Shadow / dark launches of content](#shadow--dark-launches-of-content) - Transitioned to CMS team for long term ownership. Docs will be removed from this page, TBD a new future home for CMS product docs.
@@ -755,12 +756,6 @@ The homepage includes links to key traffic areas of the site. These links are re
 * 2022 Top Tasks moderated research/info: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md)
 * [VFS Product Directory: VA.gov Homepage](https://depo-platform-documentation.scrollhelp.site/getting-started/va-gov-homepage)
 
-
-## Veterans Crisis Line modal
-
-The Veterans Crisis Line is a critical feature of VA.gov. Public Websites supports it via the modal included in the global header. Most defects related to this modal functioning correctly (open, close, clickable CTAs, etc) are urgent priority.
-
-![3](https://user-images.githubusercontent.com/85581471/186541162-283bd768-1af2-420c-b6ae-ac80047500a3.png)
 
 ---
 

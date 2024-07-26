@@ -2,7 +2,9 @@
 
 ## Description
 
-Used to get the tokens associated with a user's session. This guide is divided into three sections, one for each of the different SiS auth flows that all use `/token` to request sesion tokens.
+Used to get the tokens associated with a user's session. This guide is divided into two sections, one each for PKCE and Private Key JWT flows.
+
+The `/token` endpoint is also used to obtain Service Account tokens, the instructions for that usage can be found in the [Service Account Auth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/endpoints/token.md).
 
 ## Token Endpoint - POST
 

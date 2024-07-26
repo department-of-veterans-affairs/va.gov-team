@@ -1,5 +1,13 @@
 # Running Agenda for IVC Forms Production Readiness Sync
 
+# 2024-07-23
+## Agenda
+- Test email changes
+- Overall form testing
+- Add User Identity tracking to other forms like 10-10D for DD
+
+## Notes
+
 # 2024-07-09
 ## Agenda
 - Extensions that aren't .PDF are missing from file_names in the IvcChampvaForm data table.

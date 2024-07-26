@@ -22,7 +22,15 @@ Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)),
 
 The VA Flagship mobile app was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes).
 
-Quantitative data analysis indicates that users who initially download the app do not actively use the app over time, and [research participants have also reported that they download the app to see if it can help them (but then don’t use it regularly)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings). The VA Flagship mobile app team believes that bringing personalized content to the VA mobile app’s home screen will help new and current app users understand and find value in the app that they aren’t discovering now, help app users keep up with and manage their current interactions across VA, and ultimately help address the dip in retention we’re seeing.
+Quantitative data analysis indicates that users who initially download the app do not actively use the app over time, and [research participants have also reported that they download the app to see if it can help them but then don’t use it regularly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) and/or don’t have time to go through the app’s functionality. 
+
+The team believes that because Veterans lack the time to explore the app, the mobile app’s one-size-fits-all approach limits the app’s perceived value. In particular:
+* Veterans don’t have a way to get a quick overview of what VA is doing for them now or that something is needed from them in order to keep things moving.
+* Veteran expectations and understanding of what they think they can do in the mobile app are limited and often inaccurate (they want something to help them, and to know if the app is that thing).
+* As the app adds more functionality or a Veteran gets more benefits from VA, Veterans have to do more work to complete tasks and find information related to them.
+
+
+The VA Flagship mobile app team believes that bringing personalized content to the VA mobile app’s home screen will help new and current app users keep up with and manage their interactions across VA and find value in the app that they aren’t discovering now.
 
 See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md)
 
@@ -72,8 +80,6 @@ Fulfills issue [#2160](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc7
 
 
 #### Primary:
-
-
 
 * Understand if/how the personalized home screen design impacts participant comprehension of what the VA mobile app can do (in general, and for them specifically). ([*project success metric*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md#metrics))
 * Understand if/how the personalized home screen design impacts participant perception of the app’s current and future value. ([*project success metric*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md#metrics))
@@ -134,11 +140,11 @@ Because of the potential variability of the modules within the Activity section,
 
 1. Upon seeing the personalized VA mobile app home screen, participants will demonstrate that they understand what the VA mobile app can do (help users keep up with and manage interactions across VA).
 
-    **True.** Based on first impressions of the contents of the new personalized home screen—participants who were current users as well as non-users of the app demonstrated that they understood what the mobile app can do. When asked, they described the app using similar terms that participants have used to describe it in previous studies: ”All of the stuff that is important... in one place," "Streamlined & simple," and "Quick & convenient access.” One participant described the app as “an assistant” that would give her “highlights of what's coming up”.
+    **True.** Based on first impressions of the contents of the new personalized home screen, participants who were current users as well as non-users of the app demonstrated that they understood what the mobile app can do. When asked, they described the app using similar terms that participants have used to describe it in previous studies: ”All of the stuff that is important... in one place," "Streamlined & simple," and "Quick & convenient access.” One participant described the app as “an assistant” that would give her “highlights of what's coming up”.
 
 2. Participants will be able to imagine and describe how the app will help them with the tasks they currently use in the app and in their life.
 
-    **True.** When prompted, all participants were able to describe a situation in their life where they imagined they could use the VA mobile app home screen to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task.
+    **True.** When prompted, all participants were able to describe a situation in their life where they imagined they could use the VA mobile app home screen to help them: to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task.
 
 3. Participants will understand that the personalized home screen modules contain high-level data from their in-flight tasks, and may describe it as being helpful in keeping up with their tasks.
 
@@ -164,7 +170,7 @@ Because of the potential variability of the modules within the Activity section,
 
 
 ## Key Findings
-1. Participants demonstrated that they understood what the mobile can do and were able to describe a situation in their life where they imagined they could use the VA mobile app home screen to help.
+1. Participants demonstrated that they understood what the VA mobile app can do and were able to describe a specific situation in their life where they imagined they could use the VA mobile app home screen to help them.
 
 2. All participants recognized that the Activity modules on the home screen displayed their personalized information and seemed to understand that the description text on each module indicated that something that was “in-flight,” however, not all participants described the presence of the Activity module itself as indicating that something was an “in-flight task.”
 
@@ -220,7 +226,12 @@ The first 3 descriptions are consistent with those mentioned by Veterans during 
 
 All participants said that they thought the personalized home screen would be helpful to them in their life, and were able to give at least one example of a thing in their life that it would help them do. 
 
-When asked to imagine how they might use the homescreen of the app to help them with something in their life, participants described using the home screen as the entry point to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task. 7/8 of the examples are currently possible in the home screen MVP, 1 example (access to benefit letters) is not.  Some participants also suggested tasks that are included in the home screen MVP scope but were not present on their home screen during the session. 
+When asked to imagine how they might use the homescreen of the app to help them with something in their life, participants described using the home screen as the entry point to:
+* give them access to a specific task (12 participants)
+* be _reminded_ (but not _notified_)* of an outstanding task (4 participants)
+* use the information on the home screen itself to accomplish a task (3 participants)
+
+*_All of the participants who described using the home screen to remind them of an outstanding task also described being initially notified by VA about that task using email, SMS, or push, and using the home screen as a backup._
  
 **Example tasks are listed from most to least mentioned:**
 
@@ -244,9 +255,12 @@ When asked to imagine how they might use the homescreen of the app to help them 
 7. (1) Access to disability rating to quickly fill out forms*
       >  “Because I need to see my disability rating and monthly payment quickly to fill out forms” P5
 8. (1) Providing proof of Veteran status*
-      >  “Somebody wants to see proof that you are a veteran; or things that require specific percentages of disability - "right there, bright as day" P4
+      >  “Somebody wants to see proof that you are a veteran; or things that require specific percentages of disability - "right there, bright as day" P4  
 
-#### 3. Do participants **understand** **what the modules on the home screen are (mental model)** and **find value in the high-level data** being displayed within the modules? 
+      7/8 of the examples are currently possible in the home screen MVP, 1 example (access to benefit letters) is not.  Some participants also suggested tasks that are included in the home screen MVP scope but were not present on their home screen during the session. 
+   
+
+#### 3. Do participants **understand what the modules on the home screen are (mental model)** and **find value in the high-level data** being displayed within the modules? 
 
 The home screen contains two primary sections, the Activity section (containing feature modules) and About you (containing the user’s branch of service, proof of Veteran status, disability rating and monthly payment. Findings are reported by section.  
 
@@ -257,11 +271,13 @@ The home screen contains two primary sections, the Activity section (containing 
 
 * When asked to describe what the list of Activity modules "are," participants described the the section in two different ways, and had corresponding expectations about how they expected the Activity modules to behave in situations when there was no data to display: 
 
-  * 8/13 participants described the Activity section as containing “Active/pending” items (and expected a conditional appearance—the module would disappear if there was not an active item)
+  * 8/13 participants described the Activity section as containing “**Active/pending**” items (and expected a conditional appearance—the module would disappear if there was not an active item)
      * 5 of the participants who described the Activity sections as active/pending items also described the modules as a "shortcut" and/or the category screen entry point as "the long way."
-  * 5/13 participants described the Activity section as containing “Most used items/top stuff” (and expected a fixed appearance—the module would show a number when active and a "0" or a blank space when there was no data to display).
+  * 5/13 participants described the Activity section as containing “**Most used items/top stuff**” (and expected a fixed appearance—the module would show a number when active and a "0" or a blank space when there was no data to display).
 
-   When asked what (if any) other items they thought would be helpful to include in the Activity area, participants also expected to see:
+  Participants who reported being users of MyVA (5/7) and the VA mobile app (6/8) more frequently described the Activity section as "things that are active/pending" than as "most used/top stuff."
+
+*  When asked what (if any) other items they thought would be helpful to include in the Activity area, participants also expected to see:
    * (5) Appointments*
    * (3) Messages from their provider*
    * (2) Payments (due)
@@ -309,20 +325,20 @@ Participants thought it was helpful to have access to features from the home scr
 
   * 5 participants said they wouldn't change anything about the information displayed
   * 3 participants felt it would be useful to see more information: 
-        * 1 mentioned tracking information for prescriptions in transit
-        * 2 thought reminders that a prescription was about to run out would be useful: 
-          >   "Instead of '9 ready to refill', maybe... wish there was a way or a reminder.. a "due soon" kind of thing... I wish it would make it clear which ones I would run out of soon." P1
+    * 1 mentioned tracking information for prescriptions in transit
+    * 2 thought reminders that a prescription was about to run out would be useful: 
+      >   "Instead of '9 ready to refill', maybe... wish there was a way or a reminder.. a "due soon" kind of thing... I wish it would make it clear which ones I would run out of soon." P1
 
 * **Appointments:**  
 
   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Appointments.png" width="300" alt="VA mobile app - personalized home screen, Appointments module">  
 
   * 7/8 participants who saw the Appointments module said that the "next 7 days” time period was too short, but not all participants agreed on the best length of time:
-        * 5 participants specifically suggested that it would be more useful for planning purposes to see the next 30 days of appointments:
-          >  "If I don't check weekly, I won't know when the next one is coming up." P2 
-        * 1 participant disagreed: 
-          >   "I think a month is too much, but two weeks would be better." P16
-  * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
+    * 5 participants specifically suggested that it would be more useful for planning purposes to see the next 30 days of appointments:  
+      >   "If I don't check weekly, I won't know when the next one is coming up." P2  
+    * 1 participant disagreed:  
+      >   "I think a month is too much, but two weeks would be better." P16  
+  * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8  
 
 *  **Secure message:**  
 
@@ -607,28 +623,27 @@ Task prompt: Find out if you have received a message from your doctor.
     * All participants found their way back to the home screen after tapping through to view screens associated with a task.
     * When navigating to category screens from home after having already visited a feature within that category, several participants were surprised the navigation stack held their place when they returned to a category. 
 * **Task notifications:**
-    * About half of participants described receiving (and using) various forms of communications from VA to keep up with their tasks: email (4), SMS (3), and push notifications (1).
+    * 5/13 participants described receiving (and using) various forms of communications from VA to keep up with their tasks: email (4), SMS (3), and push notifications (2).
 * **Dark mode:** The majority of participants we spoke with had their phone set to dark mode.
 
 
 ## Recommendations and Next Steps
 
-* **Activity section:**
+1. **Appointments Activity module:**
+    * Extend the 7-day date range in the module’s description text to 30 days, to better match participant expectations. 
+2.  **Prescriptions Activity module:**
+    * Explore how to address the gap in participant expectations between the module’s description text “[#] available to refill” and the module’s destination (the full, unfiltered list of active prescriptions).
+    * Consider exploring ways to increase the usefulness of the module’s description text.
+3.  **Claims Activity module:**
+    * Consider exploring ways to increase the usefulness of the module’s description text.
+4. **Proof of Veteran status:**
+    * Explore how to ensure that users who are eligible have access to Proof of Veteran status see it on their homescreens.
+5. **Follow up research:**
     * Given that there was some variation in how participants expected the Activity section to indicate that they had an item that was “in flight,” we recommend monitoring qualitative proxy sources and quantitative data for indicators related to the usability over time of the conditional display logic of the Activity section.
-* **Prescriptions:**
-    * Consider exploring how to address the gap in participant expectations between the module’s description text “[#] available to refill” and the module’s destination (the full, unfiltered list of active prescriptions).
-    * Consider exploring ways to increase the usefulness of the module’s description text.
-* **Appointments:**
-    * Consider extending the 7-day date range in the module’s description text to better match participant expectations. 
-* **Claims:**
-    * Consider exploring ways to increase the usefulness of the module’s description text.
-* **Proof of Veteran status:**
-    * Consider exploring how to ensure that users who are eligible have access to Proof of Veteran status see it on their homescreens.
-* **Follow up research:**
+    * Monitor engagement metrics over time to assess impact of personalized home screen
     * Conduct a future evaluative study of the personalized home screen with screen reader users.
     * Consider conducting a follow up study with former users of the app to determine if the personalized home screen 
 has made an impact on their perception of value.
-    * Monitor engagement metrics over time to assess impact of personalized home screen
 
 
 

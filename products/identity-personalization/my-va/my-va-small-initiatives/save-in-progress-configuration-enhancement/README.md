@@ -1,12 +1,12 @@
 # Project outline: Save in Progress (SiP) Configuration Enhancement
 
-**Last updated: June 14, 2024 - refined problem and solution to better explain our approach**
+**Last updated: July 16, 2024 - updated development epic and key dates**
 
 ### Communications
 
 - **GitHub Label**: authenticated-exp; my-va-dashboard
 - **Slack channel**: accountexp-authexp
-- **Development Epic**: [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)
+- **Development Epic**: [#88437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88437)
 - **Collab Cycle Epic**: [#81670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81670)
 
 ### Roles
@@ -92,7 +92,8 @@ Reduced inquiries from teams unable to determine why their draft forms are not s
 
 - Technical Discovery: October 2023
 - Formal kick-off: April 2024
-- ..
+- Privacy, Security Infrastructure Readiness Review approval: June 28, 2024
+- Launched to production: July 12, 2024
    
 ## Screenshots
 Not applicable: There will not be any visual changes to My VA when this work is complete.

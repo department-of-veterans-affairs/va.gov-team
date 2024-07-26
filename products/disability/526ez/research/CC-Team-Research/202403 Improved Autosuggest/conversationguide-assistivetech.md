@@ -1,195 +1,358 @@
-### **Improved Autosuggest Component Draft Conversation Guide (updated Mar 26, 2024)**
+# Moderator Logistics<a id="moderator-logistics"></a>
 
-# Moderator Logistics
+## 2-3 days before the session<a id="2-3-days-before-the-session"></a>
 
-## 2-3 days before the session
-
-### **- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
 
 - Complete any project-specific setup tasks for this study
 
-  - Review how zoom looks on [mobile/mac/pc](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist) in case they need assistance during session**
+  - Review how zoom looks on [mobile/mac/pc](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist)/iPad in case they need assistance during session
 
-## Day of the session
 
-### **- Use **update** in Slack for real-time feedback from observers. 
+## Day of the session<a id="day-of-the-session"></a>
 
-- Start a thread for the session, add the zoom link, and @ anyone joining the call. 
+- [ ] Select which test user you are going to use 
 
-- Mute notifications**
+- [ ] Test out signing in with the test user. Ensure that when navigating through the application it starts on Step 2: New Conditions 
 
-## Zoom setup 
+  - [ ] If there are any conditions already saved, delete all conditions 
 
-### Login to Perigean Zoom account (zoom **update)*** Go to <https://zoom.us/> and ensure you enter using a Google Chrome Web browser
+  - [ ] Do this with another test user account as a backup option
 
-  - Email address to enter is:  dsvafive\@gmail.com
+- [ ] Start a thread for the session in #feedback-backchannel, add the zoom link, and @ anyone joining the call. 
 
-  - Password to enter is: OCTOZoom6!!
+- [ ] Mute notifications
 
-* Once logged in you will come to the main account page
 
-  - At the top of the page, click meetings
+## Zoom setup <a id="zoom-setup"></a>
 
-  - Select the session which will be taking place
+Login to Perigean Zoom account (make sure your Zoom is updated**)**
 
-  - When ready to start the session, click start on the right-hand sideZoom logistics* Make Sudeepti/Eva co-host (if you are the moderator)
+- [ ] Go to <https://zoom.us/> and ensure you enter using a Google Chrome Web browser
 
-  - In participants panel
+  - [ ] \- Email address to enter is: **brianmoonperigeantechnologies\@gmail.com**
 
-* In the Attendees section, make sure everyone except the participant is on mute.
+  - [ ] \- Password to enter is: **OCTOZoom1!!**
 
-* In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+  - [ ] **\*Ensure that you are recording to the account cloud\***
 
-* Check your \[screen sharing setup] and share permissions for participants.
+- [ ] Once logged in you will come to the main account page
 
-* Turn on captions/transcript (select **"view full transcript"**); exit out of transcript view.***|                        |              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ---------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **SECTION**            | **TIME**     | **CONVERSATION GUIDE**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| INTRO                  | 5 MIN        | Thanks for joining us today! My name is \[NAME] and \[NOTETAKER NAME] is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, let me tell you about what we will be doing.My colleagues and I work on va.gov - making improvements to the site so that Veterans can submit claims and get benefits as quickly as possible. By talking to Veterans like you, we hope to better understand how we can help Veterans submit a strong claim. Before we start, I want to confirm some information with you: - Do you use assistive technology (screen magnifier or screen reader) 
+  - [ ] At the top of the page, click meetings
 
-- Which device do you use? 
+  - [ ] Select the session which will be taking place
 
-- Are you able to use it for this study? \[if no to any of these questions, end the study] I have a few things that I want to go over with you:- We have an accessibility expert on this call in case we need any support 
+  - [ ] When ready to start the session, click start on the right-hand side
 
-- This entire session should take about 45 \[for screen magnifier] and 90 \[for screen reader] minutes. I want to be sure to end on time, so I may occasionally prompt you with the next question or topic.
+Zoom logistics
 
-- In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- [ ] Make Sudeepti/Eva co-host (if you are the moderator) in the participants panel
 
-- If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.
+- [ ] In the Attendees section, make sure everyone except the participant is on mute.
 
-- Perigean did ask for your consent to allow some other folks to listen in, but I want to be sure before we get going. Are you okay with a couple of additional people listening in during this session?
+- [ ] In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 
-  - _If no:_ Use Slack to kindly ask the observers to leave the Zoom.
+- [ ] Check your \[screen sharing setup] and share permissions for participants.
 
-  - _If yes:_ Admit observers.
+- [ ] Turn on captions/transcript (select **"view full transcript"**); exit out of transcript view.
 
-  - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
+## Intro - 5 Minutes
+Thanks for joining us today! My name is \[NAME] and \[NOTETAKER NAME] is taking notes. I also have a couple of other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, let me tell you what we will do.
 
-  - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+My colleagues and I work on va.gov, improving the site so that Veterans can submit claims and get benefits as quickly as possible. We hope to improve the process by talking to veterans like you.  
 
-- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+Before we start, I want to confirm some information with you: 
 
-  - _If yes_: Once I start recording, I am going to confirm that you are okay with me recording this session once more.
+- Do you use assistive technology (screen magnifier or screen reader) 
 
-  - _Moderator starts recording. (_**\*Ensure that you are recording to the account cloud\*)**
+- Are you using the tech right now? 
 
-  - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?                                                                |
-| WARM UP                | 5 MIN        | Today we're going to be part of the online disability claim form and asking you to imagine you are filling out the form Before we look at the website, let’s start with a few background questions.- Talk to me about your past experience with disability benefits at the VA 
+  - What’s the type of AT and program you are using (ex. Screen reader, JAWS) 
 
-- Could you tell me about any disability benefits you are receiving from the VA at this time? 
+  - What type of device and operating system  (mobile/desktop/tablet on Android/windows/mac) 
 
-  - _If they are getting disability compensation from the VA right now, ask:_
+- Will you be using it for this study? \[if no to any of these questions, say “I’m sorry but unfortunately, you do not qualify for this study. Thank you for your time, but we will be ending this study. End the study] 
 
-    - About how many conditions are you receiving benefits for?
+Great, we are good to continue. I have a few things that I want to go over with you:
 
-    - Do you recall how you filed claims in the past (online or by mail)? 
+- We have an accessibility expert on this call in case we need any support 
 
-    - Are you in the process of, or considering filing any new disability claims in the near future? How do you intend to file the claims (online or by mail)?
+- This entire session should take about 60 \[for screen magnifier] and 90 \[for screen reader] minutes. 
 
-  - _If they are not getting disability compensation from the VA right now, ask:_
+- **In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback**
 
-    - Have you filed any claims previously? If so, what was the outcome of the claim? How did you file the claims (online or by mail)? 
+- If you want to stop the session for any reason or at any time, please let me know. You'll be compensated no matter how much of it we complete.
+  #### Observer consent
 
-    - Are you in the process of, or considering filing any new disability claims in the near future? How do you intend to file the claims (online or by mail)?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| TRANSITIONTO PROTOTYPE | 5 MIN        | Great! Now let’s get into evaluating the website. We’re going to go through a few different scenarios. I’m going to ask you to think of your own situation as you move through and answer the questions. If you don’t want to do that, then I will provide a hypothetical situation instead that you can use to answer. Are you comfortable thinking about your own situation for this exercise? I’d like you to walk us through what you would do on this prototype. Please think aloud as much as you can while you are walking us through this process. And we’re not in a hurry, so take as much time as you would if you were actually doing this for yourself. - _\[If they have filed previously (but do not have current plans in the near future:]_ 
+- Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple of additional observers during this session?
+   - `IF NO` use Slack to kindly ask the observers to leave the Zoom.
+   - `IF YES:` Admit observers and ask them to turn on cameras and briefly introduce themselves, then turn cameras back off to save bandwidth
 
-  - You mentioned before that you have filed for a disability claim in the past. I’d like you to go back in time and imagine that you are filling out the form for that disability claim for the very first time. You’ve come to the VA website today and have started filling out the form. You have come to the screen where you are asked to specify the condition or conditions that you are filing for. 
+  #### Recording consent
+- Are you comfortable if I record my screen and audio as we talk today?
+   - `IF YES`: 
+     - We use the recordings to confirm that we have captured your opinions accurately. 
+     - The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly. 
+     - Once I start recording, I am going to confirm that you are ok with me recording this session once more.  
+   - `IF NO`: 
+      - I understand, and that's no problem. We'll just take notes for today's session.
 
-- _\[If they are planning to file a new claim in the near future:]_
+*Start recording.*
+ - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+ - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
 
-  - You mentioned before that you are considering filing a new disability claim in the near future. I’d like you to imagine that you are ready to fill out the new disability claim. You’ve come to the VA website today and have started filling out the form. You have come to the screen where you are asked to specify the condition or conditions that you are filing for. Before I send you the link to the prototype, please share your screen so we can see what you’re doing. If you have tabs you don’t want to show, you can close them before you share. _Wait for screen sharing to work (instructions for_ [_iphone_](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share) _and_ [_Android_](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share) _if participant is having trouble)._ Screen 1 - Start_Instructions on the prototype_- _You are ready to start filling out the form for a new disability claim, and you’ve come to the VA website today to get started._ 
+## Warm up:
+Today we're going to be evaluating a website. 
 
-- _You are now in the middle of the application, on a page where you specify the conditions you’d like to file for._ 
+Before we look at the website, I’d like to start with a few background questions and learn more about your experience with AT. 
 
-- _Talk us through your thought process going through this page of the online application._ Do you have any questions before you start?Go ahead and click Start for Prototype Owl or Prototype Fox  __instructions for [iphone](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share) and [Android](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share) if participant is having trouble |
-| Conditions Page        | 10 MIN       | Screen 2 - Enter/select conditionTalk me through what you would do on this screen. \[Optional] _If the participant completed the exercise quickly based on their actual situation, have them repeat with the mock scenario._ Things to watch for:* General behavior of how they use the autosuggest component
+#### AT user questions
 
-  - Did they end up using a suggested condition or using free text
+- How would you rate your level of experience using a screen reader/magnifier - beginner/**i**ntermediate/advanced/expert 
 
-  - Did they understand that they can use free text
+- How long have you been using this AT?  
 
-    - If so, how much did they search before using free text
+- When or how often do you use it 
 
-    - If so, did they use free text for a condition that is in the list
+- Have you encountered any specific challenges when using AT with VA websites or forms?
 
-  - Do they scroll through the suggestions
+- Have you ever shared your screen in Zoom while using a screen reader/magnifier?
 
-    - If yes, how much did they type before they began to scroll
+Thank you for sharing that information. Next, I have a couple of questions about your experience with VA benefits.
 
-  - Did they find their condition easily or did they take time trying to decide what suggestion to go with (or whether to enter free text, or edit an existing suggestion)- Copy
+#### VA Benefit questions
 
-  - Do participants read the instructions, if so what was their interpretation of it  
+- Are you receiving any disability benefits from the VA?
 
-  - Do participants notice the accordion for top conditions, what was their interpretation of it, did they use it_Mock Scenarios_ - _You have developed bursitis in your right knee._
+`IF YES`:
+- When did you apply?
+- Do you recall how you filed claims in the past (online or by mail)?
+- How satisfied were you with the claim filing process?
+- Are you in the process of or considering filing any new disability claims in the near future?
+  - If yes, how do you intend to file the claims (online or by mail)?
+
+`IF NO`:
+
+- Have you filed any claims previously?
+- If yes:
+  - What was the outcome of the claim?
+  - How did you file the claims (online or by mail)?
+  - How satisfied were you with the claim filing process?
+- Are you in the process of or considering filing any disability claims in the near future?
+  - If yes, how do you intend to file the claims (online or by mail)?
+
+## Transition to Website
+Great! Now let’s get into evaluating the website. 
+
+Before I send you the link to the prototype, please share your screen so we can see what you’re doing. If you have tabs you don’t want to show, you can close them before you share. 
+
+_Wait for screen sharing to work (instructions for_ [_iphone_](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share) _and_ [_Android_](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share) _if participant is having trouble)._ 
+
+_SR INSTRUCTIONS: Once you’re in the share screen pop-up, we need you to tab a few times until you hear “share sound.” It’s a checkbox, and you’ll want to check that checkbox. Then, you tab until you click the “Share” button._ 
+
+- The first thing we’ll do is open your browser and go to our demo site, which will look like an exact copy of the standard VA.gov. However, we won't be able to access anything related to your regular account and benefits. The website is <https://tinyurl.com/conditiontest123> OR <https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction> 
+  
+- We’ll have you sign-in with a fake ID.me account
+> `Test 1: Username:` <vets.gov.user+152@gmail.com> 'PW:' Veteran1
+> `Test 2: Username:` <vets.gov.user+153@gmail.com> 'PW:' Veteran2
+> `Test 3: Username:` <vets.gov.user+154@gmail.com> 'PW:' Veteran3
+
+- Okay, you should now be on the disability benefits application. We’re going to skip a few pages, I'll guide you to the correct page.
+
+1. About midway through the page there is a header “Already know this is the right form”. Navigate there and then Click on “If you know VA Form… is right, apply now” 
+
+2. The page is loading
+
+3. Ok the page has loaded, now navigate to “Continue your application” button 
+
+4. The page is loading 
+
+5. Now you’re on the itent to file page, press continue. You do not need to read anything on this page. 
+
+6. Ok, now we are on the right page. 
+
+ ## Conditions Page
+ Screen 2 - Enter/select condition
+
+You have now entered the page on the disability benefits application where you input what NEW conditions you want to claim. 
+
+I’d like you to go through this website as if this is your very first time applying for disability benefits. I’m going to ask you to think of your own situation as you move through and answer the questions. If you don’t want to do that, then I will provide a hypothetical situation instead that you can use to answer. Are you comfortable thinking about your own situation for this exercise? 
+
+I’d like you to walk us through what you would do on this page. 
+
+Alright, whenever you're ready, please start exploring the page, and please think aloud as you go through it. Go ahead and do what the page is asking you to do, then I’ll give you a few more tasks and scenarios. 
+
+_Have participant enter their own conditions._ 
+
+_Mock Scenarios_ 
+
+- _You have developed bursitis in your right knee._
+
+- _Your doctor told you that you have Tonic-Clonic Seizures_
 
 - _You have inflammation in your kidneys_ 
 
-- _Your right knee bothers you on a daily basis. You tore a tendon in the knee during active service and since then the knee has never recovered fully. It is painful when you walk downhill or try to kneel or squat._ 
+* _You had surgery to have your right hip replaced_ 
 
-- _You have chronic congestion and full body aches_ 
+- _You have lost your appetite for the last six months_ 
 
-- _Your doctor told you that you have Tonic-Clonic Seizures_Questions: - What are your general impressions of this page? 
+Specific Tasks 
 
-- Was anything challenging?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| FOLLOW-UP QUESTIONS -  | **10  MIN**  | Now I’ll ask you some questions about your experience with each prototype. **General Questions**- What do you think about the list of suggestions that were displayed as you typed in? Were you able to find what you were looking for?
+- [ ] Task 1: Add a condition (based on their own or the mock scenarios)
 
-- Did you read the instructions?
+- [ ] Task 2: Add multiple conditions (based on their own or the mock scenarios)
 
-  - If yes:
+- [ ] Task 3: Edit a condition: You've realized you accidentally selected the wrong condition. You have bursitis in your left knee, not your right. How would you change that? 
 
-    - In your own words, tell us what these instructions are telling you to do. 
+- [ ] Task 4: Remove a condition: You've decided not to claim for 'bursitis in knee, left' at this time. Please remove this condition from your claim.
 
-  - If no:
+- [ ] Task 5: Test error state: Please navigate to 'add a new condition' and then try to submit without entering anything. 
 
-    - Go ahead and read the instructions now. 
+- [ ] Task 6: Scroll through suggestions: Try adding PTSD, combat-related. As you type, please scroll through the suggestions before selecting. 
 
-    - What do these instructions mean to you? 
+  - [ ] Type P, scroll through the list, and then type T, scroll through the list, and then type S. (At this point let them select PTSD) 
 
-- What would you do if you could not find your condition in the list? 
+Things to watch for:
 
-  - \[if they recognize how to enter free text] How was the experience of entering your own condition 
+Overall AT experience
 
-- What would you do if you accidentally selected the wrong condition? How would you change it? 
+- How do they navigate through the page elements?
 
-- I noticed that you….
+- Are there any areas they struggle to reach or interact with?
 
-  - if there were actions/behaviors of interest, this is our chance to follow up on them
+- Are there any noticeable delays or performance issues when using AT?
 
-    - Did they appear to struggle to decide what term to select? If so, ask what they were deliberating.
+- Are all interactive elements properly labeled and announced by AT?
 
-    - Were they looking for medical conditions or terms that were not in the suggested conditions list? If so, how did this make them feel? How did they decide what to do next? 
+- Is the tab order logical and easy to follow?
 
-    - Did they use a suggestion as a starting point and then edit the content? If so, why did they want to add additional information? 
+- Can they complete the entire process without visual cues?
 
-- Was anything confusing? 
+- Are there any unexpected behaviors or announcements from their AT?
 
-- Based on the conditions you entered, do you think the VA has what it needs to understand what you are trying to claim? Why or why not?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| FINAL QUESTIONS        | **5 MIN**    | * Any last thoughts on the prototype?
+Autosuggest component behavior with AT
 
-* Are there any specific improvements or features participants would suggest to make the page easier to use and understand? We now have some final questions based on your experience with this page, and this page only. I’ll paste these in the chat too. Please rate your experience with entering conditions on this page (can be for either prototypes or combined) ○ Very bad○ Somewhat bad○ Neither bad nor good○ Somewhat good○ Very goodWhy did you select that rating? Please rate how understandable this site's information is.○ Difficult to understand○ Somewhat difficult to understand○ Some is easy, some is difficult○ Somewhat easy to understand○ Easy to understandHow did this interaction change your trust in Veterans Affairs?○ Decreased my trust○ Somewhat decreased my trust○ Neither increased nor decreased my trust○ Somewhat increased my trust○ Increased my trust                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| THANK YOUAND CLOSING   | **5 MIN**    | Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. I just want to check once more that you are still feeling good about us using your feedback or if you would like to redact anything we discussed today?Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.Thank you so much again, and enjoy the rest of your day!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| EMERGENCY EXIT         |              | Well, we have covered all of the questions I had for you today. Thank you so much for your time and feedback! \[In case the session was activating for the Veteran and they need further immediate support afterwards, instruct them to dial 988 and press 1][Link to exit strategies guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |_FINAL QUESTIONS_Please rate your experience with entering conditions on this page (can be for either prototypes or combined) 1) Very bad
+- Can they easily access all parts of the autosuggest component?
 
-2) Somewhat bad
+- How does their AT read out the suggested conditions?
 
-3) Neither bad nor good
+- Can they effectively scroll through and select from the suggestions?
 
-4) Somewhat good
+- Do they understand how to use free text entry? Do they have a preference between suggestions and free text?
 
-5) Very goodWhy did you select that rating? Please rate how understandable this site's information is.1) Difficult to understand
+- Were they successfully able to enter and submit conditions? 
 
-2) Somewhat difficult to understand
+Instructions and content
 
-3) Some is easy, some is difficult
+- Do they access and understand the instructions?
 
-4) Somewhat easy to understand
+- How does their AT present the page layout and content?
 
-5) Easy to understandHow did this interaction change your trust in Veterans Affairs?1) Decreased my trust
+- Are there any parts of the content that are unclear or inaccessible?
 
-2) Somewhat decreased my trust
+- Do they read the instructions or is the form intuitive without them? 
 
-3) Neither increased nor decreased my trust
+AT-specific challenges
 
-4) Somewhat increased my trust
+- For screen reader users: How well does the screen reader convey the structure and functionality of the page?
 
-5) Increased my trust
+- For magnification users: Can they easily read all text and interact with all elements when magnified?
+
+- ## Follow-Up Questions
+- Now, I’ll ask you some questions about your experience with this page. 
+
+****
+
+I noticed you had…\[ ask follow-up questions about specific difficulties or hesitancies you observed] 
+
+****
+
+General
+
+- [ ] What are your general impressions of this page?
+
+- [ ] Was anything particularly challenging when using your assistive technology on this page?
+
+- [ ] How easy or difficult was navigating between different parts of the form?
+
+- [ ] Did you encounter any unexpected behaviors or announcements from your assistive technology while using this page?
+
+****
+
+Task Specific 
+
+- [ ] What was your experience with using the interactive part of the page - the component where you search, select, or enter conditions in (the autosuggest component)  
+
+  - [ ] Was it helpful or frustrating when using your assistive technology? Why?
+
+- [ ] How did you decide when to select from the list and when to enter your own?
+
+- [ ] How clear were the instructions on this page when accessed through your assistive technology?
+
+- [ ] Were you able to easily understand which conditions you had added, edited, or removed?
+
+- [ ] Were there any moments where you felt unsure about what to do next or how to accomplish a task?
+
+- [ ] Did you find it easy to recover from errors or mistakes?
+
+****
+
+Satisfaction 
+
+- [ ] How would you compare this experience to other online forms you've used with your assistive technology?
+
+- [ ] On a scale of 1-5, with five being the most confident, how confident do you feel that you entered your conditions correctly?
+
+- [ ] Would you change or improve anything about this page to make it work better with your assistive technology?
+
+- [ ] Do you have any other thoughts or feedback about using this page with your assistive technology that we haven't covered?
+
+## Final Questions
+We now have some final questions based on your experience with this page and this page only. I can also paste these in the chat or read them out loud iif you prefer. 
+
+For sighted users - can share screen with these questions zoomed in
+
+Please rate your experience with entering conditions on this page 
+○ Very bad
+○ Somewhat bad
+○ Neither bad nor good
+○ Somewhat good
+○ Very good
+
+Why did you select that rating? 
+
+Please rate how understandable this site's information is.
+○ Difficult to understand
+○ Somewhat difficult to understand
+○ Some is easy, some is difficult
+○ Somewhat easy to understand
+○ Easy to understand
+
+How did this interaction change your trust in Veterans Affairs?
+○ Decreased my trust
+○ Somewhat decreased my trust
+○ Neither increased nor decreased my trust
+○ Somewhat increased my trust
+○ Increased my trust
+
+## Closing
+
+### Consent to use video clips
+
+I want to circle back and re-confirm that **you are comfortable if we share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners to improve VA.gov and other digital experiences.
+   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+
+### Thank-You and Closing
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
+Thank you so much again, and enjoy the rest of your day!
+
+--- 
+
+## 🚨 Emergency Exit 🚨
+- Blame technology: I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.  
+- Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.  
+
+

@@ -4,6 +4,20 @@ This file serves as a high level meeting log and demo inventory for the VA Healt
 
 ***
 
+## July 16, 2024: Sprint 100 [VA Mobile Sprint Demo - Sprint 101.pdf](https://github.com/user-attachments/files/16255990/VA.Mobile.Sprint.Demo.-.Sprint.101.pdf)
+[7/26/24 demo recording](https://adhocteam-us.zoom.us/rec/play/yQ1uMbMPJpG58Ear9VM8SMGqjqZykvpEyC4AHNQAcqvJryuM8OmjjYTg1r455o0MOOXOh-UJmgCTOFlA.FJZmYEvH4v89YDUy%20Passcode:%20n6=L@1F#)
+Passcode: n6=L@1F#
+
+| Team | Topic | 
+|---|---|
+| Flagship: Global | Login Screen design updates |
+| Flagship: Health & Benefits | Claims updates designs  |
+| Platform: API | Appointments logic alignment |
+| Platform: QA & Release | Detox testing updates, isgning into Staging with MHV credentials |
+| Platform: Design System | Compnent theming with color tokens |
+
+***
+
 ## July 2, 2024: Sprint 100 [VA Mobile Sprint Demo - Sprint 100.pdf](https://github.com/user-attachments/files/16073627/VA.Mobile.Sprint.Demo.-.Sprint.100.pdf)
 
 | Team | Topic | 

@@ -1,5 +1,14 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 2
+Period - 07/17/2024 - 07/30/2024
+* **Toxic Exposure**
+  * Validation, testing, and submit for Staging Review
+* **Paper Form Sync**
+  * Begin implementation Claim Certification behind feature flag - stretch goal
+* **Submission Experience**
+  * Synthesize insights from Timely & Truthful research study
+
 ## Sprint 1
 Period - 07/03/2024 - 07/16/2024
 * **Toxic Exposure**

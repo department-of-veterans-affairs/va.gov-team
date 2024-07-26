@@ -86,30 +86,55 @@ Images to be tested
 [Pre- and post-task questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2024-07-Care-Names-Comparative-Study/2024-07-Care-Names-Comparative-Study-pre-and-post-task-questions.md)
 
 **Chalkmark tests**
-- Will add links to cohorts once preview version is approved by research ops. 
-- [Practice cohort link]([https://dj540s05.optimalworkshop.com/chalkmark/6d8e546da575a19a1514efe53c75d41b/completed](https://dj540s05.optimalworkshop.com/chalkmark/6d8e546da575a19a1514efe53c75d41b))
-- Preview link for location
-- Preview link for provider name
-
 Practice cohort: Current state (n=9)
 
-Cohort 1: Current state (n=9)
+Cohort 1: Current state (n=9) Link: https://ows.io/cm/bs7efxw0
 
-Cohort 2: Current state (n=9)
+Cohort 2: Current state (n=9) Link: https://ows.io/cm/qaz8j2fb
 
-Cohort 3: Current state (n=9)
+Cohort 3: Current state (n=9) Link: https://ows.io/cm/dip1dkf0
 
-Cohort 4: Provider name (n=9)
+Cohort 4: Current state (n=9) Link: https://ows.io/cm/xe4ugu0x
 
-Cohort 5: Provider name (n=9)
+Cohort 5: Current state (n=9) Link: https://ows.io/cm/uqqx5z1i
 
-Cohort 6: Provider name (n=9)
+Cohort 6: Current state (n=9) Link: https://ows.io/cm/8xnv30sc
 
-Cohort 7: Location (n=9)
+Cohort 7: Current state (n=9) Link: https://ows.io/cm/j0c0il9u
 
-Cohort 8: Location (n=9)
+Cohort 8: Current state (n=5) Link: https://ows.io/cm/kunu74ql
 
-Cohort 9: Location (n=9)
+Cohort 9: Location (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=9
+
+Cohort 10: Location (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=10
+
+Cohort 11: Location (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=11
+
+Cohort 12: Location (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=12
+
+Cohort 13: Location (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=13
+
+Cohort 14: Location (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=14
+
+Cohort 15: Location (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=15
+
+Cohort 16: Location (n=5) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=16
+
+Cohort 17: Provider (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=17
+
+Cohort 18: Provider (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=18
+
+Cohort 19: Provider (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=19
+
+Cohort 20: Provider (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=20
+
+Cohort 21: Provider (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=21
+
+Cohort 22: Provider (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=22
+
+Cohort 23: Provider (n=9) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=23
+
+Cohort 24: Provider (n=5) Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=24
 
 
 ## Recruitment
@@ -120,41 +145,81 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 ## Recruitment criteria
 Request a practice cohort to confirm accuracy of data collection. Practice cohort of n=9; collect data from 5 participant, review data to observe anomalies, perhaps adjust test, and then re-test with additional 4 participants. 
 
-Data for final analysis in this study will consist of 9 cohorts of 9 Veterans per cohort; total sample size = 81. Recruitment will be ongoing until all cohorts are filled. 
+Data for final analysis in this study will consist of 21 cohorts of 9 Veterans per cohort and 3 cohorts of 5 Veterans per cohort. 
+
+Between the practice cohort and the 24 cohorts, the total sample size will be 213
+
+Recruitment will be ongoing until all cohorts are filled. 
 
 Please exclude mobile users. Please exclude all assistive technology users as we cannot accommodate them in this study. 
 
 Cohorts should vary by VISN, which include different states. No need to include a participant from each state; a cohort should consist of 9 Veterans from any of the states listed next to each cohort. 
 
-- Cohort 1: Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
+- Cohort 0: Practice cohort
+
+- Cohort 1 (n=9): Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
   
-- Cohort 2: Georgia, Alabama, or South Carolina
+- Cohort 2 (n=9): Georgia, Alabama, or South Carolina
   
-- Cohort 3: South Dakota, Iowa, or Minnesota
+- Cohort 3 (n=9): South Dakota, Iowa, or Minnesota
   
-- Cohort 4: New York
+- Cohort 4 (n=9): New York
 
-- Cohort 5: Florida
+- Cohort 5 (n=9): Florida
 
-- Cohort 6: Oregon, Washington, Alaska or Idaho
+- Cohort 6 (n=9):Oregon, Washington, Alaska or Idaho
 
-- Cohort 7: Pennsylvania or Delaware
+- Cohort 7 (n=9): Pennsylvania or Delaware
 
-- Cohort 8: Kentucky or Tennessee
+- Cohort 8 (n=5): Kentucky or Tennessee
 
-- Cohort 9: Colorado, Wyoming, Oklahoma or Utah
+- Cohort 9 (n=9): Colorado, Wyoming, Oklahoma or Utah; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=9
+
+- Cohort 10 (n=9): Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=10
   
+- Cohort 11 (n=9): Georgia, Alabama, or South Carolina; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=11
+  
+- Cohort 12 (n=9): South Dakota, Iowa, or Minnesota; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=12
+  
+- Cohort 13 (n=9): New York; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=13
+
+- Cohort 14 (n=9): Florida; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=14
+
+- Cohort 15 (n=9): Oregon, Washington, Alaska or Idaho; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=15
+
+- Cohort 16 (n=5): Pennsylvania or Delaware; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegrouplocation?token=16
+
+- Cohort 17 (n=9): Kentucky or Tennessee; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=17
+
+- Cohort 18 (n=9): Colorado, Wyoming, Oklahoma or Utah; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=18
+
+- Cohort 19 (n=9): Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=19
+  
+- Cohort 20 (n=9): Georgia, Alabama, or South Carolina; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=20
+  
+- Cohort 21 (n=9): South Dakota, Iowa, or Minnesota; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=21
+  
+- Cohort 22 (n=9): New York; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=22
+
+- Cohort 23 (n=9): Florida; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=23
+
+- Cohort 24 (n=5): Oregon, Washington, Alaska or Idaho; Link: https://dj540s05.optimalworkshop.com/chalkmark/plainlanguagegroupprovider?token=24
+
+
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       81      |         NA       |    81  |     0       |    0     |        0      | 
+|       213      |         NA       |    213  |     0       |    0     |        0      | 
 
 ### Criteria Table
+
+**No relevant criteria in Criteria Table; please see cohort geographical criteria (above) as primary reference. Did not extent Criteria Table to capture all cohorts as could not figure out to do this for 24 cohorts without making the table unreadable.** 
+
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |   9    |   9     |    9    |    9    |    9    |    9    |    9    |    9    |    9    |    9     |
+|*Various*       |            |   9    |   9     |    9    |    9    |    9    |    9    |    9    |    5    |    9    |    9     |
 |Male            |            |        |        |        |        |        |        |        |        |        |         |
 |Female          |           |        |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |

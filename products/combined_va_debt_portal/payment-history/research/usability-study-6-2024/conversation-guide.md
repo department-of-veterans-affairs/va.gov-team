@@ -93,7 +93,7 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
     
   **Success criteria:**
     
- - [ ] Chapter 33 education housing debt, Disability Compensation and Pension debt, Chapter 33 education books, supplies, and other debt (pass)
+ - [ ] Post-9/11 GI Bill debt for housing, Disability compensation and pension debt, Post-9/11 GI Bill debt for tuition (pass)
 
 
  - [ ] They mention 1 or 2 of the 3 (partial pass)
@@ -106,7 +106,7 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
 
  **Success criteria:**
     
- - [ ] Chapter 33 education housing debt (pass)
+ - [ ] Post-9/11 GI Bill debt for housing (pass)
 
  - [ ] They give a wrong answer (fail)
   
@@ -126,13 +126,13 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
 -   Any information missing that you’d like to see?
     
 
--   Let's say you received an email notifying you that the Chapter 33 education housing debt was due and the link took you to this page. What link would you click on to find out more information about this debt?
+-   Let's say you received an email notifying you that the Post-9/11 GI Bill debt for housing was due and the link took you to this page. What link would you click on to find out more information about this debt?
 
     **Success criteria:**
     
-  - [ ]    "Review Details" link on Ch 33 card (pass)
+  - [ ]    "Review Details" link on Post-9/11 GI Bill debt for housing card (pass)
     
-  - [ ]    "Resolve this balance" link on Ch 33 card (partial pass)
+  - [ ]    "Resolve this balance" link Post-9/11 GI Bill debt for housing card (partial pass)
     
    - [ ]   Any other link (fail)
     
@@ -161,8 +161,16 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
     Time on task: ( fill in )
 
 -   Based on what you see here, what does the information on this page tell you about your debt?
-    
--   When is the next payment due?
+
+-    The next 2 questions were condensed on 7/18 after interview 3:
+
+  
+-    What is your debt balance and when is it due?
+	Success criteria:
+·       April 1, 2024, $830 (pass)
+
+
+-   [When is the next payment due?
     
     **Success criteria:**
     
@@ -181,7 +189,7 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
     
  - [ ]     Say the wrong number initially, but correct with further prompting (partial pass)
     
- - [ ]     They don’t know (fail)
+ - [ ]     They don’t know (fail)]
 
 - How do you feel about the amount of information on financial data points that you see here? (too much, too little)
 
@@ -239,7 +247,7 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
 
 - If you were trying to pay off your debt, where would you find the relevant information to pay off your debt? (file number, payee number, person entitled, deduction number)
 
-- Now that you have seen the debt details page, and this resolve your balance page: what are your thoughts on the information on these pages having separate pages (their own sections)?
+- After reviewing the debt details page and the resolve your balance page, what are your thoughts on having these types of information on separate pages?
 
 - What are your thoughts on the wording of 'resolve your balance'? Do you feel that this title describes this page well? If not, how would you word it differently? 
 
@@ -259,11 +267,10 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
 -   What was the easiest part about the portal, if anything?
     
 
-In the next few questions, I'm going to ask you to rate different aspects of the portal you reviewed today.
+- We want to know your thoughts on how clear the portal is. When you answer this question, think about how easily you would be able to understand the information in the portal, and -make a payment or ask for help. 
 
--   The first is clarity, and how clear the information was on the portal. On a scale from 1 to 5 with 1 being not clear at all, and 5 being very clear, how clear was the portal?
-    
--   The first is understability, and how understandable the information was on the portal. On a scale from 1 to 5 with 1 being not understandable at all, and 5 being very understandable, how understandable was the portal?
+- On a scale from 1 to 5 with 1 being not clear at all, and 5 being very clear, how clear was the portal?
+- Why did you rate it a (rating)?
     
 
 If they have seen the debt portal in the last 2 years:

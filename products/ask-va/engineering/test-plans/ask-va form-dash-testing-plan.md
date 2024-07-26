@@ -22,6 +22,7 @@ IN Progress
   - In Scope [AT Clickable Prototype: Form Healthcare](https://www.figma.com/proto/nI0nYMdLamogjKq9t5atj8/Ask-VA-Prototype-R4-(Staging)?node-id=2001-81942&t=o7vkTV3PVbxnErNG-1&scaling=min-zoom&content-scaling=fixed&page-id=2001%3A79334) 
 - Test Cases: Interaction between form steps, form data persistence between steps, backend integration.
 - Example: Test backend calls, and ensure data is correctly saved and retrieved.
+- The team will leverage a tool like Postman or Insomnia to send a collection of requests to the CRM APIs, the APIs will return a response body that includes a new field containing QueueID to ensure that the right CatEgory, Topic, and SubTopic are routed to the correct queue. 
 
 **E2E Automated Testing (Cypress)**
 - **Test Cases:** Full user journey, including edge cases and typical user flows - authenticated & unauthenticated.
@@ -76,7 +77,10 @@ The research plan can be found [here](https://github.com/department-of-veterans-
    - Execute integration tests to ensure seamless interaction between form steps and backend.
    - Fix integration issues.
    - **Expectation:** CRM team will build a new field into the response to return the routed queue name to facilitate integration testing in an automated fashion. 
-           - Team will execute 120 tests associated with the Category, Topic, and SubTopic permutations.
+   - Team will execute 120 tests associated with the Category, Topic, and SubTopic permutations.
+   - The AVA team will submit collections ( 12 requests per collection) and 10 collections ( 120 total) to the CRM API
+   - The CRM API will return a response body containing the new QueueID, together the teams will confirm that the correct Category,             Topic, and Subtopic are being routed to the correct queue. 
+
 
 **E2E Automated Testing (Cypress)**
 - Execution:

@@ -103,6 +103,10 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
   - For the MVP, access AVS within the appointments section.
   - Longer-term information architecture location: AVSs will live within the Care Summaries and Notes (a subsection of Health History)
 
+## Architecture
+
+See the [AVS Engineering document](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/avs/engineering#avs-engineering) for architectural information, incident response plan and dashboard links.
+
 ## Outstanding Questions
 
 ## Screenshots/Design
@@ -159,7 +163,7 @@ Within the VA today, Veterans can be handed a printed AVS when leaving their app
   - Ro Weaver
   - Bresha Lipscomb (Appointments Product Owner)
 - MHV on VA.gov
-  - Coulton Bunney
+  - Kaitlin Fink
 - Stakeholders
   - Dr. Maureen Layden (AVS Product Owner)
   - AVS Steering Committee (meets monthly)

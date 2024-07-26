@@ -168,6 +168,8 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
 <li> Close the sprint 
 
 <li> Document approriate change management and decisions made if applicable
+
+<li> Putting the approve command on the Release Ticket to kickoff the release process
 </li>  
 </ul>
 </li> 
@@ -182,11 +184,11 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
    <td>
 <ul>
 
-<li> Mobile OCTO POs (Rachel Han, Ryan Thurwell, Chris Johnston) approval required for every release and supersedes any other approvals. 
+<li> Mobile's VA OCTO POs (Rachel Han, Ryan Thurwell, Chris Johnston) approve of things going into the release branch (don't need an explicit release approval). Responsible for Mobile prioritization. 
  
 <li> Non-Mobile OCTO POs - POs that are responsible for features in the app (ex RX, Appointments, SM, etc) will coordinate with the VAHB Mobile Team PM on go live requirements and needs. 
 
-<li> Non-Mobile OCTO POs approvals for the release are implied through the Mobile Team's PM's release approval. Thus no need for non-Mobile OCTO POs to participate in the Release Process, Steps or Approvals. 
+<li> Non-Mobile OCTO POs its assumed their approval is given when the VA Mobile Team moves code into the Release Candidated Build. Thus no need for non-Mobile OCTO POs to participate in the Release Process, Steps or Approvals. If they have questions on what is being released or questions on the work they are to talk to their Flagship Team. 
 
 
 </li> 
@@ -202,7 +204,7 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
 
 # Release Sign Off
 
-**Who**:  Product Management, Design, Dev, QA, and VA POs
+**Who**:  Product Management, Design, Dev, QA, and Release Manager
 
 **Purpose**: Formal way of declaring the completion of development & testing and now the app is ready for release.  
 
@@ -235,7 +237,7 @@ Owner: Release Manager responsible, Flagship Team accountable
 <p>	
 - Product to approve of the release after QA completes their approval 
 <p>
-- VA PO to approve the ticket by commenting on the ticket comment/approve vX.XX.O after Pull Request has been merged and release is approved
+- Mobile Release Manager to approve the ticket by commenting on the ticket comment/approve vX.XX.O after Pull Request has been merged and release is approved
 <p>
 Example completed <a href="https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2555">ticket</a>
 <p>
@@ -258,9 +260,12 @@ Owner:  Product Management to coordinate with engineering and QA
   
   QA: Sign off when testing/regression is successfully complete
   <p> 
-  Product:  Sign off when high level validation is complete, QA has completed sign off complete, and release checklist tasks completed
+
+  Release Manager: Manage release communication. Final approval for the release. 
+   <p>
+  Product:  Sign off when high level validation is complete, QA has completed sign off complete, and release checklist tasks completed. 
   <p>
-  VA POs:  Sign off when notification from PM that ticket is ready for sign off, PR updates are approved (what's new content, app image & content updates, etc), and ok to move forward with the release. 
+  VA POs:  By the Mobile Team moving code into the RC branch for the release, that signifies VA PO's approval of the project timing and code.
    </td>
   </tr>
 </table>

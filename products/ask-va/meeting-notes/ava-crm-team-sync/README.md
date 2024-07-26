@@ -1,3 +1,86 @@
+
+## Meeting Notes for July 23rd: 
+
+### Agenda:
+* CeeCee: Review Rollback severity + justification
+* Wayne: How long do we maintain classic AVA during / post cutover
+* Chris: Dark release in addition to the 1/20/25 release?
+* Tyler: Dashboard Statuses
+
+### Action Items: 
+* Natalie: to check with OITC on standard timelines for maintaining original instances when cutting over to a new one 
+* CeeCee : Update timeline for phased approach to review with team
+* Tyler & Chris: Sync up around Dashboard.
+
+### Proposed new Agenda for Tuesday July 30th: 
+* Review Timeline for potential phases approaches
+* Discuss UAT 
+
+
+### Notes:
+### Rollback & Release Planning:
+* New Fatal Error: Inquiry details don’t enter CRM, Submitter submits but the details don’t follow down stream 
+
+### How long do we maintain Classic AVA during or post cutover:
+#### Context: Difficulties will occur at the first new release post launch 
+* AVA Recommendation: weeks not months
+* Decision: VAPOs to discuss offline
+* Pro: safety in terms of rollback
+* Con: difficulty in maintaining 2 environments
+
+### Action : Natalie will check with OITC on standard timelines
+
+### Dark Release: Process & Decision
+* Goal: limit the risk at time of launch before accessing the general population (soft opening)
+* Context: making the phased rollout at the beginning a dark release. CRM would select their super users rather than a randomly assigned messageID, allowing CRM to help catch potential issues.
+Steps:
+* giving the link to selected submitters at the start 
+* Then move into the canary/staged approach
+* Opportunity: Still using the staged roll out approach but essentially adding an additional stage
+
+Question re phased approach:
+* Are we going to back up the timeline of development to accommodate the january 20th date?
+* ### Action: Review Staged release Timeline view Next Tuesday
+* Will we be development ready by this time?
+
+### Dashboard Statuses:
+* Context: some of the wording of statuses, is leading to some confusion
+* Recommendation: how we might change statuses on the front end
+* ### Action: Tyler & Chris to sync up 
+
+
+
+## Meeting Notes for CRM Sync on 07/16/2024
+
+Rollout and Rollback
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+* Release will be staged 1x per day (canary monday, 25% tuesday...) for mid month
+* Release will be able to be rolled back through dynamic toggles (no deployment needed)
+* In case of roll back or needed notifications, CRM will upload an announcement to AVA home page
+* Users will be mapped to AVA experience via a MessageID, assigned at the start of a session, which will be visible via API response.
+
+### Action Items:
+
+- [X] JOE: Send Branches of Service list to Chris for validation with VBA.
+- [X] JOE: Schedule a new meeting to review rollout plan with CRM, including things like rollback and staggered release.
+- [ ] JOE/CEECEE: Reach out to MHV or Debt Resolution Team to discuss learnings from staged release
+    - Perhaps ping Travel Pay team as well since their model so closely follows ours. Might have useful insights.
+- [ ] CEECEE/TERRI: Look @ powerBI to determine 10% of users
+- [X] CEECEE: Define rollback severity & justification (catastrophic etc.)
+- [X] JOE: Upload release plan + Notes to Gitub
+- [ ] AVA VA.gov Team: Continue to gather AVA URLs
+- [ ] JOE: Create a new issue to track documenting our process for post-release changes and defects, from intake to deploy. Share with CRM.
+- [ ] JOE: Create a new issue to implement the "Policy Number" field for Life Insurance flow, post-release.
+- [X] JOE/CeeCee: Discuss testing timeline, touchpoint, and their place in the roadmap for both teams in a future CRM Sync.
+
+
 ## Meeting Notes for CRM Sync on 07/09/2024
 
 E2E Testing and More

@@ -1,5 +1,33 @@
 # Running Design and Research Agenda
 
+## July 25, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes, Devi Hill
+
+### Agenda topics
+- Review [10-10d UXR stakeholder readout deck](https://docs.google.com/presentation/d/1rneN0c0SynW1Jj_5_JuEqMKYtkbkEHLvV4n0KdCELpg/edit#slide=id.g892adcb623_0_141)
+- Discuss next up research for claims
+  - Beginning research plan and conversation guide next sprint
+  - Concern that CHAMPVA findings won't transfer to FMP
+      - On the service side, that's probably true.
+      - As far as interaction for the form, findings should transfer
+      - We also got a lot of info about FMP from earlier studies
+- In the future - can we plug into the Claims Status tool?
+- Where do we need to update beyond VA.gov? Youtube? How can we keep our business partners in the loop?
+      -  We need to keep our business partners up to date - eg., chat with Brian Guenther - make call center on board, paper documentation up to date, etc.
+
+### Decisions and action items
+- Move forward with research on CHAMPVA claims research as planned
+- Readout is ready to go
+
+## July 18, 2024
+Canceled - Lois OOO
+
+## July 11, 2024
+Canceled - Lois OOO
+
+## July 4, 2024
+Canceled - July 4th holiday
+
 ## June 27, 2024
 Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes, Devi Hill
 

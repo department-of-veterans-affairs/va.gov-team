@@ -5,7 +5,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 Resources and Support (R&S), originally called “Learning Center”, was created to contain Tier 2 content. This product focuses on creating an IA and content design for tier 2 content that includes benefit learning, knowledge, help, and support content categories. 
 
 ## Owners
-Content: Sitewide Content Accessibility & IA (CAIA).  Channel = #sitewide-content-accessibility-ia
+Content: Sitewide Content Accessibility & IA (CAIA).  Channel = #sitewide-content-accessibility-ia.   Qualitative survey continuously monitored by CAIA in their [content product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/unauthenticated-content-outcomes-and-metrics/monthly-experience-ratings).
 
 Technical build: Sitewide Public Websites. Channel = #sitewide-public-websites
 

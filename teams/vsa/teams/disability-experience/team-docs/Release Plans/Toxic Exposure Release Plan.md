@@ -42,9 +42,9 @@ See Appendix below for full milestone breakdown.
 | 1: Gulf war exposures                | May 21, 2024 | Complete    |                                                              |
 | 2: Herbicides and hazards            | July 3, 2024 | Complete    | Delayed by 5103 FDC update 5/16/24 & bugs in submit endpoint |
 | 3: Launch preparation                | Jul 22, 2024 | In Progress | Original date of 6/18 shifted due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review                                                             |
-| 4: Migrate /getPDF and /submit to LH |              | In Progress |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning this migration, delayed for Code Yellow. Lighthouse Submit available in LH staging environment 6/6/24, pending LH production release                                                              |
-| 5: New forms                         | Aug 1, 2024  | Not started |Dependent on submit migration completion                                                              |
-| 6: Vets with an IPF                  | Aug 15, 2024 | Not started |Targeting 14-21 days after new forms                                                              |
+| 4: Migrate /getPDF and /submit to LH |              | In Progress |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning /getPDF migration, /getPDF and /submit and TE all behind the same FF. Delayed for Code Yellow(?) Awaiting validation issue fixes from LH. Currently testing E2E.                                                              |
+| 5: Rollout: New forms (1.0)                         | Aug 15 - Sept 11 | Not started |                                                               |
+| 6: Rollout Vets with an IPF (1.1)                  | Sept 12 - Oct 2 | Not started |Exact dates may change                                                              |
 
 *Dates may vary
 
@@ -74,24 +74,24 @@ See Appendix below for full milestone breakdown.
 ## Use Cases
 There are two use cases that we are considering for this release. For each, we plan to follow an incremental release strategy using established traffic percentages to route Veterans to the 526 form. We plan to use Flipper to control availabity for each use case. In the 2019 form version, the toxic exposure section is not available to the Veteran. In 2022 form version, the toxic exposure section is available to the Veteran.
 
-### 1. New Forms
+### 1. New Forms (1.0)
 1. Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans do not have an IPF, and may or may not have a previous Intent To File (ITF).
 - Before full release:
-  - Authenticated users may be directed to fill out the 2022 form version of the form depending on the level of incremental traffic set for the 2022 form (25%/50%/75%/100%). Veterans who are not directed by the feature flag to complete the 2022 version of the form will complete the 2019 version. Veterans that are directed to the 2022 form version who leave the active session and return will be taken back to the 2022 form version. Veterans on the 2022 form version will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions.
+  - Authenticated users may be directed to fill out the 2022 form version of the form depending on the level of incremental traffic set for the 2022 form (25%/50%/75%/100%). Veterans who are not directed by the feature flag to complete the 2022 version of the form will complete the 2019 version. Veterans that are directed to the 2022 form version who leave the active session and return will be taken back to the 2022 form version.
 - After 100% release:
-  - All authenticated users who begin a new 526 form will be directed to the 2022 form version and will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions. Veterans who leave the active session and return will be taken back to the 2022 form version.
+  - All authenticated users who begin a new 526 form will be directed to the 2022 form version. Veterans who leave the active session and return will be taken back to the 2022 form version.
 
-### 2. Veterans With an In Progress Form
+### 2. Veterans With an In Progress Form (1.1)
 - Before full release
-  - Authenticated users who resume an in progress 526 form may be directed to fill out the 2022 form version of the form depending on the level of incremental traffic set for the 2022 form (25%/50%/75%/100%). Veterans who are not directed by the feature flag to complete the 2022 version of the form will complete the 2019 version. Veterans that are directed to the 2022 form version who leave the active session and return will be taken back to the 2022 form version. Veterans on the 2022 form version will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions. 
+  - After we've reached the 100% incremental release for 1.0, authenticated users who resume an in progress 526 form may be directed to fill out the 2022 form version of the form depending on the level of incremental traffic set for the 2022 form (25%/50%/75%/100%). Veterans who are not directed by the feature flag to complete the 2022 version of the form will complete the 2019 version. Veterans that are directed to the 2022 form version who leave the active session and return will be taken back to the 2022 form version. Veterans on the 2022 form version will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions. 
 - After 100% release
   - All authenticated users who resume an in progress 526 form will be directed to the 2022 form version and will see an alert on the Review and Submit screen notifying them of the new toxic exposure questions. Veterans who leave the active session and return will be taken back to the 2022 form version.
 
 | Phase                                | Flipper Status | Form in Progress | Visible Form | TE Alert Displayed |
 |--------------------------------------|----------------|------------------|--------------|--------------------|
 | 5: New forms                         | Disabled       | No               | 2019         | No                 |
-| 5: New forms                         | Enabled        | No               | 2022         | Yes                |
-| 5: All New Forms (after 100%)        | N/A            | No               | 2022         | Yes                |
+| 5: New forms                         | Enabled        | No               | 2022         | No                |
+| 5: All New Forms (after 100%)        | N/A            | No               | 2022         | No                |
 | 6: Vets with an IPF                  | Disabled       | Yes, 2019        | 2019         | No                 |
 | 6: Vets with an IPF                  | Enabled        | Yes, 2019        | 2022         | Yes                |
 | 6: All Vets with an IPF (after 100%) | N/A            | Yes, 2019              | 2022         | Yes                |
@@ -103,39 +103,40 @@ You'll need to create a feature toggle (or two) for any moderately or significan
 
 List the features toggles here.
 
-| Toggle name | Description |
-| ----------- | ----------- |
-| startedFormVersion | Enable the 2022 form |
+| Toggle name | Feature | Description |
+| ----------- | ----------- | ----------- |
+| disability_526_toxic_exposure | 1.0 | Enable the 2022 form when form is created |
+| disability_526_toxic_exposure_ipf | 1.1 | Enable the 2022 form when in progress form is retrieved |
 
 ## Step 2: Validation
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production).
 - [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [ ] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+    - [ ] review the release plan with your team and signoff
+    - [ ] review the plan with your DEPO/OCTO representative and signoff
+    - [ ] Review the generated 526 pdf to determine if any issues are launch blocking
 
-## Step 3: Production Rollout - 1.0 New Forms
+## Step 3: Production Rollout
+
+### Do I need a staged rollout?
+**Yes, we are doing a staged rollout**
 
 ### Define the Rollback process
-DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to 2019 of the form.
+DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which would prevent any Veterans starting a new form from receiving the 2022 version of the form. In the event catasrophically wrong with the user filling out the form, our failsafe rollback would be to take them off the 2022 path by removing the startedFormVersion key from the Veteran's formData. This would require manipulating form data in the database. This would also drop completed TE form data from the Veteran's 2022 form, but the TE form data would still exist in the database.
 
-Rollback plan:
-1. PM and PO monitor analytics for issues (failed submissions, traffic irregularies, unexpected errors).
-2. Engineering disables flipper which hides the 2022 form version.
-   - Users with in-progress 2022 sessions will finish out their 2022 session.
-   - New users will be directed to the 2019 form version.
-
+## 1.0 New Forms
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 Due to the need to test against the production lightouse /submit endpoint, we'll be testing this feature in production behind a feature flag. To mitigate the risks of downstream actions that occur as a result of submitting an application for disability compensation, we'll work with our VBA stakeholders to delete the submission records in VBMS.
 
 #### Planning
-- Desired date range or test duration:
-- Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in [this sheet](https://docs.google.com/spreadsheets/d/1qFzoRny9uDHegSh1CemWP_FhL606ki54Z-Go-04jOUA/edit?usp=sharing) (scenarios tab)
-- How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test
-- How you'll conduct the testing: using test users and validating the staging form payload submissions with downstream stakeholders
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
+- Desired date range or test duration: Aug 9 & 12, 2024
+- Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in TestRail
+- How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test, could be ann (internal) Veteran
+- Submitting 6 full submissions could be done by less than 6 people
+- How you'll conduct the testing: using test users and validating the form payload submissions (Argo) with downstream stakeholders
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Flipper [disability_526_toxic_exposure]
 
 #### Results
 - Number of users:
@@ -148,45 +149,48 @@ Due to the need to test against the production lightouse /submit endpoint, we'll
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
 
+#### Rollback plan:
+1. PM, Disability teams 1 & 2, OCTO PO monitor analytics for issues (failed submissions, traffic irregularities, unexpected errors).
+2. Engineering disables flipper [disability_526_toxic_exposure] which hides the 2022 form version.
+   - Users with in-progress 2022 sessions will finish out their 2022 session.
+   - New users will be directed to the 2019 form version.
+   - When identified issues are 2x "normal", consider removing the startedFormVersion key from the Veteran's formData (see below for details)
+        - Refer to [troubleshooting SOP document for details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md) on how remediate form data
+
 #### Rollout Planning
-- Desired date range: 
+- Desired date range: Aug 15 - Sept 11
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - Abandonment rate:
-  - Submission volume:
-    - Canary: 12 submissions
-    - 5%/10%/25%/50%/75%: >10 submissions
-  - Error rate: <1%
-  - Pageviews
+  - % of [normal](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/bi4-785-p5z), [backup](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/6ek-k9t-7d7), failsafe (come back to this) path rates are the same or less than what we have currently
+  - Submission volume: 21-526ez has ~7500 submissions per week. Over 15 days we're expecting ~15,000
+    - Stage A: Canary: (come back to this)
+    - 5%/10%/25%/50%/75%/100%:
+  - Error rate: <1% (dependent on current metrics above, compare this to normal error rate - come back)
 - Links to the dashboard(s) showing "success criteria" metrics:
   - Domo Dashboard request submitted
-  - [DataDog v2 submission dashboard](https://vagov.ddog-gov.com/logs?query=%40message_content%3A%22Lighthouse%3A%3ASubmitBenefitsIntakeClaim%20job%20starting%22%20%40named_tags.source%3Aburials-v2%20&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40payload.benefits_intake_uuid%2C%40payload.claim_id%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Casc&viz=stream&from_ts=1713934800000&to_ts=1714747320000&live=false)
-  - [Pageviews](https://analytics.google.com/analytics/web/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fanalytics%2F#/report/content-pages/a50123418w177519031p176188361/_u.date00=20240418&_u.date01=20240507&explorer-table.filter=~2Fburials-and-memorials-v2~2Fapplication~2F530~2Fintroduction&explorer-table.plotKeys=%5B%5D/)
-- Who is monitoring the dashboard(s)?: Product Manager (Laura Steele) and OCTO PO (Emily Theis)
+- Who is monitoring the dashboard(s)?: PM, Disability teams 1 & 2, OCTO PO (Emily Theis) monitor analytics for issues (failed submissions, traffic irregularities, unexpected errors)
+
 #### Prerequisites:
 Approvals & to do's for launch:
-- [ ] Development for release 1.0 and 1.1 are complete, and ability to distinguish between Veteran states to be selected for exposure to the 2022 526ez form using feature flag disability_526_toxic_exposure
-- [ ] OCTO PO - Emily Theis
-- [ ] Approval for PDFs - **need team name
-- [ ] DBEX Teams approve validation rake task results
+- [ ] Development for release 1.0 and 1.1 are complete, and the ability to give certain Veterans access to 2022 form based on the toggle state
+- [ ] DBEX Teams approve [Validation Rake Task](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88063) results
 - [ ] Monitoring configured by DBEX teams
-- [ ] vets-api Deployed, Toggled Off
-- [ ] vets-website Deployed
 - [X] Benchmark data for Veteran claim selection and monitoring during the release      
-- [X] [Troubleshooting SOP documented](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)     
+- [X] [Troubleshooting SOP documented](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)
 
 #### Release assumptions before kickoff:
 - DBEX team 1 will handle enabling/disabling the feature flag for the release.
 - DBEX teams 1 and 2 will both be available to troubleshoot any errors that arise. 
-  - If a claim fails both the primary and backup submission processes, the teams will research root cause, repair claim in production, and re-trigger primary submission. The teams will do whatever it takes to prevent a Veteran from needing to recomplete their claim.
+  - If a claim fails both the primary and backup submission processes, the teams will research root cause, repair claim in production, and re-trigger primary submission if possible. The teams will do whatever it takes to prevent a Veteran from needing to recomplete their claim.
+- Remediation steps are dependent on the type of error
 - Once a Veteran is selected for the 2022 526ez form they cannot be de-selected.
 
 ### Stage A: Canary 5% of users
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
-- Length of time: 2 hours
-- Percentage of Users (and roughly how many users do you expect this to be): 5% of users, ~12 users/submissions
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 5% of users, ~106 submissions
 
 #### Results
 - Number of unique users: 
@@ -199,10 +203,118 @@ Approvals & to do's for launch:
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
-- Length of time: 3 days (actual: )
-- Percentage of Users (and roughly how many users do you expect this to be): 10% of users, 885
+- Length of time: 4 days
+- Percentage of Users (and roughly how many users do you expect this to be): 10% of users, ~428 submissions
 
+#### Results
 
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage C: 25% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: 4 days
+- Percentage of Users (and roughly how many users do you expect this to be): 25%, 1071 submissions
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage D: 50% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 50%, 1071 submissions
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage E: 75% of users
+
+#### Planning
+
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 75%, 1605 submissions
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage F: 100% of users
+
+#### Planning
+
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 100%, 2141 submissions
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+## Post Launch metrics
+
+Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
+
+### 1-week results
+
+- Number of unique users: [FILL_IN]
+- Post-launch KPI 1 actual: [FILL_IN]
+- Post-launch KPI 2 actual: [FILL_IN]
+- Post-launch KPI 3 actual: [FILL_IN]
+- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
+- If yes, what: [FILL_IN]
+
+### 1-month results
+
+- Number of unique users: [FILL_IN]
+- Post-launch KPI 1 actual: [FILL_IN]
+- Post-launch KPI 2 actual: [FILL_IN]
+- Post-launch KPI 3 actual: [FILL_IN]
+- Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
+- If yes, what: [FILL_IN]
+
+## Post-launch Questions
+
+*To be completed once you have gathered your initial set of data, as outlined above.*
+
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+2. What qualitative feedback have you gathered from users or other stakeholders?
+3. Which assumptions you listed in your product outline were/were not validated?
+4. How might your product evolve now or in the future based on these results?
+5. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
+
+   
 ---
 #### Day 0:
 - 11am EDT <individual> Toggles Feature ON for all Users*

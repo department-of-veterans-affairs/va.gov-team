@@ -21,7 +21,8 @@ There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-
    ::IvcChampvaForm.create!(
       form_uuid: @form_uuid,
       file_name: @file_name,
-      status: "Submitted"
+      s3_status: "[200]"
+      status: "Processed"
       ... 
     )
    ```
@@ -37,7 +38,8 @@ There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-
      {
        "form_uuid": "12345678-1234-5678-1234-567812345678",
        "file_names": ["12345678-1234-5678-1234-567812345678_vha_7959F1.pdf", "12345678-1234-5678-1234-567812345678_vha_7959F2.pdf"],
-       "status": "processed"
+       "status": "Processed"
+       "case_id": "D12345"
      }
    - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80482
    - Code: https://github.com/department-of-veterans-affairs/vets-api/pull/16605

@@ -32,6 +32,9 @@ The Sign in Service (SiS) offers a private key JWT flow to allow API authenticat
 
 ### Signed Service Account Assertion
 
+- STS assertion requests must be [signed with a `RS256` algorithm](https://auth0.com/docs/get-started/applications/signing-algorithms) using a private key. This guide's examples use the `vets-api` Ruby environment to build & sign the JWT payload; this can also be done within the [STS Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/postman/postman.md) after importing your private key into Postman.
+  - For localhost development (against a local SiS instance) you can generate your own RS256 public/private key pair.
+  - For staging & production environments the Identity team will provide your team with private keys linked to your created [ServiceAccount](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/configuration/service_account.md) configuration - where the corresponding public key is stored.
 - The signed JWT payload requesting a Service Account access token has the following attributes:
 
 | attribute | data type | description | sample value |
@@ -141,7 +144,7 @@ Content-Type: application/json
 | JWT `scopes` | ServiceAccountConfig `scopes` (must include all asserted) | 400 | `Assertion scopes are not valid` |
 | JWT `user_attributes` | ServiceAccountConfig `access_token_user_attributes` | 400 | `Assertion user attributes are not valid` |
 
-## Service Account Access Token Validation
+## Service Account Token Validation & Usage
 
 - The returned `service_account_access_token` can be used with Sign in Service or any SiS client that consumes its [public key](https://dev-api.va.gov/sign_in/openid_connect/certs) to validate the authenticity of the JWT encoded token.
 
@@ -163,7 +166,15 @@ JWT.decode(encoded_token, public_key.public_key, true, { algorithm: 'RS256' }).f
     "user_attributes"=>{"icn"=>"1012667122V019349"}}
 ```
 
-### Service Account Access Token Validation - Sign in Service
+### Bearer Authorization
+
+- In order to use your Service Account token you must present it in your request via the [Bearer authorization schema](https://datatracker.ietf.org/doc/html/rfc6750). Set the `Authorization` header of your request to `Bearer <service account token>`:
+```bash
+curl --location 'https://api.va.gov/some-service-account-protected-route' \
+     --header 'Authorization: Bearer <service account token>'
+```
+
+### Service Account Access Token Usage - Sign in Service
 
 - To test the validity of the Service Account access token against Sign in Service you may use the `account_controls/credential_index` route, which is protected by Service Account authorization. This route returns a listing of Credential Service Provider records the requested `icn` possesses.
 

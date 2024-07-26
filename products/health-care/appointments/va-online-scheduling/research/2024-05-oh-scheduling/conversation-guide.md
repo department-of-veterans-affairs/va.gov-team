@@ -17,7 +17,7 @@ Note to observers in thread:
 
 ## Intro - 5 minutes
 
-Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ____________.
+Thanks so much for joining today. My name is Melissa, very nice to meet you. I'm here with my notetaker ____________.
 
 Today I'm going to ask you to help test out scheduling on VA.gov. Your feedback will help us understand how to improve the site for Veterans in the future.
 
@@ -33,7 +33,7 @@ Before we begin, I want to give you some background on how today's session will 
 - I will have you share your screen and ask you to complete various tasks and give feedback as you go.
 - Please know that there are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the scheduling tool, not you.
 - There is no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
-- My priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
+- I understand that discussing medical topics even if it is just hypothetical can be difficult at times and my priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
 - This entire session will take no more than 60 minutes. I'll keep an eye on the time and try to keep us moving along so that we don’t go over.
 - Finally, I would like to record the session. We use recordings to make sure our notes are accurate. The recordings will be destroyed after we've completed the study.
    - Given that, is it ok if I record the screen and the audio during our session today?
@@ -60,9 +60,16 @@ I’ll walk you through the process of sharing your screen, then I'll send you a
 
 * Great, that helps me troubleshoot with you if we run into any problems.
 
+Are you familiar with the My VA health portal? Do you go to any of the following VAs: 
+Mann-Grandstaff VA Medical Center in Spokane, Washington
+Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
+VA Central Ohio Healthcare System in Columbus, Ohio
+Roseburg VA Health Care System in Roseburg, Oregon
+VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
+
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=&type=design&node-id=3706-84910&viewport=-1534%2C476%2C0.16&t=BeRNl3a5N7GfhYSb-1&scaling=min-zoom&starting-point-node-id=3706%3A84910&mode=design)
+* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/1dSk9a4KDxqxKzgRDmXyPu/Prototype%3A-Scheduling-improvements--%7C-Appointments-FE?page-id=4279%3A28230&node-id=4279-29644&viewport=387%2C210%2C0.03&t=6zLyw5Xz3C1KA6gj-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4279%3A29644)
 
 * Use chat to send user [link to mobile prototype.](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=2236%3A60173&type=design&node-id=2447-132766&viewport=457%2C427%2C0.16&t=77eZwwjIykTZ6rPe-1&scaling=min-zoom&starting-point-node-id=2447%3A132766&mode=design)
 
@@ -103,7 +110,7 @@ What we're going to do is run through a series of tasks in an imaginary scenario
 
 Prompt: Tell me about this page (Appointment list page).
 
-Prompt: Tell me about what is at the top of the page
+Prompt: Tell me about what is at the top of the page. What do you think each of those icons and buttons do in the dark blue area with the VA logo?
 
 Prompt: How would you schedule an appointment from here?
 
@@ -125,7 +132,7 @@ Prompt: Continue scheduling your appointment.
 
 Prompt: Tell me about this page.
 
-Question: Which of your providers or clinics would you expect to see here if you were actually scheduling this appointment?
+Question: How would you expect these to be organized?
 
 Prompt: You need a food and nutrition appointment. How would you schedule that? 
 
@@ -151,7 +158,7 @@ Prompt: Select Grove City, OH
 
 Question: Why do you think these two providers are displayed here? 
 
-Explaination to follow up with: Sarah is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily in the past on occasion. 
+Explaination to follow up with: Sarah Bennett is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily Larson in the past on occasion. 
 
 Prompt: Tell me about this page.
 
@@ -224,7 +231,7 @@ Prompt: You have been doing physical therapy once a every few weeks and you need
 
 Prompt: You would like an appointment for August 16.
 
-Prompt: It looks like Aug 16 isn't available - The next date that will work for you is August 26 at 2:00pm. Go ahead and select that date and time
+Prompt: The next date that will work for you is August 26 at 2:00pm. Go ahead and select that date and time
 
 **Reason for appointment**
 
@@ -248,8 +255,6 @@ Question: What did you think about scheduling from a past appointment?
 
 Prompt: Now, say you want to go back to see a list of your appointments how would you do that?
 
-#### Scenario 2 questions
-
 Question: Of everything you just saw, what was the most helpful?
 
 Question: What was the most confusing?
@@ -258,21 +263,21 @@ Question: What was the most confusing?
 
 Prompt: You have a high fever and have been sick for a couple of days, you want to get in to see your doctor asap because you don't seem to be getting better. What would you do? 
 
-**Schedule an appointment** 
+Question: How clear was it that this tool is not for urgent medical needs? Anything we could do better?
 
 Prompt: Now, looking through the scheduling tool is there anything that might be helpful in guiding you to getting care asap? 
 
 (They should find the "I need immediate care" in the list.)
 
+Prompt: Now you want to go back to your list of appointments, how would you do that?
+
 **Go back to the appointment list** 
 
-Prompt: Now you want to go back to your list of appointments, how would you do that?
 Prompt: Take a look at the top of your screen, can you tell me what you see up there?
 
-### Scenario 3 questions
+#### Things to watch for:
 
-Question: How clear was it that this tool is not for urgent medical needs? Anything we could do better?
-
+- How do they feel about having to hit the back button so many times to get out of the scheduleing flow and back to their appointment list?
 
 ## 4: New Notification
 
@@ -297,6 +302,7 @@ Prompt: (If needed) I'm interested to hear what you think they're for, and where
 - Of everything you saw today, what was the most confusing or challenging?
 - What worked well?
 - What could we do better?
+- Do you have any questions or final thoughts?
 
 ## Thank-You and Closing
 

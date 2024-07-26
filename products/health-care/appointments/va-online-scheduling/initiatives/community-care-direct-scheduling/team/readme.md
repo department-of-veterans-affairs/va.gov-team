@@ -2,6 +2,10 @@
 
 [Back to initiative home page](/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling)
 
+## EPS Relationship Diagram 
+
+<img width="797" alt="EPS Relationship Diagram" src="https://github.com/user-attachments/assets/638bcef2-d976-4bfc-885e-6611a7be2395">
+
 ## OCTO 
 
 - Kay Lawyer (PO)

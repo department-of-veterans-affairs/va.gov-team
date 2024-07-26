@@ -44,7 +44,7 @@ There are 2 main tickets that CAIA will use in its pipeline:
 - [Standard Intake Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E). Typically used for teams going through the collaboration cycle or beginning a new product or initiative.
 - [General Collaboration Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cstrelichl&labels=sitewide+CAIA&projects=&template=caia-general-collab-request.md&title=%5BCAIA+General+Support%5D%3A%3CTeam+name%3E%3CSupport+Needed%3E). Typically used for teams requesting general collaboration with CAIA that is not part of the collaboration cycle or for an already existing product or service.
 
-When a ticket is created, it automatically assigns `Terry` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Stuff` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
+When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Stuff` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
 
 ### Standard Intake Request
 
@@ -89,7 +89,7 @@ This section contains field data that is important for filtering and tracking is
 - Milestone - not currently used
 - Status - the following tickets statuses exist in CAIA and relate to which swim lane the ticket will be in in the [Main Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/46) view in Github Projects.
   -  **New Intakes** - default lane for all new work that is submitted
-  -  **EPICS** - used to group parent tickets, also known as EPICS. EPICS themself do not usually contain any direct work, rather they are a vessel for containing child tickets that are used to track the actual work done.
+  -  **EPICS** - used to group tickets related to the same product. EPICS themself do not usually contain any direct work, rather they are a vessel for containing child tickets that are used to track the actual work done.
   -  **Backlog** - items not currently being worked on - usually of a lower priority
   -  **OCTO Audits** - tickets created by OCTO leadership - usually audit work
   -  **Blocked** - issues where work has been forced to stop due to blockers. Can include the following:
@@ -106,8 +106,7 @@ This section contains field data that is important for filtering and tracking is
 - **Repository** - the Github repository in which the ticket was created
 - **Closed Date** - the date the ticket was closed - when closing a ticket, be sure to fill out this field!
 - **Target date** - when evalluating a ticket in refinement, if there is a Congressionally mandated completion date, for example, the date that CAIA needs to complete this work is added here. Otherwise it can be used as a general "we'd like to get this work done by this date' field.
-- **Estimate** - the level of effort required for this ticket - usually only used on Task tickets, rather than EPICS. Is determined using basic "T-Shirt sizes" scrum estimating technique using 2, 4, 8, 12, or 16 to indicate the amount of work needed.
-- **Actual** - when closing a ticket, add the actual amount of work needed to complete the work, based on the same T-short scal as the estimate (above).
+- **Estimate** - the level of effort required for this ticket - usually only used on Task tickets, rather than EPICS. Level of effort is determined using basic tee shirt sizes based on the time needed: small for 1-5 days, medium for 2-4 weeks, large for 1-3 months, extra large for 4+ months.
 - **Priority** - used to indicate how urgent a piece of work is, based on the following scale
   - **High** - top priority, work should begin immediately. 
   - **Medium** - important but not as urgent as high priority.

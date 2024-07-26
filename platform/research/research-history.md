@@ -276,7 +276,7 @@ Note: this document does not include research history for Appeals projects, whic
 *VA Online Scheduling, Lead Researcher: Peter Russo*
 
 - Number of participants: 5
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test)
+- [Link to the research folder]([https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test))
 - Appointments, Scheduling, VAOS, Dashboard, Home page
 
 
@@ -310,7 +310,7 @@ Note: this document does not include research history for Appeals projects, whic
 
 - Number of participants: 8
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Usability%20Testing)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/research/usability-testing)
 
 - Keywords: IRIS, contact us form, inquiry
 

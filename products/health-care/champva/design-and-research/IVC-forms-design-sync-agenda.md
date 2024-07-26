@@ -1,4 +1,66 @@
 # Running Design and Research Agenda
+## July 22, 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
+- Facilitator: Steven
+- Next meeting facilitator: TBD
+- Agenda Topics
+  - Status on FMP service blueprint
+  - Status on CHAMPVA registration user journey
+  - Update to include prefill in FMP forms
+  - Status on CHAMPVA claims service blueprint
+  - Update on 10-10d UXR stakeholder readout
+  - Confirmation page updates
+### Notes
+- Status on FMP service blueprint
+  - Lois: Consider a glossary of terms for service blueprint.
+  - Premal: Shared a link to something with an example of a [glossary](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1591021987722/bd742279a6bfe20ad147adb6f20e8821470399fe?sender=u50b7e26ebf5d18d7d4312080)
+  - Premal paraphrase: We are going to become the source of knowledge for service artifacts on these 
+   programs, so be prepared to keep this documentation updated and to share it in that capacity.
+- Status on CHAMPVA registration user journey
+  - Lois: Less focus and time should be put into the journey map compared to the service blueprint for our 
+   needs.
+  - Lois likes this, will be good to share out with stakeholders in the future along with VEO's work.
+- Update to include prefill in FMP forms
+  - Premal: "I think I'm okay with it, because the information shouldn't change."
+  - Premal: Errors should be the same across all forms, and Michael shared defaults earlier, Bo is going to 
+    look into and compare these later if needed.
+  - Brian: You will need to make sure that language on the defaults are generic or tailored enough to fit 
+    our needs.
+- Status on CHAMPVA claims service blueprint
+  - Lois: Worried about the visual presentation of the CHAMPVA claims blueprint compared to FMP, 
+    specifically, the current state of the "time" is distracting.
+  - Lois: I did find it useful to see who is doing what by mentioning the positions.
+  - Lois: Some arrows weren't matching up properly and need to be corrected.
+- Update on 10-10d UXR stakeholder readout
+  - Lois: Consider a way to make system names more visible by having them in bold.
+- Update on 10-10d UXR stakeholder readout
+  - Lois is going to try and get access to make comments.
+- Confirmation page updates
+  - Lois and Premal to check confirmation page updates async.
+## July 15, 2024
+- Attendees: Premal Shah, Jamie Fiore, Syd Hoeper, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil
+- Facilitator: Steven
+- Next meeting facilitator: Steven
+- Agenda Topics
+  - Priority for CHAMPVA stakeholder readout
+  - New cadence for CHAMPVA registration meeting
+  - Premal to reach out for information/feedback on IVC team presentation
+  - Pre-fill changes for FMP Reg and Claim walkthrough
+  - Confirmation emails and page
+### Notes
+- Priority for CHAMPVA stakeholder readout
+  - The earliest we can do the read-out is 2 1/2 weeks from now.
+  - Target Sprint 23 for doing the readout.
+- New cadence for CHAMPVA registration meeting
+  - 10:30 EST on every other Tuesday, not including this week.
+- Premal to reach out for information/feedback on IVC team presentation
+  - Live presentation to be given on what the team has done so far and the impact of our work.
+- Pre-fill changes for FMP Reg and Claim walkthrough
+  - Premal: Be aware of the LOA restrictions.
+  - Premal: Make sure the different forms are aligned and inform me if they are going to be possible delays in going to production.
+- Confirmation emails and page
+  - Bo: Plug in a number on the page for if you haven't seen an email in X number of days.
+  - Bo: We may want to line up VA notify and Figma at some point.
 ## July 8, 2024
 ### Notes
 - Attendees: Jamie Fiore, Syd Hoeper, Devi Hill, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil

@@ -2,18 +2,19 @@
 
 Vet Center pages are generated on content-build from drupal data. These pages are changed by editors at different levels, but the resulting content is processed by content-build or next-build. 
 
-# Testing
-Testing of these pages is difficult, due to the potentially changing nature of the data. From one day to the next, a facility may be closed and inaccessible, 
-and should that happen, testing that may include that site is complicated.
-
-# Datadog Dashboard
+## Datadog Dashboard
  - [Facilities Alerting Dashboard including Facility-Locator API resources](https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities)
 
 ## Monitors
-It is not possible to monitor 404s and broken links other than through the content-build process.
+The content-build process identifies 404s and broken links. 
 It is possible to alert from Sentry on errors encountered on facility pages. 
 
-**[Vet Center Loading of non-existent Data](https://vagov.ddog-gov.com/monitors/168205)**
-Not a critical issue, since no data is supposed to be displayed. However, it does cause a crash in the component. We can use this monitor as 
-a basis for other facility pages, should errors like it arise. However, this requires that we know of specific types of errors so that we can catch them on Sentry
-and forward them to Datadog. 
+### Facilities Notification of error on Vet Center pages
+https://vagov.ddog-gov.com/monitors/168205
+
+- Datadog monitor that checks Sentry every 15 mins for any errors on pages with `-vet-center/locations/` in the path. 
+- This checks for any possible errors that may come from either a disconnection from the s3-bucket-served data for the web page or some component that was not built correctly. 
+
+This monitor historically has had an issue / throws alerts when Nearby locations tries to load Community Access Points, which are not available from Lighthouse, which causes an error in the component & throws a 500. (Discussion about this [in Slack](https://dsva.slack.com/archives/C05UCL10WH4/p1717608517344489).) In June 2024. the baseline for this monitor was adjust so that it won't alarm for the standard # of 500 errors we get on CAPs, and the alarm is muted until Lighthouse can ingest CAPs.
+
+TODO: Sentry is slated for deprecation from the VA ecosystem. This monitor will need to be revised to stop using Sentry, ticketed in https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18708.

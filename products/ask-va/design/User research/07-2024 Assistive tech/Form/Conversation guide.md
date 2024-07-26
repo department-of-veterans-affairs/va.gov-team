@@ -2,23 +2,23 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 12, 2024
+Last updated by @tygindraux: July 15, 2024
 
 ## Moderator logistics
 
 ### Before all sessions
 
-- [ ] Review guidelines for moderating
-- [ ] Review research goals
+- [ ] Review [guidelines for moderating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20moderating.md)
+- [ ] Review [research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Research%20plan.md)
 - [ ] Review prototype
-- [ ] Review participant list for name and screen responses
+- [ ] Review participant list for name and screener responses
+- [ ] Review [screen reader instructions and troubleshooting during research guidance](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur)
 
 ### 10 minutes before the session
 
 - [ ] Start a thread in #feedback-backchannel
 - [ ] Sign into Perigean’s Zoom and start the meeting
-- [ ] IMPORTANT: Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
-- [ ] Check Zoom settings and make sure participants have permission to share
+- [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
 - [ ] Open conversation guide
 - [ ] Open staging (be ready to screenshare if needed)
 - [ ] Open email or text (if any participant's ask for you to email or text testing links)
@@ -78,7 +78,10 @@ Let's go around and say hello, starting with `ACCESSIBILITY SPECIALIST'S NAME`, 
 
 There are a few other things I want to mention before we start:
 
-- **This session could take up to an hour and a half `IF SCREEN MAG: UP TO 1 HOUR`.** I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
+- **This session could take up to...**
+   - `Screen reader or alt navigation`: an hour and a half
+   - `Screen magnification`: an hour
+   - I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
 - **We’re here to learn your honest opinions.** Negative feedback is helpful too, because it helps us learn how we can improve.
 - **I also want to make it clear that we’re not testing your ability.** So, for example, if I ask if you understand something, it’s because I want to make sure the description is clear.
 - **I’m going to share a prototype with you today.** This is like a test version of VA.gov. I'm going to have you sign in to a test account. This means, that we'll be using pretend information today. So the prototype won't have any of your actual data, like your name or Social security number.
@@ -110,8 +113,10 @@ Okay, great. Thanks for sharing that with me. It's helpful to know a little bit 
 
 I'd also like to know a little more about how you're using your assistive tech.
 
-- Would you say you're a beginner, intermediate or experienced `SCREEN READER` `ALTERNATIVE NAVIGATION` `SCREEN MAGNIFIER` user?
-- How often do you use `this tool`?
+- How long have you been using [tool]?
+- Would you say you're a beginner, intermediate or experienced [tool] user?
+- How often do you use [tool]?
+- What device are you using today? [Desktop, mobile, tablet, Mac, Windows, Android?]
 
 <details>
   <summary>Key things to notice</summary>
@@ -126,7 +131,7 @@ I'd also like to know a little more about how you're using your assistive tech.
 
 ## Set up (10 minutes)
 
-- Have you ever shared your screen on Zoom while using `this tool`?
+- Have you ever shared your screen on Zoom while using [tool]?
 
 Okay, great. We're going to do that now. So, if you have any windows open that you don't want to share, you can take a moment to close them.
 
@@ -134,7 +139,7 @@ Okay, great. We're going to do that now. So, if you have any windows open that y
   - `IF YES` Please share your screen when you're ready.
   - `IF NO` I’ll help guide you through how to share your screen...
 
-> [Open link to screen reader instructions to assist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
+> [If needed, refer to screen reader instructions to assist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
 
 > Screen sharing starts.
 
@@ -143,16 +148,12 @@ Thanks! Now I’m able to see your screen.
 Next, I'm going to share a link to the test website.
 
 - [Do we know how they prefer to receive the link?]
-  - `IF YES` I'm going to `email, text, send in the chat, or dictate` the link now.
-  - `IF NO` Would you prefer that I email you the link, text, or send it in the chat on Zoom? Or, I can dictate it.
+  - `IF YES` I'm going to `email, send in the Zoom chat, or dictate` the link now.
+  - `IF NO` Would you prefer that I email you the link, send it in the Zoom chat or dictate it to you?
 
-> Send link to staging, username and password.
+> Dictate or send link: [https://staging.va.gov/contact-us/ask-va-too/](https://staging.va.gov/contact-us/ask-va-too/).
 
-Okay, I just sent you the link. I also shared a username and password for this session.
-
-I'm going to give you a couple minutes to open your `email, text or Zoom chat`. When you're ready, you can open the link.
-
-> Staging link open.
+> Opens staging link: [https://staging.va.gov/contact-us/ask-va-too/](https://staging.va.gov/contact-us/ask-va-too/).
 
 ## Home page (10 minutes)
 
@@ -200,9 +201,15 @@ For today, we're going to sign in...
  
 We're going to use a test account today.
 
-I `emailed, texted` (or `will send in the Zoom chat, dictate`) you a user name and password for this session. I'll give you a moment to access that.
+When you're ready, start by navigating to ID.me.
 
-When you're ready, please navigate to ID.me and input the test user name and password.
+Now, I can dictate the test username and password to you, send it in the Zoom chat or email you. What do you prefer?
+
+> Dictate or send link.
+
+Username: tyler+02@bluetiger.digital
+
+Password: [Documented in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md).
 
 > Signs in to test user account.
 

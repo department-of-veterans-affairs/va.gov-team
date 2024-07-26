@@ -41,4 +41,3 @@ The following overview demonstrates the changes we'll be implementing for versio
       9. Detail page with additional information 🆕
 3. Include transparency around data accuracy
    1. Alert above search results
-   2. Report Outdated Information feature

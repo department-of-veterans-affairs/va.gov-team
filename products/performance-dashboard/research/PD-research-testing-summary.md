@@ -32,7 +32,7 @@ To help identify our persona(s) we conducted a few Discovery calls.
 
 ##### Discovery conversation guide V1:
 
-[Performance Dashboard discovery call conversation guide](https://docs.google.com/document/d/17TJqllEs8EaPv6d0_S-zZgG47h_HJgmuFcD5Mzk233Q/edit#heading=h.jq196tgwocwp)
+[Performance Dashboard discovery call conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/PerformanceDashbord-discovery-conversation-guide.md)
 
 ****
 
@@ -53,11 +53,11 @@ We created a script to ensure that we answered these questions:
 
 ##### Notes from discovery calls:
 
-[Jeff Notes](https://docs.google.com/document/d/1w47dOBuu_OFY7LVxz_KOK8EdTeSjN76ZHrsHFMhlj-A/edit)
+[Jeff Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/Notes%20from%20Discovery%20calls/Jeff-Notes.md)
 
-[Jon Notes](https://docs.google.com/document/d/1v2X35WPhCUJEqKr6u4jBn187ow9GgTlh1tmAkrQkkqw/edit#heading=h.mof8ud9mcj20)
+[Jon Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/Notes%20from%20Discovery%20calls/Jon-Notes.md)
 
-[Michelle Notes](https://docs.google.com/document/d/1URMdmTGcgaqge7jn-1CfCiVrDAphZmD5SapTzyxljfM/edit#heading=h.uh50l7tnvgnv)
+[Michelle Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/Notes%20from%20Discovery%20calls/Michelle-Notes.md)
 
 
 ##### Summary of findings:
@@ -130,12 +130,12 @@ We took the feedback from the calls and created an affinity map to understand th
 
 #### Research Plan
 
-[Research plan document](https://docs.google.com/document/d/1tjW_tQEtun8pipa-LostI3i9y_aTsMyTeZQueCJIfSk/edit#heading=h.dspoq7ro9lat) 
+[Research plan document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/usability-research-plan.md) 
 
 
 #### Conversation Guide for Usability research (Conversation Guide 2)
 
-[Link to conversation guide](https://docs.google.com/document/d/1ygEEg9lOJqrsMQNmjayET3kUZfHOPGk8Bz4hLtGro50/edit#heading=h.3cpib8m3987m)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/usability-conversation-guide.md)
 
 ****
 

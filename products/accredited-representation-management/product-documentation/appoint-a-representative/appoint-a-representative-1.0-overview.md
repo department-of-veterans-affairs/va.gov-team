@@ -9,7 +9,7 @@ Developed by the Accredited Representation Management team, the Appoint a Repres
 2. Tell us who you are (Veteran or non-Veteran claimant)
 3. Select a Representative/Organization
    1. Select the accredited represenative
-   2. Select the associated VSO (VSO representatives only)
+   2. Select the associated VSO (cross-accredited VSO representatives only)
    3. Confirmation to replace an existing representative (if applicable)
    4. Reminder to contact the representative
 3. Claimant Information

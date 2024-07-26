@@ -12,10 +12,10 @@ Last updated by @tygindraux on September 18, 2023
 ## Background
 
 ### Research goals
-* Understand the information you need to see when you log into Ask VA
+* Understand the information you need to review when you log into Ask VA
 * Understand when & why you need to filter and sort inquiries
 * Explore different ways to view business & personal inquiries
-* Understand the information you need to see when you open inquiry details
+* Understand the information you need to review when you open inquiry details
 
 ### Agenda
 * 5 min - Intros
@@ -26,7 +26,7 @@ Last updated by @tygindraux on September 18, 2023
 * 5 min - Closing & questions
 
 ### Materials
-We used Mural for this workshop. You can view the activities and findings here: [9/14/23 Dashboard workshop with SCOs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694439082995/b37a804f76e3eae53b295792c422244fef6bda9f?wid=0-1694720743894).
+We used Mural for this workshop: [Dashboard workshop with SCOs – Sep 2023](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694439082995/b37a804f76e3eae53b295792c422244fef6bda9f?wid=0-1694720743894).
 
 ## Insights
 
@@ -38,8 +38,8 @@ We used Mural for this workshop. You can view the activities and findings here: 
 * Category and topic are often the same, for example, 'Education' and 'Work study'. This makes these labels less useful when you sort through inquiries.
 * **Takeaway:** This implies that inquiry number should not be the leading label, and we should re-think which labels should be shown at all.
 
-#### More to less helpful dashboard labels
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/More-to-less-helpful-labels.png)
+#### Most to least helpful dashboard labels
+![Most to least helpful dashboard labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/09-2023-Most-to-least-helpful-labels.png)
 
 ### How do you prefer to sort or filter for an inquiry?
 * Having a search function which allows you to input free-text would be the most beneficial change to the dashboard.
@@ -47,7 +47,7 @@ We used Mural for this workshop. You can view the activities and findings here: 
 * **Takeaway:** This implies a need for a search function.
 
 #### Search example
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/Search-example.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/09-2023-Search-example.png)
 
 ### When do you check on an inquiry? How do you know when you receive a response?
 * Emails help an SCO know when a status has changed, and triggers them to sign in and look at their dashboard.
@@ -79,8 +79,8 @@ We used Mural for this workshop. You can view the activities and findings here: 
 * **Takeaway:** This implies that inquiry number should not be the leading label, and we should re-think which labels should be shown at all.
 * **Takeaway:** This implies that their should be less onus on the submitter to reroute an inquiry, if they choose the wrong category or topic. (This is out of scope right now.)
 
-#### More to less helpful inquiry details
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/SCO%20dashboard%20workshop/More-to-less-helpful-inquiry-details.png)
+#### Most to least helpful inquiry details
+![Most to least helpful inquiry details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/09-2023-Most-to-least-helpful-inquiry-details.png)
 
 ## Next steps
 

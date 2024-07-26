@@ -1,6 +1,19 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+## 7/23/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+1. the toxic exposure testing plan (logistics of how we create/cancel claims in prod) and release timing!
+2. why don't we ask service connection question for PTSD/mental health conditions?
+Initial conditions questions are really driven based on avenues of service connection (direct, secondary, aggravataion)
+Avenues of service connections are used to determine what further questions are asked
+What if we added a 5th option "this was caused by a traumatic event", and ustomize radio button option to show only for mental health conditions? 
+The service connection questions still need to be there for the PTSD and mental health conditions. Down the line we can get into the 0781 questions
+4. currently, POW is in step 2 conditions. we noticed on paper 526, it's under "service information / service history." could we move POW question to step 1 of digital 526?
+Kevin agrees that POW in step 2 seems disjointed and agrees with moving it to the step 1 
+
 ## 7/09/24 Biweekly VBA-DBEX Check-in
 ### Notes
 1. (Q12) Is there a distinction between "medical reports" in this list vs. records from VA or non-VA health care providers? We're trying to see if we can remove this checkbox if it is redundant with medical records. [(wireframe)]([url](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4536-52527&t=t3GiM6ziyALYrIEO-1)) 

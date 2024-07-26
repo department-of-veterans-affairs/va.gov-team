@@ -6,7 +6,7 @@ The Architecture Intent meeting helps your team build a solution that meets Vete
 
 ## What is the purpose of Architecture Intent meeting?
 
-The Architecture Intent meeting is less a formal presentation and more of a discussion.  It not only provides OCTO-DE and Platform with an early understanding of the product/feature your team wants to build, but is also an opportunity to collaborate and provide feedback on the intended implementation and surface any adjustments needed to meet VSP engineering standards. The focus is on making sure your code meets user needs within the constraints of the platform your building on.
+The Architecture Intent meeting is less a formal presentation and more of a discussion.  It not only provides OCTO-DE and Platform with an early understanding of the product/feature your team wants to build, but is also an opportunity to collaborate and provide feedback on the intended implementation and surface any adjustments needed to meet VSP engineering standards. The focus is on making sure your code meets user needs within the constraints of the platform you're building on.
 
 TODO: emphasize that this is a low stakes, collaborative conversation to help connect eng teams with the information and resources they need to build great things
 
@@ -20,7 +20,7 @@ You should schedule an Architecture Intent meeting if any of these apply:
 - You're using an architecture pattern not currently found on the va.gov platform.
 - You plan to use a new technology, library or dependency.
 - You're integrating with a new system or API, inside or outside of the VA.
-- You're change requires complex coordination across teams or you need support to coordinate across teams.
+- Your change requires complex coordination across teams or you need support to coordinate across teams.
 - You're gathering new Personally Identifiable Information ([PII]) and/or Protected Health Information ([PHI]) or saving PII/PHI in a new place.
 - There are cost, performance or security implications to your change.
 
@@ -61,7 +61,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - Data storage
     + Describe new or modified databases, tables or columns
     + Describe indexes and constraints
-    + Identify PII and PHI
+    + Identify PII and PHI and where and how it will be stored and processed
 - Libraries and dependencies
     + List new or updated dependences
 - Metrics, logging, observability, alerting

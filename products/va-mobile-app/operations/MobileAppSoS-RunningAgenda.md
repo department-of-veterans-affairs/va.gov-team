@@ -10,6 +10,47 @@
   * POs reconfirm project priorities
   * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
   
+## OKRs
+### Platform
+#### Stability
+| KR |Q2 | Q3 | 
+|-------- | ----------- | ----------- | 
+|Zero app store rejections | 0 | 0 |
+|Zero failed CI processes related to a release | 0 | 0 |
+|Reduce bugs by 25% | 0 | 0 |
+|Zero failed RC testing due to a bug | 0 | 0 |
+|Zero severity-1 accessibility issues | 0 | 0 |
+
+#### Productivity
+| KR |Q2 | Q3 | 
+|-------- | ----------- | ----------- | 
+|Platform user happiness trends in positive direction | Establishing Baseline | 0 |
+|100% of new devs are "up and running" by the end of first sprint: can build and test front end locally; can build and test back end locally; merged one PR. | Blocked | Blocked |
+|100% of Experience teams’ PMs and designers own mobile tickets on Experience teams’ board by the end of first sprint. | Blocked | Blocked |
+
+
+### VA H&B App
+#### Retention
+| KR |Q2 | Q3 | 
+|-------- | ----------- | ----------- | 
+|Retention at the 30, 60, and 90-day marks increase by 10% | 0 | 0 |
+
+#### Satisfaction
+| KR |Q2 | Q3 | 
+|-------- | ----------- | ----------- | 
+|Baseline Veteran satisfaction score is established | Blocked | Blocked |
+|Veteran satisfaction score is increased by 10% | Blocked | Blocked |
+|App store rating remains at or above 4.6 / 4.8 | Yes | Yes |
+
+#### The App Works
+| KR |Q2 | Q3 | 
+|-------- | ----------- | ----------- | 
+|App load time is 2 seconds or less | 0 | 0 |
+|Reduce bugs by 25% | 0 | 0 |
+
+
+
+
 
 
 ## Agenda

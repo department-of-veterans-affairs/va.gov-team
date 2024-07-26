@@ -1,5 +1,23 @@
 # Design Weekly Sync Agenda
 
+## 2024-07-23
+Attendees: Angela, Jessica, Hieu, and Lois.
+
+Team updates Lois on current projects and efforts:
+
+- MHV: EZR team met with Sara S. from MHV to talk about how EZR exists within the MHV landing page. Notes from the meeting:
+  - Brief history; MyHealtheVet was a subdomain of VA.gov for a long time and now they’re shifting it to be a portal under VA.gov as a “health portal”.
+  - The health portal focuses on “managing health”, it touches 9 other teams (10 if Profile is included). EZR and Travel reimbursement are under the health portal.
+  - Phase Rollout mural - the health portal is currently going through phase 0 (the pilot phase). Once a component passes phase 1, the site has a ‘try me’ option for Veterans/users. 
+  - Sara explains that the breadcrumb is vertical and the home/back/continue movement is horizontal. Back-link in the digitalized form brings the user back to the previous page while back-link in the MyHealtheVet space would likely bring them back to the previous task. 
+  - Besides OCTO, there is OCC (Office of Connective Care) who are nurses, doctors, and other health professionals that review and approve changes. 
+- NOK/EC: There is a larger effort to prioritize the editing capabilities. Profile and Health Enrollment have different backend systems and the next steps would be for the PM/DM to chat about the roadmap. EZR will proceed with having the NOK/EC incorporated into the existing form flow.
+- TERA: Unlike email or phone numbers, the VES system does not collect individual responses for TERA so the team cannot prefill the answers. While we can display eligibility, it may not be worth the effort. The team recently learned some conflicting information from HEC regarding the TERA flags. 
+- TERA special character error: It was indicated that the VES was ready to receive the special characters so the team went for a quick win with a quick turn around. It turns out the VES backend was not ready to receive that information so now the team has to do a Post-mortem. 
+- CAIA refresher: UX enjoys working with Content but their smaller team means it is still a major roadblock in pushing out work. The team met to discuss the best course of action, with CAIA noting it is okay to move forward with small changes. There is a larger discussion happening between Danielle and OCTO. The team will regroup for an update.
+- Facilities: Current discovery on how the Veteran can search for their local VA Facility. Today, it is a dropdown menu. 
+- Katelyn’s backfill will be Renata. They’re currently working in the VA space and will formally join the team on August 1st. 
+
 
 ## 2024-07-01
 Attendees: Angela, Jessica, Hieu, Lois and Katelyn

@@ -8,7 +8,7 @@
 
 |Stakeholder|Business area|
 |:--|:--|
-|David Smith|VR&E (Veteran Readiness and Employment)|
+|Jacylou Terciano|VR&E (Veteran Readiness and Employment)|
 |Krystal Connor|VR&E (Veteran Readiness and Employment)|
 
 ### Engagements

@@ -223,8 +223,9 @@ On a scale of 1 to 5, how confident are you that your claim was submitted and re
 
 [Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5966-58868&t=pNM9YNKaPaTs2lbo-1&show-proto-sidebar=1&starting-point-node-id=5966%3A58868)
 
-Thanks for your feedback with the last scenario. Now, we are going to start the submission process over from the very beginning. Just like before, you submitted a new disability claim.
-You received a confirmation email, which you are currently looking at in your inbox. You haven’t received anything since, but a new message just arrived in your inbox, let’s take a look.
+Thanks for your feedback with the last scenario. Now, we are going to start the submission process over from the very beginning. Just like before, you submitted a new disability claim. You received a confirmation email, which you are currently looking at in your inbox. Please click on it and review. 
+
+Imagine two days have passed and a new message just arrived in your inbox, let’s take a look.
 
 **[Evidence failure email]**
 

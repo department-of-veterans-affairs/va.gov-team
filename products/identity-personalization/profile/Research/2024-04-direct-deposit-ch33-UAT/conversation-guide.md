@@ -43,18 +43,20 @@ I’m meeting with people like yourself to help me test these updates to make su
 
 This will involve trying to make some edits to your bank account information – however, none of the edits we try to make will actually save, so your bank account information will remain the same.
 
+I'm going to ask you in a bit to share your screen. Before I do though, you'll need to sign into your VA.gov account. 
+
 ## Share screen and navigate to VA.gov - 1 minute
 
-For the next step, I'll have you share you screen so we can look at VA.gov together. 
+Please open a browser and go to VA.gov. 
 
-_Once their screen is visible:_ Next, let’s open a browser and go to VA.gov. 
-
-_Once they arrive at VA.gov:_ Go ahead and log in.
+_Once they arrive at VA.gov:_ Go ahead and log in using Id.me or Login.gov.
 
 - [ ] Participant logs in with `Login.gov`  
 - [ ] Participant logs in with `ID.me` 
 
 ## UAT Task #1: Confirm LOA3 account - 2 minutes
+
+For the next step, I'll have you share you screen so we can look at VA.gov together. 
 
 Alright, we’re just going to pause and make sure we’re seeing the right information on the screen (an identity-verified account).
 

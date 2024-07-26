@@ -156,7 +156,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Research sessions - Estimated
 * Planned dates of research: Currently we're estimating that our research will take place the first and second week of August.   
 * Proposed dates:
-	- 7/30, 8/1, 8/2, 8/5, 8/6, 8/7, 8/8, 8/9
+	- 8/1, 8/2, 8/5, 8/6, 8/7, 8/8, 8/9
 
 ### Length of sessions
 * Session length: 1 hour
@@ -165,7 +165,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.*  
-* July 30: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
+  
 * August 1: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
 * August 2: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
 * August 5: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
@@ -182,13 +182,38 @@ Please request enough dates and at ***least double the amount of time slots for 
 - Moderator: Liza McRuer
 - Research guide writing and task development (usually but not always same as moderator): Liza McRuer
 - Participant recruiting & screening:	Perigean
-- Project point of contact:	Liza McRuer
+- Project point of contact:	Liza McRuer, liza.mcruer@adhocteam.us, (202) 818-8710 x1393
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	Not this study, but we will conduct a secondary study
-- Note-takers and Observers: [Canvas in Public Channel](https://dsva.slack.com/docs/T03FECE8V/F073KRQ3FV5)
-
+- Note-takers and Observers: [Canvas in Public Channel](https://dsva.slack.com/docs/T03FECE8V/F07E2B34P19)   
+   
+ 
+- **IIR Team Members (Observers and/or Notetakers):**
+- 	Adam King - adam.king@oddball.io   
+- 	David Pearl - david.pearl@adhocteam.us   
+- 	Emily Allan - emily@oddball.io   
+- 	Eunice Garcia - eunice.garcia@va.gov   
+- 	Jeff Barnes - jeffrey.barnes4@va.gov   
+- 	John Rodriguez - john.rodriguez@adhocteam.us   
+- 	Kathleen Kufalk - kathleen.kufalk@oddball.io   
+- 	Kyle Henson - kyle.henson@oddball.io   
+- 	Mason Crane - Mason.Crane@oddball.io   
+- 	Megan Commons - megan.commons@oddball.io   
+- 	Nick Sayre - nick.sayre@adhocteam.us   
+- 	Pete Egan - peter.egan@oddball.io   
+- 	Raquel Eisele - raquel.eisele@adhocteam.us   
+- 	Ryan Thurwell - ryan.thurlwell@va.gov   
+- 	Steve Long - steven.long@adhocteam.us   
+- 	Tabinda Syed - tabinda.syed@oddball.io
+- **Profile Team Members (Observers and/or Notetakers):**
+- 	Anastasia Jakabcin - ana@adhocteam.us
+- 	Travis Cahill - travis.cahill@agile6.com
+- 	Matt Marino - Matt.marino@adhocteam.us     
+  
 ------
 Update Log: 
+* Liza McRuer, 7/25/2024, updated team member list / potential observers
+* Liza McRuer, 7/23/2024, updated dates
 * Liza McRuer, 7/10/2024, updated dates   
 * Liza McRuer, 6/18/2024, added research materials, updated timeframe
 * Liza McRuer, 6/10/2024, adjusted goals and added in secondary research of testing a profile completion flow
