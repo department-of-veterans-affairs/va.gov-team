@@ -60,9 +60,9 @@
 - **New Landing Page with Today's VISTA Appointments**
     - **Sprint Goal is to adress the 3 launch-blocking issues from the 7/23 Staging Review and release the feature**
     - ❗🟩 [[FE] - Review and merge PR last sprints tickets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88841)
-    - ❗🟩 [Staging Review finding: Input error messages not announced by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89010)
-    - ❗🟩 [Staging Review finding: "Check in now" links not announced the same way by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89009)
-    - ❗🟩 [Staging Review finding: Inconsistent language around identity verification in "Check if your information is up to date" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89007)
+    - ✔️ ❗🟩 [Staging Review finding: Input error messages not announced by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89010)
+    - ✔️ ❗🟩 [Staging Review finding: "Check in now" links not announced the same way by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89009)
+    - ✔️ ❗🟩 [Staging Review finding: Inconsistent language around identity verification in "Check if your information is up to date" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89007)
     - ❗🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
     - ❗🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
     - ❗🟪 Schedule a 508 Audit
