@@ -1,4 +1,4 @@
-# Patient Check-in & OH Travel Analytics
+# Patient Check-in (PCI) & OH Travel Analytics
 
 - [Metrics Dashboards for Reporting Purposes](#metrics-dashboards-for-reporting-purposes)
 - [VSignals Feedback](#vsignals-feedback)
@@ -14,7 +14,7 @@
 | Google Analytics 4 | Pre-Check-in | [PCI Pre-Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#pre-check-in) | Used to get pageviews, button clicks, & collapse/expands for collapsible components |
 | Google Analytics 4 | Travel via eCheck-in |[PCI Travel Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#travel-via-echeck-in) | Used to get pageviews, button clicks, & collapse/expands for collapsible components |
 | Google Analytics 4 | OH Travel | **DRAFT** [OH Travel Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/iAXzqTMmQUCANjIKJbm3pA) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#oh-travel) | Used to get pageviews, button clicks, & collapse/expands for collapsible components |
-| Datadog | PCI (eCheck-in, Pre-Check-in) | [PCI Metrics](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716916715976&to_ts=1719508715976&live=true) | | Used to calculate (from API call success/failure) audience, completions, verification rate, conversion rate, and error rate |
+| Datadog | PCI (eCheck-in, Pre-Check-in) | [PCI Metrics](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716916715976&to_ts=1719508715976&live=true) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-datadog-summaries.md) | Used to calculate (from API call success/failure) audience, completions, verification rate, conversion rate, and error rate |
 | Datadog | PCI (eCheck-in, Pre-Check-in) | [SLOs](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1716916742233&to_ts=1719508742233&live=true) | | Used to determine completion latency and calculate the PCI uptime |
 | DOMO | PCI (eCheck-in, Pre-Check-in) | [Medallia Report](https://va-gov.domo.com/page/825663825) |  | Used to get the customer satisfaction score  |
 
