@@ -19,7 +19,7 @@ Up to this point, the app has used a one-size-fits-all approach to the home scre
 
 * Veterans don’t have a way to get a **quick overview of what VA is doing for them now or that something is needed from them** in order to keep things moving.
 * Veteran **expectations and understanding** of what they think they can do in the mobile app are **limited and often inaccurate** (they want something to help them, and to know if the app is that thing).
-* As the app adds more functionality or a Veteran gets more benefits from VA, Veterans have to do more work to complete tasks and find information related to them. 
+* As the app adds more functionality or a Veteran gets more benefits from VA, Veterans have to **do more work to complete tasks** and **find information related to them.** 
 
 We believe that these problems are making it more difficult for Veterans to realize how the app can help them which is resulting in **decreased user retention.**
 
