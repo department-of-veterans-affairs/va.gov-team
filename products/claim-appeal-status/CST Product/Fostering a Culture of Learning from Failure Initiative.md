@@ -1,7 +1,7 @@
 # OCTO: Fostering a Culture of Learning from Failure Initiative
 
 * GitHub Label: octo-learning-from-failure
-* Slack channel: #octo-culture-improvement
+* Slack channel: #benefits-portfolio
 * Product: OCTO Culture & Process Improvement
 * GitHub Issue: [To be added]
 
