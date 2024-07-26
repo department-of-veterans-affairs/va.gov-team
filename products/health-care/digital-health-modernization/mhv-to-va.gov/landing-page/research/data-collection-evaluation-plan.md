@@ -17,7 +17,7 @@ This evaluation plan outlines how the Cartography team will measure and track th
 
 ## **KPIs**
 
-| **Theme** | **Question** | **Metric** |
+| **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** |
 | --- | --- | --- |
 | Findability |  |  |
 | Findability |  |  |
