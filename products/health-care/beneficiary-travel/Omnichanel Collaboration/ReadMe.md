@@ -31,10 +31,10 @@ Last update: 7/23/24 by Cara Frissell
 
 #### 2023
 
-#### [Unified Check-In Experience Usability Study - April](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study)
 
 #### [Past Appointments Travel Reimbursement Generative Usability Study - November](https://github.com/department-of-veterans-affairs/va.gov-team/tree/93738300a77e4cb6236cb225d6b2b871abf85f8f/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study)
 
+#### [Unified Check-In Experience Usability Study - April](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study)
 
 #### 2022
 
