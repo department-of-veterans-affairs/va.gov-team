@@ -39,7 +39,7 @@ We will need to use BOTH of these toggles to control the release.
 |---|---|
 |UAT Go/No-go Convo|[Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80802)|
 |Desired Date Range or Test Duration| [research plan for more details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-04-direct-deposit-ch33-UAT/research-plan.md)|
-|Desired Number of Users||
+|Desired Number of Users|| 9 (with 6+ completed sessions)
 |How you'll recruit the right production test users|We will recruit users via Perigean|
 |How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
 |How you'll give the test users access to the product in production w/o making it live on VA.gov|The feature will be behind a feature flag|
@@ -52,6 +52,7 @@ We will need to use BOTH of these toggles to control the release.
 |Number of Users| 5 |
 |Number of Bugs Identified/Fixed| none |
 |Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?| none |
+[Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/ch33-bdn-corpdb-migration/UAT/Direct%20deposit%20payment%20instruction%20consolidation%20UAT%20findings.md)
 
 
 ## Phase II - Staged Rollout 
