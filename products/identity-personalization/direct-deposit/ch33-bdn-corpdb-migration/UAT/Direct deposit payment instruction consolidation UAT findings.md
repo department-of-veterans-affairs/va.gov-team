@@ -15,6 +15,31 @@ Man | X years old |
 
 Man | X years old |
 
+## Research Goals	
+The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for users who sign in with `ID.me` or `Login.gov` and who have direct deposit set up with their bank information. 
+
+Specifically, this research will be looking to validate the following use cases:
+- Participants view and edit the correct direct deposit information in their account for all three user scenarios, and receive email confirmations:
+	- Veterans with education benefits and compensation & pension
+	- Veterans with just education benefits
+	- Veterans with just compensation & pension
+- We are able to confirm that the information being returned from the API matches what is being populated for users on the screen.
+- We are able to confirm that the following safeguards in place are working correctly:
+	- invalid routing/account numbers cannot be saved
+	- numbers over/under the character limit are unable to be saved
+
+## Methodology 
+While sharing their screen in remote (Zoom) interviews, participants will complete specific tasks as part of UAT to either demonstrate that Direct Deposit, Profile is functioning as expected.
+
+### Location
+Remote via Zoom
+
+### Research materials
+
+[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-04-direct-deposit-ch33-UAT/research-plan.md)
+
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-04-direct-deposit-ch33-UAT/conversation-guide.md)
+
 ## Tasks and Outcomes
 
 All 5 participants successfully completed all 10 tasks they were given. With the two other participants, one never began testing at all and the other could not proceed after completing the initial task of logging into their account. 
