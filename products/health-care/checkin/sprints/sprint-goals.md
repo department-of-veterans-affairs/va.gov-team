@@ -21,9 +21,8 @@
         - 🟪 Need TestRail reports links
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
-    - 🟥 [Create Draft Desktop Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
-    - 🟩 TBD
-    - 🟩🟦 [[BE][FE] Appointments Online Scheduling Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88049)     
+    - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
+    - 🟩 TBD 
 - **Upcoming VAOS Appointments**
     - **Sprint Goal Finish all work and schedule a Staging Review & Infrastrucutre Readiness Review**
     - 🟩 [[FE] Create Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
@@ -41,7 +40,6 @@
     - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
     - 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
     - 🟩 [Staging Review finding: Replace imposter component with va-link-action ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89001)
-    - 🟩 [Staging Review finding: Capitalization errors in "review your information" header ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89002)
     - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
     - 🟩 [Staging Review finding: Missing punctuation in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89005)
     - 🟩 [Staging Review finding: Missing periods in the appointment time in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89006)
