@@ -1,4 +1,4 @@
-# Analytics
+# Patient Check-in & OH Travel Analytics
 
 - [Metrics Dashboards for Reporting Purposes](#metrics-dashboards-for-reporting-purposes)
 - [VSignals Feedback](#vsignals-feedback)
