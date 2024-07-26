@@ -10,6 +10,8 @@
 _Input was requested by Product Manager Lindsay Li-Smith via email “21-22/21-22a Required Fields?” and provided by Jenny Rosenau and Jessica Pierce with Compensation Service (r_[_equired form fields_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/required-form-fields.md)_)._
 - **4/25/2024**: MVP is updated to include feedback from multiple rounds of stakeholder review (VBA, OGC, OIT/VEO, Compensation Service).\
   _Communicated by Product Manager Lindsay Li-Smith via email “Design Review: Appoint a Rep (Digital form fill of 21-22/21-22a)”._
+- **6/10/2024**: Decided to move forward with the search results experience where we show cards as the search result. No longer pursuing our "fuzzy search" design due to accessibility concerns from both Governance and Design System Council.\
+  _Communicated by Product Manager Lindsay Li-Smith ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84521#issuecomment-2159012482))._
 - **6/12/2024**: Defined the MVP experience for LOA1 and LOA3 authenticated users.\
   _Confirmation received from Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1718231009653709?thread_ts=1718137835.902289\&cid=C05L6HSJLHM))._
 - **6/24/2024**: VA OI\&T Privacy Officer approves the MVP email notification (confirmation and next steps).\
