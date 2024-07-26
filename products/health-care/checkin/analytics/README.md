@@ -1,28 +1,23 @@
 # Analytics
 
 - [Metrics Dashboards for Reporting Purposes](#metrics-dashboards-for-reporting-purposes)
-- [GA4 Explore Reports' Regular Expressions for Pages](#ga4-explore-reports-regular-expressions-for-pages)
 - [VSignals Feedback](#vsignals-feedback)
 - [Medallia Feedback](#medallia-feedback)
-- [DataDog Dashboards](#datadog-dashboards)
+- [Various DataDog Dashboards](#various-datadog-dashboards)
 
 ## Metrics Dashboards for Reporting Purposes
-- Looker Studio Visual Dashboards
-  - [PCI Metrics Looker Studio Dashboard](https://lookerstudio.google.com/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C) and [Data Sources Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-metrics-looker-dashboard.md)
-  - **DRAFT** [Travel Metrics Looker Studio Dashboard](https://lookerstudio.google.com/reporting/940b5ada-fd8d-46ca-9c14-314dedd089ce) and [Data Sources Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/travel-metrics-looker-dashboard.md) 
-- For page views, button clicks, & collapses/expands of collapsible components
-  - [PCI GA4 Check-in Metrics Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w) and [Data Sources Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#check-in)
-  - [PCI GA4 Pre-Check-in Metrics Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A) and [Data Sources Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#pre-check-in)
-  - [PCI GA4 Travel Metrics Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA) and [Data Sources Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#travel-via-echeck-in)
-  - **DRAFT** [OH Travel GA4 Metrics Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/iAXzqTMmQUCANjIKJbm3pA) and [Data Sources Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#oh-travel)
-- For audience count, completion count, verification rate, conversion rate, and error rate (based on API call successes/failures)
-  - [PCI Datadog Metrics](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716916715976&to_ts=1719508715976&live=true)
-- For overall PCI downtime (used to calculate uptime) & individual application latencies
-  - [PCI SLO Metrics](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1716916742233&to_ts=1719508742233&live=true)
-- For customer satisfaction score
-  - [DOMO Medallia Metrics](https://va-gov.domo.com/page/825663825)
-    - Can select the Patient Check-in filter and scroll down below the "Feedback Survey" title to get the overall PCI customer satisfaction score
-    - Can select each application path individually to get individual customer satisfaction scores
+| Platform | Application(s) | Dashboard Link | Data Sources Summary Link | Used For |
+| ------------| ----------- | --------- | -------- | -------- |
+| Looker Studio | PCI (eCheck-in, Pre-Check-in) | [PCI Metrics](https://lookerstudio.google.com/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-metrics-looker-dashboard.md) | Used to display timeline series graphs of audience, completions, verification rate, conversion rate, error rate, downtime, & customer satisfaction score |
+| Looker Studio | OH Travel | **DRAFT** [Travel Metrics](https://lookerstudio.google.com/reporting/940b5ada-fd8d-46ca-9c14-314dedd089ce) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/travel-metrics-looker-dashboard.md) | Used to display timeline series graphs of audience, completions, verification rate, conversion rate, error rate, downtime, & customer satisfaction score |
+| Google Analytics 4 | eCheck-in | [PCI Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#check-in) | Used to get pageviews, button clicks, & collapse/expands for collapsible components |
+| Google Analytics 4 | Pre-Check-in | [PCI Pre-Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#pre-check-in) | Used to get pageviews, button clicks, & collapse/expands for collapsible components |
+| Google Analytics 4 | Travel via eCheck-in |[PCI Travel Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#travel-via-echeck-in) | Used to get pageviews, button clicks, & collapse/expands for collapsible components |
+| Google Analytics 4 | OH Travel | **DRAFT** [OH Travel Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/iAXzqTMmQUCANjIKJbm3pA) | [Data Sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/dashboard-summaries/pci-ga4-summaries.md#oh-travel) | Used to get pageviews, button clicks, & collapse/expands for collapsible components |
+| Datadog | PCI (eCheck-in, Pre-Check-in) | [PCI Metrics](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716916715976&to_ts=1719508715976&live=true) | | Used to calculate (from API call success/failure) audience, completions, verification rate, conversion rate, and error rate |
+| Datadog | PCI (eCheck-in, Pre-Check-in) | [SLOs](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1716916742233&to_ts=1719508742233&live=true) | | Used to determine completion latency and calculate the PCI uptime |
+| DOMO | PCI (eCheck-in, Pre-Check-in) | [Medallia Report](https://va-gov.domo.com/page/825663825) |  | Used to get the customer satisfaction score  |
+
 - [How to Generate an Analytics Report for Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
     - This needs to be updated based on the outcome of the meeting with Stephen & Jeff/Leah
 
@@ -32,7 +27,7 @@
 ## Medallia Feedback
 - [How to Request and Process Medallia Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/how-to-request-medalia-feedback.md)
 
-## DataDog Dashboards
+## Various DataDog Dashboards
 - Public (with url)
      - [Check In (Travel Claims)](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-3a95d2603bfb8826abb8aa81a04efd03)
      - [Check In (Travel Claims) for Stakeholders](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-a97e86a93c36244163f942ed0859de7b?refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1703524114192&to_ts=1706116114192&live=true)
