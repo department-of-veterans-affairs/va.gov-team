@@ -121,7 +121,36 @@ List the features toggles here.
 ## Step 3: Production Rollout
 
 ### Do I need a staged rollout?
-**Yes, we are doing a staged rollout**
+Toxic Exposure will be a staged rollout using the following traffic percentages for each stage: 5%/10%/25%/50%/75%/100%.
+
+### Measuring Success Criteria
+To aid decision making, the team 1 determine if we should proceed to the next stage, the following criteria should be met
+To understand the feasibility of proceeding to the next phase of the staged rollout, disability benefits Team 1 established will be looking at the following:
+
+- Sum of established submissions is roughly equivalent to the target count of submissions within the established time frame
+- The claim record is complete in VBMS
+- The generated pdf exists in the Veteran's eFolder
+- The information in the generated pdf is correct, i.e. it matches the submission record in VBMS
+- Count of 202 responses from LH matches the count of submission records in Vets-api database. This indicates a successful pdf generation for the submission and a claimId. When these numbers match it means success. Note: There's up to a 48 hour delay in pdf generation, and while a 202 response from Lighthouse indicates the service was reached, it's not an indicator that the pdf was generated, so we'll need to wait up to 48 hours for confirmation. Because of this lagging indicator, we'll want to allow up to a 48 hour waiting period during moderated production testing and canary testing to ensure success. 
+- Downstream services we'll be watching
+    - Lighthouse /ppiu (direct deposit) (GET)
+    - VA Profile (GET)
+    - VBMS
+    - Lighthouse /brd
+    - Lighthouse /submit (synchronous)
+    - Lighthouse /generatePdf
+    - vetsApi database
+
+### Open questions/needs:
+- Better understand how error responses differ between Lighthouse and VBMS
+- For a submission workload, determine with more specificity how to segment out which service(s) are failing
+- How to compare the generated pdf and the structured data of the submission. We may need a VSR or OCTO employee with appropriate access.
+- When GETs don't process, is it because of the service or because of us?
+- How can we determine Vets-api database is performing as required?
+- Will the Vets-api database be overwhelmed by read/write requests given that the 526 submission and Lighthouse use the same DB
+- What is the baseline level of performance for Vets-api database that we should know beforehand?
+- What are the Lighthouse error types and codes?
+
 
 ### Define the Rollback process
 DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which would prevent any Veterans starting a new form from receiving the 2022 version of the form. In the event catasrophically wrong with the user filling out the form, our failsafe rollback would be to take them off the 2022 path by removing the startedFormVersion key from the Veteran's formData. This would require manipulating form data in the database. This would also drop completed TE form data from the Veteran's 2022 form, but the TE form data would still exist in the database.
@@ -170,6 +199,9 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - Domo Dashboard request submitted
 - Who is monitoring the dashboard(s)?: PM, Disability teams 1 & 2, OCTO PO (Emily Theis) monitor analytics for issues (failed submissions, traffic irregularities, unexpected errors)
 
+
+
+
 #### Prerequisites:
 Approvals & to do's for launch:
 - [ ] Development for release 1.0 and 1.1 are complete, and the ability to give certain Veterans access to 2022 form based on the toggle state
@@ -195,9 +227,24 @@ Approvals & to do's for launch:
 #### Results
 - Number of unique users: 
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: 
+- Was any downstream service (VBMS, LH /brd, /ppiu (GET) (direct deposit), /submit (synchronous), /generatePdf, VA Profile (GET),  affected by the change?:
+- VBMS: what does a response from VBMS look like vs LH errors?
+- we need a way to segment out which service is failing
+- bad data for VSRs, - ensure the claim record is complete, pdf is fully filled out and exists. we should be able to compare the claims we created for Jesse G vs Canary users. We would need VSRs to look at this as we don't have acces. AI: identify someone who can look at this (emily?)
+- for GETs - not processing these - is it bc of the service or because of us?
 - Types of errors logged:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
+
+Other considerations:
+- Vets-api database performance
+    - are there any issues with this? is it operating as expected?
+    - Why? - the LH sync endpoint and our submission process pull from the same DB
+    - What is the performance today? - needed to establish baseline
+ - need to know error types from LH
+
+- Number (count) of 202s from LH should match the count of submission records in our DB vets-api-DB - this indicates that the pdf was generated for the submission and that it has a submitted claim ID. If these match, then at a HL we are good! - there will be a 48 hour delay in the pdf. Count of 202s from LH is a good indicator, but won't tell us if the pdf is actually generated. During Canary, while the Flipper is OFF there would be ample time for the pdf to be generated so Monday morning we should see pdfs in the eFolder.
+
+
 
 ### Stage B: 10% of users
 *Test a larger user population to ensure larger usage patterns expose no issues.*
