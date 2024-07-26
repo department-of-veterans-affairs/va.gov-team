@@ -11,7 +11,7 @@ Man | 77 years old | White
 
 Man | 40 years old | Hispanic, Latino, or Spanish origin
 
-Man | X years old | 
+Man | 34 years old | White
 
 Man | X years old |
 
