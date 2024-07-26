@@ -17,9 +17,9 @@ This evaluation plan outlines how the Cartography team will measure and track th
 
 ## **KPIs**
 
-| **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** | **Notes** | **Other questions satisfied** | 
-| --- | --- | --- | --- | --- | --- | --- | 
-| Findability |  |  | 
+| **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** | **Notes** | 
+| --- | --- | --- | --- | --- | --- | 
+| Engagement | What are users doing on the page? Where are they not going? | What are the top tasks on the MHV landing page? | Click (engagement/conversion rate); Top tasks | Datadog; GA4; might need export | Value add because they should be able to find other things they can't current | 
 | Findability |  |  |
 | Engagement Rate |  |  |
 | Ease of Use | Do Veterans return to MHV National Portal? | Use of 'Go back to the previous version of My HealtheVet link |
