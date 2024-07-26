@@ -55,3 +55,7 @@ For the final task, users were asked about their perceptions of the Account Secu
 
 - Said that they would assume 'account security'is for something local instead of id.me.
 - Likes that it showed identity is verified, MFA enabled.
+
+### Recommendations
+
+Considering we had limited participants and structure with the final task, more time should be spent on investigating perception of the Account Security page. The findings from this UAT study are not enough to advise any specific recommendations. 
