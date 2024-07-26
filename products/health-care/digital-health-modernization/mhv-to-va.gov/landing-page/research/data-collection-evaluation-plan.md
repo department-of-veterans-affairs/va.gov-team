@@ -10,7 +10,7 @@ This evaluation plan outlines how the Cartography team will measure and track th
 
 ### **Objectives**
 
-- “Facilitate Veterans' transition to the new MHV landing page & features to complete health-related actions”
+- Facilitate Veterans' transition to the new MHV landing page & features to complete health-related actions 
 
 ### **Key Results**
 
