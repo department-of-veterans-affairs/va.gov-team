@@ -29,13 +29,15 @@ While lagging indicators, like retention rate are strong indicators of value for
 |Prescription refill rate|59.69%||||
 |Appointment Page View Rate|34.66%|||
 |Home screen modules clicks|N/A||||
-|Retention |
-30 Days|71.98%
-60 Days|46.61% 
-90 Days|43.07% 
-120 Days|42.66% 
-150 Days|40.70% 
-180 Days|39.09%|||
 
 * Date Range: 02/27/24 - 04/28/24
+
+### Retention Rates 
+
+| Vateran Behavior | 30-Day Rate | 60-Day Rate | 90-Day Days Rate | 120-Day Rate| 150-Day Rate | 180-Day Rate |
+| -------- | -------- | ---------- | ----------------- | -----------------| ----------- | --------- |
+| Vateran Opened App & Viewed Home Screen | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
+
+
+
 * Retention Cohort Date Range: 10/01/23 - 10/31/23 
