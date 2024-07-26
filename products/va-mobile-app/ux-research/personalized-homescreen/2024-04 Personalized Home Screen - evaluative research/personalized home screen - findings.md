@@ -32,10 +32,6 @@ The team believes that because Veterans lack the time to explore the app, the mo
 
 The VA Flagship mobile app team believes that bringing personalized content to the VA mobile app’s home screen will help new and current app users keep up with and manage their interactions across VA and find value in the app that they aren’t discovering now.
 
-#### Success measures:
-* **Comprehension:** Participants demonstrate an accurate understanding of what the app can do for them—in general and in their current circumstances.
-* **Perceived value:** Participants report that they find the app and personalized home screen valuable.
-
 See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md)
 
 
@@ -84,8 +80,6 @@ Fulfills issue [#2160](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc7
 
 
 #### Primary:
-
-
 
 * Understand if/how the personalized home screen design impacts participant comprehension of what the VA mobile app can do (in general, and for them specifically). ([*project success metric*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md#metrics))
 * Understand if/how the personalized home screen design impacts participant perception of the app’s current and future value. ([*project success metric*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md#metrics))
