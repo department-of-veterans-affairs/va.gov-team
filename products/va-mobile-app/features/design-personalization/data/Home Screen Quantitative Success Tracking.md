@@ -22,10 +22,20 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|Personalized home screen adoption|||||
-|Home screen load speed|5.9 secs||||
-|Unread message read rate|||||
-|Claims view rate|||||
-|Prescription refill rate|||||
-|Home screen modules clicks|||||
-|Retention |||||
+|Personalized home screen adoption| N/A ||||
+|Home screen load speed|5.6 secs||||
+|Unread message read rate|20.31%||||
+|Claims view rate|67.99%||||
+|Prescription refill rate|59.69%||||
+|Appointment Page View Rate|34.66%|||
+|Home screen modules clicks|N/A||||
+|Retention |
+30 Days|71.98%
+60 Days|46.61% 
+90 Days|43.07% 
+120 Days|42.66% 
+150 Days|40.70% 
+180 Days|39.09%|||
+
+* Date Range: 02/27/24 - 04/28/24
+* Retention Cohort Date Range: 10/01/23 - 10/31/23 
