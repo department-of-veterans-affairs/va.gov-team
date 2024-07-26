@@ -17,9 +17,9 @@ This evaluation plan outlines how the Cartography team will measure and track th
 
 ## **KPIs**
 
-| **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** |
-| --- | --- | --- |
-| Findability |  |  |
+| **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** | **Notes** | **Other questions satisfied** | 
+| --- | --- | --- | --- | --- | --- | --- | 
+| Findability |  |  | 
 | Findability |  |  |
 | Engagement Rate |  |  |
 | Ease of Use | Do Veterans return to MHV National Portal? | Use of 'Go back to the previous version of My HealtheVet link |
