@@ -3,7 +3,7 @@ This is a summary checklist of things to address prior to staging review for 10-
 
 ## Zenhub Tickets
 These are tickets primarily representing engineering work considered necessary for go live.
-[Zenhub view]([https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/board#workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/board?filterLogic=all&labels=go-live,10-10d&repos=133843125,zh-Z2lkOi8vcmFwdG9yL1JlcG9zaXRvcnkvMTMzOTUxNjg2&view=Z2lkOi8vcmFwdG9yL1NhdmVkVmlldy85NDI1%23workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/board?labels=go-live,10-10d%23workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/board%23workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/board?filterLogic=all&labels=go-live&repos=133843125,zh-Z2lkOi8vcmFwdG9yL1JlcG9zaXRvcnkvMTMzOTUxNjg2&view=Z2lkOi8vcmFwdG9yL1NhdmVkVmlldy85MzE2](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/board#workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/board?filterLogic=all&labels=go-live,10-10d&repos=133843125,zh-Z2lkOi8vcmFwdG9yL1JlcG9zaXRvcnkvMTMzOTUxNjg2&view=Z2lkOi8vcmFwdG9yL1NhdmVkVmlldy85NDI1))
+[Zenhub view](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/board#workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/board?filterLogic=all&labels=go-live,10-10d&repos=133843125,zh-Z2lkOi8vcmFwdG9yL1JlcG9zaXRvcnkvMTMzOTUxNjg2&view=Z2lkOi8vcmFwdG9yL1NhdmVkVmlldy85NDI1)
 
 ## Collaboration Cycle Requirements
 [Collaboration Cycle for \[IVC Forms, 10-10d\]](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/70913)
