@@ -1,6 +1,6 @@
  
 ## Overview
-Our team aims to create patterns for the authenticated experience that can be shared with USWDS and other federal agencies.
+Our team aims to create patterns for the authenticated experience that can be shared with USWDS and other federal agencies as an effort to support [OCTO objective](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md): **Our people are empowered with the knowledge and resources they need to make sustained impact**, specifically the result of "Common processes, tools and decisions are documented and easily accessible to all staff."
 
 ## Problem Statement
 How might we update existing, or create new patterns to improve Veteran authenticated experiences in a way that is adaptable by USWDS and other federal agencies? 
@@ -87,12 +87,6 @@ We believe that creating improved personal profile maintenance interfaces will h
 - directions to update profile data 
 - page-level alerts
 - inline alerts
-
-### Service History
-Service History is a preexisting VADS component that we believe would be a good candidate for adoption by USWDS, as many other agencies require information about a user's service history, including the IRS and State Dept. While we think that some parts of this pattern may become obsolete once prefill is fully adopted, we believe that it is still a useful pattern for unauthenticated users and those agencies who have not yet integrated with DOD, VA or ID.me to verify/validate service history.
-
-### Auto Save Alert
-Autosave is a preexisting VADS component (https://design.va.gov/components/form/autosave) that we believe would be a good candidate for adoption by USWDS given the many, many forms that exist on other agency websites. As this already exists we thought it would be a 'quick win' we could slide in among other pattern work.
 
 ### Make Descisions based on personalized form flows
 We believe that creating a pattern for personalized form flows will significantly reduce time and cognitive load for users when filling out authenticated forms, allowing them to prefill known information or skip sections based on previously entered information. We believe this pattern will consist of:
