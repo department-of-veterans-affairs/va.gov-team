@@ -1,5 +1,9 @@
 ## Background
-As a Veteran, I want to have my personal information automatically filled in on VA.gov forms based on my authenticated user data, so I can save time, reduce errors, and complete forms more efficiently when applying for benefits or services
+As a Veteran, I want to have my personal information automatically filled in on VA.gov forms based on my authenticated user data, so I can save time, reduce errors, and complete forms more efficiently when applying for benefits or services.
+
+Across the VA ecosystem, many form teams have implemented a 'prefill' component, but there is no common usage or guidelines for implementation, leading to many different versions and implementations of prefill. We have reached out to product teams including myVA, Authenticated Experience, Forms Library, Benefits and others to gather their feedback on their current prefill usage ([see feedback mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721841580875/c3be52d2e6ba2ab27b04562b9c97ee0f05f843eb?sender=u11b5f7711188298523d03159) and [prefill in the wild mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721249754513/f02ba038a943ebb6dbe07355b5b1d473f42dc16b?sender=u11b5f7711188298523d03159)) and any pain points or wishes they had for prefill in the future.   
+
+We wanted to answer questions about whether users understood that we could prefill some data from their profile, how should we display the prefilled information and whether we should update the profile data as well as the form data.
 
 ## Hypothesis
 
