@@ -39,7 +39,7 @@ The [Master Persons Index (MPI) is a VA database](https://dvagov.sharepoint.com/
 
 For [verified users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#understanding-verified-identity), we’ll get back a [list of attributes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sso/ssoe_saml_response_attributes.md) from MPI that you can use in your VA.gov application. You can view [reference documentation for authenticated endpoints here](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser).
 
-If a user logging into VA.gov has not verified their identity, we won’t get these responses. It’s important to plan for both scenarios when [testing your authentication integration](https://docs.google.com/document/d/1-V37NyGx6VTXVQhS3s6rk0oxdS9sgtCsmsmXfL-uQ7Y/edit#heading=h.w6ep776k4okl). Learn more about identity verification and testing identity below.
+If a user logging into VA.gov has not verified their identity, we won’t get these responses. It’s important to plan for both scenarios when [testing your authentication integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#planning-and-testing-identity). Learn more about identity verification and testing identity below.
 
 ## **Understanding verified identity**
 
