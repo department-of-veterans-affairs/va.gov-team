@@ -12,8 +12,9 @@ This evaluation plan outlines how the Cartography team will measure and track th
 
 ### **Key Results**
 
-- Engagement rate (Datadog out-of-box): ≥50%
-- Landing page conversion rate (non-header action): ≥ 40%
+- Increased product use
+- Increased product Veteran feedback
+- Decreased negative Veteran feedback
 
 ## **KPIs**
 
