@@ -65,6 +65,7 @@ Last update: 7/26/24 by Cara Frissell
 
 ## Team Spaces 
 
+_A place for teams to document any key artifacts or handy links they have produced that do not belong in the Research or Design space_
 
 ### Beneficiary Travel
 - [BT team GitHub space](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel)
