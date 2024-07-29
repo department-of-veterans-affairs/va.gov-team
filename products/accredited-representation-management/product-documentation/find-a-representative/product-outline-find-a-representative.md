@@ -51,7 +51,7 @@ We are actively outlining our [ARM OKRs](https://app.mural.co/t/departmentofvete
 ## Supporting Documentation
 1. [Decision and Change Log: Find a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/decision-change-log-find-a-representative.md)
 2. [Find a Representative Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/launch-materials/product-playbook-incident-response-plan.md#find-a-representative-playbookincident-response-plan)
-3. [ARM Stakeholders and Advisors](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699986925507/b10367544c62e9b5e91ce0402cfb40d15b33804f?sender=ubac5f0487f25bc4431288699)
+3. [Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/find-a-representative/contact-center)
 
 ## Future Plans and Ideas
 When our [Appoint a Representative product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) goes live, we will work with stakeholders to redirect related pages within [eBenefits]([https://www.ebenefits.va.gov/ebenefits/vso-search).  
