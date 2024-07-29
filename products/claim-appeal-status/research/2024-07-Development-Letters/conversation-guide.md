@@ -78,7 +78,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 Imagine you're signed into your VA.gov account and looking at this page.
 
 - Do you know what this page is? If yes, what is it?
-- Describe to me what you're seeing here.
+- Descridbe to me what you're seeing here.
 - What do you think is the difference between the first claim and the second claim shown here?
 - Looking at the claim card, you can see it says, "We sent you a development letter". What do you think that means?
 - What would you do next if you wanted to know more about the request?
@@ -94,7 +94,7 @@ Imagine you're signed into your VA.gov account and looking at this page.
 [Have the participant click "Details" on the in-progress claim]
 
 - Tell me what you see here. (Prompt them to scroll up and down.)
-- Based on what you see here, tell me what do you think this notice is communicating to you.
+- From what you've observed, what do you believe this notice is trying to communicating?
 - Do you feel like this page tells you everything you need to know about the claim? Why or why not?
 - If you wanted to learn more about the notice, where would you go from here?
 
@@ -103,30 +103,38 @@ Imagine you're signed into your VA.gov account and looking at this page.
 #### Things to watch for:
 
 - How do Veterans react to the Status page in general?
-- Does the description on the later make it clear the Veteran what is being asked of them?
-- Does the Veteran have a grasp on the claim's current status and the pending request (wanting to know if they are digesting the information on the page, between what you need to do and what we are doing)
+- Does the description in the notice make it clear the Veteran what is being asked of them?
+- Does the Veteran understand the current status of the claim and the pending request, including what actions are needed from them and what actions we are taking?
 
 ### Part 2 C: Evidence notice page - 10 minutes
 
+- Take a moment to review the page. Is the content what you expected to see?
+- Can you describe the relationship between the alert on the previous page and the notice page?
 - Describe in your own words what you think is being communicated?
+- What would happen if you don't take any action?
 - What action, if any, would you take?
 
 #### Questions for claim letters page
 
 - Tell me what you see here?
 - Where would you go to find your claim letters?
-- if you wanted to view a particular claim letter, what would you do?
+- If you wanted to view a particular claim letter, what would you do?
 - Is there anything here you're not seeing that you wish was here?
 
 [Have participant navigate back to evidence notice page]
+
+Next, we will go back to the 5103 evidence notice page and explore the evidence upload process.
+At this time, I will have you click on the "upload your evidence here" link.
 
 #### Questions for evidence upload, on the files page
 - Tell me what you see here?
 - If you wanted to upload evidence, what would you do?
 - After submitting your evidence, what do you expect to happen next?
 
+We will return to the 5103 evidence page to explore the last option on the page. 
+
 #### Questions for submitting waiver section
-- What do you expect to happen when you click the "I'm finished adding evidence" checkbox?
+- Before you check the box, tell me what you expect to happen when you select the "I'm finished adding evidence" checkbox?
 
 [Participant clicks into submit waiver]
 
@@ -140,7 +148,7 @@ Imagine you're signed into your VA.gov account and looking at this page.
 - Can Veterans find the 5103 letter?
 - Do participants feel like there's still something else they need to do?
 
-Before we move away from this section, I few general questions about this experience
+One last time, we will review the 5103 evidence page for a few general questions about this experience
 
 - What would happen if you don't take any action?
 - If there's anything we could do to improve this page, what would it be?
@@ -153,6 +161,7 @@ Before we move away from this section, I few general questions about this experi
 
 - Looking at this design, what do you think you need to do here? (Prompt them to scroll up and down.)
 - What action, if any, would you take?
+- How well do you think the layout of this page works for this notice?
 - Is there anything confusing about this?
 - If you could improve this in any way, what would you change?
 
