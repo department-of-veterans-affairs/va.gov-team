@@ -355,7 +355,7 @@ We can use this strategies to prepare for difficult situations.
 
 ### If the participant isn't using assistive technology
 
-Thanks for letting me know. Unfortunately, this particular research study is focused on assistive technology. Since you're don't use assistive technology, we'll have to end the session now. We'll hopefully see you back here again for another study. Thanks for your time!
+Thanks for letting me know. Unfortunately, this particular research study is focused on assistive technology. Since you don't use assistive technology, we'll have to end the session now. We'll hopefully see you back here again for another study. Thanks for your time!
 
 ### If the participant can't screen share after troubleshooting
 
