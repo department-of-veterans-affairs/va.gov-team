@@ -38,7 +38,7 @@ See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://git
 ### Project Objectives & Goals
 
 
-#### [Flagship Mobile App Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MobileOKRs2024.md)
+#### [Flagship Mobile App Strategy 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MobileOKRs2024.md)
 
 
 
@@ -48,7 +48,7 @@ See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://git
 * **Objective 3:** Improve Veteran Satisfaction.
 
 
-#### [OCTO Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md)
+#### [OCTO Priorities 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md)
 
 
 * **Objective 1:** Our digital experiences are the best way to access VA health care and benefits.
