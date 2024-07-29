@@ -38,7 +38,7 @@ See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://git
 ### Project Objectives & Goals
 
 
-#### [Flagship Mobile App Strategy]([https://docs.google.com/presentation/d/1j0rO2HvDwHDTzunG3judC1HXOiWfGNTXVciLAkurpRw/edit#slide=id.g1e78b87c057_0_159](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MobileOKRs2024.md))
+#### [Flagship Mobile App Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MobileOKRs2024.md)
 
 
 
