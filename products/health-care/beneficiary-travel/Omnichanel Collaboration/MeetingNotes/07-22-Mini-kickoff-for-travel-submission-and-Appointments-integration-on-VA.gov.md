@@ -82,7 +82,7 @@ Date: Monday, July 22, 2024
 | ------------------- | ----------  | 
 | Add links to research findings to design artifacts section. [Christina]<br><br> | Complete<br><br> |
 | Identify and update latest BT workflow wireframes link (not including appt detail pages) in the design artifcats section. [Christina]<br><br> | Complete<br><br> | 
-| Set up bi-weekly with Appts/Check-in and BTSSS Teams. [Ben]<br><br> |  <br><br>| 
+| Set up bi-weekly with Appts/Check-in and BTSSS Teams. [Ben]<br><br> |  Scheduled first meeting. <br><br>| 
 | Set up design/research meeting to discuss userflow and any other design-related next steps. [Ben]<br><br> | Complete<br><br> | 
 
 ## Communication plan 
