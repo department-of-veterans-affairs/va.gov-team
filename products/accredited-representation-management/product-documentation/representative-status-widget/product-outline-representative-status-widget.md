@@ -27,7 +27,10 @@ There is not currently an experience on VA.gov for users to understand their cur
 2. Veterans would like to see if they have current representation.
 
 ## Solution Approach
-Our immediate goal for the Representative Status Widget MVP is to provide Veterans and claimants with insight into any existing representation on VA.gov.  The MVP launch will involve adding the Representative Status Widget to the [accredited representative landing page](https://www.va.gov/get-help-from-accredited-representative/) and the live [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
+Our immediate goalis to provide Veterans and claimants with insight into any existing representation, by way of a Widget that can easily be implemented to any page on VA.gov.
+
+## Launch Strategy
+Thehe Representative Status Widget MVP launch will involve adding the Representative Status Widget to the [accredited representative landing page](https://www.va.gov/get-help-from-accredited-representative/) and the live [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
 
 **Launch Dates:**
 1. MVP release: May 2024 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/release-plan-representative-status-widget-1.0.md)).
