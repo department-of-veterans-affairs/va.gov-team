@@ -44,7 +44,7 @@ Date: Monday, July 22, 2024
 ### Other resources
 
 - [Service blueprint for filing travel reimbursement at Oracle Health facilities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707427471672/75fb6b9eea27c7b854e8b31c0e9017e2a54bb95a?sender=u37bb983bd3fc3cc00c7d3286)
-- [User flow for filing a BT claim from past appointments on VA.gov.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695774555765/73dec2c323f80ae6cb2a6e0a646221e2aeb680c4?sender=u37bb983bd3fc3cc00c7d3286), which will get updated to reflect changes and prepare for Design Intent
+- [User flow for filing a BT claim from past appointments on VA.gov.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722263210448/33062955940eb08d097dbd88a8dc98488ac2ffcc?sender=u37bb983bd3fc3cc00c7d3286) _Added 07/29/2024_
 
 ## What's in progress from BTSSS?
 
