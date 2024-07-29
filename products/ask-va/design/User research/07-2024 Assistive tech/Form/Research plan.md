@@ -166,7 +166,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 #### Screen readers
 
-1. Do you need to use a screen reader everytime you access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
+1. Do you need to use a screen reader to access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
     - Yes
     - No
 2. If you answered yes, which screen reader do you use? Please select all that apply.
@@ -196,7 +196,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 #### Alternative navigation
 
-1. Do you need to use alternative navigation tools everytime you access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
+1. Do you need to use alternative navigation tools to access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
     - Yes
     - No 
 2. If you answered yes, which alternative navigation tool do you use? Please select all that apply.
