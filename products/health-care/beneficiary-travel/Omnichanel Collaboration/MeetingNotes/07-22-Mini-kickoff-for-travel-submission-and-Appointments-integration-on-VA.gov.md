@@ -2,7 +2,7 @@
 
 Date: Monday, July 22, 2024
 
-## General scope
+## General MVP scope
 
 - **[Appointments/Check-in Team] File a BT claim from Appointments on VA.gov:** Veterans have the ability to start the process of filing a beneficiary travel (BT) reimbursement claim for an “eligible” appointment from their past appointments list on VA.gov. E.g., an in-person appointment that was “completed” yesterday or up to the previous 30 days and hasn’t had a BT claim already filed for this day _and_ at this facility (using the BTSSS Get Claim Status API). 
    - “Completed” is in quotations because a BT claim can be submitted to BTSSS even if it’s not in a CHECKED-OUT status in VistA. (BTSSS rules engine picks up the process from this point.)
