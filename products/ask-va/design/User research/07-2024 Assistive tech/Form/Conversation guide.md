@@ -40,7 +40,7 @@ Last updated by @tygindraux: July 29, 2024
 - [Form – 40 minutes](#form-40-minutes)
 - [Cool down - 10 minutes](#cool-down-10-minutes)
 
-This document also contains [pause or exit strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#pause-or-exit-strategies).
+This document also contains [pause or exit strategies](#pause-or-exit-strategies).
 
 ## Intro (5 minutes)
 
