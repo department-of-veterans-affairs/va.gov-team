@@ -1,15 +1,32 @@
 # Running Design and Research Agenda
 ## July 29, 2024
 - Attendees: Jamie Fiore, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
-- Facilitator:
+- Facilitator: Jamie
 - Next meeting facilitator: TBD
 - Agenda Topics
   - Confirming we're adding content changes post research for 10-10d and CAIA collaboration.
   - Touch on 10-10d accessibility testing for staging review.
+  - There's a question from CAIA about (North or South) Korea as an option to choose from may want to look into to what other forms. Lois to look further about this.
+  - In the future think about if this is a way the Design can help Premal answer questions on the larger IVC presentation? Maybe and Design FAQ or compiling our decision docs. 
 ### Notes
-- 
+- What is our communciation plan with CAIA beyond sharing the full report with them? Check with 1010EZ team how they do this.
+    	- There weren't many changes made post testing(aligned the inrto page with the lastest form VADS and updating Headers so there are no duplicates. Possibly talk to CAIA about to move past content review pre-staging.
+- There is {an artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D) that we need to present prior to staging review
+- Rachael has anticpated the 1010d (CHAMPVA Registation) a11y testing to staging review and is prepared. Will need more than 1 day to complete and can prioritize it for next sprint. She may need some addtional support to get this and the other work done for the sprint.
+  - Needs to be done 4 days before Staging
+  - They are many other artifacts/checklists to be done prior to staging. Bo is working on the others.
+  - Recommended that we don't schedule Staging Review prior to be a11y being done.
+  - Plan for testing to produce more changes to be made by engineering
+  - Make it top priority for next sprint
+  - Need to make sure frontend/backend engineering is complete
+  - Still acheivable to work on the convo guide and research
 ### Decisions and action items
-- 
+- Recap what was changed on 1010D (CHAMPVA Registation) the Figma post user testing to CAIA in the [Slack thread](https://dsva.slack.com/team/U03CGUVK1U5)
+- Check in with the 1010EZ team to learn if we can streamline our communciation with CAIA with how they are communicating with them so we can acheive all of the touchpoints clearly prior to production
+-  Lois, Jamie, Steven and Brian to help run the 1010d a11y tests if capacity allows
+-  Premal is ok with taking risk if there are small engineering changes that are made after testing has started.
+
+
 ## July 22, 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
 - Facilitator: Steven
