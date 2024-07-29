@@ -12,13 +12,19 @@ The VA Flagship mobile app team believes that bringing personalized content to t
 See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) 
 
 ## Project Objectives & Goals 
-#### [Flagship Mobile App Strategy](https://docs.google.com/presentation/d/1j0rO2HvDwHDTzunG3judC1HXOiWfGNTXVciLAkurpRw/edit#slide=id.g1e78b87c057_0_159)
-- **Vision:** "Each Veteran is connected to the VA services that matter most to them, regardless of device, and without understanding the VA org chart.”
-- **Objective 1:** Veterans will use authenticated services that are highly personalized and valuable.
-- **Objective 3:** Increase active user base. 
 
-#### [OCTO Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme)
-- **Goal 6:** Logged-in users have a personalized experience, with relevant and time-saving features.
+#### [Flagship Mobile App Strategy 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MobileOKRs2024.md)
+
+* **Mission:** "Empower Veterans by providing fast, easy, and personalized access to the most popular VA health and benefits services.”
+* **Objective 1:** Improve Veteran retention at the 30, 60, and 90 day marks by 10%
+* **Objective 2:** Increase the number of tasks completed and their success rate
+* **Objective 3:** Improve Veteran Satisfaction.
+
+
+#### [OCTO Priorities 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md)
+
+
+* **Objective 1:** Our digital experiences are the best way to access VA health care and benefits.
 
 #### Veteran Journey
 Since Veterans can download the VA Health and Benefits mobile app any time after establishing benefits with VA, this work impacts the Veteran journey from Starting Up and beyond.
