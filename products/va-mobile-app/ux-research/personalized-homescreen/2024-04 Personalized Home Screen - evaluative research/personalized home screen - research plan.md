@@ -15,7 +15,7 @@ See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://git
 
 #### [Flagship Mobile App Strategy 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MobileOKRs2024.md)
 
-* **Mission:** "Empower Veterans by providing fast, easy, and personalized access to the most popular VA health and benefits services.”
+* **Mission:** “Empower Veterans by providing fast, easy, and personalized access to the most popular VA health and benefits services.”
 * **Objective 1:** Improve Veteran retention at the 30, 60, and 90 day marks by 10%
 * **Objective 2:** Increase the number of tasks completed and their success rate
 * **Objective 3:** Improve Veteran Satisfaction.
@@ -134,7 +134,7 @@ Recruit 18 Veterans for a minimum of 10 successfully completed sessions.
 * At least 9 participants should be active monthly users of the VA Health and Benefits mobile app.
   * An active monthly user is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.
     * Please do confirm via phone that the participant uses the VA Health and Benefits Mobile App
-      * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is "#.#.#").
+      * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is “#.#.#“).
 * All participants should have an active VA claim and/or appeal.
 * At least 9 participants should be users of VA health care.
 * At least 9 participants live in a rural area (seeing potential internet connectivity differences are important to the study)
