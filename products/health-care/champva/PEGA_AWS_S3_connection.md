@@ -27,7 +27,21 @@ This assumes that you already have installed vets-api and running locally. If yo
 https://depo-platform-documentation.scrollhelp.site/developer-docs/base-setup-vets-api
 
 
-Step 1: Sign in to the AWS Management Console
+1. After you have vets-api set up locally, you need to modify the file ```config/settings.yml``` with the IDE of your choice. Since we are mostly Ruby software developers, we use Visual Studio Code.
+2. In the file ```config/settings.yml```, navigate to
+  ``` ivc_forms:
+    s3:
+    aws_access_key_id: ~
+    aws_secret_access_key: ~
+    bucket: "bucket"
+    enabled: true
+    region: "region"  ```
+
+
+
+
+
+Sign in to the AWS Management Console
 Open your web browser and go to the AWS Management Console.
 Enter your AWS account credentials (email and password) to log in.
 Step 2: Navigate to S3 Service
