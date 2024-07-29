@@ -97,17 +97,18 @@ For this usability study, we will use the moderated usability testing method. Th
 - Veterans will find their notifications helpful.
 
 ## Who We Talked To
+<img width="783" alt="Screenshot 2024-07-29 at 10 42 27 AM" src="https://github.com/user-attachments/assets/2de8311e-f63e-4ec1-bb7e-bbdc2c228c52">
 
 **Recruitment criteria**
-We talked to **12 participants.**
+We talked to **13 participants.**
 
 **Audience segment:**
 - Veterans: 12 
-- Caregivers: 0 
+- Caregivers: 1 
 - Family members of a Veteran: 0  
 
 **Gender:**
-- Male: 9 
+- Male: 10 
 - Female: 3 
 
 **LGBTQ+:**
@@ -116,7 +117,7 @@ We talked to **12 participants.**
 - Gay, lesbian, or bisexual: 0
 
 **Devices used during study:** 
-- Desktop: 7 
+- Desktop: 9 
 - Tablet: 0 
 - Smart phone: 4 
 - Assistive Technology: 0
@@ -125,7 +126,7 @@ We talked to **12 participants.**
 - 25-34: 0
 - 35-44: 2
 - 45-54: 1
-- 55-64: 1
+- 55-64: 2
 - 65+: 8
 - Unknown: 0
 
@@ -141,12 +142,12 @@ We talked to **12 participants.**
 - Unknown: 0
 
 **Geographic location:**
-- Urban: 10
+- Urban: 11
 - Rural: 2
 - Unknown: 0
 
 **Race:**
-- White: 12
+- White: 13
 - Black: 0
 - Hispanic: 0
 - Biracial: 0
@@ -169,7 +170,7 @@ We talked to **12 participants.**
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 
-* Group 1
-* Group 2
-* Group 3
+* Black, Hispanic, Biracial, Asian, Native
+* LGBTQ+
+
 
