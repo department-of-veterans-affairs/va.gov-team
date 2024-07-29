@@ -64,7 +64,7 @@ Before we get started, I just want to confirm a few things.
 - Which tool are you going to use today?
 
 ### Troubleshooting: If they're not using assistive tech
-- We'll politely end the session. Refer to [pause and exit strategies](#pause-and-exit-strategies).
+- We'll politely end the session. Refer to [pause and exit strategies](#pause-or-exit-strategies).
 
 Okay great. Moving along, we have a few other people in the waiting room who might observe this session. They'd like to join to listen in, learn and take notes.
 
@@ -148,7 +148,7 @@ Okay, great. We're going to do that now. So, if you have any windows open that y
 - Refer to [Screen reader instructions: Setting up screen share](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
 - Ask the accessibility specialist to come off mute and assist.
 - Be patient. Reassure the participant that this can be confusing and we're here to work through it together.
-- If after trying everything, screen share still isn't working: We'll politely end the session. Refer to [pause and exit strategies](#pause-and-exit-strategies).
+- If after trying everything, screen share still isn't working: We'll politely end the session. Refer to [pause and exit strategies](#pause-or-exit-strategies).
 
 > Screen sharing starts.
 
@@ -222,7 +222,7 @@ Password: [Documented in sensitive repo](https://github.com/department-of-vetera
 ### Troubleshooting: Sign in
 - Ask the accessibility specialist to come off mute and assist.
 - Be patient. Reassure the participant that this can be confusing and we're here to work through it together.
-- If after trying everything, sign in still isn't working: We'll continue without signing in. Refer to [pause and exit strategies](#pause-and-exit-strategies).
+- If after trying everything, sign in still isn't working: We'll continue without signing in. Refer to [pause and exit strategies](#pause-or-exit-strategies).
 
 > Screen sharing starts.
 
