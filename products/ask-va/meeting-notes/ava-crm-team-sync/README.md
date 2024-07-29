@@ -15,7 +15,7 @@
 ### Proposed new Agenda for Tuesday July 30th: 
 * Review Timeline for potential phases approaches
 * Discuss UAT 
-
+* Testing Users (Joe): 119 Add Classic AVA /CRM to profile 
 
 ### Notes:
 ### Rollback & Release Planning:
