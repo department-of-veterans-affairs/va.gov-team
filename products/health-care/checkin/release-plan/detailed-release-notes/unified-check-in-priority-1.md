@@ -15,28 +15,30 @@ The Modernized Check-In Experience Team has received feedback from Veterans and 
 In an effort to reduce confusion in Veterans between Pre-Check-in and eCheck-in, we are planning to standardize the landing page for both applications to align from a UX design perspective that makes use of a task-based design pattern. 
 
 ## Wireframes
+- [Download PNGs for use in training materials](https://github.com/user-attachments/files/16071323/Screenshots.zip)
 - [Main wireframes](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=937-28573&t=N0vncHgTfJ9SVSLm-0)
 - [Appointments list wireframes](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=1440-31346&t=N0vncHgTfJ9SVSLm-0)
 - [Error pages wireframes](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=1872-17169&t=N0vncHgTfJ9SVSLm-0)
-- [Download PNGs for use in training materials](https://github.com/user-attachments/files/16071323/Screenshots.zip)
 
 ## Changes to Pre-Check-in
-- New content for the text message sent after a Veteran confirms their appointment
-- New title on the identity verification page
-- New landing page that includes:
-    - The information review task to complete, if still available, that is associated with the Veteran's customized Pre-Check-in link
-        - If the Veteran's information has been reviewed in the past 7 days, they will just see a success message instead of a task
-    - The Veteran's list of today's appointments (those that are available in Vista)
-    - Ability to see the details for any of their upcoming appointments
-- New title on the completion page
+
+> **New content for the text message sent after a Veteran confirms their appointment**
+* ![image](https://github.com/user-attachments/assets/0dd8e970-fee2-4af5-816e-1b12d15f911e)
+  
+> **New title on the identity verification page**
+* ![image](https://github.com/user-attachments/assets/c57c5ea3-8a1a-465c-a5df-8097728de6a4)
+
+> **New landing page that includes information review task to complete, Veterans appointments for today, and ability to see appointment details**
+* ![image](https://github.com/user-attachments/assets/eccb5503-b51f-40f4-9b23-e576867b5a57)
+
+> **New title on the completion page**
+* ![image](https://github.com/user-attachments/assets/446f659c-b8c4-4dcc-922e-ab24d88c8394)
 
  ## Changes to On-line Check-in
-- New content for the text message when Veteran texts "check in" to 53079
-- New title on the identity verification page
-- New landing page that includes:
-    - The check-in task to complete, if still available, that is associated with the Veteran's customized eCheck-in link
-      - If the Veteran has no appointment that is within the check-in window, they will not see a task
-    - The Veteran's list of upcoming appointments (those that are available via the MAP service)
-    - Ability to see the details for any of their upcoming appointments
 
+> **New title on the identity verification page**
+* ![image](https://github.com/user-attachments/assets/d380f1c5-62ca-4c3d-b356-9590f3b9292e)
+
+> **New landing page that includes the check-in task to complete, Veterans appointments for today, and ability to see appointment details**
+* ![image](https://github.com/user-attachments/assets/c8eb07b3-10a8-497f-9bb9-5cc46a64738c)
  
