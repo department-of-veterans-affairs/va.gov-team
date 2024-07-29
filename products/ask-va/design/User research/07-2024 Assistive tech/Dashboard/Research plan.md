@@ -172,12 +172,12 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Narrator (Windows)
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. How long have you been using a screen reader? (Best guess is okay.)
+3. How long have you been using a screen reader? Your best guess is okay.
     - 0 - 1 years
     - 2 - 4 years
     - 5+ years
     - Never used
-4. How frequently do you use a screen reader? (Best guess is okay.)
+4. How frequently do you use a screen reader? Your best guess is okay.
     - Daily
     - Once a week
     - Once a month
@@ -203,7 +203,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Sip and puff device
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. How frequently do you use an alternative navigation tool? (Best guess is okay.)
+3. How frequently do you use an alternative navigation tool? Your best guess is okay.
     - Daily
     - Once a week
     - Once a month
