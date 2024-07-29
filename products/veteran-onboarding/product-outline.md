@@ -1,5 +1,5 @@
 
-# Product Outline Template
+# Veteran Onboarding to VA.gov
 *Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
 ---
