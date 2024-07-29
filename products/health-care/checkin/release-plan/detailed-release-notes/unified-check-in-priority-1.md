@@ -21,11 +21,11 @@ In an effort to reduce confusion in Veterans between Pre-Check-in and eCheck-in,
 - [Download PNGs for use in training materials](https://github.com/user-attachments/files/16071323/Screenshots.zip)
 
 ## Changes to Pre-Check-in
--  New content for the text message sent after a Veteran confirms their appointment
+- New content for the text message sent after a Veteran confirms their appointment
 - New title on the identity verification page
 - New landing page that includes:
-    - The information verification task to complete, if still available, that is associated with the Veteran's customized Pre-Check-in link
-        - If the Veteran's information is already up-to-date, they will just see a success message instead of a task
+    - The information review task to complete, if still available, that is associated with the Veteran's customized Pre-Check-in link
+        - If the Veteran's information has been reviewed in the past 7 days, they will just see a success message instead of a task
     - The Veteran's list of today's appointments (those that are available in Vista)
     - Ability to see the details for any of their upcoming appointments
 - New title on the completion page
