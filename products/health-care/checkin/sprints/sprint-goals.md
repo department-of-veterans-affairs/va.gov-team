@@ -55,7 +55,7 @@
     - ❗🟨 [[DevOps] Discovery on copying secrets necessary for Vista API backend to function into vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88378)
     - ❗🟨 [[DevOps] Implement LoROTA postData system test library function.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88816)
     - ❗🟨 [[DevOps] Implement LoROTA postData will-create-a-valid-data-entry system test. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88824)
-    - ❗🟨 [[DevOps] Discovery on vista_api_frontend in octo-vista-api.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88377)
+    - ✔️ ❗🟨 [[DevOps] Discovery on vista_api_frontend in octo-vista-api.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88377)
 - **New Landing Page with Today's VISTA Appointments**
     - **Sprint Goal is to adress the 3 launch-blocking issues from the 7/23 Staging Review and release the feature**
     - ❗🟩 [[FE] - Review and merge PR last sprints tickets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88841)
@@ -87,7 +87,7 @@
     - **Sprint Goal is to finish the draft UX artifacts and schedule a Midpoint Review and to make progress on backend integration with VAOS/MAP**
     - ✔️ 🟥 [Update Userflows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
     - ✔️ 🟥 Schedule [Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89352)
-    - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
+    - ✔️ 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
     - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
     - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
     - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)        
