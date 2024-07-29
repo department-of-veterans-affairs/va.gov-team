@@ -5,8 +5,11 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 7/30/24
+*   Typography Tokens update
+
 ## 7/16/24
-*   
+*   general updates and Q3 planning
 
 ## 7/2/24
 *   Typography token updates
