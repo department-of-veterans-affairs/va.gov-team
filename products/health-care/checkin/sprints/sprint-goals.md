@@ -25,6 +25,7 @@
     - 🟩 TBD 
 - **Upcoming VAOS Appointments**
     - **Sprint Goal Finish all work and schedule a Staging Review & Infrastrucutre Readiness Review**
+    - BLOCKED BY MIDPOINT REVIEW AND FINAL WIREFRAMES
     - 🟩 [[FE] Create Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
     - 🟩 [[FE] Add Link to Access the Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89065)
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
