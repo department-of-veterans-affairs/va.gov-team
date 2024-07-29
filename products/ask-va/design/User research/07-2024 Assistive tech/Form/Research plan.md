@@ -177,15 +177,15 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Narrator (Windows)
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. How long have you been using a screen reader?
+3. How long have you been using a screen reader? (Best guess is okay.)
     - 0 - 1 years
     - 2 - 4 years
     - 5+ years
     - Never used
-4. How frequently do you use a screen reader?
+4. How frequently do you use a screen reader? (Best guess is okay.)
     - Daily
-    - Several times a month
-    - Rarely
+    - Once a week
+    - Once a month
     - Never
 5. Can you join the Zoom session from your mobile or desktop device using your screen reader?
     - Yes
@@ -208,10 +208,10 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Sip and puff device
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. How frequently do you use an alternative navigation tool?
+3. How frequently do you use an alternative navigation tool? (Best guess is okay.)
     - Daily
-    - Several times a month
-    - Rarely
+    - Once a week
+    - Once a month
     - Never
 4. Can you join the Zoom session from your mobile or desktop device using your alternative navigation tool?
     - Yes
