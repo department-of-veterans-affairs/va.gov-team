@@ -58,6 +58,7 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
 |:--|:--|:--|
 |Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Require Veteran's `Branch of Service`|`What's your question about` = `It's a general question`|
 
+- Even if the question is **not** about the Veteran, we still need to require the Veteran's branch of service for these categories.
 - While this data is in MPI, agents are not able to look this up using their MPI search tool in the CRM.
 
 ## Location and postal code
