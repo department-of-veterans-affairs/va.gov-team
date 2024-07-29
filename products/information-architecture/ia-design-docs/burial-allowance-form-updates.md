@@ -11,7 +11,7 @@ The burial allowance online applications is out of date and so it is being updat
 **On this page:**
 - [User/page flows](#flows)
 - Page structure
-- URLs and breadcrumbs
+- [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Redirects](#redirects)
 - [Best Bets](#bestbets)
@@ -23,6 +23,14 @@ The burial allowance online applications is out of date and so it is being updat
 
 [Team's Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1694615398728&sender=u79ee90295fdb006d7f463212)
 
+## <a name="url"></a>URLs and breadcrumbs
+*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
+
+
+**1) H1 of page - Existing**
+- URL: https://www.va.gov/burials-memorials/veterans-burial-allowance/apply-for-allowance-form-21p-530ez
+- Breadcrumb: VA.gov home > Burials and memorials > Veterans burial allowance and transportation benefits > H1 of page
+- Notes: We are updating the form canonical URL since it doesn't follow the latest VA.gov standards. There's already a [redirect ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88067) to ensure the old URL goes to the new one. Old URL was `https://www.va.gov/burials-and-memorials/application/530`
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
@@ -31,8 +39,8 @@ The burial allowance online applications is out of date and so it is being updat
 1. **[About VA Form 21P-530EZ](https://www.va.gov/find-forms/about-form-21p-530ez/)** - Add
   - Placement description: Below "Downloadable PDF" on the about VA form as well as in search results, attaching an example below
   - Link label: TBD by Sitewide Content
-  - Link destination: https://www.va.gov/burials-and-memorials/application/530/introduction
-  - Notes: We are noting the current URL as the link destination
+  - Link destination: https://www.va.gov/burials-memorials/veterans-burial-allowance/apply-for-allowance-form-21p-530ez
+  - Notes: Noting that I've updated the link destination with the new URL even though it hasn't been updated in prod yet.
 
 ![Screenshot 2024-03-12 at 3 20 28 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/9604427b-8449-474b-89a0-738e4e4e87fd)
 

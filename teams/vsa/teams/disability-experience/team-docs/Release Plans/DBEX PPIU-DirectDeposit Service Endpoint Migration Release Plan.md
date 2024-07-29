@@ -30,15 +30,15 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [x] Internal Testing and Review
     - [x] Pre-release Testing
     - [x] Review Cases
-- [ ] Phase II: Staged Rollout
+- [x] Phase II: Staged Rollout
     - [x] Canary
     - [x] Stage A: 1%
     - [x] Stage B: 5%
     - [x] Stage C: 10%
     - [x] Stage D: 25%
-    - [ ] Stage E: 50%
-    - [ ] Stage F: Go live!
-- [ ] Post-launch questions
+    - [x] Stage E: 50%
+    - [x] Stage F: Go live!
+- [x] Post-launch questions
 
 ## Notes
 - Since other teams have completed migrations to LH for this API, sill expedite the early ramp-up of this rollout. Planning on 3 days for 1% and 5%, and then progerssing to 25%

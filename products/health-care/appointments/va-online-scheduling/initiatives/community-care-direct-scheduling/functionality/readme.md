@@ -4,6 +4,7 @@
 
 - [Referral specifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/referral)
 - [WellHive specifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/wellhive/wellhive-specifications.md)
+- [Drive time calculation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/drive-time-calc/drive-time-calc.md)
 
 ## CC direct scheduling high level visual data flow (WIP)
 

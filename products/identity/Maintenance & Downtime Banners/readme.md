@@ -12,10 +12,10 @@ This maps to _O1KR2: VA.gov authentication SLOs are developed._
 
 
 ## Problem Statement
-There is currently inadequate external-facing status messages for VA.gov authentication services. This lack of transparency can lead to confusion and frustration for VA.gov users when issues arise.  External-facing status  banner messages would help mitigate these problems by providing real-time updates on the status of these services, leading to clearer communication and better overall service. A full overhaul of the process is needed. 
+There are currently inadequate downtime & maintenance communications for VA.gov authentication services. This can lead to confusion and frustration for VA.gov users when the site is down for either scheduled maintenance or unexpected reasons.  A full overhaul of the process is needed, so that we may fully communicate downtime to our customers.
 
 ## Relevant Documents:
-
+* [Product Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Maintenance%20%26%20Downtime%20Banners/Product%20Refinement%20Excerpts.md)
 * [Content Research For Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)
 
 ## What's In Scope: 
@@ -39,7 +39,7 @@ There is currently inadequate external-facing status messages for VA.gov authent
 ## Use Cases:
 
 - As a Veteran I would like to know when planned maintenance is going to happen, so that I may work around the scheduled downtime.
-- As a Veteran, I would like to see informative banners apprising me of when the login to the site is down, and when it might be back up, in order to properly do my business on VA.gov
+- As a Veteran, I would like to see informative banners apprising me of when the login to the site is down, and when it might be back up in order to properly do my business on VA.gov.
 - As a Veteran, when the site is down, I would like to know alternative means of doing my business so downtime doesn't keep me from accessing my benefits.
 
 ## Assumptions:
@@ -48,47 +48,46 @@ There is currently inadequate external-facing status messages for VA.gov authent
 ## Solution Approach: 
 
 ### Research the problems
+- The current process to display a downtime banner through sitewide/CAIA
+- Current Identity response roster & schedule.
+- Audit existing banner & alert messages.
+- How the current auto set by datadog monitors is working.
+- How the "scheduled through IR bot" maintance is being displayed on VA.gov.
 - Can these be automated?
   - Process for planned outage
   - Process for unplanned outage
   - Issue found by team w/ need to inform & take action
-- The current process to display a downtime banner through sitewide/CAIA
-- Current Identity response roster & schedule.
-- Audit existing banner & alert messages.
-  - Work w/ Engineers to update and/or improve messaging to ensure accuracy.
-- How the current auto set by datadog monitors is working.
-- How the "scheduled through IR bot" maintance is being displayed on VA.gov.
-- Alternate methods for certain tasks uders could still accomplish during outage.
+- Alternate methods for certain tasks users could still accomplish during outage.
 
 
-### Create the dashboard and document the processes
+
+### Deliverables
 - UI which allows a person to manually set "Current outage" message on VA.gov login page
-- Determine what we want to publish on status page then do it!
-  - Add service detection mechanisms to status page
-- Document alternative methods to access benefits if folks can't sign in.
+- Rewritten messages based upon input from Engineers
+- Automation of the following, if possible
+  - Process for planned outage
+  - Process for unplanned outage
+  - Issue found by team w/ need to inform & take action
+- Add alternative methods to access benefits if folks can't sign in to messaging.
   - This page might be a resource: [Helpful VA phone numbers](https://www.va.gov/resources/helpful-va-phone-numbers/)
-  - Add these methods to outage messaging
 - Updated Identity response roster & schedule.
-
 - Make sure all research & documentation is in github
 
 
 ## Technical Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------| 
-| VA Policy |  Is there VA policy surrounding availability & response times?     |
-| Industry Standards |  Are there industry standards surrounding availability & response times?     |
+|  |      |
+|  |       |
 
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
 | ------------- |:------------- | 
-| Explaining what the dashboards mean |   Would like UX help in crafting the publishing language          |
-| Veterans who don't speak tech | How do we ensure they understand what they might be seeing? |
+|  |   |
 
 
 
 
 
 ## Future Scope:
-* Determining our response to observed service degradation.
-* As the Identity Team adds new products and takes on new responsibilities, it is anticipated that new pieces of information will need to be established and published.
+

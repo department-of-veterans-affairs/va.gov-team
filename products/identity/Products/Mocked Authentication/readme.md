@@ -31,6 +31,9 @@ VA.gov mocked authentication interacts with the [Sign in Service](https://github
 
 ## Client Guide
 
+### Mocked Authentication with VA Identity Postman
+The VA Identity [Postman Collection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/postman.md#mocked-authentication) includes routes to interact with mocked authentication. These routes can be found under `Sign in Service >> Mock Auth`.
+
 ### How to use Mocked Authentication
 To use mocked authentication you need to navigate to the mocked authentication route on vets-website located at
 

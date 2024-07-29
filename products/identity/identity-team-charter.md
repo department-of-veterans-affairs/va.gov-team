@@ -50,7 +50,7 @@ Product Managers are responsible for keeping these directories up-to-date and we
 - Mike King
 - Jim Connelly
 
-### Delivery Manager
+### Delivery Management
 
 - Lisa Lindsay
 
@@ -77,9 +77,8 @@ Product Managers are responsible for keeping these directories up-to-date and we
 
 - Josh Houston
 - Vid Jovanovic
-- Zac Yellowhorse
 
-## UX Team
+## User Experience Team
 
 - Clayton Zook
 - Charley Tran
@@ -88,5 +87,5 @@ Product Managers are responsible for keeping these directories up-to-date and we
 
 ## Communications
 
-- Slack: #vsp-identity
+- Slack: [#vsp-identity](https://dsva.slack.com/canvas/CSFV4QTKN)
 - Zenhub tag: identity

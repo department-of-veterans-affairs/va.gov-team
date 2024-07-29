@@ -35,8 +35,6 @@ General info, notes and miscellaneous
 - VISTA: Veterans Health Information Systems and Technology Architecture (VISTA)
 
  
-
- 
 ### Key Decisions/Findings
 - PEGA integration [decision record](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md)
 - 2/7/24 - **10-7959f-1 Recommendation** (long term): VBMS and VIS to communicate with each other (and eliminate need for 10-7959f-1 FMP registration form altogether). For now we will focus on digitizing the form.
@@ -54,7 +52,7 @@ General info, notes and miscellaneous
       - 10-10d: user testing in staging
       - FMP1: user testing with figma prototype
       - 7959c: user testing will be skipped for this one
-      - FMP2: tbd
+      - FMP2: user testing will be skipped for this one
       - 7959a: testing may potentially be combined with FMP2, depending on research findings
     - Future testing - get all testing done in staging and then iterate
 

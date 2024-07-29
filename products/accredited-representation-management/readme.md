@@ -26,6 +26,9 @@ The Accredited Representation Management (ARM) team is part of the Accredited Re
 4. [IA redirect plan - Sharepoint](https://dvagov.sharepoint.com/:w:/r/sites/SitewideCAIA/_layouts/15/Doc.aspx?sourcedoc=%7B203EE57C-1260-4A20-9981-40A7396FB36A%7D&file=0.0%20Redirect%20plan.docx&action=default&mobileredirect=true)
 5. [A11y review log - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/CAIA/accessibility/Deliverables/Benefits%20Representation%20Management)
 
+## Engineering
+All database tables created to support ARM products must encrypt fields that contain PII.
+
 ## ARM Team Members
 
 - DSVA Product Owner: Jennifer Bertsch, Jennifer.Bertsch@va.gov

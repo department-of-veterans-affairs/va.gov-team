@@ -50,10 +50,13 @@ There are 3 key objectives for refinement:
 Using Github Project, navigate to the [main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1)
 The default view for this is newest items are at the top.
 
-1. Run through the **New Stuff** column first.
+1. Run through the **New Intakes** column first.
     - Assign estimate, priority, and last checked fields. OCTO will help determine priority level.
     - Add comments to help signify action taken or decision made.
     - Update "Last checked" field with today's date.
+    - If the ticket is related to HEALTH, triage whether it goes to Sara Sterkenberg (Cartography team) or Kristin Ouellette (CAIA)
+         -   If the url of the tool/page starts with /health-care/, it goes to Kristin (tag Kristin and Sitewide IA)
+         -   If the url starts with myhealth, it goes to Sara (tag Sara and Cartography team)
 
 3. Next, run through **Blocked** column starting with items items with the oldest "last checked" date.
     - Determine if item is still blocked.

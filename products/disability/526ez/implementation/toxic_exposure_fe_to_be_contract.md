@@ -10,11 +10,13 @@ All the new toxic exposure related fields will be wrapped in a top-level JSON no
 
  - gulfWar1990
  - gulfWar1990Details
+ - gulfWar2001
+ - gulfWar2001Details
  - herbicide
  - herbicideDetails
  - otherHerbicideLocations
  - otherExposures
- - otherExposureDetails
+ - otherExposuresDetails
  - specifyOtherExposures
  - conditions
 
@@ -23,9 +25,25 @@ Example:
     {
       "toxicExposure": {
           "gulfWar1990": {
-            "iraq": true,
-            "kuwait": true,
-            "qatar": true
+              "afghanistan": true,
+              "bahrain": true,
+              "egypt": true,
+              "iraq": true,
+              "israel": true,
+              "jordan": true,
+              "kuwait": true,
+              "neutralzone": true,
+              "oman": true,
+              "qatar": true,
+              "saudiarabia": true,
+              "somalia": true,
+              "syria": true,
+              "uae": true,
+              "turkey": true,
+              "waters": true,
+              "airspace": true,
+              "none": false,
+              "notsure": false
           },
           "gulfWar1990Details": {
             "iraq": {
@@ -40,10 +58,37 @@ Example:
               "startDate": "1991-03-15"
             }
           },
+          "gulfWar2001": {
+              "djibouti": true,
+              "lebanon": true,
+              "uzbekistan": true,
+              "yemen": true,
+              "airspace": true,
+              "none": false,
+              "notsure": false
+          },
+          "gulfWar2001Details": {
+             "airspace": {
+                 "endDate": "1992-09-01"
+             },
+             "uzbekistan": {
+                 "startDate": "1993-06-01"
+             },
+             "djibouti": {
+                 "startDate": "1992-01-01",
+                 "endDate": "1992-11-01"
+             }
+          },
           "herbicide": {
             "cambodia": true,
             "guam": true,
-            "laos": true
+            "koreandemilitarizedzone": true,
+            "johnston": true,
+            "laos": true,
+            "c123": true,
+            "thailand": true,
+            "vietnam": true,
+              "none": false,
           },
           "herbicideDetails": {
             "cambodia": {
@@ -58,13 +103,22 @@ Example:
               "startDate": "1991-03-15"
             }
           },
-          "otherHerbicideLocations": "freeform text field. holla.",
+          "otherHerbicideLocations": {
+            "description": "other location 1, other location 2 etc",
+            "startDate": "1991-03-01",
+            "endDate": "1992-01-01"
+          },
           "otherExposures": {
             "asbestos": true,
+            "chemical": true,
+            "mos": true,
+            "mustardgas": true,
             "radiation": true,
-            "mustardgas": false
+            "water": true,
+            "none": false,
+            "notsure": false
           },
-          "otherExposureDetails": {
+          "otherExposuresDetails": {
             "asbestos": {
               "startDate": "1991-03-01",
               "endDate": "1992-01-01"
@@ -85,7 +139,7 @@ Example:
       }
     }
 
-Additionally, some information at the disability level must be carried over for mapping purposes later (in the `Form526ToLighthouseTransformer` class)- namely the `cause` field. Note that secondary disabilities originally of type "SECONDARY" get changed to "NEW" by the FE's submit transformer and are mapped as primary disabilities by the backend.
+- Additionally, some information at the disability level must be carried over for mapping purposes later (in the `Form526ToLighthouseTransformer` class)- namely the `cause` field. Note that secondary disabilities originally of type "SECONDARY" get changed to "NEW" by the FE's submit transformer and are mapped as primary disabilities by the backend.
 
       "disabilities": [
         {
@@ -101,6 +155,9 @@ Additionally, some information at the disability level must be carried over for 
           "cause": "NEW"
         }
       ]
+
+- The `"none": false` field under gulfWar1900 and gulfWar2001 represent the "None of these" option from the front end. Presence of the `"none": true` field/value pair overrides any other location field/value pair in the collection and effectively renders this question on the form unchecked.
+- The `notsure: false` field under gulfWar1900 and gulfWar2001 represent the "Not sure" option from the front end. This field is an artifact of the FE and used only as a guide to the user. In the back end, we filter this option out before any other processing, i.e. it is ignored
 
 # Questions/Action Items/Notes (from 4/11/24 internal review)
 

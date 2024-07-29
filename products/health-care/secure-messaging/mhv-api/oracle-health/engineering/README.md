@@ -1,6 +1,16 @@
-# [WIP] SM Exchange
+# [Deprecated] SM Exchange
 
 
+Moved to https://github.com/department-of-veterans-affairs/mhv-developer-docs/tree/main/Design/OH%20Integration/Secure-Message
+
+
+
+
+
+
+
+
+----
 ## Assumptions (Need to be validated and Open to challenged)
 
 - ✅ MHV is the source of truth for all Messaging data

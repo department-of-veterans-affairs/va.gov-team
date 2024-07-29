@@ -1,11 +1,11 @@
 # Platform Support in Slack
 
-To get help from someone on the Platform, use the Slack workflow in the #vfs-platform-support channel. This tool routes your request to the appropriate Platform team and helps us respond to requests consistently and efficiently.
+To receive help from Platform Support, please follow the instructions below.
 
 ### Documentation
 
-[User guide](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)
+Please review any documentation already available on the Platform Site here: [https://depo-platform-documentation.scrollhelp.site/support/](https://depo-platform-documentation.scrollhelp.site/)
 
 ### Point of contact
 
-Go to <a href='https://dsva.slack.com/channels/vfs-platform-support'>#vfs-platform-support</a> and select <strong>Need help from Platform?</strong>
+Follow the instructions outlined here <b>after</b> reading through the documentation here: https://depo-platform-documentation.scrollhelp.site/support/getting-help-from-the-platform-in-slack

@@ -26,7 +26,7 @@ melissa.lefevre@adhocteam.us<br>
 
 ## Research
 
-We follow the (VA Platform's guidance on research)[https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va].
+We follow the [VA Platform's guidance on research](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va).
 
 [Research by the Appointments-FE Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research#readme)
 

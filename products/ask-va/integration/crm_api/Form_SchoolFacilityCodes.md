@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /schools?{facilityId}
+**Path**: /ask_va_api/v0/schools?{facilityId}
 
 **Parameters**:
 | Name | Type | Description |

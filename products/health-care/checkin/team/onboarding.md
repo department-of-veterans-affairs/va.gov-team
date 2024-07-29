@@ -107,12 +107,6 @@ As of April 2024, this is the process:
       - **Role**: CyberArk
       - **Sub-Role**: CyberArk User
       - **Applies to**: Production
-    - Pre-Production CyberArk User:
-      - **Systems Reside In**: Infrastructure Operations
-      - **Scope of Role**: CyberArk
-      - **Role**: CyberArk
-      - **Sub-Role**: CyberArk User
-      - **Applies to**: Pre-Production/Test
   - The second area we're concerned with is the "Groups that represent a role" section on the right.
     - VA PAS Users:
       - **Systems Reside In**: Infrastructure Operations
@@ -131,7 +125,6 @@ As of April 2024, this is the process:
       - Include the name of your NMEA account (i.e. with 0).
       - Second line gives detail. The words used in one of the videos were "VA PIV with PAS creates MFA into the password vault."
       - Third line is justification: "Needed for access to elevated privileges within the VA PAS solution."
-  - Pre-Production CyberArk User: (as above)
   - VA PAS Users: (as above)
   - `vaec-cms`/`vaec-cie` administrators:
     - **Account**: Your NMEA account; we've gone through this process so that we can use our MEA account to use our NMEA account to manage something somewhere.
@@ -139,7 +132,7 @@ As of April 2024, this is the process:
 - Click "Save and Submit" at the **top** of the screen.
 - Wait for approval.
 
-### Final Steps
+### PAS 2.0 Access
 
 **Prerequisites**: All of above, plus the "Welcome to PAS 2.0" email.
 
@@ -162,4 +155,22 @@ To get into AWS, this is the procedure:
 - From there, you can sign in and then select a specific application, e.g. AWS WebGov Cloud.
 - You can select whichever account you want to access, e.g. `vaec-cms` or `vaec-cie`.
 
- 
+### GFE Admin Privileges
+
+**Prerequisites**: GFE, Zero account
+
+As a developer, you probably need administrator privileges on your GFE so that you can use the AWS CLI, etc.
+
+To get admin access to your GFE, this is the procedure:
+- Open `cmd.exe` and run `ipconfig /all`.
+  - Copy down the value for "Host Name" (e.g. `CLE-LT02482093FW`)
+- Navigate to the MyVA Elevated Privileges Site (https://epas.r02.med.va.gov/apps/myva/)
+- Click "Submit Request"
+- Fill out the first tab as you have before
+- In the "Roles" tab:
+  - Under "Administration Role for a workstation/machine" (middle column)
+  - Select "Infrastructure Operations"
+  - Provide the host name of your machine from above.
+  - Click "Add Machine"
+- Scroll down and ensure that the Account for the local machine is your NMEA (i.e. Zero) account.
+- In "Justification/Details", write "I'm a developer and I need administrator privileges to install developer tools."

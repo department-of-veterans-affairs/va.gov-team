@@ -4,7 +4,7 @@
 
 **Method**: POST
 
-**Path**: /inquiries/new
+**Path**: /ask_va_api/v0/inquiries/new
 
 **Parameters**:
 None

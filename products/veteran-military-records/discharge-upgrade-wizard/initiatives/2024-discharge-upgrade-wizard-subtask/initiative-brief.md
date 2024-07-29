@@ -39,6 +39,8 @@ Sitewide Content team working on stakeholder identification (12/23)
 
 - [New/Updated Logic Flow using Subtask Pattern - Example](https://www.figma.com/file/XHQAQ8ZDKKsDcXfBn5ulhh/Discharge-Upgrade-Wizard?type=design&node-id=0-1&mode=design&t=nnB0yTWacZIKSpaU-0)
 - [Legacy Screenshots/Logic Flow Example](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696352911500/80253b1c7200212cbcbcfb940d2cf4a29fed8417?sender=u71e5a9ded413bfa79dd23932)
+- User Flow (logic): https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696352911500/80253b1c7200212cbcbcfb940d2cf4a29fed8417?sender=u01810f3edbfc878c08be5925
+  
 
 ### Analytics
 

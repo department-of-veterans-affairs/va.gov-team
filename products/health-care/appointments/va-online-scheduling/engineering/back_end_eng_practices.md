@@ -1,4 +1,4 @@
-# VAOS back end engineering practices and tips
+F# VAOS back end engineering practices and tips
 
 ## Working on the va.gov platform
 
@@ -18,7 +18,7 @@
 - Everyone should review each other's code, regardless of experience level or project familiarity.
    - We should strive for having any PR reviewed within 24 hours.
    - PR comments are normal and expected and not a sign that something is wrong. The expectation should be that every PR has questions or comments from reviewers
-   - Bigger changes should have an approval from Kam
+   - Bigger changes should have an approval from the technical lead.
    - When doing a PR review, it is usually best to try to phrase your comment in the form of a question. This tends to be a more diplomatic approach and limits the potential for ruffling feathers. 
 - Prefer more, smaller PRs to fewer, larger PRs.
    - Smaller PRs are easier to review

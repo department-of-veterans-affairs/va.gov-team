@@ -1,5 +1,5 @@
 # Architecture Decision Record (ADR)
-## Callback API between VA and PEGA
+## Callback API between VA and DOCMP/PEGA
 **Date:** 4/23/2024
 
 **Status:** Accepted
@@ -37,6 +37,8 @@ create_table :ivc_champva_forms do |t|
    t.uuid   :form_uuid
    t.string :s3_status
    t.string :pega_status
+   t.string :case_id
+   t.boolean :email_sent
 
    t.timestamps
  end

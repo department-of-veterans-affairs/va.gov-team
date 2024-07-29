@@ -7,26 +7,34 @@
 
 ### IA standards and IA-related components
 
-Component/Pattern | Published documentation | Priority/Effort | POC | Revisions and work in progress
---- | --- | --- | --- | ---
-URLs | [URL standards in VADS](https://design.va.gov/content-style-guide/url-standards) | High/Small | Erin | [Additional work needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/url-standards.md)<br> [Issue #81192 in progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81192)
-IA governance | [Content placement criteria for unauth experience] | High/Large | Mikki | OCTO currently working on placement criteria that encompasses auth experience and additional areas of modernized experience
-Header | | Med/Med | | Componetize header, incorporate Federal header requirements
-Footer | | Med/Med | | Componetize footer, incorporate Federal footer requirements
-Primary navigation | Not documented in VADS | Low/Med | | Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating along with secondary nav for redesign
-Secondary navigation | [Side nav in VADS](https://design.va.gov/components/sidenav) | Low/Med || Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating unauth secondary nav along with primary nav for redesign, Health crew building temporary secondary nav approach for MHV portal
-Breadcrumbs | [Breadcrumb component in VADS](https://design.va.gov/components/breadcrumbs) | High/Low | | Review of V3 component as well as experimental design of back link with minimal header
-Title tags | Title tags on VADS | | |
-H1s | [H1s on VADS] | | |
-On this page | [On this page component in VADS] | Med/Low | | Needs guidance added for usage, utilize USWDS to start
-Pagination | [Pagination component](https://design.va.gov/components/pagination) | Low/High | | Discovery of current usage, any V3 plans, USWDS guidance. 
-Search best bets | [Search best bets guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/search-best-bets.md) | Low/Med |Jenny | Review current guidance and identify what should be documented as a standard, what is process, and what is best practice. Identify where each aspect should live and create drafts properly formatted.  Review with OCTO leads for approval. Publish
-IA and SEO | [SEO best practices on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md) <br> [SEO best practices on VADS] | Low/Low | | Review and determine what is standard to be documented and what is general guidance, determine where each aspect should be documented, format for location appropriately.  Review with OCTO leads for approval. Publish
-IA and a11y | | | 
-Home page template | | High/Med |  | Review current documentation and rubric and draft formal guidance for VADS
-Benefit hub template | [Template: Benefit hub page on VADS] <br> [Template: Benefit hub page on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/template-guidelines-hub-page.md) | Med/Low | Kristin | Review current level of documentation, write up needed updates for VADS, get OCTO approvals, publish
-Benefit sub-hub template |
-User flows | [User Flow Guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/user-flow-guidance.md) | Med/High | Kristin/Jenny | Review current guidance and identify what should be documented as a standard (should be evaluated through governance) and what is best practice guidance for creating flows <br> Review original experience standards and identify what is missing from current guidance and needs to be added <br> Identify where standards and best practice info should live
+Component/Pattern | Published documentation | Priority/Effort | POC | Revisions and work in progress | Status
+--- | --- | --- | --- | --- | ---
+URLs | [URL standards in VADS](https://design.va.gov/content-style-guide/url-standards) | High/Small | Erin | - [Additional work needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/url-standards.md)<br> - [Issue #88407 in progress](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/88407) for [Sub-Url guidance proposal for VADS](https://docs.google.com/document/d/1GPxTV7RPuBZ66WAFeNtxbE_jvoMaAFEf9N_1p99L0lk/edit#heading=h.efzncwe2ayez)| Erin to review final doc, add to URL page in VADS; Mikki to create separate ticket for updates to vanity URL standards
+Redirects | [Standards on github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/redirects.md) | High/Med | Kristin/Jenny | [CAIA ticket #83498](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83498) and [WIP documentation](https://docs.google.com/document/d/1wRcgJn7p4Cuz4cFr-WF3JlvttK5CAbenZkJM4EqBLIs/edit) Will need to update ACs in redirect ticket template once process is finalized with PW| Mikki to review PR for VADS documentation, Mikki to work with Public Websites to get platform documentation figured out, Mikki to work with Michelle Middaugh to communicate implementation process changes.
+Benefit hub template | [Template: Benefit hub page on VADS](https://design.va.gov/templates/hub) <br> [Template: Benefit hub page on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/template-guidelines-hub-page.md) | Med/Low | Kristin | [CAIA Ticket #65451](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65451) and [WIP documentation](https://docs.google.com/document/d/1Ojr6OCIH3CGWG-auQf7N2Gk-D2_eaI1g0fpSoLpv0jg/edit)| Mikki review the google doc WIP
+User flows | [User Flow Guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/user-flow-guidance.md) | Med/High | Kristin/Jenny | [CAIA Ticket #82573](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82573) and [WIP documentation](https://docs.google.com/document/d/1vNVjn0J6oMGy4fZ7peGrI4yPI5p9_TjP1vx73n1xqdk/edit#heading=h.80c5ydk3huxr)| Mikki created approach that utilizes patterns, Erin to review, Mikki to discuss with Matt
+General Title tags | Title tags on VADS | | Kristin | [CAIA Ticket #84040](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84040) and [WIP documentation](https://docs.google.com/document/d/1EA9iEw1mCE8P7-JxEwX5r7yFnz1xxyG-dCviPoh_oSA/edit)| Implemented by Matt - DONE
+Breadcrumb Guidance | [H1s on VADS] | | Kristin | [CAIA Ticket #73451](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73451) and [WIP Documentation](https://docs.google.com/document/d/1XKUSwFIaqVYq_ZuXAoZ33sWjDWgTFWdZVMYJescmZGA/edit#heading=h.54uuq7rgf2t1)| Kristin and Sara synced, waiting for Sara additional review
+Links guidance | [Links in VADS](https://design.va.gov/content-style-guide/links) | Med/Low | Kristin | [WIP](https://docs.google.com/document/d/1bxlBpjH1B6Dez4SFnZOXZ-5XIyVbYaRtaZsaTPLABqU/edit) | Erin to work with CAIA to add to content style guide, and review VADS link component for crosslinking references. 
+~~Page titles for forms~~ | https://design.va.gov/content-style-guide/page-titles-and-section-titles | | ~~Jenny~~ | ~~Need to add specific instructions about forms (like the title vs the form number and how the form number needs to be used. [CAIA intake ticket #86543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86543)~~ [Working draft](https://docs.google.com/document/d/1PJZYNiJ1ejQWAeias0qeZd9Sv5xMHyBJfHLuHB5ftv4/edit) - we made suggestions to the existing documentation and have passed to Content team as these changes would be in the content style guide| Passed to Content team
+Home page template | [New homepage github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/initiatives/2022-home-page-redesign-initiative) and draft of [homepage content rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/initiatives/2022-home-page-redesign-initiative/homepage-content-rubric.md) | High/Med | Kristin (first pass) | [CAIA Ticket #82570](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/26?pane=issue&itemId=62174367) and [WIP](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694550504118/9ab9423b7a907602411017fd5a5fbff952ebc8bd?wid=0-1719612457029) | Mural draft sent to Erin and Mikki for feedback
+IA governance | [Content placement criteria for unauth experience] | High/Large | Mikki | OCTO currently working on placement criteria that encompasses auth experience and additional areas of modernized experience | 
+Header | | Med/Med | Jenny | Componetize header, incorporate Federal header requirements | 
+Footer | | Med/Med | Jenny | Componetize footer, incorporate Federal footer requirements. [Draft](https://docs.google.com/document/d/1LuLX1dXL01FaCBXDqDmogDgsk50OkmyvPrLk-dl_RMM/edit). [CAIA ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88782) | Jenny working on first draft
+Sign-in Widget |  | | Kristin | [CAIA Ticket #78520](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78520) | 
+Benefit sub-hub template | | | Kristin | |
+On this page | [On this page component in VADS] | Med/Low | Kristin | Needs guidance added for usage, utilize USWDS to start | 
+Primary navigation | Not documented in VADS | Low/Med | Jenny | Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating along with secondary nav for redesign | 
+Secondary navigation | [Side nav in VADS](https://design.va.gov/components/sidenav) | Low/Med | Jenny | Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating unauth secondary nav along with primary nav for redesign, Health crew building temporary secondary nav approach for MHV portal | 
+Search best bets | [Search best bets guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/search-best-bets.md) | Low/Med |Jenny | Review current guidance and identify what should be documented as a standard, what is process, and what is best practice. Identify where each aspect should live and create drafts properly formatted.  Review with OCTO leads for approval. Publish | 
+Pagination | [Pagination component](https://design.va.gov/components/pagination) | Low/High | | Discovery of current usage, any V3 plans, USWDS guidance.  | 
+IA and SEO | [SEO best practices on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md) <br> [SEO best practices on VADS] | Low/Low | | Review and determine what is standard to be documented and what is general guidance, determine where each aspect should be documented, format for location appropriately.  Review with OCTO leads for approval. Publish | 
+IA and a11y | |  |  | 
+
+ 
+
+ 
+
 
 
 ### Core IA documentation
@@ -65,15 +73,29 @@ User flows | [User Flow Guidance on GH](https://github.com/department-of-veteran
 
 ### Process for establishing IA standards
 
-- IA identifies gap in standard or opportunity to improve documentation
-  - Item is added to standards list along with info on impact and urgency in order to define priorities
-- IA picks up work, does preliminary discovery on current state 
-  - How is this handled today? Does documentation exist currently? What do we know about what is working well and what is not? Does this pattern exist within VADS or USWDS?
-- IA works to define what the standard should be, and collaborates with Mikki and Erin to refine and finalize
-- Erin works to determine where the new standard or guidance documentation should live - design system, Figma, Mural, GH, other
-- Erin creates final documentation, formatted appropriately for where it will live 
-- Mikki reviews with any other OCTO leads for awareness and approval as needed
-- Erin publishes
+1. Review the [Github table](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/standards) and choose an IA standard – put your name next in the POC column
+2. Create a ticket in your board WITHIN the epic called: [IA Standards and Documentation](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/53920)
+- Put a link to your ticket in the [github table](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/standards)
+- Ticket template: [IA Standards - Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82570#event-12734461942)
+3. Write up a draft of the standard
+- Make sure you find/review existing documentation
+- Establish the scope
+   - What are you covering
+   - What are you not going to cover?
+- Decide where the guidance will live - VADS vs github
+4. Add a link of your draft to the [github table](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/standards)
+5. Get standard draft approved by Mikki
+- Mikki may take questions or things to OCTO
+- We should remind Mikki about wrapping her task and not let it fall off
+6. Untag yourself, tag Erin in your ticket
+- Erin can add whatever labels they want
+7. Erin confirms where the guidance should go
+- If changes to existing component, may need to fill out a ticket for design council
+8. Erin makes any needed edits to guidance
+9. Erin publishes to wherever
+10. Erin adds the link to the final standards to the github table and updates the status as COMPLETE
+11. Erin writes and sends Slack announcement about change in #design
+
 
 
 ### Open questions

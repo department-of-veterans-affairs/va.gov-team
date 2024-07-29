@@ -2,7 +2,7 @@
 name: Check In Experience Medallia Analysis
 about: Task to request & analyze Medallia data
 title: "Request Medallia Data for CIE Applications"
-labels: HCE-Checkin, ux, prodcut
+labels: HCE-Checkin, product
 assignees: ''
 
 ---

@@ -1,4 +1,4 @@
-# Identity Support Request Intake Process
+# Identity Support Request Responsibilities
 
 This document outlines the intake process for identity support requests initiated via Slackbot. It details the types of requests expected, the responsibilities of product and engineering leadership in addressing these requests, the expected response times, and the procedures for handling specific types of inquiries.
 

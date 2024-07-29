@@ -141,7 +141,27 @@ As an API team,
 we should be able to see how many claims created by the API are denied, with the reason why
 so that we can plan future features to help reduce these denied claims (if any)
 ```
+## Phase 1.1 Iteration On Query
 
+> Note, the query for status of the claim should support pagination and filtering
+
+```
+As an API
+I should provide query for status of claim results in a paginated manner( accepting a current page, limit per page, etc. )
+so that this limits the load on both the client and our systems
+```
+
+```
+As a client application, 
+I should be able to query for the status claims for a Veteran and filter by a client provided list claim statuses
+so that the client application can only show what the Veteran wants
+```
+
+```
+As a client application, 
+I should be able to query for the status claims for a Veteran and filter by a client provided date range
+so that the client application can only show what the Veteran wants
+```
 
 ## Phase 2 - Eligibility
 

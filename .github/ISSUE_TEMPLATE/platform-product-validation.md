@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+## User Story
+_Please write a user story using the format: As a ___________, I want to ______________, so that _______________._
+
 ## Issue Description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 

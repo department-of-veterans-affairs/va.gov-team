@@ -2,8 +2,6 @@
 
 Developed by the Accredited Representation Management team, the Find a Representative product will allow Veterans to search for an accredited representative on VA.gov.
 
-The MVP will include desktop & mobile experiences and the pathway is `/src/applications/representative-search`
-
 ⚠️ Due to concerns around the data powering our search results being only ~50% accurate, the team has decided not to release at 1.0 and move right into [version 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/find-a-representative-2.0-overview.md).
 
 #### Find a Representative
@@ -28,15 +26,3 @@ The MVP will include desktop & mobile experiences and the pathway is `/src/appli
    3. Filter results by
       1. Distance
       2. Representative Name / Organization Name
-    
-
-## Future Iteration
-
-1. Consider additional search parameters
-   1. VSO Representative rep type
-   2. Email
-   3. Remote support
-   4. Gender
-3. Satisfaction survey to assess the user perceptions of our product experience
-4. Consider adding [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp-representative-status-widget.md) to the experience
-5. Integrate with OGC APIs for direct access to accredited representative data

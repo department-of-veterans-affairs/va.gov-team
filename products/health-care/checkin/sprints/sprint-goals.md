@@ -1,52 +1,330 @@
+
 # CIE SPRINT GOALS (aka SPRINKLES) 
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
-<summary>FUTURE SPRINT - 5/29/2024 - 6/11/2024 </summary>
-______________________________________________________________________________________________________________________________________________________
+<summary>SPRINT 13 - 8/7/2024-8/20/2024 FUTURE TENTATIVE</summary>
 
-## SPRINT 8 - 5/29/2024 - 6/11/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 13 - 8/7/2024-8/20/2024
+- **Production Support**
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79886)
+- **Medication Wording for Appointments - Pre-Check-in**
+    - **Sprint Goal is to get this feature ready-to-release and schedule a Staging Review**
+    - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
+    - ❗🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
+    - ❗🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
+    - ❗🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
+    - 🟪 Schedule Staging Review
+        - 🟩 Need Code Coverage link
+        - 🟩 Need E2E tests link
+        - 🟥 Need Contact Center review ticket link for Product Guide
+        - 🟪 Need TestRail reports links
+- **Travel Claim Submission from Past Appts - Web**
+    - **Sprint Goal TBD**
+    - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
+    - 🟩 TBD 
+- **Upcoming VAOS Appointments**
+    - **Sprint Goal Finish all work and schedule a Staging Review & Infrastrucutre Readiness Review**
+    - BLOCKED BY MIDPOINT REVIEW AND FINAL WIREFRAMES
+    - 🟩 [[FE] Create Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
+    - 🟩 [[FE] Add Link to Access the Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89065)
+    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
+    - 🟦 TBD - remaining work?
+    - 🟪 Schedule Staging Review    
+    - 🟩 Schedule Infrasturcture, Security Readiness Review
+- **Translations**
+    - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
+- **CIE Analytics**
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76038)
+    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
+- **Tech Debt**
+    - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
+    - 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
+    - 🟩 [Staging Review finding: Replace imposter component with va-link-action ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89001)
+    - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
+    - 🟩 [Staging Review finding: Missing punctuation in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89005)
+    - 🟩 [Staging Review finding: Missing periods in the appointment time in Appointments > What to do next ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89006)
+    - 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008)
+</details>
+
+## SPRINT 12 - 7/24/2024-8/6/2024
+- **Production Support**
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
+    - ❗🟨 [Rotate AWS Keys - July 29, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76337) (added after planning)
+    - ❗🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
+    - ❗🟨 [[DevOps] Discovery on copying secrets necessary for Vista API backend to function into vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88378)
+    - ✔️ ❗🟨 [[DevOps] Implement LoROTA postData system test library function.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88816)
+    - ✔️ ❗🟨 [[DevOps] Implement LoROTA postData will-create-a-valid-data-entry system test. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88824)
+    - ✔️ ❗🟨 [[DevOps] Discovery on vista_api_frontend in octo-vista-api.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88377)
+- **New Landing Page with Today's VISTA Appointments**
+    - **Sprint Goal is to adress the 3 launch-blocking issues from the 7/23 Staging Review and release the feature**
+    - ❗🟩 [[FE] - Review and merge PR last sprints tickets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88841)
+    - ✔️ ❗🟩 [Staging Review finding: Input error messages not announced by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89010)
+    - ✔️ ❗🟩 [Staging Review finding: "Check in now" links not announced the same way by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89009)
+    - ✔️ ❗🟩 [Staging Review finding: Inconsistent language around identity verification in "Check if your information is up to date" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89007)
+    - ❗🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
+    - ❗🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
+    - ❗🟪 Schedule a 508 Audit
+- **Stand-alone Travel Application for OH Sites**
+    - **Sprint Goal is to complete this feature and schedule a Staging Review and an Infrasturcture, Security, & Readiness Review**
+    - 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
+    - 🟩 [Test E2E with VeText Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
+        - 🟩 How will we make this available to only certain Pilot sites?
+    - 🟪 Schedule Staging Review
+    - 🟩 Schedule Infrasturcture, Security Readiness Review
+    - 🟥🟪 Find out from Kristen about timing of pilot and pilot site(s)
+- **Medication Wording for Appointments - Pre-Check-in**
+    - **Sprint Goal is to get the wireframes finalized and ready for frontend**      
+    - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+    - ✔️ ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
+- **Travel Claim Submission from Past Appts - Web**
+    - **Sprint Goal is to do the draft userflow & wireframes and schedule a Design Intent**
+    - 🟪 Create product documents
+    - ✔️ 🟥 [Update userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88086)
+    - 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
+    - 🟥 Schedule Design Intent (are we piggy-backing off Travel Team's Collab Cycle ticket?)   
+- **Upcoming VAOS Appointments**
+    - **Sprint Goal is to finish the draft UX artifacts and schedule a Midpoint Review and to make progress on backend integration with VAOS/MAP**
+    - ✔️ 🟥 [Update Userflows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
+    - ✔️ 🟥 Schedule [Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89352)
+    - ✔️ 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
+    - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
+    - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
+    - 🟩🟦 [[FE][BE] Staging validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)        
+- **CIE Analytics**        
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
+    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
+- **Tech Debt**
+    - 🟦 [[BE] Investigate sentry errors being thrown by check-in controllers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89085)
+    - 🟩 [Staging Review finding: aria-labelledby on "Review your information now" may block voice users. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88999)
+    - 🟩 [Staging Review finding: Use the vads-font-size-eyebrow typography token ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89000)
+  
+
+## SPRINT 11 - 7/10/2024-7/23/2024
+- **GOAL: Support Production**
+    - ✔️ ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82356)
+    - **Sub Goal: Move to New AWS Instance**
+      - ✔️ ❗🟨 [[DevOps] Complete ATO Control Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87382)
+      - ✔️ ❗🟨 [[DevOps] Build an inventory of all AWS resources in vaec-cms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86930)
+      - ✔️ ❗🟨 [[DevOps] Proof-of-concept NodeJS system test.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86889)
+      - ✔️ ❗🟨 [[DevOps] Discovery on Vista API ECS resources](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86873)
+      - ✔️ ❗🟨 [[DevOps] Create Vista API ECS Terraform module](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86519)
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
+       - ✔️ ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
+       - ✔️ ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: New Landing Page with Today's VISTA Appointments**
+        - **Staging Review is scheduled for 7/23 at 11:30 am ET**
+        - ✔️ 🟩 [[FE] - Add e2e test for completing check-in then going back to appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87721)
+        - ✔️ 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)        
+    - **Sub Goal: Upcoming VAOS Appointments** 
+        - ✔️ ❗ 🟥 [Create final designs for error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87938)
+        - ✔️ 🟥 [[UX] Create Final Wireframes for incorporating Upcoming VAOS Appointments into Pre-Check-in & eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87871)
+        - 🚧 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
+        - 🚧 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
+        - ✔️ 🟩 [Check-in: Implement New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87416)
+        - ✔️ 🟩 [Pre-Check-in: Update New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87422)
+        - ✔️ 🟩 [[FE] Remove unactionable statuses from appointment list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87394)
+        - ✔️ 🟩 [[FE] Update Task Card ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87756)
+    - **Sub Goal: CIE Analytics**
+        - ✔️ 🟪 [Add the A11 (5 item question) intercept survey to confirm pages on pre-check-in and check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88146)
+        - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84429)
+        - ✔️ 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
+- **GOAL: Address Tech Debt**
+    - ✔️ 🟩 [4 Modifications to Tagalog Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87810)
+
+## SPRINT 10 - 6/26/2024-7/9/2024
+
 #### SPRINT GOALS
 - **GOAL: Support Production**
-    - **Sub Goal: Move to New AWS Instance**
+- **GOAL: Make submission of a travel reimbursement claim easier**
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: New Landing Page with Upcoming Appointments**
-    - **Sub Goal: Analyze current metrics to see what they tell us**    
-- **GOAL: Address Tech Debt**    
-    - **Sub Goal: DevOps Improvements**
+- **GOAL: Address Tech Debt**
 
-#### PLANNED RELEASES 
-- New Landing Page with Upcoming Appointments
+#### PLANNED RELEASES
+- **Integrate with claim_status endpoint for handling BTSSS API timeout**
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79883)
-    - ❗🟩 [Rotate AWS Keys - May 30, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76343)
+    - ✔️ ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82365)
     - **Sub Goal: Move to New AWS Instance**
-        - ❗ TBD
-- **GOAL: Increase PCI Usability**    
-    - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟩 [[FE] Pilot rollout for new landing page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81831)
-        - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)
-        - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)
-        - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)
-        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
-        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
-        - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)       
-    - **Sub Goal: Analyze current metrics to see what they tell us**
-        - 🟥 [Research] Analyze GA Metrics
-        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
-        - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)   
-- **GOAL: Address Tech Debt**    
-    - **Sub Goal: DevOps Improvements**
-        - TBD
-</details>
+      - ✔️ 🟨 [[DevOps] Recreate LoROTA DynamoDB with TTL rule matching current.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84123)
+      - ✔️ 🟨 [[DevOps] Review image scanning results for ECR images in vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87088)
+      - ✔️ 🟨 [[DevOps] Nate Douglas needs access to CHYSHY VistA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81378)
+      - ✔️ 🟨 [[DevOps] Migrate octo-vista-api to use OIDC provider on vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84180)
+      - ✔️ 🟨 [[DevOps] Create Terraform module for Vista API ECR resources in octo-vista-api.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86861)
+      - ✔️ 🟨 [[DevOps] Remove LoROTA Cleanup Lambda and schedule.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86812)
+      - ✔️ 🟨 [[DevOps] Discovery on configuring GitHub Self-Hosted Runners for CIE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87624)
+      - ✔️ 🟨 [[DevOps] Create AppConfig configuration profile, deployment strategy, and deployment for system tests.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87690)
+      - 🚧 🟨 [[DevOps] Complete ATO Control Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87382)
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
+        - 🚧 ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
+        - ✔️ ❗🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
+        - ~❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)~
+            - Not able to do until after we go to production
+        - Release (Let Lori know when)
+    - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
+      - ✔️ 🟩 [[FE] Update "How we calculate mileage" Content as Approved by CAIA](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86481)
+      - ✔️ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86427)
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
+        - Added at the end of the sprint
+            - ✔️ 🟩 [BUG: For check-in, we talked about pivoting the H2 to "Today's appointments at this facility". ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87413)
+            - ✔️ 🟩 [Bug: When selecting "Details" BEFORE completing pre-check-in, there should not be the content directly below the heading about "bring insurance." ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87410)
+            - ✔️ 🟩 [Bug: "Review your information" eyebrow component should be on the demographic question pages in pre-check-in above the h1. Figma link. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87412)
+        - ✔️ 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)
+        - ✔️ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)  
+        - ✔️ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)
+        - ✔️ 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)
+        - ~🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)~
+            - We are pausing to talk to Platform about Staging Review
+    - **Sub Goal: CIE Analytics**
+        - ~🟦🟩 [[BE] We Need New StatsD Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86494)~
+            - No longer needed
+        - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83490)
+        - ✔️ 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
+        - ✔️ 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
+        - ✔️ 🟪 [Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
+    - **Sub Goal: Tech Debt**
+        - ~🟩 [[FE] SPIKE - Check BTSSS claim status in CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86507)~
+            - Removed from sprint, not a priority
+        - ✔️ 🟩 [[FE] SPIKE - don't refresh old sessions](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86797)
+        - ✔️ 🟩 [[FE] BUG - date is missing from already field error.](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/87064)
+        - ✔️ 🟥 [Task Card Updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86785)
 
-<details>
-<summary>FUTURE SPRINT - 5/15/2024 - 5/28/2024 </summary>
+
+## SPRINT 9 - 6/12/2024-6/25/2024
+
+#### SPRINT GOALS
+- **GOAL: Support Production**
+- **GOAL: Support Congressional Mandate**
+- **GOAL: Make submission of a travel reimbursement claim easier**
+- **GOAL: Increase PCI Usability**
+- **GOAL: Address Tech Debt**
+  
+#### PLANNED RELEASES
+- NONE
+
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - **Sub Goal: Production Support**
+        - ✔️ ❗🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82357)
+        - ✔️ ❗🟥 [[UX] Create new text message to inform veteran about claim submission and some issues processing the claim ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84767)
+        - ✔️ ❗🟦 [[BE] Modify travel_claims/client to add claim_status api call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84754)
+        - ✔️ ❗🟦 [[BE] Implement claim_status method in travel_claims/service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84755)      
+        - ✔️ ❗🟦 [[BE] Check for success & failure status from claim status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84764)
+        - ✔️ ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
+    - **Sub Goal: Move to New AWS Instance**
+        - ✔️ 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
+        - ✔️ 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
+        - ~❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)~
+        - ~❗🟩 [[FE] Create Feature Flag ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85116)~
+        - ~❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)~
+            - Sounds like we need to wait for the approval from IVC
+        - ~❗🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)~
+            - Won't be ready until staging review is done
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
+        - Here are the [updated wireframes](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3181-3191&t=DFFtXsWzfBNMQy17-1)
+        - ✔️ 🟩 [[FE] OH travel add card and content to appointment select ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85599)
+        - ✔️ 🟩 [[FE] OH travel - Update conent on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85600)
+        - ✔️ 🟩 [[FE] OH travel expandable alert for appointment select page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85597)
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - ✔️ 🟥 [[DESIGN] Complete all documentation and hold handoff meeting for landing page pivot ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85723)
+        - ✔️ Christina to schedule a hand-off to engineering & Product
+        - ✔️ John/Brian to create tickets for "new" MVP; FYI Lori created [FE ticket ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86410)
+    - **Sub Goal: CIE Analytics**
+        - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
+        - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
+- **GOAL: Address Tech Debt**    
+    - **Sub Goal: CIE Tech & Design Debt & Bugs**
+        - ✔️ 🟥 [Update all eCheck-in, Pre-Check-in, and Travel VA Notify Messages to Remove the Trailing Period ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85756)
+        - ✔️ 🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)            
+        - ✔️ 🟩 [[BUG] [CHIP] Pre-Check-in Link is Invalid (Missing Underscore) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
+        - ~🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)~
+            - Needs more discussion
+            - converted to [[FE] don't convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
+        - ✔️ 🟩 [[BUG] [FE] Add 16px bottom padding to all additional info components in Check-in and Pre-check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76467)
+        - ~🟩 [Use the new DS simplified footer component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71127)~
+            - Removed from sprint, needs to be done at the Platform level
+        - ✔️ 🟩 [[FE] - Remove old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
+        - ✔️ 🟩 [[FE] don't convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
+            - Added towards the end of the sprint
+
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 7 - 5/15/2024 - 5/28/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 8 - 5/29/2024 - 6/11/2024 CURRENT SPRINT
+
+#### SPRINT GOALS
+- **GOAL: Support Production**
+    - **Sub Goal: Move to New AWS Instance**
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Add Medication Review Content to Appointment Information**
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
+    - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+    - **Sub Goal: Analyze current metrics to see what they tell us**    
+
+#### PLANNED RELEASES 
+- NONE
+
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - ✔️ ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79883)
+    - ✔️ ❗🟨 [Rotate AWS Keys - May 30, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76343)
+    - ✔️ ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)    
+    - **Sub Goal: Move to New AWS Instance**
+      - 🚧 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
+      - 🚧 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
+      - ✔️ 🟨 [[DevOps] Add account tag to `checkin-devops` for `vaec-cie`.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84164)
+      - ✔️ 🟨 [[DevOps] Add Account tag to `chip` resources for `vaec-cms`.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84331)
+      - ✔️ 🟨 [[DevOps] Create Datadog Log Forwarder in `checkin-devops`](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84414)
+      - ✔️ 🟨 [[DevOps] Discovery on network configurations in `vaec-cms` AWS account](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77662)
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Add Medication Review Content to Appointment Information**
+        - ✔️ 🟩 [Changes to pre-check-in confirmation pages when demos don't need to be reviewed ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83890)
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
+        - ✔️ 🟥 [Update OH Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
+        - ✔️ 🟥 [Update OH Travel Service Blueprints for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83734)
+        - ~🟩 [SPIKE: Update OH Travel Application for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)~
+          - Removed from sprint because need to wait for UX wireframes
+        - ✔️ 🟩 [[FE] - Re-factor OH travel app to be not grouped by facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84508)
+    - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
+        - ✔️ 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
+        - ✔️ 🟥 [Update eCheck-in Service Blueprints for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83729)
+        - ✔️ 🟩 [Update eCheck-in Application for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83664)
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - ✔️ **NOTE: Once we are done with the new landing page minus the upcoming appointments, we need to schedule a demo for Kay/Kristen/Stephen to see if they want us to release it**
+             - ✔️ **SUB-NOTE: Prior to OCTO review, meet as CIE team to demo and review if release has added value to Veterans, knowing that interdependent features were removed, e.g., upcoming appointments**
+                  - Met with Kristen and then met with CIE team; design is making a quick change, then FE will make a few tickets to implement those changes to mitigate concerns around, 1) losing unintended functionality due to incremental release approach 
+        - ✔️ 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
+        - ✔️ 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
+        - ✔️🟩 [[FE] Accordion heading content change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83769)
+        - ✔️🟩 [[FE] Alert content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83781)
+        - ✔️🟩 [[FE] - Remove chevrons from mixed modality message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83224)
+        - ✔️🟩 [[FE] pre-check-in - Remove your appointment is on [timestamp] on confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83222)
+        - ✔️🟩 [[FE] Pilot rollout for new landing page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81831)
+    - **Sub Goal: Analyze current metrics to see what they tell us**
+        - ✔️ 🟥 [Research] Analyze GA Metrics
+        - ✔️ 🟪 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
+        - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)
+ - **GOAL: Address tech debt and bugs**
+   - ✔️ 🟩 [[FE] - switch to new minimal header](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/84342)
+
+
+
+______________________________________________________________________________________________________________________________________________________
+
+## SPRINT 7 - 5/15/2024 - 5/28/2024  
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
@@ -61,47 +339,57 @@ ________________________________________________________________________________
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
-- Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)
-- eCheck-in: Handle 2 Modalities (in-person, CVT)
+- NONE
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
-    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
+    - ✔️ ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79882)
+    - Added after sprint planning
+        - ✔️ ❗🟥 [Create Content for BTSSS API Timeout Workaround ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83210)        
+        - ✔️ ❗🟦 [Implement New SMS Message when BTSSS API Timesout ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83466)
+    - ~❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)~
     - **Sub Goal: Move to New AWS Instance**
-        - ❗ TBD
+        - ⛔ ~🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)~
+        - 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
+        - ✔️ 🟨 [[DevOps] Eric Oliver's Magical PAS Mystery Tour ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82439)
+        - ✔️ 🟨 [[DevOps] Review/provide existing authorization to use Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82615)
+        - ✔️ 🟨 [[DevOps] Nate needs admin access to his GFE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82632)
+        - ✔️ 🟨 [[DevOps] Add SSM Parameters for DevOps Slack Channel webhooks.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83260)
+        - ✔️ 🟨 [[DevOps] Create `vaec-cie` Terraform state backend S3 bucket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83312)
+        - ✔️ 🟨 [[DevOps] Create `vaec-cie` Terraform state backend DynamoDB table.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83314)
+        - ✔️ 🟨 [[DevOps] Look at refactoring checkin-devops Terraform-related GHA workflows.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79867)
+        - ✔️ 🟨 [[DevOps] Create terragrunt-based GHA workflow in checkin-devops.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83467)
+        - ✔️ 🟨 [[DevOps] Create IAM Policy allowing GH role to create IAM Policies.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83570)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
-        - 🟥 [[Research] Create Research Study Report ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
+        - ✔️ 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
+        - 🚧 (Overcommitted) 🟥 [[Research] Create Research Study Report ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
-        - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
-        - 🟪 [[UX] Submit Screenshots to the State Department for Translation QA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63253)    
+        - ✔️ 🟪 [[UX] Submit Screenshots to the State Department for Translation QA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63253)    
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
-        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
-        - 🟦 [[BE] Add configuration to devops repos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68699)
-        - 🟩 [[FE] New Appointment Disclaimer Accordion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
-        - 🟩 [[FE] Display Message when there was an Error Retrieving Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65825)
-        - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 1 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70323)
-        - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 2 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70324)
-        - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 3 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70325)
-        - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)        
-        - 🟦🟩 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
+        - ✔️ 🟩 [[FE] Add Accordions to the Appointments Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
+        - ✔️ 🟩 [[FE] - Pre-check-in content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71266)
+        - ✔️ 🟩 [[FE] - Review current past 15 minutes but still in lorota flow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71786)
+        - ✔️ 🟩 [[FE] Display Message when there was an Error Retrieving Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65825)
+        - ✔️ 🟩 [[FE] - Details check-in button skips flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/82974)
+        - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 1 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70323)
+        - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 2 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70324)
+        - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 3 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70325)
+        - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)
+        - ✔️ 🟩 [[FE][bug] - Setting and getting pre-check-in complete is broke for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83223)
     - **Sub Goal: Analyze current metrics to see what they tell us**
-        - 🟥 [Research] Analyze GA Metrics
-        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80224)
-        - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
-            - Is it too soon to do this?
+        - ✔️ 🟥 [Research] Analyze GA Metrics
+        - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80224)
+        - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
 - **GOAL: Address Tech Debt**    
-    - **Sub Goal: DevOps Improvements**
-        - TBD
-</details>
-
+    - ✔️ 🟩 [Review & Update our Production Support & Incident Response Documentation ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82430)
+    - ✔️ 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
+    - ✔️ 🟥 [[Design] Replace appt detail card components in Production Figma file ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83002)
+    
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 6 - 5/1/2024 - 5/14/2024   CURRENT SPRINT
+## SPRINT 6 - 5/1/2024 - 5/14/2024   
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
@@ -117,35 +405,40 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
-    - ❗🟨 [[DevOps] Validate staging BTSSS calls work as expected with and without fwdproxy integration. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81640)
+    - ✔️ ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
+    - ✔️ ❗🟨 [[DevOps] Validate staging BTSSS calls work as expected with and without fwdproxy integration. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81640)
     - **Sub Goal: Move to New AWS Instance**
-        - 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
-        - 🟨 [[DevOps] Plan rewrite of CHIP IaC as Terraform](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79797)
+        - ⛔ 🚧 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
+        - ✔️  🟨 [[DevOps] Plan rewrite of CHIP IaC as Terraform](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79797)
+        - ✔️ 🟨 [[DevOps] Request CMS-service-account-3 be deleted from vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82001)
+        - ✔️ 🟨 [[BE] Update BTSSS endpoint to use fwdproxy in prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73257)
+        - ✔️ 🟨 [[DevOps] Determine and document key personnel for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82616)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81792)
+        - ✔️ 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81792)
 - **GOAL: Increase PCI Usability**    
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
-        - 🟦 [[BE] Appointments Controller: merge facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81882)
-        - 🟦 [[BE] Implement get_clinic method in facility service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81881)
-        - 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
-        - 🟩 [[FE] DS v3 #5: Update buttons for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73122)
-        - 🟩 [[FE] Add Refresh Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70720)
-        - 🟩 [[FE] Display Message when there are no Appointments that were found in MAP for the Veteran ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67257)
-        - 🟩 [[FE] Pre-Check-in - No Longer Available Page: Update Content & Accordion Behavior ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62123)
-        - 🟩 [[FE] Update Appointment List to New Day-of-Week Order ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69903)
-        - 🟩 [[FE] Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
-        - 🟩 [[FE] Show Information for a Cancelled Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
+        - ✔️ 🟥 [Audit and Update the Figma Files for Priority 1 (New Landing Page w/ Upcoming Appointments) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82358)
+        - ~🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)~
+        - ✔️ 🟦 [[BE] Appointments Controller: merge facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81882)
+        - ✔️ 🟦 [[BE] Implement get_clinic method in facility service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81881)
+        - ✔️ 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
+        - ✔️ 🟩 [[FE] DS v3 #5: Update buttons for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73122)
+        - ✔️ 🟩 [[FE] Add Refresh Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70720)
+        - ✔️ 🟩 [[FE] Display Message when there are no Appointments that were found in MAP for the Veteran ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67257)
+        - ✔️ 🟩 [[FE] Pre-Check-in - No Longer Available Page: Update Content & Accordion Behavior ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62123)
+        - ✔️ 🟩 [[FE] Update Appointment List to New Day-of-Week Order ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69903)
+        - ✔️ 🟩 [[FE] Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
+        - ✔️ 🟩 [[FE] Show Information for a Cancelled Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
     - **Sub Goal: Analyze current metrics to see what they tell us**
-        - 🟥 [Research] Analyze GA Metrics
-        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
-        - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
+        - ✔️ 🟥 [Research] Analyze GA Metrics
+        - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
+        - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
+    - **Sub Goal: Add New Translated Content**
+        - ✔️ 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
 - **GOAL: Address Tech Debt**
-    - 🟩 [Details Page: Don't Show Labels when Data is Not Available ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81541)
-    - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
-    - 🟥 [[Design] Replace appt detail card components in Production Figma file ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81795)
+    - ✔️ 🟩 [Details Page: Don't Show Labels when Data is Not Available ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81541)
+    - ✔️ 🟥 [[Design] Replace appt detail card components in Production Figma file ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81795)
 
 ______________________________________________________________________________________________________________________________________________________
 
@@ -205,8 +498,8 @@ ________________________________________________________________________________
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - ✔️ 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)
         - ✔️ 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
-        - 🚧 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
-        - 🚧 🟦 [[BE] Implement Response class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68697)
+        - ✔️ 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
+        - ✔️ 🟦 [[BE] Implement Response class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68697)
         - Removed from sprint
             - ~🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)~ 
     - **Sub Goal: Analyze current metrics to see what they tell us**

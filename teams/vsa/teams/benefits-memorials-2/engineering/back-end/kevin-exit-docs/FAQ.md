@@ -1,0 +1,8 @@
+- What are the relevant repos for this team?
+	- [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
+	- [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
+	- [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata/)
+- What code is the Debt Team responsible for in vets-api?
+	- Generally we own everything in [the debts_api module](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/debts_api) but for a complete list of what we're responsible for see the [codeowners file](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/CODEOWNERS)
+- Where do I go if your documentation doesn't answer my question?
+	- Try the [Platform Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/) 

@@ -30,15 +30,15 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [x] Internal Testing and Review
     - [x] Pre-release Testing
     - [x] Review Cases
-    - [ ] Canary
-- [ ] Phase II: Staged Rollout 
-    - [ ] Stage A: 1%
-    - [ ] Stage B: 5%
-    - [ ] Stage C: 10%
-    - [ ] Stage D: 25%
-    - [ ] Stage E: 50%
-    - [ ] Stage F: Go live!
-- [ ] Post-launch questions
+    - [x] Canary
+- [x] Phase II: Staged Rollout 
+    - [x] Stage A: 1%
+    - [x] Stage B: 5%
+    - [x] Stage C: 10%
+    - [x] Stage D: 25%
+    - [x] Stage E: 50%
+    - [x] Stage F: Go live!
+- [x] Post-launch questions
 
 ## Notes
 - Branden Winn is no longer the PM for BRD, contact Joseph Justice if any verification of metrics is needed

@@ -108,8 +108,8 @@ The Sign in Service routes necessary for an API integration are listed below. Ro
    
   | Token Name | Description |
   | --- | --- |
-  | access_token | Used to access authenticated pages on VA.gov, contains no user information |
-  | refresh_token | May contain user information, used to obtain new tokens |
+  | access_token | Used to access authenticated pages on VA.gov |
+  | refresh_token | Used to obtain new tokens |
   
   ![postman_token](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/587bc1fd-5b6c-4d3b-93b9-0efa1d9d32f4)
 

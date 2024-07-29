@@ -40,19 +40,20 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 
 | attribute | data type | description | sample value |
 | --- | --- | --- | --- |
-| `iss` | string | issuer of Service Account assertion, must matched the saved ServiceAccountConfig `access_token_audience` | http://localhost:40001 |
+| `iss` | string | issuer of Service Account assertion, must match the saved ServiceAccountConfig `access_token_audience` | http://localhost:40001 |
 | `sub` | string | email of the user requesting the action | `vets.gov.user+0@gmail.com` |
-| `aud` | string | the SiS token route that is being requested | http://localhost:3000/v0/sign_in/token |
+| `aud` | string/array | the SiS token route that is being requested | http://localhost:3000/v0/sign_in/token, ['http://localhost:3000/v0/sign_in/token'] |
 | `iat` | integer | current time in Unix/Epoch (10 digit) format | 1691702191 |
 | `exp` | integer | assertion should have a 5 minute (300 second) duration | 1691702791 |
-| `scopes` | array | one or more requested scopes, validated against saved ServiceAccountConfig `scopes`| ['http://localhost:3000/sign_in/client_configs'] |
+| `scopes` (optional) | array | one or more requested scopes, validated against saved ServiceAccountConfig `scopes`| ['http://localhost:3000/sign_in/client_configs'] |
 | `service_account_id` | uuid | unique identifier for account connection | 9caf51576cd6fe65b662588584ed97b1 |
-| `jti` | string | a random identifier that can be used by the client to log & audit their Service Account interactions | '2ed8a21d207adf50eb935e32d25a41ff' |
-| `user_attributes` | hash | a hash of user_attributes and their values to be included in the token, validated against saved ServiceAccountConfig `access_token_user_attributes`. | icn, type, credential_id |
+| `jti` (optional) | string | a random identifier that can be used by the client to log & audit their Service Account interactions | 2ed8a21d207adf50eb935e32d25a41ff |
+| `user_attributes` (optional) | hash | a hash of user_attributes and their values to be included in the token, validated against saved ServiceAccountConfig `access_token_user_attributes` array | icn, type, credential_id |
 
 - Create a Service Account assertion payload:
 
   ```ruby
+  # ruby
   current_time = Time.now.to_i
   token = {
     'iss' => 'http://localhost:4000',
@@ -68,17 +69,20 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
   ```
   
 - Use a [JWT encoding program](https://dinochiesa.github.io/jwt/) or your Rails console to create and encode a JWT assertion signed with the private key that matches the saved ServiceAccountConfig's public key.
+- If you are testing locally and your client application has been added to the `vets-api` [development seed file](https://github.com/department-of-veterans-affairs/vets-api/blob/master/db/seeds/development.rb) with the default `spec/fixtures/sign_in/sts_client.crt` public certificate, use the corresponding `spec/fixtures/sign_in/sts_client.pem` to sign the assertion.
 
   ```ruby
-    private_key = OpenSSL::PKey::RSA.new(File.read('private_key.pem'))
+  # ruby
+    private_key = OpenSSL::PKey::RSA.new(File.read('spec/fixtures/sign_in/identity_dashboard_service_account.pem'))
     JWT.encode(token, private_key, 'RS256')
     => "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHrw..."
   ```
 
 - This Assertion JWT will be validated to ensure
+  - The required attributes are present.
   - The JWT is properly signed by the expected Service Account using the ServiceAccountConfig stored public certificates.
-  - The token is not expired.
-  - The requested permissions are appropriate - *all* scopes in the assertion are a subset of the scopes in the saved ServiceAccountConfig.
+  - The token is not expired and was instantiated in the past.
+  - The requested permissions are appropriate - *all* scopes in the assertion are a subset of the scopes in the saved ServiceAccountConfig. If the saved ServiceAccountConfig does not have any scopes saved the `scopes` attribute is not required.
 
 ### Example Request
 
@@ -105,7 +109,9 @@ assertion=eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjQwMDAiLCJzdWIiO
   - `iat`: creation time in epoch
   - `exp`: expiration time in epoch (5 minutes after creation time)
   - `version`: version number
-  - `scope`: array of URL strings for scoped authorization
+  - `scopes`: array of URL strings for scoped authorization
+  - `service_account_id`: uuid of the ServiceAccountConfig tied to the token
+  - `user_attributes`: hash of any user attributes passed in the request
 
 ### Example Response
 
@@ -115,7 +121,7 @@ Content-Type: application/json
 
 {
   "data": {
-    "access_token": "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJ2YS5nb3Ygc2lnbiBpbiIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6NDAwMCIsImp0aSI6Ijk3ZDg2OGE4LTQ4ZjAtNDQ5Yi05ZDUxLTdiNzM0YTI2Y2Y0ZiIsInN1YiI6InZldHMuZ292LnVzZXIrMEBnbWFpbC5jb20iLCJleHAiOjE3MDI0ODkwMjIsImlhdCI6MTcwMjQ4ODcyMiwidmVyc2lvbiI6IlYwIiwic2NvcGVzIjpbImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC92MC9hY2NvdW50X2NvbnRyb2xzL2NyZWRlbnRpYWxfaW5kZXgiXSwic2VydmljZV9hY2NvdW50X2lkIjoiMDFiOGViYWFjNTIxNWY4NDY0MGFkZTc1NmI2NDVmMjgiLCJ1c2VyX2F0dHJpYnV0ZXMiOnsiaWNuIjoiMTAwODU5NjM3OVY4NTk4MzgifX0.dgZGN_G57G8H_-lXRW20kNL-osmmtuIxEFoIRlCvCil0ppDEOjCGKzmapBNddsSpHN1KjiTV1Zf8VGv2OAH_MqBJOk7hWLgd9UN4wjZGhGXJkXLXhxtm5lvGKBZrCvGykHyPjlFllKM-jzaGAZtqqUcd-b-yJF9dShKT0mr-kGpnyexK9TiC0nJoYMaHvBK-j31jS9ySODSGaqsAR4ukcmufhtGXxiAs2ZqFb7k9cygFjk8PALSQrDalQq7NpBvq7uZS-2V2HPS8et-EojPsgdceZ5iCUfUhHz1FT-y1dgJmr7FDrE1_A8_1G1yfAyEqg3CVAlg0FoEcGhjphH8TQA"
+    "access_token": "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJ2YS5nb3Ygc2lnbiBpbiIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6NDAwMCIsImp0aSI6IjJmZTJjYTY4LWQ2MGYtNDA0ZS05NTQ3LTk2NDk0YmQ1ZTU1ZCIsInN1YiI6InZldHMuZ292LnVzZXIrMEBnbWFpbC5jb20iLCJleHAiOjE3MTc1NDQ5NjAsImlhdCI6MTcxNzU0NDY2MCwidmVyc2lvbiI6IlYwIiwic2NvcGVzIjpbImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC92MC9hY2NvdW50X2NvbnRyb2xzL2NyZWRlbnRpYWxfaW5kZXgiXSwic2VydmljZV9hY2NvdW50X2lkIjoiMDFiOGViYWFjNTIxNWY4NDY0MGFkZTc1NmI2NDVmMjgiLCJ1c2VyX2F0dHJpYnV0ZXMiOnsiaWNuIjoiMTAxMjY2NzEyMlYwMTkzNDkifX0.Tbn-tq4qvOZ8WOZlg2cdi9yD1h3OEs_z5by7nYhcwJYqw-5DBgAMoL502YBDkMgmOaBQjzoTg5_rSo7LANZPEwhATLzR6Mmm4Ac9s4_xI5fy6mEqQ0oVcHqRQHyQA_7z8QrCFeMugxg02vlKmTp5zoKh-3NIz5SPb_Gg4Rr_s83tBtggcgvP1Z340OzV_5dwcOdFnOqnYokBgfq1Evzy6n5v-qi2I1ijpfQN1khVq0Ltl3r51J-ktDH_8MwznZGDU-LeBUGqoqq3vOAFpPVhlzCSArOLlpLMorucxhzAKeSUp-x-tZ_lVR5sfLAXTvoE04UvxrZ-J72hbLBS2RXetQ"
   }
 }
 ```
@@ -137,6 +143,8 @@ Content-Type: application/json
 | ----- | ---- | ---- | ---- |
 | `grant_type` | `urn:ietf:params:oauth:grant-type:jwt-bearer` | 400 | `Grant Type is not valid` |
 | JWT signature | ServiceAccountConfig `certificates` | 400 | `Assertion body does not match signature` |
+| JWT `iat` | presence, Current Time | 400 | `Assertion issuance timestamp is not valid` |
+| JWT `exp` | presence | 400 | `Assertion expiration timestamp is not valid` |
 | JWT `exp` | Current Time | 400 | `Assertion has expired` |
 | JWT encoding | ruby `JWT.decode` | 400 | `Assertion is malformed` |
 | JWT `service_account_id` | ServiceAccountConfig `service_account_id` | 400 | `Service account config not found` |
@@ -144,6 +152,7 @@ Content-Type: application/json
 | JWT `aud` | `<SiS-environment>/sign_in/token` | 400 | `Assertion audience is not valid` |
 | JWT `scopes` | ServiceAccountConfig `scopes` (must include all asserted) | 400 | `Assertion scopes are not valid` |
 | JWT `user_attributes` | ServiceAccountConfig `access_token_user_attributes` | 400 | `Assertion user attributes are not valid` |
+| JWT `sub` | presence | 400 | `Assertion subject is not valid` |
 
 ## Service Account Access Token Validation
 

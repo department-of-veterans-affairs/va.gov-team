@@ -11,7 +11,7 @@ The IIR team stepped in to assist in Q1 2024. After conducting research with SCO
 ### Background
 [Initiative Brief / Kick off](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/initiative%20brief.md)
 
-— 
+[2019 Page Creation History/Research Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/40c24acff87d57b9867eb5faf6f8015a272a4895/products/office-administration/vba/sco-migration) 
 
 ### Focus Groups
 The initial phase of our research involved convening a focus group with SCOs to gather insights on their current experiences. During this session, we presented mockups of the redesign to assess their preferences and solicit feedback.

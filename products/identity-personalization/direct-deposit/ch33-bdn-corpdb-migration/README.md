@@ -28,6 +28,9 @@
 |Sarah Haddock|VBA VACO|
 |Steve Wayland|VBA VACO|
 |John Dell|BIS (formerly BGS) technical contact|
+|Jinmay Patel|BIS|
+|Mary Slaveck|BIS|
+|Cory Easley|BIS|
 |Janey Coutinho| Lighthouse|
 |Andrew Ramos|LightHouse|
 |Lori Glover|LightHouse|
@@ -38,7 +41,11 @@
 |Lindsey Slaughter| VBA Comms|
 
 ## Overview 
-Chapter 33 (Ch33) education benefits are paid to veterans using a system called BDN. BDN is a legacy system that is gradually being retired and various benefits are migrating to newer payment/management systems. VBA is starting with the largest EDU portfolio, Ch33 and migrating payment processing from BDN to CorpDB where payments will run through eMPWR. In this new system, there can only be ONE set of payment instructions. As an example, Comp&Pen (C&P) benefits have already been migrated to CorpDB.
+Chapter 33 (Ch33) refers to the [part of the Post-9/11 GI Bill that helps Veterans pay for school or job training](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/). The Department of Veterans Affairs (VA) determines a person’s eligibility for VA Education Benefits based on the military records they have on file for a service member, veteran, or a transferee. 
+
+VA.gov provides guidance on [eligibility](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) and [rates](https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/).
+
+These education benefits are paid to veterans using a system called BDN. BDN is a legacy system that is gradually being retired and various benefits are migrating to newer payment/management systems. VBA is starting with the largest EDU portfolio, Ch33 and migrating payment processing from BDN to CorpDB where payments will run through eMPWR. In this new system, there can only be ONE set of payment instructions. As an example, Comp&Pen (C&P) benefits have already been migrated to CorpDB.
 
 Today, if veterans receive CH33 and C&P benefits, there are two separate payment processes running, one from BDN and the other from CorpDB. This allows veterans to input separate payment information for each benefit. As the VA migrates CH33 to the new system, payment instructions for both types of benefits must be identical.  
 
@@ -209,7 +216,7 @@ Education direct deposit updates went up dramatically from the two hours prior t
 
 This is a rough timeline of how this might work assuming there are no roadblocks and everything goes according to plan. Given Ch33 changes are in flux and CorpDB has had issues migrating as things change we'll update to document when actual changes are taking place. 
 
-
+<details> <summary> Initial Timeline from February 2024 </summary>summary>
 |Week| Anticipated Tasks | Actual/Changes |
 |----|-------|---|
 |Week 1 (Feb 19 -23)| Planning; Discovery||
@@ -222,12 +229,18 @@ This is a rough timeline of how this might work assuming there are no roadblocks
 |Week 8 (Apr 8 - 12)|VA.gov QA; UAT prep|BGS code launched Sunday 4/14|
 |Week 9 (Apr 15 - 20)| Staging review; UAT recruiting; Security review; BDN migrates to CorpDB on April 20th|UAT proposal submitted, turn of EDU section on 4/20|
 |Week 10 (Apr 22 - 26)| BGS code complete date for CI is April 25th|Staging Review 4/23, ~4/26 va.gov to turn off the entire page, BDN migrates to CorpDB 4/27~ The migration didn't go as well as planned and may take another month. As updates trickle in we'll update the timeline. We've updated alerting to direct veterans to call the appropriate hotlines for edu vs regular benefits |
-|Week 11 (Apr 29 - May 3)|On hold waiting for BGS CI|~Running UAT, can only happen post migration, BIS and LH working on an additional indicator, if all goes well we'll launch as soon as we recieve positive results, ideally relaunching the page starting on 5/1 if possible~|
+|Week 11 (Apr 29 - May 3)|On hold waiting for BGS CI|~Running UAT, can only happen post migration, BIS and LH working on an additional indicator, if all goes well we'll launch as soon as we recieve positive results, ideally relaunching the page starting on 5/1 if possible~ **The work has been paused and will progress July 8th** |
 |Week 12 (May 6 - 10)|BGS CI launch May 11th|~BIS to launch additional C&P inidicator in May~|
 |Week 13 (May 13 - 17)|UAT; VA.gov goes to production|~testing needed again for the C&P indicator~|
-|Week 14 (May 20 - 24)| | |
-|Week 15 (May 27 - 31)| | |
-|Week 16 (June 3 - 7)| | |
+
+</details>
+
+### Revised Timeline June 2024
+
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/6c48be6a-a1c8-4e93-9172-541178912948)
+
+
 
 
 ### Proposed collab cycle touchpoints

@@ -26,9 +26,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Raquel Eisele and Megan is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
-
-Today we're going to compare the current version of the performance dashboard with a proposed design.
+Thanks for joining us today! My name is Raquel Eisele and Megan is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. 
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -41,14 +39,12 @@ Before we start, I have a few things that I want to go over with you:
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 - (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
-*Start recording.*
+## Introductions (5 minutes)
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+Before we dive into that we would like to learn a little more about you and your role with the VA. What is your title, and who do you generally interface with?
 
+In your role have you used the Performance Dashboard? Can you share a little about that experience?
 
 ## First Task: Review current dashboard (10 minutes)
 

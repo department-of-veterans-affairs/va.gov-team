@@ -3,7 +3,7 @@ name: Redirect, URL change, or vanity URL request
 about: Submit a request to change a URL and/or implement a redirect for a URL. Also
   for vanity URL requests.
 title: Redirect Request
-labels: sitewide CAIA, Sitewide IA, Public Websites, VA.gov frontend, Redirect request
+labels: sitewide CAIA, Sitewide IA, sitewide, Public Websites, VA.gov frontend, Redirect request
 assignees: jennymayoco, kristinoletmuskat, strelichl, franecross
 
 ---
@@ -25,6 +25,10 @@ assignees: jennymayoco, kristinoletmuskat, strelichl, franecross
 - [ ] We are changing the URL of an existing page (complete redirect section)
 - [ ] We need a custom vanity URL (complete vanity URL section)
 - [ ] We are removing a temporary redirect  (add relevant background and link to original redirect request)
+
+### Do you need Public Websites to implement this redirect?
+- [ ] Yes
+- [ ] No - Please note: Redirect still needs approval from IA and PW will do PR review
 
 ### Implementation date
 When does this request need to be live? **NOTE:** Redirects deploy M-Th. Friday launches should be avoided.

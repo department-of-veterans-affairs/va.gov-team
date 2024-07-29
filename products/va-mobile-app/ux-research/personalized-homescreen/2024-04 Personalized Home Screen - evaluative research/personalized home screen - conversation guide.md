@@ -15,8 +15,8 @@ March 2024
 * Check your [screensharing setup] and share permissions for participants.
 ### When the participant joins:
 Validate the participant uses the VA Health and Benefits app and get permission for observers to join.
-* Thanks so much for joining today. My name is Holly, very nice to meet you.
-  * *If session is with a screenreader user:* Also with me today is our Accessibility Specialist, Brea.
+* Thanks so much for joining today. My name is Holly, very nice to meet you. Also with me today is my note taker, [Name].
+  * *If session is with a screenreader user:* Also with me today is our my note taker and Accessibility Specialist, Brea.
 * Today we're going to talk about the VA mobile app. Our discussion will help the team understand how to improve the app for Veterans in the future. 
 * Before we begin: I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It’s completely fine if you choose to have the session without observers, so let me know what you’d prefer. If it’s ok by you, I’ll have them join. 
 *(If the participant agrees, let observers join with their video on. Each observer should come off mute and introduce themselves, and then go back on mute with video off.)*
@@ -48,7 +48,8 @@ Validate the participant uses the VA Health and Benefits app and get permission 
  * Great, I’m seeing your screen. Now I’m going to help you get the app ready.
 
 ### App Install & log in
- * Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [link to iOS App build]
+ * First thing we want to do is—if you're app user—is to remove the current version from your phone. (help them do that)
+ * Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [link to iOS App build](https://testflight.apple.com/join/65PnVx09)
  * If Testflight is not installed: 
    * Scroll to the first button that says “View in App Store”
    * Tap to Install Testflight
@@ -60,7 +61,7 @@ Validate the participant uses the VA Health and Benefits app and get permission 
    * ***If they can’t download successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes).***
  * Ok, tap Open to open the app.
    * Tap the Next button, then tap Start Testing.
-   * *Participant will be on Sign In screen—confirm that version number at bottom of the screen is #.#.#. If it’s not, try again to get the build installed.* 
+   * *Participant will be on Sign In screen—confirm that version number at bottom of the screen is **2.28.1 (1728)** If it’s not, try again to get the build installed.* 
  * Now I’m going to guide you quickly through the first couple of screens to get you where you need to be for our conversation today. When we get there, we’ll stop and do some warm up questions before using the app.
  * **Log in:** First, we’ll need you to log into the app with the option you prefer (Login.gov, ID.me or My HealtheVet) using your username and password.
    * ***If they can’t log in successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes).***
@@ -89,7 +90,7 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 * For the next part of our conversation, we’re going to use the VA mobile app we just installed. 
 * Go ahead and do what you would do on this screen, and when you get to the screen with the letters “VA” at the top, stop and wait for instructions. 
 ### Task 0: First impressions (5 minutes)
-* Go ahead and explore this first screen.
+* Without touching/tapping anything, please go ahead and explore this first screen.
   * **Non-screenreader user:** You can scroll up and down, but don’t touch anything yet. And please remember to think aloud as you go.
   * **Screenreader user:** You can swipe through, but don’t tap or activate anything that you hear yet. When you’re finished, please let me know and I’ll have you give a brief summary of what you heard. 
 * What stands out to you first on this screen?
@@ -192,8 +193,11 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 
 * Looking over this screen again, do you think this first screen would be helpful to you in your life or not?
   * *If yes:* Can you walk us through a situation in your life right now where you can imagine using it, and explain how this screen would help you?
-  * *If no:* Can you tell us why not? Be as specific as you can, and please be honest. We won’t be offended by any opinions you express. 
-* *If they don’t mention the activity section:* Looking at that Activity section again, is there anything that you think would be helpful to see here in this section that you don’t see now?
+  * *If no:* Can you tell us why not? Be as specific as you can, and please be honest. We won’t be offended by any opinions you express.
+* Is there something that you don't yet use the app to do, but that you think this first screen might help you do in the future?
+* Looking at that Activity section again, You have an open Claim here. What (if anything) do you think would happen in this area if you didn't have an open claim?
+* *If they don’t mention the activity section:* Is there anything that you think would be helpful to see here in this section that you don’t see now?
+
 
 ## Section 4: Thank-You and Closing (5 minutes)
 ### App + Testflight uninstall 
@@ -224,8 +228,8 @@ Thank you so much again, and enjoy the rest of your day!
 
 
 ## Emergency Exit Strategy
-We will be using the ‘out of questions’ exit strategy if an emergency arises:
-Exit strategy: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+We will be using the ‘out of questions’ exit strategy if an emergency arises:  
+**Exit strategy:** We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
 ## Appendix
 [Conversation guide questions mapped to research goals](https://docs.google.com/document/d/1_m6N0dQHscgyzOskgWBEVUyfHEO8nZdHq1TsaE3kE40/edit?pli=1#heading=h.wqx2tuo99scu)

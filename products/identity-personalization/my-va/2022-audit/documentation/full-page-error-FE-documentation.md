@@ -1,13 +1,13 @@
 # My VA Full Page Error Frontend Documentation
-**Last updated:** November 14, 2022
+**Last updated:** June 7, 2024 - replaced links
 
 ## When to show the full page error
 This design should be used when the system fails to connect to the MPI (Master Person Index) so we can't display anything on My VA.
 
 ## UX Specs
 ### Full page error
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B161F007-530B-4927-AD5B-DDF75B54F637)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/AB8722B5-7D20-4E84-AA75-D4BCA9448D37)
+- [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HD7ucNjcgAp8zvxP-1)
+- [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-782&t=HD7ucNjcgAp8zvxP-1)
 
 **Visual specs**
 

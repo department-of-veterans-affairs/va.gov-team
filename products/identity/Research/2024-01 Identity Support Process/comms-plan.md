@@ -12,7 +12,7 @@ Summary of communication and messaging to announce the new Slackbot support proc
         1. Vfs-Backend or FE channels?
         2. Product channel?
 2. This announcement will be made in the next 2 ToT (Dates to be decided)
-3. We will prepare answers for questions we think we’re most likely to be asked.
+3. We will prepare [answers for questions we think we’re most likely to be asked](https://docs.google.com/document/d/1RJR9LIpcYq09QvHiEvpAxG9Hy5TdeTNmk5pKaYW4f98/edit#heading=h.jgbsdsdd4lj5).
 4. We will create [user documentation](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79906) to publish in Github with step-by-step instructions on how to submit a ticket to the Slackbot.
 5. We’ll draft proposed updates for the [Slack canvas](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79921) to provide details about the Slackbot support process and link to our documentation about how to submit a request.
 
@@ -46,7 +46,7 @@ The Identity team manages [user authentication](https://depo-platform-documentat
 - Read our [authentication troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) to resolve common errors.
 - Learn more about our [Sign-in Service (SiS)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service) and how to get started.
 - To get help from our team, [submit a request to our support Slackbot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/Identity-Slackbot-documentation.md) by typing /identity-support.
-- Schedule time to [meet with our team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/office-hours.md) to discuss any questions.
+- Schedule time to [meet with our team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to discuss any questions.
 
 **Our team**
 

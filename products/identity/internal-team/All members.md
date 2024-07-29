@@ -35,7 +35,7 @@ Product Managers are responsible for keeping these directories up-to-date and we
 - Tom Black
 
 ### Product and Program Management
-- Danielle Baranowski - Program Manager
+- Parker Baranowski - Program Manager
 - Mike King - Product Manager
 - Jim Connelly - Product Manager
 - Lisa Lindsey - Delivery Manager
@@ -44,7 +44,6 @@ Product Managers are responsible for keeping these directories up-to-date and we
 
 - Clayton Zook - UX Lead
 - Charlye Tran - UX Designer/Researcher
-- Josh Mantulonis - UX Researcher
 - Megan Driscoll - UX Content Designer
 
 ### Engineering
@@ -67,7 +66,6 @@ Product Managers are responsible for keeping these directories up-to-date and we
 #### DevOps
 - Vid Jovanovic - DevOps Engineer
 - Josh Houston - DevOps Engineer
-- Zac Yellowhorse - DevOps Engineer
 
 
 ## Communications

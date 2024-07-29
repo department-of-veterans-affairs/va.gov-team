@@ -21,9 +21,8 @@ Like this: 10% disability rating
 
 *Notes*  
 Proposed placement: 
-- New H2 under "Abbreviations and acronyms" 
+- New H2 under "Numbers" 
 - Add "on this page" component
-- Percentage info is already in the style guide under numbers
 
 Status:
 - Needs OCTO review

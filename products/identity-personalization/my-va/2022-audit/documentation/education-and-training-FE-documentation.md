@@ -12,9 +12,9 @@ We show this section for every LOA3 user.
 
 ### Learn how to apply for VA education benefits link
 
-![Screen Shot 2022-10-11 at 11 59 26 AM](https://user-images.githubusercontent.com/97965610/195142181-985ca719-71fb-4622-9703-324628943cfa.png)
+<img width="440" alt="Screenshot 2024-05-06 at 6 48 01 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/f9249d90-02d7-470e-a345-f6f58db37dc3">
 
-Use font awesome icon `graduation-cap` for icon
+Use VA-icon `school` for icon (as of 5/2024)
 
 **Show**
 - For all LOA3 users.
@@ -27,12 +27,11 @@ Use font awesome icon `graduation-cap` for icon
 [Learn how to apply for VA education benefits](https://va.gov/education/how-to-apply/)
 
 ---
-
 ### Compare GI Bill benefits by school link
 
-![Screen Shot 2022-11-04 at 1 58 11 PM](https://user-images.githubusercontent.com/97965610/200045566-3944b487-30e8-44fc-832d-e331cfcc1635.png)
+<img width="440" alt="Screenshot 2024-05-06 at 6 48 28 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/bcbe020e-7034-4211-979d-a2f82a7ac73c"> 
 
-Use font awesome icon `clipboard-list` for icon
+Use VA-icon `assignment_turned_in` for icon (as of 5/2024)
 
 **Show**
 - For all LOA3 users.
@@ -48,9 +47,9 @@ Use font awesome icon `clipboard-list` for icon
 
 ### Check your Post-9/11 GI Bill benefits link
 
-![Screenshot 2023-02-02 at 12 50 35 PM](https://user-images.githubusercontent.com/97965610/216402825-7701c922-a4b9-43bb-82f5-dc404003a544.png)
+<img width="440" alt="Screenshot 2024-05-06 at 6 52 28 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/1c3e591c-6d5f-4db6-9fe2-63133ccc62b1">
 
-Use font awesome icon `dollar-sign` for icon
+Use VA-icon `attach_money` for icon (as of 5/2024)
 
 **Show**
 - For all LOA3 users.

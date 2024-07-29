@@ -1,6 +1,6 @@
 # Cookbook Recipe Ideas
 
-- **When to use ARIA**: When to rely on native HTML features and when to lean on ARIA.
+- ~**When to use ARIA**: When to rely on native HTML features and when to lean on ARIA.~
 - ~**How to structure headings**: Describe the ideal state for headings on a page, and how they affect different people with disabilities.~
 - ~**Buttons vs. links**: When to use one vs. the other.~
 - **Accessibility challenges with progressive disclosure**: When can this principle cause problems for screen readers.

@@ -1,5 +1,7 @@
 # External Auth Status Pages
 
+_(Currently on hold, as per VA.gov PO)_
+
 ## Overview
 Create and maintain an external-facing status page for users of VA.gov, including
 

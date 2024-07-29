@@ -1,6 +1,6 @@
 # Contact Information Product Outline
 
-**Last Updated: January 23, 2024**
+**Last Updated: June 13, 2024** frontend documentation link
      
 ## Table of Contents
 
@@ -31,7 +31,7 @@ The contact information section of the VA.gov profile (https://www.va.gov/profil
 The backend for this is powered by VA Profile (formerly Vet360), which is integrated with a handful of systems at the VA. This means that when a user updates their information in the VA.gov profile, it updates it multiple places at the VA so that veterans don't have many disparate addresses on file. Our integration with VA Profile launched in summer 2018.
 
 ### What to know about this feature
-* Contact information currently lives within [the VA.gov profile](http://staging.va.gov/profile/direct-deposit) .
+* Contact information currently lives within [the VA.gov profile](http://staging.va.gov/profile) .
 * This feature allows users to complete the following core tasks:
 	- **Add and edit** their mailing address
 	- **Add, edit, and delete** 
@@ -75,6 +75,9 @@ As a user, I want to be able to:
 
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md)
+
+## Frontend
+[Frontend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/frontend_documentation.md)
 
 ### Services
 - Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/getting-started/va-profile).

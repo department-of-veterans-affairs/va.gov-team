@@ -72,7 +72,8 @@ This is a child ticket of the research ticket [Number Goes Here](link to ticket)
 
 ```[tasklist]
 ### A11y Tasks
-- [ ] **Schedule CAIA a11y:** 
+- [ ] **Schedule CAIA a11y:**
+- [ ] **Share link to [Assistive Tech Pilot Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) with team, if they haven't reviewed it yet**
 - [ ] **Determine date and time for pilot:** 
 - [ ] **Update CAIA A11y Capacity Calendar:** Add invite for pilot, when scheduled
 - [ ] **Review research** [conversation guide](link needed) and provide feedback in comments.

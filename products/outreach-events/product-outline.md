@@ -10,7 +10,7 @@ The VA.gov [Outreach Events calendar](https://www.va.gov/outreach-and-events/eve
   - [Engineering README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/outreach-events/engineering/README.md) 
 
 ## Communications
-* VA PO: David Conlon
+* VA PO: Michelle Middaugh
 * Maintaining team: Sitewide Public Websites
 * DSVA Slack channel: #sitewide-public-websites
 

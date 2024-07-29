@@ -49,7 +49,7 @@ Jump to:
 
 ## Introduction
 
-Performance.gov selected two services of the Department of Veteran's Affairs as part of 38 of the nation’s High Impact Service Providers (HISPs) to raise the standard of government service delivery.
+Performance.gov selected two services of the Department of Veteran's Affairs as part of the nation’s High Impact Service Providers (HISPs) to raise the standard of government service delivery.
 
 HISPs are selected due to the scale and critical nature of their public-facing services. Annually, HISP teams conduct comprehensive assessments of their high-impact services, measure their customer experience maturity, and identify actions to improve service delivery.
 
@@ -64,6 +64,8 @@ It is essential to display uptime, downtime, errors, and other availability info
 
 ### Customer Experience and Trust
 
+There is a growing body of research that suggests a primary driver of trust in government are peoples’ individual experiences with public services. HISPs are increasingly collecting feedback from customers, with a particular focus on post-transaction surveys during customer interactions with priority designated services. 
+
 Transparency regarding website availability is crucial for building trust with VA website users, particularly veterans seeking critical information and services. 
 
 Numerous studies have documented the importance of website responsiveness and minimal downtime for user satisfaction, in addition to the strong correlation between website performance and customer experience. 
@@ -74,11 +76,12 @@ Numerous studies have documented the importance of website responsiveness and mi
 
 - Less than 20% of federal websites use code from the U.S. Web Design System (USWDS), leading to inconsistent user experiences.
 
+- Research by OMB revealed 45% of federal websites are not mobile friendly.
+
 - The [Uptime Institute](https://uptimeinstitute.com/) reports that unplanned downtime can cost businesses millions of dollars per hour. 
 
 While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. 
 Downtime can lead to significant consequences, frustration, and impede veterans from applying for benefits, scheduling appointments, or refilling prescriptions online. 
-Ensuring a consistent availability of services is essential for maintaining a positive user experience.
 
 **A well-designed dashboard displaying real-time availability metrics can address these concerns in several ways**
 
@@ -103,17 +106,28 @@ Ensuring a consistent availability of services is essential for maintaining a po
 
 Federal agencies must adhere to various policies and guidelines related to website performance, accessibility, and data protection.
 
-### [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.gsa.gov/technology/government-it-initiatives/digital-strategy/2020-annual-report)
+### [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.htm) (2018)
 
-- Enacted in December 2018, this act sets website standards for federal agencies.
-- Aimed to modernize and improve the user experience, including accessibility, security, and usability, of government-produced digital products like websites, applications, and online forms.
-- These standards encompass availability, uptime, and responsiveness.
+### [DOI Report on Implementing IDEA](https://www.doi.gov/sites/doi.gov/files/21st-century-idea-implementation-guidance-final-09242021.pdf) (2021) 
+
+- To modernize and improve user experience of government-produced digital products, IDEA sets standards encompassing service availability, responsiveness, accessibility, security, and usability like websites, applications, and online forms.
 - Agencies must adhere to its requirements to ensure citizens can access government services seamlessly, regardless of time or location.
+- GSA uses site-scanning tools to automatically determine whether sites have search capabilities on par with IDEA.
+
+### [Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)    (2023)
+
+- Created to accomplish the standards listed in IDEA.
+- Agencies should routinely analyze websites and digital services for load speed and continually strive to optimize for performance (e.g., high page speeds, low page load times, small load page size).
+   - Agencies are encouraged to use techniques such as minification and image optimization, and eliminate any unnecessary plugins.
+- Agencies should give special consideration to low-bandwidth users whose mobile devices and cellular connectivity are often their only means to interact with the government online.  
+- OMB created “digital experience indicators” as oversight of where agencies are making progress in implementing key elements. 
+- Once the indicators are widely used, OMB will move towards optimization.
 
 ### [OMB Circular A-130: Managing Information as a Strategic Resource](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
 
-- Promotes the strategic importance of information management (updated in 2016).
+- Promotes the strategic importance of information management.
 - Availability is a core aspect of effective information dissemination, and federal websites play a pivotal role in achieving this goal.
+- The August 2023 update to [OMB Circular A-11 Section 280](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf) streamlines survey guidelines and reporting requirements for agencies and further underscores trust in government as the focal measure of the American public’s experience with government. 
 
 ### [Open Data Policy-Managing Information as an Asset (M-13-13)](https://digital.gov/resources/open-data-policy-m-13-13/)
 
@@ -162,7 +176,7 @@ Federal agencies must adhere to various policies and guidelines related to websi
 - Some of the NSF’s core functions are to offer digital services and programs to construct, upgrade, maintain, and operate research facilities in a wide range of scientific and engineering fields. 
 - Efficiency, the adherence to scheduled uptime or downtime, is one of their key indicators monitored daily.
 - The facilities program has a 90% target associated with this measure, which allows for some variance across NSF programs due to unanticipated or external factors, in addition to addressing the needs of some facilities to change or modify instruments, update systems, and operate their many systems. 
-- These differences hilight the importance of setting SL's for each case responsibly and meaningfully. 
+- These differences highlight the importance of setting SLs for each case responsibly and meaningfully. 
 
 ### IRS.gov
 
@@ -473,6 +487,8 @@ Health and Human Services. “202302091300_2022 Retrospective & 2023 Look Ahead_
 IRS.gov. “Direct File.” Welcome to Direct File | Direct File | Internal Revenue Service, 2024, https://directfile.irs.gov/. Accessed 4 April 2024.
 
 Kantrowitz, Mark. “How Do Trust Funds Affect Financial Aid for College?” Saving for College, 24 December 2018, https://www.savingforcollege.com/article/how-do-trust-funds-affect-financial-aid-for-college. Accessed 4 April 2024.
+
+Miller, Jason. "OMB gives agencies a 10-year digital services transformation framework." Federal News Network, 22 September 2023, https://federalnewsnetwork.com/it-modernization/2023/09/omb-gives-agencies-a-10-year-digital-services-transformation-framework/. Accessed 1 May 2024.
 
 Ornstein, Charles. “Here's Why Healthcare.gov Broke Down — ProPublica.” ProPublica, 16 October 2013, https://www.propublica.org/article/heres-why-healthcaregov-broke-down. Accessed 4 April 2024.
 

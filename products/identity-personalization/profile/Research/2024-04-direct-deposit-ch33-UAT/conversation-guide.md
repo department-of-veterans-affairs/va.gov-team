@@ -1,12 +1,14 @@
-# Conversation Guide: Direct deposit payment instruction consolidation UAT, April 2024
+# Conversation Guide: Direct deposit payment instruction consolidation UAT, July 2024
 
 ### Project-specific setup
 
 - Check participant information to see what login credential they reported having (`Login.gov` or `ID.me`).
 
+- **Ensure that all toggles are enabled**
+
 ## Introduction - 1 minute
 
-Thanks for joining me today! My name is Pam. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily.
+Thanks for joining me today! My name is Matt. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily.
 
 The team I work with has made some updates to the backend system that helps run the direct deposit portion of each person’s account profile. I’m meeting with people like yourself to help me test these updates to make sure they are working as expected in the user interface. 
 
@@ -25,13 +27,14 @@ Do you have any questions for me before we begin?
 
 1. My notes indicate that you receive direct deposit payments for:
 	- [ ] just compensation & pension – NOT education benefits 
-	- [ ] just education benefits – NOT compensation & pension
-	- [ ] both education benefits AND compensation & pension
+	- [ ] just education benefits (Chapter 33) – NOT compensation & pension
+	- [ ] both education benefits (Chapter 33) AND compensation & pension
 	 Is that correct? 
 2. I also have in my notes that you use `Login.gov` or `ID.me` to log into VA.gov, is that correct? 
     - If participant has neither a `Login.gov` nor an `ID.me` account, end the session.
-3. We're going to be looking at the direct deposit section of the website together and I'll need you to re-enter your direct deposit info to confirm everything is working as expected . Do you have your bank information handy? _If not, give them some time to get it together_.
-4.  **Additional context for education/comp&pen participants**: Because you have both kinds of benefit payments, I mentioned that our team made backend changes and we want to confirm these changes in the user interface. Just to give a little more context about that, there used to be two places to put in direct deposit payment information, but benefit payments must be the same for both after 4/20.
+3. We're going to be looking at the direct deposit section of the website together and I'll need you to re-enter your direct deposit info to confirm everything is working as expected. Do you have your bank information that you use for direct deposits handy? _If not, give them some time to get it together_.
+4.  **Additional context for education/comp&pen participants**: Because you have both kinds of benefit payments, I mentioned that our team made changes to the systems that manage payments and we want to confirm these in the user interface on the website. Just to give a little more context about that, there used to be two places to put in direct deposit payment information, but benefit payments must be the same for both starting soon.
+
 ## Context – 1 minute
 
 The team I work with has made some updates to the backend system that helps run the direct deposit part of each person’s account profile. 
@@ -40,18 +43,20 @@ I’m meeting with people like yourself to help me test these updates to make su
 
 This will involve trying to make some edits to your bank account information – however, none of the edits we try to make will actually save, so your bank account information will remain the same.
 
+I'm going to ask you in a bit to share your screen. Before I do though, you'll need to sign into your VA.gov account. 
+
 ## Share screen and navigate to VA.gov - 1 minute
 
-For the next step, I'll have you share you screen so we can look at VA.gov together. 
+Please open a browser and go to VA.gov. 
 
-_Once their screen is visible:_ Next, let’s open a browser and go to VA.gov. 
-
-_Once they arrive at VA.gov:_ Go ahead and log in.
+_Once they arrive at VA.gov:_ Go ahead and log in using Id.me or Login.gov.
 
 - [ ] Participant logs in with `Login.gov`  
 - [ ] Participant logs in with `ID.me` 
 
 ## UAT Task #1: Confirm LOA3 account - 2 minutes
+
+For the next step, I'll have you share you screen so we can look at VA.gov together. 
 
 Alright, we’re just going to pause and make sure we’re seeing the right information on the screen (an identity-verified account).
 
@@ -84,7 +89,11 @@ While we’re in read-only mode, can you confirm the following payment informati
 
 _After confirming bank info with participant:_ Next, we’re going to double-check this same information on the back-end of this page. I’d like to direct your attention to a little tool we’ve temporarily added to this page for the purposes of this testing session.
 
-**NOTE TO SELF // NEEDS UPDATING:** `describe what the dev tool widget looks like and what the participant needs to do to make the contents visible.`
+**
+Use flipper feature profile_use_experimental**
+
+`describe what the dev tool widget looks like and what the participant needs to do to make the contents visible.`
+![image](https://github.com/user-attachments/assets/e3ca7bd7-605a-4d1a-a2af-0afe69bba309)
 
 Can you confirm whether the information shown in this little tool matches the information already on the screen? 
 
@@ -128,7 +137,7 @@ This task is similar to the last one, but instead of trying to save an invalid r
 Let’s fill the form out in order:
 - `Checking` as the type of account
 - `25 60 74 974` as the routing number
-- `1234` for the short account number 
+- `123` for the short account number (we need to circle back and change - 4 is actually too short too)
 
 Click `save` and we should see the system prevent us from putting in an account number that is too short.
 

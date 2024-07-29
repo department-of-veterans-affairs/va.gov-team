@@ -1,5 +1,5 @@
 # My VA LOA1 State Frontend Documentation
-Last updated: February 15, 2024 - added Figma links
+Last updated: May 6, 2024 - added VA-icons and updated screenshots
 
 ## When to show the LOA1 state
 This view is applicable to users who have not yet verified their identity (LOA1).
@@ -48,11 +48,11 @@ This one-time process takes about 5-10 minutes.
 
 ### Claims and appeals section
 
-<img width="424" alt="Screenshot 2023-08-28 at 12 48 14 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/c0a81375-9ec5-4d33-b738-9258d00ec9bd">
+<img width="417" alt="Screenshot 2024-05-06 at 6 03 21 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/140ad60e-c8e3-4ce1-bf2c-bcbec7ca7ba2">
 
 **Visual specs**
 
-- Use font awesome icon `file-lines` for icon
+- Use VA-icon `description` for icon (as of 5/24)
 
 **Positioning**
 
@@ -68,11 +68,11 @@ This one-time process takes about 5-10 minutes.
 
 ### Health care section
 
-<img width="427" alt="Screenshot 2023-08-28 at 12 49 18 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/0d1c93c5-fc0b-4e23-b6d0-bc2e419eab5c">
+<img width="418" alt="Screenshot 2024-05-06 at 5 34 19 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/caeb1563-26ae-4b30-80a8-533488333743">
 
 **Visual specs**
 
-- Use font awesome icon `file-medical` for icon
+- Use VA-icon `note_add` for icon (as of 5/24)
 
 **Positioning**
 
@@ -88,11 +88,11 @@ This one-time process takes about 5-10 minutes.
 
 ### Education and training section
 
-<img width="421" alt="Screenshot 2023-08-28 at 12 49 24 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/3e712b8e-3b3e-454b-9f60-92e6d06bd026">
+<img width="525" alt="Screenshot 2024-05-06 at 6 07 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/c305c91a-7ef9-40f0-b27e-a73b9056cdc6">
 
 **Visual specs**
 
-- Use font awesome icon `graduation-cap` for icon
+- Use VA-icon `school` for icon (as of 5/24)
 
 **Positioning**
 
@@ -112,7 +112,6 @@ This one-time process takes about 5-10 minutes.
 - This section has two states: a user has benefit applications in progress to show, and a user does not have any benefit applications in progress to show.
 
 ---
-
 ### If a user does not have any applications in progress to show
 
 - [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=CREOF8xG3jKa75nz-1)
@@ -137,7 +136,7 @@ This section should appear directly below the "Education and training" section.
 - [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A239&mode=design&t=CREOF8xG3jKa75nz-1)
 - [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A905&mode=design&t=CREOF8xG3jKa75nz-1)
 
-<img width="427" alt="Screenshot 2023-08-28 at 12 49 37 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/3083529a-6266-4015-9c52-6348c9b35a67">
+<img width="546" alt="Screenshot 2024-05-06 at 6 30 18 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/c6bfcff9-1cf7-4f3d-885a-7d782aed4360">
 
 **Show card**
 

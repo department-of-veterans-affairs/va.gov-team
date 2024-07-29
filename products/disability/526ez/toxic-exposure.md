@@ -51,7 +51,6 @@ The Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53eu
 
 The Zenhub ticket [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options #77226](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226) shows the content feedback.
 
-Note [the background on this scope decision](#scope-of-content-to-update).
 
 ## Project background
 
@@ -136,6 +135,8 @@ With the yes / no question asking if the Veteran would like to answer questions 
 
 The current approach is to keep "I’m not sure" mainly as a comfort choice for Veterans, "None of the locations" is also a helper for users, to ease discomfort with leaving it blank. 
 They can select I’m not sure as well as locations. If a Veteran selects None of these locations and a location, that will trigger a validation error for them to uncheck either a location or "None of these locations" in order to move forward.
+
+"I'm not sure" has no impact on what gets written to the PDF, per [Check in on Toxic Exposure content feedback 12/22/23](https://dsva.slack.com/docs/T03FECE8V/F068SQT00MC?focus_section_id=temp:C:fcI9c2eb88b6a2d476bb1062672f)
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/bf22e5d2-9556-436b-b0a9-762e5bea9e6e" alt="Screen showing a checkbox group of service locations plus 'None of these locations' and 'I'm not sure'. 'Lebanon' and 'None of these locations' are both checked. There's a displayed error message of 'You selected a location, and 'None of these locations'. You'll need to uncheck one of these options to continue."/>
 

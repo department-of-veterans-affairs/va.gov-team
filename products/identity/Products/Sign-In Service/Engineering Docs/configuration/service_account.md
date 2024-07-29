@@ -72,4 +72,4 @@ SELECT service_account_id, description FROM service_account_configs;
 ## Service Account Assertion & Private Certificates
 
 - Regardless of the source of your Service Account Config, copy the `service_account_id` that you randomly generated or passed in, it will be required in your [Service Account assertion](../auth_flows/service_account.md#service-account-token-request).
-- You will need the private key paired with the certificate you registered; the certificate in the example above & the development seed config is paired with the [SiS test service account private key](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/fixtures/sign_in/sample_service_account.pem).
+- You will need the private key paired with the certificate you registered; the certificate in the example above & the development seed config is paired with the [SiS test service account private key](https://github.com/department-of-veterans-affairs/vets-api/blob/master/spec/fixtures/sign_in/sts_client.pem).

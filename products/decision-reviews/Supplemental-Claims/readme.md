@@ -10,26 +10,24 @@
   
 |Name|Role|Email|
 |----|----|-----|
-|Matthew Self            |Product Owner, Gov't Lead| matthew.self2@va.gov |
+|Amy Lai|Product Owner, Gov't Lead| amy.lai2@va.gov |
 |Julie Strothman|Design Lead, VA| julie.strothman@va.gov|
-|Sade Ragsdale |Product Manager| sade@coforma.io|
+|Shaun Burdick |Engineering Lead and interim Product Manager| shaun.burdick@coforma.io|
 |Eileen Chi| Research & Design |eileen.chi@coforma.io |
+|David Kennedy| Accessibility Lead | david.kennedy@adhocteam.us |
 |Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
-|Eugene Lynch | Engineer| eugene.lynch@coforma.io |
-|Kyle Soskin | BE Engineer | kyle.soskin@adhocteam.us |
-|Rocio de Santiago | FE Engineer | rocio@coforma.io |
-|Josh Kim | A11y lead | josh.kim@adhocteam.us |
+|Derek Fong | BE Engineer | derek.fong@adhocteam.us |
+|Annie Tran|Engineer|annie.tran@coforma.io|
+|Silke Dannemann|Delivery Manager|silke.dannemann@va.gov|
+
 |Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
-|Drew Fisher | Engineer, Lighthouse | drew.fisher@adhocteam.us |
 
 ### VBA Subject Matter Experts  
 
 |Name|Role|Email|
 |----|----|-----|
-|Alejandro Mendiolaflores |Senior Analyst| alejandro.mendiolaflores@va.gov |
-|Jessica Pierce |Assistant Director, Policy| jessica.pierce@va.gov|
-|Melissa Milenkovic| Manual Editor |Melissa.Milenkovic@va.gov |
-|Shireen Lackey| Senior Analyst |shireen.lackey@va.gov |
+|Andrew Gray |Senior Automation Strategist, VBA OBA| andrew.gray@va.gov|
+|Alejandro Mendiolaflores |Senior Analyst, VBA OBA| alejandro.mendiolaflores@va.gov |
 
 ---
 

@@ -111,8 +111,8 @@ The Sign in Service routes necessary for a web/cookie-based integration are list
 
   | Cookie Name | Description |
   | --- | --- |
-  | vagov_access_token | Used to access authenticated pages on VA.gov, contains no user information |
-  | vagov_refresh_token | May contain user information, used to obtain new tokens |
+  | vagov_access_token | Used to access authenticated pages on VA.gov |
+  | vagov_refresh_token | Used to obtain new tokens |
   | vagov_anti_csrf_token | Optional feature to preven cross-site request forgery |
   | vagov_info_token | Used by client to determine timeout counters |
 

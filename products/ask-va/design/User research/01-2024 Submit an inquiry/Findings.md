@@ -239,6 +239,7 @@ And some Veterans suggested concepts that are similar to other VA services, such
 ## Additional insights
 
 - Some people want to choose multiple contact preferences. Some people want text. Other Veterans don't believe the VA will follow it anyways.
+- Veterans understood that they can provide either their Social Security number or their Service number.
 - Most Veterans find entering their mailing address straightforward. For address verification, Veterans usually choose the suggested address.
 - Most Veterans know what to expect after they submit a question.
 - Some people are unsure what to do with their reference number, after submitting a question.
@@ -276,9 +277,9 @@ In our next round of research, we'll focus on testing the end-to-end experience 
 
 ## Appendix
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md)
-- [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Transcripts)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Research%20plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Conversation%20guide.md)
+- [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Transcripts)
 
 ## Tools used for synthesis
 
@@ -293,71 +294,71 @@ In our next round of research, we'll focus on testing the end-to-end experience 
 
 ## Secondary research
 
-All of our research can be found [in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research).
+All of our research can be found [in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research).
 
 ## Who we talked to 
 
 **Recruitment criteria**
 
-We talked to **11 participants.**
+We talked to **8 participants.**
 
 Audience segment:
-* Veterans: 11
+* Veterans: 8
 * Caregivers: 0
 * Family members of a Veteran: 0
 
 Gender:
-* Male: 8
-* Female: 3 
+* Male: 5
+* Female: 3
 
 LGBTQ+:
-* Transgender: 0
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
-* Gay, lesbian, or bisexual: 1
+* Transgender: 1
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
+* Gay, lesbian, or bisexual: 2
 
 Devices used during study: 
-* Desktop: 7
+* Desktop: 4
 * Tablet: 0
-* Smart phone: 4 
-* Assistive Technology: 1
+* Smart phone: 4
+* Assistive Technology: 0
 
 Age:
-* 25-34: 1
-* 35-44: 2
-* 45-54: 0
-* 55-64: 6
-* 65+: 2
+* 25-34: 3
+* 35-44: 0
+* 45-54: 1
+* 55-64: 4
+* 65+: 0
 * Unknown: 0
 
 Education:
-* High school degree or equivalent: 1
-* Some college (no degree): 2
-* Associate's degree, trade certificate or vocational training: 1
-* Bachelor's degree: 4
-* Master's degree: 3
+* High school degree or equivalent: 0
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 1
+* Master's degree: 4
 * Doctorate degree: 0
 * Unknown: 0
 
 Geographic location:
-* Urban: 9
-* Rural: 2
+* Urban: 5
+* Rural: 3
 * Unknown: 0
 
 Race:
-* White: 7
-* Black: 3
-* Hispanic: 1
-* Biracial: 2
+* White: 5
+* Black: 2
+* Hispanic: 0
+* Biracial: 1
 * Asian: 0
 * Native: 1
 
 Disability and Assistive Technology (AT):
-* Cognitive: 5
+* Cognitive: 3
 * AT beginner: 0
 * AT advanced user: 0
 * Desktop screen reader: 0
 * Mobile screen reader: 0
-* Magnification/Zoom: 1
+* Magnification/Zoom: 0
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
 * Hearing aids: 0
 * Sighted keyboard: 0
@@ -367,10 +368,12 @@ Disability and Assistive Technology (AT):
 
 We have completed the [VA Recruitment Checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726).
 
+We recruited specifically for LGBTQ+ participants, since our last study didn't meet our targets. This study did not recruit for other than honorable, immigrant origin, expat or AT users. In our next study we plan to prioritize Asian and Hispanic participants, as well as Veterans without degrees and with cognitive disabilities. 
+
 This research does not include the perspectives of the following marginalized Veteran groups:
-* AT users
-* LGBTQ+ participants
 * Asian participants
 * Hispanic participants
+* Without degrees
+* With cognitive disabilities
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/02-2024-Research-Equality-Checker.png)
+![VA-recruitment-checker](

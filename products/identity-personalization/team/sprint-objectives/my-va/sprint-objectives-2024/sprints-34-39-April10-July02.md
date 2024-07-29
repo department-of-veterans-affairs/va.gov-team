@@ -11,11 +11,183 @@
 ## Sprint 34 (4/10 - 4/23)
 [#73622](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73622)
 
+### Notifications
+
+#### Dot Indicator
+**Research & Design**
+- Research synthesis
+
+#### Onsite Notifications 
+- NA
+
+### My VA
+
+#### Forms Status
+**PM**
+- Documentation updates
+- Design intent (prep and execution)
+
+**Research & Design**
+- Research strategy/planning
+- Design intent (prep and execution)
+
+**FE**
+- Technical discovery
+
+**BE**
+- Technical discovery
+
+#### Benefit App Drafts Enhancements (SiP)
+**PM**
+- Documentation updates
+
+**Research & Design**
+- NA
+
+**FE**
+- SiP config enhancement - data collection
+
+#### Component Migration/Updates, GA4 migration
+**PM**
+- NA
+
+**Research & Design**
+- Review impact of upcoming design system updates - icons, font sizes, breakpoints
+
+**FE**
+- NA
+
+#### Telemetry, Monitoring & Alerting (TMA)
+**FE**
+- NA
+
+**BE**
+- Next steps coordination for testing improvements
+
+### VA.gov Onboarding
+- Team outreach/coordination
+
+### General
+-  NA
+
 ## Sprint 35 (4/24 - 5/7)
 [#73624](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73624)
 
+### Notifications
+
+#### Dot Indicator
+**Research**
+- Experimental design familiarization
+
+#### Onsite Notifications 
+- NA
+
+### My VA
+
+#### Forms Status
+**PM**
+- Documentation updates
+
+**Research & Design**
+- Research strategy/planning
+
+**FE**
+- Begin FE work if possible (feature flag)
+
+#### Benefit App Drafts Enhancements (SiP)
+**PM**
+- Documentation updates
+- PSIRR prep
+
+**Research & Design**
+- NA
+
+**FE**
+- Implement SiP config enhancement
+
+#### Component Migration/Updates, GA4 migration
+**PM**
+- NA
+
+**Research & Design**
+- documentation updates - CTA links and icons
+
+**FE**
+- GA reports documentation for analytics team
+
+#### Telemetry, Monitoring & Alerting (TMA)
+**FE**
+- NA
+
+**BE**
+- data dog familiarization
+- endpoint documentation
+
+### VA.gov Onboarding
+- Team outreach/coordination
+
+### General
+-  NA
+
 ## Sprint 36 (5/8 - 5/21)
 [#73638](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73638)
+
+### Notifications
+
+#### Dot Indicator
+**Research**
+- Present research findings
+- Experimental design submission
+
+#### Onsite Notifications 
+- NA
+
+### My VA
+
+#### Forms Status
+**PM**
+- Documentation updates
+
+**Research & Design**
+- Research strategy/planning
+
+**FE**
+- Begin FE work if possible (feature flag)
+
+#### Benefit App Drafts Enhancements (SiP)
+**PM**
+- Documentation updates
+- PSIRR prep
+
+**Research & Design**
+- NA
+
+**FE**
+- Implement SiP config enhancement
+
+#### Component Migration/Updates, GA4 migration
+**PM**
+- NA
+
+**Research & Design**
+- documentation updates - CTA links and icons
+
+**FE**
+- GA reports documentation for analytics team
+
+#### Telemetry, Monitoring & Alerting (TMA)
+**FE**
+- NA
+
+**BE**
+- data dog familiarization
+- endpoint documentation
+
+### VA.gov Onboarding
+- Team outreach/coordination
+
+### General
+-  NA
 
 ## Sprint 37 (5/22 - 6/4)
 [#73639](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73639)

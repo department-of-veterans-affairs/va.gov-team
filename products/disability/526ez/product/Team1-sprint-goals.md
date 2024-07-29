@@ -1,12 +1,95 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 2
+Period - 07/17/2024 - 07/30/2024
+* **Toxic Exposure**
+  * Validation, testing, and submit for Staging Review
+* **Paper Form Sync**
+  * Begin implementation Claim Certification behind feature flag - stretch goal
+* **Submission Experience**
+  * Synthesize insights from Timely & Truthful research study
 
+## Sprint 1
+Period - 07/03/2024 - 07/16/2024
+* **Toxic Exposure**
+  * Fix validation errors and perform end to end testing for release 1.0, automate polling job for 526 PDF
+* **Paper Form Sync**
+  * Begin implementation Claim Certification behind FF - stretch goal
+* **Submission Experience**
+  * Run user research study for Timely and Truthful Submission
+  * Design Discovery: Claim Record and Tracking (“Veterans need a record of their claim and a way to track it”) - stretch goal
+
+
+## Sprint 34
+Period - 06/19/2024 - 07/02/2024
+### Sprint goals
+
+- **Toxic Exposure**
+    - 2022 form rollout launch prep for staging review, submit migration implementation
+
+- **Paper Form Sync**
+    - Design Kickoff: Sect. IV Col. 4 "Date disabilities began or worsened" to digital
+    - Implement Claim Certification behind FF
+
+- **Submission Experience**
+    - Prepare "Vet has clear expectations of claim status" prototype for pilot session, and research materials for study
+
+## Sprint 33
+Period - 06/05/2024 - 06/18/2024
+### Sprint goals
+
+- **Toxic Exposure**
+    - Complete Hazards
+    - Start preparing staging review artifacts
+
+- **Paper Form Sync**
+    - Midpoint review
+
+- **Submission Experience**
+    - Finalize design for "Give Veteran clear expectation on claim status."
+    - Get engineering feasibility for TTN&T
+        - Prioritize "Give Veteran clear expectation on claim status.", work through feasibility of future iterations as time allows.
+
+## Sprint 32
+Period - 05/22/2024 - 06/04/2024
+### Sprint goals
+
+- **Toxic Exposure**
+    - Complete Herbicides & start Hazards on Front End
+
+- **Paper Form Sync**
+    - Mocks for claim certification/signature component
+
+- **Submission Experience**
+    - Removed from sprint - Ideation & planning for Reducing Veteran Burden and Duplicate Submissions
+    - Timely & Truthful information and tracking planning - feature brief and research plan
+
+## Sprint 31
+Period - 05/08/2024 - 05/21/2024
+### Sprint goals
+
+- **Toxic Exposure**
+    - Veteran can specify Gulf War exposures in their 526 claim (15b). Locations and dates are populated in overflow (for 15e).
+
+- **Paper Form Sync**
+    - 5103 link and claim certification - Implement feedback from collab cycle for any discovered issues.
+
+- **Submission Experience**
+- Complete detailed design for submission experiences that are successful without additional Veteran action:
+    - Review UI and messaging from OCTO products for submit design work #79269
+    - Design mockups for these submission experiences #78183
+
+- Map design options for submission experiences that require Veterans to take further action:
+   - Map solution for failure paths in the submission experience #81418
+   - Understand current state of user experience of an in progress form becoming a submitted claim
+   
 ## Sprint 30
 Period - 04/24/2024 - 05/07/2024
 ### Sprint goals
 
 - **Toxic Exposure**
   - Veteran can establish a claim and insert a Form526 version 2022 PDF with conditions filled out in column 2 and the checkbox for 15A is checked in their file in VBMS
+  - Mockups for how to message Veterans with an in-progress form that new TE fields are available.
   - Stretch goal: conditions validation
 
 - **Paper Form Sync**
@@ -14,7 +97,7 @@ Period - 04/24/2024 - 05/07/2024
 
 - **Submission  & Post-Submission**
   - Map future state success path within our domain
-  - Determine technical feasibility for failure paths - Mike & Evelyn
+  - Start discovery of technical feasibility for failure paths - Mike & Evelyn
 
 ## Sprint 29
 Period - 04/10/2024 - 04/23/2024

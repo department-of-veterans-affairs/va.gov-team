@@ -4,6 +4,15 @@
 
 Reduce time taken in completing the 10-10EZ application and increase the number of overall submissions.
 
+### Figma Links
+| Purpose | Form | Figma Link |
+|-----------------------------------------------------------|-----------------|-----------------| 
+| Veteran information - short form flow | 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=894-62087&t=IpLg1IDdkWSE1NCM-1) |
+| Military service - short form flow | 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=2241-138086&t=IpLg1IDdkWSE1NCM-1) |
+| Insurance information - short form flow unauthenticated | 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3529-98034&t=IpLg1IDdkWSE1NCM-1) |
+| Insurance information - short form flow authenticated | 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=1014-67898&t=IpLg1IDdkWSE1NCM-1) |
+
+
 **Related/Associated product(s)**
 - Product | [10-10EZ  product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
@@ -58,11 +67,9 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 **Key Result 3:** Reduce abandoned applications
 
-*To calculate, check how many people started the application (use the actual number, not the gimongous number) and compare it to how many people left during the Basic info/Household info section (viewers of Basic Information page minus views of Medicaid/Medicare page, then determine %)*
 | KPI / Metric |Baseline: Jan-June 2022 | Post-launch November | Post-launch December |
 | ------------ | ------------------ | ------------------- |------------------- |
 |Applications Abandoned per month |40% (8,638 of 21,605 started)| 38% (6,631 of 17,509 started) | 32% (4,781 of 15,124 started) |
-|Section Abandon compared to total abandoned| 12% (1,061 of 8,638 abandoned) |26% (1,765 of 6,631 abandoned) | 38% (1,835 of 4,781 abandoned) |
 
 ---
 

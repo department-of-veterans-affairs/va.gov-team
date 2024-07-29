@@ -31,7 +31,7 @@ Send these details through one of these channels:
 
 - Send us a message in the [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) channel of the OCTO Slack workspace.
 - Send an email to Mike King at mike.king@oddball.io.
-- Use either the `/client-config` or `/service-config` commands in `#vsp-identity` slack
+- Use the `/identity-support` command in `#vsp-identity` slack and select "Sign-in Service Integration" as your issue type.
 
 Here’s an example use case that illustrates how Sign-in Service can add value to your application. Consider what types of similar use cases your application has related to logging in and accessing information for Veterans.
 

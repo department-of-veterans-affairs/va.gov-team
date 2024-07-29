@@ -20,6 +20,28 @@
         - Do you have any blockers?
     - Discuss who is responsible for reviewing any tickets that need validation and a timeframe for completion
 
+## CIE Team & UX Team Collaboration
+- UX Team will hold a face-to-face feature feasibility discussion prior to the feature being approved by OCTO
+    - Invitees
+        - Involved UX team members
+        - At least 1 FE and 1 BE CIE engineer        
+        - CIE PM & DM
+    - The intent of this discussion is to allow the engineers to raise any concerns or technical risks/impossibilities about the feature before it is presented to OCTO
+- UX Team will hold a face-to-face discussion prior to the feature's wireframes finalization
+   - Invitees
+       - Involved UX team members
+       - All CIE FE & BE engineers 
+       - CIE PM & DM
+    - The intent of this discussion is to allow the engineers & PM to raise any concerns about the UI or functionality before it is finalized     
+- UX Team will hold a face-to-face technical hand-off when the feature is ready to be implemented
+   - Invitees
+        - Involved UX team members
+        - All CIE FE & BE engineers (engineers that will work on it are required, others are optional)
+        - CIE PM & DM
+    - The intent of this discussion is to walk the team through the feature and answer any questions the engineers may have about functionality prior to implementing
+    - Figma files will be locked down and made availabile in the "Waiting for release" section
+    - Any changes that may be necessary after the hand-off will be evaluated by UX & the CIE team and a decision made about whether the changes must be incorporated into the planned release or pushed to a different release
+
 ## Refinement 
 - Team will 
     - Answer & document in the Epic the following questions for each Epic /Ticket

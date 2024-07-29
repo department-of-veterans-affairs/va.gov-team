@@ -348,17 +348,17 @@ The check_in module in vets-api will provide an Appointments resource for a user
           "type": "appointments",
           "attributes": {
             "status": "",
-            "service_type": "",
-            "location_id": "",
+            "serviceType": "",
+            "locationId": "",
             "clinic": "",
             "kind": "clinic",
             "start": "",
             "end": "",
-            "minutes_duration": "",
+            "minutesDuration": "",
             "locationId": "",
-            "service_name": "",
-            "physical_location": "",
-            "friendly_name": "",
+            "serviceName": "",
+            "physicalLocation": "",
+            "friendlyName": "",
             "location": ""
 	  }
         },
@@ -367,17 +367,17 @@ The check_in module in vets-api will provide an Appointments resource for a user
           "type": "appointments",
           "attributes": {
             "status": "",
-            "service_type": "",
-            "location_id": "",
+            "serviceType": "",
+            "locationId": "",
             "clinic": "",
             "kind": "clinic",
             "start": "",
             "end": "",
-            "minutes_duration": "",
+            "minutesDuration": "",
             "locationId": "",
-            "service_name": "",
-            "physical_location": "",
-            "friendly_name": "",
+            "serviceName": "",
+            "physicalLocation": "",
+            "friendlyName": "",
             "location": ""
           }
         }

@@ -88,7 +88,7 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 ## Proposed Solution/Phases
 
-|Phase|Short Description (w/link)|Details|
+|Phase|Outlines |Details|
 |:-:|---|---|
 |1 / MVP|[Read Access for 526EZ Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-mvp.md)|we're in this phase, a readout to veo was presented where we detailed the lack of data quality|
 |2 |[Read Access for Additional Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-additional-read-access.md)||

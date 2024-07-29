@@ -1,5 +1,5 @@
 
-# Product Outline Accredited Rep Facing
+# Product Outline Accredited Representative Portal - Power of Attorney 
 
 ---
 

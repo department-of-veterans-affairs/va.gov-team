@@ -1,4 +1,4 @@
-# How to create an accessible PDF (WIP)
+# How to create an accessible PDF
 Sarah Koomson and Jamie Klenetsky Fay, CAIA 
 `last updated 1/12/24`
 

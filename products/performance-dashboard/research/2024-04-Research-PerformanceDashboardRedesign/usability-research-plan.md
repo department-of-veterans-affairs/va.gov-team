@@ -6,7 +6,7 @@
 - This product is located in the footer and can be accessed by both authenticated and unauthenticated users.
 - This is an iteration on an existing tool. Veterans are not the primary user of this tool.
 
-[Link to product brief](https://docs.google.com/document/d/1ufvprKy4dVO8pGFn-5rhZiXkgrKmJeOV8bSx3242kik/edit#heading=h.zcwdhopz14el).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/product-outline.md).
 
 ### OCTO Priorities 
 
@@ -18,7 +18,6 @@ The Primary persona of this initiative is a leader at the VA who is responsible 
 ## Research Goals	
 - Does the proposed design tell the story our primary persona wants to tell?
 - Does the proposed design show the right data to tell that story?
-- Does the proposed design show the graphs and other data to support that story?
 - Do users prefer the Performance Dashboard as it currently exists, the new Dashboard, or do they have no preference
 
 
@@ -27,9 +26,15 @@ This research will help us know if we have properly identified our primary perso
 
 ### Research questions
 
-- Which aspects of the presented design will help you in your communication. What is detracting from it?
-- Is there additional data that would help you tell that story?
-- Is there data here that should be removed?
+- Does the proposed design tell the story our primary persona wants to tell?
+	- Which aspects of the presented design will help you in your work?
+- Does the proposed design show the right data to tell that story?
+	- Share your thoughts about the graphs and other data (trend and timeframe information) displayed in this prototype?
+	- Would seeing all tools help you? How?
+ 	- What are your thoughts about the insights being shown about the tools? 
+ 	- Do you find any of the information on this page distracting or unimportant?
+  	- Is there information you wish was on this page but isn't? 
+- Do users prefer the Performance Dashboard as it currently exists, the new Dashboard, or do they have no preference
 
 ### Hypothesis
 

@@ -1,85 +1,105 @@
-# Feature Brief: Certificate of Eligibility
+# Product Outline: Certificate of (Loan) Eligibility (COE) (Form 26-1880)
+<!--*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*-->
+
+The online COE form was released in 2023. See this [feature brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/feature-brief-COE-launch.md).
+
+## Overview
+A COE is the first step in getting a VA-backed home loan or Native American Direct Loan. It confirms for the Veteran's lender that they qualify for the VA home loan benefit. The online COE 26-1880 form allows a Veteran to request a COE from the VA.
+
+- [How to request a COE](https://www.va.gov/housing-assistance/home-loans/how-to-request-coe/) 
+- [Online form tool](https://www.va.gov/housing-assistance/home-loans/request-coe-form-26-1880/introduction)
+- [Form flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710194001946/6515464c5bd118903f111a4ec876c8d5ee8766a6?sender=u934f98f179a86c76e6ee9592)
+- [Wireframes (Figma)](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-2024-Updates-MVP?type=design&node-id=174-43726&mode=design)
+- [Data Key Map]()
+- [Prefilling military history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/feature-briefs/Service%20history%20API.md)
 
 ---
-- GitHub Label: COE
-- Slack channel: This feature is currently managed by the decision review team in [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
-- [Design link](https://preview.uxpin.com/65c0623a799c268173fe1a3cb4375f9ce00ad820#/pages/140680778/simulate/sitemap)
-- [Staging link](http://staging.va.gov/housing-assistance/home-loans/request-coe-form-26-1880)
+## Desired User Outcomes
 
-## Executive Summary
-When Veterans want or need assistance getting a home loan, they can request a certificate of eligibility (COE) for a VA loan from the Loan Guarantee Service (LGY). They may do this by asking their lender to apply on their behalf or by applying directly. 
+- The online form flow submits information that can be successfully processed by downstream systems
+- Claims that fail to submit are successfully processed through a backup submission flow
+- Veterans have a positive experience when completing the online form
+- Veterans do not encounter accessibility issues with completing the online form
 
-Veterans that have a "character of service" issue related to their discharge may benefit from applying independently to avoid adjudication challenges prompted by requests sent through lenders.
+## Undesired User Outcomes
+- Online claims experience processing delays
+- Veterans find the form experience confusing, frustrating, or too cumbersome
+- Online claims are lost
 
-## Problem Statement(s)
-- As a Veteran seeking a home loan, I want to quickly determine my eligibility for a VA home loan so I can get financing.
-- As a Veteran with a "character of service" issue related to my discharge, I want to quickly and independently determine my eligibility for a VA home loan without the burden of adjudication that can sometimes be triggered by applying for a COE through a lender. 
+## Desired Business Outcomes
+- Online form submissions can be successfuly processed by downstream systems
 
-## Desired Outcomes
-- As a Veteran, I can apply through a straighforward process that will help me determine if I am eligibile for a VA home loan.
-- As a Veteran applying online, I can easily understand what I need in order to apply, and I'm not at risk of abandoning the form due to confusion or a lack of confidence.
-- As a Veteran with a "character of service" issue related to my discharge, I can apply for a COE independently rather than working solely through a lender to apply for eligibility to get a VA home loan. 
-- As an application processor, I can use the data submitted to review the application and easily make a determination.
-
-## Undesired Outcomes
-- As a Veteran, I do not want to do more work than necessary to find out if I am eligible. 
-- As a Veteran, I do not want to see false positives related to my eligibility status. 
-- As an application processor, I do not want data inconsistencies caused by submissions from VA.gov to interfere with the integrity of the Veteran's determination.
-
-## Audiences Served
-- Veterans seeking a self-service solution to apply for a cerfiticate of eligibility
-
-## Core Bet
-We bet that if Veterans have a simple way of checking their eligibility on their own that they will do so, and that having the ability to check this independently will fulfill their desire to get autonomous access to their benefits. 
-
-## KPIs
-We think these are the signals that indicate whether or not our bet is accurate.
-- Number of conversions from submission to approval
-- Average time to approval
-- Number of Contact Center calls
-- Number of data errors
-
-## Solution Approach
-
-### Now
-- **Automatic eligibility lookup**: VA.gov automatically checks for eligibility of there is enough information on record, and displays to the Veteran that they are eligible when they login. 
-- **Self-service online application**: Veterans that want to check their eligibility without having to go to a lender may apply directly online. 
-- **Document management**: Veterans can login to review the notification letters sent to them. 
-
-### Next
-- **Document management V2**:Veterans will be able to review the documents they've submitted so they don't forget what they previously shared. This is handy for Veterans that may need to submit more information for their application.
-- **REST API Service**: As of early January 2023, The Loan Guarantee Service is planning to build an restful API and migrate away from the current technical approach. When this happens, VA.gov will revisit the current user experience to explore new opportunities.
+## Undesired Business Outcomes
+- Online form submissions generate claim errors that prevent automated processing 
 
 ---
 
-## Go-to-market Strategy
-As of early January 2023, the current Certificate of Eligibility feature on eBenefits is experiencing a major defect, preventing users from applying online. To remedy this, VA.gov will pursue an expedited release schedule to ensure Veterans dont' continue to experience a loss in functionality. If the release is in good shape at 50% we may release to 100% sooner.
+## Measuring Success
 
-- VA.gov will incrementally release the feature on VA.gov, following an expedited cadence due to the defect on eBenefits.
-- eBenefits will post a hard re-direct banner once the feature is released to 100% of users on VA.gov.
-- Link to the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/Test%20and%20Launch/Release%20Plan.md)
+### Key Performance Indicators (KPIs)
+<!--* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+* _What are the most important metrics that track with this product/initiative's success?_
+* _Include links to Domo or Google Analytics Dashboards/Reports_
+* _**Limit 5-6 KPIs per product**__-->
 
-## Target Launch Dates (last updated January 30, 2023)
-- 1/19/2023 - Feature Toggle will be set at 0% - VA.gov will whitelist Veteran volunteers to assist in submitting COE requests.
-- 2/2/2023 - Feature Toggle will be increased to 25% - Will be released to VA.gov without throttling to eBenefits.
-- 2/9/2023 - Feature Toggle will be increased to 50% - Will be released to VA.gov without throttling to eBenefits.
-- 2/16/2023 - Feature Toggle will be increased to 75% - Will be released to VA.gov without throttling to eBenefits.
-- 2/23/2023 - Feature Toggle will be increased to 100% - for all Veterans to have the ability to go through VA.gov.
+| KPI                                              | Category           | Baseline | Goal   |
+|--------------------------------------------------|--------------------|----------|--------|
+| Number of conversions from submission to approval| Service Completion | 100%     | 20%    |
+| Average time to approval                         | Processing         |          |        |
+| Number of Contact Center calls                   | Trust/Satisfaction |          |        |
+| Number of data errors                            | Reliability        |          |        |
+| % of submission failures                         | Form Health        | ?        | <1%    |
+
+
+### Objectives and Key results (OKRs)
+_What are the measurable targets you're aiming for that delivers value for Veterans?_
+
+- Objective: Reduce the amount of time applicants are waiting for benefits.
+  - Key result: % of online claims requiring development
+  - Key result: Average days from online claim submission to receipt of COE
+    
+---
+
+### Initiatives
+*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+
+- [2024 Online 26-1880 Updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/initiative-brief-2004-COE-updates.md)
 
 ---
 
-## Appendix
+## Key Decisions
+- TBD
 
->**Feature transition document is available.**
-> The Certificate of Eligibility feature transition document is on Github [(Link to Github page)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE/coe-transition-design.md)
+---
 
-### Stakeholders (last updated January 30, 2023)
-- VA Product Owner: Matt Self
-- Product manager: Sade Ragsdale
-- Engineer: Robin Garrison
-- Engineer: Eugene Lynch
-- Engineer: Jerek Shoemaker
-- LGY VA Product Owner: Jyssica Sule
-- LGY product manager: Kelli Deinarowicz
-- LGY stakeholder: Heather Sborz
-- LGY stakeholder: Jennifer Tillery
+#### Communications
+
+- GitHub Label: coe, umbrella, non-disability-benefits
+- Slack channel: #benefits-non-disability
+- VA.gov link: [https://www.va.gov/burials-and-memorials/application/530/introduction](https://www.va.gov/housing-assistance/home-loans/request-coe-form-26-1880/introduction)
+- Product Roadmap: [link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697040351744/d0ff11497ce0df685a377f3889f6d27687c0ffb4?sender=u0e8ac1d6d7681bb7e1b80558)
+- Demo video link: n/a
+- Test users: TBD
+- Product repo: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/apply-for-home-loan-COE
+- Teams repo:
+- Zenhub board: Workspace - [Non-Disability experience](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/benefits-non-disability-645913c7d909c20011380ae8/board?labels=burial)
+
+---
+
+## Team
+
+- Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
+- Product Owner: Emily Theis (emily.theis@va.gov)
+- VBA Stakeholders and SMEs: John Blankenship (Directof of LGY), R. Colin Deaso (Assist. Direcctor of LGY), Jennifer Spencer (Program Analyst)
+  
+ #### Non-Disability Experience Team
+- Product manager: Laura Steele
+- Design and Research: Julie Pedke and Fiorella Geedi
+- Engineering: Thomas Blackwell (lead), Dakota Larson, Sean Midgley, Micah Fraizer, Evan Smith, Tyler Fink
+- Delivery: Sarah Ortiz Shields
+
+
+#### Stakeholders
+
+- VBA Stakeholders and SMEs: John Blankenship (Directof of LGY), R. Colin Deaso (Assist. Direcctor of LGY), Jennifer Spencer (Program Analyst)
+- CAIA Team (content review)

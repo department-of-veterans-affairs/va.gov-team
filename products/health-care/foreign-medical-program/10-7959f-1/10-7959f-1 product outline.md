@@ -31,7 +31,6 @@ How might we improve the experience of Veterans living or traveling overseas who
 - Reduce the amount of resubmissions due to missing information or documents
 
 ## Undesired Business Outcomes
-- Veterans are unaware they can fill out the application online
 - The information entered online by Veterans is not successfully submitted to the VA
 - Online forms processing adds confusion and complicates workflows further
 
@@ -51,7 +50,6 @@ How might we improve the experience of Veterans living or traveling overseas who
 
 - Objective: Veterans can easily register for FMP online
   - Key result: Measure number of Veterans who register for FMP online
-  - Key result: Reduce time it takes to fill out registration form
   - Key result: Reduce processing time 
 - Objective: Veterans are updated and informed of statuses
   - Key result: Ensure testing and alert monitoring is in place to catch any errors
@@ -79,18 +77,17 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
   - Interoperability
   - new list and loop pattern
   - no known address/houseless
-  - LOA1
 - **Risks or dependencies**:
   - PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
   - Integration with PEGA is still being developed and need better understanding of how files will be handled with this solution (more details [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md))
 - **Other considerations**:
   - Content migration effort to va.gov and expansion of family member benefits hub - coordinate on timing
-  - VA notify(?) and notifications in general
+  - VA notify and notifications in general
   - handling for mobile app 
 
 --- 
 
-## Launch Strategy
+## Launch Strategy 
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
@@ -100,12 +97,27 @@ Collaboration Cycle
 - [x] Design Intent: 1/29/24
 - [x] [Content, Accessibility and IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74190)
 - [x] Midpoint: 2/29/24
-- [ ] Research 
+- [x] Research 
 - [ ] Contact Center guide
-- [ ] Analytics
-- [ ] Staging 
+- [x] Analytics: [implementation request](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/77616)
+- [ ] Staging
+- [ ] Release plan
 - [ ] Infrastructure, Privacy & Security
+
+### Incident Response info
  
+Rollback & Fix plan (1-3 days to triage and implement fix)
+- In the event of a security vulnerability incident, we will:
+- Immediately - Turn off feature using feature toggle
+- Immediately - Triage incident
+- Day 1 - Assess viable solutions
+- Day 1-3 - Implement solution
+- Day 1-3 - Complete solution testing
+- Day 1 - Implement additional monitoring, if applicable
+- Day 1-3 - Turn on feature using feature toggle (starting with a small percentage)
+- Day 1-30 - Continue to monitor performance
+- Day 1-10 - Proceed with Release Plan
+
 ## Launch Dates
 - *Target Launch Date*
   - tbd
@@ -121,17 +133,17 @@ Collaboration Cycle
 ### Current Status
 - Conversations with stakeholders scheduled through 2/9 completed.
 - Stakeholder interview analysis complete along with prototype creation and research readout.
-- Research into uxpin for usability testing
-  - (Figma has limited capabilities with the license the VA is on, and CodePen requires a heavier lift/coding
+- User interviews complete.
+- Stakeholder research readout 7/3, CoP presentation - 7/8
 
 Key deliverables:
 - design: 
   - [user flows](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-18&mode=design)
   - [wireframes](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-19&mode=design)
   - [service map (WIP)](https://www.figma.com/file/is5cbY5lM3HjTT0GcXhDT7/CHAMPVA-Service-Map-(WIP)?type=whiteboard&node-id=0-1&t=2h13odIsLW9EPMql-0)
-  - [source of truth on github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/content-source-of-truth.md)
 - research: [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md)
 - testing: plan
+- [IA doc](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705521134491/52690602ad9bb3ef8f9cbc82d48bd9698e63e83f?sender=u5b5b283ad7d33e12ab259320) (need to coordinate rollout/update with CAIA)
 
 ### General Questions
 - For stakeholders: What is the current process/flow? Pain points? Which teams are involved?

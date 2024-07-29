@@ -1,8 +1,8 @@
 ---
 name: Check In Experience VSignals Metrics Analysis
 about: Task to analyze VSignals data
-title: "[Research] Analyze VSignals Data"
-labels: HCE-Checkin, research, ux
+title: "Analyze VSignals Data"
+labels: HCE-Checkin, product
 assignees: ''
 
 ---

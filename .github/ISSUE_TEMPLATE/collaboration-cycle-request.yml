@@ -14,7 +14,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before engaging with the Collaboration Cycle, please review the questions below to help Platform determine what level of support and which touchpoints are needed for your work. (Learn more about the [Collaboration Cycle kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html).)
+        Before engaging with the Collaboration Cycle, please review the questions below to help Platform determine what level of support and which touchpoints are needed for your work. (Learn more about the [Collaboration Cycle kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff).)
   - type: markdown
     attributes:
       value: |
@@ -90,7 +90,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) page on Platform Website for detailed information and examples regarding these questions (below).
+        Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff) page on Platform Website for detailed information and examples regarding these questions (below).
   - type: dropdown
     id: visible-changes
     attributes:

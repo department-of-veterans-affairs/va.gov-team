@@ -12,13 +12,19 @@ The VA Flagship mobile app team believes that bringing personalized content to t
 See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) 
 
 ## Project Objectives & Goals 
-#### [Flagship Mobile App Strategy](https://docs.google.com/presentation/d/1j0rO2HvDwHDTzunG3judC1HXOiWfGNTXVciLAkurpRw/edit#slide=id.g1e78b87c057_0_159)
-- **Vision:** "Each Veteran is connected to the VA services that matter most to them, regardless of device, and without understanding the VA org chart.”
-- **Objective 1:** Veterans will use authenticated services that are highly personalized and valuable.
-- **Objective 3:** Increase active user base. 
 
-#### [OCTO Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme)
-- **Goal 6:** Logged-in users have a personalized experience, with relevant and time-saving features.
+#### [Flagship Mobile App Strategy 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MobileOKRs2024.md)
+
+* **Mission:** “Empower Veterans by providing fast, easy, and personalized access to the most popular VA health and benefits services.”
+* **Objective 1:** Improve Veteran retention at the 30, 60, and 90 day marks by 10%
+* **Objective 2:** Increase the number of tasks completed and their success rate
+* **Objective 3:** Improve Veteran Satisfaction.
+
+
+#### [OCTO Priorities 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md)
+
+
+* **Objective 1:** Our digital experiences are the best way to access VA health care and benefits.
 
 #### Veteran Journey
 Since Veterans can download the VA Health and Benefits mobile app any time after establishing benefits with VA, this work impacts the Veteran journey from Starting Up and beyond.
@@ -28,6 +34,7 @@ Since Veterans can download the VA Health and Benefits mobile app any time after
 We have not previously conducted concept or usability research focusing on the VA mobile app’s home screen.
 - [Desk research & discovery exploring personalization broadly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2023) was conducted several times from 2021-2023. 
 - [VA mobile app user retention discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) (the study that uncovered the problem the personalized home screen is attempting to solve) was conducted in 2023.
+- [VA mobile app - Post-Launch Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022) (the study includes exploring the value of the app to Veterans) was conducted in August 2022.
 
 ## Research Goals	
 Fulfills issue [#2160 ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2160)
@@ -98,10 +105,18 @@ Remote sessions via Zoom
 
 
 #### Research materials
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md)
-* Pre-release build of the VA mobile app [INTERIM LINK](https://testflight.apple.com/join/65PnVx09), NOT FOR STUDY, distributed via Testflight link
-* [Research session sign up sheet](https://docs.google.com/spreadsheets/d/1xdPYQwgvFWCoo0gOtNta8MsB_PyZ1Mxzp9GiQ4OZKbQ/edit#gid=0)
-	
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md)
+* Pre-release build of the VA mobile app, distributed via Testflight: [link to iOS App build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#:~:text=link%20to%20iOS%20App%20build)
+* [Research session sign up sheet (DSVA Slack - Canvas)](https://dsva.slack.com/docs/T03FECE8V/F074PC9849F)
+
+<img width="250" alt="VA mobile app - Personalized home screen - loading" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/45246038/3bb18541-1700-4960-8b0c-cb8ca3777c7f">  
+<img width="250" alt="VA mobile app - Personalized home screen " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/45246038/bf87ce0e-4cf8-4542-8d36-cf9895cc7c62">
+<img width="250" alt="VA mobile app - Claims category screen" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/45246038/9ed4d6ca-9c12-46e1-818d-51160f8e3552">
+
+
+
+Screenshots from [the Figma file](https://www.figma.com/proto/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?page-id=2176%3A1167&node-id=2306-7638&viewport=667%2C674%2C0.49&t=R7YetqFFK8lWiwRp-1&scaling=min-zoom&starting-point-node-id=2306%3A7638&show-proto-sidebar=1)
+ 
 ## Recruitment	
 
 ### Recruitment approach
@@ -119,7 +134,7 @@ Recruit 18 Veterans for a minimum of 10 successfully completed sessions.
 * At least 9 participants should be active monthly users of the VA Health and Benefits mobile app.
   * An active monthly user is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.
     * Please do confirm via phone that the participant uses the VA Health and Benefits Mobile App
-      * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is "#.#.#").
+      * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is “#.#.#“).
 * All participants should have an active VA claim and/or appeal.
 * At least 9 participants should be users of VA health care.
 * At least 9 participants live in a rural area (seeing potential internet connectivity differences are important to the study)
@@ -153,8 +168,9 @@ Response options: yes or no
 - Yes, once a week
 - Yes, two or more times per month
 - Yes, one time per month or less 
-- No, I don’t use the VA Health and Benefits mobile app
-*(Answering d or e would qualify the participant as an 'active monthly user')*
+- No, I don’t use the VA Health and Benefits mobile app  
+
+*(Answering a,b or c would qualify the participant as an 'active monthly user')*
 
 **4. Do you currently have an open disability claim or appeal?**  
 Response options: yes or no  
@@ -178,20 +194,19 @@ Response options, checkbox list with text box:
 ### Prepare
 * **We would like to request a 25 minute kick-off call with Perigean: before recruiting begins.**
 Availability for a kick-off call, in Eastern times:
-  * **If build is ready 5/21:**
-    * Tue, May 21 anytime between 10am-6pm EST
-    * Wed, May 22 anytime between 10am-6pm EST
+    * Mon, May 13 anytime between 10am-6pm EST
+    * Tue, May 14 anytime between 10am-530pm EST
 
-**We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **TBD/April**).  
-- Screenreader pre-pilot participant email: **[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)**
-- Date and time of screenreader pilot session: **Week of March 18**
+**We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **May 13**).  
+- Pre-pilot participant (Screenreader & non-screenreader) email: **[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)**
+- Date and time of pre-pilot session: **Week of March 18**
 
-- Non-screenreader pilot participant email: **TBD**  
-- Date and time of non-screenreader pilot session: **TBD**  
+- Pilot participant (non-screenreader) email: **[Therese Dickson](mailto:therese.dickson@adhocteam.us)**
+- Date and time of pilot session: **May 23, 3:30-4:30pm**
 
 ### Research sessions
-* Planned dates of research: **TBD** (depends on readiness of build from ENG)  
-If release build is ready 5/21: **Week 1: June 3-7, Week 2: June 17-20**  
+* Planned dates of research: **Week 1: May 28-31, Week 2: June 3-7**
+
 
 ### Length of sessions
 * Sessions will be 90 minutes in length for non-screenreader participants, 120 minutes for screenreader participants.
@@ -200,32 +215,32 @@ If release build is ready 5/21: **Week 1: June 3-7, Week 2: June 17-20**
 
 
 ### Availability
-* **If build is ready 5/21:**
-  * Non-screenreader users
-     * Mon 6/3: 10:30am-6pm EST/9:30am-5pm CST 
-     * Tue 6/4: 10:30am-6pm EST/9am-5pm CST
-     * Wed 6/5: 10:30am-6pm EST/9am-5pm CST
-     * Thu 6/6: 10:30am-6pm EST/9:30am-5pm CST
-     * Fri 6/7: 10:30am-6pm EST/9:30am-5pm CST
-     * Mon 6/17: 10am-6pm EST/9am-5pm CST (if needed)
-  * Screenreader users
-     * Tue 6/18: 10am-6pm EST/9am-5pm CST 
-     * Thu 6/20: 10am-6pm EST/9am-5pm CST
-     * Fri 6/21: 10am-6pm EST/9am-5pm CST
+* Non-screenreader users
+   * (Monday is memorial day)
+   * Tue 5/28: 11am-530pm EST/10am-430pm CST
+   * Wed 5/29: 10:30am-6pm EST/9:30am-5pm CST
+   * Thu 5/30: 1230-6pm EST/1130am-5pm CST
+   * Fri 5/31: 10:30am-6pm EST/9:30am-5pm CST
+   * Mon 6/3: 10:30am-6pm EST/9:30am-5pm CST 
+   * Tue 6/4: 10am-530pm EST/9am-430pm CST
+* Screenreader users
+   * Wed 6/5: 12-7pm EST/11am-6pm CST
+   * Thu 6/6: 10:30am-6pm EST/9:30am-5pm CST
+   * Fri 6/7: 10:30am-6pm EST/9:30am-5pm CST
 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: [Holly Collier](mailto:holly.collier@adhocteam.us), 202-246-0333
+- Moderator: [Holly Collier](mailto:holly.collier@adhocteam.us), 202-818-8710 x1059
 - Research guide writing and task development (usually but not always same as moderator):[Holly Collier](mailto:holly.collier@adhocteam.us)	
 - Participant recruiting & screening: Perigean
-- Project point of contact:	[Holly Collier](mailto:holly.collier@adhocteam.us)
-- Participant(s) for pilot test: TBD
+- Project point of contact: [Holly Collier](mailto:holly.collier@adhocteam.us)
+- Participant(s) for pilot test: [Therese Dickson](mailto:therese.dickson@adhocteam.us)
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)
-- Note-takers:	TBD
-- Observers:	TBD
+- Note-takers: see [Research session sign up sheet (DSVA Slack - Canvas)](https://dsva.slack.com/docs/T03FECE8V/F074PC9849F)
+- Observers: see [Research session sign up sheet (DSVA Slack - Canvas)](https://dsva.slack.com/docs/T03FECE8V/F074PC9849F)
 
 ## Analysis & Findings
-* Analysis spreadsheet & session notes
+* [Mural: session notes & analysis](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1715976305728/2ce62b44a890cd76fe3675f9782c3d833a323925?wid=323-1716474556797)
 * VA Mobile App: Personalized Home Screen - Evaluative Research Findings
 	

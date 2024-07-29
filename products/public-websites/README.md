@@ -4,7 +4,7 @@
 April 2022: Public Websites products are currently maintained by the [Sitewide Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/public-websites). 
 (Previously by [VSA Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites).)
 
-VA Product Owner = Dave Conlon (@davidconlon)
+VA Product Owner = Michelle Middaugh 
 
 ### Intake
 If you need help with a product listed below, file a [Public websites intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jilladams%2CFranECross&labels=Public+Websites%2CNeeds+refining&projects=&template=public-websites-intake.yml&title=PW+intake%3A+%3CType+of+Request%3E+from+%3CTeam%3E) and post the link to the team's slack channel, listed below. 
@@ -22,7 +22,7 @@ All requests will be refined and planned according to other team priorities, so 
 [Public Websites Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard?refresh_mode=sliding&from_ts=1698247139212&to_ts=1698250739212&live=true)
 Monitors for each product are described within product folders. e.g. 
 * [Find a Form monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md)
-* [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/engineering)
+* [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md)
 * Header (incl megamenu) and Footer, and
 * [Injected Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md)
 * [VA.gov search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/engineering/monitoring.md)
@@ -44,7 +44,7 @@ Monitors for each product are described within product folders. e.g.
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | . |
 | [VA.gov Homepage](#vagov-homepage) | [Unauthed React healthcare widgets](#unauthed-react-widgets) | . |
-| [Promo Banner](#promo-banner) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) |  .  |
+| [Promo Banner](#promo-banner) | . |  .  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
@@ -100,6 +100,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 </details>
 
 ## Changelog
+* 07/2024: Design System team now owns the Veterans Crisis Line modal as a component: https://dsva.slack.com/archives/C06V7AAFVH7/p1721850350022329?thread_ts=1720203529.734199&cid=C06V7AAFVH7
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
 * 11/2023: [Breadcrumbs](#breadcrumbs) - Transitioned to CMS team as of Q4 2024, as a result of Accelerated Publishing work to manage Breadcrumbs for CMS-related content fully within the CMS
 * 11/2023: [Shadow / dark launches of content](#shadow--dark-launches-of-content) - Transitioned to CMS team for long term ownership. Docs will be removed from this page, TBD a new future home for CMS product docs.
@@ -238,50 +239,26 @@ Events may be single or recurring, and are either:
 
 ## Find a form / VA Forms
 
+[Topic Dive overview of the Forms product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/README.md#71024---find-a-form), end to end
+
+Forms product & engineering documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form
+
 **What is:**
 
 Forms are a critical part of the Veteran experience for applying for benefits & services. A Forms database is managed outside the context of Public Websites team or the Drupal CMS, and is the source of truth for Form data and PDFs. We import data from the Forms DB, and store data about each form as a node.
 
 Forms are then findable from the “[Find a form](https://www.va.gov/find-forms/)” interface – a search / listing of VA Forms results.
 
-We own:
-* the Find a Form interface
-* the Form page interface
-* the data migration that pulls in the Forms DB csv export into the CMS
-* Lighthouse then pulls our CMS data into LH, so we own supporting them if they have trouble
-* the vets-api code that's used to tap Lighthouse (for the data they got from the CMS)
-
-We do not own:
-* The form PDFs themselves. They're hosted on the Forms DB servers.
-* The metadata about forms. That's pulled from the Forms DB
-
-### Forms DB import
-
-The import uses Row ID as the unique identifier to map importing content to Drupal nodes. Some fields in Drupal may be customized from within Drupal after import, visible on each node within “Forms DB data” expander.
-* [VA Forms Content Flow Topic Dive](https://www.youtube.com/watch?v=CuPI8DB7aR0) - describes the import process in more detail
-* [VA Forms - Flagged content dashboard](https://prod.cms.va.gov/admin/content/flagged?type=va_form&workbench_access_section__section=All) - CMS dashboard of imported/updated Forms content, intended to be used for Editors to update / modify after import as necessary. Not recently used.
-
-The Forms DB system has some recurring flaws: 
-* After migration, forms in CMS may receive incorrect metadata (e.g. row ID is not reliable tie to form metadata, unknown cause)
-* Veterans may report that PDF links from a Form node page are broken. PDFs are hosted on a server outside our purview, owned by the Forms DB team.
-* An existing form may be duplicated with a new row ID, as a result of Forms DB deleting / recreating, rather than editing, a Form.
-
 **Example content:**
 * Find a Form: [https://www.va.gov/find-forms/](https://www.va.gov/find-forms/) 
 * Example Form URL: [https://va.gov/find-forms/about-form-10-0388-4](https://va.gov/find-forms/about-form-10-0388-4)   
-* CMS: [https://staging.cms.va.gov/node/6150/edit](https://staging.cms.va.gov/node/6150/edit) 
-  * “Forms DB Data” on a Form node indicates what data has been imported, vs. what can be edited in Drupal
-  * Drupal Admins may update data within “Forms DB Data” on a node, but updates will be overwritten by next migration.
-
-**Governance / Editor guidance:**
-* Primary editors:  Forms managers update Form data outside the context of the CMS, in the “Forms database”. That content is migrated into Drupal and can be finessed in the CMS.
+* CMS VA Form node: [https://staging.cms.va.gov/node/6150/edit](https://staging.cms.va.gov/node/6150/edit)
 
 **More info:**
 * [Forms Product outline & historical docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form)
 * [Triage runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md#troubleshooting) for errors / defects
 * [Engineering information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/engineering) including data diagrams, architecture information
 
-***Q3 2022 project:** to understand more about the Forms DB infrastructure, in an effort to help stabilize / reduce risk of downstream issues: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724) 
 * [VA Forms Library Overview ](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)(Platform docs) - IS NOT RELATED. This pertains, instead, to making usable online forms within VA.gov 
 
 ## Announcement Framework
@@ -745,6 +722,7 @@ Beneficiary travel has its own product team now that should be coordinated with 
 **Governance / Content:**
 
 * [Documentation re: ownership of the health care tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/readme.md)
+* **CERNER TEST USERS**: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md
 * Epic tracking the plan to transition ownership of the CTA React widget from Public Websites to Health Tools teams: department-of-veterans-affairs/va.gov-cms#16547
 * Content is provided by Sitewide Content team
 * Oracle Health cutover information is publicized in DSVA slack: #vagov-oracle-launch-coordination
@@ -778,12 +756,6 @@ The homepage includes links to key traffic areas of the site. These links are re
 * 2022 Top Tasks moderated research/info: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/moderated/research-findings.md)
 * [VFS Product Directory: VA.gov Homepage](https://depo-platform-documentation.scrollhelp.site/getting-started/va-gov-homepage)
 
-
-## Veterans Crisis Line modal
-
-The Veterans Crisis Line is a critical feature of VA.gov. Public Websites supports it via the modal included in the global header. Most defects related to this modal functioning correctly (open, close, clickable CTAs, etc) are urgent priority.
-
-![3](https://user-images.githubusercontent.com/85581471/186541162-283bd768-1af2-420c-b6ae-ac80047500a3.png)
 
 ---
 

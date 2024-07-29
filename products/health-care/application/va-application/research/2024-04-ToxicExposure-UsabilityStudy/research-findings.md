@@ -77,7 +77,7 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 
 <b>2. Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.</b>
 
-<b>3. Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.</b>
+<b>3. Veterans would like to see more customization in the toxic exposure questions based on what VA already knows about them or what they answered previously.</b>
 
 <b>4. There is some confusion with how to identify exposure dates and why VA is asking for them.</b>
 
@@ -119,7 +119,7 @@ Key quotes:
 >P5: "Is Afghanistan part of the Gulf War? I guess when I hear the word Gulf War I think like 1990, 1991. Maybe that's technically called the Persian Gulf War or Operation Desert Storm or Desert Shield. Maybe there was stuff happening in Afghanistan then but it's just unexpected to me. ...Does Gulf War mean both 1990, 1991, and 2003 Gulf War? There's some ambiguity to me."
 
 
-**Finding 3: Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.**
+**Finding 3: Veterans would like to see more customization in the toxic exposure questions based on what VA already knows about them or what they answered previously.**
 
 - 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
 - 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out.
@@ -214,7 +214,7 @@ Key quotes:
   * We should consider providing dates for the Gulf War question because one of our participants wasn't sure what time period that was referring to.
 
  
-* <b>Recommendation 4: Incorporate more branching logic into the form so Veterans are only asked questions that are potentially relevant to them.</b>
+* <b>Recommendation 4: Incorporate more customization into the form so Veterans are only asked questions that are potentially relevant to them.</b>
   * 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
   * 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out.
   * We ask for service history before the TERA questions so there's an opportunity to skip certain questions based on service dates.

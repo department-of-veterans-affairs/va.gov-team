@@ -29,7 +29,7 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 
 - **Need:** Clear content placement criteria based on audiences and content types. This will allow our OCTO team and our partners to align around a shared understanding of where to migrate content in the modernized environment and make faster, more consistent decisions. 
   - **Completed work:** We have established content placement criteria for the benefit hubs vs. resources and support, and a [working process for determining content placement within benefit hubs vs. R&S](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/resources-and-support-author-pilot/process.md)
-  - **In-progress work:** We are working on broader content placement criteria as part of the 6102 work. This is a sitewide crew priority for 2024.
+  - **In-progress work:** We are working on broader content placement criteria in partnership with the web governance board and members across VA. This is a sitewide crew priority for 2024-2025.
 - **Need:** Criteria for prioritization of content for migration. This will help guide us in focusing on the most high-value content first.
   - **Completed work:** Refer to prioritization criteria in the following section of this document.
 - **Need:** A high-level audit and analysis of websites for consideration. This will give us an understanding of all the content that remains to be migrated so that we can apply our criteria for prioritization. [**21st Century IDEA Act Action 2: Identify public-facing websites**]

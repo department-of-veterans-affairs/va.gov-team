@@ -21,12 +21,23 @@ Reference epic/feature above for key decisions
 
 ## Questions
 
+For Tia:
+1. Given the of the wire flow for the Oracle Health integration along with the [figma file](https://www.figma.com/design/XqlvMB7Z6WJNfFYVGxD4O9/OH-MVP-%7C-Appointments-FE-(Copy)?node-id=2548%3A13783&t=qb2iHXaRbLUAW9fk-1). Is there anything in this flow you have questions about or that seem problematic?
+
+
+___
 1. (For Apothesource) What data is returned for the time slot availability? Knowing this will help us to understand if a filter or sorting option would be helpful and what we might be able to sort and filter by. 
 > **Brad C 4/30:** Right now VPG (and vaos-service) only return the slot ID, start time, and end time. We could also return the VHA facility ID of the slot location (Slot location: Is a VHA facility ID, like 757GC. VETSAPI can then resolve that against MFS/LH to get the facility name ("Marion VA Clinic") and address.) as well the provider name if the slot schedule has an assigned provider.
 Looking forward to the future provider based scheduling use cases, we are planning to also provide an endpoint to return the patient's provider relationships as well (each relationship will have a designated facility and type of care). That would give you some options:
 > 1. query the API for open "type of care" slots at "location ID", and then optionally sort/filter by provider in the UI
 > 2. query the API for open "type of care" slots at "location ID" for "provider ID"
 2. (For Apothesource) We would like to display a list of resoureces/providers the Veteran previously scheduled using their past appointment data so that they can schedule with that provider again and go straigt to selecting a time versus having to select appointment type, and location. Can we display resources/ providers that were previously booked? 
+> **Brad C 4/30:** Absolutely. This is the "patient relationship" endpoint we are planning to build that I mentioned above. In napkin/crayon-level details, the intent is to implement something like this:
+request: GET /patient/relationships
+response:
+> 1. provider=Dr House, location=757, type of care=primaryCare
+> 2. provider=Dr Cuddy, location=757GC, type of care=audiology
+> Knowing the appointment/encounter data, this does raise a questions: should we return a relationship for an appointment/encounter if we don't have a VAOS type of care mapping (e.g., a past acupuncture appt/encounter)?
 3. (For Apothesource) Is there data that shows if a resource is part of the patient's PACT team?
 > **Brad C 4/30:** No. Once we have the OH CareTeam blocker resolved we'll be able to retrieve/expose the patient PACTs (in theory there may be different PACTs for different types of care though we only use PC PACTs today). Once all of this is complete you could conceivably cross-reference the slot practitioner with the PACTs for that location to know if the practitioner is in one of the patient's PACTs.
 4. (For the business/ Kay) Is PID required?
@@ -61,7 +72,73 @@ In regards to our CES call today about Community Care appointments in Oracle Hea
 </details>
 
 ### Oracle Health Integration in Appointments on va.gov transactional features
+<details>
+<summary>May 28, 2024</summary>
+        
+Peter went through the scheduling flow in staging and paused for discussion.
 
+PID Capture:
+
+There is no field in Oracle to capture the PID for patient requested appointments; it can only be captured through an order or referral.
+Capturing the patient indicated date (PID) in VAOS won't transmit to Oracle.
+Discussion on whether to continue capturing PID in the self-scheduling flow, considering it's not used by Oracle.
+Policy and System Alignment with PID:
+Oracle Health does not require capturing PID for patient requested appointments.
+Tia has Logged an NSR to address this issue but it has not been prioritized for funding, making it unlikely to be resolved soon.
+The inability to capture PID impacts the calculation of community care wait times.
+
+Patient Care Locations (PCL):
+
+In Oracle, scheduling is based on PCL (Patient Care Location) or scheduling location, not on clinics.
+Modality-Specific Scheduling: For the initial MVP, focus on face-to-face appointments and later expand to include other modalities.
+Oracle Health determines relationships based on past encounters within the PCL or VA scheduling location.
+The PCL contains information including: Provider name(s), Location, Established vs New patient, Modality, TOC.
+PCL is not standardized across all OH sites but should be. 
+
+New patient, vs Established, vs Any:
+
+Provider-Patient Continuity: We want to make sure established patients can only schedule with providers they have previously seen.
+For patients with an existing relationship with a provider, schedule should be limited to that provider or those providers. For patients without a prior relationship, the scheduling should be open to any provider.
+For new patient appointments, the Veteran should be able to schedule with a preferred gender provider. 
+Kay suggested limiting self-scheduling to established provider relationships at the provider level for the MVP.
+Veterans need to see slots associated with providers they have relationships with. Brad is working on API to return patient-provider relationships.
+
+Location Considerations:
+
+Providers might split time between the main facility and CBOCs.
+There is the potential for patients to be new to a location even if they are not new to the provider.
+Patients living far from a CBOC might not have access to scheduling with providers there.
+If a patient wants to switch locations, they might be treated as a new patient at the new location.
+Brad mentioned current efforts to minimize the distinction between new and established patients. 
+Michael asked about the feasibility of assuming a patient is established across both parent and child facilities. - Tia noted this approach relies on patients choosing the closest facility.
+Tia suggested using a hierarchy (provider > location > encounter) to determine patient status. 
+Follow the 36-month rule for established patients.
+Oracle Health has specific slots for new and established patients, with "any" slots for flexibility.
+
+Time slot discussion:
+
+Current Setup: Slots are designated for new and established patients.
+Oracle Health Issue: We avoid placing new patients in 30-minute slots meant for established patients and vice versa.
+Any Slot Type: Encouraged for flexibility, allowing any patient type (new or established) to schedule appointments, except for group appointments.
+In OH scheduling, durations can be adjusted based on patient type. Any slots are often long and divided based on clinic setup.
+We will need to explore setting both slot reference and duration fields in the API to manage time slot duration. 
+
+Expectations for MVP
+
+Primary care: will not be included in MVP until the PACT care team data problem is fixed. Once the problem is fixed we'll be able to search specifically for the slots associated with that provider.
+In-person only: Focus on face-to-face appointments and later expand to include other modalities.
+Established only: Restrict self-scheduling to patients' established providers.
+
+Follow-up Questions:
+
+Continuity of care: HMW make sure established patients can only schedule with providers they have previously seen?
+What about if the patient cares more about just seeing anyone and less about seeing the same provider? Are there care types where this is or is not allowed? 
+For example, when talking to clinics on-site in Columbus the MSA manager explained that if a patient want to switch their PCP, they have to do so by talking to the patient advocate and then they will place them with a new PCP. 
+Are we planning to have New Patient Scheduling?
+Will we allow new patients to schedule with any provider in direct schedule clinics? Which TOC? MVP or future state?
+
+
+</details>        
 <details>
 <summary>February 26, 2024</summary>
 
@@ -166,6 +243,7 @@ Patient friendly names:
 - [Cerner Millennium Patient Self-Referral Direct Scheduling SOP - update_05302023- Signed.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14843268/Cerner.Millennium.Patient.Self-Referral.Direct.Scheduling.SOP.-.update_05302023-.Signed.pdf)
 - [FE logic for Choose a location page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/scheduling-improvements/FE-logic-find-a-location-page.md)
 - [OH Cancelation rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-oracle-health-integration/engineering/cancellation-rules.md)
+- [Spike ticket Recency Facility Initiative](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/81136)
   
 
 

@@ -5,6 +5,25 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 7/30/24
+*   Typography Tokens update
+
+## 7/16/24
+*   general updates and Q3 planning
+
+## 7/2/24
+*   Typography token updates
+
+## 6/18/24
+*   Catching up after on-site
+
+## 6/4/24
+*   On-site next week
+
+## 5/22/24
+*   Submitting a PR to add our stuff to VADS documentation
+*   Inviting Matt Dingee to happy hour when on-site?
+
 ## 4/25/24
 *   Design Token strategy
     *   Invite VADS to 1-off Demo/discussion meeting?  Use that to set up a recurring touchpoint with them.

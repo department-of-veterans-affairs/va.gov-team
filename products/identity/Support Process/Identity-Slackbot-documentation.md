@@ -1,6 +1,6 @@
 # Identity support Slackbot
 
-The Identity team manages [user authentication](https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication) for VA.gov and its services and tools. Reach out to our team with questions about building your application, best practices for authentication and security, and support for issues impacting Veterans trying to access your application.
+The OCTO Identity team manages the authentication integration for VA.gov. We help teams set up and monitor a secure signed in experience for VA.gov applications and services.
 
 To get help from the team, use the Slackbot in the [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) channel. You can use the slash command **/docs** to get a link to our [product documentation in Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Or submit a request to the team by following the steps below.
 

@@ -1,6 +1,11 @@
 ---- 
 
-### For community assitance with Zenhub issues, go to [#zenhub-information](https://app.slack.com/client/T03FECE8V/C05BRLN52HJ).
+# We're moving our docs!
+### [Find Request Access to Tools](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools) on the Platform website.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+### For community assistance with Zenhub issues, go to [#zenhub-information](https://dsva.slack.com/archives/CE4304QPK/p1714146847917589)
 
 
 ----

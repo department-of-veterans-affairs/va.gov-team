@@ -2,82 +2,91 @@
 # Product Outline: 10-7959a CHAMPVA Claim Form
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+For Veterans and beneficiaries enrolled in CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), filing a claim online (form 10-7959a) follows the digitization of enrollment (form 10-10d) and Other Health Insurance certification (form 10-7959c).
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Veterans and their beneficiaries need a way to file claims through CHAMPVA quickly and easily, so they can get coverage for the services they need. Currently they are sending these in via mail and fax, which can lead to long processing times.
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+How might we help family members of Veterans get their claims filed and processed quickly and easily?
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans are able to fill out the claim form online on VA.gov
+- Veterans spend less time, effort and money filling out and mailing paperwork
+- Veterans spend less time spent waiting to hear back on the status of their claims
 
 ## Undesired User Outcomes
-
+- Veterans are unaware that they can file claims online
+- Veterans encounter errors during the online filing process
+- Veterans have low confidence in the online process or have concerns around online security
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Undesired Business Outcomes
-
+- Reduce amount of time spent processing paper forms
+- Replace outdated and legacy DAPER system with PEGA for document upload and management
 
 ---
 ## Measuring Success
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+- number of PDF downloads
+- processing time for paper forms
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
+- Objective: Measure number of people filing claims online through CHAMPVA
+  - Key result: Increase number of beneficiaries who file CHAMPVA claims
+  - Key result: Increase number of people who obtain approvals for claims filed 
 
-
+- Objective: Reduce time from submission to notification
+  - Key result: Measure number of application completed in single session
+  - Key result: Reduce processing time for applications
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Families and beneficiaries of Veterans prefer to fill out forms online rather than on paper.
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+Provide CHAMPVA claim form online with PDFs sent to PEGA for processing.
 
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+In scope:
+- Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
+- General flow, patterns and components (v3) follow existing standards in design system as well as accessibility standards
+- Fillable fields with pre fill for signed in users
+- Digital signature with date stamp accepted by CHAMPVA team
+- PDF output of completed form with required meta data and unique identifier sent to PEGA
+- Integration with PEGA for forms and documents
+- Authenticated and unauthenticated experience
+- End to end testing with PEGA
+- Confirmation and tracking/monitoring (to and from PEGA)
+  
+Out of scope:
+- Integration with VES (this will need to be addressed in the future)
+- Checking for eligibility requirements
+- new list and loop pattern
+  
+Risks or dependencies:
+- PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
+- Integration with PEGA is still being developed
 
-- Initiative | [Link to Initiative Brief](#)
+Other considerations:
+- VA notify
+- handling for mobile app
 
 --- 
 
 ## Launch Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - tbd (dependent on PEGA integration timing)
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -89,6 +98,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Current Status
 
+Key Deliverables:
+- [design](https://www.figma.com/file/Tfhq5h2LwXEeEEtFBAAFOv/10-7959a?type=design&node-id=13-80&mode=design&t=YuafvBbuKozoXYFY-0)
+- research
+- testing plan
+
 ### Key Decisions
 
 ---
@@ -96,6 +110,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
+[PDF](https://www.va.gov/vaforms/medical/pdf/vha-10-7959a-fill.pdf)
 
 ### After
 
@@ -105,11 +120,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: IVC Forms team
+- GitHub Label: ivc-forms
+- Slack channel: ivc-forms
+- Product POCs: Mary Wang
+- Stakeholders: Erick Maes
 
 </details>
 
@@ -117,10 +132,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Premal Shah
+ - PM: Mary Wang
+ - Engineering: Michael Clement
+ - Research/Design: Rachael Penfil, Steven Straily, Brian Wilke
  
 </details>
 
@@ -129,7 +144,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
- 
+ - OIT
+ - CHAMPVA
+   
 </details>
 

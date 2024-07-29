@@ -2,7 +2,6 @@
 
 - [How to Collect and Process Feedback](#how-to-collect-and-process-feedback)
 - [How to Submit a Request Ticket](#how-to-submit-a-request-ticket)
-- [How to Analyze the Data](#how-to-analyze-the-data)
 
 ## How to Collect and Process Feedback
 
@@ -10,20 +9,16 @@
 2. The Contact Center will email the Veteran feedback to the address you provided in the request ticket.
 3. Once you get the email, download the feedback spreadsheet to your machine on the VA network. 
 4. Rename the spreadsheet in the following format (this lets us sort all the feedback files by date):
-   `CIE Medallia [YYYY] Q[#] Week[##]` 
-   For example: CIE Medallia 2024 Q1 Week 3
+   `CIE Medallia [YYYY] Q[#] Sprint[##]` 
+   For example: CIE Medallia 2024 Q1 Sprint 5
 5. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with asterisks or number symbols. Replace data with codes as follows
    - Email addresses - PII_EMAIL
    - Names - PII_NAME
    - Social security numbers - PII_SSN
    - Phone numbers - PII_PHONE
    - Other identifying info - PII_OTHER
-7. Move the scrubbed file to this [folder]()
-8. Analyze the data (see [How to Analyze the Data](#how-to-analyze-the-data))
-9. Share the analysis, including your notes of any potential issues that raise concern with:
-   - Kay Lawyer, Kristen McConnell, Stephen Barrs via VA email
-   - Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team via a thread in the [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM).
-
+6. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-05-16-Medallia.md)
+7. Paste a link to the document in [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM) and call out these folks:  Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team
 
 ## How to Submit a Request Ticket
 
@@ -39,14 +34,18 @@ Using the template below, submit a ticket in GitHub to the Contact Center to col
        - NOTE: Add Travel in once we release it
    - **Product Description** - Applications that allow Veterans to verify their contact information prior to a VA health appointment, check in upon arrival for a VA health appointment, and submit a mileage-only travel reimbursement claim on the day of their VA health appointment.
    - **Survey URL(s), key term(s), case category or type** - All comments under and including these URLS and all of their sub-URLs:
-       - https://www.va.gov/health-care/appointment-check-in
-       - https://www.va.gov/my-health/appointment-pre-check-in
-       - https://www.va.gov/my-health/appointment-travel-claim
+       - https://www.va.gov/health-care/appointment-check-in/
+       - https://www.va.gov/health-care/appointment-pre-check-in/
+       - https://www.va.gov/my-health/appointment-travel-claim/
           - NOTE: only include travel after we release it
    - **File delivery format** - All in one file, on one tab
    - **Word Cloud** - Yes
    - **VA Email Address(es)** - [Your VA email address]
  
-## How to Analyze the Data
 
-TBD
+
+
+
+
+   
+ 

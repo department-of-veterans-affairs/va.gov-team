@@ -11,6 +11,12 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 **[Business and legislative requirements tracker (SharePoint)](https://dvagov-my.sharepoint.com/:x:/g/personal/robert_meehan3_va_gov/EdTXJw53krNIt1qysxRDLwABl1cbCz0Hi4fYhzyxSoEVmA?e=8R3ypc)**
 
+### CC scheduling current state
+
+- [Review Community Care Appointments service blueprint (Mural) - CX Catalog Team](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=761-6444&t=Jf1WJ4OgStd1sByq-4)
+- [Download Community Care Self-Scheduling Flow Map (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/15395579/Attachment.D.-.Community.Care.Veteran.Self-Scheduling.Flow.Map.pdf)
+- [(VAOS) Application and HealthShare Referral Management (HSRM) Standard Operating Procedure [December 16, 2022]](https://github.com/user-attachments/files/16069320/CC.VAOS_HSRM_SOP_2022121622_v_Final.pdf)
+
 ### CC direct scheduling end state
 
 - [Download the EPS-VAOS Integration Vision Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/14924023/VAOS.Discovery.Review.with.VAOS.03122024.Edited.1.1.pptx)<br><br>
@@ -19,7 +25,7 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 <img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/61887bd5-3b13-48d3-9537-6e2659db9030"><br><br>
 
-**Sequence diagram**
+**Sequence diagram**<br><br>
 
 <img width="980" alt="Frame 1" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/3c7925aa-f393-4972-aa44-b926b5c21569">
 
@@ -71,4 +77,4 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 [Review Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712435187811/f3ab95fd81a0a49af7d20f4629e9fee0356bb8d9)<br>
 [Download PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/14980565/CC.direct.scheduling.high.level.visual.data.flow_2024-04-15_14-37-39.pdf)<br>
 
-<img width="1000" alt="CC direct scheduling high level visual data flow (WIP)" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/3c361763-a4fe-4d80-8dd6-8c67fc69caa0">
+<img width="1000" alt="CC direct scheduling high level visual data flow (WIP)" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/e7c4fa94-7cf7-46b0-b349-c85281b38eb4">

@@ -27,62 +27,57 @@ The family member hub will contain 6 subhubs.
 One of the subhubs will actually just be the home loans page, which we need to migrate in family hub.
 
 We will also include the pages for Program of Comprehensive Assistance for Family Caregivers (PCAFG) and CHAMPVA in the family member hub structure for phase 1. We may be able to include the surviving spouse home loan program pages pending stakeholder agreement. 
+![Screenshot 2024-05-20 at 10 59 02 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/c3c234ec-25cb-4c1d-8f7f-1338b0dfe17e)
 
-![page structure](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/6b987ae4-46e5-43a1-b594-708ff6e995b5)
 
 ## <a name="url"></a>URLs and breadcrumbs
-![sitemap with URLs](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/b53551b9-706d-4155-b2b5-de1697b16776)
+![Screenshot 2024-05-20 at 11 00 07 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/a5c157ed-b5aa-4b1e-b707-333ec6af0be8)
 
 
 **1) Family member hub - CHANGE**
-- URL: va.gov/family-and-caregiver-benefits/
-- Breadcrumb: Home > [H1]
+- new URL: va.gov/family-and-caregiver-benefits/
+- Breadcrumb: VA.gov home > Family and caregiver benefits
 - Notes: note this is a change in URL so we'll also need a redirect for folks that might have bookmarked the old url
 
 **2) Health/disability subhub - NEW**
 - URL: va.gov/family-and-caregiver-benefits/health-and-disability/
-- Breadcrumb: Home > [Family member h1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers
 
-**3) Survivors comp and accrued benfits - NEW**
+**3) Survivors comp and accrued benfits subhub - NEW**
 - URL: va.gov/family-and-caregiver-benefits/survivor-compensation/
-- Breadcrumb: Home > [Family member h1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
-**4) Education and careers - NEW**
-- URL: va.gov/family-and-caregiver-benefits/education-careers/
-- Breadcrumb: Home > [Family member h1] > H1
+**4) Education and careers subhub - NEW**
+- URL: va.gov/family-and-caregiver-benefits/education-and-careers/
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
-**5) Life Insurance - NEW**
+**5) Life Insurance subhub - NEW**
 - URL: va.gov/family-and-caregiver-benefits/life-insurance/
-- Breadcrumb: Home > [Family member h1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
-**6) Housing assistance - CHANGE**
-- URL: va.gov/family-and-caregiver-benefits/housing-assistance/
-- Breadcrumb: Home > [Family member h1] > H1
+**6) Housing assistance subhub - CHANGE**
+- new URL: va.gov/family-and-caregiver-benefits/housing-assistance/
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
-**7) Burials / memorials - NEW**
-- URL: va.gov/family-and-caregiver-benefits/burials-memorials/
-- Breadcrumb: Home > [Family member h1] > H1
+**7) Burials / memorials subhub - NEW**
+- URL: va.gov/family-and-caregiver-benefits/burials-and-memorials/
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
-**7) PCAFC - CHANGE**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > H1
+**8) PCAFC static page - CHANGE**
+- new URL: va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > H1
 
-**8) PCAFC Form 1010cg - CHANGE**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [PCAFC H1] > H1
+**9) PCAFC Form 1010cg - CHANGE**
+- new URL: va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [PCAFC H1] > H1
 
-**9) CHAMPVA - CHANGE**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > H1
+**10) CHAMPVA static page - CHANGE**
+- new URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > H1
 
-**9) CHAMPVA form 1010d - ADD**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
-- NOTE: depending on timing, we will either be adding this new digital form directly to family member hub, or launching in health and then redirecting.
-
-**10) Surviving spouse home loan program - CHANGE**
-- URL: va.gov/family-and-caregiver-benefits/housing-assistance/surviving-spouse-home-loan
-- Breadcrumb: Home > [Family member h1] > [Housng H1] > H1
+**11) Surviving spouse home loan program - CHANGE**
+- new URL: va.gov/family-and-caregiver-benefits/housing-assistance/surviving-spouse-home-loan
+- Breadcrumb: VA.gov home > Family and caregiver benefits > [Housing H1] > H1
 - NOTE: this is pending stakeholder approval from Danielle
 
 
@@ -106,7 +101,9 @@ For phase 1, we will have a left nav for the subhubs and PCAFC/Champva/HomeLoan.
 
 - Health care and disability compensation
    - CHAMPVA
-      - CHAMPVA application
+      - CHAMPVA application 1010d
+      - OHI form 7959c
+      - File claim 7959a
    - Program for Comprehensive Assistance for Family Caregivers
       -PCAFC application
 - Survivors compensation and accrued benefits
@@ -116,7 +113,8 @@ For phase 1, we will have a left nav for the subhubs and PCAFC/Champva/HomeLoan.
 - Life insurance
 - Burial benefits and memorials
 
-![left nav](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/c31df687-1ab0-45a6-b31a-177d0a8e0d04)
+![Screenshot 2024-05-20 at 11 03 21 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/774c7f15-41f7-47ca-9dd4-01071d14837a)
+
 
 
 
@@ -137,20 +135,17 @@ For phase 1, each subhub will feature links and a short description to the follo
       - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp
       - Respite care: https://www.caregiver.va.gov/support/Respite.asp
       - Program of general caregiver support services: https://www.caregiver.va.gov/Care_Caregivers.asp
-  - **Get - Helpful tools(H3)**
-      - Income Limits: https://www.va.gov/health-care/income-limits/introduction
   - **Manage(H2)**
       - Request travel reimbursement: https://www.va.gov/health-care/get-reimbursed-for-travel-pay/
       - Pay copay bills: https://www.va.gov/health-care/pay-copay-bill/
-      - File a CHAMPVA claim: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp
+      - File a CHAMPVA claim: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp **NOTE: the new form will launch here and replace this URL.
       - File a SBHCP claim: https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina-claim.asp
       - Request a decision review: https://www.va.gov/decision-reviews/
+      - Get help from accredited rep: https://www.va.gov/get-help-from-accredited-representative/
   - **More(H2)**
       - Meds by Mail: https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/meds-by-mail.asp
       - Fisher House Program: https://www.socialwork.va.gov/fisher.asp
-      - Coaching into care: https://www.mirecc.va.gov/coaching/
       - CHAMPVA FAQs: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA_faq.asp
-      - Finding a CHAMPVA provider: https://www.va.gov/COMMUNITYCARE/programs/dependents/locate-provider.asp
       - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
     
 - **Survivors compensation and accrued benefits**
@@ -160,7 +155,6 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Aid and attendance or housebound allowance: https://www.va.gov/pension/aid-attendance-housebound/
    - **Get - Additional benefits or services(H3)**
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
-       - Find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/
    - **Manage(H2)**
        - View payment history: https://www.va.gov/va-payment-history/
        - Change direct deposit: https://www.va.gov/change-direct-deposit/
@@ -168,10 +162,9 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Change your address: https://www.va.gov/change-address/
        - Request a decision review: https://www.va.gov/decision-reviews/
        - Check your claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
+       - Find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/
    - **More(H2)**
        - The PACT Act a   nd your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
-       - Pension Management Centers: https://www.va.gov/pension/pension-management-centers/
-       - Tragedy Assistance Program for Survivors: https://www.taps.org/
 
 - **Education and career benefits**
    - **Get - Main (H2)**
@@ -182,15 +175,14 @@ For phase 1, each subhub will feature links and a short description to the follo
        - STEM scholarship: https://www.va.gov/education/other-va-education-benefits/stem-scholarship/
        - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
        - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
-       - Ch 36: https://www.va.gov/careers-employment/education-and-career-counseling/
+       - Ch 36: https://www.va.gov/careers-employment/dependent-benefits/
     - **Get - Additional benefits or services(H3)**
-       - Vocational rehabilitation and employment for ppl who qualify:
-         - Children of Women Vietnam Veterans Health Care Benefits Program: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/
-         - Spina Bifida Health Care Benefits Program: https://www.va.gov/disability/eligibility/special-claims/birth-defects/ 
+       - Vocational rehabilitation and employment for ppl who qualify: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
+       - DoD dareer opportunities for spouses: https://www.va.gov/careers-employment/family-resources/
+
     - **Get - Helpful tools(H3)**
        - GI Bill School Comparison tool: https://www.va.gov/gi-bill-comparison-tool/
        - Yellow Ribbon school finder: https://www.va.gov/education/yellow-ribbon-participating-schools/
-       - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
     - **Manage(H2)**
        - Verify school enrollment: https://www.va.gov/education/verify-school-enrollment/
        - Change your GI Bill school or program: https://www.va.gov/education/change-gi-bill-benefits/
@@ -199,10 +191,10 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Change direct deposit: https://www.va.gov/change-direct-deposit/
        - Manage or pay overpayments or debt: https://www.va.gov/manage-va-debt/
        - Request decision review: https://www.va.gov/decision-reviews/
-       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
     - **More(H2)**
        - How to choose GI Bill approved schools: https://www.va.gov/education/choosing-a-school
        - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
+       - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
 
 - **Life insurance**
    - **Get - Main (H2)**
@@ -214,7 +206,6 @@ For phase 1, each subhub will feature links and a short description to the follo
    - **Manage(H2)**
        - File an insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
        - Request decision review: https://www.va.gov/decision-reviews/
-       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
    - **More(H2)**
        - Search for unclaimed insurance funds: https://www.insurance.va.gov/UnclaimedFunds/
  
@@ -227,10 +218,8 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Check the status of your COE: https://www.va.gov/housing-assistance/home-loans/check-coe-status
        - Get veteran military records: https://www.va.gov/records/get-military-service-records/
        - Request decision review: https://www.va.gov/decision-reviews/
-       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
    - **More(H2)**
        - Loan limits: https://www.va.gov/housing-assistance/home-loans/loan-limits
-       - Find VA-acquired properties: https://www.benefits.va.gov/homeloans/realtors_property_mgmt.asp
 
 - **Burial benefits and memorials**
    - **Get - Main (H2)**
@@ -249,7 +238,6 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Find a cemetery: https://www.cem.va.gov/cems/listcem.asp
        - Find a grave: https://www.cem.va.gov/nationwide-gravesite-locator/
        - File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
-
 
 ## <a name="redirects"></a>Redirects <br>
 We'll need to create a redirect ticket after we finalize H1s (and thus urls). All of the redirects should happen on the same day and should be either at the same time as publishing or right after.

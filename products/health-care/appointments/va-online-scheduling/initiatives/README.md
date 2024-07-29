@@ -2,11 +2,9 @@
 Folders in this section contain all the information needed to track our major initiatives. See also our [Zenhub boards](#what-were-working-on).
 
 ## Roadmap
-![VAOS Roadmap Q1 2023 - last updated February 10th](https://user-images.githubusercontent.com/2536801/218145981-96d33ea9-0c24-4249-b509-0db11b3cc73e.png)
+<img width="1098" alt="Screenshot 2024-07-08 at 6 26 47 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/de7efca4-65d4-42d9-82e6-d03a08618b5c">
 
-Image last updated: 2023-02-10
-
-[View the latest version of this roadmap (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1669852204497/247a12343defbdee115880da50c44f4e2c4526f1?sender=u7dbecf6fb28525e75ad98061)
+[View the latest version of this roadmap (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709592243539/3667dbc3595ec26806980ab1c03bfe48d0c834c1?sender=4e5fba2b-52f4-437a-89a6-8d10cb8815b3)
 
 ## What we're working on
 

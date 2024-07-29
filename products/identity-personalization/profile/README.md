@@ -70,6 +70,9 @@ Veteran data is a mess at the VA. It’s kept in hundreds of databases, and any 
 
 The VA.gov profile aims to solve for this by providing a centralized place that consolidates and displays the information the VA knows about a Veteran/person. It also provides paths to update information as needed, whether that is from the profile itself or outside of VA.gov (eg. in instances where someone needs to change an official government record).
 
+## Vision
+To provide Veterans with a central and streamlined experience when accessing their personal data and benefits and provide pathways to update and connect with other experiences
+
 ## User outcomes
 
 ### Desired user outcomes
@@ -102,14 +105,6 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 Current projects are actively managed in the AE Profile Github project, the chart below is not as actively managed. See [this page of the project for the roadmap by phase](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/39), or see [this page for a classic gantt chart roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/10). 
 
-|Project|Status|
-|----|----|
-|Alert Consistency|Discovery|
-|Enhanced Military Information|Design Intent (1/5/2024)/Dev|
-|MHV Migration / Email as a Channel|Dev|  
-|Maintenance Period Alerts|Dev|
-|USWDS V3 Component Updates (technical debt)|Dev|
-|Migrate to Figma (design technical debt)|Dev|
 
 
 ### Completed projects & enhancements
@@ -211,8 +206,8 @@ Current projects are actively managed in the AE Profile Github project, the char
 
 ## Backend
 
-- [Personal Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/backend_documentation.md)
-- [Contact Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md)
+- [Personal Info Backend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/backend_documentation.md)
+- [Contact Info Backend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md)
 - [Comp & Pen Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/backend_direct_deposit_comp_and_pen.md)
 - [Education Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/backend_direct_deposit_education.md)
 - [Notification Settings (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/notification_settings)
@@ -223,6 +218,7 @@ Current projects are actively managed in the AE Profile Github project, the char
 ## Frontend
 
 - [Getting Started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/frontend-getting-started.md)
+- [Hub Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/hub/frontend_documentation.md)
 - [Personal Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/frontend_documentation.md)
 - [Contact Info Frontend Docs (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/frontend_documentation.md)
 - [Direct Deposit (sensitive)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/frontend_documentation.md)

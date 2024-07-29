@@ -33,9 +33,9 @@ Beyond the 508 and VSP audits, our team may identify accessibility issues or rec
   - Remove any optional sections without details
 - Select `Submit new issue`
 
-## Appointments - Product/Design
+## Appointments UX Team Board
 
-[Appointments Product/Design ZenHub Board](https://app.zenhub.com/workspaces/appointments---productdesign-5fff340c2d80a4000fb6f69c/board)
+[Appointments FE UX Board](https://app.zenhub.com/workspaces/appointments-fe-ux-5fff340c2d80a4000fb6f69c/board)
 
 ### UX Ticket
 

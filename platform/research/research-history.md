@@ -1,7 +1,7 @@
 ----
 
 # This documentation has moved! 
-### [The latest version of this page](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1) is found in the research repo!
+### [The latest version of this page](https://github.com/orgs/department-of-veterans-affairs/projects/880) is found in the research repo!
 
 ### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
 
@@ -164,7 +164,7 @@ Note: this document does not include research history for Appeals projects, whic
 *Caregivers, Research Lead: Dené Gabaldón*
 
 - Number of participants: 1 pilot, 8 participants (6 Veterans, 3 POAs)
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery)
 - List of keywords: Veterans, POA, health care, application
 
 ### April 2021
@@ -276,7 +276,7 @@ Note: this document does not include research history for Appeals projects, whic
 *VA Online Scheduling, Lead Researcher: Peter Russo*
 
 - Number of participants: 5
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test)
+- [Link to the research folder]([https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test))
 - Appointments, Scheduling, VAOS, Dashboard, Home page
 
 
@@ -310,7 +310,7 @@ Note: this document does not include research history for Appeals projects, whic
 
 - Number of participants: 8
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Usability%20Testing)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/research/usability-testing)
 
 - Keywords: IRIS, contact us form, inquiry
 

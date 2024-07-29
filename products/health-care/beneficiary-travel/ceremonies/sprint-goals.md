@@ -1,5 +1,29 @@
 # BTSSS on VA.gov Sprint Goals 
 
+## 6/3/2024 - 6/14/2024
+### Goals
+* Engineering: Complete filtering and prepare for staging review 
+* Engineering: Feedback-based updates to status page MVP (Adding pagination and moving help section) 
+* UX: Building research plan for status language
+* UX: Ensuring filter designs are approved
+
+## 5/20/2024 - 5/31/2024
+### Goals
+* Engineering: Finalize status page so that it is launch-ready 
+* Engineering: Support staging review and rollout planning
+* Engineering: Improve test coverage
+* UX: Support staging review and rollout planning
+* UX: Finalize priority for research and design work
+
+## 5/6/2024 - 5/17/2024
+### Goals
+* Engineering: Integrate claims status endpoint in staging
+* Engineering: Frontend test coverage >= 80%
+* UX: Engage with CAIA over content changes to TP supporting pages
+* UX: Implement design changes based off user feedback and business response
+* UX: Finalize research report and housekeeping
+* UX: Conduct research for rollout
+
 ## 4/22/2024 - 5/3/2024
 ### Goals
 * Engineering: Finish the auth ping endpoint and finalize the Front-end (including the feature flag)

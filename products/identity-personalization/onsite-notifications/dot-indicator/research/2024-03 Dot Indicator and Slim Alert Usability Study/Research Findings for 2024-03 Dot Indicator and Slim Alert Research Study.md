@@ -10,7 +10,8 @@ Date: 04/03/2024
 
 [Matt Marino](matt.marino@adhocteam.us)
 
-[Research readout](link here)
+[Research presentation/readout](https://github.com/department-of-veterans-affairs/va.gov-team/files/15378658/2024-03.Dot.Indicator.and.Slim.Alert.Research.Findings.pdf)
+
 
 **Jump to:**
 
@@ -107,6 +108,16 @@ A strong preference for the numbered badge, which indicated the amount of items 
 > "That is a lot clearer...just looking at it, I got two things I need to action in, you know, the first two and then one for the VA medical records." (P4)
 
 >  "...the number twos and that is more detailed on that, because other one's the red circle and it could be questionable. Hmm. You don't really know how much messages you have." (P18)
+
+In addition, our one colorblind participant who was able to go through the prototypes stated that they had trouble noticing the dot indicators, **while being able to see the badge easily.** (P4)
+
+Veterans expressed understanding of what the badge and dot signified, as far as what the notification may mean.
+
+> "...it might mean that I've recently had lab work and there are results to be seen" (P8).
+
+> "...you either got two prescriptions that need to be filled, you have two prescriptions that been filled and you need and you can track it." (P12)
+
+> "It means I have 2 medicines on the way." (P18) 
 
 <br>
 
@@ -206,6 +217,7 @@ Screen reader usability was not properly assessed, and further testing is ideal.
 
 [Screen reader guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study/dot-indicator-convo-guide-for-screen-readers.md)
 
+[Mural board capturing findings, as well as Affinity Mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709061562188/1dfb9cdf6dbb59004be7cfff6714b3c704d7fa37?sender=u32ca7987ad64375cb5bb9275)
 
 ## Tools used for Synthesis
 

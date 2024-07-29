@@ -28,7 +28,7 @@ For an application to enter rollout Phase 0, the following must be true:
      
 - [x] Review established definition of done for MVP 
 
-- [ ] Go-no-go meeting(s) scheduled 
+- [x] Go-no-go meeting(s) scheduled 
      - [ ] After readiness & staging review 
      - [ ] Accessibility is included  
 
@@ -39,9 +39,9 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Communication  
 
-- [ ] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
+- [x] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
 
-- [ ] Email to trusted users is shared with contact center teams and coordinators  
+- [x] Email to trusted users is shared with contact center teams and coordinators  
 
 - [ ] MHV SharePoint page announcing this shift is updated with information about phase 0 
 
@@ -55,28 +55,30 @@ For an application to enter rollout Phase 0, the following must be true:
 
       - [ ] MHV Coordinators  
 
-      - [ ] Facility POCs 
+      - [ ] Facility POCs
 
-- [ ] Demo of new tool for audiences who will be affected by Phase 0 completed  
+        - _Updated product guide link (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/MR%20on%20VA.gov_Product%20Guide_update_050624.docx)_
 
-- [ ] Support staff trained
+- [X] Demo of new tool for audiences who will be affected by Phase 0 completed  
 
-- [ ] Process for handling technical / customer support issues exists 
+- [X] Support staff trained
+
+- [X] Process for handling technical / customer support issues exists 
 
  
 ### Product 
 
 - [ ] Intended product outcomes are documented and broadly communicated 
 
-- [ ] Technical instrumentation is in place to track GA 
+- [X] Technical instrumentation is in place to track GA - *N/A - using DD for now*
 
-- [ ] All steps of the collaboration cycle are complete  
+- [X] All steps of the collaboration cycle are complete - *Staging review for this domain to be completed late May 2024 per agreement with VA Platform team*
 
-- [ ] All the MUST feedback complete 
+- [X] All the MUST feedback complete 
 
-- [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
+- [X] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date - *product guide uploaded into GH*
 
-- [ ] Establish email box for the feedback loop 
+- [X] Establish email box for the feedback loop - *same as other MHV Phase 0 products*
  
    
 # Confirm with the following teams that they are ready for rollout: 
@@ -85,49 +87,49 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] QA / user acceptance testing completed  
 
-- [ ] Research documented in Github 
+- [X] Research documented in Github 
 
 
 
 ### Accessibility 
 
-- [ ] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed 
+- [X] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed 
 
  
 
 ### UX/UI  
 
-- [ ] Key design decisions added to decision log 
+- [X] Key design decisions added to decision log 
 
 - [ ] Design documentation & briefs are up-to-date and linked in product Github 
 
-- [ ] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks
+- [X] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks
 
-- [ ] Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
+- [X] Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
 
-- [ ] Product content approved and QAd/copy edited
+- [X] Product content approved and QAd/copy edited
 
-- [ ] FAQ content reviewed and approved by OCC, business owner, and where appropriate, subject matter experts.
+- [X] FAQ content reviewed and approved by OCC, business owner, and where appropriate, subject matter experts.
 
  
 
 ### Engineering  
 
-- [ ] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
+- [X] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
 
-- [ ] All pages/components have latest content: 
+- [X] All pages/components have latest content: _- All content is up-to-date with current designs. As new changes are made to the designs, development is implementing those as well_
 
-- [ ] Unit test coverage is sufficient 
+- [X] Unit test coverage is sufficient: _- 89.14%	90.89%	89.44%	78.09%_
 
-- [ ] Accessibility test coverage is sufficient 
+- [X] Accessibility test coverage is sufficient: _- All features requiring accessibility checks have been tested accordingly_
 
-- [ ] End-to-end test coverage is sufficient 
+- [X] End-to-end test coverage is sufficient: _- e2e tests have been written for all functionality that requires it_
 
-- [ ] Functional issues resolved 
+- [X] Functional issues resolved 
 
-- [ ] Engineering information documented and stored in GitHub 
+- [X] Engineering information documented and stored in GitHub 
 
-- [ ] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page
+- [X] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page: _- all links and redirects consistent with designs and other domains in Phase 0_
  
 
 ### Performance and Monitoring  
@@ -136,22 +138,22 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Downstream services tested at 2x average load for prior 12 months 
 
-- [ ] DataDog monitors exist 
+- [X] DataDog monitors exist 
 
-- [ ] Alerts exist 
+- [X] Alerts exist 
 
    - PagerDuty 
 
     - Slack 
 
-- [ ] On-call rotation exists 
+- [X] On-call rotation exists - *standard on call/support - same as other Phase 0 products*
 
-- [ ] Technical support escalation policy exists 
+- [X] Technical support escalation policy exists  - *same as other Phase 0 products*
 
  
 ### Analytics & Metrics  
 
-- [ ] Google Analytics 
+- [X] Google Analytics - *N/A - using DD for now*
 
     - Event tags exist 
 
@@ -159,11 +161,11 @@ For an application to enter rollout Phase 0, the following must be true:
 
     - Dashboard exists 
 
-- [ ] Domo 
+- [X] Domo - *N/A - using DD for now*
     - Access 
 
     - Dashboard exists 
-- [ ] Datadog 
+- [X] Datadog 
      - Access 
 
      - Dashboard exists 

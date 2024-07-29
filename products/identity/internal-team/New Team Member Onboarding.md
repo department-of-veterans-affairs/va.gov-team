@@ -40,21 +40,19 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
 
 ### Set up individual 15 minute 1:1's with your teammates:
 
-- [ ]  Mike King, Amber Parsley (Product Managers)
+- [ ]  Mike King, Jim Connelly (Product Managers)
 - [ ]  Joe Niquette (Engineering Lead)
 - [ ]  Lisa Lindsey (Delivery Manager)
-- [ ]  Amanda Porter (Designer/Researcher Crew Lead)
+- [ ]  Clayton Zook (Designer/Researcher Crew Lead)
 - [ ]  Alex Garcia (FE Engineer Crew Lead)
 - [ ]  Afia Caruso (FE Engineer)
 - [ ]  Ian Magenta (FE Engineer)
 - [ ]  Trevor Bosaw (BE Engineer Crew Lead)
 - [ ]  John Bramley (BE Engineer)
-- [ ]  Daniel Dasilva (BE Engineer)
-- [ ]  Ty Barnes (BE Engineer)
 - [ ]  Riley Anderson (BE Engineer)
 - [ ]  Antonnette Caldwell (FE Engineer)
 - [ ]  Vid Jovanovic (DevOps Engineer)
-- [ ]  Clayton Zook (Designer/Researcher)
+- [ ]  Megan Driscoll (Content Designer)
 - [ ]  Charlye Tran (Designer/Researcher)
 
 ### Ensure you are added to the following Slack Channels

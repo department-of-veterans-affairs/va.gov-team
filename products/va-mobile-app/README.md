@@ -1,18 +1,25 @@
 # VA Mobile App
 
 ## Background
+
 Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. This traffic is typically driven by users that want to complete quick transactions, such as viewing Claims Status or Facility Locator. Our team has a hypothesis, validated by user research, that native functionality in a mobile app will allow Veterans to more easily complete key transactions across VA Health and Benefits services.
 
 ## Team
 
+[View information about specific teams](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams)
+
 ### VA Product Owners
+
 - Rachel Han
 - Ryan Thurlwell (Design)
+- Don McCaughey (Engineering)
 
 ### Program Management
+
 - Seth Eheart - Program Manager
 
 ### Product & Data
+
 - Matt Hall - Product Leadership
 - Adam Kasmier - Product
 - Stacy Blackwood - Product
@@ -21,15 +28,17 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 - Victor Ezeamama - Data
 
 ### UX
+
 - Jennifer Ecker - UX Leadership
 - Brea Blackwelder - Accessibility Design
 - Holly Collier - Design
 - Lauren Russell - Design
 - Jessica Woodin - Design
-- Liz Straghalis - Research
+- Megan Graham - Research
 - Misty Milliron-Grant - Content Strategist
 
 ### Engineering
+
 - Tim Wright - Engineering Leadership
 - Chika Adibemma - Engineer
 - Chris Alexander - Engineer

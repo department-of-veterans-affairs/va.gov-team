@@ -12,7 +12,7 @@ Medical records will continue to be available on MHV National Portal.
 MHV-on-VA.gov UX will include:
 - Secondary nav bar with 5 links (Home/landing page plus 4 tools)
 - MHV-on-VA.gov Landing page links directly to VA.gov versions of tools
-- Tool breadcrumbs will link back to MHV-on-VA.gov landing page
+- Breadcrumbs on tool landing pages (only) will link back to MHV-on-VA.gov landing page
 - The MHV-on-VA.gov landing page will include information about the new functionality on VA.gov
 
 **Artifacts**:
@@ -21,7 +21,7 @@ MHV-on-VA.gov UX will include:
 ### Changes required within VA.gov tool applications
 Required for integration go-live:
 - Secure messaging side/secondary nav will need to change or be removed
-- Tool landing pages have breadcrumbs with `< Back to My HealtheVet home` linking to the MHV-on-VA.gov landing page
+- Tool landing pages have breadcrumbs with `< Back to My HealtheVet home` linking to the MHV-on-VA.gov landing page. ~~Child pages within apps should use dynamic < Back [to previous page H1] links.~~  
 - Any link within a tool that cross-links directly to another tool in Phase 1 should point to VA.gov build (remove links to tools on the National Portal)
 - MyHealtheVet secondary navigation component should display on the tools on VA.gov (SM, Appts, Meds) and their child pages
 - All three tools on VA.gov need to provide an alert to patients with Oracle Health/Cerner facilities in their profiles that they may need to navigate to My VA Health to manage that care. (SM and Appts already have it as of 4/17/24)
@@ -29,6 +29,10 @@ Required for integration go-live:
 Non-blocking content changes:
 - Tool "About" pages will get content updates
 - "Try me" banners on MHV classic will get content updates
+
+### Critical path analysis
+
+The MHV-on-VA.gov secondary navigation will have to go through the final stages of the Collab Cycle after it has been implemented by all teams: Staging Review, Contact Center Review, and Security & Readiness Review. Therefore, aside from a "go" decision on Medications Ph 1, the addition of secondary nav to the tool applications is the biggest dependency that will drive the release date for Medications Ph 1 and the MHV-on-VA.gov portal integration.
 
 ## Engineering notes on integration and release
 
@@ -41,6 +45,7 @@ The MHV-on-VA.gov secondary navigation will be implemented by adding a shared co
 Tool teams can add the secondary nav component with a single line of code in each location where it is needed.
 - Import the following: `import { MhvSecondaryNav } from '@department-of-veterans-affairs/mhv/exports';`
 - Add the following element to add the secondary nav. This element should be added to the top of your application where it can take the entire width of the page: `<MhvSecondaryNav />`
+- You will also need to include the following SASS file in your application's entry point (e.g. in your `app-entry.jsx` file): `import '~/platform/mhv/secondary-nav/sass/mhv-sec-nav.scss';`
 
 
 ### Feature Toggles
@@ -60,7 +65,10 @@ See Appendix for a list of toggles uncovered during discovery. It would be helpf
 3. Secondary nav enabled by its own feature toggle on Appointments, Medications, Secure messages, and the MHV-on-VA.gov landing page
    - Toggle: `mhvSecondaryNavigationEnabled`
 4. MHV-on-VA.gov Landing page incorporates UX changes for integration (links to the tools on VA.gov (SM, Meds), content about Ph1 integration, etc.)
-   - Toggle: `mhvLandingPageEnableVaGovHealthToolsLinks` 
+   - Toggles:
+      - `mhvLandingPageEnableVaGovHealthToolsLinks`
+      - `mhvHelpdeskInformationEnabled` (Help Desk component)
+      - `mhvTransitionalMedicalRecordsLandingPage` (Medical records transitional page)
 5. MHV Classic deploys try-me changes
    - Toggle: N/A
 
@@ -152,7 +160,7 @@ Cartogrphers artifacts:
 | 4/22/24| Kaitlin | Need to have a return link on My HealtheVet "home" page that sends users back to the National Portal landing page if they want to opt out|
 | 4/22/24| Kaitlin | Focus on implementing secondary navigation on the "big four" tools, with a fast-follow to make decisions around implementation on other apps (i.e. 10-10EZR)|
 | 4/22/24| Kaitlin | Implement a temporary landing page for medical records that will be linked to from the secondary navigation to provide a consistent experience for all four links. The temporary landing page will provide context for users and route them back to the National Portal to view/download their health records|
-| 4/26/24| Kaitlin | Do not need to implement Cerner/OH gating alerts on teh temporary medical records landing page|
+| 4/26/24| Kaitlin | Do not need to implement Cerner/OH gating alerts on the temporary medical records landing page|
 
 ### Existing feature toggles (as seen on frontend on 19 April)
 
