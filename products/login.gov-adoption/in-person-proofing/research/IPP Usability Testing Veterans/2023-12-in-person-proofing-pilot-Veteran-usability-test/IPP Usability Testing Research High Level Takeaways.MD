@@ -4,7 +4,7 @@
 ## Product: In Person Identity Proofing 
 ## Testing conducted in 12/2023
 
-## [Completed research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/IPP%20Usability%20Testing/Veteran%20Facing%20Screens_IPP%20Usability%20Testing/Veteran%20Facing%20Screens_IPP%20Usability%20Testing%20Research%20Report.MD)
+## [Completed research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/IPP%20Usability%20Testing%20Veterans/2023-12-in-person-proofing-pilot-Veteran-usability-test/2023-12-in-person-proofing-Veteran-usability-test%20Research%20Report.MD)
 
 ## [Mural where notes, analysis and syntheiss were done](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715869372177/e5f7fc286a19cf47d7fdbd1397365d3f52b716a6?sender=u1b0df595924572baa8a94764)
 
