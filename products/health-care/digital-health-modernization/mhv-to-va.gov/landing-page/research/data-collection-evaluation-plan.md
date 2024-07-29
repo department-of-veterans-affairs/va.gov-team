@@ -20,7 +20,13 @@ This evaluation plan outlines how the Cartography team will measure and track th
 | **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** | **Notes** | 
 | --- | --- | --- | --- | --- | --- | 
 | Engagement | What are users doing on the page? Where are they not going? | What are the top tasks on the MHV landing page? | Click (engagement/conversion rate); Top tasks | Datadog; GA4; might need export | Value add because they should be able to find other things they can't current | 
-| Findability |  |  |
+| Navigation and findability | Navigation throughout portal: track clicks on breadcrumbs, secondary nav, throughout the portal; How are they moving through the portal? | How are users navigating the portal? | Top tasks; Page views per session; Secondary nav engagement per session | GA4 | - Clicks on secondary nav throughout the portal (be able to compare clicks on secondary nav from a tool page vs. from the home page) - Clicks on breadcrumbs throughout the portal (be able to compare clicks on secondary nav from a tool page vs. clicks on breadcrumbs) Turn on screen reader support - Engagement for each tool / session - Conversions for each tool / session - Same stats but for national portal tools ^| 
+| Understanding - Navigation and findability | what % of users use secondary nav vs those who use the home page as a hub (going back and forth) | what % of users use secondary nav vs those who use the home page as a hub (going back and forth) Path exploration| GA4 | Datadog; GA4; might need export | - Value add of SN? or do they prefer to flow back through the LP? - Observe: How initial visit behaviors change over time as they continue to use MHV in the future & become more proficient | 
+
+
+
+
+
 | Engagement Rate |  |  |
 | Ease of Use | Do Veterans return to MHV National Portal? | Use of 'Go back to the previous version of My HealtheVet link |
 | Ease of Use | Do Veterans provide positive feedback? | Sentiment analysis from qualitative survey feedback, Sentiment analysis from qualitative call center feedback, Sentiment analysis from qualitative feedback emails |
