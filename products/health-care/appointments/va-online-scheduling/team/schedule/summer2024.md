@@ -12,6 +12,6 @@ Corey Ferris |  | 5, 8-12, 15-19 |
 Ryan Shaw | 17 |  |  
 John Luo | 10, 28 | 22 | 12-14 tentative
 Tony Williams |  | 5 | 
-Jennie McGibney |  | 5 | 
+Jennie McGibney |  | 5 29-31 | 1-2 
 Brenda Cudone |  | 5 |  19-23
 
