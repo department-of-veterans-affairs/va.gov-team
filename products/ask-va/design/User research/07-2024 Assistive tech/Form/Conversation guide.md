@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 15, 2024
+Last updated by @tygindraux: July 29, 2024
 
 ## Moderator logistics
 
@@ -20,7 +20,7 @@ Last updated by @tygindraux: July 15, 2024
 - [ ] Sign into Perigean’s Zoom and start the meeting
 - [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
 - [ ] Open conversation guide
-- [ ] Open staging (be ready to screenshare if needed)
+- [ ] Open staging
 - [ ] Open email or text (if any participant's ask for you to email or text testing links)
 - [ ] Mute your Slack notifications
 
@@ -50,43 +50,47 @@ Thanks for joining us today! My name is [Tyler]. How are you?
 
 I’m a researcher from VA. I work on improving VA.gov so it's easier for Veterans to contact VA online if they have a question.
 
+My colleague is also here. They're an accessibility specialist and they're here to support you and I during this conversation.
+
+> Accessibility specialist says hello.
+
 **What I hope to do today** is get a sense of how we can make this process better.
 
 **What I don't want to do** is add to any frustration that you've had with contacting VA in the past. I want to be up front and say that I don't have a way of fixing those past experiences. But, I do want to know about your frustration in case there's things we can improve in the future.
 
 Before we get started, I just want to confirm a few things.
 
-- Do you use a `SCREEN READER` `ALTERNATIVE NAVIGATION TOOL` `SCREEN MAGNIFIER` to access websites or applications?
-- Which tool are you going to be using today?
+- Do you use a [tool] to access websites or applications?
+- Which tool are you going to use today?
 
 > If they're not using assistive tech, politely end the session.
 
-Okay great. Moving along, we have a few people who are here to observe this session. One person is an accessibility specialist, who will support you and I during this conversation. And my other teammates would like to join to listen in, learn and take notes.
+Okay great. Moving along, we have a few other people in the waiting room who might observe this session. They'd like to join to listen in, learn and take notes.
 
-**I want to confirm now, are you okay with a couple of my teammates joining us to observe?**
+**I want to confirm now, are you okay with a couple of my teammates joining us to quietly observe?**
 
 - `IF NO` Use Slack to let observers know.
 - `IF YES` They're in the waiting room, so I'm going to let them into the meeting now.
 
 > Let in observers from the waiting room.
 
-Welcome. This is `PARTICIPANT`.
+Welcome. This is [participant].
 
-Let's go around and say hello, starting with `ACCESSIBILITY SPECIALIST'S NAME`, our accessibility specialist.
+Let's go around and say hello, starting with ____.
 
 **Thanks everyone, now I’ll ask you to turn off your cameras and mute yourselves for the rest of the session.**
 
 There are a few other things I want to mention before we start:
 
 - **This session could take up to...**
-   - `Screen reader or alt navigation`: an hour and a half
-   - `Screen magnification`: an hour
+   - Screen reader or alt navigation –– an hour and a half
+   - Screen magnification –– an hour
    - I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
 - **We’re here to learn your honest opinions.** Negative feedback is helpful too, because it helps us learn how we can improve.
 - **I also want to make it clear that we’re not testing your ability.** So, for example, if I ask if you understand something, it’s because I want to make sure the description is clear.
-- **I’m going to share a prototype with you today.** This is like a test version of VA.gov. I'm going to have you sign in to a test account. This means, that we'll be using pretend information today. So the prototype won't have any of your actual data, like your name or Social security number.
+- **I’m going to share a prototype with you today.** This is like a test version of VA.gov. You're also going to sign in using a test account. This means, that we'll be using pretend information today. So the prototype won't have any of your actual data, like your name or Social security number.
 - **If for any reason and at any time you want to stop the session, you just have to let me know.** And that might be a pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
-- Last thing is about recordings. We can record the session to help us confirm we captured your opinions accurately and sometimes share video clips with our colleagues at VA. If we do this, we don’t link anything you share in the session to any information that could identify you. We remove your face and your name from the videos. **Knowing this, are you comfortable if I record my screen and audio as we talk today?**
+- The last thing is about recordings. We can record the session to help us confirm we captured your opinions accurately and sometimes share video clips with our colleagues at VA. If we do this, we don’t link anything you share in the session to any information that could identify you. We remove your face and your name from the videos. **Knowing this, are you comfortable if I record my screen and audio as we talk today?**
   - `IF NO` Don't record
   - `IF YES` Once I start recording, I’ll confirm again.
 
