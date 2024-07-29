@@ -399,5 +399,5 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ## Approved by:
 
-- Becky Phung, PO on [DATE]
+- Becky Phung, PO on July 15, 2024
 - Shane Strassberg, VA Research Ops on [DATE]
