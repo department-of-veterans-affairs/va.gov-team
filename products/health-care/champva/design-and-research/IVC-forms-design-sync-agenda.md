@@ -8,6 +8,8 @@
   - Touch on 10-10d accessibility testing for staging review.
 ### Notes
 - 
+### Decisions and action items
+- 
 ## July 22, 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
 - Facilitator: Steven
