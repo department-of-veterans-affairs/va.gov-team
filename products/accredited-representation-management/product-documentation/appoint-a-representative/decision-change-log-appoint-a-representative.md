@@ -12,7 +12,7 @@ _Input was requested by Product Manager Lindsay Li-Smith via email “21-22/21-2
   _Communicated by Product Manager Lindsay Li-Smith via email “Design Review: Appoint a Rep (Digital form fill of 21-22/21-22a)”._
 - **6/10/2024**: Decided to move forward with the search results experience where we show cards as the search result. No longer pursuing our "fuzzy search" design due to accessibility concerns from both Governance and Design System Council.\
   _Communicated by Product Manager Lindsay Li-Smith ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84521#issuecomment-2159012482))._
-- **6/12/2024**: Defined the MVP experience for LOA1 and LOA3 authenticated users.\
+- **6/12/2024**: Defined the MVP experience for LOA1 and LOA3 authenticated users, choosing to route any users with an incomplete profile through the "unauthenticated" text input experience.  This will reduce friction (no need to verify identity or call to update information) on the form-fill experience and supports VA's larger goal of digitizing form experiences. \
   _Confirmation received from Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1718231009653709?thread_ts=1718137835.902289\&cid=C05L6HSJLHM))._
 - **6/24/2024**: VA OI\&T Privacy Officer approves the MVP email notification (confirmation and next steps).\
   _Product Manger Lindsay Li-Smith requested approval via email “Seeking Privacy Officer for email Notification Content Approval” and Privacy Officer Gina Siefert confirmed there are no PHI concerns._
