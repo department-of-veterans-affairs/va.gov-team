@@ -359,7 +359,7 @@ Thanks for letting me know. Unfortunately, this particular research study is foc
 
 ### If the participant can't screen share after troubleshooting
 
-I really appreciate your patience through this. I'm sure you know, it can be really frustrating when technology is not our friend. Since we're not able to set up screen share, we're going to end the session now. Because, it's been [XX] minutes, you're still going to be compensated for your time. Thanks again for joining us and we'll hopefully see you back here again for another study.
+I really appreciate your patience through this. I'm sure you know, it can be really frustrating when technology is not our friend. Since we're not able to set up screen share, we're going to end the session now. You're still going to be compensated for the full session. Thanks again for joining us and we'll hopefully see you back here again for another study.
 
 ### If the participant can't sign in
 
