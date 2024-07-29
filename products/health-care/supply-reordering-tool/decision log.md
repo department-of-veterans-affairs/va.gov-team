@@ -4,7 +4,7 @@ Please log key medical supplies decisions related to the practice areas below, i
 ## Product
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|      | Kaitlin F., Jenny W.                  | Short term: Update reordering form to match the updated form template in VADS while fixing identified usability and accessibility issues. Long term: Merge with Medications on MHV on VA.gov and stop using form template                         |           |
+| June 21, 2024     | Kaitlin F., Jenny W.                  | Short term: Update reordering form to match the updated form template in VADS while fixing identified usability and accessibility issues. Long term: Merge with Medications on MHV on VA.gov and stop using form template.  | There are many usability and accessibility issues that prevent users from submitting orders successfully currently. It will take less time to fix that before investing a longer time to merge with Medications on MHV on VA.gov, on top of that there're limited people who work on medical supplies. |
 |      |                   |                         |           |
 |      |                   |                         |           |
 |      |                   |                         |           |
