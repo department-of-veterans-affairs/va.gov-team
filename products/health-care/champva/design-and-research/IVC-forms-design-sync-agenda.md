@@ -1,7 +1,11 @@
 # Running Design and Research Agenda
 ## July 29, 2024
-- Attendees: Jamie Fiore, Syd Hoeper, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
-- 
+- Attendees: Jamie Fiore, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
+- Facilitator:
+- Next meeting facilitator: TBD
+- Agenda Topics
+  - Confirming we're adding content changes post research for 10-10d and CAIA collaboration.
+  - Touch on 10-10d accessibility testing for staging review.
 ### Notes
 - 
 ## July 22, 2024
