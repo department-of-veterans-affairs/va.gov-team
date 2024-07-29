@@ -63,7 +63,8 @@ Before we get started, I just want to confirm a few things.
 - Do you use a [tool] to access websites or applications?
 - Which tool are you going to use today?
 
-> If they're not using assistive tech, politely end the session.
+### Troubleshooting: If they're not using assistive tech
+- We'll politely end the session. Refer to [pause and exit strategies](#pause-and-exit-strategies).
 
 Okay great. Moving along, we have a few other people in the waiting room who might observe this session. They'd like to join to listen in, learn and take notes.
 
@@ -143,7 +144,11 @@ Okay, great. We're going to do that now. So, if you have any windows open that y
   - `IF YES` Please share your screen when you're ready.
   - `IF NO` I’ll help guide you through how to share your screen...
 
-> [If needed, refer to screen reader instructions to assist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
+### Troubleshooting: Screen share issues
+- Refer to [Screen reader instructions: Setting up screen share](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
+- Ask the accessibility specialist to come off mute and assist.
+- Be patient. Reassure the participant that this can be confusing and we're here to work through it together.
+- If after trying everything, screen share still isn't working: We'll politely end the session. Refer to [pause and exit strategies](#pause-and-exit-strategies).
 
 > Screen sharing starts.
 
@@ -212,8 +217,14 @@ Now, I can dictate the test username and password to you, send it in the Zoom ch
 > Dictate or send link.
 
 Username: tyler+02@bluetiger.digital
-
 Password: [Documented in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md).
+
+### Troubleshooting: Sign in
+- Ask the accessibility specialist to come off mute and assist.
+- Be patient. Reassure the participant that this can be confusing and we're here to work through it together.
+- If after trying everything, sign in still isn't working: We'll continue without signing in. Refer to [pause and exit strategies](#pause-and-exit-strategies).
+
+> Screen sharing starts.
 
 > Signs in to test user account.
 
@@ -341,6 +352,18 @@ I hope you have a lovely rest of the day.
 ## Pause or exit strategies
 
 We can use this strategies to prepare for difficult situations.
+
+### If the participant isn't using assistive technology
+
+Thanks for letting me know. Unfortunately, this particular research study is focused on assistive technology. Since you're don't use assistive technology, we'll have to end the session now. We'll hopefully see you back here again for another study. Thanks for your time!
+
+### If the participant can't screen share after troubleshooting
+
+I really appreciate your patience through this. I'm sure you know, it can be really frustrating when technology is not our friend. Since we're not able to set up screen share, we're going to end the session now. Because, it's been [XX] minutes, you're still going to be compensated for your time. Thanks again for joining us and we'll hopefully see you back here again for another study.
+
+### If the participant can't sign in
+
+It seems like we've tried everything and unfortunately we're still not able to sign in. Instead of signing in today, we have a back up plan. If you navigate to [Ask a question without signing in], we'll go ahead and start there.
 
 ### If the participant isn't feeling well
 
