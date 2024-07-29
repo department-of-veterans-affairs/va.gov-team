@@ -605,19 +605,22 @@ Task prompt: Find out if you have received a message from your doctor.
 
 * **Participants shared overall impressions of VA mobile app compared to current tools:**
   * When asked to compare this new version of the app to the version installed on their device, 6/8 participants who were current users of the VA mobile app felt that the version we explored was more helpful/an upgrade from the version they had. 
-    > "It gets me, don't have to go to another page to get information." P3
-    > "I liked the activity piece, which is a nice addition. Made the information that's there easily accessible..." P12
-    > "I don't like people changing things just to change things - this is a useful upgrade" P9
+    > “It gets me, don't have to go to another page to get information." P3  
+
+    > “I liked the activity piece, which is a nice addition. Made the information that's there easily accessible..." P12  
+
+    > “I don't like people changing things just to change things - this is a useful upgrade." P9  
+
   * 2 participants who were current users of the VA mobile app didn't notice a change
-    > "Very similar to what I'm already used to using, not seeing anything that stands out as different" P15
-   * 1 former app user seemed underwhelmed 
-    > “A little sparse—which is not always bad—but in this case, it was ..I don't love it” P5
-   * 4/4 participants who were not current users of the VA mobile app felt that the version of the app we explored was more helpful than the websites (VA.gov, MHV) that they were using to accomplish the same tasks.
-    > "It's nice to get them all in one place" P11
+    > “Very similar to what I'm already used to using, not seeing anything that stands out as different." P15  
+  * 1 former app user seemed underwhelmed
+    > “A little sparse—which is not always bad—but in this case, it was ..I don't love it.” P5  
+  * 4/4 participants who were not current users of the VA mobile app felt that the version of the app we explored was more helpful than the websites (VA.gov, MHV) that they were using to accomplish the same tasks.
+    > "It's nice to get them all in one place." P11  
 
-    > Better than the website, right up front and easy to access with the arrows" P2
+    > "Better than the website, right up front and easy to access with the arrows." P2  
 
-    > "I think it would be helpful - obviously bigger and way easier to use than the website." P4
+    > "I think it would be helpful - obviously bigger and way easier to use than the website." P4  
 
 * **Navigation:** 
     * All participants found their way back to the home screen after tapping through to view screens associated with a task.
