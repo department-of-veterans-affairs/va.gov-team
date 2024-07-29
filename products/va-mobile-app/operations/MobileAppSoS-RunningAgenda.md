@@ -58,7 +58,8 @@
 ## 8/7/24
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
-  * Bug Reduction OKRs (Therese)
+  * OKR formats - how to make them easier to report on consistently
+     * Bug Reduction OKRs (Therese)
 
 ## 7/10/24
 * **Epics Review**
