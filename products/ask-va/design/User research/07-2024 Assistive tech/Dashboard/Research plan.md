@@ -203,7 +203,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Sip and puff device
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. How frequently do you use an alternative navigation tool?
+3. How frequently do you use an alternative navigation tool? (Best guess is okay.)
     - Daily
     - Once a week
     - Once a month
@@ -231,8 +231,8 @@ We'd like to recruit people who use a mix of different screen magnification soft
    - This question doesn't apply to me
 3. If you answered yes, how frequently do you use screen magnification on VA.gov?
    - Always
-   - Once a week
-   - Once a month
+   - Sometimes
+   - Rarely
    - Never
 4. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
    - Yes
