@@ -1,12 +1,11 @@
 # Initiative Brief - Travel Pay for Past Appointments
-## Overview
 
+## Overview
 This initiative allows Veterans to file a mileage-only beneficiary travel (BT) reimbursement claim for an eligible appointment from their past appointments list on VA.gov. 
 - An elibible appointment means any in-person appointment that was “completed” yesterday or up to the previous 30 days and hasn’t had a BT claim already filed for this day and at this facility (using the BTSSS Get Claim Status API).
 - “Completed” is in quotations because a BT claim can be submitted to BTSSS even if it’s not in a CHECKED-OUT status in VistA. (BTSSS rules engine picks up the process from this point.)
  
 ## Outcome Summary
-
 A Veteran can submit a mileage-only travel reimbursement claim for a past appointment via the Appointments VA.gov application in addition to existing options of submitting a paper form to the travel office or submitting via the BTSSS portal.
 
 ## Problem
@@ -21,7 +20,6 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
   - Meet user expectations of available online transactions 
  * Veteran feedback during research
    ![image](https://github.com/user-attachments/assets/80e797a7-f14f-4410-9fdf-a01390a35e94)
-
 
 ## Desired Outcomes
 - Veterans have an online application with which they can submit a mileage-only travel reimbursement claim for a past appointment.
@@ -67,6 +65,8 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Getting the word out to Veterans about the feature will help determine the success of the feature.
 
+## Solution
+
 ### Solution Summary
 A link to a new BTSSS online mileage-only travel reimbursement claim form will be provded to Veterans for each of their past appointments on VA.gov that meet the following criteria:
   - Appointment is one of the following appointment types
@@ -86,97 +86,27 @@ Veterans will follow these steps to complete the new BTSSS online mileage-only t
 - Fill out and submit the form
 - Navigate to the BTSSS portal to see the status and progress of the claim
 
+### Wireframes
+TBD
+
 ## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
+- [Collaboration Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89153)
+- [Release Plan]()
+- [Team Channel](https://dsva.slack.com/archives/C022AC2STBM) 
+- [Team Members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/README.md#team-members)
+- Stakeholders: Kay Lawyer (OCC), Kristen McConnell, Stephen Barrs
 
-- Kickoff ticket
-
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-1. Launch of the updated appointment list view will be marketed as an enhancement and will be part of a re-launch campaign for VAOS.
-* Re-launch and new appointment list will be marketed through veteran focused electronic newsletters, especially those related to health care.
-* Specific newsletters need to be identified and timelines for publication coordinated with launch plans
-
-2. VAOS team investigating the use of an online, one time notice that would appear to veterans when navigating to VAOS landing page
-* Notice would be a small indicator that something is new on the site.
-* Clicking on the notice would provide more details about the change to the appointment list view.
-* The online notification would lose focus after a veteran has clicked on it.  This includes subsequent sessions.
-* Online notification would only be visible for a configurable date range.
-* VAOS team to investigate feasibility of such a feature with the platform support team.
-
-3. VA and CC scheduling personnel will need to be informed of the appointment view update and provided a demonstration.
-
-4. VAOS product guide will need to be updated to include new screen shots of the updated appointment list view
-
-5. Call Center will need to be informed of change to appointment list view
-
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-#### Initiative Launch Dates
+## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - TBD
 - *Actual Launch Date* 
-  - tbd
-
----
-   
-## Screenshots
-
-### Before
-
-Current State: 
-
-<img width="592" alt="Screen Shot 2022-05-05 at 8 01 54 AM" src="https://user-images.githubusercontent.com/90797205/166919184-d6aa9850-f205-4542-b78c-b28836dd24e8.png">
-
-Future State (Post v2 Launch): 
-
-<img width="638" alt="Screen Shot 2022-05-05 at 7 58 13 AM" src="https://user-images.githubusercontent.com/90797205/166919230-c2640d26-5b42-44b1-81d0-361842eb8e4d.png">
-
-
-### After
-
-[Prototype](https://www.figma.com/proto/JpGM8LGBCqAlL8qh3DmFk8/Home-Page-Redesign?node-id=193%3A24159&starting-point-node-id=193%3A24159)
-
----
-
-#### Communications
-*Where will you discuss this initiative?*
-
-<details>
-
-- Team Name: VA Online Scheduling
-- GitHub Label(s): vaos 
-- Slack channel: #vaos-team
-- Product POCs: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
-
-</details>
+  - TBD
  
-#### Team Members
-
-<details>
- 
-- DEPO Lead: [Lauren Alexanderson](https://dsva.slack.com/team/U772MC9BQ)
-- PM: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
-- Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
-- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9) and [Ciera Maddox](https://dsva.slack.com/team/U02JWT564E9)
- 
-</details>
 
 
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
 
-<details>
-  
-- Office/Department:
-- Contact(s): Kay Lawyer (OCC)
- 
-</details>
 
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+
+
+
+
