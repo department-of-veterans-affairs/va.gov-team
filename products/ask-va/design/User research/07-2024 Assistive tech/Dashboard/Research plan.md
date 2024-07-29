@@ -100,7 +100,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 #### Cohort 1: Screen reader users
 
-We will recruit 6 Veterans who use screen readers to complete a **minimum** of 3 sessions. They should be daily users of screen readers. 3 should be beginners and 3 should be experienced.
+We will recruit 6 Veterans who use screen readers to complete a **minimum** of 3 sessions. They should be daily users of screen readers. 3 people should have 1-4 years of experience and 3 people should have 5+ years of experience.
 
 We'd like to recruit people who use a mix of different screen readers, such as, [NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenreaders).
 
@@ -109,8 +109,8 @@ We'd like to recruit people who use a mix of different screen readers, such as, 
 |Exactly 6|Are Veterans|Primary|
 |Exactly 6|Are willing to join from a desktop or mobile device using a screen reader|Primary|
 |Exactly 6|Daily use of screen readers to access websites or applications|Primary|
-|Exactly 3|Are beginner screen reader users|Primary|
-|Exactly 3|Are experienced screen reader users|Primary|
+|Exactly 3|Have 1-4 years of experience using a screen reader|Primary|
+|Exactly 3|Have 5+ years of experience using a screen reader|Primary|
 |At least 3|Are over 55 years old|Secondary|
 |At least 3|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 2|Identify as a gender other than male|Secondary|
@@ -161,7 +161,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 #### Screen readers
 
-1. Do you need to use a screen reader everytime you access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
+1. Do you need to use a screen reader to access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
     - Yes
     - No
 2. If you answered yes, which screen reader do you use? Please select all that apply.
@@ -172,15 +172,14 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Narrator (Windows)
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader.
-    - Beginner
-    - Intermediate
-    - Advanced
-    - This question doesn't apply to me
+3. How long have you been using a screen reader?
+    - 0 - 1 years
+    - 2 - 4 years
+    - 5+ years
+    - Never used
 4. How frequently do you use a screen reader?
     - Daily
-    - Several times a week
-    - Occasionally
+    - Several times a month
     - Rarely
     - Never
 5. Can you join the Zoom session from your mobile or desktop device using your screen reader?
@@ -192,7 +191,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 #### Alternative navigation
 
-1. Do you need to use alternative navigation tools everytime you access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
+1. Do you need to use alternative navigation tools to access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
     - Yes
     - No 
 2. If you answered yes, which alternative navigation tool do you use? Please select all that apply.
@@ -206,8 +205,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - This question doesn't apply to me
 3. How frequently do you use an alternative navigation tool?
     - Daily
-    - Several times a week
-    - Occasionally
+    - Several times a month
     - Rarely
     - Never
 4. Can you join the Zoom session from your mobile or desktop device using your alternative navigation tool?
@@ -233,9 +231,9 @@ We'd like to recruit people who use a mix of different screen magnification soft
    - This question doesn't apply to me
 3. If you answered yes, how frequently do you use screen magnification on VA.gov?
    - Always
-   - Often
    - Sometimes
    - Rarely
+   - Never
 4. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
    - Yes
    - No
