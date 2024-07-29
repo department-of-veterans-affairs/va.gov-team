@@ -17,7 +17,7 @@ Make updates to the docs with [MS Word change tracker](https://support.microsoft
 This allows for better collaboration than uploading the docs to GitHub.<br><br>
 3. Submit drafts for Contact Center review<br>
 Follow steps in [request-contact-center-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
-to create a ticket. Update the change logs within the docs and on this page with ticket number.<br><br>
+to create a ticket. Update the change logs within the docs and on this page with ticket number. If updating both docs at the same time, a single ticket is ok.<br><br>
 4. Contact Center team reviews the docs <br>
 Make any requested changes and update in sharepoint. They will typically look through each change and approve or comment on the change.<br><br>
 5. Complete!<br>Contact Center team attaches the approved version to the ticket.
@@ -28,21 +28,23 @@ Make any requested changes and update in sharepoint. They will typically look th
 - Previously the product guides were duplicated here in github, but this was caused syncing and collaboration challenges. Utilizing the already existing source of truth (docs in Sharepoint owned by the Contact Center) is preferable. 
 
 ## 526 Product Guide Ticket History
-|Date|Version|Ticket|Author|Description|
+|Date|Version|Ticket|Author|Feature Name|
 |----|----|----|----|----|
 |Unknown|1.0|||Initial Version|
 |7/13/23|2.0|[#61945](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61945)|Disability Experience Team 1|Sync 526ez form with paper version|
 |8/30/23|2.1|||New Rated Disabilities feature|
 |12/15/23|3.0|[#59295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59295)|Disability Experience Team 1|Reformat with new template|
-|4/17/24|3.1|[#81747](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81747)|Employee Experience|Rated Disabilities updates|
-|5/1/24|3.2|[#82085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82085)|Disability Experience Team 2|New Major Issues and Error Message sections|
-|6/3/24|3.3|[#84315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84315)|Conditions Team|New Conditions updates|
-|7/26/24|4.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Update to 2022 Version. Add Toxic Exposure.|
+|4/17/24|3.1|[#81747](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81747)|Employee Experience Team|Max Claims for Increase (CFI)|
+|5/1/24|3.2|[#82085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82085)|Disability Experience Team 2|Post-Submission Failure Emails|
+|6/3/24|3.3|[#84315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84315)|Conditions Team|mprove conditions submission page|
+|7/18/24|3.4|[#88765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88765)|Disability Experience Team 2|Post-Submission Failure Email|
+|7/26/24|4.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure|
 
 ## 526 BDD Product Guide Ticket History
-|Date|Version|Ticket|Author|Description|
+|Date|Version|Ticket|Author|Feature Name|
 |----|----|----|----|----|
 |Unknown|1.0|||Initial Version|
-|6/1/23|2.0|[#59016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59016)|Disability Experience Team 1|Reformat with new template. Add BDD SHA.|
-|7/26/24|3.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Update to 2022 Version. Add Toxic Exposure.|
+|6/1/23|2.0|[#59016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59016)|Disability Experience Team 1|BDD SHA|
+|7/18/24|2.1|[#88767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88767)|Disability Experience Team 2|Post-Submission Failure Email|
+|7/26/24|3.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure|
 
