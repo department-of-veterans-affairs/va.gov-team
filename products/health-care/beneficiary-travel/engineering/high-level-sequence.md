@@ -1,11 +1,14 @@
 ```mermaid
 sequenceDiagram
+  
   actor vet as Veteran
   participant appts as Appointments: VA.gov
   participant redux as Redux Store
   participant smoc as Mileage Claim Submission: VA.gov
   participant vapi as vets-api
   participant tpapi as Travel Pay API
+
+  Note over vet,tpapi: DRAFT DRAFT DRAFT DRAFT DRAFT
 
   vet ->> appts: View past appointment
   activate appts
@@ -67,4 +70,6 @@ sequenceDiagram
 
     smoc ->> vet: Success
   deactivate smoc
+
+Note over vet,tpapi: DRAFT DRAFT DRAFT DRAFT DRAFT
 ```
