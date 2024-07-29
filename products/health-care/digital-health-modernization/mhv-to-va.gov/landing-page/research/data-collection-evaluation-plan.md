@@ -38,7 +38,7 @@ This evaluation plan outlines how the Cartography team will measure and track th
 
 ## **Data Analysis Cadence**
 
-Data analysis will be conducted each sprint with highlights shared as part of the update at the End of Sprint Demo with more comprehensive reporting done...
+Data analysis will be conducted each sprint with highlights shared as part of the update at the End of Sprint Demo with more comprehensive reporting done as requested. 
 
 ## **Data Source Point People**
 
