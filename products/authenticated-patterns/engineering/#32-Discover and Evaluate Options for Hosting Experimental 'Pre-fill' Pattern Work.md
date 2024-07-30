@@ -72,7 +72,7 @@ Summary of notes on this discovery work are here: https://github.com/department-
 
 **Update from 7/15 working session with Adam and Belle**: Chose not to move forward with Option 4 due to security concerns and the substantial workload involved in creating a completely new repo separate from vets-website.
 
-#5) Bonus: Codespaces hosted directly from Github branches of vets-website
+# 5) Bonus: Codespaces hosted directly from Github branches of vets-website
 
 https://depo-platform-documentation.scrollhelp.site/developer-docs/using-github-codespaces
 
