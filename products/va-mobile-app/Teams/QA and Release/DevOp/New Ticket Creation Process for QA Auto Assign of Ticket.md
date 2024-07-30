@@ -9,23 +9,23 @@ The auto-assignment to QA relies on specific labels being present on the ticket.
 - Create a New Ticket
 
 When creating a new ticket, fill in the necessary details such as title, description, and any other required fields.
-Add the Team Label
+- Add the Team Label
 
 - Select the appropriate team label that corresponds to the team responsible for the ticket. This could be any predefined label that identifies the team (e.g., "Health", "Global", "design-system").
-Add the "FE-With QA" Label
+- Add the "FE-With QA" Label
 
 In addition to the team label, ensure to add the "FE-With QA" label to the ticket. This label signifies that the ticket will undergo QA once it is marked as testable or ready for QA.
-Save the Ticket
+- Save the Ticket
 
 After adding both labels, save the ticket. The system will now recognize that both conditions are met for the auto-assignment to QA to occur.
 ## Example
 Creating a Ticket for the Global Team
-Title: Implement New Login Feature
-Description: Detailed description of the new login feature.
-Labels:
-Team Label:global
-QA Label: FE-With QA
-Save the Ticket
+- Title: Implement New Login Feature
+- Description: Detailed description of the new login feature.
+- Labels:
+   Team Label:global
+   QA Label: FE-With QA
+- Save the Ticket
 By ensuring that both the "global" and "FE-With QA" labels are present on the ticket, the system will automatically assign it to QA once it is marked as testable or ready for QA.
 
 ## Importance of Correct Labeling
