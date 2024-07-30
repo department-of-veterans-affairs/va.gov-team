@@ -71,3 +71,20 @@ Summary of notes on this discovery work are here: https://github.com/department-
 **Question:** Will each pattern have a separate site deployed? Or is this one all-encompassing repo with all the patterns?
 
 **Update from 7/15 working session with Adam and Belle**: Chose not to move forward with Option 4 due to security concerns and the substantial workload involved in creating a completely new repo separate from vets-website.
+
+# Conclusion
+
+Option 1: Creating a mock form app in the vets-website repo and using staging to host pattern work. 
+
+Option 1 currently stands as the most viable choice due to its straightforward deployment and direct integration with our existing codebase. However, further discovery is needed in a few key areas:
+
+1) Displaying Pattern Variations: We need to determine the optimal way to present different pattern variations. Initially, we considered incorporating all variations into a single form app, with each variation on a separate page. However, if a variation requires a different intro page, this could pose a UX challenge.
+   
+One potential solution is to include a new intro page for each variation within the form app (even if it appears in the middle of the form process). This approach requires further investigation to address the following questions:
+
+- Will adding an introductory page in the middle of the form process be user-friendly or more confusing for test participants? If it's more confusing, how can we make it less confusing and more user-friendly for them? 
+- Can we easily technically implement this solution within the current codebase?
+
+2) Prefill Endpoint: We need to develop an endpoint in the vets-api to ensure that the prefill functionality works correctly in staging for our mock form app.
+
+3) Test User Login Issue: There is a login issue with our mock form app on staging (staging.va.gov/mock-form-ae-design-patterns). When attempting to log in as a test user, the login times out. If you reload the page, the login is successful. We suspect this issue may be related to the vets-api endpoint problem mentioned above and will plan to do more discovery work on this.
