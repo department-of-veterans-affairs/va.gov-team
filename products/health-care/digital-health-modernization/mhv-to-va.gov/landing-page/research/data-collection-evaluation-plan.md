@@ -34,14 +34,13 @@ This plan includes:
 | Usability and ease | How many users choose to go back to the national portal? In which tools are users clicking that link the most? | Clicks on Go-back links (3); Pull into excel, month to month (# of clicks in each) | Datadog | Yes | 
 | Navigation and findability | What are the rates of users who click try-me banners versus those who login to get to MHV? | Account activity logs from DAT team: # of clicks from the discrete locations in MHV classic. Reverse path exploration in GA4 using my/health/. what proportion are coming from specific links? | DAT request | --- | 
 | User segmenting | What can we learn about first time tryers vs. tryers that return vs. those who tried and never returned? | -------- | ----- | ------- | ----------| 
-| Navigation and findability| How do users get to the landing page? | What are the most common ways users get to the LP? And how do rates compare for first time try-ers vs. return users | Path exploration | ? | ? | 
-| User segmenting | How many new users versus how many have come back? | What is the ratio of new versus returning users to MHV LP? | Analytics channel | GA4 | Can we create groups for new vs returning users, and can we segment from there based on the other behaviors ^? | 
-| User segmenting | How many tools do users make use of in a single session? How does that compare with national portal stats? | Analytics channel | GA4 | Can we create groups for new vs returning users, and can we segment from there based on the other behaviors ^? | ----- | - Engagement for each tool / session - Conversions for each tool / session - Same stats but for national portal tools ^ | ? | --- | 
-| User segmenting | are Veterans returning to VA.gov tools for a second session? | Do Veterans use more than one tool per session? | Page views per session | ---- | ---- | 
-| Findability | How much of the landing page do users see on average? | How much of the page is being looked at by Veterans? | Page view percentages by scroll depth | ---- | ---- | 
-| Access to help | MHV help desk call volume and successful answers; track change over time especially as concerns national portal vs. on VA.gov | ------ | - Help desk call volume, Success rate at answering Veteran's question, Same for national portal (all-time?)| ---- | ---- | 
+| Navigation and findability| What are the most common ways users get to the LP? And how do rates compare for first time try-ers vs. return users | Path exploration | GA4 |  --- | 
+| User segmenting | What is the ratio of new versus returning users to MHV LP? | Analytics channel | GA4 | --- | 
+| User segmenting | How many tools do users make use of in a single session? How does that compare with national portal stats? | Analytics channel | GA4 | ----- | 
+| User segmenting | Do Veterans use more than one tool per session? | Page views per session | ---- | ---- | 
+| Findability | How much of the page is being looked at by Veterans? | Page view percentages by scroll depth | ---- | ---- | 
+| Access to help | How many Veterans call the My HealtheVet help desk when they need support?| Help desk | ---- | --- |
 | Ease of use | Do we have latency or other data loading issues? | ---- | Page load times | ---- | ----- | 
-| Ease of use | What MHV pages are getting the most bookmarks? | ---- | Funnel | ---- | ----- | 
 
 ## **Data Analysis Cadence**
 
