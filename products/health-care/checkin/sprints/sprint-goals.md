@@ -5,7 +5,7 @@
 <details>
 <summary>SPRINT 14 - 8/21/2024-9/3/2024 FUTURE TENTATIVE</summary>
 
-## SPRINT 13 - 8/7/2024-8/20/2024
+## SPRINT 13 - 8/21/2024-9/3/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
 - **Medication Wording for Appointments - Pre-Check-in**
