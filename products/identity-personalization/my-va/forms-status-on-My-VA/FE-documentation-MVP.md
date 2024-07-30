@@ -9,8 +9,8 @@ We show this section for every LOA3 user.
 ---
 
 ## Benefit application draft card
-- Desktop (need sketch link)
-- Mobile (need sketch link)
+- Desktop
+- Mobile 
 
 **Show card**
 
