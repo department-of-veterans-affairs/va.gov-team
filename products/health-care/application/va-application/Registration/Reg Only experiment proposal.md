@@ -18,19 +18,22 @@ Veterans do not have a pathway to register for VA health care online.
 ## Hypothesis
 - By providing the option to register, we believe ....
 
+## Expected outcomes
+- ...
+- EXAMPLE: At least X% of Veterans will select Registration, and when presented with the options (call, print/mail, in-person), they will exit the form (assuming to do one of those things)
+
 ## Timetable
 - The experiment will run for 3 months (90 days)
 
 
-|Timeblock|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|
-|---------|---------------|----------|---------------|
-|Month 1| x | x | x |
-|Month 2| x | x | x |
-|Month 3| x | x | x |
-| Total | x | x | x |
+|Timeblock|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to print 10-10EZ form|
+|---------|---------------|----------|---------------|---------------|
+|Month 1| x | x | x | x |
+|Month 2| x | x | x | x |
+|Month 3| x | x | x | x |
+| Total | x | x | x | x |
 
-## Expected outcomes
+## Conclusion
 - ...
-
 ## Next Steps
 - ...
