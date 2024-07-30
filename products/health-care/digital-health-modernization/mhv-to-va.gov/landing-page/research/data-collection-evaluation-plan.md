@@ -35,7 +35,7 @@ This plan includes:
 | User segmenting | What is the ratio of new versus returning users to MHV LP? | Analytics channel | GA4 | --- | 
 | Usability and ease | How many users choose to go back to the national portal? In which tools are users clicking that link the most? | Clicks on Go-back links (3); Pull into excel, month to month (# of clicks in each) | Datadog | Yes | 
 
-**Nice to haves** 
+**Nice to have** 
 
 | **Theme**| **Question** | **Metric** | **Tools** | **Currently tracking**| 
 | --- | --- | --- | --- | --- |
