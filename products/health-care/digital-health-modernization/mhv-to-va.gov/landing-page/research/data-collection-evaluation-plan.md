@@ -18,7 +18,7 @@ This evaluation plan outlines how the Cartography team will measure and track th
 
 ## **KPIs**
 
-| **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** | **Currently tacking** | **Notes** | 
+| **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** | **Currently tracking** | **Notes** | 
 | --- | --- | --- | --- | --- | --- | --- | 
 | Navigation and findability | Where are users coming from and where are they going after the landing page? Including other areas on VA.gov |  | Previous pageviews | GA4| | 
 | Engagement | What are users doing on the page? Where are they not going? | What are the top tasks on the MHV landing page? | Click (engagement/conversion rate); Top tasks | Datadog; GA4; might need export | Value add because they should be able to find other things they can't current | 
