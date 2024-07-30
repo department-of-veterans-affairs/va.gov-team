@@ -79,6 +79,11 @@ We will run a moderated usability study remotely on Zoom. We will test in stagin
 
 We will work with Perigean to recruit Veterans for this research.
 
+We're available for a kickoff call with Perigean during the following times:
+- Wednesday, July 31 at 3-5pm EST
+- Thursday, Aug 1 at 9-11am EST or 3:30-5pm EST
+- Friday, Aug 2 at 12-3pm EST
+
 We request that Perigean:
 - shares a link or screenshot of the recruitment survey for this study, so we can review it before it goes out to participants
 - emails each participant after they've been recruited (copy content provided)
