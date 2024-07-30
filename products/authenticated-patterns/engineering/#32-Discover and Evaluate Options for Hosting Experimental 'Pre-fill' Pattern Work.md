@@ -72,6 +72,27 @@ Summary of notes on this discovery work are here: https://github.com/department-
 
 **Update from 7/15 working session with Adam and Belle**: Chose not to move forward with Option 4 due to security concerns and the substantial workload involved in creating a completely new repo separate from vets-website.
 
+#5) Bonus: Codespaces hosted directly from Github branches of vets-website
+
+https://depo-platform-documentation.scrollhelp.site/developer-docs/using-github-codespaces
+
+**Pros:**
+
+- Does not require SOCKS Proxy access to view
+- Can be built from a GitHub pull request or any published branch, this makes previewing variations much easier than deploying multiple apps
+- Relatively similar to how review instances work
+- Great for setting up an application that doesn’t require authentication, or with minimal reliance on authenticated data
+- Stable URL (doesn’t change after stopping & starting)
+
+Cons
+
+- Developer dependent on setting up and refreshing the codespace
+- Setting up a full content build (include all static pages) did not appear to work, and takes a long time to build (not hugely important if testing a form app)
+- It can be connected to staging’s API, but doesn’t allow authentication due to CORS problems. Using the “Allow CORS” browser extension didn’t work.
+- Setting up a mock server can be made to work, but api mock responses do need to be created and the mock server run alongside the FE in 'watch' mode
+- Codespaces spin down after 30 minutes of inactivity, but can be configured to up to 4 hours. Unlike review instances, this is a paid service, so it won’t stay live for days.
+
+
 # Conclusion
 
 Option 1: Creating a mock form app in the vets-website repo and using staging to host pattern work. 
