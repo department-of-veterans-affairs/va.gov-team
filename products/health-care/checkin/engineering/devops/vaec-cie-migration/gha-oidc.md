@@ -92,3 +92,45 @@ We can then attach IAM policies to that IAM role to allow GitHub Actions finely-
     ]
 }
 ```
+
+## GHA Workflows and Role Assumption
+
+With this in place, we can use a GitHub Actions workflow like the following to assume the role and perform actions as needed:
+
+```yaml
+name: Continuous Integration
+on:
+  // Run this workflow on pull requests targeting the `main` branch.
+  pull_request:
+    branches:
+      - main
+  // Also run this workflow manually, at the click of a button.
+  workflow_dispatch:
+
+// Explicitly grant this workflow permissions to access the id-token,
+// which is necessary to use OIDC authentication.
+permissions:
+  id-token: write
+  contents: read
+
+env:
+  // The role that this workflow wishes to assume.
+  AWS_ROLE: "arn:aws-us-gov:iam::24524524532:role/project/project-checkin-devops-dev"
+
+jobs:
+  perform-some-action:
+    name: "Perform some action"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
+        with:
+          role-to-assume: ${{ env.AWS_ROLE }}
+          role-skip-session-tagging: true
+          aws-region: us-gov-west-1
+
+      ...
+```
