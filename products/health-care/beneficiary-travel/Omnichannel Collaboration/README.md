@@ -71,6 +71,8 @@ _A place for teams to document any key artifacts or handy links they have produc
 ### Beneficiary Travel
 - [BT team GitHub space](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel)
 
+### VetLink (Kiosks)
+- [Screenshots of BT flow and other tasks (.zip file)](https://github.com/user-attachments/files/16433520/Travel.Pay.Content.zip)
 
 ### Patient Check-in
 
