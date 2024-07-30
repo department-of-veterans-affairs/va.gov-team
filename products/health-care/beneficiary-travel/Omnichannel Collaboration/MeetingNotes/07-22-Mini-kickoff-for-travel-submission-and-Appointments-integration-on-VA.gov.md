@@ -1,6 +1,6 @@
 # Cross-team kickoff agenda to support travel reimbursement for past appointments on VA.gov
 
-Date: Monday, July 22, 2024
+Date: Tuesday, July 30, 2024
 
 ## General MVP scope
 
