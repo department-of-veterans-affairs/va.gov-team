@@ -74,7 +74,7 @@ Date: Monday, July 22, 2024
 | What's our plan for research needs? |  In-person Veteran intercept and staff interviews due to the need to test the end-to-end experience, including how BT claims are appearing in MS Dynamics for staff. In addition, include links to past research in collab cycle ticket, while making note of number of AT users that have participated. |
 | How do the Medication Review changes impact the Appointment Detail Page designs?<br><br> | TBD. |
 | How are we planning to roll out this feature? Ayush to discuss with IVC during BT/Staff/API recurring meetings. E.g., VISN to VISN rollout? | Cara and Micha mentioned Mark Dewey would like to plan a single facility pilot. _Updated on 07/30/2024_<br><br> |
-| Knowing that Appointments/Check-in has language translations for the BT question workflow, does BTSSS want or plan to use those? | Assigned to Ayush to decide. |
+| Knowing that Appointments/Check-in has language translations for the BT question workflow, does BTSSS want or plan to use those? | Most likely not for MVP. _Updated on 07/30/2024_ |
 
 ## To do's
 
