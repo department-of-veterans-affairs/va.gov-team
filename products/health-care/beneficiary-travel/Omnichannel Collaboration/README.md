@@ -62,6 +62,7 @@ Last update: 7/26/24 by Cara Frissell
 
 - [Beneficiary Travel team - Figma file for simple milage-only travel reimbursements](https://www.figma.com/design/RzugGEmu4drhCSHTyQ6hjl/Simple-mileage-only-travel-pay-claim-submission?node-id=2111-5020&t=JXGQ8bTz8WPByS08-1)
 
+- [Userflow for filing for BT claim from past appointment on VA.gov - July 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722263210448/33062955940eb08d097dbd88a8dc98488ac2ffcc?sender=ucbacbd1daef36939e8aa2288)
 
 ## Team Spaces 
 
