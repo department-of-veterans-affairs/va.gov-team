@@ -271,7 +271,7 @@ As you navigate, you can share things with me that are frustrating or not workin
 
 > Screen: Your VA health facility
 
-- Note: They can choose their actual VA health facility or any facility.
+- Note: They can choose their actual VA health facility or find a facility in Ohio.
 
 > Screen: Your contact information
 
