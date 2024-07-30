@@ -32,7 +32,9 @@ Overall, comprehension was excellent and participants could easily understand th
 
 **Language Sensitivity**
 Participants in this study had very clear mental models around “overpayments” and “debt”. Several participants stated that the term “overpayment” was more specific than that term “debt”.
+
 >“I think consistency would be important rather than going back and forth. Debt just automatically has a negative connotation to it that could rub people the wrong way. They’re probably likely to associate it with credit card debt or something like that where you know, again, that's a conscientious act. If you are spending money versus an overpayment where typically you’re the downstream recipient of. –P3
+
 One participant said it depended on the circumstances of how the debt was acquired:
 >“It should probably be one or the other…the debt probably wouldn't be an overpayment if it's something like the person got sick in class and failed out of class now they have to repay that. I wouldn't consider that an overpayment,  I’d consider that as a debt for failing the class. While to me an overpayment would be like ‘we still paid you and you stopped going to school like 3 months ago.’” –P8
 
