@@ -17,10 +17,11 @@ _Input was requested by Product Manager Lindsay Li-Smith via email “21-22/21-2
 - **6/24/2024**: VA OI\&T Privacy Officer approves the MVP email notification (confirmation and next steps).\
   _Product Manger Lindsay Li-Smith requested approval via email “Seeking Privacy Officer for email Notification Content Approval” and Privacy Officer Gina Siefert confirmed there are no PHI concerns._
 - **7/16/2024**: Confirming MVP will release before v2 work will begin, as there are still dependencies to figure out prior to v2 release.\
-  _Confirmed at the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD1ae1d5de3ac54a0d9e1c1261c))_
+  _Confirmed at the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD1ae1d5de3ac54a0d9e1c1261c))._
 - **7/18/2024:** Confirmed MVP will target Veteran and non-Veteran claimant users (no “I am the accredited representative” path). The representative path was removed from MVP to reduce scope to launch, and because there were still open questions regarding the rep-initiated user experience.\
   _Discussed by the core ARM team in the July 17 demo, with VA Enablement and stakeholders present. Confirmed with the team the next day in standup ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67741#issuecomment-2237204197))._
 - **7/22/2024**: Do not push contact information updates to the Profile. \
-  _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1721064185404579))_
-- **Pending**: Decide if 2.0 releases on [VA.gov](http://VA.gov) (Veteran-facing) or the Accredited Representative Portal (VSO-facing)
+  _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1721064185404579))._
+- **7/30/2024**: Determined that 2.0 should release on [VA.gov](http://VA.gov) (Veteran-facing) and _not_ the Accredited Representative Portal (VSO-facing).  In order to protect Veterans from unauthorized disclosure of personal and private information, the Veteran must sign a paper form or provide an electronic signature via their va.gov login method. \
+  _Confirmed by Product Owner Jennifer Bertsch ([Slack Message](https://dsva.slack.com/archives/C05SUUM4GAW/p1722360689132869)), based on guidance from Compensation Services ([detailed response and guidance in Sharepoint](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representatives/RFI-Accredited%20Representative%20initiating%2021-22%20POA%20request.docx?d=we0c18763433f46fca7b3e5ae69d0c244&csf=1&web=1&e=FBlw1B))._   
 - **Pending**: Decide if the Request POA service lives in Lighthouse or vets-api
