@@ -1,7 +1,7 @@
 # Registration Only - Experiment proposal
 
 ## Problem statement
-Veterans do not have a pathway to register for VA health care online.
+- Veterans do not have a pathway to register for VA health care online.
 
 ## Goal of this experiment
 - Determine whether there is a need for a registration pathway on the online 10-10EZ
@@ -17,14 +17,11 @@ Veterans do not have a pathway to register for VA health care online.
 
 ## Hypothesis
 - By providing the option to register, we believe ....
-
-## Expected outcomes
-- ...
 - EXAMPLE: At least X% of Veterans will select Registration, and when presented with the options (call, print/mail, in-person), they will exit the form (assuming to do one of those things)
+
 
 ## Timetable
 - The experiment will run for 3 months (90 days)
-
 
 |Timeblock|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to print 10-10EZ form|
 |---------|---------------|----------|---------------|---------------|
@@ -35,5 +32,9 @@ Veterans do not have a pathway to register for VA health care online.
 
 ## Conclusion
 - ...
+- EXAMPLE: Based on the results, we see that X% of Veterans have shown interest in the registration pathway.  This proves/disproves our hypothesis
+
+
 ## Next Steps
 - ...
+- EXAMPLE: Now that we have determined X, we will do this thing next.
