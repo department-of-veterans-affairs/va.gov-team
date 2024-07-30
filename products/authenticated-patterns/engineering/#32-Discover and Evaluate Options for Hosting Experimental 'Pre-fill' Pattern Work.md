@@ -75,6 +75,7 @@ Summary of notes on this discovery work are here: https://github.com/department-
 # Conclusion
 
 Option 1: Creating a mock form app in the vets-website repo and using staging to host pattern work. 
+[Staging link](https://staging.va.gov/mock-form-ae-design-patterns)
 
 Option 1 currently stands as the most viable choice due to its straightforward deployment and direct integration with our existing codebase. However, further discovery is needed in a few key areas:
 
