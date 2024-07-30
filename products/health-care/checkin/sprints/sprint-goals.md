@@ -5,7 +5,7 @@
 <details>
 <summary>SPRINT 14 - 8/21/2024-9/3/2024 FUTURE TENTATIVE</summary>
 
-## SPRINT 13 - 8/21/2024-9/3/2024
+## SPRINT 14 - 8/21/2024-9/3/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
 - **Medication Wording for Appointments - Pre-Check-in**
@@ -15,7 +15,12 @@
     - **Sprint Goal TBD**
     - TBD
 - **Upcoming VAOS Appointments**
-    - **Sprint Goal TBD**    
+    - **Sprint Goal is to finish all work and schedule a Staging Review & a Readiness Review**
+    - 🟩 [[FE] Create Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
+    - 🟩 [[FE] Add Link to Access the Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89065)
+    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
+    - 🟪 Schedule Staging Review    
+    - 🟩 Schedule Infrasturcture, Security Readiness Review
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76037)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89592)
@@ -45,14 +50,9 @@
     - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
     - 🟩 TBD 
 - **Upcoming VAOS Appointments**
-    - **Sprint Goal Finish all work and schedule a Staging Review & Infrastrucutre Readiness Review**
-    - BLOCKED BY MIDPOINT REVIEW AND FINAL WIREFRAMES
-    - 🟩 [[FE] Create Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
-    - 🟩 [[FE] Add Link to Access the Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89065)
-    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
+    - **Sprint Goal is to update wireframes based on Midpoint Review feedback and finish backend integration work**
+    - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
     - 🟦 TBD - remaining work?
-    - 🟪 Schedule Staging Review    
-    - 🟩 Schedule Infrasturcture, Security Readiness Review
 - **Translations**
     - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
