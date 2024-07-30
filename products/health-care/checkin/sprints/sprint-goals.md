@@ -99,7 +99,7 @@
     - 🟥🟪 Find out from Kristen about timing of pilot and pilot site(s)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get the wireframes finalized and ready for frontend**      
-    - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+    - ✔️ ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
     - ✔️ ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to do the draft userflow & wireframes and schedule a Design Intent**
