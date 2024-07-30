@@ -14,8 +14,10 @@
 
 ### **FINDINGS**
 
-We created a new mock form app, which is separate from the other apps and should not affect them.
-
+- We created a new mock form app, which is separate from the other apps and should not affect them.
+- To display different pattern variations, we can add all variations into a single form app with each variation being a separate, different page.
+- One caveat to further look into: sharing test user creds with users in the user exercise.
+  
 # 2) Local vets-website repo branch with tunneling (Ngrok)
 
 **Pros:**
