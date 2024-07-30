@@ -1,5 +1,21 @@
 # Design Weekly Sync Agenda
 
+## 2024-07-29
+Attendees: Angela, Jessica, Hieu, Lois. Luis, and Renata.
+
+Team updates Lois on current projects and efforts:
+- Registration path: Lois asked if there is enough interest in this path. Jessica notes that the MVP is only for service-connected Veterans with disabilities rating between 10-40%, but there are tons of other reasons for someone to apply through a Registration-only pathway (such as IVF, mental health, non-veterans, humanitarian, etc)
+- Lois inquired about the team’s Accessibility process in staging. We currently have a QA person who does Accessibility as part of their test but UX and PM can jump in during the Collaboration process. 
+- Lois needed help with the Google Analytics access. Luis notes that Lois’ access is GA3 and it will need to be GA4. Luis also recommends Datadog out-of-the-box analytics. 
+- Team updates Lois on the CAIA process: all processes, no matter the size, should go through CAIA. 
+- TERA: 
+  - Lois is puzzled by VES’ Other Toxin character limitation which potentially forces another fill-in
+  - Team updates Lois on the Special Character effort. VES indicated they could receive the change so the team pushed out the changes but the VES backend was not ready. 
+  - For TERA branching logic, the team realized that the form is only asking for the Vetearn’s last branch of the service period. The team showed a few different options on how to ask for additional services. Lois likes the 3rd option: Description, Military service component, then the question to add more. 
+  - The team later discussed simplifying the question into year-only.
+
+
+
 ## 2024-07-23
 Attendees: Angela, Jessica, Hieu, and Lois.
 
