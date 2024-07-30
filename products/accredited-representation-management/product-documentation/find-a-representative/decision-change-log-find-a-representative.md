@@ -10,6 +10,8 @@
   _Recommended as part of research findings for the Find a Representative User Test (_[_research recommendations_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-11-ARM-findarep-nav-usertest/research-findings.md#mission-critical-recommendations)_)._
 - **:tada: 3/13/2024**: Released 2.0 to 100% of users, “Best Bets” keywords were implemented to boost search-ability.\
   _([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md))._
+- **3/18/2024**: Lighthouse requests we move our code (endpoints, controllers, modules and Sideqik jobs) out of the `Veteran` module in `vets-api` to avoid any unexpected/unintended access, as the the `Veteran` module is publicly routable through the Lighthouse Gateway and this mixed module leads to unexpected code review requirements and untracked endpoints routable via the Lighthouse Gateway. \
+  _Communicated by Technical Lead Holden Hinkle and context provided by Lighthouse team members ([Slack message](https://dsva.slack.com/archives/C013VCQKSE7/p1710784815479299))._
 - **6/7/2024**: Removed the “Other” text input in the Report Outdated Information modal, because users were entering PII. All PII data has been removed.\
   _Initiated by Program Manager Parker Baranowski, managed by the ARM team, with VA Enablement staying informed ([post mortem - awaiting review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/pull/1722#pullrequestreview-2130200755))._
 - **7/18/2024**: Decided to remove the Report Outdated Information feature.\
