@@ -12,8 +12,6 @@ This plan includes:
 - Questions we have about whether or not we are successful in the ways we’re solving these problems
 - The metrics we’re collecting to answer those questions
 
-
-
 ### **Objectives**
 
 - Facilitate Veterans' transition to the new MHV landing page & features to complete health-related actions 
