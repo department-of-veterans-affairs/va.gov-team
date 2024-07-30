@@ -15,26 +15,27 @@ As a Veteran, I would like to..... so that I can......
  - Documents
 
 ## Collaboration Cycle Steps
-- [ ] Kickoff
+- [ ] Collab Cycle Ticket
 - [ ] Design Intent
 - [ ] Midpoint Review
 - [ ] Staging Review
-- [ ] Privacy & Security Review
+- [ ] Infrastructure, Privacy, & Security Readiness Review
 - [ ] 508 Audit
 
 ## Team Checklists
 
 #### Product
-- [ ] Touch base with Travel team's PM
 - [ ] Create Initiative Brief
-- [ ] Create Feature Reference
-- [ ] Create Traceability Report
+- [ ] Create Feature Reference & Traceability Report
 - [ ] Define Metrics to Capture
-- [ ] Create Test Plan & Regression Plan
-- [ ] Create Pilot & Release Plan
+- [ ] Create Test Cases, Test Plan, & Regression Plan
+- [ ] Create Release Plan
 - [ ] Run test cases
 - [ ] Schedule Staging Review
+- [ ] Create and send release notes
+- [ ] Update Collab Cycle ticket with release date
 - [ ] Schedule 508 Audit
+- [ ] Close Collab Cycle ticket after all tickets are complete/closed
 
 #### Design
 - [ ] Review VAOS OKRs & OCTO goals
