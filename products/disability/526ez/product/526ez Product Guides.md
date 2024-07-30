@@ -32,7 +32,7 @@ Make any requested changes and update in sharepoint. They will typically look th
 |----|----|----|----|----|
 |Unknown|1.0|||Initial Version|
 |7/13/23|2.0|[#61945](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61945)|Disability Experience Team 1|Sync 526ez form with paper version|
-|8/30/23|2.1|||New Rated Disabilities feature|
+|8/30/23|2.1|[#64605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64605)|Employee Experience Team|Max Rating Education|
 |12/15/23|3.0|[#59295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59295)|Disability Experience Team 1|Reformat with new template|
 |4/17/24|3.1|[#81747](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81747)|Employee Experience Team|Max Claims for Increase (CFI)|
 |5/1/24|3.2|[#82085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82085)|Disability Experience Team 2|Post-Submission Failure Emails|
