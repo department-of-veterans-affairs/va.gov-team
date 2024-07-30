@@ -222,7 +222,7 @@ Password: [Documented in sensitive repo](https://github.com/department-of-vetera
 ### Troubleshooting: Sign in
 - Ask the accessibility specialist to come off mute and assist.
 - Be patient. Reassure the participant that this can be confusing and we're here to work through it together.
-- If after trying everything, sign in still isn't working: We'll continue without signing in. Refer to [pause and exit strategies](#pause-or-exit-strategies).
+- If after trying everything, sign in still isn't working: We'll ask a question without signing in. Refer to [pause and exit strategies](#pause-or-exit-strategies).
 
 > Screen sharing starts.
 
