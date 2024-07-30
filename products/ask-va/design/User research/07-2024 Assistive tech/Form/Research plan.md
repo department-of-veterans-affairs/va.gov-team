@@ -308,7 +308,7 @@ We will also provide one day for overflow. This should only be booked if we don'
 * Participant recruiting & screening: Perigean
 * Project point of contact: Tyler Gindraux
 * Participant(s) for pilot test: CAIA
-* Accessibility specialist: TBD
+* Accessibility specialists: Sara Smith, Jamie Klenetsky Fay, Riley Orr
 * Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
 
