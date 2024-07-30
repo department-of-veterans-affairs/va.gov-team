@@ -208,7 +208,7 @@ For today, we're going to sign in...
 
 > Screen: Sign in
  
-We're going to use a test account today.
+We're going to use a test account. We're not going to use your username and password.
 
 When you're ready, start by navigating to ID.me.
 
