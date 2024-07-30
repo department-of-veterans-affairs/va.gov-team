@@ -17,8 +17,6 @@ This topline summary is a high level, top of mind summary of trends found in the
   
 ## Initial Findings
 
-_Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
-
 
 ### 1. Service Design & Digital Design
 A full user experience journey for VA debt resolution must account for service design in addition to the digital design component.
@@ -49,7 +47,7 @@ The majority of participants (6 of 9 participants) had no issues with one-thing-
 One participant felt that debt letters should be with the debt details page. At least one participant did not get to the debt letters section. 
 
 
-### Page by Page
+### *Page by Page*
 
 ### 4. Overview Page
 The overview page tested very well, and there were a few important mentions of possible improvements: 
@@ -62,7 +60,7 @@ For the most part, this page along with the payment history section were clear:
 - The payment history section was clearly understood by all participants.
 - Current balance was easily understood.
 - Not all participants understood the purpose of the information that is needed to make a payment (file number, payee number, person entitled, deduction code) until they reached the Resolve page.
-- Because this use case/scenario was several months late on paying the full amount, the due date in the yellow call out box was in the past, and thus participants had a hard time pointing out the due date. 
+- Because this use case/scenario was several months late on paying the full amount, the due date in the yellow alert box was in the past, and thus participants had a hard time pointing out the due date. 
 - Several participants had strong reactions to late fees. More discovery research with SMEs can be done to fully understand how and when late fees and interest are applied to each type of overpayment debt.
 
 >“The late fees are a little bit too high. How many people that are disabled at 100% can afford $15?” -P9
@@ -74,6 +72,6 @@ The resolve page was easily understood by all participants. The term “resolve�
 ### 7. Debt Letter Page
 Many participants had not received a debt letter, or demand letter, a letter sent to a Veterans after they have not paid. Many participants understood “debt letters” as all communication VA had sent them regarding the debt including their initial notice. 
 - All participants who were asked wanted debt letters available for download online. 
-- Several participants felt the download links should be shown within the table on the page
+- Several participants felt the download links should be shown within the table on the page.
 - Some reasons given for having debt letters online: in case they misplace the letter sent in the mail or it is lost in the mail, to have a record of it on their computer
-- Some reasons given for how a debt letter would be used: to gain state benefits, to use in case of bankruptcy, for court cases or wage garnishment
+- Some reasons given for how a debt letter would be used: to gain state benefits, to use in case of bankruptcy, for court cases, or wage garnishment
