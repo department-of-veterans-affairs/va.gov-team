@@ -18,8 +18,8 @@ This evaluation plan outlines how the Cartography team will measure and track th
 
 ## **KPIs**
 
-| **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** | **Notes** | 
-| --- | --- | --- | --- | --- | --- | 
+| **Theme** | **Ideation Question** | **Quant Question** | **Metric** | **Tools** | **Currently tacking** | **Notes** | 
+| --- | --- | --- | --- | --- | --- | --- | 
 | Navigation and findability | Where are users coming from and where are they going after the landing page? Including other areas on VA.gov |  | Previous pageviews | GA4| | 
 | Engagement | What are users doing on the page? Where are they not going? | What are the top tasks on the MHV landing page? | Click (engagement/conversion rate); Top tasks | Datadog; GA4; might need export | Value add because they should be able to find other things they can't current | 
 | Navigation and findability | Navigation throughout portal: track clicks on breadcrumbs, secondary nav, throughout the portal; How are they moving through the portal? | How are users navigating the portal? | Top tasks; Page views per session; Secondary nav engagement per session | GA4 | - Clicks on secondary nav throughout the portal (be able to compare clicks on secondary nav from a tool page vs. from the home page) - Clicks on breadcrumbs throughout the portal (be able to compare clicks on secondary nav from a tool page vs. clicks on breadcrumbs) Turn on screen reader support - Engagement for each tool / session - Conversions for each tool / session - Same stats but for national portal tools ^| 
