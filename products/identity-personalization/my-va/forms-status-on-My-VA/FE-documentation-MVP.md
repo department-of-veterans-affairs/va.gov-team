@@ -77,6 +77,8 @@ This text appears directly below the "Benefit applications and forms" header on 
 
 ---
 ## Form Status card - Pending/Submitted
+- Desktop figma link
+- Mobile figma link
 
 **Show card**
 - _when to show the card_
@@ -101,6 +103,8 @@ _where is the content called from_
 
 ---
 ## Form Status card - Action Needed
+- Desktop figma link
+- Mobile figma link
 
 **Show card**
 - _when to show the card_
@@ -125,6 +129,8 @@ _where is the content called from_
 
 ---
 ## Form Status - Received
+- Desktop figma link
+- Mobile figma link
 
 **Show card**
 - _when to show the card_
@@ -149,6 +155,8 @@ _where is the content called from_
 
 ---
 ## Error States
+- Desktop figma link
+- Mobile figma link
 
 ### Error states associated with drafts
 - The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error.
