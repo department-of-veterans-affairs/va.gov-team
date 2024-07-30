@@ -27,7 +27,7 @@ This plan includes:
 | **Theme**| **Question** | **Metric** | **Tools** | **Currently tracking**| 
 | --- | --- | --- | --- | --- |
 | Engagement | What are the top tasks on the MHV landing page? | Click (engagement/conversion rate); Top tasks | Datadog; GA4| Yes (DataDog)| 
-| Navigation and findability | How are users navigating the portal? | Top tasks; Page views per session; Secondary nav engagement per session | GA4 | Yes|
+| Navigation and findability | How are users navigating the portal? | Top tasks; Page views per session; Secondary nav engagement per session | GA4 | ---|
 | Navigation and findability | what % of users use secondary nav vs those who use the home page as a hub (going back and forth) | Path exploration| GA4 |---| 
 | Navigation and findability | Are we seeing an uptick in health-related searches? | Search terms throughout site | GA4 | --- | 
 | Usability and ease | Are MHV nat'l users accessing more VA benefits since integration? | Path exploration | -- | -- |
