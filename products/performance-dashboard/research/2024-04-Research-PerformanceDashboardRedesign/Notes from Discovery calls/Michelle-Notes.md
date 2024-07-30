@@ -1,6 +1,6 @@
 ## Apr 16, 2024 | [VA metrics Discovery call IIR | Michelle, Tyler]
 
-## Attendees: ana (michelle) correll, peter egan, raquel eisele, tyler brettnacher
+Attendees: ana (michelle) correll, peter egan, raquel eisele, tyler brettnacher
 
 Notes* Michelle is putting together docs on a monthly basis
 
