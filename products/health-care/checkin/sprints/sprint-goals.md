@@ -64,7 +64,8 @@
     - ✔️ ❗🟩 [Staging Review finding: Inconsistent language around identity verification in "Check if your information is up to date" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89007)
     - ❗🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
     - ✔️ ❗🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
-    - ❗🟪 Schedule a 508 Audit
+    - ~❗🟪 Schedule a 508 Audit~
+        - Decided to wait until we release the Upcoming Appointments
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to complete this feature and schedule a Staging Review and an Infrasturcture, Security, & Readiness Review**
     - 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
