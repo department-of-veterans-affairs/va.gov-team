@@ -18,15 +18,16 @@ Last updated by @tygindraux: July 29, 2024
 
 - [ ] Start a thread in #feedback-backchannel
 - [ ] Sign into Perigean’s Zoom and start the meeting
+- [ ] Change name from 'Moderator' to your name
 - [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
 - [ ] Open conversation guide
-- [ ] Open staging
-- [ ] Open email or text (if any participant's ask for you to email or text testing links)
+- [ ] Open staging or have the link handy
 - [ ] Mute your Slack notifications
 
 ### Start of the session
 
 - [ ] Turn camera on
+- [ ] Let in accessibility specialist
 - [ ] If participant doesn’t arrive after 2 minutes, Slack Perigean in study channel
 - [ ] If participant is a no-show, Slack team in #feedback-backchannel
 
