@@ -69,13 +69,13 @@ There are two (potentially three) major components of work to address these prob
 - Updated confirmation page for the specific forms outlined for MVP (see above)
 - Updated name/heading for the Benefit Applications section
 - Status card in Benefit Applications (name TBD) section on My VA: submitted/pending, error, received
+- Download functionality on My VA (pending reusability from VFF work)
 - Updated copy for submitted/pending confirmation notification; stretch goal to include new notification for error (dependpent on VA Notify scheduling)
 
 **Out of Scope**
 - Changes to Central Mail
 - Conditional formatting of confirmation page with specific content for forms not tracked in the MVP forms submission status
 - Changes to the Claims and Appeals section on My VA
-- Download functionality (TBD, depends on technical feasibility)
 - Explainer text around which documents are part of MVP vs not
 
 ## User Outcomes
