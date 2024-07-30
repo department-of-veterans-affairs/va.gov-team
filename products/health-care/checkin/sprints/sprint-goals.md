@@ -47,10 +47,13 @@
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
     - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
+    - Schedule and Conduct hand-off to engineers
     - 🟩 TBD 
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to update wireframes based on Midpoint Review feedback and finish backend integration work**
+    - Schedule a meeting to decide the fate of the various detail pages based on modality
     - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
+    - Schedule and Conduct hand-off to engineers
     - 🟦 TBD - remaining work?
 - **Translations**
     - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
