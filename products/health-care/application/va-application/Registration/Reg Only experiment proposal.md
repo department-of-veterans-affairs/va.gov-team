@@ -16,7 +16,7 @@ Veterans do not have a pathway to register for VA health care online.
      - The Veteran will have the option to go back within the application and make a different selection to proceed through the application for VA health care enrollment
 
 ## Hypothesis
-
+- By providing the option to register, we believe ....
 
 ## Timetable
 - The experiment will run for 3 months (90 days)
@@ -30,7 +30,7 @@ Veterans do not have a pathway to register for VA health care online.
 | Total | x | x | x |
 
 ## Expected outcomes
-- There will not be a high interest in registering for specific VA health care online.
+- ...
 
 ## Next Steps
 - ...
