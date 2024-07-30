@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: June 6, 2024 - updates to Key Dates**
+**Last updated: July 30, 2024 - updates to scope**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -65,11 +65,9 @@ There are two (potentially three) major components of work to address these prob
 | 20-10207 | Priority Processing | Use this form to request that VA process your claim faster due to certain situations. One of these descriptions must be true: <br/>- You’re homeless or at risk of becoming homeless, **or** <br/>- You’re experiencing extreme financial hardship (such as loss of your job or a sudden decrease in income), **or** <br/>- You have ALS (amyotrophic lateral sclerosis), also known as Lou Gehrig’s disease, **or** <br/>- You have a terminal illness (a condition that can’t be treated), **or** -<br/>You have a Very Seriously Injured or Ill (VSI) or Seriously Injured or Ill (SI) status from the Defense Department (DOD) (this status means you have a disability from a military operation that will likely result in your discharge from the military),**or**or <br/>-You’re age 85 or older, or <br/>-You’re a former prisoner of war, **or** <br/>-You received the Medal of Honor or the Purple Heart award| |
 
 
-**In Scope & Functionality**
-VFF
-- Updated confirmation page for the specific forms outlined for MVP (see above)
+### **In Scope & Functionality**
 
-My VA
+**My VA**
 - Updated heading for the Benefit Applications section to "Benefit applications and forms"
 - Status cards in Benefit applications and forms section on My VA for the following statuses: submitted/pending (TBD), action needed, received
 - Accordion component for "why don't you see your form"
@@ -77,9 +75,17 @@ My VA
 - Display logic: cards appear for 60 days and then disappear, user does not have dismiss capability
 - Updated copy for submitted/pending confirmation notification; stretch goal to include new notification for error (dependpent on VA Notify scheduling)
 
-**Out of Scope**
+
+**VFF**
+- Updated confirmation page for the specific forms outlined for MVP (see above)
+
+### **Out of Scope**
 - Changes to Central Mail
-- On My VA: Changes to the Claims and Appeals section on My VA, definitions of statuses, or "what's next component"
+- On My VA:
+   - Changes to the Claims and Appeals section
+   - Definitions of statuses
+   - "what's next component"
+   - "onsite notification" element at the top of the page (will pursue for post-mvp)
 
 
 ## User Outcomes
