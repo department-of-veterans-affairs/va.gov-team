@@ -100,21 +100,21 @@ With this in place, we can use a GitHub Actions workflow like the following to a
 ```yaml
 name: Continuous Integration
 on:
-  // Run this workflow on pull requests targeting the `main` branch.
+  # Run this workflow on pull requests targeting the `main` branch.
   pull_request:
     branches:
       - main
-  // Also run this workflow manually, at the click of a button.
+  # Also run this workflow manually, at the click of a button.
   workflow_dispatch:
 
-// Explicitly grant this workflow permissions to access the id-token,
-// which is necessary to use OIDC authentication.
+# Explicitly grant this workflow permissions to access the id-token,
+# which is necessary to use OIDC authentication.
 permissions:
   id-token: write
   contents: read
 
 env:
-  // The role that this workflow wishes to assume.
+  # The role that this workflow wishes to assume.
   AWS_ROLE: "arn:aws-us-gov:iam::24524524532:role/project/project-checkin-devops-dev"
 
 jobs:
@@ -134,3 +134,13 @@ jobs:
 
       ...
 ```
+
+## References
+
+To see this approach in action, see:
+
+- [An IAM Policy and Role in Terraform for Vista API](https://github.com/department-of-veterans-affairs/checkin-devops/blob/main/terraform/modules/iam/octo-vista-api.tf) -- A role with Elastic Container Repository-specific permissions, assumable via OIDC
+- [An IAM Policy and Role in Terraform for System Tests](https://github.com/department-of-veterans-affairs/checkin-devops/blob/main/terraform/modules/iam/system-tests.tf) -- A role with broader read-only permissions and narrowly focused AppConfig-related permissions, assumable via OIDC
+- [A Composite GitHub Action for Post-Checkout Tasks](https://github.com/department-of-veterans-affairs/checkin-devops/blob/main/.github/actions/post-checkout/action.yml) -- Assumes the role passed to it, installs dependencies that span common workflow operations, and returns information useful to other workflows.
+- [A Composite GitHub Action for System Tests](https://github.com/department-of-veterans-affairs/checkin-devops/blob/main/.github/actions/system-tests/action.yml) -- Performed on self-hosted runners within a secure VPC, this needs to make VA TLS certificates available to our processes to ensure secure communication across network boundaries.
+- [A System Tests Workflow](https://github.com/department-of-veterans-affairs/checkin-devops/blob/main/.github/workflows/system-tests.yml) -- Gathers the essential information to plan system tests, including passing the role to assume into the composite action.
