@@ -172,7 +172,7 @@ Before you start, I'm going to share some context with you.
 
 This is a tool called Ask VA. It's a way for Veterans to contact the VA and ask a question online. For today's session, we're going to pretend like you're asking the VA a question about a recent experience you had a VA medical center. I can remind you of the scenario whenever you need me to.
 
-And as you navigate, we want to understand what's going through your mind and how your assistive technology is supporting you. I'm going to stay quiet, so you can focus on the task and what your `screen reader` is announcing.
+And as you navigate, we want to understand what's going through your mind and how your assistive technology is supporting you. I'm going to stay quiet, so you can focus on the task [and what your screen reader is announcing].
 
 But before you click a button or a link, it will be helpful for me if you pause, so we have some time to reflect on each page.
 
