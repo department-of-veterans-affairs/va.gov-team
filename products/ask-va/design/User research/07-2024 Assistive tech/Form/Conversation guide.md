@@ -247,7 +247,7 @@ Okay, great. You've signed in now. We'll pretend like this is your account...
 
 ## Form (40 minutes)
 
-Now, I'd like you to continue with asking the VA your question about a recent experience at a medical center.
+Now, I'd like you to ask the VA your question. In this scenario, your question is about a recent experience at a medical center.
 
 As you navigate, you can share things with me that are frustrating or not working as you would have expected. I'll be quiet as we observe you going through the form.
 
