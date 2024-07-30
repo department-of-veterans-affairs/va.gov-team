@@ -1,6 +1,8 @@
 # Forms Status on My VA MVP Frontend Documentation
 Last updated: outline and draft cards info added July 30, 2024
 
+This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: drafts, pending/submitted, action needed, submitted
+
 ## When to show the ‘Benefit applications and forms' section
 We show this section for every LOA3 user.
 
