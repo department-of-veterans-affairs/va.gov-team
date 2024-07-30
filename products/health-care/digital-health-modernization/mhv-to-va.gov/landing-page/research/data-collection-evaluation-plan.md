@@ -45,7 +45,7 @@ Data analysis will be conducted each sprint with highlights shared as part of th
 
 | **Tool** | **Team Members** |
 | --- | --- |
-| Google Analytics | Kat Brinkley, Florence McCafferty, Jonathan Nelson, Sara Sterkenburg, Wesley Rowe
+| Google Analytics | Florence McCafferty, Jonathan Nelson, Sara Sterkenburg, Wesley Rowe |
 | Medallia | Kat Brinkley, Florence McCafferty, Jonathan Nelson, Sara Sterkenburg |
-| Domo | Kat Brinkley, Wesley Rowe |
+| Domo | Wesley Rowe | Florence McCafferty |
 | Datadog | Kat Brinkley, Florence McCafferty, Jonathan Nelson, Sara Sterkenburg, Wesley Rowe |
