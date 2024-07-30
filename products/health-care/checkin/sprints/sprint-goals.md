@@ -43,7 +43,6 @@
     - 🟪 Schedule Staging Review
         - 🟩 Need Code Coverage link
         - 🟩 Need E2E tests link
-        - 🟥 Need Contact Center review ticket link for Product Guide
         - 🟪 Need TestRail reports links
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
