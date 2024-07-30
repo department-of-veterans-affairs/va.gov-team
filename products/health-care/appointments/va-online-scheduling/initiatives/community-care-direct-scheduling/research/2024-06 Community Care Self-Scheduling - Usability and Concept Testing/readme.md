@@ -7,6 +7,10 @@
 - [Observer notes and synthesis (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718727222960/a839ed3ac2d0f2e6ab129931288a0de8ea8e8d12)
 - [Download the Participant Responses Quantitative Tracker.xlsx](https://github.com/user-attachments/files/16428863/CC.Participant.Quantitative.Tracker.xlsx)
 
+### Other artifacts
+
+- [Observer Sign-up Slack Canvas](https://dsva.slack.com/docs/T03FECE8V/F078M3C58N8)
+
 ## Who we spoke to
 
 <img width="780" alt="Screenshot 2024-07-30 at 9 34 34 AM" src="https://github.com/user-attachments/assets/d2fa0229-eab2-4b5c-8e41-927e28f97e60">
