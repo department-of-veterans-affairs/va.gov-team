@@ -23,12 +23,20 @@
 ## Timetable
 - The experiment will run for 3 months (90 days)
 
-|Timeblock|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to print 10-10EZ form|
-|---------|---------------|----------|---------------|---------------|
-|Month 1| x | x | x | x |
-|Month 2| x | x | x | x |
-|Month 3| x | x | x | x |
-| Total | x | x | x | x |
+### Targets
+|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to print 10-10EZ form|
+|---------|---------------|-------------|----------|---------------|---------------|----------|
+| Monthly Average | x | x | x | x |x | x |
+| 3-month Total | x | x | x | x |x | x |
+
+### Results
+|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to print 10-10EZ form|
+|---------|---------------|----------------|----------|---------------|---------------|----------|
+|Month 1| x | x | x | x |x | x |
+|Month 2| x | x | x | x |x | x |
+|Month 3| x | x | x | x |x | x |
+| Monthly Average | x | x | x | x |x | x |
+| 3-month Total | x | x | x | x |x | x |
 
 ## Conclusion
 - ...
