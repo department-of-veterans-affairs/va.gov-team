@@ -221,7 +221,7 @@ Approvals & to do's for launch:
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
-- Length of time: 2 days
+- Length of time: 2 days (Aug 15-16)
 - Percentage of Users (and roughly how many users do you expect this to be): 5% of users, ~106 submissions
 
 #### Results
@@ -250,7 +250,7 @@ Other considerations:
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
-- Length of time: 4 days
+- Length of time: 4 days (Aug 20-23)
 - Percentage of Users (and roughly how many users do you expect this to be): 10% of users, ~428 submissions
 
 #### Results
@@ -267,7 +267,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 4 days
+- Length of time: 4 days (Aug 27-30)
 - Percentage of Users (and roughly how many users do you expect this to be): 25%, 1071 submissions
 
 #### Results
@@ -284,7 +284,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days (Sept. 3-4)
 - Percentage of Users (and roughly how many users do you expect this to be): 50%, 1071 submissions
 
 #### Results
@@ -299,7 +299,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days (Sept. 5-6)
 - Percentage of Users (and roughly how many users do you expect this to be): 75%, 1605 submissions
 
 #### Results
@@ -314,7 +314,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days (Sep 10-11)
 - Percentage of Users (and roughly how many users do you expect this to be): 100%, 2141 submissions
 
 #### Results
