@@ -36,9 +36,9 @@ Make any requested changes and update in sharepoint. They will typically look th
 |12/15/23|3.0|[#59295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59295)|Disability Experience Team 1|Reformat with new template|
 |4/17/24|3.1|[#81747](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81747)|Employee Experience Team|Max Claims for Increase (CFI)|
 |5/1/24|3.2|[#82085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82085)|Disability Experience Team 2|Post-Submission Failure Emails|
-|6/3/24|3.3|[#84315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84315)|Conditions Team|mprove conditions submission page|
+|6/3/24|3.3|[#84315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84315)|Conditions Team|Improve conditions submission page|
 |7/18/24|3.4|[#88765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88765)|Disability Experience Team 2|Post-Submission Failure Email|
-|7/26/24|4.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure|
+|7/26/24|4.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure<br>2022 Version|
 
 ## 526 BDD Product Guide Ticket History
 |Date|Version|Ticket|Author|Feature Name|
@@ -46,5 +46,5 @@ Make any requested changes and update in sharepoint. They will typically look th
 |Unknown|1.0|||Initial Version|
 |6/1/23|2.0|[#59016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59016)|Disability Experience Team 1|BDD SHA|
 |7/18/24|2.1|[#88767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88767)|Disability Experience Team 2|Post-Submission Failure Email|
-|7/26/24|3.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure|
+|7/26/24|3.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure<br>2022 Version|
 
