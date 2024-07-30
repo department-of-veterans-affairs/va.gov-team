@@ -29,8 +29,8 @@ A link to a new BTSSS online mileage-only travel reimbursement claim form will b
 
 ## Specifications
 
-[User flow]() - TBD
-[Wireframes]() - TBD
+- [User flow]() - TBD
+- [Wireframes]() - TBD
 
 ## Alerts and conditional states
 <!-- Any alerts that could display for this feature and what triggers them. -->
