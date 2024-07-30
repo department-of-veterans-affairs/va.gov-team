@@ -308,7 +308,9 @@ As you navigate, you can share things with me that are frustrating or not workin
 
 ## Cool down (10 minutes)
 
-Awesome. We've completed the form (or we're getting close to the end of our session, so let's stop here).
+[You can stop sharing your screen now if you'd like to.]
+
+Awesome. We've completed the form [or we're getting close to the end of our session, so let's stop here].
 
 Let's spend the last 10 minutes reflecting on that experience.
 
