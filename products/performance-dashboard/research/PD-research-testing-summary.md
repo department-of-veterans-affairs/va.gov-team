@@ -1,4 +1,4 @@
-Performance Dashboard Design Decisions Summary
+# Performance Dashboard Design Decisions Summary
 
 Jul 5, 2024
 
