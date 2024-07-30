@@ -3,6 +3,27 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
+<summary>SPRINT 14 - 8/21/2024-9/3/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 13 - 8/7/2024-8/20/2024
+- **Production Support**
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
+- **Medication Wording for Appointments - Pre-Check-in**
+    - **Sprint Goal is to address launch blockers from Staging Review & release the feature**
+    - TBD
+- **Travel Claim Submission from Past Appts - Web**
+    - **Sprint Goal TBD**
+    - TBD
+- **Upcoming VAOS Appointments**
+    - **Sprint Goal TBD**    
+- **CIE Analytics**
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76037)
+    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89592)
+- **Tech Debt**
+    - TBD
+</details>
+
+<details>
 <summary>SPRINT 13 - 8/7/2024-8/20/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 13 - 8/7/2024-8/20/2024
