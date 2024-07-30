@@ -146,6 +146,7 @@ body:
     id: cms
     attributes:
       label: Will a VA editor (Drupal) notice this change?
+      description: A VA editor creates content that informs the public about VA facilities - operating hours, services offered at specific locations - or else public content that describes benefits and procedures for applying for them.
       options:
         - "Yes"
         - "No"
