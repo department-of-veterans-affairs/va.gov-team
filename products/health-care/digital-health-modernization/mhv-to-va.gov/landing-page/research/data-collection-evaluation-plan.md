@@ -6,6 +6,14 @@
 
 This evaluation plan outlines how the Cartography team will measure and track the My HealtheVet transition to VA.gov. The plan focuses on analyzing Veterans' usage of the MHV landing page and other key transition metrics to gauge the success of the migration.
 
+This plan includes:
+
+- User needs or problems that we are currently trying to meet on the landing page
+- Questions we have about whether or not we are successful in the ways we’re solving these problems
+- The metrics we’re collecting to answer those questions
+
+
+
 ### **Objectives**
 
 - Facilitate Veterans' transition to the new MHV landing page & features to complete health-related actions 
