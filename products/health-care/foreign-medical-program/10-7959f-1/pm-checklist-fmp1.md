@@ -104,8 +104,8 @@
 - [x] Update any FE and/or BE Engineering documentation
 - [x] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] **Update Contact Center guide**
-- [ ] **Coordinate with IVC Contact Center**
-- [ ] **Submit Contact Center guide review ticket**
+     - [ ] **Coordinate with IVC Contact Center**
+      - [ ] **Submit Contact Center guide review ticket**
 - [ ] **Update Release Plan**
      - [ ] **Include E2E test results & signoff**
 - [ ] Schedule or close all remaining tickets
@@ -113,7 +113,7 @@
 - [ ] **Coordinate with CAIA**
      - [ ] confirmation email review [ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/89338)
      - [ ] react widget [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88012#issuecomment-2256789193)
-- [ ] **Coordinate with VA Notify**
+     - [ ] **Coordinate with VA Notify**
 - [ ] **Conduct Launch Go/No Go with the team**
      - [ ] **Review this checklist**
      - [ ] **Review Release Plan**
