@@ -126,6 +126,18 @@ Today, while Veterans can file disability compensation for conditions believed t
 
 </details>
 
+#### Incident Response
+[Incident Response SOP](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)
+
+- Team 1 Tech Lead, Aurora Hampton
+- Team 1 Design Lead, Mike Eng
+- Team 1 Product Manager, Jared Pace
+- Team 1 Delivery Manager, Sarah Knopp
+- OCTO PO, Emily Theis
+- OCTO Design and Research Lead, Shannon Ford
+- OCTO Engineering Lead, Sam Wiley
+- VBA Senior Automation Strategist, David Reis
+- Lighthouse / Benefits Claims API Product Manager, Kayla Watanabe
 
 #### Stakeholders
 *What offices/departments are critical to make this initiative successful?*
