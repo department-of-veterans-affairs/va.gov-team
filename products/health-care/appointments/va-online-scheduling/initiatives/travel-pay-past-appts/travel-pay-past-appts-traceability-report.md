@@ -1,4 +1,4 @@
-# Traceability Report - Travel Reimbursement Claims for Past Appointments 
+# QA - Travel Reimbursement Claims for Past Appointments 
 
 ## Functional Testing
 - [Travel - Past Appointments Web - Test Plan](https://dsvavsp.testrail.io/index.php?/plans/view/5766)
