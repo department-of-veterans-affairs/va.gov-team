@@ -5,8 +5,10 @@
 **Toxic Exposure**
 - 1.0 Launch Prep (Product/UX testing, Perform PSIRR, Perform Staging Review, Moderated Prod Testing, UAT)
 - Review Medalia survey data
+
 **Paper Form Sync**
 - TBD (need to align w OCTO)
+
 **Submission Experience**
 - Adjust the design for Timely & Truthful based on research findings
 - Incorporate research findings into Submission Record and Tracking
