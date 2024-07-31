@@ -7,11 +7,10 @@ There are several different 'profiles' users can edit across the various VA plat
 During our research into the Prefill Form Data pattern, we discovered that users may find outdated profile data that has been prefilled and want to correct it, so as part of this pattern we will aim to provide an easy way to update that profile data when completing a prefilled form. 
 
 ## Hypothesis
-
-We believe that creating improved personal profile maintenance interfaces, including guidance, example code, and design resources, will:
+This pattern will tie in closely with the prefill form pattern and knowing where and how to update out of date information when forms are prefilled. We believe that creating improved personal profile maintenance interfaces will:
+- Improve and maintain data quality within user profiles
 - Promote consistency in how profile data is updated across VA platforms
 - Reduce cognitive load and friction when updating their profile data
-- Ensure Veterans have accurate data stored in their VA profiles
 
 
 ## Discovery
@@ -28,6 +27,11 @@ We believe that creating improved personal profile maintenance interfaces, inclu
  
 ### What're you building
 
+We believe this pattern may consist of:
+- consistent presentation of profile fields across all VA products
+- directions to update profile data
+- page-level alerts
+- inline alerts
 
 
 --- 
