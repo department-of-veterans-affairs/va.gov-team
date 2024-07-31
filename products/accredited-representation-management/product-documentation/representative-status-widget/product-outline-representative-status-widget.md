@@ -52,7 +52,7 @@ When the Appoint a Representative product launches, the Representative Status Wi
 
 We are also partnering with the Profile and MyVA teams to include a version of the representative status information that better matches existing design patterns.
 
-Longer term ideas for Find a Representative are stored in our [ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+Longer term ideas for the Representative Status Widget are stored in our [ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
 
 #### Communications
 
