@@ -126,6 +126,9 @@ Today, while Veterans can file disability compensation for conditions believed t
 
 </details>
 
+### Architectural Details
+[Architecture diagram](https://lucid.app/lucidchart/645d8a16-22de-4971-9626-198da0483430/edit?invitationId=inv_f335ce12-6583-4396-8892-0c33e67c8b9e&page=S.QYMIEDG_Hk#)
+
 #### Incident Response
 [Incident Response SOP](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)
 
