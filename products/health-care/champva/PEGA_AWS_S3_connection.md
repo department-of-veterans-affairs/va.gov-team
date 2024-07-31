@@ -75,8 +75,11 @@ Postman installed on your computer.
 7.  Add the following headers:
 Authorization: This will be the AWS Signature Version 4. This is a bit technical to generate manually, so we'll use Postman's pre-request script feature to automate it.
 Content-Type: The MIME type of the file you're uploading (e.g., image/jpeg for a JPEG image, application/pdf for a PDF file).
-8.
-
+8.  Add the File to the Request Body. Click on the Body tab. Select binary. Click Select File and choose the file you want to upload from your computer.
+9.  Generate Authorization Header Using Pre-request Script
+10.  Click on the Pre-request Script tab.
+11.  Copy and paste the following script to generate the AWS Signature Version 4:
+12.  
 
 # (Optional) Connecting to S3 via the AWS Management Console
 
