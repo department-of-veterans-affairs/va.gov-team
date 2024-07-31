@@ -37,9 +37,6 @@ This evaluation plan outlines how the Cartography team will measure and track re
 | Access to help | How many Veterans call the My HealtheVet help desk when they need support?| Help desk | ---- | --- |
 | Ease of use | Do we have latency or other data loading issues? | ---- | Page load times | ---- | ----- | 
 
-## **Data Analysis Cadence**
-
-Data analysis will be conducted each sprint with highlights shared as part of the update at the End of Sprint Demo with more comprehensive reporting done as requested.
 
 ## **Data Source Point People**
 
