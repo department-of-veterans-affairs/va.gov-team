@@ -2,7 +2,7 @@
 
 As a Veteran, I want to easily edit my profile, so I can keep my profile up to date.
 
-There are several different 'profiles' users can edit across the various VA platforms and products. We aim to conduct research into these, document the gaps between them and propose a path to unification and consistency. For example, there exists an 'Emergency Contact' section within the profile on one platform, but this data is not stored in other VA profiles. 
+There are several different 'profiles' users can edit across the various VA platforms and products, with the main profile found at va.gov/profile. We aim to conduct research into these, document the gaps between them and propose a path to unification and consistency. For example, there exists an 'Emergency Contact' section within the profile on one platform, but this data is not stored in other VA profiles. 
 
 During our research into the Prefill Form Data pattern, we discovered that users may find outdated profile data that has been prefilled and want to correct it, so as part of this pattern we will aim to provide an easy way to update that profile data when completing a prefilled form. 
 
@@ -15,7 +15,7 @@ This pattern will tie in closely with the prefill form pattern and knowing where
 
 ## Discovery
 
-Current profile fields, where they originate, if they are editable and other relevant information.
+During our [discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/engineering/%2337-discover-current-profile-patterns-and-data.md) we documented the current profile fields, where they originate, if they are editable and other relevant information.
 
 | Field                                               | Origin            | Editable | Notes                                                             |
 | --------------------------------------------------- | ----------------- | -------- | ----------------------------------------------------------------- |
