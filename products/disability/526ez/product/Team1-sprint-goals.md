@@ -1,11 +1,21 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+### Sprint 3
+7/31 - 8/13
+**Toxic Exposure**
+* 1.0 Launch Prep (Product/UX testing, Perform PSIRR, Perform Staging Review, Moderated Prod Testing, UAT)
+**Paper Form Sync**
+* TBD
+ **Submission Experience**
+* Adjust the design for Timely & Truthful based on research findings
+* Incorporate research findings into Submission Record and Tracking
+
 ## Sprint 2
 Period - 07/17/2024 - 07/30/2024
 * **Toxic Exposure**
   * Validation, testing, and submit for Staging Review
 * **Paper Form Sync**
-  * Begin implementation Claim Certification behind feature flag - stretch goal
+  * Begin implementation Claim Certification - stretch goal
 * **Submission Experience**
   * Synthesize insights from Timely & Truthful research study
 
