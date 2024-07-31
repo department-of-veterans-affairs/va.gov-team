@@ -28,6 +28,7 @@ https://depo-platform-documentation.scrollhelp.site/developer-docs/base-setup-ve
 
 
 1. After you have vets-api set up locally, you need to modify the file ```config/settings.yml``` with the IDE of your choice. Since we are mostly Ruby software developers, we use Visual Studio Code.
+
 2. In the file ```config/settings.yml```, navigate to
   ``` ivc_forms:
     s3:
@@ -36,15 +37,29 @@ https://depo-platform-documentation.scrollhelp.site/developer-docs/base-setup-ve
     bucket: "bucket"
     enabled: true
     region: "region"  ```
+3. Important: DO NOT Commit the ``` config/settings.yml``` into Github. This is only for local testing.
+
+4. Example:
+```ivc_forms:
+  s3:
+    aws_access_key_id: AKDKOKWJJO2KALDFJALSDF;AKDFJ
+    aws_secret_access_key: D92iK1eokda9i2i4urIDV92l2iduuhnc
+    bucket: "staging-bucket"
+    enabled: true
+    region: "us-gov-bucket" ```
+
+5. To migrate to staging and production, you will have to modify the environoment files. Contact the platform team via Slack and create a request to modify the staging and production .yml environment files.
 
 
 
 
 
-Sign in to the AWS Management Console
+# (Optional) Connecting to S3 via the AWS Management Console
+
+1. Sign in to the AWS Management Console
 Open your web browser and go to the AWS Management Console.
 Enter your AWS account credentials (email and password) to log in.
-Step 2: Navigate to S3 Service
+2. Navigate to S3 Service
 Once logged in, you will see the AWS Management Console homepage.
 In the search bar at the top, type "S3" and select "S3" from the dropdown menu.
 Step 3: Locate Your S3 Bucket
