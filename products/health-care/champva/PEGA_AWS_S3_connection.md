@@ -73,13 +73,15 @@ Postman installed on your computer.
 5.  Enter the following URL format into the URL field: https://[bucket-name].s3.amazonaws.com/[file-name]. Replace [bucket-name] with your actual S3 bucket name and [file-name] with the name of the file you want to upload.
 6.  Click on the Headers tab below the URL field.
 7.  Add the following headers:
-Authorization: This will be the AWS Signature Version 4. This is a bit technical to generate manually, so we'll use Postman's pre-request script feature to automate it.
+Authorization: This will be the AWS Signature Version 4 or manually entering the authorization into postman. This is a bit technical to generate manually, so we'll use Postman's pre-request script feature to automate it.
 Content-Type: The MIME type of the file you're uploading (e.g., image/jpeg for a JPEG image, application/pdf for a PDF file).
 8.  Add the File to the Request Body. Click on the Body tab. Select binary. Click Select File and choose the file you want to upload from your computer.
 9.  Generate Authorization Header Using Pre-request Script
 10.  Click on the Pre-request Script tab.
 11.  Copy and paste the following script to generate the AWS Signature Version 4:
-12.  
+12.  ![image](images/aws_signature.png)
+13.  Or you can enter the authorization manually
+![image](images/aws_authorization.png)
 
 # (Optional) Connecting to S3 via the AWS Management Console
 
