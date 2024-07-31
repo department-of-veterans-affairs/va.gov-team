@@ -8,7 +8,7 @@
 - Review Medalia survey data
 
 **Paper Form Sync**
-- TBD (need to align w OCTO)
+- Temp on hold
 
 **Submission Experience**
 - Adjust the design for Timely & Truthful based on research findings
