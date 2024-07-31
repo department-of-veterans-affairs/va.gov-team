@@ -80,12 +80,21 @@ Today, while Veterans can file disability compensation for conditions believed t
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
 - [Kickoff ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/7?pane=issue&itemId=66471236)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+
+|Phase|Date(s)|Status|
+|-----|-----|-----|
+|Development complete|Aug 2, 2024|In Progress|
+|Submit for PSIRR|Aug 2, 2024|Not started|
+|Submit Staging Review|Aug 5, 2024|Not started|
+|Possible PACT-related surges|Aug 7 - Aug 14|Not started|
+|Staging Review|Aug 8, 2024|Not started|
+|Moderated production testing|Aug 9, 2024|Not started|
+|Go/no go meeting|Aug 14, 2024|Not started|
+|Canary 5% rollout|Aug 15, 2024|Not started|
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
 
