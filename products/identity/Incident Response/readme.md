@@ -13,6 +13,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 * Incident Management process
 * Outage Communication strategies for Veterans and other VA.gov teams.
 * System recovery plan.
+  * This an ATO requirement.
 * Internal reporting on incidents.
 
 ## Relevant Documents:
@@ -41,6 +42,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 * [System Recovery Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/System%20Recovery%20Process.md)
 * [Internal Reporting on Incidents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Internal%20Reporting.md)
 
+
 ### For these areas of responsibility:
 **Directly Responsible**
 - Unified Sign-in Page (USiP)
@@ -54,6 +56,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 
   
 ## Out of Scope: (for this iteration)
+As per Samara:
 * Status Page
 * Planned Outage Communications
 
