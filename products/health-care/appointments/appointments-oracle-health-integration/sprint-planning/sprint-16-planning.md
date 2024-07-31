@@ -29,7 +29,7 @@ In Sprint 15, the team provided support for multiple features and initiatives, o
    *  Updated Clinical Encounter Service (CES) to enable and support rule for Vista appointment type validation
    *  Updated CES to implement caching for config-service calls. Config services values rarely change, so to decrease response time CES now implements an in memory cache of that data.
 * ### Testing/Admin/Operational Support
-   * Created an implemenation guide for clients to use for integration with Clincial Encounter Service 
+   * Created an implementation guide for clients to use for integration with Clinical Encounter Service
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
