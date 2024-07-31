@@ -19,28 +19,23 @@
 
 <details>
 
-- Project epic #
-- [Product outline]
-- Whiteboard sketch or other lo-fi prototypes or wireframes
-- User flows
-- Research plan 
-- Conversation guide
-- North Star and KPIs for the product
+- [Project epic](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/74178)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/10-7959f-1%20product%20outline.md)
+- [Designs](https://www.figma.com/design/PzB1F5TYuBK5KQgPbuhAwH?fuid=1327362173304198026&prev-plan-id=1327362175468449563&prev-plan-type=team&prev-selected-view=recentsAndSharing&prev-tab=recently-viewed)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/conversation-guide.md)
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
-     - va.gov/
-- Use cases
-- Finalized design prototype or mockup
-- Regression test plans
+     - [va.gov/](https://staging.va.gov/health-care/foreign-medical-program/register-form-10-7959f-1/)
 - TestRail 
-     - Test cases
-     - Test plans
-- Accessibility Testing ticket
+     - [Test cases](https://dsvavsp.testrail.io/index.php?/suites/view/2993&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
+     - [Test plans](https://dsvavsp.testrail.io/index.php?/runs/overview/77)
+- Accessibility Testing ticket: to come
 - Technical diagrams (architecture diagram, sequence diagram)
 - Any new publicly-exposed endpoints
 - Any new interactions with dependent VA backends
-- Release plan
-- Product guide for contact center
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/fmp-registration-release-plan.md)
+- Product guide for contact center: draft to be added
 
 </details>
      
@@ -49,16 +44,16 @@
 <details>
 
 
-- [ ] Discovery
+- [x] Discovery
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
 - [x] Create Epic to identify the problem and solution
-- [ ] Create corresponding stories to align with the work needed (start with this list!)
+- [x] Create corresponding stories to align with the work needed (start with this list!)
 - [x] Initial design
      - [x] Lo-Fi design ideas
      - [x] Presentation and agreement with the team on direction
           - [x] Confirm Frontend and Backend efforts
-     - [ ] Presentation to Stakeholders and downstream system representatives
+     - [x] Presentation to Stakeholders and downstream system representatives
 - [x] Submit Collaboration Cycle request ticket
 - [x] Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket
      - [x] Present design and obtain feedback
@@ -83,7 +78,7 @@
      - [x] Present to team for validation
      - [x] Present to Stakeholders for validation
 - [ ] **Engage downstream system team for End-to-End QA coordination**
-     - [ ] **Create E2E use cases and document results**
+     - [x] Create E2E use cases and document results
      - [ ] **Obtain signoff from downstream system team**
 - [ ] **Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Complete QA and Accessibility QA
