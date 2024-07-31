@@ -42,14 +42,6 @@ During our [discovery](https://github.com/department-of-veterans-affairs/va.gov-
 
 ### Assumptions/Risks
 
-- **Value Risks** (will people use it): 
-  - .
-- **Usability Risks** (can people figure out how to use it):
-  - .
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - .  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - .
  
 ### What're you building
 
