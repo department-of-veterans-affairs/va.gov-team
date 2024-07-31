@@ -35,7 +35,7 @@
 - TestRail 
      - [Test cases](https://dsvavsp.testrail.io/index.php?/suites/view/2993&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
      - [Test plans](https://dsvavsp.testrail.io/index.php?/runs/overview/77)
-- Accessibility Testing ticket: to come
+- Accessibility Testing [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89740)
 - Technical diagrams (architecture diagram, sequence diagram)
 - Any new publicly-exposed endpoints
 - Any new interactions with dependent VA backends
