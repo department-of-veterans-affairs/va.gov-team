@@ -12,10 +12,12 @@
 * CeeCee : Update timeline for phased approach to review with team
 * Tyler & Chris: Sync up around Dashboard.
 
-### Proposed new Agenda for Tuesday July 30th: 
-* Review Timeline for potential phases approaches
-* Discuss UAT 
-* Testing Users (Joe): 119 Add Classic AVA /CRM to profile 
+### Proposed new Agenda for Thursday August 1st: 
+* Discuss UAT - Review Timeline for potential phases approaches
+* Testing Users (Joe): 119 Add Classic AVA /CRM to profile
+* Are we tracking the response time from the Queues
+* What Metrics is CRM Capturing to date for VA.Gov or would like to capture (outside of PowerBI)?
+	* benchmarking for the use of the form etc
 
 ### Notes:
 ### Rollback & Release Planning:
