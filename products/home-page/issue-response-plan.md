@@ -9,9 +9,8 @@ The purpose of this document is to provide a broad view of the systems and teams
 
 ## People, Roles, and Responsibilities
 |Team | POC| 
-|---|---|---|
-[#sitewide-homepage-refresh](https://dsva.slack.com/archives/C03NSH4SLQY) | Michelle Middaugh VA OCTODE Lead 
-[#sitewide-public-websites](https://dsva.slack.com/archives/C52CL1PKQ) | Michelle Middaugh  VA OCTODE Lead | Jill Adams (@Jill Adams), Delivery Manager 
+|---|---|
+[#sitewide-public-websites](https://dsva.slack.com/archives/C52CL1PKQ) | Michelle Middaugh,  VA OCTODE Lead / Jill Adams (@Jill Adams), Delivery Manager 
 [#cms-platform](https://dsva.slack.com/archives/C02HX4AQZ33) | Erika Washburn, VA OCTODE Lead | 
 [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)  | POC rotates 
 
