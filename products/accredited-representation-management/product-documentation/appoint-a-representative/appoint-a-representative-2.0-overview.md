@@ -7,12 +7,6 @@ Version 2.0 is focused on the digital submission of 21-22:
 2. Available for VSOs that accept online requests for representation
 
 🚧 This experience is currently in the design/research phase, and not yet available on VA.gov.
-
-
-The digital submission feature will include:
-1. 
-    3. Notifications (partner with VA Notify)
-       1. Digital submission confirmation
        
 #### Appoint a Representative
 1. Form Intro
@@ -49,4 +43,4 @@ The digital submission feature will include:
 7. Download
 8. Next Steps
    1. An email notification is triggered to reiterate next steps (partner with VA Notify)
-   2. An email notification is triggered to confirm digital submission of the 21-22 🆕
+   2. An email notification is triggered to confirm digital submission of the 21-22 (partner with VA Notify) 🆕
