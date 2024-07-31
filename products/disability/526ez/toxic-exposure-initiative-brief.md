@@ -35,10 +35,18 @@ Today, while Veterans can file disability compensation for conditions believed t
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+| Product KPI                                                 | Baseline  | Target                                        | Data Source                                                  |
+|-------------------------------------------------------------|-----------|-----------------------------------------------|--------------------------------------------------------------|
+| Bring online 526 form up to date with 2022 paper form       | 40 months | Within 6 mo.                                  | [VA.gov OMB expiry date](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction)                                                             |
+| Maintain or reduce abandonment rates                        | 24%       | ≤ 24%                                         | [Domo](https://va-gov.domo.com/page/447193050/kpis/details/1994399128?pfilters=%5B%7B%22column%22:%22form_name%22,%22operand%22:%22IN%22,%22values%22:%5B%22Form%2021-526EZ%20-%20Original%20Disability%20Claim%22%5D,%22dataType%22:%22string%22,%22affectedCardUrns%22:%5B%5D,%22label%22:%22form_name%22,%22key%22:%22form_name:%22,%22dataSourceId%22:%22e83cb7cf-0e3d-4699-89b3-761589681307%22%7D%5D) |
+| Successfully migrate 526 submission infrastructure off EVSS | No       | Yes                                      | [LH Submit success](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/yux-sxc-qai) |
+| Reduce or maintain existing submission errors               | 0.62%     | ≤ 0.62%                                       | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
+| Maintain % of submissions that use normal path              | 99.38%    | 99.38% (inferred from % of submission errors) | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
+| Maintain or reduce uses of backup and failsafe path         |           |                                               | Pending Backup Path monitoring                               |
+|                                                             |           |                                               |                                                              |
+
+
 
 ---
 
@@ -48,21 +56,22 @@ Today, while Veterans can file disability compensation for conditions believed t
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - We believe Veterans find value in being able to file disability claims online, especially as their condition relates to the PACT Act.
+  - We believe Veterans find value in being able to file disability claims online, especially as their condition relates to the PACT Act. From January to June 2024 40% of traffic came from a PACT Act campaign (ar_pact_fy23) 
 - **Usability Risks** (can people figure out how to use it):
-  - We believe that by leveraging UX research, design, VA.gov design system standards, predefined UI components, and governance checkpoints such as CAIA, and Collab Cycle that we are building a solution that is usable.
+  - We believe that by leveraging UX research, design, VA.gov design system standards, predefined UI components, and governance checkpoints such as CAIA, and Collab Cycle that the solution is usable.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
     - The core functionality is similar to how the 21-526ez digital form is already built today
     - This solution will also be built natively using the Lighthouse API for more performant and future-proof functionality
-  
+    - Feature flags enable a staged rollout to mitigate any potential negative impacts to Veterans and VA.
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
- Yes. We believe there will be a posititve organizational impact. In addition to bringing the digital 526 form into closer compliance with the paper version of the form, this feature also fulfills the intent of the PACT Act while broading access.
+ Yes. We believe there will be a posititve organizational impact. In addition to bringing the digital 526 form into closer compliance with the paper version of the form, this feature also fulfills the intent of the PACT Act while improving access.
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
-- There are two use cases that we are considering for this release. For each, we plan to follow an incremental release strategy using established traffic percentages to route Veterans to the 526 form. We plan to use Flipper to control availabity for each use case. In the 2019 form version, the toxic exposure section is not available to the Veteran. In 2022 form version, the toxic exposure section is available to the Veteran.
+- There are two use cases that we are considering for this release. Veterans who start a new 526 form online will be able claim service-connected conditions that they believe are related to toxic exposure. Veterans who begin a new form will be directed to the toxic exposure pages that are conditionally displayed based on their form responses. Veterans who are continuing a form they started previously (an In Progress Form or IPF) will also be able to claim service-connected conditions that they believe are related to toxic exposure. These Veterans will see an alert on the Review & Submit page alerting them about the new toxic exposure questions and will be provided with a link that navigates their browser to the toxic exposure pages in the 526 form. This solution will also cover other claim types such as Benefits Disability at Discharge (BDD), Fully Developed Claim (FDC), and accepts submissions where either the Veteran doesn't know or isn't sure about their dates of service.
+
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -73,16 +82,16 @@ Today, while Veterans can file disability compensation for conditions believed t
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/7?pane=issue&itemId=66471236)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - August 15th
 - *Actual Launch Date* 
   - tbd
 
@@ -111,6 +120,7 @@ Today, while Veterans can file disability compensation for conditions believed t
 
 #### Stakeholders
 *What offices/departments are critical to make this initiative successful?*
+OCTO, VBA
 
 <details>
   
