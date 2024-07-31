@@ -35,7 +35,7 @@
 - Release Team: QA and Release
 - FE Engineering - Jon Bindbeutel ; Tim Wright
 - Release Tester for QA - Tom Gammons
-- VA PO - Rachel Han, Ryan Thurwell
+- VA PO - Rachel Han, Ryan Thurwell, Don McCaughey
 
 ## Step 1: A Github release ticket is generated and sent to Release Owner via email
 1 .) The current owner of the process will receive an email indicating a ticket has been generated for the release
@@ -175,16 +175,12 @@ Example of Email notification:
 - Once PM is approved then click that check box on the ticket
 - Check in with Binny on his step 
 
-## Step 5:  Request VA PO approval in Slack
-- Verify the ticket is fully updated before reaching out to POs
-- Ensure all tickets in the release are closed by now - can see this on the Release Report
-- Ensure Binny has signed off on all 
-- This must be done on the day of their due date. They cannot sign off  early due to system automation issues 
+## Step 5:  Release Manager approves the release 
+- Verify the ticket is fully updated before approving 
+- This must be done on the day of their due date. They cannot sign off  early due to system automation issues
+- Once Release Manager approves then post that it has been approved in the DVSA va-mobile-app channel 
 - In the Release Thread in DVSA va-mobile-app channel post something like
-   Hello @ VA PO , this release is ready for your sign off. If you have any questions please let me know.
-   The release contains bug fixes and general updates, no new feature delivery. CC: @ Release PM backup
-  <img width="465" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/87f12f69-b889-4d61-b45c-0e3d03036dfb">
-- VA PM will approve it in a way the system will systematically kick off the release build and process ( the /approve “v” must be lower case to kick of the PR). If they put the wrong characters/spacing it will not allow the release to kickoff
+- Approval command will systematically kick off the release build and process ( the /approve “v” must be lower case to kick of the PR). If they put the wrong characters/spacing it will not allow the release to kickoff
   <img width="424" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/d39d833b-b39a-41f3-aaf5-86196bb2a006">
 
 
