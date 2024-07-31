@@ -35,6 +35,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 
 **Other Docs**
 - [Refinement (May 24, 2024)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Refinement.md)
+- [Datadog Incident Management]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md)
 
 
 ## What's In Scope: 
