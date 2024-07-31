@@ -4,22 +4,12 @@
 
 This evaluation plan outlines how the Cartography team will measure and track real-world use of products under the Cartography team umbrella: MHV home and secondary navigation. The plan focuses on analyzing Veterans' usage of the MHV landing page and other key transition metrics to gauge the success of the migration.
 
-This plan includes:
-
-- User needs or problems that we are currently trying to meet on the landing page
-- Questions we have about whether or not we are successful in the ways we’re solving these problems
-- The metrics we’re collecting to answer those questions
-
 ### **Objectives**
 
-- Facilitate Veterans' transition to the new MHV landing page & features to complete health-related actions 
-
-### **Key Results**
-
-- Increased product use
-- Increased product Veteran feedback
-- Decreased negative Veteran feedback
-
+- Surface clues for what MHV users are finding most and least valuable and/or usable on the MHV home page and within the portal
+- Measure and track voluntary adoption of MHV on VA.gov
+- Understand what else MHV users are doing on VA.gov
+  
 ## **KPIs**
 
 **Must have**
