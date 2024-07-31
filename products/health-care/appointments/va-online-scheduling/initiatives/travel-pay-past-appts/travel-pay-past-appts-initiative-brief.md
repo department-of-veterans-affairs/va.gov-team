@@ -70,7 +70,10 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
 - Veteran chooses to file a BT claim for the selected appointment
     - Appointment will only have the option to file if the following criteria are met
         - Appointment occured before today and within the last 30 days
-        - Appointment is one of the in-person appointment types
+        - Appointment is one of these in-person appointment types
+            - In-person appointment
+            - In-person vaccine appointment
+            - Video at a VA facility appointment
         - No BT claim has been filed for the Veteran for the same day and same facility as the selected appointment
 - System navigates the Veteran to the new online mileage-only BT claim form
     - NOTE: System passes the Veteran's patient ICN and appointment date & time to the new BTSSS form
