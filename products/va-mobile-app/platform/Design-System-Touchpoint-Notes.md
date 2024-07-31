@@ -7,6 +7,7 @@ Agenda:
 
 ## 7/30/24
 *   Typography Tokens update
+*   Form System scope discussion
 
 ## 7/16/24
 *   general updates and Q3 planning
