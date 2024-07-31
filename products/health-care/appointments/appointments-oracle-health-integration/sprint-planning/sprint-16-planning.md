@@ -43,6 +43,10 @@ In Sprint 15, the team provided support for multiple features and initiatives, o
   * [#89613 CES-696 Convert VPG to have flexline configuration built in](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89613) 
   * [#89580 CES- 778 VPG: Investigate appointment search performance issues](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89580) 
 
+* Need to add to goals:
+  * [#89631 CES-629 CES: Determine EHR for incoming search appointment requests](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89631)
+  * [#89632 CES-316 CES: Forward appointment searches to correct EHR based on search parameters](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89632)
+
 
 ## ✈️ Planned Releases
 Stop Codes Service will be deployed to prod by end of August 
