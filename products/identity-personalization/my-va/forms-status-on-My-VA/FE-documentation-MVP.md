@@ -22,6 +22,7 @@ We show this section for every LOA3 user.
 
 **Visual specs**
 
+- There is a Tag component with the content "Draft"
 - Use the [form status version of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
 - The "Continue your application" link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
 
