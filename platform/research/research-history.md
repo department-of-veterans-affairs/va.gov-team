@@ -337,7 +337,7 @@ Note: this document does not include research history for Appeals projects, whic
 
 -16 participants (4-8 therapists / social workers. 8-12 veterans)
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/nov-2020)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/archive/nov-2020)
 
 
 
