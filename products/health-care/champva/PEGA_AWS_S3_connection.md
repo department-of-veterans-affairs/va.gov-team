@@ -30,13 +30,13 @@ https://depo-platform-documentation.scrollhelp.site/developer-docs/base-setup-ve
 1. After you have vets-api set up locally, you need to modify the file ```config/settings.yml``` with the IDE of your choice. Since we are mostly Ruby software developers, we use Visual Studio Code.
 
 2. In the file ```config/settings.yml```, navigate to
-  ``` ivc_forms:
+  ```ivc_forms:
     s3:
     aws_access_key_id: ~
     aws_secret_access_key: ~
     bucket: "bucket"
     enabled: true
-    region: "region"  ```
+    region: "region"```
 3. Important: DO NOT Commit the ``` config/settings.yml``` into Github. This is only for local testing.
 
 4. Example:
