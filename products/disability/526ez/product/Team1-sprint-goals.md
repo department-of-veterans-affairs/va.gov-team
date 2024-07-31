@@ -3,12 +3,15 @@
 ### Sprint 3
 7/31 - 8/13
 **Toxic Exposure**
-* 1.0 Launch Prep (Product/UX testing, Perform PSIRR, Perform Staging Review, Moderated Prod Testing, UAT)
+- 1.0 Launch Prep (Product/UX testing, Perform PSIRR, Perform Staging Review, Moderated Prod Testing, UAT)
+- Review Medalia survey data
 **Paper Form Sync**
-* TBD
- **Submission Experience**
-* Adjust the design for Timely & Truthful based on research findings
-* Incorporate research findings into Submission Record and Tracking
+- TBD (need to align w OCTO)
+**Submission Experience**
+- Adjust the design for Timely & Truthful based on research findings
+- Incorporate research findings into Submission Record and Tracking
+- Create submission status research report and share out findings
+
 
 ## Sprint 2
 Period - 07/17/2024 - 07/30/2024
