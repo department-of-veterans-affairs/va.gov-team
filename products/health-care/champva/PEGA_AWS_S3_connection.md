@@ -22,6 +22,7 @@ There are 2 ways our team connects to PEGA's S3 bucket:
 
 # Programically via Vets-API
 
+### Prerequisites
 This assumes that you already have installed vets-api and running locally. If you do not have vets-api installed locally, please refer to this documentation: 
 
 https://depo-platform-documentation.scrollhelp.site/developer-docs/base-setup-vets-api
@@ -59,6 +60,22 @@ ivc_forms:
 
 We can test the connection the S3 bucket to test the initial connect and POST to the bucket.
 
+### Introduction
+Postman is a user-friendly tool that allows you to test and interact with APIs. This guide will walk you through the steps to connect to an AWS S3 bucket and upload a file using Postman.
+
+### Prerequisites
+Postman installed on your computer.
+
+1.  Create a New PUT Request in Postman.
+2.  Click on the New button in the top left corner of Postman and select Request. Name your request (e.g., "Upload to S3")
+3.  Click Create Collection to organize your requests. Then click Save to [Your Collection Name].
+4.  In the new request tab, change the request type to PUT using the dropdown menu to the left of the URL field.
+5.  Enter the following URL format into the URL field: https://[bucket-name].s3.amazonaws.com/[file-name]. Replace [bucket-name] with your actual S3 bucket name and [file-name] with the name of the file you want to upload.
+6.  Click on the Headers tab below the URL field.
+7.  Add the following headers:
+Authorization: This will be the AWS Signature Version 4. This is a bit technical to generate manually, so we'll use Postman's pre-request script feature to automate it.
+Content-Type: The MIME type of the file you're uploading (e.g., image/jpeg for a JPEG image, application/pdf for a PDF file).
+8.
 
 
 # (Optional) Connecting to S3 via the AWS Management Console
