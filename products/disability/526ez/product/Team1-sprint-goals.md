@@ -5,7 +5,7 @@
 
 **Toxic Exposure**
 - 1.0 Launch Prep (Product/UX testing, Perform PSIRR, Perform Staging Review, Moderated Prod Testing, UAT)
-- Review Medalia survey data
+- Review Medalia survey data (stretch)
 
 **Paper Form Sync**
 - Temp on hold
