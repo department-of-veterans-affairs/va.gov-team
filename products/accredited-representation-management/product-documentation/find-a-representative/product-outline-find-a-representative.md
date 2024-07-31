@@ -58,6 +58,8 @@ When our [Appoint a Representative product](https://github.com/department-of-vet
 
 We may also redirect the [legacy OGC representative search](https://www.va.gov/ogc/apps/accreditation/index.asp), if there are no downstream effects.  
 
+Longer term ideas for Find a Representative are stored in our [ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+
 ## Communications
 
 - **Team Name**: Accredited Representation Management
