@@ -37,6 +37,7 @@ https://depo-platform-documentation.scrollhelp.site/developer-docs/base-setup-ve
     bucket: "bucket"
     enabled: true
     region: "region"```
+
 3. Important: DO NOT Commit the ``` config/settings.yml``` into Github. This is only for local testing.
 
 4. Example:
