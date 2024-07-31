@@ -1,6 +1,6 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
-### Sprint 3
+## Sprint 3
 7/31 - 8/13
 **Toxic Exposure**
 - 1.0 Launch Prep (Product/UX testing, Perform PSIRR, Perform Staging Review, Moderated Prod Testing, UAT)
