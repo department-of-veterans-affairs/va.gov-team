@@ -54,6 +54,8 @@ presented to the user.
 - [ ] Create a "Terms of Use" link in the site footer so users can change their choice?
 - [ ] Reporting metrics
 
-- How many people accepted (over x period of time)
-- How many people declined (over x period of time)
-- How many people took no action (over x period of time)
+# Metrics
+As of July 11, 2024
+- Accepted: 1,570,730
+- Declined: 211
+  - 100 of those blocked.
