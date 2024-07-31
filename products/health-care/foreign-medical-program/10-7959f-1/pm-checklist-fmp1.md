@@ -19,8 +19,10 @@
 
 <details>
 
-- [Project epic](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/74178)
+- [Collaboration cycle intake](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/74178)
 - [CAIA intake](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/74190)
+  - [IA design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/foreign-medical-program-registration.md)
+  - [IA tracker](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/75464)
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/10-7959f-1%20product%20outline.md)
 - [Designs](https://www.figma.com/design/PzB1F5TYuBK5KQgPbuhAwH?fuid=1327362173304198026&prev-plan-id=1327362175468449563&prev-plan-type=team&prev-selected-view=recentsAndSharing&prev-tab=recently-viewed)
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md)
