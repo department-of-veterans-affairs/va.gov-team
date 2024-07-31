@@ -13,7 +13,7 @@
 | Make it easy to complete the form        | User satisfaction                                     | **CSAT Score** - (TBD)                                       | [The Enabling Team is looking at a new unified CSAT approach](https://dsva.slack.com/archives/C04KW0B46N5/p1721768363420579?thread_ts=1721766634.194129&cid=C04KW0B46N5) |
 | Make it easy to complete the form        | User form completion behavior                         | **Number of sessions to complete a form** - How many unique sessions between the moment the form is started and the moment the form is submitted |    DOMO      |
 | Make it easy to complete the form        | User form completion behavior                         | **Time to complete form** - overall elapsed time (days, weeks) from InProgressForm creation to submission) |  DOMO        |
-| Stay compliant                           | Are Form content and generated PDF up to date?        | Number of weeks/months that the digital form and paper form are out of date |          |
+| Stay compliant                           | Are Form content and generated PDF up to date?        | Number of weeks/months that the digital form and paper form are out of date |[VA.gov OMB Expiry date](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction)          |
 
 ## Nice to have
 | Goal                                      | Metrics                                       | Definition                                                   | Location |
