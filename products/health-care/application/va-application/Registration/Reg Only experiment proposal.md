@@ -9,6 +9,9 @@
 ## Potential constraints & risks
 - Registration for VA health care is not clearly defined
 - Registration is often performed at a facility in person
+- There are many registration reasons, however MVP is focusing on one (Service connected disability care)
+     - Other registration reasons are mental health, MST, IVF, etc
+- Timing of launch may coincide with end of year holidays, causing reduced application traffic overall
 
 
 ## Implementation
@@ -16,8 +19,10 @@
      - The Veteran will have the option to go back within the application and make a different selection to proceed through the application for VA health care enrollment
 
 ## Hypothesis
-- By providing the option to register, we believe ....
-- EXAMPLE: At least X% of Veterans will select Registration, and when presented with the options (call, print/mail, in-person), they will exit the form (assuming to do one of those things)
+- After providing the option to register, we believe Veterans will have further understanding of registration vs enrollment.
+- We believe that Veterans will be more likely to choose enrollment in full health benefits.
+- Assumption: No more than 250 Veterans will select Registration per month, and when presented with the options (call, print/mail, in-person), they will exit the form (assuming to do one of those things)
+
 
 
 ## Timetable
@@ -26,7 +31,7 @@
 ### Targets
 |Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to print 10-10EZ form|
 |---------|---------------|-------------|----------|---------------|---------------|----------|
-| Monthly Average | x | x | x | x |x | x |
+| Monthly Average | 18000 | 11000 | 250 | 200 |50 | 10 |
 | 3-month Total | x | x | x | x |x | x |
 
 ### Results
@@ -44,5 +49,10 @@
 
 
 ## Next Steps
-- ...
-- EXAMPLE: Now that we have determined X, we will do this thing next.
+- Initial thoughts (pre-experiment)
+     - If there is enough interest in Registration pathway online after month 1, then we will run a research session to gain feedback on the content and presentation.
+     - If there is enough interest in Registration pathway online, then we will consider how to integrate Registration process in the form as well as with VES to accept the data.
+     - If there is not enough interest in Registration pathway online, we will consider removing the experiment from the form.  
+          - We may need to confirm policy/regulation requirements from HEC.  What happens if we have to provide "registration" option?
+               - If we have to provide a registration option, possible solutions are to leave experiment in the form, pose the choice in a different way/place in the form.
+
