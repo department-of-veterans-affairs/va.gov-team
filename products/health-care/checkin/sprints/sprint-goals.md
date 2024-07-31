@@ -36,7 +36,6 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79886)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get this feature ready-to-release and schedule a Staging Review**
-    - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
     - ❗🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
     - ❗🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
     - ❗🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
@@ -46,8 +45,7 @@
         - 🟪 Need TestRail reports links
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
-    - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
-    - Schedule and Conduct hand-off to engineers
+    - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)    
     - 🟩 TBD 
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to update wireframes based on Midpoint Review feedback and finish backend integration work**
@@ -55,6 +53,9 @@
     - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
     - Schedule and Conduct hand-off to engineers
     - 🟦 TBD - remaining work?
+- **Move Logic from FE to BE: Implementation Reason Code**
+    - **Sprint Goal is to get our initial questions answered so that we can start to build tickets for exploration/effort**
+    - 🟦🟩 [SPIKE: Get Answers to Our Initial Questions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89723)
 - **Translations**
     - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
@@ -79,6 +80,9 @@
     - ✔️ ❗🟨 [[DevOps] Implement LoROTA postData system test library function.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88816)
     - ✔️ ❗🟨 [[DevOps] Implement LoROTA postData will-create-a-valid-data-entry system test. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88824)
     - ✔️ ❗🟨 [[DevOps] Discovery on vista_api_frontend in octo-vista-api.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88377)
+- **Medication Wording for Appointments - Pre-Check-in**
+    - **Sprint Goal is to get this feature ready-to-release and schedule a Staging Review**
+    - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 - **New Landing Page with Today's VISTA Appointments**
     - **Sprint Goal is to adress the 3 launch-blocking issues from the 7/23 Staging Review and release the feature**
     - ❗🟩 [[FE] - Review and merge PR last sprints tickets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88841)
