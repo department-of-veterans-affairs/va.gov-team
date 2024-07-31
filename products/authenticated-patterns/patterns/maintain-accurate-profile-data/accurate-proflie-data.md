@@ -1,9 +1,17 @@
 ## Background
 
+As a Veteran, I want to easily edit my profile, so I can keep my profile up to date.
+
+There are several different 'profiles' users can edit across the various VA platforms and products. We aim to conduct research into these, document the gaps between them and propose a path to unification and consistency. For example, there exists an 'Emergency Contact' section within the profile on one platform, but this data is not stored in other VA profiles. 
+
+During our research into the Prefill Form Data pattern, we discovered that users may find outdated profile data that has been prefilled and want to correct it, so as part of this pattern we will aim to provide an easy way to update that profile data when completing a prefilled form. 
 
 ## Hypothesis
 
-
+We believe that creating improved personal profile maintenance interfaces, including guidance, example code, and design resources, will:
+- Promote consistency in how profile data is updated across VA platforms
+- Reduce cognitive load and friction when updating their profile data
+- Ensure Veterans have accurate data stored in their VA profiles
 
 
 ## Discovery
