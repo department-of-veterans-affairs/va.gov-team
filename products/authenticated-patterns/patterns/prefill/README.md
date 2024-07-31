@@ -1,11 +1,7 @@
 ## Background
 As a Veteran, I want to have my personal information automatically filled in on VA.gov forms based on my authenticated user data, so I can save time, reduce errors, and complete forms more efficiently when applying for benefits or services.
 
-Across the VA ecosystem, many teams have implemented a 'prefill' component within their form following [guidance from the VA Design System](https://design.va.gov/components/form/prefill). Guidance around helping users know when their information is prefilled is also found into a separate pattern: [Know how their information is updated](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated).
-
-While guidance exists in these separate pages, teams still use this component and pattern inconsistently and ask for additional guidance on specific use cases in Slack. 
-
-We reached out to product teams including the Authenticated Experience team (#accountexp-authexp), the Veteran Facing Forms team (#veteran-facing-forms), Disability Benefits team (#benefits-disability) and others to gather their feedback on their current prefill usage (see feedback mural and prefill in the wild mural) and any pain points or wishes they had for prefill in the future.
+Across the VA ecosystem, many teams have implemented a 'prefill' component within their form following [guidance from the VA Design System](https://design.va.gov/components/form/prefill). Guidance around helping users know when their information is prefilled is also found into a separate pattern: [Know how their information is updated](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated). While guidance exists in these separate pages, teams still use this component and pattern inconsistently and ask for additional guidance on specific use cases in Slack. 
 
 We wanted to answer questions about whether users understood that we could prefill some data from their profile, how should we display the prefilled information and whether we should update the profile data as well as the form data.
 
@@ -20,16 +16,12 @@ We believe that creating a comprehensive pattern for form prefill based on authe
 
 
 ## Discovery
-### Assumptions/Risks
 
-- **Value Risks** (will people use it): 
-  - .
-- **Usability Risks** (can people figure out how to use it):
-  - .
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - .  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - .
+We reached out to product teams including the Authenticated Experience team (#accountexp-authexp), the Veteran Facing Forms team (#veteran-facing-forms), Disability Benefits team (#benefits-disability) and others to gather their feedback on their current prefill usage (see feedback mural and prefill in the wild mural) and any pain points or wishes they had for prefill in the future. We have documented our findings in:
+- [Prefill Feedback Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721841580875/c3be52d2e6ba2ab27b04562b9c97ee0f05f843eb?sender=u11b5f7711188298523d03159)
+- [Prefill in the Wild Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721249754513/f02ba038a943ebb6dbe07355b5b1d473f42dc16b?sender=u11b5f7711188298523d03159)
+
+### Assumptions/Risks
  
 ### What're you building
 
