@@ -63,10 +63,10 @@
 - [x] Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket
      - [x] Present design and obtain feedback
 - [x] Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] Finalize design with feedback
-     - [ ] Present to team, stakeholders and any other interested parties
+- [x] Finalize design with feedback
+     - [x] Present to team, stakeholders and any other interested parties
 - [x] Create prototype or basic working functionality in environments
-     - [ ] The team can determine the best path, used for research
+     - [x] The team can determine the best path, used for research
 - [x] Create Research Plan and Conversation Guide
 - [x] Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket
 - [x] Request Research Review - Refer back to the initial Collaboration Cycle Request ticket
@@ -75,7 +75,7 @@
      - [x] Synthesize research findings
      - [x] Review findings with the team
      - [x] Make any necessary tickets/changes for design
-- [ ] **Create Use Cases**
+- [x] Create Use Cases
      - [ ] **Identify test users**
 - [x] Create Release Plan
 - [x] Complete development
@@ -100,15 +100,18 @@
      - [x] Review findings with the team
      - [x] Make any necessary tickets/changes for design and/or development
 - [x] Complete any Design and/or Development work from Usability/UAT sessions
-- [ ] Update Error matrix documentation with any new error states
-- [ ] Update any FE and/or BE Engineering documentation
+- [x] Update Error matrix documentation with any new error states
+- [x] Update any FE and/or BE Engineering documentation
 - [x] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] **Update Contact Center guide**
+- [ ] **Coordinate with IVC Contact Center**
 - [ ] **Submit Contact Center guide review ticket**
 - [ ] **Update Release Plan**
      - [ ] **Include E2E test results & signoff**
 - [ ] Schedule or close all remaining tickets
      - Some tickets may be backlogged for future work, as they were not required to launch
+- [ ] **Coordinate with CAIA**
+- [ ] **Coordinate with VA Notify**
 - [ ] **Conduct Launch Go/No Go with the team**
      - [ ] **Review this checklist**
      - [ ] **Review Release Plan**
