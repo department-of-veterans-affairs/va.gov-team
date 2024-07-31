@@ -1,10 +1,8 @@
-[Draft]
-
-# **Landing page on VA.gov: Data Collection Evaluation Plan**
+# **Data Collection Evaluation Plan**
 
 ## **Background**
 
-This evaluation plan outlines how the Cartography team will measure and track the My HealtheVet transition to VA.gov. The plan focuses on analyzing Veterans' usage of the MHV landing page and other key transition metrics to gauge the success of the migration.
+This evaluation plan outlines how the Cartography team will measure and track real-world use of products under the Cartography team umbrella: MHV home and secondary navigation. The plan focuses on analyzing Veterans' usage of the MHV landing page and other key transition metrics to gauge the success of the migration.
 
 This plan includes:
 
