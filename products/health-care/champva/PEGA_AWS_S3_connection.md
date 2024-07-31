@@ -30,28 +30,34 @@ https://depo-platform-documentation.scrollhelp.site/developer-docs/base-setup-ve
 1. After you have vets-api set up locally, you need to modify the file ```config/settings.yml``` with the IDE of your choice. Since we are mostly Ruby software developers, we use Visual Studio Code.
 
 2. In the file ```config/settings.yml```, navigate to
-  ```ivc_forms:
+  ```
+ivc_forms:
     s3:
     aws_access_key_id: ~
     aws_secret_access_key: ~
     bucket: "bucket"
     enabled: true
-    region: "region"```
+    region: "region"
+```
 
 3. Important: DO NOT Commit the ``` config/settings.yml``` into Github. This is only for local testing.
 
-4. Example:
-```ivc_forms:
+4. Example:  
+```
+ivc_forms:
   s3:
     aws_access_key_id: AKDKOKWJJO2KALDFJALSDF;AKDFJ
     aws_secret_access_key: D92iK1eokda9i2i4urIDV92l2iduuhnc
     bucket: "staging-bucket"
     enabled: true
-    region: "us-gov-bucket" ```
+    region: "us-gov-bucket"
+```
 
 5. To migrate to staging and production, you will have to modify the environoment files. Contact the platform team via Slack and create a request to modify the staging and production .yml environment files.
 
+# Connecting to AWS S3 via POSTMAN
 
+We can test the connection the S3 bucket to test the initial connect and POST to the bucket.
 
 
 
@@ -63,31 +69,34 @@ Enter your AWS account credentials (email and password) to log in.
 2. Navigate to S3 Service
 Once logged in, you will see the AWS Management Console homepage.
 In the search bar at the top, type "S3" and select "S3" from the dropdown menu.
-Step 3: Locate Your S3 Bucket
+3.  Locate Your S3 Bucket
 On the Amazon S3 page, you will see a list of all your S3 buckets.
 Find and click on the name of the S3 bucket you want to connect to.
-Step 4: Understanding the S3 Bucket Interface
+4. Understanding the S3 Bucket Interface
 Overview Tab: Shows general information about the bucket.
 Properties Tab: Contains configuration settings.
 Permissions Tab: Shows who has access to the bucket.
 Management Tab: Used for setting up bucket policies and management tasks.
-Step 5: Accessing Files in the S3 Bucket
+5. Accessing Files in the S3 Bucket
 Objects Section: This section lists all the files and folders in your bucket.
 Click on a file name to open it, or right-click to download it.
-Step 6: Uploading Files to the S3 Bucket
+6. Uploading Files to the S3 Bucket
 Click the "Upload" button.
 Drag and drop files from your computer into the upload area or use the "Add files" button to select files.
 Click "Upload" to add the files to the bucket.
-Step 7: Sharing Files from the S3 Bucket
+7. Sharing Files from the S3 Bucket
 Find the file you want to share.
 Click on the file name to open its details.
 Click the "Copy URL" button to get a shareable link.
-Step 8: Using S3 for Static Website Hosting (Optional)
+8. Using S3 for Static Website Hosting (Optional)
 Go to the Properties Tab of your bucket.
 Scroll down to "Static website hosting" and click "Edit".
 Enable static website hosting and set the index document (e.g., index.html).
 Save changes. Your bucket can now serve static website content.
+
 Conclusion
 Connecting to an AWS S3 bucket is a simple process that allows you to store, retrieve, and share files easily. With these steps, you should be able to navigate the AWS Management Console and manage your S3 bucket efficiently.
 
 If you have any questions or need further assistance, feel free to reach out to your AWS administrator or refer to the AWS S3 documentation.
+
+
