@@ -82,6 +82,9 @@ Content-Type: The MIME type of the file you're uploading (e.g., image/jpeg for a
 12.  ![image](images/aws_signature.png)
 13.  Or you can enter the authorization manually
 ![image](images/aws_authorization.png)
+14.  Replace the placeholders (YOUR_ACCESS_KEY_ID, YOUR_SECRET_ACCESS_KEY, YOUR_BUCKET_NAME, YOUR_AWS_REGION, YOUR_FILE_NAME) with your actual AWS credentials, bucket name, region, and file name.
+15.  Send the PUT Request. Click the Send button to execute the request.
+16.  If everything is set up correctly, you should see a 200 OK response, indicating that the file was successfully uploaded to the S3 bucket.
 
 # (Optional) Connecting to S3 via the AWS Management Console
 
