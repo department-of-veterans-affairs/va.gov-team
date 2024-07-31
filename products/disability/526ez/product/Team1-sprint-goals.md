@@ -2,6 +2,7 @@
 
 ## Sprint 3
 7/31 - 8/13
+
 **Toxic Exposure**
 - 1.0 Launch Prep (Product/UX testing, Perform PSIRR, Perform Staging Review, Moderated Prod Testing, UAT)
 - Review Medalia survey data
