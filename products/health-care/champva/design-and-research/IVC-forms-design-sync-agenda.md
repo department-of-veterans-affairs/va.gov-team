@@ -11,7 +11,7 @@
 ### Notes
 - What is our communciation plan with CAIA beyond sharing the full report with them? Check with 1010EZ team how they do this.
     	- There weren't many changes made post testing(aligned the inrto page with the lastest form VADS and updating Headers so there are no duplicates. Possibly talk to CAIA about to move past content review pre-staging.
-- There is {an artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D) that we need to present prior to staging review
+- There is [an artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D) that we need to present prior to staging review
 - Rachael has anticpated the 1010d (CHAMPVA Registation) a11y testing to staging review and is prepared. Will need more than 1 day to complete and can prioritize it for next sprint. She may need some addtional support to get this and the other work done for the sprint.
   - Needs to be done 4 days before Staging
   - They are many other artifacts/checklists to be done prior to staging. Bo is working on the others.
