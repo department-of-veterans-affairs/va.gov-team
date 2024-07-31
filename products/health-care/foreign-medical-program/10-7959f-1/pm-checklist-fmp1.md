@@ -29,7 +29,7 @@
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/conversation-guide.md)
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
-     - [va.gov/](https://staging.va.gov/health-care/foreign-medical-program/register-form-10-7959f-1/)
+     - [FMP registration form url](https://staging.va.gov/health-care/foreign-medical-program/register-form-10-7959f-1/)
 - TestRail 
      - [Test cases](https://dsvavsp.testrail.io/index.php?/suites/view/2993&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
      - [Test plans](https://dsvavsp.testrail.io/index.php?/runs/overview/77)
