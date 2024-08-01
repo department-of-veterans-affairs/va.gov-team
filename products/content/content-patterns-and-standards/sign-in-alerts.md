@@ -19,7 +19,7 @@ DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
 #### Sign in with a verified account to [CTA]
 You’ll need to sign in with a verified account through one of our account providers. Identity verification helps us protect your information and prevent fraud and identity theft.
 
-**Don't yet have a verified account?** Create a Login.gov or ID.me account now. Then come back here and sign in. We’ll help you verify. 
+**Don't yet have a verified account?** Create a **Login.gov** or **ID.me** account now. Then come back here and sign in. We’ll help you verify. 
 
 **Not sure if your account is verified?** Sign in here. We’ll tell you if you need to verify. 
 
@@ -48,7 +48,7 @@ After you sign in, we’ll tell you if you need to verify your identity.
 ### Verify alert for LOA1/IAL1 Login.gov and ID.me accounts
 
 #### Verify your identity to [CTA]
-We need you to verify your identity for your {Account type} account. This step helps us keep your information safe and prevent fraud and identity theft.
+We need you to verify your identity for your **{Account type}** account. This step helps us keep your information safe and prevent fraud and identity theft.
 
 This one-time process often takes about 10 minutes. You'll need to provide certain personal information and identification.
 
@@ -73,7 +73,7 @@ You may have one if you’ve ever signed in to a federal website to manage your 
 
 To check, sign out of VA.gov. Then try to create a new account with the email address you think the account is attached to. If you already have one, the sign-in service provider will tell you. You can then try to reset your password.
   
-[button] Sign in or create an account
+[button] Sign out
 
 [text link] [Learn about creating an account](https://www.va.gov/resources/creating-an-account-for-vagov/)
 
