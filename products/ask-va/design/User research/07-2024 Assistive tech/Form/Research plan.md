@@ -212,6 +212,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - One-handed keyboard
     - Head mouse
     - Sip and puff device
+    - Pointer device on mobile (mouse, joystick)
     - Other (Please specify): ________________
     - This question doesn't apply to me
 3. How frequently do you use an alternative navigation tool? Your best guess is okay.
