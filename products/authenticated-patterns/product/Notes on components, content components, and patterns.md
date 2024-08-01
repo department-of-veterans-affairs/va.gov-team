@@ -27,6 +27,8 @@ In Object-Oriented programming, or OOUX, the Object is the Component and the Ins
 There are some examples of patterns that only contain a single component: 
 -	[Race, ethnicity, or origin](https://design.va.gov/patterns/ask-users-for/race-ethnicity-or-origin)
 -	[Relationship to Veteran](https://design.va.gov/patterns/ask-users-for/relationship)
+
 Currently, it would take more effort than it’s worth create to create components from these patterns.
+
 ## Recommendations for VADS team
 -	[ ] Add explanation of content component vs. component to the **What is the difference between components, templates, and patterns?** section on the [Patterns page](https://design.va.gov/patterns/) 
