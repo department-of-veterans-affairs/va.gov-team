@@ -71,10 +71,11 @@ Since the feature is part of the larger preexisting 526 form, communications wil
 
 ---
 ## Launch Planning
-### Collaboration Cycle
-- [Kickoff ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/7?pane=issue&itemId=66471236)
+[Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
+#### Collaboration Cycle
+[Collaboration Cycle Kickoff ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/7?pane=issue&itemId=66471236)
 
-### Timeline 
+#### Timeline 
 
 |Phase|Date(s)|Status|
 |-----|-----|-----|
@@ -86,8 +87,6 @@ Since the feature is part of the larger preexisting 526 form, communications wil
 |Moderated production testing|Aug 9, 2024|Not started|
 |Go/no go meeting|Aug 14, 2024|Not started|
 |Canary 5% rollout|Aug 15, 2024|Not started|
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
@@ -103,7 +102,8 @@ Since the feature is part of the larger preexisting 526 form, communications wil
 <img src="https://github.com/user-attachments/assets/4d7ecfa6-e145-4ea0-a030-19e3061da90c" width="300"></img>
 
 ### After
-<img src="https://github.com/user-attachments/assets/42e5520e-a21b-466b-808b-cf45e42fe1a8" width="300"></img> <img src="https://github.com/user-attachments/assets/469d086c-c8ea-4f8d-9c41-41cb391c1396" width="300"></img>
+<img src="https://github.com/user-attachments/assets/42e5520e-a21b-466b-808b-cf45e42fe1a8" width="300"></img> 
+<img src="https://github.com/user-attachments/assets/469d086c-c8ea-4f8d-9c41-41cb391c1396" width="300"></img>
 
 ---
 
@@ -124,6 +124,8 @@ Announcements will be posted in benefits-disability Slack channel. Still underst
 
 ### Incident Response
 [Incident Response SOP](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)
+
+[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&view=spans&from_ts=1719957251673&to_ts=1722549251673&live=true)
 
 - Team 1 Tech Lead, Aurora Hampton
 - Team 1 Design Lead, Mike Eng
