@@ -39,4 +39,4 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 
 
-* Retention starts in October 2023. 
+* Retention study starts in October 2023. 
