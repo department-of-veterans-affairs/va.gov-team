@@ -87,7 +87,7 @@
         - This was pulled in by Brian half-way through the sprint
 - **New Landing Page with Today's VISTA Appointments**
     - **Sprint Goal is to adress the 3 launch-blocking issues from the 7/23 Staging Review and release the feature**
-    - ❗🟩 [[FE] - Review and merge PR last sprints tickets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88841)
+    - ✔️ ❗🟩 [[FE] - Review and merge PR last sprints tickets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88841)
     - ✔️ ❗🟩 [Staging Review finding: Input error messages not announced by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89010)
     - ✔️ ❗🟩 [Staging Review finding: "Check in now" links not announced the same way by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89009)
     - ✔️ ❗🟩 [Staging Review finding: Inconsistent language around identity verification in "Check if your information is up to date" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89007)
@@ -98,21 +98,22 @@
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to complete this feature and schedule a Staging Review and an Infrasturcture, Security, & Readiness Review**
     - 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
-    - 🟩 [Test E2E with VeText Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
+    - ✔️ 🟩 [Test E2E with VeText Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
         - 🟩 How will we make this available to only certain Pilot sites?
     - 🟪 Schedule Staging Review
     - 🟩 Schedule Infrasturcture, Security Readiness Review
-    - 🟥🟪 Find out from Kristen about timing of pilot and pilot site(s)
+    - ✔️ 🟥🟪 Find out from Kristen about timing of pilot and pilot site(s)
+        - Email sent to ask; CIE will do a demo at the Aug 6 BTSSS Working session and will discuss release plan there
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get the wireframes finalized and ready for frontend**      
     - ✔️ ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
     - ✔️ ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to do the draft userflow & wireframes and schedule a Design Intent**
-    - 🟪 Create product documents
+    - ✔️ 🟪 Create product documents
     - ✔️ 🟥 [Update userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88086)
     - 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
-    - 🟥 Schedule Design Intent (are we piggy-backing off Travel Team's Collab Cycle ticket?)   
+    - ✔️ 🟥 Schedule Design Intent (are we piggy-backing off Travel Team's Collab Cycle ticket?)   
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish the draft UX artifacts and schedule a Midpoint Review and to make progress on backend integration with VAOS/MAP**
     - ✔️ 🟥 [Update Userflows](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
@@ -126,7 +127,7 @@
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
 - **Tech Debt**
     - 🟦 [[BE] Investigate sentry errors being thrown by check-in controllers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89085)
-    - 🟩 [Staging Review finding: aria-labelledby on "Review your information now" may block voice users. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88999)
+    - ✔️ 🟩 [Staging Review finding: aria-labelledby on "Review your information now" may block voice users. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88999)
     - 🟩 [Staging Review finding: Use the vads-font-size-eyebrow typography token ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89000)
   
 
