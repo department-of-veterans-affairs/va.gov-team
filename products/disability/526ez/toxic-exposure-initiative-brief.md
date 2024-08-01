@@ -74,7 +74,7 @@ Today, while Veterans can file disability compensation for conditions believed t
 
 
 #### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+Since the feature is part of the larger preexisting 526 form, communications will be more narrow in scope. The 526 Product Guide has been updated for the Contact Center to include the new Toxic Exposure pages. VBA will also help with comms to internal claims processors to make sure they're aware of the new form version.
 
 --- 
 
@@ -115,32 +115,36 @@ Today, while Veterans can file disability compensation for conditions believed t
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
+Announcements will be posted in benefits-disability Slack channel. Still understanding if other communications are needed.
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: DBEX Team 1, DBEX Team 2
+- GitHub Label(s): #disability-experience
+- Slack channel: benefits-disability
+- Product POCs: Emily Theis (OCTO), Jared Pace (Team 1), Lisa Capaccioli (Team 2)
 
 </details>
 
 ### Architectural Details
 [Architecture diagram](https://lucid.app/lucidchart/645d8a16-22de-4971-9626-198da0483430/edit?invitationId=inv_f335ce12-6583-4396-8892-0c33e67c8b9e&page=S.QYMIEDG_Hk#)
 
-#### Incident Response
+### Incident Response
 [Incident Response SOP](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)
 
 - Team 1 Tech Lead, Aurora Hampton
 - Team 1 Design Lead, Mike Eng
 - Team 1 Product Manager, Jared Pace
 - Team 1 Delivery Manager, Sarah Knopp
+- Team 2 Tech Lead, Thomas Blackwell
+- Team 2 Design Lead, Julie Pedtke
+- Team 2 Product Manager, Lisa Capaccioli
 - OCTO PO, Emily Theis
 - OCTO Design and Research Lead, Shannon Ford
 - OCTO Engineering Lead, Sam Wiley
 - VBA Senior Automation Strategist, David Reis
 - Lighthouse / Benefits Claims API Product Manager, Kayla Watanabe
+- Lighthouse / Benefits Claims API Tech Lead, Alex Wilson
 
 #### Stakeholders
 *What offices/departments are critical to make this initiative successful?*
