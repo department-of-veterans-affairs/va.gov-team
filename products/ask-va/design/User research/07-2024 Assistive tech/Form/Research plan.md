@@ -231,14 +231,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Yes
     - No
 2. If you answered yes, which screen magnification tool do you use? Please select all that apply.
-   - ZoomText
-   - ZoomText Fusion
-   - Windows Magnifier
-   - macOS Zoom
-   - iOS/iPadOS Zoom
-   - Android Magnification
-   - Other (Please specify): ________________
-   - This question doesn't apply to me
+   - Open text box
 3. If you answered yes, how frequently do you use screen magnification on VA.gov?
    - Always
    - Sometimes
@@ -248,8 +241,6 @@ We'd like to recruit people who use a mix of different screen magnification soft
    - Yes
    - No
    - This question doesn't apply to me
-5. Please list the name of the screen magnification tool you will use during the session.
-    - Open text box
 
 ## Timeline
 
