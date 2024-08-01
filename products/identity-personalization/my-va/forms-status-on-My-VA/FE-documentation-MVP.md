@@ -32,7 +32,7 @@ Form code
 
 Application type
 
-`exclamation-circle` Application expires on: Date
+`error` Application expires on: Date
 
 Last opened on: Date
 
@@ -80,8 +80,8 @@ This text appears directly below the "Benefit applications and forms" header on 
 
 ---
 ## Form Status card - Submission in progress
-- Desktop figma link
-- Mobile figma link
+- Desktop figma link (https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=FOSo9YgBxV0pQn0K-1)
+- Mobile figma link (https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=FOSo9YgBxV0pQn0K-1)
 
 **Show card**
 - When one of the supported forms that can be tracked has been successfully submitted by the user, prior to it being received after being processed through VBMS.
@@ -91,6 +91,8 @@ This text appears directly below the "Benefit applications and forms" header on 
 - When a detectable silent error has occured with a supported form submission (the "Action needed" card variation will be shown instead)
 - When a form is still in progress (a "Draft" card)
 - When a supported submitted form has been received ("Received" card)
+- If a user does not have any benefit applications or forms that they have submitted.
+
 
 **Visual specs**
 - _what components are used?_
