@@ -39,24 +39,16 @@
     - ❗🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
     - ❗🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
     - ❗🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
-    - 🟪 Schedule Staging Review
-        - 🟩 Need Code Coverage link
-        - 🟩 Need E2E tests link
-        - 🟪 Need TestRail reports links
+    - ❗🟪 Schedule Staging Review
 - **Travel Claim Submission from Past Appts - Web**
-    - **Sprint Goal TBD**
-    - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)    
-    - 🟩 TBD 
+    - **Sprint Goal is to address feedback from the Design Intent and finish the wireframes**
+    - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)     
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to update wireframes based on Midpoint Review feedback and finish backend integration work**
     - Schedule a meeting to decide the fate of the various detail pages based on modality
     - 🟥 [Midpoint Review - Design Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89478)
     - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
-    - Schedule and Conduct hand-off to engineers
-    - 🟦 TBD - remaining work?
-- **Move Logic from FE to BE: Implementation Reason Code**
-    - **Sprint Goal is to get our initial questions answered so that we can start to build tickets for exploration/effort**
-    - 🟦🟩 [SPIKE: Get Answers to Our Initial Questions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89723)
+    - 🟥 Schedule and Conduct hand-off to engineers
 - **Translations**
     - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
@@ -74,7 +66,7 @@
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
 - **Production Support**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
+    - ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
     - ❗🟨 [Rotate AWS Keys - July 29, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76337) (added after planning)
     - ❗🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
     - ✔️ ❗🟨 [[DevOps] Discovery on copying secrets necessary for Vista API backend to function into vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88378)
