@@ -33,7 +33,7 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 ### Retention Rates 
 
-| Vateran Behavior | 30-Day Rate | 60-Day Rate | 90-Day Days Rate | 120-Day Rate| 150-Day Rate | 180-Day Rate |
+| Vateran Behavior | 30-Day Rate | 60-Day Rate | 90-Day Rate | 120-Day Rate| 150-Day Rate | 180-Day Rate |
 | -------- | -------- | ---------- | ----------------- | -----------------| ----------- | --------- |
 | Vateran Opened App & Viewed Home Screen | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
 
