@@ -11,10 +11,9 @@ Summer 2024
 
 **2-3 days before the session**   
 1. Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
-2. Complete any project-specific setup tasks for this study (List them below)
-3.  Step 1
-4.  Step 2
-5.  Step 3
+2. Complete any project-specific setup tasks for this study:
+3. Ensure both mobile and desktop links are ready to be shared in chat
+4. Check meeting settings; transcript and cloud recording are set up in settings in Perigean's account
 
 **Day of the session**  
 1. Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.   
