@@ -18,6 +18,14 @@
 - For Veterans with 40% or lower disability rating, the 10-10EZ will prompt them within the application asking whether they want to seek care for their service-connected disability/injury only or enroll in VA health care for full benefits. If they choose service-connected care only, we will display an on-screen message directing them to call the Health Eligibility & Enrollment center, download the PDF form and mail in or visit a facility to register for service-connected care.
      - The Veteran will have the option to go back within the application and make a different selection to proceed through the application for VA health care enrollment
 
+
+## Research questions
+- Is there enough interest in registering for service connected care only?
+- Is there significant redirection - do Veterans frequently go back after seeing the alert to call or download a paper form?
+- How many of these complete the application (after seeing the registration alert) all they way to the confirmation page?
+
+
+
 ## Hypothesis
 - After providing the option to register, we believe Veterans will have further understanding of registration vs enrollment.
 - We believe that Veterans will be more likely to choose enrollment in full health benefits.
@@ -55,4 +63,13 @@
      - If there is not enough interest in Registration pathway online, we will consider removing the experiment from the form.  
           - We may need to confirm policy/regulation requirements from HEC.  What happens if we have to provide "registration" option?
                - If we have to provide a registration option, possible solutions are to leave experiment in the form, pose the choice in a different way/place in the form.
+
+Additional research questions
+- Is there a significant increase in calls from service connected Veterans asking about registration?
+- If so, do they end up registering them or does the call center staff talk the Veteran into enrolling instead?
+- How do they help the Veteran decide?
+
+- Are Veterans clear and confident in their understanding of the difference (between registration and enrollment) and what they will get?
+- What information is missing to help this group of Veterans choose between registration and enrollment?
+
 
