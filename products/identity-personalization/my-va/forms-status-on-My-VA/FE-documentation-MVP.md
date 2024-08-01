@@ -1,7 +1,7 @@
 # Forms Status on My VA MVP Frontend Documentation
 Last updated: outline and draft cards info added July 30, 2024
 
-This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: drafts, pending/submitted, action needed, submitted
+This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: drafts, submission in progress, received, and action needed
 
 ## When to show the ‘Benefit applications and forms' section
 We show this section for every LOA3 user.
@@ -52,10 +52,10 @@ Continue your application (linked to saved application)
 
 ---
 
-### If a user has multiple benefit application drafts to show
+### If a user has multiple cards to show including drafts
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B58922A6-13FB-4CF1-9DCB-F270B9DD2DC0)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D5EA049B-1179-4824-9F30-80920CE5EF1E)
+- [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1236-25214&t=FOSo9YgBxV0pQn0K-1)
+- [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-47671&t=FOSo9YgBxV0pQn0K-1)
 
 **Positioning**
 Cards are displayed side by side on desktop and stacked on mobile as shown in the mockups above. If a user has more than two drafts to show, they keep stacking in this way on desktop with two per row max.
@@ -67,27 +67,30 @@ _Needs to be updated since we are changeing configuration to single column_
 
 ### If a user does not have any benefit application drafts to show
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/10A09E21-70D7-4606-9E8A-1EBB31AE8EC9)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C7F1D33D-5400-41CE-8F6D-78F43105AE91)
+- [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1231-49126&t=FOSo9YgBxV0pQn0K-1)
+- [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1260-37414&t=FOSo9YgBxV0pQn0K-1)
 
 #### **Content**
 
-You have no benefit application drafts to show.
+You have no benefit applications or forms to show.
 
 **Positioning**
 
 This text appears directly below the "Benefit applications and forms" header on the lefthand side of the page on desktop.
 
 ---
-## Form Status card - Pending/Submitted
+## Form Status card - Submission in progress
 - Desktop figma link
 - Mobile figma link
 
 **Show card**
-- _when to show the card_
+- When one of the supported forms that can be tracked has been successfully submitted by the user, prior to it being received after being processed through VBMS.
 
 **Do NOT show card**
-- _when do we not show the card_
+- When a form that is not supported has been submitted by the user
+- When a detectable silent error has occured with a supported form submission (the "Action needed" card variation will be shown instead)
+- When a form is still in progress (a "Draft" card)
+- When a supported submitted form has been received ("Received" card)
 
 **Visual specs**
 - _what components are used?_
