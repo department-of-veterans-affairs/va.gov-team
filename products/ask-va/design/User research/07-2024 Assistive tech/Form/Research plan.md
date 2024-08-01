@@ -177,7 +177,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 2. If you answered yes, which screen reader do you use? Please select all that apply.
     - JAWS
     - NVDA
-    - VoiceOver (iOS/macOS)
+    - VoiceOver (iPhone, iPad, Mac)
     - TalkBack (Android)
     - Narrator (Windows)
     - Other (Please specify): ________________
@@ -207,7 +207,8 @@ We'd like to recruit people who use a mix of different screen magnification soft
 2. If you answered yes, which alternative navigation tool do you use? Please select all that apply.
     - Switch systems
     - Dragon
-    - Voice Control (iOS/macOS)
+    - Voice Control (Mac)
+    - Siri (iPhone, iPad)
     - One-handed keyboard
     - Head mouse
     - Sip and puff device
