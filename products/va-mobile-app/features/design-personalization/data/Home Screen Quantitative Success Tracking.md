@@ -39,4 +39,4 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 
 
-* Retention sample date range : 10/01/23 - 10/31/23 
+* Sample date range For rentention study : 10/01/23 - 10/31/23 
