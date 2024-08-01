@@ -69,7 +69,6 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
-    - **Sub Goal: [Feature] Integrate mocks with FE pages**
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
 
 
@@ -91,10 +90,15 @@ ________________________________________________________________________________
        - 🟥 Implement design and content recommendations from research findings
        - 🟥 Attend DS Office Hours to share design changes, if needed
        - 🟨 Schedule and present research findings readout to OCTO, VSS, EPS
-       - 🟨 [Several teams have been working on "filters" for content. We really do not have a great pattern. I would suggest you submit this to experimental design.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85515)
+       - 🟨 [[Create ED ticket for filtering]Several teams have been working on "filters" for content. We really do not have a great pattern. I would suggest you submit this to experimental design.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85515)
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
        - 🟦 [[SPIKE] Determine approach for checking if appts have been scheduled in WellHive, but aren't in VAOS Backend yet](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88491)
-         
+       - 🟦 [[Eng] Create code to handle not double booking an appt at the same time](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89730)
+    - **Sub Goal: [Feature] Integrate mocks with FE pages**
+       - 🟦 [[Integrate mocks] Choose date and time for provider page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87731)
+       - 🟦 [[Integrate mocks] Integrate data from previous pages into Review/confirm page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87728)
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+       - 🟦 [[Eng] Build out zero results page when no providers are found using filters](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85466)
       
 </details>
 
