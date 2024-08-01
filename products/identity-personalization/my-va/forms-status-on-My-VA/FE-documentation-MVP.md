@@ -80,8 +80,8 @@ This text appears directly below the "Benefit applications and forms" header on 
 
 ---
 ## Form Status card - Submission in progress
-- Desktop figma link (https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=FOSo9YgBxV0pQn0K-1)
-- Mobile figma link (https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=FOSo9YgBxV0pQn0K-1)
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=FOSo9YgBxV0pQn0K-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=FOSo9YgBxV0pQn0K-1)
 
 **Show card**
 - When one of the supported forms that can be tracked has been successfully submitted by the user, prior to it being received after being processed through VBMS.
