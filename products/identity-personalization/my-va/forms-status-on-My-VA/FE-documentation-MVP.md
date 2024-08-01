@@ -79,6 +79,22 @@ You have no benefit applications or forms to show.
 This text appears directly below the "Benefit applications and forms" header on the lefthand side of the page on desktop.
 
 ---
+## When form status cards besides drafts appear
+
+For MVP, [7 forms are tracked and displayed on My VA](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/MVP-form-list.md):
+
+- Authorize the release of non-VA medical information to VA (VA Form 21-4142 & 21-4142a)
+- Submit a lay or witness statement to support a VA claim (VA Form 21-10210)
+- Request priority processing for an existing claim (VA Form 20-10207)
+- Authorize VA to release your information to a third-party source (VA Form 21-0845)
+- Sign VA claim forms as an alternate signer (VA Form 21-0972)
+- Submit an intent to file (VA Form 21-0966)
+- Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847)
+
+
+The cards with the statuses of submission in progress, received, and action needed correspond to these forms. 
+
+
 ## Form Status card - Submission in progress
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=FOSo9YgBxV0pQn0K-1)
 - [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=FOSo9YgBxV0pQn0K-1)
