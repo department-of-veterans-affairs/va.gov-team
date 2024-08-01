@@ -64,7 +64,6 @@ ________________________________________________________________________________
 
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
-    - **Sub Goal: [Feature] Tech & Design Debt**
     - **Sub Goal: [Feature] Get CC Consults**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
@@ -77,8 +76,6 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments** 
-    - **Sub Goal: [Feature] Tech & Design Debt**
-       - ❗ 🟦 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)
     - **Sub Goal: [Feature] Get CC Consults**
        - ❗ 🟦 [Determine method to retrieve consults based on convo with VeText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
        -  🟥 [Update Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88886)
