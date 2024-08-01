@@ -24,6 +24,7 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 
 
 **Appointments displayed**
+
 Display future booked appointments in the upcoming list: 
 - Display telehealth the appointments in the upcoming list for 240 mins / 4hours after start time 
 - Display non-telehealth appointments in the upcoming tab for 60 mins after the start time.
