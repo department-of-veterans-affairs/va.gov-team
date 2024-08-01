@@ -73,7 +73,7 @@
 
 Additional research questions
 - Is there a significant increase in calls from service connected Veterans asking about registration?
-- If so, do they end up registering them or does the call center staff talk the Veteran into enrolling instead?
+- If so, do they end up registering them or does the call center staff encourage the Veteran to enroll instead?
 - How do they help the Veteran decide?
 
 - Are Veterans clear and confident in their understanding of the difference (between registration and enrollment) and what they will get?
