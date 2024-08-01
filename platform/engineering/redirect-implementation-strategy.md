@@ -20,7 +20,7 @@ Please refer to the redirect standards on the VA design system when planning a r
 
 **All URL redirects are routed through the Sitewide Content & IA team and handed off to the appropriate engineer to implement.** Please file a [redirect request Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl&labels=sitewide+CAIA%2C+Sitewide+IA%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request), as first step.
 
-If you are a team member interested in requesting a URL redirect, please read the [Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md). [**TODO**: Replace this link with Redirect Guidance link in the DEPO site when https://github.com/department-of-veterans-affairs/va.gov-team/issues/83498 closes.]
+If you are a team member interested in requesting a URL redirect, please read the [Design System guidance for Redirects](https://design.va.gov/components/url-standards/redirects).
 
 ---
 
