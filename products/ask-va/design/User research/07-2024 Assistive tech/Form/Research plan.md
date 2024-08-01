@@ -230,7 +230,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
     - Yes
     - No
-2. If you answered yes, which screen magnification tool do you use? Please select all that apply.
+2. If you answered yes, which screen magnification tool do you use?
    - Open text box
 3. If you answered yes, how frequently do you use screen magnification on VA.gov?
    - Always
