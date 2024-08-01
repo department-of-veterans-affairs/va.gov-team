@@ -53,13 +53,13 @@ Task completion rate post-update:
 
 
 ## Objectives and Key Results (OKRs)
-
+`Draft objectives, needs convo w PO/OCTO`
 ### Objective: 
 Increase user profile completeness.
 #### Key result 1: 
-Achieve a 70% profile completion rate within six months.
+Achieve a [insert %] profile completion rate within six months.
 #### Key result 2: 
-Reduce communication issues by 25% within the first year.
+Reduce misdirected communication by [insert %] within the first year.
 
 ## Solution Approach
 ### Assumptions
