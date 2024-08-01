@@ -156,11 +156,9 @@ Thanks! Now I’m able to see your screen.
 
 Next, I'm going to share a link to the test website.
 
-- [Do we know how they prefer to receive the link?]
-  - `IF YES` I'm going to `email, send in the Zoom chat, or dictate` the link now.
-  - `IF NO` Would you prefer that I email you the link, send it in the Zoom chat or dictate it to you?
+- Would you prefer that I email you the link, send it in the Zoom chat or dictate it to you?
 
-> Dictate or send link: [https://bit.ly/ask-va](https://bit.ly/ask-va).
+> Email, send in chat or dictate link: [https://bit.ly/ask-va](https://bit.ly/ask-va).
 
 > Opens staging.
 
