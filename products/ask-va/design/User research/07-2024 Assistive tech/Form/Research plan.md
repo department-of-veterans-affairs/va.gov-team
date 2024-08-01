@@ -86,18 +86,7 @@ We're available for a kickoff call with Perigean during the following times:
 
 We request that Perigean:
 - shares a link or screenshot of the recruitment survey for this study, so we can review it before it goes out to participants
-- emails each participant after they've been recruited (copy content provided)
-- calls each participant to remind them about the session, one day in advance.
-
-#### Email to send each participant after recruitment, prior to their session
-
-> Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
->
-> How would you prefer to receive a link to the prototype during the session? By email, through Zoom chat or dictated aloud?
->
-> On the call, we’ll have an accessibility specialist with us. Are there any other accommodations that would be helpful during your session?
->
-> We look forward to meeting with you soon.
+- if we're facing issues with no-shows or cancellations, we'll ask that you call remaining participant to remind them about the session, one day in advance.
 
 ### Recruitment criteria
 
