@@ -1,6 +1,6 @@
 # Redirect Implementation Strategy
 
-Last update: 5/4/23 — see change history below
+Last update: 7/31/23 — see change history below
 
 ---
 
