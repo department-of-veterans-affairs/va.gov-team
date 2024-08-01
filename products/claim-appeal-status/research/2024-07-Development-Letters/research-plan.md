@@ -90,6 +90,8 @@ We intend to use Maximum Variation Sampling as a recruitment strategy. Below is 
 - 5 participants should be in a rural area
 - 2 (at least) should be women
 
+For more details about our criteria, refer to our [Recruitment ticket.](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/632)
+
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
