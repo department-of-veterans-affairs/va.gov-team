@@ -51,6 +51,13 @@
 | Monthly Average | x | x | x | x |x | x |
 | 3-month Total | x | x | x | x |x | x |
 
+### Supplemental metrics
+- If Veterans are exiting the form when they reach the Registration information page, where are they going/what are they doing?
+     - Are they leaving VA.gov?
+     - Are they searching for a facility?
+     - Are they looking for another way/more information to get health care without enrolling?
+     - Are they looking for more information on what "Register" means?
+
 ## Conclusion
 - ...
 - EXAMPLE: Based on the results, we see that X% of Veterans have shown interest in the registration pathway.  This proves/disproves our hypothesis
