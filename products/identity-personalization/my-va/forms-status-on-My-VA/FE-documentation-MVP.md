@@ -111,7 +111,7 @@ Figma file (with content supplied by CAIA):
 
 
 
-### How does a form/application in the pending/submitted status end up showing in a card on My VA?
+### How does a form/application in the submission in progress status end up showing in a card on My VA?
 - _explain how the form appears_
 - _explain when the form disappears i.e. expires after 60 days_
 
