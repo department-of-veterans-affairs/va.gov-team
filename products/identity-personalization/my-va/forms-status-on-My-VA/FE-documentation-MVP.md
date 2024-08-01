@@ -1,5 +1,5 @@
 # Forms Status on My VA MVP Frontend Documentation
-Last updated: outline and draft cards info added July 30, 2024
+Last updated: outline and draft cards info added August 1, 2024
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: drafts, submission in progress, received, and action needed
 
