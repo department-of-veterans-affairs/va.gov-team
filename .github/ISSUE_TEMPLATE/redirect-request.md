@@ -11,8 +11,9 @@ assignees: jennymayoco, kristinoletmuskat, strelichl
 ### Instructions
 - Requests must be submitted **AT LEAST** 2 weeks in advance.  Some requests take a significant amount of time and coordination to implement, so start the process as soon as you know you will need one. 
 - This issue will be used from initial request through implementation to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track different steps.
-- It is your responsibility to notify VA stakeholders as appropriate.  
-
+- It is your responsibility to notify VA stakeholders as appropriate.
+- Please review [Redirect governance](https://design.va.gov/components/url-standards/redirects) and [Redirect technical implementation information
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md) for your team's awareness
 | POC | Github alias(es) |
 --- | --- 
 | Product team point(s) of contact: | @ |
