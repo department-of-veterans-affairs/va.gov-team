@@ -43,7 +43,7 @@ Monitors for each product are described within product folders. e.g.
 | [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards) |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | . |
-| [VA.gov Homepage](#vagov-homepage) | [Unauthed React healthcare widgets](#unauthed-react-widgets) | . |
+| [VA.gov Homepage](#vagov-homepage) | [CTA React widget](#cta-react-widget) | . |
 | [Promo Banner](#promo-banner) | . |  .  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
@@ -475,6 +475,44 @@ Taxonomy launched in 2023, in pilot use by CAIA for managing benefits informatio
 
 # Non-CMS content / products
 
+## CTA React widget
+
+**What is:**
+
+Public Websites manages a React application for a CTA widget that appears on 5 Health care tool landing pages: 
+* refill prescriptions
+* make appointment
+* get VA medical records
+* send secure message
+* view lab or test results
+
+Calls to action on these widgets point users to the Electronic Healthcare Records (EHR) system used by their primary healthcare facility. Three flavors of EHR: 
+* MyHealtheVet - Digital platform of the VistA healthcare provider. CTAs that point to MHV, once a user logs in, will take users out to MHV's platform.
+* Oracle Health (formerly Cerner) - New EHR provider as of 2020, used at some VAMC systems/facilities. Systems were migrating to Cerner (at the time) through 2022; migrations on pause as of July 2022. For Veterans who have patient records at an Oracle Health facility, CTAs that point to Oracle Health will also appear and take those users out to Oracle Health's digital platform.
+* MyHealtheVet on VA.gov - An in-house digital platform built by the VA. CTAs that point to MHV on VA.gov will take users to a VA.gov dashboard, where both MHV and Oracle Health data is pulled in via APIs.
+
+As Health care tool teams are updating landing pages or CTA actions to point to MyHealtheVet on VA.gov, Public Websites may be called up on as code reviewers to review changes and ensure that the unauthed experience for these 5 widgets behaves as expected. 
+
+**Other unauthed react widgets**
+* BTSSS - Epic where it was created: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9157
+* Travel Pay -
+
+Beneficiary travel has its own product team now that should be coordinated with for changes: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/README.md
+
+**Governance / Content:**
+
+* [Documentation re: ownership of the health care tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/readme.md)
+* **CERNER TEST USERS**: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md
+* Epic tracking the plan to transition ownership of the CTA React widget from Public Websites to Health Tools teams: department-of-veterans-affairs/va.gov-cms#16547
+* Content is provided by Sitewide Content team
+* Oracle Health cutover information is publicized in DSVA slack: #vagov-oracle-launch-coordination
+
+**More info:**
+* [Healthcare system cutover to Cerner (now Oracle health): runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
+* [React widget flows](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?invited=true) (Mural)
+* [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/healthcare-widget-support/cms-source-of-truth) (github) - to determine which healthcare records management system is used by a VA medical center system 
+* Oracle Health / Cerner cutovers were paused in 2022 and may resume in 2024.
+
 ## Discharge upgrade wizard
 https://www.va.gov/discharge-upgrade-instructions
 
@@ -585,6 +623,8 @@ Some nuances: https://dsva.slack.com/archives/CT4GZBM8F/p1660937436605269
 
 ## Global header / footer (aka Mega-menu)
 
+**OWNERSHIP:** Will transition to the Design System team in 2024: https://dsva.slack.com/archives/C06V7AAFVH7/p1720203529734199
+
 **What is:**
 
 Product brief: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer
@@ -602,6 +642,8 @@ VA.gov header and footer, within VA.gov context, including presentation of banne
 
 
 ## Header / footer injection
+
+**OWNERSHIP:** Will transition to the Design System team in 2024: https://dsva.slack.com/archives/C06V7AAFVH7/p1720203529734199
 
 **What is:**
 
@@ -665,20 +707,8 @@ Request to change a URL and/or implement a redirect for a URL. Also for vanity U
 Facilities team can handle redirects for Facility URLs / content. 
 
 **Workflow:**
-[Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/redirects.md)
-* Another team requests a URL redirect
-* Sitewide Content team vets the request – IA will approve the requested URLs (Process: [Platform IA Redirects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/redirects.md))
-* Sitewide Content team assigns the issue to Public Websites via va.gov-team issue
-* Public Websites moves the issue to va.gov-cms repo, assigns in sprint, completes work, merges
-* If server-side redirect: Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/deploys/job/revproxy-vagov-prod/ -- this job runs automatically at ~10a ET Mon-Thurs. (Job is owned by the Platform team. ) 
-* If client-side redirect: vets-website deploys the code. 
-* PW verifies in prod, before closing the ticket
-
-### If you need an **Out of Band deployment** (off cycle deploy):
-  * open a #vfs-platform-support request, "Off-out-band deployment." Example: https://dsva.slack.com/archives/CBU0KDSB1/p1664314493443639
-  * Open an [OOB Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=frontend%2C+operations%2C+platform-tech-team-support&projects=&template=OOB-Deploy-Request.md&title=OOB+Deploy+Request) request, and link to the Platform support thread.
-  * Plan to write a [post-mortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/1c1242cafc9f1d614abd933db5c92d13e1a2a19a/Postmortems/README.md) to describe why OOB was required.
-
+[Design System guidance for Redirects)(https://design.va.gov/components/url-standards/redirects) - describes request mechanism, approvals, overall guidance
+[Redirect Implementation strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md) describes the different varieties of redirect, and when / how to implement each kind. (Including how to request an [Off-cycle deploy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#if-you-need-an-out-of-band-deployment-off-cycle-deploy) for a redirect, if necessary.)
 
 **Example:**
 * Issue template: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=Sitewide+IA&template=redirect-request.md&title=Redirect+Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=Sitewide+IA&template=redirect-request.md&title=Redirect+Request)
@@ -688,51 +718,17 @@ Facilities team can handle redirects for Facility URLs / content.
    * [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9066](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9066) 
    * [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9813](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9813) 
 
-**More info:**
-* [Platform Redirect Implementation strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md) - context, describes various types of redirects, and mechanisms for carrying them out, including server-side vs. client-side.
-  * [Redirects(sensitive repo)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/redirects.md) - this doc will be merged into the above Implementation Strategy doc 
-* [Redirects IA Context & Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/redirects.md)
-* [RevProxy deploy job info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/infrastructure/reverse_proxy.md)
-* [Proxy-rewrite info](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md) - relevant for client-side redirects from TeamSite pages
 
-## Unauthed React Healthcare widgets
-
+## PACT Act Wizard
 **What is:**
+A React application using the sub-task design system pattern. This tool allows Veterans to better understand what benefits they may qualify for under the PACT Act, based on their years and locations of service.
 
-Public Websites manages a React application for a CTA widget that appears on 5 Health care tool landing pages: 
-* refill prescriptions
-* make appointment
-* get VA medical records
-* send secure message
-* view lab or test results
+**Documentation**
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pact-act-wizard/
 
-Calls to action on these widgets point users to the Electronic Healthcare Records (EHR) system used by their primary healthcare facility. Three flavors of EHR: 
-* MyHealtheVet - Digital platform of the VistA healthcare provider. CTAs that point to MHV, once a user logs in, will take users out to MHV's platform.
-* Oracle Health (formerly Cerner) - New EHR provider as of 2020, used at some VAMC systems/facilities. Systems were migrating to Cerner (at the time) through 2022; migrations on pause as of July 2022. For Veterans who have patient records at an Oracle Health facility, CTAs that point to Oracle Health will also appear and take those users out to Oracle Health's digital platform.
-* MyHealtheVet on VA.gov - An in-house digital platform built by the VA. CTAs that point to MHV on VA.gov will take users to a VA.gov dashboard, where both MHV and Oracle Health data is pulled in via APIs.
-
-As Health care tool teams are updating landing pages or CTA actions to point to MyHealtheVet on VA.gov, Public Websites may be called up on as code reviewers to review changes and ensure that the unauthed experience for these 5 widgets behaves as expected. 
-
-**Other unauthed react widgets**
-* BTSSS - Epic where it was created: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9157
-* Travel Pay -
-
-Beneficiary travel has its own product team now that should be coordinated with for changes: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/README.md
-
-**Governance / Content:**
-
-* [Documentation re: ownership of the health care tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/readme.md)
-* **CERNER TEST USERS**: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md
-* Epic tracking the plan to transition ownership of the CTA React widget from Public Websites to Health Tools teams: department-of-veterans-affairs/va.gov-cms#16547
-* Content is provided by Sitewide Content team
-* Oracle Health cutover information is publicized in DSVA slack: #vagov-oracle-launch-coordination
-
-**More info:**
-* [Healthcare system cutover to Cerner (now Oracle health): runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
-* [React widget flows](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?invited=true) (Mural)
-* [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/healthcare-widget-support/cms-source-of-truth) (github) - to determine which healthcare records management system is used by a VA medical center system 
-* Oracle Health / Cerner cutovers were paused in 2022 and may resume in 2024.
-
+**Product**
+https://staging.va.gov/pact-act-eligibility/introduction
+https://www.va.gov/pact-act-eligibility/introduction -- launch ETA ~Aug/Sept 2024
 
 ## VA.gov Homepage
 
