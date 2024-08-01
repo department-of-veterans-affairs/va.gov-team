@@ -16,7 +16,6 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
-    - **Sub Goal: [Feature] Integrate mocks with FE pages** 
 
 
 
@@ -65,6 +64,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Get CC Consults**
+    - **Sub Goal: [Feature] Get connected with WellHive**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
@@ -79,6 +79,9 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get CC Consults**
        - ❗ 🟦 [Determine method to retrieve consults based on convo with VeText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
        -  🟥 [Update Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88886)
+    - **Sub Goal: [Feature] Get connected with WellHive**
+       - 🟦 [[Eng] Create WellHive endpoints in vets-api](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89819)
+       - 🟦 [[Eng] Create FE service layer](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89821)
     - **Sub Goal: [Feature] Conduct research study with Veterans**
        - ❗ 🟨 [[Research] Create research findings presentation for OCTO, VSS, EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88889)
        - 🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)
