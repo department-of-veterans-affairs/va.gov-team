@@ -1,3 +1,5 @@
+# Toxic Exposure Product Outline
+
 ## Outcome Summary
 To make it easy for Veterans to file disability compensation claims resulting from the PACT Act via va.gov, we are adding a toxic exposure (TE) section to the 21-526ez Veterans Disability Compensation and Related Compensation Benefits form on VA.gov. This change brings the digital form at VA.gov into parity with the 526ez paper form on these exposure questions, and will enable Veterans to specify aspects of their service history that might qualify them for disability benefits related to toxic exposure.
 
@@ -16,6 +18,7 @@ Today, while Veterans can file disability compensation for conditions believed t
 - 15e: "If you were exposed multiple times, please provide all additional dates and locations of potential exposure."
 
 ## Undesired User Outcomes
+- Filing a disability compensation claim with TE-related service-conencted conditions is not possible due to circumstances outside of the Veterna's control.
 - Filing a disability compensation claim with TE-related service-conencted conditions is more time consuming and more difficult for the Veteran.
 
 ## Desired Business Outcomes
@@ -31,7 +34,6 @@ Today, while Veterans can file disability compensation for conditions believed t
 - Performance is worse than it was previously
 - Veterans express that the UX is worse than it was before
 
----
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
@@ -46,14 +48,9 @@ Today, while Veterans can file disability compensation for conditions believed t
 | Maintain or reduce uses of backup and failsafe path         |           |                                               | Pending Backup Path monitoring                               |
 |                                                             |           |                                               |                                                              |
 
-
-
 ---
-
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
   - We believe Veterans find value in being able to file disability claims online, especially as their condition relates to the PACT Act. From January to June 2024 40% of traffic came from a PACT Act campaign (ar_pact_fy23) 
@@ -67,23 +64,17 @@ Today, while Veterans can file disability compensation for conditions believed t
  Yes. We believe there will be a posititve organizational impact. In addition to bringing the digital 526 form into closer compliance with the paper version of the form, this feature also fulfills the intent of the PACT Act while improving access.
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
-- There are two use cases that we are considering for this release. Veterans who start a new 526 form online will be able claim service-connected conditions that they believe are related to toxic exposure. Veterans who begin a new form will be directed to the toxic exposure pages that are conditionally displayed based on their form responses. Veterans who are continuing a form they started previously (an In Progress Form or IPF) will also be able to claim service-connected conditions that they believe are related to toxic exposure. These Veterans will see an alert on the Review & Submit page alerting them about the new toxic exposure questions and will be provided with a link that navigates their browser to the toxic exposure pages in the 526 form. This solution will also cover other claim types such as Benefits Disability at Discharge (BDD), Fully Developed Claim (FDC), and accepts submissions where either the Veteran doesn't know or isn't sure about their dates of service.
-
+There are two use cases that we are in scope for this release. Veterans who start a new 526 form online will be able claim service-connected conditions that they believe are related to toxic exposure. Veterans who begin a new form will be directed to the toxic exposure pages that are conditionally displayed based on their form responses. Veterans who are continuing a form they started previously (an In Progress Form or IPF) will also be able to claim service-connected conditions that they believe are related to toxic exposure. These Veterans will see an alert on the Review & Submit page alerting them about the new toxic exposure questions and will be provided with a link that navigates their browser to the toxic exposure pages in the 526 form. This solution will also cover other claim types such as Benefits Disability at Discharge (BDD), Fully Developed Claim (FDC), and accepts submissions where either the Veteran doesn't know or isn't sure about their dates of service.
 
 #### Go-to-market 
 Since the feature is part of the larger preexisting 526 form, communications will be more narrow in scope. The 526 Product Guide has been updated for the Contact Center to include the new Toxic Exposure pages. VBA will also help with comms to internal claims processors to make sure they're aware of the new form version.
 
---- 
-
+---
 ## Launch Planning
 ### Collaboration Cycle
 - [Kickoff ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/7?pane=issue&itemId=66471236)
 
 ### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
 |Phase|Date(s)|Status|
 |-----|-----|-----|
@@ -109,8 +100,10 @@ Since the feature is part of the larger preexisting 526 form, communications wil
 ## Screenshots
 
 ### Before
+<img src="https://github.com/user-attachments/assets/4d7ecfa6-e145-4ea0-a030-19e3061da90c" width="300"></img>
 
 ### After
+<img src="https://github.com/user-attachments/assets/42e5520e-a21b-466b-808b-cf45e42fe1a8" width="300"></img> <img src="https://github.com/user-attachments/assets/469d086c-c8ea-4f8d-9c41-41cb391c1396" width="300"></img>
 
 ---
 
