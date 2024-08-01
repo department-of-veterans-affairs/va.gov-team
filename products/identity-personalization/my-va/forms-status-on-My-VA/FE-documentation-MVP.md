@@ -9,8 +9,8 @@ We show this section for every LOA3 user.
 ---
 
 ## Benefit application draft card
-- Desktop
-- Mobile 
+- [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26447&t=FOSo9YgBxV0pQn0K-1)
+- [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1264-32620&t=FOSo9YgBxV0pQn0K-1)
 
 **Show card**
 
