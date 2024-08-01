@@ -20,7 +20,6 @@ __Note that the usage of Veterans et al means Veterans, their family, caregivers
 
 * Enable editors to publish events that no longer rely on content, thus speeding up the publishing process (React app).
 * Design schema to support future work, e.g. store lat/long, apply tags to events, etc. 
- 
 
 ### Non-MVP Problem Solutions: 
 
@@ -28,7 +27,6 @@ __Note that the usage of Veterans et al means Veterans, their family, caregivers
 * Provide the ability for Veterans to 'find events near me'.
 * Provide editors the ability to edit lat/long for cases it's incorrect. 
 * Provide editors the ability to add non-VA locations' lat/long information. 
-  
 
 #### Evidence to support the Problem: 
 
@@ -36,7 +34,6 @@ __Note that the usage of Veterans et al means Veterans, their family, caregivers
 * Demand for features by editor types 
 * Veteran demand for events near me 
 * Veteran demand for better filtering/search ability
-  
 
 ## How does this initiative help further OCTO-DE's mission and goals? 
 
@@ -50,7 +47,6 @@ __Note that the usage of Veterans et al means Veterans, their family, caregivers
 * CSAT scores increased due to enabling filtering, and displaying only current/future events (not past) 
 * Number of events processed has increased 
 * Processing time / speed increased 
-
   
 ## Outcome Summary 
 
@@ -84,7 +80,6 @@ __Note: The MVP will focus mainly on backend functionality and research__
 
 - Research to support design system request to make year into dropdown year list instead of text field. 
   - Engineering implementation of the above, along with defaulting to current year. 
-
 
 ### Post-MVP Scope 
 
@@ -261,81 +256,66 @@ AS A Veteran, their family member, caregiver or survivor, I WANT to view only cu
 
 ### Current User Path
 
-Outreach & Events | User flows & inbound links
-![Screen Shot 2021-10-28 at 10 55 42 AM](https://user-images.githubusercontent.com/70410912/139301132-8c3ddf53-ed54-47d6-aa6e-6f85da90e1ec.png)
+Outreach & Events | User flows & inbound links 
 
-### Technical Analysis 
-- 
-
-### Solution Scope for MVP
-**In Scope**
-- 
-
-**Not In Scope**
-- 
---- 
-
-## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
-- Kickoff ticket
-- 
-
-### Go-to-market 
-
-|Date| Decision |
-|--|--|
-| TBD |  Dave Conlon to review initiatives briefing and validate |
-| TBD |  Determine KPIs and Success Measures and validate |
-| TBD |  Complete VSP Collaboration Cycle events  |
-| TBD |  Complete Release Plan per action items |
-
-### Timeline 
-
-- Link to release plan: TBD
-
-
-
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-
----
-   
-## Screenshots
-
-### Existing Veteran-Facing Screenshots
-
-
-
-
-### Existing Editor-Facing Screenshots
-
----
-
-#### Communications
-Primary communication for this initiative will be via #VSA-Public-Websites slack channel. 
-
-<details>
-
-- Team Name: Public Websites 
-- GitHub Label(s): VSA-Public-Websites 
-- Slack channel: #vsa-public-wesbites
-- Product POCs: David Conlon (PO), Fran Cross (PM)
-
-
-#### Stakeholders
-PO - Dave Conlon 
-Veteran Experience Office (VA)
-
-<details>
+![Screen Shot 2021-10-28 at 10 55 42 AM](https://user-images.githubusercontent.com/70410912/139301132-8c3ddf53-ed54-47d6-aa6e-6f85da90e1ec.png) 
   
-- Office/Department: N/A
-- Contact(s): N/A
+
+### Technical Analysis  
+
+
+## Launch Planning 
+
+### Collaboration Cycle 
+
+- Ticket:
+- Questions:
+- Requests:  
  
+
+### Go-to-market  
+
+|Date| Decision | 
+
+|--|--| 
+
+|X|  Michelle to review initiatives briefing and validate | 
+| TBD |  Determine KPIs and Success Measures | 
+| TBD |  Validate KPIs and Success Measures | 
+| TBD |  Complete VSP Collaboration Cycle events  | 
+| TBD |  Complete Release Plan per action items | 
+
+### Timeline  
+- Link to release plan: TBD 
+
+#### Initiative Launch Dates 
+
+- *Target Launch Date* 
+  - tbd 
+
+- *Actual Launch Date*  
+  - tbd 
+
+## Screenshots 
+
+### Existing Veteran-Facing Screenshots 
+
+
+### Existing Editor-Facing Screenshots 
+
+
+#### Communications 
+
+Primary communication for this initiative will be via #VSA-Public-Websites slack channel. 
+ 
+- Team Name: Public Websites  
+- GitHub Label(s): VSA-Public-Websites 
+- Slack channel: #vsa-public-wesbites 
+- Product POCs: Michelle Middaugh (PO), Fran Cross (PM) 
+
+#### Stakeholders 
+
+PO - Michelle Middaugh | Veteran Experience Office (VA)  
 </details>
 
 ---
