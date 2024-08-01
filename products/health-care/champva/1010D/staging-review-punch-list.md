@@ -82,7 +82,7 @@ An artifact that corresponds to each standard in the [QA Standards](https://dep
 - [x]  [E2E tests](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards#QAstandards-e2e-test-participationE2ETestParticipation) (provide a link to the product’s code)
   - [x] [Cypress tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ivc-champva/10-10D/tests/e2e/fixtures/data)
 - [ ]  [Code coverage](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards#QAstandards-unit-test-coverageUnitTestCoverage) (provide a link to the product’s code)
-  - [ ] TODO: Bo to get link from eng
+  - [ ] TODO
 
 ⠀**Accessibility artifacts**
 - [ ]  [Completed accessibility testing artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D). For details, see [Prepare for an accessibility staging review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review).
