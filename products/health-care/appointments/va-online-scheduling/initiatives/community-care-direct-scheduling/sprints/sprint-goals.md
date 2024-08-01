@@ -120,12 +120,12 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments** 
     - **Sub Goal: [Feature] Tech & Design Debt**
-       - :roller_skate: ❗ 🟦 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)
+       - ✔️ ❗ 🟦 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)
     - **Sub Goal: [Feature] Get CC Consults**
        - :roller_skate: ❗ 🟦 [Determine method to retrieve consults based on convo with VeText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
        -  ⛔ :roller_skate: 🟥 [Update Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88886)
     - **Sub Goal: [Feature] Conduct research study with Veterans**
-       - ❗ 🟨 [[Research] Complete research synthesis](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88888)
+       - ✔️ ❗ 🟨 [[Research] Complete research synthesis](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88888)
        - :roller_skate: ❗ 🟨 [[Research] Create research findings presentation for OCTO, VSS, EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88889)
        - :roller_skate: 🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)
        - :roller_skate: 🟨 [Create tickets to implement recommendations from research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88891)
