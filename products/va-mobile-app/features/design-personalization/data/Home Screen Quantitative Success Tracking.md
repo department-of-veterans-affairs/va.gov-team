@@ -35,8 +35,8 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 | Veteran Behavior | 1 Month | 2 Month | 3 Month | 4 Month| 5 Month | 6 Month |
 | -------- | -------- | ---------- | ----------------- | -----------------| ----------- | --------- |
-| Vateran Opened App & Viewed Home Screen | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
+| Veteran Opened App & Viewed Home Screen | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
 
 
 
-* Sample date range For rentention study : 10/01/23 - 10/31/23 
+* Retention starts in October 2023. 
