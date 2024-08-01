@@ -1,12 +1,20 @@
 # **Conversation guide for Accredited Representative Facing Team, OGC Contact Information Updates, 07/2024**
 
-# Jump to…[Moderator logistics](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.npbg9srt3e6w)[VSO Certifying Officials](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.1qygtkrjjosw)[Concept testing.](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.6bnq2ogd7da3)[Accredited Attorneys and Claims Agents](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.koasnmiq928x)[Emergency Exit](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.3gff8nskbas7)
+Jump to…
+
+[Moderator logistics](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.npbg9srt3e6w)[VSO Certifying Officials](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.1qygtkrjjosw)
+
+[Concept testing.](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.6bnq2ogd7da3)
+
+[Accredited Attorneys and Claims Agents](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.koasnmiq928x)
+
+[Emergency Exit](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.3gff8nskbas7)
 
 ## **Moderator logistics**
 
 ### **2-3 days before the session**
 
-# **- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
 
 - Log into VA CAG
 
@@ -20,21 +28,21 @@
 
 #### **At least 30min before the session start time**
 
-# **- Log into VA CAG
+- Log into VA CAG
 
 - Log into ARF moderator Zoom account on desktop only.
 
-  - Log into the ARF team gmail, if need be, to get a one-time sign on code to log into the team Zoom.
+- Log into the ARF team gmail, if need be, to get a one-time sign on code to log into the team Zoom.
 
-  - Double check recording and transcript settings are turned on. Enable the waiting room if it is not already turned on.
+- Double check recording and transcript settings are turned on. Enable the waiting room if it is not already turned on.
 
 - When prompted in CAG, do not allow CAG to connect to your microphone or desktop sound.
 
-- Open the prototype in [Figma](https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19\&t=9hxSq0qy6V00Am1G-0).**
+- Open the prototype in [Figma](https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19\&t=9hxSq0qy6V00Am1G-0).
 
 #### **15 minutes before the session start time**
 
-# **- Open Slack but Mute your Slack notifications.
+- Open Slack but Mute your Slack notifications.
 
 - 15 minutes before the session, post to [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW): ARP OGC Contact Information Updating P# starting in \~15 minutes. Details in thread...
 
@@ -42,15 +50,16 @@
 
   - Information from the top of the note taking document. Tag the moderator, notetaker, and observers. Post the Zoom link.
 
-  - Instructions:How to participate this session:Notetakers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20notetaking.md) before you join. Please open this [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722362248367/d080d4f9e562382f54949e283031e6812e59ef59?wid=0-1711387609347\&sender=u503219bf4e47eab9c75d3838) to take notes during the session. At the end of the session, please confirm your notes are complete and share the link with the facilitator.Observers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20observing.md) before you join.Once (if) the participant agrees to have you join, the facilitator will let you in from the Zoom waiting room.Use this thread and don't use the Zoom chat. Thanks!All: Jot down thoughts in [this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722362248367/d080d4f9e562382f54949e283031e6812e59ef59?wid=0-1711387609347\&sender=u503219bf4e47eab9c75d3838) after the session (login with your [va.gov](http://va.gov/) email)**
+  - Instructions: How to participate this session:
+Notetakers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20notetaking.md) before you join. Please open this [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722362248367/d080d4f9e562382f54949e283031e6812e59ef59?wid=0-1711387609347\&sender=u503219bf4e47eab9c75d3838) to take notes during the session. At the end of the session, please confirm your notes are complete and share the link with the facilitator.Observers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20observing.md) before you join.Once (if) the participant agrees to have you join, the facilitator will let you in from the Zoom waiting room.Use this thread and don't use the Zoom chat. Thanks!All: Jot down thoughts in [this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722362248367/d080d4f9e562382f54949e283031e6812e59ef59?wid=0-1711387609347\&sender=u503219bf4e47eab9c75d3838) after the session (login with your [va.gov](http://va.gov/) email)
 
 #### **At least 5-10min before the session start time**
 
-# **- From VA CAG, open the Zoom browser app, start the session.
+- From VA CAG, open the Zoom browser app, start the session.
 
-  - Rename the ARF moderator in the session to “moderator” if not already done.
+- Rename the ARF moderator in the session to “moderator” if not already done.
 
-  - Do not connect to computer audio in Zoom.
+- Do not connect to computer audio in Zoom.
 
 - From your local desktop, join the session from your Ad Hoc/A6 Zoom account.
 
@@ -66,13 +75,13 @@
 
 - Admit only the notetaker for the session. Moderator and note taker should be on camera. (Observers will not be added until the participant has given permission)
 
-- When the participant is ready, begin the session with the following intro.**
+- When the participant is ready, begin the session with the following intro.
 
 ## VSO Certifying Officials
 
 ### Preface.
 
-# **Hi \[NAME], thanks for joining us today! How’s your day going so far?_Wait for response_My name is \[NAME] and I’m a researcher working on creating accredited representative-facing tools on VA.gov so Veterans Service Organizations can better support Veterans. \[NAME] is joining us to take notes. \[NAME] do you want to say hello and introduce yourself?Before we get started a few things I want to mention:- This session should take about an hour. We’ll be focusing on your experiences as an certifying official. The first part will be me asking you questions and learning more about your experiences, then I will screenshare and show you a mockup of a digital tool and ask for your feedback on how you might use the tool. - We want to hear your honest opinions so we can make improvements. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback. I won't be offended by any opinions you express.* Your participation is completely voluntary. If for any reason you want to stop, or do not want to answer a question, please let me know. 
+Hi [NAME], thanks for joining us today! How’s your day going so far? _Wait for response_ My name is [NAME] and I’m a researcher working on creating accredited representative-facing tools on VA.gov so Veterans Service Organizations can better support Veterans. [NAME] is joining us to take notes. [NAME] do you want to say hello and introduce yourself?Before we get started a few things I want to mention:- This session should take about an hour. We’ll be focusing on your experiences as an certifying official. The first part will be me asking you questions and learning more about your experiences, then I will screenshare and show you a mockup of a digital tool and ask for your feedback on how you might use the tool. - We want to hear your honest opinions so we can make improvements. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback. I won't be offended by any opinions you express.* Your participation is completely voluntary. If for any reason you want to stop, or do not want to answer a question, please let me know. 
 
 * During today's interview, we may discuss experiences that have caused serious frustration. I do want to know about those experiences in case there are processes we can improve in the future, but they are not experiences I can help with directly. 
 
@@ -369,4 +378,3 @@
 * **Blame technology**: I am so sorry, but I just learned that the \[website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
 
 * **Backup Moderator**: This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session \[backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
-
