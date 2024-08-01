@@ -100,10 +100,16 @@ This text appears directly below the "Benefit applications and forms" header on 
 - etc.
 
 ### **Content**
-_provide exact content/copy that will display_
+
+You have no benefit applications or forms to show.
 
 ### **Content specs**
-_where is the content called from_
+
+Figma file (with content supplied by CAIA):
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=FOSo9YgBxV0pQn0K-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=FOSo9YgBxV0pQn0K-1)
+
+
 
 ### How does a form/application in the pending/submitted status end up showing in a card on My VA?
 - _explain how the form appears_
