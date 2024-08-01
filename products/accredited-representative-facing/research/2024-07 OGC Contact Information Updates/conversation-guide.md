@@ -167,7 +167,7 @@ I have started recording. I'd like to confirm: Do I have permission to record as
 
 ## Concept testing.
 
-Now we’re going to show you what we’ve been working on and would appreciate your feedback.\[Moderator: open Figma <https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19> ]**
+Now we’re going to show you what we’ve been working on and would appreciate your feedback. _Open Figma <https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19> ]_
 
 ### Email
 
@@ -336,7 +336,7 @@ We are working with OGC to find ways to improve efficiencies for updating inform
 
 ### Concept testing.
 
-Now we’re going to show you what we’ve been working on and would appreciate your feedback.<https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-18> 
+Now we’re going to show you what we’ve been working on and would appreciate your feedback. _Open Figma <https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19> ]_
 
 ### Homepage
 
