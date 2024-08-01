@@ -4,7 +4,7 @@
 
 Used to get the tokens associated with a user's session. This guide is divided into two sections, one each for PKCE and Private Key JWT flows.
 
-The `/token` endpoint is also used to obtain Service Account tokens, the instructions for that usage can be found in the [Service Account Auth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/endpoints/token.md).
+The `/token` endpoint is also used to obtain Service Account tokens, the instructions for that usage can be found in the [Service Account Auth documentation](../../Service%20Account%20Auth%20(STS)/endpoints/token.md).
 
 ## Token Endpoint - POST
 
@@ -86,7 +86,7 @@ vagov_info_token=<infoToken> // %7B%3Aaccess_token_expiration%3D%3
 
 ### Error Responses
 
-For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#end-user-tokens).
+For more detailed information on possible error responses see the [SiS Errors Page](../../../../Troubleshooting/errors.md).
 
 ## [Private Key JWT](../auth_flows/private_key_jwt.md) Auth
 
@@ -137,4 +137,4 @@ staging-api.va.gov/v0/sign_in/token
 
 ### Error Responses
 
-For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#end-user-tokens).
+For more detailed information on possible error responses see the [SiS Errors Page](../../../../Troubleshooting/errors.md).

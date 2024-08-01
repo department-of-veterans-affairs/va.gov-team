@@ -2,7 +2,7 @@
 
 ## Description
 
-Uses the `user_uuid` stored in the `access_token` that is included in the call to look up all of a user's sessions, then destroys them - revoking all of the tokens tied to those sessions.
+Uses the `session_handle` stored in the `access_token` that is included in the call to look up the user's current session, then uses the session's attached user account to locate all of the user's sessions and destroy them - revoking the tokens tied to those sessions.
 
 ## Revoke All Sessions Endpoint - GET
 
@@ -32,3 +32,7 @@ GET staging-api.va.gov/v0/sign_in/revoke_all_sessions
 ## Sample Response
 
 If all steps are performed successfully the API will respond with a 200 status and no other data.
+
+## Error Responses
+
+For more detailed information on possible error responses see the [SiS Errors Page](../../../../Troubleshooting/errors.md).

@@ -32,3 +32,7 @@ POST staging-api.va.gov/v0/sign_in/revoke
 ## Sample Response
 
 If all steps are performed successfully the API will respond with a 200 status and no other data.
+
+## Error Responses
+
+For more detailed information on possible error responses see the [SiS Errors Page](../../../../Troubleshooting/errors.md).
