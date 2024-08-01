@@ -6,9 +6,9 @@ This doc gives more details on the difference between components, content compon
 
 Jump to: 
 -	[Key takeaways](#key-takeaways)
--	[Content components vs. components]
--	[Content components vs. patterns with a single component]
--	[Recommendations for VADS team]
+-	[Content components vs. components](#content-components-vs-components)
+-	[Content components vs. patterns with a single component](#content-components-vs-patterns-with-a-single-component)
+-	[Recommendations for VADS team](#recommendations-for-vads-team)
 ## Key takeaways
 -	Don’t create more content components 
 -	It’s okay, but not ideal, for patterns to contain a single component
