@@ -73,7 +73,7 @@ VHA Medical Centers| Caregiver Services | <ul><li> A facility can indicate the a
 
 ### Helpdesk (CMS Team)
 If a discrepancy about a facility or service is reported, confirm whether the location is a VA health facility or community provider. 
-- If it is a community provider, see the Services process for [Community care providers and pharmacies row](#services) 
+- If it is a community provider, see the Services process for [Community care providers and pharmacies](#services) 
 - If Helpdesk (CMS team) learns about any incorrect Facility data in context of Editor contact, follow the steps as above.
 
 If Editors haven’t taken action after CMS Team suggests next steps, CMS team should contact Facilities team to escalate to VHA DM team. Create a post in DSVA Slack, #facilities-support, and include the following:
