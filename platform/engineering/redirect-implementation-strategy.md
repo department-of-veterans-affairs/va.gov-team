@@ -78,7 +78,7 @@ _How does this work technically?_
   * Refer to the [revproxy README](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/blob/main/template-rendering/revproxy-vagov/vars/README.md) for more information on conventions and considerations, such as trailing slashes, child pages, and case sensitivity.
 * Traffic to www.va.gov hits the VA gateway, is routed to our reverse proxy, where it is then redirected. 
 
-If the initiating page is managed by the Drupal CMS, the URL change is made in the CMS and the redirect is added to the devops repo.
+If the initiating page is managed by the Drupal CMS, the URL change is made in the CMS and the redirect is added to the vsp-platform-revproxy repo.
 
 _What team is responsible?_
 * Sitewide Content IA team approves requests and assigns work to the appropriate team to implement the redirect. 
@@ -88,7 +88,7 @@ _Other notes_
 * Level of difficulty: low
 
 #### Redirects for pages within the Drupal CMS 
-Redirects for pages within the Drupal CMS require very close coordination between the engineer making the change in the devops repo and the person changing the URL within the Drupal CMS. 
+Redirects for pages within the Drupal CMS require very close coordination between the engineer making the change in the vsp-platform-revproxy repo and the person changing the URL within the Drupal CMS. 
 
 The diagram reflects a plan that is implemented in the CMS but not yet in nginx. The Drupal-specific timing difficulties here will be addressed if / when Platform works on an initiative to make Drupal the source of truth for redirects:
 
@@ -117,7 +117,7 @@ _Server-side or client-side_
 _When to do this?_
 - When a single page within a TeamSite should redirect to www.va.gov, and that TeamSite loads proxy-rewrite JS. 
   - You can verify if a site loads proxy-rewrite by checking the [proxy-rewrite-whitelist.json](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/proxy-rewrite-whitelist.json).
-  - Typically these sites will display the injected modernized header/footer, but in some cases, sites may load the proxy-rewrite JS but not yet display the injected header. Proxy-rewrite-whitelist.json is the source of truth.
+  - Typically these sites will display the injected modernized header/footer, but in some cases, sites may load the proxy-rewrite JS but not yet display the injected header. `proxy-rewrite-whitelist.json` is the source of truth.
 
 _What team is responsible?_
 - IA must signoff on the request.
@@ -133,7 +133,7 @@ Changes are made in Client-side redirects file: vets-website proxy-rewrite [cros
 5. Proxy-rewrite JS code begins executing -
    - If there is a client-side redirect defined in [crossDomainRedirects.json](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json), the redirect will execute.
 
-Consider if the redirect should be a `catchAll`. Example [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json#L1174)
+Consider if the redirect should be a `catchAll`. Example [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json#L1186)
 
 _Other notes_
 - Level of difficulty: low
@@ -142,7 +142,7 @@ _Other notes_
     - A) Replace their page content with a 'redirect' message and 
     - B) Update their print materials and nav links with the new URL
 
-### 4. Subdomain > VA.gov: Page-level cross-domain redirect for a subdomain that loads proxy-rewrite JS
+### 4. Subdomain > VA.gov: Page-level cross-domain redirect for a subdomain that does not load proxy-rewrite JS
 
 For subdomains that do not use the Injected Header. 
 
@@ -220,7 +220,7 @@ _What team is responsible?_
   * There are options for `rewrite` and `retain_path`. If you have questions on what values to use for those options, you can reach out to VSP Devops, Mikki Northuis, and the redirect request's stakeholder(s) for clarity.
 
 _Other notes_
-Vets.gov redirects were more typical during the era when vets.gov content was migrating to become va.gov content. As of 2024, only system error pages (e.g. 404, 502, etc) live in the vets-gov repository and we should no longer see redirects like this.
+- Vets.gov redirects were more typical during the era when vets.gov content was migrating to become va.gov content. As of 2024, only system error pages (e.g. 404, 502, etc) live in the vets-gov repository and we should no longer see redirects like this.
 
 
 ### 8. Other
@@ -264,6 +264,8 @@ Some extra contact information: VA TIC Gateway Operations
 - Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for subdomains
 
 ## Change history
+_8/1/24 - @randimays Minor copy updates from technical review_
+
 _7/31/24 - @jilladams Updated copy to match upcoming guidance changes from https://github.com/department-of-veterans-affairs/va.gov-team/issues/83498_
 
 _7/10/24 - @jilladams updated paths to point to new revproxy repo: https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/tree/main_
