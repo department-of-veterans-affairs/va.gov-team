@@ -33,10 +33,10 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 ### Retention Rates 
 
-| Vateran Behavior | 30-Day Rate | 60-Day Rate | 90-Day Rate | 120-Day Rate| 150-Day Rate | 180-Day Rate |
+| Veteran Behavior | 1 Month | 2 Month | 3 Month | 4 Month| 5 Month | 6 Month |
 | -------- | -------- | ---------- | ----------------- | -----------------| ----------- | --------- |
 | Vateran Opened App & Viewed Home Screen | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
 
 
 
-* Retention Cohort Date Range: 10/01/23 - 10/31/23 
+* Retention sample date range : 10/01/23 - 10/31/23 
