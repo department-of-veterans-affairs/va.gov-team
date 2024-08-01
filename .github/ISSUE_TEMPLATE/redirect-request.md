@@ -12,8 +12,7 @@ assignees: jennymayoco, kristinoletmuskat, strelichl
 - Requests must be submitted **AT LEAST** 2 weeks in advance.  Some requests take a significant amount of time and coordination to implement, so start the process as soon as you know you will need one. 
 - This issue will be used from initial request through implementation to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track different steps.
 - It is your responsibility to notify VA stakeholders as appropriate.
-- Please review [Redirect governance](https://design.va.gov/components/url-standards/redirects) and [Redirect technical implementation information
-](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md) for your team's awareness
+
 | POC | Github alias(es) |
 --- | --- 
 | Product team point(s) of contact: | @ |
@@ -28,11 +27,13 @@ assignees: jennymayoco, kristinoletmuskat, strelichl
 - [ ] We are removing a temporary redirect  (add relevant background and link to original redirect request)
 
 ### Do you have a product technical team able to implement this redirect?
-- [ ] Yes - Please note: Redirect still needs approval from IA. 
+- [ ] Yes - Please note: Redirect still needs approval from IA.
+  - [ ] Please verify your team has reviewed [Redirect governance](https://design.va.gov/components/url-standards/redirects) and [Redirect technical implementation information
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md) 
 - [ ] No - CAIA will need to make Public Websites aware of the ticket.
 
 ### Implementation date
-When does this request need to be live? **NOTE:** Redirects in revproxy auto-deploy M-Th. Friday launches should be avoided.
+When does this request need to be live? **NOTE:** Redirects in vsp-platform-revproxy auto-deploy M-Th. Friday launches should be avoided.
 Choose one:
 - [ ] On a specific date, connected to a program or publishing requirement. **DATE:**
 - [ ] Any day prior to a deadline/latest possible date. **DEADLINE:** 
