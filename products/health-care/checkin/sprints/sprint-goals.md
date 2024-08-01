@@ -69,6 +69,7 @@
     - ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
     - ❗🟨 [Rotate AWS Keys - July 29, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76337) (added after planning)
     - ❗🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
+    - ✔️ 🟨 [[DevOps] Proof-of-Concept for CloudWatch Metric Streams to Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83403)
     - ✔️ ❗🟨 [[DevOps] Discovery on copying secrets necessary for Vista API backend to function into vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88378)
     - ✔️ ❗🟨 [[DevOps] Implement LoROTA postData system test library function.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88816)
     - ✔️ ❗🟨 [[DevOps] Implement LoROTA postData will-create-a-valid-data-entry system test. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88824)
