@@ -6,6 +6,7 @@
 ## Communications
 - **Github labels**: authenticated-experience; profile-completion
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **Teams**: Account Experience - Profile, IIR 
 
 ## Overview
 
