@@ -89,7 +89,7 @@ ________________________________________________________________________________
        - 🟥 Meet with Melissa and Peter to cross-share findings and determine what design or content is needed as a result of their findings
        - 🟥 Implement design and content recommendations from research findings
        - 🟥 Attend DS Office Hours to share design changes, if needed
-       - 🟨 Schedule and present research findings readout to OCTO, VSS, EPS
+       - 🟨 Schedule research findings readout to OCTO, VSS, EPS
        - 🟨 [[Create ED ticket for filtering]Several teams have been working on "filters" for content. We really do not have a great pattern. I would suggest you submit this to experimental design.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85515)
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
        - 🟦 [[SPIKE] Determine approach for checking if appts have been scheduled in WellHive, but aren't in VAOS Backend yet](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88491)
