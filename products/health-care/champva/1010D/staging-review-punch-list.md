@@ -69,6 +69,7 @@ See Platform guidance on [Staging Review artifacts](https://depo-platform-docum
 
 **IA artifacts**
 - [ ] Please include a link to any [Sitewide CAIA](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/sitewide-caia-intake-request) feedback you received, including an IA review document or intake form.
+  - [ ] https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/champva-online-form.md
 
 **QA artifacts**
 An artifact that corresponds to each standard in the [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards).
