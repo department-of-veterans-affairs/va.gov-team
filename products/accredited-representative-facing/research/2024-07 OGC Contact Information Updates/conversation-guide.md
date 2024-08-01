@@ -81,11 +81,17 @@ Notetakers: review [these guidelines](https://github.com/department-of-veterans-
 
 ### Preface.
 
-Hi [NAME], thanks for joining us today! How’s your day going so far? _Wait for response_ My name is [NAME] and I’m a researcher working on creating accredited representative-facing tools on VA.gov so Veterans Service Organizations can better support Veterans. [NAME] is joining us to take notes. [NAME] do you want to say hello and introduce yourself?Before we get started a few things I want to mention:- This session should take about an hour. We’ll be focusing on your experiences as an certifying official. The first part will be me asking you questions and learning more about your experiences, then I will screenshare and show you a mockup of a digital tool and ask for your feedback on how you might use the tool. - We want to hear your honest opinions so we can make improvements. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback. I won't be offended by any opinions you express.* Your participation is completely voluntary. If for any reason you want to stop, or do not want to answer a question, please let me know. 
+Hi [NAME], thanks for joining us today! How’s your day going so far? _Wait for response_ My name is [NAME] and I’m a researcher working on creating accredited representative-facing tools on VA.gov so Veterans Service Organizations can better support Veterans. [NAME] is joining us to take notes. [NAME] do you want to say hello and introduce yourself?Before we get started a few things I want to mention:
 
-* During today's interview, we may discuss experiences that have caused serious frustration. I do want to know about those experiences in case there are processes we can improve in the future, but they are not experiences I can help with directly. 
+- This session should take about an hour. We’ll be focusing on your experiences as an certifying official. The first part will be me asking you questions and learning more about your experiences, then I will screenshare and show you a mockup of a digital tool and ask for your feedback on how you might use the tool. 
 
-* Knowing this, I have \[#] teammates in the waiting room on Zoom who would like to observe our session, but only if you're comfortable. Would that be okay, or do you prefer to keep the session to just the \[#] of us?
+- We want to hear your honest opinions so we can make improvements. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback. I won't be offended by any opinions you express.
+
+- Your participation is completely voluntary. If for any reason you want to stop, or do not want to answer a question, please let me know. 
+
+- During today's interview, we may discuss experiences that have caused serious frustration. I do want to know about those experiences in case there are processes we can improve in the future, but they are not experiences I can help with directly. 
+
+- Knowing this, I have [#] teammates in the waiting room on Zoom who would like to observe our session, but only if you're comfortable. Would that be okay, or do you prefer to keep the session to just the [#] of us?
 
   - If no: Use Slack to kindly ask the observers to leave the Zoom.
 
@@ -95,13 +101,15 @@ Hi [NAME], thanks for joining us today! How’s your day going so far? _Wait for
 
   - Once complete, ask the notetaker and observer(s) to turn off their cameras for the remainder of the session to save bandwidth.
 
-* Are you ok if I record my screen and audio as we talk today for analysis and reporting purposes? We like to record to make sure we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
+Are you ok if I record my screen and audio as we talk today for analysis and reporting purposes? We like to record to make sure we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
 
-  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.Start recording in CAG. Enable record to cloud.* I have started recording. I'd like to confirm: Do I have permission to record as we talk today for analysis and reporting purposes?**
+  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.Start recording in CAG. Enable record to cloud.
+
+I have started recording. I'd like to confirm: Do I have permission to record as we talk today for analysis and reporting purposes?
 
 ### Intro.
 
-# **We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. This information is what Veterans see when they search for VSOs on the website, let me show you what this looks like for context. _Screenshare_ [_OGC database_](https://www.va.gov/ogc/apps/accreditation/index.asp) _and_ [_FAR_](https://www.va.gov/get-help-from-accredited-representative/find-rep/)_._ 1) Are you familiar with either of these search tools? If so, what do you use them for?
+1) We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. This information is what Veterans see when they search for VSOs on the website, let me show you what this looks like for context. _Screenshare_ [_OGC database_](https://www.va.gov/ogc/apps/accreditation/index.asp) _and_ [_FAR_](https://www.va.gov/get-help-from-accredited-representative/find-rep/)_._ 1) Are you familiar with either of these search tools? If so, what do you use them for?
 
 2) How many certifying officials do you have at your organization?
 
@@ -129,135 +137,146 @@ Hi [NAME], thanks for joining us today! How’s your day going so far? _Wait for
 
 ### Let’s talk about emails.
 
-# **1. Do your VSO representatives have multiple professional email addresses? 
+1. Do your VSO representatives have multiple professional email addresses? 
 
-   1. If so, which one do they tend to use to communicate with their Veteran clients? 
+   - If so, which one do they tend to use to communicate with their Veteran clients? 
 
-   2. Which one would you want displayed to Veterans for them to contact the representative, and is this different from what they’d want VA to use to contact them?
+   - Which one would you want displayed to Veterans for them to contact the representative, and is this different from what they’d want VA to use to contact them?
 
-   3. If the VSO representatives you support have a VA.gov email account, do they use it to communicate with Veterans at all? If so, have you noticed confusion as far as them thinking you work for VA? 
+   - If the VSO representatives you support have a VA.gov email account, do they use it to communicate with Veterans at all? If so, have you noticed confusion as far as them thinking you work for VA? 
 
 2. If cross-accredited, do you know if your representatives have emails associated with each of the organizations? Do you know if they use those emails?
 
-3. Anything else we should know about email addresses? .**
+3. Anything else we should know about email addresses?
 
 ### Let’s talk about addresses.
 
-# **1. Does your organization support Veterans in person, remotely, or hybrid?
+1. Does your organization support Veterans in person, remotely, or hybrid?
 
-   1. Do any of your representatives work fully remotely? If so, would you want this indicated in the public-facing directory?
+   - Do any of your representatives work fully remotely? If so, would you want this indicated in the public-facing directory?
 
-   2. Would you ever want the address set to private (not displayed publicly)?
+   - Would you ever want the address set to private (not displayed publicly)?
 
 2. Do your representatives have multiple possible addresses? 
 
-   1. If so, what address would you want a Veteran to see/use, if any?
+   - If so, what address would you want a Veteran to see/use, if any?
 
-   2. Is it the same or a different address from what you’d want the VA and OGC to use to communicate with you?
+   - Is it the same or a different address from what you’d want the VA and OGC to use to communicate with you?
 
-3. Anything else we should know about locations and addresses? **
+3. Anything else we should know about locations and addresses?
 
 ## Concept testing.
 
-# **Now we’re going to show you what we’ve been working on and would appreciate your feedback.\[Moderator: open Figma <https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19> ]**
+Now we’re going to show you what we’ve been working on and would appreciate your feedback.\[Moderator: open Figma <https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19> ]**
 
 ### Email
 
-# **1. We’re going to pretend that you are a certifying official for VFW and someone visited VA.gov and tried calling a phone number for Kelly Nabaglo, an officer with VFW, and it was out of service. That person wanted to report the outdated information and this email was generated and sent to you, as Kelly’s certifying official. 
+1. We’re going to pretend that you are a certifying official for VFW and someone visited VA.gov and tried calling a phone number for Kelly Nabaglo, an officer with VFW, and it was out of service. That person wanted to report the outdated information and this email was generated and sent to you, as Kelly’s certifying official. 
 
-   1. Take a moment to read it (make sure zoomed in, and volunteer to read out loud).
+   - Take a moment to read it (make sure zoomed in, and volunteer to read out loud).
 
-   2. Would you find this useful?
+   - Would you find this useful?
 
-   3. Any feedback on this email?
+   - Any feedback on this email?
 
-   4. If you got this email, what would you do next? (e.g. log in directly or communicate with the VSO representative or supervisor first)**
+   - If you got this email, what would you do next? (e.g. log in directly or communicate with the VSO representative or supervisor first)
 
 ### Homepage
 
-# **2. Let’s say you’ve confirmed that Kelly has a new number and you want to update it. As instructed in the email, you click on the button to go to the Accredited Representative Portal. 
+2. Let’s say you’ve confirmed that Kelly has a new number and you want to update it. As instructed in the email, you click on the button to go to the Accredited Representative Portal. 
 
-   1. Take a moment to look at this website.
+   - Take a moment to look at this website.
 
-   2. What are your impressions of it?
+   - What are your impressions of it?
 
-   3. What do you think you’d be able to do here?
+   - What do you think you’d be able to do here?
 
-   4. How would you expect to log in?
+   - How would you expect to log in?
 
-   5. Anything else?**
+   - Anything else?
 
 ### Dashboard
 
-# **3. Let’s say you sign in and get to this dashboard. 
+3. Let’s say you sign in and get to this dashboard. 
 
-   1. Take a moment to look at the dashboard and then tell us what you think of it.
+   - Take a moment to look at the dashboard and then tell us what you think of it.
 
-   2. What do you notice?
+   - What do you notice?
 
-   3. Is there anything you would find useful here?
+   - Is there anything you would find useful here?
 
-   4. Anything else you’d expect to see here?**
+   - Anything else you’d expect to see here?
 
 ### Representatives list
 
-# **4. Here you can see a list of your representatives and the ability to search for a specific representative.
+4. Here you can see a list of your representatives and the ability to search for a specific representative.
 
-   1. Take a moment to look at this page and then tell us what you think of it.
+   - Take a moment to look at this page and then tell us what you think of it.
 
-   2. How do you imagine you would search for a VSO representative to update their information? Would you use any of these fields; would you expect any additional fields? (e.g. OGC number)**
+   - How do you imagine you would search for a VSO representative to update their information? Would you use any of these fields; would you expect any additional fields? (e.g. OGC number)
 
 ### Edit entry
 
-# **5. Let’s say you did a search and found Kelly here and want to update her phone number, so you click on Edit and land on this page here.
+5. Let’s say you did a search and found Kelly here and want to update her phone number, so you click on Edit and land on this page here.
 
-   1. Take a moment to look at this page and then tell us what you think of it. 
+   - Take a moment to look at this page and then tell us what you think of it. 
 
-   2. Is this all information you’d expect to be able to update?
+   - Is this all information you’d expect to be able to update?
 
-   3. Would you expect these to be required or optional fields?
+   - Would you expect these to be required or optional fields?
 
-   4. Anything else you’d expect to be able to update?
+   - Anything else you’d expect to be able to update?
 
-   5. Anything else you’d expect to be able to do here?**
+   - Anything else you’d expect to be able to do here?
 
 ### Cancel accreditation
 
-# **6. Let’s stay that Kelly retired so instead of updating her contact information you actually want to cancel her accreditation and make sure she’s removed from the public directory. _Go back to manage screen and show “Cancel accreditation” button_. _Then go to cancel accreditation screen_.
+6. Let’s stay that Kelly retired so instead of updating her contact information you actually want to cancel her accreditation and make sure she’s removed from the public directory. _Go back to manage screen and show “Cancel accreditation” button_. _Then go to cancel accreditation screen_.
 
-   1. Take a moment to look at this page and then tell us what you think of it.
+   - Take a moment to look at this page and then tell us what you think of it.
 
-   2. What do you think of these options? (“No longer with the organization,” “Misconduct,” and “Resigned to avoid cancellation”)
+   - What do you think of these options? (“No longer with the organization,” “Misconduct,” and “Resigned to avoid cancellation”)
 
-   3. Would you use the “Tell us more” text box? **
+   - Would you use the “Tell us more” text box?
 
 ### Cancel accreditation request submitted
 
-# **7) Let’s say you selected “No longer with the organization” and left the text box blank, then clicked “Submit request” and ended up on this screen.
+7. Let’s say you selected “No longer with the organization” and left the text box blank, then clicked “Submit request” and ended up on this screen.
 
-   1. Take a moment to look at this page and then tell us what you think of it.1. What would you expect the “Undo” button to do? 
+   - Take a moment to look at this page and then tell us what you think of it.
+8. What would you expect the “Undo” button to do? 
 
-2. What would you expect the “X” to do?**
+9. What would you expect the “X” to do?
 
 ### Closeout
 
-# **1) What are your overall impressions of this experience?
+1. What are your overall impressions of this experience?
 
-2) Do you think you would use this in the future? 
+2. Do you think you would use this in the future? 
 
-3) How would this experience compare with the current one (emailing OGC)?1. Is there anything else that you’d expect to be able to do when signed in to this portal?
+3. How would this experience compare with the current one (emailing OGC)?
 
-2. Anything else we should know?Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on developing the tools for VSOs.Our team will be sending a thank you email, where we’ll provide a link to our feedback intake form to get notified of future feedback opportunities, which you can share with your colleagues.Thank you so much again, and enjoy the rest of your day!**
+4. Is there anything else that you’d expect to be able to do when signed in to this portal?
+
+5. Anything else we should know?
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on developing the tools for VSOs.Our team will be sending a thank you email, where we’ll provide a link to our feedback intake form to get notified of future feedback opportunities, which you can share with your colleagues.Thank you so much again, and enjoy the rest of your day!
 
 ## Accredited Attorneys and Claims Agents
 
 ### Preface.
 
-# **Hi \[NAME], thanks for joining us today! How’s your day going so far?_Wait for response_My name is \[NAME] and I’m a researcher working on creating accredited representative-facing tools on VA.gov so Veterans Service Organizations can better support Veterans. \[NAME] is joining us to take notes, do you want to say hello \[NAME]?Before we get started a few things I want to mention:- This session should take about an hour. We’ll be focusing on your experiences as an certifying official. The first part will be me asking you questions and learning more about your experiences, then I will screenshare and show you a mockup of a digital tool and ask for your feedback on how you might use the tool. - We want to hear your honest opinions so we can make improvements. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback. I won't be offended by any opinions you express.* Your participation is completely voluntary. If for any reason you want to stop, or do not want to answer a question, please let me know. 
+Hi [NAME], thanks for joining us today! How’s your day going so far?_Wait for response_My name is [NAME] and I’m a researcher working on creating accredited representative-facing tools on VA.gov so Veterans Service Organizations can better support Veterans. [NAME] is joining us to take notes, do you want to say hello [NAME]?Before we get started a few things I want to mention:
 
-* During today's interview, we may discuss experiences that have caused serious frustration. I do want to know about those experiences in case there are processes we can improve in the future, but they are not experiences I can help with directly. 
+- This session should take about an hour. We’ll be focusing on your experiences as an certifying official. The first part will be me asking you questions and learning more about your experiences, then I will screenshare and show you a mockup of a digital tool and ask for your feedback on how you might use the tool. 
 
-* Knowing this, I have \[#] teammates in the waiting room on Zoom who would like to observe our session, but only if you're comfortable. Would that be okay, or do you prefer to keep the session to just the \[#] of us?
+- We want to hear your honest opinions so we can make improvements. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback. I won't be offended by any opinions you express.
+
+- Your participation is completely voluntary. If for any reason you want to stop, or do not want to answer a question, please let me know. 
+
+- During today's interview, we may discuss experiences that have caused serious frustration. I do want to know about those experiences in case there are processes we can improve in the future, but they are not experiences I can help with directly. 
+
+- Knowing this, I have [#] teammates in the waiting room on Zoom who would like to observe our session, but only if you're comfortable. Would that be okay, or do you prefer to keep the session to just the [#] of us?
 
   - If no: Use Slack to kindly ask the observers to leave the Zoom.
 
@@ -267,13 +286,15 @@ Hi [NAME], thanks for joining us today! How’s your day going so far? _Wait for
 
   - Once complete, ask the notetaker and observer(s) to turn off their cameras for the remainder of the session to save bandwidth.
 
-* Are you ok if I record my screen and audio as we talk today for analysis and reporting purposes? We like to record to make sure we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
+Are you ok if I record my screen and audio as we talk today for analysis and reporting purposes? We like to record to make sure we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
 
-  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.Start recording in CAG. Enable record to cloud.* I have started recording. I'd like to confirm: Do I have permission to record as we talk today for analysis and reporting purposes?**
+  - If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.Start recording in CAG. Enable record to cloud.
+
+I have started recording. I'd like to confirm: Do I have permission to record as we talk today for analysis and reporting purposes?
 
 ### Intro.
 
-# **We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. _Screenshare_ [_OGC database_](https://www.va.gov/ogc/apps/accreditation/index.asp) _and_ [_FAR_](https://www.va.gov/get-help-from-accredited-representative/find-rep/) _for context._ 1) Are you familiar with either of these search tools? If so, what do you use them for?
+We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. _Screenshare_ [_OGC database_](https://www.va.gov/ogc/apps/accreditation/index.asp) _and_ [_FAR_](https://www.va.gov/get-help-from-accredited-representative/find-rep/) _for context._ 1) Are you familiar with either of these search tools? If so, what do you use them for?
 
 2) Can you talk us through your current process for updating contact information?
 
@@ -285,85 +306,85 @@ Hi [NAME], thanks for joining us today! How’s your day going so far? _Wait for
 
 ### Let’s talk about emails.
 
-# **1. Do you have multiple professional email addresses? If so:
+1. Do you have multiple professional email addresses? If so:
 
    1. Is one of them a va.gov email address?
 
-      1. If you’ve used your va.gov email address to communicate with Veterans, have you noticed confusion as far as them thinking you work for VA? 
+      - If you’ve used your va.gov email address to communicate with Veterans, have you noticed confusion as far as them thinking you work for VA? 
 
-   2. Which one do you tend to use to communicate with their Veteran clients? 
+      - Which one do you tend to use to communicate with their Veteran clients? 
 
-   3. Which one would you want displayed to Veterans for them to contact you, and is this different from what you’d want VA to use to contact you?
+      - Which one would you want displayed to Veterans for them to contact you, and is this different from what you’d want VA to use to contact you?
 
 2. If you don’t have multiple email addresses now, do you think it’s something that could happen in the future? Or are you aware of colleagues that have multiple addresses?
 
-3. Anything else we should know about email addresses? **
+3. Anything else we should know about email addresses?
 
 ### Let’s talk about addresses.
 
-# **1. Do you support Veterans in person, remotely, or hybrid?
+1. Do you support Veterans in person, remotely, or hybrid?
 
-   1. If remote, would you want the public directory to indicate to Veterans that you work remotely?
+   - If remote, would you want the public directory to indicate to Veterans that you work remotely?
 
 2. Do you have multiple possible addresses? 
 
-   1. If so, what address would you want a Veteran to see/use, if any?
+   - If so, what address would you want a Veteran to see/use, if any?
 
-   2. Is it the same or a different address from what you’d want the VA and OGC to use to communicate with you?
+   - Is it the same or a different address from what you’d want the VA and OGC to use to communicate with you?
 
-3. Anything else we should know about locations and addresses? **
+3. Anything else we should know about locations and addresses?
 
 ### Concept testing.
 
-# **Now we’re going to show you what we’ve been working on and would appreciate your feedback.<https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-18> **
+Now we’re going to show you what we’ve been working on and would appreciate your feedback.<https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-18> 
 
 ### Homepage
 
-# **1. Let’s say you’ve recently moved to a new office and you want to update your address and phone number. You go to this Accredited Representative Portal where you can make updates.
+1. Let’s say you’ve recently moved to a new office and you want to update your address and phone number. You go to this Accredited Representative Portal where you can make updates.
 
-   1. Take a moment to look at this website.
+   - Take a moment to look at this website.
 
-   2. What are your impressions of it?
+   - What are your impressions of it?
 
-   3. What do you think you’d be able to do here?
+   - What do you think you’d be able to do here?
 
-   4. How would you expect to log in?
+   - How would you expect to log in?
 
-   5. Anything else?**
+   - Anything else?**
 
 ### Dashboard
 
-# **1. Let’s say you sign in and get to this dashboard. 
+2. Let’s say you sign in and get to this dashboard. 
 
-   1. Take a moment to look at the dashboard and then tell us what you think of it.
+   - Take a moment to look at the dashboard and then tell us what you think of it.
 
-   2. What do you notice?
+   - What do you notice?
 
-   3. Is there anything you would find useful here?
+   - Is there anything you would find useful here?
 
-   4. (If not mentioned) What do you think about the accreditation details here? Does your registration number and POA code mean anything to you? 
+   - (If not mentioned) What do you think about the accreditation details here? Does your registration number and POA code mean anything to you? 
 
-   5. (if not mentioned) What do you think of the “Submit recertification” and “Submit CLE evidence” buttons? What would you expect to happen if you clicked on those? 
+   - (if not mentioned) What do you think of the “Submit recertification” and “Submit CLE evidence” buttons? What would you expect to happen if you clicked on those? 
 
-   6. Anything else you’d expect to see here?**
+   - Anything else you’d expect to see here?**
 
 ### Edit entry
 
-# **2. So you want to update your address and phone number, so you click on Edit and land on this page here.
+3. So you want to update your address and phone number, so you click on Edit and land on this page here.
 
-   1. Take a moment to look at this page and then tell us what you think of it. 
+   - Take a moment to look at this page and then tell us what you think of it. 
 
-   2. Is this all information you’d expect to be able to update?
+   - Is this all information you’d expect to be able to update?
 
-   3. Would you expect these to be required or optional fields?
+   - Would you expect these to be required or optional fields?
 
-   4. Anything else you’d expect to be able to update?
+   - Anything else you’d expect to be able to update?
 
-   5. Anything else you’d expect to be able to do here?**
+   - Anything else you’d expect to be able to do here?**
 
 ### Closeout
 
-# **1) What are your overall impressions of this experience?
+1) What are your overall impressions of this experience?
 
 2) Do you think you would use this in the future? 
 
@@ -373,8 +394,10 @@ Hi [NAME], thanks for joining us today! How’s your day going so far? _Wait for
 
 ## Emergency Exit
 
-# \[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it's easy to find during a session. Take some time to practice so it feels more comfortable.]* **Out of questions:** We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+\[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it's easy to find during a session. Take some time to practice so it feels more comfortable.]* 
 
-* **Blame technology**: I am so sorry, but I just learned that the \[website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+**Out of questions:** We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
-* **Backup Moderator**: This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session \[backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
+**Blame technology**: I am so sorry, but I just learned that the \[website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+
+**Backup Moderator**: This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session \[backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
