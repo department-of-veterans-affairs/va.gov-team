@@ -22,7 +22,6 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|Personalized home screen adoption| N/A ||||
 |Home screen load speed|5.6 secs||||
 |Unread message read rate|20.31%||||
 |Claims view rate|67.99%||||
