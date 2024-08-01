@@ -37,13 +37,13 @@
 - The experiment will run for 3 months (90 days)
 
 ### Targets
-|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to print 10-10EZ form|
+|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
 |---------|---------------|-------------|----------|---------------|---------------|----------|
 | Monthly Average | 18000 | 11000 | 250 | 200 |50 | 10 |
 | 3-month Total | x | x | x | x |x | x |
 
 ### Results
-|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to print 10-10EZ form|
+|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
 |---------|---------------|----------------|----------|---------------|---------------|----------|
 |Month 1| x | x | x | x |x | x |
 |Month 2| x | x | x | x |x | x |
