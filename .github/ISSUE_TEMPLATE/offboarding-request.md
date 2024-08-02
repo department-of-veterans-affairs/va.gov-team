@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Instructions
-Fill out name of individual and **Description** section below. Note: This form only handles deactivation from the DSVA (Office of CTO @ VA) Slack instance. For Lighthouse Slack removal, post a message in the [#lighthouse-delivery-platform-support](https://lighthouseva.slack.com/archives/C03UA9MV1EH) and @lighthouse-di-enablement team for assistance.
+Fill out name of individual and **Description** section below. Note: This form only handles deactivation from the DSVA (Office of CTO @ VA) Slack instance. For Lighthouse Slack removal, post a message in [#lighthouse-delivery-platform-support](https://lighthouseva.slack.com/archives/C03UA9MV1EH) and tag @lighthouse-di-enablement team for assistance.
 
 *(Please add only one individual per form)*
 
