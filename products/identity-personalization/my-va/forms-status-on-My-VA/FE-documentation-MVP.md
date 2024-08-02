@@ -64,7 +64,7 @@ You have no benefit applications or forms to show.
 
 
 **Visual specs**
-- [The accordion component's bordered variant from the VA design system is utilized here](https://design.va.gov/components/accordion)
+- [The accordion component's bordered variant from the VA design system is utilized](https://design.va.gov/components/accordion)
 - Typography: 'vads-font-size-base', with bolded text using 'vads-font-weight-bold'
 - Link style: 'default'
 
@@ -201,21 +201,21 @@ Figma file (with content supplied by CAIA):
 - [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=FOSo9YgBxV0pQn0K-1)
 
 
-
 ### How does a form/application in the submission in progress status end up showing in a card on My VA?
 - _explain how the form appears_
 - _explain when the form disappears i.e. expires after 60 days_
 
 ---
+
 ## Form Status card - Action Needed
-- Desktop figma link
-- Mobile figma link
+- [Desktop figma link] (https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
+- [Mobile figma link] (https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
 
 **Show card**
-- _when to show the card_
-
+- When detected errors (aka detectable "silent errors") occur during the submission process of supported forms, the associated form cannot be processed by VA staff. In all likelihood, the form will have to be redone and resubmitted. To inform users, we display the "Action needed" card to indicate a system error took place and that they should contact the VA via the Benefits Hotline.
+  
 **Do NOT show card**
-- _when do we not show the card_
+- There are no detected system errors during the submission process of any of the user's forms (_however_ it is possible that an undetected error occurred in unknown scenarios - use cases of "Action needed" may expand over time).
 
 **Visual specs**
 - _what components are used?_
