@@ -1,7 +1,20 @@
 # Forms Status on My VA MVP Frontend Documentation
 Last updated: outline and draft cards info added August 1, 2024
 
-This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: drafts, submission in progress, received, and action needed
+This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
+
+- drafts
+- submission in progress
+- received
+- action needed
+
+It also outlines the accordion component with the title "If you can't find your application or form" that appears at the bottom of this section.
+
+In addition, this documentation accounts for possible scenarios in which no draft or form statuses can be displayed:
+
+- Failed network call
+- Failed API call
+- Scheduled maintenance
 
 ## When to show the ‘Benefit applications and forms' section
 We show this section for every LOA3 user.
@@ -58,10 +71,9 @@ Continue your application (linked to saved application)
 - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-47671&t=FOSo9YgBxV0pQn0K-1)
 
 **Positioning**
-Cards are displayed side by side on desktop and stacked on mobile as shown in the mockups above. If a user has more than two drafts to show, they keep stacking in this way on desktop with two per row max.
+Cards are stacked in a single column on both mobile and desktop, as shown in the mockups above. The order of cards stacks from the most recently created draft or submitted form at the top, with the oldest at the bottom. 
 
-_Needs to be updated since we are changeing configuration to single column_
-
+The accordion (Titled "If you can't find your application or form") always appears below the bottom most card.
 
 ---
 
@@ -73,6 +85,9 @@ _Needs to be updated since we are changeing configuration to single column_
 #### **Content**
 
 You have no benefit applications or forms to show.
+
+(This is displayed as body text, with no cards appearing).
+
 
 **Positioning**
 
