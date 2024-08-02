@@ -208,8 +208,8 @@ Figma file (with content supplied by CAIA):
 ---
 
 ## Form Status card - Action Needed
-- [Desktop figma link] (https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
-- [Mobile figma link] (https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
 
 **Show card**
 - When detected errors (aka detectable "silent errors") occur during the submission process of supported forms, the associated form cannot be processed by VA staff. In all likelihood, the form will have to be redone and resubmitted. To inform users, we display the "Action needed" card to indicate a system error took place and that they should contact the VA via the Benefits Hotline.
@@ -259,7 +259,19 @@ _where is the content called from_
 - _explain when the form disappears i.e. expires after 60 days_
 
 ---
-## Error States
+## Systems Related Error States
+
+Error states that are not related to individual forms:
+- Failed network call
+    -  [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=nHq2rMia3osfDiWr-1)
+    -  [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-17482&t=nHq2rMia3osfDiWr-1)
+- Failed API call
+    - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28921&t=nHq2rMia3osfDiWr-1)
+    - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28909&t=nHq2rMia3osfDiWr-1)
+- Scheduled maintenance
+    - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
+    - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1330-40104&t=nHq2rMia3osfDiWr-1)
+
 - Desktop figma link 
 - Mobile figma link
 
