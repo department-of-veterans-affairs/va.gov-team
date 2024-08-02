@@ -42,8 +42,9 @@ Below that, an accordion component (Titled "If you can't find your application o
 ---
 
 ## "If you can't find your application or form" accordion
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=bHDPfYWgYCpxLSG5-1)
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1318-46177&t=bHDPfYWgYCpxLSG5-1)
 
-[The accordion component's bordered variant from the VA design system is utilized here](https://design.va.gov/components/accordion).
 
 This component is visible in all scenarios EXCEPT for error scenarios in which no forms or drafts can be displayed (API fail, Network call fail, scheduled maintenance).
 
@@ -63,7 +64,7 @@ You have no benefit applications or forms to show.
 
 
 **Visual specs**
-- The 'Accordion' component's bordered variation (Titled "If you can't find your application or form") from VADS is used
+- [The accordion component's bordered variant from the VA design system is utilized here](https://design.va.gov/components/accordion)
 - Typography: 'vads-font-size-base', with bolded text using 'vads-font-weight-bold'
 - Link style: 'default'
 
