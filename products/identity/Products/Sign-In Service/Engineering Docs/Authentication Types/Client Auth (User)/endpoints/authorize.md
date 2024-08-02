@@ -79,4 +79,4 @@ staging.va.gov/auth/callback
 
 #### Error Responses
 
-For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#authorize---sign_inauthorize).
+For more detailed information on possible error responses see the [SiS Errors Page](../../../../Troubleshooting/errors.md).
