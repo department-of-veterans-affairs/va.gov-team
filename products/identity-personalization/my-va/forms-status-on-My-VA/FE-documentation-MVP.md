@@ -43,6 +43,8 @@ Below that, an accordion component (Titled "If you can't find your application o
 
 ## "If you can't find your application or form" accordion
 
+[The accordion component's bordered variant from the VA design system is utilized here](https://design.va.gov/components/accordion).
+
 This component is visible in all scenarios EXCEPT for error scenarios in which no forms or drafts can be displayed (API fail, Network call fail, scheduled maintenance).
 
 It provides information to help inform users why a draft or a form they have submitted previously is not appearing in the Benefit applications and forms section of the page.
