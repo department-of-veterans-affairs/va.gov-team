@@ -72,7 +72,7 @@ The 526EZ electronic form is expanding to incorporate additional questions relat
 
 ## Problem Statement
 
-We know veterans use various documents to piece together their military history when applying for benefits. Many use a copy of their DD214, but not all data required is available. Some use a PDF printout of their ILER record. Again, this isn't without issues as the data can be confusing and isn't organized in teh b
+We know veterans use various documents to piece together their military history when applying for benefits. Many use a copy of their DD214, but not all data required is available. Some use a PDF printout of their ILER record. Again, this isn't without issues as the data can be confusing and isn't organized in a way for easy comprehension.
 
 - As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
 - As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
