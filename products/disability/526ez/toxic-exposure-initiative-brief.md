@@ -125,6 +125,8 @@ Announcements will be posted in benefits-disability Slack channel. Still underst
 ### Incident Response
 [Incident Response SOP](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)
 
+[Product Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/toxic-exposure-product-playbook.md)
+
 [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&view=spans&from_ts=1719957251673&to_ts=1722549251673&live=true)
 
 - Team 1 Tech Lead, Aurora Hampton
