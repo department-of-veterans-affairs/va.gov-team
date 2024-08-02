@@ -1,4 +1,4 @@
-# [Product] Playbook
+# Toxic Exposure Product Playbook
 
 NOTE: 
 - links to complete data for each of the sections below is welcome and encouraged.
