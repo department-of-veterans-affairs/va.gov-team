@@ -70,63 +70,55 @@ This section outlines the steps to investigate and resolve issues related to the
 - Enables Find a Representative frontend - `find_a_representative_enable_frontend`
 - Enables Flag a Representative feature for Find a Representative tool - `find_a_representative_flag_results_enabled`
 
-### Useful Queries for Flagged Rep Data
-Here's a list of useful queries against the `flagged_veteran_representative_contact_data` vets-api table. If you have access to vets-api production, connect to a pod terminal, run `bundle exec rails console`, then one of the following queries. If you don't have access to vets-api production, contact Platform Support via the 'Office of CTO @ VA #vfs-platform-support' Slack channel and ask them to run the queries for you.
+### How to Get All Flagged Rep Data From Production
+If you have access to vets-api production, connect to a pod terminal, run `bundle exec rails console`, then copy/paste the following script. If you don't have access to vets-api production, contact Platform Support via the 'Office of CTO @ VA #vfs-platform-support' Slack channel and ask them to run it for you.
 
-#### Queries
-
-##### Create .csv File of All Records
-Run the following script to create a `.csv` file of all records in the `flagged_veteran_representative_contact_data` table.
-
-```
+```ruby
 require 'csv'
 
 data = RepresentationManagement::FlaggedVeteranRepresentativeContactData.all.map do |record|
   [record.id, record.ip_address, record.representative_id, record.flag_type, record.flagged_value, record.created_at, record.updated_at, record.flagged_value_updated_at]
 end
 
+sorted_data = data.sort_by { |record| record[0] }
+
 headers = ['ID', 'IP Address', 'Representative ID', 'Flag Type', 'Flagged Value', 'Created At', 'Updated At', 'Flagged Value Updated At']
 
-CSV.open('flagged_data.csv', 'wb') do |csv|
-  csv << headers
-  data.each do |row|
-    csv << row
+def push_to_csv(file_name_number, headers, sorted_data_chunk)
+  CSV.open("flagged_data-#{file_name_number}.csv", 'wb') do |csv|
+    csv << headers
+
+    sorted_data_chunk.each do |row|
+      csv << row
+    end
   end
 end
 
-file_path = File.expand_path('flagged_data.csv')
-puts "CSV file created successfully. Download it from: #{file_path}"
+file_name_number = 1
+
+sorted_data.each_slice(500) do |chunk|
+  push_to_csv(file_name_number, headers, chunk)
+  file_path = File.expand_path("flagged_data-#{file_name_number}.csv")
+  puts "CSV file created successfully. Download it from: #{file_path}"
+  file_name_number += 1
+end
 ```
 
-To view the `.csv` file, exit the Rails Console session, and run the following command: `cat flagged_data.csv`
-
-#### List All Records
-Use the following ActiveRecord query to get a list of all records.
+This will create a number of csv files. The output will look like this:
 
 ```
-RepresentationManagement::FlaggedVeteranRepresentativeContactData.all
+CSV file created successfully. Download it from: /app/flagged_data-1.csv
+CSV file created successfully. Download it from: /app/flagged_data-2.csv
 ```
 
-#### List All Records That Have Not Been Updated
-Use the following ActiveRecord query to get a list of all records that have not been updated.
-
-```
-RepresentationManagement::FlaggedVeteranRepresentativeContactData.where(flagged_value_updated_at: nil)
-```
-
-#### List All Records That Have Been Updated
-Use the following ActiveRecord query to get a list of all records that have been updated.
-
-```
-RepresentationManagement::FlaggedVeteranRepresentativeContactData.where.not(flagged_value_updated_at: nil)
+Once the script has run, exit the Rails console and run the following command for each csv file created, like this:
+```shell
+cat /app/flagged_data-1.csv
+cat /app/flagged_data-2.csv
+# etc
 ```
 
-#### Delete Multiple Records
-Use the following ActiveRecord statement to destroy multiple records at once. Simply replace the array of integers for `id` with an array of integers that contains the ids of the records you want to destroy.
-
-```
-RepresentationManagement::FlaggedVeteranRepresentativeContactData.where(id: [3, 4, 5]).destroy_all
-```
+Each time you `cat` the file, select the output, copy it, and email it via a onceler link (https://onceler.app.cloud.gov/) to the VA.gov email address that belongs to the person requesting the data.
 
 ## Security
 
