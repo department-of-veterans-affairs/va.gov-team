@@ -47,6 +47,19 @@ This component is visible in all scenarios EXCEPT for error scenarios in which n
 
 It provides information to help inform users why a draft or a form they have submitted previously is not appearing in the Benefit applications and forms section of the page.
 
+
+**Positioning**
+
+If there are form or draft card(s):
+
+The accordion appears below the entirety of form and draft cards
+
+
+If there are no form or draft card(s):
+
+You have no benefit applications or forms to show.
+
+
 ### Collapsed state
 
 **Content**
