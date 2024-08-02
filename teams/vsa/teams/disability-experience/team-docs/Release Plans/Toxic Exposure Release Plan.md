@@ -250,7 +250,7 @@ Other considerations:
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
-- Length of time: 4 days (Aug 20-23)
+- Length of time: 7 days (Aug 20-26)
 - Percentage of Users (and roughly how many users do you expect this to be): 10% of users, ~428 submissions
 
 #### Results
@@ -267,7 +267,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 4 days (Aug 27-30)
+- Length of time: 7 days (Aug 27 - Sept 2)
 - Percentage of Users (and roughly how many users do you expect this to be): 25%, 1071 submissions
 
 #### Results
@@ -299,7 +299,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 2 days (Sept. 5-6)
+- Length of time: 5 days (Sept. 5-9)
 - Percentage of Users (and roughly how many users do you expect this to be): 75%, 1605 submissions
 
 #### Results
@@ -314,7 +314,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 2 days (Sep 10-11)
+- Length of time: 1 days (Sep 10)
 - Percentage of Users (and roughly how many users do you expect this to be): 100%, 2141 submissions
 
 #### Results
