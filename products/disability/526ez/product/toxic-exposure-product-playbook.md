@@ -7,8 +7,7 @@ NOTE:
 ## Product Description
 To make it easy for Veterans to file disability compensation claims resulting from the PACT Act via va.gov, we are adding a toxic exposure (TE) section to the 21-526ez Veterans Disability Compensation and Related Compensation Benefits form on VA.gov.
 ## Routes to code
-links here
-issue tickets (if they add value when describing known errors for your product)
+> links here issue tickets (if they add value when describing known errors for your product)
 
 ## Contacts
 
