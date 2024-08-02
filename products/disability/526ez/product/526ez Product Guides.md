@@ -14,7 +14,7 @@ If there are any questions about the latest version of a product guide, reach ou
 2. Drafts of new versions are created and shared internally<br>
 Make updates to the docs with [MS Word change tracker](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a#:~:text=Click%20or%20tap%20at%20the,moves%20to%20the%20next%20change.) on. This will identify changes that have been made since the last version. Share with your product team for internal review via sharepoint in
 [Disability Benefits Experience/Documents/Drafts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/Documentation/Drafts?csf=1&web=1&e=Bq1VNW).
-This allows for better collaboration than uploading the docs to GitHub.<br><br>
+This allows for better collaboration than uploading the docs to GitHub. Please add your proposed new version to the changelog below with an 'In Progress' note so other teams will know there is a new revision in progress. <br><br>
 3. Submit drafts for Contact Center review<br>
 Follow steps in [request-contact-center-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
 to create a ticket. Update the change logs within the docs and on this page with ticket number. If updating both docs at the same time, a single ticket is ok.<br><br>
@@ -38,7 +38,7 @@ Make any requested changes and update in sharepoint. They will typically look th
 |5/1/24|3.2|[#82085](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82085)|Disability Experience Team 2|Post-Submission Failure Emails|
 |6/3/24|3.3|[#84315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84315)|Conditions Team|Improve conditions submission page|
 |7/18/24|3.4|[#88765](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88765)|Disability Experience Team 2|Post-Submission Failure Email|
-|7/26/24|4.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure<br>2022 Version|
+|7/26/24|4.0|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure<br>2022 Version|
 
 ## 526 BDD Product Guide Ticket History
 |Date|Version|Ticket|Author|Feature Name|
@@ -46,5 +46,5 @@ Make any requested changes and update in sharepoint. They will typically look th
 |Unknown|1.0|||Initial Version|
 |6/1/23|2.0|[#59016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59016)|Disability Experience Team 1|BDD SHA|
 |7/18/24|2.1|[#88767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88767)|Disability Experience Team 2|Post-Submission Failure Email|
-|7/26/24|3.0 (In Progress)|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure<br>2022 Version|
+|7/26/24|3.0|[#89438](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89438)|Disability Experience Team 1|Toxic Exposure<br>2022 Version|
 
