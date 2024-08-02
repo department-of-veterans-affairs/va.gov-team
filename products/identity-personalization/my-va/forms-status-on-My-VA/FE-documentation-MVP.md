@@ -21,7 +21,10 @@ We show this section for every LOA3 user.
 
 ---
 
-## Benefit application draft card
+## Card types
+
+
+### Benefit application draft card
 - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26447&t=FOSo9YgBxV0pQn0K-1)
 - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1264-32620&t=FOSo9YgBxV0pQn0K-1)
 
@@ -39,26 +42,26 @@ We show this section for every LOA3 user.
 - Use the [form status version of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
 - The "Continue your application" link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
 
-### **Content**
+#### **Content**
 
 Form code
 
 Application type
 
-`error` Application expires on: Date
+`error`(icon) Application expires on: Date
 
 Last opened on: Date
 
 Continue your application (linked to saved application)
 
 
-### **Content specs**
+#### **Content specs**
 
 - The data for the benefit application draft card is gathered from the same API call as the main user call.
 
 ---
 
-### How does an application in progress end up showing in a card on My VA?
+#### How does an application in progress end up showing in a card on My VA?
 
 - Forms and applications must be configured using the Save in progress (SiP) configuration as outlined on the [Platform website](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) 
 - Applications expire after 60 days of inactivity. The draft is no longer available. Veteran must restart the application/form.
@@ -77,12 +80,12 @@ The accordion (Titled "If you can't find your application or form") always appea
 
 ---
 
-### If a user does not have any benefit application drafts to show
+## If a user does not have any benefit application drafts to show
 
 - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1231-49126&t=FOSo9YgBxV0pQn0K-1)
 - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1260-37414&t=FOSo9YgBxV0pQn0K-1)
 
-#### **Content**
+### **Content**
 
 You have no benefit applications or forms to show.
 
