@@ -58,18 +58,21 @@ If you can't find your application or form
 **Content**
 
 If you can’t find a draft application or form, it may have expired. We only save draft applications and forms for 60 days. This helps us protect your personal data. After 60 days, you’ll need to start over. 
-If you can’t find an application or form you submitted, that doesn’t mean that we didn’t receive it. 
-We're offering a new feature for some forms that helps you track those forms from the time you submit the form online to when we confirm that we've received it.
-We'll show the status of these select forms here for 60 days after you submit the form:
-Authorize the release of non-VA medical information to VA (VA Form 21-4142 & 21-4142a)
-Submit a lay or witness statement to support a VA claim (VA Form 21-10210)
-Request priority processing for an existing claim (VA Form 20-10207)
-Authorize VA to release your information to a third-party source (VA Form 21-0845)
-Sign VA claim forms as an alternate signer (VA Form 21-0972)
-Submit an intent to file (VA Form 21-0966)
-Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847) 
-If you have questions about your applications or forms, call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
+If you can’t find an application or form you submitted, that doesn’t mean that we didn’t receive it. 
+
+We're offering a new feature for some forms that helps you track those forms from the time you submit the form online to when we confirm that we've received it.
+
+We'll show the status of these select forms here for 60 days after you submit the form:
+- Authorize the release of non-VA medical information to VA (VA Form 21-4142 & 21-4142a)
+- Submit a lay or witness statement to support a VA claim (VA Form 21-10210)
+- Request priority processing for an existing claim (VA Form 20-10207)
+- Authorize VA to release your information to a third-party source (VA Form 21-0845)
+- Sign VA claim forms as an alternate signer (VA Form 21-0972)
+- Submit an intent to file (VA Form 21-0966)
+- Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847)
+
+If you have questions about your applications or forms, call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 ---
 
