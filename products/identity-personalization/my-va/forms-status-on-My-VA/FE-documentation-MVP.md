@@ -62,6 +62,11 @@ If there are no form or draft card(s):
 You have no benefit applications or forms to show.
 
 
+**Visual specs**
+- The 'Accordion' component's bordered variation (Titled "If you can't find your application or form") from VADS is used
+- Typography: 'vads-font-size-base', with bolded text using 'vads-font-weight-bold'
+- Link style: 'default'
+
 ### Collapsed state
 
 **Content**
@@ -145,7 +150,6 @@ Continue your application (linked to saved application)
 **Positioning**
 Cards are stacked in a single column on both mobile and desktop, as shown in the mockups above. The order of cards stacks from the most recently created draft or submitted form at the top, with the oldest at the bottom. 
 
-The accordion (Titled "If you can't find your application or form") always appears below the bottom most card.
 
 ---
 
@@ -181,7 +185,7 @@ The cards with the statuses of submission in progress, received, and action need
 
 
 **Visual specs**
-- _what components are used?_
+- The Card component in the 
 - _what link styles are used?_
 - etc.
 
@@ -255,7 +259,7 @@ _where is the content called from_
 
 ---
 ## Error States
-- Desktop figma link
+- Desktop figma link 
 - Mobile figma link
 
 ### Error states associated with drafts
