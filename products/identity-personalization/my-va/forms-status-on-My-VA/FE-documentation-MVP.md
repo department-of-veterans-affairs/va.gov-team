@@ -3,10 +3,10 @@ Last updated: outline and draft cards info added August 1, 2024
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
-- drafts
-- submission in progress
-- received
-- action needed
+- Drafts
+- Submission in progress
+- Received
+- Action needed
 
 It also outlines the accordion component with the title "If you can't find your application or form" that appears at the bottom of this section.
 
