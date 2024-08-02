@@ -21,8 +21,47 @@ We show this section for every LOA3 user.
 
 ---
 
-## Card types
+## If a user does not have any benefit application drafts to show
 
+- [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1231-49126&t=FOSo9YgBxV0pQn0K-1)
+- [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1260-37414&t=FOSo9YgBxV0pQn0K-1)
+
+### **Content**
+
+You have no benefit applications or forms to show.
+
+(This is displayed as body text, with no cards appearing).
+
+
+**Positioning**
+
+This text appears directly below the "Benefit applications and forms" header on the lefthand side of the page on desktop.
+
+Below that, an accordion component (Titled "If you can't find your application or form") appears below the text "You have no benefit applications or forms to show."
+
+---
+
+## "If you can't find your application or form" accordion
+
+This component is visible in all scenarios EXCEPT for error scenarios in which no forms or drafts can be displayed (API fail, Network call fail, scheduled maintenance).
+
+It provides information to help inform users why a draft or a form they have submitted previously is not appearing in the Benefit applications and forms section of the page.
+
+### Collapsed state
+
+**Content**
+
+If you can't find your application or form
+
+### Expanded state
+
+**Content**
+
+
+
+---
+
+## Card types and variations
 
 ### Benefit application draft card
 - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26447&t=FOSo9YgBxV0pQn0K-1)
@@ -80,23 +119,6 @@ The accordion (Titled "If you can't find your application or form") always appea
 
 ---
 
-## If a user does not have any benefit application drafts to show
-
-- [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1231-49126&t=FOSo9YgBxV0pQn0K-1)
-- [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1260-37414&t=FOSo9YgBxV0pQn0K-1)
-
-### **Content**
-
-You have no benefit applications or forms to show.
-
-(This is displayed as body text, with no cards appearing).
-
-
-**Positioning**
-
-This text appears directly below the "Benefit applications and forms" header on the lefthand side of the page on desktop.
-
----
 ## When form status cards besides drafts appear
 
 For MVP, [7 forms are tracked and displayed on My VA](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/MVP-form-list.md):
