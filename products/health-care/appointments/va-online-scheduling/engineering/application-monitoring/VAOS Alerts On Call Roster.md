@@ -36,7 +36,7 @@ The following individuals are assigned to monitor the [VAOS Alerts dashboard](ht
   |------------|--------------------|
   |Aug 5-9||
   |Aug 12-16||
-  |Aug 19-23||
+  |Aug 19-23|John Luo|
   |Aug 26-30||
  </details>
  
