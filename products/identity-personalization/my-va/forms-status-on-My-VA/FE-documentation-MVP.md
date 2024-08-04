@@ -66,7 +66,7 @@ You have no benefit applications or forms to show.
 
 **Visual specs**
 - [The accordion component's bordered variant from the VA design system is utilized](https://design.va.gov/components/accordion)
-- Typography: 'vads-font-size-base', with bolded text using 'vads-font-weight-bold'
+- Typography: 'h3', 'vads-font-size-base' with bolded text using 'vads-font-weight-bold', tag component uses its default 'regular' font style
 - Link style: 'default'
 
 ### Collapsed state
@@ -117,7 +117,7 @@ If you have questions about your applications or forms, call us at 800-827-1000 
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is also used.
 - Link style: the "Continue your application" link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in VADS.
-- Typography: 'vads-font-size-base'
+- Typography: 'h3', 'vads-font-size-base'
 
 #### **Content**
 
@@ -195,6 +195,7 @@ Once one of these forms are submitted, they will be represented as a card on My 
 - Link styles:
   - ['download' variant](https://design.va.gov/components/tag)
   - 'default' for benefits hotline number and TTY
+- Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
 
@@ -228,7 +229,6 @@ Figma file (with content supplied by CAIA):
 
 ---
 
-
 ## Form Status card - Received
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1236-24507&t=70N3w0qWEHXE9kWz-1)
 - [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-47328&t=70N3w0qWEHXE9kWz-1)
@@ -248,6 +248,7 @@ Figma file (with content supplied by CAIA):
 - Link styles:
   - ['download' variant](https://design.va.gov/components/tag)
   - 'default' for benefits hotline number and TTY
+- Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
 
@@ -306,7 +307,7 @@ This is an **error state** for an individual form submission. This occurs after 
 - Link style:
   - ['download' variant](https://design.va.gov/components/tag)
   - 'default' for benefits hotline number and TTY
-- Typography: 'vads-font-size-base'
+- Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
 
