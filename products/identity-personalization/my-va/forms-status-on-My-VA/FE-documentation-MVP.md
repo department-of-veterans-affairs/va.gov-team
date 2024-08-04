@@ -6,11 +6,11 @@ This FE documentation outlines all possible status cards that appear in the Bene
 - Drafts
 - Submission in progress
 - Received
-- Action needed
+- Action needed (an error state specific to an individual form submission)
 
 It also outlines the accordion component with the title "If you can't find your application or form" that appears at the bottom of this section.
 
-In addition, this documentation accounts for possible scenarios in which no draft or form statuses can be displayed:
+In addition, this documentation accounts for possible scenarios in which no draft or form statuses can be displayed in the entirety of the section:
 
 - Failed user call
 - Failed network call
@@ -114,12 +114,14 @@ If you have questions about your applications or forms, call us at 800-827-1000 
 
 **Visual specs**
 
-- There is a Tag component with the content "Draft"
-- Use the [form status version of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
+- The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
+- The Tag component in [VADS](https://design.va.gov/components/tag) is also used.
 - Link style: the "Continue your application" link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in VADS.
 - Typography: 'vads-font-size-base'
 
 #### **Content**
+
+DRAFT
 
 Form code
 
@@ -170,6 +172,7 @@ For MVP, [7 forms are tracked and displayed on My VA](https://github.com/departm
 
 Once one of these forms are submitted, they will be represented as a card on My VA. The cards with the statuses of submission in progress, received, and action needed correspond to these forms. 
 
+---
 
 ## Form Status card - Submission in progress
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=FOSo9YgBxV0pQn0K-1)
@@ -195,9 +198,7 @@ Once one of these forms are submitted, they will be represented as a card on My 
 
 ### **Content**
 
-**Card contents:**
-
-Submission in progress
+SUBMISSION IN PROGRESS
 
 Form name
 
@@ -227,7 +228,60 @@ Figma file (with content supplied by CAIA):
 
 ---
 
-## Errors states associated with form status
+
+## Form Status card - Received
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1236-24507&t=70N3w0qWEHXE9kWz-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-47328&t=70N3w0qWEHXE9kWz-1)
+
+**Show card**
+- When one of the supported forms that can be tracked has been received by the VA after going through the submission process.
+
+**Do NOT show card**
+- When a form that is not supported has been submitted by the user
+- When a detectable silent error has occured with a supported form submission (the "Action needed" card variation will be shown instead)
+- When a form is still in progress (a "Draft" card)
+- If a user does not have any benefit applications or forms that they have submitted.
+
+**Visual specs**
+- The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
+- The Tag component in [VADS](https://design.va.gov/components/tag) is used.
+- Link styles:
+  - ['download' variant](https://design.va.gov/components/tag)
+  - 'default' for benefits hotline number and TTY
+
+### **Content**
+
+**Card contents:**
+
+RECEIVED
+
+Form name
+
+Form number
+
+Download your application, available until XX/XX/XXXX (PDF)
+
+Submitted on: Month Day, Year
+
+Received on: Month Day, Year
+
+Next step: We’ll review your form. If we need more information, we’ll contact you. 
+
+If you have questions, call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
+**Below the card**
+
+"If you can't find your application or form" accordion (the 'If you can't find your application or form' section on this page has more details).
+
+### **Content specs**
+
+Figma file (with content supplied by CAIA):
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1236-24507&t=70N3w0qWEHXE9kWz-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-47328&t=70N3w0qWEHXE9kWz-1)
+
+### How does a form/application in the received state end up showing in a card on My VA?
+- The card appears after a supported form is submitted.
+- The card disappears if it has been more than 60 days since submission.
 
 ---
 
@@ -235,51 +289,49 @@ Figma file (with content supplied by CAIA):
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
 - [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
 
+This is an **error state** for an individual form submission. This occurs after submission and before it would be received. When detected errors (aka detectable "silent errors") occur during the submission process of supported forms, the associated form cannot be processed by VA staff. In all likelihood, the form will have to be redone and resubmitted. To inform users, we display the "Action needed" card to indicate a system error took place and that they should contact the VA via the Benefits Hotline.
+
+
 **Show card**
-- When detected errors (aka detectable "silent errors") occur during the submission process of supported forms, the associated form cannot be processed by VA staff. In all likelihood, the form will have to be redone and resubmitted. To inform users, we display the "Action needed" card to indicate a system error took place and that they should contact the VA via the Benefits Hotline.
+- When detected errors (aka detectable "silent errors") occur during the submission process of supported forms.
   
 **Do NOT show card**
 - There are no detected system errors during the submission process of any of the user's forms (_however_ it is possible that an undetected error occurred in unknown scenarios - use cases of "Action needed" may expand over time).
 
 **Visual specs**
-- _what components are used?_
-- _what link styles are used?_
-- etc.
+- The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
+- The Tag component in [VADS](https://design.va.gov/components/tag) is also used.
+- 'Error alert' variation of the Alert component in [VADS](https://design.va.gov/components/alert#error-alert) is used on the card.
+- 'error'(icon) is in the alert. 
+- Link style:
+  - ['download' variant](https://design.va.gov/components/tag)
+  - 'default' for benefits hotline number and TTY
+- Typography: 'vads-font-size-base'
 
 ### **Content**
-_provide exact content/copy that will display_
+
+ACTION NEEDED
+
+Form name
+
+Form number
+
+Download your application, available until XX/XX/XXXX (PDF)
+
+Submitted on: August 15, 2024 
+
+Submission failed on: August 19, 2024
+
+We're sorry. There was a problem with our system. We couldn't process this form. Call us at 800-827-1000 (TTY: 711). We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
 
 ### **Content specs**
-_where is the content called from_
+Figma file (with content supplied by CAIA):
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
 
 ### How does a form/application in the action needed status end up showing in a card on My VA?
-- _explain how the form appears_
-- _explain when the form disappears i.e. expires after 60 days_
-
----
-## Form Status - Received
-- Desktop figma link
-- Mobile figma link
-
-**Show card**
-- _when to show the card_
-
-**Do NOT show card**
-- _when do we not show the card_
-
-**Visual specs**
-- _what components are used?_
-- _what link styles are used?_
-- etc.
-
-### **Content**
-_provide exact content/copy that will display_
-
-### **Content specs**
-_where is the content called from_
-
-### How does a form/application in the received status end up showing in a card on My VA?
-- _explain how the form appears_
+- This card can appear when 
 - _explain when the form disappears i.e. expires after 60 days_
 
 ---
