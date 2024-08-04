@@ -210,7 +210,7 @@ If you have questions, call us at 800-827-1000 (TTY: 711). We’re here Monday t
 
 **Below the card**
 
-["If you can't find your application or form" accordion]()
+"If you can't find your application or form" accordion (the 'If you can't find your application or form' section on this page has more details).
 
 ### **Content specs**
 
@@ -218,10 +218,10 @@ Figma file (with content supplied by CAIA):
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=FOSo9YgBxV0pQn0K-1)
 - [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-46257&t=FOSo9YgBxV0pQn0K-1)
 
-
 ### How does a form/application in the submission in progress status end up showing in a card on My VA?
-- _explain how the form appears_
-- _explain when the form disappears i.e. expires after 60 days_
+- The card appears after a supported form is submitted.
+- The card disappears if it has been more than 60 days since submission.
+- The card may continue to exist but with a different status and associated content changes as the submission process progresses. 
 
 ---
 
