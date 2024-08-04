@@ -12,6 +12,7 @@ It also outlines the accordion component with the title "If you can't find your 
 
 In addition, this documentation accounts for possible scenarios in which no draft or form statuses can be displayed:
 
+- Failed user call
 - Failed network call
 - Failed API call
 - Scheduled maintenance
@@ -277,9 +278,12 @@ _where is the content called from_
 - _explain when the form disappears i.e. expires after 60 days_
 
 ---
-## Systems Related Error States
+## System-wide errors for the Benefit application and forms section
 
-Error states that are not related to individual forms:
+There are four possible error scenarios that are not related to specific forms:
+- Failed main user call
+  - Desktop
+  - Mobile  
 - Failed network call
     -  [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=nHq2rMia3osfDiWr-1)
     -  [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-17482&t=nHq2rMia3osfDiWr-1)
@@ -289,12 +293,6 @@ Error states that are not related to individual forms:
 - Scheduled maintenance
     - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
     - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1330-40104&t=nHq2rMia3osfDiWr-1)
-
-- Desktop figma link 
-- Mobile figma link
-
-### Error states associated with drafts
-- The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error.
 
 ### Errors states associated with form status
 - tk tk
