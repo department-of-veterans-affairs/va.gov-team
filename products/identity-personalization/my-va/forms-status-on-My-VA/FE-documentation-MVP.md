@@ -22,7 +22,7 @@ We show this section for every LOA3 user.
 
 ---
 
-## If a user does not have any benefit application drafts to show
+### If a user does not have any benefit application drafts or forms to show
 
 - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1231-49126&t=FOSo9YgBxV0pQn0K-1)
 - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1260-37414&t=FOSo9YgBxV0pQn0K-1)
@@ -42,7 +42,7 @@ Below that, an accordion component (Titled "If you can't find your application o
 
 ---
 
-## "If you can't find your application or form" accordion
+### "If you can't find your application or form" accordion
 - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=bHDPfYWgYCpxLSG5-1)
 - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1318-46177&t=bHDPfYWgYCpxLSG5-1)
 
@@ -116,7 +116,8 @@ If you have questions about your applications or forms, call us at 800-827-1000 
 
 - There is a Tag component with the content "Draft"
 - Use the [form status version of the card component](https://design.va.gov/components/card#form-status) in the VA design system.
-- The "Continue your application" link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in the VA design system.
+- Link style: the "Continue your application" link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in VADS.
+- Typography: 'vads-font-size-base'
 
 #### **Content**
 
@@ -226,6 +227,10 @@ Figma file (with content supplied by CAIA):
 
 ---
 
+## Errors states associated with form status
+
+---
+
 ## Form Status card - Action Needed
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
 - [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
@@ -294,5 +299,3 @@ There are four possible error scenarios that are not related to specific forms:
     - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
     - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1330-40104&t=nHq2rMia3osfDiWr-1)
 
-### Errors states associated with form status
-- tk tk
