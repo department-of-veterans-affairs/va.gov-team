@@ -42,8 +42,8 @@ Below that, an accordion component (Titled "If you can't find your application o
 ---
 
 ## "If you can't find your application or form" accordion
-[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=bHDPfYWgYCpxLSG5-1)
-[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1318-46177&t=bHDPfYWgYCpxLSG5-1)
+- [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=bHDPfYWgYCpxLSG5-1)
+- [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1318-46177&t=bHDPfYWgYCpxLSG5-1)
 
 
 This component is visible in all scenarios EXCEPT for error scenarios in which no forms or drafts can be displayed (API fail, Network call fail, scheduled maintenance).
@@ -166,7 +166,7 @@ For MVP, [7 forms are tracked and displayed on My VA](https://github.com/departm
 - Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847)
 
 
-The cards with the statuses of submission in progress, received, and action needed correspond to these forms. 
+Once one of these forms are submitted, they will be represented as a card on My VA. The cards with the statuses of submission in progress, received, and action needed correspond to these forms. 
 
 
 ## Form Status card - Submission in progress
@@ -185,13 +185,32 @@ The cards with the statuses of submission in progress, received, and action need
 
 
 **Visual specs**
-- The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation. 
-- Link style: 'default'
-- 
+- The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
+- The Tag component in [VADS](https://design.va.gov/components/tag) is used.
+- Link styles:
+  - ['download' variant](https://design.va.gov/components/tag)
+  - 'default' for benefits hotline number and TTY
 
 ### **Content**
 
-You have no benefit applications or forms to show.
+**Card contents:**
+
+Submission in progress
+
+Form name
+
+Form number
+
+Download your application, available until XX/XX/XXXX (PDF)
+
+Submitted on: Month Day, Year
+
+Next step: We’ll prepare your form for review. This may take up to 10 days.
+If you have questions, call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
+**Below the card**
+
+["If you can't find your application or form" accordion]()
 
 ### **Content specs**
 
