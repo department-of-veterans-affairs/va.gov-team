@@ -99,7 +99,7 @@ If you have questions about your applications or forms, call us at 800-827-1000 
 
 ## Card types and variations
 
-### Benefit application draft card
+### Draft card
 - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26447&t=FOSo9YgBxV0pQn0K-1)
 - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1264-32620&t=FOSo9YgBxV0pQn0K-1)
 
@@ -151,7 +151,6 @@ Continue your application (linked to saved application)
 **Positioning**
 Cards are stacked in a single column on both mobile and desktop, as shown in the mockups above. The order of cards stacks from the most recently created draft or submitted form at the top, with the oldest at the bottom. 
 
-
 ---
 
 ## When form status cards besides drafts appear
@@ -186,9 +185,9 @@ The cards with the statuses of submission in progress, received, and action need
 
 
 **Visual specs**
-- The Card component in the 
-- _what link styles are used?_
-- etc.
+- The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation. 
+- Link style: 'default'
+- 
 
 ### **Content**
 
