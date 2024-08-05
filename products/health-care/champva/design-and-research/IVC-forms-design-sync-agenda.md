@@ -8,9 +8,37 @@
   - Example of [design option presentation](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=5274-33024&t=zQF3QsdoeTPoeiVB-1) from 1010ez team
   - Addressing [CAIA comments on 10-10d](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70698)
 ### Notes
-- 
+- Suggestions or discourse related to the upcoming CHAMPVA claims user research
+	- User critical tasks around new uploads
+	- Similar methodology to 10-10d
+	- Lois: health team has an exercise they do ahead of time. Let's maybe go over it on Thursday. Anne Costello on MHV team.
+	- Add Syd, Jamie to that meeting.
+ 	- Lois will share with us the Mural after the call.
+- If we are trying to understand how to change a feature, wireframe a few  options using [design option presentation](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=5274-33024&t=zQF3QsdoeTPoeiVB-1)
+	- Also appreciates how their Figma files are organized.
+	 - Jamie shared the 10-10 team's [process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-collab.md) and we might want to reference this when considering how we iterate and work in Figma
+- [CAIA comments on 10-10d](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70698)
+	- We have addressed general delivery/homelessness question and some other items in staging
+ 	- Need to figure these things out before we move forward, but we don't need to implement them all. Need to consider and respond.
+ 	- Remarriage question will be removed
+  		- Remarriage documentation - stakeholders have said they don't need the documents, they just need the date
+  			- PRA - we can't ask questions that aren't on the form. But we may be able to ask for documents.
+  	- Premal comfortable with the delays it may cause.
+  	- Optional docs - post launch
+
 ### Decisions and action items
-- 
+- Will conduct information-gathering exercise re: CHAMPVA claims research during Thursday's research meeting - what do we want to learn?
+- Will reference Lois' design option presentation when considering and sharing multiple options.
+- Consider and respond to/address CAIA ticket
+	- Remarriage - ask for documents. Divorce too?
+ 		- Screening questions are OK if it gets us to the right document uploads
+ 		- We need to match the data CAIA is asking for on their intro pages
+		- Consider making language more vague to capture edge cases.
+ 		- Provide a few options to present to Lois and Premal, CAIA.
+  	- Homelessness question - double check and  make sure Figma matches staging. We took it out. Also add it to design decisions documentation.
+  	- 3rd party signer - also developing. Make sure Figma matches staging between 10-10d and 59a.
+  	- Optional docs - post-launch
+  	- Provide justification for repeitive content - recognition over recall, accessibility
 
 ## July 29, 2024
 - Attendees: Jamie Fiore, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
