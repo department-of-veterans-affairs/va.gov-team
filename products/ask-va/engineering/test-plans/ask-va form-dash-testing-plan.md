@@ -57,7 +57,7 @@ The research plan can be found [here](https://github.com/department-of-veterans-
 
  Scope: Confirming that the 2 Robotic Process Automation (RPA) Bots in production still function. 
  
-Context: The RPA bots are scraping the UI for the Category and Topics: 
+Context: The RPA bots are scraping the CRM Agent for the Category and Topics: 
 
  - Compensation Category
  - Status of Claim Topic 
