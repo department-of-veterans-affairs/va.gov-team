@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Initiative Brief: Plain language triage group names with improved Select list
  
 
 ## Outcome Summary
