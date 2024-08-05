@@ -34,6 +34,7 @@ We pull in a small amount of military information to the VA.gov profile. This in
 - Branch(es) of service
 - Period start dates
 - Period end dates
+- Service type (avtive, inactive, reserves etc) 
 - Multiple periods of service, if applicable
 - Link to information on how to request records (DD214)
 - [Veteran Status Card ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/product.md)(this is owned by another team)
