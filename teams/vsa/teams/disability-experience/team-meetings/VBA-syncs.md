@@ -1,6 +1,12 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+## 8/6/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+1. …
+
 ## 7/23/24 Biweekly VBA-DBEX Check-in
 ### In attendance
 …
