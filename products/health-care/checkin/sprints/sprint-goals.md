@@ -70,6 +70,7 @@
     - ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
     - ❗🟨 [Rotate AWS Keys - July 29, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76337) (added after planning)
     - ⛔❗🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
+    - ✔️ 🟨 [[DevOps] Read LoROTA secret directly from environment variable rather than through Secrets Manager.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89695)
     - ✔️ 🟨 [[DevOps] Coordinate any vista_api endpoint changes with VSECS app/Clinician Workflow API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84185)
     - ✔️ 🟨 [[DevOps] Create IAM role assumable by Datadog to retrieve metrics from vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89974)
     - ✔️ 🟨 [[DevOps] Create assumable IAM role w/ policy in vaec-cms for CHIP & LoROTA deploys.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89884)
