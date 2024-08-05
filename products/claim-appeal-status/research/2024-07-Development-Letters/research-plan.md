@@ -67,7 +67,7 @@ Remote on Zoom
 ### Research materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-07-Development-Letters/conversation-guide.md)
-- [Prototype](https://www.figma.com/design/BUdMIxAiIutG12rZxZ0cg1/Claim-Letters-Navigation-%2B-5103-Alert-Updates?node-id=1587-1313&t=DIduZYnsoaPYuT1q-1)
+- [Prototype](https://www.figma.com/proto/BUdMIxAiIutG12rZxZ0cg1/Claim-Letters-Navigation-%2B-5103-Alert-Updates?node-id=1587-1313&t=DIduZYnsoaPYuT1q-1)
 	
 ## Recruitment	
 
