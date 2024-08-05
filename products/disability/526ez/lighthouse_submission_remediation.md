@@ -108,3 +108,9 @@ A stretch goal in creating this remediation plan was to create an additional scr
    )
    processor.submission.update!(backup_submitted_claim_id: initial_upload_uuid)
    ```
+   To test this on staging:
+   * Grab a failed form526 submission pdf upload, using this [script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/batch_remediation/lighthouse_submission/find_pdf_failures.rb)
+   * check that the submission doesn't have a backup_submitted_claim_id set
+   * then set the form526_submission_id (first line of script)
+   * then run the rest of the script
+   * then check the submission to see that the backup_submitted_claim_id is set 
