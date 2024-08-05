@@ -35,6 +35,9 @@
 
 ## Timetable
 - The experiment will run for 3 months (90 days)
+- The target volumes are based on current average traffic to the 10-10EZ, in conjunction with volumes we received from 2019-2023 of registered Veterans obtaining service-connected care only
+     - The forecast of 250 registration selections is based on approximately one-third of monthly service-connected care only registration volumes (850-900)
+     - The number of 'Back' button clicks, form exits and download link clicks are estimations derived on our hypothesis.
 
 ### Targets
 |Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
