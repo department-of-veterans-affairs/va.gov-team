@@ -11,14 +11,11 @@
 - When *should* we create the claim/
   - When should we submit?
 - Do not have abandoned claims on va.gov, do we care? yes?  
-- Do we care about parody with the BTSSS system and the forms they are filling out on va.gov (for partial forms)
+- Do we care about parity with the BTSSS system and the forms they are filling out on va.gov (for partial forms)
 - Should we use the forms system? 
   - subform/wizard pattern: https://design.va.gov/patterns/help-users-to/complete-a-sub-task ?
 - Is there a valid reason to ship something like the simple mileage claim as its own form and maintain two different forms?
 - Does claim exist?
-
-
-
 
 ## Full Flow of SMOC as of 08/06/2024
 ```mermaid
