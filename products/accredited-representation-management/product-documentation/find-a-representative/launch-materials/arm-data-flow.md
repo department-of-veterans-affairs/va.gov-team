@@ -45,7 +45,7 @@ No credentials were created for this product and none are needed.
 ### Data Source: Manually Shared MS Excel File
 
 Randy Trexler, IT Program Manager - Legal Affairs, Office of Information Technology, manually shares a MS Excel file with several members of the Accredited Representation Management team which has additional values for each representative and organization.\
-If a representative or organization record in the MS Excel file has address information, the address is validated using the Lighthouse Address Validation API. If the address is valid, the following fields are added to the corresponding representative or organization record in the  `veteran_representatives` or `veteran_organizations` Postgres tables:
+If a representative or organization record in the MS Excel file has address information, the address is validated using the Lighthouse Address Validation API. If the address is valid, the following fields are added to the corresponding representative or organization record in the `veteran_representatives` or `veteran_organizations` Postgres tables:
 
 - `address_line_1`
 - `address_line_2`
@@ -68,6 +68,38 @@ If a representative or organization record in the MS Excel file has address info
 
 The value for the `location` column is created by combining the `lat` and `long` values.\
 The value for `raw_address` is the raw address data from the MS Excel file record and is stored as `JSONB`.
+
+To update the `veteran_representatives` table using the Trexler File, sanitize the MS Excel file that Angela LAST_NAME from TEAM_NAME shares via MS Teams by deleting the following columns from the following sheets:
+
+Sheet: NAME
+- COLUMN_NAME
+- COLUMN_NAME
+- COLUMN_NAME
+
+Sheet: NAME
+- COLUMN_NAME
+- COLUMN_NAME
+- COLUMN_NAME
+
+Sheet: NAME
+- COLUMN_NAME
+- COLUMN_NAME
+- COLUMN_NAME
+
+Sheet: NAME
+- COLUMN_NAME
+- COLUMN_NAME
+- COLUMN_NAME
+
+Also delete the following sheets:
+- SHEET_NAME
+- SHEET_NAME
+- SHEET_NAME
+
+Open and merge a pull request to replace the [rep-org-addresses.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/accredited-representation-management/data/rep-org-addresses.xlsx)
+ file in the [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive) repo.
+
+ A periodic Sidekiq job called [Representatives::QueueUpdates](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/veteran/app/sidekiq/representatives/queue_updates.rb) in the vets-api [veteran](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/veteran) module runs daily to check if the `rep-org-addresses.xlsx` file has been committed to master in the last 24 hours. If it has, it processes the file and updates the `veteran_representatives` table accordingly.
 
 ### Data Source: Flagged Representative Contact Data
 
