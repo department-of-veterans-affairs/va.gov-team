@@ -6,6 +6,8 @@
 |--------------------------------------------------------------|--------------------------------------------------------------|
 | too many big-ticket initiatives                              | break them down to be smaller                                |
 |                                                              | more alignment of definition of Veteran value                |
+|                                                              | improved understanding problem definition as some may be related to similar Veteran impact             |
+|                                                              | deliver work fastter by delivering smaller              |
 | too much context switching                                   | Limit WIP                                                    |
 | risk of burnout                                              | improved definition of done                                  |
 | lots of turnover                                             | ?                                                            |
