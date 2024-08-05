@@ -21,8 +21,8 @@ Last Updated: August 2024
 |Matthew Bain| MHV Program Manager | matthew.bain@va.gov |
 |Bryan Riley| MHV Team Delivery Manager/Product Manager| bryan.riley@vbylight.com |
 |Lichelle Bain| MHV Team Product Manager| lichelle.nichols@bylight.com |
-|Arienne Walters | MHV User Experience Specialist | arienne.walters@bylight.com |
-|Joel Calumpongr | MHV Team Design Lead | joel.calumpong@bylight.com |
+|Arienne Walters | MHV User Experience Lead | arienne.walters@bylight.com |
+|Joel Calumpong | MHV Team Design Lead | joel.calumpong@bylight.com |
 | Anne Costello Kenndedy | MHV Team Research Lead | anne.costello@bylight.com
 | Bobby Bailey | MHV Team Accessibility | robert.m.bailey@bylight.com
 |Emily Taylor | MHV Team Designer | emily.taylor@bylight.com |
