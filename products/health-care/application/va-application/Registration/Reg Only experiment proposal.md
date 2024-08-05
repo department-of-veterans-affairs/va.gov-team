@@ -19,13 +19,6 @@
      - The Veteran will have the option to go back within the application and make a different selection to proceed through the application for VA health care enrollment
 
 
-## Research questions
-- Is there enough interest in registering for service connected care only?
-- Is there significant redirection - do Veterans frequently go back after seeing the alert to call or download a paper form?
-- How many of these complete the application (after seeing the registration alert) all they way to the confirmation page?
-
-
-
 ## Hypothesis
 - After providing the option to register, we believe Veterans will have further understanding of registration vs enrollment.
 - We believe that Veterans will be more likely to choose enrollment in full health benefits.
@@ -54,7 +47,11 @@
 | Monthly Average | x | x | x | x |x | x |
 | 3-month Total | x | x | x | x |x | x |
 
-### Supplemental metrics
+
+## Research questions/Supplemental Metrics
+- Is there enough interest in registering for service connected care only?
+- Is there significant redirection - do Veterans frequently go back after seeing the alert to call or download a paper form?
+- How many of these complete the application (after seeing the registration alert) all they way to the confirmation page?
 - If Veterans are exiting the form when they reach the Registration information page, where are they going/what are they doing?
      - Are they leaving VA.gov?
      - Are they searching for a facility?
