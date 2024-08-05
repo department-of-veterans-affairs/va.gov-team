@@ -10,7 +10,7 @@
 - Registration for VA health care is not clearly defined
 - Registration is often performed at a facility in person
 - There are many registration reasons, however MVP is focusing on one (Service connected disability care)
-     - Other registration reasons are mental health, MST, IVF, etc
+     - Other common registration reasons are mental health, MST, IVF, etc
 - Timing of launch may coincide with end of year holidays, causing reduced application traffic overall
 
 
