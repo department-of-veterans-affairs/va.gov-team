@@ -325,7 +325,6 @@ Submission failed on: August 19, 2024
 
 We're sorry. There was a problem with our system. We couldn't process this form. Call us at 800-827-1000 (TTY: 711). We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
-
 ### **Content specs**
 Figma file (with content supplied by CAIA):
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
@@ -336,19 +335,58 @@ Figma file (with content supplied by CAIA):
 - _explain when the form disappears i.e. expires after 60 days_
 
 ---
+
 ## System-wide errors for the Benefit application and forms section
 
 There are four possible error scenarios that are not related to specific forms:
-- Failed main user call
-  - Desktop
-  - Mobile  
-- Failed network call
-    -  [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=nHq2rMia3osfDiWr-1)
-    -  [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-17482&t=nHq2rMia3osfDiWr-1)
-- Failed API call
-    - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28921&t=nHq2rMia3osfDiWr-1)
-    - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28909&t=nHq2rMia3osfDiWr-1)
-- Scheduled maintenance
-    - [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
-    - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1330-40104&t=nHq2rMia3osfDiWr-1)
 
+### Failed main user call (pagewide error state)
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HqzBWh1aYg5G4WmO-1)
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HqzBWh1aYg5G4WmO-1)
+
+ 
+### Failed network call
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=nHq2rMia3osfDiWr-1)
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-17482&t=nHq2rMia3osfDiWr-1)
+
+**Visual specs**
+- The warning alert component in [VADS]([https://design.va.gov/components/card#variations](https://design.va.gov/components/alert#warning-alert)) is used
+- The 'warning' icon is used inside the alert
+- Typography: alert title (matches USWDS 1.33rem), 'vads-font-size-base'
+
+### **Content**
+
+We can't access your benefit applications and forms right now
+
+We're sorry. We're working to fix this problem. Check back later.
+
+### Failed API call
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28921&t=nHq2rMia3osfDiWr-1)
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28909&t=nHq2rMia3osfDiWr-1)
+
+**Visual specs**
+- The warning alert component in [VADS]([https://design.va.gov/components/card#variations](https://design.va.gov/components/alert#warning-alert)) is used
+- The 'warning' icon is used inside the alert
+- Typography: alert title (matches USWDS 1.33rem), 'vads-font-size-base'
+
+### **Content**
+
+We can't access your benefit applications and forms right now
+
+We're sorry. We're working to fix this problem. Check back later.
+    
+### Scheduled maintenance
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1330-40104&t=nHq2rMia3osfDiWr-1)
+ 
+**Visual specs**
+- The warning alert component in [VADS]([https://design.va.gov/components/card#variations](https://design.va.gov/components/alert#warning-alert)) is used
+- The 'warning' icon is used inside the alert
+- Typography: alert title (matches USWDS 1.33rem), 'vads-font-size-base'
+
+### **Content**
+
+We can't access your benefit applications and forms right now due to maintenance
+
+We’re working on this part of My VA. During this time, you won’t be able to access benefit applications and forms. Check back after Month Date, Year, at hh:mm a.m/p.m. ET. 
