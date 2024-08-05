@@ -1,4 +1,43 @@
+**Agenda for August 1st:** 
+-
+- Discuss CRM UAT
+- Review Timeline for potential phases approaches
+- Testing Users (Joe): 119 Add Classic AVA /CRM to profile
+- What Metrics is CRM Capturing to date for VA.Gov or would like to capture (outside of PowerBI)?
+ - benchmarking for the use of the form etc
+  - Are we tracking the response time from the Queues?
 
+**Action items:**
+ 
+ -  **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
+ - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
+ - **Kyle/ Chris** to update test user 119 for Profile Data
+ - **Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting. - **complete**
+
+**Proposed Agenda for August 6th:**
+ 
+- Review Test Plan - 
+- RPA Testing added to test plan
+- Review if Test User 119 or other test profiles need to be updated
+- Update from Kyle on  
+
+**Proposed Agenda for following session - August** 
+  - Review potential new timeline   
+
+**Notes:** 
+
+- VAPO to discuss timeline approaches and to be added to agenda on X date
+- Metrics: CeeCee + Shelby to pair @ GA4 office Hours
+Action: Shelby to invite CeeCee to PowerBI 
+Testing Users (Joe): 119 Add Classic AVA /CRM to profile
+  - Pulling data from ava profile, our users lack some key info that needs to be attributed to it to test prefill. 
+  - Action to Chris/Kyle (Shelby to confirm correct partner)
+
+- Potential AI Features for AVA (For after the redesigned form and dashboard - Post Release ‘25) 
+  - **Goal:** validate the potential use case that we will be able to determine based on a user's question what queue does it belong to.
+ - **Action:** new meeting to assist with analysis for time per queue to resolve an issue (best date 8 or 9th - Thursday / Friday) 
+ - This information will help determine if the potential model will improve the ability to decrease inquiry resolution time (is this useful)
+ - **Action: Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting.
 ## Meeting Notes for July 23rd: 
 
 ### Agenda:
