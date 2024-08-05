@@ -80,7 +80,8 @@ prioritization, roadmapping, and work planning.
 ~~How can we balance Veteran and business need while controlling context switching and teams timelines?~~
 
 
-** Goals for changes **
+Goals for changes
+
 The goals we are trying to achieve by having these discussions: 
 - Better way of working across both teams with OCTO
 - Empowering the teams do decide for themselves how they work 
