@@ -86,3 +86,25 @@ A stretch goal in creating this remediation plan was to create an additional scr
    document = LighthouseDocument.new document_hash
    client.upload_document(action_file.read, document)
    ```
+6. Upload PDF via Benefits Intake API
+
+   (needs to be tested)
+   ```
+   # First step is to set the form526_submission_id
+   # form526_submission_id =
+   processor = Processor.new(form526_submission_id)
+   form526_pdf = processor.get_form_526_pdf
+   # docs attribute (array) should only have the 526 PDF in it
+   processor.docs.each { |doc| doc[:metadata] = get_meta_data(doc[:type]) }
+   processor.convert_docs_to_pdf
+   processor.docs_gathered = true
+   processor.instantiate_upload_info_from_lighthouse
+   
+   form526_doc = processor.docs.first
+   processor.lighthouse_service.upload_doc(
+     upload_url: processor.initial_upload_location,
+     file: form526_doc[:file],
+     metadata: form526_doc[:metadata].to_json
+   )
+   processor.submission.update!(backup_submitted_claim_id: initial_upload_uuid)
+   ```
