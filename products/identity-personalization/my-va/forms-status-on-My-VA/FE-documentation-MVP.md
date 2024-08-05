@@ -134,7 +134,7 @@ Last opened on: Date
 Continue your application (linked to saved application)
 
 
-#### **Content specs**
+##### **Content specs**
 
 - The data for the benefit application draft card is gathered from the same API call as the main user call.
 
@@ -216,7 +216,7 @@ If you have questions, call us at 800-827-1000 (TTY: 711). We’re here Monday t
 
 "If you can't find your application or form" accordion (the 'If you can't find your application or form' section on this page has more details).
 
-### **Content specs**
+#### **Content specs**
 
 Figma file (with content supplied by CAIA):
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1233-60863&t=FOSo9YgBxV0pQn0K-1)
@@ -274,7 +274,7 @@ If you have questions, call us at 800-827-1000 (TTY: 711). We’re here Monday t
 
 "If you can't find your application or form" accordion (the 'If you can't find your application or form' section on this page has more details).
 
-### **Content specs**
+#### **Content specs**
 
 Figma file (with content supplied by CAIA):
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1236-24507&t=70N3w0qWEHXE9kWz-1)
@@ -325,7 +325,7 @@ Submission failed on: August 19, 2024
 
 We're sorry. There was a problem with our system. We couldn't process this form. Call us at 800-827-1000 (TTY: 711). We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
-### **Content specs**
+#### **Content specs**
 Figma file (with content supplied by CAIA):
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
 - [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
@@ -340,12 +340,14 @@ Figma file (with content supplied by CAIA):
 
 There are four possible error scenarios that are not related to specific forms:
 
-### Failed main user call (pagewide error state)
+---
+
+## Failed main user call (pagewide error state)
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HqzBWh1aYg5G4WmO-1)
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HqzBWh1aYg5G4WmO-1)
 
  
-### Failed network call
+## Failed network call
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=nHq2rMia3osfDiWr-1)
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-17482&t=nHq2rMia3osfDiWr-1)
 
@@ -360,7 +362,7 @@ We can't access your benefit applications and forms right now
 
 We're sorry. We're working to fix this problem. Check back later.
 
-### Failed API call
+## Failed API call
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28921&t=nHq2rMia3osfDiWr-1)
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28909&t=nHq2rMia3osfDiWr-1)
@@ -376,7 +378,7 @@ We can't access your benefit applications and forms right now
 
 We're sorry. We're working to fix this problem. Check back later.
     
-### Scheduled maintenance
+## Scheduled maintenance
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1330-40104&t=nHq2rMia3osfDiWr-1)
  
