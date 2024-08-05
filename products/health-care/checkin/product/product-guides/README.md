@@ -24,4 +24,4 @@ Last uploaded: August 5, 2024
 
 - [PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16503241/Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide.docx)
 
-- [PRODUCT GUIDE (Word)(SharePoint)](https://dvagov-my.sharepoint.com/:w:/g/personal/benjamin_brasso_va_gov/EeGuX9JRFw1AgxZIZ7_JLlYBqMkXmzXGjhlR53dDjfqj-A?e=AMwAtl)
+- [PRODUCT GUIDE (Word) (SharePoint)](https://dvagov-my.sharepoint.com/:w:/g/personal/benjamin_brasso_va_gov/EeGuX9JRFw1AgxZIZ7_JLlYBqMkXmzXGjhlR53dDjfqj-A?e=AMwAtl)
