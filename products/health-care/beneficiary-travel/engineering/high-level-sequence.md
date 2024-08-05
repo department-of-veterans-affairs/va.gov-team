@@ -1,14 +1,13 @@
+# DRAFT DRAFT DRAFT DRAFT DRAFT
+## Full Flow of SMOC as of 08/06/2024
 ```mermaid
 sequenceDiagram
-  
   actor vet as Veteran
   participant appts as Appointments: VA.gov
   participant redux as Redux Store
   participant smoc as Mileage Claim Submission: VA.gov
   participant vapi as vets-api
   participant tpapi as Travel Pay API
-
-  Note over vet,tpapi: DRAFT DRAFT DRAFT DRAFT DRAFT
 
   vet ->> appts: View past appointment
   activate appts
@@ -70,6 +69,132 @@ sequenceDiagram
 
     smoc ->> vet: Success
   deactivate smoc
-
-Note over vet,tpapi: DRAFT DRAFT DRAFT DRAFT DRAFT
 ```
+
+## Happy Path 3-part Backend-Only Flow of SMOC as of 08/06/2024
+```mermaid
+sequenceDiagram
+  participant vapi as vets-api
+  participant tpapi as Travel Pay API
+
+  %% Should this all be transactional? E.g. what happens
+  %% when a claim is created, but mileage expense creation
+  %% fails? Delete the claim? Try mileage add again, then
+  %% roll back? Does the API handle this already?
+  activate vapi
+    vapi ->>+ tpapi: /find-appt-by-date?appt-date={appt_datetime}\
+    tpapi ->>- vapi: Appointment, incl. btsss_appt_id
+
+    vapi ->>+ tpapi: /create-new-claim/{btsss_appt_id}
+    tpapi ->>- vapi: Claim, incl. claim_id
+
+    vapi ->>+ tpapi: /add-mileage-expense/{claim_id}
+    tpapi ->>- vapi: OK
+
+  deactivate vapi
+```
+## Failure Path 3-part Backend-Only Flow of SMOC as of 08/06/2024
+```mermaid
+sequenceDiagram
+  participant vapi as vets-api
+  participant tpapi as Travel Pay API
+  participant db as Travel Pay DB
+
+  %% Should this all be transactional? E.g. what happens
+  %% when a claim is created, but mileage expense creation
+  %% fails? Delete the claim? Try mileage add again, then
+  %% roll back? Does the API handle this already?
+  activate vapi
+    vapi ->>+ tpapi: /find-appt-by-date?appt-date={appt_datetime}\
+    tpapi ->> db: SELECT appt
+    db ->> tpapi: Appointment Record
+    tpapi ->>- vapi: Appointment, incl. btsss_appt_id
+
+    vapi ->>+ tpapi: /create-new-claim/{btsss_appt_id}
+    tpapi ->> db: INSERT claim
+    db ->> tpapi: success
+    tpapi ->>- vapi: Claim, incl. claim_id
+
+    alt creating expense succeeds
+      vapi ->>+ tpapi: /add-mileage-expense/{claim_id}
+      tpapi ->> db: INSERT expense
+      db ->> tpapi: success
+      tpapi ->>- vapi: OK: 200
+    else creating expense fails
+      note over vapi,db: Adding an expense fails, but the claim still exists in the database, <br/>polluting the DB and possibly leading to data integrity issues later
+      vapi ->>+ tpapi: /add-mileage-expense/{claim_id}
+      tpapi ->> db: INSERT expense
+      db ->> tpapi: failure
+      tpapi ->>- vapi: Internal Server Error: 500
+    end
+
+  deactivate vapi
+```
+##  Failure Path 3-part Backend-Only Flow with Rollback of SMOC as of 08/06/2024
+```mermaid
+sequenceDiagram
+  participant vapi as vets-api
+  participant tpapi as Travel Pay API
+  participant db as Travel Pay DB
+
+  %% Should this all be transactional? E.g. what happens
+  %% when a claim is created, but mileage expense creation
+  %% fails? Delete the claim? Try mileage add again, then
+  %% roll back? Does the API handle this already?
+  activate vapi
+    vapi ->>+ tpapi: /find-appt-by-date?appt-date={appt_datetime}\
+    tpapi ->> db: SELECT appt
+    db ->> tpapi: Appointment Record
+    tpapi ->>- vapi: Appointment, incl. btsss_appt_id
+
+    vapi ->>+ tpapi: /create-new-claim/{btsss_appt_id}
+    tpapi ->> db: INSERT claim
+    db ->> tpapi: success
+    tpapi ->>- vapi: Claim, incl. claim_id
+
+    alt creating expense succeeds
+      vapi ->>+ tpapi: /add-mileage-expense/{claim_id}
+      tpapi ->> db: INSERT expense
+      db ->> tpapi: success
+      tpapi ->>- vapi: OK: 200
+    else creating expense fails
+      vapi ->>+ tpapi: /add-mileage-expense/{claim_id}
+      tpapi ->> db: INSERT expense
+      db ->> tpapi: failure
+      tpapi ->>- vapi: Internal Server Error: 500
+
+      vapi ->>+ tpapi: /delete-claim/{claim_id}
+      tpapi ->> db: DELETE claim
+      db ->> tpapi: success
+      tpapi ->>- vapi: OK: 200
+    end
+
+  deactivate vapi
+  ```
+
+## Alternate, LESS OPTIMAL 2-part Backend-Only Flow of SMOC as of 08/06/2024
+  ```mermaid
+sequenceDiagram
+  participant vapi as vets-api
+  participant tpapi as Travel Pay API
+  participant db as Travel Pay DB
+
+  %% Should this all be transactional? E.g. what happens
+  %% when a claim is created, but mileage expense creation
+  %% fails? Delete the claim? Try mileage add again, then
+  %% roll back? Does the API handle this already?
+  activate vapi
+    vapi ->>+ tpapi: /find-appt-by-date?appt-date={appt_datetime}\
+    tpapi ->> db: SELECT appt
+    db ->> tpapi: Appointment Record
+    tpapi ->>- vapi: Appointment, incl. btsss_appt_id
+
+    vapi ->>+ tpapi: /create-new-mileage-claim/{btsss_appt_id}
+    note over vapi,tpapi: Payload likely to be a large JSON object <br/> that includes claim metadata and expense information
+    tpapi ->> db: INSERT claim and expense
+    db ->> tpapi: success
+    tpapi ->>- vapi: Claim, incl. claim_id
+
+  deactivate vapi
+  ```
+  # DRAFT DRAFT DRAFT DRAFT DRAFT
