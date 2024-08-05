@@ -48,7 +48,7 @@ A stretch goal in creating this remediation plan was to create an additional scr
    fname = "/#{Common::FileHelpers.random_file_path}.pdf"
    File.binwrite(fname, content)
    ```
-5. Upload PDF
+5. Upload PDF via Benefits Documents Service
    ```
    claim_id = submission.submitted_claim_id
    require './lib/lighthouse/benefits_documents/service'
@@ -86,7 +86,7 @@ A stretch goal in creating this remediation plan was to create an additional scr
    document = LighthouseDocument.new document_hash
    client.upload_document(action_file.read, document)
    ```
-6. Upload PDF via Benefits Intake API
+6. Alternative: Upload PDF via Benefits Intake API
 
    (needs to be tested)
    ```
