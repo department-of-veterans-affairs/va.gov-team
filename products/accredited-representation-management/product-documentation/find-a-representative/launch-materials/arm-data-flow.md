@@ -117,6 +117,9 @@ The information that's reported is stored in the `flagged_veteran_representative
 
 The information is transfered from a user's client (web browser) to vet-api via a secure http POST request. Currently, no one has access to the data unless they're able to query the table in a production environment or unless they have access to the production database itself. Only individuals with access to the production environment and/or database are able to read/write the records in the table.
 
+### Date Source: Hard-coded Organization Names
+Add details about the `Organizations::UpdateNames` periodic Sidekiq job...
+
 ## Where is the data stored and how, including information such as any encryption used?
 
 The Representative and Organization MS Excel File is checked into the GitHub `department-of-veterans-affairs` organization’s `va.gov-team-sensitive` repository. Data from the file parsed and stored in the following vets-api Postgres tables:
