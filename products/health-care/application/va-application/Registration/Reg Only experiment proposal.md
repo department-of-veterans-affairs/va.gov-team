@@ -4,7 +4,7 @@
 - Veterans do not have a pathway to register for VA health care online.
 
 ## Goal of this experiment
-- Determine whether there is a need for a registration pathway on the online 10-10EZ
+- Determine whether there is a Veteran experience use case/need for a registration pathway on the online 10-10EZ
 
 ## Potential constraints & risks
 - Registration for VA health care is not clearly defined
