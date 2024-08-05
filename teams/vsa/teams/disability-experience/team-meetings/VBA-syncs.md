@@ -5,7 +5,7 @@ Goal of the meeting series: addressing policy related or other open questions fo
 ### In attendance
 …
 ### Notes
-1. …
+1. Emily - Is there a way to block the production "moderated testing" cases from being sent to Mail Automation?
 
 ## 7/23/24 Biweekly VBA-DBEX Check-in
 ### In attendance
