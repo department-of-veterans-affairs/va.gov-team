@@ -12,7 +12,7 @@ Last Updated: August 2024
   
 |Name|Role|Email|
 |----|----|-----|
-|Janie Tankard-Carnock |OCTO Product| jane.carnock@va.gov (VA email pending) |
+|Janie Tankard-Carnock |OCTO Product| jane.carnock@va.gov |
 |Kaitlin Fink |OCTO Design Lead| kaitlin.fink@va.gov |
 |Robyn Singleton| OCTO  Research Lead| - |
 |Mark Dewey | OCTO Engineering Lead |- |
