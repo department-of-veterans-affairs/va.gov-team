@@ -12,11 +12,11 @@ Last Updated: August 2024
   
 |Name|Role|Email|
 |----|----|-----|
-|Janie Tankard-Carnock |OCTO Product| jane.carnock@va.gov |
+|Janie Tankard-Carnock |OCTO Product Lead | jane.carnock@va.gov |
 |Kaitlin Fink |OCTO Design Lead| kaitlin.fink@va.gov |
-|Robyn Singleton| OCTO  Research Lead| - |
-|Mark Dewey | OCTO Engineering Lead |- |
-|Cle' Diggins | OCTO Engineering Lead |- |
+|Robyn Singleton| OCTO  Research Lead| robyn.singleton@va.gov |
+|Mark Dewey | OCTO Engineering Lead | mark.dewey@va.gov |
+|Cle' Diggins | OCTO Engineering Lead |cle.diggins@va.gov |
 |----|----|-----|
 |Matthew Bain| MHV Program Manager | matthew.bain@va.gov |
 |Bryan Riley| MHV Team Delivery Manager/Product Manager| bryan.riley@vbylight.com |
