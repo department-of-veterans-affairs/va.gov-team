@@ -73,7 +73,6 @@
     - ✔️ 🟨 [[DevOps] Create IAM role assumable by Datadog to retrieve metrics from vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89974)
     - ✔️ 🟨 [[DevOps] Create assumable IAM role w/ policy in vaec-cms for CHIP deploys.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89884)
     - ✔️ 🟨 [[DevOps] Create assumable IAM role w/ policy in vaec-cms for LoROTA deploys](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89883)
-    - ✔️ 🟨 [[DevOps] Proof-of-Concept for CloudWatch Metric Streams to Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83403)
     - ✔️ ❗🟨 [[DevOps] Discovery on copying secrets necessary for Vista API backend to function into vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88378)
     - ✔️ ❗🟨 [[DevOps] Implement LoROTA postData system test library function.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88816)
     - ✔️ ❗🟨 [[DevOps] Implement LoROTA postData will-create-a-valid-data-entry system test. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88824)
