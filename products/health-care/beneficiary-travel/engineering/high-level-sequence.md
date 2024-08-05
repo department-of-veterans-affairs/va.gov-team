@@ -2,6 +2,15 @@
 
 
 ## Thoughts & Considerations
+- Simple mileage-only claims feature is not the end, so...
+  - does adding expenses need to be transactional?
+    - With SMOC, there's only 1 expense to 1 claim, so a transaction makes sense there
+    - Beyond SMOC, there could be multiple expenses (or just one). What if 1 expense add fails, and another succeeds?
+    - What if adding an expense fails for a user-input reason?
+    - What if it fails for a system broken reason?
+  - do we want to allow users to delete unsubmitted claims?
+    - Is there such a thing as a created-but-unsubmitted claim?
+      - it owuld make transactions mujch easier and safer
 
 - how can support both Simple (PCI) vs complex (turbotax) flows
 - build claim to come back to later
