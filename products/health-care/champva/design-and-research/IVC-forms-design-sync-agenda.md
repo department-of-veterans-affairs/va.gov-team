@@ -1,4 +1,17 @@
 # Running Design and Research Agenda
+## August 5, 2024
+- Attendees: Jamie Fiore, Steven Straily, Syd Hoeper, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
+- Facilitator: Rachael
+- Next meeting facilitator: TBD
+- Agenda Topics
+  - Suggestions or discourse related to the upcoming CHAMPVA claims user research
+  - Example of [design option presentation](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=5274-33024&t=zQF3QsdoeTPoeiVB-1) from 1010ez team
+  - Addressing [CAIA comments on 10-10d](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70698)
+### Notes
+- 
+### Decisions and action items
+- 
+
 ## July 29, 2024
 - Attendees: Jamie Fiore, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
 - Facilitator: Jamie
