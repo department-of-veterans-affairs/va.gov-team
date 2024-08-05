@@ -11,7 +11,7 @@
  
  -  **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
  - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
- - **Kyle/ Chris** to update test user 119 for Profile Data
+ - **Kyle/ Chris** to update test user 119 for AVA Profile Data
  - **Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting. - **complete**
 
 **Proposed Agenda for August 6th:**
