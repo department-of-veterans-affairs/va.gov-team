@@ -4,3 +4,6 @@
 ### Goal: Increase satisfaction in the Secure Messaging experience and trust in the VA generally through more plain language, patient-friendly, and accessible care team names.  
   * Result: Veterans more quickly and confidently identify who to send a message to using the patient portal Messages tool.
   * Result: Veterans report higher satisfaction and trust with the messaging tool overall.  
+
+
+[Please see the initiatve brief in this folder for a more detailed overview.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89898))
