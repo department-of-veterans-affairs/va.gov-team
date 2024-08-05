@@ -1,6 +1,6 @@
 # Initiative outline: Enhanced Military Information
 
-**Last Updated: 2/1/24** Added specifics of the original request
+**Last Updated: 8/5/24**  
 
 `based on research we decided not to proceed w this work`
 
