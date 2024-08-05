@@ -68,11 +68,11 @@
 
 ## Next Steps
 - Initial thoughts (pre-experiment)
-     - If there is enough interest in Registration pathway online after month 1, then we will run a research session to gain feedback on the content and presentation.
-     - If there is enough interest in Registration pathway online, then we will consider how to integrate Registration process in the form as well as with VES to accept the data.
+     - If there is enough interest in Registration pathway online after month 1 to indicate a trend, then we will run a research session to gain feedback on a previously designed user flow, content and presentation.
+     - If there is enough interest in Registration pathway online, then we will consider how to integrate Registration process in the form as well as with VES to accept the data (not currently set up to receive this from VA.gov).
      - If there is not enough interest in Registration pathway online, we will consider removing the experiment from the form.  
           - We may need to confirm policy/regulation requirements from HEC.  What happens if we have to provide "registration" option?
-               - If we have to provide a registration option, possible solutions are to leave experiment in the form, pose the choice in a different way/place in the form.
+               - If we have to provide a registration option, possible solutions are to leave experiment in the form, or pose the choice in a different way/place in the form.
 
 Additional research questions
 - Is there a significant increase in calls from service connected Veterans asking about registration?
