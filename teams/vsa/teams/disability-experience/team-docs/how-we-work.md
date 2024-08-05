@@ -9,8 +9,8 @@
 |                                                              | improved understanding problem definition as some may be related to similar Veteran impact             |
 |                                                              | deliver work fastter by delivering smaller              |
 | too much context switching                                   | Limit WIP                                                    |
-| risk of burnout                                              | improved definition of done                                  |
-| Risks of turnover                                            |                                                              |
+| Risk of burnout                                              | improved definition of done                                  |
+| Risk of turnover                                             |                                                              |
 | Tight timelines and speed pressure                           | more advance notice when possible, limit WIP so we can get work done more efficiently |
 | Handle new time-sensitive priorities and requests            | create a lane for urgent unplanned work to come through      |
 | Initiatives take too long                                    | limit WIP, better DoD, better DoD                            |
