@@ -263,7 +263,7 @@ Some extra contact information: VA TIC Gateway Operations
 - Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for subdomains
 
 ## Change history
-_8/5/24_ @randimays Removed guidance for welcome modals when entire subdomain is redirected per MichelleM's direction
+_8/5/24 @randimays Removed guidance for welcome modals when entire subdomain is redirected per MichelleM's direction_
 
 _8/1/24 - @randimays Minor copy updates from technical review_
 
