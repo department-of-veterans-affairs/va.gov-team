@@ -1,6 +1,6 @@
 # Redirect Implementation Strategy
 
-Last update: 7/31/23 — see change history below
+Last update: 8/5/24 — see change history below
 
 ---
 
@@ -256,7 +256,6 @@ Some extra contact information: VA TIC Gateway Operations
 - Make contacts and relationships with TeamSite engineers ~to explore how to archive or delete legacy pages so that content editors don’t continue to update them.~
 - ~Find out what happens when a TeamSite page with a client-side redirect to www.va.gov/ is archived or deleted.~
 - _Above points (crossed out) have been tested 11/19, we won't be deleting or archiving, see full details above under "4) Client-side redirects for subdomains - Any other notes"_
-- Consider using welcome modals for cases where an entire subdomain is redirected. Explore.va.gov does this via [query parameter](https://www.va.gov/?from=explore.va.gov).
 - Gain a better understanding of analytics and SEO impacts of implementing and changing redirects.
 - Make Drupal CMS the source of truth for server-side www.va.gov/ redirects.
 - Document prefix vs. match implementation and where redirects are stored (to be linked in this document). 
@@ -264,6 +263,8 @@ Some extra contact information: VA TIC Gateway Operations
 - Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for subdomains
 
 ## Change history
+_8/5/24_ @randimays Removed guidance for welcome modals when entire subdomain is redirected per MichelleM's direction
+
 _8/1/24 - @randimays Minor copy updates from technical review_
 
 _7/31/24 - @jilladams Updated copy to match upcoming guidance changes from https://github.com/department-of-veterans-affairs/va.gov-team/issues/83498_
