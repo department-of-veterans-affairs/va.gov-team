@@ -78,3 +78,12 @@ prioritization, roadmapping, and work planning.
 ~~limit context switching~~
 ~~more alignment of the definition of done for certain work or features~~
 ~~How can we balance Veteran and business need while controlling context switching and teams timelines?~~
+
+
+** Goals for changes **
+The goals we are trying to achieve by having these discussions: 
+- Better way of working across both teams with OCTO
+- Empowering the teams do decide for themselves how they work 
+- Increase team satisfaction on the work they are doing
+- Share responsibilities and create a platform that both teams have full knowledge of (vs. pieces) (IOW - shared knowledge vs. speciality knowledge) 
+- Deliver quality vs. quantity
