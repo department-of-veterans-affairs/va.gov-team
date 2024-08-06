@@ -85,7 +85,8 @@
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
 - **Tech Debt**
     - 🟥 [[Design] Update medication review info and/or manage appointment links ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90043)
-    - 🟦 [[BE] Investigate sentry errors being thrown by check-in controllers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89085) 
+    - 🟦 [[BE] Investigate sentry errors being thrown by check-in controllers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89085)
+    - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
 </details>
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
