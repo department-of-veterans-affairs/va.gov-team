@@ -32,6 +32,8 @@ Veterans with medical devices such as hearing aids, and CPAP machines, are able 
 
 ## Project Timeline & Activities
 
+Our committment to DLC is to have the ability to add Assistive Devices to the reordering tool by the end of the year 2024/or the beginning of 2025.
+
 ---
 ## Measuring Success-
 
