@@ -12,7 +12,7 @@
     - Is there such a thing as a created-but-unsubmitted claim?
       - it owuld make transactions mujch easier and safer
 
-- how can support both Simple (PCI) vs complex (turbotax) flows
+- how can support both Simple (PCI) vs complex (turbotax) flows 
 - build claim to come back to later
 - convert from simple to complex? Do we want to make that distinction? 
 - Do we want to get rid the idea of simple vs complex in the API  
@@ -201,6 +201,7 @@ sequenceDiagram
 
 ## Alternate, LESS OPTIMAL 2-part Backend-Only Flow of SMOC as of 08/06/2024
   ```mermaid
+
 sequenceDiagram
   participant vapi as vets-api
   participant tpapi as Travel Pay API
@@ -225,3 +226,24 @@ sequenceDiagram
   deactivate vapi
   ```
   # DRAFT DRAFT DRAFT DRAFT DRAFT
+
+
+## More drafts
+
+vet goes to va.gov appointments 
+appointments makes call to get claim status/appointment ids
+  - for appts wtih out claims link to create claim
+  - for appointmetns with unsubmitted claims link to edit claim
+  - both take to same form
+
+- on form intro page load 
+  - load contact information\
+  - have the btss-appt-id/load if doesn't exist???
+  - creates the claims
+- user adds expenses via the form
+  - or add claims to the API as the user goes??? <--- feels bad
+- user confirms & submits data
+- creates the claim with expenses in single POST 
+- creates expense payload \___ also feels bad. maybe a flag on the add expense to also submit the claim, but performance is bad..... 
+- submits the claims /
+- shows success/error message, with links 
