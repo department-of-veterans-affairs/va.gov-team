@@ -2,8 +2,8 @@
 
 ## Communications
 - GitHub Label: [hlr](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
-- Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
-- Product POCs: Matt Self and Ronnie Henry
+- Slack channel: n/a ([#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK))
+- Product POCs: Amy Lai, Julie Strothman, Cory Sohrakoff
 - va.gov link: https://www.va.gov/decision-reviews/higher-level-review/
 - Physical form: https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf
 - Stakeholders: AMO (Jane Chi jane.chi1@va.gov, Lauren Sylvia Lauren.Sylvia@va.gov), Lighthouse (Kelly Lein Kelly.Lein@va.gov, Premal Shaw Premal.Shah@va.gov) and VBA (Paul Shute Paul.Shute@va.gov)
