@@ -1,7 +1,5 @@
 # Travel Pay Omnichannel Collaboration 
 
-Last update: 7/26/24 by Cara Frissell
-
 
 ## In Progress
 
