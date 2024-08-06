@@ -15,7 +15,7 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 * [Identity Login SLO & SLI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md)
 * [Product Refinement Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/Product%20Refinement.md)
 * [Login SLA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713368063741/aa11d92e4c07e903a16f131550431ad5e5f1a41b?sender=8a524840-01a2-4b0a-b661-95ffcb149e9b)
-* [Login SLO Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md)
+* [Login SLO Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/SLO)
 * [Public Facing SLO Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-df6fa7bc92140323ffecbf4e10b16346?refresh_mode=sliding&from_ts=1710016052679&to_ts=1712608052679&live=true)
 * [Branding Exercise](https://docs.google.com/presentation/d/1Q3WnJY-0fJ3HcuYNptZnAbJaWUGK3FGCkvH19AJYFJo/edit#slide=id.g2c630c18cda_1_141)
 * [Accessibility and Maintenance Standards for Federal Site Availability Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/2024-03%20Accessibility%20and%20federal%20regulation%20compliance%20with%20dashboards.md)
