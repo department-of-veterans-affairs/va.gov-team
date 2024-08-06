@@ -169,7 +169,7 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
 
 <li> Document approriate change management and decisions made if applicable
 
-<li> Putting the approve command on the Release Ticket to kickoff the release process
+<li> Putting the approve command (/approve vX.XX.X) on the Release Ticket to kickoff the release process (ex. /approve v2.34.0) after 10am EST but before EOD on Tuesday 
 </li>  
 </ul>
 </li> 
