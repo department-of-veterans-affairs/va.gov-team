@@ -33,12 +33,20 @@
 ## SPRINT 13 - 8/7/2024-8/20/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79886)
+    - **Move to New AWS Instance**
+        - 🟨 [[DevOps] Determine environmental functional parity for Vista API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86877)
+        - 🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
+        - 🟨 [[DevOps] See about getting a VistA service account for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89978)
+        - 🟨 [[DevOps] Add new workflows to octo-vista-api in main branch to facilitate vaec-cie migration.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87079)
+        - 🟨 [[DevOps] Determine which ECR repository images are actively in use.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87089)
+        - 🟨 [[DevOps] Check out CHIP KMS infrastructure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86521)
+        - 🟨 [[DevOps] Determine additional privileges needed for CHIP Lambda Role](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86522)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get this feature ready for Staging Review**
-    - ❗🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
-    - ❗🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
-    - ❗🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
-    - ❗🟪 Schedule and Attend Staging Review
+    - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
+    - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
+    - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
+    - 🟪 Schedule and Attend Staging Review
 - **New Landing Page with Today's VISTA Appointments**
     - **Sprint Goal is to address the remainer of the issues from Staging Review and close the Epic**
     - 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
@@ -76,14 +84,6 @@
 - **Tech Debt**
     - 🟥 [[Design] Update medication review info and/or manage appointment links ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90043)
     - 🟦 [[BE] Investigate sentry errors being thrown by check-in controllers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89085) 
-- **Move to New AWS Instance**
-    - 🟨 [[DevOps] Determine environmental functional parity for Vista API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86877)
-    - 🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
-    - 🟨 [[DevOps] See about getting a VistA service account for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89978)
-    - 🟨 [[DevOps] Add new workflows to octo-vista-api in main branch to facilitate vaec-cie migration.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87079)
-    - 🟨 [[DevOps] Determine which ECR repository images are actively in use.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87089)
-    - 🟨 [[DevOps] Check out CHIP KMS infrastructure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86521)
-    - 🟨 [[DevOps] Determine additional privileges needed for CHIP Lambda Role](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86522)
 </details>
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
