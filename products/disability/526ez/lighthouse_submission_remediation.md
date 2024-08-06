@@ -92,12 +92,11 @@ A stretch goal in creating this remediation plan was to create an additional scr
    ```
    # First step is to set the form526_submission_id
    # form526_submission_id =
-   processor = Processor.new(form526_submission_id)
-   form526_pdf = processor.get_form_526_pdf
+   processor = Sidekiq::Form526BackupSubmissionProcess::Processor.new(form526_submission_id)
+   form526_pdf = processor.get_form526_pdf
    # docs attribute (array) should only have the 526 PDF in it
-   processor.docs.each { |doc| doc[:metadata] = get_meta_data(doc[:type]) }
+   processor.docs.each { |doc| doc[:metadata] = processor.get_meta_data(doc[:type]) }
    processor.convert_docs_to_pdf
-   processor.docs_gathered = true
    processor.instantiate_upload_info_from_lighthouse
    
    form526_doc = processor.docs.first
@@ -106,7 +105,7 @@ A stretch goal in creating this remediation plan was to create an additional scr
      file: form526_doc[:file],
      metadata: form526_doc[:metadata].to_json
    )
-   processor.submission.update!(backup_submitted_claim_id: initial_upload_uuid)
+   processor.submission.update!(backup_submitted_claim_id: processor.initial_upload_uuid)
    ```
    To test this on staging:
    * Grab a failed form526 submission pdf upload, using this [script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/batch_remediation/lighthouse_submission/find_pdf_failures.rb)
