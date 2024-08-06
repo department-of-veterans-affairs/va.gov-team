@@ -69,6 +69,8 @@
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to complete the Staging Review**
     - 🟪 Schedule and Attend Staging Review
+    - 🟥 [Update content on success page to remove content about texting again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90062)
+    - 🟩 [FE] ticket for Update content on success page to remove content about texting again
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address feedback from the Design Intent, finish the wireframes, and hand off to engineering**
     - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
