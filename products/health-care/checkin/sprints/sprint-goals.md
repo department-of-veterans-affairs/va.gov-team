@@ -84,6 +84,7 @@
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
 - **Tech Debt**
     - 🟥 [[Design] Update medication review info and/or manage appointment links ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90043)
+    - 🟦 [[BE] Investigate issues with travel claims submission through check-in vets-api code in Staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89350)
     - 🟦 [[BE] Handle 403s from LoROTA data call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89625)
     - 🟦 [[BE] Resolve the 404s being thrown by CHIP/LoROTA due to synthetic monitoring tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89776)
     - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
