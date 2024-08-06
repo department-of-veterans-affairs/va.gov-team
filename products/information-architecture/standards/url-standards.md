@@ -3,11 +3,14 @@
 ### Current URL standards
 
 The design system documentation includes standards for 
-- [unauthenticated URLs (manually curated)](https://design.va.gov/content-style-guide/url-standards)
-- [vanity URLs (manually curated)](https://design.va.gov/content-style-guide/url-standards#vanity-urls)
+- [unauthenticated URLs (manually curated)](https://design.va.gov/components/url-standards/)
+- [anchor tags](https://design.va.gov/components/url-standards/#guidelines-for-anchor-tags-ie-jump-links)
+- [paramters in URLs](https://design.va.gov/components/url-standards/#guidelines-for-parameters-in-urls)
+- [vanity URLs (manually curated)](https://design.va.gov/components/url-standards/#vanity-urls)
+- [redirect guidance](https://design.va.gov/components/url-standards/redirects)
 
 ### Additional URL guidance needed
-- [ ] URL structure and standards for form flows - https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/88407
+- [ ] URL structure and standards for form flows - [#88407 - in progress](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/88407)
 - [ ] URL structure for authenticated URLs
 - [ ] URL guidance and standards for automatically generated URLs (i.e. Resources and support)
 - [ ] URL guidance for temporary pages (i.e. for purposes of testing in staging, or temporary production pages)
