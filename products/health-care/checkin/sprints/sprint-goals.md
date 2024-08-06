@@ -15,6 +15,7 @@
     - TBD
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish all work and schedule a Staging Review & a Readiness Review**
+    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
     - 🟩 [[FE] Create Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
     - 🟩 [[FE] Add Link to Access the Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89065)
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
@@ -60,7 +61,6 @@
     - 🟩 [[FE] - Added start/end query params to upcoming appointments GET](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89875)
     - 🟩 [[FE] SPIKE - discover all the possible values for the 'kind' field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89876)
     - 🟩 [[FE] Link to New Upcoming Appointments Page for Day-of and Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
-    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
     - **Sprint Goal is to look at options for implementing tabs in design**
     - 🟥 [[Design] Discovery/design work for implementing tabs for upcoming appts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90077)
 - **Stand-alone Travel Application for OH Sites**
