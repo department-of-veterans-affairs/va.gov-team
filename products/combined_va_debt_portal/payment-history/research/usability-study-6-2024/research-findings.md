@@ -276,7 +276,7 @@ The way the experience is structured makes sense to Veterans, is easy to underst
   
   
 
-**Page by Page**
+***Page by Page***
 
 ### <a id="finding-4"></a>4. Overview Page
 
@@ -388,9 +388,7 @@ This page was easy to find from the Debt Details page. Many participants had not
 
 ## <a id="additional-insights"></a>Additional Insights
 
-Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study.
 
-  
 
 **Accessibility**
 
@@ -398,8 +396,8 @@ Any additional insights that aren't "key findings." These can be powerful commen
     
 
 > “I would think, getting started was the weakest part. Once I recognized how it was subdivided, it got better and better. And I'm not sure what can be done about that. Yeah, so getting started was the weakest part.” -P5 (Advanced JAWS user)
-    
-    [See Finding 3: One thing per page](#finding-3)
+
+[See Finding 3: One thing per page](#finding-3)
 
   
   
@@ -415,16 +413,43 @@ Any additional insights that aren't "key findings." These can be powerful commen
 -   Debt details page:
     
 
-- Due date:
+    - Due date:
     
 
-    -   Add due date again within Debt Details section
+        -   Add due date again within Debt Details section
     
-    -   Explore ways to add additional language to emphasize to users that the due date is past due while considering those on payment plans
+        -   Explore ways to add additional language to emphasize to users that the due date is past due while considering those on payment plans
     
-    -   Not all participants understood the purpose of the information that is needed to make a payment (file number, payee number, person entitled, deduction code) until they reached the Resolve page. We will only display this information on the Resolve page for the next iteration. Additional research will focus more on the placement of this information.
+        -   Not all participants understood the purpose of the information that is needed to make a payment (file number, payee number, person entitled, deduction code) until they reached the Resolve page. We will only display this information on the Resolve page for the next iteration. Additional research will focus more on the placement of this information.
     
 
+
+    - Payment schedule and late fees:
+    
+
+        -   Discovery with SMEs to understand late fees schedules and amounts.
+    
+
+        - Answer: "DMC doesn’t charge any late fees, Treasury is the one who assesses interest and fees when a debt gets referred there and of course the timeline for that can vary depending on if the Veteran never takes action or has some starts and stops along the way before the debt finally becomes delinquent. Essentially that schedule is a shifting target."
+    
+
+  
+
+        -   Discovery with SMEs to understand the effect of making a small payment on an overpayment debt on the overall progression in severity
+    
+
+        -   If a Veteran makes a small payment on a debt, does the debt still get escalated to benefits offset, or the Department of Treasury?
+    
+
+    - Due Date
+    
+
+        -   Can we surface a more actionable due date? OR
+    
+        -   Can we surface a more clear and accurate message about the next step in the escalation process?
+    
+        -   Work with CAIA to refine this section
+    
 - Debt letter page:
     
 
@@ -432,34 +457,6 @@ Any additional insights that aren't "key findings." These can be powerful commen
     
     -   Discovery with SMEs to determine what is shown on the Debt Letters section
     
-
-- Payment schedule and late fees:
-    
-
-    -   Discovery with SMEs to understand late fees schedules and amounts.
-    
-
-    - Answer: "DMC doesn’t charge any late fees, Treasury is the one who assesses interest and fees when a debt gets referred there and of course the timeline for that can vary depending on if the Veteran never takes action or has some starts and stops along the way before the debt finally becomes delinquent. Essentially that schedule is a shifting target."
-    
-
-  
-
-    -   Discovery with SMEs to understand the effect of making a small payment on an overpayment debt on the overall progression in severity
-    
-
-    -   If a Veteran makes a small payment on a debt, does the debt still get escalated to benefits offset, or the Department of Treasury?
-    
-
--Due Date
-    
-
-    -   Can we surface a more actionable due date? OR
-    
-    -   Can we surface a more clear and accurate message about the next step in the escalation process?
-    
-    -   Work with CAIA to refine this section
-    
-
 - Accessibility
     
 
@@ -536,9 +533,8 @@ This current study only had one participant who utilizes a screen reader at all 
 ## Secondary research
 
 
--   SME feedback survey
+-   A feedback survey was sent to SMEs to gather their feedback and make any updates before this research commenced.
 
--   [https://tally.so/r/mD1ZpZ](https://tally.so/r/mD1ZpZ)
     
 
 ## <a id="who-we-talked-to"></a>Who we talked to
@@ -549,144 +545,138 @@ We talked to **9 participants.**
 
 **Audience segment:**
 
--   * Veterans: 9
+- Veterans: 9
     
--   * Caregivers: x
+- Caregivers: x
     
--   * Family members of a Veteran: x
-    
-
-  
-  
-
-Gender:
-
--   * Male: 5
-    
--   * Female: 4
+- Family members of a Veteran: x
     
 
   
   
 
-LGBTQ+:
+**Gender:**
 
--   * Transgender: 1
+-  Male: 5
     
--   * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
-    
--   * Member of LGBTQ+: 5
+-  Female: 4
     
 
   
   
 
-Devices used during study:
+**LGBTQ+:**
 
--   * Desktop: 3
+- Transgender: 1
     
--   * Tablet: 1
+- Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
     
--   * Smart phone: 5
-    
--   * Assistive Technology: 3
+- Member of LGBTQ+: 5
     
 
   
   
 
-Age:
+**Devices used during study:**
 
--   * 25-34: 5
+- Desktop: 3
     
--   * 35-44: 2
+- Tablet: 1
     
--   * 45-54: 0
+- Smart phone: 5
     
--   * 55-64: 1
-    
--   * 65+: 1
-    
--   * Unknown: 0
+- Assistive Technology: 3
     
 
   
   
 
-Education:
+**Age:**
 
--   * High school degree or equivalent: 1
+- 25-34: 5
     
--   * Some college (no degree): 5
+- 35-44: 2
     
--   * Associate's degree, trade certificate or vocational training: 1
+- 45-54: 0
     
--   * Bachelor's degree: 0
+- 55-64: 1
     
--   * Master's degree: 1
-    
--   * Doctorate degree: 1
-    
--   * Unknown: 0
+- 65+: 1
     
 
   
   
 
-Geographic location:
+**Education:**
 
--   * Urban: 4
+- High school degree or equivalent: 1
     
--   * Rural: 6
+- Some college (no degree): 5
     
--   * Unknown: 0
+- Associate's degree, trade certificate or vocational training: 1
     
+- Bachelor's degree: 0
+    
+- Master's degree: 1
+    
+- Doctorate degree: 1
+    
+      
 
-  
+**Geographic location:**
 
-Race:
-
--   * White: 4
+- Urban: 4
     
--   * Black: 4
+- Rural: 6
     
--   * Hispanic: 3
-    
--   * Biracial: 2
-    
--   * Asian: 0
-    
--   * Native: 0
-    
-
-  
-
-Disability and Assistive Technology (AT):
-
--   * Cognitive: 6
-    
--   * AT beginner: 0
-    
--   * AT advanced user: 3
-    
--   * Desktop screen reader: 3
-    
--   * Mobile screen reader: 0
-    
--   * Magnification/Zoom: 1
-    
--   * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
-    
--   * Hearing aids: 0
-    
--   * Sighted keyboard: 0
-    
--   * Captions: 0
+- Unknown: 0
     
 
   
 
-Amount of VA overpayment debt
+**Race:**
+
+- White: 4
+    
+- Black: 4
+    
+- Hispanic: 3
+    
+- Biracial: 2
+    
+- Asian: 0
+    
+- Native: 0
+    
+
+  
+
+**Disability and Assistive Technology (AT):**
+
+- Cognitive: 6
+    
+- AT beginner: 0
+    
+- AT advanced user: 3
+    
+- Desktop screen reader: 3
+    
+- Mobile screen reader: 0
+    
+- Magnification/Zoom: 1
+    
+- [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+    
+- Hearing aids: 0
+    
+- Sighted keyboard: 0
+    
+- Captions: 0
+    
+
+  
+
+**Amount of VA overpayment debt**
 
 -   The debt I had or currently have is in the range of $1 - $99: 1
     
@@ -699,7 +689,7 @@ Amount of VA overpayment debt
 
   
 
-"Please select the option that you most agree with for the VA overpayment debt that you are in the process of resolving or have already resolved"
+**"Please select the option that you most agree with for the VA overpayment debt that you are in the process of resolving or have already resolved"**
 
 -   1 - I have not been active in resolving this VA debt at all: 1
     
@@ -714,7 +704,7 @@ Amount of VA overpayment debt
 
   
 
-Experiences of financial hardship
+**Experiences of financial hardship**
 
 -   I am currently experiencing financial hardship AND I have experienced financial hardship in the past: 4
     
@@ -723,7 +713,7 @@ Experiences of financial hardship
 -   I have never experienced financial hardship: 0
     
 
-Annual household income level
+**Annual household income level**
 
 -   $0 - $25K: 0
     
@@ -744,9 +734,7 @@ Annual household income level
 
   
 
-Please indicate how much you agree or disagree with the following statement:
-
-"I trust VA to fulfill our country’s commitment to Veterans.”
+**Please indicate how much you agree or disagree with the following statement: "I trust VA to fulfill our country’s commitment to Veterans.”**
 
 -   Strongly agree: 0
     
