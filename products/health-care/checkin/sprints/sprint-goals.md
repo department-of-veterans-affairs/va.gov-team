@@ -89,6 +89,8 @@
     - 🟦 [[BE] Handle 401s from LoROTA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90099)
     - 🟦 [[BE] Handle 403s from LoROTA data call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89625)
     - 🟦 [[BE] Resolve the 404s being thrown by CHIP/LoROTA due to synthetic monitoring tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89776)
+    - 🟦 [BE] remove feature flag: check_in_experience_lorota_security_updates_enabled #90100
+    - 🟦 [Update content on success page to remove content about texting again ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90062)
     - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
 </details>
 
