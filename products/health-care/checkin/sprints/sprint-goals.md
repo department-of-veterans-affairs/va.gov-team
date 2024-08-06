@@ -62,8 +62,7 @@
     - 🟥 [[Design] Finalize appt detail pages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
     - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
     - 🟩 [[FE] SPIKE - discover all the possible values for the 'kind' field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89876)
-    - 🟩 [[FE] Create Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
-    - 🟩 [[FE] Add Link to Access the Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89065)
+    - 🟩 [[FE] Link to New Upcoming Appointments Page for Day-of and Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to complete the Staging Review**
