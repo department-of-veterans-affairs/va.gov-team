@@ -95,11 +95,11 @@ The Help Desk currently offers four methods for Users to create a Ticket and ent
 
 ### Widget
 
-A javascript widget is embedded on specific pages throughout the CMS that allows Users to create a Ticket with the Help Desk. Users can track their Ticket at https://va-gov.atlassian.net/servicedesk/customer/portal/3 This is one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
+A javascript widget is embedded on specific pages throughout the CMS that allows Users to create a Ticket with the Help Desk. Users can track their Ticket in the [Jira help desk portal](https://va-gov.atlassian.net/servicedesk/customer/portal/3). This is one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
 
 ### Portal
 
-Users can create a new Ticket with the VA.gov Help Desk (Help Desk) using the va.gov website using a form found at https://va-gov.atlassian.net/servicedesk/customer/portal/3 JIRA Cases are created once the User submits the form. Slack sends immediate notifications to Tier 1 upon Ticket creation. Performance of the Portal is measured with metrics and reporting is available that is accurate and is delivered monthly by the Help Desk Manager. This is also one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
+Users can create a new Ticket with the VA.gov Help Desk (Help Desk) using the va.gov website using a form found in the [Jira help desk portal](https://va-gov.atlassian.net/servicedesk/customer/portal/3). JIRA Cases are created once the User submits the form. Slack sends immediate notifications to Tier 1 upon Ticket creation. Performance of the Portal is measured with metrics and reporting is available that is accurate and is delivered monthly by the Help Desk Manager. This is also one of the help desk's preferred methods, as it helps populate our ticketing system effectively.
 
 ### Slack
 
@@ -120,9 +120,9 @@ There is also an available email directly to our help desk ticketing system: sup
 ## VA Help Desk Responsibilities
 ### Tier 1
 
-[How to Cover Helpdesk] (https://docs.google.com/document/d/1cFxxwZg1lsP3EwDWSbfLM9L8EXzZ7WvpfO7aruW1v54/edit?usp=sharing)
+[How to Cover Helpdesk](https://docs.google.com/document/d/1cFxxwZg1lsP3EwDWSbfLM9L8EXzZ7WvpfO7aruW1v54/edit?usp=sharing) **This link goes to a 404**
 
-[Helpdesk Support Common Topics and Canned Responses] (https://docs.google.com/document/d/1Y7TQ_OM1Zn6rfdOHXSGxUrhP4dK2DemXb5q--tLDw6M/edit?usp=sharing)
+[Helpdesk Support Common Topics and Canned Responses](https://docs.google.com/document/d/1Y7TQ_OM1Zn6rfdOHXSGxUrhP4dK2DemXb5q--tLDw6M/edit?usp=sharing) **This link goes to a 404**
 
 
 The Tier 1 Help Desk is responsible for any Issues related to content publishing or editing that involve How-to questions (how-to edit, manage, publish, or alter VA Medical Center’s pages) and questions about the use any of the CMS’ built-in features such as Password Reset, Governance, Permissions, and Account management.
@@ -145,7 +145,7 @@ Ensure that any Incidents are reported/escalated immediately, and serve as Incid
 
 ### Tier 2
 
-[Tier 1 vs. Tier 2 Responsibilities] (https://docs.google.com/document/d/1mbNhoY9vYsy3dK1NlfmV2vFpHVBWd-s_eL6Rf7ORRJs/edit?usp=sharing)
+[Tier 1 vs. Tier 2 Responsibilities](https://docs.google.com/document/d/1mbNhoY9vYsy3dK1NlfmV2vFpHVBWd-s_eL6Rf7ORRJs/edit?usp=sharing) **This link goes to a 404**
 
 Tier 2 will:
 
@@ -175,7 +175,7 @@ Prioritizes Tier 2 backlog queue and holds accountable Tier 2 rotation staff.
 #### User How-To or User Error Tickets
 
 Please refer to the new living document on common issues:
-[Helpdesk Support Common Topics and Canned Responses] (https://docs.google.com/document/d/1Y7TQ_OM1Zn6rfdOHXSGxUrhP4dK2DemXb5q--tLDw6M/edit?usp=sharing)
+[Helpdesk Support Common Topics and Canned Responses](https://docs.google.com/document/d/1Y7TQ_OM1Zn6rfdOHXSGxUrhP4dK2DemXb5q--tLDw6M/edit?usp=sharing) **This link goes to a 404**
 
 
 ### Defects
@@ -190,32 +190,33 @@ Participants are able to add to the Conversation by replying to Ticket emails th
 
 ### Ticket Classification 
 
-[Labels and Components of JIRA](https://docs.link-replaced.com/spreadsheets/d/1iBvqWLLLQ3ROlvGE0_T3WdNIx0j14szYYjEswqmmx5U/edit#gid=0)
+[Labels and Components of JIRA](https://docs.link-replaced.com/spreadsheets/d/1iBvqWLLLQ3ROlvGE0_T3WdNIx0j14szYYjEswqmmx5U/edit#gid=0) **This link goes to a 404**
+
 
 ### CMS Feature and Content Related Guides
 
-[Writing content for VA.gov](https://prod.cms.va.gov/help/what-is-a-cms-cloned)
+[Writing content for VA.gov](https://prod.cms.va.gov/help/cms-basics/writing-content-for-vagov)
 
-[Content release to VA.gov](https://prod.cms.va.gov/help/content-release-to-vagov)
+[Content release to VA.gov](https://prod.cms.va.gov/help/cms-basics/content-release-to-vagov)
 
-[Finding content](https://prod.cms.va.gov/help/cms-basics/find-content)
+[Finding content](https://prod.cms.va.gov/help/cms-basics/how-to-find-content-to-edit)
 
 [Viewing revisions](https://prod.cms.va.gov/help/cms-basics/how-to-view-revisions)
 
-[See more guides on cms basics >>](https://prod.cms.va.gov/help/cms-basics)
+See more guides on [CMS basics](https://prod.cms.va.gov/help/cms-basics)
 
 ### For VA Medical Center Editors
 Support Channels are [VACMSSupport@va.gov](mailto:VACMSSupport@va.gov) and/or the "Contact Help Desk" button on the CMS.
 
-[Overview of processes](https://docs.link-replaced.com/document/d/1piIkYdFjvcy0_OMlD3oWVj9o6sX3g5ykG0bopGMiHxI/edit#heading=h.113j7shbaqi2)
+[Overview of processes](https://docs.link-replaced.com/document/d/1piIkYdFjvcy0_OMlD3oWVj9o6sX3g5ykG0bopGMiHxI/edit#heading=h.113j7shbaqi2) **This link goes to a 404**
 
 [Engaging the CMS Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md)
 
 [Helpdesk Service Level Agreement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/service_level_agreement.md)
 
-[VAMC guides by content type](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type)
+[VAMC guides by content type](https://prod.cms.va.gov/help/vamc/vamc-guides)
 
-[Veteran-centered design for VAMC editors](https://prod.cms.va.gov/help/product-guides/vamc/veteran-centered-design)
+[Veteran-centered design for VAMC editors](https://prod.cms.va.gov/help/vamc/about-veteran-centered-design-for-health-care-sites)
 
 ### For Product Teams
 
@@ -229,13 +230,13 @@ Primarily these are served via Slack in the **#cms-support** channel.
 
 [CMS User Administration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/user-administration)
 
-[2022 Heldesk Access Request Decision Chart] (https://docs.google.com/presentation/d/10bG3GxxwviZFd-KoTSVYFFkNXNgqKYerVxoX_4TrOro/edit?usp=sharing)
+[2022 Heldesk Access Request Decision Chart](https://docs.google.com/presentation/d/10bG3GxxwviZFd-KoTSVYFFkNXNgqKYerVxoX_4TrOro/edit?usp=sharing) **This link goes to a 404**
 
-[Training Runbook](https://docs.link-replaced.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097)
+[Training Runbook](https://docs.link-replaced.com/spreadsheets/d/13jx1rhF5oRLXJNky0ff0zBfE0yR_NUTiAB3oS5T2TpQ/edit#gid=1427489097) **This link goes to a 404**
 
-[VA Onboarding Checklist](https://docs.link-replaced.com/spreadsheets/d/1UTJaiB9Mwfnoiv26saXrC-OniadWSJxkEhSO5TA3WH4/edit#gid=0)
+[VA Onboarding Checklist](https://docs.link-replaced.com/spreadsheets/d/1UTJaiB9Mwfnoiv26saXrC-OniadWSJxkEhSO5TA3WH4/edit#gid=0) **This link goes to a 404**
 
-[New Account and Training Email Templates](https://docs.link-replaced.com/document/d/1WxQW7jD91PPviEFGUW4nUuBMApqn9kYiFlP8EJTCNT8/edit#heading=h.csl3ak7tjvj3)
+[New Account and Training Email Templates](https://docs.link-replaced.com/document/d/1WxQW7jD91PPviEFGUW4nUuBMApqn9kYiFlP8EJTCNT8/edit#heading=h.csl3ak7tjvj3) **This link goes to a 404**
 
 ### Resources
 
@@ -243,26 +244,26 @@ Primarily these are served via Slack in the **#cms-support** channel.
 
 [Incident Response Procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/helpdesk/incident-response.md)
 
-[Incident Response Contact Information](https://docs.link-replaced.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0)
+[Incident Response Contact Information](https://docs.link-replaced.com/spreadsheets/d/1RiqpHVipfQEjPmkOAhe1coy_wL__49MLLIF6b5Th2xI/edit#gid=0) **This link goes to a 404**
 
 #### CMS Deployments
 
 [Jenkins Status](http://jenkins.vfs.va.gov/job/deploys/job/vets-gov-autodeploy-vets-website/)
 
-Deployment http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/)
+[Deployment](http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovprod/)
 
 #### Broken links
 
-[Broken Links Sync](https://docs.link-replaced.com/document/d/1KOqqIRVy4i4kNuxJABxLaPBtA6lmIxs0vbg4E3bX19g/edit?ts=6022f79b)
+[Broken Links Sync](https://docs.link-replaced.com/document/d/1KOqqIRVy4i4kNuxJABxLaPBtA6lmIxs0vbg4E3bX19g/edit?ts=6022f79b) **This link goes to a 404**
  
 
-[Content Types](http://training.demo.ci.cms.va.gov/admin/content-models/content)
+[Content Types](http://training.demo.ci.cms.va.gov/admin/content-models/content) **This tugboat instance no longer exists**
 
-[Content Release How-to](https://prod.cms.va.gov/help/content-release-to-vagov)
+[Content Release How-to](https://prod.cms.va.gov/help/cms-basics/content-release-to-vagov)
 
-[Canned Answers](https://github.com/department-of-veterans-affairs/va.gov-cms/tree/master/helpdesk-responses)
+[Canned Answers](https://github.com/department-of-veterans-affairs/va.gov-cms/tree/master/helpdesk-responses) **This link goes to a 404**
 
-[Sprint Best Practices](https://docs.link-replaced.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o/edit#heading=h.k3ui031qfw4l)
+[Sprint Best Practices](https://docs.link-replaced.com/document/d/1wx0wpqEHkCDEAb4lu8EdZU4Tie0RIky-TTPrKXrNK0o/edit#heading=h.k3ui031qfw4l) **This link goes to a 404**
 
 [CMS Onboarding Service Blueprint](https://app.mural.co/t/vagov6717/m/vagov6717/1605735264080/64a23a4e0bcff45cafebd576db9a787d54127dbc)
 
@@ -274,115 +275,117 @@ Deployment http://jenkins.vfs.va.gov/job/builds/job/vets-website-content-vagovpr
 
 #### Drupal CMS Orientation for VAMC editors
 
-- [Session 1: Getting started](https://prod.cms.va.gov/help/access-training/session-1-getting-started)
-- [Session 2: Editing basics](https://prod.cms.va.gov/help/session-2-editing-basics)
-- [Session 3: Health services](https://prod.cms.va.gov/help/access-training/session-3-health-services)
-- [Session 4: Facilities](https://prod.cms.va.gov/help/access-training/session-4-facilities)
-- [Session 5: Detail pages, menus, and revisions](https://prod.cms.va.gov/help/access-training/session-5-detail-pages)
+- [Session 1: Getting started](https://prod.cms.va.gov/help/get-training/session-1-getting-started)
+- [Session 2: Editing basics](https://prod.cms.va.gov/help/get-training/session-2-list-content-types)
+- [Session 3: Health services](https://prod.cms.va.gov/help/get-training/session-3-services)
+- [Session 4: Facilities](https://prod.cms.va.gov/help/get-training/session-4-facilities)
+- [Session 5: Detail pages, menus, and revisions](https://prod.cms.va.gov/help/get-training/session-5-other-content-types)
 
 Helpful references to have ready during training sessions. Use this link during CMS orientation to practice editing content in the CMS.
 
-[CMS training environment](https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/)
+[CMS training environment](https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/) **This tugboat instance no longer exists**
 
 #### Login and account
 
-[Requesting an account](https://prod.cms.va.gov/help/support/request-a-cms-account)
+[Requesting an account](https://prod.cms.va.gov/help/cms-basics/how-to-request-a-cms-account)
 
-[Roles and permissions](https://prod.cms.va.gov/help/cms-basics/roles-and-permissions)
+[Roles and permissions](https://prod.cms.va.gov/help/cms-basics/about-cms-account-permissions)
 
-[Logging in/out](https://prod.cms.va.gov/help/cms-basics/login)
+[Logging in/out](https://prod.cms.va.gov/help/cms-basics/how-to-log-inout)
 
-[About CMS sections](https://prod.cms.va.gov/help/cms-basics/sections)
+[About CMS sections](https://prod.cms.va.gov/help/cms-basics/sections) **This link goes to a 404**
 
 Timely content types
 
 #### Event & Events List
 
-[About events content](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/about-events)
+[About events content](https://prod.cms.va.gov/help/vamc/about-events-content-for-vamcs)
 
-[How to edit an existing Event](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/existing-event)
+[How to edit an existing Event](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-events-content-for-vamcs/how-to-edit-an-existing-event) **This page was archived and is still referenced in multiple locations in the knowledge hub**
 
-[How to add a new Event](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/new-event)
+[How to edit or add a new Event](https://prod.cms.va.gov/help/cms-basics/how-to-edit-an-event)
 
-[How to edit an Events List](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/event-listing)
+[How to edit an Events List](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-events-content-for-vamcs/how-to-edit-an-events-list)
 
 #### Story & Stories List
 
-[About stories content](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/about-stories)
+[About stories content](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/about-stories) **This page was archived and is still referenced in multiple locations in the knowledge hub**
 
-[How to edit a Story](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/story)
+[How to edit a Story](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-stories-content-for-vamcs/how-to-add-a-story)
 
-[How to edit a Stories List](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/stories-list)
+[How to edit a Stories List](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-stories-content-for-vamcs/how-to-edit-a-stories-list)
 
 #### News Release & News Releases List
 
-[About news release content](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/about-news-releases)
+[About news release content](https://prod.cms.va.gov/help/vamc/about-news-release-content-for-vamcs)
 
-[How to edit a News Release](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/news-release)
+[How to add a News Release](https://prod.cms.va.gov/help/vamc/about-news-release-content-for-vamcs/how-to-add-a-news-release)
 
-[How to edit a News Releases list](https://prod.cms.va.gov/help/how-to-edit-a-news-releases-list)
+[How to edit a News Releases list](https://prod.cms.va.gov/help/vamc/about-news-release-content-for-vamcs/what-is-a-news-releases-list)
 
 #### Health Services Content Types
 <empty>
 
 #### Health Services List
 
-[How to edit a health services list](https://prod.cms.va.gov/help/how-to-edit-a-health-services-list)
+[How to edit a health services list](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-health-services/how-to-edit-a-health-services-list)
 
 #### VAMC System Health Service
 
-[How to edit an existing VAMC system health service](https://prod.cms.va.gov/help/edit-vamc-system-health-service)
+[How to edit an existing VAMC system health service](https://prod.cms.va.gov/help/edit-vamc-system-health-service) **This page was archived and is still referenced in multiple locations in the knowledge hub**
+
+[How to add or edit an exisiting VAMC system health service](https://prod.cms.va.gov/help/vamc/how-to-add-or-edit-a-vamc-system-health-service) **This is the new link for this that combined add and edit together into one page**
 
 #### Locations Content Types
 
-[VAMC System Home Page](https://prod.cms.va.gov/help/how-to-edit-a-vamc-system)
+[VAMC System Home Page](https://prod.cms.va.gov/help/vamc/how-to-edit-a-vamc-system-homepage)
 
 #### Alerts and Operating Statuses
 
-[About alerts and operating statuses](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/alert-operating-status)
+[About alerts and operating statuses](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses)
 
-[How to edit a Facility Operating Status](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/facility-operating-status)
+[How to edit a Facility Operating Status](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses/how-to-edit-a-vamc-facility-operating-status)
 
-[How to edit a System Banner Alert](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/banner-alert)
+[How to edit a System Banner Alert](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/about-alerts-and-operating-statuses/how-to-add-a-system-banner-alert)
 
 #### Facilities & Locations
 
-[About facilities and locations content](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/about-locations-content-types)
+[About facilities and locations content](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs)
 
-[How to edit a Locations List](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/locations-list)
+[How to edit a Locations List](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-locations-content-for-vamcs/how-to-edit-a-locations-list)
 
-[How to edit a VAMC Facility](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/facility)
+[How to edit a VAMC Facility](https://prod.cms.va.gov/help/va-medical-centers-vamcs/about-locations-content-for-vamcs/how-to-edit-a-vamc-facility)
 
-[How to edit a facility map](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/facility-map)
+[How to edit a facility map](https://prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/how-to-edit-a-facility-map)
 
 #### About Us Pages
 <empty>
 
 #### Detail Page
 
-[How to edit Detail Pages — for VAMCs](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/detail-pages)
+[How to edit Detail Pages — for VAMCs](https://prod.cms.va.gov/help/vamc/how-to-edit-or-add-a-vamc-detail-page)
 
-[How to edit VAMC system sub-menus](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/menus)
+[How to edit VAMC system sub-menus](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/menus) **This page was archived and no longer something editors can do**
 
 #### Staff Profile & Leadership List
 
-[How to edit a Staff Profile](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type/staff-profiles)
+[How to edit or add a Staff Profile](https://prod.cms.va.gov/help/vamc/how-to-edit-or-add-a-staff-profile)
 
-[How to edit a Leadership List](https://prod.cms.va.gov/help/how-to-edit-a-leadership-list)
+[How to edit a Leadership List](https://prod.cms.va.gov/help/vamc/how-to-edit-a-leadership-list)
 
 #### VAMC Guides
 
-[About Veteran-centered design for health care sites](https://prod.cms.va.gov/help/product-guides/vamc/veteran-centered-design)
+[About Veteran-centered design for health care sites](https://prod.cms.va.gov/help/vamc/about-veteran-centered-design-for-health-care-sites)
 
 Learn about the new vision for VA health care sites and how you can support Veteran-centered content.
 
-[VAMC guides by content type](https://prod.cms.va.gov/help/product-guides/vamc/by-content-type)
+[VAMC guides by content type](https://prod.cms.va.gov/help/vamc/vamc-guides)
 
 Find guides on editing VAMC information based on its content type in the CMS.
 
-[Help Desk Share Drive](https://drive.link-replaced.com/drive/folders/1opC6DgZyBQ6uEVzIz3FWmISMLt-Y91ts)
+[Help Desk Share Drive](https://drive.link-replaced.com/drive/folders/1opC6DgZyBQ6uEVzIz3FWmISMLt-Y91ts) **This link goes to a 404**
 
-[CMS Common Questions](https://docs.link-replaced.com/document/d/13uors76aPKpfKvFD-ta0dyXxo1Tp6UlLeChFUccDwv4/edit#heading=h.l8h1knzfmhu9)
+[CMS Common Questions](https://docs.link-replaced.com/document/d/13uors76aPKpfKvFD-ta0dyXxo1Tp6UlLeChFUccDwv4/edit#heading=h.l8h1knzfmhu9) **This link goes to a 404**
 
 #### CMS Environments
 
@@ -390,7 +393,7 @@ CMS non-prod Environments (default password _______ )
 
 [Staging](https://staging.cms.va.gov/)
 
-[Training](https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/)
+[Training](https://cms-training-pion6wlxie1t0mckcgwjl4kid1k1haqe.demo.cms.va.gov/) **This tugboat instance no longer exists**
 
 [Tugboat](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/READMES/tugboat.md)
 
@@ -398,7 +401,7 @@ CMS non-prod Environments (default password _______ )
 
 [CMS Training](https://staging.cms.va.gov/help/access-training)
 
-[CMS Roles and Responsibilities](https://prod.cms.va.gov/help/cms-basics/roles-and-permissions)
+[CMS Roles and Responsibilities](https://prod.cms.va.gov/help/cms-basics/about-cms-account-permissions)
 
 #### Performance and Reporting
 
@@ -420,7 +423,7 @@ The Sprint Demo (often part of the Sprint Review ceremony in Agile/Scrum methodo
 
 ## VA.gov Product Directory
 A spreadsheet that lists which team owns an issue.
-[https://docs.link-replaced.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874]
+[https://docs.link-replaced.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874] **This link goes to a 404**
 
 
 ## Issues that Prevent the Publishing of Content
@@ -448,7 +451,7 @@ Go to the Main Content page and filter by “Benefits hub landing page” in ord
 Check user permissions.
 
 ### How to Update Contact Info
-VAMC Facility centralized information must be changed in the VA’s National Database.  Instructions can be accessed only while connected to the internal VA network at https://vaww.va.gov/WEBCOM/VAMCFacilityLocationUpdates.asp
+VAMC Facility centralized information must be changed in the VA’s National Database.  Instructions can be accessed only while connected to the internal VA network at https://vaww.va.gov/WEBCOM/VAMCFacilityLocationUpdates.asp **This link goes to a 404**
 
 ## Subject Matter Experts
 #### SW
