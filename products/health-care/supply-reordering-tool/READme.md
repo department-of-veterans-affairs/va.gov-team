@@ -13,12 +13,21 @@ This is part of a larger initiative to move all Veteran transactions around mana
  - Be able to monitor what supplies are available and what are not to order
  - Contact the correct teams for assistance when needed. 
 
+## Desired User Outcomes: 
+- Improve transparency / reduce confusion around supply reordering process
+- Veterans are well informed about the process are able to independently take reordering actions (prescription, eligibility, ordering)
+- Veterans are well-informed about the status of their supplies
 
 ## Undesired User Outcomes
 
+- Supply reordering tool doesn’t provide the user with the same functionality that they have today- causing frustration and dissatisfaction.
+- Veterans are confused about supplies.
+- Misalignment in data and functionality on VA Health and Benefits Application. MHV on va.gov and with DLC
+
 
 ## Desired Business Outcomes
-
+- Enabling users to understand and self-service supply needs leads to more timely care, reduces burden on clinical and call center staff, and increases patient safety
+- Easily accessible and identifiable supplies list will alleviate congressional and patient safety questions.
 
 ## Project Timeline & Activities
 
