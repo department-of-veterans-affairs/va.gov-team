@@ -52,6 +52,9 @@
     - 🟥 [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
     - 🟥 [[Design] Finalize appt detail pages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
     - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
+- **Componentize the Appt Summary View**
+    - 🟥 Do hand-off to engineering
+    - 🟩 Design implementation and create tickets
 - **Translations**
     - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
