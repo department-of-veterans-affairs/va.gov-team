@@ -750,7 +750,6 @@ We talked to **9 participants.**
 
 ## Underserved groups we haven’t talked to
 
-[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)
 
 This research does not include the perspectives of the following marginalized Veteran groups: List all groups in red from the spreadsheet
 
@@ -760,5 +759,4 @@ This research does not include the perspectives of the following marginalized Ve
     
 -   Beginner AT users
     
-
-[insert screenshot of completed recruitment checker] ![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/usability-study-6-2024/who-we-talked-to.png" width="350">
