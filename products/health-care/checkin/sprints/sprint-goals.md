@@ -41,8 +41,10 @@
     - ❗🟪 Schedule Staging Review
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address feedback from the Design Intent and finish the wireframes**
-    - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)     
-- **Upcoming VAOS Appointments**
+    - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
+    - 🟥 Do hand-off to engineering
+    - 🟦🟩 Design implementation and create tickets
+- **Upcoming Appointments**
     - **Sprint Goal is to update wireframes based on Midpoint Review feedback and finish backend integration work**
     - Schedule a meeting to decide the fate of the various detail pages based on modality
     - 🟩 [[FE] SPIKE - discover all the possible values for the 'kind' field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89876)
@@ -50,7 +52,6 @@
     - 🟥 [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
     - 🟥 [[Design] Finalize appt detail pages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
     - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
-    - 🟥 Schedule and Conduct hand-off to engineers
 - **Translations**
     - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
