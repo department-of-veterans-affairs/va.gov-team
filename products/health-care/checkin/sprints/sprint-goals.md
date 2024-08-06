@@ -55,8 +55,6 @@
     - ✔️ 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008) 
 - **Upcoming Appointments**
     - **Sprint Goal is to update wireframes based on Midpoint Review feedback and finish backend integration work**
-    - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
-    - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
     - 🟥 [Midpoint Review - Design Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89478)
     - 🟥 [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
     - 🟥 [[Design] Finalize appt detail pages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
