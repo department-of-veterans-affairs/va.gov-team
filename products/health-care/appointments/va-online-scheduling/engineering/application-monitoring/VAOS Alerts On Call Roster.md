@@ -34,7 +34,7 @@ The following individuals are assigned to monitor the [VAOS Alerts dashboard](ht
   
   | Date | On Call |
   |------------|--------------------|
-  |Aug 5-9||
+  |Aug 5-9|Corey Ferris|
   |Aug 12-16||
   |Aug 19-23|John Luo|
   |Aug 26-30||
