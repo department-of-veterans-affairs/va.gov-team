@@ -351,7 +351,7 @@ Note: this document does not include research history for Appeals projects, whic
 *VAOS, Peter Russo*
 
 - 8 Veterans
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery/research-plan-cc-discovery.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability)
 - Scheduling, Appointments
 
 #### November 6 - November 20: Community Care Request Manager Research
