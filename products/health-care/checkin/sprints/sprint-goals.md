@@ -74,6 +74,7 @@
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76038)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
 - **Tech Debt**
+    - 🟥 [[Design] Update medication review info and/or manage appointment links ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90043)
     - 🟦 [[BE] Investigate sentry errors being thrown by check-in controllers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89085) 
 - **Move to New AWS Instance**
     - 🟨 [[DevOps] Determine environmental functional parity for Vista API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86877)
