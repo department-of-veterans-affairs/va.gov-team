@@ -82,6 +82,7 @@ Great, now we’re going to start today’s activity. I’m going to share a lin
 - Send the Figma prototype link, queued up to the “welcome” page.
 - Make sure you’re sending the correct desktop or mobile link, depending on what kind of device the participant is using.
 What you’re seeing is the welcome page for a questionnaire. This questionnaire will ask a few questions to help you find benefits and resources that might be helpful.
+
 For your first task, please complete the questionnaire. The questions in the questionnaire help us determine what benefits someone might be eligible for. Please answer each question to the best of your ability. We will keep your answers confidential and we will not share or track your answers in any way. We’re only asking you to answer the questions so you can provide feedback on how we’ve designed this questionnaire.
 Please stop when you reach the page that says “Review your entries”  at the top.
 As a reminder, please share your thoughts out loud while you’re doing the task. You can start the task now by reading this page and then selecting the “Get started” button.
