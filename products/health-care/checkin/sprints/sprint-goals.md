@@ -44,7 +44,7 @@
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get this feature ready for Staging Review**
     - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
-    - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
+    - ✔️ 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
     - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
     - 🟪 Schedule and Attend Staging Review
         - QUESTION: Do we want to wait for the updates that are listed in tech debt before we go to SR?
