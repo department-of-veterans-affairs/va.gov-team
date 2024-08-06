@@ -79,8 +79,8 @@
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
 - **Production Support**
-    - ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
-    - ❗🟨 [Rotate AWS Keys - July 29, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76337) (added after planning)
+    - ✔️ ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
+    - ✔️ ❗🟨 [Rotate AWS Keys - July 29, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76337) (added after planning)
     - **Sub Goal: Move to New AWS Instance**
       - 🚧 ❗🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
       - ✔️ 🟨 [[DevOps] Read LoROTA secret directly from environment variable rather than through Secrets Manager.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89695)
@@ -101,7 +101,7 @@
     - ✔️ ❗🟩 [Staging Review finding: Input error messages not announced by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89010)
     - ✔️ ❗🟩 [Staging Review finding: "Check in now" links not announced the same way by screen readers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89009)
     - ✔️ ❗🟩 [Staging Review finding: Inconsistent language around identity verification in "Check if your information is up to date" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89007)
-    - ❗🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
+    - ✔️ ❗🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
     - ✔️ ❗🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
     - ~❗🟪 Schedule a 508 Audit~
         - Decided to wait until we release the Upcoming Appointments
@@ -110,8 +110,10 @@
     - ✔️ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
     - ✔️ 🟩 [Test E2E with VeText Team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
         - 🟩 How will we make this available to only certain Pilot sites?
-    - 🟪 Schedule Staging Review
-    - 🟩 Schedule Infrasturcture, Security Readiness Review
+    - ~🟪 Schedule Staging Review~
+        - Not ready yet
+    - ~🟩 Schedule Infrasturcture, Security Readiness Review~
+        - Not ready yet
     - ✔️ 🟥🟪 Find out from Kristen about timing of pilot and pilot site(s)
         - Email sent to ask; CIE will do a demo at the Aug 6 BTSSS Working session and will discuss release plan there
 - **Medication Wording for Appointments - Pre-Check-in**
@@ -122,7 +124,7 @@
     - **Sprint Goal is to do the draft userflow & wireframes and schedule a Design Intent**
     - ✔️ 🟪 Create product documents
     - ✔️ 🟥 [Update userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88086)
-    - 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
+    - ✔️ 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
     - ✔️ 🟥 Schedule Design Intent (are we piggy-backing off Travel Team's Collab Cycle ticket?)   
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish the draft UX artifacts and schedule a Midpoint Review and to make progress on backend integration with VAOS/MAP**
