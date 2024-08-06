@@ -8,17 +8,17 @@ Last update: 7/26/24 by Cara Frissell
 - Travel Reimbursement Status Page is due to begin rollout in August 2024 (lead by Beneficiary Travel)
      - [View in staging](https://staging.va.gov/my-health/travel-claim-status)
      - [VA.gov Travel Pay Status Page v1 BT team epic #83824](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83824)
-- Mileage-only claim submission on VA.gov is in active design phase (Beneficiary Travel, PCI)
-     - [Joint Collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87696)
-     - [BT Discovery team ticket](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83828) and [BT Implementation team ticket](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83829)  
+- File a Mileage-only claim submission on VA.gov from a past Appointment in Collab Cycle(Beneficiary Travel, PCI)
+   - This work will leverage the mileage-only claim submission on VA.gov work currently in progress by Beneficiary Travel and PCI see more in [July 22 notes](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83829)
+     - [Joint Collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89153)
+     - [BT Discovery team ticket](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83828) and [BT Implementation team ticket](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83829)
+     - [Appointments team ticket](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88032)
 
 
 ## Planned Future Work 
 
-- File a travel claim from Past Appointments (Appointments, PCI)
-     - This work will leverage the mileage-only claim submission on VA.gov work currently in progress by Beneficiary Travel and PCI see more in [July 22 notes](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83829)
-     - [Appointments team ticket](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88032)
 - Check a travel claim status on VA.gov (Beneficiary Travel, PCI, Appointments)
+- Complex claim discovery (Beneficiary Travel)
 
 ## Research 
    #### 2024
