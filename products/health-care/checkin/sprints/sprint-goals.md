@@ -64,9 +64,9 @@
     - **Sprint Goal is to look at options for implementing tabs in design**
     - 🟥 [[Design] Discovery/design work for implementing tabs for upcoming appts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90077)
 - **Stand-alone Travel Application for OH Sites**
-    - **Sprint Goal is to complete the Staging Review**
+    - **Sprint Goal is to complete the Staging Review, if possible**
     - 🟪 Schedule and Attend Staging Review
-        - Do we need bug tickets for BE?
+        - We need to wait until we hear back about whether we will need to integrate with the new BTSSS API
     - 🟥 [Update content on success page to remove content about texting again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90062)
     - 🟩 [FE] ticket for Update content on success page to remove content about texting again
 - **Travel Claim Submission from Past Appts - Web**
