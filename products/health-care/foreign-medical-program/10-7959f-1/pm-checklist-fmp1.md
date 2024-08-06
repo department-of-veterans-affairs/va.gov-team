@@ -105,7 +105,7 @@
 - [x] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
 - [x] Update Contact Center guide
      - [ ] **Coordinate with IVC Contact Center**
-      - [x] Submit Contact Center guide review [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90047)
+     - [x] Submit Contact Center guide review [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90047)
 - [ ] **Update Release Plan**
      - [ ] **Include E2E test results & signoff**
 - [ ] Schedule or close all remaining tickets
