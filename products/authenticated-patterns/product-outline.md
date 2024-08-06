@@ -78,12 +78,11 @@ We believe this is a good pattern to begin with as there are many forms already 
   - inline alerts
   - additional info component
   - address/details component
+  - card component
   - input styling
-  - directions to update profile data 
 
 ### Maintain accurate data within their profile
 We believe that creating improved personal profile maintenance interfaces will help improve and maintain data quality within user profiles. This pattern will tie in closely with the prefill form pattern and knowing where and how to update out of date information when forms are prefilled. As such we believe this is a good second pattern to work with and should consist of:
-- consistent presentation of profile fields across all VA products
 - directions to update profile data 
 - page-level alerts
 - inline alerts
