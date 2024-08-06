@@ -112,6 +112,8 @@ Open and merge a pull request to replace the [rep-org-addresses.xlsx](https://gi
 
 ### Data Source: Flagged Representative Contact Data
 
+Update: This feature has been removed
+
 Users of the Find a VA accredited representative or VSO search tool can report outdated information for each representative that is surfaced in the search results. Users can report a representative's address, email, phone as information that needs to be updated. Users do not need to be authenticated to use the feature.
 
 The information that's reported is stored in the `flagged_veteran_representative_contact_data` vets-api Postgres table which has the following columns:
