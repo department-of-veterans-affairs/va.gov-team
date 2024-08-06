@@ -76,7 +76,7 @@
      - [x] Review findings with the team
      - [x] Make any necessary tickets/changes for design
 - [x] Create Use Cases
-     - [ ] **Identify test users**
+     - [x] Identify test users
 - [x] Create Release Plan
 - [x] Complete development
      - [x] Engineers work with Designers on any questions/clarifications
@@ -89,7 +89,7 @@
 - [ ] Complete QA and Accessibility QA
      - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
      - [ ] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
-- [ ] **Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
      - [ ] **Review findings with the team**
      - [ ] **Create tickets for work to be completed before launch**
 - [x] Create Usability and/or UAT research plan and conversation guide
@@ -103,16 +103,16 @@
 - [x] Update Error matrix documentation with any new error states
 - [x] Update any FE and/or BE Engineering documentation
 - [x] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] **Update Contact Center guide**
+- [x] Update Contact Center guide
      - [ ] **Coordinate with IVC Contact Center**
-      - [ ] **Submit Contact Center guide review ticket**
+      - [x] Submit Contact Center guide review [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90047)
 - [ ] **Update Release Plan**
      - [ ] **Include E2E test results & signoff**
 - [ ] Schedule or close all remaining tickets
      - Some tickets may be backlogged for future work, as they were not required to launch
-- [ ] **Coordinate with CAIA**
-     - [ ] confirmation email review [ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/89338)
-     - [ ] react widget [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88012#issuecomment-2256789193)
+- [x] Coordinate with CAIA
+     - [ ] **confirmation email review** [ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/89338)
+     - [ ] **react widget** [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88012#issuecomment-2256789193)
      - [ ] **Coordinate with VA Notify**
 - [ ] **Conduct Launch Go/No Go with the team**
      - [ ] **Review this checklist**
