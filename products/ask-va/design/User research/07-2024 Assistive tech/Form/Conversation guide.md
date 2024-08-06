@@ -138,13 +138,14 @@ I'd also like to know a little more about how you're using your assistive tech.
 
 - Have you ever shared your screen on Zoom while using [tool]?
 
-Okay, great. We're going to do that now. So, if you have any windows open that you don't want to share, you can take a moment to close them.
+Okay, great. We're going to do that now. 
 
 - [Have they shared before?]
   - `IF YES` Please share your screen when you're ready.
   - `IF NO` I’ll help guide you through how to share your screen...
 
 ### Troubleshooting: Screen share issues
+- If testing on VoiceOver (Mac), tell participants to navigate to "Share" (tab or they can do shift + command + S). Then, once they choose "Share," they need to share sound. They should tab until they hear "Share sound" and then check on. Then, choose, "Share" again to finish.
 - Refer to [Screen reader instructions: Setting up screen share](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
 - Ask the accessibility specialist to come off mute and assist.
 - Be patient. Reassure the participant that this can be confusing and we're here to work through it together.
@@ -152,13 +153,23 @@ Okay, great. We're going to do that now. So, if you have any windows open that y
 
 > Screen sharing starts.
 
-Thanks! Now I’m able to see your screen.
+Thanks! Now I’m able to see your screen. I see [describe window].
 
 Next, I'm going to share a link to the test website.
 
 - Would you prefer that I email you the link, send it in the Zoom chat or dictate it to you?
 
-> Email, send in chat or dictate link: [https://bit.ly/ask-va](https://bit.ly/ask-va).
+> Dictate, email or send link in chat: [https://bit.ly/ask-va](https://bit.ly/ask-va).
+
+<details>
+
+  <summary>Suggestions for link sharing</summary>
+
+- On JAWs, (Windows), dictate or email may be best.
+- On TalkBack, (Android), share in the chat if typing is blocked.
+- On TTS/Voice Command (Mac iOS), chat may be best. Or, if they aren't sure how to switch between applications, dictate.
+   
+</details>
 
 > Opens staging.
 
@@ -170,15 +181,15 @@ Before you start, I'm going to share some context with you.
 
 This is a tool called Ask VA. It's a way for Veterans to contact the VA and ask a question online. For today's session, we're going to pretend like you're asking the VA a question about a recent experience you had a VA medical center. I can remind you of the scenario whenever you need me to.
 
-And as you navigate, we want to understand what's going through your mind and how your assistive technology is supporting you. I'm going to stay quiet, so you can focus on the task [and what your screen reader is announcing].
+And as you navigate, we want to understand what's going through your mind and how your assistive technology is supporting you. I'm going to stay quiet, so you can focus on the task [and what your screen reader is announcing]. [If we can't hear their screen reader eg. on mobile, tell them that.]
 
-But before you click a button or a link, it will be helpful for me if you pause, so we have some time to reflect on each page.
+But before you choose a button or a link, it will be helpful for me if you pause, so we have some time to reflect on each page.
 
-- How does all of that sound for you?
+- How does that all sound for you?
 
 Okay, great.
 
-So, let's get started. You can go ahead and explore this page. Keeping in mind you are here to ask a question about a recent experience you had a VA medical center.
+So, let's get started. Please read this page and then I'd like you to tell me where you would go next. Keep in mind that in this scenario you want to ask a question about a recent experience you had a VA medical center.
 
 > Screen: Home page (Unauthenticated)
 
@@ -187,7 +198,7 @@ So, let's get started. You can go ahead and explore this page. Keeping in mind y
 - What is your next step on this page?
 - Does it seem that you need to sign in or you can continue without signing in? Why?
 
-For today, we're going to sign in...
+Okay great. Let's navigate to sign in.
 
 <details>
   <summary>Key things to notice</summary>
@@ -206,13 +217,17 @@ For today, we're going to sign in...
 
 > Screen: Sign in
  
-We're going to use a test account. We're not going to use your username and password.
+We're going to use a test account instead of your username and password.
 
 When you're ready, start by navigating to ID.me.
 
-Now, I can dictate the test username and password to you, send it in the Zoom chat or email you. What do you prefer?
+> Screen: ID.me username and password
 
-> Dictate or send link.
+Great. Before I share the username and password, I just want to warn you that we're having an issue with sign in. After you sign in it will continue to say it's loading. If we reload the page, it will work. I'll remind you of this.
+
+So, now I'll share the username and password [the same way I shared the url].
+
+> Dictate, email or send link in chat.
 
 Username: tyler+02@bluetiger.digital
 Password: [Documented in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md).
@@ -222,9 +237,11 @@ Password: [Documented in sensitive repo](https://github.com/department-of-vetera
 - Be patient. Reassure the participant that this can be confusing and we're here to work through it together.
 - If after trying everything, sign in still isn't working: We'll ask a question without signing in. Refer to [pause and exit strategies](#pause-or-exit-strategies).
 
-> Screen sharing starts.
-
 > Signs in to test user account.
+
+> Screen: Loading (Issue)
+
+This is the issue I mentioned. We need to reload the page, and then it will work. [If needed, CTRL + D or CMD + L go directly to the URL bar.]
 
 > Screen: Dashboard
 
@@ -245,27 +262,29 @@ Okay, great. You've signed in now. We'll pretend like this is your account...
 
 ## Form (40 minutes)
 
-Now, I'd like you to ask the VA your question. In this scenario, your question is about a recent experience at a medical center.
+Now, I'd like you to ask the VA your question.
 
 As you navigate, you can share things with me that are frustrating or not working as you would have expected. I'll be quiet as we observe you going through the form.
+
+Please navigate to ask a new question and begin the form.
 
 > Screen: Your personal information
 
 > Screen: Category
 
-- Note: They can choose `Health care`.
+- Note: They must choose `Health care`.
 
 > Screen: Topic
 
-- Note: They can choose `Getting care at a local VA medical center`.
+- Note: They must choose `Getting care at a local VA medical center`.
 
 > Screen: Who is your question about?
 
-- Note: They can choose `Myself`.
+- Note: They must choose `Myself`.
 
 > Screen: What is your relationship to the Veteran?
 
-- Note: They can choose `I'm the Veteran`.
+- Note: They must choose `I'm the Veteran`.
 
 > Screen: Your VA health facility
 
@@ -273,7 +292,7 @@ As you navigate, you can share things with me that are frustrating or not workin
 
 > Screen: Your contact information
 
-- Note: They can choose to be contacted by email or phone, but not mail.
+- Note: They can choose to email or phone, but not mail.
 
 > Screen: Your postal code
 
