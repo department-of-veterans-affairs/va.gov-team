@@ -51,9 +51,8 @@
 - **New Landing Page with Today's VISTA Appointments**
     - **Sprint Goal is to address the remainer of the issues from Staging Review and close the Epic**
     - 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
-    - 🟩 [Staging Review finding: Replace imposter component with va-link-action](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89001)
     - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
-    - 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008) 
+    - ✔️ 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008) 
 - **Upcoming Appointments**
     - **Sprint Goal is to update wireframes based on Midpoint Review feedback and finish backend integration work**
     - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
