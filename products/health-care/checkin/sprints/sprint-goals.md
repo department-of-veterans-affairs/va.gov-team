@@ -47,6 +47,7 @@
     - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
     - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
     - 🟪 Schedule and Attend Staging Review
+        - QUESTION: Do we want to wait for the updates that are listed in tech debt before we go to SR?
 - **New Landing Page with Today's VISTA Appointments**
     - **Sprint Goal is to address the remainer of the issues from Staging Review and close the Epic**
     - 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
