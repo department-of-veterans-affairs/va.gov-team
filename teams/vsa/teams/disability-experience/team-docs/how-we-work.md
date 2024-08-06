@@ -1,5 +1,42 @@
 # How We Work
 
+### Proposal:
+* Create a cadence of reviewing new and existing high level initiatives with OCTO on a quarterly basis
+* Create a monthly **strategic planning meeting** with leads from each team and OCTO (OCTO PO and Design Lead, DM, PM, Team Design Leads, Team Engineering Leads to:
+  * Better define initatives and epics for upcoming sprints. We’ll;
+    * Engage roles across both teams and OCTO to drive clarity on problem statements, success criteria, definition of veteran impact, defintion of business impact. Effectively working ahead of the team with improved understanding.
+    * Assign work based with consideration given to 1) current workload and priority work 2) each team’s current area of skillsets or competencies
+    * Define and leverage shared language of Veteran impact as a mechanism to aid with prioritization
+    * Understand how constraints impact delivery timing
+  * Understand how we’ll collaborate across teams to solve the Veteran problems
+    * Understand how members of either team need to be involved in work that another team is working on
+  * Deliver faster with higher quality
+    * Use WIP limits to limit the number of Features (Epics) a team is working on at a given time (proposal: 2)
+    * Maintain an open “lane” for 1) tech debt, and 2) urgent unplanned work (Proposal ~10-20%)
+    * Break down Initiatives into small increments that can be delivered quickly. Aim for < 6 weeks
+* Create mechanisms for cross-team collaboration
+  * Build clear and consistent practice for brainstorming/ideating across roles and teams
+* Improve and leverage UX, Product, and Engineering metrics to measure against defined success criteria
+
+### Risks & Challenges
+* When distributing work across multituple teams,  teams may need time to re-familliarize themselves with the problem space and codebase
+  * Strategic planning meetings can be used to surface and socialize features of form 526, sharing knowledge across Product, UX, Design, Delivery, and Engineering
+  * Appropriate documentation can be created to share knowledge
+  * Sprint Reviews can be further augmented to index on knowledge sharing
+* Current areas of product specialization could pigenhole teams into doing the same work, and thus not spreading knowledge
+  * We’ll need to balance time to value with the cost of spreading knowledge
+* We may not currently have a shared language of Veteran impact.
+  * If not, this will need to be created with alignment across all teams involved
+* Unplanned and urgent or time-sensitive requests may still come up mid-sprint.
+  * We’ll try to get ahead of this with monthly strategic planning meeting
+  * The effort required to ship these items may exeec the dedicated “lane” for tech debt we’’ve allocated
+* Create a cadence of reviewing new and existing high level initiatives with OCTO on a quarterly basis - becomes irrelevant due to monthly mtg
+
+### Open questions:
+* does OCTO have a quarterly planning?
+  * if so, theirs should be ahead of ours
+
+
 
 
 | Problem                                                      | Experiment                                                   |
