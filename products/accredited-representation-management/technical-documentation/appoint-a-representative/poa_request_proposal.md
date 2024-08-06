@@ -30,6 +30,11 @@ class PowerOfAttorneyRequest < ApplicationRecord
   belongs_to :requested_individual, class_name: 'AccreditedIndividual'
   has_many :power_of_attorney_request_status_changes
 
+  before_create :calculate_has_consent_limitations
+  before_create :set_expiration
+
+  EXPIRATION_TIME = 60.days
+
   aasm column: :status do
     state :pending, initial: true
     state :accepted, :cancelled, :declined, :expired
@@ -80,6 +85,18 @@ class PowerOfAttorneyRequest < ApplicationRecord
     self.zip_code = nil
 
     save
+  end
+
+  def calculate_has_consent_limitations
+    self.has_consent_limitations = if consent_limitation_data.any? { |_k, v| v == true }
+                                     true
+                                   else
+                                     false
+                                   end
+  end
+
+  def set_expiration
+    self.expires_at = Time.zone.now + EXPIRATION_TIME
   end
 end
 ```
@@ -195,3 +212,6 @@ The state machine helper methods should be used when VA.gov users take terminal 
 ### Sample UI
 This is for illustrative purposes and subject to change ([source](https://www.figma.com/design/LVCQBuW7a6nfVFNyhA4kv4/ARF---Design-Explorations?node-id=294-34927&t=u5PCXD0K6lXA4SFQ-0]))
 ![Sample representative facing UI](sample-ui.png)
+
+### Features Supported
+![Features Supported Table](features.png)
