@@ -232,6 +232,8 @@ So, now I'll share the username and password [the same way I shared the url].
 Username: tyler+02@bluetiger.digital
 Password: [Documented in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md).
 
+For the next couple of screens go to the continue button.
+
 ### Troubleshooting: Sign in
 - Ask the accessibility specialist to come off mute and assist.
 - Be patient. Reassure the participant that this can be confusing and we're here to work through it together.
