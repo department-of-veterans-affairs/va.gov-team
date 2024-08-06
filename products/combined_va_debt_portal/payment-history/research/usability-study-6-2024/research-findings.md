@@ -509,7 +509,7 @@ This current study only had one participant who utilizes a screen reader at all 
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/usability-study-6-2024/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/usability-study-6-2024/transcripts)
 
 ## Tools used for Synthesis
 
