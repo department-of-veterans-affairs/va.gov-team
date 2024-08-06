@@ -6,7 +6,12 @@ Goal of the meeting series: addressing policy related or other open questions fo
 …
 ### Notes
 1. Emily - Is there a way to block the production "moderated testing" cases from being sent to Mail Automation?
-3. Jina - show content changes for 0781 (encouraging filling out new PDF while online version is being built out)
+2. Jina - show content changes for 0781 (encouraging filling out new PDF while online version is being built out)
+   david - this looks ok. 
+   lisa - are we going to put anything about how online version isn't up to date? i don't feel like i'm being told why i'm being recommended the PDF
+   shannon - turn off validation on upload 0781 page so we don't require them (emily leans toward not changing that); we want to keep this small lift. PDF is less burden, faster, trauma informed but it's hard to explain succintly (which is why content is more handwaving).. we can see what happens. this is at least an incremental nudge that's imperfect but could be a good tradeoff
+   emily - tweak copy - you don't need to scan copy of your file for all folks (save as PDF instead). also add link to PDF on this page. check file types?
+   
 4. Jared - How might we delete the submitted claims in VBMS? Who can do this? Similar to Emily's question. How will we communicate with potential testers?
 
 ## 7/23/24 Biweekly VBA-DBEX Check-in
