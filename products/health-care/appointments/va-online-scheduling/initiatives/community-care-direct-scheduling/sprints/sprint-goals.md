@@ -64,7 +64,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Tech & Design Debt**
-       - :roller_skate: ❗ 🟦 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)
+       - ❗ 🟦 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)
     - **Sub Goal: [Feature] Get CC Consults**
        - ❗ 🟦 [Determine method to retrieve consults based on convo with VeText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
     - **Sub Goal: [Feature] Get connected with WellHive**
