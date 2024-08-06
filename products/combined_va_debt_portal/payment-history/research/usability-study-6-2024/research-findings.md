@@ -1,4 +1,5 @@
-# [VBA Debt Portal payment history usability & comprehension study] Research Findings
+# VBA Debt Portal Payment History Study Research Findings
+(Usability & Comprehension)
 
 Office of the CTO - Digital Experience (OCTO-DE), Debt Portal, Debt Resolution Team
 
