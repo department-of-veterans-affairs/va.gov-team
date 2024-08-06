@@ -31,14 +31,21 @@
 
 
 #### [Past Appointments Travel Reimbursement Generative Usability Study - November](https://github.com/department-of-veterans-affairs/va.gov-team/tree/93738300a77e4cb6236cb225d6b2b871abf85f8f/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study)
+- Method: Questions around travel reimbursement, claim status exercise, and usability testing for filing a mileage-only travel reimbursement claim for a past appointment
+- Path tested: Email reminder/notification > Appointment list > File a mileage only claim from task card or details page
 
 #### [Unified Check-In Experience Usability Study - April](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2023-04%20Unified%20Check-In%20Experience%20Usability%20Study)
+- Method: Usability testing for unified check-in flow, including mileage-only travel reimbursement screens
+- Path tested: Text message reminder > Appointment list > Complete check-in + travel flow from task card or details page
 
 #### 2022
 
 #### [Travel Reimbursement in eCheck-in Staff Interviews at Wilkes-Barre - December](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Staff%20Interviews%20at%20Wilkes-Barre)
+- Method: On-site staff interviews
 
 #### [Travel Reimbursement in eCheck-in Veteran Intercepts at Wilkes-Barre - December](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2022-12%20Patient%20Check%20In%20Travel%20Reimbursement%20Veteran%20Intercept%20at%20Wilkes-Barre)
+- Method: On-site UAT for mileage-only travel reimbursement pilot release
+- Path tested: Text check-in > Receive check-in link > Complete check-in + travel flow
 
 #### [Patient Check In Research Plan for Travel Reimburesement MVP Remore Usability Test - August](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test)
 #### [BTSSS Path Analysis - April 2022](./2022-04-btsss-path-analysis)
