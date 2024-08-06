@@ -6,7 +6,8 @@ Goal of the meeting series: addressing policy related or other open questions fo
 …
 ### Notes
 1. Emily - Is there a way to block the production "moderated testing" cases from being sent to Mail Automation?
-2. Jina - show content changes for 0781 (encouraging filling out new PDF while online version is being built out)
+3. Jina - show content changes for 0781 (encouraging filling out new PDF while online version is being built out)
+4. Jared - How might we delete the submitted claims in VBMS? Who can do this? Similar to Emily's question. How will we communicate with potential testers?
 
 ## 7/23/24 Biweekly VBA-DBEX Check-in
 ### In attendance
