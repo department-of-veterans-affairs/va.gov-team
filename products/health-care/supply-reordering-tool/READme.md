@@ -1,4 +1,4 @@
-# MHV on va.gov: Medical Supplies Product Outline
+# Medical Supplies Product Outline/Overview
 ---
 
 ## Overview
@@ -35,16 +35,14 @@ This is part of a larger initiative to move all Veteran transactions around mana
 ## Measuring Success-
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+* CSAT Scores
+* Conversion Rate to Ordering online from ordering over email/phone
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+## Related Product Outlines
 
+* Assistive Devices
+* Form Updates
+* CPAP Supplies
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
