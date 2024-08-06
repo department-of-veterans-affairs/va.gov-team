@@ -91,7 +91,9 @@ A stretch goal in creating this remediation plan was to create an additional scr
    (needs to be tested)
    ```
    # First step is to set the form526_submission_id
-   # form526_submission_id =
+   form526_submission_id =
+
+   # Then step through the following:
    processor = Sidekiq::Form526BackupSubmissionProcess::Processor.new(form526_submission_id)
    form526_pdf = processor.get_form526_pdf
    # docs attribute (array) should only have the 526 PDF in it
@@ -106,10 +108,20 @@ A stretch goal in creating this remediation plan was to create an additional scr
      metadata: form526_doc[:metadata].to_json
    )
    processor.submission.update!(backup_submitted_claim_id: processor.initial_upload_uuid)
+
+   # check for the submission in LH benefits intake 
+   config = Form526BackupSubmission::Configuration.instance
+   sub = Form526Submission.find(form526_submission_id)
+   uploads_response = config.connection.get("uploads/#{sub.backup_submitted_claim_id}")
+   uploads_response.body
    ```
+   
    To test this on staging:
    * Grab a failed form526 submission pdf upload, using this [script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/batch_remediation/lighthouse_submission/find_pdf_failures.rb)
    * check that the submission doesn't have a backup_submitted_claim_id set
+   * Note: we're deciding *not* to set the submission's backup_submitted_claim_status because that appears to be something Carbs added in recently
    * then set the form526_submission_id (first line of script)
    * then run the rest of the script
-   * then check the submission to see that the backup_submitted_claim_id is set 
+   * then check the submission to see that the backup_submitted_claim_id is set
+   * and check for the submission in LH benefits intake 
+
