@@ -84,6 +84,7 @@ ________________________________________________________________________________
        - 🟦 [[Eng] Create code to handle not double booking an appt at the same time](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89730)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
        - 🟥 Attend Design Office Hours for date and time picker component error
+       - 🟥 [Move annotations in MVP page to specs page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88026)
 
 
       
@@ -130,8 +131,6 @@ ________________________________________________________________________________
        - :roller_skate: 🟦 [[SPIKE] Determine approach for checking if appts have been scheduled in WellHive, but aren't in VAOS Backend yet](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88491)
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
        - ✔️ 🟦 [Provider list based on referral and patient preferences page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87727)
-    - **Sub Goal: [Feature] Get CC app within vets-website set up**
-       - 🟥 [Move annotations in MVP page to specs page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88026)
 
 </details>
 
