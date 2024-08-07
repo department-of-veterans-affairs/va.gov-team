@@ -75,8 +75,12 @@ Recommended approach:
   - Coordinate with VA Profile on address errors
   - Resume staggered release
 - Document Service (Team 2)
-  - Scope TBD
-
+  - Shared Lighthouse Service for document upload jobs
+  - BDD Instructions submit to EVSS job migrated to Lighthouse
+  - Veteran Uploaded Documents submit to EVSS job migrated to Lighthouse
+  - Form 0781 and Form 0781a submit to EVSS job migrated to Lighthouse
+  - Datadog Dashboard setup
+  - Staggered Release Monitoring (all jobs will be migrated separately and rolled out separately)
 ### Later (September 2024+ )
 - Decommission migrated endpoints
   - Intent to File
