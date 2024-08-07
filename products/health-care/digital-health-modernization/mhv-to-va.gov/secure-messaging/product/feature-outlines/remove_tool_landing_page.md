@@ -13,7 +13,7 @@ We will remove the landing page...
 Users will have a better UX
 
 ### Before/After (link) 
-here 
+e.g. shareable Figma link 
 
 ### Other key links 
-collab cycle ticket
+Related collab cycle ticket
