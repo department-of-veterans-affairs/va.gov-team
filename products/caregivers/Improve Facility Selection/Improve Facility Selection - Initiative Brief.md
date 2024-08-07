@@ -101,12 +101,12 @@
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: Make it easier for Veterans with representatives to fill out the online form
-  - Key result: number of applications that are not misrouted or delayed (obtained from CSP leadership)
+  - Key result: Reduce the number of applications that are misrouted or delayed (obtained from CSP leadership)
  
-|Invalid/Duplicate/Created in error| Baseline (Jan-Feb 2023)| Target | 1 Month after launch|
+|Invalid/Duplicate/Created in error| Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
-|Total Apps (rounded) | 960 | TBD | TBD |
-|Total Online Apps (rounded) | 520 | TBD | TBD |
+|Total Apps (rounded) | 384 | TBD | TBD |
+|Total Online Apps (rounded) | 222 | TBD | TBD |
 
 
 
