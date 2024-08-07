@@ -37,7 +37,7 @@
         - ✔️ 🟨 [[DevOps] Determine additional privileges needed for CHIP Lambda Role](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86522)
         - ✔️ 🟨 [[DevOps] Discovery on/Submit VistA Office Review Board Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90107)
         - ✔️ 🟨 [[DevOps] See about getting a VistA service account for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89978)
-        - 🟨 ~[[DevOps] Determine environmental functional parity for Vista API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86877)~ (Removed to allow exploring `octo-vista-api` as an option.)
+        - 🟨 [[DevOps] Determine efficient solution for creating mock LoROTA data in DynamoDB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87078)
         - 🟨 ~[[DevOps] Add new workflows to octo-vista-api in main branch to facilitate vaec-cie migration.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87079)~ (...)
         - 🟨 ~[[DevOps] Determine which ECR repository images are actively in use.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87089)~ (...)
 - **Medication Wording for Appointments - Pre-Check-in**
