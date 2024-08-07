@@ -188,9 +188,9 @@ A full user experience journey for VA debt resolution must account for service d
 
   
 
->“It’s been a painful experience like any payment with the VA is. Maybe over a year ago now, I got a duplicate payment for my monthly retirement. It came in like a normal payment on the last business day of the month like it normally does. Then, it was the 1st or 2nd when I received a duplicate payment. I tried to get in touch with a human, but it was nearly impossible.<br>I knew eventually that money was going to have to be rightfully returned but working out the process took weeks. Then, it got pulled from my bank account. There wasn’t any notice or anything. So, I just let the money sit in there. There wasn’t any effective communication. [ … ]
-<br>It’s difficult to find a number and when you do, you get sucked into a phone tree.
-<br>[ .. ]I’m hoping what you all have is a website I can just go to with easy web navigation. Same as you would with anything else. I was able to get it resolved but it took maybe 4 or 5 months. I only noticed it when I looked at my bank account. I did eventually get a letter but that was a couple weeks after. Even in the letter, there wasn’t a number to call. It just said there was a duplicate payment. Nothing about pulling the amount out of my account. No communication of the details. My bank account just looked larger than expected. I wasn’t given any options. It was just randomly withdrawn.” -P3
+>“It’s been a painful experience like any payment with the VA is. Maybe over a year ago now, I got a duplicate payment for my monthly retirement. It came in like a normal payment on the last business day of the month like it normally does. Then, it was the 1st or 2nd when I received a duplicate payment. I tried to get in touch with a human, but it was nearly impossible.<br>I knew eventually that money was going to have to be rightfully returned but working out the process took weeks. Then, it got pulled from my bank account. There wasn’t any notice or anything. So, I just let the money sit in there. There wasn’t any effective communication. [ … ]"
+<br>"It’s difficult to find a number and when you do, you get sucked into a phone tree."
+<br>"[ .. ]I’m hoping what you all have is a website I can just go to with easy web navigation. Same as you would with anything else. I was able to get it resolved but it took maybe 4 or 5 months. I only noticed it when I looked at my bank account. I did eventually get a letter but that was a couple weeks after. Even in the letter, there wasn’t a number to call. It just said there was a duplicate payment. Nothing about pulling the amount out of my account. No communication of the details. My bank account just looked larger than expected. I wasn’t given any options. It was just randomly withdrawn.” -P3
 
   
 
@@ -239,7 +239,7 @@ Participants in this study had very clear mental models around “overpayments�
 
   
 
->“I think consistency would be important rather than going back and forth. Debt just automatically has a negative connotation to it that could rub people the wrong way. They’re probably likely to associate it with credit card debt or something like that where you know, again, that's a conscientious act. If you are spending money versus an overpayment where typically you’re the downstream recipient of. –P3
+>“I think consistency would be important rather than going back and forth. Debt just automatically has a negative connotation to it that could rub people the wrong way. They’re probably likely to associate it with credit card debt or something like that where you know, again, that's a conscientious act. If you are spending money versus an overpayment where typically you’re the downstream recipient of." –P3
 
   
 
