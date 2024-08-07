@@ -82,8 +82,8 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 8. Missing touchpoints leads participants to worry that something went
     wrong with their submission.
 
-
-
+    
+    
 ### Finding 1: Veterans’ mental models for claims processing do not map onto the VA electronic submission timeline.
    
 Half of participants presumed that submission was a human-driven process that involved VSRs long before their submission was in the eFolder.
