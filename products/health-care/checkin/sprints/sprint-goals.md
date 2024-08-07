@@ -38,7 +38,7 @@
         - 🟨 [[DevOps] Determine which ECR repository images are actively in use.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87089)
         - 🟨 [[DevOps] Check out CHIP KMS infrastructure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86521)
         - 🟨 [[DevOps] Determine additional privileges needed for CHIP Lambda Role](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86522)
-        - ✔️ 🟨 [[DevOps] Discovery on VistA Office Review Board Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90107)
+        - ✔️ 🟨 [[DevOps] Discovery on/Submit VistA Office Review Board Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90107)
         - ✔️ 🟨 [[DevOps] See about getting a VistA service account for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89978)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get this feature ready for Staging Review**
