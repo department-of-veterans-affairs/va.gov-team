@@ -225,7 +225,7 @@ _Not required. Links on other pages that point to this tool/thing/form._
 
 ## <a name="redirects"></a>Redirects <br>
 
-Redirect ticket:
+[Redirect ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89859)
 
 | Page                                               | Current URL                                                                                                                            | Redirect to                                                                                                           | Archive 'Current URL' in drupal? |
 |----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------| -------------------------------- |
