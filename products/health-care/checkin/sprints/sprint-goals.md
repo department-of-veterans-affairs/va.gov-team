@@ -28,9 +28,6 @@
     - TBD
 </details>
 
-<details>
-<summary>SPRINT 13 - 8/7/2024-8/20/2024 FUTURE TENTATIVE</summary>
-
 ## SPRINT 13 - 8/7/2024-8/20/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79886)
@@ -92,7 +89,6 @@
     - 🟦 [[BE] remove feature flag: check_in_experience_lorota_security_updates_enabled](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90100)
     - 🟦 [Update content on success page to remove content about texting again ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90062)
     - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
-</details>
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
 - **Production Support**
