@@ -99,7 +99,28 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 - On VA.gov/VAHB, introduce [opt groups tag ](https://www.w3schools.com/TAgs/tag_optgroup.asp#:~:text=The%20%3Coptgroup%3E%20tag%20is%20used%20to%20group%20related,options%20are%20easier%20to%20handle%20for%20a%20user)<optground> to create category labels and group related triage groups by healthcare system in the Select list.
 - On VA.gov/VAHB, introduce [combo box component from USWDS](https://designsystem.digital.gov/components/combo-box/) to combine select with typehead to make improved names even quicker to find. Note: this is a new component that needs to be introduced with VADS team to jumpstart that process
 
-#### Go-to-market 
+### User stories
+- As an SM admin user, I need to efficiently create triage groups with the structured data fields that enable a plain language, standardized patient experience.
+    -   Location (also sometimes known as division name) to identify the associated Medical Center or Clinic (CBOC). Sometimes a location will need to operate as a systemwide location (e.g. VA Boston) vs homed at a certain location (e.g. Jamaica Plain Medical Center).
+    -   Group type (i.e. primary care) and when relevant subgroup types that will cascade upon selection of group type. [See proposed group type/subgroup times documented here on VA Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/Triage%20Group%20Naming/2024.07.29%20-%20MVP%20triage%20group%20types%20and%20subgroups.xlsx?d=w9b8985d58e0b482cb370bb8240060d65&csf=1&web=1&e=1DraJN).
+    -   If applicable, the team name (e.g. PACT Team, Blue Team)
+    -   If applicable, the lead provider name (ex. Allen Smith)
+    -   Only Location and Group type will be mandatory; team name & provider name will remain optional
+- As an SM admin user, I need to efficiently edit triage groups with structured data fields.
+  
+- As a patient, when selecting a triage group to message, I want to see plain language identifiers (i.e. location, doctor name, and care type) so that I can quickly and confidently identify the right team to message.
+   - (in need of validation) The information displayed should be: Location, Care Type, Doctor name, Team Name.
+   - There should be no acronyms (aside from VA), specialized terminology, abbreviations, and symbols. Capitalization follows standard style guide for VA content (no all caps).
+   - The list will be presented with the following rules:
+  - 1) triage groups grouped by healthcare system (facility) and in alphabetized order within a system grouping;
+  - 2) groups with a healthcare system with be in alphabetized order;
+  - 3) Exception: any group identified as primary Care should be moved to the top of the list within a health care system (facility) grouping
+ - As a patient, I want to be able to identify groups grouped by healthcare system (facility) so that I can more quickly find what I'm looking for.
+   - The groups will be clustered by the optgroup tag (noted above).
+- As a patient, I want to be able to use typeahead so that I can filter down options presented.
+  - We will be using a combobox to achieve this based on USWDS (noted above). 
+
+### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 - Due to backend data limitations/constraints, we will be starting with a pilot for SM users in VISN 1 at the 3 healthcare systems (Boston, Connecticut, and Providence). Users with care teams in these systems would see the new improved experience on the front end.
 - We will need to conduct outreach with MHV Coordinators (staff) at these facilities to ensure they understand expectations for creating and editing new triage groups using the new standard.
