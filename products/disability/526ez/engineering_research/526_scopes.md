@@ -11,8 +11,8 @@ Why do we need these? These are the foundation of [the 'saftey net' I outline he
 These scopes are where the rubber meets the road for our ["exclusive methodology"]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#note-on-exclusive-methodology)). They define the boundries of every known state a Form526Submission can be in, thereby allowing us to consider everything else "failure type" and in need of attention.
 
 ### Naming Convention
-- do not append `_submissions` to the name. This is implicit
-- `*_type` implies a logical grouping of subscopes. These are the more powerful scopes
+- do not append `_submissions` to the name. This is implicit.
+- `*_type` implies a logical grouping of subscopes. These are the more powerful scopes for building abstractions for stakeholders.
 
 ### Logical Limitations
 These scopes give us 100% coverage of Form526Submissions within the scope of va.gov. They even cover edgecase failures downstream to some extent ([see this doc on 'paranoid success' for more]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/paranoid_success_submissions.md))).  However, if Lighthouse, EVSS, VBMS, or any of the other isolated links in the submission life 'chain' fail silently, and no body tells us, we can't do anything about that. Therefor, we can say these scopes give us **100% coverage of va.gov, but nothing else.** Someday we might have a wholistic state solution that covers the entire lifecycle of a submission, but for now ensuring the integrity of our 'link in the chain' is the best we can do.
