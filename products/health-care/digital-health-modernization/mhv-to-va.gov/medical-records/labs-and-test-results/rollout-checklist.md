@@ -24,7 +24,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Go/No-Go Team 
 
-- [ ] Go-no-go team established 
+- [X] Go-no-go team established 
      
 - [ ] Review established definition of done for MVP 
 
@@ -121,7 +121,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] All pages/components have latest content: _- All content is up-to-date with current designs. As new changes are made to the designs, development is implementing those as well_
 
-- [ ] Unit test coverage is sufficient _- 88.96%	90.84%	89.33%	76.83%_
+- [ ] Unit test coverage is sufficient 
 
 - [ ] Accessibility test coverage is sufficient _- All features requiring accessibility checks have been tested accordingly_
 
@@ -144,13 +144,13 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Alerts exist 
 
-   - PagerDuty - *configured for entire product as well as all MHV*
+   - PagerDuty - 
 
-    - Slack - *standard alerting ready as with other Phase 0 domains*
+    - Slack - 
 
-- [ ] On-call rotation exists - *Same as with other domains, PI15 we will have work to continue to enhance*
+- [ ] On-call rotation exists - 
 
-- [ ] Technical support escalation policy exists - *Standard processes with VA.gov*
+- [ ] Technical support escalation policy exists - 
 
  
 ### Analytics & Metrics  
