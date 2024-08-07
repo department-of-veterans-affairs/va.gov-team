@@ -112,3 +112,8 @@ NOTE: `paranoid_success` and `success_by_age` are two sides of the same coin. It
 ### failure_type
 
 Anything and everything that is not `success_type` or `incomplete_type`. This is our most important scope, the others all serve this one in some way. This is the query that tells us at a glance exactly how many failed submissions are hanging out in our system requiring human intervention to reach a state of completeness.
+
+### with_exhausted_primary_jobs
+TODO
+### with_exhausted_backup_jobs
+TODO
