@@ -42,9 +42,9 @@
         - 🟨 ~[[DevOps] Determine which ECR repository images are actively in use.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87089)~ (...)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get this feature ready for Staging Review**
-    - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
+    - ✔️ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
     - ✔️ 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88602)
-    - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
+    - ✔️ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
 - **New Landing Page with Today's VISTA Appointments**
     - **Sprint Goal is to address the remainder of the issues from Staging Review and close the Epic**
     - 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
@@ -65,7 +65,7 @@
     - **Sprint Goal is to complete the Staging Review, if possible**
     - 🟪 Schedule and Attend Staging Review
         - We need to wait until we hear back about whether we will need to integrate with the new BTSSS API
-    - 🟥 [Update content on success page to remove content about texting again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90062)
+    - ✔️ 🟥 [Update content on success page to remove content about texting again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90062)
     - 🟩 [FE] ticket for Update content on success page to remove content about texting again
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address feedback from the Design Intent, finish the wireframes, and hand off to engineering**
