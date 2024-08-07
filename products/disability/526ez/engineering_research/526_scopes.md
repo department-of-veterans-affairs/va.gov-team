@@ -2,32 +2,32 @@
 
 ## Context
 ### Purpose
-An explanation the different scopes are on the Fomr526Submission model, what they should / shouldn't capture, and why we need them
+An explanation the different scopes are on the Form526Submission model, what they should / shouldn't capture, and why we need them
 
 ### History
 
-Why do we need these? These are the foundation of [the 'saftey net' I outline here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md), which is informed by learning from our [2023 / 2024 Form526Submission remediation "Code Yellow."]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/526_failure_batching_and_triage_handoff.md)). They will be used to power Datadog dashboards and / or monitors that will keep us and all future VA.gov teams accountable to the state of our Form526Submission.
+Why do we need these? These are the foundation of [the 'safety net' I outline here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md), which is informed by learning from our [2023 / 2024 Form526Submission remediation "Code Yellow."]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/526_failure_batching_and_triage_handoff.md)). They will be used to power Datadog dashboards and / or monitors that will keep us and all future VA.gov teams accountable to the state of our Form526Submission.
 
-These scopes are where the rubber meets the road for our ["exclusive methodology"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#note-on-exclusive-methodology). They define the boundries of every known state a Form526Submission can be in, thereby allowing us to consider everything else "failure type" and in need of attention.
+These scopes are where the rubber meets the road for our ["exclusive methodology"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#note-on-exclusive-methodology). They define the boundaries of every known state a Form526Submission can be in, thereby allowing us to consider everything else "failure type" and in need of attention.
 
 ### Naming Convention
 - do not append `_submissions` to the name. This is implicit.
-- `*_type` implies a logical grouping of subscopes. These are the more powerful scopes for building abstractions for stakeholders.
+- `*_type` implies a logical grouping of sub-scopes. These are the more powerful scopes for building abstractions for stakeholders.
 
 ### Logical Limitations
-These scopes give us 100% coverage of Form526Submissions within the scope of va.gov. They even cover edgecase failures downstream to some extent ([see this doc on 'paranoid success' for more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/paranoid_success_submissions.md)).  However, if Lighthouse, EVSS, VBMS, or any of the other isolated links in the submission life 'chain' fail silently, and no body tells us, we can't do anything about that. Therefor, we can say these scopes give us **100% coverage of va.gov, but nothing else.** Someday we might have a wholistic state solution that covers the entire lifecycle of a submission, but for now ensuring the integrity of our 'link in the chain' is the best we can do.
+These scopes give us 100% coverage of Form526Submissions within the scope of va.gov. They even cover edge case failures downstream to some extent ([see this doc on 'paranoid success' for more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/paranoid_success_submissions.md)).  However, if Lighthouse, EVSS, VBMS, or any of the other isolated links in the submission life 'chain' fail silently, and no body tells us, we can't do anything about that. Therefor, we can say these scopes give us **100% coverage of va.gov, but nothing else.** Someday we might have a wholistic state solution that covers the entire lifecycle of a submission, but for now ensuring the integrity of our 'link in the chain' is the best we can do.
 
 ### Technical Limitations
-It's not uncommon for these scopes to timeout when run from a command line. There are 'memory-light' versions scripted under each scope header below that can be used to acheive the same results without crashing your Postgres connection.
+It's not uncommon for these scopes to timeout when run from a command line. There are 'memory-light' versions scripted under each scope header below that can be used to achieve the same results without crashing your Postgresql connection.
 
 ### MAX_PENDING_TIME
-this is a duration that we use to deliniate between "this is too new to call it a failure" and "this is old enough that we can consider it a failure, unless it meets one of our success type criteria."  This is not an arbitray number. At the time of writting, it is set at 3 weeks. We picked that number to allow for the cumulative duration of
-- BenefitS Intake APIs 'max time' until status assignment, [as outlined in their docs](https://developer.va.gov/explore/api/benefits-intake/docs?version=current) (2 weeks).
+this is a duration that we use to delineate between "this is too new to call it a failure" and "this is old enough that we can consider it a failure, unless it meets one of our success type criteria."  This is not an arbitrary number. At the time of writing, it is set at 3 weeks. We picked that number to allow for the cumulative duration of
+- Benefits Intake APIs 'max time' until status assignment, [as outlined in their docs](https://developer.va.gov/explore/api/benefits-intake/docs?version=current) (2 weeks).
 - The ~48 hours it can take for a round of primary path retries to run
 - The ~48 hours it can take for a round of backup path retries to run
 - unexpected latency and sanity of about 3 days
 
-NOTE: There are many submissions that fail *faster* than this, however trying to capture them based on the statuses of their associated processing jobs becomes brittle quickly, and so we are prefering a more robust implementation wherin we use this for anything uncertain.
+NOTE: There are many submissions that fail *faster* than this, however trying to capture them based on the statuses of their associated processing jobs becomes brittle quickly, and so we are preferring a more robust implementation wherein we use this for anything uncertain.
 
 NOTE: If a submission is explicitly rejected from the backup path, then we can go ahead and consider it failed. This is the only exception to the pending time rule.
 
@@ -90,9 +90,9 @@ All of the following must be true
 - has a value of `paranoid_success` for attribute `backup_submitted_claim_status`
 - is more than 1.year old
 
-NOTE: 1 year is a semi-arbitrary date agreed upon with OCTO. After that we are ok with saying "we've done our best, and we want to stop watching it". This could easily be increased to several years, as the query / job that checks this is very light, fast, and infrequent.
+NOTE: 1 year is a semi-arbitrary date agreed upon with OCTO. After that we are OK with saying "we've done our best, and we want to stop watching it". This could easily be increased to several years, as the query / job that checks this is very light, fast, and infrequent.
 
-NOTE: `paranoid_success` and `success_by_age` are two sides of the same coin. It is a strict bianary, a submission that is `paranoid_success` becomes `success_by_age` after 1 year
+NOTE: `paranoid_success` and `success_by_age` are two sides of the same coin. It is a strict binary, a submission that is `paranoid_success` becomes `success_by_age` after 1 year
 
 ### success_type
 **Any** of the following top-level bullets being true makes a submission `success_type`. 
@@ -112,5 +112,3 @@ NOTE: `paranoid_success` and `success_by_age` are two sides of the same coin. It
 ### failure_type
 
 Anything and everything that is not `success_type` or `incomplete_type`. This is our most important scope, the others all serve this one in some way. This is the query that tells us at a glance exactly how many failed submissions are hanging out in our system requiring human intervention to reach a state of completeness.
-
-
