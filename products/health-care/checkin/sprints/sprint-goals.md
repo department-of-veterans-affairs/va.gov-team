@@ -38,7 +38,7 @@
         - ✔️ 🟨 [[DevOps] Discovery on/Submit VistA Office Review Board Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90107)
         - ✔️ 🟨 [[DevOps] See about getting a VistA service account for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89978)
         - 🟨 [[DevOps] Determine efficient solution for creating mock LoROTA data in DynamoDB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87078)
-        - 🟨 ~[[DevOps] Add new workflows to octo-vista-api in main branch to facilitate vaec-cie migration.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87079)~ (...)
+        - 🟨 [[DevOps] Triage external dependents of CIE-owned resources in vaec-cms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77657)
         - 🟨 ~[[DevOps] Determine which ECR repository images are actively in use.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87089)~ (...)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get this feature ready for Staging Review**
