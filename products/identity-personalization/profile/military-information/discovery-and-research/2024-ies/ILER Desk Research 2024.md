@@ -47,10 +47,10 @@ Where does your product fit into the Veteran journey? Are there moments that mat
 In 2021, Congress mandated that veterans be able to view their ILER record. In 2022, as part of the PACT Act, Congress mandated that veterans be able to update this record. This desk research (and initiative) is concerned with the former.
 
 As a result, the goal for OCTO is to design, develop, and deliver a way for Veterans to view and/or download their personal record of exposures during their service in a user-centered way. To meet this goal most effectively, the work here should focus on maximizing:
-- finability
+- findability
 - relevance to the Veteran
 - familiar context and language
-- clarity on what the user should do
+- clarity on what the user should do to access/download
 - clarity on what the user will access/download
 - clarity on what the user can do with the access/downloaded file
 
