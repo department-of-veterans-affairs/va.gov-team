@@ -7,7 +7,9 @@ Date created: August 2024
 We want to do this because xyz. here is the rationale.
 
 ### What we're building or changing
-We will remove the landing page...
+- We will remove the landing page...
+- We will do x
+- Note TBD/WIP if being explored
 
 ### Expected outcome
 Users will have a better UX
