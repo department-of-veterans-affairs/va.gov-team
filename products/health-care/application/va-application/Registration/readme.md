@@ -5,6 +5,7 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
 
 **Related/Associated Product(s) and Resources
 - [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
+- [Registration Only - Experiment Proposal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Registration/Reg%20Only%20experiment%20proposal.md)
 - [Epic - Registration Path #43221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
 - [Mural - Discovery board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684348883203/49fc4ff1bf31f3cabe200663708c1002645b447f?sender=u5ad49c107baa41137f271007)
 - [Figma Designs](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=86-36817&mode=design&t=CC8P8lyEeGsdJei8-0)
