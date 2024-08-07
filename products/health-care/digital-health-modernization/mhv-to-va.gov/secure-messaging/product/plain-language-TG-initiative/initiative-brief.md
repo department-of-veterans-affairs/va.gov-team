@@ -100,18 +100,19 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 - On VA.gov/VAHB, introduce [combo box component from USWDS](https://designsystem.digital.gov/components/combo-box/) to combine select with typehead to make improved names even quicker to find. Note: this is a new component that needs to be introduced with VADS team to jumpstart that process
 
 ### User stories
-- As an SM admin user, I need to efficiently create triage groups with the structured data fields that enable a plain language, standardized patient experience.
-    -   Location (also sometimes known as division name) to identify the associated Medical Center or Clinic (CBOC). Sometimes a location will need to operate as a systemwide location (e.g. VA Boston) vs homed at a certain location (e.g. Jamaica Plain Medical Center).
+- As an SM admin user, I need to efficiently *create* triage groups with the structured data fields that enable a plain language, standardized patient experience. The following will be new fields:
+    -   Location (also sometimes known as division name). This will associate a Medical Center or Clinic (CBOC). Exception: sometimes a location will need to operate as a systemwide location (e.g. VA Boston) vs. at a certain location (e.g. Jamaica Plain Medical Center).
     -   Group type (i.e. primary care) and when relevant subgroup types that will cascade upon selection of group type. [See proposed group type/subgroup times documented here on VA Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/Triage%20Group%20Naming/2024.07.29%20-%20MVP%20triage%20group%20types%20and%20subgroups.xlsx?d=w9b8985d58e0b482cb370bb8240060d65&csf=1&web=1&e=1DraJN).
-    -   If applicable, the team name (e.g. PACT Team, Blue Team)
-    -   If applicable, the lead provider name (ex. Allen Smith)
-    -   Only Location and Group type will be mandatory; team name & provider name will remain optional
-- As an SM admin user, I need to efficiently edit triage groups with structured data fields.
+    -   If applicable, the team name (e.g. PACT Team, Blue Team). Free text.
+    -   If applicable, the lead provider name (ex. Allen Smith). Enumerated options from MHV data source.
+    -   Note: only Location and Group type will be mandatory; team name & provider name will remain optional
+- As an SM admin user, I need to efficiently *edit* triage groups with structured data fields, aligned to the new fields added above.
   
 - As a patient, when selecting a triage group to message, I want to see plain language identifiers (i.e. location, doctor name, and care type) so that I can quickly and confidently identify the right team to message.
-   - (in need of validation) The information displayed should be: Location, Care Type, Doctor name, Team Name.
-   - There should be no acronyms (aside from VA), specialized terminology, abbreviations, and symbols. Capitalization follows standard style guide for VA content (no all caps).
-   - The list will be presented with the following rules:
+   - (in need of validation) The *order* of the information displayed should be: Location, Care Type, Doctor name, Team Name.
+   - There should be no acronyms (aside from VA), specialized terminology, abbreviations, and symbols.
+   - Capitalization follows standard style guide for VA content (no all caps) and should be sentence case.
+   - The Select list with the new triage group names will be presented with the following rules:
   - 1) triage groups grouped by healthcare system (facility) and in alphabetized order within a system grouping;
   - 2) groups with a healthcare system with be in alphabetized order;
   - 3) Exception: any group identified as primary Care should be moved to the top of the list within a health care system (facility) grouping
