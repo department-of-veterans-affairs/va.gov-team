@@ -22,10 +22,13 @@
    #### 2024
 
 #### [Travel Claim Status Language Generative Study - July](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study)
+- User interviews and moderated card sort to better understand how participants think about the language of Claim statuses associated with Travel claims (In progress) 
 
 #### [Reimbursement status look and feel study - May](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-04-Reimbursement-Status-Look-and-Feel-Study)
-#### [Claim status visability IA study - February](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
+- Moderated usability study with 9 participants testing the look and fool of the prototype of the Travel Reimbursement Status page.  Main path tested was Status page entry off of the MHV on VA.gov page.
 
+#### [Claim status visability IA study - February](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
+- Tree test with 66 participants using authenticated VA.gov IA to determine where the Travel Reimbursement Status page could live on VA.gov  
 
 #### 2023
 
@@ -48,8 +51,10 @@
 - Path tested: Text check-in > Receive check-in link > Complete check-in + travel flow
 
 #### [Patient Check In Research Plan for Travel Reimburesement MVP Remore Usability Test - August](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test)
-#### [BTSSS Path Analysis - April 2022](./2022-04-btsss-path-analysis)
+- Moderated usability testing of the early mobile Patient Check-in process 
 
+#### [BTSSS Path Analysis - April 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2022-04-btsss-path-analysis)
+- 
 
 #### 2021
 
