@@ -57,6 +57,32 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 3.  **Evidence failure scenario included:** Confirmation page, confirmation email, evidence failure email requiring mail resubmission of a failed file.
 
 ## Key Findings
+1. Veterans’ mental models for claims processing do not map onto the VA
+    timeline for electronic submission.
+
+2. Participants who conflated the submission and tracking timelines had
+    mixed expectations for next steps.
+    
+3. Participants would likely download a full PDF of their claim at a
+    later date, but stated they had all the claim information they
+    needed on the confirmation page.
+    
+4. The “submission received” email clearly communicated the final
+    submission status.
+    
+5. Most participants didn't feel a need to check the status of their
+    submission online once it was received.
+    
+6. The happy and backup path scenarios were easy to understand–and left
+    participants feeling confident that their submission was complete.
+    
+7. Participants consider digital resubmission to be the safest and
+    cheapest way to send their documents.
+    
+8. Missing touchpoints leads participants to worry that something went
+    wrong with their submission.
+
+
 
 ### Finding 1: Veterans’ mental models for claims processing do not map onto the VA electronic submission timeline.
    
@@ -75,6 +101,7 @@ In addition, participants expect electronic submission to happen instantaneously
 
     
 
+
 ### Finding 2: Participants who conflated the submission and tracking timelines had mixed expectations for next steps.
     
 The confirmation page and email outlined two separate timelines: Submission (3 days) and Online Tracking (7-10 days). A majority of confusion originated from the email, since only 3 participants opened the “How Can I Check the Status” accordion on the confirmation page.
@@ -88,6 +115,9 @@ The confirmation page and email outlined two separate timelines: Submission (3 d
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYhAG8sKI4o-MSC0iUW4Ecle9CEQoP-6r12aX6jdnsYG_Zj4FPeaCFovd0BHvBZSQzH2sMENe4LTrGcxYScRi1KNE_0P0dDmP2oF54XT2khrm4-tg23UaFmK3uRZAzNgbpK99uNR2lV2oIWIPO_PMT5Q?key=_XP6icDIUWBzVd77WL-e9A)
 
 Visual of the two timelines included on the confirmation email.
+
+
+
 
 ### Finding 3: Participants would likely download a full PDF of their claim for their records if it were available at a later date.
     
@@ -108,6 +138,10 @@ All participants said they would digitally save or print a copy of their confirm
 
 Visual of the blue box on the confirmation page that participants appreciated as their claim record.
 
+
+
+
+
  ### Finding 4: The final “received” email clearly communicated the final submission status and clarified next steps.
     
 Even if participants presumed a human-controlled process or conflated timelines, they accurately understand that the “submission received” email indicated that VA has their claim and it is ready for initial review.
@@ -123,13 +157,17 @@ As one example, P11’s expectation for submission came from her job in the fede
 > [Received email] “They've received my claim… That [intake team] has to hand it off in an imaginary world to an initial reviewing team
 > to check that everything they need to get this to a claims person -
 > the name, the social, everything on the form was accurate.”
+>
+
 
  ### Finding 5: Most participants didn't feel a need to check the status of their submission online once it was received.
  5 out of 8 participants wouldn't expect an update given the 7-10 day timeline for online tracking; others felt like they already had the most up-to-date status in their email. However, 2 participants shared that they would check every day to see if their claim was available online (P2 and P10).
     
 > “I could check it and it'll just tell me that it's been received, so I would not even check right then, I would give it some time, you know. I would actually probably wait at least a business week…It tells me at the bottom I would wait 7 -10 business days for my claim to appear online.” -P4
-> 
+
 > “I would try now and then again every day since then because I have a link to it. ” -P2
+>
+> 
 
 ### Finding 6:  The happy and backup path scenarios were easy to understand–and left participants feeling confident that their submission was complete.
     
@@ -145,6 +183,7 @@ At the end of each scenario, we asked participants two questions about the overa
 >  *Confidence:* “5, very confident. As soon as I submitted, I got an email saying it was submitted. Then another email saying it was
 > received. It's very proactive on the VA's part.” -P1
 
+
 ### Finding 7: Participants consider digital resubmission to be the safest and cheapest way to send their documents. They are frustrated that snail mail is their only option.
     
 Participants point to the insecurity of mail for PII like social security numbers and noted the financial cost of tracking it.
@@ -154,6 +193,7 @@ Participants point to the insecurity of mail for PII like social security number
       > “Not sure why we don't give an option to just do online again, which is the safest and quickest way to transmit something. Kicking us to USPS mail or whatever form of getting the mail to you now turns into a whole different process for a Veteran, cost associated with it.” -P11  
       
  Sometimes, a VA documentation request is a pain point that never gets resolved. P8 shared that she never resubmitted documentation for her claim, while P1 spoke to the frustration a fellow Veteran experienced trying to send material VA already was supposed to have.  
+
   
 
 ### Finding 8: Missing touchpoints lead participants to worry that something went wrong – and call the Contact Center.
