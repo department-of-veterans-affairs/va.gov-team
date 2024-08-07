@@ -81,6 +81,8 @@
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76038)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
 - **Tech Debt**
+    - 🟥 [[FE] Check body styles on appt detail page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90154)
+        - Pulled in after planning
     - 🟥 [[Design] Update medication review info and/or manage appointment links ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90043)
     - 🟦 [[BE] Investigate sentry errors being thrown by check-in controllers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89085)
     - 🟦 [[BE] Investigate issues with travel claims submission through check-in vets-api code in Staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89350)
