@@ -88,7 +88,7 @@ A stretch goal in creating this remediation plan was to create an additional scr
    ```
 6. Alternative: Upload PDF via Benefits Intake API
 
-   (needs to be tested)
+   (successfully tested on Staging on August 6, 2024)
    ```
    # First step is to set the form526_submission_id
    form526_submission_id =
