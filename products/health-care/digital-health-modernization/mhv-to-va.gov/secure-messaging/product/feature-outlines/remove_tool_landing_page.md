@@ -1,8 +1,7 @@
+Note: This section outlines a smaller feature that extends or enhances the overall product, building on what is described in our core [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product).
+
 ## Feature outline: Remove SM tool landing page
 Date created: August 2024
-
-
-
 
 ### Problem/Opportunity/Rationale
 We want to do this because xyz
