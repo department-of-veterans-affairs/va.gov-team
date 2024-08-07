@@ -289,11 +289,11 @@ The overview page tested very well, and there were a few important mentions of p
 
 **Active/Completed debt**
 
-Participants thought active debts and completed debts should be separated and that completed (paid) debt should be at the bottom of the page. Most participants would like it there for reference and proof/supporting evidence of having made the payment. Only one participant felt that it should not be there at all. One other participant stated that completed (paid) debt should only be shown for 30 days.
+Participants thought active debts and completed debts should be separated and that completed (paid) debt should be at the bottom of the page. Most participants would like it there for reference and proof/supporting evidence of having made the payment. Only one participant felt that it should not be there at all. One other participant stated that completed (paid) debt should only be shown for 30 days. 
 
 **Debt status**
 
-Participants noticed the text near the symbols on the cards when prompted but it did not always stand out. Most did notice that the benefits offset and Treasury paths did not have the ‘Resolve this debt’ link, and could hence piece together that those debts may not be actionable in the same way as the first. Two participants wanted a direct link to be able to contact the Department of Treasury. (The contact information for the Department of Treasury is available on the Debt Details page but was not available on this prototype.)
+Participants noticed the text near the symbols on the cards when prompted but it did not always stand out. Most did notice that the benefits offset and Treasury paths did not have the ‘Resolve this debt’ link, and could hence piece together that those debts may not be actionable in the same way as the first. On participant stated the warning icon's color blended into the background. Two participants wanted a direct link to be able to contact the Department of Treasury. (The contact information for the Department of Treasury is available on the Debt Details page but was not available on this prototype.)
 
   
 
