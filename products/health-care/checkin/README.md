@@ -104,6 +104,7 @@
 - [Facility Directory](https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=all&oid=all)
 - [VAMC EHR Facility json](https://www.va.gov/data/cms/vamc-ehr.json)
 - [Testing Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
+- [Instructions for Accessing Patient Check-in in the Staging Environment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/staging-instructions.md)
 - [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
 - [TestRail Test Plans & Cases](https://dsvavsp.testrail.io/index.php?/projects/overview/62)
 
