@@ -3,10 +3,10 @@
 ## Feature outline: Remove SM tool landing page
 Date created: August 2024
 
-### Problem/Opportunity/Rationale
-We want to do this because xyz
+### Problem or opportunity statement
+We want to do this because xyz. here is the rationale.
 
-### What we're building
+### What we're building or changing
 We will remove the landing page...
 
 ### Expected outcome
