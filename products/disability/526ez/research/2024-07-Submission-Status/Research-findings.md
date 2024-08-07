@@ -124,6 +124,52 @@ As one example, P11’s expectation for submission came from her job in the fede
 > to check that everything they need to get this to a claims person -
 > the name, the social, everything on the form was accurate.”
 
+ ### Finding 5: Most participants didn't feel a need to check the status of their submission online once it was received.
+ 5 out of 8 participants wouldn't expect an update given the 7-10 day timeline for online tracking; others felt like they already had the most up-to-date status in their email. However, 2 participants shared that they would check every day to see if their claim was available online (P2 and P10).
+    
+> “I could check it and it'll just tell me that it's been received, so I would not even check right then, I would give it some time, you know. I would actually probably wait at least a business week…It tells me at the bottom I would wait 7 -10 business days for my claim to appear online.” -P4
+> 
+> “I would try now and then again every day since then because I have a link to it. ” -P2
+
+### Finding 6:  The happy and backup path scenarios were easy to understand–and left participants feeling confident that their submission was complete.
+    
+At the end of each scenario, we asked participants two questions about the overall experience.
+
+ - On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?
+
+- On a scale of 1 to 5, how confident are you that your claim is fully submitted and ready for initial review? 
+
+> *Ease of understanding:* “4 just because of the different numbers of
+> days bouncing around. Otherwise I think it was pretty easy.” -P1
+> 
+>  *Confidence:* “5, very confident. As soon as I submitted, I got an email saying it was submitted. Then another email saying it was
+> received. It's very proactive on the VA's part.” -P1
+
+### Finding 7: Participants consider digital resubmission to be the safest and cheapest way to send their documents. They are frustrated that snail mail is their only option.
+    
+Participants point to the insecurity of mail for PII like social security numbers and noted the financial cost of tracking it.
+ 
+> “I’m gonna have a frustrated reaction to it… I'm wondering why I can't resubmit electronically because you're telling me I have to mail it, which confounds me because the whole reason why we have the electronic submission is to avoid mailing it because PPI in the mail is a risk mail takes a long time, it's more costly, yada, yada, yada. -P5  
+> 
+      > “Not sure why we don't give an option to just do online again, which is the safest and quickest way to transmit something. Kicking us to USPS mail or whatever form of getting the mail to you now turns into a whole different process for a Veteran, cost associated with it.” -P11  
+      
+ Sometimes, a VA documentation request is a pain point that never gets resolved. P8 shared that she never resubmitted documentation for her claim, while P1 spoke to the frustration a fellow Veteran experienced trying to send material VA already was supposed to have.  
+  
+
+### Finding 8: Missing touchpoints lead participants to worry that something went wrong – and call the Contact Center.
+    
+All participants expected VA to send them a notification when their mailed evidence was received– which does not exist. 7 out of 8 participants would call the Contact Center 1-3 weeks after mailing the evidence.
+    
+
+> “I would hope they would contact me and say, Hey, we received your letter, there's nothing else you need to do now on your part…It doesn't give me a whole lot of confidence that if you can't receive a PDF via an email, how are you gonna receive a letter? -P3
+
+>“Because being submitted electronically, I would think that it was received and if I didn't hear anything, didn't receive an email, I would assume that it was lost. ” -P10
+
+On the backup path, the delayed email concerned 4 out of 6 participants. When claim ID was absent, participants comfortably defaulted to using a SSN and VA file number.
+
+> “IT glitch? I think maybe something was missing and I just haven't heard from them yet. But definitely if it's been 7 days and it says up to 3, then I think something has went wrong.” -P11
+> 
+>“I would somewhat think: " "why is it still saying it takes 3 days? I did it a week ago."" It's very slow. and it seems weird. Is there a delay in the system somewhere.” -P1
     
 
 
