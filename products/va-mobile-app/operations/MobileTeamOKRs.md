@@ -5,7 +5,7 @@
 |-------- | ----------- | ----------- | 
 |Zero app store rejections | 0 | 0 |
 |Zero failed CI processes related to a release | 0 | 0 |
-|Reduce bugs by 25% | 18% decrease (72 to 59) | 3% *increase* (59 to 61) |
+|Reduce bugs by 25% | 18% decrease (72 to 59) | 8% *increase* (59 to 64) |
 |Zero failed RC testing due to a bug | 0 | 0 |
 |Zero severity-1 accessibility issues | 0 | 0 |
 
