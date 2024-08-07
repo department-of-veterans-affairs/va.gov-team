@@ -35,6 +35,24 @@ The primary stakeholder on this initiative is the Veterans Experience Office (VE
 ### Joint Longitudinal Viewer
 "separate web application from ILER that provides DOD and VA staff (e.g., clinicians, claims benefits staff) a read-only display of a service member’s or veteran’s health data summarized from multiple integrated sources. Staff can also access ILER summary information through this application." (GAO PDF, p 3)
 
+## Veteran Journey
+
+Where does your product fit into the Veteran journey? Are there moments that matter? Key moments this research touches in the Veteran journey are:
+
+- Engaging VA to access benefits and services
+- Taking care of my health
+- **MORE?**
+
+## OCTO Objectives
+
+In 2021, Congress mandated that veterans be able to view their ILER record. In 2022, as part of the PACT Act, Congress mandated that veterans be able to update this record.
+
+The immediate goal for OCTO is to design, develop, and deliver a way for Veterans to view and/or download their personal record in a user-centered way. 
+
+Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.
+Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
+Section 803(b)(1) provides that to update a record under subsection (a), a Veteran shall provide such evidence as VA considers necessary. Section 803(b)(2) requires VA to promulgate a regulation defining the “evidence considered necessary.”
+
 
 # Sources
 
