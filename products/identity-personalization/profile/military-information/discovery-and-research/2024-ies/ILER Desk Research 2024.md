@@ -27,7 +27,11 @@ This is a working umbrella term. It encompasses ILER (**MAYBE IES TOO?**) and ac
 ### Primary stakeholder
 The primary stakeholder on this initiative is the Veterans Experience Office (VEO).
 
+### PACT Act 
+"The PACT Act expanded VA’s list of conditions for which veterans may be awarded disability benefits if there is documentation of deployment to an area where toxic exposure events occurred. (GAO PDF, p 2)
 
+### Joint Longitudinal Viewer
+"separate web application from ILER that provides DOD and VA staff (e.g., clinicians, claims benefits staff) a read-only display of a service member’s or veteran’s health data summarized from multiple integrated sources. Staff can also access ILER summary information through this application." (GAO PDF, p 3)
 
 
 # Sources
