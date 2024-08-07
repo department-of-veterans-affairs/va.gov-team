@@ -54,11 +54,12 @@
 - Moderated usability testing of the early mobile Patient Check-in process 
 
 #### [BTSSS Path Analysis - April 2022](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2022-04-btsss-path-analysis)
-- 
+- Early formative research done by 18F on the then current Travel reimbursement process and pain points
 
 #### 2021
 
 #### [Check-in Remote Discovery - April](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/research-findings.md)
+- Moderated discovery testing for Patient Check-in for a medical appointment 
 
 ## Design Artifacts and Other Resources
 
