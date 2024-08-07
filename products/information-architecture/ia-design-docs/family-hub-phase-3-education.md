@@ -180,16 +180,15 @@ The education/careers left nav will have the following structure. These are not 
          - Past rates: 21-22
          - Past rates: 20-21 
     - Apply DEA/FRY form 22-5490
-    - Edith Nourse Rogers STEM Scholarship (links to veteran hub)
     - Transferred post-9/11 GI bill education benefits
       - Apply form 22-1990e
       - Transferred benefit rates
          - Future rates
          - Past rates: 22-23
     - VR&E Ch 31
-    - Educational and career counseling ch 36 (links to veteran hub)
   
-![Screenshot 2024-08-01 at 11 27 23 AM](https://github.com/user-attachments/assets/5f1b7e22-253a-4ae4-962e-9e76346e3ca7)
+![Screenshot 2024-08-07 at 2 39 55 PM](https://github.com/user-attachments/assets/0d3ea087-f6a5-423d-b8cd-a1183d00efd4)
+
 
 
 
