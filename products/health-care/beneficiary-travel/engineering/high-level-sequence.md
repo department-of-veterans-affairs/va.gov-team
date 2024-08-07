@@ -247,3 +247,48 @@ appointments makes call to get claim status/appointment ids
 - creates expense payload \___ also feels bad. maybe a flag on the add expense to also submit the claim, but performance is bad..... 
 - submits the claims /
 - shows success/error message, with links 
+
+### Past Appointment flow 
+
+Things to note
+
+- Veteran should be able to view claims for an appointment if it exists
+- maybe More features are here than are needed MVP (like the claim detail page)
+- Can we add a filter to the claims status to only get a smaller amount of claims
+- Loading claims status can/should be a parallel call and we can paint the UI as data comes in
+- Appointments team has a UI (or very nearly has one) for actions for a past appointment that we can plug into (AVS is also using this) 
+- urls are just place holders
+- Passing data from appt to app via redux was tricky (impossible and had to use local storage) last time I tried it 
+
+``` mermaid
+sequenceDiagram
+    actor vet as Veteran
+    participant appts as Appointments: VA.gov
+    participant redux as Redux Store
+    participant vapi as vets-api
+    participant tpapi as Travel Pay API
+    participant submit as Claim Submission Tool
+    participant claim_page as Claim Details Page
+
+    vet -> appts: lands on 
+    appts -> vapi: load appointments from OH/VistA
+    appts -> vapi: request BTSSS claim status
+    vapi -> tpapi: GET /claim_status (could add a filter?)
+    vapi -> appts: returns list of claims
+    appts -> redux: stores appointment information
+    appts -> vet: shows appoitments with claim status/number if availible
+    alt selects an eligble appointent without a claim
+        vet -> appts: selects appt without claim to create a new claim
+        vet -> redux: stores what is selected in the state/FE
+        vet -> submit: sends to va.gov/travel/submit/${appointment-id}
+
+    else selects an eligble appointmetn with an unsubmitted claim
+        vet -> appts: selects appt with an unsumbitted claim to resume
+        vet -> redux: stores what is selected in the state/FE
+        vet -> submit: sends to va.gov/travel/submit/${appointment-id}/claim/{claim-id}
+    
+    else selects to view more claim detail
+        vet -> appts: selects and appointment with a submitted claim to see more detail
+        vet -> claim_page: sends to va.gov/travel/claim/{claim-id}
+    end
+```
