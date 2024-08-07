@@ -16,6 +16,8 @@ This is an important part of all service members’ medical history. The ILER sy
 
 Basically, the goals of the ILER system are to track and monitor exposures, how they lead to health issues, and improve treatment for Veteran health.
 
+"DOD and VA released an initial version of ILER (version 1.0) for staff use in October 2019. DOD and VA have subsequently released updated versions with expanded functionalities and data sources accessible through ILER.13 For example, version 1.1 expanded the number of data sources feeding into ILER, and version 1.2 added further data sources and allowed for read-only access to individuals’ ILER exposure summaries through the Joint Longitudinal Viewer. With Version 2.3, released in July 2023, ILER included all functionalities that the agencies had initially planned, which included tools for research, according to DOD and VA officials. Following this release, DOD and VA officials said they planned to continue to make enhancements to ILER and address new legislative requirements in future versions of the web application. As of January 2024, staff were using version 2.4 (released in October 2023), which added some of DOD’s blast overpressure data. Version 2.5 will be available to staff in April 2024, according to DOD officials." (GAO PDF)
+
 ILER is jointly managed by the DoD and the VA. The DoD manages the data on ILER. 
 
 ### Incident Exposure Summary (IES)
