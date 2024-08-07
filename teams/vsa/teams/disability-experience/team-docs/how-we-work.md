@@ -34,7 +34,7 @@
 
 ### Open questions:
 * does OCTO have a quarterly planning?
-  * if so, theirs should be ahead of ours
+  * Yes, there's a Quarterly Business Review (QBR) that we can leverage. Might there be touchpoints before and after this?
 
 
 
