@@ -39,14 +39,13 @@
 
 <!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Users are able to request with the most up-to-date form online
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+- Users are unable to submit their form online
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+## Desired Business Outcomes
+- It's part of OCTOs priorities to keep forms up-to-date, within one year of OMB form updates.
 
 ## Undesired Business Outcomes
 -->
@@ -59,6 +58,8 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Maintained and/or decrease form error rates | Baseline | 0 | [Link](https://vagov.ddog-gov.com/dashboard/kiy-k3e-5ta/benefits---higher-level-reviews?fromUser=true&fullscreen_end_ts=1723039010131&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1720360610131&fullscreen_widget=6057318125087330&refresh_mode=sliding&view=spans&from_ts=1720359812406&to_ts=1723038212406&live=true) 
+- Decrease failed claims | Baseline | 0 | [Link](https://vagov.ddog-gov.com/dashboard/kiy-k3e-5ta/benefits---higher-level-reviews?fromUser=true&fullscreen_end_ts=1723038990462&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1722434190462&fullscreen_widget=7389534908363640&refresh_mode=sliding&view=spans&from_ts=1722434181808&to_ts=1723038981808&live=true)
 
 ---
 
@@ -68,25 +69,25 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - No risk. It's an already existing product.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Low to no risk. Form has already been in use. We separated a single question into two screens to simplify the content, so it should be easier.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - No risk, data being passed is the same as before. Lighthouse will update it so the generated PDF is using the latest PDF.
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - It will match OMB paper form.
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
+We are updating the content for the HLR form to match the latest OMB updates. There's been an update to language to better represent contact methods, as well as, call time availabilities.
+The scope of this update is still only to be available for disability compensation claims. It does not include the ability to submit a written statement.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+None
 
 --- 
 
