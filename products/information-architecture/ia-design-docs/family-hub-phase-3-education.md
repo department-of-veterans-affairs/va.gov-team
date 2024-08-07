@@ -138,7 +138,7 @@
        - Ch 36: https://www.va.gov/careers-employment/dependent-benefits/
     - **Get - Additional benefits or services(H3)**
        - Vocational rehabilitation and employment for ppl who qualify: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
-       - **DoD dareer opportunities for spouses: https://www.va.gov/careers-employment/family-resources/** -- not sure if we're replacing this with the new R+S page about SECO
+       - **R+S: SECO: New URL TBD**
     - **Get - Helpful tools(H3)**
        - GI Bill School Comparison tool: https://www.va.gov/gi-bill-comparison-tool/
        - Yellow Ribbon school finder: https://www.va.gov/education/yellow-ribbon-participating-schools/
@@ -237,7 +237,8 @@ Redirect ticket:
 |           Transferred benefits future future rates | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/future-rates/                                           | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/rates/future-rates           |
 |              Transferred benefit past rates: 22-23 | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/past-rates-2022-2023/                                   | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/rates/past-rates-2022-2023   |
 |               Transferred benefit application FORM | https://www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/introduction AND ALL CHILD PAGES | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/apply-form-22-1990e          |
-|                  Education page for family members | https://www.va.gov/education/survivor-dependent-benefits/                                                                              | https://www.va.gov/family-and-caregiver-benefits/education-and-careers/                                               |
+|Education page for family members                   | https://www.va.gov/education/survivor-dependent-benefits/                                                                              | https://www.va.gov/family-and-caregiver-benefits/education-and-careers/                                               |
+|SECO page                                           | https://www.va.gov/careers-employment/family-resources/                                                                                | R+S URL TBD                                                                                                           |
 
 ## <a name="bestbets"></a>Best Bets<br>
 
