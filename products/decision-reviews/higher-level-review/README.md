@@ -1,41 +1,22 @@
-# Higher Level Review - Aug 2024 Updates
+# Higher-Level Review - Aug 2024 Updates
 
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
+ - Product: Higher-Level Review
+   - Initiatives: March 2024 OMB Updates
  
 ---
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+* Need to update digital application to match the content updates to the latest paper form
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* Current application information is now out-of-date, and we're submitting a PDF that's will expire in March 2025
 
 <!--
 ## Desired User Outcomes
@@ -82,11 +63,13 @@
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
+
 We are updating the content for the HLR form to match the latest OMB updates. There's been an update to language to better represent contact methods, as well as, call time availabilities.
 The scope of this update is still only to be available for disability compensation claims. It does not include the ability to submit a written statement.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+
 None
 
 --- 
@@ -104,7 +87,7 @@ None
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Aug 19 2024
 - *Actual Launch Date* 
   - tbd
 
@@ -123,10 +106,10 @@ None
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: Benefits Decision Review
+- GitHub Label(s): Decision-Reviews-Team
+- Slack channel: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
+- Product POCs: Amy Lai, Julie Strothman, Eileen Chi
 
 </details>
 
@@ -136,8 +119,8 @@ None
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: VBA
+- Contact(s): Shireen Lackey, Jane Chi
  
 </details>
 
