@@ -12,7 +12,7 @@
 * Need to update digital application to match the content updates to the latest paper form
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/README.md#hlr-product-outline)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
@@ -95,9 +95,20 @@ None
    
 ## Screenshots
 
-### Before
-
-### After
+|         | Before | After |
+| ------- | ------ | ----- |
+| Intro | <img width="500" alt="before-intro" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/edf1fd70-6979-4157-b429-ab5c70749d63"> | <img width="500" alt="intro2" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/a8dc675b-25fd-450e-88ab-2b4dda3001fa"> |
+| Subtask start | <img width="500" alt="before-subtask-start" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/5d99e6b3-d8ae-489f-8f9a-cd9f022a47d0"> | <img width="500" alt="subtask-start" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/2374c5c5-0439-4b9f-856a-0f331788fc24"> |
+| Subtask other | <img width="500" alt="before-subtask-other" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/0211e770-4a72-4f0a-86ae-8a8951f4d4af"> | <img width="500" alt="subtask-other" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/2383842e-537d-4d79-a6e4-9829e0e56dfd"> |
+| Homeless | <img width="500" alt="before-homeless" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/a4026723-b0a8-469d-b4d6-0fca8cc73a7f"> | <img width="500" alt="homeless" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/8ebf6d0e-0949-498a-85d8-90b4078fba74"> |
+| Contestable issues | <img width="589" alt="before-contestable-issues" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/7276ba01-57aa-49cc-8a54-f91f398dc257"> | <img width="574" alt="contestable-issues" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/f990272d-362f-45b9-8a5b-3e24dc168101"> |
+| Area of disagreement | <img width="500" alt="before-disagreement" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/cc9148fb-9345-4ae2-b3e7-c31a17bb84b3"> | <img width="500" alt="disagreement" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/acb3b4b7-8d53-4f99-b5df-a3258d3f84e6"> |
+| Opt-in | <img width="500" alt="before-opt-in" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/d2563ec1-8b5e-4406-b4e8-b77d107b8970"> | <img width="500" alt="opt-in" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/262332d7-d222-4457-90cd-58a989983c6f"> |
+| Informal conference | <img width="500" alt="informal-conf-current" src="https://github.com/user-attachments/assets/17b3a096-682c-41d3-a22b-a8085e40aaf9"> | <img width="500" alt="informal-conf-new" src="https://github.com/user-attachments/assets/73c1b2ac-6fb5-482b-9078-7b3201cff3bc"> |
+| Informal conference choice (new page) | (none) | <img width="499" alt="choice-new" src="https://github.com/user-attachments/assets/4506c7c6-c719-40cd-8006-b8be1a57f974"> |
+| Rep time choice | <img width="500" alt="time-rep-current" src="https://github.com/user-attachments/assets/e081bc2f-5bff-4ccb-8a5c-9a487e662b2f"> | <img width="500" alt="time-rep-new" src="https://github.com/user-attachments/assets/0bbedfd3-3a91-4f8a-b890-9fcdbf87571a"> |
+| Vet time choice | <img width="500" alt="time-veteran-current" src="https://github.com/user-attachments/assets/ca57e8c6-bae9-423a-ac90-54cd29432f2a"> | <img width="500" alt="time-veteran-new" src="https://github.com/user-attachments/assets/efc02c31-bcd4-4ba3-a69a-5a112e50ff39"> |
+| Review & submit | <img width="500" alt="before-review-and-submit" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/e1cc826b-5236-4dc4-95e0-8bbf7642f665"> | <img width="500" alt="review-and-submit" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/a8037269-5cba-4ab9-9027-4bf456948eb8"> |
 
 ---
 
