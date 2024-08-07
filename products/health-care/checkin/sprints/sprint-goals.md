@@ -70,10 +70,10 @@
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address feedback from the Design Intent, finish the wireframes, and hand off to engineering**
     - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
-    - 🟥 Do hand-off to engineering
+    - ✔️ 🟥 Do hand-off to engineering
     - 🟦🟩 Design implementation and create tickets
 - **Componentize the Appt Summary View**
-    - 🟥 Do hand-off to engineering
+    - 🟥 Do hand-off to engineering (include Peter Russo)
     - 🟩 Design implementation and create tickets
 - **Translations**
     - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
