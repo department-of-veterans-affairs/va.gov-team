@@ -7,7 +7,8 @@ The goals of this document are:
 
 ## Definitions
 
-The term **Individual Longitudinal Exposure Record** (**ILER**) has been used in two ways. It can mean:
+### Individual Longitudinal Exposure Record (ILER)
+This term has been used in two ways. It can mean:
 - the ILER **information technology system** that gathers data from a range of VA and DoD systems to comprise a report about a service member’s deployments and exposure to toxins. Service members have no direct interaction with this system.
 - the **report** generated from this system. Service members, epidemiologists, and providers should all be able to access this document (see below). This is used in evaluations of disability and determinations of benefits.
 
@@ -16,6 +17,15 @@ This is an important part of all service members’ medical history. The ILER sy
 Basically, the goals of the ILER system are to track and monitor exposures, how they lead to health issues, and improve treatment for Veteran health.
 
 ILER is jointly managed by the DoD and the VA. The DoD manages the data on ILER. 
+
+### Incident Exposure Summary (IES)
+This is **??? A summary? A record of an individual exposure incident? NEED MORE INFORMATION**
+
+### Enhanced Military Information
+This is a working umbrella term. It encompasses ILER (**MAYBE IES TOO?**) and access to it, any summaries of ILER data and access to it, any future ability to edit or correct information in an ILER, and the initiative to design and develop these features.
+
+### Primary stakeholder
+The primary stakeholder on this initiative is the Veterans Experience Office (VEO).
 
 
 
