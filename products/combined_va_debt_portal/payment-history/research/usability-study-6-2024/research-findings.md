@@ -212,7 +212,7 @@ Several participants stated that they did not receive any notification that they
 
 One participant stated her son’s Chapter 35 debt was taken out of her VA disability payment. She found out about it when she had to present documents for VA housing and she noticed her VA disability payment was a lower amount. She was not sure if she was mailed notification about this debt as she and her son were homeless. Since a dependent's debt can impact a Veteran’s VA disability payment, it is worth considering adding the debt information to the Veteran’s account.
 
-“Yeah, even when I called at first they couldn't find it. They had to go into my son's account and research through that to find out. That's where it was coming from and I was like, well, if we had to pay, I would understand, but it was coming out of mine. It should at least been posted in my outstanding debt so I can, you know, so I'm aware.” –P8
+>“Yeah, even when I called at first they couldn't find it. They had to go into my son's account and research through that to find out. That's where it was coming from and I was like, well, if we had to pay, I would understand, but it was coming out of mine. It should at least been posted in my outstanding debt so I can, you know, so I'm aware.” –P8
 
   
   
@@ -228,7 +228,7 @@ Labels: RESRCH: Comprehension testing
 
 Overall, comprehension was excellent and participants could easily understand the UI and content/copy on each page. The terms participants were specifically asked about, “current balance” and “resolve this debt” were easily understood. At the end of the session, 9 participants were asked to rate how clear they thought the Debt Portal was on a scale of 1 to 5 with 5 being the clearest. The average score was 4.22.
 
-“I would think, getting started was the weakest part. Once I recognized how it was subdivided, it got better and better. And I'm not sure what can be done about that. Yeah, so getting started was the weakest part.” -P5 (Advanced JAWS user)
+>“I would think, getting started was the weakest part. Once I recognized how it was subdivided, it got better and better. And I'm not sure what can be done about that. Yeah, so getting started was the weakest part.” -P5 (Advanced JAWS user)
 
   
   
@@ -239,7 +239,7 @@ Participants in this study had very clear mental models around “overpayments�
 
   
 
-“I think consistency would be important rather than going back and forth. Debt just automatically has a negative connotation to it that could rub people the wrong way. They’re probably likely to associate it with credit card debt or something like that where you know, again, that's a conscientious act. If you are spending money versus an overpayment where typically you’re the downstream recipient of. –P3
+>“I think consistency would be important rather than going back and forth. Debt just automatically has a negative connotation to it that could rub people the wrong way. They’re probably likely to associate it with credit card debt or something like that where you know, again, that's a conscientious act. If you are spending money versus an overpayment where typically you’re the downstream recipient of. –P3
 
   
 
@@ -326,7 +326,7 @@ Transaction/payment history was easily understood by all participants and partic
 
 Several participants had strong reactions to late fees. Our prototype showed a use case/scenario where late fees were incurred. After the sessions, we later verified with an SME that late fees and interest would not be incurred while the debt was on the Debt Portal but only if the debt had been escalated and sent to the Treasury Department.
 
-“The late fees are a little bit too high. How many people that are disabled at 100% can afford $15?” -P9
+>“The late fees are a little bit too high. How many people that are disabled at 100% can afford $15?” -P9
 
   
   
@@ -351,7 +351,7 @@ Participants liked how there were multiple options available for them to pay: On
 
 One participant wanted an easy way to pay online directly on the Resolve page:
 
-“Yeah, you'd have a payment option right here, Apple Pay, Google Pay, all of those, kinda, you know, easy click buttons. Especially, you know, most people, I feel like if you've gotten this far. There's a lot of good information here. I would just go ahead and be able to submit the payment instead of having to go through yet another menu onto a different page to start the process.” -P3
+>“Yeah, you'd have a payment option right here, Apple Pay, Google Pay, all of those, kinda, you know, easy click buttons. Especially, you know, most people, I feel like if you've gotten this far. There's a lot of good information here. I would just go ahead and be able to submit the payment instead of having to go through yet another menu onto a different page to start the process.” -P3
 
   
 
