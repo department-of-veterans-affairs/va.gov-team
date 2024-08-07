@@ -39,15 +39,20 @@ The primary stakeholder on this initiative is the Veterans Experience Office (VE
 
 Where does your product fit into the Veteran journey? Are there moments that matter? Key moments this research touches in the Veteran journey are:
 
-- Engaging VA to access benefits and services
 - Taking care of my health
-- **MORE?**
+- Aging
 
 ## OCTO Objectives
 
-In 2021, Congress mandated that veterans be able to view their ILER record. In 2022, as part of the PACT Act, Congress mandated that veterans be able to update this record.
+In 2021, Congress mandated that veterans be able to view their ILER record. In 2022, as part of the PACT Act, Congress mandated that veterans be able to update this record. This desk research (and initiative) is concerned with the former.
 
-The immediate goal for OCTO is to design, develop, and deliver a way for Veterans to view and/or download their personal record in a user-centered way. 
+As a result, the goal for OCTO is to design, develop, and deliver a way for Veterans to view and/or download their personal record of exposures during their service in a user-centered way. To meet this goal most effectively, the work here should focus on maximizing:
+- finability
+- relevance to the Veteran
+- familiar context and language
+- clarity on what the user should do
+- clarity on what the user will access/download
+- clarity on what the user can do with the access/downloaded file
 
 Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.
 Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
