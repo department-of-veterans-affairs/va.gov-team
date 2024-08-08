@@ -31,5 +31,7 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
 - **8/5/2024**: Began engaging with other VA.gov product teams to update entry points to legacy pages like [va.gov/vso](https://va.gov/vso/) and [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp) to instead point to our landing page.\
   _Product Manager Lindsay Li-Smith began this conversation with the core ARM team and broke off into separate thread to engage other VA.gov product teams, to request entry point updates ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1722880231966739))._
 - **8/7/2024**: Informed VBA and OGC stakeholders of the redirect of [va.gov/vso](https://va.gov/vso/) and [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp) to our FAQ page.\
-  _CAIA partner Kristin Oulette Muskat and Product Manager Lindsay Li-Smith communicated this to stakeholders via email "Redirecting accredited representative URL"._
+  _CAIA IA partner Kristin Oulette Muskat and Product Manager Lindsay Li-Smith communicated this to stakeholders via email "Redirecting accredited representative URL"._
+- **8/8/2024**: Updated the entry point on [About GI Bill benefits](https://www.va.gov/education/about-gi-bill-benefits/) to point to our landing (originally pointing to the legacy page [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp).\
+  _CAIA content partner A Procik confirmed in ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1723148921019749?thread_ts=1722880231.966739&cid=C05L6HSJLHM))._
   
