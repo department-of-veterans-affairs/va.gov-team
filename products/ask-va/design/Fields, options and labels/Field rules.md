@@ -68,10 +68,10 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school` or `State of residency`||
-|Category = `Education benefits and work study` and relationship to the Veteran = Business|Require `School facility` or `State of facility` depending on role||
+|Category = `Education benefits and work study` and relationship to the Veteran = Business|Require `School facility` or `State of facility` depending on role*||
 |All other categories|Don't include school fields||
 
-- For business inquiries, whether or now we require `School facility` or `State of facility` depends on which role the submitter chooses.
+- *For business inquiries, whether to require `School facility` or `State of facility` depends on which role the submitter chooses.
   - If: Role = ON-THE-JOB TRAINING OR APPRENTICESHIP SUPERVISOR or SCHOOL CERTIFYING OFFICIAL (SCO)
     - Then: Require `School facility` (If they choose, 'facility not listed' then ask for 'State of school')
   - If: Role = VA EMPLOYEE or WORK STUDY SITE SUPERVISOR or OTHER
