@@ -36,9 +36,8 @@ Last updated by @tygindraux: July 29, 2024
 - [Intro - 5 minutes](#intro-5-minutes)
 - [Warm up - 5 minutes](#warm-up-5-minutes)
 - [Set up - 10 minutes](#set-up-10-minutes)
-- [Home page - 10 minutes](#home-page-10-minutes)
-- [Sign in - 10 minutes](#sign-in-10-minutes)
-- [Form – 40 minutes](#form-40-minutes)
+- [Dashboard - 10 minutes](#dashboard-10-minutes)
+- [Form – 50 minutes](#form-50-minutes)
 - [Cool down - 10 minutes](#cool-down-10-minutes)
 
 This document also contains [pause or exit strategies](#pause-or-exit-strategies).
@@ -173,7 +172,7 @@ Next, I'm going to share a link to the test website.
 
 > Opens staging.
 
-## Home page (10 minutes)
+## Dashboard (10 minutes)
 
 So, today we're going to observe as you navigate this website. 
 
@@ -181,24 +180,23 @@ Before you start, I'm going to share some context with you.
 
 This is a tool called Ask VA. It's a way for Veterans to contact the VA and ask a question online. For today's session, we're going to pretend like you're asking the VA a question about a recent experience you had a VA medical center. I can remind you of the scenario whenever you need me to.
 
-And as you navigate, we want to understand what's going through your mind and how your assistive technology is supporting you. I'm going to stay quiet, so you can focus on the task [and what your screen reader is announcing]. [If we can't hear their screen reader eg. on mobile, tell them that.]
+And as you navigate, we want to understand what's going through your mind and how your assistive technology is supporting you. When you start the form, I'm going to stay quiet, so you can focus on the task [and what your screen reader is announcing]. [If we can't hear their screen reader eg. on mobile, tell them that.]
 
-But before you choose a button or a link, it will be helpful for me if you pause, so we have some time to reflect on each page.
+It's helpful if you pause every once and a while and call out things that are surprising, confusing or helpful. 
 
-- How does that all sound for you?
+- How does that all of that sound for you?
 
 Okay, great.
 
-So, let's get started. Please read this page and then I'd like you to tell me where you would go next. Keep in mind that in this scenario you want to ask a question about a recent experience you had a VA medical center.
+So, let's get started. Instead of making you sign in today, we're going to pretend like you signed in and this is your account.
 
-> Screen: Home page (Unauthenticated)
+It's not actually your account. But, we'll pretend like you're signed in.
 
-[Pause while they explore. When they're ready to move forward...]
+And when you're, please navigate to submit your question to the VA.
 
-- What is your next step on this page?
-- Does it seem that you need to sign in or you can continue without signing in? Why?
+> Screen: Dashboard (Authenticated)
 
-Okay great. Let's navigate to sign in.
+> Starts a new question...
 
 <details>
   <summary>Key things to notice</summary>
@@ -213,62 +211,7 @@ Okay great. Let's navigate to sign in.
 
 </details>
 
-## Sign in (10 minutes)
-
-> Screen: Sign in
- 
-We're going to use a test account instead of your username and password.
-
-When you're ready, start by navigating to ID.me.
-
-> Screen: ID.me username and password
-
-Great. Before I share the username and password, I just want to warn you that we're having an issue with sign in. After you sign in it will continue to say it's loading. If we reload the page, it will work. I'll remind you of this.
-
-So, now I'll share the username and password [the same way I shared the url].
-
-> Dictate, email or send link in chat.
-
-Username: tyler+02@bluetiger.digital
-Password: [Documented in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md).
-
-For the next couple of screens go to the continue button.
-
-### Troubleshooting: Sign in
-- Ask the accessibility specialist to come off mute and assist.
-- Be patient. Reassure the participant that this can be confusing and we're here to work through it together.
-- If after trying everything, sign in still isn't working: We'll ask a question without signing in. Refer to [pause and exit strategies](#pause-or-exit-strategies).
-
-> Signs in to test user account.
-
-> Screen: Loading (Issue)
-
-This is the issue I mentioned. We need to reload the page, and then it will work. [If needed, CTRL + D or CMD + L go directly to the URL bar.]
-
-> Screen: Dashboard
-
-Okay, great. You've signed in now. We'll pretend like this is your account...
-
-<details>
-  <summary>Key things to notice</summary>
-
-- How do they navigate through the page elements?
-- Are there any areas or components they struggle to interact with?
-- Are all interactive elements properly labeled and announced?
-- Is the tab order logical and easy to follow?
-- Where did they pause, if at all?
-- Are they able to sign in?
-- Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
-
-</details>
-
-## Form (40 minutes)
-
-Now, I'd like you to ask the VA your question.
-
-As you navigate, you can share things with me that are frustrating or not working as you would have expected. I'll be quiet as we observe you going through the form.
-
-Please navigate to ask a new question and begin the form.
+## Form (50 minutes)
 
 > Screen: Your personal information
 
@@ -381,10 +324,6 @@ Thanks for letting me know. Unfortunately, this particular research study is foc
 ### If the participant can't screen share after troubleshooting
 
 I really appreciate your patience through this. I'm sure you know, it can be really frustrating when technology is not our friend. Since we're not able to set up screen share, we're going to end the session now. You're still going to be compensated for the full session. Thanks again for joining us and we'll hopefully see you back here again for another study.
-
-### If the participant can't sign in
-
-It seems like we've tried everything and unfortunately we're still not able to sign in. Instead of signing in today, we have a back up plan. If you navigate to [Ask a question without signing in], we'll go ahead and start there.
 
 ### If the participant isn't feeling well
 
