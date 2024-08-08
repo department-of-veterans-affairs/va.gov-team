@@ -22,7 +22,7 @@
   - We talked about bi-weekly meetings, but do we need to pivot based on any changes in either team's priorities? 
     - 30 min touch base (bi-weekly)
   - Figure out timeline (Lori)  
-  - Eng meet as needed for tech discussions (Kevin to set up) 
+  - Eng meet as needed for tech discussions (Kevin ~to set up~ scheduled) 
 
 
 
