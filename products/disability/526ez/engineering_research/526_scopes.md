@@ -114,6 +114,15 @@ NOTE: `paranoid_success` and `success_by_age` are two sides of the same coin. It
 Anything and everything that is not `success_type` or `incomplete_type`. This is our most important scope, the others all serve this one in some way. This is the query that tells us at a glance exactly how many failed submissions are hanging out in our system requiring human intervention to reach a state of completeness.
 
 ### with_exhausted_primary_jobs
-TODO
+All of the following must be true
+- has no `submitted_claim_id`
+- has at least 1 associated instance of `Form526JobStatus` with
+  - a failure type state (`exhausted` or `non_retryable_error`)
+  - a `job_class` of `SubmitForm526AllClaim`
+
 ### with_exhausted_backup_jobs
-TODO
+All of the following must be true
+- has no `submitted_claim_id`
+- has at least 1 associated instance of `Form526JobStatus` with
+  - a failure type state (`exhausted` or `non_retryable_error`)
+  - a `job_class` of `BackupSubmission`
