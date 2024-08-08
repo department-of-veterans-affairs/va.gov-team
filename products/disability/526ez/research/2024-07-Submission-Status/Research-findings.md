@@ -6,10 +6,12 @@ Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
 ## Background
 
-**Problem to solve:** When a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. 
+**Problem to solve:** When a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. If something goes wrong during submission, the onus is on the Veteran to contact VBA or resubmit failed documents via mail. 
  <br /> 
-**Proposed solution:** In the days after applying, give Veterans timely and truthful information about their submission status.
+ 
+**Proposed solution:** In the days after applying, give Veterans timely and truthful information about their submission status. 
  <br /> 
+
  
 ## Research Goals
 The research study assessed the clarity of the proposed changes to submission statuses and timeline to see if Veterans have accurate expectations in the days following submission.
