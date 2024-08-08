@@ -193,7 +193,6 @@ Once one of these forms are submitted, they will be represented as a card on My 
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is used.
 - Link styles:
-  - ['download' variant](https://design.va.gov/components/tag)
   - 'default' for benefits hotline number and TTY
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
@@ -204,8 +203,6 @@ SUBMISSION IN PROGRESS
 Form name
 
 Form number
-
-Download your application, available until XX/XX/XXXX (PDF)
 
 Submitted on: Month Day, Year
 
@@ -246,7 +243,6 @@ Figma file (with content supplied by CAIA):
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is used.
 - Link styles:
-  - ['download' variant](https://design.va.gov/components/tag)
   - 'default' for benefits hotline number and TTY
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
@@ -259,8 +255,6 @@ RECEIVED
 Form name
 
 Form number
-
-Download your application, available until XX/XX/XXXX (PDF)
 
 Submitted on: Month Day, Year
 
@@ -305,7 +299,6 @@ This is an **error state** for an individual form submission. This occurs after 
 - 'Error alert' variation of the Alert component in [VADS](https://design.va.gov/components/alert#error-alert) is used on the card.
 - 'error'(icon) is in the alert. 
 - Link style:
-  - ['download' variant](https://design.va.gov/components/tag)
   - 'default' for benefits hotline number and TTY
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
@@ -317,11 +310,9 @@ Form name
 
 Form number
 
-Download your application, available until XX/XX/XXXX (PDF)
+Submitted on: Month Day, Year 
 
-Submitted on: August 15, 2024 
-
-Submission failed on: August 19, 2024
+Submission failed on: Monday Day, Year
 
 We're sorry. There was a problem with our system. We couldn't process this form. Call us at 800-827-1000 (TTY: 711). We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
