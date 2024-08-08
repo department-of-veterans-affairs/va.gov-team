@@ -6,13 +6,15 @@ Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
 ## Background
 
-**Problem to solve:** When a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. If something goes wrong during submission, the onus is on the Veteran to contact VBA or resubmit failed documents via mail. 
+### Problem to solve:
+When a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. If something goes wrong during submission, the onus is on the Veteran to contact VBA or resubmit failed documents via mail. 
  <br /> 
  
-**Proposed solution:** In the days after applying, give Veterans timely and truthful information about their submission status. 
+### Proposed solution:
+In the days after applying, give Veterans timely and truthful information about their submission status. 
  <br /> 
 
-### Design changes include:
+### Design changes:
 
 -   Redesigned loading page
     
