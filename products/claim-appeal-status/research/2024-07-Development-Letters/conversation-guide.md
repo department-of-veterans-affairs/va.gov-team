@@ -209,8 +209,9 @@ Ok, go ahead, scroll back to the top of the page and click on the “VA” logo 
 Ok, go ahead and click the VA logo at the top, We will explore the final option on this page.
 
 #### Questions for uploading the form
-If you scroll down the page, you’ll see the option to upload your response. 
+If you scroll down the page, you’ll see the option to upload your response.
 
+* What do you think this upload is for?
 * Can you describe your process from downloading the form and uploading it here?
 
 #### Closing questions for benefit letters experience
