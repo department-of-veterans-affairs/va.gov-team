@@ -1,4 +1,4 @@
-# Healthcare React Widgets - Product outline
+# CTA React Widget - Product outline
 (Note: this is being completed retroactively by a successor team.)
 (As of Nov 2023, Cerner is now Oracle Health.)
 
