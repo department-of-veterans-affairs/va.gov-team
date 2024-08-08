@@ -88,7 +88,7 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 
 - In addition, participants expect electronic submission to happen instantaneously– not over 3 days. The loading screen may have contributed to this perception, as 6 out of 8 participants thought their application was being “uploaded” on the loading screen. 
 
-    > “My submission's done, like I submitted it. I hit submit. I can imagine me and the other 20 people that might be doing this we'll say, what do you mean it's taking three days for you to receive it? You just told me you got it….It doesn't take 3 days for electrons to travel. I don't understand why the electronic system didn't just receive, validate, and say it was received. What it does in-house is different than what I see here.” -P5Blockquote
+    > “My submission's done, like I submitted it. I hit submit. I can imagine me and the other 20 people that might be doing this we'll say, what do you mean it's taking three days for you to receive it? You just told me you got it….It doesn't take 3 days for electrons to travel. I don't understand why the electronic system didn't just receive, validate, and say it was received. What it does in-house is different than what I see here.” -P5
 
 
 <br /> 
@@ -246,7 +246,7 @@ A majority of the recommended changes are geared toward improving Veteran compre
 - Feature only one timeline per touchpoint to avoid confusing Veteran expectations. 
 - Explore strategies for making “next steps” clearer to Veterans– especially in the submission received email. 
 - For example, using the Claim Status Tool steps (or create our own) to outline the process.
-- 
+  
 ### Timely touchpoints 
 - Introduce email touchpoints for significant milestones in the claims process– starting with a message for when claim tracking is available on VA.gov.
 - Remove the link to the Claim Status Tool before the claim is available.
