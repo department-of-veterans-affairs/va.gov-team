@@ -188,9 +188,7 @@ It's helpful if you pause every once and a while and call out things that are su
 
 Okay, great.
 
-So, let's get started. Instead of making you sign in today, we're going to pretend like you signed in and this is your account.
-
-It's not actually your account. But, we'll pretend like you're signed in.
+So, let's get started. Instead of making you sign in today, we're going to imagine that you signed in and pretend like this is your account.
 
 And when you're, please navigate to submit your question to the VA.
 
