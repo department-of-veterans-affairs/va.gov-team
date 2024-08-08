@@ -38,9 +38,9 @@ Before we start, I have a few things that I want to go over with you:
 - **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I want you to know that although I work on the VA.gov website, I have no access to your records or benefits, nor do I have the ability to change your claims or benefits in any way. I am not a specialist in benefits. My primary focus is to understand your experience with the website.
 - The people from Perigean who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Is it okay with you to have  [specific number] people join us to observe this session?**
-   - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov.
-   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+   - _If yes: Admit observers._
+      - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov.
+      - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
 - **In this session, we’ll ask you to use a test version of the website.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
 - I’d like to ask your permission to record the screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments would be attributed to you directly.  **Are you comfortable if I record my screen and audio as we talk today?**
