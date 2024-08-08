@@ -48,7 +48,6 @@ Before we start, I have a few things that I want to go over with you:
 *Start recording.*
 
 - **I have started recording.** I'd like to confirm: Are you okay if I record my screen and the audio as we talk today?
-- **Are you ok if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
 ## Warm-up Questions - 5 minutes
@@ -249,13 +248,6 @@ Thank you for your input. We are done with the prototype, and we’ll now move o
 - On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
 - If you could wave a magic wand and change anything about the evidence request experience, what would it be?
 - Any questions for me? 
-
-## Consent to use video clips
-
-- Now that we’ve completed the session, I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners.** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
-
 
 ## Thank-You and Closing - 1 minute
 
