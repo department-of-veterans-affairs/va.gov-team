@@ -185,6 +185,7 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 <br /> 
 
 ## Additional Findings
+
 |  |  |  |
 |--|--|--|
 |**#** | **Additional Finding** | **Do Veteran expectations match design intent?**| 
