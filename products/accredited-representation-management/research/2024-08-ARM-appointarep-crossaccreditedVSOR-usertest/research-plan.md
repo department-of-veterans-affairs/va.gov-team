@@ -358,9 +358,9 @@ _You may hear from us in the future about other opportunities to provide feedbac
 
 # Timeline
 
-- [x] ~~07/31 / Submit for team and ~~[#benefits-vso-research](https://dsva.slack.com/archives/C07CXMZ995W)~~ feedback~~
+- [ ] ~~07/31 / Submit for team and ~~[#benefits-vso-research](https://dsva.slack.com/archives/C07CXMZ995W)~~ feedback~~
 
-  - [x] ~~08/01 - 08/05/ Janelle OOO~~
+  - [ ] ~~08/01 - 08/05/ Janelle OOO~~
 
 - [ ] 08/06 - 08/09 / Recruitment
 
