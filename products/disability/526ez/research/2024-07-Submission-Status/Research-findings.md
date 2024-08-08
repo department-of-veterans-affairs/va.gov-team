@@ -12,6 +12,16 @@ Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 **Proposed solution:** In the days after applying, give Veterans timely and truthful information about their submission status. 
  <br /> 
 
+### Design changes include:
+
+-   Redesigned loading page
+    
+-   Added email touchpoint triggered when Veteran presses “submit”
+    
+-   New confirmation page with only one state for all submission scenarios (previously 3 states)
+    
+-   Content changes submission received email
+    
  
 ## Research Goals
 The research study assessed the clarity of the proposed changes to submission statuses and timeline to see if Veterans have accurate expectations in the days following submission.
@@ -42,17 +52,6 @@ The research study assessed the clarity of the proposed changes to submission st
 ## Methodology
 
 We conducted usability/concept testing with a high-fidelity clickable Figma prototype. In 60 minute sessions, 8 Veterans participated in three test scenarios in which they “submit” a 526ez and walk through the user experience for each submission scenario. Prototypes included: review and submit page, loading page, email communications and other current state pages.
-
-### Design changes include:
-
--   Redesigned loading page
-    
--   Added email touchpoint triggered when Veteran presses “submit”
-    
--   New confirmation page with only one state for all submission scenarios (previously 3 states)
-    
--   Content changes submission received email
-    
 
 ### Scenarios tested:
 
