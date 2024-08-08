@@ -478,40 +478,8 @@ Taxonomy launched in 2023, in pilot use by CAIA for managing benefits informatio
 ## CTA React widget
 
 **What is:**
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/cta-widget
 
-Public Websites manages a React application for a CTA widget that appears on 5 Health care tool landing pages: 
-* refill prescriptions
-* make appointment
-* get VA medical records
-* send secure message
-* view lab or test results
-
-Calls to action on these widgets point users to the Electronic Healthcare Records (EHR) system used by their primary healthcare facility. Three flavors of EHR: 
-* MyHealtheVet - Digital platform of the VistA healthcare provider. CTAs that point to MHV, once a user logs in, will take users out to MHV's platform.
-* Oracle Health (formerly Cerner) - New EHR provider as of 2020, used at some VAMC systems/facilities. Systems were migrating to Cerner (at the time) through 2022; migrations on pause as of July 2022. For Veterans who have patient records at an Oracle Health facility, CTAs that point to Oracle Health will also appear and take those users out to Oracle Health's digital platform.
-* MyHealtheVet on VA.gov - An in-house digital platform built by the VA. CTAs that point to MHV on VA.gov will take users to a VA.gov dashboard, where both MHV and Oracle Health data is pulled in via APIs.
-
-As Health care tool teams are updating landing pages or CTA actions to point to MyHealtheVet on VA.gov, Public Websites may be called up on as code reviewers to review changes and ensure that the unauthed experience for these 5 widgets behaves as expected. 
-
-**Other unauthed react widgets**
-* BTSSS - Epic where it was created: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9157
-* Travel Pay -
-
-Beneficiary travel has its own product team now that should be coordinated with for changes: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/README.md
-
-**Governance / Content:**
-
-* [Documentation re: ownership of the health care tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/readme.md)
-* **CERNER TEST USERS**: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md
-* Epic tracking the plan to transition ownership of the CTA React widget from Public Websites to Health Tools teams: department-of-veterans-affairs/va.gov-cms#16547
-* Content is provided by Sitewide Content team
-* Oracle Health cutover information is publicized in DSVA slack: #vagov-oracle-launch-coordination
-
-**More info:**
-* [Healthcare system cutover to Cerner (now Oracle health): runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/how_to_set_up_vamc_cerner_within_va_health_care_portals.md)
-* [React widget flows](https://app.mural.co/t/vagov6717/m/vagov6717/1651166973924/bc8bc44cab4e4ae7b84819d22ba89b11aa70e5e1?invited=true) (Mural)
-* [CMS source of truth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/healthcare-widget-support/cms-source-of-truth) (github) - to determine which healthcare records management system is used by a VA medical center system 
-* Oracle Health / Cerner cutovers were paused in 2022 and may resume in 2024.
 
 ## Discharge upgrade wizard
 https://www.va.gov/discharge-upgrade-instructions
