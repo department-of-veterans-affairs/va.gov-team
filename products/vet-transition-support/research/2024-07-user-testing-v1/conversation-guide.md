@@ -120,7 +120,9 @@ I have a few questions to ask about your experience doing these tasks.
 - Would a tool like this be helpful for you? Why or why not?
 - What should this tool be named?
    - Something catchy? Or informative? Or somewhere in between?
-- Where  would you expect to find a tool like this on the VA.gov website?
+- Where would you expect to find a tool like this on the VA.gov website?
+- We need to add a disclaimer somewhere — since the tool is an estimate of benefit eligibility, users will still need to confirm if they are eligible for the recommended benefits.
+   - Where would you expect to see a disclaimer about the results?
 - Do you have any questions for me? 
 
 ## Consent to use video clips – 2 minutes
