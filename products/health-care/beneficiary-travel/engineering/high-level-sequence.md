@@ -2,6 +2,7 @@
 
 
 ## Thoughts & Considerations
+
 - Simple mileage-only claims feature is not the end, so...
   - does adding expenses need to be transactional?
     - With SMOC, there's only 1 expense to 1 claim, so a transaction makes sense there
@@ -230,24 +231,6 @@ sequenceDiagram
 
 ## More drafts
 
-vet goes to va.gov appointments 
-appointments makes call to get claim status/appointment ids
-  - for appts wtih out claims link to create claim
-  - for appointmetns with unsubmitted claims link to edit claim
-  - both take to same form
-
-- on form intro page load 
-  - load contact information\
-  - have the btss-appt-id/load if doesn't exist???
-  - creates the claims
-- user adds expenses via the form
-  - or add claims to the API as the user goes??? <--- feels bad
-- user confirms & submits data
-- creates the claim with expenses in single POST 
-- creates expense payload \___ also feels bad. maybe a flag on the add expense to also submit the claim, but performance is bad..... 
-- submits the claims /
-- shows success/error message, with links 
-
 ### Past Appointment flow 
 
 Things to note
@@ -259,6 +242,7 @@ Things to note
 - Appointments team has a UI (or very nearly has one) for actions for a past appointment that we can plug into (AVS is also using this) 
 - urls are just place holders
 - Passing data from appt to app via redux was tricky (impossible and had to use local storage) last time I tried it 
+- This the hand off to the submit claims form below
 
 ``` mermaid
 sequenceDiagram
@@ -276,14 +260,14 @@ sequenceDiagram
     vapi -> tpapi: GET /claim_status (could add a filter?)
     vapi -> appts: returns list of claims
     appts -> redux: stores appointment information
-    appts -> vet: shows appoitments with claim status/number if availible
-    alt selects an eligble appointent without a claim
+    appts -> vet: shows appointments with claim status/number if available
+    alt selects an eligible appointment without a claim
         vet -> appts: selects appt without claim to create a new claim
         vet -> redux: stores what is selected in the state/FE
         vet -> submit: sends to va.gov/travel/submit/${appointment-id}
 
-    else selects an eligble appointmetn with an unsubmitted claim
-        vet -> appts: selects appt with an unsumbitted claim to resume
+    else selects an eligible appointment with an un-submitted claim
+        vet -> appts: selects appt with an un-submitted claim to resume
         vet -> redux: stores what is selected in the state/FE
         vet -> submit: sends to va.gov/travel/submit/${appointment-id}/claim/{claim-id}
     
@@ -292,3 +276,79 @@ sequenceDiagram
         vet -> claim_page: sends to va.gov/travel/claim/{claim-id}
     end
 ```
+
+
+### Create a new Claim Form Submission
+
+
+otes
+- borrowing flows and patterns form benefits teams
+- The general flow is `collect all the data` -> `store in vets-api` -> `sidekiq to submit` -> `repeat step 2 and 3 until successful`
+- This adds some complexity of a table storage in the vets-api
+  - this could be handled by the Travel Pay API as well, but we already have patterns on va.gov that do this
+
+Open Questions
+
+- Should we use the forms system?
+- How would statuses in our own database interact with the claim status apge
+- Code Yellow considerations of what happens when a claim fails hard
+- Notifications? Text? Email? This is long running, but not **that** long running
+  - Mosty likely post MVP
+-  If the claim creation is successful, but the submission/expense fail. Should we roll back or let the user try to re-submit the claim again depending on the failure case
+  - AI: define some error list/flows
+
+
+
+``` mermaid
+sequenceDiagram
+    actor vet as Veteran
+    participant submit as Claim Submission Tool
+    participant redux as FE storage
+    participant vapi as vets-api
+    participant postgres as PostgresQL 
+    participant sidekiq as Sidekiq Background worker
+    participant tpapi as Travel Pay API
+    participant btsss as BTSSS Dynamics
+
+    vet -> submit: lands on sends to va.gov/travel/submit/${appointment-id} 
+    submit -> redux: loads data from local storage 
+    alt load any missing data
+        submit -> vapi: request any data that is missing? Maybe?
+    end
+    note over submit : walks the user through the flow
+    note over submit: Q: Should this be a forms application?
+    submit -> redux: stores expenses and information
+    submit -> vapi: sends { apptId, icn, [expenses] }
+    note over submit, vapi: Expenses will be a things like `oneWay` as defined by the Travel Pay API
+    vapi -> postgres: Stores the expense (with status)
+    vapi -> submit: sends a 200 OK We are working on this
+    note over submit: could use long polling like the Claim Status Tool does to check for updated status
+    vapi -> sidekiq: kicks off background worker to submit the claim
+    note over sidekiq: using sidekiq allows for retries and async processing
+    alt option 1 - client creates the claim in a specific order
+        note over sidekiq: This could be used to give the user more details on where and why things failed w/o going to the portal
+        sidekiq -> tpapi: create claim - { apptId, icn }
+        tpapi -> btsss: loads user data
+        tpapi -> btsss: loads appointment data
+        tpapi -> btsss: creates the claim
+        sidekiq -> tpapi: add expense - { [expenses] }
+        tpapi -> btsss: Add all the expense to the claim (loop or batch) 
+        sidekiq -> tpapi: submit claim
+        tpapi -> btsss: triggers submission
+    else option 2 - client sends over full payload to one `create and submit` endpoint
+        sidekiq -> tpapi: sends claim package { apptd, icn, [expenses] }
+        tpapi -> btsss: loads user data
+        tpapi -> btsss: loads appointment data
+        tpapi -> btsss: creates the claim
+        tpapi -> btsss: Add all the expense to the claim (loop or batch) 
+        tpapi -> btsss: triggers submission
+    end
+    note over sidekiq: could also send email/text using VA Notify
+    sidekiq -> postgres: updates with status (could be deletion)
+```
+
+
+### Alt creation flow 
+
+
+> This could be viable if we don't care claims getting
