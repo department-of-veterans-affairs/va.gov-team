@@ -82,19 +82,18 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 8. Missing touchpoints leads participants to worry that something went
     wrong with their submission.
 
-    
+## Detail of Key Findings
     
 ### Finding 1: Veterans’ mental models for claims processing do not map onto the VA electronic submission timeline.
    
-Half of participants presumed that submission was a human-driven process that involved VSRs long before their submission was in the eFolder.
+- Half of participants presumed that submission was a human-driven process that involved VSRs long before their submission was in the eFolder.
    
 > “So he just submitted the claim and whoever will be processing
 >               their claim, they need time to check. And then there will be a
 >               lot of claims they have to go through. So for them it's like
 >               three days to receive and start the claim.” -P2
 
-In addition, participants expect electronic submission to happen instantaneously– not over 3 days. The loading screen may have contributed to this perception, as 6 out of 8 participants thought their application was being “uploaded” on the loading screen.
-1.  
+- In addition, participants expect electronic submission to happen instantaneously– not over 3 days. The loading screen may have contributed to this perception, as 6 out of 8 participants thought their application was being “uploaded” on the loading screen. 
 
 > “My submission's done, like I submitted it. I hit submit. I can imagine me and the other 20 people that might be doing this we'll say, what do you mean it's taking three days for you to receive it? You just told me you got it….It doesn't take 3 days for electrons to travel. I don't understand why the electronic system didn't just receive, validate, and say it was received. What it does in-house is different than what I see here.” -P5Blockquote
 
@@ -104,9 +103,7 @@ In addition, participants expect electronic submission to happen instantaneously
 
 ### Finding 2: Participants who conflated the submission and tracking timelines had mixed expectations for next steps.
     
-The confirmation page and email outlined two separate timelines: Submission (3 days) and Online Tracking (7-10 days). A majority of confusion originated from the email, since only 3 participants opened the “How Can I Check the Status” accordion on the confirmation page.
-    
-4 of 8 participants had inaccurate expectations of when their submission would be received.  
+- The confirmation page and email outlined two separate timelines: Submission (3 days) and Online Tracking (7-10 days). A majority of confusion originated from the email, since only 3 participants opened the “How Can I Check the Status” accordion on the confirmation page. 4 of 8 participants had inaccurate expectations of when their submission would be received.  
 
 > “Well, within 13 days you'll find something, because it takes three days to apply for it to appear online. 10 days to have a decision. So within two weeks you should hear something.” -P8
 > 
@@ -116,7 +113,7 @@ The confirmation page and email outlined two separate timelines: Submission (3 d
 
 ### Finding 3: Participants would likely download a full PDF of their claim for their records if it were available at a later date.
     
-All participants said they would digitally save or print a copy of their confirmation page using the “print this page” button or a screenshot of the blue box.
+- All participants said they would digitally save or print a copy of their confirmation page using the “print this page” button or a screenshot of the blue box.
 
 > “Date initiated, conditions filed for, claim ID number. That's short,
 > sweet, and simple.” -P1
@@ -125,16 +122,16 @@ All participants said they would digitally save or print a copy of their confirm
 > just store it in my iCloud or Google doc in the documents where I save
 > usually for my stuff.” -P2
 
- Participants who were interested in the opportunity to download later thought it could be useful if something went wrong– but wonder where they would expect to find it on VA.gov.
+- Participants who were interested in the opportunity to download later thought it could be useful if something went wrong– but wonder where they would expect to find it on VA.gov.
     
 > “Now if I want to go back, should I be able to print it out again, I'd say yes. Once I leave this page, I'm not sure if it's viewable again at a later date. -P1
 
 
  ### Finding 4: The final “received” email clearly communicated the final submission status and clarified next steps.
     
-Even if participants presumed a human-controlled process or conflated timelines, they accurately understand that the “submission received” email indicated that VA has their claim and it is ready for initial review.
+- Even if participants presumed a human-controlled process or conflated timelines, they accurately understand that the “submission received” email indicated that VA has their claim and it is ready for initial review.
     
-As one example, P11’s expectation for submission came from her job in the federal government. She presumed a human-controlled submission that moves faster than the 526ez– but found her expectations met in the final email.
+- As one example, P11’s expectation for submission came from her job in the federal government. She presumed a human-controlled submission that moves faster than the 526ez– but found her expectations met in the final email.
  
 >   [Loading screen] “Maybe it's transmitting to the actual VA system
 > that receives the request, the files….I assume on the next screen it
@@ -149,7 +146,7 @@ As one example, P11’s expectation for submission came from her job in the fede
 
 
  ### Finding 5: Most participants didn't feel a need to check the status of their submission online once it was received.
- 5 out of 8 participants wouldn't expect an update given the 7-10 day timeline for online tracking; others felt like they already had the most up-to-date status in their email. However, 2 participants shared that they would check every day to see if their claim was available online (P2 and P10).
+- 5 out of 8 participants wouldn't expect an update given the 7-10 day timeline for online tracking; others felt like they already had the most up-to-date status in their email. However, 2 participants shared that they would check every day to see if their claim was available online (P2 and P10).
     
 > “I could check it and it'll just tell me that it's been received, so I would not even check right then, I would give it some time, you know. I would actually probably wait at least a business week…It tells me at the bottom I would wait 7 -10 business days for my claim to appear online.” -P4
 
@@ -159,11 +156,11 @@ As one example, P11’s expectation for submission came from her job in the fede
 
 ### Finding 6:  The happy and backup path scenarios were easy to understand–and left participants feeling confident that their submission was complete.
     
-At the end of each scenario, we asked participants two questions about the overall experience.
+- At the end of each scenario, we asked participants two questions about the overall experience.
 
- - On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?
+     - On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?
 
-- On a scale of 1 to 5, how confident are you that your claim is fully submitted and ready for initial review? 
+    - On a scale of 1 to 5, how confident are you that your claim is fully submitted and ready for initial review? 
 
 > *Ease of understanding:* “4 just because of the different numbers of
 > days bouncing around. Otherwise I think it was pretty easy.” -P1
@@ -174,26 +171,26 @@ At the end of each scenario, we asked participants two questions about the overa
 
 ### Finding 7: Participants consider digital resubmission to be the safest and cheapest way to send their documents. They are frustrated that snail mail is their only option.
     
-Participants point to the insecurity of mail for PII like social security numbers and noted the financial cost of tracking it.
+- Participants point to the insecurity of mail for PII like social security numbers and noted the financial cost of tracking it.
  
 > “I’m gonna have a frustrated reaction to it… I'm wondering why I can't resubmit electronically because you're telling me I have to mail it, which confounds me because the whole reason why we have the electronic submission is to avoid mailing it because PPI in the mail is a risk mail takes a long time, it's more costly, yada, yada, yada. -P5  
 > 
-      > “Not sure why we don't give an option to just do online again, which is the safest and quickest way to transmit something. Kicking us to USPS mail or whatever form of getting the mail to you now turns into a whole different process for a Veteran, cost associated with it.” -P11  
+> “Not sure why we don't give an option to just do online again, which is the safest and quickest way to transmit something. Kicking us to USPS mail or whatever form of getting the mail to you now turns into a whole different process for a Veteran, cost associated with it.” -P11  
       
- Sometimes, a VA documentation request is a pain point that never gets resolved. P8 shared that she never resubmitted documentation for her claim, while P1 spoke to the frustration a fellow Veteran experienced trying to send material VA already was supposed to have.  
+- Sometimes, a VA documentation request is a pain point that never gets resolved. P8 shared that she never resubmitted documentation for her claim, while P1 spoke to the frustration a fellow Veteran experienced trying to send material VA already was supposed to have.  
 
   
 
 ### Finding 8: Missing touchpoints lead participants to worry that something went wrong – and call the Contact Center.
     
-All participants expected VA to send them a notification when their mailed evidence was received– which does not exist. 7 out of 8 participants would call the Contact Center 1-3 weeks after mailing the evidence.
+- All participants expected VA to send them a notification when their mailed evidence was received– which does not exist. 7 out of 8 participants would call the Contact Center 1-3 weeks after mailing the evidence.
     
 
 > “I would hope they would contact me and say, Hey, we received your letter, there's nothing else you need to do now on your part…It doesn't give me a whole lot of confidence that if you can't receive a PDF via an email, how are you gonna receive a letter? -P3
 
 >“Because being submitted electronically, I would think that it was received and if I didn't hear anything, didn't receive an email, I would assume that it was lost. ” -P10
 
-On the backup path, the delayed email concerned 4 out of 6 participants. When claim ID was absent, participants comfortably defaulted to using a SSN and VA file number.
+- On the backup path, the delayed email concerned 4 out of 6 participants. When claim ID was absent, participants comfortably defaulted to using a SSN and VA file number.
 
 > “IT glitch? I think maybe something was missing and I just haven't heard from them yet. But definitely if it's been 7 days and it says up to 3, then I think something has went wrong.” -P11
 > 
