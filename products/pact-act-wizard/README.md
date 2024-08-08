@@ -88,7 +88,7 @@ We are going to build a wizard (based on the Subtask pattern) that focuses on PA
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-- N/A
+- this document
 
 --- 
 
@@ -111,6 +111,9 @@ We are going to build a wizard (based on the Subtask pattern) that focuses on PA
 ## Solution Narrative
 
 ### Current Status
+- [2024-8-08] A
+  - waiting final content for new results screen
+  - Submitted Privacy, Security, & Infrastructure Readiness Review
 
 ### Key Decisions
 
@@ -123,16 +126,18 @@ We are going to build a wizard (based on the Subtask pattern) that focuses on PA
 ## Screenshots
 
 ### Before
-
-N/A - brand new product
+- N/A - brand new product
 
 ### After
-
-
+- N/A
 
 ---
 
-#### Communications
+#### Points of Contact
+- OCTO-DE PO: Michelle Middaugh
+- PM: Fran Cross (A6)
+- DM: Jill Adams (A6)
+- Engineering: Randi Mays 
 
 ##### Team
 - Team Name: Sitewide Public Websites
@@ -143,8 +148,8 @@ N/A - brand new product
   - OCTO-DE IA: Mikki Northuis
   - PM: Fran Cross (A6)
   - DM: Jill Adams (A6)
-  - Engineering:
-  - Design:
+  - Engineering: Randi Mays
+  - Design: Jordan Wood
   - Research: Cindy Merrill
 
 
