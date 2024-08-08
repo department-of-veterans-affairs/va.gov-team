@@ -112,11 +112,6 @@ The confirmation page and email outlined two separate timelines: Submission (3 d
 > 
 > “Confusing. Up here you say 3 days. Down here you say 7-10 days…. This is electronic. Why does it take 3 days? You're saying it takes 10 days to get an update. Just leave it at 10 days, I'm fine with that. Some sticklers are anal retentive. You told me 3 then 10.” -P1
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYhAG8sKI4o-MSC0iUW4Ecle9CEQoP-6r12aX6jdnsYG_Zj4FPeaCFovd0BHvBZSQzH2sMENe4LTrGcxYScRi1KNE_0P0dDmP2oF54XT2khrm4-tg23UaFmK3uRZAzNgbpK99uNR2lV2oIWIPO_PMT5Q?key=_XP6icDIUWBzVd77WL-e9A)
-
-Visual of the two timelines included on the confirmation email.
-
-
 
 
 ### Finding 3: Participants would likely download a full PDF of their claim for their records if it were available at a later date.
@@ -133,13 +128,6 @@ All participants said they would digitally save or print a copy of their confirm
  Participants who were interested in the opportunity to download later thought it could be useful if something went wrong– but wonder where they would expect to find it on VA.gov.
     
 > “Now if I want to go back, should I be able to print it out again, I'd say yes. Once I leave this page, I'm not sure if it's viewable again at a later date. -P1
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJ08-lHYKlVCEQAuUwOwoev9cZTr_FE85g50fCqTZpjTPE0J9wRVgBoR12dEGoWcsUY1zV2UxgGx3ZsmSorjfVZAllXejxMGtVjkvfCU2KuSYUX3uEwp5Dzglqpc1zZqfd8qdLF_oI1cRhZSSMoRCq9A?key=_XP6icDIUWBzVd77WL-e9A)
-
-Visual of the blue box on the confirmation page that participants appreciated as their claim record.
-
-
-
 
 
  ### Finding 4: The final “received” email clearly communicated the final submission status and clarified next steps.
