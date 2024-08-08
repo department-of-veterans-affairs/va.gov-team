@@ -358,17 +358,15 @@ _You may hear from us in the future about other opportunities to provide feedbac
 
 # Timeline
 
-- [ ] ~~07/31 / Submit for team and ~~[#benefits-vso-research](https://dsva.slack.com/archives/C07CXMZ995W)~~ feedback~~
-
-  - [ ] ~~08/01 - 08/05/ Janelle OOO~~
+- [ ] 07/31 / Submit for team and [#benefits-vso-research](https://dsva.slack.com/archives/C07CXMZ995W) feedback
 
 - [ ] 08/06 - 08/09 / Recruitment
-
-  - [ ] 08/08 - 08/09 / Janelle OOO
 
 - [ ] 08/12 - 08/23/ Interviews
 
 - [ ] 08/26 - 09/06/ Report and share-out
+
+
 
 Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
 
