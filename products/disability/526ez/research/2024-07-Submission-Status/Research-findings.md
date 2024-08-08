@@ -99,7 +99,9 @@ cheapest way to send their documents.
 
 ### Finding 2: Participants who conflated the submission and tracking timelines had mixed expectations for next steps.
     
-- The confirmation page and email outlined two separate timelines: Submission (3 days) and Online Tracking (7-10 days). A majority of confusion originated from the email, since only 3 participants opened the “How Can I Check the Status” accordion on the confirmation page. 4 of 8 participants had inaccurate expectations of when their submission would be received.  
+- The confirmation page and email outlined two separate timelines: Submission (3 days) and Online Tracking (7-10 days).
+- A majority of confusion originated from the email, since only 3 participants opened the “How Can I Check the Status” accordion on the confirmation page.
+- 4 of 8 participants had inaccurate expectations of when their submission would be received.  
 
     > “Well, within 13 days you'll find something, because it takes three days to apply for it to appear online. 10 days to have a decision. So within two weeks you should hear something.” -P8
     > 
@@ -134,7 +136,8 @@ cheapest way to send their documents.
 
 
  ### Finding 5: Most participants didn't feel a need to check the status of their submission online once it was received.
-- 5 out of 8 participants wouldn't expect an update given the 7-10 day timeline for online tracking; others felt like they already had the most up-to-date status in their email. However, 2 participants shared that they would check every day to see if their claim was available online (P2 and P10).
+- 5 out of 8 participants wouldn't expect an update given the 7-10 day timeline for online tracking; others felt like they already had the most up-to-date status in their email.
+- However, 2 participants shared that they would check every day to see if their claim was available online (P2 and P10).
     
     > “I could check it and it'll just tell me that it's been received, so I would not even check right then, I would give it some time, you know. I would actually probably wait at least a business week…It tells me at the bottom I would wait 7 -10 business days for my claim to appear online.” -P4
 
