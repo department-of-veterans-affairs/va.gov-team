@@ -62,6 +62,11 @@ As a result, the goal for OCTO is to design, develop, and deliver a way for Vete
 - clarity on what the user will access/download
 - clarity on what the user can do with the access/downloaded file
 
+Metrics to monitor after deployment of this feature might include:
+- a reduction in time evaluating Veteran diabilities
+- more efficient access to health care for Veterans in issues related to exposure
+- better medical outcomes for Veterans facing issues related to exposure
+
 **Legisltative background** 
 Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.
 Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
