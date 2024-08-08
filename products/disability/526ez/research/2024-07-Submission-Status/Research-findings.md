@@ -242,6 +242,7 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 
   <br /> 
 ### Additional Finding 4: Language like “date initiated” could be fine-tuned to ensure more even comprehension.
+- The submission redesign used the language "Date initiated" to refer to the day Veteran pressed "submit" on their 526ez. 3 Veterans guessed the term may refer to the Intent to File, while other participants saw it as the day they started or submitted their applicaiton.
   
     >“The day I filed my claim, so I know when you file a claim they have, so say I was to get this, this claim was approved, I would get the compensation from that date right there…Retroactive or something like that. You know what I mean?” -P1
     >
