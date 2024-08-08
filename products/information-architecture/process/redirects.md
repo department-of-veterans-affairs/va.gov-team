@@ -40,12 +40,12 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
 - Optional: Review analytics and SEO data of the current page to ensure the redirect is necessary (i.e. pages with very low page views or entrance rates may not need a redirect)
 - Validate that the current URL and new URL are accurate and the pages are live - Review proposed destination page for the best experience (i.e. it should have a similar intent as the page that is being redirected)
 - Research the current page to ensure all URLs/URL variations are accounted for (i.e. casing variations, parameters, duplicative pages), and child pages are identified and handled as appropriate
-- Confirm that the redirect is technically feasible (i.e. legacy pages that do not have our injected header can not be redirected by a front end developer)
-- Identify if there are any existing redirects that need to be updated to avoid a 301 chain when possible
 - Indicate any implementation requirements, such as how to handle casing variations or parameters, etc. 
-- Update documentation as appropriate
+- Update IA documentation as appropriate
 
 ### Responsibility of implementation team
+- Confirm that the redirect is technically feasible (i.e. legacy pages that do not have our injected header can not be redirected by a front end developer)
+- Identify if there are any existing redirects that need to be updated to avoid a 301 chain when possible
 - Size and schedule the request based on the requested launch date
 - Communicate any timing or technical concerns to everyone on the ticket
 - Implement redirects as requested along with any redirect updates needed and validate in lower environments before moving to production
