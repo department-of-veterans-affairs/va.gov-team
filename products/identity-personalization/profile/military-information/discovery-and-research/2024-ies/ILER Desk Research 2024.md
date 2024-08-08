@@ -84,7 +84,21 @@ The scope of this ticket is to engage in desk research to learn:
 The goal of this ticket is to, based on the learnings above, offer:
 - next steps
 - recommendatons
- 
+
+
+**Data and Data Quality**
+
+
+
+**Veteran Use Cases**
+"veterans will most 
+often use ILER to 
+certify their 
+participation in a TERA 
+or hazards to qualify 
+for healthcare  benefits 
+or compensation 
+benefits under pact" -- from Mural
 
  
 
@@ -103,3 +117,6 @@ DOD and VA Could Benefit from More Information on
 Staff Use of Military Toxic Exposure Records
 May 2024
 https://www.gao.gov/assets/gao-24-106423.pdf
+
+
+TERA: https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Temporary-Early-Retirement-Authority-(TERA)?serv=122
