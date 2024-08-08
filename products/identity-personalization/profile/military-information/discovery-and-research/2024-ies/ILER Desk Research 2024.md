@@ -7,7 +7,8 @@ The goals of this document are:
 
 ## Definitions
 
-### Individual Longitudinal Exposure Record (ILER)
+**Individual Longitudinal Exposure Record (ILER)**
+
 This term has been used in two ways. It can mean:
 - the ILER **information technology system** that gathers data from a range of VA and DoD systems to comprise a report about a service member’s deployments and exposure to toxins. Service members have no direct interaction with this system.
 - the **report** generated from this system. Service members, epidemiologists, and providers should all be able to access this document (see below). This is used in evaluations of disability and determinations of benefits.
@@ -20,19 +21,26 @@ Basically, the goals of the ILER system are to track and monitor exposures, how 
 
 ILER is jointly managed by the DoD and the VA. The DoD manages the data on ILER. 
 
-### Incident Exposure Summary (IES)
+For an update on the roadmap and interoprability of the ILER system, please see this update (https://www.va.gov/RAC-GWVI/meetings/Feb2023/1VARAC_DoD_Exposure_Monitoring_Wearables_ILER_4Feb23_final_sjones.pdf)
+
+**Incident Exposure Summary (IES)**
+
 This is **??? A summary? A record of an individual exposure incident? NEED MORE INFORMATION**
 
-### Enhanced Military Information
+**Enhanced Military Information**
+
 This is a working umbrella term. It encompasses ILER (**MAYBE IES TOO?**) and access to it, any summaries of ILER data and access to it, any future ability to edit or correct information in an ILER, and the initiative to design and develop these features.
 
-### Primary stakeholder
+**Primary stakeholder**
+
 The primary stakeholder on this initiative is the Veterans Experience Office (VEO).
 
-### PACT Act 
+**PACT Act**
+
 "The PACT Act expanded VA’s list of conditions for which veterans may be awarded disability benefits if there is documentation of deployment to an area where toxic exposure events occurred. (GAO PDF, p 2)
 
-### Joint Longitudinal Viewer
+**Joint Longitudinal Viewer**
+
 "separate web application from ILER that provides DOD and VA staff (e.g., clinicians, claims benefits staff) a read-only display of a service member’s or veteran’s health data summarized from multiple integrated sources. Staff can also access ILER summary information through this application." (GAO PDF, p 3)
 
 ## Veteran Journey
@@ -54,9 +62,24 @@ As a result, the goal for OCTO is to design, develop, and deliver a way for Vete
 - clarity on what the user will access/download
 - clarity on what the user can do with the access/downloaded file
 
+**Legisltative background** 
 Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.
 Congress enacted Section 803 on August 10, 2022, as part of the PACT Act. Section 803(a) provides: “The Secretary of Veterans Affairs [VA] shall coordinate with the Secretary of Defense [DoD] to provide a means for Veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or Veteran in the [ILER].”
 Section 803(b)(1) provides that to update a record under subsection (a), a Veteran shall provide such evidence as VA considers necessary. Section 803(b)(2) requires VA to promulgate a regulation defining the “evidence considered necessary.”
+
+## Research
+
+The scope of this ticket is to engage in desk research 
+
+ to collect previous work from TKTK TKTK TKTK 
+ 
+ to learn A B C
+ 
+ to refine questions
+ 
+ to offer next steps (recommendations, next steps)
+
+ 
 
 
 # Sources
