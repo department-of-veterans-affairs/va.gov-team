@@ -57,29 +57,17 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 3.  **Evidence failure scenario included:** Confirmation page, confirmation email, evidence failure email requiring mail resubmission of a failed file.
 
 ## Key Findings
-1. Veterans’ mental models for claims processing do not map onto the VA
-timeline for electronic submission.
-
-2. Participants who conflated the submission and tracking timelines had
-mixed expectations for next steps.
-    
-3. Participants would likely download a full PDF of their claim at a
-later date, but stated they had all the claim information they
-needed on the confirmation page.
-    
-4. The “submission received” email clearly communicated the final
-submission status.
-    
-5. Most participants didn't feel a need to check the status of their submission online once it was received.
-    
-6. The happy and backup path scenarios were easy to understand–and left
-participants feeling confident that their submission was complete.
-    
-7. Participants consider digital resubmission to be the safest and
-cheapest way to send their documents.
-    
-8. Missing touchpoints leads participants to worry that something went
-    wrong with their submission.
+|  |  |  |
+|--|--|--|
+|**#** | **Research Finding** | **Do Veteran expectations match design intent?**| 
+|**1**| Veterans’ mental models for claims processing do not map onto the VA timeline for electronic submission. |Expectation different from design intent|
+|**2**| Participants who conflated the submission and tracking timelines had mixed expectations for next steps.|Expectation different from design intent|
+|**3**| Participants would likely download a full PDF of their claim at a later date, but stated they had all the claim information they needed on the confirmation page.| Generative finding|
+|**4**|The “submission received” email clearly communicated the final submission status.| Expectation matches design intent|
+|**5**| Most participants didn't feel a need to check the status of their submission online once it was received.| Generative finding|
+|**6**| The happy and backup path scenarios were easy to understand–and left participants feeling confident that their submission was complete. | Expectation matches design intent|
+|**7**| Participants consider digital resubmission to be the safest and cheapest way to send their documents.|Generative finding confirms hypothesis|
+|**8**|Missing touchpoints leads participants to worry that something went wrong with their submission.| Generative finding confirms hypothesis|
    
    <br /> 
 
