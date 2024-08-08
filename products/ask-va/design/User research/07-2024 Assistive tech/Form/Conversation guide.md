@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 29, 2024
+Last updated by @tygindraux: August 8, 2024
 
 ## Moderator logistics
 
