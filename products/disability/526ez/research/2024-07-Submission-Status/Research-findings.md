@@ -228,11 +228,39 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 
   <br /> 
 ### Additional Finding 4: Language like “date initiated” could be fine-tuned to ensure more even comprehension.
-
-- Participants had a ranging comprehension of the term intended to mark when the Veteran pressed submit.
   
-    >“The day I filed my claim, so I know when you file a claim they have, so say I was to get this, this claim was approved, I would get the compensation from that date right there…Retroactive or something like that. You know what I mean?” -P1 
+    >“The day I filed my claim, so I know when you file a claim they have, so say I was to get this, this claim was approved, I would get the compensation from that date right there…Retroactive or something like that. You know what I mean?” -P1
+    >
+    >
     >“Date initiated - I started a PACT claim - that's when I initiated it.…Hector's should say "date submitted" or we should add a field for "date submitted". Initiated and submitted are two separate things.” -P11
+
+## Recommendations
+A majority of the recommended changes are geared toward improving Veteran comprehension of the submission process. We expect to work closely with CAIA to rethink content for clarity and accessibility.
+
+### Truthful submission statuses 
+- Convey that submission is a 3 day electronic process– not immediate or human-controlled.
+- Address how earlier instances of the word “submission” could be confusing Veterans. For example, “Submit application” and loading screen promote a model of instant submission. 
+- Clarify the meaning of “date initiated.” Explore adding a date for ITF or when the application was started as a context clue.
+  
+### Clear submission timeline
+- Feature only one timeline per touchpoint to avoid confusing Veteran expectations. 
+- Explore strategies for making “next steps” clearer to Veterans– especially in the submission received email. 
+- For example, using the Claim Status Tool steps (or create our own) to outline the process.
+- 
+### Timely touchpoints 
+- Introduce email touchpoints for significant milestones in the claims process– starting with a message for when claim tracking is available on VA.gov.
+- Remove the link to the Claim Status Tool before the claim is available.
+- Rethink having two email touchpoints leading to the update that the submission is complete. If both are preserved, ensure that the confirmation email reads as a copy of claim information– not an update. 
+- Trigger the confirmation email as close to pressing submit as possible so it reads as a receipt– not an update.
+  
+### Evidence failure scenario 
+- Introduce a digital resubmission option for Veterans experiencing evidence failure. 
+- Communicate to Veterans that their mailed evidence resubmission has been received– or if it hasn’t. 
+- Review our request for evidence to see if we reduce PII needed, such as social security numbers.
+  
+### Claim record & tracking
+- Continue to explore means of providing Veterans with a full record of their claim.
+- Determine if there is a more useful ID (such as application ID) that we can provide Veterans looking to get help on their submission. 
 
 
 
