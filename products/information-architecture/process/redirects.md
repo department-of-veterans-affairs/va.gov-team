@@ -14,6 +14,15 @@ Redirects directly impact SEO and our users’ ability to find our content on VA
 It is critical that redirect requests are thoughtfully planned out, and carefully put together to ensure they are accurate and provide the best experience. 
 Redirects should be requested at least 2 weeks in advance to ensure they are properly vetted and the implementation team can plan for the work. 
 
+### Process
+1.	Create an issue using the [Redirect, URL change, or vanity URL request issue template in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) at least 2 weeks prior to desired launch date
+2.	IA will review and communicate any questions or changes, and assign over to the implementation team
+3.	Implementation team will review, size and schedule as appropriate, and notify the requesting team of any technical or timing issues.
+4.	Implementation team will implement the redirects in lower environments and validate
+5.	Requesting team and implementation team will validate redirects in production
+6.	Requesting team closes issue
+
+
 ### Responsibility of requesting team
 - Communicate to the appropriate stakeholders - both VA and internal - that the redirect will be happening, and ensure approvals are received if applicable
 - Provide a reason for the redirect, for background and documentation purposes
@@ -37,10 +46,4 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
 - Implement redirects as requested along with any redirect updates needed and validate in lower environments before moving to production
 - Communicate when redirect has been deployed to production so teams can validate
 
-### Process
-1.	Create an issue using the [Redirect, URL change, or vanity URL request issue template in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) at least 2 weeks prior to desired launch date
-2.	IA will review and communicate any questions or changes, and assign over to the implementation team
-3.	Implementation team will review, size and schedule as appropriate, and notify the requesting team of any technical or timing issues.
-4.	Implementation team will implement the redirects in lower environments and validate
-5.	Requesting team and implementation team will validate redirects in production
-6.	Requesting team closes issue
+
