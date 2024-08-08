@@ -74,15 +74,19 @@ Section 803(b)(1) provides that to update a record under subsection (a), a Veter
 
 ## Research
 
-The scope of this ticket is to engage in desk research 
+The scope of this ticket is to engage in desk research to learn:
+- the Congressional mandates driving this initiative to provide ILER access to Veterans
+- what content from the ILER system we can reliably provide to Veterans
+- how Veterans think of ILER information and how they interact with it
+- what value Veterans see in the ILER information and what they do with it (what does it enable them to do)
+- what has previously been discussed and workshopped with stakeholders
 
- to collect previous work from TKTK TKTK TKTK 
+The goal of this ticket is to, based on the learnings above, offer:
+- next steps
+- recommendatons
  
- to learn A B C
+
  
- to refine questions
- 
- to offer next steps (recommendations, next steps)
 
  
 
