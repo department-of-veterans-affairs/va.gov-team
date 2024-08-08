@@ -8,11 +8,11 @@ Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
 Veterans don’t have timely and truthful information about their submission after they press “submit.” For example, Veterans shared that they expected to receive a confirmation email as soon as they hit “submit,” instead of 1-2 days later. This mismatch of expectations and reality could lead to Veteran distrust and confusion that must be addressed.
 
--   Research Goal 1: Evaluate how effectively the submission model sets clear expectations for claim submission timeline.
+-   **Research Goal 1:** Evaluate how effectively the submission model sets clear expectations for claim submission timeline.
     
--   Research Goal 2: Evaluate if submission touchpoints are timely and useful for Veterans.
+-   **Research Goal 2:** Evaluate if submission touchpoints are timely and useful for Veterans.
     
--   Research Goal 3: Generate ideas for the next design milestone to improve the claim record.
+-   **Research Goal 3:** Generate ideas for the next design milestone to improve the claim record.
     
 
 The research study assessed the clarity of the proposed changes to submission statuses and timeline to see if Veterans have accurate expectations in the days following submission.
@@ -58,26 +58,25 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 
 ## Key Findings
 1. Veterans’ mental models for claims processing do not map onto the VA
-    timeline for electronic submission.
+timeline for electronic submission.
 
 2. Participants who conflated the submission and tracking timelines had
-    mixed expectations for next steps.
+mixed expectations for next steps.
     
 3. Participants would likely download a full PDF of their claim at a
-    later date, but stated they had all the claim information they
-    needed on the confirmation page.
+later date, but stated they had all the claim information they
+needed on the confirmation page.
     
 4. The “submission received” email clearly communicated the final
-    submission status.
+submission status.
     
-5. Most participants didn't feel a need to check the status of their
-    submission online once it was received.
+5. Most participants didn't feel a need to check the status of their submission online once it was received.
     
 6. The happy and backup path scenarios were easy to understand–and left
-    participants feeling confident that their submission was complete.
+participants feeling confident that their submission was complete.
     
 7. Participants consider digital resubmission to be the safest and
-    cheapest way to send their documents.
+cheapest way to send their documents.
     
 8. Missing touchpoints leads participants to worry that something went
     wrong with their submission.
@@ -87,15 +86,12 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 ### Finding 1: Veterans’ mental models for claims processing do not map onto the VA electronic submission timeline.
    
 - Half of participants presumed that submission was a human-driven process that involved VSRs long before their submission was in the eFolder.
-   
-> “So he just submitted the claim and whoever will be processing
->               their claim, they need time to check. And then there will be a
->               lot of claims they have to go through. So for them it's like
->               three days to receive and start the claim.” -P2
+
+  > “So he just submitted the claim and whoever will be processing their claim, they need time to check. And then there will be a lot of claims they have to go through. So for them it's like three days to receive and start the claim.” -P2
 
 - In addition, participants expect electronic submission to happen instantaneously– not over 3 days. The loading screen may have contributed to this perception, as 6 out of 8 participants thought their application was being “uploaded” on the loading screen. 
 
-> “My submission's done, like I submitted it. I hit submit. I can imagine me and the other 20 people that might be doing this we'll say, what do you mean it's taking three days for you to receive it? You just told me you got it….It doesn't take 3 days for electrons to travel. I don't understand why the electronic system didn't just receive, validate, and say it was received. What it does in-house is different than what I see here.” -P5Blockquote
+    > “My submission's done, like I submitted it. I hit submit. I can imagine me and the other 20 people that might be doing this we'll say, what do you mean it's taking three days for you to receive it? You just told me you got it….It doesn't take 3 days for electrons to travel. I don't understand why the electronic system didn't just receive, validate, and say it was received. What it does in-house is different than what I see here.” -P5Blockquote
 
 
     
@@ -105,9 +101,9 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
     
 - The confirmation page and email outlined two separate timelines: Submission (3 days) and Online Tracking (7-10 days). A majority of confusion originated from the email, since only 3 participants opened the “How Can I Check the Status” accordion on the confirmation page. 4 of 8 participants had inaccurate expectations of when their submission would be received.  
 
-> “Well, within 13 days you'll find something, because it takes three days to apply for it to appear online. 10 days to have a decision. So within two weeks you should hear something.” -P8
-> 
-> “Confusing. Up here you say 3 days. Down here you say 7-10 days…. This is electronic. Why does it take 3 days? You're saying it takes 10 days to get an update. Just leave it at 10 days, I'm fine with that. Some sticklers are anal retentive. You told me 3 then 10.” -P1
+    > “Well, within 13 days you'll find something, because it takes three days to apply for it to appear online. 10 days to have a decision. So within two weeks you should hear something.” -P8
+    > 
+    > “Confusing. Up here you say 3 days. Down here you say 7-10 days…. This is electronic. Why does it take 3 days? You're saying it takes 10 days to get an update. Just leave it at 10 days, I'm fine with that. Some sticklers are anal retentive. You told me 3 then 10.” -P1
 
 
 
@@ -115,16 +111,12 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
     
 - All participants said they would digitally save or print a copy of their confirmation page using the “print this page” button or a screenshot of the blue box.
 
-> “Date initiated, conditions filed for, claim ID number. That's short,
-> sweet, and simple.” -P1
->      “Yes, I think so. Especially the blue box, 'cause the date and then the claim ID number just in case anything the documents get lost
-> and I have a reference to go to... I'll screenshot it and then I'll
-> just store it in my iCloud or Google doc in the documents where I save
-> usually for my stuff.” -P2
+    > “Date initiated, conditions filed for, claim ID number. That's short,sweet, and simple.” -P1
+    >“Yes, I think so. Especially the blue box, 'cause the date and then the claim ID number just in case anything the documents get lost and I have a reference to go to... I'll screenshot it and then I'll just store it in my iCloud or Google doc in the documents where I save usually for my stuff.” -P2
 
 - Participants who were interested in the opportunity to download later thought it could be useful if something went wrong– but wonder where they would expect to find it on VA.gov.
     
-> “Now if I want to go back, should I be able to print it out again, I'd say yes. Once I leave this page, I'm not sure if it's viewable again at a later date. -P1
+    > “Now if I want to go back, should I be able to print it out again, I'd say yes. Once I leave this page, I'm not sure if it's viewable again at a later date. -P1
 
 
  ### Finding 4: The final “received” email clearly communicated the final submission status and clarified next steps.
