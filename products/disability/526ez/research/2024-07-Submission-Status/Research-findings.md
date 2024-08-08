@@ -104,6 +104,9 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
     > “Well, within 13 days you'll find something, because it takes three days to apply for it to appear online. 10 days to have a decision. So within two weeks you should hear something.” -P8
     > 
     > “Confusing. Up here you say 3 days. Down here you say 7-10 days…. This is electronic. Why does it take 3 days? You're saying it takes 10 days to get an update. Just leave it at 10 days, I'm fine with that. Some sticklers are anal retentive. You told me 3 then 10.” -P1
+<img width="200" alt="Screenshot 2024-08-02 at 12 03 19 PM" src="https://github.com/user-attachments/assets/4d312252-2ce3-4456-a244-6c0ec39513ae">
+Two timelines on the confirmation email. 
+
 
 <br /> 
 
@@ -130,7 +133,8 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
     > [Confirmation page] “I'm assuming that an intake team has received this in some intake inbox.”
     >     
     > [Received email] “They've received my claim… That [intake team] has to hand it off in an imaginary world to an initial reviewing team to check that everything they need to get this to a claims person - the name, the social, everything on the form was accurate.”
-    >
+    
+
 <br /> 
 
  ### Finding 5: Most participants didn't feel a need to check the status of their submission online once it was received.
