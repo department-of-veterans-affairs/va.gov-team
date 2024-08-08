@@ -47,9 +47,8 @@ All of the following must be true:
 - has not been sent to the primary path (no `submitted_claim_id`)
 - has not been sent to the backup path (no `backup_submitted_claim_id`)
 - is less than the `MAX_PENDING_TIME` old
-- cannot be considered `remediated` (this would be a success type indictor)
+- cannot be considered `remediated` (this would be a success type indicator)
 - cannot be considered `with_exhausted_backup_jobs` (this would be a failure type indicator)
-
 
 ### accepted_to_primary_path
 
@@ -124,7 +123,9 @@ All of the following must be true
 
 ### with_exhausted_backup_jobs
 All of the following must be true
-- has no `submitted_claim_id`
+- has no `backup_submitted_claim_id`
 - has at least 1 associated instance of `Form526JobStatus` with
   - a failure type state (`exhausted` or `non_retryable_error`)
   - a `job_class` of `BackupSubmission`
+ 
+NOTE: It's reasonable to assume that any submission in this scope *also* has exhausted primary jobs, however they are logically distinct and therefor we **do not care about `submitted_claim_id` presence or absence.
