@@ -1,7 +1,7 @@
 # VA Forms Library - How to create the contact info Array Data (aka List Loop)
 
 Before you get started, it’s helpful to know how to work with Array Data. For more information, see:
-https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Forms-Library---How-to-work-with-Array-Data-(aka-List-Loops).2101805082.html
+[VA Forms Library - How to work with Array Data (aka List Loops)](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Forms-Library---How-to-work-with-Array-Data-(aka-List-Loops).2101805082.html)
 
 <hr>
 
