@@ -5,7 +5,7 @@
 | 1.0 | Joe Niquette | 08/08/24 | Initial creation, this document formally acknowledges approval by the PR approval of Thomas Black. |
 
 ## Background
-This document addresses the current policy of user authentication via a PIV or CAC on VA.gov and other VA.gov authentication supported applications.
+This document addresses the current policy of user authentication via a PIV or CAC on VA.gov and other VA.gov authentication supported applications. It is the intent of VA.gov to service Veterans and their beneficiaries and not service internal VA employees.
 
 ### Scope
 The scope of this policy applies to applications that utilize the VA.gov Unified Sign in Page or modal. Users in scope of this policy include Veterans and their beneficiaries.
