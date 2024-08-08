@@ -1,14 +1,14 @@
 # Research Plan for ARM Team, Appoint a Representative - Cross-Accredited VSOR - User Test, 08/2024
 
 
-# Background
+## Background
 
 Create a high-quality accessible service or suite of services within VA.gov to serve Veterans in finding and managing their accredited representatives (Power of Attorney (POA)) and to support the deprecation of the legacy system used to take those actions.
 
 [Link to product brief.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/9c884d56087c31b9422840cc233009d12e870b9b/products/accredited-representation-management/product-outline.md)
 
 
-## OCTO Priorities
+### OCTO Priorities
 
 **Objective 1:** Our digital experiences are the best way to access VA health care and benefits.
 
@@ -19,16 +19,16 @@ Create a high-quality accessible service or suite of services within VA.gov to s
 [2024 OCTO Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md)
 
 
-## Veteran Journey
+### Veteran Journey
 
 Veterans, their family members, and caregivers can get the help of a representative at any point in the journey where they are submitting claims. Such as; starting up, taking care of myself, retiring, and aging.
 
 Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) for reference.
 
 
-# Research Overview
+## Research Overview
 
-## Goals
+### Goals
 
 - Understand how cross-accredited VSO representatives (VSORs) intake and process power of attorney (POA).
 
@@ -37,16 +37,16 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 - _Stretch goal:_ Gather feedback on Find a Representative from VSORs.
 
 
-## Outcome
+### Outcome
 
 - Information on how cross-accredited VSORs intake and process POA will inform how Find and Appoint a Representative tools will present VSOs for Veteran selection as well as the Accredited Representative Portal (ARP).
 
 - User testing will inform adjustments to the Find and Appoint a Representative flows to improve usability.
 
 
-## Research questions
+### Research questions
 
-### General
+#### General
 
 1. How and why did the VSOR decide to become cross-accredited?
 
@@ -59,7 +59,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 4. How do VSORs interpret VA processes and terms such as certifying officials and OGC?
 
 
-### POA specific
+#### POA specific
 
 1. How does the VSOR fill out the 21-22 today?
 
@@ -76,7 +76,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 5. What technology do VSORs use to process POA?
 
 
-### Appoint a Representative prototype
+#### Appoint a Representative prototype
 
 1. Would the VSOR adopt the digital form? Why or why not?
 
@@ -91,7 +91,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 5. Any feedback on the representative search and selection process? Including organization selection.
 
 
-### Find a Representative prototype
+#### Find a Representative prototype
 
 1. Would the VSOR adopt the search tool? Why or why not?
 
@@ -102,7 +102,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 4. How would the VSOR expect outdated information managed?
 
 
-## Hypothesis
+### Hypothesis
 
 1. Cross-accredited VSORs will have unique needs with their processes, including POA.
 
@@ -111,37 +111,37 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 3. VSORs will be able to easily navigate through our form through tested patterns and informative content.
 
 
-# Methodology
+## Methodology
 
 - **Interview /** The moderator will ask the VSOR a short series of questions to understand processes related to being cross-accredited, with a special focus on POA.
 
 - **Usability testing** / Users will be asked to engage with a prototype to test usability, understandability of content, and desirability of features.
 
 
-## Location
+### Location
 
 Remote on Zoom
 
 
-## Research materials
+### Research materials
 
-- Link to conversation guide
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-08-ARM-appointarep-crossaccreditedVSOR-usertest/conversation-guide.md)
 
 - [Link to mobile prototype](https://www.figma.com/proto/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?page-id=5138%3A420728\&node-id=3717-80885\&viewport=5767%2C-727%2C0.25\&t=Fn7TVItVwho3bTQC-8\&scaling=min-zoom\&content-scaling=fixed\&starting-point-node-id=3717%3A80893\&hide-ui=1)
 
 - [Link to desktop prototype](https://www.figma.com/proto/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?page-id=5138%3A420728\&node-id=3717-80753\&viewport=-1626%2C-663%2C0.25\&t=VntcwmSH5Src32pt-8\&scaling=min-zoom\&content-scaling=fixed\&starting-point-node-id=3717%3A80744\&hide-ui=1)
 
 
-# Recruitment
+## Recruitment
 
-## Recruitment approach
+### Recruitment approach
 
 Our target audience are 6 - 8 VSORs who are cross-accredited with multiple VSOs and support Veterans with POA. As well as a split between in-person, hybrid, and remote participants.
 
 
-## Recruitment criteria
+### Recruitment criteria
 
-### Primary criteria
+#### Primary criteria
 
 - Accredited through multiple organizations.
 
@@ -150,7 +150,7 @@ Our target audience are 6 - 8 VSORs who are cross-accredited with multiple VSOs 
 - **2 each/** Mixture of in-person, hybrid, and remote participants.
 
 
-### Secondary criteria
+#### Secondary criteria
 
 - Mixture of Veterans and non-Veterans.
 
@@ -159,7 +159,7 @@ Our target audience are 6 - 8 VSORs who are cross-accredited with multiple VSOs 
 - Mixture of geographic locations and offices.
 
 
-### Screener questions
+#### Screener questions
 
 1. What is your current job title? \[Open response field]
 
@@ -184,7 +184,7 @@ Our target audience are 6 - 8 VSORs who are cross-accredited with multiple VSOs 
 5. Do you use any assistive technology when operating a computer or mobile device, such as a screen reader? \[Open response field]
 
 
-### Step 1: Initial outreach email
+#### Step 1: Initial outreach email
 
 **Subject**: \[Reminder:] Give feedback to VA
 
@@ -265,7 +265,7 @@ VA.gov User Experience Researcher
 Office of the Chief Technology Officer
 
 
-### Step 2: Sign-up auto reply 
+#### Step 2: Sign-up auto reply 
 
 **Subject**: Your upcoming VA feedback session
 
@@ -292,7 +292,7 @@ VA.gov User Experience Researcher
 Office of the Chief Technology Officer
 
 
-### Step 3: Day before confirmation 
+#### Step 3: Day before confirmation 
 
 **Subject**: Reminder about your upcoming VA feedback session
 
@@ -321,7 +321,7 @@ Office of the Chief Technology Officer
  
 
 
-### Step 4: Wrap-up and thank you
+#### Step 4: Wrap-up and thank you
 
 **Subject**: Your feedback session - thank you!
 
@@ -356,7 +356,7 @@ Office of the Chief Technology Officer
 _You may hear from us in the future about other opportunities to provide feedback. If you do not wish to participate in any other sessions, let us know and we’ll remove you from our recruitment list._ 
 
 
-# Timeline
+## Timeline
 
 - [ ] 07/31 / Submit for team and [#benefits-vso-research](https://dsva.slack.com/archives/C07CXMZ995W) feedback
 
@@ -377,7 +377,7 @@ Timeline is an estimation and will be updated as dependencies clear. Some depend
 - Recruitment
 
 
-## Length of sessions
+### Length of sessions
 
 - Session length: 60-minutes
 
@@ -386,14 +386,14 @@ Timeline is an estimation and will be updated as dependencies clear. Some depend
 - Maximum Sessions per day: 2 per day
 
 
-## Availability
+### Availability
 
 - Monday - Friday 10 AM – 4 PM EST
 
   - Unavailable 8/14 after 1PM EST, and 8/20 after 1 PM EST
 
 
-# Team Roles
+## Team Roles
 
 - **\*Moderator:** Janelle Finnerty, 248-303-2329, janelle.finnerty\@oddball.io
 
