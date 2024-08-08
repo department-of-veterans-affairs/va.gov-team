@@ -98,17 +98,14 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 ### Finding 2: Participants who conflated the submission and tracking timelines had mixed expectations for next steps.
     
 - The confirmation page and email outlined two separate timelines: Submission (3 days) and Online Tracking (7-10 days).
+- <img width="809" alt="Screenshot 2024-08-08 at 1 22 47 PM" src="https://github.com/user-attachments/assets/e39e8d95-b91e-48ea-a6a7-f05f63711f16">
+
 - A majority of confusion originated from the email, since only 3 participants opened the “How Can I Check the Status” accordion on the confirmation page.
 - 4 of 8 participants had inaccurate expectations of when their submission would be received.  
 
     > “Well, within 13 days you'll find something, because it takes three days to apply for it to appear online. 10 days to have a decision. So within two weeks you should hear something.” -P8
     > 
     > “Confusing. Up here you say 3 days. Down here you say 7-10 days…. This is electronic. Why does it take 3 days? You're saying it takes 10 days to get an update. Just leave it at 10 days, I'm fine with that. Some sticklers are anal retentive. You told me 3 then 10.” -P1
-
-<br />
-<img width="600" alt="Screenshot 2024-08-08 at 1 16 17 PM" src="https://github.com/user-attachments/assets/63487af8-0f88-48ff-a184-29b1aa421a2d">
-<br />
-Two timelines on the confirmation email. 
 
 
 <br /> 
@@ -147,6 +144,10 @@ Two timelines on the confirmation email.
     > “I could check it and it'll just tell me that it's been received, so I would not even check right then, I would give it some time, you know. I would actually probably wait at least a business week…It tells me at the bottom I would wait 7 -10 business days for my claim to appear online.” -P4
 
     > “I would try now and then again every day since then because I have a link to it. ” -P2
+
+<img width="731" alt="Screenshot 2024-08-08 at 1 21 33 PM" src="https://github.com/user-attachments/assets/e99d7b0b-0fff-4f57-8e3a-29134810bb20">
+
+**Link to track claim on Claim Status Tool - "received" email.**
 
 
 <br /> 
