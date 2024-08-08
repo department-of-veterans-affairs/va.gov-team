@@ -23,8 +23,10 @@ In the days after applying, give Veterans timely and truthful information about 
 -   New confirmation page with only one state for all submission scenarios (previously 3 states)
     
 -   Content changes submission received email
+
+<img width="874" alt="Screenshot 2024-08-08 at 1 28 23 PM" src="https://github.com/user-attachments/assets/adf99b22-1edf-4a3f-9fc5-eb73c169c13d">
+
     
- 
 ## Research Goals
 The research study assessed the clarity of the proposed changes to submission statuses and timeline to see if Veterans have accurate expectations in the days following submission.
 
@@ -90,10 +92,10 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 
     > “My submission's done, like I submitted it. I hit submit. I can imagine me and the other 20 people that might be doing this we'll say, what do you mean it's taking three days for you to receive it? You just told me you got it….It doesn't take 3 days for electrons to travel. I don't understand why the electronic system didn't just receive, validate, and say it was received. What it does in-house is different than what I see here.” -P5
 
+ <img width="941" alt="Screenshot 2024-08-08 at 1 26 07 PM" src="https://github.com/user-attachments/assets/d40fd958-8f36-4db2-abdb-2fd215790a76">
+
 
 <br /> 
-
-
 
 ### Finding 2: Participants who conflated the submission and tracking timelines had mixed expectations for next steps.
     
@@ -120,6 +122,10 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 - Participants who were interested in the opportunity to download later thought it could be useful if something went wrong– but wonder where they would expect to find it on VA.gov.
     
     > “Now if I want to go back, should I be able to print it out again, I'd say yes. Once I leave this page, I'm not sure if it's viewable again at a later date. -P1
+
+<img width="786" alt="Screenshot 2024-08-08 at 1 30 09 PM" src="https://github.com/user-attachments/assets/a3c08f38-411f-41f2-aeb9-088cbfabd10a">
+
+  
 <br /> 
 
  ### Finding 4: The final “received” email clearly communicated the final submission status and clarified next steps.
@@ -146,9 +152,6 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
     > “I would try now and then again every day since then because I have a link to it. ” -P2
 
 <img width="731" alt="Screenshot 2024-08-08 at 1 21 33 PM" src="https://github.com/user-attachments/assets/e99d7b0b-0fff-4f57-8e3a-29134810bb20">
-
-**Link to track claim on Claim Status Tool - "received" email.**
-
 
 <br /> 
 
@@ -177,7 +180,7 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
     > 
     > “Not sure why we don't give an option to just do online again, which is the safest and quickest way to transmit something. Kicking us to USPS mail or whatever form of getting the mail to you now turns into a whole different process for a Veteran, cost associated with it.” -P11  
       
-- Sometimes, a VA documentation request is a pain point that never gets resolved. P8 shared that she never resubmitted documentation for her claim, while P1 spoke to the frustration a fellow Veteran experienced trying to send material VA already was supposed to have.  
+- Sometimes, a VA documentation request is a pain point that never gets resolved. P8 shared that she never resubmitted documentation for her claim, while P1 spoke to the frustration a fellow Veteran experienced trying to send material VA already was supposed to have. 
 
   <br /> 
 
