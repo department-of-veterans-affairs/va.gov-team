@@ -56,6 +56,8 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
     
 3.  **Evidence failure scenario included:** Confirmation page, confirmation email, evidence failure email requiring mail resubmission of a failed file.
 
+<br /> 
+
 ## Key Findings
 1. Veterans’ mental models for claims processing do not map onto the VA
 timeline for electronic submission.
@@ -80,6 +82,8 @@ cheapest way to send their documents.
     
 8. Missing touchpoints leads participants to worry that something went
     wrong with their submission.
+   
+   <br /> 
 
 ## Detail of Key Findings
     
@@ -94,7 +98,8 @@ cheapest way to send their documents.
     > “My submission's done, like I submitted it. I hit submit. I can imagine me and the other 20 people that might be doing this we'll say, what do you mean it's taking three days for you to receive it? You just told me you got it….It doesn't take 3 days for electrons to travel. I don't understand why the electronic system didn't just receive, validate, and say it was received. What it does in-house is different than what I see here.” -P5Blockquote
 
 
-    
+<br /> 
+
 
 
 ### Finding 2: Participants who conflated the submission and tracking timelines had mixed expectations for next steps.
@@ -107,7 +112,7 @@ cheapest way to send their documents.
     > 
     > “Confusing. Up here you say 3 days. Down here you say 7-10 days…. This is electronic. Why does it take 3 days? You're saying it takes 10 days to get an update. Just leave it at 10 days, I'm fine with that. Some sticklers are anal retentive. You told me 3 then 10.” -P1
 
-
+<br /> 
 
 ### Finding 3: Participants would likely download a full PDF of their claim for their records if it were available at a later date.
     
@@ -119,7 +124,7 @@ cheapest way to send their documents.
 - Participants who were interested in the opportunity to download later thought it could be useful if something went wrong– but wonder where they would expect to find it on VA.gov.
     
     > “Now if I want to go back, should I be able to print it out again, I'd say yes. Once I leave this page, I'm not sure if it's viewable again at a later date. -P1
-
+<br /> 
 
  ### Finding 4: The final “received” email clearly communicated the final submission status and clarified next steps.
     
@@ -133,7 +138,7 @@ cheapest way to send their documents.
     >     
     > [Received email] “They've received my claim… That [intake team] has to hand it off in an imaginary world to an initial reviewing team to check that everything they need to get this to a claims person - the name, the social, everything on the form was accurate.”
     >
-
+<br /> 
 
  ### Finding 5: Most participants didn't feel a need to check the status of their submission online once it was received.
 - 5 out of 8 participants wouldn't expect an update given the 7-10 day timeline for online tracking; others felt like they already had the most up-to-date status in their email.
@@ -142,12 +147,13 @@ cheapest way to send their documents.
     > “I could check it and it'll just tell me that it's been received, so I would not even check right then, I would give it some time, you know. I would actually probably wait at least a business week…It tells me at the bottom I would wait 7 -10 business days for my claim to appear online.” -P4
 
     > “I would try now and then again every day since then because I have a link to it. ” -P2
->
-> 
+
+
+<br /> 
 
 ### Finding 6:  The happy and backup path scenarios were easy to understand–and left participants feeling confident that their submission was complete.
     
-- At the end of each scenario, we asked participants two questions about the overall experience.
+- At the end of each scenario, we asked participants two questions about the submission experience. Early confusion and mixed expectations on the happy path did not have a high impact on ratings overall. 
 
      - On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?
 
@@ -157,6 +163,7 @@ cheapest way to send their documents.
     > 
     >  *Confidence:* “5, very confident. As soon as I submitted, I got an email saying it was submitted. Then another email saying it was received. It's very proactive on the VA's part.” -P1
 
+<br /> 
 
 ### Finding 7: Participants consider digital resubmission to be the safest and cheapest way to send their documents. They are frustrated that snail mail is their only option.
     
@@ -168,7 +175,7 @@ cheapest way to send their documents.
       
 - Sometimes, a VA documentation request is a pain point that never gets resolved. P8 shared that she never resubmitted documentation for her claim, while P1 spoke to the frustration a fellow Veteran experienced trying to send material VA already was supposed to have.  
 
-  
+  <br /> 
 
 ### Finding 8: Missing touchpoints lead participants to worry that something went wrong – and call the Contact Center.
     
@@ -186,5 +193,5 @@ cheapest way to send their documents.
     >“I would somewhat think: " "why is it still saying it takes 3 days? I did it a week ago."" It's very slow. and it seems weird. Is there a delay in the system somewhere.” -P1
     
 
-
+<br /> 
     
