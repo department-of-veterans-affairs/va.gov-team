@@ -3,7 +3,7 @@
 As of Nov 2023, Oracle acquired Cerner. Cerner is now Oracle Health.
 
 ## Scope of release
-Initiative brief: [Initiative: Healthcare react widgets consume facility/system data from CMS instead of hard-coded array](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
+Initiative brief: [Initiative: Healthcare react widgets consume facility/system data from CMS instead of hard-coded array](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/cta-widget/initiatives/cms-source-of-truth/initiative-brief.md)
 
 This is a backend data change that should remain invisible to site users. 
 

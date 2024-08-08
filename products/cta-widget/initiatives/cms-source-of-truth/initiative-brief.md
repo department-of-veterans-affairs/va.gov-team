@@ -6,14 +6,14 @@ NOTE: As of Nov 2023, Oracle has acquired Cerner, and Cerner is now Oracle Healt
 
 This is a purely technical change, with no change to the user experience.
 
-The CSWs look at the facilities that a user is associated with and then provide buttons that direct the user to either VistA or Oracle Health (formerly Cerner), as appropriate per facility/system. The MVP implementation of the CSWs used a hard-coded array in the `index.js` file to associate specific VA systems/locations with Oracle Health. In this iteration, the Drupal CMS provides the data object associating medical systems with either Oracle Health or VistA.
+The CTA widgets check the facilities that a user is associated with and then provide buttons that direct the user to either VistA or Oracle Health (formerly Cerner), as appropriate per facility/system. The MVP implementation of the CTA Widget used a hard-coded array in the `index.js` file to associate specific VA systems/locations with Oracle Health. In this iteration, the Drupal CMS provides the data object associating medical systems with either Oracle Health or VistA.
 
 ## Outcome Summary
 
 When we're successful, across all experiences on VA.gov related to Oracle Health/VistA, cutting a system/facility over to Oracle Health will be a matter of configuration (in Drupal) rather than a code change that has to be deployed to reach users. 
 
 **Related/Associated product(s)**
-- Healthcare React Widgets | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/product-outline.md)
+- CTA widget | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/cta-widget/product-outline.md)
 
 
 ## Discovery

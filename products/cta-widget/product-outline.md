@@ -76,7 +76,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Initiatives
 
-- Externalize the list of Oracle Health facilities | [CMS Source of Truth iteration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Cerner-Support/cms-source-of-truth/initiative-brief.md)
+- Externalize the list of Oracle Health facilities | [CMS Source of Truth iteration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/cta-widget/initiatives/cms-source-of-truth/initiative-brief.md)
 
 --- 
 
