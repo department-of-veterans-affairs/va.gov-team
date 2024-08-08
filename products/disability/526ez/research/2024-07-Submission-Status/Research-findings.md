@@ -235,13 +235,15 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 ### Additional Finding 3: Visual hierarchy and more precise language would help clarify “next steps.”
 - **Be precise about days:**“Now, if it's business days, it should say business days….I'm also not a fan of it saying ASAP because everything at VA has a time nexus. Almost always with VA, there was a "you need to do it by this date. Claims at the VA are like the milk in your fridge or your bread. Claims at the VA have an expiration date whether you know it or not." -P11
    <br /> 
-- **Visualize next steps:**"[The Claim Status Tool page] is more visualized, it's easier to understand. Definitely. In the green box it says in progress. So I'm like a little bit relieved that it's on the process and they receive the claim. Then, Step 1 out of 5. So I kind of know where I'm at and see what is gonna happen next.” -P2      
+- **Visualize next steps:**"[The Claim Status Tool page] is more visualized, it's easier to understand. Definitely. In the green box it says in progress. So I'm like a little bit relieved that it's on the process and they receive the claim. Then, Step 1 out of 5. So I kind of know where I'm at and see what is gonna happen next.” -P2
+
+<img width="641" alt="Screenshot 2024-08-08 at 1 33 17 PM" src="https://github.com/user-attachments/assets/d648bcd8-9362-43f0-9878-35c2c216d68b">
+
 
   <br /> 
 ### Additional Finding 4: Language like “date initiated” could be fine-tuned to ensure more even comprehension.
   
     >“The day I filed my claim, so I know when you file a claim they have, so say I was to get this, this claim was approved, I would get the compensation from that date right there…Retroactive or something like that. You know what I mean?” -P1
-    >
     >
     >“Date initiated - I started a PACT claim - that's when I initiated it.…Hector's should say "date submitted" or we should add a field for "date submitted". Initiated and submitted are two separate things.” -P11
 
