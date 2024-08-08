@@ -52,7 +52,7 @@
     - 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008) 
 - **Upcoming Appointments**
     - **Sprint Goal is to update wireframes based on Midpoint Review feedback and finish backend integration work**
-    - 🟥 [[Design] Finalize appt detail pages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
+    - 🟥 [[Design] Finalize appt detail pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
     - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
       - 🟥 (Points accounted for in 89598) [Midpoint Review - Design Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89478)
       - 🟥 (Points accounted for in 89598) [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
@@ -60,7 +60,7 @@
     - 🟩 [[FE] SPIKE - discover all the possible values for the 'kind' field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89876)
     - 🟩 [[FE] Link to New Upcoming Appointments Page for Day-of and Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
     - **Sprint Goal is to look at options for implementing tabs in design**
-    - 🟥 [[Design] Discovery/design work for implementing tabs for upcoming appts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90077)
+    - ✔️ 🟥 [[Design] Discovery/design work for implementing tabs for upcoming appts](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90077)
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to complete the Staging Review, if possible**
     - ~🟪 Schedule and Attend Staging Review~
@@ -81,9 +81,9 @@
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76038)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
 - **Tech Debt**
-    - 🟥 [[FE] Check body styles on appt detail page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90154)
+    - 🟩 [[FE] Check body styles on appt detail page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90154)
         - Pulled in after planning
-    - 🟥 [[Design] Update medication review info and/or manage appointment links ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90043)
+    - ✔️ 🟥 [[Design] Update medication review info and/or manage appointment links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90043)
     - 🟦 [[BE] Investigate sentry errors being thrown by check-in controllers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89085)
     - 🟦 [[BE] Investigate issues with travel claims submission through check-in vets-api code in Staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89350)
     - 🟦 [[BE] Handle 401s from LoROTA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90099)
