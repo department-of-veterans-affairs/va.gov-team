@@ -13,6 +13,7 @@ DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
      - Tools should use a brief plain language phrase as the [CTA]. For example, [to refill prescriptions] or [to check your claim status]. Work with Sitewide CAIA team to decide on a CTA for your tool.
 
 ## Sign-in alerts — ready to implement
+**Design note:** For all sign-in alerts, use blue info alert style with a lock icon.
 
 ### Standard sign-in alert (for all tools and forms that require sign-in with a verified account)
 
@@ -44,6 +45,7 @@ After you sign in, we’ll tell you if you need to verify your identity.
 [text link] Start your form without signing in
 
 ## Verification alerts — ready to implement
+**Design note:** For all verification alerts, use yellow warning alert style with a lock icon.
 
 ### Verify alert for LOA1/IAL1 Login.gov and ID.me accounts
 
