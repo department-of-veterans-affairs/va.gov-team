@@ -43,6 +43,9 @@ The primary stakeholder on this initiative is the Veterans Experience Office (VE
 
 "separate web application from ILER that provides DOD and VA staff (e.g., clinicians, claims benefits staff) a read-only display of a service member’s or veteran’s health data summarized from multiple integrated sources. Staff can also access ILER summary information through this application." (GAO PDF, p 3)
 
+**Toxic Exposure Risk Activity (TERA)**
+https://www.va.gov/HEALTHBENEFITS/resources/publications/10-1745_Toxic-exposed-Veterans.pdf and https://www.publichealth.va.gov/exposures/ LOOK UP FOR DETAILS
+
 ## Veteran Journey
 
 Where does your product fit into the Veteran journey? Are there moments that matter? Key moments this research touches in the Veteran journey are:
@@ -86,7 +89,8 @@ The goal of this ticket is to, based on the learnings above, offer:
 - recommendatons
 
 
-**Data and Data Quality**
+**Data Quality and Implications for Design**
+
 
 
 
@@ -99,9 +103,21 @@ or hazards to qualify
 for healthcare  benefits 
 or compensation 
 benefits under pact" -- from Mural
+(toxic 
+exposure 
+risk 
+activity )
+
+"VEO isn't sure how 
+veterans learned 
+about the PDF 
+access to ILER, their 
+initial research 
+veterans had no 
+clue what it was"
 
  
-
+MENTAL MODELS: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md
  
 
 
