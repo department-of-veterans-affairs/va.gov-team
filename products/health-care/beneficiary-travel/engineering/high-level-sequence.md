@@ -346,9 +346,3 @@ sequenceDiagram
     note over sidekiq: could also send email/text using VA Notify
     sidekiq -> postgres: updates with status (could be deletion)
 ```
-
-
-### Alt creation flow 
-
-
-> This could be viable if we don't care claims getting
