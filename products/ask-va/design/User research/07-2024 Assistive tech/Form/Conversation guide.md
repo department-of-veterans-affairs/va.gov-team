@@ -170,7 +170,7 @@ Next, I'm going to share a link to the test website.
    
 </details>
 
-> Opens staging.
+> Opens staging. On the dashboard.
 
 ## Dashboard (10 minutes)
 
