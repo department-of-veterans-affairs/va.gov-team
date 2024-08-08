@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: June 26, 2024
+Last updated by @tygindraux: August 8, 2024
 
 This document is for our design team to communicate field rules.
 
