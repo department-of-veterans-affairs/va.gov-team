@@ -100,7 +100,7 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 ### Finding 2: Participants who conflated the submission and tracking timelines had mixed expectations for next steps.
     
 - The confirmation page and email outlined two separate timelines: Submission (3 days) and Online Tracking (7-10 days).
-- <img width="809" alt="Screenshot 2024-08-08 at 1 22 47 PM" src="https://github.com/user-attachments/assets/e39e8d95-b91e-48ea-a6a7-f05f63711f16">
+ <img width="809" alt="Screenshot 2024-08-08 at 1 22 47 PM" src="https://github.com/user-attachments/assets/e39e8d95-b91e-48ea-a6a7-f05f63711f16">
 
 - A majority of confusion originated from the email, since only 3 participants opened the “How Can I Check the Status” accordion on the confirmation page.
 - 4 of 8 participants had inaccurate expectations of when their submission would be received.  
