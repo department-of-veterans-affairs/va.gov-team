@@ -199,4 +199,41 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 |**2**| Participants saw email touchpoints as a welcome, new way to receive submission updates from VA. |Expectation matches design intent|
 |**3**| Language like “date initiated” could be fine-tuned to ensure more even comprehension.| Expectation differs from design intent|
 |**4**|Visual hierarchy and more precise language would help clarify “next steps.”|Expectation differs from design intent|
+
+### Additional Finding 1: Across scenarios, participants understood when they needed to take action– and when none was required. 
+- Participants accurately understood that no action was required on the happy path. In the evidence failure scenario, all participants understood that action was required to complete their submission. 
+- However, many thought that VA was requesting new information or that there was a problem with the file itself rather than a backend system issue. Participants did not think it would be challenging to find the correct file if asked to resubmit.
+  
+    > “Before I would create an application online, I would put everything sorted into - have it named in a file folder called "tinnitus." And that way it would be easy to find what I submitted to them. I would just print it off from there. -P10
+    > 
+    > “I'm a computer guy's nightmare. I keep everything on my desktop. I'd look for the filename and print it out. Look over it; is this what I sent to the va? -P1
+    
+  <br /> 
+### Additional Finding 2: Participants saw email touchpoints as a welcome, new way to receive submission updates from VA. 
+- Participants preferred to be notified by email of submission status updates. A couple of participants each expressed interest in additional communication methods like SMS, app notifications, and paper mail.
+  
+    >“I'm a little surprised it says it's all email, I always get letters from the VA actually.  I received most of my stuff via the good old fashioned mail. -P3
+    >“If you have to have an email to use this feature, then this is great, because then you don't have to address postal.” -P11
+- If they get emails for each submission status update, they might also expect them for significant updates to their claims that happen downstream.
+    >“That would make me feel good that someone is giving me a notification. And I'm starting to think, "are they going to give me a notification at each step?" Oh, so if they're missing anything they're going to contact me.” -P1
+- Veterans who struggle with authentication might find value from email updates that save them from logging on to VA.gov. 
+    >“I don't really trust the VA. It's complicated once you get on [the website]. Well, [sigh] if you have to go, your passwords and stuff, there's like two-step verification just to get on there…..Once you get past that, it's good, don't get me wrong...It's the hassle of getting through.” -P8
+    
+  <br /> 
+### Additional Finding 3: Visual hierarchy and more precise language would help clarify “next steps.”
+- **Be precise about days:**“Now, if it's business days, it should say business days….I'm also not a fan of it saying ASAP because everything at VA has a time nexus. Almost always with VA, there was a "you need to do it by this date. Claims at the VA are like the milk in your fridge or your bread. Claims at the VA have an expiration date whether you know it or not." -P11
+   <br /> 
+- **Visualize next steps:**"[The Claim Status Tool page] is more visualized, it's easier to understand. Definitely. In the green box it says in progress. So I'm like a little bit relieved that it's on the process and they receive the claim. Then, Step 1 out of 5. So I kind of know where I'm at and see what is gonna happen next.” -P2      
+
+  <br /> 
+### Additional Finding 4: Language like “date initiated” could be fine-tuned to ensure more even comprehension.
+
+- Participants had a ranging comprehension of the term intended to mark when the Veteran pressed submit.
+  
+    >“The day I filed my claim, so I know when you file a claim they have, so say I was to get this, this claim was approved, I would get the compensation from that date right there…Retroactive or something like that. You know what I mean?” -P1 
+    >“Date initiated - I started a PACT claim - that's when I initiated it.…Hector's should say "date submitted" or we should add a field for "date submitted". Initiated and submitted are two separate things.” -P11
+
+
+
+
     
