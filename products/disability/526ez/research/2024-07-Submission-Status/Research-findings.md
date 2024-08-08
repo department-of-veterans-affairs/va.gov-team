@@ -183,4 +183,13 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
     
 
 <br /> 
+
+## Additional Findings
+|  |  |  |
+|--|--|--|
+|**#** | **Additional Finding** | **Do Veteran expectations match design intent?**| 
+|**1**| Across scenarios, participants understood when they needed to take action–and when none was required.  |Expectation matches design intent|
+|**2**| Participants saw email touchpoints as a welcome, new way to receive submission updates from VA. |Expectation matches design intent|
+|**3**| Language like “date initiated” could be fine-tuned to ensure more even comprehension.| Expectation differs from design intent|
+|**4**|Visual hierarchy and more precise language would help clarify “next steps.”|Expectation differs from design intent|
     
