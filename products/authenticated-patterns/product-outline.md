@@ -162,8 +162,8 @@ n/a
 - Team Name: Authenticated Experience Design Patterns Team
 - GitHub Label: `auth-exp-design-patterns` 
 - Slack channel: #tmf-auth-exp-design-patterns
-- Product POCs: Lynn Stahl
-- Stakeholders: 
+- Product POCs: Becky Phung, Lynn Stahl
+- Stakeholders: Matt Dingee (VADS), Kevin Hoffman (VADS), USWDS
 
 </details>
 
@@ -171,7 +171,7 @@ n/a
 
 <details>
  
- - DEPO Lead: Becky Phung: VA Product Owner @beckyphung
+ - DEPO Lead: Becky Phung
  - PM: Lynn Stahl
  - Engineering: Adam Whitlock, Belle Poopongpanit
  - Research/Design: Christine Steiffer, Morgan Jones
@@ -182,7 +182,7 @@ n/a
 #### Stakeholders
 
 <details>
- 
-_What offices/departments are critical to make this initiative successful?_
+- Office/Department: OCTO/VA Design System, USDS/USWDS
+- Contact(s): Matt Dingee (VADS), Kevin Hoffman (VADS)
  
 </details>
