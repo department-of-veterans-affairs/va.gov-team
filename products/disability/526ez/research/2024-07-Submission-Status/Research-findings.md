@@ -152,13 +152,14 @@ cheapest way to send their documents.
 ### Finding 6:  The happy and backup path scenarios were easy to understand–and left participants feeling confident that their submission was complete.
     
 - At the end of each scenario, we asked participants two questions about the submission experience. Early confusion and mixed expectations on the happy path did not have a high impact on ratings overall.
+  <br /> 
     > *Ease of understanding:* “4 just because of the different numbers of days bouncing around. Otherwise I think it was pretty easy.” -P1
     > 
     >  *Confidence:* “5, very confident. As soon as I submitted, I got an email saying it was submitted. Then another email saying it was received. It's very proactive on the VA's part.” -P1
 
-|  |  |	|
+|    |    |	  |
 |--|--|--|
-|Submission scenario  | **On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?**  |**On a scale of 1 to 5, how confident are you that your claim is fully submitted and ready for initial review?**|
+**Submission scenario**  | **On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?**  |**On a scale of 1 to 5, how confident are you that your claim is fully submitted and ready for initial review?**|
 | Happy Path| 4.4 | 5|
 |Backup path| 4.6| 5|
 | Evidence failure| 4.1| 2.2|
