@@ -36,7 +36,7 @@ NOTE: If a submission is explicitly rejected from the backup path, then we can g
 ### pending_backup
 All of the following must be true:
 
-- This submission has been sent to the backup path
+- This submission has been sent to the backup path (has a `backup_submitted_claim_id`)
 - has a value of `nil` for `backup_submitted_claim_status`
 - This submission has no 'success type' markers such as a successful remediation or primary path acceptance
 - this submission is less than `MAX_PENDING_TIME` old
@@ -44,14 +44,16 @@ All of the following must be true:
 ### in_process
 All of the following must be true:
 
-- This submission has not been sent to the primary path
-- This submission has not been sent to the backup path
-- This submission has no 'success type' markers such as a successful remediation or primary path acceptance
-- This submission is less than the `MAX_PENDING_TIME` old
+- has not been sent to the primary path (no `submitted_claim_id`)
+- has not been sent to the backup path (no `backup_submitted_claim_id`)
+- is less than the `MAX_PENDING_TIME` old
+- cannot be considered `remediated` (this would be a success type indictor)
+- cannot be considered `with_exhausted_backup_jobs` (this would be a failure type indicator)
+
 
 ### accepted_to_primary_path
 
-- has a non-nil value for `submitted_claim_id`
+- has has been sent to the primary path (has a `submitted_claim_id`)
 
 NOTE: we may soon also be checking for a status, as primary path migrates to a new endpoint with a polling requirement
 
