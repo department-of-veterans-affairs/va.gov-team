@@ -4,9 +4,13 @@ Office of the CTO - Digital Experience (OCTO-DE), 526EZ, DBEX 1
 Date: 7/29/24  
 Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
-## Research Goals
+## Background
 
-Veterans don’t have timely and truthful information about their submission after they press “submit.” For example, Veterans shared that they expected to receive a confirmation email as soon as they hit “submit,” instead of 1-2 days later. This mismatch of expectations and reality could lead to Veteran distrust and confusion that must be addressed.
+**Problem to solve:** When a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. 
+**Proposed solution:** In the days after applying, give Veterans timely and truthful information about their submission status.
+
+## Research Goals
+The research study assessed the clarity of the proposed changes to submission statuses and timeline to see if Veterans have accurate expectations in the days following submission.
 
 -   **Research Goal 1:** Evaluate how effectively the submission model sets clear expectations for claim submission timeline.
     
@@ -14,8 +18,6 @@ Veterans don’t have timely and truthful information about their submission aft
     
 -   **Research Goal 3:** Generate ideas for the next design milestone to improve the claim record.
     
-
-The research study assessed the clarity of the proposed changes to submission statuses and timeline to see if Veterans have accurate expectations in the days following submission.
 
 ## Research Questions
 
