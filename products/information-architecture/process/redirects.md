@@ -17,13 +17,15 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
 ### Process
 1.	Create an issue using the [Redirect, URL change, or vanity URL request issue template in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) at least 2 weeks prior to desired launch date
 2.	IA will review and communicate any questions or changes, and assign over to the implementation team
-    - Review will include ensuring a proper destination is selected, any casing issues are identitified, direction for child pages is determined (if applicable), and existing redirects are reviewed for updates and to ensure no loops or chains are created.
+    - Review will include ensuring a proper destination is selected, any casing issues are identitified, and direction for child pages is determined (if applicable)
     - IA will update the issue with any additional direction or updates needed 	
 4.	[WHO] will create a ticket for the content team to update all referring links and associated content across the modernized site
 5.	Implementation team will review, size and schedule as appropriate, and notify the requesting team of any technical or timing issues
-6.	Implementation team will implement the redirects in lower environments and validate, then push to production
-7.	Implementation team and IAs will validate redirects in production and notify requesting team
-8.	Implementation team closes issue
+    - Review will include ensuring existing redirects implemented in redirect.yml are reviewed for updates and to ensure no loops or chains are created
+    - Implementation team will include those updates in their PR
+7.	Implementation team will implement the redirects in lower environments and validate, then push to production
+8.	Implementation team and IAs will validate redirects in production and notify requesting team
+9.	Implementation team closes issue
 
 
 ### Responsibility of requesting team
