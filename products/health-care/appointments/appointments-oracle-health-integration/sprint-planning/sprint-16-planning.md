@@ -37,6 +37,7 @@ In Sprint 15, the team provided support for multiple features and initiatives, o
    * [#89362 ces-316 CES: Forward appointment searches to correct EHR based on search parameters](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89632)
    * [#89613 CES-629 CES: Determine EHR for incoming search appointment requests](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89631)
    * [#89958 CES-782 VPG: Create VFA client and relationships retrieval method](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89958)
+   * 🧗‍♀️[#90378 CES-818 CES: Add support for _id search parameter](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90378)
 * 🔴 Appointment Cancellation
    * [#89614 CES-527 VPG: Add vaos and cerner Appointment mixed test cases](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89614)
    * 🧗‍♀️[#89725 CES-788: VPG: implement additional CFA patch exception handling](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89725)
