@@ -12,3 +12,5 @@ The Income Limits application is a Ruby on Rails module built in [vets-api](http
 - Slack [#sitewide-public-websites](https://dsva.slack.com/archives/C52CL1PKQ)
 
 - API DOCS (Swagger UI) can be accessed via https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/ and then searching for https://dev-api.va.gov/income_limits/v1/apidocs in the search bar at the top of the page.
+
+- Create a [new year banner](../new-year-banner.md).
