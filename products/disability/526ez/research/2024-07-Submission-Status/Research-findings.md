@@ -66,9 +66,9 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 3.  **Evidence failure scenario included:** Confirmation page, confirmation email, evidence failure email requiring mail resubmission of a failed file.
 
 ## Key Findings
-|  |  |  |
-|--|--|--|
+
 |**#** | **Research Finding** | **Do Veteran expectations match design intent?**| 
+|--|--|--|
 |**1**| Veterans’ mental models for claims processing do not map onto the VA timeline for electronic submission. |Expectation different from design intent|
 |**2**| Participants who conflated the submission and tracking timelines had mixed expectations for next steps.|Expectation different from design intent|
 |**3**| Participants would likely download a full PDF of their claim at a later date, but stated they had all the claim information they needed on the confirmation page.| Generative finding|
