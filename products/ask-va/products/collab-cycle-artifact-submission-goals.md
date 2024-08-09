@@ -20,7 +20,7 @@ Submit a request for review by December 20, 2024, and request a meeting on or ar
    - This occurs *after* staging review, however, if arch. is planned we can engage sooner to
    - Current Status:
      - Arch. Diagram Completed
-     - Initial Cyber Security Review Completed with documented potential risks
+     - [Initial Cyber Security Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/security-review-07-01-2024.md) Completed with documented potential risks 
     
 
 ### Staging: 
