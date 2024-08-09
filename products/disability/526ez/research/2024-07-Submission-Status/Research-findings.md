@@ -254,8 +254,9 @@ A majority of the recommended changes are geared toward improving Veteran compre
 
 ### Truthful submission statuses 
 - Convey that submission is a 3 day electronic process– not immediate or human-controlled.
-- Address how earlier instances of the word “submission” could be confusing Veterans. For example, “Submit application” and loading screen promote a model of instant submission. 
-- Clarify the meaning of “date initiated.” Explore adding a date for ITF or when the application was started as a context clue.
+- Address how earlier instances of the word “submission” could be confusing Veterans. For example, “Submit application” and loading screen promote a model of instant submission.
+ - Consider this as part of a longer term effort to refine the submission model– not a priority to address in this iteration. 
+- Change language from “date initiated” to “date submitted” to address mixed comprehension– and align with MyVA language. 
   
 ### Clear submission timeline
 - Feature only one timeline per touchpoint to avoid confusing Veteran expectations. 
@@ -265,8 +266,8 @@ A majority of the recommended changes are geared toward improving Veteran compre
 ### Timely touchpoints 
 - Introduce email touchpoints for significant milestones in the claims process– starting with a message for when claim tracking is available on VA.gov.
 - Remove the link to the Claim Status Tool before the claim is available.
-- Rethink having two email touchpoints leading to the update that the submission is complete. If both are preserved, ensure that the confirmation email reads as a copy of claim information– not an update. 
-- Trigger the confirmation email as close to pressing submit as possible so it reads as a receipt– not an update.
+- Ensure the purpose of both emails is clear-- the first as a copy of submission w/ claim details, the second as proof of receipt. 
+ - Trigger the confirmation email as close to pressing submit as possible so it reads as a copy of submission rather than an update.
   
 ### Evidence failure scenario 
 - Introduce a digital resubmission option for Veterans experiencing evidence failure. 
