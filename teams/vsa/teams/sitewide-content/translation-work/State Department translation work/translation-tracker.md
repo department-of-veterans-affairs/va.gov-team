@@ -60,3 +60,4 @@
 | Sign-in fact sheet | LS-2024-0122945 | Guide for creating an account for VA.gov for translation | CAIA | | Multiple languages | 8/8/24 | | | |
 | Sign-in fact sheet | LS-2024-0122945 | Secure sign-in transition fact sheet facilities with virtual health for translation | CAIA | | Spanish | 8/8/24 | 8/16/24 | | |
 | Sign-in fact sheet | LS-2024-0122945 | Secure sign-in transition fact sheet facilities with virtual health for translation | CAIA | | Multiple languages | 8/8/24 | | | |
+| Modernized Check-in Q2 2024 work | LS-2024-0122945 | Q2 2024 - Tagalog_2024_08_09_14-13-17.pdf | Modernized Check-in | | Tagalog | 8/9/24 | 8/23/24 | | |
