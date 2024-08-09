@@ -2,7 +2,9 @@
 Participant sessions were conducted June 2024  
 
 **Summary**  
-Quantitative data analysis indicates that users who initially download the VA Mobile app app do not actively use the app over time, and research participants have also reported that they download the app to see if it can help them (but then don’t use it regularly).  
+The VA Flagship mobile app was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes).
+
+Quantitative data analysis indicates that users who initially download the app do not actively use the app over time, and [research participants have also reported that they download the app to see if it can help them but then don’t use it regularly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) and/or don’t have time to go through the app’s functionality. 
 
 The VA Flagship mobile app team believes that bringing personalized content to the VA mobile app’s home screen will help new and current app users keep up with and manage their interactions across VA and find value in the app that they aren’t discovering now. This particular study will help us examine if/how the personalized homescreen design impacts project success metrics and identify opportunities to improve it as part of the [VA Mobile App's Personalization efforts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization).
 
