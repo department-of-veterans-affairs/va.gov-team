@@ -123,6 +123,9 @@ I want you to explore the available options as if you were alone and viewing the
 * If you wanted to view the claim letter for this particular claim, what would you do?
 * Is there anything here you’re not seeing that you wish was here?
 
+If participant views a sample claim letter
+* Is this what you expected to see?
+
 Next, we will go back to the 5103 evidence notice page and explore the evidence upload process. 
 
 [Have the participant click the “5103 Evidence Notice” breadcrumb link.]
@@ -204,6 +207,9 @@ Ok, go ahead, scroll back to the top of the page and click on the “VA” logo 
 #### Questions for claim letters page
 * If you wanted to view the claim letter for this particular claim, what would you do?
 * As you think about why you would want to see the claim letter, can you describe any specific information you would look for to help you with the request?
+
+If participant views a sample claim letter
+* Is this what you expected to see?
 
 Ok, go ahead and click the VA logo at the top, We will explore the final option on this page.
 
