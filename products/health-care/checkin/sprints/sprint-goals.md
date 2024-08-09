@@ -73,10 +73,10 @@
     - ✔️ 🟥 Do hand-off to engineering
     - 🟦🟩 Design implementation and create tickets
 - **Componentize the Appt Summary View**
-    - 🟥 Do hand-off to engineering (include Peter Russo)
+    - ✔️ 🟥 Do hand-off to engineering (include Peter Russo)
     - 🟩 Design implementation and create tickets
 - **Translations**
-    - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
+    - ✔️ 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76038)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
