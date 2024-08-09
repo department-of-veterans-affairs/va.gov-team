@@ -1,17 +1,17 @@
 # MHV Home -- Alerts
 
-## Current and Proposed Alerts
+## Current Alerts
 
 Implemented | Conditions | View
 --- | --- | ---
-✅ | Not identity-verified (< LOA3) | ![](./assets/mhv-not-verified.png)
-✅ | No VA patient facility registration | ![](./assets/mhv-not-registered-patient.png)
-✅ | No associated MHV account | `no image, yet`
-❌ | MHV basic credentials < LOA3 | ![](./assets/mhv-mhv-basic-credentials-not-loa3.png)
-❌ | ID.me/Login.gov credentials < LOA3 | ![](./assets/mhv-idme-logingov-credentials-not-loa3.png)
+✅ | MHV basic credentials (LOA1) | ![](./assets/mhv-alert--mhv-basic-account.png)
+✅ | ID.me/Login.gov credentials < LOA3 | ![](./assets/mhv-alert--verify-and-register.png)
+✅ | No associated MHV account | ![](./assets/mhv-alert--mhv-registration.png)
+✅ | No VA patient facility registration | ![](./assets/mhv-alert--unregistered.png)
+❌ | Identity not verified | ![](./assets/mhv-alert--verify-identity-alert.png)
 
 
-## Authentication/Credential Service Providers
+## Authentication Providers/Credential Service Providers (CSPs)
 
 - ID.me
 - Login.gov
@@ -19,12 +19,12 @@ Implemented | Conditions | View
 - DS Logon
 
 
-## Proposed Alert flow
+## Alert flow
 
 We have collected a decent number of conditions that could generate an alert.
 Rendering multiple alerts _will_ confuse users.
 
-Below is pseudocode describing how we could render the single most relevant
+Below is pseudocode describing how we render the single most relevant
 alert to the user.
 
 ```
@@ -33,9 +33,6 @@ if MHV basic creds and not identity-verified then
 
 else if ID.me/Login.gov creds and not identity-verified then
   render "Verify and register"
-
-else if not identity-verified then
-  render "Verify your identity"
 
 else if no facilities/not a VA patient then
   render "You don't have access"
@@ -52,8 +49,8 @@ health data (PHI) and personal information (PII). Check these conditions first
 in the `if..else` chain.
 
 
-## Suggested code refacoring
+## Code organization
 
-- Rename components that wrap `<va-alert />` with the prefix `Alert` (e.g. - `AlertNoMhvAccount`).
+- Components that wrap `<va-alert />` are named with the prefix `Alert` (e.g. - `AlertNoMhvAccount`).
 
-- Create an `AlertContainer` that renders the most relevant alert, using the provided pseudocode logic as a guide.
+- An `Alert` renders the most relevant alert, according to the provided pseudocode logic above.
