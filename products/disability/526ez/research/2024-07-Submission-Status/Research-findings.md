@@ -163,9 +163,8 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
     > 
     >  *Confidence:* “5, very confident. As soon as I submitted, I got an email saying it was submitted. Then another email saying it was received. It's very proactive on the VA's part.” -P1
 
-|    |    |	  |
+|**Submission scenario**  | **On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?**  |**On a scale of 1 to 5, how confident are you that your claim is fully submitted and ready for initial review?**|
 |--|--|--|
-**Submission scenario**  | **On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?**  |**On a scale of 1 to 5, how confident are you that your claim is fully submitted and ready for initial review?**|
 | Happy Path| 4.4 | 5|
 |Backup path| 4.6| 5|
 | Evidence failure| 4.1| 2.2|
@@ -204,9 +203,8 @@ We conducted usability/concept testing with a high-fidelity clickable Figma prot
 
 ## Additional Findings
 
-|  |  |  |
-|--|--|--|
 |**#** | **Additional Finding** | **Do Veteran expectations match design intent?**| 
+|--|--|--|
 |**1**| Across scenarios, participants understood when they needed to take action–and when none was required.  |Expectation matches design intent|
 |**2**| Participants saw email touchpoints as a welcome, new way to receive submission updates from VA. |Expectation matches design intent|
 |**3**| Language like “date initiated” could be fine-tuned to ensure more even comprehension.| Expectation differs from design intent|
