@@ -32,7 +32,14 @@ Access our ongoing documentation and collaborative resources on Google Docs: [AR
 
 Below are some documents worth calling out specifically:
 
-* [ARP Team Jargon](/products/accredited-representative-facing/product-info/team-jargon.md).
+* [ARP Team Jargon](/products/accredited-representative-facing/product-info/team-jargon.md)
+
+Personas (in Mural):
+- [VSO representatives](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u8cf3f08a008c2b61ad621433)
+
+- [Accredited attorneys](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717533456497/60064424f651818203ff49ac43d6fb9f0f2bccac?sender=u8cf3f08a008c2b61ad621433)
+
+- [Accredited claims agents](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433)
 
 ## The Team
 
