@@ -34,4 +34,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _CAIA IA partner Kristin Oulette Muskat and Product Manager Lindsay Li-Smith communicated this to stakeholders via email "Redirecting accredited representative URL"._
 - **8/8/2024**: Updated the entry point on [About GI Bill benefits](https://www.va.gov/education/about-gi-bill-benefits/) to point to our landing (originally pointing to the legacy page [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp).\
   _CAIA content partner A Procik confirmed in ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1723148921019749?thread_ts=1722880231.966739&cid=C05L6HSJLHM))._
-  
+- **8/8/2024**: While content standards recommend spelling out an acronym the first time it's mentioned on a page, we are making some excpetions for "VSO".  Veterans are most familiar with the "VSO" term so we want to highlight that first for user recognition and will define the acronym in the following sentence of body copy.\
+  _CAIA content partner A Procik confirmed in ([Slack message](https://dsva.slack.com/archives/C01K37HRUAH/p1723151194544469?thread_ts=1723136972.151189&cid=C01K37HRUAH))._
