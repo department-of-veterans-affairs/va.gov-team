@@ -7,9 +7,6 @@ Entry points are an important findability element and a way for users to access 
 The primary entry point is a static page on VA.gov with relevant information to the product you are launching. This is where the CTA will be added. Product teams must add the primary entry point prior to staging review.
 
 
-<img width="598" alt="Pension how to apply page" src="https://github.com/user-attachments/assets/2c994fe8-419e-461f-83a7-91fd4e9ca614">
-
-
 ### Secondary entry point
 Secondary entry points are additional ways to to access a product. These consist of the megamenu, left navigation or benefit hub page. Not all products will be added to all three areas and IA can support to determine these additional entry points.
 
