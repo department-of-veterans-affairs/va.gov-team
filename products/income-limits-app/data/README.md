@@ -26,9 +26,9 @@ To query an Oracle database from Ruby requires the [`ruby-oci8`](https://github.
 ### Migrating from VES to S3
 Data moves from the VES Oracle database into CSV files stored on S3 using a [Github Action](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/workflows/income-limits-data-sync.yml). The GHA executes the action using a [self-hosted runner](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners). It is imperative that the GHA runs on a self-hosted runner so that the action has access to the internal VA network, which is a prerequisite for accessing the VES database.
 
-The action runs monthly on the 28th of each month at 12:35 AM.
+The action runs on the 28th of each month at 12:35 AM.
 
-When the GHA executes, it sets up a standalone Ruby environment (GHAs do not have access to the vets-api Rails environment, so we) in the container, [queries the VES database](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/scripts/income-limits-data-sync.rb), and exports the results to CSV files. The files are then moved to a [public S3 bucket](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/workflows/income-limits-data-sync.yml#L103) that vets-api can always reach.
+When the GHA executes, it sets up a standalone Ruby environment (GHAs do not have access to the vets-api Rails environment) in the container, [queries the VES database](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/scripts/income-limits-data-sync.rb), and exports the results to CSV files. The files are then moved to a [public S3 bucket](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/workflows/income-limits-data-sync.yml#L103) that vets-api can always reach.
 
 #### Migrating from S3 to Postgres
 A scheduled [series of Sidekiq jobs](https://github.com/department-of-veterans-affairs/vets-api/blob/bbc93d8245e47a4f103608f54a925714d7b9a7c0/lib/periodic_jobs.rb#L55-L64) execute migration scripts which pull from S3.
