@@ -108,7 +108,7 @@ TBD
 
 # 7. FAQ
 ### Where can I follow along with this work?
-The [Submission Experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179) Epic in Zenhub is used to track this work.
+We are tracking the work in the [Submission Experience project on the roadmap]([url](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/roadmap?project=z2lkoi8vcmfwdg9yl1byb2ply3qvodiymty)) - see various epics within it.
 
 The [User Story Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=ubd79255de28cd574d7575469) is used to map out the initiative's features and user stories.
 ### When does the submission experience “end”?
