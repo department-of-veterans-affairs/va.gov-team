@@ -62,20 +62,48 @@ Once a Veteran hits “submit,” the messaging they receive does not reflect th
 
 This work is prioritized because it addresses one of the most painful parts of the Veteran experience, where much about the problem is known and the implementation is less complex. Moreover, this phase spans the entire user journey leading to a high-value, low-effort feature.
 
-## 6.1 Success
+## 6.1.1 Success
 1. Ensure expectations of the submission timeline are set truthfully for the Veteran
 2. Ensure that Veterans feel confident the VA is trying to submit their claim
 3. Ensure the language we use is straightforward so that Veterans feel understanding submission status is trivial
 4. Ensure an email confirmation is received in a timely manner and contains information the Veteran deems useful 
 
-## 6.2 Out of Scope
+## 6.1.2 Out of Scope
 - Changes to MyVA
 - Changes to CST
 - Changes with how 526 and ancillary forms are processed after a sucessfull submission
 
-## 6.3 Risks and Challenges
+## 6.1.3 Risks and Challenges
 - We don't have detailed knowledge of when a claim's submission status becomes available in CST and MyVA. Instead of timing any communication with the actual point at which a claim shows up in those tools, we are keeping with the current (in production) approach to messaging that it may take a certain number of days for submission status to show up there.
   - This is a known limitation that will be eliminated in the future epic "Submission status on VA.gov".
+
+## 6.2 Submission Record and Tracking
+All Veterans expressed a desire to access a copy of their 526 claim to keep for their records or to use if something goes wrong. However, today it’s not possible for Veterans to do this. Before the Veteran submits their application, they can view the details of the application in detail on the Review & Submit screen, but there is no option to print or save. After the Veteran clicks “Submit application” they are redicted to the Confirmation page where the Veteran can view their name, date the application was submitted, the conditions they claimed, and a Claim ID number. The ability to print, save, or view a copy of the completed and submitted 526 form, is not a given option on this page. If the Veteran wants the application’s details and uses they browser’s back button they are taken to the start page of the 526 form, not the Review and Submit page where they would have expected to go. Veterans also expressed a desire to be able to locate and view a copy of their completed form online at a later time.
+
+## 6.2.1 Success
+- Veterans save or print their completed 526ez that matches the submitted claim VA has on file
+- Veterans can access their completed 526 online at VA.gov at a later time
+- Should Veterans want help with their claim, they have the information they need to get help
+
+### 6.2.1.1 As Jobs To Be Done
+* When I want information on my completed 526 form, I need my printed form on hard so I can find the information I need
+* When I want to keep a copy of my completed 526 form I need to be able to download it so I can save it on my computer or in my cloud storage
+* When I want information in my completed 526 form but don’t have it on hand or don’t want to save or print it, I need to be able to locate it on VA.gov so I can get the information I need
+* When I need help with my application, I need access to my completed 526 form so I can get the information I need for myself or to give to someone who is helping me
+
+### 6.2.1.2 As Themes
+Ensure [result] for [persona]
+TBD
+
+### 6.2.1.3 As User Stories
+As a [persona] I want [desire or goal] so that [benefit/result] 
+TBD
+
+## 6.2.2 Out of Scope
+TBD
+
+## 6.2.3 Risks and Challenges
+TBD
 
 
 # 7. FAQ
