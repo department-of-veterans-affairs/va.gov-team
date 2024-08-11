@@ -9,13 +9,7 @@ The goals of this document are:
 
 **Individual Longitudinal Exposure Record (ILER)**
 
-This term has been used in two ways. It can mean:
-- the ILER **information technology system** that gathers data from a range of VA and DoD systems to comprise a report about a service member’s deployments and exposure to toxins. Service members have no direct interaction with this system.
-- the **report** generated from this system. Service members, epidemiologists, and providers should all be able to access this document (see below). This is used in evaluations of disability and determinations of benefits.
-
-This is an important part of all service members’ medical history. The ILER system and report tracks a service member’s deployments, how these might expose the member to environmental hazard, and keeps a record of medical encounter information. It is also used by VA and DoD healthcare providers, and by epidemiologists and researchers. Perhaps most importantly. the report is used in evaluations of disability and determinations of benefits for individual Veterans. 
-
-Basically, the goals of the ILER system are to track and monitor exposures, how they lead to health issues, and improve treatment for Veteran health.
+In the strict definition, ILER means the ILER **information technology system** that gathers data from a range of VA and DoD systems to comprise a report about a service member’s deployments and exposure to toxins. Service members have no direct interaction with this system. See the GAO report linked in Sources (PAGE NUMBER?) for details.
 
 "DOD and VA released an initial version of ILER (version 1.0) for staff use in October 2019. DOD and VA have subsequently released updated versions with expanded functionalities and data sources accessible through ILER.13 For example, version 1.1 expanded the number of data sources feeding into ILER, and version 1.2 added further data sources and allowed for read-only access to individuals’ ILER exposure summaries through the Joint Longitudinal Viewer. With Version 2.3, released in July 2023, ILER included all functionalities that the agencies had initially planned, which included tools for research, according to DOD and VA officials. Following this release, DOD and VA officials said they planned to continue to make enhancements to ILER and address new legislative requirements in future versions of the web application. As of January 2024, staff were using version 2.4 (released in October 2023), which added some of DOD’s blast overpressure data. Version 2.5 will be available to staff in April 2024, according to DOD officials." (GAO PDF)
 
@@ -25,7 +19,13 @@ For an update on the roadmap and interoprability of the ILER system, please see 
 
 **Incident Exposure Summary (IES)**
 
-This is **??? A summary? A record of an individual exposure incident? NEED MORE INFORMATION**
+This is the **report** generated from this system. Service members, epidemiologists, and providers should all be able to access this document (see below). This is used in evaluations of disability and determinations of benefits. According to VEO stakeholders, VA owns an API that can generate a PDF/text version of a veteran’s ILER record.
+
+Please note that when referring to the mandate to allow Veterans to "access their ILER report", this is what this refers to.
+
+The IES from the ILER system is an important part of all service members’ medical history. The report tracks a service member’s deployments, how these might expose the member to environmental hazard, and keeps a record of medical encounter information. It is also used by VA and DoD healthcare providers, and by epidemiologists and researchers. Perhaps most importantly. the report is used in evaluations of disability and determinations of benefits for individual Veterans. 
+
+Basically, the goal of the ILER system is to track and monitor exposures, leading to better treatment and outcomes for Veteran health.
 
 **Enhanced Military Information**
 
@@ -64,6 +64,7 @@ As a result, the goal for OCTO is to design, develop, and deliver a way for Vete
 - clarity on what the user should do to access/download
 - clarity on what the user will access/download
 - clarity on what the user can do with the access/downloaded file
+- improve the readability of what we can provide (ILER reports can be very long and complicated)
 
 This is driven by the legislative history.
 Congress enacted Section 9105 on January 1, 2021, in the National Defense Authorization Act (NDAA), to provide Veterans with read-only access to ILER.
@@ -73,6 +74,7 @@ Section 803(b)(1) provides that to update a record under subsection (a), a Veter
 It is important to note that this does not specify _where_ or _by when_ should this information be made available to Veterans.
 
 Metrics to monitor after deployment of this feature might include:
+- usage metrics showing Veterans accessing this information (https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1834995012%3FuserId%3D66061986)
 - a reduction in time evaluating Veteran diabilities
 - more efficient access to health care for Veterans in issues related to exposure
 - better medical outcomes for Veterans facing issues related to exposure
@@ -126,6 +128,8 @@ MENTAL MODELS: https://github.com/department-of-veterans-affairs/va.gov-team/blo
 # Sources
 
 ILER Fact Sheet (https://www.docs.lms.va.gov/LMSDocs/Docs/131531/ILERFactSheet_508Certified.pdf)
+
+ILER article pre-2019 (https://www.publichealth.va.gov/exposures/publications/military-exposures/meyh-1/ILER.asp)
 
 February 2023 update report (PDF): https://www.va.gov/RAC-GWVI/meetings/Feb2023/1VARAC_DoD_Exposure_Monitoring_Wearables_ILER_4Feb23_final_sjones.pdf
 
