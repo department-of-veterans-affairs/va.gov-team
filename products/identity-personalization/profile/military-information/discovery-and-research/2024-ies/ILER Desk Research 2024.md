@@ -93,6 +93,9 @@ The goal of this ticket is to, based on the learnings above, offer:
 - recommendatons
 
 ### Hypotheses and Conclusions
+
+For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. 
+
 1. Veterans use ILER/IES access in relation to applying for health care
    
    **No evidence for this**
