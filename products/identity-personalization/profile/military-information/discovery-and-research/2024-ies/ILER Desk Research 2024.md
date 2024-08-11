@@ -102,6 +102,11 @@ For a first gloss of understanding Veterans mental models and needs for detailed
    
 According to prior research for Enhanced Military Information (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md), Veterans may or may not need their DD214 when applying for VA benefits and services, but having their information of service dates and deployments facilitates application for VA benefits. (Information about potential exposures and disability ratings were outside the scope of the previous research cited.)
 
+ADD REDDIT QUESTIONS HERE WITH CAVEATS ABOUT CANARY IN THE MINE AND RARE SAMPLE
+
+2. Providers ask Veterans for ILER/IES information in care contexts
+
+   **No evidence for this**
 
 
 **Data Quality and Implications for Design**
