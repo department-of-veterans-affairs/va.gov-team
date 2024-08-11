@@ -92,6 +92,14 @@ The goal of this ticket is to, based on the learnings above, offer:
 - next steps
 - recommendatons
 
+### Hypotheses and Conclusions
+1. Veterans use ILER/IES access in relation to applying for health care
+   
+   **No evidence for this**
+   
+According to prior research for Enhanced Military Information (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md), Veterans may or may not need their DD214 when applying for VA benefits and services, but having their information of service dates and deployments facilitates application for VA benefits. (Information about potential exposures and disability ratings were outside the scope of the previous research cited.)
+
+
 
 **Data Quality and Implications for Design**
 
