@@ -67,29 +67,50 @@ After this research is complete, we will:
 
 For this usability study, we used the moderated usability testing method. This approach involved live, one-on-one sessions through Zoom where a facilitator guided participants through a series of tasks using a prototype of the scheduling flow. The facilitator observed participants' interactions, collected their feedback, and probed for deeper insights into their experiences.
 
+This test included 2 versions of the appointments list:
+
+• Mobile
+• Desktop
+
 **Location:** Zoom
 
 ## Hypotheses and Conclusions
 
 **Hypothesis 1:** As a Veteran, I can choose my provider when scheduling at an OH facility.
 - Veterans will want to choose a specific provider for most types of care.
-- Do their needs change between primary care and specialty care?
-- Do their needs change between established care and new care?
+-   TRUE: Several veterans expressed they would prefer to see who they are familiar with, otherwise would like specific information about the providers to make an informed decision. (Furthermore, 5 Participants expressed a desire to know if they have seen a provider before, as they do not always remember names but recognize the importance of continuity in care.)
+- Veterans' privider preferences change between primary care and specialty care?
+-   Mixed: This was very situaltion depedent. Veterans expressed the desire for a "no preference" option for speciality care or in an immediate health care need in order to see the first available. 
+- Veterans' privider preferences change between established care and new care?
+-   TRUE: Veterans mentioned the desire for choosing a privider based on the following: (5 participants indicated a clear need for more detailed information about each provider, including credentials, specialties, and experience.)
 - Veterans will want to choose a provider based on who has the soonest availability.
+- TRUE: 3 participants prioritize booking the first available appointment over specific provider preferences.
 
 **Hypothesis 2:** As a Veteran, I can easily schedule at locations I've recently attended.
 - Choosing from locations where they've recently scheduled an appointment will make it faster and easier to schedule.
+-   Inconclusive: Without using the Veterans' real data, it is difficult to test this hypothesis. 
 - Veterans will appreciate and find value in the default "Sort by Recent Locations."
+-  False: There was a stronger preference to see what is colsest to them.  
 
 **Hypothesis 3:** As a Veteran, I can quickly schedule from previous appointments.
 - Veterans will want a shortcut to schedule appointments similar to those they've had in the past.
+-   TRUE: Veterans appreciated how this feature streamlined the appointment making process and provided details on who they saw.
 - Veterans will have a distinct preference for scheduling using the past provider or clinic flow compared to the "type of care" route.
+-   TRUE: When asked to schedule an appointment, they would first check to see if they could schedule from a past appointent listed. 
 - Scheduling appointments similar to those they've had in the past will help Veterans schedule more quickly.
+-   TRUE: See above
+
 
 **Hypothesis 4:** As a Veteran, I need helpful reminders that the scheduling tool is not for emergencies in appropriate places in the process so that it is not an annoyance.
+
 - Veterans will find these warnings necessary.
+  - TRUE Several participants mentioned the importance of the alert for stopping to consider if they needed immediate care. For instance, P14 appreciated the prompt to reconsider their symptoms, and P4 found it useful to stop and think about their condition. Additionally, P5 stated that the alert made them consciously consider their situation.
+
 - Veterans will find these warnings helpful.
+  - TRUE Participants generally found the warnings helpful. P4 noted the alert's utility in prompting them to reconsider their symptoms, and P5 appreciated the clear visibility of the alert box. P1 also mentioned noticing and liking the crisis line call-to-action right away. These responses indicate that the alert was seen as a useful feature.
+
 - Veterans will find that the alert is timely and appropriate.
+  - MIXED: While several participants found the alert timely and necessary (e.g., P1, P4, P5), some expressed irritation or found it redundant. P8 mentioned feeling annoyed by constant crisis alerts and not finding them appropriate. P7 also indicated that the alert did not seem applicable to their personal experience. This suggests that while many veterans found the alert appropriate, a subset found it intrusive or unnecessary.
 
 **Hypothesis 5:** As a Veteran, I want to be alerted when appointment events happen so I know exactly what I need to do next.
 - Veterans will be able to find their notifications without prompting.
