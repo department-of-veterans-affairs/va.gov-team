@@ -54,7 +54,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - External API changes
     + List new or modified APIs for upstream or external systems
     + Describe expected call patterns
-	+ What PII or PHI will be transmitted to/from the external systems?
+    + What PII or PHI will be transmitted to/from the external systems?
 - Background jobs
     + List any required background processing
     + Describe error and dead letter handling
@@ -76,11 +76,11 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Identify other teams to coordinate with
     + Describe rollback plan
 - Internal administration tasks
-	+ What maintenance or administration tasks do you anticipate will need to be performed periodically?
-	+ Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
+    + What maintenance or administration tasks do you anticipate will need to be performed periodically?
+    + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
 - Security
-	+ What questions do you have regarding items on the security checklist?
-	+ What [threat modeling][threats] have you done, and how did the results influence your planned architecture?
+    + What questions do you have regarding items on the security checklist?
+    + What [threat modeling][threats] have you done, and how did the results influence your planned architecture?
 
 TODO: provide this checklist as a document template in a separate file
 
@@ -97,22 +97,22 @@ This checklist is by no means a comprehensive list of all applicable security pr
         * Care must be taken to ensure that no PII or PHI is logged in exceptions.
         * Note that ICNs are considered PII and therefore should not be logged. For more about this, see the [developer documentation][ICN].
         * The contents of free-form text fields filled in by users should not be logged, because there is no way to ensure they do not contain PII or PHI.
-		* You should log all significant user actions, including both successful and failed actions, and both read and write operations.
+        * You should log all significant user actions, including both successful and failed actions, and both read and write operations.
     + Data retention
-		* PII and PHI should only be stored persistently when there is a business justification for doing so. Don't retain data you don't need to.
-		* PII and PHI can be retained for a maximum of 60 days.
-		* However, for forms that are in process (i.e., that a user has started working on but not yet submitted), PII may be retained for as long as the form is still eligible to be completed and submitted. Once the form expires and can no longer be worked on, the 60-day clock starts ticking, though again, ideally we would get rid of the PII sooner than that if there is no longer a business justification to retain it.
-		* Once a form has been completed and submitted, the 60-day clock starts when we have received confirmation from the remote system that the submission was successful, though again, getting rid of the PII sooner than that is preferred when possible.
-		* Note that the forms system includes support for these data-retention rules.
-	+ PII and PHI should never be hard-coded in source code or checked into GitHub.
+        * PII and PHI should only be stored persistently when there is a business justification for doing so. Don't retain data you don't need to.
+        * PII and PHI can be retained for a maximum of 60 days.
+        * However, for forms that are in process (i.e., that a user has started working on but not yet submitted), PII may be retained for as long as the form is still eligible to be completed and submitted. Once the form expires and can no longer be worked on, the 60-day clock starts ticking, though again, ideally we would get rid of the PII sooner than that if there is no longer a business justification to retain it.
+        * Once a form has been completed and submitted, the 60-day clock starts when we have received confirmation from the remote system that the submission was successful, though again, getting rid of the PII sooner than that is preferred when possible.
+        * Note that the forms system includes support for these data-retention rules.
+    + PII and PHI should never be hard-coded in source code or checked into GitHub.
     + Data encryption
-		* PII and PHI fields in the database [must be encrypted][API-encryption]. Note that the forms system encrypts form data automatically.
-		* PII and PHI must be encrypted in transit. This means, primarily, that any network streams, e.g., API calls, over which we exchange PII or PHI must use TLS.
+        * PII and PHI fields in the database [must be encrypted][API-encryption]. Note that the forms system encrypts form data automatically.
+        * PII and PHI must be encrypted in transit. This means, primarily, that any network streams, e.g., API calls, over which we exchange PII or PHI must use TLS.
 - Authentication and authorization
-	+ `vets-api` endpoints should use the [authentication][authn] and [authorization][authz] functionality provided by `vets-api`. Please don't roll your own.
-	+ TODO: What about endpoints intended to be called by outside systems, e.g., form submission callbacks? What pattern do we expect teams to use for authenticating callers to these endpoints?
-	+ If you are calling an API endpoint in another system, and it uses a key for authentication, then if at all possible the endpoint should support key rotation without downtime. This typically means the endpoint should allow multiple keys to be active at the same time, so that the key can be rotated by first adding the new key to the endpoint, then changing the key on VA.gov to the new key, and then removing the old key from the endpoint.
-	+ TODO: If we are going to allow static keys to be used for authenticating `vets-api` endpoints called by other systems (i.e., the TODO above), which is TBD, then the key rotation enjoinder above should apply to those as well.
+    + `vets-api` endpoints should use the [authentication][authn] and [authorization][authz] functionality provided by `vets-api`. Please don't roll your own.
+    + TODO: What about endpoints intended to be called by outside systems, e.g., form submission callbacks? What pattern do we expect teams to use for authenticating callers to these endpoints?
+    + If you are calling an API endpoint in another system, and it uses a key for authentication, then if at all possible the endpoint should support key rotation without downtime. This typically means the endpoint should allow multiple keys to be active at the same time, so that the key can be rotated by first adding the new key to the endpoint, then changing the key on VA.gov to the new key, and then removing the old key from the endpoint.
+    + TODO: If we are going to allow static keys to be used for authenticating `vets-api` endpoints called by other systems (i.e., the TODO above), which is TBD, then the key rotation enjoinder above should apply to those as well.
 - Secrets should be stored in the AWS SSM Parameter Store as [described in the developer documentation][secrets]. Secrets should _never_ be hard-coded in source code or checked into GitHub.
 - TODO: Do we want to talk about internal administration / maintenance pages here? Do any such pages already exist within VA.gov, and are there documented patterns for how they should be implemented, protected from public access, etc.?
 
