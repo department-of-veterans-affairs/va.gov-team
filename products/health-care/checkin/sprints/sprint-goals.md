@@ -2,30 +2,63 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
-<summary>SPRINT 14 - 8/21/2024-9/3/2024 FUTURE TENTATIVE</summary>
+<summary>SPRINT 15 - 9/4/2024-9/17/2024 FUTURE TENTATIVE</summary>
 
-## SPRINT 14 - 8/21/2024-9/3/2024
+## SPRINT 15 - 9/4/2024-9/17/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
-- **Medication Wording for Appointments - Pre-Check-in**
-    - **Sprint Goal is to address launch blockers from Staging Review & release the feature**
+- **Upcoming VAOS Appointments**
+    - **Sprint Goal is to address all launch blockers from the Staging Review and release to production**
+    - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84424)
+- **Stand-alone Travel Application for OH Sites**
+    - **Sprint Goal TBD**
     - TBD
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
     - TBD
+- **Componentize the Appt Summary View**
+    - **Sprint Goal TBD**
+    - TBD
+- **CIE Analytics**
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
+    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
+- **Tech Debt**
+    - TBD
+</details>
+
+<details>
+<summary>SPRINT 14 - 8/21/2024-9/3/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 14 - 8/21/2024-9/3/2024
+- **Production Support**
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
+- **Medication Wording for Appointments - Pre-Check-in**
+    - **Sprint Goal is to address launch blockers from Staging Review & release the feature**
+    - 🟩 Placeholder for launch blockers, if any
+    - 🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish all work and schedule a Staging Review & a Readiness Review**
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
-    - 🟩 [[FE] Create Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
-    - 🟩 [[FE] Add Link to Access the Upcoming Appointments Page for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89065)
-    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
+    - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
+    - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
+    - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84422)
+    - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84425)
     - 🟪 Schedule Staging Review    
     - 🟩 Schedule Infrasturcture, Security Readiness Review
+- **Stand-alone Travel Application for OH Sites**
+    - **Sprint Goal is to complete the Staging Review and ISR Review**
+    - Question: Do we have any more blockers?
+    - 🟪 Schedule Staging Review
+    - 🟩 Schedule Infrasturcture, Security Readiness Review 
+- **Travel Claim Submission from Past Appts - Web**
+    - **Sprint Goal Address Design Intent Feedback**
+    - 🟥 [Design Intent - IA Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90412)
+    - 🟥 [Design Intent - Design Feedback - Name of Project ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90323)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76037)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89592)
 - **Tech Debt**
-    - TBD
+    - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
 </details>
 
 ## SPRINT 13 - 8/7/2024-8/20/2024
