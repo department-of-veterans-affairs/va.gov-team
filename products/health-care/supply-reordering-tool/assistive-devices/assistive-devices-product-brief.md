@@ -41,7 +41,7 @@ Our committment to DLC is to have the ability to add Assistive Devices to the re
 * CSAT Scores
 * Conversion Rate to Ordering online from ordering over email/phone
 * Time to complete order
-* number not completed
+* number of orders not completed lower than 10% of all orders per month
   
 ## Related Product Outlines
 
