@@ -24,8 +24,8 @@ Improve the experience of Veterans when applying for VA health care benefits
 Health Products 
 
 ### Product Portfolio:
-- [Online family caregiver application](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/)
-- [Online VA health care application](https://www.va.gov/health-care/apply/application/introduction)
+- [Online family caregiver application](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
+- [Online VA health care application](https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
 - [Online VA health benefits update form](https://www.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
 
 ---
@@ -104,7 +104,7 @@ Create, review, estimate, and prioritize backlog items.
 **Labels to use**
 - All tickets should include:
      - 1010-team
-     - Product: Either 1010-ez or 1010-cg
+     - Product: Either 1010-ez, 1010-ezr or 1010-cg
 - EZ initiative labels (examples)
      - 1010-short-form
      - 10-10ez-notifications
@@ -116,19 +116,13 @@ Create, review, estimate, and prioritize backlog items.
      - legal-rep
      - MuleSoft
      - 1010 primary/secondary
-     - facilities-1010
-
-- We use epics to represent user stories. For an epic to go into the **"Epic"** column, it should have:
-    - Clear acceptance criteria
-    - Definition of done  
-    - A user story that reflects the benefit to a Veteran, Caregiver, or other user
-    - Been broken up into discreet tasks/Github tickets that are attatched to the epic
-    - All components/steps have been accounted for in the epic
-    - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
+     - facilities-cg
+- EZR initiative labels (examples
+     - toxic-exposure
 
 - Naming convention for tickets/stories/tasks
-    - [area of work] Epic/Initiative: Brief title of work to be done
-    - _Example_: [FE] 1010EZ Shortform: Change accordian alert to expandable alert
+    - [area of work] FormID - Epic/Initiative: Brief title of work to be done
+    - _Example_: [FE] 10-10EZ - Shortform: Change accordian alert to expandable alert
 
 **Epics** should include:
    - Clear acceptance criteria
@@ -189,7 +183,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 - This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
 #### GitHub
-- GitHub is the single source of truth. All work is documented for tracking and capacity planning.
+- GitHub is the single source of truth. All work is documented for tracking and planning.
 
 #### PTO
 - We will respect time off and understand that mental, physical, and personal health is the top priority for team members
@@ -197,4 +191,4 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready to pickup" column in [ZenHub](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
+- Extra time? Explore the "Refined & Prioritized" column in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
