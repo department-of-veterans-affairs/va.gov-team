@@ -1,6 +1,6 @@
 # Project Outline - Ch33 Migration to CorpDB
 
-**Last updated 4/30/2024** -- updated timeline
+**Last updated 8/12/2024** -- updated important dates
 ## Table of Contents 
 - [Communications](#communications)
 - [Roles](#roles)
@@ -287,3 +287,5 @@ Since this feature already exists, we're simply modifying from two forms to one,
 - February 20, 2024: Formal planning and coordination begins
 - April 20, 2024: Set date for migration of BDN to CorpDB
 - April 26, 2024: Last day anything can be sent to BDN
+- July 22, 2024: UAT Completed
+- July 22, 2024: Relaunched to prod
