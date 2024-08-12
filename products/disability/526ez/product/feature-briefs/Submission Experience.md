@@ -118,12 +118,8 @@ In this project plan, we are designing to a future point when the Veteran Facing
 ### Design work - not yet complete
 See [Figma: Submission Experience](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=0-411&t=uzTuyZlBGx8mcw3q-1)
 
-We have been through two cycles of diverging and converging on design work so far. Currently we have alternatives along two variables: 
-1. Design approaches: "standalone confirmation page" or "process list")
-2. Submission models: "option 5" or "option 6"
-
 #### Submission models
-We have explored various options for the conceptual model around submission. 
+We have explored multiple conceptual models for submission. We collaborated closely with our OCTO enabling team, got feedback from CAIA, and aligned with Veteran Facing Forms / My VA to arrive at where we are. See [Disability Submission Experience Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=uc4ae3c86028c82b95c3c2980) for details and other previous models explored
 
 ##### Current working model
 
