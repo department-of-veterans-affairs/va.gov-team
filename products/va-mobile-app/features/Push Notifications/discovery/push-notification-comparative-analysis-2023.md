@@ -1,6 +1,7 @@
 # VA Mobile App - Comparative Analysis: Push Notifications
 
-Nov 2023
+Nov 2023  
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team  
 
 [Figjam with all the screenshots](https://www.figma.com/file/cPH4ZieO1Fvl0qGfBnLwpS/Notifications---Discovery---VA-Mobile?type=whiteboard&node-id=0%3A1&t=aVR74DJoAJ6Zm1gx-1), [comparison/synthesis spreadsheet](https://docs.google.com/spreadsheets/d/1psKb64wdgQ5OHBG39D-ZrF416c98DjUYm8s7hhAkPSM/edit#gid=1388101938)
 
