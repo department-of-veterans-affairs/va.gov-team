@@ -4,21 +4,27 @@
 Date created: August 2024
 
 ### Problem or opportunity statement
-We want to do this because xyz. here is the rationale.
+We want to improve the in-tool navigation by simplifying the tool IA hierarchy and making its structure is more obvious and traversable.
+
+Currently, the tool has a landing page with FAQs which was useful for orienting closed and open-alpha adopters (i.e. Phases 0 and 1) + outlining early stage feedback via a unique email versus the feedback button; however, the tool is progressing past open-beta, and the landing page now causes extra steps for users to start reading their messages as well as complicating the information architecture.
+
 
 ### What we're building or changing
-- We will remove the landing page...
-- We will do x
-- Note TBD/WIP if being explored
+* We will remove the landing page so that when Veterans enter the tool either from the health apt landing page, a new message notification, or from the health apt secondary nav, they will be landed directly in their inbox which enables them to start critical flows ASAP.
+* We are exploring how the FAQs might be moved to unauth pages or to other pages in the tool that are more timing and context appropriate.
+* We are exploring refactoring the in-tool nav UI so that it's more obvious how to access all the pages in the tool, especially in a mobile context.
 
 ### Expected outcome
-Users will have a better UX
+Veterans will more easily find and navigate in-tool pages to access the messages and conversations they want. We expect this to result in a reduction of Medallia feedback centered around not being able to find certain pages.
+
 
 ### Launch timeline
-e.g. We hope to launch this before the end of PI16 (October 15, 2024).
+We hope to launch this during PI17 (October - December 2024)
+
 
 ### Before/After (link) 
 e.g. shareable Figma link 
 
 ### Other key links 
 Related collab cycle ticket
+https://github.com/department-of-veterans-affairs/va.gov-team/issues/90138
