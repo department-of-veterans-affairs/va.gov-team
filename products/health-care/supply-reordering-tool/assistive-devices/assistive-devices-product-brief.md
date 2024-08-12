@@ -40,7 +40,9 @@ Our committment to DLC is to have the ability to add Assistive Devices to the re
 ### Key Performance Indicators (KPIs)
 * CSAT Scores
 * Conversion Rate to Ordering online from ordering over email/phone
-
+* Time to complete order
+* number not completed
+  
 ## Related Product Outlines
 
 * Assistive Devices
