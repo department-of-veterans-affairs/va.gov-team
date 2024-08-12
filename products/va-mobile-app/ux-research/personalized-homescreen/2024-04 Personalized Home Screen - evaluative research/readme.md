@@ -1,6 +1,7 @@
 # Personalized Home Screen - Evaluative Research - MVP
 Participant sessions were conducted June 2024  
-Researcher: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team
+
 
 **Summary**  
 The VA Flagship mobile app was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes).
