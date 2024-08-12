@@ -98,3 +98,24 @@ After you sign in, we’ll tell you if you need to verify your identity.
 { Button } Sign in or create an account
 
 [text link] Start your form without signing in
+
+### Variation for forms and tools that require sign-in and accept unverified accounts
+
+#### Sign in to [CTA]
+You’ll need to sign in through one of our account providers to [CTA]. If you don't have an account, you can create a free **Login.gov** or **ID.me** account now.
+
+{Button} Sign in or create an account 
+
+[text link] [Learn about creating an account](https://www.va.gov/resources/creating-an-account-for-vagov/)
+
+### Variation for forms with optional sign-in that accept unverified accounts and don't support prefill
+
+#### Sign in to save your work in progress
+
+You’ll have {time limit} from when you start or make changes to submit your form.
+
+**Note:** You can sign in after you start filling out your form. But you'll lose any information you already filled in.
+
+{ Button } Sign in or create an account
+
+[text link] Start your form without signing in
