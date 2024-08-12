@@ -36,10 +36,12 @@ Uncover insights and identify areas for further qualitative analysis to improve 
     - This data doesn’t parse the other two options, but with fewer than 20% using the option available on va.gov, there will be a lot of veterans who’ll need to change how they currently sign in.
 - So of the about 12.5 million sessions that begin on either VA.gov or MHV home page, about 45%, or about 5.5 million, move next to sign in
 - Folks get to sign in by other means as well, but this near 40% of traffic make up the 2 largest blocks of sessions.
-- Note DataDog (DD) shows 8.18 million authentications over the same time period, meaning GA has captured over two thirds of authentications just by tracing these two pages
-   - adding in the authentications from sessions that began on /sign-in and these three session-start pages account for about 3/4 of authentications
+- Note DataDog (DD) shows 8.18 million authentications over the same time period
+   - GA has captured over 2/3 of authentications just in these two pages as starting point with authentication occuring next (va.gov and MHV home pages)
+   - GA has captured around 3/4 of authentications from sessions that started in these two pages (va.gov and MHV home pages) plus /sign-in with authentication occuring next
 
-- Other pages with a substantial number of session starts
+
+### Other pages with a substantial number of session starts
   - /sign-in saw just under 10% of all sessions begin on this page
     - These sessions could be initiated from bookmarks by veterans who usually sign in when visiting VA.gov
     -  About 20% of session that started here, moved to authenticate next
@@ -59,7 +61,7 @@ Uncover insights and identify areas for further qualitative analysis to improve 
       - Note - sign in modal comes up if starting from this page in an unathenticated state, so folks who are starting here, perhaps because of a bookmark, don’t necessarily want to do a task that requires signing in. Or perhaps don’t want to sign in right away.
   - Other than the claim or appeal status page, on other top starting pages veterans don’t seem to sign in immediately
 
-- Terms of Use (data from GA and DD)
+### Terms of Use (data from GA and DD)
   - overall about 2.25% of sessions went to the ToU page in the first 2 to 3 pages of the session (from GA)
   - 738 users declined ToU - about 0.13% (from DD)
   - 560,877 users accespted ToU (from DD)
