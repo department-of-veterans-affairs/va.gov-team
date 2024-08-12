@@ -1,6 +1,13 @@
 # How We Work
 
-### Proposal:
+## Background
+Since [date], the Disability Experience (DBEX) teams (T-REX and Carbs, collectively referred to as DBEX) have been collaborating with each other and with VA's Office of the CTO (OCTO) as part of a distributed product development effort. While all teams have effectively addressed veterans' problems and challenges with the online 526 form, there is a shared belief that more can be done to enhance collaboration across teams and with OCTO, aiming for a more efficient veteran experience when filing for and receiving disability compensation. DBEX and OCTO wished to identify improved methods for team collaboration with OCTO, empower teams to self-manage their workflows, increase team satisfaction with their work, share responsibilities more comprehensively, and foster a unified platform of knowledge rather than fragmented pieces, all while prioritizing quality over quantity.
+
+In early August 2024, DBEX and OCTO identified several challenges falling into three main categories: strategic planning, delivery, and knowledge sharing. Strategic planning challenges include difficulty understanding the business objectives of tasks, features, or initiatives, unclear strategic planning processes, lack of data-informed decision-making, managing multiple concurrent initiatives, challenges in scoping initiatives, handling urgent time-sensitive tasks, and ensuring team members feel their contributions are meaningful. Delivery challenges involve slow progress on initiatives, ambiguity around completion criteria, tight timelines and delivery pressures, frequent context switching, and a perceived lack of ownership over planning processes. Knowledge sharing challenges encompass over-specialization in product areas, silos of knowledge between teams, separation between veteran-facing and backend work knowledge, risks of burnout and turnover within DBEX teams, insufficient collaboration across teams, and unresolved technical debt.
+
+## Proposal:
+To improve how we work, OCTO asked DBEX to come up with a proposal for how we might address some of our shared challenges. DBEX and OCTO will iterate on the proposal, and begin implementing the agreed upon changes listed below in mid-to-late August 2024. DBEX will identify the action items that will best optimize roadmap and the experiments that we will run in Q3 and Q4 2024. For each, either DBEX or OCTO will own the action items most appropriate while also understanding that this is a highly collaborative effort that all teams will be executing together.
+
 * Create a cadence of reviewing new and existing high level initiatives with OCTO on a quarterly basis
 * Create a monthly **strategic planning meeting** with leads from each team and OCTO (OCTO PO and Design Lead, DM, PM, Team Design Leads, Team Engineering Leads to:
   * Better define initatives and epics for upcoming sprints. We’ll;
@@ -18,7 +25,7 @@
   * Build clear and consistent practice for brainstorming/ideating across roles and teams
 * Improve and leverage UX, Product, and Engineering metrics to measure against defined success criteria
 
-### Risks & Challenges
+## Risks & Challenges
 * When distributing work across multituple teams,  teams may need time to re-familliarize themselves with the problem space and codebase
   * Strategic planning meetings can be used to surface and socialize features of form 526, sharing knowledge across Product, UX, Design, Delivery, and Engineering
   * Appropriate documentation can be created to share knowledge
@@ -32,50 +39,19 @@
   * The effort required to ship these items may exeec the dedicated “lane” for tech debt we’’ve allocated
 * Create a cadence of reviewing new and existing high level initiatives with OCTO on a quarterly basis - becomes irrelevant due to monthly mtg
 
-### Open questions:
+## Open questions:
 * does OCTO have a quarterly planning?
   * Yes, there's a Quarterly Business Review (QBR) that we can leverage. Might there be touchpoints before and after this?
 
+## Next Steps
+1. Gather additional feedback from DBEX and OCTO on proposal
+2. Identify the experiments OCTO and DBEX will run in Q3 and Q4
+3. Identify concrete actions and owners for each that will best optimize the roadmap
+4. Implement the identified processes and mechanisms
+5. Daily or weekly discuss the established changes and identify any adjustments that need to be made
 
 
-
-| Problem                                                      | Experiment                                                   |
-|--------------------------------------------------------------|--------------------------------------------------------------|
-| too many big-ticket initiatives                              | break them down to be smaller                                |
-|                                                              | more alignment of definition of Veteran value                |
-|                                                              | improved understanding problem definition as some may be related to similar Veteran impact             |
-|                                                              | deliver work fastter by delivering smaller              |
-| too much context switching                                   | Limit WIP                                                    |
-| Risk of burnout                                              | improved definition of done                                  |
-| Risk of turnover                                             |                                                              |
-| Tight timelines and speed pressure                           | more advance notice when possible, limit WIP so we can get work done more efficiently |
-| Handle new time-sensitive priorities and requests            | create a lane for urgent unplanned work to come through      |
-| Initiatives take too long                                    | limit WIP, better DoD, better DoD                            |
-|                                                              | increase depth of knowledge by relegating initatives to one team |
-|                                                              | consider araeas of specialization when planning work         |
-| Not clear when initiatives are done                          | better understanding of business problem, ideate way         |
-| Too much putting work down & picking up later                | better definition of value, lane for urgent unplanned work   |
-| Hard to feel that team members have made an observable contribution | improve UX & Product metrics, beter DoD, celebrate success   |
-| More space for collaboration and co-working on problems      | create a leads touchpoint each month for planning            |
-|                                                              | create a cadence of cross-functional ideation across UX, Product, Design |
-| engineering to be involved earlier in the process            | regularly hold ideation sessions that are effectively-facilitated within the team |
-| Shorten time to value                                        | deliver work in smaller increments                           |
-|                                                              | have alignment on Veteran Value                              |
-|                                                              | better understanding of business problems to solve           |
-|                                                              | dial in team PDLC processes so we                            |
-| increase collaboration across team roles (Eng, Product, Design) | better understanding of who does what, where DACI is for each role |
-| teams don’t always feel responsible for how to prioritize work | more advance notice when possible                            |
-|                                                              | better understanding of Veteran value or impact              |
-|                                                              |                                                              |
-| teams don’t always feel responsible for delivery timing      | more awareness of constraints that impact specific work      |
-| Strategy of how to plan work isn’t always clear              | hold monthly planning meetings across teams where we discuss upcoming work and handle open questions we need to drive improved DoD, impact, value, risks, constraints |
-| More alignment of what it means to be “done” for work features | better understaning of business problem                      |
-|                                                              |  better understanding of success criteira                    |
-| tech debt that doesn’t get resolved                          | create a lane for tech debt each sprint                      |
-|                                                              |                                                              |
-
-
-
+## Appendix
 Constraints:
 **way more engineering work than design work that is under important time pressure**: the EVSS-> LH migration and CY work is large, complex, and unfolding in real-time in ways we cannot control because we are dependent and collaborating with other teams. This has separated design and engineering pretty heavily because there simply isn't design work on these projects, yet engineering is fully indexed.
 new priorities and requests will come to us pretty often, and we sometimes have to pivot to take them up, especially if they have a higher Veteran impact than what's currently on the plate. Or tied to something like a congressional mandate. This can cause churn and context switching, but it's unavoidable at times.
