@@ -1,4 +1,4 @@
-# Analytics findings 
+# Google Analytics identity related findings
 
 **Office of the CTO Digital Experience (OCTO-DE), Identity**
 
