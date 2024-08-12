@@ -20,9 +20,9 @@ As a data producer, I want to resolve login, calculation, and data issues.
 ## Desired User Outcomes
 
 - *Why would a user want to use this?*
-- Users already use SOB for their education benefits information. They want 24/7 access to accurate benefits information 
+  - Users already use SOB for their education benefits information. They want 24/7 access to accurate benefits information 
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-- Access the tool 24/7 and have access to accurate benefits information
+  - Access the tool 24/7 and have access to accurate benefits information
 
 ## Undesired User Outcomes
 - Unable to make SOB available 24/7
@@ -31,9 +31,9 @@ As a data producer, I want to resolve login, calculation, and data issues.
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
-- Improving the product would make it easier for Veterans to access their SOB education benefits information
+  - Improving the product would make it easier for Veterans to access their SOB education benefits information
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-- Provide accurate, accessible information to Veterans regarding their education benefits
+  - Provide accurate, accessible information to Veterans regarding their education benefits
 
 ## Undesired Business Outcomes
 - Unable to make SOB available 24/7
@@ -74,16 +74,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
-- Discover, analyze, and evaluate SOB for functionality.
-- Reolve login, calculation, and data issues.
-- Dsicover, analyze, and evaluate SOB data and system integrations.
-- We're starting here because OIT contracted us to do this work 
+  - Discover, analyze, and evaluate SOB for functionality.
+  - Reolve login, calculation, and data issues.
+   - Dsicover, analyze, and evaluate SOB data and system integrations.
+   - We're starting here because OIT contracted us to do this work 
 - *Why this solution / approach over other solutions / approaches?*
-- This approach is best because it will allow us to restore functionality to SOB for users and provide accurate benefits information  
+   - This approach is best because it will allow us to restore functionality to SOB for users and provide accurate benefits information  
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- Right now we're focusing on restoring funcitonality and effectiveness to SOB. We've opted out of other, asthetic changes to the website and extra features to get a working version out to users as soon as possible. We are not making any design changes to SOB because it is outside our scope of work. 
+  - Right now we're focusing on restoring funcitonality and effectiveness to SOB. We've opted out of other, asthetic changes to the website and extra features to get a working version out to users as soon as possible. We are not making any design changes to SOB because it is outside our scope of work. 
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-- We will make changes based on user testing and CAIA feedback until SOB relaunches. 
+  - We will make changes based on user testing and CAIA feedback until SOB relaunches. 
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
@@ -96,8 +96,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *How are Veterans and others using this product going to know it exists?*
 - Statement of Benefits is a well known tool. Users will recieve communications through the VA about its updates. Our team will work with other VA communications teams throughout the process to ensure users have all necessary information regarding SOB changes. 
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-- We do not have a release plan yet. GovCIO EDM team will begin writing a Release Plan late 2024 or early 2025. 
+  - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+  - We do not have a release plan yet. GovCIO EDM team will begin writing a Release Plan late 2024 or early 2025. 
 
 ## Launch Dates
 - *Target Launch Date*
