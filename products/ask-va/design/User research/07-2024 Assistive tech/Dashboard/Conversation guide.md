@@ -175,6 +175,8 @@ Next, I'm going to share a link to the test website.
 
 ## Dashboard (30 minutes)
 
+> Screen: Dashboard page
+
 So, today we're going to observe as you navigate this website. 
 
 Before you start, I'm going to share some context with you.
@@ -205,7 +207,7 @@ I'll give you a couple minutes to navigate around. And after you finish, I'd lik
 
 ### Task 2
 
-Okay great. The next thing I'd like to you do is find a question that has a reply from the VA.
+Okay, great. The next thing I'd like to you do is find a question that has a reply from the VA.
 
 So, there's a few questions on this page and I'd like you to find one that has a reply from the VA.
 
@@ -214,11 +216,34 @@ So, there's a few questions on this page and I'd like you to find one that has a
 - Which question has a reply from VA?
 - How do you know when there's a reply from VA?
 - Is there more than one question that have a reply from VA?
-- If you weren't sure, what would you do?
+- If you weren't sure how to find it, what would you do?
 
 ### Task 3
 
---
+Next, I'd like you to find a question that's related to housing assistance.
+
+[When they've finished...]
+
+- Which question is related to housing assistance?
+- How did you find the question that's related to housing assistance?
+- If you weren't sure how to find it, what would you do?
+
+### Task 4
+
+Okay, this is the last task on this page. I'd like you to find the question that you submitted on September 3rd.
+
+[When they've finished...]
+
+- Which question did you submit on September 3rd?
+- What is the question about?
+- How did you find the question that you submitted on September 3rd?
+- If you weren't sure how to find it, what would you do?
+
+### Task 5
+
+Now, we're going to read the reply from the VA. I'd like you to show me how you would navigate to read what the VA replied to your question that you submitted on September 3rd.
+
+> Navigates to question details page.
 
 <details>
   <summary>Key things to notice</summary>
@@ -234,45 +259,40 @@ So, there's a few questions on this page and I'd like you to find one that has a
 
 ## Details (20 minutes)
 
-> Screen: Your personal information
+> Screen: Question details page
 
-> Screen: Category
+Okay, great.
 
-- Note: They must choose `Health care`.
+- Before we talk about this page, did you have any difficulty finding the link to this page?
 
-> Screen: Topic
+Great. We're going to do the same thing on this page.
 
-- Note: They must choose `Getting care at a local VA medical center`.
+### Task 1
 
-> Screen: Who is your question about?
+First, I'd like you to find and read the reply that the VA sent you.
 
-- Note: They must choose `Myself`.
+[When they've finished...]
 
-> Screen: What is your relationship to the Veteran?
+- What did the VA reply to you?
+- How did you navigate to the reply on this page?
 
-- Note: They must choose `I'm the Veteran`.
+### Task 2
 
-> Screen: Your VA health facility
+Next, I'd like you to tell me what you would do if you read this reply and you had a follow-up question.
 
-- Note: They can choose their actual VA health facility or find a facility in Ohio.
+[When they've finished...]
 
-> Screen: Your contact information
+- Did you find anything else on this page that could help?
+- If you couldn't find anything on this page, what would you do?
+- Can you send a reply back to the VA?
 
-- Note: They can choose to email or phone, but not mail.
+### Task 3
 
-> Screen: Your postal code
+Now, let's try and reply back to the VA. Go ahead and write a short reply to the VA (you can write anything). And send it.
 
-- Note: They can input their actual post code or any post code.
+[When they've finished...]
 
-> Screen: Your question
-
-- Note: They can input any question or text.
-
-> Screen: Review and submit
-
-- Note: They should practice editing one field, for example, phone number.
-
-> Screen: Confirmation page
+> Navigates to reply confirmation page.
 
 <details>
   <summary>Key things to notice</summary>
@@ -281,21 +301,34 @@ So, there's a few questions on this page and I'd like you to find one that has a
 - Are there any areas or components they struggle to interact with?
 - Are all interactive elements properly labeled and announced?
 - Is the tab order logical and easy to follow?
-- Is it useful to have the first element in focus be the progress bar, or, should it be the page title?
-- Can they edit on the `Review and submit` page without issue?
 - Where did they pause, if at all?
-- Was their next step always clear?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
 
 </details>
 
 ## Reply (10 minutes)
 
-> Screen: Your personal information
+> Screen: Reply confirmation page.
 
-> Screen: Category
+Okay, great.
 
-- Note: They must choose `Health care`.
+- Before we talk about this page, how was that process of replying back to the VA?
+
+Great. I'll give you a minute to read through this page and then I'd like to know if you have any questions about it.
+
+[When they've finished...]
+
+- Do you have any questions about what you just read?
+- What's the next step in the process after you sent the VA a follow up question?
+
+### Task 1
+
+Great. I'd like to do one more thing. I'd like for you to navigate back to the home page, where we started. That's the page where you could read all of your questions.
+
+[When they've finished...]
+
+- Did you have any trouble finding how to get back to this page?
+- Is there anything else you want to share about this page?
 
 <details>
   <summary>Key things to notice</summary>
@@ -304,10 +337,7 @@ So, there's a few questions on this page and I'd like you to find one that has a
 - Are there any areas or components they struggle to interact with?
 - Are all interactive elements properly labeled and announced?
 - Is the tab order logical and easy to follow?
-- Is it useful to have the first element in focus be the progress bar, or, should it be the page title?
-- Can they edit on the `Review and submit` page without issue?
 - Where did they pause, if at all?
-- Was their next step always clear?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
 
 </details>
@@ -316,30 +346,26 @@ So, there's a few questions on this page and I'd like you to find one that has a
 
 [You can stop sharing your screen now if you'd like to.]
 
-Awesome. We've completed the form [or we're getting close to the end of our session, so let's stop here].
+Awesome. We've finished reviewing the prototype.
 
 Let's spend the last 10 minutes reflecting on that experience.
 
 - First off, how was that for you?
-- Was there anything particularly challening about using your assistive technology to submit this form?
-- Did you encounter any unexpected behaviour at any point in the form?
+- Was there anything particularly challenging about using your assistive technology to find or review past questions?
+- What about replying to the VA?
+- Did you encounter any unexpected behaviour at any point?
 - Did you feel unsure at any moment about what to do next?
 - Is there anything you would change about the experience?
-
-(If it's not covered yet) I have a specific question about the first element in focus on each page. Every time you navigated to a new page, the first element in focus is the heading that tells you what percentage complete you are with the form. For example, 20% complete with form.
-
-- Did you find this helpful?
-- Is there another heading that you think could be a better first element in focus as you enter a new page?
 
 <details>
   <summary>Key things to notice</summary>
 
-- How was their experience completing this form with assistive tech?
+- How was their experience finding and reviewing past questions?
+- How was their experience replying back to the VA?
 - How, if it all, does Ask VA need to evolve to provide a more equitable experience?
 - Were there any areas or components they struggle to interact with?
 - Were all interactive elements properly labeled and announced?
 - Was the tab order logical and easy to follow?
-- Is it useful to have the first element in focus be the progress bar, or, should it be the page title?
 - Was their next step always clear?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
 
