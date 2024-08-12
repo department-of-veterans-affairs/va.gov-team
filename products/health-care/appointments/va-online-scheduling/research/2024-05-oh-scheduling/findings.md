@@ -94,11 +94,11 @@ This test included 2 versions of the appointments list:
 
 **Hypothesis 3:** As a Veteran, I can quickly schedule from previous appointments.
 - Veterans will want a shortcut to schedule appointments similar to those they've had in the past.
--   TRUE: Veterans appreciated how this feature streamlined the appointment making process and provided details on who they saw.
+  - TRUE: Veterans appreciated how this feature streamlined the appointment making process and provided details on who they saw.
 - Veterans will have a distinct preference for scheduling using the past provider or clinic flow compared to the "type of care" route.
--   TRUE: When asked to schedule an appointment, they would first check to see if they could schedule from a past appointent listed. 
+  - TRUE: When asked to schedule an appointment, they would first check to see if they could schedule from a past appointent listed. 
 - Scheduling appointments similar to those they've had in the past will help Veterans schedule more quickly.
--   TRUE: See above
+  - TRUE: See above
 
 
 **Hypothesis 4:** As a Veteran, I need helpful reminders that the scheduling tool is not for emergencies in appropriate places in the process so that it is not an annoyance.
