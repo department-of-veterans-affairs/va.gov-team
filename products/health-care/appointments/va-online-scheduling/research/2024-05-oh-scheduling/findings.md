@@ -2,9 +2,9 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-Date: MM/DD/YYYY
+Date: 08/12/2024
 
-[Designer 1] [email], [Designer 2] [email]
+Melissa Lefevre melissa.lefevre@va.gov
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -65,7 +65,7 @@ After this research is complete, we will:
 
 ## Methodology 
 
-For this usability study, we will use the moderated usability testing method. This approach involves live, one-on-one sessions through Zoom where a facilitator guides participants through a series of tasks using a prototype of the scheduling flow. The facilitator will observe participants' interactions, collect their feedback, and probe for deeper insights into their experiences.
+For this usability study, we used the moderated usability testing method. This approach involved live, one-on-one sessions through Zoom where a facilitator guided participants through a series of tasks using a prototype of the scheduling flow. The facilitator observed participants' interactions, collected their feedback, and probed for deeper insights into their experiences.
 
 **Location:** Zoom
 
