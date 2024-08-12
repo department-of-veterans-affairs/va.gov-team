@@ -101,6 +101,18 @@ TBD
 ## 6.2.3 Risks and Challenges
 TBD
 
+### 6.2.4 CAIA and Collaboration Cycle progress
+
+#### [CAIA intake request, May 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83554)
+
+Here, we got feedback (which we incorporated) on the submission model and aligned on some other approaches with the Veteran Facing Forms team. 
+
+#### [Midpoint review June 17, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86117)
+
+We initiated a Design Intent meeting which we changed to a Midpoint review, since we were far enough along to approach that as our first Collaboration Cycle stage. We addressed all items that came out of it (which were all minor).
+
+Also see our [Collaboration Cycle Milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1326)
+
 ## 6.4 [Submission Status on VA.gov](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884)
 
 See [epic](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884) for problem description / user stories
