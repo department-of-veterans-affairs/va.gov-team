@@ -101,30 +101,11 @@ TBD
 ## 6.2.3 Risks and Challenges
 TBD
 
+## 6.4 [Submission Status on VA.gov](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884)
 
-# 7. FAQ
-### Where can I follow along with this work?
-We are tracking the work in the [Submission Experience project on the roadmap](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/roadmap?project=z2lkoi8vcmfwdg9yl1byb2ply3qvodiymty) - see various epics within it.
+See [epic](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884) for problem description / user stories
 
-The [User Story Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=ubd79255de28cd574d7575469) is used to map out the initiative's features and user stories.
-### When does the submission experience “end”?
-When the claim is established in VBMS and all initial doc uploads succeed or the submission process ultimately fails (clarified [in Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1712083884346289?thread_ts=1711719139.052369&cid=C053UDWMH7U)).
-### What is the detailed delivery plan?
-Each delivery phase of the Submission Experience is detailed in the Epic for each phase. Links provided above in section 5.
-
-# Appendix
-
-## A. May 2024 Replanning
-In early 2024, we took the approach of improving Veterans' submission experience across a broad range of Veteran touchpoints, such as pages, static content, email, and copy. Some of the changes we believed would improve the submission experience touched other apps, such as My VA, Claims Status Tool, and the mobile app. However, these apps are out of our control, and attempts to enact change in these Veteran touchpoints would create dependencies on external teams, widen the problem area, and complicate solutioning. This would lead to a slower delivery timeline that left Veterans with a suboptimal experience.
-
-To more quickly meet the needs of the Veterans we serve and increase opportunities for learning, we decided to deliver in an iterative manner, focusing on small and simple interventions in areas of VA.gov that we control. To reduce dependencies and unknowns on external teams and systems, we'll design solutions based on the current state of VA.gov as opposed to unknown future states. Where possible, we'll work with external teams to propose changes that we believe will improve the Veteran's submission experience but won't rely on those teams to solve problems for us. To consider the Veteran's entire user journey and the technology systems that comprise their user experience, we separated the work into five smaller phases, each with separate delivery milestones that we will deliver iteratively. This planning resulted in pausing some in-progress design work to be continued at a later phase (see Appendix A).
-
-## B. Working solution
-The design is based on a couple of different project plans, documented below for the sake of being able to pick them up again when relevant.
-
-### Designing to future state of other products (June 3, 2024) - on hold
-
-#### Plan
+### Plan
 In this project plan, we are designing to a future point when the Veteran Facing Forms team's [Show status of form submissions to users on My VA and confirmation page initiative](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/1170) is complete and other products including My VA, Claim Status Tool, and the mobile app, along with us (the 526 disability benefits application) have aligned on an agreed-upon Veteran-facing submission model and incorporated it into their products. This allows us to address particular known painpoints in a way that is centered on the Veteran journey regardless of team boundaries in the product. Those painpoints (extending the [Problem or Opportunity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md#problem-or-opportunity) statements with more detail) include:
 
 1. Veterans have inaccurate expectations for what happens after they submit a claim.
@@ -141,6 +122,67 @@ We have been through two cycles of diverging and converging on design work so fa
 1. Design approaches: "standalone confirmation page" or "process list")
 2. Submission models: "option 5" or "option 6"
 
+#### Submission models
+We have explored various options for the conceptual model around submission. 
+
+##### Current working model
+
+###### Submitting and Received
+
+####### Alginment across teams
+
+As of Aug 9, 2024, Veteran Facing Forms and My VA is planning to soon release an update (with other non-526 forms) that uses this model. 
+
+####### Description
+
+1. Preparing your claim
+   1. Shown on 526 loading page
+2. Submitting your claim
+   1. Shown on 526 confirmation page
+   2. We also say it typically takes up to 3 days for your claim to be received
+3. “Date submitted” = date the Veteran clicked “submit”
+   1. Shown on 
+      1. Confirmation email
+      2. Claim received email
+      3. 526 confirmation page
+      4. My VA (when claim has not yet been received)
+4. “Date received” = date all parts of the 526 claim are available in VBMS
+   1. Shown on
+      1. Claim received email
+      2. My VA & Claim Status Tool (once claim has been received)
+
+####### Potential issues
+
+The concept of “submitting” has multiple meanings. We are saying “date submitted” to refer to the Veteran action of clicking “submit”. We are also saying “submitting your claim” to refer to the system actions that need to take place for the claim to appear in VBMS. At the same time, we show a “date submitted”, implying that submission is done and “submission in progress”, implying that submission is not done.
+
+We did not find major Veteran issues with this in Timely and Truthful Submission research conducted July 2024. However, we didn’t use the term “date submitted” with most participants, so this is not well validated. In that study we used “date initiated” rather than “date submitted”. At least one participant had confusion with “date initiated” and suggested using “date submitted” instead. 
+
+##### Previous models explored
+
+###### Sending to VBA
+
+####### Reason for abandoning
+
+In our CAIA feedback request ticket, CAIA pointed to design system language guidance that conflicts with our approach. The guidance is that “we” should refer to VA as a whole, so it doesn’t make sense for “us” to send something to another part of VA, such as Veterans Benefits Administration.
+
+####### Description
+
+- Status: Preparing your claim 
+  - Veterans only receive this status if their claim takes longer than 30 seconds to cest. 
+  - Touchpoints: UI and email, eventually “pending” status in MyVA
+  - "Preparing claim status will replace the current "taking longer than expected" messaging, which creates alarm without providing any clarity on the claim status. 
+- Status: Sending your claim to Verans Benefits Administration* 
+  - Veterans receive this status once the EP is established. 
+  - If the backup path isn’t required, this is also when they will receive a Claim ID
+  - Touchpoints: UI if the EP is established in the first 30 seconds, email if not
+  - *Other options for name of receiving entity: Benefits Team, Veteran Benefits Administration status
+- Status: VA Benefits has received your claim. 
+  - Veterans receive this status once everything is in their eFolder
+  - Touchpoints: Email 
+  - *Other options for name of receiving entity: Benefits Team, Veteran Benefits Administration status
+
+All Veterans should receive one of these statuses in the UI and via email (VA Notify) at the time of submission. This update addresses 1) Veteran expectation for an email at time of submission and 2) A receipt for their records (hopefully with more claim info included). 
+
 #### Design approaches
 Visual language for how we convey submission status, mainly the 526 confirmation screen.
 
@@ -150,27 +192,17 @@ This is close to our current visual language, with a loading screen and confirma
 ##### Process list
 This approach uses the Process List pattern that replaces the loading screen and confirmation screen. The goal is to have a clear indication of what is happening and what will happen next from the time of clicking "submit" until the step that would be the confirmation screen. 
 
-#### Submission models
-What we mean by key terms used to describe certain steps or statuses in the submission process. These terms include "submitting", "submitted", "initiated", "processing", "sending", "preparing", "in progress", "pending", "received"
+# 7. FAQ
+### Where can I follow along with this work?
+We are tracking the work in the [Submission Experience project on the roadmap](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/roadmap?project=z2lkoi8vcmfwdg9yl1byb2ply3qvodiymty) - see various epics within it.
 
-##### Option 5
-1. Adds a submitting claim step to the beginning of the CST / "[what happens after I file a VA disability claim?](https://www.va.gov/disability/after-you-file-claim/)" steps
-2. "date initiated" is the date the claim CESTs
+The [User Story Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=ubd79255de28cd574d7575469) is used to map out the initiative's features and user stories.
+### When does the submission experience “end”?
+When the claim is established in VBMS and all initial doc uploads succeed or the submission process ultimately fails (clarified [in Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1712083884346289?thread_ts=1711719139.052369&cid=C053UDWMH7U)).
+### What is the detailed delivery plan?
+Each delivery phase of the Submission Experience is detailed in the Epic for each phase. Links provided above in section 5.
 
-##### Option 6
-1. does not add a step and uses that flag-icon (in progress) state on step 1 of 8: claim received
-2. "date initiated" is the date the Veteran clicked "submit"
-
-## Eliminating dependencies on other products
-### Plan
-In this project plan, we deliver iteratively while eliminating dependencies on the Veteran Facing Forms team's [Show status of form submissions to users on My VA and confirmation page initiative](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/1170) and design to the current (in production) states of other products like My VA, Claim Status Tool, and the moblie app. This focuses more narrowly on the [problem statement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md#problem-or-opportunity) of:
-
-1. Veterans lack timely and truthful information about their claim
-
-## C. May 2024 Replanning
-In early 2024, we took the approach of improving Veterans' submission experience across a broad range of Veteran touchpoints, such as pages, static content, email, and copy. Some of the changes we believed would improve the submission experience touched other apps, such as My VA, Claims Status Tool, and the mobile app. However, these apps are out of our control, and attempts to enact change in these Veteran touchpoints would create dependencies on external teams, widen the problem area, and complicate solutioning. This would lead to a slower delivery timeline that left Veterans with a suboptimal experience.
-
-To more quickly meet the needs of the Veterans we serve and increase opportunities for learning, we decided to deliver in an iterative manner, focusing on small and simple interventions in areas of VA.gov that we control. To reduce dependencies and unknowns on external teams and systems, we'll design solutions based on the current state of VA.gov as opposed to unknown future states. Where possible, we'll work with external teams to propose changes that we believe will improve the Veteran's submission experience but won't rely on those teams to solve problems for us. To consider the Veteran's entire user journey and the technology systems that comprise their user experience, we separated the work into five smaller phases, each with separate delivery milestones that we will deliver iteratively. This planning resulted in pausing some in-progress design work to be continued at a later phase.
+# Appendix
 
 ## D. Links
 [526ez Shadowing Veteran Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
