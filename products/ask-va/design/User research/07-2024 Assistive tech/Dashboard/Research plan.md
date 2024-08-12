@@ -63,7 +63,7 @@ We will run a moderated usability study remotely on Zoom. We will test in stagin
 
 ### Research materials
 
-* [Conversation guide](add link)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Dashboard/Conversation%20guide.md)
 * [Staging link](https://staging.va.gov/contact-us/ask-va-too/)
 * [How to create a new test user account](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1218)
 * [List of test user accounts created for this study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md)
