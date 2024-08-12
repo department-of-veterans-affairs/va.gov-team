@@ -44,16 +44,12 @@ This initiative focuses on all paths for the submission and post submission expe
 
 ## 5.3 Risks and Challenges
 1. This work is dependent on the /submit endpoint migration from legacy EVSS services to Lighthouse and must be completed first
-2. Some unknowns with email confirmations
-   1. Content guidance and landscape of existing email confirmations on VA.gov
-   2. Technical implementation
-3. Uncertain what we can get back about submission status in all cases immediately after submission
 4. User research will require planning around some challenges
    1. We prefer to have Veterans submit actual claims, which we know is difficult to recruit for and usually involves sensitive information
    2. Otherwise, how might we understand whether our attempts to mitigate duplicate submissions will work?  
 5. Any changes to the Claims Status Tool (CST) that impact how the Veteran accesses their submission status or what they are able to track as related to submission may need copy/link changes
 6. Will need careful collaboration with back-up path and document failures to identify all use cases for full submission flow to make sure there are no missing or inaccurate notifications
-7. Access to quantitative data, used to supplement our qualitiatie research can be challenging to get, and in some cases not available.
+7. Access to quantitative data, used to supplement our qualitiative research can be challenging to get, and in some cases not available.
 
 # 6. Features
 Brief descriptions of each feature are listed below, along with success criteria, scope, and known risks and challenges. As we learn about upcoming features, detail will be added and changed as needed to reflect the latest known information. Feature epics listed in section 5 are the best place to get detailed information about individual user stories for each feature.
