@@ -62,6 +62,7 @@
 - Now, let's try uploading the same image using the prototype. Please think aloud as you complete the task.
 - Observe participant's actions and provide prompts as needed:
     - Did the new features help you upload the image more efficiently?
+    - What did you think about splitting out the upload image from the select from image media library?
     - Was it easier to find what you needed compared to the current system?
     - Are there any features you found confusing or unnecessary?
     - Are there any improvements you'd like to see in the prototype?
