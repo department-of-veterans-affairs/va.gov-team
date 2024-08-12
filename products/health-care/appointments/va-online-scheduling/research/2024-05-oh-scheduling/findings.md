@@ -104,13 +104,13 @@ This test included 2 versions of the appointments list:
 **Hypothesis 4:** As a Veteran, I need helpful reminders that the scheduling tool is not for emergencies in appropriate places in the process so that it is not an annoyance.
 
 - Veterans will find these warnings necessary.
-  - TRUE Several participants mentioned the importance of the alert for stopping to consider if they needed immediate care. For instance, P14 appreciated the prompt to reconsider their symptoms, and P4 found it useful to stop and think about their condition. Additionally, P5 stated that the alert made them consciously consider their situation.
+  - TRUE Several participants mentioned the importance of the alert for stopping to consider if they needed immediate care. 
 
 - Veterans will find these warnings helpful.
-  - TRUE Participants generally found the warnings helpful. P4 noted the alert's utility in prompting them to reconsider their symptoms, and P5 appreciated the clear visibility of the alert box. P1 also mentioned noticing and liking the crisis line call-to-action right away. These responses indicate that the alert was seen as a useful feature.
+  - TRUE Participants generally found the warnings helpful. 
 
 - Veterans will find that the alert is timely and appropriate.
-  - MIXED: While several participants found the alert timely and necessary (e.g., P1, P4, P5), some expressed irritation or found it redundant. P8 mentioned feeling annoyed by constant crisis alerts and not finding them appropriate. P7 also indicated that the alert did not seem applicable to their personal experience. This suggests that while many veterans found the alert appropriate, a subset found it intrusive or unnecessary.
+  - MIXED: While several participants found the alert timely and necessary, some expressed irritation or found it redundant. 
 
 **Hypothesis 5:** As a Veteran, I want to be alerted when appointment events happen so I know exactly what I need to do next.
 - Veterans will be able to find their notifications without prompting.
