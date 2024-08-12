@@ -235,7 +235,7 @@ This is a rough timeline of how this might work assuming there are no roadblocks
 
 </details>
 
-### Revised Timeline June 2024
+### Revised Timeline June 2024 - estimated
 
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/6c48be6a-a1c8-4e93-9172-541178912948)
