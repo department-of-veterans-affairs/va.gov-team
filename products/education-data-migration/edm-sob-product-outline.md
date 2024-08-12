@@ -6,13 +6,12 @@
 
 ## Overview
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
-The Statement of Benefits (SOB) Tool is designed to provide detailed benefit utilization and entitlement information to Veterans awarded Post-9/11 GI Bill education benefits, as well as to surviving spouses or dependents utilizing transferred benefits from qualifying Veterans and active-duty service members meeting specific service criteria.
+Our team will fix data issues in the existing Post-9/11 Statement of Benefits (SOB) and make it available 24/7 so Veterans have access to accurate benefits informaiton. The Statement of Benefits (SOB) Tool is designed to provide detailed benefit utilization and entitlement information to Veterans awarded Post-9/11 GI Bill education benefits, as well as to surviving spouses or dependents utilizing transferred benefits from qualifying Veterans and active-duty service members meeting specific service criteria.
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-As a Veteran, I want to determine my education benefit eligibility. 
-As a content resource, I want to:
-•	Ensure that SOB is enhanced to provide 24/7 access to veterans. 
+As a Veteran, I want to accurately determine my education benefit eligibility and have access to my benefits information 24/7. 
+As a content resource, I want to ensure that SOB is enhanced to provide 24/7 access to Veterans
 As a data producer, I want to resolve login, calculation, and data issues.
 
 
@@ -21,18 +20,24 @@ As a data producer, I want to resolve login, calculation, and data issues.
 ## Desired User Outcomes
 
 - *Why would a user want to use this?*
+- Users already use SOB for their education benefits information. They want 24/7 access to accurate benefits information 
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Access the tool 24/7 and have access to accurate benefits information
 
 ## Undesired User Outcomes
-
+- Unable to make SOB available 24/7
+- Veterans are presented with innacurate benefits information 
 
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
+- Improving the product would make it easier for Veterans to access their SOB education benefits information
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Provide accurate, accessible information to Veterans regarding their education benefits
 
 ## Undesired Business Outcomes
-
+- Unable to make SOB available 24/7
+- Veterans are presented with innacurate benefits information
 
 ---
 ## Measuring Success
@@ -55,9 +60,10 @@ As a data producer, I want to resolve login, calculation, and data issues.
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
+- Objective: 24/7 access to SOB
+  - Key result: Veterans can access their benefits at all times
+- Objective: Fix data issues 
+  - Key result: Veterans have access to accurate benefits information 
 
 
 ---
@@ -73,9 +79,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Dsicover, analyze, and evaluate SOB data and system integrations.
 - We're starting here because OIT contracted us to do this work 
 - *Why this solution / approach over other solutions / approaches?*
-- This approach is best because it will allow us to restore functionality to Statement of Benefits for users and make the website 508 compliant. 
+- This approach is best because it will allow us to restore functionality to SOB for users and provide accurate benefits information  
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- Right now we're focusing on restoring funcitonality and effectiveness to SOB. We've opted out of other, asthetic changes to the website and extra features to get a working version out to users as soon as possible. 
+- Right now we're focusing on restoring funcitonality and effectiveness to SOB. We've opted out of other, asthetic changes to the website and extra features to get a working version out to users as soon as possible. We are not making any design changes to SOB because it is outside our scope of work. 
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 - We will make changes based on user testing and CAIA feedback until SOB relaunches. 
 
@@ -88,7 +94,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Strategy
 - *How are Veterans and others using this product going to know it exists?*
-- Statement of Benefits is a well known tool. Users will recieve communications through the VA about its updates. GovCIO EDM team will work with other VA communications teams throughout the process to ensure users have all necessary information regarding SOB changes. 
+- Statement of Benefits is a well known tool. Users will recieve communications through the VA about its updates. Our team will work with other VA communications teams throughout the process to ensure users have all necessary information regarding SOB changes. 
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 - We do not have a release plan yet. GovCIO EDM team will begin writing a Release Plan late 2024 or early 2025. 
@@ -114,12 +120,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
-Statement of Benefits is under maintence until July 9, 2024 at a minimum so we do not have any before photos aside from the login page. 
-![Picture1](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/02fcf6cc-f180-4c59-87b1-fd9fe1af27ad)
-![Picture2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/35694b6b-1efe-48f3-a399-f86a146d6cf1)
+![SOB Screenshot 2](https://github.com/user-attachments/assets/4356c300-fcc5-4468-bf1a-4134d054d6d0)
+![SOB Screenshot 3](https://github.com/user-attachments/assets/34a7994e-ad68-43fd-a833-234f918d1b50)
+![SOB Screenshot 1](https://github.com/user-attachments/assets/34936753-9792-414c-94ba-b70efaefebbf)
+
 
 
 ### After
+We are not making any changes to the design of SOB.
 
 ---
 
@@ -134,8 +142,6 @@ Statement of Benefits is under maintence until July 9, 2024 at a minimum so we d
 - Stakeholders:
   OIT: Darla van Nieukerk (Darla.vanNieukerk@VA.gov)
   Statement of Benefits: Tammy Turley (Tammy.Hurley1@VA.gov)
-  WEAMS Public: Robert Holbrook (Robert.Holbrook@VA.gov)
-  Yellow Ribbon Tool: Brian Grubb (Brian.Grubb@VA.gov) 
 
 </details>
 
