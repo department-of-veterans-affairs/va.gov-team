@@ -1,6 +1,6 @@
 # Google Analytics identity related findings
 
-**Office of the CTO Digital Experience (OCTO-DE), Identity**
+**Office of the CTO Digital Experience (OCTO-DE), Identity Experience Team**
 
 Date: 08/12/2024
 
