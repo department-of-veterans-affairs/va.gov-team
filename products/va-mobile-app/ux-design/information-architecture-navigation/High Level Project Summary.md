@@ -162,5 +162,5 @@ For detailed protocol on each part of the study, see:
   * Navigation model explorations & audit: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre, with Mobile UX team
   * Sitemap: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
   * High level navigation model wireframes & prototype: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
-  * High fidelity screen templates for navigation model: Lauren Russell ([lauren.russell@adhocteam.us](mailto:lauren.russell@adhocteam.us))
+  * High fidelity visual design for screen templates: Lauren Russell ([lauren.russell@adhocteam.us](mailto:lauren.russell@adhocteam.us))
 
