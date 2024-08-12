@@ -1,5 +1,5 @@
 # Personalized Home Screen - Evaluative Research - MVP
-Participant sessions were conducted June 2024
+Participant sessions were conducted June 2024  
 Researcher: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
 
 **Summary**  
