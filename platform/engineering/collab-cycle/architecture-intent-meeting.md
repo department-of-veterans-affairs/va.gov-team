@@ -104,10 +104,10 @@ This checklist is by no means a comprehensive list of all applicable security pr
         * PII and PHI can be retained for a maximum of 60 days.
         * However, for forms that are in process (i.e., that a user has started working on but not yet submitted), PII may be retained for as long as the form is still eligible to be completed and submitted. Once the form expires and can no longer be worked on, the 60-day clock starts ticking, though again, ideally we would get rid of the PII sooner than that if there is no longer a business justification to retain it.
         * Once a form has been completed and submitted, the 60-day clock starts when we have received confirmation from the remote system that the submission was successful, though again, getting rid of the PII sooner than that is preferred when possible.
-        * Note that the forms system includes support for these data-retention rules.
+        * Note that the [Forms Library][forms] includes support for these data-retention rules.
     + PII and PHI should never be hard-coded in source code or checked into GitHub.
     + Data encryption
-        * PII and PHI fields in the database [must be encrypted][API-encryption]. Note that the forms system encrypts form data automatically.
+        * PII and PHI fields in the database [must be encrypted][API-encryption]. Note that the Forms Library encrypts form data automatically.
         * PII and PHI must be encrypted in transit. This means, primarily, that any network streams, e.g., API calls, over which we exchange PII or PHI must use TLS.
 - Authentication and authorization
     + `vets-api` endpoints should use the [authentication][authn] and [authorization][authz] functionality provided by `vets-api`. Please don't roll your own.
@@ -128,6 +128,7 @@ TODO: use [Design Intent][DI] as a template
 [threats]: https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
 [PIL]: https://depo-platform-documentation.scrollhelp.site/developer-docs/personal-identifiable-information-pii-guidelines#PersonalIdentifiableInformation(PII)guidelines-PIIwiththePersonalInformationLog
 [ICN]: https://depo-platform-documentation.scrollhelp.site/developer-docs/personal-identifiable-information-pii-guidelines#PersonalIdentifiableInformation(PII)guidelines-NotesandpoliciesregardingICNs
+[forms]: https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview
 [API-encryption]: https://depo-platform-documentation.scrollhelp.site/developer-docs/data-encryption-in-vets-api
 [authn]: https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication
 [authz]: https://depo-platform-documentation.scrollhelp.site/developer-docs/authorization
