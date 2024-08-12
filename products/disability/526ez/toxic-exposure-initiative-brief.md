@@ -46,7 +46,8 @@ Today, while Veterans can file disability compensation for conditions believed t
 | Reduce or maintain existing submission errors               | 0.62%     | ≤ 0.62%                                       | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
 | Maintain % of submissions that use normal path              | 99.38%    | 99.38% (inferred from % of submission errors) | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
 | Maintain or reduce uses of backup and failsafe path         |           |                                               | Pending Backup Path monitoring                               |
-|                                                             |           |                                               |                                                              |
+| Maintain or reduce form exits                                                            |           |                                               |                                                              |
+| Measure Toxic Exposure opt-in rate %                                                            |           |                                               |                                                              |
 
 ---
 ## Discovery
