@@ -9,9 +9,9 @@ Clayton Zook - clayton.zook@oddball.io
 
 **Jump to:**
 
-[Key Analysis Points](#key-analysis-points)
-
-[Raw data](#raw-data)
+- [Key Data Points](#key-data-points)
+- [Analysis](#analysis)
+- [Raw data](#raw-data)
 
 
 ## Background
@@ -20,8 +20,9 @@ Uncover insights and identify areas for further qualitative analysis to improve 
 ## Methodology 
 - Review analytics from [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHng40nLS92fZ8sGB5MhIQ)
    - Focused on data from 30 days in July (July 2 to 31, 2024)
+- Also pulled data from DataDog, [Terms of Use Dashboard](https://vagov.ddog-gov.com/dashboard/kc5-ie8-dh2/identity-tou---performance?fromUser=true&refresh_mode=paused&view=spans&from_ts=1719892800000&to_ts=1722484740000&live=false)
 
-## Key Analysis Points
+## Key data points
 
 - Around 31 million sessions were tracked in GA
   - about 20% of session start on VA.gov (home page)
@@ -67,6 +68,7 @@ Uncover insights and identify areas for further qualitative analysis to improve 
   - 560,877 users accespted ToU (from DD)
 
 
+## Analysis
 
 
 ## Raw data
