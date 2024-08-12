@@ -11,7 +11,7 @@ Clayton Zook - clayton.zook@oddball.io
 
 [Key Analysis Points](#key-analysis-points)
 
-[Take-aways](#raw-data)
+[Raw data](#raw-data)
 
 
 ## Background
