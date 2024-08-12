@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 29, 2024
+Last updated by @tygindraux: August 12, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -59,7 +59,7 @@ This research will help us document and prioritize any bugs or usability issues 
 
 ## Methodology
 
-We will run a moderated usability study remotely on Zoom. We will test in staging using test user accounts. 
+We will run a moderated usability study remotely on Zoom. We will mock the sign in process, so participants don't have to sign in but we can test the authenticated experience.
 
 ### Research materials
 
@@ -76,18 +76,7 @@ We will work with Perigean to recruit Veterans for this research.
 
 We request that Perigean:
 - shares a link or screenshot of the recruitment survey for this study, so we can review it before it goes out to participants
-- emails each participant after they've been recruited (copy content provided)
-- calls each participant to remind them about the session, one day in advance.
-
-#### Email to send each participant after recruitment, prior to their session
-
-> Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
->
-> How would you prefer to receive a link to the prototype during the session? By email, through Zoom chat or dictated aloud?
->
-> On the call, we’ll have an accessibility specialist with us. Are there any other accommodations that would be helpful during your session?
->
-> We look forward to meeting with you soon.
+- if we're facing issues with no-shows or cancellations, we'll ask that you call remaining participant to remind them about the session, one day in advance.
 
 ### Recruitment criteria
 
@@ -167,7 +156,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 2. If you answered yes, which screen reader do you use? Please select all that apply.
     - JAWS
     - NVDA
-    - VoiceOver (iOS/macOS)
+    - VoiceOver (iPhone, iPad, Mac)
     - TalkBack (Android)
     - Narrator (Windows)
     - Other (Please specify): ________________
@@ -197,10 +186,12 @@ We'd like to recruit people who use a mix of different screen magnification soft
 2. If you answered yes, which alternative navigation tool do you use? Please select all that apply.
     - Switch systems
     - Dragon
-    - Voice Control (iOS/macOS)
+    - Voice Control (Mac)
+    - Siri (iPhone, iPad)
     - One-handed keyboard
     - Head mouse
     - Sip and puff device
+    - Pointer device on mobile (mouse, joystick)
     - Other (Please specify): ________________
     - This question doesn't apply to me
 3. How frequently do you use an alternative navigation tool? Your best guess is okay.
@@ -220,15 +211,8 @@ We'd like to recruit people who use a mix of different screen magnification soft
 1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
     - Yes
     - No
-2. If you answered yes, which screen magnification tool do you use? Please select all that apply.
-   - ZoomText
-   - ZoomText Fusion
-   - Windows Magnifier
-   - macOS Zoom
-   - iOS/iPadOS Zoom
-   - Android Magnification
-   - Other (Please specify): ________________
-   - This question doesn't apply to me
+2. If you answered yes, which screen magnification tool do you use?
+   - Open text box
 3. If you answered yes, how frequently do you use screen magnification on VA.gov?
    - Always
    - Sometimes
@@ -238,36 +222,34 @@ We'd like to recruit people who use a mix of different screen magnification soft
    - Yes
    - No
    - This question doesn't apply to me
-5. Please list the name of the screen magnification tool you will use during the session.
-    - Open text box
 
 ## Timeline
 
 |Date|Milestone|
 |:--|:--|
 |September 3, 2024|Research Review|
-|September 4 - 5, 2024|Pilot sessions or reviews with CAIA|
-|September 18 - 25, 2024|Research sessions|
-|September 30 - October 4, 2024|Synthesis|
-|October 7, 2024|Share findings|
+|September 5 - 6, 2024|Pilot sessions with CAIA|
+|September 17 - 24, 2024|Research sessions|
+|September 26 - October 3, 2024|Synthesis|
+|October 4, 2024|Share findings|
 
 ### Pilot sessions
 
 We will have 3 pilot sessions and/or asynchronous reviews with CAIA.
 
-Here is our [CAIA research support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87480).
+Here is our [CAIA research support ticket](add link).
 
 **Pilot 1: Desktop with screen reader**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 4-5, 2024
+- Date and time of pilot session: TBD around September 5 - 6, 2024
 
 **Pilot 2: Mobile with screen reader**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 4-5, 2024
+- Date and time of pilot session: TBD around September 5 - 6, 2024
 
 **Pilot 3: Desktop with alternative navigation**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 4-5, 2024
+- Date and time of pilot session: TBD around September 5 - 6, 2024
 
 ## Research sessions
 
@@ -283,18 +265,18 @@ We will provide 24 time slots, with the aim to book 12 sessions. We have provide
 
 |Date|Timeslots (EST)|
 |:--|:--|
+|Tuesday, Sept 17|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 |Wednesday, Sept 18|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
-|Thursday, Sept 19|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Wednesday, Sept 19|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 |Friday, Sept 20|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 |Monday, Sept 23|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 |Tuesday, Sept 24|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
-|Wednesday, Sept 25|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 
 We will also provide one day for overflow. This should only be booked if we don't reach our targets.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Thursday, Sept 26|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Wednesday, Sept 25|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 	
 ## Team roles
 
