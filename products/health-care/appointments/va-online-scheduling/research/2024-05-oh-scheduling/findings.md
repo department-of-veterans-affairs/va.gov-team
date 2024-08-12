@@ -4,7 +4,7 @@
 
 Date: 08/12/2024
 
-Melissa Lefevre melissa.lefevre@va.gov
+Melissa Lefevre melissa.lefevre@va.gov, Peter Russo Peter.russo@adhocteam.us
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
