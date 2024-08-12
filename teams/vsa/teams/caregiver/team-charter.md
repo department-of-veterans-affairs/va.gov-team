@@ -91,6 +91,7 @@ Health Products
 - David Wald | David.Wald@va.gov - testing/integration lead
 - Marla Clayton | marla.clayton@va.gov - Technical Project Manager CARMA
 - Mili Riddout | mili.riddout@salesforce.com - CARMA point of contact
+- Slack channel | #vecms-carma_vadotgov_development_external
 
 ---
 
