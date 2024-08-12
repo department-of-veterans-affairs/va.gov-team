@@ -10,7 +10,7 @@ Clayton Zook - clayton.zook@oddball.io
 **Jump to:**
 
 - [Key Data Points](#key-data-points)
-- [Analysis](#analysis)
+- [Discussion](#discussion)
 - [Raw data](#raw-data)
 
 
@@ -30,14 +30,13 @@ Uncover insights and identify areas for further qualitative analysis to improve 
 - Of the sessions that started on VA.gov (home page)
   - about 48% moved next to sign in
     - Over 2% of folks who then sign in, move next to the Terms of Use page (ToU)
-       - This is likely the number of folks who are signing in for the first time since the new Terms of Use went live (in June 2024)
 - Of the sessions that started on MHV (home page)
-  - about 18% moved next to sign in
-    - of these about 16% used option 1, the universal sign in page (USiP)
+  - about 41% moved next to sign in
+    - of these sessions that signed in next, about 16% used option 1, the universal sign in page (USiP)
     - This data doesn’t parse the other two options, but with fewer than 20% using the option available on va.gov, there will be a lot of veterans who’ll need to change how they currently sign in.
 - So of the about 12.5 million sessions that begin on either VA.gov or MHV home page, about 45%, or about 5.5 million, move next to sign in
-- Folks get to sign in by other means as well, but this near 40% of traffic make up the 2 largest blocks of sessions.
-- Note DataDog (DD) shows 8.18 million authentications over the same time period
+- Folks get to sign in by other means as well, but this near 40% of traffic make up the 2 largest groups of sessions.
+- Note: DataDog (DD) shows 8.18 million authentications over the same time period
    - GA has captured over 2/3 of authentications just in these two pages as starting point with authentication occuring next (va.gov and MHV home pages)
    - GA has captured around 3/4 of authentications from sessions that started in these two pages (va.gov and MHV home pages) plus /sign-in with authentication occuring next
 
@@ -45,7 +44,7 @@ Uncover insights and identify areas for further qualitative analysis to improve 
 ### Other pages with a substantial number of session starts
   - /sign-in saw just under 10% of all sessions begin on this page
     - These sessions could be initiated from bookmarks by veterans who usually sign in when visiting VA.gov
-    -  About 20% of session that started here, moved to authenticate next
+    -  About 21% of session that started here, moved to authenticate next
     - Over 4% of these session went next to the ToU page
   - The next highest session-start pages each made up less than 2% of total sessions
     - /health - fewer than 1% of session beginning here moved next to sign in
@@ -66,9 +65,15 @@ Uncover insights and identify areas for further qualitative analysis to improve 
   - overall about 2.25% of sessions went to the ToU page in the first 2 to 3 pages of the session (from GA)
   - 738 users declined ToU - about 0.13% (from DD)
   - 560,877 users accespted ToU (from DD)
+  - Most sessions are not landing on Terms of Use (ToU) after authentication. Since the new ToU went live in June 2024, those 98% of sessions would be folks who agreed to the ToU in June or previously in July and then returned in July.
 
 
-## Analysis
+## Discussion
+- The data shows that the large majority of veterans signing in on MHV, are not using the VA.gov univeral sign in page (option 1). As MHV transitions to VA.gov and as MHV credential reaches deprecation, we'll want to watch for signs of folks having difficulty adapting to a sign in page they may not be used to or have even used before.
+- Almost 10% of sessions begin on the sign in page, likely due to it being bookmaked, however the majority (about 80%) of sessions that begin there don't sign in right away.
+- In fact a session that starts on the home page of either VA.gov or MHV is twice as likely to sign in right away.
+- Just under a quarter of sessions that begin on the /claim-or-appeal-status page sign in right away, so this page is a major gateway for folks who are signing in. When any modificaitons are made to this page or to the sign in alert widget, it should be done with the understanding that it will impact a lot of veterans.
+- Other sessions that start on deeper pages of VA.gov does see as many sign-ins right away.
 
 
 ## Raw data
