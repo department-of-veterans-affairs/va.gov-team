@@ -12,11 +12,12 @@ As a Veteran, I want [ ], so that [ ].
 
 ## Background
 - _What details are necessary for understanding the specific work or request tracked by this issue?_
-- _What are we doing within this ticket?_
+- _What are we doing within the scope of this ticket?_
+- _Is there anything specifically out of scope of this ticket?_
 - _Is there anything that must be done before this ticket? (link ticket as dependency)_
 
 ## Resources
-- Product or Initiative brief links
+- Product or Initiative brief links 
 - Design links
 - Screenshots
 - Reference docs/tickets where we have this kind of work documented
@@ -26,7 +27,7 @@ As a Veteran, I want [ ], so that [ ].
 - [ ] _What work is necessary for this story to be completed?_
 - [ ] Review with the team/PM to confirm expected design/behavior
      - QA/PM Signoff required to be documented in comments below
-- [ ] Inform [QA/Teammate] when the next step can begin 
+- [ ] Inform [QA/Teammate] when the next step can begin (link ticket as dependency)
 
 ## Acceptance Criteria
 -  _What will be created or happen as a result of this story?_
