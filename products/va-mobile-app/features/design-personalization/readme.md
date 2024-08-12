@@ -35,3 +35,9 @@ MVP launched July 2024
   * [Personalization - Desk Research (2022)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2022-may-jun-2022)
   * [Personalization - Earlier exploratory activities (Nov 2021 - Jan 2022)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#earlier-exploratory-activities-nov-2021---jan-2022)
 
+## Team Roles
+  * Product Manager: Ameet Sarkar (ameet.sarkar@adhocteam.us)
+  * Design lead: UX strategy, high level appearance logic, wireframes & error handling: Holly Collier (holly.collier@adhocteam.us)
+  * High fidelity visual design: Lauren Russell (lauren.russell@adhocteam.us)
+  * UAT: Holly Collier (holly.collier@adhocteam.us)
+  * User Research: Holly Collier (holly.collier@adhocteam.us)
