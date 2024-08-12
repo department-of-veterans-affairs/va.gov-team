@@ -82,6 +82,8 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
        - 🟥 Attend Design Office Hours for date and time picker component error
        - ✔️ 🟥 [Move annotations in MVP page to specs page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88026)
+    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+      - ✔️ 🟥 [Determine "cancelation" of cc direct scheduled appt feature](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84023)
 
 
       
