@@ -49,11 +49,7 @@ Uncover insights and identify areas for further qualitative analysis to improve 
   - The next highest session-start pages each made up less than 2% of total sessions
     - /health - fewer than 1% of session beginning here moved next to sign in
     - /claim-or-appeal-status - over 70% of sessions that begin here move next to sign in. 
-      - It seems like folks starting on the claim or appeal page want to see information that requires them to sign in
-      - This product page does have a sign in alert widget
-      - This page requires a verified account, but doesn’t disclose that in the sign in alert
-      - We’ll want to make sure that veterans can easily sign in from this page.
-      - This should be a high priority page to add the new verify info to
+      - A lot of sessions that start on this page move to immediately sign in
     - /find-locations - ~.5% of session that begin here move next to sign in
     - /disability/compensation-rates/veteran-rates - just over 4% of sessions that begin here move next to sign in
     - /my-va - sessions that start here mostly move to home page (likely on a redirect, presuming they came here unauthenticated)
@@ -63,9 +59,9 @@ Uncover insights and identify areas for further qualitative analysis to improve 
 
 ### Terms of Use (data from GA and DD)
   - overall about 2.25% of sessions went to the ToU page in the first 2 to 3 pages of the session (from GA)
+     - Most sessions are not landing on Terms of Use (ToU) after authentication. Since the new ToU went live in June 2024, those 98% of sessions would be folks who agreed to the ToU in June or previously in July and then returned in July.
   - 738 users declined ToU - about 0.13% (from DD)
   - 560,877 users accespted ToU (from DD)
-  - Most sessions are not landing on Terms of Use (ToU) after authentication. Since the new ToU went live in June 2024, those 98% of sessions would be folks who agreed to the ToU in June or previously in July and then returned in July.
 
 
 ## Discussion
@@ -73,7 +69,13 @@ Uncover insights and identify areas for further qualitative analysis to improve 
 - Almost 10% of sessions begin on the sign in page, likely due to it being bookmaked, however the majority (about 80%) of sessions that begin there don't sign in right away.
 - In fact a session that starts on the home page of either VA.gov or MHV is twice as likely to sign in right away.
 - Just under a quarter of sessions that begin on the /claim-or-appeal-status page sign in right away, so this page is a major gateway for folks who are signing in. When any modificaitons are made to this page or to the sign in alert widget, it should be done with the understanding that it will impact a lot of veterans.
-- Other sessions that start on deeper pages of VA.gov does see as many sign-ins right away.
+   - This product page does have a sign in alert widget
+   - This page requires a verified account on sign-in, but doesn’t disclose that in the sign-in alert widget
+   - It seems that folks starting on the claim or appeal page want to see information that requires them to sign in
+   - We’ll want to make sure that veterans can easily sign in from this page.
+   - This should be a high priority page to update the verify sign in widget.
+- Other sessions that start on deeper pages of VA.gov don't see as many sign-ins right away.
+- As we predicted, only a small percentage of folks are choosing to decline the Terms of Use. It would be dificult to find them, but if we could, it could be insightful to talk with them about why they chose to decline.
 
 
 ## Raw data
