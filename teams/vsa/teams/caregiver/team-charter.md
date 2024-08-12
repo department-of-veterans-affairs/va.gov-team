@@ -49,14 +49,48 @@ Health Products
 - Allan To | allan.to@va.gov / allan.to@adhocteam.us / GH "allanto-ah" - QA Engineer
 
 
-### OCTO-DE team
+### VA relationships
+
+**OCTO-DE**
 - Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
 - Patrick Bateman | patrick.bateman@va.gov - Product Owner
 - Lois Lewis | lois.lewis2@va.gov - UX Lead
 - Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
 - Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
 - Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
-- Danielle Thierry | danielle.thierry@va.gov - Lead Content writer
+- Danielle Thierry | danielle.thierry@va.gov - Content writer
+
+**HEC (Health Eligibility Center) Program Team**
+- Bryan Burgan | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
+- Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
+- Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
+- Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
+- Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
+- Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
+- Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
+- Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
+- Annie Rice | Annie.Rice@va.gov -- Contact Representative office
+- Shana Watson | shana.watson@va.gov -- Member Services SME
+- Simone Gully | simone.gully@va.gov -- Member Services SME
+- Amanda Scully | amanda.scully@va.gov -- Member Services SME
+
+**Enrollment System (ES)**
+- Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
+---
+**Caregiver Program Business Unit Team**
+- Matt Brown | Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
+- Tiffany Puckett | Tiffany.Puckett@va.gov  -- Health System Specialist
+- Tamara Scott | tamara.scott@va.gov  -- Social Worker: Caregiver Support Program
+- Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
+- Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
+- Drew DeRocco  | drew.derocco@va.gov -- PMO, scheduling
+
+**CARMA team/MuleSoft.Salesforce team**
+- Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
+- Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
+- David Wald | David.Wald@va.gov - testing/integration lead
+- Marla Clayton | marla.clayton@va.gov - Technical Project Manager CARMA
+- Mili Riddout | mili.riddout@salesforce.com - CARMA point of contact
 
 ---
 
