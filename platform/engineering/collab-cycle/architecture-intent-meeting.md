@@ -80,6 +80,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
 - Security
     + What questions do you have regarding items on the security checklist?
+    + Are there any other security concerns about your project that you want to discuss?
     + What [threat modeling][threats] have you done, and how did the results influence your planned architecture?
 
 TODO: provide this checklist as a document template in a separate file
