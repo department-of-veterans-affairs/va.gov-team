@@ -179,7 +179,7 @@ So, today we're going to observe as you navigate this website.
 
 Before you start, I'm going to share some context with you.
 
-This is a tool called Ask VA. It's a way for Veterans to contact the VA and ask a question online. For today's session, we're going to pretend like you recently asked the VA a question and you've signed in to VA.gov today, to read the reply from the VA. I'm going to offer different scenarios throughout our conversation to understand how you'd navigate to complete certain tasks.
+This is a tool called Ask VA. It's a way for Veterans to contact the VA and ask a question online. For today's session, we're going to pretend like you recently asked the VA a question and today you've come back to read the reply from the VA. We're going to go through a couple different tasks which I'll explain as we go.
 
 And as you navigate, we want to understand what's going through your mind and how your assistive technology is supporting you. I'll try and stay quiet while you're focused on a task [and what your screen reader is announcing]. [If we can't hear their screen reader eg. on mobile, tell them that.]
 
@@ -191,15 +191,34 @@ Okay, great.
 
 So, let's get started. Instead of making you sign in today, we're going to imagine that you signed in and pretend like this is your account.
 
-[ADD SCENARIO 1]
+### Task 1
 
-[REPLACE FROM HERE DOWN]
+So, you've just arrived at Ask VA and the first thing I'd like you to do is orient yourself on this page.
 
-And when you're, please navigate to submit your question to the VA.
+I'll give you a couple minutes to navigate around. And after you finish, I'd like you explain this page to me.
 
-> Screen: Dashboard (Authenticated)
+[When they've finished...]
 
-> Starts a new question...
+- What information is available on this page?
+- What's the purpose of this page?
+- Is there anything you found confusing as you navigated around this page?
+
+### Task 2
+
+Okay great. The next thing I'd like to you do is find a question that has a reply from the VA.
+
+So, there's a few questions on this page and I'd like you to find one that has a reply from the VA.
+
+[When they've finished...]
+
+- Which question has a reply from VA?
+- How do you know when there's a reply from VA?
+- Is there more than one question that have a reply from VA?
+- If you weren't sure, what would you do?
+
+### Task 3
+
+--
 
 <details>
   <summary>Key things to notice</summary>
@@ -209,7 +228,6 @@ And when you're, please navigate to submit your question to the VA.
 - Are all interactive elements properly labeled and announced?
 - Is the tab order logical and easy to follow?
 - Where did they pause, if at all?
-- Was their next step clear?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
 
 </details>
