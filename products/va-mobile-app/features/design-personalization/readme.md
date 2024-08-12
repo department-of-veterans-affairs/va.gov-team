@@ -8,6 +8,8 @@ The VA mobile team has explored the concept of Personalization several times (20
 ## Personalized Home Screen
 We believe that bringing personalized content to the VA mobile app’s home screen to new and current app users will help users to keep up with and manage their current interactions across VA and find value in the app that they aren’t discovering now (ultimately, increasing user retention).
 
+MVP launched July 2024
+
 
 ### Product
 * [Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md)  [doc](https://docs.google.com/document/d/1qPUDihOxzkiNqK96ZPFlX4wTTHov033n5bOXgt1jmvU/edit) (2023)
