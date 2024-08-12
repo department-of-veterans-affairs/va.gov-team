@@ -1,6 +1,6 @@
 # VA Mobile App: Personalized Home Screen Evaluative Research Plan
-February 2024
-
+February 2024  
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
 
 ## Background
 The VA Flagship mobile app was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes).
