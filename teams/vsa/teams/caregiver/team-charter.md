@@ -38,7 +38,7 @@ Health Products
 - Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com / GH "emily-brown34" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
 - Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research
-- Renata Keck | Renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design/Research
+- Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design/Research
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
 - Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com / GH "mkerns1" - Frontend Engineer
