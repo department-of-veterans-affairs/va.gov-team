@@ -1,4 +1,30 @@
 # Running Design and Research Agenda
+
+## August 5, 2024
+- Attendees: Jamie Fiore, Steven Straily, Syd Hoeper, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
+- Facilitator: Syd
+- Next meeting facilitator: Brian
+- Agenda Topics
+	- Regroup on 10-10d remarriage flow (Jamie)
+ 	- Design pattern question around save and sign in (Lois)
+	- Invited Laura for the second half of meeting for remarriage conversation
+
+### Notes
+- For first iteration, prefill will not be used for FMP; Save in progress will be used right away
+- Remarriage feasability for launch and post-launch
+	-  Option B is the least amount of effort as 
+	-  Discussion around whether or not to include certain required documents regarding eligibility
+
+### Decisions and action items
+- Premal and Lois to inquire with the business side about needing the remarriage ending doc
+- Need to make a decision on which pattern we're using -- will make that decision based on information we get from stakeholders regarding the required paperwork
+- Jamie to explore another remarriange flow with one upload screen to capture all documents
+- Laura to take a stab at the upload screen copy
+- Premal to add designers to meeting with Delaney this afternoon
+- Laura will send static documents
+
+
+
 ## August 5, 2024
 - Attendees: Jamie Fiore, Steven Straily, Syd Hoeper, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
 - Facilitator: Rachael
