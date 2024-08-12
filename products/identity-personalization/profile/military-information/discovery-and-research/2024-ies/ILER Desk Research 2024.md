@@ -114,6 +114,9 @@ ADD REDDIT QUESTIONS HERE WITH CAVEATS ABOUT CANARY IN THE MINE AND RARE SAMPLE
 
    **No evidence for this**
 
+3. There is a need to format ILER data into a more readable format for Veterans
+4. There is a need to learn what ILER data Veterans would need to see and how to format it
+
 ### Use Cases
 
 According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main levels of ILER use cases are:
