@@ -65,104 +65,103 @@ Uncover insights and identify areas for further qualitative analysis to improve 
 ## Raw data
 
 - 30.845M sessions start on VA portals
-  - 5.941M - VA.gov (home), after this page
-    - 2.570M to /auth/login/callback
-      - 2.454M to /my-va/
-      - 108,966 to home page
+   - 5.941M - VA.gov (home), after this page
+      - 2.570M to /auth/login/callback
+         - 2.454M to /my-va/
+         - 108,966 to home page
     - 367,223 to /mhv-portal-web/web/guest/home
-      - 139,324 to /health
-      - 134,446 to /terms-of-use
-      - 128,057 to /my-va
-      - 44,232 to /sign-in
-      - 19,733 to /session-expired
-  - 5.930M - /mhv-portal-web/home, after his page
+       - 139,324 to /health
+       - 134,446 to /terms-of-use
+       - 128,057 to /my-va
+       - 44,232 to /sign-in
+       - 19,733 to /session-expired
+   - 5.930M - /mhv-portal-web/home, after his page
       - 2.406M to /mhv-portal-web/web/myhealthevet/user-login, after this page
-        - 1.721 to /mhv-portal-web/web/home
-        - 392,556 to /sign-in
-        - 29,133 to /mhv-portal-web/user-login
-        - 25,059 to /mhv-portal-web/web/guest/home
+         - 1.721 to /mhv-portal-web/web/home
+         - 392,556 to /sign-in
+         - 29,133 to /mhv-portal-web/user-login
+         - 25,059 to /mhv-portal-web/web/guest/home
       - 56,990 to /secure-messaging-spotlight
       - 52,052 to /sign-in, after this page
-        - 26,391 to /mhv-portal-web/home
-        - 11,956 to /mhv-portal-web/web/guest/home
-        - 1,732 to /auth/login/callback
+         - 26,391 to /mhv-portal-web/home
+         - 11,956 to /mhv-portal-web/web/guest/home
+         - 1,732 to /auth/login/callback
       - 35,323 to /mhv-portal-web/web/user-registration
-        - 10,895 to  /mhv-portal-web/web/user-login
-  - 2.852M - /sign-in, after this page,
+         - 10,895 to  /mhv-portal-web/web/user-login
+   - 2.852M - /sign-in, after this page,
     - 666,908 to /mhv-portal-web/web/guest/home, after this page
-        - 132,073 to /sign-in
-        - 55,149 to /mhv-portal-web/web/myhealthevet/home
-        - 54,159 to /auth/login/callback
-        - 29,159 to /terms-of/use
-        - Next 2 pages total 37,616 to /mhv-portal-web sub pages
+         - 132,073 to /sign-in
+         - 55,149 to /mhv-portal-web/web/myhealthevet/home
+         - 54,159 to /auth/login/callback
+         - 29,159 to /terms-of/use
+         - Next 2 pages total 37,616 to /mhv-portal-web sub pages
       - 292,658 to /auth/login/callback, after this page
-        - 17,632 to va.gov (home)
-        - 2,236 to /my-va
-        - 20 to /terms-of-use
-        - 8 back to /sign-in
+         - 17,632 to va.gov (home)
+         - 2,236 to /my-va
+         - 20 to /terms-of-use
+         - 8 back to /sign-in
       - 105,134 to /terms-of-use, then to
-        - 19,921 to /auth/login/callback, after this page
-          - 17,632 to va.gov (home)
-          - 2,236 to /my-va
-          - 20 back to /terms-of-use
-        - 6,701 to /sign-in, after this page
-          - 1,072 to /terms-of-use
+         - 19,921 to /auth/login/callback, after this page
+            - 17,632 to va.gov (home)
+            - 2,236 to /my-va
+            - 20 back to /terms-of-use
+         - 6,701 to /sign-in, after this page
+            - 1,072 to /terms-of-use
       - 51,737 to va.gov (home)
       - 35,050 to /mhv-portal-web/home
-  - 582,791 - /health, after this page
+   - 582,791 - /health, after this page
       - 4,644 to /sign-in, after this
-        - 1,794 to /auth/login/callback
-        - 1,164 to /mhv-portal-web/web/guest/home
-        - 426 to /terms-of/use
-        - 124 to va.gov (home)
-  - 419,670 - /mhv-portal-web/user-login, after this
+         - 1,794 to /auth/login/callback
+         - 1,164 to /mhv-portal-web/web/guest/home
+         - 426 to /terms-of/use
+         - 124 to va.gov (home)
+   - 419,670 - /mhv-portal-web/user-login, after this
       - 247,849 to /web/myhealthevet
       - 67,827 to /sign-in, after this
-        - 27,193 to /mhv-portal-web/home
-        - 23,733 to /mhv-portal-web/web/guest/home
-        - 7,537 to /mhv-portal-web/user-login
-        - 2,894 to /terms-of use, after this
-          - 2,028 to /mhv-portal-web/home
-          - 462 to /auth/login/callback
-          - 133 to /mhv-portal-web/eauth
+         - 27,193 to /mhv-portal-web/home
+         - 23,733 to /mhv-portal-web/web/guest/home
+         - 7,537 to /mhv-portal-web/user-login
+         - 2,894 to /terms-of use, after this
+            - 2,028 to /mhv-portal-web/home
+            - 462 to /auth/login/callback
+            - 133 to /mhv-portal-web/eauth
       - Next 65,547 to /mhv-portal-web/ sub pages
-  - 395,246 - /claim-or-appeal-status, after this
+   - 395,246 - /claim-or-appeal-status, after this
       - 270,259 to /auth/login/callback
-        - 236,442 to /track-claims
-        - 30,471 to /claim-or-appeal-status
-        - 2,483 to /my-va
+         - 236,442 to /track-claims
+         - 30,471 to /claim-or-appeal-status
+         - 2,483 to /my-va
       - 11,541 to /terms-of/use, after this
-        - 10,169 to /auth/login/callback
-  - 378,394 - /mhv-portal-web/web/myhealthevet/user-login, after this
+         - 10,169 to /auth/login/callback
+   - 378,394 - /mhv-portal-web/web/myhealthevet/user-login, after this
       - 154,442 to /mhv-portal-web/home
       - 50,097 to /mhv-portal-web/web/myhealthevet/home
       - 32,263 to /sign-in
       - 10,852 to  /mhv-portal-web/user-login
-  - 356,080 - /find-locations, after this
-19,583 to va.gov (home)
-12,657 to /find-locations
-1,668 to /auth/login/callback
-All others <10k each
-  - 331,770 - /disability/compensation-rates/veteran-rates, after this
-7,285 to /auth/login/callback, after this
-6,650 /sign-in, after this
-1,527 to /auth/login/callback
-1,045 to  /mhv-portal-web/web/guest/home
-264 to /terms-of-use, after this
-102 to /auth/login/callback
-38 to /sign-in
+   - 356,080 - /find-locations, after this
+      - 19,583 to va.gov (home)
+      - 12,657 to /find-locations
+      - 1,668 to /auth/login/callback
+   - 331,770 - /disability/compensation-rates/veteran-rates, after this
+      - 7,285 to /auth/login/callback, after this
+      - 6,650 /sign-in, after this
+         - 1,527 to /auth/login/callback
+         - 1,045 to  /mhv-portal-web/web/guest/home
+         - 264 to /terms-of-use, after this
+            - 102 to /auth/login/callback
+            - 38 to /sign-in
   - 269,136 - /web/myhealthevet/home
-167,662 to  /mhv-portal-web/user-login
+      - 167,662 to  /mhv-portal-web/user-login
   - 253,948 - /my-va, after this
-235,594 to va.gov (home)
-2,421 to /auth/login/callback
-1,441 to /sign-in
-537 to /logout
+      - 235,594 to va.gov (home)
+      - 2,421 to /auth/login/callback
+      - 1,441 to /sign-in
+      - 537 to /logout
   - 252,782 - health-care/appointment-check-in/, then
-223,318 to /health-care/appointment-check-in/verify
+      - 223,318 to /health-care/appointment-check-in/verify
   - 226,338 - health-care/appointment-pre-check-in/
-205,868 to /health-care/appointment-pre-check-in/verify
+      - 205,868 to /health-care/appointment-pre-check-in/verify
   - 192,829 - /mhv-portal-web/web/guest/home
-5,690 /sign-in 
+      - 5,690 /sign-in 
   - All other starting pages were <160k each
  
