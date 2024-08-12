@@ -199,7 +199,7 @@ So, you've just arrived at Ask VA and the first thing I'd like you to do is orie
 
 I'll give you a couple minutes to navigate around. And after you finish, I'd like you explain this page to me.
 
-[When they've finished...]
+`When they've finished...`
 
 - What information is available on this page?
 - What's the purpose of this page?
@@ -211,10 +211,11 @@ Okay, great. The next thing I'd like to you do is find a question that has a rep
 
 So, there's a few questions on this page and I'd like you to find one that has a reply from the VA.
 
-[When they've finished...]
+`When they've finished...`
 
 - Which question has a reply from VA?
 - How do you know when there's a reply from VA?
+- [Ask about statuses, if they mention them.]
 - Is there more than one question that have a reply from VA?
 - If you weren't sure how to find it, what would you do?
 
@@ -222,7 +223,7 @@ So, there's a few questions on this page and I'd like you to find one that has a
 
 Next, I'd like you to find a question that's related to housing assistance.
 
-[When they've finished...]
+`When they've finished...`
 
 - Which question is related to housing assistance?
 - How did you find the question that's related to housing assistance?
@@ -232,7 +233,7 @@ Next, I'd like you to find a question that's related to housing assistance.
 
 Okay, this is the last task on this page. I'd like you to find the question that you submitted on September 3rd.
 
-[When they've finished...]
+`When they've finished...`
 
 - Which question did you submit on September 3rd?
 - What is the question about?
@@ -271,7 +272,7 @@ Great. We're going to do the same thing on this page.
 
 First, I'd like you to find and read the reply that the VA sent you.
 
-[When they've finished...]
+`When they've finished...`
 
 - What did the VA reply to you?
 - How did you navigate to the reply on this page?
@@ -280,7 +281,7 @@ First, I'd like you to find and read the reply that the VA sent you.
 
 Next, I'd like you to tell me what you would do if you read this reply and you had a follow-up question.
 
-[When they've finished...]
+`When they've finished...`
 
 - Did you find anything else on this page that could help?
 - If you couldn't find anything on this page, what would you do?
@@ -290,7 +291,7 @@ Next, I'd like you to tell me what you would do if you read this reply and you h
 
 Now, let's try and reply back to the VA. Go ahead and write a short reply to the VA (you can write anything). And send it.
 
-[When they've finished...]
+`When they've finished...`
 
 > Navigates to reply confirmation page.
 
@@ -316,7 +317,7 @@ Okay, great.
 
 Great. I'll give you a minute to read through this page and then I'd like to know if you have any questions about it.
 
-[When they've finished...]
+`When they've finished...`
 
 - Do you have any questions about what you just read?
 - What's the next step in the process after you sent the VA a follow up question?
@@ -325,7 +326,7 @@ Great. I'll give you a minute to read through this page and then I'd like to kno
 
 Great. I'd like to do one more thing. I'd like for you to navigate back to the home page, where we started. That's the page where you could read all of your questions.
 
-[When they've finished...]
+`When they've finished...`
 
 - Did you have any trouble finding how to get back to this page?
 - Is there anything else you want to share about this page?
