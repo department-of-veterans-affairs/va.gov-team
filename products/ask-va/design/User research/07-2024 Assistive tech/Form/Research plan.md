@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 30, 2024
+Last updated by @tygindraux: August 12, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -64,7 +64,7 @@ This research will help us document and prioritize any bugs or usability issues 
 
 ## Methodology
 
-We will run a moderated usability study remotely on Zoom. We will test in staging using test user accounts. 
+We will run a moderated usability study remotely on Zoom. We will mock the sign in process, so participants don't have to sign in but we can test the authenticated experience.
 
 ### Research materials
 
