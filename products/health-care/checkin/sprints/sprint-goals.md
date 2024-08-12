@@ -9,16 +9,18 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to address all launch blockers from the Staging Review and release to production**
+    - 🟩 Placeholder for launch blockers, if any
     - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84424)
 - **Stand-alone Travel Application for OH Sites**
-    - **Sprint Goal TBD**
-    - TBD
+    - **Sprint Goal is to address all launch blockers from the Staging Review**
+    - 🟩 Placeholder for launch blockers, if any
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
-    - TBD
+    - 🟩 TBD
+    - 🟦 TBD
 - **Componentize the Appt Summary View**
     - **Sprint Goal TBD**
-    - TBD
+    - 🟩 TBD    
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
@@ -37,7 +39,7 @@
     - 🟩 Placeholder for launch blockers, if any
     - 🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **Upcoming VAOS Appointments**
-    - **Sprint Goal is to finish all work and schedule a Staging Review & a Readiness Review**
+    - **Sprint Goal is to finish all work and schedule a Staging & ISR Reviews**
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
     - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
     - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
@@ -46,14 +48,19 @@
     - 🟪 Schedule Staging Review    
     - 🟩 Schedule Infrasturcture, Security Readiness Review
 - **Stand-alone Travel Application for OH Sites**
-    - **Sprint Goal is to complete the Staging Review and ISR Review**
-    - Question: Do we have any more blockers?
+    - **Sprint Goal is to complete the Staging and ISR Reviews**
+    - We are waiting on the final test with VeText to determine if this is ready for Staging Review
     - 🟪 Schedule Staging Review
     - 🟩 Schedule Infrasturcture, Security Readiness Review 
 - **Travel Claim Submission from Past Appts - Web**
-    - **Sprint Goal Address Design Intent Feedback**
+    - **Sprint Goal is to address Design Intent feedback, determine how we want to implement this, and create tickets to move it forward**
     - 🟥 [Design Intent - IA Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90412)
     - 🟥 [Design Intent - Design Feedback - Name of Project ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90323)
+    - 🟩 TBD
+    - 🟦 TBD
+- **Componentize the Appt Summary View**
+    - **Sprint Goal is to determine how we want to implement this and create tickets to move it forward**
+    - 🟩 TBD
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76037)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89592)
