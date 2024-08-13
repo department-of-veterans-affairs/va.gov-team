@@ -1,347 +1,169 @@
-# Research Plan for AEDP, Authenticated Experience Design Patterns, July 24, 2024
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
-
+# Research Plan for AEDP Prefill Study, July 24, 2024
+### Q4 2024
 ## Background
-Briefly describe the background of your product. Consider:
-- We are trying to improve on the currently implemented prefill pattern so that it is optimized for wider adoption at VA and other government sites.
-- We are working primarily within the authenticated experience.
-- This is an existing product although not widely implemented at VA. However, the concept of prefill is common in authenticated website applications in general so familiarity with this experience may be ubiquitous.
+A variety of digital products within the authenticated VA.gov experience provide a service to users that prefill some of their existing profile information in order to save them time and energy. Our team is tasked with reviewing current or potential VADS design patterns to improve guidance around their implementation for consistency and ease of use across the different use cases on VA.gov. We have researched how this pattern has been used so far across the site, and would like to test some of the different variations we have seen implemented to find the best possible solution for the widest audience.
+
+Some of the variations we plan to test include:
+- Location of the prefill alert (Intro page vs Form pages)
+- Display style of both locked and editable data sets (Address vs Gray Box)
+- Location where updated data is saved (Profile vs Form)
+
+Many forms prefill personal information on VA.gov right now. By determining the best placement, style and experience of using this pattern, we will provide improved guidance for this pattern that will help to improve the user experience of VA.gov as well as other federal government digital products.
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/patterns/prefill/README.md).
+### OCTO Objectives and Veteran Journey
 
-### OCTO Objectives
-
-Which [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) does this research support? Increase the quality and reliability of VA services by the following:
-- Enable easier implementation of form prefill across various VA.gov applications
-- Promote consistency in how form pre-fill is implemented across the platform
-- Lay the groundwork for future improvements in Veterans' form completion experience
-- Facilitate more complete and up-to-date Veteran profiles as applications adopt this pattern
-- Reduce the need for custom code related to form prefilling, leading to more maintainable and consistent applications
-
-### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)? Logged-in users have a personalized experience, with relevant and time-saving features
-Are there moments that matter? Yes. The moments that matter are 
+This work supports the [OCTO Objective 3.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) Our people are empowered with the knowledge and resources they need to make a sustained impact. Because this design pattern can be used across a wide variety of forms and digital products, the study fits into the [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5fa2c0a1630337422de4e8f719cdcac3e391fe1a/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf#L2) throughout the full life cycle of the Veteran.
 
 ## Research Goals	
-What are you trying to learn from this research?
-We are trying to learn the strengths and weaknesses in the user experience between the two different implementations of prefill we are testing.
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+Goals for this research include:
+- Understand how and when users need the prefill alert to appear.
+- Understand how users expect the prefilled data to display.
+- Understand users' expectations around why certain data can be edited within their profile and other data cannot.
+- Understand how users expect the edit process to work, where they expect their edits to get saved, and if they want to be asked where to save their data.
+ 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+We will synthesize the data from this study and create a summary report of our learnings. This research will inform decisions around these two patterns our team is refining:
+[Help users to... Know when their information is prefilled](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/17)
+[Help users to... Update prefilled information](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/22)
+This research will help us refine these patterns and to feel confident in our recommendations for these patterns when we submit them to VADS and USWDS.
+
 
 ### Research questions
-We will let them complete the tasks using a think aloud method. We will start with broader questions, then ask more specific questions if we did not get the answer to certain worries the first pass.
-- What do you think happens when you edit your information? (to ask during edit process for both variations)
-- What do you want to happen? (when they either edit, submit application, or regarding basic understanding of messaging)
-- How do you feel about this experience of going to the next page? What would make you feel more secure? (can be used on edit variations, as well, as overall prefill experience)
-- What do you think this message is telling you? (regarding the edit or prefill alerts)
-- What should you do here? (regarding task to enter missing information or where not all information was in the profile)
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+We will guide participants to complete the tasks using a think-aloud method. We will start with broader questions, then ask more specific questions as needed to get the data we are seeking.
+
+*Goal 1: Understanding how and when users expect the prefill alert to appear.*
+- Does the prefill alert in the unauthenticated experience entice them to sign in to complete the form?
+- Where do they expect the prefill alert message to be located once they are authenticated?
+- In what variation do they notice the prefill alert? Top of page? On the step pages?
+- Do they notice other alerts while the prefill alert is on the same page?
+- Does bolding the word ‘note’ make an impact on whether they will read the information?
+
+*Goal 2: Understanding how users expect the prefilled data to display.*
+- Which version of the data display (address block vs gray card component) helps users to more quickly understand that it contains prefilled data?
+- Do they notice the prefilled data where it is located on the page in either the address block or gray card component?
+
+*Goal 3: Understand users' expectations around why certain data can be edited within their profile and other data cannot.*
+- How do they feel about the ability to edit some data but not others?
+- Is it clear how to edit data within the form? Is it clear how to edit data that is not editable within the form?
+- Does the user understand why some data is not editable?
+- Does having some data protected increase user trust in VA handling of PII?
+
+*Goal 4: Understand how users expect the edit process to work and where they expect their edits to get saved.*
+- What do they think happens when they save their information?
+- Where do they think the new information gets saved? (profile vs form)
+- Would they ever want to choose where this information gets saved? 
+- Which type of prefilled data display do they prefer to see on the edit page? (in-field vs gray box)
+- What kind of confirmation message do users expect after they have saved their data?
 
 ### Hypothesis
-What do you intend to learn and measure from this study?
-- We know that the prefill function is common and that there are user expectations around this functionality.
-- I think users will find prefill time saving and conenient, but they may have some confustion about how it is working and how to update the information on their profile.
-- I believe one of the two design variations we test will prove to be less confusing and better meet the expectations of the user. 
+Location of the prefill alert (Intro page vs Form pages):
+- The prefill alert on the front page will entice the user to login for a more convenient experience.
+- Bolding “note” in the prefill alert messaging will help users see a block of text quicker.
+- Users will more easily notice the intro prefill alert when it’s at the top of the page.
+- The user will experience alert exhaustion because of how frequent alerts are displayed in the pilot and possibly the wider VA experience.
+- We will learn that the under only needs the prefill alert on the intro page.
+
+Display style of both locked and editable data sets (Address vs Gray Box):
+- The users will prefer the address component over the gray box for the locked data.
+
+Location where updated data is saved (Profile vs Form):
+- Users understand why we limit in screen edits for some types of data and find the messaging around this reason to be sufficient.
+- As long as the data is going back to their profile, they will not want to be asked if it is ok to update their profile.
+- Users will prefer to see the gray box with their current data that they are editing on the same screen while they are editing.
+- Users want to be informed if their data is not updating to their profile.
+- The confirmation alert will help users understand when their profile has been updated.
+
 
 ## Method	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-- We will perform Usability testing - appropriate for evaluating structured design maturity. We will use the "think-aloud" format so that we can evaluate how the user is responding to the design as they perform a task we give them.
+We will perform usability testing on three scenario-based concept tests - appropriate for evaluating structured design maturity. We will use the think-aloud format so that we can evaluate how the user is responding to the design as they perform a task we give them. We will show the three concepts to each participant and change the order of concepts shown to avoid the first view bias.
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+**Note:** This may change to two concepts per participant if we find that three are too many flows to show each participant.
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+We will hold the research sessions remotely on Zoom.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or Optimal Workshop study for group A](url goes here)
-- [Link to prototype or Optimal Workshop study for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
+Conversation guide (to be added)
+Prototype (to be added)
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+We are looking for 12 Veterans to participate in this study. We’ll use a lean maximum strategy for inclusivity, targeting 3 demographic criteria (age, gender, race) as primary sample distribution criteria, and race/ethnicity as a secondary sample distribution criteria.
 
 ### Recruitment criteria
-
-Add the total requested number, ideal completed sessions and breakdown type of participants for this study. 
-
-`Ex. TR: 10; CS: 6; Vets: 5; Fam: 0; Care: 5; Serv: 0`
-
-|Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
-|:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|               |                  |        |             |          |               | 
-
-
-### Criteria Table (Please read carefully)
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-- If this is for a single ***MODERATED*** study, breakdown your total requested participants for each category by number--***not percentage*** in the moderated column. 
-- ***This will be applied across particpant types you need*** (*Veterans, caregivers, etc.*) for all categories (*Sex, race, etc*) you select. 
-- For example, if you request 10 particpants, for 5 Veterans, and 5 caregivers, you could ask for 5 males, 5 females, and Perigean will apply those numbers across those two particpant types. Do the same for any other category you want Perigean to use for recruitment. You **do not** have to use every category, or even specific type in a catogory. Only add to the category/type that will make your study successful.
-- ***Various*** means you want an array of participants from this category but are leaving it to Perigean's discretion to recruit as many different types as possible.
-- If you choose ***Various*** for a category, but wish to exclude a specific type, place an **X** in it's row. However, you can choose ***Various*** and also specific types of a category to be included (Ex. Various 7, Black 3, White X.)
-- For benefits category, you may also choose ***No Ben/Ser Exp*** which means you want particpants who haven't had experience using any Veteran benefit or service. In your additional screener section, you can specify exactly which benefit or service you want participants not to have had experience using. 
-- For hardware category, select which type/s you want participants to join your session to use.
-- If you're conducting an unmoderated study (*survey, tree test*) using cohorts, ***do not exceed*** nine participants per cohort to avoid PRA (Paperwork Reduction Act).
-- Add which group you want applied to each cohort in the heading row (***Ex. Vet Cohort 1, Care Cohort 2, Fam Cohort 3, Serv Cohort 4***). 
-- You can use the same group for all cohorts, but the categories you choose must vary (***Ex. Vet Cohort 1 [9 Male]; Vet Cohort 2 [9 Female]***. 
-
-|                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
-|----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
-|***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Male            |            |        |        |        |        |        |        |        |        |        |         |
-|Female          |            |        |        |        |        |        |        |        |        |        |         |
-|***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Gay             |            |        |        |        |        |        |        |        |        |        |         |
-|Lesbian         |            |        |        |        |        |        |        |        |        |        |         |
-|Bisexual        |            |        |        |        |        |        |        |        |        |        |         |
-|Asexual         |            |        |        |        |        |        |        |        |        |        |         |
-|Transgender     |            |        |        |        |        |        |        |        |        |        |         |
-|Non-Binary      |            |        |        |        |        |        |        |        |        |        |         |
-|Gender-fluid    |            |        |        |        |        |        |        |        |        |        |         |
-|Queer           |            |        |        |        |        |        |        |        |        |        |         |
-|Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
-|***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Black           |            |        |        |        |        |        |        |        |        |        |         |               
-|White           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
-|Asian           |            |        |        |        |        |        |        |        |        |        |         |                 
-|Native          |            |        |        |        |        |        |        |        |        |        |         |                
-|Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
-|***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |            |        |        |        |        |        |        |        |        |        |         |
-|      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|*No Ben/Ser Exp*|            |        |        |        |        |        |        |        |        |        |         |
-|Disability      |            |        |        |        |        |        |        |        |        |        |         |
-|Education       |            |        |        |        |        |        |        |        |        |        |         |    
-|Employment      |            |        |        |        |        |        |        |        |        |        |         |
-|Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |            |        |        |        |        |        |        |        |        |        |         |
-|Housing         |            |        |        |        |        |        |        |        |        |        |         |
-|Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
-|Memorialization |            |        |        |        |        |        |        |        |        |        |         |
-|Pension         |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |      
-|***BRANCH***    |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Marine Corps    |            |        |        |        |        |        |        |        |        |        |         |
-|Army            |            |        |        |        |        |        |        |        |        |        |         |
-|Navy            |            |        |        |        |        |        |        |        |        |        |         |
-|Air Force       |            |        |        |        |        |        |        |        |        |        |         |
-|Space Force     |            |        |        |        |        |        |        |        |        |        |         |
-|Coast Guard     |            |        |        |        |        |        |        |        |        |        |         |
-|Nat. Guard      |            |        |        |        |        |        |        |        |        |        |         |
-|Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Elementary      |            |        |        |        |        |        |        |        |        |        |         |
-|Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
-|GED             |            |        |        |        |        |        |        |        |        |        |         |
-|High School     |            |        |        |        |        |        |        |        |        |        |         |
-|Some College    |            |        |        |        |        |        |        |        |        |        |         |
-|Associate's     |            |        |        |        |        |        |        |        |        |        |         |
-|Bachelors       |            |        |        |        |        |        |        |        |        |        |         |
-|Masters         |            |        |        |        |        |        |        |        |        |        |         |
-|Professional    |            |        |        |        |        |        |        |        |        |        |         |
-|Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Urban           |            |        |        |        |        |        |        |        |        |        |         |
-|Rural           |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Desktop         |            |        |        |        |        |        |        |        |        |        |         |
-|Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |            |        |        |        |        |        |        |        |        |        |         |
-|Tablet          |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
-|VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
-|Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|DS Logon        |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
-|ID.me           |            |        |        |        |        |        |        |        |        |        |         |
-|Login.gov       |            |        |        |        |        |        |        |        |        |        |         |
-|       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
-|***ID PROOF***  |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|IAL1            |            |        |        |        |        |        |        |        |        |        |         |
-|IAL2            |            |        |        |        |        |        |        |        |        |        |         |
-|IAL3            |            |        |        |        |        |        |        |        |        |        |         |
-
----
-**Identity Assurance Levels**
-
-- **IAL1:** Attributes, if any, are self-asserted or should be treated as self-asserted; there is no proofing process. (***Ex., User generated user name and pw***)
-
-- **IAL2:** Either remote or in-person identity proofing is required using, at a minimum, the procedures given in NIST SP 800-63A. (***Ex., Id.me or Login.gov account***)
-
-- **IAL3:** In-person or supervised-remote identity proofing is required. Identifying attributes must be verified through examination of physical documentation as described in NIST SP 800-63A.
-
----
-
-`Assistive Tech and Cognitive Impairment will apply across cohorts`
-- ***If you have no preference for a specific type***, just add your number to the ***ASSISTIVE TECH*** or ***COGNITIVE IMPAIRMENT*** row.
-
-|                                                             |Participants| 
-|-------------------------------------------------------------|:----------:|
-|***ASSISTIVE TECH***                                         |            | 
-|*Various*                                                    |            |
-|Font resizing/larger                                         |            |
-|Screen reader                                                |            |
-|Braille terminal                                             |            |
-|Speech recognition sftw                                      |            |
-|Speech generating device                                     |            |
-|Speech to text                                               |            |
-|High contrast mode                                           |            |
-|Alternative keyboard                                         |            |
-|Alternative mouse or stylus                                  |            |
-|Keyboard only navigation (no mouse usage)                    |            |
-|Switch access, head pointer, or eye tracking                 |            |
-|Joystick                                                     |            |
-|Teletypewriter or telecommunication device for the deaf (TTY)|            |
-|Closed captions                                              |            |
-|Amplified telephone                                          |            |
-|Hearing aid                                                  |            |
-|Cochlear implant                                             |            |
-|Cane, walker, guide animal, or other walking aid             |            |
-|Wheelchair                                                   |            |
-|Prosthetics                                                  |            |
-|Wearable tech (not prosthetic)                               |            |
-|Augmentive and alternative communication device              |            |
-|Sign language interpreter                                    |            |
-|Speech-to-speech transliterator                              |            |
-|Visual aids                                                  |            |
-|Writing on paper                                             |            |
-|Typing with phone or tablet and showing it to others         |            |
-|Caregiver                                                    |            |
-|                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |            |
-|*Various*                                                    |            |
-|Traumatic Brain Injury (TBI)                                 |            |
-|Post-Traumatic Stress Disorder (PTSD)                        |            |
-|Attention-Deficit/Hyperactivity Disorder (ADHD)              |            |
-|Autism                                                       |            |
-|Vertigo                                                      |            |
-|Aphasia                                                      |            |
-|Dyslexia                                                     |            |
-|Dyscalculia                                                  |            |
-|Distractibility                                              |            |
-|Memory loss                                                  |            |
-|Reading difficulties                                         |            |
-|Low tolerance for cognitive overload                         |            |
-       
+X Veterans (includes a 25% over recruit)
 
 ### Screener
+*Primary Criteria*
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  
- > **Example:** Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-  
- Additionally, you may provide instructions for Perigean to follow to ensure a smooth set-up.
-  
- > **Example:** ALL have a computer, tablet, or smartphone and are willing to complete their interview on one of those devices:
-  - During the session, are willing to share over Zoom a web browser window on their device
-  - Have a working microphone on their device
-  - Have Zoom downloaded to their device prior to the session and know how to share their screen
+Users who are able to navigate web spaces on their mobile device:
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+*“Are you able to login to your mobile phone to navigate websites and willing to conduct this test on your mobile device?”*
+
+*"Are you willing to share over Zoom a web browser window on your device?"*
+
+*"Do you have a working microphone on your device?"*
+
+*"Can you have Zoom downloaded to your device prior to the session and know how to share your screen?"*
+
+- At least x but no more than x Veterans who identify as a gender other than male. 
+- At least x but no more than x Veterans over 65 years old.
+- At least x Veterans under 35 years old.
+
+*Secondary Criteria*
+
+- At least x Veterans who are not White/Caucasian.
+
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+**When will the thing you are testing be finalized?**
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+Monday, August 12th
+
+**Pilot session information**
+
+- Pilot participant email: TBD
+- Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research:
+**Planned dates of research:**
+
+- Planned dates of research: Aug 26th - 30th 
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
+
+- Session length: 1 hour
+- Buffer time between sessions: 30 minutes
+- Maximum sessions per day: 3
+
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+TBD
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+Below is the list of the people serving in each role and their contact information:
+
+- Moderator: Morgan Jones
+- Research guide writing and task development: Morgan Jones
+- Participant recruiting & screening: Perigean
+- Project point of contact: Christine Steiffer
+- Participant(s) for pilot test: Lynn Stahl
+- Note-takers: Christine Steiffer, Morgan Jones, Lynn Stahl
+- Observers: Lynn Stahl, Adam Whitlock, Belle P, Becky Phung, Alex Parker, Matt Dingee, Kevin Hoffman PLUS additional members from teams who are using or are interested in using the latest prefill recommendations (Pension Benefits, Decision Reviews, Ask VA, CHAMPVA, CAIA, etc)
+
+Contact info:
+
+- Morgan Jones - 	morgan.jones@adhocteam.us        415-300-6962
+- Christine Steiffer - 	christine.steiffer@agile6.com 	571-282-9104
+- Lynn Stahl
+- Adam Whitlock
+- Belle Poopongpanit	
+- Becky Phung
