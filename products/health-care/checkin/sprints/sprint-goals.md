@@ -89,14 +89,14 @@
     - **Sprint Goal is to address the remainder of the issues from Staging Review and close the Epic**
     - 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
     - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
-    - 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008) 
+    - ✔️ 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008) 
 - **Upcoming Appointments**
     - **Sprint Goal is to update wireframes based on Midpoint Review feedback and finish backend integration work**
     - 🟥 [[Design] Finalize appt detail pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
     - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
       - 🟥 (Points accounted for in 89598) [Midpoint Review - Design Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89478)
       - 🟥 (Points accounted for in 89598) [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
-    - 🟩 [[FE] - Added start/end query params to upcoming appointments GET](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89875)
+    - ✔️ 🟩 [[FE] - Added start/end query params to upcoming appointments GET](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89875)
     - 🟩 [[FE] SPIKE - discover all the possible values for the 'kind' field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89876)
     - 🟩 [[FE] Link to New Upcoming Appointments Page for Day-of and Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
     - **Sprint Goal is to look at options for implementing tabs in design**
@@ -125,14 +125,14 @@
         - Pulled in after planning
     - ✔️ 🟥 [[Design] Update medication review info and/or manage appointment links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90043)
     - 🟦 [[BE] Investigate sentry errors being thrown by check-in controllers ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89085)
-    - 🟦 [[BE] Investigate issues with travel claims submission through check-in vets-api code in Staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89350)
+    - ✔️ 🟦 [[BE] Investigate issues with travel claims submission through check-in vets-api code in Staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89350)
     - 🟦 [[BE] Handle 401s from LoROTA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90099)
     - 🟦 [[BE] Handle 403s from LoROTA data call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89625)
     - 🟦 [[BE] Resolve the 404s being thrown by CHIP/LoROTA due to synthetic monitoring tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89776)
     - 🟦 [[BE] remove feature flag: check_in_experience_lorota_security_updates_enabled](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90100)
-    - 🟦 [Update content on success page to remove content about texting again ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90062)
+    - ✔️ 🟦 [Update content on success page to remove content about texting again ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90062)
     - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
-    - 🟩 [[FE] Add link collection component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90353)
+    - ✔️ 🟩 [[FE] Add link collection component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90353)
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
 - **Production Support**
