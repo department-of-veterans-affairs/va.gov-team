@@ -10,9 +10,9 @@ Our team will fix data issues in the existing Post-9/11 Statement of Benefits (S
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-As a Veteran, I want 24/7 availability to view my education benefit eligibility and review remaining entitlements for education and training
-As a content resource, I want to ensure that SOB is enhanced to provide 24/7 availabillity to Veterans
-As a data producer, I want to resolve login, calculation, and data issues
+- As a Veteran, I want 24/7 availability to view my education benefit eligibility and review remaining entitlements for education and training
+- As a content resource, I want to ensure that SOB is enhanced to provide 24/7 availabillity to Veterans
+- As a data producer, I want to resolve login, calculation, and data issues
 
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
