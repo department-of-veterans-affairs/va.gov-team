@@ -4,8 +4,10 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
 
 - **12/4/2023**: Stakeholder feedback is incorporated into landing page.\
   _Confirmed by CAIA Content Editor A Procik (_[_Slack message_](https://dsva.slack.com/archives/C05L6HSJLHM/p1701698627241959)_). Feedback requested by Product Manager Lindsay Li-Smith via email “Review by Fri 12/2: Representative Landing Page” and received from Lisa Koenigsberg (OIT), Martin Caraway (VBA), Jessica Pierce, Jenny Rosenau and Kayce White (Compensation Service)._
+- **3/12/2024**: Decided that it's best to lead with "accredited representative" as an umbrella term, before introducing specific types of accredited representatives, like "VSO." The order of these terms in the H1 doesn't impact findability or SEO, so we shouldn't change it. \
+  _Confirmed retroactively by CAIA content partner, A Procik ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90397#issuecomment-2286980488))_.
 - :tada: **3/12/2024**: [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/) landing page is published. \
-  _Published by CAIA ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67034#issuecomment-1989100865) confirming ready to publish)_
+  _Published by CAIA ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67034#issuecomment-1989100865) confirming ready to publish)_.
 - **3/18/2024**: Redirected [va.gov/disability/get-help-filing-claim](https://www.va.gov/disability/get-help-filing-claim/) and [va.gov/decision-reviews/get-help-with-review-request](https://www.va.gov/decision-reviews/get-help-with-review-request/) to the accredited representative landing page. \
   _Redirect implemented by the Public Websites team_ ([redirect plan](https://dvagov.sharepoint.com/:w:/s/SitewideCAIA/EXzlPiBgEiBKmYFApzlvs2oBxVQhSWag-nxboeMTNRLnNQ?e=I7Rpfu)).
 - **3/18/2024**: CAIA will be deprecating the “Veteran Service Officer” term across VA.gov.\
