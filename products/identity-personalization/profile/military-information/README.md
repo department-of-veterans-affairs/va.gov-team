@@ -51,7 +51,7 @@ We pull in a small amount of military information to the VA.gov profile. This in
 
 |Project/Inititive|Epic|Status|
 |---|---|---|
-| Expand Military Information [project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information)| [Intake EPIC \| Profile \| Enhanced Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)|Decided not to persue this|
+| Expand Military Information [project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information)| [Intake EPIC \| Profile \| Enhanced Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)|Decided not to persue this except for adding the service type|
 |IES Download|||
 
 ## Backend
