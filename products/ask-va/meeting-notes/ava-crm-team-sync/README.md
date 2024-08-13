@@ -1,5 +1,45 @@
+**Agenda for August 13th:** 
+
+- Security Issues
+- Updating AVA Profile (Conversation [in slack](https://dsva.slack.com/archives/C06LN37RT47/p1723230210079369?thread_ts=1723147323.138299&cid=C06LN37RT47).)
+- Generate Open API from Dataverse APIs?
+  - MSFT tooling should create the Swagger ??
+  - Better than hand-edited markdown.
+
+**Notes**
+
+- notes here
+
+**Action Items**
+
+ - **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
+ - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
+
+
+**Agenda for August 6th:** 
+
+- Review Test Plan (RPA Notes)
+- Display_name follow up (Hemesh/Khoa)
+
+**Notes**
+
+- Review Test Plan (RPA Notes)
+  - Natalie to look into this more and make sure we’re clear on the coordination efforts (who reaches out, documented in the test plan.)
+  - CHRIS: if we want to interact with RPA, needs to be one of their supported topics, as listed in the test plan.
+  - KYLE: RPA bot needs to be reenabled in pre-prod for UAT.
+- Display_name follow up (Hemesh/Khoa)
+  - Only a couple more to update. All should be able to update by October, but Ed users (highest-stake users) may want to make changes closer to December? HEMESH: display_name is only used by AVA VA.gov, but CRM is implementing name and display_name at the same time.
+- SHELBY/BECKY: UAT for changes deployed to prod, but the work for the launch will be done in the individual release UATs (5 or so), no specific CRM changes to test for VA.gov work. 
+
+**Action items:**
+ 
+ - **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
+ - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
+ - DONE: ~**Kyle/ Chris** to update test user 119 for AVA Profile Data~
+ - DONE: ~**Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting.~
+
 **Agenda for August 1st:** 
--
+
 - Discuss CRM UAT
 - Review Timeline for potential phases approaches
 - Testing Users (Joe): 119 Add Classic AVA /CRM to profile
