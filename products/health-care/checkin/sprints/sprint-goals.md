@@ -57,12 +57,9 @@
     - **Sprint Goal is to address Design Intent feedback, determine how we want to implement this, and create tickets to move it forward**
     - 🟥 [Design Intent - IA Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90412)
     - 🟥 [Design Intent - Design Feedback - Name of Project ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90323)
-    - 🟥 Schedule Midpoint Review
+    - 🟥 Are we ready to Schedule Midpoint Review????
     - 🟩 TBD
     - 🟦 TBD
-- **Componentize the Appt Summary View**
-    - **Sprint Goal is to determine how we want to implement this and create tickets to move it forward**
-    - 🟩 TBD
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76037)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89592)
