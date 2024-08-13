@@ -60,6 +60,8 @@
     - 🟥 Are we ready to Schedule Midpoint Review????
     - 🟩 TBD
     - 🟦 TBD
+- **Appt Detail Page Redesign with Action List**
+    - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90550)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76037)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89592)
