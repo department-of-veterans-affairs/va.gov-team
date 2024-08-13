@@ -3,6 +3,21 @@
 This file serves as a high level meeting log and demo inventory for the VA Health and Benefit mobile core team.
 ***
 
+## August 13, 2024: Sprint 103 [VA Mobile Sprint Demo - Sprint 103.pdf](https://github.com/user-attachments/files/16605405/VA.Mobile.Sprint.Demo.-.Sprint.103.pdf)
+
+[8/13/24 Sprint Demo]((https://adhocteam-us.zoom.us/rec/share/dQPRoBofBvVcPftxE6yWDbJWTlpSANl7jkg22hp-2d9sqknyCCGM66GASIJ--tEd.RC0JeEsCPtxLvFGS?startTime=1723575638000))
+Passcode: jLYW45x%
+
+| Team | Topic | 
+|---|---|
+| Flagship: Global | Home Screen Metrics, July App Reviews |
+| Flagship: Health & Benefits | Claims Steps update |
+| Platform: QA & Release | PRs requiring both Eng and QA approval |
+| Platform: API | Veteran Status Investigation Summary |
+| Platform: Design System | Color Token Documentation |
+
+***
+
 ## July 30, 2024: Sprint 102 [VA Mobile Sprint Demo - Sprint 102.pdf](https://github.com/user-attachments/files/16433304/VA.Mobile.Sprint.Demo.-.Sprint.102.pdf)
 [7/30/24 Sprint Demo](https://adhocteam-us.zoom.us/clips/share/oOUR0-6L24mpoKHnTWi0S0Cfcyl-t3URGv53XpW3OFQnbO-QsXA-RLk22T_d5yTVUXIpkw.Vo3whcM6MSPBaBzd)
 
