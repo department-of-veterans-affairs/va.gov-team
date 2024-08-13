@@ -46,7 +46,7 @@ This varies, depending on the scope of what's being tested. A good starting poin
 
 > [!IMPORTANT]
 > - Please specify if you need testing completed on a certain device or assistive technology.
-> - [These are the tools accessibility specialists use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2e5a0a08bd51ae3258de4c9f37754f907e938586/teams/CAIA/accessibility/tools-we-use.md#tools-we-use).
+> - [These are the tools accessibility specialists use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/tools-we-use.md).
 >   - However, all accessibility specialists do not have access to the same technology.
 >   - As an example, some have access to JAWS, while others do not. Some do not have a mobile devlice, while others have an Android device, while others have iPhone and/or both.
 
