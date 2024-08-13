@@ -122,7 +122,7 @@ I want you to explore the available options as if you were alone and viewing the
 
 #### Questions for claim letters page
 * Tell me what you see here?
-* If you wanted to view the claim letter for this particular claim, what would you do?
+* If you wanted to view the claim letter, how would you find this letter?
 * Is there anything here you’re not seeing that you wish was here?
 
 If participant views a sample claim letter
@@ -207,7 +207,7 @@ Without clicking anything, take a moment to review the page. Remember to think a
 Ok, go ahead, scroll back to the top of the page and click on the “VA” logo to return to the previous screen.  
 
 #### Questions for claim letters page
-* If you wanted to view the claim letter for this particular claim, what would you do?
+* If you wanted to view the claim letter, how would you find this letter?
 * As you think about why you would want to see the claim letter, can you describe any specific information you would look for to help you with the request?
 
 If participant views a sample claim letter
