@@ -1,4 +1,29 @@
 # Design Weekly Sync Agenda
+## 2024-08-12
+Attendees: Angela, Jessica, Hieu, Lois, and Renata.
+
+**Multiple responses pattern** 
+- Went over the "custom" version used on the EZ/EZR today and the mocks using the 'forms library' version for EZ insurance and EZR EC/NOK
+- We will create clear labels in the design source of truth files to make this really clear when we are using what version
+- Will align styles to the form library version as much as possible but acknowledge there will be some visual differences (save-in-progress alerts and delete/remove icon button) with the custom version used
+- Talked through state when a Veteran could see the custom and library versions of the pattern in the same go through the form, not ideal interim state but okay with it
+- Goal: to help improve the pattern with the forms library and move all of our custom to the library version eventually
+
+**Design notes + documentation** 
+- The before/after side-by-side and the notes and callouts of what changed has been received well! Team notes engineers and content peeps have called this out. Plan on continuing with this pattern and what else is valuable to note and annotate in the future.
+
+**Tickets template:** 
+- Walked through slack thread of new areas to include in tickets but especially the dependencies feature is a nice add on
+
+** Registration update**
+- the sign in part was just to remove the link to save the form on those first couple of pages where the registration questions are presented.
+
+**Action Items**
+- Ask the engineers regarding the stacking button. If that is an automatic rollout or something needs to be done.
+- UX team needs to go to the Forms design officer hours regarding the list & loop directions.
+- UX team needs to indicate a badge for the custom list & loop vs no badge for the Form’s version. 
+
+
 
 ## 2024-07-29
 Attendees: Angela, Jessica, Hieu, Lois. Luis, and Renata.
