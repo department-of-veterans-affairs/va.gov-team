@@ -16,7 +16,7 @@ Find us on DSVA slack in [#va-notify-public](https://dsva.slack.com/archives/C01
 
 Email us at **VA Notify**(oitoctovanotify@va.gov)
 
-# Point of Contacts
+# Points of Contact
 **Product**
 - Dave Conlon, VA PO - VA Notify, Platform and Strike Teams
 - Ksenia Belikova, Product Manager - Notifications Platform
