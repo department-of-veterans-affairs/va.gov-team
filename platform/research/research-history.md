@@ -429,7 +429,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### August 10-14 Patient Generated Data Discovery Research
 *VA Lighthouse APIs: Lauryl Zenobi*
 - 9 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Health%20Research/2020-08-Perception-of-Patient-Generated-Data-with-veterans)
 **Key words:** Veterans, Clinicians, PGD, Wearables, Data-sharing, Clinical workflows
 
 
