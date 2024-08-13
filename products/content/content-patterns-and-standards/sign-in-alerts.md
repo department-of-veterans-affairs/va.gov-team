@@ -1,6 +1,11 @@
 # Sign-in and verification alerts
 DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
 
+## Sections
+
+- [Sign-in alerts](#sign-in-alerts)
+- [Verification alerts](#verification-alerts)
+
 **Notes:** 
 - All product teams who are creating or updating sign-in and verification alerts for their products must work with CAIA for content and with the identity team for a technical review to confirm these alerts work correctly.
 - If your form or tool has /my-health in its URL, work with the identity and cartography teams to set up the correct sign-in flow. You may need an additional registration step on MHV national portal, and you may need to place your form or tool behind a /my-health route guard.
@@ -12,7 +17,7 @@ DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
      - Forms should use [to fill out this form] as the [CTA]. Don't vary the CTA for forms.
      - Tools should use a brief plain language phrase as the [CTA]. For example, [to refill prescriptions] or [to check your claim status]. Work with Sitewide CAIA team to decide on a CTA for your tool.
 
-## Sign-in alerts — ready to implement
+## Sign-in alerts
 **Design note:** For all sign-in alerts, use blue info alert style with a lock icon.
 
 ### Standard sign-in alert (for all tools and forms that require sign-in with a verified account)
@@ -44,7 +49,7 @@ After you sign in, we’ll tell you if you need to verify your identity.
 
 [text link] Start your form without signing in
 
-## Verification alerts — ready to implement
+## Verification alerts
 **Design note:** For all verification alerts, use yellow warning alert style with a lock icon.
 
 ### Verify alert for LOA1/IAL1 Login.gov and ID.me accounts
