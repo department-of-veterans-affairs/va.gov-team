@@ -4,16 +4,14 @@
 8/14 - 8/27
 
 **Toxic Exposure**
-- Complete Staging 5% Canary rollout
-- Create research questions and approach
-
+- Complete 5% Canary rollout
+- Evaluate user metrics (Medallia & GA) to inform research
+  
 **Paper Form Sync**
 - Temp on hold until after 100% TE rollout
-
+  
 **Submission Experience**
-- Adjust the design for Timely & Truthful based on research findings
-- Ideate solutions for Claim Submission and Tracking
-
+- Ideate solutions to Timely & Truthful + Submission Record and Tracking
 
 ## Sprint 3
 7/31 - 8/13
