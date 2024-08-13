@@ -70,6 +70,8 @@ Before we look at the website, let’s start with a few warm-up questions.
    * _If no: Move to screen sharing_
 
 ### Screen sharing and prototype
+At this time, I'm going to have share your screen. Before you do, please make sure to hide anything sensitive on your device that you don't want us to see.
+
 [Ask participant to share their screen]
 
 [Share  [prototype link](https://www.figma.com/proto/BUdMIxAiIutG12rZxZ0cg1/Claim-Letters-Navigation-%2B-5103-Alert-Updates?node-id=2479-8381&t=DIduZYnsoaPYuT1q-1&starting-point-node-id=2479%3A8381)  with participant]
@@ -251,8 +253,7 @@ Thank you for your input. We are done with the prototype, and we’ll now move o
 ## Post-Task Interview - 5 minutes
 
 - Overall, what did you think of what you saw today? Was it clear or confusing?
-- On a scale of 1-5, how helpful would you say this page is? (1 being least helpful, 5 being most helpful.)
-- If you could wave a magic wand and change anything about the evidence request experience, what would it be?
+- On a scale of 1-5, how helpful would you say this evidence request experience? (1 being least helpful, 5 being most helpful.)
 - Any questions for me? 
 
 ## Thank-You and Closing - 1 minute
