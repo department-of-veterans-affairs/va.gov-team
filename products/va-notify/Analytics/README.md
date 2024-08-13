@@ -13,9 +13,7 @@ We offer analytics in a few places.
 ### VA Notify Self Service UI
 Within each template page, track your notification stats.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Template_analytics.png" alt="template-analytics" width="400px"/>
-![image](https://github.com/user-attachments/assets/c2322b7e-ddb7-492d-9875-a03e6787c59d)
-<img src="https://github.com/user-attachments/assets/c2322b7e-ddb7-492d-9875-a03e6787c59d/>
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Template_Analytics.png" alt="template-analytics" width="400px"/>
 
 Click the link to see open rates in Google Analytics. Please note, open rates are not always a reliable metric.
 
