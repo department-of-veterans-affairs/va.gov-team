@@ -12,7 +12,7 @@ Please add any potential future topics you would like covered below:
 - How does the help desk work?
 - content api / accelerated publishing (when it is available)
 - How do CMS teams use Task files?
-- Sections: How do they work for subsections? How to they interact with roles?
+- Sections: How do they work for subsections? How to they interact with roles? ([Slack convo as basis](https://dsva.slack.com/archives/CT4GZBM8F/p1723505580525429))
 - Cypress
 
 ## Topic Dives
