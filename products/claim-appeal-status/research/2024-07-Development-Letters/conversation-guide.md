@@ -43,7 +43,7 @@ Before we start, I have a few things that I want to go over with you:
       - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
 - **In this session, we’ll ask you to use a test version of the website.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
-- I’d like to ask your permission to record the screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments would be attributed to you directly.  **Are you comfortable if I record my screen and audio as we talk today?**
+- I'd like to ask for your permission to record the screen and audio as we talk today. We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments would be attributed to you directly.  **Are you comfortable if I record my screen and audio as we talk today?**
 
 *Start recording.*
 
