@@ -16,6 +16,11 @@ Within each template page, track your notification stats.
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Template_Analytics.png" alt="template-analytics" width="400px"/>
 
 
+Within the Dashboard tab, track various stats and metrics related to your Service.
+
+
+
+
 _Because this data captures users who clicked from a campaign sent at any time prior to the date range selected, these totals will almost always be much higher than the true number of users who clicked from campaigns sent during that period. This results in artificially high open rates, sometimes over 100%._
 
 ![images](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/images/Open_Rate_GA.png)
