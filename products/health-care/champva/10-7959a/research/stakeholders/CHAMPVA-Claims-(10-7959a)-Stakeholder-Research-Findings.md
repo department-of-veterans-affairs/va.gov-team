@@ -1,4 +1,4 @@
-# **CHAMPVA Claims (10-7959a) Stakeholder Research  **
+# CHAMPVA Claims (10-7959a) Stakeholder Research
 
 
 ## General Findings
@@ -138,8 +138,7 @@ Because beneficiaries do not have adequate information on how to submit their cl
 
 #### Analysis
 
-
-#### There is a beneficiary handbook that gets sent in the mail with their CHAMPVA benefits approval letter, but the packet is so long that few people read it, and there is outdated information in it (though they are currently working on a new handbook). Because of this in combination with the outdated website, beneficiaries often will not submit all the information needed (such as itemized bills, for example) to process a claim. When beneficiaries don’t provide all the required information, they’re required to go through the send back process of receiving a letter in the mail and mailing in additional information.
+There is a beneficiary handbook that gets sent in the mail with their CHAMPVA benefits approval letter, but the packet is so long that few people read it, and there is outdated information in it (though they are currently working on a new handbook). Because of this in combination with the outdated website, beneficiaries often will not submit all the information needed (such as itemized bills, for example) to process a claim. When beneficiaries don’t provide all the required information, they’re required to go through the send back process of receiving a letter in the mail and mailing in additional information.
 
 
 #### Comments/Supporting Evidence
