@@ -433,7 +433,7 @@ Note: this document does not include research history for Appeals projects, whic
 **Key words:** Veterans, Clinicians, PGD, Wearables, Data-sharing, Clinical workflows
 
 
-#### August 10 - 12
+#### August 10 - 12 COVID Vccine Trials
 *CTO health team: Ryan Thurlwell*
 
 - 6 participants (out of 8), 1 round
