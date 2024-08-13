@@ -74,10 +74,13 @@ Health Products
 - Simone Gully | simone.gully@va.gov -- Member Services SME
 - Amanda Scully | amanda.scully@va.gov -- Member Services SME
 
-**Enrollment System (ES)**
+**Enrollment System (ES)** (End-to-End Testing POCs)
 - Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
      - Primary contact for ES testing (end2end)
-- Ramya Venkataraman |ramya.venkataraman@va.gov - QA Lead, Enrollement system
+- Ramya Venkataraman |ramya.venkataraman@va.gov - SQA Test Lead, Enrollement system
+     - Secondary contact for ES testing
+- Reetu Dhanda |reetu.dhanda@va.gov - SQA Test Engineer (VES PACT Act scrum team)
+- Turkan Kasamanly |turkan.kasamanli@va.gov - Test Automation Engineer (VES PACT Act scrum team)
 
 ---
 **Caregiver Program Business Unit Team**
