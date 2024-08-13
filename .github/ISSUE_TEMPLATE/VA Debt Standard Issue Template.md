@@ -1,7 +1,7 @@
 ---
 name: VA Debt Resolution Standard Issue Template
 about: For tracking PR reviews for the VA Debt Resolution Team
-title: '<Simple Title/Description>'
+title: '[Project] Title of the work (Due date if requested)'
 labels: vsa-debt
 assignees: ''
 ---
