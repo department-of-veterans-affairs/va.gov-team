@@ -14,7 +14,7 @@ Please read the Playbook below to get started if you're interested in onboarding
 
 Find us on DSVA slack in [#va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT)
 
-Email us at **VA Notify**(oitoctovanotify@va.gov)
+Email us at **VA Notify** (oitoctovanotify@va.gov)
 
 # Points of Contact
 **Product**
