@@ -1,7 +1,7 @@
 ---
 name: VA Debt Resolution PR Review Template
 about: For tracking PR reviews for the VA Debt Resolution Team
-title: '<Simple Title/Description> - <optional case number>'
+title: '<Simple Title/Description>'
 labels: vsa-debt
 assignees: ''
 ---
