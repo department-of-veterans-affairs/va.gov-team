@@ -412,19 +412,24 @@ This page was easy to find from the Debt Details page. Many participants had not
 
 -   Work with stakeholders to improve notifications
     
+-   Debt overview page:
+
+     -   Completed (paid) overpayment debts should be listed below active (unpaid) overpayment debts.
+
 
 -   Debt details page:
     
 
     - Due date:
-    
-
-        -   Add due date again within Debt Details section
-    
-        -   Explore ways to add additional language to emphasize to users that the due date is past due while considering those on payment plans
-    
         -   Not all participants understood the purpose of the information that is needed to make a payment (file number, payee number, person entitled, deduction code) until they reached the Resolve page. We will only display this information on the Resolve page for the next iteration. Additional research will focus more on the placement of this information.
+
+        -   Add due date again within Debt Details section    
+
+        -   Can we surface a more actionable due date? OR
     
+        -   Can we surface a more clear and accurate message about the next step in the escalation process?
+    
+        -   Explore ways to add additional language to emphasize to users that the due date is past due while considering those on payment plans. Work with CAIA to refine this section.
 
 
     - Payment schedule and late fees:
@@ -444,21 +449,13 @@ This page was easy to find from the Debt Details page. Many participants had not
         -   If a Veteran makes a small payment on a debt, does the debt still get escalated to benefits offset, or the Department of Treasury?
     
 
-    - Due Date
-    
-
-        -   Can we surface a more actionable due date? OR
-    
-        -   Can we surface a more clear and accurate message about the next step in the escalation process?
-    
-        -   Work with CAIA to refine this section
     
 - Debt letter page:
-    
 
-    -   PDF links within tables
+    -   PDF links within tables 
     
     -   Discovery with SMEs to determine what is shown on the Debt Letters section
+      
     
 - Accessibility
     
