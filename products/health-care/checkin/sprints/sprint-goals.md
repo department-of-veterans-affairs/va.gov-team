@@ -9,11 +9,12 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to address all launch blockers from the Staging Review and release to production**
-    - 🟩 Placeholder for launch blockers, if any
+    - 🟩 Placeholder for launch blockers, if any - Staging Review is ?????
     - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84424)
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to address all launch blockers from the Staging Review**
-    - 🟩 Placeholder for launch blockers, if any
+    - 🟩 Placeholder for launch blockers, if any - Staging Review is ????
+    - 🟪 [Create Product Directory Entry ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83625)
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
     - 🟩 TBD
@@ -36,10 +37,10 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address launch blockers from Staging Review & release the feature**
-    - 🟩 Placeholder for launch blockers, if any
+    - 🟩 Placeholder for launch blockers, if any Staging Review 8/15
     - 🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **Upcoming VAOS Appointments**
-    - **Sprint Goal is to finish all work and schedule a Staging & ISR Reviews**
+    - **Sprint Goal is to finish all work and schedule Staging & ISR Reviews**
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
     - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
     - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
@@ -48,14 +49,15 @@
     - 🟪 Schedule Staging Review    
     - 🟩 Schedule Infrasturcture, Security Readiness Review
 - **Stand-alone Travel Application for OH Sites**
-    - **Sprint Goal is to complete the Staging and ISR Reviews**
-    - We are waiting on the final test with VeText to determine if this is ready for Staging Review
+    - **Sprint Goal is to test with VeText and schedule Staging & ISR Reviews**
+    - We are waiting on the final test with VeText (8/13) to determine if this is ready for Staging Review
     - 🟪 Schedule Staging Review
     - 🟩 Schedule Infrasturcture, Security Readiness Review 
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address Design Intent feedback, determine how we want to implement this, and create tickets to move it forward**
     - 🟥 [Design Intent - IA Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90412)
     - 🟥 [Design Intent - Design Feedback - Name of Project ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90323)
+    - 🟥 Schedule Midpoint Review
     - 🟩 TBD
     - 🟦 TBD
 - **Componentize the Appt Summary View**
@@ -106,7 +108,7 @@
     - ~🟪 Schedule and Attend Staging Review~
         - We need to wait until we hear back about whether we will need to integrate with the new BTSSS API
     - ✔️ 🟥 [Update content on success page to remove content about texting again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90062)
-    - 🟩 [FE] ticket for Update content on success page to remove content about texting again
+    - 🟩 [[FE] Remove Information about Filing Multiple Claims in 1 Day ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90546)
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address feedback from the Design Intent, finish the wireframes, and hand off to engineering**
     - 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
