@@ -6,7 +6,7 @@
 # You can alias this script by adding `alias socks='/path/to/socks.sh'` to your `~/.bashrc` or `~/.zshrc` file.
 # Override the default location of keyfile by setting VA_SOCKS_KEYFILE environment variable
 # Override the default network (Wi-Fi) by setting SOCKS_NETWORK environment variable
-# Note: Only tested on OSX; Requires Ruby >= 1.9
+# Note: Only tested on OSX; Requires Ruby >= 3.3
 set -o errexit
 set -o nounset
 # set -x
