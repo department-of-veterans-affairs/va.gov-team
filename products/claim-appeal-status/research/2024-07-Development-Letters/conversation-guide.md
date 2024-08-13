@@ -258,12 +258,11 @@ Thank you for your input. We are done with the prototype, and we’ll now move o
 
 ## Thank-You and Closing - 1 minute
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Thank you for sharing your thoughts with us today. Your feedback was greatly appreciated as we work to improve the site for Veterans.
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+Perigean will send you a thank you note with a brief message to share with other Veterans who might want to participate in future research.
 
-Thank you so much again, and enjoy the rest of your day!
-
+Thanks again, and have a great day!
 
 ## Emergency Exit
 
