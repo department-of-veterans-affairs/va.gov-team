@@ -16,7 +16,9 @@
  - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
 
 
-**Agenda for August 6th:** 
+## Meeting Notes for August 6th:
+
+**Agenda** 
 
 - Review Test Plan (RPA Notes)
 - Display_name follow up (Hemesh/Khoa)
@@ -38,7 +40,9 @@
  - DONE: ~**Kyle/ Chris** to update test user 119 for AVA Profile Data~
  - DONE: ~**Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting.~
 
-**Agenda for August 1st:** 
+## Meeting Notes for August 1st:
+
+**Agenda** 
 
 - Discuss CRM UAT
 - Review Timeline for potential phases approaches
@@ -78,6 +82,7 @@ Testing Users (Joe): 119 Add Classic AVA /CRM to profile
  - **Action:** new meeting to assist with analysis for time per queue to resolve an issue (best date 8 or 9th - Thursday / Friday) 
  - This information will help determine if the potential model will improve the ability to decrease inquiry resolution time (is this useful)
  - **Action: Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting.
+
 ## Meeting Notes for July 23rd: 
 
 ### Agenda:
