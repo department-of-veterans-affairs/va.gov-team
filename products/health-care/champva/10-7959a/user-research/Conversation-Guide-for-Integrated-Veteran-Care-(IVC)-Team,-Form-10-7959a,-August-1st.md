@@ -58,9 +58,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 Also, please be aware again that none of your information will be shared if you use your own as you interact with the prototype. We would prefer that you make information up; however, if you have trouble doing this, please let us know, and we can provide you with some fabricated information to enter.
     * Note: If the participant struggles with fabricating information or prefers not to, please give them some 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "placeholder information"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[placeholder information](#heading=h.il5q27gp5dq6) below.
+[placeholder information]() below.
     * Task 1: Give half the participants instruction to submit a “medical claim” and the other half a “prescription claim,” ask them to vocalize what documents they would expect to submit in either case.
         * Do you typically submit one claim at a time or more than one?
         * What's your understanding of what makes up a single claim?
