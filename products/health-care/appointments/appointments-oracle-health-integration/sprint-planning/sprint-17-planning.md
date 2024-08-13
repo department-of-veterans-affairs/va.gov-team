@@ -23,7 +23,7 @@ Sprint 17: 7/30/24 - 8/12/24
 ## 📋 Previous Sprint Summary:
 In Sprint 16, the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  * VetsAPI Patient Gateway currently returns HTTP 400 for appointment creations with status of 'BOOKED'. This filter was removed and tests were added to ensure that booked appointments can be created using VPG. 
+  * VetsAPI Patient Gateway (VPG) was returning HTTP 400 for appointment creations with status of 'BOOKED'. This filter was removed and tests were added to ensure that booked appointments can be created using VPG. 
   * For VetsAPI consuming services, we exposed location, practitioner, and clinic information on slot search responses to make sure it is consistent with the return values from VAOS-service. 
 * #### Backend support to build Clinical Encounter Service to extend VAOS with Oracle Health write-back capabilities:
    * Clinical Encounter Service (CES) was updated to determine where an incoming appointment search should be sent. Looking at the passed search parameters determines whether to send to either Cerner, Vista, or both. 
@@ -34,16 +34,22 @@ In Sprint 16, the team provided support for multiple features and initiatives, o
    * VPG implemented additional Cerner Fhir Adapater (CFA) patch exception handling to assist with troubleshooting of unexpected errors that could be returned from CFA. 
 * ### Testing/Admin/Operational Support
    * As part of the MAP environment, all services are required to have flexline scans. VetsAPI Patient Gateway was updated to have the flexline configuration built in. This is required before initial prod release.  
-   * Investigations were made into why VetsAPI Patient Gateway appointment searches were taking longer than Cerner Fhir Adapater and VAOS component searches. ADD WHAT WE DISCOVERED HERE 
+   * Investigations were made into why VetsAPI Patient Gateway appointment searches were taking longer than Cerner Fhir Adapater and VAOS component searches. The issue with the delayed searches was resolved and VPG is now as performant as CFA and VAOS. 
  
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-   * 🧗‍♀️[#90378 CES-818 CES: Add support for _id search parameter](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90378)
-* 🔴 Appointment Cancellation
-
+   * [#90378 CES-818 CES: Add support for _id search parameter](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90378)
+   * [#90578 CES-669 VPG: Replace mockserver with wiremock](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90578)
+   * [#90607 CES-620 Prevent double read call to EHRs for appointment reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90607)
 * 🔵 Direct Scheduling
   * [#88455 CES-633 VPG: Return patient clinic relationships](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/88455)
-* 🟣 Testing/Admin/Operational Support
+  * [#90368 CES-790 VPG: Remove Identifier payload from converted FHIR appointment](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90368)
+  * [#90596 CES-839 VPG: Update filters for cerner relationships search](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90596)
+  * [#90591 CES-843 VPG: Add missing slot search test cases](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90591)
+  * [#90599 CES-559 VPG: Enforce CTPS policy relationships restrictions during self-scheduling](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90599)
+  * [#90606 VetsAPI: Add relationships endpoint](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90606)
+  * [#90580 CES-849 VPG: Remove sources array from relationships endpoint](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90580)
+ 
    
 ## ✈️ Planned Releases
