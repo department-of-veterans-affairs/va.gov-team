@@ -56,9 +56,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 * Step 2: Please proceed through filling out the form as if you were attempting to file a claim for CHAMPVA benefits. Feel free to fabricate responses that fit the fields if you feel uncomfortable inputting your personal information. As stated previously, however, we will be removing any of your identifying information, and nothing you do here will impact your actual benefits or services in any way. **Please vocalize what you are thinking as you proceed**. As we mentioned earlier, please ask if you have any questions. Please know that if you do ask questions, I may not answer them because the purpose of the study is to see how you naturally interact with the form and not to guide you through it. Since it’s just a prototype, not everything will look or act as you expect. \
  \
 Also, please be aware again that none of your information will be shared if you use your own as you interact with the prototype. We would prefer that you make information up; however, if you have trouble doing this, please let us know, and we can provide you with some fabricated information to enter.
-    * Note: If the participant struggles with fabricating information or prefers not to, please give them some 
-
-[placeholder information]() below.
+    * Note: If the participant struggles with fabricating information or prefers not to, please give them some [placeholder information]() below.
     * Task 1: Give half the participants instruction to submit a “medical claim” and the other half a “prescription claim,” ask them to vocalize what documents they would expect to submit in either case.
         * Do you typically submit one claim at a time or more than one?
         * What's your understanding of what makes up a single claim?
