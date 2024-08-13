@@ -5,7 +5,7 @@ This file serves as a high level meeting log and demo inventory for the VA Healt
 
 ## August 13, 2024: Sprint 103 [VA Mobile Sprint Demo - Sprint 103.pdf](https://github.com/user-attachments/files/16605405/VA.Mobile.Sprint.Demo.-.Sprint.103.pdf)
 
-[8/13/24 Sprint Demo]((https://adhocteam-us.zoom.us/rec/share/dQPRoBofBvVcPftxE6yWDbJWTlpSANl7jkg22hp-2d9sqknyCCGM66GASIJ--tEd.RC0JeEsCPtxLvFGS?startTime=1723575638000))
+[8/13/24 Sprint Demo](https://adhocteam-us.zoom.us/rec/share/dQPRoBofBvVcPftxE6yWDbJWTlpSANl7jkg22hp-2d9sqknyCCGM66GASIJ--tEd.RC0JeEsCPtxLvFGS?startTime=1723575638000)
 Passcode: jLYW45x%
 
 | Team | Topic | 
