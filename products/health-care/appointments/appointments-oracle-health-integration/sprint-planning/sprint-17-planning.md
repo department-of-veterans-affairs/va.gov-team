@@ -23,18 +23,19 @@ Sprint 17: 7/30/24 - 8/12/24
 ## 📋 Previous Sprint Summary:
 In Sprint 16, the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  * 🚧[#88472 CES-384: VPG: Support creation of booked Appointments in OH](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/88473)
-  * 🚧[#82552 VetsAPI: Expose location, practitioner, and clinic info on Slot search responses](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/82552)
+  * VetsAPI Patient Gateway currently returns HTTP 400 for appointment creations with status of 'BOOKED'. This filter was removed and tests were added to ensure that booked appointments can be created using VPG. 
+  * For VetsAPI consuming services, we exposed location, practitioner, and clinic information on slot search responses to make sure it is consistent with the return values from VAOS-service. 
 * #### Backend support to build Clinical Encounter Service to extend VAOS with Oracle Health write-back capabilities:
-   * [#89362 ces-316 CES: Forward appointment searches to correct EHR based on search parameters](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89632)
-   * [#89613 CES-629 CES: Determine EHR for incoming search appointment requests](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89631)
-   * [#89958 CES-782 VPG: Create VFA client and relationships retrieval method](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89958)
+   * Clinical Encounter Service (CES) was updated to determine where an incoming appointment search should be sent. Looking at the passed search parameters determines whether to send to either Cerner, Vista, or both. 
+   * CES added support for EHR specific search parameters and properly shows an error when a request has conflicting search parameters. 
+   * VetsAPI Patient Gateway was updated to create a vista fhir adapter client and relationship retrieval method. Now developers can retrieve Vista relationships for a patient. 
 * #### Backend support for Oracle Health to enable appointment cancellations
-   * [#89614 CES-527 VPG: Add vaos and cerner Appointment mixed test cases](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89614)
-   * 🧗‍♀️[#89725 CES-788: VPG: implement additional CFA patch exception handling](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89725)
+   * Additional testing was added to VetsApi Patient Gateway (VPG). Integration test scenarios now include all types of appointment data and brand and line code coverage is now at 100% 
+   * VPG implemented additional Cerner Fhir Adapater (CFA) patch exception handling to assist with troubleshooting of unexpected errors that could be returned from CFA. 
 * ### Testing/Admin/Operational Support
-   * * [#89613 CES-696 Convert VPG to have flexline configuration built in](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89613) 
-  * [#89580 CES- 778 VPG: Investigate appointment search performance issues](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/89580)
+   * As part of the MAP environment, all services are required to have flexline scans. VetsAPI Patient Gateway was updated to have the flexline configuration built in. This is required before initial prod release.  
+   * Investigations were made into why VetsAPI Patient Gateway appointment searches were taking longer than Cerner Fhir Adapater and VAOS component searches. ADD WHAT WE DISCOVERED HERE 
+ 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
