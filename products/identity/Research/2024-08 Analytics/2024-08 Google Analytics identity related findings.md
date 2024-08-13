@@ -66,16 +66,16 @@ Uncover insights and identify areas for further qualitative analysis to improve 
 
 ## Discussion
 - This data shows that the large majority of veterans signing in on MHV, are not using the VA.gov univeral sign in page (option 1). As MHV transitions to VA.gov and as MHV credential reaches deprecation, we'll want to watch for signs of folks having difficulty adapting to a sign in page they may not be used to or have even used before.
-- Almost 10% of sessions begin on the sign in page, likely due to it being bookmaked, however the majority (about 80%) of sessions that begin there don't sign in right away.
+- Almost 10% of sessions begin on the sign in page, likely due to it being bookmarked, however the majority (about 80%) of sessions that begin there don't sign in right away.
 - In fact a session that starts on the home page of either VA.gov or MHV is twice as likely to sign in right away.
-- Just under a quarter of sessions that begin on the /claim-or-appeal-status page sign in right away, so this page is a major gateway for folks who are signing in. When any modificaitons are made to signing in via this page or to the sign in alert widget, it should be done with the understanding that it will impact a majority of veterans who visit this page first in their session.
+- Just under a quarter of sessions that begin on the /claim-or-appeal-status page sign in right away, so this page is a major gateway for folks who are signing in. When any modifications are made to signing in via this page or to the sign in alert widget, it should be done with the understanding that it will impact a majority of veterans who visit this page first in their session.
    - This product page does have a sign in alert widget
    - This page requires a verified account on sign-in, but doesn’t disclose that in the sign-in alert widget
    - It seems that folks starting on the claim or appeal page want to see information that requires them to sign in
    - We’ll want to make sure that veterans can easily sign in from this page.
    - This should be a high priority page to update the verify sign in widget.
 - Other sessions that start on deeper pages of VA.gov don't see as many sign-ins right away.
-- As we predicted, only a small percentage of folks are choosing to decline the Terms of Use. It would be dificult to find them, but if we could, it could be insightful to talk with them about why they chose to decline.
+- As we predicted, only a small percentage of folks are choosing to decline the Terms of Use. It would be difficult to find them, but if we could, it could be insightful to talk with them about why they chose to decline.
 
 
 ## Raw data
