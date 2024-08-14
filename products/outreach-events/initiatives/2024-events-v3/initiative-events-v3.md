@@ -18,7 +18,7 @@ How might we enhance a Veteran's experience when they're searching for and viewi
 
 __Note that the usage of Veterans et al means Veterans, their family, caregivers and survivors.__
 
-* Enable editors to publish events that will no longer rely on content build, thus speeding up the publishing process (React app).
+* Enable editors to publish events that will no longer rely on content build, thus speeding up the publishing process.
 * Design schema to support future work, e.g. store lat/long, apply tags to events, etc. 
 
 ### Non-MVP Problem Solutions: 
@@ -46,8 +46,8 @@ __Note that the usage of Veterans et al means Veterans, their family, caregivers
   * Better filtering/search capabilities
 * CSAT scores increased due to enabling filtering, and displaying only current/future events (not past) 
 * Number of events processed has increased 
-* Processing time / speed increased 
-  
+* Processing time / speed increased
+ 
 ## Outcome Summary 
 
 Implementing the new React app backend will greatly reduce content build time, and remove the risk of increasing it exponentially, which would cause events to not reach Veterans on the VA.gov frontend in time for them to plan and attend. This will also increase the publishing time, bringing Events to Veterans in a more timely manner, thus giving them greater lead time to plan their attendance. By implementing finding 'events near me', as well as enhancing the filtering capabilities, Veterans will be able to more quickly find events they're interested in, and then plan accordingly. 
@@ -57,34 +57,45 @@ Implementing the new React app backend will greatly reduce content build time, a
 For this initiative, we will implement in multiple phases, with MVP being the first, and then Post-MVP work which will be a combo of backend and Veteran- & Editor-facing design work. 
 
 ### MVP Scope 
+_**Note: The MVP will focus mainly on backend functionality and research**_
 
-__Note: The MVP will focus mainly on backend functionality and research__
+#### Epics - MVP
+  - [[EPIC] [Events v3 - MVP] Create an Events API & Data Model #17911](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17911) 
+  - [[EPIC] [Events v3 - MVP] FE, UX, and Unit Test Updates #18277](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18277)
+
+#### Questions - MVP
+- _Question_: Considering the work the AP team is doing with Events in Next Build, is it still accurate to say we are rebuilding as a new 'react app'?
+  - _Answer_: 
 
 #### Engineering/Backend: 
-
 - Rebuild events from static HTML into a dynamic React app driven by an API, thus allowing more events to be published faster outside of content build. 
    - Ensure existing functionality is retained/not degraded.
-  - if rebuilding into a React up makes the front-end looks different to editors, then a KB article will be needed. 
-- Build dynamic front-end to support new react app, ensuring no features/functionality are lost. 
-  - Ensure the schema stores future-need items, such as: 
-         -  lat/long > for forward lookup, and editing by editors (actual implementation of forward lookup and editing by editors has been added to Post-MVP requirements) 
+   - if rebuilding into a React up makes the front-end looks different to editors, then a KB article will be needed.
+   - Ensure the schema stores future-need items, such as: 
+         - lat/long > for forward lookup, and editing by editors (actual implementation of forward lookup and editing by editors has been added to Post-MVP requirements) 
          - tagging e.g. audience for categorization (actual implementation of tagging has been added to Post-MVP requirements) 
          - anything else? 
+- Build dynamic front-end to support new react app, ensuring no features/functionality are lost. 
 - Write unit tests to cover at least 80% of the code (collaboration cycle requirement). 
 - Write architectural documentation 
 - Generic prioritized defects
 - Explore feasibility of automating event data files for every event list (something similar to KISS, but automated for every event list (event_listing) node. 
-  - ask Daniel Sasser about this and detail it better. Share with Michelle. 
+  - ask Daniel Sasser about this and detail it better. Share with Michelle. [Spike](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10003) already created and needs refining
 
 #### UX/Research
-
 - Research to support design system request to make year into dropdown year list instead of text field. 
   - Engineering implementation of the above, along with defaulting to current year. 
 
 ### Post-MVP Scope 
 
-#### Drupal Engineering (Editor FE)
+#### Epics - Post-MVP Scope
+_**Post-MVP Scope consists of 'Fast-Follow', and possibly 'Future-State' work**_
 
+#### Questions - Post-MVP Scope
+- _Question_:
+  - _Answer_: 
+
+#### Drupal Engineering (Editor FE)
 - Ability for editors to add/edit lat/long of event location, especially for non-VA locations and Vet Center CAPs. 
   - Provide Editors the ability to view/validate lat/long are correct for locations. 
   - Provide editors the ability to edit/correct lat/long if necessary 
@@ -148,8 +159,7 @@ __Note: The MVP will focus mainly on backend functionality and research__
 __[2024-08-01] Note that the epics need to be edited to match the edits just published in the Initiative.__
 
 - [[SUPER EPIC] Events v3](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17871) 
-  - [[EPIC] [Events v3 - MVP] Create an Events API & Data Model #17911](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17911) 
-  - [[EPIC] [Events v3 - MVP] FE/UX, and Unit Test Updates #18277](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18277) 
+
   - [[Events v3 - Fast-follow] Enhancements or alterations to Events v3 that will come directly after MVP #18282](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18282) 
   - [[EPIC] [Events v3 - Future State] Events filters #9435](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9435) 
   - [[EPIC] [Events v3 - Future State] Publish Events to multiple Facilities + Outreach Events #15562](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15562) 
