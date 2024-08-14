@@ -1,4 +1,4 @@
-#**Questions**
+**Questions**
 - Who is Juan's mentor on the mobile side?
 - How does the mobile team handle UAE product backlog? Do they create tickets themselves, or work with tickets that are on the UAE board?
 - Will Juan join agile ceremonies of the mobile team?
