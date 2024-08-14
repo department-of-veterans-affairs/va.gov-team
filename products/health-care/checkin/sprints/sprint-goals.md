@@ -69,8 +69,9 @@
 ## SPRINT 13 - 8/7/2024-8/20/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79886)
-    - **Move to New AWS Instance**
+    - **Support Renewal of the ATO**
         - 🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
+    - **Move to New AWS Instance**        
         - ✔️ 🟨 [[DevOps] Determine which ECR repository images are actively in use.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87089)
         - ✔️ 🟨 [[DevOps] Triage external dependents of CIE-owned resources in vaec-cms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77657)
         - ✔️ 🟨 [[DevOps] Check out CHIP KMS infrastructure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86521)
