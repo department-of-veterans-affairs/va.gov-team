@@ -76,7 +76,7 @@ This work is prioritized because it addresses one of the most painful parts of t
 ## 6.2 Submission Record and Tracking
 In the 7/24 Submission Status Research study, all participants stated they had the claim information they needed on the confirmation page. When asked if they would be interested in downloading a full PDF at a later date, a majority of Veterans said yes.
 
-However, today it’s not possible for Veterans to do this. Before the Veteran submits their application, they can view the details of the application in detail on the Review & Submit screen, but there is no option to print or save. After the Veteran clicks “Submit application” they are redicted to the Confirmation page where the Veteran can view their name, date the application was submitted, the conditions they claimed, and a Claim ID number. The ability to print, save, or view a copy of the completed and submitted 526 form, is not a given option on this page. If the Veteran wants the application’s details and uses they browser’s back button they are taken to the start page of the 526 form, not the Review and Submit page where they would have expected to go. Veterans also expressed a desire to be able to locate and view a copy of their completed form online at a later time.
+However, today it’s not possible for Veterans to do this. Before the Veteran submits their application, they can view the details of the application in detail on the Review & Submit screen, but there is no option to print or save. After the Veteran clicks “Submit application” they are redicted to the Confirmation page where the Veteran can view their name, date the application was submitted, the conditions they claimed, and a Claim ID number. The ability to print, save, or view a copy of the completed and submitted 526 form, is not a given option on this page. If the Veteran wants the application’s details and uses the browser’s back button they are taken to the start page of the 526 form, not the Review and Submit page where they would have expected to go. Veterans also expressed a desire to be able to locate and view a copy of their completed form online at a later time. A record of their submission could ease resubmission challenges for Veterans who are asked to mail in failed documents like evidence or a 4142/0781. Easy access to full evidence file names and completed ancillary forms could save Veterans calls to the Contact Center or refilling forms.
 
 ## 6.2.1 Success
 - Veterans save or print their completed 526ez that matches the submitted claim VA has on file
@@ -91,17 +91,27 @@ However, today it’s not possible for Veterans to do this. Before the Veteran s
 
 ### 6.2.1.2 As Themes
 Ensure [result] for [persona]
-TBD
+* Ensure a printable copy of the submission record is available to the Veteran
+* Ensure a copy of the submission record is available as a download for the Veteran
+* Ensure the submission record is available at a later time on VA.gov for the Veteran
+* Ensure that the submission record contains the information needed to get help for the Veteran
 
 ### 6.2.1.3 As User Stories
 As a [persona] I want [desire or goal] so that [benefit/result] 
-TBD
+As a Veteran I want a printed copy of my submission so that I can find the information I need
+As a Veteran I want to download a copy of my submission record so taht I can save it on my computer or in my cloud storage
+As a Veteran I want to be able to locate a record of my submission on VA.gov so I can get the information I need at a later time when I don't have a printed copy or a saved copy on my computer
+As a Veteran I want the information I need to be captured in a submission record so I can get the information I need when seeking help about my submission
 
 ## 6.2.2 Out of Scope
-TBD
+
 
 ## 6.2.3 Risks and Challenges
-TBD
+- Need to better determine what is considered a "submission record"
+- Need to determine if ancillary forms are included as part of this record
+- Due to occassional long processing times for submitting the application, technical feasibility of providing this in the moment is unclear
+- What percentage of claims have the 526 in the Veteran's eFolder within 30 seconds?
+- It may not be feasible to include ancillary forms, however consideration could be given to the interaction design of how we might do this
 
 ### 6.2.4 CAIA and Collaboration Cycle progress
 
