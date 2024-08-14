@@ -1,6 +1,6 @@
 # Project outline: Unified Sign-in Page - Legacy Logins 
 
-**Last updated: June 14, 2024**
+**Last updated: Aug 14, 2024**
 
 ## Table of Contents
 
@@ -74,9 +74,13 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 
 ## Key dates
 
-
+- My HealtheVet option will be removed after January 31, 2025
+- DS Logon option will be removed after September 30, 2025
+- Both should be less prominent in the UI by Sept/Oct to help encourage folks to switch
 
 
 ## Backend
 ## Frontend
 ## Design
+
+- [Figma design](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?m=auto&t=goA3iDADRZdnacsU-6), currently includes brain storming of possible design flows (Aug 2024)
