@@ -72,10 +72,10 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: Aug 15 - 30
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
+- Desired date range: Aug 19 - Sept 3
+- How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
+- Links to the dashboard(s) showing "success criteria" metrics: 
 - Who is monitoring the dashboard(s)?: UX Leads, Engineering Lead, and Product Manager
 
 
@@ -174,8 +174,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- Length of time: 1 day
+- Percentage of Users: 100%
 
 #### Results
 
