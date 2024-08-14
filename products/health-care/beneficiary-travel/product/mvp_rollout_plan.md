@@ -81,6 +81,9 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 **Datadog Metrics (Engineering)**
 
+***[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)*** 
+
+
 | Metric Name | Description |
 | ----------- | ----------- |
 | VA.gov - Endpoint error count | Number of non-200,201 status codes to va.gov endpoints |
