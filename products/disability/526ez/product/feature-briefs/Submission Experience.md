@@ -113,6 +113,12 @@ Ensure [result] for [persona]
 - What percentage of claims have the 526 in the Veteran's eFolder within 30 seconds?
 - It may not be feasible to include ancillary forms, however consideration could be given to the interaction design of how we might do this
 
+## Key Stakeholders
+- Contact Center
+- DBEX Teams 1 & 2
+- OCTO
+
+
 ### 6.2.4 CAIA and Collaboration Cycle progress
 
 #### [CAIA intake request, May 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83554)
