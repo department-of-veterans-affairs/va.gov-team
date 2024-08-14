@@ -3,10 +3,12 @@ DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
 
 ## Sections
 
+- [Notes on implementation](#notes-on-implementation)
 - [Sign-in alerts](#sign-in-alerts)
 - [Verification alerts](#verification-alerts)
+- [Additional variations not ready to implement](#additional-variations-not-ready-to-implement)
 
-**Notes:** 
+## Notes on implementation
 - All product teams who are creating or updating sign-in and verification alerts for their products must work with CAIA for content and with the identity team for a technical review to confirm these alerts work correctly.
 - If your form or tool has /my-health in its URL, work with the identity and cartography teams to set up the correct sign-in flow. You may need an additional registration step on MHV national portal, and you may need to place your form or tool behind a /my-health route guard.
 - **Follow these rules for sign-in alert placement:**
@@ -23,9 +25,9 @@ DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
 ### Standard sign-in alert (for all tools and forms that require sign-in with a verified account)
 
 #### Sign in with a verified account to [CTA]
-You’ll need to sign in with a verified account through one of our account providers. Identity verification helps us protect your information and prevent fraud and identity theft.
+You’ll need to sign in with an identity-verified account through one of our account providers. Identity verification helps us protect all Veterans’ information and prevent scammers from stealing your benefits.
 
-**Don't yet have a verified account?** Create a **Login.gov** or **ID.me** account now. Then come back here and sign in. We’ll help you verify. 
+**Don't yet have a verified account?** Create a **Login.gov** or **ID.me** account now. Then come back here and sign in. We’ll help you verify your identity for your account.
 
 **Not sure if your account is verified?** Sign in here. We’ll tell you if you need to verify. 
 
@@ -37,11 +39,11 @@ You’ll need to sign in with a verified account through one of our account prov
 
 #### Sign in with a verified account to save your work in progress
 
-Here’s how signing in with a verified account helps you:
+Here’s how signing in with an identity-verified account helps you:
 - We can fill in some of your information for you to save you time.
 - You can save your work in progress. You’ll have {time limit} from when you start or make changes to submit your form.
 
-After you sign in, we’ll tell you if you need to verify your identity. 
+After you sign in, we’ll tell you if you need to verify your identity for your account. 
 
 **Note:** You can sign in after you start filling out your form. But you'll lose any information you already filled in.
 
@@ -55,7 +57,7 @@ After you sign in, we’ll tell you if you need to verify your identity.
 ### Verify alert for LOA1/IAL1 Login.gov and ID.me accounts
 
 #### Verify your identity to [CTA]
-We need you to verify your identity for your **{Account type}** account. This step helps us keep your information safe and prevent fraud and identity theft.
+We need you to verify your identity for your **{Account type}** account. This step helps us protect all Veterans’ information and prevent scammers from stealing your benefits. 
 
 This one-time process often takes about 10 minutes. You'll need to provide certain personal information and identification.
 
@@ -65,9 +67,9 @@ This one-time process often takes about 10 minutes. You'll need to provide certa
 
 #### You need to sign in with a different account to [CTA] 
 
-To protect your information and prevent fraud and identity theft, we need you to sign in with a verified account. You have 2 options: a verified **Login.gov** or a verified **ID.me** account.
+We need you to sign in with an identity-verified account. This step helps us protect all Veterans’ information and prevent scammers from stealing your benefits. You have 2 options: a verified **Login.gov** or a verified **ID.me** account.
 
-**If you already have a Login.gov or ID.me account,** sign out of VA.gov. Then sign back in using that account. We’ll tell you if you need to verify your identity.
+**If you already have a Login.gov or ID.me account,** sign out of VA.gov. Then sign back in using that account. We’ll tell you if you need to verify your identity for your account.
 
 **If you want to create a Login.gov or ID.me account,** follow these steps:
 - Sign out of VA.gov.
@@ -104,7 +106,7 @@ After you sign in, we’ll tell you if you need to verify your identity.
 
 [text link] Start your form without signing in
 
-### Variation for forms and tools that require sign-in and accept unverified accounts
+### Variation for forms and tools that require sign-in and accept unverified accounts (need to confirm this scenario)
 
 #### Sign in to [CTA]
 You’ll need to sign in through one of our account providers to [CTA]. If you don't have an account, you can create a free **Login.gov** or **ID.me** account now.
@@ -113,7 +115,7 @@ You’ll need to sign in through one of our account providers to [CTA]. If you d
 
 [text link] [Learn about creating an account](https://www.va.gov/resources/creating-an-account-for-vagov/)
 
-### Variation for forms with optional sign-in that accept unverified accounts and don't support prefill
+### Variation for forms with optional sign-in that accept unverified accounts and don't support prefill (need to confirm this scenario)
 
 #### Sign in to save your work in progress
 
