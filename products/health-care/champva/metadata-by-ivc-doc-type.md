@@ -16,7 +16,7 @@
 | FMP Dental                     |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | FMP Rating Decision            |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | Marriage Document              |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| Medicare                       |                                                              |                                                              |
+| Medicare                       |                                                              | documenttype<br>beneficiarylastname<br>beneficiaryfirstname<br>beneficiarymiddlename<br>beneficiaryssn |
 | Miscellaneous Documents        |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | OHI Certificate                | 10-7959c                                                     | documenttype<br>beneficiarylastname<br>beneficiaryfirstname<br>beneficiarymiddlename<br>beneficiaryssn |
 | POA (Power of Attorney)        |                                                              |                                                              |
