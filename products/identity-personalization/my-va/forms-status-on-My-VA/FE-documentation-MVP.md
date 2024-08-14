@@ -121,8 +121,6 @@ If you have questions about your applications or forms, call us at 800-827-1000 
 
 #### **Content**
 
-DRAFT
-
 Form code
 
 Application type
@@ -153,6 +151,7 @@ Continue your application (linked to saved application)
 - [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1326-47671&t=FOSo9YgBxV0pQn0K-1)
 
 **Positioning**
+
 Cards are stacked in a single column on both mobile and desktop, as shown in the mockups above. The order of cards stacks from the most recently created draft or submitted form at the top, with the oldest at the bottom. 
 
 ---
@@ -334,12 +333,16 @@ There are four possible error scenarios that are not related to specific forms:
 ---
 
 ## Failed main user call (pagewide error state)
+
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HqzBWh1aYg5G4WmO-1)
+
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HqzBWh1aYg5G4WmO-1)
 
  
 ## Failed network call
+
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=nHq2rMia3osfDiWr-1)
+
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-17482&t=nHq2rMia3osfDiWr-1)
 
 **Visual specs**
