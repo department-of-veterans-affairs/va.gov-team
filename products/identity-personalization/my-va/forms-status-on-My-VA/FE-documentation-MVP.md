@@ -1,5 +1,5 @@
 # Forms Status on My VA MVP Frontend Documentation
-Last updated: outline and draft cards info added August 5, 2024
+Last updated: outline and draft cards info added August 14, 2024
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
@@ -127,7 +127,7 @@ Application type
 
 `error`(icon) Application expires on: Date
 
-Last opened on: Date
+Last saved on: Date
 
 Continue your application (linked to saved application)
 
