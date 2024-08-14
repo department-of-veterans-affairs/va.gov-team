@@ -7,7 +7,8 @@
 - Collaboration between mobile -UAE team
 - - what is the intake process?
 - - what elase does the mobile team need from the UAE team dutrinh the whole development cycle:
-- - - intent? testing? reviews? collab cycle? approvals? what is the process?
+- - - intent? testing? reviews?  approvals? what is the process?
+- - Per Kristen: The plan is to implement a collab cycle in the future for mobile.
 
 
 
