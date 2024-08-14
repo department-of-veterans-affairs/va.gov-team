@@ -3,7 +3,7 @@
 
 ## Background
 
-This study will support the unauthenticated digital flow for form 10-7959a claims form for the CHAMPVA program. We will be building this as a new digital form, so there will be no familiarity from the perspective of the Veterans and dependents interacting with the digital version. However, we will specifically attempt to recruit participants who are familiar with the paper form and program. \
+This study will support the unauthenticated digital flow for form 10-7959a claims form for the CHAMPVA program. We will be building this as a new digital form, so there will be no familiarity from the perspective of the Veterans and dependents interacting with the digital version. However, we will specifically attempt to recruit participants who are familiar with the paper form and program. 
 
 
 [Product Brief]
