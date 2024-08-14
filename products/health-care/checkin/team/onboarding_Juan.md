@@ -6,6 +6,7 @@
 - -  Will Juan join agile ceremonies of the mobile team?
 - Collaboration between mobile -UAE team
 - - what is the intake process?
+- - will we need an intake process once the mobile engineer is done with onboarding and back to the UAE team?
 - - what elase does the mobile team need from the UAE team dutrinh the whole development cycle:
 - - - intent? testing? reviews?  approvals? what is the process?
 - - Per Kristen: The plan is to implement a collab cycle in the future for mobile.
