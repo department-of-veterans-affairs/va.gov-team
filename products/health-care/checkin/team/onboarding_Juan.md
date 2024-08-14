@@ -2,7 +2,9 @@
 - Who is Juan's mentor on the mobile side?
 - Discuss collaboration with the UAE team: intent, tickets, tracking the work
 - - How does the mobile team handle UAE product backlog? Do they create tickets themselves, or work with tickets that are on the UAE board?
-- Will Juan join agile ceremonies of the mobile team?
+- -  What git labels does the mobile team use? 
+- -  Will Juan join agile ceremonies of the mobile team?
+
 
 
 **Learning tickets**
@@ -29,7 +31,7 @@ Documentation:
 - App local setup documentation (need all access first)
 
 **Access**
-- VA Github Org (blocker - platform will provide) Anita to create a ticekt
+- VA Github Org (blocker - platform will provide)  - [New VFS Team Member - Juan castillo](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90722)
 - App store connect (H&B will provide) link to steps/ticket?
 - Firebase (H&B will provide) link to steps/ticket?
 - Repo write access (H&B will provide) link to steps/ticket?
