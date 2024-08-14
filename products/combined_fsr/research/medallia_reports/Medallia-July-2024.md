@@ -129,7 +129,7 @@ Followed by:
 
 `The website is nice and functional but takes a while to update payments and information.  Everything seems to stop working when the system is getting an update including benefit payments to be made.` *(07/07/2024)*
 
-## VBA Overpayments Overview page (How do I dispute section)
+## VBA/Overpayments Summary page (How do I dispute section)
 ***va.gov/manage-va-debt/summary/debt-balances#howDoIDispute***
 
    **2 Veterans left angry feedback on these pages**
