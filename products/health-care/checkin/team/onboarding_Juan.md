@@ -4,6 +4,9 @@
 - - How does the mobile team handle UAE product backlog? Do they create tickets themselves, or work with tickets that are on the UAE board?
 - -  What git labels does the mobile team use? 
 - -  Will Juan join agile ceremonies of the mobile team?
+- Collaboration between mobile -UAE team
+- - what is the intake process?
+
 
 
 
@@ -12,7 +15,7 @@
 
 
 **UAE Learning tickets**
-- Peter - please provide tickets here for the Medication Wording
+- [Change request:Medication wording for Appointments](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9373)
 
 
 **Documentation:** link to the checklist
