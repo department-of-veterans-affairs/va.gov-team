@@ -1,14 +1,12 @@
 # Change management
 
-## What is
+## What is change management for Drupal CMS
 Product teams may modify existing features or workflows, or create new features or workflows, that require change management for Drupal Editors.
 Change management might include: 
 * Creating new or updating knowledge base in https://prod.cms.va.gov/help
 * Sending emails to specific editors for awareness of upcoming changes
 * Attending Editor office hours to demonstrate new/modified features or flows
 * Providing materials to the CMS Helpdesk, to enable them to support Editors
-
-## Knowledge base
 
 
 ## Sending editor emails
