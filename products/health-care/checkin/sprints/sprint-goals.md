@@ -47,13 +47,13 @@
     - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
     - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84422)
     - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84425)
-    - 🟪 Schedule Staging Review    
-    - 🟩 Schedule Infrasturcture, Security Readiness Review
-- **Stand-alone Travel Application for OH Sites**
-    - **Sprint Goal is to test with VeText and schedule Staging & ISR Reviews**
-    - We are waiting on the final test with VeText (8/13) to determine if this is ready for Staging Review
     - 🟪 Schedule Staging Review
-    - 🟩 Schedule Infrasturcture, Security Readiness Review 
+    - 🟩 Schedule ISR Review
+- **Stand-alone Travel Application for OH Sites**
+    - **Sprint Goal is to hold the Staging Review**
+    - 🟪 Staging Review scheduled for 8/29
+    - 🟩 FE needs to add links for E2E testing and code coverage to the collab cycle ticket
+    - 🟩 FE needs to generate a bank of URLs for each of these dates and post them in the collab cycle ticket (8/23, 8/26, 8/27, 8/28)    
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address Design Intent feedback, determine how we want to implement this, and create tickets to move it forward**
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90550) 
@@ -85,7 +85,7 @@
     - ✔️ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88603)
 - **New Landing Page with Today's VISTA Appointments**
     - **Sprint Goal is to address the remainder of the issues from Staging Review and close the Epic**
-    - 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
+    - ✔️ 🟩 [Update Task Cards to Not Show Bullet Point when there is One Item in the List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89076)
     - 🟩 [Staging Review finding: Unnecessary HTML structure in "Your appointment" section after check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89004)
     - ✔️ 🟩 [Staging Review finding: Incorrect apostrophe present in "Next of kin explanation" additional info section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89008) 
 - **Upcoming Appointments**
