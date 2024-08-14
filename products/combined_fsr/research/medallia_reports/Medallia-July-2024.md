@@ -56,7 +56,8 @@ Followed by:
 
 *Due to small number of respondents, these findings are anecdotal, but nevertheless noteworthy because they are likely issues encountered by other Veterans using the debt portal*
 
-## VHA copay pages:
+## VHA/Copay Summary page:
+***va.gov/manage-va-debt/summary/copay-balances***
 
    **Due to inaccurate/delayed balance due, Veterans that have recurring copay bills are reporting that they are having difficulty tracking how much they truly owe**
 
@@ -80,7 +81,7 @@ Followed by:
 
 **-   There may be a bug on the copay pages**
 
-`figure out co pay owed  just have a spinning circle, maybe a time out feature ?`
+`figure out co pay owed  just have a spinning circle, maybe a time out feature ?` *(07/24/2024)*
 
 **-   2 Veterans left positive feedback**
 
@@ -88,7 +89,8 @@ Followed by:
 
 `website is easy to use`
 
-## Summary/overview page:
+## VHA/VBA Summary/overview page:
+***va.gov/manage-va-debt/summary/***
 
    **5 Veterans left positive  qualitative feedback**
 
@@ -106,9 +108,9 @@ Followed by:
 
 ***There might also be a bug on this page.**
 
-`I had been sent a letter saying that i owe debt from my suspended gi bill for dropping a college class and i wanted to pay off my remaining debt as instructed by the mail I've gotten but not only is it repeatedly saying I have none, it keeps reloading the page whenever and with other text that I'm not able to read`
+`I had been sent a letter saying that i owe debt from my suspended gi bill for dropping a college class and i wanted to pay off my remaining debt as instructed by the mail I've gotten but not only is it repeatedly saying I have none, it keeps reloading the page whenever and with other text that I'm not able to read` *(07/18/2024)*
 
-`Page is showing I have no debt but all of my disability rating of 100% is being taken to repay a separation payment I received from the army in 2021. I have been receiving VA compensation for some time. Now I am paying back all this money and it shows I have no debt? I haven't received any payments for 3 months and about to be homeless! This is crazy. And I can t get any help. I just want to negotiate a payment arrangement but am not able to become I have no debt. But I do. Every dime of monthly income is gone. So how do I have no debt.`
+`Page is showing I have no debt but all of my disability rating of 100% is being taken to repay a separation payment I received from the army in 2021. I have been receiving VA compensation for some time. Now I am paying back all this money and it shows I have no debt? I haven't received any payments for 3 months and about to be homeless! This is crazy. And I can t get any help. I just want to negotiate a payment arrangement but am not able to become I have no debt. But I do. Every dime of monthly income is gone. So how do I have no debt.` *(07/18/2024)*
 
 **Misc:**
 
@@ -120,13 +122,15 @@ Followed by:
 
 `Difficulty and not able to submit VA form 5655. Need help relating to a 40 year old VA debt. Currently have all my 70% VA disability pay withheld by debt management`
 
-## VBA overpayments page:
+## VBA/Overpayments Summary page:
+***va.gov/manage-va-debt/summary/debt-balances***
 
    **Feedback for frontend team to look into**
 
-`The website is nice and functional but takes a while to update payments and information.  Everything seems to stop working when the system is getting an update including benefit payments to be made.`
+`The website is nice and functional but takes a while to update payments and information.  Everything seems to stop working when the system is getting an update including benefit payments to be made.` *(07/07/2024)*
 
-## How do I dispute page:
+## VBA Overpayments Overview page (How do I dispute section)
+***va.gov/manage-va-debt/summary/debt-balances#howDoIDispute***
 
    **2 Veterans left angry feedback on these pages**
 
