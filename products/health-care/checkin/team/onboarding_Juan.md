@@ -15,12 +15,9 @@
 - Peter - please provide tickets here for the Medication Wording
 
 
+**Documentation:** link to the checklist
 
-
-git ticket: [Onboarding_Juan Castillo_mobile](
-Documentation:
-
-**VA Mobile App Documentation** link to the checklist
+- VA Mobile App Documentation
 - VA Mobile Design System Documentation for engineers
 - App frontend documentation
 - App backend documentation
