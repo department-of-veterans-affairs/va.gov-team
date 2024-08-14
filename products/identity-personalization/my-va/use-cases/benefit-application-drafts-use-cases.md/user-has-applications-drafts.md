@@ -1,6 +1,6 @@
 # My VA Benefit Applications and Forms Use Cases: User has a benefit application draft saved but not yet submitted
 
-**Last updated:** July 31, 2024 - updated to include changes to draft cards and section title
+**Last updated:** August 14, 2024 - updated content around saved date changing "last opened" to "last saved" in the UX section
 
 For LOA3 users who sign in and have a benefit application draft saved (or multiple), we will show a card (or cards) for:
 - their saved application(s) in the Benefit applications and forms section on My VA that provides a link for them to continue their application
