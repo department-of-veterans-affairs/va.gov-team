@@ -26,7 +26,7 @@ IRIS previously had a [SORN](https://vaww.va.gov/IRISINFO/docs/SORN-2015-11493.p
 When VA replaced the IRIS system with Ask VA, Ask VA was developed in the same existing Microsoft Dynamics 365 CRM instance as PATS-R.  
 
 ## Future plans 
-We’re currently planning to remove the Ask VA application from the same CRM isntance as PATS-R after the January launch of Ask VA on VA.gov. 
+We’re currently planning to remove the Ask VA application from the same CRM instance as PATS-R after the January launch of Ask VA on VA.gov. 
 
 As a separate system, Ask VA will obtain an ATO and SORN information will be updated.
 
