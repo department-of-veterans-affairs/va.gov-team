@@ -19,6 +19,7 @@ How might we enhance a Veteran's experience when they're searching for and viewi
 __Note that the usage of Veterans et al means Veterans, their family, caregivers and survivors.__
 
 * Enable editors to publish events that will no longer rely on content build, thus speeding up the publishing process.
+* Ensure current front-end features and functionality are still available to end-users (editors/veterans)
 * Design schema to support future work, e.g. store lat/long, apply tags to events, etc. 
 
 ### Non-MVP Problem Solutions: 
