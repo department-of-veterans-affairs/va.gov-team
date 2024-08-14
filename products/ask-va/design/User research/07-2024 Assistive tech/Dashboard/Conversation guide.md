@@ -207,9 +207,9 @@ I'll give you a couple minutes to navigate around. And after you finish, I'd lik
 
 ### Task 2
 
-Okay, great. The next thing I'd like to you do is find a question that has a reply from the VA.
+Okay, great. There are a few questions on this page, and I'd like you to find a question that has a reply from the VA.
 
-So, there's a few questions on this page and I'd like you to find one that has a reply from the VA.
+I'll give you a couple of minutes to navigate around. After you finish, I'd like you to explain which question you found.
 
 `When they've finished...`
 
