@@ -7,7 +7,7 @@ For LOA3 users who sign in and have a benefit application draft saved (or multip
 
 ## UX
 - Any logged in LOA3 user can see the Benefit applications and forms section on My VA.
-- When a user has a benefit application draft saved in progress, they will see a card in this section that tells them the form code, application type, an expiration date for the application, the date that they last opened it, and a link to continue the application.
+- When a user has a benefit application draft saved in progress, they will see a card in this section that tells them the form code, application type, an expiration date for the application, the date that they last saved it, and a link to continue the application.
 	- Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
 - This card is always displayed on the left hand side of the page on desktop
 - If a user has multiple benefit application drafts saved, they will see a card for each of them in this section and they are stacked vertically for both desktop and mobile
