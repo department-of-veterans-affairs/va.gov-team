@@ -1,5 +1,5 @@
 # Ask VA PRA information 
-Last updated by @beckyphung: August 6, 2024 
+Last updated by @beckyphung: August 14, 2024 
 
 This doc explains how Ask VA currently has Paperwork Reduction Act (PRA) clearance. 
 
