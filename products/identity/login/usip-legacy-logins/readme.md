@@ -33,6 +33,10 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 - Messaging to Veterans who use those credentials that they will need to transition to either Login.gov and/or ID.me prior to the sunsetting of the credential(s) they currently use.
 - Explaining the processes for signing up for ID.me or Login.gov.
 
+### Product links
+
+- [Universal sign-in page](https://www.va.gov/sign-in/?oauth=false)
+- [Sign-in modal](https://www.va.gov/?next=loginModal)
 
 ## User problem statements
 
