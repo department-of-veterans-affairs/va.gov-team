@@ -11,6 +11,10 @@
 - Tickets can be found [here](https://github.com/department-of-veterans-affairs/va-mobile-app/labels/Good%20first%20issue)
 
 
+**UAE Learning tickets**
+- Peter - please provide tickets here for the Medication Wording
+
+
 
 
 git ticket: [Onboarding_Juan Castillo_mobile](
