@@ -12,21 +12,23 @@ Jump to:
 ## Summary 
 Ask VA doesn’t need additional Paperwork Reduction Act clearance because:  
 
-- Ask VA is a component of the Patient Advocate Tracking System Replacement (PATS-R).  
+- Ask VA is an app within the same CRM instance as Patient Advocate Tracking System Replacement (PATS-R).  
 - PATS-R has a system of records notice (SORN). 
 - PATS-R's SORN applies to Ask VA. 
 
 We confirmed this with Phillip Cauthers, a VA privacy officer on a 8/2/24 call. View complete meeting notes [in this Word doc](https://dvagov.sharepoint.com/:w:/s/AskVA/EWdNNE1TxM1FsQOhjkrFlbwBE2vpvcuVsZcXcsHUJ23-2Q?e=g0B7pO). 
 
 ## Background 
-Ask VA was previously the Inquiry Routing & Information System (IRIS) [Learn more about Ask VA’s background](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/products) in this GitHub doc. 
+Ask VA replaced the Inquiry Routing & Information System (IRIS) [Learn more about Ask VA’s background](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/products) in this GitHub doc. 
 IRIS previously had a [SORN](https://vaww.va.gov/IRISINFO/docs/SORN-2015-11493.pdf) and [VASI record](https://vaww.vear.ea.oit.va.gov/#system_and_application_domain_defs_system_24649.htm). 
 > AVA replaces the functionality formerly provided by the Inquiry Routing and Information System (IRIS) application (VASI #1347) which has been decommissioned. 
 
-When VA redeveloped the IRIS system as a Microsoft Dynamics 365 CRM instance as Ask VA, Ask VA was developed in the existing PAST-R CRM.  
+When VA replaced the IRIS system with Ask VA, Ask VA was developed in the same existing Microsoft Dynamics 365 CRM instance as PATS-R.  
 
 ## Future plans 
-We’re currently planning to separate Ask VA from PATS-R after the January launch of Ask VA on VA.gov. As a separate system, Ask VA will likely need its own SORN and record in VASI.  
+We’re currently planning to remove the Ask VA application from the same CRM isntance as PATS-R after the January launch of Ask VA on VA.gov. 
+
+As a separate system, Ask VA will obtain an ATO and SORN information will be updated.
 
 Reach out to Natalie Morales (Natalie.Morales@va.gov) for more information on this effort.
 
