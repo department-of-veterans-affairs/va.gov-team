@@ -1,3 +1,6 @@
+## Slack Thread Reference
+This document came from [this #arp-identity-integration thread](https://dsva.slack.com/archives/C06NBCMA7LL/p1722984081769339) during the ARP production rollout approval.
+
 ## Use Cases
 > List out the use cases, or link to them in your product doc
 
@@ -17,6 +20,6 @@ The below more or less match the default Identity use case examples that were gi
 
 [Datadog Dashboards](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723575764670&to_ts=1723590164670&live=true)
 
-The ARP sign-in path hits the same code paths as other VA.gov applications and can be differentiated by client_id, much like vamobile. The same [Identity StatsD constants]([url](https://github.com/department-of-veterans-affairs/vets-api/blob/8eabc0ecb4eb01f7aa6db6d37b1d9d6cb14655f4/app/services/sign_in/constants/statsd.rb#L5)) and Datadog dashboards can be utilized to monitor ARP user sign-in.
+The ARP sign-in path hits the same code paths as other VA.gov applications and can be differentiated by client_id, much like `vamobile`. The same [Identity StatsD constants]([url](https://github.com/department-of-veterans-affairs/vets-api/blob/8eabc0ecb4eb01f7aa6db6d37b1d9d6cb14655f4/app/services/sign_in/constants/statsd.rb#L5)) and Datadog dashboards can be utilized to monitor ARP user sign-in.
 
 
