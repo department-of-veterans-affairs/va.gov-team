@@ -97,11 +97,11 @@ Ensure [result] for [persona]
 * Ensure that the submission record contains the information needed to get help for the Veteran
 
 ### 6.2.1.3 As User Stories
-As a [persona] I want [desire or goal] so that [benefit/result] 
-As a Veteran I want a printed copy of my submission so that I can find the information I need
-As a Veteran I want to download a copy of my submission record so taht I can save it on my computer or in my cloud storage
-As a Veteran I want to be able to locate a record of my submission on VA.gov so I can get the information I need at a later time when I don't have a printed copy or a saved copy on my computer
-As a Veteran I want the information I need to be captured in a submission record so I can get the information I need when seeking help about my submission
+* As a [persona] I want [desire or goal] so that [benefit/result] 
+* As a Veteran I want a printed copy of my submission so that I can find the information I need
+* As a Veteran I want to download a copy of my submission record so taht I can save it on my computer or in my cloud storage
+* As a Veteran I want to be able to locate a record of my submission on VA.gov so I can get the information I need at a later time when I don't have a printed copy or a saved copy on my computer
+* As a Veteran I want the information I need to be captured in a submission record so I can get the information I need when seeking help about my submission
 
 ## 6.2.2 Out of Scope
 
