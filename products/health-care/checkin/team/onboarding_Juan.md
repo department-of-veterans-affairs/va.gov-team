@@ -4,7 +4,7 @@
 - Will Juan join agile ceremonies of the mobile team?
 
 
-##*Learning tickets*
+**Learning tickets**
 - Tickets can be found [here](https://github.com/department-of-veterans-affairs/va-mobile-app/labels/Good%20first%20issue)
 
 
