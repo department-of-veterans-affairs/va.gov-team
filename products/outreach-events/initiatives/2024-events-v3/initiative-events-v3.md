@@ -68,11 +68,11 @@ _**Note: The MVP will focus mainly on backend functionality and research**_
     - [Events] VAMC Events: Update Home breadcrumb per outcome of testing [#9439](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9439)
     - [Events] Update text on Outreach events page [#15892](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15892)
     - [Events] [FE] Create an application for Events in vets-website [#16594](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16594)
-      - Repurpose the one above, or?
+      - Repurpose the one above, or? (we won't be replacing events in vets website.
 
 #### Questions - MVP
-- _Question_: Considering the work the AP team is doing with Events in Next Build, is it still accurate to say we are rebuilding as a new 'react app'?
-  - _Answer_: 
+- _Question_: Considering the work the AP team is doing with Events in Next Build. It will be a react app; but not new.
+  - _Answer_: Won't be replacing 
 
 #### Engineering/Backend: 
 - Rebuild events from static HTML into a dynamic React app driven by an API, thus allowing more events to be published faster outside of content build. 
@@ -81,7 +81,7 @@ _**Note: The MVP will focus mainly on backend functionality and research**_
    - Ensure the schema stores future-need items, such as: 
          - lat/long > for forward lookup, and editing by editors (actual implementation of forward lookup and editing by editors has been added to Post-MVP requirements) 
          - tagging e.g. audience for categorization (actual implementation of tagging has been added to Post-MVP requirements) 
-         - anything else? 
+         - anything else? Language; 
 - Build dynamic front-end to support new react app, ensuring no features/functionality are lost. 
 - Write unit tests to cover at least 80% of the code (collaboration cycle requirement). 
 - Write architectural documentation 
