@@ -60,8 +60,14 @@ For this initiative, we will implement in multiple phases, with MVP being the fi
 _**Note: The MVP will focus mainly on backend functionality and research**_
 
 #### Epics - MVP
-  - [[EPIC] [Events v3 - MVP] Create an Events API & Data Model #17911](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17911) 
-  - [[EPIC] [Events v3 - MVP] FE, UX, and Unit Test Updates #18277](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18277)
+  - [[EPIC] [Events v3 - MVP] Create an Events API & Data Model #17911](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17911)
+    - [Events] SPIKE: Feasibility of automating event data files for every event list [#10003](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10003)
+      - Can Daniel add more details/explain this so we can decide if it remains on the Events v3 Initiative? 
+  - [EPIC] [Events v3 - MVP] FE, UX, and Unit Test Updates [#18277](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18277)
+    - [Events] VAMC Events: Update Home breadcrumb per outcome of testing [#9439](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9439)
+    - [Events] Update text on Outreach events page [#15892](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15892)
+    - [Events] [FE] Create an application for Events in vets-website [#16594](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16594)
+      - Repurpose the one above, or?
 
 #### Questions - MVP
 - _Question_: Considering the work the AP team is doing with Events in Next Build, is it still accurate to say we are rebuilding as a new 'react app'?
