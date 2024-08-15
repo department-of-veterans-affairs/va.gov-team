@@ -15,7 +15,8 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 
 ### Feedback survey
 **Total Feedback survey responses:** 462  
-Pages with the most responses:
+
+**Pages with the most responses:**
 - X page = # of responses
 - X page = # of responses
 - X page = # of responses
@@ -24,6 +25,7 @@ Pages with the most responses:
 
 ### Intercept survey
 **Total Intercept survey responses:** 85
+
 **Pages with the most responses:**
 - X page = # of responses
 - X page = # of responses
