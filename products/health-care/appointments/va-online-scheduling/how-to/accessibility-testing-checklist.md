@@ -33,7 +33,7 @@ See the resources at the bottom of this page for more information on how to test
 - [ ] Base font size for body content is 16.96px
 
 ## Content is wrapped in semantic tags
-- [ ] Any content is wrapped in meaningful [sematic tags](https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/css-library/src/stylesheets/uswds-typography.scss)
+- [ ] Any content is wrapped in meaningful [semantic tags](https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/css-library/src/stylesheets/uswds-typography.scss)
 
 ## Content zoom and reflow checks
 
