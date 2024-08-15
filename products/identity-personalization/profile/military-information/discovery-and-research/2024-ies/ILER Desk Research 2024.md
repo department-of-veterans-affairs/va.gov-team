@@ -127,7 +127,16 @@ According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main l
 3) Claims agents in support of adjudication
 4) Researchers and epidemiologists looking to identify trends and mitigations
 
-Of the above, only 1) is within scope of this work. 
+Of the above, only 1) is within scope of this work, though 2) and 3) are directly related to outcomes for Veterans or Service Members, who may use their ILER report in these contexts to advocate for themselves. This holds true for VSO or other support for the Veteran or Service Member.
+
+“most ILER account holders
+are Veterans Benefits Administration (VBA) staff processing veterans’ disability
+claims. As of November 2023, VBA staff held about 83 percent of the 17,321
+ILER accounts opened across DOD and VA. The largest increases in VBA staff
+with ILER accounts occurred after the Sergeant First Class Heath Robinson
+Honoring our Promise to Address Comprehensive Toxics Act of 2022 was
+enacted in August 2022. In response to the act, VBA requires claims benefits
+staff to use ILER in processing veterans’ disability claims.” GAO PDF
 
 "veterans will most often use ILER to certify their participation in a TERA or hazards to qualify for healthcare  benefits or compensation benefits under pact" -- from Mural
 (toxic exposure risk activity )
