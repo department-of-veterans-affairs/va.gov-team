@@ -129,6 +129,14 @@ According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main l
 
 Of the above, only 1) is within scope of this work. 
 
+"veterans will most often use ILER to certify their participation in a TERA or hazards to qualify for healthcare  benefits or compensation benefits under pact" -- from Mural
+(toxic exposure risk activity )
+
+"VEO isn't sure how veterans learned about the PDF access to ILER, their initial research veterans had no clue what it was"
+
+
+MENTAL MODELS: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md
+
  Create a customized display that would support Veteran
 understanding of benefits and could empower Veterans to make
 claims supported by their ILER data.
@@ -162,6 +170,8 @@ some staff don't know what it is or what it would do
 some SMs have heard of it and think it'd be useful, but can't get it
 some SMs don't trust the content
 
+tho placement on the Profile is important, explanatory language and resources for the Veteran to follow up with questions will be super important to the success in a Veteran improving outcomes
+
 ### Hypotheses and Conclusions
 
 For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. 
@@ -186,33 +196,6 @@ ADD REDDIT QUESTIONS HERE WITH CAVEATS ABOUT CANARY IN THE MINE AND RARE SAMPLE
 **Data Quality and Implications for Design**
 
 
-
-
-**Veteran Use Cases**
-"veterans will most 
-often use ILER to 
-certify their 
-participation in a TERA 
-or hazards to qualify 
-for healthcare  benefits 
-or compensation 
-benefits under pact" -- from Mural
-(toxic 
-exposure 
-risk 
-activity )
-
-"VEO isn't sure how 
-veterans learned 
-about the PDF 
-access to ILER, their 
-initial research 
-veterans had no 
-clue what it was"
-
- 
-MENTAL MODELS: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md
- 
 
 
 # Sources
