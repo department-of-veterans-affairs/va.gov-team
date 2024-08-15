@@ -17,7 +17,7 @@ Basically: All Travel Pay work on vets-api and self-contained Travel Pay apps on
 
 Basically: Any API stuff
 
-### Check In Team
+### UAE Team
 * FE link to Travel Pay status page from relevant Appointment details
 * FE link to Travel Pay submit mileage page from relevant Appointment details
 * FE logic to determine whether to display "go to status" or "go to submit"
