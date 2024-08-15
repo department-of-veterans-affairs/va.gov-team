@@ -12,6 +12,28 @@ The header and footer are not used exclusively on the modernized VA.gov, and are
 
 Note: Be aware that there are also "copycat" injected headers such as https://www.research.va.gov/ (as of 4/17/2023) that exist because the injection script cannot work on that site.
 
+
+## Product Ownership
+| | VA.gov header & footer | Injected header/footer | 
+| --- | --- | --- |
+| Content | Sitewide Content | N/A
+| Design  | Sitewide Product team | N/A |
+| Build & compiled presentation | Design System, including Analytics and Components | Design System | 
+| Delivery | Design System | Sitewide Product team (proxy-rewrite app) | 
+
+**Sitewide Content**
+- OCTO Lead: Danielle Thierry
+- OCTO Slack channel: #sitewide-content-accessibility-ia
+
+**Sitewide Product team**
+ - OCTO Sitewide Lead: Michelle Middaugh
+ - VA Design lead: Amanda Klausmeier
+ - OCTO Slack channel: #sitewide-public-websites
+
+**VA Design System Team**
+ - OCTO Design System Team lead: Matt Dingee
+ - OCTO Slack channel: #platform-design-system
+
 ## Problem Statement
 
 - How might we create and maintain a header that supports Veteran "browse" behaviors that accurately reflect flows and information architecture?
@@ -112,19 +134,5 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ---
 
-#### Product Ownership
-
-**DESIGN:** The Sitewide team owns the design of the header 
- - OCTO Sitewide Lead: Michelle Middaugh
- - VA Design lead: Amanda Klausmeier
- - OCTO Slack channel: #sitewide-public-websites
-
-**BUILD:** The VA Design System Team is taking ownership of the Header (including meganav) & Footer build in Q3 2024. Thus the Design System Team is currently building out the web-components and will be working with other teams to support web-components in TeamSites.
- - OCTO Design System Team lead: Matt Dingee
- - OCTO Slack channel: #platform-design-system
-
-**CONTENT:** Sitewide Content team owns content and IA decisions for the Header and Footer.
- - OCTO Sitewide Lead: Danielle Thierry
- - OCTO Slack channel: #sitewide-content-accessibility-ia
 
 #### Stakeholders
