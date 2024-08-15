@@ -13,11 +13,11 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 
 ## Summary of responses
 
-Total Feedback survey responses: 462
+**Total Feedback survey responses:** 462
+- 68% of Veterans reported that they were **NOT** able to complete the task they set out to do [216 out of 318 total responses]. 
 
-- Out of 318 who completed the question "Were you able to complete your task today," 216 reported that they could **not** complete the task they were working on.  171 reported that they were able to complete their task. 
-
-Total Intercept survey responses: 85
+**Total Intercept survey responses:** 85
+- 65% of the Intercept responses came from the Start, Introduction, or Veteran Information pages [55 out of 85].
 
 |--|--|--|
 |Survey| Total responses | 
