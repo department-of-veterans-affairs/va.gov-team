@@ -61,6 +61,7 @@ Also, please be aware again that none of your information will be shared if you 
         * Do you typically submit one claim at a time or more than one?
         * What's your understanding of what makes up a single claim?
     * Task 2: Have the participant interact with the list-and-loop as if they had multiple forms of other health insurance.
+        * Probe about the participant’s expectations ofthe “Edit” button if they don’t interact with or mention it all. 
     * Task 3: Have the participants interact with the upload pattern at least once for both insurance and claims information and describe their expectations for the types of documents they would upload in each scenario and how they would expect to obtain them.
         * What materials might you expect to include here if submitting a real claim for yourself? Please explain in as much detail as possible.
         * How do you believe this might impact your claim if you were to answer “Yes,” and “No.”
@@ -90,13 +91,7 @@ Also, please be aware again that none of your information will be shared if you 
 
 
 
-* What motivated you to apply for CHAMPVA and complete the claims process (if they did), and what did you hope the outcome would be?
-    * The objective of this question is to explore discoverability and initial impressions and start their recollection of past experiences with the program to put them in the correct frame of mind for the following questions.
-* What is most important to you when submitting claims through a program like CHAMPVA?
-    * This should result in responses about trust/security in comparison to paper/VSO if they are relevant. This should also help inform the service design initiative (journey map, key metrics impact, service blueprint). Further probing may be needed if the response doesn’t correctly reflect these points.
-* What was most memorable about your experience submitting a CHAMPVA claim - or interacting with the program after visiting a provider? (if they have never filed their own claim)
-    * The response to this question should give a general impression of their experience, some pain points, and opportunities for improvement. Amend additional probing questions as necessary.
-* Please describe your steps, from learning about the CHAMPVA program to completing the claims process and receiving compensation.
+* Have you ever filed a claim for CHAMPVA benefits? If so, please tell us step-by-step about completing the claims process and receiving compensation.
     * How do participants determine what they need to submit a claim independently?
     * How long does it take to hear back after submitting a claim?
     * How many claims do they normally submit at once?
@@ -104,6 +99,7 @@ Also, please be aware again that none of your information will be shared if you 
     * What, if anything, do you wish had been different about that process?
     * Facilitator note: This should further inform the user journey map and the other service design artifacts. If the response isn’t sufficient, additional probing may be required.
     * Additional inquiry should be applied to the difference between providers submitting claims and participants submitting themselves.
+* What is most important to you when submitting claims?
 * Have you ever had a claim rejected? If yes, could you elaborate on what happened afterward?
     * The goal of this question is to learn how a claim being rejected might have changed participants' behavior when interacting with the program. Additional probing may be required to reach an acceptable response.
     * What, if anything, do you wish had been different about that process?
