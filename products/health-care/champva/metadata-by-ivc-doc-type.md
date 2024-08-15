@@ -1,4 +1,4 @@
-| Doc type                       | Notes                                                        | Metadata required                                            |
+| Information type                       | Notes                                                        | Metadata required                                            |
 |--------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
 | Address Change                 |                                                              |                                                              |
 | Appeals                        |                                                              |                                                              |
