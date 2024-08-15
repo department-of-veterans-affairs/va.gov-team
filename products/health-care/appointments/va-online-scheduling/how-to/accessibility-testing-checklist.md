@@ -4,7 +4,7 @@ See the resources at the bottom of this page for more information on how to test
 
 ## Page works as expected at all breakpoints
 - [ ] Page works at 360px
-- [ ] Page works at 769px
+- [ ] Page works at 768px
 - [ ] Page works at 1200px
 
 ## Page functions with CSS turned off
