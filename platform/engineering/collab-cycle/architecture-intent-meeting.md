@@ -2,7 +2,7 @@
 
 __*** DRAFT *** DRAFT *** DRAFT ***__
 
-The Architecture Intent meeting helps your team build a solution that meets Veteran-facing Service Platform (VSP) engineering and security standards and lowers the potential for launch-blocking issues later in the development cycle.
+The Architecture Intent meeting helps your team build a solution that meets VA.gov platform engineering and security standards and lowers the potential for launch-blocking issues later in the development cycle.
 
 ## What is the purpose of Architecture Intent meeting?
 
@@ -48,6 +48,8 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Identify any significant code changes
     + Identify any new design system components needed or changes to current components
     + Describe any product analytics being gathered
+- Backend changes
+    + Does the project introduce any new or unusual infrastructure dependencies?
 - Internal API changes
     + List new or modified APIs in `vets-api`
     + Describe expected call patterns
