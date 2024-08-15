@@ -237,7 +237,7 @@ Things to note
 
 - Veteran should be able to view claims for an appointment if it exists
   - Agreed, whether that's a new single page view of a claim (e.g. claim details) or a highlighted, bubbled-up claim summary card on the existing claim status list is TBD
-  - I have a strong opinion that implementing a dedicated claim details page will be faster to implement, simpler in the short, medium, and long terms, serve as a launching point for more features, etc (aka really worth it to set up now)
+  - I (Kevin) have a strong opinion that implementing a dedicated claim details page will be faster to implement, simpler in the short, medium, and long terms, serve as a launching point for more features, etc (aka really worth it to set up now)
 - maybe More features are here than are needed MVP (like the claim detail page)
   - Maybe, what are the alternatives?
   - I'm thinking we'd need _something_ to show the Veteran that they can't submit a claim because it already exists:
