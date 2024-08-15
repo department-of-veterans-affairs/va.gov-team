@@ -24,5 +24,5 @@ To ensure that all team members can effectively execute the system recovery proc
 2. Assign roles and responsibilities to team members for handling the incident.
 3. Describe the process of the service SRP, walk through the steps required
     1. any identified gaps should be noted for future improvements to the SRP
-4. Conduct a post-exercise review to discuss what went well and what could be improved.
+4. Conduct a [post-exercise review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/Internal_Process/retro_template.md) to discuss what went well and what could be improved.
 5. Document any action items or follow-up tasks identified during the exercise.
