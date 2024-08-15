@@ -8,17 +8,17 @@
 | Congressional                  |                                                              |                                                              |
 | Correspondence                 |                                                              |                                                              |
 | CWVV                           | Children of Women Vietnam Veterans Health Care Benefits Program |                                                              |
-| DD 214                         | Certificate of Release or Discharge from Active Duty         | attachment_id |
+| DD 214                         | Certificate of Release or Discharge from Active Duty         | ssn_or_tin<br>sponsorlastname<br>sponsormiddlename<br>sponsorfirstname<br>veteranlastname<br>veteranmiddlename<br>veteranfirstname<br>filenumber<br>uuid<br>docytpe<br>country<br>businessline<br>attachment_ids<br>zipcode<br>source |
 | DEA Rating decision            |                                                              |  |
-| Death Certificate              |                                                              | attachment_id|
-| Divorce Decree                 |                                                              | attachment_id  |
+| Death Certificate              |                                                              | ssn_or_tin<br>sponsorlastname<br>sponsormiddlename<br>sponsorfirstname<br>veteranlastname<br>veteranmiddlename<br>veteranfirstname<br>filenumber<br>uuid<br>docytpe<br>country<br>businessline<br>attachment_ids<br>zipcode<br>source|
+| Divorce Decree                 |                                                              | ssn_or_tin<br>sponsorlastname<br>sponsormiddlename<br>sponsorfirstname<br>veteranlastname<br>veteranmiddlename<br>veteranfirstname<br>filenumber<br>uuid<br>docytpe<br>country<br>businessline<br>attachment_ids<br>zipcode<br>source  |
 | FMP Enrollment                 | 10-7959f-1                                                   |  |
 | FMP Dental                     |                                                              |  |
 | FMP Rating Decision            |                                                              |  |
-| Marriage Document              |                                                              | attachment_id |
-| Medicare                       |                                                              | attachment_id |
-| Miscellaneous Documents        |                                                              | attachment_id |
-| OHI Certificate                | 10-7959c                                                     | attachment_id |
+| Marriage Document              |                                                              | ssn_or_tin<br>sponsorlastname<br>sponsormiddlename<br>sponsorfirstname<br>veteranlastname<br>veteranmiddlename<br>veteranfirstname<br>filenumber<br>uuid<br>docytpe<br>country<br>businessline<br>attachment_ids<br>zipcode<br>source |
+| Medicare                       |                                                              | ssn_or_tin<br>sponsorlastname<br>sponsormiddlename<br>sponsorfirstname<br>veteranlastname<br>veteranmiddlename<br>veteranfirstname<br>filenumber<br>uuid<br>docytpe<br>country<br>businessline<br>attachment_ids<br>zipcode<br>source |
+| Miscellaneous Documents        |                                                              | ssn_or_tin<br>sponsorlastname<br>sponsormiddlename<br>sponsorfirstname<br>veteranlastname<br>veteranmiddlename<br>veteranfirstname<br>filenumber<br>uuid<br>docytpe<br>country<br>businessline<br>attachment_ids<br>zipcode<br>source |
+| OHI Certificate                | 10-7959c                                                     | ssn_or_tin<br>sponsorlastname<br>sponsormiddlename<br>sponsorfirstname<br>veteranlastname<br>veteranmiddlename<br>veteranfirstname<br>filenumber<br>uuid<br>docytpe<br>country<br>businessline<br>attachment_ids<br>zipcode<br>source |
 | POA (Power of Attorney)        |                                                              |                                                              |
 | ROI (Release of Information)   |                                                              |                                                              |
-| School Certificate             |                                                              | attachment_id |
+| School Certificate             |                                                              | ssn_or_tin<br>sponsorlastname<br>sponsormiddlename<br>sponsorfirstname<br>veteranlastname<br>veteranmiddlename<br>veteranfirstname<br>filenumber<br>uuid<br>docytpe<br>country<br>businessline<br>attachment_ids<br>zipcode<br>source |
