@@ -34,11 +34,6 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 - X page = # of responses
   
 
-
-
-## Quantitative User Feedback
-
-
 ### Feedback Survey Data
 
 
