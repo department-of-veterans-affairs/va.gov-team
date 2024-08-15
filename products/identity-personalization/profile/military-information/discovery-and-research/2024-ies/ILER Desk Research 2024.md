@@ -85,9 +85,9 @@ Metrics to monitor after deployment of this feature might include:
 - more efficient access to health care for Veterans in issues related to exposure
 - better medical outcomes for Veterans facing issues related to exposure
 
-## Research
+## Purpose of this research
 
-The scope of this ticket is to engage in desk research to learn:
+**The scope of this ticket is to engage in desk research to learn:**
 - the Congressional mandates driving this initiative to provide ILER access to Veterans
 - what content from the ILER system we can reliably provide to Veterans
 - how Veterans think of ILER information and how they interact with it
@@ -97,6 +97,16 @@ The scope of this ticket is to engage in desk research to learn:
 The goal of this ticket is to, based on the learnings above, offer:
 - next steps
 - recommendatons
+
+### Use Cases
+
+According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main levels of ILER use cases are:
+1) A Veteran or Service Member themselves seeking an understanding of their own exposures
+2) Healthcare providers in a clinical setting supporting the treatment of a Veteran or Service Member
+3) Claims agents in support of adjudication
+4) Researchers and epidemiologists looking to identify trends and mitigations
+
+Of the above, only 1) is within scope of this work. 
 
 ### Hypotheses and Conclusions
 
@@ -117,16 +127,6 @@ ADD REDDIT QUESTIONS HERE WITH CAVEATS ABOUT CANARY IN THE MINE AND RARE SAMPLE
 3. There is a need to format ILER data into a more readable format for Veterans
 4. There is a need to learn what ILER data Veterans would need to see and how to format it
 
-### Use Cases
-
-According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main levels of ILER use cases are:
-1) A Veteran or Service Member themselves seeking an
-understanding of their own exposures,
-2) Healthcare providers in a clinical setting supporting the
-treatment of a Veteran or Service Member,
-3) Claims agents in support of adjudication, and
-4) Researchers and epidemiologists looking to identify trends and
-mitigations.
 
 
 **Data Quality and Implications for Design**
