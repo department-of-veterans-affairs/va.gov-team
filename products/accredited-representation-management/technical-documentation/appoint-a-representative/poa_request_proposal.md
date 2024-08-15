@@ -27,11 +27,14 @@ class PowerOfAttorneyRequest < ApplicationRecord
   blind_index :city, :state_code, :zip_code
 
   belongs_to :user_account
-  belongs_to :requested_individual, class_name: 'AccreditedIndividual'
+  belongs_to :requested_individual, class_name: 'AccreditedIndividual', optional: true
+  belongs_to :requested_organization, class_name: 'AccreditedOrganization', optional: true
   has_many :power_of_attorney_request_status_changes
 
   before_create :calculate_has_consent_limitations
   before_create :set_expiration
+
+  validate :requested_entity_presence
 
   EXPIRATION_TIME = 60.days
 
@@ -98,6 +101,12 @@ class PowerOfAttorneyRequest < ApplicationRecord
   def set_expiration
     self.expires_at = Time.zone.now + EXPIRATION_TIME
   end
+
+  def requested_entity_presence
+    if requested_individual.blank? && requested_organization.blank?
+      errors.add('Either an AccreditedIndividual or AccreditedOrganization must be requested')
+    end
+  end
 end
 ```
 
@@ -116,7 +125,8 @@ class CreatePowerOfAttorneyRequests < ActiveRecord::Migration[7.1]
   def change
     create_table :power_of_attorney_requests, id: :uuid do |t|
       t.references :user_account, foreign_key: true, type: :uuid
-      t.references :requested_individual, foreign_key: {to_table: 'accredited_individual'}, type: :uuid
+      t.references :requested_individual, foreign_key: {to_table: 'accredited_individuals'}, type: :uuid
+      t.references :requested_organization, foreign_key: {to_table: 'accredited_organizations'}, type: :uuid
 
       t.string :city_bidx, index: true
       t.string :state_bidx, index: true
