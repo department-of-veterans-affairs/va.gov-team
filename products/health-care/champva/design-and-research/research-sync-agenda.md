@@ -1,5 +1,17 @@
 # Running Design and Research Agenda
 
+## August 15, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis,  Bo Altes, Premal Shah
+
+### Agenda topics
+- Discuss 10-7959c Research Plan and Convo guide
+
+### Decisions and action items
+- Start internal calls at 5 after
+- Combine cohorts, aim for max recruit of 8 or 12 for normal users
+- Capture information about the edit probe in the conversation guide
+- Focus post-interview questions more on claims - remove service-related questions
+
 ## July 25, 2024
 Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes, Devi Hill
 
