@@ -2,23 +2,23 @@
 |--------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
 | Address Change                 |                                                              |                                                              |
 | Appeals                        |                                                              |                                                              |
-| Application over 55- Remarried | CHAMPVA 10-10d                                               | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorbirthdate<br>sponsorssn |
-| Application over 65            | CHAMPVA 10-10d                                               | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorbirthdate<br>sponsorssn |
-| Application under 65           | CHAMPVA 10-10d                                               | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorbirthdate<br>sponsorssn |
+| Application over 55- Remarried | CHAMPVA 10-10d                                               | |
+| Application over 65            | CHAMPVA 10-10d                                               |  |
+| Application under 65           | CHAMPVA 10-10d                                               | |
 | Congressional                  |                                                              |                                                              |
 | Correspondence                 |                                                              |                                                              |
 | CWVV                           | Children of Women Vietnam Veterans Health Care Benefits Program |                                                              |
-| DD 214                         | Certificate of Release or Discharge from Active Duty         | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| DEA Rating decision            |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| Death Certificate              |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| Divorce Decree                 |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| FMP Enrollment                 | 10-7959f-1                                                   | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| FMP Dental                     |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| FMP Rating Decision            |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| Marriage Document              |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| Medicare                       |                                                              | documenttype<br>beneficiarylastname<br>beneficiaryfirstname<br>beneficiarymiddlename<br>beneficiaryssn |
-| Miscellaneous Documents        |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| OHI Certificate                | 10-7959c                                                     | documenttype<br>beneficiarylastname<br>beneficiaryfirstname<br>beneficiarymiddlename<br>beneficiaryssn |
+| DD 214                         | Certificate of Release or Discharge from Active Duty         | attachment_id |
+| DEA Rating decision            |                                                              |  |
+| Death Certificate              |                                                              | attachment_id|
+| Divorce Decree                 |                                                              | attachment_id  |
+| FMP Enrollment                 | 10-7959f-1                                                   |  |
+| FMP Dental                     |                                                              |  |
+| FMP Rating Decision            |                                                              |  |
+| Marriage Document              |                                                              | attachment_id |
+| Medicare                       |                                                              | attachment_id |
+| Miscellaneous Documents        |                                                              | attachment_id |
+| OHI Certificate                | 10-7959c                                                     | attachment_id |
 | POA (Power of Attorney)        |                                                              |                                                              |
 | ROI (Release of Information)   |                                                              |                                                              |
-| School Certificate             |                                                              | documenttype<br>beneficiarylastname<br>beneficiaryfirstname<br>beneficiarymiddlename<br>beneficiaryssn |
+| School Certificate             |                                                              | attachment_id |
