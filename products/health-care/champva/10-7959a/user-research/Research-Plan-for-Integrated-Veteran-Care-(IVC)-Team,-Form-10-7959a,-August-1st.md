@@ -6,7 +6,7 @@
 This study will support the unauthenticated digital flow for form 10-7959a claims form for the CHAMPVA program. We will be building this as a new digital form, so there will be no familiarity from the perspective of the Veterans and dependents interacting with the digital version. However, we will specifically attempt to recruit participants who are familiar with the paper form and program. 
 
 
-[Product Brief]
+[Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/product-outline-10-7959a.md)
 
 
 ### OCTO Priorities
@@ -110,8 +110,8 @@ For moderated usability tests:
 
 
 
-* [Link to conversation guide]
-* [Link to prototype]
+* [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/user-research/Conversation-Guide-for-Integrated-Veteran-Care-(IVC)-Team,-Form-10-7959a,-August-1st.md)
+* [Link to prototype](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims-(10-7959a)?node-id=1481-275773&t=Mwx4Hly21PUbw8Df-0)
 
 
 ### Recruitment approach
@@ -121,38 +121,34 @@ Our intended audience for this research is Veterans and Dependents who have file
 
 ### Recruitment criteria
 
-We would like to work with Perigean to complete 15 sessions in total.
+We would like to work with Perigean to complete 8 sessions in total.
 
 User groups:
 
-Cohort 1: At least 4(of 15) Veterans who have filed helped their dependents submit CHAMPVA claims or submitted one themselves  
+Cohort 1: At least 5(of 8) Spouses or children of Veterans or Veterans who have filed CHAMPVA claims or submitted one themselves
 
-Cohort 2: At least 8(of 15) spouses or children of Veterans who have filed their own CHAMPVA claims 
-
-Cohort 3: At least 3(of 15) Verified screen reader users willing to use their assistive technology throughout the entire form process
-
-Secondary criteria (nice-to-haves): \
+Cohort 2: At least 3(of 8) Verified screen reader users willing to use their assistive technology throughout the entire form process
 
 
 Demographics:
 
-At least 4 users on Mobile devices \
-At least 4 users on Desktop/Laptop devices \
-At least 4 participants aged 55-64+
+At least 2 users on Mobile devices \
+At least 2 users on Desktop/Laptop devices \
+At least 2 participants aged 55-64+
 
-At least 4 participants have a cognitive disability
+At least 2 participants have a cognitive disability
 
-At least 2 participants live in a rural area
+At least 1 participants live in a rural area
 
-At least 2 participants have no degree
+At least 1 participants have no degree
 
-At least 2 participants are women
+At least 1 participants are women
 
 At least 1 participant is an expat (living abroad)
 
-At least 3 participants are Black
+At least 2 participants are Black
 
-At least 2 participants are Hispanic
+At least 1 participants are Hispanic
 
 At least 1 participant is Asian
 
@@ -162,10 +158,6 @@ At least 1 participant is gay, lesbian, or bisexual
 
 At least 1 participant is transgender, nonbinary, gender fluid, genderqueer, Two-Spirit (Indigenous only), or another gender beyond man or woman
 
-At least 2 participants use screen readers
-
-At least 1 participant uses some other kind of assistive technology
-
 
 ### Screener Questions
 
@@ -174,16 +166,9 @@ Cohort 1:
 
 
 1. CHAMPVA is a medical cost-sharing program for spouses and children of Veterans with disabilities who don’t qualify for Tricare. Have you previously submitted a claim for reimbursement through CHAMPVA for yourself or someone else? [Yes to qualify]
-2. Are you a Veteran? [Yes to qualify]
+2. Are you a Spouse or Child of a Veteran or a Veteran yourself? [Yes to qualify]
 
 Cohort 2:
-
-
-
-1. CHAMPVA is a medical cost-sharing program for spouses and children of Veterans with disabilities who don’t qualify for Tricare. Have you previously submitted a claim for reimbursement through CHAMPVA for yourself or someone else? [Yes to qualify]
-2. Are you a Spouse or Child of a Veteran? [Yes to qualify]
-
-Cohort 3:
 
 
 
@@ -248,4 +233,4 @@ Accessibility specialist (for sessions where support for assistive technology ma
 
 Note-takers: Jamie Fiore (jamie.fiore@adhocteam.us), Brian Wilke (brian.wilke@copilot.llc), Syd Hoeper (syd.hoeper@adhocteam.us)
 
-Observers: Bo Altes (bo.altes@agile6.com), Mary Wang (mary.wang@adhocteam.us), Premal Shah (premal.shah@va.gov), Devi Hill (devi.hill@agile6.com), Melissa Schaff (melissa.schaff@agile6.com), Lois Lewis (lois.lewis2@va.gov)
+Observers: Bo Altes (bo.altes@agile6.com), Mary Wang (mary.wang@adhocteam.us), Premal Shah (premal.shah@va.gov), Devi Hill (devi.hill@agile6.com), Lois Lewis (lois.lewis2@va.gov)
