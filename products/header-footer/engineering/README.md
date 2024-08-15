@@ -42,13 +42,9 @@ On site load, the contents of `generated/headerFooter.json` are loaded into the 
 * `vets-website/src/platform/landing-pages/dev-template.ejs`: This file is only used for running vets-website locally and displaying the header. This is what teams see locally when they aren't running content-build. Because this template isn't used beyond the local environment, is not up-to-date and is missing functionality.
 * `vets-website/src/applications/proxy-rewrite/partials/header.js`: This is used only for Teamsites (injected header/footer). The [proxy whitelist](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/proxy-rewrite-whitelist.json) has some examples of where you can test and [the README](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/proxy-rewrite) has steps on how to test. You can only test Teamsites locally and in production and nowhere in between.
 * https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/site-wide/header in vets-website contains most of the code for the VA.gov header. Anything you see referred to as "legacy header" is the desktop header (I'm not sure why it's named that). The [mega menu code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/site-wide/mega-menu) lives in a separate folder.
+
 ![VACMS-10059 HEADER CURRENT FLOW_2023-05-04_23-16-59](https://user-images.githubusercontent.com/85581471/236350123-83aa5884-66f3-4688-bb04-7fa75da545af.png)
 https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683241698521/bd49f8b522d8fab33844e1621fd5d3b65eb88a07?sender=u0b235d03cbd64f7f93673243
-
-### Footer Templates
-* Hard coded content from the 4th footer column (contact us, etc) is entered in `content-build/blob/main/src/platform/static-data/footer-links.json` and rendered by:
-https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/site-wide/va-footer
-* Translation toggles menu is created by a React widget: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/i18Select
 
 ### Injected header 
 Proxy-rewrite is a javascript app that can be used to inject the VA.gov header /footer into legacy TeamSites. 
@@ -58,6 +54,11 @@ More information:
 * [vets-website proxy-rewrite app](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/README.md)
 * Templates: `/vets-website/src/applications/proxy-rewrite/partials` -- used to render
 
+
+### Footer Templates
+* Hard coded content from the 4th footer column (contact us, etc) is entered in `content-build/blob/main/src/platform/static-data/footer-links.json` and rendered by:
+https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/site-wide/va-footer
+* Translation toggles menu is created by a React widget: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/i18Select
 
 ## TODO:
 * Add anything useful re: WCLoader
