@@ -63,6 +63,8 @@ This one-time process often takes about 10 minutes. You'll need to provide certa
 
 [action link] Verify your identity with {Account provider}
 
+[text link] [Learn more about verifying your identity](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
+
 ### Verify alert for LOA1/IAL1 My HealtheVet accounts 
 
 #### You need to sign in with a different account to [CTA] 
