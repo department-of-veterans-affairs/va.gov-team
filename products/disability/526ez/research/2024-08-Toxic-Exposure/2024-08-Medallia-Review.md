@@ -19,10 +19,9 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 **Total Intercept survey responses:** 85
 - 65% of the Intercept responses came from the Start, Introduction, or Veteran Information pages [55 out of 85].
 
-|--|--|--|
-|Survey| Total responses | 
 
 ## Quantitative User Feedback
+
 
 ### Feedback Survey Data
 
