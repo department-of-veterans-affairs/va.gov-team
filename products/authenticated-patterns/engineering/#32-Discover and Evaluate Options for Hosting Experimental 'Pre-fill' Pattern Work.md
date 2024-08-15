@@ -92,24 +92,24 @@ Cons
 - Setting up a mock server can be made to work, but api mock responses do need to be created and the mock server run alongside the FE in 'watch' mode
 - Codespaces spin down after 30 minutes of inactivity, but can be configured to up to 4 hours. Unlike review instances, this is a paid service, so it won’t stay live for days.
 
-### Codespaces update
+### Codespaces update 8/15/2024
 
 We have continued to explore the codespaces option, and there are some promising things that have been learned about it that address the above cons:
 
-| Developer dependent on setting up and refreshing the codespace
+> Developer dependent on setting up and refreshing the codespace
 
 Since a codespace does exist for specific branches the developer does have to initialize one, but refreshing can be configured to wait for 4 hours of inactivity, and as long as anyone is interacting with the codespace then that shouldn't be a problem and it will stay active. Having the ability to start a codespace on any branch of the code also bring advantages of being able to test changes that are not on the main branch yet.
 
-| Setting up a full content build (include all static pages) did not appear to work, and takes a long time to build (not hugely important if testing a form app)
+> Setting up a full content build (include all static pages) did not appear to work, and takes a long time to build (not hugely important if testing a form app)
 Setting up content build would only be an issue if we needed to have users view a static content page, so for our user research sessions that should not be a problem
 
-| It can be connected to staging’s API, but doesn’t allow authentication due to CORS problems. Using the “Allow CORS” browser extension didn’t work.
+> It can be connected to staging’s API, but doesn’t allow authentication due to CORS problems. Using the “Allow CORS” browser extension didn’t work.
 connecting to the staging api within a codespace requires using a staging user and the authentication flow, so it wouldn't do us any good to try this for mocking the authentication, therefore we would want to use a mock server that runs within the codespace itself and can be controlled on a lower level to provide authentication mocking and other response mocking on demand
 
-| Setting up a mock server can be made to work, but api mock responses do need to be created and the mock server run alongside the FE in 'watch' mode
+> Setting up a mock server can be made to work, but api mock responses do need to be created and the mock server run alongside the FE in 'watch' mode
 setting up the mock server has been what Belle and I have done for working locally, so while it does incur some setup effort, it is already set up and works for most all of our needs. It can also be manipulated on the fly to respond with whatever data we would want, and not rely on staging user credentials whatsoever. Once the mock api is running, it will stay running as long as the codepsace stays active.
 
-| Codespaces spin down after 30 minutes of inactivity, but can be configured to up to 4 hours. Unlike review instances, this is a paid service, so it won’t stay live for days.
+> Codespaces spin down after 30 minutes of inactivity, but can be configured to up to 4 hours. Unlike review instances, this is a paid service, so it won’t stay live for days.
 Codespaces are easily configured to stay active for 4 hours, and Adam has already done that on his codespace experiments and verified that. Although the codespaces don't stay up for days, the same can be said for a review instance in that it will be disposed of after 48 hours. When a review instance is recreated it receives a url, vs when a codespace is restarted due to inactivity the same URL is used, which is convientient. 
 
 # Conclusion
