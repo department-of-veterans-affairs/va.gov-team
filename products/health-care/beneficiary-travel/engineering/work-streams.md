@@ -25,8 +25,8 @@ Basically: Any API stuff
 Basically: Integration work on vets-website that links appointments to mileage claims
 
 ## Integration Points
-* **Check In Team** needs `/get-claim` endpoint on vets-api implemented by **Travel Pay Team**
-* **Travel Pay Team** needs *appointment timestamp* from the link implemented by **Check In Team**
+* **UAE Team** needs `/get-claim` endpoint on vets-api implemented by **Travel Pay Team**
+* **Travel Pay Team** needs *appointment timestamp* from the link implemented by **UAE Team**
 * **Travel Pay Team** needs `/get-appt` endpoint on Travel Pay API implemented by **API Team**
 * **Travel Pay Team** needs `/create-claim` endpoint on Travel Pay API implemented by **API Team**
 * **Travel Pay Team** needs `/add-expense` endpoint on Travel Pay API implemented by **API Team**
