@@ -49,9 +49,16 @@ See the resources at the bottom of this page for more information on how to test
 - [ ]  The order of `Tab` stops makes sense and is appropriate for completing tasks
 
 ## Screenreader test
-- [ ] Spot check feature with VoiceOver on mac
-- [ ] Spot check feature with VoiceOver on phone
-- [ ] Spot check feature with TalkBack on phone
+
+Spot check on any screen readers available to you:
+- [ ] VoiceOver on Mac
+- [ ] VoiceOver on phone
+- [ ] TalkBack on phone
+
+Test that screen reader
+- [ ] Reads entire page
+- [ ] Announces interactive elements clearly and in expected order
+- [ ] Navigates headings clearly and in expected order
 
 ## Resources
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
