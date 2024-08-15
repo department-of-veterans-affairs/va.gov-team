@@ -24,7 +24,7 @@ Pages with the most responses:
 
 ### Intercept survey
 **Total Intercept survey responses:** 85
-Pages with the most responses:
+**Pages with the most responses:**
 - X page = # of responses
 - X page = # of responses
 - X page = # of responses
