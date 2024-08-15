@@ -151,6 +151,17 @@ Though access to this report is mandated by Congress, and is an important tool t
 
 RECOMMENDATION FOR LATER: RESEARCH INDICATES ANY DOWNLOAD SHOULD BE BEHIND SOME FRICTION TO PRESENT THIS WARNING
 
+WORK THROUGH FINDINGS FIRST AND CAN REFER TO THEM LATER
+
+
+## Findings
+
+some SMs don't know it exists
+some SMs have heard of it, but don't know why they should have it
+some staff don't know what it is or what it would do
+some SMs have heard of it and think it'd be useful, but can't get it
+some SMs don't trust the content
+
 ### Hypotheses and Conclusions
 
 For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. 
