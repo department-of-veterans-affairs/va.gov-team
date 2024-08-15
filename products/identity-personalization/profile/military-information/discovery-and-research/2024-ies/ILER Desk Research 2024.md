@@ -96,16 +96,6 @@ The goal of this ticket is to, based on the learnings above, offer:
 - next steps
 - recommendatons
 
-### Use Cases
-
-According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main levels of ILER use cases are:
-1) A Veteran or Service Member themselves seeking an understanding of their own exposures
-2) Healthcare providers in a clinical setting supporting the treatment of a Veteran or Service Member
-3) Claims agents in support of adjudication
-4) Researchers and epidemiologists looking to identify trends and mitigations
-
-Of the above, only 1) is within scope of this work. 
-
 ### Legislative History
 
 On 1 January 2021, Congress passed the National Defense Authorization Act, in which Section 9105 required that Veterans shall have access to their ILER. At the time, this was mandated as read-only access.
@@ -128,6 +118,38 @@ legislative requirements in future versions of the web application.14 As of
 January 2024, staff were using version 2.4 (released in October 2023),
 which added some of DOD’s blast overpressure data.15 Version 2.5 will
 be available to staff in April 2024, according to DOD officials.
+
+### Use Cases
+
+According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main levels of ILER use cases are:
+1) A Veteran or Service Member themselves seeking an understanding of their own exposures
+2) Healthcare providers in a clinical setting supporting the treatment of a Veteran or Service Member
+3) Claims agents in support of adjudication
+4) Researchers and epidemiologists looking to identify trends and mitigations
+
+Of the above, only 1) is within scope of this work. 
+
+ Create a customized display that would support Veteran
+understanding of benefits and could empower Veterans to make
+claims supported by their ILER data.
+• Proactively prepare to address any Veteran confusion or
+troubleshooting after Veterans access their ILER.
+• Proactively prepare to support Veterans with fact sheets, FAQs, and
+customized displays,
+
+ ILER was built primarily for environmental researchers and clinicians,
+making it very difficult for the layman to fully comprehend.
+• The level of detail in ILER is not, in its entirety, relevant to Veterans
+and yields a very long record.
+• The current level of detail in ILER creates a communication risk and
+potential for fear mongering; Veterans will struggle to be able to
+identify the salient information.
+
+What does this tell us?
+
+Though access to this report is mandated by Congress, and is an important tool to help Veterans make sense of their experience, and seek to claim benefits and treatments to which they are due, it might be irresponsible or harmful to provide access without strong warnings about the difficult presentation and possible unreliability of the data. 
+
+RECOMMENDATION FOR LATER: RESEARCH INDICATES ANY DOWNLOAD SHOULD BE BEHIND SOME FRICTION TO PRESENT THIS WARNING
 
 ### Hypotheses and Conclusions
 
