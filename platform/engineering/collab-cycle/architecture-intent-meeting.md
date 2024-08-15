@@ -111,9 +111,10 @@ This checklist is by no means a comprehensive list of all applicable security pr
         * PII and PHI must be encrypted in transit. This means, primarily, that any network streams, e.g., API calls, over which we exchange PII or PHI must use TLS.
 - Authentication and authorization
     + `vets-api` endpoints should use the [authentication][authn] and [authorization][authz] functionality provided by `vets-api`. Please don't roll your own.
-    + TODO: What about endpoints intended to be called by outside systems, e.g., form submission callbacks? What pattern do we expect teams to use for authenticating callers to these endpoints?
-    + If you are calling an API endpoint in another system, and it uses a key for authentication, then if at all possible the endpoint should support key rotation without downtime. This typically means the endpoint should allow multiple keys to be active at the same time, so that the key can be rotated by first adding the new key to the endpoint, then changing the key on VA.gov to the new key, and then removing the old key from the endpoint.
-    + TODO: If we are going to allow static keys to be used for authenticating `vets-api` endpoints called by other systems (i.e., the TODO above), which is TBD, then the key rotation enjoinder above should apply to those as well.
+    + Static API keys are not allowed for new inbound or outbound system-to-system authenticated integrations. Instead, they must utilize a pattern that complies with OAuth 2.0 JWT authorization standards. See, for example, the Identity team's [Service Account Auth (STS) documentation][sts].
+        * New integrations that are not compliant with this requirement require an exemption with an approved justification.
+        * For assistance with satisfying this requirement, please consult with the Identity team.
+    + Integration endpoints with that use static API key authentication (with an exemption as described above), should support key rotation without downtime. This typically means the endpoint allows multiple keys to be active at the same time, so that the key can be rotated by first adding the new key to the endpoint, then changing the caller to use the new key, then finally removing the old key from the endpoint.
 - Secrets should be stored in the AWS SSM Parameter Store as [described in the developer documentation][secrets]. Secrets should _never_ be hard-coded in source code or checked into GitHub.
 - TODO: Do we want to talk about internal administration / maintenance pages here? Do any such pages already exist within VA.gov, and are there documented patterns for how they should be implemented, protected from public access, etc.?
 
@@ -132,5 +133,6 @@ TODO: use [Design Intent][DI] as a template
 [API-encryption]: https://depo-platform-documentation.scrollhelp.site/developer-docs/data-encryption-in-vets-api
 [authn]: https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication
 [authz]: https://depo-platform-documentation.scrollhelp.site/developer-docs/authorization
+[sts]: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)
 [secrets]: https://depo-platform-documentation.scrollhelp.site/developer-docs/store-a-secret-in-parameter-store
 [DI]: https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/design-intent
