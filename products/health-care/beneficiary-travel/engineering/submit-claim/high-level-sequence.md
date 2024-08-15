@@ -236,12 +236,43 @@ sequenceDiagram
 Things to note
 
 - Veteran should be able to view claims for an appointment if it exists
+  - Agreed, whether that's a new single page view of a claim (e.g. claim details) or a highlighted, bubbled-up claim summary card on the existing claim status list is TBD
+  - I have a strong opinion that implementing a dedicated claim details page will be faster to implement, simpler in the short, medium, and long terms, serve as a launching point for more features, etc (aka really worth it to set up now)
 - maybe More features are here than are needed MVP (like the claim detail page)
+  - Maybe, what are the alternatives?
+  - I'm thinking we'd need _something_ to show the Veteran that they can't submit a claim because it already exists:
+  ``` mermaid
+  sequenceDiagram
+    participant vet as Veteran
+    participant appts as Appointment Details
+    participant submit as Travel Claim Submit
+    participant status as Travel Claim Status
+  
+    vet ->> appts: Enters 
+    appts ->> appts: See if there's an existing claim
+    alt NO CLAIM
+      appts ->> vet: Show submit link
+      vet ->> submit: GOTO submit flow
+    else EXISTING CLAIM
+      appts ->> vet: Show claims link
+      vet ->> status: GOTO view ALL claim statuses page
+    end
+  ```
 - Can we add a filter to the claims status to only get a smaller amount of claims
+  - On the Travel Pay API side?
+    - Probably, but it might take a while
+    - some alternatives:
+      - fast to implement, no addl integration, maybe slow perf-wise, maybe repeating what they already do on API: Use the "get all claims" endpoint we have and search through the list on vets-api
+      - fast to implement, some addl integration, faster perf-wise, complexity passed to API: Use the "get claim details" endpoint the API has in their swagger doc, use that to find a single claim (may need claim ID, though)
+      - slow to implement, addl integration, a little faster perf-wise, complexity on both sides: API endpoint allows a filter to narrow claims list for vets-api to then search through (I want this eventually, but maybe not highest priority?)
 - Loading claims status can/should be a parallel call and we can paint the UI as data comes in
-- Appointments team has a UI (or very nearly has one) for actions for a past appointment that we can plug into (AVS is also using this) 
+  - Do we mean on the travel pay claim status page? or the appt details page? Something else?
+- Appointments team has a UI (or very nearly has one) for actions for a past appointment that we can plug into (AVS is also using this)
+  - UAE work ^^
 - urls are just place holders
-- Passing data from appt to app via redux was tricky (impossible and had to use local storage) last time I tried it 
+- Passing data from appt to app via redux was tricky (impossible and had to use local storage) last time I tried it
+  - I'm wondering now if we need any intermediate storage (redux, local, session, etc)
+  - Can't we just provide all that the submit or claim pages need via the URL? Are there PII implications, something else?
 - This the hand off to the submit claims form below
 
 ``` mermaid
