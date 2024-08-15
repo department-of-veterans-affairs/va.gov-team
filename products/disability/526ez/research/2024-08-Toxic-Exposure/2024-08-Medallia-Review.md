@@ -13,11 +13,25 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 
 ## Summary of responses
 
-**Total Feedback survey responses:** 462
-- 68% of Veterans reported that they were **NOT** able to complete the task they set out to do [216 out of 318 total responses]. 
+### Feedback survey
+**Total Feedback survey responses:** 462  
+Pages with the most responses:
+- X page = # of responses
+- X page = # of responses
+- X page = # of responses
+- X page = # of responses
+- X page = # of responses
 
+### Intercept survey
 **Total Intercept survey responses:** 85
-- 65% of the Intercept responses came from the Start, Introduction, or Veteran Information pages [55 out of 85].
+Pages with the most responses:
+- X page = # of responses
+- X page = # of responses
+- X page = # of responses
+- X page = # of responses
+- X page = # of responses
+  
+
 
 
 ## Quantitative User Feedback
@@ -28,5 +42,7 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 
 
 ## Key Findings
+- 65% of the Intercept responses came from the Start, Introduction, or Veteran Information pages [55 out of 85].
+- 68% of Veterans reported that they were **NOT** able to complete the task they set out to do [216 out of 318 total responses].
 
 ## Themes to Track
