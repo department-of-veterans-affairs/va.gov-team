@@ -329,8 +329,6 @@ Note: Please do not schedule more than 4 sessions per day.
 | Friday | August 30, 2024 | 9 – 10:30, 11 – 12:30, 1 – 2:30, 3 – 4:30 |
 | Monday | September 2, 2024 | 9 – 10:30, 11 – 12:30, 1 – 2:30, 3 – 4:30 |
 | Tuesday | September 3, 2024 | 9 – 10:30, 11 – 12:30, 1 – 2:30, 3 – 4:30 |
-| Wednesday | September 4, 2024 | 9 – 10:30, 11 – 12:30, 1 – 2:30, 3 – 4:30 |
-| Thursday | September 5, 2024 | 9 – 10:30, 11 – 12:30, 1 – 2:30, 3 – 4:30 |
 
 **Additional Days for AT Users if needed**
 
