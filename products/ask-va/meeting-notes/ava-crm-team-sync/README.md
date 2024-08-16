@@ -1,6 +1,6 @@
 08/13/2024 
 
-##Agenda August 13th
+**Agenda August 13th**
 - [in]Security Issues
 - Updating AVA Profile (Conversation here.)
 - Generate Open API from Dataverse APIs?
@@ -10,7 +10,9 @@
 - adding queueID to the payload
 
 **Notes:**
-
+- Security result: CRM will add ICN+documentID for retrieving records, additional finding not high enough risk to research and resolve at this time.
+- Swagger Docs were sent while on the call, Joe created a [draft document](https://github.com/department-of-veterans-affairs/ask-va/tree/joehall-tw-patch-1/test-swagger) as a response.
+**Action Items**
 - Kyle to send Swagger API Docks - Done
 - Kyle to setup QueueID to response body - Done
 
