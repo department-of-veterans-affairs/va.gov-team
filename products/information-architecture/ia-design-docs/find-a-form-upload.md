@@ -81,11 +81,7 @@ No redirects needed for this work.
 No best bets needed -- we do not set up best bets for about-a-form pages.
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
-
-**[Which static page has the widget, ie the main entry point?]**
-
-www.va.gov/find-forms/about-form-[#]/upload-form/introduction/
+The team is rolling this out to 100% of users for the two forms they're starting with, so we should not need the staged rollout widget.
 
 
 <hr>
