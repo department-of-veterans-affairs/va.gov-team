@@ -179,7 +179,8 @@ Placement of additional forms before supporting evidence, allows for screening w
 
 #### Finding 1
 **Hypothesis:** Veterans will be able to easily orient themselves to start and exit the 0781 with the new content on transitional pages.
-Maybe true 
+
+_Maybe true_
 
 Both our concepts performed better than the existing form. We addressed the abruptness which was a known pain point with the way the current version starts and stops. In both concepts, Veterans have a general understanding of what's been covered retroactively. However, comprehension of the overall form flow is vague.
 
@@ -192,7 +193,8 @@ Ending: In Concept A, the conclusion of the 0781 is soft and ambiguous without c
 #### Finding 2
 
 Hypothesis: Veterans will be able to understand that there are two evidence upload sections within the form, and correctly identify what should be provided in each. 
-False 
+
+_False_
 
 The majority of participants were not able to clearly differentiate between evidence supporting mental health conditions and general evidence supporting their claim more broadly across both concepts.
 
@@ -301,6 +303,84 @@ This frustration was only amplified by an ambiguous understanding of what is req
 ### Goal 2: Understand whether the new event flow works for all Veteran experiences: reporting singular events, multiple related events, ongoing events, and so on.
 
 #### Finding 1
+**Hypothesis:** New instructions and examples will make it more clear to Veterans how they can describe their experience accurately and with an appropriate level of detail.
+
+_Maybe true_
+
+**Comprehension of the Overall Intent**
+Most Veterans have a general understanding of the overall intent of this section in the form — gathering details surrounding traumatic events — and see it as critical as a part of the claims process.
+
+**Comprehension of the Event Entry Flow and Entry Expectations**
+Participants generally understood the overall entry flow, and appreciated the examples as setting a baseline for what's expected with each prompt. 
+This is especially the case with the prompt for event timeframes. Challenges with clear recall of specific date ranges resonated with the majority of Veterans.
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2029.png)
+
+The overall expectation of the level of detail required for describing traumatic experiences for participants was unclear. At the start of the traumatic experiences section, half of the participants expected to be required to provide information about their experiences in great detail. (Previous versions of this form do require a greater level of detail, so this was likely informed by their past experience.) As they continued through the event detail page, three participants anticipated having to provide additional detail later, and one raised concern that a brief description could negatively impact their claim outcome. Others seemed satisfied with providing less detail with the guidance of examples.
+
+Veterans find themselves in a double bind with regard to how much detail they should be supplying. Many Veterans think specificity and detail regarding traumatic experiences is critical for accurate adjudication. At the same time, many Veterans are faced with emotional burdens and risks in recalling these traumatic events.
+
+- How might we… shift expectations and reduce ambiguity in the level of detail required?
+   - Acknowledge the policy change that led to VA collecting less information than in previous versions
+   - Allow for more choice in supplying additional detail to the event description through a separate free text area that is explicitly optional
+   - Guide the Veteran toward using narrative text to fill in the gaps not covered in other evidence (eg medical records, lay statements)
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2030.png)
+
+The same double bind around the level of detail required extended to the prompts for official reports. Several participants appreciate that this was an explicitly optional step, and expressed their prior anxiety about not being believed without hard proof. Two participants expressed skepticism that reporting was truly optional. 
+
+One participant shared that having a clearer understanding of filing requirements earlier in the form would help to encourage more reluctant claimants. 
+
+Two other participants conflated the official reporting section as a place to upload medical evidence.
+
+-How might we… shift expectations and reduce ambiguity in the level of detail required?
+   - Consider emphasizing earlier in the process (on the 0781 intro page, or even in Step 2 conditions) what reporting and evidence is optional
+   - Explore ways to draw a clearer distinctions between other claim evidence (eg medical records, lay statements, official reports)
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2031.png)
+
+#### Finding 2
+**Hypothesis:** Form updates will help clarify VA’s definitions while accounting for the Veteran’s mental models and guiding them to enter information needed for a successful outcome. 
+
+_Likely true_
+
+**Comprehension of Traumatic Experiences Categories**
+The majority of participants were familiar with most of the categories of traumatic events. This is particularly the case with categories relevant to them. Several participants were not clear about what constitutes trauma related to personal interactions or other traumatic experiences. 
+
+The majority of participants engaged the dropdown with more examples unprompted and found the content to be detailed and useful.
+
+Within the examples provided, two participants observed examples of MST to be lacking — causing for some confusion. 
+
+- How might we… Revise the dropdown content to map more directly to the checkboxes?
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2032.png)
+
+#### Finding 3
+**What’s optional and what’s not?**
+With the original thought that all sections of the 0781 are optional, we matched the [VA Multiple Response pattern]([url](https://design.va.gov/patterns/ask-users-for/multiple-responses)) by providing an initial page with a yes/no option to start adding traumatic experiences.
+
+However, during testing Veterans were confused with this question. Most saw this question as perfunctory, and two participants expressed skepticism that opting out was a viable option, believing that opting out would either get the claim denied or require additional follow-up.
+
+- How might we… reduce friction once users opt into the 0781 flow?
+   - Confirm with VBA that experience information is critical to claim outcomes
+   - Explore removing this page entirely and bringing users directly to the “Add traumatic experience” page
+Quote: “I do think VA is requiring a certain answer. You can't just file a claim and say no, I don’t want to talk about it. VA would just deny the claim.” —P9
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2033.png)
+
+#### Finding 4
+**Comprehension of the Experience Entry Interaction Model**
+Half of participants (7/12) explicitly expressed they understood being able to add multiple entries. However, only two participants understood the interaction model upon first arriving at the "add additional detail” prompt. Four participants only become aware of the intended entry interaction model upon arriving at the subsequent detail or summary pages. 
+
+**Comprehension of Experience Description**
+Two participants thought the section was intended for reporting mental health episodes or triggers as opposed to providing details about traumatic experiences. 
+
+- How might we… convey that details relating to the effects of trauma may be shared elsewhere, as opposed to the section devoted to traumatic experiences that caused the conditions? 
+
+**More data needed:** Only one participant spoke to the complexity that can be associated with more complex forms of trauma, describing the ways in which individual events may intersect with more prolonged exposures (eg a pervasive culture of sexual harassment over time). So we’re not sure if our helper text is enough to account for these experiences.
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2034.png)
+
+
+### Goal 3 Understanding whether Veterans feel supported and heard through the form.
 
 
 ## Key Findings
