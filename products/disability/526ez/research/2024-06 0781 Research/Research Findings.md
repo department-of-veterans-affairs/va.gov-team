@@ -177,8 +177,8 @@ Placement of additional forms before supporting evidence, allows for screening w
 ### Goal 1: Understand which placement of the new 0781 within the 526 works better, particularly as it relates to evidence. 
 #### Form Placement 
 
-##### Finding 1
-Hypothesis: Veterans will be able to easily orient themselves to start and exit the 0781 with the new content on transitional pages.
+#### Finding 1
+**Hypothesis:** Veterans will be able to easily orient themselves to start and exit the 0781 with the new content on transitional pages.
 Maybe true 
 
 Both our concepts performed better than the existing form. We addressed the abruptness which was a known pain point with the way the current version starts and stops. In both concepts, Veterans have a general understanding of what's been covered retroactively. However, comprehension of the overall form flow is vague.
