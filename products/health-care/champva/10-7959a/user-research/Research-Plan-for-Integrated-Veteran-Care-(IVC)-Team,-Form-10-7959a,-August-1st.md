@@ -190,14 +190,14 @@ Cohort 2:
 
 
 * Pilot participant email: 
-* Date and time of pilot session: August (TBD), 2024
+* Date and time of pilot session: August (19-23), 2024
 
 
 ### Research sessions
 
 
 
-* Planned dates of research: August (TBD), 2024
+* Planned dates of research: August 27-30, 2024
 
 
 ### Length of sessions
@@ -211,10 +211,10 @@ Maximum Sessions per day: 4 sessions
 
 ### Availability
 
-Tuesday, August (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST \
-Wednesday, August (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST \
-Thursday, August (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST \
-Friday, August (TBD): 9-10, 12-1, 2-3, 4-5, 6-7 EST
+Tuesday, August 27: 9-10, 12-1, 2-3, 4-5, 6-7 EST 
+Wednesday, August 28: 9-10, 12-1, 2-3, 4-5, 6-7 EST
+Thursday, August 29: 9-10, 12-1, 2-3, 4-5, 6-7 EST 
+Friday, August 30: 9-10, 12-1, 2-3, 4-5, 6-7 EST
 
 
 ## Team Roles
