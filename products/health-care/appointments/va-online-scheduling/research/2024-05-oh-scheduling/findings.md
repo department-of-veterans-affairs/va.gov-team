@@ -123,16 +123,6 @@ This test included 2 versions of the appointments list:
 
 ### Provider Selection
 
-1. 5 Participants expressed a desire to know if they have seen a provider before, as they do not always remember names but recognize the importance of continuity in care. "It might be nice to know if I'd ever seen the people I'm looking at. Maybe I remember I saw a woman before, but don't know if it was Sarah or Emily" [P14]
-2. 6 participants assumed the providers listed were all of the available providers at the clinic. "The way that I read this now is, it's just who's ever in the clinic." [P5]
-3. 5 participants indicated a need for more detailed information about each provider, including credentials, specialties, and experience."I personally, ( would like to see) years of experience. You know, when I go to a surgeon I want to know that they're I'm not their 1st 1st operation." [P8]
-4. 8 participants were unsure whether the displayed providers are those they have seen in the past, those available at the clinic, or those accepting new patients."These might be people, doctors, nutritionists who I've seen before - or maybe I've never seen them before, and do I like the name Sarah or Emily better?"[P12]
-5. There was a wide range in how the word "request" was interpreted.
-
-### Immediate care alerts
-
-1.  All participants understood the scheduling tool is not meant for emergency care however, when given the scenario that they have had a fever for 3 days and were not getting better, it was less clear if they would be able to get an appointment immediately using this tool. "I would also go, probably to start scheduling to see what I can find if I can find an immediate option." [P1]
-2.  Some participants expressed frustraition due to an overuse of the alerts [P4, P5, P7, P8].
 
 
 ## Who We Talked To
