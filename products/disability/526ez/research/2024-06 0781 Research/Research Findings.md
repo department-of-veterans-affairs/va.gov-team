@@ -10,6 +10,9 @@ Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ry
 
 **Jump to:**
 
+- [Background] (#background)
+- [Research Goals and Hypotheses] (#research-goals-and-hypotheses)
+- [Research Questions] (#research-questions)
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
@@ -31,7 +34,7 @@ We are translating these updates to the digital 0781, which is embedded within t
 
 [0781 Discovery Mural with mapping to older form versions](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710425395956/4f0a397015bbcaadd1a421ed60e8d8e185cf1b12?sender=udbd39c1bbebb4ec4d7d08829url)
 
-! [] ()
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Background.png)
 
 ## Research Goals and Hypotheses
 Based on prior research and the discovery on the new form, we identified three research goals:
@@ -46,7 +49,6 @@ Based on prior research and the discovery on the new form, we identified three r
 
 - Goal 3: Understand whether Veterans feel supported and heard through the claim process.
    - H1: New instructions, examples, and support alerts on every page will increase a sense of safety and provide relevant assistance as the Veteran navigates the form. 
-
 
 ## Research Questions
 
