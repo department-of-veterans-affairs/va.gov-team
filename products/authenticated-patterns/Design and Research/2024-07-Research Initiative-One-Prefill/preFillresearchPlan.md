@@ -95,18 +95,13 @@ We are looking for 8 Veterans to participate in this study. We’ll use a lean m
 ### Recruitment criteria
 10 Veterans (includes a 25% over recruit)
 
-### Screener
-*Primary Criteria*
+### Screener Questions
 
-Users who are able to navigate web spaces on their mobile device:
-
-*“Are you able to login to your mobile phone to navigate websites and willing to conduct this test on your mobile device?”*
-
-*"Are you willing to share over Zoom a web browser window on your device?"*
-
-*"Do you have a working microphone on your device?"*
-
-*"Can you have Zoom downloaded to your device prior to the session and know how to share your screen?"*
+1. “Are you able to login to your mobile phone to navigate websites and willing to conduct this test on your mobile device?”
+2. "Are you willing to share over Zoom a web browser window on your device?"
+3. "Do you have a working microphone on your device?"
+4. "Can you have Zoom downloaded to your device prior to the session and know how to share your screen?"
+5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
 
 |# of participants|Criteria|
 |:--|:--|
