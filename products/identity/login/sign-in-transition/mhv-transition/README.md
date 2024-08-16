@@ -10,4 +10,4 @@ The OCTO Identity Crew will facilitate and support this transition with a strate
 * Resources, education, and in-person support
 * Internal change management
 * Incremental UI and technology changes
-* [Analytics and data](./data/README.md)
+* [Data and analytics](./data/README.md)
