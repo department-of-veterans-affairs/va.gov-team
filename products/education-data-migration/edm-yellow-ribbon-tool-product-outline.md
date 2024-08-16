@@ -146,6 +146,8 @@ Add conversion FYI to identify that foreign currency has already been converted 
 ## Screenshots
 
 ### Before
+![YRT 1](https://github.com/user-attachments/assets/b023c285-4ee8-4b08-8ec1-62a84e1a99f6)
+![YRT 2](https://github.com/user-attachments/assets/32ab6f6b-e1b1-4b99-8c83-8e20d5c24196)
 
 ### After
 N/A
