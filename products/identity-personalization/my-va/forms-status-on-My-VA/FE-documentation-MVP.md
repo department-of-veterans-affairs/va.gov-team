@@ -211,7 +211,7 @@ If you have questions, call us at 800-827-1000 (TTY: 711). We’re here Monday t
 
 **Below the card**
 
-"If you can't find your application or form" accordion (the 'If you can't find your application or form' section on this page has more details).
+"If you can't find your application or form" accordion (see [expanded content for 'If you can't find your application or form'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/FE-documentation-MVP.md#expanded-state) section on this page for more details).
 
 #### **Content specs**
 
@@ -266,7 +266,7 @@ If you have questions, call us at 800-827-1000 (TTY: 711). We’re here Monday t
 
 **Below the card**
 
-"If you can't find your application or form" accordion (the 'If you can't find your application or form' section on this page has more details).
+"If you can't find your application or form" accordion (see [expanded content for 'If you can't find your application or form'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/FE-documentation-MVP.md#expanded-state) section on this page for more details).
 
 #### **Content specs**
 
