@@ -41,11 +41,11 @@ This uploader tool will live within each about-a-form page for which it is avail
 
 ### Sub-URLs
 
-- www.va.gov/find-forms/about-form-[#]/upload-form/**veteran-information/**
-- www.va.gov/find-forms/about-form-[#]/upload-form/**veteran-identification/**
-- www.va.gov/find-forms/about-form-[#]/upload-form/**file-upload/**
-- www.va.gov/find-forms/about-form-[#]/upload-form/**review-and-submit/**
-- www.va.gov/find-forms/about-form-[#]/upload-form/**confirmation/**
+- www.va.gov/find-forms/about-form-[#]/upload-form/veteran-information
+- www.va.gov/find-forms/about-form-[#]/upload-form/veteran-identification
+- www.va.gov/find-forms/about-form-[#]/upload-form/file-upload
+- www.va.gov/find-forms/about-form-[#]/upload-form/review-and-submit
+- www.va.gov/find-forms/about-form-[#]/upload-form/confirmation
 
 
 ## <a name="nav"></a>Entry points <br>
