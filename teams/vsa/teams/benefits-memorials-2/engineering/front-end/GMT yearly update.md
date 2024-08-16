@@ -2,6 +2,29 @@
 ## What is this?
 This document provides context and instructions on how to update the GMT year for the [Financial Status Report (Form 5655)](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction).  
 
+## Table of Contents
+1. [What you came here for](#what-you-came-here-for)
+2. [Background](#background)
+3. [Resources](#resources)
+
+
+## What you came here for
+### The business process
+The two major players for us are our downstream partners at the VHA, and the team that manages the Income Limits database. 
+
+1. Coordinate with downstream partners at VHA (usually via our PO) to confirm they are ready to start using the new year GMT data.
+2. Contact the Income Limits team at [#sitewide-public-websites](https://dsva.slack.com/archives/C52CL1PKQ) on **Office of CTO @ VA Slack** to confirm the database has been updated with the new year data.
+3. Follow instructions in the next section ([The `code` update](#the-code-update)) to update the GMT year in FSR.
+4. Monitor Sentry for GMT related errors (see [Monitoring](#monitoring)), and confirm valid submisisons with downstream partners. 
+
+### The `code` update
+Updating the GMT year is pretty straightforward in the FSR, all of the relevant actions for fetching GMT data can be found in [geographicMeansThreshold.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/actions/geographicMeansThreshold.js). **The necessary update is just changing the `GMT_YEAR` constant to the new calendar year.** 
+#### Note: 
+Generally the year that is passed in is the calendar year (which pulls the previous fiscal year's calculations iirc). The income limits app does [a little -1 to the year in an internal process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/engineering/technical-architecture.md#geographic-means-test-gmt-threshold). It's best to spot check some different zip codes and number of dependents to confirm the data is there, and you can hit the URL directly (`/income_limits/v1/limitsByZipCode/${zipCode}/${GMT_YEAR}/${dependents}`) with some examples if you want to confirm with VHA the numbers match. 
+
+### Monitoring
+We have Sentry logging set up (in [geographicMeansThreshold.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/actions/geographicMeansThreshold.js#L108-L111) to notify us if we get funky responses from the income limits endpoint. You can search by keyword `income_limits failed:`. 
+
 ## Background
 The Financial Status Report (FSR) is for Veterans or service members who need help with debt related to VA benefit overpayments or health care copays. We have implemented a 'streamlined' version of the form, so veterans who meet specific criteria are not required to complete the entire form as a means to ease the stress and cognitive burden. 
 
@@ -11,20 +34,6 @@ These criteria for the streamlined version are set by our downstream partners (c
 The in depth process flow for GMT data moves from HUD -> VES -> CSV -> Income Limits database (based on an [initial convo](https://dsva.slack.com/archives/C52CL1PKQ/p1694702514600379) with the site wide public websites team). The Income Limits database is set up to serve the [Income Limits application](https://www.va.gov/health-care/income-limits/introduction), and the FSR leverages their database because it's the most digestible version of the data for our purposes. 
 
 This flow is what makes things a little tricky for the update. The HUD updates based on previous fiscal year data, and that takes time to process and get approved, so the official numbers take a while to trickle down to the point where it's available to us. I'm not going to pretend to have a grasp on it, and I'm not sure it's completely relevant for this document, but context can be helpful. Point is, it'll be a good idea to conform with all parties we have access to, and are using the correct data. 
-
-## What you actually came here for
-### The business process
-The two major players for us are our downstream partners at the VHA, and the team that manages the Income Limits database. 
-
-1. Coordinate with downstream partners at VHA (usually via our PO) to confirm they are ready to start using the new year GMT data.
-2. Contact the Income Limits team to confirm the database has been updated with the new year data.
-3. Update FSR to use new year when pulling data from Income Limits endpoint when VHA is also ready to start using the new caluclations
-
-### The `code` update
-Updating the GMT year is pretty straightforward in the FSR, all of the relevant actions for fetching GMT data can be found in [geographicMeansThreshold.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/actions/geographicMeansThreshold.js). **The necessary update is just changing the `GMT_YEAR` constant to the new calendar year.** 
-#### Note: 
-Generally the year that is passed in is the calendar year (which pulls the previous fiscal year's calculations iirc). The income limits app does [a little -1 to the year in an internal process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/engineering/technical-architecture.md#geographic-means-test-gmt-threshold). It's best to spot check some different zip codes and number of dependents to confirm the data is there, and you can hit the URL directly (`/income_limits/v1/limitsByZipCode/${zipCode}/${GMT_YEAR}/${dependents}`) with some examples if you want to confirm with VHA the numbers match. 
-
 
 ## Resources
 Here's a pile of links with hopefully relevant resources if you're into that kind of thing
