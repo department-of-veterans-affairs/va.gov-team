@@ -1,10 +1,10 @@
 # Research Plan for AEDP Prefill Study, July 24, 2024
 ### Q4 2024
 ## Background
-A variety of digital products within the authenticated VA.gov experience provide a service to users that prefill some of their existing profile information in order to save them time and energy. Our team is tasked with reviewing current or potential VADS design patterns to improve guidance around their implementation for consistency and ease of use across the different use cases on VA.gov. We have researched how this pattern has been used so far across the site, and would like to test some of the different variations we have seen implemented to find the best possible solution for the widest audience.
+A variety of digital products within the authenticated VA.gov experience provide a service to users that prefill some of their existing profile information in order to save Veterans' time and energy. Our team is tasked with reviewing current or potential VADS design patterns to improve guidance around their implementation for consistency and ease of use across the different use cases on VA.gov. We have researched how this pattern has been used so far across the site, and would like to test some of the different variations we have seen implemented to find the best possible solution for the widest audience.
 
 Some of the variations we plan to test include:
-- Location of the prefill alert (Intro page vs Form pages)
+- Location and frequency of the prefill alert
 - Display style of both locked and editable data sets (Address vs Gray Box)
 - Location where updated data is saved (Profile vs Form)
 
@@ -17,7 +17,7 @@ This work supports the [OCTO Objective 3.](https://github.com/department-of-vete
 
 ## Research Goals	
 Goals for this research include:
-- Understand how and when users need the prefill alert to appear.
+- Understand where and when users need the prefill alert to appear.
 - Understand how users expect the prefilled data to display.
 - Understand users' expectations around why certain data can be edited within their profile and other data cannot.
 - Understand how users expect the edit process to work, where they expect their edits to get saved, and if they want to be asked where to save their data.
@@ -31,13 +31,12 @@ This research will help us refine these patterns and to feel confident in our re
 
 
 ### Research questions
-We will guide participants to complete the tasks using a think-aloud method. We will start with broader questions, then ask more specific questions as needed to get the data we are seeking.
+We will guide participants to complete the tasks using a think-aloud method.
 
-*Goal 1: Understanding how and when users expect the prefill alert to appear.*
+*Goal 1: Understanding where and when users expect the prefill alert to appear.*
 - Does the prefill alert in the unauthenticated experience entice them to sign in to complete the form?
 - Where do they expect the prefill alert message to be located once they are authenticated?
 - In what variation do they notice the prefill alert? Top of page? On the step pages?
-- Do they notice other alerts while the prefill alert is on the same page?
 - Does bolding the word ‘note’ make an impact on whether they will read the information?
 
 *Goal 2: Understanding how users expect the prefilled data to display.*
@@ -46,24 +45,22 @@ We will guide participants to complete the tasks using a think-aloud method. We 
 
 *Goal 3: Understand users' expectations around why certain data can be edited within their profile and other data cannot.*
 - How do they feel about the ability to edit some data but not others?
-- Is it clear how to edit data within the form? Is it clear how to edit data that is not editable within the form?
+- Is it clear how to edit data within the form? Is it clear how to edit data that is not editable on VA.gov?
 - Does the user understand why some data is not editable?
-- Does having some data protected increase user trust in VA handling of PII?
+- Does the explanation for why we limit edits to some user data increase user trust in VA?
 
 *Goal 4: Understand how users expect the edit process to work and where they expect their edits to get saved.*
-- What do they think happens when they save their information?
 - Where do they think the new information gets saved? (profile vs form)
 - Would they ever want to choose where this information gets saved? 
 - Which type of prefilled data display do they prefer to see on the edit page? (in-field vs gray box)
-- What kind of confirmation message do users expect after they have saved their data?
+- What content do users expect to see in the confirmation message after they have saved their data?
 
 ### Hypothesis
 Location of the prefill alert (Intro page vs Form pages):
 - The prefill alert on the front page will entice the user to login for a more convenient experience.
 - Bolding “note” in the prefill alert messaging will help users see a block of text quicker.
 - Users will more easily notice the intro prefill alert when it’s at the top of the page.
-- The user will experience alert exhaustion because of how frequent alerts are displayed in the pilot and possibly the wider VA experience.
-- We will learn that the under only needs the prefill alert on the intro page.
+- We will learn that the user only needs the prefill alert on the intro page.
 
 Display style of both locked and editable data sets (Address vs Gray Box):
 - The users will prefer the address component over the gray box for the locked data.
@@ -71,13 +68,12 @@ Display style of both locked and editable data sets (Address vs Gray Box):
 Location where updated data is saved (Profile vs Form):
 - Users understand why we limit in screen edits for some types of data and find the messaging around this reason to be sufficient.
 - As long as the data is going back to their profile, they will not want to be asked if it is ok to update their profile.
-- Users will prefer to see the gray box with their current data that they are editing on the same screen while they are editing.
+- Users will prefer to see in field data instead of the locked gray box displaying their current data while they are editing.
 - Users want to be informed if their data is not updating to their profile.
-- The confirmation alert will help users understand when their profile has been updated.
-
+- The confirmation alert will help users understand when their data has been updated.
 
 ## Method	
-We will perform usability testing on three scenario-based concept tests - appropriate for evaluating structured design maturity. We will use the think-aloud format so that we can evaluate how the user is responding to the design as they perform a task we give them. We will show the three concepts to each participant and change the order of concepts shown to avoid the first view bias.
+We will perform usability testing on three scenario-based concept tests - appropriate for evaluating structured design maturity. We will use the think-aloud format so that we can evaluate how the user is responding to the design as they perform a task we give them. We will show the three tasks to each participant and change the order of the tasks shown to avoid the first view bias.
 
 **Note:** This may change to two concepts per participant if we find that three are too many flows to show each participant.
 
@@ -94,10 +90,10 @@ Prototype (to be added)
 
 ### Recruitment approach
 
-We are looking for 12 Veterans to participate in this study. We’ll use a lean maximum strategy for inclusivity, targeting 3 demographic criteria (age, gender, race) as primary sample distribution criteria, and race/ethnicity as a secondary sample distribution criteria.
+We are looking for 8 Veterans to participate in this study. We’ll use a lean maximum strategy for inclusivity, targeting 3 demographic criteria (age, gender, race) as primary sample distribution criteria, and race/ethnicity as a secondary sample distribution criteria.
 
 ### Recruitment criteria
-X Veterans (includes a 25% over recruit)
+10 Veterans (includes a 25% over recruit)
 
 ### Screener
 *Primary Criteria*
@@ -112,31 +108,33 @@ Users who are able to navigate web spaces on their mobile device:
 
 *"Can you have Zoom downloaded to your device prior to the session and know how to share your screen?"*
 
-- At least x but no more than x Veterans who identify as a gender other than male. 
-- At least x but no more than x Veterans over 65 years old.
-- At least x Veterans under 35 years old.
-
-*Secondary Criteria*
-
-- At least x Veterans who are not White/Caucasian.
-
+|# of participants|Criteria|
+|:--|:--|
+|Exactly 10|Are Veterans|
+|Exactly 10|Are willing to join from a mobile device|
+|At least 5|Are over 55 years old|
+|At least 4|have a cognitive disability or consideration|
+|At least 3|Identify as a gender other than male|
+|At least 2|Are under 35|
+|At least 1|Are rural|
 
 ## Timeline
+Request Kickoff call with Perigean on August 20th or 23rd
 
 ### Prepare
 **When will the thing you are testing be finalized?**
 
-Monday, August 12th
+Monday, August 19th
 
 **Pilot session information**
 
-- Pilot participant email: TBD
-- Date and time of pilot session: TBD
+- Pilot participant email: Alexandria.parker@agile6.com
+- Date and time of pilot session: Tuesday 27th at 4pm ET.
 
 ### Research sessions
 **Planned dates of research:**
 
-- Planned dates of research: Aug 26th - 30th 
+- Planned dates of research: September 3rd - 9th 
 
 ### Length of sessions
 
@@ -144,9 +142,23 @@ Monday, August 12th
 - Buffer time between sessions: 30 minutes
 - Maximum sessions per day: 3
 
-
 ### Availability
-TBD
+
+|Date|Timeslots (EST)|
+|:--|:--|
+|Tuesday September 3rd|10:30am-11:30am, 2pm-5pm|
+|Wednesday September 4th|10:30am-1:30pm|
+|Thursday September 5th|10:30am-5pm|
+|Friday September 6th|10:30am-5pm|
+|Monday September 9th| 2pm-5pm|
+|Tuesday September 10th| 10:30am-11:30am, 2pm-5pm|
+
+Tues Sept 3rd - 10:30-11:30, 2-5
+Wed Sep 4 - 10:30-1:30
+Thurs Sep 5 - 10:30 - 5
+Fri Sep 6 - 10:30-5
+Mon Sep 9 - 2 - 5
+Tues Sept 10th - 10:30-11:30, 2-5
 	
 ## Team Roles	
 Below is the list of the people serving in each role and their contact information:
@@ -159,11 +171,10 @@ Below is the list of the people serving in each role and their contact informati
 - Note-takers: Christine Steiffer, Morgan Jones, Lynn Stahl
 - Observers: Lynn Stahl, Adam Whitlock, Belle P, Becky Phung, Alex Parker, Matt Dingee, Kevin Hoffman PLUS additional members from teams who are using or are interested in using the latest prefill recommendations (Pension Benefits, Decision Reviews, Ask VA, CHAMPVA, CAIA, etc)
 
-Contact info:
-
+*Contact info:*
 - Morgan Jones - 	morgan.jones@adhocteam.us        415-300-6962
 - Christine Steiffer - 	christine.steiffer@agile6.com 	571-282-9104
-- Lynn Stahl
-- Adam Whitlock
-- Belle Poopongpanit	
-- Becky Phung
+- Lynn Stahl - lynn.stahl@agile6.com
+## Approved by:
+Becky Phung, PO on:
+Shane Strassberg, VA Research Ops:
