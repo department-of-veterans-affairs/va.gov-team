@@ -76,11 +76,11 @@ ________________________________________________________________________________
        - 🟨 [Create tickets to implement recommendations from research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88891)
        - 🟥 Meet with Melissa and Peter to cross-share findings and determine what design or content is needed as a result of their findings
        - 🟨 Schedule research findings readout to OCTO, VSS, EPS
-       - 🟨 [[Create ED ticket for filtering] Several teams have been working on "filters" for content. We really do not have a great pattern. I would suggest you submit this to experimental design.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85515)
+       - ✔️ 🟨 [[Create ED ticket for filtering] Several teams have been working on "filters" for content. We really do not have a great pattern. I would suggest you submit this to experimental design.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85515)
     - **Sub Goal: [Feature] Call Search a Patient's Appts API from WellHive to know if any appts need to be displayed on a patient's Upcoming Appts page**
        - 🟦 [[Eng] Create code to handle not double booking an appt at the same time](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89730)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-       - 🟥 Attend Design Office Hours for date and time picker component error
+       - ✔️ 🟥 Attend Design Office Hours for date and time picker component error
        - ✔️ 🟥 [Move annotations in MVP page to specs page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88026)
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
       - ✔️ 🟥 [Determine "cancelation" of cc direct scheduled appt feature](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84023)
