@@ -108,22 +108,20 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 **Shane Elliott** | VA OCTO | Senior Information Technology Specialist
 **William “Andy” Mccarty** | VA OCTO | Software Developer 
 **Allison Schulhof** | Oddball | Program Manager 
-**Justin Wowk** | Oddball (DocMe360) | Product Manager - VEText/AVS
-**Lindsay Insco** | Oddball | Product/ATO Lead 
+**Justin Wowk** | Oddball (DocMe360) | Product Manager
 **Lindsay Sprinkle** | Oddball | Product Manager 
 **Katie Roach** | Oddball | Delivery Manager 
 **Lee DeBoom** | Oddball | Engineering Lead 
-**Chris Horton** | Oddball | Senior Product Manager - PCI
-**Fred Sidoti** | Oddball (Cerner) | Training Specialist 
+**Chris Horton** | Oddball | Senior Product Manager
+**Jeremy Britt** | Oddball | 
 **Ari Hicks** | Oddball (Fearless) | Content Strategist 
-**Crystal Jones** | Oddball | Data Analyst 
-**Jayme Cokerk** | Oddball (The So Company) | Tier 1 Helpdesk 
+**Jonathan Esteban** | Oddball | Data Analyst 
+**Zach Epstein** | Oddball (The So Company) | Tier 1 Helpdesk 
 **Richard "Chance" Cusack** | Oddball (The So Company) | Tier 2 Helpdesk 
 **Ambes Debretson** | Oddball (DocMe360) | Tier 3 Helpdesk
 **James Clarey** | Oddball | Tier 3 Helpdesk
 **Peter Olabowale** | Oddball (Fearless) | Site Reliability Engineer 
-**Nicholas Henning** | Oddball | Production Support Engineer  
-**Paras Shah** | Oddball (DocMe360) | Advisor, VA Digital Notifications 
+**Nicholas Henning** | Oddball | Production Support Engineer
 
 
 # Projects
@@ -132,7 +130,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 ### Current Uses
 |**Use Case**|**Description**|
 |--|--|
-|[**Appointment Reminders**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Wiki/gen_appointments.aspx)|Sends customizable reminders to Veterans of upcoming appointments via text messaging and provides a quick and easy way to confirm or cancel appointments.|
+|[**Appointment Reminders**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Wiki/gen_appointments.aspx)|Sends reminders to Veterans of upcoming appointments via text messaging and provides a quick and easy way to confirm or cancel appointments. New in 2024: support for Federal EHR sites.|
 |[**Open Slot Management**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Open-Slot-Management-Tab.aspx)|Allows Veterans meeting certain criteria to reschedule their VA health care appointment (via SMS) for an earlier slot. Reduces wait time, missed, and cancelled appointments and allows for more efficient appointment management for administrators and VA Health Centers.|
 |[**Community Care Appointment Communication**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Community-Care-Appointment-Reminders.aspx)| Texts Veterans in a variety of scenarios around Community Care appointments
 |[**Pharmacy Tracking**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Pharmacy-Notifications.aspx)|Sends shipment tracking information text to veterans once their medication has shipped
@@ -141,24 +139,26 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 |[**Emergency Management Notifications**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Emergency-Management-User-Guide.aspx)|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
 |[**Patient Tracking**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Wiki/pt_home.aspx)|Patient Tracking is a tool to assist facilities during the check-in process with physical distancing for face-to-face appointments.|
 |[**Clinic Cancellations**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Clinic-Cancellations.aspx)|VEText allows cancelling appointments by clinic and notifying all affected Veterans by text message of the cancellations. Useful when a clinic needs to cancel all or part of its schedule, such as inclement weather or a clinician is unavailable.|
+|[**Attempt to Schedule**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Direct-Care-Attempt-to-Schedule.aspx)|Sends text message to Veteran asking them to call a number to schedule their appointment.
 
 
 ### Future / Proposed Uses
 |**Use Case**|**Description**|
 |--|--|
-|[**Cerner Integration**]|Adds support for utilizing VEText at sites that have migrated from VistA to Cerner.
-|[**Call to Schedule**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/36721)|Sends text message to Veteran asking them to call a number to schedule their appointment.
-|[**Prevention of Readmission**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/56241)|Sends follow up messages after discharge to check on patient status in hopes of preventing re-admission. 
+
 |[**Appointment Reminder Rescheduling**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/49201)|When Veteran's recieve an appointment reminder, they will have a new option to communicate their desire to reschedule vs. cancel.
 
 ### VEText Components
 |**Use Case**|**Description**|
 |--|--|
-|[**VEText Portal**](https://portal.vetext.va.gov)|The UI that VA Health Center administrators interact with to initiate VEText messages. 
+|[**VEText VistA EHR Portal**](https://portal.vetext.va.gov)|The UI that VA Health Center administrators interact with to initiate VEText messages for VistA EHR facilities. 
+|[**VEText Federal EHR Portal**](https://ng.vetext.va.gov/)|The UI that VA Health Center administrators interact with to initiate VEText messages for Federal EHR facilities. 
 
 # Additional Documentation
 
-- [Sharepoint](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx)
+- [VEText VistA EHR Sharepoint](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx)
+- [VEText Federal EHR Sharepoint](https://dvagov.sharepoint.com/sites/vhavetext/federalehr)
 - [Zenhub Board](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/board?filterLogic=any&repos=133843125&showPRs=false)
-- [Metrics](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/8cc61e82-98c2-4835-8f88-f173cee9d9df/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
+- [VEText VistA EHR Metrics](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/8cc61e82-98c2-4835-8f88-f173cee9d9df/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
+- [VEText Federal EHR Metrics](https://app.powerbigov.us/groups/me/apps/59791a0e-e620-4ca2-a3ee-eaafe35f94d4/reports/b61e4526-6e30-4849-b729-c4191d9cd695/ReportSection?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
  - Slack: #notifications-vetext
