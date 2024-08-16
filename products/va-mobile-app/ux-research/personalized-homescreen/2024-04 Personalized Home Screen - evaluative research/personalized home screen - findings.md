@@ -401,16 +401,16 @@ Participants thought it was helpful to have access to features from the home scr
 A deeper dive on the usability of each task:
 * **Secure message** (1 participant):
 Task prompt: Find out if you have received a message from your doctor.
-      * Only 1 participant had an active secure message, but they expected to tap the home screen entry point & see their messages list (and successfully used this method to begin the task).
+  * Only 1 participant had an active secure message, but they expected to tap the home screen entry point & see their messages list (and successfully used this method to begin the task).
 
 * **Appointments** (3 participants):
-  Task prompt: Double check the time of your upcoming doctor's appointment.
-      * All of the 3 participants who had Appts as their task expected to tap the homescreen entry point & see their appts list (and successfully used this method to begin the task).
+  Task prompt: Double check the time of your upcoming doctor's appointment.  
+  * All of the 3 participants who had Appts as their task expected to tap the homescreen entry point & see their appts list (and successfully used this method to begin the task).
 
 * **Prescriptions** (8 participants):
-  Task prompt: Check whether you have any prescriptions that need to be refilled.
-      * All of the 8 participants who had prescriptions as their task expected to tap the home screen entry point & see their prescriptions (and successfully used this method to begin the task).
-      * 5/8 participants expected the prescriptions list to show ONLY the refillable prescriptions, not all of them (the module linked to the full active prescriptions list): 
+  Task prompt: Check whether you have any prescriptions that need to be refilled.  
+  * All of the 8 participants who had prescriptions as their task expected to tap the home screen entry point & see their prescriptions (and successfully used this method to begin the task).  
+  * 5/8 participants expected the prescriptions list to show ONLY the refillable prescriptions, not all of them (the module linked to the full active prescriptions list):  
      > “the active prescriptions... that ended up being misleading. like at first I would have said, 'Oh, that's great! I can see how many prescriptions I have going.' But once I clicked on it, then I was confused and didn't understand what it was even referring to for active prescriptions.“ P4
 
      > “Home said 11, but then I just see all of them so I don't know which ones I should refill.“ P5
@@ -422,10 +422,10 @@ Task prompt: Find out if you have received a message from your doctor.
 
 * **Claims** (10 participants):
   Task prompt: Check the status of your open disability claim/appeal
-      *   Claims was the first task involving the Activity section for all participants.
-      *   9/10 participants who had Claims on their home screen initially expected to tap the home screen entry point & see their claims (and successfully used this method to begin the task). 
-      *   1 participant reached the claims list via the category screen. After being asked to consider the homescreen entry point later, they were pleasantly surprised and used Activity section modules for subsequent tasks: “It got me there a lot faster.“ P1
-      *   Several participants also noticed the benefits tab and identified it as another way to reach claims, describing it as “the long way“ (P2).
+  *   Claims was the first task involving the Activity section for all participants.
+  *   9/10 participants who had Claims on their home screen initially expected to tap the home screen entry point & see their claims (and successfully used this method to begin the task). 
+  *   1 participant reached the claims list via the category screen. After being asked to consider the homescreen entry point later, they were pleasantly surprised and used Activity section modules for subsequent tasks: “It got me there a lot faster.“ P1
+  *   Several participants also noticed the benefits tab and identified it as another way to reach claims, describing it as “the long way“ (P2).
 
 **About you section - Usability:**
 
