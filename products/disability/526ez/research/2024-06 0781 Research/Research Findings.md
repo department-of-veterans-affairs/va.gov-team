@@ -1,16 +1,12 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# Form 0781 Updates Concept Testing and User Research Findings 
 
----
+**Office of the CTO - Digital Experience (OCTO-DE), 526EZ, Disability Benefits Experience Team 2
 
-# [Study] Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+Date: August 15, 2024
 
-Date: MM/DD/YYYY
+Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ryu (jina.ryu@va.gov), and Nichole Nicholas (nichole.nicholas@coforma.io)
 
-[Designer 1] [email], [Designer 2] [email]
-
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
 **Jump to:**
 
@@ -20,27 +16,61 @@ _Once you've presented your research readout to your team, if you have a deck, i
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
+## Background 
+VA released the new Form 21-0781 Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event (s) this year, which is a combination of two previous VA forms:
+- Form 0781 Statement in Support of Claim for Services Connected for PTSD, and…
+- VA Form 0781a Statement in Support of Claim for Service Connected for PTSD Secondary to Personal Assault
 
-## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+The biggest changes to the form included:
+- Expansion to include not just PTSD, but other mental health conditions linked to a traumatic in-service event
+- Addition of treatment details and supporting evidence types
+- Removal of many now unnecessary fields
+- Addition of examples that model the required level of detail (shifting towards more brief descriptions of the trauma)
 
-_Then, describe your goals for this research_
+We are translating these updates to the digital 0781, which is embedded within the authenticated 526EZ. We are not currently working on a stand-alone digital version of the form.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
+[0781 Discovery Mural with mapping to older form versions](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710425395956/4f0a397015bbcaadd1a421ed60e8d8e185cf1b12?sender=udbd39c1bbebb4ec4d7d08829url)
 
+! [] ()
+
+## Research Goals and Hypotheses
+Based on prior research and the discovery on the new form, we identified three research goals:
+- Goal 1: Understand which placement of the new 0781 within the 526 works better, particularly as it relates to evidence.
+   - H1: Veterans will be able to easily orient themselves to start and exit the 0781 with the new content on transitional pages.
+   - H2: Veterans will be able to understand that there are two evidence upload sections within the form, and correctly identify what should be provided in each. 
+   - H3: The new alerts and inclusion of previously uploaded documents will help the Veteran understand why they are asked for evidence twice, and prevent duplicate entries.
+ 
+- Goal 2: Understand whether the event flow works for all Veteran experiences: reporting singular events, multiple related events, ongoing events, and so on.
+   - H1: New instructions and examples will make it more clear to Veterans how they can describe their experience accurately and with an appropriate level of detail.
+   - H2: Form updates will help clarify VA’s definitions while accounting for the Veteran’s mental models and guiding them to enter information needed for a successful outcome.
+
+- Goal 3: Understand whether Veterans feel supported and heard through the claim process.
+   - H1: New instructions, examples, and support alerts on every page will increase a sense of safety and provide relevant assistance as the Veteran navigates the form. 
 
 
 ## Research Questions
 
-_Research questions here_
+- Goal 1: Understand if the placement of the new 0781 form within the 526, particularly as it relates to evidence (which also appears in Step 3 for other conditions) aligns with the Veterans’ mental model. 
+   - How well are Veterans able to orient to the ancillary form and understand when they are starting and exiting the 0781? 
+      - Does the content on transitional pages into and out of the 0781 flow provide enough context for Veterans when navigating the form?
+      - Does the “opt-in” approach work for Veterans with a variety of condition types? Or should we reconsider automatically routing some conditions to the 0781?
+- Will Veterans be confused by having two separate evidence upload sections within the form? 
+   - Does new messaging in the Step 3 evidence section showing what was already uploaded address this?
+- Would Veterans prefer to upload one file at a time, or all documents together on one page? Will they be able to follow the headings that indicate which type they are uploading on each page?
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
+- Goal 2: Understand whether the event flow works for all Veteran experiences: reporting singular events, multiple related events, ongoing events, and so on.
+   - Do Veterans understand which event type(s) to choose based on the content provided? 
+   - Will Veterans understand how to report singular events, multiple related events, ongoing events, and so on?
+   - Are the new examples provided in the form helpful in orienting Veterans to the level of detail required, and lightening the burden of filling out this section?
+   - Will the distinction between conditions and events be understandable, or should we explore adding MST as a condition (in collaboration with the contention classification team)?
 
+- Goal 3: Understand whether Veterans feel supported and heard through the claim process.
+   - Will adding support alerts to every page increase a sense of safety and provide relevant assistance as the Veteran navigates the form? Will they be distracting? 
+   - Where in the form process will Veterans look for support messaging?
+   - How can we align the support content with Veteran needs (e.g. desire for anonymity)?
+- Are there specific aspects of the claim process where Veterans feel less heard in the process?
+- Are the new instructions and examples provided in the form helpful in orienting Veterans to the level of detail required, and lightening the burden of filling out those sections?
 
-* Question 
-* Question
-* Question
 
 ## Methodology 
 
