@@ -141,7 +141,8 @@ Continue your application (linked to saved application)
 #### How does an application in progress end up showing in a card on My VA?
 
 - Forms and applications must be configured using the Save in progress (SiP) configuration as outlined on the [Platform website](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) 
-- Applications expire after 60 days of inactivity. The draft is no longer available. Veteran must restart the application/form.
+- Most applications expire after 60 days of inactivity. The draft is no longer available. Veteran must restart the application/form.
+- There are exceptions to the 60 day rule which include: the 526 (1 year), ...
 
 ---
 
