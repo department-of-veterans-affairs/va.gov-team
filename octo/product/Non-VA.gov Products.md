@@ -18,5 +18,7 @@ This list comprises products that are not built on VA.gov, but provide value in 
 
 
 ### These products are no longer in production on VA.gov. 
+|Product Name| OCTO Crew| OCTO Product Owner| Product Manager| Product Outline |
+|---|---|---|---|---|
 | Digital Health Platform | Health | Stefany Holguin | Kimberly Roberts | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/b5069a80fd6a9b990d263c690f76ff9058f2cae9/products/health-care/digital-health-platform) |
 | Long COVID | Health | Marian Adly | Zaheda Haidri | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/long-covid/README.md) |
