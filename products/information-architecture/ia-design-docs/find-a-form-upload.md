@@ -9,7 +9,8 @@ Product manager: Tricia Baker
 **Slack channel:**veteran-facing-forms
 
 **IA Request:** [81623](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/26?pane=issue&itemId=60919068)
-**IA Mural:** https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723739688312/66816378c17c92835f7a65108057fc255226cb10?sender=ua67f17f1c416a96ea04d2476
+
+**[IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723739688312/66816378c17c92835f7a65108057fc255226cb10?sender=ua67f17f1c416a96ea04d2476)** 
 
 **On this page:**
 - [User/page flows](#flows)
