@@ -72,8 +72,8 @@ Select all that apply.
 
 ### Collaboration cycle ticket 
 
-If you’re going through the collaboration cycle, provide your ticket number and link:
-- **Ticket Number:** `xxxxxx`
+If you’re going through the collaboration cycle, provide a link to your Collaboration Cycle Request:
+- **Hyperlinked Ticket Number:** 
 
 ## Supporting artifacts
 Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. Include artifacts like your product outline, user flows, mockups and prototypes, or any draft content.
