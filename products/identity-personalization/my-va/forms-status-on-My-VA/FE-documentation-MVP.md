@@ -316,6 +316,10 @@ Submission failed on: Monday Day, Year
 
 We're sorry. There was a problem with our system. We couldn't process this form. Call us at 800-827-1000 (TTY: 711). We're here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
+**Below the card**
+
+"If you can't find your application or form" accordion (see [expanded content for 'If you can't find your application or form'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/FE-documentation-MVP.md#expanded-state) section on this page for more details).
+
 #### **Content specs**
 Figma file (with content supplied by CAIA):
 - [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
