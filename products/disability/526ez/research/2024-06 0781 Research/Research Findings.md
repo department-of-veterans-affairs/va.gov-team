@@ -189,7 +189,7 @@ Ending: In Concept A, the conclusion of the 0781 is soft and ambiguous without c
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2019.png)
 
-##### Finding 2
+#### Finding 2
 
 Hypothesis: Veterans will be able to understand that there are two evidence upload sections within the form, and correctly identify what should be provided in each. 
 False 
@@ -212,7 +212,7 @@ In this context, “evidence” refers to the following:
 
 0781 also asks for more specifics on treatment facility type (Q13B) whereas 526 only asks if it was VA or private.
 
-##### Finding 3
+#### Finding 3
 **Concept A:
 Differentiating 526 and 0781 Evidence**
 
@@ -222,7 +222,7 @@ Along with the perceived redundancy between 526 and 0781 treatment records, part
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2021.png)
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2021.2.png)
 
-##### Finding 4
+#### Finding 4
 **Concept A:
 Differentiating 526 and 0781 Evidence (cont.)**
 
@@ -234,7 +234,7 @@ For the question about how to request medical records, one participant mentioned
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2022.png)
 
-##### Finding 5
+#### Finding 5
 **Conflation of 0781 Evidence Types**
 
 In the Concept A 0781 section, participants conflated medical records and supporting docs. Arriving at the lay statement upload page in the 0781, Veterans perceived this to be a place to upload all types of evidence. It wasn't clear to them that this page was only for uploading a lay statement. 
@@ -245,7 +245,7 @@ This was less of an issue for Concept B, because participants had already gone t
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2023.png)
 
-##### Finding 6
+#### Finding 6
 **Concept A:
 Evidence Placement**
 
@@ -258,7 +258,7 @@ Some expected the evidence to come closer to where they first entered the condit
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Screen%2024.png)
 
-##### Finding 7
+#### Finding 7
 **Concept B:
 Differentiating 526 and 0781 Evidence**
 All but one participant were unable to differentiate the 0781 form evidence pages from the pages in the other evidence section in the 526, and found the pages to be redundant. Confusion related to evidence encompassed treatment records, 4142,  as well as supporting documents.
@@ -272,7 +272,7 @@ Several participants (2) expressed the desire for one unified treatment records 
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2025.2%20.png)
 
-##### Finding 8
+#### Finding 8
 **Concept B:
 Complexity and Completion Anxiety**
 Only one participant managed to piece together the intent of 0781 pages in "additional forms" retroactively. However, upon realizing this was the intent of the form flow, they expressed wanting to review what was included in the previous evidence section to ensure that all the evidence intended for submission were accounted for. This feeling of completion anxiety was shared by several participants (2). 
@@ -284,7 +284,7 @@ Only one participant understood the blue alert in the supporting document page i
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2026.png)
 
-##### Finding 9
+#### Finding 9
 **Concept B:
 Foreshadowing, Confirmation Fatigue, and Anticipatory Frustration**
 3 of the 5 participants reviewing his concept had an overall feeling of confusion and frustration — stemming from the inclusion of the 0781, but, more across the 526 flow more broadly as well.  
@@ -300,7 +300,7 @@ This frustration was only amplified by an ambiguous understanding of what is req
 
 ### Goal 2: Understand whether the new event flow works for all Veteran experiences: reporting singular events, multiple related events, ongoing events, and so on.
 
-##### Finding 1
+#### Finding 1
 
 
 ## Key Findings
