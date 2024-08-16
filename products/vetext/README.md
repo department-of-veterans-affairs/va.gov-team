@@ -134,6 +134,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 |[**Open Slot Management**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Open-Slot-Management-Tab.aspx)|Allows Veterans meeting certain criteria to reschedule their VA health care appointment (via SMS) for an earlier slot. Reduces wait time, missed, and cancelled appointments and allows for more efficient appointment management for administrators and VA Health Centers.|
 |[**Community Care Appointment Communication**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Community-Care-Appointment-Reminders.aspx)| Texts Veterans in a variety of scenarios around Community Care appointments
 |[**Pharmacy Tracking**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Pharmacy-Notifications.aspx)|Sends shipment tracking information text to veterans once their medication has shipped
+|[**Pharmacy Window Pickup**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Window-Pickup-Notifications-For-Prescriptions.aspx)|Sends text to veterans once their medication is available to be picked up from the local facility
 |[**Surgery Notifications**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/Wiki/gen_surgery.aspx#surgery-notifications-tab)|Text notifications for family members of veterans in surgery who are not able to wait in the VA facility due to social distancing restrictions
 |[**Vaccine Outreach**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/COVID-19-Vaccine-Outreach.aspx)|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
 |[**Emergency Management Notifications**](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Emergency-Management-User-Guide.aspx)|Allows administrators to proactively text a batch of veterans to schedule an appointment. This is related both to Covid Vaccines and Flu Vaccines.
@@ -146,7 +147,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 |**Use Case**|**Description**|
 |--|--|
 
-|[**Appointment Reminder Rescheduling**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/49201)|When Veteran's recieve an appointment reminder, they will have a new option to communicate their desire to reschedule vs. cancel.
+|[**Appointment Reminder Rescheduling**](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/issues/gh/department-of-veterans-affairs/va.gov-team/49201)| When Veteran's recieve an appointment reminder, they will have a new option to communicate their desire to reschedule vs. cancel.
 
 ### VEText Components
 |**Use Case**|**Description**|
@@ -161,4 +162,4 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 - [Zenhub Board](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/board?filterLogic=any&repos=133843125&showPRs=false)
 - [VEText VistA EHR Metrics](https://app.powerbigov.us/groups/me/apps/edb20dd9-adff-4cdb-9e08-35ecc7e2ea94/reports/8cc61e82-98c2-4835-8f88-f173cee9d9df/ReportSection99642ad0ac7c70206011?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
 - [VEText Federal EHR Metrics](https://app.powerbigov.us/groups/me/apps/59791a0e-e620-4ca2-a3ee-eaafe35f94d4/reports/b61e4526-6e30-4849-b729-c4191d9cd695/ReportSection?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
- - Slack: #notifications-vetext
+ - Slack: [#notifications-vetext](https://dsva.slack.com/archives/C01D2T36XLL)
