@@ -381,94 +381,147 @@ Two participants thought the section was intended for reporting mental health ep
 
 
 ### Goal 3 Understanding whether Veterans feel supported and heard through the form.
+#### Finding 1
+**Hypothesis:** New instructions, examples, and support alerts on every page will increase a sense of safety and provide relevant assistance as the Veteran navigates the form. 
+
+_Definitely true_
+
+**Resource Page**
+At the beginning of the 0781, we include a page with information about mental health support resources. ~10 Veterans responded positively to this page. 2 Veterans especially liked the mention of discharge status.
+   "I like that, because a lot of these Veterans, especially if they're dishonorably discharged, don't think they can use these services." —P1
+   
+Only 2 Veterans expressed negative sentiments about this page. One felt the content was obligatory and nothing new or helpful, while the other expected this content to come at the end of the 0781.
+
+Veterans also offered some feedback on small improvements that could be made to this page, including:
+- Clarify if links will open in a new tab and not disrupt the form flow
+- Consider which phone lines will be most familiar (one Veteran expressed concern that older Veterans would be looking for a toll-free 800 number and might not be familiar with the 988 number)
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2036.png)
+
+#### Finding 2
+**Blue Support Alerts **
+~7 Veterans expressed a positive sentiment towards the blue alerts that contained the support information throughout the form. No one appeared distracted or confused by this new alert.
+
+**Mentions of breaks**
+Two Veterans expressed gratitude for the content encouraging breaks throughout the process. 
+
+Conversely, one Veteran perceived the amount of preparation and introductory content to be too much, and felt it made the process feel longer than necessary.
+
+- How might we… simplify the “foreshadowing” content so that Veterans receive the right amount of information to feel prepared without feeling overwhelmed?
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2037.png)
+
+#### Finding 3
+**Opportunities for additional support**
+**Where is support most needed?** Veterans overwhelmingly identified the narrative portion of the  0781 regarding experiences to be the place in the process where they would most need support. Secondary moments that were mentioned include behavioral changes, document upload, and after finishing the 0781. These were seen as “nice-to-haves,” while overall sentiment was still very positive.
+
+- How might we… amp up support beyond mental health resources where it matters most?
+   - In the most sensitive areas of the form, consider including additional resources such as VSOs or VA-supported wellness resources such as meditation apps 
+   - Provide direction on technical support for file upload pages 
+   - Point to more information about how to get healthcare for mental health conditions 
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2038.png)
+
+#### Finding 4
+**Opportunities for additional support continued**
+**Who are the people behind the scenes?** A few Veterans called out the mention of specialized claims processors for claims involving MST, and were reassured by this information — even though it didn't always resonate with their past experience. This could be an opportunity to increase trust in the process. 
+
+- How might we… offer more transparency into the claim processing team, such as the credentials and training these staff members receive?
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2039.png)
 
 
-## Key Findings
+## Additional Findings
+- One Veteran wanted to see more date flexibility in Step 4: Additional Forms when asked about treatment.
+   - “I would put an option of don't remember. I know folks who have TBIs and need help to remember these dates.” —P11
+   - Consider adding helper text that says approximate dates are ok, or checking with VBA to see if we need the month in addition to the year. 
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+- One Veteran noticed that when an additional info dropdown was between two paragraphs of text, it can be easy to miss. 
+   - “Sometimes the dropdown menus, they kind of blended into the background.” —P1
+   - Explore placing the dropdowns closer to the top or bottom of page content. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
+- One Veteran thought it was important to include a disclaimer that Veterans may still be responsible for medical records that the VA cannot collect, even if they requested the VA to request them.
+   - “After several week I got a letter that ultimately I'm responsible, if they don't get it from my doctor. Mention this upfront.” —P14
+   - Consider providing more information on what actions VA will take if there are problems collecting medical records on the Veteran’s behalf.
+ 
+**Positives / Things that worked well**
 
-1. Finding one
+- Several Veterans liked seeing lists of options for supporting evidence, including a detailed list of the types of buddy statements can be used for their claim. 
+   - “If I were doing it my first time, I wouldn't know to add buddy statements.” —P10
 
-2. Finding two
+- Many Veterans liked that they could limit the consent for medical records and only provide the VA with the medical records related to their condition.  
+   - “It's free range. There's no checkboxes. So I could put anything in there if I wanted... like mentions of alcoholism or what not... because that could limit my ability to own firearms.” —P1
 
-3. Finding three
+- Veterans understood that VA obtaining records could add time onto the process. Veterans generally prefered to obtain medical records and submit them on their own.
 
-4. Finding four
+- Three Veterans saw the “Additional Information’ screen in Step 2 as a place they felt heard and supported by VA. 
+   - “This is good, it conveys that they're trying to help you... where it might be an adversarial relationship.” —P5
 
-5. Finding five
+## Additional Findings: Who we spoke to 
+The Veterans in our study represented a mix of those who had previously filed on paper, online, or with some combination of the two. 
 
-6. Finding six
+Many Veterans' claim filing histories were not linear, with delays up to years, denials, but also approvals later down the line. Many Veterans have multiple attempts to file claims for reasons including appeals, the PACT Act, and motivation to reapply from other organizations. 
 
-7. Finding seven
+Veterans engaged services such as lawyers, VSOs, and healthcare professionals and also other VA services such as education and healthcare. 
 
+Most Veterans we spoke to claimed PTSD along with other mental health conditions. 
 
-## Details of Findings 
+P11 shared their experience filing for MST, expressing that the process was so difficult they had to be hospitalized. This highlights the need for extra support with these claims, such as having trained professionals reviewing these claims, and direct support for Veterans throughout the process (whether from VSOs, attorneys, social workers, or healthcare professionals).
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+## Additional Findings: Headers and Navigation
+- One Veteran stated that the sub headers and headers throughout the form are confusing because it indicates steps within a step.
+   - “You're doing 2/5 at the top and now you're at 1/4 — I understand these are sub processes, but I don't know that others would know that.” -P10
 
+## Additional Findings: Content
+Content suggestions
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+- One Veteran noted that the current copy is missing  ‘hostile fire’ from imminent danger copy.
+   - The current copy says "Served in an imminent danger area" which may address this concern, but we could consider rewording to explicitly mention hostile fire.
 
+- One Veteran mentioned that in places where there are checkboxes, there could be an option select all of the above. 
+   - For long lists, consider adding a checkbox option where Veterans can select all of the above with a single click.
 
-**Finding 1**
+- One Veteran shared that reading up on case law was helpful in informing their claim.
+   - Consider adding informational links to the 0781 support page.
 
-Labels: label 1, label 2 
+- One Veteran mentioned that there could be a dropdown to show their location in the form flow.
+   - While navigation is a known challenge, consider short-term ways to better show Veterans their location in the form.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+- One Veteran noticed the “how to submit medical records” dropdown menu doesn’t match the order of the radio buttons. 
+   - Align the examples and radio options to flow in the same order.
 
-Brief description
+## Additional Findings:Behavior Changes 
+The behavior changes section was straightforward and clear to Veterans. The checkbox list was helpful in aiding Veterans in what to include in this section — One Veteran noted that they wouldn't know what to write down without the list. 
 
-> _Supporting data: Quote here_
+Veterans appreciated the ability to select multiple options. However, one Veteran suggested it could be nice to do everything on one page instead of clicking through each selected behavior change one by one.  (We only tested with one behavior change selected, which reduces the number of screens seen.) 
 
-> _Supporting data: Quote here_
+Veterans also suggested adding some options to the checklist (ex. power dynamic issues, shift in daily habits) and disclaimers about what happens if you don't have records for the behavior changes. 
 
+The summary page was also helpful, especially the option to add more behavior changes.
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2050.png)
 
-**Finding 2**
+## Additional Findings: MST Indicator Permission
+Based on feedback from four Veterans
 
-Labels: label 1, label 2 
+The content on this screen seemed to make sense to most Veterans and got the point across that saying yes won't affect your claim, and will lead to an indicator being put on record, although Veterans did not accurately understand the purpose of the indicator. Most opted in to giving the consent.
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Moments of confusion of hesitation included:
+- One Veteran wasn't sure if it would apply to them if they were not enrolled in VA healthcare.
+- One Veteran referenced the earlier note about specialized claim processors, and thought this is what would enable that routing.
+- One Veteran expressed concern about who would see the indicator, and would opt "no" under the assumption that anyone at VA would be able to see it. The Veteran thought the purpose of the indicator might include determining the gender of the person selected to conduct C&P exams, and expected that this would prolong their claim time. (They did express that they would like the opportunity to express preference for their examiner's gender. )
 
-Brief description
+All Veterans liked the option to revoke consent. Revoking consent and VA healthcare radio buttons were confusing, raising questions if we can make these conditional based on information we already have (ex. enrolled in VA healthcare, previously provided consent).
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2051.png)
 
-> _Supporting data: Quote here_
+## Additional Findings: Post-Task
+Post-task Veteran feedback on the 0781 experience was mostly positive. Negative feedback was focused on more generally how filing a mental health claim is difficult.
 
-> _Supporting data: Quote here_
+"Magic wand" wishes for the 0781 included faster processing of claims, more communication across agencies (to limit how many records Veterans have to collect themselves), easier navigation through on unified portal (referencing the multiple log-in options), and faster communication about C&P exams.
 
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-## Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
-
-## Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2041.png)
 
 
 ## Further research needed
