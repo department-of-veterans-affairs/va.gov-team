@@ -145,11 +145,44 @@ Both Comparison Tool and WP are both currently live in PRODUCTION and functional
 --- 
 
 ## Screenshots 
+### WEAMS Public National Exams 
 
-### Before 
+#### Before 
+![WP Exam 1](https://github.com/user-attachments/assets/4f982ca3-519c-4f4e-8bb1-5bc0f9046550)
+![WP Exam 2](https://github.com/user-attachments/assets/4f92ebd4-e296-4040-b7e5-1163ae6f49d6)
+![WP Exam 3](https://github.com/user-attachments/assets/a62cf254-dd2a-4a82-9346-7bcb9b16822e)
 
-### After 
-N/A 
+#### After 
+
+### WEAMS Public Licenses and Certifications 
+
+#### Before 
+##### Licenses
+![WP LC 1](https://github.com/user-attachments/assets/e5dc4a24-5ab7-42e2-9f9e-7ddeb9a918bd)
+![WP LC 2](https://github.com/user-attachments/assets/cbf88752-1e7f-4092-8d6d-12cf17777258)
+![WP LC 3](https://github.com/user-attachments/assets/81ed359e-12fc-49e5-86c7-15495dbf9fe8)
+![WP LC 4](https://github.com/user-attachments/assets/c7d2139e-bbd1-4af5-9ba3-5cb774234449)
+
+##### Certifications
+![WP LC 5](https://github.com/user-attachments/assets/299c6e91-ed71-445d-b0a6-4e02fa75be4f)
+![WP LC 6](https://github.com/user-attachments/assets/8ffc15af-187f-418f-a81f-7cfbb385a115)
+![WP LC 7](https://github.com/user-attachments/assets/c31e1dc8-bf56-499c-9daf-04e0c4ea949e)
+![WP LC 8](https://github.com/user-attachments/assets/b772a106-67ee-4fb4-a7fb-ed7fa91c8830)
+
+#### After 
+
+### WEAMS Public Institutions (and Programs) 
+
+#### Before 
+![WP I 1](https://github.com/user-attachments/assets/b1e562fa-87a6-49e1-958d-35ff0a65bf40)
+![WP I 2](https://github.com/user-attachments/assets/1de9135d-8722-491c-9d7a-a5e99392dbb5)
+![WP I 3](https://github.com/user-attachments/assets/c8dfcfeb-fc30-410e-8064-bc08d834ab77)
+![WP I 4](https://github.com/user-attachments/assets/6b6c3da0-3ca8-4468-bdc0-f8e9aec044f5)
+![WP I 5](https://github.com/user-attachments/assets/14a5e9e8-33ed-484c-b222-0e5e56a5f09f)
+![WP I 6](https://github.com/user-attachments/assets/aeb3d42c-f301-4582-acd7-57366da3a002)
+
+#### After 
+
 --- 
 
 #### Communications 
