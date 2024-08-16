@@ -42,6 +42,7 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 
 - As a Veteran who currently uses MHV or DSlogon to sign-in to VA.gov, I would like to understand when using MHV & DSlogon logins will no longer be used so that I might switch to ID.me or Login.gov and continue to access my benefits.
 - As a Veteran who currently uses MHV or DSlogon to login to VA.gov, I would like to understand how to use either ID.me or Login.gov in order to continue to access my benefits.
+- As a Veteran who uses DSLogon or MyHealtheVet to sign in, I want to be reinforced by the UI of the sign in page and modal that legacy credentials are going away and that I need to switch to Login.gov or ID.me in order to sign in to VA.gov.
 
 ## User outcomes
 
@@ -67,6 +68,11 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 
 
 ## Measuring success
+* The number of users who have a MHV credential and neither ID.me or Login.gov is reduced to less than 500K by Oct 31, 2024 and to less than 100K by Jan 31, 2025
+   * Baseline: 1.1M users in January 2024; 900K users in July 2024.
+* Sign-ins to VA web/mobile properties with the MHC credential are reduced to less than 1M per month by Oct 31, 2024 and to less than 200K per month by Jan 31, 2025
+   * Baseline: 1.53M July '24 logins to VA.gov and the VA mobile app.
+* Retire the MHV in the targeted timeframe (last day available is January 31
 * Call center calls (metric TBD)
 * VSignals (metric TBD)
 
