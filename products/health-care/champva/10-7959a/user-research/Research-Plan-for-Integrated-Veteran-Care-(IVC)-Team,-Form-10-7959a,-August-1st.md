@@ -211,10 +211,10 @@ Maximum Sessions per day: 4 sessions
 
 ### Availability
 
-Tuesday, August 27: 9-10, 12-1, 2-3, 4-5, 6-7 EST 
-Wednesday, August 28: 9-10, 12-1, 2-3, 4-5, 6-7 EST
-Thursday, August 29: 9-10, 12-1, 2-3, 4-5, 6-7 EST 
-Friday, August 30: 9-10, 12-1, 2-3, 4-5, 6-7 EST
+Tuesday, August 27: 9-11, 11:30-2, 2:45-4:30 EST 
+Wednesday, August 28: 9-11:45, 12:45-7 EST
+Thursday, August 29: 9-7 EST 
+Friday, August 30: 9-7 EST
 
 
 ## Team Roles
