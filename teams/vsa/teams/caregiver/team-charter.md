@@ -91,10 +91,12 @@ Health Products
 - Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
 - Drew DeRocco  | drew.derocco@va.gov -- PMO, scheduling
 
-**CARMA team/MuleSoft.Salesforce team**
+**CARMA team/MuleSoft.Salesforce team** (End-to-End Testing POCs)
 - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
 - Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
 - David Wald | David.Wald@va.gov - testing/integration lead
+- Ranganathan Vekataraman | Ranganathan.Vekataraman@va.gov - CARMA engineer
+- Igor Khurgin | igor.khurgin@va.gov - CARMA engineer
 - Marla Clayton | marla.clayton@va.gov - Technical Project Manager CARMA
 - Mili Riddout | mili.riddout@salesforce.com - CARMA point of contact
 - Slack channel | #vecms-carma_vadotgov_development_external
