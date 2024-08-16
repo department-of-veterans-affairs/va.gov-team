@@ -1,3 +1,24 @@
+08/13/2024 
+
+##Agenda August 13th
+- [in]Security Issues
+- Updating AVA Profile (Conversation here.)
+- Generate Open API from Dataverse APIs?
+	- MSFT tooling should create the Swagger ??
+	- Better than hand-edited markdown.
+
+- adding queueID to the payload
+
+**Notes:**
+
+- Kyle to send Swagger API Docks - Done
+- Kyle to setup QueueID to response body - Done
+
+**Agenda For next session:**
+ 
+- Review Design Research plan for Dashboard Study
+- Dashboard Mocked Data - Changing statuses for user 119 
+
 **Agenda for August 13th:** 
 
 - Security Issues
