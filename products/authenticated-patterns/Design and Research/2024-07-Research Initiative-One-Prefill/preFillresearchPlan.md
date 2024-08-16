@@ -84,7 +84,8 @@ We will hold the research sessions remotely on Zoom.
 ### Research materials
 
 Conversation guide (to be added)
-Prototype (to be added)
+[Prototype]([to be added](https://fluffy-space-eureka-rq7q67g754hqp5-3001.app.github.dev/mock-form-ae-design-patterns/))
+[Designs](https://www.figma.com/design/2j01RTqCSJRy4lX3eUOiod/AE-Design-Patterns---Prefill?node-id=335-14388&t=86ldrwkOEBj4Hy3x-0)
 	
 ## Recruitment	
 
