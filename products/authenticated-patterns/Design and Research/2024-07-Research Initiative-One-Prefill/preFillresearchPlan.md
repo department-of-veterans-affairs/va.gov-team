@@ -84,9 +84,7 @@ We will hold the research sessions remotely on Zoom.
 ### Research materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/prefill%20usability%20test%20convo%20guide.md)
-
 - [Prototype](https://fluffy-space-eureka-rq7q67g754hqp5-3001.app.github.dev/mock-form-ae-design-patterns/)
-
 - [Designs](https://www.figma.com/design/2j01RTqCSJRy4lX3eUOiod/AE-Design-Patterns---Prefill?node-id=335-14388&t=86ldrwkOEBj4Hy3x-0)
 	
 ## Recruitment	
