@@ -45,7 +45,8 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get New Referrals**
        - ❗ 🟦 [[SPIKE] How are we going to solve for knowing the referral ID from a unique url from a text message (VA Notify)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90906)
        - 🟦 [[Spike] Determine how we'll keep track of which referrals we've sent to VA Notify or not](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90907)
-       - ❗ 🟥 Fill out work request for VA Notify 
+       - ❗ 🟥 Fill out work request for VA Notify
+       - 🟥 Send messages to Melanie for review and Privacy Officer
     - **Sub Goal: [Feature] Get connected with WellHive**
        - 🟦 [[Eng] Create WellHive endpoints in vets-api](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89819)
     - **Sub Goal: [Feature] Conduct research study with Veterans**
