@@ -48,7 +48,7 @@
         - Ben added a link to the new Figma wireframe in a comment on this ticket
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish all work and schedule Staging & ISR Reviews**
-    - 🟦 [[BE] SPIKE - discover all the possible values for the 'kind' field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
+    - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
     - 🟩 [Add Alert for "We can't show all your information right now" for Upcoming Appointments Page & Details Page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90926)
     - The following are blocked by the above SPIKE
         - ⛔ 🟥 [[Design] Finalize appt detail pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
