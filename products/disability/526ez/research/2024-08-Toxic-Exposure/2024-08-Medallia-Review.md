@@ -13,7 +13,9 @@ We are reviewing Medallia data from July 2024 so we can establish a baseline for
 ## Summary of responses
 
 ### Feedback survey
-Between July 1 and August 9, 2024, the Medallia Feedback survey **received 462 responses.** User feedback was most concentrated on the first and last pages of the form.
+Between July 1 and August 9, 2024, the Medallia Feedback survey received **462 responses.** 
+
+User feedback was most concentrated on the first and last pages of the form.
 |Top Feedback Pages|# of responses| Percentage of total|
 |--|--|--|
 |Total| 462 | -- |
@@ -23,7 +25,9 @@ Between July 1 and August 9, 2024, the Medallia Feedback survey **received 462 r
 |Review & Submit| 19 | %|
 
 ### Intercept survey
-Between July 1 and August 9, 2024, the Medallia Intercept survey **received 85 responses.** User feedback was most concentrated at the very beginning of the form, despite the fact that it is intended to more evenly  “intercept” 5% of VA.gov users who have had a 20-second or more extended session. This is a known problem and already ticketed (#88712), but this data pull reinforces our hunch. 
+Between July 1 and August 9, 2024, the Medallia Intercept survey received **85 responses.** 
+
+User feedback was most concentrated at the very beginning of the form, despite the fact that it is intended to more evenly  “intercept” 5% of VA.gov users who have had a 20-second or more extended session. This is a known problem and already ticketed (#88712), but this data pull reinforces our hunch. 
 
 |Top Intercept Pages|# of responses| Percentage of total|
 |--|--|--|
