@@ -38,7 +38,7 @@ User feedback was most concentrated at the very beginning of the form, despite t
 I coded all qualitative user feedback using the codes developed in our last Medallia data review (October 2023) and added new ones as needed. 
 |Code|Feedback count| Intercept count|Definition|
 |--|--|--|--|
-|Usability| 33 |--|Responses that describe specific usability issues not encompassed by other tags. For example, 6 Veterans struggled to complete the Reserves National Guard page|
+|Usability| 33 |--|Responses that describe specific usability issues not encompassed by other tags. Examples include character limits, inability to update prefill, not being able to continue, etc.|
 |PACT| 26|--| Responses that reference Toxic Exposure or the PACT Act|
 |Error| 26|--| Responses that describe an error message they came across in the form |
 |Navigation | 23|10| Responses that describe moving from one part of the application to another and wayfinding |
