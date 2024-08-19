@@ -36,16 +36,18 @@ User feedback was most concentrated at the very beginning of the form, despite t
   
 ### Coding Responses
 I coded all qualitative user feedback using the codes developed in our last Medallia data review (October 2023) and added new ones as needed. 
-|Code|How it was used|
-|--|--|
-|Error| Responses that describe an error message they came across in the form |
-|Navigation | Responses that describe moving from one part of the application to another and wayfinding |
-|Evidence/evidence upload| Responses that describe evidence or medical records, uploading or downloading|
-|Getting help|Responses that describe seeking help from the hotline, VSOs, professionals, or other sources|
-|Submission| Responses that describe submitting their form and/or the confirmation page|
-|Bright spot| Positive feedback or something that’s working well|
-|Pain point| Responses that express distress or frustration, but don’t fall into another tag |
-|General| Responses that included non-specific qualitative information, such as "filing"|
+|Code|Count|Definition|
+|--|--|--|
+|PACT| 26| Responses that reference Toxic Exposure or the PACT Act|
+|Navigation | 23| Responses that describe moving from one part of the application to another and wayfinding |
+|Evidence/evidence upload| 17| Responses that describe evidence or medical records, uploading or downloading|
+|Error| 26| Responses that describe an error message they came across in the form |
+|Getting help| 18| Responses that describe seeking help from the hotline, VSOs, professionals, or other sources|
+|Submission|12| Responses that describe submitting their form and/or the confirmation page|
+| Bright spot| 1 | Positive feedback or something that’s working well|
+| Usability | 33 |Responses that describe specific usability issues not encompassed by other tags. For example, 6 Veterans struggled to complete the Reserves National Guard page|
+|Pain point| 11| Responses that express distress or frustration, but don’t fall into another tag |
+|General| 141| Responses that included non-specific qualitative information, such as "filing"|
 
 
 Process fatigue - responses that express tiredness or frustration with the length, complexity, and time required in the form
