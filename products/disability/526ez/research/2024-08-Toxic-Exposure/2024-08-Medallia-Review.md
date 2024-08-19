@@ -38,17 +38,16 @@ User feedback was most concentrated at the very beginning of the form, despite t
 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback
 
 1. 
-**2. Caregivers are looking for ways to file for Toxic Exposure.**
-   > "Get to the PACT form. I have called that number countless times over the past many months since my husbands passing and just keep getting passed on to a different agency with a promise that someone will call me back and the only agency that actual gave me a human was [org redacted]s...But I still need to know which forms to submit for survivor benefits or posthumous disability re-evaluation based on death certificateâ€™s new information."
+**2. Caregivers are among those already actively seeking ways to file for Toxic Exposure online.**
+   > "Get to the PACT form. I have called that number countless times over the past many months since my husbands passing and just keep getting passed on to a different agency with a promise that someone will call me back and the only agency that actual gave me a human was [org redacted]...But I still need to know which forms to submit for survivor benefits or posthumous disability re-evaluation based on death certificateâ€™s new information."
    > 
    > "I was trying to apply for Pact Act for my mother."
    > 
-   > I am still trying to file claim and supplemental claim for late husband they said we filed on wrong claim. I also need all his messages from the VA as they said he had ratings, never got, said eligible but did nothing because he was on SSA Also need VA to relook as Causations and contributors to his passing, along with [PII] they said AO never used in[Location TE]. Very frustrated you make it impossible for the Vet the worse for the family
-   > "To understand my eligibility to file a new claim under the PACT act But i didn't see a link for that specific claim."
+   > I am still trying to file claim and supplemental claim for late husband they said we filed on wrong claim. I also need all his messages from the VA as they said he had ratings, never got, said eligible but did nothing because he was on SSA Also need VA to relook as Causations and contributors to his passing, along with [PII] they said AO never used in[Hazardous Location]. Very frustrated you make it impossible for the Vet the worse for the family."
+   > 
 
-4. d
-5. d
-6. d
+
+
 7. Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.
 
 ## Detail of Takeways
