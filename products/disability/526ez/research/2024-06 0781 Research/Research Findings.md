@@ -25,7 +25,10 @@ Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ry
 - [Additional Findings: MST Indicator Permission](#additional-findings-mst-indicator-permission)
 - [Additional Findings: Post Task](#additional-findings-post-task)
 - [Next steps](#next-steps)
-- [Who we talked to](#who-we-talked-to)
+- [Appendix](#appendix)
+- [Tools used for synthesis](#tools-used-for-synthesis)
+- [Pages and applications used](#pages-and-applications-used)
+- [Participant Demographics](#participant-demographics)
 
 ## Background 
 VA released the new Form 21-0781 Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event (s) this year, which is a combination of two previous VA forms:
