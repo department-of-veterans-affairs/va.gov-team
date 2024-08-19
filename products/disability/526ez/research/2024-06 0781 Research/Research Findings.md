@@ -21,7 +21,7 @@ Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ry
 - [Additional Findings: Who we spoke to](#additional-findings-who-we-spoke-to)
 - [Additional Findings: Headers and Navigation](#additional-findings-headers-and-navigation)
 - [Additional Findings: Content](#additional-findings-content)
-- [Additional Findings: Behavior Change](#additional-findings-behavior)
+- [Additional Findings: Behavior Change](#additional-findings-behavior-change)
 - [Additional Findings: MST Indicator Permission](#additional-findings-mst-indicator-permission)
 - [Additional Findings: Post Task](#additional-findings-post-task)
 - [Next steps](#next-steps)
