@@ -123,11 +123,7 @@ Metrics to monitor after deployment of this feature might include:
 - more efficient access to health care for Veterans in issues related to exposure
 - better medical outcomes for Veterans facing issues related to exposure
 
-## Purpose of this research
-
-
-
-### Use Cases
+## Veteran Use Cases
 
 According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main levels of ILER use cases are:
 1) A Veteran or Service Member themselves seeking an understanding of their own exposures
