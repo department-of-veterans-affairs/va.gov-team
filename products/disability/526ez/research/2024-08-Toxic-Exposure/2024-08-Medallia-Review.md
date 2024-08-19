@@ -46,7 +46,7 @@ I coded all qualitative user feedback using the codes developed in our last Meda
 |Evidence/evidence upload| 17|2|Responses that describe evidence or medical records, uploading or downloading|
 |Pain point| 11|8|Responses that express distress or frustration, but don’t fall into another tag |
 |Submission| 12 |--| Responses that describe submitting their form and/or the confirmation page|
-|Intent to File| 5| -- | 5| Responses that reference Intent to File or upcoming ITF deadlines|
+|Intent to File| 5| -- |Responses that reference Intent to File or upcoming ITF deadlines|
 | Bright spot| 1 |14| Positive feedback or something that’s working well|
 |General| 141|8| Responses that included non-specific qualitative information, such as "filing"|
 
