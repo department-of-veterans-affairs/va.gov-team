@@ -211,6 +211,11 @@ Maximum Sessions per day: 4 sessions
 
 ### Availability
 
+Kickoff with Perigean:
+Wednesday, August 21: 11 AM - 12PM, 2PM - 4PM CT
+Thursday, August 22: 9 AM - 10 AM CT
+Friday, August 23: 11 AM - 12 PM CT
+
 Tuesday, August 27: 9-11, 11:30-2, 2:45-4:30 EST 
 Wednesday, August 28: 9-11:45, 12:45-7 EST
 Thursday, August 29: 9-7 EST 
