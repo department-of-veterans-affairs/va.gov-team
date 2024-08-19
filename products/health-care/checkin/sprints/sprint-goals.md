@@ -134,7 +134,7 @@
     - ✔️ 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76038)
-    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
+    - ✔️ 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
 - **Tech Debt**
     - 🟩 [[FE] Check body styles on appt detail page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90154)
         - Pulled in after planning
