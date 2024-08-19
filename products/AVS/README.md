@@ -19,7 +19,7 @@ All AVS initiatives aim to improve the experience for these groups
 
 -   **Veterans & their caregivers** - any person who needs to communicate with the VA to utilize or manage an existing Veteran’s benefits.
     
--   **VA Facilities Staff** - any employee of VA services, commonly VHA administrators
+-   **VA Facilities Staff** - any employee of VA services, commonly VHA staff.
  
 ## Solution Approach
 
