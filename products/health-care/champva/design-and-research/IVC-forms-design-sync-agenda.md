@@ -1,5 +1,17 @@
 # Running Design and Research Agenda
-
+## August 19, 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penil
+- Facilitator: Jamie
+- Next meeting facilitator: Steven
+- Agenda Topics
+	- Review OHI Medicare card upload screen
+	- Review CHAMPVA Application and OHI forms merge
+ 	- Talk through any PRA risks involved with the CHAMPVA Application and OHI merge
+  	- Review CHAMPVA claims doc upload
+ 
+### Notes
+### Decisions and action items
+  
 ## August 12, 2024
 - Attendees: Jamie Fiore, Steven Straily, Syd Hoeper, Bo Altes, Brian Wilke, Lois Lewis, Premal Shah, Laura Willworth
 - Facilitator: Syd
