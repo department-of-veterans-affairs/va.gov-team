@@ -105,7 +105,7 @@ We will hold the research sessions remotely on Zoom.
 We are looking for 8 Veterans to participate in this study. We’ll use a lean maximum strategy for inclusivity, targeting 3 demographic criteria (age, gender, race) as primary sample distribution criteria, and race/ethnicity as a secondary sample distribution criteria.
 
 ### Recruitment criteria
-10 Veterans (includes a 25% over recruit)
+12 Veterans (includes a 1.5x over recruit)
 
 ### Screener Questions
 
