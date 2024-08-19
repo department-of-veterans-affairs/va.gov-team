@@ -11,7 +11,7 @@ In addition to the AVS, our team has developed the Pre-Visit Summary (PVS) to as
 - [Additional Documentation](#additional-documentation)
 
 ## North Star
-Provide Veterans with clear, actionable, timely summaries related to their recent healthcare visit.
+Provide Veterans with clear, actionable, and timely summaries related to their recent healthcare visit.
 
 ## User Groups
 
