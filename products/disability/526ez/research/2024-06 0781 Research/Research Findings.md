@@ -16,6 +16,7 @@ Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ry
 - [Methodology](#methodology)
 - [What did we learn: Summary](#what-did-we-learn-summary)
 - [Hypotheses and Conclusions](#hypotheses-and-conclusions)
+- [Appendix](#appendix)
 - [Additional Findings](#additional-findings)
 - [Additional Findings: Who we spoke to](#additional-findings-who-we-spoke-to)
 - [Additional Findings: Headers and Navigation](#additional-findings-headers-and-navigation)
@@ -434,7 +435,6 @@ Conversely, one Veteran perceived the amount of preparation and introductory con
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2039.png)
 
-
 ## Additional Findings
 - One Veteran wanted to see more date flexibility in Step 4: Additional Forms when asked about treatment.
    - “I would put an option of don't remember. I know folks who have TBIs and need help to remember these dates.” —P11
@@ -494,7 +494,7 @@ Content suggestions
 - One Veteran noticed the “how to submit medical records” dropdown menu doesn’t match the order of the radio buttons. 
    - Align the examples and radio options to flow in the same order.
 
-## Additional Findings:Behavior Changes 
+## Additional Findings: Behavior Changes 
 The behavior changes section was straightforward and clear to Veterans. The checkbox list was helpful in aiding Veterans in what to include in this section — One Veteran noted that they wouldn't know what to write down without the list. 
 
 Veterans appreciated the ability to select multiple options. However, one Veteran suggested it could be nice to do everything on one page instead of clicking through each selected behavior change one by one.  (We only tested with one behavior change selected, which reduces the number of screens seen.) 
@@ -523,139 +523,106 @@ Post-task Veteran feedback on the 0781 experience was mostly positive. Negative 
 "Magic wand" wishes for the 0781 included faster processing of claims, more communication across agencies (to limit how many records Veterans have to collect themselves), easier navigation through on unified portal (referencing the multiple log-in options), and faster communication about C&P exams.
 
 
-
 ## Next Steps
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2041.png)
 
 
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Research%20Plan.md)
 
-[Conversation guide](link here)
+[Conversation guide A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Conversation%20Guide%20A.md)
 
-[Interview transcripts](link here)
+[Conversation guide B](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Conversation%20Guide%20B.md)
+
+[Interview transcripts](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=FUBuoH&siteid=4052333d%2Dbc5a%2D48cc%2Dbe30%2D89c947a439e2&webid=83d7b15c%2D819f%2D4907%2Dba19%2D07495dc88560&uniqueid=29a6a500%2D8338%2D4a4f%2Db980%2Da9e301d2b773&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2F0%20%2D%20Benefits%20Portfolio%20%2D%20business%2FResearch%20Recordings%20%2D%20Veteran%2DStaff%2DVSO%2F2024%2D06%200781%20Form%20Concept%20Testing&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72 )
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+[Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720718384066/24c39fd610fe152cc3c29a612652c374d77a0e46) 
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Figma Prototype Concept A](https://www.figma.com/proto/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4546-69557&t=ErS4LkvuCgNfXqn8-1)
+[Figma Prototype Concept B](https://www.figma.com/proto/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4546-69556&t=ErS4LkvuCgNfXqn8-1)
 
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
-
-## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
+## Participant Demographics
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/slide%205.png)
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Primary criteria (must-haves): Our target audience for this research is Veterans who: 
+- Have filed a claim for disability benefits
+- Have claimed PTSD or a related mental health condition (see screener question)
+- Have participated in studies with OCTO in the past. EG, not first-time participants.* 
+- Must be ready to complete the session on a working computer, tablet, or mobile device with Zoom installed before the session and be able to view screen share content
 
-We talked to **x participants.**
+Note that we are adding this criteria in an effort to be trauma-informed; because of the sensitive nature of the study, we believe that Veterans who are familiar with OCTO’s process and have participated in studies in the past will be best prepared for what’s involved and less likely to be retraumatized.
+
+We are looking to complete 6-8 sessions. Because of the sensitive nature of the study, we anticipate it might be more difficult than usual to recruit and we could see higher than usual no-show rates or need to end sessions early. So we’d like to suggest recruiting 50% more than needed: 16 participants.
+
+
+We talked to **12 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+* Veterans: 12 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 Gender:
-* Male: x 
-* Female: x 
-
+* Male: 7
+* Female: 2
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 3
+* Gay, lesbian, or bisexual: 0
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* Desktop: 12 
+* Tablet: 0 
+* Smart phone: 0 
+* Assistive Technology: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 0
+* Rural: 3
+* Unknown: 9
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 8
+* Black: 2
+* Hispanic: 2
+* Biracial: 1
+* Asian: 1
+* Native: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: N/A
+* AT beginner: N/A
+* AT advanced user: N/A
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Veterans ages 55+
+* Veterans with other than honorable discharge
+* Veterans who identify as Hispanic, Biracial, Asian, Native, or other LGBTQ+
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+
 
