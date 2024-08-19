@@ -11,7 +11,29 @@
   
  
 ### Notes
+- OHI: Frame the question about Medicare cards as we are trying to reduce the content on the uploaded screen if other card types are not needed. 
+	- If we only need the "red white and blue" card, provide examples of what the card looks like. Keep a11y in mind while doing this. 
+	- When digital form launches we will remove the OHI questions from the 1010d
+- Claims Download: Consider clarifying content on the doc uploads especially if needed to upload 2 EOBs for 2 insurances. 
+	- The current design is meant to break out content on the upload screens because there is so much info. 
+ 	- Consider exploring combining the 2 EOBs screens. 
+ 	- Double check why we got push back on preempting the bene that they will need to upload the EOB on a separate screen.
+	- We will continue to use the current flow for user-testing 
+  	- We will be able to ask about this in testing (what do you wish happened). 
+- 1010D merge and OHI: check out what the 1010ez team did to add the OHI questions  and if they have any research that may be relevant to us.
+	- Lois will share the research that she can find.
+ 	- Premal: the PRA has more to do with the public burden. Not increasing the burden because the OHI cert is part of the application process. Premal will gather more data around this.
+  	- Look at how the 1010 team is documenting the changes on existing forms so it's easier to present to stakeholders. Lois can gather the files from the 1010 team
+  	- - We need to launch the OHI and 1010D first before continuing further with the design
+  
 ### Decisions and action items
+- Ask the OHI/Claims IVC team about their process involving the schedule of benefits. 
+- New patterns on confirmation may have a print to pdf button. Design team to look into.
+- Premal will gather more data around PRA and the 1010d OHI Merge.
+- Lois will share examples of how the 1010 team presents their changes to an existing digital form
+- Probe on the billing statement and EOB upload screen in research to gather more data.
+- Ask the IVC team about the types of cards they need in order to process the OHI cert
+
   
 ## August 12, 2024
 - Attendees: Jamie Fiore, Steven Straily, Syd Hoeper, Bo Altes, Brian Wilke, Lois Lewis, Premal Shah, Laura Willworth
