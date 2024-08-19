@@ -1,5 +1,5 @@
 # Forms Status on My VA MVP Frontend Documentation
-Last updated: outline and draft cards info added August 14, 2024
+Last updated: accordion content updated August 19, 2024
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
@@ -79,7 +79,7 @@ If you can't find your application or form
 
 **Content**
 
-If you can’t find a draft application or form, it may have expired. We only save draft applications and forms for 60 days. This helps us protect your personal data. After 60 days, you’ll need to start over. 
+If you can’t find a draft application or form, it may have expired. We only save draft applications and forms for a limited time. This helps us protect your personal data. After a draft application or form expires, you’ll need to start over.
 
 If you can’t find an application or form you submitted, that doesn’t mean that we didn’t receive it. 
 
