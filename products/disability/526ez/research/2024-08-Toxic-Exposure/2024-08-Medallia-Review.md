@@ -32,7 +32,7 @@ User feedback was most concentrated at the very beginning of the form, despite t
 |Top Intercept Pages|# of responses| Percentage of total|
 |--|--|--|
 |Total | 85 | -- |
-|Introduction| 39 | % |
+|Introduction| 42 | % |
 | Start| 22 |%|
 | Veteran Information | 7 | % |
   
