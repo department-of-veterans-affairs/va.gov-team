@@ -56,6 +56,15 @@ Redirects should be requested at least 2 weeks in advance to ensure they are pro
 8.	Implementation team and IAs will validate redirects in production and notify requesting team
 9.	Implementation team closes issue
 
+#### Choosing keywords
+- There isn’t a specific limit on the number of keywords that can be suggested for a best bet
+   - We can always test keywords by entering them in search.gov and seeing how they perform live
+- The best bet will trigger on any words in the title/description
+   - If a title/description contains a certain word, we don’t need to include it as a keyword
+   - Extra keywords tend to be common misspellings or additional keywords not in the title
+- If you have more than 2 links for a keyword, the system will only show 2
+   - You can search for keywords in search.gov to check whether there are other links showing up for it
+   - A future initiative will be to review existing best bets with similar keywords and adjust keywords as needed
 
 ### Responsibility of requesting team
 - Communicate to the appropriate stakeholders - both VA and internal - that the redirect will be happening, and ensure approvals are received if applicable
@@ -106,3 +115,7 @@ If changing the URL of any modernized page in Drupal, these are additional steps
      - They archive the old page (ensuring that the new page is live and working before doing so)
      - They update the team in the redirect ticket once these steps are complete
 
+## Archiving a best bet
+To change this one you can either
+- Change the destination link and leave the existing best bet in place with a new destination
+- Set the end date to whatever the appropriate date is to end the existing one, and add a new one with the appropriate end date.
