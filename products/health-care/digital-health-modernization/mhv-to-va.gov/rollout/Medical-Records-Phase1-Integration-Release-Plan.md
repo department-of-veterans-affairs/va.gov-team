@@ -17,7 +17,7 @@ MHV-on-VA.gov UX will include:
 Required for integration go-live:
 - MyHealtheVet secondary navigation component should display on the tools on VA.gov and their child pages
 - Tool landing pages have breadcrumbs with `< Back to My HealtheVet home` linking to the MHV-on-VA.gov landing page.
-- Any link within a tool that cross-links directly to another tool in Phase 1 should point to VA.gov build (remove links to tools on the National Portal) IS THIS STILL VALID??
+- Any link within a tool that cross-links directly to another tool in Phase 1 should point to VA.gov build (remove links to tools on the National Portal).
 - All three tools on VA.gov need to provide an alert to patients with Oracle Health/Cerner facilities in their profiles that they may need to navigate to My VA Health to manage that care. (SM and Appts already have it as of 4/17/24) IS THIS STILL VALID??
 
 Non-blocking content changes:
@@ -26,13 +26,13 @@ Non-blocking content changes:
 
 ### Critical path analysis
 
-The MHV-on-VA.gov secondary navigation will have to go through the final stages of the Collab Cycle after it has been implemented by all teams: Staging Review, Contact Center Review, and Security & Readiness Review. Therefore, aside from a "go" decision on Medications Ph 1, the addition of secondary nav to the tool applications is the biggest dependency that will drive the release date for Medications Ph 1 and the MHV-on-VA.gov portal integration.
+The MHV-on-VA.gov secondary navigation will have to go through the final stages of the Collab Cycle after it has been implemented by all teams: Staging Review, Contact Center Review, and Security & Readiness Review. Therefore, aside from a "go" decision on Medications Ph 1, the addition of secondary nav to the tool applications is the biggest dependency that will drive the release date for Medications Ph 1 and the MHV-on-VA.gov portal integration. IS THIS STILL VALID????
 
 ## Engineering notes on integration and release
 
 ### Secondary nav component
 
-The MHV-on-VA.gov secondary navigation will be implemented by adding a shared component to each app that requries it. Cartographers will build this component. Placed at a particular location in the code, it will visually appear to be just below the primary navigation without any visible gap.
+The MHV-on-VA.gov secondary navigation will be implemented by adding a shared component to each app that requries it. Cartographers have built this component. Placed at a particular location in the code, it will visually appear to be just below the primary navigation without any visible gap.
 
 <img width="197" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/4054752/30469bae-0134-45b6-8643-ae74f44f683d">
 
@@ -52,17 +52,13 @@ See Appendix for a list of toggles uncovered during discovery. It would be helpf
 
 #### Rolling out using feature toggles and/or deploys
 
-1. Medications Ph1 enabled for 100% of users.
-   - Toggle: `mhvMedicationsToVaGovRelease`
-2. SM, Meds and Appts incorporate integration UX changes outlined in this document (above)
+1. Incorporate integration UX changes outlined in this document (above)
    - Toggle(s): _NEED toggle name_
-3. Secondary nav enabled by its own feature toggle on Appointments, Medications, Secure messages, and the MHV-on-VA.gov landing page
+2. Secondary nav enabled by its own feature toggle.
    - Toggle: `mhvSecondaryNavigationEnabled`
-4. MHV-on-VA.gov Landing page incorporates UX changes for integration (links to the tools on VA.gov (SM, Meds), content about Ph1 integration, etc.)
+3. MHV-on-VA.gov Landing page incorporates UX changes for integration (links to the tools on VA.gov, content about Ph1 integration, etc.)
    - Toggles:
-      - `mhvLandingPageEnableVaGovHealthToolsLinks`
-      - `mhvHelpdeskInformationEnabled` (Help Desk component)
-      - `mhvTransitionalMedicalRecordsLandingPage` (Medical records transitional page)
+      -_NEED toggle name_
 5. MHV Classic deploys try-me changes
    - Toggle: N/A
 
@@ -72,9 +68,9 @@ Datadog Real User Monitoring (RUM) allows us to [specify names for click actions
 
 #### Adding data-dd-action-name values
 
-In the secondary nav, the values can follow a `ToolTitle - [Link Label]` format. So `data-dd-action-name="MHV Secondary Nav - Medications"` would be the attribute for the medications link in the MHV secondary nav component. 
+In the secondary nav, the values can follow a `ToolTitle - [Link Label]` format. So `data-dd-action-name="MHV Secondary Nav - Medical Records"` would be the attribute for the medical records link in the MHV secondary nav component. 
 
-For breadcrumbs, the format should be `AppTitle - Breadcrumb - [Breadcrumb Label]`. For the Medications tool, the breadcrumb pointing back to MHV-on-VA.gov home would be  `data-dd-action-name = "Medications - Breadcrumb - Back to My HealtheVet"`.
+For breadcrumbs, the format should be `AppTitle - Breadcrumb - [Breadcrumb Label]`. For the Medical Records tool, the breadcrumb pointing back to MHV-on-VA.gov home would be  `data-dd-action-name = "Medical Reocrds - Breadcrumb - Back to My HealtheVet"`.
 
 #### Testing/Verifying Datadog
 
@@ -124,17 +120,20 @@ Testrail will be used to document the test cases and results from testing. There
 
 Each team will QA their own implementation in Staging, including secondary nav component and link changes. 
 
+Final QA will be a dry run in Staging 
+
 ### Smoke test in Prod
 
+Coordinate with Kaitlin Fink to smoke test in Production.
 
 ### Rollout
 
 ## Appendix
 
 Cartogrphers artifacts:
-- Cartographers epic: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80402)
-- Main UX design ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74454)
-- Implementation ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80401)
+- Cartographers epic: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88981)
+- Main UX design ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88856)
+- Implementation ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88856)
 
 ### Questions log
 - Is any new handling required for Veterans with Oracle facilities?
