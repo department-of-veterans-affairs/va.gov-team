@@ -5,9 +5,10 @@
 - Next meeting facilitator: Steven
 - Agenda Topics
 	- Review OHI Medicare card upload screen
+ 	- Review CHAMPVA claims doc upload
 	- Review CHAMPVA Application and OHI forms merge
  	- Talk through any PRA risks involved with the CHAMPVA Application and OHI merge
-  	- Review CHAMPVA claims doc upload
+  
  
 ### Notes
 ### Decisions and action items
