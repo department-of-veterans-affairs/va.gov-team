@@ -111,7 +111,7 @@ For moderated usability tests:
 
 
 * [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/user-research/Conversation-Guide-for-Integrated-Veteran-Care-(IVC)-Team,-Form-10-7959a,-August-1st.md)
-* [Link to prototype](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims-(10-7959a)?node-id=1481-275773&t=Mwx4Hly21PUbw8Df-0)
+* [Link to prototype](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/introduction)
 
 
 ### Recruitment approach
