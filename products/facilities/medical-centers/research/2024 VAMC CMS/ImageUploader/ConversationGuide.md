@@ -38,7 +38,6 @@ Before we start, I have a few things that I want to go over with you:
     - If yes: Admit observers.
     - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
     - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
     - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 
@@ -57,9 +56,9 @@ Before we start, I have a few things that I want to go over with you:
 
 ## **First Task: [Current System Observation] - 15 minutes**
 
-Can you please open your CMS and log in, ready to add a new event?
+Can you please open your CMS and log in.
 
-- **Prompt:** Imagine you're creating a new page for an upcoming event and need to add an event photo. Please think aloud as you complete the task. Tell me what you're doing and thinking as you go along. **RQ1, RQ2**
+- **Prompt:** Imagine you're creating a new page for an upcoming event [this can be adapted to another example if that’s what they most frequently build] and need to add an event photo. Please think aloud as you complete the task. Tell me what you're doing and thinking as you go along. **RQ1, RQ2**
     - *Consider having the participant use a previous image they were sent, if not share the sample image.*
 - *Observe participant's actions and provide prompts as needed:*
     - Can you walk me through what you're doing now? **RQ1**
@@ -88,7 +87,7 @@ Can you please open your CMS and log in, ready to add a new event?
 
 Great, now I'd like to show you a potential redesign of the image upload system. 
 
-- **Prompt:** Can you open up the Figma link which I shared earlier? Great! Let's try uploading the same image using the prototype. Please think aloud as you complete the task. **RQ3**
+- **Prompt:** Imagine you have started to create a new event for Veterans. You've entered the date and which VA location it will be listed in already. Now it's time to upload an image, show me how you would do that... **RQ3**
 - *Observe participant's actions and provide prompts as needed:*
     - Can you walk me through what you're doing now? **RQ3**
     - What are you thinking about at this moment? **RQ3**
