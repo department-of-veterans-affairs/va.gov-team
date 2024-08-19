@@ -1,9 +1,10 @@
-# Background
+# Research goal
 
 The goals of this document are: 
-- to collect the learnings and insights to date around building Veteran access to enhanced military information in the VA.gov Profile
+- to clarify terms, terminology, and background critical to understanding for this Epic (?)
+- to collect the learnings and insights to date around building Veteran access to enhanced military information (specifically, the data gathered and presented by the ILER system) in the VA.gov Profile
 - to document open questions at the time of this writing
-- and to offer recommendations for action, including communications around the nature of the information
+- to offer recommendations for action, including communications around the nature of the information
 
 **Jump to**
 ADD HERE
