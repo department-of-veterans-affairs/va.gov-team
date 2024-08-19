@@ -638,13 +638,13 @@ We talked to **9 participants.**
 
 - White: 4
     
-- Black: 4
+- Black: 4 (including 2 biracial Black or African American; Hispanic, Latino or Spanish origin)
     
-- Hispanic: 3
+- Hispanic: 3 (including 2 biracial Black or African American; Hispanic, Latino or Spanish origin)
     
-- Biracial: 2
+- Biracial or multiracial: 2
         
-- Native Hawaiian or Pacific Islander: 1 (Biracial)
+- Native Hawaiian or Pacific Islander: 0
 
 - American Indian or Alaska Native: 0
   
