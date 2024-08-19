@@ -13,12 +13,17 @@ Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ry
 - [Background](#background)
 - [Research Goals and Hypotheses](#research-goals-and-hypotheses)
 - [Research Questions](#research-questions)
-- [Methodology](methodology)
-- [What did we learn](#what-did-we-learn)
-- 
-- [Key findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Further research needed](#further-research-needed)
+- [Methodology](#methodology)
+- [What did we learn: Summary](#what-did-we-learn)
+- [Hypotheses and Conclusions](#hypotheses-and-conclusions)
+- [Additional Findings](#additional-findings)
+- [Additional Findings: Who we spoke to](#additional-findings)
+- [Additional Findings: Headers and Navigation](#additional-findings)
+- [Additional Findings: Content](#additional-findings)
+- [Additional Findings: Behavior Change](#additional-findings)
+- [Additional Findings: MST Indicator Permission](#additional-findings)
+- [Additional Findings: Post Task](#additional-findings)
+- [Next steps](#next-steps)
 - [Who we talked to](#who-we-talked-to)
 
 ## Background 
@@ -115,7 +120,7 @@ We partnered with Rachael Dietkus and the OCTO Trauma-Informed Community of Prac
 **Thank-you emails with resources**
 - After sessions, we included some resources in Perigean’s thank-you email to all participants, including VA Mental Health Services, Chaplain Services, and MST resources
 
-## What did we learn- Summary
+## What did we learn: Summary
 
 ### Original Hypothesis
 Early on, our team aligned on a design approach that aimed to keep all sections of the 0781 together. We hypothesized that given the sensitive nature of mental health conditions, it would be beneficial to allow the Veteran to get through this content all at once, and then “close the page” on their trauma while moving on to other parts of the 526.
