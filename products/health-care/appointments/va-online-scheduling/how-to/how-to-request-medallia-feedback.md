@@ -60,7 +60,7 @@ No
 |   30  | 07-21-2024 | 07-27-2024 | Peter Russo  | [89468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89468) | Done       |
 |   31  |   07-28-2024    | 08-03-2024       | Peter Russo  | [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271)         |    Done    |
 |   32  |   08-04-2024    | 08-10-2024       | Peter Russo  | Thru 8-7: [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271) 8-8 - 8-10: [90630](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90630)      |    Done  |
-|   33  |   08-11-2024    | 08-17-2024       | Peter Russo  | []()         |        |
+|   33  |   08-11-2024    | 08-17-2024       | Peter Russo  | 8/11: [90988](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90988)         |        |
 |   34  |       |        | Peter Russo  | []()         |        |
 |   35  |       |        | Peter Russo  | []()         |        |
 |   36  |       |        | Peter Russo  | []()         |        |
