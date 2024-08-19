@@ -55,7 +55,7 @@ I coded all qualitative user feedback using the codes developed in our last Meda
 
 Findings derived from from March 2023 Medallia data review largely hold in the July 2024 data set. 
 
-|3/2023 Finding | Validity now (t/f)|Context|Veteran voice|
+|3/2023 Finding | True/False in current data set|Context|Veteran voice|
 |--|--|--|--|
 |Certain error messages can lead Veterans to frustrating encounters with the Contact Center. | **True** | Veterans are still encountering errors that cannot be resolved by calling the Contact Center|"Trying to file a claim online, called number provided, got transferred 10 times with no help."|
 |Error messages block Veterans from filing.| **Less true**| Veterans do not express frustration with ITF errors, but express problems with BIRLS/EDIPI blockers and isolated Participant ID problems (n=3)|"We have tried and tried to get a birls i.d. Or edition with no luck.  We have tried and tried to submit a disability claim with no luck." |
