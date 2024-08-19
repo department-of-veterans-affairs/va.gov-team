@@ -1,4 +1,4 @@
-# AVS
+# Applications for Visit Summaries (AVS)
 Patients can forget or misunderstand the information their healthcare providers share with them. This can lead to problems with treatment, making mistakes with medications, missing appointments, or feeling like the provider is not communicating well enough.
 
 One way to help patients avoid these frustrations is to give them a clinical summary of their visit, also known as an After Visit Summary (AVS). Studies show that when patients get a printed AVS, they trust their doctor more and feel more satisfied with their care. While a lot of patient health information can be found online now (e.g., through MyHealtheVet or Personal Health Records (PHRs)), not all patients have access.
@@ -11,7 +11,7 @@ In addition to the AVS, our team has developed the Pre-Visit Summary (PVS) to as
 - [Additional Documentation](#additional-documentation)
 
 ## North Star
-Provide Veterans with clear, actionable, timely messages related to their health care and benefits via the channel of their choice (push, SMS, email).
+Provide Veterans with clear, actionable, timely summaries related to their recent healthcare visit.
 
 ## User Groups
 
@@ -27,7 +27,7 @@ A platform for sending SMS messages built upon a complex rules engine.
 
 # Objectives
 
-The following are VEText's Objectives and Key Results (OKRs), as aligned with OCTO & Health Portfolio OKRs.
+The following are the AVS Objectives and Key Results (OKRs), as aligned with OCTO & Health Portfolio OKRs.
 
 <table><tbody><tr><td><strong>OCTO &amp; Health Portfolio OKRs</strong></td><td><strong>VEText OKRs</strong></td></tr><tr><td>Our digital experiences are the best way to access VA health care and benefits</td><td><ul><li>VEText Oracle Health appointment reminder functionality is adopted by all 5 VA Oracle Health sites</li><li>VEText VistA is transitioned to AWS</li></ul></td></tr><tr><td>Our platforms are the best way to deliver products at VA</td><td><ul><li>VEText Oracle Health product achieves the elite DORA level</li><li>VEText opt-out rate is decreased by 1%</li><li>VEText average response rate is increased by 1%</li></ul></td></tr><tr><td>Our people are empowered with the knowledge and resources they need to make sustained impact</td><td><ul><li>VEText VistA achieves a 100% adoption of OSM by Primary Care clinics</li><li>Thorough documentation has been compiled for VEText OH (mirroring format of VEText VistA)</li></ul></td></tr><tr><td>Reduce the time Veterans and their care teams spend on each VA transaction</td><td><ul><li>VEText Oracle Health is performant for users upon rollout<ul><li>Average error rate &lt; .3%</li><li>Average latency &lt; 6s p95</li></ul></li></ul></td></tr></tbody></table>
 
