@@ -291,6 +291,9 @@ The education/careers left nav will have the following structure. These are not 
 **10) SECO  - Update**
 - update the existing best bet with the new URL after publishing
 
+**10) VSOC R+S  - Add**
+- add the new best bet with the new URL after publishing
+
 
 <hr>
 <hr>
