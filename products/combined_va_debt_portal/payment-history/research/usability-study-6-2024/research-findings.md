@@ -759,7 +759,7 @@ This research does not include the perspectives of the following marginalized Ve
 
 -   Asian Veterans
     
--   Native Veterans
+-   Native Hawaiian or Pacific Islander, American Indian or Alaska Native, First Nations
     
 -   Beginner AT users
     
