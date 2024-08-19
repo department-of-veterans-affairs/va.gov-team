@@ -43,7 +43,7 @@ There are already known usability issues with the CMS image uploader marked by e
 
 **Location**
 
-Zoom, moderated
+Zoom, moderated, via desktop or laptop, no mobile devices.
 
 **Research materials**
 
