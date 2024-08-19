@@ -196,6 +196,8 @@ For a first gloss of understanding Veterans mental models and needs for detailed
 5. Veterans are NOT aware of what this is
 6. VA staff may often not know about this and cannot help Veterans
 7. The term IES may be properly prescriptive (and used in context w/ stakeholders) but Veterans and VA staff know it as ILER SO WE SHOULD DO THAT?
+8. The quality of data may be incomplete/poor
+9. Veterans who do know about the report do not trust it
 
 1. Veterans use ILER/IES access in relation to applying for health care
    
@@ -216,7 +218,18 @@ ADD REDDIT QUESTIONS HERE WITH CAVEATS ABOUT CANARY IN THE MINE AND RARE SAMPLE
 3. There is a need to format ILER data into a more readable format for Veterans
 4. There is a need to learn what ILER data Veterans would need to see and how to format it
 
+### Details of Findings
 
+## Recommendations
+
+1. Use ILER terminology (though technically not correct, it matches the mental models of Vets and staff)
+2. Veterans need education as to what this report actually is
+3. Veterans need education as to what this report can be used for
+4. Veterans need reassurance that the VA is aware of data quality issues
+5. Veterans would benefit from knowing the VA is working on allowing them to review and edit
+6. Veterans would benefit from, in the interim, pointers to where they can request corrections to data
+
+THE ABOVE DON'T READ LIKE RECOMMENDATIONS; COMBINE WITH KEY FINDINGS
 
 **Data Quality and Implications for Design**
 
