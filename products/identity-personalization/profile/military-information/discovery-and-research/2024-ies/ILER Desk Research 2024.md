@@ -67,7 +67,7 @@ This is "a separate web application from ILER that provides DOD and VA staff (e.
 **Toxic Exposure Risk Activity (TERA)**
 https://www.va.gov/HEALTHBENEFITS/resources/publications/10-1745_Toxic-exposed-Veterans.pdf and https://www.publichealth.va.gov/exposures/ LOOK UP FOR DETAILS
 
-### Legislative History
+### Legislative History and Congressional Mandates
 
 On 1 January 2021, Congress passed the National Defense Authorization Act, in which Section 9105 required that Veterans shall have access to their ILER. At the time, this was mandated as read-only access.
 
