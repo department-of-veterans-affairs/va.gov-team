@@ -16,11 +16,11 @@
 
 
 ## <a name="map"></a>Page structure<br>
-![Screenshot 2024-08-07 at 3 25 21 PM](https://github.com/user-attachments/assets/0b5cc55d-1761-4ce9-a773-854c1da6f4ed)
+![Screenshot 2024-08-19 at 3 36 03 PM](https://github.com/user-attachments/assets/35ff18a1-d2c1-4299-b3f8-32582e1d5027)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
-![Screenshot 2024-08-07 at 3 25 33 PM](https://github.com/user-attachments/assets/f78fd51c-3ce8-4774-b76c-d7ebce0f59ee)
+![Screenshot 2024-08-19 at 3 36 19 PM](https://github.com/user-attachments/assets/64f09fb3-25d3-43b1-8ad3-004bc0936d77)
 
 
 **1) DEA - Change**
@@ -86,7 +86,7 @@
 **13) Dea/Fry application - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/apply-dea-fry-form-22-5490/
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [dea/fry form H1]
-- Notes: URL is TBD finalizing H1
+- Notes: URL is TBD finalizing H1. Depending on whether we can get education product team resources, this form may/may not launch in this phase.
 
 **14) Transferred GI benefits - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/
@@ -111,14 +111,9 @@
 **18) Transferred GI benefit application 22-1990 - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/apply-form-22-1990e
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [transferred benefits H1] > [transferred benefits application H1]
-- Notes: URL is TBD finalizing H1
+- Notes: URL is TBD finalizing H1. Depending on whether we can get education product team resources, this form may/may not launch in this phase.
 
-**19) VR+E Ch 31 - New**
-- URL: va.gov/family-and-caregiver-benefits/education-and-careers/readiness-and-employment
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [VR+E H1]
-- Notes: URL is TBD finalizing H1
-
-**20) Educational and career counseling CH36 - Change**
+**19) Educational and career counseling CH36 - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/educational-and-career-counseling
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [Ch36 H1]
 - Notes: URL is TBD finalizing H1
@@ -140,7 +135,6 @@
        - STEM scholarship: https://www.va.gov/education/other-va-education-benefits/stem-scholarship/
        - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
        - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
-       - **VR+E Ch31: New URL TBD**
        - **Educational and career counseling Ch 36: New URL TBD**
     - **Get - Additional benefits or services(H3)**
        - Vocational rehabilitation and employment for ppl who qualify: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
@@ -163,8 +157,8 @@
        - **R+S: How to choose GI Bill approved schools: New URL TBD**
        - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
        - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
-       - **R+S: Yellow ribbon program FAQs for family members New URL TBD**
-       - **R+S: VSOC FAQ** not yet sure if we want to add this to this section
+       - **R+S: Yellow ribbon program FAQs for family members: New URL TBD**
+       - **R+S: VSOC FAQ: New URL TBD** 
 
 
 ### Secondary entry points
@@ -185,21 +179,19 @@ The education/careers left nav will have the following structure. These are not 
          - Past rates: 22-23
          - Past rates: 21-22
          - Past rates: 20-21 
-    - Apply DEA/FRY form 22-5490
+    - Apply DEA/FRY form 22-5490 (Depending on whether we can get education product team resources, this form may/may not launch in this phase.)
     - Transferred post-9/11 GI bill education benefits
-      - Apply form 22-1990e
+      - Apply form 22-1990e (Depending on whether we can get education product team resources, this form may/may not launch in this phase.)
       - Transferred benefit rates
          - Future rates
          - Past rates: 22-23
-    - VR&E Ch 31
     - CH 36
-  
-![Screenshot 2024-08-07 at 3 06 49 PM](https://github.com/user-attachments/assets/ddd6ca8e-1f80-433e-8941-31aa376161e9)
+      
+  ![Screenshot 2024-08-19 at 3 39 42 PM](https://github.com/user-attachments/assets/7a3369e5-16e9-483e-a2ac-adec95f128d8)
+
 
 
 ### Crosslinks
-_Not required. Links on other pages that point to this tool/thing/form._
-
 
 1. **[Current VA education benefit rates](https://www.va.gov/education/benefit-rates/)** - [Modify]
   - Placement description: Update the relevant links on this page to point to the new locations in family member hub
@@ -221,6 +213,17 @@ _Not required. Links on other pages that point to this tool/thing/form._
   - Placement description: Remove left nav link to dependent employment benefits
 
 ![Screenshot 2024-08-07 at 3 07 41 PM](https://github.com/user-attachments/assets/0ec089bb-f83f-4764-b982-8b40405e4cfc)
+
+5. **[Choosing a GI Bill Approved School](https://www.va.gov/education/choosing-a-school/)** - [Remove]
+  - Placement description: Remove left nav link to GI Bill approved school, since it will now be a R+S article. Update hub page to link to R+S instead.
+
+![Screenshot 2024-08-19 at 3 40 54 PM](https://github.com/user-attachments/assets/551c4b57-f83b-43ed-9f1e-84c2a53efc55)
+
+
+5. **[Vet Success on campus](https://www.va.gov/careers-employment/vetsuccess-on-campus/)** - [Remove]
+  - Placement description: Remove left nav link to VSOC, since it will now be a R+S article. Update hub page to link to R+S instead.
+
+![Screenshot 2024-08-19 at 3 43 59 PM](https://github.com/user-attachments/assets/3ad90051-b300-4761-b010-54700b9a8c98)
 
 
 ## <a name="redirects"></a>Redirects <br>
@@ -285,8 +288,6 @@ _Not required. Links on other pages that point to this tool/thing/form._
 **10) SECO  - Update**
 - update the existing best bet with the new URL after publishing
 
-**10) VR&E family member static page  - New**
-- add the new best bet with the new URL after publishing
 
 <hr>
 <hr>
