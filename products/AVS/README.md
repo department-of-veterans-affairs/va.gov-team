@@ -73,7 +73,7 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 
 # Additional Documentation
 
-- [VEText VistA EHR Sharepoint](https://dvagov.sharepoint.com/sites/vhaavs)
+- [AVS Sharepoint](https://dvagov.sharepoint.com/sites/vhaavs)
 - [Zenhub Board](https://app.zenhub.com/workspaces/vetext-team-6037e6489f650a000f9f08a9/board?filterLogic=any&repos=133843125&showPRs=false)
 - [AVS Metrics](https://app.powerbigov.us/Redirect?action=OpenApp&appId=2f89b4c0-fd10-4583-988b-9beec7aed02f&ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
  - Slack: [#after-visit-summary](https://dsva.slack.com/archives/C04UBETRY8N)
