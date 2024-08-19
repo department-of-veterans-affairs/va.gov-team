@@ -24,7 +24,8 @@
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * OKR formats - review OKR page and discuss update timing
   * Bug Reduction OKRs (Therese)
-* How to learn about changes from other teams. For example, VA.gov added error messaging for Z status for Veteran status but did not inform us, despite talking to us about the bug.  
+* Disaster recovery / home screen API call usage
+*  How to learn about changes from other teams. For example, VA.gov added error messaging for Z status for Veteran status but did not inform us, despite talking to us about the bug.  
 
 ## 8/7/24
 * **Epics Review**
