@@ -17,7 +17,7 @@ Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ry
 - [What did we learn: Summary](#what-did-we-learn)
 - [Hypotheses and Conclusions](#hypotheses-and-conclusions)
 - [Additional Findings](#additional-findings)
-- [Additional Findings: Who we spoke to](#additional-findings)
+- [Additional Findings: Who we spoke to](#additional-findings-who-we-spoke-to)
 - [Additional Findings: Headers and Navigation](#additional-findings)
 - [Additional Findings: Content](#additional-findings)
 - [Additional Findings: Behavior Change](#additional-findings)
