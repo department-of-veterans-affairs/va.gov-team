@@ -1,4 +1,4 @@
-# Pre-Launch Review of Medallia Data [July 1-August 9, 2024]
+# Toxic Exposure Pre-Launch Review of Medallia Data
 
 **Office of the CTO - Digital Experience (OCTO-DE), 526EZ, DBEX 1**
 
@@ -8,7 +8,7 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 
 
 ## Overview
-We are reviewing Medallia data from July 2024 so we can establish a baseline for what to expect from the survey data before we launch Toxic Exposure. This will help us distinguish ongoing UX challenges from those caused by the rollout.
+We are reviewing Medallia data from July 1-August 9 2024 so we can establish a baseline for what to expect from the survey data before we launch Toxic Exposure. This will help us distinguish ongoing UX challenges from those caused by the rollout.
 
 ## Summary of responses
 
