@@ -131,7 +131,7 @@
     - **Sprint Goal is to address feedback from the Design Intent, finish the wireframes, and hand off to engineering**
     - ✔️ 🟥 [Create Draft Desktop/Mobile/Tablet Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
     - ✔️ 🟥 Do hand-off to engineering (8/7)
-    - 🟦🟩 Design implementation and create tickets
+    - ✔️ 🟦🟩 Design implementation and create tickets
 - **Componentize the Appt Summary View**
     - ✔️ 🟪 Schedule kick-off with Kristen & Ryan
 - **Translations**
