@@ -1,39 +1,45 @@
-# Research Plan for VA IIR, CMS Image Uploader, August 16th, 2024
+# Research Plan for VA IIR, CMS Image Uploader, August 19th, 2024
 
 **Background**
 
-Identify and understand the challenges VA.gov CMS editors face when uploading and managing images, such as event photos or profile photos, to VA.gov pages. By gaining insights into their workflow, pain points, and desired improvements, we aim to optimize the image upload and management process, reduce help desk requests, and empower editors to feel more confident in their asset creation.
+Based on prior research observations and UX audits, we have identified several pain points VA.gov CMS editors face when uploading and managing images.  This project aims to directly address these known issues, such as cropping/uploading photos to [VA.gov](http://va.gov/) pages. By addressing these targeted issues, we aim to:
+
+- Optimize the image upload and management process.
+- Reduce help desk requests related to image management.
+- Empower editors to feel more confident and efficient in working with images.
 
 **OCTO Priorities**
 
-Objective 3: Our people are empowered with the knowledge and resources they need to make sustained impact.
+OKR 2.2: Our platforms measure and improve the satisfaction of their internal users.
 
 **Veteran Journey**
 
-It is part of “Taking Care of Myself”, as users will start finding their VA facilities, who is in charge of facilities, events, and other areas of the [VA.gov](http://VA.gov) site impacted by image uploader.
+As Veterans begin to engage with VA, learning about benefits through events and their local facilities, they will rely on accurate and quality content on [VA.gov](http://va.gov/) pages that are created by Drupal CMS editors. The moments that matter include Getting out, Starting up, and Taking care of myself.
 
 **Research Goals**
 
-1. Identify opportunities to improve the CMS image uploader so it is easy and effective for editors. 
+The purpose of this research is to **get editor feedback on the new CMS media upload design**.
 
 **Outcome**
 
-Based on on our findings, usability adjustments will be made to the image uploader in the CMS. 
+Based on on our findings, usability adjustments will be made to the image uploader in the CMS.
 
 **Research questions**
 
-1. What is the current image upload and management process?
-2. What are the challenges and pain points of the current image upload and management process?
-3. What are the user needs and expectations for image upload and management?
+- **Current media upload tool**
+    - What are the challenges and pain points of the current image upload and management process?
+- **Prototype of new media upload tool**
+    - Do editors understand how to use the new media upload tool? (points of confusion of the user flow)
+    - Do editors understand how and what to enter as alt text?
 
 **Hypothesis**
 
-There are already known usability issues with the CMS image uploader marked by existing tickets, research from the help desk, and internal audits. Our hypothesis is that users will prefer the updated mockup, based on previous research, and will also provide additional feedback on ways to improve it. Since the goal is to make usability adjustments to the image uploader, the only way to validate and expand on these adjustments is through testing. 
+There are already known usability issues with the CMS image uploader marked by existing tickets, research from the help desk, and internal audits. Our hypothesis is that users will prefer the updated mockup, based on previous research, and will also provide additional feedback on ways to improve it. Since the goal is to make usability adjustments to the image uploader, the only way to validate and expand on these adjustments is through testing.
 
 **Methodology**
 
-- Contextual inquiry - Used to review current process of image uploading
-- Semi-structured interviews - Used to review updated mockups
+- Usability testing -  For usability testing of the new prototype
+- Contextual inquiry - For reviewing current process of image uploading
 
 **Location**
 
@@ -46,20 +52,18 @@ Zoom, moderated
 
 **Recruitment**
 
-Recruitment will happen with VAMC editors and CAIA editors, connected through our VA lead, recruited by the IIR team. 
+Recruitment will happen with VAMC editors and CAIA editors, connected through our VA lead, recruited by the IIR team.
 
 **Recruitment criteria**
 
-6-8 participants, minimum 4 VAMC editors, 2 CAIA editors
+6-9 participants, recruit for 6 VAMC editors, 3 CAIA editors
 
-Should recruit for 5 VAMC editors, 3 CAIA editors.
-
-**Primary criteria (must-haves)** 
+**Primary criteria (must-haves)**
 
 - VAMC editor or CAIA editor
 - Has CMS account and editing permissions
-- Has created posts in [VA.gov](http://VA.gov) CMS
-- Has uploaded an image to [VA.gov](http://VA.gov) before
+- Has created posts in [VA.gov](http://va.gov/) CMS
+- Has uploaded an image to [VA.gov](http://va.gov/) before (need to identify which pages CAIA works on that include adding images.)
 
 **Prepare**
 
@@ -80,20 +84,6 @@ Should recruit for 5 VAMC editors, 3 CAIA editors.
 
 **Availability**
 
-Thursday, August 22nd:
-
-- 10:00AM - 11:00 AM
-- 11:30 AM - 12:30 PM
-- 1:00 PM - 2:30 PM
-- 3:00 PM - 4:00 PM
-
-Friday, August 23rd:
-
-- 10:00AM - 11:00 AM
-- 11:30 AM - 12:30 PM
-- 1:00 PM - 2:30 PM
-- 3:00 PM - 4:00 PM
-
 Monday, August 26th:
 
 - 10:00AM - 11:00 AM
@@ -102,6 +92,20 @@ Monday, August 26th:
 - 3:00 PM - 4:00 PM
 
 Tuesday, August 27th:
+
+- 10:00AM - 11:00 AM
+- 11:30 AM - 12:30 PM
+- 1:00 PM - 2:30 PM
+- 3:00 PM - 4:00 PM
+
+Wednesday, August 28th:
+
+- 10:00AM - 11:00 AM
+- 11:30 AM - 12:30 PM
+- 1:00 PM - 2:30 PM
+- 3:00 PM - 4:00 PM
+
+Thursday, August 29th:
 
 - 10:00AM - 11:00 AM
 - 11:30 AM - 12:30 PM
@@ -121,6 +125,9 @@ Tuesday, August 27th:
     - Amanda Klausmeier
     - Michelle Middaugh
     - Marisa Dominguez
+    - Jeff Barnes
     - Christian Burk
     - Edmund Dunn
     - Jerry Vrabel
+    - Erika Washburn
+    - Grace Kretschmer Tran
