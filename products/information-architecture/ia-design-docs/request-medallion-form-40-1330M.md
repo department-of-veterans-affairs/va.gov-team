@@ -32,7 +32,7 @@ The new form will be a child page of [headstones, markers, and medallions](https
 
 ## <a name="url"></a>URLs and breadcrumbs
 
-**1) [Page name] - [Existing/New]**
+**1) Request medallion form - New**
 - URL: va.gov/burials-memorials/memorial-items/headstones-markers-medallions/request-medallion-form-40-1330m
 - Breadcrumb: Va.gov home > Burials and memorials > Memorial items> Veterans headstones, markers, medallions > [Form H1 TBD]
 - Notes: final URL is pending the H1 decision by the content team
@@ -55,10 +55,15 @@ The new form will be a child page of [headstones, markers, and medallions](https
   - Placement description: Add an 'apply online' section to this page
   - Link label: TBD by content
   - Link destination: va.gov/burials-memorials/memorial-items/headstones-markers-medallions/request-medallion-form-40-1330m
-  - Notes:
+
+![Screenshot 2024-08-19 at 5 35 19 PM](https://github.com/user-attachments/assets/86ef5a2c-7a3e-42a7-bef8-34f3b82a9594)
+
 
 2. **[Burial in a private cemetery page](https://www.va.gov/burials-memorials/eligibility/burial-in-private-cemetery/)** - Potentially modify
   - Notes: this page currently points to the 'about a form' page above, so it's possible it doesn't need to change, but content team should review the language here to confirm.
+
+![Screenshot 2024-08-19 at 5 35 26 PM](https://github.com/user-attachments/assets/c778b9d8-b03a-4059-80f1-6f57bf4aeae7)
+
  
  
 
