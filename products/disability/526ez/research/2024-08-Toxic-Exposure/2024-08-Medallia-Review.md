@@ -51,10 +51,20 @@ I coded all qualitative user feedback using the codes developed in our last Meda
 | Bright spot| 1 |14| Positive feedback or something that’s working well|
 
 
-
-
 ## Key Findings
 
+- Findings from March 2023 Medallia data review are largely consistent with July 2024 data. Shown improvement
+
+|March 2023 Finding | Is finding true/false in July 2024?|
+|--|--|
+|Veterans face blockers that require external support—but sometimes find that help difficult to get.| Less true |
+|Certain error messages can lead Veterans to frustrating encounters with the Contact Center. | Less true |
+|Error messages block Veterans from filing.| Less true|
+|Veterans are finding themselves misrouted to or stuck on the Reserves National Guard (RNG) page.| True|
+|Veterans reported evidence-related challenges throughout the application.|True|
+
+-
+-
 - 68% of Veterans reported that they were **NOT** able to complete the task they set out to do [216 out of 318 total responses].
 
 ## Themes to Track
