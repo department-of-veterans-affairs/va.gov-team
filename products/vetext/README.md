@@ -47,20 +47,25 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 **Lindsay Sprinkle** | Oddball | Product Manager 
 **Katie Roach** | Oddball | Delivery Manager 
 **Lee DeBoom** | Oddball | Engineering Lead 
+**Michael Kimball** | Oddball | Senior Software Engineer Team Lead
+**Greg Henley** | Oddball | Senior Software Engineer
+**Michael Olasin** | Oddball | Software Engineer
+**Marian Lumba** | Oddball | Software Engineer
+**Sarit Das** | Oddball | Software Engineer
 **Chris Horton** | Oddball | Senior Product Manager
-**Jeremy Britt** | Oddball | 
+**Jeremy Britt** | Oddball | Senior DevOps Engineer
+**Andrew Fattorusso** | Oddball | DevOps Engineer
+**Steven Venner** | Oddball | DevOps Engineer
+**Jamie Ramsay** | Oddball | Senior UX Designer/Researcher
 **Ari Hicks** | Oddball (Fearless) | Content Strategist 
-**Jonathan Esteban** | Oddball | Data Analyst 
+**Jonathan Esteban** | Oddball | Senior Data UX Analyst 
 **Zach Epstein** | Oddball (The So Company) | Tier 1 Helpdesk 
-**Richard "Chance" Cusack** | Oddball (The So Company) | Tier 2 Helpdesk 
-**Ambes Debretson** | Oddball (DocMe360) | Tier 3 Helpdesk
-**James Clarey** | Oddball | Tier 3 Helpdesk
-**Peter Olabowale** | Oddball (Fearless) | Site Reliability Engineer 
-**Nicholas Henning** | Oddball | Production Support Engineer
-
+**Richard "Chance" Cusack** | Oddball (The So Company) | Tier 2 Helpdesk
+**Gerson Reyes**  | Oddball | ATO Specialist
+**Ambes Debretson** | Oddball (DocMe360) | Tier 3 Helpdesk Support Engineer
+**James Clarey** | Oddball | Tier 3 Helpdesk Support Engineer
 
 # Projects
-
 
 ### Current Uses
 |**Use Case**|**Description**|
