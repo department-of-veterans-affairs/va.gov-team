@@ -144,7 +144,7 @@ Monday, August 19th
 Two options available, depending on when recruiting can schedule participants.
 
 - Pilot participant email: Alexandria.parker@agile6.com
-- Date and time of pilot session: Thursday, August 22nd at 11am EST OR Tuesday, August 27th at 4pm EST.
+- Date and time of pilot session: Friday, August 23rd at 12pm EST OR Tuesday, August 27th at 4pm EST.
 
 ### Research sessions
 **Planned dates of research:**
