@@ -38,12 +38,12 @@ User feedback was most concentrated at the very beginning of the form, despite t
 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; customer satisfaction averaged around 3 out of 5. 
 
 **1. Veterans have questions about their eligibility for the Pact Act.**
-   > File for pact act and determine if i am eligible for additional benefits since i am already rated at 100%?
+   > "File for pact act and determine if i am eligible for additional benefits since i am already rated at 100%?"
    > 
-    >"VA says I need VHA 10-7131 to fill out and send to them. They did not help me find this form and I searched and could not locate it. Also, I was in [PACT act country} [Years} and the VA said I could file for compensation and I am trying but cannot navigate all the forms to fill out.
+   > "VA says I need VHA 10-7131 to fill out and send to them. They did not help me find this form and I searched and could not locate it. Also, I was in [PACT act country} [Years} and the VA said I could file for compensation and I am trying but cannot navigate all the forms to fill out."
    > 
 
-**2. Caregivers are among those already actively seeking ways to file for Toxic Exposure online.**
+**2. Caregivers are among those actively seeking ways to file for Toxic Exposure online.**
    > "Get to the PACT form. I have called that number countless times over the past many months since my husbands passing and just keep getting passed on to a different agency with a promise that someone will call me back and the only agency that actual gave me a human was [org redacted]...But I still need to know which forms to submit for survivor benefits or posthumous disability re-evaluation based on death certificateâ€™s new information."
    > 
    > "I was trying to apply for Pact Act for my mother." 
