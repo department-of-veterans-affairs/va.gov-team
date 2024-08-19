@@ -643,10 +643,15 @@ We talked to **9 participants.**
 - Hispanic: 3
     
 - Biracial: 2
-    
+        
+- Native Hawaiian or Pacific Islander: 1 (Biracial)
+
+- American Indian or Alaska Native: 0
+  
+- First Nations: 0
+  
 - Asian: 0
-    
-- Native: 0
+
     
 
   
