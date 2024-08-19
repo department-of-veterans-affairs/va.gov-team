@@ -8,8 +8,9 @@ The feedback button will show a feedback survey (2 questions) when a user clicks
 We will add these surveys to ask.va.gov (to establish a baseline) and Ask VA on VA.gov at va.gov/contact-us/ask-va.
 
 ## Intercept survey
-5% of users will see the pop-up modal. They will see it after the invitation page.
-![image](https://github.com/user-attachments/assets/1ef8b095-61d9-4d8e-a323-52edce2d4f24)
+5% of users will see the pop-up modal. They will see the survey after selectig the 'Provide feedback' button on the invitation screen of the pop-up modal.
+![image](https://github.com/user-attachments/assets/72368e5f-939c-4a23-a3de-ac006e8dd8af)
+
 
 To determine the trigger event(s) for the intercept survey we considered:
 - Consistency: Given the number of conditionals in Chapter 4, we think the survey should appear before most conditionals
