@@ -63,7 +63,9 @@ One Veteran recommended improved functionality for skipping around in the form a
 
 >"It would be nice if you had TABS or something that you can select to go to a certain section of the application (such as personal, illnesses, etc)  like tax preperation software INSTEAD of having to select the BACK button over and over to get back to a certain section."
 
-**5. Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
+**4. TE monitoring of Medallia must include comprehensive coding of all responses -not just those that fall on Toxic Exposure pages. User feedback about specific issues are frequently reported on other pages-- especially introduction, confirmation, and start.** 
+
+**5.Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
 |3/2023 Finding | True/False in current data set|Context|Veteran voice|
 |--|--|--|--|
 |Certain error messages can lead Veterans to frustrating encounters with the Contact Center. | **True** | Veterans are still encountering errors that cannot be resolved by calling the Contact Center|"Trying to file a claim online, called number provided, got transferred 10 times with no help."|
