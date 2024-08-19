@@ -58,10 +58,10 @@ These takeaways are a combination of key findings and hypotheses around what we 
 Veterans are confused by In Progress Forms-- where to find an existing application, how to continue it, and/or how to start from scratch (n=7). Four additional Veterans describe being caught endlessly in the "Is this the right form?" loop. 
 
 >"Continue filing a PACT Act claim.  It seems the 17th time I log in, in a couple of days, I don't need to be asked again if I'm on active duty, or which claim I'm doing.  Give me an option to return where I was or ask if I want to go somewhere else.  I spent more time navigating the site than doing anything useful."
->
->"Can not find my saved file to continue filling out VA Form 
-21-526EZ."
 
+One Veteran recommended improved functionality for skipping around in the form as an alternative to the back button. I hypothesize that Veterans will echo this desire in future feedback-- especially if many locations are selected.
+
+>"It would be nice if you had TABS or something that you can select to go to a certain section of the application (such as personal, illnesses, etc)  like tax preperation software INSTEAD of having to select the BACK button over and over to get back to a certain section."
 
 **5. Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
 |3/2023 Finding | True/False in current data set|Context|Veteran voice|
