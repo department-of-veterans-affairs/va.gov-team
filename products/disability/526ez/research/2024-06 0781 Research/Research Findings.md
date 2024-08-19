@@ -518,6 +518,7 @@ Moments of confusion of hesitation included:
 - One Veteran expressed concern about who would see the indicator, and would opt "no" under the assumption that anyone at VA would be able to see it. The Veteran thought the purpose of the indicator might include determining the gender of the person selected to conduct C&P exams, and expected that this would prolong their claim time. (They did express that they would like the opportunity to express preference for their examiner's gender. )
 
 All Veterans liked the option to revoke consent. Revoking consent and VA healthcare radio buttons were confusing, raising questions if we can make these conditional based on information we already have (ex. enrolled in VA healthcare, previously provided consent).
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2051.png)
 
 ## Additional Findings: Post-Task
