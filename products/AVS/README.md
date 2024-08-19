@@ -6,7 +6,7 @@ One way to help patients avoid these frustrations is to give them a clinical sum
 In addition to the AVS, our team has developed the Pre-Visit Summary (PVS) to assist patients leading up to their appointment and the Discharge Visit Summary (DVS) to assist patients upon discharge. Each document will display different pieces of default information. That is, information that is automatically included in the summary, unless configured otherwise. In addition, there is optional information that can be included depending on the needs of the patient.
 
 - [Team](#team)
-- [AVS Components](###AVS-Components)
+- [AVS Components](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/AVS/README.md#avs-components)
 
 ## North Star
 Provide Veterans with clear, actionable, and timely summaries related to their recent healthcare visit.
