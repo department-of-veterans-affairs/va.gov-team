@@ -44,7 +44,7 @@
     - 🟩 are there any remaining tickets prior to release?
     - 🟪 Let Kristen know a few days in advance of the release so that she can inform the appropriate teams
     - 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
-    - 🟥 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)    
+    - 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)    
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish all work and schedule Staging & ISR Reviews**
     - 🟦 [BE] SPIKE - discover all the possible values for the 'kind' field #90911
