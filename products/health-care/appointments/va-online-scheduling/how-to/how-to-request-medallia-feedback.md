@@ -57,9 +57,9 @@ No
 |   27  | 06-30-2024 | 07-06-2024 | Peter Russo  | [88131](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88131) | Done  |
 |   28  | 07-07-2024 | 07-13-2024 | Peter Russo  | [88402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88402) | Done  |
 |   29  | 07-14-2024 | 07-20-2024 | Peter Russo  | [88954](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88954) |  Done      |
-|   30  | 07-21-2024 | 07-27-2024 | Peter Russo  | [89468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89468) | In Progress       |
-|   31  |   07-28-2024    | 08-03-2024       | Peter Russo  | [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271)         |    In Progress    |
-|   32  |   08-04-2024    | 08-10-2024       | Peter Russo  | [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271)         |    In Progress - note: ticket includes up to 8-7, will add another ticket next week to capture the rest |
+|   30  | 07-21-2024 | 07-27-2024 | Peter Russo  | [89468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89468) | Done       |
+|   31  |   07-28-2024    | 08-03-2024       | Peter Russo  | [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271)         |    Done    |
+|   32  |   08-04-2024    | 08-10-2024       | Peter Russo  | [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271)         |    Done - note: ticket includes up to 8-7, will add another ticket next week to capture the rest |
 |   33  |   08-11-2024    | 08-17-2024       | Peter Russo  | []()         |        |
 |   34  |       |        | Peter Russo  | []()         |        |
 |   35  |       |        | Peter Russo  | []()         |        |
