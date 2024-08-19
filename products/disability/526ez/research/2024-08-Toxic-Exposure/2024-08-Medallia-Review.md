@@ -45,6 +45,8 @@ Findings derived from from March 2023 Medallia data review largely hold in the J
 |Veterans are finding themselves misrouted to or stuck on the Reserves National Guard (RNG) page.| **True**| The unit number format confuses Veterans and blocks them from proceeding.|"Trying to fill out form and asked for "Unit Name" tried it every way I could think of."|
 |Veterans reported evidence-related challenges throughout the application.|**True**| Difficulties with evidence hold true now. 17 Veterans spoke of issues with uploading files. |" I was not able to complete the form by my Aug XX,2024 deadline because the form seems to be rigged. Every time I select one of the 2 options below my uploaded pdf it automatically deletes several other boxes above or below the other uploads."|
 
+
+
 ## Appendix 
 ### Coding - Themes across survey responses
 I coded all qualitative user feedback using the codes developed in our last Medallia review (March 2023 data) and added new ones as needed. Most common specific feedback themes included usability issues, questions about filing for the Pact Act, problems with error blockers, and navigation. 
@@ -62,10 +64,3 @@ I coded all qualitative user feedback using the codes developed in our last Meda
 |Intent to File| 5| -- |Responses that reference Intent to File or upcoming ITF deadlines|
 | Bright spot| 1 |14| Positive feedback or something that’s working well|
 |General| 141|8| Responses that included non-specific qualitative information, such as "filing"|
-
-
-
-
-
-
-- 68% of Veterans reported that they were **NOT** able to complete the task they set out to do [216 out of 318 total responses].
