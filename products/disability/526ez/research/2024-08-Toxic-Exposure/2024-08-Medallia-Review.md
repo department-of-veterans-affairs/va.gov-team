@@ -57,11 +57,10 @@ I coded all qualitative user feedback using the codes developed in our last Meda
 
 |3/2023 Finding | True/False in 7/2024?|Context|Veteran voice|
 |--|--|--|--|
-|Veterans face blockers that require external support—but sometimes find that help difficult to get.| True | |
-|Certain error messages can lead Veterans to frustrating encounters with the Contact Center. | True | Veterans are still encountering errors that cannot be resolved by calling the Contact Center||
-|Error messages block Veterans from filing.| Less true| Veterans do not express frustration with ITF errors, but express problems with BIRLS/EDIPI blockers and isolated (n=3) Participant ID problems | "Trying to fill out form and asked for "Unit Name" tried it every way I could think of."||
-|Veterans are finding themselves misrouted to or stuck on the Reserves National Guard (RNG) page.| True| The unit number format confuses Veterans and blocks some (n= ||
-|Veterans reported evidence-related challenges throughout the application.|True| Difficulties with evidence hold true now. 17 Veterans spoke of issues with uploading files. | |
+|Certain error messages can lead Veterans to frustrating encounters with the Contact Center. | True | Veterans are still encountering errors that cannot be resolved by calling the Contact Center|"Trying to file a claim online, called number provided, got transferred 10 times with no help."|
+|Error messages block Veterans from filing.| Less true| Veterans do not express frustration with ITF errors, but express problems with BIRLS/EDIPI blockers and isolated Participant ID problems (n=3)|"We have tried and tried to get a birls i.d. Or edition with no luck.  We have tried and tried to submit a disability claim with no luck." |
+|Veterans are finding themselves misrouted to or stuck on the Reserves National Guard (RNG) page.| True| The unit number format confuses Veterans and blocks them from proceeding.|"Trying to fill out form and asked for "Unit Name" tried it every way I could think of."
+|Veterans reported evidence-related challenges throughout the application.|True| Difficulties with evidence hold true now. 17 Veterans spoke of issues with uploading files. |" I was not able to complete the form by my Aug XX,2024 deadline because the form seems to be rigged. Every time I select one of the 2 options below my uploaded pdf it automatically deletes several other boxes above or below the other uploads."|
 
 
 ## Themes to Track
