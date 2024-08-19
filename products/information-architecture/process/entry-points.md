@@ -1,14 +1,36 @@
-# Entry Point Implementation
-Entry points are an important findability element and a way for users to access your product. Typically, IA will deliver entry points recommendations in the IA spec and will divide up the entry points by three types.
+# Entry Point and Crosslinks
 
-## Types of entry points
+An **entry point** is a CTA (can be a link, but is typically something more prominent) placed on a page or in navigation, where it is the primary intention of that page or component.  It is how a visitor would navigate to/discover a feature. Without an entry point, there is no way to navigate to a feature.
+
+**Crosslinks** are links on a page or in navigation that are secondary to the page or area's purpose, but were placed there because they have a relationship.
+
+There are three types that the IA specialist will document in the IA spec:
+
+1. Primary entry point
+2. Additional entry points
+3. Suggested crosslinks
+
+## Types
 
 ### Primary entry point
-The primary entry point is a static page on VA.gov with relevant information to the product you are launching. This is where the CTA will be added. Product teams must add the primary entry point prior to staging review.
+This is the most critical entry point that needs to be implemented.  Most of the time, this is the CTA on a tool static landing page, and is generally part of a sign in widget. For forms this may be slightly different and it may be on a `/how-to-apply` page or something equivalent.  Sometimes the only way to access a feature is via navigation component (top, left) or a header/footer/home page link.
+
+This is the entry point that HAS to be ready to launch when a team goes through staging review. This is the only entry point that should be required for staging review. The only exception to this is if the feature is only supposed to be accessible a specific way (i.e. check-in is only accessible via a text) either indefinitely or for some period of time for a silent launch that has been approved by OCTO (i.e. MHV on Va.gov tools).
+
+There is only ever 1 primary entry point.
+
+Ex: sign-in widget from primary landing page (unless there isn’t a primary page, in which case it would be the left nav)
 
 
 ### Secondary entry point
-Secondary entry points are additional ways to to access a product. These consist of the megamenu, left navigation or benefit hub page. Not all products will be added to all three areas and IA can support to determine these additional entry points.
+Secondary entry points are any additional locations that the page should be navigable from. This is often an about form page, an R&S page about the feature, or even a best bet. These are secondary, and while they are still very important, are not required for launch.
+
+There can be multiple additional entry points.
+
+Ex: mega menu, left nav, find-a-form
+
 
 ### Crosslinks
-Crosslinks are links from other pages to this tool. These aren't required, but can assist in helping users get to the right page they are looking for. IA can make crosslink recommendations, but Sitewide Content leads this task as they have thorough knowledge on content in VA.gov as well as access to auditing tools. Crosslinks are also iterative and can change depending on page performance and other factors.
+Crosslinks are not fully IA responsibility. If there are specific pages or places that we believe should should also reference the feature, we can call those out. Ultimately, the content team knows the content very well and can add crosslinks across the site. There might not always be any crosslink recommendations; it's more of a place to document any other places that we stumble upon or that a team asks about.
+
+Crosslinks are also iterative and can change depending on page performance and other factors.
