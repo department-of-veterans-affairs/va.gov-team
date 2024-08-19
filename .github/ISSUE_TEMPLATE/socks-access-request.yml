@@ -89,6 +89,7 @@ body:
     validations:
       required: true
   - type: checkboxes
+    id: lighthouse
     attributes:
       label: Lighthouse?
       options:
