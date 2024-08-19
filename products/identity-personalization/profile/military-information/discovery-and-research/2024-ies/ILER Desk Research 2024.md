@@ -12,6 +12,13 @@ The goals of this document are:
 - to collect the learnings and insights to date around building Veteran access to enhanced military information (specifically, the data gathered and presented by the ILER system) in the VA.gov Profile
 - to document open questions at the time of this writing
 - to offer recommendations for action, including communications around the nature of the information
+- to document the details and required actions from the Congressional mandates for providing ILER access to Veterans
+- to capture how Veterans would use their ILER information (use cases)
+- to incorporate what has previously been discussed and workshopped with stakeholders
+
+The goal of this ticket is to, based on the learnings above, offer:
+- next steps
+- recommendatons
 
 ## Definitions
 
@@ -60,6 +67,29 @@ This is "a separate web application from ILER that provides DOD and VA staff (e.
 **Toxic Exposure Risk Activity (TERA)**
 https://www.va.gov/HEALTHBENEFITS/resources/publications/10-1745_Toxic-exposed-Veterans.pdf and https://www.publichealth.va.gov/exposures/ LOOK UP FOR DETAILS
 
+### Legislative History
+
+On 1 January 2021, Congress passed the National Defense Authorization Act, in which Section 9105 required that Veterans shall have access to their ILER. At the time, this was mandated as read-only access.
+
+On 10 August 2022, the PACT Act, Section 803 stated that the VA and DoD shall coordinate to allow Veterans to update the records in their ILER “as necessary”. There was no deadline for this.
+
+
+DOD and VA released an initial version of ILER (version 1.0) for staff use
+in October 2019. DOD and VA have subsequently released updated
+versions with expanded functionalities and data sources accessible
+through ILER.13 For example, version 1.1 expanded the number of data
+sources feeding into ILER, and version 1.2 added further data sources
+and allowed for read-only access to individuals’ ILER exposure
+summaries through the Joint Longitudinal Viewer. With Version 2.3,
+released in July 2023, ILER included all functionalities that the agencies
+had initially planned, which included tools for research, according to DOD
+and VA officials. Following this release, DOD and VA officials said they
+planned to continue to make enhancements to ILER and address new
+legislative requirements in future versions of the web application.14 As of
+January 2024, staff were using version 2.4 (released in October 2023),
+which added some of DOD’s blast overpressure data.15 Version 2.5 will
+be available to staff in April 2024, according to DOD officials.
+
 ## Veteran Journey
 
 Where does your product fit into the Veteran journey? Are there moments that matter? Key moments this research touches in the Veteran journey are:
@@ -95,37 +125,7 @@ Metrics to monitor after deployment of this feature might include:
 
 ## Purpose of this research
 
-**The scope of this ticket is to engage in desk research to learn:**
-- the details and required actions from the Congressional mandates for providing ILER access to Veterans
-- how Veterans would use their ILER information (use cases)
-- what has previously been discussed and workshopped with stakeholders
 
-The goal of this ticket is to, based on the learnings above, offer:
-- next steps
-- recommendatons
-
-### Legislative History
-
-On 1 January 2021, Congress passed the National Defense Authorization Act, in which Section 9105 required that Veterans shall have access to their ILER. At the time, this was mandated as read-only access.
-
-On 10 August 2022, the PACT Act, Section 803 stated that the VA and DoD shall coordinate to allow Veterans to update the records in their ILER “as necessary”. There was no deadline for this.
-
-
-DOD and VA released an initial version of ILER (version 1.0) for staff use
-in October 2019. DOD and VA have subsequently released updated
-versions with expanded functionalities and data sources accessible
-through ILER.13 For example, version 1.1 expanded the number of data
-sources feeding into ILER, and version 1.2 added further data sources
-and allowed for read-only access to individuals’ ILER exposure
-summaries through the Joint Longitudinal Viewer. With Version 2.3,
-released in July 2023, ILER included all functionalities that the agencies
-had initially planned, which included tools for research, according to DOD
-and VA officials. Following this release, DOD and VA officials said they
-planned to continue to make enhancements to ILER and address new
-legislative requirements in future versions of the web application.14 As of
-January 2024, staff were using version 2.4 (released in October 2023),
-which added some of DOD’s blast overpressure data.15 Version 2.5 will
-be available to staff in April 2024, according to DOD officials.
 
 ### Use Cases
 
