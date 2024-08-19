@@ -55,13 +55,13 @@ I coded all qualitative user feedback using the codes developed in our last Meda
 
 - Findings from March 2023 Medallia data review are largely consistent with July 2024 data. Shown improvement
 
-|March 2023 Finding | Is finding true/false in July 2024?|
+|March 2023 Finding | Is finding true/false in July 2024?|Context|
 |--|--|
-|Veterans face blockers that require external support—but sometimes find that help difficult to get.| Less true |
-|Certain error messages can lead Veterans to frustrating encounters with the Contact Center. | Less true |
-|Error messages block Veterans from filing.| Less true|
-|Veterans are finding themselves misrouted to or stuck on the Reserves National Guard (RNG) page.| True|
-|Veterans reported evidence-related challenges throughout the application.|True|
+|Veterans face blockers that require external support—but sometimes find that help difficult to get.| True | 
+|Certain error messages can lead Veterans to frustrating encounters with the Contact Center. | True | Veterans are still encountering errors that cannot be resolved by calling the Contact Center|
+|Error messages block Veterans from filing.| Less true| Veterans do not express frustration with ITF errors, but express problems with BIRLS/EDIPI blockers and isolated (n=3) Participant ID problems | "Tried to complete prior service info (3 active Army periods accepted; 1 Army Reserve period rejected). Form did not accept "pattern" when specifying unit which the form demanded to be entered. It gave no clue as to what pattern it wanted. This has stopped my work on the form because form won't let me move forward. Please put clear instructions on form, not ambiguous demands, also allow applicants to work the rest of the form rather than be shut out.   Thanks for asking how it went."|
+|Veterans are finding themselves misrouted to or stuck on the Reserves National Guard (RNG) page.| True| The unit number format confuses Veterans 
+|Veterans reported evidence-related challenges throughout the application.|True| 
 
 -
 -
