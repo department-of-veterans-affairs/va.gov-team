@@ -1,5 +1,16 @@
-# Research Plan for AEDP Prefill Study, July 24, 2024
-### Q4 2024
+# Research Plan for AEDP Prefill Study, August 19, 2024
+
+
+**Jump ahead to:**
+- [Background](#background)
+- [Research goals](#research-goals)
+- [Methodology](#methodology)
+- [Recruitment](#recruitment)
+- [Timeline](#timeline)
+- [Research sessions](#research-sessions)
+- [Team roles](#team-roles)
+- [Approved by](#approved-by)
+
 ## Background
 A variety of digital products within the authenticated VA.gov experience provide a service to users that prefill some of their existing profile information in order to save Veterans' time and energy. Our team is tasked with reviewing current or potential VADS design patterns to improve guidance around their implementation for consistency and ease of use across the different use cases on VA.gov. We have researched how this pattern has been used so far across the site, and would like to test some of the different variations we have seen implemented to find the best possible solution for the widest audience.
 
@@ -55,7 +66,7 @@ We will guide participants to complete the tasks using a think-aloud method.
 - Which type of prefilled data display do they prefer to see on the edit page? (in-field vs gray box)
 - What content do users expect to see in the confirmation message after they have saved their data?
 
-### Hypothesis
+### Hypotheses
 Location of the prefill alert (Intro page vs Form pages):
 - The prefill alert on the front page will entice the user to login for a more convenient experience.
 - Bolding “note” in the prefill alert messaging will help users see a block of text quicker.
@@ -72,7 +83,7 @@ Location where updated data is saved (Profile vs Form):
 - Users want to be informed if their data is not updating to their profile.
 - The confirmation alert will help users understand when their data has been updated.
 
-## Method	
+## Methodology	
 We will perform usability testing on three scenario-based concept tests - appropriate for evaluating structured design maturity. We will use the think-aloud format so that we can evaluate how the user is responding to the design as they perform a task we give them. We will show the three tasks to each participant and change the order of the tasks shown to avoid the first view bias.
 
 **Note:** This may change to two concepts per participant if we find that three are too many flows to show each participant.
@@ -98,11 +109,17 @@ We are looking for 8 Veterans to participate in this study. We’ll use a lean m
 
 ### Screener Questions
 
-1. “Are you able to login to your mobile phone to navigate websites and willing to conduct this test on your mobile device?”
-2. "Are you willing to share over Zoom a web browser window on your device?"
-3. "Do you have a working microphone on your device?"
-4. "Can you have Zoom downloaded to your device prior to the session and know how to share your screen?"
-5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+#### Primary criteria (must-haves)
+
+- All participants must be willing to join from their mobile devices for the study
+	- Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet [Yes/No]
+- At least 5 Veterans who are over 55 years old.
+- At least 4 Veterans who identify as having a cognitive disability.
+	- Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+		- Response options: yes or no (Answering yes would qualify the participant.)
+- At least 3 Veterans who identify as a gender other than male. 
+- At least 2 Veterans who are under 35 years old. 
+- At least 1 Veteran who lives in a rural area.
 
 |# of participants|Criteria|
 |:--|:--|
@@ -112,10 +129,10 @@ We are looking for 8 Veterans to participate in this study. We’ll use a lean m
 |At least 4|have a cognitive disability or consideration|
 |At least 3|Identify as a gender other than male|
 |At least 2|Are under 35|
-|At least 1|Are rural|
+|At least 1|Lives in a rural area|
 
 ## Timeline
-Request Kickoff call with Perigean on August 20th or 23rd
+Requesting a Kickoff call with Perigean since this is our teams first research study on August 20th between 2-5pm EST or the 23rd between 10:30am-2pm OR 4-5pm EST
 
 ### Prepare
 **When will the thing you are testing be finalized?**
@@ -124,13 +141,17 @@ Monday, August 19th
 
 **Pilot session information**
 
+Two options available, depending on when recruiting can schedule participants.
+
 - Pilot participant email: Alexandria.parker@agile6.com
-- Date and time of pilot session: Tuesday 27th at 4pm ET.
+- Date and time of pilot session: Thursday, August 22nd at 11am EST OR Tuesday, August 27th at 4pm EST.
 
 ### Research sessions
 **Planned dates of research:**
 
-- Planned dates of research: September 3rd - 9th 
+We have all our documents and prototype together, but we acknowledge that the research platform guidance says to give 10 days notice for new studies. If we are able to get in sooner than September 3rd, we are ready to begin testing as soon as Monday, August 26th. We have provided some additional availability slots during those extra days if Perigean is able to accommodate us. Thank you!
+
+- Planned dates of research: September 3rd - 9th (With flexible starting date as early as Mon, Aug 26) 
 
 ### Length of sessions
 
@@ -140,30 +161,29 @@ Monday, August 19th
 
 ### Availability
 
+The least preferred day to schedule participants is Thursday, September 5th as one of our researchers is out on Thursdays, but we wanted to provide lots of extra availability just in case. Thanks!
+
 |Date|Timeslots (EST)|
 |:--|:--|
-|Tuesday September 3rd|10:30am-11:30am, 2pm-5pm|
-|Wednesday September 4th|10:30am-1:30pm|
+|Monday August 26th| 2pm-7pm|
+|Tuesday August 27th| 2pm-7pm|
+|Wednesday August 28th| 1pm-3pm, 5pm-7pm|
+|Friday August 30th| 10:30am-6pm|
+|Tuesday September 3rd|10:30am-11:30am, 2pm-7pm|
+|Wednesday September 4th|10:30am-3pm, 4-7pm|
 |Thursday September 5th|10:30am-5pm|
-|Friday September 6th|10:30am-5pm|
-|Monday September 9th| 2pm-5pm|
-|Tuesday September 10th| 10:30am-11:30am, 2pm-5pm|
-
-Tues Sept 3rd - 10:30-11:30, 2-5
-Wed Sep 4 - 10:30-1:30
-Thurs Sep 5 - 10:30 - 5
-Fri Sep 6 - 10:30-5
-Mon Sep 9 - 2 - 5
-Tues Sept 10th - 10:30-11:30, 2-5
+|Friday September 6th|10:30am-6pm|
+|Monday September 9th| 2pm-7pm|
+|Tuesday September 10th| 10:30am-11:30am, 2pm-7pm|
 	
 ## Team Roles	
 Below is the list of the people serving in each role and their contact information:
 
-- Moderator: Morgan Jones
+- Moderator: Morgan Jones & Christine Steiffer
 - Research guide writing and task development: Morgan Jones
 - Participant recruiting & screening: Perigean
 - Project point of contact: Christine Steiffer
-- Participant(s) for pilot test: Lynn Stahl
+- Participant(s) for pilot test: Alex Parker
 - Note-takers: Christine Steiffer, Morgan Jones, Lynn Stahl
 - Observers: Lynn Stahl, Adam Whitlock, Belle P, Becky Phung, Alex Parker, Matt Dingee, Kevin Hoffman PLUS additional members from teams who are using or are interested in using the latest prefill recommendations (Pension Benefits, Decision Reviews, Ask VA, CHAMPVA, CAIA, etc)
 
@@ -171,6 +191,9 @@ Below is the list of the people serving in each role and their contact informati
 - Morgan Jones - 	morgan.jones@adhocteam.us        415-300-6962
 - Christine Steiffer - 	christine.steiffer@agile6.com 	571-282-9104
 - Lynn Stahl - lynn.stahl@agile6.com
+
 ## Approved by:
+
 Becky Phung, PO on:
+
 Shane Strassberg, VA Research Ops:
