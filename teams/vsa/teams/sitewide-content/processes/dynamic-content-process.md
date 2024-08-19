@@ -49,3 +49,31 @@ The Product team should tell Sitewide CAIA about plans for an incremental launch
 * Confirm start and end date for the incremental launch
 * Confirm date the engineer will deliver the react widget ID code to CAIA
 
+## React widget creation steps
+
+* For non-sign-in-related react widgets, follow the [platform developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-react-widget) to create the react widget
+* For sign-in-related (Call to Action) react widgets:
+1. add entry to `CTA_WIDGET_TYPES` in `src/applications/static-pages/cta-widget/ctaWidgets.js`. `MY_WIDGET_NAME: 'my-widget-name',`
+2. add entry to `ctaWidgetsLookup` to initialize the widget:
+```
+[CTA_WIDGET_TYPES.MY_WIDGET_NAME]: {
+  id: CTA_WIDGET_TYPES.MY_WIDGET_NAME,
+  deriveToolUrlDetails: () => ({
+  url: '/url-to-my-application',
+    redirect: true,
+  }),
+  hasRequiredMhvAccount: () => false,
+  isHealthTool: false,
+  mhvToolName: null,
+  requiredServices: null,
+  serviceDescription: 'perform some action',
+},
+```
+3. Point `url` to the route to your team's react application (or any other appropriate/relevant page)
+4. Update the `serviceDescription` with the action to perform. This description will be appended to the sign-in call-to-action (i.e. Sign in to [serviceDescription])
+5. Provide the widget type value to sitewide CAIA for input into Drupal
+
+## Notes for testing react widgets
+* For general testing, ensure the widget code has been deployed to production before testing with Sitewide CAIA.
+* If your widget is controlled by a feature toggle, when Sitewide CAIA is ready for testing, you will need to fully enable the feature toggle for all users in order to test the enabled rendering. Testing will not work with the toggle in a conditional state. You may reset the toggle to whatever condition is required after testing is completed.
+
