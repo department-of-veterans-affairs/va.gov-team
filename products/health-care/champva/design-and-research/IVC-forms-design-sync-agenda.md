@@ -1,6 +1,6 @@
 # Running Design and Research Agenda
 ## August 19, 2024
-- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penil
+- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang
 - Facilitator: Jamie
 - Next meeting facilitator: Steven
 - Agenda Topics
@@ -61,7 +61,7 @@
 
 
 ## August 5, 2024
-- Attendees: Jamie Fiore, Steven Straily, Syd Hoeper, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
+- Attendees: Jamie Fiore, Steven Straily, Syd Hoeper, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah, Devi Hill
 - Facilitator: Rachael
 - Next meeting facilitator: TBD
 - Agenda Topics
