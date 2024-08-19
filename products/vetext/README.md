@@ -11,7 +11,7 @@ In 2020 the VEText team moved to the OCTO to give it a national scope, and is no
 - [Additional Documentation](#additional-documentation)
 
 ## North Star
-When a Veteran interacts with the VA, they receive clear communication to make the best use of their time and benefits.
+Provide Veterans with clear, actionable, timely messages related to their health care and benefits via the channel of their choice (push, SMS, email).
 
 ## User Groups
 
@@ -27,77 +27,12 @@ A platform for sending SMS messages built upon a complex rules engine.
 
 # Objectives
 
-#### 1: How might we make the communication process between VA administrators and Veterans easier?
+The following are VEText's Objectives and Key Results (OKRs), as aligned with OCTO & Health Portfolio OKRs.
 
-**Objective**:
-Launch new applications of the VEText portal based on direct needs and input from VA administrators
+<table><tbody><tr><td><strong>OCTO &amp; Health Portfolio OKRs</strong></td><td><strong>VEText OKRs</strong></td></tr><tr><td>Our digital experiences are the best way to access VA health care and benefits</td><td><ul><li>VEText Oracle Health appointment reminder functionality is adopted by all 5 VA Oracle Health sites</li><li>VEText VistA is transitioned to AWS</li></ul></td></tr><tr><td>Our platforms are the best way to deliver products at VA</td><td><ul><li>VEText Oracle Health product achieves the elite DORA level</li><li>VEText opt-out rate is decreased by 1%</li><li>VEText average response rate is increased by 1%</li></ul></td></tr><tr><td>Our people are empowered with the knowledge and resources they need to make sustained impact</td><td><ul><li>VEText VistA achieves a 100% adoption of OSM by Primary Care clinics</li><li>Thorough documentation has been compiled for VEText OH (mirroring format of VEText VistA)</li></ul></td></tr><tr><td>Reduce the time Veterans and their care teams spend on each VA transaction</td><td><ul><li>VEText Oracle Health is performant for users upon rollout<ul><li>Average error rate &lt; .3%</li><li>Average latency &lt; 6s p95</li></ul></li></ul></td></tr></tbody></table>
 
-**Key Results**:
-Run successful pilot programs  
- - Number of new pilot programs launched
- -  Adoption rate for successful programs outside of the initial pilot
-   programs
-----
-#### 2: How might we reduce missed or no-show healthcare appointments?
-**Objective**:
-Optimize use of VHA appointment slots.
-
-**Key Results**:
-Enable veterans to take an active role in scheduling their healthcare
- - Decrease number of appointments missed vs control
- - Increase number of appointments rescheduled vs control
- - Decreased wait times for VHA health appointments
-----
-
-#### 3: How might we better track veterans’ appointments outside of the VA ecosystem?
-
-**Objective**:
-Increase accuracy of “Community Care” reporting
-
-**Key Results**:
-Giving veterans a simple way to provide updates about their status.
- - Increase number of community care appointments captured vs control
------
-#### 4: How might we help veterans retain their VHA benefits?
-
-**Objective**:
-Reduce the number of Veterans who lose their benefits after 24 months of inactivity
-
-**Key Results**:
-Allow easy scheduling of primary care appointments
- - Increase number of veterans who retain benefits vs control
----
-#### 5: How might we increase transparency into prescription tracking & renewals?
-
-**Objective**:
-Improve visibility into prescription shipping
-
-**Key Results**:
-Help veterans receive their medications.
- - Reduce support volume for VHA pharmacies vs control
- - Increase number of prescriptions renewed through automation tools
----
-#### 6: How might we give veterans access to available vaccine appointments?
-
-**Objective**:
-Get veterans vaccinated (both flu & COVID-19) 
-
-**Key Results**:
-More veterans receiving vaccinations 
- - Increase percentage of veterans receiving recurring vaccinations YOY
- - Increase percentage of veterans receiving non-recurring vaccinations
-
----
-#### 7. How might we reduce the number of people in the VA on a given day?
-
-**Objective**:
-Give Veterans & their caregivers more notification options for appointments and procedures.
-
-**Key Results**:
-Fewer veterans and caregivers in waiting rooms
- - Increase % Veterans
- - Increases satisfaction among caregivers (survey based) 
-
+*   **VEText VistA**: Current VistA-based VEText platform
+*   **VEText Oracle Health (VEText OH)**: New Oracle Health VEText platform
 
 # Team
 The core development team (Shane, Robert & Andy) have worked together for 20 years on various applications in the VA Loma Linda Healthcare system until transitioning to OCTO. 
