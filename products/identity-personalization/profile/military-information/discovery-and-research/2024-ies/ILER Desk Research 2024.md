@@ -177,15 +177,27 @@ some SMs don't trust the content
 
 tho placement on the Profile is important, explanatory language and resources for the Veteran to follow up with questions will be super important to the success in a Veteran improving outcomes
 
-### Hypotheses and Conclusions
+### Key findings
 
-For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. 
+For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. In addition, we will rely on pre-discovery and discovery work conducted for stakeholders by Booze Allen CORRECT NAME AND CHECK TO SEE IF WE CAN INCLUDE LINKS
+
+1. The information in ILER/IES can be relevant to a Veteran's TKTK in getting health care REWORD
+2. Veterans DO THEY OR SHOULD THEY use ILER/IES access in relation to applying for health care
+3. Veterans DO THEY OR SHOULD THEY use ILER/IES access in relation to applying for benefits
+4. Veterans DO THEY OR SHOULD THEY use ILER/IES access in relation to applying for disability status
+5. Veterans are NOT aware of what this is
+6. VA staff may often not know about this and cannot help Veterans
+7. The term IES may be properly prescriptive (and used in context w/ stakeholders) but Veterans and VA staff know it as ILER SO WE SHOULD DO THAT?
 
 1. Veterans use ILER/IES access in relation to applying for health care
    
-   **No evidence for this**
+   **Some evidence for this**
    
-According to prior research for Enhanced Military Information (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md), Veterans may or may not need their DD214 when applying for VA benefits and services, but having their information of service dates and deployments facilitates application for VA benefits. (Information about potential exposures and disability ratings were outside the scope of the previous research cited.)
+According to prior research for Enhanced Military Information (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md), Veterans may or may not need their DD214 when applying for VA benefits and services. 
+
+2. Veterans use ILER/IES access in relation to benefits
+
+Having their information of service dates and deployments application for VA benefits. (Information about potential exposures and disability ratings were outside the scope of the previous research cited.)
 
 ADD REDDIT QUESTIONS HERE WITH CAVEATS ABOUT CANARY IN THE MINE AND RARE SAMPLE
 
