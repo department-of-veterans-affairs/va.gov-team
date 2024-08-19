@@ -31,8 +31,6 @@ The following are VEText's Objectives and Key Results (OKRs), as aligned with OC
 
 <table><tbody><tr><td><strong>OCTO &amp; Health Portfolio OKRs</strong></td><td><strong>VEText OKRs</strong></td></tr><tr><td>Our digital experiences are the best way to access VA health care and benefits</td><td><ul><li>VEText Oracle Health appointment reminder functionality is adopted by all 5 VA Oracle Health sites</li><li>VEText VistA is transitioned to AWS</li></ul></td></tr><tr><td>Our platforms are the best way to deliver products at VA</td><td><ul><li>VEText Oracle Health product achieves the elite DORA level</li><li>VEText opt-out rate is decreased by 1%</li><li>VEText average response rate is increased by 1%</li></ul></td></tr><tr><td>Our people are empowered with the knowledge and resources they need to make sustained impact</td><td><ul><li>VEText VistA achieves a 100% adoption of OSM by Primary Care clinics</li><li>Thorough documentation has been compiled for VEText OH (mirroring format of VEText VistA)</li></ul></td></tr><tr><td>Reduce the time Veterans and their care teams spend on each VA transaction</td><td><ul><li>VEText Oracle Health is performant for users upon rollout<ul><li>Average error rate &lt; .3%</li><li>Average latency &lt; 6s p95</li></ul></li></ul></td></tr></tbody></table>
 
-*   **VEText VistA**: Current VistA-based VEText platform
-
 # Team
 The core development team (Shane, Robert & Andy) have worked together for 20 years on various applications in the VA Loma Linda Healthcare system until transitioning to OCTO. 
 
