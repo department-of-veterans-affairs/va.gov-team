@@ -35,6 +35,8 @@ User feedback was most concentrated at the very beginning of the form, despite t
 |3| Veteran Information | 7 | 8% |
 
 ## Top 5 Takeaways 
+These takeaways are a combination of key findings and hypotheses around what we might see in Toxic Exposure during the rollout.
+
 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; customer satisfaction averaged around 3 out of 5. 
 
 **1. Veterans have questions about their eligibility for the Pact Act.**
@@ -51,9 +53,15 @@ User feedback was most concentrated at the very beginning of the form, despite t
    > "I am still trying to file claim and supplemental claim for late husband they said we filed on wrong claim....Also need VA to relook as Causations and contributors to his passing, along with [PII] they said AO never used in[Hazardous Location]. Very frustrated you make it impossible for the Vet the worse for the family."
    > 
 
+**3. Existing navigation issues expressed in Medallia (and mirrored in 526 Shadowing and 0781 research) could magnify cognitive burden of Toxic Exposure questions.**
 
+Veterans are confused by In Progress Forms-- where to find an existing application, how to continue it, and/or how to start from scratch (n=7). Four additional Veterans describe being caught endlessly in the "Is this the right form?" loop. 
 
-## Detail of Takeways
+>"Continue filing a PACT Act claim.  It seems the 17th time I log in, in a couple of days, I don't need to be asked again if I'm on active duty, or which claim I'm doing.  Give me an option to return where I was or ask if I want to go somewhere else.  I spent more time navigating the site than doing anything useful."
+>
+>"Can not find my saved file to continue filling out VA Form 
+21-526EZ."
+
 
 **5. Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
 |3/2023 Finding | True/False in current data set|Context|Veteran voice|
