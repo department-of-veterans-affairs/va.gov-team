@@ -34,13 +34,25 @@ User feedback was most concentrated at the very beginning of the form, despite t
 |2| Start| 22 | 26%|
 |3| Veteran Information | 7 | 8% |
   
+### Coding Responses
+I coded all qualitative user feedback using the codes developed in our last Medallia data review (October 2023) and added new ones as needed. 
+|Code|How it was used|
+|--|--|
+|Error| Responses that describe an error message they came across in the form |
+|Navigation | Responses that describe moving from one part of the application to another and wayfinding |
+|Evidence/evidence upload| Responses that describe evidence or medical records, uploading or downloading|
+|Getting help|Responses that describe seeking help from the hotline, VSOs, professionals, or other sources|
+|Submission| Responses that describe submitting their form and/or the confirmation page|
+|Bright spot| Positive feedback or something that’s working well|
+|Pain point| Responses that express distress or frustration, but don’t fall into another tag |
+|General| Responses that included non-specific qualitative information, such as "filing"|
 
-### Feedback Survey Data
 
-
+Process fatigue - responses that express tiredness or frustration with the length, complexity, and time required in the form
+Content - responses that refer to the content or information within the form
 
 ## Key Findings
-- 65% of the Intercept responses came from the Start, Introduction, or Veteran Information pages [55 out of 85].
+
 - 68% of Veterans reported that they were **NOT** able to complete the task they set out to do [216 out of 318 total responses].
 
 ## Themes to Track
