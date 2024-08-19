@@ -19,10 +19,10 @@ User feedback was most concentrated on the first and last pages of the form.
 |Top Feedback Pages|# of responses| Percentage of total|
 |--|--|--|
 |Total| 462 | -- |
-|Introduction| 116 | % |
-| Confirmation| 76 |%|
-| Start | 64 | % |
-|Review & Submit| 19 | %|
+|Introduction| 116 | 25% |
+| Confirmation| 76 |16%|
+| Start | 64 | 14% |
+|Review & Submit| 19 | 4%|
 
 ### Intercept survey
 Between July 1 and August 9, 2024, the Medallia Intercept survey received **85 responses.** 
@@ -32,9 +32,9 @@ User feedback was most concentrated at the very beginning of the form, despite t
 |Top Intercept Pages|# of responses| Percentage of total|
 |--|--|--|
 |Total | 85 | -- |
-|Introduction| 42 | % |
-| Start| 22 |%|
-| Veteran Information | 7 | % |
+|Introduction| 42 | 49% |
+| Start| 22 | 26%|
+| Veteran Information | 7 | 8% |
   
 
 ### Feedback Survey Data
