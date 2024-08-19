@@ -23,7 +23,7 @@ All AVS initiatives aim to improve the experience for these groups
  
 ## Solution Approach
 
-A platform for sending SMS messages built upon a complex rules engine.
+A platform for creating electronic and physical clinical summaries for Veteran's medical visits.
 
 # Team
 The core development team (Shane, Robert & Andy) have worked together for 20 years on various applications in the VA Loma Linda Healthcare system until transitioning to OCTO. 
