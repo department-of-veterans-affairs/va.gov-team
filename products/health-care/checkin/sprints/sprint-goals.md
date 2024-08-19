@@ -133,8 +133,7 @@
     - ✔️ 🟥 Do hand-off to engineering (8/7)
     - 🟦🟩 Design implementation and create tickets
 - **Componentize the Appt Summary View**
-    - ✔️ 🟥 Do hand-off to engineering (include Peter Russo)
-    - 🟩 Design implementation and create tickets
+    - ✔️ 🟪 Schedule kick-off with Kristen & Ryan
 - **Translations**
     - ✔️ 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
