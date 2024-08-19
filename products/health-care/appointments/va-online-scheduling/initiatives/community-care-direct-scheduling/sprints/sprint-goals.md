@@ -42,6 +42,8 @@ ________________________________________________________________________________
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Tech & Design Debt**
        - ❗ 🟦 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)
+       - 🟦 [Meet with Ben and Jeff to get project onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90953)
+       - 🟦 [Meet with Simi and Lee to get onboarded from engineering perspective](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90956)
     - **Sub Goal: [Feature] Get New Referrals**
        - ❗ 🟦 [[SPIKE] How are we going to solve for knowing the referral ID from a unique url from a text message (VA Notify)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90906)
        - 🟦 [[Spike] Determine how we'll keep track of which referrals we've sent to VA Notify or not](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/90907)
