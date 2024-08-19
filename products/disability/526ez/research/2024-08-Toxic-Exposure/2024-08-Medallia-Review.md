@@ -7,9 +7,8 @@ Date: 08/15/2024
 Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 
 
-## Goals 
-1. Medallia review will act as a baseline to help us distinguish ongoing UX challenges from those that will result from the TE rollout in late August
-2. Looking at July 2024 Medallia data will give us insight into Veteran thinking/concern leading up to Pact Act deadline.
+## Overview
+We are reviewing Medallia data from July 2024 so we can establish a baseline for what to expect from the survey data before we launch Toxic Exposure. This will help us distinguish ongoing UX challenges from those caused by the rollout.
 
 ## Summary of responses
 
