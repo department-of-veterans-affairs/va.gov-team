@@ -118,7 +118,7 @@ Thursday, August 29th:
 - Research guide writing and task development: David Pearl
 - Participant recruiting & screening: David Pearl
 - Project point of contact: Amanda Klausmeier
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: Tabinda Syed
 - Note-takers: Megan Commons
 - Potential Observers:
     - VA IIR Team
