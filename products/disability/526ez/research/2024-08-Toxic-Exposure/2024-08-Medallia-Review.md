@@ -45,7 +45,9 @@ I coded all qualitative user feedback using the codes developed in our last Meda
 |Getting help| 18|5| Responses that describe seeking help from the hotline, VSOs, professionals, or other sources|
 
 ## Top 5 Takeaways 
-These takeaways are a combination of key findings and hypotheses around what we might see in Toxic Exposure during the rollout. Note: Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; customer satisfaction averaged around 3 out of 5. 
+These takeaways are a combination of key findings and hypotheses around what we might see in Toxic Exposure during the rollout. 
+
+**Note:** Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; customer satisfaction averaged around 3 out of 5. 
 
 **1.Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
 
