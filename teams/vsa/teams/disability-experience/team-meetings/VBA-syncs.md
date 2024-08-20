@@ -1,6 +1,17 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+
+## 8/20/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+* Feedback from VBA on Toxic Exposure Moderated Production Testing
+* T-REX lessons learned from TE Moderated Production Testing
+* [PII concern from Robin](https://dsva.slack.com/archives/CBU0KDSB1/p1724089667718119?thread_ts=1724089667.718119&cid=CBU0KDSB1)
+
+
+
 ## 8/6/24 Biweekly VBA-DBEX Check-in
 ### In attendance
 …
