@@ -48,7 +48,7 @@
         - 🟨 [[DevOps] Upload CHIP schemas to S3 bucket for sharing between projects. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/465)
         - 🟨 [[DevOps] Change LoROTA default branch from master to main. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/466)
 - **Medication Wording for Appointments - Pre-Check-in**
-    - **Sprint Goal is to address launch blockers from Staging Review & release the feature**
+    - **Sprint Goal is to address the feedback from Staging Review & release the feature**
     - 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)
         - Ben added a link to the new Figma wireframe in a comment on this ticket    
     - 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
@@ -63,7 +63,7 @@
             - ⛔🚧 🟥 (Points accounted for in 89598) [Midpoint Review - Design Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89478)
             - ⛔🚧 🟥 (Points accounted for in 89598) [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
 - **Stand-alone Travel Application for OH Sites**
-    - **Sprint Goal is to hold the Staging Review**
+    - **Sprint Goal is to prepare for the Staging Review**
     - 🟪 Staging Review scheduled for 8/29
     - 🟩 FE needs to add links for E2E testing and code coverage to the collab cycle ticket
     - 🟩 FE needs to generate a bank of URLs for each of these dates and post them in the collab cycle ticket (8/23, 8/26, 8/27, 8/28)
