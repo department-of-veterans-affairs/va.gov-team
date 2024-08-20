@@ -71,7 +71,10 @@ The Oracle Health (OH) Travel Reimbursement product offers Veterans a way to fil
     - Veteran receives an SMS that includes the claim submission status returned from BTSSS
 - Applies to: In-person appointments only
 
-   
+## Workflow
+
+![image](https://github.com/user-attachments/assets/89c0a7b9-95fd-42cb-87b9-83c43c225f4e)
+
 
 
 
