@@ -57,10 +57,10 @@
     - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
     - 🟩 [Add Alert for "We can't show all your information right now" for Upcoming Appointments Page & Details Page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90926)
     - The following are blocked by the above SPIKE
-        - ⛔ 🟥 [[Design] Finalize appt detail pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
-        - ⛔ 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
-            - ⛔ 🟥 (Points accounted for in 89598) [Midpoint Review - Design Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89478)
-            - ⛔ 🟥 (Points accounted for in 89598) [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
+        - ⛔🚧 🟥 [[Design] Finalize appt detail pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
+        - ⛔🚧 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
+            - ⛔🚧 🟥 (Points accounted for in 89598) [Midpoint Review - Design Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89478)
+            - ⛔🚧 🟥 (Points accounted for in 89598) [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to hold the Staging Review**
     - 🟪 Staging Review scheduled for 8/29
@@ -85,7 +85,7 @@
 
 ## SPRINT 13 - 8/7/2024-8/20/2024
 - **Production Support**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79886)
+    - ✔️ ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79886)
     - **Support Renewal of the ATO**
         - 🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
     - **Move to New AWS Instance**
@@ -149,7 +149,7 @@
 - **Translations**
     - ✔️ 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)          
 - **CIE Analytics**
-    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76038)
+    - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76038)
     - ✔️ 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88197)
 - **Tech Debt**
     - ✔️ 🟩 [[FE] Check body styles on appt detail page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90154)
@@ -159,10 +159,12 @@
     - ✔️ 🟦 [[BE] Investigate issues with travel claims submission through check-in vets-api code in Staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89350)
     - 🟦 [[BE] Handle 401s from LoROTA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90099)
     - ✔️ 🟦 [[BE] Handle 403s from LoROTA data call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89625)
-    - 🟦 [[BE] Resolve the 404s being thrown by CHIP/LoROTA due to synthetic monitoring tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89776)
+    - ✔️ 🟦 [[BE] Resolve the 404s being thrown by CHIP/LoROTA due to synthetic monitoring tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89776)
     - ✔️ 🟦 [[BE] remove feature flag: check_in_experience_lorota_security_updates_enabled](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90100)
     - ✔️ 🟦 [Update content on success page to remove content about texting again ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90062)
     - ✔️ 🟩 [[FE] Add link collection component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90353)
+    - 🟩 [[FE] Fix action link display in appointments for this facility ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90985)
+        - Added last day of sprint
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
 - **Production Support**
