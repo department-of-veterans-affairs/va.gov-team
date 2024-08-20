@@ -65,8 +65,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 
 ## Appendix 
 ### Coding - Themes across survey responses
-I coded all qualitative user feedback using the codes developed in our last Medallia review (March 2023 data) and added new ones as needed. Most common specific feedback themes included usability issues, questions about filing for the Pact Act, problems with error blockers, and navigation. 
-
+See full list of codes and their definitions below. 
 |Code|Feedback count| Intercept count|Definition|
 |--|--|--|--|
 |Usability|  |--|Responses that describe specific usability issues not encompassed by other tags. Examples include character limits, inability to update prefill, not being able to continue, etc.|
