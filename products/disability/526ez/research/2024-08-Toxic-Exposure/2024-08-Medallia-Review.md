@@ -60,11 +60,9 @@ These takeaways are a combination of key findings and hypotheses around what we 
 
 
 ***
-***
 
 **2. TE monitoring of Medallia must include comprehensive coding of all responses -not just those that fall on Toxic Exposure pages. User feedback about specific issues are frequently reported on other pages-- especially introduction, confirmation, and start.** 
 
-***
 ***
 
 
@@ -79,7 +77,6 @@ One Veteran recommended improved functionality for skipping around in the form a
 >"It would be nice if you had TABS or something that you can select to go to a certain section of the application (such as personal, illnesses, etc)  like tax preperation software INSTEAD of having to select the BACK button over and over to get back to a certain section."
 
 ***
-***
 
 
 **4. Caregivers are among those actively seeking ways to file for Toxic Exposure online.**
@@ -90,8 +87,7 @@ One Veteran recommended improved functionality for skipping around in the form a
    > "I am still trying to file claim and supplemental claim for late husband they said we filed on wrong claim....Also need VA to relook as Causations and contributors to his passing, along with [PII] they said AO never used in[Hazardous Location]. Very frustrated you make it impossible for the Vet the worse for the family."
    >
 
-***
-***
+
 ***
 
 
