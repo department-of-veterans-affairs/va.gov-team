@@ -128,6 +128,7 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 - October 2023: Started collaborating with the 526 team; Decided on our MVP approach; Produced initial designs
 - November-December 2023: Build
 - November 2023: Created phase specific project outline for MVP work
+- March 2024: Gave the readout and decided not to pursue this work
 
 
 ## Design / research 
