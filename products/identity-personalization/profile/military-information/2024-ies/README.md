@@ -53,6 +53,9 @@ Veterans need a way to access and download their Individual Exposure Summary (IE
 ## Important Artifacts
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89309)
 - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?wid=0-1723060024022)
+- [LoE spreadsheet](https://docs.google.com/spreadsheets/d/1JdXHdkoFll5ssdHouO0ANbVj1sEkHUFKBsuLImVqOSk/edit?gid=0#gid=0)
+- [(new) Individual Longitudinal Exposure Record (ILER) API - Dept of Veterans Affairs-External - Confluence (va.gov)](https://confluence.devops.va.gov/display/VAExternal/%28new%29+Individual+Longitudinal+Exposure+Record+%28ILER%29+API) 
+- [Claims Evidence API (i think?)](https://confluence.devops.va.gov/pages/viewpage.action?pageId=48090012) 
 - Release Plan
 
 ## Launch Dates
