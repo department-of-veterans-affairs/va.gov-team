@@ -11,7 +11,7 @@ We are monitoring the 1.0 launch of the new Toxic Exposure feature for the 526ez
 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [See report here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review)
 
-## Summary of GA4 data
+## Summary of GA4 data (Ask Jared which ones to keep vs pull)
 
 | Product KPI                                                 | Baseline  | Target                                        | Data Source                                                  |
 |-------------------------------------------------------------|-----------|-----------------------------------------------|--------------------------------------------------------------|
