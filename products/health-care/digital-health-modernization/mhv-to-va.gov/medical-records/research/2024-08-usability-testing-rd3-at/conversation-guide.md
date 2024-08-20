@@ -37,19 +37,20 @@ _\[Start recording.\]_
 _\[Possible Visual Aid\]_
 
 - Have you reviewed any of your health records on My HealtheVet?
-  - How often?
-- What types of information were you seeking? \[prompt with Blue Button, Images, Labs & Tests if needed\]
-  - Is this something that you do on a regular basis?
+  - How often do you review them?
+  - Thinking of the last time you reviewed your records - why were you looking at your records?
+- _\[Optional prompt\]:_ What types of information were you seeking? \[prompt with Blue Button, Images, Labs & Tests if needed\]
+  - What were you going to do with that information (if anything)?
 
 _\[write down what they mention for use in next task\]_
 
 _\[if Participant mentions Blue Button\]:_
 
 - Has there been a time when the file was so large that you had to wait?
-  - _\[if yes:\]_ How long?
-  - Would you like to receive a notification rather than waiting on the site?
-    - How would you like to be notified?
-- Was there ever a time when you were unable to find what you needed?
+  - _\[if yes:\]_ How long did you have to wait?
+  - If you had the option to wait on the site for the file to load or receive a notification, which would you choose?
+    - _\[if Participant chooses notification\]:_ How would you like to be notified?
+- Was there ever a time when you were unable to find what you needed in your health records?
   - _\[if yes:\]_ What did you do?
   - What would have made that easier for you?
 
@@ -59,19 +60,21 @@ _\[if Participant mentions Blue Button\]:_
 - _\[if yes:\]_ Do they have a patient portal like My HealtheVet where you can review your health records?
   - _\[if yes:\]_ Have you used it?
     - _\[if yes:\]_ Do you know what it’s called?
-    - What types of information were you seeking?
+    - Thinking of the last time you reviewed your health records in (portal name), what types of information were you seeking?
     - Is this something that you do on a regular basis?
 - How does \[patient portal\] work for you compared to My HealtheVet?
   - What makes you say that?
-- Was there ever a time in which you were unable to find what you needed?
+  - Thinking of your health records, what can you do on (patient portal) that you cannot do on My HealtheVet?
+- Was there ever a time in which you were unable to find what you needed on (patient portal)?
   - What did you do?
   - What would have made that easier for you?
 
 **MHV Print/Download**
 
-- When you generated reports on My HealtheVet how did you review them? Did you choose view, or download?
+- Thinking of the last couple of times your generated reports of your health records on My HealtheVet, how did you review them?
+- _\[Optional prompt\]_ Did you choose to view or download the records you were trying to look at?
   - Why?
-- _\[If downloaded:\]_ Did you ever print the document?
+- _\[If downloaded:\]_ Did you ever print the document with your records?
   - Why?
 - Is there anything you would change about the view or download process?
 
@@ -82,37 +85,31 @@ _\[if Participant mentions Blue Button\]:_
   - Why/not \[download/print\]?
 - How does it work for you compared to My HealtheVet?
   - Is there anything you would change?
-- What is one thing that you feel is missing in Health Records on My HealtheVet?
+- What is one thing that you would like to be able to do in Health Records on My HealtheVet that you can't do right now?
 
 ## **Screen share/Remote share - 5 minutes**
 
 _\[If on Desktop/Laptop/Tablet:\]_ I am going to have you take over the mouse on my screen. As soon as I get set up, I will give you instructions on what to do.  _\[when ready\]_ I am going to hand over control in just a second. When I do, you will see a notification pop up on your screen and then you will be able to control my screen. Ready?
 
-
 _\[If on mobile: \]_ Have you shared your screen over Zoom with your phone?
-
 
 _\[If yes: \]_ I dropped the link to the prototype in the chat. Go ahead and pull it up and when you are ready to share, please do so.
 
-
 _\[If no, follow protocol for particular OS (Android/iOS)\]_
 
-
-### **Participant Coaching**  
-
+**Participant Coaching**  
 
 Today we are trying to learn how a Veteran might use this product if they were on their own.
 
 Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen. Does that make sense?
-<br/>At the top right of the screen where your name would be, we have the name Pat. Pat is our test user and it is their information that we will see today. I will be referring to Pat as we go through the tasks today.
 
-&nbsp;
+<br/>At the top right of the screen where your name would be, we have the name Pat. Pat is our test user and it is their information that we will see today. I will be referring to Pat as we go through the tasks today.
 
 If you are ready, we can begin.
 
 ## **Second Task: Generative/Usability - 2 minutes**
 
-_\[Landing Page\]_
+_[Landing Page]_
 
 You mentioned \[MR item(s) from task 1 – let P choose\]. Please show me how our test user, Pat would do that on this website.
 
@@ -131,17 +128,17 @@ Please return to the Medical Records page where we started.
 
 _\[Landing Page\]_
 
-Does Pat have any health conditions?
+Using this product, how would you find information about Pat's medial issues or diagnoses? 
 
 _\[Do not interrupt participant – collecting Time on Task\]_
 
-\[Possible prompts to help participant navigate:\]
+_[Possible prompts to help participant navigate]_
 
 - Is there anything on this page that could help you?
 
 _[Health conditions]_
 
-_\[Remind the participant if needed:\]_ We are wondering what Pat’s health conditions are.
+_\[Remind the participant if needed:\]_ We are wondering what Pat’s medical issues or diagnoses are.
 
 - What would you do if this were your list, and you saw sick sinus syndrome and your doctor had never mentioned it to you? What makes you say that?
 - Why do you think there are numbers by some of the names?
@@ -164,14 +161,14 @@ _[Health conditions: Hypertension (SCT48073)]_
 - What would be more helpful?
 - What would you do next?
 
-Please return to the Health Conditions list page.
+Please return to Pat's list of health conditions.
 
 _[Health Conditions]_
 
 - Do any of these conditions have to do with Pat’s iron level?
-  - \[_if no:_\] Why do you think that is?
+  - _[_if no:_]_ Why do you think that is?
 
-_\[possible prompts to help participant navigate\]_
+_[possible prompts to help participant navigate]_
 
 - Is there anything on this page that could help you?
 
@@ -192,7 +189,7 @@ _\[Health Conditions\]_
 - What if Pat were reviewing this list and noticed asthma?
   - Pat doesn't have asthma. Tell me how they would get this corrected?
 
-_\[possible prompts to help participant navigate\]_
+_[possible prompts to help participant navigate]_
 
 - Is there anything on this page that could help you?
 - Where do you think you could find that information?
@@ -202,7 +199,7 @@ _\[possible prompts to help participant navigate\]_
 What are your thoughts on the information provided here?
 
 - Did this provide the information Pat needs to get asthma removed from their list?
-  - _\[if they say no\]_ What would be more helpful?
+  - _\[if they say no\]_ What are you looking for that you're not finding?
 
 Please return to the Health Conditions.  
 <br/>_\[Health Conditions\]_
@@ -211,7 +208,7 @@ We are going to pause here so I can get some feedback about this experience.
 
 I am going to provide you with a rating scale that we will be using throughout today’s session.
 
-On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of accessing Pat’s Health Conditions?
+On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of finding information on Pat’s Health Conditions?
 
 - Would you like me to repeat that?
 - \[if _<5\]_ What would make it a 5?
@@ -228,6 +225,8 @@ _\[Health Conditions\]_
 
 Let’s say we wanted to review the provider notes from Pat’s doctor visits. How would we do that?
 
+_\[do not interrupt participant, collecting ToT\]_
+
 _\[possible prompts to help participant navigate\]_
 
 - Is there anything on this page that could help you?
@@ -235,7 +234,7 @@ _\[possible prompts to help participant navigate\]_
 
 \[_Care summaries and notes\]_
 
-- How did you know to come to Care summaries and notes?
+- What made you choose Care summaries and notes over the other options?
 - What do you think the HT monthly monitor notes are?
   - How might you find out?
 
@@ -278,11 +277,11 @@ Would you like me to provide you with the whole scale again?
 
 _\[if no\]_
 
-On a scale from 1 to 5 with 1 being very difficult and 5 being very easy, please rate the difficulty of accessing Pat’s Care Summaries and Notes.
+On a scale from 1 to 5 with 1 being very difficult and 5 being very easy, please rate the difficulty of finding information on Pat’s Care Summaries and Notes.
 
 _\[if yes\]_
 
-On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of finding information on Pat’s allergies.
+On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of finding information on Pat’s Care Summaries and Notes.
 
 _\[if <5\]_ What would make your answer a 5?
 
@@ -361,11 +360,11 @@ Would you like me to provide you with the whole scale again?
 
 _\[if no\]_
 
-On a scale from 1 to 5 with 1 being very difficult and 5 being very easy, please rate the difficulty of accessing Pat’s Lab and Test Results
+On a scale from 1 to 5 with 1 being very difficult and 5 being very easy, please rate the difficulty of finding information on Pat’s Lab and Test Results.
 
 _\[if yes\]_
 
-On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of accessing Pat’s Lab and Test Results.
+On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of finding information on Pat’s Lab and Test Results.
 
 \[_if <5\]_ What would make your answer a 5?
 
@@ -379,12 +378,15 @@ On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being n
 
 Please return to the Medical records page.
 
-- Today we reviewed Health conditions, Care summaries and notes, and Lab and test results. How does the direct access to Pat’s records compare to generating reports on My HealtheVet?
+Thanks for taking the time to look through these parts of the new Health Records experience.
+
+  - What stuck out to you about the new experience?
+  - How does this new experience compare with your memories of using the Health Records on My HealtheVet?
   - How does it compare to your community care patient portal?
+  - What do you like about the new experience?
+  - What do you want to do that you can't do?
 
-  **Cognitive Disability Interview – <5 minutes**
-
-&nbsp;
+  ## **Cognitive Disability Interview – <5 minutes**
 
 Thank you for taking the time to get through all those tasks with me today and answering all our questions. It has been super helpful.  
 
@@ -416,5 +418,3 @@ _\[if yes\]_ 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thank you so much again and enjoy the rest of your day!  
-
-&nbsp;
