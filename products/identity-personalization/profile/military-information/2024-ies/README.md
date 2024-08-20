@@ -39,8 +39,8 @@ Veterans need a way to access and download their Individual Exposure Summary (IE
 
 ---
 
-## Assumptions
-- Veterans associate exposure-related information with their health care and may look for the IES. However, in a card sort, veterans expected the first thing the IES would contain was deployment history (see BAH card sort).
+## Assumptions/Risks
+- Veterans associate exposure-related information with their health care and may look for the IES in health realted sections of the website. However, in a card sort, veterans expected the first thing the IES would contain was deployment history ([see BAH card sort](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information/stakeholder-artifacts/MCT%20ILER%20HCD%20Research%20Findings_20230328%20(1).pdf)).
 - The most significant risk is placing the IES download option in a location that veterans do not intuitively associate with exposure information, potentially leading to usability issues.
 
 ## Solution Approach
