@@ -29,7 +29,7 @@ The Iterate, Innovate, and Run (IIR) team is driving the Veteran Status experien
 
 ### Undesired User Outcomes
 
-- Users have different experiences across platforms.
+- Users have different experiences across platforms resulting in confusion and frustration.
 
 
 ### Desired Business Outcomes
