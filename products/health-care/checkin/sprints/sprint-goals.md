@@ -49,6 +49,8 @@
         - 🟨 [[DevOps] Remove/Delete ECR Repository Images NOT Actively in Use. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/407)
         - 🟨 [[DevOps] Upload CHIP schemas to S3 bucket for sharing between projects. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/465)
         - 🟨 [[DevOps] Change LoROTA default branch from master to main. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/466)
+        - 🟨 [[DevOps] Discovery on updating LoROTA to AWS SDK v3. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/368)
+        - 🟨 [[DevOps] Remove mentions of SSN4 from LoROTA. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/362)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address the feedback from Staging Review & release the feature**
     - 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)
@@ -83,8 +85,8 @@
 - **Tech Debt**
     - 🟩 [Staging Review finding: How to check in link opens in a new tab without notice ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90774)
     - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
-    - 🟨 [[DevOps] Discovery on updating LoROTA to AWS SDK v3.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/368)
-    - 🟨 [[DevOps] Remove mentions of SSN4 from LoROTA.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/362)
+    - 🟩 [FE] Add mocks and tests for no upcoming appointments #91028
+    - 🟨 [[DevOps] CHIP refreshAppointments corrupts LoROTA data. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/475)
 </details>
 
 ## SPRINT 13 - 8/7/2024-8/20/2024
