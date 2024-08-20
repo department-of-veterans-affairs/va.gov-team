@@ -16,15 +16,8 @@ Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ry
 - [Methodology](#methodology)
 - [What did we learn: Summary](#what-did-we-learn-summary)
 - [Hypotheses and Conclusions](#hypotheses-and-conclusions)
-- [Appendix](#appendix)
-- [Additional Findings](#additional-findings)
-- [Additional Findings: Who we spoke to](#additional-findings-who-we-spoke-to)
-- [Additional Findings: Headers and Navigation](#additional-findings-headers-and-navigation)
-- [Additional Findings: Content](#additional-findings-content)
-- [Additional Findings: Behavior Change](#additional-findings-behavior-change)
-- [Additional Findings: MST Indicator Permission](#additional-findings-mst-indicator-permission)
-- [Additional Findings: Post Task](#additional-findings-post-task)
 - [Next steps](#next-steps)
+- [Additional Findings](#additional-findings)
 - [Appendix](#appendix)
 - [Tools used for synthesis](#tools-used-for-synthesis)
 - [Pages and applications used](#pages-and-applications-used)
@@ -48,7 +41,7 @@ We are translating these updates to the digital 0781, which is embedded within t
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Background.png)
 
 
-## Research Goals and Hypotheses
+## Research Goals
 Based on prior research and the discovery on the new form, we identified three research goals:
 - Goal 1: Understand which placement of the new 0781 within the 526 works better, particularly as it relates to evidence.
    - H1: Veterans will be able to easily orient themselves to start and exit the 0781 with the new content on transitional pages.
@@ -438,6 +431,10 @@ Conversely, one Veteran perceived the amount of preparation and introductory con
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2039.png)
 
+## Next Steps
+
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2041.png)
+
 ## Additional Findings
 - One Veteran wanted to see more date flexibility in Step 4: Additional Forms when asked about treatment.
    - “I would put an option of don't remember. I know folks who have TBIs and need help to remember these dates.” —P11
@@ -464,7 +461,7 @@ Conversely, one Veteran perceived the amount of preparation and introductory con
 - Three Veterans saw the “Additional Information’ screen in Step 2 as a place they felt heard and supported by VA. 
    - “This is good, it conveys that they're trying to help you... where it might be an adversarial relationship.” —P5
 
-## Additional Findings: Who we spoke to 
+### Additional Findings: Who we spoke to 
 The Veterans in our study represented a mix of those who had previously filed on paper, online, or with some combination of the two. 
 
 Many Veterans' claim filing histories were not linear, with delays up to years, denials, but also approvals later down the line. Many Veterans have multiple attempts to file claims for reasons including appeals, the PACT Act, and motivation to reapply from other organizations. 
@@ -475,11 +472,11 @@ Most Veterans we spoke to claimed PTSD along with other mental health conditions
 
 P11 shared their experience filing for MST, expressing that the process was so difficult they had to be hospitalized. This highlights the need for extra support with these claims, such as having trained professionals reviewing these claims, and direct support for Veterans throughout the process (whether from VSOs, attorneys, social workers, or healthcare professionals).
 
-## Additional Findings: Headers and Navigation
+### Additional Findings: Headers and Navigation
 - One Veteran stated that the sub headers and headers throughout the form are confusing because it indicates steps within a step.
    - “You're doing 2/5 at the top and now you're at 1/4 — I understand these are sub processes, but I don't know that others would know that.” -P10
 
-## Additional Findings: Content
+### Additional Findings: Content
 Content suggestions
 
 - One Veteran noted that the current copy is missing  ‘hostile fire’ from imminent danger copy.
@@ -497,7 +494,7 @@ Content suggestions
 - One Veteran noticed the “how to submit medical records” dropdown menu doesn’t match the order of the radio buttons. 
    - Align the examples and radio options to flow in the same order.
 
-## Additional Findings: Behavior Changes 
+### Additional Findings: Behavior Changes 
 The behavior changes section was straightforward and clear to Veterans. The checkbox list was helpful in aiding Veterans in what to include in this section — One Veteran noted that they wouldn't know what to write down without the list. 
 
 Veterans appreciated the ability to select multiple options. However, one Veteran suggested it could be nice to do everything on one page instead of clicking through each selected behavior change one by one.  (We only tested with one behavior change selected, which reduces the number of screens seen.) 
@@ -507,7 +504,7 @@ Veterans also suggested adding some options to the checklist (ex. power dynamic 
 The summary page was also helpful, especially the option to add more behavior changes.
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2050.png)
 
-## Additional Findings: MST Indicator Permission
+### Additional Findings: MST Indicator Permission
 Based on feedback from four Veterans
 
 The content on this screen seemed to make sense to most Veterans and got the point across that saying yes won't affect your claim, and will lead to an indicator being put on record, although Veterans did not accurately understand the purpose of the indicator. Most opted in to giving the consent.
@@ -521,16 +518,10 @@ All Veterans liked the option to revoke consent. Revoking consent and VA healthc
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2051.png)
 
-## Additional Findings: Post-Task
+### Additional Findings: Post-Task
 Post-task Veteran feedback on the 0781 experience was mostly positive. Negative feedback was focused on more generally how filing a mental health claim is difficult.
 
 "Magic wand" wishes for the 0781 included faster processing of claims, more communication across agencies (to limit how many records Veterans have to collect themselves), easier navigation through on unified portal (referencing the multiple log-in options), and faster communication about C&P exams.
-
-
-## Next Steps
-
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2041.png)
-
 
 ## Appendix
 
@@ -542,11 +533,9 @@ Post-task Veteran feedback on the 0781 experience was mostly positive. Negative 
 
 [Interview transcripts](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=FUBuoH&siteid=4052333d%2Dbc5a%2D48cc%2Dbe30%2D89c947a439e2&webid=83d7b15c%2D819f%2D4907%2Dba19%2D07495dc88560&uniqueid=29a6a500%2D8338%2D4a4f%2Db980%2Da9e301d2b773&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2F0%20%2D%20Benefits%20Portfolio%20%2D%20business%2FResearch%20Recordings%20%2D%20Veteran%2DStaff%2DVSO%2F2024%2D06%200781%20Form%20Concept%20Testing&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72 )
 
-
 ## Tools used for Synthesis
 
 [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720718384066/24c39fd610fe152cc3c29a612652c374d77a0e46) 
-
 
 ## Pages and applications used
 
