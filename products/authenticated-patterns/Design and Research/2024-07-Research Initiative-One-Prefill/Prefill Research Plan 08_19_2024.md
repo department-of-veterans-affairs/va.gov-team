@@ -191,6 +191,12 @@ Below is the list of the people serving in each role and their contact informati
 - Morgan Jones - 	morgan.jones@adhocteam.us        415-300-6962
 - Christine Steiffer - 	christine.steiffer@agile6.com 	571-282-9104
 - Lynn Stahl - lynn.stahl@agile6.com
+- Adam Whitlock - adam.whitlock@adhocteam.us
+- Belle Poopongpanit - belle.poopongpanit@agile6.com
+- Becky Phung - becky.phung@va.gov
+- Alex Parker - Alexandria.parker@agile6.com
+- Matt Dingee - matthew.dingee@va.gov
+- Kevin Hoffman - kevin.hoffman1@va.gov
 
 ## Approved by:
 
