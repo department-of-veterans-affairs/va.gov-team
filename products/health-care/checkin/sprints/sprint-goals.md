@@ -7,6 +7,8 @@
 ## SPRINT 15 - 9/4/2024-9/17/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
+    - **Move to New AWS Instance**
+        - TBD
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address the last Staging Review non-launch blocking ticket**
     - 🟩TBD
@@ -40,18 +42,17 @@
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
     - **Move to New AWS Instance**
-      - 🟨 [[DevOps] Upload CHIP schemas to S3 bucket for sharing between projects.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/465)
-      - 🟨 [[DevOps] Remove/Delete ECR Repository Images NOT Actively in Use.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/407)
-      - 🟨 [[DevOps] Delete unused SSM Parameters in `dsvagovcloud` referring to `vaec-cms` resources (`dev`).](https://github.com/department-of-veterans-affairs/checkin-devops/issues/451)
-      - 🟨 [[DevOps] Project Details Preparation for VistA-API-X conversation.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/436)
-      - 🟨 [[DevOps] Change LoROTA default branch from `master` to `main`.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/466)
+        - 🟨 [[DevOps] Project Details Preparation for VistA-API-X conversation. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/436)
+        - 🟨 [[DevOps] Delete unused SSM Parameters in dsvagovcloud referring to vaec-cms resources (dev). ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/451)
+        - 🟨 [[DevOps] Remove/Delete ECR Repository Images NOT Actively in Use. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/407)
+        - 🟨 [[DevOps] Upload CHIP schemas to S3 bucket for sharing between projects. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/465)
+        - 🟨 [[DevOps] Change LoROTA default branch from master to main. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/466)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address launch blockers from Staging Review & release the feature**
-    - 🟩 are there any remaining tickets prior to release?
-    - 🟪 Let Kristen know a few days in advance of the release so that she can inform the appropriate teams
-    - 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
     - 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)
-        - Ben added a link to the new Figma wireframe in a comment on this ticket
+        - Ben added a link to the new Figma wireframe in a comment on this ticket    
+    - 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
+        - 🟪 Let Kristen know a few days in advance of the release so that she can inform the appropriate teams
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish all work and schedule Staging & ISR Reviews**
     - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
@@ -64,13 +65,13 @@
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to hold the Staging Review**
     - 🟪 Staging Review scheduled for 8/29
-    - 🟪 [Create Product Directory Entry ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83625)
     - 🟩 FE needs to add links for E2E testing and code coverage to the collab cycle ticket
     - 🟩 FE needs to generate a bank of URLs for each of these dates and post them in the collab cycle ticket (8/23, 8/26, 8/27, 8/28)
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address Design Intent feedback, determine how we want to implement this, and create tickets to move it forward**
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90550)
-    - 🟥 [[Research] Identify other VFS Team examples that are using a similar pattern of displaying a list of tasks ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90910) 
+    - 🟥 [[Research] Identify other VFS Team examples that are using a similar pattern of displaying a list of tasks ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90910)
+    - 🟩 [[FE] - Add past appointments features to details page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Add Translated Content**
     - 🟩 [[FE] Add Spanish Translations ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90922)
 - **CIE Analytics**
@@ -138,6 +139,7 @@
     - **Sprint Goal is to complete the Staging Review, if possible**
     - ✔️ 🟪 Schedule Staging Review (scheduled for 8/29)        
     - ✔️ 🟥 [Update content on success page to remove content about texting again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/90062)
+    - ✔️ 🟪 [Create Product Directory Entry ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83625)
     - 🟩 [[FE] Remove Information about Filing Multiple Claims in 1 Day ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90546)
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address feedback from the Design Intent, finish the wireframes, and hand off to engineering**
