@@ -44,26 +44,26 @@ I coded all qualitative user feedback using the codes developed for past Medalli
 ||||
 
 **Themes over time**
-|Overall Rank|July-Aug 9| Next date range|Next date range| 
+|Rank|July-Aug 9| Next date range| Future date range| 
 |--|--|--|--|
-|1|Usability (33)| 33 |--||
-|2|PACT (26)| |--|
-|3|Error (26)||--| |
-|4|Navigation (33)| |
-|5|Getting help (23)||
+|1|Usability (33)|--|--||
+|2|Navigation (33)|-- |
+|3|PACT (26)| |--|
+|4|Error (26)||--| --|
+|5|Getting help (23)|--|
 
 
 
 ## Top 5 Takeaways 
-Takeaway #1 
+**Takeaway #1**
 
-Takeaway #2
+**Takeaway #2**
 
-Takeaway #3
+**Takeaway #3**
 
-Takeaway #4
+**Takeaway #4**
 
-Takeaway #5
+**Takeaway #5**
 
 
 ## Appendix 
