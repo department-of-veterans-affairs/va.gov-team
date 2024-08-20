@@ -11,14 +11,14 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 ## Background
 We are monitoring the 1.0 launch of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. This report will document the change in user feedback and GA4 data over time with the goal of capturing any issues reuslting from the launch. 
 
-Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch."  
+Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [See report here.]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md))
 
 ## Summary of responses
 
 **Feedback survey**
 |Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
-|-|Total responses|462|||||
+|-|Total responses (462)||||||
 |1| Introduction (116 / 25%)|||||
 |2| Confirmation (76 / 16%)|||||
 |3| Start (64 / 14%)|||||
@@ -27,7 +27,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 **Intercept survey**
 |Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
-|| Total responses| 85|||||
+|| Total responses (85)| |||||
 |1|Introduction (42 / 49%)|||
 |2| Start (22/ 26%)|||
 |3| Veteran Information (7 / 8%)|||
