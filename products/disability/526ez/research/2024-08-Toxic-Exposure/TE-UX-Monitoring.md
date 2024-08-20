@@ -29,7 +29,7 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 
 ## Summary of Medallia survey data
 
-**Medallia Survey Quantitative Feedback**
+### **Medallia Survey Quantitative Feedback**
 |**Data point**|**Baseline (2024)**|**Pre-Launch**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
 |--|--|--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
@@ -37,8 +37,7 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |**Trust Overall**| | | | |
 |**Trust Gained/Lost**| | | | |
 
-
-## Themes across Medallia survey responses
+### **Themes across Medallia survey responses**
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 **Top themes**
 |Rank|Pre-launch (6 weeks)| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
