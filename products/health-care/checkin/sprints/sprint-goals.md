@@ -40,6 +40,9 @@
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
     - **Move to New AWS Instance**
+      - 🟨 [[DevOps] Upload CHIP schemas to S3 bucket for sharing between projects.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/465)
+      - 🟨 [[DevOps] Remove/Delete ECR Repository Images NOT Actively in Use.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/407)
+      - 🟨 [[DevOps] Delete unused SSM Parameters in `dsvagovcloud` referring to `vaec-cms` resources (`dev`).](https://github.com/department-of-veterans-affairs/checkin-devops/issues/451)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address launch blockers from Staging Review & release the feature**
     - 🟩 are there any remaining tickets prior to release?
