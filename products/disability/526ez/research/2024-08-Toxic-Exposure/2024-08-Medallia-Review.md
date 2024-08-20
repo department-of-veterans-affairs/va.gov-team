@@ -48,6 +48,7 @@ I coded all qualitative user feedback using the codes developed in our last Meda
 These takeaways are a combination of key findings and hypotheses around what we might see in Toxic Exposure during the rollout. Note: Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; customer satisfaction averaged around 3 out of 5. 
 
 **1.Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
+
 |3/2023 Finding | True/False in current data set|Context|Veteran voice|
 |--|--|--|--|
 |Certain error messages can lead Veterans to frustrating encounters with the Contact Center. | **True** | Veterans are still encountering errors that cannot be resolved by calling the Contact Center|"Trying to file a claim online, called number provided, got transferred 10 times with no help."|
@@ -55,7 +56,9 @@ These takeaways are a combination of key findings and hypotheses around what we 
 |Veterans are finding themselves misrouted to or stuck on the Reserves National Guard (RNG) page.| **True**| The unit number format confuses Veterans (n=6) and blocks them from proceeding.|"Trying to fill out form and asked for "Unit Name" tried it every way I could think of."|
 |Veterans reported evidence-related challenges throughout the application.|**True**| Difficulties with evidence hold true now. N=17 Veterans spoke of issues with uploading files. |" I was not able to complete the form by my Aug XX,2024 deadline because the form seems to be rigged. Every time I select one of the 2 options below my uploaded pdf it automatically deletes several other boxes above or below the other uploads."|
 
+
 **2. TE monitoring of Medallia must include comprehensive coding of all responses -not just those that fall on Toxic Exposure pages. User feedback about specific issues are frequently reported on other pages-- especially introduction, confirmation, and start.** 
+
 
 **3. Existing navigation issues expressed in Medallia (and mirrored in 526 Shadowing and 0781 research) could magnify cognitive burden of Toxic Exposure questions.**
 
@@ -67,6 +70,7 @@ One Veteran recommended improved functionality for skipping around in the form a
 
 >"It would be nice if you had TABS or something that you can select to go to a certain section of the application (such as personal, illnesses, etc)  like tax preperation software INSTEAD of having to select the BACK button over and over to get back to a certain section."
 
+
 **4. Caregivers are among those actively seeking ways to file for Toxic Exposure online.**
    > "Get to the PACT form. I have called that number countless times over the past many months since my husbands passing and just keep getting passed on to a different agency with a promise that someone will call me back and the only agency that actual gave me a human was [org redacted]...But I still need to know which forms to submit for survivor benefits or posthumous disability re-evaluation based on death certificateâ€™s new information."
    > 
@@ -75,11 +79,13 @@ One Veteran recommended improved functionality for skipping around in the form a
    > "I am still trying to file claim and supplemental claim for late husband they said we filed on wrong claim....Also need VA to relook as Causations and contributors to his passing, along with [PII] they said AO never used in[Hazardous Location]. Very frustrated you make it impossible for the Vet the worse for the family."
    >
 
+
 **5. Veterans have questions about their eligibility for the Pact Act.**
    > "File for pact act and determine if i am eligible for additional benefits since i am already rated at 100%?"
    > 
    > "VA says I need VHA 10-7131 to fill out and send to them. They did not help me find this form and I searched and could not locate it. Also, I was in [PACT act country} [Years} and the VA said I could file for compensation and I am trying but cannot navigate all the forms to fill out."
    > 
+
 
 ## Appendix 
 ### Coding - Themes across survey responses
