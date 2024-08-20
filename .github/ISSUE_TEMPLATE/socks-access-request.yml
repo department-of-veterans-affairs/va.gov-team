@@ -103,7 +103,7 @@ body:
         :x: Don't fill out anything below here :x:
   - type: checkboxes
     attributes:
-      label: Please verify the following items before merging SOCKS PR. (If needed, here are the [internal instructions](https://vfs.atlassian.net/wiki/spaces/OT/pages/1792114735/Onboard+New+Team+Members+Granting+Access+to+Internal+Tools#SOCKS-Access-Request-(adding-SSH-public-keys)) for processing this request.)
+      label: Platform DevOps Support - please verify the following items before merging the SOCKS PR.
       description: Don't fill this part out, please
       options:
       - label: "Work email address is listed"
