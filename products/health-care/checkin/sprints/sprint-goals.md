@@ -44,6 +44,7 @@
       - 🟨 [[DevOps] Remove/Delete ECR Repository Images NOT Actively in Use.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/407)
       - 🟨 [[DevOps] Delete unused SSM Parameters in `dsvagovcloud` referring to `vaec-cms` resources (`dev`).](https://github.com/department-of-veterans-affairs/checkin-devops/issues/451)
       - 🟨 [[DevOps] Project Details Preparation for VistA-API-X conversation.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/436)
+      - 🟨 [[DevOps] Change LoROTA default branch from master to main.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/466)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address launch blockers from Staging Review & release the feature**
     - 🟩 are there any remaining tickets prior to release?
