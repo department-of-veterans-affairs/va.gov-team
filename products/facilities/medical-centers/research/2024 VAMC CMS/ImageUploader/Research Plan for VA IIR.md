@@ -62,7 +62,7 @@ Recruitment will happen with VAMC editors and CAIA editors, connected through ou
 
 - VAMC editor or CAIA editor
 - Has CMS account and editing permissions
-- Has created posts in [VA.gov](http://va.gov/) CMS
+- Has created content in [VA.gov](http://va.gov/) CMS
 - Has uploaded an image to [VA.gov](http://va.gov/) before (need to identify which pages CAIA works on that include adding images.)
 
 **Prepare**
