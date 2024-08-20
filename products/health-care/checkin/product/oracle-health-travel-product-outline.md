@@ -1,7 +1,7 @@
-# Product Outline - Oracle Health (OH) Travel Reimbursement
+# Product Outline - Day of Appointment Travel Reimbursement
 
 ## Overview
-The Oracle Health (OH) Travel Reimbursement product offers Veterans a way to file a mileage-only travel reimbursement claim on the day of an appointment they have at a VA facility that uses the OH EHR software.
+The Day of Appointment Travel Reimbursement product offers Veterans a way to file a mileage-only travel reimbursement claim on the day of an appointment they have at a VA facility that uses the OH EHR software.
 
 ## Problems Solved
 - Veterans find it confusing to use the BTSSS portal
