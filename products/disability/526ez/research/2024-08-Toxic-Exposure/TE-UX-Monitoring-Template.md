@@ -13,7 +13,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 
 ## Summary of responses
 
-**Feedback survey**
+**Feedback survey: 526ez pages with the most responses**
 |Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
 |-|Total responses (462)||||||
@@ -22,7 +22,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 |3| Start (64 / 14%)|||||
 |4| Review & Submit (19 / 4%)| ||||
 
-**Intercept survey**
+**Intercept survey: 526ez pages with the most responses**
 |Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
 || Total responses (85)| |||||
@@ -30,7 +30,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 |2| Start (22/ 26%)|||
 |3| Veteran Information (7 / 8%)|||
 
-## Top Themes
+## Themes across Medallia survey responses
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 |Code|Feedback count| Intercept count|Definition|
 |--|--|--|--|
@@ -38,7 +38,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 ||||
 ||||
 
-**Themes over time**
+**Top themes over time**
 |Rank|Pre-launch (6 weeks)| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
 |--|--|--|--|--|--|
 |1|Usability (33)|--|--|||
