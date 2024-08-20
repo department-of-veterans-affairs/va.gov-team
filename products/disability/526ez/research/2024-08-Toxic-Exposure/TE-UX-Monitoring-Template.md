@@ -13,8 +13,8 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 
 ## Summary of GA4 data (Ask Jared which ones to keep vs pull)
 
-| Product KPI                                                 | Baseline  | Target                                        | Data Source                                                  |
-|-------------------------------------------------------------|-----------|-----------------------------------------------|--------------------------------------------------------------|
+| Product KPI | Baseline  | Target | Data Source |
+|--|--|--|--|
 | Maintain or reduce abandonment rates                        | 24%       | ≤ 24%                                         | [Domo](https://va-gov.domo.com/page/447193050/kpis/details/1994399128?pfilters=%5B%7B%22column%22:%22form_name%22,%22operand%22:%22IN%22,%22values%22:%5B%22Form%2021-526EZ%20-%20Original%20Disability%20Claim%22%5D,%22dataType%22:%22string%22,%22affectedCardUrns%22:%5B%5D,%22label%22:%22form_name%22,%22key%22:%22form_name:%22,%22dataSourceId%22:%22e83cb7cf-0e3d-4699-89b3-761589681307%22%7D%5D)<br>[526 Toxic Exposure GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 | Reduce or maintain existing submission errors               | 0.62%     | ≤ 0.62%                                       | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
 | Maintain % of submissions that use normal path              | 99.38%    | 99.38% (inferred from % of submission errors) | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
