@@ -1,6 +1,0 @@
-| Date | Time Slots (50 minutes) |
-|---|---|
-| Monday, August 26th | 10:00AM - 11:00AM<br><input type="text" placeholder="Your Name"><br>11:30AM - 12:30PM<br><input type="text" placeholder="Your Name"><br>1:00PM - 2:30PM<br><input type="text" placeholder="Your Name"><br>3:00PM - 4:00PM<br><input type="text" placeholder="Your Name"> |
-| Tuesday, August 27th | 10:00AM - 11:00AM<br><input type="text" placeholder="Your Name"><br>11:30AM - 12:30PM<br><input type="text" placeholder="Your Name"><br>1:00PM - 2:30PM<br><input type="text" placeholder="Your Name"><br>3:00PM - 4:00PM<br><input type="text" placeholder="Your Name"> |
-| Wednesday, August 28th | 10:00AM - 11:00AM<br><input type="text" placeholder="Your Name"><br>11:30AM - 12:30PM<br><input type="text" placeholder="Your Name"><br>1:00PM - 2:30PM<br><input type="text" placeholder="Your Name"><br>3:00PM - 4:00PM<br><input type="text" placeholder="Your Name"> |
-| Thursday, August 29th | 10:00AM - 11:00AM<br><input type="text" placeholder="Your Name"><br>11:30AM - 12:30PM<br><input type="text" placeholder="Your Name"><br>1:00PM - 2:30PM<br><input type="text" placeholder="Your Name"><br>3:00PM - 4:00PM<br><input type="text" placeholder="Your Name"> |
