@@ -1,6 +1,6 @@
 # Form 0781 Updates Concept Testing and User Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), 526EZ, Disability Benefits Experience Team 2
+**Office of the CTO - Digital Experience (OCTO-DE), 526EZ, Disability Benefits Experience Team 2**
 
 
 Date: August 15, 2024
@@ -17,7 +17,6 @@ Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ry
 - [What did we learn: Summary](#what-did-we-learn-summary)
 - [Hypotheses and Conclusions](#hypotheses-and-conclusions)
 - [Next steps](#next-steps)
-- [Additional Findings](#additional-findings)
 - [Appendix](#appendix)
 - [Tools used for synthesis](#tools-used-for-synthesis)
 - [Pages and applications used](#pages-and-applications-used)
@@ -50,16 +49,16 @@ We are translating these updates to the digital 0781, which is embedded within t
 ## Research Goals
 Based on prior research and the discovery on the new form, we identified three research goals:
 - Goal 1: Understand which placement of the new 0781 within the 526 works better, particularly as it relates to evidence.
-   - H1: Veterans will be able to easily orient themselves to start and exit the 0781 with the new content on transitional pages.
-   - H2: Veterans will be able to understand that there are two evidence upload sections within the form, and correctly identify what should be provided in each. 
-   - H3: The new alerts and inclusion of previously uploaded documents will help the Veteran understand why they are asked for evidence twice, and prevent duplicate entries.
+   - Hypothesis 1: Veterans will be able to easily orient themselves to start and exit the 0781 with the new content on transitional pages.
+   - Hypothesis 2: Veterans will be able to understand that there are two evidence upload sections within the form, and correctly identify what should be provided in each. 
+   - Hypothesis 3: The new alerts and inclusion of previously uploaded documents will help the Veteran understand why they are asked for evidence twice, and prevent duplicate entries.
  
 - Goal 2: Understand whether the event flow works for all Veteran experiences: reporting singular events, multiple related events, ongoing events, and so on.
-   - H1: New instructions and examples will make it more clear to Veterans how they can describe their experience accurately and with an appropriate level of detail.
-   - H2: Form updates will help clarify VA’s definitions while accounting for the Veteran’s mental models and guiding them to enter information needed for a successful outcome.
+   - Hypothesis 1: New instructions and examples will make it more clear to Veterans how they can describe their experience accurately and with an appropriate level of detail.
+   - Hypothesis 2: Form updates will help clarify VA’s definitions while accounting for the Veteran’s mental models and guiding them to enter information needed for a successful outcome.
 
 - Goal 3: Understand whether Veterans feel supported and heard through the claim process.
-   - H1: New instructions, examples, and support alerts on every page will increase a sense of safety and provide relevant assistance as the Veteran navigates the form. 
+   - Hypothesis 1: New instructions, examples, and support alerts on every page will increase a sense of safety and provide relevant assistance as the Veteran navigates the form. 
 
 ## Research Questions
 
@@ -516,7 +515,9 @@ Quote:
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2041.png)
 
-## Additional Findings
+## Appendix
+
+### Additional Findings
 - One Veteran wanted to see more date flexibility in Step 4: Additional Forms when asked about treatment.
    - “I would put an option of don't remember. I know folks who have TBIs and need help to remember these dates.” —P11
    - Consider adding helper text that says approximate dates are ok, or checking with VBA to see if we need the month in addition to the year. 
@@ -604,15 +605,6 @@ Post-task Veteran feedback on the 0781 experience was mostly positive. Negative 
 
 "Magic wand" wishes for the 0781 included faster processing of claims, more communication across agencies (to limit how many records Veterans have to collect themselves), easier navigation through on unified portal (referencing the multiple log-in options), and faster communication about C&P exams.
 
-## Appendix
-
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Research%20Plan.md)
-
-[Conversation guide A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Conversation%20Guide%20A.md)
-
-[Conversation guide B](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Conversation%20Guide%20B.md)
-
-[Interview transcripts](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=FUBuoH&siteid=4052333d%2Dbc5a%2D48cc%2Dbe30%2D89c947a439e2&webid=83d7b15c%2D819f%2D4907%2Dba19%2D07495dc88560&uniqueid=29a6a500%2D8338%2D4a4f%2Db980%2Da9e301d2b773&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2F0%20%2D%20Benefits%20Portfolio%20%2D%20business%2FResearch%20Recordings%20%2D%20Veteran%2DStaff%2DVSO%2F2024%2D06%200781%20Form%20Concept%20Testing&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72 )
 
 ## Tools used for Synthesis
 
