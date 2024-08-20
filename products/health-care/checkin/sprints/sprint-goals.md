@@ -41,6 +41,8 @@
 ## SPRINT 14 - 8/21/2024-9/3/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
+    - ❗ 🟦 [Update Claims Ingest API Endpoint Values for eCheck-in Travel & OH Travel ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91049)
+        - **NOTE: THIS HAS A HARD DEADLINE OF 8/31**
     - **Move to New AWS Instance**
         - 🟨 [[DevOps] Project Details Preparation for VistA-API-X conversation. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/436)
         - 🟨 [[DevOps] Delete unused SSM Parameters in dsvagovcloud referring to vaec-cms resources (dev). ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/451)
