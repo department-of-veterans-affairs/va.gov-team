@@ -24,6 +24,12 @@ Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ry
 - [Participant Demographics](#participant-demographics)
 
 ## Background 
+About 1 in 3 women and 1 in 50 men report having experienced sexual harassment or sexual assault while in the military.
+
+Stats are limited for nonbinary and transgender Veterans, but one study reports 15.2% of transgender women and 30% of transgender men experienced military sexual assault.
+
+Almost a quarter of Veterans have PTSD at some point in their lives. 
+
 VA released the new Form 21-0781 Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event (s) this year, which is a combination of two previous VA forms:
 - Form 0781 Statement in Support of Claim for Services Connected for PTSD, and…
 - VA Form 0781a Statement in Support of Claim for Service Connected for PTSD Secondary to Personal Assault
@@ -96,7 +102,7 @@ Each participant saw just one concept. We alternated to get a mix of Veteran exp
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Concept%20img%202.png)
 
 ### **Trauma-Informed Approach**
-We partnered with Rachael Dietkus and the OCTO Trauma-Informed Community of Practice to understand and incorporate a trauma-informed approached into our research. These approaches included:
+We partnered with Rachael Dietkus, a design researcher and licensed clinical social worker with OCTO and the Trauma-Informed Design Community of Practice to understand and incorporate a trauma-informed approached into our research. These approaches included:
 
 **Extra care in screening questions**
 - We included a question that explicitly stated the sensitive topics that would be discussed, and the purpose behind the study
@@ -190,6 +196,17 @@ Starting: The intro page appears in the same sequence for both concepts, and was
 
 Ending: In Concept A, the conclusion of the 0781 is soft and ambiguous without clear distinction from the rest of the claim process. In Concept B it was less ambiguous, but participants voiced frustrations around redundancy and length.
 
+Quotes:
+- "I know which ones to fill out next … I don't have to search for other forms, because everything is in one place."
+  —P5
+
+Concept B
+
+- "This looks like a space saver before moving on. I understand that there is more to go but can stop if needed."
+  —P9
+
+Concept A
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2019.png)
 
 #### Finding 2
@@ -223,6 +240,10 @@ Differentiating 526 and 0781 Evidence**
 While a couple Veterans could clearly differentiate between the two evidence sections, the majority found this concept confusing, perceiving redundancy across the two sections. 
 Along with the perceived redundancy between 526 and 0781 treatment records, participants also found the 4142 authorization and supporting document prompts to be redundant.
 
+Quote:
+- “Not sure why I am being asked this again. Feels like this page might be a catch-all, because we already provided the evidence.” —P9
+
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2021.png)
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2021.2.png)
 
@@ -236,6 +257,11 @@ For the question about how to request medical records, one participant mentioned
 - How might we… promote a clearer understanding of what evidence types are expected in each form section?
    - Consider ways to draw more clear distinctions between form sections and highlight differences between sections that may be misconstrued.
 
+Quotes
+- “This  gets point across that those don't need to get uploaded again.” —P15
+- “It might be helpful to say, you’ve said this earlier, I want VA to get my medical records for me, and have it populate with that answer.” —P10
+
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2022.png)
 
 #### Finding 5
@@ -246,6 +272,10 @@ This was less of an issue for Concept B, because participants had already gone t
 
 - How might we… allow for a more clear understanding of what evidences types are required and how to submit them?
    - Consider providing ways to strengthen the association between evidence types and adjudication criteria.
+
+Quote:
+- “I noticed that this dropdown mentions things that wasn't in the previous page 5-10 pages back.
+Photographs was never mentioned. I didn’t know I could submit that. I have a bunch of photos from my time there. From multiple cameras.” —P1
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2023.png)
 
@@ -259,6 +289,10 @@ Some expected the evidence to come closer to where they first entered the condit
 - How might we… allow for a more clear understanding of the connection between different evidence types supporting evidence and the conditions Veterans are claiming?
    - Consider providing ways to strengthen the association between evidence and supporting documentation and claimed conditions.
  Quote: “For a supporting statement about  how my condition affects me, it’s not really logical. It should follow right after where we see [condition] showing up ”—P1
+
+Quote:
+- “For a supporting statement about  how my condition affects me, it’s not really logical. It should follow right after where we see [condition] showing up ” —P1
+
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Screen%2024.png)
 
@@ -274,6 +308,10 @@ Several participants (2) expressed the desire for one unified treatment records 
    - Consider ways to draw more clear distinctions between form sections and highlight differences between sections that may be misconstrued.
    - Consider embedding the 4142 into the treatment records requests in context
 
+Quotes:
+- “I feel like you already asked me this 23 pages ago. What else do you want?” —P7
+- “Going between the first form and the second form. I would have thought the consent would have been done.” —P5
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2025.2%20.png)
 
 #### Finding 8
@@ -285,6 +323,10 @@ Only one participant understood the blue alert in the supporting document page i
 
 - How might we… reduce completion anxiety?
    - Consider ways to allow claimants to more easily review, edit and append evidence submission of like categories. This could be achieved by arranging these sections in closer proximity.
+ 
+Quote:
+- “Looking at the pages, and seeing so much redundancy, and for me not to see it toward the end — how can I know I submitted everything?” —P8
+
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2026.png)
 
@@ -299,6 +341,12 @@ This frustration was only amplified by an ambiguous understanding of what is req
    - Consider reviewing the form for ambiguous language such as "additional forms" and "anything else" and amend with clarifying details.
    - Consider revisiting the overall form structure to eliminate repeated instruction and transitional pages.
    - Explore alternative ways to more clearly convey the intent of multi-page list and loop form prompts.
+ 
+Quotes:
+- Confusion was most prominently observed on the additional forms listing page and repeating evidence sections
+   - “[Laughs] So... right back to the additional forms homepage. I guess after spending this much time on this tab, and now you have to go back.” —P8
+- Friction associated with permission fatigue is experienced most notably in the leading pages of multi-page list and loop form sections and transitional instruction pages.
+   - “A few different times, there's been a lot of like… ‘Are you ready to do this?,’ ‘Are you really-really ready to do this?’” —P5
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2027.png)
 
