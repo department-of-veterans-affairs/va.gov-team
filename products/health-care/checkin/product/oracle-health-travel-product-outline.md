@@ -3,8 +3,6 @@
 ## Overview
 The Oracle Health (OH) Travel Reimbursement product offers Veterans a way to file a mileage-only travel reimbursement claim on the day of an appointment they have at a VA facility that uses the OH EHR software.
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/e33b12ff-46fd-4ce2-becd-ccf1cf413112)
-
 ## Problems Solved
 - Veterans find it confusing to use the BTSSS portal
 - Veterans find it time consuming to fill out a paper claim form and deliver it to the BTSSS travel office
