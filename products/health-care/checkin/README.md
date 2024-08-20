@@ -56,7 +56,8 @@
 ## Product 
 
 #### Product Documentation
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
+- [Patient Check-in Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
+- [Day of Appointment Travel Reimbursement Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/oracle-health-travel-product-outline.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
 - [Other Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
