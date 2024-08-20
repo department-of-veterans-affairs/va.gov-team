@@ -49,6 +49,8 @@ These takeaways are a combination of key findings and hypotheses around what we 
 
 **Note:** Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; customer satisfaction averaged around 3 out of 5. 
 
+***
+
 **1.Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
 
 |3/2023 Finding | True/False in current data set|Context|Veteran voice|
@@ -91,7 +93,7 @@ One Veteran recommended improved functionality for skipping around in the form a
 ***
 
 
-**5. Veterans have questions about their eligibility for the Pact Act.**
+**5. Veterans have questions about their eligibility for the Pact Act-- and are looking for ways to file.**
    > "File for pact act and determine if i am eligible for additional benefits since i am already rated at 100%?"
    > 
    > "VA says I need VHA 10-7131 to fill out and send to them. They did not help me find this form and I searched and could not locate it. Also, I was in [PACT act country} [Years} and the VA said I could file for compensation and I am trying but cannot navigate all the forms to fill out."
