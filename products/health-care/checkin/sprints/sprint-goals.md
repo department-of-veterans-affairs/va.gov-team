@@ -69,6 +69,7 @@
     - 🟪 Staging Review scheduled for 8/29
     - 🟩 FE needs to add links for E2E testing and code coverage to the collab cycle ticket
     - 🟩 FE needs to generate a bank of URLs for each of these dates and post them in the collab cycle ticket (8/23, 8/26, 8/27, 8/28)
+    - 🟩 Push to production for internal pilot
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address Design Intent feedback, determine how we want to implement this, and create tickets to move it forward**
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90550)
