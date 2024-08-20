@@ -2,8 +2,12 @@
 # UX Monitoring Toxic Exposure Launch
 
 **Office of the CTO - Digital Experience (OCTO-DE), 526EZ, DBEX 1**
+
 Dates: August-September 2024
-Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
+
+Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
+
+Jared Pace [Jared.pace@agile6.com]
 
 
 ## Background
