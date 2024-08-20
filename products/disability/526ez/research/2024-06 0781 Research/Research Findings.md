@@ -363,6 +363,11 @@ Most Veterans have a general understanding of the overall intent of this section
 **Comprehension of the Event Entry Flow and Entry Expectations**
 Participants generally understood the overall entry flow, and appreciated the examples as setting a baseline for what's expected with each prompt. 
 This is especially the case with the prompt for event timeframes. Challenges with clear recall of specific date ranges resonated with the majority of Veterans.
+
+Quotes:
+- “This is your moment of truth to tell me what happened, when, and where.” —P14
+- “At bootcamp, that's helpful. Without these examples I would assume I would have to put day month year, that kind of thing.” —P5
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2029.png)
 
 The overall expectation of the level of detail required for describing traumatic experiences for participants was unclear. At the start of the traumatic experiences section, half of the participants expected to be required to provide information about their experiences in great detail. (Previous versions of this form do require a greater level of detail, so this was likely informed by their past experience.) As they continued through the event detail page, three participants anticipated having to provide additional detail later, and one raised concern that a brief description could negatively impact their claim outcome. Others seemed satisfied with providing less detail with the guidance of examples.
@@ -373,6 +378,10 @@ Veterans find themselves in a double bind with regard to how much detail they sh
    - Acknowledge the policy change that led to VA collecting less information than in previous versions
    - Allow for more choice in supplying additional detail to the event description through a separate free text area that is explicitly optional
    - Guide the Veteran toward using narrative text to fill in the gaps not covered in other evidence (eg medical records, lay statements)
+ 
+Quotes:
+- “When someone tells me to briefly describe, it still won't be short … I would like to see the box spread out. I would reread what I wrote, and to make sure I included everything.” —P8
+- “I like that it give the Veteran the options to share what they are comfortable with, before asking to put every single detail. Because that can be traumatic, reliving every detail.” —P16
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2030.png)
 
@@ -385,6 +394,10 @@ Two other participants conflated the official reporting section as a place to up
 -How might we… shift expectations and reduce ambiguity in the level of detail required?
    - Consider emphasizing earlier in the process (on the 0781 intro page, or even in Step 2 conditions) what reporting and evidence is optional
    - Explore ways to draw a clearer distinctions between other claim evidence (eg medical records, lay statements, official reports)
+
+Quotes:
+- “In the beginning, I wouldn't put my [mental health condition] because I don't have supporting documents. Now in this page it says you don't need the report … If it's not listed, if I don't have proof, they might not think it happened.” —P8
+- “I like this gives the Veteran the option. We understand if you don't have it, that's fine. Don't feel pressure of hunting your reports.” —P16
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2031.png)
 
@@ -412,7 +425,9 @@ However, during testing Veterans were confused with this question. Most saw this
 - How might we… reduce friction once users opt into the 0781 flow?
    - Confirm with VBA that experience information is critical to claim outcomes
    - Explore removing this page entirely and bringing users directly to the “Add traumatic experience” page
-Quote: “I do think VA is requiring a certain answer. You can't just file a claim and say no, I don’t want to talk about it. VA would just deny the claim.” —P9
+
+Quote:
+- “I do think VA is requiring a certain answer. You can't just file a claim and say no, I don’t want to talk about it. VA would just deny the claim.” —P9
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2033.png)
 
@@ -426,6 +441,9 @@ Two participants thought the section was intended for reporting mental health ep
 - How might we… convey that details relating to the effects of trauma may be shared elsewhere, as opposed to the section devoted to traumatic experiences that caused the conditions? 
 
 **More data needed:** Only one participant spoke to the complexity that can be associated with more complex forms of trauma, describing the ways in which individual events may intersect with more prolonged exposures (eg a pervasive culture of sexual harassment over time). So we’re not sure if our helper text is enough to account for these experiences.
+
+Quote:
+- “[I would write...] I experienced psychological trauma or loud noises trigger me.” —P16
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2034.png)
 
@@ -446,10 +464,13 @@ Veterans also offered some feedback on small improvements that could be made to 
 - Clarify if links will open in a new tab and not disrupt the form flow
 - Consider which phone lines will be most familiar (one Veteran expressed concern that older Veterans would be looking for a toll-free 800 number and might not be familiar with the 988 number)
 
+Quote:
+- "I like that, because a lot of these Veterans, especially if they're dishonorably discharged, don't think they can use these services." —P1
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2036.png)
 
 #### Finding 2
-**Blue Support Alerts **
+**Blue Support Alerts**
 ~7 Veterans expressed a positive sentiment towards the blue alerts that contained the support information throughout the form. No one appeared distracted or confused by this new alert.
 
 **Mentions of breaks**
@@ -458,6 +479,10 @@ Two Veterans expressed gratitude for the content encouraging breaks throughout t
 Conversely, one Veteran perceived the amount of preparation and introductory content to be too much, and felt it made the process feel longer than necessary.
 
 - How might we… simplify the “foreshadowing” content so that Veterans receive the right amount of information to feel prepared without feeling overwhelmed?
+
+Quotes:
+- "Is that a repeat of what was on the previous screen? It is the same. That's handy if I need it." —P14
+- "I like that I can take a break at any time ... It gives me a chance to be prepared and know what info is needed in the form without traumatizing me or putting me back into the state reliving it over and over. And I can take my time... and come back and finish it." —P16
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2037.png)
 
@@ -468,7 +493,11 @@ Conversely, one Veteran perceived the amount of preparation and introductory con
 - How might we… amp up support beyond mental health resources where it matters most?
    - In the most sensitive areas of the form, consider including additional resources such as VSOs or VA-supported wellness resources such as meditation apps 
    - Provide direction on technical support for file upload pages 
-   - Point to more information about how to get healthcare for mental health conditions 
+   - Point to more information about how to get healthcare for mental health conditions
+
+Quote:
+- "When you talk about certain things, you're back at the situation and that's a massive trigger. And to have the support at the bottom [of the page], I can talk to a person to talk me off the edge." —P8
+
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2038.png)
 
 #### Finding 4
@@ -476,6 +505,10 @@ Conversely, one Veteran perceived the amount of preparation and introductory con
 **Who are the people behind the scenes?** A few Veterans called out the mention of specialized claims processors for claims involving MST, and were reassured by this information — even though it didn't always resonate with their past experience. This could be an opportunity to increase trust in the process. 
 
 - How might we… offer more transparency into the claim processing team, such as the credentials and training these staff members receive?
+
+Quote:
+- "If I could see the face of the team or if I could see their credentials ... The not knowing makes you hesitant to submit the form. I think especially if you're victimized, being able to be face-to-face with the person you're talking to is important for the experience. I don't want to be talking to a stranger."  —P11
+
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Images/Slide%2039.png)
 
