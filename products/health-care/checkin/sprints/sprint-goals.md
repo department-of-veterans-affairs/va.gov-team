@@ -167,7 +167,7 @@
     - ✔️ 🟦 [[BE] remove feature flag: check_in_experience_lorota_security_updates_enabled](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90100)
     - ✔️ 🟦 [Update content on success page to remove content about texting again ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90062)
     - ✔️ 🟩 [[FE] Add link collection component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90353)
-    - 🟩 [[FE] Fix action link display in appointments for this facility ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90985)
+    - ✔️ 🟩 [[FE] Fix action link display in appointments for this facility ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90985)
         - Added last day of sprint
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
