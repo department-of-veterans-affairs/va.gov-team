@@ -46,7 +46,7 @@ Veterans need a way to access and download their Individual Exposure Summary (IE
 ## Solution Approach
 - **Initial Build:** The IES download feature will be integrated into the VA.gov profile, with placement starting in the Military Info section, where veterans typically expect to find service-related data.
 - **Explicit exclusions:** The initial implementation will not include placement in the medical records section or under MyHealtheVet, as feedback suggests the IES is not solely health-related and could lead to misinterpretation.
-- **Future Evolution:** Following the initial launch, user feedback and usage analytics will guide any necessary adjustments, such as considering placement in additional sections like the website (e.g., Claims sections) or incorporating the IES link into relevant benefits forms.
+- **Future Evolution:** Following usability testing we may make changes to how we're linking to the IES from other places but shouldn't delay getting this in the hands of veterans. After the initial launch we can continue to collect/monitor user feedback and usage analytics to guide any necessary adjustments, such as considering placement in additional sections of the website (e.g., Claims sections) or incorporating alerts or links to the IES page on relevant benefits forms.
 
 ---
 
