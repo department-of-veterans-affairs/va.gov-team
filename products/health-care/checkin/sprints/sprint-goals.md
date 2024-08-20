@@ -117,6 +117,11 @@
         - ✔️ 🟨 [[DevOps] Create GHA workflow to taint API Gateway deployments.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89402)
         - ✔️ 🟨 [[DevOps] Determine additional privileges needed for CHIP Lambda Role](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86522)
         - ✔️ 🟨 [[DevOps] Add DD_API_KEY to Codebuild project as an environment variable.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/445)
+        - ✔️ 🟨 [[DevOps] Audit `vets-api` secrets and parameters referencing CIE VAEC resources.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/411)
+        - ✔️ 🟨 [[DevOps] Create `terraform_dsva` Terragrunt configuration in `checkin-devops`.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/462)
+        - ✔️ 🟨 [[DevOps] Add LoROTA health check function and tests to system tests.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/467)
+        - ✔️ 🟨 [[DevOps] Add health check endpoint to LoROTA.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/399)
+        - ✔️ 🟨 [[DevOps] Triage tickets in `lorota` repository.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/253)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get this feature ready for Staging Review**
     - ✔️ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
