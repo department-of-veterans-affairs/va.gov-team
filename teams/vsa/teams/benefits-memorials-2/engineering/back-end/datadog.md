@@ -2,11 +2,12 @@
 
 ## Table of Contents
 
-1. [Links](#links)
-2. [Code Implementation](#implementation)
+1. [Setup](#setup)
+2. [Links](#links)
+3. [Implementation](#implementation)
 4. [Monitors](#monitors)
-4. [Queries](#queries)
-5. [Dashboards](#dashboards)
+5. [Queries](#queries)
+6. [Dashboards](#dashboards)
 
 ## Links
 
@@ -19,7 +20,10 @@
 
 The controller examples above can be easily changed to investigate other controller actions by changing the query.
 
-## Code Implementation
+## Setup
+You will need to have a PIV card to access Datadog. When you first gain access, you will likely have read-only access. You can request write access in the #vfs-platform-support channel in the Octo Slack.
+
+## Implementation
 
 When you want to send a metric to Datadog, you use something like this:
 
@@ -59,9 +63,7 @@ Datadog, they will not have dot notation, they get normalized by Datadog with un
 Datadog monitors generate 'alerts' and are configured using the metrics like the one we made above. [Here is a link to all of the Debt team monitors](https://vagov.ddog-gov.com/monitors/manage?q=team%3Avfs-debt&order=desc).
 
 ### Alerts
-We use these monitors to alert us when something bad or interesting happens, usually bad. Datadog supports many ways to send alerts but we almost exclusively pay attention to the #debt-alerts channel in Slack. Our alerts go to our VA emails too.
-
-Datadog supports all kinds of ways to send alerts but we configure our alerts to post to your VA email and slack. We have a slack channel called #debt-alerts that is used for all alerts related to the debt team. 
+We use these monitors to alert us when something bad or interesting happens, usually bad. Datadog supports many ways to send alerts but we almost exclusively pay attention to the #debt-alerts channel in Slack. Our alerts go to our VA emails too. We have a slack channel called #debt-alerts that is used for all alerts related to the debt team. 
 
 [Here is a link to a monitor for the DebtsController#index controller/action](https://vagov.ddog-gov.com/monitors/170467?view=spans) a particularly noisy monitor at the time of this writing, note the query.
 ```
@@ -72,7 +74,7 @@ This monitor is looking at the last 6 hours of data and if the percentage of 5xx
 ## Queries
 Queries are used across Datadog for investigating errors, creating monitors, and creating dashboards. Datadog calls this query syntax 'DQL' (DataDog Query Language). It can be frustrating building DQL queries at first, it's helpful to start with the queries in our existing dashboards, error link examples above, and monitors.
 
-[Take this link](https://vagov.ddog-gov.com/apm/traces?query=env%3Aeks-prod%20resource_name%3A%22V0%3A%3AMedicalCopaysController%23index%22%20-%40http.status_code%3A20%2A%20-%40http.status_code%3A403%20operation_name%3Arack.request&agg_m=count&agg_m_source=base&agg_t=count&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&fromUser=false&historicalData=true&messageDisplay=inline&query_translation_version=v0&sort=desc&spanType=all&traceQuery=&view=spans&start=1723954223280&end=1724127023280&paused=false) to the MedicalCopayController#index for example. We could change the `#index` suffix in the `"V0::MedicalCopaysController#index"` query parameter to another action to get info on that action.
+[Take this link](https://vagov.ddog-gov.com/apm/traces?query=env%3Aeks-prod%20resource_name%3A%22V0%3A%3AMedicalCopaysController%23index%22%20-%40http.status_code%3A20%2A%20-%40http.status_code%3A403%20operation_name%3Arack.request&agg_m=count&agg_m_source=base&agg_t=count&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&fromUser=false&historicalData=true&messageDisplay=inline&query_translation_version=v0&sort=desc&spanType=all&traceQuery=&view=spans&start=1723954223280&end=1724127023280&paused=false) to the MedicalCopayController#index for example. We could change the `#index` suffix in the `"V0::MedicalCopaysController#index"` query parameter to something like the `#get_pdf_statement_by_id` action to get info on that action.
 
 ## Dashboards
 Dashboards have 'groups' and 'widgets'. Together, groups and widgets give us a visual representation of our metrics. We have a [Debt Team Dashboard](https://vagov.ddog-gov.com/dashboard/shm-nr4-75f?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723950680292&to_ts=1724123480292&live=true) that we use to monitor the health of our services. We can add graphs, tables, and other widgets to our dashboards to help us understand what is happening with our code. You are free to create Dashboards for whatever you find helpful.
