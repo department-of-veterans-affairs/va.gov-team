@@ -81,26 +81,30 @@
     - **Support Renewal of the ATO**
         - 🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88815)
     - **Move to New AWS Instance**
-        - ✔️ 🟨 [[DevOps] Determine which ECR repository images are actively in use.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87089)
-        - ✔️ 🟨 [[DevOps] Add DD_API_KEY to Codebuild project as an environment variable.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/445)
-        - ✔️ 🟨 [[DevOps] Ask VistA-API-X team if they like us 😳  👉 👈](https://github.com/department-of-veterans-affairs/checkin-devops/issues/437)
-        - ✔️ 🟨 [[DevOps] Check out CHIP KMS infrastructure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86521)
-        - ✔️ 🟨 [[DevOps] Create GHA workflow to taint API Gateway deployments.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89402)
-        - ✔️ 🟨 [[DevOps] Create Node.js function to generate LoROTA data](https://github.com/department-of-veterans-affairs/checkin-devops/issues/409)
-        - ✔️ 🟨 [[DevOps] Create Utility API module to house utility Lambdas, API Gateway, etc](https://github.com/department-of-veterans-affairs/checkin-devops/issues/414)
-        - ✔️ 🟨 [[DevOps] Create `cie-utility-api` repository.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/415)
-        - ✔️ 🟨 [[DevOps] Determine additional privileges needed for CHIP Lambda Role](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86522)
-        - ✔️ 🟨 [[DevOps] Determine efficient solution for creating mock LoROTA data in DynamoDB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87078)
-        - ✔️ 🟨 [[DevOps] Determine external dependents of CIE resources in `vaec-cms` that will be impacted by AWS account migration.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77645)
-        - ✔️ 🟨 [[DevOps] Discovery on JSON schemas for CHIP <-> LoROTA <-> Vets-API](https://github.com/department-of-veterans-affairs/checkin-devops/issues/408)
-        - ✔️ 🟨 [DevOps] Create CHIP LoROTA schemas [428](https://github.com/department-of-veterans-affairs/checkin-devops/issues/428) [426](https://github.com/department-of-veterans-affairs/checkin-devops/issues/426) [427](https://github.com/department-of-veterans-affairs/checkin-devops/issues/427) [424](https://github.com/department-of-veterans-affairs/checkin-devops/issues/424) [425](https://github.com/department-of-veterans-affairs/checkin-devops/issues/425)
-        - ✔️ 🟨 [[DevOps] Discovery on/Submit VistA Office Review Board Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90107)
+      - **LoROTA** - Testing
         - ✔️ 🟨 [DevOps] Implement various automated tests for LoROTA [326](https://github.com/department-of-veterans-affairs/checkin-devops/issues/326) [334](https://github.com/department-of-veterans-affairs/checkin-devops/issues/334) [332](https://github.com/department-of-veterans-affairs/checkin-devops/issues/332) [333](https://github.com/department-of-veterans-affairs/checkin-devops/issues/333) [328](https://github.com/department-of-veterans-affairs/checkin-devops/issues/328) [336](https://github.com/department-of-veterans-affairs/checkin-devops/issues/336) [337](https://github.com/department-of-veterans-affairs/checkin-devops/issues/337) [335](https://github.com/department-of-veterans-affairs/checkin-devops/issues/335) [331](https://github.com/department-of-veterans-affairs/checkin-devops/issues/331) [330](https://github.com/department-of-veterans-affairs/checkin-devops/issues/330) [327](https://github.com/department-of-veterans-affairs/checkin-devops/issues/327) [339](https://github.com/department-of-veterans-affairs/checkin-devops/issues/339) [338](https://github.com/department-of-veterans-affairs/checkin-devops/issues/338) [340](https://github.com/department-of-veterans-affairs/checkin-devops/issues/340) [431](https://github.com/department-of-veterans-affairs/checkin-devops/issues/431) [344](https://github.com/department-of-veterans-affairs/checkin-devops/issues/344) [345](https://github.com/department-of-veterans-affairs/checkin-devops/issues/345)
         - ✔️ 🟨 [[DevOps] Investigate Datadog APM for System Tests.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/443)
+      - **LoROTA** - Benchmarking
+        - ✔️ 🟨 [[DevOps] Create Node.js function to generate LoROTA data](https://github.com/department-of-veterans-affairs/checkin-devops/issues/409)
+        - ✔️ 🟨 [[DevOps] Determine efficient solution for creating mock LoROTA data in DynamoDB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87078)
+        - ✔️ 🟨 [[DevOps] Create Utility API module to house utility Lambdas, API Gateway, etc](https://github.com/department-of-veterans-affairs/checkin-devops/issues/414)
+        - ✔️ 🟨 [[DevOps] Create `cie-utility-api` repository.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/415)
+        - ✔️ 🟨 [[DevOps] Discovery on JSON schemas for CHIP <-> LoROTA <-> Vets-API](https://github.com/department-of-veterans-affairs/checkin-devops/issues/408)
+        - ✔️ 🟨 [DevOps] Create CHIP LoROTA schemas [428](https://github.com/department-of-veterans-affairs/checkin-devops/issues/428) [426](https://github.com/department-of-veterans-affairs/checkin-devops/issues/426) [427](https://github.com/department-of-veterans-affairs/checkin-devops/issues/427) [424](https://github.com/department-of-veterans-affairs/checkin-devops/issues/424) [425](https://github.com/department-of-veterans-affairs/checkin-devops/issues/425)
+      - **Vista API**
+        - ✔️ 🟨 [[DevOps] Determine which ECR repository images are actively in use.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87089)
+        - ✔️ 🟨 [[DevOps] Ask VistA-API-X team if they like us 😳  👉 👈](https://github.com/department-of-veterans-affairs/checkin-devops/issues/437)
+        - ✔️ 🟨 [[DevOps] Discovery on/Submit VistA Office Review Board Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90107)
+        - ✔️ 🟨 [[DevOps] See about getting a VistA service account for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89978)
+      - **Miscellaneous**
+        - ✔️ 🟨 [[DevOps] Determine external dependents of CIE resources in `vaec-cms` that will be impacted by AWS account migration.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77645)
+        - ✔️ 🟨 [[DevOps] Triage external dependents of CIE-owned resources in vaec-cms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77657)
         - ✔️ 🟨 [[DevOps] RFC: Remove `int` environment.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/401)
         - ✔️ 🟨 [[DevOps] Request `iam:UpdateRoleDescription` from VAEC.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89120)
-        - ✔️ 🟨 [[DevOps] See about getting a VistA service account for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89978)
-        - ✔️ 🟨 [[DevOps] Triage external dependents of CIE-owned resources in vaec-cms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77657)
+        - ✔️ 🟨 [[DevOps] Check out CHIP KMS infrastructure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86521)
+        - ✔️ 🟨 [[DevOps] Create GHA workflow to taint API Gateway deployments.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89402)
+        - ✔️ 🟨 [[DevOps] Determine additional privileges needed for CHIP Lambda Role](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86522)
+        - ✔️ 🟨 [[DevOps] Add DD_API_KEY to Codebuild project as an environment variable.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/445)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to get this feature ready for Staging Review**
     - ✔️ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88600)
