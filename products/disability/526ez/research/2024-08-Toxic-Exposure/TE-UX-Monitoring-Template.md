@@ -15,22 +15,20 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 
 ## Summary of responses
 
-### Feedback survey
-Between [Dates], the Medallia Feedback survey received **[#] responses.** 
-
-|Rank|Pre-launch|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
+**Feedback survey**
+|Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
+|-|Total responses|462|||||
 |1| Introduction (116 / 25%)|||||
 |2| Confirmation (76 / 16%)|||||
 |3| Start (64 / 14%)|||||
 |4| Review & Submit (19 / 4%)| ||||
 
-### Intercept survey
-Between [DATES], the Medallia Intercept survey received **{X} responses.** 
-
-|Rank|Pre-launch|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
+**Intercept survey**
+|Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
-|1|Introduction 42 / 49%|||
+|| Total responses| 85|||||
+|1|Introduction (42 / 49%)|||
 |2| Start (22/ 26%)|||
 |3| Veteran Information (7 / 8%)|||
 
@@ -43,7 +41,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 ||||
 
 **Themes over time**
-|Rank|Pre-launch| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
+|Rank|Pre-launch (6 weeks)| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
 |--|--|--|--|--|--|
 |1|Usability (33)|--|--|||
 |2|Navigation (33)|-- |
