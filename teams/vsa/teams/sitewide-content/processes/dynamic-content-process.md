@@ -51,10 +51,13 @@ The Product team should tell Sitewide CAIA about plans for an incremental launch
 
 ## React widget creation steps
 
-* For non-sign-in-related react widgets, follow the [platform developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-react-widget) to create the react widget
-* For sign-in-related (Call to Action) react widgets:
-1. add entry to `CTA_WIDGET_TYPES` in `src/applications/static-pages/cta-widget/ctaWidgets.js`. `MY_WIDGET_NAME: 'my-widget-name',`
-2. add entry to `ctaWidgetsLookup` to initialize the widget:
+### For non-sign-in-related react widgets 
+Follow the [platform developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-react-widget) to create the react widget.
+
+### For sign-in-related (Call to Action) react widgets
+
+1. Add entry to `CTA_WIDGET_TYPES` in `src/applications/static-pages/cta-widget/ctaWidgets.js`. `MY_WIDGET_NAME: 'my-widget-name',`
+2. Add entry to `ctaWidgetsLookup` to initialize the widget:
 ```
 [CTA_WIDGET_TYPES.MY_WIDGET_NAME]: {
   id: CTA_WIDGET_TYPES.MY_WIDGET_NAME,
