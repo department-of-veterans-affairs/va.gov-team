@@ -1,7 +1,7 @@
 # `useDetectFieldChanges` Hook
 
 ## What is this?
-This document explains the `useDetectFieldChanges` hook, which monitors changes in form data that impact eligibility for a streamlined waiver during the review process in the Financial Status Report (FSR).
+This document explains the `useDetectFieldChanges` [hook](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/hooks/useDetectFieldChanges.jsx), which monitors changes in form data that impact eligibility for a streamlined waiver during the review process in the Financial Status Report (FSR).
 
 ## Table of Contents
 - [What you came here for](#what-you-came-here-for)
