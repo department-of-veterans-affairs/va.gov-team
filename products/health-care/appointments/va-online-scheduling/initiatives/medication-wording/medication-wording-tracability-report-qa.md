@@ -88,9 +88,9 @@
 | Announce past appointment modality | Test with Voiceover on Mac| 	| N/A|
 | Announce past appointment location | Test with Voiceover on Mac| 	| N/A|
 | Announce past appointment combo box| Test with Voiceover on Mac| 	| N/A|
-| Announce request type of care | Test with Voiceover on Mac| Passed	| N/A|
-| Announce request modality | Test with Voiceover on Mac| Passed	| N/A|
-| Announce request location | Test with Voiceover on Mac| Passed	| N/A|
+| Announce request type of care | Test with Voiceover on Mac|	| N/A|
+| Announce request modality | Test with Voiceover on Mac| | N/A|
+| Announce request location | Test with Voiceover on Mac|	| N/A|
 
 ### Talkback on Android
 
