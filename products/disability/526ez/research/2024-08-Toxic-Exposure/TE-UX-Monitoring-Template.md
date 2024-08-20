@@ -1,28 +1,28 @@
 
-# Toxic Exposure Pre-Launch Review of Medallia Data
+# UX Monitoring Toxic Exposure Launch
 
 **Office of the CTO - Digital Experience (OCTO-DE), 526EZ, DBEX 1**
 
-Date: 08/15/2024
+Date: [ADD DATE]
 
 Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 
 
 ## Overview
-We are reviewing Medallia data from July 1-August 9 2024 so we can establish a baseline for what to expect from the survey data before we launch Toxic Exposure. This will help us distinguish ongoing UX challenges from those caused by the rollout.
+We are monitoring UXreviewing Medallia data from July 1-August 9 2024 so we can establish a baseline for what to expect from the survey data before we launch Toxic Exposure. This will help us distinguish ongoing UX challenges from those caused by the rollout.
 
 ## Summary of responses
 
 ### Feedback survey
-Between July 1 and August 9, 2024, the Medallia Feedback survey received **462 responses.** 
+Between [Dates], the Medallia Feedback survey received **[#] responses.** 
 
 User feedback was most concentrated on the first and last pages of the form.
-|Rank|Top Feedback Pages|# of responses| % of total responses|
+|Rank|July-Aug 9| Next| Future|
 |--|--|--|--|
-|1|Introduction| 116 | 25% |
-|2| Confirmation| 76 |16%|
-|3| Start | 64 | 14% |
-|4| Review & Submit| 19 | 4%|
+|1| Introduction (116/25%)|||
+|2| Confirmation (76/16%)|||
+|3| Start (64/14%)|||
+|4| Review & Submit (19/4%)| ||
 
 ### Intercept survey
 Between July 1 and August 9, 2024, the Medallia Intercept survey received **85 responses.** 
