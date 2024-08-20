@@ -29,6 +29,25 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 
 ## Summary of Medallia survey data
 
+**Medallia Survey Quantitative Feedback**
+|**Data point**|**Baseline (2024)**|**Pre-Launch**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
+|--|--|--|--|--|--|--|
+|**CSAT-Intercept**| | | | |
+|**Task completion**| | | | |
+|**Trust Overall**| | | | |
+|**Trust Gained/Lost**| | | | |
+
+
+## Themes across Medallia survey responses
+I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
+**Top themes**
+|Rank|Pre-launch (6 weeks)| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
+|--|--|--|--|--|--|
+|1|Usability (33)|--|--|||
+|2|Navigation (33)|-- |
+|3|PACT (26)| |--|
+|4|Error (26)||--| --|
+|5|Getting help (23)|--|
 
 
 **Feedback survey: 526ez pages with the most responses**
@@ -47,25 +66,6 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |1|Introduction (42 / 49%)|||
 |2| Start (22/ 26%)|||
 |3| Veteran Information (7 / 8%)|||
-
-## Themes across Medallia survey responses
-I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
-|Code|Feedback count| Intercept count|Definition|
-|--|--|--|--|
-||||
-||||
-||||
-
-**Top themes over time**
-|Rank|Pre-launch (6 weeks)| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
-|--|--|--|--|--|--|
-|1|Usability (33)|--|--|||
-|2|Navigation (33)|-- |
-|3|PACT (26)| |--|
-|4|Error (26)||--| --|
-|5|Getting help (23)|--|
-
-
 
 ## Top 5 Takeaways 
 Top takeaways will come from the combined review of GA4 and Medallia each week. These insights will work to explain trends we see across qualitative and quantitative data points as they pertain to Toxic Exposure. 
