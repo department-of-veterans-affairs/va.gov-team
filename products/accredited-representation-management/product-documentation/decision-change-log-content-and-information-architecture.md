@@ -40,3 +40,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _CAIA content partner A Procik confirmed in ([Slack message](https://dsva.slack.com/archives/C01K37HRUAH/p1723151194544469?thread_ts=1723136972.151189&cid=C01K37HRUAH))._
 - **8/13/2024**: Updated the entry point on [VA Form 5655](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction) to point to our landing (originally pointing to the legacy page [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp).\
   _Confirmed with the Debt Resolution team in ([Slack message](https://dsva.slack.com/archives/CPE4AJ6Q0/p1723579054028459?thread_ts=1723148366.330879&cid=CPE4AJ6Q0))._
+- **8/19/2024**: Redirected [va.gov/vso](https://va.gov/vso/) and [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp) to our FAQ page.\
+  _CAIA IA partner Kristin Oulette Muskat confirmed this ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1724103072664889)) and Product Manager Lindsay Li-Smith communicated this to stakeholders via email "Redirecting accredited representative URL"._
