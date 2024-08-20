@@ -16,7 +16,6 @@ We are monitoring UXreviewing Medallia data from July 1-August 9 2024 so we can 
 ### Feedback survey
 Between [Dates], the Medallia Feedback survey received **[#] responses.** 
 
-User feedback was most concentrated on the first and last pages of the form.
 |Rank|July-Aug 9|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
 |1| Introduction (116 / 25%)|||||
@@ -25,9 +24,7 @@ User feedback was most concentrated on the first and last pages of the form.
 |4| Review & Submit (19 / 4%)| ||||
 
 ### Intercept survey
-Between July 1 and August 9, 2024, the Medallia Intercept survey received **85 responses.** 
-
-User feedback was most concentrated at the very beginning of the form, despite the fact that it is intended to more evenly  “intercept” 5% of VA.gov users who have had a 20-second or more extended session. This is a known problem and already ticketed (#88712), but this data pull reinforces our hunch. 
+Between [DATES], the Medallia Intercept survey received **{X} responses.** 
 
 |Rank|July-Aug 9|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
@@ -36,7 +33,7 @@ User feedback was most concentrated at the very beginning of the form, despite t
 |3| Veteran Information (7 / 8%)|||
 
 ## Top Themes
-I coded all qualitative user feedback using the codes developed for past Medallia review and added new ones as needed. Most common specific feedback themes included [INSERT CODES HERE].  See Appendix for full list of codes/themes and definitions. 
+I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 |Code|Feedback count| Intercept count|Definition|
 |--|--|--|--|
 ||||
@@ -44,9 +41,9 @@ I coded all qualitative user feedback using the codes developed for past Medalli
 ||||
 
 **Themes over time**
-|Rank|July-Aug 9| Next date range| Future date range| 
-|--|--|--|--|
-|1|Usability (33)|--|--||
+|Rank|July-Aug 9| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
+|--|--|--|--|--|--|
+|1|Usability (33)|--|--|||
 |2|Navigation (33)|-- |
 |3|PACT (26)| |--|
 |4|Error (26)||--| --|
