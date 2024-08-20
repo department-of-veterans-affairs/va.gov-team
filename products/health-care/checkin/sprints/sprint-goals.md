@@ -39,6 +39,7 @@
 ## SPRINT 14 - 8/21/2024-9/3/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
+    - **Move to New AWS Instance**
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address launch blockers from Staging Review & release the feature**
     - 🟩 are there any remaining tickets prior to release?
@@ -73,6 +74,8 @@
 - **Tech Debt**
     - 🟩 [Staging Review finding: How to check in link opens in a new tab without notice ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90774)
     - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
+    - 🟨 [[DevOps] Discovery on updating LoROTA to AWS SDK v3.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/368)
+    - 🟨 [[DevOps] Remove mentions of SSN4 from LoROTA.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/362)
 </details>
 
 ## SPRINT 13 - 8/7/2024-8/20/2024
