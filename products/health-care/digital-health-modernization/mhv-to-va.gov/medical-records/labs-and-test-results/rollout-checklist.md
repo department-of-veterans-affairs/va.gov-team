@@ -51,35 +51,36 @@ For an application to enter rollout Phase 0, the following must be true:
 
 -  Product guides developed and shared with: 
 
-      - [ ] Contact Centers 
+      - [X] Contact Centers 
 
-      - [ ] MHV Coordinators  
+      - [X] MHV Coordinators  
 
-      - [ ] Facility POCs 
+      - [X] Facility POCs 
 
-- [ ] Demo of new tool for audiences who will be affected by Phase 0 completed  
+- [X] Demo of new tool for audiences who will be affected by Phase 0 completed  
 
-- [ ] Support staff trained
+- [X] Support staff trained
 
-- [ ] Process for handling technical / customer support issues exists 
+- [X] Process for handling technical / customer support issues exists 
 
+*This was all covered as part of Phase 0 launch - recommended to revisit this when going to 1% traffic*
  
 ### Product 
 
-- [ ] Intended product outcomes are documented and broadly communicated 
+- [X] Intended product outcomes are documented and broadly communicated 
 
-- [ ] Technical instrumentation is in place to track GA
+- [X] Technical instrumentation is in place to track GA
       Required DD analytics in place, will convert to GA4 as its ready
 
-- [ ] All steps of the collaboration cycle are complete
+- [X] All steps of the collaboration cycle are complete
       Required Collab Cycle Phase 0 complete - as all domains are done we will go to final Collab Cycle 
 
-- [ ] All the MUST feedback complete
+- [X] All the MUST feedback complete
       See above, all MUST feedback was completed for first domain, remaining domains go prior to Phase 1 launch
 
-- [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
+- [X] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
 
-- [ ] Establish email box for the feedback loop
+- [X] Establish email box for the feedback loop
       Email box set up for all Phase 0 domains and products
  
    
@@ -87,15 +88,15 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### User feedback / research  
 
-- [ ] QA / user acceptance testing completed  
+- [X] QA / user acceptance testing completed  
 
-- [ ] Research documented in Github 
+- [X] Research documented in Github 
 
 
 
 ### Accessibility 
 
-- [ ] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed
+- [X] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed
       Ongoing accessibility testing is completed (domain by domain) - as mentioned above final staging review will happen as all domains are in Phase 0.
  
 
@@ -136,22 +137,23 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Performance and Monitoring  
 
-- [ ] Application performance SLOs exist 
+- [X] Application performance SLOs exist 
 
-- [ ] Downstream services tested at 2x average load for prior 12 months 
+- [X] Downstream services tested at 2x average load for prior 12 months 
 
-- [ ] DataDog monitors exist 
+- [X] DataDog monitors exist 
 
-- [ ] Alerts exist 
+- [X] Alerts exist 
 
    - PagerDuty - 
 
     - Slack - 
 
-- [ ] On-call rotation exists - 
+- [X] On-call rotation exists - 
 
-- [ ] Technical support escalation policy exists - 
+- [X] Technical support escalation policy exists - 
 
+*Same with other Phase 0 domains - should revisit when going to 1% traffic*
  
 ### Analytics & Metrics  
 
@@ -178,8 +180,10 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Legal & Policy  
 
-- [ ] Application reviewed for potential legal implications 
+- [X] Application reviewed for potential legal implications 
 
-- [ ] Application reviewed for adherence to policies 
+- [X] Application reviewed for adherence to policies 
 
-- [ ] Application reviewed for information accuracy and patient safety 
+- [X] Application reviewed for information accuracy and patient safety
+
+*Completed as part of intitial collab cycle ticket*
