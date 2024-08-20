@@ -103,9 +103,8 @@ body:
         :x: Don't fill out anything below here :x:
   - type: checkboxes
     attributes:
-      label: User must exist in a roster before SOCKS access can be granted
+      label: Please verify the following items before merging SOCKS PR. (If needed, here are the [internal instructions](https://vfs.atlassian.net/wiki/spaces/OT/pages/1792114735/Onboard+New+Team+Members+Granting+Access+to+Internal+Tools#SOCKS-Access-Request-(adding-SSH-public-keys)) for processing this request.)
       description: Don't fill this part out, please
       options:
-      - label: "If the roster check automation doesn't run, search for the VFS team member in [Atlas](https://www.va.gov/atlas/product_directory/team_members). If user is on a VFS team but not in Atlas, add the 'NOT YET' label and instruct them to start [Platform orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html). Otherwise, leave a comment saying they were found in Atlas and then grant access."
-      - label: "If the roster check automation doesn't run and the requester is on the Platform team, search for user on the [Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster). If they're not listed, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added. Otherwise, leave a comment saying they were found on the Platform roster and then grant access."
-      - label: "If the requester is on a Lighthouse team and not found in Atlas, search for their name on the [Lighthouse Team Roster](https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=Who%27s+Who+-+API+Lighthouse+Program). If they're not listed, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added. Otherwise, leave a comment saying they were found on the Lighthouse roster, add them to Atlas, then grant access."
+      - label: "Work email address is listed"
+      - label: "Valid e-QIP/e-App transmittal notice"
