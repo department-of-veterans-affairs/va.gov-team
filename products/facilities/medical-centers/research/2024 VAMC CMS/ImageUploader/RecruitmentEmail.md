@@ -11,7 +11,7 @@ We're inviting CMS editors to participate in a 50-minute remote study focused on
 
 **Your participation directly contributes to enhancing VA.gov for Veterans.**
 
-If you're interested in sharing your insights and helping improve VA.gov, please sign up for a time slot on our calendly:https://calendly.com/david-pearl-adhocteam/cms-image-uploader
+If you're interested in sharing your insights and helping improve VA.gov, please sign up for a time slot on our calendly: https://calendly.com/david-pearl-adhocteam/cms-image-uploader
 
 Thank you for your time and consideration!
 
