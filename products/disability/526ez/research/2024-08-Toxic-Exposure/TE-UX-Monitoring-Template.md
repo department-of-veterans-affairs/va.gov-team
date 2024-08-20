@@ -9,14 +9,15 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 
 
 ## Overview
-We are monitoring UXreviewing Medallia data from July 1-August 9 2024 so we can establish a baseline for what to expect from the survey data before we launch Toxic Exposure. This will help us distinguish ongoing UX challenges from those caused by the rollout.
+We are monitoring the 1.0 launch of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. This report will document the change in user feedback and GA4 data over time with the goal of capturing any issues reuslting from the launch. 
+Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch."  
 
 ## Summary of responses
 
 ### Feedback survey
 Between [Dates], the Medallia Feedback survey received **[#] responses.** 
 
-|Rank|July-Aug 9|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
+|Rank|Pre-launch|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
 |1| Introduction (116 / 25%)|||||
 |2| Confirmation (76 / 16%)|||||
@@ -26,7 +27,7 @@ Between [Dates], the Medallia Feedback survey received **[#] responses.**
 ### Intercept survey
 Between [DATES], the Medallia Intercept survey received **{X} responses.** 
 
-|Rank|July-Aug 9|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
+|Rank|Pre-launch|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
 |1|Introduction 42 / 49%|||
 |2| Start (22/ 26%)|||
@@ -41,7 +42,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 ||||
 
 **Themes over time**
-|Rank|July-Aug 9| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
+|Rank|Pre-launch| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
 |--|--|--|--|--|--|
 |1|Usability (33)|--|--|||
 |2|Navigation (33)|-- |
