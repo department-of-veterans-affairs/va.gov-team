@@ -49,8 +49,23 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |4|Error (26)||--| --|
 |5|Getting help (23)|--|
 
+## Top 5 Takeaways 
+Top takeaways will come from the combined review of GA4 and Medallia each week. These insights will work to explain trends we see across qualitative and quantitative data points as they pertain to Toxic Exposure. 
 
-**Feedback survey: 526ez pages with the most responses**
+### Week 1 Takeaways
+1. Answer
+2. Answer
+3. Answer
+4. Answer
+5. Answer
+### Week 2 Takeaways
+### Week 3 Takeaways
+### Week 4 Takeaways
+
+## Appendix 
+
+### 526ez pages with the most responses
+**Feedback survey**
 |Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
 |-|Total responses (462)||||||
@@ -59,7 +74,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |3| Start (64 / 14%)|||||
 |4| Review & Submit (19 / 4%)| ||||
 
-**Intercept survey: 526ez pages with the most responses**
+**Intercept survey**
 |Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
 |--|--|--|--|--|--|
 || Total responses (85)| |||||
@@ -67,17 +82,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |2| Start (22/ 26%)|||
 |3| Veteran Information (7 / 8%)|||
 
-## Top 5 Takeaways 
-Top takeaways will come from the combined review of GA4 and Medallia each week. These insights will work to explain trends we see across qualitative and quantitative data points as they pertain to Toxic Exposure. 
-
-### Week 1 Takeaways
-### Week 2 Takeaways
-### Week 3 Takeaways
-### Week 4 Takeaways
-
-
-## Appendix 
-### Coding - Themes across survey responses
+### Codebook
 See full list of codes and their definitions below. 
 |Code|Feedback count| Intercept count|Definition|
 |--|--|--|--|
