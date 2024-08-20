@@ -1,5 +1,5 @@
 # Forms Status on My VA MVP Frontend Documentation
-Last updated: accordion content updated August 19, 2024
+Last updated: August 20, 2024
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
@@ -125,6 +125,8 @@ Form code
 
 Application type
 
+Download your application, available until X/X/XXXX (PDF)
+
 `error`(icon) Application expires on: Date
 
 Last saved on: Date
@@ -193,7 +195,7 @@ Once one of these forms are submitted, they will be represented as a card on My 
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is used.
 - Link styles:
-  - 'default' for benefits hotline number and TTY
+  - 'default' for benefits hotline number and TTY, ['download' for PDF download](https://design.va.gov/components/link/#download)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
@@ -203,6 +205,8 @@ SUBMISSION IN PROGRESS
 Form name
 
 Form number
+
+Download your application, available until X/X/XXXX (PDF)
 
 Submitted on: Month Day, Year
 
@@ -243,7 +247,7 @@ Figma file (with content supplied by CAIA):
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is used.
 - Link styles:
-  - 'default' for benefits hotline number and TTY
+  - 'default' for benefits hotline number and TTY, ['download' for PDF download](https://design.va.gov/components/link/#download)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
@@ -255,6 +259,8 @@ RECEIVED
 Form name
 
 Form number
+
+Download your application, available until X/X/XXXX (PDF)
 
 Submitted on: Month Day, Year
 
@@ -299,7 +305,7 @@ This is an **error state** for an individual form submission. This occurs after 
 - 'Error alert' variation of the Alert component in [VADS](https://design.va.gov/components/alert#error-alert) is used on the card.
 - 'error'(icon) is in the alert. 
 - Link style:
-  - 'default' for benefits hotline number and TTY
+  - 'default' for benefits hotline number and TTY, ['download' for PDF download](https://design.va.gov/components/link/#download)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
@@ -309,6 +315,8 @@ ACTION NEEDED
 Form name
 
 Form number
+
+Download your application, available until X/X/XXXX (PDF)
 
 Submitted on: Month Day, Year 
 
