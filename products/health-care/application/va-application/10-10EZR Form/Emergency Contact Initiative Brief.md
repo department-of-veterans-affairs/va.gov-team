@@ -4,6 +4,8 @@
 <details>
  
  *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
+
+ 
  
 </details>
 
@@ -25,7 +27,7 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+* . Users can add, remove, and edit their Emergency Contacts on the 10-10EZR. This Emergency Contact information is then stores in the VA Enrollment System, which will then disseminate it out to all other systems of record (not part of the scope of this, but expected behavior for VES). This should lead to an increase in 
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
