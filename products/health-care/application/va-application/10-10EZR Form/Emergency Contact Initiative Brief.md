@@ -27,7 +27,7 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* . Users can add, remove, and edit their Emergency Contacts on the 10-10EZR. This Emergency Contact information is then stores in the VA Enrollment System, which will then disseminate it out to all other systems of record (not part of the scope of this, but expected behavior for VES). This should lead to an increase in 
+* Users can add, remove, and edit their Emergency Contacts on the 10-10EZR. This Emergency Contact information is then stores in the VA Enrollment System, which will then disseminate it out to all other systems of record (not part of the scope of this, but expected behavior for VES). This should lead to an increase in 
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
