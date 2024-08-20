@@ -25,10 +25,14 @@
  	- Premal: the PRA has more to do with the public burden. Not increasing the burden because the OHI cert is part of the application process. Premal will gather more data around this.
   	- Look at how the 1010 team is documenting the changes on existing forms so it's easier to present to stakeholders. Lois can gather the files from the 1010 team
   	- - We need to launch the OHI and 1010D first before continuing further with the design
+  	  - Syd checked with 1010ez team on 8/20/24 and they do not integrate any OHI questions (Slack thread: https://dsva.slack.com/archives/C076R0F49L0/p1724180087168479)
   
 ### Decisions and action items
-- Ask the OHI/Claims IVC team about their process involving the schedule of benefits. 
+- Ask the OHI/Claims IVC team about their process involving the schedule of benefits.
+	- Syd asked and: they have not dealt with 10-7959c (OHI form) in any capacity
 - New patterns on confirmation may have a print to pdf button. Design team to look into.
+	- Syd looked into it and there is a pattern being made right now, but not yet available for use (Slack thread: https://dsva.slack.com/archives/C01DBGX4P45/p1724180305823079)
+	- 10-10CG team does have a "Download completed form" button, Syd to look into if we can use it or if we have to wait for Jeana's designs
 - Premal will gather more data around PRA and the 1010d OHI Merge.
 - Lois will share examples of how the 1010 team presents their changes to an existing digital form
 - Probe on the billing statement and EOB upload screen in research to gather more data.
