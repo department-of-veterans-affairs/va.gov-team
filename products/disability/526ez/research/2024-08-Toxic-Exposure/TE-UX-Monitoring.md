@@ -3,12 +3,9 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), 526EZ, DBEX 1**
 
-Dates: August-September 2024
+**Dates:** August-September 2024
 
-Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
-
-Jared Pace [Jared.pace@agile6.com]
-
+**Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
 ## Background
 We are monitoring the 1.0 launch of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. This report will document the change in user feedback and GA4 data over time with the goal of capturing any issues reuslting from the launch. 
