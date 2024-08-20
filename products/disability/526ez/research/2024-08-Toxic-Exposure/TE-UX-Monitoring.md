@@ -19,7 +19,7 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |**Week 2**| Sep 7 - 14 | (10-50%) | |
 
 
-## Summary of GA4 Data Analytics (Ask Jared )
+## Summary of GA4 (Ask Jared )
 
 | KPI | Baseline  | Target | Pre-Launch | Week 1 | Week 2| Week 3| Week 4|Data Source|
 |--|--|--|--|--|--|--|--|--|
@@ -28,6 +28,8 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 | Opt-in rate %                                                            |           |              ||||   |                              |[526 Toxic Exposure GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ)                                                              |
 
 ## Summary of Medallia survey data
+
+
 
 **Feedback survey: 526ez pages with the most responses**
 |Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
