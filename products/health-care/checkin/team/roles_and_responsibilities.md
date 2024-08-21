@@ -7,9 +7,7 @@
 - User Interface Design: Designing the visual elements of the product, including layout, color schemes, typography, and iconography.
 - Collaboration: Working closely with product owners, engineers, and other stakeholders to ensure the design is implemented as intended.
 - User Testing: Performing usability tests to gather feedback and make necessary adjustments to improve the user experience.
-**Sources:**
-- NNGroup on UX Design
-- Interaction Design Foundation
+
 
 **2. Engineers**
 **Responsibilities:**
@@ -18,9 +16,7 @@
 - Code Review: Reviewing peers' code to ensure quality and adherence to coding standards.
 - Maintenance: Fixing bugs, optimizing performance, and updating the product as needed.
 - Collaboration: Working with UX designers, product owners, and delivery managers to align on product goals and timelines.
-**Sources:**
-- Role of Software Engineers
-- Collaboration in Engineering Teams
+
 
 **3. Delivery Manager**
 **Responsibilities:**
@@ -29,9 +25,7 @@
 - Risk Management: Identifying potential risks and implementing mitigation strategies.
 - Stakeholder Communication: Keeping stakeholders informed about project progress, changes, and any issues that arise.
 - Quality Assurance: Ensuring the final product meets quality standards and user expectations.
-**Sources:**
-- Role of a Delivery Manager**
-- Project Management Institute
+
 
 **4. Product Owner**
 **Responsibilities:**
@@ -41,7 +35,12 @@
 **Acceptance Criteria: Defining and reviewing acceptance criteria for features and user stories to ensure they meet the required standards.
 **Decision Making:** Making key decisions regarding the product's direction and prioritization.
 **Sources:**
-- Scrum Alliance on Product Owner Role
-- Product Management Institute
+- [Product Owner Role](https://scaledagileframework.com/product-owner/)
+
+
+**Learn more:**
+- [Scrum Roles](https://www.scrumalliance.org/learn-about-scrum/scrum-elearning-series/scrum-roles)
+- [Scrum Team](https://resources.scrumalliance.org/Article/scrum-team) 
+
 
 These roles work together to ensure a cohesive, user-centered, and technically sound product is delivered efficiently and effectively.
