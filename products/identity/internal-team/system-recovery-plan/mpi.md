@@ -8,11 +8,15 @@ Vets-api infrastructure is maintained by the OCTO Platform team. Identity config
 
 MPI infrastructure is maintained by the MPI team; completion of the recovery steps in this document assumes that the MPI outage has been resolved and the service is again available at the production level.
 
+### Contact Information
+
+Product Manager, Technical Lead, and dependent system contacts for incidents in the communications section below can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md#identity-team-incident-contacts).
+
 ## Communications
 
 In the event all MPI connections are lost in VA.gov, all of our MPI components monitored by Datadog should be alerting and the on-call support individual will be contacted via PagerDuty. When the on-call person identifies that MPI connections are not functioning, the following methods of contact should be used:
 
-1. On-call person should contact the team PM / Technical Lead and request they notify the other engineers for troubleshooting.  
+1. On-call person should contact the team Product Manager (PM) / Technical Lead and request they notify the other engineers for troubleshooting.  
 2. Team PM / Technical Lead should start a thread in the [`#identity-support`](https://dsva.slack.com/archives/CSFV4QTKN) channel in the DSVA Slack workspace for communication with platform teams and customers.  
 3. Team PM / Technical Lead / Engineer should contact the MPI POC to open communication regarding system restoration. MPI POC and ticket submission information can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md\#mpi).
 
@@ -35,3 +39,4 @@ Once we have received notice that MPI has recovered, the following steps should 
    1. Ensure authentication attempts originating from VA.gov are successful   
       1. Perform either an [SSOe](https://www.va.gov/?next=loginModal\&oauth=false) or [SiS](https://www.va.gov/?next=loginModal\&oauth=true) authentication with any credential service provider.  
       2. After successful authentication navigate to [api.va.gov/v0/user](http://api.va.gov/v0/user) and locate your `icn` to verify VA.gov is successfully connecting to MPI.
+4. State in the `#identity-support` channel that all MPI services have been restored and confirmed to be working. 
