@@ -33,10 +33,18 @@
 - Product | Link to product outline 
 
 ## Problem
+* Veterans cannot currently update their Emeregency Contacts online
+* This impacts all Veterens, as until recently they couldn't even see their EC online
+* Veterans can now see their EC (and NoK) in their VA.Gov profile, but a Medallia survey of those Veterans indicated they wanted to be able to edit that information online instead of calling the hotline
+* This initiative should improve data integrity and overall Veteran experience with VHA in that VA should have the correct information should they need to reach out to a Veteran's EC
+
+
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
+
+
 
 <!--
 ## Desired User Outcomes
