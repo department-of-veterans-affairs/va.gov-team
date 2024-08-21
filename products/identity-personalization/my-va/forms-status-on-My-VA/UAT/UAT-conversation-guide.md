@@ -19,3 +19,26 @@ Before we start, I wanted to go over a few details:
 Also, I have some teammates who would like to observe our session and take notes for me, but only if you're comfortable with that. They'll be muted and off camera and you won't have to interact with them. Would you be okay with that, or do you prefer to keep the session just the two of us?
 
 Do you have any questions for me before we begin?
+
+## Setup - 5 minutes
+- Ask what forms they've submitted recently
+- Get screen sharing started
+
+## Tasks - 10 minutes
+
+### Task 1: Sign in
+
+### Task 2: Look at Benefit applications and forms section
+- Note what kinds of forms and statuses are displayed
+- With recruitment: we may not be able to easily recruit for every kind of form, only the statuses - we need to discuss
+- Success criteria based on what they 
+
+### Task 3: attempt to download PDF(s)
+
+### Task 4: Logout
+
+### Task 5: Sign in again, look at Benefit applications and forms API Call error message (if we can turn off the API call in such a way it looks like an error)
+
+### Conclusion
+
+
