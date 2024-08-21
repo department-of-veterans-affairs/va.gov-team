@@ -43,6 +43,7 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
     - ❗ 🟦 [Update Claims Ingest API Endpoint Values for eCheck-in Travel & OH Travel ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91049)
         - **NOTE: THIS HAS A HARD DEADLINE OF 8/31**
+    - ✔️ 🟨 [[DevOps] CHIP refreshAppointments corrupts LoROTA data. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/475)
     - **Move to New AWS Instance**
         - 🟨 [[DevOps] Project Details Preparation for VistA-API-X conversation. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/436)
         - 🟨 [[DevOps] Delete unused SSM Parameters in dsvagovcloud referring to vaec-cms resources (dev). ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/451)
@@ -88,7 +89,6 @@
     - 🟩 [Staging Review finding: How to check in link opens in a new tab without notice ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90774)
     - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
     - 🟩 [FE] Add mocks and tests for no upcoming appointments #91028
-    - ✔️ 🟨 [[DevOps] CHIP refreshAppointments corrupts LoROTA data. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/475)
 </details>
 
 ## SPRINT 13 - 8/7/2024-8/20/2024
