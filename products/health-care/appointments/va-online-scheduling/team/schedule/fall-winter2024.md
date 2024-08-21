@@ -10,7 +10,7 @@ Melissa Lefevre  |  |  |  |  |
 Simi Adebowale   |  |  |  |  |  
 Corey Ferris     |  |  |  |  |  
 Ryan Shaw        |  |  |  |  |  
-John Luo         |  |  |  |  |  
+John Luo         | 16 |  | 1 week pending plans |  |  
 Tony Williams    |  |  |  |  |  
 Jennie McGibney  |  |  |  |  |  
 Brenda Cudone    |  |  |  |  |  
