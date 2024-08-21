@@ -85,7 +85,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
        - ✔️ ❗ 🟨 [[Research] Create research findings presentation for OCTO, VSS, EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88889)
        - ~🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)~
-       - :roller_skate: 🟨 [Create tickets to implement recommendations from research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88891)
+       - ✔️ 🟨 [Create tickets to implement recommendations from research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88891)
        - ✔️ 🟥 Meet with Melissa and Peter to cross-share findings and determine what design or content is needed as a result of their findings
        - 🟨 Schedule research findings readout to OCTO, VSS, EPS
        - ✔️ 🟨 [[Create ED ticket for filtering] Several teams have been working on "filters" for content. We really do not have a great pattern. I would suggest you submit this to experimental design.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85515)
