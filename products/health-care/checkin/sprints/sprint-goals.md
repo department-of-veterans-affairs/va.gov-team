@@ -73,6 +73,8 @@
         - ✔️ 🟨 [[DevOps] Ensure all `aws_s3_bucket` resources have `force_destroy`: `true` set.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/478)
         - ✔️ 🟨 [[DevOps] Upload CHIP schemas to S3 bucket for sharing between projects.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/465)
         - ✔️ 🟨 [[DevOps] Discovery on updating LoROTA to AWS SDK v3.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/368)
+        - ✔️ 🟨 [[DevOps] Update Secrets Manager calls in LoROTA Lambda layer to use AWS SDK v3.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/480)
+        - ✔️ 🟨 [[DevOps] Update LoROTA Lambda layer to use AWS SDK v3 DynamoDB.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/479)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address the feedback from Staging Review & release the feature**
     - 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)
