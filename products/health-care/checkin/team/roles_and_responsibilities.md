@@ -1,4 +1,4 @@
-##**Team Roles and Responsibilities**
+**Team Roles and Responsibilities**
 
 **1. UX Designers**
 **Responsibilities:**
