@@ -21,7 +21,7 @@
 
 ## Background
 
-We want to use the unified sign in page and the sign in modal to help encourage folks to make the transition from the MHV and DSL legacy credentials that are being sunset. Or design exploration especially includes de-emphasizing the legacy credentials, and adding content about how to transition to one of the modern credential options (LIG and IDme)
+We want to use the unified sign in page and the sign in modal to help encourage folks to make the transition from the MHV and DSL legacy credentials that are being sunset. Our design exploration especially includes de-emphasizing the legacy credentials, and adding content about how to transition to one of the modern credential options (LIG and IDme)
 
 - [Product information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/usip-legacy-logins)
 
