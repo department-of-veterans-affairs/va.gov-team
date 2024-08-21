@@ -26,13 +26,9 @@ ________________________________________________________________________________
 </details>
 
 
-
-
-<details>
-<summary>FUTURE SPRINT - 8/21/2024 - 9/3/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 14 - 8/21/2024 - 9/3/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 14 - 8/21/2024 - 9/3/2024 - CURRENT SPRINT
 
 
 #### PLANNED RELEASES 
@@ -53,7 +49,6 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get connected with WellHive**
        - 🟦 [[Eng] Create WellHive endpoints in vets-api](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/89819)
     - **Sub Goal: [Feature] Conduct research study with Veterans**
-       - 🟨 [Create tickets to implement recommendations from research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88891)
        - 🟨 [[Research] Create readme of research findings and move Research Repo ticket to done](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88890)
        - 🟨 Present research findings readout to OCTO, VSS, EPS, IEN, PMD
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
@@ -68,7 +63,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 13 - 8/7/2024 - 8/20/2024 - CURRENT SPRINT
+## SPRINT 13 - 8/7/2024 - 8/20/2024
 
 #### PLANNED RELEASES 
 - NONE
