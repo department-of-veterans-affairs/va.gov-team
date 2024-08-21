@@ -2,6 +2,34 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
+<summary>SPRINT 16 - 9/18/2024-10/1/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 16 - 9/18/2024-10/1/2024
+- **Production Support**
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
+    - **Move to New AWS Instance**
+        - TBD
+- **Upcoming VAOS Appointments**
+    - **Sprint Goal is to get ready for Staging Review**
+    - TBD
+- **Stand-alone Travel Application for OH Sites**
+    - **Sprint Goal is to address all launch blockers from the Staging Review**
+    - TBD
+- **Travel Claim Submission from Past Appts - Web**
+    - **Sprint Goal TBD**
+    - 🟩 TBD
+    - 🟦 TBD
+- **Componentize the Appt Summary View**
+    - **Sprint Goal TBD**
+    - 🟩 TBD    
+- **CIE Analytics**
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
+    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
+- **Tech Debt**
+    - TBD
+</details>
+
+<details>
 <summary>SPRINT 15 - 9/4/2024-9/17/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 15 - 9/4/2024-9/17/2024
@@ -9,18 +37,12 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
     - **Move to New AWS Instance**
         - TBD
-- **Medication Wording for Appointments - Pre-Check-in**
-    - **Sprint Goal is to address the last Staging Review non-launch blocking ticket**
-    - 🟩TBD
 - **Upcoming VAOS Appointments**
-    - **Sprint Goal is to address all launch blockers from the Staging Review and release to production**
-    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)   
-    - 🟪 Schedule Staging Review
-    - 🟩 Schedule ISR Review
+    - **Sprint Goal is to finish the remaining work for the new details pages for Upcoming Appointments**
+    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)       
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to address all launch blockers from the Staging Review**
-    - 🟩 Placeholder for launch blockers, if any - Staging Review is ????
-    - 🟪 [Create Product Directory Entry ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83625)
+    - 🟩 Placeholder for launch blockers, if any - Staging Review is 8/29
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
     - 🟩 TBD
