@@ -3,15 +3,15 @@
 Team Member | September | October | November | December
 --- | --- | --- | --- | --- |
 Jeff Roof |  |  |  |  |  | 
-Leah De La Costa |  |  |  |  |  | 
-Peter Russo |  |  |  |  |  | 
-Ciera Maddox |  |  |  |  |  | 
-Melissa Lefevre |  |  |  |  |  | 
-Simi Adebowale |  |  |  |  |  | 
-Corey Ferris |  |  |  |  |  | 
-Ryan Shaw |  |  |  |  |  |  
-John Luo |  |  |  |  |  | 
-Tony Williams |  |  |  |  |  | 
-Jennie McGibney |  |  |  |  |  | 
-Brenda Cudone |  |  |  |  |  |   
+Leah De La Costa | 13 | 4, 7-8  | 8, 11-12  |  
+Peter Russo |  |  |  |  |  
+Ciera Maddox |  |  |  |  |  
+Melissa Lefevre |  |  |  |  |  
+Simi Adebowale |  |  |  |  |  
+Corey Ferris |  |  |  |  |  
+Ryan Shaw |  |  |  |  |  
+John Luo |  |  |  |  |  
+Tony Williams |  |  |  |  |  
+Jennie McGibney |  |  |  |  |  
+Brenda Cudone |  |  |  |  |  
 
