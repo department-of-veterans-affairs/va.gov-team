@@ -31,9 +31,9 @@ Once we have received notice from the OCTO Platform Team that VA.gov infrastruct
 ## Recovery Verification Steps
 
 1. Confirm [Priority 1 Monitors](https://vagov.ddog-gov.com/monitors/manage?q=%28team%3Aidentity%29%20%28env%3Aprod%20OR%20env%3Aeks-prod%29%20%28priority%3Ap1%29%20SiS) have recovered:  
-  1. [SiS Mobile CSP Success Rate Monitor](https://vagov.ddog-gov.com/monitors/104510?view=spans)  
+    1. [SiS Mobile CSP Success Rate Monitor](https://vagov.ddog-gov.com/monitors/104510?view=spans)  
 2. Confirm [Priority 2 Monitors](https://vagov.ddog-gov.com/monitors/manage?q=%28team%3Aidentity%29%20%28env%3Aprod%20OR%20env%3Aeks-prod%29%20%28priority%3Ap2%29%20SiS\&order=asc\&sort=name) have recovered:  
-   1. Controller Routes:  
+    1. Controller Routes:  
       1. [*/authorize*](https://vagov.ddog-gov.com/monitors/manage?q=%28team%3Aidentity%29%20%28env%3Aprod%20OR%20env%3Aeks-prod%29%20%28priority%3Ap2%29%20%22v0%3A%3Asignincontroller\_authorize%22\&order=desc) \- latency & error rate monitors  
       2. [*/callback*](https://vagov.ddog-gov.com/monitors/manage?q=%28team%3Aidentity%29%20%28env%3Aprod%20OR%20env%3Aeks-prod%29%20%28priority%3Ap2%29%20%22v0%3A%3Asignincontroller\_callback%22\&order=desc) \- latency & error rate monitors  
       3. [*/token*](https://vagov.ddog-gov.com/monitors/manage?q=%28team%3Aidentity%29%20%28env%3Aprod%20OR%20env%3Aeks-prod%29%20%28priority%3Ap2%29%20%22v0%3A%3Asignincontroller\_token%22\&order=desc) \- latency & error rate monitors  
