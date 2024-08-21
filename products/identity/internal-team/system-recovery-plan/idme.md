@@ -6,6 +6,10 @@ In the event of a disaster in which the OCTO Identity Team ID.me integration nee
 
 Vets-api infrastructure is maintained by the OCTO Platform team. Identity configures resources within vets-api, vets-website, devops, and vsp-infra-application-manifests github repositories. Within the repositories are defined modules, controllers, and components which facilitate all of the OCTO Identity services. The system recovery plan assumes these repositories are fully functional and the infrastructure which runs these services has been restored to the last known good state as available from these repositories. The requirement of the system recovery plan is to include steps required to ensure services critical to OCTO Identity have been restored.
 
+### Contact Information
+
+Product Manager, Technical Lead, and relevant dependent system contacts for incidents in the communications section below can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md#identity-team-incident-contacts).
+
 ## Communications
 
 In the event all OCTO Identity services are lost in VA.gov, all of our components monitored by Datadog should be alerting with `No Data` and the on-call support individual will be contacted via PagerDuty. When the on-call person identifies that none of the instances which should be running OCTO Identity services, the following methods of contact should be used:
@@ -37,3 +41,4 @@ Once we have received notice from the OCTO Platform Team that VA.gov infrastruct
 1. Ensure authentication attempts originating from VA.vog SiS are successful  
    1. [https://www.va.gov/?next=loginModal\&oauth=true](https://www.va.gov/?next=loginModal\&oauth=true)  
       1. Select ‘ID.me’, authenticate with id.me production credentials, confirm successful authentication on VA.gov
+1.  State in the [`#identity-support`](https://dsva.slack.com/archives/CSFV4QTKN) channel that all ID.me services have been restored and confirmed to be working.
