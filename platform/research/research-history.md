@@ -458,8 +458,7 @@ Note: this document does not include research history for Appeals projects, whic
 *DEPO team, Melissa Schaff*
 
 - 15 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research)
-- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2020-07-vaos-mvp-and-express-care-user-research)
 
 **Keywords**: vaos, vaosr, online scheduling, express care, covid, coronavirus, user research, usabilty testing
 
