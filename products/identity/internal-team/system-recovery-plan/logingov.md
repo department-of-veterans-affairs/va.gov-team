@@ -8,11 +8,15 @@ Vets-api infrastructure is maintained by the OCTO Platform team. Identity config
 
 Login.gov infrastructure is maintained by the Login.gov team; completion of the recovery steps in this document assumes that the Login.gov outage has been resolved and the service is again available at the production level.
 
+### Contact Information
+
+Product Manager, Technical Lead, and dependent system contacts for incidents in the communications section below can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md#identity-team-incident-contacts).
+
 ## Communications
 
 In the event all Login.gov authentication options are lost in VA.gov, all of our Login.gov components monitored by Datadog should be alerting with `No Data` and the on-call support individual will be contacted via PagerDuty. When the on-call person identifies that none of the Login.gov authentication options are functioning, the following methods of contact should be used:
 
-1. On-call person should contact the team PM / Technical Lead and request they notify the other engineers for troubleshooting.  
+1. On-call person should contact the team Product Manager (PM) / Technical Lead and request they notify the other engineers for troubleshooting.  
 2. Team PM / Technical Lead should start a thread in the [`#identity-support`](https://dsva.slack.com/archives/CSFV4QTKN) channel in the DSVA Slack workspace for communication with platform teams and customers.  
 3. Team PM / Technical Lead / Engineer should contact the Login.gov POC to open communication regarding system restoration. Login.gov POC and ticket submission information can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md\#logingov-sign-in).
 
@@ -40,3 +44,4 @@ Once we have received notice that Login.gov has recovered, the following steps s
          1. Select ‘Login.gov', authenticate with Login.gov production credentials, confirm successful authentication on VA.gov.  
       2. Sign-in Service: [https://www.va.gov/?next=loginModal\&oauth=true](https://www.va.gov/?next=loginModal\&oauth=true)  
          1. Select ‘Login.gov', authenticate with Login.gov production credentials, confirm successful authentication on VA.gov.
+4. State in the `#identity-support` channel that all SSOe services have been restored and confirmed to be working.
