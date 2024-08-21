@@ -25,9 +25,28 @@
 * OKR formats - review OKR page and discuss update timing
   * Bug Reduction OKRs (Therese)
 * Disaster recovery / home screen API call usage
+  * upstream teams feeling stress of additional home screen traffic to their APIs
+  * most teams have been able to scale except the Community Care appts which caused failures in other tools
+  * Lesson Learned - think about this for future feature development and be sure to work with upstream services ahead of launching to get them ready
+  * We are looking at adding the functionality to turn off individual home screen cards to reduce load to those services [ticket](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/9355)
+     * Priority of this change = medium to low
+  * Monthly Payment API switch over - do we know if the new API would perform better? - Stacy to check with Jayson to answer
+     * Need to ensure the data is the same - work with owners of new API to confirm
+     * We should test to confirm as well
 *  How to learn about changes from other teams.
-   * ex.2. Switching API call from EVSS to Lighthouse and what is the cost of doing so
-   * ex.1. VA.gov added error messaging for Z status for Veteran status but did not inform us, despite talking to us about the bug.  
+   *  We don't currently get timely notification of upstream API changes
+   *  We also didn't communicate to upstream API teams about added traffic either, so this is a wide-spread problem
+   *  OCTO Portfolios are aware of this communication gap and having active conversations
+   *  In the meantime, we should keep this gap in mind and do our best
+   * ex.2. Switching API call from EVSS to Lighthouse and what is the cost of doing so - monthly payment call on homepage
+   * ex.1. VA.gov added error messaging for Z status for Veteran status but did not inform us, despite talking to us about the bug.
+* Mobile - Web Collaboration session last Friday
+   * It was great, you can watch the recording if you couldn't join
+   * Had a lot more communication with experience teams since then
+* What are the next steps for the Veteran Status work?
+   * Leads discussing Thursday 8/22 for how this will work*
+      * *There is nothing to panic about
+      * Will have to be strict with our prioritization decisions
 
 ## 8/7/24
 * **Epics Review**
