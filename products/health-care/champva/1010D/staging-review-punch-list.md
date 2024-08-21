@@ -87,7 +87,7 @@ An artifact that corresponds to each standard in the [QA Standards](https://dep
 
 ⠀**Accessibility artifacts**
 - [ ]  [Completed accessibility testing artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D). For details, see [Prepare for an accessibility staging review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review).
-  - [ ] TODO
+  - [ ] [a11y testing artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
 
 
 ## Tasks
