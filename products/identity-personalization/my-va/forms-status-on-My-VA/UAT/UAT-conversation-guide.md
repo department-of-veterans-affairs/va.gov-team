@@ -39,6 +39,8 @@ Do you have any questions for me before we begin?
 
 ### Task 5: Sign in again, look at Benefit applications and forms API Call error message (if we can turn off the API call in such a way it looks like an error)
 
+### Task 6: Sign out, sign in again to ensure error message no longer appears
+
 ### Conclusion
 
 
