@@ -246,7 +246,34 @@ Recommendations:
 * Review messaging to ensure it clearly conveys that the suggested appointment times are based on the times of previous appointments, and that this is why they are being offered.
 * Look into the possibility of allowing participants to schedule different types of appointments or appointments at different clinics within the Express Scheduling flow. This would provide more flexibility and value for participants who may have multiple care needs.
 
+### Secondary Findings:
 
+1. **Misleading Date Availability:** Participants often misinterpreted dates on the PID page as being available, leading to confusion when those dates became unavailable on the subsequent screens.
+
+2. **UI Confusion:** Several participants were confused by the time selection interface, with some mistakenly believing they were selecting start and end times, and others misinterpreting available dates.
+
+3. **Navigation Challenges:** Some participants struggled to navigate back to the appointment list, with unclear options leading to frustration.
+
+4. **Text Clarity Issues:** The instructional text on various screens was frequently skipped or misunderstood, leading to incorrect assumptions about available dates and next steps.
+
+5. **Surprise and Annoyance:** Participants were often surprised or annoyed by the PID step, perceiving it as unnecessary or redundant. 
+
+6. **Availability Misalignment:** There was a recurring expectation that previously selected dates would reflect actual availability, causing confusion when participants encountered unavailable slots on the next screen.
+
+7. **Preference for Clear Indicators:** Participants expressed a preference for clearer indicators of availability, such as a header or banner explicitly stating "available dates," to avoid unnecessary reading and confusion.
+
+### Recommendations:
+
+### Recommendations:
+
+- **Clarify Time Selection UI:** Make it clearer that participants are selecting a time for an already chosen date. 
+
+- **Enhance Navigation Affordance:** Implement better navigation affordances for returning to the main appointments page after scheduling. 
+
+
+- **Simplify Page Content on the date selection pages:** Consider simplifying the content on the date selection pages. Focus on key information that users need to proceed confidently. Make it clear that the date they selected on the PID is not available but here are the datae that are. 
+
+- **Avoid Gray Chips:** Refrain from using gray chips to represent dates, as they are already associated with availability. Instead, explore alternative visual indicators that do not conflict with established design patterns.
 
 
 ## Who We Talked To
