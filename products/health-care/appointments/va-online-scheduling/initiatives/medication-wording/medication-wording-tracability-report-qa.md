@@ -87,7 +87,7 @@
 | VoiceOver on Mac | Canceled: ATLAS |  	| N/A|
 | VoiceOver on Mac | Upcoming: Community care |  	| N/A|
 | VoiceOver on Mac | Canceled: Community care |  	| N/A|
-| VoiceOver on Mac | Upcoming: Claim exam |  	| N/A|
+| VoiceOver on Mac | Upcoming: Claim exam |  Passed	| N/A|
 | VoiceOver on Mac | Canceled: Claim exam |  	| N/A|
 
 
@@ -323,11 +323,13 @@
 | axe is integrated into your end-to-end testing | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed | N/A|
 | All page elements are readable and usable at 200% zoom | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed | N/A|
 | All page elements are readable and usable at 300% zoom| [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed | N/A|
-| All page elements are readable and usable at 400% zoom | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	|  | N/A|
-| Each link, button, form input, checkbox, radio button, select menu, and custom element can receive keyboard focus | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	|	| N/A|
-| Each link, button, form input, checkbox, radio button, select menu, and custom element responds to expected keys | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	|	| N/A|
-| All elements under focus have a visible focus indicator | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	|	| N/A|
-| The order of [Tab] stops made sense and was appropriate for completing tasks | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	|	| N/A|
+| All page elements are readable and usable at 400% zoom | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed | N/A|
+| Each link, button, form input, checkbox, radio button, select menu, and custom element can receive keyboard focus | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed	| N/A|
+| Each link, button, form input, checkbox, radio button, select menu, and custom element responds to expected keys | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed | N/A|
+| All elements under focus have a visible focus indicator | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed | N/A|
+| The order of [Tab] stops made sense and was appropriate for completing tasks | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed | N/A|
+
+![AXE test results - 0 issues](<testing/upcoming claim exam.png>)
 
 | Canceled: Claim exam General accessibility | Test | Test result | Issue | 
 | ------- | ---------- | ----- | ----- |
