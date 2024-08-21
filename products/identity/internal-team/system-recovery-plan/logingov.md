@@ -44,4 +44,4 @@ Once we have received notice that Login.gov has recovered, the following steps s
          1. Select ‘Login.gov', authenticate with Login.gov production credentials, confirm successful authentication on VA.gov.  
       2. Sign-in Service: [https://www.va.gov/?next=loginModal\&oauth=true](https://www.va.gov/?next=loginModal\&oauth=true)  
          1. Select ‘Login.gov', authenticate with Login.gov production credentials, confirm successful authentication on VA.gov.
-4. State in the `#identity-support` channel that all SSOe services have been restored and confirmed to be working.
+4. State in the `#identity-support` channel that all Login.gov services have been restored and confirmed to be working.
