@@ -50,6 +50,7 @@ The purpose of this document is to record the technical analysis of what user in
       - Option 2. Significant BE work to utilize the ID.me wrapper to determine if an ID.me account is associated with the user.
 
 - **Can we interrupt the flow of users who have logged in with Login.gov and/or ID.me but who also have a MHV/DSL account?**
+
   - Unauthenticated
     - Possible: No
     - Why: No way to determine unauthenticated
@@ -58,9 +59,13 @@ The purpose of this document is to record the technical analysis of what user in
     - How:
       - Option 1. Significant BE work would be required to determine if the user has a Login.gov/ID.me account associated (eg. creating new tables & associations)
       - Option 2. Significant BE work to utilize the ID.me wrapper to determine if an ID.me account is associated with the user.
+
 - **Are there differences in what we can serve when it is a modal vs a full page?**
 
-  - While there should not be significant differences, there is the possibility that - accessibility issues could arise from focus switching between modals. Additionally, - there could be unexpected issues if we go from sign-in modal => interstitial page => - user clicks back button/link to take them back to select a different CSP => sign-in - modal. It could be a little confusing, and jarring for the user.
+  - Yes there are differences. I will be providing a recommendation instead of going through all the different issues with each option.
+
+  - Recommendation(s):
+    - After technical analysis, the best interstitial option would be to send the user to a **full page** rather than using a pop-up modal.
 
 - **Are there differences in what we can serve authenticated vs unauthenticated?**
 
@@ -76,4 +81,4 @@ The purpose of this document is to record the technical analysis of what user in
 
 ## Details
 
-Technical analysis completed 8/15/2024 by [Alex G.](@asg5704)
+Technical analysis completed 8/21/2024 by [Alex G.](@asg5704)
