@@ -20,10 +20,6 @@ In the event all Login.gov authentication options are lost in VA.gov, all of our
 2. Team PM / Technical Lead should start a thread in the [`#identity-support`](https://dsva.slack.com/archives/CSFV4QTKN) channel in the DSVA Slack workspace for communication with platform teams and customers.  
 3. Team PM / Technical Lead / Engineer should contact the Login.gov POC to open communication regarding system restoration. Login.gov POC and ticket submission information can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md\#logingov-sign-in).
 
-### Contact Information
-
-Contact for incidents can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md\#identity-team-incident-contacts).
-
 ## Technical Recovery Details
 
 Once we have received notice that Login.gov has recovered, the following steps should be followed to bring back the components of the OCTO Identity platform:
