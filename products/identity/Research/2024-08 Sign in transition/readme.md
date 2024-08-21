@@ -2,6 +2,7 @@
 
 - [Research Repo Ticket]() - tbd
 - [Figma Prototype](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=0-1&t=sS2DIdQ2K3HMtQEz-0)
+- [Enjoy HQ project](https://app.enjoyhq.com/projects/QwXlGYvnK/plan)
 - [Research Session Guest List Planning]() tbd
 - [Mural board for note taking]() tbd
 - [Recruitment diversity checker spreadsheet]() tbd
