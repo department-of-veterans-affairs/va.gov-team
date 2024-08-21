@@ -48,10 +48,10 @@
         - 🟨 [[DevOps] Project Details Preparation for VistA-API-X conversation. ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/436)
         - 🟨 [[DevOps] Delete unused SSM Parameters in dsvagovcloud referring to vaec-cms resources (dev). ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/451)
         - 🟨 [[DevOps] Remove/Delete ECR Repository Images NOT Actively in Use. ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/407)
-        - 🟨 [[DevOps] Discovery on updating LoROTA to AWS SDK v3. ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/368)
         - 🟨 [[DevOps] Remove mentions of SSN4 from LoROTA. ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/362)
         - 🟨 [[DevOps] Change LoROTA default branch from master to main. ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/466)
         - ✔️ 🟨 [[DevOps] Upload CHIP schemas to S3 bucket for sharing between projects. ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/465)
+        - ✔️ 🟨 [[DevOps] Discovery on updating LoROTA to AWS SDK v3. ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/368)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address the feedback from Staging Review & release the feature**
     - 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)
