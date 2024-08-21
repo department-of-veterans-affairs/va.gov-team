@@ -87,7 +87,7 @@
     - 🟩 [Bug: Link Text on Upcoming Appts Page is Incorrect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91083)
     - 🟩 [Staging Review finding: How to check in link opens in a new tab without notice ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90774)
     - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
-    - 🟩 [FE] Add mocks and tests for no upcoming appointments #91028
+    - 🟩 [[FE] Add mocks and tests for no upcoming appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91028)
 
 ## SPRINT 13 - 8/7/2024-8/20/2024
 - **Production Support**
