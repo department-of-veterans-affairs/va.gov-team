@@ -40,6 +40,7 @@ Here's a pile of links with hopefully relevant resources if you're into that kin
 ### Code
  - [geographicMeansThreshold.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/actions/geographicMeansThreshold.js) (FSR file for fetching GMT data)
 	 - [EmploymentQuestion.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/components/employment/EmploymentQuestion.jsx) (FSR page where we make the call)
+  - If you want to do some testing locally and update the gmt database and you're running docker you can [find those docs here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/front-end/howto-local-gmt-db-update.md)!
 ### Links
 - [HUD data source](https://www.huduser.gov/portal/datasets/il.html#data_2024)
 - [Income Limits API Data Source and Migrations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/data/README.md#income-limits-api-data-source-and-migrations)
