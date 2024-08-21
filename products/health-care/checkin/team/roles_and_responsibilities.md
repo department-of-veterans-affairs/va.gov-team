@@ -1,4 +1,5 @@
-Chat gpt: Team Roles and Responsibilities
+##**Team Roles and Responsibilities**
+
 **1. UX Designers**
 **Responsibilities:**
 - User Research: Conducting user interviews, surveys, and usability testing to understand user needs and behaviors.
@@ -9,6 +10,7 @@ Chat gpt: Team Roles and Responsibilities
 **Sources:**
 - NNGroup on UX Design
 - Interaction Design Foundation
+
 **2. Engineers**
 **Responsibilities:**
 - Development: Writing, testing, and maintaining the codebase for the product.
@@ -19,6 +21,7 @@ Chat gpt: Team Roles and Responsibilities
 **Sources:**
 - Role of Software Engineers
 - Collaboration in Engineering Teams
+
 **3. Delivery Manager**
 **Responsibilities:**
 - Project Management: Planning, coordinating, and managing project timelines, resources, and budgets.
@@ -29,6 +32,7 @@ Chat gpt: Team Roles and Responsibilities
 **Sources:**
 - Role of a Delivery Manager**
 - Project Management Institute
+
 **4. Product Owner**
 **Responsibilities:**
 - Vision and Strategy: Defining the product vision and aligning it with business goals and user needs.
