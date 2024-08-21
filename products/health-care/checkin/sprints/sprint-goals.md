@@ -9,6 +9,9 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
     - **Move to New AWS Instance**
         - TBD
+- **Community Care Direct Scheduling**
+    - **Sprint Goals is to.......**
+    - TBD
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to get ready for Staging Review**
     - TBD
@@ -37,6 +40,9 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
     - **Move to New AWS Instance**
         - TBD
+- **Community Care Direct Scheduling**
+    - **Sprint Goals is to.......**
+    - TBD
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish the remaining work for the new details pages for Upcoming Appointments**
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)       
