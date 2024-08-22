@@ -1,6 +1,8 @@
 # Postmortems Log
 _Newest entries on top_
 
+## Not yet discussed
+
 [9288 - TBD](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9288)
 - Root cause: unknown
 - Patterns/themes (maybe): 
@@ -32,6 +34,8 @@ _Newest entries on top_
 [9064](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9064)
 - Root cause: unknown
 - Patterns/themes: analytics (testing and monitoring), known-unprioritized
+
+## Discussed
 
 [9298](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9298)
 - [Root cause](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9298#issuecomment-2278251983)
