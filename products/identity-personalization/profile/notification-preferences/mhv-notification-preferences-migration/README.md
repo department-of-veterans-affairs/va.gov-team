@@ -1,6 +1,6 @@
 # Project outline: MyHealtheVet to VA.gov notification preference migration
 
-**Last updated: June 7, 2023**
+**Last updated: Aug 22, 2024**
 
 ### Communications
 
