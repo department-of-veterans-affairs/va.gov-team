@@ -159,6 +159,11 @@ OKRs and KPIs TBD.
 - August 2022: Began MHV <> VA.gov biweekly meetings to scope out definition for notification preference migration in preparation for a VA Profile intake form
 - December 2022: MHV agrees to integrate their notification preferences with VA Profile; Initial notification preferences intake is submitted to VA Profile
 
+## Important artifacts 
+- [MHV to VA.gov Notification Migration Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61102)
+- [Appointment Reminders PHI/PII Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58797)
+     - [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/appointmentReminderPHIandPII/README.md)
+
 ## Design
 
 ### Previous research
