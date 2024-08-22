@@ -66,6 +66,8 @@ The purpose of this document is to record the technical analysis of what user in
 
   - Recommendation(s):
     - After technical analysis, the best interstitial option would be to send the user to a **full page** rather than using a pop-up modal.
+    - (Possible technical solution - rough draft)
+      ![interstitial-logic](./assets/interstitial-logic.png)
 
 - **Are there differences in what we can serve authenticated vs unauthenticated?**
 
@@ -77,7 +79,7 @@ The purpose of this document is to record the technical analysis of what user in
 
 - **ID.me has a flow where the ID.me wrapper can identify specific statuses, can we use this at all?**
   - I will reach out to Identity Platform to find out the feasibility.
-  - Answer: [Joe N.](@joeniquette) mentioned that this functionality has been asked before and would require additional work to make it possible/usable by the frontend. Likely this will only be allowed via an authenticated experience.
+  - Answer: [Joe N.](@joeniquette) mentioned that this functionality has been asked before and would require additional work to make it possible/usable by the frontend. Likely this will only be allowed via an authenticated experience only.
 
 ## Details
 
