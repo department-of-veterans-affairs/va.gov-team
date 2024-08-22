@@ -121,6 +121,7 @@ This test included 2 versions of the appointments list:
 
 ## Key Findings
 
+
 ### OH Provider selection - Key Findings
 
 
@@ -219,7 +220,7 @@ A few participants expressed irritation with the constant reminders. P8 shared, 
 
 #### 5. Having the "I need immediate care" option as a type of care was misleading
 
-Participants expressed that having "I need immediate care" listed as a type of care was misleading. 7 participants expected to be able to schedule an immediate appointment "But it doesn't let me schedule an appointment here, and that's what I would expect." P3 
+Participants expressed that having "I need immediate care" listed as a type of care was misleading. 7 participants expected to be able to schedule an immediate appointment "But it doesn't let me schedule an appointment here, and that's what I would expect." [P3] 
 
  \
 Recommendations:
@@ -267,7 +268,7 @@ One participant mentioned, "It sounds like they're all connected like, if I was 
 
 #### 4. The wording "Review available appointments" was misleading to some. 
 
-5 participants were surprised that the next step had them selecting a patient-indicated date. They expected to go directly to the availability calendar. As noted by one participant, "If I clicked this I'd expect it to take me to the calendar I saw before that shows availability with some dates grayed out" P10
+5 participants were surprised that the next step had them selecting a patient-indicated date. They expected to go directly to the availability calendar. As noted by one participant, "If I clicked this I'd expect it to take me to the calendar I saw before that shows availability with some dates grayed out" [P10]
 
 
 #### 5. How we had the list organized was validated with 4 participants preferring primary care first, and 5 preferred to see most recently visited. 
@@ -333,7 +334,7 @@ Test in GA4 and RUM to see if users are changing the default from recent to some
 
 #### 1. Participants did not notice when the bell became active and lit up red. 
 
-The majority of patients did not notice the bell change to red. As explained by one participant, "If you had not asked me, I would not have seen it." P10 \
+The majority of patients did not notice the bell change to red. As explained by one participant, "If you had not asked me, I would not have seen it."[P10] \
 
 
 Recommendation: 
@@ -343,7 +344,7 @@ Continue to test this concept in different testing environments.
 
 #### 2. Participants recognize the Bell icon as an actionable item.
 
-Participants understood that the bell was clickable and there was something for them to do or read if they clicked on it.  While there were a variety of expectations on what the bell meant, participants knew it was meant to notify them of something. As one participant explained "I have some sort of notification, because it's you know, it's highlighted, or it's lit up." P2
+Participants understood that the bell was clickable and there was something for them to do or read if they clicked on it.  While there were a variety of expectations on what the bell meant, participants knew it was meant to notify them of something. As one participant explained "I have some sort of notification, because it's you know, it's highlighted, or it's lit up." [P2]
 
 
 #### 3. Participants understood notifications, but some content areas caused confusion
@@ -352,9 +353,9 @@ Participants understood that the bell was clickable and there was something for 
 
 1. A couple of participants expressed confusion around the age of the notification, for example "Is it going to be only good for an hour and then it disappears?" P8
 2. A couple of participants were unaware of what an after visit summary was. While one person understood the concept but just had never heard of it another was confused because they thought it was for an upcoming appointment, not past "(After visit summary) that to me is really confusing. What do you mean? Your after-visit summary is ready for your appointment? That's like before-visit summary?"
-3. Overall, participants understood the expiration on the referral with the exception of a couple of people who were confused about what exactly expires means. " I will guess that the referral is not valid after December first. Okay, that's a guess. or is it that the message expires on December first?" P5
+3. Overall, participants understood the expiration on the referral with the exception of a couple of people who were confused about what exactly expires means. " I will guess that the referral is not valid after December first. Okay, that's a guess. or is it that the message expires on December first?" [P5]
 4. A couple participants expressed uncertainty as to whether the date stated was the date that the staff did something in the system such as the staff canceled your appointment on this date or if it meant that the staff canceled the appointment you had scheduled for a specific date. This came up for the after visit summary too.
-5. Participants expressed an expectation for the travel claim feature to directly take them to the relevant claim site for filing travel claims. "start a travel claim would take me to the travel claim site to start and to file the claim, which I've always done on a different site. so because I'm already logged in, it would hopefully just automatically, you know, transfer my login to the other site. " P2
+5. Participants expressed an expectation for the travel claim feature to directly take them to the relevant claim site for filing travel claims. "start a travel claim would take me to the travel claim site to start and to file the claim, which I've always done on a different site. so because I'm already logged in, it would hopefully just automatically, you know, transfer my login to the other site. " [P2]
 
 
 #### 4. The red bell icon was perceived as being linked to the VCL or something alarming.
@@ -397,6 +398,7 @@ Recommendations
 1. Consider styling the dates displayed on the PID page to have a neutral look to avoid implying they are available. Avoid using gray chips for this purpose, as they are specifically used to indicate availability elsewhere.
 2.  Consider how we might be able to increase the affordance on the “back to appointments option”  for users to return to the main appointments page. 
 3. Consider adding the duration of an appointment time slot so the Veteran can plan accordingly. 
+
 ## Who We Talked To
 <img width="783" alt="Screenshot 2024-07-29 at 10 42 27 AM" src="https://github.com/user-attachments/assets/2de8311e-f63e-4ec1-bb7e-bbdc2c228c52">
 
