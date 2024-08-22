@@ -58,7 +58,7 @@ Before we start, I have a few things that I want to go over with you:
 
 Can you please open your CMS and log in.
 
-- **Prompt:** Imagine you've just created a new page for an upcoming event [this can be adapted to another example if that’s what they most frequently build] and need to add an event photo. Please think aloud as you complete the task. Tell me what you're doing and thinking as you go along. **RQ1, RQ2**
+- **Prompt:** Imagine you're creating a new page for an upcoming event [this can be adapted to another example if that’s what they most frequently build] and need to add an event photo. Please think aloud as you complete the task. Tell me what you're doing and thinking as you go along. **RQ1, RQ2**
     - *Consider having the participant use a previous image they were sent, if not share the sample image.*
 - *Observe participant's actions and provide prompts as needed:*
     - Can you walk me through what you're doing now? **RQ1**
