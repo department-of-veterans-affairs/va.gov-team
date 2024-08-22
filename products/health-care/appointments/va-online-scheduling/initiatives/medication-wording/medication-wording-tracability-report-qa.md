@@ -127,15 +127,17 @@
 | Color is not the only way to distinguish links from other text (eg. links are underlined) | Passed | N/A|
 | Any charts, maps, infographics, and tables convey all information without only relying on color | N/A | N/A|
 | Content does not refer to color, especially when providing user instructions (eg. "Click the blue button") | Passed | N/A|
-| Each page has been scanned using axe (results shared below)|   | N/A|
+| Each page has been scanned using axe (results shared below)| Passed | N/A|
 | axe is integrated into your end-to-end testing | Passed | N/A |
 | All page elements are readable and usable at 200% zoom | Passed | N/A |
 | All page elements are readable and usable at 300% zoom | Passed | N/A |
-| All page elements are readable and usable at 400% zoom | 	 | N/A|
-| Each link, button, form input, checkbox, radio button, select menu, and custom element can receive keyboard focus |   | N/A|
-| Each link, button, form input, checkbox, radio button, select menu, and custom element responds to expected keys |   | N/A|
-| All elements under focus have a visible focus indicator |   | N/A|
-| The order of [Tab] stops made sense and was appropriate for completing tasks |   | N/A|
+| All page elements are readable and usable at 400% zoom | Passed | N/A|
+| Each link, button, form input, checkbox, radio button, select menu, and custom element can receive keyboard focus | Passed | N/A|
+| Each link, button, form input, checkbox, radio button, select menu, and custom element responds to expected keys | Passed | N/A|
+| All elements under focus have a visible focus indicator | Passed | N/A|
+| The order of [Tab] stops made sense and was appropriate for completing tasks | Passed | N/A|
+
+![AXE test results - 0 issues](<testing/canceled - phone.png>)
 
 ### Upcoming: In-person
 
@@ -275,15 +277,17 @@
 | Color is not the only way to distinguish links from other text (eg. links are underlined) | Passed | N/A|
 | Any charts, maps, infographics, and tables convey all information without only relying on color | 	| N/A | N/A|
 | Content does not refer to color, especially when providing user instructions (eg. "Click the blue button") | Passed | N/A|
-| Each page has been scanned using axe (results shared below) |   | N/A |
+| Each page has been scanned using axe (results shared below) | Passed  | N/A |
 | axe is integrated into your end-to-end testing | Passed | N/A |
 | All page elements are readable and usable at 200% zoom | Passed | N/A |
 | All page elements are readable and usable at 300% zoom | Passed | N/A |
-| All page elements are readable and usable at 400% zoom | 	|  | N/A|
-| Each link, button, form input, checkbox, radio button, select menu, and custom element can receive keyboard focus |   | N/A|
-| Each link, button, form input, checkbox, radio button, select menu, and custom element responds to expected keys |   | N/A|
-| All elements under focus have a visible focus indicator |   | N/A|
-| The order of [Tab] stops made sense and was appropriate for completing tasks |   | N/A|
+| All page elements are readable and usable at 400% zoom | Passed | N/A|
+| Each link, button, form input, checkbox, radio button, select menu, and custom element can receive keyboard focus | Passed | N/A|
+| Each link, button, form input, checkbox, radio button, select menu, and custom element responds to expected keys | Passed | N/A|
+| All elements under focus have a visible focus indicator | Passed | N/A|
+| The order of [Tab] stops made sense and was appropriate for completing tasks | Passed | N/A|
+
+![AXE test results - 0 issues](<testing/upcoming atlas.png>)
 
 ### Canceled: ATLAS 
 
