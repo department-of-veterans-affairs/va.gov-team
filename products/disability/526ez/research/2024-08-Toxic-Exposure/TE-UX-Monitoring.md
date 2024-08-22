@@ -67,8 +67,8 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |**Trust Gained/Lost (Percent difference from increase and decrease)**|.22| | | |
 
 ### Toxic Exposure pages [define range]
-|**Data point**|**Baseline (2024)**|**Pre-Launch**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
-|--|--|--|--|--|--|--|
+|**Data point**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
+|--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
 |**Task completion**| | | | |
 |**Trust Overall**| | | | |
