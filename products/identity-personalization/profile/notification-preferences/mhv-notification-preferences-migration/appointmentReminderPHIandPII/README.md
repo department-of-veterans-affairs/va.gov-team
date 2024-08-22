@@ -3,7 +3,7 @@
 - **Product:** VA.gov Profile | Notification Settings
 - **Initiative:** Support the MHV to VA.gov Migration by displaying the PHI/PII Appointment Reminder Permission 
 
-#### Overview
+## Overview
 
 Historically, the VA was sending generic appointment reminders devoid PHI/PII. Some veterans have multiple appointments at different VA Facilities so it is important they receive specifics around the location and doctor's office they are scheduled to visit. 
 
