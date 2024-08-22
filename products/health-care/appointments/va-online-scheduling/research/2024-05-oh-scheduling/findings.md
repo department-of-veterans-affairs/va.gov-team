@@ -121,30 +121,6 @@ This test included 2 versions of the appointments list:
 
 ## Key Findings
 
-<!-----
-
-
-
-Conversion time: 1.257 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β38
-* Thu Aug 22 2024 10:25:52 GMT-0700 (PDT)
-* Source doc: draft of research findings
-* This is a partial selection. Check to make sure intra-doc links work.
------>
-
-
-
 ### OH Provider selection - Key Findings
 
 
@@ -397,6 +373,30 @@ Recommendations:
 * Consider other colors in the VA design system to use to communicate a new notification.
 
 
+### Secondary Findings and recommendations
+
+
+####  \
+1. Misinterpretation of Date Availability:
+
+5 participants were confused about the dates displayed on the PID page, thinking they  were available, leading to confusion when dates became unavailable by the time they reached the calendar. There was a consistent expectation that selected dates should directly reflect availability.
+
+
+#### 2. Difficulty Navigating Back:
+
+3 participants had difficulty identifying where to go next or how to return to the main appointments list when they were done with the task of scheduling an appointment. 
+
+3. Would like to know the duration of the the appointment:
+
+One participant wanted to be able to see how long the appointment will be. "It would be helpful for me if I had a day like yesterday where I had 5 appointments. And if you have one that's 10 minutes (like I did)  and one that's over an hour, that's good to know so you can schedule them properly. They should require that a patient knows how long an appointment is, or default it to an hour"
+
+Recommendations
+
+
+
+1. Consider styling the dates displayed on the PID page to have a neutral look to avoid implying they are available. Avoid using gray chips for this purpose, as they are specifically used to indicate availability elsewhere.
+2.  Consider how we might be able to increase the affordance on the “back to appointments option”  for users to return to the main appointments page. 
+3. Consider adding the duration of an appointment time slot so the Veteran can plan accordingly. 
 ## Who We Talked To
 <img width="783" alt="Screenshot 2024-07-29 at 10 42 27 AM" src="https://github.com/user-attachments/assets/2de8311e-f63e-4ec1-bb7e-bbdc2c228c52">
 
