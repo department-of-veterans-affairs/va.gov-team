@@ -12,6 +12,15 @@ We are monitoring the 1.0 release of the new Toxic Exposure feature for the 526e
 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [See report here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md).
 
+### Goals
+We are monitoring the new release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements. We will be responsive to the release, updating our monitoring approach as we learn more/better. 
+
+### Guiding Questions for UX Monitoring
+- How many Veterans are opting in to the TE questions?
+- When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline later in the form?
+- What blockers or usability challenges are Veterans facing in the flow?
+- How does the new feature perform across Intercept and Feedback customer satisfaction?
+
 ### Schedule of reporting
 Every Friday after the first full week of the rollout, we will request Medallia data from Contact Center and share the report on the data from the previous week. 
 |**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
@@ -22,8 +31,7 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 
 
 ## Summary of GA4/Data Dog
-### Overall 526ez
-
+### 526ez Success Metrics
 | Product KPI | Baseline  | Target | Pre-Launch | Week 1 | Week 2| Week 3| Week 4| Data Source |
 |--|--|--|--|--|--|--|--|--|
 | Abandonment rates| 24% | ≤ 24% | | | | | | [Domo](https://va-gov.domo.com/page/447193050/kpis/details/1994399128?pfilters=%5B%7B%22column%22:%22form_name%22,%22operand%22:%22IN%22,%22values%22:%5B%22Form%2021-526EZ%20-%20Original%20Disability%20Claim%22%5D,%22dataType%22:%22string%22,%22affectedCardUrns%22:%5B%5D,%22label%22:%22form_name%22,%22key%22:%22form_name:%22,%22dataSourceId%22:%22e83cb7cf-0e3d-4699-89b3-761589681307%22%7D%5D)<br>[526 Toxic Exposure GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
@@ -48,13 +56,6 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |Step 8|
 |Step 9|
 |Step 10|
-
-### Toxic Exposure pages [define range]
-| KPI | Baseline  | Target | Pre-Launch | Week 1 | Week 2| Week 3| Week 4|Data Source|
-|--|--|--|--|--|--|--|--|--|
-| Abandonment rate                        | 24%       | ≤ 24%           ||||  |                            | [Domo](https://va-gov.domo.com/page/447193050/kpis/details/1994399128?pfilters=%5B%7B%22column%22:%22form_name%22,%22operand%22:%22IN%22,%22values%22:%5B%22Form%2021-526EZ%20-%20Original%20Disability%20Claim%22%5D,%22dataType%22:%22string%22,%22affectedCardUrns%22:%5B%5D,%22label%22:%22form_name%22,%22key%22:%22form_name:%22,%22dataSourceId%22:%22e83cb7cf-0e3d-4699-89b3-761589681307%22%7D%5D)<br>[526 Toxic Exposure GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-| Form exits                                                            |       |    |                                               |       ||||                                                       |
-| Opt-in rate %                                                            |           |              ||||   |                              |[526 Toxic Exposure GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ)            
 
 ## Summary of Medallia survey data
 
