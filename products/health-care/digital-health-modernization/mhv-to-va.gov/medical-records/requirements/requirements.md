@@ -12,8 +12,7 @@
 |1/11/24 | Coulton Bunney | Added download all medical reocrds, landing page, and medical records settings|
 |2/23/24 | Kaitlin Fink | Added care summaries and notes|
 |5/16/24 | Kaitlin Fink | Added vitals and updated health conditions|
-
-
+|8/22/24 | Kaitlin Fink | Updated labs and test results information|
 
 ## Table of Contents  
 
@@ -584,7 +583,8 @@ Back button: Yes, `< Back to lab and test results`
 |In the list view, each card will show enough information about a lab result to consider that entry unique. We believe name and date speciment collected suffice.| The same lab or imaging test may be run multiple times.|
 |The following imaging results fields will not be shown to users: ordering location | SMEs felt that the ordering location was not important data and could create confusion alongside performing location.|
 |Lab and test result reports should be shown in monospaced fonts.| SMEs informed us that reports are written up in lab systems in monospaced fonts, and spacing is an important consideration. Therefore, that spacing should be retained when presenting to patients.|
-|For phase 0, we do not need to show radiology images.|Radiology images are stored differently from other medical records data and can be quite large in size. This work is requires separate work than making the other MR data available. Due to the heavier lift, as well as the notion that images are less useful for patients than the report, Dr. J mentioned in PI 10 that this work to move over to VA.gov could be deprioritzed, though needs to be done eventually before Phase 4.|
+|For phase 0, we do not need to show radiology images.|Radiology images are stored differently from other medical records data and can be quite large in size. This work is requires separate work than making the other MR data available. Due to the heavier lift, as well as the notion that images are less useful for patients than the report, we have decided to move forward with linking to MHV and add for Phase 1.  At that time we will include both DICOM and JPEGS.|
+|For Phase 0 we will have one location field for all labs and tests.  We will call this field "location" removing any of the identifiers. We will continue further investigation about the location field and ask Veterans in research for feedback to determine if we need to make any adjustments moving forward.|Based on our technical investigation we identified that the three location fields we display in MHV today for labs and tests (Ordering location, Collected location and Performing location) are sourced from the same location, which is the VistA location providing the report. The only difference is performing location attempts to display the address instead of the facility name. |
 </details>
 
 * [Subject matter expert review - Lab results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Lab%20results/Lab%20results%20information%20on%20VA.gov.docx?d=wfedc587c450b4d79afeda296ac1cc29a&csf=1&web=1&e=PwDTCE)
