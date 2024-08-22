@@ -125,7 +125,7 @@ This test included 2 versions of the appointments list:
 
 1. Participants indicated a need to know if the providers listed were ones they have seen before and said it would be nice to see provider experience, provider availability, and the option to view provider details when selecting a provider.
 2. It wasn't clear to 8 participants that they had a previous relationship with providers in the list.
-3. Only 1 participant seemed to understand that request meant they were not going to direct-schedule but rather go through a different process. 
+3. Only 1 participant seemed to understand that "request" meant they were not going to direct-schedule but rather go through a different process. 
 
 ### Details of Findings and Recommendations
 
@@ -133,54 +133,53 @@ This test included 2 versions of the appointments list:
 
 5 participants wanted to know if they have seen a provider before, as they do not always remember names but recognize the importance of continuity in care. One participant mentioned, “I don't typically remember who I've seen in the past” [P5]. Another supported this; “Yes, that would be helpful because I don't always remember the names of the doctors I've seen” [P10]. Additionally, another Veteran said, “Now what would really be handy is if it showed me which provider I had in the past” [P5].
 
-3 participants would like to have a "no preference" option, so that they can prioritize availability over provider familiarity. One participant expressed, “I don't know who has the soonest availability. I just wanna get in. So I have no preference” [P10]. Another Veteran mentioned, “If I clicked both I’d get both their schedules. Say if I’m looking for the first available” [P2]. 
+3 participants would like to have a "no preference" option, so that they can prioritize availability over provider familiarity. One participant expressed, “I don't know who has the soonest availability. I just wanna get in. So I have no preference” [P10]. Another Veteran mentioned, “If I clicked both I’d get both their schedules. Say if I’m looking for the first available” [P2].
 
-5 participants emphasized the importance of seeing details about the provider they are choosing such as the experience level of their providers and having the letters after their name spelled out. One participant stated, “I personally, would like to see years of experience. You know, when I go to a surgeon I want to know that I'm not their 1st operation” [P8]. “(Referring to the RD after the provider’s name) I'd love to see these codes spelled out. It's not necessarily gonna change how I do things. But it might” [P5].
+5 participants emphasized the importance of seeing details about the provider they are choosing, such as the experience level of their providers and having the letters after their name spelled out. One participant stated, “I personally, would like to see years of experience. You know, when I go to a surgeon I want to know that I'm not their 1st operation” [P8]. “(Referring to the RD after the provider’s name) I'd love to see these codes spelled out. It's not necessarily gonna change how I do things. But it might” [P5].
 
 #### 2. It was not clear that these are providers they have seen before
 
 One participant said, "I would think it'd be easier if it indicated that these were people that I've seen in the past" [P4], highlighting the importance of clear indicators for past interactions. Another participant echoed this sentiment, stating, "These might be people, doctors, nutritionists who I've seen before - or maybe I've never seen them before" [P12], emphasizing the confusion caused by the current lack of clarity in the content.
 
-#### 3. The ambiguity of the "request" option was a recurring concern. 
+#### 3. The ambiguity of the "request" option was a recurring concern
 
 Participants expressed a variety of expectations and concerns regarding the option to request an appointment with a different provider. Several participants anticipated that the "request" option would expand their choices beyond the initially presented options. For example, one participant thought the request option would "let you choose from more providers" [P1]. Another was hoping for the ability to "get an appointment for tomorrow at 2 o'clock" with a different provider [P12].
 
-Recommendations:
+**Recommendations:**
 
-* Clarify in the sub text that these are providers they have seen in the past.
-* Provide an option that focuses on provider availability. For example, allow for participants to select multiple or an option that says no preference, show me all available times.
-* Consider displaying details like full credentials, years of experience, and other valuable provider or clinic data. It’s particularly relevant when choosing a new provider but also useful for adding context to providers they have a relationship with. Review past studies on preferred provider information.
-* Indicate that these are providers they have seen in the past.
-* Consider including the date they last saw the provider.
-* Look into ways to clarify what requesting an appointment means and how it is a different process entirely.
+- Clarify that these are providers they have seen in the past.
+- Allow for participants to select multiple or an option that says no preference, show me all available times.
+- Consider displaying details like full credentials, years of experience, and other valuable provider or clinic data. It’s particularly relevant when choosing a new provider but also useful for adding context to providers they have a relationship with. Review past studies on preferred provider information.
+- Consider including the date they last saw the provider.
+- Clarify what requesting an appointment means and how it is a different process entirely.
 
 ### Immediate care - Key findings
 
 1. In life-threatening situations, participants would not use appointments on VA.gov.
-2. In a non-emergency scenario where they need immediate medical care, 4 participants would try to direct-schedule a same-day appointment, indicating that it is not clear the scheduling tool is not meant for immediate care. 
-3. 10 participants reacted positively to the resource for "how to choose between urgent and emergency medical care." 
+2. In a non-emergency scenario where they need immediate medical care, 4 participants would try to direct-schedule a same-day appointment, indicating that it is not clear the scheduling tool is not meant for immediate care.
+3. 10 participants reacted positively to the resource for "how to choose between urgent and emergency medical care."
 4. 4 participants appreciated the urgent medical needs alerts, finding them useful and timely, while 4 others perceived them as frustrating or unnecessary.
-5. Overall the "I need immediate care" option as a type of care in the scheduling tool was ineffective. 
+5. Overall, the "I need immediate care" option as a type of care in the scheduling tool was ineffective.
 
 ### Details of Findings
 
-#### 1. When it comes to life-threatening emergencies, all participants made it clear they would not use the scheduling tool. 
+#### 1. When it comes to life-threatening emergencies, all participants made it clear they would not use the scheduling tool
 
-One participant stated, "I know if I have an emergency I'm probably not clicking around here" [P7]. Another echoed this sentiment, saying, "if I'm in an emergency I'm not gonna hop on my laptop" [P11]. A third participant reinforced this view by explaining, "if it's a severe emergency, I would certainly have to ignore that, you know. I just call 911. Obviously" [P8].
+One participant stated, "I know if I have an emergency I'm probably not clicking around here" [P7]. Another echoed this sentiment, saying, "If I'm in an emergency I'm not gonna hop on my laptop" [P11]. A third participant reinforced this view by explaining, "If it's a severe emergency, I would certainly have to ignore that, you know. I just call 911. Obviously" [P8].
 
-#### 2. Some participants were unclear that the scheduling tool should not be used for same-day medical care needs.
+#### 2. Some participants were unclear that the scheduling tool should not be used for same-day medical care needs
 
 When asked how they would handle a high fever that wasn't improving, 4 out of 10 participants indicated they would use VA.gov to schedule an appointment and 2 of 10 said they would message their doctor. For example, this participant said, “I would go to start scheduling to see if I could get a fairly soon appointment.” [P4].
 
-A couple of participants said they would call their Primary Care Provider and we heard mention of a nurse hotline a couple of times. “I would try to call First to the primary care person, so I’d look at the details of the Primary care and see if there's a phone number or something like that. It's not on here, but I know that there's a 24 hr VA, nurse Hotline.” [P12].
+A couple of participants said they would call their Primary Care Provider, and we heard mention of a nurse hotline a couple of times. “I would try to call First to the primary care person, so I’d look at the details of the Primary care and see if there's a phone number or something like that. It's not on here, but I know that there's a 24 hr VA, nurse Hotline.” [P12].
 
 Only 2 participants mentioned going to urgent care. This misunderstanding is critical because the VA.gov appointments tool and secure messaging are not meant for immediate care. They are designed for scheduling future appointments, not same-day needs. Additionally, secure messages might not be read for up to three days.
 
-#### 3. There was an overwhelmingly positive reaction to the resource for "how to choose between urgent and emergency medical care." 
+#### 3. There was an overwhelmingly positive reaction to the resource for "how to choose between urgent and emergency medical care"
 
-Overall, participants appreciated the link and found it useful. One participant noted, "That's a good one. I would expect that to give me a quick explanation, a little decision tree kind of information, maybe even a little box" [P5]. This finding is also supported by the finding that suggests participants faced uncertainty around what is considered an urgent medical need and whether the scheduling tool can be used for scheduling immediate care or not. 
+Overall, participants appreciated the link and found it useful. One participant noted "That's a good one. I would expect that to give me a quick explanation, a little decision tree kind of information, maybe even a little box" [P5]. This finding is also supported by the finding that suggests participants faced uncertainty around what is considered an urgent medical need and whether the scheduling tool can be used for scheduling immediate care or not.
 
-Participants expressed a strong desire for the information on "how to choose between urgent and emergency care" to be more prominently placed within the scheduling tool interface. 
+Participants expressed a strong desire for the information on "how to choose between urgent and emergency care" to be more prominently placed within the scheduling tool interface.
 
 As this participant stated, having it accessible before the "start scheduling" button would reduce the number of clicks. "I would like to see this, 'how to choose between urgent emergency care' before clicking on the scheduling button. Because that might cut down on the amount of clicks I need to go through trying to find stuff" [P4]. Another participant stated "Urgent care and emergency, I think that's important, because I might forget about it. So I would like to see that almost every time in this appointment area" [P3].
 
@@ -194,86 +193,62 @@ A few participants expressed irritation with the constant reminders. P8 shared, 
 
 #### 5. Having the "I need immediate care" option as a type of care was misleading
 
-Participants expressed that having "I need immediate care" listed as a type of care was misleading. 7 participants expected to be able to schedule an immediate appointment "But it doesn't let me schedule an appointment here, and that's what I would expect." P3.
+Participants expressed that having "I need immediate care" listed as a type of care was misleading. 7 participants expected to be able to schedule an immediate appointment "But it doesn't let me schedule an appointment here, and that's what I would expect." [P3]
 
-Recommendations:
+**Recommendations:**
 
-* When making the emergency alerts, take into consideration that the participants we talked to know that in the case of an emergency, they are not likely the scheduling tool on VA.gov.
-* The first time a Veteran uses the appointments scheduling tool provide them with an educational message that the Appointments tool is not meant for same-day or urgent care appointments. However, consider dropping the call 911 if this is an emergency as app participants know that that was the case.
-* Consider making the nurse hotline available on the appointments scheduling tool.
-* Consider where the link to the resource “how to choose between urgent and emergency care" might live within the appointments tool so that Veterans can go to it when they need it.
-* We don’t recommend having an all-encompassing emergency alert at the beginning of the flow because it is a lot to read through and often ignored.
-* We do recommend intercepting the Veteran with a personalized alert according to the signs and symptoms they type in the “details about your appointment” text field.
+- Consider where the link to the resource “how to choose between urgent and emergency care" might live within the appointments tool so that Veterans can go to it when they need it.
+- When making the emergency alerts, take into consideration that the participants we talked to know that in the case of an emergency, they are not likely using the scheduling tool on VA.gov. Consider reducing the amount of content around “call 911 if this is an emergency” as participants seem to be aware of this and might just skip over that information.
+- Since participants showed uncertainty as to whether or not they should schedule same-day appointments, consider providing them with an educational message that the Appointments tool is not meant for same-day or urgent care appointments the first time they go to schedule.
+- Consider making the nurse hotline available on the appointments scheduling tool.
+- Implement a system that provides personalized alerts based on the signs and symptoms entered in the "details about your appointment" field. Tailoring information to the Veteran’s input helps to ensure relevant and timely guidance at the moment they need it.
 
 ### Express Scheduling (Quickly schedule based on previous appointments) - Key findings
 
-1. 10 participants found scheduling from previous appointments adds value and is faster and easier to schedule. 
-2. 5 participants had a difficult time finding and clicking the "I need a different appointment" option.  
-3. 2 participants noted
+1. 10 participants found scheduling from previous appointments adds value and is faster and easier to schedule.
+2. 5 participants had a difficult time finding and clicking the "I need a different appointment" option.
+3. 2 participants noted the wording at the top of the list "choose an appointment you've had in the past" was slightly confusing.
+4. 5 participants found the wording "review
 
- the existing messaging didn’t explain that the times were based on previous appointments.
-4. 3 participants expected to be able to schedule appointments for different clinics.
+ details" or "review appointment" unclear or that it made them think there were more steps than necessary. 
+5. 2 participants wanted more recent appointments at the top of the list.
 
-### Details of Findings and Recommendations
+### Details of Findings
 
-#### 1. Participants found value in being able to schedule based on previous appointments. 
+#### 1. Scheduling from previous appointments makes it faster and easier to schedule
 
-Most participants found value in Express Scheduling and the time it saves them to book an appointment. This was best expressed by P3, who stated, "Well, yeah, it's easier. I mean, you're giving me options... That's how I've set up past appointments with the VA. That's all good." Participants also emphasized the simplicity of this option. P5 shared, "I like this. You're making it as simple as you can, which is great. So I would stick with that, knowing that I could change it, but you've eliminated the effort on my part, so this is good." 
+When selecting an appointment, one participant stated, “OK, this is neat because this was my last appointment” [P12]. Another mentioned that they liked this feature and that it seemed much easier to schedule from previous appointments: “So this is actually really cool. I do like that feature.” [P4].
 
-The convenience of Express Scheduling was further appreciated by P11, who mentioned, "I don't have to retype all the information. That makes it so much faster."
+Overall, participants believed that this makes the process easier, as it is based on their previous history and preferences.
 
-Despite these positive reactions, there were some concerns raised by the participants, primarily centered around the absence of an option to schedule different types of appointments and a lack of clarity regarding the purpose of the "I need a different appointment" option.
+#### 2. Finding the "I need a different appointment" option
 
-#### 2. Some Participants found it difficult to find and click the “I need a different appointment” option.
+When it came to finding the “I need a different appointment” option, 5 participants had a difficult time finding it. This participant said, “I think that the 'I need a different appointment' link should stand out more. And it's right above this one.” [P8].
 
-The primary issue with the “I need a different appointment” option was its placement and accessibility. Some participants found it difficult to locate this option, leading to confusion. As P7 mentioned, "I think that 'I need a different appointment' option isn't very visible, to be honest." Another participant, P4, shared, "It took me a while to figure out where it was. I was clicking around."
+#### 3. The wording "choose an appointment you've had in the past" was slightly confusing
 
-This issue suggests that the "I need a different appointment" option needs to be more prominent or placed in a more accessible location to improve the user experience.
+Some participants mentioned that the wording at the top of the list was slightly confusing. This participant said, “I'm trying to figure out what it means exactly. Are you telling me to choose one of these? Are you telling me I can choose something else” [P8].
 
-#### 3. Existing messaging did not clearly convey that the times presented were based on previous appointments.
+The general sentiment was that the wording was unclear and might cause some initial confusion, especially for new users.
 
-The existing messaging in the Express Scheduling flow failed to clearly communicate that the times presented to the participants were based on their previous appointments. P6 noted, "I didn’t understand that the time was because of previous appointments." Another participant, P9, mentioned, "It’s not clear why these times are being suggested."
+#### 4. The wording "review details" or "review appointment" unclear or made them think there were more steps than necessary
 
-#### 4. Participants expected to be able to schedule appointments for different clinics or new types of appointments. 
+Participants mentioned that the wording was unclear and sometimes confusing. This participant said, "Review details seems to imply there are details to review that are specific to the appointment that are not present here." [P3].
 
-A few participants were disappointed by the limitations of Express Scheduling. P3 stated, "I would like to see an option to schedule appointments for different clinics," while P2 expressed, "I thought I could book new types of appointments, not just the same one." 
+Another participant noted that it gave them the impression that there were more steps than necessary. "When I think of details, I think of more steps or more information, and I am ready to be done" [P8].
 
-This finding indicates that while participants appreciated the convenience of Express Scheduling, they also wanted more flexibility to book appointments for different types of care or different clinics.
+#### 5. Participants wanted more recent appointments at the top of the list
 
-Recommendations:
+Participants expressed that they wanted more recent appointments to be shown at the top of the list, so they wouldn't have to scroll through all their past appointments. One participant mentioned, "It would be better to have the most recent appointments at the top of the list" [P7].
 
-* Consider highlighting the “I need a different appointment” option so that it is more noticeable and easy to find.
-* Review messaging to ensure it clearly conveys that the suggested appointment times are based on the times of previous appointments, and that this is why they are being offered.
-* Look into the possibility of allowing participants to schedule different types of appointments or appointments at different clinics within the Express Scheduling flow. This would provide more flexibility and value for participants who may have multiple care needs.
+Another participant stated, "I think it's a little inconvenient to have to scroll all the way down to see my recent appointments. I'd prefer if they were at the top" [P11].
 
-### Secondary Findings:
+**Recommendations:**
 
-1. **Misleading Date Availability:** Participants often misinterpreted dates on the PID page as being available, leading to confusion when those dates became unavailable on the subsequent screens.
-
-2. **UI Confusion:** Several participants were confused by the time selection interface, with some mistakenly believing they were selecting start and end times, and others misinterpreting available dates.
-
-3. **Navigation Challenges:** Some participants struggled to navigate back to the appointment list, with unclear options leading to frustration.
-
-4. **Text Clarity Issues:** The instructional text on various screens was frequently skipped or misunderstood, leading to incorrect assumptions about available dates and next steps.
-
-5. **Surprise and Annoyance:** Participants were often surprised or annoyed by the PID step, perceiving it as unnecessary or redundant. 
-
-6. **Availability Misalignment:** There was a recurring expectation that previously selected dates would reflect actual availability, causing confusion when participants encountered unavailable slots on the next screen.
-
-7. **Preference for Clear Indicators:** Participants expressed a preference for clearer indicators of availability, such as a header or banner explicitly stating "available dates," to avoid unnecessary reading and confusion.
-
-### Recommendations:
-
-### Recommendations:
-
-- **Clarify Time Selection UI:** Make it clearer that participants are selecting a time for an already chosen date. 
-
-- **Enhance Navigation Affordance:** Implement better navigation affordances for returning to the main appointments page after scheduling. 
-
-
-- **Simplify Page Content on the date selection pages:** Consider simplifying the content on the date selection pages. Focus on key information that users need to proceed confidently. Make it clear that the date they selected on the PID is not available but here are the datae that are. 
-
-- **Avoid Gray Chips:** Refrain from using gray chips to represent dates, as they are already associated with availability. Instead, explore alternative visual indicators that do not conflict with established design patterns.
+- Consider rearranging the list of previous appointments so that the most recent are at the top, as participants expressed a preference for having the most recent appointments displayed first.
+- Consider changing the wording “review details” or “review appointment” to something clearer, such as “confirm appointment details.”
+- Make the “I need a different appointment” link more prominent so that it is easier for participants to find.
+- Consider revising the wording at the top of the list of previous appointments to make it clearer and reduce confusion.
 
 
 ## Who We Talked To
