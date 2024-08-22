@@ -18,6 +18,7 @@
 **Code changes**
 
 1. VADS styling needs to be converted to USWDS styling (e.g., “vads–” to “usa-”)
+2. Components in USWDS are written using Twig template (.twig), which is a modern template engine for PHP. 
 
 **Steps needed**
 
