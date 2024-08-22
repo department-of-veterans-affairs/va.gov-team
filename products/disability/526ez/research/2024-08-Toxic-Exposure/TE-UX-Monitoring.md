@@ -16,10 +16,14 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 We are monitoring the new release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements. We will be responsive to the release, updating our monitoring approach as we learn more/better. 
 
 ### Guiding Questions for UX Monitoring
-- How many Veterans are opting in to the TE questions?
-- When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline later in the form?
-- What blockers or usability challenges are Veterans facing in the flow?
-- How does the new feature perform across Intercept and Feedback customer satisfaction?
+- How many Veterans are choosing to answer the TE questions? [opt-in %]
+- When are Veterans abandoning the TE flow?
+-   Are we seeing more drop-offs than baseline at later points in the form?
+- What challenges are Veterans encountering with the TE flow?
+-   Are users encountering any technical issues or bugs with the feature?
+-   What issues are preventing Veterans from completing the questions? [Task completion + open-ended]
+- How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
+- What questions do Veterans have [Open-ended responses]
 
 ### Schedule of reporting
 Every Friday after the first full week of the rollout, we will request Medallia data from Contact Center and share the report on the data from the previous week. 
