@@ -17,8 +17,8 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
 |--|--|--|--|
 |**Week 1** | Aug 28 - Sep 6 | (5%-10%)| Sep 13 |
-|**Week 2**| Sep 7 - 14 | (10-50%) | Sep 20 |
-|**Week 3** | Sep 15 - 
+|**Week 2**| Sep 7 - 13 | (10-50%) | Sep 20 |
+|**Week 3** | Sep 14 - Sep 20 | (50%-100)| Sep 27|
 
 
 ## Summary of GA4/Data Dog
@@ -36,7 +36,7 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 *Inferred from % of submission errors
 
 ### [Form Abandonment - Jared to update]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
-| Step | Pre-Launch | Week 1 | Week 2| Week 3| Week 4|
+| Step # | 526 Page | Week 1 | Week 2| Week 3| Week 4|
 |--|--|--|--|--|--|
 |Step 1| 
 |Step 2|
