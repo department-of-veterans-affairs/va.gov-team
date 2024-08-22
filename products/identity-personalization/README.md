@@ -30,3 +30,4 @@
 - [My VA product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#readme)
 - [On-site notifications product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications)
 - [VA.gov profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md)
+     - [Profile Github Project Roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/10)
