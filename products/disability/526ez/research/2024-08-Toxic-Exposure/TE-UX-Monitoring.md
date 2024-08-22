@@ -1,5 +1,5 @@
 
-# UX Monitoring Toxic Exposure Launch
+# UX Monitoring Toxic Exposure 1.0 Release
 
 **Office of the CTO - Digital Experience (OCTO-DE), 526EZ, DBEX 1**
 
@@ -34,6 +34,19 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 
 *Inferred from % of submission errors
 
+### [Form Abandonment - Jared to update]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
+| Step | Pre-Launch | Week 1 | Week 2| Week 3| Week 4|
+|--|--|--|--|--|--|
+|Step 1| 
+|Step 2|
+|Step 3|
+|Step 4|
+|Step 5|
+|Step 6|
+|Step 7|
+|Step 8|
+|Step 9|
+|Step 10|
 
 ### Toxic Exposure pages [define range]
 | KPI | Baseline  | Target | Pre-Launch | Week 1 | Week 2| Week 3| Week 4|Data Source|
