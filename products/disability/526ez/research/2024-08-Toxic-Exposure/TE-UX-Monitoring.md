@@ -20,7 +20,6 @@ We are monitoring the new release to ensure it meets user expectations and perfo
 - When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
 - What challenges are Veterans encountering with the TE flow?
   -   Are users encountering any technical issues or bugs with the feature?
-  -   What issues are preventing Veterans from completing the questions? [Task completion + open-ended]
 - How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
 - What impact does the new feature have on Veteran trust in VA?
 
