@@ -56,6 +56,10 @@
 - **Componentize the Appt Summary View**
     - **Sprint Goal TBD**
     - 🟩 TBD    
+- **Check in with staff after checking in**
+    - 🟥 Scheduke kickoff meeting with Sam (SPL)
+    - 🟥 Draft research plan
+    - 🟥 Create low-fi user flow options
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
