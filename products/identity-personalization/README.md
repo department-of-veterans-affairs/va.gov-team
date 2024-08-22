@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated: June 13, 2024 -- updating team members**
+**Last updated: Aug 22, 2024 -- updating team members**
 
 ## Where to find us 
 
