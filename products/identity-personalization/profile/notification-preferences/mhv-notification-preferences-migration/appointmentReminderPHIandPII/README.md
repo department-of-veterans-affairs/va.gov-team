@@ -3,6 +3,25 @@
 - **Product:** VA.gov Profile | Notification Settings
 - **Initiative:** Support the MHV to VA.gov Migration by displaying the PHI/PII Appointment Reminder Permission 
 
+## Table of Contents 
+  - [Communications](#communications)
+  - [Overview](#overview)
+  - [Outcome Summary](#outcome-summary)
+  - [Problem](#problem)
+  - [Desired User Outcomes](#desired-user-outcomes)
+  - [Undesired User Outcomes](#undesired-user-outcomes)
+  - [Desired Business Outcomes](#desired-business-outcomes)
+  - [Undesired Business Outcomes](#undesired-business-outcomes)
+  - [Measuring Success](#measuring-success)
+    - [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+  - [Discovery](#discovery)
+    - [Assumptions/Risks](#assumptionsrisks)
+  - [What're you building](#whatre-you-building)
+  - [Important artifacts](#important-artifacts)
+  - [Screenshots](#screenshots)
+
+
+
 ## Communications
 
 
