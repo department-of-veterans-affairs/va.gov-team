@@ -20,9 +20,14 @@ MAPBOX_TOKEN=<TOKEN_HERE>
 First, make sure the most recent version of Node is being used and dependencies have been updates.
 
 * `nvm use` to check the Node version. See this page for using `homebrew` to install `nvm`.
-* `yarn install` or `yarn update` to install or update dependencies
+* `yarn install` or `yarn update` to install or update dependencies.
+* `yarn build` for the initia build of the application and pages.
+* `yarn watch --env api=https://dev-api.va.gov` to run the webpack dev server.
+  * To compile specific sections, use the `entry` parameter. For example, `entry=facilities,static-pages`
 
-Then run `yarn watch --env api=https://dev-api.va.gov`. To compile specific sections, use the `entry` parameter. For example, `entry=facilities,static-pages`
+### Checking Tests
+
+To run specific Cypress tests, run `yarn cy:run --spec "<TEST_FILE_PATH>"`.
 
 ## `content-build`
 
@@ -32,15 +37,15 @@ If you need to check how `vets-website` handles custom CMS content, then you wil
 
 First run `yarn build` to build the static files locally. It should be run as-is the first time, but it will take a while due to the long asset compilation.
 
-On consecutive local runs, you can comment out `src/site/stages/build/index.js#247-252` (see below) so it avoids unneeded asset compilation locally.
+On consecutive local runs, you can run `yarn build --use-cached-assets` to avoid unneeded asset compilation locally. If this does not work, you can comment out `src/site/stages/build/index.js#247-252` (see below) to prevent asset downloading directly.
 
 ```js
-  smith.use(rewriteDrupalPages(BUILD_OPTIONS), 'Rewrite Drupal pages');
-  smith.use(createDrupalDebugPage(BUILD_OPTIONS), 'Create Drupal debug page');
-  smith.use(downloadDrupalAssets(BUILD_OPTIONS), 'Download Drupal assets');
-  smith.use(downloadAssets(BUILD_OPTIONS), 'Download application assets');
-  smith.use(createSitemaps(BUILD_OPTIONS), 'Create sitemap');
-  smith.use(updateRobots(BUILD_OPTIONS), 'Update robots.txt');
+smith.use(rewriteDrupalPages(BUILD_OPTIONS), 'Rewrite Drupal pages');
+smith.use(createDrupalDebugPage(BUILD_OPTIONS), 'Create Drupal debug page');
+smith.use(downloadDrupalAssets(BUILD_OPTIONS), 'Download Drupal assets');
+smith.use(downloadAssets(BUILD_OPTIONS), 'Download application assets');
+smith.use(createSitemaps(BUILD_OPTIONS), 'Create sitemap');
+smith.use(updateRobots(BUILD_OPTIONS), 'Update robots.txt');
 ```
 
 Then, run `yarn-serve` for `content-build` locally on port 3002. You will then need to run `yarn watch` for `vets-website` without the `api` argument.
