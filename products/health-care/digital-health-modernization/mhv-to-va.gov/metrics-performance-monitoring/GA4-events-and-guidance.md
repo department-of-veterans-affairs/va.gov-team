@@ -99,8 +99,8 @@ Event details have been gathered by use of Adswerve while signed into staging.
       <td>Filter report by page_path exactly matches regex:"/my-health|/my-health/" and heading exactly matches:"Messages" to capture all links within the Messages card. Add filter link_text exactly matches:"Go to inbox" to isolate this one. </td>
     </tr>
       <tr>
-      <td>Click on Hearing aids connect with telehealth</td>
-      <td>**In the Spotlight**, MHV landing page</td>
+      <td>Click on Hearing aids connect with telehealth, **In the Spotlight**</td>
+      <td>MHV landing page</td>
       <td> 
         <ul> 
           <li>en:"link_click"</li> 
@@ -114,8 +114,8 @@ Event details have been gathered by use of Adswerve while signed into staging.
       <td>Filter report by page_path exactly matches regex:"/my-health|/my-health/" and heading exactly matches:"In the spotlight" to capture all links within the In the spotlight column. Add filter link_text exactly matches:"Hearing Aids Connect with Telehealth" to isolate this one. </td>
     </tr>
      <tr>
-      <td>Click on How to use VA Video Connect</td>
-      <td>**More resources and support**, MHV landing page</td>
+      <td>Click on How to use VA Video Connect, **More resources and support**</td>
+      <td>MHV landing page</td>
       <td> 
         <ul> 
           <li>en:"link_click"</li> 
@@ -129,8 +129,8 @@ Event details have been gathered by use of Adswerve while signed into staging.
       <td>Filter report by page_path exactly matches regex:"/my-health|/my-health/" and heading exactly matches:"More resources and support" to capture all links within the column. Add filter link_text exactly matches:"How to use VA Video Connect" to isolate this one. </td>
     </tr>
      <tr>
-      <td>Click on Dental care</td>
-      <td>**My VA health benefits**, MHV landing page</td>
+      <td>Click on Dental care, **My VA health benefits**</td>
+      <td>MHV landing page</td>
       <td> 
         <ul> 
           <li>en:"link_click"</li> 
