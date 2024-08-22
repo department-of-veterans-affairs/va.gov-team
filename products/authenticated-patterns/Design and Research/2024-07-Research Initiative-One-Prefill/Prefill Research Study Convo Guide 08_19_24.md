@@ -103,7 +103,7 @@ In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earli
 
 > Send link in Zoom chat
 
-https://staging.va.gov/mock-form-ae-design-patterns/task-green/introduction?loggedIn=false
+https://musical-doodle-7676579pxr3rxrg-3001.app.github.dev/mock-form-ae-design-patterns/
 
 Can you open the link in the chat?
 
