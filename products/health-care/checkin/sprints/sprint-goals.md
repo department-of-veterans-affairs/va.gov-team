@@ -83,9 +83,9 @@
         - ✔️ 🟨 [[DevOps] Update LoROTA Lambda layer to use AWS SDK v3 DynamoDB.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/479)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address the feedback from Staging Review & release the feature**
-    - 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)
+    - ✔️ 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)
         - Ben added a link to the new Figma wireframe in a comment on this ticket    
-    - 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
+    - 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475) - Releasing on 8/27
         - 🟪 Let Kristen know a few days in advance of the release so that she can inform the appropriate teams
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish all work and schedule Staging & ISR Reviews**
