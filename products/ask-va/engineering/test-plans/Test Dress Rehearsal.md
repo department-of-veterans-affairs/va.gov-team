@@ -34,9 +34,9 @@ Context: AVA will sent a series of Inquiries (a collection of 12) to CRM, who wi
   
 ### Process: 
 
-  - this collection will ping the CRM API with a collection of 12 submissions modeling an inquiry using specific Category/Topic/Sub-Topic.
-  - AVA will expect a response from the CRM API which contains the QueueID, the QeueID will provide information around what Queue each Inquiry in our collection was assigned.  
-  - AVA + CRM will confirm that that the correct QueueID based on our previously established documentation (@joe can you add link to the file from Kyle re. the mapping?) was assigned. 
+  - This collection will ping the CRM API with a collection of 12 submissions modeling an inquiry using specific Category/Topic/Sub-Topic.
+  - AVA will check a response from the CRM API which contains the QueueID, the QeueID will provide information around what Queue each Inquiry in our collection was assigned.  
+  - AVA + CRM will confirm that that the correct QueueID based on our previously established documentation (@joe can you add link to the file from Kyle re. the mapping?) was assigned via the CRM API and User Dashboard for the test user assigned.
   
 Tools Required for AVA : Insomnia - https://insomnia.rest/
 
