@@ -477,7 +477,7 @@ Note: this document does not include research history for Appeals projects, whic
 *Ad Hoc: Carey Otto, Evangeline Garreau, Maria Vidart-Delgado
 
 - 11 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/privacy/connected-accounts)
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Veteran%20User%20Research/2020-06-Connected-Accounts-with-Veterans)
 
 ### June 2020
 
