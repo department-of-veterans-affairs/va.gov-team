@@ -23,7 +23,6 @@ We are monitoring the new release to ensure it meets user expectations and perfo
 -   Are users encountering any technical issues or bugs with the feature?
 -   What issues are preventing Veterans from completing the questions? [Task completion + open-ended]
 - How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
-- What questions do Veterans have [Open-ended responses]
 
 ### Schedule of reporting
 Every Friday after the first full week of the rollout, we will request Medallia data from Contact Center and share the report on the data from the previous week. 
