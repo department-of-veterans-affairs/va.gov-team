@@ -587,6 +587,7 @@ Back button: Yes, `< Back to lab and test results`
 |For Phase 0 we will have one location field for all labs and tests.  We will call this field "location" removing any of the identifiers. We will continue further investigation about the location field and ask Veterans in research for feedback to determine if we need to make any adjustments moving forward.|Based on our technical investigation we identified that the three location fields we display in MHV today for labs and tests (Ordering location, Collected location and Performing location) are sourced from the same location, which is the VistA location providing the report. The only difference is performing location attempts to display the address instead of the facility name. |
 </details>
 
+* [Phase 0 launch Figma File](https://www.figma.com/design/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records---Phase-0?node-id=5525-60665&t=6vNsoNGU6fTM6HkG-0)
 * [Subject matter expert review - Lab results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Lab%20results/Lab%20results%20information%20on%20VA.gov.docx?d=wfedc587c450b4d79afeda296ac1cc29a&csf=1&web=1&e=PwDTCE)
 * [Subject matter expert review - Imaging results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Imaging%20results/Imaging%20results%20information%20on%20VA.gov.docx?d=w0887da3bbedb4994b48d7f90c9d93461&csf=1&web=1&e=e2JHoM)
 
