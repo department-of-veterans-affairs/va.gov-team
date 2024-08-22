@@ -94,11 +94,11 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 Top takeaways will come from the combined review of GA4 and Medallia each week. These insights will work to explain trends we see across qualitative and quantitative data points as they pertain to Toxic Exposure. 
 
 ### Week 1 Takeaways
-1. Answer
-2. Answer
-3. Answer
-4. Answer
-5. Answer
+1. Takeaway
+2. Takeaway
+3. Takeaway
+4. Takeaway
+5. Takeaway
 ### Week 2 Takeaways
 ### Week 3 Takeaways
 ### Week 4 Takeaways
