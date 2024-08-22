@@ -58,8 +58,8 @@
     - 🟩 TBD    
 - **Check in with staff after checking in**
     - 🟥 Scheduke kickoff meeting with Sam (SPL)
-    - 🟥 Draft research plan
-    - 🟥 Create low-fi user flow options
+    - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
+    - 🟥 [[Design] Create Userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91305)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
