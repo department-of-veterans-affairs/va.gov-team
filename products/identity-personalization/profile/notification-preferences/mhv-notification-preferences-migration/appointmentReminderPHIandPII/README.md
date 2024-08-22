@@ -92,6 +92,7 @@ This would be for text and email. A user could opt in to the permission to allow
 We will be coordinating with VA Profile, VA Notify, and MHV teams to ensure this rolls out at the necessary moment. 
 
 ## Important artifacts 
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58797)
 - [notification settings figma file](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=1-12888&t=ffRZ8R6IwgMyND70-0)
      - [PHI/PII specific tab of the figma](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=572-10323&t=ffRZ8R6IwgMyND70-0)
 
