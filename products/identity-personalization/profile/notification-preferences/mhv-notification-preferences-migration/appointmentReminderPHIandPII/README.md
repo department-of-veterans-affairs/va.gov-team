@@ -11,7 +11,6 @@ Veterans expressed frustration at the legacy reminders and shared the desire to 
 
 We need to allow for the same functionality on VA.gov Profile where users can grant or rescind permission for PHI/PII in appointment reminders.
 
----
 
 ## Outcome Summary
 
@@ -45,7 +44,7 @@ Today, MHV users have an opt in/out process that allows them to decide if they w
 - Increased Support Burden: Misunderstanding or issues with the new feature could lead to more customer support requests.
 
 
----
+
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
@@ -56,7 +55,6 @@ Things we might be able to measure when this launches:
 - **User Satisfaction Score:** Measured via surveys focusing on ease of use and clarity of the new settings.
 - **Support Requests Related to Notification Settings:** Number of support queries received about the new feature, indicating clarity or confusion.
 
----
 
 ## Discovery
 ### Assumptions/Risks
@@ -82,6 +80,7 @@ VA Notify is assuming the risk of sending PHI/PII in unencrypted messages and is
 In the VA.gov profile under notification settings > "your healthcare" > "appointment reminders" selection we will enable users to grant permission for PHI/PII in their appointment reminders 
 
 Currently users see:
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/fb11bba5-6574-405b-bed1-7e981d4d3aa8)
 
 We'd need a check box or radio button feature to be determined with the team's designers to allow veterans a means to see if they've granted the VA permission to include PII/PHI in their appointment reminders and to opt in or out. 
@@ -92,13 +91,22 @@ This would be for text and email. A user could opt in to the permission to allow
 
 We will be coordinating with VA Profile, VA Notify, and MHV teams to ensure this rolls out at the necessary moment. 
 
+## Important artifacts 
+- [notification settings figma file](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=1-12888&t=ffRZ8R6IwgMyND70-0)
+     - [PHI/PII specific tab of the figma](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=572-10323&t=ffRZ8R6IwgMyND70-0)
 
----
    
 ## Screenshots
 
 ### Before
+
+<details><summary>screenshot </summary>
+<p>
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/fb11bba5-6574-405b-bed1-7e981d4d3aa8)
+
+</p>
+</details> 
 ### After
 
 ---
