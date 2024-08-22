@@ -1,9 +1,9 @@
 ---
-name: 1010 Base Template
+name: 1010 Epic Template
 about: For the 10-10 Health Enrollment team
-title: "[practice] formID - initiative: description"
+title: "formID - initiative"
 labels: 1010-team
-assignees: ''
+assignees: 'hdjustice'
 
 ---
 
@@ -23,24 +23,30 @@ As a Veteran, I want [ ], so that [ ].
 - Reference docs/tickets where we have this kind of work documented
 - Etc.
 ---
-## Tasks
-- [ ] _What work is necessary for this story to be completed?_
-- [ ] Review with the team/PM to confirm expected design/behavior
-     - QA/PM Signoff required to be documented in comments below
-- [ ] Inform [QA/Teammate] when the next step can begin (link ticket as dependency)
-
-## Acceptance Criteria
+## Acceptance Criteria/Definition of Done
 -  _What will be created or happen as a result of this story?_
 
 
 ---
+
+```[tasklist]
+### Tasks
+- [ ] Research
+- [ ] Design
+- [ ] Team review & signoff
+- [ ] UI update
+- [ ] Team review & signoff
+- [ ] BE update
+- [ ] QA
+- [ ] Team review & signoff
+- [ ] End to end testing
+- [ ] Cypress testing
+- [ ] Team review & signoff
+- [ ] Launch to Prod
+```
+
+---
 ## How to configure this issue
-- [ ] **Attached to a Milestone** (when will this be completed?)
-- [ ] **Attached to an Epic** (what body of work is this a part of?)
 - [ ] **Labeled with Team** (`1010-team`)
 - [ ] **Labeled with Form** (`1010-ez`, `1010-ezr`, `1010-cg`)
-- [ ] **Labeled with Practice Area** (`backend`, `frontend`, `ux`, `design`, `research`, `product`, `qa`, `1010-analytics`)
 - [ ] **Labeled with Project** (`facilities-cg`, `registration`,  `toxic-exposure`, etc.)
-- [ ] **Add Assignees** (who will do this work?)
-- [ ] **Add Estimate effort** (or `needs refinement` label)
-- [ ] **Add Dependencies 'blocked by' and 'blocking'** (link tickets in the Dependencies section below)
