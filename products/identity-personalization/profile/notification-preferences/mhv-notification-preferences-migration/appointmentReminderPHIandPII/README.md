@@ -1,7 +1,7 @@
 # Initiative Brief - Permission to Include PHI and PII in Appointment Reminders
 
 - **Product:** VA.gov Profile | Notification Settings
-   - **Initiative:** Support the MHV to VA.gov Migration by displaying the PHI/PII Appointment Reminder Permission 
+- **Initiative:** Support the MHV to VA.gov Migration by displaying the PHI/PII Appointment Reminder Permission 
 
 #### Overview
 
@@ -14,32 +14,22 @@ We need to allow for the same functionality on VA.gov Profile where users can gr
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 
 The goal of this is to ensure veterains who use MHV today are able to maintain the same capabilities as MHV migrates to VA.gov. The option to grant the VA permission to include PHI/PII in appointment reminders is an important aspect of that. 
 
-**Related/Associated product(s)**
-- Product | AE Profile - [Notification Settings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)
+
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
->* What is the problem and who is affected? And, what evidence do we have of the problem?
->* Why do you think the problem is occurring? Other reasons why this might be occurring?
->* How does this initiative help further OCTO-DE's mission and goals?
-
 
 Email and Text Message are unencrypted communication channels. When communicating with veterans we have to be mindful of the risks inherent to unencrypted messaging which can expose sensitive information. In light of the risks associated with unecnrypted messaging it's important Veterans opt-in and grant us permission to send sensitive PII and PHI in those unencrypted channels. Additionally, this is a requirement mandated by law.
 
-Today, MHV users have an opt in/out process that allows them to decide if they would like to see PII/PHI in their appointment reminders. There's a process flow through Vet Text that allows them to opt in / grant permission for MHV to send PII/PHI in appointment reminders. The goal of this initiative is allow users to update their VA.gov profile to grant or rescind persmission for including PHI/PII in appointment reminders. 
-
-
+Today, MHV users have an opt in/out process that allows them to decide if they would like to see PII/PHI in their appointment reminders. There's a process flow through Vet Text that allows them to opt in / grant permission for MHV to send PII/PHI in appointment reminders. The goal of this initiative is allow users to update their VA.gov profile to grant or rescind persmission for including PHI/PII in appointment reminders on VA.gov in the Notification Settings page of their Profile 
 
 
 ## Desired User Outcomes
->- *Why would a user want to use this?*
->- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-
-- Users are already leveraging this in the MHV ecosystem. We will be allowing them to make the same decisions on VA.gov. This will allow a veteran to receive important health related contex in their appointment reminder so they arrive at the appropriate time at the correct facility.
+- Enhanced Control: Users can easily opt in or out of receiving PII/PHI in appointment reminders.
+- Improved Privacy: Users have greater control over their personal information, aligning with privacy concerns.
+- Streamlined Experience: The update simplifies the management of notification preferences within the VA.gov platform, currently there isn't a page that allows users to opt in or out. 
 
 ## Undesired User Outcomes
 - A confusing or challenging to navigate UI 
@@ -47,48 +37,47 @@ Today, MHV users have an opt in/out process that allows them to decide if they w
 
 
 ## Desired Business Outcomes
->- *Why would your business want this to exist?*
->- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 - Successful implementation of this feature is an important component of documenting that our users have granted permission to include PHI/PII in appointment reminders. 
 
 ## Undesired Business Outcomes
-- The AE Profile team misses the mark and delays go to market for MHV on VA.gov
+- Increased Complexity: The need for additional development and maintenance efforts may strain resources.
+- Potential User Confusion: If not implemented well, users might struggle with understanding or using the new privacy settings.
+- Increased Support Burden: Misunderstanding or issues with the new feature could lead to more customer support requests.
+
 
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
-> - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
-**TBD**
+Things we might be able to measure when this launches:
+
+- **Opt-in/Opt-out Adoption Rate:** Percentage of users who actively manage their PII/PHI notification settings within a set period.
+- **User Satisfaction Score:** Measured via surveys focusing on ease of use and clarity of the new settings.
+- **Support Requests Related to Notification Settings:** Number of support queries received about the new feature, indicating clarity or confusion.
 
 ---
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
-- **Value Risks** (will people use it): 
-  - This is already in use in the MHV ecosystem 
-- **Usability Risks** (can people figure out how to use it):
-  - TBD based on our design 
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+#### 1. Usability Risk:
+Risk: Users may find the new settings confusing or difficult to use or may not locate the settings at all
+Validation: Conduct user testing sessions with prototypes to gather feedback and iterate on design based on user interactions.
+#### 2. Value Risk:
+This is a high demand feature, this brings high value since veterans have specifically asked for this functionality 
+#### 3. Feasibility Risk:
+Risk: Technical challenges in integrating the feature with VA Profile and building a new UI that reduces complexity and can be used by all types of users (especially visually impaired) could delay implementation.
+Validation: Conduct a technical feasibility assessment early in the project to identify potential challenges and plan accordingly.
+#### 4. Viability Risk:
+Risk: Organizational constraints such as conflicting priorities might hinder the project’s success - this initiative has been deprioritized several times but it is critical to ensure we're in compliance 
+Validation: Align with key stakeholders early to secure commitment and ensure the project aligns with organizational goals.
+
+These risks can be managed through proactive testing, stakeholder engagement, and continuous user feedback to ensure the feature delivers value and is effectively implemented.
 VA Notify is assuming the risk of sending PHI/PII in unencrypted messages and is coordinating the work necessary to ensure they have the proper approvals in place. In the VA.gov Profile, we will give users a way to grant permission. 
 
+
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
 
 In the VA.gov profile under notification settings > "your healthcare" > "appointment reminders" selection we will enable users to grant permission for PHI/PII in their appointment reminders 
 
@@ -100,26 +89,9 @@ We'd need a check box or radio button feature to be determined with the team's d
 This would be for text and email. A user could opt in to the permission to allow PHI/PII in Text OR Email, BOTH, or Neither. 
 
 #### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+
 We will be coordinating with VA Profile, VA Notify, and MHV teams to ensure this rolls out at the necessary moment. 
---- 
 
-## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
-- Kickoff ticket
-
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
 
 ---
    
@@ -132,28 +104,10 @@ We will be coordinating with VA Profile, VA Notify, and MHV teams to ensure this
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
-
-<details>
-
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
-
-</details>
 
 
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
+- Team Name: Auth Experience - Profile 
+- GitHub Label(s): profile, authenticated-experience, notification-settings
+- Slack channel: [#accountexp-authexp](https://dsva.slack.com/archives/C909ZG2BB) 
+- Product POCs: [Auth Exp Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#team)
 
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
-</details>
-
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
