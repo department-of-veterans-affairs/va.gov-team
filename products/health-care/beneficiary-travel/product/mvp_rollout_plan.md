@@ -47,7 +47,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 2. A fix will be prioritized and worked on
 3. The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+### Phase IA: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
@@ -77,7 +77,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 - Who is monitoring the dashboard(s)?: UX Leads, Engineering Lead, and Product Manager
 
 
-**Datadog Metrics (Engineering)**
+**Engineering Metrics (Datadog)**
 
 ***[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)*** 
 
@@ -88,7 +88,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 | Travel Pay API - Endpoint error count | Number of non-200,201 status codes to travel pay API endpoints |
 | VA.gov - Sustained high latency | p90 latency measures above x for time |
 
-**Google Analytics Metrics (UX)**
+**User-Facing Metrics (Google Analytics and Call Center)**
 | Metric Name | Description |
 | ----------- | ----------- |
 | Unique page views | # of individuals (% of users) who are visiting this page at least once |
@@ -99,6 +99,9 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 | Exit point | Where are they clicking out to? |
 | Entry point | Which of the sources are they entering from (MHV / main page; VA Travel Reimbursement; My VA claims tool) |
 | Time spent | Time spent on page |
+| Call Center Queries | How many calls and queries did the VA call center receive about this page? |
+| Member Services Queries | How many calls and queries did Member Services receive about this page? |
+
 
 ### Stage A: Canary
 
