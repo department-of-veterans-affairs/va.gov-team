@@ -14,10 +14,11 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 
 ### Schedule of reporting
 Every Friday after the first full week of the rollout, we will request Medallia data from Contact Center and share the report on the data from the previous week. 
-|**Report**|**Dates**| **Rollout %**| **Submit reporting**|
+|**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
 |--|--|--|--|
-|**Week 1** | Aug 28 - Sep 6 | (5%-10%)| Sep 13? |
-|**Week 2**| Sep 7 - 14 | (10-50%) | |
+|**Week 1** | Aug 28 - Sep 6 | (5%-10%)| Sep 13 |
+|**Week 2**| Sep 7 - 14 | (10-50%) | Sep 20 |
+|**Week 3** | Sep 15 - 
 
 
 ## Summary of GA4/Data Dog
