@@ -52,18 +52,18 @@ Zoom, moderated, via desktop or laptop, no mobile devices.
 
 **Recruitment**
 
-Recruitment will happen with VAMC editors and CAIA editors, connected through our VA lead, recruited by the IIR team.
+Recruitment will happen with VAMC editors, connected through our VA lead, recruited by the IIR team.
 
 **Recruitment criteria**
 
-6-9 participants, recruit for 6 VAMC editors, 3 CAIA editors
+6-8 participants, recruit for 8 VAMC editors
 
 **Primary criteria (must-haves)**
 
-- VAMC editor or CAIA editor
+- VAMC editor
 - Has CMS account and editing permissions
 - Has created content in [VA.gov](http://va.gov/) CMS
-- Has uploaded an image to [VA.gov](http://va.gov/) before (need to identify which pages CAIA works on that include adding images.)
+- Has uploaded an image to [VA.gov](http://va.gov/) before
 
 **Prepare**
 
