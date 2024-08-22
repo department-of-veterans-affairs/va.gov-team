@@ -17,11 +17,11 @@
 |Anastasia (AJ) Jakabcin |Product Manager -- My VA & onsite notifications portfolio| ana@adhocteam.us |
 |Travis Cahill|Product Manager -- Profile portfolio|travis.cahill@agile6.com|
 |Alex Parker| Delivery manager | alexandria.parker@agile6.com |
-| | Designer |  |
+|Dan Turner | Designer | dan.turner@adhocteam.us |
 | Ashish (Asiisii) Malla | Full Stack Engineer | ashish.malla@agile6.com |
 |Matt Marino|	Designer | matt.marino@adhocteam.us  |
 |Allison Lu | FE Engineer| allison@cityfriends.tech |
-| | FE Engineer | |
+|Nick Gaydosh | FE Engineer |nick.gaydosh@adhocteam.us |
 |Tom Harrison| BE Engineer | tom.harrison@adhocteam.us|
 |Daniel Miller | Full Stack Engineer | daniel.miller@agile6.com|
 
