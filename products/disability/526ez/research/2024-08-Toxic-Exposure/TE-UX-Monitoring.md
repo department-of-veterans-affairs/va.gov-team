@@ -49,7 +49,7 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |--|--|--|--|--|--|--|
 |**CSAT-Intercept**| 57%| | | |
 |**Task completion**| 26% | | | |
-|**Trust Overall**| | | | |
+|**Trust Overall (High distrust 1 to high trust 5)**|3.53| | | |
 |**Trust Gained/Lost (Percent difference from increase and decrease)**|.22| | | |
 
 ### Toxic Exposure pages [define range]
