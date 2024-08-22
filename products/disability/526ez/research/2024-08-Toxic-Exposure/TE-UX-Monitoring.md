@@ -81,6 +81,7 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 
 ### **Themes across Medallia survey responses**
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
+
 **Top themes**
 |Rank|Pre-launch (6 weeks)| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
 |--|--|--|--|--|--|
