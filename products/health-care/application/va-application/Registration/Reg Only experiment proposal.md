@@ -1,4 +1,4 @@
-# Registration Only - Experiment proposal
+# Registration Only - Experiment
 
 ## Problem statement
 - Veterans do not have a pathway to register for VA health care online.
