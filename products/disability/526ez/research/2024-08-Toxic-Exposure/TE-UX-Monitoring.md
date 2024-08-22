@@ -13,7 +13,9 @@ We are monitoring the 1.0 release of the new Toxic Exposure feature for the 526e
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [See report here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md).
 
 ### Goals
-We are monitoring the new release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements. We will be responsive to the release, updating our monitoring approach as we learn more/better. 
+We are monitoring the new release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements. 
+
+We will be responsive to the release, updating our monitoring approach as we learn more/better. 
 
 ### Guiding Questions for UX Monitoring
 - How many Veterans are choosing to answer the TE questions? [opt-in %]
