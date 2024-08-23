@@ -18,7 +18,8 @@
 **Code changes**
 
 1. VADS styling needs to be converted to USWDS styling (e.g., “vads–” to “usa-”)
-2. Components in USWDS are written using Twig template (.twig), which is a modern template engine for PHP. 
+2. Components in USWDS are written using Twig template (.twig), which is a modern template engine for PHP.
+3. Each component uses a JSON file to house the content info that will be used inside the component.
 
 **Steps needed**
 
