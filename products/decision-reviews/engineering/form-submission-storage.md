@@ -43,7 +43,7 @@ StatsD metrics are emitted for specific events:
 These metrics are used for Datadog dashboards for monitoring the health of the form storage process.
 
 Dashboards:
-- To be added as part of https://github.com/department-of-veterans-affairs/va.gov-team/issues/90103
+- https://vagov.ddog-gov.com/dashboard/fps-2wj-ceb
 
 ## Additional Information
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/84329
