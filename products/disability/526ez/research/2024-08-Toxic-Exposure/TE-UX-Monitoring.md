@@ -31,7 +31,7 @@ We will also provide success metrics from GA4 at each % of the rollout.
 |**Week 2**| Sep 7 - 13 | (10-50%) | Sep 20 |
 |**Week 3** | Sep 14 - Sep 20 | (50%-100)| Sep 27|
 
-Reporting by rollout % - 526 TE metrics **only**
+### Reporting by rollout % - 526 TE metrics **only**
 |**Rollout %**|**Dates of 1.0 rollout (will stay updated based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|
 |--|--|
 |5%| Aug 28 - Sep 2 | 
