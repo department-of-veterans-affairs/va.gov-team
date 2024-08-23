@@ -14,7 +14,7 @@ This evaluation plan outlines how the Cartography team will measure and track re
 
 **Must have**
 
-| **Theme**| **Question** | **Metric** | **Tools** | **Currently tracking**| **Link to ticket** |
+| **Theme**| **Question** | **Metric** | **Currently tracking** | **Link to ticket** | **Link to instructions** | 
 | --- | --- | --- | --- | --- | ---- |
 | Engagement | What are the top tasks on the MHV landing page? | Click (engagement/conversion rate); Top tasks | GA4| No | 
 | Navigation and findability | what % of users use secondary nav across the entire portal? |Click analytics| Datadog; GA4 |No|[Link to ticket](https://app.zenhub.com/workspaces/mhv-on-vagov-landing-page-62619a987d74510018ecc546/issues/gh/department-of-veterans-affairs/va.gov-team/89719)|
