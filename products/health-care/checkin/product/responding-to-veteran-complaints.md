@@ -9,6 +9,11 @@
     - Travel Knowledge Article TBD
 - Help desk assists the Veteran in order to resolve the issue
 - Help desk creates a SNOW Incident ticket and captures information from the Veteran if the issue cannot be resolved by the help desk
+    - Navigate to [yourit.va.gov/va]([https://yourit.va.gov/](https://yourit.va.gov/va))
+    - Select Report an Issue
+    - Select General
+    - Enter information that describes the issue, including Veteran phone number if available
+        - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/847f3d2b-32f5-4106-8467-f281e45c3a43)
 - Help desk assigns the SNOW Incident ticket to our SNOW assignment group 'eCheckInVetFacingApps'
 - CIE On-call Production Support engineer responds to SNOW incidents that are assigned to our assignment group 'eCheckInVetFacingApps' per the [PCI API Tier 3 Production Support Team On-Call Monitoring Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/PCI%20API%20Tier%203%20Team%20Playbook.md)
     - [All SNOW Tickets](https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%26sysparm_first_row%3D1%26sysparm_view%3Dcatalog)

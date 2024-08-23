@@ -1,24 +1,31 @@
 # VA Mobile App: Personalized Home Screen Evaluative Research Plan
-February 2024
-
+February 2024  
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team
 
 ## Background
-The VA Flagship mobile app was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes). 
+The VA Flagship mobile app was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes).
 
+Quantitative data analysis indicates that users who initially download the app do not actively use the app over time, and [research participants have also reported that they download the app to see if it can help them but then don’t use it regularly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) and/or don’t have time to go through the app’s functionality. 
 
-Quantitative data analysis indicates that users who initially download the app do not actively use the app over time, and [research participants have also reported that they download the app to see if it can help them (but then don’t use it regularly)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings). 
-The VA Flagship mobile app team believes that bringing personalized content to the VA mobile app’s home screen will help new and current app users understand and find value in the app that they aren’t discovering now, help app users keep up with and manage their current interactions across VA, and ultimately help address the dip in retention we’re seeing.
+The VA Flagship mobile app team believes that bringing personalized content to the VA mobile app’s home screen will help new and current app users keep up with and manage their interactions across VA and find value in the app that they aren’t discovering now. This particular study will help us examine if/how the personalized homescreen design impacts project success metrics and identify opportunities to improve it as part of the [VA Mobile App's Personalization efforts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization).
 
-See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) 
+See also: [VA Mobile App - Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md)
+
 
 ## Project Objectives & Goals 
-#### [Flagship Mobile App Strategy](https://docs.google.com/presentation/d/1j0rO2HvDwHDTzunG3judC1HXOiWfGNTXVciLAkurpRw/edit#slide=id.g1e78b87c057_0_159)
-- **Vision:** "Each Veteran is connected to the VA services that matter most to them, regardless of device, and without understanding the VA org chart.”
-- **Objective 1:** Veterans will use authenticated services that are highly personalized and valuable.
-- **Objective 3:** Increase active user base. 
 
-#### [OCTO Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme)
-- **Goal 6:** Logged-in users have a personalized experience, with relevant and time-saving features.
+#### [Flagship Mobile App Strategy 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/MobileOKRs2024.md)
+
+* **Mission:** “Empower Veterans by providing fast, easy, and personalized access to the most popular VA health and benefits services.”
+* **Objective 1:** Improve Veteran retention at the 30, 60, and 90 day marks by 10%
+* **Objective 2:** Increase the number of tasks completed and their success rate
+* **Objective 3:** Improve Veteran Satisfaction.
+
+
+#### [OCTO Priorities 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md)
+
+
+* **Objective 1:** Our digital experiences are the best way to access VA health care and benefits.
 
 #### Veteran Journey
 Since Veterans can download the VA Health and Benefits mobile app any time after establishing benefits with VA, this work impacts the Veteran journey from Starting Up and beyond.
@@ -28,6 +35,7 @@ Since Veterans can download the VA Health and Benefits mobile app any time after
 We have not previously conducted concept or usability research focusing on the VA mobile app’s home screen.
 - [Desk research & discovery exploring personalization broadly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2023) was conducted several times from 2021-2023. 
 - [VA mobile app user retention discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) (the study that uncovered the problem the personalized home screen is attempting to solve) was conducted in 2023.
+- [VA mobile app - Post-Launch Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022) (the study includes exploring the value of the app to Veterans) was conducted in August 2022.
 
 ## Research Goals	
 Fulfills issue [#2160 ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2160)
@@ -127,7 +135,7 @@ Recruit 18 Veterans for a minimum of 10 successfully completed sessions.
 * At least 9 participants should be active monthly users of the VA Health and Benefits mobile app.
   * An active monthly user is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.
     * Please do confirm via phone that the participant uses the VA Health and Benefits Mobile App
-      * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is "#.#.#").
+      * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is “#.#.#“).
 * All participants should have an active VA claim and/or appeal.
 * At least 9 participants should be users of VA health care.
 * At least 9 participants live in a rural area (seeing potential internet connectivity differences are important to the study)

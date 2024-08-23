@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # VFS-CMS / Sitewide Crew sprint best practices
 
 ## Purpose

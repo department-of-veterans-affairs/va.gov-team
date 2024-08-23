@@ -1,4 +1,54 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
+
+## Sprint 4
+8/14 - 8/27
+
+**Toxic Exposure**
+- Complete 5% Canary rollout
+- Evaluate user metrics (Medallia & GA) to inform research
+  
+**Paper Form Sync**
+- Temp on hold until after 100% TE rollout
+  
+**Submission Experience**
+- Ideate solutions to Timely & Truthful + Submission Record and Tracking
+
+## Sprint 3
+7/31 - 8/13
+
+**Toxic Exposure**
+- 1.0 Launch Prep (Product/UX testing, Perform PSIRR, Perform Staging Review, Moderated Prod Testing, UAT)
+- Review Medalia survey data (stretch)
+
+**Paper Form Sync**
+- Temp on hold
+
+**Submission Experience**
+- Adjust the design for Timely & Truthful based on research findings
+- Incorporate research findings into Submission Record and Tracking
+- Create submission status research report and share out findings
+
+
+## Sprint 2
+Period - 07/17/2024 - 07/30/2024
+* **Toxic Exposure**
+  * Validation, testing, and submit for Staging Review
+* **Paper Form Sync**
+  * Begin implementation Claim Certification - stretch goal
+* **Submission Experience**
+  * Synthesize insights from Timely & Truthful research study
+
+## Sprint 1
+Period - 07/03/2024 - 07/16/2024
+* **Toxic Exposure**
+  * Fix validation errors and perform end to end testing for release 1.0, automate polling job for 526 PDF
+* **Paper Form Sync**
+  * Begin implementation Claim Certification behind FF - stretch goal
+* **Submission Experience**
+  * Run user research study for Timely and Truthful Submission
+  * Design Discovery: Claim Record and Tracking (“Veterans need a record of their claim and a way to track it”) - stretch goal
+
+
 ## Sprint 34
 Period - 06/19/2024 - 07/02/2024
 ### Sprint goals

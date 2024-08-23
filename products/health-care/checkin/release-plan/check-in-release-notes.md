@@ -12,8 +12,32 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
-## 6/17/2024
-- Updated eCheck-in and Pre-Check-in to remove underscores from the url shortener; this avoids an edge-case scenario where a Veteran may get an invalid link error 
+## 8/27/2024
+- Updated Pre-Check-in to include a link to information about how to prepare for your upcoming appointment
+    - [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/medication-review.md)
+    - [Epic 82385](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82385)
+
+## 7/29/2024
+- Updated eCheck-in and Pre-Check-in applications to use a new landing page that (1) employs a task-based design pattern where the task is either checking-in or reviewing one's contact information, (2) lists the Veterans appointments for today, and (3) allows the Veteran to see an appointment's details; see detailed release notes [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/unified-check-in-priority-1.md)
+    - [Epic 61390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)
+
+## 7/17/2024
+- Updated the eCheck-in application to handle a timeout from a call to the BTSSS API to submit a mileage-only travel reimbursement claim; in this scenario, the application will wait for 5 minutes and then call another BTSSS API endpoint that checks the status of any claims submitted on the day of the appointment; this allows the application to verify if the claim made it to BTSSS and give the Veteran the proper message
+
+## 7/9/2024
+- Fixed a bug in Pre-Check-in to include the eyebrow component above the H1
+    - [Ticket 87412](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87412)
+- Fixed a bug to remove the insurance information when selecting details before completing Pre-Check-in
+    - [Ticket 87410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87410)
+- Updated eCheck-in H2 to read "Today's appointments at this facility" for clarity
+    - [Ticket 87413](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87413)
+
+## 6/24/2024
+- Updated submission of a travel reimbursement claim to BTSSS API to send the appointment date exactly as we get it from vista-api/vetext instead of converting to UTC.
+    - [Ticket 85389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
+      
+## 6/18/2024
+- Updated eCheck-in and Pre-Check-in to remove underscores from the url shortener; this avoids an edge-case scenario where a Veteran may get an invalid link error on certain devices
     - [Ticket 85564](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
 
 ## 5/30/2024

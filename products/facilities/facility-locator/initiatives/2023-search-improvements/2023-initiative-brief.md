@@ -1,5 +1,11 @@
 # Initiative Brief - Facility Locator Search Improvements
 >3Q 2023
+
+Related epics: 
+* [Facility Locator Mobile Map experience #16001](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16001)
+* [Facility Locator: "Service type" field iterations #15541](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15541)
+* [Facility Locator Mobile Map usability testing #14518](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14518)
+
 ## User Journey
 Veterans use the Facility Locator as the single source of truth on VA.gov to find physical locations where s/he can receive benefits and services. Veterans expect search functionality that returns relevant and meaningful answers to their query with quick, relevant, and accurate information.
 

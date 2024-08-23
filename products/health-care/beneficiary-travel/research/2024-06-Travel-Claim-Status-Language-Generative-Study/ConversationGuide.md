@@ -99,7 +99,7 @@ Q2: When you hear the term “claim status”, what do you think of?
 
 Ok great! Now I am going to share my screen and we are going to dive into the exercises I mentioned earlier. 
 
-[Link to Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717691947437/6c7026cc7e4a616a131c355dbfaecd2a05eb152f?sender=ucbacbd1daef36939e8aa2288)
+[Link to Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720016860881/ca75f10db9e8ac456fd66846a68e819a4b7b5636?sender=ucbacbd1daef36939e8aa2288)
 
 ## **Consent to use video clips**
 

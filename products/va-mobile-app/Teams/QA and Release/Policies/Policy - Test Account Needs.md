@@ -36,8 +36,8 @@ Flagship App Teams and External Teams will also need to provide and lead the dat
 | Modify Test Account Data | Team PM |  Web Platform Team / OCTO VA  | QA, UX , ENG, Web Platform  | |
 
 ## Testing Links 
- - [VA Health and Benefits Beta Testing Insturction (Android)](https://docs.google.com/document/d/1vVRCqiIbunnfy_umwETlhXDmLyS5Cppo6bRde-082gQ/edit#heading=h.o1b49rfssykx)
- - [VA Health and Benefits Beta Testing Insturction (Apple)](https://docs.google.com/document/d/1SnNqpnCaKR46YqK9-CTnBakEmeusZbKXW8qYDm8PW14/edit#heading=h.bq7xff4j2scv)
+ - [VA Health and Benefits Beta Testing Instruction (Android)](https://docs.google.com/document/d/1vVRCqiIbunnfy_umwETlhXDmLyS5Cppo6bRde-082gQ/edit#heading=h.o1b49rfssykx)
+ - [VA Health and Benefits Beta Testing Instruction (Apple)](https://docs.google.com/document/d/1SnNqpnCaKR46YqK9-CTnBakEmeusZbKXW8qYDm8PW14/edit#heading=h.bq7xff4j2scv)
  - [VA.gov Staging](https://staging.va.gov/)
  - [VA.gov Staging Users Github](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
  - [Veterans Willing to help with UAT](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
@@ -63,4 +63,5 @@ Flagship App Teams and External Teams will also need to provide and lead the dat
 |+12 |Closed claims w/ no DDL |
 |Cecil.morgan@id.me | Video appointments |
 |+153 | Vaccines |
+| Request from Patrick Batemen | Oracle Test User | [Patrick Bateman confirmed he will provide 7/18](https://dsva.slack.com/archives/C018V2JCWRJ/p1721064428778819)  | 
 

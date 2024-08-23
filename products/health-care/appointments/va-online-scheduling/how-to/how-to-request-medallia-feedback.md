@@ -33,15 +33,68 @@ All comments under and including these URLS and all of their sub-URLs:
 - https://www.va.gov/my-health/appointments
 ```
 
+**Sub URLs**
+Yes
+
 **File delivery format**
 
 All in one file, on one tab
+
+
+**Word Cloud**
+No
 
 **VA Email Address(es)**
 
 [Your VA email address]
 
-### Medallia Feedback Requests - Q1 2024
+### Medallia Feedback Requests - Q3 2024
+
+[Q3 2024 Analysis Spreadsheet]()
+
+| Week  | From       | To         | Submitted By | Ticket Link  | Status |
+|-------|------------|------------|--------------|--------------|--------|
+|   27  | 06-30-2024 | 07-06-2024 | Peter Russo  | [88131](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88131) | Done  |
+|   28  | 07-07-2024 | 07-13-2024 | Peter Russo  | [88402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88402) | Done  |
+|   29  | 07-14-2024 | 07-20-2024 | Peter Russo  | [88954](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88954) |  Done      |
+|   30  | 07-21-2024 | 07-27-2024 | Peter Russo  | [89468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89468) | Done       |
+|   31  |   07-28-2024    | 08-03-2024       | Peter Russo  | [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271)         |    Done    |
+|   32  |   08-04-2024    | 08-10-2024       | Peter Russo  | Thru 8-7: [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271) 8-8 - 8-10: [90630](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90630)      |    Done  |
+|   33  |   08-11-2024    | 08-17-2024       | Peter Russo  | 8/11: [90988](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90988)         |     Done   |
+|   34  |       |        | Peter Russo  | []()         |        |
+|   35  |       |        | Peter Russo  | []()         |        |
+|   36  |       |        | Peter Russo  | []()         |        |
+|   37  |       |        | Peter Russo  | []()         |        |
+|   38  |       |        | Peter Russo  | []()         |        |
+|   39  |       |        | Peter Russo  | []()         |        |
+
+
+
+
+### Medallia Feedback Requests - Q2 2024
+
+[Q2 2024 Analysis Spreadsheet](https://dvagov.sharepoint.com/:x:/s/HealthApartment/EQmGamvaPIFLsrZTb4_ptzsBN-F-gDylyHA3UNIPveRJOw?e=aMYQnr)
+
+| Dates                  | Submitted By | Ticket Link  | Status |
+|------------------------|--------------|--------------|--------|
+| Week 14 Mar 31-Apr 06 | Melissa Lefevre  | [80264](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80264) | Done        |
+| Week 15 Apr 07-Apr 13 | Melissa Lefevre | [80814](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80814) | Done   |
+| Week 16 Apr 14-Apr 20 | Melissa Lefevre | [81233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81233) |  Done  |
+| Week 17 Apr 21-Apr 27 | Peter Russo  |[83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424)) |Done  |
+| Week 18 Apr 28-May 04 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424)) |Done  |
+| Week 19 May 05-May 11 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [83233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83233)) |Done |
+| Week 20 May 12-May 18 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) | Done |
+| Week 21 May 19-May 25 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428) | Done |
+| Week 22 May 26-Jun 01 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428)  | Done |
+| Week 23 Jun 02-Jun 08 | Peter Russo | [85551](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85551) | Done |
+| Week 24 Jun 09-Jun 15 | Peter Russo | [86793](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86793) | Done |
+| Week 25 Jun 16-Jun 22 | Peter Russo | [86793](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86793) | Done |
+| Week 26 Jun 23-Jun 29 | Peter Russo | [87329](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87329) | In progress |
+
+### Older requests
+
+<details>
+<summary> Medallia Feedback Requests - Q1 2024 </summary>
 
 [Q1 2024 Analysis Spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2024%20Q1%20Analysis.xlsx?d=w8257a39f90ce446d9621d5c524a209e4&csf=1&web=1&e=7X9vrb)
 
@@ -61,27 +114,7 @@ All in one file, on one tab
 | Week 12 Mar 17–Mar 23 |  Leah De La Costa   | [78784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78784), [79140](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79140) |Done       |
 | Week 13 Mar 24–Mar 30 |  Leah De La Costa   | [79729](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79729) | Done        |
 
-
-### Medallia Feedback Requests - Q2 2024
-
-[Q2 2024 Analysis Spreadsheet](https://dvagov.sharepoint.com/:x:/s/HealthApartment/EQmGamvaPIFLsrZTb4_ptzsBN-F-gDylyHA3UNIPveRJOw?e=aMYQnr)
-
-| Dates                  | Submitted By | Ticket Link  | Status |
-|------------------------|--------------|--------------|--------|
-| Week 14 Mar 31-Apr 06 | Melissa Lefevre  | [80264](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80264) | Done        |
-| Week 15 Apr 07-Apr 13 | Melissa Lefevre | [80814](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80814) | Done   |
-| Week 16 Apr 14-Apr 20 | Melissa Lefevre | [81233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81233) |  Done  |
-| Week 17 Apr 21-Apr 27 | Peter Russo  |[83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424)) |Done  |
-| Week 18 Apr 28-May 04 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424)) |Done  |
-| Week 19 May 05-May 11 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [83233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83233)) |Done |
-| Week 20 May 12-May 18 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) | Done |
-| Week 21 May 19-May 25 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428) | Done |
-| Week 22 May 26-Jun 01 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428)  | Done |
-| Week 23 Jun 02-Jun 08 | Peter Russo | [85551](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85551) | Done |
-| Week 24 Jun 09-Jun 15 | Peter Russo | [86042](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86042) | In Progress |
-| Week 25 Jun 16-Jun 22 | Peter Russo | []() |  |
-
-### Older requests
+</details>
 
 <details>
 <summary>2023 Q4 Requests</summary>

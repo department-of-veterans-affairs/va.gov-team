@@ -124,7 +124,7 @@ Assumptions here
 - GitHub Label: sitewide-public-websites
 - Slack channel: #Sitewide-Public-Websites
 - People:
-  - OCTO-DE Leads: Dave Conlon & Danielle Theirry
+  - OCTO-DE Leads: Michelle Middaugh & Danielle Thierry
   - OCTO-DE IA: Mikki Northuis
   - PM: Fran Cross (A6)
   - DM: Jill Adams (A6)

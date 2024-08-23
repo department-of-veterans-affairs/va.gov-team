@@ -1,6 +1,6 @@
 # Project outline: MyHealtheVet to VA.gov notification preference migration
 
-**Last updated: June 7, 2023**
+**Last updated: Aug 22, 2024**
 
 ### Communications
 
@@ -43,29 +43,52 @@ While most of the MyHealtheVet migration into VA.gov will take place in the heal
 
 **What notification preferences do we need to migrate**
 
-We know we need to migrate the existing MHV preferences, but MHV has also mentioned other notifications they want to add in the near future. We will need to make sure each notification is defined so we can determine the right time to build a preference and/or to integrate the actual notifications through VANotify.
+We know we need to migrate the existing MHV preferences, but MHV has also mentioned other notifications they want to add in the near future. We will need to make sure each notification is defined so we can determine the right time to build a preference and/or to integrate the actual notifications through VANotify. 
+
+**[ANS]** We're migrating 4 notification types - all email based: 
+
+- Health appointment reminders
+- Prescription shipping notifications
+- New secure message notifications
+- Notifications when medical images you requested are available
+
+[See the relevant Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61102)
+
 
 **Do we need to migrate all notification preferences at once, or can we take a gradual approach?**
 
 As mentioned above, there are a handful of existing and new notifications/preferences that MHV are interested in having VA Profile and VANotify support. However, we will need to prioritize what gets integrated into VA Profile and VANotify and when based on the health apartment roadmap (notifications and preferences should be supported by the time a feature is supported on VA.gov), and MHV's long-term plan for their own profile.
 
+**[ANS]** Initially we thought all of the notifications would be turned on at once, however it became clear each of the above mentioned notification types would migrate on its own timeline. We created feature toggles specific to each notification type 
+
+- profile_show_mhv_notification_settings_email_appointment_reminders
+- profile_show_mhv_notification_settings_email_rx_shippment
+- profile_show_mhv_notification_settings_new_secure_messaging
+- profile_show_mhv_notification_settings_medical_images
+
 **Do we need to migrate existing notification preference data from MHV to VA Profile? If so, is this possible?**
 
 Given that we are working with existing notifications for which people have existing preferences saved, we'll need to talk to VA Profile about whether a data migration is possible or not.
 
-**[ANS]** A call in May 2023 this was discussed, MHV data isn't supposed to leave MHV without explicit approval of the veteran/user. 
+**[ANS]** A call in May 2023 this was discussed, MHV data isn't supposed to leave MHV without explicit approval of the veteran/user. Some data will be backfilled however. 
 
 **When do we need to integrate the actual notifications with VANotify?**
 
 Technically, we can support notification preferences independently of where the notifications are coming from. VA Profile supports preferences both for notifications supported by VANotify, and those that are supported by other VA systems. If and when we integrate notifications with VANotify depends on the health apartment roadmap and when features need to be fully supported on VA.gov.
 
+**[ANS]** There is nothing AE Profile team needs to do here. 
+
 **When and how will we integrate Cerner data?**
 
 A huge piece of the entire apartment is integrating Cerner data, and notification preferences are no different. We will need to work closely with the health apartment team to figure out how to reconcile MHV and Cerner data for users who may go to one facility that uses Cerner and one that uses VistA. We hypothesize that it may be easier to integrate MHV data first, and then later figure out how to reconcile Cerner data.
 
+**[ANS]** [this will happen independently, Oracle Health (OH) (formerly Cerner) will have it's own migration timeline and efforts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91245)
+
 **Do the VA.gov profile and the MyHealtheVet profile need to support the same notification preferences at the same time?**
 
 Figuring out whether or not the VA.gov preferences can or should coexist with the MHV preferences affects how we approach things on the MHV end of things. If MHV wants our profiles or given preferences to coexist, they'll be in a position where they have to integrate with VA Profile. If not, we would want to make sure we had a coordinated approach where we turn off the MHV preference when we turn on the VA.gov preference.
+
+**[ANS]** They have decided this is needed and are integrating w/VA Profile
 
 ## Problem Statement
 
@@ -136,9 +159,10 @@ OKRs and KPIs TBD.
 - August 2022: Began MHV <> VA.gov biweekly meetings to scope out definition for notification preference migration in preparation for a VA Profile intake form
 - December 2022: MHV agrees to integrate their notification preferences with VA Profile; Initial notification preferences intake is submitted to VA Profile
 
-## Backend
-
-## Frontend
+## Important artifacts 
+- [MHV to VA.gov Notification Migration Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61102)
+- [Appointment Reminders PHI/PII Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58797)
+     - [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/appointmentReminderPHIandPII/README.md)
 
 ## Design
 
@@ -146,8 +170,5 @@ OKRs and KPIs TBD.
 
 - [Initial MHV profile discovery research findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2022-05-MHV-profile-research)
 
-### Design artifacts
 
-- Add link to use cases
-- Add link to Sketch files
 

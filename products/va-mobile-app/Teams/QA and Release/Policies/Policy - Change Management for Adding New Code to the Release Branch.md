@@ -24,7 +24,8 @@ At a high level, QA and Release Team's stance is that code will not be added to 
  - If modification to the release code is purused, Team PM and PO accept responsibility for the risks it brings 
  - Exceptions can be made if they are timely and also critical enough - they will need to follow the process below
  - QA and Release's QA Tester has the final say
- - Teams need to perform detox testing on  the code they want to include as it could impact testing effort needed to include 
+ - Teams need to perform detox testing on  the code they want to include as it could impact testing effort needed to include
+ - Ticket for this request is required - [Post RC Ticket Template ](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=djultratom%2C+bischoffa&labels=release&projects=&template=Post_RC_Code_Change.md&title=Post+RC+Code+Change+Template)
 
 
 ## STEPS TO INCLUDE CODE TO THE RELEASE BRANCH AFTER ITS CUT: 
@@ -34,6 +35,8 @@ At a high level, QA and Release Team's stance is that code will not be added to 
 
 **3.) Team PM determines release branch needs to be modified, reaches out to the Release QA Tester with their request to discuss what is going on, why its needed, options, and timing**
   * Ideally should be done the day the release branch was cut, anything later will impact release timeline
+
+  * Create and submit [Post RC Code Ticket Template](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=djultratom%2C+bischoffa&labels=release&projects=&template=Post_RC_Code_Change.md&title=Post+RC+Code+Change+Template) 
     
   * Discussions may also require an updated release timeline to account for this delay in order to meet original PO approval date
     

@@ -1,6 +1,6 @@
 # Ch33 Direct Deposit Migration to CorpDB
 
-**Updated: 4/16/2024**  `Draft`
+**Updated: 7/26/2024**  
 
 ## Table of Contents
 
@@ -38,8 +38,8 @@ We will need to use BOTH of these toggles to control the release.
 |Planning Item/Question|Response|
 |---|---|
 |UAT Go/No-go Convo|[Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80802)|
-|Desired Date Range or Test Duration|Start 4/29, see [research plan for more details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-04-direct-deposit-ch33-UAT/research-plan.md)|
-|Desired Number of Users||
+|Desired Date Range or Test Duration| [research plan for more details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-04-direct-deposit-ch33-UAT/research-plan.md)|
+|Desired Number of Users|| 9 (with 6+ completed sessions)
 |How you'll recruit the right production test users|We will recruit users via Perigean|
 |How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
 |How you'll give the test users access to the product in production w/o making it live on VA.gov|The feature will be behind a feature flag|
@@ -49,9 +49,11 @@ We will need to use BOTH of these toggles to control the release.
 ### Results 
 |UAT|Result|
 |---|---|
-|Number of Users|  |
-|Number of Bugs Identified/Fixed|  |
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?|  |
+|Number of Users| 5 |
+|Number of Bugs Identified/Fixed| none |
+|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?| none |
+
+[Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/ch33-bdn-corpdb-migration/UAT/Direct%20deposit%20payment%20instruction%20consolidation%20UAT%20findings.md)
 
 
 ## Phase II - Staged Rollout 
@@ -74,10 +76,12 @@ PM and PO will monitor DataDog analytics. If the team notices a spike in errors,
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 10% | 5/1/2024 9AM |  |
-| Launch to 25% | 5/1/2024 2PM |  |
-| Launch to 50% | 5/2/2024 |  |
-| Launch to 100% | 5/3/2024 |  |
+| Launch to 25% | ~7/23/2024 9AM | 7/23/2024 9AM |
+| Launch to 50% |  7/23 12APM | 7/23 12APM |
+| Launch to 75% |  7/24 9AM  | 7/24 9AM |
+| Launch to 100% |  7/24 12PM | 7/24 12PM |
+
+[Tracking more details against the release ticket here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80859)
 
 ### 1-week results at 100%
 ||Results|

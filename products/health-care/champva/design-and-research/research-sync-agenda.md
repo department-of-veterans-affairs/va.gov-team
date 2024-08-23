@@ -1,9 +1,81 @@
 # Running Design and Research Agenda
 
-## June 20, 2024
-Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Premal Shah, Bo Altes
+## August 15, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis,  Bo Altes, Premal Shah
 
 ### Agenda topics
+- Discuss 10-7959c Research Plan and Convo guide
+
+### Decisions and action items
+- Start internal calls at 5 after
+- Combine cohorts, aim for max recruit of 8 or 12 for normal users
+- Capture information about the edit probe in the conversation guide
+- Focus post-interview questions more on claims - remove service-related questions
+
+## July 25, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes, Devi Hill
+
+### Agenda topics
+- Review [10-10d UXR stakeholder readout deck](https://docs.google.com/presentation/d/1rneN0c0SynW1Jj_5_JuEqMKYtkbkEHLvV4n0KdCELpg/edit#slide=id.g892adcb623_0_141)
+- Discuss next up research for claims
+  - Beginning research plan and conversation guide next sprint
+  - Concern that CHAMPVA findings won't transfer to FMP
+      - On the service side, that's probably true.
+      - As far as interaction for the form, findings should transfer
+      - We also got a lot of info about FMP from earlier studies
+- In the future - can we plug into the Claims Status tool?
+- Where do we need to update beyond VA.gov? Youtube? How can we keep our business partners in the loop?
+      -  We need to keep our business partners up to date - eg., chat with Brian Guenther - make call center on board, paper documentation up to date, etc.
+
+### Decisions and action items
+- Move forward with research on CHAMPVA claims research as planned
+- Readout is ready to go
+
+## July 18, 2024
+Canceled - Lois OOO
+
+## July 11, 2024
+Canceled - Lois OOO
+
+## July 4, 2024
+Canceled - July 4th holiday
+
+## June 27, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes, Devi Hill
+
+### Agenda topics
+- Review feedback on revised FMP decks
+  - Keep Monday meeting title the way it is
+  - Remove finding numbers
+  - Update date for stakeholder readout July 3
+  - Remove third bullet from slide 9 in stakeholder deck, make it a talking point
+  - Add a screenshot for inline edit
+  - Flip order of form usability improvement findings
+
+### Decisions and action items 
+- Address Lois' comments on the decks
+
+## June 20, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes
+
+### Agenda topics
+- Discuss process flows/service blueprints
+  - Steven presented the [skeleton](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718652759079/9b8e9bf6a84513373bc234644531bf694d9a4f84?sender=u50b7e26ebf5d18d7d4312080) he worked on in Mural. Would keep them all in one document, rather than one deliverable per Mural.
+  - Lois: it might be more than what we need. If things fit better in separate Murals, make sure there is a sticky or something telling you the other document exists. Especially if we don't want to duplicate work. Worried about too much clutter.
+    - Not sure that linking between these is standard, so may want to look at other examples.
+    - [Map of maps](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691694705068/f167df3bf00da9473559b70daef763ae41c2aeaa?sender=ud64d6310f5d321d8542a2119)
+      - Disability compensation blueprint is probably more than we want to do
+    - Honing in on the service blueprint and workflow diagram
+    - Don't know if we need info cards
+- Talk through any unclear feedback for FMP readout decks
+  - Monday deck: clean it up, add some visuals, and reduce size of "front matter". Change the titles of the findings to a sentence summarizing the finding.
+  - Stakeholder deck: clean it up, show images/interface when can. Format quotes.
+    - Slide 8 has a really long headline and lots of quotes, but instead say in words what the quotes are supporting. Heading too long. Maybe just one quote and format it so it reads like a quote, summarize them instead. Soften language, perhaps. Second quote is telling a story, which is what we want.
+    - Make sure findings aren't duplicated, and tell the story associated with slide 12 and 9 associated with not interacting with FMP/using providers that will deal with it for them.
+  
+### Decisions and action iteams
+- Incorporate feedback to two readout decks
+- Start with process workflow, and then Steven's service blueprint for FMP claims
 
 ## June 13, 2024
 This meeting has been canceled.

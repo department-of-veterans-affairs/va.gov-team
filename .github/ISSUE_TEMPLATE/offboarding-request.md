@@ -1,7 +1,6 @@
 ---
 name: Offboarding request
-about: To inform the Platform team when a team VSP or VFS team member has left and
-  needs offboarding.
+about: To inform the Platform team when a VA.gov Platform or VFS team member has left and needs offboarding.
 title: Offboarding of [individual]
 labels: analytics-insights, Offboarding, operations
 assignees: ''
@@ -9,7 +8,7 @@ assignees: ''
 ---
 
 # Instructions
-Fill out name of individual and *Description* section below.
+Fill out name of individual and **Description** section below. Note: This form only handles deactivation from the DSVA (Office of CTO @ VA) Slack instance. For Lighthouse Slack and other DOTS-managed tool removal, please submit a [ticket for DOTS removal](https://jira.devops.va.gov/servicedesk/customer/portal/1/create/714).
 
 *(Please add only one individual per form)*
 
@@ -40,12 +39,12 @@ Please provide the following information about the individual being offboarded:
 :raised_hands: :tada: All done. Don't fill out or modify anything below here. :tada: :raised_hands:
 
 
-## Acceptance Criteria
+## Platform Support Tasks
 
 ### Support Tier 1 🌺
 _The following steps are performed by the **Platform Support Tier 1** team. Detailed instructions found [here](https://vfs.atlassian.net/wiki/spaces/PTST/pages/3105554515/Tier+1+Offboarding+Responsibilities)_
 
-- [ ] Requested removal from DSVA Slack (if applicable. Search for them in Slack)
+- [ ] Requested removal from DSVA (Office of CTO @ VA) Slack (if applicable. Search for them in Slack)
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
 - [ ] Requested removal from Confluence (if applicable. Check [confluence members](https://vfs.atlassian.net/wiki/people/search?q=))
 - [ ] Remove from [Platform Atlas](https://www.va.gov/atlas/product_directory/team_members) (if applicable)

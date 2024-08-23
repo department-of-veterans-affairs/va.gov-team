@@ -3,11 +3,11 @@
 This folder contains work in progress, discovery, research, decisions, and other information related to creating an IA, content design, and Drupal page templates for tier 2 benefit-adjacent content. 
 
 
-## Current Team (2023-04)
+## Current Team (2023-25)
 Sitewide Public Websites
 - GitHub label: content, Public Websites
 - Slack channel in DSVA: #sitewide-public-websites
-- VA PO: Dave Conlon
+- VA PO: Michelle Middaugh
 
 
 ## Original Team (2019)

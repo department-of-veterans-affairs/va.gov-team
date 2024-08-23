@@ -11,6 +11,18 @@ VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals t
 - [Form flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1694615398728&sender=u934f98f179a86c76e6ee9592)
 - [Wireframes (Sketch)](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-2024-Updates-MVP?type=design&node-id=174-43726&mode=design)
 - [Data Key Map](https://docs.google.com/document/d/1RrRK4UYYYf3NTVanDZlWPPSc7Vj0dm45fVocJrmFFcI/edit?usp=sharing)
+- [Prefilling military history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/feature-briefs/Service%20history%20API.md)
+- [High Level Archtictecure Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/BurialFlow.png)
+- [Data Flow Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/Burial%20Data%20Flow%20Diagram.png)
+
+---
+## Incident Response
+  - [Product Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/Product_Playbook_Security.md)
+  - Points of contact for your system and dependent VA back-ends
+     - Front End: Sean Midgley
+     - Backend: Thomas Blackwell
+  - DataDog Dashboard | [Burial Benefits 530 errors](https://vagov.ddog-gov.com/monitors/184389?view=spans)
+  - DataDog Dashboard | [Benefits - Form 530 Burial Claims](https://vagov.ddog-gov.com/dashboard/q5u-4h7-bfh/benefits---form-530-burial-claims?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716406091146&to_ts=1718998091146&live=true)
 
 ---
 ## Desired User Outcomes
@@ -72,7 +84,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 
-- GitHub Label: burial, umbrella
+- GitHub Label: burial, pension
 - Slack channel: #benefits-non-disability
 - VA.gov link: https://www.va.gov/burials-and-memorials/application/530/introduction
 - Product Roadmap: [link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697040351744/d0ff11497ce0df685a377f3889f6d27687c0ffb4?sender=u0e8ac1d6d7681bb7e1b80558)

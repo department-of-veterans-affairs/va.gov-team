@@ -1,6 +1,304 @@
+08/13/2024 
+
+**Agenda August 13th**
+- [in]Security Issues
+- Updating AVA Profile (Conversation here.)
+- Generate Open API from Dataverse APIs?
+	- MSFT tooling should create the Swagger ??
+	- Better than hand-edited markdown.
+
+- adding queueID to the payload
+
+**Notes:**
+- Security result: CRM will add ICN+documentID for retrieving records, additional finding not high enough risk to research and resolve at this time.
+- Swagger Docs were sent while on the call, Joe created a [draft document](https://github.com/department-of-veterans-affairs/ask-va/tree/joehall-tw-patch-1/test-swagger) as a response.
+**Action Items**
+- Kyle to send Swagger API Docks - Done
+- Kyle to setup QueueID to response body - Done
+
+**Agenda For next session:**
+ 
+- Review Design Research plan for Dashboard Study
+- Dashboard Mocked Data - Changing statuses for user 119 
+
+**Agenda for August 13th:** 
+
+- Security Issues
+- Updating AVA Profile (Conversation [in slack](https://dsva.slack.com/archives/C06LN37RT47/p1723230210079369?thread_ts=1723147323.138299&cid=C06LN37RT47).)
+- Generate Open API from Dataverse APIs?
+  - MSFT tooling should create the Swagger ??
+  - Better than hand-edited markdown.
+
+**Notes**
+
+- notes here
+
+**Action Items**
+
+ - **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
+ - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
+
+
+## Meeting Notes for August 6th:
+
+**Agenda** 
+
+- Review Test Plan (RPA Notes)
+- Display_name follow up (Hemesh/Khoa)
+
+**Notes**
+
+- Review Test Plan (RPA Notes)
+  - Natalie to look into this more and make sure we’re clear on the coordination efforts (who reaches out, documented in the test plan.)
+  - CHRIS: if we want to interact with RPA, needs to be one of their supported topics, as listed in the test plan.
+  - KYLE: RPA bot needs to be reenabled in pre-prod for UAT.
+- Display_name follow up (Hemesh/Khoa)
+  - Only a couple more to update. All should be able to update by October, but Ed users (highest-stake users) may want to make changes closer to December? HEMESH: display_name is only used by AVA VA.gov, but CRM is implementing name and display_name at the same time.
+- SHELBY/BECKY: UAT for changes deployed to prod, but the work for the launch will be done in the individual release UATs (5 or so), no specific CRM changes to test for VA.gov work. 
+
+**Action items:**
+ 
+ - **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
+ - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
+ - DONE: ~**Kyle/ Chris** to update test user 119 for AVA Profile Data~
+ - DONE: ~**Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting.~
+
+## Meeting Notes for August 1st:
+
+**Agenda** 
+
+- Discuss CRM UAT
+- Review Timeline for potential phases approaches
+- Testing Users (Joe): 119 Add Classic AVA /CRM to profile
+- What Metrics is CRM Capturing to date for VA.Gov or would like to capture (outside of PowerBI)?
+ - benchmarking for the use of the form etc
+  - Are we tracking the response time from the Queues?
+
+**Action items:**
+ 
+ -  **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
+ - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
+ - **Kyle/ Chris** to update test user 119 for AVA Profile Data
+ - **Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting. - **complete**
+
+**Proposed Agenda for August 6th:**
+ 
+- Review Test Plan - 
+- RPA Testing added to test plan
+- Review if Test User 119 or other test profiles need to be updated
+- Update from Kyle on  
+
+**Proposed Agenda for following session - August** 
+  - Review potential new timeline   
+
+**Notes:** 
+
+- VAPO to discuss timeline approaches and to be added to agenda on X date
+- Metrics: CeeCee + Shelby to pair @ GA4 office Hours
+Action: Shelby to invite CeeCee to PowerBI 
+Testing Users (Joe): 119 Add Classic AVA /CRM to profile
+  - Pulling data from ava profile, our users lack some key info that needs to be attributed to it to test prefill. 
+  - Action to Chris/Kyle (Shelby to confirm correct partner)
+
+- Potential AI Features for AVA (For after the redesigned form and dashboard - Post Release ‘25) 
+  - **Goal:** validate the potential use case that we will be able to determine based on a user's question what queue does it belong to.
+ - **Action:** new meeting to assist with analysis for time per queue to resolve an issue (best date 8 or 9th - Thursday / Friday) 
+ - This information will help determine if the potential model will improve the ability to decrease inquiry resolution time (is this useful)
+ - **Action: Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting.
+
+## Meeting Notes for July 23rd: 
+
+### Agenda:
+* CeeCee: Review Rollback severity + justification
+* Wayne: How long do we maintain classic AVA during / post cutover
+* Chris: Dark release in addition to the 1/20/25 release?
+* Tyler: Dashboard Statuses
+
+### Action Items: 
+* Natalie: to check with OITC on standard timelines for maintaining original instances when cutting over to a new one 
+* CeeCee : Update timeline for phased approach to review with team
+* Tyler & Chris: Sync up around Dashboard.
+
+### Proposed new Agenda for Thursday August 1st: 
+* Discuss CRM UAT - Review Timeline for potential phases approaches
+* Testing Users (Joe): 119 Add Classic AVA /CRM to profile
+* What Metrics is CRM Capturing to date for VA.Gov or would like to capture (outside of PowerBI)?
+	* benchmarking for the use of the form etc
+ * * Are we tracking the response time from the Queues
+
+### Notes:
+### Rollback & Release Planning:
+* New Fatal Error: Inquiry details don’t enter CRM, Submitter submits but the details don’t follow down stream 
+
+### How long do we maintain Classic AVA during or post cutover:
+#### Context: Difficulties will occur at the first new release post launch 
+* AVA Recommendation: weeks not months
+* Decision: VAPOs to discuss offline
+* Pro: safety in terms of rollback
+* Con: difficulty in maintaining 2 environments
+
+### Action : Natalie will check with OITC on standard timelines
+
+### Dark Release: Process & Decision
+* Goal: limit the risk at time of launch before accessing the general population (soft opening)
+* Context: making the phased rollout at the beginning a dark release. CRM would select their super users rather than a randomly assigned messageID, allowing CRM to help catch potential issues.
+Steps:
+* giving the link to selected submitters at the start 
+* Then move into the canary/staged approach
+* Opportunity: Still using the staged roll out approach but essentially adding an additional stage
+
+Question re phased approach:
+* Are we going to back up the timeline of development to accommodate the january 20th date?
+* ### Action: Review Staged release Timeline view Next Tuesday
+* Will we be development ready by this time?
+
+### Dashboard Statuses:
+* Context: some of the wording of statuses, is leading to some confusion
+* Recommendation: how we might change statuses on the front end
+* ### Action: Tyler & Chris to sync up 
+
+
+
+## Meeting Notes for CRM Sync on 07/16/2024
+
+Rollout and Rollback
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+* Release will be staged 1x per day (canary monday, 25% tuesday...) for mid month
+* Release will be able to be rolled back through dynamic toggles (no deployment needed)
+* In case of roll back or needed notifications, CRM will upload an announcement to AVA home page
+* Users will be mapped to AVA experience via a MessageID, assigned at the start of a session, which will be visible via API response.
+
+### Action Items:
+
+- [X] JOE: Send Branches of Service list to Chris for validation with VBA.
+- [X] JOE: Schedule a new meeting to review rollout plan with CRM, including things like rollback and staggered release.
+- [ ] JOE/CEECEE: Reach out to MHV or Debt Resolution Team to discuss learnings from staged release
+    - Perhaps ping Travel Pay team as well since their model so closely follows ours. Might have useful insights.
+- [ ] CEECEE/TERRI: Look @ powerBI to determine 10% of users
+- [X] CEECEE: Define rollback severity & justification (catastrophic etc.)
+- [X] JOE: Upload release plan + Notes to Gitub
+- [ ] AVA VA.gov Team: Continue to gather AVA URLs
+- [ ] JOE: Create a new issue to track documenting our process for post-release changes and defects, from intake to deploy. Share with CRM.
+- [ ] JOE: Create a new issue to implement the "Policy Number" field for Life Insurance flow, post-release.
+- [X] JOE/CeeCee: Discuss testing timeline, touchpoint, and their place in the roadmap for both teams in a future CRM Sync.
+
+
+## Meeting Notes for CRM Sync on 07/09/2024
+
+E2E Testing and More
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+* Category, Topic, and Subtopic now include a `display_name` field that can be used for the scenarios where CRM and VA.gov are out-of-sync. When `display_name` is null, `name` will be used instead.
+* Roles and responsibilities for end-to-end (E2E) testing are as follows:
+  * Testing for AVA VA.gov's web-facing, public UI will be owned by the AVA VA.gov team, guided by their test plan.
+  * Testing for CRM's web-facing, public UI will be owned by the CRM team, guided by their test plan.
+  * Testing steps that reference CRM's agent UI to verify queue routing will be owned by the AVA VA.gov team, with support from the CRM team as needed.
+  * Testing steps that reference CRM's agent UI to reply to an inquiry will be owned by the AVA VA.gov team, with support from the CRM team as needed.
+  * Testing steps that reference CRM's agent UI to reroute an inquiry will be owned by the AVA VA.gov team, with support from the CRM team as needed.
+  * Testing of the CRM APIs/contracts will be performed by the CRM team.
+  * Testing of the AVA VA.gov APIs/facade/middleware will be performed by the AVA VA.gov team.
+* Other testing notes follow:
+  * No new users will be created for testing fringe cases. Rather, we'll use mocked data for the calls to user profile to simulate edge-case users. Creating new users is a bit of a lift and should be avoided if not critically needed.
+  * In testing of inquiry routing, we hope to automate some checks by using a new field on the inquiry details payload that indicates the current agent queue.
+  * Becky and Joe should have access to the agent UI. We need to add Terri and CeeCee for sure, and may be wise to add/verify access for the AVA VA.gov dev team. Design already has access.
+  * Agent UI access needs a login every 7 days to keep the account active. Adding a new user is a roughly 7-day process. No special roles are needed for using the agent UI.
+  * The 120-ish flows refer to the permutations of Category/Topic/Subtopic selections. (This is multiplied by 4 if you include the "about ___" variants.
+  * OPEN QUESTION: Does location-based routing need to be accounted for in our tests? If so, ensure those scenarios are accounted for in the test plan.
+* The Branch of Service is ultimately pulled from Claims API / DEERS, via VA Profile API / Login user object. Chris will review our current list with VBA.
+* Adding an optional, new "Policy Number" field to Life Insurance flow was discussed. Would be useful for the agents working that queue, but it's a showstopper. Was decided to add to the AVA VA.gov backlog for post-release implementation. AVA VA.gov to document the intake-to-deploy process.
+* We need a new meeting to discuss staggered rollout, switching to the new UI, updating site-wide links, handling stale user bookmarks, and our rollback plan.
+
+### Action Items:
+
+- [ ] JOE: Send Branches of Service list to Chris for validation with VBA.
+- [ ] JOE: Schedule a new meeting to review rollout plan with CRM, including things like rollback and staggered release.
+- [ ] JOE: Create a new issue to track documenting our process for post-release changes and defects, from intake to deploy. Share with CRM.
+- [ ] JOE: Create a new issue to implement the "Policy Number" field for Life Insurance flow, post-release.
+- [ ] JOE/CeeCee: Discuss testing timeline, touchpoint, and their place in the roadmap for both teams in a future CRM Sync.
+
+
+
+## Meeting Notes for CRM Sync on 06/25/2024
+
+Short Sync
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+* No agenda items to review. Opened up to floor. Nothing new to note for this round since we had just met a few days prior.
+
+### Action Items:
+
+- No new action items
+
+
+
+## Meeting Notes for CRM Sync on 06/20/2024
+
+E2E; Docs; Release Tasks
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+* Monday/Wednesday standup meetings have been suspended
+* Mentioned the removal of:
+	* Gender identity
+	* Reason you're contacting us
+	* For search by Inquiry Number, no longer needs the Level of Authentication
+		* Search by number will behave the same for auth'd and unauth'd users
+		* The field has already been implemented by CRM, but it won't be used
+* Workflow simplification process? 400+ to 120+ flows?
+	* The larger number represents all permutations (about me/someone else/the vet/...)
+	* The smaller number represents the combinations of Category/Topic/Subtopic
+* Testing Integration, Collaboration, and Dependencies
+	* CRM's pre-release activities (near the end of the timeline) are dependent on having VA.gov's Form and Dashboard complete.
+	* CRM's API testing isn't blocked. Needs VA.gov's Test Plan to know what's being tested.
+	* VA.gov is in the process of creating the Test Plan now.
+	* Plan needs to be communicated to the field; Submitters alerted that there will be a new release.
+	* Testing and remediation dates on CRM roadmap aren't hard and fast, can revisit the calendar.
+		* Form-toStaging is when the last research study is complete and the devs have wrapped up their updates from that work, then we can start form testing.
+		* Some CRM/VA.gov testing can happen concurrently. Length of E2E testing dictates.
+	* Comms plan
+		* Contact Center Support Guide (a key deliverable for collaboration cycle touch points for release) -- Late November for review.
+		* Docs in advance of portal release so agents can guide submitters -- need to have Dashboard complete so we can get screenshots.
+		* Date for E2E testing is 10/21 through 1/20?
+	* Release Notes
+		* OIT doc deliverable
+		* Formal user-friendly docs (how their experience will differ)
+		* APIs will be in PROD before official release, unreferenced except for VA.gov UI.
+	* Natalie will be out, but Tim Robinson is covering AVA in her absence. In her OOO message, you'll find others who are supporting her projects.
+ 
+### Action Items:
+
+- [ ] Natalie to provide visuals for timeline to communicate status at any time to leadership
+- [X] Becky to provide links to Release Notes example 
+
+
+
 ## Meeting Notes for CRM Sync on 06/11/2024
 
-
+Testing Flows; Division of Labor; Announcements; UntrustedFlag
 
 ### Attendees:
 
@@ -11,7 +309,7 @@
 
 1. Reviewed Handoff Checklist
 2. Reviewed steps to test flows
-3. Division oof testing work
+3. Division of testing work
    * All E2E, CRM to help UAT participants only
    * Generally, E2E testing is VA.gov, and API testing is CRM
 4. Pull detail steps for (unauth'd) search by inquiry number into a separate section to call it out

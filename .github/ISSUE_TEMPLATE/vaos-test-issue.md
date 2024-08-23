@@ -2,7 +2,7 @@
 name: VAOS Test Issue Template
 about: For filing issues with VAOS tests or testing infrastructure
 title: ''
-labels: testing, appointments
+labels: testing, appointments, needs-grooming
 assignees: ldelacosta
 
 ---

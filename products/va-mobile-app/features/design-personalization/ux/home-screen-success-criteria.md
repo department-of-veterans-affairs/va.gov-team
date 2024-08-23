@@ -31,7 +31,7 @@ Choosing a design direction for the personalized home screen involves balancing 
 11. The approach to displaying personalized content doesn’t negatively impact app responsiveness/speed (for example, limiting the number of API calls we make at one time).
 
 ### Step 2: Design Explorations (low & high fidelity)
-[Personalized home screen - feedback notes (gdoc)](https://docs.google.com/document/d/1ucqnrsa-7PzmHKfk5XqcC_SMhV2Mbxvthjc0rL-wcZs/edit#heading=h.uvpdj3lsfue2
+[Personalized home screen - feedback notes (gdoc)](https://docs.google.com/document/d/1ucqnrsa-7PzmHKfk5XqcC_SMhV2Mbxvthjc0rL-wcZs/edit#heading=h.uvpdj3lsfue2)
 
 #### Low-fi/Wireframes
 The low-fi design explorations below will include collecting & evaluating high-level concepts from the [previous few years](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#earlier-exploratory-activities-nov-2021---jan-2022) as well as new concepts developed as a result of a [comparative analysis covering Personalized Home screen content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/research/personalization-comparative-analysis-2023.md). After determining an MVP recommendation, we will bring the concept to life using high fidelity visual design.

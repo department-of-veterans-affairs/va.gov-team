@@ -44,7 +44,7 @@ We adhere to the Platform guidelines on PR Best Practices: [VA Platform Develope
 #### Required Information
 
 - Link the related Zenhub issue in the PR.
-- Use the branch format: `issue-number-arf-feature`.
+- Use the branch format: `arf-issue-number-arf-feature`.
 - Complete relevant sections of the default PR template.
 - Labels: As part of the OCTO Code Yellow plan for the Benefits team, use the `benefits-accredited-rep-facing` label for all PRs ([source](https://dsva.slack.com/archives/C06ABHUNBRS/p1705959799005869?thread_ts=1705940696.805789&cid=C06ABHUNBRS)).
 
@@ -56,15 +56,16 @@ We adhere to the Platform guidelines on PR Best Practices: [VA Platform Develope
 
 ### Commits
 
-- Example format: `issue-number-arf: <commit description>`.
+- Example PR title format: `arf issue-number: <PR description>`.
+  - This will get carried over into the squash merge commit. 
 - Refer to [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for guidance.
 - Write clear and meaningful commit messages whenever possible.
 - Remember that concise and efficient work adds more value than perfect wording in commit messages.
-- Ensure each push passes Continuous Integration (CI) tests.
+- Aim to ensure each push passes Continuous Integration (CI) tests.
 
 ## Zenhub
 
-- Use an ARF Engineering ZenHub Template to create every issue.
+- Use an ARF Engineering ZenHub Templates as inspiration. The only required section is the acceptance criteria.
 - None of the sections in the templates are explicitly labeled as 'required' or 'optional.' Therefore, it is up to the person creating the issue to decide which sections to include.
 - If important sections are consistently omitted, we can consider adding 'required' labels in the next iteration of the templates.
 - To update a template, edit the corresponding file:

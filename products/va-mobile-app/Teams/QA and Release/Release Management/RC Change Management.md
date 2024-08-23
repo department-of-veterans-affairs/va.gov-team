@@ -1,0 +1,1 @@
+[Go here for Qart's Change Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Overall%20Team/Qart%20Decision%20Log.md) which includes tracking times in which RC branch needs to be recut. 

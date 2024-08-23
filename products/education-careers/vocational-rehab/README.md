@@ -97,8 +97,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 - Team Name: Benefits Non-Disability Experience Team (Team Umbrella)
-- GitHub Team Label: Umbrella
-- GitHub Product Label: CH31
+- GitHub Team Label: non-disability-benefits
+- GitHub Product Label: CH31, vr&e
 - Slack channel: benefits-non-disability
 - Product POCs: Laura Steele (product manager), Emily Theis (OCTO Lead)
 

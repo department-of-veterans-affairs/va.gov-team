@@ -13,10 +13,12 @@ Veterans are asked to choose the VA clinic where they'd like to receive the type
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- If a user can direct schedule, they're shown a list of VistA clinics where:
+- Ask user to choose from a list of VistA clinics where:
     - The clinics support scheduling for the facility and type of care chosen
     - The clinic has been interacted with in some way by the user in the past 24 months
-    - After selecting a clinic, the user is sent to the [preferred date page](./va-direct--preferred-date.md)
+- The list of clinics display the Patient-friendly clinic name
+   - If this is not available, display the Clinic name
+- After selecting a clinic, the user is sent to the [preferred date page](./va-direct--preferred-date.md)
 - The request flow must be selectable within the Direct Scheduling flow if the user's request eligibility is true.  
    - The user has an option to choose a different clinic. 
    - Choosing this will put the user in the VA request path starting at the [VA request preferred date page](va-request--preferred-date.md)

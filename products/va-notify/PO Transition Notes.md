@@ -10,7 +10,6 @@ Please excuse any typos.  Trying to clean this up on my last day was NOT the bes
 - [Goals - 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/Goals%20and%20Roadmap.md)
 - [Business Intake board](https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/board)
 - [Domo Dashboard](https://va-gov.domo.com/page/2040841289)
-- [On-call support](https://docs.google.com/spreadsheets/d/1xWzSqRzYpQmQzQGeTud2HCOICHK_EiQc0lGvnHznsZI/edit?usp=sharing)
 - [Find a Privacy Officer](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx)
 - [Notification Preference Metrics](https://app.powerbigov.us/groups/me/apps/15c73e0e-e434-43b7-8efa-3b46dcd859a2/reports/c857d952-e8af-457a-82bc-95b62340e8cf/ReportSection) Hosted by VA Profile, so you may need to request access.
   
@@ -22,7 +21,7 @@ Please excuse any typos.  Trying to clean this up on my last day was NOT the bes
   
 **Forms on VA.gov**
 - [List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/form%20confirmations/in-progress-reminders.md) of forms  on VA.gov the team has completed.  Other teams have and are creating form confirmations that are not included in this list.
-- Once a form has been digitized, the  Digitize Form team passes the baton to the Notify Strike team to trigger an email confirmation after form submission.  Handoff [doc](https://docs.google.com/document/d/1w6p_wvQdWL5llf6LCjv1cbPjn_eZySupmVIGdiMzT-o/edit)
+- Once a form has been digitized, the  Digitize Form team passes the baton to the Notify Strike team to trigger an email confirmation after form submission.  Handoff [doc](https://github.com/department-of-veterans-affairs/vanotify-team/blob/master/Strike/Forms_Notify%20Form%20Handoff.pdf)
 - In-progress [reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/form%20confirmations/in-progress-reminders.md).  We should analyze the effectiveness of these reminders before creating more
 - In addition to the forms listed above, the team is working on the 1990 MEB form with the Education team.  Some work needs to be completed by the MEB team before we  proceed.  This work is currently slated for August 2024.
 

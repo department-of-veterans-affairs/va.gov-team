@@ -87,6 +87,8 @@ Participants were initially confused about the page header on the OHI upload scr
 
 > **P26:** “This extra form seems like it should be for Tricare, like if you have Blue Cross, Blue Shield, or something.”
 
+> **P8:** "It was fine up until they started asking for you to fill out government forms, like this 7959c form, everything was pretty clear cut. Then they're starting to ask for forms, now you're in a situation where they want more stuff than I can process on my own."
+
 ### **Finding 3**: The file upload summary page created for this form was well-received, but participants demonstrated some confusion about the difference between “optional” and “required” documents. 
 
 Participants demonstrated some confusion when it came to different documentation being labeled optional versus required.

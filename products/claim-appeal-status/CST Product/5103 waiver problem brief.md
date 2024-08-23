@@ -16,8 +16,8 @@ Update content to make clear what the button DOESN’T do, so that veterans don�
 Don’t provide the option to submit the waiver when there is no benefit to the veteran to do so; narrow the feature presentation to only those veterans it applies to.
 
 ### Open Questions
- If a veteran submits a 5103 waiver, are they unable to submit evidence after that point? Some veterans might delay exercising the option to submit the 5103 because they are concerned that they may not be able to submit any additional evidence if they needed to.
- If a veteran submits a 5103 waiver, does this prevent the VA from obtaining additional evidence? This is a common query that seems to come up.
+ - If a veteran submits a 5103 waiver, are they unable to submit evidence after that point? Some veterans might delay exercising the option to submit the 5103 because they are concerned that they may not be able to submit any additional evidence if they needed to.
+ - If a veteran submits a 5103 waiver, does this prevent the VA from obtaining additional evidence? This is a common query that seems to come up.
 
 ## How it currently works
 ### Steps to Reproduce

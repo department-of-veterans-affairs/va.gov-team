@@ -18,16 +18,15 @@ As per VAEC policy, AWS IAM Access Keys should be rotated every 60 days. Warning
     - Update `tevi/cms_service_account_2/aws_secret_access_key`
 
 1. Reach out in `#vetext-engineering channel` on slack when rotating `CMS-service-account-2`. VeTEXT Datadog uses that keypair for tracking vista-api.
-1. Update Datadog
+1. Update VeTEXT Datadog
     - Log in to Datadog
-    - Modify the [Amazon Web Services Inegration Configuration](https://tevi.ddog-gov.com/integrations?accountId=7f66207a-2e15-4496-b9fb-0572a40c2008&integrationId=amazon-web-services)
+    - Modify the [Amazon Web Services Inegration Configuration](https://vetext.ddog-gov.com/integrations?accountId=3cc380f9-59fd-4ba3-a29e-57104f85e65a&integrationId=amazon-web-services)
         - Navigate to `Integrations` > `Amazon Web Services` > `vaec-cms` account
         - At the bottom of the account details tab, update the `AWS Access Key` and `AWS Secret Key` with value from `CMS-service-account-2`
 ![Screenshot 2024-02-19 at 4 18 49 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/13967174/d14c2639-ef42-49b3-9c46-2f0792376989)
 1. Update github repos
     - [CHIP](https://github.com/department-of-veterans-affairs/chip/)
-    - [LoRota](https://github.com/department-of-veterans-affairs/lorota)
-    - [vista-api](https://github.com/department-of-veterans-affairs/octo-vista-api)
+    - [Vista API](https://github.com/department-of-veterans-affairs/octo-vista-api)
     - Navigate to `Settings` > `Secrets and variables` > `Actions`
     - Update `AWS_ACCESS_KEY_ID` and `AWS_ACCESS_KEY_SECRET` in `Repository secrets` with the value from `CMS-service-account-1`
 1. Wait 24-48 hours and verify the old key hasn't been used

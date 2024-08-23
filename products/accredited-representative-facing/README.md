@@ -2,17 +2,21 @@ _The nature of the content in this folder should conform to these [repository or
 
 # Accredited Representative Facing (ARF)
 
-The Accredited Representative Facing (ARF) team is a part of the Accredited Reps Crew within the OCTO Benefits Portfolio at the Department of Veterans Affairs.
+## About ARF
+
+The Accredited Representative Facing (ARF) team, part of the Accredited Reps Crew within the Office of the Chief Technology Officer (OCTO) Benefits Portfolio at the Department of Veterans Affairs (VA), supports Accredited Representatives in their work with Veterans.
+
+See the [VA Organigram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678236223248/ef60b22feff4aa22c594256683b81988abc1f181?invited=true&sender=u44da4f823ec94118a7079396) for a visual on where ARF sits within this organization.
 
 ## Mission
 
-We will create an accessible, modern, secure online system that Accredited Reps are comfortable using that will increase the use of digital forms and make a faster and smoother experience, improving Veterans' VA experience.
+Our mission is to create an accessible, modern, and secure online system for Accredited Representatives. We aim to streamline the use of digital forms, providing a faster and smoother experience for both representatives and the Veterans they serve, ultimately improving the overall VA experience.
 
 ## Product Resources
 
 ### Minimum Viable Product (MVP)
 
-Explore the specifics of the ARF MVP and its impact: [ARF Team MVP](/products/accredited-representative-facing/product-info/arf-minimum-viable-product.md).
+Explore the specifics of the ARF MVP and its impact: [ARF Team MVP](/products/accredited-representative-facing/product-info/minimum-viable-product.md).
 
 ### Roadmap
 
@@ -28,7 +32,14 @@ Access our ongoing documentation and collaborative resources on Google Docs: [AR
 
 Below are some documents worth calling out specifically:
 
-* [ARP Team Jargon](/products/accredited-representative-facing/product-info/arf-team-jargon.md).
+* [ARP Team Jargon](/products/accredited-representative-facing/product-info/team-jargon.md)
+
+Personas (in Mural):
+- [VSO representatives](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u8cf3f08a008c2b61ad621433)
+
+- [Accredited attorneys](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717533456497/60064424f651818203ff49ac43d6fb9f0f2bccac?sender=u8cf3f08a008c2b61ad621433)
+
+- [Accredited claims agents](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433)
 
 ## The Team
 

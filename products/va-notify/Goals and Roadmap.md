@@ -17,21 +17,26 @@ Restore Service.
 Please note, this is for the calendar year 2024.
 
 #### DORA
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/99204969/ab6f5714-9876-46ba-a2e5-ccc95896c5dd)
+[What is DORA?](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 
-Notify
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/99204969/c7985f18-ff8d-4354-b0e2-ba7feb068d8e)
+
+**Notify**
 | Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | Medium               | Medium                | High                | High                    |
-| Q2      |                      |                       |                     |                         |
+| Q2      | High                 | High                  | Elite               | Elite                   |
 | Q3      |                      |                       |                     |                         |
 | Q4      |                      |                       |                     |                         |
 
-Strike
+Notes:
+- Toward the end of Q2, Notify moved to on demand deployments due to our Continuous Delivery pipeline automation. We have had no deployment failures, though if we did we are confident we could quickly rollback and restore - hence our elite rating in those categories.
+
+**Strike**
 |Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | High                 | High                  | Elite               | Elite                   |
-| Q2      |                      |                       |                     |                         |
+| Q2      | Elite                | High                  | Elite               | Elite                   |
 | Q3      |                      |                       |                     |                         |
 | Q4      |                      |                       |                     |                         |
 
@@ -43,7 +48,7 @@ Very Satisfied (5) Satisfied (4) Neutral (3) Unsatisfied (2) Very Unsatisfied (1
 | Quarter | Average Score |
 |---------|---------------|
 | Q1      | 4.36          |
-| Q2      |               |
+| Q2      | 4.39          |
 | Q3      |               |
 | Q4      |               |
 

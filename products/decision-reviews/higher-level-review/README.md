@@ -1,9 +1,152 @@
-# Higher Level Review
+# Higher-Level Review - Aug 2024 Updates
 
+#### Overview
+
+ - Product: Higher-Level Review
+   - Initiatives: March 2024 OMB Updates
+ 
+---
+
+## Outcome Summary
+> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
+* Need to update digital application to match the content updates to the latest paper form
+
+**Related/Associated product(s)**
+- Product | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/README.md#hlr-product-outline)
+
+## Problem
+> *Describe the challenge / pain point you seek to address.:* 
+* Current application information is now out-of-date, and we're submitting a PDF that's will expire in March 2025
+
+<!--
+## Desired User Outcomes
+- Users are able to request with the most up-to-date form online
+
+## Undesired User Outcomes
+- Users are unable to submit their form online
+
+## Desired Business Outcomes
+- It's part of OCTOs priorities to keep forms up-to-date, within one year of OMB form updates.
+
+## Undesired Business Outcomes
+-->
+
+---
+## Measuring Success
+
+### Key Performance Indicators (KPIs)
+> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
+> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Maintained and/or decrease form error rates | Baseline | 0 | [Link](https://vagov.ddog-gov.com/dashboard/kiy-k3e-5ta/benefits---higher-level-reviews?fromUser=true&fullscreen_end_ts=1723039010131&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1720360610131&fullscreen_widget=6057318125087330&refresh_mode=sliding&view=spans&from_ts=1720359812406&to_ts=1723038212406&live=true) 
+- Decrease failed claims | Baseline | 0 | [Link](https://vagov.ddog-gov.com/dashboard/kiy-k3e-5ta/benefits---higher-level-reviews?fromUser=true&fullscreen_end_ts=1723038990462&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1722434190462&fullscreen_widget=7389534908363640&refresh_mode=sliding&view=spans&from_ts=1722434181808&to_ts=1723038981808&live=true)
+
+---
+
+## Discovery
+### Assumptions/Risks
+> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
+> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
+
+- **Value Risks** (will people use it): 
+  - No risk. It's an already existing product.
+- **Usability Risks** (can people figure out how to use it):
+  - Low to no risk. Form has already been in use. We separated a single question into two screens to simplify the content, so it should be easier.
+- **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - No risk, data being passed is the same as before. Lighthouse will update it so the generated PDF is using the latest PDF.
+  
+- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - It will match OMB paper form.
+
+### What're you building
+> *What's in scope for you to build with this initiative? Describe key features/flows. 
+> *What have you explicitly decided to **not** include and why?*
+> *How does this solution address your Assumptions & Risks?
+
+We are updating the content for the HLR form to match the latest OMB updates. There's been an update to language to better represent contact methods, as well as, call time availabilities.
+The scope of this update is still only to be available for disability compensation claims. It does not include the ability to submit a written statement.
+
+#### Go-to-market 
+> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+
+None
+
+--- 
+
+## Launch Planning
+### Collaboration Cycle
+> 💡 *Use for any Collab Cycle tracking, questions.*
+
+- Kickoff ticket
+
+### Timeline 
+> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
+#### Initiative Launch Dates
+- *Target Launch Date*
+  - Aug 19 2024
+- *Actual Launch Date* 
+  - tbd
+
+---
+   
+## Screenshots
+
+|         | Before | After |
+| ------- | ------ | ----- |
+| Intro | <img width="500" alt="before-intro" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/edf1fd70-6979-4157-b429-ab5c70749d63"> | <img width="500" alt="intro2" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/a8dc675b-25fd-450e-88ab-2b4dda3001fa"> |
+| Subtask start | <img width="500" alt="before-subtask-start" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/5d99e6b3-d8ae-489f-8f9a-cd9f022a47d0"> | <img width="500" alt="subtask-start" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/2374c5c5-0439-4b9f-856a-0f331788fc24"> |
+| Subtask other | <img width="500" alt="before-subtask-other" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/0211e770-4a72-4f0a-86ae-8a8951f4d4af"> | <img width="500" alt="subtask-other" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/2383842e-537d-4d79-a6e4-9829e0e56dfd"> |
+| Homeless | <img width="500" alt="before-homeless" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/a4026723-b0a8-469d-b4d6-0fca8cc73a7f"> | <img width="500" alt="homeless" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/8ebf6d0e-0949-498a-85d8-90b4078fba74"> |
+| Contestable issues | <img width="589" alt="before-contestable-issues" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/7276ba01-57aa-49cc-8a54-f91f398dc257"> | <img width="574" alt="contestable-issues" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/f990272d-362f-45b9-8a5b-3e24dc168101"> |
+| Area of disagreement | <img width="500" alt="before-disagreement" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/cc9148fb-9345-4ae2-b3e7-c31a17bb84b3"> | <img width="500" alt="disagreement" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/acb3b4b7-8d53-4f99-b5df-a3258d3f84e6"> |
+| Opt-in | <img width="500" alt="before-opt-in" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/d2563ec1-8b5e-4406-b4e8-b77d107b8970"> | <img width="500" alt="opt-in" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/262332d7-d222-4457-90cd-58a989983c6f"> |
+| Informal conference | <img width="500" alt="informal-conf-current" src="https://github.com/user-attachments/assets/17b3a096-682c-41d3-a22b-a8085e40aaf9"> | <img width="500" alt="informal-conf-new" src="https://github.com/user-attachments/assets/73c1b2ac-6fb5-482b-9078-7b3201cff3bc"> |
+| Informal conference choice (new page) | (none) | <img width="499" alt="choice-new" src="https://github.com/user-attachments/assets/4506c7c6-c719-40cd-8006-b8be1a57f974"> |
+| Rep time choice | <img width="500" alt="time-rep-current" src="https://github.com/user-attachments/assets/e081bc2f-5bff-4ccb-8a5c-9a487e662b2f"> | <img width="500" alt="time-rep-new" src="https://github.com/user-attachments/assets/0bbedfd3-3a91-4f8a-b890-9fcdbf87571a"> |
+| Vet time choice | <img width="500" alt="time-veteran-current" src="https://github.com/user-attachments/assets/ca57e8c6-bae9-423a-ac90-54cd29432f2a"> | <img width="500" alt="time-veteran-new" src="https://github.com/user-attachments/assets/efc02c31-bcd4-4ba3-a69a-5a112e50ff39"> |
+| Review & submit | <img width="500" alt="before-review-and-submit" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/e1cc826b-5236-4dc4-95e0-8bbf7642f665"> | <img width="500" alt="review-and-submit" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/a8037269-5cba-4ab9-9027-4bf456948eb8"> |
+
+---
+
+#### Communications
+*Where will you discuss this initiative?*
+
+<details>
+
+- Team Name: Benefits Decision Review
+- GitHub Label(s): Decision-Reviews-Team
+- Slack channel: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
+- Product POCs: Amy Lai, Julie Strothman, Eileen Chi
+
+</details>
+
+
+#### Stakeholders
+*What offices/departments are critical to make this initiative successful?*
+
+<details>
+  
+- Office/Department: VBA
+- Contact(s): Shireen Lackey, Jane Chi
+ 
+</details>
+
+---
+<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
+<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+
+<details><summary>HLR Form Launch 2021</summary>
+
+## HLR Product Outline
+  
 ## Communications
 - GitHub Label: [hlr](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
-- Slack channel: n/a ([#vsa-benefits-memorials](https://dsva.slack.com/channels/vsa-benefits-memorials))
-- Product POCs: Matt Self and Ronnie Henry
+- Slack channel: n/a ([#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK))
+- Product POCs: Amy Lai, Julie Strothman, Cory Sohrakoff
 - va.gov link: https://www.va.gov/decision-reviews/higher-level-review/
 - Physical form: https://www.vba.va.gov/pubs/forms/VBA-20-0996-ARE.pdf
 - Stakeholders: AMO (Jane Chi jane.chi1@va.gov, Lauren Sylvia Lauren.Sylvia@va.gov), Lighthouse (Kelly Lein Kelly.Lein@va.gov, Premal Shaw Premal.Shah@va.gov) and VBA (Paul Shute Paul.Shute@va.gov)
@@ -152,8 +295,10 @@ Details Here: https://github.com/department-of-veterans-affairs/va.gov-team/blob
 2. Front-end implementation complete.
 3. Back-end schema changes to LH API complete (8/17)
 4. Integration
+</details>
 
-
+<details><summary>HLR Form Refresh 8/2021</summary>
+  
 ## HLR Form Refresh - August 2021
 A new version of the form was released. All updates/tasks addressed in this ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/28113 
 
@@ -191,4 +336,4 @@ During UAT testing, we ran into a major issue where the contestable issues list 
 N/A
 
 ### After
-
+</details>

@@ -122,3 +122,20 @@ Questions:
 
 - Does need for tailored alternate signer experience depend on chance that person with the claim is dead or unable to sign the form?
 - For forms where this is not as likely, should we default to simple single user story with alternate signer questions at the end?
+
+## Forms that update to new version when users already have saved in progress forms
+
+Questions: 
+- Is it a product decision whether we need to alert users with in progress forms that the changes are happening?
+- How does this affect processing of the form on the backend, if we don't force people to start over?
+- If the updates are optional questions but may affect the decision on the form, do we have to alert people?
+- Maybe a general alert like "We're updating this form right now."
+- Should saved in progress forms always start at the beginning if there was a substantive update?
+- What counts as a substantive update to the form that would trigger this?
+- Provide an option to skip full review of the form?
+
+2 scenarios:
+- Required new questions that affect the decision on benefits — always bring person to first page or otherwise force them to see and answer the new questions
+- Optional new questions that may or may not affect decision on benefits — give user a choice on whether or not to review new questions
+
+

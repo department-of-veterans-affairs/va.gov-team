@@ -1,6 +1,77 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+
+## 8/20/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+* Feedback from VBA on Toxic Exposure Moderated Production Testing
+* T-REX lessons learned from TE Moderated Production Testing
+* [PII concern from Robin](https://dsva.slack.com/archives/CBU0KDSB1/p1724089667718119?thread_ts=1724089667.718119&cid=CBU0KDSB1)
+
+
+
+## 8/6/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+
+1. Jina - show content changes for 0781 (encouraging filling out new PDF while online version is being built out)
+   david - this looks ok. 
+   lisa - are we going to put anything about how online version isn't up to date? i don't feel like i'm being told why i'm being recommended the PDF
+   shannon - turn off validation on upload 0781 page so we don't require them (emily leans toward not changing that); we want to keep this small lift. PDF is less burden, faster, trauma informed but it's hard to explain succintly (which is why content is more handwaving).. we can see what happens. this is at least an incremental nudge that's imperfect but could be a good tradeoff
+   emily - tweak copy - you don't need to scan copy of your file for all folks (save as PDF instead). also add link to PDF on this page. check file types?
+   
+2. Emily - Is there a way to block the production "moderated testing" cases from being sent to Mail Automation?
+
+* When performing Moderated Production Testing (MPT), we don’t want the submission to ping the service that triggers Mail Automation. This is part of Rapid Ready for Decision (RRD). T-REX can create a toggle to prevent this from happening.
+* We also want to prevent an ITF from being created
+* We don’t want testers to fill out a 4142, so exclude this from the test cases
+* We should have a test case that includes uploading fake evidence documents. We’ll provide an image file for testers to use
+* We want to prevent the backup path being triggered, as this would trigger a human creating a claim and we won’t have the ability to delete it as soon as it comes through. Ideally we should block this from happening.
+
+3. Jared - How might we delete the submitted claims in VBMS? Who can do this? Similar to Emily's question. How will we communicate with potential testers?
+* Kevin, VBA will help with deleting a claim. He’ll cancel the EP and delete documents. Matt can help as needed.
+* To help Kevin, provide him a screenshot of the Review & Submit screen form data, or if needed provide him with the raw formDatta JSON
+* Emily will create a spreadsheet to track test cases - this will help us understand if the submitted data is the same as the claim in VBMS & the PDF
+* T-REX to edit the MPT email/Slack script to include that we’ll need volunteers to send their file number and email address to Kevin over a Teams chat or an encrypted email.
+
+
+## 7/23/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+1. the toxic exposure testing plan (logistics of how we create/cancel claims in prod) and release timing!
+2. why don't we ask service connection question for PTSD/mental health conditions?
+Initial conditions questions are really driven based on avenues of service connection (direct, secondary, aggravataion)
+Avenues of service connections are used to determine what further questions are asked
+What if we added a 5th option "this was caused by a traumatic event", and ustomize radio button option to show only for mental health conditions? 
+The service connection questions still need to be there for the PTSD and mental health conditions. Down the line we can get into the 0781 questions
+4. currently, POW is in step 2 conditions. we noticed on paper 526, it's under "service information / service history." could we move POW question to step 1 of digital 526?
+Kevin agrees that POW in step 2 seems disjointed and agrees with moving it to the step 1 
+
+## 7/09/24 Biweekly VBA-DBEX Check-in
+### Notes
+1. (Q12) Is there a distinction between "medical reports" in this list vs. records from VA or non-VA health care providers? We're trying to see if we can remove this checkbox if it is redundant with medical records. [(wireframe)]([url](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4536-52527&t=t3GiM6ziyALYrIEO-1)) 
+- ex. medical report from ambulence, we'd still need 4142 to get that record
+- would not remove it (context thing, indication, reminder to veteran to submit it esp if they didn't complete 4142). leave it even if a little redundant
+- especially if they fill out 4142 after, we can indicate later in the 4142 "you indicated you'd provide medical reports.."
+- military physicians would already be in STR 
+- is civilian physician a private healthcare provider? -> yes
+2. (Q10) Behavioral changes section is optional for combat-only. Could it still be beneficial? We're trying to figure out if we should add conditional logic that skips this section, or still present it regardless. [(wireframe)]([url](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4438-57597&t=t3GiM6ziyALYrIEO-1)) 
+- if we can prove combat, we don't need any of these other markers. "i hate hiding parts of the form, but i also see this is a long list.. is there an in between option? giving content instruction"
+- RVSRs don't want people telling them if it's combat or not. David agrees with sentiment that we don't want to assume it's as obvious as we think 
+- Would rather see list than skip it, with caveat that "you indicated combat only, you may skip this section"
+- Once a veteran identifies combat and we have other evidence to support that (DD214,medals); these questions are bonus but most decision makers won't see this as providing value 
+3.0781 Research timeline update
+4. (If time) Walkthrough of 0781 prototypes
+- Does adding another treatment record create separate 4142? Because on paper form, there's only one 4142 per provider
+- What are we doing right now? Look into what happens if someone fills out multiple providers 
+- 4142a has space for several different providers and facilities 
+- David's clear front runner is option B (additional forms page), adds simplicity and anytime we give veterans more context what form they're filling out, it's better. Emily also likes this option 
+- Add conditional - you either need to complete form or delete it to continue 
+
 ## 6/11/24 Biweekly VBA-DBEX Check-in
 ### In attendance
 

@@ -2,16 +2,16 @@
 
 This document serves as an reference for Sign in Service (SiS) related errors.
 
-<summary>
-  <h2>⛑️ Client</h2>
-  <p>This represents a table of possible error codes that a client of SiS might see.</p>
-</summary>
+<h2>⛑️ Client</h2>
+<p>This represents a table of possible error codes that a client of SiS might see.</p>
+<details>
+  <summary>Client Errors</summary>
 
-## Authorize - [`/sign_in/authorize`](./endpoints/authorize.md)
+## Authorize - [`/sign_in/authorize`](../Engineering%20Docs/endpoints/authorize.md)
 
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Client id is not valid** | The `client_id` parameter is not present or not valid | `client_id` must match a saved [ClientConfig](../configuration/client_config.md)'s ' `client_id` |
+| 400 | **Client id is not valid** | The `client_id` parameter is not present or not valid | `client_id` must match a saved [ClientConfig](../Engineering%20Docs/Authentication%20Types/Client%20Auth%20(User)/configuration/client_config.md)'s ' `client_id` |
 | 400 | **Type is not valid** | The `type` parameter is not present or not valid | `type` must be either `logingov`, `idme`, `dslogon`, or `mhv` |
 | 400 | **Operation is not valid** | The `operation` parameter is not valid | `operation` muster be either `authorize` or `sign_up` |
 | 400 | **ACR is not valid** | The `acr` parameter is not present or not valid | `acr` must be either `min`, `ial2`, `loa3` |
@@ -19,7 +19,7 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 | 400 | **Code Challenge Method is not defined** | The `code_challenge_method` parameter is not present or not valid | `code_challenge_method` must be present and not empty or malformed |
 | 400 | **Attributes are not valid** | The JWT encoding of the SiS payload was not valid | If passed, `state` must be a minimum of 22 characters
 
-## Callback - (Client: `/sign_in/callback`, vets-website: `/auth/login/callback`)
+## Callback - Client: `/sign_in/callback`, vets-website: `/auth/login/callback`
 
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
@@ -37,33 +37,33 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 | 106 | **Multiple Corp IDs** | The user's account contains multiple Corp IDs | Contact helpdesk to resolve data issue |
 | 107 | **Locked Account** | The user's account has been locked | Contact helpdesk to resolve account status |
   
-## Token Exchange - [`/sign_in/token`](./endpoints/token.md)
+## Token Exchange - [`/sign_in/token`](../Engineering%20Docs/endpoints/token.md)
 
 ### End User Tokens
 
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Grant Type is not valid** | The `grant_type` parameter is not presentd | `grant_type` must be present and formatted according to [PKCE](../endpoints/token.md#authorization-parameters-1) or [JWT](../endpoints/token.md#authorization-parameters-2) specifications  |
+| 400 | **Grant Type is not valid** | The `grant_type` parameter is not presentd | `grant_type` must be present and formatted according to [PKCE](../Engineering%20Docs/endpoints/token.md#pkce-authorization-parameters) or [JWT](../Engineering%20Docs/endpoints/token.md#private-key-jwt-authorization-parameters) specifications  |
 | 400 | **Code is not valid** | The `code` parameter is not valid | `code` must not be empty or malformed |
-| 400 | **Code Verifier is not valid** | The `code_verifier` parameter is not present or does not generate the same result as the saved `code_challenge` | `code_verifier` must be present and match the saved `code_challenge`. [Previous](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/72975) investigations of this error. |
-| 400 | **Code Verifier is malformed** | The `code_verifier` parameter could not be used to generate a valid `code_challenge` | Ensure the `code_verifier` is [properly formatted](../endpoints/token.md#code-verifier--code-challenge)
+| 400 | **Code Verifier is not valid** | The `code_verifier` parameter is not present or does not generate the same result as the saved `code_challenge` | `code_verifier` must be present and match the saved `code_challenge` |
+| 400 | **Code Verifier is malformed** | The `code_verifier` parameter could not be used to generate a valid `code_challenge` | Ensure the `code_verifier` is [properly formatted](../Engineering%20Docs/endpoints/token.md#code-verifier--code-challenge)
 | 400 | **Credential is locked** | The user credential has been locked from authorizing with `vets-api`. | Switch credentials or contact the Identity team for more information |
 | 400 | **Terms of Use has not been accepted** | The user has not accepted the current version of the VA.gov Terms of Use | Switch users or create a Terms of Use Agreement for the selected user |
 
-### Service Account Access Token
+### Service Account (STS) Access Token
 
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
-| 400 | **Service account config not found** | The `service_account_id` did not match to a saved ServiceAccountConfig | `service_account_id` must match a saved[ServiceAccountConfig](../configuration/service_account_config.md) |
+| 400 | **Service account config not found** | The `service_account_id` did not match to a saved ServiceAccountConfig | `service_account_id` must match a saved [ServiceAccountConfig](../Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/configuration/service_account.md) |
 | 400 | **Assertion issuer is not valid** | The `iss` did not match the ServiceAccountConfig's `access_token_audience` | Assertion `iss` must match ServiceAccountConfig's `access_token_audience` |
 | 400 | **Assertion audience is not valid** | The `aud` did not match the SiS `/token` route | Assertion `aud` must match `<vets-api-env>/v0/sign_in/token` |
 | 400 | **Assertion scopes are not valid** | One or more assertion `scopes` are not present in ServiceAccountConfig's `scopes` | All `scopes` must be present in ServiceAccountConfig's `scopes` |
 | 400 | **Assertion user attributes are not valid** | One ore more assertion `user_attributes` are not present in ServiceAccountConfig's `user_attributes` | All `user_attributes` must be present in ServiceAccountConfig's `user_attributes` |
 | 400 | **Assertion body does not match signature** | Assertion JWT was not properly signed with a private key matching ServiceAccountConfig's public `certificates` | Ensure assertion JWT is properly signed with a private key matching the ServiceAccountConfig's public `certificates` |
 | 400 | **Assertion has expired** | Assertion JWT `exp` is earlier than current time | Generate new Assertion JWT with updated timestamp |
-| 400 | **Assertion is malformed** | SiS is unable to decode the Assertion JWT | Make sure [Assertion JWT is properly formatted](../auth_flows/service_account.md#signed-service-account-assertion) and signed with client's private key |
+| 400 | **Assertion is malformed** | SiS is unable to decode the Assertion JWT | Make sure [Assertion JWT is properly formatted](../Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/auth_flows/service_account.md#signed-service-account-assertion) and signed with client's private key |
 
-## Refresh - [`/sign_in/refresh`](./endpoints/refresh.md)
+## Refresh - [`/sign_in/refresh`](../Engineering%20Docs/endpoints/refresh.md)
 
 | Status Code | Error | Description | Fix |
 | --- | --- | --- | --- |
@@ -75,12 +75,53 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 | 400 | **Terms of Use has not been accepted** | The user has not accepted the current version of the VA.gov Terms of Use | Switch users or create a Terms of Use Agreement for the selected user |
 | 400 | **Anti CSRF token is not valid** | `anti_csrf_token` is missing or does not match the `refresh_token`'s record | Pass `anti_csrf_token` returned from `/token` endpoint |
 | 400 | **No valid Session found** | The session tied to the `refresh_token` cannot be found| Perform a new authentication to start a new session |
-| 400 | 'Token theft detected' | The `refresh_token` or its parent are not tied to the session | Clear cookies & cache, try again |
+| 400 | **Token theft detected** | The `refresh_token` or its parent are not tied to the session | Clear cookies & cache, try again |
 
-<summary>
-  <h2>💢 General errors</h2>
-  <p>This represents a table of possible error codes that occur behind the scenes</p>
-</summary>
+## Revoke - [`/sign_in/revoke`](../Engineering%20Docs/endpoints/revoke.md)
+
+| Status Code | Error | Description | Fix |
+| --- | --- | --- | --- |
+| 400 | **Refresh token is not defined** | This occurs if the Refresh Token is not found in the cookies or passed via parameters | Clear cookies & cache, try again |
+| 400 | **Refresh token version is invalid** | The refresh token's version does not match the encrypted component's | Clear cookies & cache, try again |
+| 400 | **Refresh nonce is invalid** | The refresh token's nonce does not match the encrypted component's | Clear cookies & cache, try again |
+| 400 | **Refresh token cannot be decrypted** | SiS is unable to decode the refresh token | Clear cookies & cache, try again |
+| 400 | **Anti CSRF token is not valid** | `anti_csrf_token` is missing or does not match the `refresh_token`'s record | Pass `anti_csrf_token` returned from `/token` endpoint |
+| 400 | **No valid Session found** | The session tied to the `refresh_token` cannot be found | Perform a new authentication to start a new session |
+| 400 | **Token theft detected** | The `refresh_token` or its parent are not tied to the session | Clear cookies & cache, try again |
+
+## Revoke All Sessions - [`/sign_in/revoke_all_sessions`](../Engineering%20Docs/endpoints/revoke_all_sessions.md)
+
+| Status Code | Error | Description | Fix |
+| --- | --- | --- | --- |
+| 401 | **Session not found** | No session was found matching the access token's `session_handle` | Perform a new authentication to start a new session |
+| 401 | **Access token JWT is malformed** | SiS is unable to decode the access token, or it is missing | Make sure access token is complete & properly sent |
+| 403 | **Access token has expired** | The access token used to validate has expired | Use `/refresh` to obtain new tokens or perform a new authentication to start a new session |
+
+## Logout - [`/sign_in/logout`](../Engineering%20Docs/endpoints/logout.md)
+
+| Status Code | Error | Description | Fix |
+| --- | --- | --- | --- |
+| 400 | **Client id is not valid** | The `client_id` parameter is not present or not valid | `client_id` must match a saved [ClientConfig](../Engineering%20Docs/Authentication%20Types/Client%20Auth%20(User)/configuration/client_config.md)'s ' `client_id` |
+
+~~~text
+Other `/logout` errors will *not* result in an error being returned, but rather an attempt to
+  1.) Redirect to the URI set in the `ClientConfig`'s `logout_redirect_uri`
+  2.) Return a `200 OK` status if no redirect URI is configured.
+  
+The following error case scenarios are covered by this behavior.
+  - Access token JWT malformed
+  - Access Token JWT expired
+  - Session not authorized
+  - Session not found
+~~~
+
+</details>
+
+<h2>💢 General</h2>
+<p>This represents a table of possible error codes that occur behind the scenes</p>
+
+<details>
+  <summary>General Errors</summary>
 
 ### Access Token JWT Decoder
 
@@ -177,3 +218,5 @@ This document serves as an reference for Sign in Service (SiS) related errors.
 | --- | --- | --- | --- |
 | 400 | **Invalid Session Handle** | An active session with the `access_token`'s `sesion_handle` could not be found | Clear cache & cookies, try again |
 | 400 | **Invalid User UUID** | - | - |
+
+</details>

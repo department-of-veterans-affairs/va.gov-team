@@ -1,5 +1,72 @@
 # Running Agenda for IVC Forms Production Readiness Sync
 
+# 2024-07-23
+## Agenda
+- Test email changes
+- Overall form testing
+- Add User Identity tracking to other forms like 10-10D for DD
+
+## Notes
+
+# 2024-07-09
+## Agenda
+- Extensions that aren't .PDF are missing from file_names in the IvcChampvaForm data table.
+   - Might not be an issue with what Cindy said in her email but worth noting.
+- I [Bryan] placed an elaborate 10-10D submission with PNG, JPEG and PDF supporting docs
+   - Cindy is likely still looking into this as I write this.
+   - We need to make sure that they get these documents and know how they are grouped. Right now they all have their own form_UUID, I wonder if we need to group them but we'll know when Cindy gets back to us.
+- Form Status Email Verbiage
+  - Is anyone working on this yet? The emails are still generic with Lorem ipsum.
+- Form resubmission
+   - Now that we have a bunch of forms without a PEGA response waiting in staging, can we get them through the process to see how that works?
+   - If we need something to be able to do this, what do we need?
+- Cypress tests
+   - What's the best way to see what test cases are already in place?
+   - What's the best way to add new ones?
+   - Maybe we can write up a guide for this?
+- TestRail
+   - Working session to see what capabilities we have here?
+- Load Testing for S3 bucket
+- Documentation for reading and creating monitors in Datadog
+- Double check numbers in the Datadog dashboard. Audit the form.s
+
+## Notes
+- Action items
+   - Ticket to look into extensions for non-PDF files
+   - Confirm that a form and its supporting docs use the same UUID (Don already looking into this)
+   - Ticket to monitor how many users are giving email
+   - Check in with PEGA team about their load testing
+   - Backlog items for duplicating monitoring into prod
+      - Update slack alerts so that prod alerts rather than staging
+   - Check with Premal on ATO
+   - Meeting to review eng recommendations
+
+# 2024-06-11
+## Agenda
+- Previous action items
+   - Set up meeting with OCTO engineers to review recommendations and actions taken (Bo)
+      - Schedule now, wait for Premal, do it async?
+   - Check in with Adrien for clarification on PDF validation (Bo)
+      - How is this validation impacted by multiple PDFs (e.g. >3 10-10d applicants)
+- Reminder - [Sprint & Release Planning](https://docs.google.com/spreadsheets/d/1miQJuXb_AkQ0GNkU8B-Wqexl_p-dgjrb_3NeO6swH0g/edit?gid=1379257114#gid=1379257114)
+- [Security readiness review - intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78216)
+- Monitoring: [See example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Existing%20Monitors%20and%20Alerts.md) and [additional info](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitoring-performance)
+- [Load testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/load-tests)
+- SOP for submit errors
+   - Logging
+   - Reporting
+   - Business process
+- SLA for IVC Forms - PEGA
+   - Downtime procedures
+   - Error reporting
+   - Product will draft
+## Notes
+- Action items
+   - Set up meeting with OCTO engineers to review recommendations and actions taken (Bo)
+   - Create ticket for Don to investigate load testing (Bo)
+   - Refine ticket for PDF validation (Bo)
+   - Diagram/document s3 backup that Premal is looking into (Bo)
+
 # 2024-06-11
 ## Agenda
 #### Attendees: Bo, Michael, Devi, Bryan, Don, Mary, Rachel

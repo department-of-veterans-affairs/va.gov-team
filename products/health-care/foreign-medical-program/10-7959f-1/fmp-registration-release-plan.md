@@ -67,6 +67,10 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
+### Internal testing
+- whitelist internal emails to allow submissions
+- end user PEGA testing
+
 ### Stage A: Canary
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*

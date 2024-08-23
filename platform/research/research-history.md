@@ -1,7 +1,7 @@
 ----
 
 # This documentation has moved! 
-### [The latest version of this page](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1) is found in the research repo!
+### [The latest version of this page](https://github.com/orgs/department-of-veterans-affairs/projects/880) is found in the research repo!
 
 ### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
 
@@ -164,7 +164,7 @@ Note: this document does not include research history for Appeals projects, whic
 *Caregivers, Research Lead: Dené Gabaldón*
 
 - Number of participants: 1 pilot, 8 participants (6 Veterans, 3 POAs)
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery)
 - List of keywords: Veterans, POA, health care, application
 
 ### April 2021
@@ -276,7 +276,7 @@ Note: this document does not include research history for Appeals projects, whic
 *VA Online Scheduling, Lead Researcher: Peter Russo*
 
 - Number of participants: 5
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test)
+- [Link to the research folder]([https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/jan-2021-appts-list-test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2021-01-appts-list-test))
 - Appointments, Scheduling, VAOS, Dashboard, Home page
 
 
@@ -310,7 +310,7 @@ Note: this document does not include research history for Appeals projects, whic
 
 - Number of participants: 8
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/Usability%20Testing)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/iris/research/usability-testing)
 
 - Keywords: IRIS, contact us form, inquiry
 
@@ -337,7 +337,7 @@ Note: this document does not include research history for Appeals projects, whic
 
 -16 participants (4-8 therapists / social workers. 8-12 veterans)
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/nov-2020)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/archive/nov-2020)
 
 
 
@@ -351,7 +351,7 @@ Note: this document does not include research history for Appeals projects, whic
 *VAOS, Peter Russo*
 
 - 8 Veterans
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery/research-plan-cc-discovery.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability)
 - Scheduling, Appointments
 
 #### November 6 - November 20: Community Care Request Manager Research
@@ -429,11 +429,11 @@ Note: this document does not include research history for Appeals projects, whic
 #### August 10-14 Patient Generated Data Discovery Research
 *VA Lighthouse APIs: Lauryl Zenobi*
 - 9 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Health%20Research/2020-08-Perception-of-Patient-Generated-Data-with-veterans)
 **Key words:** Veterans, Clinicians, PGD, Wearables, Data-sharing, Clinical workflows
 
 
-#### August 10 - 12
+#### August 10 - 12 COVID Vaccine Trial Enrollment
 *CTO health team: Ryan Thurlwell*
 
 - 6 participants (out of 8), 1 round
@@ -458,8 +458,7 @@ Note: this document does not include research history for Appeals projects, whic
 *DEPO team, Melissa Schaff*
 
 - 15 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research)
-- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2020-07-vaos-mvp-and-express-care-user-research)
 
 **Keywords**: vaos, vaosr, online scheduling, express care, covid, coronavirus, user research, usabilty testing
 
@@ -478,7 +477,7 @@ Note: this document does not include research history for Appeals projects, whic
 *Ad Hoc: Carey Otto, Evangeline Garreau, Maria Vidart-Delgado
 
 - 11 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/privacy/connected-accounts)
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Veteran%20User%20Research/2020-06-Connected-Accounts-with-Veterans)
 
 ### June 2020
 

@@ -4,6 +4,15 @@
 
 Reduce time taken in completing the 10-10EZ application and increase the number of overall submissions.
 
+### Figma Links
+| Purpose | Form | Figma Link |
+|-----------------------------------------------------------|-----------------|-----------------| 
+| Veteran information - short form flow | 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=894-62087&t=IpLg1IDdkWSE1NCM-1) |
+| Military service - short form flow | 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=2241-138086&t=IpLg1IDdkWSE1NCM-1) |
+| Insurance information - short form flow unauthenticated | 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3529-98034&t=IpLg1IDdkWSE1NCM-1) |
+| Insurance information - short form flow authenticated | 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=1014-67898&t=IpLg1IDdkWSE1NCM-1) |
+
+
 **Related/Associated product(s)**
 - Product | [10-10EZ  product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 

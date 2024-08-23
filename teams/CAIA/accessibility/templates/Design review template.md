@@ -1,33 +1,104 @@
-# [Design Review a11y findings]: Product team 
-- [Prototype link](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/p/B7F2215E-001C-41F3-B803-9DFD96E7B129/canvas) 
-- [#benefits-non-disability](https://dsva.slack.com/archives/C057W3N9K2S)  
+> [!CAUTION]
+> This is a work in progress.`REMOVE WHEN DONE`
+
+# [Design Review] a11y findings -  [Team Name]
+- **Product Name:** `PRODUCT NAME GOES HERE` 
+- **Prototypes:**
+    - [Mobile Prototype](link)
+    - [Desktop Prototype](link)
+- **Team Slack Channel:** [channel-in-slack](link) 
+- **CAIA Intake Ticket:** [#00000](Link)
+- **CAIA a11y Design Review Ticket:** [#00000](Link)
+- **Date of Review:** `PENDING START`
+- **Status of Review:** `PENDING START`
+
+## CAIA A11Y Auditor(s)
+- `TBD`- Mobile
+- `TBD`- Desktop
 
 ## Product team
-- OCTO-DE product owner:  Emily Theis
-- Product manager: Laura Steele 
-- Designer: Fiorella Glavez 
+- Team name: 
+- OCTO product owner: 
+- Product name: 
+- Product manager:
+- UX:
+- Accessibility specialist:
+- Content specialist:
 
-## Auditor(s)
-- SK (Sarah Koomson)
-- Sara Smith
-- Jamie Klenetsky Fay 
+## Design Review Coverage 
 
-## Testing Coverage: 
+CAIA will review the two prototypes for accessibility issues and make recommendations to the 'TEAM NAME`. 
+
+- [ ] [Mobile Prototype](LINK)
+- [ ] [Desktop Prototype](LINK)
+
+ > [!TIP]
+> - Here are the [tools CAIA uses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2e5a0a08bd51ae3258de4c9f37754f907e938586/teams/CAIA/accessibility/tools-we-use.md#tools-we-use) during our reviews.
+> - We also review designs to make sure they are following the [Design System's guidance with respect to components and patterns.](https://design.va.gov)
+> - We recommend teams use the [VA Experience Standards](https://design.va.gov/about/experience-standards/) as a framework, when building products. 
  
- Full review of updates for 530EZ Burial Form 
+
+## Mobile Prototype
  
-### Manual
- * [x] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
- * [x] Color blindness checks
- * [x] Buttons vs links
- * [x] Cognitive flow
- * [x] Design consistency across screens
+- [ ] Run axe checks on every page or unique state (required)
+- [ ] Color contrast checks
+- [ ] Color blindness checks
+- [ ] Tab order
+- [ ] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, I will start reducing them until they become stable, and log the zoom ratio when things started breaking.
+- [ ] Keyboard navigation
+- [ ] Windows, Chrome, JAWS
+- [ ] MacOS, Safari, VoiceOver
+
+
+### Mobile Results and Recommendations
+
+<details><summary>Keyboard navigvation example </summary>
  
-### Screen Reader
- * [x] Behavior & navigation advice 
+#### Keyboard navigation example
+`If there are` focus issues while tabbing using a keyboard:
+- **Page** `NA`
+   - Finding
+   - Finding
+   - **Recommendation(s):** `NA`
+- **Page** `NA`
+   - Finding
+   - Finding
+   - **Recommendation(s):** `NA`
+</details>
+
+## Desktop Prototype
+ 
+- [ ] Run axe checks on every page or unique state (required)
+- [ ] Color contrast checks
+- [ ] Color blindness checks
+- [ ] Tab order
+- [ ] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, I will start reducing them until they become stable, and log the zoom ratio when things started breaking.
+- [ ] Keyboard navigation
+- [ ] Windows, Chrome, JAWS
+- [ ] MacOS, Safari, VoiceOver
+
+
+### Desktop Results and Recommendations
+
+<details><summary>Keyboard navigvation example </summary>
+ 
+#### Keyboard navigation example
+`If there are` focus issues while tabbing using a keyboard:
+- **Page** `NA`
+   - Finding
+   - Finding
+   - **Recommendation(s):** `NA`
+- **Page** `NA`
+   - Finding
+   - Finding
+   - **Recommendation(s):** `NA`
+</details>
 
 ## Findings
 
+`ADDITIONAL METHOD FOR REPORTING FINDINGS`
+
+### EXAMPLES
 - [x] Findings Identified: `Completed`
     - [ ] Major (defects 0-2): `The review has not been completed. `
     - [x] Minor (defect 4): `The review has not been completed. `

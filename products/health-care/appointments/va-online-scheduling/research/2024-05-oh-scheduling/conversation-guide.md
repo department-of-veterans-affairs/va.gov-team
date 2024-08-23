@@ -17,9 +17,9 @@ Note to observers in thread:
 
 ## Intro - 5 minutes
 
-Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ______.
+Thanks so much for joining today. My name is Melissa, very nice to meet you. I'm here with my notetaker ____________.
 
-Today I'm going to ask you to help test out the unified scheduling portal on VA.gov. Your feedback will help our team understand how to improve the site for Veterans in the future.
+Today I'm going to ask you to help test out scheduling on VA.gov. Your feedback will help us understand how to improve the site for Veterans in the future.
 
 I also have a few people on the team who are interested in listening in to our session as observers. They're in the Zoom waiting room. It's completely fine if you choose to have the session without observers, so let me know what you'd prefer. Do you feel comfortable with having observers listen in on the session?
 
@@ -29,11 +29,11 @@ Okay, I've let the observers in. Could the observers come on camera for a second
 
 Before we begin, I want to give you some background on how today's session will go. Please stop me if you have any questions:
 
-- You will be testing out the unified scheduling portal on VA.gov using a prototype. None of your actions will affect your actual VA information or benefits. Because this is a prototype, there will be some information that is inaccurate.
+- You will be testing out scheduling on VA.gov using a prototype. None of your actions will affect your actual VA information or benefits. Because this is a prototype, there will be some information that is inaccurate.
 - I will have you share your screen and ask you to complete various tasks and give feedback as you go.
-- Please know that there are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the scheduling portal, not you.
+- Please know that there are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the scheduling tool, not you.
 - There is no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
-- My priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
+- I understand that discussing medical topics even if it is just hypothetical can be difficult at times and my priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
 - This entire session will take no more than 60 minutes. I'll keep an eye on the time and try to keep us moving along so that we don’t go over.
 - Finally, I would like to record the session. We use recordings to make sure our notes are accurate. The recordings will be destroyed after we've completed the study.
    - Given that, is it ok if I record the screen and the audio during our session today?
@@ -52,7 +52,7 @@ Just to confirm on the record, do I have your permission to record the session t
 
 Thank you!
 
-As I said, today you will be interacting with a prototype of the unified scheduling portal. In order to do that, I’ll need you to share your screen.
+As I said, today you will be interacting with a prototype the scheduling tool on VA.gov. In order to do that, I’ll need you to share your screen.
 
 I’ll walk you through the process of sharing your screen, then I'll send you a link to the prototype.
 
@@ -60,9 +60,16 @@ I’ll walk you through the process of sharing your screen, then I'll send you a
 
 * Great, that helps me troubleshoot with you if we run into any problems.
 
+Are you familiar with the My VA health portal? Do you go to any of the following VAs: 
+Mann-Grandstaff VA Medical Center in Spokane, Washington
+Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
+VA Central Ohio Healthcare System in Columbus, Ohio
+Roseburg VA Health Care System in Roseburg, Oregon
+VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
+
 Now I'm going to have you share your screen, and then I'll send you a link to a prototype so we can look at that together.
 
-* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=&type=design&node-id=3706-84910&viewport=-1534%2C476%2C0.16&t=BeRNl3a5N7GfhYSb-1&scaling=min-zoom&starting-point-node-id=3706%3A84910&mode=design)
+* Use chat to send user [link to desktop prototype.](https://www.figma.com/proto/1dSk9a4KDxqxKzgRDmXyPu/Prototype%3A-Scheduling-improvements--%7C-Appointments-FE?page-id=4279%3A28230&node-id=4279-29644&viewport=387%2C210%2C0.03&t=6zLyw5Xz3C1KA6gj-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4279%3A29644)
 
 * Use chat to send user [link to mobile prototype.](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=2236%3A60173&type=design&node-id=2447-132766&viewport=457%2C427%2C0.16&t=77eZwwjIykTZ6rPe-1&scaling=min-zoom&starting-point-node-id=2447%3A132766&mode=design)
 
@@ -81,66 +88,213 @@ Thanks!
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
 ## 1: Type of Care - Food and nutrition 
-Path they will take: Start scheduling> Alert for urgent care> I need a different appointment>Nutrition and food> (sort by home address) Grove City, OH>PID 6/11> 7/22> Reason for appointment> confirm contact>review details> Confirmation page, not go to review appointemnts
 
-Prompt: You need to schedule an appointment, how would you do that?
+**Path they will take: **
 
-On the first timer immediate care alert page: What is this page all about? What would you do here?
+1. Start scheduling
+2. Alert for urgent care
+3. I need a different appointment
+4. Nutrition and food
+5. Choose a location
+6. Grove City, OH
+7. Sarah Bennett
+8. PID 8/11
+9. 8/22 12pm
+10. Reason for appointment
+11. Confirm contact
+12. Review details
+13. Confirmation page
+14. Review appointments
 
-On the Schedule an appointment page: What do you think you can do on this page? Would scheduling with a clinc or provider you have seen in the past be helpful for you?  
-You need a food and nutrition appointment. How would you schedule that?
+**Begin prototype**
 
-On the Choose a location page: Do you see how these locations are sorted? What do you think that means? Is sorting by recent location something you would want or would you change how it is sorted to something else? Go ahead and change it to sort by home address and find grove city, OH andcontinue.
+Prompt: Tell me about this page (Appointment list page).
 
-On the PID page: You need an appointment for 6/11 date show me how you would schedule that.
+Prompt: Tell me about what is at the top of the page. What do you think each of those icons and buttons do in the dark blue area with the VA logo?
 
-Choose a date and time page: What do you think this page is? How is it differnt from the last page? You want to schedle for the 7/22 at 12. 
-If you wanted to find a date in December, can you explain what would you do? (do they want to go back to PID or toggle through the months?)
+Prompt: How would you schedule an appointment from here?
 
-(Have them finish making the appointment)
+**First time scheduling immediate care alert** 
 
-Confirmation screen: Is this enough information for you to go off of to get to your appointment?
+Prompt: Tell me about this page. 
 
+Question: Can you go through what you think would happen if you click each of these buttons or links? Just describe what you think, they are not connected to anything. 
 
+Question: Is there anything here you see that you don't think is useful?
+
+Question: What do you expect the "Don't show this again" option would do?
+
+Question: How do you feel about this page?
+
+Prompt: Continue scheduling your appointment.
+
+**Schedule an appointment** 
+
+Prompt: Tell me about this page.
+
+Question: How would you expect these to be organized?
+
+Prompt: You need a food and nutrition appointment. How would you schedule that? 
+
+ **Choose a location page** 
+
+Prompt: Tell me about this page.
+
+Question: How are these locations sorted? 
+
+Question: What does "recent locations" mean to you? 
+
+Question: Would there be anything confusing about having your facilities sorted this way? 
+
+Question: Is there any other information you want to see here?
+
+Prompt: Now sort the list by home address
+
+Question: What are your thoughts comparing how this is sorted compared to the recent locations?
+
+Prompt: Select Grove City, OH
+
+**Choose a Provider page** 
+
+Question: Why do you think these two providers are displayed here? 
+
+Explaination to follow up with: Sarah Bennett is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily Larson in the past on occasion. 
+
+Prompt: Tell me about this page.
+
+Question: What would you want to add, change, or remove on this page?
+
+Question: How do you feel about this page?
+
+Question: If you wanted to schedule with someone else, what do you think that would do?
+
+**PID page** 
+
+Prompt: Tell me about this page.
+
+Prompt: You would like an appointment for 8/11 date. Show me how you would schedule that.
+
+**Choose a date and time** 
+
+Prompt: Tell me about this page.
+
+Question: How is this different from the last page? 
+
+Question: If you wanted to find a date in December, can you explain what would you do? (do they want to go back to PID or toggle through the months?)
+
+Prompt: You want to schedule for the 8/22 at 12. 
+
+**Finish making the appointment**
+
+Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
+
+**Review screen:**
+
+Question: Is there anything else you would like to see here? 
+
+Question:  Is anything confusing here?
+
+**Confirmation screen:**
+
+Question: Is there anything else you would like to see here? 
+
+Question:  Is anything confusing here?
+
+Prompt: Now you would like to go back to see a list of your appointments. How would you do that?
 
 #### Things to watch for:
-
-
-- _Can participant understand the information on the details page?_
+- First time using the tool, they will get a "do you need immediate care" alert. What are their interactions with the alert, any thoughts?
+- Sorting their facilities by Recent locations, what are their thoughts and reactions?
+- Choose a provider page thoughts and comments 
+- Patient Indicated Date page improvements thoughts?
+- Can participant understand the information on the details page? Do they mentions anything about the Building numner or Clinic name?
 
 ## 2: Type of Care - Physical Therapy
-Path they will take: Start scheduling> Physical Therapy> PID 6/16>7/26 2 pm>chest pain>I do no need care now> (finish scheduling)
 
-Prompt: You need to schedule a Physical Therapy appointment how would you do that?
-On the urgent care message page: Is this helpful considering you are having chest pains? Would you expect anything else?
+**Path they will take:**
 
-**Follow up:**
-- What are your thoughts on how this works?
+1. Start scheduling
+2. Physical Therapy
+3. PID 8/16
+4. 8/26 2 pm
+5. Reason for appointment (Chest pain)
+6. I do not need care now
+7. Finish scheduling flow
 
+**Schedule an appointment** 
 
-#### Things to watch for:
+Prompt: You have been doing physical therapy once a every few weeks and you need to schedule your next Physical Therapy appointment. Show me how you would do that
 
-- _Can participant find the information on becoming established?_
-- _Does participant understand the steps to take?_
+(NOTE: Do they prefer an express option, or the alternate?)
+
+**PID**
+
+Prompt: You would like an appointment for August 16.
+
+Prompt: The next date that will work for you is August 26 at 2:00pm. Go ahead and select that date and time
+
+**Reason for appointment**
+
+Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. I'll pause you if I have questions.
+
+**Do you need care now?** 
+
+Prompt: Tell me about this page.
+
+Question: Why do you think this warning is showing here?
+
+Question: How do you feel about this page?
+
+**Finish making the appointment**
+
+Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still, think out loud as you go. 
+
+**Confirmation screen:**
+
+Question: What did you think about scheduling from a past appointment?
+
+Prompt: Now, say you want to go back to see a list of your appointments how would you do that?
+
+Question: Of everything you just saw, what was the most helpful?
+
+Question: What was the most confusing?
 
 ## 3: Type of Care - I need immediate care 
+
 Prompt: You have a high fever and have been sick for a couple of days, you want to get in to see your doctor asap because you don't seem to be getting better. What would you do? 
-Now, looking through the scheduling tool is there anything that might be helpful in guiding you to getting care asap? (they should find the "I need immediate care" in the list.)
-Follow up: Is it clear that this tool is not for urgent medical needs? Is having "I need immediate care" on this list helpful in your situation? 
 
-## 4: Type of Care - MOVE! (Direct Schedule)
-Prompt: You need to schedule a MOVE! program appointment with your doctor Sarah Bennett Ph. D . How would you do that from here?
+Question: How clear was it that this tool is not for urgent medical needs? Anything we could do better?
 
-Path they will take: Start scheduling> TOC>MOVE!>Chalmers> Choose a provider>PID 6/23>7/27 (finish scheduling
+Prompt: Now, looking through the scheduling tool is there anything that might be helpful in guiding you to getting care asap? 
 
+(They should find the "I need immediate care" in the list.)
 
+Prompt: Now you want to go back to your list of appointments, how would you do that?
+
+**Go back to the appointment list** 
+
+Prompt: Take a look at the top of your screen, can you tell me what you see up there?
 
 #### Things to watch for:
 
-- _What comments and thoughts does the participant have about the "choose a provider" page?_
-- _Does participant understand the scheduling process?_
+- How do they feel about having to hit the back button so many times to get out of the scheduleing flow and back to their appointment list?
 
+## 4: New Notification
 
+Path they will take: They arrive on this page after the “I need immediate care” flow.
+
+Prompt: Now that you are back on the appointment list screen, do you notice anything different here?
+
+Prompt: (If they don't notice the bell) Tell me about the options at the very top of the screen.
+- When they talk about the bell, ask them what they think it's for, and prompt them to click it if needed.
+
+**Notifications page**
+
+Prompt: Tell me about this page.
+
+Prompt: Tell me about each of the notifications on this page.
+
+Prompt: (If needed) I'm interested to hear what you think they're for, and where the link on each one might take you.
 
 
 ## Post-Task Interview
@@ -148,6 +302,7 @@ Path they will take: Start scheduling> TOC>MOVE!>Chalmers> Choose a provider>PID
 - Of everything you saw today, what was the most confusing or challenging?
 - What worked well?
 - What could we do better?
+- Do you have any questions or final thoughts?
 
 ## Thank-You and Closing
 

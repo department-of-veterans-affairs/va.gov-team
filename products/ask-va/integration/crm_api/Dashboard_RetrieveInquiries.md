@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /inquiries
+**Path**: /ask_va_api/v0/inquiries
 
 **Parameters**:
 inquiryNumber (optional)

@@ -38,7 +38,7 @@ Health Products
 - Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com / GH "emily-brown34" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
 - Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research
-- Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com / GH "katelyncai" - UX Design/Research
+- Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design/Research
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
 - Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com / GH "mkerns1" - Frontend Engineer
@@ -193,7 +193,7 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 
 - Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
 - Patrick Bateman | patrick.bateman@va.gov - Product Owner
-- Kristen McConnell | kristen.mcconnell@va.gov - UX Lead
+- Lois Lewis | lois.lewis2@va.gov - UX Lead
 - Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
 - Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
 - Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
@@ -211,6 +211,7 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
 - Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
 - David Wald | David.Wald@va.gov - testing/integration lead
+- Marla Clayton | marla.clayton@va.gov - Technical Project Manager CARMA
 - Mili Riddout | mili.riddout@salesforce.com - CARMA point of contact
 
 ### Recurring stakeholder meetings

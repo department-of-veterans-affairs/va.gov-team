@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /profile
+**Path**: /ask_va_api/v0/profile
 
 **Parameters**:
 None

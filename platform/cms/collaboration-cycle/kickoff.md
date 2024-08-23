@@ -1,3 +1,8 @@
+# This documentation has been officially archived 8/14/2024
+CMS team has archived previous mentions of CMS Collaboration Cycle. If you require assista, reach out to #cms-support for more info.
+
+
+
 # CMS Collaboration cycle kickoff request
 Before engaging with the CMS Collaboration Cycle, please review the guidance and questions below to help the CMS team determine what level of support, which practice areas, and which touchpoints are needed for your work. If you don’t know the answer to a question, then it may be too early for you to engage with the CMS Collaboration Cycle.
 

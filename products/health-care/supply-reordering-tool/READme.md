@@ -1,4 +1,4 @@
-# MHV on va.gov: Medical Supplies Product Outline
+# Medical Supplies Product Outline/Overview
 ---
 
 ## Overview
@@ -8,47 +8,41 @@
 This is part of a larger initiative to move all Veteran transactions around managing their health care to a central portal, rather than having multiple websites and mobile applications to do the same medical supplies transactions. The medical supplies reordering tool can be accessed through MHV on VA.gov, but the link will take Veterans to VA.gov (outside of MHV experience) to continue the reordering process. The medical supplies reordering tool only supports hearing aid batteries and accessories and CPAP supplies; there will be more types of equipment and supplies in the future to incorporate into the reordering tool.  
 
  ### Users should be able to: 
- - 
+ - Order any medical supply in a quick, efficient and easy way
+ - Understand eligibility/steps for re-ordering
+ - Be able to monitor what supplies are available and what are not to order
+ - Contact the correct teams for assistance when needed. 
 
-
-## Desired User Outcomes
-
+## Desired User Outcomes: 
+- Improve transparency / reduce confusion around supply reordering process
+- Veterans are well informed about the process are able to independently take reordering actions (prescription, eligibility, ordering)
+- Veterans are well-informed about the status of their supplies
 
 ## Undesired User Outcomes
 
+- Supply reordering tool doesn’t provide the user with the same functionality that they have today- causing frustration and dissatisfaction.
+- Veterans are confused about supplies.
+- Misalignment in data and functionality on VA Health and Benefits Application. MHV on va.gov and with DLC
+
 
 ## Desired Business Outcomes
-
+- Enabling users to understand and self-service supply needs leads to more timely care, reduces burden on clinical and call center staff, and increases patient safety
+- Easily accessible and identifiable supplies list will alleviate congressional and patient safety questions.
 
 ## Project Timeline & Activities
 
-### Week of # Project Kick-Off
-
-
-### Weeks of
-
-### Week of 
-
-### Week of 
-
-### Week of 
-
-### Week of 
-
 ---
-## Measuring Success-TBD
+## Measuring Success-
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
+* CSAT Scores
+* Conversion Rate to Ordering online from ordering over email/phone
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+## Related Product Outlines
 
+* Assistive Devices
+* Form Updates
+* CPAP Supplies
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
@@ -99,21 +93,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ---
 
-## Solution Narrative
 
-### Current Status
-
-### Key Decisions
-
----
-   
-## Screenshots
-
-### Before
-
-### After
-
----
 
 #### Communications
 
@@ -131,7 +111,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 #### Team Members  
 
 **OCTO**
-- Product Leads: Jasmine Yohannan
+- Product Leads: Jasmine Yohannan, Patrick Bateman
 - Design: Jenny Wang, Kaitlin Fink
 - Research: Jenny Wang, Robyn Singleton
 - Engineering: Adrian Rollett 

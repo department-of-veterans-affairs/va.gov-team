@@ -31,6 +31,9 @@ You can use one of the following test patients.
 - Navigate to the [Staging Tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/)
   - NOTE: you will need to be on the VA network to access the tool
 - Go to the Appointments tab
+  - **NOTE: if you are using a Review Instance/Environment, replace the Base URL with the link to the Review Environment you will be using**
+      - EXAMPLE: https://vigilant-couscous-ab7fb4a4.pages.github.io/?baseUrl=http://854c59f8f5688b98d13f7bf75367c2ab.review.vetsgov-internal
+      - ![image](https://github.com/user-attachments/assets/adf0bbfd-0f9e-48c0-a62d-aa311f0b210d)
 - Select any clinic
 - Select your assigned test patient from the patient list 
 - Select today's tab under Available Appointments

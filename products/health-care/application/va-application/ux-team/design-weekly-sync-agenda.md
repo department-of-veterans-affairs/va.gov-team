@@ -1,4 +1,122 @@
 # Design Weekly Sync Agenda
+## 2024-08-12
+Attendees: Angela, Jessica, Hieu, Lois, and Renata.
+
+**Multiple responses pattern** 
+- Went over the "custom" version used on the EZ/EZR today and the mocks using the 'forms library' version for EZ insurance and EZR EC/NOK
+- We will create clear labels in the design source of truth files to make this really clear when we are using what version
+- Will align styles to the form library version as much as possible but acknowledge there will be some visual differences (save-in-progress alerts and delete/remove icon button) with the custom version used
+- Talked through state when a Veteran could see the custom and library versions of the pattern in the same go through the form, not ideal interim state but okay with it
+- Goal: to help improve the pattern with the forms library and move all of our custom to the library version eventually
+
+**Design notes + documentation** 
+- The before/after side-by-side and the notes and callouts of what changed has been received well! Team notes engineers and content peeps have called this out. Plan on continuing with this pattern and what else is valuable to note and annotate in the future.
+
+**Tickets template:** 
+- Walked through slack thread of new areas to include in tickets but especially the dependencies feature is a nice add on
+
+** Registration update**
+- the sign in part was just to remove the link to save the form on those first couple of pages where the registration questions are presented.
+
+**Action Items**
+- Ask the engineers regarding the stacking button. If that is an automatic rollout or something needs to be done.
+- UX team needs to go to the Forms design officer hours regarding the list & loop directions.
+- UX team needs to indicate a badge for the custom list & loop vs no badge for the Form’s version. 
+
+
+
+## 2024-07-29
+Attendees: Angela, Jessica, Hieu, Lois. Luis, and Renata.
+
+Team updates Lois on current projects and efforts:
+- Registration path: Lois asked if there is enough interest in this path. Jessica notes that the MVP is only for service-connected Veterans with disabilities rating between 10-40%, but there are tons of other reasons for someone to apply through a Registration-only pathway (such as IVF, mental health, non-veterans, humanitarian, etc)
+- Lois inquired about the team’s Accessibility process in staging. We currently have a QA person who does Accessibility as part of their test but UX and PM can jump in during the Collaboration process. 
+- Lois needed help with the Google Analytics access. Luis notes that Lois’ access is GA3 and it will need to be GA4. Luis also recommends Datadog out-of-the-box analytics. 
+- Team updates Lois on the CAIA process: all processes, no matter the size, should go through CAIA. 
+- TERA: 
+  - Lois is puzzled by VES’ Other Toxin character limitation which potentially forces another fill-in
+  - Team updates Lois on the Special Character effort. VES indicated they could receive the change so the team pushed out the changes but the VES backend was not ready. 
+  - For TERA branching logic, the team realized that the form is only asking for the Vetearn’s last branch of the service period. The team showed a few different options on how to ask for additional services. Lois likes the 3rd option: Description, Military service component, then the question to add more. 
+  - The team later discussed simplifying the question into year-only.
+
+
+
+## 2024-07-23
+Attendees: Angela, Jessica, Hieu, and Lois.
+
+Team updates Lois on current projects and efforts:
+
+- MHV: EZR team met with Sara S. from MHV to talk about how EZR exists within the MHV landing page. Notes from the meeting:
+  - Brief history; MyHealtheVet was a subdomain of VA.gov for a long time and now they’re shifting it to be a portal under VA.gov as a “health portal”.
+  - The health portal focuses on “managing health”, it touches 9 other teams (10 if Profile is included). EZR and Travel reimbursement are under the health portal.
+  - Phase Rollout mural - the health portal is currently going through phase 0 (the pilot phase). Once a component passes phase 1, the site has a ‘try me’ option for Veterans/users. 
+  - Sara explains that the breadcrumb is vertical and the home/back/continue movement is horizontal. Back-link in the digitalized form brings the user back to the previous page while back-link in the MyHealtheVet space would likely bring them back to the previous task. 
+  - Besides OCTO, there is OCC (Office of Connective Care) who are nurses, doctors, and other health professionals that review and approve changes. 
+- NOK/EC: There is a larger effort to prioritize the editing capabilities. Profile and Health Enrollment have different backend systems and the next steps would be for the PM/DM to chat about the roadmap. EZR will proceed with having the NOK/EC incorporated into the existing form flow.
+- TERA: Unlike email or phone numbers, the VES system does not collect individual responses for TERA so the team cannot prefill the answers. While we can display eligibility, it may not be worth the effort. The team recently learned some conflicting information from HEC regarding the TERA flags. 
+- TERA special character error: It was indicated that the VES was ready to receive the special characters so the team went for a quick win with a quick turn around. It turns out the VES backend was not ready to receive that information so now the team has to do a Post-mortem. 
+- CAIA refresher: UX enjoys working with Content but their smaller team means it is still a major roadblock in pushing out work. The team met to discuss the best course of action, with CAIA noting it is okay to move forward with small changes. There is a larger discussion happening between Danielle and OCTO. The team will regroup for an update.
+- Facilities: Current discovery on how the Veteran can search for their local VA Facility. Today, it is a dropdown menu. 
+- Katelyn’s backfill will be Renata. They’re currently working in the VA space and will formally join the team on August 1st. 
+
+
+## 2024-07-01
+Attendees: Angela, Jessica, Hieu, Lois and Katelyn
+
+- Walked through the documentation folder on GitHub and the Mural = what is there so far, any feedback. Noted this is a living doc and anyone should feel free to add to it/corrections as needed. 
+- Lois noted she really seeing some other documentation too, mentioned this is an evolution of an existing Mural and what was started in an onboarding presentation
+- First “test” with new UX team member who will be joining
+- A quick walkthrough of the EZ insurance step updates: the facilities and the insurance questions since Lois will be out the next couple of weeks.
+- Mentioned not much update since we walked through this at the last ux sync on the facilities side, getting the insurance discovery ready for an internal team working meeting/chat scheduled for next week
+- Showed Lois the 1010 roadmap mural and the tables at the bottom showing quarterly goals and future ideas
+
+
+## 2024-06-24
+Attendees: Angela, Jessica, Hieu, and Lois
+
+**CG Updates:**
+- Went over CG form updates and the background of the stakeholder issue with the other VA forms
+- Talked through the concerns of this content being confusing and missing clarification.
+- Next steps:
+  - 1. desk research, Lois mentioned the VSO presentation during the Monday design sync today, look into what other teams know already
+  - 2. Analytics: before / after July release what is the drop-off rate of the sign as a representative section, also time on pages within this step
+  - 3. User research - more exploratory than usability. Focus on research questions first. Want to test hypothesis around mention of other VA 21 forms and the primary/secondary caregiver clarification. Note: Primary/secondary clarification was a nice to have CG content review feedback item from the stakeholders.
+
+**EZ Facilities:**
+- Shared Figma page with process/discovery so far
+- Luis - will open a ticket to account for the data work
+- Link to existing ticket - Jessica mentioned this got tabled for the past week but want to circle back
+
+**EZR:**
+- Reminder to coordinate the static page timing with form updates when it applies
+- What worked well with doc upload process:
+- CAIA  - call out things as being “launch blocking” and keep reminding of this throughout process, note what to pick up after mvp
+
+**Secondary Nav:**
+- Hieu talked through background, shared Figma links
+- Mentioned that there was not a way to show MyHealtheVet selected in secondary nav so appointments is active in the mocks
+- Will show on introduction page and confirmation page
+- Looked at MHV Figma files to find latest version
+- Talked through breadcrumb and secondary nav placement on what pages of the form.
+
+**Design decisions:**
+- Lois mentioned the IVC team has a template they have evolved
+- Lois asked about SSN masking and changing that; for authenticated flows on the EZ we mentioned the SSN is not-editable.
+
+
+
+
+## 2024-06-17
+Attendees: Angela, Jessica, Hieu, and Lois
+
+
+- Talked through upload docs on the EZR. Lois called out representative team research on the optional upload field and how that can present usability issues or Veteran not being aware it is even optional.
+- Lois expressed opinion of the new v3 upload component not having visual hierarchy on the page. Has brought this up to design system team. They are also going to use that on the IVC forms so curious to why it is not ready yet.
+- Decided that content updates for July is feasible but the overall experience for the representatives who have completed the other VA 21.. forms could use some UX improvements post-July. Think about holistically, and prioritize with other UX enhancements like list and loop pattern.
+- Mentioned CAIA and meeting with Danielle tomorrow over TERA question alignment. Angela will take good notes since Lois can’t attend, Jessica will be out :)
+- Lois showed the experience map in Mural she is working on for Toxic Exposure question alignment. She is coordinating with Danielle Thierry about the source of truth for all of this - also mentioned the outdated TERA Mural we have in our 1010 room. 
+
+
 
 ## 2024-06-03
 Attendees: Angela, Jessica, Hieu, Katelyn, Lois, and Matt K.

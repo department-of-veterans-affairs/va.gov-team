@@ -2,27 +2,36 @@
 
 The medication review language will appear on most (possibly all) scheduled appointments. It should be short, to the point,and easy to scan. Veterans will not need to read this content every time they open an appointment. It should be available as needed.
 
+See [this CAIA ticket](https://app.zenhub.com/workspaces/appointments-fe-ux-5fff340c2d80a4000fb6f69c/issues/gh/department-of-veterans-affairs/va.gov-team/82472) for the latest updates.
 
-## Proposal
+This language was reviewed by stakeholders and updated by our content team based on their feedback. We're currently waiting for their review/approval.
 
-**Prepare for your appointment**
+## Proposal 
 
-[Note: other related instructions show in this section. See the Figma file below for examples in context.]
+[Heading] **What should I bring to my VA health care appointments?**
 
-Bring a list of all your medications and anything else you need to share with your provider.
+Always bring your insurance cards to health appointments.
 
-What to share with your provider [expand]
+Be ready to share a list of all the medications you're taking now, including the amount you take and when and how often you take them. Include these medication types:
 
-Share all medications you're taking now, including the doses (amounts) you take of each medication and how often you take them. Include these medication types:
 - Prescriptions from VA and non-VA providers
 - Over-the-counter medications
 - Vitamins, supplements, and herbal remedies
 
-Share anything that might help your provider work with you to make treatment decisions, including these things:
-- Changes in the medications you're taking or how often you're taking them
-- Changes in how your medications affect you, including any new side effects
+And be ready to share anything that might help your health care team work with you to make treatment decisions. Bring a list of these things:
+
+- Any changes in the medications you're taking or how you're taking them
+- Any problems, questions, or concerns you have with your medications
 - Any allergies or reactions you've had to your current or past medications
 - Any health care you're receiving from other VA facilities or from providers outside VA
+
+You may need to take other steps to prepare for certain types of appointments, like video appointments. You can find these instructions in your appointment details.
+
+[Link] Go to your appointments
+
+
+
+
 
 ### How it appears in the UI
 

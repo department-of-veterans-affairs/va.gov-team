@@ -22,10 +22,21 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|Personalized home screen adoption|||||
-|Home screen load speed|5.9 secs||||
-|Unread message read rate|||||
-|Claims view rate|||||
-|Prescription refill rate|||||
-|Home screen modules clicks|||||
-|Retention |||||
+|Home screen load speed|6.78 secs||||
+|Unread message read rate|N/A||||
+|Claims view rate|65.90%||||
+|Prescription refill rate|16.28%||||
+|Appointment Page View Rate|36.18%|||
+
+
+* Date Range: 03/01/24 - 07/31/24
+
+### Retention Rates 
+
+| Veteran Behavior | 1 Month | 2 Month | 3 Month | 4 Month| 5 Month | 6 Month |
+| -------- | -------- | ---------- | ----------------- | -----------------| ----------- | --------- |
+| Veteran Opened App & Viewed Home Screen | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
+
+
+
+* Retention study starts in October 2023. 

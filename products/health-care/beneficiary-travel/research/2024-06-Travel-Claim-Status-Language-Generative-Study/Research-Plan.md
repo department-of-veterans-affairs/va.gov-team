@@ -78,8 +78,7 @@ Interview over Zoom with Veteran participants. This interview will include 2 exe
 
 
 * [Link to intro conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study/ConversationGuide.md)
-* [Link to exercises in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717691947437/6c7026cc7e4a616a131c355dbfaecd2a05eb152f?sender=ucbacbd1daef36939e8aa2288)
-
+* [Link to exercises in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/r/1698083071599?folderUuid=19c8bdc9-91ca-4c5b-993d-235377ac4d63)
 
 ## **Recruitment**
 
@@ -119,10 +118,10 @@ _Primary criteria (must-haves)_
 * Minimum 2 must identify as Nonbinary or gender fluid
 * Minimum 6 live in rural areas
 * Minimum 10 must live in urban areas
-* Minimum 7 have no degree
-* Minimum 7 have a terminal HS degree
+* Minimum 6 have no degree
+* Minimum 5 have a terminal HS degree
 * Minimum 3 have a terminal AS degree
-* Minimum 7 have a terminal BS degree
+* Minimum 5 have a terminal BS degree
 * Minimum 3 have a terminal MS degree
 
 _Secondary criteria (nice-to-haves)_
@@ -183,8 +182,8 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 
 
 
-* Pilot participant email:
-* Date and time of pilot session:
+* Pilot participant email: Keith Adkins (Veteran who works for Ad Hoc LLC)
+* Date and time of pilot session: 7/2/24 2:30pm CST COMPLETE
 
 
 ### **Research sessions**

@@ -1,4 +1,6 @@
 # VA Mobile App - Navigation Model UI - Explorations, Audit & Refinement
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team
+
 This work explores potential navigation models for the VA Mobile app. The design exploration below is based on the findings from Phase I's [Information Architecture research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/information-architecture) & [comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/comparative-analysis/README.md) and a systematic evaluation of navigation model design directions based on [success criteria established by the team & product owners](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/success-criteria-nav-model-audit/README.md#choosing-a-mobile-navigation-direction).
 
 See also: [VA Mobile App - Information Architecture & Navigation - High Level Project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/High%20Level%20Project%20Summary.md)

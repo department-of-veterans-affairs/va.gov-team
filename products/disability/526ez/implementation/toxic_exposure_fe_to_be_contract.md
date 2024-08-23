@@ -16,7 +16,7 @@ All the new toxic exposure related fields will be wrapped in a top-level JSON no
  - herbicideDetails
  - otherHerbicideLocations
  - otherExposures
- - otherExposureDetails
+ - otherExposuresDetails
  - specifyOtherExposures
  - conditions
 
@@ -118,7 +118,7 @@ Example:
             "none": false,
             "notsure": false
           },
-          "otherExposureDetails": {
+          "otherExposuresDetails": {
             "asbestos": {
               "startDate": "1991-03-01",
               "endDate": "1992-01-01"

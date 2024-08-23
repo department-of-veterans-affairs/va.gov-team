@@ -1,6 +1,6 @@
 # Project Outline - Ch33 Migration to CorpDB
 
-**Last updated 4/30/2024** -- updated timeline
+**Last updated 8/12/2024** -- updated important dates
 ## Table of Contents 
 - [Communications](#communications)
 - [Roles](#roles)
@@ -41,7 +41,11 @@
 |Lindsey Slaughter| VBA Comms|
 
 ## Overview 
-Chapter 33 (Ch33) education benefits are paid to veterans using a system called BDN. BDN is a legacy system that is gradually being retired and various benefits are migrating to newer payment/management systems. VBA is starting with the largest EDU portfolio, Ch33 and migrating payment processing from BDN to CorpDB where payments will run through eMPWR. In this new system, there can only be ONE set of payment instructions. As an example, Comp&Pen (C&P) benefits have already been migrated to CorpDB.
+Chapter 33 (Ch33) refers to the [part of the Post-9/11 GI Bill that helps Veterans pay for school or job training](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/). The Department of Veterans Affairs (VA) determines a person’s eligibility for VA Education Benefits based on the military records they have on file for a service member, veteran, or a transferee. 
+
+VA.gov provides guidance on [eligibility](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) and [rates](https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/).
+
+These education benefits are paid to veterans using a system called BDN. BDN is a legacy system that is gradually being retired and various benefits are migrating to newer payment/management systems. VBA is starting with the largest EDU portfolio, Ch33 and migrating payment processing from BDN to CorpDB where payments will run through eMPWR. In this new system, there can only be ONE set of payment instructions. As an example, Comp&Pen (C&P) benefits have already been migrated to CorpDB.
 
 Today, if veterans receive CH33 and C&P benefits, there are two separate payment processes running, one from BDN and the other from CorpDB. This allows veterans to input separate payment information for each benefit. As the VA migrates CH33 to the new system, payment instructions for both types of benefits must be identical.  
 
@@ -212,7 +216,7 @@ Education direct deposit updates went up dramatically from the two hours prior t
 
 This is a rough timeline of how this might work assuming there are no roadblocks and everything goes according to plan. Given Ch33 changes are in flux and CorpDB has had issues migrating as things change we'll update to document when actual changes are taking place. 
 
-
+<details> <summary> Initial Timeline from February 2024 </summary>summary>
 |Week| Anticipated Tasks | Actual/Changes |
 |----|-------|---|
 |Week 1 (Feb 19 -23)| Planning; Discovery||
@@ -228,9 +232,15 @@ This is a rough timeline of how this might work assuming there are no roadblocks
 |Week 11 (Apr 29 - May 3)|On hold waiting for BGS CI|~Running UAT, can only happen post migration, BIS and LH working on an additional indicator, if all goes well we'll launch as soon as we recieve positive results, ideally relaunching the page starting on 5/1 if possible~ **The work has been paused and will progress July 8th** |
 |Week 12 (May 6 - 10)|BGS CI launch May 11th|~BIS to launch additional C&P inidicator in May~|
 |Week 13 (May 13 - 17)|UAT; VA.gov goes to production|~testing needed again for the C&P indicator~|
-|Week 14 (May 20 - 24)| | |
-|Week 15 (May 27 - 31)| | |
-|Week 16 (June 3 - 7)| | |
+
+</details>
+
+### Revised Timeline June 2024 - estimated
+
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/6c48be6a-a1c8-4e93-9172-541178912948)
+
+
 
 
 ### Proposed collab cycle touchpoints
@@ -277,3 +287,5 @@ Since this feature already exists, we're simply modifying from two forms to one,
 - February 20, 2024: Formal planning and coordination begins
 - April 20, 2024: Set date for migration of BDN to CorpDB
 - April 26, 2024: Last day anything can be sent to BDN
+- July 22, 2024: UAT Completed
+- July 22, 2024: Relaunched to prod

@@ -65,9 +65,9 @@ When an initiative needs to go through content collaboration process, the design
 
 ### Designer - Figma file setup OPTION
 1. Designer layout new updates and unattach all components fromn VADS library so there is a local working version for content
-2. Ddd notes, annotations, and user flow notes or any other helpful context
-3. Label section for content to review and make udpates in
-4. For each screen/frame that needs to be reviewed place content status component(s) setting to "Ready for content review"
+2. Add notes, annotations, and user flow arrows or any other helpful context
+3. Label section for content to review and make udpates in this section
+4. For each screen/frame that needs to be reviewed place content status component(s) setting to "Captured notes" and add any helpful context
 5. Flag with component and comment when engineers begin development for CAIA awareness
 
 <img width="750" alt="Content Figma Setup Option" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/3740adde-1d4d-4d24-83bc-8b29e9fd7b79">

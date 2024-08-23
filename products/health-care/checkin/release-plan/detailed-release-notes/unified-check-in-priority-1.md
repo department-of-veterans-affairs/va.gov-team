@@ -1,4 +1,4 @@
-# UNIFIED CHECK-IN: PRIORITY 1 - NEW LANDING PAGE & ACCOMPANYING CONTENT CHANGES
+# UNIFIED CHECK-IN: NEW LANDING PAGE WITH VISTA APPOINTMENTS
 
 - [Description](#description)
 - [Wireframes](#wireframes)
@@ -7,62 +7,38 @@
 
 ## Description
 
-The Unified Check-in initiative comprises a number of enhancements (aka priorities) to the online check-in applications. The goal for these enhancements is to reduce the confusion among Veterans and staff with regards to the differences between and purposes for the pre-Check-in and check-in workflows. All enhancements may not necessarily be needed to achieve the desired outcome, which is to reduce confusion and increase the use of online check-in. The team will monitor feedback after each enhancement's release and work with our VA Product Owner to determine when our objectives have been achieved.
+## Background
+The Modernized Check-In Experience Team has received feedback from Veterans and staff that PCI is confusing. Specifically, the feedback includes:
+- Veterans and staff don’t understand the difference between pre-check-in and check-in workflows.
 
-This enhancement/priority includes a new landing page that follows the same task-based design pattern in both Online Check-in and Pre-Check-in. Veterans will have a better understanding of the tasks they need to complete before a health appointment and the differences between the two applications will become less important.
+## Description
+In an effort to reduce confusion in Veterans between Pre-Check-in and eCheck-in, we are planning to standardize the landing page for both applications to align from a UX design perspective that makes use of a task-based design pattern. 
 
 ## Wireframes
-
-These release notes highlight the significant changes to Pre-Check-in and Online Check-in as part of this enhancement. However, there are some minor changes that are also included, such as accordion open/closed defaults, differences between phone and in-person appointments, and differences between single and grouped appointments. Please refer to the [Sketch wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/868762F3-8E8F-4E23-B0DA-34C1783F0A03/canvas) for all changes that are included in this release.
+- [Download PNGs for use in training materials](https://github.com/user-attachments/files/16071323/Screenshots.zip)
+- [Main wireframes](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=937-28573&t=N0vncHgTfJ9SVSLm-0)
+- [Appointments list wireframes](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=1440-31346&t=N0vncHgTfJ9SVSLm-0)
+- [Error pages wireframes](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=1872-17169&t=N0vncHgTfJ9SVSLm-0)
 
 ## Changes to Pre-Check-in
 
--  New content for the text message sent after a Veteran confirms their appointment
+> **New content for the text message sent after a Veteran confirms their appointment**
+* ![image](https://github.com/user-attachments/assets/0dd8e970-fee2-4af5-816e-1b12d15f911e)
+  
+> **New title on the identity verification page**
+* ![image](https://github.com/user-attachments/assets/c57c5ea3-8a1a-465c-a5df-8097728de6a4)
 
-      ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/6a3c0171-e062-4e63-96e6-66ddf48df4db)
+> **New landing page that includes information review task to complete, Veterans appointments for today, and ability to see appointment details**
+* ![image](https://github.com/user-attachments/assets/eccb5503-b51f-40f4-9b23-e576867b5a57)
 
+> **New title on the completion page**
+* ![image](https://github.com/user-attachments/assets/446f659c-b8c4-4dcc-922e-ab24d88c8394)
 
-- New title on the identity verification page
+ ## Changes to On-line Check-in
 
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/92f505b4-f757-4fb7-9ce8-c395a285783a)
+> **New title on the identity verification page**
+* ![image](https://github.com/user-attachments/assets/d380f1c5-62ca-4c3d-b356-9590f3b9292e)
 
-
-- New landing page that includes:
-    - The information verification task to complete, if still available, that is associated with the Veteran's customized Pre-Check-in link
-        - If the Veteran's information is already up-to-date, they will just see a success message instead of a task
-    - The Veteran's list of upcoming appointments (those that are available via the MAP service)
-    - Ability to see the details for any of their upcoming appointments
-
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/a90c0cba-6152-48ce-84f9-6ab7aab28caf)
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/8a244a4e-d128-4f9a-bb61-380aa7e0eb73)    
-
-
-- New title on the completion page
-
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/ca870ba9-75fa-4443-8f43-4b424a873e91)
-
-## Changes to On-line Check-in
-
-- New content for the text message when Veteran texts "check in" to 53079
-
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/fb33d2d2-139f-4b7c-917d-2f972dd11253)
-
-
-- New title on the identity verification page
-
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/5f8bfeb5-d465-4ff2-ac40-1c866fd7d4ad)
-
-
-- New landing page that includes:
-    - The check-in task to complete, if still available, that is associated with the Veteran's customized Pre-Check-in link
-      - If the Veteran has no appointment that is within the check-in window, they will not see a task
-    - The Veteran's list of upcoming appointments (those that are available via the MAP service)
-    - Ability to see the details for any of their upcoming appointments
-
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/68ced984-2028-44f2-b387-94d4cebf5396)    ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/c8263d18-bae8-4ab5-bfd0-d7e2146c09e4)   
-
-
-- Ability to navigate back to the appointments list from the completion page
-
-  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/2f342626-86b2-40c8-84ff-1b4b2785275e)
-
+> **New landing page that includes the check-in task to complete, Veterans appointments for today, and ability to see appointment details**
+* ![image](https://github.com/user-attachments/assets/c8eb07b3-10a8-497f-9bb9-5cc46a64738c)
+ 

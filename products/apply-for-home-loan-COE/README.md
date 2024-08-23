@@ -11,6 +11,7 @@ A COE is the first step in getting a VA-backed home loan or Native American Dire
 - [Form flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710194001946/6515464c5bd118903f111a4ec876c8d5ee8766a6?sender=u934f98f179a86c76e6ee9592)
 - [Wireframes (Figma)](https://www.figma.com/file/jpJQSCKiGegacdW4RH5uQB/Burial-530-2024-Updates-MVP?type=design&node-id=174-43726&mode=design)
 - [Data Key Map]()
+- [Prefilling military history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/feature-briefs/Service%20history%20API.md)
 
 ---
 ## Desired User Outcomes
@@ -73,7 +74,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 
-- GitHub Label: coe, umbrella, non-disability-benefits
+- GitHub Label: coe, non-disability-benefits
 - Slack channel: #benefits-non-disability
 - VA.gov link: [https://www.va.gov/burials-and-memorials/application/530/introduction](https://www.va.gov/housing-assistance/home-loans/request-coe-form-26-1880/introduction)
 - Product Roadmap: [link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697040351744/d0ff11497ce0df685a377f3889f6d27687c0ffb4?sender=u0e8ac1d6d7681bb7e1b80558)

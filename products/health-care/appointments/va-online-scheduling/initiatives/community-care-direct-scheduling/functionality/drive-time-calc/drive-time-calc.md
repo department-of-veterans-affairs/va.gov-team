@@ -1,13 +1,17 @@
 # Drive Time Calculation
 
-_May 6, 2024_
+_Updated: July 23, 2024_
 
-## Short-term
+## How is drive time in VAOS calculated today? 
+
+[Community Care Eligibility API via Lighthouse API Team](https://developer.va.gov/explore/api/community-care-eligibility/docs?version=current)
+
+## ESP Short-term
 
 - WellHive to provide API for drive-time to each provider. I.e., WellHive will handle the logic for which providers to show.
 - EPS is using Azure, which is a Microsoft product, while PPMS uses Bing Maps API, which is also a Microsoft product. After WellHive did their initial evaluation, drive times from Azure method compared to Bing Maps API were comparable. 
 
-## Long-term
+## EPS Long-term
 
 Robert needs to talk with Rick and Jami about what system will be used to source eligible providers for CC referrals based on 5-min drive time bands. In the future, CTB will call GSSC in real-time to get providers that are within the band and then present those providers in HSRM. But, that’s a different process than what EPS is planning for direct scheduling without an MSA. So, Robert will need to figure out what the plan is for Q1 2025. E.g., EPS will need to make a change, and Appointments will inherit that change via EPS API. 
 

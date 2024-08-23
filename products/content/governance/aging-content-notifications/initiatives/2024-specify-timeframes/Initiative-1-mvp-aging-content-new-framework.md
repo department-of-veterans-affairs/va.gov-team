@@ -1,4 +1,4 @@
-[# Initiative 1: (MVP) Aging Content Notifications New Framework
+# Initiative 1: (MVP) Aging Content Notifications New Framework
 
 ## Elevator Statement
 Allow for content-type specific time frames for email reminders with unique messaging.

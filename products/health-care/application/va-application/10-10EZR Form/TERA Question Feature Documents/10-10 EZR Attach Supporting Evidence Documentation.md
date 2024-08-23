@@ -114,6 +114,8 @@ In order to faster and more effectively adjudicate Veterans' Toxic Exposure clai
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
+- **HEC/MS** 
+
 --- 
 
 ## Launch Planning

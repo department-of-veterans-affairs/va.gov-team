@@ -109,7 +109,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 - Team Name: Benefits Dependent Experience Team (Team Tree)
-- GitHub Team Label: Tree
+- GitHub Team Label: dependents-benefits
 - GitHub Product Label: 686, 674
 - Slack channel: benefits-dependents-management
 - Product POCs: Laura Steele (product manager), Emily Theis (OCTO Lead)

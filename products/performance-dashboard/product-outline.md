@@ -3,20 +3,20 @@
 
 ## Overview
 
-The IIR team is implementing a new iteration of the [Performance Dashboard](https://www.va.gov/performance-dashboard/) that will include two parts: 1) an overhaul of the backend to modernize the codebase and connect the data to the actual data source 2) updating the frontend designs to be more aligned with design and accessibility standards and to provide more context and meaning to the data points.
+The IIR team is implementing a new iteration of the [Performance Dashboard](https://www.va.gov/performance-dashboard/) that will include two main parts: 1) an overhaul of the backend to modernize the codebase and connect the data to the actual data source 2) updating the frontend designs to be more aligned with design and accessibility standards and to provide more context and meaning to the data points.
 
 
 ## Problem Statement(s)
 
-- VA Stakeholders don't have a trusted, accurate, and public-facing data source to view va.gov performance (v1)
+- VA Stakeholders don't have a trusted, accurate, and public-facing data source to view va.gov performance (Part 1)
 
-- The performance dashboard is manually updated which leaves room for unreliable data (v1)
+- The performance dashboard is manually updated which leaves room for unreliable data (Part 1)
 
-- The performance dashboard codebase is greatly outdated and is not modernized for easy iteration updates (v1.5)
+- The performance dashboard codebase is greatly outdated and is not modernized for easy iteration updates (Part 1)
   
-- The dashboard does not follow the latest VA design system and accessibility requirements (v2)
+- The dashboard does not follow the latest VA design system and accessibility requirements (Part 2)
 
-- VA Stakeholders don’t have enough context and meaning to the data displayed on the dashboard i.e. benchmarking, comparison, etc. (v2)
+- VA Stakeholders don’t have enough context and meaning to the data displayed on the dashboard i.e. benchmarking, comparison, etc. (Part 2)
 
 
 ## User(s)
@@ -86,8 +86,8 @@ The only metric that we can gauge pre and post launch is Page Views. The others 
 | -------------------------------------------------------------------------------- | -------------- | ----------------------- | ----------------------- | ----------------------- |
 | **Metric**                                                                       | **Pre Launch** | **30 Days Post Launch** | **60 Days Post Launch** | **90 Days Post Launch** |
 | # of page views per month                                                        | 3,500          |                         |                         |                         |
-| # of “Share” clicks                                                              | N/A            |                         |                         |                         |
-| % of page actions/page views (filtering, sorting, sharing, detailed pages, etc.) | N/A            |                         |                         |                         |
+| # of page actions per month (clicks on Additional Info components, clicks on graph selection, etc.)         | N/A            |                         |                         |                         |
+| % of page actions/page views                                                     | N/A            |                         |                         |                         |
 
 
 ## Assumptions
@@ -121,21 +121,21 @@ The only metric that we can gauge pre and post launch is Page Views. The others 
 
 ## Launch Dates
 
-v1 | Connecting the data source
+Part 1 | Connecting the data source
 
 - Target Launch Date: November 2023
 
 - Actual Launch Date: November 1, 2023
 
-v1.5 | Modernizing the codebase
+Part 1.5 | Modernizing the codebase
 
-- Target Launch Date: May 31, 2024
+- Target Launch Date: June 30, 2024
 
-- Actual Launch Date: TBD
+- Actual Launch Date: July 17, 2024
 
-v2 | Implementing FE designs
+Part 2 | Implementing FE designs
 
-- Target Launch Date: Jun 30, 2024
+- Target Launch Date: September 30, 2024
 
 - Actual Launch Date: TBD
 

@@ -29,6 +29,10 @@ High level:
 
 [Relationship Between VA Forms DB/Lighthouse API/Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5702) - 2/2020 Discovery re: Forms architecture and ata storage decision points. 
 
+The import uses Row ID as the unique identifier to map importing content to Drupal nodes. Some fields in Drupal may be customized from within Drupal after import, visible on each node within “Forms DB data” expander.
+* [VA Forms Content Flow Topic Dive](https://www.youtube.com/watch?v=CuPI8DB7aR0) - describes the import process in more detail
+* [VA Forms - Flagged content dashboard](https://prod.cms.va.gov/admin/content/flagged?type=va_form&workbench_access_section__section=All) - CMS dashboard of imported/updated Forms content, intended to be used for Editors to update / modify after import as necessary. Not recently used.
+
 ## End-to-End Flow to LH Forms API
 The path for data calls from `Veteran > VA.gov > vets-api > Lighthouse > delivery to Veteran` is circuitous at best. Much infrastructure is implicated.  
 

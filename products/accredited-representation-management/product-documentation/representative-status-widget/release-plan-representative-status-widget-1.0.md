@@ -30,7 +30,7 @@
 1. Stage A: 10% of users on 5/13 (Monday)
 2. Stage B: 50% of users on 5/15 (Wednesday)
 3. Stage C: 100% of users on 5/20 (Monday)
-4. Stage D: Add the Representative Status Widget to the [Accredited Rep landing page](https://www.va.gov/get-help-from-accredited-representative/)
+   1. Add the Representative Status Widget to the [Accredited Rep landing page](https://www.va.gov/get-help-from-accredited-representative/)
 
 *** 
 
@@ -118,11 +118,21 @@ _Link to DOMO dashboards TBD_
 
 ### 1-Month Results (5/20-6/20)
 
-1. **Errors**:
-3. **Contact Center calls (MyVA411)**: 
-4. **Feedback survey submmissions (Medallia)**:
+**Statuses from [Datadog](https://vagov.ddog-gov.com/logs?query=%40payload.controller%3A%22RepresentationManagement%3A%3AV0%3A%3APowerOfAttorneyController%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1716302570635&to_ts=1716316970635&live=true)**:
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/2790b0fc-b55b-43ac-b3e0-4814bee84b49)
+
+**Contact Center calls (MyVA411)**: 
+
+Two inquiries were related to the Representative Status Widget
+- One user received our error message and hypothesized that their representation status couldn't be shown because they got married and have a new last name, but their profile on VA.gov was still showing their maiden name.
+- One user was a previous VSO represenative that changed to become a claims agent and was no longer accredited as a VSO representative.  They had submitted submitted paperwork to OGC, but no update since.  They provided their contact information hoping someone would follow up to help them no longer be listed as an accredited VSO representative.   _This feedback is more related to Find a Representative, than the Representative Status Widget_
+
+**Feedback survey submmissions (Medallia)**:  
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** 
+
+We will associate the `422` status with the "No representative" state to better inform that subest of users.  We will also update the phone number in the error state to a number users can call to inquire about representation -- 1-800-827-1000, which is more helpful than the MyVA411 number.
 
 
 ## Post-Launch Questions
@@ -132,5 +142,5 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 1. **How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?**
 2. **What qualitative feedback have you gathered from users or other stakeholders?** 
 3. **Which assumptions you listed in your product outline were/were not validated?**
-4. **How might your product evolve now or in the future based on these results?** 
-5. **What technical tasks are needed to clean up (i.e., removal of feature toggles)?** Remove content above the status card.
+4. **How might your product evolve now or in the future based on these results?** We are working on carrying this experience over to the Profile.
+5. **What technical tasks are needed to clean up (i.e., removal of feature toggles)?** 
