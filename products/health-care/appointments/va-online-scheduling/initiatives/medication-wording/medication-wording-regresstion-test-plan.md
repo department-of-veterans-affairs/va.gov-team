@@ -36,7 +36,7 @@
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Traceability Report 
-- [X] [Appointments]()
+- [X] [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/medication-wording/medication-wording-tracability-report-qa.md)
 
 ### E2E tests 
 - [X] [Test file path](src/applications/vaos/tests/e2e/workflows/appointment-list-workflow)
