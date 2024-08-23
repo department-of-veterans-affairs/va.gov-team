@@ -2,7 +2,7 @@
 
 ## **Background**
 
-This evaluation plan outlines how the Cartography team will measure and track real-world use of products under the Cartography team umbrella: MHV home and secondary navigation. The plan focuses on analyzing Veterans' usage of the MHV landing page and other key transition metrics to gauge the success of the migration.
+This evaluation plan outlines how the Cartography team will measure and track real-world use of products under the Cartography team's purview including MHV home page and the portal's secondary navigation and breadcrumbs. 
 
 ### **Objectives**
 
