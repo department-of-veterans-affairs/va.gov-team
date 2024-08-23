@@ -32,10 +32,10 @@ All production services for the VA.gov Identity team are considered Tier 1 servi
 
 To understand the impact and severity of an outage, use the following monitors to check how many users are affected:
 
-| Service | Number of users impacted | Monitor showing user impact | Severity Level |
+| Service |  Users Impacted & Outage Duration | Monitor showing user impact | Severity Level |
 | :---: | :---: | :---: | :---: |
-| **SSOe** |  If an outage lasts 15 minutes or more, it likely has affected 1,000 or more users, warranting the declaration of a P1 incident. | [SSOe Success Rate Monitor per CSP](https://vagov.ddog-gov.com/monitors/89113?view=spans) | **P1** |
-| **SiS** |  | [SiS Success Rate Monitor per CSP](https://vagov.ddog-gov.com/monitors/104510?view=spans) | **P1** |
+| **SSOe** | 1000+ users > 15mins | [SSOe Success Rate Monitor per CSP](https://vagov.ddog-gov.com/monitors/89113?view=spans) | **P1** |
+| **SiS** | 1000+ users > 15mins | [SiS Success Rate Monitor per CSP](https://vagov.ddog-gov.com/monitors/104510?view=spans) | **P1** |
 | **All Non-Production Services** | N/A for non-production environments | [SSOe Success Rate Monitor (Staging)](https://vagov.ddog-gov.com/monitors/255770?view=spans) [SiS Success Rate Monitor (Staging)](https://vagov.ddog-gov.com/monitors/255910?view=spans) | **P3** |
 | **Degraded Production Service** | See service degradation table below for anything higher than 1000 users impacted per hour |  |  |
 
@@ -49,6 +49,6 @@ To understand the severity of latency-related issues, use the following guidelin
 
 | Service | Service Impact Thresholds for Latency and Outages | Service Health Monitors | Severity Level |
 | :---: | :---: | :---: | :---: |
-| **SSOe** |  If an alert lasts 15 minutes or more, it likely has affected over 1,000 users, warranting the determination of a higher severity level for the outage.   | [SSOe Overall Latency Monitor](https://vagov.ddog-gov.com/monitors/200801?view=spans) | **P1** |
-| **SiS** |  | [SiS Overall Latency Monitor](https://vagov.ddog-gov.com/monitors/96117?view=spans)  | **P1** |
-| **STS** |  | [Signincontroller Token Latency monitor](https://vagov.ddog-gov.com/monitors/96118?view=spans) | **P1** |
+| **SSOe** | 1000+ users > 15mins | [SSOe Overall Latency Monitor](https://vagov.ddog-gov.com/monitors/200801?view=spans) | **P1** |
+| **SiS** | 1000+ users > 15mins | [SiS Overall Latency Monitor](https://vagov.ddog-gov.com/monitors/96117?view=spans)  | **P1** |
+| **STS** | 1000+ users > 15mins | [Signincontroller Token Latency monitor](https://vagov.ddog-gov.com/monitors/96118?view=spans) | **P1** |
