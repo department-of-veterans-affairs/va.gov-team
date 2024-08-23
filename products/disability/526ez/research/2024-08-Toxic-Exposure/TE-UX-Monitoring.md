@@ -23,13 +23,6 @@ We are monitoring the 1.0 release of the new Toxic Exposure feature for the 526e
 - This reporting will seek to keep all stakeholders informed of the rollout's progress at a higher level with a special focus on user experience.
 - Daily reporting is out of scope: Product will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA. 
 
-### Guiding Questions for UX Monitoring
-1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
-2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
-3. What challenges (usability issues, bugs, general pain points) are Veterans encountering with the feature? 
-4. How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
-5. What impact does the new feature have on Veteran trust in VA?
-
 ### Schedule of reporting
 Every Friday after the first full week of the rollout, we will request Medallia data from Contact Center and share the report on the data from the previous week. 
 
@@ -41,6 +34,12 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |**Week 2**| Sep 7 - 13 | (10-50%) | Sep 20 |
 |**Week 3** | Sep 14 - Sep 20 | (50%-100)| Sep 27|
 
+## Guiding Questions for UX Monitoring
+1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
+2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
+3. What challenges (usability issues, bugs, general pain points) are Veterans encountering with the feature? 
+4. How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
+5. What impact does the new feature have on Veteran trust in VA?
 
 ## Summary of GA4/Data Dog
 ### 526ez Success Metrics
