@@ -63,15 +63,15 @@ These takeaways are a combination of key findings and hypotheses around what we 
 **Note:** Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. 
 
 
-**Takeaway 1:** Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.
+- **Takeaway 1:** Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.
 
-**Takeaway 2:** TE monitoring of Medallia must include comprehensive review and coding of all responses -not just those that fall on Toxic Exposure pages.
+- **Takeaway 2:** TE monitoring of Medallia must include comprehensive review and coding of all responses -not just those that fall on Toxic Exposure pages.
 
-**Takeaway 3:** Existing navigation issues expressed in Medallia (and mirrored in 526 Shadowing and 0781 research) could magnify cognitive burden of Toxic Exposure questions.
+- **Takeaway 3:** Existing navigation issues expressed in Medallia (and mirrored in 526 Shadowing and 0781 research) could magnify cognitive burden of Toxic Exposure questions.
 
-**Takeaway 4:** Caregivers are among those actively seeking ways to file for Toxic Exposure online.
+- **Takeaway 4:** Caregivers are among those actively seeking ways to file for Toxic Exposure online.
 
-**Takeaway 5:** Veterans have questions about their eligibility for the Pact Act-- and are looking for ways to file.
+- **Takeaway 5:** Veterans have questions about their eligibility for the Pact Act-- and are looking for ways to file.
 
 ***
 
