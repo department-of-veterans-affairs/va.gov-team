@@ -102,9 +102,9 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### UX/UI  
 
-- [ ] Key design decisions added to decision log 
+- [X] Key design decisions added to decision log 
 
-- [ ] Design documentation & briefs are up-to-date and linked in product Github 
+- [X] Design documentation & briefs are up-to-date and linked in product Github 
 
 - [X] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks
 
