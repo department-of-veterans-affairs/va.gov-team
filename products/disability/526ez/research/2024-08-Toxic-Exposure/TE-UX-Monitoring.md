@@ -21,7 +21,9 @@ This reporting will seek to keep all stakeholders informed on a weekly basis of 
 Beyond this weekly report, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
 
 ## Schedule of reporting
-Reporting will be avilabile every Friday, starting after the first full week of the rollout. We will request Medallia data from Contact Center and share the report on the data from the previous week. We will also provide success metrics from GA4 at each % of the rollout.
+Reporting will be avilabile every Friday, starting after the first full week of the rollout. We will request Medallia data from Contact Center and share the report on the data from the previous week. 
+
+We will also provide success metrics from GA4 at each % of the rollout. If we decide later on, we can also slice up the Medallia data to examine further trends at the % level. 
 
 ### Weekly reporting schedule
 |**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
