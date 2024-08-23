@@ -6,27 +6,30 @@
 
 ## SPRINT 16 - 9/18/2024-10/1/2024
 - **Production Support**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89593)
     - **Move to New AWS Instance**
         - TBD
 - **Community Care Direct Scheduling**
-    - **Sprint Goals is to.......**
-    - TBD
+    - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
+    - 🟦🟩 TBD
 - **Upcoming VAOS Appointments**
-    - **Sprint Goal is to get ready for Staging Review**
-    - TBD
+    - **Sprint Goal is to get ready for and schedule the Staging Review**
+    - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
+    - 🟥[[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
+    - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84422)
+    - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84425)
+    - 🟪 Schedule Staging Review
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to address all launch blockers from the Staging Review**
-    - TBD
+    - 🟩 TBD  
 - **Travel Claim Submission from Past Appts - Web**
-    - **Sprint Goal TBD**
-    - 🟩 TBD
-    - 🟦 TBD
-- **Componentize the Appt Summary View**
-    - **Sprint Goal TBD**
+    - **Sprint Goal is to ......**
     - 🟩 TBD    
+- **Check in with staff after checking in**
+    - **Sprint Goal TBD**
+    - 🟥 TBD    
 - **CIE Analytics**
-    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
 - **Tech Debt**
     - TBD
@@ -41,10 +44,10 @@
     - **Move to New AWS Instance**
         - TBD
 - **Community Care Direct Scheduling**
-    - **Sprint Goals is to.......**
-    - TBD
+    - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
+    - 🟦🟩 TBD
 - **Upcoming VAOS Appointments**
-    - **Sprint Goal is to finish the remaining work for the new details pages for Upcoming Appointments**
+    - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)       
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to address all launch blockers from the Staging Review**
@@ -52,17 +55,14 @@
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
     - 🟩 TBD
-    - 🟦 TBD
-- **Componentize the Appt Summary View**
-    - **Sprint Goal TBD**
-    - 🟩 TBD    
+    - 🟦 TBD 
 - **Check in with staff after checking in**
     - 🟥 Scheduke kickoff meeting with Sam (SPL)
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
     - 🟥 [[Design] Create Userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91305)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
-    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
+    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91334)
 - **Tech Debt**
     - TBD
 </details>
