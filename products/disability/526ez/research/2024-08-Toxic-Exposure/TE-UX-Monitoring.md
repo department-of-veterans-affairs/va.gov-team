@@ -8,12 +8,12 @@
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
 ## Background
-We are monitoring the 1.0 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. This report will document the change in user feedback and GA4 data over time with the goal of capturing any issues reuslting from the launch. 
+We are monitoring the 1.0 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. This report will document the change in user feedback and GA4, and Data Dog data over time. 
 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [See report here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md).
 
 ### Goals
-We are monitoring the new release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements. 
+We are monitoring the TE release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements. 
 
 We will be responsive to the release, updating our monitoring approach as we learn more/better. 
 
