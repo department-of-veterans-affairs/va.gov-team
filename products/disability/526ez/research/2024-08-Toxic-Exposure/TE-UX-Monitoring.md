@@ -34,6 +34,15 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |**Week 2**| Sep 7 - 13 | (10-50%) | Sep 20 |
 |**Week 3** | Sep 14 - Sep 20 | (50%-100)| Sep 27|
 
+|**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
+|--|--|--|--|
+|5%| Aug 28 - Sep 6 | (5%-10%)| Sep 13 |
+|10%| Sep 7 - 13 | (10-50%) | Sep 20 |
+|25% | Sep 14 - Sep 20 | (50%-100)| Sep 27|
+|50%|
+|75|
+|100|
+
 ## Guiding Questions for UX Monitoring
 1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
 2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
