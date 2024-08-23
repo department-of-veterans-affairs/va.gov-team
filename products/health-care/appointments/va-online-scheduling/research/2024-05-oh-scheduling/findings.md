@@ -121,7 +121,6 @@ This test included 2 versions of the appointments list:
 
 ## Key Findings
 
-
 ### OH Provider selection - Key Findings
 
 
@@ -180,26 +179,26 @@ Recommendations:
 
 
 
-1. When it comes to life-threatening emergencies, all participants made it clear they would not use the scheduling tool. 
+#### 1. When it comes to life-threatening emergencies, all participants made it clear they would not use the scheduling tool. 
 
 
-#### One participant stated, "I know if I have an emergency I'm probably not clicking around here" [P7]. Another echoed this sentiment, saying, "if I'm in an emergency I'm not gonna hop on my laptop" [P11]. A third participant reinforced this view by explaining, "if it's a severe emergency, I would certainly have to ignore that, you know. I just call 911. Obviously" [P8].
+One participant stated, "I know if I have an emergency I'm probably not clicking around here" [P7]. Another echoed this sentiment, saying, "if I'm in an emergency I'm not gonna hop on my laptop" [P11]. A third participant reinforced this view by explaining, "if it's a severe emergency, I would certainly have to ignore that, you know. I just call 911. Obviously" [P8].
 
 
 
-2.  Some participants were unclear that the scheduling tool should not be used for same day medical care needs.
+#### 2. Some participants were unclear that the scheduling tool should not be used for same day medical care needs.
 
 When asked how they would handle a high fever that wasn't improving, 4 out of 10 participants indicated they would use VA.gov to schedule an appointment and 2 of 10 said they would message their doctor. For example this participant said, “I would go to start scheduling to see if I could get a fairly soon appointment.” [P4] \
 
 
- A couple of participants said they would call their Primary Care Provider and we heard mention of a nurse hotline a couple of times. “I would try to call First to the primary care person, so I’d look at the details of the Primary care and see if there's a phone number or something like that. It's not on here, but I know that there's a 24 hr VA, nurse Hotline.” [P12]  \
+A couple of participants said they would call their Primary Care Provider and we heard mention of a nurse hotline a couple of times. “I would try to call First to the primary care person, so I’d look at the details of the Primary care and see if there's a phone number or something like that. It's not on here, but I know that there's a 24 hr VA, nurse Hotline.” [P12]  \
 
 
 Only 2 participants mentioned going to urgent care. This misunderstanding is critical because the VA.gov appointments tool and secure messaging are not meant for immediate care. They are designed for scheduling future appointments, not same-day needs. Additionally, secure messages might not be read for up to three days.
 
 
 
-3.  There was an overwhelmingly positive reaction to the resource for "how to choose between urgent and emergency medical care." 
+#### 3. There was an overwhelmingly positive reaction to the resource for "how to choose between urgent and emergency medical care." 
 
 Overall, participants appreciated the link and found it useful. One participant noted "That's a good one. I would expect that to give me a quick explanation, a little decision tree kind of information, maybe even a little box" [P5]. This finding is also supported by the finding that suggests participants faced uncertainty around what is considered an urgent medical need and whether the scheduling tool can be used for scheduling immediate care or not. 
 
@@ -209,13 +208,14 @@ As this participant stated, having it accessible before the "start scheduling" b
 
 
 
-4.  Mixed reactions to the urgent medical need alerts
+#### 4. Mixed reactions to the urgent medical need alerts
 
 Some participants found the alerts beneficial, prompting them to stop and think about their medical needs.  P5 noted, "I like that 'cause it makes me think about whether I need an emergency call or not."
 
 While understanding the necessity, participants like P4 found the reminders somewhat redundant: "It's telling me, don't make emergency appointments, which is a little redundant... but that's fine. I understand why you want to make that available for urgent and emergency issues."
 
 A few participants expressed irritation with the constant reminders. P8 shared, "I get a little... irritated just a little bit by the constant bombardment of crisis."
+
 
 
 #### 5. Having the "I need immediate care" option as a type of care was misleading
@@ -291,6 +291,7 @@ Recommendations:
 * Consider adding this feature to the appointments tool with some adjustments to content and layout - see other recommendations below.
 * Improve the content and placement of the option to choose a type of care that is not listed from their past appointments.
 * Consider iterating on this content. One participant suggested “make an appointment with a provider you've seen in the past.” However, since it will not always be choosing a provider, sometimes it will be a clinic, choosing a provider you’ve seen in the past might not make sense. Clearly communicate what the next step is to align expectations.
+* Consider changing the verbiage to accurately communicate what the next step is to align expectations as “"review available appointments" misleading.
 * Continue with organizing appointments with primary care at the top, and then by recency. 
 
 
@@ -336,10 +337,6 @@ Test in GA4 and RUM to see if users are changing the default from recent to some
 
 The majority of patients did not notice the bell change to red. As explained by one participant, "If you had not asked me, I would not have seen it."[P10] \
 
-
-Recommendation: 
-
-Continue to test this concept in different testing environments. 
 
 
 #### 2. Participants recognize the Bell icon as an actionable item.
