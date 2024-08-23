@@ -21,10 +21,9 @@ This reporting will seek to keep all stakeholders informed on a weekly basis of 
 Beyond this weekly report, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
 
 ## Schedule of reporting
-Reporting will be avilabile every Friday, starting after the first full week of the rollout. We will request Medallia data from Contact Center and share the report on the data from the previous week. 
+Reporting will be avilabile every Friday, starting after the first full week of the rollout. We will request Medallia data from Contact Center and share the report on the data from the previous week. We will also provide success metrics from GA4 at each % of the rollout.
 
-We will also provide success metrics from GA4 at each % of the rollout.
-
+### Weekly reporting schedule
 |**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
 |--|--|--|--|
 |**Week 1** | Aug 28 - Sep 6 | (5%-10%)| Sep 13 |
@@ -76,7 +75,7 @@ We will also provide success metrics from GA4 at each % of the rollout.
 |Step 10|
 
 ## Summary of Medallia survey data
-- Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
+Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
   
 ### Overall 526ez
 |**Data point**|**Baseline (2024)**|**Pre-Launch**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
