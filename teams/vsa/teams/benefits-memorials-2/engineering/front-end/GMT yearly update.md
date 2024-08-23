@@ -1,6 +1,6 @@
 # GMT yearly update
 ## What is this?
-This document provides context and instructions on how to update the GMT year for the [Financial Status Report (Form 5655)](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction).  
+This document provides context and instructions on how to update the GMT year for the streamlined process of a [Financial Status Report (Form 5655)](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction) submission.  
 
 ## Table of Contents
 1. [What you came here for](#what-you-came-here-for)
@@ -12,7 +12,7 @@ This document provides context and instructions on how to update the GMT year fo
 ### The business process
 The two major players for us are our downstream partners at the VHA, and the team that manages the Income Limits database. 
 
-1. Coordinate with downstream partners at VHA (usually via our PO) to confirm they are ready to start using the new year GMT data.
+1. Coordinate with downstream partners at VHA (usually via our PO) to confirm they are ready to start using the new year GMT data. 
 2. Contact the Income Limits team at [#sitewide-public-websites](https://dsva.slack.com/archives/C52CL1PKQ) on **Office of CTO @ VA Slack** to confirm the database has been updated with the new year data.
 3. Follow instructions in the next section ([The `code` update](#the-code-update)) to update the GMT year in FSR.
 4. Monitor Sentry for GMT related errors (see [Monitoring](#monitoring)), and confirm valid submisisons with downstream partners. 
@@ -26,9 +26,9 @@ Generally the year that is passed in is the calendar year (which pulls the previ
 We have Sentry logging set up (in [geographicMeansThreshold.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/actions/geographicMeansThreshold.js#L108-L111) to notify us if we get funky responses from the income limits endpoint. You can search by keyword `income_limits failed:`. 
 
 ## Background
-The Financial Status Report (FSR) is for Veterans or service members who need help with debt related to VA benefit overpayments or health care copays. We have implemented a 'streamlined' version of the form, so veterans who meet specific criteria are not required to complete the entire form as a means to ease the stress and cognitive burden. 
+The Financial Status Report (FSR) is for Veterans or service members who need help with debt related to VA benefit overpayments or health care copays. We have implemented a 'streamlined' version of the form, so veterans who meet specific financial criteria are not required to complete the entire form as a means to ease the time, stress and cognitive burden. 
 
-These criteria for the streamlined version are set by our downstream partners (currently only at the VHA for health care copays). There are a number of factors considered for the streamlined version of the form, but they all depend on the Geographic Means Threshold (GMT). GMT is provided by a government service based on average income and number of dependents for a particular county. 
+These criteria for the streamlined version are set by VHA business and are currently only at the VHA for health care copays submissions. There are a number of factors that are considered when calculating the outcome for a streamlined version of the form, but they all depend on the Geographic Means Threshold (GMT). GMT is provided by a government service based on average income and number of dependents for a particular county. GMT data is updated annually and therefore requires a code change to ensure the correct data is being used.
 
 ### How the sausage is made
 The in depth process flow for GMT data moves from HUD -> VES -> CSV -> Income Limits database (based on an [initial convo](https://dsva.slack.com/archives/C52CL1PKQ/p1694702514600379) with the site wide public websites team). The Income Limits database is set up to serve the [Income Limits application](https://www.va.gov/health-care/income-limits/introduction), and the FSR leverages their database because it's the most digestible version of the data for our purposes. 
