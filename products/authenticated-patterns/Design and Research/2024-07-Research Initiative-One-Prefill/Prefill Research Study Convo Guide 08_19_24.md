@@ -600,7 +600,7 @@ Do you have any questions before we move on?
 
 > [If there are more tasks]
 
-Awesome. Please select ‘Continue’ to head back to our navigation homepage. 
+Thank you for your feedback. Your incites are very helpful to us. We are finished with this task so please select the "home" tab at the top of the page.
 
 > [If this is the last task - go to the end of the convo guide for closing questions]
 
@@ -617,9 +617,6 @@ We just have a few remaining questions for you before we wrap up:
 - We saw the word ‘Note’ bolded sometimes, and other times it was not. Did that help to see that information better? 
 - We saw some messaging around not allowing certain information to be updated on the site itself, and about keeping your data secure. Does that information make an impact on your overall perception of the VA?
 - We saw some variations that had you save your changes to your profile, while others were saved only in the form. Do you have a preference between these two options? Would you want to be able to choose where that information update gets saved?
-
->If Purple is not the last task:
-Thank you for your feedback. Your incites are very helpful to us. We are finished with this task so please select the "home" tab at the top of the page.
 
 Awesome, thanks so much for your opinion on these options. Your feedback is so helpful to us as we continue to work on VA.gov and make sure it really works for Veterans. 
 
