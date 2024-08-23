@@ -9,15 +9,14 @@
 
 ## Background
 We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. 
-
-This report will document Medallia survey respones, GA4, and Data Dog data over the course of the release. We are considering adding Contact Center as a data source to capture the feedback of Veterans calling for help on TE. 
-
-Relevant tickets: [(#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [(#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
+- This report will document Medallia survey, GA4, and Data Dog data over the course of the release.
+- We are considering adding Contact Center as a data source to capture the feedback of Veterans calling for help on TE.
+- Relevant tickets: [(#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [(#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
 
 ### Goals
 We are monitoring the TE release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements.
 
-We will be responsive to the release, updating our monitoring approach as we learn more/better! 
+Note: We will be responsive to the release, updating our monitoring approach as we learn more/better! 
 
 ### Scope
 This reporting will seek to keep all stakeholders informed of the rollout's progress at a higher level with a special focus on user experience.
