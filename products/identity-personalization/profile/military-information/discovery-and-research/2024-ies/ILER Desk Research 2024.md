@@ -168,7 +168,7 @@ RECOMMENDATION FOR LATER: RESEARCH INDICATES ANY DOWNLOAD SHOULD BE BEHIND SOME 
 
 WORK THROUGH FINDINGS FIRST AND CAN REFER TO THEM LATER
 
-### Key findings
+## Key findings
 
 For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. In addition, we will rely on pre-discovery and discovery work conducted for the Veterans Experience Office (VEO) and by the AE team previously (see SECTION BELOW).
 
