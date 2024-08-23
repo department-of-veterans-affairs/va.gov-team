@@ -90,6 +90,7 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
    If NO: 
     - How would having an account change your experience on VA.gov?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - If they have not logged into the site before and why?
 > - Whether any of their past experience involves an issue updating their profile data?
@@ -190,6 +191,7 @@ Before moving forward from this page, can you tell us what you see here and your
 - Would you expect any kind of notification on this page that this information has been prefilled based on what is in your profile?
 - If you found that some of your information was wrong here, what do you think you would do then?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Whether they understand this information was prefilled. 
 > - Whether they notice that they can’t edit this information.
@@ -218,6 +220,7 @@ Before moving forward, can you tell us what you are seeing here and your initial
 - Would you expect any kind of notification on this page that this information has been prefilled based on what is in your profile?
 - If you found that your address was wrong here, what do you think you would do then?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Whether they understand this information was prefilled and where they think the data comes from
 > - Whether they understand the difference between the locked data view and editable data view
@@ -250,6 +253,7 @@ Great. Now go ahead and show us how you would update your address on this page t
 **345 Mailing Address St.
 Fulton, NY 97063**
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Whether they understand the information in the fields is prefilled from their profile data without the prefill alert
 > - Whether they understand where this information is getting updated and if that matches what they want
@@ -273,6 +277,7 @@ Before you do anything on this page, can you tell us what you are seeing and you
 - Do you think the update has been made? Is it clear what information has been updated?
 - Where do you think the update has been saved? 
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Does the user notice the success alert and read the confirmation that their address has changed.
 > - If it is clear where the update saved.
@@ -327,6 +332,7 @@ Before you do anything here, can you tell us what you are seeing and your initia
 - What kind of information do you expect to see in this form once you get started? 
 - Is there anything you would expect to see on this page that you are not seeing?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - [If they have seen the green task] Do they mention missing the prefill alert here?
 > - [If they have not seen the green task] Is anything missing on this page?
@@ -356,6 +362,7 @@ Before moving forward from this page, can you tell us what you see here and your
 - Would you expect any kind of notification on this page that this information has been prefilled based on what is in your profile?
 - If you found that some of your information was wrong here, what do you think you would do?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Whether they understand this information was prefilled. 
 > - Whether they notice that they can’t edit this information.
@@ -387,6 +394,7 @@ Before moving forward from this page, can you tell us what you are seeing here a
 - What do you think that process would be to edit this information? Does that fit how you would want to edit that information, or would you expect to do it in a different way?
 - If you found that your address was wrong here, what do you think you would do then?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Whether the edit link is distinct enough on the gray background for people to notice
 > - Whether they understand this information was prefilled and where they think the data comes from
@@ -424,6 +432,7 @@ Great. Now go ahead and show us how you would update your address on this page t
 **345 Mailing Address St.
 Fulton, NY 97063**
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Whether they understand the information in the fields is prefilled from their profile data
 > - Whether they understand where this information is getting updated and if that matches what they want
@@ -448,6 +457,7 @@ Before you do anything on this page, can you tell us what you are seeing and you
 - Do you think the update has been made? Is it clear what information has been updated?
 - Where do you think the update has been saved? 
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Does the user notice the success alert and read the confirmation that their address has changed?
 > - If it is clear where the update saved.
@@ -495,6 +505,7 @@ Go ahead and tell us your initial thoughts on this page and what you think it is
 - What would have made it more noticeable to you? 
 - What do you think that alert message is telling you?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Whether they notice the prefill alert on intro page
 > - Do they think this is the right placement for this message?
@@ -522,6 +533,7 @@ Go ahead and tell us your initial thoughts on this page and what you think it is
 - Where do you think your edits will save if you change your information here? How do you feel about that? Would you want them to save somewhere else?
 - If you found that your home phone number was wrong here, what do you think you would do then?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Whether they understand this information was prefilled and where they think the data comes from?
 > - Whether they notice the edit link?
@@ -554,6 +566,7 @@ Great. Now go ahead and show us how you would update your home phone number on t
 
 **913-402-0812**
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Whether they understand the information in the gray box is prefilled from their profile data without the prefill alert
 > - Whether they understand where this information is getting updated and if that matches what they want
@@ -578,6 +591,7 @@ Before you do anything on this page, can you tell us what you are seeing and you
 - Do you think the update has been made? Is it clear what information has been updated?
 - Where do you think the update has been saved?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - Does the user notice the success alert and read the confirmation that their number has changed.
 > - If it is clear where the update was saved.
