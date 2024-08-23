@@ -35,12 +35,13 @@ See [periodic_jobs.rb](https://github.com/department-of-veterans-affairs/vets-ap
 ## Monitoring
 
 StatsD metrics are emitted for specific events:
-* total number of records being updated
-* records being scheduled for deletion
-* total number of records deleted
+* number of records being updated
+* current status of records
+* records newly scheduled for deletion
+* number of records deleted
 * errors
 
-These metrics are used for Datadog dashboards for monitoring the health of the form storage process.
+These metrics are used in Datadog dashboards for monitoring the health of the form storage process.
 
 Dashboards:
 - https://vagov.ddog-gov.com/dashboard/fps-2wj-ceb
