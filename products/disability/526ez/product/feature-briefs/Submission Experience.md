@@ -1,3 +1,5 @@
+**Note: currently being reworked [in Google Doc form](https://docs.google.com/document/d/1-QiOIr1s-iO3jp1d06W4v89RF3JNNhdGp65_8FbfQls/edit). Below is an older state of this document. We will update the content here when we finalize edits in the Google Doc. **
+
 # 1. Purpose
 The purpose of this document is to describe and build alignment for what problems we aim to solve, why we’re solving them, and how we plan to improve the Veteran submission experience. It’s a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the initiative’s progress.
 
