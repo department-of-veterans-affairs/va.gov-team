@@ -131,11 +131,9 @@ According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main l
 3) Claims agents in support of adjudication
 4) Researchers and epidemiologists looking to identify trends and mitigations
 
-Of the above, only 1) is directly within scope of this work, and informs both use and how we communicate the value of the download prior to offering the download (at least in a semantic hierarchy).
+Use case 1) is directly within scope of this work, to informs both placement on VA.gov and how we communicate the value of the download prior to offering the download. Use case 2) is relevant and can inform our findings in that Veterans may need the ILER report available either to educate VA staff and providers of the ILER report's relevance, or to use the ILER report to help design treatment planning.
 
-Use cases 2) and 3) are also important, as they are related to outcomes for Veterans or Service Members, who may use their ILER report in these contexts to advocate for themselves. This holds true for VSO or other support for the Veteran or Service Member. 
-
-According to the GAO report, "VBA requires claims benefits staff to use ILER in processing veterans’ disability claims.” We will address this below along with the research finding that though this is an important resource in disability claim filing and evaluation, many Veterans and Service Members (as well as staff) aren't familiar with either the report or its use; and some who are aware of it, do not trust the information contained in it.
+In support of the latter: according to the GAO report, "VBA requires claims benefits staff to use ILER in processing veterans’ disability claims.” We will address this below along with the research finding that though this is an important resource in disability claim filing and evaluation, many Veterans and Service Members (as well as staff) aren't familiar with either the report or its use; and some who are aware of it, do not trust the information contained in it.
 
 
 "veterans will most often use ILER to certify their participation in a TERA or hazards to qualify for healthcare  benefits or compensation benefits under pact" -- from Mural
@@ -174,7 +172,11 @@ WORK THROUGH FINDINGS FIRST AND CAN REFER TO THEM LATER
 
 For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. In addition, we will rely on pre-discovery and discovery work conducted for stakeholders by Booze Allen CORRECT NAME AND CHECK TO SEE IF WE CAN INCLUDE LINKS
 
-some SMs don't know it exists
+Veterans may not know the ILER exists
+If Veterans know of it, they don't know what it contains
+Or they may not know how to acces it
+Or both
+Some providers and VA staff may not know what it is and the Veteran needs ways to educate them on its contents and how it's relevant to treatment or disability ratings
 some SMs have heard of it, but don't know why they should have it
 some staff don't know what it is or what it would do
 some SMs have heard of it and think it'd be useful, but can't get it
