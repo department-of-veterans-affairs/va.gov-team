@@ -126,7 +126,7 @@ We will hold the research sessions remotely on Zoom.
 - [Designs](https://www.figma.com/design/2j01RTqCSJRy4lX3eUOiod/AE-Design-Patterns---Prefill?node-id=335-14388&t=86ldrwkOEBj4Hy3x-0)
 
 
-> [!CAUTION]
+> [!WARNING]
 > This please review the dates, times and number of participants and update accordingly.
 	
 ## Recruitment	
