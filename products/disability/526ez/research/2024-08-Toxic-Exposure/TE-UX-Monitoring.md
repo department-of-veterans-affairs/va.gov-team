@@ -66,12 +66,12 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 ### Overall 526ez
 |**Data point**|**Baseline (2024)**|**Pre-Launch**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
 |--|--|--|--|--|--|--|
-|**CSAT-Intercept**| 37.8%| | | |
-|**Task completion**| 26% | | | |
-|**Trust Overall (High distrust 1 to high trust 5)**|3.53| | | |
-|**Trust Gained/Lost (Percent difference from increase and decrease)**|.22| | | |
+|**CSAT-Intercept**| 37.8% (double check)|41.9% | | |
+|**Task completion**| 26% | 44.5% | | |
+|**Trust Overall (High distrust 1 to high trust 5)**|3.53| 3.29 | | |
+|**Trust Gained/Lost (Percent difference from increase and decrease)**|22%| 9.2% | | |
 
-### Toxic Exposure pages [define range]
+### Toxic Exposure feature
 |**Data point**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
 |--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
