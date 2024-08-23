@@ -58,7 +58,7 @@ Most common specific feedback themes included usability issues, Pact Act referen
 |Getting help| 18|5| Responses that describe seeking help from the hotline, VSOs, professionals, or other sources|
 
 ## Top 5 Takeaways 
-These takeaways are a combination of key findings and hypotheses around what we might see in Toxic Exposure during the rollout. Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. 
+These takeaways are a combination of key findings and hypotheses around what we might see in Toxic Exposure during the rollout. 
 
    - **Takeaway 1:** Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.
 
@@ -70,8 +70,7 @@ These takeaways are a combination of key findings and hypotheses around what we 
 
    - **Takeaway 5:** Veterans have questions about their eligibility for the Pact Act-- and are looking for ways to file.
 
-***
-
+### Detail of Takeways
 **1. Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
 
 |3/2023 Finding | True/False in current data set|Context|Veteran voice|
@@ -88,9 +87,10 @@ These takeaways are a combination of key findings and hypotheses around what we 
 
 - Overall experiences filing for disability are frequently reported on other pages-- especially introduction, confirmation, and start.  Luckily, we do still see that specific usability issues are often reported on the page url-- like the problems with the Reserves-National Guard page. 
 
+- Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; Feedback satisfaction averaged around 3 (out of 5).
+  
 - As we begin the release, we'll have a better sense of how feedback on Toxic Exposure, specifically, is dispersed in Medallia. I hypothesize that general pain points and FAQs about the PACT act will fall on early form pages while blockers will show up on TE pages. 
 
-- Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; Feedback satisfaction averaged around 3 (out of 5). 
 
 
 ***
