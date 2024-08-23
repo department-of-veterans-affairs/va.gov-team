@@ -58,20 +58,17 @@ Most common specific feedback themes included usability issues, Pact Act referen
 |Getting help| 18|5| Responses that describe seeking help from the hotline, VSOs, professionals, or other sources|
 
 ## Top 5 Takeaways 
-These takeaways are a combination of key findings and hypotheses around what we might see in Toxic Exposure during the rollout. 
+These takeaways are a combination of key findings and hypotheses around what we might see in Toxic Exposure during the rollout. Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. 
 
-**Note:** Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. 
+   - **Takeaway 1:** Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.
 
+   - **Takeaway 2:** TE monitoring of Medallia must include comprehensive review and coding of all responses -not just those that fall on Toxic Exposure pages.
 
-- **Takeaway 1:** Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.
+   - **Takeaway 3:** Existing navigation issues expressed in Medallia (and mirrored in 526 Shadowing and 0781 research) could magnify cognitive burden of Toxic Exposure questions.
 
-- **Takeaway 2:** TE monitoring of Medallia must include comprehensive review and coding of all responses -not just those that fall on Toxic Exposure pages.
+   - **Takeaway 4:** Caregivers are among those actively seeking ways to file for Toxic Exposure online.
 
-- **Takeaway 3:** Existing navigation issues expressed in Medallia (and mirrored in 526 Shadowing and 0781 research) could magnify cognitive burden of Toxic Exposure questions.
-
-- **Takeaway 4:** Caregivers are among those actively seeking ways to file for Toxic Exposure online.
-
-- **Takeaway 5:** Veterans have questions about their eligibility for the Pact Act-- and are looking for ways to file.
+   - **Takeaway 5:** Veterans have questions about their eligibility for the Pact Act-- and are looking for ways to file.
 
 ***
 
