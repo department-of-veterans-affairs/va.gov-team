@@ -72,7 +72,7 @@ We will also provide success metrics from GA4 at each % of the rollout. If we de
 
 *Inferred from % of submission errors
 
-### [Overall Form Abandonment - Jared to update]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
+### [526ez Form Abandonment]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
 OCTO lang- On each page in the form, what percentage of people drop-off and don't continue to the next page.
 | Step # | 526 Page | Week 1 | Week 2| Week 3| Week 4|
 |--|--|--|--|--|--|
@@ -83,9 +83,9 @@ OCTO lang- On each page in the form, what percentage of people drop-off and don'
 |Step 5|
 |Step 6|
 |Step 7|
-|Step 8|
-|Step 9|
-|Step 10|
+
+### Toxic Exposure Drop-off 
+Add table here. Currently being workshopped by Christine and Jared so we can understand how far into the TE flow Veterans are getting and places they might exit. 
 
 ## Summary of Medallia survey data
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
