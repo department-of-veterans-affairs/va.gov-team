@@ -15,7 +15,7 @@ For more details, please see ticket: [Review Medallia survey data to prepare for
 ## Summary of responses
 
 ### Overall Success Metrics
-|**Survey** |**Data point**|**Baseline (2024)**|**July 1- Aug 9**|
+|**Survey** |**Data point**|**Baseline (2024)**|**Pre-launch (July 1- Aug 9)**|
 |--|--|--|--|
 |**Feedback**|Feedback satisfaction|2.3|2.8|
 |**Feedback**|Task completion| 26% | 44.5% | | |
