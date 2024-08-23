@@ -16,16 +16,25 @@ The 10-10CG form can fit into the [Veteran journey](https://github.com/departmen
 ## Research Goals	
 1. Learn more about caregiver clarification content needs within the form (vs before/outside of).
 2. Learn more about the overall experience of multiple people completing one form.
-3. Evaluate the usability of the search functionality for locations
+3. Evaluate the usability of the search functionality for locations.
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+Based on our findings, we will suggest content updates and work with CAIA to improve clarification of the caregiver designation/change process. We will also determine if any changes are needed for the facility selection process, especially for assistive tech users.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+1. Learn more about caregiver clarification content needs within the form (vs before/outside of).
+  	- How do caregivers, both primary and secondary, perceive the existing form content today on the intro page and within as being clear to understanding eligibility and benefits, and where would additional clarification be helpful?
+   - What questions do caregivers say they need additional clarification on?
+   - Is there a need or desire for applicants to have an authenticated experience that prefills personal information?
+
+2. Learn more about the overall experience of multiple people completing one form.
+	- Who typically completes the form online? Are Veterans and their caregivers signing the form together?
+  	- For those who are enrolled, did they sign as a legal representative and what was that experience like?
+   - 
+  
+3. Evaluate the usability of the search functionality for locations.
+	- Questions
+  	- Questions
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
