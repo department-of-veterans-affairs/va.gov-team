@@ -182,7 +182,7 @@ For a first gloss of understanding Veterans mental models and needs for detailed
 8. Veterans distrust the data provided in many VA reports, including the ILER report
 9. The mental models many Veterans have for the data in the ILER report does not match how it is organized, making it more difficult for the Veteran to achieve any of their goals or note what data are faulty
 
-### Details of Findings
+## Details of Findings
 
 ### Veterans and VA staff are used to using “ILER” to refer to the report; in none of the postings from Veterans, do they use “IES”
    
