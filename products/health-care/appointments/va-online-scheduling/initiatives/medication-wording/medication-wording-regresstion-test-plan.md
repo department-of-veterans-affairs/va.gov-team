@@ -36,10 +36,23 @@
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Traceability Report 
-- [ ] [Appointments]()
+- [X] [Appointments]()
 
 ### E2E tests 
-- [ ] [File path]()
+- [X] [Test file path](src/applications/vaos/tests/e2e/workflows/appointment-list-workflow)
+- [X] [Past Appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/tests/e2e/workflows/appointment-list-workflow/past-appointments.cypress.spec.js) 
+- [X] [Pending Appointment details E2E tests](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/tests/e2e/workflows/appointment-list-workflow/pending-appointments.cypress.spec.js)
+- [X] [Upcoming Appointment details E2E tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/tests/e2e/workflows/appointment-list-workflow)
+- [X] [Community Care Appointment Details page unit tests](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/tests/DetailsCC.unit.spec.js) 
+- [X] [Telehealth Appointments details Page unit tests](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/tests/DetailsVA.unit.spec.js)
+- [X] [Va Appointment Details page unit tests](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/tests/DetailsVideo.unit.spec.js)
+  
 
 ### Code coverage
-- [ ] [File path]() 
+- [X] [Test file path](src/applications/vaos/tests/e2e/workflows/appointment-list-workflow)
+- [X] [Past Appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/tests/e2e/workflows/appointment-list-workflow/past-appointments.cypress.spec.js) 
+- [X] [Pending Appointment details E2E tests](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/tests/e2e/workflows/appointment-list-workflow/pending-appointments.cypress.spec.js)
+- [X] [Upcoming Appointment details E2E tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/tests/e2e/workflows/appointment-list-workflow)
+- [X] [Community Care Appointment Details page unit tests](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/tests/DetailsCC.unit.spec.js) 
+- [X] [Telehealth Appointments details Page unit tests](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/tests/DetailsVA.unit.spec.js)
+- [X] [Va Appointment Details page unit tests](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/tests/DetailsVideo.unit.spec.js)
