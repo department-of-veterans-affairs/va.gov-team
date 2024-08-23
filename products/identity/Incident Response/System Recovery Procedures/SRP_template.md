@@ -12,7 +12,7 @@ Product Manager, Technical Lead, and dependent system contacts for incidents in 
 
 ## Communications
 
-In the event all OCTO Identity services are lost in VA.gov, all of our components monitored by Datadog should be alerting with `No Data` and the on-call support individual will be contacted via PagerDuty. The on-call individual should ensure the follow individuals are made aware via slack of the current outage and the remediation status.
+In the event all OCTO Identity services are lost in VA.gov, all of our components monitored by Datadog should be alerting with `No Data` and the on-call support individual will be contacted via PagerDuty. The on-call individual should ensure the following individuals are made aware via slack of the current outage and the remediation status.
 
 1. Team Product Manager (PM) and Technical Lead, contact [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md#identity-team-leadership).
 
