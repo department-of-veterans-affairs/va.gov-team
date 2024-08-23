@@ -10,9 +10,7 @@
 ## Background
 We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. This report will document the change in Medallia survey respones, GA4, and Data Dog data over the course of the release. 
 
-- Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
-
-- **For more details on this work, please see the following tickets:** [UX monitoring of TE Release (#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [Review Medallia survey data to prepare for TE launch (#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
+**For more details on this work, please see the following tickets:** [UX monitoring of TE Release (#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [Review Medallia survey data to prepare for TE launch (#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
 
 
 ### Goals
@@ -34,14 +32,14 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |**Week 2**| Sep 7 - 13 | (10-50%) | Sep 20 |
 |**Week 3** | Sep 14 - Sep 20 | (50%-100)| Sep 27|
 
-|**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
-|--|--|--|--|
-|5%| Aug 28 - Sep 6 | (5%-10%)| Sep 13 |
-|10%| Sep 7 - 13 | (10-50%) | Sep 20 |
-|25% | Sep 14 - Sep 20 | (50%-100)| Sep 27|
-|50%|
-|75|
-|100|
+|**Rollout %**|**Dates of rollout (will stay updated based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000)**|
+|--|--|
+|5%| Aug 28 - Sep 2 | 
+|10%| Sep 3 - 8 | 
+|25% | Sep 9 - Sep 11 |
+|50%|Sep 12- 15|
+|75%|Sep 16- 17|
+|100%|Sep 18 |
 
 ## Guiding Questions for UX Monitoring
 1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
@@ -52,8 +50,8 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 
 ## Summary of GA4/Data Dog
 ### 526ez Success Metrics
-| Product KPI | Baseline  | Target | Pre-Launch | Week 1 | Week 2| Week 3| Week 4| Data Source |
-|--|--|--|--|--|--|--|--|--|
+| Product KPI | Baseline  | Target |  Week 1 | Week 2| Week 3| Week 4| Data Source |
+|--|--|--|--|--|--|--|--|
 | Abandonment rates| 24% | ≤ 24% | | | | | | [Domo](https://va-gov.domo.com/page/447193050/kpis/details/1994399128?pfilters=%5B%7B%22column%22:%22form_name%22,%22operand%22:%22IN%22,%22values%22:%5B%22Form%2021-526EZ%20-%20Original%20Disability%20Claim%22%5D,%22dataType%22:%22string%22,%22affectedCardUrns%22:%5B%5D,%22label%22:%22form_name%22,%22key%22:%22form_name:%22,%22dataSourceId%22:%22e83cb7cf-0e3d-4699-89b3-761589681307%22%7D%5D)<br>[526 Toxic Exposure GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 | Form exits | | | | | | | | |
 | TE Opt-in rate % | | | | | | | |[526 Toxic Exposure GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ)                                                              |
@@ -78,7 +76,8 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |Step 10|
 
 ## Summary of Medallia survey data
-
+- Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
+  
 ### Overall 526ez
 |**Data point**|**Baseline (2024)**|**Pre-Launch**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
 |--|--|--|--|--|--|--|
