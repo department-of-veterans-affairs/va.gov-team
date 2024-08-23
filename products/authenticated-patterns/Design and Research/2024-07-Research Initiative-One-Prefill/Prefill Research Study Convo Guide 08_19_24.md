@@ -3,7 +3,7 @@
 ### Jump to: 
 - [Moderator logistics](#moderator-logistics) 
 - [Intro](#intro)
-- [Warm-up](#Warm-up) 
+- [Warm-up](#Warm-up)
 - [Task Green](#task-green) 
 - [Task Yellow](#task-yellow) 
 - [Task Purple](#task-purple) 
@@ -39,44 +39,45 @@
 
 ## Intro
 #### Estimated timing: 5 min
-> Start transcript: `LIVE TRANSCRIPT` > `ENABLE`
+**- Start transcript: `LIVE TRANSCRIPT` > `ENABLE`**
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes. How are you?
+Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes. How are you today?
 
+I want to start by telling you a bit about myself.
 I’m a researcher from VA. Our team works on improving VA.gov so that Veterans have a better experience getting benefits and services from the VA.
 
-Before we get started, when Perigean set up this session, they asked if you’re okay with a couple of observers joining us. This helps my team members learn from our conversation as well, and they also help me take notes so we capture everything you share.
+Before we get started, when Perigean set up this session, they asked if you’re okay with a couple of observers joining us. This helps my team members learn from our conversation, and they also help me take notes so we capture everything you share.
 
-So, I want to confirm now, are you okay with a couple of my teammates joining us to observe?
+So, I want to confirm that you are okay with a couple of my teammates joining us just to observe?
 - IF NO,
 > Use Slack to let observers know.
 - IF YES, They're in the waiting room, so I'm going to let them into the meeting now.
 > Let in observers from the waiting room.
 
-Welcome. Can everyone say hello? This is [PARTICIPANT].
+Welcome. This is [PARTICIPANT].Observers, please say hello.
 
-Thanks everyone, now I’ll ask you to turn off your cameras and mute yourselves for the rest of the session.
+Thanks everyone, now I’ll ask the observers to turn off cameras and remain muted for the rest of the session.
 
 There are a few other things I want to mention before we start:
 
 - This session should take about an hour. I’ll make sure we finish on time, so I will sometimes go ahead and ask a specific question about your experience with the site to move us along and make sure we are getting the information we need.
-- We’re here to learn your honest opinions. Negative feedback is helpful too, because it helps us learn how we can improve.
-- I also want to make it clear that we’re not testing your ability. So, for example, if I ask if you understand something, it’s because I want to make sure the writing is clear or if I ask you whether you know what you should do, it is because I am wondering if the design is effective in that spot.
-- I’m going to share a prototype with you today. This is like a test version of the website, so it may not work exactly how you expect. For example, you’ll be able to click some buttons, but not all of them.
-- If for any reason and at any time you want to stop the session, you just have to let me know. And that might be a pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
+- We’re here to learn your honest opinions. So negative feedback is also helpful and it does not hurt our feelings, but only helps us to improve.
+- I also want to make it clear that we’re not testing your ability, or intelligence. So, for example, if I ask if you understand something, or if you would know what to do next, it’s because I want to make sure the writing is clear or it is because I am wondering if the design is effective in that spot.
+- I’m going to share a prototype with you. This is like a test version of the website, so it may not work exactly how you expect. For example, you’ll be able to click some buttons, but not all of them.
+- If for any reason and at any time you want to stop this session, just have to let me know. It might be to pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
 
-The last thing is about recordings. We can record the session to help us confirm we captured your opinions accurately and sometimes share video clips with our colleagues at VA. If we do this, we don’t link anything you share in the session to any information that could identify you. We remove your face and your name from the videos. Knowing this, are you comfortable if I record my screen and audio as we talk today?
+The last thing is about recordings. Recording the session to helps us to confirm that we captured your opinions accurately. Sometimes we share video clips with our colleagues at VA. If we do this, we don’t link anything you share in the session to any information that could identify you. We remove your face and your name from the videos. Knowing this, are you comfortable if I record my screen and audio while we talk today?
 - IF NO,
 > Don't record
 - IF YES, Once I start recording, I’ll confirm again.
 
 >Start recording: RECORD TO CLOUD.
 
-I’ve started recording. I'd like to confirm again: Are you comfortable if I record my screen and the audio as we talk today?
+I’ve started recording. I'd like to confirm again: Are you comfortable with me recording my screen and audio while we talk today?
 
 ## Warm-up
 #### Estimated timing: 5 min
-It seems like we’re ready to get started. I'd like to begin by learning more about your experience with the VA and our online services.
+Ok, great! It seems like we’re ready to get started. I'd like to begin by learning more about your experience with VA and our online services.
 
 
 - I’m curious how long you’ve been a Veteran?
@@ -95,12 +96,12 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 > - If they have not logged into the site before and why?
 > - Whether any of their past experience involves an issue updating their profile data?
 
-
 Thanks, it’s helpful to learn about your experience with the VA.
 
-Next, I’d like to share our prototype to get your feedback. I am going to give you some tasks to complete. While you are doing a task, I want you to tell me your thoughts and impressions as they occur. This is called the “think-aloud” method, and it will give us insights into your experience with this site.
+Next, I'm going to share a link to our prototype to get your feedback. Then I'll give you some tasks to complete. While you are doing a task, I want you to tell me your thoughts and impressions as they occur. This is called the “think-aloud” method, and it will give us insights into your experience with this site.
 
-In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans. 
+As I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans.
+I've just sent the link in the zoom chat. Do you see it? 
 
 > Send link in Zoom chat
 
@@ -108,11 +109,14 @@ https://musical-doodle-7676579pxr3rxrg-3001.app.github.dev/mock-form-ae-design-p
 
 Can you open the link in the chat?
 
-Have you shared your screen on Zoom before?
+Do you know how to share your screen on Zoom?
 
-IF YES: Great. Can you please share your screen now?
+
+IF YES: Great. Before you share your screen take a moment to close out anything you don't want me to see. And please put your phone in DO NOT DISTURB mode to mute your notifications. Let me know when you are ready. 
+Great! Please share your screen now.
   
 IF NO: I’ll walk you through how to do that…
+[>If there is an issue](https://docs.google.com/document/d/1IATvmu-0QJCH_jr4IM6eN_LFo03IR7shDqtboUUKSXY/edit?usp=sharing)
 
 Thanks! Now I’m able to see your screen too. 
 
@@ -127,10 +131,7 @@ So for this task, we’re going to have you imagine that you had previously noti
 
 So for this next task, we’re going to have you imagine that you had previously noticed your address was incorrect in your health benefits information. You have come to VA.gov but have not yet logged into your account. You have come to the 10-10EZR form to provide your updated address. Similar to the previous task, we’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. Any questions before we begin?
 
-Great. We will paste the new address you will use into the chat, but you won’t need to enter it until later in the task. The new address you will use is:
-
-**345 Mailing Address St.
-Fulton, NY 97063**
+Great. I'll give you the address information when it is time to make the edit.
 
 With that information, go ahead and click on the ‘Green Task’ button and tell us how you would start this process.
 
@@ -247,11 +248,10 @@ Before you do anything here, can you tell us what you are seeing and your initia
 - Is your previous address provided where you would expect it to be? 
 - Is the ‘Save to Profile’ button where you expect it to be? 
 - What do you think happens when you select the ‘Cancel’ button?
-
-Great. Now go ahead and show us how you would update your address on this page to the new one we provided to you at the beginning of this task. You can come back to the chat and copy it from there, but I’ll read it to you as well:
-
-**345 Mailing Address St.
+We are updating the numbers to the address to: **345 Mailing Address St.
 Fulton, NY 97063**
+
+Great. Now go ahead and show us how you would update your address on this page. You can come back to the chat and copy it from there, but I’ll read it to you as well:
 
 > [!IMPORTANT]
 > Things to watch for:
@@ -303,7 +303,7 @@ Awesome. Please select ‘Continue’ to head back to our navigation homepage.
 
 > [If this is the first task, read this]
 
-So for this task, we’re going to have you imagine that you had previously noticed your address was incorrect in your health benefits information. You have come to VA.gov and already logged into your account. You have come to the 10-10EZR form to provide your updated address. We’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. There is no rush, so take as much time as you would if you were actually doing this for yourself. Any questions before we begin? 
+So for this task, we’re going to have you imagine that you previously noticed your address was incorrect for your health benefits information. You are on VA.gov and already logged into your account. You have come to the 10-10EZR form to provide your updated address. We’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. There is no rush, so take as much time as you would if you were actually doing this for yourself. Any questions before we begin? 
 
 > [If this is NOT the first task, read this]
 
@@ -311,16 +311,13 @@ So for this task, we’re going to have you imagine that you had previously noti
 
 > [If the participant has already done the Green task, tell them]
 
-We are using the same address already provided in the earlier task, so once we get to that part of the test you can put in the same updated address as before.
+We are using the same address already provided in the earlier task, so once we get to that part of the test I'll provide the same number as before.
 
 > [If the participant has not yet done the Green task, tell them]
 
-Great. We will paste the new address you will use into the chat, but you won’t need to enter it until later in the task. The new address you will use is:
+Great. When it comes time to enter the address I'll give it to you.
 
-**345 Mailing Address St.
-Fulton, NY 97063**
-
-With that information, go ahead and click on the ‘Yellow Task’ button and tell us how you would start the task.
+So, go ahead and click on the ‘Yellow Task’ button to find out how you would start the task.
 
 > [Participant clicks on ‘Yellow task’ to start]
 
@@ -427,10 +424,12 @@ Before you do anything here, can you tell us what you are seeing and your initia
 - Is the ‘Save’ button where you expect it to be? 
 - What do you think happens when you select the ‘Cancel’ button?
 
-Great. Now go ahead and show us how you would update your address on this page to the new one we provided to you at the beginning of this task. You can come back to the chat and copy it from there, but I’ll read it to you as well:
+Great, you only need to update the address from "123" to "345"
 
 **345 Mailing Address St.
 Fulton, NY 97063**
+
+Go ahead and show us how you would update your address on this page.
 
 > [!IMPORTANT]
 > Things to watch for:
@@ -483,11 +482,9 @@ Awesome. Please select ‘Continue’ to head back to our navigation homepage.
 
 So for this task, we’re going to have you imagine that you disagree with a VA claim decision. You want to submit an appeal to the Board of Veterans Appeals to change the disability rating you have been provided. You have already logged into VA.gov and have navigated to the start of the form. You notice as you go through the form that your home phone number is incorrect, so you will change it before continuing with the form. We’d like you to walk us through what you would do to change your home phone number, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. There is no rush, so take as much time as you would if you were actually doing this for yourself. Any questions before we begin? 
 
-Great. We will paste the new number you will use into the chat, but you won’t need to enter it until later in the task. The new number you will use is:
+Great. I'll provide you the number once we are ready to make the edit.
 
-**913-402-0812**
-
-With that information, go ahead and click on the ‘Purple Task’ button and tell us how you would start the task.
+So go ahead and click on the ‘Purple Task’ button and tell us how you would start the task.
 
 > [Participant clicks on ‘Purple task’ to start]
 
@@ -562,9 +559,7 @@ Before you do anything here, can you tell us what you are seeing and your initia
 - Is the ‘Save’ button where you expect it to be? 
 - What do you think happens when you select the ‘Cancel’ button?
 
-Great. Now go ahead and show us how you would update your home phone number on this page to the new one we provided to you at the beginning of this task. You can come back to the chat and copy it from there, but I’ll read it to you as well:
-
-**913-402-0812**
+Great. Now go ahead and show us how you would update your home phone number on this page. The number is: **913-402-0812**
 
 > [!IMPORTANT]
 > Things to watch for:
@@ -637,7 +632,6 @@ Lastly, Perigean will be sending you a thank you note with a little blurb that y
 
 Thank you so much again, and enjoy the rest of your day!
 
-
 ## Pause or exit strategies
 
 We can use these strategies to prepare for difficult situations.
@@ -678,5 +672,3 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 - Becky Phung, PO on [date]
 - Shane Strassberg, VA Research Ops on [date]
-
-
