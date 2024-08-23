@@ -170,36 +170,22 @@ WORK THROUGH FINDINGS FIRST AND CAN REFER TO THEM LATER
 
 ### Key findings
 
-For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. In addition, we will rely on pre-discovery and discovery work conducted for stakeholders by Booze Allen CORRECT NAME AND CHECK TO SEE IF WE CAN INCLUDE LINKS
+For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. In addition, we will rely on pre-discovery and discovery work conducted for the Veterans Experience Office (VEO) and by the AE team previously (see SECTION BELOW).
 
-Veterans may benefit from having access to their ILER to get(?) proper disability ratings
-Veterans may benefit from having access to their ILER to get(?) proper health care treatments
-Veterans may not know the ILER exists
-If Veterans know ILER exists, they likely don't know what it contains
-If Veterans know ILER exists, they likely know where and/or how to access it
-Some providers and VA staff may not know what it is or how it is related to their services, requiring the Veteran to educate them on its contents and how it's relevant (to either treatment or disability ratings)
-Veterans distrust the data provided in many VA reports, including the ILER report
-The mental models many Veterans have for the data in the ILER report does not match how it is organized, making it more difficult for the Veteran to achieve any of their goals or note what data are faulty
-
-
-tho placement on the Profile is important, explanatory language and resources for the Veteran to follow up with questions will be super important to the success in a Veteran improving outcomes
-
-
-1. The information in ILER/IES can be relevant to a Veteran's TKTK in getting health care REWORD
-2. Veterans DO THEY OR SHOULD THEY use ILER/IES access in relation to applying for health care
-3. Veterans DO THEY OR SHOULD THEY use ILER/IES access in relation to applying for benefits
-4. Veterans DO THEY OR SHOULD THEY use ILER/IES access in relation to applying for disability status
-5. Veterans are NOT aware of what this is
-6. VA staff may often not know about this and cannot help Veterans
-7. The term IES may be properly prescriptive (and used in context w/ stakeholders) but Veterans and VA staff know it as ILER SO WE SHOULD DO THAT?
-8. The quality of data may be incomplete/poor
-9. Veterans who do know about the report do not trust it
-
-
+1. Veterans and VA staff are used to using “ILER” to refer to the report; in none of the postings from Veterans, do they use “IES”
+2. Veterans use information such as what’s included in the ILER report to correct what they see as incomplete or erroneous disability ratings
+3. Veterans use information such as what’s included in the ILER report to get proper health care treatments
+4. Veterans may not know the ILER report exists
+5. If Veterans know ILER exists, they likely don't know what it contains
+6. If Veterans know ILER exists, they likely know where and/or how to access it
+7. Some providers and VA staff may not know what it is or how it is related to their services, requiring the Veteran to educate them on its contents and how it's relevant (to either treatment or disability ratings)
+8. Veterans distrust the data provided in many VA reports, including the ILER report
+9. The mental models many Veterans have for the data in the ILER report does not match how it is organized, making it more difficult for the Veteran to achieve any of their goals or note what data are faulty
 
 ### Details of Findings
 
-1. Veterans use ILER/IES access in relation to applying for health care
+### Veterans and VA staff are used to using “ILER” to refer to the report; in none of the postings from Veterans, do they use “IES”
+   
    
    **Some evidence for this**
    
@@ -226,6 +212,9 @@ ADD REDDIT QUESTIONS HERE WITH CAVEATS ABOUT CANARY IN THE MINE AND RARE SAMPLE
 4. Veterans need reassurance that the VA is aware of data quality issues
 5. Veterans would benefit from knowing the VA is working on allowing them to review and edit
 6. Veterans would benefit from, in the interim, pointers to where they can request corrections to data
+
+tho placement on the Profile is important, explanatory language and resources for the Veteran to follow up with questions will be super important to the success in a Veteran improving outcomes
+
 
 THE ABOVE DON'T READ LIKE RECOMMENDATIONS; COMBINE WITH KEY FINDINGS
 
