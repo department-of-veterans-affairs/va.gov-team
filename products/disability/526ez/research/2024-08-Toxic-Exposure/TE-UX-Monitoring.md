@@ -15,7 +15,7 @@ We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for 
 
 **Note:** We will be responsive to the release, updating our monitoring approach as we learn more/better! 
 
-### Scope of this report
+## Scope of this report
 This reporting will seek to keep all stakeholders informed on a weekly basis of the rollout's progress with a special focus on user experience.
 
 Beyond this weekly report, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
