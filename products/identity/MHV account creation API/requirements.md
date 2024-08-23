@@ -10,12 +10,12 @@ The MHV team has created an api called the MHV account creation API which the VA
 
 1. Vets-api MUST call the MHV account creation API if the user is verified and has at least one facility assigned by IAM
     1. Values required for API request:
-        1. ICN
-        2. vaTermsOfUseDocTitle
-        3. vaTermsOfUseLegalVersion
-        4. vaTermsOfUseRevision
-        5. vaTermsOfUseStatus
-        6. vaTermsOfUseDateTime
+        1. `ICN`
+        2. `vaTermsOfUseDocTitle`
+        3. `vaTermsOfUseLegalVersion`
+        4. `vaTermsOfUseRevision`
+        5. `vaTermsOfUseStatus`
+        6. `vaTermsOfUseDateTime`
     2. Values optional for API request:
         1. CSP supplied email
 2. Vets-api MUST use a signed JWT created by vets-api STS to the MHV team and the JWT MUST contain the proper user ICN value and format
@@ -87,6 +87,8 @@ The MHV team has created an api called the MHV account creation API which the VA
     1. From IAM: When you say isPatient are you referring the an identity having a person type (VA MPI - PersonTypes) value containing ‘PAT’? If so yes I believe this is accurate, again I would defer to Patrick and Danny if you want details of when this personType is added and removed.
 8. Should we call mhv account creation api for ALL users, or only when we detect facility ID.
     1. **We will only call it when there is a facility ID**
+9. If the user is not a patient in MPI should they have an SM account?
+    1. **No**
 
 ## Definitions
 
