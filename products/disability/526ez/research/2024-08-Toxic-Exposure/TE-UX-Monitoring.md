@@ -21,7 +21,7 @@ We are monitoring the 1.0 release of the new Toxic Exposure feature for the 526e
 
 ### Scope
 - This reporting will seek to keep all stakeholders informed of the rollout's progress at a higher level with a special focus on user experience.
-- Daily reporting is out of scope: Product will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA. 
+- Daily reporting is out of scope: DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
 
 ### Schedule of reporting
 Every Friday after the first full week of the rollout, we will request Medallia data from Contact Center and share the report on the data from the previous week. 
