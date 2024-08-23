@@ -16,7 +16,7 @@ This evaluation plan outlines how the Cartography team will measure and track re
 
 | **Theme**| **Question** | **Metric** | **Tools** | **Currently tracking**| **Link to ticket** |
 | --- | --- | --- | --- | --- | ---- |
-| Engagement | What are the top tasks on the MHV landing page? | Click (engagement/conversion rate); Top tasks | Datadog; GA4| Yes (DataDog)| 
+| Engagement | What are the top tasks on the MHV landing page? | Click (engagement/conversion rate); Top tasks | GA4| No | 
 | Navigation and findability | what % of users use secondary nav across the entire portal? |Click analytics| Datadog; GA4 |No|[Link to ticket](https://app.zenhub.com/workspaces/mhv-on-vagov-landing-page-62619a987d74510018ecc546/issues/gh/department-of-veterans-affairs/va.gov-team/89719)|
 | Navigation and findability | What methods are using to navigate the portal?| Clicks on breadcrumbs, links on MHV landing page, Secondary nav engagement| GA4 | ---||
 | Navigation and findability | How are users getting to the landing page? (What are the rates of users who click try-me banners versus those who login to get to MHV?) | Account activity logs from DAT team: # of clicks from the discrete locations in MHV classic. Reverse path exploration in GA4 using my/health/. what proportion are coming from specific links? | DAT request, GA4 | --- | [Link to ticket](https://app.zenhub.com/workspaces/mhv-on-vagov-landing-page-62619a987d74510018ecc546/issues/gh/department-of-veterans-affairs/va.gov-team/89722)|
