@@ -19,7 +19,7 @@ For more details, please see ticket: [Review Medallia survey data to prepare for
 |--|--|--|--|
 |**Feedback**|Feedback satisfaction|2.3|2.8|
 |**Feedback**|Task completion| 26% | 44.5% | | |
-|**Intercept**|CSAT [OCTO-Tracked]| 37.7%|41.9% | | |
+|**Intercept**|CSAT| 37.7%|41.9% | | |
 |**Intercept**|Trust Overall (High distrust 1 to high trust 5)|3.53| 3.29 | | |
 |**Intercept**|Trust Gained/Lost (Percent difference from increase and decrease)|-6.1%| 9.2% | | |
 
