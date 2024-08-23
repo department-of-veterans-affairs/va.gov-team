@@ -21,7 +21,7 @@ bundle exec rails c
 service = TravelPay::Service.new
 ```
 
-The internal logic of the service method requires a user object, but really, it only requires a user's email and ICN in an object that matches the methods of the vets-api `User` object. 
+The internal logic of the service method requires a user class, but really, it only requires a user's email and ICN in a class instance that matches the methods of the vets-api `User` class. 
 
 First create a fake user class:
 
@@ -70,7 +70,7 @@ eis_token = client.request_veis_token
 You should have an EIS token now.  You will use the value of the EIS token to retrieve a travel pay API token, but first you must also get an STS token for user verification on the API.
 
 ### Requesting an STS token
-Requesting an STS token requires a user object, but really, it only requires a user's email and ICN in an object that matches the methods of the vets-api `User` object. 
+The internal logic of the service method requires a user class, but really, it only requires a user's email and ICN in a class instance that matches the methods of the vets-api `User` class. 
 
 First create a fake user class:
 
