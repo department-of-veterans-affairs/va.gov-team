@@ -8,23 +8,22 @@
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
 ## Background
-We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. This report will document the change in Medallia survey respones, GA4, and Data Dog data over the course of the release. 
+We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. This report will document the change in Medallia survey respones, GA4, and Data Dog data over the course of the release. We are considering adding Contact Center as a data source to capture the feedback of Veterans calling for help. 
 
 **For more details on this work, please see the following tickets:** [(#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [(#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
 
-
 ### Goals
-- We are monitoring the TE release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements.
-- We will be responsive to the release, updating our monitoring approach as we learn more/better! 
+We are monitoring the TE release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements.
+
+We will be responsive to the release, updating our monitoring approach as we learn more/better! 
 
 ### Scope
-- This reporting will seek to keep all stakeholders informed of the rollout's progress at a higher level with a special focus on user experience.
-- Daily reporting is out of scope: DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
+This reporting will seek to keep all stakeholders informed of the rollout's progress at a higher level with a special focus on user experience.
+
+**Daily updates are out of scope for this report.** DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
 
 ### Schedule of reporting
 Every Friday after the first full week of the rollout, we will request Medallia data from Contact Center and share the report on the data from the previous week. 
-
-**Open question for OCTO meeting:** We have organized reporting around a weekly check-in, but also acknowledge value in monitoring the roll-out by % to get a more granular view of how the feature performs at different stages. One proposal would be to include an additional dashboard tracking GA4 success metrics along with the % rollout. 
 
 |**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
 |--|--|--|--|
