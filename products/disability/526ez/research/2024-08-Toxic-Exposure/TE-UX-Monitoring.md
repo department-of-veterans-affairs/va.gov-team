@@ -130,16 +130,16 @@ Top takeaways will come from the combined review of GA4 and Medallia each week. 
 
 ### Codebook
 See full list of codes and their definitions below. 
-|Code|Feedback count| Intercept count|Definition|
-|--|--|--|--|
-|Usability|  |--|Responses that describe specific usability issues not encompassed by other tags. Examples include character limits, inability to update prefill, not being able to continue, etc.|
-|PACT| |--| Responses that reference Toxic Exposure or the PACT Act|
-|Error| |--| Responses that describe an error message they came across in the form |
-|Navigation | || Responses that describe moving from one part of the application to another and wayfinding |
-|Getting help| || Responses that describe seeking help from the hotline, VSOs, professionals, or other sources|
-|Evidence/evidence upload| ||Responses that describe evidence or medical records, uploading or downloading|
-|Pain point| ||Responses that express distress or frustration, but don’t fall into another tag |
-|Submission|  |--| Responses that describe submitting their form and/or the confirmation page|
-|Intent to File| | -- |Responses that reference Intent to File or upcoming ITF deadlines|
-| Bright spot|  || Positive feedback or something that’s working well|
-|General| || Responses that included non-specific qualitative information, such as "filing"|
+|Code|Definition|
+|--|--|
+|Usability|Responses that describe specific usability issues not encompassed by other tags. Examples include character limits, inability to update prefill, not being able to continue, etc.|
+|PACT| Responses that reference Toxic Exposure or the PACT Act|
+|Error| Responses that describe an error message they came across in the form |
+|Navigation| Responses that describe moving from one part of the application to another and wayfinding |
+|Getting help| Responses that describe seeking help from the hotline, VSOs, professionals, or other sources|
+|Evidence/evidence upload|Responses that describe evidence or medical records, uploading or downloading|
+|Pain point| Responses that express distress or frustration, but don’t fall into another tag |
+|Submission|Responses that describe submitting their form and/or the confirmation page|
+|Intent to File| Responses that reference Intent to File or upcoming ITF deadlines|
+| Bright spot| Positive feedback or something that’s working well|
+|General|Responses that included non-specific qualitative information, such as "filing"|
