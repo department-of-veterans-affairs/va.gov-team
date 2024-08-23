@@ -10,6 +10,12 @@ assignees: hdjustice
 ## Benefit to the Veteran
 As a Veteran, I want [ ], so that [ ].
 
+## Hypothesis or Bet
+**If** _we make this change_ **then** _we expect this to happen_.
+
+## OKR
+_Which Objective / Key Result does this epic push forward?_
+
 ## Background
 - _What details are necessary for understanding the specific work or request tracked by this issue?_
 - _What are we doing within the scope of this ticket?_
