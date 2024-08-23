@@ -10,6 +10,8 @@ Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 ## Overview
 We are reviewing Medallia data from July 1-August 9 2024 so we can establish a baseline for what to expect from the survey data before we launch Toxic Exposure. This will help us distinguish ongoing UX challenges from those caused by the rollout.
 
+For more details, please see ticket: [Review Medallia survey data to prepare for TE launch (#88714)
+](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
 ## Summary of responses
 
 ### Overall Success Metrics
