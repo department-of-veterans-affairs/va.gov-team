@@ -47,9 +47,11 @@ _Which Objective / Key Result does this epic push forward?_
 - [ ] QA
 - [ ] Team review & signoff
 - [ ] End to end testing
-- [ ] Cypress testing
+- [ ] Release Plan
+- [ ] Cypress test suite
 - [ ] Team review & signoff
 - [ ] Launch to Prod
+- [ ] Update Source of Truth
 ```
 
 ---
