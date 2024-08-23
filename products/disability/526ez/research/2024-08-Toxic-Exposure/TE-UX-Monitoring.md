@@ -18,6 +18,8 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 ### Goals
 We are monitoring the TE release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements. 
 
+Product will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be elevated to OCTO/VBA. Meanwhile, this reporting will seek to keep all stakeholders informed of the rollout's progress at a higher level with a special focus on user experience.   
+
 We will be responsive to the release, updating our monitoring approach as we learn more/better! 
 
 ### Guiding Questions for UX Monitoring
@@ -29,6 +31,9 @@ We will be responsive to the release, updating our monitoring approach as we lea
 
 ### Schedule of reporting
 Every Friday after the first full week of the rollout, we will request Medallia data from Contact Center and share the report on the data from the previous week. 
+
+**Open question for OCTO meeting:** We have organized reporting around a weekly check-in, but also acknowledge value in monitoring the roll-out by % to get a more granular view of how the feature performs at different stages. One proposal would be to include an additional dashboard tracking GA4 success metrics along with the % rollout. 
+
 |**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
 |--|--|--|--|
 |**Week 1** | Aug 28 - Sep 6 | (5%-10%)| Sep 13 |
