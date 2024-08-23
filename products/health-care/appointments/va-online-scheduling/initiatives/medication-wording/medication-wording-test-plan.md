@@ -40,7 +40,7 @@ Past Appointment Details: VA/Community Care Booked Appointments
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Summary Defect Report
-- [ ] File -
+- [X] [Defect Summary File](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/medication-wording/medication-wording-summary-defects.md)
  
 ### Traceability Report 
 - [X] [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/medication-wording/medication-wording-tracability-report-qa.md)
