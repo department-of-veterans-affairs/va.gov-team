@@ -59,16 +59,19 @@ Most common specific feedback themes included usability issues, Pact Act referen
 
 ## Top 5 Takeaways 
 These takeaways are a combination of key findings and hypotheses around what we might see in Toxic Exposure during the rollout. 
+
 **Note:** Because the PACT Act questions are not yet added to the online form, all mentions were of Veterans looking to file for PACT Act. 
 
 
 **Takeaway 1:** Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.
-**Takeaway 2:** TE monitoring of Medallia must include comprehensive review and coding of all responses -not just those that fall on Toxic Exposure pages.
-**Takeaway 3:** Existing navigation issues expressed in Medallia (and mirrored in 526 Shadowing and 0781 research) could magnify cognitive burden of Toxic Exposure questions.
-**Takeaway 4:** Caregivers are among those actively seeking ways to file for Toxic Exposure online.
-**Takeaway 5:** Veterans have questions about their eligibility for the Pact Act-- and are looking for ways to file.
 
-Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; Feedback satisfaction averaged around 3 (out of 5). 
+**Takeaway 2:** TE monitoring of Medallia must include comprehensive review and coding of all responses -not just those that fall on Toxic Exposure pages.
+
+**Takeaway 3:** Existing navigation issues expressed in Medallia (and mirrored in 526 Shadowing and 0781 research) could magnify cognitive burden of Toxic Exposure questions.
+
+**Takeaway 4:** Caregivers are among those actively seeking ways to file for Toxic Exposure online.
+
+**Takeaway 5:** Veterans have questions about their eligibility for the Pact Act-- and are looking for ways to file.
 
 ***
 
@@ -89,6 +92,8 @@ Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in th
 - Overall experiences filing for disability are frequently reported on other pages-- especially introduction, confirmation, and start.  Luckily, we do still see that specific usability issues are often reported on the page url-- like the problems with the Reserves-National Guard page. 
 
 - As we begin the release, we'll have a better sense of how feedback on Toxic Exposure, specifically, is dispersed in Medallia. I hypothesize that general pain points and FAQs about the PACT act will fall on early form pages while blockers will show up on TE pages. 
+
+- Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in their qualitative feedback. 9 said they were unable to complete their task; Feedback satisfaction averaged around 3 (out of 5). 
 
 
 ***
