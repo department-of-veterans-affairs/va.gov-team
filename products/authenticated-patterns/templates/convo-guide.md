@@ -13,9 +13,6 @@
 - [Pause or exit strategies](#pause-or-exit-strategies) 
 - [Approval](#approval)
 
-
-
-
 > [!CAUTION]
 > No need to update the following part of the conversation guide.
 
@@ -127,8 +124,6 @@ IF NO: I’ll walk you through how to do that…
 Thanks! Now I’m able to see your screen too. 
 
 
-
-
 > [!NOTE]
 > This begins the editable section of the conversation guide
 
@@ -137,164 +132,37 @@ Thanks! Now I’m able to see your screen too.
 #### Estimated timing: 10-15 min
 > [If this is the first task, read this] 
 
-So for this task, we’re going to have you imagine that you had previously noticed your address was incorrect in your health benefits information. You have come to VA.gov but have not yet logged into your account. You have come to the 10-10EZR form to provide your updated address. We’d like you to walk us through what you would do to change your address, and we will ask you to pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. There is no rush, so take as much time as you would if you were actually doing this for yourself. Any questions before we begin? 
+<!-- Add your introductory statement here-->
+
 
 > [If this is NOT the first task, read this]
 
-So for this next task, we’re going to have you imagine that you had previously noticed your address was incorrect in your health benefits information. You have come to VA.gov but have not yet logged into your account. You have come to the 10-10EZR form to provide your updated address. Similar to the previous task, we’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. Any questions before we begin?
-
-Great. We will paste the new address you will use into the chat, but you won’t need to enter it until later in the task. The new address you will use is:
-
-**345 Mailing Address St.
-Fulton, NY 97063**
-
-With that information, go ahead and click on the ‘Green Task’ button and tell us how you would start this process.
+<!-- Add your continuation statement here-->
 
 > [Participant clicks on ‘Green task’ to start]
 
-### Screen 1 - Unauthenticated intro page:
+<!-- Add your continuation statement here-->
+### Screen 1 - Screen title:
 
+<!-- Add your task instructions here-->
 Tell us what you are seeing on this screen and your initial thoughts before clicking on anything.
 
-> If user does not mention the following aspects of the page, ask:
-- Did you determine where on this page you would need to click on to start the form?
-- Does reading this alert make you want to take any specific actions to change your address?
-- Do you think there are any benefits to signing in? What about staying signed out?
 
+<!-- Add your if, then questions here-->
+> If the user ... ask:
+- question 1
+- question 2
+- question 3
+
+<!-- Add your things to watch here-->
 > Things to watch for:
-> - Whether the unauthenticated alert entices the user to sign in to complete the form
-> - Whether they mention the benefits of signing in, especially prefill
+> - thing 1
+> - thing 2
 
-Thank you for that feedback. Now before we have you click that button labeled ‘Sign in to start your form’, you should know that we are doing some magic within our prototype to sign you in without you having to go through all those extra steps you would normally have to go through. So the next screen you’ll see would be what you would see after completing the sign in process. Go ahead and click on ‘Sign in to start your form’.
+<!-- Add your end of task questions here-->
+Thank you for that feedback.
 
-### Screen 2 - Authenticated intro page
-
-Ok, great! Now that we have you logged in, go ahead and tell us your initial reactions to this page.
-
-> If user does not mention the following aspects of the page, ask:
-- Did you notice that blue alert towards the bottom of the screen? 
-   - IF YES, What do you think of the location of that alert? Would you expect to see a message like that on this page?
-   - IF NOT, can you tell us why you think you didn’t see it?
-- Did seeing the word ‘Note’ in bold help draw your eye to that message?
-- Is it clear how to begin completing this form?
-
-> Things to watch for:
-> - Whether they notice the prefill alert on intro page towards the bottom of the page
-> - Do they think this is the right placement for this message?
-> - Their opinions on bolding ‘Note’ and if it makes an impact on what they read
-> - Do they know how to start the form?
-
-Thanks for that feedback.
-
-> If they did NOT notice the ‘Start your health benefits update form’ link
-
-Go ahead and select the ‘Start your health benefits update form’ link to move forward with this task.
-
-> If they DID notice the ‘Start your health benefits update form’ link
-
-Please move forward with updating your address.
-
-### Screen 3 - Locked data page
-
-Before moving forward from this page, can you tell us what you see here and your initial thoughts on it.
-
-> If user does not mention the following aspects of the page, ask:
-- Where do you think this personal information is pulled from in order to display it to you here? 
-- What do you think about the format of how your prefilled information is displayed? 
-- Did you read the section that starts with ‘Note’ and what do you think that is talking about? Did seeing the word ‘Note’ in bold impact your decision to read that section at all?
-- Do you think you are able to edit the personal information shown on this page?
-- What do you think that process would be to edit this information? Does that fit how you would want to edit that information, or would you expect to do it in a different way?
-- Would you expect any kind of notification on this page that this information has been prefilled based on what is in your profile?
-- If you found that some of your information was wrong here, what do you think you would do then?
-
-> Things to watch for:
-> - Whether they understand this information was prefilled. 
-> - Whether they notice that they can’t edit this information.
-> - Whether they understand why they cannot edit it.
-> - Whether they understand how they would update the prefilled data.
-
-Great, thank you for sharing all of that. 
-
-> If they didn’t notice the ‘Continue’ button
-
-Go ahead and select the ‘Continue’ button to move forward with this task.
-
-> If they did notice the ‘Continue’ button
-
-Please move forward with updating your address.
-
-### Screen 4 - Review mailing address page
-
-Before moving forward, can you tell us what you are seeing here and your initial thoughts on this page.
-
-> If user does not mention the following aspects of the page, ask:
-- Where do you think this personal information is pulled from in order to display it here to you?
-- What do you think about the format of how your prefilled information is displayed? 
-- Do you think you are able to edit the personal information shown on this page?
-- What do you think that process would be to edit this information? Does that fit how you would want to edit that information, or would you expect to do it in a different way?
-- Would you expect any kind of notification on this page that this information has been prefilled based on what is in your profile?
-- If you found that your address was wrong here, what do you think you would do then?
-
-> Things to watch for:
-> - Whether they understand this information was prefilled and where they think the data comes from
-> - Whether they understand the difference between the locked data view and editable data view
-> - Whether they notice the edit link
-
-Great, thanks for sharing your thoughts on all of that.
-
-> If they don’t notice the edit link
-
-Go ahead and select the ‘edit’ link to move forward with this task.
-
-> If they did notice the edit link
-
-Please move forward with updating your address.
-
-### Screen 5 - Edit your mailing address page:
-
-Before you do anything here, can you tell us what you are seeing and your initial thoughts on the page.
-
-> If user does not mention the following aspects of the page, ask:
-- Where do you think this personal information is being updated in your account? 
-   - In this example, your data is being saved to your account profile. Does that match what you would expect? 
-   - Would you like the ability to choose where this update gets saved?
-- Is your previous address provided where you would expect it to be? 
-- Is the ‘Save to Profile’ button where you expect it to be? 
-- What do you think happens when you select the ‘Cancel’ button?
-
-Great. Now go ahead and show us how you would update your address on this page to the new one we provided to you at the beginning of this task. You can come back to the chat and copy it from there, but I’ll read it to you as well:
-
-**345 Mailing Address St.
-Fulton, NY 97063**
-
-> Things to watch for:
-> - Whether they understand the information in the fields is prefilled from their profile data without the prefill alert
-> - Whether they understand where this information is getting updated and if that matches what they want
-> - Whether they expect the primary “Save to profile” button to be on the right instead of the left
-
-Great, thanks for your thoughts on all of that.
-
-> If they didn’t notice the ‘Save to Profile’ button
-
-Go ahead and select the ‘Save to Profile’ button to move forward with this task.
-
-> If they did notice the ‘Save to Profile’ button
-
-Please move forward with updating your address.
-
-### Screen 6 - Confirmation page:
-
-Before you do anything on this page, can you tell us what you are seeing and your initial reactions.
-
-> If user does not mention the following aspects of the page, ask:
-- Do you think the update has been made? Is it clear what information has been updated?
-- Where do you think the update has been saved? 
-
-> Things to watch for:
-> - Does the user notice the success alert and read the confirmation that their address has changed.
-> - If it is clear where the update saved.
-
-
+<!-- Add your closing statement here-->
 Great! Thank you for your thoughts on all of that. That brings us to the end of this task. I have a few follow up questions before we move onto the next task.
 - What do you think stood out to you most in that task?
 - Why do you think that is?
@@ -320,19 +188,15 @@ Well we really appreciate you taking the time to share your thoughts with us tod
 We just have a few remaining questions for you before we wrap up:
 > [Skip any of these that were already addressed by the participant in conversation]
 
-- We saw that blue alert message in some different places across the different tasks. Prototype (such as the form intro pages before and after login, pages where your data was prefilled, and pages where your prefilled data could be edited). Where does it make the most sense to you to show that type of information?
-- We saw your prefilled data styled differently between the green and yellow tasks. Did you have a preference between those two versions of how you would like to see your data displayed?
-- We saw when you went to edit your data, the data was either provided in a gray card or already filled in the fields. Which of those versions would you prefer to work with as you edit your information?
-- We saw the word ‘Note’ bolded sometimes, and other times it was not. Did that help to see that information better? 
-- We saw some messaging around not allowing certain information to be updated on the site itself, and about keeping your data secure. Does that information make an impact on your overall perception of the VA?
-- We saw some variations that had you save your changes to your profile, while others were saved only in the form. Do you have a preference between these two options? Would you want to be able to choose where that information update gets saved?
+- question 1
+- question 2
 
 Awesome, thanks so much for your opinion on these options. Your feedback is so helpful to us as we continue to work on VA.gov and make sure it really works for Veterans. 
 
 In general, I’d love to hear what you think about your overall experience - being scheduled for this research session, participating in the research session. Could we have done anything differently/better?
 
 I wanted to check back in about our recording. Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences. So I want to re-confirm that you are comfortable if we were to share a video clip of this session with our VA partners? 
-- If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+- IF YES: Is there any part of our discussion you would NOT want shared in a video clip?
 
 Do you have any final questions for me?
 
