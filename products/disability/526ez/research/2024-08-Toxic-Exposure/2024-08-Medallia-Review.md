@@ -12,6 +12,15 @@ We are reviewing Medallia data from July 1-August 9 2024 so we can establish a b
 
 ## Summary of responses
 
+### Overall 526ez
+|**Survey** |**Data point**|**Baseline (2024)**|**Pre-Launch**|
+|--|--|--|--|--|--|--|
+|**Feedback**|Feedback satisfaction|2.3|2.8|
+|**Feedback**|Task completion| 26% | 44.5% | | |
+|**Intercept**||CSAT [OCTO-Tracked]| 37.7%|41.9% | | |
+|**Intercept**|Trust Overall (High distrust 1 to high trust 5)**|3.53| 3.29 | | |
+|**Intercept**|Trust Gained/Lost (Percent difference from increase and decrease)|-6.1%| 9.2% | | |
+
 ### Feedback survey
 Between July 1 and August 9, 2024, the Medallia Feedback survey received **462 responses.** 
 
