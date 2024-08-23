@@ -33,8 +33,10 @@ Based on our findings, we will suggest content updates and work with CAIA to imp
    - 
   
 3. Evaluate the usability of the search functionality for locations.
-	- Questions
-  	- Questions
+	- Can sighted and assistive tech users easily use the search input and understand what choices are populated from that search?
+  	- Can users easily navigate a long list of search results?
+   	- Can users easily do a second search or new search from the search results page?
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
