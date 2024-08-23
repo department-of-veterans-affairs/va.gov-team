@@ -94,27 +94,12 @@ Details pages for historical records of each vital type are linked from the Vita
 - Healthcare records from during military service CANNOT be found here.
 - Veterans might go to /health-history by accident looking for medical records, so we should add a way for them to recover from that error and get in the right place (Once we reach Phase 1). 
 
-**Answered questions:**
+**FAQ:**
 1. If a user doesn't have data to show, will they not have it for all the reports, or could it just be for one report?
    **Answer**: If the user doesn't have data for that particular domain, they can still view data in other domains. We have an informational alert for pages that explains why the page is empty.
-2. Does VHIE apply to ppl who never got VA healthcare? If so, do we still want to show it to them?
-   **Answer**: VHIE will not apply to people who have never had healthcare.
-3. Users will most likely need help figuring out how to share the VA Health Summary with their provider. What's the right spot to give them that guidance?
+2. Users will most likely need help figuring out how to share the VA Health Summary with their provider. What's the right spot to give them that guidance?
    **Answer**: We aren't including the VA Health Summary (at least in Phase 0)
-4. How can we make the experience seamless for Veterans who come here from the unauth pages? How can we ensure the content isn't duplicative or contradictory?
 
-**Outstanding questions:**
-- identify where existing medical records and lab and test results link on My VA links to
-  - ![Destination of medical records link on va.gov](https://user-images.githubusercontent.com/122126772/227366022-7095ff05-a69f-421c-b919-ea67b42ffde3.png)
-- identify what changes are needed to health care hub, including the existing "get medical records" page and "lab an tests results" page
-  - Currently, we have a static page for lab and tests and for getting medical records, but not for health history. 
-  - Do we need to broaden page to include access to lab and tests as well as health history, or do we keep individual pages (health history page does not exist)
-  - Pull analytics and SEO data on existing pages and keywords for reference
-- redirects
-  - timing is based on different phases
-  - need to identify who will redirect myhealth.va.gov URLs
-- User flow changes 
-  - can we bypass the static page for authenticated users?
  
 ## <a name="archived"></a>Archived information (Out of date)<br>
 
