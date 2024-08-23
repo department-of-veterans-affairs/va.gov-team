@@ -3,8 +3,17 @@ Please log key decisions related to the below practice areas, including date, wh
 
 
 # Medical records design decisions
+## Aug 22, 2024
+### State of Product
+* Phase 0
+* Domains included: Allergies, Vaccines, Care Summaries and Notes, Vitals, Health Conditions, [NEW] Labs & Test Results 
 
-## Aug 1, 2023
+### General product design decisions
+| Decision | Reasoning |
+|----------|-----------| 
+| For Phase 0 we will continue to link back to MHV website for users to retrive images, blue button report, and health summary. | These are complex areas that take a lot of additional time to design, develop and test.  We want to get more veterans using the domains in the browser to give us feedback on the functionality.|
+
+## Aug 1, 2024
 ### State of Product
 * Phase 0
 * Domains included: Allergies, Vaccines, Care Summaries and Notes, [NEW] Vitals, Health Conditions
