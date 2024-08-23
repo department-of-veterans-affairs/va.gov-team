@@ -100,7 +100,8 @@ One Veteran recommended improved functionality for skipping around in the form a
 
 
 **4. Caregivers are among those actively seeking ways to file for Toxic Exposure online.**
-Despite the paradigm of self-service, we know that many Veterans are still getting help with filing online. I would like to keep an eye on how self-reported caregivers manage the information-intensive nature of the TE flow. 
+
+We know that many Veterans are getting help with filing online. I would like to keep an eye on how self-reported caregivers manage the information-intensive nature of the TE flow. 
    > "Get to the PACT form. I have called that number countless times over the past many months since my husbands passing and just keep getting passed on to a different agency with a promise that someone will call me back and the only agency that actual gave me a human was [org redacted]...But I still need to know which forms to submit for survivor benefits or posthumous disability re-evaluation based on death certificateâ€™s new information."
    > 
    > "I was trying to apply for Pact Act for my mother." 
@@ -113,6 +114,7 @@ Despite the paradigm of self-service, we know that many Veterans are still getti
 
 
 **5. Veterans have questions about their eligibility for the Pact Act-- and are looking for ways to file.**
+
 Questions were few in this first review, but buidling a more comprehensive understanding of FAQs from Veterans about Toxic Exposure will help us improve content. 
    > "File for pact act and determine if i am eligible for additional benefits since i am already rated at 100%?"
    > 
