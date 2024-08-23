@@ -26,24 +26,24 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] Go-no-go team established 
      
-- [ ] Review established definition of done for MVP 
+- [X] Review established definition of done for MVP 
 
-- [ ] Go-no-go meeting(s) scheduled 
-     - [ ] After readiness & staging review 
-     - [ ] Accessibility is included  
+- [X] Go-no-go meeting(s) scheduled 
+     - [X] After readiness & staging review 
+     - [X] Accessibility is included  
 
-- [ ] Team members and go/no-go decisions are added to the product decision log  
+- [X] Team members and go/no-go decisions are added to the product decision log  
 
-- [ ] Exit criteria for Phase 0 and entrance criteria for phase 1 agreed to by leadership 
+- [X] Exit criteria for Phase 0 and entrance criteria for phase 1 agreed to by leadership 
  
 
 ### Communication  
 
-- [ ] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
+- [X] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
 
-- [ ] Email to trusted users is shared with contact center teams and coordinators  
+- [X] Email to trusted users is shared with contact center teams and coordinators  
 
-- [ ] MHV SharePoint page announcing this shift is updated with information about phase 0 
+- [X] MHV SharePoint page announcing this shift is updated with information about phase 0 
 
  
 
