@@ -3,4 +3,5 @@ Unmoderated card sort testing how Veterans expect the information on their appoi
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-plan.md)
 - Conversation guide
+- Cart sort outline
 - Research repo
