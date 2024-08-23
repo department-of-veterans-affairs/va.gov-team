@@ -155,7 +155,7 @@ We have explored multiple conceptual models for submission. We collaborated clos
 
 ###### Submitting and Received
 
-####### Alginment across teams
+####### Alignment across teams
 
 As of Aug 9, 2024, Veteran Facing Forms and My VA is planning to soon release an update (with other non-526 forms) that uses this model. 
 
