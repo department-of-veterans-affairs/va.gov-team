@@ -33,7 +33,7 @@ Every Friday after the first full week of the rollout, we will request Medallia 
 |**Week 2**| Sep 7 - 13 | (10-50%) | Sep 20 |
 |**Week 3** | Sep 14 - Sep 20 | (50%-100)| Sep 27|
 
-|**Rollout %**|**Dates of rollout (will stay updated based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000)**|
+|**Rollout %**|**Dates of 1.0 rollout (will stay updated based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|
 |--|--|
 |5%| Aug 28 - Sep 2 | 
 |10%| Sep 3 - 8 | 
