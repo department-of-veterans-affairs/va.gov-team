@@ -18,10 +18,9 @@ We are monitoring the TE release to ensure it meets user expectations and perfor
 We will be responsive to the release, updating our monitoring approach as we learn more/better. 
 
 ### Guiding Questions for UX Monitoring
-1. How many Veterans are choosing to answer the TE questions? [opt-in %]
+1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
 2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
-3. What challenges are Veterans encountering with the TE flow?
-  -   Are users encountering any technical issues or bugs with the feature?
+3. What challenges (usability issues, bugs, general pain points) are Veterans encountering with the feature? 
 4. How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
 5. What impact does the new feature have on Veteran trust in VA?
 
