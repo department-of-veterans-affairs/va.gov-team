@@ -196,7 +196,7 @@ Section III
 - Team Name: 10-10 Health Apps team
 - GitHub Label(s): 1010-team
 - Slack channel: #1010-health-apps
-- Product POCs: 
+- Product POCs: Heather Justice
 
 </details>
 
@@ -207,7 +207,7 @@ Section III
 <details>
   
 - Office/Department: OCTO, VES, VEO, HEC
-- Contact(s): 
+- Contact(s): Patrick Bateman, Lois Lewis, Joshua Faulkner, Bryan Burgan
  
 </details>
 
