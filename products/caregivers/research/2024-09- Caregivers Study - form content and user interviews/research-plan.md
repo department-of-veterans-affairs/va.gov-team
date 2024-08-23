@@ -7,16 +7,16 @@ It's been a few years since a comprehensive research study has been done on the 
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+This research supports [OCTO's goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) to make our digital experiences the best way to access VA health care and benefits by ensuring that the process of adding and changing caregivers can be done easily and seamlessly online.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+The 10-10CG form can fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) any time between starting up and dying, as a Veteran could be designating a caregiver right after separating from the military due to disabilities from service or could need a caregiver later in life.
+
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+1. Learn more about caregiver clarification content needs within the form (vs before/outside of).
+2. Learn more about the overall experience of multiple people completing one form.
+3. Evaluate the usability of the search functionality for locations
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
