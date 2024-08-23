@@ -24,10 +24,10 @@ Add values:
 
 With the above dimensions and metrics, one can run reports for many of the data we want to track. However, at this point, no data will populate within the report. Follow the instructions below for each metric to add to and change the base report into something useable.
 
-### **Set up explore reports to track our eval plan metrics**
+## **Set up explore reports to track our eval plan metrics**
 Start with the base report described above.
 
-#### What are the most clicked links on the landing page? Which are least clicked?
+### What are the most clicked links on the landing page? Which are least clicked?
 
 Add rows: 
 - Heading
@@ -47,9 +47,9 @@ Notes
 - This report will include a few random links from the sitewide footer. You can just ignore those links.
 - If you want to see highest clicks per area of the page, i.e. Which cards have the highest clicks?, then change dropdown Nested Rows to yes. To get highest clicks to lowest irrespective of their location on the page, change dropdown Nested Rows to no. 
 
-#### How are users navigating the portal, i.e. breadcrumbs, landing page, secondary nav?
+### How are users navigating the portal, i.e. breadcrumbs, landing page, secondary nav?
 
-##### Where do breadcrumbs get most clicks? And which breadcrumbs get the most clicks?
+#### Where do breadcrumbs get most clicks? And which breadcrumbs get the most clicks?
 
 Add rows: 
 - Page path and screen class
@@ -63,7 +63,7 @@ Notes
 - If you want to see the report sorted by pages with highest clicks, set Nested Rows to yes. To see report sorted by highest click per breadcrumb, irrespective of the page, set Nested Rows to no.
 - To see which breadcrumb link text and url combination gets the most clicks throughout the portal, remove Page path and screen class from Rows.
 
-##### Where does the secondary nav get the most clicks? And which secondary nav link gets the most clicks?
+#### Where does the secondary nav get the most clicks? And which secondary nav link gets the most clicks?
 
 Add rows: 
 - Page path and screen class
