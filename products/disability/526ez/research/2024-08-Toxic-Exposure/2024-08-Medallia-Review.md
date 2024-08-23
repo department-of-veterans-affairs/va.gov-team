@@ -35,7 +35,9 @@ User feedback was most concentrated at the very beginning of the form, despite t
 |3| Veteran Information | 7 | 8% |
 
 ## Top Themes
-I coded all qualitative user feedback using the codes developed in our last Medallia review (March 2023 data) and added new ones as needed. Most common specific feedback themes included usability issues, Pact Act references, problems with error blockers, and navigation.  See Appendix for full list of codes/themes and definitions. 
+I coded all qualitative user feedback using the codes developed in our last Medallia review (March 2023 data) and added new ones as needed. 
+
+Most common specific feedback themes included usability issues, Pact Act references, problems with error blockers, and navigation. See Appendix for full list of codes/themes and definitions. 
 |Code|Feedback count| Intercept count|Definition|
 |--|--|--|--|
 |Usability| 33 |--|Responses that describe specific usability issues not encompassed by other tags. Examples include character limits, inability to update prefill, not being able to continue, etc.|
