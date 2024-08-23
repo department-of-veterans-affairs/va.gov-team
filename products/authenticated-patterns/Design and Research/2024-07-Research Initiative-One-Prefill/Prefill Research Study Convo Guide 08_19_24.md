@@ -293,7 +293,7 @@ Do you have any questions before we move on?
 
 > [If there are more tasks]
 
-Awesome. Please select ‘Continue’ to head back to our navigation homepage. 
+Awesome. Please click the "home" tab at the top of the page. 
 
 > [If this is the last task - go to the end of the convo guide for closing questions] 
 
@@ -429,7 +429,7 @@ Great, you only need to update the address from "123" to "345"
 **345 Mailing Address St.
 Fulton, NY 97063**
 
-Go ahead and show us how you would update your address on this page.
+Go ahead and show us how you would make that change on this page.
 
 > [!IMPORTANT]
 > Things to watch for:
@@ -461,7 +461,6 @@ Before you do anything on this page, can you tell us what you are seeing and you
 > - Does the user notice the success alert and read the confirmation that their address has changed?
 > - If it is clear where the update saved.
 
-
 Great! Thank you for your thoughts on all of that. That brings us to the end of this task. I have a few follow up questions before we move onto the next task.
 - What do you think stood out to you most in that task?
 - Why do you think that is?
@@ -472,7 +471,7 @@ Do you have any questions before we move on?
 
 > [If there are more tasks]
 
-Awesome. Please select ‘Continue’ to head back to our navigation homepage. 
+Awesome. Please click the "home" tab at the top of the page
 
 > [If this is the last task - go to the end of the convo guide for closing questions]
 
@@ -618,6 +617,9 @@ We just have a few remaining questions for you before we wrap up:
 - We saw the word ‘Note’ bolded sometimes, and other times it was not. Did that help to see that information better? 
 - We saw some messaging around not allowing certain information to be updated on the site itself, and about keeping your data secure. Does that information make an impact on your overall perception of the VA?
 - We saw some variations that had you save your changes to your profile, while others were saved only in the form. Do you have a preference between these two options? Would you want to be able to choose where that information update gets saved?
+
+>If Purple is not the last task:
+Thank you for your feedback. Your incites are very helpful to us. We are finished with this task so please select the "home" tab at the top of the page.
 
 Awesome, thanks so much for your opinion on these options. Your feedback is so helpful to us as we continue to work on VA.gov and make sure it really works for Veterans. 
 
