@@ -13,6 +13,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 * Incident Management process
 * Outage Communication strategies for Veterans and other VA.gov teams.
 * System recovery plan.
+  * This an ATO requirement.
 * Internal reporting on incidents.
 
 ## Relevant Documents:
@@ -32,6 +33,11 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 - [SSOe Outage on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Policies%20and%20Procedures/SSOe_Outage_Response.md)
 - [Update Monitors Alerts Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/Monitoring%20and%20Alerting/Monitors_Alerts_Datadog.md) (very old, should be deleted after mined for use)
 
+**Other Docs**
+- [Refinement (May 24, 2024)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Refinement.md)
+- [Datadog Incident Management]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md)
+
+
 ## What's In Scope: 
 ### These deliverables:
 * [Incident Management Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Management%20System.md)
@@ -40,6 +46,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
   * External (when applicable)
 * [System Recovery Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/System%20Recovery%20Process.md)
 * [Internal Reporting on Incidents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Internal%20Reporting.md)
+
 
 ### For these areas of responsibility:
 **Directly Responsible**
@@ -54,6 +61,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 
   
 ## Out of Scope: (for this iteration)
+As per Samara:
 * Status Page
 * Planned Outage Communications
 

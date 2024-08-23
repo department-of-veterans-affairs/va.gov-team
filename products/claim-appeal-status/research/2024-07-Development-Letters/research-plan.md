@@ -67,7 +67,7 @@ Remote on Zoom
 ### Research materials
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-07-Development-Letters/conversation-guide.md)
-- [Prototype](https://www.figma.com/proto/BUdMIxAiIutG12rZxZ0cg1/Claim-Letters-Navigation-%2B-5103-Alert-Updates?page-id=1587%3A1313&node-id=2479-8381&viewport=-1408%2C439%2C0.3&t=VM8qfQw8oRHXlTzj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2479%3A8381)
+- [Prototype](https://www.figma.com/proto/BUdMIxAiIutG12rZxZ0cg1/Claim-Letters-Navigation-%2B-5103-Alert-Updates?node-id=1587-1313&t=DIduZYnsoaPYuT1q-1)
 	
 ## Recruitment	
 
@@ -89,6 +89,8 @@ We intend to use Maximum Variation Sampling as a recruitment strategy. Below is 
 - 10 participants should be Black or Hispanic Veterans
 - 5 participants should be in a rural area
 - 2 (at least) should be women
+
+For more details about our criteria, refer to our [Recruitment ticket.](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/632)
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 

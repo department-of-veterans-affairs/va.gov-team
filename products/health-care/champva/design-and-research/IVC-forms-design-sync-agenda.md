@@ -1,4 +1,138 @@
 # Running Design and Research Agenda
+## August 19, 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang
+- Facilitator: Jamie
+- Next meeting facilitator: Steven
+- Agenda Topics
+	- Review OHI Medicare card upload screen
+ 	- Review CHAMPVA claims doc upload
+	- Review CHAMPVA Application and OHI forms merge
+ 	- Talk through any PRA risks involved with the CHAMPVA Application and OHI merge
+  
+ 
+### Notes
+- OHI: Frame the question about Medicare cards as we are trying to reduce the content on the uploaded screen if other card types are not needed. 
+	- If we only need the "red white and blue" card, provide examples of what the card looks like. Keep a11y in mind while doing this. 
+	- When digital form launches we will remove the OHI questions from the 1010d
+- Claims Download: Consider clarifying content on the doc uploads especially if needed to upload 2 EOBs for 2 insurances. 
+	- The current design is meant to break out content on the upload screens because there is so much info. 
+ 	- Consider exploring combining the 2 EOBs screens. 
+ 	- Double check why we got push back on preempting the bene that they will need to upload the EOB on a separate screen.
+	- We will continue to use the current flow for user-testing 
+  	- We will be able to ask about this in testing (what do you wish happened). 
+- 1010D merge and OHI: check out what the 1010ez team did to add the OHI questions  and if they have any research that may be relevant to us.
+	- Lois will share the research that she can find.
+ 	- Premal: the PRA has more to do with the public burden. Not increasing the burden because the OHI cert is part of the application process. Premal will gather more data around this.
+  	- Look at how the 1010 team is documenting the changes on existing forms so it's easier to present to stakeholders. Lois can gather the files from the 1010 team
+  	- - We need to launch the OHI and 1010D first before continuing further with the design
+  	  - Syd checked with 1010ez team on 8/20/24 and they do not integrate any OHI questions (Slack thread: https://dsva.slack.com/archives/C076R0F49L0/p1724180087168479)
+  
+### Decisions and action items
+- Ask the OHI/Claims IVC team about their process involving the schedule of benefits.
+	- Syd asked and: they have not dealt with 10-7959c (OHI form) in any capacity
+- New patterns on confirmation may have a print to pdf button. Design team to look into.
+	- Syd looked into it and there is a pattern being made right now, but not yet available for use (Slack thread: https://dsva.slack.com/archives/C01DBGX4P45/p1724180305823079)
+	- 10-10CG team does have a "Download completed form" button, Syd to look into if we can use it or if we have to wait for Jeana's designs
+- Premal will gather more data around PRA and the 1010d OHI Merge.
+- Lois will share examples of how the 1010 team presents their changes to an existing digital form
+- Probe on the billing statement and EOB upload screen in research to gather more data.
+- Ask the IVC team about the types of cards they need in order to process the OHI cert
+
+  
+## August 12, 2024
+- Attendees: Jamie Fiore, Steven Straily, Syd Hoeper, Bo Altes, Brian Wilke, Lois Lewis, Premal Shah, Laura Willworth
+- Facilitator: Syd
+- Next meeting facilitator: Brian
+- Agenda Topics
+	- Regroup on 10-10d remarriage flow (Jamie)
+ 	- Design pattern question around save and sign in (Lois)
+	- Invited Laura for the second half of meeting for remarriage conversation
+
+### Notes
+- For first iteration, prefill will not be used for FMP; Save in progress will be used right away
+- Remarriage feasability for launch and post-launch
+	-  Option B is the least amount of effort as 
+	-  Discussion around whether or not to include certain required documents regarding eligibility
+
+### Decisions and action items
+- Premal and Lois to inquire with the business side about needing the remarriage ending doc
+- Need to make a decision on which pattern we're using -- will make that decision based on information we get from stakeholders regarding the required paperwork
+- Jamie to explore another remarriange flow with one upload screen to capture all documents
+- Laura to take a stab at the upload screen copy
+- Premal to add designers to meeting with Delaney this afternoon
+- Laura will send static documents
+
+
+
+## August 5, 2024
+- Attendees: Jamie Fiore, Steven Straily, Syd Hoeper, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah, Devi Hill
+- Facilitator: Rachael
+- Next meeting facilitator: TBD
+- Agenda Topics
+  - Suggestions or discourse related to the upcoming CHAMPVA claims user research
+  - Example of [design option presentation](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=5274-33024&t=zQF3QsdoeTPoeiVB-1) from 1010ez team
+  - Addressing [CAIA comments on 10-10d](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70698)
+### Notes
+- Suggestions or discourse related to the upcoming CHAMPVA claims user research
+	- User critical tasks around new uploads
+	- Similar methodology to 10-10d
+	- Lois: health team has an exercise they do ahead of time. Let's maybe go over it on Thursday. Anne Costello on MHV team.
+	- Add Syd, Jamie to that meeting.
+ 	- Lois will share with us the Mural after the call.
+- If we are trying to understand how to change a feature, wireframe a few  options using [design option presentation](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=5274-33024&t=zQF3QsdoeTPoeiVB-1)
+	- Also appreciates how their Figma files are organized.
+	 - Jamie shared the 10-10 team's [process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-collab.md) and we might want to reference this when considering how we iterate and work in Figma
+- [CAIA comments on 10-10d](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70698)
+	- We have addressed general delivery/homelessness question and some other items in staging
+ 	- Need to figure these things out before we move forward, but we don't need to implement them all. Need to consider and respond.
+ 	- Remarriage question will be removed
+  		- Remarriage documentation - stakeholders have said they don't need the documents, they just need the date
+  			- PRA - we can't ask questions that aren't on the form. But we may be able to ask for documents.
+  	- Premal comfortable with the delays it may cause.
+  	- Optional docs - post launch
+
+### Decisions and action items
+- Will conduct information-gathering exercise re: CHAMPVA claims research during Thursday's research meeting - what do we want to learn?
+- Will reference Lois' design option presentation when considering and sharing multiple options.
+- Consider and respond to/address CAIA ticket
+	- Remarriage - ask for documents. Divorce too?
+ 		- Screening questions are OK if it gets us to the right document uploads
+ 		- We need to match the data CAIA is asking for on their intro pages
+		- Consider making language more vague to capture edge cases.
+ 		- Provide a few options to present to Lois and Premal, CAIA.
+  	- Homelessness question - double check and  make sure Figma matches staging. We took it out. Also add it to design decisions documentation.
+  	- 3rd party signer - also developing. Make sure Figma matches staging between 10-10d and 59a.
+  	- Optional docs - post-launch
+  	- Provide justification for repeitive content - recognition over recall, accessibility
+
+## July 29, 2024
+- Attendees: Jamie Fiore, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
+- Facilitator: Jamie
+- Next meeting facilitator: TBD
+- Agenda Topics
+  - Confirming we're adding content changes post research for 10-10d and CAIA collaboration.
+  - Touch on 10-10d accessibility testing for staging review.
+  - There's a question from CAIA about (North or South) Korea as an option to choose from may want to look into to what other forms. Lois to look further about this.
+  - In the future think about if this is a way the Design can help Premal answer questions on the larger IVC presentation? Maybe and Design FAQ or compiling our decision docs. 
+### Notes
+- What is our communciation plan with CAIA beyond sharing the full report with them? Check with 1010EZ team how they do this.
+    	- There weren't many changes made post testing(aligned the inrto page with the lastest form VADS and updating Headers so there are no duplicates. Possibly talk to CAIA about to move past content review pre-staging.
+- There is [an artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D) that we need to present prior to staging review
+- Rachael has anticpated the 1010d (CHAMPVA Registation) a11y testing to staging review and is prepared. Will need more than 1 day to complete and can prioritize it for next sprint. She may need some addtional support to get this and the other work done for the sprint.
+  - Needs to be done 4 days before Staging
+  - They are many other artifacts/checklists to be done prior to staging. Bo is working on the others.
+  - Recommended that we don't schedule Staging Review prior to be a11y being done.
+  - Plan for testing to produce more changes to be made by engineering
+  - Make it top priority for next sprint
+  - Need to make sure frontend/backend engineering is complete
+  - Still acheivable to work on the convo guide and research
+### Decisions and action items
+- Recap what was changed on 1010D (CHAMPVA Registation) the Figma post user testing to CAIA in the [Slack thread](https://dsva.slack.com/team/U03CGUVK1U5)
+- Check in with the 1010EZ team to learn if we can streamline our communciation with CAIA with how they are communicating with them so we can acheive all of the touchpoints clearly prior to production
+-  Lois, Jamie, Steven and Brian to help run the 1010d a11y tests if capacity allows
+-  Premal is ok with taking risk if there are small engineering changes that are made after testing has started.
+
+
 ## July 22, 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil, Lois Lewis, Premal Shah
 - Facilitator: Steven

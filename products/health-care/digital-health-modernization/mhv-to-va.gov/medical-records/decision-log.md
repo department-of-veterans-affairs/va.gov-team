@@ -3,6 +3,29 @@ Please log key decisions related to the below practice areas, including date, wh
 
 
 # Medical records design decisions
+## Aug 22, 2024
+### State of Product
+* Phase 0
+* Domains included: Allergies, Vaccines, Care Summaries and Notes, Vitals, Health Conditions, [NEW] Labs & Test Results 
+
+### General product design decisions
+| Decision | Reasoning |
+|----------|-----------| 
+| For Phase 0 we will continue to link back to MHV website for users to retrive images, blue button report, and health summary. | These are complex areas that take a lot of additional time to design, develop and test.  We want to get more veterans using the domains in the browser to give us feedback on the functionality.|
+
+## Aug 1, 2024
+### State of Product
+* Phase 0
+* Domains included: Allergies, Vaccines, Care Summaries and Notes, [NEW] Vitals, Health Conditions
+
+### General product design decisions
+| Decision | Reasoning |
+|----------|-----------| 
+| Even though Veterans will eventually *not* have the ability to self-enter data via MHV Classic, we must provide access to their previously entered data via Blue Button. | VA is legally required to give Veterans access to all of their data |
+| Blue Button will contain all data types available in MHV Classic, and will continue to do so until we have been advised otherwise by OCC leadership (currently Theresa and Bresha) | MVP will *not* include newly entered data via new self-entry surveys or online forms; later enhancements to include are TBD |
+| MHV on va.gov will not provide the ability for users to self-enter data | New data will be entered via OCC web + check in surveys |
+| Continuity of Care Document (CCD) will be built according to [Modern C-CDA standards on FHIR.org](https://build.fhir.org/ig/HL7/CDA-ccda/StructureDefinition-ContinuityofCareDocumentCCD.html) | Requirements for CCD on VA.gov are from 2018 and we need to adhere to current standards |
+
 
 ## Feb 27, 2024
 ### State of product
@@ -12,9 +35,9 @@ Please log key decisions related to the below practice areas, including date, wh
 ### General product design decisions
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------| 
-|Veterans will *not* have the ability to enter new data into their medical record as they are able to in MHV today.| OCC is working on new ways for Veterans to enter data (web + mobile). Where/how this data will be viewed is TBD. If they are able to print/download historically entered data in that view is still TBD.|
-| MHV on va.gov will continue to have the "Blue Button" concept, which will combine all historcial information, including prior self-entered data. |This will not include newly entered data via OCC web + mobile pathways.|
-| MHV on va.gov will point to the OCC web + mobile self-entry paths that are being built. |This will not include newly entered data via OCC web + mobile pathways that are being built.|
+| Veterans will *not* have the ability to enter new data into their medical record as they are able to in MHV today.| OCC is working on new ways for Veterans to enter data (web + mobile). Where/how this data will be viewed is TBD. If they are able to print/download historically entered data in that view is still TBD.|
+| MHV on va.gov will continue to have the "Blue Button" concept, which will combine all historcial information, including prior self-entered data. | This will not include newly entered data via OCC web + mobile pathways.|
+| MHV on va.gov will point to the OCC web + mobile self-entry paths that are being built. | This will not include newly entered data via OCC web + mobile pathways that are being built.|
 
 Decisions made on OCC/OCTO Leadership meeting with Dr. Josephs, Theresa Hancock, Shawn Hardenbrook (OCC), Lauren Alexanderson, Marci Mcguire and Kaitlin Fink.
 

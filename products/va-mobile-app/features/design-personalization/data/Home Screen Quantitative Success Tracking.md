@@ -22,22 +22,21 @@ While lagging indicators, like retention rate are strong indicators of value for
 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|Personalized home screen adoption| N/A ||||
-|Home screen load speed|5.6 secs||||
-|Unread message read rate|20.31%||||
-|Claims view rate|67.99%||||
-|Prescription refill rate|59.69%||||
-|Appointment Page View Rate|34.66%|||
-|Home screen modules clicks|N/A||||
+|Home screen load speed|6.78 secs||||
+|Unread message read rate|N/A||||
+|Claims view rate|65.90%||||
+|Prescription refill rate|16.28%||||
+|Appointment Page View Rate|36.18%|||
 
-* Date Range: 02/27/24 - 04/28/24
+
+* Date Range: 03/01/24 - 07/31/24
 
 ### Retention Rates 
 
-| Vateran Behavior | 30-Day Rate | 60-Day Rate | 90-Day Days Rate | 120-Day Rate| 150-Day Rate | 180-Day Rate |
+| Veteran Behavior | 1 Month | 2 Month | 3 Month | 4 Month| 5 Month | 6 Month |
 | -------- | -------- | ---------- | ----------------- | -----------------| ----------- | --------- |
-| Vateran Opened App & Viewed Home Screen | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
+| Veteran Opened App & Viewed Home Screen | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
 
 
 
-* Retention Cohort Date Range: 10/01/23 - 10/31/23 
+* Retention study starts in October 2023. 

@@ -18,6 +18,11 @@ _What details are necessary for understanding the specific work or request track
 
 ## Impacted Artifacts
 
+### Live pages
+- 
+
+### Drafted pages
+- 
 
 ## Tasks
 - [ ] _Placeholder task_

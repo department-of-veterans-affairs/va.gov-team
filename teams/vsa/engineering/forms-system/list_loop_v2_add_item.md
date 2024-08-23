@@ -1,6 +1,6 @@
 Check out these other pages:
 - [list loop](list_loop.md) for the form system list loop
-- [contact info list loop](list_loop_v2_contact_info.md) which allows editing contact info in 3 separate pages
+- [contact info list loop](list_loop_v3_contact_info.md) which allows editing contact info in 3 separate pages
 
 ---
 

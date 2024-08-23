@@ -68,7 +68,7 @@ Your health care | Medical images and reports |   | MHV Migration Item | Email 
 Your health care | My HealtheVet new secure message available |   | MHV Migration Item | Email | No
 Board of Veterans' Appeals | Appeals hearing reminder |   |   | Text | Yes
 Board of Veterans' Appeals | Appeals status updates |   |   | Text | Yes
-Payments | Disability and Pension Deposit Notification |   | Requires VA Notify Support prior to enablement | Text | No
+Payments | Disability and Pension Deposit Notification |   | Requires VA Notify Support prior to enablement | Text | Yes
 Payments | New benefit overpayment debt notification | [Caia naming convention ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83243)   |  | Email | No
 Payments | New health care copay bill | [Caia naming convention ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83243) | | Email | No
 QuickSubmit | QuickSubmit | A notification and preference around a platform called "QuickSubmit" | This should NEVER display in the profile and is behind a gate | Email | No
@@ -76,6 +76,8 @@ QuickSubmit | QuickSubmit | A notification and preference around a platform call
 <!--EndFragment-->
 </body>
 </html>
+
+[notification.preferences.workbook.002.xlsx](https://github.com/user-attachments/files/16515452/Copy.of.notification.preferences.workbook.002.xlsx)
 
 
 ## User Outcomes
@@ -133,4 +135,5 @@ Additional details can be found [here](https://github.com/department-of-veterans
 ## Design and UX
 - [Notification preferences](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A1&mode=design&t=y8vih7OCF5PGBczD-1)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/README.md)
+
 

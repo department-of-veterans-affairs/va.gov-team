@@ -1,5 +1,7 @@
 # Decision and Change Log: Find a Representative
 
+This document is actively maintained by Product Manager, Lindsay Li-Smith, and updates are made every Friday.
+
 - **10/20/2023**: Decided to split into distinct products (Find, Appoint and Widget).\
   _Discussed by the ARM team starting on 10/18/2023 and direction confirmed by Product Owner Zach Goldfine ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1697658933875239))._
 - **10/27/2023**: Representative definitions are updated with stakeholder feedback.\
@@ -10,6 +12,8 @@
   _Recommended as part of research findings for the Find a Representative User Test (_[_research recommendations_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-11-ARM-findarep-nav-usertest/research-findings.md#mission-critical-recommendations)_)._
 - **:tada: 3/13/2024**: Released 2.0 to 100% of users, “Best Bets” keywords were implemented to boost search-ability.\
   _([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md))._
+- **3/18/2024**: Lighthouse requests we move our code (endpoints, controllers, modules and Sideqik jobs) out of the `Veteran` module in `vets-api` to avoid any unexpected/unintended access, as the the `Veteran` module is publicly routable through the Lighthouse Gateway and this mixed module leads to unexpected code review requirements and untracked endpoints routable via the Lighthouse Gateway. \
+  _Communicated by Technical Lead Holden Hinkle and context provided by Lighthouse team members ([Slack message](https://dsva.slack.com/archives/C013VCQKSE7/p1710784815479299))._
 - **6/7/2024**: Removed the “Other” text input in the Report Outdated Information modal, because users were entering PII. All PII data has been removed.\
   _Initiated by Program Manager Parker Baranowski, managed by the ARM team, with VA Enablement staying informed ([post mortem - awaiting review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/pull/1722#pullrequestreview-2130200755))._
 - **7/18/2024**: Decided to remove the Report Outdated Information feature.\

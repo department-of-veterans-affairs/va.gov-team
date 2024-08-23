@@ -8,7 +8,7 @@
 
 **Product Documentation:** 
 * [Push Notifications - Requirements Template](https://docs.google.com/spreadsheets/d/15II0OsOnKQrqr-5DQiCNa5MQq9qN2vhANVpU0yOzGf0/edit#gid=1048790704)
-* [DRAFT Push Notification Consent in the VA Mobile App - Recommended Approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/product/Push%20Notification%20Consent%20-%20recommendation.md)
+* [Push Notification Consent in the VA Mobile App - Recommended Approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/product/Push%20Notification%20Consent%20-%20recommendation.md)
 
 **Presentations:**
 * Push Notifications - Phase 1 Approach (Dec 2023) [doc](https://docs.google.com/presentation/d/1d6fsZiZ8IrWyQ1S84GtcNEhD7dHjvp4_zwruEi9sUdM/edit?usp=drive_link) | [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/product/Push%20Notifications%20-%20Phase%201%20Approach.pdf)

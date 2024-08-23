@@ -1,9 +1,9 @@
 
 
-# DRAFT Push Notification Consent in the VA Mobile App - Recommended Approach
+# Push Notification Consent in the VA Mobile App - Recommended Approach
 
-April 2024
-
+April 2024  
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team
 
 VA does not currently have a standard operating procedure for sending push notifications to VA mobile app users. However, VA states in the [VA SOP for Delivering SMS Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf) that it intends to “limit unsolicited or unwanted automated communication to Veterans,” and lays out guidelines for requiring consent before sending various types of messages to Veterans.
 

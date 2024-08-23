@@ -13,7 +13,7 @@ Man | 40 years old | Hispanic, Latino, or Spanish origin
 
 Man | 34 years old | White
 
-Man | X years old |
+Man | 43 years old | White
 
 ## Research Goals	
 The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for users who sign in with `ID.me` or `Login.gov` and who have direct deposit set up with their bank information. 

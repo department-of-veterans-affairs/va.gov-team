@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: June 26, 2024
+Last updated by @tygindraux: August 8, 2024
 
 This document is for our design team to communicate field rules.
 
@@ -56,8 +56,9 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
 ## Branch of service
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Require Veteran's `Branch of Service`|`What's your question about` = `It's a general question`|
+|Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Require Veteran's `Branch of Service`|Who is your question about? = `It's a general question`|
 
+- Even if the question is **not** about the Veteran, we still need to require the Veteran's branch of service (for these categories and if it's not a general question).
 - While this data is in MPI, agents are not able to look this up using their MPI search tool in the CRM.
 
 ## Location and postal code
@@ -67,8 +68,14 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school` or `State of residency`||
-|Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `State of school` or `School facility`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Business|Require `School facility` or `State of facility` depending on role*||
 |All other categories|Don't include school fields||
+
+- *For business inquiries, whether to require `School facility` or `State of facility` depends on which role the submitter chooses.
+  - If: Role = ON-THE-JOB TRAINING OR APPRENTICESHIP SUPERVISOR or SCHOOL CERTIFYING OFFICIAL (SCO)
+    - Then: Require `School facility` (If they choose, 'facility not listed' then ask for 'State of school')
+  - If: Role = VA EMPLOYEE or WORK STUDY SITE SUPERVISOR or OTHER
+    - Then: Require `State of facility'
 
 ## Medical facility
 |If|Then|Unless|

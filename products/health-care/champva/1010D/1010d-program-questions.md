@@ -39,6 +39,10 @@
 |37|New|Signer| Is a parent or third party required to sign for a “helpless child”?|no|yes||
 |38|New|Signer| Can you confirm that a parent can submit this form for a child over 23 if the child can't submit the form on their own? And what documents are required if so?|no|yes||
 |39|New|Signer|Is there an age requirement for signing CHAMPVA Forms?Can a person under 18 submit and sign their own Enrollment or OHI cert? |no|yes||
+|40|Completed|Supporting docs|We heard that if a person needs to mail in supporting docs after their form is digitally submitted the applicants would need to write their full name and the confirmation number on each page of the hard copy. For launch we can't support assigning confirmation numbers on the form submission just yet. Is there another piece of information that applicants should include to better help you match up the digital submission with the mail-in docs? |no|yes|Sponsor’s name and last 4 #'s of the sponsor’s SSN |
+|41|Completed|PEGA| Would the contact center be able to answer questions about the status of a claim if we are in a scenario where the PDF has been submitted, but a confirmation email hasn't gone out.|no|yes|In October they will be able to see metadata in PEGA regardless if the file has been created or not. Before October they can only see the data if the file has been created. IVC can escalate it if they don’t see a file. In this case, the call center will contact the applicant. IVC when to limit the amount of times they ask an applicants to resend the form.|
+|42|Completed|Call Center|If an applicant needs to call the call center for a status inquiry about their form what info will they need to give to the call center?|no|yes|If an applicant is calling in to the call center, the applicant needs to provide 4 identifiers: name address, DOB and social security number. |
+
 
 
 

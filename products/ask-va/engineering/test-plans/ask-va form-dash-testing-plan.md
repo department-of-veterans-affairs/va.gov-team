@@ -53,6 +53,19 @@ IN Progress
 
 The research plan can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Accessibility%20audit%20plan.md) in github.  
 
+**RPA Testing**
+
+ Scope: Confirming that the 2 Robotic Process Automation (RPA) Bots in production still function. 
+ 
+Context: The RPA bots are scraping the CRM Agent for the Category and Topics: 
+
+ - Compensation Category
+ - Status of Claim Topic 
+
+ The AVA team will coordinate with a representative from the RPA to test in staging that the bots are unaffected pre launch. 
+ 
+ Note: It is expected that our update will not break these bots with the inscope changes to AVA, but this should be a watch out to monitor for future releases as well.
+
 ### 4. Testing Team
 - VA.gov Team: FE Unit tests, BE (Vets API) Unit tests, integration testing, accessibility testing, manual testing, and automated E2E testing.
 - CRM Team: E2E testing facilitation.

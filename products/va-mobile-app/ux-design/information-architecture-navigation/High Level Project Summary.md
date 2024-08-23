@@ -2,7 +2,6 @@
 
 # **VA Mobile App: Information Architecture & Navigation - High Level Project Summary**
 
-
 This summary describes the background & motivation, purpose & research goals, research questions and planned process/methods for the [VA Mobile App IA & Navigation project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/nav-and-IA-updates).
 For a quick overview, see the following slide deck: [VA Mobile App - IA & Navigation Project Process Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-design/information-architecture-navigation/2023%20VA%20Mobile%20App%20-%20IA%20%26%20Navigation%20Project%20Summary.pdf)
 
@@ -163,5 +162,5 @@ For detailed protocol on each part of the study, see:
   * Navigation model explorations & audit: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)) and Melissa Lefevre, with Mobile UX team
   * Sitemap: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
   * High level navigation model wireframes & prototype: Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us))
-  * High fidelity screen templates for navigation model: Lauren Russell ([lauren.russell@adhocteam.us](mailto:lauren.russell@adhocteam.us))
+  * High fidelity visual design for screen templates: Lauren Russell ([lauren.russell@adhocteam.us](mailto:lauren.russell@adhocteam.us))
 

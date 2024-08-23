@@ -14,7 +14,7 @@ The VA.gov Identity team maintains a [Postman collection](https://github.com/dep
 
 * Make sure your local installation of [vets-api](https://github.com/department-of-veterans-affairs/vets-api) and [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata) repository are up to date.
 * Decide which of the [four authorization flows supported by SiS](#authorization-flows) your client will implement.
-* Register a [Client Config](configuration/client_config.md) with `vets-api` to manage your client's specific configuration. If you are implementing the [Service Account](auth_flows/service_account.md) auth flow you will need to create a [Service Account configuration](configuration/service_account.md) instead.
+* Register a [Client Config](configuration/client_config.md) with `vets-api` to manage your client's specific configuration. If you are implementing the [Service Account](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)) auth flow you will need to create a [Service Account configuration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/configuration/service_account.md) instead.
 * Build your client's integration with SiS according to the specifications of the auth flow you have chosen.
 * Once you have your SiS integration working locally, or if you are encountering issues, you can contact the Identity team on the [`#vsp-identity`](https://dsva.slack.com/archives/CSFV4QTKN) Slack channel.
 

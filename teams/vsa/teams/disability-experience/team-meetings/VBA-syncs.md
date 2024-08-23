@@ -1,6 +1,43 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+
+## 8/20/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+* Feedback from VBA on Toxic Exposure Moderated Production Testing
+* T-REX lessons learned from TE Moderated Production Testing
+* [PII concern from Robin](https://dsva.slack.com/archives/CBU0KDSB1/p1724089667718119?thread_ts=1724089667.718119&cid=CBU0KDSB1)
+
+
+
+## 8/6/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+
+1. Jina - show content changes for 0781 (encouraging filling out new PDF while online version is being built out)
+   david - this looks ok. 
+   lisa - are we going to put anything about how online version isn't up to date? i don't feel like i'm being told why i'm being recommended the PDF
+   shannon - turn off validation on upload 0781 page so we don't require them (emily leans toward not changing that); we want to keep this small lift. PDF is less burden, faster, trauma informed but it's hard to explain succintly (which is why content is more handwaving).. we can see what happens. this is at least an incremental nudge that's imperfect but could be a good tradeoff
+   emily - tweak copy - you don't need to scan copy of your file for all folks (save as PDF instead). also add link to PDF on this page. check file types?
+   
+2. Emily - Is there a way to block the production "moderated testing" cases from being sent to Mail Automation?
+
+* When performing Moderated Production Testing (MPT), we don’t want the submission to ping the service that triggers Mail Automation. This is part of Rapid Ready for Decision (RRD). T-REX can create a toggle to prevent this from happening.
+* We also want to prevent an ITF from being created
+* We don’t want testers to fill out a 4142, so exclude this from the test cases
+* We should have a test case that includes uploading fake evidence documents. We’ll provide an image file for testers to use
+* We want to prevent the backup path being triggered, as this would trigger a human creating a claim and we won’t have the ability to delete it as soon as it comes through. Ideally we should block this from happening.
+
+3. Jared - How might we delete the submitted claims in VBMS? Who can do this? Similar to Emily's question. How will we communicate with potential testers?
+* Kevin, VBA will help with deleting a claim. He’ll cancel the EP and delete documents. Matt can help as needed.
+* To help Kevin, provide him a screenshot of the Review & Submit screen form data, or if needed provide him with the raw formDatta JSON
+* Emily will create a spreadsheet to track test cases - this will help us understand if the submitted data is the same as the claim in VBMS & the PDF
+* T-REX to edit the MPT email/Slack script to include that we’ll need volunteers to send their file number and email address to Kevin over a Teams chat or an encrypted email.
+
+
 ## 7/23/24 Biweekly VBA-DBEX Check-in
 ### In attendance
 …

@@ -1,3 +1,6 @@
+# This documentation has been officially archived 8/14/2024
+CMS team has archived previous mentions of CMS Collaboration Cycle. If you require assista, reach out to #cms-support for more info.
+
 # Design Intent
 Did the CMS team recommend a Design Intent in your CMS Collaboration Cycle Request ticket? If so, follow the guidelines below to get started.
 

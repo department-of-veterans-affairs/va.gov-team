@@ -56,7 +56,7 @@
 - Product manager: Jared Pace
 - Design and Research: Mike Eng, Evelyn Davis
 - Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommassina Miller
-- Delivery: Anneliese LaTempa
+- Delivery: Sarah Knopp
 
  Team 2:
  [ZenHub Workspace](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/board)

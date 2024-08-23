@@ -10,8 +10,8 @@ Melissa Lefevre | 21, 28 | 12, 19, 31 | 1, 23, 26
 Simi Adebowale |  |  | 
 Corey Ferris |  | 5, 8-12, 15-19 | 
 Ryan Shaw | 17 |  |  
-John Luo | 10, 28 | 22 | 12-14 tentative
+John Luo | 10, 28 | 22 | 13 (half day), 14-16
 Tony Williams |  | 5 | 
-Jennie McGibney |  | 5 | 
+Jennie McGibney |  | 5 29-31 | 1-2 
 Brenda Cudone |  | 5 |  19-23
 

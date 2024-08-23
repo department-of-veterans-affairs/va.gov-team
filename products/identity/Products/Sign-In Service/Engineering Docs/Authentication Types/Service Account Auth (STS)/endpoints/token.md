@@ -2,7 +2,7 @@
 
 ## Description
 
-Used to obtain a Service Account token. The `/token` endpoint is also used to obtain end-user tokens in the PKCE and Private Key JWT flows, the instructions for those uses can be found in the [Client Auth documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Client%20Auth%20(User)/endpoints/token.md).
+Used to obtain a Service Account token. The `/token` endpoint is also used to obtain end-user tokens in the PKCE and Private Key JWT flows, the instructions for those uses can be found in the [Client Auth documentation](../../Client%20Auth%20(User)/endpoints/token.md).
 
 ## Token Endpoint - POST
 
@@ -52,4 +52,4 @@ staging-api.va.gov/v0/sign_in/token
 
 ### Error Responses
 
-For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#service-account-access-token).
+For more detailed information on possible error responses see the [SiS Errors Page](../../../../Troubleshooting/errors.md).

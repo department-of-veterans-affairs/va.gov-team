@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 25, 2024
+Last updated by @tygindraux: August 12, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -64,7 +64,7 @@ This research will help us document and prioritize any bugs or usability issues 
 
 ## Methodology
 
-We will run a moderated usability study remotely on Zoom. We will test in staging using test user accounts. 
+We will run a moderated usability study remotely on Zoom. We will mock the sign in process, so participants don't have to sign in but we can test the authenticated experience.
 
 ### Research materials
 
@@ -79,20 +79,14 @@ We will run a moderated usability study remotely on Zoom. We will test in stagin
 
 We will work with Perigean to recruit Veterans for this research.
 
+We're available for a kickoff call with Perigean during the following times:
+- Wednesday, July 31 at 3-5pm EST
+- Thursday, Aug 1 at 9-11am EST or 3:30-5pm EST
+- Friday, Aug 2 at 12-3pm EST
+
 We request that Perigean:
 - shares a link or screenshot of the recruitment survey for this study, so we can review it before it goes out to participants
-- emails each participant after they've been recruited (copy content provided)
-- calls each participant to remind them about the session, one day in advance.
-
-#### Email to send each participant after recruitment, prior to their session
-
-> Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
->
-> How would you prefer to receive a link to the prototype during the session? By email, through Zoom chat or dictated aloud?
->
-> On the call, we’ll have an accessibility specialist with us. Are there any other accommodations that would be helpful during your session?
->
-> We look forward to meeting with you soon.
+- if we're facing issues with no-shows or cancellations, we'll ask that you call remaining participant to remind them about the session, one day in advance.
 
 ### Recruitment criteria
 
@@ -105,7 +99,7 @@ For more details about our criteria, refer to our [Recruitment ticket](https://g
 
 #### Cohort 1: Screen reader users
 
-We will recruit 6 Veterans who use screen readers to complete a **minimum** of 3 sessions. They should be daily users of screen readers. 3 should be beginners and 3 should be experienced.
+We will recruit 6 Veterans who use screen readers to complete a **minimum** of 3 sessions. They should be daily users of screen readers. 3 people should have 1-4 years of experience and 3 people should have 5+ years of experience.
 
 We'd like to recruit people who use a mix of different screen readers, such as, [NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenreaders).
 
@@ -114,8 +108,8 @@ We'd like to recruit people who use a mix of different screen readers, such as, 
 |Exactly 6|Are Veterans|Primary|
 |Exactly 6|Are willing to join from a desktop or mobile device using a screen reader|Primary|
 |Exactly 6|Daily use of screen readers to access websites or applications|Primary|
-|Exactly 3|Are beginner screen reader users|Primary|
-|Exactly 3|Are experienced screen reader users|Primary|
+|Exactly 3|Have 1-4 years of experience using a screen reader|Primary|
+|Exactly 3|Have 5+ years of experience using a screen reader|Primary|
 |At least 3|Are over 55 years old|Secondary|
 |At least 3|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 2|Identify as a gender other than male|Secondary|
@@ -166,27 +160,26 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 #### Screen readers
 
-1. Do you need to use a screen reader everytime you access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
+1. Do you need to use a screen reader to access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
     - Yes
     - No
 2. If you answered yes, which screen reader do you use? Please select all that apply.
     - JAWS
     - NVDA
-    - VoiceOver (iOS/macOS)
+    - VoiceOver (iPhone, iPad, Mac)
     - TalkBack (Android)
     - Narrator (Windows)
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader.
-    - Beginner
-    - Intermediate
-    - Advanced
-    - This question doesn't apply to me
-4. How frequently do you use a screen reader?
+3. How long have you been using a screen reader? Your best guess is okay.
+    - 0 - 1 years
+    - 2 - 4 years
+    - 5+ years
+    - Never used
+4. How frequently do you use a screen reader? Your best guess is okay.
     - Daily
-    - Several times a week
-    - Occasionally
-    - Rarely
+    - Once a week
+    - Once a month
     - Never
 5. Can you join the Zoom session from your mobile or desktop device using your screen reader?
     - Yes
@@ -197,23 +190,24 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 #### Alternative navigation
 
-1. Do you need to use alternative navigation tools everytime you access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
+1. Do you need to use alternative navigation tools to access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
     - Yes
     - No 
 2. If you answered yes, which alternative navigation tool do you use? Please select all that apply.
     - Switch systems
     - Dragon
-    - Voice Control (iOS/macOS)
+    - Voice Control (Mac)
+    - Siri (iPhone, iPad)
     - One-handed keyboard
     - Head mouse
     - Sip and puff device
+    - Pointer device on mobile (mouse, joystick)
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. How frequently do you use an alternative navigation tool?
+3. How frequently do you use an alternative navigation tool? Your best guess is okay.
     - Daily
-    - Several times a week
-    - Occasionally
-    - Rarely
+    - Once a week
+    - Once a month
     - Never
 4. Can you join the Zoom session from your mobile or desktop device using your alternative navigation tool?
     - Yes
@@ -227,26 +221,17 @@ We'd like to recruit people who use a mix of different screen magnification soft
 1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
     - Yes
     - No
-2. If you answered yes, which screen magnification tool do you use? Please select all that apply.
-   - ZoomText
-   - ZoomText Fusion
-   - Windows Magnifier
-   - macOS Zoom
-   - iOS/iPadOS Zoom
-   - Android Magnification
-   - Other (Please specify): ________________
-   - This question doesn't apply to me
+2. If you answered yes, which screen magnification tool do you use?
+   - Open text box
 3. If you answered yes, how frequently do you use screen magnification on VA.gov?
    - Always
-   - Often
    - Sometimes
    - Rarely
+   - Never
 4. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
    - Yes
    - No
    - This question doesn't apply to me
-5. Please list the name of the screen magnification tool you will use during the session.
-    - Open text box
 
 ## Timeline
 
@@ -310,7 +295,7 @@ We will also provide one day for overflow. This should only be booked if we don'
 * Participant recruiting & screening: Perigean
 * Project point of contact: Tyler Gindraux
 * Participant(s) for pilot test: CAIA
-* Accessibility specialist: TBD
+* Accessibility specialists: Sara Smith, Jamie Klenetsky Fay, Riley Orr
 * Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
 

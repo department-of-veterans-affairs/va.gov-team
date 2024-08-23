@@ -3,6 +3,10 @@ Started June 26, 2024
 
 ### Landing page content for no-access alerts
 
+### Breadcrumbs on landing page
+Breadcrumbs convention changed and different for MHV home page on desktop vs. mobile. 
+
+[Implementation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86489)
 
 ## Past decisions
 Decisions made before June 26, 2024 (starting with most recent)
