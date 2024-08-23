@@ -14,7 +14,7 @@ We are reviewing Medallia data from July 1-August 9 2024 so we can establish a b
 
 ### Overall 526ez
 |**Survey** |**Data point**|**Baseline (2024)**|**Pre-Launch**|
-|--|--|--|--|--|--|--|
+|--|--|--|--|
 |**Feedback**|Feedback satisfaction|2.3|2.8|
 |**Feedback**|Task completion| 26% | 44.5% | | |
 |**Intercept**||CSAT [OCTO-Tracked]| 37.7%|41.9% | | |
