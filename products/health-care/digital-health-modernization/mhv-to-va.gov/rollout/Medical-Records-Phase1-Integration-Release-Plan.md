@@ -1,32 +1,26 @@
-# Release Plan - Medical Records Phase 1 2024
+# Release Plan - Medical Records Phase 0.5 - September 2024
 
 ## Executive summary
 
-The Medical Records integration withthe MHV on VA.gov landing page is expected to occur in mid September 2024. Medical Records will be available to 1% of users, use monitored, and a desicion to increase usage to 100% of users is expected in November 2024.
+The Medical Records integration withthe MHV on VA.gov landing page is expected to occur in mid September 2024. Medical Records will be available to 1% of users, use monitored, and a desicion to increase usage incrementally to 100% of users is expected in November 2024.
 
 MHV-on-VA.gov UX will include:
 - Secondary nav bar with 5 links (Home/landing page plus 4 tools)
 - MHV-on-VA.gov Landing page links directly to VA.gov versions of tools
 - Breadcrumbs on tool landing pages (only) will link back to MHV-on-VA.gov landing page
-- The MHV-on-VA.gov landing page will include information about the new functionality on VA.gov
 
 **Artifacts**:
 - [IA (info architecture) Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713450017254/6daf1f320cba1054fdfd840e4a7c881dda87120c?wid=0-1713461062826) covering changes for the integration
 
-### Changes required within VA.gov tool applications
+### Changes required within Medical Records application:
 Required for integration go-live:
-- MyHealtheVet secondary navigation component should display on the tools on VA.gov and their child pages
-- Tool landing pages have breadcrumbs with `< Back to My HealtheVet home` linking to the MHV-on-VA.gov landing page.
-- Any link within a tool that cross-links directly to another tool in Phase 1 should point to VA.gov build (remove links to tools on the National Portal).
-- All three tools on VA.gov need to provide an alert to patients with Oracle Health/Cerner facilities in their profiles that they may need to navigate to My VA Health to manage that care. (SM and Appts already have it as of 4/17/24) IS THIS STILL VALID??
+- MyHealtheVet secondary navigation component should display on Medical Records landing page and child pages
+- Medical records landing page will add-in traditional breadcrumbs that connect it with the MHV-on-VA.gov landing page.
+- Any cross-links to other My HealtheVet on VA.gov tools should prioritize the VA.gov version (update links and no longer point link text to the national portal).
+- Need to have alerts for patients with Oracle Health/Cerner facilities in their profiles that they may need to navigate to My VA Health to manage that care. (Is this still outstanding?)
 
 Non-blocking content changes:
-- Tool "About" pages will get content updates
-- "Try me" banners on MHV classic will get content updates
-
-### Critical path analysis
-
-The MHV-on-VA.gov secondary navigation will have to go through the final stages of the Collab Cycle after it has been implemented by all teams: Staging Review, Contact Center Review, and Security & Readiness Review. Therefore, aside from a "go" decision on Medications Ph 1, the addition of secondary nav to the tool applications is the biggest dependency that will drive the release date for Medications Ph 1 and the MHV-on-VA.gov portal integration. IS THIS STILL VALID????
+- FAQs in accordions on MR page will get content updates
 
 ## Engineering notes on integration and release
 
