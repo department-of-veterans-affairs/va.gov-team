@@ -231,7 +231,7 @@ Recommendations:
 * When making the emergency alerts, take into consideration that the participants we talked to know that in the case of an emergency, they are not likely the scheduling tool on VA.gov.  Consider reducing the amount of content around “call 911 if this is an emergency” as participants seem to be aware of this and might just skip over that information.
 * Since participants showed uncertainty as to whether or not they should schedule same day appointments, consider providing them with an educational message that the Appointments tool is not meant for same day or urgent care appointments the first time they go to schedule.
 * Consider making the nurse hotline available on the appointments scheduling tool.
-* Implement a system that provides personalized alerts based on the signs and symptoms entered in the "details about your appointment" field. Tailoring information to the Veteran’s input helps to ensure relevant and timely guidance at the moment they need it .
+* Implement a system that provides personalized alerts based on the signs and symptoms entered in the "details about your appointment" field. Tailoring information to the Veteran’s input helps to ensure relevant and timely guidance at the moment they need it.
 
 
 ### Express Scheduling (Quickly schedule based on previous appointments) - Key findings
@@ -373,9 +373,7 @@ Recommendations:
 
 ### Secondary Findings and recommendations
 
-
-####  \
-1. Misinterpretation of Date Availability:
+#### 1. Misinterpretation of Date Availability:
 
 5 participants were confused about the dates displayed on the PID page, thinking they  were available, leading to confusion when dates became unavailable by the time they reached the calendar. There was a consistent expectation that selected dates should directly reflect availability.
 
@@ -384,7 +382,7 @@ Recommendations:
 
 3 participants had difficulty identifying where to go next or how to return to the main appointments list when they were done with the task of scheduling an appointment. 
 
-3. Would like to know the duration of the the appointment:
+#### 3. Would like to know the duration of the the appointment:
 
 One participant wanted to be able to see how long the appointment will be. "It would be helpful for me if I had a day like yesterday where I had 5 appointments. And if you have one that's 10 minutes (like I did)  and one that's over an hour, that's good to know so you can schedule them properly. They should require that a patient knows how long an appointment is, or default it to an hour"
 
