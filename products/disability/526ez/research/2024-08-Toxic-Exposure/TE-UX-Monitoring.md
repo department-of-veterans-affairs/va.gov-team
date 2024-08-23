@@ -60,7 +60,8 @@ Reporting will be avilabile every Friday, starting after the first full week of 
 
 *Inferred from % of submission errors
 
-### [Form Abandonment - Jared to update]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
+### [Overall Form Abandonment - Jared to update]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
+OCTO lang- On each page in the form, what percentage of people drop-off and don't continue to the next page.
 | Step # | 526 Page | Week 1 | Week 2| Week 3| Week 4|
 |--|--|--|--|--|--|
 |Step 1| 
