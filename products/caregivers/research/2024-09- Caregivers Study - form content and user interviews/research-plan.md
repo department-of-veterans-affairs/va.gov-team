@@ -23,19 +23,19 @@ Based on our findings, we will suggest content updates and work with CAIA to imp
 
 ### Research questions
 1. Learn more about caregiver clarification content needs within the form (vs before/outside of).
-  	- How do caregivers, both primary and secondary, perceive the existing form content today on the intro page and within as being clear to understanding eligibility and benefits, and where would additional clarification be helpful?
-   - What questions do caregivers say they need additional clarification on?
+  	- How do caregivers, both primary and secondary, perceive the existing form content with regards to understanding eligibility and benefits, and where would additional clarification be helpful?
    - Is there a need or desire for applicants to have an authenticated experience that prefills personal information?
 
 2. Learn more about the overall experience of multiple people completing one form.
 	- Who typically completes the form online? Are Veterans and their caregivers signing the form together?
   	- For those who are enrolled, did they sign as a legal representative and what was that experience like?
-   - 
   
 3. Evaluate the usability of the search functionality for locations.
 	- Can sighted and assistive tech users easily use the search input and understand what choices are populated from that search?
   	- Can users easily navigate a long list of search results?
    	- Can users easily do a second search or new search from the search results page?
+   	- Is the new facility selection pattern easy for the participant to understand why they are selecting a facility and how it impacts the caregiver application process?
+   	- How do users react to their facility selection on the confirmation page?
 
 
 ### Hypothesis
