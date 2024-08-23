@@ -2,4 +2,4 @@
 
 | Github Ticket# | Description | Status | 
 | ------- | ---------- | ----- | 
-None
+| #91036 | On video details pages, move the "Need to make changes" section below "Prepare for your visit" | Completed 
