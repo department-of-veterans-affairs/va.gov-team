@@ -29,7 +29,7 @@ We are moving toward launching **labs & tests, settings** to Phase 0 (shown in g
 
 ## <a name="url"></a>URLs and breadcrumbs
 
-**Note: Full traditional breadcrumbs (if used) will need to be suppressed until the "My health" landing page fully live (to 100% of users) to avoid having an inactive segment in the breadcrumb.**
+**Note: A current audit process is evaluating any IA components where PHI/PII may be identified within My HealtheVet. While this will only be meaningful when Medical Records launches into Phases 1+ it is something we are closely monitoring. At present, title tags present a known risk and we may have to break VADS standards in this element in order to eliminate the potential safety risk posed by information in these elements leaking into GA4.**
 
 
 | Page                      | URLs                                                           | P0 breadcrumbs                           | P1+ mobile breadcrumbs     | P1+ desktop breadcrumbs                          | Title tags                                 |
@@ -81,9 +81,10 @@ Details pages for historical records of each vital type are linked from the Vita
 **Decision log:**
 - identify phase when entry points should be implemented
   - In phase 0, the user will only be linked from a url in an email invite to the VA Medical Records landing page
-  - In phase 1, the email invites will stop. Users will be linked from legacy MHV directly to these pages via "try me out" messaging. 
+  - In phase 0.5 (ETA September 2024), the experience will be accessible to 1% of Veterans on VA.gov, and we will incrementally increase this number over time, with the goal of 100% around late November 2024. We will not consider Medical Records to be in Phase 1 until 100% of Veterans can access the experience on VA.gov, and "try me" banners have been published in the Classic (National Portal) site directing users to try out the new experience.
+  - In phase 1, Users will be linked from legacy MHV directly to these pages via "try me out" messaging. Veterans who start on VA.gov will also be able to access MHV on VA.gov through the "MyHealtheVet" link in the global header, or via cross-links within the portal. At this time, we are still having conversations about whether or not the links on MyVA will route to the new experience, or continue to funnel users to the National Portal. 
   - By phase 1, the in-tool secondary navigation will be removed (with the implementation of the My HealtheVet portal-wide secondary navigation, we don't want to have tertiary navigation in tools).
-- "Download all" (Blue button) will no longer be a child of medical records since it touches lots of tools. This "download all" will become its own page at the root level of the portal (va.gov/my-health/download-all) and will be cross-linked from medical records. This will be developed by the medical records team. Timeline TBD.
+- "Download all" (Blue button) will not be available on VA.gov until Phase 1. It may no longer be a child of medical records since it touches lots of tools. This "download all" could become its own page at the root level of the portal (va.gov/my-health/download-all) and be cross-linked from medical records. This is still under discussion.
 
 **Notes:**
 - If you've been treated at a VA health facility at any point for any thing, you would have something for a Blue Button report, regardless of whether you are currently enrolled in VA healthcare.
