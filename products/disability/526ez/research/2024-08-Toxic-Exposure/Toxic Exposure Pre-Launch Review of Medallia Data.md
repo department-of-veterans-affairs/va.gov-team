@@ -37,7 +37,7 @@ User feedback was most concentrated on the first and last pages of the form.
 ### Intercept survey
 Between July 1 and August 9, 2024, the Medallia Intercept survey received **85 responses.** 
 
-User feedback was most concentrated at the very beginning of the form, despite the fact that it is intended to more evenly  “intercept” 5% of VA.gov users who have had a 20-second or more extended session. This is a known problem and already ticketed (#88712), but this data pull reinforces our hunch. 
+User feedback was most concentrated at the very beginning of the form, despite the fact that it is intended to more evenly  “intercept” 5% of VA.gov users who have had a 20-second or more extended session. This is a known problem and already ticketed [(#88712)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88712), but this data pull reinforces our hunch. 
 
 |Rank|Top Intercept Pages|# of responses| % of total responses|
 |--|--|--|--|
@@ -72,7 +72,7 @@ These takeaways are a combination of key findings and hypotheses around what we 
 
 ***
 
-**1.Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
+**1. Findings from from March 2023 Medallia data review mostly hold true in the July 2024 data set.**
 
 |3/2023 Finding | True/False in current data set|Context|Veteran voice|
 |--|--|--|--|
