@@ -15,7 +15,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 ### Goals
 We are monitoring the TE release to ensure it meets user expectations and performs effectively in real-world scenarios. By tracking interactions and gathering feedback, we will identify any issues early so we can make data-driven improvements. 
 
-We will be responsive to the release, updating our monitoring approach as we learn more/better. 
+We will be responsive to the release, updating our monitoring approach as we learn more/better! 
 
 ### Guiding Questions for UX Monitoring
 1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
