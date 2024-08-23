@@ -7,7 +7,7 @@ ADD HERE
 
 ## Research Goals
 
-The goals of this document are: 
+The goals of this document are **REVISE AND REORDER**: 
 - to clarify terms, terminology, and background critical to understanding for this Epic (?)
 - to collect the learnings and insights to date around building Veteran access to enhanced military information (specifically, the data gathered and presented by the ILER system) in the VA.gov Profile
 - to document open questions at the time of this writing
@@ -172,15 +172,15 @@ WORK THROUGH FINDINGS FIRST AND CAN REFER TO THEM LATER
 
 For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. In addition, we will rely on pre-discovery and discovery work conducted for stakeholders by Booze Allen CORRECT NAME AND CHECK TO SEE IF WE CAN INCLUDE LINKS
 
+Veterans may benefit from having access to their ILER to get(?) proper disability ratings
+Veterans may benefit from having access to their ILER to get(?) proper health care treatments
 Veterans may not know the ILER exists
-If Veterans know of it, they don't know what it contains
-Or they may not know how to acces it
-Or both
-Some providers and VA staff may not know what it is and the Veteran needs ways to educate them on its contents and how it's relevant to treatment or disability ratings
-some SMs have heard of it, but don't know why they should have it
-some staff don't know what it is or what it would do
-some SMs have heard of it and think it'd be useful, but can't get it
-some SMs don't trust the content
+If Veterans know ILER exists, they likely don't know what it contains
+If Veterans know ILER exists, they likely know where and/or how to access it
+Some providers and VA staff may not know what it is or how it is related to their services, requiring the Veteran to educate them on its contents and how it's relevant (to either treatment or disability ratings)
+Veterans distrust the data provided in many VA reports, including the ILER report
+The mental models many Veterans have for the data in the ILER report does not match how it is organized, making it more difficult for the Veteran to achieve any of their goals or note what data are faulty
+
 
 tho placement on the Profile is important, explanatory language and resources for the Veteran to follow up with questions will be super important to the success in a Veteran improving outcomes
 
