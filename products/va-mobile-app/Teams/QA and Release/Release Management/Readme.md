@@ -73,7 +73,7 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
 
 
 
-<li> In-App Whats New Alert Box content  Team PMs to create a separate ticket to determine content that will be included in the Release ticket process <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases">Whats New Content Process Docc</a>
+<li> In-App Whats New Alert Box content  Team PMs to create a separate ticket to determine content that will be included in the Release ticket process <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management/Go%20to%20Market/In%20App%20Whats%20New%20Process.md">Whats New Content Process Doc</a>
 	
 <li> Determining what bugs need to be completed pre-MVP and those that are not by - Team PMs to review and assess this pre-launch - Sev 2 and higher should be worked prior to production launch
    
