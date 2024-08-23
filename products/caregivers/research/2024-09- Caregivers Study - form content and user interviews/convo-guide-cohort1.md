@@ -6,7 +6,7 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Step 1
+- [ ] Open and prepare prototype for facilities search -- if not ready in staging/production
 - [ ] Step 2
 - [ ] Step 3
 
@@ -58,23 +58,33 @@ Before we start, I have a few things that I want to go over with you:
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions (Optional) - 10 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
 1. Have you ever applied for the Caregiver Program before?
-- Did you comp-lete the application in person at a facility or online?
+- Did you complete the application in person, at a facility or online?
 - If yes: were you approved as a Primary or Secondary Caregiver role?
 - If no: [Should be yes based on screener criteria]
 
-2. Do you mind telling us more about that experience? 
+2. Do you mind telling us more about that experience?
 
-3. What would you say was the most challenging part of the application process that you wish you would have know upfront?
-- Thinking back to 
+3. Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
 
-## First Task: [TASK NAME] - X minutes
+4. What would you say was the most challenging part of the application process that you wish you would have know upfront?
+- Thinking back, what would you change so the process is better for the next Caregiver/Veteran applying?
 
-- Step 1
+
+
+## First Task: [Introduction page] - 2 minutes
+
+- Thank you for sharing that background. Now let's
+- Link to Production / Staging site?
+
+
+- Review this page and tell me about your intial thoughts and expectations of this information before applying.
+
+-    
 - Step 2
 
 ### Things to watch for:
@@ -84,7 +94,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+
+**Participant ratings:**
+On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
+
+
+## Second Task: [Veteran inforamtion + facilities] - 5 minutes
 
 - Step 1
 - Step 2
