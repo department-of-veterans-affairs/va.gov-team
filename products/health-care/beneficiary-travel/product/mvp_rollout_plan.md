@@ -51,7 +51,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Desired date range or test duration: Aug 22
+- Desired date range or test duration: Aug 22 - Aug 23
 - Desired number of users: 2
 - How you'll recruit the right production test users: We have identified two BAH Veterans
 - How you'll conduct the testing: UAT
@@ -70,7 +70,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Rollout Planning
 
-- Desired date range: Aug 23 - Aug 27
+- Desired date range: Aug 23 - Aug 29
 - How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
 - Links to the dashboard(s) showing "success criteria" metrics: 
@@ -109,7 +109,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Length of time: 2 days, beginning Aug 27
+- Length of time: 2 days, beginning Aug 30
 - Percentage of Users (and roughly how many users do you expect this to be): 5% , on top of which we will include Ad Hoc, BAH, and VA veterans who have agreed to test the status page.
 
 #### Results
