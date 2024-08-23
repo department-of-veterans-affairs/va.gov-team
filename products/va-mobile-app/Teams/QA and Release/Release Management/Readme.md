@@ -69,7 +69,7 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
 
 <li> App Store (Apple, Android) Whats New and App Description - Team PMs to create a separate ticket to determine content that will be included in the Release ticket process.  </a>
  
-<li> Call Center Guide Updates if applicable - Outside of Release Ticket  <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases/Call%20Center%20Docs">Call Center Process Doc</a>
+<li> Call Center Guide Updates if applicable - Outside of Release Ticket <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases/Call%20Center%20Docs">Call Center Process Doc</a>
 
 <li> In-App Whats New Alert Box content  Team PMs to create a separate ticket to determine content that will be included in the Release ticket process <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases">Whats New Content Process Docc</a>
 	
