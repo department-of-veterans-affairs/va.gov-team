@@ -68,9 +68,10 @@ Overall, 26 Veterans explicitly referred to the Pact Act or Toxic Exposure in th
 ***
 
 **2. TE monitoring of Medallia must include comprehensive review and coding of all responses -not just those that fall on Toxic Exposure pages.** 
-We will need to look at all responses in order to make sure catch all mentions of Toxic Exposure since overall experiences is frequently reported on other pages-- especially introduction, confirmation, and start. Luckily, we do still see that specific usability issues are often reported on the page url-- like the problems with the Reserves-National Guard page. 
 
-As we begin the release, we'll have a better sense of how feedback on Toxic Exposure, specifically, is dispersed in Medallia. I hypothesize that general pain points and FAQs about the PACT act will fall on early form pages while blockers will show up on TE pages. 
+- Overall experiences filing for disability are frequently reported on other pages-- especially introduction, confirmation, and start.  Luckily, we do still see that specific usability issues are often reported on the page url-- like the problems with the Reserves-National Guard page. 
+
+- As we begin the release, we'll have a better sense of how feedback on Toxic Exposure, specifically, is dispersed in Medallia. I hypothesize that general pain points and FAQs about the PACT act will fall on early form pages while blockers will show up on TE pages. 
 
 
 ***
