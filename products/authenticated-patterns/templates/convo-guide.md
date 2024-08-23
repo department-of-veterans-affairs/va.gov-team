@@ -95,6 +95,7 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
    If NO: 
     - How would having an account change your experience on VA.gov?
 
+> [!IMPORTANT]
 > Things to watch for:
 > - If they have not logged into the site before and why?
 > - Whether any of their past experience involves an issue updating their profile data?
@@ -155,6 +156,7 @@ Tell us what you are seeing on this screen and your initial thoughts before clic
 - question 3
 
 <!-- Add your things to watch here-->
+> [!IMPORTANT]
 > Things to watch for:
 > - thing 1
 > - thing 2
