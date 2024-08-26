@@ -101,8 +101,8 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 
 **Top themes**
-|Rank|Pre-launch (6 weeks)| Week 1 of launch| Week 2 of launch| Week 3 of launch| Week 4 of launch|
-|--|--|--|--|--|--|
+|Rank|Pre-launch (6 weeks)|  **1.0 rollout** | **1.1 rollout**|
+|--|--|--|--|
 |1|Usability (33)|--|--|||
 |2|Navigation (33)|-- |
 |3|PACT (26)| |--|
@@ -126,8 +126,8 @@ Top takeaways will come from the combined review of GA4 and Medallia each week. 
 
 ### 526ez pages with the most responses
 **Feedback survey**
-|Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
-|--|--|--|--|--|--|
+|Rank|Pre-launch (6 weeks)| **1.0 rollout** | **1.1 rollout**|
+|--|--|--|--|
 |-|Total responses (462)||||||
 |1| Introduction (116 / 25%)|||||
 |2| Confirmation (76 / 16%)|||||
@@ -135,8 +135,8 @@ Top takeaways will come from the combined review of GA4 and Medallia each week. 
 |4| Review & Submit (19 / 4%)| ||||
 
 **Intercept survey**
-|Rank|Pre-launch (6 weeks)|Week 1 of launch|Week 2 of launch|Week 3 of launch|Week 4 of launch|
-|--|--|--|--|--|--|
+|Rank|Pre-launch (6 weeks)| **1.0 rollout** | **1.1 rollout**|
+|--|--|--|--|
 || Total responses (85)| |||||
 |1|Introduction (42 / 49%)|||
 |2| Start (22/ 26%)|||
