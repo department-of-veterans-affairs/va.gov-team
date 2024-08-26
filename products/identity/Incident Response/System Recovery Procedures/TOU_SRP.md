@@ -34,20 +34,20 @@ Once we have received notice from the OCTO Platform Team that VA.gov infrastruct
    1. [https://www.va.gov/?next=loginModal\&oauth=true](https://www.va.gov/?next=loginModal\&oauth=true)  
       1. Select ‘Login.gov’ or ‘ID.me’ to authenticate with 
       2. (Assuming account has already accepted terms) Navigate to [https://www.va.gov/terms-of-use](https://www.va.gov/terms-of-use)  
-      3. Click the **Decline** button, then click **Decline and sign out** button
+      3. Click the ‘**Decline** button‘, then click ‘**Decline and sign out**‘ button
       4. Confirm you see the authentication error page (`code=110`)
       5. Navigate to the homepage, re-authenticate again at [https://www.va.gov/?next=loginModal\&oauth=true](https://www.va.gov/?next=loginModal\&oauth=true)  
       7. Confirm Terms of Use page displays before authentication is completed
-      8. Click the **Accept** button
+      8. Click the ‘**Accept**‘ button
       9. Confirm you are fully authenticated on VA.gov
 3. Ensure Terms of Use component is working with SSOe authentication  
    1. [https://www.va.gov/?next=loginModal\&oauth=false](https://www.va.gov/?next=loginModal\&oauth=false)  
       1. Select ‘Login.gov’ or ‘ID.me’ to authenticate with 
       2. (Assuming account has already accepted terms) Navigate to [https://www.va.gov/terms-of-use](https://www.va.gov/terms-of-use)  
-      3. Click the **Decline** button, then click **Decline and sign out** button
+      3. Click the ‘**Decline**‘ button, then click ‘**Decline and sign out**‘ button
       4. Confirm you see the authentication error page (`code=110`)
       5. Navigate to the homepage, re-authenticate again at [https://www.va.gov/?next=loginModal\&oauth=false](https://www.va.gov/?next=loginModal\&oauth=false)  
       7. Confirm Terms of Use page displays before authentication is completed
-      8. Click the **Accept** button
+      8. Click the ‘**Accept**‘ button
       9. Confirm you are fully authenticated on VA.gov
 
