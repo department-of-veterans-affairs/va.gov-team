@@ -86,7 +86,11 @@
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Can VES 
+  - Can VES save new EC data?
+  - Can VES update EC for existing ECs? Will they be saved as new ECs each time even if they're updates?
+  - Can we delete ECs in VES?
+  - Can we distinguish between primary and secondary ECs, particularly in VES?
+
   Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
