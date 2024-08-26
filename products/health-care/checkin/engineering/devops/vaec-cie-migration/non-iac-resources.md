@@ -21,6 +21,5 @@ These are resources created while working on the `vaec-cie` migration through th
 - `global/github/app/client_secret`: Client Secret for the [Check-In Experience DevOps GitHub App](https://github.com/organizations/department-of-veterans-affairs/settings/apps/va-gov-check-in-experience-devops).
 - `global/github/app/id`: App ID for the [Check-In Experience DevOps GitHub App](https://github.com/organizations/department-of-veterans-affairs/settings/apps/va-gov-check-in-experience-devops).
 - `global/github/app/private_key`: Private Key (PEM format) for the [Check-In Experience DevOps GitHub App](https://github.com/organizations/department-of-veterans-affairs/settings/apps/va-gov-check-in-experience-devops).
-- `global/github_bot_token`: GitHub personal access token for the [Check-In Experience GitHub Bot](https://github.com/VAeCheckinAPIGHA-bot).
-- `(dev|stg|prod)/lorota/jwt_key`: JWT signing/verification key.
 - `(dev|stg|prod)/lorota/hash_salt`: Hash salt.
+- `(dev|stg|prod)/lorota/jwt_key`: JWT signing/verification key.
