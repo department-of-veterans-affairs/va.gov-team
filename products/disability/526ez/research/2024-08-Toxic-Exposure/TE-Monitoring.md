@@ -80,8 +80,8 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 5. What impact does the new feature have on Veteran trust in VA?
    
 ### Overall 526ez
-|**Data point**|**Baseline (2024)**|**Pre-Launch**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
-|--|--|--|--|--|--|--|
+|**Data point**|**Baseline (2024)**|**Pre-Launch**| **1.0 rollout** | **1.1 rollout**|
+|--|--|--|--|--|
 |**CSAT-Intercept**| 37.7%|41.9% | | |
 |**Feedback satisfaction**|2.3|2.8|
 |**Task completion**| 26% | 44.5% | | |
@@ -89,8 +89,8 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 |**Trust Gained/Lost (Percent difference from increase and decrease)**|-6.1%| 9.2% | | |
 
 ### Toxic Exposure feature
-|**Data point**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
-|--|--|--|--|--|
+|**Data point**| **1.0 rollout** | **1.1 rollout**|
+|--|--|--|
 |**CSAT-Intercept**| | | | |
 |**Feedback satisfaction**|||
 |**Task completion**| | | | |
