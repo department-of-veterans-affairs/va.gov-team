@@ -1,6 +1,35 @@
 # Running Design and Research Agenda
 ## August 19, 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang
+- Facilitator: Rachael
+- Next meeting facilitator: Steven
+- Agenda Topics
+	- Next steps for OHI
+ 	- Debrief on Friday's pilot session for 59a UXR
+ 
+### Notes
+- Next steps for OHI
+	- We were not aware of taking out the pharmacy benefits for Medicare. Jamie thinks - better to capture more data than less, and we would want to firm up if we really need it before we take it out. Seems to be some confusion.
+ - Since it's already on the form, it's an optimization but not requried to take it out - Jamie
+ - Lois - if we can ask for less, that's better from a UX perspective. But Jamie is worried about not collecting data that they do need. 
+ - Bo and Lois - feels like they're trying to remove stuff from the digital form before the paper form.
+ - Paper form is going to update end of October. Keep on eye on that. We need to figure out who is in charge of that.
+ - We also need to revise the upload screen
+ - Do we want to delay staging?
+ - Mary - we need to know what's going to happen with updating the paper form
+ - Lois - let's look into how to download the confirmation page so we can look into using it to reupload later
+- Pilot session debrief
+	- We need to understand what a claim actually is - probe on this 
+ 	- Consider easy exit if people dive too deep into what it's like in a doctor's office
+  
+### Decisions and action items
+- Premal OK with defaulting to put an email on all the forms (Bo - need to determine what to do with it on the back end. Need to investigate how it would work)
+- For now, we are not going to take out the question on pharmacy benefits for Medicare. We first need to understand how/when/who will update the paper OHI form.
+- Need to look into who owns the forms and keeps them aligned
+- Understand when we're going to be able to use a "download form" option - Syd to do discovery around who's doing it and how it works
+
+## August 19, 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang
 - Facilitator: Jamie
 - Next meeting facilitator: Steven
 - Agenda Topics
@@ -9,7 +38,7 @@
 	- Review CHAMPVA Application and OHI forms merge
  	- Talk through any PRA risks involved with the CHAMPVA Application and OHI merge
   
- 
+
 ### Notes
 - OHI: Frame the question about Medicare cards as we are trying to reduce the content on the uploaded screen if other card types are not needed. 
 	- If we only need the "red white and blue" card, provide examples of what the card looks like. Keep a11y in mind while doing this. 
