@@ -50,7 +50,11 @@ We will conduct remote moderated usability studies via Zoom using the current pr
 We will split this study into two cohorts:
 
 - Cohort 1: Caregivers currently enrolled in the caregiver program, with or without their Veteran pair
-- Cohort 2: New (recently enrolled) and/or potential future caregivers, with or without Veteran pair
+	- Ask when they enrolled to show the breakdown in reporting but don't limit to new caregivers
+ 	- Ask for some recently appointed caregivers
+- Cohort 2: Veterans with a disability rating of over 70% who need some assistance to complete daily activities and/or need someone to live with them for help
+- Need to get assistive tech users for both
+- 10-15 people each cohort
 
 
 ### Research materials
@@ -58,6 +62,7 @@ We will split this study into two cohorts:
 - [Link to conversation guide for Cohort 2](Link will go here)
 - [Link to 10-10CG form in production](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction)
 
+Kickoff meeting
 	
 ## Recruitment	
 
