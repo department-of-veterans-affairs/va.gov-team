@@ -49,13 +49,13 @@ Success metrics will be updated in this document at the end of each rollout perc
 'Form abandonment' defined in OCTO language: On each page in the form, what percentage of people drop-off and don't continue to the next page.
 | Step # | 526 Page| Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|--|
-|Step 1|Introduction | 0.48% | 0.48% |
-|Step 2| Veteran Information | 38.93% | 38.93% |
-|Step 3| Disabilities | 17.57% | 17.57% |
-|Step 4| Supporting Evidence | 19.23% | 19.23% |
-|Step 5| Additional Information | 3.67% | 3.67% |
-|Step 6| Review and Submit | 7.58% | 7.58% |
-|Step 7| Confirmation | - | - |
+|Step 1|Introduction | 0.48% | 0.48% | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 2| Veteran Information | 38.93% | 38.93% | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 3| Disabilities | 17.57% | 17.57% | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 4| Supporting Evidence | 19.23% | 19.23% || | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 5| Additional Information | 3.67% | 3.67% | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 6| Review and Submit | 7.58% | 7.58% | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 7| Confirmation | - | - | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
 
 ### Toxic Exposure Abandonment 
 Add table here. Currently being workshopped by Christine and Jared so we can understand how far into the TE flow Veterans are getting and places they might exit. 
