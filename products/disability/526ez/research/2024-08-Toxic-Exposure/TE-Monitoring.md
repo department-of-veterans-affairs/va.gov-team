@@ -61,15 +61,15 @@ Success metrics will be updated in this document at the end of each rollout perc
 Add table here. Currently being workshopped by Christine and Jared so we can understand how far into the TE flow Veterans are getting and places they might exit. 
 | Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|
-|Step 1| Toxic Exposure Conditions |
-|Step 2| Gulf War 1990 |
-|Step 3| 1990 Summary |
-|Step 4| Gulf War 2001 |
-|Step 5| 2001 Summary |
-|Step 6| Herbicide |
-|Step 7| Herbicide Summary |
-|Step 8| Additional Exposures |
-|Step 9| Additional Exposures Summary |
+|Step 1| Toxic Exposure Conditions | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 2| Gulf War 1990 | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 3| 1990 Summary | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 4| Gulf War 2001 | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 5| 2001 Summary | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 6| Herbicide | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 7| Herbicide Summary | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 8| Additional Exposures | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 9| Additional Exposures Summary | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 
 ## Summary of Medallia survey data (Evaluated at completion of 1.0 and 1.1 rollouts)
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
