@@ -8,7 +8,7 @@ Peter Russo      | 26-30     |  1-4  |  |  |
 Ciera Maddox     |  |  |  |  |  
 Melissa Lefevre  |  |  |  |  |  
 Simi Adebowale   |  |  |  |  |  
-Corey Ferris     |  |  |  |  |  
+Corey Ferris     | 5-6, 9 |  |  |  |  
 Ryan Shaw        |  |  |  |  |  
 John Luo         | 16 |  | 1 week pending plans |  |  
 Tony Williams    |  |  |  |  |  
