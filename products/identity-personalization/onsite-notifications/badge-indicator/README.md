@@ -19,6 +19,7 @@ This is managed by [the authenticated experience team](https://github.com/depart
 - [User Outcomes](#user-outcomes)
 - [Business Outcomes](#business-outcomes)
 - [Design](#design)
+- [Research](#research)
 - [Frontend](#frontend)
 
 ## Overview
@@ -49,7 +50,11 @@ The badge indicator is a notification style that aims to call a Veteran's attent
 
 - The badge indicator becomes overly or improperly used
 
-
-## Documentation
-
+## Design
 - Please see experimental design submission: [#3229](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3229)
+
+## Research
+The team conducted a usability study around the usage of the badge indicator as well as a dot indicator and slim alert banner. Documentation and findings from that study can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study).
+
+## Frontend
+TK
