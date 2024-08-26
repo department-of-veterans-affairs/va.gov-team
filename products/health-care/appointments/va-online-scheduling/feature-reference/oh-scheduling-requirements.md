@@ -61,7 +61,7 @@ The system alerts the user if they can't continue scheduling an appointment beca
 - None of their facilities support direct scheduling or requests.
 - The facility they chose doesn't support direct scheduling or requests.
 - They haven't had an encounter in the given timeframe at the location they selected.
-- They have hit the limit of requests.
+- They have hit the limit of requests for the selected type of care at the selected facility.
 
 **A Veteran may choose a provider for their appointment.**
 The Veteran is given the option to select:
