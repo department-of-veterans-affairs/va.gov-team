@@ -40,30 +40,16 @@ Based on our findings, we will suggest content updates and work with CAIA to imp
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+- We assume there is missing helpful information for caregiver applicants around what they are eligible for and what benefits they get. We think this study will inform content changes we should make as a result to increase clarity of the caregiver program within the form.
+- We assume there are a variety of dyad applicant combos and those groups most often have pain points around the personal information and signing handoff process. We anticipate it might be easier if each applicant could complete their own personal information and sign independently.
+- Based on what we know about the caregiver journey, we assume that all applicants have multiple other VA touch points and forms completed which gives them a general understanding of the caregiver program and benefits before completing the 10-10CG.
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+We will conduct moderated usability studies via Zoom using the current production form once facility updates are ready on the 10-10CG.
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+We will split this study into two cohorts:
+	- Cohort 1: Caregivers currently enrolled in the caregiver program, with or without their Veteran pair
+ 	- Cohort 2: New (recently enrolled) and/or potential future caregivers, with or without Veteran pair
 
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
