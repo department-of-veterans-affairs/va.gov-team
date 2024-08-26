@@ -43,8 +43,8 @@ See Appendix below for full milestone breakdown.
 | 2: Herbicides and hazards            | July 3, 2024 | Complete    | Delayed by 5103 FDC update 5/16/24 & bugs in submit endpoint |
 | 3: Launch preparation                | Jul 22, 2024 | In Progress | Original date of 6/18 shifted due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review                                                             |
 | 4: Migrate /getPDF and /submit to LH |              | In Progress |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning /getPDF migration, /getPDF and /submit and TE all behind the same FF. Delayed for Code Yellow(?) Awaiting validation issue fixes from LH. Currently testing E2E.                                                              |
-| 5: Rollout: New forms (1.0)                         | Aug 15 - Sept 11 | Not started |                                                               |
-| 6: Rollout Vets with an IPF (1.1)                  | Sept 12 - Oct 2 | Not started |Exact dates may change                                                              |
+| 5: Rollout: New forms (1.0)                         | Aug 28 - Sept 18 | Ready. No launch blockers. |                                                               |
+| 6: Rollout Vets with an IPF (1.1)                  | Sept 19 - Oct 1 | Not started |Exact dates may change                                                              |
 
 *Dates may vary
 
@@ -110,9 +110,9 @@ List the features toggles here.
 
 ## Step 2: Validation
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production).
+- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [x] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
     - [ ] review the release plan with your team and signoff
     - [ ] review the plan with your DEPO/OCTO representative and signoff
@@ -124,7 +124,7 @@ List the features toggles here.
 Toxic Exposure will be a staged rollout using the following traffic percentages for each stage: 5%/10%/25%/50%/75%/100%.
 
 ### Measuring Success Criteria
-To aid decision making, the team 1 determine if we should proceed to the next stage, the following criteria should be met
+To determine if we should proceed to the next stage, the following criteria should be met
 To understand the feasibility of proceeding to the next phase of the staged rollout, disability benefits Team 1 established will be looking at the following:
 
 - Sum of established submissions is roughly equivalent to the target count of submissions within the established time frame
@@ -160,7 +160,7 @@ DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes
 Due to the need to test against the production lightouse /submit endpoint, we'll be testing this feature in production behind a feature flag. To mitigate the risks of downstream actions that occur as a result of submitting an application for disability compensation, we'll work with our VBA stakeholders to delete the submission records in VBMS.
 
 #### Planning
-- Desired date range or test duration: Aug 9 & 12, 2024
+- Desired date range or test duration: Aug 16, 2024
 - Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in TestRail
 - How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test, could be ann (internal) Veteran
 - Submitting 6 full submissions could be done by less than 6 people
@@ -168,12 +168,13 @@ Due to the need to test against the production lightouse /submit endpoint, we'll
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Flipper [disability_526_toxic_exposure]
 
 #### Results
-- Number of users:
-- Number of bugs identified / fixed:
-- Was any downstream service affected by the change?:
+- Number of users: 6
+- Number of bugs identified / fixed: 
+- Was any downstream service affected by the change?: 
 - Types of errors logged:
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
 - If yes, what: [FILL_IN] with ticket numbers
+
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
@@ -199,9 +200,6 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - Domo Dashboard request submitted
 - Who is monitoring the dashboard(s)?: PM, Disability teams 1 & 2, OCTO PO (Emily Theis) monitor analytics for issues (failed submissions, traffic irregularities, unexpected errors)
 
-
-
-
 #### Prerequisites:
 Approvals & to do's for launch:
 - [ ] Development for release 1.0 and 1.1 are complete, and the ability to give certain Veterans access to 2022 form based on the toggle state
@@ -216,6 +214,7 @@ Approvals & to do's for launch:
   - If a claim fails both the primary and backup submission processes, the teams will research root cause, repair claim in production, and re-trigger primary submission if possible. The teams will do whatever it takes to prevent a Veteran from needing to recomplete their claim.
 - Remediation steps are dependent on the type of error
 - Once a Veteran is selected for the 2022 526ez form they cannot be de-selected.
+
 
 ### Stage A: Canary 5% of users
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
