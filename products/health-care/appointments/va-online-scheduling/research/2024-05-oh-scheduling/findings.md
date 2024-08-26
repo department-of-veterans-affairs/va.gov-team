@@ -78,11 +78,11 @@ This test included 2 versions of the appointments list:
 
 **Hypothesis 1:** As a Veteran, I can choose my provider when scheduling at an OH facility.
 - Veterans will want to choose a specific provider for most types of care.
-  - TRUE: Several veterans expressed they would prefer to see who they are familiar with, otherwise would like specific information about the providers to make an informed decision. (Furthermore, 5 Participants expressed a desire to know if they have seen a provider before, as they do not always remember names but recognize the importance of continuity in care.)
-- Veterans' privider preferences change between primary care and specialty care?
-  - Mixed: This was very situaltion depedent. Veterans expressed the desire for a "no preference" option for speciality care or in an immediate health care need in order to see the first available. 
-- Veterans' privider preferences change between established care and new care?
-  - TRUE: Veterans mentioned the desire for choosing a privider based on the following: (5 participants indicated a clear need for more detailed information about each provider, including credentials, specialties, and experience.)
+  - TRUE: Several Veterans expressed they would prefer to see who they are familiar with, otherwise would like specific information about the providers to make an informed decision. (Furthermore, 5 Participants expressed a desire to know if they have seen a provider before, as they do not always remember names but recognize the importance of continuity in care.)
+- Veterans' provider preferences change between primary care and specialty care.
+  - Mixed: This was very situation dependent. Veterans expressed the desire for a "no preference" option for speciality care or in an immediate health care need in order to see the first available. 
+- Veterans' provider preferences change between established care and new care.
+  - TRUE: Veterans mentioned the desire for choosing a provider based on the following: (5 participants indicated a clear need for more detailed information about each provider, including credentials, specialties, and experience.)
 - Veterans will want to choose a provider based on who has the soonest availability.
   - TRUE: 3 participants prioritize booking the first available appointment over specific provider preferences.
 
@@ -90,14 +90,14 @@ This test included 2 versions of the appointments list:
 - Choosing from locations where they've recently scheduled an appointment will make it faster and easier to schedule.
     - INCONCLUSIVE: Without using the Veterans' real data, it is difficult to test this hypothesis. 
 - Veterans will appreciate and find value in the default "Sort by Recent Locations."
-  - FALSE: There was a stronger preference to see what is colsest to them.  
+  - FALSE: There was a stronger preference to see what is closest to them.  
 
 **Hypothesis 3:** As a Veteran, I can quickly schedule from previous appointments.
 
 - Veterans will want a shortcut to schedule appointments similar to those they've had in the past.
   - TRUE: Veterans appreciated how this feature streamlined the appointment making process and provided details on who they saw.
 - Veterans will have a distinct preference for scheduling using the past provider or clinic flow compared to the "type of care" route.
-  - TRUE: When asked to schedule an appointment, they would first check to see if they could schedule from a past appointent listed. 
+  - TRUE: When asked to schedule an appointment, they would first check to see if they could schedule from a past appointment listed. 
 - Scheduling appointments similar to those they've had in the past will help Veterans schedule more quickly.
   - TRUE: See above
 
@@ -105,9 +105,9 @@ This test included 2 versions of the appointments list:
 **Hypothesis 4:** As a Veteran, I need helpful reminders that the scheduling tool is not for emergencies in appropriate places in the process so that it is not an annoyance.
 
 - Veterans will find these warnings necessary.
-  - TRUE Several participants mentioned the importance of the alert for stopping to consider if they needed immediate care. 
+  - TRUE: Several participants mentioned the importance of the alert for stopping to consider if they needed immediate care. 
 - Veterans will find these warnings helpful.
-  - TRUE Participants generally found the warnings helpful. 
+  - TRUE: Participants generally found the warnings helpful. 
 - Veterans will find that the alert is timely and appropriate.
   - MIXED: While several participants found the alert timely and necessary, some expressed irritation or found it redundant. 
 
@@ -117,15 +117,14 @@ This test included 2 versions of the appointments list:
 - Veterans will understand how to review their notifications.
     - TRUE: Veterans general response to the red bell was to click on it. 
 - Veterans will find their notifications helpful.
-  - TRUE: Some veterans mentioned the reminders for the actionable items being helpful.
+  - TRUE: Some Veterans mentioned the reminders for the actionable items being helpful.
 
 ## Key Findings
 
 ### OH Provider selection - Key Findings
 
 
-
-1. Participants indicated a need to know if the providers listed were ones they have seen before and said it would be nice to see provider experience, provider availability, and the option to view provider details when selecting a provider.
+1. Participants indicated a need to know if the providers listed were ones they have seen before, and said it would be nice to see provider experience, provider availability, and the option to view provider details when selecting a provider.
 2. It wasn't clear to 8 participants that they had a previous relationship with providers in the list.
 3. Only 1 participant seemed to understand that request meant they were not going to direct-schedule but rather go through a different process. 
 
@@ -200,11 +199,11 @@ Only 2 participants mentioned going to urgent care. This misunderstanding is cri
 
 #### 3. There was an overwhelmingly positive reaction to the resource for "how to choose between urgent and emergency medical care." 
 
-Overall, participants appreciated the link and found it useful. One participant noted "That's a good one. I would expect that to give me a quick explanation, a little decision tree kind of information, maybe even a little box" [P5]. This finding is also supported by the finding that suggests participants faced uncertainty around what is considered an urgent medical need and whether the scheduling tool can be used for scheduling immediate care or not. 
+Overall, participants appreciated the link and found it useful. One participant noted "That's a good one. I would expect that to give me a quick explanation, a little decision tree kind of information, maybe even a little box" [P5]. This finding is also supported by the finding that suggests participants faced uncertainty around what is considered an urgent medical need, and whether the scheduling tool can be used for scheduling immediate care or not. 
 
 Participants expressed a strong desire for the information on "how to choose between urgent and emergency care" to be more prominently placed within the scheduling tool interface.  \
  \
-As this participant stated, having it accessible before the "start scheduling" button would reduce the number of clicks. "I would like to see this, 'how to choose between urgent emergency care' before clicking on the scheduling button. Because that might cut down on the amount of clicks I need to go through trying to find stuff" [P4]. Another participant stated "Urgent care and emergency, I think that's important, because I might forget about it. So I would like to see that almost every time in this appointment area" [P3].
+As this participant stated, having it accessible before the "start scheduling" button would reduce the number of clicks. "I would like to see this, 'how to choose between urgent emergency care' before clicking on the scheduling button. Because that might cut down on the amount of clicks I need to go through trying to find stuff" [P4]. Another participant stated "Urgent care and emergency", I think that's important, because I might forget about it. So I would like to see that almost every time in this appointment area" [P3].
 
 
 
@@ -241,7 +240,7 @@ Recommendations:
 1. 10 participants found scheduling from previous appointments adds value and is faster and easier to schedule. 
 2. 5 participants had a difficult time finding and clicking the "I need a different appointment" option.  
 3. 2 participants noted the wording at the top of the list "choose an appointment you've had in the past" was slightly confusing.  
-4. 5 participants found the wording  "review available appointments" misleading 
+4. 5 participants found the wording  "review available appointments" misleading. 
 5. The organization of providers listed was validated as  4 participants prefer primary care appointments listed first and 5 participants noted liking the list organized by recent visits.
 
 
