@@ -15,7 +15,7 @@ We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for 
 
 **Note:** We will be responsive to the release, updating our monitoring approach as we learn more/better! 
 
-**UX-Product sync 8/26:** We recognized that Medallia data will not impact decision-making on whether or not we will proceed with the roll-out. Therefore, we are moving Medallia data review to the end of each phase of the rollout in order to capture a hollistic picture and saving a lot of work. 
+**8/26 UX-Product sync:** We recognized that Medallia data will not impact decision-making on whether or not we will proceed with the roll-out. Therefore, we are moving Medallia data review to the end of each phase of the rollout in order to capture a hollistic picture and saving a lot of work. 
 
 ## Scope of this report
 This reporting will seek to keep all stakeholders informed of the rollout's progress. Beyond this documentation, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
