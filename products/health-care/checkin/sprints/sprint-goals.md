@@ -7,11 +7,12 @@
 ## SPRINT 16 - 9/18/2024-10/1/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89593)
+    - 🟦 [Answer Questions on Redis Encryption from Platform Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91455)
     - **Move to New AWS Instance**
         - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
-    - 🟦🟩 TBD
+    - 🟦🟩 Conduct some KT and ticket creation party (Lee)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to get ready for and schedule the Staging Review**
     - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
@@ -45,7 +46,8 @@
         - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
-    - 🟦🟩 TBD
+    - 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
+    - 🟦🟩 Conduct some KT and ticket creation party (Lee)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)       
@@ -54,8 +56,7 @@
     - 🟩 Placeholder for launch blockers, if any - Staging Review is 8/29
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
-    - 🟩 TBD
-    - 🟦 TBD 
+    - 🟥 TBD
 - **Check in with staff after checking in**
     - 🟥 Scheduke kickoff meeting with Sam (SPL)
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
