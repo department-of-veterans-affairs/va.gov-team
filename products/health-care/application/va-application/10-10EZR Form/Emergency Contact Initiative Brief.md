@@ -113,9 +113,11 @@
 - All EC fields including name, phone, relationship, and address
 - ECs are optional within the EZR
 - Add address to EC is optional
-- 
-- 
-- 
+- Veteran can add, edit, remove, and cancel update for an EC
+- EC is in Veteran Info section
+- EC will be behind a Feature Flag to start
+- EC rollout will be staggered
+- EC will be QAed, E2E tested, and accessibility tested
 - 
 
 #### Go-to-market 
