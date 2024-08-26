@@ -143,6 +143,7 @@ Create, review, estimate, and prioritize backlog items.
 - Anyone on the team can create a(n) issue/ticket/story. 
 - All teammates are responsible for keeping them up to date.
 - Templates are available within the new issue/ticket/story during creation - Pick one you like!
+- The [Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/1010-Epic-template.md) will be used to include the high-level details and a task list that will convert into stories
 
 **Labels to use**
 - All tickets should include:
