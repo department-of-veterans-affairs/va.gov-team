@@ -682,6 +682,10 @@ Disability and Assistive Technology (AT):
 * Sighted keyboard: 0
 * Captions: 0
 
+[2024-06 0781 Research Readout.pdf](https://github.com/user-attachments/files/16752040/2024-06.0781.Research.Readout.pdf)
+
+
+
 
 ## Underserved groups we haven’t talked to 
 
