@@ -46,7 +46,7 @@ Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking no
 I want to start by telling you a bit about myself.
 I’m a researcher from VA. Our team works on improving VA.gov so that Veterans have a better experience getting benefits and services from the VA.
 
-Before we get started, when Perigean set up this session, they asked if you’re okay with a couple of observers joining us. This helps my team members learn from our conversation, and they also help me take notes so we capture everything you share.
+Before we get started, when Perigean set up this session, they asked if you would be okay with a couple of observers joining us. This helps my team members learn from our conversation, and they also help me take notes so we capture everything you share.
 
 So, I want to confirm that you are okay with a couple of my teammates joining us just to observe?
 - IF NO,
