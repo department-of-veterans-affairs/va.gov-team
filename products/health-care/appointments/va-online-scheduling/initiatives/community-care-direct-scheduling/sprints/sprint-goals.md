@@ -1,26 +1,55 @@
 # SPRINT GOALS
 🟦 ENG 🟨 RE 🟥 DE 🟪 PM 🟩 Analytics ✔️ Done ❗ Priority ⛔ Blocked :roller_skate: Rolling over
 
+
+
+<details>
+<summary>FUTURE SPRINT - 10/2/2024 - 10/15/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
+
+## SPRINT 17 - 10/2/2024 - 10/15/2024  ------- FUTURE FUTURE / TENTATIVE ------
+
+#### PLANNED RELEASES 
+- NONE
+
+#### SPRINT TICKETS
+
+      
+</details>
+
+
+______________________________________________________________________________________________________________________________________________________
+
+
+
+<details>
+<summary>FUTURE SPRINT - 9/18/2024 - 10/1/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
+
+## SPRINT 16 - 9/18/2024 - 10/1/2024  ------- FUTURE FUTURE / TENTATIVE ------
+
+#### PLANNED RELEASES 
+- NONE
+
+#### SPRINT TICKETS
+
+      
+</details>
+
+
+______________________________________________________________________________________________________________________________________________________
+
+
 <details>
 <summary>FUTURE SPRINT - 9/4/2024 - 9/17/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 14 - 9/4/2024 - 9/17/2024  ------- FUTURE FUTURE / TENTATIVE ------
-
-#### SPRINT GOALS
-- **GOAL: Introduce community care direct scheduling in Appointments**
-    - **Sub Goal: [Feature] Conduct research study with Veterans**
-    - **Sub Goal: [Feature] Create KPIs**
-    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-    - **Sub Goal: [Feature] Get connected with WellHive**
-    - **Sub Goal: [Feature] Get CC app within vets-website set up**
-    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
-    - **Sub Goal: [Feature] Get authorized referrals from CDW**
-
-
+## SPRINT 15 - 9/4/2024 - 9/17/2024  ------- FUTURE FUTURE / TENTATIVE ------
 
 #### PLANNED RELEASES 
 - NONE
+
+#### SPRINT TICKETS
 
       
 </details>
