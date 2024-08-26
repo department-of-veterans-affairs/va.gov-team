@@ -39,7 +39,7 @@ OH facility staff can configure:
 - Whether a user is required to have had an encounter at that facility for each type of care
    - The timeframe for that encounter (e.g. 24 or 36 months - actual timeframes TBD)
 - The number of requests a user is allowed to submit to a facility for a given type of care (e.g. 1-2)
-- Staff configure these settings in VAS.
+- Staff configure these settings in CTPS.
 
 A OH user can schedule nutrition and food appointments at any OH location where:
   - They are a registered patient.
