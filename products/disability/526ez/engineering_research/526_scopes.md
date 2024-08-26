@@ -18,7 +18,7 @@ These scopes are where the rubber meets the road for our ["exclusive methodology
 These scopes give us 100% coverage of Form526Submissions within the scope of va.gov. They even cover edge case failures downstream to some extent ([see this doc on 'paranoid success' for more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/paranoid_success_submissions.md)).  However, if Lighthouse, EVSS, VBMS, or any of the other isolated links in the submission life 'chain' fail silently, and no body tells us, we can't do anything about that. Therefor, we can say these scopes give us **100% coverage of va.gov, but nothing else.** Someday we might have a wholistic state solution that covers the entire lifecycle of a submission, but for now ensuring the integrity of our 'link in the chain' is the best we can do.
 
 ### Technical Limitations
-It's not uncommon for these scopes to timeout when run from a command line. There are 'memory-light' versions scripted under each scope header below that can be used to achieve the same results without crashing your Postgresql connection.
+It's not uncommon for these scopes to timeout when run from a command line. This is mittigated a bit by using `.pluck(:id)` to execute subqueries where we are able.
 
 ### MAX_PENDING_TIME
 this is a duration that we use to delineate between "this is too new to call it a failure" and "this is old enough that we can consider it a failure, unless it meets one of our success type criteria."  This is not an arbitrary number. At the time of writing, it is set at 3 weeks. We picked that number to allow for the cumulative duration of
