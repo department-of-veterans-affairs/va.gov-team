@@ -47,8 +47,8 @@ Success metrics will be updated in this document at the end of each rollout perc
 
 ### [Overall Form Abandonment]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
 'Form abandonment' defined in OCTO language: On each page in the form, what percentage of people drop-off and don't continue to the next page.
-| Step # | 526 Page | Week 1 | Week 2| Week 3| Week 4|
-|--|--|--|--|--|--|
+| Step # | 526 Page| Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
+|--|--|--|--|--|--|--|--|--|--|--|
 |Step 1| 
 |Step 2|
 |Step 3|
