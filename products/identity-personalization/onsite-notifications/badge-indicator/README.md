@@ -1,4 +1,4 @@
-# Notification style: Badge indicator
+# Project Outline: Notification style - Badge indicator
 
 **Last Updated: August 26, 2024  -- create outline**
 
