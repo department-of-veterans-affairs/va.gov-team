@@ -68,6 +68,10 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 ---
 
@@ -77,11 +81,13 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Will Veterans spend the time updating their EC as they go through EZR?
+  - Will Veterans leave other VA.Gov areas (such as the VA.Gov Profile) to come to the EZR form to update EC?
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
+  - Can VES 
+  Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
