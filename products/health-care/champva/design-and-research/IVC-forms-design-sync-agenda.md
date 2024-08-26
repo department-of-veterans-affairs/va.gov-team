@@ -1,5 +1,5 @@
 # Running Design and Research Agenda
-## August 19, 2024
+## August 26, 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang
 - Facilitator: Rachael
 - Next meeting facilitator: Steven
