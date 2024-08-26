@@ -65,37 +65,40 @@ Before we look at the website, let’s start with a few warm-up questions.
 1. Have you ever applied for the Caregiver Program before?
    - If no: [Should be yes based on screener criteria]
 
-2. Were you in the Primary or Secondary Caregiver role?
+2. How long ago was that when you applied?
+   
+3. Are you in the Primary or Secondary Caregiver role?
 
-3. Did you complete the application in person, at a facility or online?
+4. Did you complete the application in person, at a facility or online?
 
 
-4. Do you mind telling us more about that experience?
+5. Do you mind telling us more about that experience?
 
-5. Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
+6. Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
 
-6. What would you say was the most challenging part of the application process that you wish you would have know upfront?
-   - [Reword prompt] Thinking back, what would you change so the process is better for the next Caregiver/Veteran applying?
+7. What would you say was the most challenging part of the application process that you wish you would have know upfront?
+   - [Re-word prompt] Thinking back, what would you change so the process is better for the next Caregiver/Veteran applying?
 
 
 
 ## First Task: [Introduction page] - 2 minutes
 
-- Thank you for sharing that background. Now let's
+- Thank you for sharing that background. Now let's change gears a bit.
+- I'm going to share a link to our staging site with you and have you share your screen when you are read.
+  
 - Link to Production / Staging site?
 
 
 - Review this page and tell me about your intial thoughts and expectations of this information before applying.
 
--    
-- Step 2
+- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- [Does the participant easily locate the apply link?]
+- [Does the participant seem to indicate that any of the content is unclear or needs more clarification?]
+- [Does the participant indicate they would need to pause to gather information or would need to coordinate with others to complete the application together?]
+- [Does the participant comment on making changes to existing caregivers?]
 
 
 **Participant ratings:**
@@ -113,7 +116,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: [Primary Caregiver] - 5 minutes
 
 - Step 1
 - Step 2
@@ -123,6 +126,52 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
+
+## Fourth Task: [Secondary Caregiver] - 5 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Caregiver Interview Questions - X minutes
+
+- Question 1
+- Question 2
+- Any questions for me?
+
+
+
+## Firth Task: [Sign as a Rep] - 5 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+## Sixth Task: [Review + Submit] - 5 minutes
+
+- Step 1
+- Step 2
+
+### Things to watch for:
+
+- [Does the participant understand meaning of xyz?]
+- [Does the participant notice xyz?]
+- [Etc]
+
+
+
 
 ## Post-Task Interview - X minutes
 
@@ -136,7 +185,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -149,7 +198,3 @@ Thank you so much again, and enjoy the rest of your day!
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
