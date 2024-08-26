@@ -8,6 +8,9 @@ Date: August 15, 2024
 Julie Pedke (julie.pedtke@coforma.io), Ruben Sun (ruben.sun@coforma.io), Jina Ryu (jina.ryu@va.gov), and Nichole Nicholas (nichole.nicholas@coforma.io)
 
 
+[2024-06 0781 Research Readout.pdf](https://github.com/user-attachments/files/16752040/2024-06.0781.Research.Readout.pdf)
+
+
 **Jump to:**
 
 - [Background](#background)
@@ -681,10 +684,6 @@ Disability and Assistive Technology (AT):
 * Hearing aids: 0
 * Sighted keyboard: 0
 * Captions: 0
-
-[2024-06 0781 Research Readout.pdf](https://github.com/user-attachments/files/16752040/2024-06.0781.Research.Readout.pdf)
-
-
 
 
 ## Underserved groups we haven’t talked to 
