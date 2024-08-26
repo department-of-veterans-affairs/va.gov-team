@@ -21,7 +21,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 ## Schedule of reporting
 Success metrics will be updated in this document at the end of each rollout percentage, starting with 5%. At the end of both the 1.0 and 1.1 release, we will review Medallia data in order to add more detail to the user experience of the feature. 
 
-### Reporting by rollout % - 526 Success Metrics**
+### 526 Success Metrics
 |**Rollout %**|**Dates of 1.0 rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|
 |--|--|
 |5%| Aug 28 - Sep 2 | 
