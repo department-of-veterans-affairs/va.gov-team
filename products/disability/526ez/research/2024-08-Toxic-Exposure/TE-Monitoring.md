@@ -57,7 +57,7 @@ Success metrics will be updated in this document at the end of each rollout perc
 |Step 6|
 |Step 7|
 
-### Toxic Exposure Drop-off 
+### Toxic Exposure Abandonment 
 Add table here. Currently being workshopped by Christine and Jared so we can understand how far into the TE flow Veterans are getting and places they might exit. 
 | Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|
