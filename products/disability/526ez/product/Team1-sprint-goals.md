@@ -3,6 +3,7 @@
 
 ## Sprint 5
 Period 8/28 - 9/10
+
 **Toxic Exposure**
 - Complete 5% and 10% Canary rollout
 - Address high priority submission and validation errors
