@@ -1,6 +1,6 @@
  # IA Design for Manage Your Benefits page within MGIB VYE tool
 **STATUS: In progress**
-8/26/24 - Updated by MN
+8/26/24 - Updated by MN - removed crosslink within Profile, updated other crosslinks to go to the static page, not deep link into an auth page.
 
 **Team:** VYE
 
@@ -49,11 +49,11 @@ This page will live on the same level as verifying enrollments page.
 ### Note for the crosslinks below:
 We'll want to distinguish the global va.gov Profile from the info that will only be used to manage MGIB benefits. Work closely with Sitewide Content to make this clear to Veterans, something along the lines of "updating your info in this tool will not change the info in VA.gov Profile." I defer to Sitewide Content's expertise on what that would look like!
 
-2. **[VA.gov Profile](https://www.va.gov/profile)** - Add
-  - Placement description:
-  - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
-  - Notes: Work with both Auth team and Sitewide Content for where and how to include info
+~2. **[VA.gov Profile](https://www.va.gov/profile)** - Add~
+  - ~Placement description:~
+  - ~Link label: TBD by Sitewide Content~
+  - ~Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/~
+  - ~Notes: Work with both Auth team and Sitewide Content for where and how to include info~
 -------
 
 3. **[Change your address in your VA.gov profile](https://www.va.gov/change-address/)** - Add
