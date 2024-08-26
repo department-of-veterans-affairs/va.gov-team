@@ -55,19 +55,21 @@ Success metrics will be updated in this document at the end of each rollout perc
 |Step 4| Supporting Evidence | 19.23% | 19.23% |
 |Step 5| Additional Information | 3.67% | 3.67% |
 |Step 6| Review and Submit | 7.58% | 7.58% |
-|Step 7| Confirmation | - |
+|Step 7| Confirmation | - | - |
 
 ### Toxic Exposure Abandonment 
 Add table here. Currently being workshopped by Christine and Jared so we can understand how far into the TE flow Veterans are getting and places they might exit. 
 | Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|
-|Step 1| 
-|Step 2|
-|Step 3|
-|Step 4|
-|Step 5|
-|Step 6|
-|Step 7|
+|Step 1| Toxic Exposure Conditions |
+|Step 2| Gulf War 1990 |
+|Step 3| 1990 Summary |
+|Step 4| Gulf War 2001 |
+|Step 5| 2001 Summary |
+|Step 6| Herbicide |
+|Step 7| Herbicide Summary |
+|Step 8| Additional Exposures |
+|Step 9| Additional Exposures Summary |
 
 ## Summary of Medallia survey data (Evaluated at completion of 1.0 and 1.1 rollouts)
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
