@@ -12,6 +12,6 @@ Corey Ferris     | 5-6, 9 |  |  |  |
 Ryan Shaw        |  |  |  |  |  
 John Luo         | 16 |  | 1 week pending plans |  |  
 Tony Williams    |  |  |  |  |  
-Jennie McGibney  |  |  |  |  |  
+Jennie McGibney  | 11-16 |  |  |  |  
 Brenda Cudone    |  |  |  |  |  
 
