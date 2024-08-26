@@ -6,6 +6,9 @@
 
 - **Github labels**: authenticated-experience
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **Development Epic:** [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788)
+- **Collaboration Cyle Epic:** [#91542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91542)
+- **Experimental Design:** [#3229](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3229)
 
 ### Roles
 
