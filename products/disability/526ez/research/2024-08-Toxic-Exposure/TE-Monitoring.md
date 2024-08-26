@@ -21,18 +21,9 @@ This reporting will seek to keep all stakeholders informed on a weekly basis of 
 Beyond this weekly report, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
 
 ## Schedule of reporting
-Reporting will be avilabile every Friday, starting after the first full week of the rollout. We will request Medallia data from Contact Center and share the report on the data from the previous week. 
+Success metrics will be updated in this document at the end of each rollout percentage, starting with 5%. At the end of both the 1.0 and 1.1 release, we will review Medallia data in order to add more detail to the user experience of the feature. 
 
-We will also provide success metrics from GA4 at each % of the rollout. If we decide later on, we can also slice up the Medallia data to examine further trends at the % level. 
-
-### Weekly reporting schedule
-|**Report**|**Dates**| **Rollout %**| **Reporting document updated**|
-|--|--|--|--|
-|**Week 1** | Aug 28 - Sep 6 | (5%-10%)| Sep 13 |
-|**Week 2**| Sep 7 - 13 | (10-50%) | Sep 20 |
-|**Week 3** | Sep 14 - Sep 20 | (50%-100)| Sep 27|
-
-### Reporting by rollout % - 526 TE metrics **only**
+### Reporting by rollout % - 526 Success Metrics**
 |**Rollout %**|**Dates of 1.0 rollout (will stay updated based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|
 |--|--|
 |5%| Aug 28 - Sep 2 | 
@@ -42,24 +33,7 @@ We will also provide success metrics from GA4 at each % of the rollout. If we de
 |75%|Sep 16- 17|
 |100%|Sep 18 |
 
-## Guiding Questions for UX Monitoring
-1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
-2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
-3. What challenges (usability issues, bugs, general pain points) are Veterans encountering with the feature? 
-4. How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
-5. What impact does the new feature have on Veteran trust in VA?
-
 ## Summary of GA4/Data Dog
-### 526ez Success Metrics by week
-| Product KPI | Baseline  | Target |  Week 1 | Week 2| Week 3| Week 4| Data Source |
-|--|--|--|--|--|--|--|--|
-| Abandonment rates| 24% | ≤ 24% | | | | | [Domo](https://va-gov.domo.com/page/447193050/kpis/details/1994399128?pfilters=%5B%7B%22column%22:%22form_name%22,%22operand%22:%22IN%22,%22values%22:%5B%22Form%2021-526EZ%20-%20Original%20Disability%20Claim%22%5D,%22dataType%22:%22string%22,%22affectedCardUrns%22:%5B%5D,%22label%22:%22form_name%22,%22key%22:%22form_name:%22,%22dataSourceId%22:%22e83cb7cf-0e3d-4699-89b3-761589681307%22%7D%5D)<br>[526 Toxic Exposure GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-| Form exits | | | | | |
-| TE Opt-in rate % | | | || | |[526 Toxic Exposure GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ)                                                              |
-| Submission errors | 0.62% | ≤ 0.62% | | | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
-|% of submissions that use normal path| 99.38% | 99.38%*  | | | || [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
-| % of uses of backup and failsafe path | | ||| || Pending Backup Path monitoring |
-
 ### 526ez Success Metrics by % rollout
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|
@@ -90,6 +64,13 @@ Add table here. Currently being workshopped by Christine and Jared so we can und
 ## Summary of Medallia survey data
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
   
+### Guiding Questions for UX Monitoring
+1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
+2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
+3. What challenges (usability issues, bugs, general pain points) are Veterans encountering with the feature? 
+4. How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
+5. What impact does the new feature have on Veteran trust in VA?
+   
 ### Overall 526ez
 |**Data point**|**Baseline (2024)**|**Pre-Launch**| **Week 1** | **Week 2**| **Week 3**| **Week 4**|
 |--|--|--|--|--|--|--|
