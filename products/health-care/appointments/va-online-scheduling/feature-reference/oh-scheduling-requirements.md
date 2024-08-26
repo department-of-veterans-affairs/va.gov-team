@@ -34,7 +34,7 @@ OH facility [leadership] can configure the online scheduling options available t
 - The system displays all OH locations where the Veteran has had an encounter.
 
 - A OH user can schedule nutrition and food appointments at any OH location where:
-  - They are a registered patient at any OH location.
+  - They are a registered patient.
     - Note: registering at one OH location automatically registers them at all other OH facilities.
   - AND They have had an encounter at that location for `Nutrition and Food`
   - AND The location has enabled direct scheduling for `Nutrition and Food`
