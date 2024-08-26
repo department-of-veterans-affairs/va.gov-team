@@ -109,6 +109,12 @@
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
+- EC primary and secondary
+- All EC fields including name, phone, relationship, and address
+- ECs are optional within the EZR
+- Add address to EC is optional
+- 
+
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
