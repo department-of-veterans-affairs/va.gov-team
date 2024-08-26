@@ -52,6 +52,7 @@ assignees: ''
 #### Endpoint Monitoring (Completed Playbook)
 - [ ] Standard has been met
 - [ ] Standard has not been met
+##### Explanation of failure to meet standard (if applicable): #####
 ---
 
 ### Next Steps for the VFS team
