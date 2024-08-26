@@ -63,16 +63,19 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
 1. Have you ever applied for the Caregiver Program before?
-- Did you complete the application in person, at a facility or online?
-- If yes: were you approved as a Primary or Secondary Caregiver role?
-- If no: [Should be yes based on screener criteria]
+   - If no: [Should be yes based on screener criteria]
 
-2. Do you mind telling us more about that experience?
+2. Were you in the Primary or Secondary Caregiver role?
 
-3. Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
+3. Did you complete the application in person, at a facility or online?
 
-4. What would you say was the most challenging part of the application process that you wish you would have know upfront?
-- Thinking back, what would you change so the process is better for the next Caregiver/Veteran applying?
+
+4. Do you mind telling us more about that experience?
+
+5. Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
+
+6. What would you say was the most challenging part of the application process that you wish you would have know upfront?
+   - [Reword prompt] Thinking back, what would you change so the process is better for the next Caregiver/Veteran applying?
 
 
 
