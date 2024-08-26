@@ -1,4 +1,4 @@
-# Research Plan for AEDP Prefill Study, August 19, 2024
+# Research Plan for AEDP [Study Name], [Date]
 
 > [!TIP]
 > Be sure to update the jump links to your tasks
@@ -19,7 +19,7 @@
 > Add the background information about this study, which can be found in the epic we're testing and our pattern's product briefing page.
 
 ## Background
-A variety of digital products within the authenticated VA.gov experience provide a service to users that prefill some of their existing profile information in order to save Veterans' time and energy. Our team is tasked with reviewing current or potential VADS design patterns to improve guidance around their implementation for consistency and ease of use across the different use cases on VA.gov. We have researched how this pattern has been used so far across the site, and would like to test some of the different variations we have seen implemented to find the best possible solution for the widest audience.
+[Example text:] A variety of digital products within the authenticated VA.gov experience provide a service to users that prefill some of their existing profile information in order to save Veterans' time and energy. Our team is tasked with reviewing current or potential VADS design patterns to improve guidance around their implementation for consistency and ease of use across the different use cases on VA.gov. We have researched how this pattern has been used so far across the site, and would like to test some of the different variations we have seen implemented to find the best possible solution for the widest audience.
 
 Some of the variations we plan to test include:
 - Location and frequency of the prefill alert
@@ -43,6 +43,7 @@ This work supports the [OCTO Objective 3.](https://github.com/department-of-vete
 
 ## Research Goals	
 Goals for this research include:
+[Example Research Goals:]
 - Understand where and when users need the prefill alert to appear.
 - Understand how users expect the prefilled data to display.
 - Understand users' expectations around why certain data can be edited within their profile and other data cannot.
@@ -58,23 +59,23 @@ This research will help us refine these patterns and to feel confident in our re
 ### Research questions
 We will guide participants to complete the tasks using a think-aloud method.
 
-*Goal 1: Understanding where and when users expect the prefill alert to appear.*
+*Goal 1: [Repeat Goal 1 from above] [Example goals]*
 - Does the prefill alert in the unauthenticated experience entice them to sign in to complete the form?
 - Where do they expect the prefill alert message to be located once they are authenticated?
 - In what variation do they notice the prefill alert? Top of page? On the step pages?
 - Does bolding the word ‘note’ make an impact on whether they will read the information?
 
-*Goal 2: Understanding how users expect the prefilled data to display.*
+*Goal 2: [Repeat Goal 2 from above] [Example goals]*
 - Which version of the data display (address block vs gray card component) helps users to more quickly understand that it contains prefilled data?
 - Do they notice the prefilled data where it is located on the page in either the address block or gray card component?
 
-*Goal 3: Understand users' expectations around why certain data can be edited within their profile and other data cannot.*
+*Goal 3: [Repeat Goal 3 from above] [Example goals]*
 - How do they feel about the ability to edit some data but not others?
 - Is it clear how to edit data within the form? Is it clear how to edit data that is not editable on VA.gov?
 - Does the user understand why some data is not editable?
 - Does the explanation for why we limit edits to some user data increase user trust in VA?
 
-*Goal 4: Understand how users expect the edit process to work and where they expect their edits to get saved.*
+*Goal 4: [Repeat Goal 4 from above] [Example goals]*
 - Where do they think the new information gets saved? (profile vs form)
 - Would they ever want to choose where this information gets saved? 
 - Which type of prefilled data display do they prefer to see on the edit page? (in-field vs gray box)
@@ -86,6 +87,7 @@ We will guide participants to complete the tasks using a think-aloud method.
 
 
 ### Hypotheses
+[Example Hypotheses]
 Location of the prefill alert (Intro page vs Form pages):
 - The prefill alert on the front page will entice the user to login for a more convenient experience.
 - Bolding “note” in the prefill alert messaging will help users see a block of text quicker.
@@ -121,6 +123,7 @@ We will hold the research sessions remotely on Zoom.
 
 ### Research materials
 
+[Example research materials:]
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/prefill%20usability%20test%20convo%20guide.md)
 - [Prototype](https://musical-doodle-7676579pxr3rxrg-3001.app.github.dev/mock-form-ae-design-patterns/)
 - [Designs](https://www.figma.com/design/2j01RTqCSJRy4lX3eUOiod/AE-Design-Patterns---Prefill?node-id=335-14388&t=86ldrwkOEBj4Hy3x-0)
@@ -132,14 +135,14 @@ We will hold the research sessions remotely on Zoom.
 ## Recruitment	
 
 ### Recruitment approach
-
+[Example recruitement approach]
 We are looking for 8 Veterans to participate in this study. We’ll use a lean maximum strategy for inclusivity, targeting 3 demographic criteria (age, gender, race) as primary sample distribution criteria, and race/ethnicity as a secondary sample distribution criteria.
 
 ### Recruitment criteria
 12 Veterans (includes a 1.5x over recruit)
 
 ### Screener Questions
-
+[Example screener questions:]
 #### Primary criteria (must-haves)
 
 - All participants must be willing to join from their mobile devices for the study
@@ -164,26 +167,22 @@ We are looking for 8 Veterans to participate in this study. We’ll use a lean m
 
 
 ## Timeline
-Requesting a Kickoff call with Perigean since this is our teams first research study on August 20th between 2-5pm EST or the 23rd between 10:30am-2pm OR 4-5pm EST
+[Request a kickoff call if desired and provide potential dates/times for that meeting]
 
 ### Prepare
 **When will the thing you are testing be finalized?**
 
-Monday, August 19th
+[Provide estimated completion date]
 
 **Pilot session information**
 
-Two options available, depending on when recruiting can schedule participants.
-
-- Pilot participant email: Alexandria.parker@agile6.com
-- Date and time of pilot session: Friday, August 23rd at 12pm EST OR Tuesday, August 27th at 4pm EST.
+- Pilot participant email: [provide email]
+- Date and time of pilot session: [provide date/time]
 
 ### Research sessions
 **Planned dates of research:**
 
-We have all our documents and prototype together, but we acknowledge that the research platform guidance says to give 10 days notice for new studies. If we are able to get in sooner than September 3rd, we are ready to begin testing as soon as Monday, August 26th. We have provided some additional availability slots during those extra days if Perigean is able to accommodate us. Thank you!
-
-- Planned dates of research: September 3rd - 9th (With flexible starting date as early as Mon, Aug 26) 
+- Planned dates of research: [Provide estimated dates]
 
 ### Length of sessions
 
@@ -194,6 +193,8 @@ We have all our documents and prototype together, but we acknowledge that the re
 ### Availability
 
 The least preferred day to schedule participants is Thursday, September 5th as one of our researchers is out on Thursdays, but we wanted to provide lots of extra availability just in case. Thanks!
+
+[Example timeslots]
 
 |Date|Timeslots (EST)|
 |:--|:--|
@@ -215,25 +216,20 @@ The least preferred day to schedule participants is Thursday, September 5th as o
 ## Team Roles	
 Below is the list of the people serving in each role and their contact information:
 
-- Moderator: Morgan Jones & Christine Steiffer
-- Research guide writing and task development: Morgan Jones
-- Participant recruiting & screening: Perigean
-- Project point of contact: Christine Steiffer
-- Participant(s) for pilot test: Alex Parker
-- Note-takers: Christine Steiffer, Morgan Jones, Lynn Stahl
-- Observers: Lynn Stahl, Adam Whitlock, Belle P, Becky Phung, Alex Parker, Matt Dingee, Kevin Hoffman PLUS additional members from teams who are using or are interested in using the latest prefill recommendations (Pension Benefits, Decision Reviews, Ask VA, CHAMPVA, CAIA, etc)
-
+- Moderator: [Provide name]
+- Research guide writing and task development: [Provide name]
+- Participant recruiting & screening: [Provide name]
+- Project point of contact: [Provide name]
+- Participant(s) for pilot test: [Provide name]
+- Note-takers: [Provide name]
+- Observers: [Provide names]
+  
 *Contact info:*
-- Morgan Jones - 	morgan.jones@adhocteam.us        415-300-6962
-- Christine Steiffer - 	christine.steiffer@agile6.com 	571-282-9104
-- Lynn Stahl - lynn.stahl@agile6.com
-- Adam Whitlock - adam.whitlock@adhocteam.us
-- Belle Poopongpanit - belle.poopongpanit@agile6.com
-- Becky Phung - becky.phung@va.gov
-- Alex Parker - Alexandria.parker@agile6.com
-- Matt Dingee - matthew.dingee@va.gov
-- Kevin Hoffman - kevin.hoffman1@va.gov
-
+- [Provide name] [Provide email] [Provide number]
+- [Provide name] [Provide email] [Provide number]
+- [Provide name] [Provide email] [Provide number]
+- [Provide name] [Provide email] [Provide number]
+- 
 ## Approved by:
 
 Becky Phung, PO on:
