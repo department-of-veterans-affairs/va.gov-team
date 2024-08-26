@@ -48,6 +48,7 @@ Based on our findings, we will suggest content updates and work with CAIA to imp
 We will conduct moderated usability studies via Zoom using the current production form once facility updates are ready on the 10-10CG.
 
 We will split this study into two cohorts:
+
 	- Cohort 1: Caregivers currently enrolled in the caregiver program, with or without their Veteran pair
  	- Cohort 2: New (recently enrolled) and/or potential future caregivers, with or without Veteran pair
 
