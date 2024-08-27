@@ -73,11 +73,14 @@ Since we have restrictive criteria for this study and a limited pool of caregive
 
 ### Recruitment criteria
 Total participants: 20-30
+
 Cohort 1: 10-15 participants (minimum of 10, maximum of 15 if Perigean is able to recruit that many particiants meeting our criteria)
+
 Cohort 2: Same numbers as Cohort 1
 
 **Primary criteria (must-haves)**
 To meet criteria for cohort 1, participants must be enrolled in the Program of Comprehensive Assistance for Family Caregivers (PCAFC). 
+
 To meet crteria for cohort 2, participants must have a disability rating of 70% or higher AND require some assistance from others to complete daily tasks.
 
 Screener questions:
