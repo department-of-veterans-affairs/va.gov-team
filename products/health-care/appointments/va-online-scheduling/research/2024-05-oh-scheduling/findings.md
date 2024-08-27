@@ -137,7 +137,7 @@ This test included 2 versions of the appointments list:
 
 #### 1. Participants would like detailed information to make an informed provider selection
 
- \
+  
 5 participants wanted  to know if they have seen a provider before, as they do not always remember names but recognize the importance of continuity in care. One participant mentioned, “I don't typically remember who I've seen in the past” [P5]. Another supported this; “Yes, that would be helpful because I don't always remember the names of the doctors I've seen” [P10]. Additionally, another Veteran said, “Now what would really be handy is if it showed me which provider I had in the past” [P5].
 
 3 participants would like to have a "no preference" option, so that they can prioritize availability over provider familiarity. One participant expressed, “I don't know who has the soonest availability. I just wanna get in. So I have no preference” [P10]. Another Veteran mentioned, “If I clicked both I’d get both their schedules. Say if I’m looking for the first available” [P2]. 
@@ -154,7 +154,7 @@ One participant said, "I would think it'd be easier if it indicated that these w
 
 Participants expressed a variety of expectations and concerns regarding the option to request an appointment with a different provider. Several participants anticipated that the "request" option would expand their choices beyond the initially presented options. For example, one participant thought the request option would "let you choose from more providers" [P1]. Another was hoping for the ability to "get an appointment for tomorrow at 2 o'clock" with a different provider [P12].
 
- \
+  
 Recommendations:
 
 
@@ -190,10 +190,10 @@ One participant stated, "I know if I have an emergency I'm probably not clicking
 
 #### 2. Some participants were unclear that the scheduling tool should not be used for same day medical care needs.
 
-When asked how they would handle a high fever that wasn't improving, 4 out of 10 participants indicated they would use VA.gov to schedule an appointment and 2 of 10 said they would message their doctor. For example this participant said, “I would go to start scheduling to see if I could get a fairly soon appointment.” [P4] \
+When asked how they would handle a high fever that wasn't improving, 4 out of 10 participants indicated they would use VA.gov to schedule an appointment and 2 of 10 said they would message their doctor. For example this participant said, “I would go to start scheduling to see if I could get a fairly soon appointment.” [P4]  
 
 
-A couple of participants said they would call their Primary Care Provider and we heard mention of a nurse hotline a couple of times. “I would try to call First to the primary care person, so I’d look at the details of the Primary care and see if there's a phone number or something like that. It's not on here, but I know that there's a 24 hr VA, nurse Hotline.” [P12]  \
+A couple of participants said they would call their Primary Care Provider and we heard mention of a nurse hotline a couple of times. “I would try to call First to the primary care person, so I’d look at the details of the Primary care and see if there's a phone number or something like that. It's not on here, but I know that there's a 24 hr VA, nurse Hotline.” [P12]   
 
 
 Only 2 participants mentioned going to urgent care. This misunderstanding is critical because the VA.gov appointments tool and secure messaging are not meant for immediate care. They are designed for scheduling future appointments, not same-day needs. Additionally, secure messages might not be read for up to three days.
@@ -204,8 +204,8 @@ Only 2 participants mentioned going to urgent care. This misunderstanding is cri
 
 Overall, participants appreciated the link and found it useful. One participant noted "That's a good one. I would expect that to give me a quick explanation, a little decision tree kind of information, maybe even a little box" [P5]. This finding is also supported by the finding that suggests participants faced uncertainty around what is considered an urgent medical need, and whether the scheduling tool can be used for scheduling immediate care or not. 
 
-Participants expressed a strong desire for the information on "how to choose between urgent and emergency care" to be more prominently placed within the scheduling tool interface.  \
- \
+Participants expressed a strong desire for the information on "how to choose between urgent and emergency care" to be more prominently placed within the scheduling tool interface.   
+  
 As this participant stated, having it accessible before the "start scheduling" button would reduce the number of clicks. "I would like to see this, 'how to choose between urgent emergency care' before clicking on the scheduling button. Because that might cut down on the amount of clicks I need to go through trying to find stuff" [P4]. Another participant stated "Urgent care and emergency", I think that's important, because I might forget about it. So I would like to see that almost every time in this appointment area" [P3].
 
 
@@ -224,7 +224,7 @@ A few participants expressed irritation with the constant reminders. P8 shared, 
 
 Participants expressed that having "I need immediate care" listed as a type of care was misleading. 7 participants expected to be able to schedule an immediate appointment "But it doesn't let me schedule an appointment here, and that's what I would expect." [P3] 
 
- \
+  
 Recommendations:
 
 
@@ -252,7 +252,7 @@ Recommendations:
 
 #### 1. Participants find scheduling from previous appointments faster and easier
 
- \
+  
 Participants indicated that scheduling from previous appointments makes the process faster and easier. Many participants appreciated the streamlined process, as it allowed them to quickly choose from past appointments without navigating multiple screens or re-entering information. One participant noted, "If I'm just doing routine work, it's really nice to bring up my past appointments and just continue from there" [P7]. 
 
 Participants also found it particularly helpful for frequent visits, such as physical therapy, with one stating that it "streamlines it, and it makes it a little quicker" [P2]. Having a list of previously visited clinics and providers made it easier to schedule follow-up appointments.
@@ -275,11 +275,11 @@ One participant mentioned, "It sounds like they're all connected like, if I was 
 
 #### 5. How we had the list organized was validated with 4 participants preferring primary care first, and 5 preferred to see most recently visited. 
 
-Some thought that primary care should always be easily accessible due to its general importance and frequent use. As P3 noted, "Primary care should always show up here... specialty appointments sort of at the bottom." Reflecting this sentiment, P11 simply stated, "Primary care would be at the top of the list." And another said "You're probably going to log on here and go to primary care most of the time." [P7] \
+Some thought that primary care should always be easily accessible due to its general importance and frequent use. As P3 noted, "Primary care should always show up here... specialty appointments sort of at the bottom." Reflecting this sentiment, P11 simply stated, "Primary care would be at the top of the list." And another said "You're probably going to log on here and go to primary care most of the time." [P7]  
 
 
-Participants also expected them to be organized by recency. This participant stated, "I would expect it to be currency so most recent to oldest." [P5] We heard this several times including by P4 "Based on where the clinics that I've seen most recently by date." \
- \
+Participants also expected them to be organized by recency. This participant stated, "I would expect it to be currency so most recent to oldest." [P5] We heard this several times including by P4 "Based on where the clinics that I've seen most recently by date."  
+  
 One participant brought up a question around seeing multiple providers at the same office, "Sometimes when I go to the VA I see someone different. So if I've seen two dermatologists, will both pop up here, or just the most recent?” they added by suggesting “ A date would help me remember who I saw so I could schedule with them."
 
  
@@ -302,7 +302,7 @@ Recommendations:
 
 
 1. The feature "Sort by Recent Locations" is clearly understood by participants as listing places they have visited recently.
-2. The "Sort by Recent Locations" feature adds value for some participants, but the effectiveness is inconclusive without real user data. \
+2. The "Sort by Recent Locations" feature adds value for some participants, but the effectiveness is inconclusive without real user data.  
 
 
 
@@ -318,8 +318,8 @@ When asked what sort by recent location means to them, all participants's respon
 
 Without having the participants' real data, the sort by recent locations part of the study might not be representative of how they would interact with this part of the scheduling process. One participant had a difficult time relating to the fake data "I only have one location, so I can't relate to all of these" [P11].
 
-Recommendation:  \
-Test in GA4 and RUM to see if users are changing the default from recent to something else. 
+Recommendation:  
+Test in GA4 and DataDog RUM to see if users are changing the default from recent to something else. 
 
 
 ### Notifications - Key findings
@@ -337,7 +337,7 @@ Test in GA4 and RUM to see if users are changing the default from recent to some
 
 #### 1. Participants did not notice when the bell became active and lit up red. 
 
-The majority of patients did not notice the bell change to red. As explained by one participant, "If you had not asked me, I would not have seen it."[P10] \
+The majority of patients did not notice the bell change to red. As explained by one participant, "If you had not asked me, I would not have seen it."[P10]  
 
 
 
