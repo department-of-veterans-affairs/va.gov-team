@@ -25,7 +25,7 @@ Based on our findings, we will suggest content updates and work with CAIA to imp
 1. Learn more about caregiver clarification content needs within the form (vs before/outside of).
    - What knowledge of the caregiver program do Veterans and caregivers typically have before filling out the 10-10CG?
    - How do caregivers, both primary and secondary, perceive the existing form content with regards to understanding eligibility and benefits, and where would additional clarification be helpful?
-   - Do users struggle with completing any fields in particular? We'll be especially paying attention to how users react to the new "Coujnty" field and social security number requirements.
+   - Do users struggle with completing any fields in particular? We'll be especially paying attention to how users react to the new "County" field and social security number requirements.
    - Is there a need or desire for applicants to have an authenticated experience that prefills personal information?
 
 3. Learn more about the overall experience of multiple people completing one form.
