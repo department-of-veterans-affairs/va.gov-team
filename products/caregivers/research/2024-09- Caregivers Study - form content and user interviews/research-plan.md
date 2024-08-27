@@ -93,8 +93,8 @@ Screener questions:
 - Recruit four assistive tech users - at least two AT sessions are needed for this study to be complete
 
 Screener questions:
-2. "Does your disability require you to need help or assistance from someone else to complete daily activities?" (Answer should be yes to qualify for cohort 2.)
-3. "Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?" (answer should be yes to qualify as an assistive tech user for cohort 2.)
+1. "Does your disability require you to need help or assistance from someone else to complete daily activities?" (Answer should be yes to qualify for cohort 2.)
+2. "Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?" (answer should be yes to qualify as an assistive tech user for cohort 2.)
 	a. If yes, ask the following question as well. This doesn't qualify or disqualify and is meant for researchers' awareness and to encourage people to join using the assistive technology they reported in the screener. "Please list the name of the screen reader technology you will use during the session." (Free text field for response)
 
 
