@@ -133,16 +133,7 @@ According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main l
 3) Claims agents in support of adjudication
 4) Researchers and epidemiologists looking to identify trends and mitigations
 
-Use case 1) is directly within scope of this work, to informs both placement on VA.gov and how we communicate the value of the download prior to offering the download. Use case 2) is relevant and can inform our findings in that Veterans may need the ILER report available either to educate VA staff and providers of the ILER report's relevance, or to use the ILER report to help design treatment planning.
-
-In support of the latter: according to the GAO report, "VBA requires claims benefits staff to use ILER in processing veterans’ disability claims.” We will address this below along with the research finding that though this is an important resource in disability claim filing and evaluation, many Veterans and Service Members (as well as staff) aren't familiar with either the report or its use; and some who are aware of it, do not trust the information contained in it.
-
-
-"veterans will most often use ILER to certify their participation in a TERA or hazards to qualify for healthcare  benefits or compensation benefits under pact" -- from Mural
-(toxic exposure risk activity )
-
-"VEO isn't sure how veterans learned about the PDF access to ILER, their initial research veterans had no clue what it was"
-
+Use case 1) is directly within scope of this work, to informs both placement on VA.gov and how we communicate the value of the download prior to offering the download. Use case 2) is relevant and can inform our findings in that Veterans may need the ILER report available either to educate VA staff and providers of the ILER report's relevance, or to use the ILER report to help design treatment planning. In support of the latter: according to the GAO report, "VBA requires claims benefits staff to use ILER in processing veterans’ disability claims.” 
 
 MENTAL MODELS: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md
 
