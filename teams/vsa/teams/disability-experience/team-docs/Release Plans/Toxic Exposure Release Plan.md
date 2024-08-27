@@ -169,11 +169,22 @@ Due to the need to test against the production lightouse /submit endpoint, we'll
 
 #### Results
 - Number of users: 6
-- Number of bugs identified / fixed: 
-- Was any downstream service affected by the change?: 
+- Number of bugs identified / fixed: 61
+    - Identified a need for 2 new test cases (review & submit and BDD)
+    - Not a bug, but we identified a need for a flag to block generating new ITFs and preventing EP400 workloads
+- Was any downstream service affected by the change?: no
 - Types of errors logged:
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Backend:
+ - When Validating against the dataset we used for Moderated Production Testing, we logged 61 (2.3% error rate) validation errors in of four categories when calling LH /validate.
+    - Treatments/treated disabiliity names
+    - Separation location
+   -* Mailing address
+    - Direct deposit
+- Frontend:
+  - Missing validations such as service period start and end dates (know
+
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: no
+- Nothing launch blocking, although missing FE validations might be something we have to consider
 
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
