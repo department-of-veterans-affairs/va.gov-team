@@ -2,6 +2,20 @@
 
 This file serves as a high level meeting log and demo inventory for the VA Health and Benefit mobile core team.
 ***
+## August 27, 2024: Sprint 104 [Mobile Sprint Demo - Sprint 104.pdf](https://github.com/user-attachments/files/16768507/Mobile.Sprint.Demo.-.Sprint.104.pdf)
+
+Recording: https://adhocteam-us.zoom.us/rec/share/GxlcCK7Er-27FyXKWOLTRU3C6LV73DOcxK2gzJHOs_cS9SRHDRQUKMeU8HfBK6-w.CVF5YjuAqoqxcOos?startTime=1724785153000
+Passcode: Sb^c!u6t
+
+| Team | Topic | 
+|---|---|
+| Flagship: Health & Benefits | Claims Evidence upload update |
+| Flagship: Global | In-app feedback prototype |
+| Platform: QA & Release | MCAG |
+| Platform: API | Travel Pay API updates |
+| Platform: Design System | ran out of time |
+
+***
 
 ## August 13, 2024: Sprint 103 [VA Mobile Sprint Demo - Sprint 103.pdf](https://github.com/user-attachments/files/16605405/VA.Mobile.Sprint.Demo.-.Sprint.103.pdf)
 
