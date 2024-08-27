@@ -81,10 +81,12 @@ Cohort 2: Same numbers as Cohort 1
 **Cohort 1: Caregivers**
 - Must identify role as "caregiver"
 - We'd mainly like to recruit newer caregivers (enrolled in the past year or so) so we'd like Perigean to gather dates of caregiver enrollment and choose the newest caregivers they get responses from.
+- We'd like to have some pairs of caregiver + Veteran in the study, but it's not a requirement to qualify for the study.
 
 Screener questions:
 1. "Are you enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?" (Answer should be yes to qualify for cohort 1.)
 2. "Approximately when did you enroll in the VA caregiver program?" (Date picker with month and year) **Please choose the most recently appointed caregivers according to responses from this question.**
+3. Are you willing and able to join the session with the Veteran who you are a caregiver for? (yes/no response) **This isn't a requirement to qualify but a nice-to-have.**
 
 **Cohort 2: Veterans with high disability ratings who need some assistance from others**
 - Must identify role as Veteran
@@ -99,6 +101,7 @@ Screener questions:
 
 
 **Secondary criteria (nice-to-haves)**
+- Caregivers who can join the session with the Veteran they are a caregiver for
 - Diversity across age groups
 - Diversity across racial identities
 - Diversity across education levels
