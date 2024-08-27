@@ -76,9 +76,9 @@ The MHV team has created an api called the MHV account creation API which the VA
 2. MHV-54109 - this requirement states if the account has multiple active MHV accounts you will return an error to us stating they have multiple accounts. What are we to do with this user on va.gov? I was under the impression MHV was going to take care of this automatically as part of the account creation api process.
     1. What should va.gov do in this situation? **Call the help desk**
 3. MHV-60526 - Multiple Accounts found with same Traits: what should va.gov do in this situation?
-    1. **Waiting on api spec update**
+    1. Try back later to create MHV account. MHV Account Cannot be created / updated at the time of request. MHV adds these accounts to their Audit table to fix these accounts.
 4. MHV-57486 - Active MHV Account Found by Traits - MHV shall update the account found and return the response back to the caller: what should va.gov do in this situation?
-    1. **Waiting on api spec update**
+    1. MHV returns the User Profile Id to continue using the account. Va.gov can start using the account information as needed.
 5. What should va.gov do if SM account creation fails?
     1. **Nothing, show the user an error message. Some users do not qualify for SM.**
 6. How important is it that we process temporary ICNs, we do not currently support them on VA.gov
