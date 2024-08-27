@@ -12,6 +12,7 @@ The Contact us page ([va.gov/contact-us](va.gov/contact-us)) on VA.gov helps peo
 The `Content, Information Architecture, and Editor Experiences Crew` and `Veteran Support Crew` in VA's Office of the Chief Technology Officer (OCTO) support the Contact us page. 
 
 - Danielle Thierry, Crew lead (Content, Information Architecture, and Editor Experiences Crew), danielle.thierry@va.gov
+- Beth Potts, Content lead, beth.potts@va.gov
 - Chante Lantos-Swett, Crew lead (Veteran Support Crew), chante.lantosswett@va.gov
 - Becky Phung, Designer/Product Owner, becky.phung@va.gov
 
