@@ -67,7 +67,7 @@ We will split this study into two cohorts:
 	- We'll ask for approximate date of caregiver enrollment in the screener questions to narrow it down to the newest caregivers and to show the breakdown in reporting afterwards.
 - Cohort 2 (10-15 participants): Veterans with a disability rating of over 70% who need some assistance to complete daily activities and/or need someone to live with them for help. We will require at least two completed sessions with assistive tech users for cohort 2.
 
-Since we have restrictive criteria for this study and a limited pool of caregivers to recruit, we'll request that Perigean gather participants who meet the primary criteria first and then aim for maximum variability in all other recruiting factors within the group of applicants who qualify for the study.
+Since we have restrictive criteria for this study and a limited pool of caregivers and severely disabled Veterans to recruit, we'll request that Perigean gather participants who meet the primary criteria first and then aim for maximum variability in all other recruiting factors within the group of applicants who qualify for the study.
 
 ### Recruitment criteria
 Total participants: 20-30
