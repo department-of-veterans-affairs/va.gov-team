@@ -10,7 +10,7 @@
 
 
 ## Running reports in Discern Reporting Portal
-Discern Reporting Portal is a library of published standard reports in Millennium. 
+Discern Reporting Portal is a library of published standard reports in the Federal EHR. 
 * Select P0630 Discern Reporting Portal
 
    ![image](https://github.com/user-attachments/assets/45c0bc9a-a74d-4c87-8796-01ae3303470a)
