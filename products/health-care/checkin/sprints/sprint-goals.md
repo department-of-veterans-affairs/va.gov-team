@@ -118,7 +118,7 @@
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90550)
     - 🟥 [[Research] Identify other VFS Team examples that are using a similar pattern of displaying a list of tasks ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90910) 
 - **Add Translated Content**
-    - 🟩 [[FE] Add Spanish Translations ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90922)
+    - ✔️ 🟩 [[FE] Add Spanish Translations ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90922)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76037)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89592)
