@@ -6,6 +6,7 @@ _[DRAFT]_
 ### Referrals
 - What terms do Veterans use to describe the process of receiving authorization from VA to schedule an appointment with a community care provider? 
   - **Finding 1:** One third of participants, without moderator prompts, identified the process or document received when VA has approved care by a community care provider as a “referral,” while others used different terms such as consult, request, authorization, or were not sure what term to use.
+
 - Where do Veterans expect to find new referrals that are waiting to be self-scheduled?
   - **Finding 2:** Before concept testing, participants expected to find new referrals in Appointments on va.gov or within My HealtheVet, with more participants indicating they’d look in My HealtheVet.
 - Where do Veterans expect to find their past referrals?
@@ -16,6 +17,7 @@ _[DRAFT]_
 ### Self-scheduling user flow
 - How easy or difficult is it for Veterans to start the scheduling process from a text message and a task card component on the Appointments landing page?
   - **Finding 1:** The majority of participants were able to easily start the scheduling process from the Appointments list task card, while 2 participants selected the incorrect link.
+
 - Do Veterans find the referral expiration date helpful? 
   - **Finding 2:** The majority of participants noticed the expiration date of the referral and found the presence of this information helpful, but many found the expiration date used in the prototype (e.g., 310 days) and wording to be confusing or misleading.
 - How easy or difficult is it for Veterans to schedule their community care appointments using the prototype?
@@ -31,4 +33,5 @@ _[DRAFT]_
  
 ### Expectations for VA staff follow up
 - Would Veterans expect VA to contact them if they hadn't self-scheduled their referral in a certain amount of time? If so, in how many days? 
-  - **Finding 1:** The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time. 
+
+   - **Finding 1:** The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time. 
