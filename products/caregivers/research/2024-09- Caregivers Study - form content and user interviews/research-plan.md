@@ -58,8 +58,6 @@ We will conduct remote moderated usability studies via Zoom using the current pr
 	
 ## Recruitment	
 
-[Link to recruitment request ticket](Link will go here)
-
 ### Recruitment approach
 Our intended audience for this study is recently appointed caregivers and Veterans with high disability ratings who need some assistance from others for daily activities (and therefore may have a caregiver appointed or are eligible to have one).
 
@@ -79,16 +77,25 @@ Cohort 1: 10-15 participants (minimum of 10, maximum of 15 if Perigean is able t
 Cohort 2: Same numbers as Cohort 1
 
 **Primary criteria (must-haves)**
-To meet criteria for cohort 1, participants must be enrolled in the Program of Comprehensive Assistance for Family Caregivers (PCAFC). 
 
-To meet crteria for cohort 2, participants must have a disability rating of 70% or higher AND require some assistance from others to complete daily tasks.
+**Cohort 1: Caregivers**
+- Must identify role as "caregiver"
+- We'd mainly like to recruit newer caregivers (enrolled in the past year or so) so we'd likePerigean to gather dates of caregiver enrollment and choose the newest caregivers they get responses from.
 
 Screener questions:
 1. "Are you enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?" (Answer should be yes to qualify for cohort 1.)
+2. "Approximately when did you enroll in the VA caregiver program?" (Date picker with month and year) **Please choose the most recently appointed caregivers according to responses from this question.**
+
+**Cohort 2: Veterans with high disability ratings who need some assistance from others**
+- Must identify role as Veteran
+- Must have a disability rating of 70% or higher
+- Must require some assistance from other to complete daily activities
+- Recruit four assistive tech users - at least two AT sessions are needed for this study to be complete
+
+Screener questions:
 2. "Do you need help or assistance from someone else to complete daily activities?" (Answer should be yes to qualify for cohort 2.)
 3. "Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?" (answer should be yes to qualify as an assitive tech user for cohort 2.)
 	a. If yes, ask the following question as well. This doesn't qualify or disqualify and is meant for researchers' awareness and to encourage people to join using the assistive technology they reported in the screener. "Please list the name of the screen reader technology you will use during the session." (Free text field for response)
-
 
 
 **Secondary criteria (nice-to-haves)**
