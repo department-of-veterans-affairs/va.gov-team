@@ -174,7 +174,14 @@ However, as summarized in past Profile research (https://github.com/department-o
 
 ### Veterans may not know the ILER report exists.
 
-Though some Veterans may know about MOS, they may not know about ILER, as evidenced in popular Reddit posts such as here (https://www.reddit.com/r/VeteransBenefits/comments/16jyzly/claim_appointment_i_had_today_shook_me_with_the/), here (https://www.reddit.com/r/VeteransBenefits/comments/16jyzly/claim_appointment_i_had_today_shook_me_with_the/), and here (https://www.reddit.com/r/VeteransBenefits/comments/18uzilj/iler_report/).
+Though some Veterans may know about MOS, they may not know about ILER, as evidenced in popular Reddit posts:
+
+> "This guy had access to files I had never seen before. It shocked me what he was able to find and print up for me."
+(https://www.reddit.com/r/VeteransBenefits/comments/16jyzly/claim_appointment_i_had_today_shook_me_with_the/)
+
+>"I’m just finding out about it so it kinda blew my mind (https://www.reddit.com/r/VeteransBenefits/comments/16jyzly/claim_appointment_i_had_today_shook_me_with_the/)
+
+> "No one in the VA that I have been reaching out to or directed to knows how to get this document for me."(https://www.reddit.com/r/VeteransBenefits/comments/18uzilj/iler_report/).
 
 In addition, in stakeholder workshops, members of the VEO stated they aren’t sure how veterans learned about ILER access.
 
@@ -182,7 +189,7 @@ In addition, in stakeholder workshops, members of the VEO stated they aren’t s
 
 Another issue voiced in online forums such as the above is difficulty in locating access to an ILER report, even after contacting VA staff.
 
-“If no one knows how to get a copy of someone's ILER, I will keep trying and will update this thread if I ever figure out how. Thank you for your time and help.” (https://www.reddit.com/r/VeteransBenefits/comments/14u8qt9/question_how_does_someone_get_a_copy_of_their/)
+ > “If no one knows how to get a copy of someone's ILER, I will keep trying and will update this thread if I ever figure out how. Thank you for your time and help.” (https://www.reddit.com/r/VeteransBenefits/comments/14u8qt9/question_how_does_someone_get_a_copy_of_their/)
 
 Some found access through working with VSOs.
 
@@ -197,7 +204,7 @@ In the previous EMI research, high in the key findings (https://github.com/depar
 
 Reddit posts on ILER reports are few, but we can see comments on the topic:
 
-“I was able to get my VFW VSO to get it for me. I'm glad I did because it is incorrect. It has my Deployment dates wrong and shows my trips after service when I was a contractor. Additionally, it says I have served in the ARMY, Air Force, and am now in the Navy.” (https://www.reddit.com/r/VeteransBenefits/comments/14u8qt9/comment/kgn6qro/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+> “I was able to get my VFW VSO to get it for me. I'm glad I did because it is incorrect. It has my Deployment dates wrong and shows my trips after service when I was a contractor. Additionally, it says I have served in the ARMY, Air Force, and am now in the Navy.” (https://www.reddit.com/r/VeteransBenefits/comments/14u8qt9/comment/kgn6qro/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ### The mental models many Veterans have for the data in the ILER report does not match how it is organized, making it more difficult for the Veteran to achieve any of their goals or note which data are faulty.
 
