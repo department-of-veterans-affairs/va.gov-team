@@ -69,8 +69,8 @@ For this usability study, we used the moderated usability testing method. This a
 
 This test included 2 versions of the appointments list:
 
-• Mobile
-• Desktop
+• Mobile (4 Participants)
+• Desktop (9 Participants)
 
 **Location:** Zoom
 
