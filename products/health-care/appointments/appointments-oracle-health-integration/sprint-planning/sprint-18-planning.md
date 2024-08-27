@@ -6,8 +6,6 @@ Sprint 18: 8/27/24 - 9/9/24
 * Brittany PTO 9/5 & 9/6
 
 ## 📣 Announcements
-* Cerner-Location-Service was deployed to prod 7/18/24
-* stop-codes-service was deployed to prod 8/8/24
 
 ## 🏆 Overarching Goals
 * 🔴 Appointment Cancellation
@@ -39,22 +37,22 @@ In Sprint 17, the team provided support for multiple features and initiatives, o
 ## 🏆 Sprint Goals and Stories
  rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-   * #91635 VetsAPI: Research options for toggling vaos backend url
-   * #91655 CES-916: Migrate EHR determination out of PreEnrichment step 
+   * [#91635 VetsAPI: Research options for toggling vaos backend url](https://docs.google.com/spreadsheets/d/1N7jyeqE2yQYMHradtHkfMh2TfcgbUJezSI52D0Ig71U/edit?usp=sharing)
+   * [#91655 CES-916: Migrate EHR determination out of PreEnrichment step](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91655) 
 * 🔵 Direct Scheduling
   * 🚧[#90599 CES-559 VPG: Enforce CTPS policy relationships restrictions during self-scheduling](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90599)
   * 🚧 [#90606 VetsAPI: Add relationships endpoint](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/90606)
-  * #91626 CES-504 VPG: address timing issues with integration tests
-  * #91621 CES-869 VPG: add upstream error reporting for relationship searches
-  * #91620 CES-870 VPG: modify relationships cache to use spring for TTL and eviction
+  * [#91626 CES-504 VPG: address timing issues with integration tests](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91626)
+  * [#91621 CES-869 VPG: add upstream error reporting for relationship searches](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91621)
+  * [#91620 CES-870 VPG: modify relationships cache to use spring for TTL and eviction](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91620)
 * 🟦 Support Oracle Health slot search
   * 🚧 [#91355 CES-841 CES 841: Support Slot search parameters specific to EHR](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91355)
 * 🔴 Appointment Cancellation
-  * #91624 CES-851 VPG: remove unused patch orchestration code
+  * [#91624 CES-851 VPG: remove unused patch orchestration code](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91624) 
 * 🟢 Appointment Requests
-  * #91622 CES-854 VPG: add Appointment Source filter to VAOS appointment search
+  * [#91622 CES-854 VPG: add Appointment Source filter to VAOS appointment search](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91622)
 * 🟣 Testing/Admin/Operational Support
-  * #91623 CES-852 VPG: update SRVDD With latest endpoint definitions  
+  * [#91623 CES-852 VPG: update SRVDD With latest endpoint definitions](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91623)  
  
    
 ## ✈️ Planned Releases
