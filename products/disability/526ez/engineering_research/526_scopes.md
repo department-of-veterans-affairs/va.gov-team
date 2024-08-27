@@ -114,6 +114,8 @@ NOTE: `paranoid_success` and `success_by_age` are two sides of the same coin. It
 
 Anything and everything that is not `success_type` or `incomplete_type`. This is our most important scope, the others all serve this one in some way. This is the query that tells us at a glance exactly how many failed submissions are hanging out in our system requiring human intervention to reach a state of completeness.
 
+NOTE: in spirit we are just saying `where not success_type or incomplete_type`, however this was causing postgres timeouts. the current implementation filters each subcondition 1 by 1
+
 ### with_exhausted_primary_jobs
 All of the following must be true
 - has no `submitted_claim_id`
