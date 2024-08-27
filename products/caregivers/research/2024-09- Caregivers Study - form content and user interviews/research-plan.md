@@ -92,7 +92,7 @@ Screener questions:
 **Cohort 2: Veterans with high disability ratings who need some assistance from others**
 - Must identify role as Veteran
 - Must have a disability rating of 70% or higher
-- Must require some assistance from other to complete daily activities
+- Must require some assistance from others to complete daily activities
 - Recruit four assistive tech users - at least two AT sessions are needed for this study to be complete
 
 Screener questions:
