@@ -46,8 +46,9 @@ Based on our findings, we will suggest content updates and work with CAIA to imp
 - Based on what we know about the caregiver journey, we assume that all applicants have multiple other VA touch points and forms completed which gives them a general understanding of the caregiver program and benefits before completing the 10-10CG.
 
 ## Methodology	
-We will conduct remote moderated usability studies via Zoom using the current production form once facility updates are ready on the 10-10CG.
-**Need to confirm with team if CG facility updates will be ready soon so we can test usability in this study. Backup plan would be to use a prototype for facility updates and get feedback on content but this wouldn't allow us to test with AT users or test usability of facility search.**
+We will conduct remote moderated usability studies via Zoom using staging once facility updates are ready on the 10-10CG.
+
+We will have a backup Figma prototype ready in case anything goes wrong with staging.
 
 
 ### Research materials
