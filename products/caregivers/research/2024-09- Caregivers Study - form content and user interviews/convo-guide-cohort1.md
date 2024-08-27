@@ -30,7 +30,7 @@ Slack for real-time feedback from observers.
 Thanks for joining us today! My name is [Jessica/Angela] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about application for the **Program of Comprehensive Assistance for Family Caregivers**.
+Today we're going to talk about the application for the **Program of Comprehensive Assistance for Family Caregivers**.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -77,15 +77,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Thank you for sharing that background. Now let's change gears a bit.
 - I'm going to share a link to our staging site with you and have you share your screen look over the introduction page.
   
-- Link to Staging site
-- [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
+- Link to [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
 
 - Review this page and tell me about your intial thoughts and expectations of this information before applying.
 
 **Participant ratings:**
 On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
 
-### Things to watch for:=
+### Things to watch for:
 - [Does the participant easily locate the apply link?]
 - [Does the participant seem to indicate that any of the content is unclear or needs more clarification?]
 - [Does the participant indicate they would need to pause to gather information or would need to coordinate with others to complete the application together?]
@@ -95,14 +94,20 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 
 ## Second Task: [Veteran inforamtion] - 5 minutes
-
 - Now start the application as if you were applying.
 - This is our staging site don't worry about information going anywhere and also please remember to talk alout about what you are thinking.
 - Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share.
-- {if they pause on the county field, ask additional questions} I see you are pausing on this, can you tell me more about (xyz...)
+- [If they pause on the county field, ask additional questions: I see you are pausing on this, can you tell me more about (xyz...)]
+
 
 ### DECISION - TO CHAT AS TEAM
 - If we want to have them reach the confirmation page, we need to provide them specific fake Veteran info no this page
+- [User #36 can be used for testing in all environments]
+- [first name: WESLEY]
+- [last name: FORD]
+- [Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) or [Test User Dashboard (TUD)](https://tud.vfs.va.gov/) for additional Password, SSN, DOB information]
+
+
 
 
 ### Things to watch for:
@@ -156,11 +161,13 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 ## Caregiver Interview Questions - 10 minutes
 
 - When completing this application for real, can you tell me how would you coordinate getting this information from everyone involved?
-- Would you complete this application together?
-
+- Would you sit down and complete this application together?
 - Or would you prefer to have help completing this application from an accredited representative or someone else from the VA?
-- What research would you have done before submitting this application?
-- Would you like additional information about who qualifies for the 2 caregiver roles when completing the application? 
+- Thinking of an ideal scenario, can you describe for me what would work best for you if you had to complete an application with multiple people
+
+
+- What research would you have done before applying?
+- Would you like additional information about who qualifies for the 2 caregiver roles when completing the application? Or is that just redundent at the point of applying and not useful?
 
 
 
@@ -176,6 +183,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 ### Things to watch for:
 
 - [Does the participant interact with the additional information component about document types?]
+- [Does the participant mention the VA forms listed? Postive/negative/confused reaction?]
 - [Does the particpant seem confused or express that anything on this page is unclear?]
 - [Does the participant proceed to the upload page or initially answer the Veteran would sign?]
 
