@@ -125,11 +125,11 @@ Thanks! Now I’m able to see your screen too.
 #### Estimated timing: 10-15 min
 > [If the participant has NOT yet done the Yellow task, read this]
 
-So for this task, we’re going to have you imagine that you had previously noticed your address was incorrect in your health benefits information. You have come to VA.gov but have not yet logged into your account. You have come to the 10-10EZR form to provide your updated address. We’d like you to walk us through what you would do to change your address, and we will ask you to pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. There is no rush, so take as much time as you would if you were actually doing this for yourself. Any questions before we begin? 
+So for this task, we’re going to have you imagine that you need to update your dependent information in your health benefits, and while there you will notice that your address is also incorrect. But you'll start at the beginning of the task, where you have come to VA.gov but have not yet logged into your account. You have come to the 10-10EZR form to provide your updated dependent information, but first you notice your incorrect address. We’d like you to walk us through what you would do to change your address, and we will ask you to pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. There is no rush, so take as much time as you would if you were actually doing this for yourself. Any questions before we begin? 
 
 > [If the participant has already done the Yellow task, read this]
 
-So for this next task, we’re going to have you imagine that you had previously noticed your address was incorrect in your health benefits information. You have come to VA.gov but have not yet logged into your account. You have come to the 10-10EZR form to provide your updated address. Similar to our other task, we’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. Any questions before we begin?
+So for this task, we’re going to have you imagine that you need to update your dependent information in your health benefits, and while there you will notice that your address is also incorrect. But you'll start at the beginning of the task, where you have come to VA.gov but have not yet logged into your account. You have come to the 10-10EZR form to provide your updated dependent information, but first you notice your incorrect address. Similar to our other task, we’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. Any questions before we begin?
 
 Great. I'll give you the address information when it is time to make the edit.
 
@@ -302,7 +302,7 @@ Awesome. Please click the "home" tab at the top of the page.
 
 > [If the participant has NOT yet done the Green task, read this]
 
-So for this task, we’re going to have you imagine that you previously noticed your address was incorrect for your health benefits information. You are on VA.gov and already logged into your account. You have come to the 10-10EZR form to provide your updated address. We’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. There is no rush, so take as much time as you would if you were actually doing this for yourself. Any questions before we begin? 
+So for this task, we’re going to have you imagine that you need to update your dependent information in your health benefits, and while there you will notice that your address is also incorrect. At the start of this task, you are on VA.gov and already logged into your account. You have come to the 10-10EZR form to provide your updated dependent information, but first you notice your incorrect address. We’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. There is no rush, so take as much time as you would if you were actually doing this for yourself. Any questions before we begin? 
 
 >[Pause for questions]
 
@@ -310,7 +310,7 @@ Great. When it comes time to enter the address I'll give it to you.
 
 > [If the participant has already done the Green task, read this]
 
-So for this task, we’re going to have you imagine that you had previously noticed your address was incorrect in your health benefits information. You have come to VA.gov, logged into your account and navigated to the 10-10EZR form to provide your updated address. Similar to our other task, we’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. Any questions before we begin?
+So for this task, we’re going to have you imagine that you need to update your dependent information in your health benefits, and while there you will notice that your address is also incorrect. At the start of this task, you are on VA.gov and already logged into your account. You have come to the 10-10EZR form to provide your updated dependent information, but first you notice your incorrect address.  Similar to our other task, we’d like you to walk us through what you would do to change your address, and we will have you pause before continuing onto each subsequent page so that we can ask you a few questions before you continue. Any questions before we begin?
 
 >[Pause for questions]
 
