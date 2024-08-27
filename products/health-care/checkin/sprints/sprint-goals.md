@@ -90,8 +90,8 @@
     - **Sprint Goal is to address the feedback from Staging Review & release the feature**
     - ✔️ 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)
         - Ben added a link to the new Figma wireframe in a comment on this ticket    
-    - 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475) - Releasing on 8/27
-        - 🟪 Let Kristen know a few days in advance of the release so that she can inform the appropriate teams
+    - ✔️ 🟩🟥🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475) - Releasing on 8/27
+        - ✔️ 🟪 Let Kristen know a few days in advance of the release so that she can inform the appropriate teams
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish all work and schedule Staging & ISR Reviews**
     - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
@@ -103,9 +103,9 @@
             - ⛔🟥 (Points accounted for in 89598) [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to prepare for the Staging Review**
-    - 🟪 Staging Review scheduled for 8/29
-    - 🟩 FE needs to add links for E2E testing and code coverage to the collab cycle ticket
-    - 🟩 FE needs to generate a bank of URLs for each of these dates and post them in the collab cycle ticket (8/23, 8/26, 8/27, 8/28)
+    - ✔️ 🟪 Staging Review scheduled for 8/29
+    - ✔️ 🟩 FE needs to add links for E2E testing and code coverage to the collab cycle ticket
+    - ✔️ 🟩 FE needs to generate a bank of URLs for each of these dates and post them in the collab cycle ticket (8/23, 8/26, 8/27, 8/28)
     - 🟩 Push to production for internal pilot
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address Design Intent feedback, determine how we want to implement this, and create tickets to move it forward**
@@ -122,7 +122,7 @@
     - 🟩 [Bug: Link Text on Upcoming Appts Page is Incorrect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91083)
     - 🟩 [Staging Review finding: How to check in link opens in a new tab without notice ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90774)
     - 🟩 [[FE] - Follow up for stale session redirect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90081)
-    - 🟩 [[FE] Add mocks and tests for no upcoming appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91028)
+    - ✔️ 🟩 [[FE] Add mocks and tests for no upcoming appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91028)
 
 ## SPRINT 13 - 8/7/2024-8/20/2024
 - **Production Support**
