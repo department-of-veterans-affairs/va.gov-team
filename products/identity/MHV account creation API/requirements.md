@@ -114,3 +114,6 @@ The MHV team has created an api called the MHV account creation API which the VA
 
 1. Vets-api will not process temporary ICNs but not for the purposes of calling the MHV account creation API. VA.gov will display an error to the user informing them of an attribute error that must be resolved by the help desk. The error message should be new so that we know how to tell the help desk what kind of error it is. The help desk should refer the users information to the IAM team to resolve the issue.
 2. Vets-api will only call the account creation api if the user has an assigned facility id from the MPI response. Carnetta and Joe confirmed this via Teams on 8/21/24.
+
+## Documentation from MHV
+The pdf files for the api specs and use cases have been stored on the private github folder [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/Product%20Documentation/MHV%20account%20creation%20api%20on%20vagov).
