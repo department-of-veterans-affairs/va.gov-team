@@ -5,7 +5,7 @@ _[DRAFT]_
 
 ### Referrals
 - What terms do Veterans use to describe the process of receiving authorization from VA to schedule an appointment with a community care provider? 
-  - **[Finding # 1](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-#1)):** One third of participants, without moderator prompts, identified the process or document received when VA has approved care by a community care provider as a “referral,” while others used different terms such as consult, request, authorization, or were not sure what term to use.
+  - **[Finding # 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-#1#finding-#1)):** One third of participants, without moderator prompts, identified the process or document received when VA has approved care by a community care provider as a “referral,” while others used different terms such as consult, request, authorization, or were not sure what term to use.
 
 - Where do Veterans expect to find new referrals that are waiting to be self-scheduled?
   - **[Finding # 2](link):** Before concept testing, participants expected to find new referrals in Appointments on va.gov or within My HealtheVet, with more participants indicating they’d look in My HealtheVet.
