@@ -77,37 +77,44 @@ Cohort 1: 10-15 participants (minimum of 10, maximum of 15 if Perigean is able t
 Cohort 2: Same numbers as Cohort 1
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+To meet criteria for cohort 1, participants must be enrolled in the Program of Comprehensive Assistance for Family Caregivers (PCAFC). 
+To meet crteria for cohort 2, participants must have a disability rating of 70% or higher AND require some assistance from others to complete daily tasks.
 
 Screener questions:
-Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+1. "Are you enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?" (Answer should be yes to qualify for cohort 1.)
+2. "Do you need help or assistance from someone else to complete daily activities?" (Answer should be yes to qualify for cohort 2.)
+3. "Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?" (answer should be yes to qualify as an assitive tech user for cohort 2.)
+	a. If yes, ask the following question as well. This doesn't qualify or disqualify and is meant for researchers' awareness and to encourage people to join using the assistive technology they reported in the screener. "Please list the name of the screen reader technology you will use during the session." (Free text field for response)
+
 
 
 **Secondary criteria (nice-to-haves)**
 
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+TBD
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+We would like to request a kick-off call with Perigean before recruiting starts. Here are some days and times we're available for the kick-off call:
 
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Day/time (TBD)
+* Day/time (TBD)
+
+Pilot session:
+
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: TBD
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 1 hour (1.5 hours for assistive tech users)
+* Buffer time between sessions: 30 minutes
+* Maximum Sessions per day: 3
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+Will provide session days for double the amount of days we'll need to complete the study. (TBD)
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
