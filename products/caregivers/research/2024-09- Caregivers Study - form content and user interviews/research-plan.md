@@ -80,7 +80,7 @@ Cohort 2: Same numbers as Cohort 1
 
 **Cohort 1: Caregivers**
 - Must identify role as "caregiver"
-- We'd mainly like to recruit newer caregivers (enrolled in the past year or so) so we'd likePerigean to gather dates of caregiver enrollment and choose the newest caregivers they get responses from.
+- We'd mainly like to recruit newer caregivers (enrolled in the past year or so) so we'd like Perigean to gather dates of caregiver enrollment and choose the newest caregivers they get responses from.
 
 Screener questions:
 1. "Are you enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?" (Answer should be yes to qualify for cohort 1.)
@@ -93,8 +93,8 @@ Screener questions:
 - Recruit four assistive tech users - at least two AT sessions are needed for this study to be complete
 
 Screener questions:
-2. "Do you need help or assistance from someone else to complete daily activities?" (Answer should be yes to qualify for cohort 2.)
-3. "Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?" (answer should be yes to qualify as an assitive tech user for cohort 2.)
+2. "Does your disability require you to need help or assistance from someone else to complete daily activities?" (Answer should be yes to qualify for cohort 2.)
+3. "Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?" (answer should be yes to qualify as an assistive tech user for cohort 2.)
 	a. If yes, ask the following question as well. This doesn't qualify or disqualify and is meant for researchers' awareness and to encourage people to join using the assistive technology they reported in the screener. "Please list the name of the screen reader technology you will use during the session." (Free text field for response)
 
 
@@ -133,12 +133,11 @@ Will provide session days for double the amount of days we'll need to complete t
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Moderator: Angela Agosto (angela.agosto@adhocteam.us; 570-807-0619) and Jessica Stump (jessica.stump@adhocteam.us)
+- Research guide writing and task development (usually but not always same as moderator): Angela Agosto and Jessica Stump
+- Participant recruiting & screening: Perigean	
+- Project point of contact: Angela Agsto and Jessica Stump
+- Participant(s) for pilot test: TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	CAIA (TBD)
+- Note-takers: TBD
+- Observers: TBD
