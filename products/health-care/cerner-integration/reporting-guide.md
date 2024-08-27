@@ -6,12 +6,14 @@
 ## Access Federal EHR environment
 * Prod: P0630 https://ssoiaccess.valehr.cernerworks.ehr.gov/
 * Log in with PIV credentials
+
+
+
+## Running reports in Discern Reporting Portal
+Discern Reporting Portal is a library of published standard reports in Millennium. 
 * Select P0630 Discern Reporting Portal
 
    ![image](https://github.com/user-attachments/assets/45c0bc9a-a74d-4c87-8796-01ae3303470a)
-
-
-## Discern Reporting Portal is a library of published standard reports in Millennium. 
 * Select the desired report from list of All Reports to Run the report.
 * Personalize My Favorites tab by using the Favorite star under All Reports tab.
 * Recent Reports are listed on the left bar
