@@ -65,6 +65,7 @@ Also, please be aware again that none of your information will be shared if you 
     * Task 3: Have the participants interact with the upload pattern at least once for both insurance and claims information and describe their expectations for the types of documents they would upload in each scenario and how they would expect to obtain them.
         * What materials might you expect to include here if submitting a real claim for yourself? Please explain in as much detail as possible.
         * How do you believe this might impact your claim if you were to answer “Yes,” and “No.”
+        * Include probes around if they would upload additional claims information if they had it.
 * Step 3 (after 30-45 minutes or after the form is completed): Thank you for going through the prototype with us. Before we move on, we’d like to ask: 
     * What would you expect to happen next upon submitting the form successfully?
     * If you could tell the designer of this prototype to change three things, what would you have them change? (before they shut down the prototype)
