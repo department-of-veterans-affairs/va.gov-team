@@ -78,24 +78,27 @@ This test included 2 versions of the appointments list:
 
 **Hypothesis 1:** As a Veteran, I can choose my provider when scheduling at an OH facility.
 - Veterans will want to choose a specific provider for most types of care.
-  - TRUE: Several Veterans expressed they would prefer to see who they are familiar with, otherwise would like specific information about the providers to make an informed decision. (Furthermore, 5 Participants expressed a desire to know if they have seen a provider before, as they do not always remember names but recognize the importance of continuity in care.)
+  - TRUE: Several participants expressed they would prefer to see who they are familiar with, otherwise would like specific information about the providers to make an informed decision. (Furthermore, 5 participants expressed a desire to know if they have seen a provider before, as they do not always remember names but recognize the importance of continuity in care.)
 - Veterans' provider preferences change between primary care and specialty care.
-  - Mixed: This was very situation dependent. Veterans expressed the desire for a "no preference" option for speciality care or in an immediate health care need in order to see the first available. 
+  - Mixed: This was highly situation-dependent. Participants expressed an expectation for a "no preference" option, especially for specialty care (Nutrition and food) or in cases of needing care for an urgent matter, to prioritize seeing the first available provider.
 - Veterans' provider preferences change between established care and new care.
-  - TRUE: Veterans mentioned the desire for choosing a provider based on the following: (5 participants indicated a clear need for more detailed information about each provider, including credentials, specialties, and experience.)
+  - Likely TRUE: Participants mentioned the desire for choosing a provider based on the following: (5 participants indicated a clear need for more detailed information for choosing a provider, including date they last saw the provider, provider credentials, and experience.)
 - Veterans will want to choose a provider based on who has the soonest availability.
-  - TRUE: 3 participants prioritize booking the first available appointment over specific provider preferences.
+  - Likely TRUE: While not universally observed, 3 out of 10 participants prioritized booking the first available appointment over specific provider preferences. 
 
 **Hypothesis 2:** As a Veteran, I can easily schedule at locations I've recently attended.
 - Choosing from locations where they've recently scheduled an appointment will make it faster and easier to schedule.
     - INCONCLUSIVE: Without using the Veterans' real data, it is difficult to test this hypothesis. 
 - Veterans will appreciate and find value in the default "Sort by Recent Locations."
-  - FALSE: There was a stronger preference to see what is closest to them.  
+  - Likely FALSE: There was a stronger preference among Veterans for sorting by proximity, indicating that the "Sort by Recent Locations" option may not be as valuable to them without user data to confirm otherwise.
+
+
+ 
 
 **Hypothesis 3:** As a Veteran, I can quickly schedule from previous appointments.
 
 - Veterans will want a shortcut to schedule appointments similar to those they've had in the past.
-  - TRUE: Veterans appreciated how this feature streamlined the appointment making process and provided details on who they saw.
+  - TRUE: Participants appreciated how this feature streamlined the appointment making process and provided details on who they saw.
 - Veterans will have a distinct preference for scheduling using the past provider or clinic flow compared to the "type of care" route.
   - TRUE: When asked to schedule an appointment, they would first check to see if they could schedule from a past appointment listed. 
 - Scheduling appointments similar to those they've had in the past will help Veterans schedule more quickly.
@@ -113,9 +116,9 @@ This test included 2 versions of the appointments list:
 
 **Hypothesis 5:** As a Veteran, I want to be alerted when appointment events happen so I know exactly what I need to do next.
 - Veterans will be able to find their notifications without prompting.
-    - FALSE: Veterans needed heavy prompting
+    - FALSE: Participants needed heavy prompting
 - Veterans will understand how to review their notifications.
-    - TRUE: Veterans general response to the red bell was to click on it. 
+    - TRUE: Participants' general response to the red bell was to click on it. 
 - Veterans will find their notifications helpful.
   - TRUE: Some Veterans mentioned the reminders for the actionable items being helpful.
 
