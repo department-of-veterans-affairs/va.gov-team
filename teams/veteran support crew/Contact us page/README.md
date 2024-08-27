@@ -9,7 +9,7 @@ The Contact us page ([va.gov/contact-us](va.gov/contact-us)) on VA.gov helps peo
 - **Contact us page initial improvements**: We'll make improvements to Contact us based on: user research, a review of other support experiences on websites/mobile apps, and a review of current analytics and user feedback.
 
 ## Contact us 😉
-The Content, Information Architecture, and Editor Experiences Crew and Veteran Support Crew support the Contact us page. 
+The `Content, Information Architecture, and Editor Experiences Crew` and `Veteran Support Crew` in VA's Office of the Chief Technology Officer (OCTO) support the Contact us page. 
 
 - Danielle Thierry, Crew lead (Content, Information Architecture, and Editor Experiences Crew), danielle.thierry@va.gov
 - Chante Lantos-Swett, Crew lead (Veteran Support Crew), chante.lantosswett@va.gov
