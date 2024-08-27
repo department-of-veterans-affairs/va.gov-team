@@ -41,8 +41,8 @@ Success metrics will be updated in this document at the end of each rollout perc
 | TE Opt-in rate % | | | |  | | | | |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ)<br>[Datadog](https://vagov.ddog-gov.com/logs?query=env:%22eks-prod%22%20@http.referer:*21%5C-526ez%5C/toxic%5C-exposure*%20&agg_m=@payload.user_uuid&agg_m_source=base&agg_q=@http.referer&agg_q_source=base&agg_t=cardinality&analyticsOptions=%5B%22bars%22,%22dog_classic%22,null,null,%22value%22%5D&cols=host,service&fromUser=true&messageDisplay=inline&storage=hot&stream_sort=desc&top_n=10&top_o=top&viz=timeseries&x_missing=true&from_ts=1723791600000&to_ts=1723877940000&live=false)|
 | Submission errors | 0.62% | ≤ 0.62% | | | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
 |% of submissions that use normal path| 99.38% | 99.38%*  | | | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
-| % of uses of backup path | 3.46% | | | | | | | | Pending Backup Path monitoring |
-| % of uses of failsafe path | 0.01% | | | | | | | | Pending Backup Path monitoring |
+| % of uses of backup path | 0.94% | | | | | | | | Pending Backup Path monitoring |
+| % of uses of failsafe path | 0.001% | | | | | | | | Pending Backup Path monitoring |
 
 *Inferred from % of submission errors
 
