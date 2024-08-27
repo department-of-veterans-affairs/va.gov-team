@@ -22,18 +22,18 @@ Sprint 18: 8/27/24 - 9/9/24
 * 🟣 Testing/Admin/Operational Support
  
 ## 📋 Previous Sprint Summary:
-In Sprint 16, the team provided support for multiple features and initiatives, outlined as follows:  
+In Sprint 17, the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  * VetsAPI Patient Gateway (VPG) was updated to be able retrieve teh VistA clincis that a patient has an established relationship with.
-  * VetsAPI Patient Gateway addressed tech debt to removed identifier payload from converted FHIR appointments to not cause confusion on where the appointment is sourced from. 
-   * VetsAPI Patient Gateway was updated to be able to use the latest avilable filters for Oracle Health relationship data. 
-   * VPG added test cases to slot search capability to ensure service robustness.
-   * VPG removed sources array from the relationships endpoint. 
+  * Updated VetsAPI Patient Gateway (VPG) to retrieve VistA clinics with established patient relationships.
+  * Addressed technical debt by removing identifier payload from converted FHIR appointments to eliminate confusion regarding appointment sourcing.
+  * Enhanced VPG to utilize the latest available filters for Oracle Health relationship data.
+  * Added test cases to the slot search capability to ensure robustness of the service.
+  * Removed sources array from the relationships endpoint.
 
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities 
-   * Clinical Encounter Service added support for "_id" search parameter for search capabilities.
-   * VetsAPI Patient Gateway was updated to replace mockserver with wiremock now that mockserver is no longer supported. 
-   * Clincal Encounter Service was updated to prevent double read call to EHRs for appointment reads through using an in memory cache. 
+   * Added support for the "_id" search parameter in the Clinical Encounter Service to enhance search capabilities.
+   * Updated VetsAPI Patient Gateway to replace mockserver with WireMock, given the discontinuation of mockserver support.
+   * Modified Clinical Encounter Service to prevent redundant read calls to EHRs for appointment reads by implementing an in-memory cache.
 
  
 ## 🏆 Sprint Goals and Stories
