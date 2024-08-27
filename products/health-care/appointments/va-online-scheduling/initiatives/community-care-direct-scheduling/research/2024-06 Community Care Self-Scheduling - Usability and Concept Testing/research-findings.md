@@ -10,7 +10,7 @@ _[DRAFT]_
 - Where do Veterans expect to find new referrals that are waiting to be self-scheduled?
   - **[Finding # 2](link):** Before concept testing, participants expected to find new referrals in Appointments on va.gov or within My HealtheVet, with more participants indicating they’d look in My HealtheVet.
 - Where do Veterans expect to find their past referrals?
-  - **[Finding # 3(link):** Before concept testing, participants weren’t confident in where they expected to find past referrals, but mentioned both Appointments and Medical Records.
+  - **[Finding # 3](link):** Before concept testing, participants weren’t confident in where they expected to find past referrals, but mentioned both Appointments and Medical Records.
 - **Concept testing:** How do the concepts presented in the prototype address or not address Veterans’ expectations around referrals?
   - **[Finding # 4](link):** Slightly less than half of participants were able to find a link to navigate to review all of their referrals in the prototype, but the majority of participants were able to identify where to look for older referrals. 
 
