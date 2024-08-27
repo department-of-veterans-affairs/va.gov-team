@@ -82,7 +82,7 @@ This test included 2 versions of the appointments list:
 - Veterans' provider preferences change between primary care and specialty care.
   - Mixed: This was highly situation-dependent. Participants expressed an expectation for a "no preference" option, especially for specialty care (Nutrition and food) or in cases of needing care for an urgent matter, to prioritize seeing the first available provider.
 - Veterans' provider preferences change between established care and new care.
-  - Likely TRUE: Participants mentioned the desire for choosing a provider based on the following: (5 participants indicated a clear need for more detailed information for choosing a provider, including date they last saw the provider, provider credentials, and experience.)
+  - Inconclusive: While 5 participants mentioned detailed provider information is important for choosing a provider, we did not specifically test new versus established providers. Further research is needed to determine if preferences differ between established and new care.
 - Veterans will want to choose a provider based on who has the soonest availability.
   - Likely TRUE: While not universally observed, 3 out of 10 participants prioritized booking the first available appointment over specific provider preferences. 
 
