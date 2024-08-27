@@ -214,9 +214,17 @@ Reddit posts on ILER reports are few, but we can see comments on the topic:
 
 ## Recommendations
 
-TO COME
+### Use “ILER” in communications and UI.
 
+Why: Though “IES” is the technically correct (“the best kind of correct”) term for the report of an individual Veteran can download from the ILER system, we note that all sorts of public communications and public comments by Veterans demonstrate that the common term for the report is “ILER”. 
 
+### Realign with stakeholders
+
+Check back in with VEO and stakeholders if their requirements previously stated for MOS data is relevant here: “Recently, VEO asked the VA.gov Profile team to enhance the military history section of the profile in order to aid veterans applying for benefits (especially disability claims).” https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md#key-findings
+
+### Work with DST on pattern or component to highlight a new feature or capability within Profile products
+
+Why: As shown in the Key Findings, many Veterans (and VSOs) are not aware that the ILER exists, or what it is, or how to get it, or how it can help Veterans in critical wellness tasks. 
 
 
 # Sources
