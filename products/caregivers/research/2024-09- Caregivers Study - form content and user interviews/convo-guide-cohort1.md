@@ -59,30 +59,25 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
+- Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
    - If no: [Should be yes based on screener criteria but pivot to convo guide for cohort 2]
 
-2. How long ago was that when you applied?
-   
-3. Are you in the Primary or Secondary Caregiver role?
-
-4. Did you complete the application in person, at a facility or online?
-
-5. Do you mind telling us more about that experience?
-
-6. Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
-
-7. What would you say was the most challenging part of the application process that you wish you would have know upfront?
+- How long ago was that when you applied?
+- Are you in the Primary or Secondary Caregiver role?
+- Did you complete the application in person, at a facility or online?
+- Do you mind telling us more about that experience?
+- Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
+- What would you say was the most challenging part of the application process that you wish you would have know upfront?
    - [Re-word prompt] Thinking back, what would you change so the process is better for the next Caregiver/Veteran applying?
 
 
 
-## First Task: [Introduction page] - 2 minutes
+## First Task: [Introduction page] - 5 minutes
 
 - Thank you for sharing that background. Now let's change gears a bit.
 - I'm going to share a link to our staging site with you and have you share your screen look over the introduction page.
   
-- Link to Production / Staging site?
+- Link to Staging site
 - [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
 
 - Review this page and tell me about your intial thoughts and expectations of this information before applying.
@@ -99,11 +94,15 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 
 
-## Second Task: [Veteran inforamtion] - 2 minutes
+## Second Task: [Veteran inforamtion] - 5 minutes
 
 - Now start the application as if you were applying.
 - This is our staging site don't worry about information going anywhere and also please remember to talk alout about what you are thinking.
 - Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share.
+- {if they pause on the county field, ask additional questions} I see you are pausing on this, can you tell me more about xyz...
+
+### DECISION - TO CHAT AS TEAM
+- If we want to have them reach the confirmation page, we need to provide them specific fake Veteran info no this page
 
 
 ### Things to watch for:
@@ -111,7 +110,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - [Does the participant comment that any of these questions are not needed/too intrusive?]
 
 
-## Third Task: [Facilities Selection] - 2 minutes
+## Third Task: [Facilities Selection] - 5 minutes
 
 - Please explain your thoughts and think-aloud as you complete this question.
 - How would you prefer to search for facilities?
@@ -134,62 +133,68 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - Think aloud about your thought process.
 
 
-
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant understand the primary caregiver role for the application?]
+- [Does the participant call out any content or questions as confusing or unclear?]
 
 ## Fifth Task: [Secondary Caregiver] - 5 minutes
 
-- Step 1
-- Step 2
+- For this scenario, complete the questions as you would if you were applying as a secondary caregiver role too.
+- What does a secondary caregiver mean to you?
+- How do you think the secondary role differs in the application process and benefits from the primary caregiver?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant understand the secondary caregiver role for the application?]
+- [Does the participant mention that they would have two secondary cargeviers?]
+- [Does the participant call out any content or questions as confusing or unclear?]
+- [Does the participant mention needing to make changes to caregivers?]
 
 
-## Caregiver Interview Questions - X minutes
+## Caregiver Interview Questions - 10 minutes
 
 - When completing this application for real, can you tell me how would you coordinate getting this information from everyone involved?
 - Would you complete this application together?
 
-- Question 2
-- Any questions for me?
+- Or would you prefer to have help completing this application from an accredited representative or someone else from the VA?
+
 
 
 
 ## Task: [Sign as a Rep + Upload Doc] - 5 minutes
 
-- Step 1
-- Step 2
+- Can you explain what this page is asking and what it means to you?
+- How would you answer this question and what would you expect to happen next?
+- What document example would you upload?
+
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Does the participant interact with the additional information component about document types?]
+- [Does the particpant seem confused or express that anything on this page is unclear?]
+- [Does the participant proceed to the upload page or initially answer the Veteran would sign?]
 
 
 ## Task: [Review + Submit] - 5 minutes
 
-- Step 1
-- Step 2
+- Look over this page and tell me about your impressions or expectations?
+- If you see something you entered by mistake, can you show me how you would go about correcting that?
+- Complete this application.
 
 ### Things to watch for:
+- [Does the participant have a positive or negative sentiment about the review page?]
+- [Does the participant give any reason for pause or why they wouldn's submit the application?]
+- [Does the participant interact with any of the accordions or try and edit any information?]
+- [Does the participant mention or pause at how the facility selection is represented on this page?
+- [How does the participant interact or talk about the various signature fields?]
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
 
 
 
-
-## Post-Task Interview - X minutes
+## Confrimation Page + Post-Task Interview - 5 minutes
 
 - Question 1
 - Question 2
@@ -212,5 +217,4 @@ Thank you so much again, and enjoy the rest of your day!
 ##
 
 ## Emergency Exit
-
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
