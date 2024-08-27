@@ -25,6 +25,7 @@ Based on our findings, we will suggest content updates and work with CAIA to imp
 1. Learn more about caregiver clarification content needs within the form (vs before/outside of).
    - What knowledge of the caregiver program do Veterans and caregivers typically have before filling out the 10-10CG?
    - How do caregivers, both primary and secondary, perceive the existing form content with regards to understanding eligibility and benefits, and where would additional clarification be helpful?
+   - Do users struggle with completing any fields in particular? We'll be especially paying attention to how users react to the new "Coujnty" field and social security number requirements.
    - Is there a need or desire for applicants to have an authenticated experience that prefills personal information?
 
 3. Learn more about the overall experience of multiple people completing one form.
@@ -46,15 +47,7 @@ Based on our findings, we will suggest content updates and work with CAIA to imp
 
 ## Methodology	
 We will conduct remote moderated usability studies via Zoom using the current production form once facility updates are ready on the 10-10CG.
-
-We will split this study into two cohorts:
-
-- Cohort 1: Caregivers currently enrolled in the caregiver program, with or without their Veteran pair
-	- Ask when they enrolled to show the breakdown in reporting but don't limit to new caregivers
- 	- Ask for some recently appointed caregivers
-- Cohort 2: Veterans with a disability rating of over 70% who need some assistance to complete daily activities and/or need someone to live with them for help
-- Need to get assistive tech users for both
-- 10-15 people each cohort
+**Need to confirm with team if CG facility updates will be ready soon so we can test usability in this study. Backup plan would be to use a prototype for facility updates and get feedback on content but this wouldn't allow us to test with AT users or test usability of facility search.**
 
 
 ### Research materials
@@ -62,31 +55,36 @@ We will split this study into two cohorts:
 - [Link to conversation guide for Cohort 2](Link will go here)
 - [Link to 10-10CG form in production](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction)
 
-Kickoff meeting
 	
 ## Recruitment	
 
 [Link to recruitment request ticket](Link will go here)
 
 ### Recruitment approach
-Our intended audience for this study is recently appointed caregivers, Veterans who have caregivers appointed, and 
+Our intended audience for this study is recently appointed caregivers and Veterans with high disability ratings who need some assistance from others for daily activities (and therefore may have a caregiver appointed or are eligible to have one).
 
+We will split this study into two cohorts:
 
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+- Cohort 1 (10-15 participants): Caregivers recently enrolled in the caregiver program (as recent as possible), with or without their Veteran pair
+	- We'll ask for approximate date of caregiver enrollment in the screener questions to narrow it down to the newest caregivers and to show the breakdown in reporting afterwards.
+- Cohort 2 (10-15 participants): Veterans with a disability rating of over 70% who need some assistance to complete daily activities and/or need someone to live with them for help. We will require at least two completed sessions with assistive tech users for cohort 2.
+
+Since we have restrictive criteria for this study and a limited pool of caregivers to recruit, we'll request that Perigean gather participants who meet the primary criteria first and then aim for maximum variability in all other recruiting factors within the group of applicants who qualify for the study.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+Total participants: 20-30
+Cohort 1: 10-15 participants (minimum of 10, maximum of 15 if Perigean is able to recruit that many particiants meeting our criteria)
+Cohort 2: Same numbers as Cohort 1
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+Screener questions:
+Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
