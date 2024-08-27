@@ -22,3 +22,5 @@
 | POA (Power of Attorney)        |                                                              |                                                              |
 | ROI (Release of Information)   |                                                              |                                                              |
 | School Certificate             |                                                              | ssn_or_tin<br>veteranlastname<br>veteranmiddlename<br>veteranfirstname<br>filenumber<br>uuid<br>doctype<br>country<br>businessline<br>attachment_ids<br>zipcode<br>source |
+| CHAMPVA Claim  | 10-7959a                                                             |                                                              |
+| FMP Claim  | 10-7959f-2                                                             |                                                              |
