@@ -3,7 +3,7 @@
 ## Background
 It's been a few years since a comprehensive research study has been done on the Application for Comprehensive Assistance for Family Caregivers Program (10-10CG). Since then, we've made changes to the form including [updates to facility selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/Improve%20Facility%20Selection%20-%20Initiative%20Brief.md) and [content to match paper form updates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/Form%20updates%20(Feb%202024)), but haven't been able to test those updates with users. We'd like to conduct a study to determine if the 10-10CG is providing helpful and relevant content to the caregivers in the most applicable location - before or during the online application, and if the recent changes have improved usability and clarity of content.
 
-[Link to product brief](url goes here).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 
 ### OCTO Priorities 
 
