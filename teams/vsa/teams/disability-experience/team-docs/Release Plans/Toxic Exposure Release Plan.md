@@ -143,9 +143,9 @@ To understand the feasibility of proceeding to the next phase of the staged roll
 
 ### Questions/needs and Answers
 - Better understand how error responses differ between Lighthouse and VBMS (will be captured in this [ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90125) for retryable and non-retryable errors)
-- For a submission workload, determine with more specificity how to segment out which service(s) are failing (skip for now)
+- For a submission workload, determine with more specificity how to segment out which service(s) are failing 
 - How to compare the generated pdf and the structured data of the submission. (We will need a VSR or OCTO employee with appropriate access.) 
-- When GETs don't process, is it because of the service or because of us? (skip)
+- When GETs don't process, is it because of the service or because of us? 
 - How can we determine Vets-api database is performing as required? (Monitor in DataDog [form526 SQL performance dashboard](https://vagov.ddog-gov.com/account/login?next=/dashboard/2xv-ax9-6sj/benefits---form526-sql-performance?fromUser%3Dfalse%26refresh_mode%3Dsliding%26view%3Dspans%26from_ts%3D1722189972798%26to_ts%3D1722362772798%26live%3Dtrue))
 - Will the Vets-api database be overwhelmed by read/write requests given that the 526 submission and Lighthouse use the same DB (monitor in DataDog [form526 SQL performance dashboard](https://vagov.ddog-gov.com/account/login?next=/dashboard/2xv-ax9-6sj/benefits---form526-sql-performance?fromUser%3Dfalse%26refresh_mode%3Dsliding%26view%3Dspans%26from_ts%3D1722189972798%26to_ts%3D1722362772798%26live%3Dtrue))
 - What is the baseline level of performance for Vets-api database that we should know beforehand? (we could ask Platform -- 1. What is a typical CPU spike during a traffic rush?
