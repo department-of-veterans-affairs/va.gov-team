@@ -13,5 +13,5 @@ Ryan Shaw | 17 |  |
 John Luo | 10, 28 | 22 | 13 (half day), 14-16
 Tony Williams |  | 5 | 
 Jennie McGibney |  | 5 29-31 | 1-2 
-Brenda Cudone |  | 5 |  19-23
+Brenda Cudone |  | 5 |  19-23 |  |  |  |  |
 
