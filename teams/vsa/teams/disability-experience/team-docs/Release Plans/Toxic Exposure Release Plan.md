@@ -127,29 +127,31 @@ Toxic Exposure will be a staged rollout using the following traffic percentages 
 To determine if we should proceed to the next stage, the following criteria should be met
 To understand the feasibility of proceeding to the next phase of the staged rollout, disability benefits Team 1 established will be looking at the following:
 
-- Sum of established submissions is roughly equivalent to the target count of submissions within the established time frame
-- The claim record is complete in VBMS
-- The generated pdf exists in the Veteran's eFolder
-- The information in the generated pdf is correct, i.e. it matches the submission record in VBMS
-- Count of 202 responses from LH matches the count of submission records in Vets-api database. This indicates a successful pdf generation for the submission and a claimId. When these numbers match it means success. Note: There's up to a 48 hour delay in pdf generation, and while a 202 response from Lighthouse indicates the service was reached, it's not an indicator that the pdf was generated, so we'll need to wait up to 48 hours for confirmation. Because of this lagging indicator, we'll want to allow up to a 48 hour waiting period during moderated production testing and canary testing to ensure success. 
+- Sum of established submissions is roughly equivalent to the target count of submissions within the established time frame (in DataDog [/submit dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&from_ts=1696167523150&to_ts=1698347918000&live=false))
+- The claim record is complete in VBMS (requires VBA help)
+- The generated pdf exists in the Veteran's eFolder (requires VBA help)
+- The information in the generated pdf is correct, i.e. it matches the submission record in VBMS (requires VBA help)
+- Count of 202 responses from LH matches the count of submission records in Vets-api database. This indicates a successful pdf generation for the submission and a claimId. When these numbers match it means success. Note: There's up to a 48 hour delay in pdf generation, and while a 202 response from Lighthouse indicates the service was reached, it's not an indicator that the pdf was generated, so we'll need to wait up to 48 hours for confirmation. Because of this lagging indicator, we'll want to allow up to a 48 hour waiting period during moderated production testing and canary testing to ensure success. (in DataDog [/submit dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&from_ts=1696167523150&to_ts=1698347918000&live=false))
 - Downstream services we'll be watching
-    - Lighthouse /ppiu (direct deposit) (GET)
-    - VA Profile (GET)
-    - VBMS
-    - Lighthouse /brd
-    - Lighthouse /submit (synchronous)
-    - Lighthouse /generatePdf
-    - vetsApi database
+    - Lighthouse /ppiu (direct deposit) (GET) (in DataDog [/ppiu dashboard](https://vagov.ddog-gov.com/dashboard/pfj-tf3-mb4/benefits---disability---526---evss-to-lh-ppiu-direct-deposit?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1724774364174&to_ts=1724776164174&live=true))
+    - VA Profile (GET) (we're not sure)
+    - VBMS (we're not sure)
+    - Lighthouse /brd (in DataDog [/brd dashboard](https://vagov.ddog-gov.com/dashboard/n5i-sba-u52/benefits---disability---526---evss-to-lh-brd?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1724171481851&to_ts=1724776281851&live=true))
+    - Lighthouse /submit (synchronous) (in DataDog [/submit dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&from_ts=1696167523150&to_ts=1698347918000&live=false))
+    - Lighthouse /generatePdf (in DataDog [/submit dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&from_ts=1696167523150&to_ts=1698347918000&live=false))
+    - vetsApi database (in DataDog [form526 SQL performance dashboard (not ours)](https://vagov.ddog-gov.com/account/login?next=/dashboard/2xv-ax9-6sj/benefits---form526-sql-performance?fromUser%3Dfalse%26refresh_mode%3Dsliding%26view%3Dspans%26from_ts%3D1722189972798%26to_ts%3D1722362772798%26live%3Dtrue))
 
-### Open questions/needs:
-- Better understand how error responses differ between Lighthouse and VBMS
-- For a submission workload, determine with more specificity how to segment out which service(s) are failing
-- How to compare the generated pdf and the structured data of the submission. We may need a VSR or OCTO employee with appropriate access.
-- When GETs don't process, is it because of the service or because of us?
-- How can we determine Vets-api database is performing as required?
-- Will the Vets-api database be overwhelmed by read/write requests given that the 526 submission and Lighthouse use the same DB
-- What is the baseline level of performance for Vets-api database that we should know beforehand?
-- What are the Lighthouse error types and codes?
+### Questions/needs and Answers
+- Better understand how error responses differ between Lighthouse and VBMS (will be captured in this [ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90125) for retryable and non-retryable errors)
+- For a submission workload, determine with more specificity how to segment out which service(s) are failing (skip for now)
+- How to compare the generated pdf and the structured data of the submission. (We will need a VSR or OCTO employee with appropriate access.) 
+- When GETs don't process, is it because of the service or because of us? (skip)
+- How can we determine Vets-api database is performing as required? (Monitor in DataDog [form526 SQL performance dashboard](https://vagov.ddog-gov.com/account/login?next=/dashboard/2xv-ax9-6sj/benefits---form526-sql-performance?fromUser%3Dfalse%26refresh_mode%3Dsliding%26view%3Dspans%26from_ts%3D1722189972798%26to_ts%3D1722362772798%26live%3Dtrue))
+- Will the Vets-api database be overwhelmed by read/write requests given that the 526 submission and Lighthouse use the same DB (monitor in DataDog [form526 SQL performance dashboard](https://vagov.ddog-gov.com/account/login?next=/dashboard/2xv-ax9-6sj/benefits---form526-sql-performance?fromUser%3Dfalse%26refresh_mode%3Dsliding%26view%3Dspans%26from_ts%3D1722189972798%26to_ts%3D1722362772798%26live%3Dtrue))
+- What is the baseline level of performance for Vets-api database that we should know beforehand? (we could ask Platform -- 1. What is a typical CPU spike during a traffic rush?
+2. What is the redundancy strategy for the database? (availability zones, replicas, load balanced, connections?) 
+3. What is the strategy for scaling the database? How long does it take?")
+- What are the Lighthouse error types and codes? (will be captured in this [ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90125) for retryable and non-retryable errors)
 
 
 ### Define the Rollback process
