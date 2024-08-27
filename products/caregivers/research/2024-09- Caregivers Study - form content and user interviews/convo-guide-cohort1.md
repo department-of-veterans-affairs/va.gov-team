@@ -75,14 +75,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## First Task: [Introduction page] - 5 minutes
 
 - Thank you for sharing that background. Now let's change gears a bit.
-- I'm going to share a link to our staging site with you and have you share your screen look over the introduction page.
+- I'm going to share a link to our staging site with you in the chat and when you're ready have you share your screen.
   
-- Link to [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
+- [Link to [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)]
 
 - Review this page and tell me about your intial thoughts and expectations of this information before applying.
 
 **Participant ratings:**
 On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
+
+
 
 ### Things to watch for:
 - [Does the participant easily locate the apply link?]
@@ -100,7 +102,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - [If they pause on the county field, ask additional questions: I see you are pausing on this, can you tell me more about (xyz...)]
 
 
-### DECISION - TO CHAT AS TEAM
+### Provide to get to Confirmation Screen??
 - If we want to have them reach the confirmation page, we need to provide them specific fake Veteran info no this page
 - [User #36 can be used for testing in all environments]
 - [first name: WESLEY]
@@ -113,14 +115,16 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 ### Things to watch for:
 - [Does the participant need additional clarification to complete any of the questions?]
 - [Does the participant comment that any of these questions are not needed/too intrusive?]
+- [Does the participant comment about the ask of Social Security number or the County in the address block?]
 
 
 ## Third Task: [Facilities Selection] - 5 minutes
 
 - Please explain your thoughts and think-aloud as you complete this question.
 - How would you prefer to search for facilities?
-- Was anything on those pages unclear or you would like additional information on?
 - Can you explain to me how your location choice is part of the caregiver application process?
+
+  
 - Let's imagine you want to change the location you have selected - you are moving soon - by doing a new search.
 - Can you walk me through how you would accomplish that?
 
@@ -142,13 +146,18 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 - [Does the participant understand the primary caregiver role for the application?]
 - [Does the participant call out any content or questions as confusing or unclear?]
+- [Does the participant comment about the ask of Social Security number esp thinking that it is required?]
+- [Does the participant comment about the County in the address block?]
+
 
 ## Fifth Task: [Secondary Caregiver] - 5 minutes
 
-- For this scenario, complete the questions as you would if you were applying as a secondary caregiver role too.
+- For this scenario, complete the questions as you would if you were applying with a secondary caregiver too.
 - What does a secondary caregiver mean to you?
 - How do you think the secondary role differs in the application process and benefits from the primary caregiver?
 
+- Now let's have you add an additional Secondary Caregiver. Can you continue with that and please continue to think aloud.
+  
 
 ### Things to watch for:
 
