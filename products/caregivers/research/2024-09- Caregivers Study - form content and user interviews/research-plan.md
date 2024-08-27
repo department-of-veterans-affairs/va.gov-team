@@ -92,7 +92,12 @@ Screener questions:
 
 
 **Secondary criteria (nice-to-haves)**
-
+- Diversity across age groups
+- Diversity across racial identities
+- Diversity across education levels
+- Diversity across sexual orientation
+- Diversity across gender identity
+- Diversity across rural and major metropolitan areas
 
 ## Timeline
 TBD
