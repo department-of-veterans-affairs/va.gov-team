@@ -12,5 +12,9 @@
 
 ## QA Screenshots sent to the State Department on TBD
 
+### Spanish
+- [Q2 2024 - Spanish_2024-08-27_16-44-03.pdf](https://github.com/user-attachments/files/16766114/Q2.2024.-.Spanish_2024-08-27_16-44-03.pdf) - sent on 8/27
+
+### Tagalog
 
 ## Final QA from the State Department on TBD
