@@ -1,4 +1,55 @@
 # Design Weekly Sync Agenda
+
+
+## 2024-08-26
+Attendees: Angela, Jessica, Hieu, Lois, Renata and Luis
+
+**Analytics chat**
+Voc = Voice of the Customer, effort from CIO office
+Team to gather data that exists; processing and presenting to CIO, Lois involved with that effort - separate from this team
+What benefits team is doing; way of working + align with what they are doing
+Monthly pull basis Medalia
+More actionable insights
+Tell the story with links back to data
+CSAT score positive or negative — what happened? What we know?
+Starting pinning to certain changes made on form
+Concerns with data sources populating correctly
+Need to do a clean up = landscape effort
+Leaning more into GA4 and DataDog
+Start reporting richer metrics
+ACTION ITEM: Team next steps meeting, PM + PO focused with Luis and Lois
+
+
+**Social listenting**
+VA Mobile app; play store reviews ,Reddit mining
+CHAMPVA fB groups; so much data in there, ethics to discuss
+What other teams have done something like this
+You tube Veteran influences - comments
+ACTION ITEM: Renata to open a ticket and start social listening around Priority Groups
+
+
+**Facilities updates**
+Reviewed current CG facilities design around CG research
+Noting all just Figma and v3 component updates
+Reviewed EZ phased facilities designs and search
+Noting will need to start thinking about research +
+ACTION ITEM: Jessica schedule EZ/CG team meeting. Create a ticket for planning around EZ facilities research and metrics
+
+
+**Notification on EZR**
+Reviewed Mural
+Worked on landscape of teams and their Figma files
+Call outs on phone number and in-consistency
+Back end systems where info goes
+Leverage other teams for updatingTalked about status that would trigger a notification need
+What Priority Groups / reasons are there for a notification trigger to complete the financial assessment
+Phone numbers - watching out for inconsistencies,
+
+ACTION ITEM: Hieu - Look into notification triggers / statuses
+
+
+
+
 ## 2024-08-12
 Attendees: Angela, Jessica, Hieu, Lois, and Renata.
 
