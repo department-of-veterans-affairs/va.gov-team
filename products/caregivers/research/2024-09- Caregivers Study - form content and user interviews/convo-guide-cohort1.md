@@ -55,7 +55,7 @@ Before we start, I have a few things that I want to go over with you:
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - 10 minutes
+## Warm-up Interview Questions - 10 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -99,7 +99,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - Now start the application as if you were applying.
 - This is our staging site don't worry about information going anywhere and also please remember to talk alout about what you are thinking.
 - Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share.
-- {if they pause on the county field, ask additional questions} I see you are pausing on this, can you tell me more about xyz...
+- {if they pause on the county field, ask additional questions} I see you are pausing on this, can you tell me more about (xyz...)
 
 ### DECISION - TO CHAT AS TEAM
 - If we want to have them reach the confirmation page, we need to provide them specific fake Veteran info no this page
@@ -116,7 +116,8 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - How would you prefer to search for facilities?
 - Was anything on those pages unclear or you would like additional information on?
 - Can you explain to me how your location choice is part of the caregiver application process?
-- Let's imagine you want to change the location you have selected - you are moving soon - by doing a new search. Can you walk me through how you would accomplish that?
+- Let's imagine you want to change the location you have selected - you are moving soon - by doing a new search.
+- Can you walk me through how you would accomplish that?
 
 
 ### Things to watch for:
@@ -195,13 +196,12 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 
 
-## Confrimation Page - 2 minutes
+## Confrimation Page + Post Task Interview - 5 minutes
 
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
 
-
-
-## Post-Tasks Interview - 5 minutes
+- If you had a magic wand and in your perfect world, what would you like to see here?
+- What would you want to happen next?
 
 
 
