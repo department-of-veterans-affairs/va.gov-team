@@ -1,3 +1,5 @@
+# Debugging the Travel Pay API
+
 Debugging can be tedious since the Travel Pay API is currently only accessible via the VA network and sees VA.gov as an external entity. This means that all traffic must cross the TIC from VA.gov to get a Veterans travel pay resources. It also means debugging the application locally is not an option.
 
 These steps hopefully make debugging the API more straightforward given current limitations.
