@@ -41,7 +41,7 @@
 ## SPRINT 15 - 9/4/2024-9/17/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
-    - 🟦 [Answer Questions on Redis Encryption from Platform Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91455)
+    - ❗ 🟦 [Answer Questions on Redis Encryption from Platform Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91455)
     - **Move to New AWS Instance**
         - TBD
 - **Community Care Direct Scheduling**
@@ -50,22 +50,23 @@
     - 🟦🟩 Conduct some KT and ticket creation party (Lee)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
-    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)       
+    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
+         - May not be ready, depending on BE blocker for UX designs
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to address all launch blockers from the Staging Review**
     - 🟩 Placeholder for launch blockers, if any - Staging Review is 8/29
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal TBD**
     - 🟥 TBD
+    - 🟩 is ⛔ 
 - **Check in with staff after checking in**
     - 🟥 Scheduke kickoff meeting with Sam (SPL)
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
     - 🟥 [[Design] Create Userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91305)
 - **CIE Analytics**
+    - 🟥 [Analyze pre-check-in landing page drop off rate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91433)
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91334)
-- **Tech Debt**
-    - TBD
 </details>
 
 ## SPRINT 14 - 8/21/2024-9/3/2024
