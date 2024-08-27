@@ -128,7 +128,6 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 
 ## Fourth Task: [Primary Caregiver] - 5 minutes
-
 - For this scenario today, there is a primary caregiver on this application. Can you please go through the next few pages and add that.
 - Think aloud about your thought process.
 
@@ -148,7 +147,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 ### Things to watch for:
 
 - [Does the participant understand the secondary caregiver role for the application?]
-- [Does the participant mention that they would have two secondary cargeviers?]
+- [Does the participant mention that they would have two secondary caregivers?]
 - [Does the participant call out any content or questions as confusing or unclear?]
 - [Does the participant mention needing to make changes to caregivers?]
 
@@ -159,6 +158,8 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - Would you complete this application together?
 
 - Or would you prefer to have help completing this application from an accredited representative or someone else from the VA?
+- What research would you have done before submitting this application?
+- Would you like additional information about who qualifies for the 2 caregiver roles when completing the application? 
 
 
 
@@ -194,11 +195,16 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 
 
-## Confrimation Page + Post-Task Interview - 5 minutes
+## Confrimation Page - 2 minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- Describe to me in your own words what this page is telling you happened and what comes next in this process.
+
+
+
+## Post-Tasks Interview - 5 minutes
+
+
+
 
 ## Consent to use video clips
 
@@ -208,7 +214,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 ## Thank-You and Closing - 2 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans and for Caregivers too.
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
