@@ -180,7 +180,7 @@ Due to the need to test against the production lightouse /submit endpoint, we'll
  - When Validating against the dataset we used for Moderated Production Testing, we logged 61 (2.3% error rate) validation errors in of four categories when calling LH /validate.
     - Treatments/treated disabiliity names
     - Separation location
-   -* Mailing address
+    - Mailing address
     - Direct deposit
 - Frontend:
   - Missing validations such as service period start and end dates (know
@@ -201,7 +201,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
         - Refer to [troubleshooting SOP document for details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md) on how remediate form data
 
 #### Rollout Planning
-- Desired date range: Aug 15 - Sept 11
+- Desired date range: Aug 28 - Oct 1
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - % of [normal](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/bi4-785-p5z), [backup](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/6ek-k9t-7d7), failsafe (come back to this) path rates are the same or less than what we have currently
@@ -215,9 +215,9 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Prerequisites:
 Approvals & to do's for launch:
-- [ ] Development for release 1.0 and 1.1 are complete, and the ability to give certain Veterans access to 2022 form based on the toggle state
+- [x] Development for release 1.0 and 1.1 are complete, and the ability to give certain Veterans access to 2022 form based on the toggle state
 - [ ] DBEX Teams approve [Validation Rake Task](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88063) results
-- [ ] Monitoring configured by DBEX teams
+- [x] Monitoring configured by DBEX teams
 - [X] Benchmark data for Veteran claim selection and monitoring during the release      
 - [X] [Troubleshooting SOP documented](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)
 
@@ -233,8 +233,21 @@ Approvals & to do's for launch:
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
-- Length of time: 2 days (Aug 15-16)
+- Length of time: 3 days (Aug 28- 30)
 - Percentage of Users (and roughly how many users do you expect this to be): 5% of users, ~106 submissions
+
+#### Steps
+- Create a Teams channel for the DBEX, VBA, and OCTO teams to use on Wednesday Aug 28th
+- At 9am PDT on Wednesday Aug 28th, Aurora to turn the TE flag on in production for 5% of traffic
+- Monitor the EVSS > LH DD Dashboard for anomalies
+- If anomalies are found that exceed our established thresholds or are otherwise concerning, turn the flag off in Production
+Otherwise:
+- Monitor the EVSS > LH DD Dashboard for the count of submissions
+- When 50 submissions are received, turn the flag off
+- Validate submission data, the claim in VBMS, and generated pdf in partnership with OCTO and VBA.
+- For any issues found, create tickets to remediate and prioritize as required based on the severity of the issue
+- After submissions have been validated, work with OCTO and VBA to determine timing of turning traffic back on
+- If no anomalies within the agreed time box, decide with OCTO to raise traffic percentage to 10%
 
 #### Results
 - Number of unique users: 
