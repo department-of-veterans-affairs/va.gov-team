@@ -17,7 +17,8 @@ Period 8/28 - 9/10
 8/14 - 8/27
 
 **Toxic Exposure**
-- Complete 5% Canary rollout
+- (Complete Staging Review)
+- Complete 5% Canary rollout >
 - Evaluate user metrics (Medallia & GA) to inform research
   
 **Paper Form Sync**
