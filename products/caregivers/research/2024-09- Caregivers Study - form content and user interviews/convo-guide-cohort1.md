@@ -6,9 +6,7 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Open and prepare prototype for facilities search -- if not ready in staging/production
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Open and prepare prototype for facilities search -- ONLY if not ready in staging/production
 
 
 ### Day of the session
@@ -20,7 +18,6 @@ Slack for real-time feedback from observers.
 
 
 ### Starting the session
-
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
@@ -30,10 +27,10 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
+Thanks for joining us today! My name is [Jessica/Angela] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about application for the Program of Comprehensive Assistance for Family Caregivers.
+Today we're going to talk about application for the **Program of Comprehensive Assistance for Family Caregivers**.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -62,15 +59,14 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Have you ever applied for the Caregiver Program before?
-   - If no: [Should be yes based on screener criteria]
+1. Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
+   - If no: [Should be yes based on screener criteria but pivot to convo guide for cohort 2]
 
 2. How long ago was that when you applied?
    
 3. Are you in the Primary or Secondary Caregiver role?
 
 4. Did you complete the application in person, at a facility or online?
-
 
 5. Do you mind telling us more about that experience?
 
@@ -84,31 +80,60 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## First Task: [Introduction page] - 2 minutes
 
 - Thank you for sharing that background. Now let's change gears a bit.
-- I'm going to share a link to our staging site with you and have you share your screen when you are read.
+- I'm going to share a link to our staging site with you and have you share your screen look over the introduction page.
   
 - Link to Production / Staging site?
-
+- [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
 
 - Review this page and tell me about your intial thoughts and expectations of this information before applying.
 
-- On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
+**Participant ratings:**
+On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
 
-### Things to watch for:
-
+### Things to watch for:=
 - [Does the participant easily locate the apply link?]
 - [Does the participant seem to indicate that any of the content is unclear or needs more clarification?]
 - [Does the participant indicate they would need to pause to gather information or would need to coordinate with others to complete the application together?]
 - [Does the participant comment on making changes to existing caregivers?]
 
 
-**Participant ratings:**
-On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
 
 
-## Second Task: [Veteran inforamtion + facilities] - 5 minutes
+## Second Task: [Veteran inforamtion] - 2 minutes
 
-- Step 1
-- Step 2
+- Now start the application as if you were applying.
+- This is our staging site don't worry about information going anywhere and also please remember to talk alout about what you are thinking.
+- Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share.
+
+
+### Things to watch for:
+- [Does the participant need additional clarification to complete any of the questions?]
+- [Does the participant comment that any of these questions are not needed/too intrusive?]
+
+
+## Third Task: [Facilities Selection] - 2 minutes
+
+- Please explain your thoughts and think-aloud as you complete this question.
+- How would you prefer to search for facilities?
+- Was anything on those pages unclear or you would like additional information on?
+- Can you explain to me how your location choice is part of the caregiver application process?
+- Let's imagine you want to change the location you have selected - you are moving soon - by doing a new search. Can you walk me through how you would accomplish that?
+
+
+### Things to watch for:
+- [Does the participant comment that they would need clarifying information to answer the question?]
+- [Does the participant search by zip code, city or state]
+- [Does the particpant comment or react to the confirmation screen?]
+- [Does the confirmation screen add confusion for the participant?]
+
+
+
+## Fourth Task: [Primary Caregiver] - 5 minutes
+
+- For this scenario today, there is a primary caregiver on this application. Can you please go through the next few pages and add that.
+- Think aloud about your thought process.
+
+
 
 ### Things to watch for:
 
@@ -116,18 +141,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Third Task: [Primary Caregiver] - 5 minutes
-
-- Step 1
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Fourth Task: [Secondary Caregiver] - 5 minutes
+## Fifth Task: [Secondary Caregiver] - 5 minutes
 
 - Step 1
 - Step 2
@@ -141,13 +155,15 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 ## Caregiver Interview Questions - X minutes
 
-- Question 1
+- When completing this application for real, can you tell me how would you coordinate getting this information from everyone involved?
+- Would you complete this application together?
+
 - Question 2
 - Any questions for me?
 
 
 
-## Firth Task: [Sign as a Rep] - 5 minutes
+## Task: [Sign as a Rep + Upload Doc] - 5 minutes
 
 - Step 1
 - Step 2
@@ -159,7 +175,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - [Etc]
 
 
-## Sixth Task: [Review + Submit] - 5 minutes
+## Task: [Review + Submit] - 5 minutes
 
 - Step 1
 - Step 2
