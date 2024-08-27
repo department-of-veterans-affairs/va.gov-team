@@ -1,6 +1,6 @@
-### Summer 2024 Time Off - Appointments FE 
+### 2024 Time Off - Appointments FE 
 
-Team Member | June | July | August
+Team Member | June | July | August | Sept | Oct | Nov | Dec
 --- | --- | --- | ---
 Jeff Roof | 21 |  | 
 Leah De La Costa | 7 | 1, 22 | 2, 7-9, 26, 29-30
