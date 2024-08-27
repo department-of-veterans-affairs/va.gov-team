@@ -90,7 +90,7 @@ This test included 2 versions of the appointments list:
 - Choosing from locations where they've recently scheduled an appointment will make it faster and easier to schedule.
     - INCONCLUSIVE: Without using the Veterans' real data, it is difficult to test this hypothesis. 
 - Veterans will appreciate and find value in the default "Sort by Recent Locations."
-  - Likely FALSE: There was a stronger preference among Veterans for sorting by proximity, indicating that the "Sort by Recent Locations" option may not be as valuable to them without user data to confirm otherwise.
+  - Likely FALSE: There was a stronger preference among participants for sorting by proximity, indicating that the "Sort by Recent Locations" option may not be as valuable to them without user data to confirm otherwise.
 
 
  
