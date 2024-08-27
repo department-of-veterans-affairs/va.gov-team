@@ -144,6 +144,7 @@ For a first gloss of understanding Veterans mental models and needs for detailed
 7. When learning about their ILER report, Veterans may not know what it contains.
 8. Veterans distrust the data provided in many VA reports, including the ILER report.
 9. The mental models many Veterans have for the data in the ILER report does not match how it is organized, making it more difficult for the Veteran to achieve any of their goals or note which data are faulty.
+10. The stakeholder (VEO) has specified that this content be available in the "military history" section of the Profile on VA.gov (see https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md#key-findings). This seems to override other work on the question of placement of the ILER download affordance (though this does not limit that to one location on VA.gov).
 
 ## Details of Findings
 
