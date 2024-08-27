@@ -34,4 +34,37 @@ _[DRAFT]_
 ### Expectations for VA staff follow up
 - Would Veterans expect VA to contact them if they hadn't self-scheduled their referral in a certain amount of time? If so, in how many days? 
 
-   - **Finding 1:** The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time. 
+   - **Finding 1:** The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time.
+ 
+
+## Details of Findings
+
+### Referrals
+
+**Finding 1:** One third of participants, without moderator prompts, identified the process or document received when VA has approved care by a community care provider as a “referral,” while others used different terms such as consult, request, authorization, or were not sure what term to use.
+
+**Finding 2:** Before concept testing, participants expected to find new referrals in Appointments on va.gov or within My HealtheVet, with more participants indicating they’d look in My HealtheVet.
+
+**Finding 3:** Before concept testing, participants weren’t confident in where they expected to find past referrals, but mentioned both Appointments and Medical Records.
+
+**Finding 4:** Slightly less than half of participants were able to find a link to navigate to review all of their referrals in the prototype, but the majority of participants were able to identify where to look for older referrals. 
+
+### Self-scheduling user flow
+
+**Finding 1:** The majority of participants were able to easily start the scheduling process from the Appointments list task card, while 2 participants selected the incorrect link.
+
+**Finding 2:** The majority of participants noticed the expiration date of the referral and found the presence of this information helpful, but many found the expiration date used in the prototype (e.g., 310 days) and wording to be confusing or misleading.
+
+**Finding 3:** Participants were able to easily navigate the scheduling process and complete all tasks, but did run into challenges at two points. In addition, many participants offered unprompted positive feedback around the tool.
+
+**Finding 4:** Participants understood the information on the referral introduction page as a whole, but had some questions and suggestions for additional information. All participants were able to easily find the "schedule appointment" call to action.
+
+**Finding 5:** The filter pattern did not present any usability concerns, but our results lacked conclusive evidence that Veterans would use the feature prior to prompting them to use it. Though participants said the filters met overall expectations, some called out specific filters as confusing or missing. 
+
+**Finding 6:** Of the four participants we had time to ask, all four understood the "online scheduling" filter and found it beneficial. However, participants also expected to find providers that didn’t offer online scheduling and told us they would call and schedule with those providers, if needed. 
+
+**Finding 7:** Participants knew how to cancel their appointments in the prototype and understood there was no reason to take an additional step to call. Although 1 participant still said they’d call the office after canceling to make sure it had worked.
+ 
+### Expectations for VA staff follow up
+
+**Finding 1:** The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time. 
