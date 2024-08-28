@@ -62,7 +62,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - number of form submissions online
   - number of clicks through form
   - follow form submission through to PEGA with confirmation/notifications
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
+- Links to the dashboard(s) showing "success criteria" metrics: [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-staging&view=spans&from_ts=1724851388044&to_ts=1724865788044&live=true), Google analytics
 - Who is monitoring the dashboard(s)?: Product Managers, PO
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
