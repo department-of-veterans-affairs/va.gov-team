@@ -36,17 +36,17 @@ You can read more about Jira documentation [here.](https://confluence.atlassian.
 
 Using the navigation on the right side of the page, users can navigate between [Team Activity](https://jira.devops.va.gov/projects/VI/summary), [backlog](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=12029&projectKey=VI&view=planning&issueLimit=100#), [active sprints](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=12029&projectKey=VI&selectedIssue=VI-287#), [reports](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=12029&projectKey=VI&view=reporting&chart=cumulativeFlowDiagram&swimlane=23434&swimlane=23435&swimlane=23720&swimlane=22528&column=84876&column=84877&column=86730&column=84878#), and [issues](https://jira.devops.va.gov/projects/VI/issues/VI-418?filter=allopenissues). Crew members can also access the [Live and Monitoring board](https://jira.devops.va.gov/issues/?filter=124503) and view which issues need [PM intervention](https://jira.devops.va.gov/issues/?filter=124528) under “Project Shortcuts”
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image14.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image14.png)
+<img width="282" alt="Screenshot 2024-08-27 at 3 35 04 PM" src="https://github.com/user-attachments/assets/01f1710b-5b4c-435d-a9e0-51106ba344a4">
 
 ### Activity and Statistics
 
 Crew members can keep track of the crew’s activity through the [Activity Log](https://jira.devops.va.gov/projects/VI/summary). Here we can see when an issue is created, assigned, updated, or changes status and we can see which crew member is actively engaging with the issue.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image19.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image19.png)
+<img width="751" alt="Screenshot 2024-08-27 at 3 35 23 PM" src="https://github.com/user-attachments/assets/6d2be0f5-8b21-432e-898e-4b3cd91b770d">
 
 Crew members can monitor statistics on unresolved issues and view them by priority, assignee, or component. Crew members can also view the Status Summary [here.](https://jira.devops.va.gov/projects/VI/summary/statistics)
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image8.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image8.png)
+<img width="1136" alt="Screenshot 2024-08-27 at 3 36 39 PM" src="https://github.com/user-attachments/assets/4aeed6cd-1cb4-4cf3-93b8-69c2256881b5">
 
 ## The Identity Board
 
@@ -101,7 +101,7 @@ There are a few built in quick filters that are useful for organizing the view o
 
 Tickets are created to track stories, spikes, and bug fixes. They should include a Title and description at minimum.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image17.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image17.png)
+<img width="797" alt="Screenshot 2024-08-27 at 2 21 15 PM" src="https://github.com/user-attachments/assets/3a6b39fd-fadd-46cb-bf1c-33d04f79938d">
 
 There are many features and details that can be included in the ticket to better describe the acceptance criteria, priority, and details of the task
 
@@ -115,17 +115,17 @@ These Include:
 - **Epic Link** - Allows the ability to link to an epic that the task is in the scope of.
 - **Sprint** - Allows the ability to assign the ticket to a specific sprint.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image16.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image16.png)
+<img width="797" alt="Screenshot 2024-08-27 at 2 21 08 PM" src="https://github.com/user-attachments/assets/03c4aa26-71e0-4430-86e5-42a68fdb3307">
 
 **Note:** Creating tickets using the “Create” button in the backlog can be less buggy and more reliable than the ticket creation button on the team home page.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image12.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image12.png)
+<img width="327" alt="Screenshot 2024-08-27 at 2 19 15 PM" src="https://github.com/user-attachments/assets/ae449eda-939b-457c-be08-b82e842c3eb5">
 
 ### Issue Types
 
 Issue types help to tell the assignee and other team members what type of Issue the ticket is. There are different Issue Types for tickets
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image6.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image6.png)
+<img width="260" alt="Screenshot 2024-08-27 at 2 20 16 PM" src="https://github.com/user-attachments/assets/2fe41fa0-4d9b-451f-9fbb-db19926dcdb0">
 
 - **Task:** Issue that includes action item and clear definition of done
 - **Story:** Issue that include a user story and clear acceptance criteria
@@ -142,7 +142,7 @@ Issue types help to tell the assignee and other team members what type of Issue 
 
 Labels should be added to each ticket to help distinguish who the ticket should be assigned to. Labels are also used to filter tickets by role, team, or status.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image3.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image3.png)
+<img width="269" alt="Screenshot 2024-08-27 at 4 45 51 PM" src="https://github.com/user-attachments/assets/1bcb9b2d-c9a1-4370-8bc4-f1ec716a4601">
 
 Some of the labels we use currently are:
 
@@ -171,7 +171,7 @@ At the end of each sprint, tickets that are in the **Done** column will be close
 
 The backlog is a place for tickets that have been created but are not in the current sprint. When you click the backlog button you will see three sections: Current Sprint, Upcoming Sprint, and Backlog
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image2.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image2.png)
+<img width="1134" alt="Screenshot 2024-08-27 at 4 36 53 PM" src="https://github.com/user-attachments/assets/99d2e79b-53df-4e01-a806-db3807a57f2a">
 
 **Current sprint:** Issues under “current sprint” are actively being worked on. This section is an exact reflection of the board and is located at the top. These issues are refined and vary in status from “Ready” to “Done”.
 
@@ -181,7 +181,7 @@ The backlog is a place for tickets that have been created but are not in the cur
 
 Refinement line: A placeholder issue in the backlog section separating issues that have been refined (issue has correct labels, epic links, description, attachments, etc) and tickets that haven’t been refined yet. Refinement meetings happen every other Monday before the end of the current sprint.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image4.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image4.png)
+<img width="690" alt="Screenshot 2024-08-27 at 4 35 06 PM" src="https://github.com/user-attachments/assets/84303986-ba49-4392-9c4c-d3c93cda971d">
 
 Refinement Requirements: Issue has the following:
 
