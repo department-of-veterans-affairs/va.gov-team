@@ -86,22 +86,22 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
    
 ### Overall 526ez
 All Medalia survey data is reported as a % of 4+5 answers.
-|**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 rollout** | **1.1 rollout**|
+|**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **25% 1.0%** |**100% 1.0** | **25% 1.1**|**100% 1.1**|
 |--|--|--|--|--|
 |**CSAT-Intercept**| 37.7%|41.9% | | |
-|**Feedback satisfaction**|- %| - %|
+|**Feedback satisfaction**|- %| 2.75|
 |**Task completion**| 26% | 44.5% | | |
-|**Trust Overall (High distrust 1 to high trust 5)**|%| 37.5 % | | |
-|**Trust Gained/Lost (Percent difference from increase and decrease)**||  | | |
+|**Trust Overall**|%| % |52% | |
+|**How interaction changed trust (Intercept question)**||  | | |
 
 ### Toxic Exposure feature
-|**Data point**| **1.0 rollout** | **1.1 rollout**|
+|**Data point**| **25% 1.0%** |**100% 1.0** | **25% 1.1**|**100% 1.1**|
 |--|--|--|
 |**CSAT-Intercept**| | | | |
 |**Feedback satisfaction**|||
 |**Task completion**| | | | |
 |**Trust Overall**| | | | |
-|**Trust Gained/Lost**| | | | |
+|**How interaction changed trust (Intercept question)**| | | | |
 
 ### **Themes across Medallia survey responses**
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
