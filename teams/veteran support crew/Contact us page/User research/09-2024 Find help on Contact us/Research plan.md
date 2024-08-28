@@ -118,8 +118,8 @@ For more details about our criteria, refer to our [Recruitment ticket](🟡 need
 
 ## Pilot session
 Perigean does **not** need to set up our pilot session. Becky will schedule and add participants herself.
-- Pilot participant: [Name], [Email] from [Company]
-- Date and time of pilot session: [Date] at [Time] EST
+- Pilot participant: Gene Dreyband, yevgeny.dreyband@va.gov from VA
+- Date and time of pilot session: September 5 at 12pm EST
   
 ## Research sessions
 - Planned dates of research: Monday, September 9 - Thursday, September 19
@@ -147,7 +147,7 @@ We will provide 24 time slots, with the aim to book 12 sessions.
 - Research guide writing and task development: Becky Phung
 - Participant recruiting & screening: Perigean
 - Project point of contact: Becky Phung	
-- Participant(s) for pilot test: [Name]
+- Participant(s) for pilot test: Gene Dreyband
 - Accessibility specialist (for sessions where support for assistive technology may be needed): We won't have a specialist for this study.
 - Note-takers: We will need Perigean to take notes for all sessions.
 - Observers: Becky will add observers to the invites herself.
@@ -155,4 +155,4 @@ We will provide 24 time slots, with the aim to book 12 sessions.
 We will limit sessions to no more than 5 people, including 1 participant, 1 moderator, 1 notetaker, 2 observers.
 
 ## Approved by:
-- Shane Strassberg, VA Research Ops on [Month day], 2024
+- Shane Strassberg, VA Research Ops on [🟡Month day], 2024
