@@ -16,7 +16,7 @@ The Contact us page ([va.gov/contact-us](va.gov/contact-us)) helps people get an
 We stood up the Contact us page quickly in 2020 and have made ad-hoc updates since then. It consistently gets the lowest customer satisfaction scores compared to other pages on VA.gov. As of 2024, its CSAT score is around 20%. VA.gov's overall CSAT score is around 60%. 
 
 - View these scores in the [VA.gov CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322).
-- [View the product outline](🟡 need to add link) for ‘Contact us’. 
+- [View the product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/Product/Product%20outline.md) for ‘Contact us’. 
 
 ### OCTO Priorities 
  This research supports the following OCTO FY24 priority:
@@ -75,7 +75,7 @@ We’ll ask users to consider how they would use Contact us to find answers or c
 -	Increasing disability compensation for an existing condition
   
 ### Research materials
-- [Link to conversation guide](link)
+- [Link to conversation guide](🟡 link)
 - [Link to 'Contact us’ page in VA.gov production](https://www.va.gov/contact-us/)
   
 ## Recruitment	
