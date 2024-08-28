@@ -7,6 +7,7 @@
 - Complete any project-specific setup tasks for this study (List them below)
 
 - [ ] Open and prepare prototype for facilities search -- ONLY if not ready in staging/production
+- [ ] Open and prepare confirmation screen in Figma for content feedback
 
 
 ### Day of the session
@@ -207,7 +208,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 - Look over this page and tell me about your impressions or expectations?
 - If you see something you entered by mistake, can you show me how you would go about correcting that?
-- Complete this application.
+- You won't be able to submit the application in this test form so you can stop screen sharing now.
 
 ### Things to watch for:
 - [Does the participant have a positive or negative sentiment about the review page?]
@@ -221,6 +222,9 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 ## Confrimation Page + Post Task Interview - 5 minutes
 
+- I am now going to share my screen with you and would like it if you could provide feedback on the content of this page I am about to show you.
+- [show figma comp of production design version of confirmation page]
+  
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
 
 - If you had a magic wand and in your perfect world, what would you like to see here?
