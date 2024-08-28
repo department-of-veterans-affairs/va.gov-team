@@ -82,13 +82,12 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: passphrase
+    id: passphraseRequirement
     attributes:
       label: SSH Key Passphrase
-      options:
-      - label: Please check this box to confirm that your SSH key has a strong passphrase
-    validations:
-      required: true
+      description: Please check this box to confirm that your SSH key has a strong passphrase options:
+        - label: I agree that my Passphrase is strong see [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases) for more information
+          required: true
   - type: textarea
     attributes:
       label: e-App (aka E-QIP) Transmittal Confirmation
