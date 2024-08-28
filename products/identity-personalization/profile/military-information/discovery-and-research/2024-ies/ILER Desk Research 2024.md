@@ -226,6 +226,16 @@ Why: MyVA is the page users see when they log in and go to a personalized pathwa
 
 The same issue on how to highlight the newness of this feature in MyVA is the same as on the VA Profile.
 
+### Draft and validate verbiage for initial link taking user to in-depth ILER info and link to download
+
+Why: We know from research that many Veterans and VSOs are not familiar with what ILER is, what it is used for, and what to do with it. Also, we want some way to highlight/draw focus for the user to this new and important feature.
+
+The hypothesis is that simply putting a link that matches the style and length of existing content within a card will not help users note the new feature, understand it, or move forward on that path.
+
+As above, we discovered that the VADS tag is not a workable solution, so we are relying on text and text styles.
+
+This may require collaboration with CAIA.
+
 # Sources
 
 ILER Fact Sheet (https://www.docs.lms.va.gov/LMSDocs/Docs/131531/ILERFactSheet_508Certified.pdf)
