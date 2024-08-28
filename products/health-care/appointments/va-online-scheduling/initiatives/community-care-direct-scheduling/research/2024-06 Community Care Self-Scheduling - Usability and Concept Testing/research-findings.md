@@ -103,7 +103,7 @@ _[Jump to Referral Recommendations](link)_
 
 ### Self-scheduling user flow
 
-#### Finding 5: 
+#### Finding #5: 
 
 **The majority of participants were able to easily start the scheduling process from the Appointments list task card, while 2 participants selected the incorrect link.**
 
@@ -114,7 +114,7 @@ _[Jump to Referral Recommendations](link)_
 <img width="700" alt="Screenshot 2024-08-27 at 4 34 56 PM" src="https://github.com/user-attachments/assets/f44708c5-1fea-4650-9c04-6d6b6f80b865">
 
 
-#### Finding 6: 
+#### Finding #6: 
 
 **The majority of participants noticed the expiration date of the referral and found the presence of this information helpful, but many found the expiration date used in the prototype (e.g., 310 days) and wording to be confusing or misleading.**
 
@@ -128,7 +128,7 @@ _[Jump to Referral Recommendations](link)_
 
 <img width="300" alt="Screenshot 2024-08-27 at 4 33 13 PM" src="https://github.com/user-attachments/assets/df8f3abf-b9b1-42ca-8a09-11271c4cd013">
 
-#### Finding 7: 
+#### Finding #7: 
 
 **Participants were able to easily navigate the scheduling process and complete all tasks, but did run into challenges at two points. In addition, many participants offered unprompted positive feedback around the tool.**
 
@@ -144,7 +144,7 @@ _[Jump to Referral Recommendations](link)_
 <img width="300" alt="Screenshot 2024-08-27 at 4 39 19 PM" src="https://github.com/user-attachments/assets/d6224ef1-61ce-48f7-ad5c-1ed3357d5b09">
 
 
-#### Finding 8: 
+#### Finding #8: 
 
 **Participants understood the information on the referral introduction page as a whole, but had some questions and suggestions for additional information. All participants were able to easily find the "schedule appointment" call to action.**
 
@@ -162,7 +162,7 @@ _[Jump to Referral Recommendations](link)_
 <img width="200" alt="Screenshot 2024-08-27 at 4 41 47 PM" src="https://github.com/user-attachments/assets/4b168f49-039d-46d3-84f1-d5ab711a9fcd">
 
 
-#### Finding 9: 
+#### Finding #9: 
 
 **The filter pattern did not present any usability concerns, but our results lacked conclusive evidence that Veterans would use the feature prior to prompting them to use it. Though participants said the filters met overall expectations, some called out specific filters as confusing or missing.** 
 
@@ -176,7 +176,7 @@ _[Jump to Referral Recommendations](link)_
 
 <img width="500" alt="Screenshot 2024-08-27 at 4 44 04 PM" src="https://github.com/user-attachments/assets/578a3f8d-6134-44e0-a5e9-7401a1ded73c">
 
-#### Finding 10: 
+#### Finding #10: 
 
 **Of the four participants we had time to ask, all four understood the "online scheduling" filter and found it beneficial. However, participants also expected to find providers that didn’t offer online scheduling and told us they would call and schedule with those providers, if needed.** 
 
@@ -190,7 +190,7 @@ _[Jump to Referral Recommendations](link)_
 <img width="225" alt="Screenshot 2024-08-27 at 4 49 44 PM" src="https://github.com/user-attachments/assets/44f978b2-f6c3-423f-a1be-f584750976e5">
 
 
-#### Finding 11: 
+#### Finding #11: 
 
 **Participants knew how to cancel their appointments in the prototype and understood there was no reason to take an additional step to call. Although 1 participant still said they’d call the office after canceling to make sure it had worked.**
 
@@ -198,7 +198,7 @@ _[Jump to Self-scheduling user flow Recommendations](link)_
  
 ### Expectations for VA staff follow up
 
-#### Finding 12: 
+#### Finding #12: 
 
 **The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time.** 
 
