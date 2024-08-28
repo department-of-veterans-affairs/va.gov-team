@@ -173,7 +173,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - Would you sit down and complete this application together?
 - Or would you prefer to have help completing this application from an accredited representative or someone else from the VA?
 - Thinking of an ideal scenario, can you describe for me what would work best for you if you had to complete an application with multiple people
-
+- [If not mentioned above] Would you like have a way to sign in and only complete your information yourself?
 
 - What research would you have done before applying?
 - Would you like additional information about who qualifies for the 2 caregiver roles when completing the application? Or is that just redundent at the point of applying and not useful?
