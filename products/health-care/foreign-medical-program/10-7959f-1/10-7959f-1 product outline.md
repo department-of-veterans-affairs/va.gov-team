@@ -98,11 +98,11 @@ Collaboration Cycle
 - [x] [Content, Accessibility and IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74190)
 - [x] Midpoint: 2/29/24
 - [x] Research 
-- [ ] Contact Center guide
+- [x] Contact Center guide
 - [x] Analytics: [implementation request](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/77616)
 - [ ] Staging
-- [ ] Release plan
-- [ ] Infrastructure, Privacy & Security
+- [x] Release plan
+- [x] Infrastructure, Privacy & Security
 
 ### Incident Response info
  
@@ -157,6 +157,7 @@ Key deliverables:
 - Jan 2024: start discovery
 - Collaboration cycle kickoff: 1/22/24
 - Design intent: 1/29/24
+- staging reivew: 8/30/24
 ---
    
 ## Screenshots
