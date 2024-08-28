@@ -243,6 +243,16 @@ Why: If the VEO request/requirement for MSO data (that it is placed within the M
 
 The Military information page does contain a section where the Veteran can request their military records. This might make a good pattern to duplicate for a new section with text explaining the content and context of ILER, and a download link, as well as information about known data issues and how to contact someone to correct these issues.
 
+### New section in Miltiary Information must contain:
+- that this is new
+- what ILER is (and isn't)
+- what ILER can be used for: disability ratings and health care
+- how to read the data contained in the ILER
+- that the VA is aware there are errors in the data
+- whom to contact and links to how to contact in order to rectify these errors
+
+VA Profile can work with stakeholders and CAIA to draft this content.
+
 # Sources
 
 ILER Fact Sheet (https://www.docs.lms.va.gov/LMSDocs/Docs/131531/ILERFactSheet_508Certified.pdf)
@@ -258,5 +268,6 @@ Staff Use of Military Toxic Exposure Records
 May 2024
 https://www.gao.gov/assets/gao-24-106423.pdf
 
+MURAL: 
 
 TERA: https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Temporary-Early-Retirement-Authority-(TERA)?serv=122
