@@ -81,6 +81,12 @@ body:
       placeholder: ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
     validations:
       required: true
+  - type: checkboxes
+    id: lighthouse
+    attributes:
+      label: Lighthouse?
+      options:
+      - label: I'm on a Lighthouse team
   - type: textarea
     attributes:
       label: e-App (aka E-QIP) Transmittal Confirmation
@@ -89,11 +95,13 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: lighthouse
+    id: passphrase
     attributes:
-      label: Lighthouse?
+      label: SSH Key Passphrase
       options:
-      - label: I'm on a Lighthouse team
+      - label: Please check this box to confirm that your SSH key has a strong passphrase
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
