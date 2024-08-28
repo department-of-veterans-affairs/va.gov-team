@@ -143,6 +143,7 @@
   - [cie-bash](https://github.com/department-of-veterans-affairs/cie-bash/)
   - [cie-datadog-log-forwarder](https://github.com/department-of-veterans-affairs/cie-datadog-log-forwarder/)
   - [cie-downstream-api](https://github.com/department-of-veterans-affairs/cie-downstream-api/)
+  - [cie-github-actions](https://github.com/department-of-veterans-affairs/cie-github-actions/)
   - [cie-staging-scheduler](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/)
   - [cie-terraform-modules](https://github.com/department-of-veterans-affairs/cie-terraform-modules/)
   - [cie-upstream-api](https://github.com/department-of-veterans-affairs/cie-upstream-api/)
