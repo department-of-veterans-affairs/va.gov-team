@@ -4,19 +4,18 @@ Last updated by @beckyphung on August 28, 2024
 
 **Jump to:**
 - [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Outcomes](#outcomes)
+- [Problem statement](#problem-statement)
+- [Desired user outcomes](#desired-user-outcomes)
+- [Desired business outcomes](#desired-business-outcomes)
+- [Initiatives](#initiatives)
+- [Measuring success](#measuring-success)
 - [Assumptions](#assumptions)
-- [Measuring Success](#measuring-success)
-- [Solution Approach](#solution-approach)
-- [Launch Strategy](#launch-strategy)
-- [Examples of Design Updatess](#examples-of-design-updates)
-- [Team and Stakeholders](#team-and-stakeholders)
+- [Solution approach](#solution-approach)
 
 ## Overview
 The Contact us page ([va.gov/contact-us](va.gov/contact-us)) on VA.gov helps people get answers to questions about VA benefits and services by connecting people to the following types of customer support channels: self-service, live agent, and asynchronous agent.
 
-## Problem Statement
+## Problem statement
 We stood up the Contact us page quickly in 2020 and have made ad-hoc updates since then. It consistently gets the lowest customer satisfaction scores compared to other pages on VA.gov. As of 2024, its CSAT score is around 20%. VA.gov's overall CSAT score is around 60%. View these scores in the [VA.gov CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322).
 Many of the responses to the feedback button and intercept surveys through Medallia are related to people’s actual customer service experience (less within our scope to improve):
 > I then tried to call your office at the number provided, and ran into a rat maze of menu options, none of which addressed my questions or offered a "something else" option to speak with someone who could help me.
@@ -26,36 +25,44 @@ However, some of the responses are related to people’s experience with finding
 
 First, we’ll conduct [usability tests](link to research plan) for the current Contact us page. **Research insights will help us understand the exact challenges we should prioritize when redesigning Contact us.**
 
-## Desired User Outcomes
+## Desired user outcomes
 -	**Self-service channels**: People can find solutions independently through resources provided by VA. 
 -	**Live agent**: People can find ways to talk to a person in real-time, through calling or chatting with a live agent .
 -	**Asynchronous agent**: People can find ways to send messages or questions on their own time and review responses later .
   
-## Desired Business Outcomes
--	[business outcome]
-  
+## Desired business outcomes
+-	People get quicker resolution because they're able to find support more efficiently and easily.
+-	More people access VA benefits and services because they're able to resolve blockers through support.
+-	People trust VA more because support channels, especially the website, can provide needed answers.
+
+## Initiatives
+### Contact us page initial improvements (2024)
+- **Description**: We'll make improvements to Contact us based on: user research, a review of other support experiences on websites/mobile apps, and a review of current analytics and user feedback.
+- **Timing**: FY24 Q4 (Jul to Sep) to FY25 Q1 (Oct to Dec)
+- **Objective**: Increase customer satisfaction score to 25%.
+- **Key results**:
+   - User insights based on Medallia survey responses
+   - Product metrics from Google analytics and Medallia survey responses
+   - Review of other support experiences on websites/mobile apps
+   - User insights based on user research
+   - Recommendations for initial improvements
+   - Initial improvements made on Contact us after identifying available resource(s) who can do the work
+
 ## Measuring Success
-See more information in our [Product metrics for ‘Contact us’ page](link) doc.
+See more information in our [Product metrics for ‘Contact us’ page](🟡 need to add link) doc.
 
 ### Key Performance Indicators (KPIs)
 Key Performance Indicators (KPIs) help us understand how the Contact us page is meeting expected user outcomes.
 We primarily track customer satisfaction (CSAT) right now. Below is our average CSAT score by year compared to VA.gov overall.
 |Year| ‘Contact us’ page | VA.gov all pages | 
 |----------|-------------| -------------|
-|2024 (as of 8/21/24)|21.89% (273 responses)|56.86%(42932 responses)|                     
+|2024 (as of 8/21/24)|21.89% (273 responses)|56.86% (42932 responses)|                     
 |2023|18.22% (518 responses)|52.49% (70716 responses)|
 
-### Objectives and key results (OKRs)
-[tbd]
-
 ## Assumptions
-[tbd]
-1.	[Assumption]
-2.	[Assumption]
-3.	[Assumption]
+1.	People will prefer different contact channels in different contexts. For example, if people aren't confident they know which phone number to call, then people will prefer online tools for support. If people feel confident that a phone agent will be able to answer their question, then people will prefer phone calls for support. 
+2.	When people already have an expectation on what kind of support channel they want (ex: phone number), they'll feel frustrated if there are additional barriers to getting to that information. 
+3.	People land on Contact us when they're already frustrated with a VA experience.
 
 ## Solution Approach
-We currently list contact options and other support channels on a single page on VA.gov. 
-
-## Initiatives
-[tbd]
+🟡 tbd, pending insights from user research
