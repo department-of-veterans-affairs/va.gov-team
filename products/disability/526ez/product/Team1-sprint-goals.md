@@ -10,7 +10,7 @@ Period 8/28 - 9/10
 
 **Submission Experience**
 - Revise design for Timely and Truthful
-- Refine ideas from ideation workshop
+- Reflect insights from ideation workshop
 
 
 ## Sprint 4
