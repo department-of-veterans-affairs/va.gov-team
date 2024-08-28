@@ -53,7 +53,7 @@ We will have a backup Figma prototype ready in case anything goes wrong with sta
 
 ### Research materials
 - [Link to conversation guide for Cohort 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/2024-09-%20Caregivers%20Study%20-%20form%20content%20and%20user%20interviews/convo-guide-cohort1.md)
-- [Link to conversation guide for Cohort 2](Link will go here)
+- [Link to conversation guide for Cohort 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/2024-09-%20Caregivers%20Study%20-%20form%20content%20and%20user%20interviews/convo-guide-cohort2.md)
 - [Link to 10-10CG form in production](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction)
 
 	
