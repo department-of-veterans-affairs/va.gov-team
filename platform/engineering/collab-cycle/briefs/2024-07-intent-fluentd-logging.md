@@ -43,6 +43,29 @@
 
 **Rollout plan:** Initial Fluentd deployment can be validated in dev environment with the first pass being that all logs continue to flow to Datadog. Introduce additional routing rules iteratively. 
 
- <!-- links -->
+**Internal administration tasks:** 
+* As usage of this evolves it may be necessary to tweak the FLuentD agent configuration - e.g. to update or add log filters/patterns for forwarding to Event Bus. These should optimally be defined in source control-managed configuration and deployed automatically. 
+
+
+## Security Checklist Commentary
+
+**PII and PHI handling**
+* This solution *does* propose to log PII including ICNs and other veteran identifiers associated with various submissions/transactions.
+* However, I believe the intended outcome is that no PII or PHI may be logged **to Datadog** due to its ATO.
+* This solution can enable selective logging of PII to other destinations like Kafka and Splunk that are approved to house PII (though it should still be done thoughtfully).
+* In particular, if library methods are provided that explicitly express the intent of "I am logging PII" (to Datadog/Splunk) then the log payload can be tagged as having PII and explicitly excluded from Datadog.
+
+**Data retention**
+* FluentD itself retains no data.
+* The upstream destinations for transaction data (Kafka, CXI data warehouse) define their own data retention policies per their ATOs.
+
+**Data encryption**
+* The Enterprise Event Bus Kafka instance does not allow plaintext connections.
+
+**Authentication and authorization**
+* The Enterprise Event Bus Kafka instance uses MSK IAM authentication, which combines use of AWS IAM roles with OAuth bearer tokens for client authentication/authorization.
+* No static API keys 
+
+<!-- links -->
 [logging-proposal]: https://dvagov-my.sharepoint.com/:w:/r/personal/patrick_vinograd_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7Bb09703bb-802b-4a1b-9ec6-3087ab7b5766%7D&action=view&wdAccPdf=0&wdparaid=143C6D6D
 [fluentd]: https://www.fluentd.org/
