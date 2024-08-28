@@ -6,7 +6,7 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Open and prepare prototype for facilities search -- ONLY if not ready in staging/production
+- [ ] Open and prepare prototype for facilities search -- **ONLY if not ready in staging**
 
 
 ### Day of the session
@@ -62,8 +62,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
    - If yes: [Should be no based on screener criteria but pivot to convo guide for cohort 1]
 
-
 - Have you ever heard of that program before?
+- Do you ever interact with the VA for family member benefits?
+- How would you like to learn more about caregiver programs and benefits you may qualify for?
+- In doing this research, can you describe to me what you would like to know when in the application process?
+- Is there any information that you would also like to be reminded of during the application?
+- [Prompt if needed: For example, would it be helpful to you to see eligibility information about the program when applying vs before-hand?]
+
 
 
 ## First Task: [Introduction page] - 5 minutes
@@ -73,7 +78,7 @@ Before we look at the website, let’s start with a few warm-up questions.
   
 - [Link to [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)]
 
-- Review this page and tell me about your intial thoughts and expectations of this information before applying.
+- Review this page and tell me about your intial thoughts and expectations of this information you see.
 
 **Participant ratings:**
 On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
@@ -92,7 +97,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 ## Second Task: [Veteran inforamtion] - 5 minutes
 - Now start the application as if you were applying.
 - This is our staging site don't worry about information going anywhere and also please remember to talk alout about what you are thinking.
-- Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share.
+- Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share {but I will provide you some information to enter.}
 - [If they pause on the county field, ask additional questions: I see you are pausing on this, can you tell me more about (xyz...)]
 
 
@@ -119,7 +124,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - Can you explain to me how your location choice is part of the caregiver application process?
 
   
-- Let's imagine you want to change the location you have selected - you are moving soon - by doing a new search.
+- Let's imagine you want to change the location you have selected - you are in the process of moving - by doing a new search.
 - Can you walk me through how you would accomplish that?
 
 
@@ -166,11 +171,11 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - When completing this application for real, can you tell me how would you coordinate getting this information from everyone involved?
 - Would you sit down and complete this application together?
 - Or would you prefer to have help completing this application from an accredited representative or someone else from the VA?
-- Thinking of an ideal scenario, can you describe for me what would work best for you if you had to complete an application with multiple people
+- Thinking of an ideal scenario, can you describe for me what would work best for you if you had to complete an application with multiple people.
 
 
-- What research would you have done before applying?
-- Would you like additional information about who qualifies for the 2 caregiver roles when completing the application? Or is that just redundent at the point of applying and not useful?
+- Would you like additional information about who qualifies for the 2 caregiver roles when completing the application?
+- Or is that just redundent at the point of applying and not useful?
 
 
 
@@ -210,9 +215,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 ## Confrimation Page + Post Task Interview - 5 minutes
 
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
-
-- If you had a magic wand and in your perfect world, what would you like to see here?
-- What would you want to happen next?
+- If you had a magic wand and in your perfect world, what would you like to see here? What would you want to happen next?
 
 
 
