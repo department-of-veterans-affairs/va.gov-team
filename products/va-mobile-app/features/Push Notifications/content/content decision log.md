@@ -1,6 +1,14 @@
 # Content decision log - Push notifications
 
 
+## V2b decisions
+Update copy to biometric opt-in screen
+
+| Screen name            | Screenshot with updated copy            | Explanation        | Decision made by | Date                 |
+| :-------------      | :-------------      | :-------------              |:-------------         |:-------------|
+|Biometric option screen | <img width="262" alt="Screenshot 2024-08-28 at 9 44 38 AM" src="https://github.com/user-attachments/assets/aca21ccd-96f7-4f32-b10d-43a78a7b506c"> | During implementation with engineering, we realized there are 3 biometric options: Face ID, Touch ID, and Fingerprint. (Fingerprint is a proper noun.) The original copy for this screen was created for just Face ID. We updated the copy to work with all biometric opt-in options. For Touch ID and Fingerprint options, the dynamic copy in the first sentence of the body copy is "fingerprint". And for Face ID, it is "face." | Misty Milliron-Grant | 8/28/2024 |
+
+
 ## V2a decisions
 After getting feedback from a stakeholder, we updated the secondary button for both the Face ID and Push context screens from "Skip" to "Skip for now". All other decisions remain the same.
 
