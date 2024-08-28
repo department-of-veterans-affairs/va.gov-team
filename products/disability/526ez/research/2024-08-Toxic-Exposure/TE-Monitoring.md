@@ -100,7 +100,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**WIP How interaction changed trust**||  | | |
 
 ### Toxic Exposure feature
-|**Data point**|**Pre-Launch**| **1.0 25%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
+|**Data point**|**Pre-Launch**| **1.0 50%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
 |--|--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
 |**Feedback satisfaction**|||
