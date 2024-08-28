@@ -41,195 +41,115 @@ We will run a moderated usability study remotely on Zoom. We will mock the sign 
 
 |Hypothesis|Conclusion|Explanation|
 |:--|:--|:--|
-|Veterans will think headers, labels and links are descriptive and clear.|Mostly True| |
-|Veterans will be able to interact with all elements using only their keyboards or other devices.|Mostly True| |
-|Veterans will be oriented and still able to use the form when magnified.|Mostly True| |
-|Veterans will understand that information has been pre-filled from 'their' account and know how to update it.|Mostly True| |
-|Veterans will understand their progress in the form with or without visual cues.|Mostly True| |
+|Veterans will think headers, labels and links are descriptive and clear.|Mostly True|Most headers, labels and links were descriptive and clear. But, there was some confusion between next and continue, to provide one example.|
+|Veterans will be able to interact with all elements using only their keyboards or other devices.|True|Veterans were able to interact with all elements using their assistive technology.|
+|Veterans will be oriented and still able to use the form when magnified.|Mostly True|Mostly, Veterans did not face any issues due to magnification. However, one person clicked continue instead of search due to magnification.|
+|Veterans will understand that information has been pre-filled from 'their' account and know how to update it.|Sometimes True|Veterans were slightly confused by prefilled contact information, but this is also due to testing with mock data. We also didn't include a prefill alert, letting them know the information has been filled in already. People were sometimes not sure whether a field was filled already or not.|
+|Veterans will understand their progress in the form with or without visual cues.|Mostly True|The visual aspect of the progress bar didn't provide any more description as to where you are in the form, so screen reader users had a very similar experience with the progress bar. There were mixed feelins on whether it was necessary but it didn't deter or confuse nearly anyone.|
 |Sign in will be a barrier for some Veterans using a screen reader or magnification.|Not Enough Information|We mocked sign in for testing.|
 
 ## Key findings
 
-1. People use date last updated and status to find items that have a reply or should have a reply soon.
-2. Question and category provide keywords that help people skim and identify particular items.
-3. Education business submitters organize their inquiries by student name.
-4. It can be confusing deciphering between new and in progress, but reopened and solved are well understood.
-5. There's an expectation that inquiries marked as solved by VA will not actually feel solved for Veterans.
-6. It's more intuitive to read and save a conversation that's in chronological order.
+1. Most Veterans can easily complete the form without help, but struggle to imagine using Ask VA over another tool.
+2. The progress bar can be useful as a consistent anchor on each page.
+3. People seek a specific category and topic, and they would find it easier to choose from shorter lists.
+4. Some people click continue instead of search or next (page of results) instead of continue.
+5. Veterans consistently misinterpret the military postal code checkbox and the additional info doesn't help clarify.
+6. It's not always clear to screen reader users when information is prefilled in the form.
+7. The review and submit page is repetitive, particularly for screen reader users.
 
 ## Details of findings 
 
-### Finding 1: People use date last updated and status to find items that have a reply or should have a reply soon.
+### Finding 1: Most Veterans can easily complete the form without help, but struggle to imagine using Ask VA over another tool.
 
-_Labels: `PRDT: AVA`, `AUD: Veterans`, `AUD: School Certifying Officials (SCO)`, `DSC: Card`_
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-Tracking dates is important because people expect delays from VA and, for business submitters, need to ensure compliance.
+Description
 
-However, multiple similar dates can be confusing.
+> Quote
 
-People primarily focus on 'last updated' date and status to determine if a question has been answered or when to expect a reply. 
+### Finding 2: The progress bar can be useful as a consistent anchor on each page.
 
-> "Last updated would let me know if you've done anything on it, like, I use the claims portion of the VA website, and that lets me know if they've worked on it."
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-> "I put a date and a time that I submitted it and then they know, I did it, this when I did it. This is the date I did it. If anybody asks, you know."
+Description
 
-> "We're trying to check the status [to know] how much longer it's gonna be before they work on it [...] and [they're] doing it in a timely manner."
+> Quote
 
-> "[Date at the top is] when it was submitted. But a little bit of a question mark [...] because then there's multiple dates shown elsewhere..."
+### Finding 3: People seek a specific category and topic, and they would find it easier to choose from shorter lists.
 
-### Finding 2: Question and category provide keywords that help people skim and identify particular items.
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-_Labels: `PRDT: AVA`, `AUD: Veterans`, `AUD: School Certifying Officials (SCO)`, `DSC: Card`_
+Description
 
-People would prefer to search for items using category labels or keywords.
+> Quote
 
-Also, skimming questions written verbatim helps in identifying items.
+### Finding 4: Some people click continue instead of search or next (page of results) instead of continue.
 
-This is particularly useful when someone is trying to recall a past question. For example, to re-read the response from VA or to check whether they've already asked before they submit a new question.
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-> "If I know what I'm looking for a response [to], I might not remember the date I sent the request. But, I'll know what I asked the question about. So it's easier to find an answer that I'm looking for."
+Description
 
-> "If I have many questions [...] for some reason there's no filter up in the top to filter for the category. I would be annoyed there's no filter [for category] [...] Last updated, I don't think I would use that to find it."
+> Quote
 
-> "There [could] be a way to sort just the healthcare stuff, and I could look through that and see, okay, I was asking about disability here. I was asking about renal failure here. Because you could read your question."
+### Finding 5: Veterans consistently misinterpret the military postal code checkbox and the additional info doesn't help clarify.
 
-> "Let's see, [the question says] time card attached so that [must] be a work study submission."
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-### Finding 3: Education business submitters organize their inquiries by student name.
+Description
 
-_Labels: `PRDT: AVA`, `AUD: School Certifying Officials (SCO)`, `DSC: Card`_
+> Quote
 
-Education business users use student names to match Ask VA questions to their paper or digital case folder.
+### Finding 6: It's not always clear to screen reader users when information is prefilled in the form.
 
-Some business submitters use the reference number to distinguish between and recall items. Most people, however, don't use the reference number much. It may only become useful if they need to call VA to follow up.
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-> "For submitting a time sheet [...] last name. I might include the word  timesheet or time card. I might put the month and date on there for my own purposes. So I know when I'm submitting it."
+Description
 
-> "It feels like pointing out the obvious, but yes, I would need to know who I was asking about [to match a question to a case folder]."
+> Quote
 
-> "I feel like [the reference number is] just a tracking mechanism. I don't [use the reference number]."
+### Finding 7: The review and submit page is repetitive, particularly for screen reader users.
 
-> "We'll do a screenshot of that 'A number' and then we put it with that file so we know what the number is in association to what file we're submitting. Whether I've the SCO hat on or work study."
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-### Finding 4: It can be confusing deciphering between new and in progress, but reopened and solved are well understood.
+Description
 
-_Labels: `PRDT: AVA`, `AUD: Veterans`, `AUD: School Certifying Officials (SCO)`, `DSC: Card`_
-
-Veterans use the claims process to understand Ask VA statuses. This mental model is reference often and helps people know what to expect.
-
-'In progress' is generally understood as, "they're working on it."
-
-But, 'New' is hard to distinguish from 'In progress.' In some cases, people think 'New' means they have a new reply.
-
-'Reopened' is well understood and it gives people peace of mind knowing their question can be opened again.
-
-> "So you probably have like 5 or 6 of those [statuses]. So, new, solved, under review, or something like that. Ways for a person to kind of know, where's that in the queue."
-
-> "In progress, they've read it, and they're working on a response."
-
-> "I don't know if 'New' means, if that's a new question that I created, or if that means I've got a new reply from back from the VA."
-
-> "I'm just curious about 'New' versus 'In Progress'. So if it's a new request that I send in, it should be 'In Progress', or it should be 'Solved.' I don't know why there's a 'New' status."
-
-### Finding 5: There's an expectation that inquiries marked as solved by VA will not actually feel solved for Veterans.
-
-_Labels: `PRDT: AVA`, `AUD: Veterans`, `DSC: Card`_
-
-People understand that 'Solved' means there's a reply from VA.
-
-But, Veterans have low expectations something marked as 'Solved' will actually feel solved to them. Even before they read the reply, they anticipate frustration.
-
-Fittingly, VA's reply was often misunderstood, 'too long' or 'obviously copy and pasted.'
-
-If responses are not specific and personal, people prefer to use instant, automated tools. This includes business submitters, who turn to Ask VA for more complex questions, expecting more specific answers.
-
-> "I'm assuming the 'Solved' [means] your issue was resolved, or whatever question you had was answered."
-
-> "[It's typical] VA, like, no, you don't qualify for that, and that's the end of it. They say it's solved and, well, I still have my issue. What else? What other things are available? What other resources are available to me?"
-
-> "It's telling you what alphabet suit group is responding. That this is for family members of service members. Veterans kind of blah blah blah. Okay. So in other words, no, you don't get nothing."
-
-> "The status that says 'Solved.' Does that mean that they've provided me an answer to the question I asked or that whatever I'm mailing to them has been solved?"
-
-### Finding 6: It's more intuitive to read and save a conversation that's in chronological order.
-
-_Labels: `PRDT: AVA`, `AUD: Veterans`, `AUD: School Certifying Officials (SCO)`, `DSC: Accordions`_
-
-The order of the question details page surprised and frustrated people, who expect to read the VA's reply before they choose whether to reply back.
-
-It's easier for people to read a conversation in chronological order, similar to an email chain.
-
-Also, business submitters need to print the conversation for their files. They currently use workarounds, like creating a Word document, to save the conversation in an easy to read format.
-
-Many people aren't sure how to print without a print button.
-
-> "You could have either the email format where [I'd] see the answer 1st or  [my] entire question with the details [...] could be [over] to the side [so] I can see them both at the same [time]."
-
-> "Oh, I had to scroll down to the bottom. Hmm, wait, what? So there's a section where I could actually reply again to it [in] the middle before I get down to see what the VA sent."
-
-> "I print out the response because we have to have documentation to show the reason why we're doing what we did or the reason why."
-
-> "I'm assuming I could click it and let's see... I'd probably snip it if I couldn't [print] because I don't see it. I don't know that I see an easy... a way to print it. Does that... unless I hit expand all I don't know if that helps or not? So, I probably have to go in and snip it and make it snippet and put it into a Word document."
+> Quote
 
 ## Additional insights
 
-- Most people immediately understand that this was where they can find their previous questions.
-- It's easy for people to find the 'Ask a new question' call-to-action.
-- How to sort using dropdown list is well understood.
-- Check details link is well understood.
-- How to send a reply is well understood.
-- People can return to their dashboard after submitting a reply.
-- When business tab is first, it's saves an extra click and helps hide personal questions.
-- Knowing how long it takes to receive a reply helps people understand Ask VA.
-- Veterans will look for Ask VA in the app or under Contact Us.
-- Those familiar with VA.gov, expect  questions to show up in My VA.
+- There's a known bug where updates on the review page are triggering success messages on multiple, unrelated fields.
+- Error messages are triggering early on radio buttons when using keyboard navigation.
+- Focus behavior for groups should be consistent, and it should be clear when something is a group of radio buttons or checkboxes.
+- It may not be clear to people that when they want to read the reply, they should sign back into VA.gov.
 
 ## Recommendations
 
-1. Make it easier to compare last date updated with date submitted.
-2. Help people find items based on category (now) or keyword search (in the future).
-3. Remove 'New' status and start with 'In progress' to lessen confusion.
-4. Change 'Solved' status to 'Closed' or 'Replied' to clarify intent.
-5. Recommend plain language overhaul of responses from VA.
-6. Move 'Your question' to 'Your conversation' and 'Send a reply' to the last item on the page.
-7. Add print button to question details page.
-8. Reiterate that a question has been 'Reopened' on the reply confirmation page.
-9. Add 7 day turnaround time to subtitle on unauthenticated and auth homepages.
+We are currently writing recommendations.
 
 ## Next steps
 
-- [ ] Update hierarchy of information on dashboard cards – [#1185](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1185)
-- [ ] Add category sort menu to dashboard – [#1186](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1186)
-- [ ] Discuss changes to statuses with CRM team – [#1187](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1187)
-- [ ] Coordinate with CRM team to share feedback on VA responses – [#1120](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1120)
-- [ ] Update hierarchy of information on details page – [#1188](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1188)
-- [x] Add print button to details page – [#1115](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1115)
-- [ ] Update content on reply confirmation page – [#1189](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1189)
-- [ ] Add turnaround time to subtitle on homepages – [#1190](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1190)
+- [ ] Next step – [#Ticket](add link)
+- [ ] Next step – [#Ticket](add link)
 
 ## Further research needed
 
-We are planning additional research on the dashboard with assistive technology users in August-September 2024. We'll reassess changes we've made to the user experience at that point, and also understand how they work for people who use assistive technology.
+We will test the dashboard with people who use assistive technology next.
 
 ## Appendix
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/05-2024%20Dashboard/Research%20plan.md)
-- Conversation guides
-  * [Conversation guide - Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/05-2024%20Dashboard/Conversation%20guide%20-%20Veterans.md)
-  * [Conversation guide - Business](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/05-2024%20Dashboard/Conversation%20guide%20-%20Business.md)
-- [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/05-2024%20Dashboard/Transcripts)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Research%20plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Conversation%20guide.md)
+- [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Transcripts)
 
 ## Tools used for synthesis
 
-- [Mural: Research sessions](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716913840166/b6123f017c6d5763aaabd75330d3bbe306a51883?sender=u65f0a75fc7c68f2a5a2a9545)
-- [Mural: Research synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719335009556/8d088afe6b81e8180658a6841eb5e393f981d651?sender=u65f0a75fc7c68f2a5a2a9545)
+- [Mural: Research sessions](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722460092015/0bf78ef53844c8472136decc80b3598db8f1468a?sender=u65f0a75fc7c68f2a5a2a9545)
+- [Mural: Research synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724167839998/a0bd920f8ea2bae5d2214ea8fe24e04bd483ca5e?wid=0-1724852719283&sender=u65f0a75fc7c68f2a5a2a9545)
 
 ## Pages and applications used
 
-- [Prototype - Veterans, Desktop](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=86-113153&t=iofC6kYKXWHuPxCY-1&scaling=min-zoom&page-id=44%3A97142&starting-point-node-id=86%3A113153)
-- [Prototype - Veterans, Mobile](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=86-103005&t=m7chNSIuvBg5Ov3i-1&scaling=min-zoom&page-id=4%3A3&starting-point-node-id=86%3A103005)
-- [Prototype - Business, Desktop](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=95-155315&t=ODmwq4bssm9Grwd6-1&scaling=min-zoom&page-id=95%3A133903&starting-point-node-id=95%3A155315)
-- [Prototype - Business, Mobile](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=95-165205&t=0YLSMOGWiMbiJaC1-1&scaling=min-zoom&page-id=26%3A42405&starting-point-node-id=95%3A165205)
+- [Staging link](https://staging.va.gov/contact-us/ask-va-too/)
 
 ## Secondary research
 
