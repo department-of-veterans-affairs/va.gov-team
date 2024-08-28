@@ -8,7 +8,7 @@
 - [Review each scenario - 10 minutes](link)
 - [Cool down – 5 minutes](link)
 - [Pause or exit strategies](#pause-or-exit-strategies)
-- [Approved by:](#link)
+- [Approved by:](#approved-by)
   
 ## Moderator logistics
 ### 2-3 days before the session
@@ -16,27 +16,32 @@
   
 ### Before all sessions
 - Review [Conducting moderated sessions guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#Conductingmoderatedsessions-Generalmoderatingtips:)
-- Review [research goals](link to section in research plan)
+- Review [research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Research%20plan.md#research-goals)
 - Review participant list for name and screen responses
   
  ### 10 minutes before the session
 - Start a thread in #feedback-backchannel
 > P[#] - **"Find help on Contact us" study** starts in 10 minutes :thread:
+> 
 > How to observe this session:
-> - Open [this Mural board](link to Mural for notetaking)
-> - Review these [notetaking](https://depo-platform-documentation.scrollhelp.site/research-design/notetaker-guidelines) or [observing](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) guidelines as needed.
+> - Review these [observing](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) guidelines if you need to.
 > - Expect to wait in the waiting room. Once/if the participant says it's okay, I'll let you in.
 > - Turn your camera on for a quick hello. You can just say your name and your role.
 > - Use this :thread: and don't use the Zoom chat. Thanks!
-> About this session:
-> - They should be joining from their [phone or laptop].
-> @[observer name] @[observer name]`
+>   
+> For Perigean and notetaking
+> - Open [this GitHub](🟡 link to GitHub doc for notetaking)
+> - If the participant mentions any PII, don't note it down! Put `PII` in the notes instead.
+> - Review these [notetaking](https://depo-platform-documentation.scrollhelp.site/research-design/notetaker-guidelines) if you need to.
+> 
+> About this session: They should be joining from their [phone or laptop].
+> Observers: @[observer name] @[observer name]`
 
 - Sign into Perigean’s Zoom and start the meeting
 - Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
 - Check Zoom settings and make sure participants have permission to share
 - Open conversation guide
-- Open [‘Contact us’ page on VA.gov’](https://www.va.gov/contact-us/)
+- Open https://www.va.gov/contact-us/
 - Copy `https://www.va.gov/contact-us` into Zoom chat
 - Mute your Slack notifications
 
@@ -86,13 +91,13 @@ And **Are you comfortable if we share video clips with our colleagues at VA if w
 It seems like we’re ready to get started. I'd like to begin by learning more about your experience with VA customer support.
 
 - How long have you been a Veteran?
-- Have you ever used the ‘Contact us’ page on VA.gov? 
+- Have you ever used the Contact us page on VA.gov? 
    - `IF NO`
-      - Why might you use the ‘Contact us’ page? 
+      - Why might you use the Contact us page? 
       - What would you expect to see on it?
       - How else have you found contact information or answers to your questions?
    - `IF YES`
-      -  Can you walk me through that experience of using the ‘Contact us’ page?
+      -  Can you walk me through that experience of using the Contact us page?
       - Did you find what you were looking for?
       -  Did you try to find answers online first? 
       -  How did you find the right contact information?
