@@ -7,6 +7,57 @@ Resources:
 - Link 2
 - Link 3
 
+Jump to:
+- [Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#hypotheses-and-conclusions)
+- [Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#key-findings)
+- [Details of Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#details-of-key-findings)
+- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#recommendations)
+- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1)
+
+## Hypotheses and Conclusions
+
+### General referrals
+- The majority of Veterans will use the term “referrals” when referring to community care requested and approved by VA. 
+  - LIKELY TRUE
+### New referrals
+- Veterans expect to receive notifications about referrals and find their new/active referrals on the Appointment list.
+  - MAYBE TRUE
+- Veterans will be looking for general referral information around type of care and number of visits approved, as well as information on the provider and location preferences they previously indicated.
+  - MABYE TRUE
+- The concept presented (using the task card to surface actionable referrals on the appointment list, while including all referrals within the Pending appointments) will align with Veterans’ expectations of new/actionable referrals.
+  - LIKELY TRUE
+
+### Past referrals
+- Veterans expect to find information on past referrals somewhere in Pending appointments or within medical records on MHV.
+  - SOMEWHAT TRUE  
+- Veterans will be looking for general information around type of care, number of visits approved, and referring VA facility.
+  - INCONCLUSIVE 
+- Veterans need to be able to access referrals as part of their records, and will want to use past referrals to obtain another referral of the same kind.
+  - INCONCLUSIVE 
+- The concept presented (referrals housed within Pending appointments) will not align with where Veterans expect to find referrals.
+  - LIKELY TRUE 
+
+### Scheduling Flow
+- Veterans will find it easy to start the scheduling process via text or email notification, as the steps follow a similar process as other VA reminders and prompts.
+  - DEFINITELY TRUE 
+- **Referral expiration:** Veterans will find the expiration date helpful, but might be confused by the duration it's good until. 
+   - DEFINITELY TRUE  
+- Veterans will easily find a provider and schedule an appointment.
+  - LIKELY TRUE
+- **Referral page:** Veterans will understand their referral information but will not know what it means for scheduling options until arriving on the provider list.
+  - LIKELY TRUE  
+- **Sort and filter:**
+  - Veterans will easily use the sort/filter options to find a provider.
+    - HYPOTHESIS: LIKELY TRUE
+  - Veterans will find the filters extremely helpful when searching for a provider. 
+    - INCONCLUSIVE 
+- **Review page:** Veterans will understand the information on the Review page and will know how to edit their choices.
+  - DEFINITELY TRUE 
+- Veterans expect to find information on all eligible providers they can choose from, regardless of if they can schedule via self-scheduling or by phone.
+  - DEFINITELY TRUE  
+- Veterans will expect more filtering options and additional provider information.
+    - DEFINITELY TRUE
+
 ------
 ------
 ## Key Findings
