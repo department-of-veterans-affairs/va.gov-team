@@ -57,15 +57,19 @@ Before we start, I have a few things that I want to go over with you:
 
 ## Warm-up Interview Questions - 10 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at the caregvier program form, let’s start with a few warm-up questions.
 
 - Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
    - If no: [Should be yes based on screener criteria but pivot to convo guide for cohort 2]
 
-- How long ago was that when you applied?
+- Can you confirm you applied [x months] ago? [from recruit screener) 
 - Are you a primary or secondary caregiver?
-- Did you complete the application in person, at a facility or online?
+- Did you complete the form in person, at a facility or online?
+
 - Do you mind telling us more about that experience?
+- What did you in preparation for completing the application?
+
+- 
 - Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
 - What would you say was the most challenging part of the application process that you wish you would have know upfront?
    - [Re-word prompt] Thinking back, what would you change so the process is better for the next Caregiver/Veteran applying?
@@ -108,7 +112,6 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - [first name: WESLEY]
 - [last name: FORD]
 - [Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) or [Test User Dashboard (TUD)](https://tud.vfs.va.gov/) for additional Password, SSN, DOB information]
-
 
 
 
