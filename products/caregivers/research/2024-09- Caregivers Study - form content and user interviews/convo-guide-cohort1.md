@@ -57,10 +57,10 @@ Before we start, I have a few things that I want to go over with you:
 
 ## Warm-up Interview Questions - 10 minutes
 
-Before we look at the caregvier program form, let’s start with a few warm-up questions.
+Before we look at the caregvier program form, let’s start with a few warm-up questions about your [caregiver/Veteran] application experience.
 
 - Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
-   - If no: [Should be yes based on screener criteria but pivot to convo guide for cohort 2]
+   - If no: [Should be yes based on screener criteria - but pivot to convo guide for cohort 2 and note]
 
 - Can you confirm you applied [x months] ago? [from recruitment screener question) 
 
@@ -68,16 +68,15 @@ Before we look at the caregvier program form, let’s start with a few warm-up q
 
 - Are you a primary or secondary caregiver? 
 
-- Did you complete the form in person, at a facility or online?
+- Did you complete the 10-10CG form in person, at a facility or online?
 
-- Do you mind telling us more about that experience?
-- What did you in preparation for completing the application?
+- What did you in preparation for completing the [online/paper/in person] form?
+- Do you mind telling us more about your overall application experience?
 
-- 
 - Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
 - What would you say was the most challenging part of the application process that you wish you would have know upfront?
    - [Re-word prompt] Thinking back, what would you change so the process is better for the next Caregiver/Veteran applying?
-- Anything else that you would like to share about your exerience with the application? Good or bad
+- Anything else that you would like to share about your exerience with the caregiver program application form? Good or bad
 
 
 ## First Task: [Introduction page] - 5 minutes
