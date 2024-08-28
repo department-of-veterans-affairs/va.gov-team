@@ -99,7 +99,7 @@ _[Jump to Recommendations](https://github.com/department-of-veterans-affairs/va.
 
 ------
 ------
-## Details of Findings
+## Details of Key Findings
 
 ### Referrals
 
