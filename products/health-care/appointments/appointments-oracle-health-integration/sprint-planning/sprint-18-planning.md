@@ -24,13 +24,13 @@ In Sprint 17, the team provided support for multiple features and initiatives, o
 * #### Backend support for Oracle Health to enable direct scheduling
   * Updated VetsAPI Patient Gateway (VPG) to retrieve VistA clinics with established patient relationships.
   * Addressed technical debt by removing identifier payload from converted FHIR appointments to eliminate confusion regarding appointment sourcing.
-  * Enhanced VPG to utilize the latest available filters for Oracle Health relationship data.
+  * Enhanced VPG to utilize new location and service filters for Oracle Health relationship data.
   * Added test cases to the slot search capability to ensure robustness of the service.
-  * Removed sources array from the relationships endpoint.
+  * Refined the relationships endpoint contract to remove obsolete sources array.
 
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities 
    * Added support for the "_id" search parameter in the Clinical Encounter Service to enhance search capabilities.
-   * Updated VetsAPI Patient Gateway to replace mockserver with WireMock, given the discontinuation of mockserver support.
+   * Updated VetsAPI Patient Gateway to replace mockserver test framework with WireMock, given the discontinuation of mockserver support.
    * Modified Clinical Encounter Service to prevent redundant read calls to EHRs for appointment reads by implementing an in-memory cache.
 
  
