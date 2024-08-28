@@ -19,5 +19,5 @@ Our research goals are to:
 We already know there are different ways other websites and mobile apps have approached effective support experiences. We’ll use this research to inform how we’ll update the Contact us page.
 
 ## Timeline
-Start date: August 30, 2024 (Research review submitted)
-End date: October 2, 2024 (Share findings and recommendations)
+- **Start date**: August 30, 2024 (Research review submitted)
+- **End date**: October 2, 2024 (Share findings and recommendations)
