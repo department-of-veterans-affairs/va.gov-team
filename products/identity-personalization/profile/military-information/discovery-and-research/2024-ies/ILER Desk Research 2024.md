@@ -222,11 +222,17 @@ Why: Though “IES” is the technically correct (“the best kind of correct”
 
 Check back in with VEO and stakeholders if their requirements previously stated for MOS data is relevant here: [“Recently, VEO asked the VA.gov Profile team to enhance the military history section of the profile in order to aid veterans applying for benefits (especially disability claims).”](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md#key-findings)
 
-### Test all designs related to ILER (download, content, placement) with the VADS "New" tag
+### Research how to highlight this new feature
 
 Why: As shown in the Key Findings, many Veterans (and VSOs) are not aware that the ILER exists, or what it is, or how to get it, or how it can help Veterans in critical wellness tasks. 
 
-The VADS does have a [tag for "new" items](https://design.va.gov/components/tag). We recommend testing this in designs where there is information about ILER, or where the new download capability is.
+The VADS does have a [tag for "new" items](https://design.va.gov/components/tag). However, for accessibility and other technical reasons, such as that this tag is designed for other use semantically, we cannot recommend this as a solution. 
+
+### Research whether or how to include ILER "news" and a link to more information in MyVA
+
+Why: MyVA is the page users see when they log in and go to a personalized pathway on VA.gov. MyVA has been called “where things that require attention live”. Since the ILER download is a new capability for Veterans, and one that can play an important role in getting access to critical services, it seems there would be value in placing awareness of and links to this new capability in multiple places a Veteran might see it.
+
+The same issue on how to highlight the newness of this feature in MyVA is the same as on the VA Profile.
 
 # Sources
 
