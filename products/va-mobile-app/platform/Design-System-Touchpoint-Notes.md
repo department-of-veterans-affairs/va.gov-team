@@ -5,6 +5,10 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 8/28/24
+*   VADS status with the documentation merge
+
+
 ## 7/30/24
 *   Typography Tokens update
 *   Form System scope discussion
