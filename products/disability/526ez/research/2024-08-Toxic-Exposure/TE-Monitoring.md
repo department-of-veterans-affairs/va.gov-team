@@ -13,7 +13,7 @@ We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for 
 - We are considering adding Contact Center as a data source to capture the feedback of Veterans calling for help on TE.
 - Relevant tickets: [(#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [(#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
 
-### Impact of Monitoring
+### Goals & Impact
 1. Monitoring the release will help us determine if and when we need to pause the incremental release of TE. We will be looking for major technical blockers or patterns of very negative open response feedback in the data to inform our decision-making.
 2. Reviewing Medallia data will help us focus our upcoming usability research on the new feature. We will leverage early findings in monitoring to shape the research plan and hypotheses. 
 
