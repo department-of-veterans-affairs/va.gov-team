@@ -166,9 +166,7 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 
 ### After on VA.gov
 Note: Final order of identifiers is pending validation from comparative study.
-![image](https://github.com/user-attachments/assets/ee819ebb-64ff-48f5-a9f1-53272e95e97e)
-![image](https://github.com/user-attachments/assets/a64d04a9-1475-4866-a963-897ac056ef7c)
-
+![8 27 24 mockup of triage group names with HCS](https://github.com/user-attachments/assets/2fbc30d3-58a6-4db2-924c-6b6adf6e965e)
 
 ---
 
