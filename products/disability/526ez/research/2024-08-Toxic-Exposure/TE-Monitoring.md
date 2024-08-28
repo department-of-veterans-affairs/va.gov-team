@@ -8,20 +8,22 @@
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
 ## Background
-We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. By tracking interactions and gathering feedback, we will identify any issues with TE early so we can make data-driven improvements.
+We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. By tracking interactions and gathering feedback, we will identify any issues with TE early so we can make data-driven improvements. Keeping tabs on Medallia feedback will also inform future usability testing slated for September/October 2024. 
 - This report will document GA4, Data Dog, and Medallia survey data over the course of the release.
 - We are considering adding Contact Center as a data source to capture the feedback of Veterans calling for help on TE.
 - Relevant tickets: [(#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [(#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
 
-**Note:** We will be responsive to the release, updating our monitoring approach as we learn more/better! 
+Major blockers or patterns of very negative open response feedback in the GA4 or Medallia data could lead us to pause the incremental release-- these decisions will be made in real time with stakeholders.
 
-**8/26 UX-Product sync:** We recognized that Medallia data will not impact decision-making on whether or not we will proceed with the roll-out. Therefore, we are moving Medallia data review to the end of each phase of the rollout in order to capture a hollistic picture and saving a lot of work. 
+**Note:** We will be responsive to the release, updating our monitoring approach as we learn more/better!
 
 ## Scope of this report
 This reporting will seek to keep all stakeholders informed of the rollout's progress. Beyond this documentation, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
 
 ## Schedule of reporting
-Success metrics will be updated in this document at the end of each rollout percentage, starting with 5%. At the end of both the 1.0 and 1.1 release, we will review Medallia data in order to add more detail to the user experience of the feature. 
+- Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. 
+- Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts. 
+. We would gate primarily if there were major blocking issues, we assume that at this point they would largely be technical (high % of failures, etc.) reasons to pause the incremental release. 
 
 ### 526 Success Metrics
 |**Rollout %**|**Dates of 1.0 rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|
