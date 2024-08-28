@@ -62,8 +62,12 @@ Before we look at the caregvier program form, let’s start with a few warm-up q
 - Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
    - If no: [Should be yes based on screener criteria but pivot to convo guide for cohort 2]
 
-- Can you confirm you applied [x months] ago? [from recruit screener) 
-- Are you a primary or secondary caregiver?
+- Can you confirm you applied [x months] ago? [from recruitment screener question) 
+
+- Can you explain to me in your own words what it means to be a caregiver within this program?
+
+- Are you a primary or secondary caregiver? 
+
 - Did you complete the form in person, at a facility or online?
 
 - Do you mind telling us more about that experience?
