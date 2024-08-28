@@ -16,32 +16,33 @@ _[DRAFT]_
 
 ### Self-scheduling user flow
 - How easy or difficult is it for Veterans to start the scheduling process from a text message and a task card component on the Appointments landing page?
-  - **[Finding # 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1):** The majority of participants were able to easily start the scheduling process from the Appointments list task card, while 2 participants selected the incorrect link.
+  - **[Finding # 5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-5):** The majority of participants were able to easily start the scheduling process from the Appointments list task card, while 2 participants selected the incorrect link.
 
 - Do Veterans find the referral expiration date helpful? 
-  - **[Finding # 2](link):** The majority of participants noticed the expiration date of the referral and found the presence of this information helpful, but many found the expiration date used in the prototype (e.g., 310 days) and wording to be confusing or misleading.
+  - **[Finding # 6](link):** The majority of participants noticed the expiration date of the referral and found the presence of this information helpful, but many found the expiration date used in the prototype (e.g., 310 days) and wording to be confusing or misleading.
 - How easy or difficult is it for Veterans to schedule their community care appointments using the prototype?
-  - **[Finding #3](link):** Participants were able to easily navigate the scheduling process and complete all tasks, but did run into challenges at two points. In addition, many participants offered unprompted positive feedback around the tool.
+  - **[Finding #7](link):** Participants were able to easily navigate the scheduling process and complete all tasks, but did run into challenges at two points. In addition, many participants offered unprompted positive feedback around the tool.
 - Do Veterans understand the information and what to do next on the referral introduction page?
-  - **[Finding # 4](link):** Participants understood the information on the referral introduction page as a whole, but had some questions and suggestions for additional information. All participants were able to easily find the "schedule appointment" call to action.
+  - **[Finding # 8](link):** Participants understood the information on the referral introduction page as a whole, but had some questions and suggestions for additional information. All participants were able to easily find the "schedule appointment" call to action.
 - How easy or difficult is it for Veterans to find the right provider using the filter and sort?
-  - **[Finding # 5](link):** The filter pattern did not present any usability concerns, but our results lacked conclusive evidence that Veterans would use the feature prior to prompting them to use it. Though participants said the filters met overall expectations, some called out specific filters as confusing or missing. 
+  - **[Finding # 9](link):** The filter pattern did not present any usability concerns, but our results lacked conclusive evidence that Veterans would use the feature prior to prompting them to use it. Though participants said the filters met overall expectations, some called out specific filters as confusing or missing. 
 - Do Veterans expect to find providers in this tool that DO NOT offer online scheduling (e.g., schedule by phone)?
-  - **[Finding # 6](link):** Of the four participants we had time to ask, all four understood the "online scheduling" filter and found it beneficial. However, participants also expected to find providers that didn’t offer online scheduling and told us they would call and schedule with those providers, if needed. 
+  - **[Finding # 10](link):** Of the four participants we had time to ask, all four understood the "online scheduling" filter and found it beneficial. However, participants also expected to find providers that didn’t offer online scheduling and told us they would call and schedule with those providers, if needed. 
 - Would Veterans expect that they’d have to call the community care provider or VA to let them know they canceled a scheduled community care appointment?
-  - **[Finding # 7](link):** Participants knew how to cancel their appointments in the prototype and understood there was no reason to take an additional step to call. Although 1 participant still said they’d call the office after canceling to make sure it had worked.
+  - **[Finding # 11](link):** Participants knew how to cancel their appointments in the prototype and understood there was no reason to take an additional step to call. Although 1 participant still said they’d call the office after canceling to make sure it had worked.
  
 ### Expectations for VA staff follow up
 - Would Veterans expect VA to contact them if they hadn't self-scheduled their referral in a certain amount of time? If so, in how many days? 
 
-   - **[Finding # 1](link):** The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time.
+   - **[Finding # 12](link):** The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time.
  
 
 ## Details of Findings
 
 ### Referrals
 
-### Finding #1: 
+#### Finding #1: 
+
 **One third of participants, without moderator prompts, identified the process or document received when VA has approved care by a community care provider as a “referral,” while others used different terms such as consult, request, authorization, or were not sure what term to use.**
 
 - 5 of 15 participants identified an approved consult as a referral during contextual inquiries, compared to 10 of 15 participants named it something else or did not have a confident response.
@@ -54,7 +55,9 @@ _[DRAFT]_
 
 > P12: "You have to tell your provider and they will send it to somebody for authorization and then they call you and they set up appointments."
 
-**Finding #2: Before concept testing, participants expected to find new referrals in Appointments on va.gov or within My HealtheVet, with more participants indicating they’d look in My HealtheVet.**
+#### Finding #2: 
+
+**Before concept testing, participants expected to find new referrals in Appointments on va.gov or within My HealtheVet, with more participants indicating they’d look in My HealtheVet.**
 
 - When asked where Veterans might expect to find new referrals waiting to be self-scheduled online, 2/8 participants said they’d go to Appointments on VA.gov and 5/8 participants said they’d go to My HealtheVet, with 1 of these 5 participants saying they’d then go to Appointments to schedule their appointment. 1 participant said he’d have his wife take care of it and wasn’t sure where she’d navigate.
 
@@ -62,7 +65,9 @@ _[DRAFT]_
 
 > P5: "Probably in My HealtheVet [is where I would navigate to find a referral]. I typically look at my Blue Button to make sure my [provider] notes are correct and the appointment information is correct."
 
-**Finding #3: Before concept testing, participants weren’t confident in where they expected to find past referrals, but mentioned both Appointments and Medical Records.**
+#### Finding #3: 
+
+**Before concept testing, participants weren’t confident in where they expected to find past referrals, but mentioned both Appointments and Medical Records.**
 
 - To locate past referrals, 1 participant said they'd go to their Health tab and navigate to either Appointments or Medical Records, 2 participants would go to their past Appointments on VA.gov, and 2 participants didn’t know where they'd navigate.
 
@@ -72,7 +77,9 @@ _[DRAFT]_
 
 > P7: "I really wouldn't know where to find that for community care appointments. I’m really not sure, to be honest with you."
 
-**Finding #4: Slightly less than half of participants were able to find a link to navigate to review all of their referrals in the prototype, but the majority of participants were able to identify where to look for older referrals.** 
+#### Finding #4: 
+
+**Slightly less than half of participants were able to find a link to navigate to review all of their referrals in the prototype, but the majority of participants were able to identify where to look for older referrals.** 
 
 - 5 of 11 participants navigated to the Pending appointments tab to find approved referrals that needed to be self-scheduled (either on their own without moderator cues or with some help), while 6 of 11 participants did not consider navigating to the Pending appointments tab or needed significant cues to get there.
 
@@ -96,9 +103,9 @@ _[Jump to Referral Recommendations](link)_
 
 ### Self-scheduling user flow
 
-#### Finding 1: 
+#### Finding 5: 
 
-The majority of participants were able to easily start the scheduling process from the Appointments list task card, while 2 participants selected the incorrect link.**
+**The majority of participants were able to easily start the scheduling process from the Appointments list task card, while 2 participants selected the incorrect link.**
 
 - 13 of 15 participants were able to easily find the action link on the Appointments page to start scheduling their referral, while 2 participants would have selected the incorrect “Start scheduling” call to action. 5 participants cited confusion between the two similar links to start scheduling, with 2 participants describing the links as going to the same place.
 > P2: "Start scheduling is right in front of me. Looks like I could select schedule your appointment or start scheduling."
@@ -107,7 +114,7 @@ The majority of participants were able to easily start the scheduling process fr
 <img width="700" alt="Screenshot 2024-08-27 at 4 34 56 PM" src="https://github.com/user-attachments/assets/f44708c5-1fea-4650-9c04-6d6b6f80b865">
 
 
-#### Finding 2: 
+#### Finding 6: 
 
 **The majority of participants noticed the expiration date of the referral and found the presence of this information helpful, but many found the expiration date used in the prototype (e.g., 310 days) and wording to be confusing or misleading.**
 
@@ -121,9 +128,9 @@ The majority of participants were able to easily start the scheduling process fr
 
 <img width="300" alt="Screenshot 2024-08-27 at 4 33 13 PM" src="https://github.com/user-attachments/assets/df8f3abf-b9b1-42ca-8a09-11271c4cd013">
 
-#### Finding 3: 
+#### Finding 7: 
 
-** Participants were able to easily navigate the scheduling process and complete all tasks, but did run into challenges at two points. In addition, many participants offered unprompted positive feedback around the tool.**
+**Participants were able to easily navigate the scheduling process and complete all tasks, but did run into challenges at two points. In addition, many participants offered unprompted positive feedback around the tool.**
 
 - **Challenges:**
   - The filter tasks proved challenging for some participants, with 9 of 15 participants noticing the sort and filter link without help from the moderator.
@@ -137,7 +144,7 @@ The majority of participants were able to easily start the scheduling process fr
 <img width="300" alt="Screenshot 2024-08-27 at 4 39 19 PM" src="https://github.com/user-attachments/assets/d6224ef1-61ce-48f7-ad5c-1ed3357d5b09">
 
 
-#### Finding 4: 
+#### Finding 8: 
 
 **Participants understood the information on the referral introduction page as a whole, but had some questions and suggestions for additional information. All participants were able to easily find the "schedule appointment" call to action.**
 
@@ -155,7 +162,7 @@ The majority of participants were able to easily start the scheduling process fr
 <img width="200" alt="Screenshot 2024-08-27 at 4 41 47 PM" src="https://github.com/user-attachments/assets/4b168f49-039d-46d3-84f1-d5ab711a9fcd">
 
 
-#### Finding 5: 
+#### Finding 9: 
 
 **The filter pattern did not present any usability concerns, but our results lacked conclusive evidence that Veterans would use the feature prior to prompting them to use it. Though participants said the filters met overall expectations, some called out specific filters as confusing or missing.** 
 
@@ -169,7 +176,7 @@ The majority of participants were able to easily start the scheduling process fr
 
 <img width="500" alt="Screenshot 2024-08-27 at 4 44 04 PM" src="https://github.com/user-attachments/assets/578a3f8d-6134-44e0-a5e9-7401a1ded73c">
 
-#### Finding 6: 
+#### Finding 10: 
 
 **Of the four participants we had time to ask, all four understood the "online scheduling" filter and found it beneficial. However, participants also expected to find providers that didn’t offer online scheduling and told us they would call and schedule with those providers, if needed.** 
 
@@ -183,7 +190,7 @@ The majority of participants were able to easily start the scheduling process fr
 <img width="225" alt="Screenshot 2024-08-27 at 4 49 44 PM" src="https://github.com/user-attachments/assets/44f978b2-f6c3-423f-a1be-f584750976e5">
 
 
-#### Finding 7: 
+#### Finding 11: 
 
 **Participants knew how to cancel their appointments in the prototype and understood there was no reason to take an additional step to call. Although 1 participant still said they’d call the office after canceling to make sure it had worked.**
 
@@ -191,7 +198,7 @@ _[Jump to Self-scheduling user flow Recommendations](link)_
  
 ### Expectations for VA staff follow up
 
-#### Finding 1: 
+#### Finding 12: 
 
 **The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time.** 
 
