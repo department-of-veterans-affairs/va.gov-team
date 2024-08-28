@@ -102,7 +102,6 @@ body:
       label: Lighthouse?
       options:
       - label: I'm on a Lighthouse team
-        required: true
   - type: markdown
     attributes:
       value: |
