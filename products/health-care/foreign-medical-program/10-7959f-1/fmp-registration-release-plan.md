@@ -71,6 +71,9 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - whitelist internal emails to allow submissions
 - end user PEGA testing
 
+### Internal
+*Test internally with team and whitelist emails*
+
 ### Stage A: Canary
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
