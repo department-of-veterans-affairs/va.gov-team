@@ -1,5 +1,5 @@
 # Research Plan for Contact us page, [date]
-**Jump to: **
+**Jump to:**
 - [Background](#background)
 - [Research goals](#research-goals)
 - [Methodology](#methodology)
