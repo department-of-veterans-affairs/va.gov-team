@@ -2,11 +2,11 @@
 
 **Jump to:**
 - [Moderator logistics](#moderator-logistics)
-- [Intro - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#intro---5-minutes)
-- [Before showing ‘Contact us’ page - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#before-showing-contact-us-page---10-minutes)
-- [Scenarios – 30 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#scenarios--30-minutes)
-- [Review each scenario - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#review-each-scenario---10-minutes)
-- [Cool down – 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#cool-down---5-minutes)
+- [Intro - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#intro---5-minutes)
+- [Before showing ‘Contact us’ page - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#before-showing-contact-us-page---10-minutes)
+- [Scenarios – 30 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#scenarios--30-minutes)
+- [Review each scenario - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#review-each-scenario---10-minutes)
+- [Cool down – 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#cool-down---5-minutes)
 - [Pause or exit strategies](#pause-or-exit-strategies)
 - [Approved by:](#approved-by)
   
