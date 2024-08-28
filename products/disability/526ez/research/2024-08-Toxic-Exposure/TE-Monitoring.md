@@ -24,18 +24,16 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 ## Schedule of reporting
 - Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. 
-- Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts. 
-. We would gate primarily if there were major blocking issues, we assume that at this point they would largely be technical (high % of failures, etc.) reasons to pause the incremental release. 
+- Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts. Requesting and reviewing Medallia data takes 1-3 days; delay is noted in the table below. 
 
-### 526 Success Metrics
-|**Rollout %**|**Dates of 1.0 rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|
-|--|--|
-|5%| Aug 28 - Sep 2 | 
-|10%| Sep 3 - 8 | 
-|25% | Sep 9 - Sep 11 |
-|50%|Sep 12- 15|
-|75%|Sep 16- 17|
-|100%|Sep 18 |
+|**Rollout %**|**Dates of rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|GA4 reporting date | Medallia reporting date
+|--|--|--|--|
+|5%| Aug 28 - Sept 2 | Sept 2| --
+|10%| Sept 3 - 8 | Sept 8|--
+|25% | Sept 9 - Sept 11 | Sept 11|--
+|50%|Sept 12- 15| Sept 15 |
+|75%|Sept 16- 17|Sept 17|--
+|100%|Sept 18 | Sept 18| 
 
 ## Summary of GA4/Data Dog
 ### 526ez Success Metrics by % rollout
