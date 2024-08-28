@@ -64,57 +64,123 @@ We will run a moderated usability study remotely on Zoom. We will mock the sign 
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-Description
+While most people can easily get through the form unassisted, a shorter form would be easier to complete.
 
-> Quote
+Generally, Veterans are less frustrated by the length of the form now, but they consistently comment when they have to input their post code twice. 
+
+They feel they may use Ask VA if they, "have more time" to wait for a reply or need to ask a simple question.
+
+But for more specific and important questions, Veterans need to know who will be reviewing their question and rely on a quick reply.
+
+> "I don't think [this would be usable on my phone]. There's too many questions to answer. [...] It's more practical [on] desktop."
+
+> "Kinda tedious. There was an awful lot of steps to go through. [...] I don't have to go through a half a dozen pages to finally get my question submitted [through secure messaging]. I can just go in and click on, respiratory or whatever. I find that a lot easier."
+
+> "I don't know who's answering on the other end [...] so the fact that I would [be] waiting 7 days for an answer that may not be right, would be very bothersome. [...] I'm struggling to see when I would actually use this."
 
 ### Finding 2: The progress bar can be useful as a consistent anchor on each page.
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-Description
+Screen reader users can use the progress bar as a landmark to figure out where they're starting on each page.
 
-> Quote
+Most people don't have strong feelings about the progress bar and it may be unnecessary for a shorter form like the scenario we tested.
+
+Slow incremental progress, followed by a large (specific) jump forward can be confusing.
+
+It's helpful to be specific about number of questions or pages, but the percentage being so specific can actually be distracting.
+
+In addition to sharing progress in the form, a time estimate helps set  expectations before you start.
+
+> "It lets me know where I'm at. I'm at the beginning of that specific page and where I'm at in this process. That's because I'm blind, it gives me that anchor point."
+
+> "I saw it jump from like one to 22 and that made me go, gosh! But that might hve been [...] a bug. I did pay attention to it [but] because of the jumps, I kind of dismissed it."
+
+> "If there was something to say, like, this process [...] takes 1 to 2 minutes to complete, that would be good."
 
 ### Finding 3: People seek a specific category and topic, and they would find it easier to choose from shorter lists.
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-Description
+Many people are concerned they will choose the wrong category and topic for their question – and there's no validation.
 
-> Quote
+Although people can choose a category and topic that works 'well enough', they're expecting options that aren't in the list, like, 'Durable medical equipment' instead of 'Prosthetics.'
+
+It's usually easier to choose from broader options and shorter lists.
+
+Screen reader users may not listen beyond the first 4 or so words in an option.
+
+One person heard, 'death' when their screen reader announced 'debt.'
+
+> "I'm not really seeing anything that pertains to me going to the VA and having an issue and needing to follow up. None of this is applicable."
+
+> "If there's a list of options, how do I know I'm selecting the right option? For just the small percentage of us who are totally blind, I cannot read I gotta depend on my hearing. So, for me personally, that's the biggest, call it hindrance or frustration. It becomes overwhelming if you have a dozen items to choose from. If there's more than 6."
+
+> "If you could say indebtedness or something like that, because I heard 'death' [instead of 'debt']."
 
 ### Finding 4: Some people click continue instead of search or next (page of results) instead of continue.
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-Description
+While magnified, one Veteran clicked 'continue' instead of 'search.'
 
-> Quote
+This should trigger an error message asking you to search for your health facility, however, due to a bug they continued without picking a facility.
+
+Similarly, a few Veterans confused 'next' and 'continue." This meant they navigated to the next page of results rather than the next page in the form. 
+
+The words have a similar meaning and the actions are close together.
+
+> "I tried clicking on [next] and it didn't do anything [...] Oh, it already selected what I needed, but it's just different options on this page..."
 
 ### Finding 5: Veterans consistently misinterpret the military postal code checkbox and the additional info doesn't help clarify.
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-Description
+The military postal code checkbox makes many people think they only need to provide their postal code if they live on a military base overseas. 
 
-> Quote
+Which is especially confusing because the field is required.
+
+The additional info component is very rarely expanded, and when it was, it didn't help clarify the confusion.
+
+> "Veteran receives mail outside the US on a military base. That wouldn't be applicable to me, so, if something is not applicable but it's required, how do I continue?"
+
+> "I don't receive anything outside the US [clicks continue] but yet they want a zip code."
+
+> "Move this [Veteran receives mail] and this [Learn more about military base address] below [Postal code]. Because that gets confusing."
+
+> "I would click on 'Learn more about military base addresses.' [Expands additional information component.] So, that does me no justice."
 
 ### Finding 6: It's not always clear to screen reader users when information is prefilled in the form.
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-Description
+Pre-filled form fields should announce that they've already been filled.
 
-> Quote
+Otherwise, people assume they're not filled, attempt to fill them in and add to what's already there.
+
+This is compared to showing the pre-fill pattern up front (before the form starts), which people consistently understand.
+
+We plan to include an alert on pages that have been pre-filled, but it wasn't included during this testing.
+
+> "I would just be like, this is the contact information we have for you. Would you like to make any changes?"
 
 ### Finding 7: The review and submit page is repetitive, particularly for screen reader users.
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-Description
+The review and submit page is repetitive for multiple reasons.
 
-> Quote
+Firstly, people have already reviewed information that was prefilled in the form, like their phone number.
+
+The headings can be labels redundant too, for example, 'Your relationship to the Veteran,' is followed by, 'What is your relationship to the Veteran?'
+
+In other cases, people were confused by how long it takes for them to hear their question read aloud, after hearing the heading, 'Your question.'
+
+Also, the edit alert sometimes announces itself over and over.
+
+> "It's really repetitive at this point. It's absolute redundancy of lunacy right now. I'd be frustrated to no end at this point."
+
+> "It was prefilled. I reviewed it once. Why am I reviewing it again?"
 
 ## Additional insights
 
