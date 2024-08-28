@@ -7,6 +7,7 @@
 - Complete any project-specific setup tasks for this study (List them below)
 
 - [ ] Open and prepare prototype for facilities search -- **ONLY if not ready in staging**
+- [ ] Open and prepare confirmation screen in Figma for content feedback
 
 
 ### Day of the session
@@ -57,16 +58,16 @@ Before we start, I have a few things that I want to go over with you:
 
 ## Warm-up Interview Questions - 10 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at the caregvier program form, let’s start with a few warm-up questions about your [caregiver/Veteran] application experience.
 
 - Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
-   - If yes: [Should be no based on screener criteria but pivot to convo guide for cohort 1]
+   - If yes: [Should be **no** based on screener criteria but pivot to convo guide for cohort 1]
 
 - Have you ever heard of that program before?
 - Do you ever interact with the VA for family member benefits?
+- Can you explain to me in your own words what it means to be a caregiver?
 - How would you like to learn more about caregiver programs and benefits you may qualify for?
-- In doing this research, can you describe to me what you would like to know when in the application process?
-- Is there any information that you would also like to be reminded of during the application?
+- Is there any information that you would also like to be reminded of when you are completing the form?
 - [Prompt if needed: For example, would it be helpful to you to see eligibility information about the program when applying vs before-hand?]
 
 
@@ -99,14 +100,6 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - This is our staging site don't worry about information going anywhere and also please remember to talk alout about what you are thinking.
 - Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share {but I will provide you some information to enter.}
 - [If they pause on the county field, ask additional questions: I see you are pausing on this, can you tell me more about (xyz...)]
-
-
-### Provide to get to Confirmation Screen??
-- If we want to have them reach the confirmation page, we need to provide them specific fake Veteran info no this page
-- [User #36 can be used for testing in all environments]
-- [first name: WESLEY]
-- [last name: FORD]
-- [Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) or [Test User Dashboard (TUD)](https://tud.vfs.va.gov/) for additional Password, SSN, DOB information]
 
 
 
@@ -203,7 +196,9 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 - Look over this page and tell me about your impressions or expectations?
 - If you see something you entered by mistake, can you show me how you would go about correcting that?
-- Complete this application.
+- You won't be able to submit the application in this test form so you can stop screen sharing now.
+
+
 
 ### Things to watch for:
 - [Does the participant have a positive or negative sentiment about the review page?]
@@ -216,6 +211,8 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 
 ## Confrimation Page + Post Task Interview - 5 minutes
+- I am now going to share my screen with you and would like it if you could provide feedback on the content of this page I am about to show you.
+- [show figma comp of production design version of confirmation page]
 
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
 - If you had a magic wand and in your perfect world, what would you like to see here? What would you want to happen next?
