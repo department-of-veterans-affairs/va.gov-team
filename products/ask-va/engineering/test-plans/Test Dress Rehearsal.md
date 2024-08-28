@@ -19,7 +19,7 @@ We will test the following flows:
 
 - An Unauthenticated User, who is the Veteran, is looking for Insurance.
 - An Authenticated User, who is the Veteran, is looking for Health Information.
-- An Authenticated User, who is the veteran, is looking for Health Information. 
+- An Unauthenticated User, who is the veteran, is looking for Health Information. 
 
 For Overall Test Plan:  we plan on developing further automated testing to mock additional user pathways for the Form, as well as the Dashboard. We will run the Cypress Test Suite with some regularity to confirm that as we build our existing features will still function as expected. 
   
