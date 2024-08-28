@@ -23,7 +23,7 @@ Many of the responses to the feedback button and intercept surveys through Medal
 However, some of the responses are related to people’s experience with finding answers and/or contact information (more within our scope to improve):
 > i tried to [find] my Diagnostic Code Breakdown Letter but could not find it. i tried using the "help" but nothing was listed, so....??
 
-First, we’ll conduct [usability tests](🟡 need to add link) for the current Contact us page. **Research insights will help us understand the exact challenges we should prioritize when redesigning Contact us.**
+First, we’ll conduct [usability tests](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us) for the current Contact us page. **Research insights will help us understand the exact challenges we should prioritize when redesigning Contact us.**
 
 ## Desired user outcomes
 -	**Self-service channels**: People can find solutions independently through resources provided by VA. 
