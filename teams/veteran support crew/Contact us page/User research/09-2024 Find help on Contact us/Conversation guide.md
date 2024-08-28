@@ -42,7 +42,6 @@
 - Check Zoom settings and make sure participants have permission to share
 - Open conversation guide
 - Open https://www.va.gov/contact-us/
-- Copy `https://www.va.gov/contact-us` into Zoom chat
 - Mute your Slack notifications
 
 ### Start of the session
@@ -85,6 +84,7 @@ There are a few other things I want to mention before we start:
 > Start recording: `RECORD TO CLOUD`.
 
 I’ve started recording. I'd like to confirm again: **Are you comfortable if I record my screen and the audio as we talk today?**
+
 And **Are you comfortable if we share video clips with our colleagues at VA if we remove any information that can be used to identify you?**
 
 ## Before showing Contact us page - 10 minutes
@@ -106,8 +106,8 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
      
      <details>
   <summary>Key things to notice</summary>
-- How do people feel before getting to ‘Contact us’ or trying to find customer support?
-- What do they expect on the ‘Contact us’ page?
+- How do people feel before getting to Contact us or trying to find customer support?
+- What do they expect on the Contact us page?
 - Were they able to find answers online?
 - How did they decide which channel to use when they contact the VA?
 - Is the number of options on the page overwhelming? Are there too many options on one page?
@@ -115,7 +115,8 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 Thanks, it’s helpful to learn about your experience with VA.
 
 Next, I’d like to give you two scenarios where you, as a Veteran, would reach out to VA for help. These scenarios are actually real questions Veterans asked us this year, just reworded.
-Before we do that, I'm going to send you a link to the current ‘Contact us’ page on VA.gov.
+
+Before we do that, I'm going to send you a link to the current Contact us page on VA.gov.
 
 > Send link in Zoom chat.
 - https://www.va.gov/contact-us
@@ -144,6 +145,7 @@ I’ll give you your first scenario now. We’ll review two scenarios in total i
 As you’re showing me, tell me what you’re thinking and noticing too. I’ll send the scenario in the Zoom chat now. I can repeat this throughout the session too.
 
 > Send scenario in Zoom chat.
+- Login scenario: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
 
 ### Claims scenario - 15 minutes
 Let’s go back to the Contact us page for our second and final scenario. You can select ‘Contact us’ at the top of the page to get back to the page.
@@ -155,6 +157,10 @@ Let’s go back to the Contact us page for our second and final scenario. You ca
 **Starting on the Contact us page show me how you would find help for this new scenario.**
 
 I’ll send the scenario in the Zoom chat now just like last time.
+
+
+> Send scenario in Zoom chat.
+- Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
 
 > Use the following questions for each scenario
 
@@ -361,4 +367,3 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ## Approved by:
 - Shane Strassberg, VA Research Ops on [🟡 Month day], 2024
-
