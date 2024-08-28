@@ -16,7 +16,7 @@ _[DRAFT]_
 
 ### Self-scheduling user flow
 - How easy or difficult is it for Veterans to start the scheduling process from a text message and a task card component on the Appointments landing page?
-  - **[Finding # 1]([link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1)):** The majority of participants were able to easily start the scheduling process from the Appointments list task card, while 2 participants selected the incorrect link.
+  - **[Finding # 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1):** The majority of participants were able to easily start the scheduling process from the Appointments list task card, while 2 participants selected the incorrect link.
 
 - Do Veterans find the referral expiration date helpful? 
   - **[Finding # 2](link):** The majority of participants noticed the expiration date of the referral and found the presence of this information helpful, but many found the expiration date used in the prototype (e.g., 310 days) and wording to be confusing or misleading.
