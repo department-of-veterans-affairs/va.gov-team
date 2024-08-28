@@ -1,6 +1,11 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+## 9/3/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+* Jina - We looked into how the 4142 is generated in the backend. If 5 providers are inputted, then one PDF 4142 with all 5 providers on it are generated. We want to double check that this is same PDF is sent to all 5 providers. ([ticket link]([url](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/6?pane=issue&itemId=75109776)))
 
 ## 8/20/24 Biweekly VBA-DBEX Check-in
 ### In attendance
