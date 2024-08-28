@@ -234,7 +234,7 @@ The hypothesis is that simply putting a link that matches the style and length o
 
 As above, we discovered that the VADS tag is not a workable solution, so we are relying on text and text styles.
 
-This may require collaboration with CAIA.
+Recommend collaboration with CAIA and stakeholders. What we learn here could be rolled into the [VA.gov content style guide](https://design.va.gov/content-style-guide/).
 
 # Sources
 
