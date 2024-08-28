@@ -63,13 +63,13 @@ Before we look at the website, let’s start with a few warm-up questions.
    - If no: [Should be yes based on screener criteria but pivot to convo guide for cohort 2]
 
 - How long ago was that when you applied?
-- Are you in the Primary or Secondary Caregiver role?
+- Are you a primary or secondary caregiver?
 - Did you complete the application in person, at a facility or online?
 - Do you mind telling us more about that experience?
 - Did you complete all of the VA forms on your own or did you have help? (Like from an accredited representative, VSO or other source)
 - What would you say was the most challenging part of the application process that you wish you would have know upfront?
    - [Re-word prompt] Thinking back, what would you change so the process is better for the next Caregiver/Veteran applying?
-
+- Anything else that you would like to share about your exerience with the application? Good or bad
 
 
 ## First Task: [Introduction page] - 5 minutes
