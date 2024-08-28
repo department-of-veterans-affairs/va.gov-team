@@ -1,5 +1,5 @@
 # Overview
-- [View our study in the VA.gov Research Repository](🟡need to add link)
+[View our study in the VA.gov Research Repository](🟡need to add link)
 
 ## Background 
 The Contact us page ([va.gov/contact-us](va.gov/contact-us)) helps people get answers to questions about VA benefits and services by connecting people to the following types of customer support channels: self-service, live agent, and asynchronous agent.
