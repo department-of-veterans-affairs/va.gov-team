@@ -11,8 +11,10 @@
 - [Appendix](#appendix)
   
 ## Background 
-The ‘Contact us’ page (va.gov/contact-us) helps people get answers to questions about VA benefits and services by connecting people to the following types of customer support channels: self-service, live agent, and asynchronous agent.
-We stood up the "Contact us" page quickly in 2020 and have made ad-hoc updates since then. It consistently gets the lowest customer satisfaction scores compared to other pages on VA.gov. As of 2024, its CSAT score is around 20%. VA.gov's overall CSAT score is around 60%. 
+The Contact us page ([va.gov/contact-us](va.gov/contact-us)) helps people get answers to questions about VA benefits and services by connecting people to the following types of customer support channels: self-service, live agent, and asynchronous agent.
+
+We stood up the Contact us page quickly in 2020 and have made ad-hoc updates since then. It consistently gets the lowest customer satisfaction scores compared to other pages on VA.gov. As of 2024, its CSAT score is around 20%. VA.gov's overall CSAT score is around 60%. 
+
 - View these scores in the [VA.gov CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322).
 - [View the product outline](🟡 need to add link) for ‘Contact us’. 
 
@@ -21,7 +23,7 @@ We stood up the "Contact us" page quickly in 2020 and have made ad-hoc updates s
 * Better experiences: Our digital experiences are the best way to access VA health care and benefits.
   
 ### Veteran Journey
-The ‘Contact us’ page can support Veterans at any stage of the Veteran journey because it connects Veterans to VA support channels. For example, Veterans at any stage could call the MyVA411 main information line for information about login issues.
+The Contact us page can support Veterans at any stage of the Veteran journey because it connects Veterans to VA support channels. For example, Veterans at any stage could call the MyVA411 main information line for information about login issues.
 
 Some support channels may matter more to Veterans depending on where they’re at too. For example, a Veteran at the **Starting up** stage might want to call the GI Bill hotline for questions about their education benefits.
 
@@ -32,7 +34,7 @@ Our research goals are to:
 -	Understand what people expect on the Contact us page
   
 ### Outcome
-We already know there are different ways other websites and mobile apps have approached effective support experiences. We’ll use this research to inform how we’ll update the ‘Contact us’ page.
+We already know there are different ways other websites and mobile apps have approached effective support experiences. We’ll use this research to inform how we’ll update the Contact us page.
 
 ### Research questions    
 Understand whether people can find support (answers or contact information) to resolve their issues:
@@ -46,7 +48,7 @@ Understand whether people can find support (answers or contact information) to r
 -	How does the order of contact channels on the page affect people’s experience?
   
 Understand how people choose phone numbers:
--	How do people find phone numbers on ‘Contact us’?
+-	How do people find phone numbers on Contact us?
 -	How do people decide which phone number they need?
 -	What phone number details are useful to decide which phone number they need? Which details don’t help people find phone numbers?
   
@@ -62,12 +64,13 @@ Understand what people expect on the Contact us page:
 4.	People will prefer different contact channels in different contexts. For example, if people aren't confident they know which phone number to call, then people will prefer online tools for support. If people feel confident that a phone agent will be able to answer their question, then people will prefer phone calls for support.
 5.	People will choose more direct phone numbers rather than general lines to avoid being transferred.
 6.	People won’t be highly confident they’re choosing the right phone number with current phone number details.  
-7.	People primarily use 'Contact us' to look for ways to contact VA (like phone numbers).
-8.	People don’t expect to find answers to questions from ‘Contact us.’
+7.	People primarily use Contact us to look for ways to contact VA (like phone numbers).
+8.	People don’t expect to find answers to questions from Contact us.
    
 ## Methodology	
-This a remote moderated usability study over Zoom for the current Contact us page in production at va.gov/contact-us. 
-We’ll ask users to consider how they would use ‘Contact us’ to find answers or customer support in two scenarios in which they have questions about: 
+This a remote moderated usability study over Zoom for the current Contact us page in VA.gov's production environment at va.gov/contact-us. 
+
+We’ll ask users to consider how they would use Contact us to find answers or customer support in two scenarios in which they have questions about: 
 -	Creating a Login.gov account
 -	Increasing disability compensation for an existing condition
   
@@ -147,7 +150,8 @@ We will provide 24 time slots, with the aim to book 12 sessions.
 - Participant(s) for pilot test: [Name]
 - Accessibility specialist (for sessions where support for assistive technology may be needed): We won't have a specialist for this study.
 - Note-takers: We will need Perigean to take notes for all sessions.
-- Observers: Becky will add observers to the invites herself.	
+- Observers: Becky will add observers to the invites herself.
+  
 We will limit sessions to no more than 5 people, including 1 participant, 1 moderator, 1 notetaker, 2 observers.
 
 ## Approved by:
