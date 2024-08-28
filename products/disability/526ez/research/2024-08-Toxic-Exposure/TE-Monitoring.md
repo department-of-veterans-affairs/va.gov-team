@@ -97,16 +97,16 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**Feedback satisfaction**|2.24| 2.75|
 |**Task completion**| 23% | 44.5% | | |
 |**Trust Overall**|41% |52% | |
-|**How interaction changed trust (Intercept question)**||  | | |
+|**WIP How interaction changed trust**||  | | |
 
 ### Toxic Exposure feature
 |**Data point**|**Pre-Launch**| **1.0 25%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
 |**Feedback satisfaction**|||
 |**Task completion**| | | | |
 |**Trust Overall**| | | | |
-|**How interaction changed trust (Intercept question)**| | | | |
+|**WIP How interaction changed trust**| | | | |
 
 ### **Themes across Medallia survey responses**
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
