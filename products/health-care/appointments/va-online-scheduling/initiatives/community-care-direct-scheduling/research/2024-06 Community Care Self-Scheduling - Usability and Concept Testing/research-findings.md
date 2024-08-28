@@ -2,8 +2,8 @@
 _[DRAFT]_
 
 Resources:
-- [Research folder]
-- [Mural Board - Moderator and observer notes and synthesis process]
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing)
+- [Mural Board - Moderator and observer notes and synthesis process](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718727222960/a839ed3ac2d0f2e6ab129931288a0de8ea8e8d12?fromVisitorModal=true&sender=ua2ec2e34eb6128f3375e0207)
 
 Jump to:
 - [Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#hypotheses-and-conclusions)
