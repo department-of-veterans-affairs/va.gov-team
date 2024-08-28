@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: August 12, 2024
+Last updated by @tygindraux: August 28, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -56,6 +56,9 @@ This research will help us document and prioritize any bugs or usability issues 
 2. Veterans will be able to interact with all elements using only their keyboards or other devices.
 3. Veterans will be oriented and still able to use the dashboard when magnified.
 4. Sign in will be a barrier for some Veterans using a screen reader or magnification.
+5. Veteran's who use screen readers will find it difficult to know how many cards are under the "Your question" section, including when they filter by category and/or status.
+  - We will need to indicate how many cards are in the "Your question" section.
+  - We will need to indicate what the filters update on the dashboard. For example, filtering by category “X” results in “2 cards” or  Filtering by status "has reply" results in "no cards"
 
 ## Methodology
 
