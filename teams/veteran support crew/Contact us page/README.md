@@ -4,7 +4,7 @@ The Contact us page ([va.gov/contact-us](va.gov/contact-us)) on VA.gov helps peo
 - **Live agent**: I can talk to a VA agent in real-time.
 - **Asynchronous agent**: I can send messages or questions on my own time and review responses later.
 
-Learn more about Contact us in our [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/veteran%20support%20crew/Contact%20us%20page/product/Product%20outline.md).
+Learn more about Contact us in our [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/Product/Product%20outline.md).
 
 ## Contact us 😉
 The `Content, Information Architecture, and Editor Experiences Crew` and `Veteran Support Crew` in VA's Office of the Chief Technology Officer (OCTO) support the Contact us page. 
