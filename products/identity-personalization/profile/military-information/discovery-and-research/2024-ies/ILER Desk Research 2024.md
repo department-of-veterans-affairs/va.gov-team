@@ -236,6 +236,13 @@ As above, we discovered that the VADS tag is not a workable solution, so we are 
 
 Recommend collaboration with CAIA and stakeholders. What we learn here could be rolled into the [VA.gov content style guide](https://design.va.gov/content-style-guide/).
 
+
+### ILER link from VA.gov Profile Hub goes to new section in Military Information
+
+Why: If the VEO request/requirement for MSO data (that it is placed within the Military Information card on the Profile) holds for ILER, this is a hard constraint that we should adhere to. 
+
+The Military information page does contain a section where the Veteran can request their military records. This might make a good pattern to duplicate for a new section with text explaining the content and context of ILER, and a download link, as well as information about known data issues and how to contact someone to correct these issues.
+
 # Sources
 
 ILER Fact Sheet (https://www.docs.lms.va.gov/LMSDocs/Docs/131531/ILERFactSheet_508Certified.pdf)
