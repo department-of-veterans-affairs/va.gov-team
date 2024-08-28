@@ -110,13 +110,9 @@ According to (MCT ILER HCD Pre-Discovery Findings_20230215.pdf), the four main l
 3) Claims agents in support of adjudication
 4) Researchers and epidemiologists looking to identify trends and mitigations
 
-Use case 1) is directly within scope of this work, to informs both placement on VA.gov and how we communicate the value of the download prior to offering the download. Use case 2) is relevant and can inform our findings in that Veterans may need the ILER report available either to educate VA staff and providers of the ILER report's relevance, or to use the ILER report to help design treatment planning. In support of the latter: according to the GAO report, "VBA requires claims benefits staff to use ILER in processing veterans’ disability claims.” 
+Use case 1 is directly within scope of this work, to informs both placement on VA.gov and how we communicate the value of the download prior to offering the download. Use case 2 is relevant and can inform our findings in that Veterans may need the ILER report available either to educate VA staff and providers of the ILER report's relevance, or to use the ILER report to help design treatment planning. In support of the latter: according to the GAO report, "VBA requires claims benefits staff to use ILER in processing veterans’ disability claims.” 
 
-MENTAL MODELS: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md
-
-Create a customized display that would support Veteran understanding of benefits and could empower Veterans to make claims supported by their ILER data.
-• Proactively prepare to address any Veteran confusion or troubleshooting after Veterans access their ILER.
-• Proactively prepare to support Veterans with fact sheets, FAQs, and customized displays,
+Previous researh has outlined the [mental models of Veterans related to military information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md). This research can inform how we move forward with designing content and context that might set up Veterans for more success when accessing their ILER.
 
 ILER was built primarily for environmental researchers and clinicians, making it very difficult for the layman to fully comprehend.
 • The level of detail in ILER is not, in its entirety, relevant to Veterans and yields a very long record.
@@ -126,10 +122,6 @@ identify the salient information.
 What does this tell us?
 
 Though access to this report is mandated by Congress, and is an important tool to help Veterans make sense of their experience, and seek to claim benefits and treatments to which they are due, it might be irresponsible or harmful to provide access without strong warnings about the difficult presentation and possible unreliability of the data. 
-
-RECOMMENDATION FOR LATER: RESEARCH INDICATES ANY DOWNLOAD SHOULD BE BEHIND SOME FRICTION TO PRESENT THIS WARNING
-
-WORK THROUGH FINDINGS FIRST AND CAN REFER TO THEM LATER
 
 ## Key findings
 
