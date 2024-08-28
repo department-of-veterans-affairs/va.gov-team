@@ -101,12 +101,12 @@ body:
     id: Word-Cloud
     attributes:  
       label: Word Cloud
-      description: Please specify if you would like a Word Cloud included with your results.
+      description: The Word Cloud feature is currently unavailable.
       options:
         - "Yes"
         - "No"
     validations:
-      required: true
+      required: false
   - type: input
     id: va-email
     attributes:
