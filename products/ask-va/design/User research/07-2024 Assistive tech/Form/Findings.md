@@ -228,49 +228,46 @@ All of our research can be found [in this folder](https://github.com/department-
 We talked to **10 participants.**
 
 Audience segment:
-* Veterans: 7
+* Veterans: 10
 * Caregivers: 0
 * Family members of a Veteran: 0
-* School Certifying Officials and Work Study Site Supervisors: 3
 
 Gender:
-* Male: 6
-* Female: 1
-* Unknown: 3
+* Male: 7
+* Female: 3
 
 LGBTQ+:
-* LGBTQ+ (Details unknown): 1
+* LGBTQ+ (Details unknown): 0
 * Transgender: 0
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
 * Gay, lesbian, or bisexual: 0
-* Unknown: 3
 
 Devices used during study: 
-* Desktop: 7
-* Tablet: 0
+* Desktop: 6
+* Tablet: 1
 * Smart phone: 3
-* Assistive Technology: 0
+* Assistive Technology: 6
 
 Age:
-* 25-34: 1
-* 35-44: 1
-* 45-54: 1
+* 25-34: 0
+* 35-44: 0
+* 45-54: 4
 * 55-64: 4
-* 65+: 0
-* Unknown: 3
+* 65+: 2
+* Unknown: 2
 
 Education:
-* High school degree or equivalent: 1
-* Some college (no degree): 2
-* Associate's degree, trade certificate or vocational training: 2
-* Bachelor's degree: 0
-* Master's degree: 2
+* High school degree or equivalent: 2
+* Some college (no degree): 4
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 2
+* Master's degree: 3
 * Doctorate degree: 0
-* Unknown: 3
+* Unknown: 0
 
 Geographic location:
-* Urban: 1
-* Rural: 6
+* Urban: 5
+* Rural: 7
 * Unknown: 3
 
 Race:
