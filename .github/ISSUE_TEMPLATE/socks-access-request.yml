@@ -82,11 +82,13 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: lighthouse
+    id: passphrase
     attributes:
-      label: Lighthouse?
+      label: SSH Key Passphrase
       options:
-      - label: I'm on a Lighthouse team
+      - label: Please check this box to confirm that your SSH key has a strong passphrase
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: e-App (aka E-QIP) Transmittal Confirmation
@@ -95,13 +97,11 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: passphrase
+    id: lighthouse
     attributes:
-      label: SSH Key Passphrase
+      label: Lighthouse?
       options:
-      - label: Please check this box to confirm that your SSH key has a strong passphrase
-    validations:
-      required: true
+      - label: I'm on a Lighthouse team
   - type: markdown
     attributes:
       value: |
