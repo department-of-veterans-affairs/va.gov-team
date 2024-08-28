@@ -86,8 +86,8 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
    
 ### Overall 526ez
 All Medalia survey data is reported as a % of 4+5 answers.
-|**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **25% 1.0%** |**100% 1.0** | **25% 1.1**|**100% 1.1**|
-|--|--|--|--|--|
+|**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 25%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
+|--|--|--|--|--|--|--|
 |**CSAT-Intercept**| 37.7%|41.9% | | |
 |**Feedback satisfaction**|- %| 2.75|
 |**Task completion**| 26% | 44.5% | | |
@@ -95,8 +95,8 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**How interaction changed trust (Intercept question)**||  | | |
 
 ### Toxic Exposure feature
-|**Data point**| **25% 1.0%** |**100% 1.0** | **25% 1.1**|**100% 1.1**|
-|--|--|--|
+|**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 25%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
+|--|--|--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
 |**Feedback satisfaction**|||
 |**Task completion**| | | | |
