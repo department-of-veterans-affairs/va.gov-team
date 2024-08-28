@@ -14,7 +14,7 @@ Messages on My HealtheVet has a preference called "My Secure Messaging Contact L
 * A new contact list page on VA.gov which will reduce the amount of Veterans going back to My HealtheVet from the "Start a new message" page.
 
 ### Launch timeline
-We hope to launch this during PI17 in early September 2024
+We hope to launch this during PI16 in late September 2024 (9/17 - 10/1)
 
 
 ### Before/After (link) 
