@@ -69,7 +69,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 ### Internal testing
 - whitelist internal emails to allow submissions
-- end user PEGA testing
+- end user PEGA testing with confirmation from users of downstream systems
+- receive confirmation of PEGA import
 - Datadog monitoring
 
 ### Stage A: Canary
