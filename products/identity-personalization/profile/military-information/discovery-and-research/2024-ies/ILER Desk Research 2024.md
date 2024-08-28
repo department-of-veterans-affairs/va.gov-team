@@ -31,7 +31,7 @@ The generated report is an important part of all service members’ medical hist
 
 Basically, the goal of the ILER system is to track and monitor exposures, leading to better treatment and outcomes for Veteran health.
 
-For an update on the roadmap and interoprability of the ILER system, please see this update (https://www.va.gov/RAC-GWVI/meetings/Feb2023/1VARAC_DoD_Exposure_Monitoring_Wearables_ILER_4Feb23_final_sjones.pdf)
+For an update on the roadmap and interoprability of the ILER system, please see [this update](https://www.va.gov/RAC-GWVI/meetings/Feb2023/1VARAC_DoD_Exposure_Monitoring_Wearables_ILER_4Feb23_final_sjones.pdf).
 
 **Incident Exposure Summary (IES)**
 
@@ -97,7 +97,7 @@ This is driven by the legislative history. Congress enacted Section 9105 on Janu
 It is important to note that this does not specify _where_ or _by when_ should this information be made available to Veterans.
 
 Metrics to monitor after deployment of this feature might include:
-- usage metrics showing Veterans accessing this information (https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1834995012%3FuserId%3D66061986)
+- usage metrics showing Veterans accessing [this information](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1834995012%3FuserId%3D66061986)
 - a reduction in time evaluating Veteran diabilities
 - more efficient access to health care for Veterans in issues related to exposure
 - better medical outcomes for Veterans facing issues related to exposure
@@ -133,7 +133,7 @@ WORK THROUGH FINDINGS FIRST AND CAN REFER TO THEM LATER
 
 ## Key findings
 
-For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with existing research work (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. In addition, we will rely on pre-discovery and discovery work conducted for the Veterans Experience Office (VEO) and by the AE team previously (see SECTION BELOW).
+For a first gloss of understanding Veterans mental models and needs for detailed information of their service, and how this relates to what tasks they need to achieve on VA.gov, we will start with [existing research work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery/findings-summary.md) conducted for the Enhanced Military Information product. In addition, we will rely on pre-discovery and discovery work conducted for the Veterans Experience Office (VEO) and by the AE team previously (see SECTION BELOW).
 
 1. Veterans and VA staff are used to using “ILER” to refer to the report; in none of the postings from Veterans, do they use “IES”.
 2. Veterans use information such as what’s included in the ILER report to get disability ratings or correct what they see as an erroneous disability ratings.
@@ -144,7 +144,7 @@ For a first gloss of understanding Veterans mental models and needs for detailed
 7. When learning about their ILER report, Veterans may not know what it contains.
 8. Veterans distrust the data provided in many VA reports, including the ILER report.
 9. The mental models many Veterans have for the data in the ILER report does not match how it is organized, making it more difficult for the Veteran to achieve any of their goals or note which data are faulty.
-10. The stakeholder (VEO) has specified that this content be available in the "military history" section of the Profile on VA.gov (see https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md#key-findings). This seems to override other work on the question of placement of the ILER download affordance (though this does not limit that to one location on VA.gov).
+10. The stakeholder (VEO) has specified that this content be available in the "military history" section of the Profile on VA.gov (see [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md#key-findings). This seems to override other work on the question of placement of the ILER download affordance (though this does not limit that to one location on VA.gov).
 
 ## Details of Findings
 
@@ -158,7 +158,7 @@ In practical terms, this means that headers, download link titles, and other ele
 
 ### Veterans use information such as what’s included in the ILER report to get disability ratings or correct what they see as an erroneous disability ratings.
 
-Previous AE research (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md) shows that Veterans use data from their MOS to  (such that as appears in DD214 forms), showed that Veterans use their own records to gain disability benefits. Similary, the few Reddit discussions (LINK TO SOURCES) show Veterans asking about this process.
+[Previous AE research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md) shows that Veterans use data from their MOS (such that as appears in DD214 forms) to gain disability benefits. Similary, the few Reddit discussions (LINK TO SOURCES) show Veterans asking about this process.
 
 As the ILER report includes similar (or some of the same) information, we are confident in drawing the same conclusion. At least, Veterans _should_ be able to use their ILER report to get or correct a disability rating. 
 
@@ -170,7 +170,7 @@ This highlights the issues around how to describe what downloading the ILER will
 
 ### Though there is no direct research on whether Veterans would associate “Enhanced Military Information” with the source of information relevant to health care and disability ratings, Veterans do associate certain types of military information with getting disability ratings or health care.
 
-However, as summarized in past Profile research (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md), the VEO has asked the VA.gov Profile team to enhance the military history section of the profile in order to aid veterans applying for benefits (especially disability claims). See Recommendations for possible design mitigations of this ambiguity in the content.
+However, as summarized in [past Profile research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md), the VEO has asked the VA.gov Profile team to enhance the military history section of the profile in order to aid veterans applying for benefits (especially disability claims). See Recommendations for possible design mitigations of this ambiguity in the content.
 
 ### Veterans may not know the ILER report exists.
 
@@ -195,12 +195,12 @@ Some found access through working with VSOs.
 
 ### When learning about their ILER report, Veterans may not know what it contains.
 
-Previous research on Enhanced Military Information (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md) has shown that Veterans’s metal model of exposure (the goal of the ILER report) is location first, rather than MOS. Even if Veterans could easily locate and download their ILER report, parsing out what data are in it and how to apply that to their needs (disability or medical care) would not be obvious.
+[Previous research on Enhanced Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md) has shown that Veterans’s metal model of exposure (the goal of the ILER report) is location first, rather than MOS. Even if Veterans could easily locate and download their ILER report, parsing out what data are in it and how to apply that to their needs (disability or medical care) would not be obvious.
 
 
 ### Veterans distrust the data provided in many VA reports, including the ILER report.
 
-In the previous EMI research, high in the key findings (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md#key-findings) was that deployments and dates were not trustworthy in VADIR data. This data is what goes into a Veteran’s ILER report; therefore should assume ILER report data is likely to contain errors.
+In the previous EMI research, high in the [key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md#key-findings) was that deployments and dates were not trustworthy in VADIR data. This data is what goes into a Veteran’s ILER report; therefore should assume ILER report data is likely to contain errors.
 
 Reddit posts on ILER reports are few, but we can see comments on the topic:
 
@@ -220,7 +220,7 @@ Why: Though “IES” is the technically correct (“the best kind of correct”
 
 ### Realign with stakeholders
 
-Check back in with VEO and stakeholders if their requirements previously stated for MOS data is relevant here: “Recently, VEO asked the VA.gov Profile team to enhance the military history section of the profile in order to aid veterans applying for benefits (especially disability claims).” https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md#key-findings
+Check back in with VEO and stakeholders if their requirements previously stated for MOS data is relevant here: [“Recently, VEO asked the VA.gov Profile team to enhance the military history section of the profile in order to aid veterans applying for benefits (especially disability claims).”](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-findings.md#key-findings)
 
 ### Test all designs related to ILER (download, content, placement) with the VADS "New" tag
 
