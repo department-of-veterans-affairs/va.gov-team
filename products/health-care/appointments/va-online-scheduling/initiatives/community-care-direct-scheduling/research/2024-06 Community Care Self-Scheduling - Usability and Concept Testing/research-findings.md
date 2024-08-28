@@ -1,6 +1,14 @@
 # Research Findings - Community Care Self-Scheduling
 _[DRAFT]_
 
+Resources:
+- [Research folder]
+- [Mural Board - Moderator and observer notes and synthesis process]
+- Link 2
+- Link 3
+
+------
+------
 ## Key Findings
 
 ### Referrals
@@ -35,7 +43,10 @@ _[DRAFT]_
 - Would Veterans expect VA to contact them if they hadn't self-scheduled their referral in a certain amount of time? If so, in how many days? 
 
    - **[Finding # 12](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-12):** The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time.
- 
+
+_[Jump to Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#recommendations)_
+
+------
 ------
 ## Details of Findings
 
@@ -99,8 +110,9 @@ _[DRAFT]_
  
 <img width="400" alt="Screenshot 2024-08-27 at 4 22 54 PM" src="https://github.com/user-attachments/assets/bcb4fb3d-cc48-447b-818b-e203d52da69e">
 
-_[Jump to Referral Recommendations](link)_
+_[Jump to Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#recommendations)_
 
+------
 ### Self-scheduling user flow
 
 #### Finding #5: 
@@ -208,8 +220,9 @@ _[Jump to Referral Recommendations](link)_
 <img width="225" alt="Screenshot 2024-08-27 at 5 09 59 PM" src="https://github.com/user-attachments/assets/82513904-ff76-48d2-9cfb-96c82c44137e">
 
 
-_[Jump to Self-scheduling user flow Recommendations](link)_
- 
+_[Jump to Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#recommendations)_
+
+------
 ### Expectations for VA staff follow up
 
 #### Finding #12: 
@@ -225,36 +238,38 @@ _[Jump to Self-scheduling user flow Recommendations](link)_
 - 1 participant said they did not expect a staff follow-up, and 1 participant was not sure.
 > P12: "Most times they're so short staffed the MSAs can't reach out to everybody."
 
-_[Jump to Expectations for VA staff follow up Recommendations](link)_
+_[Jump to Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#recommendations)_
 
-
+------
 ------
 ## Recommendations
 
 ### Referrals
 1. Continue to use "Referral" to identify this process and documentation (of receiving authorization from VA and scheduling an appointment with a community care provider), which had the higher number of mentions by participants. ([See Finding #_1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
 
-2. If new referrals are kept within the Pending page of the Appointments experience on VA.gov, like they were in the concept testing, consider changing the title of the page. Or consider adding a dedicated Referrals tab. ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
-3. Regardless of the link placement to navigate to referrals in the Appointments experience, work with staff to create messaging/scripting to point Veterans to the correct place on VA.gov when needed, or consider a short-term addition (such as a “did you know” highlight) that can call out this new feature. ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
-4. Consider including access to referrals in Medical Records, in addition to Appointments on VA.gov, particularly because past appointments disappear from the Appointments experience after 2 years. In Medical Records today, Veterans can access Non VA Care Consult Result Notes, but this doesn’t include the associated referral. ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
-5. When feasible, include links to referrals in individual past appointment detail pages (not MVP). ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
+2. If new referrals are kept within the Pending page of the Appointments experience on VA.gov, like they were in the concept testing, consider changing the title of the page. Or consider adding a dedicated Referrals tab. ([See Finding #_4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-4))
+3. Regardless of the link placement to navigate to referrals in the Appointments experience, work with staff to create messaging/scripting to point Veterans to the correct place on VA.gov when needed, or consider a short-term addition (such as a “did you know” highlight) that can call out this new feature. ([See Finding #_4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-4))
+4. Consider including access to referrals in Medical Records, in addition to Appointments on VA.gov, particularly because past appointments disappear from the Appointments experience after 2 years. In Medical Records today, Veterans can access Non VA Care Consult Result Notes, but this doesn’t include the associated referral. ([See Finding #_3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-3))
+5. When feasible, include links to referrals in individual past appointment detail pages (not MVP). ([See Finding #_4](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-4))
 
+------
 ### Self-scheduling user flow
-6. **Start scheduling links:** ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
+6. **Start scheduling links:** ([See Finding #_5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-5))
    - Identify how an omnipresent "Start scheduling" action for all appointment types and a community care-specific scheduling action can co-exist on the Appointments page without causing confusion.
    - Change the community care appointment link to be more explicit to the action, e.g., schedule your community care referral.  
-7. **Expiration date:** Consider new phrasing for the expiration date in the task card, possibly mirroring the expiration date on the referral introduction page. ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
-8. **Provider list page:** Work with a11y experts to evaluate if the benefit of "next available appointment" information outweighs the difficulty it can present screen reader users. And, if it does, consider ways the process could be clarified for those users. (Note: complete blocker for AT user) ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
+7. **Expiration date:** Consider new phrasing for the expiration date in the task card, possibly mirroring the expiration date on the referral introduction page. ([See Finding #_6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-6))
+8. **Provider list page:** Work with a11y experts to evaluate if the benefit of "next available appointment" information outweighs the difficulty it can present screen reader users. And, if it does, consider ways the process could be clarified for those users. (Note: complete blocker for AT user) ([See Finding #_7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-7))
 9. **Referral introduction page:**
-   - Determine where content can be tweaked to help with questions/concerns that Veterans brought up about the information on the referral page, e.g., number of visits. In addition, simplify information about how to schedule remaining community care appointments. ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
+   - Determine where content can be tweaked to help with questions/concerns that Veterans brought up about the information on the referral page, e.g., number of visits. In addition, simplify information about how to schedule remaining community care appointments. ([See Finding #_8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-8))
    - Consider if any additional information should be included, e.g. services included
-10. **Filter and sort:** ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
+10. **Filter and sort:** ([See Finding #_9](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-9))
    - Consider if including the filter and sort for MVP is worth the engineering effort knowing that not all Veterans would utilize this feature.
    - If included, determine how additional value and clarity can be brought to the filter options, and test with real scenarios when possible:
      - Update the name of the Practice filter to remove confusion
      - Work towards adding additional filters or information based on Veteran feedback (language), or other factors Veterans use to find a provider (e.g., years practicing, patient ratings and reviews, language spoken, specialties and services, etc.).
      - Further test an updated filter pattern with real provider and patient data to determine how many Veterans use the feature and how it is received.   
-11. **Online scheduling:** Continue to include providers that don’t offer online scheduling. ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
+11. **Online scheduling:** Continue to include providers that don’t offer online scheduling. ([See Finding #_10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-10))
 
-### Self-scheduling user flow
-12. **VA follow-up:** Coordinate with VA Notify, IVC, VHA, and VA staff to schedule early follow-up reminders prior to the existing 21-day text used to confirm appointment information – to go out to Veterans if they haven't self-scheduled their first appointment within a certain amount of time. ([See Finding #_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-1))
+------
+### Expectations for VA staff follow up
+12. **VA follow-up:** Coordinate with VA Notify, IVC, VHA, and VA staff to schedule early follow-up reminders prior to the existing 21-day text used to confirm appointment information – to go out to Veterans if they haven't self-scheduled their first appointment within a certain amount of time. ([See Finding #_12](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-12))
