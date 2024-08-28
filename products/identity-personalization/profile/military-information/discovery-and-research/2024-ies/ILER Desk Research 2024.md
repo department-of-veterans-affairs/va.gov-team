@@ -253,6 +253,14 @@ The Military information page does contain a section where the Veteran can reque
 
 VA Profile can work with stakeholders and CAIA to draft this content.
 
+### Research whether the "Military information" card/product meets the mental model for Veterans
+
+Why: Previous research has shown that many Veterans, VSOs, and even VA staff may not know what an ILER is, where to locate it, or how and why to use it. It's an open question whether Veterans accessing their Profile on VA.gov would think of looking in a section inside their Profile (where settings usually live) or inside a card labeled "Military information" to find something related to disability and health benefits. 
+
+This could be done either by UAT or first-click testing to validate whether this is a pressing issue. Card sorts with Veterans could help us learn how better to organize and name this information. 
+
+Another research question related to this is whether there are technical constraints in how information is organized and labeled on the Profile.
+
 # Sources
 
 ILER Fact Sheet (https://www.docs.lms.va.gov/LMSDocs/Docs/131531/ILERFactSheet_508Certified.pdf)
