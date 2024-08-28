@@ -50,13 +50,13 @@ Crew members can monitor statistics on unresolved issues and view them by priori
 
 ## The Identity Board
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image18.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image18.png)
+<img width="1440" alt="Screenshot 2024-08-23 at 11 38 34 AM" src="https://github.com/user-attachments/assets/5de36a5a-6890-4c51-8b0d-644b0f7863e8">
 
 ### Swimlanes
 
 There are two swimlanes. One for each team. They are named accordingly: **Identity Experience Team** and **Platform Support Team**
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image5.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image5.png)
+<img width="534" alt="Screenshot 2024-08-23 at 11 42 10 AM" src="https://github.com/user-attachments/assets/df1db729-fa29-4914-b396-55632cb64976">
 
 **Note:** For a better view of your team’s sole assignments, use the arrows to minimize and maximize the swimlanes on the board.
 
@@ -64,7 +64,7 @@ There are two swimlanes. One for each team. They are named accordingly: **Identi
 
 There are four columns: **Ready**, **In Progress**, **Ready for Review**, and **Done**
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image1.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image1.png)
+<img width="1118" alt="Screenshot 2024-08-23 at 11 41 28 AM" src="https://github.com/user-attachments/assets/a006ac9c-3732-42ef-b6f8-442ea396e959">
 
 - **Ready:** Ticket has been refined, assigned during sprint planning, and added to the sprint.
 - **In Progress:** Ticket has been assigned to a crew member and is actively being worked on.
@@ -75,7 +75,7 @@ There are four columns: **Ready**, **In Progress**, **Ready for Review**, and **
 
 There are a few built in quick filters that are useful for organizing the view of the board. The quick filters will filter out tickets by certain labels so be sure to label tickets appropriately.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image7.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image7.png)
+<img width="995" alt="Screenshot 2024-08-23 at 11 40 47 AM" src="https://github.com/user-attachments/assets/127c9cde-59d6-44f2-b912-370d7b4214c4">
 
 **Assigned to Me**: Only show tickets that have been assigned to you
 
@@ -85,15 +85,16 @@ There are a few built in quick filters that are useful for organizing the view o
 
 ### Flags
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image10.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image10.png)
+<img width="225" alt="Screenshot 2024-08-23 at 11 42 28 AM" src="https://github.com/user-attachments/assets/86a2437b-1750-4855-9a13-068afae29fd9">
+
 
 [**Live and Monitoring:**](https://jira.devops.va.gov/issues/?filter=124503) this flag is for features that need to be monitored after deploying to production. Mainly used by Engineers, this flag serves as a quick filter to view outage recoveries, feature launches, or bug fixes that have been recently deployed. Engineer or PM can remove flag when
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image15.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image15.png)
+<img width="942" alt="Screenshot 2024-08-27 at 2 06 42 PM" src="https://github.com/user-attachments/assets/c5dfc9fa-ab23-48a7-a4c2-cb763d3cf0fe">
 
 [**Needs Intervention:**](https://jira.devops.va.gov/issues/?filter=124528) The Needs Intervention flag should be used when a ticket is blocked or needs intervention from a PM. This serves as a quick filter for product managers to view tickets that need more attention so they can respond quicker.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image13.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image13.png)
+<img width="942" alt="Screenshot 2024-08-27 at 2 07 01 PM" src="https://github.com/user-attachments/assets/db935c0d-993b-4c71-a564-174c6af6d645">
 
 ## How tickets work
 
@@ -142,7 +143,7 @@ Issue types help to tell the assignee and other team members what type of Issue 
 
 Labels should be added to each ticket to help distinguish who the ticket should be assigned to. Labels are also used to filter tickets by role, team, or status.
 
-<img width="269" alt="Screenshot 2024-08-27 at 4 45 51 PM" src="https://github.com/user-attachments/assets/1bcb9b2d-c9a1-4370-8bc4-f1ec716a4601">
+<img width="401" alt="Screenshot 2024-08-27 at 2 18 17 PM" src="https://github.com/user-attachments/assets/3e83e9b1-1848-44ad-967e-b21cb1392b32">
 
 Some of the labels we use currently are:
 
@@ -157,11 +158,11 @@ Some of the labels we use currently are:
 
 Tickets can be assigned after they have been refined. If more information is needed to complete the task, the assignee is responsible for reaching out to the PM or Reported for more context.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image11.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image11.png)
+<img width="372" alt="Screenshot 2024-08-27 at 2 12 16 PM" src="https://github.com/user-attachments/assets/8b50ddcc-ecf1-4a8c-a86b-db01933040bc">
 
 Team members creating their own tickets may assign those tickets to themselves by simply clicking “Assign to me”.
 
-![Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image9.png](Jira%20Documentation%20for%20Internal%20Teams%20-%20Identity%20C%205b75d610c2074803b9a683e30cd71c62/image9.png)
+<img width="323" alt="Screenshot 2024-08-27 at 2 12 54 PM" src="https://github.com/user-attachments/assets/6687aa5e-0d18-4ce3-8d94-cd83319400a9">
 
 ### Sprint Commitments
 
