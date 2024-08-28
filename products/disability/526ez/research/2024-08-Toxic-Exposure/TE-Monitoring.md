@@ -88,10 +88,10 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 All Medalia survey data is reported as a % of 4+5 answers.
 |**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 25%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
 |--|--|--|--|--|--|--|
-|**CSAT-Intercept**| 37.7%|41.9% | | |
-|**Feedback satisfaction**|- %| 2.75|
-|**Task completion**| 26% | 44.5% | | |
-|**Trust Overall**|%| % |52% | |
+|**CSAT-Intercept**| 36.2%|41.9% | | |
+|**Feedback satisfaction**|2.24| 2.75|
+|**Task completion**| 23% | 44.5% | | |
+|**Trust Overall**|%| 41% |52% | |
 |**How interaction changed trust (Intercept question)**||  | | |
 
 ### Toxic Exposure feature
