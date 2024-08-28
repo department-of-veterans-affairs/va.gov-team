@@ -76,7 +76,7 @@ We’ll ask users to consider how they would use Contact us to find answers or c
   
 ### Research materials
 - [Link to conversation guide](🟡 link)
-- [Link to 'Contact us’ page in VA.gov production](https://www.va.gov/contact-us/)
+- [Link to Contact us page in VA.gov production](https://www.va.gov/contact-us/)
   
 ## Recruitment	
 ### Recruitment approach
