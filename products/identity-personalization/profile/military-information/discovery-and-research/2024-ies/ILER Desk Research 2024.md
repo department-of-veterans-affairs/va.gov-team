@@ -7,8 +7,8 @@ ADD HERE
 
 ## Research Goals
 
-The goals of this document are **REVISE AND REORDER**: 
-- to clarify critical terms, terminology, and background
+The goals of this document are:
+- [to clarify critical terms, terminology, and background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2024-ies/ILER%20Desk%20Research%202024.md#definitions)
 - to collect previous learnings and insights around building Veteran access to enhanced military information (specifically, the data gathered and presented by the ILER system) in the VA.gov Profile
 - to collect and note recommendations and requirements from stakeholders
 - to document the details and required actions from the Congressional mandates for providing ILER access to Veterans
