@@ -1,4 +1,4 @@
-# Research Plan for Contact us page, [date]
+# Research plan for "Find help on Contact us" study, [date]
 **Jump to:**
 - [Background](#background)
 - [Research goals](#research-goals)
