@@ -145,7 +145,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 - [Does the participant understand the primary caregiver role for the application?]
 - [Does the participant call out any content or questions as confusing or unclear?]
-- [Does the participant comment about the ask of Social Security number esp thinking that it is required?]
+- [Does the participant comment about the ask of Social Security number or that they are thinking that it is required?]
 - [Does the participant comment about the County in the address block?]
 
 
@@ -164,7 +164,10 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - [Does the participant mention that they would have two secondary caregivers?]
 - [Does the participant call out any content or questions as confusing or unclear?]
 - [Does the participant mention needing to make changes to caregivers?]
+- [Does the participant comment about the ask of Social Security number or that they are thinking that it is required?]
+- [Does the participant comment about the County in the address block?]
 
+  
 
 ## Caregiver Interview Questions - 10 minutes
 
