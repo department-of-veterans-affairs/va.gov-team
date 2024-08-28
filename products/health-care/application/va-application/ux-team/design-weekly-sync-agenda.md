@@ -44,7 +44,6 @@ Back end systems where info goes
 Leverage other teams for updatingTalked about status that would trigger a notification need
 What Priority Groups / reasons are there for a notification trigger to complete the financial assessment
 Phone numbers - watching out for inconsistencies,
-
 ACTION ITEM: Hieu - Look into notification triggers / statuses
 
 
