@@ -87,6 +87,7 @@ body:
       label: SSH Key Passphrase
       options:
       - label: I agree that my Passphrase is strong. See [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases) for how to add a passphrase to an SSH key.
+    validations:
       required: true
   - type: textarea
     attributes:
