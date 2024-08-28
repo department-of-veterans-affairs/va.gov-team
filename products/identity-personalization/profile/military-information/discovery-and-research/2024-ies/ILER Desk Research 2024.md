@@ -9,11 +9,10 @@ ADD HERE
 
 The goals of this document are:
 - [to clarify critical terms, terminology, and background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2024-ies/ILER%20Desk%20Research%202024.md#definitions)
-- to collect previous learnings and insights around building Veteran access to enhanced military information (specifically, the data gathered and presented by the ILER system) in the VA.gov Profile
-- to collect and note recommendations and requirements from stakeholders
-- to document the details and required actions from the Congressional mandates for providing ILER access to Veterans
-- to capture how Veterans would use their ILER information (use cases)
-- to offer recommendations for action, including communications around the nature of the information
+- [to document the details and required actions from the Congressional mandates for providing ILER access to Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2024-ies/ILER%20Desk%20Research%202024.md#legislative-history-and-congressional-mandates)
+- [to capture how Veterans would use their ILER information (use cases)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2024-ies/ILER%20Desk%20Research%202024.md#veteran-use-cases)
+- [to offer recommendations for action, including communications around the nature of the information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2024-ies/ILER%20Desk%20Research%202024.md#recommendations)
+- [to collect primary sources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/discovery-and-research/2024-ies/ILER%20Desk%20Research%202024.md#sources)
 
 ## Definitions
 
