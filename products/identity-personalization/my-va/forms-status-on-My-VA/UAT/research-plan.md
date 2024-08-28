@@ -13,4 +13,7 @@ Based on those conversations, there are two possible paths we can take moving fo
   - If we take this approach, we are likely looking at a delayed rollout to Production, with uncertain ability to really test both of the standard statuses that can appear for users (submission in progress, received).
   - Shannon Housel has recommended that we plan on hour long sessions just to account for technical difficulties, while cautioning that users may unintentionally report in screeners that they have done one of the seven forms when they have not.
 
-- Relying instead on QA in Staging, as well as attempting to get assistance from internal OCTO users of VA.gov with UAT using their own personal accounts.  
+- Relying instead on QA in Staging, as well as attempting to get assistance from internal OCTO users of VA.gov with UAT using their own personal accounts.
+
+  - Recruiting internally may have its own challengers.
+  - QA and internal UAT alone may not be sufficient. 
