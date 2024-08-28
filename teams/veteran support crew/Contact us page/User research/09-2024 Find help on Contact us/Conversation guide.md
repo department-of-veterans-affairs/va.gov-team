@@ -2,11 +2,11 @@
 
 **Jump to:**
 - [Moderator logistics](#moderator-logistics)
-- [Intro - 5 minutes](link)
-- [Before showing ‘Contact us’ page - 10 minutes](link)
-- [Scenarios – 30 minutes](link)
-- [Review each scenario - 10 minutes](link)
-- [Cool down – 5 minutes](link)
+- [Intro - 5 minutes](#intro---5-minutes)
+- [Before showing ‘Contact us’ page - 10 minutes](#before-showing-contact-us-page---10-minutes)
+- [Scenarios – 30 minutes](#scenarios--30-minutes)
+- [Review each scenario - 10 minutes](#review-each-scenario---10-minutes)
+- [Cool down – 5 minutes](#cool-down---5-minutes)
 - [Pause or exit strategies](#pause-or-exit-strategies)
 - [Approved by:](#approved-by)
   
@@ -103,15 +103,16 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
       -  How did you find the right contact information?
       -  How do you usually contact the VA? Phone, online? Why?
       -  How was the support you received?
-     
-     <details>
-  <summary>Key things to notice</summary>
+
+<details>
+   <summary>Key things to notice</summary>
 - How do people feel before getting to Contact us or trying to find customer support?
 - What do they expect on the Contact us page?
 - Were they able to find answers online?
 - How did they decide which channel to use when they contact the VA?
 - Is the number of options on the page overwhelming? Are there too many options on one page?
-  
+</details>
+
 Thanks, it’s helpful to learn about your experience with VA.
 
 Next, I’d like to give you two scenarios where you, as a Veteran, would reach out to VA for help. These scenarios are actually real questions Veterans asked us this year, just reworded.
@@ -179,7 +180,7 @@ I’ll send the scenario in the Zoom chat now just like last time.
 -	What kind of response do you expect from VA with this option?
 
 <details>
-  <summary>Key things to notice</summary>
+   <summary>Key things to notice</summary>
 -	Do they try to find answers online first before choosing to contact VA?
 -	Why do they prefer different support channels?
 -	Do they read the description before selecting one of the links?
@@ -188,6 +189,7 @@ I’ll send the scenario in the Zoom chat now just like last time.
 -	Do they notice the links to other pages (ex: Ask VA, chatbot, resources and support, etc.)?
 -	Do they read through the whole description before deciding to use different options?
 -	Is the number of options on the page overwhelming? Are there too many options on one page?
+</details>
 
 ### Contact us online through Ask VA
 > If they say they would contact VA through Ask VA
@@ -196,6 +198,7 @@ What do you think “Contact us online...” means?
 <details>
   <summary>Key things to notice</summary>
 -	Do people understand Ask VA is a way to send a message to VA? 
+</details>
 
 ### Ask our chatbot a question
 > If they say they would use the Chatbot
@@ -211,6 +214,7 @@ What do you think “Contact us online...” means?
 -	Do people understand they won’t be able to chat with a live person using the chatbot?
 -	Do people expect to be able to talk to a live person?
 -	Do people understand the types of questions the chatbot can answer?
+</details>
   
 ### Call us
 > If they say they would call
@@ -227,6 +231,7 @@ o	If `NO` What would you do now?
 -	Do people pay attention primarily to the headers?
 -	Do they pay attention to the hours?
 -	Do they notice the link to a full list of VA phone numbers?
+</details>
 
 > If they say they select `Get the full list of helpful VA phone numbers`
 
@@ -242,6 +247,7 @@ o	If `NO` What would you do now?
 -	Would they choose to contact their local VA facility with help for this scenario?
 -	Do they notice the search bar at the top of the page?
 -	Do they notice the radio button options to search?
+</details>
 
 ### Contact your local VA facility
 > If they say they would contact their local VA facility
@@ -251,6 +257,7 @@ o	If `NO` What would you do now?
 <details>
   <summary>Key things to notice</summary>
 -	What type of local VA facility do people trust to answer their question?
+</details>
 
 ### Explore our FAQs and other resources to get answers to your questions
 > If they say they would search for help in resources and support
@@ -263,6 +270,7 @@ o	If `NO` What would you do now?
   <summary>Key things to notice</summary>
 -	Is ‘resources and support’ a familiar term? 
 -	Do they mention ‘FAQs’ or ‘Help’? 
+</details>
 
 ### Helpful online tools
 > If they say they would use an online tool
@@ -275,6 +283,7 @@ o	If `NO` What would you do now?
   <summary>Key things to notice</summary>
 -	Do they notice that they have to sign in to access the online tools?
  > Go back to the [scenarios section](scenarios-30-minutes)
+</details>
 
 ## Review each scenario - 10 minutes
 Okay, we’re finished with each scenario now. So you can stop sharing your screen now.
@@ -319,6 +328,7 @@ I’d love to spend a little time reflecting before we finish.
 <details>
   <summary>Key things to notice</summary>
 -	What did they like and what would they change?
+</details>
 
 I want to circle back and ask if **you're comfortable if we maybe share a video clip of this session with our VA partners?** We’ll remove all information that could be used to identify you before sharing. And we’ll only share the videos with VA partners to help improve VA.gov and other digital experiences.
    - If ‘YES’ Is there any part of our discussion you wouldn’t want us to share in a video clip?
