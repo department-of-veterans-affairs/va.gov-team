@@ -41,6 +41,17 @@ Personas (in Mural):
 
 - [Accredited claims agents](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433)
 
+## Primary Work Flows
+
+### Form 21a digitization (accredited representative accreditation)
+(Add a short paragraph about this work and link to a folder [to be created] with more information and links to respective canvases, etc.)
+
+### Form 21-22 (power of attorney) accept/decline
+(Add a short paragraph about this work and link to a folder [to be created] with more information and links to respective canvases, etc.)
+
+### Digital contact information updates for accredited representatives
+(Add a short paragraph about this work and link to a folder [to be created] with more information and links to respective canvases, etc.)
+
 ## The Team
 
 ### Core Members
