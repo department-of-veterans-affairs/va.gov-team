@@ -6,8 +6,8 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Open and prepare prototype for facilities search -- **ONLY if not ready in staging**
 - [ ] Open and prepare confirmation screen in Figma for content feedback
+- [ ]  Open and prepare prototype for facilities search -- ONLY if not ready in staging/production [pending final confirm, but will be deleting this]
 
 
 ### Day of the session
