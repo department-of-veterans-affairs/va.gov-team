@@ -25,6 +25,6 @@
 | [GI Bill and other education benefit eligibility](https://www.va.gov/education/eligibility-esp/) | Spanish | 2/14/24 |
 | [VA Survivors Pension](https://www.va.gov/pension/survivors-pension-esp) | Spanish | 3/6/24 |
 | [What to bring to create your online sign in account](https://www.va.gov/resources/que-traer-para-crear-su-cuenta-de-inicio-de-sesion-en-linea/) | Spanish | 8/23/24 (Waiting for QA)
-| [After you apply for an eligibility determination](https://www.va.gov/despues-de-solicitar-una-determinacion-de-elegibilidad/) | Spanish | 8/27/24 (Waiting for QA)
-| [Verifying your identity on VA.gov](https://www.va.gov/resources/verificacion-de-su-identidad-en-vagov/) | Spanish | 8/29/24 (Waiting for QA)
-| [Signing in to VA.gov](URL TBA) | Spanish | 8/29/24 (Waiting for QA)
+| [After you apply for an eligibility determination](https://www.va.gov/despues-de-solicitar-una-determinacion-de-elegibilidad/) | Spanish | 8/27/24 (Waiting for QA / URL Needs to be changed)
+| [Verifying your identity on VA.gov](https://www.va.gov/resources/verificacion-de-su-identidad-en-vagov/) | Spanish | 8/29/24 (Waiting for QA / URL Needs to be changed)
+| [Signing in to VA.gov](URL TBA) | Spanish | 8/29/24 (Waiting for QA / URL Needs to be changed)
