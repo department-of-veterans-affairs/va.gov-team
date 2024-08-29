@@ -147,6 +147,7 @@
   - [cie-iam-manager](https://github.com/department-of-veterans-affairs/cie-iam-manager/)
   - [cie-staging-scheduler](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/)
   - [cie-terraform-modules](https://github.com/department-of-veterans-affairs/cie-terraform-modules/)
+  - [cie-test](https://github.com/department-of-veterans-affairs/cie-test/)
   - [cie-upstream-api](https://github.com/department-of-veterans-affairs/cie-upstream-api/)
   - [cie-utility-api](https://github.com/department-of-veterans-affairs/cie-utility-api/)
   - [octo-vista-api](https://github.com/department-of-veterans-affairs/octo-vista-api/)
