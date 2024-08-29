@@ -177,8 +177,9 @@ Recommendations:
 3. 10 participants reacted positively to the resource for "how to choose between urgent and emergency medical care." 
 4. 4 participants appreciated the urgent medical needs alerts, finding them useful and timely, while 4 others perceived them as frustrating or unnecessary.
 5. Overall the "I need immediate care" option as a type of care in the scheduling tool was ineffective.
-   
-![Screenshot of the immmediate care alert that is triggered when the user types in alarming signs and symptoms](https://github.com/user-attachments/assets/4e1aa8a2-37a8-4052-b3a1-54b6463d8e81)
+
+![Screenshot of an immediate care alert letting the user know this tool os not meant for emergencies](https://github.com/user-attachments/assets/a00cf069-299e-4c47-b88e-0046c8830ee6)
+
 
 
 ### Details of Findings 
@@ -231,7 +232,7 @@ Participants expressed that having "I need immediate care" listed as a type of c
   
 Recommendations:
 
-
+![Screenshot of the immmediate care alert that is triggered when the user types in alarming signs and symptoms](https://github.com/user-attachments/assets/4e1aa8a2-37a8-4052-b3a1-54b6463d8e81)
 
 * Consider where the link to the resource “how to choose between urgent and emergency care" might live within the appointments tool so that Veterans can go to it when they need it.
 * When making the emergency alerts, take into consideration that the participants we talked to know that in the case of an emergency, they are not likely the scheduling tool on VA.gov.  Consider reducing the amount of content around “call 911 if this is an emergency” as participants seem to be aware of this and might just skip over that information.
