@@ -10,10 +10,13 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 **Jump to:**
 
+- [Research goals](#research-goals)
+- [Research questions](#research-questions)
+- [Methodology](#methodology)
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
-- [Further research needed](#further-research-needed)
+- [Conclusions](#conclusions)
 - [Who we talked to](#who-we-talked-to)
 
 ## Research goals
@@ -42,7 +45,7 @@ We conducted 8 one-hour remote Veteran interviews conducted over Zoom. We used a
 **Hypothesis:** Providing better information around what evidence of a current condition is required will influence some Veterans to provide the evidence needed to move their claim forward.
 - TRUE. Some Veterans (5 out of 8 participants) would have changed the way they filed a claim with the information provided in our content prototypes.
 
-## Summary of key findings
+## Key findings
 **1. Content could influence first-time filers to provide better evidence for their condition.** 
 5 out of 8 participants said the test content would have changed how they filed a previous claim.
 
