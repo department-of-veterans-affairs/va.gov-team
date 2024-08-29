@@ -56,14 +56,15 @@
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to address all launch blockers from the Staging Review**
     - 🟩 [Staging Review finding: Error message not announced to screen reader users ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91803)
-    - [Staging Review finding: Inaccurate heading hierarchy on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91795)
-    - [Staging Review finding: Link for mileage rates opens in a new tab without warning ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91796)
-    - [Staging Review finding: Consistency with page title of application ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91797)
-    - [Staging Review finding: Sentence structure in BTSSS filing copy ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91799)
-    - [Staging Review finding: Incorrect list structure in travel-review page penalty statement ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91800)
-    - [Staging Review finding: Tab order for buttons flipped on appointment page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91801)
-    - [Staging Review finding: Sentence structure in travel-pay page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91798)
-    - [Staging Review finding: Summary box for direct deposit information may not be appropriate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91802)
+    - 🟩 [Staging Review finding: Inaccurate heading hierarchy on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91795)
+    - 🟩 [Staging Review finding: Link for mileage rates opens in a new tab without warning ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91796)
+    - 🟩 [Staging Review finding: Consistency with page title of application ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91797)
+    - 🟩 [Staging Review finding: Sentence structure in BTSSS filing copy ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91799)
+    - 🟩 [Staging Review finding: Incorrect list structure in travel-review page penalty statement ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91800)
+    - 🟩 [Staging Review finding: Tab order for buttons flipped on appointment page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91801)
+    - 🟩 [Staging Review finding: Sentence structure in travel-pay page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91798)
+    - 🟥 [Staging Review finding: Summary box for direct deposit information may not be appropriate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91802)
+        - We need decision from UX before we hand this of to frontend
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is moot - we can't continue until new Travel form is available in a lower env**    
     - ⛔ BLOCKED
