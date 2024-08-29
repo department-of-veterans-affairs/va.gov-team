@@ -10,9 +10,14 @@ This page has a lot of items in flight. Many teams have requested additional not
   - [TL;DR](#tldr)
   - [UI With Markup](#ui-with-markup)
     - [Key](#key)
-    - [Features/Functionality of Interest](#c-options-creation-note)
-  - [Points of interests](#points-of-interests)
-  - [API Call](#api-call)
+- [Features/Functionality of Interest](#featuresfunctionality-of-interest)
+  - [Default Send](#default-send)
+  - [Contact Information - Editing as a Subtask](#contact-information---editing-as-a-subtask)
+  - [Health care filtering](#health-care-filtering)
+  - [Prescription Shipping Filtering](#prescription-shipping-filtering)
+- [Changes in flight](#changes-in-flight)
+- [Appendix](#appendix)
+
 
 <!-- /TOC -->
 
