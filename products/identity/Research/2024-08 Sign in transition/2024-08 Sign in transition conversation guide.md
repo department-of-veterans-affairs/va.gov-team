@@ -111,7 +111,7 @@ Are you comfortable with that?
   - [Any other options] Can you walk me through your rationale for doing _____?
 
 ### Interstitial content 
-- [For this section, we want to understand how much information vs fluff is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?] 
+- [For this section, we want to understand how much information vs extra context is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?] 
 - [If the veteran decides to make the switch, skip to the 3rd bullet.]
 - [If they decide to continue with MHV or DS Logon]
   - Do you know if you have a Login.gov or ID.me account?  [If both, which one would you use?]
@@ -129,8 +129,9 @@ Are you comfortable with that?
     - “Learn more about how to create a verified account…”
     - Learn more about this change…”
 ### Inherited Proofing
-- If a Login.gov or ID.me account was created for you using your previous information you provided to [MHV or DS Logon], what would you expect to be able to do on VA.gov?
-- Do you use any other government websites?  If a Login.gov or ID.me account was created for you using your previous information you provided to [MHV or DS Logon] and ______ site allowed you to use that account, what would you expect to happen?  [We want to understand what they expect to be able to do with the other government website.]
+- If you could push a button to have a Login.gov or ID.me account created for you using your previous information you provided to [MHV or DS Logon], what would you expect from that?
+- Do you use any other government websites?
+- Do you ever use a Login.gov or ID.me account for those? If a Login.gov or ID.me account was created for you using your previous information you provided to [MHV or DS Logon] and ______ site allowed you to use that account, what would you expect to happen?  [We want to understand what they expect to be able to do with the other government website.]
 
 
 ## Round 3 - Closing Q’s and Thank you | 3 minutes
