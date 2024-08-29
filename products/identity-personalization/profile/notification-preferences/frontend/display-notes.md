@@ -1,6 +1,8 @@
 # API to Display notes
 
-This documents describes how the screen at [va.gov/profile/notifications](https://va.gov/profile/notifications) is built from the API calls to VA Notify.
+This documents describes how the screen at [va.gov/profile/notifications](https://va.gov/profile/notifications) is built from the API calls to VA Profile.
+
+We no longer use radio buttons and instead use checkboxes but the "Key" section is still accurate
 
 <!-- TOC -->
 
