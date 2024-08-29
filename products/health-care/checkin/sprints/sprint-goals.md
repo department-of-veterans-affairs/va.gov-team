@@ -53,6 +53,8 @@
     - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
          - May not be ready, depending on BE blocker for UX designs
+    - 🟥 [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
+         - Waiting for Appts Team to make content updates 
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to address all launch blockers from the Staging Review**
     - 🟩 [Staging Review finding: Error message not announced to screen reader users ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91803)
@@ -112,10 +114,10 @@
     - **Sprint Goal is to finish all work and schedule Staging & ISR Reviews**
     - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
     - ✔️ 🟩 [Add Alert for "We can't show all your information right now" for Upcoming Appointments Page & Details Page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90926)
-    - 🟥 [[Design] Finalize appt detail pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
-    - 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
-      - 🟥 (Points accounted for in 89598) [Midpoint Review - Design Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89478)
-      - 🟥 (Points accounted for in 89598) [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
+    - ✔️ 🟥 [[Design] Finalize appt detail pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
+    - ✔️ 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
+      - ✔️ 🟥 (Points accounted for in 89598) [Midpoint Review - Design Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89478)
+      - ⛔ 🚧 🟥 (Points accounted for in 89598) [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to prepare for the Staging Review**
     - ✔️ 🟪 Staging Review scheduled for 8/29
