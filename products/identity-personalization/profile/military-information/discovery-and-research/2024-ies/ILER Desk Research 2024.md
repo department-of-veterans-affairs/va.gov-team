@@ -219,11 +219,11 @@ Why: As shown in the Key Findings, many Veterans (and VSOs) are not aware that t
 
 The VADS does have a [tag for "new" items](https://design.va.gov/components/tag). However, for accessibility and other technical reasons, such as that this tag is designed for other use semantically, we cannot recommend this as a solution. 
 
-### Research whether or how to include ILER "news" and a link to more information in MyVA
+### Research whether or how to include ILER "news" and a link to more information in My VA
 
-Why: MyVA is the page users see when they log in and go to a personalized pathway on VA.gov. MyVA has been called “where things that require attention live”. Since the ILER download is a new capability for Veterans, and one that can play an important role in getting access to critical services, it seems there would be value in placing awareness of and links to this new capability in multiple places a Veteran might see it.
+Why: My VA is the page users see when they log in and go to a personalized pathway on VA.gov. My VA has been called “where things that require attention live”. Since the ILER download is a new capability for Veterans, and one that can play an important role in getting access to critical services, it seems there would be value in placing awareness of and links to this new capability in multiple places a Veteran might see it.
 
-The same issue on how to highlight the newness of this feature in MyVA is the same as on the VA Profile.
+The same issue on how to highlight the newness of this feature in My VA is the same as on the VA Profile.
 
 ### Draft and validate verbiage for initial link taking user to in-depth ILER info and link to download
 
