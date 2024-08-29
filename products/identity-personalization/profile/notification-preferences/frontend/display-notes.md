@@ -41,7 +41,10 @@ Below is a screenshot of the notification settings UI. [For the most up to date 
           1. `4b` is an example of a `Communication Item` with the `name`: _Health appointment reminders_. `4d` is an example of a `Communication Item` with the `name`: _Prescription shipping notifications_. We iterate over the list of `Communication Items` and display how ever many come from the API. There are no transformations of the item names. 
                1. Each `Communication Item` has associated `Communication Channels` of either `Text` or `Email`. Each communication item can have multiple channels associated with it. `4c`, the label paired with each respective channel, is controlled by our team, but we are expecting a value for text (0) or email (1) to come back from the API. Other channels in the future we would expect to have different values.
 
-
+#### Stated differently 
+Each heading (eg. Health care, Payments, Board of Veterans'Appeals) = VA Profile Communication Group 
+Each communication permission = VA Profile Communication Item 
+Each checkbox is paired with text or email = VA Profile channel 
 
 ## Points of interests
 
@@ -57,6 +60,8 @@ Below is a screenshot of the notification settings UI. [For the most up to date 
 
 
 ## API Call
+
+Not sure if this is still accurate need to confirm 
 
 > Sample call
 
