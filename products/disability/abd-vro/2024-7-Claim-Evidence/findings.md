@@ -42,7 +42,8 @@ We specifically sought to learn: 
 We conducted 8 one-hour remote Veteran interviews conducted over Zoom. We used a mix of open-ended questions and content prototype evaluation. The content in each prototype described what evidence was sufficient to demonstrate a current condition. Each participant saw a prototype that had generic language that applied to all conditions. For the second prototype, participants either saw content specific to hypertension (that requires specific medical evidence), or to tinnitus (where a personal statement describing the symptoms is sufficient).
 
 ## Hypotheses and conclusions
-**Hypothesis:** Providing better information around what evidence of a current condition is required will influence some Veterans to provide the evidence needed to move their claim forward.
+**Hypothesis:**
+> Providing better information around what evidence of a current condition is required will influence some Veterans to provide the evidence needed to move their claim forward.
 From talking to Veterans, we learned that providing better evidence on what they should submit to prove a current condition would likely influence some Veterans to submit better evidence. We also learned that Veterans felt affirmed and excited for VA to provide clear guidance on what they should submit
 - LIKELY TRUE. Some Veterans (5 out of 8 participants) would have changed the way they filed a claim with the information provided in our content prototypes.
 
