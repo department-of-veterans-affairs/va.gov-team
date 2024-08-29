@@ -100,7 +100,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**WIP How interaction changed trust**||  | | |
 
 ### Toxic Exposure feature
-|**Data point**|**1.0 50%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
+|**Data point**|**1.0 - 50%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
 |**Feedback satisfaction**|||
@@ -112,8 +112,8 @@ All Medalia survey data is reported as a % of 4+5 answers.
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 
 **Top themes**
-|Rank|Pre-launch (6 weeks)|  **1.0 rollout** | **1.1 rollout**|
-|--|--|--|--|
+|Rank|Pre-launch (6 weeks)|**1.0 - 50%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
+|--|--|--|--|--|
 |1|Usability (33)|--|--|||
 |2|Navigation (33)|-- |
 |3|PACT (26)| |--|
