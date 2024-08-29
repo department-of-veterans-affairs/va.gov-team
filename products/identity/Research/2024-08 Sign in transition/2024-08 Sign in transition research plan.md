@@ -19,23 +19,25 @@ KR3: Retire the MHV in the targeted timeframe (last day available is January 31,
 Securely accessing VA online services can happen at any stage in the Veteran journey. The updated Sign-in page and modal will apply to everyone who signs into VA online and uses the authenticated experience.
 
 ## Research Goals
-Explore veterans thinking around certain terms and phrases relating to sign in and credential migration
-Test the usability of a prototype for the sign in page and/or sign in modal
-Test the entire flow of the sign in communications strategy for users of deprecated credentials 
-	- this includes the sign in page and/or modal as well as interstitial content for more aggressive deprecation messaging
+- Test newly created sign in or create an account modal with updated language to inform veterans of upcoming changes to CSPs
+- Test preliminary interstitial content that provides more in-depth information about the MHV deprecation as part of the communications strategy 
+- Test the usability of a prototype for the sign in page and/or sign in modal
+- Explore veterans thinking around certain terms and phrases relating to sign in and credential migration
+messaging
 
 ## Outcome
 Uncover areas for improvement with our design and content by allowing veterans to interact with our prototype. This will allow us to update the UI and content in a way that better encourages veterans to stop using a deprecated credential and to instead use a modern credential. We expect to find both immediate next steps and to uncover insights for future work.
 
 ## Research questions
-Is our messaging clear enough to encourage veterans to make the transition and begin using the other CSPs? 
-Do folks understand the content around credential deprecation and whether that applies to them and what does that mean going forward?
-Do veterans understand the differences between MHV as a credential versus a site?
-Can veterans still sign in with a deprecated credential if they choose to do so and bypass our attempt to steer them to Login.gov or ID.me?
-Do veterans understand the language updates we plan to use to describe the benefits of a modern credential? 
-What are veterans’ sentiments around the deprecation?
-When would a veteran actually transition to Login.gov/ID.me?
-Are there any other gotchas or pain points that come up?
+- Is our messaging clear enough to encourage veterans to make the transition and begin using the other CSPs? 
+- Do folks understand the content around credential deprecation and whether that applies to them and what does that mean going forward?
+- Do veterans understand the differences between MHV as a credential versus a site?
+- Can veterans still sign in with a deprecated credential if they choose to do so and bypass our attempt to steer them to Login.gov or ID.me?
+- Do veterans understand the language updates we plan to use to describe the benefits of a modern credential? 
+- What are veterans’ sentiments around the deprecation?
+- When would a veteran actually transition to Login.gov/ID.me?
+- Are there any other gotchas or pain points that come up?
+
 
 ## Hypothesis
 H1: Based on the content updates, veterans will understand that MHV as a credential will be going away soon.
