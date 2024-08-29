@@ -24,7 +24,9 @@ This page has a lot of items in flight. Many teams have requested additional not
 
 ## UI With Markup 
 
-Below is a screenshot of the notification settings UI. [For the most up to date designs see our figma files](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=1-12888&node-type=CANVAS&t=OcxVvp5AEXhSbF73-0). 
+Below is a screenshot of the notification settings UI. 
+
+[For the most up to date designs see our figma files](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=1-12888&node-type=CANVAS&t=OcxVvp5AEXhSbF73-0). 
 
 ![Notification Settings Aug 2024](https://github.com/user-attachments/assets/92ca4358-c755-4bdb-9125-df2e9b5799dd)
 
@@ -38,7 +40,8 @@ Below is a screenshot of the notification settings UI. [For the most up to date 
      2. If the user has an email or mobile phone on file - if they do not the language there varies 
 4. This section is completely dynamic and NOT controlled by the team. The data and text is from the API call.
      1. The `4` corresponds to what VA Profile calls a `Communication Group`. For each commincation group there is a separate heading. The header of the group (`4a`) is the `name` of the `Communication Group`. Each `Communication Group` has a list of `Communication Items`.
-          1. `4b` is an example of a `Communication Item` with the `name`: _Health appointment reminders_. `4d` is an example of a `Communication Item` with the `name`: _Prescription shipping notifications_. We iterate over the list of `Communication Items` and display how ever many come from the API. There are no transformations of the item names. 
+          1. `4b` is an example of a `Communication Item` with the `name`: _Health appointment reminders_. `4d` is an example of a `Communication Item` with the `name`: _Prescription shipping notifications_. We iterate over the list of `Communication Items` and display how ever many come from the API. There are no transformations of the item names.
+          2. communication items can have a `default send` value which we evaluate on the FE. This value is controlled by VA Profile and determines what the default behavior of the checkbox is. 
                1. Each `Communication Item` has associated `Communication Channels` of either `Text` or `Email`. Each communication item can have multiple channels associated with it. `4c`, the label paired with each respective channel, is controlled by our team, but we are expecting a value for text (0) or email (1) to come back from the API. Other channels in the future we would expect to have different values.
 
 #### Stated differently 
@@ -46,17 +49,77 @@ Each heading (eg. Health care, Payments, Board of Veterans'Appeals) = VA Profile
 Each communication permission = VA Profile Communication Item 
 Each checkbox is paired with text or email = VA Profile channel 
 
-## Points of interests
+<details><summary>alternative screengrab</summary>
+<p>
 
-- Edit the options list [here](<https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/profile/components/notification-settings/NotificationChannel.jsx#L80jk>. Once we expand to email, this will be where the dev work will start.
-- RX tracking notification is controlled by facility id. The allow-list is located at <https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/profile/constants.js#L65>
-- Healthcare Notifications only show if the user has *any* facilities. The filter logic is located at <https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/profile/ducks/communicationPreferences.js#L353>
+![image](https://github.com/user-attachments/assets/66e8fa4e-7c45-45cb-8044-16c94c5c33bd)
 
+</p>
+</details> 
+
+# Features/Functionality of interest
 
 ## Default Send 
-
-
+Each communication item can have a default send value which is a boolean that: 
+- if true = the default behavior is to send these notifications to the veteran and the user would need to opt out of receiving the communication item
+- if false = the user will need to opt in to receive those communication items
+  
 ## Contact Information - Editing as a Subtask 
+If no contact information is found an alert will appear on the page prompting the user to add a phone number or email. This alert will [pass the user into the edit-as-a-subtask flow](https://www.figma.com/design/zRlluj4zQgu4yNykyp3LjS/Profile---Editing-sub-task?node-id=0-1&node-type=CANVAS&t=dnVTJSuNXCX29TPu-0) prompting the user for ONE piece of contact information at a time. It will put the user back on the notification settings page once the user saves or if they cancel without saving.
+
+## Health care filtering 
+Healthcare Notifications only show if the user has *any* facilities. This means the user has to actually have health care for the health care section to display
+
+The filter logic is located at <https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/profile/ducks/communicationPreferences.js#L353>
+
+
+## Prescription Shipping Filtering
+RX tracking notification is controlled by facility id. Not all facilities send RX shipment notifications. The allow-list is located at <https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/personalization/profile/constants.js#L65>
+
+
+# Changes in flight 
+Incorporating PHI/PII in the healthcare appointment reminders. [See the initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/mhv-notification-preferences-migration/appointmentReminderPHIandPII/README.md).
+
+# Appendix 
+
+<details><summary>Details</summary>
+<p>
+
+## TL;DR
+
+- `1`, `2`, and `3c` we control
+- `3a` and `3b`, we don't control
+
+## UI Notes
+
+![UI as of April 2022](./assets/notifications-page.png)
+
+
+### 3c. Options creation note
+
+We create the radio button lists based on the following code.
+
+```jsx
+ options={[
+          {
+            label: `Notify me by ${channelTypes[channelType]}`,
+            value: 'true',
+            ariaLabel: `Notify me of ${itemName} by ${
+              channelTypes[channelType]
+            }`,
+          },
+          {
+            label: `Don’t notify me`,
+            value: 'false',
+            ariaLabel: `Do not notify me of ${itemName} by ${
+              channelTypes[channelType]
+            }`,
+          },
+        ]}
+```
+
+</p>
+</details> 
 
 
 ## API Call
@@ -122,44 +185,3 @@ GET /v0/profile/communication_preferences
  }
 }
 ```
-
-## Appendix 
-
-<details><summary>Details</summary>
-<p>
-
-## TL;DR
-
-- `1`, `2`, and `3c` we control
-- `3a` and `3b`, we don't control
-
-## UI Notes
-
-![UI as of April 2022](./assets/notifications-page.png)
-
-
-### 3c. Options creation note
-
-We create the radio button lists based on the following code.
-
-```jsx
- options={[
-          {
-            label: `Notify me by ${channelTypes[channelType]}`,
-            value: 'true',
-            ariaLabel: `Notify me of ${itemName} by ${
-              channelTypes[channelType]
-            }`,
-          },
-          {
-            label: `Don’t notify me`,
-            value: 'false',
-            ariaLabel: `Do not notify me of ${itemName} by ${
-              channelTypes[channelType]
-            }`,
-          },
-        ]}
-```
-
-</p>
-</details> 
