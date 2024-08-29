@@ -113,7 +113,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 
 **Top themes**
 |Rank|Pre-launch (6 weeks)|**1.0 - 50%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 |1|Usability (33)|--|--|||
 |2|Navigation (33)|-- |
 |3|PACT (26)| |--|
