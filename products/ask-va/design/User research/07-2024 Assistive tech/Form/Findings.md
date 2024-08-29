@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: August 28, 2024
+Last updated by @tygindraux: August 29, 2024
 
 Tyler Gindraux [tyler@bluetiger.digital | tyler.gindraux@va.gov]
 
@@ -251,50 +251,47 @@ Devices used during study:
 Age:
 * 25-34: 0
 * 35-44: 0
-* 45-54: 4
+* 45-54: 3
 * 55-64: 4
 * 65+: 2
-* Unknown: 2
+* Unknown: 1
 
 Education:
-* High school degree or equivalent: 2
+* High school degree or equivalent: 1
 * Some college (no degree): 4
-* Associate's degree, trade certificate or vocational training: 1
+* Associate's degree, trade certificate or vocational training: 0
 * Bachelor's degree: 2
 * Master's degree: 3
 * Doctorate degree: 0
-* Unknown: 0
 
 Geographic location:
-* Urban: 5
-* Rural: 7
-* Unknown: 3
+* Rural: 6
+* Urban: 4
 
 Race:
-* White: 4
-* Black: 1
-* Hispanic: 2
+* White: 7
+* Black: 2
+* Hispanic: 1
 * Biracial: 1
-* Asian: 0
-* Native: 1
-* Unknown: 3
+* Asian: 1
+* Native: 0
 
 Disability and Assistive Technology (AT):
-* Cognitive: 4
-* AT beginner: 0
-* AT advanced user: 0
-* Desktop screen reader: 0
-* Mobile screen reader: 0
-* Magnification/Zoom: 0
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Cognitive: 1
+* AT beginner: 2
+* AT advanced user: 2
+* Desktop screen reader: 2
+* Mobile screen reader: 2
+* Magnification/Zoom: 1
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 1
 * Hearing aids: 0
 * Sighted keyboard: 0
 * Captions: 0
 
 ## Underserved groups we haven’t talked to 
 
-We have completed the [VA Recruitment Checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726).
+We have completed the [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1967698004#gid=1967698004).
 
-We only had 1 no show so we exceeded our target of 6 participants. We aimed to fill gaps in our previous studies. So, we specifically called out Asian or Hispanic demographics when we recruited, because we haven't been able to recruit participants from these demographics in our last two studies. Still, we did not recruit any Asian participants. Also, this study did not recruit for other than honorable, immigrant origin, expat or AT users.
+This study focused on AT. We had 1 session cancelled due to no AT and one no-show. We exceeded our target of 6 complete sessions and finished with 10 complete sessions. I've noted AT use above based on which AT participants said they use, however, we had 4 participants who did not go through the test on their AT. 1 participant couldn't share their screen and we switched to a QA session due to too many technical difficulties. 3 other participants did not use the AT during the test. All 3 stated that they didn't feel the need to use it, but would be more likely to use their AT if the form was more text-heavy and/or longer.
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/07-2024-Research-equality-checker.png)
+![VA-recruitment-checker](add link)
