@@ -81,6 +81,14 @@ body:
       placeholder: ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
     validations:
       required: true
+  - type: checkboxes
+    id: passphraseRequirement
+    attributes:
+      label: SSH Key Passphrase
+      description: See [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases) for how to add a passphrase to an SSH key.
+      options:
+      - label: Please check this box to confirm that your SSH key has a strong passphrase.
+        required: true
   - type: textarea
     attributes:
       label: e-App (aka E-QIP) Transmittal Confirmation
