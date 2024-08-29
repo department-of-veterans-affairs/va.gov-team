@@ -1,20 +1,5 @@
 # Conversation Guide for Identity Experience, sign-in page credential deprecation
 
-What do we want to know?
-
-
-Create account (what happens when we get rid of the “create account section”?
-Are Veterans able to use the sign in or create an account option to sign in and/or create an account?
-Can veterans navigate to create an account as needed?
-Preliminary testing of the interstitial (content)
-Content to be tested:
-using “available until” vs “going away on”
-   - the wording around account vs service (or something else to call the CSPs)
-   - MHV account vs MHV as a csp
-- Alert related (time permitting)
-   - if extra time - “identity-verified account” vs verified account”
-   - if extra time - “prevent scammers from stealing your benefits” vs “stealing your
-Would it be confusing for veterans to move to the blue LIG button now? (decision by Wed).
 ## Moderator logistics
 ### 2-3 days before session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions)
