@@ -294,4 +294,4 @@ We have completed the [VA Recruitment Checker for Equality](https://docs.google.
 
 This study focused on AT. We had 1 session cancelled due to no AT and one no-show. We exceeded our target of 6 complete sessions and finished with 10 complete sessions. I've noted AT use above based on which AT participants said they use, however, we had 4 participants who did not go through the test on their AT. 1 participant couldn't share their screen and we switched to a QA session due to too many technical difficulties. 3 other participants did not use the AT during the test. All 3 stated that they didn't feel the need to use it, but would be more likely to use their AT if the form was more text-heavy and/or longer.
 
-![VA-recruitment-checker](add link)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/08-2024-Research-equality-checker.png)
