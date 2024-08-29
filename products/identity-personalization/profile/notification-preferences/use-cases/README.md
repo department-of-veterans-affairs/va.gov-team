@@ -21,6 +21,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ## Edge cases
 ### Flags 
+There are no flags associated with this feature.
 
 ### Validation
 This feature has no validation use cases.
