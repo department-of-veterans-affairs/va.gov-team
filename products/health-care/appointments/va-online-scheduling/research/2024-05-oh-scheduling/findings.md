@@ -124,12 +124,13 @@ This test included 2 versions of the appointments list:
 
 ## Key Findings
 
-### OH Provider selection - Key Findings
+### Oracle Health Provider selection - Key Findings
 
 
 1. Participants indicated a need to know if the providers listed were ones they have seen before, and said it would be nice to see provider experience, provider availability, and the option to view provider details when selecting a provider.
 2. It wasn't clear to 8 participants that they had a previous relationship with providers in the list.
 3. Only 1 participant seemed to understand that request meant they were not going to direct-schedule but rather go through a different process. 
+![Screenshot 2024-08-29 at 10 03 25 AM](https://github.com/user-attachments/assets/5a0e1d25-66eb-4df7-afd3-b746db039bb6)
 
 
 ### Details of Findings and Recommendations
@@ -175,6 +176,7 @@ Recommendations:
 3. 10 participants reacted positively to the resource for "how to choose between urgent and emergency medical care." 
 4. 4 participants appreciated the urgent medical needs alerts, finding them useful and timely, while 4 others perceived them as frustrating or unnecessary.
 5. Overall the "I need immediate care" option as a type of care in the scheduling tool was ineffective. 
+![Screenshot 2024-08-29 at 10 06 30 AM](https://github.com/user-attachments/assets/4e1aa8a2-37a8-4052-b3a1-54b6463d8e81)
 
 
 ### Details of Findings 
@@ -245,6 +247,7 @@ Recommendations:
 3. 2 participants noted the wording at the top of the list "choose an appointment you've had in the past" was slightly confusing.  
 4. 5 participants found the wording  "review available appointments" misleading. 
 5. The organization of providers listed was validated as  4 participants prefer primary care appointments listed first and 5 participants noted liking the list organized by recent visits.
+![Screenshot 2024-08-29 at 10 05 49 AM](https://github.com/user-attachments/assets/e651bc81-b1ae-4518-8598-55d8396268c2)
 
 
 ### Details of findings
@@ -330,6 +333,8 @@ Test in GA4 and DataDog RUM to see if users are changing the default from recent
 2. 12 participants understood that the bell was clickable and there was something for them to do or read if they clicked on it.  
 3. Overall participants understood each notification, however there were a few areas of content that caused confusion among some. 
 4. A couple of participants called out that the red background for the notifications CTA was alarming.
+![S![Screenshot 2024-08-29 at 10 10 08 AM](https://github.com/user-attachments/assets/766342ad-e905-4ae5-b86f-e6c761036d0a)
+creenshot 2024-08-29 at 10 09 56 AM](https://github.com/user-attachments/assets/51b22502-82de-4e4d-8941-14c076222d2a)
 
 
 ### Details of findings
