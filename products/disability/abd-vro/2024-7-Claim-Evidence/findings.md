@@ -69,7 +69,7 @@ This track employs design exploration and usability testing to answer the follow
 - **Should we launch first with a generic version of the content, which is a lower lift but potentially less clear to Veterans, or begin with specific versions of the content for a few given contentions?**
 
 **Figure 1: Potential solutions**
-<img width="783" alt="[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/Claim-evidence-veteran-approaches.png](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/claim-evidence-potential-solutions.png)">
+![Figure 1: Potential solutions]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/Claim-evidence-veteran-approaches.png] "Figure 1: Potential Solutions")
 This graphic shows various approaches to providing evidence-related education to Veterans. Content located in the information and resources section may be as simple as a new generic information page. However, a condition-specific version might allow Veterans to select their condition to see what is needed before starting an application. Content within the 526-EZ form could provide either generic or condition-specific information at moments that matter: while selecting a condition to claim, before uploading evidence, or while uploading evidence.
 
 ### Track 2: Release a simple MVP into production and begin gathering metrics.
