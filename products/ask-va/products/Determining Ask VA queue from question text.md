@@ -11,7 +11,8 @@ Jump to:
 - [Background](#background)
 
 ## Problem statements
-This AI model could support both agent and submitter needs. 
+This AI model could support both agent and submitter needs. However, based on a more in-depth analysis we conducted ([view our GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Queue%20analysis.md)), we believe an AI model has a[ greater impact on the submitter experience of completing the form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Queue%20analysis.md) compared to reducing solution time.
+
 ### Submitter problem statement: Misrouting and form burden
 Sometimes, people choose the wrong answers to Category, Topic, and Location, so the CRM routes their question to a queue with assigned agents who can’t answer their question. **Agents reroute around 7% questions every year to different queues.** 
 
