@@ -12,7 +12,7 @@ It is possible to alert from Sentry on errors encountered on facility pages.
 ### Facilities Notification of error on VAMC pages
 https://vagov.ddog-gov.com/monitors/170096
 
-- Datadog monitor checks Sentry every 15 mins for any errors on pages with `-health-care` in their path. This checks for any possible errors that may come from either a disconnection from the s3-bucket-served data for the web page or some component that was not built correctly.
+- Datadog monitor checks Sentry every 15 mins for any errors on pages with `-health-care` in their path([Sentry Alert](https://sentry.vfs.va.gov/organizations/vsp/alerts/rules/platform-web/39/)). This checks for any possible errors that may come from either a disconnection from the s3-bucket-served data for the web page or some component that was not built correctly.
 - Warning > 1, Alert > 3
 
 TODO: Sentry is slated for deprecation from the VA ecosystem. This monitor will need to be revised to stop using Sentry, ticketed in https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18708.
