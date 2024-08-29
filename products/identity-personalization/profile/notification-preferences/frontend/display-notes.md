@@ -33,7 +33,8 @@ Below is a screenshot of the notification settings UI.
 
 [For the most up to date designs see our figma files](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=1-12888&node-type=CANVAS&t=OcxVvp5AEXhSbF73-0). 
 
-![Notification Settings Aug 2024](https://github.com/user-attachments/assets/92ca4358-c755-4bdb-9125-df2e9b5799dd)
+![Notification-Settings Aug 2024](https://github.com/user-attachments/assets/dfcf02ae-289e-42e8-827f-aff91f5abe20)
+
 
 
 ### Key
