@@ -50,9 +50,9 @@ Below is a screenshot of the notification settings UI.
                1. Each `Communication Item` has associated `Communication Channels` of either `Text` or `Email`. Each communication item can have multiple channels associated with it. `4c`, the label paired with each respective channel, is controlled by our team, but we are expecting a value for text (0) or email (1) to come back from the API. Other channels in the future we would expect to have different values.
 
 #### Stated differently 
-Each heading (eg. Health care, Payments, Board of Veterans'Appeals) = VA Profile Communication Group 
-Each communication permission = VA Profile Communication Item 
-Each checkbox is paired with text or email = VA Profile channel 
+- Each heading (eg. Health care, Payments, Board of Veterans'Appeals) = VA Profile Communication Group 
+- Each communication permission = VA Profile Communication Item 
+- Each checkbox is paired with text or email = VA Profile channel 
 
 <details><summary>alternative screengrab</summary>
 <p>
