@@ -43,5 +43,8 @@ We conducted 8 one-hour remote Veteran interviews conducted over Zoom. We used a
 - TRUE. Some Veterans (5 out of 8 participants) would have changed the way they filed a claim with the information provided in our content prototypes.
 
 ## Key Findings
-**1. Content could influence first-time filers to provide better evidence for their condition.** 5 out of 8 participants said the test content would have changed how they filed a previous claim.
+**1. Content could influence first-time filers to provide better evidence for their condition.** 
+5 out of 8 participants said the test content would have changed how they filed a previous claim.
+**2. Examples of what kinds of evidence to submit affirmed and excited Veterans.** 
+Providing clear guidance on what kinds of evidence to submit could increase Veteran confidence and trust.
 
