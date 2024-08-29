@@ -8,9 +8,9 @@ This page has a lot of items in flight. Many teams have requested additional not
 
 - [API to Display notes](#api-to-display-notes)
   - [TL;DR](#tldr)
-  - [UI Notes](#ui-notes)
+  - [UI With Markup](#ui-with-markup)
     - [Key](#key)
-    - [c. Options creation note](#c-options-creation-note)
+    - [Features/Functionality of Interest](#c-options-creation-note)
   - [Points of interests](#points-of-interests)
   - [API Call](#api-call)
 
