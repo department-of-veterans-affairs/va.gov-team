@@ -23,10 +23,13 @@ We looked at a sample of data with the following filters:
 Given the analysis, we feel confident that an AI model that returns an Ask VA queue given question text from a submitter **could** reduce days to solve.**
 -	For 85% of rerouted inquiries, agents solved inquiries with no reroutes **in less days** compared to inquiries with one reroute
    - For example, agents in VBA ART solve inquiries with no reroutes in **2 days** compared to **3 days** for inquiries with one reroute.
-     
+![image](https://github.com/user-attachments/assets/cffebdc8-3c18-4e28-a3b2-4ac924d83150)
+
 ### Conclusion #2
 However, reducing rerouting would have a relatively small impact on helping submitters get quicker responses. 
 -	Only **7% of all inquiries** are rerouted at least once.
+![image](https://github.com/user-attachments/assets/7a1f67f0-1dff-4a21-b7f4-bffbe916492f)
+
   
 ### Conclusion #3
 Therefore, an AI model that returns an Ask VA queue given question text minimally impacts resolutions time. The biggest impact this model could have is on the **submitter experience.**
