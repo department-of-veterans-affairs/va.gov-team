@@ -4,7 +4,7 @@
 
 Date: 08/29/2024
 
-Kim Ladin, Carolyn Dew, and Katelyn Caillouet katelyn.caillouet@agile6.com
+Carolyn Dew carolyn@navapbc.com, Kim Ladin kimladin@navapbc.com, and Katelyn Caillouet katelyn.caillouet@agile6.com
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -36,9 +36,12 @@ We specifically sought to learn: 
 
 
 ## Methodology
+We conducted 8 one-hour remote Veteran interviews conducted over Zoom. We used a mix of open-ended questions and content prototype evaluation. The content in each prototype described what evidence was sufficient to demonstrate a current condition. Each participant saw a prototype that had generic language that applied to all conditions. For the second prototype, participants either saw content specific to hypertension (that requires specific medical evidence), or to tinnitus (where a personal statement describing the symptoms is sufficient).
 
 ## Hypotheses and Conclusions
 **Hypothesis:** Providing better information around what evidence of a current condition is required will influence some Veterans to provide the evidence needed to move their claim forward.
 - TRUE. Some Veterans (5 out of 8 participants) would have changed the way they filed a claim with the information provided in our content prototypes.
 
 ## Key Findings
+**1. Content could influence first-time filers to provide better evidence for their condition.** 5 out of 8 participants said the test content would have changed how they filed a previous claim.
+
