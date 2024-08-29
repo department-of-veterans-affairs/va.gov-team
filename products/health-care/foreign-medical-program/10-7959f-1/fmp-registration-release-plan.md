@@ -68,7 +68,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
 ### Internal testing
-- whitelist internal emails to allow submissions
+- allow list internal emails to allow submissions (need final list)
 - end user PEGA testing with confirmation from users of downstream systems
 - receive confirmation of PEGA import
 - resolution of any PEGA errors/issues
