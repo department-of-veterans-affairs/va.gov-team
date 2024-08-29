@@ -32,6 +32,17 @@ Provide guidance for Active Duty Service Members and Veterans who want to regist
 - Shared design with HEC Stakeholders on 4/10/2024, receiving verbal excitment and approvals
 - Shared Experiment parameters with HEC stakeholders on 8/14/2024, receiving verbal interest and approvals
 
+#### Decision made on 8/28/2024
+- CAIA (Content) suggested to provide an "I'm not sure" option, along with the radio options to "Register for connected service care" or "Enroll in the full benefits package".
+- When demo'd to PO, concern was brought up that the "I'm not sure" option would direct users through the application and submit.
+     - This pathway is the same as the "enroll in full benefits package" option, duplicative action which is not advisable
+- The team came together to discuss the "I'm not sure" option, and how best to present it to Veterans
+- DECISION MADE
+     - Remove "I'm not sure" as a radio button option
+     - Add some hint or other type of text on the screen to guide Veterans to select the "Enroll in full benefits package" option if they are not sure.
+     - UX team will discuss with CAIA on proper content
+     - We will not launch Reg Only into production until after these changes are made to the current development (in QA)
+
 
 
 ## Problem
