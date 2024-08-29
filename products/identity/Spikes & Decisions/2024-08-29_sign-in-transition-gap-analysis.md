@@ -1,5 +1,9 @@
 # Secure sign-in transition - Authentication Metrics Gap Analysis
 
+## Purpose
+
+To identify potential gaps for the data requirements outlined in [this document (\*requires SharePoint access)](https://dvagov.sharepoint.com/:w:/r/sites/IdentityTeam/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bf2e719c9-f13e-48f1-aa9a-ae86ae83843a%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1723472761252&web=1) and what is currently available within the Domo dashboard.
+
 <details>
 <summary>
 
@@ -348,7 +352,7 @@
 
 ### Current state
 
-- Transform logic ([documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/discovery/deferred-identity-proofing/data-dictionary.md)) is correct and accurate
+- Transform logic was analyzed and appears to be correct. It is also [documented here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/discovery/deferred-identity-proofing/data-dictionary.md)) for further review.
 
 ### Gaps
 
