@@ -21,7 +21,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ## Edge cases
 ### Flags 
-There are no flags associated with this feature.
+- [documented in the FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/feature-flags.md)
 
 ### Validation
 This feature has no validation use cases.
