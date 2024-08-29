@@ -6,8 +6,8 @@
 
 - Complete any project-specific setup tasks for this study (List them below)
 
-- [ ] Open and prepare prototype for facilities search -- ONLY if not ready in staging/production
 - [ ] Open and prepare confirmation screen in Figma for content feedback
+- [ ] Open and prepare prototype for facilities search -- ONLY if not ready in staging/production [pending final confirm, but will be deleting this]
 
 
 ### Day of the session
@@ -58,7 +58,7 @@ Before we start, I have a few things that I want to go over with you:
 
 ## Warm-up Interview Questions - 10 minutes
 
-Before we look at the caregvier program form, let’s start with a few warm-up questions about your [caregiver/Veteran] application experience.
+Before we look at the caregvier program online form, let’s start with a few warm-up questions about your [caregiver/Veteran] application experience.
 
 - Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
    - If no: [Should be yes based on screener criteria - but pivot to convo guide for cohort 2 and note]
@@ -88,6 +88,7 @@ Before we look at the caregvier program form, let’s start with a few warm-up q
 - [Link to [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)]
 
 - Review this page and tell me about your intial thoughts and expectations of this information before applying.
+- Is there anything on this page that stands out to you? As being confusing or really helpful?
 
 **Participant ratings:**
 On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
@@ -107,15 +108,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - Now start the application as if you were applying.
 - This is our staging site don't worry about information going anywhere and also please remember to talk alout about what you are thinking.
 - Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share.
-- [If they pause on the county field, ask additional questions: I see you are pausing on this, can you tell me more about (xyz...)]
-
-
-### Provide to get to Confirmation Screen??
-- If we want to have them reach the confirmation page, we need to provide them specific fake Veteran info no this page
-- [User #36 can be used for testing in all environments]
-- [first name: WESLEY]
-- [last name: FORD]
-- [Use the [Staging users document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) or [Test User Dashboard (TUD)](https://tud.vfs.va.gov/) for additional Password, SSN, DOB information]
+- [If they pause on the county field, ask additional questions] I see you are pausing on this, can you tell me more about (xyz...)
 
 
 
@@ -130,8 +123,6 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - Please explain your thoughts and think-aloud as you complete this question.
 - How would you prefer to search for facilities?
 - Can you explain to me how your location choice is part of the caregiver application process?
-
-  
 - Let's imagine you want to change the location you have selected - you are moving soon - by doing a new search.
 - Can you walk me through how you would accomplish that?
 
@@ -162,7 +153,6 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - For this scenario, complete the questions as you would if you were applying with a secondary caregiver too.
 - What does a secondary caregiver mean to you?
 - How do you think the secondary role differs in the application process and benefits from the primary caregiver?
-
 - Now let's have you add an additional Secondary Caregiver. Can you continue with that and please continue to think aloud.
   
 
@@ -176,14 +166,17 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 ## Caregiver Interview Questions - 10 minutes
 
-- When completing this application for real, can you tell me how would you coordinate getting this information from everyone involved?
-- Would you sit down and complete this application together?
-- Or would you prefer to have help completing this application from an accredited representative or someone else from the VA?
-- Thinking of an ideal scenario, can you describe for me what would work best for you if you had to complete an application with multiple people
+- When completing this online form for real, can you tell me how would you coordinate getting this information from everyone involved?
+- Would you sit down and complete this form together?
+- Or would you prefer to have help completing this from an accredited representative or someone else from the VA?
+
+- For you, what are the biggest pain points about this application process?
+  
+- Thinking of an ideal scenario, can you describe for me what would work best for you if you had to complete an application with multiple people involved.
 - [If not mentioned above] Would you like have a way to sign in and only complete your information yourself?
 
 - What research would you have done before applying?
-- Would you like additional information about who qualifies for the 2 caregiver roles when completing the application? Or is that just redundent at the point of applying and not useful?
+- Would you like additional information about who qualifies for the 2 caregiver roles when completing the online form? Or is that just redundent at the point of applying and not useful?
 
 
 
