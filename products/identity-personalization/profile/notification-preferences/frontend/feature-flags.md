@@ -6,7 +6,7 @@
 # Table of Contents
   - [MHV Notifications](#mhv-notifications)
   - [C&P Notifications](#cp-notifications)
-  - [Debt Team Notifications](#debt-team-notifications)
+  - [Debt Team Notifications](#debt-team-notifications-epic-link)
   - [Appendix](#appendix)
 
 
