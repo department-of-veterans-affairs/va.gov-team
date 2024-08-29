@@ -45,6 +45,19 @@ We conducted 8 one-hour remote Veteran interviews conducted over Zoom. We used a
 ## Key Findings
 **1. Content could influence first-time filers to provide better evidence for their condition.** 
 5 out of 8 participants said the test content would have changed how they filed a previous claim.
+
 **2. Examples of what kinds of evidence to submit affirmed and excited Veterans.** 
 Providing clear guidance on what kinds of evidence to submit could increase Veteran confidence and trust.
+
+**3. Veterans need education to refine their evidence strategy.**
+Some Veterans weren’t aware they could submit a personal statement that describes their symptoms, where others modified their evidence strategy based on their experience of previous claims.
+
+**4. Veterans had a slight preference for the condition-specific prototypes.** 
+4 out of 8 Veterans preferred the condition-specific prototype over the generic text, 2 preferred the generic text, and 2 had no preference.
+
+**5. Veterans valued more concise text.**
+Regardless of which prototype they preferred, most Veterans expressed appreciation for content that was brief and to the point.
+
+**6. Under-submitters expect VA to tell them what evidence is needed.**
+This expectation is misaligned with how VA actually processes disability claims. 
 
