@@ -1,6 +1,6 @@
 # About this Research
 
-- [Research Repo Ticket]() - tbd
+- [Research Repo Ticket](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2?filterQuery=&pane=issue&itemId=77753830)
 - [Figma Prototype - sign in page](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=0-1&t=sS2DIdQ2K3HMtQEz-0)
 - [Figma prototype – interstitial](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=871-408465&t=Gu9Bksh7NA9P0WKv-0)
 - [Enjoy HQ project](https://app.enjoyhq.com/projects/QwXlGYvnK/plan)
