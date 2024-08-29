@@ -242,6 +242,10 @@ Why: If the VEO request/requirement for MSO data (that it is placed within the M
 
 The Military information page does contain a section where the Veteran can request their military records. This might make a good pattern to duplicate for a new section with text explaining the content and context of ILER, and a download link, as well as information about known data issues and how to contact someone to correct these issues.
 
+### ILER data may be inaccurate and incomplete, and Veterans already don't trust the data
+
+
+
 ### New section in Military Information must contain:
 - that this is new
 - what ILER is (and isn't)
