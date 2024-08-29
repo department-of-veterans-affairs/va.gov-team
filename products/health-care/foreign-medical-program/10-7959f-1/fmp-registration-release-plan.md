@@ -72,7 +72,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - end user PEGA testing with confirmation from users of downstream systems
 - receive confirmation of PEGA import
 - resolution of any PEGA errors/issues
-- Datadog monitoring
+- Datadog/DOMO and GA monitoring
 
 ### Stage A: Canary
 
