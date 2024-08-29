@@ -1,5 +1,10 @@
 # Ask VA PRA information 
-Last updated by @beckyphung: August 14, 2024 
+Last updated by @beckyphung: August 29, 2024 
+
+🆕 8/29 Update: We met with Phillip Cauthers again on 8/23. We learned that: 
+- The current IRIS System of Records Notice (SORN) hasn't been rescinded yet.
+- We need to update the IRIS SORN. The IRIS SORN should cover Ask VA instead of the PATS-R SORN. 
+- Natalie is reaching out to Amy Rose to get help with updating the SORN and get clarification around keeping our current application live while we complete the update.
 
 This doc explains how Ask VA currently has Paperwork Reduction Act (PRA) clearance. 
 
