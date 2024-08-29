@@ -6,7 +6,8 @@ Date: 08/12/2024
 
 Melissa Lefevre melissa.lefevre@va.gov, Peter Russo Peter.russo@adhocteam.us
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Slide deck](https://github.com/user-attachments/files/16802437/Oracle.Health.integration.and.Scheduling.improvements.research.pdf)
+
 
 **Jump to:**
 
