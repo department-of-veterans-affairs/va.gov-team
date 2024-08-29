@@ -34,7 +34,7 @@ However, reducing rerouting would have a relatively small impact on helping subm
 
   
 ### Conclusion #3
-Therefore, an AI model that returns an Ask VA queue given question text minimally impacts resolutions time. The biggest impact this model could have is on the **submitter experience.**
+Therefore, an AI model that returns an Ask VA queue given question text minimally impacts resolution time. The biggest impact this model could have is on the **submitter experience.**
 - If we're able to accurately predict queue given question text, we could remove the cumbersome Category, Topic, and Subtopic questions a submitter has to answer.
 
 ## Analysis
