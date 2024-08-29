@@ -1,5 +1,7 @@
 # Initiative Brief - Permission to Include PHI and PII in Appointment Reminders
 
+**Last Update:** 8/29/2024 minor revisions and link updates
+
 - **Product:** VA.gov Profile | Notification Settings
 - **Initiative:** Support the MHV to VA.gov Migration by displaying the PHI/PII Appointment Reminder Permission 
 
@@ -46,15 +48,15 @@ We need to allow for the same functionality on VA.gov Profile where users can gr
 
 ## Outcome Summary
 
-The goal of this is to ensure veterains who use MHV today are able to maintain the same capabilities as MHV migrates to VA.gov. The option to grant the VA permission to include PHI/PII in appointment reminders is an important aspect of that. 
+The goal of this is to ensure veterans who use MHV today are able to maintain the same capabilities as MHV migrates to VA.gov. The option to grant the VA permission to include PHI/PII in appointment reminders is an important aspect of that. 
 
 
 
 ## Problem
 
-Email and Text Message are unencrypted communication channels. When communicating with veterans we have to be mindful of the risks inherent to unencrypted messaging which can expose sensitive information. In light of the risks associated with unecnrypted messaging it's important Veterans opt-in and grant us permission to send sensitive PII and PHI in those unencrypted channels. Additionally, this is a requirement mandated by law.
+Email and Text Message are unencrypted communication channels. When communicating with veterans we have to be mindful of the risks inherent to unencrypted messaging which can expose sensitive information. In light of the risks associated with unencrypted messaging it's important Veterans opt-in and grant us permission to send sensitive PII and PHI in those unencrypted channels. Additionally, this is a requirement mandated by law.
 
-Today, MHV users have an opt in/out process that allows them to decide if they would like to see PII/PHI in their appointment reminders. There's a process flow through Vet Text that allows them to opt in / grant permission for MHV to send PII/PHI in appointment reminders. The goal of this initiative is allow users to update their VA.gov profile to grant or rescind persmission for including PHI/PII in appointment reminders on VA.gov in the Notification Settings page of their Profile 
+Today, MHV users have an opt in/out process that allows them to decide if they would like to see PII/PHI in their appointment reminders. There's a process flow through Vet Text that allows them to opt in / grant permission for MHV to send PII/PHI in appointment reminders. The goal of this initiative is allow users to update their VA.gov profile to grant or rescind permission for including PHI/PII in appointment reminders on VA.gov in the Notification Settings page of their Profile 
 
 
 ## Desired User Outcomes
