@@ -2,6 +2,15 @@
 
 **Last updated: August 29, 2024**
 
+
+# Table of Contents
+  - [MHV Notifications](#mhv-notifications)
+  - [C&P Notifications](#cp-notifications)
+  - [Debt Team Notifications](#debt-team-notifications)
+  - [Appendix](#appendix)
+
+
+
 ## MHV Notifications
 - `profileShowMhvNotificationSettingsEmailAppointmentReminders`
      - This enables the email appointment reminders
