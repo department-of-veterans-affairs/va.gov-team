@@ -27,9 +27,8 @@
    - Sound notification when someone joins or leaves: OFF
    - Who can share > All Participants
 - Open standalone browser tab to prototype and save link in slack so ready to paste
-   - [Desktop prototype link]()
-   - [Mobile prototype link]()
-   - [Screen reader prototype link]()
+   - [Desktop prototype link]() To be added
+   - [Mobile prototype link]() To be added
 - Do Not Disturb ON so no notifications (Apple)
    - and/or Mute your Slack notifications.
    - Make sure everyone is muted except moderator (me) and the participant
@@ -70,7 +69,7 @@ Are you comfortable with that?
 - Ok, that's it for set up! Do you have any questions on any of this setup stuff before we start?
 
 
-## Round 1, Questions - General | 5 minutes
+## Starter Questions | 5 minutes
 
 - I’d like to start with a few questions to get to know how you access VA services online
   - Could you first let me know what device you are using right now for this call.
@@ -82,8 +81,7 @@ Are you comfortable with that?
 [the mobile app, VA.gov, MHV website, something else]
 - When was the last time you accessed VA online?  What were you trying to do?
 
-## Round 2, Questions - Sign-in | minutes
-Task - Prototype | 15-20 minutes
+## Task - Prototype | 15-20 minutes
 - Ok so now I’d like to take a look at the prototype design. Just a quick reminder that this is a website design that we are thinking about using. It may look like the real VA.gov but it won’t be, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 - I’m going to send you a link in the Zoom chat.
   - Desktop prototype link
@@ -92,7 +90,7 @@ Task - Prototype | 15-20 minutes
 - Once you get that up, I’ll also ask that you share your screen
 [Screen share help if needed [to link]]
 
-#### Sign-in Modal 
+### Sign-in Modal 
 - Let’s turn our focus to signing into VA. Let’s say you want to go to check [reference what they mentioned the last time they accessed VA online] 
   - Does this page look like where you would normally go?
 - Would you normally sign in first thing before getting started?
@@ -104,7 +102,7 @@ Task - Prototype | 15-20 minutes
   - What would you do next?  Can you tell me what you’re seeing? [Are they seeing the new content?  How does it resonate with them?]
 - [Reiterate] We’re not testing your ability or comprehension but we want to better understand how this content comes across for veterans like yourself.
 - [OPTIONAL For this part, let the veteran lead you and ask follow-up questions including:]
-  - Can you tell me what the text under the “Other sign-in options is saying?
+  - Can you tell me what the text under the “Other sign-in options" means to you?
   - What would you do next? (Would they continue to sign in with MHV or would they choose another option)?
   - [IF normally uses MHV have them imagine they need to sign into VA.gov for another reason]
   - [If they continue with MHV] Can you tell me more about why you would do that?
@@ -112,7 +110,7 @@ Task - Prototype | 15-20 minutes
   - [If they click “learn about creating a Login.gov or ID.me account] What prompted you to click on that?
   - [Any other options] Can you walk me through your rationale for doing _____?
 
-#### Interstitial content 
+### Interstitial content 
 - [For this section, we want to understand how much information vs fluff is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?] 
 - [If the veteran decides to make the switch, skip to the 3rd bullet.]
 - [If they decide to continue with MHV or DS Logon]
@@ -130,7 +128,7 @@ Task - Prototype | 15-20 minutes
     - “You’ll need to sign into Va.gov…”
     - “Learn more about how to create a verified account…”
     - Learn more about this change…”
-#### Inherited Proofing
+### Inherited Proofing
 - If a Login.gov or ID.me account was created for you using your previous information you provided to [MHV or DS Logon], what would you expect to be able to do on VA.gov?
 - Do you use any other government websites?  If a Login.gov or ID.me account was created for you using your previous information you provided to [MHV or DS Logon] and ______ site allowed you to use that account, what would you expect to happen?  [We want to understand what they expect to be able to do with the other government website.]
 
