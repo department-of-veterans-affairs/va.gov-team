@@ -115,7 +115,8 @@ In the VA.gov profile under notification settings > "your healthcare" > "appoint
 
 Currently users see:
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/fb11bba5-6574-405b-bed1-7e981d4d3aa8)
+![image](https://github.com/user-attachments/assets/6ce88e76-6f69-469d-8791-69755198664f)
+
 
 We'd need a check box or radio button feature to be determined with the team's designers to allow veterans a means to see if they've granted the VA permission to include PII/PHI in their appointment reminders and to opt in or out. 
 
@@ -137,8 +138,15 @@ We will be coordinating with VA Profile, VA Notify, and MHV teams to ensure this
 
 <details><summary>screenshot </summary>
 <p>
+  
+radio button format that has since been replaced w/checkboxes: 
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/fb11bba5-6574-405b-bed1-7e981d4d3aa8)
+
+current checkbox configuration: 
+
+![image](https://github.com/user-attachments/assets/41adcfd3-79c3-486a-9e30-53235bc002ca)
+
 
 </p>
 </details> 
