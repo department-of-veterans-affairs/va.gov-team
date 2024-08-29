@@ -35,7 +35,7 @@ However, reducing rerouting would have a relatively small impact on helping subm
   
 ### Conclusion #3
 Therefore, an AI model that returns an Ask VA queue given question text minimally impacts resolution time. The biggest impact this model could have is on the **submitter experience.**
-- If we're able to accurately predict queue given question text, we could remove the cumbersome Category, Topic, and Subtopic questions a submitter has to answer.
+- If we're able to accurately predict queue given question text, we could remove the cumbersome Category, Topic, and Subtopic questions a submitter has to answer. Answers to these questions currently determine routing of the inquiry.
 
 ## Analysis
 - [View the Power BI report](https://app.powerbigov.us/groups/0946c35e-7703-4949-b964-f984467d9d62/reports/31d823a9-44a2-4ee2-81ef-dccadf6190c1/ReportSection)
