@@ -43,7 +43,8 @@ We conducted 8 one-hour remote Veteran interviews conducted over Zoom. We used a
 
 ## Hypotheses and conclusions
 **Hypothesis:** Providing better information around what evidence of a current condition is required will influence some Veterans to provide the evidence needed to move their claim forward.
-- TRUE. Some Veterans (5 out of 8 participants) would have changed the way they filed a claim with the information provided in our content prototypes.
+From talking to Veterans, we learned that providing better evidence on what they should submit to prove a current condition would likely influence some Veterans to submit better evidence. We also learned that Veterans felt affirmed and excited for VA to provide clear guidance on what they should submit
+- LIKELY TRUE. Some Veterans (5 out of 8 participants) would have changed the way they filed a claim with the information provided in our content prototypes.
 
 ## Key findings
 **1. Content could influence first-time filers to provide better evidence for their condition.** 
