@@ -105,7 +105,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 
 ## Second Task: [Veteran inforamtion] - 5 minutes
-- Now start the application as if you were applying.
+- Now start the form as if you were applying for the program in real life.
 - This is our staging site don't worry about information going anywhere and also please remember to talk alout about what you are thinking.
 - Feel free to use fake information for sensitive items such as your social or birthdate that you don't want to share.
 - [If they pause on the county field, ask additional questions] I see you are pausing on this, can you tell me more about (xyz...)
@@ -115,15 +115,15 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 ### Things to watch for:
 - [Does the participant need additional clarification to complete any of the questions?]
 - [Does the participant comment that any of these questions are not needed/too intrusive?]
-- [Does the participant comment about the ask of Social Security number or the County in the address block?]
+- [Does the participant comment about the ask of Social Security number or the county in the address block?]
 
 
 ## Third Task: [Facilities Selection] - 5 minutes
 
 - Please explain your thoughts and think-aloud as you complete this question.
-- How would you prefer to search for facilities?
-- Can you explain to me how your location choice is part of the caregiver application process?
-- Let's imagine you want to change the location you have selected - you are moving soon - by doing a new search.
+- How would you prefer to search for VA facilities?
+- Can you explain to me how your facility choice is part of the caregiver application process?
+- Let's imagine you want to change the facility you have selected - you are moving soon - by doing a new search.
 - Can you walk me through how you would accomplish that?
 
 
@@ -144,8 +144,8 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 - [Does the participant understand the primary caregiver role for the application?]
 - [Does the participant call out any content or questions as confusing or unclear?]
-- [Does the participant comment about the ask of Social Security number esp thinking that it is required?]
-- [Does the participant comment about the County in the address block?]
+- [Does the participant comment about the ask of Social Security number especially thinking that it is required?]
+- [Does the participant comment about the county in the address block?]
 
 
 ## Fifth Task: [Secondary Caregiver] - 5 minutes
@@ -153,7 +153,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - For this scenario, complete the questions as you would if you were applying with a secondary caregiver too.
 - What does a secondary caregiver mean to you?
 - How do you think the secondary role differs in the application process and benefits from the primary caregiver?
-- Now let's have you add an additional Secondary Caregiver. Can you continue with that and please continue to think aloud.
+- Now let's have you add an additional Secondary Caregiver. Can you continue with that on this form and please continue to think aloud.
   
 
 ### Things to watch for:
