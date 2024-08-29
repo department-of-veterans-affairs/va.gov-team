@@ -72,6 +72,7 @@
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91334)
 - **Tech Debt**
     - 🟩 [Staging Review Feedback: Add Commas to "How to Prepare for Your Appointment" List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91691)
+    - 🟩 [Use the Design System Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9179)
 </details>
 
 ## SPRINT 14 - 8/21/2024-9/3/2024
