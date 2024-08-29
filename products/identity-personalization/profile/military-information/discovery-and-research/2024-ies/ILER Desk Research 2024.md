@@ -202,7 +202,6 @@ Reddit posts on ILER reports are few, but we can see comments on the topic:
 “VA leadership -- which includes Trisha Dang and Melissa Rebstock, among others -- have expressed concerns around the intelligibility of ILER data. These documents can run into hundreds of pages and interpreting the data within them isn’t a straightforward task.” (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-iler-read-access.md#what-are-the-shortcomings-of-granting-read-access-to-iler)
 
 
-
 ## Recommendations
 
 ### Use “ILER” in communications and UI
@@ -242,7 +241,9 @@ Why: If the VEO request/requirement for MSO data (that it is placed within the M
 
 The Military information page does contain a section where the Veteran can request their military records. This might make a good pattern to duplicate for a new section with text explaining the content and context of ILER, and a download link, as well as information about known data issues and how to contact someone to correct these issues.
 
-### ILER data may be inaccurate and incomplete, and Veterans already don't trust the data
+### Veterans already distrust the information, and for good reason: ILER data may be inaccurate and incomplete
+
+link to Pam's readout slide
 
 
 
