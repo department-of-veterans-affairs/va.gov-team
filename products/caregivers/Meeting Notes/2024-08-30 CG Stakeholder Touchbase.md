@@ -1,4 +1,4 @@
-# Aug 30, 2024 | Va.gov Touchbase: Meeting with VA.gov, CSP, SPS, and MuleSoft Team
+# Aug 30, 2024 | Va.gov Touchbase: Meeting with VA.gov, CSP, SPS, and MuleSoft Team.
 
 ## Notes
 
