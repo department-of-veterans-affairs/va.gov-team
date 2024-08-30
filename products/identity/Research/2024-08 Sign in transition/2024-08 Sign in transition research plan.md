@@ -93,3 +93,43 @@ Note: [recruitement ticket](https://github.com/department-of-veterans-affairs/va
 - Pilot: Mid Sept
 - Sessions: Sept 11-20th
 
+### Prepare
+
+- Pilot participant email:
+- Date and time of pilot session:
+
+
+### Length of sessions
+- Session length: **45-minute** sessions 
+- Session buffer: **45-minute breaks** in between
+- Max sessions per day: 4
+
+  
+### Availability
+- **Sept 16 - 20**
+- please hold Sept 19th/20th in case of needed make ups sessions, to the extent possible.
+
+Team Availability | Time (EST)
+------------------|--------------
+Mon | 10am - Noon, 1 - 6 pm
+Tue | 10am - Noon, 1 - 2 pm
+Wed | 10am - Noon, 1 - 6 pm
+Thur| 10am - Noon, 1 - 6 pm
+Fri | 10am - Noon, 1 - 5 pm
+
+Pilot Session | Time (EST)
+--------------|----------
+Sept TBD | TBD
+
+	
+## Team Roles	
+- Moderators: Megan Driscoll
+- Research guide writing and task development: Charly Tran, Clayton Zook, Megan Driscoll
+- Participant recruiting & screening: Perigean
+- Project point of contact: Clayton Zook, Megan Driscoll
+- Participant(s) for pilot test: TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed): tbd
+- Note-takers: Joelle Wells
+- Observers: Samara Struss
+- Team member emails:
+clayton.zook@oddball.io
