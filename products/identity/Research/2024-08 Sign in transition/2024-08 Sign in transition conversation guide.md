@@ -7,6 +7,8 @@
    - Set up note-taking in Mural
    - Practice assistive tech sessions
    - Check that the prototype is working
+      - [desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=911-416662&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=911%3A416662&show-proto-sidebar=1)
+      - [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=1)
 ### Day of session
 10-15 min before session:
 - Post in #feedback-backchannel @ team members joining
@@ -27,8 +29,8 @@
    - Sound notification when someone joins or leaves: OFF
    - Who can share > All Participants
 - Open standalone browser tab to prototype and save link in slack so ready to paste
-   - [Desktop prototype link]() To be added
-   - [Mobile prototype link]() To be added
+   - [desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=911-416662&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=911%3A416662&show-proto-sidebar=1)
+   - [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=1)
 - Do Not Disturb ON so no notifications (Apple)
    - and/or Mute your Slack notifications.
    - Make sure everyone is muted except moderator (me) and the participant
@@ -91,8 +93,8 @@ Are you comfortable with that?
 ## Task - Prototype | 15-20 minutes
 - Ok so now I’d like to take a look at the prototype design. Just a quick reminder that this is a website design that we are thinking about using. It may look like the real VA.gov but it won’t be, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 - I’m going to send you a link in the Zoom chat.
-  - Desktop prototype link
-  - Mobile version link
+   - [desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=911-416662&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=911%3A416662&show-proto-sidebar=1)
+   - [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=1)
 - Let me know if you have any issues opening up that link
 - Once you get that up, I’ll also ask that you share your screen
 [Screen share help if needed [to link]]
@@ -100,6 +102,7 @@ Are you comfortable with that?
 ### Sign-in Modal 
 - Let’s turn our focus to signing into VA. Let’s say you want to go to check [reference what they mentioned the last time they accessed VA online] 
   - Does this page look like where you would normally go?
+  - [IF normally uses MHV.gov have them imagine they need to sign into VA.gov for another reason]
 - Would you normally sign in first thing before getting started?
   - If not, can you describe to me what you would normally do?
   [Continue signing in - credential selection page]
@@ -111,14 +114,13 @@ Are you comfortable with that?
 - [OPTIONAL For this part, let the veteran lead you and ask follow-up questions including:]
   - Can you tell me what the text under the “Other sign-in options" means to you?
   - What would you do next? (Would they continue to sign in with MHV or would they choose another option)?
-  - [IF normally uses MHV have them imagine they need to sign into VA.gov for another reason]
-  - [If they continue with MHV] Can you tell me more about why you would do that?
+  - [If they continue with MHV credential] Can you tell me more about why you would do that?
   - [If they choose either Login.gov or ID.me] Why did you choose that option?
   - [If they click “learn about creating a Login.gov or ID.me account] What prompted you to click on that?
   - [Any other options] Can you walk me through your rationale for doing _____?
 
 ### Interstitial content 
-- [For this section, we want to understand how much information vs fluff is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?] 
+- [For this section, we want to understand how much information, additional context, and ugency is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?] 
 - [If the veteran decides to make the switch, skip to the 3rd bullet.]
 - [If they decide to continue with MHV or DS Logon]
    -Do you know if you have a Login.gov or ID.me account?  [If both, which one would you use?]
