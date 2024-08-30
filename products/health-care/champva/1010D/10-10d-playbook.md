@@ -51,7 +51,7 @@ link to errors and logs your product produces
 
 ### Flipper Features and Rollback
 - Is there a flipper feature? If yes, describe here and explain when to modify the flipper and to what exactly.
-  - React widget feature toggle is `form1010d`
+  - React widget feature toggle is `form1010d`(10-10d), form107959F1 (10-7959f-1), form107959f2 (10-7959f-2), form107959c (10-7959c), form107959a (10-7959a)
 - At what point, if applicable, should your code be rolled back, to what state? (optional)
 
 ## Security
