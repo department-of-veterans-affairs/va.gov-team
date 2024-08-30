@@ -358,5 +358,6 @@ Our aim for any subsequent studies will be to include the populations that we mi
 - Expat (living abroad)
 - LGBTQ+
 
+<img width="724" alt="Screenshot 2024-08-29 at 5 17 44 PM" src="https://github.com/user-attachments/assets/38222ee9-dbf0-49d9-b5b0-536119012575">
 
 
