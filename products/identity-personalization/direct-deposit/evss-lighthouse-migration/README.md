@@ -1,5 +1,7 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
+`Migration completed`
+
 **Last Updated: December 11, 2023 -- updating metrics**
 
 ### Communications
