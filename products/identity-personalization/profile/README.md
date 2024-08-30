@@ -1,6 +1,6 @@
 # Section Outline: The VA.gov Profile
 
-**Last Updated: 3/22/2024 -- updated products and features**
+**Last Updated: 8/30/2024 -- updated GA4 link**
 
 ## Table of Contents
 
@@ -192,6 +192,15 @@ Current projects are actively managed in the AE Profile Github project, the char
 ### Domo
 - [Profile Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1834995012%3FuserId%3D66061986)
 ### GA 
+#### GA4
+- [GA4 Report](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/AzkvB_SjSh2-KrYPsyzvaA) `WIP` we're rebuilding our analytics regime
+
+#### Legacy GA
+
+<details><summary>Details</summary>
+<p>
+
+
 - [Personal information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/-x0K5pQPRTaQCa_WzXnEDg/a50123418w177519031p176188361/)
 - [Contact information GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/3Z1vT6SlQqevdav1s72QwA/a50123418w177519031p176188361/)
 - [Address validation GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/)
@@ -200,6 +209,10 @@ Current projects are actively managed in the AE Profile Github project, the char
 - [Notification preferences GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/LcYXUwF2Q8SQ59WQX6OTsw/a50123418w177519031p184624291/)
 - [Account security GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/AuydfL6WR7WS_nXqNhC5GA/a50123418w177519031p176188361/)
 - [Connected apps GA dashboard](https://analytics.google.com/analytics/web/#/dashboard/-7uuXRP8QJOLgqwi7s5OOg/a50123418w177519031p176188361/)
+
+
+</p>
+</details> 
 
 ### Data Dog
 - [AE Profile Data Dog Monitors](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?view=spans)
@@ -229,16 +242,6 @@ Current projects are actively managed in the AE Profile Github project, the char
 - [Feature Toggle Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/feature-toggle-guidance.md)
 
 ## Design 
-
-### Sketch files
-
-- [Personal information](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
-- [Contact information](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
-- [Military Information](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
-- [Direct deposit](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131)
-- [Notification settings](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
-- [Account Security](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc)
-- [Connected apps](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
 
 ### Figma files
 [Account Experience Figma Project containing all related AE products/features](https://www.figma.com/files/project/176473451/Account-Experience?fuid=1281705750009777247)
