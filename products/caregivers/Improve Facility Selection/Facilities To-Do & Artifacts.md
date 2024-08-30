@@ -6,8 +6,8 @@
 ### Product Team
 - **OCTO-DE Product Lead**: Patrick Bateman
 - **Product Manager**: Heather Justice
-- **FE Engineer**: Matt Long
-- **BE Engineer**: Lihan Li
+- **FE Engineer**: Brandon Cooper & Mitch Saltykov
+- **BE Engineer**: Brandon Cooper & Mitch Saltykov
 - **Designer**: Jessica Stump
 - **Researcher**: Jessica Stump
 - **Slack channel**: 1010-health-apps
