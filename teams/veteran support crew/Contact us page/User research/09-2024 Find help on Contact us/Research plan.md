@@ -108,7 +108,7 @@ For more details about our criteria, refer to our [Recruitment ticket](https://g
 |Date|Milestone|
 |:--|:--|
 |Friday, August 30|✅ Research review submitted|
-|Wednesday, September 4|Research review approved|
+|~~Wednesday, September 4~~Friday, August 30|✅ Research review approved|
 |Thursday, September 5|Pilot session|
 |Monday, September 9 - Thursday, September 19|Research sessions|
 |Monday, September 23 - Tuesday, September 24|Analysis|
