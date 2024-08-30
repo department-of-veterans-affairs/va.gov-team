@@ -28,13 +28,13 @@ This study will give us insight into how Veterans expect their information on th
 - How do Veterans group and define the pieces of information on their appointment detail page for Upcoming appointments?
   - HYPOTHESIS: For upcoming appointments, we expect Veterans to group information by categories such as “things to do,” and “information about their appointment” and “appointment updates/alerts.”
 - How do Veterans group and define the pieces of information on their appointment detail page for Past appointments?
-  - HYPOTHESIS: For past appointments, We expect Veterans to group information by categories such as “things to do,” “information about their appointment,” and “things they’ve completed.”
+  - HYPOTHESIS: For past appointments, we expect Veterans to group information by categories such as “things to do,” “information about their appointment,” and “things they’ve completed.”
 - What information do Veterans find most important when visiting appointment detail pages for Upcoming appointments?
-  - HYPOTHESIS: For upcoming appointments, we expect Veterans to find “information about their appointment” and “things to do” and “information about their appointment” to be most important.
+  - HYPOTHESIS: For upcoming appointments, we expect Veterans to find “information about their appointment,” “things to do,” and “information about their appointment” to be most important.
 - What information do Veterans find most important when visiting appointment detail pages for Past appointments?
   - HYPOTHESIS: For past appointments, we expect Veterans to find “things to do” and “things they’ve completed” to be most important.
 - Is there any information missing from the appointment detail page that Veterans expect to find there?
-  - HYPOTHESIS: We expect Veterans will present 3-5 pieces of new information that they would expect to find on the page, such as duration of appointment.
+  - HYPOTHESIS: We expect Veterans will present 1-3 pieces of new information that they’d expect to find on the page, such as duration of appointment.
 
 ## Method
 This research will be conducted as an unmoderated card sort study using Optimal Workshop.
@@ -46,7 +46,6 @@ The tests will be conducted online at the participant’s leisure.
 - Group A Card Sort Link
 - Group B Card Sort Link
 - Card Sort Outline
-
 
 ## Recruitment
 7 cohorts, 10 participants each, total 70 responses. Minimum threshold of 45 completed responses
@@ -150,4 +149,5 @@ Here's your participant code: [Add code]
 You'll need to enter this at the start of the activity, and after you've completed the last task to receive compensation.
 
 [link] Start the activity now
+
 
