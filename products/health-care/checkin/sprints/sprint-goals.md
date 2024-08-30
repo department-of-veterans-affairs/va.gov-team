@@ -26,8 +26,7 @@
     - **Sprint Goal is to ......**
     - 🟩 TBD    
 - **Check in with staff after checking in**
-    - **Sprint Goal TBD**
-    - 🟥 TBD    
+    - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
@@ -79,7 +78,6 @@
     - 🟥 Scheduke kickoff meeting with Sam (SPL)
     - 🟥 Flesh out initiative brief after meeting with Sam
          - Ask Kristen to confirm the draft  
-    - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
     - 🟥 [[Design] Create Userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91305)
 - **CIE Analytics**
     - 🟥 [Analyze pre-check-in landing page drop off rate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91433)
