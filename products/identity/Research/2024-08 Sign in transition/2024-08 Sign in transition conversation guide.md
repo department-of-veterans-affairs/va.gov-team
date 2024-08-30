@@ -70,16 +70,23 @@ Are you comfortable with that?
 
 
 ## Starter Questions | 5 minutes
-
 - I’d like to start with a few questions to get to know how you access VA services online
-  - Could you first let me know what device you are using right now for this call.
-  [Phone, laptop, doesn’t have to be brand]
-  - Is that how you usually access the VA online?
-  - Any particular reason you use [DEVICE] the most
+- Could you first let me know what device you are using right now for this call.
+   -[Phone, laptop, doesn’t have to be brand]
+   - Is that how you usually access the VA online?
+   - Any particular reason you use [DEVICE] the most
 - And when you do something with the VA online, what services do you normally access?
-- When you are on your [phone/computer/tablet] how do you typically bring up VA online? 
-[the mobile app, VA.gov, MHV website, something else]
+   - If it varies, what was the reason you visited most recently? [remember this for later on]
+- When you are on your [phone/computer/tablet] how do you typically bring up VA online? [the mobile app, VA.gov, MHV website, something else]
 - When was the last time you accessed VA online?  What were you trying to do?
+- [CSP Specific Questions]
+   - [Login.gov] Have you heard of Login.gov before? Do you know what it is?  Have you used it before?
+      - [If no] What do you use it for?
+      - [If yes] what was your experience with it?
+   - [ID.me] Have you heard of ID.me before? Do you know what it is?  Have you used it before?
+      - [If no] What do you use it for?
+      - [If yes] what was your experience with it?
+
 
 ## Task - Prototype | 15-20 minutes
 - Ok so now I’d like to take a look at the prototype design. Just a quick reminder that this is a website design that we are thinking about using. It may look like the real VA.gov but it won’t be, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
@@ -111,29 +118,36 @@ Are you comfortable with that?
   - [Any other options] Can you walk me through your rationale for doing _____?
 
 ### Interstitial content 
-- [For this section, we want to understand how much information vs extra context is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?] 
+- [For this section, we want to understand how much information vs fluff is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?] 
 - [If the veteran decides to make the switch, skip to the 3rd bullet.]
 - [If they decide to continue with MHV or DS Logon]
-  - Do you know if you have a Login.gov or ID.me account?  [If both, which one would you use?]
+   -Do you know if you have a Login.gov or ID.me account?  [If both, which one would you use?]
 - [Show various versions of the interstitial with increasing urgency.]
-  - What would you do next? 
-  - [If they ignore the alert, show them the next interstitial and so on].
+   - What would you do next? 
+   - [If they ignore the alert, show them the next interstitial and so on].
 - I’m going to share with you some content, and I’d like to walk through how you interpret what it means.
-  - Identity-verified vs verified account
-  - Benefits 
-  - VA.gov account vs login.gov/ID.me “account”
+   - Identity-verified vs verified account
+   - Benefits 
+   - VA.gov account vs login.gov/ID.me “account”
+   - Options “Available through X date” vs “We’ll remove X option after X date”
 - Additional Help
-  - If you had follow-up questions about these changes, what would you do?
-  - [Focus on links for more information]
-    - “You’ll need to sign into Va.gov…”
-    - “Learn more about how to create a verified account…”
-    - Learn more about this change…”
-### Inherited Proofing
-- If you could push a button to have a Login.gov or ID.me account created for you using your previous information you provided to [MHV or DS Logon], what would you expect from that?
-- Do you use any other government websites?
-- Do you ever use a Login.gov or ID.me account for those? If a Login.gov or ID.me account was created for you using your previous information you provided to [MHV or DS Logon] and ______ site allowed you to use that account, what would you expect to happen?  [We want to understand what they expect to be able to do with the other government website.]
+   - If you had follow-up questions about these changes, what would you do?
+   - [Focus on links for more information]
+      - “You’ll need to sign into Va.gov…”
+      - “Learn more about how to create a verified account…”
+      - Learn more about this change…”
 
-ADD QUESTION - to get at if this account linking only worked on va.gov and didn't work on MHV or mobile app
+### Inherited Proofing
+- [Show content] “We have started creating a Login.gov account for you using the information from MHV.  You can continue completing your account here.”    -   - What would you do next?
+- [Va.gov] If a Login.gov or ID.me account was created for you using information you previously provided to [MHV or DS Logon], what would you expect to be able to do on VA.gov?
+   - If you also had to take additional steps to be able to complete specific tasks like changing your direct deposit, how would that make you feel?
+- [VA ecosystem] If a Login.gov or ID.me account was created for you using information you previously provided to [MHV or DS Logon], what would you expect to be able to do on the mobile app?
+   - If you also had to provide additional information to be able to complete specific tasks like changing your direct deposit, how would that make you feel?
+   - What if this new account only worked on VA.gov and not on MHV or the mobile app?  How would you feel?
+   - What would you do next?
+- [Other government websites] Do you use any other government websites?
+   - If a Login.gov or ID.me account was created for you using your previous information you provided to [MHV or DS Logon] and you saw that that was an option to sign into [that website] would you expect to be able to use that account to sign in there? What would you expect to be able to do?
+      - Would you expect any limitations?  [We want to understand what they expect to be able to do with the other government website.]
 
 ## Round 3 - Closing Q’s and Thank you | 3 minutes
 - That is all the questions that I wanted to cover today, so I’m going to look at my messages to see if notetakers and observers had any questions they wanted to ask or follow up on.
