@@ -1,5 +1,4 @@
 # Research Findings - Community Care Self-Scheduling
-_[DRAFT]_
 
 Resources:
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing)
