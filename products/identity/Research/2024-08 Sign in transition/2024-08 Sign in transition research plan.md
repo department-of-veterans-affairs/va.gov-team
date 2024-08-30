@@ -65,7 +65,9 @@ Remote usability testing will evaluate the prototype with participants. We’ll 
 recruitment checker in google sheets - link to be added
 
 ### Recruitment criteria
-- 15 Veterans for at least 12 completed sessions
+Note: [recruitement ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/663) will superceed anything listed here
+
+- 14 Veterans for at least 10 completed sessions
 - Baseline criteria (must-haves)
   - Must have a computer or mobile phone and be willing to complete their sessions on this device
   - Must be willing to share a web browser window on the Zoom call
@@ -75,16 +77,19 @@ recruitment checker in google sheets - link to be added
   - Must be Veterans
   - Preference to participants who’ve signed in using MHV sign in credential in the last 6 months, for any reason. (at least 8)
 - Our primary diversity and inclusion criteria:
-x of mobile users
-x of cognitive disabilities
-x screen reader users
-x of keyboard navigators
+7 of mobile users
+3 of cognitive disabilities
+
 ### Screener questions
-- Which sign in option do you use the most [LIG, IDme, MHV, DSL]
-- Do you ever use a sign in option other than the one you use the most?
+1. How do you sign into VA.gov most often?
+   - Response options: a. Login.gov, red button, b. ID.me, green button, c. My HealtheVet, blue button, d. DS Login, blue button, e. don't remember or not applicable
+   - at least 8 must answer option C. Others must answer C or E (note: we'd also take 1 or 2 participants who answer D if not enough valid responses)
+2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+   - Response options: yes or no
+   - recruit at least 3 "yes" responses
 
 ## Timeline
-- Recruiting: Early Sept
+- Recruiting: Sept 4-10th
 - Pilot: Mid Sept
-- Sessions: Mid Sept
+- Sessions: Sept 11-20th
 
