@@ -75,7 +75,7 @@ We’ll ask users to consider how they would use Contact us to find answers or c
 -	Increasing disability compensation for an existing condition
   
 ### Research materials
-- [Link to conversation guide](🟡 link)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md)
 - [Link to Contact us page in VA.gov production](https://www.va.gov/contact-us/)
   
 ## Recruitment	
