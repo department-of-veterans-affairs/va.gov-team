@@ -106,6 +106,7 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 <details>
    <summary>Key things to notice</summary>
+
 - How do people feel before getting to Contact us or trying to find customer support?
 - What do they expect on the Contact us page?
 - Were they able to find answers online?
@@ -181,6 +182,7 @@ I’ll send the scenario in the Zoom chat now just like last time.
 
 <details>
    <summary>Key things to notice</summary>
+
 -	Do they try to find answers online first before choosing to contact VA?
 -	Why do they prefer different support channels?
 -	Do they read the description before selecting one of the links?
@@ -197,6 +199,7 @@ What do you think “Contact us online...” means?
 
 <details>
   <summary>Key things to notice</summary>
+
 -	Do people understand Ask VA is a way to send a message to VA? 
 </details>
 
@@ -211,6 +214,7 @@ What do you think “Contact us online...” means?
 
 <details>
   <summary>Key things to notice</summary>
+
 -	Do people understand they won’t be able to chat with a live person using the chatbot?
 -	Do people expect to be able to talk to a live person?
 -	Do people understand the types of questions the chatbot can answer?
@@ -226,6 +230,7 @@ o	If `NO` What would you do now?
 
 <details>
   <summary>Key things to notice</summary>
+
 -	Do they understand the differences between each phone number?
 -	How do they distinguish phone numbers from each other?
 -	Do people pay attention primarily to the headers?
@@ -242,6 +247,7 @@ o	If `NO` What would you do now?
 
 <details>
   <summary>Key things to notice</summary>
+
 -	Do people pay attention primarily to the headers?
 -	Do they pay attention to the hours?
 -	Would they choose to contact their local VA facility with help for this scenario?
@@ -256,6 +262,7 @@ o	If `NO` What would you do now?
   
 <details>
   <summary>Key things to notice</summary>
+
 -	What type of local VA facility do people trust to answer their question?
 </details>
 
@@ -268,6 +275,7 @@ o	If `NO` What would you do now?
   
 <details>
   <summary>Key things to notice</summary>
+
 -	Is ‘resources and support’ a familiar term? 
 -	Do they mention ‘FAQs’ or ‘Help’? 
 </details>
@@ -281,6 +289,7 @@ o	If `NO` What would you do now?
   
 <details>
   <summary>Key things to notice</summary>
+
 -	Do they notice that they have to sign in to access the online tools?
  > Go back to the [scenarios section](scenarios-30-minutes)
 </details>
@@ -327,6 +336,7 @@ I’d love to spend a little time reflecting before we finish.
   
 <details>
   <summary>Key things to notice</summary>
+
 -	What did they like and what would they change?
 </details>
 
