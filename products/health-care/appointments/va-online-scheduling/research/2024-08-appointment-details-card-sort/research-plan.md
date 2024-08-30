@@ -2,7 +2,7 @@
 _[DRAFT]_
 
 ## Background
-As we incorporate more items onto the appointment detail page, we continue to encounter questions around how the page is structured, what information on it is most important for Veterans, and how to incorporate multiple tasks for one appointment as they become available. With the addition of the capability to file a mileage-only travel reimbursement claim acting as the catalyst for this research, this study nevertheless aims to answer larger questions around the overall page organization that will inform future interactions of the detail page in both the Appointments and Check-in applications.
+As we incorporate more items onto the appointment detail page, we continue to encounter questions around how the page is structured, what information on it is most important for Veterans, and how to incorporate multiple tasks for one appointment as they become available. While the addition of the capability to file a mileage-only travel reimbursement claim acted as the catalyst for this research, this study aims to answer larger questions around the overall page organization that will inform future interactions of the detail page in both the Appointments and Check-in applications.
 
 ### OCTO Priorities
 The online mileage-only travel reimbursement feature for smartphones aligns with the following OCTO-DE Priorities:
@@ -15,7 +15,7 @@ This research corresponds to the following points of the Veteran journey:
 ## Research Goals
 
 ### Outcome
-This study will give us insight into how Veterans expect their information on the appointment details page to be organized, based on how they categorize different items and what they find most important. This will help us better organize the detail page to fit Veterans’ needs while ensuring scalability in the event of addition of new tasks, updates, or general appointment information. 
+This study will give us insight into how Veterans expect their information on the appointment details page to be organized, based on how they categorize different items and what they find most important. This will help us better organize the detail page to fit Veterans’ needs while ensuring scalability when we add new tasks, updates, or general appointment information.  
 
 ### Research Questions
 - How do Veterans group and define the pieces of information on their appointment detail page for Upcoming appointments? 
@@ -26,11 +26,11 @@ This study will give us insight into how Veterans expect their information on th
 
 ### Hypotheses
 - How do Veterans group and define the pieces of information on their appointment detail page for Upcoming appointments?
-  - HYPOTHESIS: For upcoming appointments, we expect Veterans to group information by categories such as “things to do,” and “information about their appointment” and “appointment updates/alerts.”
+  - HYPOTHESIS: For upcoming appointments, we expect Veterans to group information by categories such as “things to do,” and “information about their appointment” and “updates/alerts about changes related to their appointment.”
 - How do Veterans group and define the pieces of information on their appointment detail page for Past appointments?
   - HYPOTHESIS: For past appointments, we expect Veterans to group information by categories such as “things to do,” “information about their appointment,” and “things they’ve completed.”
 - What information do Veterans find most important when visiting appointment detail pages for Upcoming appointments?
-  - HYPOTHESIS: For upcoming appointments, we expect Veterans to find “information about their appointment,” “things to do,” and “information about their appointment” to be most important.
+  - HYPOTHESIS: For upcoming appointments, we expect Veterans to find “information about their appointment,” “things to do,” and “updates/alerts about changes related to their appointment” to be most important.
 - What information do Veterans find most important when visiting appointment detail pages for Past appointments?
   - HYPOTHESIS: For past appointments, we expect Veterans to find “things to do” and “things they’ve completed” to be most important.
 - Is there any information missing from the appointment detail page that Veterans expect to find there?
