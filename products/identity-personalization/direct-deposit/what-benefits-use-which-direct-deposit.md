@@ -1,4 +1,4 @@
-# What benefits use which direct deposit?
+# Which direct deposit benefits are supported in the profile?
 
 Last updated April 25, 2024
 
