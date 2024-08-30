@@ -9,16 +9,19 @@ The problem is to add this option to the online EZ in a way that is not confusin
 
 
 - [Mural folder](https://app.mural.co/t/departmentofveteransaffairs9999/r/1670613238628?folderUuid=eb1cd9df-3cca-4008-9d32-29c42520a4ba)
+- [ MVP epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
+
 
 ## Recent Work
 
-- [Research][DA] 10-10EZ Registration - Research plan for mvp #89214
 - [Figma MVP Designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3025-106249&t=JJdIOxH6I9H8BRka-0)
+
+
 
 ### MVP Design Decisions + Content Review
 | Date | Name of Decision | High-level descirption | Status |
 |------|-------------------------|-----------|---|
-|  July 26, 2024    |      Success research plan                  |      write up a proposal to share our approach, what we are doing, the proposed timeframe to monitor traffic, what threshold is considered "enough registration interest" to keep or expand on the process If it is under that threshold, what would we want to do then (remove it? revise it? etc)     | shared via Slack update from Heather Justice  - [Research][DA] 10-10EZ Registration - Research plan for mvp #89214 | 
+|  July 26, 2024    |      Proposal Plan                  | If it is determined that there is enough interest and traffic to indicate a need to provide the Registration Only pathway online within the first 30 days, we will run a research interview plan with Veterans to help us decide on how best to present the pathway in an easy-to-understand and transparent way within the EZ form. This new pathway will be an iteration and new Epic. | [[Experiment Proposal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Registration/Reg%20Only%20experiment%20proposal.md) | 
 |  July 24, 2024    |      Simplify unauthenticatd mvp flow                   |      To reduce technical complexity and address content logic / one-thing-per page; updated user flow for unauthenticated users (leave disability rating question where it is today in flow)     | Internal team via DSU + Slack; PM/PO met 7/25 | 
 |  July 23, 2024    |  One-thing-per-page + content logic                      |     Recommended headers or split up page with personal information and content logic aroudn registration and/or disability rating into two pages      | EZ/CG Team Sprint Planning Meeting 7.23.24 |
 |  July 2024    |    Component used to display personal information                     |     Replace current use of address block with gray card      | Pending - [Slack thread](https://dsva.slack.com/archives/C01DBGX4P45/p1721745150002349?thread_ts=1719868094.635789&cid=C01DBGX4P45) |
