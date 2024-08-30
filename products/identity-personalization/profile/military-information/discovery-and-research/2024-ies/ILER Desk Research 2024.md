@@ -203,6 +203,7 @@ Reddit posts on ILER reports are few, but we can see comments on the topic:
 
 
 ## Recommendations
+(Please note that these are ordered roughly in progression of small to large, and in terms of dependency.)
 
 ### Use “ILER” in communications and UI
 
