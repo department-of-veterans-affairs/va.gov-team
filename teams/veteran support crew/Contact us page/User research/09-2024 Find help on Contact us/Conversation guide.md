@@ -163,7 +163,7 @@ I’ll send the scenario in the Zoom chat now just like last time.
 > Send scenario in Zoom chat.
 - Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
 
-> Use the following questions for each scenario
+### Use the following questions for each scenario
 
 -	[Any channel](#any-channel)
 -	[Contact us online through Ask VA](#contact-us-online-through-ask-va)
