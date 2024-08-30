@@ -191,8 +191,8 @@ Current projects are actively managed in the AE Profile Github project, the char
 
 ### Domo
 - [Profile Domo dashboard](https://va-gov.domo.com/auth/index?redirectUrl=%2Fpage%2F1834995012%3FuserId%3D66061986)
-### GA 
-#### GA4
+
+### GA4
 - [GA4 Report](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/AzkvB_SjSh2-KrYPsyzvaA) `WIP` we're rebuilding our analytics regime
 
 #### Legacy GA
