@@ -1,5 +1,7 @@
 # Project outline: Direct deposit for edu
 
+`Deprecated 7/2024` - [see private repo for current direct deposit details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/direct-deposit/README.md)
+
 Last Updated December 7, 2021
 
 ## POCs
