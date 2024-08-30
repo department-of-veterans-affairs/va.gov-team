@@ -83,7 +83,7 @@ We’ll ask users to consider how they would use Contact us to find answers or c
 We will work with Perigean to recruit 12 Veterans, targeting a total of 10 completed sessions. 
 
 ### Recruitment criteria
-For more details about our criteria, refer to our [Recruitment ticket](🟡 need to add link).
+For more details about our criteria, refer to our [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/662).
 
 |# of participants|Criteria|
 |:--|:--|
