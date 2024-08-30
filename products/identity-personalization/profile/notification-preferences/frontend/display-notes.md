@@ -88,7 +88,7 @@ Incorporating PHI/PII in the healthcare appointment reminders. [See the initiati
 
 # Appendix 
 
-<details><summary>Details</summary>
+<details><summary>prior to 2024</summary>
 <p>
 
 ## TL;DR
@@ -100,6 +100,10 @@ Incorporating PHI/PII in the healthcare appointment reminders. [See the initiati
 
 ![UI as of April 2022](./assets/notifications-page.png)
 
+### Key
+1. `Notification` is controlled by the team
+2. Contact information on File, the text is controlled by the team and the information is populated from the VAP contact information.
+3. This section is completely dynamic. The data and text is from the API call. Each `3` is a `Communication Group`.  The header of the group (`3a`) is the `name` of the `Communication Group`. Each `Communication Group` has a list of `Communication Items`. `3b`are the `name` of a `Communication Item`. We iterate over the list of `Communication Items` and display how ever many come from the API, with no filtering. Each `Communication Item` has a `Communication Channel`. Current this is a list of 1 item, `text`. The label being display, `3c` is controlled by our team, but we are expecting a value for text to come back from the API.
 
 ### 3c. Options creation note
 
