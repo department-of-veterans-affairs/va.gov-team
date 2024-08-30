@@ -106,7 +106,7 @@ Note: [recruitement ticket](https://github.com/department-of-veterans-affairs/va
 
   
 ### Availability
-- **Sept 16 - 20**
+- **Sept 11-20**
 - please hold Sept 19th/20th in case of needed make ups sessions, to the extent possible.
 
 Team Availability | Time (EST)
