@@ -77,6 +77,8 @@
     - 🟥 [Submit Research Materials to Research Ops ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91618)
 - **Check in with staff after checking in**
     - 🟥 Scheduke kickoff meeting with Sam (SPL)
+    - 🟥 Flesh out initiative brief after meeting with Sam
+         - Ask Kristen to confirm the draft  
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
     - 🟥 [[Design] Create Userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91305)
 - **CIE Analytics**
