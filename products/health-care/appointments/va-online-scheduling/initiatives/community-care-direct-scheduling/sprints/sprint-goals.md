@@ -26,12 +26,16 @@ ________________________________________________________________________________
       - 🟥 [[Design] Update Filter filed value for practice](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91450)
       - 🟥 [[Design] Change expiration date format in task card](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91114)
       - 🟥 [[Design] Add info to confirmation/detail page to clarify steps for rescheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91239)
+      - 🟥 [[Design] Create final wireframes for short-term referral location solution](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91938)
     - **Sub Goal: [Feature] MOU ISA**
       - 🟥 🟦 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
     - **Sub Goal: [Feature] Get New Referrals**
       - 🟦 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
       - 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+      - 🟦 [[FE] Audit wireframes to determine what FE UI tickets need to be created to finish buildout out the FE](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91916)
+      - 🟦 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
 
 
 
