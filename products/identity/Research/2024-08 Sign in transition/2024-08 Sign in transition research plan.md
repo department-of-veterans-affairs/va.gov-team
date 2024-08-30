@@ -101,7 +101,7 @@ Note: [recruitement ticket](https://github.com/department-of-veterans-affairs/va
 
 ### Length of sessions
 - Session length: **45-minute** sessions 
-- Session buffer: **45-minute breaks** in between
+- Session buffer: **30-minute breaks** in between
 - Max sessions per day: 4
 
   
@@ -129,7 +129,14 @@ Sept TBD | TBD
 - Project point of contact: Clayton Zook, Megan Driscoll
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed): tbd
-- Note-takers: Joelle Wells
-- Observers: Samara Struss
+- Note-takers: Joelle Wells, Alex Garcia, Lisa Lindsey
+- Observers: Samara Strauss
 - Team member emails:
+megan@bluetiger.digital
 clayton.zook@oddball.io
+alexander.garcia@oddball.io
+joelle.wells@oddball.io
+parker.baranowski@oddball.io
+lisa.lindsey@oddball.io
+samara.strauss@va.gov
+thomas.black2@va.gov
