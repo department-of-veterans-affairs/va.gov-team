@@ -3,39 +3,6 @@
 
 
 
-<details>
-<summary>FUTURE SPRINT - 10/2/2024 - 10/15/2024 </summary>
-______________________________________________________________________________________________________________________________________________________
-
-## SPRINT 17 - 10/2/2024 - 10/15/2024  ------- FUTURE FUTURE / TENTATIVE ------
-
-#### PLANNED RELEASES 
-- NONE
-
-#### SPRINT TICKETS
-
-      
-</details>
-
-
-______________________________________________________________________________________________________________________________________________________
-
-
-
-<details>
-<summary>FUTURE SPRINT - 9/18/2024 - 10/1/2024 </summary>
-______________________________________________________________________________________________________________________________________________________
-
-## SPRINT 16 - 9/18/2024 - 10/1/2024  ------- FUTURE FUTURE / TENTATIVE ------
-
-#### PLANNED RELEASES 
-- NONE
-
-#### SPRINT TICKETS
-
-      
-</details>
-
 
 ______________________________________________________________________________________________________________________________________________________
 
@@ -57,6 +24,8 @@ ________________________________________________________________________________
       - 🟥 [[Design] Update Filter filed value for practice](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91450)
       - 🟥 [[Design] Change expiration date format in task card](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91114)
       - 🟥 [[Design] Add info to confirmation/detail page to clarify steps for rescheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91239)
+    - **Sub Goal: [Feature] MOU ISA**
+      - 🟥 🟦 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
       
 </details>
 
