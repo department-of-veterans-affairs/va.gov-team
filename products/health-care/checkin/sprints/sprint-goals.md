@@ -67,6 +67,7 @@
     - 🟩 [Staging Review finding: Sentence structure in travel-pay page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91798)
     - 🟥 [Staging Review finding: Summary box for direct deposit information may not be appropriate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91802)
         - We need decision from UX before we hand this of to frontend
+    - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75404)
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is moot - we can't continue until new Travel form is available in a lower env**    
     - ⛔ BLOCKED
