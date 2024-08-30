@@ -2,9 +2,6 @@
 
 August 2024
 
-**Jump to**
-ADD HERE
-
 ## Research Goals
 
 The goals of this document are:
