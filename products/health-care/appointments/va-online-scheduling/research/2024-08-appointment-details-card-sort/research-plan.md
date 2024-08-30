@@ -1,5 +1,4 @@
 # Appointment Details Page Unmoderated Card Sort - Research Plan
-_[DRAFT]_
 
 ## Background
 As we incorporate more items onto the appointment detail page, we continue to encounter questions around how the page is structured, what information on it is most important for Veterans, and how to incorporate multiple tasks for one appointment as they become available. While the addition of the capability to file a mileage-only travel reimbursement claim acted as the catalyst for this research, this study aims to answer larger questions around the overall page organization that will inform future interactions of the detail page in both the Appointments and Check-in applications.
