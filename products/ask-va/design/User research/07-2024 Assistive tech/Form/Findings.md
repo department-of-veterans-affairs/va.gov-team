@@ -191,12 +191,33 @@ Also, the edit alert sometimes announces itself over and over.
 
 ## Recommendations
 
-We are currently writing recommendations.
+- Remove postal code when we collect health facility
+- Make it easier to distinguish between 'next' and 'continue'
+- Remove US military postal code option if there's not impact on routing
+- Move question to it's own accordion at the end of the review page
+- Fix success message on the review page
+- Add content to the confirmation page that explains signing back in if you're authenticated
+- Add general time estimate before you start a new question
+- Investigate error messages triggering early with keyboard navigation
+- Make the progress bar less specific and/or jump less at a time
+
+In the future:
+- Plan discovery to better understand how Ask VA fits in with other VA tools
+- Limit number of categories and topics allowed, add word counts and descriptions
+- Plan card sorting and/or tree test exercise to re-design category and topic lists
+- Design a short version of form and test
 
 ## Next steps
 
-- [ ] Next step – [#Ticket](add link)
-- [ ] Next step – [#Ticket](add link)
+- [ ] Confirm whether we can remove postal code when we collect health facility – [#1311](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1311)
+- [ ] Improve 'Next' page of results label – [#1314](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1314)
+- [ ] Confirm whether we can remove US military postal code option – [#1315](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1315)
+- [ ] Move question into it's own accordion at end the review page - [#1316](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1316)
+- [ ] Fix success messages on review page - [#1313](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1313)
+- [ ] Add content to confirmation page that explains signing back in if auth – [#1317](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1317)
+- [ ] Add general time estimate to home page and dashboard accordion - [#1318](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1318)
+- [ ] Investigate error messages triggering early with keyboard nav – [#1319](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1319)
+- [ ] Reduce large jumps and/or specificity of progress bar - [#1320](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1320)
 
 ## Further research needed
 
