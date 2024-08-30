@@ -291,8 +291,9 @@ o	If `NO` What would you do now?
   <summary>Key things to notice</summary>
 
 -	Do they notice that they have to sign in to access the online tools?
- > Go back to the [scenarios section](scenarios-30-minutes)
 </details>
+
+ > Go back to the [scenarios section](#scenarios-30-minutes)
 
 ## Review each scenario - 10 minutes
 Okay, we’re finished with each scenario now. So you can stop sharing your screen now.
