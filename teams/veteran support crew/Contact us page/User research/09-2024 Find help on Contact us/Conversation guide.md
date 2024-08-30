@@ -171,7 +171,7 @@ I’ll send the scenario in the Zoom chat now just like last time.
 -	[Call us](#call-us)
 -	[Contact your local VA facility](#contact-your-local-va-facility)
 
-### Any channel
+#### Any channel
 > Ask these questions for any channel they say they would use
 
 -	Do you have previous experience with this option? 
@@ -191,7 +191,7 @@ I’ll send the scenario in the Zoom chat now just like last time.
 -	Is the number of options on the page overwhelming? Are there too many options on one page?
 </details>
 
-### Contact us online through Ask VA
+#### Contact us online through Ask VA
 > If they say they would contact VA through Ask VA
 What do you think “Contact us online...” means?
 
@@ -200,7 +200,7 @@ What do you think “Contact us online...” means?
 -	Do people understand Ask VA is a way to send a message to VA? 
 </details>
 
-### Ask our chatbot a question
+#### Ask our chatbot a question
 > If they say they would use the Chatbot
 
 -	What do you think an example of a “common question”? is? 
@@ -216,7 +216,7 @@ What do you think “Contact us online...” means?
 -	Do people understand the types of questions the chatbot can answer?
 </details>
   
-### Call us
+#### Call us
 > If they say they would call
 
 -	Is there a phone number on this page you would call for this scenario?
@@ -249,7 +249,7 @@ o	If `NO` What would you do now?
 -	Do they notice the radio button options to search?
 </details>
 
-### Contact your local VA facility
+#### Contact your local VA facility
 > If they say they would contact their local VA facility
 
 -	What type of local VA facility would you look up (health facility, Vet Center, benefits office, etc.)?
@@ -259,7 +259,7 @@ o	If `NO` What would you do now?
 -	What type of local VA facility do people trust to answer their question?
 </details>
 
-### Explore our FAQs and other resources to get answers to your questions
+#### Explore our FAQs and other resources to get answers to your questions
 > If they say they would search for help in resources and support
 
 -	Would you expect to see this type of support on Contact us?
@@ -272,7 +272,7 @@ o	If `NO` What would you do now?
 -	Do they mention ‘FAQs’ or ‘Help’? 
 </details>
 
-### Helpful online tools
+#### Helpful online tools
 > If they say they would use an online tool
 
 -	Which online tool do you think can help with your question?
