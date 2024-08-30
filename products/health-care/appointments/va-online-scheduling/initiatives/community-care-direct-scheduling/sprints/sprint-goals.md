@@ -18,6 +18,8 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Tech & Design Debt**
+       - ❗ Check if we're unblocked to push up PRs (due to ongoing discussion about EPS information in vets-website) 
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
       - 🟥 [[Design] Make updates to scheduling links to help with confusion around link redundancy](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91113)
       - 🟥 [[Design] Update referral introduction page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91115)
@@ -26,7 +28,12 @@ ________________________________________________________________________________
       - 🟥 [[Design] Add info to confirmation/detail page to clarify steps for rescheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91239)
     - **Sub Goal: [Feature] MOU ISA**
       - 🟥 🟦 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
-      
+    - **Sub Goal: [Feature] Get New Referrals**
+      - 🟦 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
+
+
+
+ 
 </details>
 
 
