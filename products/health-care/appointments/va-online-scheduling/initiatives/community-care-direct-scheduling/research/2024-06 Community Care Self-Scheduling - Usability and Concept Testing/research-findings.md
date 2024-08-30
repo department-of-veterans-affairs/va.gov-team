@@ -287,7 +287,6 @@ _[Jump to Recommendations](https://github.com/department-of-veterans-affairs/va.
 - 1 participant said they did not expect a staff follow-up, and 1 participant was not sure.
 > P12: "Most times they're so short staffed the MSAs can't reach out to everybody."
 
-_[Jump to Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#recommendations)_
 
 ------
 ------
@@ -322,3 +321,42 @@ _[Jump to Recommendations](https://github.com/department-of-veterans-affairs/va.
 ------
 ### Expectations for VA staff follow up
 12. **VA follow-up:** Coordinate with VA Notify, IVC, VHA, and VA staff to schedule early follow-up reminders prior to the existing 21-day text used to confirm appointment information – to go out to Veterans if they haven't self-scheduled their first appointment within a certain amount of time. ([See Finding #_12](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md#finding-12))
+
+## Conclusions
+
+#### **Veterans don't have a strong mental model for finding referrals on VA.gov and will benefit from multiple paths to access them**
+Veterans don't have a strong mental model for where they'd look for new and past referrals, though slightly favored finding them with the appointments (vs. in their medical records). Regardless of where referrals reside on VA.gov, until a mental model is better understood it will be important to provide clear paths to access referrals, as well as train VA staff on how to talk to Veterans about finding their referrals on VA.gov.
+
+#### **The Community Care Digital Self-Scheduling process (from being notified about a new referral to scheduling an appointment) meets Veterans’ overall expectations and needs, but can be iterated on to decrease confusion around specific content areas, add more value to the filters, and ensure a smoother experience for screen reader users**
+Most Veterans were easily able to navigate through the scheduling process. However, updates will need to be made to specific points in the flow that presented significant challenges for a screen reader participant and content adjusted in areas that some Veterans found confusing. Additionally, if feasible, filters and provider information should be expanded to included additional details – such as years of experience, languages spoken, and services and sub-specialties – to help Veterans choose the right provider for them.
+
+#### **Veterans expect VA to follow up with timely reminders to schedule their appointments even if they’ve elected to self-schedule**
+Following existing expectations around receiving notifications and reminders, Veterans value communication from VA regarding their health care and appointments, and expect VA to use messages, calls, emails, and/or push notifications to remind them to schedule their community care appointments if they haven’t done so in a certain amount of time.
+
+## Demographics
+
+### **We talked to 15 participants throughout our 2-part study:**
+1. Part 1 (Non-AT users):  9 participants, emphasis on cognitive impairment
+2. Part 2 (AT users): 6 participants total, 4 screen reader users and 2 screen magnification users
+
+- 9/15 Veterans had used the Appointments tool on va.gov
+- 13/15 Veterans had received care from a community care provider
+- 14/15 Veterans used their mobile devices, while 1 used a laptop
+
+**Specific to Part 1 (Non-AT users):**
+- 6/9 Veterans reported having a cognitive disability
+
+**Specific to Part 2 (AT users):**
+- 4/6 Veterans used screen readers 
+- 2/6 Veterans used screen magnification
+
+### **Who we didn't talk to:**
+
+Our aim for any subsequent studies will be to include the populations that we missed, including: 
+- Immigrant origin
+- Asian and Native 
+- Expat (living abroad)
+- LGBTQ+
+
+
+
