@@ -19,7 +19,10 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Tech & Design Debt**
-       - ❗ Check if we're unblocked to push up PRs (due to ongoing discussion about EPS information in vets-website) 
+       - ❗ Check if we're unblocked to push up PRs (due to ongoing discussion about EPS information in vets-website)
+       - ⛔ WAITING ON SCOPE DECISIONS:
+          - First appointment or all appointments scheduled within referral expiration?
+          - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.) 
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
       - 🟥 [[Design] Make updates to scheduling links to help with confusion around link redundancy](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91113)
       - 🟥 [[Design] Change expiration date format in task card](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91114)
