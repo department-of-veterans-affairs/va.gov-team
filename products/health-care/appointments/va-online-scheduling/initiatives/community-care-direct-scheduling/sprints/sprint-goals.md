@@ -22,7 +22,9 @@ ________________________________________________________________________________
        - ❗ Check if we're unblocked to push up PRs (due to ongoing discussion about EPS information in vets-website)
        - ⛔ WAITING ON SCOPE DECISIONS:
           - First appointment or all appointments scheduled within referral expiration?
-          - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.) 
+          - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
+          - Still using VA Notify for notification?
+       - ❗ Create new design tickets when scope decisions have been made
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
       - 🟥 [[Design] Make updates to scheduling links to help with confusion around link redundancy](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91113)
       - 🟥 [[Design] Change expiration date format in task card](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91114)
@@ -31,8 +33,8 @@ ________________________________________________________________________________
       - 🟥 🟦 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
     - **Sub Goal: [Feature] Get New Referrals**
       - 🟦 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
-      - ❗ 🟥 Fill out work request for VA Notify
-      - 🟥 Send messages to Melanie for review and Privacy Officer
+      - ⛔ ❗ 🟥 Fill out work request for VA Notify
+      - ⛔ 🟥 Send messages to Melanie for review and Privacy Officer
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
       - 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
