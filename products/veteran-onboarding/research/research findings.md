@@ -22,10 +22,12 @@ As Veterans create accounts and login to VA.gov, we want to provide a more welco
 In the Veteran Journey, the work most closely aligns with "Getting Out" and "Starting Up", but as we discovered in our research, some older Veterans are now exploring their accounts for the first time to see what benefits they may be entitled to receive, so it also aligns with "Retiring."
 _[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+Our goals for this research were focused on:   
+1. Identifying areas for improvement for Veterans creating accounts for the first time. We want to provide a more welcoming experience that establishes VA as a source of support for Veterans as they navigate the site and My VA for the first time.
+2. Testing a new task list component to see how Veterans respond to requests for action or information.
+3. Understanding what Veterans think about providing contact information to VA
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
-
 
 
 ## Research Questions
