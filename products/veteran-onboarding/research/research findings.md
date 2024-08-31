@@ -1,10 +1,10 @@
-# [Study] Research Findings 
+# Welcome to My VA and Profile Completion, Usability Study, Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Welcome to My VA, IIRe**
 
-Date: MM/DD/YYYY
+Date: 08/31/2024
 
-[Designer 1] [email], [Designer 2] [email]
+Liza McRuer, elizabeth.mcruer@va.gov, liza.mcruer@adhocteam.us
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -18,7 +18,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
+As Veterans create accounts and login to VA.gov, we want to provide a more welcoming experience that establishes VA as a source of support and assistance as Veterans navigate the site and authenticated experience for the first time, whether they are in the process of separating from active duty or returning years later to better understand their benefits. Previous research focused on transitioning service members indicates that “people new to VA are generally having a positive experience,” but that “service members would find it helpful to receive structured and specific resources about VA and benefit eligibility." While there are separate initiatives focused on helping Veterans understand their personalized benefits, we want to welcome Veterans and establish contact information as soon as possible so that Veterans can be contacted about their benefits. 
 _[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
 _Then, describe your goals for this research_
