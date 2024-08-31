@@ -19,6 +19,7 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 ## Research Goals
 As Veterans create accounts and login to VA.gov, we want to provide a more welcoming experience that establishes VA as a source of support and assistance as Veterans navigate the site and authenticated experience for the first time, whether they are in the process of separating from active duty or returning years later to better understand their benefits. Previous research focused on transitioning service members indicates that “people new to VA are generally having a positive experience,” but that “service members would find it helpful to receive structured and specific resources about VA and benefit eligibility." While there are separate initiatives focused on helping Veterans understand their personalized benefits, we want to welcome Veterans and establish contact information as soon as possible so that Veterans can be contacted about their benefits. 
+In the Veteran Journey, the work most closely aligns with "Getting Out" and "Starting Up", but as we discovered in our research, some older Veterans are now exploring their accounts for the first time to see what benefits they may be entitled to receive, so it also aligns with "Retiring."
 _[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
 _Then, describe your goals for this research_
