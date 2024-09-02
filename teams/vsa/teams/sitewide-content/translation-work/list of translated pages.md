@@ -31,3 +31,4 @@
 | [Educational and career counseling (VA Chapter 36)](https://www.va.gov/asesoramiento-educativo-y-profesional-capitulo-36-de-va) | Spanish | 8/31/24 (Waiting for QA / URL needs to be changed)
 | [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility-esp/) | Spanish | 8/31/24 (Waiting for QA)
 | [Pre-need eligibility for burial in a VA cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility-esp/) | Spanish | 8/31/24 (Waiting for QA)
+| [VA dental care](https://www.va.gov/health-care/about-va-health-benefits/dental-care-esp) | Spanish | 9/2/24 (Waiting for QA) 
