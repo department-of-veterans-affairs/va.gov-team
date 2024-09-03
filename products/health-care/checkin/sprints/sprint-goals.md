@@ -104,7 +104,7 @@
 ## SPRINT 14 - 8/21/2024-9/3/2024
 - **Production Support**
     - ✔️ ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
-    - ❗ 🟦 [Update Claims Ingest API Endpoint Values for eCheck-in Travel & OH Travel ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91049)
+    - ✔️ ❗ 🟦 [Update Claims Ingest API Endpoint Values for eCheck-in Travel & OH Travel ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91049)
         - **NOTE: THIS HAS A HARD DEADLINE OF 8/31**
     - ✔️ 🟨 [[DevOps] CHIP refreshAppointments corrupts LoROTA data. ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/475)
     - **Move to New AWS Instance**
