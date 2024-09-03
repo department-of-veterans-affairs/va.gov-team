@@ -70,6 +70,7 @@
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to determine if we have access to all appointment types & their data so that we can define the appt details pages**
     - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
+    - 🟦 [[BE] Modify Appointment Serializer for finding appointment types in Upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91993)
     - 🟥 [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
          - Waiting for Appts Team to make content updates 
 - **Stand-alone Travel Application for OH Sites**
@@ -105,6 +106,8 @@
 - **Tech Debt**
     - 🟩 [Pre-Check-in: Update Content for Medication Review ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91919)
     - 🟩 [Staging Review Feedback: Add Commas to "How to Prepare for Your Appointment" List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91691)
+    - 🟦 [[BE] [Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled' and older configs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92006)
+    - 🟦 [BE] [Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled' #92004
 </details>
 
 ## SPRINT 14 - 8/21/2024-9/3/2024
