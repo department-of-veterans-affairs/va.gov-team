@@ -98,7 +98,6 @@
     - 🟥 Flesh out initiative brief after meeting with Sam
          - Ask Kristen to confirm the draft  
     - 🟥 [[Design] Create Userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91305)
-    - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
 - **CIE Analytics**
     - 🟥 [Analyze pre-check-in landing page drop off rate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91433)
     - 🟪 [Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
