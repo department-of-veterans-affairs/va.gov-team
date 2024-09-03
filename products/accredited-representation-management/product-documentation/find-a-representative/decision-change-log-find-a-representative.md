@@ -20,3 +20,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Product Owner Jennifer Bertsch requested this be prioritized for the next sprint ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721334455491939))._
 - **7/25/2024**: The Report Outdated Information feature was removed from Production.\
   _Product Manager Lindsay Li-Smith confirmed this change and has updated OGC stakeholders ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721931488251949))._
+- **8/27/2024**: VA Enablement advises to continue to omit ~500 representatives from Find a Rep search results due to invalid/incomplete addresses, since a key functionality is for Veterans to find representatives based on location. The OGC Accreditation tool still exists as a means to access information for these representatives.\
+  _Confirmed in the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD109f834c96fe497bb35d622af))._
