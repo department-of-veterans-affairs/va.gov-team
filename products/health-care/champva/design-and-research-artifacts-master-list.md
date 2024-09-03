@@ -13,6 +13,8 @@ Updated Sept 3., 2024
 - [10-10d user research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/1010d-research-report.md)
 - [10-10d user research topline summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/10-10d-topline-summary.md)
 - [10-10d stakeholder interview research plan and conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/stakeholders/stakeholder_interview_methodology.md)
+- [10-10d stakeholder interview report](https://dvagov.sharepoint.com/:p:/r/sites/vaivc/_layouts/15/Doc.aspx?sourcedoc=%7B58ECCF7B-0989-4F11-A26F-490A6B5BB86C%7D&file=Stakeholder%20Interviews%20(Round%201)%20Readout.pptx&action=edit&mobileredirect=true)
+)
 
 ## CHAMPVA Claims (10-7959a)
 ### Design artifacts
