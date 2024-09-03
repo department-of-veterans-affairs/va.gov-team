@@ -4,9 +4,10 @@
 
 * Gaspare brought up that SCG 1 and 2 issues
     * Weird thing happened. 
-    * If enter primary, enter secondary, select yes to add additional, then go back to remove SCG1, it forces the info on additional CG
-    * Then move forward and does not allow to remove the additional secondary
-    * Ideal function: application will either remove all secondary CGs when No is selected. Or additional secondary is moved up to first secondary CG
+    * If enter primary, enter secondary, select yes to add additional, then go back to remove SCG1, it retains the info on additional CG
+    * Then the user can move forward through the form, but does not allow to remove the additional secondary CG
+    * Ideal function: application will either remove all secondary CGs when No is selected (after going back through the form). Or additional secondary is moved up to first secondary CG
+         * Heather: I think removing all CGs when NO is selected, is the proper way to handle the data.
 * County field - folks are adding Country (we thought this may happen)
     * Looking for additional validation so that they don’t type in US, USA, United States
     * Quick fix: Even if we stop them from adding those, maybe edit error message?
@@ -15,7 +16,7 @@
     * Preloaded data - CARMA facility filter value (Facilities that have Caregiver "accounts")
     * Facility ID = Station ID? (3 digits) - used to identify the right facility
     * CARMA may look into using LH Facilities API
-    * Once ready in lower levels to do some testing, we can schedule a meeting for engineers to talk through it and perform testing with facilities and see how they match up (especially for “new” facilities
+    * Once ready in lower levels to do some testing, we can schedule a meeting for engineers to talk through it and perform testing with facilities and see how they match up (especially for “new” facilities)
  
 ---
 ## Drew's Notes
