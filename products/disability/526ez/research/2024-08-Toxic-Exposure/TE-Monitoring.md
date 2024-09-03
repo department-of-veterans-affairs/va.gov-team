@@ -58,13 +58,16 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 | Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|
 |Step 1| Toxic Exposure Conditions | 62.22% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 2| Gulf War 1990 | 47.06% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 3| Gulf War 2001 | 88.89% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 4| Herbicide | 100% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 5| Additional Exposures | - | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 2| Gulf War 1990 | 0|| | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 3| Gulf War 2001 |0 || | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 4| Herbicide | 0 || | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 5| Additional Exposures | 0| | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 
 ### [UNDER CONSTRUCTION: Overall Form Abandonment]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
-As of 9/3, we are reworking this funnel and will update it once we have more confidence in the numbers we see. Alternative approaches we're considering: Removing all steps that are not seen by all Veterans (such as claim type) or exploring other non-funnel models for understanding the data. 
+
+**As of 9/3**, we are reworking this funnel and will update it once we have more confidence in the numbers we see. 
+
+**Alternative approaches we're considering:** Removing all steps that are not seen by all Veterans (such as claim type) or exploring other non-funnel models for understanding the data. 
 | Step # | 526 Page| Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|--|
 |Step 1|Introduction | 0.19% | 0.19% |  | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
