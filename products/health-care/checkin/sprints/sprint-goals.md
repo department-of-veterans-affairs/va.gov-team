@@ -78,6 +78,7 @@
     - 🟩 [Staging Review finding: Sentence structure in travel-pay page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91798)
     - 🟩 [Staging Review finding: Summary box for direct deposit information may not be appropriate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91802)
         - ~We need decision from UX before we hand this of to frontend~
+    - 🟩 Push to production for internal pilot
     - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75404)
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is moot - we can't continue until new Travel form is available in a lower env**    
@@ -102,7 +103,7 @@
 
 ## SPRINT 14 - 8/21/2024-9/3/2024
 - **Production Support**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
+    - ✔️ ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90465)
     - ❗ 🟦 [Update Claims Ingest API Endpoint Values for eCheck-in Travel & OH Travel ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91049)
         - **NOTE: THIS HAS A HARD DEADLINE OF 8/31**
     - ✔️ 🟨 [[DevOps] CHIP refreshAppointments corrupts LoROTA data. ](https://github.com/department-of-veterans-affairs/checkin-devops/issues/475)
@@ -145,19 +146,20 @@
     - ✔️ 🟪 Staging Review scheduled for 8/29
     - ✔️ 🟩 FE needs to add links for E2E testing and code coverage to the collab cycle ticket
     - ✔️ 🟩 FE needs to generate a bank of URLs for each of these dates and post them in the collab cycle ticket (8/23, 8/26, 8/27, 8/28)
-    - 🟩 Push to production for internal pilot
+    - ~🟩 Push to production for internal pilot~
+        - There are Staging Review issues to address first
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to address Design Intent feedback, determine how we want to implement this, and create tickets to move it forward**
     - ~🟩 [[FE] - Create mock api for travel claim status endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)~
     - ~🟩 [[FE] - Add past appointments features to details page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)~
 - **Research Cards & Their Headers**
-    - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90550)
+    - ✔️ 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90550)
     - ✔️ 🟥 [[Research] Identify other VFS Team examples that are using a similar pattern of displaying a list of tasks ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90910) 
 - **Add Translated Content**
     - ✔️ 🟩 [[FE] Add Spanish Translations ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90922)
 - **CIE Analytics**
-    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76037)
-    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89592)
+    - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76037)
+    - ✔️ 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89592)
 - **Tech Debt**
     - ✔️ 🟩 [Bug: Link Text on Upcoming Appts Page is Incorrect ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91083)
     - ✔️ 🟩 [Staging Review finding: How to check in link opens in a new tab without notice ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90774)
