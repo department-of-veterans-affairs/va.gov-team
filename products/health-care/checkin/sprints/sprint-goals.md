@@ -8,7 +8,13 @@
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89593)
     - **Move to New AWS Instance**
-        - TBD
+        - 🟨[[DevOps] Eric Oliver needs access to veterans-affairs PagerDuty.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/434)
+        - 🟨[[DevOps] Create terraform_dsva Terragrunt configuration in checkin-devops.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/462)
+        - 🟨[[DevOps] Postmortem on CHIP refreshAppointments <-> LoROTA PATCH bug](https://github.com/department-of-veterans-affairs/checkin-devops/issues/498)
+        - 🟨[[DevOps] Remove/Delete 'vaec-cms' RDS Database registrytestdb](https://github.com/department-of-veterans-affairs/checkin-devops/issues/546)
+        - 🟨[[DevOps] Remediate High vista-api-dev Findings by Updating DB Engine to 4.12](https://github.com/department-of-veterans-affairs/checkin-devops/issues/547)
+        - 🟨[[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/checkin-devops/issues/325)
+        - 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
     - 🟦🟩 Conduct some KT and ticket creation party (Lee)
