@@ -18,6 +18,10 @@
 
 
 ## Agenda
+## 9/4/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+  * 
 
 ## 8/21/24
 * **Epics Review**
