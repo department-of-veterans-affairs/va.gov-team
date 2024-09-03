@@ -10,7 +10,7 @@ Melissa Lefevre  |  |  |  |  |
 Simi Adebowale   |  |  |  |  |  
 Corey Ferris     | 5-6, 9 |  |  |  |  
 Ryan Shaw        |  |  |  |  |  
-John Luo         | 16 |  | 1 week pending plans |  |  
+John Luo         | 16 | 15 | 12-15 (tentative) | 23-24, 26-27, 30-31 (tentative) |  
 Tony Williams    |3-6  |  |  |  |  
 Jennie McGibney  | 11-16 |  |  |  |  
 Brenda Cudone    |  |  | 29 |  |  
