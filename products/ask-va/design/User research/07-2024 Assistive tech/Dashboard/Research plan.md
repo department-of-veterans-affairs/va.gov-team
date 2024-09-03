@@ -256,7 +256,7 @@ Here is our [CAIA research support ticket](add link).
 - Buffer between sessions: 30 minutes
 - Maximum sessions per day: 2 sessions
 
-### Availability UPDATE
+### Availability
 
 We will provide 24 time slots, with the aim to book 12 sessions. We have provided 1.5 hour sessions, but for screen magnification users, please only book 1 hour.
 
