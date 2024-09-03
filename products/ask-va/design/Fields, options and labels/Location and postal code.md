@@ -346,7 +346,7 @@ We require location of residence and postal code so we can route to the correct 
 
 `THEN` **require Veteran’s postal code**
 
-| `AND`                   | `AND`               | `AND`         | `AND`                          | `AND question is about` | `THEN`                      | 
+| `AND`                   | `AND`               | `AND`         | `AND question is about`         | `AND` | `THEN`                      | 
 | --------------| -------------------- | ---------------------- | ---------------- | --------------------- | ------------------------------- |
 | About someone else | I'm a family member of a Veteran | `family_relationship` | The Veteran | VA medical center is not required | **require Veteran’s postal code** |
 
@@ -363,7 +363,7 @@ We require location of residence and postal code so we can route to the correct 
 
 `THEN` **require other family member’s postal code**
 
-| `AND`                        | `AND`                              | `AND`                | `AND`                                   | `AND question is about` | `THEN`                                 |
+| `AND`                        | `AND`                              | `AND`                | `AND question is about`         | `AND` | `THEN`                                 |
 | -------------------------- | -------------------------------- | ----------------------------------- | --------- | --------------------- | --------------------------------------------- |
 | About someone else | I'm a family member | `family_relationship` | Other family member (not the Veteran or me) | VA medical center is not required | **require other family member’s postal code** |
 
@@ -380,7 +380,7 @@ We require location of residence and postal code so we can route to the correct 
 
 `THEN` **require Veteran’s postal code**
 
-| `AND`                        | `AND`                                            | `AND`       | `AND question is about`         | `AND`       |  `THEN`         |                             
+| `AND`                        | `AND`                                            | `AND`       | `AND question is about`         | `AND`    |  `THEN`         |                             
 | -------------------------- | ---------------------------------------------- | --------- | ----------------------------- | ---- |  -----------------------------------------|
 | About someone else | I'm a connected to the Veteran through my work | `work_role` | The Veteran | VA medical center is not required | **require Veteran’s postal code** |
 
