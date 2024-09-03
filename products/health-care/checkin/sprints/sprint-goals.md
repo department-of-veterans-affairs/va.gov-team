@@ -127,6 +127,8 @@
         - ✔️ 🟨 [[DevOps] LoROTA API Gateway integrations should target alias invoke ARNs.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/523)
         - ✔️ 🟨 [[DevOps] Just kidding, Nate Douglas does need access to veterans-affairs PagerDuty.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/433)
         - ✔️ 🟨 [[DevOps] Update `dsvagovcloud` SecretsManager secrets for `vaec-cie` outputs after applies.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/455)
+        - ✔️ 🟨 [[DevOps] Discovery on Blue-Green deployments for LoROTA.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/503)
+        - ✔️ 🟨 [[DevOps] Discovery on VA Profile integration](https://github.com/department-of-veterans-affairs/checkin-devops/issues/524)
 - **Medication Wording for Appointments - Pre-Check-in**
     - **Sprint Goal is to address the feedback from Staging Review & release the feature**
     - ✔️ 🟩 [Staging Review finding: More clarity needed in "prepare for appointment" section ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90775)
