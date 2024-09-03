@@ -2,7 +2,7 @@
 The intro-text appears fist and should contain the purpose and definition of the pattern. If you need to provide additional context of when and why to use this pattern then include it here.
 
 ## Examples
-
+ 
 Examples of this pattern. May contain reference or links to:
 
 ### Examples in production
