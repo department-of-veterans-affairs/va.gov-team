@@ -123,8 +123,10 @@ _Any additional insights that aren't "key findings." These can be powerful comme
     * _Supporting evidence_
 2. **The task list is a promising component and needs additional work prior to launch.** In this instance, we plan on updating the content to be more in-line with user expectations. We will also provide a minor amount of additional and specific content to help users understand the context of the tasks we're asking them to complete. The task list needs a new visual treatment to be more noticeable and requires further work to respond appropriately to user expectations (i.e. 7 out of 10 users expected the task list to disappear once all tasks were completed, so we need to ensure we have a success message or paramters on when it vanishes, such as the next time they log in.)
   * _Supporting evidence_
-4. **Participants responded well to the request for information, but were unsure about when and whether information would save.** Participants responded well to UI indicators such as the number of steps and the navigation within the flow, but they were uncertain if information is required and if or when it would be saved. Because we've also discovered issues with how information is saved to Profile, we've updated the flow to a pattern that the Appeals Team is using on VA Form 10182. Utilizing this pattern should shorten the process for users, as well as allow them to see and review the contact information we
+3. **Participants responded well to the request for information, but we need to be clear about the outcome of every user action.** Participants responded well to UI indicators such as the number of steps and the navigation within the flow, but they were uncertain if information is required and if or when it would be saved. Because we've also discovered issues with how information is saved to Profile, we've updated the flow to a pattern that the Appeals Team is using on VA Form 10182. Utilizing this pattern should shorten the process for users, as well as allow them to see and review the contact information that we do have on file for them. With the existing pattern, we can pre-populate the information we do have on file for them and display it on a page together, then provide the user with the ability to review and edit exisiting information, or add missing information. In order to emphasize the importance of the contact information, we can add brief content to each page that explains what the information is used for (i.e. "Add your mailing address. We'll use this address to send letters, prescriptions, etc"). In the updated pattern, we are clearly requiring the information and in order to remove any prompts or alerts, all three fields must be filled in. If all fields are already pre-populated with accurate information, a user may 'confirm' instead of editing in order to clear the prompt.    
     * _Supporting evidence_
+4. **Remove confirmation page and provide the information on that page earlier in the process.** The updated flow and pattern should allow us to negate the need for a final page, which participants did not find particularly useful as it didn't allow them to see what they had entered. While they appreciated the content on the page, most participants indicated they'd have preferred it up front to really help emphasize why VA is requesting the contact information. Rather than a confirmation page, the new pattern we're exploring has "hub" page ([see Array Data for details](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-create-the-contact-info-ar)) that users can return to in order to see what they have entered.
+  * _Supporting evidence_
 
 
 ## Next Steps
@@ -136,7 +138,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+We are planning on a study focused on AT users so that we ensure this pattern is accessible to all users.
 
 
 ## Appendix
@@ -145,29 +147,37 @@ _If there are demographics that were not included in this study or you discovere
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/conversation%20guide.md)
 
-[Interview transcripts](link here)
+[Interview notes](link here)
 
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+* [Synthesis Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723214987362/e559ad0616d59937edea484951c3560a9691e573)
+* [Observer notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715631650791/0b616aae4ad5fefe36448b69e0bc6ca2c60000a1)
 
 
 ## Pages and applications used
 
-[Figma Files](https://www.figma.com/design/CertVj7cu66kFv9TnseR30/Welcome-to-My-VA?node-id=300-11104&t=v0N05gRYU3c02EEV-1)
+* [Figma Files](https://www.figma.com/design/CertVj7cu66kFv9TnseR30/Welcome-to-My-VA?node-id=300-11104&t=v0N05gRYU3c02EEV-1)
 
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+* [Initial analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712608107388/80dc1be20f9ee63ac894c536ccd20d5b1cc172e1?sender=u82254af9423cfa236f383306)
+* [IIR/Auth Exp Collab](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716924198639/24d0953379e26a27de438a67894b2ce60d96afc4?sender=u82254af9423cfa236f383306)
+* [User flows V1](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715019181472/206d1983971576ee7696c1984666185a2fbff545?sender=u82254af9423cfa236f383306)
+* [Design intent](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715619973050/69f6e0e0edb7799059fa57483ebb7103a7e8b0d0?sender=u82254af9423cfa236f383306)
 
 
 ## Secondary research
 
-Include any secondary research you may have. 
+Previous related research reviewed prior to our study.
 
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+* [Transitioning Service Member Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md)
+* [Onboarding comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md)
+* [Transition Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2022-Transition_JourneyMap_v10.pdf)
+* [Navigating military transition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/PMA_1B_FindingsReport_v1.0.pdf)
+* [Navigating transition from military service to civilan life](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/LE-Project-Discovery-Report-Transition_v1.6.4.pdf)   
 
 
 ## Who we talked to 
@@ -176,19 +186,19 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Our initial recruitment goals focused on Veterans with minimal experience with VA.gov, such as those who were actively transitioning from active duty or who had never set up an account. As this is a difficult demographic to recruit for, we interviewed participants who had retired prior to the launch of VA.gov, as well as those who were still in the process of transitioning.   
 
-We talked to **x participants.**
+We talked to **ten participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 8 
+* Female: 2 
 
 
 LGBTQ+:
@@ -198,57 +208,50 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 10 
+* Tablet: 0 
+* Smart phone: 0 
+* Assistive Technology: 0
 
 
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
+Age:   
+* 18-24: 1 (Pilot Study)
+* 25-34: 3
+* 35-44: 1
+* 45-54: 2
 * 55-64: x
-* 65+: x
-* Unknown: x
+* 65+: 3
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 2 with degrees + 1 paricipant who indicated highest education was 11th grade
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 1
+* Master's degree: 1
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 0
+* Rural: 0
+* Unknown: 10
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 2
+* Black: 3
+* Hispanic: 2
+* Biracial: 0
+* Asian: 0
+* Native: 0
+* Prefer to self-describe or unknown: 3
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* We did not have any AT users as part of this study (it will be a focus of our next study).
+* No participants specified any cognitive disabilities in our recruitment, but 1-2 mentioned past trauma and PTSD.   
 
 
 ## Underserved groups we haven’t talked to 
@@ -256,10 +259,8 @@ Disability and Assistive Technology (AT):
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Identify as gay, lesbian, or bisexual; transgender or non-binary
+* Users of assistive technology
 
 _[insert screenshot of completed recruitment checker]_
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
