@@ -146,6 +146,7 @@ We believe that providing this type of information to Veterans can help make VA.
 ## Who we talked to
 
 **Recruitment criteria**
+
 We talked to **9 participants.**
 
 **Audience segment:**
