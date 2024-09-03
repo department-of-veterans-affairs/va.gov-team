@@ -202,9 +202,11 @@ Reddit posts on ILER reports are few, but we can see comments on the topic:
 ## Recommendations
 (Please note that these are ordered roughly in progression of small to large, and in terms of dependency.)
 
-### Use “ILER” in communications and UI
+### Use “ILER IES record” in communications and UI, with context
 
-Why: Though “IES” is the technically correct (“the best kind of correct”) term for the report of an individual Veteran can download from the ILER system, we note that all sorts of public communications and public comments by Veterans demonstrate that the common term for the report is “ILER”. 
+Why: Though “IES” is the technically correct (“the best kind of correct”) term for the report of an individual Veteran can download from the ILER system, we note that all sorts of public communications and public comments by Veterans demonstrate that the common term for the report is “ILER”. By using "ILER IES report", we can use the commonly identifiable "ILER" and the correct information, in a phrase that is both technically correct and recognizable. 
+
+If possible, on first reference, use "Incident Exposure Summary (IES)". Subsequent uses can be simply "IES".
 
 ### Realign with stakeholders
 
