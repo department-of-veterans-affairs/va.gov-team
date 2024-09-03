@@ -67,8 +67,8 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 ### Toxic Exposure Abandonment 
 Add table here. Currently being workshopped by Christine and Jared so we can understand how far into the TE flow Veterans are getting and places they might exit. 
-| Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
-|--|--|--|--|--|--|--|--|--|
+| Step # | TE Page| 5% |Data Dog 5%| 10%| 25%| 50%|75% |100%| Data Source |
+|--|--|--|--|--|--|--|--|--|--|
 |Step 1| Toxic Exposure Conditions | 62.22% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 |Step 2| Gulf War 1990 | 47.06% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 |Step 3| 1990 Summary | 0% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
