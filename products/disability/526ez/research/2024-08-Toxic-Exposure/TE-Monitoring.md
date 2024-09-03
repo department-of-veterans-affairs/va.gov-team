@@ -54,7 +54,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 *For Veterans who saw the 2022 form version.
 
 ### Toxic Exposure Abandonment 
-Add table here. Currently being workshopped by Christine and Jared so we can understand how far into the TE flow Veterans are getting and places they might exit. 
+ 
 | Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|
 |Step 1| Toxic Exposure Conditions | 62.22% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
@@ -64,8 +64,7 @@ Add table here. Currently being workshopped by Christine and Jared so we can und
 |Step 5| Additional Exposures | - | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 
 ### [UNDER CONSTRUCTION: Overall Form Abandonment]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
-
-
+As of 9/3, we are reworking this funnel and will update it once we have more confidence in the numbers we see. Alternative approaches we're considering: Removing all steps that are not seen by all Veterans (such as claim type) or exploring other non-funnel models for understanding the data. 
 | Step # | 526 Page| Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|--|
 |Step 1|Introduction | 0.19% | 0.19% |  | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
