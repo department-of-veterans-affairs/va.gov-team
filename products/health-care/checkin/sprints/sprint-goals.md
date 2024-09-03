@@ -48,7 +48,7 @@
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
     - 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
     - 🟦🟩 Conduct some KT and ticket creation party (Lee)
-    - ❗ Check if we're unblocked to push up PRs (due to ongoing discussion about EPS information in vets-website)
+    - ❗ **Check if we're unblocked to push up PRs (due to ongoing discussion about EPS information in vets-website)**
       - ⛔ WAITING ON SCOPE DECISIONS:
         - First appointment or all appointments scheduled within referral expiration?
         - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
