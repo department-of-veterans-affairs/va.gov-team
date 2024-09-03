@@ -27,9 +27,6 @@ Our goals for this research were focused on:
 2. Testing a new task list component to see how Veterans respond to requests for action or information.
 3. Understanding what Veterans think about providing contact information to VA
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
-
-
 ## Research Questions
 1. What do Veterans expect the first time they create an account on VA.gov?   
 2. What kind of onboarding experience will help Veterans feel welcome and supported as they explore their benefits?   
@@ -65,7 +62,7 @@ We conducted hour-long remote moderated research sessions via Zoom August 5 - Au
 
 ## Details of Findings 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+[Stakeholder Presentation Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/images/Welcome%20to%20My%20VA%20Research%20Findings%20(V2%20-%20Presentation%20Version).pdf.zip)
 
 **Finding 1: Engagement during outprocessing is varied**
 
@@ -256,11 +253,9 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
 * Identify as gay, lesbian, or bisexual; transgender or non-binary
 * Users of assistive technology
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+Additionally, we were not tracking whether participants were located in a rural location. Participants were given the option to conduct the interview on a mobile device, but all participants elected to use desktop computers. 
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/images/Recruitment%20Checker_Welcome.png)
