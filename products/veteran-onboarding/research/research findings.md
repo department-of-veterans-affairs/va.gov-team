@@ -6,7 +6,7 @@ Date: 08/31/2024
 
 Liza McRuer, elizabeth.mcruer@va.gov, liza.mcruer@adhocteam.us
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Stakeholder Presentation Deck - Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/images/Welcome%20to%20My%20VA%20Research%20Findings%20(V2%20-%20Presentation%20Version).pdf.zip)   
 
 **Jump to:**
 
@@ -61,8 +61,6 @@ We conducted hour-long remote moderated research sessions via Zoom August 5 - Au
 
 
 ## Details of Findings 
-
-[Stakeholder Presentation Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/images/Welcome%20to%20My%20VA%20Research%20Findings%20(V2%20-%20Presentation%20Version).pdf.zip)
 
 **Finding 1: Engagement during outprocessing is varied**
 
