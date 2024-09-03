@@ -31,101 +31,86 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 
 ## Research Questions
-
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+1. What do Veterans expect the first time they create an account on VA.gov?   
+2. What kind of onboarding experience will help Veterans feel welcome and supported as they explore their benefits?   
+3. What changes, if any, can we make to improve the onboarding experience to help Veterans determine their first actions on VA.gov?   
+4. What are the challenges Veterans face when first engaging with VA.gov and setting up their account?   
+5. How do Veterans engage with their profile and information upon first logging in to their account?   
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
+We conducted hour-long remote moderated research sessions via Zoom August 5 - August 9, 2024. We used a [Figma prototype](https://www.figma.com/proto/CertVj7cu66kFv9TnseR30/Welcome-to-My-VA?page-id=300%3A11104&node-id=300-11287&viewport=282%2C610%2C0.05&t=AdaosOCQ6SDCjCyl-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=300%3A11287&show-proto-sidebar=1) to assess engagement with onboarding tasks and willingness to provide personal information. The study was broken down into 5 sections:   
+1. Background and separation - Verbal discussion around service branch and separation to gauge participants' knowledge of VA while they were leaving active duty.
+2. Welcome Message on My VA - Prototype engagement to determine a Veteran's first actions upon landing on My VA post-account creation.
+3. Task List on My VA - Prototype engagement with a new component (after a simulated verification flow) to determine how participants responded to requests for information and onboarding "tasks."
+4. Adding contact information - Prototype flow to assess Veteran williness to provide contact information and complete profile, after being prompted.
+5. Confirmation and next task - Prototype confirmation page and a return to the task list to determine participant willingness to continue with subsequent tasks.
 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+1. Veterans want specific and personalized eligibility recommendations. Veterans will immediately want to engage with their benefits upon account creation.
+- TRUE. 10 out of 10 participants stated that the first thing they wanted to do upon account creation was find out what benefits they might be qualified for. Participants acknowledged the welcome message, but it wasn't as impactful to them as finding out what they might be entitled to receive from VA.
+2. The onboarding experience can be improved by a more human-centered approach, such as affirmative messaging and focused tasks.
+  - TRUE. Veterans expected a welcome message the first time they login, although they didn't engage with the additional resources. However, the task list and profile completion prompts did provide them with a focused list of items to complete. 8 out of 10 Veterans were willing to provide their contact information, as long as they understood the value to them (i.e. If VA has my accurate information, they will be able to contact me about my benefits). 2 out of 10 Veterans did state that they assumed VA already had or should have this information on file already.   
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+## Key Findings    
 
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
-
-## Key Findings
-
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
+1. **Engagement during out-processing varied.**   
+2. **Upon login, the focus should remain on a single task - verification.**   
+3. **The task list was well-received by participants, but it doesn't stand out enough from the page enough in its current form.** 
+4. **Participants were willing to provide their information, if they understood the value to them.**
+5. **Participants immediately noticed the task change to “completed” and stated they would go complete the second task, indicating a strong association with list-based prompts done in order.**   
 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
+**Finding 1: Engagement during outprocessing is varied**
 
-**Finding 1**
+Labels: Veteran Onboarding, VETJNY: Getting out Military
 
-Labels: label 1, label 2 
+As the TSM team noted in their [research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md), the separation experience can be very different, based upon branch, reason for separation, time of separation, command support, and installation, to name a few factors. Our research reiterated that we can't take for granted that Veterans will approach My VA and their benefits with the same baseline knowledge of VA, so there are ways we can improve the initial introduction. Participants were usually aware of common benefits, like education and healthcare, but lacked knowledge of additional benefits, and also admitted to not fully understanding the information they received when they separated and were unsure what questions to ask.   
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+> “At the time it felt rushed and it felt checkboxy [...] I didn't really feel, at the time, especially at that age, that I was really comprehending the information that I was getting, to be honest [...] But it seems like a lot of terms were thrown out that I would understand in today's world that I wouldn't have understood at that point in time, not really having the work experience outside the military." (P4)
 
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
+**Finding 2: Upon login, the focus should remain on a single task - verification**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Going into this study we hypothesized that benefits would be of utmost importance to participants. While there are other teams focusing on benefits recommendations, we wanted to note that our study does overwhelmingly support the need for personalization and tools that better connect Veterans to the benefits they are qualified for and to which they are entitled. The welcome message was acknowledged, but every participant (10 out of 10) immediately wanted to explore benefits and generally ignored the verification prompt as well as our message. 
 
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> "How do I feel welcome if I still gotta do..if I'm still not through the door? Oh, you got through one door. Now let me present to you another door that you have to walk through." (P4)
 
 
-**Finding 3**
+**Finding 3: The task list was well-received by participants, but it doesn't stand out enough from the page enough in its current form**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Once they were verified, however, the task list on My VA was well-received. 3 out of 10 participants had to be prompted to start it and we received feedback that it doesn’t stand out enough from the page. Additionally, Participants didn’t resonate with the “Get Started” verbiage, as most felt that “Complete Profile” or “Finish Profile” would be more accurate. They also expressed a strong desire to understand the value of each task and the reasons for adding their information. However, paradoxically, several of them skimmed the pages that offered additional context.   
 
-Brief description
+> "It should say 'Let's go ahead and set up your profile so that we can better customize your assistance so that we get you into all the benefits that you're due or are applicable for you.’ So a little more encouragement that we're collecting so we can help you...but it's also a roadmap to make sure." (P2)  
 
-> _Supporting data: Quote here_
+> "I might make the little checklist stand out a little bit more like when you first click the page, you know, color coded something. Make it bigger. Just make it stand out. It looks monotonous. It looks just like everything else on the page." (P6)
 
-> _Supporting data: Quote here_
+**Finding 4: TParticipants were willing to provide their information, if they understood the value to them**
 
+Labels: label 1, label 2 
+
+One of our research goals was to understand how participants responded to being asked for contact information. 8 out of 10 were willing to add it, but 2 out of 10 indicated that they expected VA to already have this information.
+
+> "You know, having your information being updated and the most updated. This is why it's very important [...] The most accurate contact information you could possibly give them, the better. You'll receive help and guidance to that next phase of civilian life." (P8)
+
+> "And then the email address was part of the login creation. So why is it missing?" (P4)
+
+**Finding 5: Participants immediately noticed the task change to “completed” and stated they would go complete the second task, indicating a strong association with list-based prompts done in order**
+
+Labels: label 1, label 2 
+
+Once we returned to the task list, participants noted the change to "completed" for their first task and 10 out of 10 indicated they would go on to notifications. However, we were asking them questions about their expectations on how VA would contact them, so there was a focus in the research on communication preferences and two tasks are very closely related.  
+
+> “I do like to add your content information, review notification settings. Because our minds work is - same thing, where we get taskings, like we'll get this big old list out, and we have to make sure that these all get completed. So if you're doing something like, you know contact information, and now the review notification settings, I would say...yeah, doing doing how this is showing, you know, it's completed, not started...Because again, our days are like, 'Here's your taskings. You need to complete these.' So completed, not completed. That's just how our minds work." (P11)
 
 ## Additional Insights
 
