@@ -68,7 +68,7 @@ Context: The RPA bots are scraping the CRM Agent for the Category and Topics:
 
 ### 4. Testing Team
 - VA.gov Team: FE Unit tests, BE (Vets API) Unit tests, integration testing, accessibility testing, manual testing, and automated E2E testing.
-- CRM Team: E2E testing facilitation.
+- CRM Team - business line: E2E testing facilitation.
 
 - Roles and responsibilities for end-to-end (E2E) testing are as follows:
    - Testing for AVA VA.gov's web-facing, public UI will be owned by the AVA VA.gov team, guided by their test plan.
