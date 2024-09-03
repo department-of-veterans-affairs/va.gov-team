@@ -78,8 +78,7 @@
     - 🟩 [Staging Review finding: Sentence structure in travel-pay page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91798)
     - 🟩 [Staging Review finding: Summary box for direct deposit information may not be appropriate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91802)
         - ~We need decision from UX before we hand this of to frontend~
-    - 🟩 Push to production for internal pilot
-    - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75404)
+    - 🟩 Push to production for internal pilot once all Staging Review issues have been addressed
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is moot - we can't continue until new Travel form is available in a lower env**    
     - ⛔ BLOCKED
@@ -92,9 +91,10 @@
     - 🟥 Flesh out initiative brief after meeting with Sam
          - Ask Kristen to confirm the draft  
     - 🟥 [[Design] Create Userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91305)
+    - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
 - **CIE Analytics**
     - 🟥 [Analyze pre-check-in landing page drop off rate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91433)
-    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
+    - 🟪 [Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91334)
 - **Tech Debt**
     - 🟩 [Pre-Check-in: Update Content for Medication Review ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91919)
