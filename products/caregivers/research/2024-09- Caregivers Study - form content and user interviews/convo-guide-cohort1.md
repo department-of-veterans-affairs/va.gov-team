@@ -114,7 +114,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 ## Third Task: [Facilities Selection] - 5 minutes
 
-- Please explain your thoughts and keep thinking aloud as you complete this question.
+- Please keep thinking aloud as you complete this question.
 - How would you prefer to search for VA facilities?
 - Can you explain to me why you think facility choice is part of the caregiver application process?
 - Let's imagine you want to change the facility you have selected - maybe because you're moving soon - by doing a new search. Can you walk me through how you would accomplish that?
