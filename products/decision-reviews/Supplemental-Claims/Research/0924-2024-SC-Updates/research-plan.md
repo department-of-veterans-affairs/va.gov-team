@@ -138,7 +138,7 @@ Please submit artifacts for Research Review 8-9 days prior to the first planned 
 
 ### Prepare
 
-Before recruitment starts, we would like to request a kickoff call with Perigean to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.
+Before recruitment starts, **we would like to request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.
 
 The team is available for a kickoff call during any of these times:
 
@@ -227,7 +227,7 @@ Please list the people who will be serving in each role. Include the primary pho
     
 - Accessibility specialist (for sessions where support for screen readers may be needed): David Kennedy david.kennedy@adhocteam.us
     
-- Note-takers: Perigean
+- Note-takers: Our team
     
 - Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side)  
 
