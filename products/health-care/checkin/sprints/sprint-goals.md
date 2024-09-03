@@ -106,8 +106,8 @@
 - **Tech Debt**
     - 🟩 [Pre-Check-in: Update Content for Medication Review ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91919)
     - 🟩 [Staging Review Feedback: Add Commas to "How to Prepare for Your Appointment" List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91691)
-    - 🟦 [[BE] [Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled' and older configs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92006)
-    - 🟦 [BE] [Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled' #92004
+    - 🟦 [[BE] [Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled' and older configs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92006)
+    - 🟦 [[BE][Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92004)
 </details>
 
 ## SPRINT 14 - 8/21/2024-9/3/2024
