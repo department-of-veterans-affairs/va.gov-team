@@ -62,6 +62,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |Step 3| Gulf War 2001 |0 || | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 |Step 4| Herbicide | 0 || | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 |Step 5| Additional Exposures | 0| | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 6| Additional Disabilities| 0
 
 ### [UNDER CONSTRUCTION: Overall Form Abandonment]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
 
