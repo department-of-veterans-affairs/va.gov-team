@@ -99,7 +99,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 - [Does the participant comment on making changes to existing caregivers?]
 
 
-## Second Task: [Veteran inforamtion] - 5 minutes
+## Second Task: [Veteran information] - 5 minutes
 - Now I'd like you to start the form as if you were applying for the program.
 - This is our staging site for testing purposes so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive items such as your social or birth date that you don't want to share.
 - As you go through the form please remember to think aloud. We want to hear about any reactions you're having.
