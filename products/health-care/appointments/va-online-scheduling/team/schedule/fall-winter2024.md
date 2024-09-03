@@ -11,7 +11,7 @@ Simi Adebowale   |  |  |  |  |
 Corey Ferris     | 5-6, 9 |  |  |  |  
 Ryan Shaw        |  |  |  |  |  
 John Luo         | 16 |  | 1 week pending plans |  |  
-Tony Williams    |  |  |  |  |  
+Tony Williams    |3-6  |  |  |  |  
 Jennie McGibney  | 11-16 |  |  |  |  
 Brenda Cudone    |  |  | 29 |  |  
 
