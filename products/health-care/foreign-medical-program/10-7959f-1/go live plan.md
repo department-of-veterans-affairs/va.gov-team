@@ -1,5 +1,5 @@
-\# `26`\-4555 Go / No Go   
-\## `3`/31/2023
+\# 10-7959f-1 Go / No Go   
+\## x/xx/24
 
 \## Decision: \`Continue launch / Pause / Pivot\`
 
