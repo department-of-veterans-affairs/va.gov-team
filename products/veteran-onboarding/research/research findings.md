@@ -114,7 +114,7 @@ Once we returned to the task list, participants noted the change to "completed" 
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+Two partipants expressed that they believed that updating their profile would translate to all related VA accounts, such as health information.
 
 
 ## Recommendations   
