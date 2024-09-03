@@ -27,11 +27,21 @@ Details any containers of components or layout concerns for how the pattern may 
 
 ### How this pattern works
 
-Details the design decisions inherent to the pattern, describes the interactions, and provides usability guidance.
+Forms display an alert component informing the users their information will be prefilled from their profile. 
+
+Editable prefilled data should be shown in a 'locked' state with additional instructions for updating, for additional guidance on updating prefilled information, see the "Help users to... Update their prefilled information" pattern. 
+
+For data that is uneditable (personal information such as Legal name, DOB and SSN), a message should appear under
+
+The form should also pre-populate available information from the VA.gov profile by putting the values from profile into editable form fields within the form pages.
+
+
 
 ### Components used in this pattern
 
-List of links to the components used in the pattern and details on any variations in use.
+- Alert
+- Card
+
 
 ### Page templates available for this pattern
 
