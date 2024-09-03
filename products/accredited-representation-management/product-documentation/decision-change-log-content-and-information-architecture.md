@@ -42,3 +42,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Confirmed with the Debt Resolution team in ([Slack message](https://dsva.slack.com/archives/CPE4AJ6Q0/p1723579054028459?thread_ts=1723148366.330879&cid=CPE4AJ6Q0))._
 - **8/19/2024**: Redirected [va.gov/vso](https://va.gov/vso/) and [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp) to our FAQ page.\
   _CAIA IA partner Kristin Oulette Muskat confirmed this ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1724103072664889)) and Product Manager Lindsay Li-Smith communicated this to stakeholders via email "Redirecting accredited representative URL"._
+- **8/28/2024**: Redirected [benefits.va.gov/vso](https://www.benefits.va.gov/vso/) to our FAQ page.\
+  _Managed by the sitewide team ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89196#issuecomment-2316428385)) and Product Manager Lindsay Li-Smith communicated this to stakeholders via email "Redirecting accredited representative URL"._
