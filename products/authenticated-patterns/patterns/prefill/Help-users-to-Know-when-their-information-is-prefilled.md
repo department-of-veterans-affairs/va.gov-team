@@ -27,14 +27,12 @@ Details any containers of components or layout concerns for how the pattern may 
 
 ### How this pattern works
 
+#### Communicate information that is prefilled
 Forms display an alert component informing the users their information will be prefilled from their profile. 
 
+#### Communicate information that can be edited
 Editable prefilled data should be shown in a 'locked' state with additional instructions for updating, for additional guidance on updating prefilled information, see the "Help users to... Update their prefilled information" pattern. 
-
-For data that is uneditable (personal information such as Legal name, DOB and SSN), a message should appear under
-
-The form should also pre-populate available information from the VA.gov profile by putting the values from profile into editable form fields within the form pages.
-
+For data that is uneditable (personal information such as Legal name, DOB and SSN), a message should appear under the information that can not be updated.
 
 
 ### Components used in this pattern
@@ -61,6 +59,6 @@ A link to the page.code-link, when available.
 
 Any content rules or recommendations for the pattern.
 
-## Accessibility considerations
+## Research Findings
 
-Calling out specific accessibility concerns and considerations.
+The Authenticated Experience Design Patterns team conducted [user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill) to gather validation about this pattern.
