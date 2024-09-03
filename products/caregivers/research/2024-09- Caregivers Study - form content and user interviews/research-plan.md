@@ -112,7 +112,8 @@ Screener questions:
 - Diversity across rural and major metropolitan areas
 
 ## Timeline
-TBD
+Can start 10am ET
+
 
 ### Prepare
 We would like to request a kick-off call with Perigean before recruiting starts. Here are some days and times we're available for the kick-off call:
@@ -141,8 +142,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - Moderator: Angela Agosto (angela.agosto@adhocteam.us; 570-807-0619) and Jessica Stump (jessica.stump@adhocteam.us)
 - Research guide writing and task development (usually but not always same as moderator): Angela Agosto and Jessica Stump
 - Participant recruiting & screening: Perigean	
-- Project point of contact: Angela Agsto and Jessica Stump
-- Participant(s) for pilot test: TBD
+- Project point of contact: Angela Agosto and Jessica Stump
+- Participant(s) for pilot test: Perigean to recruit
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	CAIA (TBD)
-- Note-takers: TBD
+- Note-takers: Angela Agosto (angela.agosto@adhocteam.us), Jessica Stump (jessica.stump@adhocteam.us), Hieu Vo (hieu.vo@agile6.com), Renata Keck (renata.keck@agile6.com)
 - Observers: TBD
