@@ -12,8 +12,9 @@
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
     - 🟦🟩 Conduct some KT and ticket creation party (Lee)
-- **Upcoming VAOS Appointments**
-    - **Sprint Goal is to get ready for and schedule the Staging Review**
+- **Upcoming VAOS Appointments**   
+    - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
+    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)    
     - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
     - 🟥[[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
     - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84422)
@@ -62,8 +63,6 @@
     - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
-    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
-         - May not be ready, depending on BE blocker for UX designs
     - 🟥 [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
          - Waiting for Appts Team to make content updates 
 - **Stand-alone Travel Application for OH Sites**
