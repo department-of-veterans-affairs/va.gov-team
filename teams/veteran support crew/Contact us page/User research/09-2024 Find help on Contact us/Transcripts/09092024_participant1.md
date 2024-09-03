@@ -1,9 +1,9 @@
 # Participant 1 transcript
 - Date: 9/9/2024
-- Device: [🟡 Mobile or desktop]
+- Device: Desktop
 
 **Jump to**: 
-- [Before showing ‘Contact us’ page](🟡link)
+- [Before showing ‘Contact us’ page](#before-showing-contact-us-page)
 - [Scenarios](🟡link)
 - [Review each scenario](🟡link)
 - [Cool down](🟡link)
