@@ -77,7 +77,7 @@ As the TSM team noted in their [research review](https://github.com/department-o
 
 **Finding 2: Upon login, the focus should remain on a single task - verification**
 
-Labels: label 1, label 2 
+Labels: PRDT: My VA
 
 Going into this study we hypothesized that benefits would be of utmost importance to participants. While there are other teams focusing on benefits recommendations, we wanted to note that our study does overwhelmingly support the need for personalization and tools that better connect Veterans to the benefits they are qualified for and to which they are entitled. The welcome message was acknowledged, but every participant (10 out of 10) immediately wanted to explore benefits and generally ignored the verification prompt as well as our message. 
 
@@ -86,7 +86,7 @@ Going into this study we hypothesized that benefits would be of utmost importanc
 
 **Finding 3: The task list was well-received by participants, but it doesn't stand out enough from the page enough in its current form**
 
-Labels: label 1, label 2 
+Labels:  PRDT: My VA
 
 Once they were verified, however, the task list on My VA was well-received. 3 out of 10 participants had to be prompted to start it and we received feedback that it doesn’t stand out enough from the page. Additionally, Participants didn’t resonate with the “Get Started” verbiage, as most felt that “Complete Profile” or “Finish Profile” would be more accurate. They also expressed a strong desire to understand the value of each task and the reasons for adding their information. However, paradoxically, several of them skimmed the pages that offered additional context.   
 
@@ -96,7 +96,7 @@ Once they were verified, however, the task list on My VA was well-received. 3 ou
 
 **Finding 4: TParticipants were willing to provide their information, if they understood the value to them**
 
-Labels: label 1, label 2 
+Labels: PRDT: VA.gov Profile, DSC: Ask users for addresses
 
 One of our research goals was to understand how participants responded to being asked for contact information. 8 out of 10 were willing to add it, but 2 out of 10 indicated that they expected VA to already have this information.
 
@@ -106,7 +106,7 @@ One of our research goals was to understand how participants responded to being 
 
 **Finding 5: Participants immediately noticed the task change to “completed” and stated they would go complete the second task, indicating a strong association with list-based prompts done in order**
 
-Labels: label 1, label 2 
+Labels: PRDT: My VA
 
 Once we returned to the task list, participants noted the change to "completed" for their first task and 10 out of 10 indicated they would go on to notifications. However, we were asking them questions about their expectations on how VA would contact them, so there was a focus in the research on communication preferences and two tasks are very closely related.  
 
@@ -117,19 +117,21 @@ Once we returned to the task list, participants noted the change to "completed" 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 
-## Recommendations
+## Recommendations   
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
+1. **Instead of pre-verification tasks or resources, provide only simple messaging.** Rather than providing links along with a welcome message, we recommend static messaging that provides orientation to My VA or a brief, one-time modal that welcomes a user and appears only the first time a person creates an account. We might also consider additional personalized resources within My VA or Profile that allow Veterans to easily find a rep and an assigned location once they are verified. In an ideal future state, we'll be able to onboard with more personalization and benefit recommendations once proposed tools are built and launched. We plan on connecting with more teams to understand how the onboarding/welcome process can support personalized benefit recommendations through collecting initial information as quickly and efficiently as possible.   
     * _Supporting evidence_
-* Recommendation 2
+2. **The task list is a promising component and needs additional work prior to launch.** In this instance, we plan on updating the content to be more in-line with user expectations. We will also provide a minor amount of additional and specific content to help users understand the context of the tasks we're asking them to complete. The task list needs a new visual treatment to be more noticeable and requires further work to respond appropriately to user expectations (i.e. 7 out of 10 users expected the task list to disappear once all tasks were completed, so we need to ensure we have a success message or paramters on when it vanishes, such as the next time they log in.)
+  * _Supporting evidence_
+4. **Participants responded well to the request for information, but were unsure about when and whether information would save.** Participants responded well to UI indicators such as the number of steps and the navigation within the flow, but they were uncertain if information is required and if or when it would be saved. Because we've also discovered issues with how information is saved to Profile, we've updated the flow to a pattern that the Appeals Team is using on VA Form 10182. Utilizing this pattern should shorten the process for users, as well as allow them to see and review the contact information we
     * _Supporting evidence_
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+* Update design and content based upon the participant feedback on the visuals and messaging.
+* Engineer discovery indicated some complications with how information is pushed back into Profile, so we are looking at other existing patterns, related work, and technical constraints.
+* We're working with CAIA to plan and schedule a secondary study with AT users.   
 
 
 ## Further research needed
@@ -139,9 +141,9 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research%20plan%202024.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/conversation%20guide.md)
 
 [Interview transcripts](link here)
 
@@ -153,7 +155,7 @@ e.g. mural boards, etc.
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Figma Files](https://www.figma.com/design/CertVj7cu66kFv9TnseR30/Welcome-to-My-VA?node-id=300-11104&t=v0N05gRYU3c02EEV-1)
 
 
 ## Other supporting documents created
