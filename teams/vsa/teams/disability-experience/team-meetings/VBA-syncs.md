@@ -5,8 +5,10 @@ Goal of the meeting series: addressing policy related or other open questions fo
 ### In attendance
 …
 ### Notes
-* Jina - We looked into how the 4142 is generated in the backend. If 5 providers are inputted, then one PDF 4142 with all 5 providers on it are generated. We want to double check that this is same PDF is sent to all 5 providers. ([ticket link]([url](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/6?pane=issue&itemId=75109776)))
-* Jina - which SC category does "traumatic event" fall under?
+* Jina - We looked into how the 4142 is generated in the backend. If 5 providers are inputted, then one PDF 4142 with all 5 providers on it are generated. We want to double check that this is same PDF is sent to all 5 providers. ([ticket link]([url](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/6?pane=issue&itemId=75109776))) - separate 4142 goes to each provider. the grouped provider can be for a 4142a. 
+what happens if multiple providers is sent to one provider? this is a HIPPA concern. it'll come back as "we haven't seen X for this condition" 
+* Jina - which SC category does "traumatic event" fall under? - majority of time for traumatic event, it'd be the first option (direct SC). but there could be scenarios where it was aggravated by an event. so that'd be the third bullet. 
+add (traumatic event)
 * TREX - 2022/TE Form526 5% (Canary) release: how is the data looking for 10% release from VBA's side?
 
 ## 8/20/24 Biweekly VBA-DBEX Check-in
