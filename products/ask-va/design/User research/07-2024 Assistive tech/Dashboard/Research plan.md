@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: August 28, 2024
+Last updated by @tygindraux: September 3, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -229,28 +229,24 @@ We'd like to recruit people who use a mix of different screen magnification soft
 |Date|Milestone|
 |:--|:--|
 |September 3, 2024|Research Review|
-|September 5 - 6, 2024|Pilot sessions with CAIA|
+|September 6, 2024 (TBD)|Pilot sessions with CAIA|
 |September 17 - 24, 2024|Research sessions|
 |September 26 - October 3, 2024|Synthesis|
 |October 4, 2024|Share findings|
 
 ### Pilot sessions
 
-We will have 3 pilot sessions and/or asynchronous reviews with CAIA.
+We will have 2 pilot sessions and/or asynchronous reviews with CAIA.
 
 Here is our [CAIA research support ticket](add link).
 
-**Pilot 1: Desktop with screen reader**
+**Pilot 1: Mobile with screen reader**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 5 - 6, 2024
+- Date and time of pilot session: TBD around September 6, 2024
 
-**Pilot 2: Mobile with screen reader**
+**Pilot 2: Desktop with alternative navigation**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 5 - 6, 2024
-
-**Pilot 3: Desktop with alternative navigation**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 5 - 6, 2024
+- Date and time of pilot session: TBD around September 6, 2024
 
 ## Research sessions
 
