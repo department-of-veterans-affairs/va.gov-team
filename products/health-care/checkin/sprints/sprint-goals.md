@@ -48,6 +48,14 @@
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
     - 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
     - 🟦🟩 Conduct some KT and ticket creation party (Lee)
+    - ❗ Check if we're unblocked to push up PRs (due to ongoing discussion about EPS information in vets-website)
+      - ⛔ WAITING ON SCOPE DECISIONS:
+        - First appointment or all appointments scheduled within referral expiration?
+        - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
+        - Still using VA Notify for notification?
+          - ⛔ ❗ 🟥 Fill out work request for VA Notify
+          - ⛔ 🟥 Send messages to Melanie for review and Privacy Officer
+      - ❗ Create new design tickets when scope decisions have been made
     - 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
     - 🟦🟩 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
