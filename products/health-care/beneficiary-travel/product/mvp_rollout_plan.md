@@ -47,11 +47,11 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 2. A fix will be prioritized and worked on
 3. The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
 
-### Phase IA: moderated production testing (also known as User Acceptance Testing, or UAT)
+### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
-- Desired date range or test duration: Aug 22 - Aug 23
+- Desired date range or test duration: Aug 22 - Sept 4
 - Desired number of users: 2
 - How you'll recruit the right production test users: We have identified two BAH Veterans
 - How you'll conduct the testing: UAT
@@ -59,26 +59,23 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Number of users: 2
+- Number of bugs identified / fixed: 0
+- Was any downstream service affected by the change?: No
+- Types of errors logged: N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
 #### Rollout Planning
 
-- Desired date range: Aug 23 - Aug 29
+- Desired date range: Sept 4 - 11
 - How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
-- Links to the dashboard(s) showing "success criteria" metrics: 
+- Links to the dashboard showing "success criteria" metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)
 - Who is monitoring the dashboard(s)?: UX Leads, Engineering Lead, and Product Manager
 
-
 **Engineering Metrics (Datadog)**
-
 ***[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)*** 
 
 
