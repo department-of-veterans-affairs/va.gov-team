@@ -33,3 +33,4 @@
 | [Pre-need eligibility for burial in a VA cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility-esp/) | Spanish | 8/31/24 (Waiting for QA)
 | [VA dental care](https://www.va.gov/health-care/about-va-health-benefits/dental-care-esp) | Spanish | 9/2/24 (Waiting for QA) 
 | [Eligibility for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility-esp/) | Spanish | 9/2/24 (Waiting on QA)
+| [Creating an account for Va.gov](https://www.va.gov/resources/creating-an-account-for-vagov-esp) | Spanish | 9/3/24 
