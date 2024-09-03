@@ -74,7 +74,8 @@ This track employs design exploration and usability testing to answer the follow
 - **Should we launch first with a generic version of the content, which is a lower lift but potentially less clear to Veterans, or begin with specific versions of the content for a few given contentions?**
 
 **Figure 1: Potential solutions**
-![Potential solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/Claim-evidence-veteran-approaches.png)]
+![Potential solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/Claim-evidence-veteran-approaches.png)
+
 This graphic shows various approaches to providing evidence-related education to Veterans. Content located in the information and resources section may be as simple as a new generic information page. However, a condition-specific version might allow Veterans to select their condition to see what is needed before starting an application. Content within the 526-EZ form could provide either generic or condition-specific information at moments that matter: while selecting a condition to claim, before uploading evidence, or while uploading evidence.
 
 ### Track 2: Release a simple MVP into production and begin gathering metrics.
@@ -133,6 +134,7 @@ Veterans who under-submit evidence believe that VA knows best and will inform th
 
 **Figure 2: Target Veteran demographics**
 ![Target Veteran demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/Claim-evidence-veteran-approaches.png)]
+
 This quadrant diagram illustrates the potential target audience categorized by their submission style for Veterans' claims. Veterans fall along a spectrum from under-submitters, who provide little to no evidence, to over-submitters, who provide too much information. Across these styles are those who depend on outside help from accredited representatives (such as VSOs or private attorneys), and those who seek minimal help from friends and family or work alone. 
 We assume that under-submitters are more likely to work alone or have minimal help, as accredited representatives should provide guidance to Veterans regarding what evidence to submit. This represents our primary target audience for this intervention, as they were the most likely group in our testing to indicate that the content would change how they approached submitting their claim.
 Two secondary audiences for this content intervention may include over-submitters who provide extensive information, but may not provide the right kinds, or Veterans of any submission-style who are working with outside help but receive inaccurate guidance. We heard from at least one Veteran who worked with someone at an RO who told them they did not need to submit any evidence with their claim. However, we suspect this audience is relatively small.
