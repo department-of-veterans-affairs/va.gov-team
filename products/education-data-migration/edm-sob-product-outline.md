@@ -124,7 +124,11 @@ The most risky aspect is the assumption that batch processing would address 24/7
 SOB is currently available from Sunday-Friday 6am-10pm & Saturday 6am-7pm ET to be available 24 hours/7 days a week.
 
 ### Key Decisions
-EDU stakeholder, Tammy Hurley, decided not to make any design changes to SOB as of 7/24/2024 
+- EDU stakeholder, Tammy Hurley, decided not to make any design changes to SOB as of 7/24/2024 weekly SOB Requirements meeting
+- Remove date of birth from display in SOB (EDM-121)
+- No longer displaying enrollment history as of 8/28/2024 weekly SOB Requirements meeting
+- No longer displaying VA file number as of 8/28/2024 weekly SOB Requirements meeting
+- Moving forward to connect to claimant-api as of 8/28/2024 weekly SOB Requirements meeting
 
 ---
    
