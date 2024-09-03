@@ -30,4 +30,6 @@ _Input was requested by Product Manager Lindsay Li-Smith via email “21-22/21-2
   _Confirmed by stakeholders Jenny Rosenau (Compensation Service), Nathan Kroes (OGC) and Martin Caraway (VBA) in email "Re-appointing a currently appointed representative"._
 - **8/15/2024**: Decided to save the prefill pattern for a future iteration of Appoint a Representative as it was adding 60-70% complexity for gathering claimant/Veteran info -- something we did not originally plan for, but discovered after diving into development. \
   _Proposed by Product Manager Lindsay Li-Smith and approved by Product Owner Jennifer Bertsch ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1723759381357219))_
-- **Pending**: Decide if the Request POA service lives in corpDB/Lighthouse or vets-api
+- **8/30/2024**: Engineering discovered that the "Review" page is the final step/chapter in the VA Forms Library process, presenting challenges for the "Download" page which was designed to be the final step/chapter _after_ "Review". The team decided to update the "Download" page design to remove the progress tracker and "Back" button. \
+  _Solution presented by UX Designer Michael Tri in ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1725047898860319))._
+- **PENDING**: Decide if the Request POA service lives in corpDB/Lighthouse or vets-api
