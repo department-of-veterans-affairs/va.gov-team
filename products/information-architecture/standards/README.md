@@ -21,8 +21,8 @@ Home page template | [New homepage github](https://github.com/department-of-vete
 IA governance | [Content placement criteria for unauth experience] | High/Large | Mikki | OCTO currently working on placement criteria that encompasses auth experience and additional areas of modernized experience | 
 Header | | Med/Med | Jenny | Componetize header, incorporate Federal header requirements | 
 Footer | | Med/Med | Jenny | Componetize footer, incorporate Federal footer requirements. [Draft](https://docs.google.com/document/d/1LuLX1dXL01FaCBXDqDmogDgsk50OkmyvPrLk-dl_RMM/edit). [CAIA ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88782) | Jenny working on first draft
-Sign-in Widget |  | | Kristin | [CAIA Ticket #78520](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78520) | 
-Benefit sub-hub template | | | Kristin | |
+Sign-in Widget |  | | Kristin | [CAIA Ticket #78520](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78520) | Mikki is going to look into what work we actually have to do given conten's current involvement. THe login team is planning to take over most of this documentation.
+Benefit sub-hub template | | | Kristin ||
 On this page | [On this page component in VADS] | Med/Low | Kristin | Needs guidance added for usage, utilize USWDS to start | 
 Primary navigation | Not documented in VADS | Low/Med | Jenny | Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating along with secondary nav for redesign | 
 Secondary navigation | [Side nav in VADS](https://design.va.gov/components/sidenav) | Low/Med | Jenny | Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating unauth secondary nav along with primary nav for redesign, Health crew building temporary secondary nav approach for MHV portal | 
