@@ -74,7 +74,7 @@ This track employs design exploration and usability testing to answer the follow
 - **Should we launch first with a generic version of the content, which is a lower lift but potentially less clear to Veterans, or begin with specific versions of the content for a few given contentions?**
 
 **Figure 1: Potential solutions**
-![Potential solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/Claim-evidence-veteran-approaches.png)
+![Diagram of potential solutions. Details in the paragraph below.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/claim-evidence-potential-solutions.png)
 
 This graphic shows various approaches to providing evidence-related education to Veterans. Content located in the information and resources section may be as simple as a new generic information page. However, a condition-specific version might allow Veterans to select their condition to see what is needed before starting an application. Content within the 526-EZ form could provide either generic or condition-specific information at moments that matter: while selecting a condition to claim, before uploading evidence, or while uploading evidence.
 
@@ -133,11 +133,12 @@ Veterans who under-submit evidence believe that VA knows best and will inform th
 > P3: "I don't think the VA expects you to have everything as soon as you apply."
 
 **Figure 2: Target Veteran demographics**
-![Target Veteran demographics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/Claim-evidence-veteran-approaches.png)]
+![Diagram of target Veteran demographics. Details in the paragraph below.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/abd-vro/2024-7-Claim-Evidence/img/Claim-evidence-veteran-approaches.png)
 
 This quadrant diagram illustrates the potential target audience categorized by their submission style for Veterans' claims. Veterans fall along a spectrum from under-submitters, who provide little to no evidence, to over-submitters, who provide too much information. Across these styles are those who depend on outside help from accredited representatives (such as VSOs or private attorneys), and those who seek minimal help from friends and family or work alone. 
 We assume that under-submitters are more likely to work alone or have minimal help, as accredited representatives should provide guidance to Veterans regarding what evidence to submit. This represents our primary target audience for this intervention, as they were the most likely group in our testing to indicate that the content would change how they approached submitting their claim.
-Two secondary audiences for this content intervention may include over-submitters who provide extensive information, but may not provide the right kinds, or Veterans of any submission-style who are working with outside help but receive inaccurate guidance. We heard from at least one Veteran who worked with someone at an RO who told them they did not need to submit any evidence with their claim. However, we suspect this audience is relatively small.
+Two secondary audiences for this content intervention may include over-submitters who provide extensive information, but may not provide the right kinds, or Veterans of any submission-style who are working with outside help but receive inaccurate guidance. We heard from at least one Veteran who worked with someone at an RO who told them they did not need to submit any evidence with their claim. However, we suspect this audience is relatively small. 
+It's worth noting that these categories are not static, and Veterans may change their approach based on new information. 
 
 ## Conclusion
 Our research found that providing better guidance on the types of evidence needed to prove a current condition could influence some Veterans to provide better evidence. Better evidence submissions would speed up claim processing and ensure that more claims are considered and potentially granted. The current guidance we provide to Veterans focuses on types of documents – VA medical records, Private Medical Records, etc – and doesn’t indicate what type of content those records need to show. This is a significant gap in how we support Veterans in the claims process. 
