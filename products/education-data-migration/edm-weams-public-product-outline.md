@@ -139,8 +139,8 @@ Both Comparison Tool and WP are both currently live in PRODUCTION and functional
 ### Key Decisions 
 
 - Update licenses and certs, exams, and programs to display correctly in WP (EDM-86) 
-- Decision Point: Determine if school info should display for WP (EDM-88) 
-- Decision Point: Determine if Advanced Pay needs to be displayed (EDM-92) 
+- Decision Point: Determine if school info should display for WP (EDM-88) Yes, school contact information should be migrated to Comparison Tool per Brian Grubb 9/3/2024
+- Decision Point: Determine if Advance Payment needs to be displayed (EDM-92) 
 
 --- 
 
