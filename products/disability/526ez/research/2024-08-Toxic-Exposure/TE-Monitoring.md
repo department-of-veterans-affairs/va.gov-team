@@ -44,8 +44,8 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 ### 526ez Success Metrics by % rollout
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|
-| Abandonment rates| 33.61% | 33.61% | 37.03% | | | | |  |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ)|
-| TE Opt-in rate* | | | 62.22% |  | | | | |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ)<br>[Datadog](https://vagov.ddog-gov.com/logs?query=env:%22eks-prod%22%20@http.referer:*21%5C-526ez%5C/toxic%5C-exposure*%20&agg_m=@payload.user_uuid&agg_m_source=base&agg_q=@http.referer&agg_q_source=base&agg_t=cardinality&analyticsOptions=%5B%22bars%22,%22dog_classic%22,null,null,%22value%22%5D&cols=host,service&fromUser=true&messageDisplay=inline&storage=hot&stream_sort=desc&top_n=10&top_o=top&viz=timeseries&x_missing=true&from_ts=1723791600000&to_ts=1723877940000&live=false)|
+| Abandonment rates| 33.61% | 33.61% | 0 | | | | |  |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ)|
+| TE Opt-in rate* | | | 39% |  | | | | |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ)<br>[Datadog](https://vagov.ddog-gov.com/logs?query=env:%22eks-prod%22%20@http.referer:*21%5C-526ez%5C/toxic%5C-exposure*%20&agg_m=@payload.user_uuid&agg_m_source=base&agg_q=@http.referer&agg_q_source=base&agg_t=cardinality&analyticsOptions=%5B%22bars%22,%22dog_classic%22,null,null,%22value%22%5D&cols=host,service&fromUser=true&messageDisplay=inline&storage=hot&stream_sort=desc&top_n=10&top_o=top&viz=timeseries&x_missing=true&from_ts=1723791600000&to_ts=1723877940000&live=false)|
 | Submission errors | 0.62% | ≤0.62% | 0.28% | | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
 |% of submissions that use normal path| 99.38% | 99.38%  | 99.72% | | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
 | % of uses of backup path | 0.94% | < 1.0% | 0.04% | | | | | | Weekly error tracker sheet |
@@ -55,29 +55,26 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 ### [Overall Form Abandonment]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
 'Form abandonment' defined in OCTO language: On each page in the form, what percentage of people drop-off and don't continue to the next page.
+Note: We are working to improve the 526 funnel.
 | Step # | 526 Page| Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|--|
-|Step 1|Introduction | 0.19% | 0.19% | 0.22%  | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 2| Veteran Information | 37.82% | 37.82% | 40.24% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 3| Disabilities | 14.49% | 14.49% | 17.7% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 4| Supporting Evidence | 12.08% | 12.08% | 15.12% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 5| Additional Information | 2.26% | 2.26% | 3.06% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 6| Review and Submit | 2.0% | 2.0% | 2.74% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 1|Introduction | 0.19% | 0.19% |  | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 2| Veteran Information | 37.82% | 37.82% |  | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 3| Disabilities | 14.49% | 14.49% |  | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 4| Supporting Evidence | 12.08% | 12.08% | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 5| Additional Information | 2.26% | 2.26% || | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
+|Step 6| Review and Submit | 2.0% | 2.0% | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
 |Step 7| Confirmation | - | - | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
 
 ### Toxic Exposure Abandonment 
 Add table here. Currently being workshopped by Christine and Jared so we can understand how far into the TE flow Veterans are getting and places they might exit. 
-| Step # | TE Page| 5% |Data Dog 5%| 10%| 25%| 50%|75% |100%| Data Source |
-|--|--|--|--|--|--|--|--|--|--|
+| Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
+|--|--|--|--|--|--|--|--|--|
 |Step 1| Toxic Exposure Conditions | 62.22% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 |Step 2| Gulf War 1990 | 47.06% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 3| 1990 Summary | 0% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 4| Gulf War 2001 | 88.89% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 5| 2001 Summary | 0% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 6| Herbicide | 100% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 7| Herbicide Summary | - | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 8| Additional Exposures | - | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
-|Step 9| Additional Exposures Summary | - | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 3| Gulf War 2001 | 88.89% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 4| Herbicide | 100% | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
+|Step 5| Additional Exposures | - | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ) |
 
 ## Summary of Medallia survey and Contact Center data 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
