@@ -73,27 +73,27 @@ Since we have restrictive criteria for this study and a limited pool of caregive
 ### Recruitment criteria
 Total participants: 20-30
 
-Cohort 1: 10-15 participants (minimum of 10, maximum of 15 if Perigean is able to recruit that many particiants meeting our criteria)
+Cohort 1: 15-20 participants (minimum of 10, maximum of 15 if Perigean is able to recruit that many particiants meeting our criteria)
 
-Cohort 2: Same numbers as Cohort 1
+Cohort 2: 5-10 participants
 
 **Primary criteria (must-haves)**
 
-**Cohort 1: Caregivers**
+**Cohort 1: Caregivers (15-20 participants)**
 - Must identify role as "caregiver"
 - We'd mainly like to recruit newer caregivers (enrolled in the past year or so) so we'd like Perigean to gather dates of caregiver enrollment and choose the newest caregivers they get responses from.
+- We'd like to hear from anyone who has selected "caregiver" as their role but want to talk to at least 10 participants who specify that they are enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC). The rest of the participants can be a mix of yes or no to that screener question.
 - We'd like to have some pairs of caregiver + Veteran in the study, but it's not a requirement to qualify for the study.
 
 Screener questions:
-1. "Are you enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?" (Answer should be yes to qualify for cohort 1.)
-2. If yes, ask the following two questions:
+1. "Are you enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?" (Recruit at least 10)
+2. If yes, ask the following question:
 	- "Approximately when did you enroll in the VA caregiver program?" (Date picker with month and year) **Please choose the most recently appointed caregivers according to responses from this question.**
-	 - Are you willing and able to join the session with the Veteran who you are a caregiver for? (yes/no response) **This isn't a requirement to qualify but a nice-to-have.**
+3. Are you willing and able to join the session with the Veteran who you are a caregiver for? (yes/no response) **This isn't a requirement to qualify but a nice-to-have.**
 
-**Cohort 2: Veterans with high disability ratings who need some assistance from others**
-- Must identify role as Veteran
-- Must have a disability rating of 70% or higher
-- Must require some assistance from others to complete daily activities
+**Cohort 2: Veterans with high disability ratings who need some assistance from others (5-10 participants)**
+- Must identify role as "Veteran"
+- Must have a disability rating of 70% or higher AND must require some assistance from others to complete daily activities
 - Recruit four assistive tech users - at least two AT sessions are needed for this study to be complete
 
 Screener questions:
