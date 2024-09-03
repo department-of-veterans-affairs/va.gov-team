@@ -62,7 +62,8 @@
     - 🟦🟩 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
     - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
 - **Upcoming VAOS Appointments**
-    - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
+    - **Sprint Goal is to determine if we have access to all appointment types & their data so that we can define the appt details pages**
+    - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
     - 🟥 [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
          - Waiting for Appts Team to make content updates 
 - **Stand-alone Travel Application for OH Sites**
@@ -136,7 +137,7 @@
         - ✔️ 🟪 Let Kristen know a few days in advance of the release so that she can inform the appropriate teams
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to finish all work and schedule Staging & ISR Reviews**
-    - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
+    - ⛔ 🚧 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
     - ✔️ 🟩 [Add Alert for "We can't show all your information right now" for Upcoming Appointments Page & Details Page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90926)
     - ✔️ 🟥 [[Design] Finalize appt detail pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89874)
     - ✔️ 🟥 [Update & Finalize Wireframes based on Midpoint Review Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89598)
