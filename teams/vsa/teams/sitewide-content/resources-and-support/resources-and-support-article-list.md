@@ -130,3 +130,4 @@
 | 128 | [Qué traer para crear su cuenta de inicio de sesión en línea](https://www.va.gov/resources/que-traer-para-crear-su-cuenta-de-inicio-de-sesion-en-linea/) | Health care | 8/28/24 | Waiting on QA
 | 129 | [Verificación de su identidad en VA.gov](https://www.va.gov/resources/verificacion-de-su-identidad-en-vagov/) | VA account and profile | 8/29/24 | Waiting on QA
 | 130 | [Iniciar sesión en VA.gov](https://www.va.gov/resources/iniciar-sesion-en-vagov/)| VA account and profile | 8/29/24 | Waiting on QA
+| 131 | [Creación de una cuenta para VA.gov](Creación de una cuenta para VA.gov)[https://www.va.gov/resources/creating-an-account-for-vagov-esp] | VA account and profile | 9/3/24
