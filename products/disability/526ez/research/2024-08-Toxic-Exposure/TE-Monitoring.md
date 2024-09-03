@@ -2,9 +2,7 @@
 # Monitoring Toxic Exposure Release
 
 **Office of the CTO - Digital Experience (OCTO-DE), 526EZ, DBEX 1**
-
 **Dates:** August-September 2024
-
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
 ## Background
