@@ -35,7 +35,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |1.1 5%|||
 |25%|||
 |50%|
-|75%|Request on 10/4
+|75%|||Request on 10/4
 |100%|| ||
 
 ## Summary of GA4/Data Dog
