@@ -31,12 +31,12 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |25% | Sept 9 - Sept 11 | Sept 11|
 |50%|Sept 12- 15| Sept 15 |Request on 9/13|
 |75%|Sept 16- 17|Sept 17|
-|100%|Sept 18 | Sept 18| Request on 9/18|
+|100%|Sept 18 | Sept 18| Request on 9/20|
 |1.1 5%|||
-|25%|||Request on 9/30
+|25%|||
 |50%|
 |75%|
-|100%|| |Request on 10/8|
+|100%|| |Request on 10/4|
 
 ## Summary of GA4/Data Dog
 ### 526ez Success Metrics by % rollout
