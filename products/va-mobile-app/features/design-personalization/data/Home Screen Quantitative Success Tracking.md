@@ -28,6 +28,14 @@ While lagging indicators, like retention rate are strong indicators of value for
 |Prescription refill rate|15.49%|28.21%|||
 |Appointment Page View Rate|36.18%|39.11%||
 
+| Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
+| -------- | -------- | ---------- | -----------------| -----------------| 
+|Load Time Appointment|3.79 Sec|4.21 Sec|||
+|Load Time Claims |2.99 Sec|2.95 Sec|||
+|Load Time Prescription|3.08 Sec|3.21 Sec|||
+|Load Time Secure Message|2.03 Sec|2.31 Sec|||
+
+
 
 * Date Range: 03/01/24 - 07/31/24
 
