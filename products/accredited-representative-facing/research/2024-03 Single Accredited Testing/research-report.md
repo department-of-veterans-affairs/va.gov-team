@@ -825,7 +825,7 @@ When discussing the messaging sent about declining a POA request, VSORs expresse
 - [Recruitment plan](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/User%20Testing_%20Recruitment%20Plan.pdf?csf=1&web=1&e=OPpAti) (Sharepoint)
 
 ### Tools used for synthesis
-- [EnjoyHQ](https://app.enjoyhq.com/sh/pj/b021641a-7708-49ea-9d29-bf4f312d8783)
+- [EnjoyHQ](https://app.enjoyhq.com/projects/LknDOXWOX/plan)
 - [User testing notes and debrief](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711575270185/83b03fe96dcafe9f42b206e0dc3efbfd2457c1f2?wid=0-1712943681350&sender=u503219bf4e47eab9c75d3838) (Mural)
 - [Task success and usability metrics](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/Task%20Success%20Measures.xlsx?d=wbe086d2f13364316aed7491c828055de&csf=1&web=1&e=GD3dDg) (Sharepoint)
 - [Key takeaways from test sessions](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/Key%20takeaways.docx?d=w1161f34583fd47de8da84a5539af4a2b&csf=1&web=1&e=qTr3w7) (Sharepoint)
