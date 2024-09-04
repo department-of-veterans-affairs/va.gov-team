@@ -1,5 +1,5 @@
 # Conversation Guide 
-OCTO off-site, September 18, 2024
+OCTO Benefits Portfolio offsite, September 18, 2024
 
 ## Introductions (1 min)
 [Here’s a suggestion, you can adapt this to make it comfortable for you, just keep it short]
