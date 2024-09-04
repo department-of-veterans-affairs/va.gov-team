@@ -80,7 +80,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 5 days (*minimum 2 hours*)
+- Length of time: 2 days (*minimum 2 hours*)
 - Percentage of Users (and roughly how many users do you expect this to be):  10% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
 
 #### Results
