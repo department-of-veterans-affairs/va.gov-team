@@ -128,16 +128,17 @@ Are you comfortable with that?
 ### Interstitial content 
 - [For this section, we want to understand how much information vs fluff is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?]
    - Do you know if you have a Login.gov or ID.me account?  [If both, which one would you use?]  Have you ever used Login.gov or ID.me to log into the VA online?
-      - [If yes, show them the interstitial with the personalized content]
+      - [If yes, show them the interstitial with the personalized content and SKIP inherited proofing questions]
          - Can you walk me through what you’re seeing here on this page?
          - What would you do next? 
          - [If they ignore the alert and decide to log in with MHV] Why did you choose to move ahead with MHV?
-      - [If no, show them the interstitial for the unverified MHV user]
+      - [If no, show them the interstitial for the unverified MHV user and INCLUDE inherited proofing questions]
          - Can you walk me through what you’re seeing here on this page?
+         - What does the phrase "identity-verified" mean to you?
          - What would you do next? 
          - [If they ignore the alert and decide to log in with MHV] Why did you choose to move ahead with MHV?
 
-### Inherited Proofing 
+### Inherited Proofing (only for Veterans without a Login.gov or ID.me account)
 [If they don't know or haven't used a Login.gov or ID.me account]
    - [Discuss possible content] We have some words or phrases that we would like to get you take on.
       - “We have started creating a Login.gov account for you using the information from MHV.  You can continue completing your account here.”
