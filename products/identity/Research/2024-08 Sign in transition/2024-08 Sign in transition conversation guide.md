@@ -161,11 +161,12 @@ Are you comfortable with that?
    - Options “Available through X date” vs “We’ll remove X option after X date”
  
 ### Additional Help
-   - If you had follow-up questions about these changes, what would you do?
-   - [Focus on links for more information]
+   - [don't point out the links yet] If you had follow-up questions about these changes, what would you do?
+   - [without clicking the link] If you clicked this link, what would you expect to see on the page that comes up?
+   - [Focus on links for more information and follow up questions]
       - “You’ll need to sign into Va.gov…”
       - “Learn more about how to create a verified account…”
-      - Learn more about this change…”
+      - "Learn more about this change…”
 
 
 
