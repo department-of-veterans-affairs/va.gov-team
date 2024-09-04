@@ -1,4 +1,4 @@
-# VBA Update with Josha Jacobs
+# Updates about VBA
 
 [Joshua Jacobs](https://department.va.gov/staff-biographies/joshua-jacobs/) serves as the Under Secretary for Benefits. He has served there since [2023](https://news.va.gov/press-room/va-welcomes-joshua-jacobs-as-under-secretary-for-benefits/). Notes from his update:
 * VBA - focus on claims quality, doing a day dedicated to it
