@@ -1,6 +1,6 @@
 # **Submission Experience**
 
-## **Ideation Workshop{.mark}**
+## **Ideation Workshop**
 
 Conducted Aug 26, 2024
 
