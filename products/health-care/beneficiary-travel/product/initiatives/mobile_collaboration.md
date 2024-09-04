@@ -85,7 +85,7 @@ Consult and final approval: Has final approval to ensure that the experience is 
   <tr>
    <td><strong>Mobile Back End</strong>
    </td>
-   <td>Consult and final approval
+   <td>Consult and final approval - (Kristen: We originally discussed that there was a part of the backend that a mobile team engineer would do, but we can discuss if Liz could take on that work)
    </td>
    <td>Own
    </td>
@@ -134,7 +134,7 @@ What is their process on this? If Liz owns, could she pair program here?
    </td>
    <td>Own
    </td>
-   <td>Consult
+   <td>Consult (Kristen: VA.gov POs must approve)
    </td>
    <td>Based on our reading of the doc, VAHB will always own approvals
 <ul>
@@ -157,7 +157,7 @@ What is their process on this? If Liz owns, could she pair program here?
    </td>
   </tr>
   <tr>
-   <td><strong><span style="text-decoration:underline;">Updating designs and content on mobile app</span></strong>
+   <td><strong><span style="text-decoration:underline;">Updating designs and content on mobile app (Kristen: Design and content can shift to the experience team as well. It will be a discuss on future releases regarding capacity at the time from both the mobile and experience teams. Experience teams will need to learn the mobile patterns in the future and design there as well.)</span></strong>
    </td>
    <td>Own
    </td>
