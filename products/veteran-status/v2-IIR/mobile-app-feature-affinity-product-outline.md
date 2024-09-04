@@ -13,7 +13,7 @@ The Iterate, Innovate, and Run (IIR) team is driving the Veteran Status experien
 
 - Mobile app users don’t understand why they don’t have access or can’t access their Proof of Status (no error/ineligibility messaging).
 
-- The Veteran ID Card (VIC) cannot be decommissioned until both the web and mobile app Proof of Status meet legislative requirements (DoD ID number needs to be added).
+- VA Stakeholders (Melissa Rebstock) will not have a strong case to ask for legislative changes to card requirements if Vet Status does not contain an ID number that is not a SSN (adding the DoD ID).
 
 
 ### Desired User Outcomes
