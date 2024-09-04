@@ -480,6 +480,7 @@ Additional research questions surfaced in this study:
 ## Appendix
 - [Research plan](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Intercept%20Testing_%20Research%20Plan.pdf?csf=1&web=1&e=7iF0Bb) (Sharepoint)
 - [Conversation guide](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/052024_NACVSO%20Conversation%20Guide.pdf?csf=1&web=1&e=zphvgx) (Sharepoint)
+- [EnjoyHQ project](https://app.enjoyhq.com/projects/q7W5B6Wp4/plan)
 
 ### Tools used for synthesis
 - [Raw data from intercepts](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Raw%20data/NACVSO%20Intercept%20Data%20Entry%20(Responses).xlsx?d=wbb4fd1ce16b14ba0806312f2170d2587&csf=1&web=1&e=WZpGCh) (Sharepoint)
