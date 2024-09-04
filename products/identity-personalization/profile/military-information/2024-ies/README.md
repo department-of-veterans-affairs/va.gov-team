@@ -6,7 +6,7 @@ The VA.gov Profile IES Initiative is aimed at integrating a feature within the V
 ## Problem Statement
 Veterans need a way to access and download their Individual Exposure Summary (IES) within their VA.gov profile. The challenge lies in determining the optimal location for this feature, particularly as the IES has different types of data including military history and medical history as well as exposure data.
 
-**How might we seamlessly create the IES download feature into the VA.gov profile, particularly within the Military Info section, ensuring it meets veterans' needs and expectations while enhancing their overall experience?**
+**How might we seamlessly integrate the IES download feature into the VA.gov profile, particularly within the Military Info section, ensuring it meets veterans' needs and expectations while enhancing their overall experience?**
 
 ## Desired User Outcomes
 - Veterans can easily locate and download their IES from a section in their VA.gov profile.
