@@ -229,7 +229,6 @@ Please list the people who will be serving in each role. Include the primary pho
     
 - Note-takers: Our team
     
-- Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side)  
-
-- Julie Strothman [julie.strothman@va.gov](mailto:julie.strothman@va.gov)
-- Amy Lai [amy.lai2@va.gov](mailto:amy.lai2@va.gov)
+- Observers: List email addresses for those who should attend and observe the sessions: 
+  - Julie Strothman [julie.strothman@va.gov](mailto:julie.strothman@va.gov)
+  - Amy Lai [amy.lai2@va.gov](mailto:amy.lai2@va.gov)
