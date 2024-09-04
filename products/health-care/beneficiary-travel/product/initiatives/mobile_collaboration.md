@@ -159,9 +159,9 @@ What is their process on this? If Liz owns, could she pair program here?
   <tr>
    <td><strong><span style="text-decoration:underline;">Updating designs and content on mobile app (Kristen: Design and content can shift to the experience team as well. It will be a discuss on future releases regarding capacity at the time from both the mobile and experience teams. Experience teams will need to learn the mobile patterns in the future and design there as well.)</span></strong>
    </td>
-   <td>Own
+   <td>Co-Own (case-by-case basis)
    </td>
-   <td>Consult and final approval
+   <td>Co-Own (case-by-case basis)
    </td>
    <td>We believe that mobile app is best positioned to update the designs given awareness of overall patterns, etc. At the same time, the experience team will be involved in the content and design updates and provide input as needed.
    </td>
