@@ -14,7 +14,7 @@
 ### Day of session
 10-15 min before session:
 - Post in #feedback-backchannel @ team members joining
-   - “[P#] | Core Identity, Credential Deprecation starts in 15 minutes
+   - “[P#] | Identity, 2024-08 Sign in transition, starts in 15 minutes
    - In thread, post:
 > How to observe or take notes for this session:
 > - Wait in the Zoom waiting room until the participant agrees you may join
