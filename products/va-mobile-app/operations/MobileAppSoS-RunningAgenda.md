@@ -21,7 +21,8 @@
 ## 9/4/24
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
-  * 
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
 
 ## 8/21/24
 * **Epics Review**
