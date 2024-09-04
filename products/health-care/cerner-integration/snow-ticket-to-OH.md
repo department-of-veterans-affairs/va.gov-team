@@ -1,5 +1,23 @@
 # Log a SNOW ticket to Oracle Health
-To log a SNOW ticket directly to Oracle Health's support team:
+
+## Log a SNOW ticket directly to Oracle Health's support team:
+- Access VA's [yourIT Service Portal](https://yourit.va.gov/va)
+- Select "Report an Issue". 
+- If there are any existing issues and your issue is not listed, select "Report a New Issue" at the bottom of the page
+- Select EHRM for "What type of issue are you experiencing?"
+- Select No to "Are you requesting a change or modification to the Oracle Health EHR?"
+- Select "Oracle Health" to "What type of EHRM issue are you experiencing?"
+- For Issue Details fields:
+  -   Include contact information
+  -   Affected VA Location: Select specific location. If impacting all locations, select any one and include "Impacting all VA locations" in the detailed description field.
+  -   Affected Oracle System or Application: Select EHRM Powerchart
+  -   EHRM Type: Select Electronic Health Record Modernization
+  -   Detailed Description: For FHIR team, include "FHIR error received by VEText service account - please engage FHIR team." Also include additiona information about: Impacted Locations, Impacted Appointment Types, Error information, and appropriate Request IDs for FHIR calls.
+  -   Check the "The device I am looking for is not on the list"
+  -   Please enter the Name, EE Number and/or hostname of the affected system: Type "N/A"
+  -   Click Submit button (on the right)
+
+## Log a SNOW ticket directly to Oracle Health's support team (with screenshots):
 - Access VA's [yourIT Service Portal](https://yourit.va.gov/va)
 - Select "Report an Issue". 
   
