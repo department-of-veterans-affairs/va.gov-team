@@ -60,10 +60,13 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 #### Results
 
 - Number of users: 2
-- Number of bugs identified / fixed: 0
+- Number of bugs identified / fixed: 2
+  - STS Bug: Our service account wasn't configured correctly to include the ICN; team resolved this.
+  - Incorrect config: The team was using out-of-date credentials; upstream service provided us with the updated credentials.
 - Was any downstream service affected by the change?: No
 - Types of errors logged: N/A
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
+- Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
