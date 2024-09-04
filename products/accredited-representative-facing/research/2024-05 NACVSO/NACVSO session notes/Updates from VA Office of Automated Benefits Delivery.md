@@ -1,5 +1,5 @@
 
-# Update from VA Office of Automated Benefits Delivery   
+# Updates from VA Office of Automated Benefits Delivery   
 
 Presented by:
 * [Paul Shute](https://department.va.gov/staff-biographies/paul-shute/), Asst. Deputy Undersecretary   
