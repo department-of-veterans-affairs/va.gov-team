@@ -149,7 +149,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Yes
     - No
 
-#### Screen readers
+#### Screen reader users
 
 1. Do you need to use a screen reader to access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
     - Yes
@@ -179,7 +179,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 6. Please list the name of the screen reader you will use during the session.
     - Open text box
 
-#### Alternative navigation
+#### Alternative navigation users
 
 1. Do you need to use alternative navigation tools to access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
     - Yes
@@ -195,31 +195,41 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Pointer device on mobile (mouse, joystick)
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. How frequently do you use an alternative navigation tool? Your best guess is okay.
+3. How long have you been using an alternative navigation tool? Your best guess is okay.
+    - 0 - 1 years
+    - 2 - 4 years
+    - 5+ years
+    - Never used
+4. How frequently do you use an alternative navigation tool? Your best guess is okay.
     - Daily
     - Once a week
     - Once a month
     - Never
-4. Can you join the Zoom session from your mobile or desktop device using your alternative navigation tool?
+5. Can you join the Zoom session from your mobile or desktop device using your alternative navigation tool?
     - Yes
     - No
     - This question doesn't apply to me
-5. Please list the name of the alternative navigation tool you will use during the session.
+6. Please list the name of the alternative navigation tool you will use during the session.
     - Open text box
 
-#### Screen magnification
+#### Screen magnification users
 
 1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
     - Yes
     - No
 2. If you answered yes, which screen magnification tool do you use?
    - Open text box
-3. If you answered yes, how frequently do you use screen magnification on VA.gov?
+3. How long have you been using a screen magnification tool? Your best guess is okay.
+    - 0 - 1 years
+    - 2 - 4 years
+    - 5+ years
+    - Never used
+4. How frequently do you use screen magnification on VA.gov?
    - Always
    - Sometimes
    - Rarely
    - Never
-4. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
+5. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
    - Yes
    - No
    - This question doesn't apply to me
