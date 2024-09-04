@@ -1,4 +1,4 @@
-# EHRM Updates – Oracle
+# Updates on EHRM
 
 VA’s electronic health records are undergoing a massive update. The contract was awarded to Oracle Health. It hasn’t gone entirely smoothly. 
 
