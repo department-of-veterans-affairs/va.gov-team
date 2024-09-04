@@ -52,9 +52,20 @@ All of the following must be true:
 
 ### accepted_to_primary_path
 
-- has has been sent to the primary path (has a `submitted_claim_id`)
+- has been sent to the primary path (has a `submitted_claim_id`)
+- has been sent either to LH (with successful PDF upload) or EVSS
+- now looks at both accepted_to_evss_primary_path and pdf_found scopes
 
-NOTE: we may soon also be checking for a status, as primary path migrates to a new endpoint with a polling requirement
+### accepted_to_evss_primary_path
+
+- has been sent to the primary path (has a `submitted_claim_id`)
+- the submit endpoint is either null or it's not LH ('claims_api')
+
+### pdf_found
+
+- has been sent to the primary path (has a `submitted_claim_id`)
+- was submitted to LH's 'claim_api'
+- the PDF was uploaded successfully (via synchronous polling of the LH Benefits Claims API)
 
 ### accepted_to_backup_path
 All of the following must be true:
