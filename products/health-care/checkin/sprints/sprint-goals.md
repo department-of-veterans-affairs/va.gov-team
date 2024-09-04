@@ -48,6 +48,9 @@
         - 🟨[[DevOps] Remediate High vista-api-dev Findings by Updating DB Engine to 4.12](https://github.com/department-of-veterans-affairs/checkin-devops/issues/547)
         - 🟨[[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/checkin-devops/issues/325)
         - 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
+        - ✔️ 🟨 [[DevOps] Nate Douglas needs access to Confluence, I guess.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/571)
+        - ✔️ 🟨 [[DevOps] Discovery on switching code to use the FIPS-compliant KMS endpoints.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/538)
+
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
     - 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
