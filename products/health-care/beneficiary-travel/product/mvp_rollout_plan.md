@@ -63,10 +63,12 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 - Number of bugs identified / fixed: 2
   - STS Bug: Our service account wasn't configured correctly to include the ICN; team resolved this.
   - Incorrect config: The team was using out-of-date credentials; upstream service provided us with the updated credentials.
+  - Overwrite issue: our request headers were getting overridden - the root cause was the need to support two API keys, but our team was able to resolve this as well.
 - Was any downstream service affected by the change?: No
 - Types of errors logged: N/A
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
 - Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
+
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
