@@ -7,8 +7,10 @@
    - Set up note-taking in Mural
    - Practice assistive tech sessions
    - Check that the prototype is working
-      - [desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=911-416662&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=911%3A416662&show-proto-sidebar=1)
-      - [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=1)
+      - [desktop prototype, with modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=613-299922&node-type=CANVAS&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=613%3A299922&show-proto-sidebar=0)
+      - [desktop prototype, no modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-491307&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307&show-proto-sidebar=0)
+      - [mobile prototype, with modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=0)
+      - [mobile prototype, no modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-499654&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654&show-proto-sidebar=0)
 ### Day of session
 10-15 min before session:
 - Post in #feedback-backchannel @ team members joining
@@ -29,8 +31,10 @@
    - Sound notification when someone joins or leaves: OFF
    - Who can share > All Participants
 - Open standalone browser tab to prototype and save link in slack so ready to paste
-   - [desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=911-416662&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=911%3A416662&show-proto-sidebar=1)
-   - [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=1)
+   - [desktop prototype, with modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=613-299922&node-type=CANVAS&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=613%3A299922&show-proto-sidebar=0)
+   - [desktop prototype, no modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-491307&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307&show-proto-sidebar=0)
+   - [mobile prototype, with modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=0)
+   - [mobile prototype, no modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-499654&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654&show-proto-sidebar=0)
 - Do Not Disturb ON so no notifications (Apple)
    - and/or Mute your Slack notifications.
    - Make sure everyone is muted except moderator (me) and the participant
@@ -93,8 +97,10 @@ Are you comfortable with that?
 ## Task - Prototype | 15-20 minutes
 - Ok so now I’d like to take a look at the prototype design. Just a quick reminder that this is a website design that we are thinking about using. It may look like the real VA.gov but it won’t be, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 - I’m going to send you a link in the Zoom chat.
-   - [desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=911-416662&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=911%3A416662&show-proto-sidebar=1)
-   - [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=Hj7LY3X8LFV8dBgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=1)
+   - [desktop prototype, with modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=613-299922&node-type=CANVAS&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=613%3A299922&show-proto-sidebar=0)
+   - [desktop prototype, no modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-491307&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307&show-proto-sidebar=0)
+   - [mobile prototype, with modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=0)
+   - [mobile prototype, no modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-499654&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654&show-proto-sidebar=0)
 - Let me know if you have any issues opening up that link
 - Once you get that up, I’ll also ask that you share your screen
 [Screen share help if needed [to link]]
@@ -133,7 +139,9 @@ Are you comfortable with that?
 
 ### Inherited Proofing 
 [If they don't know or haven't used a Login.gov or ID.me account]
-   - [Show content] “We have started creating a Login.gov account for you using the information from MHV.  You can continue completing your account here.”    -   - What would you do next?
+   - [Discuss possible content] We have some words or phrases that we would like to get you take on.
+      - “We have started creating a Login.gov account for you using the information from MHV.  You can continue completing your account here.”
+      - How would you feel about this?
    - [Va.gov] If a Login.gov or ID.me account was created for you using information you previously provided to [MHV or DS Logon], what would you expect to be able to do on VA.gov?
       - If you also had to take additional steps to be able to complete specific tasks like changing your direct deposit, how would that make you feel?
    - [VA ecosystem] If a Login.gov or ID.me account was created for you using information you previously provided to [MHV or DS Logon], what would you expect to be able to do on the mobile app?
