@@ -65,10 +65,10 @@ No
 |   35  |08-19-2024       |08-25-2024        | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |Done        |
 |   36  |08-26-2024       |09-01-2024        | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
 |   37  |09-02-2024       |09-08-2024        | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
-|   38  |09-09-2024       |09-15-2024        | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
-|   39  |09-16-2024       |09-22-2024        | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
-|   40  |09-23-2024       |09-29-2024        | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
-|   41  |09-30-2024       |      | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
+|   38  |09-09-2024       |09-15-2024        | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
+|   39  |09-16-2024       |09-22-2024        | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
+|   40  |09-23-2024       |09-29-2024        | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
+|   41  |09-30-2024       |      | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
 
 
 
