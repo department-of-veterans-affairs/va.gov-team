@@ -124,7 +124,7 @@ This would be for text and email. A user could opt in to the permission to allow
 
 #### Go-to-market 
 
-We will be coordinating with VA Profile, VA Notify, and MHV teams to ensure this rolls out at the necessary moment. 
+We will be coordinating with VA Profile, VA Notify, Mobile, and MHV teams to ensure this rolls out at the necessary moment. 
 
 ## Important artifacts 
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58797)
