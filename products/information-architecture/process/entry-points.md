@@ -27,7 +27,7 @@ Secondary entry points are any additional locations that the page should be navi
 
 There can be multiple additional entry points.
 
-Ex: mega menu, left nav, find-a-form
+Ex: mega menu, left nav, find-a-form, benefit hub pages
 
 
 ### Crosslinks
