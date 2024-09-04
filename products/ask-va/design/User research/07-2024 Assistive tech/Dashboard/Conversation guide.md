@@ -231,18 +231,18 @@ Next, I'd like you to find a question that's related to housing assistance.
 
 ### Task 4
 
-Okay, this is the last task on this page. I'd like you to find the question that you submitted on September 3rd.
+Okay, this is the last task on this page. I'd like you to find the question that you submitted on August 24th.
 
 `When they've finished...`
 
-- Which question did you submit on September 3rd?
+- Which question did you submit on August 24th?
 - What is the question about?
-- How did you find the question that you submitted on September 3rd?
+- How did you find the question that you submitted on August 24th?
 - If you weren't sure how to find it, what would you do?
 
 ### Task 5
 
-Now, we're going to read the reply from the VA. I'd like you to show me how you would navigate to read what the VA replied to your question that you submitted on September 3rd.
+Now, we're going to read the reply from the VA. I'd like you to show me how you would navigate to read what the VA replied to your question that you submitted on August 24th.
 
 > Navigates to question details page.
 
