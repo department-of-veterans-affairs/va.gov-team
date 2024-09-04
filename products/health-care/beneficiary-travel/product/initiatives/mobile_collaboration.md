@@ -132,9 +132,9 @@ What is their process on this? If Liz owns, could she pair program here?
   <tr>
    <td><strong>Approvals</strong>
    </td>
-   <td>Own
+   <td>Co-own (Mobile POs must approve)
    </td>
-   <td>Consult (Kristen: VA.gov POs must approve)
+   <td>Co-own (Kristen: VA.gov POs must approve)
    </td>
    <td>Based on our reading of the doc, VAHB will always own approvals
 <ul>
