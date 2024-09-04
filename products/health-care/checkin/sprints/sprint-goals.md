@@ -25,7 +25,7 @@
     - 🟩 TBD  
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is to ......**
-    - 🟩 TBD    
+    - 🟩 TBD  
 - **Check in with staff after checking in**
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
 - **CIE Analytics**
@@ -34,6 +34,9 @@
 - **Tech Debt**
     - 🟩 [Use the Design System Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9179)
         - Check on DS component update
+- **Community Care Direct Scheduling**
+    - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
+
 </details>
 
 ## SPRINT 15 - 9/4/2024-9/17/2024
