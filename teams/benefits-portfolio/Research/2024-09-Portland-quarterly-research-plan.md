@@ -93,7 +93,7 @@ We will recruit Veterans using Perigean's services.
 
 -   Session 1: 4 Veterans + 1 alternate
 
--   Session 2: 3 Veterans + 1 alternate
+-   Session 2: 4 Veterans + 1 alternate
 
 Primary criteria (must-haves)
 
@@ -156,7 +156,7 @@ We would like a kick-off meeting with Perigean. Possible times are:
 
 -   Session 1: 10:30-Noon PT (research begins at 10:45am) - 4 participants + alternate
 
--   Session 2: 1:30-3:00pm PT (research begins at 1:45pm) - 3 participants + alternate
+-   Session 2: 1:30-3:00pm PT (research begins at 1:45pm) - 4 participants + alternate
 
 Team Roles
 ----------
