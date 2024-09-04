@@ -10,33 +10,22 @@
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
-    - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
-    - 🟦🟩 Conduct some KT and ticket creation party (Lee)
+    - **Sprint Goals is to ...................**
+    - 🟦🟩 TBD
+    - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
 - **Upcoming VAOS Appointments**   
     - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)    
     - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
-    - 🟥[[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
-    - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84422)
-    - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84425)
-    - 🟪 Schedule Staging Review
-- **Stand-alone Travel Application for OH Sites**
-    - **Sprint Goal is to address all launch blockers from the Staging Review**
-    - 🟩 TBD  
-- **Travel Claim Submission from Past Appts - Web**
-    - **Sprint Goal is to ......**
-    - 🟩 TBD  
 - **Check in with staff after checking in**
     - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
 - **Tech Debt**
+    - 🟥 [[CAIA intake] Edit existing content on a resources and support page from Check in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80574)
     - 🟩 [Use the Design System Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9179)
         - Check on DS component update
-- **Community Care Direct Scheduling**
-    - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
-
 </details>
 
 ## SPRINT 15 - 9/4/2024-9/17/2024
