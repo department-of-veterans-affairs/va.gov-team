@@ -16,16 +16,16 @@ Note: Be aware that there are also "copycat" injected headers such as https://ww
 ## Product Ownership
 | | VA.gov header & footer | Injected header/footer | 
 | --- | --- | --- |
-| Content | Sitewide Content | N/A
-| Design  | Sitewide Product team | N/A |
-| Build & compiled presentation | Design System, including Analytics and Components | Design System | 
-| Delivery | Design System | Sitewide Product team (proxy-rewrite app) | 
+| Content | Sitewide Content Team | Sitewide Content Team |
+| Design  | Design System Team | Design System Team |
+| Build & compiled presentation (including analytics) | Design System Team | Design System Team | 
+| Delivery | Design System Team | Sitewide Product Team (via proxy-rewrite app) | 
 
 **Sitewide Content**
 - OCTO Lead: Danielle Thierry
 - OCTO Slack channel: #sitewide-content-accessibility-ia
 
-**Sitewide Product team**
+**Sitewide Product Team**
  - OCTO Sitewide Lead: Michelle Middaugh
  - VA Design lead: Amanda Klausmeier
  - OCTO Slack channel: #sitewide-public-websites
