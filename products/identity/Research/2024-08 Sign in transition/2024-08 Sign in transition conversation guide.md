@@ -123,13 +123,21 @@ Are you comfortable with that?
   - What would you do next?  Can you tell me what you’re seeing? [Are they seeing the new content?  How does it resonate with them?]
 - [Reiterate] We’re not testing your ability or comprehension but we want to better understand how this content comes across for veterans like yourself.
 - [OPTIONAL For this part, let the veteran lead you and ask follow-up questions including:]
-  - Can you tell me what the text under the “Other sign-in options" means to you?
+  - Can you tell me what the text under the “Other sign-in options" means to you? [Check for comprehension of "Available through" verbiage.]
   - What would you do next? (Would they continue to sign in with MHV or would they choose another option)?
   - [If they continue with MHV credential] Can you tell me more about why you would do that?
   - [If they choose either Login.gov or ID.me] Why did you choose that option?
   - [If they interested in one of the “learn about" links] Where would you expect this link to take you? What prompted you to click on that?
   - [Any other options] Can you walk me through your rationale for doing _____?
-
+ 
+  ### Additional Help
+   - [don't point out the links yet] If you had follow-up questions about these changes, what would you do?
+   - [without clicking the link] If you clicked this link, what would you expect to see on the page that comes up?
+   - [Focus on links for more information and follow up questions]
+      - “You’ll need to sign into Va.gov…”
+      - “Learn more about how to create a verified account…”
+      - "Learn more about this change…”
+ 
 ### Interstitial content 
 - [For this section, we want to understand how much information vs fluff is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?]
    - Do you know if you have a Login.gov or ID.me account?  [If both, which one would you use?]  Have you ever used Login.gov or ID.me to log into the VA online?
@@ -142,7 +150,7 @@ Are you comfortable with that?
          - What does the phrase "identity-verified" mean to you?
          - What would you do next? 
          - [If they ignore the alert and decide to log in with MHV] Why did you choose to move ahead with MHV?
-
+       
 ### Inherited Proofing (only for Veterans without a Login.gov or ID.me account)
 [If they don't know or haven't used a Login.gov or ID.me account]
    - [Discuss possible content] We have some words or phrases that we would like to get you take on.
@@ -157,24 +165,7 @@ Are you comfortable with that?
    - [Other government websites] Do you use any other government websites?
       - If a Login.gov or ID.me account was created for you using your previous information you provided to [MHV or DS Logon] and you saw that that was an option to sign into [that website] would you expect to be able to use that account to sign in there? What would you expect to be able to do?
          - Would you expect any limitations?  [We want to understand what they expect to be able to do with the other government website.]
-
-### Content Based Questions
-- I’m going to share with you some content, and I’d like to walk through how you interpret what it means.
-   - Identity-verified vs verified account
-   - Benefits 
-   - VA.gov account vs login.gov/ID.me “account”
-   - Options “Available through X date” vs “We’ll remove X option after X date”
  
-### Additional Help
-   - [don't point out the links yet] If you had follow-up questions about these changes, what would you do?
-   - [without clicking the link] If you clicked this link, what would you expect to see on the page that comes up?
-   - [Focus on links for more information and follow up questions]
-      - “You’ll need to sign into Va.gov…”
-      - “Learn more about how to create a verified account…”
-      - "Learn more about this change…”
-
-
-
 ## Round 3 - Closing Q’s and Thank you | 3 minutes
 - That is all the questions that I wanted to cover today, so I’m going to look at my messages to see if notetakers and observers had any questions they wanted to ask or follow up on.
 - Do you have any questions or further comments about what we discussed today?
