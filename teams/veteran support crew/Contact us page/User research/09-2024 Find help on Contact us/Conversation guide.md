@@ -226,7 +226,7 @@ What do you think “Contact us online...” means?
 -	Is there a phone number on this page you would call for this scenario?
    - Login scenario: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
    - Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
-o	If `NO` What would you do now?
+-  If `NO` What would you do now?
 
 <details>
   <summary>Key things to notice</summary>
