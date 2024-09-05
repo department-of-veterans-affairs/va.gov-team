@@ -56,7 +56,7 @@
    - [PAUSE FOR PARTICIPANT to introduce themself]
 - Nice to meet you!
 - We do have a couple other team members in the waiting room who would like to observe and help take notes. But before we invite them, I'd like to tell you more about what we're doing today.
-- The subject of our research today is the sign in process on VA.gov and in particular the Terms of Use agreement. We are not testing your ability.
+- The subject of our research today is the sign in process on VA.gov. We are not testing your ability.
 - Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
 - In this session, we want to hear your honest opinions. The goal is to improve this process to better meet veterans needs. We will not be offended by any opinions you express, and we welcome your candid feedback.
 - A bit later on, I’ll ask you to interact with a prototype. Just to prepare you for that, it will look real, but it won't be, and we won’t be accessing your account or real information. We use prototypes to help us test things before we decide what to make real.
