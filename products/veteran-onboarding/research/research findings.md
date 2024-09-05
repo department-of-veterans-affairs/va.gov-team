@@ -43,6 +43,8 @@ We conducted hour-long remote moderated research sessions via Zoom August 5 - Au
 4. Adding contact information - Prototype flow to assess Veteran williness to provide contact information and complete profile, after being prompted.
 5. Confirmation and next task - Prototype confirmation page and a return to the task list to determine participant willingness to continue with subsequent tasks.
 
+Images from the prototype can also be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-onboarding/research/images).
+
 
 ## Hypotheses and Conclusions
 
@@ -163,14 +165,7 @@ We are planning on a study focused on AT users so that we ensure this pattern is
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/conversation%20guide.md)
 
-[Interview notes](link here)
-
-## Images
-1. Welcome message on My VA
-2. Task list on My VA
-3. Adding contact information
-4. Confirmation and next task
-
+[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-onboarding/research/interview%20notes)
 
 ## Tools used for Synthesis
 
