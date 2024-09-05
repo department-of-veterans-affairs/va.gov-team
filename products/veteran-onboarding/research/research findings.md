@@ -68,7 +68,11 @@ Labels: Veteran Onboarding, VETJNY: Getting out Military
 
 As the TSM team noted in their [research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md), the separation experience can be very different, based upon branch, reason for separation, time of separation, command support, and installation, to name a few factors. Our research reiterated that we can't take for granted that Veterans will approach My VA and their benefits with the same baseline knowledge of VA, so there are ways we can improve the initial introduction. Participants were usually aware of common benefits, like education and healthcare, but lacked knowledge of additional benefits, and also admitted to not fully understanding the information they received when they separated and were unsure what questions to ask.   
 
-> “At the time it felt rushed and it felt checkboxy [...] I didn't really feel, at the time, especially at that age, that I was really comprehending the information that I was getting, to be honest [...] But it seems like a lot of terms were thrown out that I would understand in today's world that I wouldn't have understood at that point in time, not really having the work experience outside the military." (P4)
+> “At the time it felt rushed and it felt checkboxy [...] I didn't really feel, at the time, especially at that age, that I was really comprehending the information that I was getting, to be honest [...] But it seems like a lot of terms were thrown out that I would understand in today's world that I wouldn't have understood at that point in time, not really having the work experience outside the military." (P4)   
+
+> "We did the whole transition readiness course, weeklong...with someone associated with the VA that talked about different benefits and avenues to get help and exploring those benefits. When I transitioned from the reserves, there was nothing...I was with the unit one day and the next zero communication after that." (P3)   
+>
+> "I was not told anything. Okay, and everything was blamed on me. And then my husband. And so for me it was a very hard, very hard time to transition and to find out information, and, like I said, my information came from when my daughter came back from Afghanistan. And she's telling me, Mom, these are your benefits, and I'm sitting there like nobody ever told me I had any benefits. The only benefits I ever had were from my husband. It was like you know, they didn't tell me anything." (P7)   
 
 **Finding 2: Upon login, the focus should remain on a single task - verification**
 
@@ -76,7 +80,11 @@ Labels: PRDT: My VA
 
 Going into this study we hypothesized that benefits would be of utmost importance to participants. While there are other teams focusing on benefits recommendations, we wanted to note that our study does overwhelmingly support the need for personalization and tools that better connect Veterans to the benefits they are qualified for and to which they are entitled. The welcome message was acknowledged, but every participant (10 out of 10) immediately wanted to explore benefits and generally ignored the verification prompt as well as our message. 
 
-> "How do I feel welcome if I still gotta do..if I'm still not through the door? Oh, you got through one door. Now let me present to you another door that you have to walk through." (P4)
+> "How do I feel welcome if I still gotta do..if I'm still not through the door? Oh, you got through one door. Now let me present to you another door that you have to walk through." (P4)   
+
+> "Like I said, I'm reiterating myself again. But benefits should be something that should be there at the beginning. "These are your benefits." Okay? Because this benefits application draft - like I said, that is totally to me, seems useless. Okay, it just needs to be your benefits." (P7)
+
+> "You one level - if you're relatively new to this, it would send you an introductory welcome email outlining all the benefits from VA...it should be able to say, 'here's the things you qualify for'...the next step would be to remind the individual, 'hey, you have the opportunity to participate in VA healthcare.' Because I got out and it's like, why would I go to healthcare? That's for old people." (P2)   
 
 
 **Finding 3: The task list was well-received by participants, but it doesn't stand out enough from the page enough in its current form**
@@ -89,7 +97,9 @@ Once they were verified, however, the task list on My VA was well-received. 3 ou
 
 > "I might make the little checklist stand out a little bit more like when you first click the page, you know, color coded something. Make it bigger. Just make it stand out. It looks monotonous. It looks just like everything else on the page." (P6)
 
-**Finding 4: TParticipants were willing to provide their information, if they understood the value to them**
+> "You know, maybe start to browse a little bit, but my first instinct would be to update my information." (P8)   
+
+**Finding 4: Participants were willing to provide their information, if they understood the value to them**
 
 Labels: PRDT: VA.gov Profile, DSC: Ask users for addresses
 
@@ -99,6 +109,10 @@ One of our research goals was to understand how participants responded to being 
 
 > "And then the email address was part of the login creation. So why is it missing?" (P4)
 
+> "No, but I would like to say that on the review contact information. I like that because I click on it after adding my information. Just to make sure I spelt my email correctly." (P9)
+
+> "If I didn't put that information I probably wouldn't be able to get contacted. I wouldn't get all the information I needed at the time. They wouldn't be able to contact me if they needed to." (P11)   
+
 **Finding 5: Participants immediately noticed the task change to “completed” and stated they would go complete the second task, indicating a strong association with list-based prompts done in order**
 
 Labels: PRDT: My VA
@@ -106,6 +120,8 @@ Labels: PRDT: My VA
 Once we returned to the task list, participants noted the change to "completed" for their first task and 10 out of 10 indicated they would go on to notifications. However, we were asking them questions about their expectations on how VA would contact them, so there was a focus in the research on communication preferences and two tasks are very closely related.  
 
 > “I do like to add your content information, review notification settings. Because our minds work is - same thing, where we get taskings, like we'll get this big old list out, and we have to make sure that these all get completed. So if you're doing something like, you know contact information, and now the review notification settings, I would say...yeah, doing doing how this is showing, you know, it's completed, not started...Because again, our days are like, 'Here's your taskings. You need to complete these.' So completed, not completed. That's just how our minds work." (P11)
+>
+> 
 
 ## Additional Insights
 
@@ -115,13 +131,13 @@ Two partipants expressed that they believed that updating their profile would tr
 ## Recommendations   
 
 1. **Instead of pre-verification tasks or resources, provide only simple messaging.** Rather than providing links along with a welcome message, we recommend static messaging that provides orientation to My VA or a brief, one-time modal that welcomes a user and appears only the first time a person creates an account. We might also consider additional personalized resources within My VA or Profile that allow Veterans to easily find a rep and an assigned location once they are verified. In an ideal future state, we'll be able to onboard with more personalization and benefit recommendations once proposed tools are built and launched. We plan on connecting with more teams to understand how the onboarding/welcome process can support personalized benefit recommendations through collecting initial information as quickly and efficiently as possible.   
-    * _Supporting evidence_
+ 
 2. **The task list is a promising component and needs additional work prior to launch.** In this instance, we plan on updating the content to be more in-line with user expectations. We will also provide a minor amount of additional and specific content to help users understand the context of the tasks we're asking them to complete. The task list needs a new visual treatment to be more noticeable and requires further work to respond appropriately to user expectations (i.e. 7 out of 10 users expected the task list to disappear once all tasks were completed, so we need to ensure we have a success message or paramters on when it vanishes, such as the next time they log in.)
-  * _Supporting evidence_
+
 3. **Participants responded well to the request for information, but we need to be clear about the outcome of every user action.** Participants responded well to UI indicators such as the number of steps and the navigation within the flow, but they were uncertain if information is required and if or when it would be saved. Because we've also discovered issues with how information is saved to Profile, we've updated the flow to a pattern that the Appeals Team is using on VA Form 10182. Utilizing this pattern should shorten the process for users, as well as allow them to see and review the contact information that we do have on file for them. With the existing pattern, we can pre-populate the information we do have on file for them and display it on a page together, then provide the user with the ability to review and edit exisiting information, or add missing information. In order to emphasize the importance of the contact information, we can add brief content to each page that explains what the information is used for (i.e. "Add your mailing address. We'll use this address to send letters, prescriptions, etc"). In the updated pattern, we are clearly requiring the information and in order to remove any prompts or alerts, all three fields must be filled in. If all fields are already pre-populated with accurate information, a user may 'confirm' instead of editing in order to clear the prompt.    
-    * _Supporting evidence_
+   
 4. **Remove confirmation page and provide the information on that page earlier in the process.** The updated flow and pattern should allow us to negate the need for a final page, which participants did not find particularly useful as it didn't allow them to see what they had entered. While they appreciated the content on the page, most participants indicated they'd have preferred it up front to really help emphasize why VA is requesting the contact information. Rather than a confirmation page, the new pattern we're exploring has "hub" page ([see Array Data for details](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-create-the-contact-info-ar)) that users can return to in order to see what they have entered.
-  * _Supporting evidence_
+
 
 
 ## Next Steps
