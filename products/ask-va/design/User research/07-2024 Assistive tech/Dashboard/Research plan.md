@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: September 3, 2024
+Last updated by @tygindraux: September 5, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -239,24 +239,26 @@ We'd like to recruit people who use a mix of different screen magnification soft
 |Date|Milestone|
 |:--|:--|
 |September 3, 2024|Research Review|
-|September 6, 2024 (TBD)|Pilot sessions with CAIA|
+|September 10 - 11, 2024|Pilot sessions with CAIA|
 |September 17 - 24, 2024|Research sessions|
 |September 26 - October 3, 2024|Synthesis|
 |October 4, 2024|Share findings|
 
 ### Pilot sessions
 
-We will have 2 pilot sessions and/or asynchronous reviews with CAIA.
+We will have 2 pilot sessions and/or asynchronous reviews with CAIA. Tyler will set up pilot sessions herself (Perigean does not need to schedule.)
 
-Here is our [CAIA research support ticket](add link).
+Here is our [CAIA research support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92003).
 
-**Pilot 1: Mobile with screen reader**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 6, 2024
+**Pilot 1: TTS (Mac Voice Control) on desktop**
+- Pilot participant: Jamie
+- [CAIA a11y Research - PILOT: Ask VA - Desktop Pilot - Dashboard #92028](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92028)
+- Date and time of pilot session: September 10th at 11am-12pm EST
 
-**Pilot 2: Desktop with alternative navigation**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 6, 2024
+**Pilot 2: Screen reader on mobile**
+- Pilot participant: SK
+- [CAIA a11y Research - PILOT: Ask VA - Mobile Pilot - Dashboard #92024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92024)
+- Date and time of pilot session: September 11th at 2-3pm EST
 
 ## Research sessions
 
