@@ -75,7 +75,7 @@ There are a few other things I want to mention before we start:
 - **This session should take about an hour.** I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
 - **We’re here to learn your honest opinions.** Negative feedback is helpful too, because it helps us learn how we can improve.
 - **I also want to make it clear that we’re not testing your ability.** So, for example, if I ask if you understand something, it’s because I want to make sure writing is clear.
-- **I’m going to share a prototype with you today.** This is like a test version of the website, so it may not work exactly how you expect. For example, you’ll be able to click some buttons, but not all of them.
+- **I’m going to share a live page on VA.gov with you today.** You'll be able to interact with it as you would any other page on VA.gov.
 - **If for any reason and at any time you want to stop the session, you just have to let me know.** And that might be a pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
 - Last thing is about recordings. We can record the session to help us confirm we captured your opinions accurately. Sometimes, we also share video clips with our colleagues at VA. If we do this, we remove your face and your name from the videos. We don’t link anything you share in the session to any information that could identify you.  **Knowing this, are you comfortable if I record my screen and audio as we talk today?**
   - `IF NO` Don't record
