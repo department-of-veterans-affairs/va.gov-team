@@ -196,7 +196,7 @@ I’ll send the scenario in the Zoom chat now just like last time.
 #### Contact us online through Ask VA
 > If they say they would contact VA through Ask VA
 
-What do you think “Contact us online...” means?
+- What do you think “Contact us online...” means?
 
 <details>
   <summary>Key things to notice</summary>
