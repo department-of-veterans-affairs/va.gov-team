@@ -5,7 +5,7 @@
 - [Intro - 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#intro---5-minutes)
 - [Before showing ‘Contact us’ page - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#before-showing-contact-us-page---10-minutes)
 - [Scenarios – 30 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#scenarios--30-minutes)
-- [Review each scenario - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#review-each-scenario---10-minutes)
+- [Review login scenario - 10 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#review-each-scenario---10-minutes)
 - [Cool down – 5 minutes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#cool-down---5-minutes)
 - [Pause or exit strategies](#pause-or-exit-strategies)
 - [Approved by:](#approved-by)
@@ -171,6 +171,7 @@ I’ll send the scenario in the Zoom chat now just like last time.
 -	[Ask our chatbot a question](#ask-our-chatbot-a-question)
 -	[Call us](#call-us)
 -	[Contact your local VA facility](#contact-your-local-va-facility)
+-	[Explore our FAQs and other resources to get answers to your questions](#explore-our-FAQs-and-other-resources-to-get-answers-to-your-questions)
 
 #### Any channel
 > Ask these questions for any channel they say they would use
@@ -296,35 +297,54 @@ I’ll send the scenario in the Zoom chat now just like last time.
 
  > Go back to the [scenarios section](#scenarios-30-minutes)
 
-## Review each scenario - 10 minutes
+## Review login scenario - 10 minutes
 Okay, we’re finished with each scenario now. So you can stop sharing your screen now.
 
 > Stop sharing screen
 
-Thank you for reviewing those scenarios with me. Your input has been really helpful. Before we end, I wanted to show you how to find answers for each scenario on VA.gov.
+Thank you for reviewing those scenarios with me. Your input has been really helpful. Before we end, I'd like to review the different ways the Contact us page could have helped in one of the scenarios.
 
 I hope this walk-through shows you how to use VA.gov for help in the future, especially while we’re working on improving the Contact us page. You’ve shown me how finding these answers can be really complicated for Veterans right now. 
 
-### Reviewing login scenario 
 > Share screen showing Contact us page
 
-I’ll show you how to find answers from the ‘Resources and support’ page on VA.gov. For our first scenario we wanted to **find out how to create an account on VA.gov with only a passport as an ID**.
--	Select ‘Explore our resources and support content’
--	Search ‘verify identity’
--	Select ‘Verifying your identity on VA.gov
--	Scroll down to ‘Here’s what you’ll need for ID.me:’
-  
-### Reviewing claims scenario
-> Continue sharing screen
+We're going to review the login scenario, which was: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
 
-For our second scenario, we wanted to **find out if we could increase disability compensation for worsening shoulder pain**.
--	Select ‘Explore our resources and support content’
--	Search ‘increase disability’
--	Change to ‘All VA.gov’
--	Search again
--	Select ‘File for increased disability compensation’
-  
-Do you have any questions with what I just showed?
+> Review each section
+
+#### Contact us online through Ask VA
+You can send a message to VA through Ask VA and get a response within 7 business days. 
+
+> Walk through first page of Ask VA form.
+
+#### Ask our chatbot a question
+Unfortunately, the chatbot doesn't answer this question right now. But it would provide more contact information.
+
+> Walk through chatting with chatbot.
+
+#### Call us
+I called the MyVA411 number with this login scenario, and the agent was able to answer this general question. I'll walk you through my experience.
+>- The agent will ask you for your name, callback number, an optional email
+>- Then they placed me 2 minute hold to look up information
+>- There are different options they would suggest if a Veteran called in with this question:
+>    - They would provide a number to call Login.gov customer support
+>    - They would advise you to try ID.me because you could verify your identity without a passport
+>    - They would advise you to reach out to your medical center for help with verifying your identity
+
+#### Contact your local VA facility
+I found my local VA medical center and called them with this login scenario. The patient enrollment agent ended up directing me to the MyHealtheVet help desk. Your experience might vary dependning on your local facility. I'll walk you through my experience.
+>- The operator asked me what I was calling about, then transferred me to the patient enrollment line.
+>- The patient enrollment agent couldn't answer my question, but they directed me to the MyHealtheVet help desk.
+
+#### Explore our FAQs and other resources to get answers to your questions
+Lastly, if you wanted to try to find answered on VA.gov, you could search in our 'Resources and support' section. Here's what I would do.
+
+>-	Select ‘Explore our resources and support content’
+>-	Search ‘verify identity’
+>-	Select ‘Verifying your identity on VA.gov
+>-	Scroll down to ‘Here’s what you’ll need for ID.me:’
+
+Do you have any questions or reactions to what I just reviewed?
 
 ## Cool down - 5 minutes
 Okay, I’ll stop sharing my screen now.
