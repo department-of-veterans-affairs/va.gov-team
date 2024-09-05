@@ -168,6 +168,11 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 Note: Final order of identifiers is pending validation from comparative study.
 ![8 27 24 mockup of triage group names with HCS](https://github.com/user-attachments/assets/2fbc30d3-58a6-4db2-924c-6b6adf6e965e)
 
+### Updated 9/5/25 as "Nice to have" (not "must have" for pilot launch)
+Typeahead combobox - pending a11y discussions and decisions decisions on how combobox functionality should work
+![image](https://github.com/user-attachments/assets/905c3775-1361-4272-9453-913283dd2e96)
+
+
 ---
 
 ## For context: screenshots on Admin Portal
