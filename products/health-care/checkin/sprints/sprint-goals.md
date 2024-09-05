@@ -26,6 +26,7 @@
     - 🟥 [[CAIA intake] Edit existing content on a resources and support page from Check in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80574)
     - 🟩 [Use the Design System Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9179)
         - Check on DS component update
+    - 🟩 [Handle Autocomplete Issue with VA DS Text Input component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92167)
 </details>
 
 ## SPRINT 15 - 9/4/2024-9/17/2024
