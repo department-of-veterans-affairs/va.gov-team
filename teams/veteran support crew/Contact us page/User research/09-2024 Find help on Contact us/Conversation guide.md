@@ -209,8 +209,8 @@ I’ll send the scenario in the Zoom chat now just like last time.
 
 -	What do you think an example of a “common question”? is? 
 -	Do you think this current scenario would be a “common question”?
-   - Login scenario: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
-   - Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
+    - Login scenario: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
+    - Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
 -	How do you think the chatbot can help you in this particular scenario?
 
 <details>
@@ -225,9 +225,9 @@ I’ll send the scenario in the Zoom chat now just like last time.
 > If they say they would call
 
 -	Is there a phone number on this page you would call for this scenario?
-   - Login scenario: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
-   - Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
--  If `NO` What would you do now?
+    - Login scenario: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
+    - Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
+    -  If `NO` What would you do now?
 
 <details>
   <summary>Key things to notice</summary>
@@ -242,9 +242,9 @@ I’ll send the scenario in the Zoom chat now just like last time.
 > If they say they select `Get the full list of helpful VA phone numbers`
 
 -	Is there a phone number on this page you would call for this scenario?
-   - Login scenario: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
-   - Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
-   - If `NO` What would you do now?
+    - Login scenario: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
+    - Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
+    - If `NO` What would you do now?
 
 <details>
   <summary>Key things to notice</summary>
