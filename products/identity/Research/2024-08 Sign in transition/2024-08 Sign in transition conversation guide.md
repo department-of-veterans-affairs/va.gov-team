@@ -127,7 +127,7 @@ Are you comfortable with that?
   - What would you do next? (Would they continue to sign in with MHV or would they choose another option)?
   - [If they continue with MHV credential] Can you tell me more about why you would do that?
   - [If they choose either Login.gov or ID.me] Why did you choose that option?
-  - [If they click “learn about creating a Login.gov or ID.me account] What prompted you to click on that?
+  - [If they interested in one of the “learn about" links] Where would you expect this link to take you? What prompted you to click on that?
   - [Any other options] Can you walk me through your rationale for doing _____?
 
 ### Interstitial content 
