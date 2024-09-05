@@ -90,6 +90,7 @@ Are you comfortable with that?
 - When you are on your [phone/computer/tablet] how do you typically bring up VA online? [the mobile app, VA.gov, MHV website, something else]
 - When was the last time you accessed VA online?  What were you trying to do?
 - It looks like you answered that you use the My HealtheVet sign in option, do we have that right?
+   - Have you ever sign into VA.gov using another option? 
 
 
 ## Task - Prototype | 15-20 minutes
@@ -102,15 +103,16 @@ Are you comfortable with that?
 | [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=0)  | [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-499654&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654&show-proto-sidebar=0)  |
 - Let me know if you have any issues opening up that link
 - Once you get that up, I’ll also ask that you share your screen
-[Screen share help if needed [to link]]
+- [Screen share help if needed (mobile)](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
+
 
 ### Sign-in Modal 
 - Let’s turn our focus to signing into VA. Let’s say you want to go to check [reference what they mentioned the last time they accessed VA online] 
-  - Does this page look like where you would normally go?
-  - [IF normally uses MHV.gov have them imagine they need to sign into VA.gov for another reason]
+   - Does this page look like where you would normally go?
+   - [IF normally uses MHV.gov have them imagine they need to sign into VA.gov for another reason]
 - Would you normally sign in first thing before getting started?
-  - If not, can you describe to me what you would normally do?
-  [Continue signing in - credential selection page]
+   - If not, can you describe to me what you would normally do?
+   - [Continue signing in - credential selection page]
 - Can you walk me through what you’re seeing here on this page?
 - Which option do you usually choose to sign in?
    - [CSP Specific Questions]
@@ -120,18 +122,18 @@ Are you comfortable with that?
    - [ID.me] Have you heard of ID.me before? Do you know what it is?  Have you used it before?
       - [If no] What do you use it for?
       - [If yes] what was your experience with it?
-  - [If Login.gov or ID.me or DS Logon ] Let’s pretend today that you want to sign in with My HealtheVet. [Continue to next question]
-  - What would you do next?  Can you tell me what you’re seeing? [Are they seeing the new content?  How does it resonate with them?]
+   - [If Login.gov or ID.me or DS Logon ] Let’s pretend today that you want to sign in with My HealtheVet. [Continue to next question]
+   - What would you do next?  Can you tell me what you’re seeing? [Are they seeing the new content?  How does it resonate with them?]
 - [Reiterate] We’re not testing your ability or comprehension but we want to better understand how this content comes across for veterans like yourself.
 - [OPTIONAL For this part, let the veteran lead you and ask follow-up questions including:]
-  - Can you tell me what the text under the “Other sign-in options" means to you? [Check for comprehension of "Available through" verbiage.]
-  - What would you do next? (Would they continue to sign in with MHV or would they choose another option)?
-  - [If they continue with MHV credential] Can you tell me more about why you would do that?
-  - [If they choose either Login.gov or ID.me] Why did you choose that option?
-  - [If they interested in one of the “learn about" links] Where would you expect this link to take you? What prompted you to click on that?
-  - [Any other options] Can you walk me through your rationale for doing _____?
- 
-  ### Additional Help
+   - Can you tell me what the text under the “Other sign-in options" means to you? [Check for comprehension of "Available through" verbiage.]
+   - What would you do next? (Would they continue to sign in with MHV or would they choose another option)?
+   - [If they continue with MHV credential] Can you tell me more about why you would do that?
+   - [If they choose either Login.gov or ID.me] Why did you choose that option?
+   - [If they interested in one of the “learn about" links] Where would you expect this link to take you? What prompted you to click on that?
+   - [Any other options] Can you walk me through your rationale for doing _____?
+
+#### Additional Help verbiage
    - [don't point out the links yet] If you had follow-up questions about these changes, what would you do?
    - [without clicking the link] If you clicked this link, what would you expect to see on the page that comes up?
    - [Focus on links for more information and follow up questions]
