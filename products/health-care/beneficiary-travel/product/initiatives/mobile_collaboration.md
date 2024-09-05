@@ -79,7 +79,7 @@ Consult and final approval: Has final approval to ensure that the experience is 
    </td>
    <td>Own
    </td>
-   <td>Whoever designs or experience team should own this; QA team should consult on whether these seem correct; identify test accounts
+   <td>Whoever designs or experience team should own this; QA team should consult on whether these seem correct; *identify test accounts*
    </td>
   </tr>
   <tr>
