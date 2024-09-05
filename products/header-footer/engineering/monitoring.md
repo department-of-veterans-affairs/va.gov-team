@@ -1,5 +1,5 @@
 # Header / Footer Monitoring
-Oct 2023
+Sept 2024
 
 ## Datadog: [Synthetics] Injected Header and Footer Test on https://benefits.va.gov/benefits/
 https://vagov.ddog-gov.com/monitors/161580
