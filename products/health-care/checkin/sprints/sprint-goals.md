@@ -46,7 +46,7 @@
 
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
-    - 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
+    - ✔️ 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
     - 🟦🟩 Conduct some KT and ticket creation party (Lee)
     - ❗ **Check (with Stephen) if we're unblocked to push up new PRs (due to ongoing discussion about EPS information in vets-website repo)**
     - ⛔ WAITING ON SCOPE DECISIONS:
