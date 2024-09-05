@@ -19,7 +19,7 @@ Note: Be aware that there are also "copycat" injected headers such as https://ww
 | Content | Sitewide Content Team | Sitewide Content Team |
 | Design  | Design System Team | Design System Team |
 | Build & compiled presentation (including analytics) | Design System Team | Design System Team | 
-| Delivery | Design System Team | Sitewide Product Team (via proxy-rewrite app) | 
+| Delivery | Design System Team - incl. anything visual, errors due to style or markup changes / introduction of components | Sitewide Product Team (via proxy-rewrite app) - incl. CORS errors, problems with injection, Drupal data structure errors in injection, or addition of new sites for injection | 
 
 **Sitewide Content**
 - OCTO Lead: Danielle Thierry
@@ -33,6 +33,12 @@ Note: Be aware that there are also "copycat" injected headers such as https://ww
 **VA Design System Team**
  - OCTO Design System Team lead: Matt Dingee
  - OCTO Slack channel: #platform-design-system
+
+### Other products within the header owned by other teams
+The Header and Footer contain elements that are managed separately as standalone products and have their own product development cycles. Those include: 
+* On-site search: Sitewide Product Team
+* Veterans Crisis Line modal: Design System Team
+* Authenticated menu and Login modal: Identity Team
 
 ## Problem Statement
 
