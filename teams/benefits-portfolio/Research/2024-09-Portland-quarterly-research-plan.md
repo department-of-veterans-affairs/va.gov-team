@@ -89,7 +89,7 @@ We will recruit Veterans using Perigean's services.
 
 ### Recruitment criteria
 
--   Recruit 9 Veterans for this study:
+-   Recruit 10 Veterans for this study:
 
 -   Session 1: 4 Veterans + 1 alternate
 
