@@ -38,8 +38,8 @@ Our goals for this research were focused on:
 
 We conducted hour-long remote moderated research sessions via Zoom August 5 - August 9, 2024. We used a [Figma prototype](https://www.figma.com/proto/CertVj7cu66kFv9TnseR30/Welcome-to-My-VA?page-id=300%3A11104&node-id=300-11287&viewport=282%2C610%2C0.05&t=AdaosOCQ6SDCjCyl-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=300%3A11287&show-proto-sidebar=1) to assess engagement with onboarding tasks and willingness to provide personal information. The study was broken down into 5 sections:   
 1. Background and separation - Verbal discussion around service branch and separation to gauge participants' knowledge of VA while they were leaving active duty.
-2. Welcome Message on My VA - Prototype engagement to determine a Veteran's first actions upon landing on My VA post-account creation.
-3. Task List on My VA - Prototype engagement with a new component (after a simulated verification flow) to determine how participants responded to requests for information and onboarding "tasks."
+2. Welcome message on My VA - Prototype engagement to determine a Veteran's first actions upon landing on My VA post-account creation. Note: We started with the existing alert component, although we know they don't stack. It was what was available in the DSC at the time. We wanted test the reception to the message itself, then work on the UI.
+3. Task list on My VA - Prototype engagement with a new component (after a simulated verification flow) to determine how participants responded to requests for information and onboarding "tasks."
 4. Adding contact information - Prototype flow to assess Veteran williness to provide contact information and complete profile, after being prompted.
 5. Confirmation and next task - Prototype confirmation page and a return to the task list to determine participant willingness to continue with subsequent tasks.
 
@@ -119,13 +119,18 @@ Labels: PRDT: My VA
 
 Once we returned to the task list, participants noted the change to "completed" for their first task and 10 out of 10 indicated they would go on to notifications. However, we were asking them questions about their expectations on how VA would contact them, so there was a focus in the research on communication preferences and two tasks are very closely related.  
 
-> “I do like to add your content information, review notification settings. Because our minds work is - same thing, where we get taskings, like we'll get this big old list out, and we have to make sure that these all get completed. So if you're doing something like, you know contact information, and now the review notification settings, I would say...yeah, doing doing how this is showing, you know, it's completed, not started...Because again, our days are like, 'Here's your taskings. You need to complete these.' So completed, not completed. That's just how our minds work." (P11)
->
-> 
+> “I do like to add your contact information, review notification settings. Because our minds work is - same thing, where we get taskings, like we'll get this big old list out, and we have to make sure that these all get completed. So if you're doing something like, you know contact information, and now the review notification settings, I would say...yeah, doing doing how this is showing, you know, it's completed, not started...Because again, our days are like, 'Here's your taskings. You need to complete these.' So completed, not completed. That's just how our minds work." (P11)
+
+> "Yes. So when I added the contact information it went from not started to complete...Exactly what we were discussing right before - the review notification settings. Be notified by email, text, phone. So I would go straight there and update the settings there." (P8)
+
+> Well, I'm curious. I think I'd review my notification settings." (P9)
+
+> "I mean, probably just because my mental is taken to me to something that's not started. I probably would do the renew notification or review notifications." (P10)
 
 ## Additional Insights
 
 Two partipants expressed that they believed that updating their profile would translate to all related VA accounts, such as health information.
+Zero out of ten participants wanted to verify their identity as a first action on the page. All of them immediately started looking for benefits. We hypothesize that people do not verify until they have seen the alert several times and it is actively blocking them from accomplishing a task.
 
 
 ## Recommendations   
@@ -159,6 +164,12 @@ We are planning on a study focused on AT users so that we ensure this pattern is
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/conversation%20guide.md)
 
 [Interview notes](link here)
+
+## Images
+1. Welcome message on My VA
+2. Task list on My VA
+3. Adding contact information
+4. Confirmation and next task
 
 
 ## Tools used for Synthesis
