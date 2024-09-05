@@ -54,7 +54,8 @@ To improve how we work, OCTO asked DBEX to come up with a proposal for how we mi
 1. Schedule a monthly DBEX Strategic Planning meeting with the following agenda:
 
 
-## Attendance: OCTO Product Owner, Design Lead and Technical Lead. DBEX Delivery Manager, Product Manager, Design Lead, and Technical Lead.
+## Attendance:
+OCTO Product Owner, Design Lead and Technical Lead. DBEX Delivery Manager, Product Manager, Design Lead, and Technical Lead.
 
 ## Agenda
 * Housekeeping (announcements that pertain to the teams)
