@@ -1,6 +1,6 @@
 # Engineering tasks & dependencies
 
-This document will be updated to reflect the current state of dependencies each sprint.
+This document will be updated to reflect the current state of engineering dependencies each sprint. "Dependency" in this doc means "when can work start?"
 
 Note: Position does not indicate priority or schedule. Outgoing arrows denote a tasks having a dependency on another. If a task has no outgoing arrows, it is independent.
 
@@ -8,7 +8,7 @@ Note: Position does not indicate priority or schedule. Outgoing arrows denote a 
 ## Sprint starting 09/09/2024
 ```mermaid
 ---
-title: Engineering Task Dependencies
+title: Engineering Task Priorities (When can work start?)
 ---
 flowchart BT
   %%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
@@ -31,7 +31,7 @@ flowchart BT
   submitentry[Past appts submit link]
   smocmobilefe[SMOC Mobile FE]
   smocmobilesvc[SMOC Mobile Services]
-  smocmoblectrl[SMOC Mobile Controllers]
+  smocmobilectrl[SMOC Mobile Controllers]
 
   clean --> v
   getclaim --> v
@@ -50,6 +50,7 @@ flowchart BT
   statusentry --> getclaim
   statusentry --> deetsint
   submitentry --> smocint
+  smocmobilesvc --> apptsclaims
   smocmobilesvc --> subclaim
   smocmobilectrl --> smocmobilesvc
 ```
