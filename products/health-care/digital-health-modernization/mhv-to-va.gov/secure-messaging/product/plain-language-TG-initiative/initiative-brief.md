@@ -165,7 +165,7 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 
 
 ### After on VA.gov
-Note: Final order of identifiers is pending validation from comparative study.
+Note: Final order of identifiers is pending validation from comparative study. In the mock up below, the Maryland and DC healthcare systems are using the new method. Providence is still operating as status quo. This is shown for illustration that for the pilot, it is an accepted state that some (most all) systems will be status quo while the 3 pilot sites will not. Users may see a mix like this when registered across systems.
 ![8 27 24 mockup of triage group names with HCS](https://github.com/user-attachments/assets/2fbc30d3-58a6-4db2-924c-6b6adf6e965e)
 
 ### Updated 9/5/25 as "Nice to have" (not "must have" for pilot launch)
