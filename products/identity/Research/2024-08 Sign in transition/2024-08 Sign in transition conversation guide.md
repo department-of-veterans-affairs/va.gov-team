@@ -89,13 +89,7 @@ Are you comfortable with that?
    - If it varies, what was the reason you visited most recently? [remember this for later on]
 - When you are on your [phone/computer/tablet] how do you typically bring up VA online? [the mobile app, VA.gov, MHV website, something else]
 - When was the last time you accessed VA online?  What were you trying to do?
-- [CSP Specific Questions]
-   - [Login.gov] Have you heard of Login.gov before? Do you know what it is?  Have you used it before?
-      - [If no] What do you use it for?
-      - [If yes] what was your experience with it?
-   - [ID.me] Have you heard of ID.me before? Do you know what it is?  Have you used it before?
-      - [If no] What do you use it for?
-      - [If yes] what was your experience with it?
+- It looks like you answered that you use the My HealtheVet sign in option, do we have that right?
 
 
 ## Task - Prototype | 15-20 minutes
@@ -119,6 +113,13 @@ Are you comfortable with that?
   [Continue signing in - credential selection page]
 - Can you walk me through what you’re seeing here on this page?
 - Which option do you usually choose to sign in?
+   - [CSP Specific Questions]
+      - [Login.gov] Have you heard of Login.gov before? Do you know what it is?  Have you used it before?
+         - [If no] What do you use it for?
+         - [If yes] what was your experience with it?
+   - [ID.me] Have you heard of ID.me before? Do you know what it is?  Have you used it before?
+      - [If no] What do you use it for?
+      - [If yes] what was your experience with it?
   - [If Login.gov or ID.me or DS Logon ] Let’s pretend today that you want to sign in with My HealtheVet. [Continue to next question]
   - What would you do next?  Can you tell me what you’re seeing? [Are they seeing the new content?  How does it resonate with them?]
 - [Reiterate] We’re not testing your ability or comprehension but we want to better understand how this content comes across for veterans like yourself.
