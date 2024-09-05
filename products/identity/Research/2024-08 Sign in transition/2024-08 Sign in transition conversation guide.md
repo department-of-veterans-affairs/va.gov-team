@@ -97,10 +97,11 @@ Are you comfortable with that?
 ## Task - Prototype | 15-20 minutes
 - Ok so now I’d like to take a look at the prototype design. Just a quick reminder that this is a website design that we are thinking about using. It may look like the real VA.gov but it won’t be, so everything might not work like you are used to. Your thoughts and ideas about this will help us know how we can make it better.
 - I’m going to send you a link in the Zoom chat.
-   - [desktop prototype, with modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=613-299922&node-type=CANVAS&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=613%3A299922&show-proto-sidebar=0)
-   - [desktop prototype, no modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-491307&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307&show-proto-sidebar=0)
-   - [mobile prototype, with modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=0)
-   - [mobile prototype, no modern account](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-499654&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654&show-proto-sidebar=0)
+
+| Has a Login.gov or ID.me account  | Does NOT have a Login.gov or ID.me account |
+| ------------- | ------------- |
+| [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=613-299922&node-type=CANVAS&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=613%3A299922&show-proto-sidebar=0)  | [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-491307&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307&show-proto-sidebar=0) |
+| [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=0)  | [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-499654&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654&show-proto-sidebar=0)  |
 - Let me know if you have any issues opening up that link
 - Once you get that up, I’ll also ask that you share your screen
 [Screen share help if needed [to link]]
