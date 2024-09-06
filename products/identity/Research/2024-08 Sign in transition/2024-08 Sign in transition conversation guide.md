@@ -60,7 +60,7 @@
 - Today we're going to talk about how you sign in to access and manage your VA benefits and health care.
 - In this session, we want to hear your honest opinions. The goal is to improve this process to better meet veterans needs. We will not be offended by any opinions you express, and we welcome your candid feedback.
 - A bit later on, I’ll ask you to interact with a prototype. Just to prepare you for that, it will look real, but it won't be, and we won’t be accessing your account or real information. We use prototypes to help us test things before we decide what to make real.
-- This entire session will take no more than 1 hour.
+- This entire session will take no more than 45 minutes.
 - I do want you to be as comfortable as possible, so if for any reason and at any time you want to pause or even stop the session, please let me know.
 - Any questions so far?
 ---
