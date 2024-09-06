@@ -67,7 +67,7 @@ No
 |   37  | 09-08-2024       | 09-14-2024        | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763),  [#92051](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92051)         |In progress        |
 |   38  | 09-15-2024       | 09-21-2024        | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
 |   39  | 09-22-2024       | 09-28-2024        | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
-|   40  | 09-29-2024       |         | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
+|   40  | 09-29-2024       | 09-30-2024       | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
 
 ### Medallia Feedback Requests - Q2 2024
 
