@@ -18,16 +18,17 @@ The created Service Account Config will need to include a public certificate in 
 
 ### Creating an RSA Key
 
-First, locate the private key specified in the configuration instructions. If the new STS config is called by `vets-api`, you will use the SiS `sts_client` key, found at `Settings.sign_in.sts_Client.key_path`.
+First, locate the private key specified in the configuration instructions. If the new STS config is called by `vets-api`, you will use the SiS `sts_client` key, found at `Settings.sign_in.sts_client.key_path`.
 
 Places Keys are found
+
 * `Settings.sign_in.sts_client.key_path` - self-STS calls
 * other places?
 
 In your Rails console, open the key file and use it to create a new `OpenSSL::PKey::RSA` private key object.
 
 ```ruby
-key_file = File.read('/path/to/key.pem')
+key_file = File.read('Settings.key_path')
 rsa_key = OpenSSL::PKey::RSA.new(key_file)
 ```
 
@@ -38,7 +39,7 @@ Next you will create a certificate and use `rsa_key.public_key` to set its `publ
 ```ruby
 cert = OpenSSL::X509::Certificate.new
 cert.version = 2 # X509 v3
-cert.serial = OpenSSL::BN.rand(160).to_i # Random serial number
+cert.serial = OpenSSL::BN.rand(160).to_i # random serial number
 cert.subject = OpenSSL::X509::Name.parse("/C=US/O=Department of Veterans Affairs/OU=VA.gov/CN=https://va.gov") # change CN to "https://staging.va.gov" for staging
 cert.issuer = cert.subject # self-signed, so issuer is the same as the subject
 cert.public_key = rsa_key.public_key
@@ -58,7 +59,7 @@ service_account_config = SignIn::ServiceAccountConfig.new({
   service_account_id: SecureRandom.hex, # if the STS config already has a specified service_account_id use it instead
   description: 'A Service Account Client',
   scopes: ['one or more URL scopes'],
-  access_token_audience: 'STS client',
+  access_token_audience: 'STS Client',
   access_token_duration: 5.minutes,
   certificates: [cert],
   access_token_user_attributes: ['one or more user attributes']
@@ -69,4 +70,52 @@ service_account_config.save!
 
 ## Testing an STS Config
 
-Once your config is made, you need to test it.
+Once your STS configuration has been created, you will need to test it by requesting an STS token. This can be done in a variety of ways:
+
+* Via the same Rails console you used to create the configuration. Follow the [Service Account Token Request](../auth_flows/service_account.md#service-account-token-request) instructions to create your signed STS assertion.
+
+  ```ruby
+  private_key = OpenSSL::PKey::RSA.new(File.read('private_key.pem'))
+  current_time = Time.now.to_i
+  token = {
+    'iss' => 'STS Client',
+    'sub' => 'vets.gov.user+0@gmail.com',
+    'aud' => 'https://api.va.gov/v0/sign_in/token',
+    'iat' => current_time,
+    'exp' => current_time + 300,
+    'scopes' => ['STS Client Scopes'],
+    'service_account_id' => '0123456789',
+    'jti' => '2ed8a21d207adf50eb935e32d25a41ff',
+    'user_attributes' => { 'icn' => '0123456789' }
+  }
+  assertion = JWT.encode(token, private_key, 'RS256')
+  => "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHrw..."
+  ```
+
+  * Submit this assertion via Rails:
+
+    ```ruby
+      uri = URI('https://api.va.gov/v0/sign_in/token')
+      request = Net::HTTP::Post.new(uri)
+      form_data = {
+        'grant_type' => 'urn:ietf:params:oauth:grant-type:jwt-bearer',
+        'assertion' => assertion
+      }
+      request.set_form_data(form_data)
+      response = Net::HTTP.start(uri.hostname, uri.port) do |http|
+        http.request(request)
+      end
+      puts response.body
+      => {"data":{"access_token":"eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJ2YS5nb3..."}}
+    ```
+
+  * Or use cURL:
+
+    ```bash
+    curl --location --request POST 'https://api.va.gov/v0/sign_in/token?grant_type=urn%3Aietf%3Aparams%3Aoauth%3Agrant-type%3Ajwt-bearer&assertion=<assertion>'
+
+    => {"data":{"access_token":"eyJhbGciOiJSUzI1NiJ9.eyJpc3M..."}}
+    ```
+
+
+* Alternatively you can pull the string of the secret key and import it into the [SiS STS postman collection](../postman/postman.md) to test the integration with.
