@@ -116,6 +116,7 @@ Screener questions
 2.  Have you applied for disability compensation benefits from the VA within the past 3 years? Yes [attempt to recruit at 5-7 who answer yes] No
 
 3.  Do you plan to file a pension or disability claim in the next 1 year? Yes [Maximum of 3 participants] No
+4.  Have you worked with an accredited representative on your benefits claim? Yes No Not sure
 
 All participants must answer Yes to at least one of the questions to qualify.
 
