@@ -26,11 +26,11 @@
 | [VA Survivors Pension](https://www.va.gov/pension/survivors-pension-esp) | Spanish | 3/6/24 |
 | [What to bring to create your online sign in account](https://www.va.gov/resources/what-to-bring-to-create-your-online-sign-in-account-esp/) | Spanish | 8/23/24 (Waiting for QA)
 | [After you apply for an eligibility determination](https://www.va.gov/despues-de-solicitar-una-determinacion-de-elegibilidad/) | Spanish | 8/27/24 (Waiting for QA / URL Needs to be changed)
-| [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov-esp/)) | Spanish | 8/29/24 (Waiting for QA)
+| [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov-esp/) | Spanish | 8/29/24 (Waiting for QA)
 | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov-esp/) | Spanish | 8/29/24 (Waiting for QA)
 | [Educational and career counseling (VA Chapter 36)](https://www.va.gov/asesoramiento-educativo-y-profesional-capitulo-36-de-va) | Spanish | 8/31/24 (Waiting for QA / URL needs to be changed)
 | [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility-esp/) | Spanish | 8/31/24 (Waiting for QA)
 | [Pre-need eligibility for burial in a VA cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility-esp/) | Spanish | 8/31/24 (Waiting for QA)
 | [VA dental care](https://www.va.gov/health-care/about-va-health-benefits/dental-care-esp) | Spanish | 9/2/24 (Waiting for QA) 
 | [Eligibility for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility-esp/) | Spanish | 9/2/24 (Waiting on QA)
-| [Creating an account for Va.gov](https://www.va.gov/resources/creating-an-account-for-vagov-esp) | Spanish | 9/3/24 (Waiting for QA)
+| [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov-esp) | Spanish | 9/3/24 (Waiting for QA)
