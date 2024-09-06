@@ -8,20 +8,24 @@
 * Veterans and their Caregivers 
 
 ## Problems to solve
-- .
+- There is an existing issue where the 10-10CG form allowed an applicant to fill out the Secondary Caregivers (both Secondary and Additional Secondary), then goes back through the form to select "NO" to adding Secondary Caregivers, but the data still includes the _Additional Secondary Caregiver_ information.
+     - Ideally, the information for both Secondary Caregivers should be removed.
 
  
 ## Desired User Outcomes
-- 
+- Applicants will be able to see the secondary caregivers they entered in one place
+- Applicants will be able to edit and remove secondary caregivers easily from one screen
+- Applicants will be more confident in the information they have entered
 
 ## Undesired User Outcomes
-- 
+- Applicants have difficulty navigating the secondary caregivers being displayed
+- Applicants will not know what to do when presented with the caregiver cards on the screen
 
 ## Desired Business Outcomes
-- 
+- ...
 
 ## Undesired Business Outcomes
-- 
+- ...
 
 ---
 ## Measuring Success
@@ -30,17 +34,17 @@
 ### Key Performance Indicators (KPIs)
 
 - User feedback (Medallia)
-- 
+- TBD
 
 
 #### Baseline KPI Values
-- Number of online Caregiver applications filled out per month:
+- Number of online Caregiver applications filled out per month: TBD
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: 
-  - Key result: 
+  - Key result: TBD
  
 |Invalid/Duplicate/Created in error| Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
@@ -49,10 +53,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 
 
-  - Key result: 
-  - 
-  
-
+  - Key result: TBD
 
 ---
 
@@ -62,13 +63,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - 
+  - ...
 
 - **Usability Risks** (can people figure out how to use it):
-  - 
+  - ...
 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - 
+  - ...
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - VA stakeholder End-to-End testing
@@ -96,8 +97,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Incident Response Info
 - The 1010CG form is currently in production
-- We are going to begin calling an existing API (Facilities API)
-- XXXXXX We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
+- We are not calling any new APIs
+- ...
 - 1010CG [Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 ### Timeline 
@@ -115,8 +116,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
+![image](https://github.com/user-attachments/assets/049a68b9-947a-4e4d-b534-2ded6b7eec38)
 
+![image](https://github.com/user-attachments/assets/a8735082-bfaf-4fd6-ad56-343e7a48c222)
 
+![image](https://github.com/user-attachments/assets/55ca4947-8fbc-4e2d-9c5d-cd694e1da7d9)
+
+![image](https://github.com/user-attachments/assets/d61608e1-cf2b-4866-aa11-f41eccb4e7c8)
 
 
 ### After
