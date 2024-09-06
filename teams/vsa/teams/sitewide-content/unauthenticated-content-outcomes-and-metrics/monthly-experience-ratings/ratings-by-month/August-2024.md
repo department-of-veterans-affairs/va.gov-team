@@ -29,6 +29,9 @@ All pages have ratings of 2 or below.
   - 20% (24 of 120) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:*
+![image](https://github.com/user-attachments/assets/fdde7d26-5eb1-43e7-8f4e-8ef119645e10)
+
+![image](https://github.com/user-attachments/assets/3e5f27cc-550b-4523-8145-fdd88ac3ecca)
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
@@ -64,7 +67,7 @@ All pages have ratings of 2 or below.
 5. [How to file a VA travel reimbursement claim online](https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) (49% good out of 109 total responses)
    
 ## Analysis
-[Resources and support ratings spreadsheet]
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20August%202024.xlsx?d=w530920a9384645d988333c5d64576784&csf=1&web=1&e=sjYzsR)
 - This month R&S met our goal of 75% or higher "good" ratings, with a 71% "good" average rating.
 - Performance isn't as high when broken down to individual pages:
   - 23% of pages are scoring at 90% or higher "good"
