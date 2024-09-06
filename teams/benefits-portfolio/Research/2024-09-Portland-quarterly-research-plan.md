@@ -103,6 +103,10 @@ Primary criteria (must-haves)
 
 -   50% of participants are non-caucasian
 
+Secondary criteria (nice-to-have)
+
+-   50% of participants have worked with an accredited representative
+
 The team is willing to be flexible on these criteria based on recruiting difficulty (in-person/time of day); please ask. In addition, we ask that Perigean confirm that participants can be expected to not travel more than 45 mins to the regional office.
 
 Screener questions
