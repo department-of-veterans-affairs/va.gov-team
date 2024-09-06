@@ -2,6 +2,5 @@
 Unmoderated card sort testing how Veterans expect the information on their appointment details page to be grouped and defined, and what information they find most important, to inform a possible restructuring of the page layout.
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/research-plan.md)
-- Conversation guide
 - Cart sort outline
 - Research repo
