@@ -1,6 +1,10 @@
 # Header / Footer Monitoring
 Sept 2024
 
+Monitoring listed below is specific to testing the Injected Header appearing successfully on 2 subdomains. 
+
+The header on VA.gov is not monitored on its own, but presence / usability of the megamenu, Veterans Crisis Line modal, and Login modal are included in the [VA.gov homepage functional browser test](https://vagov.ddog-gov.com/synthetics/details/gsg-zui-hg8), which is described in more detail in [Homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md).
+
 ## Datadog: [Synthetics] Injected Header and Footer Test on https://benefits.va.gov/benefits/
 https://vagov.ddog-gov.com/monitors/161580
 What is: 
