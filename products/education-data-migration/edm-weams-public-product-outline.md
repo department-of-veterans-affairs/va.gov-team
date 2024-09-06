@@ -4,7 +4,7 @@
 
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.* 
 
-Our team will enhance VA education tools by migrating WEAMS Public  ("WP") data into the Comparison Tool. The current-state design and functionality of  WEAMS Public site will be analyzed to identify any future WP functionality via an extract from WEAMS corporate and GIDS, including updated institution, license, certification, and exam information. 
+Our team will enhance VA education tools by migrating WEAMS Public  (WP) data into the Comparison Tool. The current-state design and functionality of  WEAMS Public site will be analyzed to identify any future WP functionality via an extract from WEAMS corporate and GIDS, including updated institution, license, certification, and exam information. 
 
 
 ## Problem Statement 
