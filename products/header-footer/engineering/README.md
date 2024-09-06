@@ -32,7 +32,7 @@ The language links are provided by a React component described below under Foote
 ### Local development for header and footer updates
 When you are making changes to the **modernized (VA.gov) header and footer**, you need to run both vets-website and content-build simultaneously so you will pull Drupal data instead of falling back to the dev template (which allows vets-website to be run in isolation). There are tips for [optimizing build time](https://github.com/department-of-veterans-affairs/content-build?tab=readme-ov-file#optimizing-build-time) in content-build so you are not slowed down by running full Drupal builds.
 
-When you are making changes to the **injected header and footer**, you can run vets-website in isolation as you will be using port 3001 to hit TeamSites locally instead of 3002 (which is used for content-build and vets-website simultaneously or content-build alone). Provided your `headerFooter.json` file has been updated recently by a Drupal build, you should have up-to-date Drupal data for the injected header/footer.
+When you are making changes to the **injected header and footer**, you can run vets-website in isolation as you will be using port 3001 to hit TeamSites locally instead of 3002 (which is used for content-build and vets-website simultaneously or content-build alone). Provided your `headerFooter.json` file has been updated recently by a content-build build, you should have up-to-date Drupal data for the injected header/footer.
 
 ## Templates / files
 
