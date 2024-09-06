@@ -1,5 +1,5 @@
 ---
-name: Trave Pay Endpoint
+name: Travel Pay Endpoint
 about: For implementing business logic, translation, serialization, integration, and va.gov-facing endpoints
 title: 'Travel Pay Endpoint'
 labels: Travel Pay, TravelPayBackend
