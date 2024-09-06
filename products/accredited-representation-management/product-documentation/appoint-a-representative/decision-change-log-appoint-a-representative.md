@@ -34,6 +34,7 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Proposed by Product Manager Lindsay Li-Smith and approved by Product Owner Jennifer Bertsch ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1723759381357219))_
 - **8/30/2024**: Engineering discovered that the "Review" page is the final step/chapter in the VA Forms Library process, presenting challenges for the "Download" page which was designed to be the final step/chapter _after_ "Review". The team decided to update the "Download" page design to remove the progress tracker and "Back" button. \
   _Solution presented by UX Designer Michael Tri ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1725047898860319))._
+- **9/3/2024**: Decided the Request POA service will exist in vets-api immediately upon submission on VA.gov, then updated in corpDB/Lighthouse as "cold storage". \
+  _Path forward communicated by Product Owner Jennifer Bertsch ([Slack Message](https://dsva.slack.com/archives/C06ABHUNBRS/p1725393615800809)) and CorpDB was discussed as "cold storage" in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV48541100debf431580cd3ce4c))._
 - **9/4/2024**: Decided not to require a Veteran phone number, when a non-Veteran claimant is completing the form, as the Veteran may be decesased. \
   _Proposed by Product Manager Lindsay Li-Smith ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1725474567167699?thread_ts=1725471067.804769&cid=C05L6HSJLHM))._
-- **PENDING**: Decide if the Request POA service lives in corpDB/Lighthouse or vets-api
