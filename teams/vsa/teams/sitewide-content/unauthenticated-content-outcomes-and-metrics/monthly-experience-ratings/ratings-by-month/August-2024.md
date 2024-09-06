@@ -50,10 +50,20 @@ All pages have ratings of 2 or below.
 
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
 
-1.
+1. [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) (89% good out of 2940 total responses)
+2. [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (89% good out of 666 total responses)
+3. [VEText for VA health care reminders and updates](https://www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/) (94% good out of 315 total responses)
+4. [Commissary and exchange privileges for Veterans](https://www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (94% good out of 272 total responses)
+5. [Getting urgent care at VA or in-network providers](https://www.va.gov/resources/getting-urgent-care-at-va-or-in-network-community-providers/) (81% good out of 259 total respponses)
+   
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1. 
+1. [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) (36% good out of 883 total responses)
+2. [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov/) (37% good out of 837 total responses)
+3. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/) (21% good out of 284 total responses)
+4. [Helpful VA phone numbers](https://www.va.gov/resources/helpful-va-phone-numbers/) (45% good out of 152 total responses)
+5. [How to file a VA travel reimbursement claim online](https://www.va.gov/resources/how-to-file-a-va-travel-reimbursement-claim-online/) (49% good out of 109 total responses)
+   
 ## Analysis
 [Resources and support ratings spreadsheet]
 - This month R&S met our goal of 75% or higher "good" ratings, with a XX% "good" average rating.
