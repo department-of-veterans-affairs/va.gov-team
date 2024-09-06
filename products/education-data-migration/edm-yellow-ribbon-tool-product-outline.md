@@ -5,7 +5,7 @@
 ## Overview
 
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
-- Our team will enhance Department of Veterans Affairs ("VA") education tools by migrating Yellow Ribbon Tool ("YRT") data into the Comparison Tool ("CT"). The current-state design and functionality of YRT will be analyzed to identify any future YRT functionality to migrate, enhance, and integrate into CT. The Yellow Ribbon Program can help you pay for higher out-of-state, private school, foreign school, or graduate school tuition and fees that the Post-9/11 GI Bill doesn’t cover.
+- Our team will enhance Department of Veterans Affairs (VA) education tools by migrating Yellow Ribbon Tool (YRT) data into the Comparison Tool (CT). The current-state design and functionality of YRT will be analyzed to identify any future YRT functionality to migrate, enhance, and integrate into CT. The Yellow Ribbon Program can help you pay for higher out-of-state, private school, foreign school, or graduate school tuition and fees that the Post-9/11 GI Bill doesn’t cover.
 
 
 ## Problem Statement
