@@ -1,8 +1,7 @@
-# Note: This page is in draft
 # Unauthenticated page experience ratings: August 2024
 ## Related overall scores
 - **Total customer satsifaction score:** 57.7 (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall XXXX out of XXXX total)
+- **Average resources and support good/bad experience score:** 71% "good" experience rating overall 7,577 out of 10,629 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -25,9 +24,9 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - XX% (XX of XXX) R&S pages have a 75% or higher "good" score
-  - XX% (XX of XXX) R&S pages have a 51% - 74% "good" score
-  - XX% (XX of XXX) R&S pages have a 50% or lower "good" score
+  - 49% (59 of 120) R&S pages have a 75% or higher "good" score
+  - 31% (37 of 120) R&S pages have a 51% - 74% "good" score
+  - 20% (24 of 120) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:*
 
@@ -66,9 +65,10 @@ All pages have ratings of 2 or below.
    
 ## Analysis
 [Resources and support ratings spreadsheet]
-- This month R&S met our goal of 75% or higher "good" ratings, with a XX% "good" average rating.
+- This month R&S met our goal of 75% or higher "good" ratings, with a 71% "good" average rating.
 - Performance isn't as high when broken down to individual pages:
-  - XX% of pages are scoring at 90% or higher "good"
-  - XX% of pages are meeting our goal of 75% or higher "good," while XX% of pages are scoring 70% or higher
-  - XX% of pages are scoring at less than 50% "good," with X% scoring at less than 10% "good" 
-- Sign-in related content continues to be among the lowest-scoring pages.
+  - 23% of pages are scoring at 90% or higher "good"
+  - 49% of pages are meeting our goal of 75% or higher "good," while 59% of pages are scoring 70% or higher
+  - 17% of pages are scoring at less than 50% "good," with 1% scoring at less than 10% "good" 
+- Sign-in related content continues to be among the lowest-scoring pages and also among the pages with the most responses.
+- PACT Act continues to be the page with the most responses over all and continues to score a high "good" rating.
