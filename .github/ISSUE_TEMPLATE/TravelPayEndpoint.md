@@ -1,8 +1,8 @@
 ---
-name: Travel Pay Endpoint
+name: Travel Pay Backend
 about: For implementing business logic, translation, serialization, integration, and va.gov-facing endpoints
-title: 'Travel Pay Endpoint'
-labels: Travel Pay, TravelPayBackend
+title: 'Travel Pay Backend'
+labels: Travel Pay, TravelPayBackend, backend
 assignees: ''
 
 ---
@@ -37,6 +37,14 @@ _e.g._
 - [ ] Service code written - transforms/processes response from client
   - [ ] Handle errors
 - [ ] Controller endpoint written
+- [ ] Config
+  - [ ] settings.test.yml updated if needed
+  - [ ] settings.local.yml updated if needed
+  - [ ] settings.yml updated if needed
+  - [ ] [infra-manifests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/infra-manifests-context.png) [updated if needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/infra-manifests-behavior.png)
+    - [ ]  [dev](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps/vets-api/dev)
+    - [ ]  [staging](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps/vets-api/staging)
+    - [ ]  [prod](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/tree/main/apps/vets-api/prod)
 - [ ] Tests written
   - [ ] Unit
     - [ ] Happy path
