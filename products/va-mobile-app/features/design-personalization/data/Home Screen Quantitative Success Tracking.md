@@ -19,17 +19,19 @@ While lagging indicators, like retention rate are strong indicators of value for
 |Retention|Lagging|Retention |Percentage of users who return to the app at increasing intervals of time |The personalized home screen will surface more value to the app leading to improved user retention over time|||
 
 ### Metric Tracking
+**Engagement** 
 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|Home screen load speed|6.78 Secs|4.66 Secs - 99.9% was within 1 STD of the median load time|||
-|Unread message read rate|N/A|81.10%|||
+|Unread message read rate|76.71%|81.45%|||
 |Claims view rate|65.90%|70.45%|||
 |Prescription refill rate|15.49%|28.21%|||
 |Appointment Page View Rate|36.18%|39.11%||
 
+**Performance** 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
+|Home screen load speed|6.78 Secs|4.66 Secs - 99.9% was within 1 STD of the median load time|||
 |Load Time Appointment|3.79 Sec|4.21 Sec|||
 |Load Time Claims |2.99 Sec|2.95 Sec|||
 |Load Time Prescription|3.08 Sec|3.21 Sec|||
