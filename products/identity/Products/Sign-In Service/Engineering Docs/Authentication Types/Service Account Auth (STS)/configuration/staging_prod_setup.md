@@ -95,18 +95,17 @@ Once your STS configuration has been created, you will need to test it by reques
   * Submit this assertion via Rails:
 
     ```ruby
-      uri = URI('https://api.va.gov/v0/sign_in/token')
-      request = Net::HTTP::Post.new(uri)
-      form_data = {
+      token_query_params = {
         'grant_type' => 'urn:ietf:params:oauth:grant-type:jwt-bearer',
         'assertion' => assertion
       }
-      request.set_form_data(form_data)
-      response = Net::HTTP.start(uri.hostname, uri.port) do |http|
-        http.request(request)
-      end
-      puts response.body
-      => {"data":{"access_token":"eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJ2YS5nb3..."}}
+      token_uri = URI.parse('https://api.va.gov/v0/sign_in/token')
+      token_uri.query = token_query_params.to_query
+      
+      http = Net::HTTP.new(token_uri.host, token_uri.port)
+      token_request = Net::HTTP::Post.new(token_uri.request_uri)
+      token = JSON.parse(http.request(token_request).body)['data']['access_token']
+      => "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJ2YS5nb3..."
     ```
 
   * Or use cURL:
