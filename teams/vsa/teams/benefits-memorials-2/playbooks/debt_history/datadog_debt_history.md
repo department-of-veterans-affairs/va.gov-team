@@ -34,9 +34,4 @@ _Diagnosis or action steps to verify the issue, resolve the problem, and/or noti
 - If you determine that the errors are coming within vets-api, open a tracking issue at [va.gov-teams](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/board)   
 - Notify the Debt Resolution team in the #debt-resolution team on Slack.
 - To drill into details on a specific error at a specific time, click on a bar in the "Click on items to View Related Traces"
-  widget at the bottom of the Dashboard.  
-
-  (https://dsva.slack.com/archives/[.....]) channel.  I recommend specifically calling out @Example Administrator
-  and @Another Example Administrator specifically.  Tell them what application you support, the issues you are seeing
-  Post a link to your question or comment in the [#their-slack-channel](https://dsva.slack.com/archives/[...]) for awareness.
-
+  widget at the bottom of the Dashboard.
