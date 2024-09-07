@@ -1,6 +1,8 @@
 # Debts Playbook: Datadog
 _last updated: 9/6/24_  
 
+Referenced this template: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/template.md
+
 ## Audience 
 Debt Resolution team members responding to Debt-related Datadog alerts
 
