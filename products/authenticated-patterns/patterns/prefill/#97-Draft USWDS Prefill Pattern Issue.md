@@ -4,7 +4,7 @@
 
 This feature request for a prefill pattern addresses the challenge of effectively managing prefilled data in forms for logged-in Veterans. Currently, when Veterans access forms, they frequently encounter prefilled information derived from their authenticated profiles. However, they often face confusion regarding the source of this data, how to edit it, and the impact of those edits. To enhance the efficiency and accuracy of completing forms, Veterans need a clear and consistent way for understanding and managing prefilled data. This will help them save time, minimize errors, and navigate the benefits or services application process more smoothly.
 
-## Why USWDS needs this paatern
+## Why USWDS needs this pattern
 
 The addition of a prefill pattern to the USWDS is essential for enhancing the efficiency and user experience of filling out government forms. Government agencies frequently require users to complete a variety of forms, from tax filings to benefit applications. The prefill pattern addresses several key challenges and aligns with federal laws and guidance on user-centric design.
 
