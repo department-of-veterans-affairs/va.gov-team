@@ -408,4 +408,4 @@ I hear that you're okay to continue. Before we do, I realized that I need a minu
 Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
 
 ## Approved by:
-- Shane Strassberg, VA Research Ops on [🟡 Month day], 2024
+- Shane Strassberg, VA Research Ops on August 30, 2024
