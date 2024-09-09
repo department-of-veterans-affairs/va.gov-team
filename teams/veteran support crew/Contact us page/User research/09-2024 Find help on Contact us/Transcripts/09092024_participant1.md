@@ -12,7 +12,7 @@
 ## Before showing ‘Contact us’ page
 Becky: Alright, so it seems like we're ready to get started. And first, I'd just like to begin learning a bit more with your experience with VA customer support. And so how long have you been a veteran?
 
-> P1: I've been a Veteran for nearly 40 years. So from when I first enlisted, and I've been retired for 9 years.
+> P1: I've been a Veteran for nearly [number] years. So from when I first enlisted, and I've been retired for [number] years.
 
 Becky: And in your time as as a Veteran, so far, have you ever used the Contact us page on VA.gov?
 
@@ -52,15 +52,66 @@ Becky: Oh, so when, you, so it sounds like when you've gone to the military base
 
 > P1: I talked to the postmaster at the station. He gets all the advisories from the USPS, because it's USPS and then MPS, so it's the MPS, is the military you know, agent form. So they've never seen an advisory. Never heard about it. Completely unfamiliar with Login.gov as a whole, let alone that they're the only authorized agent for in-person verifications. And so yeah, no, nobody, nobody saw it coming.
 
-> P1: I used to have this mantra in the military. I always did as a supervisor education before implementation. That was my mantra, and that's what they've done is they went ahead and implemented it last month. And all these people is, I'm, you know. I'm 61, and I'm a young buck among the retirees. But I'm also, you know, the calm guy. So I'm trying to help people, you know, techno with technical troubleshooting all these workarounds, even just to help them get it, ID me, and see if they can do a video verification.
+> P1: I used to have this mantra in the military. I always did as a supervisor education before implementation. That was my mantra, and that's what they've done is they went ahead and implemented it last month. And all these people is, I'm, you know. I'm [age], and I'm a young buck among the retirees. But I'm also, you know, the calm guy. So I'm trying to help people, you know, techno with technical troubleshooting all these workarounds, even just to help them get it, ID me, and see if they can do a video verification.
 
 > P1: But like I said. We've ruled out Login.gov is not an option for any of us, because Post Office is the last option that doesn't work. Nobody's thought about it yet.
 
 > P1: And you know, maybe tweaking their browsers, trying some other options, where again, even the ones that got video verified with ID me still doesn't work, so I'm walking them through. I'll try this browser, and, you know, disable this and clear that, and they still can't logged in, and there's no nobody to turn to, because ID me when they say, Hey, id me! I'm using you to authenticate, and I'm just caught in this endless loop.
 
+> P1: I have also, I have every remote tech support app there is, and I've watched them, and you just see them get caught in this endless loop of trying to authenticate. Get kicked. Kick back. ID me. Go back to VA get kicked back to ID me. Yeah, it's just it's been hopeless.
+
+Becky: Yeah, no. And you know, I really appreciate this feedback, even outside of just the Contact us page. I know we we've been talking about login and authentication to within our office. So I will, we'll definitely share this feedback with, you know the folks that are involved with that process right now. But yeah, it's really kind of you to help, you know your fellow Veterans who are also living abroad, since you seem to have, just unfortunately, a lot of experience with trying to find the right contact information. Yeah. I'll continue moving us along. But we will go through a scenario that maybe is relevant to your experiences with login, and I'll go through that right now.
+
 ## Scenarios
+Becky: In the rest of the session. I'm going to give you 2 scenarios where you, as a veteran, would reach out to VA for help. So you know, I'd just like to imagine that you're a Veteran in these 2 scenarios. And these are actually real questions that Veterans asked us this year, just reworded.
+
+Becky: So before you do that, I'm going to send a link to the current Contact us page on VA.gov. Yes, in the chat. So let me know when you've received that, and if you can open the link in the chat.
+
+> P1: Okay, I've got that open in Google Chrome.
+
+Becky: Now, second question, have you shared your screen on Zoom before?
+
+> P1: : Yes. But let me see. I have multiple browsers. So yeah.
+
+Becky: Now you can choose the right window, so you don't share your whole screen. And let me know if you need help with that.
+
+> P1: I've been playing in Microsoft Teams for the past 2 weeks. Where do we have it here on Zoom?
+
+Becky: Yes, in Zoom it'll be that green share button. Yes. Yeah, no worries. It's funny how it's very obvious, but not not obvious enough sometimes.
+
+> P1: Got it
+
+Becky: Amazing. Alright. Now let me expand my screen. Okay, now I can see your whole screen. Great. And I'll walk you through our first scenario, which is actually a login scenario.
+
 ### Login scenario
-[I would hit Contact us link. I hate chatbot. I refused to sit and wait and be held hostage. Chatbot is a question, and then you’ll wait 5- 10 minutes. My experience with them is infuriating. You don’t want to hear my questions, you want me to change my questions- give keywords and then it has an answer to that. Call Us, I don’t like because I will have to be up early and then I’ll be on the call 30-40 minutes and depending on if I get a helpful person. I might go to FAQ’s like if I lost my drivers lisence. 
+Becky: So I'd like you to pretend that you're a Veteran who can't create an account on VA.gov. You are trying to create a Login.gov account. But Login.gov doesn't let you use your passport as a form of identification. And you just don't have your driver's license because you lost it recently. But you still need to create an account.
+
+Becky: So, starting on the Contact us page, which is the page you're on right now show me how you would find help for this scenario. And as you're showing me, tell me what you're thinking and noticing on this page.
+
+Becky: I'll also send this scenario in the chat. So you have it readily on hand in case you need to refer to it. So yeah, again, walk through the page. Tell me how you would try to find help for creating an account for VA.gov, when you only have a passport. You don't have your driver's license.
+
+> P1: Let me, I gotta move my screen around a little bit. Here. Okay, yeah, I just want to say it's when you were talking about, so I can see the chat. I don't see, okay? And they didn't. So I just said, Oh, that's in a group, couldn't imagine somebody trying to do this on a mobile phone or, cause I've got a, so I've got the chat window open separately. And then I've got your video open up in the corner there.
+
+> P1: Okay, back to the screen.
+
+> P1: so just initial, my initial response is, Contact us online through Va, well. I want to see what else, I hate chat bots.
+
+Becky: Sorry. Pausing there. Can you tell me a little bit more about the hate for chat bots?
+
+> P1: Number one, is just because I've been trying them since they were first invented is, I refuse to sit and wait, held hostage by chat bot!
+
+> P1: So it's just kind of like every time I go to walk away. It's like, you know, do you get a repeat of the exact same question. But it's basically what should be if it was a live agent question. Answer, question, answer, chat bot is question, go ahead and start dinner as it could be. 15, 10 min before it comes back.
+
+> P1: And again I know chat bots have advanced considerably. But it seems even what they do now is simulating engagement by just front loading you, whatever it can.
+
+> P1: You know. Do to make you feel like, oh, I'm being there. It's being responsive, and it's helping me, and my experience with them is they just, just a little infuriating, because it's just like, Oh, you want me to keep you. You don't want you don't want to hear my question. You want me to ask the question that matches the answers. So it keeps on trying to change my initial inquiry into here, let me throw some keywords at you, and if any of these keywords work for me, I've got an answer for that.
+
+> P1: So it's like it doesn't necessarily want to try and interpret my question, or I didn't have the right keywords the way I phrased it. So it's kind of like, you know, leading me down this path, that well, I'm going to give you an answer that I already have, because I had this team put together 87 pre-formatted responses. And we're going to force you to accept one of those 87 answers, and we'll try and get as close as we can. So that's why, initially, I'll ignore the chat bot
+
+
+
+
+Call Us, I don’t like because I will have to be up early and then I’ll be on the call 30-40 minutes and depending on if I get a helpful person. I might go to FAQ’s like if I lost my drivers lisence. 
 *What would you expect if you clicked Contact Us online? -Contact Us form with a bunch of dropdowns and probably give you a couple of options before you submit. I expect a detailed Contact Us form. 
 What I would want to know is, before calling, what is expected from us to bring. 
 
