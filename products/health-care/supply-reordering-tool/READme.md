@@ -32,7 +32,7 @@ This is part of a larger initiative to move all Veteran transactions around mana
 - Veterans' overall experience and trust in VA improves.
 
 ---
-## Measuring Success-
+## Measuring Success
 
 ### Key Performance Indicators (KPIs)
 - What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?
