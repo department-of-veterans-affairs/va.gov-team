@@ -191,22 +191,179 @@ Becky: Yeah that's great feedback. I'm curious, you know, on this current page, 
 Becky: Yeah, you, it sounds like you don't want to put all your eggs in one contact basket, so to speak. I'm really curious if your, this process will change for the next scenario. So I'll go ahead and give that one, too.
 
 ### Claims scenario
-Becky: 
-[I know the benefits section is a completely different animal. I’m going to scroll down through this VA stuff, top section. I see the first VA benefits hotline but I’m going to keep scrolling. Now, I’m confused because they’re three separate numbers. I will go back to VA health benefits hotline.
-What would you do next if you didn’t get your answer there? -Assuming that I already had that signed in active account, and I can quickly narrow down what department of the VA.
+Becky: So let me find it again, and you can go ahead and maybe refresh your page so that you're, you're right at the top of the page again. I think it should bring you back to the top or, or no, it might not. Yeah, there we go.
 
-*What would you expect differently if you were logged in? - I will go to Contact Us and see if there is anything and if not, I will go back to the previous page and see if there is a link. 
-I’m a tab guy, I would click the next tab. I expect to sign-in on VA.gov. 
+Becky: All right, so this is our second and final scenario. So again, you're imagining you're a Veteran and you currently get disability compensation for shoulder pain. And recently you noticed that your shoulder has been hurting more in the past couple of months.
 
-*Would you click anywhere else for this scenario? -For this particular scenario, no.]
+Becky: And so now you're wondering if you can request more compensation for your shoulder pain because it's worse now than when you initially received disability compensation. So again, starting on this page, show me how you would find help for this new scenario. And again, I'm going to send this in the chat so you can refer to it if you need to.
+
+Becky: So I see you you've scrolled down to the the phone numbers. Is that sort of what you would start with first in this claims scenario?
+
+> P1: Well, it's because the starting from the top here, I'm, because obviously if I'm already getting benefits, I'm have a pretty good idea of what I'm looking for. So I wouldn't just, I wouldn't want to just, you know, blindly, you know, yell. Hey, VA, is anybody listening?
+
+> P1: I know that the benefits section is a completely different animal because I've been dealing with, you know, MyHealtheVet and Ebenefits. So it's like I, I know those are like down the pyramid on the VA structure.
+
+> P1: So I'm probably, I'm just gonna scroll past all this initial VA stuff that's for amateurs. I'm a, I'm a seasoned, you know, pro now.
+
+> P1: And so I'm ignoring, you know, that top section again. Now I know it's gonna be benefits related. Don't want to bother with that.
+
+> P1: And no, no, So I see the first VA benefits hotline, and I'm just going to go ahead and keep glancing just for grins and giggles. And there's the health benefits hotline now. Then there's a MyHealtheVet help desk. And now I'm kind of confused as they are three separate numbers.
+
+> P1: And so I'm not really sure why they're spaced so far apart and why they're all different phone numbers when they kind of, but then I go, OK, well, that's the help desk. That's the classic login issue.
+
+> P1: So I'll go back up to the health benefits hotline versus the benefits outline. Now this is my shoulder. So VA benefits that could be burial. So let's go ahead and strictly with VA health benefits. So that's probably the, that's probably out of the all of them.
+
+> P1: I would say, OK, I'll this is, this is the one I want, but they really should capitalize that [the 'H' in the 'VA health benefits' label]. Okay, this is the one I want. But they really should capitalize that 'H.'
+
+Becky: That was really helpful. It sounded like, you know, you reviewed everything. You came down to three phone numbers, but there was still a bit of ambiguity around which one you should select.
+
+Becky: And so then, it sounds like would you call the health benefits hotline? And let's say you don't get your answer there. What would you try to do next?
+
+> P1: Well, I said because of the, I haven't been on the, you know, MyHealtheVet or benefits pages because I know they've been consolidating everything. So assuming, let's see what else?
+
+> P1: So assuming that I already had that sign in active account, I would ignore this page and I just go right to sign in again.
+
+> P1: As I know, I'm usually, at least that gets me into my account, and I can quickly narrow down what, what department of the VA I'll be working with.
+
+Becky: I'm curious, what, what would you, what else would you expect to change after you sign in to VA.gov that you think might help you a bit better in this scenario rather than not being signed in?
+
+> P1: Yeah, just, you know, just thinking 'cause I am a guy that always looks for the contact us page.
+
+> P1: so just in case there's like this, you know, I'll give you the benefit of the doubt that there's gonna be lots of options. So rather than me drill through a bunch of other pages, I will go to the contact us, see if what I'm looking for is there. If not, then I'll go back to where I was and see if there's a link. It's more closely related.
+
+> P1: So they're just looking at this, you know, because again, we're at the, you know, top of the domain and VA.gov. So I'm not under VA.gov, you know, benefits or health or anything like that.
+
+> P1: So I know I'm already, so I, I, I already know I'm about top of the chain. It's like, you know, I wanna, I wanna talk to the EPA and I've got the White House. I'm on the White House page. So I'm a little too high up in the chain, you know, to be looking for the best phone number to begin with.
+
+> P1: So, yeah, So from this page, as again, I already know it's gonna be having to do with, you know, increasing my rating. So that's the kind of buzzwords I'm gonna be looking for.
+
+> P1: So at this point, because I didn't find, I didn't see any other than the phone number, nothing, you know, jumped off the page saying, oh, here's a quick online resource.
+
+> P1: So I would probably go back up. Do the explorer facts and other resources get answers to your, to your question.
+
+> P1: So there's check your VA claim or appeal status. That's probably the closest, what I would have to deal with since it's already a A-rated condition.
+
+> P1: So I would look at that one, but then I would also scroll back up and take a look at how far I'm like, oh, that's the same stuff.
+
+Becky: So yeah, feel free to click any links to if you want to navigate to another page, if that's what you would do in this scenario.
+
+> P1: Yeah, let's see, let's see what happens. I’m a tab guy, so I always open it in the next tab just in case it's a bummer tab.
+
+> P1: OK, so check your VA claim decision review or appeal status. And again, as I expected it would, first thing I have to do is I've got to sign in.
+
+> P1: So even though, you know, just the very fact that it's the first thing it presents me with before it starts asking me any questions, I was like, well, I saw that one coming.
+
+Becky: It sounds like you sort of expect to have to sign in to, to do some things on VA.gov.
+
+> P1: The minute you start talking about your case, your specific account, your file, you you have to sign in because otherwise everything is so ambiguous public facing. It's not going to have the very specific things that I'm concerned about.
+
+Becky: Yeah, you, you bring up a really good point because it sounds like you're thinking, OK, this is a personal, this is a very personal question I have related to my own benefits. I'm going to need a sign in to get that answer.
+
+Becky: Going back to the Contact us page too. I'm curious, would you have selected that link to go to the FAQs or, or try to find articles that way or, you know, would you have searched through VA.gov to find more information at this point for this particular scenario?
+
+> P1: No, it's like I said with this, you're a Veteran and you've been through all the initial compensation and pension exams, all of the decision letters, the appeals, it goes on for years. And you and, you know, there's nobody else in the VA you can talk to.
+
+> P1: It's just such a narrow department that those are the only folks you're ever gonna talk to. Nobody else wants to talk to you about it. They're 90% of the answers in the Facebook groups is... They say go contact your local VSO. Go contact your local, you know, here's your VA office. Get them to get you a VSO to work with you.
+
+> P1: So, yeah, it's like everybody, you mentioned anything that's a rated condition or physical health related, go to your account, and you've got to start talking to people that taught that entire C&P language. It's an animal unto itself.
+
+Becky: Got it. That's interesting. And it sounds like, you know, going back to the phone numbers, you'd expect someone on the other end of the VA health benefits hotline to also be knowledgeable about those those C&P questions too, or no?
+
+> P1: You know HIPAA has ruined society as we know it. You know, the minute you know, you know, you know, now the parents can't even ask about their own kids because of HIPAA laws.
+
+> P1: And I just know you can't talk to anybody that is not in that, you know, in that very specific, you know, arena without being, going, jumping through all the hoops of verification and account. And you literally have to have your records right there to prove that's who you are.
+
+> P1: As I know, nobody at any phone number is ever just gonna talk directly to me about my specific, you know, case. They're just gonna give you them the vanilla generic answers that you would have found on Google yourself anyway. I guess they just can't.
+
+Becky: Got it. Yeah that's helpful to understand. I guess your, your expectations for what sort of answers you might receive through like a phone agent again versus maybe logging in and verifying your identity first. Well, that was, yeah, that was all my questions for those two scenarios around login and then this claims related scenarios. So you can go ahead and stop sharing your screen and we'll move on to one of the last parts of this session.
 
 ## Review each scenario
-[I would, HIPPA has ruined society. Not even parents can get information on their kids. You can’t jump any hoops to prove your identity. There is no one over the phone that will talk to me about my case without verification of identity.]
+Becky: So again, thank you for going through those scenarios with me, especially before that, even sharing your experience with, with creating an account on VA.gov. That was really helpful.
+
+Becky: And before we end, I just wanted to review the different ways the contact us page could have helped in one of those scenarios. So the login one.
+
+Becky: So I'll be doing a walkthrough myself of what you might expect if you had selected those different support channels especially. So I'm hoping this walkthrough helps you as we're improving the page and you've really shown me how finding answers can be really complicated right now. So that's exactly what we're trying to to solve for right now.
+
+[Becky does walk through. See [this section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md#review-login-scenario---10-minutes) in the conversation guide]
+
+#### Contact us online through Ask VA
+> P1: Go back to the new inquiry tab and could you humor me and click on next. Yeah, I'm actually most interested in the format for phone numbers.
+
+Becky: I'm curious, are you thinking that it won't accept an international phone number?
+
+> P1: Yeah, we've had, we've had a lot of issues with somebody has put so many restrictions on the characters in the formatting of that field that they can't use plus signs, they can't use stashes, they can't, you know, use parentheses.
+
+> P1: And so many of these folks, they have no idea what character restrictions are within a field, how the field is formatted, and then they don't get the appropriate error messages.
+
+> P1: So the, I always say, you know, the amount of effort you put in, you know, putting a Veteran's daytime phone number, this is like the number one glitch in any page is just show the required format, so they know what the accepted characters and format are.
+
+> P1: Because you know, some of the older folks that you still use parentheses around the area code, they use dashes and, and it's all these stupid little things that are just enough to reject the entire form.
+
+> P1: And they don't get hints as to, you know, it just says, you know, you know, error or, you know, fill their anyway.
+
+> P1: So yeah, I just, I, I deal with this all the time with the, the postal code formatting and the phone number formatting.
+
+> P1: And it's a Wild West of how many times wrapped it gusses to where I 'cause I I can do probably 6 different formats and and it's spin the wheel to figure out which one works.
+
+> P1: So just, so you know for your awareness, that's probably two of the most common complaints is phone number formatting and postal code formatting.
+
+> P1: I think there was some help text here, but how it could be helpful to show the format that we're expecting the the input to me, yeah, 'cause I, I see some of these older retirees and, you know, and they're living off their, you know, 7 inch screen smartphones now.
+
+> P1: And so, you know, for me, I'm always on the PC so I see the full. So it's, it's very easy for me to Scroll down the page and see where one leads to another and, and it's and so I can see the entire page if I have an error or there's a glitch or I see, oh, OK, the country is down here.
+
+> P1: And now when I clicked on country, it just changed the form filled entry, the formatting. Well, that's screwed up. But when they're on their phones or their tablets, they don't see that. And when they get to the bottom, it's just, it's kind of a jumbled mess as they're going back trying to figure out where did I make the mistake. So I, I, I was just wondering why did we make a mistake in the first place 'cause we weren't given a, an option as to what was the required format for the entries?
+
+#### Ask our chatbot a question
+
+> P1: Now is it, do people have a option to get a, where their inquiry if it's incomplete, can be gets forwarded to the correct department or, or get a copy of the transcript so maybe they can see the answers that were given?
+
+> P1: It's like I said, I, I've seen that a lot with, you know, I, I can have 23 tabs open in one of my three browsers. So I never lose track of, you know, what I was looking at previously.
+
+> P1: Like I said, I deal with, it's so frustrating for me when I go to one of the retiree events and everybody's pulling out their phones and there's no searching tabs easily going back and forth.
+
+> P1: So, you know, and they're just as likely to fat finger and close the tab that had all the information they were looking for and they don't have a copy of it. So maybe if there was an option to thanks, send me this information and then enter e-mail.
 
 ## Cool down
-[We had a lot of issues with so many numbers, no plus signs, no dashes and so, many of these folks have no idea how many characters are allotted and there’s no proper notification. Wish we just had a format on what it should be. It’s a wild guess to see which one works. Two of the most common complaints; are phone number formatting and postal formatting.
+Becky: As a, as a final question for you, do you have any final thoughts on this process or any any takeaways that I can bring back to my team? Or do you have any questions for me?
 
-TIME OVER
+> P1: Chomping at the bit, please, for the love of God! Go back to the folks that are working with the verification process. Those of us that had premium accounts on VA had to do that in person. At least I know I did. I had to travel from the UK to Washington DC, go in person, do everything and honest to God, and I'm sorry that anybody that was over 50 or 60 should have been grandfathered.
 
--Please go back to the folks who are working with the verification process for those who had accounts with the VA, I did that in person. Everyone that was 50 or 60 should have been grandfathered. What's missing from the page that you were previously on, It must be end date to be valid. US Code 81, I believe, they are sitting, miss-quoting it for the US military ID cards. We are all mandated to get these Caq cards but they are being refused as a form of identification.]
+> P1: None of this ID me, none of this Login.gov, because what was missing on that page that you were just on about requirements. The missing phrase from that is it must be in date to be valid and they don't recognize. So the military, and I've explained this to both login and ID me a bazillion times all the way up the train.
 
+> P1: And I know we're out of time, but the almost every state automatically extends the expiration of your driver's license without any paperwork or anything else, with merely military orders or proof of overseas residency, no questions asked.
+
+> P1: Some states will let you do it for five years, 10 years, some indefinitely, but they will not reissue your license till you return to the state. But your license is still valid and ID me and Login.gov refuse to verify that information, authenticate it.
+
+> P1: And for the most bizarre thing in the entire federal government as that they're all citing US Code 81 I believe, I believe it's 81 inappropriately about the use of military ID cards as a form of legal identity. They're totally misquoting it and misinterpreting it and they refuse to answer the question every time I confront them with the exact text because I was a COMSEC guy.
+
+> P1: I worked with that whole issue of when can you make copies? So I can take a photocopy of my ID and so long as I put I copy across it, it's legal. Completely legal. Both those agencies absolutely refuse and their answer is explicitly because we're not allowed to hold or process a military ID card for authentication, which is an absolute falsehood.
+
+> P1: So both those agencies are screwing over thousands of veterans because they're none of them want to. They're making so much money off these contracts, they're not going to go back and argue with the VA on something that's going to cause them to lose money.
+
+> P1: So, and this is why they always send me go back to the VA. Unless the VA tells them you have to accept a military ID card as proof of identity, they're not gonna do it. And it is and and the military has already decided all of our old style DoD form IDs out the window. We all are mandated.
+
+> P1: We have to get the new CAC style ID cards and the fact that we can't use those for most of these military folks that are retired veterans overseas, it's the only piece of US ID they have left.
+
+Becky: Yeah, I can see how this is, I'm really glad we got a chance to speak because, you know, you definitely provide great perspective from a veteran living abroad rather than someone, you know, in the US who might experience different challenges. So I'll definitely bring that back to the team.
+
+Becky: And you know, I have to go through this transcript to get the exact challenge but, if you were to summarize it, do you think the challenge is just not being able to use the military ID to verify your identity through id.me or login.gov?
+
+> P1: Yes, because again, our Login.gov does not only it's only state IDs. And like I said, even Login.gov does not acknowledge the fact that probably 47 out of the 50 states all have that.
+
+> P1: If you contact every DMV, which login.gov is not gonna do, you contact, contact every DMV does. And again, people say, well, what you can do this? Well, if you're a veteran and you get medically retired overseas, you can be there for six months to three years because you're like me. Because of my mental condition, I can't travel.
+
+> P1: I cannot go back to the states to get a new driver's license and all the while I can't access my VA account to process my claims because they jumped the gun and already locked me out. So I can't even process my claim because the only thing that they'll accept is a non starter.
+
+> P1: I'm supposed to spend $2000 on a special ticket to fly back to Oregon just to get a driver's license to fly all the way back to show them hold up a photo next to them? It's absolutely insane and like I said it completely, it even tell me that it's right in the middle of their claims process because of medical separation or retirement.
+
+> P1: They, if they're and there's a lot of us overseas, this is where we get discharge. We don't get returned to the states. And so yeah, and I know a guy that actually had to move back to Oregon because of that very reason. He moved back two months early, screwed up all of his plans, all simply because he got locked out of the that part of his account for me right now.
+
+> P1: They and I know we went over, I cannot, I can't change my my direct deposit forever. And you know, they said, well, you can call and he's like, but this is the whole point is now you're saying I could be Joe Schmo on a phone call, but oh, by God, if I log into my account, I'm a Russian hacker. So nothing required for a phone call.
+ 
+> P1: You know, that they're making me go through these ridiculous hurdles just because I have access to a computer. So there's no so there's no consistency there. Phone call, just we don't they don't know what I sound like. They dont. I could be, I pretend to be my 80, 89 year old mom all the time. Never have been stopped. But you know, but yeah, anyway, you got the point.
+
+Becky: I can, you know, you're, this is the sense we get a lot from Veterans as well. And why, why it's so helpful to have these sessions. But we definitely don't want to make it so you have to jump through crazy hoops to just access your account or fill out a form or whatever the task it may be that you're trying to do on va.gov. So I definitely hear you. Iwould similarly be very frustrated and would not want to travel, you know, hundreds of miles just to do this this one thing. 
+
+Becky: So, you know, like I said, I'll relay this to specifically our login team, but at least for the purpose of today's session too, I definitely got a lot of good feedback for the contact us page.
+
+Becky: So yeah, I really appreciate your time. And, you know, thanks so much for giving your honest, unfiltered feedback. That's that's what we're here for.
