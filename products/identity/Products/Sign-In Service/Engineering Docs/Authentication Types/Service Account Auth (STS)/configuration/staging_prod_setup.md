@@ -57,12 +57,12 @@ With the certificate signed and created you can now create and save a new `Servi
 ```ruby
 service_account_config = SignIn::ServiceAccountConfig.new({
   service_account_id: SecureRandom.hex, # if the STS config already has a specified service_account_id use it instead
-  description: 'A Service Account Client',
-  scopes: ['one or more URL scopes'],
-  access_token_audience: 'STS Client',
-  access_token_duration: 5.minutes,
-  certificates: [cert],
-  access_token_user_attributes: ['one or more user attributes']
+  description: 'A Service Account Client', # the name or a description of the STS client
+  scopes: ['https://client.gov/route1, https://client.gov/route2'], # the URIs this STS config grants access to
+  access_token_audience: 'STS Client', # validated against "aud" field of STS assertion
+  access_token_duration: 5.minutes, # duration must be 5 minutes
+  certificates: [cert], # the signed certificate created above
+  access_token_user_attributes: ['icn'] # user attributes that are passed in the STS assertion and included in the returned token
 })
 service_account_config.save!
 # => true
