@@ -43,7 +43,8 @@
         - 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
         - ✔️ 🟨 [[DevOps] Nate Douglas needs access to Confluence, I guess.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/571)
         - ✔️ 🟨 [[DevOps] Discovery on switching code to use the FIPS-compliant KMS endpoints.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/538)
-
+- **508 Audit**
+    - ❗ 🟪 ✔️ Request 508 Audits for All Applications
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
     - ✔️ 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
