@@ -1,4 +1,4 @@
-# Title, including Monitor name if appropriate
+# 10-10EZ Endpoint Monitoring Playbook
 _last updated: date_  
 
 ## Audience 
