@@ -253,7 +253,7 @@ Here is our [CAIA research support ticket](https://github.com/department-of-vete
 **Pilot 1: TTS (Mac Voice Control) on desktop**
 - Pilot participant: Jamie
 - [CAIA a11y Research - PILOT: Ask VA - Desktop Pilot - Dashboard #92028](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92028)
-- Date and time of pilot session: September 10th at 10:30am-11:30am EST
+- Date and time of pilot session: September 11th at 11am-12pm EST
 
 **Pilot 2: Screen reader on mobile**
 - Pilot participant: SK
