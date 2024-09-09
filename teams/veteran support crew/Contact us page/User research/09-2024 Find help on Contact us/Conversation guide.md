@@ -341,8 +341,8 @@ Lastly, if you wanted to try to find answered on VA.gov, you could search in our
 
 >-	Select ‘Explore our resources and support content’
 >-	Search ‘verify identity’
->-	Select ‘Verifying your identity on VA.gov
->-	Scroll down to ‘Here’s what you’ll need for ID.me:’
+>-	Select ‘Verifying your identity on VA.gov`
+>-	Scroll down to ‘How do I verify my identity online?`
 
 Do you have any questions or reactions to what I just reviewed?
 
