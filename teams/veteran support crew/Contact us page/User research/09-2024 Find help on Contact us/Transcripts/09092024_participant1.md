@@ -52,7 +52,7 @@ Becky: Oh, so when, you, so it sounds like when you've gone to the military base
 
 > P1: I talked to the postmaster at the station. He gets all the advisories from the USPS, because it's USPS and then MPS, so it's the MPS, is the military you know, agent form. So they've never seen an advisory. Never heard about it. Completely unfamiliar with Login.gov as a whole, let alone that they're the only authorized agent for in-person verifications. And so yeah, no, nobody, nobody saw it coming.
 
-> P1: I used to have this mantra in the military. I always did as a supervisor education before implementation. That was my mantra, and that's what they've done is they went ahead and implemented it last month. And all these people is, I'm, you know. I'm [age], and I'm a young buck among the retirees. But I'm also, you know, the calm guy. So I'm trying to help people, you know, techno with technical troubleshooting all these workarounds, even just to help them get it, ID me, and see if they can do a video verification.
+> P1: I used to have this mantra in the military. I always did as a supervisor education before implementation. That was my mantra, and that's what they've done is they went ahead and implemented it last month. And all these people is, I'm, you know. I'm [number], and I'm a young buck among the retirees. But I'm also, you know, the calm guy. So I'm trying to help people, you know, techno with technical troubleshooting all these workarounds, even just to help them get it, ID me, and see if they can do a video verification.
 
 > P1: But like I said. We've ruled out Login.gov is not an option for any of us, because Post Office is the last option that doesn't work. Nobody's thought about it yet.
 
