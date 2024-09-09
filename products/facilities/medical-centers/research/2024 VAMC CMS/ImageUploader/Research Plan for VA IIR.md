@@ -125,6 +125,7 @@ Thursday, August 29th:
     - Amanda Klausmeier
     - Michelle Middaugh
     - Marisa Dominguez
+    - Jordan Wood
     - Jeff Barnes
     - Christian Burk
     - Edmund Dunn
