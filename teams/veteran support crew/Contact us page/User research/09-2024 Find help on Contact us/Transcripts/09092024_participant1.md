@@ -106,17 +106,92 @@ Becky: Sorry. Pausing there. Can you tell me a little bit more about the hate fo
 
 > P1: You know. Do to make you feel like, oh, I'm being there. It's being responsive, and it's helping me, and my experience with them is they just, just a little infuriating, because it's just like, Oh, you want me to keep you. You don't want you don't want to hear my question. You want me to ask the question that matches the answers. So it keeps on trying to change my initial inquiry into here, let me throw some keywords at you, and if any of these keywords work for me, I've got an answer for that.
 
-> P1: So it's like it doesn't necessarily want to try and interpret my question, or I didn't have the right keywords the way I phrased it. So it's kind of like, you know, leading me down this path, that well, I'm going to give you an answer that I already have, because I had this team put together 87 pre-formatted responses. And we're going to force you to accept one of those 87 answers, and we'll try and get as close as we can. So that's why, initially, I'll ignore the chat bot
+> P1: So it's like it doesn't necessarily want to try and interpret my question, or I didn't have the right keywords the way I phrased it. So it's kind of like, you know, leading me down this path, that well, I'm going to give you an answer that I already have, because I had this team put together 87 pre-formatted responses. And we're going to force you to accept one of those 87 answers, and we'll try and get as close as we can. So that's why, initially, I'll ignore the chat bot, you know, from the get. Go to see what my other options are.
 
+> P1: Call us, unless I got up really early, and you know, beat the, because of the time  Zone difference is, you know if I can be the first in the queue that day.
 
+> P1: Otherwise I've been on the phone with VA And it's 20, 30, 40 min. A flip of the coin. I get a helpful representative or somebody that's just flipping through the binder looking for, you know. Here, let me send you over here.
 
+> P1: So contact local VA facility. There are no local VA facilities overseas.
 
-Call Us, I don’t like because I will have to be up early and then I’ll be on the call 30-40 minutes and depending on if I get a helpful person. I might go to FAQ’s like if I lost my drivers lisence. 
-*What would you expect if you clicked Contact Us online? -Contact Us form with a bunch of dropdowns and probably give you a couple of options before you submit. I expect a detailed Contact Us form. 
-What I would want to know is, before calling, what is expected from us to bring. 
+> P1: Explore facts and other resources. While again, going with the premise that I'm just slamming on the page for the first time, and I'm trying to create an account, but I don't have the proper IDs.
 
-*Without that information, who would you choose what phone number to call?  -I’m old school, I would call the 24/7. The other phone numbers are not applicable. I would fill out a form, webmail form first, then it prompts you to a number you might call.]
+> P1: I might go there, just as you know. See if there's a workaround for the whole lost my driver's license
+ 
+> P1: Helpful online tools, just kind of feels repetitive. So I would probably jump back up and contact us online to the VA.
+
+Becky: And what do you think that means, contact us online through Ask VA?
+
+> P1: That probably be presented with a contact us form with lots of dropdowns to try and narrow, you know, where it's gonna go to, and sometimes nowadays, they, you know, give you a couple options, text it, and go. Here's the information, you know, before I submit.
+ 
+> P1: So yeah, I just expect, you know, a fairly, not exhaustive, but a fairly detailed contact us form to make sure I'm, you know, focus my question and get it to the right people.
+
+Becky: Is there a reason in particular why you would want to do this channel versus all the other ones first?
+
+> P1: I never just like, you know, do a one-off. I would do like, I will use this to get an idea, or because it's just like on the phone. That's one of the reasons why I hate the phone calls is they often don't say...
+
+> P1: Oh can I cheat and look at the drop down for the callers?
+
+Becky: Oh, yes, yeah. Feel free to interact with the page, too. Yeah.
+
+> P1: Ao here, all that's giving me is the phone number. And what I would want to know is, when calling, we'll need the following information.
+
+> P1: So this came up exactly. This is the exact same thing came up Sunday in our veteran Forum is the gentleman had no idea where his DOD ID number was.
+
+> P1: So he had his social security number, but he had no idea what his DOD ID number was. I said, you know, where's your ID card? Where's I asked him a couple of things, and he says, Well, you know, like the driver's license, "I misplaced my id card."
+
+> P1: It's the only ID. It's the only number, and I'm trying to get from DEERS. But it won't let me log onto the page, using ID me.
+
+> P1: So I said, well, I can't help with ID me and look at all my previous posts.
+ 
+> P1: But you know, certainly you you know. Check your any of your other options, as you know whether it's a hospital visit or the from, see your receipt. Everything's gonna have your DOD id number on it.
+
+> P1: So point of that story is, before calling a number, I would like to know what information I need to have before I can pick up the phone.
+
+> P1: So it just kinda you know, it's because I don't want to, I don't want to sit on hold for 20 min, and have them say, Well, can I, oh, I'll need your case number for that.
+
+> P1: I don't know my case number. Now you're going to make me look up my case number. So I'd rather say, you know, before you call, it will be helpful to have the following information available to, you know, get you to the right department.
+
+> P1: because, you know, they're just assuming they're, they've got, you know, the wizard on the other end of that phone number that automatically knows everything about me.
+
+> P1: And I'm just going to say, oh, my name's [name]. And oh, Hi, [name], yeah, we got you right here.
+
+> P1: Well, there's only 2 of us in the world, so with me it's a safe bet. But for John Smith, he could be there for hours trying to find him. So if there were.
+
+> P1: So my hesitancy with picking up the phone is you don't even know what I'm calling about, so kind of help me out here what I'm going to need before I waste my time sitting on hold only be asked a series of questions
+
+> P1: And maybe it's my spouse. Because my hearing aid batteries died. And now she's holding the phone for me, and she's like, they need to know what your DOD ID number is.
+
+> P1: So all those kind of things, I would want to know before I can pick up the phone. It's like, this is what I need to do in order for them to help me.
+
+Becky: Yeah that's great feedback. I'm curious, you know, on this current page, without that information that you were mentioning about what you might need. How would you go about choosing which phone number to call in this scenario? Walk me through how you're deciding which phone number to call.
+
+> P1: Just, you know, I'm old school. I remember the 411, I would initially, that would be because it's the first number presented. It's 24/7. That would be the first number.
+
+> P1: I don't need teletype benefits hotline.
+
+> P1: I probably, same thing, would probably be working with the VSO. GI Bill hotline, not applicable.
+
+> P1: The other phone numbers again, unless again, depending on, because the, you know, premise of your first question being, you know, I want to sign up, but without, you know, my passport doesn't work, and I lost my driver's license.
+
+> P1: I I probably wouldn't want to go through the full list of helpful VA numbers.
+
+> P1: I'd probably, just like I said, go ahead and fill out a form, then go ahead. But then, that's what I was saying at the onset is, I usually do the webmail form first, because that gets to this whole issue, about which phone number to call
+
+> P1: Once I fill out the form, it's like, Oh, crap! I need my DOD ID number, I might need my, you know, depending on my question. Okay, this really has to do with E benefits. So I might as well get my case number.
+
+> P1: So by filling out the web forms, I get a better idea of what I need to be prepared for to talk to the person on the phone.
+
+> P1: Like I said, it might present me with some drop downs further narrow what my area of interest is. Maybe there's a separate section, just for technical technical support of creating accounts or troubles with logging in. So I would fill out the form.
+
+> P1: But I'm not gonna just walk away and wait for an email response. Then I would pick up the phone.
+
+> P1: And while I was on hold, I'd probably even hit up the chat bot to see what kind of automated response, I'm, you know, that I'm going to get. So I usually take a 2, 3 pronged approach solving this stuff.
+
+Becky: Yeah, you, it sounds like you don't want to put all your eggs in one contact basket, so to speak. I'm really curious if your, this process will change for the next scenario. So I'll go ahead and give that one, too.
+
 ### Claims scenario
+Becky: 
 [I know the benefits section is a completely different animal. I’m going to scroll down through this VA stuff, top section. I see the first VA benefits hotline but I’m going to keep scrolling. Now, I’m confused because they’re three separate numbers. I will go back to VA health benefits hotline.
 What would you do next if you didn’t get your answer there? -Assuming that I already had that signed in active account, and I can quickly narrow down what department of the VA.
 
