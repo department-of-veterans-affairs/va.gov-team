@@ -3,6 +3,7 @@ Sprint 19: 9/10/24 -  9/23/24
 
 ## 📅 Upcoming Dates  & 🏖️ PTO
 * Drew 1/2 day PTO 9/13 & all day 9/16
+* note Brad and Clayton were out sick at the start of this sprint
 
 ## 📣 Announcements
 
