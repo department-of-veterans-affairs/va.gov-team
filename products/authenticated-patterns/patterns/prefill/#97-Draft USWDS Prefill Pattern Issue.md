@@ -6,7 +6,7 @@ This feature request for a prefill pattern addresses the challenge of effectivel
 
 ## Why USWDS needs this component
 
-The addition of a prefill pattern to the USWDS is essential for enhancing the efficiency and user experience of government forms. Government agencies frequently require users to complete a variety of forms, from tax filings to benefit applications. The prefill pattern addresses several key challenges and aligns with federal laws and guidance on user-centric design.
+The addition of a prefill pattern to the USWDS is essential for enhancing the efficiency and user experience of filling out government forms. Government agencies frequently require users to complete a variety of forms, from tax filings to benefit applications. The prefill pattern addresses several key challenges and aligns with federal laws and guidance on user-centric design.
 
 **Key Interactions and Current Gaps**
 
