@@ -12,6 +12,7 @@ Started June 26, 2024
 - No longer need a "coming soon" section or "Go back to the previous version of My HealtheVet" link. Therefore, decided that the expandable alert provided little value to the Veteran. 
 
 ###3. 
+
 [Implementation ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86489)
 
 ### Landing page content for no-access alerts
