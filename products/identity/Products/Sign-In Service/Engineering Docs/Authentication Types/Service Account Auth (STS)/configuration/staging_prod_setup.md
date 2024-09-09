@@ -14,7 +14,7 @@ Leaving the terminal window open for an extended period will eventually cause it
 
 ## Creating a Public Certificate
 
-The created Service Account Config will need to include a public certificate in order to validate the service account assertion sent by the STS client.
+The created Service Account Config will need to include a public certificate in order to validate the service account assertion sent by the STS client. These certificates are generated from private keys, and the key-certificate pairs are [stored in AWS EKS](https://us-gov-west-1.console.amazonaws-us-gov.com/systems-manager/parameters?region=us-gov-west-1&tab=Table#list_parameter_filters=Name:Contains:sts-client).
 
 For staging and production you will need to use Venafi to create and download the private key and linked public certificate for your STS config. Instructions on how to do this [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/Security/Venafi%20Create%20and%20download%20TLS%20certificates.pdf).
 
