@@ -1,5 +1,5 @@
 # Medallia feedback surveys: Trigger events and questions
-Updated by @beckyphung on: August 19, 2024
+Updated by @beckyphung on: September 9, 2024
 
 ## Background
 We will include two Medallia surveys in the Ask VA flow, an intercept survey and a feedback button. The intercept survey will interrupt 5% of users based on a triggering event (a step in the flow). 
@@ -45,4 +45,4 @@ See example:
 |Question|Answer choices|
 |:---|:---|
 |How was your experience contacting VA today?|Very bad<br>Somewhat bad<br>Neither good nor bad<br>Somewhat good<br>Very good|
-|Please tell us what would make it easier to contact VA.|*Text area*|
+|Please tell us what would make it easier to contact VA.|	Please don't enter personal information into the text box. This includes your name, address, Social Security Number, medical information or anything else that someone could use to identify you.|
