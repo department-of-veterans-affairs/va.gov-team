@@ -2,6 +2,30 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
+<summary>SPRINT 17 - 10/2/2024-10/15/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 17 - 10/2/2024-10/15/2024
+- **Production Support**
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89593)
+    - **Move to New AWS Instance**
+      - TBD
+- **Community Care Direct Scheduling**
+    - **Sprint Goals is to ...................**
+    - TBD
+- **Upcoming VAOS Appointments**   
+    - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
+    - TBD
+- **Check in with staff after checking in**
+    - TBD
+- **CIE Analytics**
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
+    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
+- **Tech Debt**
+    - 🟩 [Use the Design System Action Link Component ](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3136)
+        - Check on DS component update
+</details>
+
+<details>
 <summary>SPRINT 16 - 9/18/2024-10/1/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 16 - 9/18/2024-10/1/2024
@@ -31,8 +55,6 @@
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
 - **Tech Debt**
     - 🟥 [[CAIA intake] Edit existing content on a resources and support page from Check in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80574)
-    - 🟩 [Use the Design System Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9179)
-        - Check on DS component update
     - 🟩 [Handle Autocomplete Issue with VA DS Text Input component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92167)
 </details>
 
