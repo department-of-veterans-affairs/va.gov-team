@@ -1,6 +1,6 @@
 # Log a SNOW ticket to Oracle Health
 
-## Log a SNOW ticket directly to Oracle Health's support team:
+## Log a SNOW ticket directly to Oracle Health's support team
 - Access VA's [yourIT Service Portal](https://yourit.va.gov/va)
 - Select "Report an Issue". 
 - If there are any existing issues and your issue is not listed, select "Report a New Issue" at the bottom of the page
@@ -17,7 +17,13 @@
   -   Please enter the Name, EE Number and/or hostname of the affected system: Type "N/A"
   -   Click Submit button (on the right)
 
-## Log a SNOW ticket directly to Oracle Health's support team (with screenshots):
+## Engage Oracle Health IRC
+To escalate a Production issue for immediate resolution, engage Oracle Health's IRC - Immediate Response Center
+1. Log SNOW ticket to Oracle Health
+2. Notify EHRM contact person
+3. Call the IRC: [Need phone number from Oracle Health]
+
+## For Reference: SNOW ticket instructions WITH screenshots
 - Access VA's [yourIT Service Portal](https://yourit.va.gov/va)
 - Select "Report an Issue". 
   
