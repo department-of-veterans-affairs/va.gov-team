@@ -11,7 +11,14 @@
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to ...................**
-    - 🟦🟩 TBD
+    - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
+    - 🟦🟩 [[Eng] Create code to handle not double booking an appt at the same time ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89730)
+    - 🟩 [[FE] Audit wireframes to determine what FE UI tickets need to be created to finish buildout out the FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91916)
+    - 🟦 [Get vets-website staging env pointing to WellHive Sandbox ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)    
+    - 🟦 [[BE] Test View Provider Services Available Slots API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91921)
+    - 🟦 [[BE] Test Cancel a Booked Appointment API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91924)
+    - 🟦 [[BE] Test Search a Patient's Appointments API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91923)
+    - 🟦 [[BE] Test Book an Appointment into a Slot API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91922)
     - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
 - **Upcoming VAOS Appointments**   
     - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
