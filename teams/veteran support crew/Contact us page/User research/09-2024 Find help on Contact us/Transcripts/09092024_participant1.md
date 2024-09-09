@@ -46,7 +46,17 @@ Becky: Yeah, I'm I'm really sorry to hear that it sounds like, you know, you're 
 
 > P1: The last one you're presented with is, go to your local post office. It's only post offices in the Continental United States. So even though we have military post USPS, postal service stations overseas, they haven't even identified that as being an option, and that's the only that is literally the last option available to anybody living overseas is to go to the nearest military base. Go to the USPS. Uou know. It's the Military Operated Office in USPS to go there, but they they know nothing about this program at all, so we can't even get it verified in person anywhere.
 
-We can’t get anything verified anywhere. In-person, they have never heard of it. I talked to the US Postmaster and they have never seen any advisory and are unfamiliar with VA.gov. No body saw it coming.]
+Becky: Oh, so when, you, so it sounds like when you've gone to the military base for that last in-person option, they don't know. 
+
+> P1: Never. They've never heard of it, and they have nobody to contact, because, you know, you pull up the webpage on your phone and you show them how this one shows, and and they've never heard of it.
+
+> P1: I talked to the postmaster at the station. He gets all the advisories from the USPS, because it's USPS and then MPS, so it's the MPS, is the military you know, agent form. So they've never seen an advisory. Never heard about it. Completely unfamiliar with Login.gov as a whole, let alone that they're the only authorized agent for in-person verifications. And so yeah, no, nobody, nobody saw it coming.
+
+> P1: I used to have this mantra in the military. I always did as a supervisor education before implementation. That was my mantra, and that's what they've done is they went ahead and implemented it last month. And all these people is, I'm, you know. I'm 61, and I'm a young buck among the retirees. But I'm also, you know, the calm guy. So I'm trying to help people, you know, techno with technical troubleshooting all these workarounds, even just to help them get it, ID me, and see if they can do a video verification.
+
+> P1: But like I said. We've ruled out Login.gov is not an option for any of us, because Post Office is the last option that doesn't work. Nobody's thought about it yet.
+
+> P1: And you know, maybe tweaking their browsers, trying some other options, where again, even the ones that got video verified with ID me still doesn't work, so I'm walking them through. I'll try this browser, and, you know, disable this and clear that, and they still can't logged in, and there's no nobody to turn to, because ID me when they say, Hey, id me! I'm using you to authenticate, and I'm just caught in this endless loop.
 
 ## Scenarios
 ### Login scenario
