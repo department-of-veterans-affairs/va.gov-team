@@ -6,11 +6,9 @@
 
 ## Audit Results 
 
-
-
 ## Epic to Address Issues
 
-[Address 508 Audit Issues](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/59304)
+[Address 508 Audit Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65598)
 
 ## Re-Audit Results
 
