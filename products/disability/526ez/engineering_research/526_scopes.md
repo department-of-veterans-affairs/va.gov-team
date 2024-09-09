@@ -127,6 +127,10 @@ Anything and everything that is not `success_type` or `incomplete_type`. This is
 
 NOTE: in spirit we are just saying `where not success_type or incomplete_type`, however this was causing postgres timeouts. the current implementation filters each subcondition 1 by 1
 
+#### failure_type edge case
+
+We build the failure_type scope with a step by step, subtracive query to avoid timeouts in the database. There is an edge case where a submission succeeds the happy path during the execution of this filtering. The way it works is essentially that by the time we subtract everything `in_process`, the submission is no longer in process. This seesm to only happen on the happy path so we have addressed it in [this pull request](https://github.com/department-of-veterans-affairs/vets-api/pull/18364)
+
 ### with_exhausted_primary_jobs
 All of the following must be true
 - has no `submitted_claim_id`
