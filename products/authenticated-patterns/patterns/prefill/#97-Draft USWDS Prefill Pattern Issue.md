@@ -54,7 +54,6 @@ This prefill pattern will include the following components and content:
 **For unauthenticated users:**
 - They will see an unauthenticated alert at the top of the form informing them to sign in to update their information online.
 <img width="483" alt="Screenshot 2024-09-09 at 10 01 36 AM" src="https://github.com/user-attachments/assets/b86216d4-b186-4fbe-9c65-a994c3772e02">
-<img width="641" alt="Screenshot 2024-09-06 at 9 26 29 AM" src="https://github.com/user-attachments/assets/006bd600-f9eb-42f4-ae56-0367d3c3104c">
 
 - Once signed in, before they begin the form, users will see an alert stating “Note: Since you’re signed in to your account, we can prefill part of your form based on your account details. You can also save your form in progress and come back later to finish filling it out.”
 <img width="650" alt="Screenshot 2024-09-06 at 9 27 12 AM" src="https://github.com/user-attachments/assets/a1b282bc-bd70-4c5e-9dcd-7488896846d0">
