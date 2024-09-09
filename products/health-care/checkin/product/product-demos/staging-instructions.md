@@ -69,17 +69,25 @@ You can use one of the following test patients.
 ## Testing Patient Check-in
 - NOTE: you will only be able to check-in if you appointment time is no more than 45 minutes from now and no more than 15 minutes ago
 - Do one of these
-    - Text "Check in" to 254-278-2622 (this is the phone number for Staging SMS)
+    - Open the link supplied to you manually by a team member
     - Open the link that you copied after creating an appointment in the Staging tool
+    - Text "Check in" to 254-278-2622 (this is the phone number for Staging SMS) (you can only do this if our staging tool has been seeded with your mobile phone number)
 - Enter the last name for your assigned test patient
 - Enter the 2-digit month, 2-digit day, and 4-digit year of your assigned test patient's date of birth 
-- Click "Continue" or hit Enter
-- NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
-- Answer "Yes" to the "Current Contact Information?" questionv
-- Answer "Yes" to the "Current Emergency Contact?" question
-- Answer "Yes" to the "Current Next of Kin?" question
-- NOTE: if "No" is selected for any of the Demographics information, the Veteran will be instructed to check-in with a staff memeber
-- Click "Check in now" on your appointment
+- Click "Continue"
+- Click "Check in now" link
+- Answer "Yes" to the "Have you arrived at your VA health facility?" question
+- Answer "Yes" to the "Is this your current contact information?" questionv
+- Answer "Yes" to the "Is this your current emergency contact?" question
+- Answer "Yes" to the "Is this your current next of kin information?" question
+  - NOTE: if "No" is selected for any of the Demographics information, the Veteran will be instructed to check-in with a staff memeber 
+  - NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
+- Answer "Yes" to the "Would you like to file a travel reimbursement claim?" question
+- Answer "Yes" to the "Are you claiming only mioleage and no other expenses?" question
+- Answer "Yes" to the "Did you travel in your own vehicle?" questionv
+- Answer "Yes" to the "Did you travel from your home address?" question
+- Check the "Beneficiary travel agreement penalty statement" checkbox
+- Click "Agree to these terms"
 
 ## Testing Patient Pre-Check-in
 - NOTE: you will only be able to do Pre-Check-in before the appointment day
@@ -89,24 +97,24 @@ You can use one of the following test patients.
 - Enter the last name for your assigned test patient
 - Enter the 2-digit month, 2-digit day, and 4-digit year of your assigned test patient's date of birth 
 - Click "Continue" or hit Enter
-- Click "Answer Questions"
+- Click "Review your information now" link
+- Answer "Yes" to the "Is this your current contact information?" questionv
+- Answer "Yes" to the "Is this your current emergency contact?" question
+- Answer "Yes" to the "Is this your current next of kin information?" question
 - NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
-- Answer "Yes" to the "Current Contact Information?" questionv
-- Answer "Yes" to the "Current Emergency Contact?" question
-- Answer "Yes" to the "Current Next of Kin?" question
-
+   
 ## Testing Day of Appointment Travel Claim Submission
 - NOTE: you will only be able to do on the day of the appointment day
-- Do one of these
-    - Open the link that was provided to you manually by a team member    
-    - Open the link that you copied after creating an appointment in the Staging tool
+- Open the link that was provided to you manually by a team member
+  - NOTE: you will not be able to use the Staging Tool to create these links
 - Enter the last name for your assigned test patient
 - Enter the 2-digit month, 2-digit day, and 4-digit year of your assigned test patient's date of birth 
-- Click "Continue" or hit Enter
-- Click "Answer Questions"
-- NOTE: If the status for Contact, Emergency Contact, and Next of Kin have been updated in the last 7 days (e.g. you have confirmed you information in a different  Pre-Check-in or Check-in), the following questions will not be asked; you can reset your Demographic information status's by using the Staging Tool in order to force the applications to again ask these questions outside of the 7-day period
-- Answer "Yes" to the "Current Contact Information?" questionv
-- Answer "Yes" to the "Current Emergency Contact?" question
-- Answer "Yes" to the "Current Next of Kin?" question
+- Choose the "File a mileage-only claim" link
+- If you selected a link with multiple appointments, choose an appointment
+- Click Continue
+- Answer "Yes" to the "Did you travel in your own vehicle?" questionv
+- Answer "Yes" to the "Did you travel from your home address?" question
+- Check the "Beneficiary travel agreement penalty statement" checkbox
+- Click "Agree to these terms"
 
 
