@@ -1,4 +1,43 @@
 # Running Design and Research Agenda
+
+## September 9 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang, Ray Messina
+- Facilitator: Syd
+- Next meeting facilitator: Steven
+- Agenda Topics
+	- Discuss FMP Prefill
+	- Discuss "synthesis checkpoints"
+ 	- Discuss OHI CHanges
+  	- Talk about interviews
+ 
+### Notes
+- Premal worried about messaging for "apply to this form" but it will apply to the FMP systems
+- Premal and Lois are in agreement that the pattern looks good to move forward
+- Jamie showing that Part C needs to be included in the OHI PDF updates -- current PDF harms Veterans exiperiences, would like the PDF to be update to accurately reflect what the processing team needs
+- Jamie proposes some potential options for shortening the form and making the experience more streamlined -- looking for information about how to move forward
+- If we make OHI updates on the frontend, it also impacts engineers because we need to stamp onto the PDF with these changes
+- Rachael spoke with all folks that Lois suggested while looking into their synthesis checkpoints -- no other teams do this to an extent beyond what our teams do
+- Lois wants the synthesis checkins because she's having a hard time connecting the findings to the notes, so it'll make it easier for her to understand the final report (so she knows what's coming, other than just reviewing the end report)
+- TBD whether or not Rachael and Steven will be the ones doing the CHAMPVA Claims analysis -- will need to do some sort of handoff to Jamie that Lois would like to be part of
+- Hopefully Rachael and Steven will have some initial synthesis findings before rolling off the project, so they can pass off information to Jamie and Lois -- they will pass off whatever they have
+- Andrea suggests figuring this out moving forward with the new team and how they communicate the research back to Lois (improve the report itself, not just the communication)
+- Lois suggests possibly doing a "topline" report
+- Steven explains that our research team already does more than many other research teams, as he has spoken to other teams
+- Andrea suggests we wait to change the process until the new team starts and create it as a team norm instead of trying to change it now
+- Premal thinks we need some sort of sync before the new team starts just so this CHAMPVA Claims analysis can be what Lois wants
+- Rachael says we should wait until we get the 6-8 interviews done before we move forward with synthesis -- currently blocked by Perigean not recruiting enough people
+  
+### Decisions and action items
+- Syd to follow up with designers and CAIA to make sure the "applies to this form" copy is accurate and clear for users
+- Premal to talk with Delaney about updating the form -- see if we want to update it now or wait til post launch
+- Jamie to clean up OHI file and get it ready to share with stakeholders (low priority though)
+- Plan is to try to get as many more interviews in as we can, and cut it off on Wednesday 9/11
+- Lois to follow up with Perigean about no-shows
+- Synthesis check-ins to be determined by new team structure
+
+
+
+
 ## August 26, 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang
 - Facilitator: Rachael
