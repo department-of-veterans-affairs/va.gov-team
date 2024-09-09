@@ -26,6 +26,26 @@
 - Andrea suggests we wait to change the process until the new team starts and create it as a team norm instead of trying to change it now
 - Premal thinks we need some sort of sync before the new team starts just so this CHAMPVA Claims analysis can be what Lois wants
 - Rachael says we should wait until we get the 6-8 interviews done before we move forward with synthesis -- currently blocked by Perigean not recruiting enough people
+
+- Double notes from Jamie:
+- F2 Prefill:
+Is it confusing to state that the address will only update on this “form”? Premal to this bring up in a leadership meeting but what we have now maybe ok for launch.
+Consider changing it to “this applies to FMP forms”
+We found out that you cannot change the Name , DOB and SSN through VA Profile online.
+Premal and Lois are good with the overall Prefill pattern
+- Synthesis checkpoints:
+This will act as a checkpoint mid-synthesis to lessen the time it takes for Lois to look through the report at the end.
+With Lois not being involved in the synthesis at all has made it difficult for her look through the final report.
+Lois wants to be apart of the handoff when Rachael and Steven leave
+There may be a checkpoint before they leave but we can be sure depending on timing
+There will be a handoff of the synthesis from Rachael and Steven to Jamie and Lois once they roll off
+The goal is to improve the communication between the synthesis and report. Lois expects for it to serve as a way to talk me through what is happening for clarity.
+Lois and Premal are trying to standardize the way the healthcare teams work.
+The Checkpoint would be more related to how the final report gets shaped and not related to how the research gets done. 
+Andrea suggested setting up as a norm for the “new team” to handle the checkpoint. 
+Involve Jamie in the research over the next few weeks
+Make Wednesday as a cutoff date for getting interviews.
+Lois will discuss concerns with no-shows into her meeting with Perigean.
   
 ### Decisions and action items
 - Syd to follow up with designers and CAIA to make sure the "applies to this form" copy is accurate and clear for users
