@@ -3,6 +3,12 @@
 We want to use the unified sign in page and the sign in modal to help encourage folks to make the transition from the MHV and DSL legacy credentials that are being sunset. Our design exploration especially includes de-emphasizing the legacy credentials, and adding content about how to transition to one of the modern credential options (Login.gov and IDme). We'll also test an interstitial that could be used to escalate communications, to focus of the interstitial testing will be proposed content and flow.
 - [product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/usip-legacy-logins)
 
+### Related research
+
+- [2023-04 Proactive CSP Migration](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/280)
+- [2023-02-Grandfathering-Migration-Round-1-Usability #235](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/235)
+- [2022-07 MHV transition to Login.gov as a single sign-on #157](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/157)
+
 ## OCTO Identity Crew Objectives
 - Objective 1: Create a smooth transition for Veterans from legacy to modern sign-in credentials
   - KR1: The number of users who have a MHV credential and neither ID.me or Login.gov is reduced to less than 500K by Oct 31, 2024 and to less than 100K by Jan 31, 2025
