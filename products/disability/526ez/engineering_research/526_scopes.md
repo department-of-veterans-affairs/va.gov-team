@@ -54,14 +54,14 @@ All of the following must be true:
 
 - has been sent to the primary path (has a `submitted_claim_id`)
 - has been sent either to LH (with successful PDF upload) or EVSS
-- now looks at both accepted_to_evss_primary_path and pdf_found scopes
+- now looks at both accepted_to_evss_primary_path and accepted_to_lighthouse_primary_path scopes
 
 ### accepted_to_evss_primary_path
 
 - has been sent to the primary path (has a `submitted_claim_id`)
 - the submit endpoint is either null or it's not LH ('claims_api')
 
-### pdf_found
+### accepted_to_lighthouse_primary_path
 
 - has been sent to the primary path (has a `submitted_claim_id`)
 - was submitted to LH's 'claim_api'
