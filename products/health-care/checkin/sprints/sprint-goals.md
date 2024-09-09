@@ -77,6 +77,8 @@
     - ❗ 🟪 ✔️ Request 508 Audits for All Applications
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
+    - ❗ 🟦🟩 [[BE][FE] Evaluate the sample consult and determine if we will have access to all of the information ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92475)
+        - Added on 9/9; request by Stephen during the SOS
     - ✔️ 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
     - 🟦🟩 Conduct some KT and ticket creation party (Lee)
     - ❗ **Check (with Stephen) if we're unblocked to push up new PRs (due to ongoing discussion about EPS information in vets-website repo)**
