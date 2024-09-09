@@ -18,7 +18,7 @@
   -   Click Submit button (on the right)
 
 ## Engage Oracle Health IRC
-To escalate a Production issue for immediate resolution, engage Oracle Health's IRC - Immediate Response Center
+To escalate a Production issue for immediate engagement, engage Oracle Health's IRC - Immediate Response Center
 1. Log SNOW ticket to Oracle Health
 2. Notify EHRM contact person
 3. Call the IRC and follow prompts for IRC: ```(866) 221-8877```
