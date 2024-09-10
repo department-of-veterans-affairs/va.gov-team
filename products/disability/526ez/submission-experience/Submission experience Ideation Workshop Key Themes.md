@@ -145,7 +145,7 @@ Workshop group 1 generated key ideas:
 -   **Email & SMS Updates:** Notify claimants of the VA's request via
     email or text message instead of traditional mail.
 
-### **[Submission Record and Tracking]{.mark}**
+### **Submission Record and Tracking**
 
 *How might we give Veterans a copy of their submission information?*
 
