@@ -66,8 +66,11 @@
 
 ### Github workflows connected to Zenhub
 
-TK
+- Move ticket into "Code Review" when a non-Draft PR is opened
+- Move ticket into "with QA" after engineering has approved a PR
+- [Linking a pull request to an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+- [Close ticket when a PR is merged](https://dev.to/github/how-to-automatically-close-your-issues-once-you-merge-a-pr-1li4)
 
 ### Active Zenhub Workflows
 
-TK
+- Adding issues to a sprint report
