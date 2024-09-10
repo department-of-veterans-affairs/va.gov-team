@@ -9,6 +9,7 @@ We will add these surveys to ask.va.gov (to establish a baseline) and Ask VA on 
 
 ## Intercept survey
 🚧 Note: As of 9/10, we're still working with the VSignals team to determine the trigger for the intercept survey.
+
 5% of users will see the pop-up modal. They will see the survey after selectig the 'Provide feedback' button on the invitation screen of the pop-up modal.
 <br>![image](https://github.com/user-attachments/assets/72368e5f-939c-4a23-a3de-ac006e8dd8af)
 
