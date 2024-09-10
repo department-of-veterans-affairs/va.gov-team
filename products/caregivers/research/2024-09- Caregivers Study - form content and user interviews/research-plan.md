@@ -85,7 +85,7 @@ Cohort 2: 7 participants
 
 **Primary criteria (must-haves)**
 
-**Cohort 1: Caregivers (15-20 participants)**
+**Cohort 1: Caregivers (14 participants)**
 - Must identify role as "caregiver"
 - We'd mainly like to recruit newer caregivers (enrolled in the past year or so) so we'd like Perigean to gather dates of caregiver enrollment and choose the newest caregivers they get responses from.
 - We'd like to hear from anyone who has selected "caregiver" as their role but want to talk to **at least 7** participants who specify that they are enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC). The rest of the participants can be a mix of yes or no to that screener question.
