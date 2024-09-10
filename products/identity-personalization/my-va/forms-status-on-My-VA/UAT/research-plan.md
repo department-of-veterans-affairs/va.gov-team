@@ -60,10 +60,13 @@ Remotely, via Zoom.
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/MyVA-audit-UAT-conversation-guide.md) 
 
 ## Recruitment	
-We are recruiting Veterans who use various VA benefits and specifically some who use or have used education benefits since we want feedback specific to that type of benefit. We are focusing our other recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md). This includes Veterans living in rural areas, mobile users, and Veterans with no college degree. We'll use Perigean to recruit them.
+
+We are recruiting internal Veteran participants from OCTO and USDS to perform UAT testing in Production with their personal va.gov accounts. This is being done via outreach on Slack. 
 
 ### Recruitment criteria
-[Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/241)
+
+Any Veteran who is, or has very recently, submitted one of the seven forms that are part of the forms status MVP. 
+
 
 ## Timeline
 ### Prepare
