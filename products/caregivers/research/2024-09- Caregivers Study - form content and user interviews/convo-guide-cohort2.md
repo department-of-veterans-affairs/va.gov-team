@@ -6,7 +6,7 @@
 
 - [ ] Open and prepare confirmation screen in Figma for content feedback
 - [ ] Open and prepare prototype for facilities search -- ONLY if not ready in staging/production [pending final confirm, but will be deleting this]
-
+- [Figma prototype](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2938-72931&node-type=instance&t=Zu7Tk6YxVsoRXLWF-1&scaling=min-zoom&content-scaling=fixed&page-id=2468%3A21603&starting-point-node-id=2938%3A72931)
 
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
