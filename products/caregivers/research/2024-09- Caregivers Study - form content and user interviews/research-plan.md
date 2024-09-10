@@ -107,6 +107,8 @@ Cohort 2 Screener questions:
 2. "Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?" (answer should be yes to qualify as an assistive tech user for cohort 2.)
 	- If yes, ask the following question as well: "Please list the name of the screen reader technology you will use during the session." (Free text field for response) If the user mentions a browser extension such as Real Aloud, this disqualifies them from being recruited as a screen reader user.
 
+**Criteria for both cohorts:**
+- Please recruit at least 5 users who will use a mobile device for the session. They can be in either cohort.
 
 **Secondary criteria (nice-to-haves)**
 - Caregivers who can join the session with the Veteran they are a caregiver for
