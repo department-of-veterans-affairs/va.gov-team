@@ -7,6 +7,7 @@
 Reference Docs: 
 - [Dress Rehearsal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/test-plans/Test%20Dress%20Rehearsal.md)
 - [Visual Flow of Testing](https://app.mural.co/t/thoughtworksclientprojects1205/m/thoughtworksclientprojects1205/1724347818244/9bca3672d775ae5fec71d1af118bcb859bce65e2?sender=uc2a4f18a27ff336484232897)
+- [Differences between Categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Similarities%20and%20differences%20between%20categories.md)
   
 **Timeline:**
 IN Progress
