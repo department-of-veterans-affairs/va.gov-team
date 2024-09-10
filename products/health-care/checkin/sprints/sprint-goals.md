@@ -102,6 +102,8 @@
     - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to determine if we have access to all appointment types & their data so that we can define the appt details pages**
+    - 🟦 [[BE] Modify Appointment Serializer for finding appointment types in Upcoming appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91993)
+        - Added by Kanchana on 9/10
     - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
     - 🟦 [[BE] Modify Appointment Serializer for finding appointment types in Upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91993)
     - 🟥 [Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)
