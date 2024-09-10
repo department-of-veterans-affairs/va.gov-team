@@ -61,10 +61,13 @@ Records |  11 | 3
 
 High priority
 - [x] Make edits as indicated in each audit.
-- [x] Submit ticket to CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page.
+- [x] Submit ticket to CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page: [ticket 16902](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16902)  and [ticket 5647](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5647) 
 - [x] Work with product teams that have incorrect URL structures on their forms or tools to get them updated to meet standards. 
-    - This should start with identifying which URLs need to be updated and developing a communication plan
-    - will also test this process with Pension team to identity impacts and options to approach this work
+    - This should start with identifying which URLs need to be updated and developing a communication plan. Documented in [google sheet](https://docs.google.com/spreadsheets/d/1DUAt4-XA-jHj3MZgT-7CsvEVk2tnixFXhJCeaMjgkU4/edit?gid=0#gid=0)
+    - Open tickets for product teams to edit
+        - [H1 of GI Bill Feedback tool ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80512)
+        - [URL for post-9/11 GI Bill statement of benefits tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80295)
+        - [URL for pre-need burial form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80510)
 - [ ] Have initial conversation with Public Websites and potentially CMS team on feasibility of creating an data pull of all the data/content we want to review or just those that have issues, submit ticket if possible for them to prioritize
 
 Medium priority
