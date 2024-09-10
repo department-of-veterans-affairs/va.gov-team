@@ -61,7 +61,7 @@ Records |  11 | 3
 
 High priority
 - [x] Make edits as indicated in each audit.
-- [x] Submit ticket to CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page: [ticket 16902](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16902)  and [ticket 5647](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/5647) 
+- [x] Submit ticket to CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page: [ticket 16464](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16464) 
 - [x] Work with product teams that have incorrect URL structures on their forms or tools to get them updated to meet standards. 
     - This should start with identifying which URLs need to be updated and developing a communication plan. Documented in [google sheet](https://docs.google.com/spreadsheets/d/1DUAt4-XA-jHj3MZgT-7CsvEVk2tnixFXhJCeaMjgkU4/edit?gid=0#gid=0)
     - Open tickets for product teams to edit
