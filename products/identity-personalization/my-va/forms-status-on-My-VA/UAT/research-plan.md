@@ -57,7 +57,7 @@ We'll have participants go through a list of specific tasks for UAT. We will tes
 Remotely, via Zoom.
 
 ### Research materials
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/MyVA-audit-UAT-conversation-guide.md) 
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/UAT/UAT-conversation-guide.md)
 
 ## Recruitment	
 
