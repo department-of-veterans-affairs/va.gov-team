@@ -6,14 +6,82 @@ To test the success of the form status implementation, there is a dilemma in fin
 
 On August 28, 2024, the My VA team held internal discussions as well as a meeting with Perigean to talk through the challenges of recruiting Veterans for this UAT effort. 
 
-Based on those conversations, there are two possible paths we can take moving forward:
+Based on those conversations, there were two possible paths we could take moving forward:
 
-- Starting a "rolling research recruitment" with Perigean in which we actively recruit participants and get them in sessions quickly. Perigean has recommended alloting multiple weeks for this in order to ensure we get enough participants.
+1. Starting a "rolling research recruitment" with Perigean in which we actively recruit participants and get them in sessions quickly. Perigean has recommended alloting multiple weeks for this in order to ensure we get enough participants.
 
-  - If we take this approach, we are likely looking at a delayed rollout to Production, with uncertain ability to really test both of the standard statuses that can appear for users (submission in progress, received).
-  - Shannon Housel has recommended that we plan on hour long sessions just to account for technical difficulties, while cautioning that users may unintentionally report in screeners that they have done one of the seven forms when they have not.
+  - If we took this approach, we are likely looking at a delayed rollout to Production, with uncertain ability to really test both of the standard statuses that can appear for users (submission in progress, received).
+  - Shannon Housel had recommended that we plan on hour long sessions just to account for technical difficulties, while cautioning that users may unintentionally report in screeners that they have done one of the seven forms when they have not.
 
-- Relying instead on QA in Staging, as well as attempting to get assistance from internal OCTO users of VA.gov with UAT using their own personal accounts.
+2. Relying instead on QA in Staging, as well as attempting to get assistance from internal OCTO users of VA.gov with UAT using their own personal accounts.
 
-  - Recruiting internally may have its own challengers.
-  - QA and internal UAT alone may not be sufficient. 
+  - Recruiting internally would have its own challengers.
+  - QA and internal UAT alone could not be sufficient.
+ 
+The decision was made at the beginning of September 2024 to proceed with the second option.
+
+
+### OCTO-DE Objectives 
+
+
+### Veteran Journey
+
+
+## Research Goals	
+The primary goal of our UAT is to confirm that functionality works as expected.
+
+### Outcome
+Based on the outcome of this research study, we will either release the updates to production and/or update our design to correct any issues with functionality.
+
+
+### Research questions
+
+
+### Hypothesis
+
+
+## Method	
+We'll have participants go through a list of specific tasks for UAT and ask follow-up questions to get feedback on our usability related questions. We will test in production using a feature flipper.
+
+### Location
+Remote, via Zoom
+
+### Research materials
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/MyVA-audit-UAT-conversation-guide.md) 
+
+## Recruitment	
+We are recruiting Veterans who use various VA benefits and specifically some who use or have used education benefits since we want feedback specific to that type of benefit. We are focusing our other recruitment criteria on the marginalized groups we didn't speak with during [our last usability study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/research/MyVA-audit-research-findings.md). This includes Veterans living in rural areas, mobile users, and Veterans with no college degree. We'll use Perigean to recruit them.
+
+### Recruitment criteria
+[Link to recruitment request ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/241)
+
+## Timeline
+### Prepare
+
+When will the thing you are testing be finalized? 
+
+All engineering work will be completed after September 10, 2024, specific time TBD.
+
+
+### Research sessions
+What dates do you plan to do research? 
+
+After September 13, 2024. 
+
+### Length of sessions
+Sessions will be 30 minutes, but tasks are expected to take less time than that.
+
+### Availability
+
+
+
+## Team Roles	
+Please list the people who will be serving in each role. 
+
+- Moderator: Matt Marino (matt.marino@adhocteam.us)
+- Research guide writing and task development: Matt Marino
+- Participant recruiting: Matt Marino
+- Project point of contact: Matt Marino
+- Participant(s) for pilot test: Contact info tbd (USDS participants)
+- Note-takers: TBD 
+- Observers: TBD
