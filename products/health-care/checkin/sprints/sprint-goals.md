@@ -80,9 +80,11 @@
     - ❗ 🟦🟩 [[BE][FE] Evaluate the sample consult and determine if we will have access to all of the information ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92475)
         - Added on 9/9; request by Stephen during the SOS
     - ✔️ 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
-    - 🟦🟩 Conduct some KT and ticket creation party (Lee)
-    - ❗ **Check (with Stephen) if we're unblocked to push up new PRs (due to ongoing discussion about EPS information in vets-website repo)**
+    - ✔️ 🟦🟩 Conduct some KT and ticket creation party (Lee)
+    - ✔️ ❗ **Check (with Stephen) if we're unblocked to push up new PRs (due to ongoing discussion about EPS information in vets-website repo)**
+        - Still blocked as of 9/10 SOS
     - ⛔ WAITING ON SCOPE DECISIONS:
+        - Still waiting as of 9/10 SOS
       - ✔️ **First appointment with provider selected** ~or all appointments scheduled within referral expiration?~
       - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
       - ✔️ Still using VA Notify for notification?
@@ -103,15 +105,15 @@
          - Waiting for Appts Team to make content updates 
 - **Stand-alone Travel Application for OH Sites**
     - **Sprint Goal is to address all launch blockers from the Staging Review**
-    - 🟩 [Staging Review finding: Error message not announced to screen reader users ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91803)
-    - 🟩 [Staging Review finding: Inaccurate heading hierarchy on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91795)
-    - 🟩 [Staging Review finding: Link for mileage rates opens in a new tab without warning ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91796)
+    - ✔️ 🟩 [Staging Review finding: Error message not announced to screen reader users ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91803)
+    - ✔️ 🟩 [Staging Review finding: Inaccurate heading hierarchy on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91795)
+    - ✔️ 🟩 [Staging Review finding: Link for mileage rates opens in a new tab without warning ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91796)
     - 🟩 [Staging Review finding: Consistency with page title of application ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91797)
     - 🟩 [Staging Review finding: Sentence structure in BTSSS filing copy ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91799)
     - 🟩 [Staging Review finding: Incorrect list structure in travel-review page penalty statement ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91800)
-    - 🟩 [Staging Review finding: Tab order for buttons flipped on appointment page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91801)
+    - ✔️ 🟩 [Staging Review finding: Tab order for buttons flipped on appointment page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91801)
     - 🟩 [Staging Review finding: Sentence structure in travel-pay page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91798)
-    - 🟩 [Staging Review finding: Summary box for direct deposit information may not be appropriate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91802)
+    - ✔️ 🟩 [Staging Review finding: Summary box for direct deposit information may not be appropriate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91802)
         - ~We need decision from UX before we hand this of to frontend~
     - 🟩 Push to production for internal pilot once all Staging Review issues have been addressed
 - **Travel Claim Submission from Past Appts - Web**
@@ -132,9 +134,9 @@
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91334)
 - **Tech Debt**
     - 🟩 [Pre-Check-in: Update Content for Medication Review ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91919)
-    - 🟩 [Staging Review Feedback: Add Commas to "How to Prepare for Your Appointment" List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91691)
+    - ✔️ 🟩 [Staging Review Feedback: Add Commas to "How to Prepare for Your Appointment" List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91691)
     - 🟦 [[BE] [Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled' and older configs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92006)
-    - 🟦 [[BE][Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92004)
+    - ✔️ 🟦 [[BE][Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92004)
 
 ## SPRINT 14 - 8/21/2024-9/3/2024
 - **Production Support**
