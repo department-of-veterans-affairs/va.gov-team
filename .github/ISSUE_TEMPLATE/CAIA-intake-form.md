@@ -36,6 +36,10 @@ Select all that apply.
 ### What's the nature of your initiative and desired outcomes?
 `Tell us briefly about your work and the outcomes you’re aiming to achieve.`
 
+## Supporting artifacts
+Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. Include artifacts like your product outline, user flows, mockups and prototypes, or any draft content. FOR FIGMA/MURAL: please tell us which screens/board/section to look at so we don't leave comments on old stuff. 
+- [Supporting artifact<name>]
+
 ## Collaboration timeframe
 
 **Note:** We work on nearly every OCTO product and manage all unauthenticated content on VA.gov, so we will need to prioritize intake requests based on overall workload and VA and OCTO priorities.
@@ -74,10 +78,6 @@ Select all that apply.
 
 If you’re going through the collaboration cycle, provide a link to your Collaboration Cycle Request:
 - **Hyperlinked Ticket Number:** 
-
-## Supporting artifacts
-Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. Include artifacts like your product outline, user flows, mockups and prototypes, or any draft content. FOR FIGMA/MURAL: please tell us which screens/board/section to look at so we don't leave comments on old stuff. 
-- [Supporting artifact<name>]
 
 ## Next steps
 - [ ] Review the remaining next steps in the **VFS team tasks** section here.
