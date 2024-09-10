@@ -14,25 +14,31 @@ The 10-10CG form can fit into the [Veteran journey](https://github.com/departmen
 
 
 ## Research Goals	
-1. Learn more about caregiver clarification content needs within the form (vs before/outside of).
+1. Learn more about a caregiver's understanding of the PCAFC program before filling out the 10-10CG to determine if recent content updates have improved comprehension of the program and if additional content changes would be helpful at this stage in the caregiver journey.
 2. Learn more about the overall experience of multiple people completing one form.
-3. Evaluate the usability of the search functionality for locations.
+3. Evaluate the usability of the new location search functionality and confirmation screen content.
 
 ### Outcome
-Based on our findings, we will suggest content updates and work with CAIA to improve clarification of the caregiver designation/change process. We will also determine if any changes are needed for the facility selection process, especially for assistive tech users.
+Based on our findings, we will:
+
+- suggest any identified content needs and work with CAIA to improve clarification of the caregiver designation/change process.
+- determine if any changes are needed for the facility selection process, especially for assistive tech users.
+- conduct a workshop with our CG stakeholders to gather any necessary context about the caregiver journey and/or facilitate a feature prioritization exercise if we hear repeated requests for new features.
 
 ### Research questions
-1. Learn more about caregiver clarification content needs within the form (vs before/outside of).
+1. Learn more about a caregiver's understanding of the PCAFC program before filling out the 10-10CG to determine if recent content updates have improved comprehension of the program and if additional content changes would be helpful at this stage in the caregiver journey.
    - What knowledge of the caregiver program do Veterans and caregivers typically have before filling out the 10-10CG?
    - How do caregivers, both primary and secondary, perceive the existing form content with regards to understanding eligibility and benefits, and where would additional clarification be helpful?
    - Do users struggle with completing any fields in particular? We'll be especially paying attention to how users react to the new "County" field and social security number requirements.
    - Is there a need or desire for applicants to have an authenticated experience that prefills personal information?
 
-3. Learn more about the overall experience of multiple people completing one form.
+2. Learn more about the overall experience of multiple people completing one form.
 	- Who typically completes the form online? Are Veterans and their caregivers signing the form together?
   	- For those who are enrolled, did they sign as a legal representative and what was that experience like?
+	- Are there places in the form where users get confused by the content switching point of view between the Veteran and various caregiver roles and/or who "you" refers to in the form questions?
+ 	- Do users correctly notice when labels for form fields are asking for a specific person's information?
   
-4. Evaluate the usability of the search functionality for locations.
+3. Evaluate the usability of the new facility search functionality and confirmation screen content.
 	- Can sighted and assistive tech users easily use the search input and understand what choices are populated from that search?
   	- Can users easily navigate a long list of search results?
    	- Can users easily do a second search or new search from the search results page?
@@ -64,42 +70,42 @@ Our intended audience for this study is recently appointed caregivers and Vetera
 
 We will split this study into two cohorts:
 
-- Cohort 1 (10-15 participants): Caregivers recently enrolled in the caregiver program (as recent as possible), with or without their Veteran pair
-	- We'll ask for approximate date of caregiver enrollment in the screener questions to narrow it down to the newest caregivers and to show the breakdown in reporting afterwards.
-- Cohort 2 (10-15 participants): Veterans with a disability rating of over 70% who need some assistance to complete daily activities and/or need someone to live with them for help. We will require at least two completed sessions with assistive tech users for cohort 2.
+- **Cohort 1 (14 participants): Caregivers recently enrolled in the caregiver program (as recent as possible), with or without their Veteran pair, and people who selected they are in a caregiver role but may not be legally enrolled in the program**
+
+- **Cohort 2 (7 participants): Veterans with a disability rating of over 70% who need some assistance to complete daily activities and/or need someone to live with them for help.** We will require at least two completed sessions with assistive tech users for cohort 2.
 
 Since we have restrictive criteria for this study and a limited pool of caregivers and severely disabled Veterans to recruit, we'll request that Perigean gather participants who meet the primary criteria first and then aim for maximum variability in all other recruiting factors within the group of applicants who qualify for the study.
 
 ### Recruitment criteria
 Total participants: 20-30
 
-Cohort 1: 15-20 participants (minimum of 10, maximum of 15 if Perigean is able to recruit that many particiants meeting our criteria)
+Cohort 1: 14 participants
 
-Cohort 2: 5-10 participants
+Cohort 2: 7 participants
 
 **Primary criteria (must-haves)**
 
 **Cohort 1: Caregivers (15-20 participants)**
 - Must identify role as "caregiver"
 - We'd mainly like to recruit newer caregivers (enrolled in the past year or so) so we'd like Perigean to gather dates of caregiver enrollment and choose the newest caregivers they get responses from.
-- We'd like to hear from anyone who has selected "caregiver" as their role but want to talk to at least 10 participants who specify that they are enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC). The rest of the participants can be a mix of yes or no to that screener question.
+- We'd like to hear from anyone who has selected "caregiver" as their role but want to talk to **at least 7** participants who specify that they are enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC). The rest of the participants can be a mix of yes or no to that screener question.
 - We'd like to have some pairs of caregiver + Veteran in the study, but it's not a requirement to qualify for the study.
 
-Screener questions:
-1. "Are you enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?" (Recruit at least 10)
+Cohort 1 Screener questions:
+1. "Are you enrolled as a caregiver in the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?" (Recruit at least 7)
 2. If yes, ask the following question:
 	- "Approximately when did you enroll in the VA caregiver program?" (Date picker with month and year) **Please choose the most recently appointed caregivers according to responses from this question.**
 3. Are you willing and able to join the session with the Veteran who you are a caregiver for? (yes/no response) **This isn't a requirement to qualify but a nice-to-have.**
 
-**Cohort 2: Veterans with high disability ratings who need some assistance from others (5-10 participants)**
+**Cohort 2: Veterans with high disability ratings who need some assistance from others (7 participants)**
 - Must identify role as "Veteran"
 - Must have a disability rating of 70% or higher AND must require some assistance from others to complete daily activities
-- Recruit four assistive tech users - at least two AT sessions are needed for this study to be complete
+- Recruit four assistive tech users - **at least two completed AT sessions** are needed for this study to be complete
 
-Screener questions:
+Cohort 2 Screener questions:
 1. "Does your disability require you to need help or assistance from someone else to complete daily activities?" (Answer should be yes to qualify for cohort 2.)
 2. "Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?" (answer should be yes to qualify as an assistive tech user for cohort 2.)
-	- If yes, ask the following question as well: "Please list the name of the screen reader technology you will use during the session." (Free text field for response) This doesn't qualify or disqualify and is meant for researchers' awareness and to encourage people to join using the assistive technology they reported in the screener.
+	- If yes, ask the following question as well: "Please list the name of the screen reader technology you will use during the session." (Free text field for response) If the user mentions a browser extension such as Real Aloud, this disqualifies them from being recruited as a screen reader user.
 
 
 **Secondary criteria (nice-to-haves)**
@@ -112,38 +118,47 @@ Screener questions:
 - Diversity across rural and major metropolitan areas
 
 ## Timeline
-Can start 10am ET
+We would like to request a 30 minute kick-off call with Perigean before recruiting starts. Here are some days and times we're available for the kick-off call:
 
-
-### Prepare
-We would like to request a kick-off call with Perigean before recruiting starts. Here are some days and times we're available for the kick-off call:
-
-* Day/time (TBD)
-* Day/time (TBD)
+* Wednesday, September 11, 12-2pm ET and 3:30-5pm ET
+* Thursday, September 12, 12pm-2pm ET and 3:30-5pm ET
+* Friday, September 13, 12pm-1pm ET and 3-5pm ET
 
 Pilot session:
 
-* Pilot participant email: TBD
-* Date and time of pilot session: TBD
+* Pilot participant email: TBD; want to do it when facilities is ready but we're still scheduling with an internal person
+* Date and time of pilot session: TBD; ideally week of September 16
+
 
 ### Research sessions
-* Planned dates of research: TBD
+* Planned dates of research: Tuesday, October 1 - Friday, October 18
 
 ### Length of sessions
 * Session length: 1 hour (1.5 hours for assistive tech users)
 * Buffer time between sessions: 30 minutes
-* Maximum Sessions per day: 3
+* Maximum Sessions per day: 4
 
 ### Availability
-Will provide session days for double the amount of days we'll need to complete the study. (TBD)
+Tuesday, October 1: 10am ET - 6pm ET
+Wednesday, October 2: 10am ET - 6pm ET
+Thursday, October 3: 10am ET - 6pm ET
+Friday, October 4: 10am ET - 6pm ET
+Monday, October 7: 10am - 5pm ET
+Tuesday, October 8: 10am - 6pm ET
+Wednesday, October 9: 10am - 6pm ET
+Thursday, October 10: 10am - 6pm ET
+Friday, October 11: 10am - 6pm ET
+Tuesday, October 15: 10am - 6pm ET
+Wednesday, October 16: 10am - 6pm ET
+Thursday, October 17: 10am - 6pm ET
+Friday, October 18: 10am - 5pm ET
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: Angela Agosto (angela.agosto@adhocteam.us; 570-807-0619) and Jessica Stump (jessica.stump@adhocteam.us)
-- Research guide writing and task development (usually but not always same as moderator): Angela Agosto and Jessica Stump
+- Moderator: Angela Agosto (angela.agosto@adhocteam.us; 570-807-0619) and Jessica Stump (jessica.stump@adhocteam.us; 509-957-4131)
+- Research guide writing and task development: Angela Agosto and Jessica Stump
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Angela Agosto and Jessica Stump
-- Participant(s) for pilot test: Perigean to recruit
+- Participant(s) for pilot test: James Barrett (Scheduling TBD)
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	CAIA (TBD)
 - Note-takers: Angela Agosto (angela.agosto@adhocteam.us), Jessica Stump (jessica.stump@adhocteam.us), Hieu Vo (hieu.vo@agile6.com), Renata Keck (renata.keck@agile6.com)
-- Observers: TBD
+- Observers: Heather Justice (heather.justice@adhocteam.us), Lois Lewis (lois.lewis2@va.gov), Emily Brown (emily.brown@agile6.com) 
