@@ -119,9 +119,9 @@ Are you comfortable with that?
       - [Login.gov] Have you heard of Login.gov before? Do you know what it is?  Have you used it before?
          - [If no] What do you use it for?
          - [If yes] what was your experience with it?
-   - [ID.me] Have you heard of ID.me before? Do you know what it is?  Have you used it before?
-      - [If no] What do you use it for?
-      - [If yes] what was your experience with it?
+      - [ID.me] Have you heard of ID.me before? Do you know what it is?  Have you used it before?
+         - [If no] What do you use it for?
+         - [If yes] what was your experience with it?
    - [If Login.gov or ID.me or DS Logon ] Let’s pretend today that you want to sign in with My HealtheVet. [Continue to next question]
    - What would you do next?  Can you tell me what you’re seeing? [Are they seeing the new content?  How does it resonate with them?]
 - [Reiterate] We’re not testing your ability or comprehension but we want to better understand how this content comes across for veterans like yourself.
