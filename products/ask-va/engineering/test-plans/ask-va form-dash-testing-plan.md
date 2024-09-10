@@ -42,6 +42,15 @@ IN Progress
     6. Confirm submission in Agent UI, Dashboard, and Check Your Status Tool. 
 - First Priority Test Case: Authenticated Health - I am the Vet - Myself
 
+**Confirmed Automated UI Test Coverage for Start of Testing:**
+This coverage was confirmed as acceptable by the QA resource from the Collaboration Cycle Team
+- An Unauthenticated User, who is the Veteran, is looking for Insurance.
+- An Authenticated User, who is the Veteran, is looking for Health Information.
+- An Unauthenticated User, who is the veteran, is looking for Health Information.
+- An Unauthenticated User, Who is a submitter, looking for information on the dashboard
+- An Authenticated User, who is a submitter, looking for information on the dashboard
+- An authenticated business submitter, going through the education flow  
+
 **Manual Usability & Accessibility Testing**
 - Scope: 
 - Test Cases: Usability, unexpected user behavior, error conditions.
