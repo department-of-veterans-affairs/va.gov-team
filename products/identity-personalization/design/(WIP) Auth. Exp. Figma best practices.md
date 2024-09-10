@@ -65,5 +65,3 @@ Updated September 10, 2024 - file created
 * Ex. Nametag / X
 * Using variants with components as much as possible should be the standard, versus making multiple individual components that simply represent different versions of the same content
 * For any component that is fully unique to Authenticated Experience, the team should advocate for its inclusion in VADS as an experimental component. In doing so, this can also help us sunset our own unique instances in Figma and instead pull from the VADS Figma library. 
-
-Otherwise TBD
