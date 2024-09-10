@@ -74,7 +74,7 @@ Do you remember how confident you felt about your application when you submitted
 
 Do you feel that the VA appropriately set expectations for the process?
 - Why or why not?
-- What do you wish they had told you?
+- What do you wish VA had told you?
 
 If you had to rate your satisfaction with your benefits experience on a scale from 1 to 5, with 1 being Not at all satisfied and 5 being very satisfied, what would you say?
 - Tell us a bit more about why you answered [number]…
