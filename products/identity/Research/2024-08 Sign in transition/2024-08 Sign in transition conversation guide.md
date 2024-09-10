@@ -86,7 +86,7 @@ Are you comfortable with that?
    - Is that how you usually access the VA online?
    - Any particular reason you use [DEVICE] the most
 - When you are on your [phone/computer/tablet] how do you typically bring up VA online? [the mobile app, VA.gov, MHV website, something else]
-- And is there a particular VA service that you normally access?
+- And is there a particular VA service or benefit that you use often?
    - If it varies, what was the reason you visited most recently? [remember this for later on]
 - When was the last time you accessed VA online?  What were you trying to do?
 - It looks like you answered that you use the My HealtheVet sign in option, do we have that right?
@@ -107,7 +107,7 @@ Are you comfortable with that?
 
 
 ### Sign-in Modal 
-- Let’s turn our focus to signing into VA. Let’s say you want to go to check [reference what they mentioned the last time they accessed VA online] 
+- Let’s say you want to go to check [reference what they mentioned the last time they accessed VA online] 
    - Does this page look like where you would normally go?
    - [IF normally uses MHV.gov have them imagine they need to sign into VA.gov for another reason]
 - Would you normally sign in first thing before getting started?
