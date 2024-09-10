@@ -20,37 +20,38 @@ The ['Update prefilled information' in the Wild mural](https://app.mural.co/t/de
   
 ### What is Prefill versus Update Prefill?
 
-Our team has defined the following elements to be part of the Prefill pattern:
+Our team has defined the following elements to be part of the Prefill pattern (Note the actual screenshots may change depending on the research findings):
+
 - Info Alert component
 
-![Prefill Info Alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Info%20Alert%20Component.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Info%20Alert%20Component.png" width="600" />
 
 - Component to show prefilled data
 
   - Locked state
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Locked%20State.png" width="600" />
 
-![Locked state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Locked%20State.png)
+   - Guidance on how to change info that is uneditable on VA.gov
 
-      - Guidance on how to change info that is uneditable on VA.gov
-
-![How to change locked data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/How%20to%20change%20locked%20data.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/How%20to%20change%20locked%20data.png" width="600" />
 
    - Editable state
-
-![Editable state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Editable%20state.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Editable%20state.png" width="600" />
      
-      - Guidance on where the edit will save
+   - Guidance on where the edit will save
 
-![Where the edit saves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Where%20the%20edit%20saves.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Where%20the%20edit%20saves.png" width="600" />
 
 These are the elements which we consider to be part of the Update Prefill pattern:
 - Edit prefilled info page
 
-![Edit prefilled info page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Edit%20prefilled%20info.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Edit%20prefilled%20info.png" width="600" />
+
 - Format of providing old data to edit (See above)
 - Confirmation message when edit is complete
 
-![Confirmation message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Confirmation%20message.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Confirmation%20message.png" width="600" />
+
 - (potentially) Option to select where the edit saves
 
 ### Ongoing Slack Conversations on Update Prefill
