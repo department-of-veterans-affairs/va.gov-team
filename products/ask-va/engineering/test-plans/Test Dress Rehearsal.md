@@ -1,25 +1,24 @@
 # Initial Dry Run aka Dress Rehearsal
 
-  Goal: From this process we hope to gain insight/ feedback into our validation/verification approach and potentially begin testing earlier in our schedule. 
+Goal: Gain insight and feedback into our validation/verification approach. Potentially begin testing earlier in our schedule. 
 
-  For the scope of this intiative, we will be testing the following approaches:
+For the scope of this intiative, we will be testing the following approaches:
+- Automated Test Scripts
+- Integrated Testing
 
-  - Automated Test Scripts
-  - Integrated Testing
+## Automated Test Scrips 
 
-## Automated Test Scrips: 
+The test suite (Cypress) will run a series of steps mirroring a submitter's behavior to test the front end UI of Ask VA on VA.gov.
 
-The test suite (cypress) will run a series of steps mirroring a users behavior to test the front end UI of the AVA Interface (Submitter side).
 Goal: Establish that the functional requirements of the Form as operating as expected for a Submitter. 
 Context: The automated test will execute every action a human takes to complete an Inquiry. 
   
-### Process: 
+### Process
 
 We will test the following flows:
-
 - An Unauthenticated User, who is the Veteran, is looking for Insurance Information.
 - An Authenticated User, who is the Veteran, is looking for Health Information.
-- An Unauthenticated User, who is the veteran, is looking for Health Information. 
+- An Unauthenticated User, who is the Veteran, is looking for Health Information. 
 
 For Overall Test Plan: We plan on developing further automated testing to mock additional user pathways for the Form, as well as the Dashboard. We will run the Cypress Test Suite with some regularity to confirm that as we build our existing features, it will still function as expected. 
   
@@ -27,7 +26,7 @@ Cadence: Test Script automation can still take sometime to run,  ex. 20 seconds 
 
 ## Tools required for AVA: Cypress
 
-### Integration Testing: 
+### Integration Testing
 
 We will test the API integration between the Ask VA front-end on VA.gov and the CRM agent front-end. We will be testing for the correct mapping of Category, Topic, and Subtopic for a collection of 12 permutations (1/10 of the 120 flows.) 
 Goal: Confirm Inquiries are being correctly routed. 
