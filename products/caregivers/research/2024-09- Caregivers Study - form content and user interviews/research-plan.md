@@ -141,19 +141,19 @@ Pilot session:
 * Maximum Sessions per day: 4
 
 ### Availability
-Tuesday, October 1: 10am ET - 6pm ET
-Wednesday, October 2: 10am ET - 6pm ET
-Thursday, October 3: 10am ET - 6pm ET
-Friday, October 4: 10am ET - 6pm ET
-Monday, October 7: 10am - 5pm ET
-Tuesday, October 8: 10am - 6pm ET
-Wednesday, October 9: 10am - 6pm ET
-Thursday, October 10: 10am - 6pm ET
-Friday, October 11: 10am - 6pm ET
-Tuesday, October 15: 10am - 6pm ET
-Wednesday, October 16: 10am - 6pm ET
-Thursday, October 17: 10am - 6pm ET
-Friday, October 18: 10am - 5pm ET
+- Tuesday, October 1: 10am ET - 6pm ET
+- Wednesday, October 2: 10am ET - 6pm ET
+- Thursday, October 3: 10am ET - 6pm ET
+- Friday, October 4: 10am ET - 6pm ET
+- Monday, October 7: 10am - 5pm ET
+- Tuesday, October 8: 10am - 6pm ET\
+- Wednesday, October 9: 10am - 6pm ET
+- Thursday, October 10: 10am - 6pm ET
+- Friday, October 11: 10am - 6pm ET
+- Tuesday, October 15: 10am - 6pm ET
+- Wednesday, October 16: 10am - 6pm ET
+- Thursday, October 17: 10am - 6pm ET
+- Friday, October 18: 10am - 5pm ET
 	
 ## Team Roles	
 - Moderator: Angela Agosto (angela.agosto@adhocteam.us; 570-807-0619) and Jessica Stump (jessica.stump@adhocteam.us; 509-957-4131)
