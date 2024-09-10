@@ -51,8 +51,8 @@ Updated September 10, 2024 - file created
     * Name: Epic title (shortened if possible) -  epic number or issue number
         * Ex.: Form Statuses - #81849 (Epic)
     * Use cases: A single page per section is always the goal for work for an epic.
-        * If there is good reason to use more than one page per epic:
-            * Name: Story/topic name - epic title - epic number
+       * Any individual story numbers that relate to that page's content should be included in a frame so they can be easily referenced.
+   
 * Section-specific rules:
     * Pages part of the WIP section
         * Name: Always begins with “(WIP)”, follow page format otherwise
