@@ -21,18 +21,37 @@ The ['Update prefilled information' in the Wild mural](https://app.mural.co/t/de
 ### What is Prefill versus Update Prefill?
 
 Our team has defined the following elements to be part of the Prefill pattern:
-- Info Alert component  ![alt text](url)
-- Component to show prefilled data ![alt text](url)
-  - Locked state ![alt text](url)
-      - Guidance on how to change info that is uneditable on VA.gov ![alt text](url)
-  - Editable state ![alt text](url)
-      - Guidance on where the edit will save ![alt text](url)
+- Info Alert component
+
+![Prefill Info Alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Info%20Alert%20Component.png)
+
+- Component to show prefilled data
+
+  - Locked state
+
+![Locked state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Locked%20State.png)
+
+      - Guidance on how to change info that is uneditable on VA.gov
+
+![How to change locked data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/How%20to%20change%20locked%20data.png)
+
+   - Editable state
+
+![Editable state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Editable%20state.png)
+     
+      - Guidance on where the edit will save
+
+![Where the edit saves](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Where%20the%20edit%20saves.png)
 
 These are the elements which we consider to be part of the Update Prefill pattern:
-- Edit prefilled info page ![alt text](url)
-- Format of providing old data to edit ![alt text](url)
-- Confirmation message when edit is complete ![alt text](url)
-- (potentially) Option to select where the edit saves ![alt text](url)
+- Edit prefilled info page
+
+![Edit prefilled info page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Edit%20prefilled%20info.png)
+- Format of providing old data to edit (See above)
+- Confirmation message when edit is complete
+
+![Confirmation message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Confirmation%20message.png)
+- (potentially) Option to select where the edit saves
 
 ### Ongoing Slack Conversations on Update Prefill
 Teams such as the Platform Design System, Forms, AskVA, Accredited Representative Management, and the Benefits team have all been engaged in recent conversations in Slack regarding this pattern. Many questions focus on the Phone Number component and how using different labels could mess up the Profile data. There are also questions about updating prefilled info in the middle of a form, and if a user needs to keep selecting 'Continue' in order for the edit to save to their profile. These conversations are tracked in the ['Update prefilled information' in the Wild mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722538218743/e8a34db6e16086f9122fd2e0927edf5607bfa273?sender=u4cef3aa06e6e500fdad48741). 
