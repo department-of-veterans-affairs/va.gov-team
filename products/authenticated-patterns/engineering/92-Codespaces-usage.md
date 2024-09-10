@@ -125,6 +125,8 @@ To optimize costs associated with Codespaces:
 
 Stopped Codespaces still incur storage costs, but these are significantly lower than active Codespace costs.
 
+[View the billing costs for GitHub Codespaces](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces)
+
 ## Preparing for User Research Sessions
 
 1. Ensure all necessary features are working with mock data and that the server and frontend ports are public. If you have to restart the server after inactivity, you may lose the public status of the ports, so double check them.
