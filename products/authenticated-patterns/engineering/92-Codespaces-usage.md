@@ -185,3 +185,5 @@ CPU usage when vets-website first builds is high, but once built the dev servers
 - Allow engineers to choose their machine type when starting a Codespace
   - The highest tier is the only level of machine available, and we can't explore with a lower level machine to see what would work.
   - The 4-core cpu, 16gb memory, 64gb dish drive level _should_ work fine, and is only $0.36 an hour vs $2.88 an hour for the highest level
+  - Github Organization Owners are the only roles who can [adjust what machine types are available for provisioning
+](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/restricting-access-to-machine-types)
