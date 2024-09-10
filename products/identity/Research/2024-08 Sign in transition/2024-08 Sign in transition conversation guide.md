@@ -10,8 +10,8 @@
 
 | Has a Login.gov or ID.me account  | Does NOT have a Login.gov or ID.me account |
 | ------------- | ------------- |
-| [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=995-491465&node-type=FRAME&t=X5ZbI2aXVAHdkrnD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=995%3A491465) | [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-491307&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307&show-proto-sidebar=0) |
-| [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=0)  | [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-499654&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654&show-proto-sidebar=0)  |
+| [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=995-491465&node-type=FRAME&t=X5ZbI2aXVAHdkrnD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=995%3A491465) | [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=998-491474&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307) |
+| [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=1010-499835&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608)  | [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=1010-499842&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654)  |
 
 ### Day of session
 10-15 min before session:
@@ -36,8 +36,8 @@
 
 | Has a Login.gov or ID.me account  | Does NOT have a Login.gov or ID.me account |
 | ------------- | ------------- |
-| [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=995-491465&node-type=FRAME&t=X5ZbI2aXVAHdkrnD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=995%3A491465) | [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-491307&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307&show-proto-sidebar=0) |
-| [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=0)  | [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-499654&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654&show-proto-sidebar=0)  |
+| [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=995-491465&node-type=FRAME&t=X5ZbI2aXVAHdkrnD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=995%3A491465) | [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=998-491474&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307) |
+| [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=1010-499835&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608)  | [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=1010-499842&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654)  |
 
 - Do Not Disturb ON so no notifications (Apple)
    - and/or Mute your Slack notifications.
@@ -85,9 +85,9 @@ Are you comfortable with that?
    -[Phone, laptop, doesn’t have to be brand]
    - Is that how you usually access the VA online?
    - Any particular reason you use [DEVICE] the most
-- And when you do something with the VA online, what services do you normally access?
-   - If it varies, what was the reason you visited most recently? [remember this for later on]
 - When you are on your [phone/computer/tablet] how do you typically bring up VA online? [the mobile app, VA.gov, MHV website, something else]
+- And is there a particular VA service that you normally access?
+   - If it varies, what was the reason you visited most recently? [remember this for later on]
 - When was the last time you accessed VA online?  What were you trying to do?
 - It looks like you answered that you use the My HealtheVet sign in option, do we have that right?
    - Have you ever sign into VA.gov using another option? 
@@ -99,8 +99,8 @@ Are you comfortable with that?
 
 | Has a Login.gov or ID.me account  | Does NOT have a Login.gov or ID.me account |
 | ------------- | ------------- |
-| [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=995-491465&node-type=FRAME&t=X5ZbI2aXVAHdkrnD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=995%3A491465) | [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-491307&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307&show-proto-sidebar=0) |
-| [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=918-433608&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608&show-proto-sidebar=0)  | [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=938-499654&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654&show-proto-sidebar=0)  |
+| [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=995-491465&node-type=FRAME&t=X5ZbI2aXVAHdkrnD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=995%3A491465) | [Desktop prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=998-491474&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A491307) |
+| [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=1010-499835&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=918%3A433608)  | [Mobile prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/Sign-in-changes?node-id=1010-499842&node-type=FRAME&t=tLC87LYi9kFV2SM8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=938%3A499654)  |
 - Let me know if you have any issues opening up that link
 - Once you get that up, I’ll also ask that you share your screen
 - [Screen share help if needed (mobile)](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
@@ -142,12 +142,14 @@ Are you comfortable with that?
       - "Learn more about this change…”
  
 ### Interstitial content 
-- [For this section, we want to understand how much information vs fluff is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?]
-   - Do you know if you have a Login.gov or ID.me account?  [If both, which one would you use?]  Have you ever used Login.gov or ID.me to log into the VA online?
-      - [If yes, show them the interstitial with the personalized content and SKIP inherited proofing questions]
-         - Can you walk me through what you’re seeing here on this page?
-         - What would you do next? 
-         - [If they ignore the alert and decide to log in with MHV] Why did you choose to move ahead with MHV?
+- [For this section, we want to understand how much information is needed to convince them to make the change because it’s mandatory. Soft language or more direct language?]
+   - Do you know if you have a Login.gov or ID.me account?
+      - [If both, which one would you use?]
+      - Have you ever used Login.gov or ID.me to log into the VA online?
+         - [If yes, show them the interstitial with the personalized content and SKIP inherited proofing questions]
+   - Can you walk me through what you’re seeing here on this page?
+      - What would you do next? 
+      - [If they ignore the alert and decide to log in with MHV] Why did you choose to move ahead with MHV?
       - [If no, show them the interstitial for the unverified MHV user and INCLUDE inherited proofing questions]
          - Can you walk me through what you’re seeing here on this page?
          - What does the phrase "identity-verified" mean to you?
@@ -156,13 +158,12 @@ Are you comfortable with that?
        
 ### Inherited Proofing (only for Veterans without a Login.gov or ID.me account)
 [If they don't know or haven't used a Login.gov or ID.me account]
-   - [Discuss possible content] We have some words or phrases that we would like to get you take on.
-      - “We have started creating a Login.gov account for you using the information from MHV.  You can continue completing your account here.”
+   - [Discuss possible content] If instead of seeing this about "create an account" we instead said “We have started creating a Login.gov account for you using the information from MHV.  You can continue completing your account here.”
       - How would you feel about this?
+      - What would you expect to do to complete the account?
    - [Va.gov] If a Login.gov or ID.me account was created for you using information you previously provided to [MHV or DS Logon], what would you expect to be able to do on VA.gov?
-      - If you also had to take additional steps to be able to complete specific tasks like changing your direct deposit, how would that make you feel?
+      - If you also had to provide additional information to be able to complete a specific task like changing your direct deposit, how would that make you feel?
    - [VA ecosystem] If a Login.gov or ID.me account was created for you using information you previously provided to [MHV or DS Logon], what would you expect to be able to do on the mobile app?
-      - If you also had to provide additional information to be able to complete specific tasks like changing your direct deposit, how would that make you feel?
       - What if this new account only worked on VA.gov and not on MHV or the mobile app?  How would you feel?
       - What would you do next?
    - [Other government websites] Do you use any other government websites?
