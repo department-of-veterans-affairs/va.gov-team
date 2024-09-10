@@ -59,6 +59,7 @@
 ---
 
 * Good example for us
+
 ** Large or popular organizations who don't use GHP: AirBnb, Apple, Shopify, Netflix, Reddit, Fidelity, General Electric, Django, Elastic
 
 ## Internal impact
