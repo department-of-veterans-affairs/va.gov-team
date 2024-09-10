@@ -23,9 +23,18 @@ The decision was made at the beginning of September 2024 to proceed with the sec
 
 ### OCTO-DE Objectives 
 
+This effort supports the OCTO priorities:
+
+- Veterans and their families can apply for all benefits online
+
+- Logged-in users can easily track applications, claims, or appeals online
+  
+- Increased usage of digital, self-service tools
+
 
 ### Veteran Journey
 
+This effort relates to the range of steps for Veterans after they leave the service, as forms can be submitted throughout their lives.
 
 ## Research Goals	
 The primary goal of our UAT is to confirm that functionality works as expected.
@@ -33,18 +42,19 @@ The primary goal of our UAT is to confirm that functionality works as expected.
 ### Outcome
 Based on the outcome of this research study, we will either release the updates to production and/or update our design to correct any issues with functionality.
 
-
 ### Research questions
 
+- Do form statuses display as intended?
+- (if in scope) Can PDF copies of forms be downloaded?
 
 ### Hypothesis
-
+Functionality will work as intended.
 
 ## Method	
-We'll have participants go through a list of specific tasks for UAT and ask follow-up questions to get feedback on our usability related questions. We will test in production using a feature flipper.
+We'll have participants go through a list of specific tasks for UAT. We will test in production using a feature flipper.
 
 ### Location
-Remote, via Zoom
+Remotely, via Zoom.
 
 ### Research materials
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/UAT/MyVA-audit-UAT-conversation-guide.md) 
@@ -60,20 +70,20 @@ We are recruiting Veterans who use various VA benefits and specifically some who
 
 When will the thing you are testing be finalized? 
 
-All engineering work will be completed after September 10, 2024, specific time TBD.
+- All engineering work will be completed after September 10, 2024, specific time TBD.
 
 
 ### Research sessions
 What dates do you plan to do research? 
 
-After September 13, 2024. 
+- After September 13, 2024. 
 
 ### Length of sessions
 Sessions will be 30 minutes, but tasks are expected to take less time than that.
 
 ### Availability
 
-
+TBD
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
