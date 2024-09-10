@@ -2,7 +2,7 @@
 
 Goal: Gain insight and feedback into our validation/verification approach. Potentially begin testing earlier in our schedule. 
 
-For the scope of this intiative, we will be testing the following approaches:
+For the scope of this intiative, we will test the following approaches:
 - Automated Test Scripts
 - Integrated Testing
 
