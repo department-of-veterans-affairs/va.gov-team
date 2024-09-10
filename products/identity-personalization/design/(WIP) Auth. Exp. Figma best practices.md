@@ -25,7 +25,7 @@ Updated September 10, 2024 - file created
     * Production
         * All pages representing content live on the website
         * The topmost page must represent the current state overall, individual initiatives must be below this
-    * Ready for dev (title TBD)
+    * Ready for dev
         * Any content that’s been finalized but NOT in Production yet
     * Work in progress
         * Anything being worked on, or done in the relatively recent past that may inform development in the future
