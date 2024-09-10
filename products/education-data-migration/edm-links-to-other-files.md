@@ -10,4 +10,4 @@ This page houses the links to the GitHub files that do not live in the EDM GitHu
 
 ## WEAMS Public 
 - [Collaboration Cycle for Education Data Migration, WEAMS Public #90889](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90889)
-- ]CAIA Intake for WEAMS Public #92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369)
+- [CAIA Intake for WEAMS Public #92369](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92369)
