@@ -27,7 +27,8 @@
 Thanks for joining us today! My name is [Jessica/Angela] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, some things I want to mention:
 
-Today we're going to talk about the application for the **Program of Comprehensive Assistance for Family Caregivers**.
+Today we're going to talk about the application for the **Program of Comprehensive Assistance for Family Caregivers**. We have some questions for you about this and then we would like you to share your screen and go through using the online form in our test site. We will use our demo site so you won't be actually submitting an application today. 
+
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
@@ -51,32 +52,43 @@ Today we're going to talk about the application for the **Program of Comprehensi
 
 ## Warm-up Interview Questions - 10 minutes
 
-Before we look at the caregvier program form, let’s start with a few warm-up questions about your [caregiver/Veteran] application experience.
+Before we look at the caregiver program online form, let’s start with a few warm-up questions about your [caregiver/Veteran] application experience.
 
-- Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
-   - If yes: [Should be **no** based on screener criteria but pivot to convo guide for cohort 1]
+-  Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
+    - If no: [Skip ahead to not enrolled interview questions]
 
-- Have you ever heard of that program before?
-- Do you ever interact with the VA for family member benefits?
-- Can you explain to me in your own words what it means to be a caregiver?
-- How would you like to learn more about caregiver programs and benefits you may qualify for?
-- If you were completing a form to designate caregivers like the one we'll go through together today, what information do you think you'd need before completing the form?
-- [Prompt if needed: For example, would it be helpful to you to see eligibility information about the program when applying vs before-hand?]
+##### ENROLLED Questions:
+
+- Confirm you applied [x months] ago? [from recruitment screener question)
+- If you were going to explain the caregiver program to someone interested in enrolling, how would you explain it?
+- Are you familiar with the concept of a primary or secondary caregiver? 
+- Do you know which one you are enrolled as?
+- Tell me about how you completed the caregiver form: in person, at a facility or online.
+- What did you do in preparation for completing the [online/paper/in person] form?
+- Did you complete all of the VA forms on your own or did you have help, like from an accredited representative, VSO, or other source?
+- Is there anything else you'd like to share about your experience with the caregiver program application form, good or bad?
+
+##### NOT-ENROLLED Questions: 
+
+- Have you heard of this program before?
+- Have you ever interacted with the VA for family member benefits?
+- Can you tell me in your own words, what it means to you to be a Veteran caregiver?
+- How would you like to learn about benefits like the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?
+- If you were completing a form to apply for caregiver benefits like the one we'll go through together today, what information do you think you'd need before completing the form?
 
 
 
 ## First Task: [Introduction page] - 5 minutes
 
 - Thank you for sharing that background. Now let's change gears a bit.
-- I'm going to share a link to our staging site with you in the chat and when you're ready have you share your screen.
-  
+- I'm going to share a link to our staging site with you in the chat and when you're ready have you share your screen in Zoom with me.
 - [Link to [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)]
+- Review this page and tell me about your initial thoughts and expectations of this form before going forward and applying.
+- What, if anything, on this page stands out to you as being confusing or as being really helpful?
 
-- Review this page and tell me about your intial thoughts and expectations of this information you see.
 
 **Participant ratings:**
-On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared does this first page make you feel about the application you are about to begin and informed about the process? Why did you give it that rating?
-
+On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared and informed do you feel about the application you are about to begin based on this page's content? Why did you give it that rating?
 
 
 ### Things to watch for:
@@ -89,11 +101,10 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 
 ## Second Task: [Veteran inforamtion] - 5 minutes
-- Now start the application as if you were applying.
-- This is our staging site for testing purposes so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive items such as your social or birth date that you don't want to share {and I will provide you some information to enter.}
+- Now I'd like you to start the form as if you were applying for the program.
+- This is our staging site for testing purposes so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive items such as social or birth date that you don't want to share.
 - As you go through the form please remember to think aloud. We want to hear about any reactions you're having.
-- [If they pause on the county field, ask additional questions: I see you are pausing on this, can you tell me more about (xyz...)]
-
+- [If they pause on the county field, ask additional questions] I see you are pausing on this, can you tell me more about why?
 
 
 ### Things to watch for:
@@ -104,22 +115,25 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 ## Third Task: [Facilities Selection] - 5 minutes
 
-- Please think aloud as you complete this question.
-- How would you prefer to search for facilities?
-- Can you explain to me why you think facility choice is part of the caregiver application process?
+- Please keep thinking aloud as you complete this question.
+- How would you prefer to search for VA facilities?
+- Why you think facility choice is part of the caregiver application process?
 - Let's imagine you want to change the facility you have selected - maybe because you're moving soon - by doing a new search. Can you walk me through how you would accomplish that?
 
 
 ### Things to watch for:
 - [Does the participant comment that they would need clarifying information to answer the question?]
-- [Does the participant search by zip code, city or state]
+- [Does the participant search by zip code, city or state?]
+- [Is the participant able to create a new facility search?]
 - [Does the participant comment or react to the confirmation screen?]
-- [Does the confirmation screen add confusion for the participant?]
+- [Does the confirmation screen add any confusion for the participant?]
 
+**Participant ratings:**
+On a scale of 1-5 (1 being very poor/difficult and 5 being very well/easy to do) - how would you rate the process here to select a VA facility?
 
 
 ## Fourth Task: [Primary Caregiver] - 5 minutes
-- Let's go through a scenario where you want to add a primary caregiver on this application. Please go through the next few pages and try to add that, thinking aloud about your thought process.
+- Let's go through a scenario where you want to add yourself as a primary caregiver on this application. Please go through the next few pages and do that, thinking aloud about your thought process.
 - What does the term "primary caregiver" mean to you?
 
 
@@ -133,11 +147,11 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 ## Fifth Task: [Secondary Caregiver] - 5 minutes
 
-- Now I'd like you to go through these questions as you would if you were applying to add a secondary caregiver too.
+- Now I'd like you to go through these questions as you would if you were applying to add a secondary caregiver too. 
 - What does a secondary caregiver mean to you?
 - How do you think the secondary role differs in the application process and benefits from the primary caregiver?
 - Now I'd like you to add an additional secondary caregiver. Please continue with that on this form and continue to think aloud.
-  
+
 
 ### Things to watch for:
 
@@ -152,44 +166,49 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 ## Caregiver Interview Questions - 10 minutes
 
+Let's pause here for a minute to talk about the sections we just went through.
+
 - If you were completing this online form for real, can you tell me how would you coordinate getting this information from everyone involved?
-- Would you sit down and complete this application together?
-- Would you prefer to have help completing this from an accredited representative or someone else from the VA?
+- Would you sit down and complete this form together?
+- Would you prefer to have help completing this from an accredited representative or someone else from the VA? Why or why not?
 - Thinking of an ideal scenario, can you describe for me what would work best for you if you had to complete this application with multiple people involved?
-- Is there any additional information about who qualifies as a primary and secondary caregiver that you would've liked to see?
+- [If not mentioned above] Would you like to have a way to sign in and only complete your own information on the form and let the others complete theirs separately as well?
 
-
+**Participant ratings:**
+On a scale of 1-5 (1 being very poorly and 5 being very well) - how would you rate the amount of information provided in the form so far?
 
 
 ## Task: [Sign as a Rep + Upload Doc] - 5 minutes
 
-- Can you explain what this page is asking and what it means to you?
-- How would you answer this question and what would you expect to happen next?
+Next we would like your feedback on the information on the next couple of pages.
+
+- In your own words, describe what this page is asking and what it means to you.
+- Are you a legal representative for the Veteran?
+- If you were completing this form, would you have a VA representative involved to help you?
+- In your own words, what would you expect to happen next?
 - What type of document would you upload?
-
-
 
 ### Things to watch for:
 
 - [Does the participant interact with the additional information component about document types?]
 - [Does the participant mention the VA forms listed? Postive/negative/confused reaction?]
-- [Does the particpant seem confused or express that anything on this page is unclear?]
+- [Does the participant seem confused or express that anything on this page is unclear?]
 - [Does the participant proceed to the upload page or initially answer the Veteran would sign?]
 
 
 ## Task: [Review + Submit] - 5 minutes
 
 - Please look over this page and tell me about your initial impressions or expectations.
-- If you saw something you entered by mistake, can you show me how you would go about correcting that?
+- If you saw something you entered by mistake, show me how you would go about correcting that.
 - You won't be able to submit the application in this test form so you can stop screen sharing now and I'll share my screen for the final part of this session.
 
 
 
 ### Things to watch for:
 - [Does the participant have a positive or negative sentiment about the review page?]
-- [Does the participant give any reason for pause or why they wouldn's submit the application?]
+- [Does the participant give any reason for pause or why they wouldn't submit the application?]
 - [Does the participant interact with any of the accordions or try and edit any information?]
-- [Does the participant mention or pause at how the facility selection is represented on this page?]
+- [Does the participant mention or pause at how the facility selection is represented on this page?
 - [How does the participant interact or talk about the various signature fields?]
 
 
@@ -197,11 +216,18 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared doe
 
 ## Confrimation Page + Post Task Interview - 5 minutes
 - I'm going to share my screen with you for the final step of the form and I'll ask you some questions about it.
-- [show figma comp of production design version of confirmation page]
-
+- [show Figma comp of production design version of confirmation page]
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
-- If you had a magic wand and you were in a perfect world, what would you like to see here? What would you want to happen next?
+- If you had a magic wand and you were in a perfect world, what would you like to see here?
+- What would you want to happen next?
 
+
+Thank you for that feedback, I am going to stop sharing my screen now and wrap up with a couple final questions.
+
+- What research would you do before applying and completing a form like this?
+- What are your thoughts on the amount of information provided in the caregivers pages of the form?
+- Is there any additional information about who qualifies as a primary and secondary caregiver that you would've liked to see?
+- [Prompt if needed: For example, would it be helpful to you to see eligibility information about the program when applying vs before-hand?]
 
 
 
