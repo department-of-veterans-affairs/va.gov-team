@@ -24,7 +24,8 @@
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
 - **Tech Debt**
-    - 🟩 [Check to see if the new DS Action Link Component is ready](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3136)    
+    - 🟩 [Check to see if the new DS Action Link Component is ready](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3136)
+        - It is closed, what, if anything, do we need to do on our end?
 </details>
 
 <details>
