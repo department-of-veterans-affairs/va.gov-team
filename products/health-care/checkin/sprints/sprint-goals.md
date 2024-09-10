@@ -24,8 +24,7 @@
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
 - **Tech Debt**
-    - 🟩 [Use the Design System Action Link Component ](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3136)
-        - Check on DS component update
+    - 🟩 [Check to see if the new DS Action Link Component is ready](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3136)    
 </details>
 
 <details>
@@ -39,19 +38,24 @@
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to ...................**
-    - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
-    - 🟦🟩 [[Eng] Create code to handle not double booking an appt at the same time ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89730)
     - 🟩 [[FE] Audit wireframes to determine what FE UI tickets need to be created to finish buildout out the FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91916)
-    - 🟦 [Get vets-website staging env pointing to WellHive Sandbox ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)    
+    - 🟩 [[FE] Integrate Search a Patient's Appointments API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91929)
+    - 🟩 [[FE] Integrate Start a Draft Appointment API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91936)
+    - 🟩 [[FE] Integrate Search for Provider Services API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91937)
+    - 🟩 [[FE] Integrate View Provider Services Available Slots API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91933)
+    - 🟩 [[FE] Integrate Book an Appointment into a Slot API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91934)
+    - 🟥 [[Design] Update Community Care VSS after consult approval workflow (Mural) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88886)
+    - 🟥 [Create KPIs and ensure business alignment ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)
+    - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting) 
+    - 🟦 [[BE] Test Search a Patient's Appointments API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91923) 
     - 🟦 [[BE] Test View Provider Services Available Slots API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91921)
-    - 🟦 [[BE] Test Cancel a Booked Appointment API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91924)
-    - 🟦 [[BE] Test Search a Patient's Appointments API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91923)
     - 🟦 [[BE] Test Book an Appointment into a Slot API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91922)
-    - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
+    - 🟦🟩 [[Eng] Create code to handle not double booking an appt at the same time ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89730)  
+    - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
 - **Upcoming VAOS Appointments**   
     - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
     - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
-        - Depending on Kanchana's spike, we may need to break this out
+        - Depending on Kanchana's spike, we may need to break this out into multiple tickets; also depending on if we are not blocked for CC we may want to move this out
 - **Check in with staff after checking in**
     - **Sprint Goal is to finish the research plan and start to make plans for the pilot**
     - 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
