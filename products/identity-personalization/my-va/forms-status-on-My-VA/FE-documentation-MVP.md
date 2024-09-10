@@ -1,5 +1,5 @@
 # Forms Status on My VA MVP Frontend Documentation
-Last updated: August 20, 2024
+Last updated: September 10, 2024 - fixed link placement
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
@@ -372,6 +372,7 @@ We're sorry. We're working to fix this problem. Check back later.
 ## Failed API call
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28921&t=nHq2rMia3osfDiWr-1)
+
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28909&t=nHq2rMia3osfDiWr-1)
 
 **Visual specs**
@@ -386,7 +387,9 @@ We can't access your benefit applications and forms right now
 We're sorry. We're working to fix this problem. Check back later.
     
 ## Scheduled maintenance
+
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
+
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1330-40104&t=nHq2rMia3osfDiWr-1)
  
 **Visual specs**
