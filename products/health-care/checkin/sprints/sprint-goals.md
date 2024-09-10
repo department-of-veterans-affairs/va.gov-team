@@ -6,20 +6,23 @@
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
 - **Production Support**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89593)
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92520)
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to ...................**
     - TBD
 - **Upcoming VAOS Appointments**   
-    - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
-    - TBD
+    - **Sprint Goal is to perform functional and accessibility testing and get ready for Staging Review**
+    - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
+    - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
+    - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84425)
+    - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84422)
+    - 🟪 Schedule Staging Review
 - **Check in with staff after checking in**
     - TBD
 - **CIE Analytics**
-    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
-    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
 - **Tech Debt**
     - 🟩 [Use the Design System Action Link Component ](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3136)
         - Check on DS component update
@@ -30,7 +33,8 @@
 
 ## SPRINT 16 - 9/18/2024-10/1/2024
 - **Production Support**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89593)
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92521)
+    - ❗ 🟨 [Rotate AWS Keys - September 27, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76344)
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
@@ -46,16 +50,15 @@
     - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
 - **Upcoming VAOS Appointments**   
     - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
-    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)    
-    - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
+    - 🟩 [[FE] Add New Appointment Details Pages based on Modality for Day-of and Pre-Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89066)
+        - Depending on Kanchana's spike, we may need to break this out
 - **Check in with staff after checking in**
-    - 🟥 [[Research] Create Research Plan ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
+    - **Sprint Goal is to finish the research plan and start to make plans for the pilot**
+    - 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
-    - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88196)
 - **Tech Debt**
     - 🟥 [[CAIA intake] Edit existing content on a resources and support page from Check in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80574)
-    - 🟩 [Handle Autocomplete Issue with VA DS Text Input component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92167)
 </details>
 
 ## SPRINT 15 - 9/4/2024-9/17/2024
@@ -137,6 +140,8 @@
     - ✔️ 🟩 [Staging Review Feedback: Add Commas to "How to Prepare for Your Appointment" List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91691)
     - 🟦 [[BE] [Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled' and older configs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92006)
     - ✔️ 🟦 [[BE][Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92004)
+    - 🟩 [[FE] - Fix bug with autofill on lastname field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92133)
+        - Added as a bug after sprint planning
 
 ## SPRINT 14 - 8/21/2024-9/3/2024
 - **Production Support**
