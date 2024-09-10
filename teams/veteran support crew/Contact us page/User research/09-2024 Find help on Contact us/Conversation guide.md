@@ -295,11 +295,12 @@ Okay, we’re finished with each scenario now. So you can stop sharing your scre
 
 > Stop sharing screen
 
-Thank you for reviewing those scenarios with me. Your input has been really helpful. Before we end, I'd like to review the different ways the Contact us page could have helped in one of the scenarios.
+Thank you for reviewing those scenarios with me. Your input has been really helpful.
 
-I hope this walk-through shows you how to use VA.gov for help in the future, especially while we’re working on improving the Contact us page. You’ve shown me how finding these answers can be really complicated for Veterans right now. 
+I know this page isn't very clear right now. While you wait for us to make updates, is it helpful if I show you how some of these contact options work?
 
-> Share screen showing Contact us page
+> - If `Yes,` Share screen showing Contact us page
+> - If `No,` Skip to **Cool down**
 
 We're going to review the login scenario, which was: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
 
