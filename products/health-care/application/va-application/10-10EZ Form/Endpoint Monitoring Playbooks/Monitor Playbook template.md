@@ -4,6 +4,9 @@ _last updated: date_
 ## Audience 
 _Who this document is written for.  For instance: `team members responding to Datadog ["Example App errors"](https://vagov.ddog-gov.com/monitors/#####) monitor alerts`_  
 
+# [Monitor Title]
+_Explanation of what the monitor is for, and what it means when it fails_
+
 # Required access
 _Access required to complete the steps in this playbook.  Intended for readers to review in advance.  Example:_   
 ```
