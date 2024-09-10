@@ -144,10 +144,7 @@ I’ll give you your first scenario now. We’ll review two scenarios in total i
 
 **Starting on the Contact us page, the page you have open right now, show me how you would find help for this scenario.**
 
-As you’re showing me, tell me what you’re thinking and noticing too. I’ll send the scenario in the Zoom chat now. I can repeat this throughout the session too.
-
-> Send scenario in Zoom chat.
-- Login scenario: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
+As you’re showing me, tell me what you’re thinking and noticing too.
 
 ### Claims scenario - 15 minutes
 Let’s go back to the Contact us page for our second and final scenario. You can select ‘Contact us’ at the top of the page to get back to the page.
@@ -158,11 +155,7 @@ Let’s go back to the Contact us page for our second and final scenario. You ca
 
 **Starting on the Contact us page show me how you would find help for this new scenario.**
 
-I’ll send the scenario in the Zoom chat now just like last time.
-
-
-> Send scenario in Zoom chat.
-- Claims scenario: You don’t know if you can request more compensation for your shoulder pain because it's worse now.
+Again, as you’re showing me, tell me what you’re thinking and noticing too.
 
 ### Use the following questions for each scenario
 
