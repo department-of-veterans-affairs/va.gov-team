@@ -28,7 +28,7 @@ Cadence: Test Script automation can still take sometime to run,  ex. 20 seconds 
 
 ### Integration Testing
 
-We will test the API integration between the Ask VA front-end on VA.gov and the CRM agent front-end. We will be testing for the correct mapping of Category, Topic, and Subtopic for a collection of 12 permutations (1/10 of the 120 flows.) 
+We will test the API integration between the submitter front-end (Ask VA on VA.gov) and the agent front-end (Dynamics CRM). We will be testing for the correct mapping of Category, Topic, and Subtopic for a collection of 12 permutations (1/10 of the 120 flows.) 
 Goal: Confirm Inquiries are being correctly routed. 
 Context: The Ask VA VA.gov team will sent a series of inquiries (a collection of 12) to CRM, who will respond with a field providing the mapping of the Queue each inquiry was routed to. This will confirm that the integration and mapping of our Inquiries remains successful. 
   
