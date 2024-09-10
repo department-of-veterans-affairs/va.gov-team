@@ -106,8 +106,8 @@ Context: The RPA bots are scraping the CRM Agent for the Category and Topics:
    - Fix integration issues.
    - **Expectation:** CRM team will build a new field into the response to return the routed queue name to facilitate integration testing in an automated fashion. 
    - Team will execute 120 tests associated with the Category, Topic, and SubTopic permutations.
-   - The AVA team will submit collections ( 12 requests per collection) and 10 collections ( 120 total) to the CRM API
-   - The CRM API will return a response body containing the new QueueID, together the teams will confirm that the correct Category,             Topic, and Subtopic are being routed to the correct queue. 
+   - The AVA team will submit collections (12 requests per collection) and 10 collections (120 total) to the CRM API
+   - The CRM API will return a response body containing the new QueueID. Together the teams will confirm that the correct Category, Topic, and Subtopic are routed to the correct queue. 
 
 
 **E2E Automated Testing (Cypress)**
