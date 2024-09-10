@@ -152,3 +152,36 @@ The Github Codespace landing page:
 - It is also possible to share a codespace with another user that also has access to the github organization. The VS Code Live Share extenstion can be used to generate a sharing url for the editor, and also the various terminals when required.
 
 Remember, Codespaces will spin down after a period of inactivity. If you're running a longer research session, you may need to keep the container active or rebuild it.
+
+---
+
+## Further Notes
+
+The higher priced Codespaces are required when you need to run content-build to get static content into your codesapce. If we could use lower cost machines when content-build is not needed, then we could significantly reduce cost.
+
+### Memory Usage
+
+We have been extensively testing Codespaces and I have found that of the 64GB of provisioned memory, vets-website and mock server will use around 4gb of memory.
+
+This includes:
+running vets-website in 'watch' mode, which probably uses more memory due to it actively watching for file changes and rebuilding
+running a mock server with 15ish endpoints mocked out and also running in 'watch' mode
+VS code server running. This is the process that allows a user to browse and edit code through the browser on a Codespace. This is probably the largest memory / cpu hog but is required
+
+### Disk Space
+
+Disk space is currently set up as a 128gb volume and we use on average 10gb total for the repo and all OS files.
+
+### CPU Utilization
+
+CPU usage when vets-website first builds is high, but once built the dev servers usually sit at around 15% usage. Since NodeJS is single threaded by default, I don't think having a 16 core CPU available is doing us much good.
+
+### Proposed adjustments
+
+- Don't use watch mode for the FE dev server if performance / memory usage becomes an issue. We don't really need to watch for file changes if we aren't doing active development on the Codespace, so just running the local dev server without watch should help
+- Don't use mocker-api
+  - Using an Express or Fastify would allow us to run a server that doesn't rely on Chokidar to watch files for changes. Mocker-api watches by default and it cannot be turned off, so if we wanted to optimize the mock-server then a different solution would be required.
+  - From a DX perspective, Mocker-api is not ideal. Fastify or Express could be easier to maintain and providing backwards compatibility to mocker-api would be trivial. 
+- Allow engineers to choose their machine type when starting a Codespace
+  - The highest tier is the only level of machine available, and we can't explore with a lower level machine to see what would work.
+  - The 4-core cpu, 16gb memory, 64gb dish drive level _should_ work fine, and is only $0.36 an hour vs $2.88 an hour for the highest level
