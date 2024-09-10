@@ -23,14 +23,15 @@ IN Progress
 
 **Integration Testing**
 - **Decision:** Initial automated tests will be run locally in order to prevent blocking the pipeline. _Once Authenticated Health - I am the Vet - Myself_ passes, we’ll promote it to the build pipeline. 
-  - In Scope [AT Clickable Prototype: Form Healthcare](https://www.figma.com/proto/nI0nYMdLamogjKq9t5atj8/Ask-VA-Prototype-R4-(Staging)?node-id=2001-81942&t=o7vkTV3PVbxnErNG-1&scaling=min-zoom&content-scaling=fixed&page-id=2001%3A79334) 
+
 - Test Cases: Interaction between form steps, form data persistence between steps, backend integration.
 - Example: Test backend calls, and ensure data is correctly saved and retrieved.
-- The team will leverage a tool like Postman or Insomnia to send a collection of requests to the CRM APIs, the APIs will return a response body that includes a new field containing QueueID to ensure that the right CatEgory, Topic, and SubTopic are routed to the correct queue. 
+- The team will leverage a tool like Postman or Insomnia to send a collection of requests to the CRM APIs, the APIs will return a response body that includes a new field containing QueueID to ensure that the right CatEgory, Topic, and SubTopic are routed to the correct queue.
+
+For Formal Testing: we will cover 120 flows of potential inquiry mapping
 
 **E2E Automated Testing (Cypress)**
 - **Test Cases:** Full user journey, including edge cases and typical user flows - authenticated & unauthenticated.
-- Example Reference: [Unauthenticated Life Insurance Cypress Test](https://gist.github.com/joehall-tw/a402d929299d15cd7a87c06d41d90967) (Proof of Concept)
 - Example Scenarios: 
     1. User fills out About Yourself page, validates input, moves to Your Contact Information.
     2. User navigates back to About Yourself, checks if data persists.
