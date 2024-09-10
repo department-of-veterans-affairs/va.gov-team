@@ -5,15 +5,15 @@ Updated September 10, 2024 - file created
 
 * Each Product for Authenticated Experience (My VA and Profile) has the following structure:
     * A file that shows the representation of the primary page of that Product’s domain (My VA)
-    * Each subdomain (as determined by the designers of the respective Product) will have its own file.
+    * Each subdomain (as determined by the designers of the respective Product) will have its own file, typically a discreet application/product of its own.
     * In the case of an effort in which the team creates and stores designs for functionality on other pages outside of My VA and Profile, it will be determined on a case-by-case basis how to proceed.
-* All of Authenticated Experience’s custom components, starting now, will be created and stored in the Authenticated Experience Pattern Library file. (we could call it APL, it’s easy to remember and it will help us add to our acronym collection, since we don’t have nearly enough already!)
+* All of Authenticated Experience’s custom components, starting now, will be created and stored in the Authenticated Experience Pattern Library file.
     * If an existing component in VADS is used (without breaking it) with original content for designs, and it's deemed to be a timesaver to make that into a symbol, it will live in the Auth. Exp. Pattern Library
     * There will no longer be any custom standalone symbols in individual files, they must all live in the Auth. Exp. Pattern Library
 
 ### File naming rules:
 
-* Each file will be start with the Product name and then the title of the content
+* Each file will be start with the name of either My VA or Profile and then the title of the content
     * Ex. Profile - Military Information
 
 ### Page structure rules:
