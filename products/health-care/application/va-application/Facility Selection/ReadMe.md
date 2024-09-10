@@ -128,7 +128,8 @@ We currently have the following qualitative metrics:
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
-  - tbd
+  - API Update launch: August 26, 2024
+  - UI Redesign launch: TBD 
 
 ---
    
