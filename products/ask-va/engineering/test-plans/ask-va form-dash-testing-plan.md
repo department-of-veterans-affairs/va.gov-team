@@ -9,12 +9,12 @@ Reference Docs:
 - [Visual Flow of Testing](https://app.mural.co/t/thoughtworksclientprojects1205/m/thoughtworksclientprojects1205/1724347818244/9bca3672d775ae5fec71d1af118bcb859bce65e2?sender=uc2a4f18a27ff336484232897)
 - [Differences between Categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Similarities%20and%20differences%20between%20categories.md)
   
-**Timeline:**
-IN Progress
+**Timeline:** In Progress
+
 ### 2. Testing Types
 - **Unit Testing:** Test individual components and functions.
 - **Integration Testing:** Ensure different components work together.
-- **E2E Automated Testing (Cypress):** Simulate user interactions and validate the form’s behavior, this includes mocking a user passing ICN to test flow.
+- **E2E Automated Testing (Cypress):** Simulate user interactions and validate the form’s behavior. This includes mocking a user passing ICN to test flow.
 - **Manual Testing:** Perform exploratory testing to catch issues not covered by automated tests.
 - **Accessibility Testing:** Using appropriate tooling - inspect all pages.
 ### 3. Test Cases
@@ -27,9 +27,9 @@ IN Progress
 
 - Test Cases: Interaction between form steps, form data persistence between steps, backend integration.
 - Example: Test backend calls, and ensure data is correctly saved and retrieved.
-- The team will leverage a tool like Postman or Insomnia to send a collection of requests to the CRM APIs, the APIs will return a response body that includes a new field containing QueueID to ensure that the right CatEgory, Topic, and SubTopic are routed to the correct queue.
+- The team will leverage a tool like Postman or Insomnia to send a collection of requests to the CRM APIs. The APIs will return a response body that includes a new field containing QueueID to ensure that the right Category, Topic, and Subtopic are routed to the correct queue.
 
-For Formal Testing: we will cover 120 flows of potential inquiry mapping
+For Formal Testing: We will cover 120 flows of potential inquiry mapping
 
 **E2E Automated Testing (Cypress)**
 - **Test Cases:** Full user journey, including edge cases and typical user flows - authenticated & unauthenticated.
