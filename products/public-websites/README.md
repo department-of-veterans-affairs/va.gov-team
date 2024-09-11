@@ -79,6 +79,8 @@ The Public Websites team also supports most of the portfolio of the previous Dec
     - [ ] Checklist
     - [ ] Video list
     - [ ] Image list
+    - [ ] Step-by-step
+    - [ ] Checklist
     - [ ] Support Services
 - [ ] Full width alert - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=banner&moderation_state=published&owner=All
 - [ ] Promo banner - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=promo_banner&moderation_state=published&owner=All
