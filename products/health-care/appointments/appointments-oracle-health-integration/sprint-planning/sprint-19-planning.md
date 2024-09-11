@@ -38,7 +38,7 @@ In Sprint 18, the team provided support for multiple features and initiatives, o
 ## 🏆 Sprint Goals and Stories
  rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-   * [#91635 VetsAPI: Research options for toggling vaos backend url](https://docs.google.com/spreadsheets/d/1N7jyeqE2yQYMHradtHkfMh2TfcgbUJezSI52D0Ig71U/edit?usp=sharing)
+   * [#91635 VetsAPI: Research options for toggling vaos backend url](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91635)
    * [#91655 CES-916: Migrate EHR determination out of PreEnrichment step](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91655)
    * [#92556 CES-989 VPG: add tests for mappers package](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/92556)
    * [#92560 CES-988 VPG: add named exceptions for handled scenarios](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/92560)
