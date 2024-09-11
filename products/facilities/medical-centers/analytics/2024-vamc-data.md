@@ -14,8 +14,8 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
   - [Overall CSAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#overall-csat)
   
 ## VAMC editor and facility stats
-| Metric | January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024
-|---|:---:|:---:|:---:|:---:|:---:|
+| Metric | January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
 | Total # of active editors | 366 |368 |362 |392 | 408 | 424
 | Number of new editors this month |3 |5 | 4| 8 | 9
 | Total # of VAMC systems |141 | 141 |141 | 141 | 141 | | | 142 
@@ -26,13 +26,13 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 ## Summary data
 
 |	Summary stats|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	Unique users	|	1,131,378	|	1,242,502	|	1,332,982	|	1,297,523	|	1,331,023	|	1,340,938	 | 	1,268,055	 | 
 |	Total interactions    	|	1,585,767	|	1,784,288	|	1,925,043	|	1,807,007	|	1,860,168	|	1,876,171	 | 	1,778,682	 | 
 |	Total unique pageviews	|	2,439,472	|	3,217,095	|	2,892,442	|	2,810,241	|	2,872,481	|	2,880,172	 | 	2,647,086	 | 
 
 |	Top 5 interactions	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	 Contact us 	|	 35,885 	|	 46,253 	|	 42,387 	|	 39,082 	|	 42,085 	|	40,769	 | 	36,508
 |	 Location and contact information 	|	 31,515 	|	 39,671 	|	 36,985 	|	 35,033 	|	 37,147 	|	36,279	 | 	35,058
 |	 Health services offered here 	|	 29,902 	|	 37,713 	|	 35,469 	|	 33,092 	|	 34,785 	|	32,302	 | 	27,084
@@ -42,7 +42,7 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 ## User statistics
 
 |	Attribute	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24| June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	Desktop 	|	46.3%	|	48.4%	|	48.2%	|	47.4%	|	47.50%	|	46.90%	 | 	46.30%	 | 
 |	Mobile	|	52.3%	|	50.3%	|	50.5%	|	51.3%	|	51.10%	|	51.90%	 | 	52.50%	 | 
 |	New users 	|	65.0%	|	65.0%	|	65.0%	|	64.0%	|	64.0%	|	65%	 | 	64%	 | 
@@ -56,7 +56,7 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.domo.com/page/426422632)
 
 |	System health service	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24	| June-24
-|---|:---:|:---:|:---:|:---:|:---:|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
 |	Addiction and substance use care	|			 801 	 | 	 918 	 | 	 830 	 | 	 765 	 | 	 721 	 | 	661	 | 
 |	Audiology and speech	|			 1,621 	 | 	 1,417 	 | 	 1,362 	 | 	 1,362 	 | 	 1,185 	 | 	1,137	 | 
 |	Cardiology 	|			 970 	 | 	 953 	 | 	 888 	 | 	 957 	 | 	 784 	 | 	731	 | 
@@ -95,7 +95,7 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 (based on click interactions on accordions)
 
 |	Top health services at facility level	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	Addiction and substance abuse care	|	 1,035 	|	 1,085 	|	 1,022 	|	 1,132 	|	 1,227 	|	 1,022 	|	927	|
 |	Audiology and speech	|	 2,402 	|	 2,893 	|	 2,787 	|	 2,643 	|	3,072	|	 2,777 	|	2,439	|
 |	Cardiology	|	 1,277 	|	 1,345 	|	 1,435 	|	 1,333 	|	 1,542 	|	 1,371 	|	1,153	|
@@ -117,7 +117,7 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 (i.e., health-services/mental-health-care/) 
 
 |	Health service page	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	Mental health care	|	 10,967 	|	 16,231 	|	 13,274 	|	 12,699 	|	13,830	|	13,598	|	17,890	|
 |	Suicide prevention	|	 1,171 	|	 2,029 	|	 2,007 	|	 1,595 	|	1,546	|	1,854	|	1,178	|
 |	Caregiver support	|	 4,716 	|	 6,795 	|	 7,479 	|	 5,247 	|	5,551	|	5,846	|	4,746	|
@@ -130,8 +130,8 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 
 ### Unique pageviews on other specified pages
 
-|	Unique pageviews on other specified pages	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|	Unique pageviews on other specified pages	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	Contact us	|	 151,511 	|	 188,260 	|	 123,657 	|	 116,578 	|	120,848	|	123,012	|	118,189	|
 |	Campus map	|	 29,960 	|	 37,387 	|	 27,358 	|	 29,645 	|	31,896	|	32,728	|	30,367	|
 |	Programs	|	 30,725 	|	 40,275 	|	 33,921 	|	 31,918 	|	33,703	|	33,700	|	28,084	|
@@ -149,7 +149,7 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/582560b9-f167-4ea3-84e2-f3933b7e2ba3)
 
 | Experience rating | # December 2023 | # January 2024	| # February 2024	| # March 2024 | # April 2024 | # May 2024 | # June-24
-| --- | :---:|:---:| :---:| :---: | :---: | :---: | 
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Total survey responses |171 | 161 | 159 |148 | 165 | 149
 | 1 star | 42 | 41 |31 |24 | 36 |22
 | 2 stars	|27 | 21|17 | 25| 24 |  27
