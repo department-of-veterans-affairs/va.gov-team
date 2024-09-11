@@ -77,7 +77,7 @@ We will split this study into two cohorts:
 Since we have restrictive criteria for this study and a limited pool of caregivers and severely disabled Veterans to recruit, we'll request that Perigean gather participants who meet the primary criteria first and then aim for maximum variability in all other recruiting factors within the group of applicants who qualify for the study.
 
 ### Recruitment criteria
-Total participants: 20-30
+Total participants: 21
 
 Cohort 1: 14 participants
 
