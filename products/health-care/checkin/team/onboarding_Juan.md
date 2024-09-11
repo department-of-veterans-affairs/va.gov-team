@@ -15,8 +15,8 @@
 @juancstlm-a6 
 
 **Access VA Github Org** 
-[New VFS Team Member - Juan Castillo](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90722)
-[add to VA org](https://github.com/department-of-veterans-affairs/github-user-requests/issues/23668)
+- [New VFS Team Member - Juan Castillo](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90722)
+- [add to VA org](https://github.com/department-of-veterans-affairs/github-user-requests/issues/23668)
 
 [**Onboarding Checklist ticket**](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=timwright12&labels=onboarding&projects=&template=onboarding-request-engineering.yml&title=Onboarding%3A+%5Bname%5D)
 [Juan's ticket](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9575)
