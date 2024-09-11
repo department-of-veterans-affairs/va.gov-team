@@ -22,11 +22,11 @@ Sprint 19: 9/10/24 -  9/23/24
 ## 📋 Previous Sprint Summary:
 In Sprint 18, the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  *  Updated VetsAPI Patient Gateway (VPG) to restrict veteran self-scheduling based on patient-provider relationships, in accordance with the Cerner Terminology Policy Service.
+  *  Updated VetsAPI Patient Gateway (VPG) to restrict veteran self-scheduling based on policies provided by the Cerner Terminology Policy Service.
   *  Implemented a patient/relationship retrieval endpoint in VetsAPI, utilizing the same parameters provided by VPG to inform eligibility for direct scheduling operations.
-  * Addressed timing issues present in integration tests for VPG.
+  *  Addressed timing issues present in integration tests for VPG, with the goal of increasing build reliability and deployment speed.
   *  Added upstream error reporting for relationship searches in VPG to access information related to partial service failures when searching for relationships.
-  *  Modified VPG to use a Spring cache provider for cache handling on the Relationships endpoint, eliminating the need for manual cache refreshes.
+  *  Modified VPG to use a Spring-based cache provider for cache handling on the Relationships endpoint, eliminating the need for manual cache refreshes.
 
 * #### Backend support for Slot Search for Oracle Health 
    * Updated Clinical Encounter Service to include new search parameters specific to the Electronic Health Record (EHR)
