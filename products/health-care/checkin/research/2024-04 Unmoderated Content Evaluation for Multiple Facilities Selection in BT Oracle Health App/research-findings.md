@@ -1,8 +1,7 @@
 # Research Findings - Unmoderated Content Evaluation for Multiple Facilities Selection in BT Oracle Health App Research Study
 
-[draft]
-
 - [Research synthesis (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715965696451/66115023065835cadd05eeb75a64cb066975362e?showAddTemplatePopup=true)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2024-04%20Unmoderated%20Content%20Evaluation%20for%20Multiple%20Facilities%20Selection%20in%20BT%20Oracle%20Health%20App)
 
 ## Key Insights
 
@@ -24,3 +23,7 @@
 | _Breakdown of "Not filed before" cohort: Not filed before; thinks they're eligible_  | _88% (7/8)_  | _100% (7/7)_  | _7/7 (8/8)_  | _100% (8/8)_  | _100% (8/8)_  | _50% (4/8)_  | _89% (42/47)_  |
 | _Breakdown of "Not filed before" cohort: Not filed before; not sure if they're eligible_  | _89% (8/9)_  | _100% (8/8)_  | _100% (9/9)_  | _78% (7/9)_  | _89% (8/9)_  | _67% (6/9)_  | _87% (46/53)_  |
 | **All Veteran participants:** Veterans that have and have not filed for VA health care travel reimbursement  | 87% (52/60)  | 94% (48/51)  | 98% (59/60)  | 88% (53/60)  | 97% (58/60)  | 65% (39/60)  | 88% (309/351)  |
+
+
+![image (7)](https://github.com/user-attachments/assets/db232eec-e60a-4fdd-aeb3-996bcc1c8446)
+
