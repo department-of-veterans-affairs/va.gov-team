@@ -20,103 +20,94 @@
 
 
 ## <a name="url"></a>URLs and breadcrumbs
-![Screenshot 2024-08-19 at 3 36 19 PM](https://github.com/user-attachments/assets/64f09fb3-25d3-43b1-8ad3-004bc0936d77)
+![Screenshot 2024-09-11 at 3 47 10 PM](https://github.com/user-attachments/assets/b71462ae-d780-4eba-ae44-c45e5c00292c)
 
 
 **1) DEA - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [DEA Ch 35 H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Survivors’ and Dependents’ Educational Assistance
 
 **2) DEA Rates - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/rates
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [DEA Ch 35 H1] > [dea rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Survivors’ and Dependents’ Educational Assistance > Chapter 35 rates for survivors and dependents
 
 **3) DEA FUTURE Rates - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/rates/future-rates
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [DEA Ch 35 H1] > [dea rates H1] > [future rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Survivors’ and Dependents’ Educational Assistance > Chapter 35 rates for survivors and dependents > Future rates for Chapter 35
 
 **4) DEA PAST Rates 22-23 - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/rates/past-rates-2022-2023
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [DEA Ch 35 H1] > [dea rates H1] > [22-23 rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Survivors’ and Dependents’ Educational Assistance > Chapter 35 rates for survivors and dependents > Past rates: 2022-23 Chapter 35
 
 **5) DEA PAST Rates 21-22 - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/rates/past-rates-2021-2022
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [DEA Ch 35 H1] > [dea rates H1] > [21-22 rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Survivors’ and Dependents’ Educational Assistance > Chapter 35 rates for survivors and dependents > Past rates: 2021-22 Chapter 35
 
 **6) DEA PAST Rates 20-21 - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/rates/past-rates-2020-2021
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [DEA Ch 35 H1] > [dea rates H1] > [20-21 rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Survivors’ and Dependents’ Educational Assistance > Chapter 35 rates for survivors and dependents > Past rates: 2020-21 Chapter 35
 
 **7) Fry - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [Fry H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Fry Scholarship
 
 **8) Fry rates - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [Fry H1] > [Fry rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Fry Scholarship > Fry Scholarship rates
 
 **9) Fry FUTURE Rates - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates/future-rates
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [Fry H1] > [Fry rates H1] > [future rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Fry Scholarship > Fry Scholarship rates > Future rates for Fry Scholarship
 
-**10) Fry PAST Rates 22-23 - Change**
+**10) Fry PAST Rates 23-24 - Change**
+- URL: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates/past-rates-2023-2024
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Fry Scholarship > Fry Scholarship rates > Past rates: 2023-24 Fry Scholarship
+
+**11) Fry PAST Rates 22-23 - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates/past-rates-2022-2023
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [Fry H1] > [Fry rates H1] > [22-23 rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Fry Scholarship > Fry Scholarship rates > Past rates: 2022-23 Fry Scholarship
 
-**11) Fry PAST Rates 21-22 - Change**
+**12) Fry PAST Rates 21-22 - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates/past-rates-2021-2022
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [Fry H1] > [Fry rates H1] > [21-22 rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Fry Scholarship > Fry Scholarship rates > Past rates: 2021-22 Fry Scholarship
 
-**12) Fry PAST Rates 20-21 - Change**
+**13) Fry PAST Rates 20-21 - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates/past-rates-2020-2021
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [Fry H1] > [Fry rates H1] > [20-21 rates H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Fry Scholarship > Fry Scholarship rates > Past rates: 2020-21 Fry Scholarship
 
-**13) Dea/Fry application - Change**
+**14) Dea/Fry application - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/apply-dea-fry-form-22-5490/
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [dea/fry form H1]
-- Notes: URL is TBD finalizing H1. Depending on whether we can get education product team resources, this form may/may not launch in this phase.
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Apply for education benefits as an eligible dependent
+- Notes: Depending on whether we can get education product team resources, this form may/may not launch in this phase.
 
-**14) Transferred GI benefits - Change**
-- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [transferred benefits H1]
-- Notes: URL is TBD finalizing H1
+**15) Transferred GI benefits - Change**
+- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Transferred education benefits for family members
 
 **15) Transferred GI benefits rates - Change**
-- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/rates
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [transferred benefits H1] > [transferred benefits rates H1]
-- Notes: URL is TBD finalizing H1
+- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Transferred education benefits for family members > Transferred Post-9/11 GI Bill benefit rates
 
 **16) Transferred GI benefits FUTURE Rates - Change**
-- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/rates/future-rates
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [transferred benefits H1] > [transferred benefits rates H1] > [future rates H1]
-- Notes: URL is TBD finalizing H1
+- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/future-rates
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Transferred education benefits for family members > Transferred Post-9/11 GI Bill benefit rates > Future rates for transferred Post-9/11 GI Bill benefits
+
+**17) Transferred GI benefits PAST Rates 23-24 - Change**
+- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/past-rates-2023-2024
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Transferred education benefits for family members > Transferred Post-9/11 GI Bill benefit rates > Past rates: 2023-24 transferred Post-9/11 GI Bill benefits
 
 **17) Transferred GI benefits PAST Rates 22-23 - Change**
-- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/rates/past-rates-2022-2023
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [transferred benefits H1] > [transferred benefits rates H1] > [22-23 rates H1]
-- Notes: URL is TBD finalizing H1
+- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/past-rates-2022-2023
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Transferred education benefits for family members > Transferred Post-9/11 GI Bill benefit rates > Past rates: 2022-23 transferred Post-9/11 GI Bill benefits
 
 **18) Transferred GI benefit application 22-1990 - Change**
-- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/apply-form-22-1990e
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [transferred benefits H1] > [transferred benefits application H1]
-- Notes: URL is TBD finalizing H1. Depending on whether we can get education product team resources, this form may/may not launch in this phase.
+- URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/apply-form-22-1990e
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Transferred education benefits for family members > Apply to use transferred education benefits
+- Notes: Depending on whether we can get education product team resources, this form may/may not launch in this phase.
 
 **19) Educational and career counseling CH36 - Change**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/educational-and-career-counseling
-- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > [Ch36 H1]
-- Notes: URL is TBD finalizing H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Educational and career counseling for family members
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -128,14 +119,14 @@
 
 - **Education and career benefits**
    - **Get - Main (H2)**
-       - **Transfered edu. benefits for family: New URL TBD**
-       - **Survivors and dependents educational assistance: New URL TBD**
-       - **Fry scholarship: New URL TBD**
+       - **Transfered edu. benefits for family: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/**
+       - **Survivors and dependents educational assistance: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/**
+       - **Fry scholarship: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/**
        - Yellow Ribbon: https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/
        - STEM scholarship: https://www.va.gov/education/other-va-education-benefits/stem-scholarship/
        - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
        - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
-       - **Educational and career counseling Ch 36: New URL TBD**
+       - **Educational and career counseling Ch 36: va.gov/family-and-caregiver-benefits/education-and-careers/educational-and-career-counseling*
     - **Get - Additional benefits or services(H3)**
        - Vocational rehabilitation and employment for ppl who qualify: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
        - **R+S: SECO: New URL TBD**
@@ -151,9 +142,9 @@
        - Manage or pay overpayments or debt: https://www.va.gov/manage-va-debt/
        - Request decision review: https://www.va.gov/decision-reviews/
     - **More(H2)**
-       - **Transferred 9/11 GI Bill benefit rates: New URL TBD**
-       - **Fry Scholarship rates: New URL TBD**
-       - **DEA/CH35 rates: New URL TBD**
+       - **Transferred 9/11 GI Bill benefit rates: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates**
+       - **Fry Scholarship rates: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates**
+       - **DEA/CH35 rates: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/**
        - **R+S: How to choose GI Bill approved schools: New URL TBD**
        - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
        - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
@@ -176,6 +167,7 @@ The education/careers left nav will have the following structure. These are not 
    - Fry Scholarship
       - Fry rates
          - Future rates
+         - Past rates: 23-24
          - Past rates: 22-23
          - Past rates: 21-22
          - Past rates: 20-21 
@@ -184,11 +176,11 @@ The education/careers left nav will have the following structure. These are not 
       - Apply form 22-1990e (Depending on whether we can get education product team resources, this form may/may not launch in this phase.)
       - Transferred benefit rates
          - Future rates
+         - Past rates: 23-24
          - Past rates: 22-23
     - CH 36
       
-  ![Screenshot 2024-08-19 at 3 39 42 PM](https://github.com/user-attachments/assets/7a3369e5-16e9-483e-a2ac-adec95f128d8)
-
+![Screenshot 2024-09-11 at 4 13 33 PM](https://github.com/user-attachments/assets/f68d70f0-3b64-4fa3-a6e1-8b9c28ad022f)
 
 
 ### Crosslinks
@@ -225,6 +217,17 @@ The education/careers left nav will have the following structure. These are not 
 
 ![Screenshot 2024-08-19 at 3 43 59 PM](https://github.com/user-attachments/assets/3ad90051-b300-4761-b010-54700b9a8c98)
 
+4. **Education mega menu** - [Remove]
+  - Placement description: Remove link to survivor and dependent benefits?
+  - Note: open Q to Mikki
+![Screenshot 2024-09-11 at 4 20 17 PM](https://github.com/user-attachments/assets/134ecff6-e219-4a5e-b148-7e38d68c76c0)
+
+4. **Education hub page** - [Edit]
+  - Placement description: Update the link to VA education benefits for survivors to point to our new URL: va.gov/family-and-caregiver-benefits/education-and-careers/
+
+![Screenshot 2024-09-11 at 4 22 14 PM](https://github.com/user-attachments/assets/33a45dd7-3258-4b17-9daf-a915495b9a27)
+
+
 
 ## <a name="redirects"></a>Redirects <br>
 
@@ -246,12 +249,12 @@ The education/careers left nav will have the following structure. These are not 
 |                              Fry past rates: 21-22 | https://www.va.gov/education/benefit-rates/fry-scholarship-rates/past-rates-2021-2022/                                                 | va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates/past-rates-2021-2022                 |                                  |
 |                              Fry past rates: 20-21 | https://www.va.gov/education/benefit-rates/fry-scholarship-rates/past-rates-2020-2021/                                                 | va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates/past-rates-2020-2021                 |                                  |
 | DEA/Fry application FORM                           | https://www.va.gov/education/apply-for-education-benefits/application/5490/introduction AND ALL CHILD PAGES                            | va.gov/family-and-caregiver-benefits/education-and-careers/apply-dea-fry-form-22-5490/                                |                                  |
-| Transferred post 9/11 GI bill benefits static page | https://www.va.gov/education/survivor-dependent-benefits/transferred-benefits/                                                         | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/                             |                                  |
-|                         Transferred benefits rates | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/                                                        | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/rates                        |                                  |
-|           Transferred benefits future future rates | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/future-rates/                                           | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/rates/future-rates           |                                  |
-|              Transferred benefit past rates: 23-24 | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/past-rates-2023-2024/                                   | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/rates/past-rates-2023-2024   |                                  |
-|              Transferred benefit past rates: 22-23 | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/past-rates-2022-2023/                                   | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/rates/past-rates-2022-2023   |                                  |
-|               Transferred benefit application FORM | https://www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/introduction AND ALL CHILD PAGES | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-post-9-11-gi-bill/apply-form-22-1990e          |                                  |
+| Transferred post 9/11 GI bill benefits static page | https://www.va.gov/education/survivor-dependent-benefits/transferred-benefits/                                                         | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/                             |                                  |
+|                         Transferred benefits rates | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/                                                        | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates                        |                                  |
+|           Transferred benefits future future rates | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/future-rates/                                           | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/future-rates           |                                  |
+|              Transferred benefit past rates: 23-24 | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/past-rates-2023-2024/                                   | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/past-rates-2023-2024   |                                  |
+|              Transferred benefit past rates: 22-23 | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/past-rates-2022-2023/                                   | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/past-rates-2022-2023   |                                  |
+|               Transferred benefit application FORM | https://www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/introduction AND ALL CHILD PAGES | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/apply-form-22-1990e          |                                  |
 |Education page for family members                   | https://www.va.gov/education/survivor-dependent-benefits/                                                                              | https://www.va.gov/family-and-caregiver-benefits/education-and-careers/                                               | Yes                              |
 |SECO page                                           | https://www.va.gov/careers-employment/family-resources/                                                                                | R+S URL TBD                                                                                                           |                                  |
 |SECO page                                           | https://www.va.gov/careers-employment/dependent-benefits/                                                                              | va.gov/family-and-caregiver-benefits/education-and-careers/educational-and-career-counseling                          |
