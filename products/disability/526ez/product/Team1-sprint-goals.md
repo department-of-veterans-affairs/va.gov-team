@@ -5,8 +5,7 @@
 9/11 - 9/24
 **Toxic Exposure**
 * Complete 75% rollout
- * [stretch] Complete 100% rollout
-* Complete 1.1 (IPF) 5% Canary rollout
+  * [stretch] Complete 100% rollout
 * Address high priority submission and validation errors
 
 ⠀**Submission Experience**
