@@ -11,6 +11,7 @@ For the scope of this intiative, we will test the following approaches:
 The test suite (Cypress) will run a series of steps mirroring a submitter's behavior to test the new Ask VA front-end on VA.gov.
 
 Goal: Establish that the functional requirements of the Form as operating as expected for a Submitter. 
+
 Context: The automated test will execute every action a human takes to complete an Inquiry. 
   
 ### Process
