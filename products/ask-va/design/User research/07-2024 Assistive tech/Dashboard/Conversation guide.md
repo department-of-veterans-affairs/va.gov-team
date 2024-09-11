@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: August 12, 2024
+Last updated by @tygindraux: September 11, 2024
 
 ## Moderator logistics
 
@@ -157,9 +157,9 @@ Thanks! Now I’m able to see your screen. I see [describe window].
 
 Next, I'm going to share a link to the test website.
 
-- Would you prefer that I email you the link, send it in the Zoom chat or dictate it to you?
+- Would you prefer that I send a link in the Zoom chat or dictate it to you?
 
-> Dictate, email or send link in chat: [https://bit.ly/ask-va](https://bit.ly/ask-va).
+> Dictate or send link in chat: [https://bit.ly/ask-va](https://bit.ly/ask-va).
 
 <details>
 
@@ -171,7 +171,9 @@ Next, I'm going to share a link to the test website.
    
 </details>
 
-> Opens staging. On the dashboard.
+> Opens staging. On the homepage.
+
+Okay, great. Now, if you'll navigate to where it says Research Study. Then we're going to click on the sign in button under Research Study.
 
 ## Dashboard (30 minutes)
 
@@ -431,4 +433,4 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 ## Approved by:
 
 - Becky Phung, PO on July 15, 2024
-- Shane Strassberg, VA Research Ops on [DATE]
+- Shane Strassberg, VA Research Ops on September 4, 2024
