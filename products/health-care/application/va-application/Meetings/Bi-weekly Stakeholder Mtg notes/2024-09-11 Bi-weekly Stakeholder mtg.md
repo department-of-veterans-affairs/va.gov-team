@@ -4,7 +4,7 @@
 ### Confirmation emails - prioritization with ES
 * Requested prioritization of this change request
 * VES-27327 Email Confirmation Shift from VES to VA Notify
-* **Heather **sent Change Request number to HEC via TEAMs chat
+* **Heather** sent Change Request number to HEC via TEAMs chat
 * **Heather**: This requires integration between VES and VA Notify, and lays the foundation of other statuses that could be sent to Veterans
 ### Reg Only
 * Demo Next Meeting!
