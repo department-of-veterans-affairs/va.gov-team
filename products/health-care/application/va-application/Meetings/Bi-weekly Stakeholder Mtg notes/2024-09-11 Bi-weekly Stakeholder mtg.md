@@ -17,6 +17,7 @@
 * **Jessica Stump**: [Figma page](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3529-98040&t=qntCrOyDj0OZkEFo-4) with ACA checkbox as it is today, maybe [the new purpose checkbox] belongs somewhere else on the form
 * **Heather**: This will require changes from VES and VA.gov
 * This is something to talk about but is not officially on the roadmap yet
+* We agree to remove the ACA checkbox now, and look into the potential for adding a checkbox for the 1095-B opt-in
 ### EZR EC Address (not on paper form)
 * **Hieu**: is it ok to ask for the EC address in the online form (optional)?
     * Already confirmed the system can accept this data
