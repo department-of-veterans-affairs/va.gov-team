@@ -63,7 +63,7 @@ There are two (potentially three) major components of work to address these prob
 | 21-0972 | Alternate Signer | Use this form if you’re signing a VA benefits application or related form on behalf of someone else. This form certifies you as an alternate signer for the Veteran or non-Veteran with a VA claim (also called the claimant).| |
 | 21P-0847 | Request to be a substitute claimant | Use this form if someone you’re connected to dies before VA finishes processing their VA claim and you want to continue their claim.|
 | 20-10207 | Priority Processing | Use this form to request that VA process your claim faster due to certain situations. One of these descriptions must be true: <br/>- You’re homeless or at risk of becoming homeless, **or** <br/>- You’re experiencing extreme financial hardship (such as loss of your job or a sudden decrease in income), **or** <br/>- You have ALS (amyotrophic lateral sclerosis), also known as Lou Gehrig’s disease, **or** <br/>- You have a terminal illness (a condition that can’t be treated), **or** -<br/>You have a Very Seriously Injured or Ill (VSI) or Seriously Injured or Ill (SI) status from the Defense Department (DOD) (this status means you have a disability from a military operation that will likely result in your discharge from the military),**or**or <br/>-You’re age 85 or older, or <br/>-You’re a former prisoner of war, **or** <br/>-You received the Medal of Honor or the Purple Heart award| |
-| 20-10206 | Request personal records  | Use this form to .... | |
+| 20-10206 | Request personal records  | Use this form to request personal compensation, pension or benefit records | |
 
 
 ### **Functionality & Scope**
