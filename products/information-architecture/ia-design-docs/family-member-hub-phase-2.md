@@ -17,7 +17,7 @@
 
 ## <a name="map"></a>Page structure<br>
 Only orange circled items are launching in 2A
-![Screenshot 2024-09-11 at 5 31 48 PM](https://github.com/user-attachments/assets/dd2ade3a-c5fa-4e1e-ab76-88e5ecae27ef)
+![Screenshot 2024-09-11 at 5 41 27 PM](https://github.com/user-attachments/assets/7f38c890-cc2b-487d-bbc5-d0b8c10fedf0)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
