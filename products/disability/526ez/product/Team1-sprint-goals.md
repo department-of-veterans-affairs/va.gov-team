@@ -1,6 +1,18 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
 
+## Sprint 6
+9/11 - 9/24
+**Toxic Exposure**
+* Complete100% rollout
+* Complete 1.1 (IPF) 5% Canary rollout
+* Address high priority submission and validation errors
+
+⠀**Submission Experience**
+* Submit Timely & Truthful for CAIA review
+  * Revise designs if possible
+* Con’t: Describe (draft) high level intent of up to 3 solutions for Submission Record and Tracking
+
 ## Sprint 5
 Period 8/28 - 9/10
 
