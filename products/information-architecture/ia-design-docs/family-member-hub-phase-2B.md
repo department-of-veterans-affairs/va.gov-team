@@ -1,4 +1,4 @@
-# IA Design for Family Member Hub Phase 2B (there is a 2A)
+# IA Design for Family Member Hub Phase 2B (there is a [2A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/family-member-hub-phase-2.md))
 **STATUS: In Progress**
 
 **Team:** CAIA
