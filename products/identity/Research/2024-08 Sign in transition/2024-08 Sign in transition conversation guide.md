@@ -155,9 +155,13 @@ Are you comfortable with that?
       - Have you ever used Login.gov or ID.me to log into the VA online?
          - [If yes, SKIP inherited proofing questions]
          - [If no, INCLUDE inherited proofing questions]
+
        
 ### Inherited Proofing (only for Veterans without a Login.gov or ID.me account)
 [If they don't know or haven't used a Login.gov or ID.me account]
+ - If you choose to sign up for an account, what's your expectations for how that will work?
+      - Will you see all your same VA and benefit information when using [Login.gov, IDme]?
+      - Would you use the same email account you use for MHV to sign up?
    - [Discuss possible content] If instead of seeing this about "create an account" we instead said “We have started creating a Login.gov account for you using the information from MHV.  You can continue completing your account here.”
       - How would you feel about this?
       - What would you expect to do to complete the account?
