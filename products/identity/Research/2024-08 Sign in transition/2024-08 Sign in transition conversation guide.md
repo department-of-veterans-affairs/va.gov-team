@@ -28,6 +28,7 @@
 
 5-10 min before session:
 - Sign onto Perigean Zoom session
+   - Change name from "moderator" to your name - click Participants > next to "moderator" select "more" > rename
 - Admit the session’s notetaker
 - Check Settings > Meeting > In Meeting (Basic) >
    - Sound notification when someone joins or leaves: OFF
