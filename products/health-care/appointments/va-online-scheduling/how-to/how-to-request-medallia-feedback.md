@@ -64,10 +64,10 @@ No
 |   34  | 08-18-2024      | 08-24-2024       | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763),  [#92051](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92051)        |Done        |
 |   35  | 08-25-2024       | 08-31-2024        | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763),  [#92051](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92051)        |Done        |
 |   36  | 09-01-2024       | 09-07-2024        | Leah De La Costa  |  [#92051](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92051), [92407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92407)     |Done      |
-|   37  | 09-08-2024       | 09-14-2024        | Leah De La Costa  | [92407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92407), [92714](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92714)       |In progress        |
-|   38  | 09-15-2024       | 09-21-2024        | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
-|   39  | 09-22-2024       | 09-28-2024        | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
-|   40  | 09-29-2024       | 09-30-2024       | Leah De La Costa  | [](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763)         |In progress        |
+|   37  | 09-08-2024       | 09-14-2024        | Leah De La Costa  | [92407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92407), [92714](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92714), [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)       |In progress        |
+|   38  | 09-15-2024       | 09-21-2024        | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)     |In progress        |
+|   39  | 09-22-2024       | 09-28-2024        | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)        |In progress        |
+|   40  | 09-29-2024       | 09-30-2024       | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)        |In progress        |       |In progress        |
 
 ### Medallia Feedback Requests - Q2 2024
 
