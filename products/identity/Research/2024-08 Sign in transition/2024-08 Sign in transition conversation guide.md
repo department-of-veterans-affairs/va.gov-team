@@ -16,7 +16,7 @@
 ### Day of session
 10-15 min before session:
 - Post in #feedback-backchannel @ team members joining
-   - “[P#] | Identity, 2024-08 Sign in transition, starts in 15 minutes
+   - “P# | Identity, 2024-08 Sign in transition, starts in 15 minutes :thread
    - In thread, post:
 > How to observe or take notes for this session:
 > - Wait in the Zoom waiting room until the participant agrees you may join
@@ -28,7 +28,7 @@
 
 5-10 min before session:
 - Sign onto Perigean Zoom session
-   - Change name from "moderator" to your name - click Participants > next to "moderator" select "more" > rename
+   - Change name from "moderator" to your name - click Participants > hover over "moderator" select "more" > rename
 - Admit the session’s notetaker
 - Check Settings > Meeting > In Meeting (Basic) >
    - Sound notification when someone joins or leaves: OFF
