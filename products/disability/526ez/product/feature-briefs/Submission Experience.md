@@ -84,30 +84,29 @@ However, today it’s not possible for Veterans to do this. Before the Veteran s
 
 ## 6.2.1 Success
 - Veterans save or print their completed 526ez that matches the submitted claim VA has on file
-- Veterans can access their completed 526 online at VA.gov at a later time
+
 - Should Veterans want help with their claim, they have the information they need to get help
 
 ### 6.2.1.1 As Jobs To Be Done
-* When I want information on my completed 526 form, I need my printed form on hard so I can find the information I need
+* When I want information on my completed 526 form, I need my printed form on hand so I can find the information I need
 * When I want to keep a copy of my completed 526 form I need to be able to download it so I can save it on my computer or in my cloud storage
-* When I want information in my completed 526 form but don’t have it on hand or don’t want to save or print it, I need to be able to locate it on VA.gov so I can get the information I need
 * When I need help with my application, I need access to my completed 526 form so I can get the information I need for myself or to give to someone who is helping me
 
 ### 6.2.1.2 As Themes
 Ensure [result] for [persona]
 * Ensure a printable copy of the submission record is available to the Veteran
 * Ensure a copy of the submission record is available as a download for the Veteran
-* Ensure the submission record is available at a later time on VA.gov for the Veteran
+
 * Ensure that the submission record contains the information needed to get help for the Veteran
 
 ### 6.2.1.3 As User Stories
 * As a [persona] I want [desire or goal] so that [benefit/result] 
 * As a Veteran I want a printed copy of my submission so that I can find the information I need
 * As a Veteran I want to download a copy of my submission record so taht I can save it on my computer or in my cloud storage
-* As a Veteran I want to be able to locate a record of my submission on VA.gov so I can get the information I need at a later time when I don't have a printed copy or a saved copy on my computer
 * As a Veteran I want the information I need to be captured in a submission record so I can get the information I need when seeking help about my submission
 
 ## 6.2.2 Out of Scope
+- Veterans can access their completed 526 online at VA.gov at a later time
 
 ## 6.2.3 Risks and Challenges
 * We can only hold Veteran data 60 days post submission (by policy) and that we'd probably need to have Veterans access this by secure message (which we don't have) or through CST (maybe it's thought of as a letter download type thing) which requires another team collaboration.
