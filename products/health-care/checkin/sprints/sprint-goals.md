@@ -71,7 +71,7 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
     - ❗ 🟦 [Answer Questions on Redis Encryption from Platform Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91455)
     - **Move to New AWS Instance**
-        - 🟨[[DevOps] Eric Oliver needs access to veterans-affairs PagerDuty.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/434)
+        - ✔️ 🟨[[DevOps] Eric Oliver needs access to veterans-affairs PagerDuty.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/434)
         - 🟨[[DevOps] Create terraform_dsva Terragrunt configuration in checkin-devops.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/462)
         - 🟨[[DevOps] Discovery on Vista-API System Verification Tests](https://github.com/department-of-veterans-affairs/checkin-devops/issues/585)
         - 🟨[[DevOps] Discovery on CW, VSECS/CSV, and Staging Scheduler Usage of Vista-API](https://github.com/department-of-veterans-affairs/checkin-devops/issues/586)
