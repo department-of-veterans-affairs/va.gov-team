@@ -97,15 +97,11 @@ Before we look at the prototype, I'd like to get a little background information
 
 - How do you currently file claims with VA?.  
     Let's talk about the website - how do you use [VA.gov](http://va.gov)? 
-    
-- How likely are you to use [VA.gov](http://va.gov) to file a follow-up claim? If not likely, tell me more about that.
-    
+      
 - As part of the scheduling for this session, we asked if you had filed a disability claim with VA. Can you tell me how you got info from VA about updates on those claims?
     
 - How likely are you to use VA.gov to file a follow-up claim?
-    
-
-- If not likely, tell me more about that.
+   - If not likely, tell me more about that.
     
 
   
