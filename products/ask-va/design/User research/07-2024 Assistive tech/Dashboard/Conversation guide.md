@@ -183,7 +183,7 @@ So, today we're going to observe as you navigate this website.
 
 Before you start, I'm going to share some context with you.
 
-This is a tool called Ask VA. It's a way for Veterans to contact the VA and ask a question online. For today's session, we're going to pretend like you recently asked the VA a question and today you've come back to read the reply from the VA. We're going to go through a couple different tasks which I'll explain as we go.
+This is a tool called Ask VA. It's a way for Veterans to contact the VA and ask a question online. For today's session, we're going to pretend like you recently asked the VA a question and today you've just signed into your account on VA.gov to read the VA's reply to your question. We're going to go through a couple different tasks which I'll explain as we go.
 
 And as you navigate, we want to understand what's going through your mind and how your assistive technology is supporting you. I'll try and stay quiet while you're focused on a task [and what your screen reader is announcing]. [If we can't hear their screen reader eg. on mobile, tell them that.]
 
