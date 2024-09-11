@@ -18,156 +18,183 @@ Gary Homidas gary.homidas@adhocteam.us, Skyler Schain skyler.schain@coforma.io
 
 
 ## Research Goals
-With this research we hope to learn how well our designs solve the comprehension problems that exist for Veterans around the claim process. We hope to learn how useful this type of informational content would be for Veterans who are filing disability compensation claims on VA.gov. Which aspects specifically do Veterans find useful (or not)?
+1. Understand more about Veterans' experience with development letters today, including pain points and things that seem to be working.
+2. Evaluate the efficacy of the new 5103 Notice design. 
+3. Asses how well CST's tracked items "content model" for alerts works across a variety of different request types associated with development letters.
+4. Identify pain points in the current development letters experience that we might help resolve with CST user experience improvements
+5. Assess Veteran perception of the value and/or risks associated with electronic-only communications from VA
 
-[See full research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/research-plan.md)
+[See full research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-07-Development-Letters/research-plan.md)
 
 
 
 ## Research Questions
 
-- How do Veterans react to this content? Do they find it useful?
-- Does this new design set the right expectation for how the claim will move between claim steps? Do Veterans understand why and how the claim might move back and forth between certain claim steps?
-- After seeing this design, do Veterans feel like they understand what is happening at each step of the process? How do they feel after seeing this information?
+- Is it clear what Veterans are being asked to do? Is it clear how it relates to the 5103 Notice letter?
+
+**Part 1: Understanding development letters experience**
+- How do Veterans perceive and manage the letters they receive related to their claim?
+- Do Veterans have clarity about what actions they need to take for their claim?
+- What’s difficult about the letters Veterans receive about their benefits claims?
+- What's helpful about the letters Veterans receive about their benefits claims?
+
+**Part 2: Evaluate 5103 design (Prototype)**
+- Are Veterans clear what the alert means and what they're being asked to do?
+- On the document request page, what action are Veterans more likely to take?
+- Are Veterans clear how the 5103 alert relates to the 5103 Notice letter?
+- Can Veterans find the 5103 letter related to their claim?
+
+**Part 3: Review other benefit letter types (Prototype)**
+- Are Veterans clear what the alert means and what they're being asked to do?
+
+**Part 4: Electronic-only communications**
+- If they had the option, would Veterans like receiving only electronic communications like this?
+- How would they configure these communications, if they had those options?
+
 
 ## Methodology 
 
 We conducted hour-long remote moderated research sessions via Zoom
 
 ## Hypotheses and Conclusions
-1. Veterans will find value in the information provided in the new Overview tab and will prefer it to the more basic "process list" design.
 
-   - **DEFINITELY TRUE**: 10 of 14 veterans prefered the new Overveiw tab design on the process list design
+1. Veterans have had some confusing or frustrating experiences with development letters while their claim was being processed.
 
-2. Veterans will have a good understanding of generally what happens at each step of the process (they don't need to understand every little detail).
+   - **MAYBE TRUE**: Participants were generally satisfied with the level of detail in decision letters, but felt that letters confirming receipt of their application or claim status were underwhelming due to their lack of clarity.
 
-   - **MAYBE TRUE**: Many veterans had a general idea of each step, but some were unsure about key details.
+2. There are opportunities to improve the experience of receiving development letters by including them in CST.
 
-3. Veterans will understand that it is normal for claims to go back and forth between steps.
+   - **MAYBE TRUE**: Some Veterans said they would take their letters to the VA for guidance, while others were dissatisfied with the vague status updates provided in the letters.
 
-   - **DEFINITELY TRUE**: most veterans understood that it is normal for claims to go back and forth between steps.
+3. The new 5103 design makes it clear to Veterans what the 5103 Notice letter is for and what is being asked of them.
 
-4. Veterans will find that the new timeline provides a detailed picture of what is happening with a claim.
+   - **LIKELY FALSE**: While the new design helped participants navigate responses to the VA, nearly half were still unclear about the 5103 waiver and its purpose, with the term 'waiver' creating confusion.
 
-   - **LIKELY TRUE**: Most veterans found value with having a timeline; some mentioned it reduced their level of anxiety.
+4. It is reasonably easy for Veterans to find the development letter they're looking for among the full list of letters in the Claim Letters page.
+
+   - **LIKELY TRUE**: Participants primarily relied on the date to find letters, using descriptions as a secondary reference. However, when the date was unknown, descriptions became less helpful due to overlaps. Some participants recommended categorizing the letters to improve their findability.
+
+5. CST's tracked items content model works to make various types of development letters and their notifications clear and actionable in CST.
+
+   - **LIKELY TRUE**: Participants expressed satisfaction with the prototype's layout. Their initial focus was on the top-listed actions for 5103 and development letters. To assist Veterans in completing requests and taking appropriate actions, the development letters page should be structured in a clear and logical manner.
 
 ## Key Findings
 
-1. Most participants said they prefer the new overview page design over the current design.
+1. Most participants liked the new notice page design.
 
-2. Most people understood that our graphics represented the process steps and that some steps may repeat.
+2. Most participants could read and summarize the page content but remained confused about the meaning and purpose of the 5103 waiver.
 
-3. Participants liked the estimated time feature, but there's confusion about timelines when claims repeat steps.
+3. Some participants were paused by the pages displaying confirmation messages and those without notifications.
 
-4. When claims repeat steps, they wanted to know why and who's responsible for resolving the issue.
+4. Most participants valued the thoroughness of decision letters but were frustrated by the lengthy wait and vague information about their claim status.
 
-5. Participants had different preferences regarding the level of detail in the overview page, with some favoring more information and others preferring less.
+5. Most participants preferred receiving only e-communication for development letters.
 
 
 ## Details of Findings 
 
-**1. Most participants said they prefer the new overview page design over the current design.**
+**1. Most participants liked the new notice page design.**
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
-During the study, we discovered that **10 of 14** participants favored the new design. Many of them cited the content's level of detail as their reason. 
+During the study, we discovered that **10 of 12** participants liked the notice page design. They’ve cited that the available options like the claims letters link and VA 21-4142 form link. Note: One participant was excluded due to technical issues.
 
-**Note**: Participant 1 was not counted for this question because they were having internet issues, we weren’t able to get their feedback on that question.
+**Note**: Participant 11 was not counted for this question because they were having internet issues, we weren’t able to get their feedback on that question.
 
-On a scale of 1 to 5 (one being the lowest), Veterans rated the helpfulness and level of detail of the new design as **4.5 and 4.8** respectively. Compared to the current design (control) which average scores 3.8 and 3.7. 
+Veterans rated the page flow of the new design an average of **4.5 out of 5** for helpfulness.
 
-> _More detail...and it had that really great diagram. - P6_
+> _“Very straightforward and helpful: dates letter sent. Deadline to wait for process claims.” - P12_
 
-> _I prefer to know that it can move back…in this version (current design) it can stay in Step 3 for months and make a person feel frustrated...in the other one someone has their eyes on it. - P9_
-
-
-**2. Most people understood that our graphics represented the process steps and that some steps may repeat.**
-
-Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool 
-
-The steps diagram and repeat symbols in the accordion clarified that some steps might repeat during the claims process. While reviewing claim details, some people used the graphic to anticipate when these steps could repeat.
-
-> _[Diagram] 8 step process and it shows 3-6 potential revolving - P18_
-
-> _[Graphic]: Represents the number of steps and shows the step that repeats - P8_
-
-However, it's important to emphasize that the process steps will not skip ahead. If a claim step repeats, the number of steps will also remain constant.
-
-> _I'm guessing maybe if you are step 3 you can skip to step 6 but if they don't have everything to make a decision they can go back to step 3 - P13_
-
-> _out of 8 steps, it might have to turn into 11 steps if they repeat… - P10_
+> _This gives me more confidence in working with the VA, unlike right now where I'm working with a VSO." "Referring to evidence notice page - P1_
 
 
-**3. Participants liked the estimated time feature, but there's confusion about timelines when claims repeat steps.**
+**2. Most participants could read and summarize the page content, but remained confused about the meaning and purpose of the 5103 waiver.**
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
-Participants found solace seeing the estimated timeline for each step in combination with the date when the step began. It helped set expectations on how long an individual step will take. A few Veterans hinted that this feature reduces their need to call VA to inquire about their claim being “stuck”.
+Participants were able to explain the purpose of alerts and understood deadlines, including the 5103 notice 30-day suspension period. They understood they respond to requests from VA.
 
-> _… time frame, that's super important - P12_
+> _“ What page is saying: VA sent you a letter, they're requesting more evidence, you can upload the evidence through the app, and you have a certain amount of time to get that evidence in” - P6_
 
-> _...  It was very upfront like, Hey, this! This should only take one to 2 days. And then it was more detailed. Right? - P11_
+> _“Mostly the page is pretty self-explanatory, just more clarification around what the evidence waiver is and how that plays into the process” - P13_
 
+However, they were confused about submitting the 5103 waiver due to the term 'waiver' and after uploading evidence. Addition to the term, ‘waiver’ creating pause for some participants. Others were under the impression that submitting the waiver would prevent them from adding evidence later.
 
-Nevertheless, we must work with the VBA partners to ensure the accuracy of estimated times and provide clarity on how repeating steps might impact the timeframe.
+> _“Thinks that after he submits waiver, the claim will be "locked" and that he won't be able to submit more evidence” - P5_
 
-> _… does the time estimate start over or does it continue with the time left. - P2_
+**Note**: The content has been updated post the study. We believe it will help Veterans have a clearer understanding of 5103 notice.
 
-**Note**: Our initial time estimates derived from various sources: VBMS Claim Flow (internal), SME workshops (internal), Veteran Disability attorneys and disability claims professionals with former VSRs on staff.
-
-**4. When claims repeat steps, they wanted to know why and who's responsible for resolving the issue.**
-
-Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
-
-In our study, we found that most Veterans found the general overview content helpful. However, when their claims went backward, they wanted to know why specifically. Some were frustrated because they didn't know the exact reasons, especially when the site said, "Nothing is needed from you."
-
-Some Veterans wanted to see a checklist of evidence needed by the VA to assess their claim. They asked two key questions:
-
-1. What evidence is missing, and what can they do to expedite the process?
-2. If the issue lies with VA staff, they wanted to know what happened. 
-
-**5. Participants had different preferences regarding the level of detail in the overview page, with some favoring more information and others preferring less.**
+**3. Some participants were paused by the pages displaying confirmation messages and those without notifications.**
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
+Participants were confused by confirmation messages on the files tab, as its top portion resembled the status tab when an alert was present, making them think they had returned to the status page.
 
-**Prefers more detail**
+> _“ the confirmation being in the files tab is weird because the waiver asserts you are done uploading evidence. But seeing the files upload and content about upload is confusing.” - P9_
 
-11 out of 14 participants appreciated having extra detail; we also noticed these people had more claims filed.
 
-> _... if I logged on and saw this today and I saw all this info, It would take away all the anxiety I have. - P1_
+They were also confused because the claim card page didn't display an update message after uploading evidence or submitting a waiver, giving the impression that nothing had changed.
 
-> _I would give it a 5; compared to eBenefits, this is way more detailed. I would highly rate it. Any questions I’d want someone to answer, it’s already here. Everything has been explained, the verbiage is very direct. Compared to what we had before in eBenefits. - P14_
+> _“I’m still getting an error notice that something needs to be done.” - P15_
 
-**Prefers Less detail**
+> _“Doesn’t show I've uploaded anything a couple days ago. Everything looks the same except the 5103 notice isn't there any more.” - P17_
 
-Participants who liked less detail had different reasons why. We the high level snapshot on the status page meets their need.
 
-> _I like this is better (referring to control design), it’s simple...cuts all the jargon down. - P17_
+**4. Most participants valued the thoroughness of decision letters but were frustrated by the lengthy wait and vague information about their claim status.**
 
-> _“found herself jumping around alot to find information.” <br> <br> “Content on mobile device should be concise, but on desktop, it's OK to have more because of screen real estate” - P13_
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
-***Progressive disclosure Status and Overview tabs***
+Participants felt the letter's content helped them understand how VA arrived at the decision about their claim and guided them on the appropriate actions to take.
 
-We think Key Finding #5 validates our overall design approach, which uses the principle of “progressive disclosure” and a tab navigation to provide both a high level snapshot of the claim (Status) and the option to dig deeper (Overview).
+> _“The decision letters are helpful "absolutely" - likes seeing why the VA made the decision that they made” - P2_
+> _“Helpful? yea tons of stuff. . next step you need to take in whatever claim you’re submitting. there’s stuff that tells you about the site. where to go and what to do.” - P17_
 
-Having these multiple zoom levels we believe will accommodate the needs of Veterans who prefer simplicity as well as those who prefer more detail.
+Participants were frustrated by length of time in receiving claim letters and found updates stating only that the VA was working on their claim unhelpful due to vague information and lack of actions or dates.
+
+
+> _“Was frustrated by the lack of status - mentioned the 5 step process is "so vague and broad" that he doesn't get any useful information” - P13_
+
+> _“Finds letters just saying they'll call him are problematic, but if there are actions with dates attached they're helpful” - P11_
+
+
+
+**5. Most participants preferred receiving only e-communication for development letters.**
+
+Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
+
+
+**Prefers electronic communication**
+
+9 out of 13 preferred electronic communication, citing faster delivery and reduced risk of loss compared to postal service. They would mainly monitor emails for claim updates.
+
+> _“Prefers electrical communication, because I'm always online it's easier. Hopefully I won’t lose it.” - P10_
+
+> _“Would prefer only electronic communications for development letters "it takes forever to get something from the VA through the mail...its ridiculous” - P8_
+
+**Prefers paper communication**
+
+Popular reasons for participants who liked having paper copies would be to have a “back up” and  checks and balances.
+
+> _“At first she said she would prefer electronic only, but then very quickly said "Ahhh actually I like both" -- likes seeing the paper trail and the security of having them in both places” - P2_
+
+> _“only e-comm? i’m old school so i like the mail. getting it electronic would make it easier. the paper would be the back up.” - P6_
 
 ## Secondary Finding
-1. Veterans desired an interactive steps diagram or one that highlights the current step in their claim.
-2. Most people found that the status page provided sufficient information about their claim. We believe this meets the need for people who prefer fewer details.
-3. A few participants were uncertain when they can add evidence.
+1. 33% of participants preferred downloading the PDF version of VA Form 21-4142 over completing it online and wanted the PDFs to be fillable with an electronic signature option.
+2. Participants want a streamlined view of their claim information, taking a 'in progress claims' first approach and making required actions or new notifications prominent.
+3. Participants want mobile app notifications displayed as badges with numbers, similar to other apps.
+4. Participants want two-way communication options like live chat or FaceTime within the app/website for tech support or direct contact with the VSR handling their claim.
 
 ## Recommendations
 
-* Continue the workstream of breaking out the steps and improve the beloved features of the new design while simplifying the content.
-    * _Majority of participants preferred the new design._
-* Ensure the accuracy of the timelines by using the data available and collaborating with VBA stakeholders to set realistic expectations for the process.
-    * _Many participants found the timeline helpful and believe it could reduce stress because it provides answers to questions they had regarding turnaround times._
-* Provide Veterans more specific messages about their claim, particularly if it moves backward.
-    * _Though participants found the overview content useful, they became uncertain about the status of their claim when a step repeated. Particpants wanted to know the exact reason why their claim repeated a step._
-* Collaborate with content strategists and SMEs (subject matter experts) to clarify confusing areas of the content.
-    * _We the claim repeated a step, we noticed different levels of confusion regarding certain content elements: timeframe, claim steps, and adding evidence. We aim to collaborate with content strategist and SMEs to ensure clear communication._
+1. Continue refining the current notice page design.
+2. Clarify that submitting the evidence waiver doesn't prevent Veterans from adding evidence later.
+3. Strengthen the flow to prompt Veterans to submit an evidence waiver after uploading evidence.
+4. Add a homepage message confirming the submission of a waiver or evidence during the last session.
+5. Reduce confusion by moving the 5103 waiver confirmation to the status page and deep-linking to "Additional Evidence" on the files tab when navigating from the 5103 notice page.
+6. Prioritize the online form link over the download link on the VA 21-4142 form page.
+7. Ensure the online VA 21-4142 form closes the tracked item, not just the downloaded version.
+8. Make more PDF forms fillable and allow e-signatures.
 
 
 ## Next Steps
@@ -182,25 +209,23 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-07-Development-Letters/research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-07-Development-Letters/conversation-guide.md)
 
-[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/conversation-guide.md)
+[Interview transcripts]()
 
 
 ## Tools used for Synthesis
 
-[Mural Notes Part 1](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705618111495/a9bf77587949943400add96ee5f6647b2b808653?sender=u80fb5a3b8f7951f35d701197)
+[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723666169965/01ec9b6c7e8c80b5439c0c079a630f008faabf74?sender=u606d6bea4af40ec4fe659363)
 
-[Mural Notes Part 2](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704868295086/7c179c9cbba11a38643c07e4ec9c7ba4dddefe0c?sender=u80fb5a3b8f7951f35d701197)
-
-[Mural Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706894689046/66b3ff6a598ce8e5d30cb989a571ed1e9c4151e1?sender=u80fb5a3b8f7951f35d701197)
+[Mural Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723479885988/f06de5b1f951935c2ba1c8401ffe89a669884c8c?sender=u606d6bea4af40ec4fe659363)
 
 
 ## Pages and applications used
 
-[Prototype](https://www.figma.com/proto/bWELjWsVqkf3BDx0PXqqam/Claim-Contextualization?type=design&node-id=362-14273&t=pcAL3QvO1tkoUKMh-0&scaling=scale-down&page-id=362%3A14273&starting-point-node-id=362%3A14421&prev-org-id=external-teams)
+[Prototype](https://www.figma.com/proto/BUdMIxAiIutG12rZxZ0cg1/Claim-Letters-Navigation-%2B-5103-Alert-Updates?node-id=2479-8381&t=LwNKtGkDqoPJkrXQ-1&starting-point-node-id=2479%3A8381)
 
 
 
@@ -210,16 +235,16 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-We talked to **15 participants.**
+We talked to **13 participants.**
 
 Audience segment:
-* Veterans: 15 
+* Veterans: 13 
 * Caregivers: 0 
 * Family members of a Veteran: 0
 
 Gender:
-* Male: 10 
-* Female: 5
+* Male: 11 
+* Female: 2
 
 LGBTQ+:
 * Transgender: 0
@@ -227,29 +252,29 @@ LGBTQ+:
 * Gay, lesbian, or bisexual: 0
 
 Devices used during study: 
-* Desktop: 0 
-* Tablet: 0 
-* Smart phone: 15
+* Desktop: 11 
+* Tablet: 1 
+* Smart phone: 1
 * Assistive Technology: 0
 
 age: 
 1,2, 5-14, 16-18
 
 Age:
-* 25-34: 0
+* 25-34: 3
 * 35-44: 5
-* 45-54: 3
-* 55-64: 4
-* 65+: 1
-* Unknown: 2
+* 45-54: 4
+* 55-64: 7
+* 65+: 3
+* Unknown: 0
 
 Education:
-* High school degree or equivalent: 0
-* Some college (no degree): 5
-* Associate's degree, trade certificate or vocational training: 3
-* Bachelor's degree: 6
-* Master's degree: 0
-* Doctorate degree: 1
+* High school degree or equivalent: 111
+* Some college (no degree): 2 1
+* Associate's degree, trade certificate or vocational training: 1111
+* Bachelor's degree: 1111111
+* Master's degree: 111
+* Doctorate degree: 0
 * Unknown: 0
 
 Geographic location:
@@ -258,12 +283,12 @@ Geographic location:
 * Unknown: unknown
 
 Race:
-* White: 2
-* Black: 8
-* Hispanic: 4
+* White: 5
+* Black: 3
+* Hispanic: 2
 * Biracial: 0
-* Asian: 2
-* Native: 1
+* Asian: 0
+* Native: 0
 
 Disability and Assistive Technology (AT):
 * Cognitive: 0
