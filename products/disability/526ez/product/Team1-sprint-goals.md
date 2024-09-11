@@ -4,7 +4,8 @@
 ## Sprint 6
 9/11 - 9/24
 **Toxic Exposure**
-* Complete100% rollout
+* Complete 75% rollout
+ * [stretch] Complete 100% rollout
 * Complete 1.1 (IPF) 5% Canary rollout
 * Address high priority submission and validation errors
 
