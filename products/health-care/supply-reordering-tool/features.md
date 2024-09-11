@@ -1,5 +1,5 @@
 # Features 
-This document includes a list of features that currently don't exist for the medical supplies reordering tool, but need to be explored.
+This document outlines a list of features that are currently unavailable in the medical supplies reordering tool but should be considered for exploration after the first round of form updates (in Q1 2025 and forward).
 
 ## Log in and access logics 
 ### Overview 
