@@ -153,7 +153,7 @@ Things to watch for: 
 
 ### Task goal: Validate that the details displayed are the most important pieces of information for disability issues
 
-Ok, great, let’s move on. Can you describe to me what you think this section is for? • Imagine you are filing a Supplemental Claim for headaches and sleep apnea. Please try to do that and talk aloud so we can hear your thought process. (probe as necessary)
+Ok, great, let’s move on. Can you describe to me what you think this section is for? • Imagine you are filing a Supplemental Claim for migraines. Please try to do that and talk aloud so we can hear your thought process. (probe as necessary)
 
   
 
