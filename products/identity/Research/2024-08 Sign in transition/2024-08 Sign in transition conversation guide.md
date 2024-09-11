@@ -21,7 +21,7 @@
 > How to observe or take notes for this session:
 > - Wait in the Zoom waiting room until the participant agrees you may join
 > - Enter with your mic MUTED and video ON - be prepared to give a quick introduction like “Hi my name is Clayton, I’m a researcher for VA.gov”
-> - Please capture your notes or observations in [this Mural board]()
+> - Please capture your notes or observations in [this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1725465491316/e7a181f8754e25d530726bd324837e889b191d11?sender=u2bba352d5b2fc0f0969e0146)
 > - Do not use Zoom chat - post questions for the participant, concerns or questions for the moderator here in Slack, but don’t expect me to see them right away.
 > - Please review [these complete guidelines](https://depo-platform-documentation.scrollhelp.site/research-design/observer-guidelines) before you join the session.
 
