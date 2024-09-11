@@ -60,15 +60,16 @@ We conducted hour-long remote moderated research sessions via Zoom
 
 1. Veterans have had some confusing or frustrating experiences with development letters while their claim was being processed.
 
-   - **MAYBE TRUE**: Participants were generally satisfied with the level of detail in decision letters, but felt that letters confirming receipt of their application or claim status were underwhelming due to their lack of clarity.
-
+   - **MAYBE TRUE**: While most participants were generally satisfied with the level of detail in decision letters, some mentioned they would take their letters to the VA for guidance. Additionally, others expressed dissatisfaction with the vague status updates included in the letters.
+   
 2. There are opportunities to improve the experience of receiving development letters by including them in CST.
 
-   - **MAYBE TRUE**: Some Veterans said they would take their letters to the VA for guidance, while others were dissatisfied with the vague status updates provided in the letters.
+   - **LIKELY TRUE**: Most participants indicated they would prefer electronic-only communication for development letters, with some noting that it would reduce paper waste and allow them to receive letters more quickly than through USPS. 
+
 
 3. The new 5103 design makes it clear to Veterans what the 5103 Notice letter is for and what is being asked of them.
 
-   - **LIKELY FALSE**: While the new design helped participants navigate responses to the VA, nearly half were still unclear about the 5103 waiver and its purpose, with the term 'waiver' creating confusion.
+   - **LIKELY FALSE**: While the new design helped participants navigate responses to the VA, nearly half were still unclear about the purpose of the 5103 waiver. Additonally, some participants were confused by the term 'waiver' as it generally associated with giving up a right.
 
 4. It is reasonably easy for Veterans to find the development letter they're looking for among the full list of letters in the Claim Letters page.
 
@@ -195,6 +196,7 @@ Popular reasons for participants who liked having paper copies would be to have 
 6. Prioritize the online form link over the download link on the VA 21-4142 form page.
 7. Ensure the online VA 21-4142 form closes the tracked item, not just the downloaded version.
 8. Make more PDF forms fillable and allow e-signatures.
+9. The second link on the file uploader should be labeled 'Choose another file' or something similar to clarify that it's the secondary action, rather than using 'Choose from folder.
 
 
 ## Next Steps
@@ -243,8 +245,8 @@ Audience segment:
 * Family members of a Veteran: 0
 
 Gender:
-* Male: 11 
-* Female: 2
+* Male: 9 
+* Female: 4
 
 LGBTQ+:
 * Transgender: 0
@@ -261,19 +263,19 @@ age:
 1,2, 5-14, 16-18
 
 Age:
-* 25-34: 3
-* 35-44: 5
+* 25-34: 1
+* 35-44: 2
 * 45-54: 4
-* 55-64: 7
-* 65+: 3
+* 55-64: 4
+* 65+:  2
 * Unknown: 0
 
 Education:
-* High school degree or equivalent: 111
-* Some college (no degree): 2 1
-* Associate's degree, trade certificate or vocational training: 1111
-* Bachelor's degree: 1111111
-* Master's degree: 111
+* High school degree or equivalent: 2
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 4
+* Bachelor's degree: 4
+* Master's degree: 2
 * Doctorate degree: 0
 * Unknown: 0
 
@@ -283,12 +285,13 @@ Geographic location:
 * Unknown: unknown
 
 Race:
-* White: 5
+* White: 7
 * Black: 3
 * Hispanic: 2
 * Biracial: 0
-* Asian: 0
+* Asian: 1
 * Native: 0
+* self-describe: 1
 
 Disability and Assistive Technology (AT):
 * Cognitive: 0
