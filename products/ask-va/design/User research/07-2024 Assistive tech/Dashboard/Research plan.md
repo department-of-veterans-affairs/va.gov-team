@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: September 5, 2024
+Last updated by @tygindraux: September 11, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -55,8 +55,8 @@ This research will help us document and prioritize any bugs or usability issues 
 1. Veterans will think headers, labels and links are descriptive and clear.
 2. Veterans will be able to interact with all elements using only their keyboards or other devices.
 3. Veterans will be oriented and still able to use the dashboard when magnified.
-4. Sign in will be a barrier for some Veterans using a screen reader or magnification.
-5. Veteran's who use screen readers will find it difficult to know how many cards are under the "Your question" section, including when they filter by category and/or status.
+4. Veteran's who use screen readers will find it difficult to know how many cards are under the "Your question" section, including when they filter by category and/or status.
+5. Veterans will not have difficulty navigating between pages of cards on the dashboard with their assistive technology.
 
 ## Methodology
 
