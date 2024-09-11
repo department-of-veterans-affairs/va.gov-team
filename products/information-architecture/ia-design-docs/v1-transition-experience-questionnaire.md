@@ -44,11 +44,10 @@ The CAIA IA team would like to give feedback on the sub urls that the team sugge
 ### Primary entry point
 _Most of the time this is the CTA on a tool static landing page (a sign in widget).  For forms, it may be on a How to apply page or equivalent. Sometimes the only way to access a feature is via navigation component (top, left) or a header/footer/home page link. This is the only entry point that HAS to be ready to launch when a team goes through staging review._
 
-1. **Transition experience V1 questionnaire static page** - New
-  - Placement description: An action link (since this tool is not auth-only) below descriptor content on the page.
+1. **[Getting started with VA](https://www.va.gov/resources/getting-started-with-va/)** - Add
+   -  Placement description: TBD by content, but somewhere on this page we can direct ppl to the questionnaire static page
   - Link label: TBD by content
-  - Link destination: TBD tool URL
-![Screenshot 2024-07-31 at 12 34 17 PM](https://github.com/user-attachments/assets/b6d678e3-cc08-44d2-896b-455dcd3caa2f)
+  - Link destination: TBD questionnaire static page
 
 
 ### Secondary entry points
@@ -60,10 +59,7 @@ _Any additional locations that the page should be navigable from.  This is often
   - Link destination: TBD questionnaire static page
 ![Screenshot 2024-07-31 at 12 30 45 PM](https://github.com/user-attachments/assets/1f4ed0b9-2bc5-4ea7-9e72-1e61f8c34e63)
 
-2. **[Getting started with VA](https://www.va.gov/resources/getting-started-with-va/)** - Add
-   -  Placement description: TBD by content, but somewhere on this page we can direct ppl to the questionnaire static page
-  - Link label: TBD by content
-  - Link destination: TBD questionnaire static page
+
 
 
 ## <a name="redirects"></a>Redirects <br>
