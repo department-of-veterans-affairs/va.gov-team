@@ -23,17 +23,40 @@
 
 ### Year 2024
 
-#### Q1
-- Search sessions by week: 
-- Total Search Users by week: 
-- Search abandonment rate: 
-- Avg. Searches per User by Week: 
-- Avg. Experience Rating: 
-- Able to complete tasks (percent of surveys): 
- - No 
- - No response 
- - Yes 
-##
+
+## Search metrics 
+
+|	Metric	|	1Q 2024 (Jan - Mar)	|
+| --- | : --- : | 	
+| Search sessions	|	325,549	
+| Searches	|	635,716	
+| Successful searches |		139,238	
+| Abandoned searches	|	213,498	
+| Search abandonment rate	|	66% 
+| Search click rate |		22%	
+| 1st or 2nd result clicked	|	87%	
+| Search refinement rate	|	31%
+
+## Top 10 results clicked - 1Q 2024 (Jan - Mar)
+| Search result | Clicks | 
+| --- | :---:|
+|	Application for Disability Compensation and Related Compensation Benefits	|	5,826
+|	Statement in Support of Claim	|	5,516
+|	Decision Review Request: Supplemental Claim	|	3,481
+|	Intent to File a Claim for Compensation and/or Pension, or Survivors Pension and/or DIC	|	3,418
+|	Community Care Provider—Request for Service	|	3,052
+|	Application Request to Add and/or Remove Dependents	|	2,922
+|	Examination for Housebound Status or Permanent Need for Regular Aid and Attendance	|	2,854
+|	Application for Burial Benefits (Under 38 U.S.C. Chapter 23) (Fillable)	|	2,844
+|	Application for DIC, Survivors Pension, and/or Accrued Benefits	|	2,794
+|	Appointment of Veterans Service Organization as Claimant's Representative	|	2,211
+
+
+
+
+
+
+
 ### Year 2023
 
 #### Q4
