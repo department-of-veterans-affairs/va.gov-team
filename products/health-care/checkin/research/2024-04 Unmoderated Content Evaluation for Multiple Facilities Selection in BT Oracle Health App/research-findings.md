@@ -25,6 +25,8 @@
 | **All Veteran participants:** Veterans that have and have not filed for VA health care travel reimbursement  | 87% (52/60)  | 94% (48/51)  | 98% (59/60)  | 88% (53/60)  | 97% (58/60)  | 65% (39/60)  | 88% (309/351)  |
 
 ## Recommendations
+The results of this study were not directly applied to our product due to a change in the business rules around which and how many appointments could be filed each day. However, we were able to use this feedback towards a different version of this page in which Veterans choose between two appointments at the same facility. 
+
 - Ensure clear information is included for which appointments you can file a claim for using this tool vs. BTSSS. 
 
 ![image (7)](https://github.com/user-attachments/assets/db232eec-e60a-4fdd-aeb3-996bcc1c8446)
