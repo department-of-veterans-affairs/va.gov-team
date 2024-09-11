@@ -69,12 +69,72 @@ Becky: Yeah. And I'm curious. Has your past experiences with calling VA or calli
 > P2: The VA
 
 Becky: Okay. VA, gotcha. 
-🟡
-*Why do you keep using Chatbot? -Typically because that is where you have to start. Typically like a bank, you have to start with Chatbot. ]
+
+> P2: Yeah. Well, I'd say in general for all the things I reach out to first, like I think about like credit card or bank, or something like that. I will, I will, I will never call. I will always try that.
+
+> P2: I will. I will revert to chat bot, which never works. Well, not never, hardly ever works for what I'm asking. And then personal human chat. And then email. And then call.
+
+> P2: Well, maybe even send a letter before I call. But I haven't run into that yet.
+
+Becky: Yeah, no, it's helpful to like. I see the your internal triage, for you know where to start, and then where to go from there. I'm curious, you know you mentioned using Chatbot, and how that often doesn't work. But but it seems like you still go back to using Chatbot. Is there any any particular reason why?
+
+> P2: Typically cause. That's where you have to start. If you don't, like, I'm thinking other things. Not necessarily VA, because, VA, I can just send a secure message.
+
+> P2: But typically like a a bank or credit card, you almost always have to start with the chat Bot, and I'll ask the question. It won't understand. And so I'll just type human or operator, or something to override the system, you know, to to make it go to a human chat.
+
+Becky: Got it. Okay? So what you're talking about is more the like Chatbot to live agent chat experience you've had on other on other sites.
+
+> P2: Yes
+
+Becky: Great well, thanks, for you know, walking through your your process in the past with using the Contact us page and with support with VA.
 
 ## Scenarios
+Becky: For the rest of the session, now I'll give you 2 scenarios where you, as a Veteran, would reach out to VA for help. And these scenarios are actually real questions Veterans asked us this year, just reworded. So before we do that, do that, I'll send you a link to our current Contact us page. 
+
+Becky: And then, and let me know if you have any trouble with opening that.
+
+> P2: Got it? Well, maybe here it goes. Well, try again. Okay I have it.
+
+Becky: All right, and have you shared your screen on Zoom before?
+
+> P2: Yes. I'm not as good at this as Teams, but here we go.
+
+Becky: No worries. Okay awesome. That was amazingly quick. So that's great. Alright. So I'll give you your first scenario. Now, again, we'll review two total scenarios in this session.
+
 ### Login scenario
-[I would not use the Chatbot, I would not go to the Call Us because I don’t want to do that. I would go to the FAQ’s, might be there. Maybe it would be into signing into the VA.gov. I will search logging in, but it doesn’t really say.
+Becky: So I'd like you. Oh oops all of my screens. Just minimize. Okay, I'd like you to pretend that you're a Veteran, and you're having trouble creating an account on VA.gov.
+
+Becky: So you're trying to create a Login.gov account. But Login.gov doesn't let you use your passport as a form of identification. However, you don't have your driver's license or any other forms of identification. You've you've recently lost your driver's license. So that's why you're using your passport.
+
+Becky: So starting on this page, the one you have open right now, can you show me how you would find help for this scenario? And as you're showing me, just tell me what you're thinking and noticing, too, on the page. And yeah, that's the scenario.
+
+> P2: I think this is a very. It seems like my my chain of thought is, it's kind of a specific request again, so I probably would not use the chat Bot. Knowing the functionality of the chat bot.
+
+ > P2: I would not go to the call us, because I don't. I don't want to do that. One thing that does that stick out to me is the frequently asked questions. So I might look there to see if there are any topics that might be helpful how to use VA.gov to manage your benefits, it might be there.
+
+> P2: So I would probably click. Don't you just go ahead and click around. Is that okay?
+
+Becky: Go ahead and interact. 
+
+> P2:  Okay, so I probably click in here. And it was the id me, was that the one or which? Which? Which one am I trying.
+
+Becky: Yeah, you're trying to create an account with Login.gov, but you can't use your passport. That's the scenario or the problem right now.
+
+> P2: Okay, so I don't know, so maybe it would be signing into VA.gov. Issues with signing in. I see here. What if I don't have... It doesn't really give me the information here that I'd be looking for.
+
+> P2: I might look under problems. Try and do a search. 'logging in.' Oh, by the way, typing in front of people is my biggest fear.
+
+Becky: It's all good.
+
+> P2: So see if that gives me anything problem long again. I don't know if it will. Issues with, you know, it's kind of issues of signing in. But it doesn't really say. And this is not going very quickly. Starting again. Try that again.
+
+> P2: Looks like it's locked on my side, which doesn't really surprise me.
+
+Becky: Yeah, no worries while we're while this page is loading. Some follow-up questions for me. So you know you, it seems like you gravitated towards the FAQ link, first on the Contact us page. 
+
+> P2: 
+
+
 *Would you expect to see this type of support on this type of website? -I would because it’s a login issue/creating a login account, it's before the login on the page since I can't get to the other side. I would think there would be something more of a discussion of identification. I know if I tried to use the Ask VA, I would go there. 
 *What do you think the Ask online means? -That would be through the secure messaging system.
 *Do you know what other Other Resources might be? -Might be a one-page with picture document, but I can’t think of other resources that isn’t covered in the FAQ.
