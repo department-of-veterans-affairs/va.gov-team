@@ -9,7 +9,7 @@ The medical supplies reordering form is authenticated and has some access requir
 
 ## Requirements
 
-**Functional**
+### Functional
 - A Veteran can only log into the form if all the following are true:
   - Enrolled in VA healthcare
   - Registered as a patient at a VA medical center
@@ -17,6 +17,10 @@ The medical supplies reordering form is authenticated and has some access requir
   - LOA3 account (Premium MyHealtheVet, Id.me, Login.gov, or DS Logon Level 2 login credential)
  
 - A message must be displayed to any non-registered and non-verified Veterans informing them they must be registered at VAMC and have a verified account to use the tool.
+
+### Non-functional
+- To determine registered facilities, the front end uses the facilities information provided by the VA Profile team.
+
 
 ## Specifications
 
@@ -27,10 +31,7 @@ The medical supplies reordering form is authenticated and has some access requir
 [Page content](Add link)
 
 ## Metrics
-<!--Goals for this feature, and how we track them through analytics-->
-
-- Goal 1
-- Goal 2
+To monitor any errors and user feedback regarding login and access when users try to log in. 
 
 **Events tracked**
 <!-- Descriptions of events tracked on this page to meet those goals -->
@@ -38,7 +39,7 @@ The medical supplies reordering form is authenticated and has some access requir
 - Event 1
 - Event 2
 
-[All events VAOS tracks](Link TBD)
+[All events Medical supplies reordering tool tracks](Link TBD)
 
 ## Alerts and conditional states
 <!-- Any alerts that could display for this feature and what triggers them. -->
