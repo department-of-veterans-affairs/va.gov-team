@@ -132,14 +132,92 @@ Becky: It's all good.
 
 Becky: Yeah, no worries while we're while this page is loading. Some follow-up questions for me. So you know you, it seems like you gravitated towards the FAQ link, first on the Contact us page. 
 
-> P2: 
+Becky: Would you expect to see this type of support on a on a Contact us page on the website?
 
+> P2: Yeah, I would only because I mean, if it's a, if it's a login issue, I guess it's not really a login issue.
 
-*Would you expect to see this type of support on this type of website? -I would because it’s a login issue/creating a login account, it's before the login on the page since I can't get to the other side. I would think there would be something more of a discussion of identification. I know if I tried to use the Ask VA, I would go there. 
-*What do you think the Ask online means? -That would be through the secure messaging system.
-*Do you know what other Other Resources might be? -Might be a one-page with picture document, but I can’t think of other resources that isn’t covered in the FAQ.
-I might look to helpful online tools. Looking at it, I don’t think it has anything I’m looking for. 
-*What would you add? -Online web forms. Electronic forms that I would of filled out on paper before
+> P2: It's a creating a website issue or creating a login account issue. I would, I would think it would be.
+
+> P2: I mean, it's definitely on the before the firewall or before the login, you know, on the front side of the page as opposed to behind the sign in because I'm having trouble signing in, so I can't get to the other side.
+
+> P2: So that's where I would expect it to be.
+
+> P2: I would think that there would be something my, my whole login is not going here or the whole website's locked up for me
+
+Becky: That may be an issue on our end. So don't worry about trying to search right now.
+
+> P2: Yeah Ok. So I think, I think it would be about, you know, more of a discussion on what are acceptable forms of ID or something like that for login.
+
+> P2: I think I would find that that would make sense to me to be in a frequently asked questions page.
+
+> P2: And if it yeah, that that's why I would expect to find it if I couldn't find it there.
+
+> P2: I know if I tried to do that through through Ask VA, there's a secure and a non secure side.
+
+> P2: So that would be my next. If I couldn't find anything there and I had already used Reddit, that would be my next. That would be my next line would be to contact through the Ask VA link there.
+
+Becky: And I know this question maybe a bit biased because you already have experience with Ask VA, it seems, but what do you think contact us online means
+
+> P2: That would be through the secure messaging system where it's going to go to a A, VA, you know, the, the right VA Rep that can answer that question and get it back to me via, well I mean it's a secure system.
+
+> P2: So it would come back to me, I'd get an e-mail that said, hey, there's an answer, go back and check it out.
+
+> P2: And I would expect in this case, I wouldn't have to log in to get the answer because I don't, I can't log in.
+
+> P2: So I would think there would be a difference between, you know, just a general question and a secure question about my account specifically.
+
+Becky: Got it. No, no, that totally makes sense. And yeah, the the reason why I asked you is sometimes, you know, this language can be a bit ambiguous or general contact us online.
+
+Becky: But it sounds like, you know, you have an understanding that this means to send a message, a secure message.
+
+Becky: I notice you use that phrase in particular to send a secure message to VA. Yeah, that makes sense to me. 
+
+Becky: And real quick, going back to the FA QS Section 2, I wanted to ask what do you think resources and support means?
+
+Becky: This is another, you know, phrase we use to to talk about this section of the website.
+
+> P2: I would think, let's see. So FAQs, step by step guides and other resources. Other resources might be I, I kind of think, I'm not really sure what a different resource would be other than like, like at work, we create a one pager document that has a picture and some information about something that you, you know, a specific area of a website you might be interested or something like that.
+
+> P2: So maybe that, but I can't think of any, you know, an an other resource other than what would be covered in FAQ because to me, step by step guides come from the FAQ. How do you do this? And then it'll reference you out and give you step one through 10. This is how you do it.
+
+> P2: But I'm not really totally sure what another resource would be.
+
+Becky: No, that's helpful to to hear how that phrase is still a bit confusing in relation to, you know, the other, the other pieces of content we have outlined here.
+
+Becky: So you mentioned, you know, going through the FAQ section, then you would try to send a message if for whatever reason those two channels do not work out.
+
+Becky: What would be your next step in sort of trying to get an answer to to your login account creation issue?
+
+> P2: I might look at helpful online tools. I saw that there, which seems a lot like, wait, is that the FAQs? Oh, yeah, I just noticed that. So I might look at what that is helpful Online Tools, which looking at this box, I don't think that really does anything that I'm looking for.
+
+> P2: So, so chat bot didn't work.
+
+Becky: A similar question. What do you think a helpful online tool is? What is an online tool you can think of?
+
+> P2: It seems like those are the online web forms forms things that I would normally long time ago fill out in paper, but just the electronic version of those like address changes or these are all forms that I would have filled out in paper years ago.
+
+> P2: And so it looks like helpful, the helpful online tools are these four things limited to these four things which don't look like anything that I need to do.
+
+Becky: OK great. Sorry, I didn't mean to interrupt you too. I think you're going going past the online tools when I asked a follow up question.
+
+> P2: Oh yeah, I would, I would try that. And if that didn't work, then I would be have to call somebody.
+
+Becky: Got it. Yeah, let's, let's have a look at this section again. Your, your challenge is you only have a passport and Login.gov's not letting you create an account on va.gov with just your passport and you don't have a driver's license because you lost it.
+
+Becky: So given that, which, how would you decide to, how would you decide which phone number to call based on this list?
+
+> P2: I, I think it's a general question. So kind of looking here, I mean, this is the everything pile, which is monster to get through, but that's kind of the first option.
+
+> P2: It's not I I wouldn't use the TTY because I don't have I think that's a hearing impaired thing that I don't need.
+
+> P2: It's not a VA benefits question because it's into that. It's into, I can't get into the page at all.
+
+> P2: It's not a GI Bill question. It's not a homeless question. Health benefits is still within the website that I can't get into my health.
+
+> P2: That same thing. Other helpful numbers. I could look there. I'm hesitant, although I would say probably what I would do is just call the that number.
+
+🟡
+
 *How would you decide which phone number to call? -I wouldn't use the TTY, it’s not a benefits or GI question, not a health website. I could look in other helpful numbers. I might click in the full list of numbers, but I might call the 411 number. 
 To put a Contact Us or phone number on the front page, it might be helpful. Then I wouldn’t have to call this 411 number that is very dreadful. ]
 ### Claims scenario
