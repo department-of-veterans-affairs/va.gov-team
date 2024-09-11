@@ -14,7 +14,7 @@ The top issues described by Veterans that recur every month are mainly
 
 The new solution created by the team will address these difficulties for  both  the VBA path and the VHA path by:
 
--   Re-organizing the information architecture (IA) with one thing per page (minimizing the clutter on the debt details page by separating debt details and ways to resolve)
+-   Re-organizing the information architecture (IA) with one thing per page to improve findability and navigation (minimizing the clutter on the debt details page by separating debt details and ways to resolve)
 -   Adding a payment history table where Veterans can view their recent transactions (payments made) and pending charges, in addition to the latest statement data.
 -   Specific to VHA, adding VHA copay details that do not currently exist in the portal and simplifying the VHA copay details that are available in the debt portal so that they are easy to view and understand.
 
@@ -56,8 +56,6 @@ Followed by:
 -   Overall Satisfaction with this Site across [23] respondents 1.77. The mode is a 1.
 
 ## Qualitative Findings
-
-54 respondents left qualitative feedback overall.
 
 33 respondents said they were not able to complete their tasks.
 
@@ -109,7 +107,7 @@ The findings on the VHA copay pages mirror the findings in the July 2024 report.
 
 > Kind of hard to pay co-pay if site is continuously down. And the fact that NO One at the VA gives a damn about it nor do they fix the issue.
 
-website is incredibly slow to load and times out
+> website is incredibly slow to load and times out
 
 # Overview pages:
 
