@@ -22,5 +22,5 @@
 | **Have filed before:** Veterans that have filed for VA health care travel reimbursement  | 86% (37/43) | 92% (33/36) | 98% (42/43) | 88% (38/43) | 98% (42/43)  | 67% (29/43)  | 88% (221/251)  |
 | **Not filed before:** Veterans that have not filed for VA health care travel reimbursement  | 88% (15/17)  | 100% (15/15)  | 100% (17/17) | 88% (15/17)  | 94% (16/17)  | 59% (10/17)  | 88% (88/100) |
 | _Breakdown of "Not filed before" cohort: Not filed before; thinks they're eligible_  | _88% (7/8)_  | _100% (7/7)_  | _7/7 (8/8)_  | _100% (8/8)_  | _100% (8/8)_  | _50% (4/8)_  | _89% (42/47)_  |
-| _Breakdown of "Not filed before" cohort: Not filed before; not sure if they're eligible_  | _Content Cell_  | _Content Cell_  | _Content Cell_  | _Content Cell_  | _Content Cell_  | _Content Cell_  | _Content Cell_  |
-| **All Veteran participants:** Veterans that have and have not filed for VA health care travel reimbursement  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| _Breakdown of "Not filed before" cohort: Not filed before; not sure if they're eligible_  | _89% (8/9)_  | _100% (8/8)_  | _100% (9/9)_  | _78% (7/9)_  | _89% (8/9)_  | _67% (6/9)_  | _87% (46/53)_  |
+| **All Veteran participants:** Veterans that have and have not filed for VA health care travel reimbursement  | 87% (52/60)  | 94% (48/51)  | 98% (59/60)  | 88% (53/60)  | 97% (58/60)  | 65% (39/60)  | 88% (309/351)  |
