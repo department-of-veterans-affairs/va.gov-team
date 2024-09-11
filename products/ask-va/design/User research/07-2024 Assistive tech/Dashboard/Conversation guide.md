@@ -37,8 +37,7 @@ Last updated by @tygindraux: September 11, 2024
 - [Warm up - 5 minutes](#warm-up-5-minutes)
 - [Set up - 10 minutes](#set-up-10-minutes)
 - [Dashboard - 30 minutes](#dashboard-30-minutes)
-- [Details – 20 minutes](#details-20-minutes)
-- [Reply – 10 minutes](#reply-10-minutes)
+- [Details – 30 minutes](#details-20-minutes)
 - [Cool down - 10 minutes](#cool-down-10-minutes)
 
 This document also contains [pause or exit strategies](#pause-or-exit-strategies).
@@ -260,7 +259,7 @@ Now, we're going to read the reply from the VA. I'd like you to show me how you 
 
 </details>
 
-## Details (20 minutes)
+## Details (30 minutes)
 
 > Screen: Question details page
 
@@ -268,70 +267,41 @@ Okay, great.
 
 - Before we talk about this page, did you have any difficulty finding the link to this page?
 
-Great. We're going to do the same thing on this page.
+Great.
 
 ### Task 1
 
-First, I'd like you to find and read the reply that the VA sent you.
+The first thing I'd like you to do is find the reply that the VA sent you.
 
 `When they've finished...`
 
-- What did the VA reply to you?
+- What day did the VA reply to you?
 - How did you navigate to the reply on this page?
 
 ### Task 2
 
-Next, I'd like you to tell me what you would do if you read this reply and you had a follow-up question.
+Next, I'm going to give you some time to read the reply from the VA. And then I'd like you summarize their reply.
 
 `When they've finished...`
 
-- Did you find anything else on this page that could help?
-- If you couldn't find anything on this page, what would you do?
-- Can you send a reply back to the VA?
+- What did the VA say to you in this message?
+- Would you have any follow up questions after reading this message?
+- Is anything missing from their reply?
 
 ### Task 3
 
-Now, let's try and reply back to the VA. Go ahead and write a short reply to the VA (you can write anything). And send it.
+Now, we're imagining that you sent the VA a follow up question after they replied to you. Can you read the follow up question you sent the VA?
 
 `When they've finished...`
 
-> Navigates to reply confirmation page.
+- What day did you send the VA a follow up question?
+- What did you send back to the VA?
 
-<details>
-  <summary>Key things to notice</summary>
+### Task 4
 
-- How do they navigate through the page elements?
-- Are there any areas or components they struggle to interact with?
-- Are all interactive elements properly labeled and announced?
-- Is the tab order logical and easy to follow?
-- Where did they pause, if at all?
-- Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
+Let's say that you had waited over a week now after sending a follow up question. Tell me what you would do next, if you felt you had waited long enough for a reply back.
 
-</details>
-
-## Reply (10 minutes)
-
-> Screen: Reply confirmation page.
-
-Okay, great.
-
-- Before we talk about this page, how was that process of replying back to the VA?
-
-Great. I'll give you a minute to read through this page and then I'd like to know if you have any questions about it.
-
-`When they've finished...`
-
-- Do you have any questions about what you just read?
-- What's the next step in the process after you sent the VA a follow up question?
-
-### Task 1
-
-Great. I'd like to do one more thing. I'd like for you to navigate back to the home page, where we started. That's the page where you could read all of your questions.
-
-`When they've finished...`
-
-- Did you have any trouble finding how to get back to this page?
-- Is there anything else you want to share about this page?
+- Is there anything else on this page that could help?
 
 <details>
   <summary>Key things to notice</summary>
