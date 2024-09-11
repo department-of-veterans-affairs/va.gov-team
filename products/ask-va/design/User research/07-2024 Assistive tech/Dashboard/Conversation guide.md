@@ -37,7 +37,8 @@ Last updated by @tygindraux: September 11, 2024
 - [Warm up - 5 minutes](#warm-up-5-minutes)
 - [Set up - 10 minutes](#set-up-10-minutes)
 - [Dashboard - 30 minutes](#dashboard-30-minutes)
-- [Details – 30 minutes](#details-20-minutes)
+- [Details – 20 minutes](#details-20-minutes)
+- [Reply – 10 minutes](#reply-10-minutes)
 - [Cool down - 10 minutes](#cool-down-10-minutes)
 
 This document also contains [pause or exit strategies](#pause-or-exit-strategies).
@@ -145,6 +146,7 @@ Okay, great. We're going to do that now.
   - `IF NO` I’ll help guide you through how to share your screen...
 
 ### Troubleshooting: Screen share issues
+- If testing with TTS software, like Dragon, ask the participant to share their **full screen** this way we can see the flags, grid, etc.
 - If testing on VoiceOver (Mac), tell participants to navigate to "Share" (tab or they can do shift + command + S). Then, once they choose "Share," they need to share sound. They should tab until they hear "Share sound" and then check on. Then, choose, "Share" again to finish.
 - Refer to [Screen reader instructions: Setting up screen share](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
 - Ask the accessibility specialist to come off mute and assist.
@@ -223,13 +225,14 @@ I'll give you a couple of minutes to navigate around. After you finish, I'd like
 
 ### Task 3
 
-Next, I'd like you to find a question that's related to housing assistance.
+Next, I'd like you to find a question that's related to home loans.
 
 `When they've finished...`
 
-- Which question is related to housing assistance?
+- Which question is related to home loans?
 - How did you find the question that's related to housing assistance?
 - If you weren't sure how to find it, what would you do?
+- Did you have any difficulty navigating to the second page of questions?
 
 ### Task 4
 
@@ -257,10 +260,11 @@ Now, we're going to read the reply from the VA. I'd like you to show me how you 
 - Is the tab order logical and easy to follow?
 - Where did they pause, if at all?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
+- Are statuses clear? Do they require more description? If so, just for screen reader users or for everyone?
 
 </details>
 
-## Details (30 minutes)
+## Details (20 minutes)
 
 > Screen: Question details page
 
@@ -291,18 +295,23 @@ Next, I'm going to give you some time to read the reply from the VA. And then I'
 
 ### Task 3
 
-Now, we're imagining that you sent the VA a follow up question after they replied to you. Can you read the follow up question you sent the VA?
+Next, there's a message that was sent on September 12th. I'd like you to find that message and let me know when you've found it.
 
 `When they've finished...`
 
-- What day did you send the VA a follow up question?
-- What did you send back to the VA?
+- In this scenario, who sent this message?
 
 ### Task 4
 
-Let's say that you had waited over a week now after sending a follow up question. Tell me what you would do next, if you felt you had waited long enough for a reply back.
+Okay, now, let's say that you have waited over a week now after sending this follow up question. Tell me what you would do next, if you felt you had waited long enough for the VA to reply back.
 
 - Is there anything else on this page that could help?
+
+[If they don't already suggest or notice it.] One thing you could do is send the VA another reply. Next, can you send the VA a reply?
+
+`When they've finished...`
+
+- [If they haven't already] You can hit send when you're ready.
 
 <details>
   <summary>Key things to notice</summary>
@@ -313,6 +322,35 @@ Let's say that you had waited over a week now after sending a follow up question
 - Is the tab order logical and easy to follow?
 - Where did they pause, if at all?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
+- Are accordions adding unnecessary complexity? Would it be better to have plain text on the page?
+
+</details>
+
+## Reply (10 minutes)
+
+> Screen: Reply confirmation page.
+
+Okay, great.
+
+- Before we talk about this page, how was that processing of sending a reply to the VA?
+
+Next, I'll give you a minute to read through this page and I'd like to know if you have any questions about it.
+
+`When they've finished...`
+
+- Do you have any questions about what you just read?
+- What's the next step after replying back to the VA again?
+
+<details>
+  <summary>Key things to notice</summary>
+
+- How do they navigate through the page elements?
+- Are there any areas or components they struggle to interact with?
+- Are all interactive elements properly labeled and announced?
+- Is the tab order logical and easy to follow?
+- Where did they pause, if at all?
+- Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
+- Do they understand the reply confirmation message or have any additional questions?
 
 </details>
 
