@@ -2,10 +2,6 @@
 
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
-
-List the features toggles here.
-
 | Toggle name | Description |
 | ----------- | ----------- |
 | hca_reg_only_enabled | Enables the registration-only path for the Health Care Application |
@@ -39,7 +35,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Rollout Planning
 
-- Desired date range: 10/1/2024 - 12/31/2024
+- Desired date range: 10/1/2024 - 12/31/2024 - This will be a 3-month long experiment
 - How will you make the product available in production while limiting the number of users who can find/access it: We will use the feature toggle to limit the traffic of users.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
   - Form errors : We want to ensure there is are no errors occuring in the form, caused by this feature
