@@ -24,4 +24,4 @@
     * **Simone**: Yes, since the system can accept it.
 ### Request for Call Center data
 * **Lois** sent 2 emails requesting call center data for deep dive into reasons that Veterans are calling in, to help with OKR tracking, OCTO leadership initiatives, and user experience
-* **Amanda** responded via email (not sure if the right email address was used: HEC doesn’t track call center data that way, to that degree of detail.
+* **Amanda** responded via email (not sure if the right email address was used): HEC doesn’t track call center data that way, to that degree of detail.
