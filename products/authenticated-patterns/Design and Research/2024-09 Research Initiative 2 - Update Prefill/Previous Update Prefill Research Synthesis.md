@@ -4,17 +4,17 @@
 ### Introduction
 The AEDP team identifies design patterns used throughout VA.gov, improves them for a wider audience, and recommends them to the USWDS for inclusion in their pattern library. Our process began with collecting all the potential patterns that could be considered and prioritizing them as a team based on both importance and feasibility (see [Pattern Prioritization mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719935240619/2a4978c3cf5c7320fbf5c37f26fa0860d0798589?sender=u4cef3aa06e6e500fdad48741)). 
 
-From the workshop, we prioritized [Help users to... Know when their information is Prefilled](https://github.com/orgs/department-of-veterans-affairs/projects/1314?pane=issue&itemId=71462355) (AKA Prefill) as our first pattern, knowinged that this should be followed up with [Help users to… Update Prefilled Information](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/22) (AKA Update Prefill). 
+From the workshop, we prioritized [Help users to... Know when their information is Prefilled](https://github.com/orgs/department-of-veterans-affairs/projects/1314?pane=issue&itemId=71462355) (AKA Prefill) as our first pattern, knowing that this should be followed up with [Help users to… Update Prefilled Information](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/22) (AKA Update Prefill). 
 
 This document details previous research we have done on this pattern. It will later include content that describes our reasoning for creating the testing prototype that will be built out.
 
 ### Why Update Prefill?
-The Prefill and Update Prefill patterns are closely related. The Prefill pattern helps users know when their information is prefilled in their authenticated forms through alerts and prefille fields. The Update Prefill pattern helps users edit this prefilled information by letting the user know what happens when they edit prefilled information and confirming the change has been made. 
+The Prefill and Update Prefill patterns are closely related. The Prefill pattern helps users know when their information is prefilled in their authenticated forms through alerts and prefilled fields. The Update Prefill pattern helps users edit this prefilled information by letting the user know what happens when they edit prefilled information and confirming the change has been made. 
 
-The current update process often takes on the List and Loop pattern, but there are also instances of in-line editing in production that the Design System team generally wants to avoid. There are a variety of ways this is implemented throughout VA.gov currently, so there are many forms from us to choose from to create our next testing prototype.
+The current update process often takes on the List and Loop pattern, but there are also instances of in-line editing in production that the Design System team generally wants to avoid. There are a variety of ways this is implemented throughout VA.gov currently, so there are many forms for us to choose from to create our next testing prototype.
 
 ### Variations Seen in Production
-The ['Update prefilled information' in the Wild mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722538218743/e8a34db6e16086f9122fd2e0927edf5607bfa273?sender=u4cef3aa06e6e500fdad48741) Mural has screenshots of forms that currently use this pattern. Those forms include:
+The ['Update prefilled information' in the Wild mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722538218743/e8a34db6e16086f9122fd2e0927edf5607bfa273?sender=u4cef3aa06e6e500fdad48741) has screenshots of forms that currently use this pattern. Those forms include:
 - 526EZ - File for disability compensation
 - 10-10EZ - Apply for VA healthcare
 - 21P-527EZ - Apply for Veterans Pension benefits
