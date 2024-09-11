@@ -49,6 +49,8 @@ This research will help us document and prioritize any bugs or usability issues 
 * Are there any inconsistencies during the journey that present confusion?
 * Do Veterans who use assistive technology feel they can read a reply from VA or reply to VA without the support of another person?
 * Does Ask VA need to change or evolve to offer an equitable experience? If so, how?
+* Are statuses clear, do they require more description? If so, just for screen reader users or for everyone?
+* Do accordions adding unnecessary complexity? Would plain text be better for the conversation?
 
 ### Hypotheses
 
@@ -57,6 +59,7 @@ This research will help us document and prioritize any bugs or usability issues 
 3. Veterans will be oriented and still able to use the dashboard when magnified.
 4. Veteran's who use screen readers will find it difficult to know how many cards are under the "Your question" section, including when they filter by category and/or status.
 5. Veterans will not have difficulty navigating between pages of cards on the dashboard with their assistive technology.
+6. Veterans will find it difficult to understand what each status means without more description, regardless of which assistive technology they use.
 
 ## Methodology
 
