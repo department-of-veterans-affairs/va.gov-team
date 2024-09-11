@@ -23,8 +23,8 @@ OKR to measure the success of notifications reminding editors to review and upda
 | Metric| December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 
 |---|:---:|:---:|:---:|:---:| :---:|:---:|:---:| :---:|:---:|
 | Number of Vet Centers | 300 | 300 | 300 | 302 | 302 | 304 | | | 302
-| Number of Outstations |20 | 20| 21 | 22 | 22 | 22 | | | 24
-| Number of Mobile Vet Centers| 83|83 |83 | 83 | 83 | 83 | | | 83
+| Number of Outstations |20 | 20| 21 | 22 | 22 | 22 | 22 | 23 | 24
+| Number of Mobile Vet Centers| 83|83 |83 | 83 | 83 | 83 | 83 | 83 | 83
 | Number of CAPs | 519 |525 |528 | 534 | 537 | 537 | | | 546
 | Number of Vet Center services| 3,741 |3,742 |3,742 | 3,746 | 3,749 | 3,749 | | | 3,756
 
