@@ -1,19 +1,22 @@
-# [Feature name]
+# Login and access
 
 ## Overview
-[How Veterans use this feature]
+The medical supplies reordering form is authenticated and has some access requirements that Veterans must meet to use the form.
 
 ## User stories
 
-- As a <user type> I want <goal> so that <reason>
-- As a <user type> I want <goal> so that <reason>
+- As a Veteran who has been prescribed medical supplies (DLC supplies only), I want to be able to access the online reordering form to see what supplies are available and submit orders for needed supplies. 
 
 ## Requirements
 
 **Functional**
-<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
-- [Functional requirement]
-- [Functional requirement]
+- A Veteran can only log into the form if all the following are true:
+  - Enrolled in VA healthcare
+  - Registered as a patient at a VA medical center
+  - VA Provider prescribed the supplies or the related medical device
+  - LOA3 account (Premium MyHealtheVet, Id.me, Login.gov, or DS Logon Level 2 login credential)
+ 
+- A message must be displayed to any non-registered and non-verified Veterans informing them they must be registered at VAMC and have a verified account to use the tool.
 
 ## Specifications
 
