@@ -9,7 +9,9 @@
 ### Reg Only
 * Demo Next Meeting!
 * **Simone**: May have additions to the Registration Only, will get back to Heather on this
-### Confirm drop of ACA checkbox
+### Confirm drop of ACA checkbox from Facility selection page
+* Checkbox no longer on the paper form since the latest updates (June/July 2024)
+* Content for checkbox: "I'm enrolling to get minimum essential coverage under the Affordable Care Act"
 * OK to remove the checkbox for now (from several folks on the call, including **Amanda S and Simone**)
 * **Simone**: HEC wants the team to repurpose this to have an opt-in to receive the 1095-B electronically.
 * **Jessica Stump**: [Figma page](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3529-98040&t=qntCrOyDj0OZkEFo-4) with ACA checkbox as it is today, maybe [the new purpose checkbox] belongs somewhere else on the form
