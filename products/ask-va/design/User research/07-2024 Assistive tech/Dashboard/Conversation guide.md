@@ -261,6 +261,8 @@ Now, we're going to read the reply from the VA. I'd like you to show me how you 
 - Where did they pause, if at all?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
 - Are statuses clear? Do they require more description? If so, just for screen reader users or for everyone?
+- Do people have any difficulty navigating to the second page of questions?
+- Do people, especially screen reader users, have any difficulty navigating to the correct Check details link?
 
 </details>
 
