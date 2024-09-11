@@ -76,3 +76,15 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
 This diagram depicts the current business requirements as described above:
 
 ![userattribute_businessrules](https://user-images.githubusercontent.com/71290526/151223969-ceae6748-c3db-4d0c-8044-f0fcffba63a0.png)
+
+| User Attribute | Required for verified [Login.gov](http://login.gov/)                                 | Required for verified [ID.me](http://id.me/)  | Required by MPI |
+| -------------- | ------------------------------------------------------------------------------------ | --------------------------------------------- | --------------- |
+| first name     | x                                                                                    |                                               |                 |
+| last name      | x                                                                                    | x                                             | x               |
+| address        | x                                                                                    |                                               |                 |
+| phone number   | x                                                                                    |                                               |                 |
+| SSN            | x                                                                                    | can have passport or other identifier instead |                 |
+| email          | x                                                                                    | x                                             |                 |
+| date of birth  | x                                                                                    | x                                             |                 |
+| csp uuid       | x                                                                                    | x                                             |                 |
+| Source         | [https://developers.login.gov/attributes/](https://developers.login.gov/attributes/) |                                               |
