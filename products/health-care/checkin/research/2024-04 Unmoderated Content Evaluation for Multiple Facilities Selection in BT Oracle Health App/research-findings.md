@@ -1,4 +1,4 @@
-# Research Findings - 2024-04 Unmoderated Content Evaluation for Multiple Facilities Selection in BT Oracle Health App Research Study
+# Research Findings - Unmoderated Content Evaluation for Multiple Facilities Selection in BT Oracle Health App Research Study
 
 [draft]
 
