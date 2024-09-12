@@ -44,6 +44,8 @@ For Formal Testing: We will cover 120 flows of potential inquiry mapping
     6. Confirm submission in Agent UI, Dashboard, and Check Your Status Tool. 
 - First Priority Test Case: Authenticated Health - I am the Vet - Myself
 
+See our current test code [in this GitHub folder](https://github.com/department-of-veterans-affairs/ask-va/tree/cypress-tests/cypress/cypress/e2e/1-getting-started/flows).
+
 **Confirmed Automated UI Test Coverage for Start of Testing:**
 This coverage was confirmed as acceptable by the QA resource from the Collaboration Cycle Team
 - An Unauthenticated User, who is the Veteran, is looking for Insurance.
