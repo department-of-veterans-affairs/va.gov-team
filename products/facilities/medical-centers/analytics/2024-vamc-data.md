@@ -40,7 +40,7 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 |	Total unique pageviews	|	2,439,472	|	3,217,095	|	2,892,442	|	2,810,241	|	2,872,481	|	2,880,172	 | 	2,647,086	 | 
 
 |	Top 5 interactions	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24 | 
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
 |	 Contact us 	|	 35,885 	|	 46,253 	|	 42,387 	|	 39,082 	|	 42,085 	|	40,769	 | 	36,508
 |	 Location and contact information 	|	 31,515 	|	 39,671 	|	 36,985 	|	 35,033 	|	 37,147 	|	36,279	 | 	
 |	 Health services offered here 	|	 29,902 	|	 37,713 	|	 35,469 	|	 33,092 	|	 34,785 	|	32,302	 | 	
