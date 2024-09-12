@@ -1,7 +1,6 @@
 # 10-10d test cases
 
-<details>
-<summary>## Unauthenticated, applying for self, one applicant, spouse, no medicare, no OHI</summary>
+## Unauthenticated, applying for self, one applicant, spouse, no medicare, no OHI
 | Page                                      | Step                                                         |                                                     |
 |-------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------|
 |                                           | Start your application without signing in                    |                                                     |
@@ -24,7 +23,7 @@
 | Review application                        | Sign, certify, and submit                                    |                                                     |
 | Confirmation                              |                                                              | Confirm “You’ve submitted your CHAMPVA application” |
 | Email inbox                               | Confirm receipt of email confirmation                        |                                                     |
-</details>
+
 
 ## Unauthenticated, sponsor applying for spouse and 3 kids, no medicare, spouse has OHI
 
