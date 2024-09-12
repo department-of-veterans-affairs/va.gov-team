@@ -66,7 +66,7 @@ Checking responses (dashboard)
 - An Unauthenticated User, Who is a submitter, checking status in the `Check the status of your question` question
 - An Authenticated User, who is a submitter, checking for responses on the dashboard
 
-**Manual Usability & Accessibility Testing**
+#### Manual Usability & Accessibility Testing
 - Scope: 
 - Test Cases: Usability, unexpected user behavior, error conditions.
 - Example: Navigate the form with the keyboard, visually inspect the form, and verify form responsiveness on different devices.
@@ -81,18 +81,16 @@ Checking responses (dashboard)
 
 The research plan can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Accessibility%20audit%20plan.md) in github.  
 
-**RPA Testing**
+#### RPA Testing
+Scope: Confirming that the 2 Robotic Process Automation (RPA) Bots in production still function. 
 
- Scope: Confirming that the 2 Robotic Process Automation (RPA) Bots in production still function. 
- 
 Context: The RPA bots are scraping the CRM Agent for the Category and Topics: 
-
  - Compensation Category
  - Status of Claim Topic 
 
- The AVA team will coordinate with a representative from the RPA to test in staging that the bots are unaffected pre launch. 
+The AVA team will coordinate with a representative from the RPA to test in staging that the bots are unaffected pre launch. 
  
- Note: It is expected that our update will not break these bots with the inscope changes to AVA, but this should be a watch out to monitor for future releases as well.
+Note: It is expected that our update will not break these bots with the inscope changes to AVA, but this should be a watch out to monitor for future releases as well.
 
 ### 4. Testing Team
 - VA.gov Team: FE Unit tests, BE (Vets API) Unit tests, integration testing, accessibility testing, manual testing, and automated E2E testing.
@@ -113,7 +111,7 @@ Context: The RPA bots are scraping the CRM Agent for the Category and Topics:
    - Run tests using the testing framework for the repo.
    - Ensure all tests pass, we meet the coverage requirement of 80% for the repo and fix any identified issues.
 
-**Integration Testing**
+#### Integration Testing
 - Execution:
    - Execute integration tests to ensure seamless interaction between form steps and backend.
    - Fix integration issues.
@@ -123,14 +121,14 @@ Context: The RPA bots are scraping the CRM Agent for the Category and Topics:
    - The CRM API will return a response body containing the new QueueID. Together the teams will confirm that the correct Category, Topic, and Subtopic are routed to the correct queue. 
 
 
-**E2E Automated Testing (Cypress)**
+#### E2E Automated Testing (Cypress)
 - Execution:
    - Run Cypress test suite.
    - Analyze test results and fix any identified issues.
    - Re-run tests after fixes to confirm resolution.
    - Can we toggle off a test in a higher environment? 
 
-**Manual QA Testing**
+#### Manual QA Testing
 - Execution: 
    - Conduct manual tests following the test cases and form flows.
    - Note any bugs or usability issues and prioritize fixes.
