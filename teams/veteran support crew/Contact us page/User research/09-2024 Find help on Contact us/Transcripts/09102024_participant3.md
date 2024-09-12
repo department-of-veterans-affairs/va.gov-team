@@ -304,7 +304,6 @@ Becky: Got it. Yeah. So it sounds like resources to you means outside the resour
 
 Becky: OK, great. No, that makes that makes full sense. I'm going to move us along to our next scenario. So we'll, you know, I'll repeat some of these same questions again, But if you want, you can just or if you could, you can scroll to the top of this page since we'll also be looking at the contact us page.
 
-
 ### Claims scenario
 Bekcy: And now I'll go over the second scenario. Let me scroll back up and my guide. All right, so this is our 2nd and final scenario.
 
@@ -316,39 +315,69 @@ Becky: So again, starting on this page, show me and and walk me through how you 
 
 > P3: I would hope that I could ask the question.
 
-Becky: OK, Yeah, you can go ahead and click on that and question while the page is loading.
+Becky: OK, Yeah, you can go ahead and click on that and question while the page is loading. 
 
-> P3:
+Becky: Are you, is there a reason why you would try to find a, a phone number on this page rather than just calling the benefits hotline number that you pointed out earlier?
 
-> P3:
+> P3: Well, that would only be if it was not within the hours that they're open. If they, if they open, I would call them.
 
-> P3:
+> P3: But on here, I would try and find if, if I had to sign in, I would click on that [sign-in button] and find either a contact e-mail or some way of sending them a message that they, you know, would get before.
 
-> P3:
+> P3: Sorry there's a bee.
 
-> P3:
+Becky: Oh no, I do see it too.
 
-> P3:
+> P3: Anyway, I would send them a message and you know, that way there's a lot of Veterans.
 
-> P3:
+> P3: We forget [stuff] sorry, excuse my language, we forget stuff.
 
-> P3:
+> P3: And so a lot of times 3:00 in the morning, I'm going to write an e-mail because by 7-8 o'clock the next day, I'm going to forget it.
 
-> P3:
+Becky: got it. And I've noticed you're a a big scroller. So what what type of information are you looking for on this page right now as you're scrolling down?
 
-> P3:
+> P3: I'm looking for an e-mail because I don't, do I have a sign in in this scenario or no?
 
-> P3:
+Becky: No, not at this, I did not prepare a sign-in for you, so no, you don't have one.
 
-> P3:
+> P3: I was just asking. In this scenario, would I have a sign-in?
 
-> P3:
+Becky: Oh I see what you're asking. Yes, you would be able to log into your account
 
-> P3:
+> P3: So I could, I I like to read, which is why I scroll a lot, so.
 
-> P3:
+Becky. No worries.
 
-> P3:
+> P3: Yeah, I could click on this claim status, frequently asked questions and see if there's anything about adding to my claim if you know, there's a step by step.
+
+Becky: Ok. And is there any reason why you'd choose that link rather than any of the others?
+
+> P3: Well, this one is the, this one is the decision review and appeal status. And I'm not waiting for a decision. I'm not waiting for an appeal.
+
+> P3: I want to see about doing an appeal so frequently asked questions again, you know, if I've gotten this far, it's in the middle of the night, so I'm still looking for answers.
+
+> P3: So I would look on the frequently asked questions because there's nobody to talk to right now.
+
+Becky: OK, and why did you, I guess going back to the again to the contact us page, if you could press the back button real quick.
+
+Becky: I noticed that, you know, you're scrolling down, but you stopped in the phone number section.
+
+Becky: Is there any particular reason why you would in this case go to the phone number rather than, you know, the other options that we've seen on this page so far?
+
+> P3: 'cause it's your benefits, it's, you know, your monthly payments. So, you know, most veterans are like, OK, this is my money and I I want to know now.
+
+> P3: So, so yeah, I would go to the phone number first and, you know, the hours are on there and if they're open, I'm going to call the number and see how long the wait is.
+
+Becky: Got it. And I'm curious if the what the words in bold there, if that's enough to explain what, what you might expect on the other end of the call.
+
+> P3: Yes
+
+Becky: Ok. Are you familiar with the VA benefits hotline at all or are you just reading it for for the first time here?
+
+> P3: I'm just reading it for the first time here. I did everything for mine in person.
+
+Becky: OK great
+
+> P3: VA.gov was not that good back then, 14 years ago.
 
 [ Here is the VA benefits hotline number. I would click on check your VA claim or appeal status.
 *Is there a reason you would try and find a number on there? That’s only is it was within the hours they were closed. I’m looking for an email. I can click on this Claims status and see if there is anything I can add. If it’s in the middle of the night, there’s no one to talk to and I would click FAQ’s.
