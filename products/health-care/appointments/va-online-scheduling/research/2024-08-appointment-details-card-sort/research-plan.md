@@ -55,7 +55,7 @@ The tests will be conducted online at the participant’s leisure.
 
 #### ALL Cohort participants
 - All must have a computer or mobile device and are willing to use it to complete the activity. 
-- All must have used the Appointments tool on va.gov to manage or schedule their VA medical appointments.
+- All must have used the Appointments tool on VA.gov to manage, review, or schedule their VA medical appointments.
 
 **Cohort 1: 10 Veterans age 18–24**
 - Group A (5 participants age 18–24)
