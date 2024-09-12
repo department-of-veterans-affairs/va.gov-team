@@ -70,7 +70,7 @@
 ## SPRINT 15 - 9/4/2024-9/17/2024
 - **Production Support**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
-    - ❗ 🟦 [Answer Questions on Redis Encryption from Platform Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91455)
+    - ✔️ ❗ 🟦 [Answer Questions on Redis Encryption from Platform Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91455)
     - **Move to New AWS Instance**
         - ✔️ 🟨[[DevOps] Eric Oliver needs access to veterans-affairs PagerDuty.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/434)
         - 🟨[[DevOps] Create terraform_dsva Terragrunt configuration in checkin-devops.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/462)
@@ -101,8 +101,8 @@
           - https://github.com/department-of-veterans-affairs/va.gov-team/issues/92356 
         -  🟥 Send messages to Melanie for review and Privacy Officer
       - ✔️ ❗ Create new design tickets when scope decisions have been made
-    - 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
-    - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
+    - ✔️ 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
+    - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)        
     - ✔️ 🟥 [[Spike] [Design] Review date and time page to ensure no changes need to be made](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/92021)
     - 🟦🟩 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
     - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
@@ -126,7 +126,8 @@
     - 🟩 [Staging Review finding: Sentence structure in travel-pay page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91798)
     - ✔️ 🟩 [Staging Review finding: Summary box for direct deposit information may not be appropriate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91802)
         - ~We need decision from UX before we hand this of to frontend~
-    - 🟩 Push to production for internal pilot once all Staging Review issues have been addressed
+    - ~🟩 Push to production for internal pilot once all Staging Review issues have been addressed~
+        - Stephen doesn't want this out there yet, we may need to do a FF to limit it to certain facilities only
 - **Travel Claim Submission from Past Appts - Web**
     - **Sprint Goal is moot - we can't continue until new Travel form is available in a lower env**    
     - ⛔ BLOCKED
