@@ -24,11 +24,12 @@ Reference Docs:
 - Example: Test email field validation (e.g., valid email format, empty input).
 
 #### Integration Testing
-- **Decision:** Initial automated tests will be run locally in order to prevent blocking the pipeline. _Once Authenticated Health - I am the Vet - Myself_ passes, we’ll promote it to the build pipeline. 
+**Decision:** Initial automated tests will be run locally in order to prevent blocking the pipeline. _Once Authenticated Health - I am the Vet - Myself_ passes, we’ll promote it to the build pipeline. 
 
 - Test Cases: Interaction between form steps, form data persistence between steps, backend integration.
 - Example: Test backend calls, and ensure data is correctly saved and retrieved.
-- The team will leverage a tool like Postman or Insomnia to send a collection of requests to the CRM APIs. The APIs will return a response body that includes a new field containing QueueID to ensure that the right Category, Topic, and Subtopic are routed to the correct queue.
+
+The team will leverage a tool like Postman or Insomnia to send a collection of requests to the CRM APIs. The APIs will return a response body that includes a new field containing QueueID to ensure that the right Category, Topic, and Subtopic are routed to the correct queue.
 
 For Formal Testing: We will cover 120 flows of potential inquiry mapping
 
@@ -48,7 +49,7 @@ For Formal Testing: We will cover 120 flows of potential inquiry mapping
 - User journey for checking responses (unauthenticated)
     - Unauthenticated user checks inquiry ID on intro page in `Check the status of your question` search
       
-- Our first priority test case is: An authenticated submits an inquiry in the `Health care` category. They answer `Myself` to **Who is your question about?** and `I'm the Veteran` to **What is your relationship to the Veteran**.
+Our first priority test case is: An authenticated submits an inquiry in the `Health care` category. They answer `Myself` to **Who is your question about?** and `I'm the Veteran` to **What is your relationship to the Veteran**.
 
 See our current test code [in this GitHub folder](https://github.com/department-of-veterans-affairs/ask-va/tree/cypress-tests/cypress/cypress/e2e/1-getting-started/flows).
 
