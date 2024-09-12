@@ -9,7 +9,6 @@
   - [When are CAIA kickoff meetings?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#when-are-the-caia-kickoff-meetings)
   - [What do I need to do to prepare for our kickoff meeting with CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-do-i-need-to-do-to-prepare-for-our-kickoff-with-caia)
   - [When can I expect feedback from CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#when-can-i-expect-feedback-from-caia)
-  - [Steps for Kickoff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#steps-for-kickoff)
 - [What is CAIA?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#what-is-caia)
 - [How we collaborate with your team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#how-we-collaborate-with-your-team)
 
