@@ -61,7 +61,7 @@ This was defined for us and constrained by our available resources. That definit
 
 ### Definitions of success
 
-There are 3 ways a submission can reach a success state in our scope of responsibility.  Again, for our purpose here we don't care about [how](TODO - link to state not events) or [why](TODO - link to failure vs cause of failure) they reached this state.  However, for posterity each section contains a description of the most typical means by which these states are arrived at.
+There are 3 ways a submission can reach a success state in our scope of responsibility.  Again, for our purpose here we don't care about [how](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#bonus-use-state-not-events) or [why](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#separate-failure-from-cause-of-failure) they reached this state.  However, for posterity each section contains a description of the most typical means by which these states are arrived at.
 
 #### Happy Path
 
