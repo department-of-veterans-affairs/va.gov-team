@@ -37,12 +37,12 @@ Build a secure, web-based self-service Accreditation application (21a) on VA.gov
 What’s in scope:
 * Implement functionality for Accreditation portal visitors to create an account or login.
 * Enable new applicants to securely apply for accreditation as an Attorney/Claims Agent using a form 21a-based application intake form.
+* Uploading requirements to report good standing and continuing legal education artifacts.
 * Enable applicants to return to an unfinished application and submit the application (within 60 days).
 
 What’s not in scope:
 * Create a user-friendly home page for Accreditation portal visitors who have not yet logged in or created an account.
 * Create a personalized dashboard for users after logging in.
-* Uploading requirements to report good standing and continuing legal education artifacts.
 * Providing capabilities for viewing and updating user contact information within the portal.
 * Supporting correspondence history between Accreditation managers and applicants/accredited entities.
 * Supporting Fee Agreement and Dispute processes and submitting complaints.
