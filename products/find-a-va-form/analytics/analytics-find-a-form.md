@@ -3,7 +3,7 @@
 - [CSAT scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#csat-scores)
 - [2024](#2024)
   - [Search metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#search-metrics)
-  - [Top results clicked](#top-results-clicked)
+  - [Top results clicked]([#top-results-clicked](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#top-10-results-clicked)
 - [2023](#2023)
 - [2022](#2022) 
 - [2021](#2021)
