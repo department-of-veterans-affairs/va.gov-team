@@ -39,9 +39,8 @@ Workshop group 1 generated key ideas:
 
 4.  Simplify Resubmission
 
-
-
-1.  **Online Resubmission:** Introduce support for resubmitting forms
+--------
+1. **Online Resubmission:** Introduce support for resubmitting forms
     online to streamline the process.
 
 -   **Quick Submit:** Email claimants a link to a one-time-use upload
