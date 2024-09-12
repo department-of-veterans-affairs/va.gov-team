@@ -18,16 +18,14 @@
 | Nov 2023 | 51.18% |
 | Oct 2023 | 51.14% |
 
-
 ## Google Analytics - Events
 
 ### Year 2024
 
-
 ## Search metrics 
 
-|	Metric	|	1Q 2024 (Jan - Mar)	|
-| --- | : --- : | 	
+|	Metric	|	1Q 2024 | 
+| --- | :---:|
 | Search sessions	|	325,549	
 | Searches	|	635,716	
 | Successful searches |		139,238	
@@ -36,8 +34,15 @@
 | Search click rate |		22%	
 | 1st or 2nd result clicked	|	87%	
 | Search refinement rate	|	31%
+| No results found | 19% 
+| Avg. Searches per User by Week |  2.3 | 
+| Avg. Experience Rating | 3.57 | 
+| Able to complete tasks (percent of surveys): Yes | 16% | 
+| Able to complete tasks (percent of surveys): No | 75% | 
+| Able to complete tasks (percent of surveys): No response | 9% |
 
 ## Top 10 results clicked - 1Q 2024 (Jan - Mar)
+
 | Search result | Clicks | 
 | --- | :---:|
 |	Application for Disability Compensation and Related Compensation Benefits	|	5,826
@@ -51,147 +56,41 @@
 |	Application for DIC, Survivors Pension, and/or Accrued Benefits	|	2,794
 |	Appointment of Veterans Service Organization as Claimant's Representative	|	2,211
 
-
-
-
-
-
-
 ### Year 2023
 
-#### Q4
-- Search sessions by week: 866 (huge drop)
-- Search abandonment rate: 65%
-- Total Search Users by week: 818
-- Avg. Searches per User by Week: 1.8
-- Avg. Experience Rating: 3.85
-- Able to complete tasks (percent of surveys): 
- - No 78%
- - No response 9%
- - Yes 13%
+|	Metric	|	Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023 | 
+| --- | :---:|:---:|:---:|:---:|
+| Search sessions by week | 22,306 | 24,499 | 26,118 | 866 
+| Search abandonment rate | 66% | 65% |  64% | 65%
+| Total Search Users by week | 17,794 | 18,943| 20,243 | 818
+| Avg. Searches per User by Week |  2.4 | 2.4 |  2.4 | 1.8
+| Avg. Experience Rating | 3.6 | 3.24 | 3.5 |  3.85
+| Able to complete tasks (percent of surveys): Yes | 12% | 12%| 11% | 13%
+| Able to complete tasks (percent of surveys): No | 80% | 83% | 74% | 78%
+| Able to complete tasks (percent of surveys): No response | 7% |5% | 15% | 9%
 
-#### Q3
-- Search sessions by week: 26,118
-- Search abandonment rate:64%
-- Total Search Users by week: 20,243
-- Avg. Searches per User by Week: 2.4
-- Avg. Experience Rating: 3.5
-- Able to complete tasks (percent of surveys): 
- - No 74%
- - No response 15%
- - Yes 11%
-
-#### Q2
-- Search sessions by week: 24,499
-- Total Search Users by week: 18,943
-- Search abandonment rate: 65%
-- Avg. Searches per User by Week: 2.4
-- Avg. Experience Rating: 3.24
-- Able to complete tasks (percent of surveys): 
- - No 83%
- - No response 5%
- - Yes 12%
-
-#### Q1
-- Search sessions by week: 22,306
-- Search abandonment rate: 66%
-- Total Search Users by week: 17,794
-- Avg. Searches per User by Week: 2.4
-- Avg. Experience Rating: 3.16
-- Able to complete tasks (percent of surveys): 
- - No 80%
- - No response 7%
- - Yes 12%
-
-## 
 ### Year 2022
 
-#### Q4
-- Search sessions by week: 20,041
-- Total Search Users by week: 15,526
-- Search abandonment rate: 49%
-- Avg. Searches per User by Week: 2.4
-- Avg. Experience Rating: 2.94
-- Able to complete tasks (percent of surveys): 
- - No 82%
- - No response 9% 
- - Yes 9%
+|	Metric	|	Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | 
+| --- | :---:|:---:|:---:|:---:|
+| Search sessions by week |15,998  |24,499 |15,683|20,041
+| Search abandonment rate | 37% | 59%| 50% |49%
+| Total Search Users by week | 12,704 |18,943 | 12,268|15,526
+| Avg. Searches per User by Week | 2.3 | 2.4| 2.3 |2.4
+| Avg. Experience Rating |3.63 | 3.24 |3.16 |2.944 |
+| Able to complete tasks (percent of surveys): Yes| 10% |10% |7% |
+| Able to complete tasks (percent of surveys): No | 76% |  81% | 83%|
+| Able to complete tasks (percent of surveys): No response | 10% | 8%| 10% |
 
-#### Q3
-- Search sessions by week: 15,683
-- Total Search Users by week: 12,268
-- Search abandonment rate: 50%
-- Avg. Searches per User by Week: 2.3
-- Avg. Experience Rating: 3.16
-- Able to complete tasks (percent of surveys): 
- - No 83%
- - No response 10%
- - Yes 7%
+### Year 2021
 
-#### Q2
-- Search sessions by week: 24,499
-- Search abandonment rate: 59%
-- Total Search Users by week: 18,943
-- Avg. Searches per User by Week: 2.4
-- Avg. Experience Rating: 3.24
-- Able to complete tasks (percent of surveys): 
- - No 81%
- - No response 8%
- - Yes 10%
-
-#### Q1
-- Search sessions by week: 15,998
-- Total Search Users by week: 12,704
-- Search abandonment rate: 37%
-- Avg. Searches per User by Week: 2.3
-- Avg. Experience Rating: 3.63
- -Able to complete tasks (percent of surveys): 
- - No 76%
- - No response 14%
- - Yes 10%
-##
-### Year 2021 
-
-#### Q4
-- Search sessions by week: 13,822
-- Total Search Users by week: 11,737
-- Search abandonment rate: 34%
-- Avg. Searches per User by Week: 2.3
-- Avg. Experience Rating: 3.36
-- Able to complete tasks (percent of surveys): 
- - No 79%
- - No response 12%
- - Yes 9%
-
-#### Q3
-- Search sessions by week: 15,841
-- Total Search Users by week: 12,754
-- Search abandonment rate: 29%
-- Avg. Searches per User by Week: 2.3%
-- Avg. Experience Rating: 3.84
-- Able to complete tasks (percent of surveys): 
- - No 72%
- - No response 20%
- - Yes 8%
-
-#### Q2
-- Search sessions by week: 13,166
-- Total Search Users by week: 10,764
-- Search abandonment rate: 33%
-- Avg. Searches per User by Week: 2.4%
-- Avg. Experience Rating: Not available
-- Able to complete tasks (percent of surveys): 
- - No 67%
- - No response 21%
- - Yes 12%
-
-#### Q1 
-- Search sessions by week: 15.364
-- Total Search Users by week: 12,301
-- Search abandonment rate: 42%
-- Avg. Searches per User by Week: 2.3
-- Avg. Experience Rating: 3.41
-- Able to complete tasks (percent of surveys): 
- - No 79%
- - No response 11%
- - Yes 10%
+|	Metric	|	Q1 2021 | Q2 2021 | Q3 2021 | Q4 2021 | 
+| --- | :---:|:---:|:---:|:---:|
+| Search sessions by week | 15.364 |13,166 |15,841 |13,822
+| Search abandonment rate | 42% | 33% |29% |34%
+| Total Search Users by week | 12,301  |10,764 |12,754 |11,737
+| Avg. Searches per User by Week | 2.3 | 2.4| 2.3|2.3
+| Avg. Experience Rating |3.41  | n/a | n/a | 3.36 |
+| Able to complete tasks (percent of surveys): Yes | 10% | 12%|8% |9%
+| Able to complete tasks (percent of surveys): No| 79% | 67%|72% |79%
+| Able to complete tasks (percent of surveys): No response |11% | 21% |20% |12%
