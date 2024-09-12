@@ -217,13 +217,13 @@ The education/careers left nav will have the following structure. These are not 
 
 ![Screenshot 2024-08-19 at 3 43 59 PM](https://github.com/user-attachments/assets/3ad90051-b300-4761-b010-54700b9a8c98)
 
-4. **Education mega menu** - [Remove]
-  - Placement description: Remove link to survivor and dependent benefits?
-  - Note: open Q to Mikki
-![Screenshot 2024-09-11 at 4 20 17 PM](https://github.com/user-attachments/assets/134ecff6-e219-4a5e-b148-7e38d68c76c0)
+4. **Education mega menu** - [Modify]
+  - Placement description: Update link to point to new node, update label
+![Screenshot 2024-09-12 at 1 56 29 PM](https://github.com/user-attachments/assets/d13c35ee-e0e4-486c-81b3-d9dc2c3f2613)
+
 
 4. **Education hub page** - [Edit]
-  - Placement description: Update the link to VA education benefits for survivors to point to our new URL: va.gov/family-and-caregiver-benefits/education-and-careers/
+  - Placement description: Update the link to VA education benefits for survivors to point to our new node. Edit label.
 
 ![Screenshot 2024-09-11 at 4 22 14 PM](https://github.com/user-attachments/assets/33a45dd7-3258-4b17-9daf-a915495b9a27)
 
