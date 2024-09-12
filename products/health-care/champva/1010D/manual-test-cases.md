@@ -1,6 +1,6 @@
 # 10-10d test cases
 
-## Unauthenticated, applying for self, one applicant, spouse, no medicare, no OHI<!-- {"fold":true} -->
+## Unauthenticated, applying for self, one applicant, spouse, no medicare, no OHI
 | Page                                      | Step                                                         |                                                     |
 |-------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------|
 |                                           | Start your application without signing in                    |                                                     |
@@ -24,7 +24,7 @@
 | Confirmation                              |                                                              | Confirm “You’ve submitted your CHAMPVA application” |
 | Email inbox                               | Confirm receipt of email confirmation                        |                                                     |
 
-## Unauthenticated, sponsor applying for spouse and 3 kids, spouse has OHI
+## Unauthenticated, sponsor applying for spouse and 3 kids, no medicare, spouse has OHI
 
 | Page                                            | Step                                                         |                                                     |
 |-------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------|
@@ -83,6 +83,49 @@
 | Upload birth certificate (Optional)   | upload any file                                                 |                                                     |
 | Fourth Applicant’s Medicare Part A and B status  | No, applicant is not eligible for Medicare                   |                                                     |
 | Fourth Applicant’s other health insurance status       | No                                                          |                                                     |
+| Review application                              | Sign, certify, and submit                                    |                                                     |
+| Confirmation                                    |                                                              | Confirm “You’ve submitted your CHAMPVA application” |
+| Email inbox                                     | Confirm receipt of email confirmation                        |                                                     |
+
+## Authenticated, applying for spouse and one adopted child, has medicare, no OHI
+| Page                                            | Step                                                         |                                                     |
+|-------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------|
+|                                                 | Log in with an account from [staging test user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv#L161) |                                                     |
+| Introduction                                    | Start the application                                        |                                                     |
+| Signer information                              | I’m a Veteran applying for benefits for my spouse or dependents |                                                     |
+| Sponsor’s name and date of birth                | Enter sponsor first name<br>Enter sponsor last name<br>Enter sponsor date of birth with year 1950 |                                                     |
+| Sponsor’s identification information            | Enter social security number<br>Leave VA file number blank   |                                                     |
+| Sponsor’s mailing address                       | Enter a US address                                           |                                                     |
+| Sponsor’s contact information                   | Enter a phone number                                         |                                                     |
+| Applicant name and date of birth                | Enter first name<br>Enter last name<br>Enter date of birth with year 1950<br>Click Add another applicant |                                                     |
+| New applicant modal                             | Enter first name<br>Enter last name<br>Enter date of birth with year 1990<br>Click continue |                                                     |
+| Applicant 1 information                         | Continue                                                     |                                                     |
+| Applicant’s identification information          | Enter social security number<br>Leave VA file number blank   |                                                     |
+| Applicant’s address selection                   | Select option to use sponsor’s address rather than creating a new one<br>Click continue |                                                     |
+| Applicant’s mailing address                     | Click continue                                               |                                                     |
+| Applicant’s contact information                 | Enter a phone number<br>Enter an email address where you can receive mail |                                                     |
+| Applicant’s sex listed at birth                 | Make selection and click continue                            |                                                     |
+| Applicant’s relationship to the sponsor         | Select Spouse or partner from a legal union (including a civil union or common-law marriage |                                                     |
+| Applicant’s dae of marriage to sponsor          | Enter a date                                                 |                                                     |
+| Applicant’s Medicare Part A and B status        | Yes, Spouse test is enrolled in Medicare                     |                                                     |
+| Medicare Part D status                          | No                                                           |                                                     |
+| Upload Medicare Part A and B card (Required)    | Upload files                                                 |                                                     |
+| Applicant’s other health insurance status       | No                                                           |                                                     |
+| Upload Other Insurance Certification (Required) | Click continue without upload                                |                                                     |
+| Applicant 2 information                         | continue                                                     |                                                     |
+| identification information                      | Enter social security number<br>Leave VA file number blank   |                                                     |
+| Applicant’s address selection                   | Select option to use sponsor’s address rather than creating a new one<br>Click continue |                                                     |
+| Applicant’s mailing address                     | continue                                                     |                                                     |
+| Applicant’s contact information                 | Enter a phone number<br>                                     |                                                     |
+| Applicant’s sex listed at birth                 | Make selection and click continue                            |                                                     |
+| Applicants relationship to the Sponsor          | Child (including adopted children or step children)          |                                                     |
+| Applicant’s dependent status                    | the Sponsor’s adopted child                                  |                                                     |
+| Upload birth certificate (Optional)             | Upload file                                                  |                                                     |
+| Upload proof of adoption (Required)             | Upload file                                                  |                                                     |
+| Medicare Part A and B status                    | Not eligible for medicare                                    |                                                     |
+| Applicants other health insurance status        | No                                                           |                                                     |
+| Upload your supporting documents                | Continue                                                     |                                                     |
+| Supporting documents summary                    | Acknowledge and continue                                     |                                                     |
 | Review application                              | Sign, certify, and submit                                    |                                                     |
 | Confirmation                                    |                                                              | Confirm “You’ve submitted your CHAMPVA application” |
 | Email inbox                                     | Confirm receipt of email confirmation                        |                                                     |
