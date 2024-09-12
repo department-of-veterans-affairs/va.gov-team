@@ -2,13 +2,14 @@
 
 Jump to: 
 - [1. Scope and Objectives](#1-Scope-and-Objectives)
-- [2. Testing Types](#)
-- [3. Test Cases](#
-- [4. Testing Team](#
-- [5. Execute Testing](#
-- [6. Bug Tracking and Fixing](#
+- [2. Testing Types](#2-Testing-Types)
+- [3. Test Cases](#3-Test-Cases)
+- [4. Testing Team](#4-Testing-Team)
+- [5. Execute Testing](#5-Execute-Testing)
+- [6. Bug Tracking and Fixing](#6-Bug-Tracking-and-Fixing)
+- [7. Pre-Launch Checklist](#7-Pre-Launch-Checklist)
 
-### 1. Scope and Objectives
+## 1. Scope and Objectives
 - **Scope:** Ask VA form and dashboard covering all steps and fields, validation rules, usability and data submission.
 - **Objectives:** Ensure the form functions correctly, validates input, integrates properly with the backend, [CRM and other APIs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration), and provides a smooth user experience with appropriate accessibility expectations.
 
@@ -19,19 +20,19 @@ Reference Docs:
   
 **Timeline:** In Progress
 
-### 2. Testing Types
+## 2. Testing Types
 - **Unit Testing:** Test individual components and functions.
 - **Integration Testing:** Ensure different components work together.
 - **E2E Automated Testing (Cypress):** Simulate user interactions and validate the form’s behavior. This includes mocking a user passing ICN to test flow.
 - **Manual Testing:** Perform exploratory testing to catch issues not covered by automated tests.
 - **Accessibility Testing:** Using appropriate tooling - inspect all pages.
 
-### 3. Test Cases
+## 3. Test Cases
 **Unit Testing: Minimum of 80% test code coverage** 
 - Test Cases: Each form field, page UI, and validation rules.
 - Example: Test email field validation (e.g., valid email format, empty input).
 
-#### Integration Testing
+### Integration Testing
 **Decision:** Initial automated tests will be run locally in order to prevent blocking the pipeline. _Once Authenticated Health - I am the Vet - Myself_ passes, we’ll promote it to the build pipeline. 
 
 - Test Cases: Interaction between form steps, form data persistence between steps, backend integration.
@@ -41,7 +42,7 @@ The team will leverage a tool like Postman or Insomnia to send a collection of r
 
 For Formal Testing: We will cover 120 flows of potential inquiry mapping
 
-#### E2E Automated Testing (Cypress)
+### E2E Automated Testing (Cypress)
 **Test Cases:** We'll test the full user journey, from submitting the Ask VA form to checking for responses in either the dashboard (authenticated) or the `Check the status of your question` search (unauthenticated). We'll test edge cases and typical user flows for both authenticated and unauthenticated users.
 
 - User journey for submitting the form
@@ -61,7 +62,7 @@ Our first priority test case is: An authenticated submits an inquiry in the `Hea
 
 See our current test code [in this GitHub folder](https://github.com/department-of-veterans-affairs/ask-va/tree/cypress-tests/cypress/cypress/e2e/1-getting-started/flows).
 
-#### Confirmed Automated UI Test Coverage for Start of Testing:
+### Confirmed Automated UI Test Coverage for Start of Testing:
 A QA resource from the Collaboration Cycle Team confirmed the following test cases as sufficient for our release.
 
 Form submission
@@ -74,7 +75,7 @@ Checking responses (dashboard)
 - An Unauthenticated User, Who is a submitter, checking status in the `Check the status of your question` question
 - An Authenticated User, who is a submitter, checking for responses on the dashboard
 
-#### Manual Usability & Accessibility Testing
+### Manual Usability & Accessibility Testing
 - Scope: 
 - Test Cases: Usability, unexpected user behavior, error conditions.
 - Example: Navigate the form with the keyboard, visually inspect the form, and verify form responsiveness on different devices.
@@ -89,7 +90,7 @@ Checking responses (dashboard)
 
 The research plan can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Accessibility%20audit%20plan.md) in github.  
 
-#### RPA Testing
+### RPA Testing
 Scope: Confirming that the 2 Robotic Process Automation (RPA) Bots in production still function. 
 
 Context: The RPA bots are scraping the CRM Agent for the Category and Topics: 
@@ -100,7 +101,7 @@ The AVA team will coordinate with a representative from the RPA to test in stagi
  
 Note: It is expected that our update will not break these bots with the inscope changes to AVA, but this should be a watch out to monitor for future releases as well.
 
-### 4. Testing Team
+## 4. Testing Team
 - VA.gov Team: FE Unit tests, BE (Vets API) Unit tests, integration testing, accessibility testing, manual testing, and automated E2E testing.
 - CRM Team - business line: E2E testing facilitation.
 
@@ -113,13 +114,13 @@ Note: It is expected that our update will not break these bots with the inscope 
    - Testing of the CRM APIs/contracts will be performed by the CRM team.
    - Testing of the AVA VA.gov APIs/facade/middleware will be performed by the AVA VA.gov team.
 
-### 5. Execute Testing
-#### Unit Testing
+## 5. Execute Testing
+### Unit Testing
 - Execution:
    - Run tests using the testing framework for the repo.
    - Ensure all tests pass, we meet the coverage requirement of 80% for the repo and fix any identified issues.
 
-#### Integration Testing
+### Integration Testing
 - Execution:
    - Execute integration tests to ensure seamless interaction between form steps and backend.
    - Fix integration issues.
@@ -129,20 +130,20 @@ Note: It is expected that our update will not break these bots with the inscope 
    - The CRM API will return a response body containing the new QueueID. Together the teams will confirm that the correct Category, Topic, and Subtopic are routed to the correct queue. 
 
 
-#### E2E Automated Testing (Cypress)
+### E2E Automated Testing (Cypress)
 - Execution:
    - Run Cypress test suite.
    - Analyze test results and fix any identified issues.
    - Re-run tests after fixes to confirm resolution.
    - Can we toggle off a test in a higher environment? 
 
-#### Manual QA Testing
+### Manual QA Testing
 - Execution: 
    - Conduct manual tests following the test cases and form flows.
    - Note any bugs or usability issues and prioritize fixes.
    - Retest after making fixes.
 
-### 6. Bug Tracking and Fixing
+## 6. Bug Tracking and Fixing
 [Bug Tracking Ways of Working](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719508782816/0c02aafe8740074c13ea3a6821008f9f08266f5d?sender=uc2a4f18a27ff336484232897) 
 
 Bugs will be identified by Product or Teammates when identified. Bugs will be labeled with “Bug” and will be triaged within Zenhub within the Defects swimlane, ordered by priority. 
@@ -154,7 +155,7 @@ Bugs will be identified by Product or Teammates when identified. Bugs will be la
 | **Severity&nbsp;3** | Not blocking AT, but will be needed to be resolved prior to release **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
 
 
-#### Process for Bug Creation: 
+### Process for Bug Creation: 
 
 ![image](https://github.com/user-attachments/assets/95d60188-5bf2-456b-bb08-36481438c4d9)
 
@@ -168,32 +169,32 @@ When identifying a bug take the following steps:
 
 ### Current Bug Template:
 
-## Description
+#### Description
 _**Required.** Describe the problem._
 <!-- EXAMPLE: The -->
-## Steps to Reproduce
+#### Steps to Reproduce
 _**Required.** Provide information on what steps you are aware of that produce this undesired outcome._
 <!-- EXAMPLE:
 1. Visit the link at https://staging.va.gov/contact-us/ask-va-too/
 2. Click the "Start your application without signing in" link
 3. Notice that the "Dev List" doesn't contain "steven"
 -->
-## Workaround
+#### Workaround
 _**Optional.** Is there something we can do to work around this issue in the meantime?
 <!-- EXAMPLE: There are no known workarounds. -->
-## Impact/Urgency
+#### Impact/Urgency
 _**Required.** Describe the impact this bug has on our system, clients, and/or team._
 Include the rational behind labelling P1, P2, P3 (ie for AT milesting. 1. stops the testing of the AT target 2. needed for AT target, but not stopping testing 3. post AT target
 <!-- EXAMPLE: This prevents us from testing the steven developer option. This is a blocking issue. -->
-## Expected Behavior
+#### Expected Behavior
 _**Required.** Describe the desired outcome if this were functioning as expected. Include a checklist if applicable._
 <!-- EXAMPLE: "steven" should appear in the unauthenticated Dev List dropdown. -->
-## QA Considerations
+#### QA Considerations
 _**Optional.** For QA to populate. Leave blank if QA is not applicable on this ticket._
 <!-- EXAMPLE: ... -->
-## Additional Info & Resources
+#### Additional Info & Resources
 _**Required.** Include additional information, such as screenshots, log snippets, links to applicable code files, and/or links to relevant documentation._
 <!-- EXAMPLE: ... -->
 
-### 8. Pre-Launch Checklist
+## 7. Pre-Launch Checklist
 Final Review: Ensure all critical issues are resolved.
