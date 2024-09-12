@@ -231,6 +231,8 @@ Form526Submission.remediated.map do |sub|
 end.uniq
 ```
 
+Currently OCTO leadership receivis a weekly email with numbers like 'how many submissions did we process', 'how many failed the primary path', and so on. This was our old way of trying to keep track of what was in a failure state, but these metrics still have use. We could easily stand up a Datadog dashboard widget or alert that uses our new [state logging](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/form526_state_logging_job.rb) data, if we wanted to make this weekly report automatic. 
+
 ## Summary
 
 We spent over a year developing [various types of audits to capture submission failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) during our Code Yellow remediations.  Now, as long as we maintain our [safety net's axioms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#how-to-get-to-100-coverage-in-theory), this labor is no longer necessary.  `Form526Submission.failure_type` gives us a complete picture.
