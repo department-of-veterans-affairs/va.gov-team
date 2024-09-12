@@ -148,7 +148,7 @@ Are you comfortable with that?
       - What would you do next? 
       - [If they ignore the alert and decide to log in with MHV] Why did you choose to move ahead with MHV?
          - Can you walk me through what you’re seeing here on this page?
-         -** What does the phrase "identity-verified" mean to you?**
+         - **What does the phrase "identity-verified" mean to you?**
          - What would you do next? 
          - [If they ignore the alert and decide to log in with MHV] Why did you choose to move ahead with MHV?
    - Do you know if you have a Login.gov or ID.me account?
