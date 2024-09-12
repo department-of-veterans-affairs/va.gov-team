@@ -156,8 +156,9 @@ All link labels TBD by content
 ![Screenshot 2024-08-29 at 10 23 47 AM](https://github.com/user-attachments/assets/4af9584c-8770-4c72-be30-2630bc210159)
 
 **3. DIC in Disability mega menu**
-  - Still deciding whether we remove the link, or just update the node (since there is no mega menu for fam hub yet)
-![Screenshot 2024-08-29 at 10 27 58 AM](https://github.com/user-attachments/assets/82227708-63d3-4a05-9a2c-18e799c250d2)
+  - Update with new node / label
+![Screenshot 2024-09-12 at 1 57 43 PM](https://github.com/user-attachments/assets/5a480d24-d56d-4aff-9d07-334d8fbf59af)
+
 
 **4. Survivors Pension in Pension left nav - Remove**
   - Remove the left nav links to Survivors Pension (under 'GET') and Survivors Pension rates (under 'More resources')
@@ -169,8 +170,11 @@ All link labels TBD by content
 ![Screenshot 2024-08-29 at 10 26 31 AM](https://github.com/user-attachments/assets/f28d7f6a-c744-40b8-9d49-bf30cdb55264)
 
 **6. Survivors Pension in Pension mega menu**
-  - Still deciding whether we remove the link, or just update the node (since there is no mega menu for fam hub yet)
-![Screenshot 2024-08-29 at 10 28 20 AM](https://github.com/user-attachments/assets/abd30e95-8c59-48d3-9ea4-e7eb7b5a956a)
+  - Update with new node / label
+![Screenshot 2024-09-12 at 1 58 27 PM](https://github.com/user-attachments/assets/50925352-56ce-427f-a747-234a086a9a64)
+
+
+
 
 
 
