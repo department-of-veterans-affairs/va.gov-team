@@ -91,11 +91,3 @@ Low priority
     - Look at setting tighter parameters up front for the audit to empower auditors to make decisions and decrease reviews needed (i.e. we are not changing URLs this round, only documenting changes needed)
 
 
-
-## Retro and future considerations
-- This effort did not get into authenticated pages, Decision reviews, or root level pages - these sections should be added in next time
-- How can we link this effort to also validate that our IA sitemaps are up to date with the actual site?
-- Documentation should reduce the time needed to complete this effort in the future
-- Consider breaking this audit up rather than a large effort - i.e. could we do a number of areas each qtr, start to finish?
-- Officially kick off process and include a chance to discuss documentation, process, and meeting cadence to keep things on schedule
-- Include follow up work to update standards, decisions, and documentation
