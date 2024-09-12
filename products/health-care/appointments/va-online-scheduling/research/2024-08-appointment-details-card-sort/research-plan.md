@@ -16,7 +16,7 @@ This research corresponds to the following points of the Veteran journey:
 ## Research Goals
 
 ### Outcome
-This study will give us insight into how Veterans expect their information on the appointment details page to be organized, based on how they categorize different items and what they find most important. This will help us better organize the detail page to fit Veterans’ needs while ensuring scalability when we add new tasks, updates, or general appointment information.  
+This study will give us insight into how Veterans expect their information on the appointment details page to be organized, based on how they categorize different types of information and what they find most important. This will help us better organize the detail page to fit Veterans’ needs, while ensuring scalability when we add new appointment-related tasks, updates, or other appointment information.  
 
 ### Research Questions
 - How do Veterans group and define the pieces of information on their appointment detail page for Upcoming appointments? 
