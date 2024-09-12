@@ -19,7 +19,8 @@
 - [add to VA org](https://github.com/department-of-veterans-affairs/github-user-requests/issues/23668)
 - invite for slack - sent (see slack-infomration)
 - [instructions re zenhub support](https://dsva.slack.com/archives/C05BRLN52HJ/p1724962990511469)
-- 
+- Requested Stephen to add Juan to PCI git repo
+- requested Zenhub access via vfs-platform-support  /support
 
 [**Onboarding Checklist ticket**](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=timwright12&labels=onboarding&projects=&template=onboarding-request-engineering.yml&title=Onboarding%3A+%5Bname%5D)
 [Juan's ticket](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9575)
