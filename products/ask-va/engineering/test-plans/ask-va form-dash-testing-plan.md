@@ -49,18 +49,22 @@ For Formal Testing: We will cover 120 flows of potential inquiry mapping
 - User journey for checking responses (unauthenticated)
     - Unauthenticated user checks inquiry ID on intro page in `Check the status of your question` search
       
-Our first priority test case is: An authenticated submits an inquiry in the `Health care` category. They answer `Myself` to **Who is your question about?** and `I'm the Veteran` to **What is your relationship to the Veteran**.
+Our first priority test case is: An authenticated submits an inquiry in the `Health care` category. They answer `Myself` to **Who is your question about?** and `I'm the Veteran` to **What is your relationship to the Veteran?**.
 
 See our current test code [in this GitHub folder](https://github.com/department-of-veterans-affairs/ask-va/tree/cypress-tests/cypress/cypress/e2e/1-getting-started/flows).
 
 #### Confirmed Automated UI Test Coverage for Start of Testing:
-This coverage was confirmed as acceptable by the QA resource from the Collaboration Cycle Team
-- An Unauthenticated User, who is the Veteran, is looking for Insurance.
-- An Authenticated User, who is the Veteran, is looking for Health Information.
-- An Unauthenticated User, who is the veteran, is looking for Health Information.
-- An Unauthenticated User, Who is a submitter, looking for information on the dashboard
-- An Authenticated User, who is a submitter, looking for information on the dashboard
-- An authenticated business submitter, going through the education flow  
+A QA resource from the Collaboration Cycle Team confirmed the following test cases as sufficient for our release.
+
+Form submission
+- An Unauthenticated User, who is the Veteran, asking a question in the `Life insurance` category
+- An Authenticated User, who is the Veteran, asking a question in the `Health care` category
+- An Unauthenticated User, who is the veteran, asking a question in the `Health care` category
+- An Authenticated, who is a business submitter, asking a question in the `Education benefits and work study` category
+
+Checking responses (dashboard)
+- An Unauthenticated User, Who is a submitter, checking status in the `Check the status of your question` question
+- An Authenticated User, who is a submitter, checking for responses on the dashboard
 
 **Manual Usability & Accessibility Testing**
 - Scope: 
