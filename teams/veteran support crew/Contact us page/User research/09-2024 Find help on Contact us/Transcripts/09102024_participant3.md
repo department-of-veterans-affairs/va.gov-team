@@ -379,17 +379,159 @@ Becky: OK great
 
 > P3: VA.gov was not that good back then, 14 years ago.
 
-[ Here is the VA benefits hotline number. I would click on check your VA claim or appeal status.
-*Is there a reason you would try and find a number on there? That’s only is it was within the hours they were closed. I’m looking for an email. I can click on this Claims status and see if there is anything I can add. If it’s in the middle of the night, there’s no one to talk to and I would click FAQ’s.
-*Are you familiar with the VA benefits hotline? -No. I never used it.
-I would click on VA articles, none of them answered that question, I would go back and see if I missed something. 
-*As a final result? -I would call.]
+Becky: That, that's great to hear or well, not great to hear, but good to know that we've we've improved there.
+
+Becky: All right, So you know, let's say you, you do call, but you still don't quite get the answer you need.
+
+Becky: And again, the scenario is you have worsening shoulder pain and you just want to know if you can increase your disability compensation.
+
+Becky: What would you do, you know, if that first phone number didn't work out now?
+
+> P3: Well, there is the VA health benefits hotline. It's gonna be a secondary phone number to call.
+
+Becky: Got it. 
+
+> P3: And then you can always go to the frequently asked questions to see if they can give you kind of a broad spectrum answer.
+
+Becky: Yeah. So you can you can go ahead and and click into the FA QS if if that's something you would do in this case.
+
+> P3: And now I'm looking at the different topics to make sure I don't need to type in anything.
+
+Becky: Yeah ok. So before, you know, you just went to the search and now you're sort of scrolling down and looking at the topic. Ok.
+
+> P3: And I'm not seeing anything in the decision reviews and appeals. I would click on the disability articles.
+
+Becky: OK, so you're clicking the link to see all the articles because maybe you're not seeing it on that first page.
+
+> P3: Yeah.
+
+Becky: OK.
+
+> P3: And then I'd scroll just a little bit. If it's not at the top, then I would go ahead and type in. This isn't review. Not just isn't review, words are not working with anyone.
+
+Becky: Yeah, no worries. To remind you of the scenario, It's worsening shoulder pain. You want to know if you can increase your disability compensation.
+
+Becky: All right, so it sounds like it looks like you're searching. OK, And what would you do now?
+
+> P3: Now, I would again, scroll just a little bit. There's only three answers there and none of them answer that question.
+
+> P3: OK, So I would go back and as I'm going back, go ahead and look and see if I missed something I could have.
+
+Becky: All right. So, yeah, so it looks like, you know, maybe going through the FAQs didn't help in this case.
+
+Becky: So, yeah, as as a final, final resort... what was that? Sorry, could you repeat that?
+
+> P3: I said I would call.
+
+Becky: Yeah, great. Well, that makes sense. Thanks for thanks for walking through that scenario around increasing disability compensation.
+
+Becky: All right, well, we're finished with each scenario now, so you can stop sharing your screen and it should just be like a button at the top.
 
 ## Review each scenario
-[Key words are important when doing a search. It’s odd to me that Login and ID are two different processes.
-If you’re a Chatbot person, I’m glad it’s there.]
+Becky: OK, thank you. So thank you for again reviewing those with me. Your input's been really helpful.
+
+Becky: And before we end, I'm gonna go ahead and share my screen just to show you the different ways that the Contact Us page could have helped in one of those scenarios.
+
+Becky: So we'll take a look at the Login one. And I'm hoping this walkthrough shows you how to use va.gov for help in the future, especially while we're still working on improving the Contact Us page and you know, other sections on VA.gov.
+
+Becky: So you've definitely shown me how finding these answers can be complicated for veterans right now. But again, we're hoping to make that a little bit better in the future.
+
+Becky: OK, so I will share my screen.
+
+[Becky does walk through. See this section in the conversation guide]
+
+Becky: Do you have any questions or I'm curious too if you have any reactions to anything I just showed you.
+
+### Explore our FAQs and other resources to get answers to your questions
+> P3: Keywords are definitely important when you do a certain because I would have had to enter more keywords to actually find that answer.
+
+> P3: And it it's kind of odd to me that login.gov and ID me both have two different verification processes.
+
+> P3: So it kind of makes me want to do a login.gov because they're a little bit more strict on what ID they take.
+
+Becky: Oh, OK.
+
+> P3: 'cause, you know, I thought ID me was pretty safe and then here they had so many more ways to verify, which is good if you can't find anything but your passport, but it's not good if you, I mean, it seems like it would be a lot easier to break into that situation there.
+
+> P3: So that was kind of different to find out.
+
+Becky: Got it. Yeah, that's definitely interesting. You're looking from, I think the the like the safety perspective of it
+
+> P3: Yeah, the security of it.
+
+Becky: Yeah. Anything else that that stood out to you in that walkthrough? Like you mentioned keywords.
+
+### Ask our chatbot a question
+
+> P3: No, not really. I mean, if you're a chat bot person, I'm glad that it's it's there.
+
+> P3: And I do like the fact that it did it, you know, it was pretty smooth and asking you questions. And then, you know, when it couldn't answer it specifically, it sent you, you know, contact information.
+
+> P3: It didn't ask you crazy questions. But it wasn't, you know, taking 50 steps to find out that it didn't know the answer.
+ 
+> P3: You know, you know, it's just a couple steps. It was like, OK, you need a real person.
+
+Becky: Right, yeah, you could, it escalated to a real person when it knew it couldn't answer your question quickly.
+
+Becky: OK, well, I'll stop sharing my screen here and we'll just take some time to close out the session and and cool down.
 
 ## Cool down
-[I like that it was easy to find the phone numbers. I like that it was split up and not one general number.
-*Anything that could of been easier? -For me, no. Maybe for other Vets that are not tech savvy, might be difficult but it’s easier than what it used to be.]
+Becky: So I'd like to spend a little time just reflecting before we finish. And we already started doing this a little bit, but in general, what did you think of using the contact us page in those both of those scenarios?
 
+Becky: Is there anything you liked or anything that you think could have been easier?
+
+> P3: I like the fact it was easy to find the phone numbers, whatever you're looking for, you know, whether it's your, you know, VA health or benefits and so forth.
+
+> P3: I like that, that it was split up where it's not one general number to call.
+
+> P3: Where you know, you call this person who has health and benefits and burial and all that all at one phone number. I like the fact split up with different phone numbers.
+
+> P3: I know way back in the dinosaur age there was one phone number and you could be on there for days.
+
+Becky: OK, got it. Sounds like you you're expecting a maybe a longer wait time or a longer time to get to the person you need to get to if there's just one phone number, maybe.
+
+> P3: Definitely
+
+Becky: OK. Is there anything that that could have been a bit easier in using the page for me?
+
+> P3: For me, no. Other veterans who aren't so tech savvy. I'm not saying I am because I'm definitely far from it, but I know there's people out there that are worse than I am.
+
+> P3: It might be a little bit difficult, but it it is broken up a little bit easier than it used to be to find information.
+
+> P3: It instead of hitting contact us at the very bottom and then click in another one and then again the the one phone number to call.
+
+> P3: It's, it's definitely easier because it's split up, you know, and also there's more information there than just a phone number.
+
+> P3: So you click on a link and you know, it could take you to benefits or it could take you to appointments instead of just, OK, here's the phone number, go to it.
+
+> P3: You know, for people, again like me, who don't like to sit on the phone for very long, you know, being able to click and get to where you need to go is it's a blessing.
+
+Becky: Got it. Yeah, I noticed, you know, you like clicking around and you're very comfortable. I think you're quite tech savvy. You're comfortable navigating to tell their pages. I definitely saw that too.
+
+Becky: Well, that was, that was the the last question there or sorry, another question, but just is there anything you want to share with me about this research process or, or anything like that before we close out?
+
+> P3: I'm loving you guys doing this, this research process. I've done a couple of of them and I know that has definitely improved a lot since the first time it was, you know, put out there.
+
+> P3: So I like the fact that you're asking Veterans questions and you're trying to find out what's easiest for us and what we, you know, what our opinions is on these sites because we're the ones that use them.
+
+> P3: So instead of, you know, just somebody sitting there coming up with this program and, you know, we're sitting there going, where did you come up with this?
+
+> P3: You know, and again, you know, us being the Veteran, we're the ones asking the questions, you know, we're the ones that need the answers.
+
+> P3: So you guys make it easier for us to find those answers is a great benefit.
+
+Becky: Yeah. I'm glad, you know, you've been doing the research sessions. And I do agree that, you know, we don't, we don't want to make assumptions on how someone might use something.
+
+Becky: So, you know, even just you today walking me through how you'd use the contact us page gave us a lot of insight into how we can make it better. I definitely have some ideas.
+
+> P3: OK, good.
+
+Becky: Yeah. All right. Well, Parigean will send you a thank you note with some information you can pass along to other veterans if they'd like to participate in future research sessions.
+
+Becky: But, yeah, thank you for sharing some time with me today.
+
+> P3: All right.
+
+Becky: I hope you have a lovely rest of your day.
+
+> P3: Thank you.
