@@ -87,7 +87,7 @@
 | Confirmation                                    |                                                              | Confirm “You’ve submitted your CHAMPVA application” |
 | Email inbox                                     | Confirm receipt of email confirmation                        |                                                     |
 
-## Authenticated, applying for spouse and one adopted child, has medicare, no OHI
+## Authenticated, applying for spouse and one adopted child, spouse has medicare, no OHI
 | Page                                            | Step                                                         |                                                     |
 |-------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------|
 |                                                 | Log in with an account from [staging test user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv#L161) |                                                     |
