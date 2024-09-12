@@ -32,7 +32,7 @@ We do not currently have wholistic state, so it's critical to define the scope o
 
 This will likely be a multifaceted definition, but if the scope of responsibility is tight enough, it is perfectly possible to do. A quick nod to the difficulty of maintaining this definition over time, but [more on that later.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#how-we-stay-at-100)
 
-Success will be defined by a 'handshake' with the receiving entity. For 526 this ranged from the simplicity of a synchronous response, to the complexity of a multi-layered polling solution that runs async for a up to a year.
+Success will be defined by a 'handshake' with the receiving entity. For 526 this ranged from [the simplicity of a synchronous response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#happy-path), to the complexity of a [multi-layered polling solution that runs async for a up to a year](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#note-on-the-paranoid-success-edge-case).
 
 The important thing is to know exactly when a submission has reached it's success state, or when it has run out of time to reach it's success state, which we cover in the next section.
 
