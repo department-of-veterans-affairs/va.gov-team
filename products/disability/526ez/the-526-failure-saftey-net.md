@@ -8,7 +8,7 @@ By making failure the default state for a `Form526Submission` record we ensure t
 
 ## How to get to 100% coverage in theory
 
-[For technical implementation details, skip to this section.](TODO - add link)
+[For technical implementation details, skip to this section.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#how-we-did-this-in-practice-on-526)
 
 ### Track success, not failure
 
@@ -30,7 +30,7 @@ We do not currently have wholistic state, so it's critical to define the scope o
 
 ### Have an airtight definition of success
 
-This will likely be a multifaceted definition, but if the scope of responsibility is tight enough, it is perfectly possible to do. A quick nod to the difficulty of maintaining this definition over time, but [more on that later.](TODO - add link)
+This will likely be a multifaceted definition, but if the scope of responsibility is tight enough, it is perfectly possible to do. A quick nod to the difficulty of maintaining this definition over time, but [more on that later.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#how-we-stay-at-100)
 
 Success will be defined by a 'handshake' with the receiving entity. For 526 this ranged from the simplicity of a synchronous response, to the complexity of a multi-layered polling solution that runs async for a up to a year.
 
@@ -90,7 +90,7 @@ This state is typically reached via the following steps
 - this job submits to the Lighthouse [Benefits Intake API](https://developer.va.gov/explore/api/benefits-intake)
 - The job receives a success response from the external api containing a foreign key.
 - The job saves this foreign key on the `Form526Submission` as it's `backup_submitted_claim_id`. (NOTE: though logically similar within our application, these are a very different ID type within the final VA system).
-- The [Form526StatusPollingJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/form526_status_polling_job.rb) polling job will use the `backup_submitted_claim_id` to poll the benefits-intake API for updates to the submissions status for up to [3 weeks](TODO - link to timebox).
+- The [Form526StatusPollingJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/form526_status_polling_job.rb) polling job will use the `backup_submitted_claim_id` to poll the benefits-intake API for updates to the submissions status for up to [3 weeks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#account-for-transitional-states).
 - This polling identifies that the benefits intake API has assigned this submission a status of 'vbms' or 'success'
 - a status of 'vbms' is reflected locally as a value of `accepted` in the submission's `backup_submitted_claim_status` value
 - a status of 'success' is reflected locally as a value of `paranoid_success` in the submission's `backup_submitted_claim_status` value
@@ -127,13 +127,13 @@ TODO: write / link this doc
 - AND it is less than 3 weeks old
 - THEN it is assumed to be "in processes"
 
-We do not distinguish between in processes on the Primary, Backup, and Remediation paths. There is no practical value added by knowing if something is in flight on the happy path or backup path worker. We could technically extrapolate this information using submissions associated `Form526JobStatus` records, but this would blur the lines of [tracking failure vs success](TODO - link). 
+We do not distinguish between in processes on the Primary, Backup, and Remediation paths. There is no practical value added by knowing if something is in flight on the happy path or backup path worker. We could technically extrapolate this information using submissions associated `Form526JobStatus` records, but this would blur the lines of [tracking failure vs success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#track-success-not-failure). 
 
 Additionally, this change over happens programmatically, i.e. fast. By the time we gathered this data it's likely to be irrelevant.
 
 **TL;DR - in processes is intentionally nebulous.**
 
-As far as delineating 'in process remediation', it's antithetical to the goal. If a remediation is in process, then that submission is [failure like](TODO - link).  If a remediation is complete, then that submission is in a success state.
+As far as delineating 'in process remediation', it's antithetical to the goal. If a remediation is in process, then that submission is [failure like](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#separate-failure-from-cause-of-failure).  If a remediation is complete, then that submission is in a success state.
 
 ## How we stay at 100%
 
@@ -196,13 +196,13 @@ This mirrors how we handle polling on the backup path.  Same deal here, we need 
   }
 ```
 
-The bad version relies on identifying failure, not success, [which means we can't trust it.](TODO - link above)
+The bad version relies on identifying failure, not success, [which means we can't trust it.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#track-success-not-failure)
 
 ## Can we build something better?
 
 Almost certainly, yes. Think of this system as plugging all the holes in the bottom of the boat, but the rest of the convoy is still sinking, pirates are coming, there's a sea monster, etc. There is a lot more to do until we get to true 10% coverage for even the 526 form.
 
-As of the time of writing this there are conversations going on in the VA about [universal tracking IDs](TODO - link) or even a wholistic solution for state.  Whether or not we use this exact solution elsewhere, or even on 526 in the long term, I think what we've done here demonstrates that 100% coverage well within reach.
+As of the time of writing this there are conversations going on in the VA about universal tracking IDs or even a wholistic solution for state.  Whether or not we use this exact solution elsewhere, or even on 526 in the long term, I think what we've done here demonstrates that 100% coverage well within reach.
 
 I believe the key is using exclusive methodology to implement whatever solution the organization decides on.
 
@@ -216,7 +216,7 @@ There are many ways we could inspire action on these submissions, e.g. alerts or
 
 ### Other stuff we could do
 
-I mentioned [our new 526 scopes above](TODO - link). These power our `failure_type` scope, but can also be useful unto themselves. For example, if we want to know the percentage of submissions that went to the backup path over the last week we could do the following...
+I mentioned [our new 526 scopes above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#known-limitation-vet-doc-upload-success). These power our `failure_type` scope, but can also be useful unto themselves. For example, if we want to know the percentage of submissions that went to the backup path over the last week we could do the following...
 
 ```
 at = Form526Submission.arel_table
@@ -234,6 +234,6 @@ end.uniq
 
 ## Summary
 
-We spent over a year developing [various types of audits to capture submission failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) during our Code Yellow remediations.  Now, as long as we maintain our [safety net's axioms](TODO - link to top of doc), this labor is no longer necessary.  `Form526Submission.failure_type` gives us a complete picture.
+We spent over a year developing [various types of audits to capture submission failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) during our Code Yellow remediations.  Now, as long as we maintain our [safety net's axioms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#how-to-get-to-100-coverage-in-theory), this labor is no longer necessary.  `Form526Submission.failure_type` gives us a complete picture.
 
 By using an exclusive methodology, we make it possible to ensure that submissions are not able to slip through the cracks, doing our part to ensure no veteran will ever have to wait benefits they need any longer than they have to.
