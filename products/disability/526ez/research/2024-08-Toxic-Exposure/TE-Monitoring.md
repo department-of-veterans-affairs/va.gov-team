@@ -29,16 +29,16 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |**Rollout %**|**Dates of rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|GA4 reporting date | Medallia +Contact Center request
 |--|--|--|--|
 |5%| Aug 28 | Sept 3 [(Sheet evaluating the 5% metrics)](https://docs.google.com/spreadsheets/d/1zyBjDaUAhYkcA0QhOH0NCKgLrJmylCZOP9AupWGCX3w/edit?gid=1093610789#gid=1093610789))| 
-|10%| Sept 3 - 8 | Sept 8|
-|25% | Sept 9 - Sept 11 | Sept 11|
-|50%|Sept 12- 15| Sept 15 |Request on 9/13|
-|75%|Sept 16- 17|Sept 17|
-|100%|Sept 18 | Sept 18| Request on 9/20|
+|10%| Sept 5 - 15 | Sept 15|
+|25% | Sept 16 - Sept 18 | Sept 18/19|
+|50%|Sept 19- 22| Sept 23 |Request on Sept 20|
+|75%|Sept 23- 24|Sept 25|
+|100%|Sept 25- 30 | Sept 18| Request on Sept 27|
 |1.1 5%|||
 |25%|||
-|50%|
-|75%|||Request on 10/4
-|100%|| ||
+|50%||| Request on Oct 18 |
+|75%|||
+|100%|| | Request on Oct 25|
 
 ## Summary of GA4/Data Dog
 ### 526ez Success Metrics by % rollout
