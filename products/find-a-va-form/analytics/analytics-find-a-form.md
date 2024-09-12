@@ -1,5 +1,13 @@
 # Analytics for Find a Form
 
+- [CSAT scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#csat-scores)
+- [2024](#2024)
+  - [Search metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#search-metrics)
+  - [Top results clicked](#top-results-clicked)
+- [2023](#2023)
+- [2022](#2022) 
+- [2021](#2021)
+  
 ## CSAT Scores
 
 | Month/Quarter | CSAT Score % 
@@ -18,11 +26,9 @@
 | Nov 2023 | 51.18% |
 | Oct 2023 | 51.14% |
 
-## Google Analytics - Events
+## 2024
 
-### Year 2024
-
-## Search metrics 
+### Search metrics
 
 |	Metric	|	1Q 2024 | 
 | --- | :---:|
@@ -41,7 +47,8 @@
 | Able to complete tasks (percent of surveys): No | 75% | 
 | Able to complete tasks (percent of surveys): No response | 9% |
 
-## Top 10 results clicked - 1Q 2024 (Jan - Mar)
+## Top 10 results clicked 
+### 1Q 2024 (Jan - Mar)
 
 | Search result | Clicks | 
 | --- | :---:|
@@ -56,7 +63,7 @@
 |	Application for DIC, Survivors Pension, and/or Accrued Benefits	|	2,794
 |	Appointment of Veterans Service Organization as Claimant's Representative	|	2,211
 
-### Year 2023
+### 2023
 
 |	Metric	|	Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023 | 
 | --- | :---:|:---:|:---:|:---:|
@@ -69,7 +76,7 @@
 | Able to complete tasks (percent of surveys): No | 80% | 83% | 74% | 78%
 | Able to complete tasks (percent of surveys): No response | 7% |5% | 15% | 9%
 
-### Year 2022
+### 2022
 
 |	Metric	|	Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | 
 | --- | :---:|:---:|:---:|:---:|
@@ -82,7 +89,7 @@
 | Able to complete tasks (percent of surveys): No | 76% |  81% | 83%|
 | Able to complete tasks (percent of surveys): No response | 10% | 8%| 10% |
 
-### Year 2021
+### 2021
 
 |	Metric	|	Q1 2021 | Q2 2021 | Q3 2021 | Q4 2021 | 
 | --- | :---:|:---:|:---:|:---:|
