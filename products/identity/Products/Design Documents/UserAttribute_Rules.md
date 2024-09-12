@@ -77,7 +77,7 @@ This diagram depicts the current business requirements as described above:
 
 ![userattribute_businessrules](https://user-images.githubusercontent.com/71290526/151223969-ceae6748-c3db-4d0c-8044-f0fcffba63a0.png)
 
-| User Attribute | Required for verified [Login.gov](http://login.gov/)                                 | Required for verified [ID.me](http://id.me/)  | Required by MPI |
+| User Attribute | Required for verified Login.gov                              | Required for verified ID.me  | Required by MPI |
 | -------------- | ------------------------------------------------------------------------------------ | --------------------------------------------- | --------------- |
 | first name     | x                                                                                    |                                               |                 |
 | last name      | x                                                                                    | x                                             | x               |
