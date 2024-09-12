@@ -199,7 +199,7 @@ The bad version relies on identifying failure, not success, [which means we can'
 
 ## Can we build something better?
 
-Almost certainly, yes. Think of this system as plugging all the holes in the bottom of the boat, but the rest of the convoy is still sinking, pirates are coming, there's a sea monster, etc. There is a lot more to do until we get to true 10% coverage for even the 526 form.
+Almost certainly, yes. Think of this system as plugging all the holes in the bottom of the boat, but the rest of the convoy is still sinking, pirates are coming, there's a sea monster, etc. There is a lot more to do until we get to true 100% coverage for even the 526 form.
 
 As of the time of writing this there are conversations going on in the VA about universal tracking IDs or even a wholistic solution for state.  Whether or not we use this exact solution elsewhere, or even on 526 in the long term, I think what we've done here demonstrates that 100% coverage well within reach.
 
