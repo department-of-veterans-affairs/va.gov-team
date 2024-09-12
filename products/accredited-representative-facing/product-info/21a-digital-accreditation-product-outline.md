@@ -1,9 +1,9 @@
 # Form 21a Product Brief
 
 ## Description
-Today, individuals who want to become an accredited representative through the VA must fill out [Form 21A](https://www.va.gov/VAFORMS/va/pdf/VA21a.pdf) and submit to the Office of General Counsel through US Mail, fax machine, or potentially email. VA Office of General Counsel (OGC) Employees/Accreditation managers must process the paper form. They correspond with the individual multiple times due to insufficient information provided by applicants on the form.
+Today, individuals who want to become an accredited claims agent or attorney through the VA must fill out [Form 21A](https://www.va.gov/VAFORMS/va/pdf/VA21a.pdf) and submit to the Office of General Counsel through US Mail, fax machine, or potentially email. VA Office of General Counsel (OGC)'s Benefits Law Group (BLG) employees/accreditation managers must process the paper form. They correspond with the individual multiple times due to insufficient information provided by applicants on the form.
 
-The goal of this initiative is to build a secure, web-based self-service Accreditation portal on VA.gov to support accredited representatives and those who seek accreditation, starting with Claims Agents and Attorneys.
+The goal of this initiative is to build a secure, web-based self-service Accreditation application form (21a) on VA.gov to support those who seek accreditation, starting with Claims Agents and Attorneys.
 
 ### Associated product(s)
 * [Mockups (Figma)](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1026-23089&t=bZzrpQIbIIgz574V-1)
@@ -13,13 +13,17 @@ The goal of this initiative is to build a secure, web-based self-service Accredi
 
 ### What is the problem and who is affected?
 
-VA OGC employees spend significant time processing applications from thousands of individuals who desire to become accredited to work with Veterans. They do not have sufficient resources to process the existing applications in a timely manner. 
+VA OGC BLG employees spend significant time processing paper applications from thousands of individuals who desire to become accredited to work with Veterans. They do not have sufficient resources to process the existing applications in a timely manner. 
 
-At the same time, individuals applying to become accredited with VA OGC have to submit paper applications, which are not always accessible. After submitting the application, they have to wait extended periods (up to two years, according to some applicants) for their application to be processed.
+At the same time, individuals applying to become accredited with VA OGC have to submit paper applications. After submitting the application, they have to wait extended periods (up to two years, according to some applicants) for their application to be processed.
+
+This application backlog limits the number of accredited claims agents and attorneys available to help Veterans apply for Benefits and navigate the VA's claims appeals processes.
 
 ### Why do you think the problem is occurring?
 
-VA OGC has extensive back-and-forth communication with applicants applying to become accredited with VA as accredited representatives. This is due to questions raised by applicant's responses, and a general insufficient set of questions needed to assess an applicant’s worthiness of accreditation. This accreditation process is time-consuming for VA OGC and results in further backlog and wait times.
+This problem occurs because the application process is not digitzed.
+
+Additionally, the BLG has extensive back-and-forth communication with applicants applying to become accredited with VA as accredited representatives. This is due to questions raised by applicant's responses, and a general insufficient set of questions needed to assess an applicant’s worthiness of accreditation. This accreditation process is time-consuming for VA OGC and results in further backlog and wait times.
 
 ### How does this initiative help further OCTO-DE’s mission and goals?
 
@@ -28,7 +32,7 @@ OCTO strives to provide excellent experiences and outcomes for Veterans. For som
 
 ### Objective
 
-Build a secure, web-based self-service Accreditation portal on VA.gov that allows individuals to apply to become accredited as Claims Agents or Attorneys, and pass this data securely to VA OGC for processing.
+Build a secure, web-based self-service Accreditation application (21a) on VA.gov that allows individuals to apply to become accredited as Claims Agents or Attorneys, and pass this data securely to VA OGC for processing.
 
 What’s in scope:
 * Implement functionality for Accreditation portal visitors to create an account or login.
