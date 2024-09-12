@@ -427,11 +427,79 @@ Becky: Yeah.
 
 > P4: That's I, I guess with with my mind, it was a little bit difficult to get to be patient with them.
 
-Becky: Yeah, yeah, absolutely.
+Becky: Yeah, yeah, absolutely. That that makes sense, especially because again, this is this is automated. So, you know, it's doing its best guess to try to understand what you're you're telling it.
 
-[ It would be nice to get the phone numbers, depending on where you are for the State you are in, it would give you the main numbers for that State.]
+[Becky walks through using the chatbot]
+
+Becky: Do you have any, any questions or you know, did I change your mind about chat bots or any any good actions?
+
+> P4: Well, when you click on the contact VA, where does that go to give you phone numbers or just OK, you can go to the phone numbers.
+
+Becky: So it would, you know, it in a way it would bring me back in a loop back to the contact us page or I could go to this phone numbers page which you opened before. Yeah, just some options there.
+
+> P4: It'd be nice if we can get the phone numbers depending on where you're at in the United States, you know, if you could have a place to type in your zip code or your, your state and it'll come up with the numbers call for that, that state and it'll give you the times for that state.
+
+> P4: You know, instead of, instead of calling these main numbers are on the East Coast because it, it's kind of hard sometimes to sit there and calculate. OK, what time is it?
+
+> P4: And for some people, they, they, they, they lose track of what time it is.
+
+Becky: Absolutely no, that, that definitely makes sense. And so it sounds like you'd want like a local, a local phone number, a more direct phone number rather than maybe a general like East Coast number that you're seeing here. Is that right?
+
+> P4: Right. Let's say somewhere at the top of the page it says it could get based on your IP address or your, or if your or your, you just type in, OK, I meant this zip code here and you click this, it'll come up with the phone numbers for you to call.
+
+> P4: It'll populate the local phone numbers. Let's say, 'cause we have several area codes here, but I'll just pick one now. It'll say, OK, you're up at the 76O, but you can use the 858 numbers and that'll get you the information out out of the main, main VA center. It'll make it it makes it easy then 
+
+Becky: You're, you're wanting some more individualized information based on your location or
+
+> P4: Well, some of the sometimes when I'm looking for information, they'll say, OK, let's let's take Lowe's hardware store.
+
+> P4: If I, if I ask them a question, they'll say at the top they say where are you located?
+
+> P4: And I'll say near [location] and they'll they'll they'll bring up the, the full, the phone numbers I need to contact or the, or the closest store I need to go to or people I need to talk to.
+
+Becky: Yeah, you know what? That's a great, that's a great point.
+
+> P4: Yeah, it's on their website and it's it's up at the corner, left hand, upper left hand corner where I can I see it real easy.
+
+Becky: Yeah, that's that's definitely great feedback. I'm already thinking of, you know, the ideas are swimming in my head. So yeah, I'm glad we we opened this page up. Thanks, [name].
+
+> P4: Yeah, because it's it's it's very easy at that at that point.
+
+Becky: All right. And just keeping us on time, I do see we have a couple minutes left. So just wanted to take some time reflecting before we finish.
 
 ## Cool down
-[*What did you think of those two pages for the scenarios? -Those are the two I use the most.It showed me what the new page can help me get more information.
-*What made it easier? -The way it’s laid out, simpler terms.]
+Becky: And firstly, what, what did you think about using the contact us page in those two scenarios? Again, it was the login scenario and then the scenario around increasing your disability compensation.
 
+Becky: Is there anything you liked or anything that could have been easier with that process?
+
+> P4: Well, actually those are the two scenarios that I probably would use the most, but, and they also did kind of showed me what the new page is going to do to help me get get more information because the old page can be a little bit difficult to navigate.
+
+> P4: The old web Web page could be a little difficult to navigate sometimes.
+
+Becky: Yeah. What do you think made it a little bit easier? What stood out to you?
+
+> P4: It's just, the way it's laid out, that's all. Just this, the way it's laid out.
+
+> P4: Simpler terms, I'm gonna say.
+
+Becky: OK, Yeah, that makes sense.
+
+> P4: Simpler terms makes it always easy for people to read.
+
+Becky: I love things being explained to me in a in a simple way, too.
+
+> P4: After, after working in the IT department for so many years, I got, I, I had to either, I had to, you know, then I returned.
+
+> P4: I had to learn how to stop talking IT geek and learn how to talk just regular English.
+
+Becky: Yeah. It can be hard. 
+
+> P4: It it it it drives you nuts.
+
+Becky: And I next I I'm wondering if there's anything else you wanted to share with me, maybe about this, you know, this research process in general or like the session today.
+
+Becky: Is there anything that you wanted to share with me?
+
+> P4: No, no, no. Yeah, it's it's been very informative.
+
+Becky: All right, now, I'm glad to hear that.
