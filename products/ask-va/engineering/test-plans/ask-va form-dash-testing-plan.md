@@ -1,5 +1,13 @@
 # Ask VA Form & Dashboard - Testing Plan (va.gov)    DRAFT v2
 
+Jump to: 
+- [1. Scope and Objectives](#1-Scope-and-Objectives)
+- [2. Testing Types](#)
+- [3. Test Cases](#
+- [4. Testing Team](#
+- [5. Execute Testing](#
+- [6. Bug Tracking and Fixing](#
+
 ### 1. Scope and Objectives
 - **Scope:** Ask VA form and dashboard covering all steps and fields, validation rules, usability and data submission.
 - **Objectives:** Ensure the form functions correctly, validates input, integrates properly with the backend, [CRM and other APIs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration), and provides a smooth user experience with appropriate accessibility expectations.
@@ -106,7 +114,7 @@ Note: It is expected that our update will not break these bots with the inscope 
    - Testing of the AVA VA.gov APIs/facade/middleware will be performed by the AVA VA.gov team.
 
 ### 5. Execute Testing
-**Unit Testing**
+#### Unit Testing
 - Execution:
    - Run tests using the testing framework for the repo.
    - Ensure all tests pass, we meet the coverage requirement of 80% for the repo and fix any identified issues.
@@ -134,7 +142,7 @@ Note: It is expected that our update will not break these bots with the inscope 
    - Note any bugs or usability issues and prioritize fixes.
    - Retest after making fixes.
 
-### 7. Bug Tracking and Fixing
+### 6. Bug Tracking and Fixing
 [Bug Tracking Ways of Working](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719508782816/0c02aafe8740074c13ea3a6821008f9f08266f5d?sender=uc2a4f18a27ff336484232897) 
 
 Bugs will be identified by Product or Teammates when identified. Bugs will be labeled with “Bug” and will be triaged within Zenhub within the Defects swimlane, ordered by priority. 
@@ -146,7 +154,7 @@ Bugs will be identified by Product or Teammates when identified. Bugs will be la
 | **Severity&nbsp;3** | Not blocking AT, but will be needed to be resolved prior to release **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
 
 
-### Process for Bug Creation: 
+#### Process for Bug Creation: 
 
 ![image](https://github.com/user-attachments/assets/95d60188-5bf2-456b-bb08-36481438c4d9)
 
