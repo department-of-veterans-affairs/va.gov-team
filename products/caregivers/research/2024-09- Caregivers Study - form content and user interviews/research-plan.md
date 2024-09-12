@@ -128,8 +128,8 @@ We would like to request a 30 minute kick-off call with Perigean before recruiti
 
 Pilot session:
 
-* Pilot participant email: TBD; want to do it when facilities is ready but we're still scheduling with an internal person
-* Date and time of pilot session: TBD; ideally week of September 16
+* Pilot participant email: Perigean to recruit from Cohort 2
+* Date and time of pilot session: Week of September 23rd, 12pm ET - 6pm ET
 
 
 ### Research sessions
@@ -146,7 +146,7 @@ Pilot session:
 - Thursday, October 3: 10am ET - 6pm ET
 - Friday, October 4: 10am ET - 6pm ET
 - Monday, October 7: 10am - 5pm ET
-- Tuesday, October 8: 10am - 6pm ET\
+- Tuesday, October 8: 10am - 6pm ET
 - Wednesday, October 9: 10am - 6pm ET
 - Thursday, October 10: 10am - 6pm ET
 - Friday, October 11: 10am - 6pm ET
