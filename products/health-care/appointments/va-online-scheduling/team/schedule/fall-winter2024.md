@@ -3,7 +3,7 @@
 Team Member      | September | October | November | December
 ---------------- | --- | --- | --- | --- |
 Jeff Roof        |  |  |  |  |  | 
-Leah De La Costa | 13 | 4, 7-8  | 8, 11-12  |  
+Leah De La Costa | 20 | 4, 7-8  | 8, 11-12  |  
 Peter Russo      | 26-30     |  1-4  |  |  |  
 Ciera Maddox     |  |  |  |  |  
 Melissa Lefevre  |  |  |  |  |  
