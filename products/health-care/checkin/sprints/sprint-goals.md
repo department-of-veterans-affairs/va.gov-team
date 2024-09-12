@@ -134,7 +134,7 @@
     - ⛔ BLOCKED
 - **Research Cards & Their Headers**
     - **Sprint Goal is to create the card sort study, address feedback, and submit**
-    - 🟥 [Create Optimal Workshop Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91617)
+    - ✔️ 🟥 [Create Optimal Workshop Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91617)
     - 🟥 [Submit Research Materials to Research Ops ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91618)
 - **Check in with staff after checking in**
     - ✔️ 🟥 Scheduke kickoff meeting with Sam (SPL)
