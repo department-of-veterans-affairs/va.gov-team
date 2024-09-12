@@ -79,8 +79,34 @@ We’d like to recruit 10 participants for a total of 8 completed sessions. We�
 None. 
  
 **Screener questions to target criteria not captured in the recruitment sign-up survey: ** 
+
+1. Which of the following describes your relationship to a Veteran? 
+
+- I am their spouse or surviving spouse (A spouse is a person who is or was legally married to a service member or Veteran. A surviving spouse is someone who was legally married to the Veteran at the time of their death and includes a surviving spouse who remarried.)  
+- I am a family member of the Veteran  
+- I am a Veteran Service Officer  
+- I am a Veteran’s personal representative (a person filling out the Medallions form on behalf of the deceased) 
+- I am a parent of a servicemember 
+- None of the above, but I am interested in applying for a medallion for someone else
+  
+2. Have you applied or tried to apply for a Medallions eligibility determination at least once in the last 12 months? 
+- If yes, go to question 4. 
+- If no, go to question 3. 
  
-Still to update.
+3. Are you interested in applying for a Medallions eligibility determination on behalf of a Veteran? 
+- If yes, go to question 4. 
+- If no, disqualify.
+  
+4. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a  computer?
+- Proceed to question 4a if yes. Proceed to 4c if no.  
+
+4a. Are you able to join the Zoom session using this assistive  
+technology?  
+- Answer should be yes to satisfy criteria for screen reader. 
+4b. Please list the name of the assistive technology or software you will use during the session. 
+4c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? 
+- Any kind of smart phone will work, as long as it connects to the internet. Tablet is ok, too.  
+- Answer should be yes for 3-4 users to satisfy criteria for mobile testing.  The other half should be on desktop devices. 
  
 ## Timeline 
  
