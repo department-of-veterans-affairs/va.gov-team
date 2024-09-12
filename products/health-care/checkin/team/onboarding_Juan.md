@@ -18,6 +18,7 @@
 - [New VFS Team Member - Juan Castillo](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90722)
 - [add to VA org](https://github.com/department-of-veterans-affairs/github-user-requests/issues/23668)
 - invite for slack - sent (see slack-infomration)
+- [submitted the slack request ticket] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/92757)
 - [instructions re zenhub support](https://dsva.slack.com/archives/C05BRLN52HJ/p1724962990511469)
 - Requested Stephen to add Juan to PCI git repo
 - requested Zenhub access via vfs-platform-support  /support
