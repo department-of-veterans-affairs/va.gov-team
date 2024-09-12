@@ -14,7 +14,7 @@
 - **In the absence of information on the page about which appointments (e.g., past or upcoming) you can file a claim for, outside of the one's that were listed on the page, many Veterans did not understand they can't use this tool to file claims for past appointments**
   - 35% of 60 Veterans did not understood they can't use this tool to file claims for past appointments
 
-## Breakdown of response data
+## Breakdown of Response Data
 
 | Questions  | After reviewing the information in the image, what type of claims can you file in this tool? | How can you file claims with receipts?  | Which claim(s) does it seem like you're filing for in this tool?  | Which claim(s) does it seem like you're NOT filing for in this tool?   | If you wanted to file your remaining claim(s) later today, how would you do that? | If you wanted to file your remaining claim(s) next week, how would you do that?  | Total |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -29,7 +29,11 @@ The content results of this study were not directly applied to our application d
 
 - Ensure clear information is included for which appointments you can file a claim for using this tool vs. BTSSS. 
 
-![image (7)](https://github.com/user-attachments/assets/db232eec-e60a-4fdd-aeb3-996bcc1c8446)
+<img width="280" alt="Select the appointments you want to file today screenshot" src="https://github.com/user-attachments/assets/db232eec-e60a-4fdd-aeb3-996bcc1c8446">
+
+## Detailed Visual Breakdown of Response Data
+
+<img width="900" alt="Detailed Visual Breakdown of Response Data" src="https://github.com/user-attachments/assets/f453ddcb-8d08-4a9b-90aa-9023c6a9a049">
 
 
 
