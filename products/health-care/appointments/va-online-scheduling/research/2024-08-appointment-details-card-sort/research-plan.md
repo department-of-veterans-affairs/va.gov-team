@@ -108,7 +108,7 @@ The tests will be conducted online at the participant’s leisure.
 
 ### Screener questions
 ```
-1. Have you ever used the Appointments tool on va.gov to manage or schedule your VA medical appointments?
+1. Have you used the Appointments tool on VA.gov to manage, review, or schedule your VA medical appointments in the past 6 months?
 
   - YES (meets criteria for the study)
   - NO (does not meet criteria for the study)
