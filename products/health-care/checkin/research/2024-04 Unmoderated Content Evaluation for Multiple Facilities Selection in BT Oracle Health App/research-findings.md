@@ -33,7 +33,7 @@ The content results of this study were not directly applied to our application d
 
 ## Detailed Visual Breakdown of Response Data
 
-<img width="900" alt="Detailed Visual Breakdown of Response Data" src="https://github.com/user-attachments/assets/f453ddcb-8d08-4a9b-90aa-9023c6a9a049">
+<img width="980" alt="Detailed Visual Breakdown of Response Data" src="https://github.com/user-attachments/assets/f453ddcb-8d08-4a9b-90aa-9023c6a9a049">
 
 
 
