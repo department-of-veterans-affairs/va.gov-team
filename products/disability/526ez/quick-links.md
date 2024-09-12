@@ -23,7 +23,7 @@
 |Toxic Exposure Usability Testing | Evaluative research for the new TE feature| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-07-Toxic-Exposure) | July 2023|
 |526ez Form Shadowing Research Study| Shadowing research for the 526 application| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)|November 2023|
 |Submission Status Research Study| Evaluative research for new confirmation page and post-submission emails) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-07-Submission-Status) | July 2024|
-|0781 Research Study| Research on proposed designs for the updated 0781 flow| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-06%200781%20Research)) | June 2024 |
+|0781 Research Study| Research on proposed designs for the updated 0781 flow| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-06%200781%20Research) | June 2024 |
 
 ## Design
 |Title|Description|Link|Version|
