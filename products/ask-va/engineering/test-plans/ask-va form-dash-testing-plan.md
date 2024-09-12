@@ -17,12 +17,13 @@ Reference Docs:
 - **E2E Automated Testing (Cypress):** Simulate user interactions and validate the form’s behavior. This includes mocking a user passing ICN to test flow.
 - **Manual Testing:** Perform exploratory testing to catch issues not covered by automated tests.
 - **Accessibility Testing:** Using appropriate tooling - inspect all pages.
+
 ### 3. Test Cases
 **Unit Testing: Minimum of 80% test code coverage** 
 - Test Cases: Each form field, page UI, and validation rules.
 - Example: Test email field validation (e.g., valid email format, empty input).
 
-**Integration Testing**
+#### Integration Testing
 - **Decision:** Initial automated tests will be run locally in order to prevent blocking the pipeline. _Once Authenticated Health - I am the Vet - Myself_ passes, we’ll promote it to the build pipeline. 
 
 - Test Cases: Interaction between form steps, form data persistence between steps, backend integration.
@@ -31,22 +32,27 @@ Reference Docs:
 
 For Formal Testing: We will cover 120 flows of potential inquiry mapping
 
-**E2E Automated Testing (Cypress)**
-- **Test Cases:** Full user journey, including edge cases and typical user flows - authenticated & unauthenticated.
-- Example Scenarios: 
-    1. User fills out About Yourself page, validates input, moves to Your Contact Information.
-    2. User navigates back to About Yourself, checks if data persists.
-    3. User completes the form and submits, verifies successful submission.
-    4. Authenticated user views the submission in the dashboard
+#### E2E Automated Testing (Cypress)
+**Test Cases:** We'll test the full user journey, from submitting the Ask VA form to checking for responses in either the dashboard (authenticated) or the `Check the status of your question` search (unauthenticated). We'll test edge cases and typical user flows for both authenticated and unauthenticated users.
+
+- User journey for submitting the form
+    - User fills out About Yourself page, validates input, moves to Your Contact Information.
+    - User navigates back to About Yourself, checks if data persists.
+    - User completes the form and submits, verifies successful submission.
+      
+- User journey for checking responses (authenticated)
+    - Authenticated user views the submission in the dashboard
        - Pending submission
        - Completed submission
-    5. Non-authenticated user checks inquiry ID on intro page
-    6. Confirm submission in Agent UI, Dashboard, and Check Your Status Tool. 
-- First Priority Test Case: Authenticated Health - I am the Vet - Myself
+         
+- User journey for checking responses (unauthenticated)
+    - Unauthenticated user checks inquiry ID on intro page in `Check the status of your question` search
+      
+- Our first priority test case is: An authenticated submits an inquiry in the `Health care` category. They answer `Myself` to **Who is your question about?** and `I'm the Veteran` to **What is your relationship to the Veteran**.
 
 See our current test code [in this GitHub folder](https://github.com/department-of-veterans-affairs/ask-va/tree/cypress-tests/cypress/cypress/e2e/1-getting-started/flows).
 
-**Confirmed Automated UI Test Coverage for Start of Testing:**
+#### Confirmed Automated UI Test Coverage for Start of Testing:
 This coverage was confirmed as acceptable by the QA resource from the Collaboration Cycle Team
 - An Unauthenticated User, who is the Veteran, is looking for Insurance.
 - An Authenticated User, who is the Veteran, is looking for Health Information.
