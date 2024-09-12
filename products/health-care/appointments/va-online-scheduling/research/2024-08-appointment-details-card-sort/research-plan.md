@@ -6,7 +6,7 @@ As we incorporate more appointment-related information (i.e., pre and post care 
 While the addition of the capability to file a mileage-only travel reimbursement claim acted as the catalyst for this research, this study aims to answer larger questions around the overall appointment detail page organization that will inform future interactions of the detail page in both the Appointments, Check-in, and, potentially, VAHB mobile applications.
 
 ### OCTO Priorities
-The online mileage-only travel reimbursement feature for smartphones aligns with the following OCTO-DE Priorities:
+The mileage-only travel reimbursement feature in Appointments on VA.gov aligns with the following OCTO-DE Priorities:
 - Objective 1: Our digital experiences are the best way to access VA health care and benefits.
 
 ### Veteran Journey
