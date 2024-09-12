@@ -1,7 +1,7 @@
 # 2024 VAMC page data
 
 Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
-
+- [Satisfaction scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#satisfaction-scores)
 - [VAMC editor and facility stats](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#vamc-editor-and-facility-stats)
 - [Summary data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#summary-data)
 - [User statistics](#user-statistics)
@@ -9,10 +9,18 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 - [Top health services at facility level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#top-health-services-at-facility-level)
 - [Unique pageviews on required health service pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-required-health-service-pages)
 - [Unique pageviews on other specified pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-other-specified-pages)
-- [Satisfaction scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#satisfaction-scores)
-  - [Experience ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#experience-ratings)
-  - [Overall CSAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#overall-csat)
-  
+
+ 
+## Satisfaction scores
+
+|	Metric| Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24	|	Jun-24	|	Jul-24	|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| #CSAT submissions	|	210	|	165	|	189	|	181	|	183	|	207	|	243	|
+| CSAT score	|	44%	|	45.90%	|	47.60%	|	47.20%	|	49.30%	|	48.70%	|	48.20%	|
+| #VFS survey submissions	|	319	|	276	|	349	|	333	|	315	|	372	|	314	|
+| % respondents able to complete their task	|	3%	|	4%	|	6%	|	6%	|	6%	|	6%	|	23%	|
+| % overall satisfaction	|	2.12%	|	2.28%	|	2.25%	|	2.31%	|	2.23%	|	2.11%	|	2.13%	|
+
 ## VAMC editor and facility stats
 | Metric | January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -25,17 +33,17 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 
 ## Summary data
 
-|	Summary stats|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|	Summary stats|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	Unique users	|	1,131,378	|	1,242,502	|	1,332,982	|	1,297,523	|	1,331,023	|	1,340,938	 | 	1,268,055	 | 
 |	Total interactions    	|	1,585,767	|	1,784,288	|	1,925,043	|	1,807,007	|	1,860,168	|	1,876,171	 | 	1,778,682	 | 
 |	Total unique pageviews	|	2,439,472	|	3,217,095	|	2,892,442	|	2,810,241	|	2,872,481	|	2,880,172	 | 	2,647,086	 | 
 
-|	Top 5 interactions	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24
+|	Top 5 interactions	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24 | 
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	 Contact us 	|	 35,885 	|	 46,253 	|	 42,387 	|	 39,082 	|	 42,085 	|	40,769	 | 	36,508
-|	 Location and contact information 	|	 31,515 	|	 39,671 	|	 36,985 	|	 35,033 	|	 37,147 	|	36,279	 | 	35,058
-|	 Health services offered here 	|	 29,902 	|	 37,713 	|	 35,469 	|	 33,092 	|	 34,785 	|	32,302	 | 	27,084
+|	 Location and contact information 	|	 31,515 	|	 39,671 	|	 36,985 	|	 35,033 	|	 37,147 	|	36,279	 | 	
+|	 Health services offered here 	|	 29,902 	|	 37,713 	|	 35,469 	|	 33,092 	|	 34,785 	|	32,302	 | 	
 |	 Find a VA Location 	|	 27,398 	|	 33,563 	|	 32,588 	|	 31,229 	|	 32,936 	|	33,554	 | 	30,458
 |	 See all locations 	|	 24,096 	|	 30,057 	|	 26,827 	|	 27,297 	|	 27,082 	|	19,963	 | 	n/a
 
@@ -45,8 +53,8 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	Desktop 	|	46.3%	|	48.4%	|	48.2%	|	47.4%	|	47.50%	|	46.90%	 | 	46.30%	 | 
 |	Mobile	|	52.3%	|	50.3%	|	50.5%	|	51.3%	|	51.10%	|	51.90%	 | 	52.50%	 | 
-|	New users 	|	65.0%	|	65.0%	|	65.0%	|	64.0%	|	64.0%	|	65%	 | 	64%	 | 
-|	Returning users  	|	35.0%	|	35.0%	|	35.0%	|	36.0%	|	36.0%	|	35%	 | 	36%	 | 
+|	New users 	|	65.0%	|	65.0%	|	65.0%	|	64.0%	|	64.0%	|	65%	 | 	64%	 | 62%
+|	Returning users  	|	35.0%	|	35.0%	|	35.0%	|	36.0%	|	36.0%	|	35%	 | 	36%	 | 38% 
 |	User interaction rate  	|	37%	|	38%	|	26%	|	25%	|	36%	|	36%	 | 	37%	 | 
 |	Average scroll depth     	|	52.20%	|	68.90%	|	67.30%	|	68.50%	|	58%	|	58%	 | 	60.30%	 | 
 |	Average clicks per user  	|	0.82	|	0.85	|	0.48	|	0.46	|	0.83	|	0.85	 | 	0.88	 | 
@@ -141,32 +149,6 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 |	Stories	|	 12,495 	|	 27,419 	|	 16,371 	|	 10,118 	|	9,643	|	10,872	|	8,070	|
 
 *VA Police | MMVP launched 12/20/2023 
-
-## Satisfaction scores
-
-### Experience ratings 
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/582560b9-f167-4ea3-84e2-f3933b7e2ba3)
-
-| Experience rating | # December 2023 | # January 2024	| # February 2024	| # March 2024 | # April 2024 | # May 2024 | # June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Total survey responses |171 | 161 | 159 |148 | 165 | 149
-| 1 star | 42 | 41 |31 |24 | 36 |22
-| 2 stars	|27 | 21|17 | 25| 24 |  27
-| 3 stars |15 | 26|23 |16 | 21 | 24
-| 4 stars |22 | 15| 22|22 | 15 | 14
-| 5 stars |65 | 58|65 |61 | 69 | 62
-
-### Overall CSAT
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/bba0d753-9874-44dc-9c1e-7e98576da05b)
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/75336e7a-9b66-4be0-b92a-d9d68b4e793b)
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/ef712937-df28-49a6-a798-0a80bcdc7e85)
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/f0830214-a1b4-4d81-84ba-de817ee1dce4)
-
-
 
 
 
