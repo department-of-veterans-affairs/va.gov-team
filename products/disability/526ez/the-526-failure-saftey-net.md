@@ -115,8 +115,7 @@ We only look at the most recent `Form526SubmissionRemediation` for `success: tru
 
 Remediation is manual and error prone, this record helps us maintain context without sacrificing our tight definition of success.
 
-TODO: write / link this doc
-[More on how to mark a 526 Submission as remediated here](TODO - link)
+More on how to mark a 526 Submission as remediated here (TODO - write and link)
 
 ### Definitions of in process
 
@@ -139,7 +138,7 @@ As far as delineating 'in process remediation', it's antithetical to the goal. I
 
 ### Maintain our definitions 
 
-It all comes back to our 'scope of responsibility'. There are many very real limitations to this system, such as the currently ongoing question of whether or not we can consider a submission successful [when one or more of it's user provided documents failed to upload](TODO - link). Our definition of success  assumes that a `Form526Submission` is delivered whole to a single success state, but if pieces of it can fall away in transition, then we need to account for that.
+It all comes back to our 'scope of responsibility'. There are many very real limitations to this system, such as the currently ongoing question of whether or not we can consider a submission successful [when one or more of it's user provided documents failed to upload](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7?filterQuery=-label%3A%22DBEX-TREX%22+-status%3ADone+epic-name%3A%27Veteran+Evidence+Doc+Silent+Failures+-+Discovery%27&pane=issue&itemId=71160732). Our definition of success  assumes that a `Form526Submission` is delivered whole to a single success state, but if pieces of it can fall away in transition, then we need to account for that.
 
 #### KNOWN LIMITATION: Vet doc upload success
 
