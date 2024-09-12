@@ -68,7 +68,7 @@ High priority
         - [H1 of GI Bill Feedback tool ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80512)
         - [URL for post-9/11 GI Bill statement of benefits tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80295)
         - [URL for pre-need burial form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80510)
-- [ ] Have initial conversation with Public Websites and potentially CMS team on feasibility of creating an data pull of all the data/content we want to review or just those that have issues, submit ticket if possible for them to prioritize
+- ~[ ] Have initial conversation with Public Websites and potentially CMS team on feasibility of creating an data pull of all the data/content we want to review or just those that have issues, submit ticket if possible for them to prioritize~ Not pulling in engineering resources for this effort.
 
 Medium priority
 - [x] Refine CAIA processes to address navigation component and hub page updates when pages are launched, H1s are changed, or pages are archived - i.e. if a H1 is modified, an IA is looped in to evaluate navigation and entry points
