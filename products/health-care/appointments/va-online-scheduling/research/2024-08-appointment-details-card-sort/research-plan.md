@@ -1,7 +1,9 @@
 # Appointment Details Page Unmoderated Card Sort - Research Plan
 
 ## Background
-As we incorporate more items onto the appointment detail page, we continue to encounter questions around how the page is structured, what information on it is most important for Veterans, and how to incorporate multiple tasks for one appointment as they become available. While the addition of the capability to file a mileage-only travel reimbursement claim acted as the catalyst for this research, this study aims to answer larger questions around the overall page organization that will inform future interactions of the detail page in both the Appointments and Check-in applications.
+As we incorporate more appointment-related information (i.e., pre and post care encounter) onto the appointment detail page, we continue to encounter questions around how the page is structured, what information on it is most important for Veterans, and how to incorporate multiple tasks that Veterans must (or can) complete for an appointment as those tasks become available. 
+
+While the addition of the capability to file a mileage-only travel reimbursement claim acted as the catalyst for this research, this study aims to answer larger questions around the overall appointment detail page organization that will inform future interactions of the detail page in both the Appointments, Check-in, and, potentially, VAHB mobile applications.
 
 ### OCTO Priorities
 The online mileage-only travel reimbursement feature for smartphones aligns with the following OCTO-DE Priorities:
