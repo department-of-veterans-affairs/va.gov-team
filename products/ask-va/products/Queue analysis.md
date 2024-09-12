@@ -15,8 +15,8 @@ We looked at a sample of data with the following filters:
 -	Days: Excludes weekends, but includes holidays
 -	Status: `Solved` or `Closed`
 -	For analyzing rerouting: 
-   - Reroute actions: `Re-Route` and `Re-Route & Assign`
-   - Reroute reason: `Multiple Issues`, `Wrong Queue`, or `Issue Mismatch`
+    - Reroute actions: `Re-Route` and `Re-Route & Assign`
+    - Reroute reason: `Multiple Issues`, `Wrong Queue`, or `Issue Mismatch`
 - Note: Inquiries sometimes have multiple Solve actions. For this analysis, we associated the final queue with the latest Solve action with the inquiry.
 
 ### Conclusion #1
