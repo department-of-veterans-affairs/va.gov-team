@@ -29,6 +29,36 @@
 
 ## 2024
 
+### Search page interactions
+#### Frequently used forms (blue boxes)	
+| Link	|	Aug-24 | 
+| --- | :---:|
+| File a VA disability claim - Apply online (link to VA Form 21-526EZ)	|	8039
+| Apply for the GI Bill and other education benefits (VA Forms 22-1990 and 22-1995) - Learn how to apply online		|	4528
+| Apply for VA health care  - Apply online (link to VA Form 10-10 EZ)		|	2,718
+	
+#### Manage your VA benefits and other information online	list
+| Link	|	event | Aug-24 | 
+| --- | ---|  :---:|
+| Change your direct deposit information	|	nav-linkslist	|	1704
+| Change your direct deposit information		|	nav-link-click	|	1492
+| Change your address in your VA.gov profile	|	nav-linkslist	|	813
+| Change your address in your VA.gov profile |	nav-link-click	|	660
+| Request your military records, including DD214	|	nav-linkslist	|	4416
+|Request your military records, including DD214	|	nav-link-click	|	4083
+| Get your VA records and documents online	|	nav-linkslist	|	6009
+| Get your VA records and documents online	|	nav-link-click	|	5704
+
+### More information box
+| Link	|	event | Aug-24 | 
+| --- | ---|  :---:|
+| SGLI, VGLI, and other VA life insurance programs	|	nav-linkslist	|	944
+| SGLI, VGLI, and other VA life insurance programs	|	nav-link-click	|	829
+| Department of Defense (DOD) forms	|	nav-linkslist	|	1520
+| Department of Defense (DOD) forms	|	nav-link-click	|	1364
+| Contact the VA forms managers	|	nav-linkslist	|	2386
+| Contact the VA forms managers	|	nav-link-click	|	2166
+
 ### Search metrics
 
 |	Metric	|	1Q 2024 | 
