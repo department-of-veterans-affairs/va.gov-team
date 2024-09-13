@@ -11,7 +11,9 @@
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to ...................**
-    - TBD
+    - 🟥 [Create KPIs and ensure business alignment ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)
+    - 🟦🟩 [Create code to handle not double booking an appt at the same time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89730)  
+
 - **Upcoming VAOS Appointments**   
     - **Sprint Goal is to perform functional and accessibility testing and get ready for Staging Review**
     - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
@@ -46,14 +48,12 @@
     - 🟩 [[FE] Integrate View Provider Services Available Slots API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91933)
     - 🟩 [[FE] Integrate Book an Appointment into a Slot API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91934)
     - 🟥 [[Design] Update Community Care VSS after consult approval workflow (Mural) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88886)
-    - 🟥 [Create KPIs and ensure business alignment ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)
     - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
     - 🟥 [[Design] Add content to confirmation page about how to cancel appt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92733)
     - 🟥 [Add urls to MVP scope page in Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92776)
     - 🟦 [[BE] Test Search a Patient's Appointments API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91923) 
     - 🟦 [[BE] Test View Provider Services Available Slots API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91921)
     - 🟦 [[BE] Test Book an Appointment into a Slot API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91922)
-    - 🟦🟩 [[Eng] Create code to handle not double booking an appt at the same time ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89730)  
     - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
 - **Upcoming VAOS Appointments**   
     - **Sprint Goal is to finish the remaining work for the upcoming appts details pages**
