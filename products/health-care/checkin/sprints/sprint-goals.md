@@ -103,11 +103,12 @@
     - ⛔ WAITING ON SCOPE DECISIONS:
         - Still waiting as of 9/10 SOS
       - ✔️ **First appointment with provider selected** ~or all appointments scheduled within referral expiration?~
-      - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
+      - 🚧 What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
       - ✔️ Still using VA Notify for notification?
         - ✔️ ❗ 🟥 Fill out work request for VA Notify
           - https://github.com/department-of-veterans-affairs/va.gov-team/issues/92356 
-        -  🟥 Send messages to Melanie for review and Privacy Officer
+        - 🚧 🟥 Send messages to Melanie for review and Privacy Officer
+          - Waiting for VA Notify kick off to happen first  
       - ✔️ ❗ Create new design tickets when scope decisions have been made
     - ✔️ 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)        
