@@ -146,9 +146,8 @@
     - 🟥 [Submit Research Materials to Research Ops ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91618)
 - **Check in with staff after checking in**
     - ✔️ 🟥 Scheduke kickoff meeting with Sam (SPL)
-    - 🟥 Flesh out initiative brief after meeting with Sam
-         - Ask Kristen to confirm the draft  
-    - 🟥 [[Design] Create Userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91305)
+    - 🟥 [Flesh out initiative brief after meeting with Sam](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92882)
+    - ✔️ 🟥 [[Design] Create Userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91305)
 - **CIE Analytics**
     - ✔️ 🟥 [Analyze pre-check-in landing page drop off rate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91433)
     - 🟪 [Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
