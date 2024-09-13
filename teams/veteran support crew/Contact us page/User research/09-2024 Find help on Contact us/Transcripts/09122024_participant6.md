@@ -161,6 +161,7 @@ Becky: No worries.
 
 > P6: OK.
 
+### Claims scenario
 Becky: All right. So we're ready to to go ahead with the first scenario. So again, you're, you're a veteran in this scenario and you currently get disability compensation for shoulder pain.
 
 Becky: And you notice that your shoulder has been hurting more in the past couple of months. And you want to know if you can request more compensation for your shoulder pain because it's worse now.
@@ -239,64 +240,288 @@ Becky: And so I'm wondering why, why would you call rather than any other option
 
 > P6: But if I, I, I am still, I'm learning how to get better at just trying to maneuver the online stuff 'cause that's where everybody's going.
 
-> P6:
+Becky: Yeah, that, that totally makes sense. Like there's maybe there's you're more comfortable with phone call right now and it's just seems easier to be able to express yourself rather than, you know, type something out and then be missing.
 
-> P6:
+> P6: Yeah, yeah. You lose your train of thought too. It's like, you have to write a whole paragraph and it's like, no, it's just can I just call you?
 
-> P6:
+Becky: Yeah. Oh, that makes sense. I guess for for the sake of the scenario, you know, you call the VA health benefits online.
 
-> P6:
+Becky: It doesn't work out. What's your next step here?
 
-> P6:
+> P6: Well, I saw at the top, I believe it was it says contact online. We have, there's an online question and answer, but I don't know if that's just question and answer that you're, you know, already formatted or let's see if there's anything else.
 
-> P6:
+Becky: And just pausing there. What what do you think contact us online means? Like I know you mentioned question and answer. Is that what you think contact us online would mean?
 
- P6:
+> P6: Yeah, I think, yeah. Because, oh, it doesn't say question and answer. I just put that in myself.
 
-> P6:
+> P6: No, wait a minute. I may, I may get something. I may get a where like a spot where I can ask questions because it says contact online through contact us online through  Ask VA.
 
-> P6:
+> P6: So that's not AQ and a type thing. I it might be a, a regular, you know, regular check type thing.
 
-> P6:
+> P6: Huh. I think I read it wrong.
 
-> P6:
+Becky: Yeah, yeah, no worries. And the reason why I ask is because we know that this tool in particular can be a bit confusing.
 
-> P6:
+Becky: So it was just helpful for to hear your initial reaction too, since, you know, that's what other folks might see if you're you're quickly skimming.
 
-> P6:
+> P6: So yeah, that's what I thought it was a already pre answered, you know, Q&A type things. Yeah, yeah.
 
-> P6:
+Becky: So what do you think it means now after maybe pausing a bit to review it?
 
-> P6:
+> P6: Well, now it looks like I may be able to get kind of a chat going. That's what I would think so. Because if it's online, it has to be some kind of chat, am I correct?
 
-> P6:
+Becky: Yeah. What do you think? What does a what does a chat mean to you?
 
-> P6:
+> P6: It's where. Well, we go back and forth like, you know. Hello. My name is [name]. And how can I help you today? No, [name], I need help with ordering, you know, supplies.
+ 
+> P6: Oh, OK. Thank you. This is what you need. You know, back and forth. It's like a like a text like type thing.
 
-> P6:
+Becky: Got it. Great. Thanks for explaining that.
 
-> P6:
+Becky: All right, I, I think I'll move this along to our next scenario now, which is our our last one. So go ahead and just scroll all the way to the top or you can refresh your page so that we we're acting as if we're landing on the page again for the first time.
 
-> P6:
+> P6: OK, yeah.
 
-> P6:
-
-> P6:
 ### Login scenario
-[ I would do a couple things, I would start with the chat or Contact as online to see if that questions has been asked. Or maybe in Call Us. I might do a few different things that puts me in the right direction. 
-I would go to Chatbot, it opens, but it also opens up a  411 number and I would go to the 1800 number. I would go to the number since that is the next thing I see pop up. 
-*Why that number? - Because I need to know about benefits.
-*What would you do next if that was no help?- I will go back on here and look over the numbers. I will call the Hotline. When I call someone, I can express myself better. 
-I’m still working on getting better at this online stuff since that seems what everyone is doing. You have to write a paragraph (on chatbot), I would rather call you.]
-*What do you think Contact Us Online means? -I think I may get something. It might be a regular chat thing. I think I read it wrong. 
-Now, it looks like I may be able to get a chat going. Chat means to me where I think we go back and forth. Like a text-type thing. 
-### Claims scenario
-[I’m reading the headings to see the description. Sometimes this blue area is helpful. I’m looking for anything that clicks me to where I can create a log in. I’m not seeing anything. 
-They have “explore resources and support” and here I might start playing around to see if I can find out what I need and click things. 
-If I put in here help with creating log on, let me see what does. Link for creating an account for VA.gov. There you go. It’s helping me create a log on. 
-*Would you stay on this page? I would try on here. I think I might have to call the VA 411. If I stay on here it’s going to ask me for an ID that I don’t have. If I go to ID.me, I’m trying to ID myself without creating but I would go on here to create it.  ]
+Becky: And in this scenario, this time you're still a veteran and you're, you can't create an account on VA.gov and you're trying to create a login.gov account, but you're finding that login.gov doesn't let you use your passport as a form of identification.
+
+Becky: But you also don't have your driver's license because you've lost it recently. So all you have is your passport again, starting on this page. Show and tell me how you would find help for this scenario.
+
+Becky: Yeah, And I see you're scrolling. Are you reading through just the headings there or?
+
+> P6: Yeah, I'm, I'm reading the headings in a little description.
+
+> P6: The ones that do have a description. OK, that one sounds like it might be able to help you help. This benefits, My HealtheVet.
+
+Becky: OK, so you're looking through the numbers now.
+
+> P6: Mm Hmm. I'm trying to choose, change, change your as you change your VA claims schedule. Is that all there is?
+
+> P6: There's something more. There's more at the bottom. Resources...
+
+Becky: Yeah, on the footer now.
+
+> P6: Yeah, just to see if there's any. Sometimes these little things are helpful. OK, My help from the credit representative with VA apps Tune career outreach.
+
+> P6: You're welcome. K, news release.
+
+Becky: Are you just reading by, by each of the columns there?
+
+> P6: Yeah, I'm reading the. I'm reading the columns to see if there's anything that'll get me.
+
+Becky: What are you looking for?
+
+> P6: I'm gonna guess, anything that clicks that you're just telling me that it's gonna be able to help me with my create a login and and I'm not finding anything specific for a login, but I am finding resource and support contact us.
+
+> P6: So I'm not sure about that.
+
+Becky: Oh, what are you not sure about?
+
+> P6: I'm not sure if that's going to get me where I want.
+
+Becky: Ah, OK.
+
+> P6: So I might start there. But then there was something else that I saw earlier.
+
+Becky: So you're scrolling back up to Explore FAQ section.
+
+> P6: Yeah, this is what I do. I'll go up and down. I'm like, maybe I missed something. OK, see they have an explore our resources and support and support content.
+
+> P6: So I'm not and here I would just start playing around till I hit something that bases I might have to go back and forth and if I don't find what I need then I'll find a phone number that's gonna help me.
+
+Becky: OK and you can go ahead and go ahead and explore too if you want to click on anything. This is a totally live page, so I should be connected to everything.
+
+> P6: OK, Yeah. OK, let's let's go into supported resources. See what this does.
+
+> P6: You can't find blah blah blah. It's just the best of instructions for using Oh, this white Oh, let me see you can't find.
+
+> P6: This is not Q&A about better risk blah blah blah step by step instructions for using VA government tools.
+
+> P6: That should help, right? Huh. It says search research and support articles or all of VA.gov.
+
+Becky: What what do you think that means there?
+
+> P6: Well, if there's a lot like if you need some kind of homelessness group or some kind of support where they can get you or it says or allva.gov.
+
+> P6: So that should be able to answer logins or benefits or anything like that or medical or that's what I'm thinking.
+
+> P6: So if I put in here help with log on, help with creating a log? No. How would I word it? 
+
+Becky: Yeah, yeah. I'll give you the scenario again. You're a veteran. You can't create an account on va.gov and you're trying to create a login.gov account and you only have your passport creating log on.
+
+
+> P6: Let me see what this gets me. It could be nice if I could spell it. Log on. [Types in `Help with creating log on`]
+
+> P6: Let me see what that does. Yeah. Oh, Where did that put me? Oh. Created an account for va.gov. There we go. It's getting started in 2021. You will need. OK. I know I need. I know that's what I need, but that's OK.
+
+> P6: Let me see if I hit it. How do I reset? No. No, I don't want to reset. I don't want to find. No. It might have to be the top one.
+
+Becky: So you're just scrolling down the the list of articles here.
+
+> P6: Yeah, see here goes creating an account for VA log log. Let me see what that gives me huh creating an account.
+
+> P6: So I didn't remember it's going into to help me create a log on. OK, let me see step by step choose your account blah blah blah blah blah blah and create a log on if you want to learn more about between choosing your account.
+
+> P6: Yeah, but I don't have all the information. That's where it's not giving me that. How does it mean?
+
+> P6: Wait, what does it mean to verify my identity and why do I have to do it?
+
+> P6: I don't think it'll log on. Hmm. Trust me, if If I don't have a mobile phone, how does multi factor authentication, for from ID verification preparing.
+
+> P6: I don't see anything where it's telling me that I don't have to. If I don't have the right credentials that I need, I'll create a lot. 
+
+Becky: Yeah. What would you would? Would you stay on this page? Would you try to find something else? Would you do? What would you do next?
+
+> P6: After reviewing everything, I would try to stay on here. What type of account should I create? I would try to stay on here, see if I even try to. But I already did that, so I already know... Apply for a printed card...
+
+> P6: I think I'm going to have to call somebody. I'm going to think I'm going to have to call that four VA 411. Yeah, I think because I think anywhere that I go in here, it's going to make me give them what I did that I don't have would be a lot.
+
+> P6: 2 accounts. How can I get more support? Can I get log on? I don't have a mobile phone whatever. Not sure if I have a log on. How do I create an account?
+
+> P6: Let me see what this is. You can create an account, an e-mail. OK an e-mail and a unique password that will not use up account. You need to multi factor authentication. Learn more about learn more about the factors blah blah blah.
+
+> P6: OK the first time you use the account you benefits information you need to verify ID and here you go phone number Travis OK OK, what happens if I don't OK, what if I am not sure if I ready OK that this should be verifying my account.
+
+> P6:  There are more about how about here for VA on if I go to ID let me see where is a parent ID dot me.
+
+Becky: Yeah and just as a a reminder in this scenario you're trying to you are trying to create a login.gov account.
+
+Becky: But yeah, what are you Why did you I'm curious why'd you click on this one in particular
+
+> P6: Cecause it's actually been a good do an ID and maybe I can somehow I remember I did mine.
+
+> P6: That's where I log into everything. I don't know it's so long ago. I don't remember what I did.
+
+> P6: I'm trying to find, to create it, trying to ID myself without using what I, you know what I mean, 'cause I was create an Id, I think I would try to go in there and try to create it and have them, 'cause I know they verified.
+
+> P6: I believe when I did mine, they verified like the the day that I went in or the day that I left or something like that.
+
+> P6: Don't remember quite. So maybe I would try it that way and have them maybe say, hey, no, this is what we need. And if that don't work, I'm gonna call somebody. But I would still try to link into one of these.
+
+Becky: OK. Are you saying you'd, what do you mean by look into one of these?
+
+> P6: I would click on one and try to start create an ID that way without just logging in with the ID dot me.
+
+> P6: It should be I, I, I believe when I did it, they asked me for the date thing was my social and the date I went in.
+
+> P6: I might be wrong, but it's, it's so long ago, I honestly don't remember, but I, I, I even if I have to be here 2 hours, I would figure out how to find my how to find those. I don't know.
+
+> P6: See this driver's license. See, it's telling you to upload. You know, it says upload a driver's license or state ID passport or huh.
+
+> P6: See, you could do you, said I had a passport, right?
+
+Becky: Yeah, you only have a passport, but you can't create a login.gov account.
+
+Becky: So what what are you reading here?
+
+> P6: It says to verify who I am. It says it's it's I can upload a license ID, passport or, or passport card.
+
+> P6: So if I click on that, it should let me do it with that. That's what it sounds like it would let me do it because it does it, it does tell me that I can use that.
+
+> P6: So I think I would go in there.
+
+Becky: Great. Yeah. That sounds right. So you're, you know, you're reading through some of the screenshots and you're seeing that you can use it. I forget what it says, driver's license ID, passport.
+
+Becky: So you're thinking, OK, this sounds right.
+
+> P6: I got a passport. Yeah, that sounds kind of right. I would go, I would go through there.
+
+Becky: Right. It looks like you're able to find your answer there.
+
+> P6: I, I, I that's one thing I do, as long as I'm not hurting anything, I'll click on and on and on and go back.
+
+> P6: And like I said, if, if I'm feel so frustrated that I can't find even though I'm looking, I'm looking, I'm looking, then I'll find a phone number and I'm like, OK, somebody lead me in the right direction.
+
+Becky: Yeah. I'm curious, Do you usually read so thoroughly through each article and just sort of Scroll down the whole page? Is that what you usually do?
+
+> P6: Yeah, I try to look sometimes, usually depending on how you search for something. Like if you go to the top, I believe there was a search button on the on the home screen.
+
+> P6: I believe there was a search button there already. So if you would put something like create log on without with just passport, it might just zoom you straight into there.
+
+> P6: So sometimes I do that, sometimes I ended up and and The thing is when you're when you're trying to do something like that, and I found that that if you word it a certain way, it gets you there a lot quicker.
+
+> P6: So, so that I know that not here. It's on the back on the home screen. I don't remember where the whole screen is at, but that's where it's at.
+
+Becky: Yeah, great. No, it's helpful to hear. You know, you also, it sounds like you also utilize the search, the search tool.
+
+> P6: Yeah, the top.
+
+Becky: Great. Well, that brings us to the end of the second scenario. So you can go ahead and if you can't stop sharing your screen, if you see that option anywhere, maybe here we go.
+
+> P6: I think I did it. You see.
+
+Becky: That's right at the top. If you press the screen once.
+
+> P6: There it goes.
+
+Becky: Perfect.
+
+> P6: Oh, there I go. OK.
+
+Becky: All right, Well, thanks for reviewing the scenarios with me.
+
+> P6: And sorry, what was that? Something happened. It says screen broadcasting. Oh, this is just enough. OK, You hit. OK here.
+
+Becky: What is the what's it asking you? 
+
+> P6: It says screen broadcasting. Live broadcast assume has stopped due to attempt to start an invalid broadcast session.
+
+Becky: OK, click OK and see if does anything happen after that?
+
+> P6: Nope. We go back to you. That's it.
+
+Becky: OK, great. No worries. Thanks for thanks for checking in with me.
+
+> P6: Yeah.
 
 ## Review each scenario
+Becky: All right, so, so we went through the contact us page. I know in, in some ways it's helpful, in some ways it's not. So while you wait for us to make those updates and improvements to the page, do you think it'd be helpful if I showed you how some of these contact options work right now?
+
+> P6: OK, see. And you know, you know, you know what the hard part of the of, of fixing the contact, the contact us page.
+
+> P6: I mean, this is my, because it also depends on the user.
+
+Becky: Exactly.
+
+> P6: Because I mean, I'm pretty resourceful and I'm like, I'll go back and forth and I'm like, blah, blah. You know, I'll go play with it and read a little bit, go here and here.
+
+> P6: But sometimes you'll get somebody that if they don't find what they want right there and they're like, oh, this, this doesn't work.
+
+> P6: This is no good. You know what I mean?
+
+> P6: You want something and it depends like like here in [location], you know, and, and a lot of the population that, you know, veterans are a little on the older side, you know what I mean?
+
+> P6: So that's, that's hard. But to make it that broad when anybody can actually do it, you would have to ask each person, well, how do you need it? Then we'll personalize it for you. You know what I mean?
+
+Becky: Yeah. Huh. That's, sorry. Before I share my screen, I guess you bring up a good point. Like you talked, you just mentioned personalization and how, you know, there's such a I've heard this phrase like a diverse range of folks and in the veteran population.
+
+Becky: So how do you, what do you think about when you think of personalization? What do you mean by that?
+
+> P6: That you would know exactly how I think. So when I open up the screen, it would say, hey, [name], you're looking for this.
+
+> P6: OK, you know what I mean, where where you would say, OK, this is this is a a veteran that's they just got out the service.
+
+> P6: They're mid 40s. So that means they've dealt with technology. So they know how to in out re go, you know, open up the screen like me.
+
+> P6: I'm having a hard time just going back and forth with this with you. So this is something that they know where or maybe they have online classes and I, I see my daughter do it.
+
+> P6: She does like 3 different screens and I'm like already doing Jay and it goes from one page to the other and one computer to the other.
+
+> P6:
+
+> P6:
+
+> P6: 
+
+> P6:
+
+> P6:
+
+> P6:
+
+> P6: 
+
+
 [It all depends on the user and I’m pretty resourceful and play with it and sometimes you’ll find someone that can’t find what they are looking for and give up right away. It needs to be personalized. 
 *What would like to see when you think personalize? -That you know exactly what I think. You would have to have a few different formats for someone savvy (vs not so savvy). 
 *What would be the ideal Contact Us page for you? -The search bar because I have been trying to learn how to word it so it can go faster.]
