@@ -12,7 +12,7 @@ By making failure the default state for a `Form526Submission` record we ensure t
 
 ### Track success, not failure
 
-This idea is at the heart of what we did with 526.  Hooks, logs, and data points that represent instances of a failure are great for getting a general picture of application health, but failure is inherently unpredictable, and therefor attempts to define and capture it can never be truly comprehensive.  Logs can fail to run, data base transactions can fail, etc.
+This idea is at the heart of what we did with 526.  Hooks, logs, and data points that represent instances of a failure are great for getting a general picture of application health, but failure is inherently unpredictable, and therefor attempts to define and capture it can never be truly comprehensive.  Logs can fail to run, database transactions can fail, etc.
 
 Instead, by defining what is a success we can consider everything else potentially failed, thereby ensuring that if it exists, it won't be missed. When failure is the default, silent failure is impossible.
 
@@ -26,7 +26,7 @@ Our goal is to find every failure, no mater how surprising. Within our "everythi
 
 Ultimately we want full end to end coverage for a submission. This could be accomplished with wholistic state, or a series of tightly coupled 'scopes of responsibility'.
 
-We do not currently have wholistic state, so it's critical to define the scope of our responsibility relative to failure tracking. For my team, this was form 526 submission from the time it enters vets-api until the time it reaches a success state within to vets-api. For the purpose of our '100% coverage' I'm assuming nothing about what happens before or after a submission exists within the scope of responsibility. This is practical and necessary to do both in theory and in practice.
+We do not currently have wholistic state, so it's critical to define the scope of our responsibility relative to failure tracking. For my team, this was form 526 submission from the moment it enters vets-api until the moment it reaches a success state within vets-api. For the purpose of our '100% coverage' I'm assuming nothing about what happens before or after a submission exists within the scope of responsibility. This is practical and necessary to do both in theory and in practice.
 
 ### Have an airtight definition of success
 
@@ -40,13 +40,11 @@ The important thing is to know exactly when a submission has reached it's succes
 
 We could call this 'in process' or 'in progress', but essentially it's anything that cannot *yet* be clearly defined as success or failure. The key here is to ensure that **this is a temporary state**. If submissions languish here indefinitely then at some point they should simply be considered failure, otherwise we have no clear way to report them.  For 526, we did this with a 3 week timebox from the time of creation. After that, it's a failure.
 
-### BONUS: Use State, not Events
-
-This is not critical to the methodology, but is a note on trying to divine failure from events (e.g. logs) vs state (e.g. database). 
+### Use State, not Events
 
 We define success based on 'state', not 'event'. We do this because it is simple and robust. E.g. If a submission is sent to the happy path and the request returns successfully with a "submitted claim id", that looks a lot like a success but **it's not successful until that submitted_claim_id is recorded in the database.**  
 
-We do not care about what has happened to a submission, we only care where it is now. This creates the occasional duplicate submission, but ultimately is necessary for achieving 100% coverage.
+We do not care about what has happened to a submission, we only care where it is now.
 
 While we could theoretically log every state change as an event, that quickly becomes prohibitively complex to implement and leverage in any practical sort of reporting.
 
@@ -57,7 +55,7 @@ While we could theoretically log every state change as an event, that quickly be
 This was defined for us and constrained by our available resources. That definition is...
 
 - From the moment a 526 form data set is submitted via the va.gov website
-- Until that data set is confirmed to be successfully received by the next link in the chain.
+- Until that data set is confirmed to be successfully received by the next link in the chain. Currently this is EVSS or Lightouse Benefits Intake.
 
 ### Definitions of success
 
@@ -109,7 +107,7 @@ We treat paranoid success as success instead of possible failure in order to giv
 
 ##### why have multiple remediations with a success state?
 
-Remediation of form 526 submissions was a very long and complex process. Many submissions were at one time considered 'remediated', but later needed to be remediated again. This is due to the fact that remediation was a highly manual process involving coordination of humans for manual processing way downstream. Technical limitations and inevitable communication problems contributed as well, and we needed a way to not loose the context of why things had been remediated multiple times.
+Remediation of form 526 submissions was a very long and complex process. Many submissions were at one time considered 'remediated', but later needed to be remediated again. This is due to the fact that remediation was a highly manual process involving coordination of humans for manual processing way downstream. Technical limitations and inevitable communication problems contributed as well, and we needed a way to not lose the context of why things had been remediated multiple times.
 
 We only look at the most recent `Form526SubmissionRemediation` for `success: true` because we assume if someone initiated a new remediation, there was a good reason. The 'success' value provides a way for a developer to mark something as "no longer considered remediated" without needing to delete that remediation record and the context it provides.
 
@@ -142,7 +140,7 @@ It all comes back to our 'scope of responsibility'. There are many very real lim
 
 #### KNOWN LIMITATION: Vet doc upload success
 
-Since the inception of the safety net, our definition of success has already changed in one way.  Success must also include the successful delivery of veteran provided documents to their own success state. This is not currently reflected in this system.
+Since the inception of the safety net, our definition of success has already changed in one way.  Success must also include the successful delivery of Veteran provided documents to their own success state. This is not currently reflected in this system.
 
 One way we could address this limitations is by updating our [Form526Submisison 'scopes'](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/scopes/form526_submission_state.rb).  These were designed to be modular, easy to grok, and easy to update.
 
@@ -231,10 +229,10 @@ Form526Submission.remediated.map do |sub|
 end.uniq
 ```
 
-Currently OCTO leadership receivis a weekly email with numbers like 'how many submissions did we process', 'how many failed the primary path', and so on. This was our old way of trying to keep track of what was in a failure state, but these metrics still have use. We could easily stand up a Datadog dashboard widget or alert that uses our new [state logging](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/form526_state_logging_job.rb) data, if we wanted to make this weekly report automatic. 
+Currently OCTO leadership receives a weekly email with numbers like 'how many submissions did we process', 'how many failed the primary path', and so on. This was our old way of trying to keep track of what was in a failure state, but these metrics still have use. We could easily stand up a Datadog dashboard widget or alert that uses our new [state logging](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/form526_state_logging_job.rb) data, if we wanted to make this weekly report automatic. 
 
 ## Summary
 
 We spent over a year developing [various types of audits to capture submission failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) during our Code Yellow remediations.  Now, as long as we maintain our [safety net's axioms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/the-526-failure-saftey-net.md#how-to-get-to-100-coverage-in-theory), this labor is no longer necessary.  `Form526Submission.failure_type` gives us a complete picture.
 
-By using an exclusive methodology, we make it possible to ensure that submissions are not able to slip through the cracks, doing our part to ensure no veteran will ever have to wait benefits they need any longer than they have to.
+By using an exclusive methodology, we make it possible to ensure that submissions are not able to slip through the cracks, doing our part to ensure no veteran will ever wait for benefits any longer than they have to.
