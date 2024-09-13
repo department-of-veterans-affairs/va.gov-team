@@ -109,7 +109,7 @@ VADS doesn't currently connect guidance for prefill alerts to the the ["Know how
 
 ## Third-party representatives and alternate signers
 
-High-level questions:
+**General questions**
 - What are all the ways that people are currently filling out forms on behalf of someone else?
     - Signing in as the person and pretending to be the person
     - Signing in as yourself and telling the form that you're doing it on behalf of someone else
@@ -122,6 +122,10 @@ High-level questions:
     - Should they identify alternate signer up front and use it to split user flow, or only at the end of form?
         - Does need for tailored alternate signer experience depend on chance that person with the claim is dead or unable to sign the form?
         - For forms where this is not as likely, should we default to simple single user story with alternate signer questions at the end?
+     
+**Power of attorney and accredited reps**
+- We recently learned that accredited reps have limited power of attorney for VA purposes
+- Do "power of attorney" and "accredited rep" always have the same meaning in VA forms and pages? Which term should we use when talking about who is signing on behalf of a Veteran?
 
 ## Forms that update to new version when users already have saved in progress forms
 
