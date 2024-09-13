@@ -155,6 +155,8 @@
     - ✔️ 🟦 [[BE][Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92004)
     - 🟩 [[FE] - Fix bug with autofill on lastname field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92133)
         - Added as a bug after sprint planning
+    - 🟦 [[BE] [Tech Debt] remove BTSSS v1 configs from AWS param store ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92804)
+        - Added halfway through sprint
 
 ## SPRINT 14 - 8/21/2024-9/3/2024
 - **Production Support**
