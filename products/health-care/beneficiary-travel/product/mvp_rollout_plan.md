@@ -106,7 +106,6 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 **Engineering Metrics (Datadog)**
 ***[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)*** 
 
-
 | Metric Name | Description |
 | ----------- | ----------- |
 | VA.gov - Endpoint error count | Number of non-200,201 status codes to va.gov endpoints |
@@ -114,6 +113,8 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 | VA.gov - Sustained high latency | p90 latency measures above x for time |
 
 **User-Facing Metrics (Google Analytics and Call Center)**
+***[Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-claim-status%26_r.explorerCard..startRow%3D0&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582&r=all-pages-and-screens)
+
 | Metric Name | Description |
 | ----------- | ----------- |
 | Unique page views | # of individuals (% of users) who are visiting this page at least once |
