@@ -62,6 +62,7 @@
 - **Check in with staff after checking in**
     - **Sprint Goal is to finish the research plan and start to make plans for the pilot**
     - 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
+    - 🟥 [[Design] Create low-fi wireframe options](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92856)
     - Create collab cycle ticket
     - Schedule PO Sync touchpoint
 - **Stand-alone Travel Application for OH Sites**
