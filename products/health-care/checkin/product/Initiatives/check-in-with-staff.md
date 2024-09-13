@@ -1,26 +1,16 @@
 # Initiative Brief Template
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
+For decades, when a patient was checked in, clinical staff rightfully assumed that a patient has arrived, checked in with MSAs, and is now sitting in the clinic waiting room ready to be called back for their appointment.  
 
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
+With the introduction of eCheck-in in early 2022, Veterans could check in remotely from their smartphones, initially, 15 minutes before their appointment, which has since increased to 45 minutes since Veterans are often told by clinical staff and MSAs to arrive quite early before their appointment. eCheck-in shows the patient as checked in inside VistA and VSE-CS, but they do not have to be physically in the clinic waiting room. 
+
+This new change has caused clinical staff to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated if eCheck-in wasn't completed, etc. There have even been discussions about removing eCheck-in altogether to resolve these issues.
+
+Is there value in patients using eCheck-in to complete pre-registration (and have the option to file a travel reimbursement claim) and have their check in status updated in VistA (knowing that MSAs find eCheck-in helpful to speed up lines in the clinic waiting rooms), but require Veterans to "check in" with an MSA to resolve these known concerns? Would this resolve each of those concerns or add burdens we haven't considered for the Veteran, clinical staff, or MSAs? 
+
+Further complicating these issues, clinics aren't required to use PCI and VSE-CS (PCICSV). And, not all clinical staff and MSAs are trained on how PCI and VSE-CS work. 
+
 ---
 
 ## Outcome Summary
