@@ -83,7 +83,6 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
 
@@ -109,28 +108,27 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
 
-<details>
-
-- Team Name: 
+- Team Name: Patient Check In
 - GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
-
-</details>
-
+- Slack channel: #check-in-experience
+- Product POCs: Kristen McConnell (Research and Design, OCTO), Lori Pusey (Contractor, PO), Ben Brasso (Contractor, Researcher)
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
   
-- Office/Department:
-- Contact(s): 
- 
-</details>
+- Office/Department: OCTO 
+- Contact(s): Kristen McConnell, Stephen Barrs, Katherine Lawyer
 
+- Office/Department: OIT
+- Contact(s): Sam Passarelli
+
+- Office/Department: IVC
+- Contact(s): Robert Tow, Jeffrey Lowe
+
+- Office/Department: VeText
+- Contact(s): Shane Elliott  
+
+ 
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
 <sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
