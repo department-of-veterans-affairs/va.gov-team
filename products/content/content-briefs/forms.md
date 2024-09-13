@@ -12,6 +12,7 @@ Created by the sitewide content team for teams working on digitizing VA forms. T
 - [Upload screens](#upload-screens)
 - [Hint text](#hint-text)
 - [Prefill alerts and updating info](#prefill-alerts-and-updating-info)
+- [Third party reps and alternate signers](#third-party-representatives-and-alternate-signers)
 
 ## Overview
 
@@ -106,7 +107,7 @@ VADS doesn't currently connect guidance for prefill alerts to the the ["Know how
 **Design system recommendation**
 - Maybe a pattern? Help users to understand how online form updates affect their in-progress form.
 
-## Alternate signer
+## Third-party representatives and alternate signers
 
 Questions:
 - What are all the ways that people are currently filling out forms on behalf of someone else?
