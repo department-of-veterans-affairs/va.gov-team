@@ -20,7 +20,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 * .
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Patient Check In (PCI) | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md) 
 
 ## Problem
 - **What is the problem and who is affected?**
