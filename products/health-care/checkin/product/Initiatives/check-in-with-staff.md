@@ -117,16 +117,13 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 #### Stakeholders
   
 - Office/Department: OCTO 
-- Contact(s): Kristen McConnell, Stephen Barrs, Katherine Lawyer
-
+  - Contact(s): Kristen McConnell, Stephen Barrs, Katherine Lawyer
 - Office/Department: OIT
-- Contact(s): Sam Passarelli
-
+  - Contact(s): Sam Passarelli
 - Office/Department: IVC
-- Contact(s): Robert Tow, Jeffrey Lowe
-
+  - Contact(s): Robert Tow, Jeffrey Lowe
 - Office/Department: VeText
-- Contact(s): Shane Elliott  
+  - Contact(s): Shane Elliott  
 
  
 ---
