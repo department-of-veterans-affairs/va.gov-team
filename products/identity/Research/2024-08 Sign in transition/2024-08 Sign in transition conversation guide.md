@@ -126,8 +126,10 @@ Are you comfortable with that?
    - [If Login.gov or ID.me or DS Logon ] Let’s pretend today that you want to sign in with My HealtheVet. [Continue to next question]
    - What would you do next?  Can you tell me what you’re seeing? [Are they seeing the new content?  How does it resonate with them?]
 - [Reiterate] We’re not testing your ability or comprehension but we want to better understand how this content comes across for veterans like yourself.
-- [OPTIONAL For this part, let the veteran lead you and ask follow-up questions including:]
+- [OPTIONAL For this part, let the Veteran lead you and ask follow-up questions including:]
    - Can you tell me what the text under the “Other sign-in options" means to you? [Check for comprehension of "Available through" verbiage.]
+   - **After this date, where do you think you would go to access your VA benefits online?** (Question added eod 9/13/2024)
+   - **Do you think you would still be able to access the My HealtheVet website?** (Question added eod 9/13/2024)
    - What would you do next? (Would they continue to sign in with MHV or would they choose another option)?
    - [If they continue with MHV credential] Can you tell me more about why you would do that?
    - [If they choose either Login.gov or ID.me] Why did you choose that option?
