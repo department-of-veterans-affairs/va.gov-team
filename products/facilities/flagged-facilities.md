@@ -4,7 +4,7 @@ Last updated: 5/8/2024
 The Facilities Team is responsible for ensuring that VA.gov presents the latest correct data available about a Facility. 
 The Drupal CMS Helpdesk is responsible for communicating with Editors about changed Facilities, where relevant. 
 
-The Facilities team and Drupal CMS Helpdesk work together to process information about changed Facilities, aka Flagged Facilities. The Lighthouse Facilities API is the source of truth for most Facilities data, and Drupal runs a nightly migration to import Facilities data from the LH Facilities API. When the Facilities API reports certain kinds of data changes, Drupal CMS will add a Flag on that node during migration, for followup. This document describes the process of handling / resolving those Flagged Facilities.
+The Facilities team and Drupal CMS Helpdesk work together to process information about changed Facilities, aka Flagged Facilities. The Lighthouse Facilities API is the source of truth for most Facilities data, and Drupal runs a [nightly migration to import Facilities data](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-facility.md) from the LH Facilities API. When the Facilities API reports certain kinds of data changes, Drupal CMS will add a Flag on that node during migration, for followup. This document describes the process of handling / resolving those Flagged Facilities.
 
 ## High level process flow
 * **Upstream databases:** Editors can make changes / change requests to update the status, naming, and other data about their facilities, in the relevant upstream database. That data is then pulled into the Lighthouse Facilities API.
