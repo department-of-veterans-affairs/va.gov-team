@@ -507,24 +507,131 @@ Becky: So how do you, what do you think about when you think of personalization?
 
 > P6: She does like 3 different screens and I'm like already doing Jay and it goes from one page to the other and one computer to the other.
 
-> P6:
+> P6: I'm like, I would be lost. And so you would have, you know, when somebody that's using it, you know how to do it.
 
-> P6:
+> P6: This little format for let's say a 40, 35 to 40 year old person. And then you would need a format for 45 to 50 year old person who hasn't, maybe he had that most exposure, you know, to, to that's just learning how to use the Internet or how to go in and out or it's scared to do it.
 
-> P6: 
+> P6: Maybe that's even another word. Like, I don't care. I'll go in there and I'll, I'll find what I need.
 
-> P6:
+> P6: I will definitely find what I need. If I don't find it, I, I call my kids.
 
-> P6:
+> P6: Hey, [name], this is what I need. I'm doing, what am I doing wrong?
 
-> P6:
+> P6: I got her on the phone and she was like, wait, man, do this, do that, do this, do that and we'll figure it out.
 
-> P6: 
+> P6:  So it would, you would have to have a few different formats. Did that make sense?
 
+> P6: Whereas somebody that actually says somebody that's really savvy and, you know, knows how to do 3 different screens, they're like, OK, does that make sense?
 
-[It all depends on the user and I’m pretty resourceful and play with it and sometimes you’ll find someone that can’t find what they are looking for and give up right away. It needs to be personalized. 
-*What would like to see when you think personalize? -That you know exactly what I think. You would have to have a few different formats for someone savvy (vs not so savvy). 
-*What would be the ideal Contact Us page for you? -The search bar because I have been trying to learn how to word it so it can go faster.]
+> P6: So I know that's hard. I know that's hard to do and I understand.
+
+Becky: Yeah, no worries. And you know, it's, it's our job to, you know, take the feedback and figure out how to make it happen. So this is this gives you a lot of good ideas.
+
+> P6: I guess I'm curious like in your you as a as a person, as a veteran, what would be the like ideal contact us page for you?
+ 
+> P6: Oh wow. I guess the search bar because like I said, I have been trying to learn how to word it so I can get to where I need to go faster.
+
+> P6: Like for instance, I was looking for those are those little reachers that reach when you try to change a light bulb and it's and it's and it's too, it's too high.
+
+> P6: They have these extender pole Reacher thingamajiggies.
+
+Becky: Yeah, yeah.
+
+> P6: OK. Right. So you can't put thingamajiggies in the search bar. So I was looking for one the other day in Amazon and I put a light bulb.
+
+> P6: Well, that put light bulb Reacher bulb reaches something like that. And he gave me all kinds of stuff that had nothing to do with light bulb. Would I need it?
+
+> P6: I said, I'm wording this wrong. So then I stopped and I thought, woman, and I said, this is what I did.
+
+> P6: And I put, you know, highlight bulb Reacher boom, gave me the extender pose and all that.
+
+> P6: So it's just a matter of a, a, a search bar that actually that is not limited, you know, does that make sense?
+
+> P6: Where if I put light bulb extensions, they would know what it is not one of those electrical extensions that you use, you know, when you need, but a light bulb changer extension. Does that make sense?
+
+Becky: Yeah. No, this, this is totally making sense. Like to, in order for right now, a search to be really useful, you have to know exactly what to search or else the wording.
+
+> P6: Yes.
+
+> P6: And you, and you gotta remember that there's a lot of us out there and I mean us, like here, I'm in [location]. So this is, you know, [name], like they say.
+
+> P6: So we're a little on the, you know, a little older side and a lot of stuff they, you know, people won't use like when we go to like, I know, like I, when I go to the doctor, I check in on my phone and I do my travel thing right there.
+
+> P6: Boom, boom, boom, you know, 'cause I've already learned that, but I have my kids to teach.
+
+> P6: A lot of people don't have that privilege of having somebody teach them how to navigate, you know, a, a, a, a cell phone.
+
+> P6: And then I'm, and you see, I'm still learning. I'm still pretty, you know, but I can navigate it. [word], when I want to pretty decent.
+
+> P6: And like I said, I'll get what I want, even if I have to go back and forth and hey, here and they'll just put it away.
+
+> P6: I do figure it out, but then you have to see use it when somebody that's just going to have an app, you know, the VA app or you know, VA.gov and say, hey, I want to hit this and I want it to just set me to where it was.
+
+> P6: So it has to be a little more, I guess age appropriate. Maybe that's pretty probably a better word. So that, that's just my thinking, Yeah.
+
+Becky: And, and for the record, I think you, you know, you found the answer eventually through the search or not through the search or through the FAQ section. So I think you, you did really well there.
+
+Becky: And you know, what I'm hearing is definitely to take into account just the varying levels of digital literacy that that folks have.
+
+> P6: That's the that's the one. Yeah, yeah, yeah.
+
+Becky: And I guess Speaking of that, just right, right before we end, maybe this is a good segue, but maybe it'd be like I mentioned before, I asked if it'd be helpful to maybe just walk through some of the tools on here as just a demonstration, you know, as we're working on improving this page and you mentioned the chat bot at the beginning, so I'll, I'll focus on this one since you might find it interesting.
+
+> P6: Is that you talking to me now?
+
+Becky: Yes, it is.
+
+> P6: OK. I'm like, what happened?
+
+Becky: No worries. No worries. Can you see my screen in the the page?
+
+> P6: Oh, yes. This is what I was talking about earlier. Yeah.
+
+[Becky does walk through. See this section in the conversation guide]
+
+Becky: Do you have any questions or I'm curious any reactions or thoughts to, to this?
+
+> P6: No, that's be exactly what I would have done. Try to go with that.
+
+> P6: Yeah, 'cause sometimes they'll, they'll, they'll pinpoint, but sometimes they're not sure what you're asking at the same time.
+
+> P6: So they're like, OK, what's going on? Do they, do they want to log on? Then they don't.
+
+> P6: So that's, that's why I say sometimes even no matter how good the, the chat is, sometimes you just need a live person to, you know, to walk you through what it is or tell you, you know what I mean?
+
+Becky: Yeah, absolutely. That totally makes sense. All right, well, I'll stop sharing my screen since we are we're sort of running out of time, but let me pull up this page again for myself.
 
 ## Cool down
-[I think I would go to the search bar. I would like it to be more broader. Can create a login with just a passport. I think creating an account with ID.me would have gone a lot better. ]
+Becky: All right, And in our last five minutes, I just wanted to spend a little bit of time reflecting on some of what we went through. And we started doing this a little bit before already.
+
+Becky: But I'm curious about what you, what you thought about using the contact us page in both of those scenarios where, you know, you are wondering if you could get more compensation for worsening shoulder pain or how to create an account.
+
+Becky: Is there anything that you liked or anything that could have been easier?
+
+> P6: I think like I said, I'll, I'll go back to the to the search bar. I mean, I would like it to be I guess the word would be broader so that it understands what I'm saying.
+
+> P6: Does that make sense? Like if I would you like, why would you put trying to can't create a a log, can't create a login with with just my passport where they would say, huh, OK, this person only has a passport.
+
+> P6: Let me put him towards says, hey, you know, that's why I think if you would have gone into that ID where it says you can verify yourself with a passport, I think that would have helped better than that login thing that you did. Maybe, I may be wrong. That makes sense?
+ 
+Becky: Yeah. I see what you're saying, maybe if I, or in this scenario, creating the ID dot me account would have been easier since you read you can use the passport.
+
+> P6: The passport. Yeah, Yeah, I think that would have probably gone in there a little bit better.
+
+> P6: You never know and that's the way I did it because my is what I DI do everything for ID me and I I had no problems with it and I I love it.
+
+Becky: Got it. OK, I see what you're saying. So like typing in the search ID dot me or something.
+
+> P6: Yeah, right, right.
+
+Becky: OK, yes, thank you for for that. Is there anything else you wanted to share with me maybe about this, this research process or just the session in general?
+
+> P6: No, I'm yeah, you guys are doing it 'cause like I said, when I when I had when I did my coming back to the travel, I mean, I was just going frustrated, frustrated.
+
+> P6: I don't know if I was just approaching it the wrong way, but and then when I said, when I said with a little bit long, I'm like, let's try this.
+
+> P6: Maybe this is what I need. So I don't know. So that that's sometimes that's what it is. We just go about it the wrong way because we, we think about the first thing that we think and that the first idea that comes to us and we act on it.
+
+> P6: Now sometimes we don't, we can't do that. So, so I did, but I think it's been very helpful. Now I, I know I can go what I can do now a little bit better too. So thank you for that.
+
+Becky: Yeah, I'm glad it was, it was a bit helpful too. It's definitely helpful for me for just learning from you.
