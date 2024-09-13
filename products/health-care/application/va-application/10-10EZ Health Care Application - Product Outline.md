@@ -167,7 +167,7 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
  
 
 ### After
-[Sketch File of all screens](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/0C3B7020-8169-4FF2-AB5C-AF52BC4E34C2/canvas)
+[Figma File of all screens](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=109-59846&mode=design&t=NG4WSpLntVopG3ox-0)
 
 ---
 
@@ -210,9 +210,9 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 - Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
 - Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
 - Annie Rice | Annie.Rice@va.gov -- Contact Representative office
-- Shana Watson | shana.watson@va.gov
-- Simone Gully | simone.gully@va.gov
-- Amanda Scully | amanda.scully@va.gov
+- Shana Watson | shana.watson@va.gov -- Business SME
+- Simone Gully | simone.gully@va.gov -- Business SME
+- Amanda Scully | amanda.scully@va.gov -- Business SME
 
 **Enrollment System (ES)**
 - Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
