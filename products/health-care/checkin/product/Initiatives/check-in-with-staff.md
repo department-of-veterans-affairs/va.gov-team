@@ -7,7 +7,7 @@ With the introduction of eCheck-in in early 2022, Veterans could check in remote
 
 This new change has caused clinical staff to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated if eCheck-in wasn't completed, etc. There have even been discussions about removing eCheck-in altogether to resolve these issues.
 
-Is there value in patients using eCheck-in to complete pre-registration (and have the option to file a travel reimbursement claim) and have their check in status updated in VistA (knowing that MSAs find eCheck-in helpful to speed up lines in the clinic waiting rooms), but require Veterans to "check in" with an MSA to resolve these known concerns? Would this resolve each of those concerns or add burdens we haven't considered for the Veteran, clinical staff, or MSAs? 
+**Is there value in patients using eCheck-in to complete pre-registration (and having the option to file a travel reimbursement claim) and have their check in status updated in VistA (knowing that MSAs find eCheck-in helpful to speed up lines in the clinic waiting rooms), but require Veterans to "check in" with an MSA to resolve these known concerns? Would this resolve each of those concerns or add burdens we haven't considered for the Veteran, clinical staff, or MSAs?** 
 
 Further complicating these issues, clinics aren't required to use PCI and VSE-CS (PCICSV). And, not all clinical staff and MSAs are trained on how PCI and VSE-CS work. 
 
