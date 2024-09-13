@@ -104,7 +104,11 @@ We took the feedback from the calls and created an affinity map to understand th
 
 #### Exploration and Analysis of discovery research:
 
-[Experience map](https://www.figma.com/file/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?type=design\&node-id=353-8360\&mode=design)
+[Experience map (figma)](https://www.figma.com/file/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?type=design\&node-id=353-8360\&mode=design)
+Map 1 (zipped PDF): [How to enable VA and OCTO employees to deep dive into which tools provide most value] ()
+Map 2 (zipped PDF): Enable VA and OCTO employees to share which traffic, actions, and customer satisfaction metrics are and how they are changing over time
+Map 3 (zipped PDF): Enable VA employees and OCTO employees to share traffic, actions, and customer satisfaction metrics and how that is changing over time
+Map 4 (zipped PDF): Enable VA employees and OCTO employees to see and share the items that are most relevant to OCTO goals and progress toward them
 
 [Heuristic review](https://www.figma.com/file/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?type=design\&node-id=0-1\&mode=design)
 
