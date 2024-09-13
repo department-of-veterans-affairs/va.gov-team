@@ -3,6 +3,8 @@
 - Time: 1-2pm
 - Device: Mobile
 
+This participant did not show up for their session.
+
 **Jump to**: 
 - [Before showing ‘Contact us’ page](#before-showing-contact-us-page)
 - [Scenarios](#scenarios)
