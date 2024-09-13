@@ -120,9 +120,8 @@ High-level questions:
     - Collect their contact info, or only name?
     - Require them to submit supporting forms or have those forms already on file? (And how can we or the signer check if the correct form is on file?
     - Should they identify alternate signer up front and use it to split user flow, or only at the end of form?
-
-- Does need for tailored alternate signer experience depend on chance that person with the claim is dead or unable to sign the form?
-- For forms where this is not as likely, should we default to simple single user story with alternate signer questions at the end?
+        - Does need for tailored alternate signer experience depend on chance that person with the claim is dead or unable to sign the form?
+        - For forms where this is not as likely, should we default to simple single user story with alternate signer questions at the end?
 
 ## Forms that update to new version when users already have saved in progress forms
 
