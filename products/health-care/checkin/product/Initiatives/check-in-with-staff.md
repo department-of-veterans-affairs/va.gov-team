@@ -129,9 +129,6 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 - Office/Department: IVC
   - Contact(s): Robert Tow, Jeffrey Lowe
 - Office/Department: VeText
-  - Contact(s): Shane Elliott  
+  - Contact(s): Shane Elliott (IT Specialist, OIT), Justin Wowk (Contractor, PM) 
 
  
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
