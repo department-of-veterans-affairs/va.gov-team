@@ -72,6 +72,7 @@
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
     - 🟥🟪 [Gather quantitative data for what users are selecting on the /appointments page in pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92844)
 - **Tech Debt**
+    - 🟩 [https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883)
     - 🟥 [[CAIA intake] Edit existing content on a resources and support page from Check in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80574)
 </details>
 
