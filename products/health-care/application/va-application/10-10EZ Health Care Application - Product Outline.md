@@ -128,7 +128,10 @@
 
 
 ## Launch Dates
-Note: 10-10 EZ form has been available online for a number of years.  Only in 2020/2021, has the form been revisited for updates and improvements.
+Note: 10-10 EZ form has been available online for a number of years.  Only in 2019, had the form been regularly revisited for updates and improvements. ([archived docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/vets-application/product))
+- 2012: Fillable PDF avalable to submit online (vets.gov)
+- May 2016: Online form created with data fields and submission online (no more PDF), content & data fields match PDF form (vets.gov)
+- 6/3/2019: Enrollment record validation when user enters personal info, if no record found, user can proceed through the form
 - 8/23/2022: Medicare Claim number field added to the form
 - 10/11/2022: American Indian question added to the form
 - 10/31/2022: 10-10EZ Short Form
@@ -140,7 +143,7 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 
 ### Current Status
 
-- As of 11/2022, we are
+- As of 11/2022, we are:
    - Preparing for moderated research sessions on the Household section optimization design in December
    - Preparing for moderated research sessions on the entire form to gather baseline data and feedback
         - This will help inform our next initiatives
