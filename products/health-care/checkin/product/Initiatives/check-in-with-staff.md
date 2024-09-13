@@ -116,7 +116,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 #### Communications
 
 - Team Name: Patient Check In
-- GitHub Label(s): 
+- GitHub Label(s): HCE-Checkin, check-in-with-staff
 - Slack channel: #check-in-experience
 - Product POCs: Kristen McConnell (Research and Design, OCTO), Lori Pusey (Contractor, PO), Ben Brasso (Contractor, Researcher)
 
