@@ -72,9 +72,11 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
+**Note: This rollout is on hold pending an update from the Change Management Team on the appropriate timeline.**
+
 #### Rollout Planning
 
-- Desired date range: Sept 4 - 11
+- Desired date range: Pending, September
 - How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
 - Links to the dashboard showing "success criteria" metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)
@@ -111,7 +113,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Length of time: 2 days, beginning Aug 30
+- Length of time: 2 days, beginning when greenlit by the change management team
 - Percentage of Users (and roughly how many users do you expect this to be): 5% , on top of which we will include Ad Hoc, BAH, and VA veterans who have agreed to test the status page.
 
 #### Results
