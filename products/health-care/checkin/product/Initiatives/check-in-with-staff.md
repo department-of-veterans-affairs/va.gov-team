@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Initiative Brief - Check in with MSAs after eCheck-in
 ## Overview
 
 For decades, when a patient was checked in, clinical staff rightfully assumed that a patient has arrived, checked in with MSAs, and is now sitting in the clinic waiting room ready to be called back for their appointment.  
