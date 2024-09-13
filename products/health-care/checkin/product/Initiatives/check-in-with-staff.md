@@ -124,8 +124,8 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
   
 - Office/Department: OCTO 
   - Contact(s): Kristen McConnell, Stephen Barrs, Katherine Lawyer
-- Office/Department: OIT
-  - Contact(s): Sam Passarelli
+- Office/Department: Service Product Line (SPL)
+  - Contact(s): Sam Passarelli (Contractor, Researcher)
 - Office/Department: IVC
   - Contact(s): Robert Tow, Jeffrey Lowe
 - Office/Department: VeText
