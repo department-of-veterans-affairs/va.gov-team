@@ -15,7 +15,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 ## Goals
 
-### Staff-facing 
+#### Staff-facing 
 
 - What's the impact on MSAs workload if Veterans who completed eCheck-in had to still check in with an MSA (or clinician) to complete the process?
 - Would MSAs recheck health insurance and demographics of Veterans checking in even if those flags were set to completed during a eCheck-in? If so, why? 
@@ -23,7 +23,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 - What's the impact on the line in the waiting room of patients checking in? E.g., longer or shorter lines? 
 - Has the number of Veterans missing appointments or checking in late increased or decreased?  
 
-### Veteran-facing
+#### Veteran-facing
 
 - What's the impact on Veterans' perceived value of eCheck-in if they had to still check in with an MSA (or clinician) after completing eCheck-in?
 - Would Veterans use eCheck-in again knowing that they'd be required to check in with an MSA after completing eCheck-in?  
