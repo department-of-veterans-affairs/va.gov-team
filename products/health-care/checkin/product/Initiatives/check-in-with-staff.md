@@ -33,7 +33,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 #### Complaints from Veterans 
 
-- Out of ~574 responses in early 2024, there were 44 complaints from Veterans specifically about either, 1) clinic staff ignoring eCheck-ins, or 2) not enough information in appointment reminders and eCheck-in for them to find the clinic for their appointment(s). 
+- Out of ~574 responses in early 2024, there were 44 complaints from Veterans specifically about either, 1) clinic staff ignoring eCheck-ins, or 2) not enough information in appointment reminders and eCheck-in for them to find the clinic for their appointment(s). ([VSignals Summary of Common Themes from Veterans Report](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/EQl4f33NUjBDssglCQbteiEB4YP850RQPK-SgGlRotMGDA?e=ihkF9M))
 
 ## Goals
 
