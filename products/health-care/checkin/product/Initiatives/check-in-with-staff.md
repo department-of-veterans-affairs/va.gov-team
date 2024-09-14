@@ -13,7 +13,7 @@ Would this resolve each of those concerns or add burdens we haven't considered f
 
 Further complicating these issues, clinics aren't required to use PCI and VSE-CS (PCICSV). And, not all clinical staff and MSAs are trained on how PCI and VSE-CS work. 
 
-## Research Goals
+## Goals
 
 ### Staff-facing 
 
