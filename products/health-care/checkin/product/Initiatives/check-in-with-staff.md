@@ -62,20 +62,39 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 **Related/Associated product(s)**
 - Patient Check In (PCI) | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md) 
 
+### Desired Veteran Outcomes
 
-<!--
-## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Increase trust in VA (and PCI) due in part to fewer canceled or missed appointments, or waiting in the clinic waiting room without a MSA or clinician acknowledging them before or at their scheduled appointment time.
+- Increase trust in VA digital services, with an emphasis on eCheck-in. 
 
-## Undesired User Outcomes
-## Desired Business Outcomes
+### Undesired Veteran Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Decrease in eCheck-in volume.
+- Increase in frustration towards VA due to perceived lower value of VA digital services, specifically eCheck-in. 
+- Increase in frustration towards VA due to longer wait lines to check in at clinics.
+- Increase in frustration towards VA due to completing pre-registration twice; in eCheck-in, and then with a MSA or clinician 
+
+### Desired Business Outcomes
+
+- Decrease in MSA workload, e.g., less time spent with each Veteran during check in at the clinic, using fewer applications on their computers, fewer occasions attempting to locate a Veteran who has completed eCheck-in, but is not in the clinic waiting room, etc.
+- Decrease in canceled or missed appointments from those with eCheck-in completed.
+- Decrease in number of occasions MSAs or clinicians spend time locating a Veteran who has completed eCheck-in, but is not in the clinic waiting room. 
+- Decrease in complaints about PCI to IVC from facilities.
+- Increase in employee satisfaction. 
+- Increase in perception of PCI.
+- Increase in usage of PCI, e.g., PCI being enabled at more clinics. 
+- Increase in usage of VSE-CS by clinical staff.
+- Increase in clinical staff operations, e.g., see more patients on time, see more patients per day, fewer canceled or missed appointments, less time attempting to locate a Veteran who has completed eCheck-in, but is not in the clinic waiting room, etc.
 
 ## Undesired Business Outcomes
--->
+
+- Increase in MSA workload, specifically time spent checking in patients.
+- Increase in long wait lines to check Veterans in at clinics.
+- Decrease in MSA and clinician use of VSE-GUI and/or VSE-CS to, 1) check if patients have completed eCheck-in and, 2) confirm their health insurance and demographics don't need to be rechecked at the clinic.
+- Decrease in perceived value of PCI and VSE-GUI and/or VSE-CS to manage patient encounters at clinics.
+- Decrease in Veteran usage of VA digital services, specifically PCI.
+- Decrease in digital application submissions, specifically beneficiary travel reimbursement through PCI.
+- Decrease in Veteran satisfaction with VA digital services, i.e., value of tool and/or frustration as a result of constant changes or removal of effective digital tools. 
 
 ---
 ## Measuring Success
