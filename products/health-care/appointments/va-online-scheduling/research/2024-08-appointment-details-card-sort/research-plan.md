@@ -44,9 +44,9 @@ This research will be conducted as an unmoderated card sort study using Optimal 
 The tests will be conducted online at the participant’s leisure.
 
 ### Research Materials
-- Group A Card Sort Link
-- Group B Card Sort Link
-- Card Sort Outline
+- [Group A Card Sort Link - Upcoming Appointment](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
+- [Group B Card Sort Link - Past Appointment](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct)
+- [Card Sort Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/card-sort-outline.md)
 
 ## Recruitment
 7 cohorts, 10 participants each, total 70 responses. Minimum threshold of 45 completed responses
@@ -59,45 +59,45 @@ The tests will be conducted online at the participant’s leisure.
 
 **Cohort 1: 10 Veterans age 18–24**
 - Group A (5 participants age 18–24)
-  - Group A link
+  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
 - Group B (5 participants age 18–24)
-  - Group B link
+  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct)
 
 **Cohort 2: 10 Veterans age 25–34**
 - Group A (5 participants age 25–34)
-  - Group A link 
+  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j) 
 - Group B (5 participants age 25–34)
-  - Group B link
+  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct)
 
 **Cohort 3: 10 Veterans age 35–44**
 - Group A (5 participants age 35–44)
-  - Group A link 
+  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j) 
 - Group B (5 participants age 35–44)
-  - Group B link 
+  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct) 
 
 **Cohort 4: 10 Veterans age 45–54**
 - Group A (5 participants age 45–54)
-  - Group A link
+  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
 - Group B (5 participants age 45–54)
-  - Group B link 
+  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct) 
 
 **Cohort 5: 10 Veterans age 55–64**
 - Group A (5 participants age 55–64)
-  - Group A link
+  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
 - Group B (5 participants age 55–64)
-  - Group B link 
+  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct) 
 
 **Cohort 6: 10 Veterans age 65–74**
 - Group A (5 participants age 65–74)
-  - Group A link
+  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
 - Group B (5 participants age 65–74)
-  - Group B link 
+  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct) 
 
 **Cohort 7: 10 Veterans age 75 +**
 - Group A (5 participants age 75 +)
-  - Group A link
+  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
 - Group B (5 participants age 75 +)
-  - Group B link
+  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct)
 
 ### Secondary criteria (must-haves)
 - At least 30 women
@@ -117,14 +117,16 @@ The tests will be conducted online at the participant’s leisure.
 ## Timeline
 
 ### Pilot session
-- DATE: TIME
+- Complete
 
 ### Kickoff with Perigean
 
 Availability:
-- DATE: TIME
-- DATE: TIME
-- DATE: TIME
+- **Wednesday, September 18**
+  - Available between 12-1:30 EST
+- **Thursday, September 19**
+  - Available between 12-12:30 EST or 2-4 EST
+
 
 ### Start date
 Flexible; based on Perigean's schedule to begin email recruitment
