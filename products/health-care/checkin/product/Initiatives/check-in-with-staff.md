@@ -13,6 +13,18 @@ Would this resolve each of those concerns or add burdens we haven't considered f
 
 Further complicating these issues, clinics aren't required to use PCI and VSE-CS (PCICSV). And, not all clinical staff and MSAs are trained on how PCI and VSE-CS work. 
 
+## Problem
+- **What is the problem and who is affected?**
+  - Veterans using eCheck-in without mandating clinical staff and MSAs to use VSE-GUI and VSE-CS to review a patient's check in status and understand that although checked in, they might not be in the clinic, has caused clinical staff to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated if eCheck-in wasn't completed, etc.
+  - Veterans using eCheck-in at clinics who's clinical staff and MSAs aren't using VSE-GUI and VSE-CS to monitor patient check ins are frustrated that VA's digital services aren't working as expected, causing mistrust, missed appointments, wait longer than anticipated to see their provider, etc.
+- **Why do you think the problem is occurring? Other reasons why this might be occurring?**
+  - Clinical staff and MSA's don't understand PCI and/or know how to use VSE-GUI and VSE-CS to review a patient's check in status and understand that although checked in, they might not be in the clinic waiting room
+  - Clinics aren't mandated to use PCI
+  - No centralized, reliable data source for clinic name and physical location to provide to Veterans
+- **How does this initiative help further OCTO-DE's mission and goals?**
+  - Veterans can manage their health services online
+  - Logged-in users have a personalized experience, with relevant and time-saving features
+ 
 ## Goals
 
 #### Staff-facing 
@@ -37,17 +49,6 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 **Related/Associated product(s)**
 - Patient Check In (PCI) | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md) 
 
-## Problem
-- **What is the problem and who is affected?**
-  - Veterans using eCheck-in without mandating clinical staff and MSAs to use VSE-GUI and VSE-CS to review a patient's check in status and understand that although checked in, they might not be in the clinic, has caused clinical staff to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated if eCheck-in wasn't completed, etc.
-  - Veterans using eCheck-in at clinics who's clinical staff and MSAs aren't using VSE-GUI and VSE-CS to monitor patient check ins are frustrated that VA's digital services aren't working as expected, causing mistrust, missed appointments, wait longer than anticipated to see their provider, etc.
-- **Why do you think the problem is occurring? Other reasons why this might be occurring?**
-  - Clinical staff and MSA's don't understand PCI and/or know how to use VSE-GUI and VSE-CS to review a patient's check in status and understand that although checked in, they might not be in the clinic waiting room
-  - Clinics aren't mandated to use PCI
-  - No centralized, reliable data source for clinic name and physical location to provide to Veterans
-- **How does this initiative help further OCTO-DE's mission and goals?**
-  - Veterans can manage their health services online
-  - Logged-in users have a personalized experience, with relevant and time-saving features
 
 <!--
 ## Desired User Outcomes
