@@ -24,7 +24,17 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 - **How does this initiative help further OCTO-DE's mission and goals?**
   - Veterans can manage their health services online
   - Logged-in users have a personalized experience, with relevant and time-saving features
- 
+
+## Evidence of the Problem
+
+#### Complaints from facilities 
+
+- The Integrated Veteran Care (IVC) department received ~80-90 complaints about eCheck-in from facilities in early 2024.
+
+#### Complaints from Veterans 
+
+- Out of ~574 responses in early 2024, there were 44 complaints from Veterans specifically about either, 1) clinic staff ignoring eCheck-ins, or 2) not enough information in appointment reminders and eCheck-in for them to find the clinic for their appointment(s). 
+
 ## Goals
 
 #### Staff-facing 
