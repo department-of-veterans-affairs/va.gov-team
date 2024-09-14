@@ -38,7 +38,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 <img width="960" alt="Quotes from Veterans about clinic staff ignoring eCheck-ins" src="https://github.com/user-attachments/assets/304fc905-9434-4ea8-9d7f-6be0c5ffd26d">
 
 
-## Goals
+## Initiative Goals
 
 #### Staff-facing 
 
