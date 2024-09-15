@@ -193,8 +193,8 @@ TBD
     
 #### Contributors 
 
-- Office/Department: Service Product Line (SPL)
-  - Contact(s): Sam Passarelli (Contractor, Designer/Researcher)
+- Office/Department: Service/Product Line (SPL)
+  - Contact(s): Sam Passarelli (Contractor, Designer/Researcher), Stephanie Kilgore (Contractor, Designer/Researcher)
 - Office/Department: VeText
   - Contact(s): Shane Elliott (IT Specialist, OIT), Justin Wowk (Contractor, PM) 
 
