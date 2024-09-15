@@ -42,7 +42,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 
 
-## Initiative Goals
+## Initiative Research Questions to Answer
 
 #### Staff-facing 
 
