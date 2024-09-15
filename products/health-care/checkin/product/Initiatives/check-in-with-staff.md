@@ -137,7 +137,18 @@ TBD
 [//]: # (*What have you explicitly decided to **not** include and why?*)
 [//]: # (*How does this solution address your Assumptions & Risks?*)
 
-TBD 
+- A feature or variation of the eCheck-in application that will be tested and researched at an initial small scale with the possibility of expansion.
+- eCheck-in will include a maximum of 5 steps for Veterans to complete, which are variable based on the status of their demographics flag in VistA and Insurance Capture Buffer (ICB). The 5 steps include health insurance check, demographics check, option for filing a travel reimbursement claim, online check in, and going to clinic a MSA or clinician to check in face-to-face. (However, we won't be able to track and measure the 4th step.) 
+- If a Veteran does complete online check in within eCheck-in, E-CHECK-IN status will still be set to COMPLETE in VSE-GUI and VSE-CS.
+- The biggest Veteran-facing and process change for this initiative is telling the Veteran to check in with staff at the clinic to complete "online check in."
+
+#### What's not changing 
+
+- 45 minute appointment reminder eCheck-in text sent from VeText. 
+
+#### Future iteration 
+
+- Add, and, send a text notification (from VeText) to Veterans asking them to check in with an MSA at the clinic if it's past their scheduled appointment time, completed eCheck-in, but no patient status in VSE-CS has been updated for X number of minutes. (Which would be a rule that clinical staff would need to advise on.)  
 
 ### Go-to-market strategy 
 [//]: # (*What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*)
