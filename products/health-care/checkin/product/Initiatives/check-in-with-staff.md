@@ -191,7 +191,7 @@ TBD
 - Office/Department: IVC
   - Contact(s): Robert Tow, Jeffrey Lowe
     
-#### Additional Responsible Contributors 
+#### Contributors 
 
 - Office/Department: Service Product Line (SPL)
   - Contact(s): Sam Passarelli (Contractor, Designer/Researcher)
