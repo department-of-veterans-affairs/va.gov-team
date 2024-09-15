@@ -116,8 +116,8 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 ##### - Quantitative
 
-- At least 3.75 CSAT score, according to Medallia reports.
-- Decrease in mentions (at participating clinics) from Veterans of clinic staff not using PCI and challenges with finding their appointment's clinic after completing online check in, according to VSignals reports. 
+- At least 3.75 CSAT score, according to Medallia reports. | [Looker Studio PCI Metrics Report](https://lookerstudio.google.com/u/0/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C)
+- Decrease in mentions (at participating clinics) from Veterans of clinic staff not using PCI and challenges with finding their appointment's clinic after completing online check in, according to VSignals reports. | [VSignals Veteran Feedback Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals/2024)
 
 ##### - Qualitative
 
@@ -126,7 +126,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 #### Application health
 
-- Less than 2% eCheck-in application downtime, according to DataDog reports.  
+- Less than 2% eCheck-in application downtime, according to DataDog reports. | [Looker Studio PCI Metrics Report](https://lookerstudio.google.com/u/0/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C)
 
 ---
 
