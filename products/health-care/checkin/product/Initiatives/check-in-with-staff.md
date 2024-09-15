@@ -108,16 +108,23 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 -->
 
-**Ease of use**
+#### Ease of use
 
-**Service completion**
+#### Service completion
 
-**Trust and satisfaction**
+#### Trust and satisfaction
+
+**Quantitative**
 
 - At least 3.75 CSAT score, according to Medallia reports.
 - Decrease in mentions (at participating clinics) from Veterans of clinic staff not using PCI and challenges with finding their appointment's clinic after completing online check in, according to VSignals reports. 
 
-**Application health**
+**Qualitative**
+
+- Decrease in complaints from participating clinic staff about eCheck-in; to be collected in scheduled facility and IVC feedback sessions.  
+- Increase trust in VA (and PCI) from Veterans due in part to fewer canceled or missed appointments, or waiting in the clinic waiting room without a MSA or clinician acknowledging them before or at their scheduled appointment time; to be collected during in-person user acceptance testing (UAT). 
+
+#### Application health
 
 - Less than 2% eCheck-in application downtime, according to DataDog reports.  
 
