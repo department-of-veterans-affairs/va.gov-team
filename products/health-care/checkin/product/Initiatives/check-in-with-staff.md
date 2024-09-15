@@ -101,15 +101,20 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
+<!--
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+-->
+
+TBD
 
 ---
 
 ## Discovery
 ### Assumptions/Risks
+<!--
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
@@ -125,6 +130,9 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
+-->
+
+TBD
 
 ### What're you building
 [//]: # (*What's in scope for you to build with this initiative? Describe key features/flows.*)
@@ -153,6 +161,7 @@ TBD
 #### Initiative Launch Dates
 - *Target Launch Date*
   - TBD
+    
 - *Actual Launch Date* 
   - TBD
 
