@@ -127,12 +127,16 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+[//]: # (*What's in scope for you to build with this initiative? Describe key features/flows.*)
+[//]: # (*What have you explicitly decided to **not** include and why?*)
+[//]: # (*How does this solution address your Assumptions & Risks?*)
+
+TBD 
 
 #### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+[//]: # (*What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*)
+
+TBD
 
 --- 
 
@@ -142,15 +146,15 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 - Kickoff ticket
 
 ### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+[//]: # (*Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*)
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - TBD
 - *Actual Launch Date* 
-  - tbd
+  - TBD
 
 ---
    
@@ -158,25 +162,32 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 ### Before
 
+TBD
+
 ### After
+
+TBD
 
 ---
 
 #### Communications
 
-- Team Name: Patient Check In
+- Team Name: Patient Check-in (PCI)
 - GitHub Label(s): HCE-Checkin, check-in-with-staff
 - Slack channel: #check-in-experience
-- Product POCs: Kristen McConnell (Research and Design, OCTO), Lori Pusey (Contractor, PO), Ben Brasso (Contractor, Researcher)
+- Product POCs: Kristen McConnell (Research and Design, OCTO), Katherine Lawyer (Product Owner, OCTO), Lori Pusey (Contractor, PO), Ben Brasso (Contractor, Designer/Researcher)
 
 #### Stakeholders
   
 - Office/Department: OCTO 
   - Contact(s): Kristen McConnell, Stephen Barrs, Katherine Lawyer
-- Office/Department: Service Product Line (SPL)
-  - Contact(s): Sam Passarelli (Contractor, Researcher)
 - Office/Department: IVC
   - Contact(s): Robert Tow, Jeffrey Lowe
+    
+#### Additional Responsible Contributors 
+
+- Office/Department: Service Product Line (SPL)
+  - Contact(s): Sam Passarelli (Contractor, Designer/Researcher)
 - Office/Department: VeText
   - Contact(s): Shane Elliott (IT Specialist, OIT), Justin Wowk (Contractor, PM) 
 
