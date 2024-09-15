@@ -113,8 +113,8 @@ TBD
 ---
 
 ## Discovery
-### Assumptions/Risks
 <!--
+### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
@@ -132,8 +132,6 @@ TBD
     - VA stakeholder testing, marketing, compliance requirements 
 -->
 
-TBD
-
 ### What're you building
 [//]: # (*What's in scope for you to build with this initiative? Describe key features/flows.*)
 [//]: # (*What have you explicitly decided to **not** include and why?*)
@@ -141,7 +139,7 @@ TBD
 
 TBD 
 
-#### Go-to-market 
+#### Go-to-market strategy 
 [//]: # (*What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*)
 
 TBD
