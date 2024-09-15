@@ -87,7 +87,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 - Increase in usage of VSE-CS by clinical staff.
 - Increase in clinical staff operations, e.g., see more patients on time, see more patients per day, fewer canceled or missed appointments, less time attempting to locate a Veteran who has completed eCheck-in, but is not in the clinic waiting room, etc.
 
-## Undesired Business Outcomes
+### Undesired Business Outcomes
 
 - Increase in MSA workload, specifically time spent checking in patients.
 - Increase in long wait lines to check Veterans in at clinics.
