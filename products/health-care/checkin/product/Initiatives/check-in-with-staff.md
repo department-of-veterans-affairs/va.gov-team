@@ -59,10 +59,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
  
 ---
 
-## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
-
+## Outcomes
 **Related/Associated product(s)**
 - Patient Check In (PCI) | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md) 
 
