@@ -112,7 +112,7 @@ TBD
 
 ---
 
-## Discovery
+## Approach 
 <!--
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
@@ -139,7 +139,7 @@ TBD
 
 TBD 
 
-#### Go-to-market strategy 
+### Go-to-market strategy 
 [//]: # (*What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*)
 
 TBD
