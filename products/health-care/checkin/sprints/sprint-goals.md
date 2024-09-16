@@ -70,6 +70,7 @@
    - **Sprint Goal is to tweak content based on Staging Review**
    - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)
    - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
+   - 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
 - **Travel Claims for Past Appointments**
     - **Sprint Goal is to tweak content based on Midpoint Review**
     - 🟥 [Midpoint Review - Content Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92865)
