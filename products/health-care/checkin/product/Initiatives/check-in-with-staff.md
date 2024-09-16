@@ -171,7 +171,12 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 - 45 minute appointment reminder eCheck-in text sent from VeText. 
 
-#### Risks
+#### Future iteration 
+
+- Add, and, send a text notification (from VeText) to Veterans asking them to check in with an MSA at the clinic if it's past their scheduled appointment time, completed eCheck-in, but no patient status in VSE-CS has been updated for X number of minutes. (Which would be a rule that clinical staff would need to advise on.)
+- Integration between eCheck-in and VA Backend Systems to enable clinics, 3-digit stations, 5-digit stations, or VISNs to toggle new feature on or off in VistA or VSE-CS.
+  
+### Risks
 
 - Decrease in Veteran usage of VA digital services, specifically PCI.
 - Decrease in Veteran satisfaction with VA digital services, i.e., value of eCheck-in and/or frustration as a result of constant changes that lower its value to Veterans.
@@ -179,15 +184,12 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 - Decrease in ease of access to checking in and inclusivity, e.g., Veterans with mobility challenges.
 - Negative impact on satisfaction for Veterans and staff at operationally high-performing clinics. 
 
-#### Future iteration 
-
-- Add, and, send a text notification (from VeText) to Veterans asking them to check in with an MSA at the clinic if it's past their scheduled appointment time, completed eCheck-in, but no patient status in VSE-CS has been updated for X number of minutes. (Which would be a rule that clinical staff would need to advise on.)
-- Integration between eCheck-in and VA Backend Systems to enable clinics, 3-digit stations, 5-digit stations, or VISNs to toggle new feature on or off in VistA or VSE-CS. 
-
 ### Go-to-market strategy 
 [//]: # (*What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*)
 
-TBD
+- To avoid a negative impact on satisfaction for Veterans and staff at operationally high-performing clinics using eCheck-in, pilot this feature at a larger CBOC that has reported complaints about PCI to IVC.
+- Required training for administrative and clinical staff on changes to PCI and their impact on clinic operations.
+- Researchers from PCI Veteran-facing Team and SPL Team to visit CBOC for in-person UAT with Veterans and semi-structured interviews with MSAs, clinic managers, clinicians using VSE-CS, and/or facility managers.  
 
 --- 
 
