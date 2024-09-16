@@ -126,10 +126,10 @@
        - STEM scholarship: https://www.va.gov/education/other-va-education-benefits/stem-scholarship/
        - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
        - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
-       - **Educational and career counseling Ch 36: va.gov/family-and-caregiver-benefits/education-and-careers/educational-and-career-counseling*
+       - **Educational and career counseling Ch 36: va.gov/family-and-caregiver-benefits/education-and-careers/educational-and-career-counseling**
     - **Get - Additional benefits or services(H3)**
        - Vocational rehabilitation and employment for ppl who qualify: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
-       - **R+S: SECO: New URL TBD**
+       - **R+S: SECO: va.gov/resources/career-resources-for-military-and-surviving-spouses**
     - **Get - Helpful tools(H3)**
        - GI Bill School Comparison tool: https://www.va.gov/gi-bill-comparison-tool/
        - Yellow Ribbon school finder: https://www.va.gov/education/yellow-ribbon-participating-schools/
@@ -145,11 +145,11 @@
        - **Transferred 9/11 GI Bill benefit rates: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates**
        - **Fry Scholarship rates: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates**
        - **DEA/CH35 rates: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/**
-       - **R+S: How to choose GI Bill approved schools: New URL TBD**
+       - **R+S: How to choose GI Bill approved schools: va.gov/resources/choosing-a-school-with-gi-bill-approved-programs**
        - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
        - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
-       - **R+S: Yellow ribbon program FAQs for family members: New URL TBD**
-       - **R+S: VSOC FAQ: New URL TBD** 
+       - **R+S: Yellow ribbon program FAQs for family members: va.gov/resources/yellow-ribbon-program-faqs**
+       - **R+S: VSOC FAQ: va.gov/resources/vetsuccess-on-campus-vsoc** 
 
 
 ### Secondary entry points
@@ -255,11 +255,11 @@ The education/careers left nav will have the following structure. These are not 
 |              Transferred benefit past rates: 23-24 | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/past-rates-2023-2024/                                   | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/past-rates-2023-2024   |                                  |
 |              Transferred benefit past rates: 22-23 | https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/past-rates-2022-2023/                                   | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/past-rates-2022-2023   |                                  |
 |               Transferred benefit application FORM | https://www.va.gov/education/survivor-dependent-benefits/apply-for-transferred-benefits-form-22-1990e/introduction AND ALL CHILD PAGES | va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/apply-form-22-1990e          |                                  |
-|Education page for family members                   | https://www.va.gov/education/survivor-dependent-benefits/                                                                              | https://www.va.gov/family-and-caregiver-benefits/education-and-careers/                                               | Yes                              |
-|SECO page                                           | https://www.va.gov/careers-employment/family-resources/                                                                                | R+S URL TBD                                                                                                           |                                  |
-|SECO page                                           | https://www.va.gov/careers-employment/dependent-benefits/                                                                              | va.gov/family-and-caregiver-benefits/education-and-careers/educational-and-career-counseling                          |
-|Choosing a GI Bill approved school                  | https://www.va.gov/education/choosing-a-school/                                                                                        | R+S URL TBD                                                                                                           | Yes                              |
-|VSOC                                                | https://www.va.gov/careers-employment/vetsuccess-on-campus/                                                                            | R+S URL TBD                                                                                                           | Yes                              |
+|Education page for family members                   | https://www.va.gov/education/survivor-dependent-benefits/                                                                              | https://www.va.gov/family-and-caregiver-benefits/education-and-careers/                                              | Yes                              |
+|SECO page                                           | https://www.va.gov/careers-employment/family-resources/                                                                                | va.gov/resources/career-resources-for-military-and-surviving-spouses                                                 |                                  |
+|SECO page                                           | https://www.va.gov/careers-employment/dependent-benefits/                                                                              | va.gov/family-and-caregiver-benefits/education-and-careers/educational-and-career-counseling                          |                                  |
+|Choosing a GI Bill approved school                  | https://www.va.gov/education/choosing-a-school/                                                                                        | va.gov/resources/choosing-a-school-with-gi-bill-approved-programs                                                     | Yes                              |
+|VSOC                                                | https://www.va.gov/careers-employment/vetsuccess-on-campus/                                                                            | va.gov/resources/vetsuccess-on-campus-vsoc                                                                            | Yes                              |
 
 
 ## <a name="bestbets"></a>Best Bets<br>
