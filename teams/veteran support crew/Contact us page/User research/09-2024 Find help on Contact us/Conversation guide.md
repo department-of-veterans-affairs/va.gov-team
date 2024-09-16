@@ -103,6 +103,7 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
       -  How did you find the right contact information?
       -  How do you usually contact the VA? Phone, online? Why?
       -  How was the support you received?
+- What information do you usually expect on a 'Contact us' page? 
 
 <details>
    <summary>Key things to notice</summary>
