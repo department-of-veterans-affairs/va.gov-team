@@ -35,7 +35,8 @@
 
 ## SPRINT 16 - 9/18/2024-10/1/2024
 - **Production Support**
-    - ❗❗❗❗❗❗❗❗❗❗❗ 🟦🟩🟨[Complete Silent Failure Checklist for ALL Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92903)
+    - ❗❗❗❗❗ 🟦🟩🟨[Complete Silent Failure Checklist for ALL Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92903) ❗❗❗❗❗
+        - **HARD DEADLINE IS OCT 1**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92521)
     - ❗ 🟨 [Rotate AWS Keys - September 27, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76344)
     - **Move to New AWS Instance**
