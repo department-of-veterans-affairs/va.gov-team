@@ -1,5 +1,22 @@
 # Running Design and Research Agenda
 
+## September 16 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang, Ray Messina
+- Facilitator: Syd
+- Next meeting facilitator: Steven
+- Agenda Topics
+	- 10-10d option vs required -- low priority (Syd)
+ 	- Walkthrough of the latest medicare card upload screens & OHI Status
+ 
+  ### Notes
+- Syd is going to work on refining the 10-10d optional versus required flow based on Lois and Premal's feedback during the meeting, and it will be presented again at a later date.
+- Jamie to do a little reasearch on what the legal use for Medicare card images are.
+- "I don't like it, because it sounds like we have processors that are uninformed." - Medicare cards required in all situations.
+- Lois is concerned about keeping Medicare cards up to date.
+- Jamie is going to check into make the back of the card more readable.
+- Clarify that the form is not yet in a digital version when sharing out the Service Blueprint
+- Adding on PEGA information to the Service Blueprint
+  
 ## September 9 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang, Ray Messina
 - Facilitator: Syd
