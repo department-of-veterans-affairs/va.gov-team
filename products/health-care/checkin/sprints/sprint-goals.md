@@ -35,6 +35,7 @@
 
 ## SPRINT 16 - 9/18/2024-10/1/2024
 - **Production Support**
+    - ❗❗❗❗❗❗❗❗❗❗❗ 🟦🟩🟨[Complete Silent Failure Checklist for ALL Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92903)
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92521)
     - ❗ 🟨 [Rotate AWS Keys - September 27, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76344)
     - **Move to New AWS Instance**
@@ -68,9 +69,6 @@
    - **Sprint Goal is to tweak content based on Staging Review**
    - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)
    - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
-- **Research Cards & Their Headers**
-    - **Sprint Goal is to begin research with participants and monitor feedback**
-       - 🟥 [[Research] Hold kick-off with Perigean and monitor incoming study data in Optimal Workshop](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92901)
 - **Travel Claims for Past Appointments**
     - **Sprint Goal is to tweak content based on Midpoint Review**
     - 🟥 [Midpoint Review - Content Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92865)
