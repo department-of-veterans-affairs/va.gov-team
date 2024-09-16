@@ -58,8 +58,6 @@ The Public Websites team also supports most of the portfolio of the previous Dec
     
 ### P1 Products
 - [ ] VA.gov homepage
-- [ ] Veterans Crisis Line modal
-- [ ] Global header / footer
 - [ ] Header / footer injection - https://benefits.va.gov
 - [ ] Search / results form in header
 - [ ] Search results page - https://www.va.gov/search/?query=benefits&t=false
