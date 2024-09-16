@@ -337,7 +337,11 @@ Things to watch out for:
 
 ## Thank-You and Closing (5 minutes) 
 
-Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. Do you have any questions or last thoughts for me before we end the session?
+- On a scale of 1-5, with 5 being the most accessible, how would you rate this form? Why?
+- Do you have any comments or questions about the form you just reviewed?
+
+Great, thank you so much. This has been really helpful for our team, and we appreciate you taking the time to share your thoughts with us today. 
+- Do you have any questions or last thoughts about what we did today before we end the session?
 
 ## Exit Strategies
 
