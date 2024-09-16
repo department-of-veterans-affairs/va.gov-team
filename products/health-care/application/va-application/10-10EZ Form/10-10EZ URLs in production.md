@@ -5,14 +5,14 @@
 - Coming soon for Reg Only:
      - Unauthenticated: After the basic-information page - www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits/benefits-package
           - Then upon selecting Registration: www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits/service-connected-care
-     - Authenticated: After the basic-information page - www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits-package
+     - Authenticated: After the check-your-personal-information page - www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits-package
           - Then upon selecting Registration: www.va.gov/health-care/apply-for-health-care-form-10-10ez/care-for-service-connected-conditions
 
 |URL|
 |----|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/id-form|
-|www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/personal-information|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/check-your-personal-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/birth-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/maiden-name-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/birth-sex|
