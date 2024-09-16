@@ -63,7 +63,7 @@
     - 🟥 [[Design] Create low-fi wireframe options](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92856)
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
     - Create collab cycle ticket
-    - Have Kristen Schedule PO Sync touchpoint
+    - Have Kristen Schedule OCTO PO Sync touchpoint
 - **Stand-alone Travel Application for OH Sites**
    - **Sprint Goal is to tweak content based on Staging Review**
    - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)
