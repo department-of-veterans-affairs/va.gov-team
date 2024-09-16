@@ -103,7 +103,7 @@
         - ✔️ 🟨 [[DevOps] Improve Datadog instrumentation of System Tests](https://github.com/department-of-veterans-affairs/checkin-devops/issues/591)
         - ✔️ 🟨 [[DevOps] Remove AWS service account credentials from CHIP repository.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/374)
 - **508 Audit**
-    - ❗ 🟪 ✔️ Request 508 Audits for All Applications
+    - ✔️ ❗ 🟪 Request 508 Audits for All Applications
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
     - ❗ 🟦🟩 [[BE][FE] Evaluate the sample consult and determine if we will have access to all of the information ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92475)
@@ -141,11 +141,11 @@
     - ✔️ 🟩 [Staging Review finding: Error message not announced to screen reader users ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91803)
     - ✔️ 🟩 [Staging Review finding: Inaccurate heading hierarchy on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91795)
     - ✔️ 🟩 [Staging Review finding: Link for mileage rates opens in a new tab without warning ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91796)
-    - 🟩 [Staging Review finding: Consistency with page title of application ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91797)
-    - 🟩 [Staging Review finding: Sentence structure in BTSSS filing copy ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91799)
-    - 🟩 [Staging Review finding: Incorrect list structure in travel-review page penalty statement ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91800)
+    - ✔️ 🟩 [Staging Review finding: Consistency with page title of application ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91797)
+    - ✔️ 🟩 [Staging Review finding: Sentence structure in BTSSS filing copy ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91799)
+    - ✔️ 🟩 [Staging Review finding: Incorrect list structure in travel-review page penalty statement ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91800)
     - ✔️ 🟩 [Staging Review finding: Tab order for buttons flipped on appointment page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91801)
-    - 🟩 [Staging Review finding: Sentence structure in travel-pay page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91798)
+    - ✔️ 🟩 [Staging Review finding: Sentence structure in travel-pay page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91798)
     - ✔️ 🟩 [Staging Review finding: Summary box for direct deposit information may not be appropriate ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91802)
         - ~We need decision from UX before we hand this of to frontend~
     - ~🟩 Push to production for internal pilot once all Staging Review issues have been addressed~
@@ -166,11 +166,11 @@
     - 🟪 [Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90467)
     - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91334)
 - **Tech Debt**
-    - 🟩 [Pre-Check-in: Update Content for Medication Review ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91919)
+    - ✔️ 🟩 [Pre-Check-in: Update Content for Medication Review ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91919)
     - ✔️ 🟩 [Staging Review Feedback: Add Commas to "How to Prepare for Your Appointment" List ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91691)
     - 🟦 [[BE] [Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled' and older configs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92006)
     - ✔️ 🟦 [[BE][Tech Debt] remove BTSSS feature flag 'check_in_experience_travel_btsss_ssm_urls_enabled'](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92004)
-    - 🟩 [[FE] - Fix bug with autofill on lastname field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92133)
+    - ✔️ 🟩 [[FE] - Fix bug with autofill on lastname field ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92133)
         - Added as a bug after sprint planning
     - 🟦 [[BE] [Tech Debt] remove BTSSS v1 configs from AWS param store ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92804)
         - Added halfway through sprint
