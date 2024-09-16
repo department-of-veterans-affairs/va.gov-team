@@ -299,8 +299,8 @@ Thank you for reviewing those scenarios with me. Your input has been really help
 
 I know this page isn't very clear right now. While you wait for us to make updates, is it helpful if I show you how some of these contact options work?
 
-> - If `Yes,` Share screen showing Contact us page
-> - If `No,` Skip to **Cool down**
+> - If `YES` Share screen showing Contact us page
+> - If `NO` Skip to **Cool down**
 
 We're going to review the login scenario, which was: You can’t use your passport to verify your identity while you’re trying to create a Login.gov account.
 
