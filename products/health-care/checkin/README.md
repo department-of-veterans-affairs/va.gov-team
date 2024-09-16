@@ -146,6 +146,7 @@
   - [cie-codebuild-ghar](https://github.com/department-of-veterans-affairs/cie-codebuild-ghar/)
   - [cie-datadog-log-forwarder](https://github.com/department-of-veterans-affairs/cie-datadog-log-forwarder/)
   - [cie-downstream-api](https://github.com/department-of-veterans-affairs/cie-downstream-api/)
+  - [cie-dsva-iac](https://github.com/department-of-veterans-affairs/cie-dsva-iac/)
   - [cie-github-actions](https://github.com/department-of-veterans-affairs/cie-github-actions/)
   - [cie-iam-manager](https://github.com/department-of-veterans-affairs/cie-iam-manager/)
   - [cie-staging-scheduler](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/)
