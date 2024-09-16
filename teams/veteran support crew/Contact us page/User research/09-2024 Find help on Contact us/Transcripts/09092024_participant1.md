@@ -265,7 +265,7 @@ Becky: Going back to the Contact us page too. I'm curious, would you have select
 
 > P1: It's just such a narrow department that those are the only folks you're ever gonna talk to. Nobody else wants to talk to you about it. They're 90% of the answers in the Facebook groups is... They say go contact your local VSO. Go contact your local, you know, here's your VA office. Get them to get you a VSO to work with you.
 
-> P1: So, yeah, it's like everybody, you mentioned anything that's a rated condition or physical health related, go to your account, and you've got to start talking to people that taught that entire C&P language. It's an animal unto itself.
+> P1: So, yeah, it's like everybody, you mentioned anything that's a rated condition or physical health related, go to your account, and you've got to start talking to people that talk that entire C&P language. It's an animal unto itself.
 
 Becky: Got it. That's interesting. And it sounds like, you know, going back to the phone numbers, you'd expect someone on the other end of the VA health benefits hotline to also be knowledgeable about those those C&P questions too, or no?
 
