@@ -110,14 +110,16 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 #### Ease of use
 
+- At least 75% conversion rate of eCheck-in. | [Looker Studio PCI Metrics Report](https://lookerstudio.google.com/u/0/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C)
+  
 #### Service completion
 
 #### Trust and satisfaction
 
 ##### - Quantitative
 
-- At least 3.75 CSAT score, according to Medallia reports. | [Looker Studio PCI Metrics Report](https://lookerstudio.google.com/u/0/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C)
 - Decrease in mentions (at participating clinics) from Veterans of clinic staff not using PCI and challenges with finding their appointment's clinic after completing online check in, according to VSignals reports. | [VSignals Veteran Feedback Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals/2024)
+- If or when this feature expands nationally, at least 3.75 CSAT score, according to Medallia reports. | [Looker Studio PCI Metrics Report](https://lookerstudio.google.com/u/0/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C)
 
 ##### - Qualitative
 
@@ -155,7 +157,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 [//]: # (*What have you explicitly decided to **not** include and why?*)
 [//]: # (*How does this solution address your Assumptions & Risks?*)
 
-- A feature or variation of the eCheck-in application that will be tested and researched at an initial small scale with the possibility of expansion.
+- A feature of the eCheck-in application that will be tested and researched at an initial small scale with the possibility of expansion.
 - eCheck-in will include a maximum of 5 steps for Veterans to complete, which are variable based on the status of their demographics flag in VistA and Insurance Capture Buffer (ICB). The 5 steps include health insurance check, demographics check, option for filing a travel reimbursement claim, online check in, and going to clinic a MSA or clinician to check in face-to-face. (However, we won't be able to track and measure the 4th step.) 
 - If a Veteran does complete online check in within eCheck-in, E-CHECK-IN status will still be set to COMPLETE in VSE-GUI and VSE-CS.
 - The biggest Veteran-facing and process change for this initiative is telling the Veteran to check in with staff at the clinic to complete "online check in."
@@ -164,9 +166,18 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 - 45 minute appointment reminder eCheck-in text sent from VeText. 
 
+#### Risks
+
+- Decrease in Veteran usage of VA digital services, specifically PCI.
+- Decrease in Veteran satisfaction with VA digital services, i.e., value of eCheck-in and/or frustration as a result of constant changes that lower its value to Veterans.
+- Increase in wait time for Veterans to check in at clinics. And, average amount of time it takes to check a Veterans in, including eCheck-in and in person. 
+- Decrease in ease of access to checking in and inclusivity, e.g., Veterans with mobility challenges.
+- Negative impact on satisfaction for Veterans and staff at operationally high-performing clinics. 
+
 #### Future iteration 
 
-- Add, and, send a text notification (from VeText) to Veterans asking them to check in with an MSA at the clinic if it's past their scheduled appointment time, completed eCheck-in, but no patient status in VSE-CS has been updated for X number of minutes. (Which would be a rule that clinical staff would need to advise on.)  
+- Add, and, send a text notification (from VeText) to Veterans asking them to check in with an MSA at the clinic if it's past their scheduled appointment time, completed eCheck-in, but no patient status in VSE-CS has been updated for X number of minutes. (Which would be a rule that clinical staff would need to advise on.)
+- Integration between eCheck-in and VA Backend Systems to enable clinics, 3-digit stations, 5-digit stations, or VISNs to toggle new feature on or off in VistA or VSE-CS. 
 
 ### Go-to-market strategy 
 [//]: # (*What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*)
