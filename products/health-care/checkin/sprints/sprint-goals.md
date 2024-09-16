@@ -40,7 +40,7 @@
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
-    - **Sprint Goals is to ...................**
+    - **Sprint Goals is to advance the FE and BE work as much as possible**
     - 🟩 [[FE] Referral Review - update design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
     - 🟩 [[FE] Choose a date & Time - design update ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92483)
     - 🟩 [[FE] Audit wireframes to determine what FE UI tickets need to be created to finish buildout out the FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91916)
@@ -65,9 +65,11 @@
     - Create collab cycle ticket
     - Have Kristen Schedule PO Sync touchpoint
 - **Stand-alone Travel Application for OH Sites**
+   - **Sprint Goal is to tweak content based on Staging Review**
    - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)
    - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
 - **Travel Claims for Past Appointments**
+    - **Sprint Goal is to tweak content based on Midpoint Review**
     - 🟥 [Midpoint Review - Content Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92865)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
