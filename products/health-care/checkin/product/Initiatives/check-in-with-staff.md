@@ -114,6 +114,9 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
   
 #### Service completion
 
+- Decrease in canceled or missed appointments from Veterans with eCheck-in completed; to be collected in scheduled facility and IVC feedback sessions.  
+- Decrease in number of occasions MSAs or clinicians spend time locating a Veteran who has completed eCheck-in, but is not in the clinic waiting room; to be collected in scheduled facility and IVC feedback sessions. 
+
 #### Trust and satisfaction
 
 ##### - Quantitative
