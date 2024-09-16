@@ -6,7 +6,7 @@
 - This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS, or Appointments) to give the user dynamic content updates for upcoming appointments and unread messages.
 - This feature also contains links to useful, top-task health care features: prescription refills, travel reimbursement, and VA medical records and test results.
 - For all of these use cases, the user must be LOA3 (identity verified). All LOA3 users will see this section on My VA.
-- After LOA3 status, the determining factor for what the user sees is whether they are a health care user or not, which is defined by whether the user has health care facilities associated with it, i.e. the facilities attribute in `user` state is greater than 0.  
+- Beyond LOA3 status, the determining factor for what the user sees is whether they are a health care user or not, which is defined by whether the user has a health care facility associated with them, i.e. the facilities attribute in `user` state is greater than 0.  
 - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will see an empty state of this section on My VA.
 
 ## Common use cases
