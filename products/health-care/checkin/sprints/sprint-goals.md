@@ -70,6 +70,8 @@
     - **Sprint Goal is to tweak content based on Midpoint Review**
     - 🟥 [Midpoint Review - Content Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92865)
     - 🟥 [Midpoint Review - Accessibility Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92907)
+- **Research Cards & Their Headers**
+    - 🟥 [[Research] Hold kick-off with Perigean and monitor incoming study data in Optimal Workshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92901)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
     - 🟥🟪 [Gather quantitative data for what users are selecting on the /appointments page in pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92844)
