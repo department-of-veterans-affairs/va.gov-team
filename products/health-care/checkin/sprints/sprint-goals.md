@@ -23,6 +23,8 @@
     - 🟪 Schedule Staging Review
 - **Check in with staff after checking in**
     - TBD
+- **OH Travel**
+    - 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
 - **Tech Debt**
@@ -38,27 +40,20 @@
     - ❗❗❗❗❗ 🟦🟩🟨[Complete Silent Failure Checklist for ALL Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92903) ❗❗❗❗❗
         - **HARD DEADLINE IS OCT 1**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92521)
-    - ❗ 🟨 [Rotate AWS Keys - September 27, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76344)
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to advance the FE and BE work as much as possible**
     - 🟩 [[FE] Referral Review - update design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
     - 🟩 [[FE] Choose a date & Time - design update ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92483)
-    - 🟩 [[FE] Audit wireframes to determine what FE UI tickets need to be created to finish buildout out the FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91916)
-    - 🟩 [[FE] Integrate Search a Patient's Appointments API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91929)
-    - 🟩 [[FE] Integrate Start a Draft Appointment API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91936)
-    - 🟩 [[FE] Integrate Search for Provider Services API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91937)
-    - 🟩 [[FE] Integrate View Provider Services Available Slots API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91933)
-    - 🟩 [[FE] Integrate Book an Appointment into a Slot API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91934)
+    - 🟩 [[FE] Redux state tracking for appointments-cc flow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92490)
+    - 🟩 [[FE] Appointment List - Update design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92480)
+    - 🟩 [[FE] Create flow pattern structure for referrals ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)
     - 🟥 [[Design] Update Community Care VSS after consult approval workflow (Mural) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88886)
     - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
     - 🟥 [[Design] Add content to confirmation page about how to cancel appt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92733)
     - 🟥 [Add urls to MVP scope page in Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92776)
-    - 🟦 [[BE] Test Search a Patient's Appointments API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91923) 
-    - 🟦 [[BE] Test View Provider Services Available Slots API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91921)
-    - 🟦 [[BE] Test Book an Appointment into a Slot API Endpoint ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91922)
-    - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
+    - 🟦 Tickets for connecting to Vista for consult data............... LEE
 - **Check in with staff after checking in**
     - **Sprint Goal is to finish the research plan and start to make plans for the pilot**
     - 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
@@ -70,7 +65,7 @@
    - **Sprint Goal is to tweak content based on Staging Review**
    - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)
    - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
-   - 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
+   - Placeholder for UX ticket for SMS content............ BEN
 - **Travel Claims for Past Appointments**
     - **Sprint Goal is to tweak content based on Midpoint Review**
     - 🟥 [Midpoint Review - Content Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92865)
