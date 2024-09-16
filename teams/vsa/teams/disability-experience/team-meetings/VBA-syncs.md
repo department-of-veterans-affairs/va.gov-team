@@ -7,6 +7,10 @@ Goal of the meeting series: addressing policy related or other open questions fo
 ### Notes
 
 1. Mike: seeking VBA signoff on design for [Submission Experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md) > Timely and Truthful Submission ([Zenhub epic](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) / [Github epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82076) / [Figma mockups](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&t=yuh8OGDS9kvw7KCR-1))
+2. Ruben: Continue the discussion for 4142:
+   * How private medical facilities are notified
+   * How requests to limit consent are handled
+   * How is it done today when using the paper form that allows them to enter more than, but not submit them separately? 
 
 ## 9/3/24 Biweekly VBA-DBEX Check-in
 ### In attendance
