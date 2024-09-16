@@ -42,7 +42,7 @@ _va.gov URL here. Like: va.gov/my-health/travel_pay/status_
   - [ ] Axe checks pass
   - [ ] Heading checks pass
   - [ ] Screen reader testing passes
-- [ ] Improve 1 thing about the codebase
+- [ ] Improve 1 thing about the codebase - [here are some ideas](https://docs.google.com/spreadsheets/d/1lOHK_cQIEMz85SfFDhyVO42Xq3_g9AFNj9UGYQrPCpI/edit?gid=0#gid=0)
 
 ## Acceptance Criteria
 - [ ] Frontend tasks complete
