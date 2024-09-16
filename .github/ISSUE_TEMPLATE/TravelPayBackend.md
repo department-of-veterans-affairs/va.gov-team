@@ -32,6 +32,11 @@ _e.g._
 }
 ```
 
+## External Dependencies
+- _What dependencies are required?_
+- _What is the highest env they are in?_
+- _What would be nice to have from this depenency?_
+
 ## Back end tasks
 - [ ] Client code written - calls correct endpoint
 - [ ] Service code written - transforms/processes response from client
@@ -56,7 +61,7 @@ _e.g._
 - [ ] Testing
   - [ ] Unit tests pass
   - [ ] QA testing - try to break it in staging
-- [ ] Improve 1 thing about the codebase
+- [ ] Improve 1 thing about the codebase - [here are some ideas](https://docs.google.com/spreadsheets/d/1lOHK_cQIEMz85SfFDhyVO42Xq3_g9AFNj9UGYQrPCpI/edit?gid=0#gid=0)
 - [ ] Swagger docs updated
 
 ## Acceptance Criteria
