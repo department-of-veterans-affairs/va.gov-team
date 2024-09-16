@@ -41,6 +41,8 @@
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to ...................**
+    - 🟩 [[FE] Referral Review - update design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
+    - 🟩 [[FE] Choose a date & Time - design update ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92483)
     - 🟩 [[FE] Audit wireframes to determine what FE UI tickets need to be created to finish buildout out the FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91916)
     - 🟩 [[FE] Integrate Search a Patient's Appointments API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91929)
     - 🟩 [[FE] Integrate Start a Draft Appointment API Endpoint with FE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91936)
@@ -63,16 +65,19 @@
     - **Sprint Goal is to finish the research plan and start to make plans for the pilot**
     - 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
     - 🟥 [[Design] Create low-fi wireframe options](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92856)
+    - 🟥 [[Research] Create Conversation Guide for check in with staff initiative ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
     - Create collab cycle ticket
-    - Schedule PO Sync touchpoint
+    - Have Kristen Schedule PO Sync touchpoint
 - **Stand-alone Travel Application for OH Sites**
    - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)
    - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
+- **Travel Claims for Past Appointments**
+    - 🟥 [Midpoint Review - Content Feedback - Modernized Check-in, Appointments, Travel Claims for Past Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92865)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
     - 🟥🟪 [Gather quantitative data for what users are selecting on the /appointments page in pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92844)
 - **Tech Debt**
-    - 🟩 [https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883)
+    - 🟩 [Use the New DS Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883)
     - 🟥 [[CAIA intake] Edit existing content on a resources and support page from Check in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80574)
 </details>
 
