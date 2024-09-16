@@ -1,9 +1,10 @@
 # In Progress Forms / Duplicate Claims Discovery
 Disability Benefits Team 1
-May 2024
+
+Submission Experience Discovery, May 2024
+
 Evelyn Hilbrich Davis [evelyn@cityfriends.tech]
 
-  
 
 ## What happens to the In Progress Form after submission?
 
