@@ -41,30 +41,32 @@ This unmoderated study consisted of participants completing three tasks with dif
 
 _Hypothesis 1:_ A higher proportion of Veterans will select the incorrect care team in the old experience than either of the new experiences. 
 
-  DEFINITY TRUE - proportions
+  DEFINITY TRUE - 62% and 67% of participants successfully completed all tasks with both the Provider and Location prototypes respectively, compared with 32% of participants using the Classic prototype. This represents as statistically significant difference (Chi Square results), with a moderate effect size (number). 
 
 _Hypothesis 2:_ The average time to complete tasks will be lower on either of the new experiences. 
 
-  DEFINITY TRUE
+  DEFINITY TRUE - was higher across all three tasks. Most pronounced for X task or X prototype. 
 
 _Hypothesis 3:_ A higher proportion of Veterans will find either of the new experiences to be more intuitive and satisfying than the old experience. 
 
-  SOMEWHAT TRUE
+  DEFINITELY TRUE - responses to post-task questions about the quality of the experience, perceived ease of use, and satisfaction with the respective prototypes indicated a higher rate of positive response for both Location and Provider prototypes compared with Classic prototype. The difference was statistically significant (ANOVA results) and represents an X effect size (stats). There was no significant difference between Provider and Location responses. See Table 1 for more details. 
 
 _Hypothesis 4:_ The old experience will produce higher rates of distrust in VA digital services than either of the new experiences. 
 
-  NOT TRUE
+  NOT TRUE - differences in responses to the post-test question assessing trust in the VA to create user-friendly digital experiences were not statistically significant (see table 1). 
 
 _Hypothesis 5:_ The "location first" new experience option will produce lower times to complete task, higher accuracy rates, higher satisfaction scores, and more positive feedback. 
 
-  NOT TRUE
+  NOT TRUE - there were no significant differences in task success rates or post-test questions between Provider and Location prototypes.
 
-# **Key Findings**
+# **Key Findings: Details**
 
+The hypotheses-related findings comprise the key findings for this study. 
 
+_Table here with results?_ 
 
-# **Details of Findings**
-
+**Additional key finding:** 
+Amongst the cohort of Veterans who answered a post-test question asking them to indicate their preference between the Location and Provider prototypes (n=68), 29 (57%) preferred the Provider prototype and 39 (57%) preferred the Location prototype (chi square results). 
 
 
 # **Recommendations**
