@@ -110,7 +110,8 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 #### Ease of use
 
-- At least 75% conversion rate of eCheck-in. | [Looker Studio PCI Metrics Report](https://lookerstudio.google.com/u/0/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C)
+- At least 75% conversion rate of eCheck-in. | Create Explore Report in GA4 with custom GA Events
+- Decrease in time spent with Veterans during check in at the clinic who have completed eCheck-in; according to in-person semi-structured interviews with MSAs and clinical staff. 
   
 #### Service completion
 
@@ -122,12 +123,13 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 ##### - Quantitative
 
 - Decrease in mentions (at participating clinics) from Veterans of clinic staff not using PCI and challenges with finding their appointment's clinic after completing online check in, according to VSignals reports. | [VSignals Veteran Feedback Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals/2024)
-- If or when this feature expands nationally, at least 3.75 CSAT score, according to Medallia reports. | [Looker Studio PCI Metrics Report](https://lookerstudio.google.com/u/0/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C)
+- At least 3.75 CSAT score, according to in-person user acceptance testing (UAT), i.e., Veterans.
+- Increase in employee satisfaction towards PCI, according to in-person semi-structured interviews with MSAs and clinical staff. 
 
 ##### - Qualitative
 
 - Decrease in complaints from participating clinic staff about eCheck-in; to be collected in scheduled facility and IVC feedback sessions.  
-- Increase trust in VA (and PCI) from Veterans due in part to fewer canceled or missed appointments, or waiting in the clinic waiting room without a MSA or clinician acknowledging them before or at their scheduled appointment time; to be collected during in-person user acceptance testing (UAT). 
+- Increase trust in VA (and PCI) from Veterans due in part to fewer canceled or missed appointments, or waiting in the clinic waiting room without a MSA or clinician acknowledging them before or at their scheduled appointment time; to be collected during in-person user acceptance testing (UAT).
 
 #### Application health
 
