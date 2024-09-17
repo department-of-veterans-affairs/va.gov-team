@@ -17,13 +17,13 @@
 @juancstlm-a6 
 
 ## Access VA Github Org
-- [✅] [New VFS Team Member - Juan Castillo](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90722)
-- [✅] [Add to VA org](https://github.com/department-of-veterans-affairs/github-user-requests/issues/23668)
-- [✅] [Submit Slack access request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92757)
-- [✅] [Instructions re zenhub support](https://dsva.slack.com/archives/C05BRLN52HJ/p1724962990511469)
-- [✅] Request Stephen to add Juan to PCI git repo
-- [✅] Request Zenhub access via vfs-platform-support  /support
-- [✅] [Submit Juan's mobile onboarding ticket](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9575) [**Reference: Onboarding Checklist ticket**](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=timwright12&labels=onboarding&projects=&template=onboarding-request-engineering.yml&title=Onboarding%3A+%5Bname%5D)
+- ✅ [New VFS Team Member - Juan Castillo](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90722)
+- ✅ [Add to VA org](https://github.com/department-of-veterans-affairs/github-user-requests/issues/23668)
+- ✅ [Submit Slack access request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92757)
+- ✅ [Instructions re zenhub support](https://dsva.slack.com/archives/C05BRLN52HJ/p1724962990511469)
+- ✅ Request Stephen to add Juan to PCI git repo
+- ✅ Request Zenhub access via vfs-platform-support  /support
+- ✅ [Submit Juan's mobile onboarding ticket](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9575) [**Reference: Onboarding Checklist ticket**](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=timwright12&labels=onboarding&projects=&template=onboarding-request-engineering.yml&title=Onboarding%3A+%5Bname%5D)
 
 ## Parctice tickets (Focused on process)
 - Tickets can be found [here](https://github.com/department-of-veterans-affairs/va-mobile-app/labels/Good%20first%20issue)
