@@ -193,7 +193,7 @@ Consider bucketing research questions under research goals. For each question, t
     
 -   Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
     
-#### Goal 1: To understand usability (findability and navigation) and comprehension of the revised information architecture of the copay path of the debt portal.
+### Goal 1: To understand usability (findability and navigation) and comprehension of the revised information architecture of the copay path of the debt portal.
 
   
 
@@ -207,7 +207,7 @@ Consider bucketing research questions under research goals. For each question, t
     
 5.  Do Veterans understand the callouts that indicate the copay bill has progressed with more serious consequences (treasury, debt collections)?
     
-#### Goal 2: To understand comprehension of transaction detail additions.
+### Goal 2: To understand comprehension of transaction detail additions.
 
 6.  Do participants understand:
     
@@ -227,7 +227,7 @@ Consider bucketing research questions under research goals. For each question, t
     
   
 
-#### Goal 3: To understand comprehension of the medical copay detail additions that we are surfacing sooner. To understand whether the information is helpful to Veterans and how it aligns with their mental models.
+### Goal 3: To understand comprehension of the medical copay detail additions that we are surfacing sooner. To understand whether the information is helpful to Veterans and how it aligns with their mental models.
 
 
 9.  What information is necessary on doctor visit summaries, and prescription medication summaries?
@@ -237,10 +237,12 @@ Consider bucketing research questions under research goals. For each question, t
 ## Hypotheses
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 
-Hypothesis 1: 
+*Hypothesis 1:* 
+
 #### The revised debt portal IA (with the addition of a copay detail page and surfacing of statement data sooner) will be easy to understand. Veterans will be able to easily navigate between pages, review their statements, and resolve their copay bills. 
 
-Hypothesis 2:  
+*Hypothesis 2:*
+  
 #### VHA payment history (including activity since the last statement and current statement data) displayed on the copay detail page will be easy to understand.  Medical visit copay and prescription copay details will also be easy to understand and be helpful to see. 
 
 -   Payment history was easy to comprehend in the VBA payment history study. Hence, we expect that payment history (current balance amount, previous balance, new charges, payments received, total feels/interest, payment due date) will be easy to understand for the Veteran in the VHA study as well.
@@ -248,7 +250,7 @@ Hypothesis 2:
 -  We further hypothesize that details provided for medical visit copays and prescription copays will be easy to understand and provide the right amount of detail. Some participants may express concern about their PHI.
  
  
-Hypothesis 3: 
+*Hypothesis 3:* 
 
 #### The addition of pending copay charges will be beneficial to Veterans. 
 
@@ -256,7 +258,7 @@ Hypothesis 3:
     
 -   Participants will differentiate the current statement section from the activity since the last statement (pending) section.
 
-Hypothesis 4: 
+*Hypothesis 4:* 
 
 #### Veterans will be able to differentiate between copay bills that are payable, receiving a benefit offset, and sent to the Department of Treasury. 
 
@@ -333,7 +335,7 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
     
 -   Veterans who have **recurring** VA copay bills
 
-### Primary criteria (must-haves)
+#### Primary criteria (must-haves)
 
 -  At least 8-12 Veterans interviewed, please recruit 16 - 24 Veterans
     
@@ -362,7 +364,7 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
 -   At least 1-2 assistive technology users (user with low vision, or user of hearing aide, user who uses voice over)
     
 
-## Demographic must-haves
+#### Demographic must-haves
 
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants with VA copay bills.
 
@@ -393,7 +395,7 @@ Note: The following demographic criteria is our goal, but we understand that his
 
 ## Screener Survey
 
-### 1. VA copay bills
+#### 1. VA copay bills
 
 Please select what applies to you (Check all that apply)
 
@@ -413,7 +415,7 @@ Please select what applies to you (Check all that apply)
    *Please prioritize participants that check "This VA copay bill appeared in the last 6 months."*
     
 
-### 2. VA copay bills: more detail
+#### 2. VA copay bills: more detail
 
 Please select what applies to you (Check all that apply)
 
@@ -425,13 +427,13 @@ Please select what applies to you (Check all that apply)
 
 - One or more of my VA copay bills are over $100 each
 
-### 3. VA debt resolution attitudinal
+#### 3. VA debt resolution attitudinal
 
 TBD
 
-### 4. Experiences of financial hardship
+#### 4. Experiences of financial hardship
 
-## Please select the statement(s) that apply to you: (Check all that apply)
+Please select the statement(s) that apply to you: (Check all that apply)
 
 -   I am currently experiencing financial hardship.
     
@@ -440,7 +442,7 @@ TBD
 -   I have never experienced financial hardship.
     
 
-### 5. LGBTQ+
+#### 5. LGBTQ+
 
 Do you identify as a member of the LGBTQ+ community ? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
@@ -451,7 +453,7 @@ Do you identify as a member of the LGBTQ+ community ? We ask this question becau
 -   Decline to answer
     
 
-### 6. Cognitive consideration
+#### 6. Cognitive consideration
 
 Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury. We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
@@ -462,7 +464,7 @@ Has a medical professional ever diagnosed you with a cognitive disorder? Some ex
 -   Decline to answer
     
 
-### 7. Household income
+#### 7. Household income
 
 What is your annual household income level (not including VA benefits payments you receive*)? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
@@ -482,7 +484,7 @@ What is your annual household income level (not including VA benefits payments y
     
 -   Decline to answer
 
-### 8. Attitudinal question
+#### 8. Attitudinal question
 
 Please indicate how much you agree or disagree with the following statement:
 
