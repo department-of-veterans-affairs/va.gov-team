@@ -122,46 +122,10 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
   - 1) triage groups grouped by healthcare system (facility) and in alphabetized order within a system grouping;
   - 2) groups with a healthcare system with be in alphabetized order;
   - 3) Exception: any group identified as primary Care should be moved to the top of the list within a health care system (facility) grouping
- - As a patient, I want to be able to identify groups grouped by healthcare system (facility) so that I can more quickly find what I'm looking for.
+ - [decoupled in scope; can proceed independent from this initiative or as a rider] As a patient, I want to be able to identify groups grouped by healthcare system (facility) so that I can more quickly find what I'm looking for.
    - The groups will be clustered by the optgroup tag (noted above).
-- As a patient, I want to be able to use typeahead so that I can filter down options presented.
+- [descoped from MVP; fast follow] As a patient, I want to be able to use typeahead so that I can filter down options presented.
   - We will be using a combobox to achieve this based on USWDS (noted above). 
-
-### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-- Due to backend data limitations/constraints, we will be starting with a pilot for SM users in VISN 1 at the 3 healthcare systems (Boston, Connecticut, and Providence). Users with care teams in these systems would see the new improved experience on the front end.
-- We will need to conduct outreach with MHV Coordinators (staff) at these facilities to ensure they understand expectations for creating and editing new triage groups using the new standard.
-- After the initial pilot, we will identify additional user-facing marketing, and outreach activities as we scale.
-
---- 
-
-## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
-- Kickoff ticket (forthcoming)
-
-### Timeline 
- * August 2024
-    * OCTO builds out the prototype in DXP. Ro plugs in to help with starting the initial requirements as placeholders.
-    * OCTO leading research study comparing current state to 2 options for ordering of the new language for Veterans (i.e., location first or provider first)
-*  September-October 2024
-    * Based on learnings from the prototype, Ro + team finalize formal requirements, and tech vetting process is started with SM team.
-* Mid September: 
-    * target Midpoint Review with demo of prototype and handoff to ByLight team to shepherd from here
-* October-November 2024: 
-    * With start of PI17 on October 16th, SM admin portal development starts for limited production pilot and any additional FE changes.
-    * Updated 9/17: Thie pilot should have patient-facing changes coordinated across VAHB, SM on VA.gov, and SM Classic for a consistent patient experience.
-* Mid November: target Staging Review to demo solution in VA.gov and VAHB
-* November-December 2024: development is completed, and we launch limited production pilot for VISN 1 users. 
- 
-![image](https://github.com/user-attachments/assets/1b2804c4-f8a2-4bfe-b07c-452e699946ec)
-
-#### Initiative Launch Dates
-- *Target Launch Date for pilot*
-  - December 2024
-- *Actual Launch Date* 
-  - tbd
 
 ---
    
@@ -193,7 +157,42 @@ In order to enable these changes on front-end, the MHV Administrative Portal wil
 Note: Pending validation from prototype on feasibility of these data fields
 ![image](https://github.com/user-attachments/assets/9a51a719-1cb8-47ff-b9da-f590b7bdbec8)
 
+---
 
+
+## Launch Planning
+### Collaboration Cycle
+> 💡 *Use for any Collab Cycle tracking, questions.*
+
+- Kickoff ticket (forthcoming)
+
+### Timeline 
+ * August 2024
+    * OCTO builds out the prototype in DXP. Ro plugs in to help with starting the initial requirements as placeholders.
+    * OCTO leading research study comparing current state to 2 options for ordering of the new language for Veterans (i.e., location first or provider first)
+*  September-October 2024
+    * Based on learnings from the prototype, Ro + team finalize formal requirements, and tech vetting process is started with SM team.
+* Mid September: 
+    * target Midpoint Review with demo of prototype and handoff to ByLight team to shepherd from here
+* October-November 2024: 
+    * With start of PI17 on October 16th, SM admin portal development starts for limited production pilot and any additional FE changes.
+    * Updated 9/17: Thie pilot should have patient-facing changes coordinated across VAHB, SM on VA.gov, and SM Classic for a consistent patient experience.
+* Mid November: target Staging Review to demo solution in VA.gov and VAHB
+* November-December 2024: development is completed, and we launch limited production pilot for VISN 1 users. 
+ 
+![image](https://github.com/user-attachments/assets/1b2804c4-f8a2-4bfe-b07c-452e699946ec)
+
+#### Initiative Launch Dates
+- *Target Launch Date for pilot*
+  - December 2024
+- *Actual Launch Date* 
+  - tbd
+    
+### Go-to-market 
+> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+- Due to backend data limitations/constraints, we will be starting with a pilot for SM users in VISN 1 at the 3 healthcare systems (Boston, Connecticut, and Providence). Users with care teams in these systems would see the new improved experience on the front end.
+- We will need to conduct outreach with MHV Coordinators (staff) at these facilities to ensure they understand expectations for creating and editing new triage groups using the new standard.
+- After the initial pilot, we will identify additional user-facing marketing, and outreach activities as we scale.
 
 ---
 
