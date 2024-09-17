@@ -44,8 +44,8 @@ This research will be conducted as an unmoderated card sort study using Optimal 
 The tests will be conducted online at the participant’s leisure.
 
 ### Research Materials
-- [Group 1 Card Sort Link - Upcoming Appointment](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
-- [Group 2 Card Sort Link - Past Appointment](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct)
+- [Group 1 Card Sort Link Preview - Upcoming Appointment](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
+- [Group 2 Card Sort Link Preview - Past Appointment](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct)
 - [Card Sort Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/card-sort-outline.md)
 
 ## Recruitment
