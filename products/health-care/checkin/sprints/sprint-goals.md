@@ -97,7 +97,7 @@
         - ✔️ 🟨[[DevOps] Eric Oliver needs access to veterans-affairs PagerDuty.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/434)
         - ✔️ 🟨[[DevOps] Remove/Delete 'vaec-cms' RDS Database registrytestdb](https://github.com/department-of-veterans-affairs/checkin-devops/issues/546)
         - ✔️ 🟨[[DevOps] Discovery on Vista-API System Verification Tests](https://github.com/department-of-veterans-affairs/checkin-devops/issues/585)
-        - 🟨[[DevOps] Discovery on CW, VSECS/CSV, and Staging Scheduler Usage of Vista-API](https://github.com/department-of-veterans-affairs/checkin-devops/issues/586)
+        - ✔️ 🟨[[DevOps] Discovery on CW, VSECS/CSV, and Staging Scheduler Usage of Vista-API](https://github.com/department-of-veterans-affairs/checkin-devops/issues/586)
         - 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
         - ✔️ 🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/checkin-devops/issues/325)
         - ✔️ 🟨 Week 31 of Onboarding [Confluence](https://github.com/department-of-veterans-affairs/checkin-devops/issues/571) [PagerDuty](https://github.com/department-of-veterans-affairs/checkin-devops/issues/395)
