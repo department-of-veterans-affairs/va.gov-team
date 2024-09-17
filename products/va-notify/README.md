@@ -18,16 +18,16 @@ Email us at **VA Notify** (oitoctovanotify@va.gov)
 
 # Points of Contact
 **Product**
-- Dave Conlon, VA PO - VA Notify, Strike Team
-- Samantha Jennings, Product Manager - Forms Strike Team
-- Rachel Han, VA PO - VA Platform, Notify Team
-- Jeff Keene, Lead Engineer - VA Platform, Notify Team
-- Ksenia Belikova, Product Manager - Notifications Platform
+- Dave Conlon, VA PO - VA Notify, Notify Experience (Strike) Team
+- Samantha Jennings, Product Manager - Notify Experience (Strike) Team
+- Rachel Han, VA PO - VA Platform, Notify Platform Team
+- Jeff Keene, Lead Engineer - VA Platform, Notify Platform Team
+- Ksenia Belikova, Product Manager - Notify Platform Team
 
 
 **Engineering**
-- Kyle Macmillan, Tech Lead - Notifications Platform
-- Nathan Wright, Tech Lead - Forms Strike Team
+- Kyle Macmillan, Tech Lead - Notify Platform Team
+- Nathan Wright, Tech Lead - Notify Experience (Strike) Team
 
 # Playbook
 
