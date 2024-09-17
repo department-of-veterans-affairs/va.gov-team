@@ -124,6 +124,7 @@
 - [Link to Platform Page](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/analytics-request)
 - **Responsible:**  Product - after coding is completed
 - [analytics ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/92984)
+- [dashboard ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93019)
   - **Add the following artificats**
      - Product Outline
       - Authenticated Test user Log ins
