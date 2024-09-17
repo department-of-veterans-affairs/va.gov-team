@@ -33,7 +33,7 @@
 - [Change request:Medication wording for Appointments](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9373)
 
 **Mobile onboarding - Fedback from Juan**
-- What went well:
+What went well:
   -  
   - 
 - Improvement opportunities:
