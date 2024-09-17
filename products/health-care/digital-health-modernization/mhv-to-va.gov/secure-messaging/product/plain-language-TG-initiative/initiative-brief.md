@@ -156,8 +156,9 @@ In order to enable these changes on front-end, the MHV Administrative Portal wil
 ![image](https://github.com/user-attachments/assets/92363f0e-e806-4b99-b74a-736a8867af99)
 
 ###  After on SM Administrative Portal
-Note: Pending validation from prototype on feasibility of these data fields
-![image](https://github.com/user-attachments/assets/9a51a719-1cb8-47ff-b9da-f590b7bdbec8)
+updated 9/17
+![image](https://github.com/user-attachments/assets/d5e0391b-af97-4708-a93b-ba3709167693)
+
 
 ---
 
