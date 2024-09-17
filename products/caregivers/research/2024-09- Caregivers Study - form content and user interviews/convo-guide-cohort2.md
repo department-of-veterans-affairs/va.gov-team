@@ -82,7 +82,7 @@ Before we look at the caregiver program online form, let’s start with a few wa
 
 - Thank you for sharing that background. Now let's change gears a bit.
 - I'm going to share a link to our staging site with you in the chat and when you're ready have you share your screen in Zoom with me.
-- [Link to [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)]
+- [Link to [Staging](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction)]
 - Review this page and tell me about your initial thoughts and expectations of this form before going forward and applying.
 - What, if anything, on this page stands out to you as being confusing or as being really helpful?
 
