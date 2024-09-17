@@ -39,7 +39,9 @@
 - 21-781a (Statement in Support of Claim For Service Connection for PTSD Secondary to Personal Assault)
 - [21-8940 (Veteran's Application for Increased Compensation Based on Unemployability)][21-8940]
 - [21-2680 (Examination for Housebound Status or Permanent Need For Regular Aid and Attendance)][21-2680]
-- [21-4502 (Auto Allowance & Adaptive Equipment Application)][21-4502] 
+- [21-4502 (Auto Allowance & Adaptive Equipment Application)][21-4502]
+- |526 ancillary forms|List of additional forms mentioned on paper version of 526, and recommendations for future inclusion in digital 526 flows|[Link](https://docs.google.com/spreadsheets/d/1gYOQFXQxfacFIf5B0qb4-NGUDLvzVQ3oEMMNjvxk86I/edit?usp=sharing)|March 2023|
+
 
 ## Team
 
@@ -54,9 +56,10 @@
  [ZenHub Workspace](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
  GitHub team label: DBEX-TREX
 - Product manager: Jared Pace
-- Design and Research: Mike Eng, Evelyn Davis
+- Design and Research: Maya Carroll, Evelyn Hilbrich Davis
 - Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommassina Miller
-- Delivery: Sarah Knopp
+- Delivery: Pam Macalintal
+ 
 
  Team 2:
  [ZenHub Workspace](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/board)
@@ -84,33 +87,6 @@
 |Issue Management Strategy|Defines rubric for assessing issues for severity as well strategy for addressing them|[Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=1-1683888631128)||
 |526 Flow-Active| Most up to date 526 application flow| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)| November 2023|
 
-## Research
-|Title|Description|Link|Version|
-|-----|-----------|----|-------|
-|Summary of past 526ez research|Includes research from 2016-2021, from VEO 2023, and heuristic evaluation 2022|[Link](https://docs.google.com/presentation/d/16s9L1zCopBFH-_C3Bm0f6arFul7d-asn7T3Sfa5d1dw/edit?usp=sharing)|Feb 2023|
-|Toxic Exposure Usability Testing | Evaluative research for the new TE feature| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-07-Toxic-Exposure) | July 2023|
-|526ez Form Shadowing Research Study| Shadowing research for the 526 application| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)|November 2023|
-|0781 Research Study| Research on proposed designs for the updated 0781 flow| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-06%200781%20Research) | June 2024 |
-|Submission Status Research Study| Evaluative research of confirmation page and post-submission emails | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-07-Submission-Status) | July 2024|
-
-
-## Design
-|Title|Description|Link|Version|
-|-----|-----------|----|-------|
-|Veteran personas|From Veteran Experience Office includes ten personas and additional tools|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)|May 2016, current as of 2022|
-|Veteran personas and 526 use cases|Connects VA veteran personas with 526 use cases and experiences|[Link]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/personausecases.md))|March 2023|
-|526 ancillary forms|List of additional forms mentioned on paper version of 526, and recommendations for future inclusion in digital 526 flows|[Link](https://docs.google.com/spreadsheets/d/1gYOQFXQxfacFIf5B0qb4-NGUDLvzVQ3oEMMNjvxk86I/edit?usp=sharing)|March 2023|
-
-## Analytics
-|Title|Description|Link|Version|
-|-----|-----------|----|-------|
-|ITF Migration|DataDog Dashboard for monitoring LH and EVVS traffic during migration|Link||
-
-## Engineering
-|Title|Description|Link|Version|
-|-----|-----------|----|-------|
-
-
 ## First Read
 |Title|Description|Link|Version|
 |-----|-----------|----|-------|
@@ -121,6 +97,25 @@
 |Walkthrough of 526ez application|Video walkthrough|[Link](https://drive.google.com/file/d/1KZ22-UyWOOaD8NDpfpVbHZ1pB1Bj571b/view?usp=sharing)||
 |Veteran personas|From Veteran Experience Office includes ten personas and additional tools|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf)|May 2016, current as of 2022|
 |Veteran personas and 526 use cases|Connects VA veteran personas with 526 use cases and experiences|[Link]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-customer-personas/VA%20Customer%20Personas.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/personausecases.md))|March 2023|
+
+
+## Research
+|Title|Description|Link|Version|
+|-----|-----------|----|-------|
+|Summary of past 526ez research|Includes research from 2016-2021, from VEO 2023, and heuristic evaluation 2022|[Link](https://docs.google.com/presentation/d/16s9L1zCopBFH-_C3Bm0f6arFul7d-asn7T3Sfa5d1dw/edit?usp=sharing)|Feb 2023|
+|Toxic Exposure Usability Testing | Evaluative research for the new TE feature| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-07-Toxic-Exposure) | July 2023|
+|526ez Form Shadowing Research Study| Shadowing research for the 526 application| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2023-11-Shadowing-Research)|November 2023|
+|0781 Research Study| Research on proposed designs for the updated 0781 flow| [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-06%200781%20Research) | June 2024 |
+|Submission Status Research Study| Evaluative research of confirmation page and post-submission emails | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2024-07-Submission-Status) | July 2024|
+
+## Analytics
+|Title|Description|Link|Version|
+|-----|-----------|----|-------|
+|ITF Migration|DataDog Dashboard for monitoring LH and EVVS traffic during migration|Link||
+
+## Engineering
+|Title|Description|Link|Version|
+|-----|-----------|----|-------|
 
 
 ## Other Related
