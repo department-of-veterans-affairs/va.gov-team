@@ -105,6 +105,7 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
     -   Group type (i.e. primary care) and when relevant subgroup types that will cascade upon selection of group type. [See proposed group type/subgroup times documented here on VA Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/Triage%20Group%20Naming/2024.07.29%20-%20MVP%20triage%20group%20types%20and%20subgroups.xlsx?d=w9b8985d58e0b482cb370bb8240060d65&csf=1&web=1&e=1DraJN).
     -   If applicable, the team name (e.g. PACT Team, Blue Team). Free text.
     -   If applicable, the lead provider name (ex. Allen Smith). Enumerated options from MHV data source.
+      - For the admin user, we will need to include the DUZ number in the DXP Admin lead provider dropdown. This will not be included in the patient-facing requiredDisplay but it is only to assist the admin user in selecting the right provider.
     -   Note: only Location and Group type will be mandatory; team name & provider name will remain optional
 - As an SM admin user, I need to efficiently *edit* triage groups with structured data fields, aligned to the new fields added above.
   
