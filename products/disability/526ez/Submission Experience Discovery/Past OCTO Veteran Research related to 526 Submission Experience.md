@@ -50,7 +50,7 @@ Separating it from t[he main discovery document](https://docs.google.com/documen
     
 
 ### Finding 6
-** More than anything, research participants want to know how long it will take for their claims and appeals to be decided. This is the question behind many of the other questions they have. [(Claim Status Tool research)]**(https://dsva.slack.com/files/U04U1JZSY0H/F06RRET8EBX/claim_status_tool_brief_-_2024-03-01_-_rfd_ipt.pdf)  
+**More than anything, research participants want to know how long it will take for their claims and appeals to be decided. This is the question behind many of the other questions they have. [(Claim Status Tool research)]**(https://dsva.slack.com/files/U04U1JZSY0H/F06RRET8EBX/claim_status_tool_brief_-_2024-03-01_-_rfd_ipt.pdf)  
       
     
 ### Finding 7
