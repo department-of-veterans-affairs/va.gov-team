@@ -2,36 +2,133 @@
 _last updated: date_  
 
 ## Audience 
-_Who this document is written for.  For instance: `team members responding to Datadog ["Example App errors"](https://vagov.ddog-gov.com/monitors/#####) monitor alerts`_  
+- Team members responding to [Datadog monitor alerts](https://vagov.ddog-gov.com/monitors/manage?q=1010ez&order=desc).
 
-# [Monitor Title]
-_Explanation of what the monitor is for, and what it means when it fails_
+# Monitor: 10-10EZ anomaly monitor
+## Slack & Email Alert: "Warn: 10-10EZ anomaly monitor"
+- Within a four hour period, 25% of total submissions have been more than two times lower than the usual volume for at least 15 minutes.
 
-# Required access
-_Access required to complete the steps in this playbook.  Intended for readers to review in advance.  Example:_   
-```
+### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
 - [DSVA Slack](dsva.slack.com)
-```   
+- [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+     - [SOCKS access](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy) required 
 
-# Steps
-_Diagnosis or action steps to verify the issue, resolve the problem, and/or notify the correct people.  Example:_  
-```
-- Open a tracking issue at [va.gov-teams](https://github.com/department-of-veterans-affairs/va.gov-team/issues)   
-- Review the recent list of notifications for this error either in the #[...] slack channel
-  or on the ["Sample App errors"](https://vagov.ddog-gov.com/monitors/####) page for frequency and error count.
-- Check the [Sample App Tool](https://vagov.ddog-gov.com/dashboard/[...]/sample-app) Dashboard.  In particular
-  check to see what controllers & methods are having errors, what percentage of messages are errors, and if
-  there are any other anomalies.
-- Check to see if any anomalies relate to a recent release (location for the list TBD), if there is a relation
-  between a chance in traffic or errors
-  and a release contact the Sample App team at Slack channel [#sample-app-slack-channel](https://dsva.slack.com/archives/########).
-  If the issue appears to relate to a specific release you can stop here.  
-- v0::thiscontroller and v0::thatcontroller are both related services.  For a recent group of high errors 
-  associated with these controllers contact the Backend production support team in the [#example-backend-prod-support] 
-  (https://dsva.slack.com/archives/[.....]) channel.  I recommend specifically calling out @Example Administrator
-  and @Another Example Administrator specifically.  Tell them what application you support, the issues you are seeing
-  Post a link to your question or comment in the [#their-slack-channel](https://dsva.slack.com/archives/[...]) for awareness.
-- To drill into details on a specific error at a specific time, click on a bar in the "Click on items to View Related Traces"
-  widget at the bottom of the Dashboard.  
-```
+### Steps
+- Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- The team member will determine if there have been any failures that is causing the low volume of submissions, requesting assistance from other team members as needed
+     - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+- If any errors/failures are found within the form, the team will
+     - [PM] Communicate the issue to the Product Owner
+     - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
+          - PM will open maintenance window in PagerDuty if needed
+     - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
+     - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+- If the failures are found to originate outside the form, the team will open a Platform Support ticket.
+
+## Slack & Email Alert: "Recovered: 1010EZ anomaly monitor"
+- The volume of submissions has reached at or above 25 submissions over the last 12 hours
+
+### Required access
+- [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
+- [DSVA Slack](dsva.slack.com)
+- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+
+### Steps
+- No Action needed, this alert is letting us know that volumes are back to normal
+
+---
+
+# Monitor: 1010EZ submission job has failed retries
+## Slack & Email Alert: "Triggered: 1010EZ submission job has failed with no retries left"
+- At least one application submission has been retried 24 times, has failed and will not be retried again.
+
+### Required access
+- [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
+- [DSVA Slack](dsva.slack.com)
+- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+
+### Steps
+- Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
+- Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
+          - PM will open maintenance window in PagerDuty if needed
+- Obtain Veteran contact information (Name, Phone number, Email address)
+- Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
+     - Explain what has happened (submission failure) and provide the Veteran contact info.
+     - Copy PO (Patrick Bateman) and PMs (Alex Seelig and Heather Justice - VA emails only)
+- Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
+- Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+- If the failures are found to originate outside the form, the team will open a Platform Support ticket
+
+---
+
+# Monitor: 1010EZ submission alert for failed mailer
+## Slack & Email Alert: "Triggered: 1010EZ submission alert for failed mailer"
+- At least one application submission has failed all retries, and an email was triggered to be sent to the Veteran, however the mailer service has failed
+
+### Required access
+- [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
+- [DSVA Slack](dsva.slack.com)
+- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+
+### Steps
+- Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- Obtain Veteran contact information (Name, Phone number, Email address)
+- Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
+     - Explain what has happened (submission failure) and provide the Veteran contact info.
+     - Copy PO (Patrick Bateman) and PMs (Alex Seelig and Heather Justice - VA emails only)
+- Communicate the mailer failure to the PO
+- The team will open a Platform Support ticket and work with them to triage the issue
+
+## Slack & Email Alert: "Recovered: 1010EZ submission alert for failed mailer"
+- There have not been any further failures on the mailer service in the last 4 hours.
+
+### Required access
+- [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
+- [DSVA Slack](dsva.slack.com)
+- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+
+### Steps
+- No Action needed, this alert is letting us know that the error rate is back to zero
+
+---
+
+# Monitor: 1010EZ controller error rate is above 5%
+## Slack & Email Alert: "Triggered: 1010EZ controller error rate is above 5%"
+- Errors being captured exceed 5% of total submissions over the last 4 hours.
+     - This can mean any kind of errors, including validation, submission, timeouts, etc
+
+### Required access
+- [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
+- [DSVA Slack](dsva.slack.com)
+- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+
+### Steps
+- Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- Review the errors and VA.gov monitors to determine if the root cause is on the form or sitewide
+- Communicate the issue to the Product Owner
+- If any errors/failures are found within the form, the team will
+     - Determine if a maintenance banner needs to be in place to stop further failures
+          - PM will open maintenance window in PagerDuty if needed
+     - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
+     - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
+- If the failures originate outside the form, the team will open a Platform Support ticket
+
+## Slack & Email Alert: "Recovered: 1010EZ controller error rate is above 5%"
+- Errors being captured are now below 5% of total submissions over the last 4 hours
+
+### Required access
+- [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
+- [DSVA Slack](dsva.slack.com)
+- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+
+### Steps
+- No Action needed, this alert is letting us know that the error rate is back to normal
+
+
+
