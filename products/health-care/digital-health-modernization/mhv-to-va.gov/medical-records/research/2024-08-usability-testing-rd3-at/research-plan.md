@@ -45,6 +45,7 @@ The results of the usability portion of the study will help us determine if our 
 3. What goals are Veterans hoping to accomplish within Medical Records?
 4. What are Veterans’ expectations and use cases for printing/downloading Medical Records?
 5. What are Veterans’ perceptions of the new experience in which they view their records on screen?
+6. How do the goals, expectations, and experiences with Medical Records for Veterans who use assistive technologies vary from those who do not?
 
 ## **Hypothesis**
 
