@@ -151,6 +151,7 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
     * target Midpoint Review with demo of prototype and handoff to ByLight team to shepherd from here
 * October-November 2024: 
     * With start of PI17 on October 16th, SM admin portal development starts for limited production pilot and any additional FE changes.
+    * Updated 9/17: Thie pilot should have patient-facing changes coordinated across VAHB, SM on VA.gov, and SM Classic for a consistent patient experience.
 * Mid November: target Staging Review to demo solution in VA.gov and VAHB
 * November-December 2024: development is completed, and we launch limited production pilot for VISN 1 users. 
  
