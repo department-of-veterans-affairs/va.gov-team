@@ -112,7 +112,7 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 - As a patient, when selecting a triage group to message, I want to see plain language identifiers (i.e. location, doctor name, and care type) so that I can quickly and confidently identify the right team to message.
    - (validated 9/16 based on research) The *order* of the information displayed should be: Location, Care Type, Team Name, Doctor name.
    - There should be no acronyms (aside from VA), specialized terminology, abbreviations, and symbols.
-   - Capitalization follows standard style guide for VA content (no all caps) and should be sentence case.
+   - Capitalization follows standard style guide for VA content (no all caps) and should be sentence case.[ Please see Sharepoint document with specific capitalization rules](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/2024.09.17%20Plain%20language%20triage%20groups%20rules%20for%20patient-facing%20requir.docx?d=w6d2468e423a64d7cba1172f01e2e364f&csf=1&web=1&e=jTjuQZ). 
    - The Select list with the new triage group names will be presented with the following rules:
   - 1) triage groups grouped by healthcare system (facility) and in alphabetized order within a system grouping;
   - 2) groups with a healthcare system with be in alphabetized order;
