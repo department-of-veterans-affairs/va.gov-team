@@ -1,20 +1,20 @@
-# **Conversation guide for Accredited Representative Facing Team, OGC Contact Information Updates, 07/2024**
+# Conversation guide for Accredited Representative Facing Team, OGC Contact Information Updates, 07/2024
 
 Jump to…
 
-[Moderator logistics](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.npbg9srt3e6w)
+- [Moderator logistics](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.npbg9srt3e6w)
 
-[VSO Certifying Officials](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.1qygtkrjjosw)
+- [VSO Certifying Officials](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.1qygtkrjjosw)
 
-[Concept testing](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.6bnq2ogd7da3)
+- [Concept testing](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.6bnq2ogd7da3)
 
-[Accredited Attorneys and Claims Agents](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.koasnmiq928x)
+- [Accredited Attorneys and Claims Agents](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.koasnmiq928x)
 
-[Emergency Exit](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.3gff8nskbas7)
+- [Emergency Exit](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.3gff8nskbas7)
 
-## **Moderator logistics**
+## Moderator logistics
 
-### **2-3 days before the session**
+### 2-3 days before the session
 
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
 
@@ -24,11 +24,11 @@ Jump to…
 
   - Within the browser app, check that recording settings and transcripts are turned ON.
 
-- Download the Zoom desktop application. Do not log into the ARF moderator account here. This is just for the day-of session.**
+- Download the Zoom desktop application. Do not log into the ARF moderator account here. This is just for the day-of session.
 
-### **Starting the session**
+### Starting the session
 
-#### **At least 30min before the session start time**
+#### At least 30min before the session start time
 
 - Log into VA CAG
 
@@ -42,7 +42,7 @@ Jump to…
 
 - Open the prototype in [Figma](https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19\&t=9hxSq0qy6V00Am1G-0).
 
-#### **15 minutes before the session start time**
+#### 15 minutes before the session start time
 
 - Open Slack but Mute your Slack notifications.
 
@@ -55,7 +55,7 @@ Jump to…
   - Instructions: How to participate this session:
 Notetakers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20notetaking.md) before you join. Please open this [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722362248367/d080d4f9e562382f54949e283031e6812e59ef59?wid=0-1711387609347\&sender=u503219bf4e47eab9c75d3838) to take notes during the session. At the end of the session, please confirm your notes are complete and share the link with the facilitator.Observers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20observing.md) before you join.Once (if) the participant agrees to have you join, the facilitator will let you in from the Zoom waiting room.Use this thread and don't use the Zoom chat. Thanks!All: Jot down thoughts in [this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722362248367/d080d4f9e562382f54949e283031e6812e59ef59?wid=0-1711387609347\&sender=u503219bf4e47eab9c75d3838) after the session (login with your [va.gov](http://va.gov/) email)
 
-#### **At least 5-10min before the session start time**
+#### At least 5-10min before the session start time
 
 - From VA CAG, open the Zoom browser app, start the session.
 
@@ -111,17 +111,19 @@ I have started recording. I'd like to confirm: Do I have permission to record as
 
 ### Intro.
 
-1) We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. This information is what Veterans see when they search for VSOs on the website, let me show you what this looks like for context. _Screenshare_ [_OGC database_](https://www.va.gov/ogc/apps/accreditation/index.asp) _and_ [_FAR_](https://www.va.gov/get-help-from-accredited-representative/find-rep/)_._ 1) Are you familiar with either of these search tools? If so, what do you use them for?
+We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. This information is what Veterans see when they search for VSOs on the website, let me show you what this looks like for context. _Screenshare_ [_OGC database_](https://www.va.gov/ogc/apps/accreditation/index.asp) _and_ [_FAR_](https://www.va.gov/get-help-from-accredited-representative/find-rep/)_._
 
-2) How many certifying officials do you have at your organization?
+1) Are you familiar with either of these search tools? If so, what do you use them for?
+
+3) How many certifying officials do you have at your organization?
 
    - Is “certifying official” the way you describe yourselves? Is this a job title or just what you use when you’re communicating with OGC?
 
-3) How many VSO representatives do you \[each] support? 
+4) How many VSO representatives do you \[each] support? 
 
-4) Do you support singly accredited or cross-accredited VSO representatives, or both?
+5) Do you support singly accredited or cross-accredited VSO representatives, or both?
 
-5) Can you talk us through your current process for updating contact information for the representatives you support?
+6) Can you talk us through your current process for updating contact information for the representatives you support?
 
    - Do other certifying officials at your organization also request updates to contact information? Does anyone else? 
 
@@ -131,11 +133,11 @@ I have started recording. I'd like to confirm: Do I have permission to record as
 
    - What challenges do you have with keeping contact information up to date?
 
-6) Does your organization have a directory of your service officers and their contact information?
+7) Does your organization have a directory of your service officers and their contact information?
 
    - If so, can you share the link? (Maybe screenshare)
 
-   - How do you keep that content up-to-date?**
+   - How do you keep that content up-to-date?
 
 ### Let’s talk about emails.
 
@@ -167,7 +169,7 @@ I have started recording. I'd like to confirm: Do I have permission to record as
 
 3. Anything else we should know about locations and addresses?
 
-## Concept testing.
+## Concept testing
 
 Now we’re going to show you what we’ve been working on and would appreciate your feedback. _Open Figma <https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19> ]_
 
@@ -262,7 +264,11 @@ Now we’re going to show you what we’ve been working on and would appreciate 
 
 5. Anything else we should know?
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on developing the tools for VSOs.Our team will be sending a thank you email, where we’ll provide a link to our feedback intake form to get notified of future feedback opportunities, which you can share with your colleagues.Thank you so much again, and enjoy the rest of your day!
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on developing the tools for VSOs. 
+
+Our team will be sending a thank you email, where we’ll provide a link to our feedback intake form to get notified of future feedback opportunities, which you can share with your colleagues. 
+
+Thank you so much again, and enjoy the rest of your day!
 
 ## Accredited Attorneys and Claims Agents
 
@@ -304,7 +310,7 @@ We are working with OGC to find ways to improve efficiencies for updating inform
 
    - What type of information have you needed to update and why?
 
-   - What challenges do you have with keeping contact information up to date?**
+   - What challenges do you have with keeping contact information up to date?
 
 ### Let’s talk about emails.
 
@@ -336,7 +342,7 @@ We are working with OGC to find ways to improve efficiencies for updating inform
 
 3. Anything else we should know about locations and addresses?
 
-### Concept testing.
+### Concept testing
 
 Now we’re going to show you what we’ve been working on and would appreciate your feedback. _Open Figma <https://www.figma.com/design/RbVQnV4eBl2K1Z5xRpZi7H/Contact-Info-Updating?node-id=1-19> ]_
 
@@ -352,7 +358,7 @@ Now we’re going to show you what we’ve been working on and would appreciate 
 
    - How would you expect to log in?
 
-   - Anything else?**
+   - Anything else?
 
 ### Dashboard
 
@@ -368,7 +374,7 @@ Now we’re going to show you what we’ve been working on and would appreciate 
 
    - (if not mentioned) What do you think of the “Submit recertification” and “Submit CLE evidence” buttons? What would you expect to happen if you clicked on those? 
 
-   - Anything else you’d expect to see here?**
+   - Anything else you’d expect to see here?
 
 ### Edit entry
 
@@ -382,7 +388,7 @@ Now we’re going to show you what we’ve been working on and would appreciate 
 
    - Anything else you’d expect to be able to update?
 
-   - Anything else you’d expect to be able to do here?**
+   - Anything else you’d expect to be able to do here?
 
 ### Closeout
 
@@ -392,14 +398,14 @@ Now we’re going to show you what we’ve been working on and would appreciate 
 
 3) How would this experience compare with the current one (emailing OGC)?3. Is there anything else that you’d expect to be able to do when signed in to this portal?
 
-4. Anything else we should know?**
+4) Anything else we should know?
 
 ## Emergency Exit
 
-\[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it's easy to find during a session. Take some time to practice so it feels more comfortable.]* 
+[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it's easy to find during a session. Take some time to practice so it feels more comfortable.] 
 
-**Out of questions:** We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+- **Out of questions:** We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
-**Blame technology**: I am so sorry, but I just learned that the \[website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+- **Blame technology**: I am so sorry, but I just learned that the \[website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
 
-**Backup Moderator**: This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session \[backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
+- **Backup Moderator**: This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session \[backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
