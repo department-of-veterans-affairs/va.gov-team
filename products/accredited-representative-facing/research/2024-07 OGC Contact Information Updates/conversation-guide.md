@@ -2,7 +2,7 @@
 
 Jump to…
 
-- [Moderator logistics](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.npbg9srt3e6w)
+- [Moderator logistics](#moderator-logistics)
 
 - [VSO Certifying Officials](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.1qygtkrjjosw)
 
