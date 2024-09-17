@@ -83,7 +83,7 @@
 
 ## SPRINT 15 - 9/4/2024-9/17/2024
 - **Production Support**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
+    - ✔️ ❗❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89595)
     - ✔️ ❗ 🟦 [Answer Questions on Redis Encryption from Platform Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91455)
     - **Move to New AWS Instance**
         - ✔️ 🟨[[DevOps] Eric Oliver needs access to veterans-affairs PagerDuty.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/434)
