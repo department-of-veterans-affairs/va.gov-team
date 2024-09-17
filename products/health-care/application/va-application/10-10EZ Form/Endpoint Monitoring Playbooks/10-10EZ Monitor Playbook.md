@@ -48,7 +48,7 @@ _last updated: 09-17-2024_
 
 # Monitor: 1010EZ submission job has failed retries
 ## Slack & Email Alert: "Triggered: 1010EZ submission job has failed with no retries left"
-- At least one application submission has been retried 24 times, has failed and will not be retried again.
+- At least one application submission has been retried 14 times, has failed and will not be retried again.
 
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
@@ -61,8 +61,8 @@ _last updated: 09-17-2024_
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
-     - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
+     - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
 - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
 - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
           - PM will open maintenance window in PagerDuty if needed
@@ -72,7 +72,6 @@ _last updated: 09-17-2024_
      - Copy PO (Patrick Bateman) and PMs (Alex Seelig and Heather Justice - VA emails only)
 - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
 - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
-- If the failures are found to originate outside the form, the team will open a Platform Support ticket
 
 ---
 
@@ -91,6 +90,7 @@ _last updated: 09-17-2024_
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
      - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
 - Communicate the mailer failure to the PO
 - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
@@ -131,8 +131,8 @@ _last updated: 09-17-2024_
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
      - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
-- Review the errors and VA.gov monitors to determine if the root cause is on the form or sitewide
 - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
 - Communicate the issue to the Product Owner
 - If any errors/failures are found within the form, the team will
