@@ -103,7 +103,7 @@
     - ✔️ ❗ 🟪 Request 508 Audits for All Applications
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to onboard our engineers to this feature & the Appts product**
-    - ❗ 🟦🟩 [[BE][FE] Evaluate the sample consult and determine if we will have access to all of the information ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92475)
+    - ✔️ ❗ 🟦🟩 [[BE][FE] Evaluate the sample consult and determine if we will have access to all of the information ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92475)
         - Added on 9/9; request by Stephen during the SOS
     - ✔️ 🟥 Conduct some KT for scope and expectations by 12/31 deadline (Ben)
     - ✔️ 🟦🟩 Conduct some KT and ticket creation party (Lee)
@@ -122,7 +122,7 @@
     - ✔️ 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)        
     - ✔️ 🟥 [[Spike] [Design] Review date and time page to ensure no changes need to be made](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/92021)
-    - 🟦🟩 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
+    - ✔️ 🟦🟩 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
     - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to determine if we have access to all appointment types & their data so that we can define the appt details pages**
