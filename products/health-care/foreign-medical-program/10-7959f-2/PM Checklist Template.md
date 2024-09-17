@@ -78,6 +78,7 @@
      - [ ] Create E2E use cases and document results
      - [ ] Obtain signoff from downstream system team
 - [ ] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
+     - [ ] [analytics ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92984)
 - [ ] Complete QA and Accessibility QA
      - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
      - [ ] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
