@@ -110,7 +110,7 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 - As an SM admin user, I need to efficiently *edit* triage groups with structured data fields, aligned to the new fields added above.
   
 - As a patient, when selecting a triage group to message, I want to see plain language identifiers (i.e. location, doctor name, and care type) so that I can quickly and confidently identify the right team to message.
-   - (in need of validation) The *order* of the information displayed should be: Location, Care Type, Doctor name, Team Name.
+   - (validated 9/16 based on research) The *order* of the information displayed should be: Location, Care Type, Team Name, Doctor name.
    - There should be no acronyms (aside from VA), specialized terminology, abbreviations, and symbols.
    - Capitalization follows standard style guide for VA content (no all caps) and should be sentence case.
    - The Select list with the new triage group names will be presented with the following rules:
