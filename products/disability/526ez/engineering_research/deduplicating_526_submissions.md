@@ -36,7 +36,7 @@ The following objects are required for our de-duplication process:
 
 The process can be described by the following steps:
 
-1. Pass a `user_uuid` into the Duplicate Set Builder. This uses the Submission Diff Report under the hood. It will return an array of "dupe sets." These dupe set arrays contain submission IDs grouped by sameness. Every submission in a dupe set is duplicate-type.
+1. Pass a `user_uuid` into the Duplicate Set Builder. This uses the Submission Diff Report under the hood. It will return an array of "dupe sets." These dupe set arrays contain submission IDs grouped by sameness. Every submission in a dupe set is duplicate-type relative to the other submissions in that set.
 
 2. Each dupe set can then be passed into the Time and Status Sorter. This applies rules about whether or not the submission is a duplicate of a successful submission and when a submission was created relative to the others in the dupe set. This step is necessary only if you plan on performing remediation and/or duplicate tagging on members of this dupe set. The rules applied here come from our Code Yellow de-duping for remediation and should be validated with OCTO before being applied in production.
 
