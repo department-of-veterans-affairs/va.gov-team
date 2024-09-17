@@ -39,4 +39,4 @@ Once we have received notice that MPI has recovered, the following steps should 
    1. Ensure authentication attempts originating from VA.gov are successful   
       1. Perform either an [SSOe](https://www.va.gov/?next=loginModal\&oauth=false) or [SiS](https://www.va.gov/?next=loginModal\&oauth=true) authentication with any credential service provider.  
       2. After successful authentication navigate to [api.va.gov/v0/user](http://api.va.gov/v0/user) and locate your `icn` to verify VA.gov is successfully connecting to MPI.
-4. State in the `#identity-support` channel that all MPI services have been restored and confirmed to be working. 
+4. State in the `#identity-support` channel that all MPI services have been restored and confirmed to be working as well as srp is complete
