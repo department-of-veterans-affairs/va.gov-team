@@ -43,7 +43,7 @@
         - **HARD DEADLINE IS OCT 1**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92521)
     - **Move to New AWS Instance**
-      - 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
+      - 🟨 [[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
       - 🟨 [[DevOps] Eric Oliver should be granted permissions to manage the Checkin-Devops GitHub App.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/522)
       - 🟨 [[DevOps] Move System Tests out of `checkin-devops` and into a separate repository, `cie-system-tests`](https://github.com/department-of-veterans-affairs/checkin-devops/issues/542)
       - 🟨 [[DevOps] Do all alarm messages link to the playbook?](https://github.com/department-of-veterans-affairs/checkin-devops/issues/392)
