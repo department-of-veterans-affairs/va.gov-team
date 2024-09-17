@@ -28,9 +28,9 @@ Our de-duplication starts with a Git-style "diff" between two or more submission
 
 The following objects are required for our de-duplication process:
 
-- [Submission Difference Report](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/submission_difference_report.rb) - creates a Git-style diff between submissions
-- [Duplicate Set Builder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/untouched_submission_audit/duplicate_set_builder.rb) - accepts the diff report and reduces it to an array of "duplicate sets"
-- [Time and Status Sorter](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/untouched_submission_audit/time_and_status_sorter.rb) - applies rules about what can be ignored
+- [Submission Difference Report](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/deduplication/submission_difference_report.rb) - creates a Git-style diff between submissions
+- [Duplicate Set Builder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/deduplication/duplicate_set_builder.rb) - accepts the diff report and reduces it to an array of "duplicate sets"
+- [Time and Status Sorter](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/deduplication/time_and_status_sorter.rb) - applies rules about what can be ignored
 
 ### In Theory
 
