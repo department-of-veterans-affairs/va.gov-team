@@ -12,7 +12,7 @@ In case of a DDOS attack or inaprropriate use of the VA Chatbot, disable the `vi
 - Product Owner (OCTO-DE): Luciana Morais
 - Tech Lead: Karan Krishnani
 - Project Manager: Zinal Patel
-- Product Manager: Joy Elizabeth
+- Product Manager: Vrushali Patil
 - Quality Analyst: Swapna Krishnankutty
 - Business Analyst: Kathy Cui
 - UX Designer: Matt Terwilliger
