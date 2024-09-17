@@ -55,9 +55,8 @@ Today we're going to talk about the application for the **Program of Comprehensi
 
 Before we look at the caregiver program online form, let’s start with a few warm-up questions about your [caregiver/Veteran] application experience.
 
-- Have you ever applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) before?
+- Ca you confirm that you have/have not applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) in the past?
     - If no: [Skip ahead to not enrolled interview questions]
-
 
 
 ##### If yes, Questions:
@@ -100,7 +99,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared and
 
 
 
-## Second Task: [Veteran inforamtion] - 5 minutes
+## Second Task: [Veteran information] - 5 minutes
 - Now start the application as if you were applying.
 - This is our staging site for testing purposes so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive items such as your social or birth date that you don't want to share {and I will provide you some information to enter.}
 - As you go through the form please remember to think aloud. We want to hear about any reactions you're having.
@@ -117,8 +116,9 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared and
 
 - Please keep thinking aloud as you complete this question.
 - How would you prefer to search for VA facilities?
-- Why do you think facility choice is part of the caregiver application process?
-- Let's imagine you want to change the facility you have selected - maybe because you're moving soon - by doing a new search. Can you walk me through how you would accomplish that?
+- If you wanted to change the facility you selected by doing a new search, can you walk me through how you would accomplish that?
+- Okay you can proceed to the next page (have them advance to the facility confirmation page).
+- Talk me through this (facility selection) - What are your thoughts about that?
 
 
 **Participant ratings:**
