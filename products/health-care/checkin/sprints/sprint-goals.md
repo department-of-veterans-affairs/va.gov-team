@@ -46,6 +46,10 @@
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to advance the FE and BE work as much as possible**
+    - ⛔ WAITING ON SCOPE DECISIONS:
+        - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
+        - Send messages to Melanie for review and Privacy Officer        
+    - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
     - 🟩 [[FE] Referral Review - update design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
     - 🟩 [[FE] Choose a date & Time - design update ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92483)
     - 🟩 [[FE] Redux state tracking for appointments-cc flow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92490)
@@ -126,13 +130,12 @@
     - 🚧 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)        
     - ✔️ 🟥 [[Spike] [Design] Review date and time page to ensure no changes need to be made](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/92021)
     - ✔️ 🟦🟩 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
-    - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
+    - 🚧 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
 - **Upcoming VAOS Appointments**
     - **Sprint Goal is to determine if we have access to all appointment types & their data so that we can define the appt details pages**
     - 🟦 [[BE] Modify Appointment Serializer for finding appointment types in Upcoming appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91993)
         - Added by Kanchana on 9/10
     - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
-    - 🟦 [[BE] Modify Appointment Serializer for finding appointment types in Upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91993)
     - ⛔ 🟥 ~[Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)~
          - Waiting for Appts Team to make content updates
          - Moved out of sprint and placed in backlog
