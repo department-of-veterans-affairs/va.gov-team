@@ -10,7 +10,8 @@ Goal of the meeting series: addressing policy related or other open questions fo
 2. Ruben: Continue the discussion for 4142:
    * How private medical facilities are notified
    * How requests to limit consent are handled
-   * How is it done today when using the paper form that allows them to enter more than, but not submit them separately? 
+   * How is it done today when using the paper form that allows them to enter more than, but not submit them separately?
+3. Jina: does VBA have a new file type for display in VBMS for the new form? (0781) 
 
 ## 9/3/24 Biweekly VBA-DBEX Check-in
 ### In attendance
