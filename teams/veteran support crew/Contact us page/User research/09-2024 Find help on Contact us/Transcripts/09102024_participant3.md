@@ -122,7 +122,7 @@ Becky: All right, great. Yeah, you can go back to the the contact us page now an
 
 > P3: OK, so you know, a lot of people don't scroll as far as I do. So starting at the top, that would be the first place I would go.
 
-> P3: Chat box are not my favorite thing. So I'd much rather wait for an e-mail to come back and calling us is well, it's the VA.
+> P3: Chat bots are not my favorite thing. So I'd much rather wait for an e-mail to come back and calling us is well, it's the VA.
 
 > P3: So it's ridiculous to call the VA unless you have like half a day.
 
@@ -292,7 +292,7 @@ Becky: I guess I'm just wondering, you know, as opposed to a phone number or lik
 
 Becky: And so on the Contact Us page and if you scroll all the way to the top, oh wait, you're on right now. If you go down to the FAQ section again, I'm curious what you think the words resources and support means. Like what, what do you think? What do you think you're going to get out of resources and support?
 
-> P3: Resources would be other resources that are not affiliated with the VA, but the VP, you know, puts them out there because they're they're real and legit resources.
+> P3: Resources would be other resources that are not affiliated with the VA, but the VA, you know, puts them out there because they're they're real and legit resources.
 
 > P3: And then there's, I see the step by step guides, but I don't know what that would be.
 
