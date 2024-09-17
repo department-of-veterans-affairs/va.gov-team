@@ -52,7 +52,7 @@
     - 🟩 [[FE] Appointment List - Update design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92480)
     - 🟩 [[FE] Create flow pattern structure for referrals ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)
     - 🟥 [[Design] Update Community Care VSS after consult approval workflow (Mural) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88886)
-    - 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
+    - ✔️ 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
     - 🟥 [[Design] Add content to confirmation page about how to cancel appt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92733)
     - 🟥 [Add urls to MVP scope page in Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92776)
     - 🟦 Tickets for connecting to Vista for consult data............... LEE
