@@ -43,7 +43,7 @@
         - **HARD DEADLINE IS OCT 1**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92521)
     - **Move to New AWS Instance**
-      - TBD
+      - 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to advance the FE and BE work as much as possible**
     - ⛔ WAITING ON SCOPE DECISIONS:
@@ -98,7 +98,7 @@
         - ✔️ 🟨[[DevOps] Remove/Delete 'vaec-cms' RDS Database registrytestdb](https://github.com/department-of-veterans-affairs/checkin-devops/issues/546)
         - ✔️ 🟨[[DevOps] Discovery on Vista-API System Verification Tests](https://github.com/department-of-veterans-affairs/checkin-devops/issues/585)
         - ✔️ 🟨[[DevOps] Discovery on CW, VSECS/CSV, and Staging Scheduler Usage of Vista-API](https://github.com/department-of-veterans-affairs/checkin-devops/issues/586)
-        - 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
+        - 🚧 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
         - ✔️ 🟨 [[DevOps] Review CIE System Controls With Missing Artifact List](https://github.com/department-of-veterans-affairs/checkin-devops/issues/325)
         - ✔️ 🟨 Week 31 of Onboarding [Confluence](https://github.com/department-of-veterans-affairs/checkin-devops/issues/571) [PagerDuty](https://github.com/department-of-veterans-affairs/checkin-devops/issues/395)
         - ✔️ 🟨 [[DevOps] Postmortem on CHIP refreshAppointments <-> LoROTA PATCH bug](https://github.com/department-of-veterans-affairs/checkin-devops/issues/498)
@@ -126,7 +126,7 @@
         - 🚧 🟥 Send messages to Melanie for review and Privacy Officer
           - Waiting for VA Notify kick off to happen first  
       - ✔️ ❗ Create new design tickets when scope decisions have been made
-    - ✔️ 🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)
+    - ~🟥 [[Design] Add cancel steps into Community Care VSS after consult approval workflow (Mural)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88898)~
     - 🚧 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)        
     - ✔️ 🟥 [[Spike] [Design] Review date and time page to ensure no changes need to be made](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/92021)
     - ✔️ 🟦🟩 [[SPIKE] How are we going to set up a database to store referral IDs?](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91911)
@@ -135,7 +135,7 @@
     - **Sprint Goal is to determine if we have access to all appointment types & their data so that we can define the appt details pages**
     - 🟦 [[BE] Modify Appointment Serializer for finding appointment types in Upcoming appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91993)
         - Added by Kanchana on 9/10
-    - 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
+    - ✔️ 🟦 [[BE] SPIKE - get examples of appointment modalities in a a stage payload and map the expected values](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90911)
     - ⛔ 🟥 ~[Midpoint Review - Content Feedback - Unified Appointment Experience, Patient Check In, Add Upcoming Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89765)~
          - Waiting for Appts Team to make content updates
          - Moved out of sprint and placed in backlog
