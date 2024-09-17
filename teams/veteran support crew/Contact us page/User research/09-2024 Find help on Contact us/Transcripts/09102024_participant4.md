@@ -221,7 +221,7 @@ Becky: OK. Yeah, And as you're scrolling down, what are you skimming for here ri
 
 Becky: Yes, yes, I'm a fellow [location]. So I, I always have to do the time zone math too.
 
-> P4: Yeah, yeah, I have I have to, I, I have to translate that because you're [number] hours ahead where if you're on the East Coast, you're 4 hours ahead of ahead of me.
+> P4: Yeah, yeah, I have I have to, I, I have to translate that because you're [number] hours ahead where if you're on the East Coast, you're [number] hours ahead of ahead of me.
 
 > P4: And because it's it's only 12:04 now.
 
