@@ -88,7 +88,6 @@
     - **Move to New AWS Instance**
         - ✔️ 🟨[[DevOps] Eric Oliver needs access to veterans-affairs PagerDuty.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/434)
         - ✔️ 🟨[[DevOps] Remove/Delete 'vaec-cms' RDS Database registrytestdb](https://github.com/department-of-veterans-affairs/checkin-devops/issues/546)
-        - 🟨[[DevOps] Create terraform_dsva Terragrunt configuration in checkin-devops.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/462)
         - ✔️ 🟨[[DevOps] Discovery on Vista-API System Verification Tests](https://github.com/department-of-veterans-affairs/checkin-devops/issues/585)
         - 🟨[[DevOps] Discovery on CW, VSECS/CSV, and Staging Scheduler Usage of Vista-API](https://github.com/department-of-veterans-affairs/checkin-devops/issues/586)
         - 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
@@ -107,6 +106,10 @@
         - ✔️ 🟨 [[DevOps] Setup basic APM tracing in LoROTA](https://github.com/department-of-veterans-affairs/checkin-devops/issues/589)
         - ✔️ 🟨 [[DevOps] Improve Datadog instrumentation of System Tests](https://github.com/department-of-veterans-affairs/checkin-devops/issues/591)
         - ✔️ 🟨 [[DevOps] Remove AWS service account credentials from CHIP repository.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/374)
+        - ✔️ 🟨 [[DevOps] Create `cie-dsva-iac` repository for `dsvagovcloud` Infrastructure-as-Code.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/462)
+        - ✔️ 🟨 [[DevOps] Configure VeTEXT Datadog to assume IAM role.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/406)
+        - ✔️ 🟨 [[DevOps] Fix PagerDuty rotation](https://github.com/department-of-veterans-affairs/checkin-devops/issues/395)
+        - ✔️ 🟨 [[DevOps] Review Intake Request Document for VA Profile and determine what information we need to provide for it.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/577)
 - **508 Audit**
     - ✔️ ❗ 🟪 Request 508 Audits for All Applications
 - **Community Care Direct Scheduling**
