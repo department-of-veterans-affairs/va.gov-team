@@ -34,11 +34,11 @@
 
 **Mobile onboarding - Fedback from Juan**
 - What went well:
- -  
- - - 
+  -  
+  - 
 - Improvement opportunities:
-- - 
-- -
+  - 
+  -
 
 
 
