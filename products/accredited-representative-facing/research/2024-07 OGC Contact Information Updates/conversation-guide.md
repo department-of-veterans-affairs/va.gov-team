@@ -4,7 +4,7 @@ Jump to…
 
 [Moderator logistics](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.npbg9srt3e6w)[VSO Certifying Officials](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.1qygtkrjjosw)
 
-[Concept testing.](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.6bnq2ogd7da3)
+[Concept testing](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.6bnq2ogd7da3)
 
 [Accredited Attorneys and Claims Agents](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.koasnmiq928x)
 
