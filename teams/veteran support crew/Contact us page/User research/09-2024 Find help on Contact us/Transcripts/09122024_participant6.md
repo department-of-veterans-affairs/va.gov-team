@@ -20,7 +20,7 @@ Becky: Yeah, that's very impressive. Remembering exact exact year dates. I know 
 
 Bcky: Yeah, that's awesome.
 
-> P6: And, and in your time as a veteran, have you ever used the Contact us page on v.gov or, or maybe reached out to VA for customer support, anything like that?
+> P6: And, and in your time as a veteran, have you ever used the Contact us page on VA.gov or, or maybe reached out to VA for customer support, anything like that?
 
 > P6: I have. And sometimes I get frustrated because I'm either not finding what I need or I'm not. Maybe I'm not asking in the right way. So I'm not sure if it's the program or it's me. 
 
