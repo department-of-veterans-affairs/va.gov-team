@@ -6,7 +6,7 @@ Our team is ready to start our research efforts on the Burial Benefits form. We 
 For this research study, we’d like to better understand VSOs' and claimants’ mental models of the Burial Benefits form (by proxy), what provides clarity, and what creates blockers, such as dropoff and delays in the application process.      
 
 
-[Link to product brief]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md)).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md)
 
 ### OCTO Priorities 
 
