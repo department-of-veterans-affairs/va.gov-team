@@ -102,7 +102,8 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 ### User stories
 
 #### Admin user
-- As an SM admin user, I need to efficiently *create* triage groups with the structured data fields that enable a plain language, standardized patient experience. The following will be new fields:
+- As an SM admin user, I need to efficiently *create* triage groups with the structured data fields that enable a plain language, standardized patient experience.
+- The following will be new fields:
     -   Location (also sometimes known as division name). This will associate a Medical Center or Clinic (CBOC). [Location will come from the same source](https://www.va.gov/data/cms/vamc-system.json) that the VA.gov public site uses for unauthenticated experience. For example, [see the Boston VA locations listed on VA.gov](https://www.va.gov/boston-health-care/locations/).
     -   Note: sometimes a location will need to operate as a *systemwide* location (e.g. VA Boston) vs. at a certain location (e.g. Jamaica Plain Medical Center). A user will select "healthcare system wide" option from the dropdown under Location to designate this.
     -   Group type (i.e. primary care) and when relevant subgroup types that will cascade upon selection of group type. [See proposed group type/subgroup times documented here on VA Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/Triage%20Group%20Naming/2024.07.29%20-%20MVP%20triage%20group%20types%20and%20subgroups.xlsx?d=w9b8985d58e0b482cb370bb8240060d65&csf=1&web=1&e=1DraJN).
