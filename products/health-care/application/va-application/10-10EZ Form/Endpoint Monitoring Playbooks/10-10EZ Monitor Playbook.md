@@ -1,5 +1,5 @@
 # 10-10EZ Endpoint Monitoring Playbook
-_last updated: date_  
+_last updated: 09-17-2024_  
 
 ## Audience 
 - Team members responding to [Datadog monitor alerts](https://vagov.ddog-gov.com/monitors/manage?q=1010ez&order=desc).
