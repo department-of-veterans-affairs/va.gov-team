@@ -34,9 +34,6 @@
         - It is closed, what, if anything, do we need to do on our end?
 </details>
 
-<details>
-<summary>SPRINT 16 - 9/18/2024-10/1/2024 FUTURE TENTATIVE</summary>
-
 ## SPRINT 16 - 9/18/2024-10/1/2024
 - **Production Support**
     - ❗❗❗❗❗ 🟦[Complete Silent Failure Checklist for ALL Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92903) ❗❗❗❗❗
@@ -73,7 +70,8 @@
    - **Sprint Goal is to tweak content based on Staging Review**
    - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)
    - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
-   - Need a ticket for SMS content when Facility not allowed
+   - 🟥 [[UX] Determine text to use for clinics not in the standalone app pilot](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93050)
+   - Need 4 points from Gaurav's new tickets....
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Hold kick-off with Perigean and monitor incoming study data in Optimal Workshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92901)
 - **CIE Analytics**
