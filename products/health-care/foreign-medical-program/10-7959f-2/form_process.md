@@ -130,7 +130,6 @@
       - Authenticated Test user Log ins
       - [Staging URL](https://staging.va.gov/health-care/foreign-medical-program/file-claim-form-10-7959f-2)
       - Document Page URL, interactions [Example](https://docs.google.com/spreadsheets/d/1krS0RLSjrT6VGmYk1sNF3GlypOSkXh9kJGKoCqUaFy4/edit#gid=0)
-- **Create a DOMO Dashboard Reuest** [KPI DOMO Dashboard request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban&labels=analytics-insights%2C+analytics-request%2C+kpi-dashboard&template=analytics-request-kpi-dashboard.md&title=Analytics+KPI+dashboard+request+for+%5BTeam%5D)
 
 </details>
 
