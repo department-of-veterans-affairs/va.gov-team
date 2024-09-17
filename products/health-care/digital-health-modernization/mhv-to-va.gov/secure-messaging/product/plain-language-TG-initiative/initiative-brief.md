@@ -100,6 +100,8 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 - On VA.gov/VAHB, introduce [combo box component from USWDS](https://designsystem.digital.gov/components/combo-box/) to combine select with typehead to make improved names even quicker to find. Note: this is a new component that needs to be introduced with VADS team to jumpstart that process
 
 ### User stories
+
+#### Admin user
 - As an SM admin user, I need to efficiently *create* triage groups with the structured data fields that enable a plain language, standardized patient experience. The following will be new fields:
     -   Location (also sometimes known as division name). This will associate a Medical Center or Clinic (CBOC). [Location will come from the same source](https://www.va.gov/data/cms/vamc-system.json) that the VA.gov public site uses for unauthenticated experience. For example, [see the Boston VA locations listed on VA.gov](https://www.va.gov/boston-health-care/locations/).
     -   Note: sometimes a location will need to operate as a *systemwide* location (e.g. VA Boston) vs. at a certain location (e.g. Jamaica Plain Medical Center). A user will select "healthcare system wide" option from the dropdown under Location to designate this.
@@ -109,7 +111,9 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
       - For the admin user, we will need to include the DUZ number in the DXP Admin lead provider dropdown. This will not be included in the patient-facing requiredDisplay but it is only to assist the admin user in selecting the right provider.
     -   Note: only Location and Group type will be mandatory; team name & provider name will remain optional
 - As an SM admin user, I need to efficiently *edit* triage groups with structured data fields, aligned to the new fields added above.
-  
+- Update 9/17: A note on technical implementation in the above- there will be a computed attribute "requiredDisplay" returned to front-end clients for all human facing instances of the new triage group name (e.g. patient users on VAHB, patient users on VA.gov, clincian users on SM Clincian, admin users on SM Admin). These clients should use the "requiredDisplay" which will be concatenated from the individual need data fields. The legacy "name" attribute will contain the triage group names and will be used to ensure backwards compatability with the VSSC tool in the short term.
+
+#### Patient user
 - As a patient, when selecting a triage group to message, I want to see plain language identifiers (i.e. location, doctor name, and care type) so that I can quickly and confidently identify the right team to message.
    - (validated 9/16 based on research) The *order* of the information displayed should be: Location, Care Type, Team Name, Doctor name.
    - There should be no acronyms (aside from VA), specialized terminology, abbreviations, and symbols.
