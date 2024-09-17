@@ -11,12 +11,15 @@ _last updated: 09-17-2024_
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
 - [DSVA Slack](dsva.slack.com)
+     - #1010-health-apps channel
+     - #health-tools-1010-apm channel
+     - #vfs-platform-support channel
 - [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
      - [SOCKS access](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy) required 
 
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
-- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - The team member will determine if there have been any failures that is causing the low volume of submissions, requesting assistance from other team members as needed
      - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
 - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
@@ -33,6 +36,9 @@ _last updated: 09-17-2024_
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
 - [DSVA Slack](dsva.slack.com)
+     - #1010-health-apps channel
+     - #health-tools-1010-apm channel
+     - #vfs-platform-support channel
 - SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
@@ -51,7 +57,7 @@ _last updated: 09-17-2024_
 
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
-- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
      - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
 - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
@@ -74,11 +80,14 @@ _last updated: 09-17-2024_
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
 - [DSVA Slack](dsva.slack.com)
+     - #1010-health-apps channel
+     - #health-tools-1010-apm channel
+     - #vfs-platform-support channel
 - SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
-- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
      - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
 - Communicate the mailer failure to the PO
 - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
@@ -93,6 +102,9 @@ _last updated: 09-17-2024_
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
 - [DSVA Slack](dsva.slack.com)
+     - #1010-health-apps channel
+     - #health-tools-1010-apm channel
+     - #vfs-platform-support channel
 - SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
@@ -108,11 +120,14 @@ _last updated: 09-17-2024_
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
 - [DSVA Slack](dsva.slack.com)
+     - #1010-health-apps channel
+     - #health-tools-1010-apm channel
+     - #vfs-platform-support channel
 - SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
-- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
      - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
 - Review the errors and VA.gov monitors to determine if the root cause is on the form or sitewide
 - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
@@ -129,6 +144,9 @@ _last updated: 09-17-2024_
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
 - [DSVA Slack](dsva.slack.com)
+     - #1010-health-apps channel
+     - #health-tools-1010-apm channel
+     - #vfs-platform-support channel
 - SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
