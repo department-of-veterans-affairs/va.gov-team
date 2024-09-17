@@ -123,9 +123,11 @@ The tests will be conducted online at the participant’s leisure.
 
 Availability:
 - **Wednesday, September 18**
-  - Available between 12-1:30 EST
+  - Available between 12:30-1:30 EST
 - **Thursday, September 19**
-  - Available between 12-12:30 EST or 2-4 EST
+  - Available between 12-12:30 EST or 1:30-5 EST
+- (If needed) **Monday, September 23**
+  - Available between 12-1 EST or 3-4 EST
 
 
 ### Start date
