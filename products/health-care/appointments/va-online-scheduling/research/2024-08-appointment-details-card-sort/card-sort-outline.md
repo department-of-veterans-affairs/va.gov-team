@@ -54,9 +54,9 @@ Imagine you have an upcoming video appointment with your primary care provider. 
 - Check in now
 - Join your video appointment
 - Complete questionnaires 
-- Print
+- Print appointment information
 - Add to calendar
-- Cancel
+- Cancel appointment
 - You completed pre-check-in 
 - You checked in 
 - You completed your questionnaires
@@ -107,7 +107,7 @@ When you're done select "Finished" at the top right.
 - File for travel reimbursement
 - Review your after-visit summary
 - Review or complete a clinical order
-- Print
+- Print appointment information
 - You filed your travel reimbursement claim for this appointment 
 - Review the travel reimbursement claim you filed
 - You completed a clinical order
