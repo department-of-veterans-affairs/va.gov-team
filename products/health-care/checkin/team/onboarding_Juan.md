@@ -1,4 +1,6 @@
-**Questions**
+
+
+## Questions
 - Who is Juan's mentor on the mobile side? Tim
 - Will Juan join agile ceremonies of the mobile team? yes in first few weeks of onboarding, so that he is in sync with the mobile team, and mentor. Juan will be attending UAE ceremonies selectively
 - Discuss collaboration with the UAE team: intent, tickets, tracking the work
@@ -14,7 +16,7 @@
 
 @juancstlm-a6 
 
-**Access VA Github Org** 
+## Access VA Github Org
 - [New VFS Team Member - Juan Castillo](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90722)
 - [add to VA org](https://github.com/department-of-veterans-affairs/github-user-requests/issues/23668)
 - invite for slack - sent (see slack-infomration)
@@ -23,17 +25,16 @@
 - Requested Stephen to add Juan to PCI git repo
 - requested Zenhub access via vfs-platform-support  /support
 
-[**Onboarding Checklist ticket**](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=timwright12&labels=onboarding&projects=&template=onboarding-request-engineering.yml&title=Onboarding%3A+%5Bname%5D)
+- [**Onboarding Checklist ticket**](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=timwright12&labels=onboarding&projects=&template=onboarding-request-engineering.yml&title=Onboarding%3A+%5Bname%5D)
 [Juan's ticket](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9575)
 
-**Learning tickets (Focused on process)**
+## Parctice tickets (Focused on process)
 - Tickets can be found [here](https://github.com/department-of-veterans-affairs/va-mobile-app/labels/Good%20first%20issue)
 
-**UAE Learning tickets (Focused on code and process)**
+## UAE Learning tickets (Focused on code and process)
 - [Change request:Medication wording for Appointments](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9373)
 
-
-**Mobile onboarding - Fedback from Juan**
+## Mobile onboarding - Fedback from Juan
 - What went well:
    -  
    -
