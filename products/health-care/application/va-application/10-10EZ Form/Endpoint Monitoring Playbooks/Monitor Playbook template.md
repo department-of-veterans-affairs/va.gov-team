@@ -19,13 +19,13 @@ _last updated: date_
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - The team member will determine if there have been any failures that is causing the low volume of submissions, requesting assistance from other team members as needed
      - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
 - If any errors/failures are found within the form, the team will
      - [PM] Communicate the issue to the Product Owner
      - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
           - PM will open maintenance window in PagerDuty if needed
      - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
      - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
-- If the failures are found to originate outside the form, the team will open a Platform Support ticket.
 
 ## Slack & Email Alert: "Recovered: 1010EZ anomaly monitor"
 - The volume of submissions has reached at or above 25 submissions over the last 12 hours
@@ -52,7 +52,9 @@ _last updated: date_
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+     - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
+- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
 - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
           - PM will open maintenance window in PagerDuty if needed
 - Obtain Veteran contact information (Name, Phone number, Email address)
@@ -77,12 +79,13 @@ _last updated: date_
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+     - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+- Communicate the mailer failure to the PO
+- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
 - Obtain Veteran contact information (Name, Phone number, Email address)
 - Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
      - Explain what has happened (submission failure) and provide the Veteran contact info.
      - Copy PO (Patrick Bateman) and PMs (Alex Seelig and Heather Justice - VA emails only)
-- Communicate the mailer failure to the PO
-- The team will open a Platform Support ticket and work with them to triage the issue
 
 ## Slack & Email Alert: "Recovered: 1010EZ submission alert for failed mailer"
 - There have not been any further failures on the mailer service in the last 4 hours.
@@ -110,14 +113,15 @@ _last updated: date_
 ### Steps
 - Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #1010-health-apps-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+     - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
 - Review the errors and VA.gov monitors to determine if the root cause is on the form or sitewide
+- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
 - Communicate the issue to the Product Owner
 - If any errors/failures are found within the form, the team will
      - Determine if a maintenance banner needs to be in place to stop further failures
           - PM will open maintenance window in PagerDuty if needed
      - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
      - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
-- If the failures originate outside the form, the team will open a Platform Support ticket
 
 ## Slack & Email Alert: "Recovered: 1010EZ controller error rate is above 5%"
 - Errors being captured are now below 5% of total submissions over the last 4 hours
