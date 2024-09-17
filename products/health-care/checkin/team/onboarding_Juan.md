@@ -14,9 +14,9 @@
   - Note: tickets need to be verified/validated by the mobile QA Team (function testing, QA team signs off on the ticket before merges)
 - **Per Kristen**: The plan is to implement a collab cycle in the future for mobile.
 
-@juancstlm-a6 
 
-## Access VA Github Org
+
+## Access VA Github Org (@juancstlm-a6) 
 - ✅ [New VFS Team Member - Juan Castillo](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90722)
 - ✅ [Add to VA org](https://github.com/department-of-veterans-affairs/github-user-requests/issues/23668)
 - ✅ [Submit Slack access request ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92757)
