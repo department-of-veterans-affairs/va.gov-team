@@ -410,10 +410,12 @@ While we didn’t identify specific individuals or organizations to pilot with, 
 ## Recommendations for ARP pilot
 
 ### 1. Adjust the unauthenticated homepage to align with user feedback.
-We recommend proceeding with [Homepage 4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=GgE0LX3xENrrjTv0-1), with key changes:
-- Shift headings to black text (as used in [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=GgE0LX3xENrrjTv0-1)) to improve readability.
-- Reconcile and avoid poor color contrast
-- Improve content strategy to make it more clear who the portal is for and that it is not intended for Veterans.
+We recommend proceeding with [Homepage 4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=GgE0LX3xENrrjTv0-1), which has some key changes:
+- Shifted headings to black text (as used in [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=GgE0LX3xENrrjTv0-1)) to improve readability.
+- Removed poor color contrast
+
+Continue to:
+- Explore improvements to content strategy to make it more clear who the portal is for and that it is not intended for Veterans.
 - Maintain VA branding and continue with clean, simple design that representatives prefer.
 
 ### 2. Refine the POA request list and search/filter UI.
