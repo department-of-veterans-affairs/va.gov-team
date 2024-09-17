@@ -153,7 +153,7 @@
 - **Research Cards & Their Headers**
     - **Sprint Goal is to create the card sort study, address feedback, and submit**
     - ✔️ 🟥 [Create Optimal Workshop Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91617)
-    - 🟥 [Submit Research Materials to Research Ops ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91618)
+    - ✔️ 🟥 [Submit Research Materials to Research Ops ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91618)
 - **Check in with staff after checking in**
     - ✔️ 🟥 Scheduke kickoff meeting with Sam (SPL)
     - ✔️ 🟥 [Flesh out initiative brief after meeting with Sam](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92882)
