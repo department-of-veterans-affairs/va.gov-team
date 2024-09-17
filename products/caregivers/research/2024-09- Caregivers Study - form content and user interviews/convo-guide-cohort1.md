@@ -1,4 +1,4 @@
-# Conversation Guide 
+# Conversation Guide - Cohort 1
 
 ## Moderator logistics
 ### 2-3 days before the session
