@@ -22,7 +22,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 - **Why do you think the problem is occurring? Other reasons why this might be occurring?**
   - Clinical staff and MSA's don't understand PCI and/or know how to use VSE-GUI and VSE-CS to review a patient's check in status and understand that although checked in, they might not be in the clinic waiting room
   - Clinics aren't mandated to use PCI by VHA
-  - No centralized, reliable, patient friendly data source for clinic name and physical location to provide to Veterans
+  - No consistently governed patient friendly data source for clinic name and physical location across VistA instances and VISNs to provide to Veterans
 - **How does this initiative help further OCTO-DE's mission and goals?**
   - Veterans can manage their health services online
   - Logged-in users have a personalized experience, with relevant and time-saving features
