@@ -145,9 +145,10 @@ _last updated: 09-17-2024_
 
 ---
 
-# Monitor: 
-## Slack & Email Alert: 
-- ...
+# Monitor: 1010CG Non-submission controller error rate is above 10%
+## Slack & Email Alert: "Triggered 1010CG Non-submission controller error rate is above 10%"
+- Errors being captured are above 10% of total submissions over the last 2 hours
+- These errors are not submission errors, but all other errors that could occur including validation, timeouts, etc
 
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
@@ -159,5 +160,14 @@ _last updated: 09-17-2024_
 - SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
-- ...
+- Alerts must be addressed timely.  During working hours, the alerts must be addressed as priority over other work.
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- Investigate the failure to determine root cause
+     - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+- Communicate on the #vecms-carma_vadotgov_development_external Slack channel to inform the CG Stakeholders and continue to update progress
+- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+- Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
+     - PM will open maintenance window in PagerDuty if needed
+- Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
+- Continue communications on triage progress, fix implementation timelines, and any other pertinent details
 
