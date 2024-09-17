@@ -6,7 +6,7 @@ Jump to…
 
 - [VSO Certifying Officials](#vso-certifying-officials)
 
-- [Accredited Attorneys and Claims Agents](#accredited-attorneys-and-claiims-agents)
+- [Accredited Attorneys and Claims Agents](#accredited-attorneys-and-claims-agents)
 
 - [Emergency Exit](#emergency-exit)
 
