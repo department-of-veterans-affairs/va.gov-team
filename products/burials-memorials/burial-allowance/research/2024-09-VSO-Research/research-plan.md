@@ -65,7 +65,7 @@ Remote Teams meeting
 
 ### Research materials
 For moderated interviews:
-- [Link to conversation guide](url goes here) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/research/2024-09-VSO-Research/conversation-guide.md) 
 	
 ## Recruitment	
 
