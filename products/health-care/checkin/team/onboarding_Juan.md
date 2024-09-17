@@ -25,7 +25,7 @@
 - ✅ Request Zenhub access via vfs-platform-support  /support
 - ✅ [Submit Juan's mobile onboarding ticket](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9575) [**Reference: Onboarding Checklist ticket**](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=timwright12&labels=onboarding&projects=&template=onboarding-request-engineering.yml&title=Onboarding%3A+%5Bname%5D)
 
-## Parctice tickets (Focused on process)
+## Practice tickets (Focused on process)
 - Tickets can be found [here](https://github.com/department-of-veterans-affairs/va-mobile-app/labels/Good%20first%20issue)
 
 ## UAE Learning tickets (Focused on code and process)
