@@ -57,47 +57,47 @@ The tests will be conducted online at the participant’s leisure.
 - All must have a computer or mobile device and are willing to use it to complete the activity. 
 - All must have used the Appointments tool on VA.gov to manage, review, or schedule their VA medical appointments at least once in the past 6 months. 
 
-**Cohort 1: 10 Veterans age 18–24**
-- Group A (5 participants age 18–24)
-  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
-- Group B (5 participants age 18–24)
-  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct)
+**Cohort A: 10 Veterans age 18–24**
+- Group 1 (5 participants age 18–24)
+  - [Link for Cohort A/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=a)
+- Group 2 (5 participants age 18–24)
+  - [Link for Cohort A/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=a)
 
-**Cohort 2: 10 Veterans age 25–34**
-- Group A (5 participants age 25–34)
-  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j) 
-- Group B (5 participants age 25–34)
-  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct)
+**Cohort B: 10 Veterans age 25–34**
+- Group 1 (5 participants age 25–34)
+  - [Link for Cohort B/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=b) 
+- Group 2 (5 participants age 25–34)
+  - [Link for Cohort B/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=b)
 
-**Cohort 3: 10 Veterans age 35–44**
-- Group A (5 participants age 35–44)
-  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j) 
-- Group B (5 participants age 35–44)
-  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct) 
+**Cohort C: 10 Veterans age 35–44**
+- Group 1 (5 participants age 35–44)
+  - [Link for Cohort C/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=c) 
+- Group 2 (5 participants age 35–44)
+  - [Link for Cohort C/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=c) 
 
-**Cohort 4: 10 Veterans age 45–54**
-- Group A (5 participants age 45–54)
-  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
-- Group B (5 participants age 45–54)
-  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct) 
+**Cohort D: 10 Veterans age 45–54**
+- Group 1 (5 participants age 45–54)
+  - [Link for Cohort D/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=d)
+- Group 2 (5 participants age 45–54)
+  - [Link for Cohort D/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=d) 
 
-**Cohort 5: 10 Veterans age 55–64**
-- Group A (5 participants age 55–64)
-  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
-- Group B (5 participants age 55–64)
-  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct) 
+**Cohort E: 10 Veterans age 55–64**
+- Group 1 (5 participants age 55–64)
+  - [Link for Cohort E/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=e)
+- Group 2 (5 participants age 55–64)
+  - [Link for Cohort E/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=e) 
 
-**Cohort 6: 10 Veterans age 65–74**
-- Group A (5 participants age 65–74)
-  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
-- Group B (5 participants age 65–74)
-  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct) 
+**Cohort F: 10 Veterans age 65–74**
+- Group 1 (5 participants age 65–74)
+  - [Link for Cohort F/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=f)
+- Group 2 (5 participants age 65–74)
+  - [Link for Cohort F/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=f) 
 
-**Cohort 7: 10 Veterans age 75 +**
-- Group A (5 participants age 75 +)
-  - [Group A link](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j)
-- Group B (5 participants age 75 +)
-  - [Group B link](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct)
+**Cohort G: 10 Veterans age 75 +**
+- Group 1 (5 participants age 75 +)
+  - [Link for Cohort G/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=g)
+- Group 2 (5 participants age 75 +)
+  - [Link for Cohort G/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=g)
 
 ### Secondary criteria (must-haves)
 - At least 30 women
