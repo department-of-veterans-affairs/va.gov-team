@@ -53,6 +53,9 @@ _last updated: 09-17-2024_
 ### Required access
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
 - [DSVA Slack](dsva.slack.com)
+     - #1010-health-apps channel
+     - #health-tools-1010-apm channel
+     - #vfs-platform-support channel
 - SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
