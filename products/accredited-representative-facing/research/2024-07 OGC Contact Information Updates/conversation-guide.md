@@ -4,13 +4,11 @@ Jump to…
 
 - [Moderator logistics](#moderator-logistics)
 
-- [VSO Certifying Officials](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.1qygtkrjjosw)
+- [VSO Certifying Officials](#vso-certifying-officials)
 
-- [Concept testing](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.6bnq2ogd7da3)
+- [Accredited Attorneys and Claims Agents](#accredited-attorneys-and-claiims-agents)
 
-- [Accredited Attorneys and Claims Agents](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.koasnmiq928x)
-
-- [Emergency Exit](https://docs.google.com/document/d/1MOwH_ClErcZ_AQb1hb7FJ71-oERcS2zsxT6LYJdDPhY/edit#heading=h.3gff8nskbas7)
+- [Emergency Exit](#emergency-exit)
 
 ## Moderator logistics
 
