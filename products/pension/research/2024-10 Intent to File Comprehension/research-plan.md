@@ -1,4 +1,4 @@
-# **Research Plan for Pension Benefits, Intent to File Comprehension, September 2024**
+# **Research Plan for Pension Benefits, Intent to File Comprehension, October 2024**
 
 ## **Background**
 
@@ -152,9 +152,9 @@ Screener Questions:
 
 ### **Research sessions**
 
-Planned dates of research: Second half of September
+Planned dates of research: First half of October
 
-Research scheduled to start the week of 9/23 until 6-8 sessions are completed. 
+Research scheduled to start the week of 10/7 until 6-8 sessions are completed. 
 
 ### **Length of sessions**
 
