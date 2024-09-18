@@ -29,6 +29,11 @@ The below personas reflect the goals, pain points, and other information for _ac
 * [Accredited attorney persona](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717533456497/60064424f651818203ff49ac43d6fb9f0f2bccac?sender=u8cf3f08a008c2b61ad621433) (Mural) - Representation of what we know about attorneys based on secondary research (previous studies, conversations with OGC), and primary research conducted with attorneys in August 2024.
 * [Accredited claims agent persona](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433) (Mural) - Representation of what we know about claims agents based on secondary research (previous studies, conversations with OGC), and primary research conducted with claims agents in August 2024.
 
+## Proposed next steps
+* Continue to update the staging site so that it matches OGC's desired fields and functionality
+* Continue to collaborate with the GCLAWS team to update the schema **<-- Can engineering help flesh these bullets out, add appropriate links, and add any bullets that are  missing?**
+* Run usability testing to validate some of the design decisions about the digitized form. (Add link to plan once it's ready) See the [Future Research Activities Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718980793805/b1c89e3110a00b235ee30bc04bab3cc96a33c696?sender=u2a4240a640b257ce33545495) for more information on proposed research studies about 21a and other ARP features. 
+
 ## Project resources and links
 
 * [21a paper/PDF form](https://www.va.gov/find-forms/about-form-21a/)
