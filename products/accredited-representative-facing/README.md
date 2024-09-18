@@ -51,8 +51,8 @@ This form is currently a paper form. OGC would like to cut down on the time need
 ### Form 21-22 (power of attorney) accept/decline
 (Add a short paragraph about this work and link to a folder [to be created] with more information and links to respective canvases, etc.)
 
-### Digital contact information updates for accredited representatives
-(Add a short paragraph about this work and link to a folder [to be created] with more information and links to respective canvases, etc.)
+### Contact information updates for accredited representatives
+Veterans and others can access information about accredited representatives (i.e. VSOs, attorneys, claims agents) on the Find a Rep tool and the OGC Accreditation Search. The information on these tools is often out of date. Updating contact information is a highly manual process managed by the Office of General Counsel (OGC). ARF designed a feature for the portal that we believe will be more efficient for both representatives and OGC, leading to more reliable information for Veterans.
 
 ## The Team
 
