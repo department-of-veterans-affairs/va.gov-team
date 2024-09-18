@@ -56,13 +56,15 @@ Today we're going to talk about the application for the **Program of Comprehensi
 
 Before we look at the caregiver program online form, let’s start with a few warm-up questions about your [caregiver/Veteran] application experience.
 
-- Ca you confirm that you have/have not applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) in the past?
+- Can you confirm that you have/have not applied for the Program of Comprehensive Assistance for Family Caregivers (PCAFC) in the past?
     - If no: [Skip ahead to not enrolled interview questions]
 
 
 ##### If yes, Questions:
 
 - Confirm you applied [x months] ago? [from recruitment screener question)
+- Do you know if you used a VSO or accredited representative to help you sign up for the caregiver program?
+- [If yes] Do you remember what VSO or accredited representative you used?
 - Did you enroll with both a Primary and a Secondary caregiver?
 - Did you complete the 10-10CG form in person, at a facility or online?
 - Tell me more about your overall application experience.
@@ -180,7 +182,6 @@ Next we would like your feedback on the information on the next couple of pages.
 
 - In your own words, describe what this page is asking and what it means to you.
 - Do you have someone who is a legal representative for you?
-- If you were completing this form, would you have a VA representative involved to help you?
 - In your own words, what would you expect to happen next?
 
 ### Things to watch for:
@@ -195,7 +196,7 @@ Next we would like your feedback on the information on the next couple of pages.
 
 - Please look over this page and tell me about your initial impressions or expectations.
 - If you saw something you entered by mistake, show me how you would go about correcting that.
-- You won't be able to submit the application in this test form so you can stop screen sharing now and I'll share my screen for the final part of this session. - Non-screen reader users only
+- You won't be able to submit the application in this test form so you can stop screen sharing now and I'll share my screen for the final part of this session. (Non-screen reader users only)
 
 
 
@@ -220,8 +221,6 @@ Next we would like your feedback on the information on the next couple of pages.
 
 
 **Participant ratings:**
-How would you rate the amount of information provided in the form? Was it just right, not enough or too much?
-
 
 Thank you for that feedback, I am going to stop sharing my screen now and wrap up with a couple final questions.
 
