@@ -54,11 +54,7 @@ Use VA-icon `forum` for icon
 ## Technical Implementation
 _how does this feature actually work - i.e. what endpoints are being called, who own those endpoints, what team(s) should be consulted if changes are needed or something breaks, etc._
 
-## determining unread messages count (Sept 2024)
-
-1. check if user state includes messaging backend service 
-2. if yes, then [fetch unread messages](https://github.com/department-of-veterans-affairs/vets-website/blob/3d332cb34a7c95ff357486d5f1ae1610d60e323f/src/applications/personalization/dashboard/actions/messaging.js#L32-L49)
-
-We are grabbing the `unread_count` value from the `/my_health/v1/messaging` API endpoint 
-
-See [previous technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67007#issuecomment-1777608455) from October 2023
+| Determining unread messages count | Updated on | Notes |
+| -- | -- | -- |
+| <ol><li>check if user state includes messaging backend service</li><li>if yes, then [fetch unread messages](https://github.com/department-of-veterans-affairs/vets-website/blob/3d332cb34a7c95ff357486d5f1ae1610d60e323f/src/applications/personalization/dashboard/actions/messaging.js#L32-L49)</li></ol> We are grabbing the `unread_count` value from the `/my_health/v1/messaging` API endpoint. | September 2024 | |
+| <ol><li>check if user state includes messaging backend service</li><li>if yes, then [fetch unread messages](https://github.com/department-of-veterans-affairs/vets-website/blob/3c07f39d75469fff7a9ef379ba2f161649a8fa14/src/applications/personalization/dashboard/actions/messaging.js#L21-L39)</li></ol> We are grabbing the `unread_count` value from one folder only - from the `/v0/messaging/health/folders/0` API endpoint. | October 2023 | See [previous technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67007#issuecomment-1777608455) |
