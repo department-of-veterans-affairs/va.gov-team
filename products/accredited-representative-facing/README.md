@@ -43,8 +43,10 @@ Personas (in Mural):
 
 ## Primary Work Flows
 
-### Form 21a digitization (accredited representative accreditation)
-(Add a short paragraph about this work and link to a folder [to be created] with more information and links to respective canvases, etc.)
+### Form 21a digitization (representative accreditation)
+Before attorneys or claims agents can help Veterans with claims, they need to become accredited through VA. To become accredited, they need to submit Form 21a, which the Office of General Counsel (OGC) uses to verify the applicant’s credentials and reputation. Claims agents then need to complete a written test verifying they have sufficient knowledge of the claims process.
+
+This form is currently a paper form. OGC would like to cut down on the time needed to process the form by digitizing it. ARF began this process and documented next steps and relevant resources on the [21a Digital Accreditation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md).
 
 ### Form 21-22 (power of attorney) accept/decline
 (Add a short paragraph about this work and link to a folder [to be created] with more information and links to respective canvases, etc.)
