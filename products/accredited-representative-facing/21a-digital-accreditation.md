@@ -41,6 +41,7 @@ The below personas reflect the goals, pain points, and other information for _ac
 * [21a accredidation use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/21a-accreditation-use-cases.md)
 * [Staging site](https://staging.va.gov/representative/introduction), where we have built out a portion of the digitized form. Use these [test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) to log into the staging site
 * [21a Figma file](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=616-23089&t=luaHQGKRIHwSK1V0-1); see the "About this file" page within the Figma file for more information about what the Figma file contains
+* [Collaboration cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879) and [Midpoint review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1398)
 * [21a Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708633679899/c359f73dea37dac6c347714be00263a49cb1a0c4?sender=u2a4240a640b257ce33545495), created by our Enablement Team in the earlier stages of the project, but not updated since then
 * (Add sharepoint links)
 
