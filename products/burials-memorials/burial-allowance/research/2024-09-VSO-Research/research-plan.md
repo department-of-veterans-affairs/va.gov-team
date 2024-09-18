@@ -83,10 +83,9 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 ### Prepare
 - Pilot participant: Ajia Wallace
-- Date and time of pilot session: Thursday, September 12, 2024 at 10:00 AM ET
-
+   - Date and time of pilot session: Thursday, September 12, 2024 at 10:00 AM ET
 - Pilot participant: Daniela Jones
-- Date and time of pilot session: Friday, September 13, 2024 at 11:00 AM ET
+   - Date and time of pilot session: Friday, September 13, 2024 at 11:00 AM ET
 
 ### Research sessions
 - 9/10 - 9/13: Prepare research and recruitment
