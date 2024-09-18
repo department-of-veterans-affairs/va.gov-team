@@ -30,7 +30,6 @@ The below personas reflect the goals, pain points, and other information for _ac
 * [Accredited claims agent persona](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433) (Mural) - Representation of what we know about claims agents based on secondary research (previous studies, conversations with OGC), and primary research conducted with claims agents in August 2024.
 
 ## Proposed next steps
-
 * Continue to update the staging site so that it matches OGC's desired fields and functionality.
   * See Figma v5 (Future version) for the latest round of applied feedback.
   * Tickets capturing these changes compared to the current state can be found in the [project board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board?labels=arf-eng) and filtering by "Form 21a"
@@ -54,8 +53,11 @@ The below personas reflect the goals, pain points, and other information for _ac
 * [21a Figma file](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=616-23089&t=luaHQGKRIHwSK1V0-1); see the "About this file" page within the Figma file for more information about what the Figma file contains
 * [Collaboration cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879) and [Midpoint review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1398)
 * [21a Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708633679899/c359f73dea37dac6c347714be00263a49cb1a0c4?sender=u2a4240a640b257ce33545495), created by our Enablement Team in the earlier stages of the project, but not updated since then
+* Business logic trackers - These are rules documented by OGC that ARF inherited at the start of the project. (OGC had worked with a previous team in 2022 to attempt to digitize the form; these documents are from then.) In our work with OGC, some of these rules were changed. See the annotations in Figma for the latest descriptions of how the fields on the form should work.
+  * [Business Logic - 21a - Agents.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/Eew_OdPLYRpBgW1I_WzgpbIB_aAWNGm0jjW52qDOv7wcEA?e=Jn6aiW) (Sharepoint)
+  * [Business Logic - 21a - Attorneys.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/ERV-Dht0rKpLoMfwS-YDTpkBGyE_GVUdNxz7tsZ6sM23Cg?e=GmrajJ) (Sharepoint)
+  * [List of jurisdictions, agencies, and courts.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EdraCvW6JJtLia7Ju4uI4l0BYsEKE_ppHHmHI8fbHJ8kFw?e=WQMwpp) (Sharepoint)
 * [GCLAWS Schema alignment spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/OITSPMGCLAWS-VBAIntegrations/Shared%20Documents/Accreditation%20Portal%20(va.gov)/21a%20Design%20Feedback/v5/ARF%20-%20GCLAWS%20alignment%20spreadsheet%20v5%20%5Ball%20new%20requested%20fields%5D.xlsx?d=wced87ea864214601b2e9b2de165ab100&csf=1&web=1&e=wPkYjc) (need to be on the VA network)
-* (Add sharepoint links)
 
 ## Slack communications
 
