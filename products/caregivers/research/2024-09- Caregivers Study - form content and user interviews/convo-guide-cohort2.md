@@ -34,7 +34,7 @@ Today we're going to talk about the application for the **Program of Comprehensi
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic to keep us on schedule.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem; just let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
@@ -42,7 +42,6 @@ Today we're going to talk about the application for the **Program of Comprehensi
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 - **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ and Caregivers' experiences?** In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
