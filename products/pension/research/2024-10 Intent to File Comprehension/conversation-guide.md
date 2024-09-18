@@ -23,28 +23,6 @@ During this study, we plan to take a trauma-informed approach by:
 * Allowing space at the end of each session so a participant can ask questions, or sometimes, just vent  
 * Scheduling a 15 minute debrief after every research session, and scheduling a 30 minute buffer in between research sessions if multiple sessions are scheduled in one day
 
-## **Moderator Logistics** 
-
-* **Day of the session**  
-  - [ ] Use [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) in Slack for real-time feedback from observers.  
-  - [ ] Mute your Slack notifications  
-  - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into \#feedback-backchannel).  
-  - [ ] Start a thread in \#feedback-backchannel (ex: Proactive Benefits Outreach Exploration P3 starts in 10 minutes :thread: )  
-  - [ ] Type “observer instructions” in the channel at the beginning of your day of sessions to give them tips  
-  - [ ] Make sure you mute all notifications, and close unnecessary applications  
-  - [ ] Make sure all attendees (except participants) are muted  
-  - [ ] Have your conversation guide somewhere accessible that the participant cannot see  
-  - [ ] Make sure you have [transcriptions enabled](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-a-transcript)  
-  - [ ] Make sure to hit record after permission is granted\!  
-  - [ ] Keep handy the [Tech set-up checklist](https://depo-platform-documentation.scrollhelp.site/research-design/tech-set-up-checklist) and [Troubleshooting Research Sessions](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) in case the participant needs help during the session.  
-  - [ ] [Refer to tips on moderating](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Moderatingtips) and [responding to emergencies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html)  
-  - [ ] At the end of your session, take a look at the [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel) and see if anyone brought up questions that you can address with your participant  
-* **Starting the session**  
-  - [ ] In the Attendees section, make sure everyone except the participant is on mute.  
-  - [ ] In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked  
-  - [ ] Check your \[screen sharing setup\] and share permissions for participants.  
-  - [ ] When the participant is ready, begin the session with the following intro
-
 ## **Intro (5 minutes)**
 
 Thanks for joining us today\! My name is \[Name\] and I’m part of a team working on the claims filing experience on VA.gov.
