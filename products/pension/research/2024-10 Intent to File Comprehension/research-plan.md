@@ -133,18 +133,18 @@ Screener Questions:
 
 1. Have you filed a disability compensation or benefits claim on VA.gov before? If you have filed a healthcare claim but not a disability compensation or benefits claim, select “No”  
    1. Response options: yes or no (We are aiming for a \~50/50 split in how this question is answered)  
-2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  
-   1. Response options: yes or no (We are aiming for 1-2 participants who answer yes)  
-3. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.  
-   1. Response options: yes or no (We are aiming for 1-2 participants who answer yes)  
-4. How do you primarily access VA.gov? \[Note for Perigean: We want to ensure that participants are able to join from the device that they indicate primarily using to access VA.gov  
+2. How do you primarily access VA.gov? \[Note for Perigean: We want to ensure that participants are able to join from the device that they indicate primarily using to access VA.gov  
    1. Response options (We are aiming for a \~50/50 split in how this question is answered)  
       1. On a desktop computer or laptop  
       2. On a mobile device, such as a smartphone or tablet  
-5. If a participant answers “On a desktop computer or laptop” in Q4:  
+3. If a participant answers “On a desktop computer or laptop” in Q4:  
    1. Are you able to join the Zoom session from a desktop or laptop computer? (Answering no would disqualify the participant)  
-6. If a participant answers “On a mobile device, such as a phone or tablet” in Q4:  
+4. If a participant answers “On a mobile device, such as a phone or tablet” in Q4:  
    1. Are you able to join the Zoom session from either a tablet or smartphone, such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet. (Answering no would disqualify the participant)
+5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  
+   1. Response options: yes or no (We are aiming for 1-2 participants who answer yes)  
+6. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.  
+   1. Response options: yes or no (We are aiming for 1-2 participants who answer yes)  
 
 ## **Timeline**
 
