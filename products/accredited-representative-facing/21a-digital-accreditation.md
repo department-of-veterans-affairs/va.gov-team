@@ -31,7 +31,7 @@ The below personas reflect the goals, pain points, and other information for _ac
 
 ## Proposed next steps
 * Continue to update the staging site so that it matches OGC's desired fields and functionality
-* Continue to collaborate with the GCLAWS team to update the schema **<-- Can engineering help flesh these bullets out, add appropriate links, and add any bullets that are  missing?**
+* Continue to collaborate with the GCLAWS team to update the schema **<-- Can engineering help flesh these bullets out, add appropriate links, and add any bullets that are  missing? For example, where do we store the latest schema spreadsheet?**
 * Run usability testing to validate some of the design decisions about the digitized form. (Add link to plan once it's ready) See the [Future Research Activities Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718980793805/b1c89e3110a00b235ee30bc04bab3cc96a33c696?sender=u2a4240a640b257ce33545495) for more information on proposed research studies about 21a and other ARP features. 
 
 ## Project resources and links
@@ -43,6 +43,10 @@ The below personas reflect the goals, pain points, and other information for _ac
 * [21a Figma file](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=616-23089&t=luaHQGKRIHwSK1V0-1); see the "About this file" page within the Figma file for more information about what the Figma file contains
 * [Collaboration cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879) and [Midpoint review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1398)
 * [21a Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708633679899/c359f73dea37dac6c347714be00263a49cb1a0c4?sender=u2a4240a640b257ce33545495), created by our Enablement Team in the earlier stages of the project, but not updated since then
+* Business logic trackers - These are rules documented by OGC that ARF inherited at the start of the project. (OGC had worked with a previous team in 2022 to attempt to digitize the form; these documents are from then.) In our work with OGC, some of these rules were changed. See the annotations in Figma for the latest descriptions of how the fields on the form should work.)
+  * [Business Logic - 21a - Agents.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/Eew_OdPLYRpBgW1I_WzgpbIB_aAWNGm0jjW52qDOv7wcEA?e=Jn6aiW) (Sharepoint)
+  * [Business Logic - 21a - Attorneys.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/ERV-Dht0rKpLoMfwS-YDTpkBGyE_GVUdNxz7tsZ6sM23Cg?e=GmrajJ) (Sharepoint)
+  * [List of jurisdictions, agencies, and courts.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EdraCvW6JJtLia7Ju4uI4l0BYsEKE_ppHHmHI8fbHJ8kFw?e=WQMwpp) (Sharepoint)
 * (Add sharepoint links)
 
 ## Slack communications
