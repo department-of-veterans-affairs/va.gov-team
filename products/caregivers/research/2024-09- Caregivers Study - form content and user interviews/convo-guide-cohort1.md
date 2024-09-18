@@ -5,11 +5,11 @@
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
 - Complete project-specific setup tasks for this study
-
+- [ ] Get correct [staging link](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction) ready
 - [ ] Open and prepare confirmation screen in Figma for content feedback
-- [ ] [Figma confirmation page - desktop](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2930-67957&node-type=instance&t=EUUhWg1tjIgVWLwc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2930%3A67957)
+   - [ ] [Figma confirmation page - desktop](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2930-67957&node-type=instance&t=EUUhWg1tjIgVWLwc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2930%3A67957)
 - [ ] Open and prepare prototype for facilities search -- ONLY if not ready in staging/production (pending final confirm, but will likely be deleting this)
-- [ ] [Figma facilities mobile prototype](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2938-72931&node-type=instance&t=Zu7Tk6YxVsoRXLWF-1&scaling=min-zoom&content-scaling=fixed&page-id=2468%3A21603&starting-point-node-id=2938%3A72931)
+   - [ ] [Figma facilities mobile prototype](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2938-72931&node-type=instance&t=Zu7Tk6YxVsoRXLWF-1&scaling=min-zoom&content-scaling=fixed&page-id=2468%3A21603&starting-point-node-id=2938%3A72931)
 
 
 ### Day of the session
@@ -93,7 +93,7 @@ Before we look at the caregiver program online form, let’s start with a few wa
 - Thank you for sharing that background. Now let's change gears a bit.
 - I'm going to share a link to our staging site with you in the chat and when you're ready have you share your screen in Zoom with me.
   
-- [Link to [Staging](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)]
+- [Link to [Staging](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction)]
 
 - Review this page and tell me about your intial thoughts and expectations of this form before going forward and applying.
 - What, if anything, on this page stands out to you as being confusing or as being really helpful?
