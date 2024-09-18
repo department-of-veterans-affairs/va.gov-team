@@ -116,7 +116,7 @@ Now I'm going to ask you to open a prototype from a link I'll post in the chat a
 
 Scenario: Thanks for sharing your screen. Before you start scrolling through the prototype, I’m going to provide you with a scenario to keep in mind as you review and click through the prototype.
 
-I want you to imagine you are learning about Veterans Pension benefits, and you reached this page because you’ve decided that you want to file a pension claim.
+I want you to imagine you are learning about Veterans Pension benefits, and you reached this page because you’ve decided that you want to start a pension application
 
 I’ll give you some time to review this page–please feel free to talk out loud as you review.
 
@@ -126,7 +126,7 @@ I’ll give you some time to review this page–please feel free to talk out lou
 * What does “back payments” mean to you? Is there a different word, or words, that you would use?  
 * Before you continue, what do you think will happen next? 
 
-Go ahead and start to file a claim, and talk aloud as you go.
+Go ahead and start an application, and talk aloud as you go.
 
 Success Criteria: 
 
@@ -140,11 +140,11 @@ Success Criteria:
 
 * Walk me through what you see on this page.   
 * What do you think is the purpose of this page?  
-* In your own words, what do you think this page is telling you?  
-* Based on what you see here, what does the information on this page tell you about your application?  
+* Based on what you see here, what does the information on this page tell you about your application?
+  * In your own words, how does intent to file relate to your application?
   * If you’re eligible for benefits, when would your benefits start?  
   * When do you need to complete your application by?  
-  * Why?  
+     * Why?
 * How would you use this information?  
 * What would you do next? Where would you go from here?  
 * What stands out to you?   
@@ -174,23 +174,20 @@ Now I'm going to ask you to open a prototype from a link I'll post in the chat a
 
 Scenario: Thanks for sharing your screen. Before you start scrolling through the prototype, I’m going to provide you with a scenario to keep in mind as you review and click through the prototype.
 
-I want you to imagine you previously started filing a claim for Veterans Pension benefits a few months ago, and you reached this page because you’ve decided that you’re ready to continue working on your in-progress pension claim.
+I want you to imagine you previously started an application for Veterans Pension benefits a few months ago, and you reached this page because you’ve decided that you’re ready to continue working on your in-progress application.
 
 I’ll give you some time to review this page–please feel free to talk out loud as you review.
 
 * Walk me through what you see on this page.   
-* What do you think is the purpose of this page?  
-* In your own words, what do you think this page is telling you?  
-* Based on what you see here, what does the information on this page tell you about your application?  
-* How would you use this information?  
-* What would you do next? Where would you go from here?  
-* What stands out to you?   
-* Is there anything you expect to see here that you don't? Is anything confusing?  
-* What questions do you have, if any?  
-* What would you do if you wanted more information?  
+* Based on what you see here, what does the information on this page tell you about your application?
+* When was the last time you worked on your application?
+* When do you need to complete your application by? Why?
+* What questions do you have, if any? Is anything confusing?
+   * Where would you go for more information?
+* What would you do next?
 * What would you expect to happen next?
 
-Go ahead and continue to file the claim, and talk aloud as you go.
+Go ahead and continue to work on your application, and talk aloud as you go.
 
 Success Criteria: 
 
@@ -204,12 +201,10 @@ Success Criteria:
 Before you review this page, I want to provide some context. I want you to imagine that we are now at the section in the application where you last left off, which is the household information section. I’ll give you some time to review this page–please feel free to talk out loud as you review.
 
 * Walk me through what you see on this page.   
-* Based on what you see here, what does the information on this page tell you about your application?  
-  * When do you need to complete your application by?  
+* Is this what you expected to see?
+* Is there anything you expect to see here that you don't?
+* When do you need to complete your application by?  
   * Why?  
-* What would you do next?  
-* What stands out to you?   
-* Is there anything you expect to see here that you don't? Is anything confusing?  
 * What questions do you have, if any?
 
 Success Criteria: 
@@ -227,10 +222,9 @@ In this final scenario, I want you to imagine that instead of the messaging on t
 * Walk me through what you see on this page.   
 * How would you use this information?  
 * What would you do next?  
-* Is there anything you expect to see here that you don't? Is anything confusing?  
+* Is there anything you expect to see here that you don't?
 * What questions do you have, if any?  
 * What would you do if you wanted more information?  
-* What would you expect to happen next?
 
 Success Criteria: 
 
@@ -243,7 +237,6 @@ We really appreciate you taking the time to share your thoughts with us today. Y
 * What did you think of that process?  
   * What would you change, if anything?   
 * Is there anything that could have been easier?  
-* Let’s say you wanted to tell another Veteran about this process. How would you describe it to them?
 
 * As we wrap up our conversation today, is there anything else that you’d like to share with me today?  
 * Do you have any questions for me?
