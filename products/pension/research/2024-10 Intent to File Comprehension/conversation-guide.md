@@ -55,7 +55,7 @@ I have started recording. Just to confirm: Are you comfortable if I record my sc
 
 I’d like to share an overview of what today’s conversation will look like: We’ll start with a few questions about your past claim filing experiences with the VA, and then we’ll spend the majority of our time together asking you to walk us through your experience using a prototype that we’ll share with you shortly. Do you have any questions about this?
 
-## **Warm-up (5-10 min) until \[time\]**
+## **Warm-up (5-10 min)
 
 *Goal: Understand Veterans' existing mental model (if any) of ITF*
 
@@ -82,7 +82,7 @@ For **all** participants
   * \[If applicable\] Tell me about your last experience with intent to file.  
     * \[If they’ve filed an ITF before\] What informed your decision to file an intent to file? How did you go about filing one? What questions did you have?
 
-## **Task: Starting a new application (10-15 min) until \[time\]**
+## **Task: Starting a new application (10-15 min)
 
 *Goal: Validate when and how intent to file messaging might be effective for Veterans*
 
@@ -112,7 +112,7 @@ Success Criteria:
 * They mention an earlier start date for benefits or payments  
 * They mention backpay or back payments
 
-## **Task: ITF successfully created (5-10 min) until \[time\]**
+## **Task: ITF successfully created (5-10 min)
 
 *Goal: Learn about Veteran expectations and comprehension of the relationship between the intent to file process in the context of the Veteran's application*
 
@@ -140,7 +140,7 @@ Success Criteria:
   * if they do not complete the application by the expiry date, they miss out on more retroactive payments  
 * They mention their next step as continuing the application, or clicking “Continue”
 
-## **Task: Returning to an in-progress application (10-15 min) until \[time\]**
+## **Task: Returning to an in-progress application (10-15 min)
 
 *Goal: Validate existing in-progress application information and standards*
 
@@ -172,7 +172,7 @@ Success Criteria:
 * They mention the correct date the application was last saved  
 * They mention the correct expiry date
 
-## **Task: Existing ITF returned (5-10 min) until \[time\]**
+## **Task: Existing ITF returned (5-10 min)
 
 *Goal: Validate that the application details provided are sufficient for Veterans to continue their application*
 
@@ -189,7 +189,7 @@ Success Criteria:
 
 * They mention the correct expiry date
 
-## **Task: \[Starting or returning\] Endpoint is unavailable (5-10 min) until \[time\]**
+## **Task: \[Starting or returning\] Endpoint is unavailable (5-10 min)
 
 *Goal: Validate that the application details provided are sufficient for Veterans to continue their application*
 
