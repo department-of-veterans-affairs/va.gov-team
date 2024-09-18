@@ -527,7 +527,7 @@ Becky: So how do you, what do you think about when you think of personalization?
 
 Becky: Yeah, no worries. And you know, it's, it's our job to, you know, take the feedback and figure out how to make it happen. So this is this gives you a lot of good ideas.
 
-> P6: I guess I'm curious like in your you as a as a person, as a veteran, what would be the like ideal contact us page for you?
+Becky: I guess I'm curious like in your you as a as a person, as a veteran, what would be the like ideal contact us page for you?
  
 > P6: Oh wow. I guess the search bar because like I said, I have been trying to learn how to word it so I can get to where I need to go faster.
 
