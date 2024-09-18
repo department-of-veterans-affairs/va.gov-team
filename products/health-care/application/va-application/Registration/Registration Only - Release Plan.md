@@ -1,4 +1,4 @@
-# Reistration Only - Release Plan
+# Registration Only - Release Plan
 
 ## Step 1: Development
 
