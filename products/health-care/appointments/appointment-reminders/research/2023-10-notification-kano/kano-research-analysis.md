@@ -60,7 +60,7 @@ Using Optimal Workshop, we conducted an unmoderated Kano study in which particip
 
 Kano is a quantitative method for prioritizing work based on satisfaction and functionality. The Kano technique assumes that increasing customer satisfaction is dependent on the level of functionality provided for any given appointment notification. We can measure satisfaction through a survey, and notifications can be classified into four distinct categories (Mandatory, Performance, Attractive, and Indifferent) based on the survey results. There are two primary approaches to analysis, which are discrete analysis and continuous analysis. Leveraging discrete analysis, each reminder is classified by the most frequent result. Leveraging continuous analysis, categories are assigned a numerical coding and each reminder is classified using the average of both functional and dysfunctional forms of the survey question pair. You can get an in-depth explanation of the Kano Model in (this article)[https://foldingburritos.com/blog/kano-model/].
 
-We analyzed the survey with both analysis approaches and decided to use the findings based on continuous analysis. XXXX
+We analyzed the survey with both analysis approaches and decided to use the findings based on continuous analysis. While discrete analysis is simpler for categorizing data, the lack of nuances, for example, some preferences from respondents were captured into the selected categories, made the result not make sense, and hard to tell what reminders people prefered. The continuous analysis provided a more precise measurement and better reflected the complexity of the 23 reminders. 
 
 ## Hypotheses and Conclusions
 
