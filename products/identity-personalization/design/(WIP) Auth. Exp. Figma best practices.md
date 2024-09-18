@@ -1,6 +1,17 @@
 # (WIP) Authenticated Experience Figma best practices
 Updated September 10, 2024 - file created
 
+## Definition of terms
+
+* Project
+   * This is the top level for Figma, as seen in the left navigation bar and represented by a folder icon. The VA.gov teams name them mostly by team names.
+* File
+   * This is the second level for Figma. It's what you see when you open a Project, and is usually represented by a thumbnail that shows the cover page, the name of the file, and when it was last updated.
+* Page
+   * Within each Figma file are pages. They can be titled and organized by anyone, and are often used to separate out content by how "done" it is, or by experiment, or however the user needs.
+* Product
+* Subdomain
+
 ## File structure rules
 
 * Each Product for Authenticated Experience (My VA and Profile) has the following structure:
@@ -8,7 +19,8 @@ Updated September 10, 2024 - file created
     * Each subdomain (as determined by the designers of the respective Product) will have its own file, typically a discreet application/product of its own.
     * In the case of an effort in which the team creates and stores designs for functionality on other pages outside of My VA and Profile, it will be determined on a case-by-case basis how to proceed.
 * All of Authenticated Experience’s custom components, starting now, will be created and stored in the Authenticated Experience Pattern Library file.
-    * If an existing component in VADS is used (without breaking it) with original content for designs, and it's deemed to be a timesaver to make that into a symbol, it will live in the Auth. Exp. Pattern Library
+    * If an existing component in VADS is used (without breaking it) with original content for designs, and it's deemed to be a timesaver to make that into a symbol, it will live in the Auth. Exp. Pattern Library (ADD LINK WHEN AVAILABLE)
+    * The naming for symbols shall follow these rules: (ADD NESTED BULLETS WHEN AVAILABLE)
     * There will no longer be any custom standalone symbols in individual files, they must all live in the Auth. Exp. Pattern Library
 
 ### File naming rules:
