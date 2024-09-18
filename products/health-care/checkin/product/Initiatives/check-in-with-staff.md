@@ -5,7 +5,7 @@ For decades, when a patient was checked in, clinical staff rightfully assumed th
 
 With the introduction of eCheck-in in early 2022, Veterans could check in remotely from their smartphones, initially, 15 minutes before their appointment, which has since increased to 45 minutes since, 1) Veterans are often told by clinical staff and MSAs to arrive early for their appointment, and 2) cellular signal can often be problematic once inside VA facilities. 
 
-Completing eCheck-in shows the patient as checked in within VistA and VSE-CS, but Vetetans do not have to be physically in the clinic waiting room at the time they complete eCheck-in. 
+Completing eCheck-in shows the patient as checked in within VistA and VSE-CS, but Veterans do not have to be physically in the clinic waiting room at the time they complete eCheck-in. 
 
 With the introduction of eCheck-in, these additions to the check in process has caused clinical staff to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated if eCheck-in wasn't completed, etc. There have even been discussions about removing eCheck-in altogether to resolve these issues.
 
