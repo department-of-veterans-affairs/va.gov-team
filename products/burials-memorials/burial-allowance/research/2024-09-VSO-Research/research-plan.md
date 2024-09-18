@@ -89,10 +89,10 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 - Date and time of pilot session: Friday, September 13, 2024 at 11:00 AM ET
 
 ### Research sessions
-9/10 - 9/13: Prepare research and recruitment 
-9/17 - 9/30:  Start sessions 
-10/1 - 10/11: Synthesis 
-10/14 - 10/18: Readout
+- 9/10 - 9/13: Prepare research and recruitment
+- 9/17 - 9/30:  Start sessions
+- 10/1 - 10/11: Synthesis
+- 10/14 - 10/18: Readout
 
 
 ### Length of sessions
