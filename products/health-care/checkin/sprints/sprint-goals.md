@@ -41,12 +41,15 @@
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92521)
     - **Move to New AWS Instance**
       - 🟨[[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
-      - 🟨 [[DevOps] Eric Oliver should be granted permissions to manage the Checkin-Devops GitHub App.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/522)
       - 🟨 [[DevOps] Move System Tests out of `checkin-devops` and into a separate repository, `cie-system-tests`](https://github.com/department-of-veterans-affairs/checkin-devops/issues/542)
       - 🟨 [[DevOps] Do all alarm messages link to the playbook?](https://github.com/department-of-veterans-affairs/checkin-devops/issues/392)
       - 🟨 [[DevOps] Discovery into isolated LoROTA environment for Terraform CI/CD.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/509)
       - 🟨 [[DevOps] Discovery on getting `cie-staging-scheduler` into IaC.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/299)
       - 🟨 [[DevOps] Investigate whether to remove DevOps configuration for CHIP DNS names.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/372)
+      - ✔️ 🟨 [[DevOps] Request kms:DeleteAlias and kms:UpdateAlias permissions from VAEC.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/614)
+      - ✔️ 🟨 [[DevOps] Discovery on an Upstream API Gateway](https://github.com/department-of-veterans-affairs/checkin-devops/issues/502)
+      - ✔️ 🟨 [[DevOps] Set concurrency on CHIP `vaec-cms`deployment workflows.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/578)
+      - ✔️ 🟨 [[DevOps] Cleanup initiatePreCheckin event.schema](https://github.com/department-of-veterans-affairs/checkin-devops/issues/429)
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to advance the FE and BE work as much as possible**
     - ⛔ WAITING ON SCOPE DECISIONS:
