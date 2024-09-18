@@ -88,7 +88,7 @@ For this study, we will be facilitating semi-structured interviews with Veterans
 
 \#1 and \#2 comprise the expected user journey, with the explicit assumptions that the application is available and that the ITF endpoint is available. Other variants or scenarios to potentially test include:
 
-* Error scenario: An authenticated Veteran returns to a new **or** in-progress pension application; VA is failing or taking too long to check for an existing ITF.
+* Error scenario: An authenticated Veteran returns to a new **or** in-progress pension application; on the backend, VA.gov is failing or taking too long to check for an existing ITF.
 
 ### **Location**
 
