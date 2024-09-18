@@ -75,7 +75,10 @@
     - Have Kristen Schedule OCTO PO Sync touchpoint ([Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-with-staff.md))
 - **Stand-alone Travel Application for OH Sites**
    - **Sprint Goal is to tweak content based on Staging Review**
-   - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)
+   - 🟦 [[BE] [OH] Add client_number_oh to config ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93078)
+   - 🟦 [[BE] [OH] update travel claims submission worker to pass facility_type when instantiating service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93076)
+   - 🟦 [[BE] [OH] update travel claims status check worker to pass facility_type when instantiating service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93077)
+   - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)    
    - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
    - 🟥 [[UX] Determine text to use for clinics not in the standalone app pilot](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93050)
    - Need 4 points from Gaurav's new tickets....
