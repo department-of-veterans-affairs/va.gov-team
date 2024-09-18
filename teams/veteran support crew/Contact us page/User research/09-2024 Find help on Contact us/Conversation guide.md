@@ -166,6 +166,7 @@ Again, as you’re showing me, tell me what you’re thinking and noticing too.
 -	[Call us](#call-us)
 -	[Contact your local VA facility](#contact-your-local-va-facility)
 -	[Explore our FAQs and other resources to get answers to your questions](#explore-our-FAQs-and-other-resources-to-get-answers-to-your-questions)
+-	[Helpful online tools](#helpful-online-tools)
 
 #### Any channel
 > Ask these questions for any channel they say they would use
