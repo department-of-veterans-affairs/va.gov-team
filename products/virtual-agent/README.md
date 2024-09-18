@@ -10,20 +10,33 @@ In case of a DDOS attack or inaprropriate use of the VA Chatbot, disable the `vi
 
 - Product Owner (VES): Nathalie Rayter
 - Product Owner (OCTO-DE): Luciana Morais
-- Tech Lead: Karan Krishnani
-- Project Manager: Zinal Patel
+- Tech Lead: Anita DeWitt (Accessibility Champion)
 - Product Manager: Vrushali Patil
-- Quality Analyst: Swapna Krishnankutty
-- Business Analyst: Kathy Cui
+- Quality Analyst: Nitheesha Karnati 
+- Project Manager: Christina Schuler 
+- Data Scientist: Nicola Guo 
 - UX Designer: Matt Terwilliger
-- US Digital Corps Fellow, Product Manager: Ryan Powers
-- Data Scientist: Shiva Omranisabbaghi
-- Developer: Aaron Young
 - Developer: Alex Person
 - Developer: Alexander Mendoza
-- Developer: Anita DeWitt (Accessibility Champion)
+- Developer: Nicholas Herndon
+- Developer/Data Engineer: Devi Peruri 
+- Developer/Tech Anchor: Samreen Zarroug
+
+Past: 
+- Tech Lead: Karan Krishnani
+- Project Manager: Zinal Patel
+- Developer: Raina Heurta
+- Developer: Aaron Young
 - Developer: Evan Ubiera
 - Developer: Maurice Okumu
-- Developer: Nicholas Herndon
-- Developer: Raina Heurta
-- Developer: Samreen Zarroug
+- Data Scientist: Shiva Omranisabbaghi
+- US Digital Corps Fellow, Product Manager: Ryan Powers
+- Quality Analyst: Swapna Krishnankutty
+- Business Analyst: Kathy Cui
+
+
+
+
+
+
+
