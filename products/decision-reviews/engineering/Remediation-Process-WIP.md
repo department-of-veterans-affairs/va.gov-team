@@ -1,0 +1,44 @@
+# [WIP] Remediating Errors
+
+## Current Triaging Process
+There are a few ways we catch errors that occur on our forms:
+
+### Monitoring the Alert Notifications Slack channel
+#### General Process
+1. Click on the alert in Slack channel
+2. “Pin” the time in DataDog so that the timeframe is locked in
+    - May need adjustments depending on the query used for the alert (e.g. if it looks at the last 4 hours, it might not exactly set the timeframe to those 4 hours)
+3. View dashboards and/or logs (pinned timeframe will help isolate the event/request that triggered the alert)
+    - If there’s any concern around data loss (i.e. evidence that didn’t get submitted), cross-check with queries in the database
+      - We usually have a `user_uuid` in the DD log that we can use to look up `AppealSubmission` and `InProgressForm` records
+        - If we suspect there should be evidence uploads (i.e. it’s indicated in the form data sent to Lighthouse, though sometimes Veterans will choose to send in later) and InProgressForm is not available, we’ll want to see if we can find a SavedClaim record where the original form data is stored (which contains references to the evidence uploads)
+      - If they still have an InProgressForm, their form data is still available for the Veteran to resubmit on their own. 
+          - \*\* We usually just leave these alone at this point because the Veteran can take action to try and resubmit, but not sure if that’s how we want to continue to handle this scenario \*\*
+    - Can also follow-up by looking for additional logging of the user’s activity and check if they successfully resubmitted later on by filtering logs with the `user_uuid` and seeing if they got a 200 response to the controller for the form they tried to submit
+    - Errors related to jobs (e.g. the evidence upload job, 4142 submit job) can be investigated using the @named_tag.jid or @payload.jid as a filter depending on the structure of the job log
+
+#### Notes
+- 503s/504s are usually transient. If there are a lot of them happening at one time, there may be a bug in our code if we’ve released something recently or there’s an outage, so check on activity in platform support/other DSVA slack channel(s) and statuses of other systems like Lighthouse.
+
+
+For more details on our processes for triaging alerts, we have some available in our [Monitoring Handbook](engineering/Monitoring%20Handbook.md#how-to-triage-alerts)
+
+### Checking on Downstream Form errors
+#### Database Query
+```rb
+start_date = Date.new(2024, 9, 1) # Date that represents how far back in the past you want to query records for
+# Choose which form you want to query for of the 3 options below
+AppealsApi::<HigherLevelReview | SupplementalClaim | NoticeOfDisagreement>.where(status: 'error')
+                                                                          .where('created_at > ?', start_date)
+                                                                          .order(created_at: :desc)
+```
+
+### Checking on Downstream Evidence errors
+#### Database Query
+```rb
+start_date = Date.new(2024, 9, 1) # Date that represents how far back in the past you want to query records for
+AppealsApi::EvidenceSubmission.joins(:upload_submission)
+                              .where(upload_submission: { status: 'error' })
+                              .where('appeals_api_evidence_submissions.created_at > ?', start_date)
+                              .order(created_at: :desc)
+```
