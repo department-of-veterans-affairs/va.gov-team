@@ -60,16 +60,18 @@ Using Optimal Workshop, we conducted an unmoderated Kano study in which particip
 
 Kano is a quantitative method for prioritizing work based on satisfaction and functionality. The Kano technique assumes that increasing customer satisfaction is dependent on the level of functionality provided for any given appointment notification. We can measure satisfaction through a survey, and notifications can be classified into four distinct categories (Mandatory, Performance, Attractive, and Indifferent) based on the survey results. There are two primary approaches to analysis, which are discrete analysis and continuous analysis. Leveraging discrete analysis, each reminder is classified by the most frequent result. Leveraging continuous analysis, categories are assigned a numerical coding and each reminder is classified using the average of both functional and dysfunctional forms of the survey question pair. You can get an in-depth explanation of the Kano Model in [this article](https://foldingburritos.com/blog/kano-model/).
 
-We analyzed the survey with both analysis approaches and decided to use the findings based on continuous analysis. While discrete analysis is simpler for categorizing data, the lack of nuances, for example, some preferences from respondents were captured into the selected categories, made the result not make sense, and hard to tell what reminders people prefered. The continuous analysis provided a more precise measurement and better reflected the complexity of the 23 reminders. 
+We analyzed the survey with both analysis approaches and decided to use the findings based on continuous analysis. While discrete analysis is simpler for categorizing data, the lack of nuances, for example, some preferences from respondents were captured into the selected categories, made the result not make sense, and hard to tell what reminders people preferred. The continuous analysis provided a more precise measurement and better reflected the complexity of the 23 reminders. You can check out the results of the discrete analysis in the [Appendix](#Appendix). 
 
 ## Hypotheses and Conclusions
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
 - Veterans will have a clear opinion on the value of each reminder.
-- For a straightforward appointment (without canceling, rescheduling or other difficulties), Veterans only need 4 notifications. They include a reminder with pre-check-in questions, check-in, AVS, and money-related (e.g., copay and travel pay) notifications.
-- Veterans expect to receive email, text, and phone call notifications.
-  - The modality of communication they prefer will be a personal preference.
+  i. MAYBE TRUE. Even though the respondents were all able to give a preference for each reminder, it's hard to tell in real situations how they would think and feel about each reminders. This would also depend on personal needs, for example, if someone has never been referred to a different provider, they wouldn't give a fair opinion on Referral reminder. 
+- For a straightforward appointment (without canceling, rescheduling, or other difficulties), Veterans only need 4 notifications. They include a reminder with pre-check-in questions, check-in, AVS, and money-related (e.g., copay and travel pay) notifications.
+  i. NOT ENOUGH INFORMATION. This may be something our team needs to decide case by case. While this may be true for Veterans with a straightforward appointment (without canceling, rescheduling, or other difficulties), it's not enough to tell with the study whether Veterans want all reminders. 
+- Veterans expect to receive email, text, and phone call notifications. The modality of communication they prefer will be a personal preference.
+  i. FALSE. 
 
 
 ## Key Findings
