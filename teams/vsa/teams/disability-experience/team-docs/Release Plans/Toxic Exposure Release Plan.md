@@ -300,13 +300,13 @@ Other considerations:
   - Unprocessable Entity: Maximum number of EP codes
     - this is a known issue. backup path picks these up
   - Unprocessable Entity: Claim not established. A duplicate claim for this EP code already exists in CorpDB. Please use a different EP code modifier.
-    - still a mystery. [working with LH to figure this out]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1726263770523399))
+    - still a mystery. [working with LH to figure this out](https://dsva.slack.com/archives/C02CQP3RFFX/p1726263770523399)
   - failures with ```validate_pdf``` in ```app/app/uploaders/validate_pdf.rb```
-    - [working with LH to figure this out]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1726526799461849))
+    - [working with LH to figure this out](https://dsva.slack.com/archives/C02CQP3RFFX/p1726526799461849)
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
-  - [#92417]([url](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/92417)): invalid date issue - bug was found in that the frontend (va.gov) is sending dates with "XX" in them which will not parse anywhere
+  - [#92417](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/92417): invalid date issue - bug was found in that the frontend (va.gov) is sending dates with "XX" in them which will not parse anywhere
     - this is already fixed and deployed
-  - [#93079]([url](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/93079)): bug was found from needing to have "unique" multiple exposures in the request to LH
+  - [#93079](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/93079): bug was found from needing to have "unique" multiple exposures in the request to LH
 
 ### Stage C: 25% of users
 
