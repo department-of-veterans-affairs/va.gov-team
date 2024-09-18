@@ -10,8 +10,7 @@ Date: 10/25/2023
 
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Who we talked to](#who-we-talked-to)
+- [Survey respondents](#survey-respondents)
 - [Appendix](#Appendix)
 
 
@@ -155,21 +154,6 @@ We have also created the ranking result for each cohort through the discrete ana
 - Pre-check-in link
      - Cohort 5 (age 55+ years old) prefers this notification more than other cohorts.
 
-## Recommendations
-
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
-
-## Next Steps
-
-_Next steps here. Include owners if appropriate._
-
-
 ## Appendix
 [Research plan - survey 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointment-reminders/research/2023-10-notification-kano/research-plan-survey-1-(travel%2C%20pre-check-in%2C%20AVS).md)
 
@@ -190,7 +174,7 @@ Optimal Workshops and Excel
 Link to the spreadsheets for calculations
 
 
-## Who we talked to 
+## Survey respondents 
 
 **Recruitment criteria**
 
