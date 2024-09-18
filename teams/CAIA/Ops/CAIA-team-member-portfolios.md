@@ -8,7 +8,6 @@
 # Overview
 
 This document outlines the basic work areas that CAIA team members cover. We use this as a reference for assigning work or asking for additional resources or context.
-#Team member subject areas
 
 ## Content specialists 
 **Laura - Editor**
