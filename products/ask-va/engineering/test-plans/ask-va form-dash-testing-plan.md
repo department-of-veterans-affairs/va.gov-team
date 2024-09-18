@@ -38,7 +38,7 @@ Reference Docs:
 - Test Cases: Interaction between form steps, form data persistence between steps, backend integration.
 - Example: Test backend calls, and ensure data is correctly saved and retrieved.
 
-The team will leverage a tool like Postman or Insomnia to send a collection of requests to the CRM APIs. The APIs will return a response body that includes a new field containing QueueID to ensure that the right Category, Topic, and Subtopic are routed to the correct queue.
+The team will leverage Insomnia to send a collection of requests to the CRM APIs. The APIs will return a response body that includes a new field containing QueueID to ensure that the right Category, Topic, and Subtopic are routed to the correct queue.
 
 For Formal Testing: We will cover 120 flows of potential inquiry mapping
 
