@@ -33,13 +33,29 @@
 
 ## Mobile onboarding - Fedback from Juan
 - What went well:
-   -  
-   -
-   -
+   - Mobile onboaridng ticket had nearly everything required to get started from scracth.
+   - Mobile docs ❤️
+   - [New VFS Team Member] onboarding ticket (helpfull to figure out what to do)
+   - Mobile app dev setup
 - Improvement opportunities:
-  - 
-  -
-  -
+  - Avoid using `@va.gov` email for project invites to avoid having to log into Citrix. Speeds up development a bit unless there is a security reason to only use `@va.gov` emails.
+  - A section in Mobile Docs about "Phisical Devies" (are they needed?)
+  - No mention of the project on the Google play console and no invite to that project. Not critical.
+  - Mobile docs could have a link to [React Native Dev Setup](https://reactnative.dev/docs/set-up-your-environment) 
+  - Add a mobile specific checklist section to [New VFS Team Member] template that focuses on mobile. I used the "Front-end Engineers" checklist and that covers most of it but some things might not apply.
+    - Mobile specific checklist item [Review Mobile Docs](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/intro) 
+  - Some mobile doc pages have broken links to the figma components they reference
+  - In the mobile docs the "Read and bookmark VA mobile general documentation" item should have sub tasks as some of the other tasks in the list like "Review how to set up deep linking in the app" are redundant if the "Read and bookmark VA mobile general documentation" is complete
+  - A list of helpfull links that will be used in the day to day of the project. See my list below that I demed might be used on a day to day.
+      - [mobile docs](https://department-of-veterans-affairs.github.io/va-mobile-app/)
+      - [firebase console](https://console.firebase.google.com/u/1/project/va-mobile-app/settings/general/android:gov.va.mobileapp?pli=1)
+      - [demo mode](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Mobile%20Demo%20Mode)
+      - [figma](https://www.figma.com/design/QVLPB3eOunmKrgQOuOt0SU/Flagship-Library---%F0%9F%93%90-Resource---VA-Mobile?node-id=719-1428&node-type=canvas&t=Blz3thJ0kHTAaGrb-0)
+      - [app store connect](https://appstoreconnect.apple.com/)
+      - [apple certifiates and profiles](https://developer.apple.com/account/resources/certificates/list)
+      - [brainstorming](https://balsamiq.cloud/s4uw4la/pnnwuqv/r8E01)
+      - [VA Mobile Api](https://department-of-veterans-affairs.github.io/va-mobile-app/api/)
+      - [Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board)
 
 
 
