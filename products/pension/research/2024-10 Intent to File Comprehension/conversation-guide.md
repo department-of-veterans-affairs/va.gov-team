@@ -94,7 +94,7 @@ For participants who **have not** previously filed a claim on VA.gov
     * If yes, what resources have you used to learn more about filing a claim (i.e. accredited representative, personal networks, VA.gov, Google, etc)?   
   * Have you used VA.gov before? If yes, what have you used it for?
 
-—------------
+For **all** participants
 
 * Are you familiar with the phrase “intent to file”?  
   * \[If yes\] If you had to describe intent to file to a fellow Veteran, what would you say?  
@@ -106,7 +106,7 @@ For participants who **have not** previously filed a claim on VA.gov
 
 ## **Task: Starting a new application (10-15 min) until \[time\]**
 
-*Goal: Learn when and where ITF messaging would be most effective and beneficial for Veterans*
+*Goal: Validate when and how intent to file messaging might be effective for Veterans*
 
 Now I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder \- it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
@@ -136,7 +136,7 @@ Success Criteria:
 
 ## **Task: ITF successfully created (5-10 min) until \[time\]**
 
-*Goal: Learn when and where ITF messaging would be most effective and beneficial for Veterans*
+*Goal: Learn about Veteran expectations and comprehension of the relationship between the intent to file process in the context of the Veteran's application*
 
 * Walk me through what you see on this page.   
 * What do you think is the purpose of this page?  
@@ -164,7 +164,7 @@ Success Criteria:
 
 ## **Task: Returning to an in-progress application (10-15 min) until \[time\]**
 
-*Goal: Learn when and where ITF messaging would be most effective and beneficial for Veterans*
+*Goal: Validate existing in-progress application information and standards*
 
 Now I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder \- it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
 
@@ -196,7 +196,7 @@ Success Criteria:
 
 ## **Task: Existing ITF returned (5-10 min) until \[time\]**
 
-*Goal: Learn when and where ITF messaging would be most effective and beneficial for Veterans*
+*Goal: Validate that the application details provided are sufficient for Veterans to continue their application*
 
 Before you review this page, I want to provide some context. I want you to imagine that we are now at the section in the application where you last left off, which is the household information section. I’ll give you some time to review this page–please feel free to talk out loud as you review.
 
@@ -213,7 +213,7 @@ Success Criteria:
 
 ## **Task: \[Starting or returning\] Endpoint is unavailable (5-10 min) until \[time\]**
 
-*Goal: Learn when and where ITF messaging would be most effective and beneficial for Veterans*
+*Goal: Validate that the application details provided are sufficient for Veterans to continue their application*
 
 On the previous screen, you received information about your intent to file being successfully \[created/retrieved\].
 
