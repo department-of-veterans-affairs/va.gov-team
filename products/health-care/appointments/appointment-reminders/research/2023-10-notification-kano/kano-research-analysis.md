@@ -9,7 +9,7 @@ Date: 10/25/2023
 **Jump to:**
 
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
-- [Key findings](#key-findings)
+- [Key findings - final prioritization ranking](#key-findings)
 - [Recommendations](#recommendations)
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
@@ -74,62 +74,16 @@ We analyzed the survey with both analysis approaches and decided to use the find
     - FALSE. The result shows Veterans have reminder modality preferences for each reminder. 
 
 
-## Key Findings
+## Key Findings - Final prioritization ranking
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
 
 
 **Finding 1**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
 
 Labels: label 1, label 2 
 
@@ -168,34 +122,21 @@ _If there are demographics that were not included in this study or you discovere
 
 
 ## Appendix
+[Research plan - survey 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointment-reminders/research/2023-10-notification-kano/research-plan-survey-1-(travel%2C%20pre-check-in%2C%20AVS).md)
 
-[Research plan](link here)
+[Research plan - survey 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointment-reminders/research/2023-10-notification-kano/research-plan-survey-2-(appointments%2C%20co-pay%20%26%20combo).md)
 
-[Conversation guide](link here)
+[Research plan - survey 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointment-reminders/research/2023-10-notification-kano/research-plan-survey-3-(appointments-only).md)
 
-[Interview transcripts](link here)
-
+[Kano Model Guide](https://foldingburritos.com/blog/kano-model/)
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
-
-## Pages and applications used
-
-Link to prototypes or pages that were tested
-
+Optimal Workshops and Excel 
 
 ## Other supporting documents created
 
 e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
 
 
 ## Who we talked to 
@@ -204,90 +145,34 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+- All have a computer or mobile device and are willing to use it to complete the activity.
+- All must have been to a VA health care facility for medical appointments for themself or a Veteran that they care for in the last 12 months.
+- All must have filed a travel reimbursement claim in the past.
 
-We talked to **x participants.**
-
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
-
-Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
-
-## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+  
+|                |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|
+|----------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|***SEX***       |        |        |        |        |        |        |        |                 
+|Male            |        |   9    |        |        |        |        |        |        
+|Female          |    9   |        |        |        |        |        |        |            
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Age***       |        |        |        |        |        |        |        |           
+|18-24 yo        |        |        |    4   |        |        |        |        |        
+|25-34 yo        |        |        |    5   |        |        |        |        |      
+|35-44 yo        |        |        |        |    4   |        |        |        |       
+|45-54 yo        |        |        |        |   5     |        |        |        |       
+|55+ yo          |        |        |        |        |     9  |        |        |          
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Role*** |        |        |        |        |        |        |        |        
+|Veteran    |     9   |   9     |     9   |   9     |    9    |        |   9    |    
+|Caregiver    |        |        |        |        |        |    9    |        |      
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Education*** |        |        |        |        |        |        |        |        
+|High School     |        |        |        |        |        |        |  3     |    
+|Some College    |        |        |        |        |        |        |  1     |      
+|Associate's     |        |        |        |        |        |        |  1      |      
+|Bachelors       |        |        |        |        |        |        |   2     |       
+|Masters         |        |        |        |        |        |        |   2    |     
+|       ---      |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |  
+|***Log In*** |        |        |        |        |        |        |        |        
+|MyHealtheVet     |   7     |    7    |    7    |    7    |   7     |        |  7     |  
