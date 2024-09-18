@@ -280,11 +280,33 @@ Other considerations:
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: **1858**
+- Metrics at this stage (per your "success criteria"): a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+  - % of normal, backup, failsafe path rates: **90%, 10%, 0%**
+  - Submission volume:
+  - Error rate: 
+- Was any downstream service affected by the change?: Yes, LH has several tickets now to fix some errors in both the VBMS claim establishment service and the pdf generation service. Some are resolved, some are still a mystery. Details below.
+- Types of errors logged:
+  - Validation: Direct Deposit Account number length
+    - fixed by LH
+  - Bad Request: Unicode
+    - fixed by LH
+  - Bad Request: MethodArgumentNotValid treatment detail length
+    - fixed by LH
+  - Invalid Date: XX's going through the frontend
+    - fixed by T-REX
+  - Unprocessible Entity: SeparationLocationCode
+    - fixed by LH
+  - Unprocessable Entity: Maximum number of EP codes
+    - this is a known issue. backup path picks these up
+  - Unprocessable Entity: Claim not established. A duplicate claim for this EP code already exists in CorpDB. Please use a different EP code modifier.
+    - still a mystery. [working with LH to figure this out]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1726263770523399))
+  - failures with ```validate_pdf``` in ```app/app/uploaders/validate_pdf.rb```
+    - [working with LH to figure this out]([url](https://dsva.slack.com/archives/C02CQP3RFFX/p1726526799461849))
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
+  - [#92417]([url](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/92417)): invalid date issue - bug was found in that the frontend (va.gov) is sending dates with "XX" in them which will not parse anywhere
+    - this is already fixed and deployed
+  - [#93079]([url](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/93079)): bug was found from needing to have "unique" multiple exposures in the request to LH
 
 ### Stage C: 25% of users
 
