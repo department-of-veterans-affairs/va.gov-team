@@ -3,7 +3,7 @@
 
 **Team:** [Team name]
 
-**IA Request:** [Link to Sitewide Content and IA intake request]
+**IA Tracker:** [Link to Sitewide Content and IA intake request]
 
 **On this page:**
 - [User/page flows](#flows)
