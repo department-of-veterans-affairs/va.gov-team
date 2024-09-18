@@ -7,7 +7,7 @@ With the introduction of eCheck-in in early 2022, Veterans could check in remote
 
 Completing eCheck-in shows the patient as checked in within VistA and VSE-CS, but Veterans do not have to be physically in the clinic waiting room at the time they complete eCheck-in. 
 
-With the introduction of eCheck-in, these additions to the check in process has caused clinical staff to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated if eCheck-in wasn't completed, etc. There have even been discussions about removing eCheck-in altogether to resolve these issues.
+With the introduction of eCheck-in, these additions to the check in process has caused clinical staff to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated if eCheck-in wasn't completed, etc.
 
 **Is there value in patients using eCheck-in to complete pre-registration (and having the option to file a travel reimbursement claim) and have their check in status updated in VistA (knowing that MSAs find eCheck-in helpful to speed up lines in the clinic waiting rooms), but require Veterans to "check in" with an MSA to resolve these known concerns?**
 
