@@ -59,7 +59,7 @@ This document outlines the basic work areas that CAIA team members cover. We use
 - Life insurance
 - Housing
 
-**Megan - Copyeditor
+**Megan - Copyeditor**
 - Copy editing, pre-publishing checklist, and publishing of all static page content for Laura's content areas
 - Annual audit copyedits (shared role for now)
 - Style guide updates
