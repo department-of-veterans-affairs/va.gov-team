@@ -24,21 +24,23 @@ If you answered yes to any of these questions then go through the following [che
 
 #### Start
 
-* [ ] Do you know when your application shipped to production?
-  * If not, use Github to determine, roughly, when your application shipped to users.
-* [ ] Did your application use the same APIs when it shipped as it does today?
-  * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
+* [x] Do you know when your application shipped to production?
+  * **Nov 16, 2021** VBA submissions only
+* [x] Did your application use the same APIs when it shipped as it does today?
+  * **September 19, 2022** VHA submissions included
 
 #### Monitoring
 
-* [ ] Do you monitor the API that you submit to via Datadog? 
-  * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
+* [x] Do you monitor the API that you submit to via Datadog? 
+  * ~~If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).~~
 * [ ] Does your Datadog monitoring use the appropriate tagging?
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
-* [ ] Do errors detected by Datadog go into a Slack notifications channel?
-  * If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
-* [ ] Does more than one person look at the Slack notifications channel containing errors on a daily basis? 
-  * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
+* [x] Do errors detected by Datadog go into a Slack notifications channel?
+  * DSVA [#debt-alerts](https://dsva.slack.com/archives/C02EYV9NJFJ)
+  * ~~If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications]~~(https://dsva.slack.com/archives/C063SM22J3H) for an example.
+* [x] Does more than one person look at the Slack notifications channel containing errors on a daily basis?
+  * All devs (FE & BE) are included in channel and monitor regularly
+  * ~~If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)~~
 * [ ] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? 
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
