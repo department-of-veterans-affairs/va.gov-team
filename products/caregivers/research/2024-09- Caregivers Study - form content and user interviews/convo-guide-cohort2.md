@@ -169,12 +169,11 @@ Let's pause here for a minute to talk about the sections we just went through.
 
 - If you were completing this online form for real, can you tell me how would you coordinate getting this information from everyone involved?
 - Would you sit down and complete this form together?
-- Would you prefer to have help completing this from an accredited representative or someone else from the VA? Why or why not?
 - [If not mentioned above] Would you like to have a way to sign in and only complete your own information on the form and let the others complete theirs separately as well?
 
 
 
-## Task: [Sign as a Rep + Upload Doc] - 5 minutes
+## Task: [Sign as a Rep] - 5 minutes
 
 Next we would like your feedback on the information on the next couple of pages.
 
@@ -209,12 +208,12 @@ Next we would like your feedback on the information on the next couple of pages.
 
 
 
-## Confrimation Page + Post Task Interview - 5 minutes
+## Confirmation Page + Post Task Interview - 5 minutes
 
 **Skip this section for screen reader users**
 
 - I'm going to share my screen with you for the final step of the form and I'll ask you some questions about it.
-- [show Figma comp of production design version of confirmation page](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2930-67957&node-type=instance&t=EUUhWg1tjIgVWLwc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2930%3A67957)
+- [show Figma comp of production design version of confirmation page](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2930-67957&node-type=instance&t=EUUhWg1tjIgVWLwc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2930%3A67957) Confirm that they can see the confirmation page and that it's zoomed in enough to be read.
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
 - If you had a magic wand and you were in a perfect world, what would you like to see here?
 
@@ -226,6 +225,7 @@ How would you rate the amount of information provided in the form? Was it just r
 Thank you for that feedback, I am going to stop sharing my screen now and wrap up with a couple final questions.
 
 - What research would you do before applying and completing a form like this?
+- Would you prefer to have help completing this from an accredited representative or someone else from the VA? Why or why not?
 - What are your thoughts on the amount of information provided in this form? Did you think it was too much, just enough, or too little?
 - Is there any additional information about who qualifies as a primary and secondary caregiver that you would've liked to see?
 - [Prompt if needed: For example, would it be helpful to you to see eligibility information about the program when applying vs before-hand?]
