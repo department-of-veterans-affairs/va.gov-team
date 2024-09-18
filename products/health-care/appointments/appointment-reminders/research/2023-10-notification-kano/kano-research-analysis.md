@@ -11,7 +11,6 @@ Date: 10/25/2023
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings - final prioritization ranking](#key-findings)
 - [Recommendations](#recommendations)
-- [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 - [Appendix](#Appendix)
 
@@ -76,7 +75,31 @@ We analyzed the survey with both analysis approaches and decided to use the find
 
 ## Key Findings - Final prioritization ranking
 
-
+| Final prioritization ranking | Reminders |
+|----------------|:------:|
+| 1 | Appointment request denied |
+| 2 | Community care appointment request denied due to ineligibility |
+| 3 | VA rescheduled |
+| 4 | Travel reimbursement failed |
+| 5 | In-person appointment changed to telehealth |
+| 6 | Travel reimbursement claim submitted |
+| 7 | Not yet checked in |
+| 8 | Travel reimbursement claim approved |
+| 9 | It's time to file a travel reimbursement claim |
+| 10 | Checked in confirmation |
+| 11 | Upcoming appointment preparation |
+| 12 | Appointment request successfully submitted |
+| 13 | AVS ready for view |
+| 14 | Referred and need to schedule an appointment for referral |
+| 15 | Pre-check-in |
+| 16 | Outstanding co-pay for recent appointment |
+| 17 | Due for flu shot and remind to make an appointment |
+| 18 | Appointment requested has been scheduled |
+| 19 | Appointment request has been scheduled at a different date and time |
+| 20 | Earlier appointment than scheduled |
+| 21 | Appointment cancelled by VA |
+| 22 | Appointment cancelled by patient confirmation |
+| 23 | Appointment request denied due to unable to contact |
 
 
 ## Details of Findings 
@@ -116,11 +139,6 @@ _Put together initial recommendations here based on your findings along with sup
 _Next steps here. Include owners if appropriate._
 
 
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
-
 ## Appendix
 [Research plan - survey 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointment-reminders/research/2023-10-notification-kano/research-plan-survey-1-(travel%2C%20pre-check-in%2C%20AVS).md)
 
@@ -130,18 +148,18 @@ _If there are demographics that were not included in this study or you discovere
 
 [Kano Model Guide](https://foldingburritos.com/blog/kano-model/)
 
+[Discrete analysis](linkhere)
+
 ## Tools used for Synthesis
 
 Optimal Workshops and Excel 
 
 ## Other supporting documents created
 
-e.g. user flows, personas, etc.
+Link to the spreadsheets for calculations
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
