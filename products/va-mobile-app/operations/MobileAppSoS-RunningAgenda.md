@@ -19,7 +19,20 @@
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * **Experience Team Requests Review**
   * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
-* 
+* Ask - think through prioritization process (PM group)
+  * User Impact, Business Impact, LOE
+  * Want to have a clearer way of describing priority of Epics
+* Ask - User Metrics for Shared Services (Don, Ryan, Matt, Kelly)
+  * how many current users do we have? by user, I mean # of people, # of teams, or however else we define user
+  * on average, how many "leads" do we get every month (or whichever time frequency we use to track)? by lead, I mean new teams filling out an intake form
+  * approximate % of leads who become an actual user?
+*  Rachel's 'Product Launch'
+  *  Likely out Nov. 15, returning end of Jan/early Feb (Feb 10)
+* Upcoming VA events:
+  * DE Portfolio monthly mtg w/ Charles 
+    * Veteran Facing - Oct 1
+    * Shared Services - Nov 1
+  * week of Nov 11 - OCTO off-site
 
 
 ## Agenda
