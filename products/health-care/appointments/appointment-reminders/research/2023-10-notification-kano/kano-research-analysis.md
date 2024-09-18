@@ -13,6 +13,7 @@ Date: 10/25/2023
 - [Recommendations](#recommendations)
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
+- [Appendix](#Appendix)
 
 
 ## Research Goals
@@ -59,13 +60,13 @@ Using Optimal Workshop, we conducted an unmoderated Kano study in which particip
 
 Kano is a quantitative method for prioritizing work based on satisfaction and functionality. The Kano technique assumes that increasing customer satisfaction is dependent on the level of functionality provided for any given appointment notification. We can measure satisfaction through a survey, and notifications can be classified into four distinct categories (Mandatory, Performance, Attractive, and Indifferent) based on the survey results. There are two primary approaches to analysis, which are discrete analysis and continuous analysis. Leveraging discrete analysis, each reminder is classified by the most frequent result. Leveraging continuous analysis, categories are assigned a numerical coding and each reminder is classified using the average of both functional and dysfunctional forms of the survey question pair. You can get an in-depth explanation of the Kano Model in (this article)[https://foldingburritos.com/blog/kano-model/].
 
-We analyzed the survey with both analysis approaches and decided to use the findings based on continuous analysis. XXX
+We analyzed the survey with both analysis approaches and decided to use the findings based on continuous analysis. XXXX
 
 ## Hypotheses and Conclusions
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
-- Veterans will have a clear opinion on the value of each notification.
+- Veterans will have a clear opinion on the value of each reminder.
 - For a straightforward appointment (without canceling, rescheduling or other difficulties), Veterans only need 4 notifications. They include a reminder with pre-check-in questions, check-in, AVS, and money-related (e.g., copay and travel pay) notifications.
 - Veterans expect to receive email, text, and phone call notifications.
   - The modality of communication they prefer will be a personal preference.
