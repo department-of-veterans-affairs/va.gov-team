@@ -33,6 +33,9 @@ AppealsApi::<HigherLevelReview | SupplementalClaim | NoticeOfDisagreement>.where
                                                                           .order(created_at: :desc)
 ```
 
+#### Notes
+- These errors don’t happen frequently, but so far, they are the “Unidentified Mail” error, which we can’t resolve through our current manual processes (i.e. resubmitting). Veterans should be able to print out the form and mail it in themselves if needed, but we should be able to more easily resolve these errors with less work for the Veteran once we release features that allow them to get a copy of the PDF / print version of their form data on the confirmation page.
+
 ### Checking on Downstream Evidence errors
 #### Database Query
 ```rb
@@ -42,3 +45,18 @@ AppealsApi::EvidenceSubmission.joins(:upload_submission)
                               .where('appeals_api_evidence_submissions.created_at > ?', start_date)
                               .order(created_at: :desc)
 ```
+
+#### Verifying file upload in S3
+You can use the guid on the AppealsApi::EvidenceSubmission to look up the AppealSubmissionUpload to get the S3 uuid (decision_review_evidence_attachment_guid)
+
+1. Log into AWS on Citrix/AVD
+2. Navigate to the S3 bucket
+    - Both SC and NOD uploads live in a bucket that is named after NOD — you can just search for “notice-of-disagreement” in the bar and it should populate the buckets from all the different environments. The folder inside of that bucket called ‘decision_review’ is where you’ll want to look for these evidence uploads.
+3. Search for the file using the `decision_review_evidence_attachment_guid` (without any quotes wrapping it)
+    - If found, click on the result and drill in until you get to the file details where there will be options to “open” in a new tab or download it. Since you’re on Citrix/AVD you should be able to view it even if there’s PII.
+    - If not found, then ?
+4. Download and/or open the file in a new tab
+   - Use the error detail from `VBADocuments::UploadSubmission#detail` as a reference for figuring out what went wrong
+     - e.g. if the error detail was that they had all blank images, check if all the pages are blank or not and if not, note it as an example for chatting with Lighthouse/EMMS/downstream teams on improving downstream validation
+     - `AppealsApi::EvidenceSubmission` belongs_to `upload_submission` so you can look it up that way if you have the EvidenceSubmission record
+
