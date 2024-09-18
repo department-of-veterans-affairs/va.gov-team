@@ -17,6 +17,24 @@ end
 
 pp cool
 ```
+
+### Query for errored forms in a certain timeframe:
+```
+result = DebtsApi::V0::Form5655Submission.where.not(error_message: ['', nil]).where(created_at: 1.week.ago..Time.now)
+
+# then you can do something like this:
+result.map(&:error_message)
+
+# Which returns the below
+["Outage detected on Debts beginning at 1726167220",
+ "Gateway timeout",
+ "the server responded with status 500",
+ "Gateway timeout",
+ "Gateway timeout",
+ "Gateway timeout",
+ "Gateway timeout",
+ "Gateway timeout"]
+```
 - [x] What each of the silent failures we have identified are?
   - In spreadsheet
 - [x] Date failures occurred? (ideally we want to review all data we have - portal launched in January 2021 and first FSR experience which was VBA only launched on Nov 16, 2021 - VHA was added into the mix with the Combined FSR launch on September 19, 2022: In case those dates help at all)
@@ -28,8 +46,21 @@ pp cool
 
 - There is more information in the documentation including a checklist...
 
+## Fix Sharepoint Submission Errors
+If you see a sharepoint error when you're pulling errors. You can get the submission id from the record and use it to retry a submission.
+
+```
+form_submission = DebtsApi::V0::Form5655Submission.find(<id for errored submission>)
+sharepoint_request = DebtManagementCenter::Sharepoint::Request.new
+
+sharepoint_request.upload(
+        form_contents: form_submission.form,
+        form_submission:,
+        station_id: form_submission.form['facilityNum']
+      )
+```
 
 ## Todo
 We should get in contact with our partners and find out the following:
 * What are the resolution cut off dates? Meaning, is there a timeframe where forms are no longer relevant?
-* We could pull ids for forms in error and see if there was an issue with submission to our partners. This is what we did when we had that sharepoint issue a month or so back. They were able to get us submission ID's
+* We could pull ids for forms in error and see if there was an issue with submission to our partners. This is what we did when we had that sharepoint issue a month or so back. They were able to get us submission ID'
