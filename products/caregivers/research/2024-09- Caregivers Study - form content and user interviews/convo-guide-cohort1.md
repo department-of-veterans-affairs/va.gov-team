@@ -32,17 +32,17 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 
 Today we're going to talk about the application for the **Program of Comprehensive Assistance for Family Caregivers**. We have some questions for you about this and then we would like you to share your screen and go through using the online form. We will use our testing site so you won't be actually submitting an application today. 
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic to keep us on schedule.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem - just let me know.
+- **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem; just let me know.
 - **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
-   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov.
+   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we've captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ and Caregivers' experiences, removing anything that could be used to identify you like your onscreen image and name?** We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
+- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ and Caregivers' experiences?** In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
@@ -68,6 +68,7 @@ Before we look at the caregiver program online form, let’s start with a few wa
 - Tell me about how you completed the caregiver form: in person, at a facility or online.
 - What did you do in preparation for completing the [online/paper/in person] form?
 - Did you complete all of the VA forms on your own or did you have help, like from an accredited representative, VSO, or other source?
+  - [If they had help] Do you remember what VSO or accredited representative you used?
 - Is there anything else you'd like to share about your experience with the caregiver program application form, good or bad?
 
 
@@ -78,13 +79,6 @@ Before we look at the caregiver program online form, let’s start with a few wa
 - Can you tell me in your own words, what it means to you to be a Veteran caregiver?
 - How would you like to learn about benefits like the Program of Comprehensive Assistance for Family Caregivers (PCAFC)?
 - If you were completing a form to apply for caregiver benefits like the one we'll go through together today, what information do you think you'd need before completing the form?
-
-
-
-
-
-
-
 
 
 
@@ -128,8 +122,9 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared and
 
 - Please keep thinking aloud as you complete this question.
 - How would you prefer to search for VA facilities?
-- Why you think facility choice is part of the caregiver application process?
-- Let's imagine you want to change the facility you have selected - maybe because you're moving soon - by doing a new search. Can you walk me through how you would accomplish that?
+- If you wanted to change the facility you selected by doing a new search, can you walk me through how you would accomplish that?
+- Okay you can proceed to the next page. (Have them advance to the facility confirmation page)
+- Talk me through this (facility selection) - What are your thoughts about that?
 
 
 ### Things to watch for:
@@ -144,8 +139,9 @@ On a scale of 1-5 (1 being very poor/difficult and 5 being very well/easy to do)
 
 
 ## Fourth Task: [Primary Caregiver] - 5 minutes
-- Let's go through a scenario where you want to add yourself as a primary caregiver on this application. Please go through the next few pages and do that, thinking aloud about your thought process.
 - What does the term "primary caregiver" mean to you?
+- Let's go through a scenario where you want to add a primary caregiver on this application. Please go through the next few pages and try to add that, thinking aloud about your thought process.
+
 
 
 ### Things to watch for:
@@ -158,7 +154,6 @@ On a scale of 1-5 (1 being very poor/difficult and 5 being very well/easy to do)
 
 ## Fifth Task: [Secondary Caregiver] - 5 minutes
 
-- Now I'd like you to go through these questions as you would if you were applying to add a secondary caregiver too.
 - What does a secondary caregiver mean to you?
 - How do you think the secondary role differs in the application process and benefits from the primary caregiver?
 - Now I'd like you to add an additional secondary caregiver. Please continue with that on this form and continue to think aloud.
@@ -178,8 +173,6 @@ Let's pause here for a minute to talk about the sections we just went through.
 
 - If you were completing this online form for real, can you tell me how would you coordinate getting this information from everyone involved?
 - Would you sit down and complete this form together?
-- Would you prefer to have help completing this from an accredited representative or someone else from the VA? Why or why not?
-- Thinking of an ideal scenario, can you describe for me what would work best for you if you had to complete this application with multiple people involved?
 - [If not mentioned above] Would you like to have a way to sign in and only complete your own information on the form and let the others complete theirs separately as well?
 
 
@@ -189,7 +182,6 @@ Next we would like your feedback on the information on the next couple of pages.
 
 - In your own words, describe what this page is asking and what it means to you.
 - Are you a legal representative for the Veteran?
-- If you were completing this form, would you have a VA representative involved to help you?
 - In your own words, what would you expect to happen next?
 - What type of document would you upload?
 
@@ -227,13 +219,11 @@ Next we would like your feedback on the information on the next couple of pages.
 - If you had a magic wand and you were in a perfect world, what would you like to see here?
 
 **Participant ratings:**
-How would you rate the amount of information provided in the form? Was it just right, not enough or too much?
-
 
 Thank you for that feedback, I am going to stop sharing my screen now and wrap up with a couple final questions.
 
 - What research would you do before applying and completing a form like this?
-- What are your thoughts on the amount of information provided in the caregivers pages of the form?
+- What are your thoughts on the amount of information provided in this form? Did you think it was too much, just enough, or too little?
 - Is there any additional information about who qualifies as a primary and secondary caregiver that you would've liked to see?
 - [Prompt if needed: For example, would it be helpful to you to see eligibility information about the program when applying vs before-hand?]
 
@@ -241,7 +231,7 @@ Thank you for that feedback, I am going to stop sharing my screen now and wrap u
 
 ## Consent to use video clips
 
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we'll remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
+- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners, removing any information that could be used to identify you?**
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
@@ -249,11 +239,11 @@ Thank you for that feedback, I am going to stop sharing my screen now and wrap u
 
 Well we really appreciate you taking the time to share your thoughts with us today! Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans and for Caregivers too.
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
 
 ##
 
 ## Emergency Exit
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies).
