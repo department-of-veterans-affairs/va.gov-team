@@ -69,11 +69,9 @@ We anticipate that this research will:
 
   * Why? Because if the benefits are clear and compelling, we hypothesize that Veterans will be motivated to take action to reserve an earlier effective date.
 
-* Veterans want to know how intent to file expiry may impact their benefits, but may be overwhelmed if they are provided all relevant dates and their impact (intent to file expiry date, application expiry date, potential effective date). 
+* Veterans will feel confident about continuing their application when intent to file expiration is described in proximity to action-oriented next steps.
 
-  Veterans will feel confident about continuing their application when intent to file expiration is described in proximity to action-oriented next steps.
-
-  * Why? Because Veterans are concerned about intent to file expiry but lack information on its impact and how to preserve their effective date. **\[clarity on when they need to complete their application and why\]**
+  * Why? Because Veterans are concerned about intent to file expiry but need clarity on when they need to complete their application and why.
 
 * Veterans may hesitate to continue their application if they are first introduced to intent to file immediately after clicking “*Start the Pension application*”.
 
@@ -85,12 +83,12 @@ For this study, we will be facilitating semi-structured interviews with Veterans
 
 **Core scenarios:**
 
-1. An authenticated Veteran starts a new pension application; a new ITF is created.  
-2. An authenticated Veteran returns to an in-progress pension application; they have an existing ITF. 
+1. An authenticated and identity-verified (LOA2/3) Veteran starts a new pension application; a new ITF is created.  
+2. An authenticated and identity-verified (LOA2/3) Veteran returns to an in-progress pension application; they have an existing ITF. 
 
 \#1 and \#2 comprise the expected user journey, with the explicit assumptions that the application is available and that the ITF endpoint is available. Other variants or scenarios to potentially test include:
 
-* Error scenario: An authenticated Veteran returns to a new **or** in-progress pension application; VA can’t check for an existing ITF. 
+* Error scenario: An authenticated Veteran returns to a new **or** in-progress pension application; VA is failing or taking too long to check for an existing ITF.
 
 ### **Location**
 
