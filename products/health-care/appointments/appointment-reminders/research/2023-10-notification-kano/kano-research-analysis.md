@@ -9,7 +9,7 @@ Date: 10/25/2023
 **Jump to:**
 
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
-- [Key findings - final prioritization ranking](#key-findings---final-prioritization-ranking)
+- [Key findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Who we talked to](#who-we-talked-to)
 - [Appendix](#Appendix)
@@ -59,12 +59,12 @@ Using Optimal Workshop, we conducted an unmoderated Kano study in which particip
 
 Kano is a quantitative method for prioritizing work based on satisfaction and functionality. The Kano technique assumes that increasing customer satisfaction is dependent on the level of functionality provided for any given appointment notification. We can measure satisfaction through a survey, and notifications can be classified into four distinct categories (Mandatory, Performance, Attractive, and Indifferent) based on the survey results. There are two primary approaches to analysis, which are discrete analysis and continuous analysis. Leveraging discrete analysis, each reminder is classified by the most frequent result. Leveraging continuous analysis, categories are assigned a numerical coding and each reminder is classified using the average of both functional and dysfunctional forms of the survey question pair. You can get an in-depth explanation of the Kano Model in [this article](https://foldingburritos.com/blog/kano-model/).
 
-We analyzed the survey with both analysis approaches and decided to use the findings based on continuous analysis. While discrete analysis is simpler for categorizing data, the lack of nuances, for example, some preferences from respondents were captured into the selected categories, made the result not make sense, and hard to tell what reminders people preferred. The continuous analysis provided a more precise measurement and better reflected the complexity of the 23 reminders. You can check out the results of the discrete analysis in the [Appendix](#Appendix). 
+We analyzed the survey with both analysis approaches and **decided to use the findings based on continuous analysis**. While discrete analysis is simpler for categorizing data, the lack of nuances, for example, some preferences from respondents were captured into the selected categories, made the result not make sense, and hard to tell what reminders people preferred. The continuous analysis provided a more precise measurement and better reflected the complexity of the 23 reminders. You can check out the results of the discrete analysis in the [Appendix](#Appendix). 
 
 ## Hypotheses and Conclusions
 
 - Veterans will have a clear opinion on the value of each reminder.
-    - MAYBE TRUE. Even though the respondents were all able to give a preference for each reminder, it's hard to tell in real situations how they would think and feel about each reminders. This would also depend on personal needs, for example, if someone has never been referred to a different provider, they wouldn't give a fair opinion on Referral reminder.
+    - MAYBE TRUE. Even though the respondents were all able to give a preference for each reminder, it's hard to tell in real situations how they would think and feel about each reminder. This would also depend on personal needs, for example, if someone has never been referred to a different provider, they wouldn't give a fair opinion on Referral reminders.
       
 - For a straightforward appointment (without canceling, rescheduling, or other difficulties), Veterans only need 4 notifications. They include a reminder with pre-check-in questions, check-in, AVS, and money-related (e.g., copay and travel pay) notifications.
     - NOT ENOUGH INFORMATION. This may be something our team needs to decide case by case. While this may be true for Veterans with a straightforward appointment (without canceling, rescheduling, or other difficulties), it's not enough to tell with the study whether Veterans want all reminders.
@@ -73,7 +73,11 @@ We analyzed the survey with both analysis approaches and decided to use the find
     - FALSE. The result shows Veterans have reminder modality preferences for each reminder. 
 
 
-## Key Findings - Final prioritization ranking
+## Key Findings
+
+### Final prioritization ranking
+
+You can find the final ranking for all 23 reminders below. The notification ranked 1 as the highest priority and 23 as the lowest priority. The ranking result is based on all cohorts' responses. 
 
 | Final prioritization ranking | Reminders |
 |----------------|:------:|
@@ -100,6 +104,23 @@ We analyzed the survey with both analysis approaches and decided to use the find
 | 21 | Appointment cancelled by VA |
 | 22 | Appointment cancelled by patient confirmation |
 | 23 | Appointment request denied due to unable to contact |
+
+#### Process
+
+We used a sample spreadsheet [from the Kano Model guide](https://foldingburritos.com/blog/kano-model/) to jumpstart our analysis. In continuous analysis, each answer option is translated to a numerical value within a satisfaction potential scale, going from -2 to 4. The higher the scores, the more an answer reflects how much a Veteran or Caregiver wants the reminder. These scores will then lead to the categorization of our features within a two-dimensional plane.
+
+![Screenshot 2024-09-18 at 12 56 02 PM](https://github.com/user-attachments/assets/a657a06c-ff6d-47b9-9243-e8f6ca6f2e6b)
+
+As the graph shows above, the general prioritization rule of thumb is Must-be > Performance > Attractive > Indifferent.
+
+Our focus is on the positive quadrant, which holds the strongest responses. If a notification ends up as Reverse, we switched the Functional and Dysfunctional scores, so it gets classified into another Kano category. However, in our case, after switching the scores, we still got Reverse for a few notifications, which means Veterans/Caregivers don’t want to receive those notifications.
+
+For notifications that have similar scores, we compared functional and dysfunctional scores separately to determine which notification has a higher or lower rating. For example, if the functional scores are similar, the higher the dysfunction score, the more dissatisfied Veterans/Caregivers are with the current way of discovering the information (negative).
+
+We used the same strategy and analyzed all cohorts’ combined responses and each cohort’s responses to get the final ranking.
+
+### Final prioritization ranking
+
 
 
 ## Details of Findings 
