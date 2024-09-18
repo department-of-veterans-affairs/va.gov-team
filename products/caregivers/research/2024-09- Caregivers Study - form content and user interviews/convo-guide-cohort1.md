@@ -182,10 +182,6 @@ Let's pause here for a minute to talk about the sections we just went through.
 - [If not mentioned above] Would you like to have a way to sign in and only complete your own information on the form and let the others complete theirs separately as well?
 
 
-**Participant ratings:**
-On a scale of 1-5 (1 being very poorly and 5 being very well) - how would you rate the amount of information provided in the form so far?
-
-
 
 ## Task: [Sign as a Rep + Upload Doc] - 5 minutes
 Next we would like your feedback on the information on the next couple of pages.
@@ -228,7 +224,10 @@ Next we would like your feedback on the information on the next couple of pages.
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
 
 - If you had a magic wand and you were in a perfect world, what would you like to see here?
-- What would you want to happen next?
+
+**Participant ratings:**
+How would you rate the amount of information provided in the form? Was it just right, not enough or too much?
+
 
 Thank you for that feedback, I am going to stop sharing my screen now and wrap up with a couple final questions.
 
