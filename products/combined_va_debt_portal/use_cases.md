@@ -32,14 +32,14 @@ searches and gets no results.", etc.
 
 </details>
 
-## Use Case A -  Veteran only has overpayments
+## Use Case A -  Veteran only has debt
 
 - **Description:** A veteran wants to understand what their debt is via the combined debt portal and see if they can resolve it online.
 
 - **Instructions to access in Staging** 
 	- login via user `vets.gov.user+56@gmail.com` (Shirley)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
-	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/summary) on staging
 	- Click 'Check the status and resolve your debt' link under 'Debt and bill overview' section
 
 
@@ -53,7 +53,7 @@ searches and gets no results.", etc.
 - **Instructions to access in Staging** 
 	- `vets.gov.user+80@gmail.com` (Oscar)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
-	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/summary) on staging
 	- Click 'Check your balance and resolve your bill' link under 'Debt and bill overview' section
 
 - **Link to designs**
@@ -68,9 +68,9 @@ searches and gets no results.", etc.
 - **Instructions to access in Staging** 
 	- `vets.gov.user+56@gmail.com` (Shirley)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
-	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging to view combined portal
-	- Navigate to the [Debt Details](https://staging.va.gov/manage-debt-and-bills/summary/debt-balances) on staging to view debt details page with alert
-	- Navigate to the [Copay Details](https://staging.va.gov/manage-debt-and-bills/summary/copay-balances) on staging to view copay details page with alert
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/summary) on staging to view combined portal
+	- Navigate to the [Debt Details](https://staging.va.gov/manage-va-debt/summarydebt-balances) on staging to view debt details page with alert
+	- Navigate to the [Copay Details](https://staging.va.gov/manage-va-debt/summarycopay-balances) on staging to view copay details page with alert
 
 - **Link to designs**
   - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-6778&t=3ws7FSCSqmCcwNU8-1)
@@ -85,10 +85,10 @@ searches and gets no results.", etc.
 - **Instructions to access in Staging** 
 	- `vets.gov.user+3@gmail.com` (Kenneth)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
-	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/summary) on staging
 
 - **Link to designs**
-  - [Overview page](https://preview.uxpin.com/16e8675a9898914d5615d6ea2d23e310b7d8dfaa#/pages/141468871/simulate/no-panels?mode=i)
+  - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=3634-33929&t=3ws7FSCSqmCcwNU8-1)
 
 ## Use Case E - Veteran has both a copay bill and debt
 
@@ -97,7 +97,7 @@ searches and gets no results.", etc.
 - **Instructions to access in Staging** 
 	- `vets.gov.user+81@gmail.com` ("Travis")
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
-	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-debt-and-bills/summary/) on staging
+	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/summary) on staging
 
 - **Link to designs**
   - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=640-6848&t=3ws7FSCSqmCcwNU8-1)
