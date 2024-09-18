@@ -75,7 +75,7 @@ We analyzed the survey with both analysis approaches and **decided to use the fi
 
 ## Key Findings
 
-### Final prioritization ranking
+### Final Prioritization Ranking
 
 You can find the final ranking for all 23 reminders below. The notification ranked 1 as the highest priority and 23 as the lowest priority. The ranking result is based on all cohorts' responses. 
 
@@ -119,8 +119,11 @@ For notifications that have similar scores, we compared functional and dysfuncti
 
 We used the same strategy and analyzed all cohorts’ combined responses and each cohort’s responses to get the final ranking.
 
-### Final prioritization ranking
+### Modality Preferences 
 
+We asked participants to pick a modality preference for each reminder, and you can see the graphs below for each reminder's preference. 
+
+![Screenshot 2024-09-18 at 1 11 18 PM](https://github.com/user-attachments/assets/14326081-7c1f-43e2-afbe-1c1927ce2573)
 
 
 ## Details of Findings 
