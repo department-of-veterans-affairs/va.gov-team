@@ -49,7 +49,7 @@ The tests will be conducted online at the participant’s leisure.
 - [Card Sort Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-08-appointment-details-card-sort/card-sort-outline.md)
 
 ## Recruitment
-7 cohorts, 10 participants each, total 70 responses. Minimum threshold of 45 completed responses
+7 cohorts, 9 participants each, total 63 responses. Minimum threshold of 45 completed responses
 
 ### Primary criteria (must-haves)
 
@@ -57,54 +57,54 @@ The tests will be conducted online at the participant’s leisure.
 - All must have a computer or mobile device and are willing to use it to complete the activity. 
 - All must have used the Appointments tool on VA.gov to manage, review, or schedule their VA medical appointments at least once in the past 6 months. 
 
-**Cohort A: 10 Veterans age 18–24**
+**Cohort A: 9 Veterans age 18–24**
 - Group 1 (5 participants age 18–24)
   - [Link for Cohort A/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=a)
-- Group 2 (5 participants age 18–24)
+- Group 2 (4 participants age 18–24)
   - [Link for Cohort A/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=a)
 
-**Cohort B: 10 Veterans age 25–34**
-- Group 1 (5 participants age 25–34)
+**Cohort B: 9 Veterans age 25–34**
+- Group 1 (4 participants age 25–34)
   - [Link for Cohort B/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=b) 
 - Group 2 (5 participants age 25–34)
   - [Link for Cohort B/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=b)
 
-**Cohort C: 10 Veterans age 35–44**
+**Cohort C: 9 Veterans age 35–44**
 - Group 1 (5 participants age 35–44)
   - [Link for Cohort C/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=c) 
-- Group 2 (5 participants age 35–44)
+- Group 2 (4 participants age 35–44)
   - [Link for Cohort C/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=c) 
 
-**Cohort D: 10 Veterans age 45–54**
-- Group 1 (5 participants age 45–54)
+**Cohort D: 9 Veterans age 45–54**
+- Group 1 (4 participants age 45–54)
   - [Link for Cohort D/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=d)
 - Group 2 (5 participants age 45–54)
   - [Link for Cohort D/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=d) 
 
-**Cohort E: 10 Veterans age 55–64**
+**Cohort E: 9 Veterans age 55–64**
 - Group 1 (5 participants age 55–64)
   - [Link for Cohort E/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=e)
-- Group 2 (5 participants age 55–64)
+- Group 2 (4 participants age 55–64)
   - [Link for Cohort E/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=e) 
 
-**Cohort F: 10 Veterans age 65–74**
-- Group 1 (5 participants age 65–74)
+**Cohort F: 9 Veterans age 65–74**
+- Group 1 (4 participants age 65–74)
   - [Link for Cohort F/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=f)
 - Group 2 (5 participants age 65–74)
   - [Link for Cohort F/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=f) 
 
-**Cohort G: 10 Veterans age 75 +**
+**Cohort G: 9 Veterans age 75 +**
 - Group 1 (5 participants age 75 +)
   - [Link for Cohort G/Group 1](https://dj540s05.optimalworkshop.com/optimalsort/sic6u73j?tag=g)
-- Group 2 (5 participants age 75 +)
+- Group 2 (4 participants age 75 +)
   - [Link for Cohort G/Group 2](https://dj540s05.optimalworkshop.com/optimalsort/pds989ct?tag=g)
 
 ### Secondary criteria (must-haves)
-- At least 30 women
-- At least 30 participants with a cognitive disability
-- At least 30 participants who are not Caucasian
-- At least 15 participants who don't have any degree or vocational training after high school (to include enlisted Veterans)
-- At least 15 people who live in a rural or remote area
+- At least 25 women
+- At least 25 participants with a cognitive disability
+- At least 25 participants who are not Caucasian
+- At least 12 participants who don't have any degree or vocational training after high school (to include enlisted Veterans)
+- At least 12 people who live in a rural or remote area
 
 ### Screener questions
 ```
