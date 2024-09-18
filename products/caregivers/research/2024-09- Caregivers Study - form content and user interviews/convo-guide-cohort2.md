@@ -1,4 +1,4 @@
-# Conversation Guide - Cohort 2
+# Conversation Guide - Cohort 2 (Veterans)
 
 ## Moderator logistics
 ### 2-3 days before the session
