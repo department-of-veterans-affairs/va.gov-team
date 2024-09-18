@@ -132,25 +132,28 @@ We asked participants to pick a modality preference for each reminder, and you c
 
 ## Details of Findings 
 
+### Prioritization Ranking by each cohort
 
+We have also created the ranking result for each cohort through the discrete analysis and continuous analysis, which helped us to see the unique cases for each notification. 
 
-**Finding 1**
+![Screenshot 2024-09-18 at 12 45 28 PM](https://github.com/user-attachments/assets/68545f51-b583-421e-8403-1640bfc7567e)
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-## Additional Insights
-
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
-
+- Cancelled by VA
+     - This notification is at 22 for final ranking, but cohort 3 (age 18-35 years old) rated this notification as number 1 most wanted notification.
+- Appointment request denied due to unable to contact
+     - This notification ranked last for the final ranking, but cohort 4 (age 35-55 years old) rated this as the 4th most wanted notification.
+- Travel reimbursement submitted
+     - Even though it’s high in the overall ranking, Cohort 3 (age 18-35 years old) doesn’t want this notification.
+- Due for flu shot and remind to make an appointment
+     - Cohort 4 (age 35-55 years old) doesn’t want this notification.
+- Appointment request scheduled at a different time and date
+     - Cohort 3 (age 18-35 years old) doesn’t want this notification.
+- Earlier appointment than scheduled
+     - Cohort 7 (various education level) doesn’t want this notification.
+- AVS ready to view
+     - Cohort 2 and 3 ranked “AVS ready to view” notification low in comparison to other cohorts, which dragged the overall ranking down.
+- Pre-check-in link
+     - Cohort 5 (age 55+ years old) prefers this notification more than other cohorts.
 
 ## Recommendations
 
