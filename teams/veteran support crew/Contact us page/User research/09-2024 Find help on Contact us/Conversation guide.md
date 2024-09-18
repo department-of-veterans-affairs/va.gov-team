@@ -54,8 +54,8 @@
 ## Intro - 5 minutes
 > Start transcript: `LIVE TRANSCRIPT` > `ENABLE`.
 
-Thanks for joining us today. My name is Becky. How are you?
-I’m a researcher from VA. I work on improving VA.gov to make it easier for Veterans to find answers to their questions and VA contact information.
+Thanks for joining us today. How are you? My name is Becky, and
+I’m a researcher from VA. I'll go over a couple of things before we get started. I work on improving VA.gov to make it easier for Veterans to find answers to their questions and VA contact information.
 
 **What I hope to do today** is learn how to improve this process by understanding your experiences better.
 **What I don't want to do** is add to any frustration you’ve had with VA in the past. I want to be up front and say that I don't have a way of fixing those past experiences. But, I do want to know about your frustrations in case they're things we can improve in the future.
