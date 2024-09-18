@@ -52,8 +52,9 @@
       - ✔️ 🟨 [[DevOps] Cleanup initiatePreCheckin event.schema](https://github.com/department-of-veterans-affairs/checkin-devops/issues/429)
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to advance the FE and BE work as much as possible**
-    - ⛔ WAITING ON SCOPE DECISIONS:
-        - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
+    - ✔️ WAITING ON SCOPE DECISIONS:
+        - ✔️ What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
+          - Steps to access file in Planitir are in [Slack thread](https://dsva.slack.com/archives/C06RMRJCLHH/p1726667054494449?thread_ts=1726505070.527829&cid=C06RMRJCLHH) 
     - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
     - 🟩 [[FE] Referral Review - update design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
     - 🟩 [[FE] Choose a date & Time - design update ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92483)
