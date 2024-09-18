@@ -9,7 +9,7 @@ Date: 10/25/2023
 **Jump to:**
 
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
-- [Key findings - final prioritization ranking](#key-findings-Final-prioritization-ranking)
+- [Key findings - final prioritization ranking](#key-findings---final-prioritization-ranking)
 - [Recommendations](#recommendations)
 - [Who we talked to](#who-we-talked-to)
 - [Appendix](#Appendix)
