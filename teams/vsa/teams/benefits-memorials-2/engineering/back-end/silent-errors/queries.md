@@ -46,7 +46,7 @@ result.map(&:error_message)
 - [ ] Has the failure been resolved?
 - [ ] How do we plan to address future failures?
 
-- There is more information in the documentation including a checklist...
+- There is more information in the documentation including a checklist which we've [copied here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/silent-errors/checklist.md)!
 
 ## Fix Sharepoint Submission Errors
 If you see a sharepoint error when you're pulling errors. You can get the submission id from the record and use it to retry a submission.
