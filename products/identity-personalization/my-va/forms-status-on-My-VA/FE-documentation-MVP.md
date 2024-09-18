@@ -1,6 +1,6 @@
 # Forms Status on My VA MVP Frontend Documentation
-Last updated: September 18, 2024 - added VA Form 20-10206 Request personal records to the list for MVP (TB)
-Last updated: September 10, 2024 - fixed link placement
+- Last updated: September 18, 2024 - added VA Form 20-10206 Request personal records to the list for MVP (TB)
+- Updated: September 10, 2024 - fixed link placement
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
