@@ -163,7 +163,8 @@ We have also created the ranking result for each cohort through the discrete ana
 
 [Kano Model Guide](https://foldingburritos.com/blog/kano-model/)
 
-[Discrete analysis](linkhere)
+[Discrete analysis.pdf](https://github.com/user-attachments/files/17050063/Discrete.analysis.pdf)
+
 
 ## Tools used for Synthesis
 
