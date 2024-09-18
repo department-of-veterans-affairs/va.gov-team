@@ -100,8 +100,8 @@ These research sessions will be conducted remotely via Zoom.
 
 Research materials for moderated interviews include:
 
-* Conversation guide (link to come)  
-* Conversation stimuli (TBD, prototype of relevant ITF screens)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2024-10%20Intent%20to%20File%20Comprehension/conversation-guide.md)
+* [Conversation stimuli](https://www.figma.com/design/9JKK5Eo43uJWEr66JPiebc/Pension-Claim-Form-21P-527EZ?node-id=7792-315420&t=JJuSb4B8GOIfITEL-4) 
 
 ## **Recruitment**
 
