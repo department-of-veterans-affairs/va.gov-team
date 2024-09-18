@@ -125,6 +125,10 @@ We asked participants to pick a modality preference for each reminder, and you c
 
 ![Screenshot 2024-09-18 at 1 11 18 PM](https://github.com/user-attachments/assets/14326081-7c1f-43e2-afbe-1c1927ce2573)
 
+![Screenshot 2024-09-18 at 1 18 35 PM](https://github.com/user-attachments/assets/9ede4af8-7d1b-4a20-8a31-6ba4a8c33c2c)
+
+![Screenshot 2024-09-18 at 1 18 46 PM](https://github.com/user-attachments/assets/9792810e-2ecf-456f-9ce0-1f3ebe68487e)
+
 
 ## Details of Findings 
 
