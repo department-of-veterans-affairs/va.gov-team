@@ -46,6 +46,8 @@ searches and gets no results.", etc.
 - **Link to designs**
   - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-6637&t=3ws7FSCSqmCcwNU8-1)
   - [Overpayment summary page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-7496&t=3ws7FSCSqmCcwNU8-1)
+    *The Overpayment detail page shows payment history table:
+  - [Overpayment detail page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=1963-16864&t=3ws7FSCSqmCcwNU8-1)
 
 ## Use Case B - Veteran only has a copay bill
 - **Description:** A Veteran is interested in viewing their medical copay bill on the combined debt portal and see if they can resolve it online.
