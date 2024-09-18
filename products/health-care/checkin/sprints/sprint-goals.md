@@ -54,7 +54,6 @@
     - **Sprint Goals is to advance the FE and BE work as much as possible**
     - ⛔ WAITING ON SCOPE DECISIONS:
         - What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
-        - Send messages to Melanie for review and Privacy Officer        
     - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
     - 🟩 [[FE] Referral Review - update design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
     - 🟩 [[FE] Choose a date & Time - design update ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92483)
@@ -73,8 +72,9 @@
     - 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
     - 🟥 [[Design] Create low-fi wireframe options](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92856)
     - 🟥 [[SPIKE] Consider unmoderated study to solicit quick feedback on content changes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/93025)
-    - Create collab cycle ticket
-    - Have Kristen Schedule OCTO PO Sync touchpoint ([Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-with-staff.md))
+    - ✔️ Create collab cycle ticket
+    - ✔️ Have Kristen Schedule OCTO PO Sync touchpoint ([Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-with-staff.md))
+       - [OCTO PO Sync touchpoint ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93088) 
 - **Stand-alone Travel Application for OH Sites**
    - **Sprint Goal is to tweak content based on Staging Review**
    - 🟦 [[BE] [OH] Add client_number_oh to config ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93078)
