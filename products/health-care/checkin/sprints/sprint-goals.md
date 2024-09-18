@@ -64,7 +64,7 @@
     - 🟥 [[Design] Add content to confirmation page about how to cancel appt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92733)
     - 🟥 [Add urls to MVP scope page in Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92776)
     - 🟥 Send messages to Melanie for review and Privacy Officer
-          - Waiting for VA Notify kick off to happen first
+        - Waiting for VA Notify kick off to happen first
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
     - 🟥 [[Design] Add info to confirmation/detail page to clarify steps for rescheduling](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/91239)       
 - **Check in with staff after checking in**
