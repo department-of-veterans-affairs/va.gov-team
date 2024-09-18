@@ -49,7 +49,7 @@ The second goal is to find out in what modality (text message, phone call, push 
 
 ## Research Questions
 
-- Which appointment remidner are helpful for Veterans the most and the least?
+- Which appointment reminders are helpful for Veterans the most and the least?
 - What formats (text, email, phone call, or push notifications) do Veterans prefer to receive, and for which reminders?
 - How do Veterans feel about receiving appointments and appointment-related reminders?
 
@@ -57,9 +57,9 @@ The second goal is to find out in what modality (text message, phone call, push 
 
 Using Optimal Workshop, we conducted an unmoderated Kano study in which participants were invited by email to participate. After accepting the invitation, participants (Veterans and caregivers) were sent a link to a survey activity that contained, respectively, 20-25 questions (or less than 15 mins). We got completed responses from 63 Veterans, in distinct 7 cohorts (fewer than 10 participants per cohort, per PRA). Each cohort accessed the study using a unique URL. The surveys were filled out remotely and asynchronously. 
 
-Kano is a quantitative method for prioritizing work based on satisfaction and functionality. The Kano technique assumes that increasing customer satisfaction is dependent on the level of functionality provided for any given appointment notification. We can measure satisfaction through a survey, and notifications can be classified into four distinct categories (Mandatory, Performance, Attractive, and Indifferent) based on the survey results. There are two primary approaches to analysis, which are discrete analysis and continuous analysis. Leveraging discrete analysis, each reminder 
+Kano is a quantitative method for prioritizing work based on satisfaction and functionality. The Kano technique assumes that increasing customer satisfaction is dependent on the level of functionality provided for any given appointment notification. We can measure satisfaction through a survey, and notifications can be classified into four distinct categories (Mandatory, Performance, Attractive, and Indifferent) based on the survey results. There are two primary approaches to analysis, which are discrete analysis and continuous analysis. Leveraging discrete analysis, each reminder is classified by the most frequent result. Leveraging continuous analysis, categories are assigned a numerical coding and each reminder is classified using the average of both functional and dysfunctional forms of the survey question pair. You can get an in-depth explanation of the Kano Model in (this article)[https://foldingburritos.com/blog/kano-model/].
 
-
+We analyzed the survey with both analysis approaches and decided to use the findings based on continuous analysis. XXX
 
 ## Hypotheses and Conclusions
 
