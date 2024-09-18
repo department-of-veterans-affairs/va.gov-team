@@ -93,6 +93,7 @@ We'll show the status of these select forms here for 60 days after you submit th
 - Sign VA claim forms as an alternate signer (VA Form 21-0972)
 - Submit an intent to file (VA Form 21-0966)
 - Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847)
+- Request personal records (VA Form 20-10206)
 
 If you have questions about your applications or forms, call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
