@@ -105,6 +105,8 @@ We treat paranoid success as success instead of possible failure in order to giv
 - AND the most recently created of those has a value of `true` for it's attribute `success`
 - THEN this is considered successful
 
+[For more on how we remediate duplicate submissions, see this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/deduplicating_526_submissions.md)
+
 ##### why have multiple remediations with a success state?
 
 Remediation of form 526 submissions was a very long and complex process. Many submissions were at one time considered 'remediated', but later needed to be remediated again. This is due to the fact that remediation was a highly manual process involving coordination of humans for manual processing way downstream. Technical limitations and inevitable communication problems contributed as well, and we needed a way to not lose the context of why things had been remediated multiple times.
