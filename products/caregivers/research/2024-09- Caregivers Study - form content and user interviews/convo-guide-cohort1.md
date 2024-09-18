@@ -7,8 +7,9 @@
 - Complete project-specific setup tasks for this study
 
 - [ ] Open and prepare confirmation screen in Figma for content feedback
+- [ ] [Figma confirmation page - desktop](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2930-67957&node-type=instance&t=EUUhWg1tjIgVWLwc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2930%3A67957)
 - [ ] Open and prepare prototype for facilities search -- ONLY if not ready in staging/production (pending final confirm, but will likely be deleting this)
-- [ ] [Figma prototype](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2938-72931&node-type=instance&t=Zu7Tk6YxVsoRXLWF-1&scaling=min-zoom&content-scaling=fixed&page-id=2468%3A21603&starting-point-node-id=2938%3A72931)
+- [ ] [Figma facilities mobile prototype](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2938-72931&node-type=instance&t=Zu7Tk6YxVsoRXLWF-1&scaling=min-zoom&content-scaling=fixed&page-id=2468%3A21603&starting-point-node-id=2938%3A72931)
 
 
 ### Day of the session
