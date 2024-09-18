@@ -35,6 +35,8 @@ result.map(&:error_message)
  "Gateway timeout",
  "Gateway timeout"]
 ```
+
+## List from Slack
 - [x] What each of the silent failures we have identified are?
   - In spreadsheet
 - [x] Date failures occurred? (ideally we want to review all data we have - portal launched in January 2021 and first FSR experience which was VBA only launched on Nov 16, 2021 - VHA was added into the mix with the Combined FSR launch on September 19, 2022: In case those dates help at all)
@@ -64,3 +66,5 @@ sharepoint_request.upload(
 We should get in contact with our partners and find out the following:
 * What are the resolution cut off dates? Meaning, is there a timeframe where forms are no longer relevant?
 * We could pull ids for forms in error and see if there was an issue with submission to our partners. This is what we did when we had that sharepoint issue a month or so back. They were able to get us submission ID'
+* Get PR for exhaustion metrics merged
+* Get PR up for better error messaging
