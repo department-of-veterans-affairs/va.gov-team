@@ -162,7 +162,7 @@ Cards are stacked in a single column on both mobile and desktop, as shown in the
 
 ## When form status cards besides drafts appear
 
-For MVP, [7 forms are tracked and displayed on My VA](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/MVP-form-list.md):
+For MVP, [8 forms are tracked and displayed on My VA](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/MVP-form-list.md):
 
 - Authorize the release of non-VA medical information to VA (VA Form 21-4142 & 21-4142a)
 - Submit a lay or witness statement to support a VA claim (VA Form 21-10210)
@@ -171,6 +171,7 @@ For MVP, [7 forms are tracked and displayed on My VA](https://github.com/departm
 - Sign VA claim forms as an alternate signer (VA Form 21-0972)
 - Submit an intent to file (VA Form 21-0966)
 - Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847)
+- Request personal records (VA Form 20-10206)
 
 
 Once one of these forms are submitted, they will be represented as a card on My VA. The cards with the statuses of submission in progress, received, and action needed correspond to these forms. 
