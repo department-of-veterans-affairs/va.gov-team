@@ -164,14 +164,15 @@ Maximum Sessions per day: 3
 
 ### **Availability**
 
-| Date | Time | Notes |
-| :---- | :---- | :---- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|                 |         |       |
+| --------------- | ------- | ----- |
+| Date            | Time    | Notes |
+| Tuesday, 10/8   | 11-5 ET |       |
+| Wednesday, 10/9 | 11-5 ET |       |
+| Thursday, 10/10 | 11-5 ET |       |
+| Friday, 10/11   | 11-5 ET |       |
+| Tuesday, 10/15  | 11-5 ET |       |
+
 
 ## **Team Roles**
 
