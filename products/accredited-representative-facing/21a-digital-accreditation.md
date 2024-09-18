@@ -47,7 +47,6 @@ The below personas reflect the goals, pain points, and other information for _ac
   * [Business Logic - 21a - Agents.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/Eew_OdPLYRpBgW1I_WzgpbIB_aAWNGm0jjW52qDOv7wcEA?e=Jn6aiW) (Sharepoint)
   * [Business Logic - 21a - Attorneys.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/ERV-Dht0rKpLoMfwS-YDTpkBGyE_GVUdNxz7tsZ6sM23Cg?e=GmrajJ) (Sharepoint)
   * [List of jurisdictions, agencies, and courts.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EdraCvW6JJtLia7Ju4uI4l0BYsEKE_ppHHmHI8fbHJ8kFw?e=WQMwpp) (Sharepoint)
-* (Add sharepoint links)
 
 ## Slack communications
 
