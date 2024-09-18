@@ -1,4 +1,4 @@
-# Conversation Guide - Cohort 1
+# Conversation Guide - Cohort 1 (Caregivers)
 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -29,20 +29,19 @@
 Thanks for joining us today! My name is [Jessica/Angela] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them, some things I want to mention: 
 
-Today we're going to talk about the application for the **Program of Comprehensive Assistance for Family Caregivers**. We have some questions for you about this and then we would like you to share your screen and go through using the online form in our test site. We will use our demo site so you won't be actually submitting an application today. 
+Today we're going to talk about the application for the **Program of Comprehensive Assistance for Family Caregivers**. We have some questions for you about this and then we would like you to share your screen and go through using the online form. We will use our testing site so you won't be actually submitting an application today. 
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem - just let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- **Your participation in this interview is completely voluntary.** If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem - just let me know.
+- **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov.
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we've captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (like 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we've captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ and Caregivers' experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
+- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ and Caregivers' experiences, removing anything that could be used to identify you like your onscreen image and name?** We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
