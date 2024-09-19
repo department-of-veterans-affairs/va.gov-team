@@ -84,10 +84,92 @@ Becky: I see you're scrolling down now.
 
 > P7: I think I would call the VA benefits hotline. I think that would be I would prefer to talk to somebody and say, hey, here's my problem. Where do I need to go?
 
-I prefer to talk to someone and ask where I need to go. I know from past experience, I can click on these links I end up in a rabbit hole and three hours later I forget what I was even looking for. I may or not be talking to someone if I’m typing. It could be a robot, you don’t don’t know. 
-*Were you looking for keywords? -Yes. The VA website, I get extremely frustrated trying to use it. Even if there were a search box. 
-The whole list of numbers might by a rabbit hole. 
-99% of the time, If I'm looking on the site, I can’t find it. If I look in community care, I will search it and it will not give me the right information.  
+> P7: Because I know from past experience, I can click on this stuff here on Contact us, on this page.
+
+> P7: Well, here's a call, was call, was would be the same as the other thing. I could click on that and call somebody and talk to somebody and say, hey, where do I go from here?
+
+> P7: Here's my question rather than because I know a lot of times if I click on these links, I end up in a rabbit hole and three hours later I'm like hell in the heck did I end up here. You know, forget what I'm even looking for, you know.
+
+> P7: So unless it specifically says, you know, how do I, you know, request more compensation? So it's not really giving me the the question I'm looking for.
+
+> P7: I mean, I, you know, you contact us online via ask VA was basically the same thing as calling somebody and talking to them, except I'm typing rather than, and I may or may not actually talk to somebody.
+
+> P7: If I'm typing online, I may be talking with a, a robot and, you know, so you you just don't know.
+
+Becky: I want to go back to one thing you mentioned. And so you know, you were scrolling down the page and I wanted to confirm, were you looking specifically for like keywords related to the scenario like compensation or increase things like that?
+
+> P7: Yes.
+
+Becky: OK. Got it, yeah. And it sounded like you didn't see those.
+
+> P7: Well, it just the VA website, I get extremely, extremely frustrated trying to use it because even like the search, if, if there's ever a search box and I put in VA compensation and it will give me stuff that's not even close to what I'm asking for, you know, it'll talk about or allowance or, you know, crazy stuff.
+
+> P7: And so I'm, I found it's better off to try to talk to somebody if, if you can, whether it's verbally over the phone or chat personally with somebody.
+
+> P7: Again, a lot of times anymore, if even even trying to talk to somebody or chat with somebody, you got this whole layer of, you know, press 1, press 2, you know, and sometimes you may think you're actually talking to somebody and it's like, no, this is a robot, you know, so it's, it's frustrating.
+
+Becky: Exactly. No, I definitely hear you. It's quite clear why you would choose to call first. And I'm curious, you know, when you went down to that section, there were a bunch of phone numbers listed.
+
+Becky: So how did you, what's your thought process to choose that specific one that you would call?
+
+> P7: Well, on Call us, there's a main information line, but there, it's kind of like a clearing height house guy. You don't know, you know, it's not specific enough.
+
+> P7: Telecommission kind of TTTYI think that's I don't know. I think that's for hard of hearing or something. I don't know what that is. But anyway, I don't think it fits.
+
+> P7: VA benefits hotline. That's an that's an option. That would be a good option.
+
+> P7: The GI Bill hotline, nah. That's not going to work for my question here.
+
+> P7: National call Center for homeless. Nope, that's not it.
+
+> P7: Benefits hotline [pointing to VA health benefits hotline]. That sounds more specific as to what I'm looking for.
+
+> P7: The healthy vet. That's more if you're having trouble with accessing this whole, my healthy vet program like technical problems, not so much the other thing.
+
+> P7: And there's a full list of numbers and that's a rabbit hole that sometimes I was here just in the last month. Who was I calling or what was I calling about? It was about community care.
+
+[P7 discusses health experience.]
+
+> P7: [About community care experience] And no matter what I did, I ended up getting a recording or, or whatever. So I left a message, said here's the situation, here's my name, here's my contact information. Never heard anything back.
+
+> P7: Eventually I end up going to a general telephone list, say at VA hospital, clicked on community care, called that number, left a message.
+
+> P7: Couple weeks later after this is all over, I get a a telephone call from somebody called [name].
+
+> P7: I had no idea who [name] was trying to tell her what's going on. It's like, I don't know who you are, [name], but are you from, you know, a doctor's office, community care, whatever.
+
+[P7 continues discussing health experience.]
+
+Becky: Well, I was just gonna ask you as a follow up. Right now we're on the contact us page, but it doesn't necessarily have, you know, all of the phone numbers that you mentioned.
+
+Becky: So how did you go about finding that contact information like the the [location] office you mentioned and all those other contact information?
+
+> P7: I probably got frustrated with the VA.gov site, went out to like Google and googled [location] VA hospital phone list or or whatever.
+
+> P7: And then I would find a VA.gov website to click on and show me a list of phone numbers.
+
+> P7: And found usually when I do that or even when if I do it within the va.gov, I'm looking for a specific doctor or let's say I'm looking for orthopaedic surgery.
+
+> P7: Well, orthopaedic surgery is not there, you know, or if I'm looking for community care, it, it may or may not be listed.
+
+> P7: It it never 90 some percent of the time if I'm looking for something on the site, I can't find it.
+
+> P7: And if I do the search thing, type in community care, like I said, it'll give me stuff that's not even related to what my question is. Very frustrating.
+
+Becky: Got it. Yeah. You mentioned, you know, going down the rabbit hole, clicking links, not being able to find anything and keyword searches, maybe not using the right ones to to pull up the right information. So that makes sense to me.
+
+Becky: Yeah. To wrap up the scenario, I want to ask you a final question. And so let's say you try calling the benefits hotline number.
+
+Becky: It doesn't give you the answer you need. And again, the scenario is you just want to ask, can I increase my disability compensation for a worsening condition, my shoulder pain? And you don't quite get the answer you need. What would you do next?
+
+> P7: In this case, what I have found the best thing to do, and I've very rarely had to do it, was go to the, I forget the term for the guy, the [location] Department of Veteran Affairs representative, and that guy will know the answers.
+
+> P7: He'll know, how do I want to say it? He'll know that nitty gritty of, it says this. But if you do this, you can, you can get there. You know, so or you know, don't even. I know it says that, but don't even mess with that. You'll never, it'll never work.
+
+> P7: I don't use them very often, but that is kind of the last resort. It's local. It's within 15 minutes of my house. I could drive to their office.
+
+> P7: I can do a walk in like I say, I've I've probably used them in the last [number] years four times, you know, and, and in those four times, it was always a compensation question, disability and compensation. Yeah. So that's the last resort for me.
+
 *You called the Hotline number, and you didn’t get the answer you need? -Go to the West Virginia representative of the VA Affairs. I have used them at least four times in the past year. That is the last resort for me.]
 ### Claims scenario
 [I would go down to My Healthy Vet desk and tell them I need to create a login and help me. 
