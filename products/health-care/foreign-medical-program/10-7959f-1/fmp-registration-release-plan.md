@@ -73,6 +73,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - receive confirmation of PEGA import
 - resolution of any PEGA errors/issues
 - Datadog/DOMO and GA monitoring
+- VA notify - push template to production
+- make sure flipper with allowlist is ready to go
+- test internally - and then remove any test data
+  - check meta data
+- react widget notification for CAIA (after testing is signed off on)
+- notify contact center when this is ready
+- back end verification/steps
 
 ### Stage A: Canary
 
