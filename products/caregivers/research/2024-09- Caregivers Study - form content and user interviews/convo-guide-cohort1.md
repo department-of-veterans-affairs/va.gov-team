@@ -85,7 +85,7 @@ Before we look at the caregiver program online form, let’s start with a few wa
 ## First Task: [Introduction page] - 5 minutes
 
 - Thank you for sharing that background. Now let's change gears a bit.
-- I'm going to share a link to our staging site with you in the chat and when you're ready have you share your screen in Zoom with me.
+- I'm going to share a link to our testing site with you in the chat and when you're ready have you share your screen in Zoom with me.
   
 - [Link to [Staging](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction)]
 
@@ -107,7 +107,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared and
 
 ## Second Task: [Veteran information] - 5 minutes
 - Now I'd like you to start the form as if you were applying for the program.
-- This is our staging site for testing purposes so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive items such as your social or birth date that you don't want to share.
+- This is our testing site so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive items such as your social or birth date that you don't want to share.
 - As you go through the form please remember to think aloud. We want to hear about any reactions you're having.
 - [If they pause on the county field, ask additional questions] I see you are pausing on this, can you tell me more about why?
 
@@ -173,8 +173,6 @@ Let's pause here for a minute to talk about the sections we just went through.
 
 - If you were completing this online form for real, can you tell me how would you coordinate getting this information from everyone involved?
 - Would you sit down and complete this form together?
-- [If not mentioned above] Would you like to have a way to sign in and only complete your own information on the form and let the others complete theirs separately as well?
-
 
 
 ## Task: [Sign as a Rep + Upload Doc] - 5 minutes
@@ -197,6 +195,7 @@ Next we would like your feedback on the information on the next couple of pages.
 
 - Please look over this page and tell me about your initial impressions or expectations.
 - If you saw something you entered by mistake, show me how you would go about correcting that.
+- What's your comfort level filling out and signing this information without all the people involved present?
 - You won't be able to submit the application in this test form so you can stop screen sharing now and I'll share my screen for the final part of this session.
 
 ### Things to watch for:
@@ -209,7 +208,7 @@ Next we would like your feedback on the information on the next couple of pages.
 
 
 
-## Confrimation Page + Post Task Interview - 5 minutes
+## Confirmation Page + Post Task Interview - 5 minutes
 
 - I'm going to share my screen with you for the final step of the form and I'll ask you some questions about it.
 - [show figma comp of production design version of confirmation page](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2930-67957&node-type=instance&t=EUUhWg1tjIgVWLwc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2930%3A67957)
