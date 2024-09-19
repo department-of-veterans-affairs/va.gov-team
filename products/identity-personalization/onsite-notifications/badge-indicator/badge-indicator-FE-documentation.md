@@ -46,6 +46,6 @@ TK TK
 [Go to your inbox](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
 
 ## Technical Implementation
-_how does this feature actually work - i.e. what endpoints are being called, who own those endpoints, what team(s) should be consulted if changes are needed or something breaks, etc._
+_For engineer to complete: how does this feature actually work - i.e. what endpoints are being called, who owns those endpoints, what team(s) should be consulted if changes are needed or something breaks, etc._
 
 TK TK
