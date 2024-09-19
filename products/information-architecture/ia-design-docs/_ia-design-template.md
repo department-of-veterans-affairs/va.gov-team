@@ -3,8 +3,8 @@
 
 **Team:** [Team name]
 
-**CAIA Intake ticket:** [Link to Sitewide Content and IA intake request]
-**IA Tracker:** [Link to Sitewide Content and IA intake request]
+**CAIA Intake ticket:**
+**IA Tracker:** 
 
 **On this page:**
 - [User/page flows](#flows)
