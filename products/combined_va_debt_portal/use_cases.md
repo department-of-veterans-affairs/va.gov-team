@@ -123,5 +123,5 @@ searches and gets no results.", etc.
 	- [Empty state: debts, but no copays](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-6637&t=3ws7FSCSqmCcwNU8-1) 
 
 - There are content difference between one facility or multiple facilities when it comes to medical copays, so just something to keep an eye out for:
-	- [1 facility](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148524983/simulate/sitemap?mode=i)
-	- [Multiple facilities](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148559873/simulate/sitemap?mode=i)
+	- [1 facility](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=113-14117&t=XTu5oLFOMxbg9hSZ-1)
+	- [Multiple facilities](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=113-14529&t=XTu5oLFOMxbg9hSZ-1)
