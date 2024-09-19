@@ -100,7 +100,7 @@
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/past-rates-2022-2023
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Transferred education benefits for family members > Transferred Post-9/11 GI Bill benefit rates > Past rates: 2022-23 transferred Post-9/11 GI Bill benefits
 
-**18) Transferred GI benefit application 22-1990 - Change**
+**18) Transferred GI benefit application 22-1990 - NOT LAUNCHING THIS ROUND**
 - URL: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/apply-form-22-1990e
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Education and career benefits for family members > Transferred education benefits for family members > Apply to use transferred education benefits
 - Notes: Depending on whether we can get education product team resources, this form may/may not launch in this phase.
@@ -145,7 +145,7 @@
        - **Transferred 9/11 GI Bill benefit rates: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates**
        - **Fry Scholarship rates: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates**
        - **DEA/CH35 rates: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/**
-       - **R+S: How to choose GI Bill approved schools: va.gov/resources/choosing-a-school-with-gi-bill-approved-programs**
+       - **R+S: How to choose GI Bill approved schools: va.gov/resources/choosing-a-school-with-gi-bill-approved-programs NOT LAUNCHING THIS ROUND**
        - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
        - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
        - **R+S: Yellow ribbon program FAQs for family members: va.gov/resources/yellow-ribbon-program-faqs**
@@ -171,16 +171,14 @@ The education/careers left nav will have the following structure. These are not 
          - Past rates: 22-23
          - Past rates: 21-22
          - Past rates: 20-21 
-    - Apply DEA/FRY form 22-5490 (Depending on whether we can get education product team resources, this form may/may not launch in this phase.)
+    - Apply DEA/FRY form 22-5490
     - Transferred post-9/11 GI bill education benefits
-      - Apply form 22-1990e (Depending on whether we can get education product team resources, this form may/may not launch in this phase.)
+      - Apply form 22-1990e (NOT LAUNCHING THIS ROUND)
       - Transferred benefit rates
          - Future rates
          - Past rates: 23-24
          - Past rates: 22-23
     - CH 36
-      
-![Screenshot 2024-09-11 at 4 13 33 PM](https://github.com/user-attachments/assets/f68d70f0-3b64-4fa3-a6e1-8b9c28ad022f)
 
 
 ### Crosslinks
