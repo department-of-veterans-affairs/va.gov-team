@@ -72,3 +72,58 @@ There are a couple of approaches that vary in loading time:
 - You can filter by `@named_tags.jid` using 1 job id and limiting the timeframe to the day listed in the timestamp. This is usually a pretty fast query.
 - You can filter by multiple job ids by connecting them with an OR and widening the timeframe to fit all the timestamps for those logs. This is a longer query to run, so you may need to batch them if there are a lot of job ids to check. For example: `@named_tags.jid:(jobid1 OR jobid2 OR jobid3)`
 - *Note: Make sure to select “Online Archives” from the dropdown if the logs you need to look at are from >1 month ago.*
+
+---
+
+## Current Remediation Process [WIP]
+*“The general guidance is that if the error occurred within 2 weeks, we can manually resubmit or have the contact center reach out. If it's been more than 2 weeks, then we need to work with BVA or VBA to notify the Veteran.”*
+
+### HLR / SC / NOD Form error (VA.gov <> Lighthouse)
+- Has it been more than 2 weeks since they tried submitting?
+  - Yes
+    - Remediation with VBA/BVA?
+  - No
+    - Is the InProgressForm still available?
+      - Yes
+        - Reach out to Veteran to ask them to resubmit
+        - [??] If part of their data reached LH already, do we need to let downstream teams know that there will be a duplicate when the Veteran resubmits?
+      - No
+        - Is there a SavedClaim with the original form data?
+          - Yes
+            - [TBD] What is the process to submit their form data to Lighthouse on their behalf?
+          - No
+            - [TBD] Remediation with VBA/BVA?
+
+### HLR / SC / NOD Form error (downstream of Lighthouse)
+- No current process other than having VBA/BVA remediate
+  - One option could be reaching out to the Veteran and have them mail it in? (Automated email and/or link to PDF on confirmation page could satisfy this error case) 
+    - [TODO] Figure out how to make sure the form is dated correctly for this
+   
+### Evidence upload to Lighthouse error (Sidekiq job error)
+- Has it been more than 2 weeks since they tried submitting?
+  - Yes
+    - Remediation with VBA/BVA?
+  - No
+    - Is there a way for us to tie the evidence back to its form submission? (via SavedClaim?)
+      - Yes
+        - [??] Our job retries should be handling any transient errors but if needed, should we re-run the job and upload to Lighthouse ourselves?
+      - No
+        - Do we know what the filename is? 
+          - (Not sure if this is necessary, even if we don’t know, we might be able to ask them to mail in all the evidence they wanted to include)
+          - Ask Veteran to mail in evidence?
+         
+### Evidence error (downstream)
+- Has it been more than 2 weeks since they tried submitting?
+  - Yes
+    - Remediation with VBA/BVA?
+  - No
+    - Do we have the file upload available in S3 and is it valid to send downstream? (i.e. not all blank, not password protected, etc)?
+      - Yes
+        - Can we try to re-upload on our own? Will we encounter the same error? Do we need to talk to downstream teams about adjusting validation logic?
+        - Currently we are still defaulting to reaching out to the Veteran even though technically their upload should have made it through
+          - Should we contact downstream teams to let it through? (This has happened recently where Shaun handled the manual process)
+      - No
+        - Reach out to the Veteran and ask them to mail it (If not automated notification, have Contact Center handle comms)
+
+
+
