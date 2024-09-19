@@ -9,26 +9,40 @@
         * Documentation
         * Templates
     * [Roadmap](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Planning/MHV%20on%20VA.gov%20Roadmap.xlsx?d=w51d1cea2ff1947f092fb04b78bbe9dad&csf=1&web=1&e=bQpMXU&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
-    * 
-
-
-
 * Medical Records
     * Analytics
-        * DataDog Dashboards
-             **[MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
+        * [DataDog MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
         * G4 Dashboards
     * Collab Cycle Tickets
         * Open
+          - [Medical Records Initital Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53454)
+          - [Download Records](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92340)
         * Closed
     * Mapping Documentation
         * FHIR Publication
     * Figma
         * Links to Designs
     * JIRA
-        * Link to Team Board
+        * [Team Board](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=8181&view=planning.nodetail&selectedIssue=MHV-61637&epics=visible&issueLimit=100#)
     * Research
         * 
 * Medications
 * Secure Messaging
+*     * Analytics
+        * [DataDog SM Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-07e313c672cdf0fcd59ceb5c25b4c31c?refresh_mode=sliding&from_ts=1691515174056&to_ts=1699291174056&live=true)
+        * G4 Dashboards
+    * Collab Cycle Tickets
+        * Open
+          - [Secure Messaging Initital Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51115)
+          - [Contact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90850)
+          - [Filter Redesign](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90138)
+          - [Landing Page/Navigation Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90137)
+        * Closed
+    * Documentation
+    * Figma
+        * Links to Designs
+    * JIRA
+        * [Team Board](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=1094&view=planning.nodetail&epics=visible&issueLimit=100&selectedEpic=MHV-57849#)
+    * Research
+        * 
 
