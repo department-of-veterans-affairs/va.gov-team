@@ -22,23 +22,32 @@ Follow this pattern to help users know how and when their information will be pr
 ## How to design and build
 
 ### Anatomy or layout details
+#### Form Intro Pages
+![Form Intro Page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
 
-Details any containers of components or layout concerns for how the pattern may be implemented on a page or pages.
+#### Personal Information Review Pages
+![Personal Info Review Page](https://github.com/user-attachments/assets/80251910-f9a6-4047-9fc9-30b10272e3eb)
+
+#### Information Review Pages
+![Address Review Page](https://github.com/user-attachments/assets/ccd68305-e4a6-46f9-ab6c-5665c1eee3d7)
 
 ### How this pattern works
 
 #### Communicate information that is prefilled
-Forms display an alert component informing the users their information will be prefilled from their profile. 
+Forms display an alert component informing the users their information will be prefilled from their profile on the form introduction pages as part of the sign in alert or a separate alert if the user is already authenticated. 
 
 #### Communicate information that can be edited
-Editable prefilled data should be shown in a 'locked' state with additional instructions for updating, for additional guidance on updating prefilled information, see the "Help users to... Update their prefilled information" pattern. 
-For data that is uneditable (personal information such as Legal name, DOB and SSN), a message should appear under the information that can not be updated.
+Prefilled data that is uneditable (personal information such as Legal name, DOB and SSN) should appear in a card component, followed by a message that includes the bolded word 'note' and further instructions for how a user can update this information offline.
+
+Prefilled data that is editable should be shown in a card component with a link to edit the information. Pages with editable prefilled information should also display an alert that notifies the user that information has been prefilled. 
+
+For additional guidance on updating prefilled information, see the "Help users to... Update their prefilled information" pattern, which is currently found in the ["Know how their information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) pattern. 
 
 
 ### Components used in this pattern
 
-- Alert
-- Card
+- [Alert](https://design.va.gov/components/alert/)
+- [Card](https://design.va.gov/components/card)
 
 
 ### Page templates available for this pattern
@@ -57,7 +66,8 @@ A link to the page.code-link, when available.
 
 ## Content considerations
 
-Any content rules or recommendations for the pattern.
+### Alert Content
+When using this pattern keep in mind that the alerts used have specific content requirements. You can find each content scenario below. 
 
 ## Research Findings
 
