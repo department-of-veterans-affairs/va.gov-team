@@ -6,11 +6,12 @@ August 8, 2024
 Holly Collier  
 
 ## Mobile App User Journeys
-* The app user’s onboarding journey starts with discovery and download from the app store and extends through to the point where they achieve their primary goal or complete a specific task within the app.
-    * **_In-app onboarding is one point in that longer onboarding user journey._**
-    * Map the whole journey —to i<span style="text-decoration:underline;">dentify pain points</span> & <span style="text-decoration:underline;">plan/craft a relevant experience</span>.
-* **Stages of the Journey to plan for (and their goals):**
-    * **Discovery & Download:**  
+An app user’s onboarding journey starts with discovery and download from the app store and extends through to the point where they achieve their primary goal or complete a specific task within the app.  
+* **_In-app onboarding is one point in that longer onboarding user journey._**
+* Map the whole journey —to i<span style="text-decoration:underline;">dentify pain points</span> & <span style="text-decoration:underline;">plan/craft a relevant experience</span>.
+
+### Stages of the Journey to plan for (and their goals):
+   * **Discovery & Download:**  
 _Education stage_
         * Goal: Get potential users to download 
             * Optimize App Store listing to help w discovery & communicate the app’s value proposition & benefits (not just a list of features) - ([see source notes for details](https://docs.google.com/document/d/17yJHjjjyHH7OS7PdbauTf--yf6NOv0_yfNjUiFB-6so/edit#heading=h.hdra4e50b0pj))
