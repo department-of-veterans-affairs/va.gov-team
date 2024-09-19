@@ -6,11 +6,18 @@
         * [Roadmap](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Planning/MHV%20on%20VA.gov%20Roadmap.xlsx?d=w51d1cea2ff1947f092fb04b78bbe9dad&csf=1&web=1&e=bQpMXU&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
         * Documentation
         * Templates      
-    * JIRA
-        * [Align](https://align.devops.va.gov/login)
+    * Governance/Platform
+        * [VA Platform Intranet](https://depo-platform-documentation.scrollhelp.site/)
+        * [Unit Test Coverage Report](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
+        * [Flaky (Disallowed) E2E Tests](https://depo-platform-documentation.scrollhelp.site/developer-docs/currently-disallowed-cypress-test-specs-on-va-gov)
+        * [Deployment Status](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/)
+    * Feedback
+        * [Medallia Feedback](https://bylightcorporate.sharepoint.com/:x:/r/sdc/hcd/UCD%20Team%20Only/Research%20and%20Design/Products%20and%20Projects/My%20HealtheVet/MHV%20on%20VA.gov/Data%20Analytics/SM/Phase1_Data.xlsx?d=wd9ff11de748249fa94f3fe450a48367f&csf=1&web=1&e=E9mWk5)
+    * Peer Reviews
         * Documentation
         * Templates
-    * Peer Reviews
+    * JIRA
+        * [Align](https://align.devops.va.gov/login)
         * Documentation
         * Templates
  
