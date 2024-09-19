@@ -6,7 +6,7 @@
 
 **People:** Content - Beth OCTO, IA - Sam CAIA, Edit and Drupal updates - Megan CAIA
 
-**IA Tracker:** (9922047) (https://github.com/department-of-veterans-affairs/va.gov-team/issues/92047)]
+**IA Tracker:** [9922047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92047)
 
 **On this page:**
 - [User/page flows](#flows)
