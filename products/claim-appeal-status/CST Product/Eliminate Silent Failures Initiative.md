@@ -52,10 +52,10 @@ Evidence submission "silent failures" occur when a veteran submits evidence for 
 
 1. **Phase 1**: 
    - Implement the exhaustion handler and VA Notify integration.
-   - Expected completion: Q4 2024.
+   - Expected completion: October 2024
 2. **Phase 2**: 
    - Migrate to Lighthouse API and implement the polling solution.
-   - Expected completion: Q1 2025.
+   - Expected completion: December 2024
 
 # Dependencies
 
