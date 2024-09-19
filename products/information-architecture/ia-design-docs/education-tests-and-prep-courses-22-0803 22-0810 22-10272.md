@@ -126,12 +126,8 @@ shortening TBD]/
 
 | Current URL | Redirect to | Notes |
 | --- | --- | --- |
-| https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-
-fees/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[licensing -
-and-certification-tests-and-prep-courses - or Drupal auto-shortened version TBD] | L&C redirect |
-| https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-
-preparatory-courses/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[national-
-test-and-prep-courses - or Drupal auto-shortened version TBD] | National tests redirect |
+| https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[licensing-and-certification-tests-and-prep-courses - or Drupal auto-shortened version TBD] | L&C redirect |
+| https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[national-test-and-prep-courses - or Drupal auto-shortened version TBD] | National tests redirect |
  <img width="1050" alt="reimbursements redirects" src="https://github.com/user-attachments/assets/f9932c6e-0d3b-4098-83cf-afe59170443f">
 
 
