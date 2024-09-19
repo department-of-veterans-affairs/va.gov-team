@@ -55,7 +55,7 @@ If you answered yes to any of these questions then go through the following [che
 #### Documentation
 
 * [ ] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
-  * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information. 
+  * If not, then [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md) that captures this information. 
 * [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 * [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
