@@ -121,7 +121,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared and
 - How would you prefer to search for VA facilities?
 - If you wanted to change the facility you selected by doing a new search, can you walk me through how you would accomplish that?
 - Okay you can proceed to the next page. (Have them advance to the facility confirmation page)
-- Talk me through this (facility selection) - What are your thoughts about that?
+- Talk me through this (facility selection) - What are your thoughts about that? Why did you choose the facility that you did?
 
 
 **Participant ratings:**
@@ -133,7 +133,7 @@ On a scale of 1-5 (1 being very poor/difficult and 5 being very well/easy to do)
 - [Does the participant search by zip code, city or state?]
 - [Is the participant able to create a new facility search?]
 - [Does the participant comment or react to the confirmation screen?]
-- [Does the confirmation screen add any confusion for the participant?]
+- [Does the participant understand they are selecting the facility that the Veteran currently uses?]
 
 
 ## Fourth Task: [Primary Caregiver] - 5 minutes
