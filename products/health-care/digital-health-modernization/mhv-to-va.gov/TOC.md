@@ -39,6 +39,8 @@
     * JIRA
         * [Team Board](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=8181&view=planning.nodetail&selectedIssue=MHV-61637&epics=visible&issueLimit=100#)
     * [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/)
+    * Monitoring and Performance
+      * [Medical Records zero silent failures checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/monitoring/zero-silent-failures-checklist.md)
       
 
 * **Secure Messaging**
