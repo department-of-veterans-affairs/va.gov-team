@@ -16,7 +16,7 @@
 * Medical Records
     * Analytics
         * DataDog Dashboards
-          [MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
+             *[MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
         * G4 Dashboards
     * Collab Cycle Tickets
         * Open
