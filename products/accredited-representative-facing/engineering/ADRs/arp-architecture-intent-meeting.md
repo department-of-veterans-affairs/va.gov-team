@@ -19,6 +19,10 @@ The **Accredited Representative Facing (ARF) Team** aims to create an accessible
 
 ---
 
+### Application Development Status
+
+As of this document's writing, the ARF Team's Form21a application has yet to undergo a staging review. [Downstream dependencies currently block application development](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/85933), so the application is not production-ready. Please keep that in mind as you review the below.
+
 ## UX Design Description
 
 ### For user-facing changes, link to UX prototype or wireframes if available
