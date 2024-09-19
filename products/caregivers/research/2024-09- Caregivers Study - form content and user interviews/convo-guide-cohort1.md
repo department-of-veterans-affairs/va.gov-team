@@ -132,7 +132,7 @@ On a scale of 1-5 (1 being very poorly and 5 being very well) - how prepared and
 - [Does the participant search by zip code, city or state?]
 - [Is the participant able to create a new facility search?]
 - [Does the participant comment or react to the confirmation screen?]
-- [Does the confirmation screen add any confusion for the participant?]
+- [Does the participant understand that they're supposed to select the facility that the Veteran currently uses?]
 
 **Participant ratings:**
 On a scale of 1-5 (1 being very poor/difficult and 5 being very well/easy to do) - how would you rate the process here to select a VA facility?
