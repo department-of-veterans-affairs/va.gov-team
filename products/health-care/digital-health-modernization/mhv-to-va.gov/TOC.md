@@ -28,7 +28,7 @@
         * 
 * Medications
 * Secure Messaging
-*     * Analytics
+     * Analytics
         * [DataDog SM Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-07e313c672cdf0fcd59ceb5c25b4c31c?refresh_mode=sliding&from_ts=1691515174056&to_ts=1699291174056&live=true)
         * G4 Dashboards
     * Collab Cycle Tickets
