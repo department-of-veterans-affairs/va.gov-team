@@ -39,9 +39,10 @@ A note about these flows and forms:
 
 ## <a name="map"></a>Page structure<br>
 <img width="538" alt="reimbursement sitemap" src="https://github.com/user-attachments/assets/49a223ad-6963-4f07-9adb-671477f9a6eb">
+<img width="596" alt="reimbursement URLs" src="https://github.com/user-attachments/assets/e8831c4e-e3aa-4dba-bf50-f139b7cb45db">
 
 ## <a name="url"></a>URLs and breadcrumbs
-<img width="629" alt="reimbursement urls" src="https://github.com/user-attachments/assets/e1d97ac9-4c8f-43f7-a124-5c31c8375471">
+
 
 **1) [Licensng and Certification tests and prep courses] - [Existing]**
 - Old URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
