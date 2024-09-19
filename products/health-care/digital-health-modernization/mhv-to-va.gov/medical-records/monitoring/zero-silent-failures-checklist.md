@@ -328,7 +328,7 @@ If not, then you'll need to consider the path user data took through both the cu
     - [ ] Yes     
     - [ ] No
  
-  * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information. 
+  * If not, then [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md) that captures this information. 
   * Link to data flow diagram:
    - Allergies:
    - Vaccines:
@@ -339,7 +339,7 @@ If not, then you'll need to consider the path user data took through both the cu
    - Blue Button:
    - Continuity of Care Document:
 
-* [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
+* [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? This should be captured in the data flow diagram or a separate document. 
  - Allergies:
     - [ ] Yes     
     - [ ] No
@@ -424,5 +424,5 @@ If not, then you'll need to consider the path user data took through both the cu
     - [ ] Yes     
     - [ ] No
 
-  * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram). That diagram will help us to help you and your team to create this user experience.
+  * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md). That diagram will help us to help you and your team to create this user experience.
 
