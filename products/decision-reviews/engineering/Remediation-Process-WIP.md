@@ -60,3 +60,15 @@ You can use the guid on the AppealsApi::EvidenceSubmission to look up the Appeal
      - e.g. if the error detail was that they had all blank images, check if all the pages are blank or not and if not, note it as an example for chatting with Lighthouse/EMMS/downstream teams on improving downstream validation
      - `AppealsApi::EvidenceSubmission` belongs_to `upload_submission` so you can look it up that way if you have the EvidenceSubmission record
 
+### Checking 4142 job errors
+#### DataDog Log Query
+```
+@payload.form_id:4142 @payload.parent_form_id:"20-0995" env:eks-prod @message_content:"Supplemental Claim Form4142 Queued Job Errored"
+```
+#### Verifying if job was successful on retry
+In the logs that are returned from the query above, there should be a `jid` (job id) under `@named_tags` that you can use to filter and see if there was a “Supplemental Claim 4142 submitted” log that was output during a later retry. 
+
+There are a couple of approaches that vary in loading time:
+- You can filter by `@named_tags.jid` using 1 job id and limiting the timeframe to the day listed in the timestamp. This is usually a pretty fast query.
+- You can filter by multiple job ids by connecting them with an OR and widening the timeframe to fit all the timestamps for those logs. This is a longer query to run, so you may need to batch them if there are a lot of job ids to check. For example: `@named_tags.jid:(jobid1 OR jobid2 OR jobid3)`
+- *Note: Make sure to select “Online Archives” from the dropdown if the logs you need to look at are from >1 month ago.*
