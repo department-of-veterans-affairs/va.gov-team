@@ -22,7 +22,8 @@ See most up-to-date user flow in Mural (here.)[https://app.mural.co/t/department
 <img width="921" alt="22-10282 flow" src="https://github.com/user-attachments/assets/d7f9ce6a-ba75-4520-b4bf-a6614518162e">
 
 
-## <a name="map"></a>Page structure<br>
+## <a name="map"></a>Page structure<br>\
+*Note: the 'Other VA education benefits' page currently has two H2 sections for organizing the currently listed benefits. Each heading describes the benefits' relationship with the GI bill. We may want to consider a third H2 for the IBM Skillsbuild program, as a new category of benefits with NO relationship to the GI Bill.*
 <img width="382" alt="22-10282 sitemap" src="https://github.com/user-attachments/assets/2fcef6b5-6a56-4751-9388-509845015a02">
 
 
