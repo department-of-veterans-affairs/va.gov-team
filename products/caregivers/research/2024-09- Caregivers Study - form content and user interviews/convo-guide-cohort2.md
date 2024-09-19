@@ -172,7 +172,6 @@ Let's pause here for a minute to talk about the sections we just went through.
 
 - If you were completing this online form for real, can you tell me how would you coordinate getting this information from everyone involved?
 - Would you sit down and complete this form together?
-- [If not mentioned above] Would you like to have a way to sign in and only complete your own information on the form and let the others complete theirs separately as well?
 
 
 
@@ -196,6 +195,7 @@ Next we would like your feedback on the information on the next couple of pages.
 
 - Please look over this page and tell me about your initial impressions or expectations.
 - If you saw something you entered by mistake, show me how you would go about correcting that.
+- What's your comfort level filling out and signing this information without all the people involved present?
 - You won't be able to submit the application in this test form so you can stop screen sharing now and I'll share my screen for the final part of this session. (Non-screen reader users only)
 
 
