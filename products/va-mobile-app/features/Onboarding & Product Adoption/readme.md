@@ -3,7 +3,7 @@ Lorem ipsum
 
 ### Product
 * Product Adoption Project Kickoff [pdf]  | [slides](https://docs.google.com/presentation/d/1OzZS-9leGTi53GU_Xj2oWGOE9KZAychjjoaxtv6Y270/edit#slide=id.g25f0dea14fc_1_74) 
-* [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Onboarding%20%26%20Product%20Adoption/Product%20Brief.md)
+* [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Onboarding%20%26%20Product%20Adoption/product/Product%20Brief.md)
 
 
 ### Data
