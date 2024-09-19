@@ -68,15 +68,14 @@ We recommend that the rollout plan has five stages, each increasing the number o
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
 ### Internal testing
-- allow list internal emails to allow submissions (need final list)
-- end user PEGA testing with confirmation from users of downstream systems
-- receive confirmation of PEGA import
-- resolution of any PEGA errors/issues
-- Datadog/DOMO and GA monitoring
 - VA notify - push template to production
 - make sure flipper with allowlist is ready to go
-- test internally - and then remove any test data
+- end user PEGA testing with confirmation from users of downstream systems
   - check meta data
+  - receive confirmation of PEGA import
+  - resolution of any PEGA errors/issues
+  - Datadog/DOMO and GA monitoring
+  - remove any test data after done
 - react widget notification for CAIA (after testing is signed off on)
 - notify contact center when this is ready
 - back end verification/steps
