@@ -512,7 +512,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ## Research sessions
 
-* Tuesday, September 24 - Tuesday, October 1 2024
+Monday, September 30 - Tuesday, October 8 2024
    
 -   Session length: 60 minutes
     
@@ -527,7 +527,7 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-Tuesday, September 24 - Tuesday, October 1 2024
+Monday, September 30 - Tuesday, October 8 2024
 
 Tuesday, Wednesday
 
