@@ -68,16 +68,26 @@ Once they click on the link, they are redirected to the website, which checks if
 sequenceDiagram
     actor vet as Veteran
     participant url as URL Shortener Service
+    participant db as Short URL DB
     participant web as vets-website
     participant api as vets-api
 
     activate vet
-    vet->>+url: Click on "check-in" short URL
-    url--)-vet: 301 redirect
+    note right of vet: Click on "check-in" short URL
+    vet->>+url: GET /short-urls/{id}
+    url->>+db: GET /{key: id, TableName: table-name}
+    alt id not found 
+        db--)url: 404 Not Found
+    else url expired
+        db--)url: 404 Short URL expired
+    else url found
+        db--)-url: 200 Long URL
+    end
+    url--)-vet: 301 redirect {headers: {location: Long URL}}
     vet->>+web: load "health-care/appointment-check-in"
-    web->>+api: GET /sessions
-    api->>api: check if session exists
-    api--)-web: session doesn't exist
+    web->>+api: GET /check_in/v2/sessions/{id}
+    api->>api: check if session exists in redis
+    api--)-web: 200 { permissions: 'read.none', status: 'success', uuid: }
     web--)-vet: redirect to login page
     deactivate vet
 ```
