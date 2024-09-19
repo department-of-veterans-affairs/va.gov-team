@@ -12,7 +12,7 @@
         * [Flaky (Disallowed) E2E Tests](https://depo-platform-documentation.scrollhelp.site/developer-docs/currently-disallowed-cypress-test-specs-on-va-gov)
         * [Deployment Status](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/)
     * Feedback
-        * [Medallia Feedback](https://bylightcorporate.sharepoint.com/:x:/r/sdc/hcd/UCD%20Team%20Only/Research%20and%20Design/Products%20and%20Projects/My%20HealtheVet/MHV%20on%20VA.gov/Data%20Analytics/SM/Phase1_Data.xlsx?d=wd9ff11de748249fa94f3fe450a48367f&csf=1&web=1&e=E9mWk5)
+        * [Medallia Feedback]
     * Peer Reviews
         * Documentation
         * Templates
@@ -38,7 +38,7 @@
         * Links to Designs
     * JIRA
         * [Team Board](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=8181&view=planning.nodetail&selectedIssue=MHV-61637&epics=visible&issueLimit=100#)
-    * Research
+    * [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/)
       
 
 * **Secure Messaging**
@@ -46,6 +46,7 @@
      * Analytics
         * [DataDog SM Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-07e313c672cdf0fcd59ceb5c25b4c31c?refresh_mode=sliding&from_ts=1691515174056&to_ts=1699291174056&live=true)
         * G4 Dashboards
+        * [Monthly Metrics and Feedback Summaries](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics)
     * Collab Cycle Tickets
         * Open
           - [Secure Messaging Initital Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51115)
@@ -58,7 +59,7 @@
         * Links to Designs
     * JIRA
         * [Team Board](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=1094&view=planning.nodetail&epics=visible&issueLimit=100&selectedEpic=MHV-57849#)
-    * Research
+    * [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research)
       
 
 * **Medications**
