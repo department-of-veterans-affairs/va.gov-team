@@ -45,7 +45,8 @@ A OH user can schedule nutrition and food appointments at any OH location where:
   - They are a registered patient.
     - Note: registering at one OH location automatically registers them at all other OH facilities.
   - AND They have had an encounter at that location for `Nutrition and Food`
-  - AND The location has enabled direct scheduling for `Nutrition and Food`
+  - AND The location has enabled direct scheduling for `Nutrition and Food`Rule:
+  - Note: Facilities with providers a user has a relationship with will only be displayed if the user has had a past encounter with that provider at that specific facility. This prevents users from accidentally scheduling appointments at distant locations if a provider has moved to a different facility.
 
 When choosing an OH location, a Veteran will be directed to [request an appointment](#requests) if the facility:
   - Does not have DS enabled,
