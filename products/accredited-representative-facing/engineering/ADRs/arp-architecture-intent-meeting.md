@@ -62,7 +62,7 @@ The **Accredited Representative Facing (ARF) Team** aims to create an accessible
 
 **Identify any new design system components needed or changes to current components**
 
-- No new design system components were required; some existing components were updated. TODO: Tag @arf to fill in details.
+- No new design system components were required; some existing components were updated.
 
 **Describe any product analytics being gathered**
 
