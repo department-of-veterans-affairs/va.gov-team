@@ -20,7 +20,6 @@ Evidence submission "silent failures" occur when a veteran submits evidence for 
 * Veterans are notified promptly when evidence submission failures occur, eliminating silent failures.
 * The submission process becomes more transparent, reducing veteran frustration and inquiries related to missing evidence.
 * Claims processors receive complete evidence submissions without downstream issues, leading to more accurate and timely claim decisions.
-* Congressional inquiries related to evidence submission failures are reduced or eliminated.
 
 # Proposed Solution
 
@@ -39,7 +38,7 @@ Evidence submission "silent failures" occur when a veteran submits evidence for 
 * Veterans submitting evidence through the CST for disability claims.
 * Claims processors relying on complete and accurate evidence for decision-making.
 * VA contact center representatives handling veteran inquiries and complaints.
-* VA leadership concerned with reducing congressional inquiries and improving the veteran experience.
+* VA leadership concerned with improving the veteran experience.
 
 # Key Metrics / KPIs
 
@@ -48,7 +47,6 @@ Evidence submission "silent failures" occur when a veteran submits evidence for 
 3. **Silent Failure Rate**: Monitor the overall rate of silent failures before and after the exhaustion handler implementation.
 4. **Claim Accuracy and Timeliness**: Track improvements in claim decision accuracy and timeliness after reducing silent failures.
 5. **Veteran Satisfaction**: Measure veteran satisfaction through surveys or reduced complaint volumes.
-6. **Congressional Inquiries Related to Missing Evidence**: Track the number of congressional inquiries related to missing evidence, aiming for a reduction.
 
 # Timeline
 
