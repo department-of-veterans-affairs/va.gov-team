@@ -78,7 +78,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - remove any test data after done
   - back end verification/steps
 - react widget notification for CAIA (after testing is signed off on) and it's ready to release to external users
-- notify contact center when this is ready
+- notify contact center when this is ready (is visible to external users)
 
 
 ### Stage A: Canary
