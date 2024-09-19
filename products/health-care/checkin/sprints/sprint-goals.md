@@ -82,7 +82,6 @@
    - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)    
    - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
    - ✔️ 🟥 [[UX] Determine text to use for clinics not in the standalone app pilot](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93050)
-   - Need 4 points from Gaurav's new tickets....
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Hold kick-off with Perigean and monitor incoming study data in Optimal Workshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92901)
 - **CIE Analytics**
