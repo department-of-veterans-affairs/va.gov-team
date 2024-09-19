@@ -1,4 +1,4 @@
-## Findings on Denial Reasons 
+# Findings on Denial Reasons 
 
 
 ### Reasons for Denial/Rejection
@@ -35,4 +35,12 @@ See all the Travel Claim Rejection Codes along with counts from June 2024 claims
 ### How reasons for denial/rejection are communicated to the Veteran in BTSSS 
 
 BTSSS on-screen experience: In the Portal, the Veteran (or any other claimant like a Caregiver or Donor) can navigate to the Claim Details page for one of his/her specific claims (in this case, one of Nolle Barakat’s denied claim) and then expand it to see the claim information, including (1) the rejection reason and description and (2) below that a link to download a copy of the denial letter or a copy of the right to appeal VA form (they’re separate links).
+
+<img width="673" alt="Screenshot 2024-09-19 at 4 09 17 PM" src="https://github.com/user-attachments/assets/10793676-276c-4cdb-8417-364fc14012b7">
+
+Once a denial code is attached to a claim, it is always attached to it.  The Travel Clerk “translates” all of these codes for the Veteran in the “Description” section - for the Clerk this is the “Last Failed Rule Description” section but the Veteran sees this as the “Rejection Reason - Description” section
+
+Example of a filled out Rejection Letter that would be sent to a user (made in BTSSS QA) 
+
+[Rejection Letter_test account QA_82024 (2).docx](https://github.com/user-attachments/files/17066710/Rejection.Letter_test.account.QA_82024.2.docx)
 
