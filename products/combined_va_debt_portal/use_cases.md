@@ -44,8 +44,9 @@ searches and gets no results.", etc.
 
 
 - **Link to designs**
-  - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-6637&t=3ws7FSCSqmCcwNU8-1)
+  - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-6496&t=ficcn3769sddvIHw-1)
   - [Overpayment summary page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-7496&t=3ws7FSCSqmCcwNU8-1)
+    
     *The Overpayment detail page shows payment history table:
   - [Overpayment detail page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=1963-16864&t=3ws7FSCSqmCcwNU8-1)
 
@@ -59,7 +60,7 @@ searches and gets no results.", etc.
 	- Click 'Check your balance and resolve your bill' link under 'Debt and bill overview' section
 
 - **Link to designs**
-  - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-6496&t=3ws7FSCSqmCcwNU8-1)
+  - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-6637&t=aD5Zk8601sDJZSlO-1)
   - [Copay summary page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=113-14117&t=3ws7FSCSqmCcwNU8-1)
 
 
