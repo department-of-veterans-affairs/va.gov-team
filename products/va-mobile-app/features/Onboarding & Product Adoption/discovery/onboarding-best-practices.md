@@ -38,7 +38,6 @@ _Education stage_
 ## In-App Onboarding
 
 ### Overview
-
 * **Purpose of onboarding:** Introduces users to an app, aiming to help them start using it effectively. It is part of a broader user journey from app store discovery to taking a key retention action.
 * **Goals of onboarding:**
   * **Introduce the app’s core action** & spark the “ah-ha” moment as quickly as possible. 
@@ -47,32 +46,39 @@ _Education stage_
   * **Set users up for success** in your app—grant user permissions essential to the app’s use (like location sharing or push notifications). Postpone non-essential setup flows or customization steps (instead, provide reasonable defaults).
 
 
-### Types Onboarding
-* **Self select/customization** (“Get me started”) - Short onboarding: Present a series of short choices to make their app experience more meaningful (customization and personalization), implicitly learning about the app’s UI
-    * **Use when** customization is needed, setup is required, or consent is necessary  (ex: Asking how a user wishes to be notified by the app during onboarding will have a meaningful impact on the user experience). Don’t ask for preferences that can be garnered from normal usage.
-    * **Avoid When:** Announcing new features or major UI changes.
-    * **Best practices:**
-        * Keep choices meaningful, noticeable, and limited to one screen.
-        * Avoid visual-design customization, such as selecting a color scheme (if people haven't used the app, they don’t know if/how they want to change it to help them). Save it for later.
-        * Content customization is ok (their name, location, etc) - it can create a relevant experience
-* **Quickstart** - Users directly enter the app’s UI, with minimal initial onboarding. (other than sign in and setup). Users learn their way around an app by using it on their own. 
-    * **Use When:** Your app doesn’t need to be “set up” and uses standard user interface (UI) practices that users can figure out without any help. **When you know what action leads to increased engagement** (in the first session) or increased retention (in the first seven days).
-    * **Avoid When:** Introducing new challenges or benefits.
-    * **Best Practices:** Provide immediate tasks (Quickly get started with the core functionality of the app), optional learning opportunities, and focus on key actions.
-* **Top user benefits** (“Show me why”)- Highlight the app’s main benefits (up to 3—including your app’s “toothbrush features” – these are features you see your users using once or twice daily) through a screen or carousel. Doesn’t explain how to use the app.
-    * **Use When:** Announcing new benefits or major changes.
-    * **Avoid When:** The app’s benefits are familiar or unchanged.
-    * **Best Practices:** 
-        * Focus on essential benefits and avoid combining with other onboarding types.
-        * Benefits should position the app as relevant and personal during a moment that matters, rather than give instructions or describe features.
-        * Simplify the visuals to the essentials needed to convey a concept.
-        * Don’t show app UI if users haven't experienced it yet. Show the user benefit first. You may display education about the specific UI in a later context.
-* **Instructions/Progressive** (“Show me how”) a guided tour through the app—quickly gets the user to your app’s main user screen and then tells them how it works as they explore the different app areas, features, or functions
-    * **Use When:** You have hidden functionalities, hidden gestures, intricate workflows, or multiple sections in your app.; significantly reduces the users’ cognitive load while offering education in context 
-    * **Avoid when:** An app uses standard user interface (UI) practices that users can figure out without any help
-    * **Best Practices:** 
-        * Use Tooltips, hotspots, overlays, pop ups, and slick animations to educate users about the functions 
-        * Teach through interactivity:  provide an interactive onboarding experience where people can safely test an action, discover a feature, or try out a game mechanic.
+### Onboarding Types
+#### Self select/customization (“Get me started”)  
+* Short onboarding: Present a series of short choices to make their app experience more meaningful (customization and personalization), implicitly learning about the app’s UI
+* **Use when** customization is needed, setup is required, or consent is necessary  (ex: Asking how a user wishes to be notified by the app during onboarding will have a meaningful impact on the user experience). Don’t ask for preferences that can be garnered from normal usage.
+* **Avoid When:** Announcing new features or major UI changes.
+* **Best practices:**
+    * Keep choices meaningful, noticeable, and limited to one screen.
+    * Avoid visual-design customization, such as selecting a color scheme (if people haven't used the app, they don’t know if/how they want to change it to help them). Save it for later.
+    * Content customization is ok (their name, location, etc) - it can create a relevant experience
+
+#### Quickstart
+* Users directly enter the app’s UI, with minimal initial onboarding. (other than sign in and setup). Users learn their way around an app by using it on their own.
+* **Use When:** Your app doesn’t need to be “set up” and uses standard user interface (UI) practices that users can figure out without any help. **When you know what action leads to increased engagement** (in the first session) or increased retention (in the first seven days).
+* **Avoid When:** Introducing new challenges or benefits.
+* **Best Practices:** Provide immediate tasks (Quickly get started with the core functionality of the app), optional learning opportunities, and focus on key actions.
+
+#### Top user benefits (“Show me why”)
+* Highlight the app’s main benefits (up to 3—including your app’s “toothbrush features” – these are features you see your users using once or twice daily) through a screen or carousel. Doesn’t explain how to use the app.
+* **Use When:** Announcing new benefits or major changes.
+* **Avoid When:** The app’s benefits are familiar or unchanged.
+* **Best Practices:** 
+    * Focus on essential benefits and avoid combining with other onboarding types.
+    * Benefits should position the app as relevant and personal during a moment that matters, rather than give instructions or describe features.
+    * Simplify the visuals to the essentials needed to convey a concept.
+    * Don’t show app UI if users haven't experienced it yet. Show the user benefit first. You may display education about the specific UI in a later context.
+
+#### Instructions/Progressive (“Show me how”) 
+* A guided tour through the app—quickly gets the user to your app’s main user screen and then tells them how it works as they explore the different app areas, features, or functions
+* **Use When:** You have hidden functionalities, hidden gestures, intricate workflows, or multiple sections in your app.; significantly reduces the users’ cognitive load while offering education in context 
+* **Avoid when:** An app uses standard user interface (UI) practices that users can figure out without any help
+* **Best Practices:** 
+    * Use Tooltips, hotspots, overlays, pop ups, and slick animations to educate users about the functions 
+    * Teach through interactivity:  provide an interactive onboarding experience where people can safely test an action, discover a feature, or try out a game mechanic.
 
 
 ### Onboarding Best Practices
