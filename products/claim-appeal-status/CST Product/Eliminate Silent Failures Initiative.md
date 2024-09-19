@@ -9,6 +9,8 @@
 
 Evidence submission "silent failures" occur when a veteran submits evidence for their claim, but the data fails to reach its intended destination without notifying the user. This results in claims being processed without the provided evidence, leading to frustration, mistrust, and sometimes congressional inquiries. The primary goal of this initiative is to reduce these silent failures to zero by first notifying veterans when a failure occurs and then improving the submission process.
 
+Visual data diagram representing known failure points and solution framework can be found [here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726243735665/493c9b003d190047347d812773c6439988137a46?sender=u7b04181b0deced23bce71680). 
+
 # Problem Statement(s)
 
 * As a veteran submitting evidence to support my claim through the CST, I expect that my evidence will be received and processed. However, if the submission silently fails, I am unaware of the issue, leading to my claim being processed without critical evidence.
