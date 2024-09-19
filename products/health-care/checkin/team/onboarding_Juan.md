@@ -57,18 +57,18 @@
       - [VA Mobile Api](https://department-of-veterans-affairs.github.io/va-mobile-app/api/)
       - [Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board)
 - Feedback about mentoring: (anything around if you got what you needed, if the guide and response was helpful, any imporvements to make it more productive, what communication type worked the best? ceremonies? slack ? or etc) 
-  -
+  - xyz
   -
   -
 - Feedback about mobile team ceremonies: (anything around if you got what you needed, to help you with onboarding, any imporvements to make it more productive for you as onbordee, what communication type worked the best? ceremonies? slack ? or etc) 
-  -
+  - xyz 
   -
   -
 - what would help with speeding up the onboarding?
-  -
+  - xyz
   -
 - feedback on tools (or any suggestions re tools):
-  - 
+  - xyz
 - feedback on the development process:
-  -
+  - xyz
   - 
