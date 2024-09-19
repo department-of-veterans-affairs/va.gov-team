@@ -1,8 +1,8 @@
 ```mermaid
 flowchart TD
-    A(Authenticated Only) --> B(User identifier <br/>fetched during login)
-    B --> C(Check for enrollment status <br/>submission through enrollment <br/>eligibility API by <br/>passing user identifiers)
-    F --> G(Submit to enrollment system API <br/>asynchronously via a background job)
-    G --> H(Background job fails with no retries left)
-    H --> I(Send email to HEC administrators that includes <br/>the Veteran's contact info (name, phone number(s), email), <br/>so they can follow up with them)
+    A["User identifier fetched during login (auth-only form)"]
+    A --> B(Check for enrollment status via the enrollment eligibility API by <br/>passing user identifiers)
+    B --> C(Submit to enrollment system API asynchronously via background job)
+    C --> D(Background job fails with no retries left)
+    D --> E(Manually send email to HEC administrators that includes the Veteran's provided contact information, so they can follow up with them)
 ```
