@@ -83,7 +83,7 @@ Before we look at the caregiver program online form, let’s start with a few wa
 ## First Task: [Introduction page] - 5 minutes
 
 - Thank you for sharing that background. Now let's change gears a bit.
-- I'm going to share a link to our staging site with you in the chat and when you're ready have you share your screen in Zoom with me.
+- I'm going to share a link to our testing site with you in the chat and when you're ready have you share your screen in Zoom with me.
 - [Link to [Staging](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction)]
 - Review this page and tell me about your initial thoughts and expectations of this form before going forward and applying.
 - Does anything on this page stands out to you as being confusing or as being really helpful?
@@ -204,7 +204,7 @@ Next we would like your feedback on the information on the next couple of pages.
 - [Does the participant have a positive or negative sentiment about the review page?]
 - [Does the participant give any reason for pause or why they wouldn't submit the application?]
 - [Does the participant interact with any of the accordions or try and edit any information?]
-- [Does the participant mention or pause at how the facility selection is represented on this page?
+- [Does the participant mention or pause at how the facility selection is represented on this page?]
 - [How does the participant interact or talk about the various signature fields?]
 
 
