@@ -3,6 +3,7 @@
 **STATUS: [In progress]**
 
 **Team:** [NA - Drupal Update]
+
 **People:** Content - Beth OCTO, IA - Sam CAIA, Edit and Drupal updates - Megan CAIA
 
 **IA Tracker:** (9922047) (https://github.com/department-of-veterans-affairs/va.gov-team/issues/92047)]
@@ -18,30 +19,29 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-\See most up-to-date flow in Mural (here) [https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726160586128/343d813fc6515d2e8b2e88aff56aa6fad4fae52d?wid=132-1726168589170]
+
+See most up-to-date flow in Mural [here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726160586128/343d813fc6515d2e8b2e88aff56aa6fad4fae52d?wid=132-1726168589170)
 
 A note about these flows and forms:
+
 **Licenses and Certifications (L&C)**
-- VA will reimburse costs for tests to obtain / maintain licenses and certifications.
-- Form 22-0803
+- VA will reimburse costs for tests to obtain / maintain licenses and certifications, form 22-0803
+- VA will reimburse costs for prep courses for taking license and certification tests, form 22-10272
 
-- VA will reimburse costs for prep courses for taking license and certification tests.
-- Form 22-10272
+**National Tests**
 
-**Higher Ed Tests**
-- VA will reimburse costs for national higher-ed tests like SAT and GRE
-- Form 22-0810
-
-- VA will reimburse costs for test prep courses for national higher-ed tests like SAT and GRE
-- There is **no form** for this - org that runs the course submits enrollment verification directly to VA.
-
+- VA will reimburse costs for national higher-ed tests like SAT and GRE, form 22-0810
+- VA will reimburse costs for test prep courses for national higher-ed tests like SAT and GRE. There is *no form* for this - org that runs the course submits enrollment verification directly to VA.
 - None of the 3 forms are digitized yet.
 
-<img width="538" alt="reimbursement flows" src="https://github.com/user-attachments/assets/a7883585-0786-4cb8-a333-b5cf516f1859">
+<img width="1003" alt="reimbursement L C flow" src="https://github.com/user-attachments/assets/848649f9-83b7-48ac-9dbe-99a15a4bbcff">
+
+<img width="637" alt="reimbursement national tests flow" src="https://github.com/user-attachments/assets/257d7ebe-8edf-434e-a4b8-c76508ce0c7f">
+
 
 ## <a name="map"></a>Page structure<br>
-<img width="538" alt="reimbursement sitemap" src="https://github.com/user-attachments/assets/49a223ad-6963-4f07-9adb-671477f9a6eb">
-<img width="596" alt="reimbursement URLs" src="https://github.com/user-attachments/assets/e8831c4e-e3aa-4dba-bf50-f139b7cb45db">
+<img width="710" alt="reimbursement sitemap2" src="https://github.com/user-attachments/assets/adae522f-6c77-4d4c-b6f7-78fd65ce05e5">
+
 
 ## <a name="url"></a>URLs and breadcrumbs
 
@@ -69,13 +69,12 @@ How to use your GI Bill benefits > **[National tests and prep courses - or Drupa
 
 ### Primary entry point
 
-
 **N/A - no entry into digital form**
-   <img width="293" alt="reimbursements primary entry pt" src="https://github.com/user-attachments/assets/0e8dfadd-ce94-4ea9-874c-a519464f9699">
+
+<img width="293" alt="reimbursements primary entry pt" src="https://github.com/user-attachments/assets/0e8dfadd-ce94-4ea9-874c-a519464f9699">
 
 
 ### Secondary entry points
-_Any additional locations that the page should be navigable from.  This is often an about-a-form page, an R&S page about the feature, or can be left nav or mega menu.   These are secondary, and while they are still very important, are not required for launch._
 
 ** Licensing and Certification**
 
@@ -96,19 +95,21 @@ shortening TBD]**/
 and prep courses - or Drupal auto-shortening TBD/
   - Notes: This page is moving over from Resources and Support
 
-<img width="789" alt="reimbursements secondary entry pt" src="https://github.com/user-attachments/assets/ba36737e-2b9d-4833-a4b3-c2674782a8a0">
+<img width="981" alt="reimbursement secondary pts 2" src="https://github.com/user-attachments/assets/4021eac1-2a82-4b59-b9ec-999a52069a9a">
+
 
 ### Crosslinks
 
 ** Licensing and Certification**
 
-1. **[Link on a specific page]** - [Add/Modify/Remove]
-  - Placement description: Add crosslink to L&C page from the 'Other helpful information' footer section of VA.gov home > Careers and employment > Educational and career counseling (VA Chapter 36)
+1. **Link on [Education and career counseling](https://www.va.gov/careers-employment/education-and-career-counseling/) page** - [Add]
+  - Placement description: Add crosslink to L&C page from the 'Other helpful information' footer section 'Educational and career counseling (VA Chapter 36)'
   - Link label: Licensing and certification tests and prep courses
-  - Link destination: Link on [Education and career counseling[(https://www.va.gov/careers-employment/education-and-career-counseling/) page, linking to URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
+  - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
 [Licensing and Certification tests and prep courses - or Drupal auto-
 shortening TBD]/
 <img width="686" alt="reimbursements l c crosslinks" src="https://github.com/user-attachments/assets/579c8c80-4e10-40ec-a342-4c4a59e4ace4">
+
 
 ** National Tests**
 *No cross-links*
@@ -123,13 +124,13 @@ shortening TBD]/
 
 ## <a name="redirects"></a>Redirects <br>
 
-Current URL | Redirect to | Notes
-https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-
+| Current URL | Redirect to | Notes |
+| https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-
 fees/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[licensing -
-and-certification-tests-and-prep-courses - or Drupal auto-shortened version TBD] | L&C redirect
-https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-
+and-certification-tests-and-prep-courses - or Drupal auto-shortened version TBD] | L&C redirect |
+| https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-
 preparatory-courses/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[national-
-test-and-prep-courses - or Drupal auto-shortened version TBD] | National tests redirect
+test-and-prep-courses - or Drupal auto-shortened version TBD] | National tests redirect |
  <img width="1050" alt="reimbursements redirects" src="https://github.com/user-attachments/assets/f9932c6e-0d3b-4098-83cf-afe59170443f">
 
 
