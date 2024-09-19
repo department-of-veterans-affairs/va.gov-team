@@ -31,7 +31,7 @@ Visual data diagram representing known failure points and solution framework can
 - This solution will treat the 14th failure as an event, sending a webhook from the exhaustion handler to VA Notify, ensuring the veteran is notified of the failure.
 
 **Phase 2: Migration to Lighthouse API with Polling**
-- Migrate the evidence submission process from EVSS to the Lighthouse API.
+- Migrate the evidence submission process from EVSS Documents Service to the Lighthouse Documents API service.
 - Leverage Lighthouse's ability to poll submission status, allowing the system to identify downstream failures.
 - Reuse the exhaustion handler code to trigger notifications through VA Notify when a failure is detected via polling.
 
