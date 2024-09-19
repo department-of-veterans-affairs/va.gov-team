@@ -2,6 +2,7 @@
 **STATUS: [In progress]**
 
 **Team:** [govcio-vebt]
+**People:** Ariana Adili - product team UX, Katherine and A - CAIA content, Sam - CAIA IA
 
 **CAIA Intake ticket:** (87265)[https://github.com/orgs/department-of-veterans-affairs/projects/929/views/70?pane=issue&itemId=69171351]
 **IA Tracker:** (88619)[https://github.com/orgs/department-of-veterans-affairs/projects/929/views/70?pane=issue&itemId=71290073]
