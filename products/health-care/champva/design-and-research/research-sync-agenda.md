@@ -1,5 +1,22 @@
 # Running Design and Research Agenda
 
+## September 19, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Andrea Merrill, Bo Altes, Premal Shah
+
+### Agenda topics
+- Discuss CHAMPVA claims (10-7959a) analysis - high-level findings
+  - Jamie shared the [topline findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/user-research/champva-claims-topline-research-report.md)
+    - Refine language - finding 3 seems to say list and loop works well, but finding 4 seems to hint it doesn't
+    - There is no formal way to pass over info to get this looked at by design system, but the VFF team is now supporting the Forms library and Matt Dingee is the PO. We should let them know in the VFF slack channel and tag Matt.
+    - Mary found a way to ask for an [addition or update to the design system](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
+- EnjoyHQ
+  - Do we need to get our reports into EnjoyHQ? Is it worth it?
+
+### Decisions and action items
+- Jamie to make edits to report and finish analysis
+- Contact VFF team / Matt Dingee about issues we saw with file upload and list and loop
+- Lois will further look into benefits of uploading into Enjoy HQ
+
 ## August 15, 2024
 Attendees: Rachael Penfil, Steven Straily, Lois Lewis,  Bo Altes, Premal Shah
 
