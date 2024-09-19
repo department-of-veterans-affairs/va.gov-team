@@ -57,7 +57,7 @@ courses - or Drupal auto-shortening TBD]**
 - Notes: This page is currently in the Education Hub. It's staying there.
 
 **2) [National Tests] - [Existing - expanding content and moving to hub]**
-- Old URL: https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/
+- Old URL: va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/
 - New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[updated page name]
 - Old Breadcrumb: VA.gov home > Resources and Support > Can I Use My VA 
 Education Benefits To Pay For Preparatory Courses?
@@ -125,6 +125,7 @@ shortening TBD]/
 ## <a name="redirects"></a>Redirects <br>
 
 | Current URL | Redirect to | Notes |
+| --- | --- | --- |
 | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-
 fees/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[licensing -
 and-certification-tests-and-prep-courses - or Drupal auto-shortened version TBD] | L&C redirect |
