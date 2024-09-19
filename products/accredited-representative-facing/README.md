@@ -20,7 +20,7 @@ Explore the specifics of the ARF MVP and its impact: [ARF Team MVP](/products/ac
 
 ### Roadmap
 
-View our strategic roadmap for future developments and milestones: [ARF Team Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705012017021/1d76cf5fe7c9aab8ee495159f04a4e45853cdae8?sender=uc9e0a2b4a5929fc36a737045).
+View our strategic roadmap for future developments and milestones, last updated in July 2024: [ARF Team Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720019177037/1918bcb5dac0dab8a8103395aef7c9ddb347d6e6?sender=u2a4240a640b257ce33545495).
 
 ### Work in Progress (WIP)
 
