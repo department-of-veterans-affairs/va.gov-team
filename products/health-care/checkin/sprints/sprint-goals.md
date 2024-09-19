@@ -50,6 +50,10 @@
       - ✔️ 🟨 [[DevOps] Set concurrency on CHIP `vaec-cms`deployment workflows.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/578)
       - ✔️ 🟨 [[DevOps] Cleanup initiatePreCheckin event.schema](https://github.com/department-of-veterans-affairs/checkin-devops/issues/429)
       - ✔️ 🟨 [[DevOps] Move System Tests out of `checkin-devops` and into a separate repository, `cie-system-tests`](https://github.com/department-of-veterans-affairs/checkin-devops/issues/542)
+      - ✔️ 🟨 [[DevOps] Remove `iam` Terraform module and related workflows/actions in `checkin-devops`.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/554)
+      - ✔️ 🟨 [[DevOps] Remove `global_iam` and related workflows and actions in `checkin-devops`.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/555)
+      - ✔️ 🟨 [[DevOps] Remove vista_api module from checkin-devops](https://github.com/department-of-veterans-affairs/checkin-devops/issues/629)
+      - ✔️ 🟨 [[DevOps] Request OIDC-assumable role for `dsvagovcloud` from `checkin-devops`.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/454)
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to advance the FE and BE work as much as possible**
     - ✔️ WAITING ON SCOPE DECISIONS:
