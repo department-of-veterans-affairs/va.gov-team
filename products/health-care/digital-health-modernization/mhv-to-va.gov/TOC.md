@@ -2,7 +2,7 @@
 
 * Program Links (for all Products)
     * JIRA
-        * Align [https://align.devops.va.gov/login]
+        * [Align] (https://align.devops.va.gov/login)
         * Documentation
         * Templates
     * Peer Reviews
