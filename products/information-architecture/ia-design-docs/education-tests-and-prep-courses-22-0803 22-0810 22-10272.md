@@ -1,10 +1,10 @@
 # IA Design for [Product/page name]
-**STATUS: [In progress/In review/Complete]**
+**STATUS: [In progress]**
 
-**Team:** [Team name]
+**Team:** [NA - Drupal Update]
+**People:** Content - Beth OCTO, IA - Sam CAIA, Edit and Drupal updates - Megan CAIA
 
-**CAIA Intake ticket:** [Link to Sitewide Content and IA intake request]
-**IA Tracker:** [Link to Sitewide Content and IA intake request]
+**IA Tracker:** (9922047) (https://github.com/department-of-veterans-affairs/va.gov-team/issues/92047)]
 
 **On this page:**
 - [User/page flows](#flows)
@@ -17,34 +17,47 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
+\See most up-to-date flow in Mural (here) [https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726160586128/343d813fc6515d2e8b2e88aff56aa6fad4fae52d?wid=132-1726168589170]
+A note about these flows and forms:
+**Licenses and Certifications (L&C)**
+- VA will reimburse costs for tests to obtain / maintain licenses and certifications.
+- Form 22-0803
 
+- VA will reimburse costs for prep courses for taking license and certification tests.
+- Form 22-10272
+
+**Higher Ed Tests**
+- VA will reimburse costs for national higher-ed tests like SAT and GRE
+- Form 22-0810
+
+- VA will reimburse costs for test prep courses for national higher-ed tests like SAT and GRE
+- There is **no form** for this - org that runs the course submits enrollment verification directly to VA.
+
+- None of the 3 forms are digitized yet.
+
+<img width="538" alt="reimbursement flows" src="https://github.com/user-attachments/assets/a7883585-0786-4cb8-a333-b5cf516f1859">
 
 ## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
-
-
+<img width="538" alt="reimbursement sitemap" src="https://github.com/user-attachments/assets/49a223ad-6963-4f07-9adb-671477f9a6eb">
 
 ## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
+<img width="629" alt="reimbursement urls" src="https://github.com/user-attachments/assets/e1d97ac9-4c8f-43f7-a124-5c31c8375471">
 
+**1) [Licensng and Certification tests and prep courses] - [Existing]**
+- Old URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
+- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[updated page name]
+- New Breadcrumb: Va.gov home > Education and training > About GI Bill benefits > 
+How to use your GI Bill benefits > **[Licensing and Certification tests and prep 
+courses - or Drupal auto-shortening of H1]**
+- Notes: This page is currently in the Education Hub. It's staying there.
 
-**1) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
+**2) [National Tests] - [Existing/New]**
+- URL: https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/
+- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[updated page name]
+- Breadcrumb: Va.gov home > Education and training > About GI Bill benefits > 
+How to use your GI Bill benefits > **[National tests and prep courses - or Drupal auto-shortening of H1]**
+- Notes: This page is currently in Resources and Support. It's moving to the Education Hub.
 
-**2) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
-
-### Sub-URLs
-
-## <a name="nav"></a>Entry points <br>
-
-### Primary entry point
-_Most of the time this is the CTA on a tool static landing page (a sign in widget).  For forms, it may be on a How to apply page or equivalent. Sometimes the only way to access a feature is via navigation component (top, left) or a header/footer/home page link. This is the only entry point that HAS to be ready to launch when a team goes through staging review._
 
 1. **[Page/menu name]** - [Add/Modify/Remove]
   - Placement description: 
