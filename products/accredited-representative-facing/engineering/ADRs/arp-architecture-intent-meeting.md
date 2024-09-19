@@ -1,140 +1,264 @@
-# Architecture Intent Meeting
+# Architecture Intent Meeting Template
 
-__*** DRAFT *** DRAFT *** DRAFT ***__
+*This document provides a high-level overview of the proposed architecture changes. It focuses on key points and links to supporting material where appropriate. This is not a detailed engineering specification.*
 
-The Architecture Intent meeting helps your team build a solution that meets VA.gov platform engineering and security standards and lowers the potential for launch-blocking issues later in the development cycle.
+---
 
-## What is the purpose of Architecture Intent meeting?
+## Product Description
 
-The Architecture Intent meeting is less a formal presentation and more of a discussion.  It not only provides OCTO-DE and Platform with an early understanding of the product/feature your team wants to build, but is also an opportunity to collaborate and provide feedback on the intended implementation and surface any adjustments needed to meet VSP engineering and security standards. The focus is on making sure your code meets user needs within the constraints of the platform you're building on.
+**A brief overview of the motivation for the change**
 
-TODO: emphasize that this is a low stakes, collaborative conversation to help connect eng teams with the information and resources they need to build great things
+The **Accredited Representative Facing (ARF) Team** aims to create an accessible, modern, and secure online system for Accredited Representatives. By digitizing the **OGC Form 21a** for representative accreditation, we strive to streamline the accreditation processes to improve the efficiency with which OGC personnel can process pending accreditation applications. This will enable Claims Agent and Attorney representatives to obtain accreditation faster, allowing them to assist Veterans sooner.
 
-## When to schedule an Architecture Intent meeting?
+- VA stakeholders initiated the project, including **Jennifer Bertsch**, the Accredited Representative Facing Product Owner.
+- For more details on Form 21a, refer to the [Form 21a PDF](https://www.vba.va.gov/pubs/forms/21a.pdf).
 
-You should schedule an Architecture Intent meeting if any of these apply:
+**Link to product document or GitHub issue**
 
-- You have questions about one or more points on the template below.
-- You're having trouble locating or getting technical info from other stakeholders or system owners.
-- You're launching a new service or major new feature.
-- You're using an architecture pattern not currently found on the VA.gov platform.
-- You plan to use a new technology, library or dependency.
-- You're integrating with a new system or API, inside or outside of the VA.
-- Your change requires complex coordination across teams or you need support to coordinate across teams.
-- You're gathering new Personally Identifiable Information ([PII]) and/or Protected Health Information ([PHI]) or saving PII/PHI in a new place.
-- There are cost, performance or security implications to your change.
+- [Accredited Representative Facing Product Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing)
 
-## Preparing for the Architecture Intent meeting
+---
 
-You should write up your Architecture Intent using the template below.  The Governance Team will need at least **2 business days** to review your materials.
+## UX Design Description
 
-In addition, you should review the security checklist below the template and make note of any items you have questions about so we can discuss them at the Architecture Intent meeting.
+**For user-facing changes, link to UX prototype or wireframes if available**
 
-## Architecture Intent meeting template
+- [Mockups for Form 21a, including fields and features requested by stakeholders but not yet built](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1026-23089&t=fdslbOvunuGJiV45-1)
+- [Mockups reflective of what's in the Staging environment](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=3787-289708&t=fdslbOvunuGJiV45-1)
+- ARF went through Midpoint Review on 9/16/24. Link to [Collaboration Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879) and [Milestones](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1398), which includes Platform feedback.
+- [Live Version on Staging](https://staging.va.gov/representative/introduction)
 
-Your document should be brief and high-level.  Please keep it to a single page.  Focus on the high level and link to supporting material where appropriate; this is _not_ a detailed engineering spec.
+**Call out any engineering challenges**
 
-TODO: specify format for these docs and where they should live
+- **Custom VA.gov Header for ARP**
+    - Implementing a distinct header for the Accredited Representative Portal.
+    - Refer to the [ARP Header and Footer ADR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/react-header-footer-adr.md).
+- **Unique Representative User Implementation**
+    - Developing a separate user model for ARP.
+    - Details in the [Using the Sign-in Service for ARP Tools ADR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/using-sign-in-service.md) and the associated [ZenHub Epic](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746).
+- **Dependency on OGC GCLAWS Team**
+    - External dependencies on the OGC GCLAWS team and their incomplete APIs introduced significant challenges.
+    - See the [ZenHub Epic](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746).
+    - Swagger API documentation is accessible within the VA network at the [GCLAWS Swagger API](https://ogccotst1.dva.va.gov:4501/swagger/index.html).
 
-Some of the items below may not apply to your work--that's okay.  You may not be able to fill in some items that _do_ apply to your work--that's also okay.  If you don't have answers, please come ready to ask questions.
+---
 
-- Product description
-    + Brief overview of motivation for the change
-    + Link to product document or GitHub issue
-- UX design description
-    + For user-facing changes, link to UX prototype or wireframes if available
-    + Call out any engineering challenges; UX is reviewed in the Design Intent meeting
-- Frontend changes
-    + Identify any significant code changes
-    + Identify any new design system components needed or changes to current components
-    + Describe any product analytics being gathered
-- Backend changes
-    + Does the project introduce any new or unusual infrastructure dependencies?
-- Internal API changes
-    + List new or modified APIs in `vets-api`
-    + Describe expected call patterns
-- External API changes
-    + List new or modified APIs for upstream or external systems
-    + Describe expected call patterns
-    + What PII or PHI will be transmitted to/from the external systems?
-- Background jobs
-    + List any required background processing
-    + Describe error and dead letter handling
-- Data storage
-    + Describe new or modified databases, tables or columns
-    + Describe indexes and constraints
-    + Identify PII and PHI and where and how it will be stored and processed
-- Libraries and dependencies
-    + List new or updated dependences
-- Metrics, logging, observability, alerting
-    + Identify key areas to monitor
-- Infrastructure and network changes
-    + List any changes or additions
-- Test strategy
-    + Describe automated, manual and user acceptance test strategy
-    + Describe required test data and test user accounts
-- Rollout plan
-    + List scope of any feature flags
-    + Identify other teams to coordinate with
-    + Describe rollback plan
-- Internal administration tasks
-    + What maintenance or administration tasks do you anticipate will need to be performed periodically?
-    + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
-- Security
-    + What questions do you have regarding items on the security checklist?
-    + Are there any other security concerns about your project that you want to discuss?
-    + What [threat modeling][threats] have you done, and how did the results influence your planned architecture?
+## Frontend Changes
 
-TODO: provide this checklist as a document template in a separate file
+**Identify any significant code changes**
 
-## Security checklist
+- **FormsInProgress for Representative Users**
+    - Implemented a separate `vets-api` endpoint for `FormsInProgress`.
+    - See [InProgressFormsController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/in_progress_forms_controller.rb) and the relevant [Pull Request](https://github.com/department-of-veterans-affairs/vets-api/pull/17805).
+- **ARP Header and User Sign-in**
+    - **Custom User Endpoint**
+        - Utilized [`accredited_representative_portal/v0/user`](https://github.com/department-of-veterans-affairs/vets-website/blob/2c165632e0d3d430ec0e48b5dd51da64d61d6ea8/src/applications/accredited-representative-portal/actions/user.js#L15-L19) for ARP users.
+        - Changes detailed in [PR #30146](https://github.com/department-of-veterans-affairs/vets-website/pull/30146) and adaptation for Form 21a in [PR #31352](https://github.com/department-of-veterans-affairs/vets-website/pull/31352).
+    - **Custom Application Setup**
+        - Given that ARP does not require the standard [VA.gov](http://VA.gov) header or user, it bypasses the typical `vets-website` [**StartApp**](https://github.com/department-of-veterans-affairs/vets-website/blob/fc7ba0457bdda111881dd01529fc6ed217f4e9fc/src/platform/startup/index.js#L30) setup, which includes functionality like the [`commonReducer`](https://github.com/department-of-veterans-affairs/vets-website/blob/fc7ba0457bdda111881dd01529fc6ed217f4e9fc/src/platform/startup/store.js#L34-L46) and [`startSitewideComponents`](https://github.com/department-of-veterans-affairs/vets-website/blob/f0320a93f026e70607a9863a2d00e15b02f1f85d/src/platform/site-wide/index.js#L28-L61) (primarily used for the VA.gov header). Instead, ARP utilizes a custom [`arpUserReducer`](https://github.com/department-of-veterans-affairs/vets-website/blob/2c165632e0d3d430ec0e48b5dd51da64d61d6ea8/src/applications/accredited-representative-portal/reducers/index.js#L5-L10) and selectively loads only the necessary functionality into [**StartReactApp**](https://github.com/department-of-veterans-affairs/vets-website/blob/2c165632e0d3d430ec0e48b5dd51da64d61d6ea8/src/applications/accredited-representative-portal/app-entry.jsx#L1-L27), allowing for a leaner, more focused implementation tailored to ARP's requirements (far fewer than the Veteran VA.gov header).
+- **Custom Content Build**
+    - Created a unique content-build layout with a representative-centric header and footer.
+    - Refer to the [ADR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/react-header-footer-adr.md), [PR #2004](https://github.com/department-of-veterans-affairs/content-build/pull/2004), and [PR #1989](https://github.com/department-of-veterans-affairs/content-build/pull/1989).
 
-This checklist provides a high-level overview of key security requirements expected to be met by all new functionality implemented on the VA.gov platform. If any of the items on this checklist are unclear to you or you're unsure whether your intended architecture will comply with them, they should be brought up and discussed at the Architecture Intent meeting.
+**Identify any new design system components needed or changes to current components**
 
-This checklist is by no means a comprehensive list of all applicable security principles! Engineers building new functionality for VA.gov are expected to have experience with secure web application development principles and techniques and to apply them consistently in their work.
+- No new design system components were required; some existing components were updated. TODO: Tag @arf to fill in details.
 
-- PII and PHI handling
-    + Query parameters in URLs may never contain PII or PHI.
-    + Logging
-        * Neither PII nor PHI may be logged, except in small quantities for debugging purposes as [described in the developer documentation][PIL].
-        * Care must be taken to ensure that no PII or PHI is logged in exceptions.
-        * Note that ICNs are considered PII and therefore should not be logged. For more about this, see the [developer documentation][ICN].
-        * The contents of free-form text fields filled in by users should not be logged, because there is no way to ensure they do not contain PII or PHI.
-        * You should log all significant user actions, including both successful and failed actions, and both read and write operations.
-    + Data retention
-        * PII and PHI should only be stored persistently when there is a business justification for doing so. Don't retain data you don't need to.
-        * PII and PHI can be retained for a maximum of 60 days.
-        * However, for forms that are in process (i.e., that a user has started working on but not yet submitted), PII may be retained for as long as the form is still eligible to be completed and submitted. Once the form expires and can no longer be worked on, the 60-day clock starts ticking, though again, ideally we would get rid of the PII sooner than that if there is no longer a business justification to retain it.
-        * Once a form has been completed and submitted, the 60-day clock starts when we have received confirmation from the remote system that the submission was successful, though again, getting rid of the PII sooner than that is preferred when possible.
-        * Note that the [Forms Library][forms] includes support for these data-retention rules.
-    + PII and PHI should never be hard-coded in source code or checked into GitHub.
-    + Data encryption
-        * PII and PHI fields in the database [must be encrypted][API-encryption]. Note that the Forms Library encrypts form data automatically.
-        * PII and PHI must be encrypted in transit. This means, primarily, that any network streams, e.g., API calls, over which we exchange PII or PHI must use TLS.
-- Authentication and authorization
-    + `vets-api` endpoints should use the [authentication][authn] and [authorization][authz] functionality provided by `vets-api`. Please don't roll your own.
-    + Static API keys are not allowed for new inbound or outbound system-to-system authenticated integrations. Instead, they must utilize a pattern that complies with OAuth 2.0 JWT authorization standards. See, for example, the Identity team's [Service Account Auth (STS) documentation][sts].
-        * New integrations that are not compliant with this requirement require an exemption with an approved justification.
-        * For assistance with satisfying this requirement, please consult with the Identity team.
-    + Integration endpoints with that use static API key authentication (with an exemption as described above), should support key rotation without downtime. This typically means the endpoint allows multiple keys to be active at the same time, so that the key can be rotated by first adding the new key to the endpoint, then changing the caller to use the new key, then finally removing the old key from the endpoint.
-- Secrets should be stored in the AWS SSM Parameter Store as [described in the developer documentation][secrets]. Secrets should _never_ be hard-coded in source code or checked into GitHub.
-- TODO: Do we want to talk about internal administration / maintenance pages here? Do any such pages already exist within VA.gov, and are there documented patterns for how they should be implemented, protected from public access, etc.?
+**Describe any product analytics being gathered**
 
-## How to schedule the Architecture Intent meeting
+- Currently, no product analytics are being gathered for ARP.
 
-TODO: use [Design Intent][DI] as a template
+---
 
-<!----------------------------------------------------------------------------->
+## Backend Changes
 
-[PII]: https://en.wikipedia.org/wiki/Personal_data
-[PHI]: https://en.wikipedia.org/wiki/Protected_health_information
-[threats]: https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
-[PIL]: https://depo-platform-documentation.scrollhelp.site/developer-docs/personal-identifiable-information-pii-guidelines#PersonalIdentifiableInformation(PII)guidelines-PIIwiththePersonalInformationLog
-[ICN]: https://depo-platform-documentation.scrollhelp.site/developer-docs/personal-identifiable-information-pii-guidelines#PersonalIdentifiableInformation(PII)guidelines-NotesandpoliciesregardingICNs
-[forms]: https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview
-[API-encryption]: https://depo-platform-documentation.scrollhelp.site/developer-docs/data-encryption-in-vets-api
-[authn]: https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication
-[authz]: https://depo-platform-documentation.scrollhelp.site/developer-docs/authorization
-[sts]: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)
-[secrets]: https://depo-platform-documentation.scrollhelp.site/developer-docs/store-a-secret-in-parameter-store
-[DI]: https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/design-intent
+**Does the project introduce any new or unusual infrastructure dependencies?**
+
+- **GCLAWS API Integration**
+    - Requires sending `POST` requests to the GCLAWS API Form21as endpoint, external to `vets-api`.
+    - An [ESECC networking request](https://esecc.va.gov/CGWeb/MainUI/Changemanagement/StaffRFC.aspx?boundtable=IChangeManagementTicket&CloseOnPerformAction=false&ID=14985&windowWidth=1050&openTime=1722017159558&refreshOnClose=true) currently blocks this functionality. See [ZH issue](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/88288).
+    - See code comments in [AccreditationService](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/services/accredited_representative_portal/accreditation_service.rb).
+    - Relevant PRs for adding GCLAWS URLs to the secrets store:
+        - [PR #2949](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/pull/2949)
+        - [PR #2951](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/pull/2951)
+        - [PR #2952](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/pull/2952)
+- **Representative User’s FormsInProgress**
+    
+    FormsInProgress records for RepresentativeUsers are sourced from a separate `vets-api` endpoint. See [AccreditedRepresentativePortal::V0::InProgressFormsController](https://github.com/department-of-veterans-affairs/vets-api/blob/7e1dcaa0bf3a779175730c29334c04f12d6c90c8/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/in_progress_forms_controller.rb) and the relevant [Pull Request](https://github.com/department-of-veterans-affairs/vets-api/pull/17805/files).
+    
+- **Representative User Sign-in**
+    
+    This project required implementing a separate sign-in flow for representative users, which involved extensive collaboration with the Identity Team for approval and execution.
+    
+    - [ADR on Representative User Sign-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/using-sign-in-service.md)
+    - Sign-in flow diagrams and approval details are available [here](https://dsva.slack.com/docs/T03FECE8V/F07GUSS5CTF).
+    - The core implementation is managed through the [RepresentativeUsersController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/representative_users_controller.rb) and [RepresentativeUserLoader](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/services/accredited_representative_portal/representative_user_loader.rb), which sets the `current_user` to the ARP user. The full implementation details can be found in the [Pull Request](https://github.com/department-of-veterans-affairs/vets-api/pull/15944/files).
+    - The [Form21aController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/form21a_controller.rb) and the [AccreditationService](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/services/accredited_representative_portal/accreditation_service.rb) handle user action errors, ensuring security requirements are met and user actions and errors are properly logged.
+
+---
+
+## Internal API Changes
+
+**List new or modified APIs in `vets-api`**
+
+- Implemented a POST request to the GCLAWS API's `Form21as` endpoint.
+- See [Form21aController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/form21a_controller.rb).
+
+**Describe expected call patterns**
+
+- General description in the [ARP 21a Process Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726697613380/bb8c376ee4cd617105a8a70bc4e39e5418873da9?sender=u44da4f823ec94118a7079396).
+
+---
+
+## External API Changes
+
+**List new or modified APIs for upstream or external systems**
+
+- Utilizing the GCLAWS API for form submissions.
+- Swagger API documentation accessible within the VA network at [GCLAWS Swagger API](https://ogccotst1.dva.va.gov:4501/swagger/index.html).
+
+**Describe expected call patterns**
+
+- General description in the [ARP 21a Process Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726697613380/bb8c376ee4cd617105a8a70bc4e39e5418873da9?sender=u44da4f823ec94118a7079396).
+
+**What PII or PHI will be transmitted to/from the external systems?**
+
+- **PII Fields**:
+    - `ICN`, `lastName`, `firstName`, `middleName`, `suffix`, `fullName`, `homePhone`, `homeEmail`, `birthDate`, `birthCity`, `birthState`, `birthCountry`, `signature`, `homeAddress`, `businessAddress`, `phoneNumber`, `supervisorName`, `supervisorEmail`, `employerName`, `characterReferences`.
+    - ICN: the 21a ARP representative user's internal control number. [This canvas](https://dsva.slack.com/docs/T03FECE8V/F07MD0Q4G5R) provides more details on why the ICN is sent to GCLAWS along with accreditation requests.
+- **PHI Fields**:
+    - `impairmentsExplanation`, `physicalLimitationsExplanation`.
+
+---
+
+## Background Jobs
+
+**List any required background processing**
+
+- No background jobs are required for ARP.
+
+**Describe error and dead letter handling**
+
+- Not applicable, as there are no background jobs.
+
+---
+
+## Data Storage
+
+**Describe new or modified databases, tables, or columns**
+
+- Only [`FormsInProgress`](https://github.com/department-of-veterans-affairs/vets-api/blob/7e1dcaa0bf3a779175730c29334c04f12d6c90c8/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/in_progress_forms_controller.rb#L1-L55) records for the 21a form are stored.
+
+**Describe indexes and constraints**
+
+- No new indexes or constraints have been added.
+
+**Identify PII and PHI and where and how it will be stored and processed**
+
+- PII data in `FormsInProgress` is encrypted and stored securely as per VA guidelines.
+
+---
+
+## Libraries and Dependencies
+
+**List new or updated dependencies**
+
+- No new libraries or dependencies were added.
+
+---
+
+## Metrics, Logging, Observability, Alerting
+
+**Identify key areas to monitor**
+
+- The `service_tag` `accredited-representative-portal` is used for Datadog monitoring.
+    - Rack requests can be observed in staging.
+    - References:
+        - [ARP on Datadog](https://bit.ly/arp-datadog-monitoring)
+        - [Service Tag in `vets-api`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/application_controller.rb)
+
+---
+
+## Infrastructure and Network Changes
+
+**List any changes or additions**
+
+- Sending POST requests to the GCLAWS API introduces a new network path for `vets-api`.
+- Requires an ESECC networking request approval and a Memorandum of Understanding between GCLAWS and `vets-api`.
+- References:
+    - [ZenHub Issue](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/88288)
+    - [ESECC Request](https://esecc.va.gov/CGWeb/MainUI/Changemanagement/StaffRFC.aspx?boundtable=IChangeManagementTicket&CloseOnPerformAction=false&ID=14985&windowWidth=1050&openTime=1722017159558&refreshOnClose=true)
+
+---
+
+## Test Strategy
+
+**Describe automated, manual, and user acceptance test strategy**
+
+- **Automated Testing**
+    - Follows best practices.
+        - [vets-api Specs](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/accredited_representative_portal/spec)
+        - [vets-website Tests](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/accredited-representative-portal/tests)
+- **Manual Testing**
+    - Conducted on [staging.va.gov/representative](https://staging.va.gov/representative):
+        - Sign-in/Sign-out functionality
+        - Form completion (submission currently blocked due to ESECC request)
+        - Save-in-progress functionality
+
+**Describe required test data and test user accounts**
+
+- Any `vets-api` user can test ARP functionality; no additional test data is required.
+
+---
+
+## Rollout Plan
+
+**List scope of any feature flags**
+
+- Currently, enabled [ARP is only in staging](https://staging.va.gov/representative) and not accessible in production.
+- Feature flags in Flipper:
+    - `accredited_representative_portal_api`
+    - `accredited_representative_portal_frontend`
+    - `accredited_representative_portal_pilot`
+
+**Identify other teams to coordinate with**
+
+- **Identity Team**
+- **GCLAWS Team**
+
+**Describe rollback plan**
+
+- The application will be rolled out after OGC users can process 21a applications.
+- The GCLAWS Team is expected to develop the necessary OGC UI in the coming quarters.
+- A detailed rollout plan will be formulated closer to that time.
+
+---
+
+## Internal Administration Tasks
+
+**What maintenance or administration tasks do you anticipate will need to be performed periodically?**
+
+- No periodic maintenance or administration tasks are anticipated at this time.
+
+**Describe how you intend for these tasks to be performed**
+
+- Not applicable.
+
+---
+
+## Security
+
+**What questions do you have regarding items on the security checklist?**
+
+- **Static API Key Usage**
+    - GCLAWS plans to provide a static API key for authorization.
+    - Per the security checklist, we need to migrate to a solution compliant with OAuth 2.0 JWT standards.
+    - Assistance from the Identity Team and buy-in from GCLAWS will be required.
+
+**Are there any other security concerns about your project that you want to discuss?**
+
+- None were identified at this time.
+
+**What threat modeling have you done, and how did the results influence your planned architecture?**
+
+- Threat modeling is planned for a future date, closer to the application's go-live, expected in several quarters.
