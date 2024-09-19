@@ -76,9 +76,10 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - resolution of any PEGA errors/issues
   - Datadog/DOMO and GA monitoring
   - remove any test data after done
-- react widget notification for CAIA (after testing is signed off on)
+  - back end verification/steps
+- react widget notification for CAIA (after testing is signed off on) and it's ready to release to external users
 - notify contact center when this is ready
-- back end verification/steps
+
 
 ### Stage A: Canary
 
