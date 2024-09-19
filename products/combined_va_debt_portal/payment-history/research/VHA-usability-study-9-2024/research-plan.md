@@ -1,7 +1,3 @@
-# [ In progress ]
-
-
-
 # Research Plan for Debt Resolution Team, VHA Debt Portal payment history, September - October 2024
   
 
@@ -227,12 +223,19 @@ Consider bucketing research questions under research goals. For each question, t
     
   
 
-### Goal 3: To understand comprehension of the medical copay detail additions that we are surfacing sooner. To understand whether the information is helpful to Veterans and how it aligns with their mental models.
+### Goal 3: To understand comprehension of the medical copay detail additions that we are surfacing sooner. To understand whether the information is helpful to Veterans and how it aligns with their mental models. Additionally, understand Veterans' mental models about VA copay billing in general. 
 
 
 9.  What information is necessary on doctor visit summaries, and prescription medication summaries?
 	-  Do Veterans have concerns about the security and privacy of their PHI?
 	- What are Veterans' mental models about VHA copay billing?
+
+
+10. What are Veterans perceptions of VA copay billing and VBA overpayment debt being housed under one experience? 
+	- Does it trigger negative feelings? (associating receiving medical copay bills as "debt")
+	- Do they seem unrelated to Veterans? 
+	- What is a better conceptual model for this hub? 
+
 
 ## Hypotheses
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -303,7 +306,7 @@ Before writing your recruitment criteria, be sure to review the following resour
 -    [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
     
 
-####  We would like to request a kick off call with Perigean the week of 9/16.
+####  We would like to request a kick off call with Perigean the week of 9/23.
 
 #### We would like Perigean to help take notes during the interviews.
 
@@ -331,9 +334,12 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
 
 #### We most want to speak to:
 
--   Veterans that have VA copay bills (past 6 months)
-    
--   Veterans who have **recurring** VA copay bills
+- Veterans that have VA copay bills (past 6 months)
+  
+- Veterans who have recurring VA copay bills
+
+- "Super users" and new users
+
 
 #### Primary criteria (must-haves)
 
@@ -408,7 +414,9 @@ Please select what applies to you (Check all that apply)
 -   This VA copay bill appeared over 6 months ago.
     
 -   I have never had a VA copay bill. (does not qualify)
-    
+
+-   I recently signed up for VA medical care in the last year. 
+
 
 **Quotas (info for Perigean):**
 
@@ -426,12 +434,8 @@ Please select what applies to you (Check all that apply)
 - One or more of my VA copay bills are recurring (happening once a month or more than once a month for the same VHA medication prescription or the same health condition)
 
 - One or more of my VA copay bills are over $100 each
-
-#### 3. VA debt resolution attitudinal
-
-TBD
-
-#### 4. Experiences of financial hardship
+  
+#### 3. Experiences of financial hardship
 
 Please select the statement(s) that apply to you: (Check all that apply)
 
@@ -442,18 +446,7 @@ Please select the statement(s) that apply to you: (Check all that apply)
 -   I have never experienced financial hardship.
     
 
-#### 5. LGBTQ+
-
-Do you identify as a member of the LGBTQ+ community ? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
-
--   Yes
-    
--   No
-    
--   Decline to answer
-    
-
-#### 6. Cognitive consideration
+#### 4. Cognitive consideration
 
 Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury. We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
@@ -464,7 +457,7 @@ Has a medical professional ever diagnosed you with a cognitive disorder? Some ex
 -   Decline to answer
     
 
-#### 7. Household income
+#### 5. Household income
 
 What is your annual household income level (not including VA benefits payments you receive*)? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
@@ -484,7 +477,7 @@ What is your annual household income level (not including VA benefits payments y
     
 -   Decline to answer
 
-#### 8. Attitudinal question
+#### 6. Attitudinal question
 
 Please indicate how much you agree or disagree with the following statement:
 
@@ -504,7 +497,7 @@ Please indicate how much you agree or disagree with the following statement:
 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
-Tuesday, September 24 - Tuesday, October 1 2024
+Monday, September 30 - Tuesday, October 8 2024
 
 ## Prepare
 
