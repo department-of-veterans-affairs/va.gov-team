@@ -14,6 +14,22 @@
   
 ### [OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/MobileTeamOKRs.md)
 
+## 10/16/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Q4 Plan Readout
+
+## 10/2/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Q4 Planning milestones
+  * [Quarterly Planning Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/planning/quarterly%20planning/MobileQuarterlyPlanningProcess.md)
+  * Readout in SoS Oct. 16
+
 ## 9/18/24
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
