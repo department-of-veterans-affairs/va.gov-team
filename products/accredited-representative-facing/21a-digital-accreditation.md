@@ -31,7 +31,7 @@ The below personas reflect the goals, pain points, and other information for _ac
 
 ## Proposed next steps
 * Continue to update the staging site so that it matches OGC's desired fields and functionality.
-  * See Figma v5 (Future version) for the latest round of applied feedback.
+  * See [Figma v5 (Future version)](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1026-23089&t=luaHQGKRIHwSK1V0-1) for the latest round of applied feedback.
   * Tickets capturing these changes compared to the current state can be found in the [project board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board?labels=arf-eng) and filtering by "Form 21a"
 * Continue to collaborate with the GCLAWS team to update the schema for successful 21a submission.
   * GCLAWS is the database that the digitized Form 21a will ultimately submit to. It is under OGC's technical umbrella outside of OCTO, and the GCLAWS team we interface with is in charge of creating the API endpoints the form will need to submit to.
