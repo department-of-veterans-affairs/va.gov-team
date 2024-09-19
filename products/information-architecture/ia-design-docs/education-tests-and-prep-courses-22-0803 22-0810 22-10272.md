@@ -1,4 +1,5 @@
-# IA Design for [Product/page name]
+# IA Design for Education tests and prep courses reimbursements Form 22-10272, Form 22-0810, Form 22-0810
+
 **STATUS: [In progress]**
 
 **Team:** [NA - Drupal Update]
@@ -18,6 +19,7 @@
 
 ## <a name="flows"></a>User/page flows <br>
 \See most up-to-date flow in Mural (here) [https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726160586128/343d813fc6515d2e8b2e88aff56aa6fad4fae52d?wid=132-1726168589170]
+
 A note about these flows and forms:
 **Licenses and Certifications (L&C)**
 - VA will reimburse costs for tests to obtain / maintain licenses and certifications.
@@ -47,58 +49,97 @@ A note about these flows and forms:
 **1) [Licensng and Certification tests and prep courses] - [Existing]**
 - Old URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
 - New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[updated page name]
+- Old Breadcrumb: VA.gov home > Education and training > About GI Bill benefits > 
+How to use your GI Bill benefits > Get paid back for test fees
 - New Breadcrumb: Va.gov home > Education and training > About GI Bill benefits > 
 How to use your GI Bill benefits > **[Licensing and Certification tests and prep 
-courses - or Drupal auto-shortening of H1]**
+courses - or Drupal auto-shortening TBD]**
 - Notes: This page is currently in the Education Hub. It's staying there.
 
-**2) [National Tests] - [Existing/New]**
-- URL: https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/
+**2) [National Tests] - [Existing - expanding content and moving to hub]**
+- Old URL: https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/
 - New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[updated page name]
-- Breadcrumb: Va.gov home > Education and training > About GI Bill benefits > 
-How to use your GI Bill benefits > **[National tests and prep courses - or Drupal auto-shortening of H1]**
+- Old Breadcrumb: VA.gov home > Resources and Support > Can I Use My VA 
+Education Benefits To Pay For Preparatory Courses?
+- New Breadcrumb: Va.gov home > Education and training > About GI Bill benefits > 
+How to use your GI Bill benefits > **[National tests and prep courses - or Drupal auto-shortening TBD]**
 - Notes: This page is currently in Resources and Support. It's moving to the Education Hub.
 
+## <a name="nav"></a>Entry points <br>
 
-1. **[Page/menu name]** - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label: 
-  - Link destination: 
-  - Notes:
+### Primary entry point
+
+
+**N/A - no entry into digital form**
+   <img width="293" alt="reimbursements primary entry pt" src="https://github.com/user-attachments/assets/0e8dfadd-ce94-4ea9-874c-a519464f9699">
+
 
 ### Secondary entry points
 _Any additional locations that the page should be navigable from.  This is often an about-a-form page, an R&S page about the feature, or can be left nav or mega menu.   These are secondary, and while they are still very important, are not required for launch._
 
-1. **[Page/menu name]** - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label:
-  - Link destination: 
-  - Notes:
+** Licensing and Certification**
+
+1. **[Left nav: Educaion and training]** - [Modify]
+  - Placement description: Keep L&C page in the current location in the Education and training left nav, update the text to match H1 updates. 
+  - Link label: **Licensing and Certification tests and prep courses** or TBD by Content
+  - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
+**[Licensing and Certification tests and prep courses - or Drupal auto-
+shortening TBD]**/
+  - Notes: The only change for L&C is a naming update
+
+** National Tests**
+
+1. **[Left nav: Educaion and training]** - [Modify]
+  - Placement description: Move the National Tests page to the Education and training left nav, directly under L&C.
+  - Link label: **National tests and prep courses** or TBD by Content
+  - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[National tests 
+and prep courses - or Drupal auto-shortening TBD/
+  - Notes: This page is moving over from Resources and Support
+
+<img width="789" alt="reimbursements secondary entry pt" src="https://github.com/user-attachments/assets/ba36737e-2b9d-4833-a4b3-c2674782a8a0">
 
 ### Crosslinks
-_Not required. Links on other pages that point to this tool/thing/form._
+
+** Licensing and Certification**
 
 1. **[Link on a specific page]** - [Add/Modify/Remove]
-  - Placement description: 
-  - Link label:
-  - Link destination: 
-  - Notes: 
- 
+  - Placement description: Add crosslink to L&C page from the 'Other helpful information' footer section of VA.gov home > Careers and employment > Educational and career counseling (VA Chapter 36)
+  - Link label: Licensing and certification tests and prep courses
+  - Link destination: Link on [Education and career counseling[(https://www.va.gov/careers-employment/education-and-career-counseling/) page, linking to URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
+[Licensing and Certification tests and prep courses - or Drupal auto-
+shortening TBD]/
+<img width="686" alt="reimbursements l c crosslinks" src="https://github.com/user-attachments/assets/579c8c80-4e10-40ec-a342-4c4a59e4ace4">
+
+** National Tests**
+*No cross-links*
+
+**'About VA Form [form number]' pages**
+  - H1s of 'About' pages should be updated:
+  -   Form 22-10272 H1 should be updated to: Licensing and certification tests and prep courses
+  -   Form 22-0803 H1 should be updated to: Licensing and certification tests and prep courses
+  -   Form 22-0810 H1 should be updated to: National tests and prep courses
+  -   Note: both 22-10272 and 22-0803 should direct to the same page, as the L&C page includes two reimbursement forms.
+
 
 ## <a name="redirects"></a>Redirects <br>
-*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
-
 
 Current URL | Redirect to | Notes
---- | --- | ---
- |  | 
- 
+https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-
+fees/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[licensing -
+and-certification-tests-and-prep-courses - or Drupal auto-shortened version TBD] | L&C redirect
+https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-
+preparatory-courses/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[national-
+test-and-prep-courses - or Drupal auto-shortened version TBD] | National tests redirect
+ <img width="1050" alt="reimbursements redirects" src="https://github.com/user-attachments/assets/f9932c6e-0d3b-4098-83cf-afe59170443f">
+
 
 ## <a name="bestbets"></a>Best Bets<br>
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.*
+- **Update** best bet for Licenses and Certifications page
+- **Add** best bet for National Exams page.
+<img width="1062" alt="reimbursement best bets" src="https://github.com/user-attachments/assets/e49fdec1-6bb0-4f84-878e-c957f0382081">
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
+Not noted in IA ticket
 
 **[Which static page has the widget, ie the main entry point?]**
 
