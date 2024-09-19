@@ -70,24 +70,28 @@ Before discussing how you help Veterans and non-veterans (Veterans' family membe
 - What is the degree of closeness these claimants have with the deceased veterans?
 - How do you verify that the claimant is a relative, friend, or any relationship in which they say they are of the deceased Veteran?
 - What degree of familiarity do they have navigating VA?
+### Familiarity with VA and the form
+- What degree of familiarity do they have navigating VA?
 - Based on your experience, what is their level of familiarity with the form?
-- What do you think is their understanding of the different benefits they can form?
-- Do they understand the difference between burial allowance, plot or interment allowance, and transportation allowance?
-- Had they tried filling out the paper or the online form before they came for your support?
+   - Had they tried filling out the paper or the online form before they came for your support?
+   - What do you think is their understanding of the different benefits of the form?
+   - Do they understand the difference between burial allowance (service-connected, non-service-connected), plot or interment allowance, and transportation allowance?
+- Do they understand the requirements for each?
+- How do they understand the FDC program? Is that a program you suggest they do? Why or why not?
 - What specific factors might you have observed that led claimants to seek your support?
 - How do most claimants hear about the Burial Benefits?
 - Do you do outreach to inform Veterans and their families about the Burial Benefits?
-- Based on your experience, what are the claimants' behaviors and feelings about the Burial benefits form?
-- Material, Information, and Tools Involved in Supporting Claims
-- When assisting eligible claimants, do you typically use the paper pdf, VA.gov, or something else?
-     - Why is that?
+
+### Material, Information, and Tools Involved in Supporting Claims
+- Can you describe the process of supporting a claimant with the Burial Benefits form?
 - Does it differ if the claimant is also a Veteran?
 - What tools do you use to help claimants apply for Burial Benefits?
-### Obtaining the deceased Veteran’s information & supporting documents
+- What time frame does it usually take you to help claimants complete the Burial Benefits form?
 - Where do you go to obtain all the necessary information on the deceased veteran to submit the Burial benefit form?
-- Is this the same place you would suggest a claimant go?
+   - Is this the same place you would suggest a claimant go?
 - Where do you go to obtain all the necessary supporting evidence to submit the Burial benefit form?
-- Is it the same place you would suggest a claimant go to?
+   - Is it the same place you would suggest a claimant go to?
+
 ## Challenges with the Burial benefits form
 - What may stop someone from applying for the burial benefits form online or on paper?
 - From your experience, what sections of the Burial benefit form, if any, provide the biggest challenge for claimants?
@@ -95,15 +99,15 @@ Before discussing how you help Veterans and non-veterans (Veterans' family membe
 - What sections of the Burial benefit form, if any, do you need to clarify to claimants?
 - What most frequently leads to delays during the application process before submitting the claim?
 - What information is most critical for a successful outcome?
-- We have heard that DD214 and the death certificate are two of them.
-- What is the biggest challenge when claimants don’t have access to the deceased Veteran’s DD214?
-- And if they don’t have access to the deceased Veteran’s death certificate?
+    - We have heard that DD214 and the death certificate are two of them.
+    - What is the biggest challenge when claimants don’t have access to the deceased Veteran’s DD214?
+    - And if they don’t have access to the deceased Veteran’s death certificate?
 - Have you observed any challenges regarding transportation evidence?
-- How do you assist claimants with obtaining their DD214?
+- How would you be able to help claimants obtain their DD214?
      - Their Death certificate?
-- From your experience, what, if any, challenges do eligible claimants have in receiving Burial benefits?
-- What time frame does it usually take you to help claimants complete the Burial Benefits form?
+- From your experience, what challenges do eligible claimants face when receiving burial benefits?
 ## After submission 
+- What time frame does it usually take you to help claimants complete the Burial Benefits form?
 - What most frequently leads to delays after the claim has been submitted?
      - To denials?
 - How are you involved in the process after the initial application is submitted?
