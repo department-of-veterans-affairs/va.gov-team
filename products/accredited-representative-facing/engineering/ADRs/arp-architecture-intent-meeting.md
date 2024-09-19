@@ -62,7 +62,16 @@ The **Accredited Representative Facing (ARF) Team** aims to create an accessible
 
 **Identify any new design system components needed or changes to current components**
 
-- No new design system components were required; some existing components were updated.
+- No new design system components were required.
+- Several updates to patterns available in the Forms Library:
+    * `currentOrPastMonthYearDateUI` - [#veteran-facing-forms](https://dsva.slack.com/archives/C044AGZFG2W) did the work on a ticket we created to add this pattern that excludes day from date pattern (just MMYYY instead of MMDDYYYY)
+    * `yesNoUI` - [#veteran-facing-forms](https://dsva.slack.com/archives/C044AGZFG2W) did the work on a ticket we created to add the functionality of adding a 'description' to this pattern
+    * `selectUI` - Added the ability to pass a required prop, so `selectUI` can be conditionally required
+    * `currentOrPastDateUI` - Added the ability to pass a required prop, so all date patterns can be conditionally required
+    * `addressUI` - Updated JSDoc comments in the Forms Library to reduce confusion for future teams
+    * Array builder pattern (List & Loop) updates:
+        * Added ability for the summary page title to accept a description
+        * Min / Max validation - Working with CAIA and the [#veteran-facing-forms](https://dsva.slack.com/archives/C044AGZFG2W) team to improve hint text and error messaging around array builder item count validation
 
 **Describe any product analytics being gathered**
 
