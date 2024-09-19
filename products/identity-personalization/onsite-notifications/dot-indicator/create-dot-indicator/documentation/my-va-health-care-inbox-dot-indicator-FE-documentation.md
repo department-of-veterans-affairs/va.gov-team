@@ -1,6 +1,6 @@
 # My VA Health Care Inbox Link (with dot indicator) Frontend Documentation
 
-**Last updated:** May 6, 2024 - added VA-icon name
+**Last updated:** September 19, 2024 - added technical implementation details
 
 This document outlines specs for the link to access the health care secure messaging inbox within the Health Care section on My VA. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
@@ -54,7 +54,6 @@ Use VA-icon `forum` for icon
 ## Technical Implementation
 _how does this feature actually work - i.e. what endpoints are being called, who own those endpoints, what team(s) should be consulted if changes are needed or something breaks, etc._
 
-| Determining unread messages count | Updated on | Notes |
+| Determining unread messages count | Implemented on | Docs updated on |
 | -- | -- | -- |
-| <ol><li>check if user state includes messaging backend service</li><li>if yes, then [fetch unread messages](https://github.com/department-of-veterans-affairs/vets-website/blob/3d332cb34a7c95ff357486d5f1ae1610d60e323f/src/applications/personalization/dashboard/actions/messaging.js#L32-L49)</li></ol> We are grabbing the `unread_count` value from the `/my_health/v1/messaging` API endpoint. | September 2024 | |
-| <ol><li>check if user state includes messaging backend service</li><li>if yes, then [fetch unread messages](https://github.com/department-of-veterans-affairs/vets-website/blob/3c07f39d75469fff7a9ef379ba2f161649a8fa14/src/applications/personalization/dashboard/actions/messaging.js#L21-L39)</li></ol> We are grabbing the `unread_count` value from one folder only - from the `/v0/messaging/health/folders/0` API endpoint. | October 2023 | See [previous technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67007#issuecomment-1777608455) |
+| <ol><li>Check if `user` state includes `messaging` backend service</li><li>If yes, then [fetch unread messages](https://github.com/department-of-veterans-affairs/vets-website/blob/3d332cb34a7c95ff357486d5f1ae1610d60e323f/src/applications/personalization/dashboard/actions/messaging.js#L32-L49) (which calls the [countUnreadMessages](https://github.com/department-of-veterans-affairs/vets-website/blob/3c13374c725d5733a1df2522b861764db77d0b64/src/applications/personalization/dashboard/utils/helpers.js#L47-L61) function)</li></ol> We are grabbing the `unread_count` value from the `/my_health/v1/messaging` API endpoint. | October 2023 | September 2024 |
