@@ -47,6 +47,16 @@ sequenceDiagram
       c->>+url: get short url
       url--)-c: short url
       alt veteran initiated check-in
+        c->>+va: get Vista token
+        alt token returned
+          va--)c: valid token returned
+          c->>+cw: get demographics confirmations
+          cw--)-c: demographics confirmations
+        else any error occurred
+          va--)-c: return error
+          c->>+t: call
+          t-)-vet: send text (error check-in could not be completed)
+        end
         c->>+va: set status (E-CHECK-IN STARTED)
         va--)-c: status set
       end
