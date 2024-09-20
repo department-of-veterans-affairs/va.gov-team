@@ -17,11 +17,11 @@ The **Accredited Representative Facing (ARF) Team** aims to create an accessible
 
 - [Accredited Representative Facing Product Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing)
 
----
-
 ### Application Development Status
 
 As of this document's writing, the ARF Team's Form21a application has yet to undergo a staging review. [Downstream dependencies currently block application development](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/85933), so the application is not production-ready. The significant downstream dependency blocking production launch is the ability of OGC users to process 21a applications, which will determine the application's rollout. The GCLAWS Team is expected to develop the necessary OGC UI in the coming quarters. Please keep that in mind as you review the below.
+
+---
 
 ## UX Design Description
 
