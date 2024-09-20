@@ -64,6 +64,7 @@ Coming soon!
 
 
 ## Content considerations
+- For data that cannot be edited on the site, describe why you don't allow it and provide clear and concise instructions on how to do so.
 
 ### Alert Content
 When using this pattern keep in mind that the alerts used have specific content requirements. You can find each content scenario below. 
@@ -83,7 +84,7 @@ When using this pattern keep in mind that the alerts used have specific content 
 > 
 > [text link] Start your form without signing in
 
- ![image](https://github.com/user-attachments/assets/5f7e716a-edb0-4bea-b95b-6e419eef8c22)
+ ![image]([https://github.com/user-attachments/assets/5f7e716a-edb0-4bea-b95b-6e419eef8c22](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Unauthenticated%20Alert.png))
 
 
 #### Authenticated intro page alert
