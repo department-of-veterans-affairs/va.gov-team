@@ -2,9 +2,12 @@
 
 **STATUS: [In progress]**
 
-**Team:** [NA - Drupal Update]
+**Team:** OCTO request
 
-**People:** Content - Beth OCTO, IA - Sam CAIA, Edit and Drupal updates - Megan CAIA
+**People:** 
+- Content - Beth Potts, OCTO
+- IA - Sam Walker, CAIA
+- Edit and Drupal updates - Megan Zehnder, CAIA
 
 **IA Tracker:** [9922047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92047)
 
@@ -40,7 +43,8 @@ A note about these flows and forms:
 
 
 ## <a name="map"></a>Page structure<br>
-<img width="710" alt="reimbursement sitemap2" src="https://github.com/user-attachments/assets/adae522f-6c77-4d4c-b6f7-78fd65ce05e5">
+
+![reimbursement sitemap 3](https://github.com/user-attachments/assets/fe81838e-a4a3-49d8-a19f-60bd08515f12)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
@@ -48,33 +52,30 @@ A note about these flows and forms:
 
 **1) [Licensng and Certification tests and prep courses] - [Existing]**
 - Old URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
-- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[updated page name]
+- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/**[TBD by content]**
+
 - Old Breadcrumb: VA.gov home > Education and training > About GI Bill benefits > 
 How to use your GI Bill benefits > Get paid back for test fees
 - New Breadcrumb: Va.gov home > Education and training > About GI Bill benefits > 
 How to use your GI Bill benefits > **[Licensing and Certification tests and prep 
 courses - or Drupal auto-shortening TBD]**
+
 - Notes: This page is currently in the Education Hub. It's staying there.
 
 **2) [National Tests] - [Existing - expanding content and moving to hub]**
 - Old URL: va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/
-- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[updated page name]
+- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/**[TBD by content]**
+  
 - Old Breadcrumb: VA.gov home > Resources and Support > Can I Use My VA 
 Education Benefits To Pay For Preparatory Courses?
-- New Breadcrumb: Va.gov home > Education and training > About GI Bill benefits > 
+- New Breadcrumb: Va.gov home > Education and training > About GI Bill benefits >
+  
 How to use your GI Bill benefits > **[National tests and prep courses - or Drupal auto-shortening TBD]**
 - Notes: This page is currently in Resources and Support. It's moving to the Education Hub.
 
 ## <a name="nav"></a>Entry points <br>
 
-### Primary entry point
-
-**N/A - no entry into digital form**
-
-<img width="293" alt="reimbursements primary entry pt" src="https://github.com/user-attachments/assets/0e8dfadd-ce94-4ea9-874c-a519464f9699">
-
-
-### Secondary entry points
+### Entry points
 
 ** Licensing and Certification**
 
