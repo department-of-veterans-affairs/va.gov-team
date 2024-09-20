@@ -27,7 +27,13 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 **Sequence diagram**<br><br>
 
-<img width="1000" alt="Frame 1" src="https://github.com/user-attachments/assets/e638d073-6daf-4f99-80ee-1fc2a044d9f4">
+<img width="1000" alt="Frame 1" src="https://github.com/user-attachments/assets/e638d073-6daf-4f99-80ee-1fc2a044d9f4"><br><br>
+
+**Referrals-to-notifications-to-VA.gov data flow**
+
+- [Review the Community Care VSS referral to VA Notify data flow in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724857034587/50f5a6735d13d9273970da070a5573385dd7fb2c?sender=u37bb983bd3fc3cc00c7d3286)<br><br>
+
+<img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/user-attachments/assets/156fc85e-cb01-41dc-8f36-13785257b4aa">
 
 ## Research findings
 
