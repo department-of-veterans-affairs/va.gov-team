@@ -10,9 +10,9 @@ See the [VA Organigram](https://app.mural.co/t/departmentofveteransaffairs9999/m
 
 ## Mission
 
-Our mission is to create an accessible, modern, and secure online system for Accredited Representatives. We aim to streamline the use of digital forms, providing a faster and smoother experience for both representatives and the Veterans they serve, ultimately improving the overall VA experience.
+Our mission is to create an accessible, modern, and secure online system for [Accredited Representatives](https://www.va.gov/resources/va-accredited-representative-faqs/). We aim to streamline the use of digital forms, providing a faster and smoother experience for both representatives and the Veterans they serve, ultimately improving the overall VA experience.
 
-## Product Resources
+## Project Resources
 
 ### Minimum Viable Product (MVP)
 
@@ -22,17 +22,22 @@ Explore the specifics of the ARF MVP and its impact: [ARF Team MVP](/products/ac
 
 View our strategic roadmap for future developments and milestones, last updated in July 2024: [ARF Team Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720019177037/1918bcb5dac0dab8a8103395aef7c9ddb347d6e6?sender=u2a4240a640b257ce33545495).
 
-### Work in Progress (WIP)
+### Where to find our work
 
-To track our current projects and view our progress, visit the ARF Team's Zenhub Workspace: [ARF Team Zenhub](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board).
+- [Accredited Representative-Facing Github repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing) (this repo)
+- [ARF Sharepoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing?csf=1&web=1&e=nBcDcq) with the Benefits Portfolio Sharepoint
+- [Zenhub board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board)
+- [Accredited Rep Facing Mural folder](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=ec617166-2771-4165-a134-39e239f3a045)
+- [Accredited Representative Figma project](https://www.figma.com/files/team/1278375444205744118/project/176208173/Accredited-Representatives?fuid=1142566432181786950) (shared with our sister team, ARM)
+- DSVA Slack channel: [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW).
+- [Google Drive folder](https://drive.google.com/drive/folders/0AHtMEJhzWhvjUk9PVA) (requires permissions request)
 
 ### Documentation
 
-Access our ongoing documentation and collaborative resources on Google Docs: [ARF Team Google Docs](https://drive.google.com/drive/u/0/folders/1xvKh-lGc2nGcpAKT4LBbqOglejmYKign) (requires permissions request).
-
 Below are some documents worth calling out specifically:
 
-* [ARP Team Jargon](/products/accredited-representative-facing/product-info/team-jargon.md)
+- [ARP Team Jargon](/products/accredited-representative-facing/product-info/team-jargon.md)
+- [ARM glossary of terms and their definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/terminology-definitions.md) (Github; note that Accredited Representative Management [ARM] is our sister team that works on similar products, but for the Veteran-facing experience.)
 
 Personas (in Mural):
 - [VSO representatives](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u8cf3f08a008c2b61ad621433)
@@ -66,17 +71,9 @@ Veterans and others can access information about accredited representatives (i.e
 
 ### Team Agreements
 
-#### General Agreements
-
-Learn about our overall team's working style and agreements: [ARF Team Agreements](/teams/vso/teams/accredited-representative-facing/process/team-agreements.md).
-
-#### Design Agreements
-
-Learn about our design working style and agreements: [ARF Design Agreements](/teams/vso/teams/accredited-representative-facing/process/design-agreements.md).
-
-#### Engineering Agreements
-
-Learn about our engineering working style and agreements: [ARF Engineering Agreements](/teams/vso/teams/accredited-representative-facing/process/engineering-agreements.md).
+- [ARF Team Agreements](/teams/vso/teams/accredited-representative-facing/process/team-agreements.md).
+- [ARF Design Agreements](/teams/vso/teams/accredited-representative-facing/process/design-agreements.md).
+- [ARF Engineering Agreements](/teams/vso/teams/accredited-representative-facing/process/engineering-agreements.md).
 
 ## Stay Connected
 
