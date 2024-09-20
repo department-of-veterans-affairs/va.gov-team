@@ -94,7 +94,7 @@ If you answered yes to any of these questions then go through the following [che
 If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
 
 ### Monitoring
-- [ ] Do you monitor the APIs that you submit to via Datadog?
+- [x] Do you monitor the APIs that you submit to via Datadog?
 
 - VA Direct Schedule Flow
     - [x] Yes [JL]
@@ -119,63 +119,77 @@ If not, then you'll need to consider the path user data took through both the cu
 
 If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
-- [ ] Does your Datadog monitoring use the appropriate tagging?
+- [x] Does your Datadog monitoring use the appropriate tagging?
 
     - VA Direct Schedule Flow
         - [ ] Yes
-        - [ ] No
+        - [x] No [JL]
     - COVID Vaccine Flow
         - [ ] Yes
-        - [ ] No
+        - [x] No [JL]
     - VA Request Flow
         - [ ] Yes
-        - [ ] No
+        - [x] No [JL]
     - CC Request Flow
         - [ ] Yes
-        - [ ] No
+        - [x] No [JL]
     - Manage Appointments Flow
         - [ ] Yes
-        - [ ] No
+        - [x] No [JL]
     - Cancellation Flows
         - [ ] Yes
-        - [ ] No
+        - [x] No [JL]
+
+ - [JL] I took a look at our logs and it doesn’t look like we are setting all the necessary tags:
+    ```
+    env: currently set as env:eks-prod but the recommended tag is env:prod
+    team: not set but I assume we’ll need to set it as team:appointments
+    itportfolio: not set but I assume we’ll need to set it as itportfolio:digital-experience
+    service: currently set as service:vets-api which I think is accurate
+    ```
+    I think we’ll need to file a work item to set these tags in our BE logging, probably in our middleware(s).
 
 If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
 
-- [ ] Do errors detected by Datadog go into a Slack notifications channel?
+- [x] Do errors detected by Datadog go into a Slack notifications channel?
 
     - VA Direct Schedule Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - COVID Vaccine Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - VA Request Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - CC Request Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - Manage Appointments Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - Cancellation Flows
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
+
+ - [JL] We have this set up too. Messages go to #appointments-alerts channel.
 
 If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
 
-Link to channel where alerts are populated:
+Link to channel where alerts are populated: [#appointments-alerts](https://dsva.slack.com/archives/C016QB6T340)
 
 - [ ] Does more than one person look at the Slack notifications channel containing errors on a daily basis?
     - [ ] Yes
     - [ ] No
+
+- [JL] Theoretically we do, and there’s a schedule here. However, we haven’t been following this since August. Though I often see Jeff, Corey and Nicholas being active in the slack channel.
 
 If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
 - [ ] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
     - [ ] Yes
     - [ ] No
+ - Yes we do. While we usually acknowledge issues in the slack channel directly using comments and threads, we can adopt the recommended methods listed in the linked document.
 
 If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
@@ -206,6 +220,7 @@ Link to Playbook:
     - Cancellation Flows
         - [ ] Yes
         - [ ] No
+ - [JL] We have filed issues using data from our DataDog monitoring tools in the past when additional backend work was needed, e.g. 86316, 89619 and 90026. I believe there are currently no outstanding issues that need to be filed but we should update our practices to match the expectations listed in the linked document.
 
 If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
 
@@ -229,6 +244,7 @@ If not, then start filing Github issues for new categories of errors following [
     - Cancellation Flows
         - [ ] Yes
         - [ ] No
+  - [JL] I’m not sure how we can be certain of this but I suppose the documentation part will help us answer this question?
 
 If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
 
@@ -318,6 +334,7 @@ Link to user flow diagram:
     - Cancellation Flows
         - [ ] Yes
         - [ ] No
+ - [JL] This will likely be a large work item since we’ll need to coordinate with OCTO to obtain agreements with all the systems listed in the diagram [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png).
 
 If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
 Please document the outcome of this conversation in your product's documentation in Github and link here:
