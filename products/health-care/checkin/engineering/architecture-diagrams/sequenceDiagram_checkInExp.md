@@ -16,6 +16,7 @@ In both cases, VEText calls the initiate check-in CHIP function. CHIP retrieves 
 
 ```mermaid
 sequenceDiagram
+  autonumber
   actor vet as Veteran
   participant vt as VEText
   participant c as CHIP
@@ -32,34 +33,19 @@ sequenceDiagram
     vt->>c: initiate check-in
   end
 
-  break clinic not enabled
-    c-)vt: return error
-    vt-)vet: send text (ERROR_CLINIC_NOT_ENABLED)
-  end
-
-  break too late
-    c-)vt: return error
-    vt-)vet: send text (CHECK_IN_LATE_ERROR)
-  end
-
-  break too early
-    c-)vt: return error
-    vt-)vet: send text (CHECK_IN_EARLY_ERROR)
-  end
-
-  break no appointments
+  break too few appointments
     c-)vt: return error
     vt-)vet: send text (ERROR_NOT_AVAILABLE)
   end
 
   break insurance validation needed
     c-)vt: return error
-    vt-)vet: send text (error validation needed)
+    vt-)vet: send text (ERROR_INSURANCE_VALIDATION)
   end
 
   break unknown number
     c-)vt: return error
-    vt-)vet: send text (error phone not found)
+    vt-)vet: send text (ERROR_PHONE_NOT_FOUND)
   end
 
   c->>+va: get Vista token
@@ -67,7 +53,7 @@ sequenceDiagram
   break any error occurs
     va--)c: return error
     c->>vt: return error
-    vt-)vet: send text (error check-in could not be completed)
+    vt-)vet: send text (error: check-in could not be completed)
   end
 
   va--)-c: valid token returned
@@ -77,7 +63,7 @@ sequenceDiagram
   break any error occurs
     cw--)c: return error
     c->>vt: call
-    vt-)vet: send text (error check-in could not be completed)
+    vt-)vet: send text (error: check-in could not be completed)
   end
 
   cw--)-c: demographics status
@@ -87,7 +73,7 @@ sequenceDiagram
   break any error occurs
     l--)c: return error
     c->>vt: call
-    vt-)vet: send text (error check-in could not be completed)
+    vt-)vet: send text (error: check-in could not be completed)
   end
 
   l--)-c: documentId
@@ -97,7 +83,7 @@ sequenceDiagram
   break any error occurs
     url--)c: return error
     c->>vt: call
-    vt-)vet: send text (error check-in could not be completed)
+    vt-)vet: send text (error: check-in could not be completed)
   end
 
   url--)-c: short url
@@ -108,7 +94,7 @@ sequenceDiagram
     break any error occurs
       va--)c: return error
       c->>vt: call
-      vt-)vet: send text (error check-in could not be completed)
+      vt-)vet: send text (error: check-in could not be completed)
     end
 
     va--)-c: valid token returned
@@ -119,7 +105,7 @@ sequenceDiagram
       val--)va: return error
       va--)c: return error
       c->>vt: call
-      vt-)vet: send text (error check-in could not be completed)
+      vt-)vet: send text (error: check-in could not be completed)
     end
 
     val--)-va: OK
