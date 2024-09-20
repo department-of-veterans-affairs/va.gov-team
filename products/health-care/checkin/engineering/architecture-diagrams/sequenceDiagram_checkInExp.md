@@ -29,12 +29,11 @@ sequenceDiagram
 
   alt veteran initiated check-in
     vet->>+vt: text "check-in"
-    vt->>-c: initiate check-in
-  end
-  alt 45 min reminder
+    vt->>+c: initiate check-in
+  else 45 min reminder
     vt->>c: initiate check-in
   end
-  activate c
+
   alt valid
     alt insurance validation needed
       c->>+t: call
@@ -90,12 +89,12 @@ sequenceDiagram
     end
     c->>+t: call
     t-)-vet: send text (short url)
-    deactivate c
   else unknown number
     c->>+t: call
     t-)-vet: send text (error phone not found)
   else no appointments
     c->>+t: call
+    deactivate c
     t-)-vet: send text (error phone not found)
   end
 ```
