@@ -10,9 +10,9 @@ In both cases, VEText calls the initiate check-in CHIP function. CHIP retrieves 
 ```mermaid
 sequenceDiagram
     actor vet as Veteran
-    participant l as LoROTA
-    participant c as CHIP
     participant vt as VEText
+    participant c as CHIP
+    participant l as LoROTA
     participant t as Twilio
     participant va as VistA API
     participant cw as Clinician Workflow
