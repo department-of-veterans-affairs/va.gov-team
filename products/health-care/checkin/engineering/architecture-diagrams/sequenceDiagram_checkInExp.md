@@ -99,6 +99,55 @@ sequenceDiagram
   end
 ```
 
+(Zoom-In on CW Portion so we can clean up above)
+```mermaid
+sequenceDiagram
+  participant c as CHIP
+  participant t as Twilio
+  participant cw as Clinician Workflow
+  participant va as Vista API
+  participant val as VistALink
+
+  c->>+va: get Vista token
+
+  break any error occurs
+    va--)c: return error
+  end
+
+  va--)-c: valid token returned
+
+  c->>+cw: get demographics confirmations
+
+  cw->>+va: get VistA token
+
+  break any error occurs
+    va--)cw: return error
+    cw--)c: return error
+  end
+
+  va--)-cw: valid token returned
+
+  cw->>+va: get demographics by patient
+
+  break any error occurs
+    va--)cw: return error
+    cw--)c: return error
+  end
+
+  va->>+val: RPC SDEC GETREGA
+
+  break any error occurs
+    val--)va: return error
+    va--)-cw: return error
+    cw--)-c: return error
+  end
+
+  val--)-va: demographics returned
+  va--)cw: demographics returned
+  cw--)c: demographics confirmations
+```
+
+
 ### Start Check-in
 Once they click on the link, they are redirected to the website, which checks if their session exists. If not, they are redirected to the low auth page.
 
