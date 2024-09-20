@@ -205,48 +205,92 @@ sequenceDiagram
     participant web as vets-website
     participant api as vets-api
     participant l as LoROTA
+    participant db as DynamoDB
     participant c as CHIP
     participant va as VistA API
 
-    alt invalid auth
         activate vet
-        vet->>+web: Enter last4/last name
-        web->>+api: POST /sessions
-        api->>api: check in redis and session
-        api->>+l: POST /token
-        l--)-api: 401 invalid auth
-        api--)-web: 401 invalid auth
-        web--)-vet: error page
-        deactivate vet
-    else valid auth
-        activate vet
-        vet->>+web: Enter last4/last name
-        web->>+api: POST /sessions
-        api->>api: check in redis and session
-        api->>+l: POST /token
-        l--)-api: valid session
-        api->>api: save token in redis
-        api--)web: return 'read.full'
-        deactivate api
-        web->>+api: GET check-in appointments
-        opt appointment identifiers exist
-            api->>+c: refresh appointments
-            c->>+va: get appointments
-            va--)-c: appointments
-            c--)-l: data
-        end
-        api->>+l: GET data
-        l--)-api: data
-        alt check-in started flag not set
-            api->>+c: POST /setECheckInStarted
-            c--)-api: success
-        end
-        api--)-web: serialized data (appointments + demographics)
-        opt demographics confirmations needed
-            web--)vet: demographics page
-        end
-        web--)-vet: appointments page
-        deactivate vet
+        vet->>+web: Enter last name/dob in login page
+        web->>+api: POST /check_in/v2/sessions/ {uuid,last_name, dob}
+        api->>api: validate uuid, lastname & dob
+        alt invalid uuid/lastname/dob parameters
+            api->>web: 400 { error: true, message: "Invalid dob or lastname!" }
+        else existing session
+            api->>web: 200 { permissions: 'read.full', status: 'success'}
+        else 
+            api->>+l: POST /token 
+            alt invalid auth
+                l--)api: 401 invalid auth
+                api--)web: 401 invalid auth
+                web--)vet: error page
+            deactivate vet
+            else valid auth
+                activate vet
+                l--)-api: token 
+                api->>api: save token in redis
+                api--)web: 200 { permissions: 'read.full', status: 'success'}
+                deactivate api
+                web->>+api: GET /check_in/v2/patient_check_ins/{id}
+                opt veteran using old appointment check-in link
+                    api->>api: old appointment identifiers exist in redis
+                    api->>+c: POST /actions/refresh-appointments/{id} {patient-dfn, station-no}
+                    c->>+va: GET /v3/sdes/vista-sites/{sta3ns}/users/{station-duz}/patients/{patient-dfn}/appointments
+                    alt Exception from vista
+                        c-->>api: {errormessage:, statuscode: 500}
+                        api-->>web: BackendServiceException {title: 'Internal Server Error', status: 500}
+                        web-->>vet: Sorry check with staff member
+                    else No appointments to refresh
+                        c-->>api: 200 'No appointments found. No update executed.'
+                    else Succeeded refreshing appointments 
+                        va--)-c: appointments
+                        c--)-l: PATCH /data/uuid {appoinments payload}
+                        l-->db: update-item
+                        alt error updating appointments
+                            db-->l: Error
+                            l-->c: {error: }
+                            c-->api: {errormessage:, statuscode: 500}
+                            api-->>web: BackendServiceException {title: 'Internal Server Error', status: 500}
+                            web-->>vet: Sorry check with staff member
+                        else Success
+                            db-->l: 200 Success
+                            l-->c: 200 {message: 'data updated'}
+                            c-->api: 200 {body: 'Refresh successful'}
+                            api-->l: GET /data/{id}
+                            l-->db: get-item
+                            db-->l: response
+                            alt id not found
+                                l-->api: 404 Not Found
+                                api-->>web: BackendServiceException {title: 'Data Not Found', status: 404}
+                                web-->vet: We're Sorry.  Check in with Staff member
+                            else Data expired
+                                l-->api: 403 Forbidden
+                                api-->>web: BackendServiceException {title: 'Data has expired', status: 403}
+                                web-->vet: We're Sorry. This link has expired
+                            else Error
+                                l->api: 500 Error message
+                                api-->web: BackendServiceException {title: 'Operation failed', status: 400}
+                                web-->vet: We're Sorry.  Check in with Staff member
+                            else Success
+                                l-->api: Appointment data
+                                api-->>api: Save appointment identifiers
+                                alt check-in started flag not set
+                                    api->>+c: POST /setECheckInStarted
+                                    alt Failed setting setECheckInStarted
+                                        c->>api: Throws Exception 500 ECheckInStarted update error
+                                        api->>web: BackendServiceException {title: 'Internal Server Error', status: 500}
+                                        web->>vet: We're Sorry.  Check in with Staff member
+                                    else Successfuly setECheckInStarted
+                                        c--)-api: 200 Success
+                                        api--)-web: serialized data (appointments + demographics)
+                                        web--)-vet: appointments page
+                                        deactivate vet                                        
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end
     end
 ```
 
