@@ -90,6 +90,7 @@ TBD by Content. Three options noted here, but the currently listed links on thes
 
 ## <a name="bestbets"></a>Best Bets<br>
 **Add** a best bet for the newly added page.
+
 <img width="659" alt="ibm best bets 2" src="https://github.com/user-attachments/assets/63953255-4920-42f4-9ec1-a2a5cafa447c">
 
 
