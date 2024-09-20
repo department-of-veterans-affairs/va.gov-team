@@ -290,9 +290,11 @@ Provide a link to any materials you need to run your study, including any materi
 
 ## For moderated usability tests:
 
--    [Link to conversation guide IN PROGRESS]([url goes here]
+-    [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/conversation-guide.md)
     
--    [Link to prototype IN PROGRESS](url goes here)
+-    [Link to prototype](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=3212-30062&t=aLJ9Qek5E92Qj4dA-1)
+  
+- **Please note: We are in the process of finalizing Codepen prototypes, which will be responsive. We will update the link to the Figma mockups as soon as the 	Codepen prototypes are ready.** 
     
 
 ## Recruitment
