@@ -6,22 +6,22 @@
 ### Does your application have a user-facing transaction that is submitted to a back-end system?
 
 - VA Direct Schedule Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - COVID Vaccine Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - VA Request Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - CC Request Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - Manage Appointments Flow
     - [ ] Yes
-    - [ ] No
+    - [x] No [JL] Assuming this means only the display of appointment lists and details
 - Cancellation Flows
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 
 > [!NOTE]
@@ -50,8 +50,10 @@
     - [ ] Yes
     - [ ] No
 - Cancellation Flows
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
+
+- [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names
 
 ### Does your application submit to an API that relies on Sidekiq (or another background job processor)?
 
@@ -74,6 +76,8 @@
     - [ ] Yes
     - [ ] No
 
+- [JL] Technically yes we do since we have a user service that uses a Sidekiq job to refresh user settions. However, my understanding is that this is a non-critical job and failures do not break user workflows since they will simply create a new session on the next API call to the backend. @cferris32 to double check my understanding here.
+
 If you answered yes to any of these questions then go through the following [checklist](#checklist) as a team exercise to determine if your application has silent failures.
 
 ## Checklist
@@ -81,8 +85,11 @@ If you answered yes to any of these questions then go through the following [che
 ### Start
 
 - [ ] Do you know when your applications shipped to production? (*If not, use Github to determine, roughly, when your application shipped to users.*)
+ - [RS] The src/applications/vaos/vaos-entry.jsx file was added to the repository on 2019-08-15, that doesn’t mean that is when it was turned on for production users however but when it was first added to the repository. This was determined from a git log command and filter.
+ - [JL] Looking through the history of issues and tickets, my understanding is that the initial rollout was in Spring 2020, though it seems Tony would probably know best. I’m basing my understanding on three tickets in particular: 6498 tracked phase 1 of the roll out and was completed in March 2020, 6644 tracked the redirection of MHV traffic to VAOS after 100% rollout to va.gov and was completed in April 2020, 4164 is an epic that tracked production readiness and was finally closed in June 2020.
 
 - [ ] Do your applications use the same APIs when it shipped as it does today?
+ - [JL] As Simi mentioned, we have fully migrated from v0 to v2 APIs. I agree that I think it’s not useful to document v0 APIs since those are completely removed at this point.
 
 If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
 
@@ -90,23 +97,25 @@ If not, then you'll need to consider the path user data took through both the cu
 - [ ] Do you monitor the APIs that you submit to via Datadog?
 
 - VA Direct Schedule Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - COVID Vaccine Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - VA Request Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - CC Request Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - Manage Appointments Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - Cancellation Flows
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
+
+- [JL] I'm not sure if this is the best organization for these questions since our DD monitoring comes from the backend and each of these flows will hit different combination of vets-api endpoints. Although it would make more sense to ensure we have DD monitoring for each BE endpoint, maybe that's not the leve of detail Platform and leadership wants to see?
 
 If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
