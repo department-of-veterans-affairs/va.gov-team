@@ -44,6 +44,13 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 - Participants liked knowing a provider’s distance, but **some wanted to see the provider list in alphabetical order so they could find someone who they already knew - either an existing provider, or one they had researched.**
 - **Most participants said they would spend time researching providers before reaching this step,** googling review sites to get a sense of the provider’s reputation.
 
+### Current research 
+
+#### Community care self-scheduling - usability and concept testing research findings 
+
+*[2024-06 Research Findings - Community Care Self-Scheduling Findings Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md)
+
+
 ## Outcomes
 
 ### Self-Scheduling and Community Care Self-scheduling Pilot Program
