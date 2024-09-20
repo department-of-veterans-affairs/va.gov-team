@@ -36,11 +36,7 @@ sequenceDiagram
         c->>+t: call
         t-)-vet: send text (error check-in could not be completed)
       end
-      c->>+va: check insurance validation
-      alt validation not needed
-        va--)c: insurance validation is not needed
-      else validation needed
-        va--)-c: insurance validation needed
+      alt insurance validation needed
         c->>+t: call
         t-)-vet: send text (error validation needed)
       end
