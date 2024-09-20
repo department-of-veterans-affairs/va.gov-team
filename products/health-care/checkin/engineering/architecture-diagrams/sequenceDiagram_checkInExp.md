@@ -29,7 +29,13 @@ sequenceDiagram
     activate c
     alt valid
       c->>+va: check insurance validation
-      va--)-c: validation not needed
+      alt validation not needed
+        va--)c: insurance validation is not needed
+      else validation needed
+        va--)-c: insurance validation needed
+        c->>+t: call
+        t-)-vet: send text (error validation needed)
+      end
       c->>+cw: get demographics confirmations
       cw--)-c: demographics confirmations
       c->>+l: save appointments
