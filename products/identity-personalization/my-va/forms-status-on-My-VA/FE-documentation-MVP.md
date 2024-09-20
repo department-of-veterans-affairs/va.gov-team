@@ -1,5 +1,5 @@
 # Forms Status on My VA MVP Frontend Documentation
-- Last updated: September 20, 2024 - added PDF cannot be generated scenario
+- Last updated: September 20, 2024 - added PDF cannot be generated scenario, called out link types as components 
 - Updated: September 18, 2024 - added VA Form 20-10206 Request personal records to the list for MVP (TB)
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
@@ -69,7 +69,7 @@ You have no benefit applications or forms to show.
 **Visual specs**
 - [The accordion component's bordered variant from the VA design system is utilized](https://design.va.gov/components/accordion)
 - Typography: 'h3', 'vads-font-size-base' with bolded text using 'vads-font-weight-bold', tag component uses its default 'regular' font style
-- Link style: 'default'
+- Link component style: ['default'](https://design.va.gov/components/link/#default)
 
 ### Collapsed state
 
@@ -119,7 +119,7 @@ If you have questions about your applications or forms, call us at 800-827-1000 
 
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is also used.
-- Link style: the "Continue your application" link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in VADS.
+- Link component style: the "Continue your application" link should use the [Link component active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in VADS.
 - Typography: 'h3', 'vads-font-size-base'
 
 #### **Content**
@@ -198,8 +198,8 @@ Once one of these forms are submitted, they will be represented as a card on My 
 **Visual specs**
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is used.
-- Link styles:
-  - 'default' for benefits hotline number and TTY, ['download' for PDF download](https://design.va.gov/components/link/#download)
+- Link component styles:
+  - ['default' for benefits hotline number and TTY](https://design.va.gov/components/link/), ['download' for PDF download](https://design.va.gov/components/link/#download)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
@@ -250,8 +250,8 @@ Figma file (with content supplied by CAIA):
 **Visual specs**
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is used.
-- Link styles:
-  - 'default' for benefits hotline number and TTY, ['download' for PDF download](https://design.va.gov/components/link/#download)
+- Link component styles:
+  - ['default' for benefits hotline number and TTY](https://design.va.gov/components/link/#default), ['download' for PDF download](https://design.va.gov/components/link/#download)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
@@ -308,8 +308,8 @@ This is an **error state** for an individual form submission. This occurs after 
 - The Tag component in [VADS](https://design.va.gov/components/tag) is also used.
 - 'Error alert' variation of the Alert component in [VADS](https://design.va.gov/components/alert#error-alert) is used on the card.
 - 'error'(icon) is in the alert. 
-- Link style:
-  - 'default' for benefits hotline number and TTY, ['download' for PDF download](https://design.va.gov/components/link/#download)
+- Link component style:
+  - ['default' for benefits hotline number and TTY](https://design.va.gov/components/link/#default), ['download' for PDF download](https://design.va.gov/components/link/#download)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
