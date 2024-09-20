@@ -362,6 +362,16 @@ Please document the outcome of this conversation in your product's documentation
         - [ ] Yes
         - [ ] No
 
+Possible silent errors
+- [PR] Clinic phone numbers being disabled or mis-entered
+- [PR] Staff data coming through the "details about your concern" field
+- [PR] Data missing from video appointments
+- [PR] Staff-canceled appointments disappearing from the list/no email notification
+- [JL] Session extension failure (Sidekiq job)
+- [JL] Partial responses
+- [JM] Clinic location mis-entered with codes rather than floor or room number
+
+
 If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md). That diagram will help us to help you and your team to create this user experience.
 
 Link to user flow diagram:
