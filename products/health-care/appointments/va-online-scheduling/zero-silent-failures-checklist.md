@@ -190,7 +190,7 @@ Link to channel where alerts are populated: [#appointments-alerts](https://dsva.
     - [ ] Yes
     - [ ] No
 
-- [JL] Theoretically we do, and there’s a schedule here. However, we haven’t been following this since August. Though I often see Jeff, Corey and Nicholas being active in the slack channel.
+- [JL] Theoretically we do, and there’s a schedule [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/application-monitoring/VAOS%20Alerts%20On%20Call%20Roster.md). However, we haven’t been following this since August. Though I often see Jeff, Corey and Nicholas being active in the slack channel.
 
 If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
