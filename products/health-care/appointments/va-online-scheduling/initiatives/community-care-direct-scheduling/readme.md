@@ -27,7 +27,7 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 **Sequence diagram**<br><br>
 
-<img width="980" alt="Frame 1" src="https://github.com/user-attachments/assets/c12a16b0-e981-4142-bbe9-23d5b08a59fd9">
+<img width="1000" alt="Frame 1" src="https://github.com/user-attachments/assets/e638d073-6daf-4f99-80ee-1fc2a044d9f4">
 
 ## Research findings
 
