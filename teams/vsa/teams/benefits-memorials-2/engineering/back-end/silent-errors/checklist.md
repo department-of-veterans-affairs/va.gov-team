@@ -36,12 +36,13 @@ If you answered yes to any of these questions then go through the following [che
 * [ ] Does your Datadog monitoring use the appropriate tagging?
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
 * [x] Do errors detected by Datadog go into a Slack notifications channel?
-  * DSVA [#debt-alerts](https://dsva.slack.com/archives/C02EYV9NJFJ)
+  * **DSVA [#debt-alerts](https://dsva.slack.com/archives/C02EYV9NJFJ)**
   * ~~If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications]~~(https://dsva.slack.com/archives/C063SM22J3H) for an example.
 * [x] Does more than one person look at the Slack notifications channel containing errors on a daily basis?
-  * All devs (FE & BE) are included in channel and monitor regularly
+  * **All devs (FE & BE) are included in channel and monitor regularly**
   * ~~If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)~~
-* [ ] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? 
+* [x] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
+  * **FE engineers are mostly backup, but have a general knowledge of who to raise flags to if specific errors occur**
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
 ⚠️ **Failure to have endpoint monitoring in place is a blocking QA standard at Staging review as of 9/10/24.** If you answered no to any of the questions above, you will be blocked from shipping at the Staging review touchpoint in Collab Cycle.
@@ -55,7 +56,10 @@ If you answered yes to any of these questions then go through the following [che
 
 #### Documentation
 
-* [ ] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
+* [x] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
+  * We may need more detail, but we have a few docs:
+    * [High level submission flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/high-level-fsr-submission-graph.png)
+    * More granular view of [Roles and responsibilities of the related Financial Status Report services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/fsr-submission-dependency-graph.png)
   * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information. 
 * [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
