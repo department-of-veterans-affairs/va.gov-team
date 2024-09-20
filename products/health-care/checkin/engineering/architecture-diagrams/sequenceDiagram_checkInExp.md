@@ -18,8 +18,8 @@ sequenceDiagram
     participant vt as VEText
     participant c as CHIP
     participant t as Twilio
-    participant va as Vista API
     participant cw as Clinician Workflow
+    participant va as Vista API
     participant l as LoROTA
     participant url as URL Shortener Service
     participant val as VistALink
@@ -41,7 +41,16 @@ sequenceDiagram
       alt token returned
         va--)c: valid token returned
         c->>+cw: get demographics confirmations
-        cw--)-c: demographics confirmations
+        cw->>+va: get Vista token
+        alt token returned
+          va--)cw: valid token returned
+          cw--)c: demographics confirmations
+        else any error occurred
+          va--)cw: return error
+          cw--)-c: return error
+          c->>+t: call
+          t-)-vet: send text (error check-in could not be completed)
+        end
       else any error occurred
         va--)-c: return error
         c->>+t: call
