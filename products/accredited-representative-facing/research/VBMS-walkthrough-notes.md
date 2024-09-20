@@ -1,7 +1,10 @@
 # VBMS Walkthrough with Timothy Velasquez of Wounded Warrior Project
 
 **Date:** August 16, 2024
+
 **Attendees:** Rebecca Blakiston, Danielle Oppendike, Michael Tri, Jennifer Bertsch, Mike Marinos, Renata Keck, Ben Nguyen, Timothy Velasquez
+
+[Link to recording](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Ecu9_EgRZwpPgt7jd0l4j6kB8eClpSSvdQNGE3zyMaEeHA?e=quhspB)
 
 ## Timothy's background
 
