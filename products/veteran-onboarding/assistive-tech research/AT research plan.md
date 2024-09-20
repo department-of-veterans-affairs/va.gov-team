@@ -1,7 +1,7 @@
-Research Plan for IIR, Veteran Onboarding Assistive Tech, Fall 2024
+# Research Plan for Veteran Onboarding Assistive Tech 
+IIR Team, Fall 2024
 
-
-# Background
+## Background
 
 What problem is your product trying to solve?
 
@@ -16,11 +16,11 @@ What problem is your product trying to solve?
 Additional documentation\
 [Research notes for Authenticated Experience, Profile Completion, Summer 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/profile-completion/discovery-research/research-plan.md)
 
-Where is your product situated on VA.gov? (ex: auth vs. unauth)
+## Where is your product situated on VA.gov? (ex: auth vs. unauth)
 
 - Because there are separate initiatives focused on the transitioning service member experience prior to authentication, we are focused on a product that exists within the authenticated experience, once a Veteran has created a new account and logged in.
 
-What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+## What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
 - This is a new product; our MVP version is a message on My VA focused on providing Veterans with: 
 
@@ -31,19 +31,19 @@ What is Veterans’ familiarity with this tool? Is this a new product or an iter
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/product-outline.md)
 
 
-# OCTO Priorities
+## OCTO Priorities
 
 This research supports the 2024 goal of “Our digital experiences are the best way to access VA health care and benefits.”
 
 
-# Veteran Journey
+## Veteran Journey
 
 This research is most closely related to a moment that matters within two early phases of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf).\
 Getting out: Engaging VA to access benefits and services\
 Starting up: Attending to health needs (moment that matters)
 
 
-# Research Goals
+## Research Goals
 
 **What are you trying to learn from this research?**
 
@@ -56,9 +56,8 @@ Starting up: Attending to health needs (moment that matters)
 - Determine if Veterans using AT find the proposed alert and update/edit contact information designs **simple to navigate and and the information easy to update**.
 
 
-## Outcome
+### Outcome
 
-**How will this research advance your product to the next phase in the design process?** **What will you do with your learnings?**
 
 - Our learnings will inform us of changes that needs to be made including:
 
@@ -71,7 +70,7 @@ Starting up: Attending to health needs (moment that matters)
 - Once these areas meet our expectations we will be able to release the welcome message and contact information updates to production.
 
 
-## Research questions
+### Research questions
 
 1. Are participants able to successfully navigate to key tasks on the website using assistive technology (keyboard, voice, and zoom/magnifier)?
 
@@ -90,7 +89,7 @@ Starting up: Attending to health needs (moment that matters)
 6. How do Veterans engage with their profile and information upon first logging in to their account?
 
 
-## Hypothesis
+### Hypothesis
 
 Based on the previous research, we hypothesize that we’ll confirm that:
 
@@ -103,17 +102,17 @@ Based on the previous research, we hypothesize that we’ll confirm that:
 3. We also hypothesize that participants will be able to complete tasks proposed to them and will have a clear understanding of the value the proposed tasks provide.
 
 
-## Methodology
+### Methodology
 
 We conduct remote, moderated, think-aloud user interviews with usability testing over Zoom. During the session, we will have the participant share their screen and complete a series of tasks while they “think aloud”.
 
 
-## Location
+### Location
 
 We will do remote testing using Zoom, using Perigean’s account.
 
 
-## Research materials
+### Research materials
 
 _Note: your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request._
 
@@ -122,9 +121,10 @@ Provide a link to any materials you need to run your study, including any materi
 For moderated usability tests:
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/conversation%20guide.md)
+- Staging link
 
 
-## Note Taking
+### Note Taking
 
 Sign up sheet (MAKE AND LINK HERE)
 
@@ -133,7 +133,7 @@ Observer notes (MAKE AND LINK HERE)
 Analysis and notes (note taker notes) (MAKE AND LINK HERE)
 
 
-## Study Tasks
+### Study Tasks
 
 |                                           |               |
 | ----------------------------------------- | ------------- |
@@ -193,9 +193,9 @@ Note which location participants go to complete the task
 | User experiences an unexpected interaction with a component or pattern.                                             |   |
 
 
-# Recruitment
+## Recruitment
 
-### Recruitment approach
+#### Recruitment approach
 
 Our recruitment will focus on people who use assistive technology (Magnification and Screen Readers)
 
@@ -204,7 +204,7 @@ We want to recruit Veterans or active duty participants who are in the process o
 We also plan to run a pilot test with an accessibility champion.
 
 
-### **Recruitment criteria**
+#### **Recruitment criteria**
 
 |                 |                    |          |               |            |                 |
 | --------------- | ------------------ | -------- | ------------- | ---------- | --------------- |
@@ -212,7 +212,7 @@ We also plan to run a pilot test with an accessibility champion.
 | 9               | 0                  | 5        |               |            | 3               |
 
 
-### **Criteria Table (Please read carefully)**
+#### **Criteria Table (Please read carefully)**
 
 [Link to AT Veteran Onboarding: VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1WGiZmuYtpklqWSL0xttbCBvK9zHKaRdY3qHTYw8Wqes/edit?usp=sharing)
 
@@ -300,7 +300,7 @@ _Participants should represent a mix of experience with VA, and with VA.gov_
 - 6 should have some experience with VA or VA.gov
 
 
-### Screener Questions
+#### Screener Questions
 
 Recruitment criteria for experience or scenarios as screener questions with qualifying responses
 
@@ -335,12 +335,12 @@ ALL participants need to:
 A [calendar of the proposed timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715094488820/4bf4fbc61074803b5a44b79973852b1c68106d44?sender=u82254af9423cfa236f383306) can be also found in Mural
 
 
-## Prepare - TBD
+### Prepare - TBD
 
 - Our conversation guide, observer and notetaker sign up and spreadsheets will be ready by Sep 27, 2024.
 
 
-## Timeline - Proposed
+### Timeline - Proposed
 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
@@ -371,7 +371,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 19. Updated AT Conversation guide and additional research materials: Reviewed by accessibility specialist
 
 
-## Research sessions - Estimated
+### Research sessions - Estimated
 
 - Planned dates of research: Currently we're estimating that our research will take place the second and third weeks of October.
 
@@ -380,7 +380,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
   - 10/7, 10/8, 10/9, 10/10, 10/11, 10/14, 10/15, 10/16, 10/17, 10/18
 
 
-### Length of sessions
+#### Length of sessions
 
 - Session length: 2 hours
 
@@ -389,7 +389,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 - Maximum Sessions per day: 3
 
 
-### Availability
+#### Availability
 
 When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. _Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S._
 
@@ -418,7 +418,7 @@ If additional times are required for participants, we have some flexibility to e
 Please request enough dates and at _least double the amount of time slots for the number of requested participants_. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; _12 time slots for 6 participants_).
 
 
-## Team Roles
+### Team Roles
 
 - Moderators: Raquel Eisele <raquel.eisele@adhocteam.us>
 
