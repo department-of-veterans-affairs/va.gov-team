@@ -104,14 +104,8 @@ and prep courses - or Drupal auto-shortening TBD/
 shortening TBD]/
 <img width="686" alt="reimbursements l c crosslinks" src="https://github.com/user-attachments/assets/579c8c80-4e10-40ec-a342-4c4a59e4ace4">
 
-
 ** National Tests**
 *No cross-links*
-
-**'About VA Form [form number]' pages**
-
-  -   The [About VA Form 22-10272](https://www.va.gov/find-forms/about-form-22-10272/) and [About VA Form 22-0803 pages](https://www.va.gov/find-forms/about-form-22-0803/) should link to the 'Licensing and certification tests and prep courses' page. Both 22-10272 and 22-0803 should link to this same destination - it has info about both forms.
-  -   The [About VA Form 22-0810](https://www.va.gov/find-forms/about-form-22-0810/) page should link to the 'National tests and prep courses' page.
 
 
 ## <a name="redirects"></a>Redirects <br>
