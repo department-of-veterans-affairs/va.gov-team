@@ -28,20 +28,20 @@ sequenceDiagram
     end
     activate c
     alt valid
+      alt insurance validation needed
+        c->>+t: call
+        t-)-vet: send text (error validation needed)
+      end
       c->>+va: get Vista token
       alt token returned
         va--)c: valid token returned
+        c->>+cw: get demographics confirmations
+        cw--)-c: demographics confirmations
       else any error occurred
         va--)-c: return error
         c->>+t: call
         t-)-vet: send text (error check-in could not be completed)
       end
-      alt insurance validation needed
-        c->>+t: call
-        t-)-vet: send text (error validation needed)
-      end
-      c->>+cw: get demographics confirmations
-      cw--)-c: demographics confirmations
       c->>+l: save appointments
       l--)-c: documentId
       alt veteran initiated check-in
