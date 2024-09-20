@@ -5,18 +5,19 @@ The check-in flow can be initiated in 2 ways:
 * veterans send the text "check in" to the designated number
 * VEText initiates the process 45 minutes before the appointment
 
-In both cases, VEText calls the initiate check-in CHIP function. CHIP retrieves the relevant data through VistA APIs, puts the data in LoROTA, sets the status and generates and sends the shortened URL back to the Veteran.
+In both cases, VEText calls the initiate check-in CHIP function. CHIP retrieves the relevant data from VistA stations through Vista API, puts the data in LoROTA, sets the status, generates a shortened URL, and returns the URL to the Veteran.
 
 ```mermaid
 sequenceDiagram
     actor vet as Veteran
     participant vt as VEText
     participant c as CHIP
-    participant va as VistA API
+    participant va as Vista API
     participant l as LoROTA
     participant t as Twilio
     participant cw as Clinician Workflow
     participant url as URL Shortener Service
+    participant vas as VistA stations
 
     alt veteran initiated check-in
     vet->>+vt: text "check-in"
