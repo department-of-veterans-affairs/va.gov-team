@@ -74,7 +74,7 @@ There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Ex
 
 |Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
 |---------|---------------|-------------|----------|---------------|---------------|----------|
-| Monthly Average | 18000 | 11000 | 250 | 200 |50 | 10 |
+|Historical Monthly Average | 18000 | 11000 | 250 | 200 |50 | 10 |
 | 3-month Total | x | x | x | x |x | x |
 
 ### Results
@@ -83,7 +83,7 @@ There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Ex
 |Month 1| x | x | x | x |x | x |
 |Month 2| x | x | x | x |x | x |
 |Month 3| x | x | x | x |x | x |
-| Monthly Average | x | x | x | x |x | x |
+|Experiment Monthly Average | x | x | x | x |x | x |
 | 3-month Total | x | x | x | x |x | x |
 
 
