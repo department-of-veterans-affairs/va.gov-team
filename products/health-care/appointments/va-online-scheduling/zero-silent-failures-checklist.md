@@ -119,35 +119,34 @@ If not, then you'll need to consider the path user data took through both the cu
 
 If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
-- [x] Does your Datadog monitoring use the appropriate tagging?
+- [ ] Does your Datadog monitoring use the appropriate tagging?
 
     - VA Direct Schedule Flow
         - [ ] Yes
-        - [x] No [JL]
+        - [ ] No
     - COVID Vaccine Flow
         - [ ] Yes
-        - [x] No [JL]
+        - [ ] No
     - VA Request Flow
         - [ ] Yes
-        - [x] No [JL]
+        - [ ] No
     - CC Request Flow
         - [ ] Yes
-        - [x] No [JL]
+        - [ ] No
     - Manage Appointments Flow
         - [ ] Yes
-        - [x] No [JL]
+        - [ ] No
     - Cancellation Flows
         - [ ] Yes
-        - [x] No [JL]
+        - [ ] No
 
- - [JL] I took a look at our logs and it doesn’t look like we are setting all the necessary tags:
+ - [JL] Let's determine what we should set these tags to be but here are my initial thoughts:
     ```
     env: currently set as env:eks-prod but the recommended tag is env:prod
     team: not set but I assume we’ll need to set it as team:appointments
     itportfolio: not set but I assume we’ll need to set it as itportfolio:digital-experience
     service: currently set as service:vets-api which I think is accurate
     ```
-    I think we’ll need to file a work item to set these tags in our BE logging, probably in our middleware(s).
 
 If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
 
