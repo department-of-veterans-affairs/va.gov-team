@@ -70,20 +70,20 @@ How to use your GI Bill benefits > **[National tests and prep courses - or Drupa
 
 ## <a name="nav"></a>Entry points <br>
 
-** Licensing and Certification**
+**Licensing and Certification**
 
 1. **[Left nav: Educaion and training]** - [Modify]
-  - Placement description: Keep L&C page in the current location in the Education and training left nav, update the text to match H1 updates. 
+  - Placement description: Keep L&C page in the current location in the 'Education and training' left nav.
   - Link label: **Licensing and Certification tests and prep courses** or TBD by Content
   - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
 **[Licensing and Certification tests and prep courses - or Drupal auto-
 shortening TBD]**/
   - Notes: The only change to the L&C entry point is a page name update
 
-** National Tests**
+**National Tests**
 
 1. **[Left nav: Educaion and training]** - [Modify]
-  - Placement description: Move the National Tests page to the Education and training left nav, directly under L&C.
+  - Placement description: Move the National Tests page to the 'Education and training' left nav, directly under the 'Licensing and Certification tests and prep courses' item.
   - Link label: **National tests and prep courses** or TBD by Content
   - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[National tests 
 and prep courses - or Drupal auto-shortening TBD/
@@ -94,7 +94,7 @@ and prep courses - or Drupal auto-shortening TBD/
 
 ### Crosslinks
 
-** Licensing and Certification**
+**Licensing and Certification**
 
 1. **Link on [Education and career counseling](https://www.va.gov/careers-employment/education-and-career-counseling/) page** - [Add]
   - Placement description: Add crosslink to L&C page from the 'Other helpful information' footer section 'Educational and career counseling (VA Chapter 36)'
@@ -104,7 +104,7 @@ and prep courses - or Drupal auto-shortening TBD/
 shortening TBD]/
 <img width="686" alt="reimbursements l c crosslinks" src="https://github.com/user-attachments/assets/579c8c80-4e10-40ec-a342-4c4a59e4ace4">
 
-** National Tests**
+**National Tests**
 *No cross-links*
 
 
