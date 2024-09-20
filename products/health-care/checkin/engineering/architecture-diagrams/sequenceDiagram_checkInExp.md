@@ -53,46 +53,72 @@ sequenceDiagram
     c->>+cw: get demographics confirmations
 
     cw->>+va: get Vista token
-    alt token returned
-      va--)cw: valid token returned
-      cw->>+va: get demographics by patient
-      alt demographics returned
-        va ->>+val: RPC SDEC GETREGA
-        val--)-va: demographics returned
-        va--)cw: demographics returned
-        cw--)c: demographics confirmations
-      else any error occurred
-        va--)-cw: return error
-        cw--)c: return error
-        c->>+t: call
-        t-)-vet: send text (error check-in could not be completed)
-      end
-    else any error occurred
-      va--)-cw: return error
-      cw--)-c: return error
+
+    break any error occurs
+      va--)cw: return error
+      cw--)c: return error
       c->>+t: call
       t-)-vet: send text (error check-in could not be completed)
     end
+
+    va--)-cw: valid token returned
+
+    cw->>+va: get demographics by patient
+
+    break any error occurs
+      va--)cw: return error
+      cw--)c: return error
+      c->>+t: call
+      t-)-vet: send text (error check-in could not be completed)
+    end
+
+    va ->>+val: RPC SDEC GETREGA
+
+    break any error occurs
+      val--)va: return error
+      va--)cw: return error
+      cw--)c: return error
+      c->>+t: call
+      t-)-vet: send text (error check-in could not be completed)
+    end
+
+    val--)-va: demographics returned
+    va--)-cw: demographics returned
+    cw--)-c: demographics confirmations
+
     c->>+l: save appointments
     l--)-c: documentId
+
     c->>+url: get short url
     url--)-c: short url
+
     opt veteran initiated check-in
       c->>+va: get Vista token
-      alt token returned
-        va--)c: valid token returned
-        c->>+va: set status (E-CHECK-IN STARTED)
-        va->>+val: RPC SDES SET APPT CHECK-IN STEP
-        val--)-va: OK
-        va--)-c: status set
-      else any error occurred
+
+      break any error occurs
         va--)-c: return error
         c->>+t: call
         t-)-vet: send text (error check-in could not be completed)
       end
+
+      va--)c: valid token returned
+      c->>+va: set status (E-CHECK-IN STARTED)
+      va->>+val: RPC SDES SET APPT CHECK-IN STEP
+
+      break any error occurs
+        val--)va: return error
+        va--)c: return error
+        c->>+t: call
+        t-)-vet: send text (error check-in could not be completed)
+      end
+
+      val--)-va: OK
+      va--)-c: status set
     end
+
     c->>+t: call
     t-)-vet: send text (short url)
+
   else unknown number
     c->>+t: call
     t-)-vet: send text (error phone not found)
