@@ -44,12 +44,12 @@ sequenceDiagram
       end
       c->>+l: save appointments
       l--)-c: documentId
+      c->>+url: get short url
+      url--)-c: short url
       alt veteran initiated check-in
         c->>+va: set status (E-CHECK-IN STARTED)
         va--)-c: status set
       end
-      c->>+url: get short url
-      url--)-c: short url
       c->>+t: call
       t-)-vet: send text (short url)
       deactivate c
