@@ -35,11 +35,13 @@ sequenceDiagram
   end
 
   alt valid
-    alt insurance validation needed
+    opt insurance validation needed
       c->>+t: call
       t-)-vet: send text (error validation needed)
     end
+
     c->>+va: get Vista token
+
     alt token returned
       va--)c: valid token returned
       c->>+cw: get demographics confirmations
