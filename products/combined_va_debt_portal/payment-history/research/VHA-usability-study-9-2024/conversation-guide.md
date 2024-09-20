@@ -197,44 +197,71 @@ Prototype Link: ( )
 **Conversation Guide Questions**
 
 -   What are your initial impressions?
-    
 
 -   What draws your attention the most on this page?
     
 -   What can you tell me about the copay cards you see on this page?
-    
 
+Success criteria:
 
-Success criteria: [add]
+> [Pass] Participant mentions:
+
+- Only one of copays is payable in the portal
+- One of the copays has been sent to the US Department of the Treasury
+- One of the copays has been paid
+  
+> [Partial Pass] Participant mentions only 2 of the 3
+
+> [Fail] Participant does not notice the difference between these 3 copay bills
 
 
 -   What copays are payable?
 
-Success criteria: [add]
+
+Success criteria:
+
+> [Pass] The James A. Haley Veterans’ Hospital - Tampa copay bill
+
+> [Partial Pass] Takes more than 30 seconds to notice
+
+> [Fail] Participant does not notice
 
     
--   What does "current balance" mean to you? How do you feel about this wording? Is there a different word or words you would use?
-    
-Success criteria: [add]
+-   What does "current balance" mean to you?
 
+Success criteria:
+
+> [Pass] The amount I have to pay 
+
+> [Fail] Doesn’t define it correctly
+
+
+
+-   How do you feel about this wording? Is there a different word or words you would use?
+    
 -   What do the small icons on the left of the text in the boxes tell you? (exclamation point, checkmark)
     
 
 Success criteria:
 
--   Status of the debt (pass)
+> -   Status of the debt (pass)
     
--   They notice the only with further prompting (partial pass)
+> -   They notice the only with further prompting (partial pass)
     
--   They don’t notice (fail)
+> -   They don’t notice (fail)
     
  
-
 -   Any information missing that you’d like to see?
 
 
 -   What link would you click on to find out more information about the James A Haley copay bill?
     
+
+Success criteria:
+
+> [Pass] “Review Details”
+
+> [Fail] Incorrect answer
 
   
 Success criteria: [add]
@@ -253,20 +280,31 @@ Goal 3: To understand comprehension of the medical copay detail additions that w
 **FIRST IMPRESSIONS (What do they notice and what stands out?)**
 
 
--   What stands out to you on this page?  
-  
+-   What stands out to you on this page?
+
 
 **COMPREHENSION (Payment activity)**
 
+-   What can you tell me about the due date for this copay bill? 
+
+Success criteria:
+> [pass] It is due on Oct 30, 2024(notice callout)
+> [fail] don’t see the due date
+
+
 -   Based on what you see here, what does the information on this page tell you about your copay balance and payment activity?
     
+Success criteria:
+> [pass]  Participant can correctly interpret these numbers/amounts due that would allow them to understand the charges and amounts due
+- Original amount was $40
+- $5 of late fees 
+- Payment of $45 was made
+- I’ve since received new charges that add up to $50
 
-Success criteria: [add]
+> [partial pass] Participant seems to have an understanding, but there are gaps in their understanding
 
--   What is your copay balance and when is it due?
+> [fail] Participant visibly doesn’t understand the information 
     
-
-Success criteria: [add]
 
   **PREFERENCE** 
   
@@ -279,7 +317,13 @@ Success criteria: [add]
 
 -   What is the difference between the two tables (sections) you see on this page?
     
-Success criteria: [add]
+Success criteria:
+
+> [pass] Participant understands that the Current statement table describes the most recent statement and is fixed. They also understand that the Activity since last statement table describes pending transactions (not finalized). 
+
+> [partial pass] Participant has some degree of understanding, but does not fully understand the difference between them
+
+> [fail] Participant visibly doesn’t understand the information 
 
   
 -   How do you feel about seeing pending transactions?
@@ -319,7 +363,13 @@ Success criteria: [add]
 -   What are some of the options you see on this page to address and resolve this copay bill?
     
 
-Success criteria: [add]
+Success criteria:
+> [pass] Participant sees they can pay online, by phone, by mail, in person, request financial help, request help for future health care, and dispute the debt.
+
+> [partial pass] Participant notices some of the options, but not all
+
+> [fail] Participant is unsure/does not understand
+
 
   
 
