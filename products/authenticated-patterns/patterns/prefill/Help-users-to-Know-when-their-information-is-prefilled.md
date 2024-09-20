@@ -28,7 +28,7 @@ Follow this pattern to help users know how and when their information will be pr
 ![Form Intro Page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
 
 #### Personal Information Review Pages
-![Personal Info Review Page](https://github.com/user-attachments/assets/80251910-f9a6-4047-9fc9-30b10272e3eb)
+![Personal Info Review Page](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
 
 #### Information Review Pages
 ![Address Review Page](https://github.com/user-attachments/assets/ccd68305-e4a6-46f9-ab6c-5665c1eee3d7)
