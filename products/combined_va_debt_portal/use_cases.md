@@ -77,8 +77,8 @@ searches and gets no results.", etc.
 
 - **Link to designs**
   - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-6778&t=3ws7FSCSqmCcwNU8-1)
-  - [Debt details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149534493/simulate/no-panels?mode=i)
-  - [Copay details](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/149285598/simulate/no-panels?mode=i)
+  - [Debt details](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-8679&t=aLJ9Qek5E92Qj4dA-1)
+  - [Copay details](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=113-15391&t=aLJ9Qek5E92Qj4dA-1)
 
 
 ## Use Case D - Veteran is not enrolled in healthcare
