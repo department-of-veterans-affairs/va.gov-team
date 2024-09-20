@@ -138,12 +138,12 @@ Analysis and notes (note taker notes) (MAKE AND LINK HERE)
 |                                           |               |
 | ----------------------------------------- | ------------- |
 | **Task**                                  | **Location**  |
-| Review and comprehend the welcome message | My VA         |
-| Verify identity                           | My VA         |
-| Update email address                      | My VA/Profile |
-| Update phone number                       | My VA/Profile |
-| Confirm phone number is correct           | My VA/Profile |
-| Confirm email address is correct          | My VA/Profile |
+| First impressions of My VA: LOA1 Welcome Message | My VA         |
+| My VA Verify account                          | My VA         |
+| Review My VA "update contact info alert"                      | My VA |
+| Navigate to update contact info (via alert or profile)                       | My VA/Profile |
+| Update/edit contact information           | My VA/Profile |
+| Evaluate confirmation page          | My VA |
 
 Note which location participants go to complete the task
 
