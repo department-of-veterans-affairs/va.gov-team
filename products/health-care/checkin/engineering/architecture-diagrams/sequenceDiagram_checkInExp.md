@@ -9,8 +9,10 @@ In both cases, VEText calls the initiate check-in CHIP function. CHIP retrieves 
 
 **System of Record** VistA
 **VistA References**:
-- https://vivian.worldvista.org/vivian-data/8994/8994-4529.html
-- https://vivian.worldvista.org/dox/Routine_SDESCKNSTEP.html
+- https://vivian.worldvista.org/vivian-data/8994/8994-4529.html "SDES SET APPT CHECK-IN STEP"
+- https://vivian.worldvista.org/dox/Routine_SDESCKNSTEP.html 
+- https://vivian.worldvista.org/vivian-data/8994/8994-3521.html "SDEC GETREGA"
+
 
 ```mermaid
 sequenceDiagram
