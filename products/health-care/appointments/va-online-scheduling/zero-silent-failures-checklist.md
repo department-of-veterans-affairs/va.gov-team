@@ -35,19 +35,19 @@
 > - Any others?
 
 - VA Direct Schedule Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - COVID Vaccine Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - VA Request Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - CC Request Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - Manage Appointments Flow
-    - [ ] Yes
+    - [x] Yes [JL]
     - [ ] No
 - Cancellation Flows
     - [x] Yes [JL]
