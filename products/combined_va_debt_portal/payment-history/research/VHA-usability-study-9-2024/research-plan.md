@@ -437,7 +437,6 @@ Please select what applies to you (Check all that apply)
 
 - One or more of my VA copay bills are over $100 each
   
-- I recently signed up for VA health care in the last year
   
 #### 3. Experiences of financial hardship
 
