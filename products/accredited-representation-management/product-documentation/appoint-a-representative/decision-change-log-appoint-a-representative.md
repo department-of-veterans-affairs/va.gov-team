@@ -40,5 +40,3 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Proposed by Product Manager Lindsay Li-Smith ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1725474567167699?thread_ts=1725471067.804769&cid=C05L6HSJLHM))._
 - **9/17/2024**: Decided to resurface the represntativey query (and related search results) when a user clicks "Back" in the same session. \
   _Decided by the core team and summarized by Product Manager Lindsay Li-Smith ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1726598932350429?thread_ts=1726581286.045329&cid=C05L6HSJLHM))._
-- **9/17/2024**: Confirmed that we are not at risk for silent failures. \
-  _Confirmed by Technical Lead Holden Hinkle ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93229))._
