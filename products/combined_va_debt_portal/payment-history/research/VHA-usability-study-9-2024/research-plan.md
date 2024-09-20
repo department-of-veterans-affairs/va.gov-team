@@ -340,7 +340,7 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
   
 - Veterans who have recurring VA copay bills
 
-- "Super users" and new users
+- "Super users"(reoccuring copays) and new users (recently signed up for VA health care)
 
 
 #### Primary criteria (must-haves)
@@ -436,6 +436,8 @@ Please select what applies to you (Check all that apply)
 - One or more of my VA copay bills are recurring (happening once a month or more than once a month for the same VHA medication prescription or the same health condition)
 
 - One or more of my VA copay bills are over $100 each
+  
+- I recently signed up for VA health care in the last year
   
 #### 3. Experiences of financial hardship
 
