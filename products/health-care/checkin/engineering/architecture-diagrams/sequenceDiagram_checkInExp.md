@@ -44,7 +44,18 @@ sequenceDiagram
         cw->>+va: get Vista token
         alt token returned
           va--)cw: valid token returned
-          cw--)c: demographics confirmations
+          cw->>+va: get demographics by patient
+          alt demographics returned
+            va ->>+val: RPC SDEC GETREGA
+            val--)-va: demographics returned
+            va--)cw: demographics returned
+            cw--)c: demographics confirmations
+          else any error occurred
+            va--)cw: return error
+            cw--)c: return error
+            c->>+t: call
+            t-)-vet: send text (error check-in could not be completed)
+          end
         else any error occurred
           va--)cw: return error
           cw--)-c: return error
