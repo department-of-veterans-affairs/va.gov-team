@@ -72,27 +72,31 @@ A link to the page.code-link, when available.
 When using this pattern keep in mind that the alerts used have specific content requirements. You can find each content scenario below. 
 
 #### Unauthenticated intro page alert ([CAIA guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-patterns-and-standards/sign-in-alerts.md))
-[heading] Sign in with a verified account
-
-[content] Here’s how signing in with an identity-verified account helps you:
-- We can fill in some of your information for you to save you time.
-- You can save your work in progress. You’ll have {time limit} from when you start or make changes to submit your form.
-
-After you sign in, we’ll tell you if you need to verify your identity for your account.
-
-**Note:** You can sign in after you start filling out your form. But you'll lose any information you already filled in.
-
-[button] Sign in or create an account
-[text link] Start your form without signing in
+> [heading] Sign in with a verified account
+> 
+> [content] Here’s how signing in with an identity-verified account helps you:
+> - We can fill in some of your information for you to save you time.
+> - You can save your work in progress. You’ll have {time limit} from when you start or make changes to submit your form.
+> 
+> After you sign in, we’ll tell you if you need to verify your identity for your account.
+> 
+> **Note:** You can sign in after you start filling out your form. But you'll lose any information you already filled in.
+> 
+> [button] Sign in or create an account
+> 
+> [text link] Start your form without signing in
 
 
 #### Authenticated intro page alert
-[content] **Note:** Since you’re signed in to your account, we can prefill part of your form based on your account details. You can also save your form in progress and come back later to finish filling it out.
+> [content] **Note:** Since you’re signed in to your account, we can prefill part of your form based on your account details. You can also save your form in progress and come back later to finish filling it out.
 
+![image](https://github.com/user-attachments/assets/a279e845-aaa9-4373-bda0-932de3d3e2aa)
 
 
 #### Authenticated review alert
-[content] **Note:** We've prefilled some of your information from your account. If you need to correct anything, you can select edit below. All updates will be made only to this form.
+> [content] **Note:** We've prefilled some of your information from your account. If you need to correct anything, you can select edit below. All updates will be made only to this form.
+> 
+![image](https://github.com/user-attachments/assets/36b4acb4-be99-49cd-8bd6-536d8ef7db8e)
 
 
 
