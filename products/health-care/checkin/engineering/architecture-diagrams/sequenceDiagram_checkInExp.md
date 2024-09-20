@@ -57,7 +57,7 @@ sequenceDiagram
 
   va--)-c: valid token returned
 
-  c->>+cw: get demographics confirmations
+  c->>+cw: get demographics status
 
   break any error occurs
     cw--)c: return error
@@ -65,7 +65,7 @@ sequenceDiagram
     vt-)vet: send text (error check-in could not be completed)
   end
 
-  cw--)-c: demographics confirmations
+  cw--)-c: demographics status
 
   c->>+l: save appointments
 
