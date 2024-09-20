@@ -6,7 +6,14 @@
   * NOTE: This is not limited to online forms! Other examples can include:
     * Uploads of documents and/or attachments
     * Performing an action (Such as refilling a prescription or ordering supplies)
->* Yes 
+>* Yes - APIs currently in use
+>    * MuleSoft - form data and documents are submitted here upon being validated
+>    * S3 - Temporarily store POA files before submitting them to MuleSoft.
+>    * MPI - Validate veteran status during form validation flow
+>* Previously used
+>    * CARMA - Initially the 10-10CG data was submitted to CARMA directly, but it was updated to submit to MuleSoft which handles sending the data to CARMA now.
+>* Future APIs
+>    * Okta - Not yet live but all work in vets-api has been completed. Planning to update the auth flow with MuleSoft to use Okta to generate an auth token this fall once the CARMA team finishes some updates.
 
 * Are you using any of the following APIs:
     * [Lighthouse Appeals Status](https://developer.va.gov/explore/api/appeals-status/docs?version=current)
@@ -29,19 +36,19 @@ If you answered yes to any of these questions then go through the following [che
   * If not, use Github to determine, roughly, when your application shipped to users.
 >  * Yes, October 2020
 
-* [ ] Did your application use the same APIs when it shipped as it does today?
+* [x] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
->* No, Mulesoft introduced in September 2022.
+>* No, Mulesoft introduced in September 2022, which is now a middleware between VA.gov and CARMA.  We no longer connect directly to CARMA.
 
 #### Monitoring
 
 * [ ] Do you monitor the API that you submit to via Datadog? 
   * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
->   * Yes and no.. Do not monitor Mulesoft in Datadog today
+>   * Yes, we do monitor Mulesoft in the [10-10CG Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zcn-whk-r5h/1010-cg-vagov-performance?fromUser=false&refresh_mode=sliding&from_ts=1726692573245&to_ts=1726865373245&live=true)
 
-* [ ] Does your Datadog monitoring use the appropriate tagging?
+* [x] Does your Datadog monitoring use the appropriate tagging?
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
->   * ANSWER NEEDED - tagging may be needed
+>   * Yes, all [10-10CG Datadog monitors](https://vagov.ddog-gov.com/monitors/manage?q=1010&order=desc) have been updated with the appropriate tagging
 
 * [x] Do errors detected by Datadog go into a Slack notifications channel?
   * If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
@@ -53,7 +60,7 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? 
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
->  * Yes, we currently have a runbook as well as a list of monitors and steps to take to address and notify the appropriate audience.  We are in the process of taking that information and creating the Playbook, as the QA standard.
+>  * Yes, we currently have the [Endpoint Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20%26%20Zero%20Silent%20Failures/10-10CG%20Monitor%20Playbook.md) that includes the list of monitors and steps to take to address and notify the appropriate audience.  
 
 ⚠️ **Failure to have endpoint monitoring in place is a blocking QA standard at Staging review as of 9/10/24.** If you answered no to any of the questions above, you will be blocked from shipping at the Staging review touchpoint in Collab Cycle.
 
@@ -61,12 +68,14 @@ If you answered yes to any of these questions then go through the following [che
 
 * [ ] Have you filed issues for errors that are appearing in Datadog / Slack?
   * If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
->   * ANSWER NEEDED
+>   * Team tickets are created for investigation and subsequent resolutions.  At this time, the 10-10CG does not have any silent failures. The 10-10 Health Apps team is notified on all failures and we have a process to ensure the Veteran is being contacted timely by the Health Enrollment Center staff to assist with their application.
 
 * [ ] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
   * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
->   * Only onscreen errors are present for CG including immediate submissions failures, downstream Submission failures - TBD (CARMA maybe?)
->Retry failures - no notification is sent from the system.  However, our team would follow the process to gather user data, notify CG team who will then notify the Veteran/Caregiver
+>   * Only onscreen errors are present for CG including immediate submissions failures
+>   * Downstream Submission failures - TBD (CARMA and VA Notify?)
+>   * Retry failures - Our team would follow the formal [Ultimate Failure process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) (written with the Caregiver business stakeholders) to gather user data, notify CG team who will then notify the Veteran/Caregiver
+>        * This is also accounted for within the [Endpoint Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20%26%20Zero%20Silent%20Failures/10-10CG%20Monitor%20Playbook.md)
 
 #### Documentation
 
