@@ -151,7 +151,7 @@ Moderator: Now that you’ve taken a look at the page, what would you do from he
 _If the participant would like to verify, tell them to go ahead and do so and encourage them to continue through the simulated "verification" screens, then move on to Section 3 questions. If the participant clicks on the other links, ask them “Where would you expect that link to go?”_
 
 
-##### Task 3: My VA: Review My VA with “update contact info alert”
+##### Task 3: Review My VA “update contact info alert”
 
 - As you did on the previous screen, share aloud what stands out to you as you review this page.
 
@@ -162,7 +162,7 @@ _If the participant would like to verify, tell them to go ahead and do so and en
 * How would you rank the My VA page from 1(very helpful and user friendly) to 5 (very difficult)
 
 
-##### Task 4: My VA: navigate to update contact info (Via alert or profile)
+##### Task 4: Navigate to update contact info (Via alert or profile)
 
 (If participant did not say they would interact with the alert direct them to the alert)
 
