@@ -185,7 +185,7 @@ As of this document's writing, the ARF Team's Form21a application has yet to und
   - References:
     - [ARP on Datadog](https://bit.ly/arp-datadog-monitoring)
     - [Service Tag in `vets-api`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/application_controller.rb)
-
+- ARF will harden monitoring and alerting closer to its production launch. See [GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93276).
 ---
 
 ## Infrastructure and Network Changes
