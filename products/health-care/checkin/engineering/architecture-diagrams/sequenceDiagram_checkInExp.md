@@ -29,7 +29,13 @@ sequenceDiagram
     activate c
     alt valid
       c->>+va: get Vista token
-      va--)-c: return token
+      alt token returned
+        va--)c: valid token returned
+      else any error occurred
+        va--)-c: return error
+        c->>+t: call
+        t-)-vet: send text (error check-in could not be completed)
+      end
       c->>+va: check insurance validation
       alt validation not needed
         va--)c: insurance validation is not needed
