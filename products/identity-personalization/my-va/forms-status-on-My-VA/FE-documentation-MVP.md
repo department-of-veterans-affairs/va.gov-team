@@ -1,6 +1,6 @@
 # Forms Status on My VA MVP Frontend Documentation
-- Last updated: September 18, 2024 - added VA Form 20-10206 Request personal records to the list for MVP (TB)
-- Updated: September 10, 2024 - fixed link placement
+- Last updated: September 20, 2024 - added PDF cannot be generated scenario
+- Updated: September 18, 2024 - added VA Form 20-10206 Request personal records to the list for MVP (TB)
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
@@ -11,12 +11,13 @@ This FE documentation outlines all possible status cards that appear in the Bene
 
 It also outlines the accordion component with the title "If you can't find your application or form" that appears at the bottom of this section.
 
-In addition, this documentation accounts for possible scenarios in which no draft or form statuses can be displayed in the entirety of the section:
+In addition, this documentation accounts for possible scenarios in which no draft or form statuses can be displayed in the entirety of the section, or a PDF cannot be generated:
 
 - Failed user call
 - Failed network call
 - Failed API call
 - Scheduled maintenance
+- PDF cannot be generated
 
 ## When to show the ‘Benefit applications and forms' section
 We show this section for every LOA3 user.
@@ -405,3 +406,8 @@ We're sorry. We're working to fix this problem. Check back later.
 We can't access your benefit applications and forms right now due to maintenance
 
 We’re working on this part of My VA. During this time, you won’t be able to access benefit applications and forms. Check back after Month Date, Year, at hh:mm a.m/p.m. ET. 
+
+## PDF cannot be generated
+
+If it is detectaed that a PDF cannot be generated at page load, the link will not appear on the form card(s). If it cannot generate but the link is visible, a browser-based error will appear (this is slated to be addressed in a future enhancement). 
+
