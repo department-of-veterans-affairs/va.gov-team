@@ -36,7 +36,7 @@ Follow this pattern to help users know how and when their information will be pr
 #### Communicate information that is prefilled
 Forms display an alert component informing the users their information will be prefilled from their profile on the form introduction pages as part of the sign in alert or a separate alert if the user is already authenticated. 
 
-#### Communicate information that can be edited
+#### Communicate prefilled information that can be edited
 Prefilled data that is uneditable (personal information such as Legal name, DOB and SSN) should appear in a card component, followed by a message that includes the bolded word 'note' and further instructions for how a user can update this information offline.
 
 Prefilled data that is editable should be shown in a card component with a link to edit the information. Pages with editable prefilled information should also display an alert that notifies the user that information has been prefilled. 
