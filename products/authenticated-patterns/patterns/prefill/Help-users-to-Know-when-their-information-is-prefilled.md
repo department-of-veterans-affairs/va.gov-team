@@ -5,7 +5,7 @@ Follow this pattern to help users know how and when their information will be pr
 
 ### When to use this pattern
 
-- Prefilled Profile data is being displayed within a form or application. When pre-filling a form with data stored in the user’s Profile, it is appropriate to explain which data we have stored for a user and make it clear if that data will be changed if edited in this form.
+- When data pulled from the user's record is prefilled into a form or application in order to save them time and ensure data integrity. It is important to clearly inform the user of where their data is being pulled from in order to prefill it in their form or application.
 
 #### Design Principals
 - Visibility of system status. This pattern demonstrates the [usability principle of communicating the current state](https://www.nngroup.com/articles/visibility-system-status/) in order to allow users to feel in control and to be able to take appropriate action.
@@ -13,11 +13,13 @@ Follow this pattern to help users know how and when their information will be pr
 
 ### When not to use this pattern
 
-- For unauthenticated users. Users who are unauthenticated should not see this pattern as we cannot use their profile data to prefill the form.
+- For unauthenticated users. Users who are unauthenticated should not see any information prefilled, but on forms that can be completed in either an authenticated or unauthenticated state, users should see an alert on the Intro page of the form letting them know that prefill and autodave are two benefits to signing in to complete the form.
+
+[should we include a screenshot of the unauth alert? We'll be testing it next round but it is currently implemeneted on VA.gov]
 
 ### When to use caution
 
-- When prefilling from a source other than VA Profile.
+- When prefilling data from a source other than VA Profile. It is crucial to explain to the user exactly where the data is coming from so that if there are any errors in the data, it is clear how to correct them. 
 
 ## How to design and build
 
