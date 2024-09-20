@@ -13,7 +13,7 @@ Follow this pattern to help users know how and when their information will be pr
 
 ### When not to use this pattern
 
-- For unauthenticated users. Users who are unauthenticated should not see any information prefilled, but on forms that can be completed in either an authenticated or unauthenticated state, users should see an alert on the Intro page of the form letting them know that prefill and autodave are two benefits to signing in to complete the form.
+- For unauthenticated users. Users who are unauthenticated should not see any information prefilled, but on forms that can be completed in either an authenticated or unauthenticated state, users should see an alert on the Intro page of the form letting them know that prefill and autosave are two benefits to signing in to complete the form.
 
 [should we include a screenshot of the unauth alert? We'll be testing it next round but it is currently implemeneted on VA.gov]
 
@@ -70,6 +70,31 @@ A link to the page.code-link, when available.
 
 ### Alert Content
 When using this pattern keep in mind that the alerts used have specific content requirements. You can find each content scenario below. 
+
+#### Unauthenticated intro page alert ([CAIA guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-patterns-and-standards/sign-in-alerts.md))
+[heading] Sign in with a verified account
+
+[content] Here’s how signing in with an identity-verified account helps you:
+- We can fill in some of your information for you to save you time.
+- You can save your work in progress. You’ll have {time limit} from when you start or make changes to submit your form.
+
+After you sign in, we’ll tell you if you need to verify your identity for your account.
+
+**Note:** You can sign in after you start filling out your form. But you'll lose any information you already filled in.
+
+[button] Sign in or create an account
+[text link] Start your form without signing in
+
+
+#### Authenticated intro page alert
+[content] **Note:** Since you’re signed in to your account, we can prefill part of your form based on your account details. You can also save your form in progress and come back later to finish filling it out.
+
+
+
+#### Authenticated review alert
+[content] **Note:** We've prefilled some of your information from your account. If you need to correct anything, you can select edit below. All updates will be made only to this form.
+
+
 
 ## Research Findings
 
