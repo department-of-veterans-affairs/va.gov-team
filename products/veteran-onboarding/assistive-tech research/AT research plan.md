@@ -120,7 +120,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 For moderated usability tests:
 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/conversation%20guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/assistive-tech%20research/AT%20conversation%20guide.md)
 - Staging link
 
 
