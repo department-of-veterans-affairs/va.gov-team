@@ -24,3 +24,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Confirmed in the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD109f834c96fe497bb35d622af))._
 - **9/13/2024**: OGC's Benefits Law Group (Jonathan Taylor) requested to be informed when our team receives more than 5 reports of outdated information in one week. After discussion with Product Owner Jennifer Bertsch, agreed that we will share if we receive more than 5 direct reports and simultaneously focus on creating a solution wiht the ARF team; reports to the Contact Center will not be factored in.\
   _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C06GE5N7QJ0/p1726258168134879?thread_ts=1726256358.678779&cid=C06GE5N7QJ0)) and this was communicated to OGC by Product Manager Lindsay Li-Smith via email "Question about messaging"._
+- **9/19/2024**: Confirmed that we are not at risk for silent failures. \
+  _Confirmed by Technical Lead Holden Hinkle ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93229))._
