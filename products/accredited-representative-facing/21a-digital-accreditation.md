@@ -12,7 +12,9 @@ Current stakeholder pain points:
 * This backlog and lack of staffing resources means that applicants take several years to complete. (Note that a [PDF](https://www.va.gov/OGC/docs/Accred/HowtoApplyforAccreditation.pdf) linked to from the [OGC website](https://www.va.gov/ogc/accreditation.asp) says 60-120 days, but we’ve heard from a recently accredited claims agent that her process took 2 years.)
 * From a process standpoint, OGC has been “burned” by working in an agile fashion before–teams have told them that they’ll build features in future versions, and it never gets done. They prefer to wait to release the digitized form until it has the entire set of features that they need to get their work done.
 
-**For more information on the problem and the product we're building, view the [21a accreditation product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/21a-digital-accreditation-product-outline.md).**
+This digitized form will be one feature in the **Accredited Representative Portal (ARP)**, which is envisioned to be a one-stop-shop for accredited representatives to get accredited and support Veterans and their dependents with their claims. 
+
+**For more information on the product and process of digitizing Form21a, view the [21a accreditation product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/21a-digital-accreditation-product-outline.md).**
 
 ## The end user
 
