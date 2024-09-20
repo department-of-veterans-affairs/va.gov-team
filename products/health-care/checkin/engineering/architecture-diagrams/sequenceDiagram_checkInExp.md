@@ -54,13 +54,13 @@ sequenceDiagram
             va--)cw: demographics returned
             cw--)c: demographics confirmations
           else any error occurred
-            va--)cw: return error
+            va--)-cw: return error
             cw--)c: return error
             c->>+t: call
             t-)-vet: send text (error check-in could not be completed)
           end
         else any error occurred
-          va--)cw: return error
+          va--)-cw: return error
           cw--)-c: return error
           c->>+t: call
           t-)-vet: send text (error check-in could not be completed)
