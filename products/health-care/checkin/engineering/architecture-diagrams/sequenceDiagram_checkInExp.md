@@ -17,7 +17,7 @@ sequenceDiagram
     participant cw as Clinician Workflow
     participant l as LoROTA
     participant url as URL Shortener Service
-    participant vas as VistA stations
+    participant val as VistALink
 
     alt veteran initiated check-in
     vet->>+vt: text "check-in"
@@ -51,6 +51,8 @@ sequenceDiagram
         alt token returned
           va--)c: valid token returned
           c->>+va: set status (E-CHECK-IN STARTED)
+          va->>+val: RPC SDES SET APPT CHECK-IN STEP
+          val--)-va: OK
           va--)-c: status set
         else any error occurred
           va--)-c: return error
