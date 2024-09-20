@@ -14,122 +14,6 @@ In both cases, VEText calls the initiate check-in CHIP function. CHIP retrieves 
 - https://vivian.worldvista.org/dox/Routine_SDESCKNSTEP.html 
 - https://vivian.worldvista.org/vivian-data/8994/8994-3521.html "SDEC GETREGA"
 
-
-```mermaid
-sequenceDiagram
-  actor vet as Veteran
-  participant vt as VEText
-  participant c as CHIP
-  participant t as Twilio
-  participant cw as Clinician Workflow
-  participant va as Vista API
-  participant l as LoROTA
-  participant url as URL Shortener Service
-  participant val as VistALink
-
-  alt veteran initiated check-in
-    vet->>+vt: text "check-in"
-    vt->>+c: initiate check-in
-  else 45 min reminder
-    vt->>c: initiate check-in
-  end
-
-  alt valid
-    opt insurance validation needed
-      c->>+t: call
-      t-)-vet: send text (error validation needed)
-    end
-
-    c->>+va: get Vista token
-
-    break any error occurs
-      va--)c: return error
-      c->>+t: call
-      t-)-vet: send text (error check-in could not be completed)
-    end
-
-    va--)-c: valid token returned
-
-    c->>+cw: get demographics confirmations
-
-    cw->>+va: get Vista token
-
-    break any error occurs
-      va--)cw: return error
-      cw--)c: return error
-      c->>+t: call
-      t-)-vet: send text (error check-in could not be completed)
-    end
-
-    va--)-cw: valid token returned
-
-    cw->>+va: get demographics by patient
-
-    break any error occurs
-      va--)cw: return error
-      cw--)c: return error
-      c->>+t: call
-      t-)-vet: send text (error check-in could not be completed)
-    end
-
-    va ->>+val: RPC SDEC GETREGA
-
-    break any error occurs
-      val--)va: return error
-      va--)cw: return error
-      cw--)c: return error
-      c->>+t: call
-      t-)-vet: send text (error check-in could not be completed)
-    end
-
-    val--)-va: demographics returned
-    va--)-cw: demographics returned
-    cw--)-c: demographics confirmations
-
-    c->>+l: save appointments
-    l--)-c: documentId
-
-    c->>+url: get short url
-    url--)-c: short url
-
-    opt veteran initiated check-in
-      c->>+va: get Vista token
-
-      break any error occurs
-        va--)-c: return error
-        c->>+t: call
-        t-)-vet: send text (error check-in could not be completed)
-      end
-
-      va--)c: valid token returned
-      c->>+va: set status (E-CHECK-IN STARTED)
-      va->>+val: RPC SDES SET APPT CHECK-IN STEP
-
-      break any error occurs
-        val--)va: return error
-        va--)c: return error
-        c->>+t: call
-        t-)-vet: send text (error check-in could not be completed)
-      end
-
-      val--)-va: OK
-      va--)-c: status set
-    end
-
-    c->>+t: call
-    t-)-vet: send text (short url)
-
-  else unknown number
-    c->>+t: call
-    t-)-vet: send text (error phone not found)
-  else no appointments
-    c->>+t: call
-    deactivate c
-    t-)-vet: send text (error phone not found)
-  end
-```
-
-(after factoring out CW portion)
 ```mermaid
 sequenceDiagram
   actor vet as Veteran
@@ -185,9 +69,23 @@ sequenceDiagram
   cw--)-c: demographics confirmations
 
   c->>+l: save appointments
+
+  break any error occurs
+    l--)c: return error
+    c->>+t: call
+    t-)-vet: send text (error check-in could not be completed)
+  end
+
   l--)-c: documentId
 
   c->>+url: get short url
+
+  break any error occurs
+    url--)c: return error
+    c->>+t: call
+    t-)-vet: send text (error check-in could not be completed)
+  end
+
   url--)-c: short url
 
   opt veteran initiated check-in
