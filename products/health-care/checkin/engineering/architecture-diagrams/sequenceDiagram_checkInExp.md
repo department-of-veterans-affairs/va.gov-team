@@ -30,30 +30,25 @@ sequenceDiagram
     alt valid
       c->>+va: check insurance validation
       va--)-c: validation not needed
-      par
-        c->>+va: get demographics
-        va--)-c: demographics
-      and
-        c->>+cw: get demographics confirmations
-        cw--)-c: demographics confirmations
+      c->>+cw: get demographics confirmations
+      cw--)-c: demographics confirmations
+      c->>+l: save appointments
+      l--)-c: documentId
+      alt veteran initiated check-in
+        c->>+va: set status (E-CHECK-IN STARTED)
+        va--)-c: status set
       end
-        c->>+l: save appointments
-        l--)-c: documentId
-        alt veteran initiated check-in
-            c->>+va: set status (E-CHECK-IN STARTED)
-            va--)-c: status set
-        end
-        c->>+url: get short url
-        url--)-c: short url
-        c->>+t: call
-        t-)-vet: send text (short url)
-        deactivate c
+      c->>+url: get short url
+      url--)-c: short url
+      c->>+t: call
+      t-)-vet: send text (short url)
+      deactivate c
     else unknown number
-        c->>+t: call
-        t-)-vet: send text (error phone not found)
+      c->>+t: call
+      t-)-vet: send text (error phone not found)
     else no appointments
-        c->>+t: call
-        t-)-vet: send text (error phone not found)
+      c->>+t: call
+      t-)-vet: send text (error phone not found)
     end
 ```
 
