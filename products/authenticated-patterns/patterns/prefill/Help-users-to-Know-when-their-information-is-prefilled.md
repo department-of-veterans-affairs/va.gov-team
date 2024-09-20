@@ -86,6 +86,8 @@ When using this pattern keep in mind that the alerts used have specific content 
 > 
 > [text link] Start your form without signing in
 
+ ![image](https://github.com/user-attachments/assets/5f7e716a-edb0-4bea-b95b-6e419eef8c22)
+
 
 #### Authenticated intro page alert
 > [content] **Note:** Since you’re signed in to your account, we can prefill part of your form based on your account details. You can also save your form in progress and come back later to finish filling it out.
