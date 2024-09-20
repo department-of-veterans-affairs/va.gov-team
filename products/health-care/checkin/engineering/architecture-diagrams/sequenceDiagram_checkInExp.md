@@ -29,7 +29,7 @@ sequenceDiagram
     activate c
     alt valid
       c->>+va: get Vista token
-      va--)c: return token
+      va--)-c: return token
       c->>+va: check insurance validation
       alt validation not needed
         va--)c: insurance validation is not needed
