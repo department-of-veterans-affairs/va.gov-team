@@ -23,11 +23,11 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 **High-level**
 
-<img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/61887bd5-3b13-48d3-9537-6e2659db9030"><br><br>
+<img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/user-attachments/assets/236a4371-1a2c-441b-929a-f83173c6267c"><br><br>
 
 **Sequence diagram**<br><br>
 
-<img width="980" alt="Frame 1" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/3c7925aa-f393-4972-aa44-b926b5c21569">
+<img width="980" alt="Frame 1" src="https://github.com/user-attachments/assets/c12a16b0-e981-4142-bbe9-23d5b08a59fd9">
 
 ## Research findings
 
