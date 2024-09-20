@@ -61,10 +61,11 @@ List of links to page templates or layouts used to build any pages for this patt
 Examples of this pattern. May contain reference or links to:
 
 ### Examples in production
+Coming soon!
 
 ## Code usage
+Coming soon!
 
-A link to the page.code-link, when available.
 
 ## Content considerations
 
