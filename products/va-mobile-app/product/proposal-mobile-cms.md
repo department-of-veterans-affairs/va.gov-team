@@ -55,12 +55,11 @@ Reasons, considerations, and open questions are outlined below.
 	- Can we move the translation file to the backend?
 		- Answer: Yes.
 	- Should the API pass the file or the content of the file?
-		- That will depend on frontend preference. The backend team can build it out as a json string body and convert to a file if necessary.
+		- We've decided on sending the file.
 	- Who owns the content? Frontend does now, but will the backend?
 		- We should be able to set up a codeowners group for the copy writers and allow them to own the json file. But this doesn't answer the question of who should be reviewing the content. Currently, the frontend developers review copy PRs because they have the ability to know where the copy will be used, which is not always as clear to the copy editors. It will be possible to set up the frontend developers as codeowners as well, but that may be a clunky process for them since they normally don't work in the vets-api.
 	- Can be a publicly consumable file
 	- Content should update sync and async in the app
-		- Question: when would it ever be syncronous? Will there be an "update copy" button? Why?
 	- staging file vs. production file
 		- For V1, the file will be kept under version control in vets-api. As such, the copy will be promoted to production with the backend code.
 
@@ -82,11 +81,10 @@ Backend work:
   	- that all interpolation tags close and contain a variable
   	- that data is in alphabetical order (for maintainability)
 - Set up copy writers codeowners group in the vets-api and make them codeowners of the new file. Frontend developers may also need to be codeowners in order to verify changes before they're merged.
-- Create a new endpoint that returns the translations json. This can return a json string body for now. If the frontend developers later decide they would prefer to receive a file, we can make that change.
+- Create a new endpoint that returns the translations json. The data should be returned as a json file.
 	- To reduce server strain, the endpoint can also accept an optional query param consisting of the timestamp. This timestamp will represent the last time the copy file was changed. The backend can calculate the last changed timestamp and provide it in the meta of the jsonapi response. The frontend can store that value and send it with its next request for translations. If the timestamp the frontend sends is not current, the backend will respond with full translations json. Otherwise, it will send a success response with an empty body.
 
 Frontend work:
-Frontend work can be done asynchronously from backend work when their schedule allows.
 - Fetch translations data from the backend instead of from the local file.
 - Change build process to pre-load translations.
 - Figure out how this will work for local/offline development. As long as we don't blow away the data on each build, the local dev environment should at least have semi-fresh data that will be updated whenever the developer is working online.
