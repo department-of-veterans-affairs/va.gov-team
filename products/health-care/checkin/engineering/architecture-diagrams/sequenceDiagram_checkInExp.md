@@ -129,6 +129,95 @@ sequenceDiagram
   end
 ```
 
+(after factoring out CW portion)
+```mermaid
+sequenceDiagram
+  actor vet as Veteran
+  participant vt as VEText
+  participant c as CHIP
+  participant t as Twilio
+  participant cw as Clinician Workflow
+  participant va as Vista API
+  participant l as LoROTA
+  participant url as URL Shortener Service
+  participant val as VistALink
+
+  alt veteran initiated check-in
+    vet->>+vt: text "check-in"
+    vt->>+c: initiate check-in
+  else 45 min reminder
+    vt->>c: initiate check-in
+  end
+
+  alt valid
+    opt insurance validation needed
+      c->>+t: call
+      t-)-vet: send text (error validation needed)
+    end
+
+    c->>+va: get Vista token
+
+    break any error occurs
+      va--)c: return error
+      c->>+t: call
+      t-)-vet: send text (error check-in could not be completed)
+    end
+
+    va--)-c: valid token returned
+
+    c->>+cw: get demographics confirmations
+
+    break any error occurs
+      cw--)c: return error
+      c->>+t: call
+      t-)-vet: send text (error check-in could not be completed)
+    end
+
+    cw--)-c: demographics confirmations
+
+    c->>+l: save appointments
+    l--)-c: documentId
+
+    c->>+url: get short url
+    url--)-c: short url
+
+    opt veteran initiated check-in
+      c->>+va: get Vista token
+
+      break any error occurs
+        va--)-c: return error
+        c->>+t: call
+        t-)-vet: send text (error check-in could not be completed)
+      end
+
+      va--)c: valid token returned
+      c->>+va: set status (E-CHECK-IN STARTED)
+      va->>+val: RPC SDES SET APPT CHECK-IN STEP
+
+      break any error occurs
+        val--)va: return error
+        va--)c: return error
+        c->>+t: call
+        t-)-vet: send text (error check-in could not be completed)
+      end
+
+      val--)-va: OK
+      va--)-c: status set
+    end
+
+    c->>+t: call
+    t-)-vet: send text (short url)
+
+  else unknown number
+    c->>+t: call
+    t-)-vet: send text (error phone not found)
+  else no appointments
+    c->>+t: call
+    deactivate c
+    t-)-vet: send text (error phone not found)
+  end
+```
+
 (Zoom-In on CW Portion so we can clean up above)
 ```mermaid
 sequenceDiagram
