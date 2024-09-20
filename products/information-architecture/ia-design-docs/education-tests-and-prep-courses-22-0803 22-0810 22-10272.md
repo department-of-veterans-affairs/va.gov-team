@@ -44,13 +44,13 @@ A note about these flows and forms:
 
 ## <a name="map"></a>Page structure<br>
 
-![reimbursement sitemap 3](https://github.com/user-attachments/assets/fe81838e-a4a3-49d8-a19f-60bd08515f12)
+![reimbursement sitemap 4](https://github.com/user-attachments/assets/43844275-3660-4aac-8097-518b1c99aa25)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
 
 
-**1) [Licensng and Certification tests and prep courses] - [Existing]**
+**1) [Licensng and Certification tests and prep courses] - [Keep current location, update content]**
 - Old URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
 - New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/**[TBD by content]**
 
@@ -62,7 +62,7 @@ courses - or Drupal auto-shortening TBD]**
 
 - Notes: This page is currently in the Education Hub. It's staying there.
 
-**2) [National Tests] - [Existing - expanding content and moving to hub]**
+**2) [National Tests] - [Move page location to hug, update content]**
 - Old URL: va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/
 - New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/**[TBD by content]**
   
@@ -117,10 +117,8 @@ shortening TBD]/
 
 **'About VA Form [form number]' pages**
   - H1s of 'About' pages should be updated:
-  -   Form 22-10272 H1 should be updated to: Licensing and certification tests and prep courses
-  -   Form 22-0803 H1 should be updated to: Licensing and certification tests and prep courses
-  -   Form 22-0810 H1 should be updated to: National tests and prep courses
-  -   Note: both 22-10272 and 22-0803 should direct to the same page, as the L&C page includes two reimbursement forms.
+  -   The [About VA Form 22-10272](https://www.va.gov/find-forms/about-form-22-10272/) and [About VA Form 22-0803 pages](https://www.va.gov/find-forms/about-form-22-0803/) should link to the 'Licensing and certification tests and prep courses' page at https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[licensing-and-certification-tests-and-prep-courses - or Drupal auto-shortened version TBD]. Both 22-10272 and 22-0803 should direct to the same page, as the L&C page includes two reimbursement forms.
+  -   The [About VA Form 22-0810](https://www.va.gov/find-forms/about-form-22-0810/) page should link to the 'National tests and prep courses' page at https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[national-test-and-prep-courses - or Drupal auto-shortened version TBD]
 
 
 ## <a name="redirects"></a>Redirects <br>
