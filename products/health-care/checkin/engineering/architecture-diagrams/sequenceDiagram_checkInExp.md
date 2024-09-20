@@ -19,7 +19,6 @@ sequenceDiagram
   actor vet as Veteran
   participant vt as VEText
   participant c as CHIP
-  participant t as Twilio
   participant cw as Clinician Workflow
   participant va as Vista API
   participant l as LoROTA
@@ -34,26 +33,26 @@ sequenceDiagram
   end
 
   break insurance validation needed
-    c->>+t: call
-    t-)-vet: send text (error validation needed)
+    c-)vt: return error
+    vt-)vet: send text (error validation needed)
   end
 
   break unknown number
-    c->>+t: call
-    t-)-vet: send text (error phone not found)
+    c-)vt: return error
+    vt-)vet: send text (error phone not found)
   end
 
   break no appointments
-    c->>+t: call
-    t-)-vet: send text (error phone not found)
+    c-)vt: return error
+    vt-)vet: send text (error phone not found)
   end
 
   c->>+va: get Vista token
 
   break any error occurs
     va--)c: return error
-    c->>+t: call
-    t-)-vet: send text (error check-in could not be completed)
+    c->>vt: return error
+    vt-)vet: send text (error check-in could not be completed)
   end
 
   va--)-c: valid token returned
@@ -62,8 +61,8 @@ sequenceDiagram
 
   break any error occurs
     cw--)c: return error
-    c->>+t: call
-    t-)-vet: send text (error check-in could not be completed)
+    c->>vt: call
+    vt-)vet: send text (error check-in could not be completed)
   end
 
   cw--)-c: demographics confirmations
@@ -72,8 +71,8 @@ sequenceDiagram
 
   break any error occurs
     l--)c: return error
-    c->>+t: call
-    t-)-vet: send text (error check-in could not be completed)
+    c->>vt: call
+    vt-)vet: send text (error check-in could not be completed)
   end
 
   l--)-c: documentId
@@ -82,8 +81,8 @@ sequenceDiagram
 
   break any error occurs
     url--)c: return error
-    c->>+t: call
-    t-)-vet: send text (error check-in could not be completed)
+    c->>vt: call
+    vt-)vet: send text (error check-in could not be completed)
   end
 
   url--)-c: short url
@@ -92,29 +91,28 @@ sequenceDiagram
     c->>+va: get Vista token
 
     break any error occurs
-      va--)-c: return error
-      c->>+t: call
-      t-)-vet: send text (error check-in could not be completed)
+      va--)c: return error
+      c->>vt: call
+      vt-)vet: send text (error check-in could not be completed)
     end
 
-    va--)c: valid token returned
+    va--)-c: valid token returned
     c->>+va: set status (E-CHECK-IN STARTED)
     va->>+val: RPC SDES SET APPT CHECK-IN STEP
 
     break any error occurs
       val--)va: return error
       va--)c: return error
-      c->>+t: call
-      t-)-vet: send text (error check-in could not be completed)
+      c->>vt: call
+      vt-)vet: send text (error check-in could not be completed)
     end
 
     val--)-va: OK
     va--)-c: status set
   end
 
-  c->>+t: call
-  deactivate c
-  t-)-vet: send text (short url)
+  c->>-vt: return short url
+  vt-)-vet: send text (short url)
 ```
 
 (Zoom-In on CW Portion so we can clean up above)
