@@ -7,7 +7,7 @@ The check-in flow can be initiated in 2 ways:
 
 In both cases, VEText calls the initiate check-in CHIP function. CHIP retrieves the relevant data from VistA stations through Vista API, puts the data in LoROTA, sets the status, generates a shortened URL, and returns the URL to the Veteran.
 
-**System of Record** VistA
+**System of Record**: VistA
 
 **VistA References**:
 - https://vivian.worldvista.org/vivian-data/8994/8994-4529.html "SDES SET APPT CHECK-IN STEP"
