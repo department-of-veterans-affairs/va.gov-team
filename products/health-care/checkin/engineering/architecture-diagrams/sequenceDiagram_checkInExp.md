@@ -12,9 +12,9 @@ sequenceDiagram
     actor vet as Veteran
     participant vt as VEText
     participant c as CHIP
+    participant va as VistA API
     participant l as LoROTA
     participant t as Twilio
-    participant va as VistA API
     participant cw as Clinician Workflow
     participant url as URL Shortener Service
 
