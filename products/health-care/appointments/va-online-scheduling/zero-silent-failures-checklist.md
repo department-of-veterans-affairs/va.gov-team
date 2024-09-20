@@ -280,6 +280,15 @@ Link to data flow diagram:
 
 If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
+Link to user flow diagram:
+
+- VA Direct Schedule Flow
+- COVID Vaccine Flow
+- VA Request Flow
+- CC Request Flow
+- Manage Appointments Flow
+- Cancellation Flows
+
 - [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
 
     - VA Direct Schedule Flow
