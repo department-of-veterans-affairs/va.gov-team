@@ -28,13 +28,8 @@ sequenceDiagram
     end
     activate c
     alt valid
-      par
-        c->>+va: get appointments
-        va--)-c: appointments
-      and
-        c->>+va: check insurance validation
-        va--)-c: validation not needed
-      end
+      c->>+va: check insurance validation
+      va--)-c: validation not needed
       par
         c->>+va: get demographics
         va--)-c: demographics
