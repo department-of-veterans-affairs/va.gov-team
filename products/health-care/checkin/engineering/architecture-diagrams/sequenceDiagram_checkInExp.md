@@ -43,12 +43,12 @@ sequenceDiagram
     c->>+va: get Vista token
 
     break any error occurs
-      va--)-c: return error
+      va--)c: return error
       c->>+t: call
       t-)-vet: send text (error check-in could not be completed)
     end
 
-    va--)c: valid token returned
+    va--)-c: valid token returned
 
     c->>+cw: get demographics confirmations
 
