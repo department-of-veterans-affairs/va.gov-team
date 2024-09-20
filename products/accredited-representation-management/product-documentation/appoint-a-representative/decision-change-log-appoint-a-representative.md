@@ -38,3 +38,7 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Path forward communicated by Product Owner Jennifer Bertsch ([Slack Message](https://dsva.slack.com/archives/C06ABHUNBRS/p1725393615800809)) and CorpDB was discussed as "cold storage" in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV48541100debf431580cd3ce4c))._
 - **9/4/2024**: Decided not to require a Veteran phone number, when a non-Veteran claimant is completing the form, as the Veteran may be decesased. \
   _Proposed by Product Manager Lindsay Li-Smith ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1725474567167699?thread_ts=1725471067.804769&cid=C05L6HSJLHM))._
+- **9/17/2024**: Decided to resurface the represntativey query (and related search results) when a user clicks "Back" in the same session. \
+  _Decided by the core team and summarized by Product Manager Lindsay Li-Smith ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1726598932350429?thread_ts=1726581286.045329&cid=C05L6HSJLHM))._
+- **9/17/2024**: Confirmed that we are not at risk for silent failures. \
+  _Confirmed by Technical Lead Holden Hinkle ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93229))._
