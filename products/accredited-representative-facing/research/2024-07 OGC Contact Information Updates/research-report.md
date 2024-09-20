@@ -253,42 +253,42 @@ Knowing that all representatives use multiple email addresses, we wanted to know
     1. Based on our interviews, most representatives use the OGC accreditation search regularly to find out if someone is accredited or to find accreditation numbers. Some use it on a daily basis. If representatives are not included in communications around sunsetting the OGC accreditation search, their workflow will be highly impacted.
     2. Representatives need to be considered as primary users of Find a Representative and include them in future feedback opportunities as we transition to using Find a Representative.
 2. **Continue to prioritize workflows that empower representatives to keep their information updated.**
-    3. As we know, dealing with inaccurate data has been mentioned in almost all of our interviews. By creating improved systems and workflows, we want to empower representatives to keep their information up to date so that inaccurate data becomes less of an issue.
+    1. As we know, dealing with inaccurate data has been mentioned in almost all of our interviews. By creating improved systems and workflows, we want to empower representatives to keep their information up to date so that inaccurate data becomes less of an issue.
 3. **Before ARP goes live, ensure the permissions reflect both OGC policies and VSO practices.**
-    4. VSOs have different practices for updating their contact information. We heard that some representatives - not always their certifying official - are emailing OGC directly to make updates. 
+    1. VSOs have different practices for updating their contact information. We heard that some representatives - not always their certifying official - are emailing OGC directly to make updates. 
         1. Representatives aren’t clear about the current process, and recent research from the Accredited Representation Management team shows that some VSO representatives don’t know who their certifying official is. 
-    5. Some VSOs have support staff that work under the direction of the certifying official. 
-        2. We want to ensure that the permissions for certifying officials, their designees, and representatives on the ground reflect both OGC policies and VSO practices. 
+    2. Some VSOs have support staff that work under the direction of the certifying official. 
+        1. We want to ensure that the permissions for certifying officials, their designees, and representatives on the ground reflect both OGC policies and VSO practices. 
 4. **In the “My Dashboard”, change the “registration number” label to “accreditation number”.**
-    6. Registration number is not a commonly used term and caused confusion for attorneys and agents in our interviews. 
-    7. Participants informed us that “accreditation number” is a more commonly used and understood term.
+    1. Registration number is not a commonly used term and caused confusion for attorneys and agents in our interviews. 
+    2. Participants informed us that “accreditation number” is a more commonly used and understood term.
 5. **Allow certifying officials to see all representatives but allow them to filter to those who are singly accredited in the “Manage Representatives” screen.**
-    8. For this recommendation, we also recommend future research with more certifying officials to get a more accurate representation with a larger sample size. But of the certifying officials we talked to, they expressed that it would be useful to see all representatives, both those who hold primary accreditation with their organization and those who are cross-accredited and hold secondary accreditation with their organization. 
+    1. For this recommendation, we also recommend future research with more certifying officials to get a more accurate representation with a larger sample size. But of the certifying officials we talked to, they expressed that it would be useful to see all representatives, both those who hold primary accreditation with their organization and those who are cross-accredited and hold secondary accreditation with their organization. 
 6. **Display VA email addresses automatically in the user's private profile as a non-editable field.**
-    9. We know that VA email addresses can mislead Veterans into thinking representatives work for the VA when they don’t, and this is something we’ve heard both from stakeholders and from Veterans directly. We learned that some representatives use their VA email and are actually instructed to use it because it’s secure; this is most common for those representatives who work at VA facilities and are regularly on the VA network. For others though, especially attorneys and agents, they explicitly do not use their VA email addresses due to client confidentiality.
-    10. We’d like to display a representative’s VA email address automatically in their private profile as a non-editable field (to avoid any errors in typing their email addresses manually). It would be hidden from public view by default with the option to make it visible for those who really use it. 
+   1. We know that VA email addresses can mislead Veterans into thinking representatives work for the VA when they don’t, and this is something we’ve heard both from stakeholders and from Veterans directly. We learned that some representatives use their VA email and are actually instructed to use it because it’s secure; this is most common for those representatives who work at VA facilities and are regularly on the VA network. For others though, especially attorneys and agents, they explicitly do not use their VA email addresses due to client confidentiality.
+    2. We’d like to display a representative’s VA email address automatically in their private profile as a non-editable field (to avoid any errors in typing their email addresses manually). It would be hidden from public view by default with the option to make it visible for those who really use it. 
 7. **Require one primary email for OGC communications and allow users to select up to three email addresses to display publicly.**
-    11. All representatives have multiple email addresses because they all have their VA.gov email and one through their organization, but they do tend to have one primary one they use with Veterans. They want more clarity and flexibility over which of these addresses are displayed publicly to Veterans and which ones VA will use to communicate with them.
-    12. As mentioned in Recommendation 6, we’d automatically include their VA.gov email in their private profile which they could choose to make public or not. And we’d allow one additional alternate email field, resulting in three possible email addresses of which they can choose which one to display publicly, but having at least one of them public would be helpful for Veterans to communicate with them. 
+    1. All representatives have multiple email addresses because they all have their VA.gov email and one through their organization, but they do tend to have one primary one they use with Veterans. They want more clarity and flexibility over which of these addresses are displayed publicly to Veterans and which ones VA will use to communicate with them.
+    2. As mentioned in Recommendation 6, we’d automatically include their VA.gov email in their private profile which they could choose to make public or not. And we’d allow one additional alternate email field, resulting in three possible email addresses of which they can choose which one to display publicly, but having at least one of them public would be helpful for Veterans to communicate with them. 
 8. **Allow users to select up to two addresses to display publicly while requiring one primary address for OGC communications and providing one additional optional address field.**
-    13. We learned that similar to emails, representatives also often have multiple addresses, and that the mailing address for OGC is often different from the office locations that Veterans might want to visit. Similar to emails, they want clarity and flexibility around what’s listed publicly and which one VA will use for mailing. 
-    14. We also recommend we come up with a system of labeling the addresses to make it clear if the address is their headquarters, their office location, or a mailing address. 
+    1. We learned that similar to emails, representatives also often have multiple addresses, and that the mailing address for OGC is often different from the office locations that Veterans might want to visit. Similar to emails, they want clarity and flexibility around what’s listed publicly and which one VA will use for mailing. 
+    2. We also recommend we come up with a system of labeling the addresses to make it clear if the address is their headquarters, their office location, or a mailing address. 
 9. **Make the default setting for home addresses as “hidden from public.”**
-    15. Representatives were concerned about their home addresses being visible to the public. By making it hidden, home addresses can still be a part of a representative’s profile without being visible to the public.
+    1. Representatives were concerned about their home addresses being visible to the public. By making it hidden, home addresses can still be a part of a representative’s profile without being visible to the public.
 10. **Require one primary phone number to be visible publicly while allowing users to input up to two phone numbers with the ability to elect which ones are displayed publicly.**
-    16. Representatives often have multiple phone numbers and they don’t want all of them visible publicly. And different numbers are used for different cases, for example, some representatives give their direct line to the VA but want new clients to go through the office hotline.
+    1. Representatives often have multiple phone numbers and they don’t want all of them visible publicly. And different numbers are used for different cases, for example, some representatives give their direct line to the VA but want new clients to go through the office hotline.
 11. **Add a field for fax number.**
-    17. Attorneys and agents still use fax numbers. Some stated that many of the Veterans they serve in rural areas will still contact them via fax and they would like to display their fax number for veteran accessibility. 
+    1. Attorneys and agents still use fax numbers. Some stated that many of the Veterans they serve in rural areas will still contact them via fax and they would like to display their fax number for veteran accessibility. 
 12. **Expand capacity in the “names” section and allow users to add a preferred name and any previous names used.**
-    18. We learned that complete names, including middle names, can be relevant to a representative’s identity especially when searching for representatives.
-    19. Previous names also allow for inclusivity and findability.
-    20. Add a middle name and suffix field to align with 21a.
-        3. Form 21a has fields for middle name and suffix, so we also recommend adding those as fields in someone’s profile for consistency. 
+    1. We learned that complete names, including middle names, can be relevant to a representative’s identity especially when searching for representatives.
+    2. Previous names also allow for inclusivity and findability.
+    3. Add a middle name and suffix field to align with 21a.
+        1. Form 21a has fields for middle name and suffix, so we also recommend adding those as fields in someone’s profile for consistency. 
 13. **Allow users to indicate how services are offered: “Fully remote,” “In person,” or “Hybrid”.**
-    21. We learned about some of the varieties of ways that representatives serve Veterans, and how some of this is not reflected well with current structures on VA.gov.
-    22. This would provide clear context to Veterans and how they choose to contact the representative.
+    1. We learned about some of the varieties of ways that representatives serve Veterans, and how some of this is not reflected well with current structures on VA.gov.
+    2. This would provide clear context to Veterans and how they choose to contact the representative.
 14. **Provide representatives with confirmation messaging when information is updated. For example, providing a preview of what their profile will look like on VA.gov.**
-    23. Representatives shared that they are not confident in the current process and that they are not getting any form of confirmation telling them that their information has been updated successfully. From this insight, we recommend that we should provide reps with some form of confirmation messaging when their info is updated. Also, we want to provide a preview of what their profile will look like on VA.gov to ensure that all the changes are correct.
+    1. Representatives shared that they are not confident in the current process and that they are not getting any form of confirmation telling them that their information has been updated successfully. From this insight, we recommend that we should provide reps with some form of confirmation messaging when their info is updated. Also, we want to provide a preview of what their profile will look like on VA.gov to ensure that all the changes are correct.
 
 ## Next Steps
 
@@ -301,14 +301,14 @@ Knowing that all representatives use multiple email addresses, we wanted to know
     1. In this round of research, we were only able to speak with a few certifying officials. By interviewing more certifying officials, we can get a better idea of their pains and needs to develop a substantial user persona.
     2. We still have not spoken to any Tribal certifying officials.
 2. **Explore how certifying officials search for representatives and test current search fields and filters.**
-    3. The certifying officials we spoke to mentioned organizing representatives by county. Future research can discover which fields and filters are useful for searching for representatives.
+    1. The certifying officials we spoke to mentioned organizing representatives by county. Future research can discover which fields and filters are useful for searching for representatives.
 3. **Explore further ways to provide autonomy to representatives which will reduce manual processes facilitated by OGC.**
-    4. It is clear from our research that representatives enjoyed the autonomy that ARP could provide. 
-    5. We are only scratching the surface and further research with more certifying officials, attorneys, and agents can identify any room for growth.
+    1. It is clear from our research that representatives enjoyed the autonomy that ARP could provide. 
+    2. We are only scratching the surface and further research with more certifying officials, attorneys, and agents can identify any room for growth.
 4. **Conduct research on cultural nuances.**
-    6. In our research, we discovered that representatives may use different names and sometimes have a preferred name. This can be because they have names in different languages.
+    1. In our research, we discovered that representatives may use different names and sometimes have a preferred name. This can be because they have names in different languages.
         1. Some languages do not use a “middle name” so this label may not be inclusive.
-    7. Exploring if and how this affects their public profile will promote inclusivity and accessibility.
+    2. Exploring if and how this affects their public profile will promote inclusivity and accessibility.
 5. **Explore how the updating contact information workflow can intersect with other workflows such as Form 21-22 and Form 21a.**
 
 ## Appendix
