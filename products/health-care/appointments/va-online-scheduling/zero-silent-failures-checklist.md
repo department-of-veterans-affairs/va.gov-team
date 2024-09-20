@@ -119,33 +119,42 @@ If not, then you'll need to consider the path user data took through both the cu
 
 If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
-- [ ] Does your Datadog monitoring use the appropriate tagging?
+- [x] Does your Datadog monitoring use the appropriate tagging?
 
     - VA Direct Schedule Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - COVID Vaccine Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - VA Request Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - CC Request Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - Manage Appointments Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - Cancellation Flows
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
 
- - [JL] Let's determine what we should set these tags to be but here are my initial thoughts:
+ - [JL] I'm not sure if I found all the monitors but so far I see 5 that send updates to our slack channel [here](https://vagov.ddog-gov.com/monitors/manage?q=notification%3Aslack-appointments-alerts&order=desc). I'm not sure if there are other ones (maybe PagerDuty or other alerts)? Here are the tags we set:
+   - VAOS Vets API Errors Per Second, VAOS Vets API Error Rate, VAOS Request Rate is Low, VAOS Breakers Outage
     ```
-    env: currently set as env:eks-prod but the recommended tag is env:prod
-    team: not set but I assume we’ll need to set it as team:appointments
-    itportfolio: not set but I assume we’ll need to set it as itportfolio:digital-experience
-    service: currently set as service:vets-api which I think is accurate
+    env:eks-prod
+    team:mhv-appointments
+    itportfolio:health-delivery
+    service:mhv-appointments
+    ```
+   - Composite Number of Partial Responses from VAOS Service is High
+    ```
+    env:eks-prod
+    team:mhv-appointments
+    itportfolio:health-delivery
+    service:external
+    dependency:map
     ```
 
 If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
