@@ -14,8 +14,8 @@ sequenceDiagram
     participant c as CHIP
     participant t as Twilio
     participant va as Vista API
-    participant l as LoROTA
     participant cw as Clinician Workflow
+    participant l as LoROTA
     participant url as URL Shortener Service
     participant vas as VistA stations
 
