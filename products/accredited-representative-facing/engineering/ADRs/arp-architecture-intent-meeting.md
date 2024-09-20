@@ -164,7 +164,7 @@ As of this document's writing, the ARF Team's Form21a application has yet to und
 
 ### Identify PII and PHI and where and how it will be stored and processed
 
-- PII data in `FormsInProgress` is encrypted and stored securely as per VA guidelines.
+- Form21a PII data is only stored in the `vets-api` [`in_progress_forms` table](https://github.com/department-of-veterans-affairs/vets-api/blob/a42c775eed7c709d8777b144c4c69b8f4f2ebe71/db/schema.rb#L821-L835).
 
 ---
 
