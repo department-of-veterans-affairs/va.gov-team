@@ -46,7 +46,7 @@ sequenceDiagram
       l--)-c: documentId
       c->>+url: get short url
       url--)-c: short url
-      alt veteran initiated check-in
+      opt veteran initiated check-in
         c->>+va: get Vista token
         alt token returned
           va--)c: valid token returned
