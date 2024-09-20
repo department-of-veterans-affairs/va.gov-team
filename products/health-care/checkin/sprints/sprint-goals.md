@@ -68,16 +68,16 @@
           - Steps to access file in Planitir are in [Slack thread](https://dsva.slack.com/archives/C06RMRJCLHH/p1726667054494449?thread_ts=1726505070.527829&cid=C06RMRJCLHH) 
     - 🟥 [[Design] Update Community Care VSS after consult approval workflow (Mural) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88886)
     - ✔️ 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
-    - 🟥 [[Design] Add content to confirmation page about how to cancel appt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92733)
+    - ✔️ 🟥 [[Design] Add content to confirmation page about how to cancel appt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92733)
     - 🟥 [Add urls to MVP scope page in Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92776)
-    - 🟥 Send messages to Melanie for review and Privacy Officer
-        - Waiting for VA Notify kick off to happen first
+    - ✔️ 🟥 Send messages to Melanie for review and Privacy Officer
+        - ~Waiting for VA Notify kick off to happen first~
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
-    - 🟥 [[Design] Add info to confirmation/detail page to clarify steps for rescheduling](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/91239)       
+    - ✔️ 🟥 [[Design] Add info to confirmation/detail page to clarify steps for rescheduling](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/91239)       
 - **Check in with staff after checking in**
     - **Sprint Goal is to finish the research plan and start to make plans for the pilot**
     - 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
-    - 🟥 [[Design] Create low-fi wireframe options](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92856)
+    - ✔️ 🟥 [[Design] Create low-fi wireframe options](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92856)
     - 🟥 [[SPIKE] Consider unmoderated study to solicit quick feedback on content changes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/93025)
     - ✔️ Create collab cycle ticket
     - ✔️ Have Kristen Schedule OCTO PO Sync touchpoint ([Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-with-staff.md))
@@ -87,10 +87,10 @@
    - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)    
    - ✔️ 🟥 [[UX] Determine text to use for clinics not in the standalone app pilot](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93050)
 - **Research Cards & Their Headers**
-    - 🟥 [[Research] Hold kick-off with Perigean and monitor incoming study data in Optimal Workshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92901)
+    - ✔️ 🟥 [[Research] Hold kick-off with Perigean and monitor incoming study data in Optimal Workshop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92901)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
-    - 🟥🟪 [Gather quantitative data for what users are selecting on the /appointments page in pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92844)
+    - ✔️ 🟥🟪 [Gather quantitative data for what users are selecting on the /appointments page in pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92844)
 
 
 ## SPRINT 15 - 9/4/2024-9/17/2024
