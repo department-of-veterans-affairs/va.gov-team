@@ -31,7 +31,7 @@
 ## UAE Learning tickets (Focused on code and process)
 - [Change request:Medication wording for Appointments](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9373)
 
-## Mobile onboarding - Fedback from Juan
+## Mobile onboarding - Feedback from Juan
 - What went well:
    - Mobile onboaridng ticket had nearly everything required to get started from scracth.
    - Mobile docs ❤️
