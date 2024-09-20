@@ -93,4 +93,4 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 <img width="1000" alt="CC direct scheduling high level visual data flow (WIP)" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/e7c4fa94-7cf7-46b0-b349-c85281b38eb4">
 
 ## Schedule
-[EPS-VAOS Schedule Overview.pptx](https://github.com/user-attachments/files/16948138/EPS-VAOS.Schedule.Overview.pptx)
+- [EPS-VAOS Schedule Overview in SharePoint](https://dvagov.sharepoint.com/:p:/s/HealthApartment/EaymMOj8IRVLgeceh1kS-OQB1K4Cnr39NJHeSSVmOrZ14g?e=zHH3UW)
