@@ -32,17 +32,28 @@ sequenceDiagram
     vt->>c: initiate check-in
   end
 
+  break no appointments
+    alt clinic not enabled
+      c-)vt: return error
+      vt-)vet: send text (ERROR_CLINIC_NOT_ENABLED)
+    else too late
+      c-)vt: return error
+      vt-)vet: send text (CHECK_IN_LATE_ERROR)
+    else too early
+      c-)vt: return error
+      vt-)vet: send text (CHECK_IN_EARLY_ERROR)
+    else no appointments
+      c-)vt: return error
+      vt-)vet: send text (ERROR_NOT_AVAILABLE)
+    end
+  end
+
   break insurance validation needed
     c-)vt: return error
     vt-)vet: send text (error validation needed)
   end
 
   break unknown number
-    c-)vt: return error
-    vt-)vet: send text (error phone not found)
-  end
-
-  break no appointments
     c-)vt: return error
     vt-)vet: send text (error phone not found)
   end
