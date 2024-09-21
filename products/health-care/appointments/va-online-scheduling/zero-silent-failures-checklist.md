@@ -53,7 +53,29 @@
     - [x] Yes [JL]
     - [ ] No
 
-- [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names
+- [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the APIs we hit I've found so far:
+    ```
+    GET/POST /vaos/v1/patients/#{user.icn}/appointments
+    GET/POST /vpg/v1/patients/#{user.icn}/appointments (Not used yet)
+    /my-health/medical-records/summaries-and-notes/visit-summary/#{sid} (returned to FE, not yet used)
+    GET/PUT /vaos/v1/patients/#{user.icn}/appointments/#{appointment_id}
+    GET/PUT /vpg/v1/patients/#{user.icn}/appointments/#{appointment_id} (Not used yet)
+    GET /vaos/v1/locations/#{station_id}/clinics
+    GET /facilities/v2/scheduling/configurations
+    GET /facilities/v2/facilities
+    GET /facilities/v2/facilities/#{id}
+    GET /ppms/v1/providers/#{id}
+    GET /vaos/v1/patients/#{user.icn}/eligibility
+    GET /vpg/v1/patients/#{user.icn}/eligibility (Not used yet)
+    GET /vpg/v1/patients/#{user.icn}/relationships (I don't think we use this yet @cferris32?)
+    GET /vaos/v1/locations/#{location_id}/clinics/#{clinic_id}/slots
+    GET /vpg/v1/slots (Not used yet)
+    GET /cce/v1/patients/#{user.icn}/eligibility/#{service_type}
+    GET /var/VeteranAppointmentRequestService/v4/rest/patient/ICN/#{user.icn}/preference (I don't think we use this PreferenceService @cferris32?)
+    GET /users/v2/session/jwts
+    POST /users/v2/session?processRules=true
+    ```
+    Note that I'm excluding v1 endpoints but let me know if we need to look into that as well @cferris32.
 
 ### Does your application submit to an API that relies on Sidekiq (or another background job processor)?
 
@@ -115,7 +137,7 @@ If not, then you'll need to consider the path user data took through both the cu
     - [x] Yes [JL]
     - [ ] No
 
-- [JL] I'm not sure if this is the best organization for these questions since our DD monitoring comes from the backend and each of these flows will hit different combination of vets-api endpoints. Although it would make more sense to ensure we have DD monitoring for each BE endpoint, maybe that's not the leve of detail Platform and leadership wants to see?
+- [JL] The dashboard is located [here](https://vagov.ddog-gov.com/dashboard/7t4-7fw-pgj/vaos-alerts?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1726685791928&to_ts=1726858591928&live=true).
 
 If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
@@ -180,7 +202,7 @@ If not, [implement tagging standards](https://depo-platform-documentation.scroll
         - [x] Yes [JL]
         - [ ] No
 
- - [JL] We have this set up too. Messages go to #appointments-alerts channel.
+ - [JL] We have this set up too. Messages go to [#appointments-alerts](https://dsva.slack.com/archives/C016QB6T340) channel.
 
 If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
 
@@ -197,7 +219,7 @@ If not, then follow this [guide on managing errors](https://github.com/departmen
 - [ ] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
     - [ ] Yes
     - [ ] No
- - Yes we do. While we usually acknowledge issues in the slack channel directly using comments and threads, we can adopt the recommended methods listed in the linked document.
+ - [JL] Yes we do. While we usually acknowledge issues in the slack channel directly using comments and threads, we can adopt the recommended methods listed in the linked document.
 
 If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
@@ -276,7 +298,7 @@ If not, then file Github issues to capture error categories following [this guid
         - [ ] Yes
         - [ ] No
     - Cancellation Flows
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
 
 If not, then [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md) that captures this information.
