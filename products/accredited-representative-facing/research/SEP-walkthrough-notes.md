@@ -8,7 +8,7 @@
 
 **Melissa Rebstock** is Branch Chief at VEO on channel strategies and engagement team. Works with OCTO on anything digital. Has been on SEP since it started, 2010-ish is when they did requirements gathering. Not much has changed. Has been with VA 23 years and working in the digital arena since 2009.
 
-**Laurie Baker** works in digital services for Melissa. SEP,[ va.gov](http://va.gov), eBenefits. Has been with VA for 15 years, was on IT side, now OBI - working on eBenefits and SEP, then VEM pulled into VEO. A lot of work on the service side: identify services, enterprise military service, extensive background in services and enterprise database side. “Data Guru” according to Melissa.
+**Laurie Baker** works in digital services for Melissa. SEP, VA.gov, eBenefits. Has been with VA for 15 years, was on IT side, now OBI - working on eBenefits and SEP, then VEM pulled into VEO. A lot of work on the service side: identify services, enterprise military service, extensive background in services and enterprise database side. “Data Guru” according to Melissa.
 
 ## SEP beginnings
 
@@ -20,7 +20,7 @@ Now there’s a lot of outdated content. Education service hasn’t been updated
 
 ## SEP login and accounts
 
-VSOs can log in with PIV or[ ID.me](http://ID.me). It pings the OGC database to make sure they’re accredited. Input accreditation number - it checks to make sure I’m in the database.
+VSOs can log in with PIV or [ID.me](http://ID.me). It pings the OGC database to make sure they’re accredited. Input accreditation number - it checks to make sure I’m in the database.
 
 Indicates when you log in that you’re a VSO Rep. If you're a claims agent or attorney it calls that out too.
 
