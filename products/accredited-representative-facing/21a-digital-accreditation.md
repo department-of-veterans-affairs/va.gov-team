@@ -56,15 +56,16 @@ The below personas reflect the goals, pain points, and other information for _ac
     * SHOULD consider and mock the mobile experience
     * SHOULD strive for more plain language
     * SHOULD give more explanations around the questions about physical limitations (see IA feedback above)
-* Continue to update the staging site so that it matches OGC's desired fields and functionality.
+* Continue to update the staging site so that it matches OGC's desired fields and functionality. 
   * See [Figma v5 (Future version)](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1026-23089&t=luaHQGKRIHwSK1V0-1) for the latest round of applied feedback.
-  * Tickets capturing these changes compared to the current state can be found in the [project board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board?labels=arf-eng) and filtering by "Form 21a"
+  * Tickets capturing these changes compared to the current state can be found in the [project board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board?labels=arf-eng) and filtering by "Form 21a".
 * Continue to collaborate with the GCLAWS team to update the schema for successful 21a submission.
   * GCLAWS is the database that the digitized Form 21a will ultimately submit to. It is under OGC's technical umbrella outside of OCTO, and the GCLAWS team we interface with is in charge of creating the API endpoints the form will need to submit to.
   * This team primarily communicates via Teams inside the VA network, using the `Accreditation Portal (va.gov)` channel.
   * Inside that Teams channel is a shared file directory. An [Excel spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/OITSPMGCLAWS-VBAIntegrations/Shared%20Documents/Accreditation%20Portal%20(va.gov)/21a%20Design%20Feedback/v5/ARF%20-%20GCLAWS%20alignment%20spreadsheet%20v5%20%5Ball%20new%20requested%20fields%5D.xlsx?d=wced87ea864214601b2e9b2de165ab100&csf=1&web=1&e=wPkYjc) has been used to track field parity between systems during development. If you cannot access that Sharepoint link, it can be found in the Teams channel: `Accreditation Portal (va.gov) -> Files -> 21a Design Feedback -> v5`
 * Add schema validation to `vets-json-schema` for the vets-api controller before submission to GCLAWS
-* (Optional) Explore designs that would both benefit Form 21a and also have wider applicability across the design system. That includes elements discussed on the [Additional Designs to Explore Figma page](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1509-178160&t=sxPiNdXIgp6duXuI-1)page, including a progress bar (SLACK), enhanced card, navigating between steps, and more.
+* Design and build a dashboard from which applicants can return to see the status of their application and update information. See the [annotations about a dashboard in Step 10 of v5 designs](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1509-182262&t=DWVSpO8z40MZ9EYQ-1).
+* (Optional) Explore designs that would both benefit Form 21a and also have wider applicability across the design system. That includes elements discussed on the [Additional Designs to Explore Figma page](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1509-178160&t=sxPiNdXIgp6duXuI-1), including a progress bar (**SLACK**), enhanced card, navigating between steps, and more.
 * (Optional) Push some of the repeated patterns from this form back to the Forms Library for easier re-use by other teams. Candidates for re-usable patterns could include:
    * the "still [working/attending/living] here" checkboxes associated with date ranges
    * internationalPhone pattern
