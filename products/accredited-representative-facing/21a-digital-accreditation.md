@@ -32,6 +32,30 @@ The below personas reflect the goals, pain points, and other information for _ac
 * [Accredited claims agent persona](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433) (Mural) - Representation of what we know about claims agents based on secondary research (previous studies, conversations with OGC), and primary research conducted with claims agents in August 2024.
 
 ## Proposed next steps
+* Address Midpoint Review feedback (linked to from the [Collaboration Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879)). The ARF team took the v5 designs to Midpoint Review on 9/16/24. We have not incorporated the Midpoint Feedback into the v5 designs, but are summarizing the feedback here:
+  * [Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92899):
+    * SHOULD: Include mobile designs in the future 
+    * SHOULD: Use the [tile radio button component](https://design.va.gov/components/form/radio-button#tile) for the mailing address question
+  * [Information Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93069): 
+    * MUST open any links in a new tab and add text saying they will do so
+    * SHOULD: Give a visual cue that Veterans are in the wrong place (similar to the blue alert we have on [21-22 mocks](https://www.figma.com/design/LVCQBuW7a6nfVFNyhA4kv4/ARF---Form-21-22-Design-Explorations?node-id=854-146725&t=RqUG2a8vMUfxnfaI-1))
+    * In Step 6 specifically...
+        * SHOULD: Shorten the H3s
+        * SHOULD: Add missing heading on the [conditions or impairments](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1026-24112&t=nOYR6et7OrNqA16g-4) page
+          * (Note from ARF Design: as a rule of thumb, we only included H3s on a page if 1) there were multiple fields that were thematically grouped together and 2) they needed a header to make sense of them. An example would be "Employer address". You could understand a field on this page labeled "City," but you might not know _which_ city you should add without the "Mailing address" header. For pages that only had 1 field, we did not see a need for an H3. It's possible that we weren't consistent with this across the dozens of pages in the form. Future teams can assess if/when H3s seem appropriate. We suggest working with CAIA on this.)
+        * SHOULD: Add a note about if physical limitations will impact your application
+        * CONSIDER: Adding a warning about sensitive questions ahead of Step 6
+        * CONSIDER: Clarify language, or create two separate questions, for conditions/impairments pages. The [conditions or impairments](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1026-24112&t=nOYR6et7OrNqA16g-4). It combines substance use disorders and mental illness as potential factors to consider for fitness to serve.
+        * CONSIDER: Update disability and substance abuse disorder language on conditions/impairments pages. This section uses some out of date language around disability and substance abuse.
+  * [Content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93072):
+    * MUST: Use contractions
+    * MUST: Try to use plain language where possible
+  * [Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93097): 
+    * MUST code the custom header and footer in ways that are accessible 
+    * MUST make any H3 unique text (don't repeat the text below or on other pages)
+    * SHOULD consider and mock the mobile experience
+    * SHOULD strive for more plain language
+    * SHOULD give more explanations around the questions about physical limitations (see IA feedback above)
 * Continue to update the staging site so that it matches OGC's desired fields and functionality.
   * See [Figma v5 (Future version)](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1026-23089&t=luaHQGKRIHwSK1V0-1) for the latest round of applied feedback.
   * Tickets capturing these changes compared to the current state can be found in the [project board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board?labels=arf-eng) and filtering by "Form 21a"
