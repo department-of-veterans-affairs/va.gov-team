@@ -37,7 +37,7 @@ View our strategic roadmap for future developments and milestones, last updated 
 Below are some documents worth calling out specifically:
 
 - [Pilot Decision Record](https://docs.google.com/spreadsheets/d/1E4muMKOZJGPYe4vQGwmwj9_aViSun8wPq5PkZyT5bVM/edit?gid=0#gid=0)
-- Stakeholder Tracker (Sharepoint?) and [Rep Facing Stakeholder Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696447082781/01a5c0865df77c97693ac51b36a61a989c8f9fba?sender=u2a4240a640b257ce33545495) (Mural)
+- [Stakeholder Engagement Tracker](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EQgtn4jarAlBrIzHbxXaRnsBwyQxcNxleqUfl6QEAuaxTA?e=K8wCho) (Sharepoint) and [Rep Facing Stakeholder Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696447082781/01a5c0865df77c97693ac51b36a61a989c8f9fba?sender=u2a4240a640b257ce33545495) (Mural)
 - [ARP Team Jargon](/products/accredited-representative-facing/product-info/team-jargon.md)
 - [ARM glossary of terms and their definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/terminology-definitions.md) (Github; note that Accredited Representative Management [ARM] is our sister team that works on similar products, but for the Veteran-facing experience.)
 
