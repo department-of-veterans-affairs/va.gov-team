@@ -10,7 +10,9 @@ See the [VA Organigram](https://app.mural.co/t/departmentofveteransaffairs9999/m
 
 ## Mission
 
-Our mission is to create an accessible, modern, and secure online system for [Accredited Representatives](https://www.va.gov/resources/va-accredited-representative-faqs/). We aim to streamline the use of digital forms, providing a faster and smoother experience for both representatives and the Veterans they serve, ultimately improving the overall VA experience.
+Our mission is to create an accessible, modern, and secure online system for [Accredited Representatives](https://www.va.gov/resources/va-accredited-representative-faqs/). This system is called the Accredited Representative Portal (ARP). Through ARP, we aim to streamline the use of digital forms, providing a faster and smoother experience for both representatives and the Veterans they serve, ultimately improving the overall VA experience.
+
+Throughout the yearlong POP, we focused on 3 main features or workflows within ARP: [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md), [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md), and [contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md). Because it there were many exernal dependencies that dictaed which feature might be released first, we designed each of these feature separately, knowing that eventually they would be live together within ARP, along with other features like claims management. 
 
 ## Project Resources
 
