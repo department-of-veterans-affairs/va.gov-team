@@ -55,21 +55,26 @@
 
 - [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the APIs we hit I've found so far:
     ```
+    From vets-website:
+    GET /facilities_api/v1/ccp/provider?latitude=${latitude}&longitude=${longitude}&radius=${radius}&per_page=${perPage}&page=${page}&${bboxQuery}&${specialtiesQuery}&trim=true
+    GET /vaos/v2/epsApi/referralDetails?facilityId=${facilityId}&clinicId=${clinicId}&start=${startDate}&end=${endDate} (Not used yet, WIP feature)
+    GET /vaos/v2/epsApi/referralDetails/${referralId} (Not used yet, WIP feature)
+    From vets-api:
     GET/POST /vaos/v1/patients/#{user.icn}/appointments
-    GET/POST /vpg/v1/patients/#{user.icn}/appointments (Not used yet)
-    /my-health/medical-records/summaries-and-notes/visit-summary/#{sid} (returned to FE, not yet used)
+    GET/POST /vpg/v1/patients/#{user.icn}/appointments (Turned off via Flipper)
+    /my-health/medical-records/summaries-and-notes/visit-summary/#{sid} (Not used yet, WIP feature)
     GET/PUT /vaos/v1/patients/#{user.icn}/appointments/#{appointment_id}
-    GET/PUT /vpg/v1/patients/#{user.icn}/appointments/#{appointment_id} (Not used yet)
+    GET/PUT /vpg/v1/patients/#{user.icn}/appointments/#{appointment_id} (Turned off via Flipper)
     GET /vaos/v1/locations/#{station_id}/clinics
     GET /facilities/v2/scheduling/configurations
     GET /facilities/v2/facilities
     GET /facilities/v2/facilities/#{id}
     GET /ppms/v1/providers/#{id}
     GET /vaos/v1/patients/#{user.icn}/eligibility
-    GET /vpg/v1/patients/#{user.icn}/eligibility (Not used yet)
+    GET /vpg/v1/patients/#{user.icn}/eligibility (Turned off via Flipper)
     GET /vpg/v1/patients/#{user.icn}/relationships (I don't think we use this yet @cferris32?)
     GET /vaos/v1/locations/#{location_id}/clinics/#{clinic_id}/slots
-    GET /vpg/v1/slots (Not used yet)
+    GET /vpg/v1/slots (Turned off via Flipper)
     GET /cce/v1/patients/#{user.icn}/eligibility/#{service_type}
     GET /var/VeteranAppointmentRequestService/v4/rest/patient/ICN/#{user.icn}/preference (I don't think we use this PreferenceService @cferris32?)
     GET /users/v2/session/jwts
