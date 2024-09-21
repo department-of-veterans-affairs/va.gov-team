@@ -1,6 +1,7 @@
 # SEP Walkthrough Notes with CTO
 
 **Date:** December 8, 2023
+
 **[Link to recording](https://dvagov.sharepoint.com/:v:/s/vaabdvro/ETtSA993V8BJrmNL4YQsuhUB7l4DktQOoQ2pj5lZuacrBg?e=VdySI6)**
 
 ## Melissa and Laurie’s background
