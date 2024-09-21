@@ -8,3 +8,7 @@
 
 Additional research content: 
 - **VBMS walkthrough:** In August 2024, a VSO representative from Wounded Warrior Project walked us through how he uses VBMS. This was not part of a formal research effort and therefore not included in the table above, but it led to helpful insights. See the [VBMS walkthrough recording](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Ecu9_EgRZwpPgt7jd0l4j6kB8eClpSSvdQNGE3zyMaEeHA?e=quhspB) and [notes from the VBMS walkthrough](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/VBMS-walkthrough-notes.md).
+
+All of our research is also available in:
+- [VA Github Research Repository](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2?filterQuery=): Search 'VSOs label:"AUD: VSOs"'
+- [EnjoyHQ](https://app.enjoyhq.com/users/sign_in): All ARF research projects being with "Accredited Representative Portal". Ask [Janelle Finnerty](https://dsva.slack.com/team/U05ND2EMS9W) from the ARM team for EnjoyHQ login credentials.
