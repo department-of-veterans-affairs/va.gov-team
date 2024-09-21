@@ -37,6 +37,7 @@ Over the yearlong POP (September 2023-September 2024) the ARF team gathered info
 
 ### General
 
+* [VSO Current State/Future State Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1701101229797/15c7e1a5a9d426a998eb634408ff1dd3f4f9bdd1?sender=u2a4240a640b257ce33545495), which shows the current process of appointing a POA and the improvements we envision.
 * [Collaboration cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879) and [Midpoint review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1398)
 * [Pilot Decision Record (PDR)](https://docs.google.com/spreadsheets/d/1E4muMKOZJGPYe4vQGwmwj9_aViSun8wPq5PkZyT5bVM/edit?gid=0#gid=0) that documents some of our main decisions and why we made them. This file also contains decisions for other parts of ARP, but can be filtered to show decisions that are only relevant to 21-22.
 
