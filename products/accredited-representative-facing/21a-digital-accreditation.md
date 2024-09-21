@@ -32,7 +32,7 @@ The below personas reflect the goals, pain points, and other information for _ac
 * [Accredited claims agent persona](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433) (Mural) - Representation of what we know about claims agents based on secondary research (previous studies, conversations with OGC), and primary research conducted with claims agents in August 2024.
 
 ## Proposed next steps
-* Address Midpoint Review feedback (linked to from the [Collaboration Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879)). The ARF team took the v5 designs to Midpoint Review on 9/16/24. We have not incorporated the Midpoint Feedback into the v5 designs, but are summarizing the feedback here:
+* Address [Midpoint Review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1398) (linked to from the [Collaboration Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879)). The ARF team took the v5 designs to Midpoint Review on 9/16/24. We have not incorporated the Midpoint Feedback into the v5 designs, but are summarizing the feedback here:
   * [Design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92899):
     * SHOULD: Include mobile designs in the future 
     * SHOULD: Use the [tile radio button component](https://design.va.gov/components/form/radio-button#tile) for the mailing address question
