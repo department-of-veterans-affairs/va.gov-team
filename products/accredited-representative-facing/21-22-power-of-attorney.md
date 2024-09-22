@@ -6,7 +6,7 @@ Many Veterans struggle to navigate the VA claims process, or want someone to hel
 
 To work with an VSO representative, a Veteran must grant them power of attorney via [Form 21-22](https://www.va.gov/find-forms/about-form-21-22/). A VSO will then approve the power of attorney (POA) and gain access to the Veteran’s or claimant’s VA records. 
 
-As shown in the [VSO Current State/Future State Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1701101229797/15c7e1a5a9d426a998eb634408ff1dd3f4f9bdd1?sender=u2a4240a640b257ce33545495), a VSO can accept Form 21-22 via [QuickSubmit](https://eauth.va.gov/accessva/?cspSelectFor=quicksubmit) (for physical/paper copies) or the Stakeholder Enterprise Platform (SEP, for digital forms submitted via eBenefits). Once a rep accepts a request in SEP, they are granted more-or-less instant access to a VA tool called VBMS, which lets the rep review the Veteran’s record and find evidence to support a claim submission. See an [older but comprehensive map](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/benefits-intake-api/Benefits%20Intake%20Product%20Outline.md) of how data flows from the Veteran through VA systems from the Benefits Intake API team. 
+As shown in the [VSO Current State/Future State Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1701101229797/15c7e1a5a9d426a998eb634408ff1dd3f4f9bdd1?sender=u2a4240a640b257ce33545495), a VSO can accept Form 21-22 via [QuickSubmit](https://eauth.va.gov/accessva/?cspSelectFor=quicksubmit) (for physical/paper copies) or the Stakeholder Enterprise Platform (SEP, for digital forms submitted via eBenefits). Once a rep accepts a request in SEP, they are granted more-or-less instant access to a VA tool called VBMS, which lets the rep review the Veteran’s record and find evidence to support a claim submission. 
 
 There are a few pain points with the above flow: QuickSubmit is not “quick,” as it takes hours or days for 21-22 forms to get processed. Furthermore, SEP will be sunset in a few years, leaving reps without a way to accept digital 21-22 forms. 
 
@@ -41,7 +41,12 @@ Over the yearlong POP (September 2023-September 2024) the ARF team gathered info
 * [Collaboration cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879) and [Midpoint review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1398)
 * [Pilot Decision Record (PDR)](https://docs.google.com/spreadsheets/d/1E4muMKOZJGPYe4vQGwmwj9_aViSun8wPq5PkZyT5bVM/edit?gid=0#gid=0) that documents some of our main decisions and why we made them. This file also contains decisions for other parts of ARP, but can be filtered to show decisions that are only relevant to 21-22.
 
-### Design 
+### Data flow
+
+* [Older but comprehensive map](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/benefits-intake-api/Benefits%20Intake%20Product%20Outline.md) of how data flows from the Veteran through VA systems from the Benefits Intake API team. 
+* [Lighthouse Claims API POA Future System Diagram](https://lucid.app/lucidchart/cdc067c7-0300-4fb8-af4d-09d6facf6194/view?page=SPiqDHIZuCjf#)
+
+### Design/UI
 
 * [21-22/Power of Attorney Figma file](https://www.figma.com/design/LVCQBuW7a6nfVFNyhA4kv4/ARF---Form-21-22-Design-Explorations?node-id=1-6972&t=Pmz1Cpj7Bff37htN-1). See the “About this file” page within the Figma file for more information about what the Figma file contains. Other Figma files for this work stream include: 
     * [April 2024 usability test (single-accredited VSOs)](https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=2381-578614&t=MGt4Iy9MKogycPkS-1)
