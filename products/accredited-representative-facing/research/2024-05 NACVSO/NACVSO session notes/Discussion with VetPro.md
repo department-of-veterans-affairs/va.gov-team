@@ -1,5 +1,11 @@
 # Discussion with VetPro
 
+_Note: ARF has located some older interviews, unrelated to NACVSO, that may provide additional information and context on third party tools:_
+- _[September 2029 interview with VetraSpec](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/teams/benefits-team/Research/External/2019%20Benefits%20Intake/benefitsintakeVetraSpec.md) (Github)_
+- _[September 2029 interview with VetPro](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/teams/benefits-team/Research/External/2019%20Benefits%20Intake/benefitsintakeVetPro.md)_
+
+---------
+
 Some notes from chatting with Jeff, the CEO of VetPro:
 * He met with Charles Worthington a few years back and is interested in licensing or even selling VetPro to VA. He would love to partner with VA more.
 * They are working on POA auto-establishment and will be piloting with some CVSOs soon, but they are waiting on permissions from Lighthouse and/or others at VA.
