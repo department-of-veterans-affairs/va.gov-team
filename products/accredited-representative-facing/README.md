@@ -1,4 +1,4 @@
-# Accredited Representative Facing (ARF)
+# Accredited Representative-Facing (ARF) Team
 
 ## About ARF
 
@@ -12,9 +12,7 @@ Our mission is to create an accessible, modern, and secure online system for [Ac
 
 Throughout the yearlong POP, we focused on 3 main features or work streams within ARP: [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md), [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md), and [contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md). Because there were many external dependencies that influenced which feature(s) might be released first, we designed each of these features separately, knowing that eventually they would live together within ARP, along with other features like claims management. 
 
-## Project Resources
-
-### Where to find our work
+## Where to find our work
 
 - [Accredited Representative-Facing **Github repo**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing) (this repo)
 - [Accredited Representative Facing **Sharepoint folder**](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing?csf=1&web=1&e=nBcDcq) with the Benefits Portfolio Sharepoint
@@ -24,21 +22,9 @@ Throughout the yearlong POP, we focused on 3 main features or work streams withi
 - [#benefits-representative-facing OCTO **Slack channel**](https://dsva.slack.com/archives/C05SUUM4GAW)
 - [**Google Drive folder**](https://drive.google.com/drive/folders/0AHtMEJhzWhvjUk9PVA) (requires permissions request)
 
-### Understanding our work
-
-The paragraphs below give an overview of each of our main workstreams. In addition, the below files may be helpful in understanding our work and how we created it:
-
-- [Accredited Representatives](https://www.va.gov/resources/va-accredited-representative-faqs/) (VA.gov)
-- [ARP Team Jargon](/products/accredited-representative-facing/product-info/team-jargon.md) (Github)
-- [ARM glossary of terms and their definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/terminology-definitions.md) (Github; note that Accredited Representative Management [ARM] is our sister team that works on similar products, but for the Veteran-facing experience)
-- Personas (Mural):
-  - [VSO representatives](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u8cf3f08a008c2b61ad621433)
-  - [Accredited attorneys](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717533456497/60064424f651818203ff49ac43d6fb9f0f2bccac?sender=u8cf3f08a008c2b61ad621433)
-  - [Accredited claims agents](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433)
-- [ARF Team Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720019177037/1918bcb5dac0dab8a8103395aef7c9ddb347d6e6?sender=u2a4240a640b257ce33545495) (Mural; last updated in July 2024) 
- - [Pilot Decision Record](https://docs.google.com/spreadsheets/d/1E4muMKOZJGPYe4vQGwmwj9_aViSun8wPq5PkZyT5bVM/edit?gid=0#gid=0) (**update to Sharepoint**)
-
 ## Primary work streams
+
+The paragraphs below summarize our 3 main work streams. Proposed next steps for each are included in the pages linked to at the end of each summary.
 
 ### Form 21a digitization (representative accreditation)
 Before attorneys or claims agents can help Veterans with claims, they need to become accredited through VA. To become accredited, they need to submit Form 21a, which the Office of General Counsel (OGC) uses to verify the applicant’s credentials and reputation. Claims agents then need to complete a written test verifying they have sufficient knowledge of the claims process.
@@ -52,6 +38,20 @@ ARF spent the most time working on this work stream, but eventually broadened ou
 
 ### Contact information updates for accredited representatives
 Veterans and others can access information about accredited representatives (i.e. VSOs, attorneys, claims agents) on the Find a Rep tool and the OGC Accreditation Search. The information on these tools is often out of date. Updating contact information is a highly manual process managed by the Office of General Counsel (OGC). ARF designed a feature for the portal that we believe will be more efficient for both representatives and OGC, leading to more reliable information for Veterans. ARF began this process and documented next steps and relevant resources on the [Contact information updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md) page.
+
+## Understanding our work
+
+In addition to the above content, the below files may be helpful in understanding our work and how we created it:
+
+- [Accredited Representatives FAQ](https://www.va.gov/resources/va-accredited-representative-faqs/) (VA.gov)
+- [ARP Team Jargon](/products/accredited-representative-facing/product-info/team-jargon.md) (Github)
+- [ARM glossary of terms and their definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/terminology-definitions.md) (Github; note that Accredited Representative Management [ARM] is our sister team that works on similar products, but for the Veteran-facing experience)
+- ARF personas (Mural):
+  - [VSO representatives](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u8cf3f08a008c2b61ad621433)
+  - [Accredited attorneys](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717533456497/60064424f651818203ff49ac43d6fb9f0f2bccac?sender=u8cf3f08a008c2b61ad621433)
+  - [Accredited claims agents](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433)
+- [ARF Team Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720019177037/1918bcb5dac0dab8a8103395aef7c9ddb347d6e6?sender=u2a4240a640b257ce33545495) (Mural; last updated in July 2024) 
+- [ARF Pilot Decision Record](https://docs.google.com/spreadsheets/d/1E4muMKOZJGPYe4vQGwmwj9_aViSun8wPq5PkZyT5bVM/edit?gid=0#gid=0) (**update to Sharepoint**)
 
 ## The Team
 
