@@ -182,8 +182,8 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 - Decrease in Veteran usage of VA digital services, specifically PCI.
 - Decrease in Veteran satisfaction with VA digital services, i.e., value of eCheck-in and/or frustration as a result of constant changes that lower its value to Veterans.
-- Increase in wait time for Veterans to check in at clinics. And, average amount of time it takes to check a Veterans in, including eCheck-in and in person. 
-- Decrease in ease of access to checking in and inclusivity, e.g., Veterans with mobility challenges.
+- Increase in wait time for Veterans to check in at clinics. And, average amount of time it takes to check Veterans in, including eCheck-in and in person check in. 
+- Decrease in ease of access to checking in for an appointment and inclusivity, e.g., Veterans with mobility or vision challenges don't want to wait in line.
 - Negative impact on satisfaction for Veterans and staff at operationally high-performing clinics. 
 
 ### Go-to-market strategy 
