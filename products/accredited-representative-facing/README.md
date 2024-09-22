@@ -14,13 +14,13 @@ Throughout the yearlong POP, we focused on 3 main features or work streams withi
 
 ## Where to find our work
 
-- [Accredited Representative-Facing **Github repo**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing) (this repo)
-- [Accredited Representative Facing **Sharepoint folder**](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing?csf=1&web=1&e=nBcDcq) with the Benefits Portfolio Sharepoint
-- [Accredited Representative Facing Team **Zenhub board**](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board)
-- [Accredited Rep Facing **Mural folder**](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=ec617166-2771-4165-a134-39e239f3a045)
-- [Accredited Representative **Figma project**](https://www.figma.com/files/team/1278375444205744118/project/176208173/Accredited-Representatives?fuid=1142566432181786950) (shared with our sister team, ARM)
-- [#benefits-representative-facing OCTO **Slack channel**](https://dsva.slack.com/archives/C05SUUM4GAW)
-- [**Google Drive folder**](https://drive.google.com/drive/folders/0AHtMEJhzWhvjUk9PVA) (requires permissions request)
+- [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW) OCTO Slack channel
+- [Github repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing) (this repo)
+- [Sharepoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing?csf=1&web=1&e=nBcDcq) within the Benefits Portfolio Sharepoint
+- [Zenhub board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board)
+- [Mural folder](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=ec617166-2771-4165-a134-39e239f3a045)
+- [Figma project](https://www.figma.com/files/team/1278375444205744118/project/176208173/Accredited-Representatives?fuid=1142566432181786950) (shared with our sister team, ARM)
+- [Google Drive folder](https://drive.google.com/drive/folders/0AHtMEJhzWhvjUk9PVA) (requires permissions request)
 
 ## Primary work streams
 
