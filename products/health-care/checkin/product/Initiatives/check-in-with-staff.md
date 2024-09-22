@@ -166,7 +166,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 - A feature of the eCheck-in application that will be tested and researched at an initial small scale with the possibility of national expansion.
 - eCheck-in will include a maximum of 5 steps for Veterans to complete, which are variable based on the status of their demographics flag in VistA and Insurance Capture Buffer (ICB). The 5 steps include health insurance check (that happens as a background process prior to authenticating in to eCheck-in), demographics check, option for filing a travel reimbursement claim, online check in, and going to a clinic MSA or clinician to check in face-to-face. (However, we won't be able to track and measure the 5th step.) 
-- If a Veteran does complete online check in within eCheck-in, E-CHECK-IN status will still be set to COMPLETE in VSE-GUI and VSE-CS.
+- If a Veteran does complete online check in within eCheck-in, E-CHECK-IN status will still be set to COMPLETE in VSE-GUI and VSE-CS. (No change from existing functionality in PCI.)
 - The biggest Veteran-facing and process change for this initiative is telling the Veteran to check in with staff at the clinic to complete "online check in." (For example, there might be less of an emphasis on asking "Have you arrived at the facility," compared to telling Veterans to "Go to %CLINIC_NAME% at %PHYSICAL_LOCATION% and check in with an MSA to let them know you've arrived." 
 
 #### What's not changing 
