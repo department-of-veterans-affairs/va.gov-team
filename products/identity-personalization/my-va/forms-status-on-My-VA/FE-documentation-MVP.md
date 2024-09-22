@@ -1,5 +1,5 @@
 # Forms Status on My VA MVP Frontend Documentation
-- Last updated: September 20, 2024 - added PDF cannot be generated scenario, called out link types as components 
+- Last updated: September 22, 2024 - added PDF cannot be generated scenario, called out link types as components 
 - Updated: September 18, 2024 - added VA Form 20-10206 Request personal records to the list for MVP (TB)
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
@@ -409,5 +409,9 @@ We’re working on this part of My VA. During this time, you won’t be able to 
 
 ## PDF cannot be generated
 
-If it is detectaed that a PDF cannot be generated at page load, the link will not appear on the form card(s). If it cannot generate but the link is visible, a browser-based error will appear (this is slated to be addressed in a future enhancement). 
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2107-27599&t=xjD6hDcxAO3klDmb-1)
+
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2107-42621&t=xjD6hDcxAO3klDmb-1)
+
+If it is detectaed that a PDF cannot be generated at page load, the link will not appear on the form card(s). If it cannot generate but the link is visible, a browser-based error will appear (this is slated to be addressed in a future enhancement). All other content on the card will remain the same for that status type (Received, etc.).
 
