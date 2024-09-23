@@ -1,4 +1,4 @@
-# My VA Forms Status: QA Artifacts 
+# My VA Forms Status: QA Strategy & Artifacts 
 **Last Updated: Sept 23, 2024 - first published**
 
 ## Test Scenarios
