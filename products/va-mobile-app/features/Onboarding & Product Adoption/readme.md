@@ -1,5 +1,4 @@
 # VA Mobile App - Onboarding & Product Adoption
-Lorem ipsum
 
 ### Product
 * Product Adoption Project Kickoff [pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Onboarding%20%26%20Product%20Adoption/product/VA%20Mobile%20App%20-%20Product%20Adoption%20-%20Project%20Kickoff%202024.pdf)  | [slides](https://docs.google.com/presentation/d/1OzZS-9leGTi53GU_Xj2oWGOE9KZAychjjoaxtv6Y270/edit#slide=id.g25f0dea14fc_1_74) 
