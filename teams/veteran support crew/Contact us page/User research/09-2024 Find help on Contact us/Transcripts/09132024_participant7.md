@@ -444,6 +444,4 @@ Becky: Yeah. All right.
 
 Becky: Do you have any final questions for me or any thoughts about this, this whole research process that, you know, I can share with my team, anything like that?
 
-> P7: Do you have any final questions for me or any thoughts about this, this whole research process that, you know, I can share with my team, anything like that?
-
 > P7: I hope you need to make, you know, some, some positive change in the way that things are done to make it easier on us Veterans. And I appreciate what you're doing.
