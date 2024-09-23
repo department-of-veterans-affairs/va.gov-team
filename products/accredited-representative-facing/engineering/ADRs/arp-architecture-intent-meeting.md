@@ -88,7 +88,7 @@ As of this document's writing, the ARF Team's Form21a application has yet to und
 ### Does the project introduce any new or unusual infrastructure dependencies?
 
 - **Representative User Sign-in**
-  This project required implementing a separate sign-in flow for representative users, which involved extensive collaboration with the Identity Team for approval and execution.
+  This project required implementing a separate sign-in flow for representative users, which involved extensive [collaboration with the Identity Team](https://dsva.slack.com/archives/C06NBCMA7LL) for approval and execution.
   - [ADR on Representative User Sign-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/using-sign-in-service.md)
   - Sign-in flow diagrams and approval details are available [here](https://dsva.slack.com/docs/T03FECE8V/F07GUSS5CTF).
   - The core implementation is managed through the [RepresentativeUsersController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/representative_users_controller.rb) and [RepresentativeUserLoader](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/services/accredited_representative_portal/representative_user_loader.rb), which sets the `current_user` to the ARP user. The full implementation details can be found in the [Pull Request](https://github.com/department-of-veterans-affairs/vets-api/pull/15944/files).
