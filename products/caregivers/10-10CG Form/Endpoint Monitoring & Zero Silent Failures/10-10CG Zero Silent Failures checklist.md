@@ -21,7 +21,7 @@
     * [Lighthouse Benefits Intake API](https://developer.va.gov/explore/api/benefits-intake/docs) / Central Mail
     * [Lighthouse Decision Reviews](https://developer.va.gov/explore/api/decision-reviews/docs?version=current)
     * [EVSS Document Upload](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/evss.md)
->* ANSWER NEEDED - maybe BGS?  Need to find out for sure (representative document upload)
+>* No, we are not using the APIs listed above
 
 * Does your application submit to an API that relies on Sidekiq (or another background job processor)?
 >* Yes
