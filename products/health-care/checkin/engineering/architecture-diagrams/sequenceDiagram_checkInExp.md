@@ -306,6 +306,7 @@ sequenceDiagram
     participant api as vets-api
     participant l as LoROTA
     participant c as CHIP
+    participant btsss as BTSSS
     participant va as VistA API
     participant cw as Clinician Workflow
 
@@ -319,6 +320,9 @@ sequenceDiagram
         c--)-api: response
         api--)-web: response
     end
+    web->>+api: POST /travel_claims
+    note right of web: see Check In - Travel Claims
+    api--)-web: 202 Accepted
     web->>+api: POST /check-in
     api->>+c: check-in
     c->>+l: get appointment
@@ -338,3 +342,7 @@ sequenceDiagram
     web--)-vet: successful checked in page
     deactivate vet
 ```
+
+### Check In - Travel Claims
+This diagram shows the sequence of submitting travel claims to BTSSS as part of check-in steps, as well as checking the status of the claim through BTSSS in case of timeouts.
+
