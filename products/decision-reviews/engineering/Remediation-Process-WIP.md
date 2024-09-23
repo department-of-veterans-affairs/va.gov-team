@@ -78,6 +78,11 @@ There are a couple of approaches that vary in loading time:
 ## Current Remediation Process [WIP]
 *“The general guidance is that if the error occurred within 2 weeks, we can manually resubmit or have the contact center reach out. If it's been more than 2 weeks, then we need to work with BVA or VBA to notify the Veteran.”*
 
+Key:
+- **[??]** = Open question
+- **[TEMP]** = Current process, but only meant to be a temporary measure
+- **[TBD]** = Unconfirmed process/idea, subject to change
+
 ### HLR / SC / NOD Form error (VA.gov <> Lighthouse)
 - Has it been more than 2 weeks since they tried submitting?
   - Yes
@@ -86,44 +91,79 @@ There are a couple of approaches that vary in loading time:
     - Is the InProgressForm still available?
       - Yes
         - Reach out to Veteran to ask them to resubmit
-        - [??] If part of their data reached LH already, do we need to let downstream teams know that there will be a duplicate when the Veteran resubmits?
+          - [??] If part of their data reached LH already, do we need to let downstream teams know that there will be a duplicate when the Veteran resubmits?
       - No
         - Is there a SavedClaim with the original form data?
           - Yes
-            - [TBD] What is the process to submit their form data to Lighthouse on their behalf?
+            - **[TBD]** Our team manually submits form data to Lighthouse?
+              - **[??]** What is the process to submit form data (from a SavedClaim) to Lighthouse on their behalf?
           - No
-            - [TBD] Remediation with VBA/BVA?
+            - **[TBD]** Remediation with VBA/BVA?
 
 ### HLR / SC / NOD Form error (downstream of Lighthouse)
 - No current process other than having VBA/BVA remediate
   - One option could be reaching out to the Veteran and have them mail it in? (Automated email and/or link to PDF on confirmation page could satisfy this error case) 
-    - [TODO] Figure out how to make sure the form is dated correctly for this
+    - **[??]** How do we make sure the form is dated correctly? (i.e. How do we account for the delay between when they submitted on VA.gov and when submit through mail?)
    
 ### Evidence upload to Lighthouse error (Sidekiq job error)
 - Has it been more than 2 weeks since they tried submitting?
   - Yes
-    - Remediation with VBA/BVA?
+    - **[TBD]** Remediation with VBA/BVA?
   - No
     - Is there a way for us to tie the evidence back to its form submission? (via SavedClaim?)
       - Yes
-        - [??] Our job retries should be handling any transient errors but if needed, should we re-run the job and upload to Lighthouse ourselves?
+        - **[??]** Our job retries should be handling any transient errors but if needed, should we re-run the job and upload to Lighthouse ourselves?
       - No
         - Do we know what the filename is? 
           - (Not sure if this is necessary, even if we don’t know, we might be able to ask them to mail in all the evidence they wanted to include)
-          - Ask Veteran to mail in evidence?
+          - **[TBD]** Ask Veteran to mail in evidence
          
 ### Evidence error (downstream)
 - Has it been more than 2 weeks since they tried submitting?
   - Yes
-    - Remediation with VBA/BVA?
+    - **[TBD]** Remediation with VBA/BVA?
   - No
     - Do we have the file upload available in S3 and is it valid to send downstream? (i.e. not all blank, not password protected, etc)?
       - Yes
-        - Can we try to re-upload on our own? Will we encounter the same error? Do we need to talk to downstream teams about adjusting validation logic?
-        - Currently we are still defaulting to reaching out to the Veteran even though technically their upload should have made it through
-          - Should we contact downstream teams to let it through? (This has happened recently where Shaun handled the manual process)
+        - **[??]** Can we try to re-upload on our own? Will we encounter the same error? Do we need to talk to downstream teams about adjusting validation logic?
+        - Currently we are still defaulting to reaching out to the Veteran even if their upload should have made it through 
+          - **[??]** Should we contact downstream teams to force it through? (This has happened recently where Shaun handled the manual process)
       - No
-        - Reach out to the Veteran and ask them to mail it (If not automated notification, have Contact Center handle comms)
+        - **[TEMP]** Have Contact Center reach out to the Veteran and ask them to mail it
+          - *Incoming feature to automate this email notification to the Veteran*
+         
+### [Temporary Process] - Working with Contact Center for Remediations
+
+As we work to develop a feature to automatically email a Veteran when there is an error with their submission that occurs downstream, we are leaning on the Contact Center to help us reach out to Veterans to let them know that we have discovered an issue with their form and/or evidence submission and ask them to mail it in. 
+
+To start the process, you can send a message to `@Kimberley Monroe-Daniels` in `#vsp-contact-center-support` on DSVA Slack and let her know how many Veterans you'll need to reach out to. Then in Citrix/AVD, you can send an **encrypted** email from your VA account to her VA email with all the data she'll need (see below). Slack threads for examples/context: [1](https://dsva.slack.com/archives/CNCEXNXK4/p1725554752348139), [2](https://dsva.slack.com/archives/CNCEXNXK4/p1725911149052749), [3](https://dsva.slack.com/archives/CNCEXNXK4/p1726597104617239).
+ 
+
+#### Data to send to Contact Center
+- Veteran/Submission Info
+- Veteran ICN
+- Date of submission
+- If evidence error, provide the Obfuscated/masked filename (first 3 letters, last 2 letters, file extension and special characters like underscores are also okay — basically follow what 526 did for their obfuscation)
+- Mailing/Fax Info
+  - For **Notice of Disagreement** submission:
+
+    > Board of Veterans’ Appeals \
+    > PO Box 27063 \
+    > Washington, D.C. 20038
+    > 
+    > You can also fax it to 844-678-8979.
+
+  - For **Supplemental Claim** submission:
+
+    > Department of Veterans Affairs \
+    > Claims Intake Center \
+    > PO Box 4444 \
+    > Janesville, WI 53547-4444
+
+- Email Content (Just an example, can be modified as needed)
+
+  > “Unfortunately, we were unable to process and attach a piece of evidence to your [Supplemental Claim / Notice of Disagreement] that you submitted on [Date of Submission]. We want to make sure that your submission is evaluated with all of the evidence you intended to include, so we are requesting that you mail it to: [insert mailing address for appropriate form] or you can fax it to: [fax number for appropriate form]. The PDF filename is below and may be masked to hide possible sensitive information, but you should be able to identify which piece of evidence we are referring to:
+[Masked filename, minus first 3 and last 2 letters].pdf”
 
 
 
