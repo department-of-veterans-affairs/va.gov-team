@@ -77,7 +77,7 @@ If you answered yes to any of these questions then go through the following [che
 * [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
   * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
 >   * Only onscreen errors are present for CG including immediate submissions failures
->   * Retry failures - Our team would follow the formal [Ultimate Failure process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) (written with the Caregiver business stakeholders) to gather user data, notify CG team who will then notify the Veteran/Caregiver
+>   * Retry failures - When the MuleSoft system is not available at submission, the submission is retried for up to 24 hours.  If MuleSoft continues to be unavailable and the submission exhausts retries, the 10-10 Health Apps team would follow the formal [Ultimate Failure process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) (written with the Caregiver business stakeholders) to gather user data, notify CG team who will then notify the Veteran/Caregiver directly, and assist them with their application.
 >        * This is also accounted for within the [Endpoint Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20%26%20Zero%20Silent%20Failures/10-10CG%20Monitor%20Playbook.md)
 
 #### Documentation
