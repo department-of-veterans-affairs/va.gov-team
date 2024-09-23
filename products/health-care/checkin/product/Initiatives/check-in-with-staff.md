@@ -113,19 +113,19 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 #### Ease of use
 
 - At least 75% conversion rate of eCheck-in. | Create Explore Report in GA4 with custom GA Events
-- Decrease in time spent with Veterans during check in at the clinic who have completed eCheck-in; according to in-person semi-structured interviews with MSAs and clinical staff. E.g., are staff asking pre-registration questions again? 
+- Decrease in time spent with Veterans during check in at the clinic who have completed eCheck-in, and speficially, what percentage of MSAs are re-asking pre-registration questions; according to in-person semi-structured interviews with MSAs and clinical staff. 
   
 #### Service completion
 
-- Decrease in canceled or missed appointments from Veterans with eCheck-in completed; to be collected in scheduled facility and IVC feedback sessions. (Is there an IVC report for this now?)
+- Decrease in canceled or missed appointments from Veterans with eCheck-in completed; to be collected in scheduled facility and IVC feedback sessions **or** is there an existing IVC report for these numbers? 
 - Decrease in number of occasions MSAs or clinicians spend time locating a Veteran who has completed eCheck-in, but is not in the clinic waiting room; to be collected in scheduled facility and IVC feedback sessions. 
 
 #### Trust and satisfaction
 
 ##### - Quantitative
 
-- Decrease in mentions (at participating clinics) from Veterans of clinic staff not using PCI and challenges with finding their appointment's clinic after completing online check in, according to VSignals reports. | [VSignals Veteran Feedback Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals/2024)
-- At least 3.75 SUS, according to in-person user acceptance testing (UAT), i.e., Veterans. (% of 4 and 5's)
+- Decrease in mentions (at participating clinics) from Veterans of clinic staff not using PCI and challenges with finding their appointment's clinic after completing online check in, according to VSignals reports. (Should be low volume due to go-to-market strategy.) | [VSignals Veteran Feedback Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals/2024)
+- At least same percentage of 4 and 5 System Usability Scores compared to CSAT scores, according to in-person user acceptance testing (UAT), i.e., Veterans.
 - Increase in employee satisfaction towards PCI, according to in-person semi-structured interviews with MSAs and clinical staff. 
 
 ##### - Qualitative
@@ -189,9 +189,9 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 ### Go-to-market strategy 
 [//]: # (*What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*)
 
-- To avoid a negative impact on satisfaction for Veterans and staff at operationally high-performing clinics using eCheck-in, pilot this feature at a larger CBOC that has reported complaints about PCI to IVC. (CHANGE THIS.)
+- To gauge impact on the spectrum of PCI usage across clinics, pilot this feature at 1 CBOC that has reported complaints about PCI to IVC and 1 CBOC that has a higher utilization rate than other sites.
 - Required training for administrative and clinical staff on changes to PCI and their impact on clinic operations.
-- Researchers from PCI Veteran-facing Team and SPL Team to visit CBOC for in-person UAT with Veterans and semi-structured interviews with MSAs, clinic managers, clinicians using VSE-CS, and/or facility managers. Best to visit in the first week in order to capture observations the first time Veterans. 
+- Researchers from PCI Veteran-facing Team and SPL Team to visit CBOCs for in-person UAT with Veterans and semi-structured interviews with MSAs, clinic managers, clinicians using VSE-CS, and/or facility managers. Conduct in-person research during the start of the pilot in order to capture feedback during first encounters of this new step. I.e., otherwise, waiting too long could impact usage of PCI, which we want to avoid until we've collected enough feedback to understand its impact. 
 
 --- 
 
