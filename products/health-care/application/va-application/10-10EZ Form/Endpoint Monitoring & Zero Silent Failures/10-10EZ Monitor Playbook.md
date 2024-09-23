@@ -1,6 +1,9 @@
 # 10-10EZ Endpoint Monitoring Playbook
 _last updated: 09-17-2024_  
 
+## Overview
+- This document outlines the current monitors in effect for the 10-10EZ to ensure we capture errors, failures and potential patterns of inconsistent activity.  Each monitor has the steps listed to follow in addressing, triaging and implementing a solution, as well as notifying all required stakeholders.
+
 ## Audience 
 - Team members responding to [Datadog monitor alerts](https://vagov.ddog-gov.com/monitors/manage?q=1010ez&order=desc).
 
