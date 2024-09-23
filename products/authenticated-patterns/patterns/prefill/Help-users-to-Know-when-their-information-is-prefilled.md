@@ -40,7 +40,7 @@ This pattern involves these types of pages found in VA.gov forms:
 #### Unauthenticated introduction page
 [image example]
 
-Image caption:[Unauthenticated intro page alert on the introduction page.
+Image caption: Unauthenticated intro page alert on the introduction page.
 
 #### Authenticated introduction page
 ![Authenticated intro page alert on form introduction page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
@@ -73,7 +73,7 @@ This pattern communicates information that cannot be edited with:
 #### Communicate information that can be edited
 This pattern communicates information that can be edited with: 
 - **Editabled prefilled information displayed in a card with an edit link.** Displayed editable prefilled information editable in a card component with a link to edit the information. For guidance on helping users update prefilled information, see the ["Help users to... Know how their information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) patter. We're updating this pattern.
-- **Authenticated contextual alert.** Add this alert on pages that have editabled prefilled information.
+- **Authenticated contextual alert.** Add this alert on pages that have editable prefilled information.
 
 ### Components used in this pattern
 
