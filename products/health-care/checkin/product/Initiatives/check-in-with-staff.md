@@ -189,7 +189,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 ### Go-to-market strategy 
 [//]: # (*What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*)
 
-- To gauge impact on the spectrum of PCI usage across clinics, pilot this feature at 1 CBOC that has reported complaints about PCI to IVC and 1 CBOC that has a higher utilization rate than other sites.
+- To gauge impact on the spectrum of PCI usage across clinics, pilot this feature at 1 CBOC that has reported complaints about PCI to IVC and 1 CBOC that has a higher utilization rate of PCI than other sites.
 - Required training for administrative and clinical staff on changes to PCI and their impact on clinic operations.
 - Researchers from PCI Veteran-facing Team and SPL Team to visit CBOCs for in-person UAT with Veterans and semi-structured interviews with MSAs, clinic managers, clinicians using VSE-CS, and/or facility managers. Conduct in-person research during the start of the pilot in order to capture feedback during first encounters of this new step. I.e., otherwise, waiting too long could impact usage of PCI, which we want to avoid until we've collected enough feedback to understand its impact. 
 
