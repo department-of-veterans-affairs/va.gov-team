@@ -56,7 +56,7 @@
 | Board Appeals (new version) | LS-2024-0122945 | [Board appeals new](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/translation-work/State%20Department%20translation%20work/decision%20reviews/Board.Appeals%20New.docx) | CAIA | [75590](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75590) | Spanish | 7/29/24 | 8/12/24 | 8/12/24  |
 | Modernized Check-in Q2 2024 work | LS-2024-0122945 | Q2 2024 - Spanish_2024_08_08_17-20-25.pdf | Modernized Check-in | | Spanish | 8/8/24 | 8/22/24 | 8/16/24 | |
 | Sign-in fact sheet | LS-2024-0122945 | Guide for creating an account for VA.gov for translation | CAIA | | Spanish | 8/8/24 | 8/14/24 | 8/16/24 | |
-| Sign-in fact sheet | LS-2024-0122945 | Guide for creating an account for VA.gov for translation | CAIA | | Multiple languages | 8/8/24 | | | |
+| Sign-in fact sheet | LS-2024-0122945 | Guide for creating an account for VA.gov for translation | CAIA | | Multiple languages | 8/8/24 | |9/20/24 (Tagalog) | |
 | Sign-in fact sheet | LS-2024-0122945 | Secure sign-in transition fact sheet facilities with virtual health for translation | CAIA | | Spanish | 8/8/24 | 8/16/24 | 8/19/24 | |
 | Sign-in fact sheet | LS-2024-0122945 | Secure sign-in transition fact sheet facilities with virtual health for translation | CAIA | | Multiple languages | 8/8/24 | | | |
 | Modernized Check-in Q2 2024 work | LS-2024-0122945 | Q2 2024 - Tagalog_2024_08_09_14-13-17.pdf | Modernized Check-in | | Tagalog | 8/9/24 | 8/23/24 | 8/19/24 | 9/3/24 |
