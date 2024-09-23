@@ -17,7 +17,7 @@ Note: Be aware that there are also "copycat" injected headers such as https://ww
 | | VA.gov header & footer | Injected header/footer | 
 | --- | --- | --- |
 | Content | Sitewide Content Team | Sitewide Content Team |
-| Design & Research  | Sitewide Product Team | Sitewide Product Team |
+| Design & Research  | Sitewide Product Team in partnership with Design System Team | Sitewide Product Team in partnership with Design System Team |
 | Build & compiled presentation (including analytics) | Design System Team | Design System Team | 
 | Delivery | Design System Team - incl. anything visual, errors due to style or markup changes / introduction of components | Sitewide Product Team (via proxy-rewrite app) - incl. CORS errors, problems with injection, Drupal data structure errors in injection, or addition of new sites for injection | 
 
