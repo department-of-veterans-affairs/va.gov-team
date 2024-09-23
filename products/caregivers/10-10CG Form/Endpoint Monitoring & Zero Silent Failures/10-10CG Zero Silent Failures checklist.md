@@ -42,9 +42,9 @@ If you answered yes to any of these questions then go through the following [che
 
 #### Monitoring
 
-* [ ] Do you monitor the API that you submit to via Datadog? 
+* [x] Do you monitor the API that you submit to via Datadog? 
   * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
->   * Yes, we do monitor Mulesoft in the [10-10CG Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zcn-whk-r5h/1010-cg-vagov-performance?fromUser=false&refresh_mode=sliding&from_ts=1726692573245&to_ts=1726865373245&live=true)
+>   * Yes, we do monitor Mulesoft and file upload in the [10-10CG Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zcn-whk-r5h/1010-cg-vagov-performance?fromUser=false&refresh_mode=sliding&from_ts=1726692573245&to_ts=1726865373245&live=true)
 
 * [x] Does your Datadog monitoring use the appropriate tagging?
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
@@ -68,12 +68,12 @@ If you answered yes to any of these questions then go through the following [che
 
 * [ ] Have you filed issues for errors that are appearing in Datadog / Slack?
   * If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
->   * Team tickets are created for investigation and subsequent resolutions.  At this time, the 10-10CG does not have any silent failures. The 10-10 Health Apps team is notified on all failures and we have a process to ensure the Veteran is being contacted timely by the Health Enrollment Center staff to assist with their application.
+>   * Team tickets are created for investigation and subsequent resolutions.  At this time, the 10-10CG does not have any silent failures. The 10-10 Health Apps team is notified on all failures and we have a process to ensure the Veteran is being contacted timely by the Health Enrollment Center staff to assist with their application. (CONFIRMING THIS STATEMENT WITH CG STAKEHOLDERS)
 
 * [ ] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
   * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
 >   * Only onscreen errors are present for CG including immediate submissions failures
->   * Downstream Submission failures - TBD (CARMA and VA Notify?)
+>   * Downstream Submission failures - TBD (PENDING RESPONSE FROM CG STAKEHOLDERS) 
 >   * Retry failures - Our team would follow the formal [Ultimate Failure process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) (written with the Caregiver business stakeholders) to gather user data, notify CG team who will then notify the Veteran/Caregiver
 >        * This is also accounted for within the [Endpoint Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20%26%20Zero%20Silent%20Failures/10-10CG%20Monitor%20Playbook.md)
 
@@ -85,15 +85,15 @@ If you answered yes to any of these questions then go through the following [che
 
 * [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
->   * ANSWER NEEDED - check overview, may need an additional diagram
+>   * ANSWER NEEDED - check overview, may need an additional diagram (PENDING RESPONSE FROM CG STAKEHOLDERS) 
 
 * [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
   * Please document the outcome of this conversation in your product's documentation in Github.
->   * ANSWER NEEDED - no, need something from CG team
+>   * ANSWER NEEDED - no, need something from CG team (PENDING RESPONSE FROM CG STAKEHOLDERS) 
 
 #### User experience
 
 * [ ] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
   * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram). That diagram will help us to help you and your team to create this user experience.
->   * ANSWER NEEDED - no - need to confirm the downstream CARMA failures process.  
+>   * ANSWER NEEDED - no - need to confirm the downstream CARMA failures process.   (PENDING RESPONSE FROM CG STAKEHOLDERS) 
