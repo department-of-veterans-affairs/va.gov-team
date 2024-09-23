@@ -287,6 +287,8 @@ If not, then file Github issues to capture error categories following [this guid
 
 - [ ] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
 
+_Our [architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png) may suffice here and we may not need to diagram for each flow [RS]_
+
     - VA Direct Schedule Flow
         - [ ] Yes
         - [ ] No
