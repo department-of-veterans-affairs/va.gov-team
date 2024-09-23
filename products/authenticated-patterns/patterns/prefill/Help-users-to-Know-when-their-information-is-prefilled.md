@@ -32,12 +32,18 @@ View [Help users to... Update their prefilled information](#link to other patter
 
 ## How to design and build
 
-### Anatomy or layout details
-#### Alert on form introdcution page
-![Alert on form introdcution page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
+### Anatomy or layout details 
+
+The following...something something: 
+- Alert on form introduction page
+- Uneditable prefilled information on personal information pages
+- Editable prefilled information on information pages pages
+
+#### Alert on form introduction page
+![Alert on form introduction page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
 [Add image description]
 
-#### Uneditable prefilled information on personal informaiton pages
+#### Uneditable prefilled information on personal information pages
 ![Prefilled information on personal informaiton pages](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
 [Add image description]
 
