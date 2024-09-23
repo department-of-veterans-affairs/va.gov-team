@@ -23,7 +23,6 @@ All requests will be refined and planned according to other team priorities, so 
 Monitors for each product are described within product folders. e.g. 
 * [Find a Form monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md)
 * [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md)
-* Header (incl megamenu) and Footer, and
 * [Injected Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md)
 * [VA.gov search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/engineering/monitoring.md)
 
@@ -36,7 +35,7 @@ Monitors for each product are described within product folders. e.g.
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
 | [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Discharge upgrade wizard](#discharge-upgrade-wizard) | [Appeal Modernization Process](#appeal-modernization-process) |
-| [Benefits Detail Page](#benefits-detail-page) | [Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Disability rating calculator](#disability-rating-calculator) |
+| [Benefits Detail Page](#benefits-detail-page) |  | [Disability rating calculator](#disability-rating-calculator) |
 | [Campaign Landing Pages](#campaign-landing-pages-clp) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging) |
 | [Events List](#events-list) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
 | [Event](#event-detail-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
@@ -101,6 +100,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 </details>
 
 ## Changelog
+* 09/23/2024: Design System Team now owns the global Header and footer markup: https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
 * 07/2024: Design System team now owns the Veterans Crisis Line modal as a component: https://dsva.slack.com/archives/C06V7AAFVH7/p1721850350022329?thread_ts=1720203529.734199&cid=C06V7AAFVH7
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
 * 11/2023: [Breadcrumbs](#breadcrumbs) - Transitioned to CMS team as of Q4 2024, as a result of Accelerated Publishing work to manage Breadcrumbs for CMS-related content fully within the CMS
@@ -594,27 +594,17 @@ Some nuances: https://dsva.slack.com/archives/CT4GZBM8F/p1660937436605269
 
 ## Global header / footer (aka Mega-menu)
 
-**OWNERSHIP:** Will transition to the Design System team in 2024: https://dsva.slack.com/archives/C06V7AAFVH7/p1720203529734199
+**OWNERSHIP:** As of 9/23/24, Design System team owns the markup of the VA.gov header / footer and Injected header. Sitewide may still be involved in the following areas:  
+* Assistance with Drupal data feeding into the header / footer, unless / until DST gets Drupal access.
+* Design / Research for any major revisions to the header, given DST staffing
+
+https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
 
 **What is:**
 
 Product brief: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer
-Engineering notes: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/engineering
-
-VA.gov header and footer, within VA.gov context, including presentation of banners / alerts, and the Veterans Crisis Line modal.
-
-**Example content:**
-* URL: [https://www.va.gov/](https://www.va.gov/) 
-
-**More info:**
-* Mobile authed header: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/30626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30626)
-* Mobile unauthed header: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/30623](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30623) 
-
-
 
 ## Header / footer injection
-
-**OWNERSHIP:** Will transition to the Design System team in 2024: https://dsva.slack.com/archives/C06V7AAFVH7/p1720203529734199
 
 **What is:**
 
