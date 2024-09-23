@@ -12,7 +12,8 @@ Get Notifications for @ MentionsHuddle
 - Github vsa-debt-resolution team
 	- Get Derek to add you to [this team](https://github.com/orgs/department-of-veterans-affairs/teams/vsa-debt-resolution/)
 - Datadog 
-	- Delivery Manager to submit via DOTS 
+	- Delivery Manager to submit via DOTS
+  	- Derek to add you to DSVA Slack debt-alerts for notifications  
 - Sentry
 	- TODO
 - Sidekiq Admin UI
