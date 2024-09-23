@@ -11,7 +11,7 @@ For Veterans who have started their claim process since the new online paper syn
 - Increase the number of claims with file uploads vs. online for PTSD 
 
 ## Success criteria
--  
+-  As of January 2024, we are averaging 3.2k 0781/a successful uploads per month
 
 ## Resource materials
 - [Design specs](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=7355-119960&t=qKSlGlTXqNCK0gRW-4)
@@ -23,21 +23,21 @@ For Veterans who have started their claim process since the new online paper syn
 
 ## New Capabilities and Changes
 - 0781 Flipper https://github.com/department-of-veterans-affairs/va.gov-team/issues/92013 - canary rollout and production validation
-- Limit the new feature to only new claims https://github.com/department-of-veterans-affairs/va.gov-team/issues/92199 - claims starting after the release date
-- Direct users to the 0781 NEW Choice page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91930 - new content and link to the paper form
-- Direct users to the NEW upload page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91998 - new content and link to the paper form
-
+- Limit the new feature to only new claims https://github.com/department-of-veterans-affairs/va.gov-team/issues/92199 - these are claims started after the release date, claims that were in progress before the release would not see the new feature. 
 - Instead of asking the user two seprate choices for which form they would like to upload (example, onece for each of these): 
   - walkthrough-781-choice page
   - walkthrough-781a-choice page
     
   We'll ask once on one page.
-  
+  - NEW 0781 Choice page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91930 - new content and link to the paper form
+
 - Instead of asking the user to upload their form on two seprate pages(example, one for each of these): 
   - ptsd-781-upload page
   - ptsd-781a-upload page
  
-  We'll ask once on one page. 
+  We'll ask once on one page.     
+  - NEW 0781 upload page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91998 - new content and link to the paper form
+
 
 ## Risks
 
