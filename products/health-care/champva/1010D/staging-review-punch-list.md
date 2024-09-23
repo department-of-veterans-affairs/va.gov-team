@@ -19,10 +19,44 @@ These are tickets primarily representing engineering work considered necessary f
 See Platform guidance on [Staging Review artifacts](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Staging-review.1810137181.html#Stagingreview-Artifacts). Platform findings are based solely on the staging URL and test users provided, as reviewed during the four days before the Staging Review meeting. Any test cases not covered or any ongoing work taking place during the review period may not be reflected in those findings.
 
 **Product artifacts**
-- [x]  Staging URL
-  - [x] [10-10d Application For CHAMPVA Benefits | Veterans Affairs](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d)
+- [ ]  Staging URL
+  - [ ] [10-10d Application For CHAMPVA Benefits | Veterans Affairs](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d)
+  - [ ] Box will be checked when no other changes are expected
 - [ ]  Specify which pages are included in the review
-  - [ ] TODO: Full URL list
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/introduction
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/signer-type
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/signer-info
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/signer-mailing-address
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/signer-contact-info
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/signer-relationship
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/sponsor-info
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/sponsor-identification-info
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/sponsor-status
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/sponsor-status-date
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/sponsor-status-upload
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/sponsor-mailing-address
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/sponsor-contact-info
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-info
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-identification-info
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-mailing-address
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-contact-info
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-relationship
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-marriage
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-marriage-date
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-marriage-upload
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-remarriage
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-remarriage-date
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-remarriage-upload
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-remarriage-separation-date
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-remarriage-separation-upload
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-relationship-child
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-relationship-child-upload
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-dependent-status
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-dependent-upload
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-medicare
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-medicare-upload
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-other-insurance-status
+  - [ ] staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/applicant-other-insurance-upload
 - [ ]  Staging test user information
   - [ ] [Staging Test Accounts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv#L161)
   - [ ] TODO: Needs details on LOA levels
@@ -35,6 +69,7 @@ See Platform guidance on [Staging Review artifacts](https://depo-platform-docum
 
 **IA artifacts**
 - [ ] Please include a link to any [Sitewide CAIA](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/sitewide-caia-intake-request) feedback you received, including an IA review document or intake form.
+  - [ ] https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/champva-online-form.md
 
 **QA artifacts**
 An artifact that corresponds to each standard in the [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards).
@@ -48,11 +83,11 @@ An artifact that corresponds to each standard in the [QA Standards](https://dep
 - [x]  [E2E tests](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards#QAstandards-e2e-test-participationE2ETestParticipation) (provide a link to the product’s code)
   - [x] [Cypress tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ivc-champva/10-10D/tests/e2e/fixtures/data)
 - [ ]  [Code coverage](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards#QAstandards-unit-test-coverageUnitTestCoverage) (provide a link to the product’s code)
-  - [ ] TODO: Bo to get link from eng
+  - [ ] TODO
 
 ⠀**Accessibility artifacts**
 - [ ]  [Completed accessibility testing artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D). For details, see [Prepare for an accessibility staging review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review).
-  - [ ] TODO
+  - [ ] [a11y testing artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
 
 
 ## Tasks

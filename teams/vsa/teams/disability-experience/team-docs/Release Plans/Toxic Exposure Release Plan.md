@@ -43,8 +43,8 @@ See Appendix below for full milestone breakdown.
 | 2: Herbicides and hazards            | July 3, 2024 | Complete    | Delayed by 5103 FDC update 5/16/24 & bugs in submit endpoint |
 | 3: Launch preparation                | Jul 22, 2024 | In Progress | Original date of 6/18 shifted due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review                                                             |
 | 4: Migrate /getPDF and /submit to LH |              | In Progress |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning /getPDF migration, /getPDF and /submit and TE all behind the same FF. Delayed for Code Yellow(?) Awaiting validation issue fixes from LH. Currently testing E2E.                                                              |
-| 5: Rollout: New forms (1.0)                         | Aug 15 - Sept 11 | Not started |                                                               |
-| 6: Rollout Vets with an IPF (1.1)                  | Sept 12 - Oct 2 | Not started |Exact dates may change                                                              |
+| 5: Rollout: New forms (1.0)                         | Aug 28 - Sept 18 | Ready. No launch blockers. |                                                               |
+| 6: Rollout Vets with an IPF (1.1)                  | Sept 19 - Oct 1 | Not started |Exact dates may change                                                              |
 
 *Dates may vary
 
@@ -110,9 +110,9 @@ List the features toggles here.
 
 ## Step 2: Validation
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production).
+- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [x] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
     - [ ] review the release plan with your team and signoff
     - [ ] review the plan with your DEPO/OCTO representative and signoff
@@ -124,32 +124,34 @@ List the features toggles here.
 Toxic Exposure will be a staged rollout using the following traffic percentages for each stage: 5%/10%/25%/50%/75%/100%.
 
 ### Measuring Success Criteria
-To aid decision making, the team 1 determine if we should proceed to the next stage, the following criteria should be met
+To determine if we should proceed to the next stage, the following criteria should be met
 To understand the feasibility of proceeding to the next phase of the staged rollout, disability benefits Team 1 established will be looking at the following:
 
-- Sum of established submissions is roughly equivalent to the target count of submissions within the established time frame
-- The claim record is complete in VBMS
-- The generated pdf exists in the Veteran's eFolder
-- The information in the generated pdf is correct, i.e. it matches the submission record in VBMS
-- Count of 202 responses from LH matches the count of submission records in Vets-api database. This indicates a successful pdf generation for the submission and a claimId. When these numbers match it means success. Note: There's up to a 48 hour delay in pdf generation, and while a 202 response from Lighthouse indicates the service was reached, it's not an indicator that the pdf was generated, so we'll need to wait up to 48 hours for confirmation. Because of this lagging indicator, we'll want to allow up to a 48 hour waiting period during moderated production testing and canary testing to ensure success. 
+- Sum of established submissions is roughly equivalent to the target count of submissions within the established time frame (in DataDog [/submit dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&from_ts=1696167523150&to_ts=1698347918000&live=false))
+- The claim record is complete in VBMS (requires VBA help)
+- The generated pdf exists in the Veteran's eFolder (requires VBA help)
+- The information in the generated pdf is correct, i.e. it matches the submission record in VBMS (requires VBA help)
+- Count of 202 responses from LH matches the count of submission records in Vets-api database. This indicates a successful pdf generation for the submission and a claimId. When these numbers match it means success. Note: There's up to a 48 hour delay in pdf generation, and while a 202 response from Lighthouse indicates the service was reached, it's not an indicator that the pdf was generated, so we'll need to wait up to 48 hours for confirmation. Because of this lagging indicator, we'll want to allow up to a 48 hour waiting period during moderated production testing and canary testing to ensure success. (in DataDog [/submit dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&from_ts=1696167523150&to_ts=1698347918000&live=false))
 - Downstream services we'll be watching
-    - Lighthouse /ppiu (direct deposit) (GET)
-    - VA Profile (GET)
-    - VBMS
-    - Lighthouse /brd
-    - Lighthouse /submit (synchronous)
-    - Lighthouse /generatePdf
-    - vetsApi database
+    - Lighthouse /ppiu (direct deposit) (GET) (in DataDog [/ppiu dashboard](https://vagov.ddog-gov.com/dashboard/pfj-tf3-mb4/benefits---disability---526---evss-to-lh-ppiu-direct-deposit?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1724774364174&to_ts=1724776164174&live=true))
+    - VA Profile (GET) (we know people we can reach out to if we suspect issues)
+    - VBMS (we'll keep an eye on the OIT channel and we'll know based on the VBA review of the submitted claims in VBMS)
+    - Lighthouse /brd (in DataDog [/brd dashboard](https://vagov.ddog-gov.com/dashboard/n5i-sba-u52/benefits---disability---526---evss-to-lh-brd?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1724171481851&to_ts=1724776281851&live=true))
+    - Lighthouse /submit (synchronous) (in DataDog [/submit dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&from_ts=1696167523150&to_ts=1698347918000&live=false))
+    - Lighthouse /generatePdf (in DataDog [/submit dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&from_ts=1696167523150&to_ts=1698347918000&live=false))
+    - vetsApi database (in DataDog [form526 SQL performance dashboard (not ours)](https://vagov.ddog-gov.com/account/login?next=/dashboard/2xv-ax9-6sj/benefits---form526-sql-performance?fromUser%3Dfalse%26refresh_mode%3Dsliding%26view%3Dspans%26from_ts%3D1722189972798%26to_ts%3D1722362772798%26live%3Dtrue))
 
-### Open questions/needs:
-- Better understand how error responses differ between Lighthouse and VBMS
-- For a submission workload, determine with more specificity how to segment out which service(s) are failing
-- How to compare the generated pdf and the structured data of the submission. We may need a VSR or OCTO employee with appropriate access.
-- When GETs don't process, is it because of the service or because of us?
-- How can we determine Vets-api database is performing as required?
-- Will the Vets-api database be overwhelmed by read/write requests given that the 526 submission and Lighthouse use the same DB
-- What is the baseline level of performance for Vets-api database that we should know beforehand?
-- What are the Lighthouse error types and codes?
+### Questions/needs and Answers
+- Better understand how error responses differ between Lighthouse and VBMS (will be captured in this [ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90125) for retryable and non-retryable errors)
+- For a submission workload, determine with more specificity how to segment out which service(s) are failing (We can review logs in ApiProviderFactory in DD)
+- How to compare the generated pdf and the structured data of the submission. (We will need a VSR or OCTO employee with appropriate access.) 
+- When GETs don't process, is it because of the service or because of us? 
+- How can we determine Vets-api database is performing as required? (Monitor in DataDog [form526 SQL performance dashboard](https://vagov.ddog-gov.com/account/login?next=/dashboard/2xv-ax9-6sj/benefits---form526-sql-performance?fromUser%3Dfalse%26refresh_mode%3Dsliding%26view%3Dspans%26from_ts%3D1722189972798%26to_ts%3D1722362772798%26live%3Dtrue))
+- Will the Vets-api database be overwhelmed by read/write requests given that the 526 submission and Lighthouse use the same DB (monitor in DataDog [form526 SQL performance dashboard](https://vagov.ddog-gov.com/account/login?next=/dashboard/2xv-ax9-6sj/benefits---form526-sql-performance?fromUser%3Dfalse%26refresh_mode%3Dsliding%26view%3Dspans%26from_ts%3D1722189972798%26to_ts%3D1722362772798%26live%3Dtrue))
+- What is the baseline level of performance for Vets-api database that we should know beforehand? (we could ask Platform -- 1. What is a typical CPU spike during a traffic rush?
+2. What is the redundancy strategy for the database? (availability zones, replicas, load balanced, connections?) 
+3. What is the strategy for scaling the database? How long does it take?")
+- What are the Lighthouse error types and codes? (will be captured in this [ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90125) for retryable and non-retryable errors)
 
 
 ### Define the Rollback process
@@ -160,7 +162,7 @@ DBEX teams T-REX and Carbs and OCTO PO will monitor analytics. If something goes
 Due to the need to test against the production lightouse /submit endpoint, we'll be testing this feature in production behind a feature flag. To mitigate the risks of downstream actions that occur as a result of submitting an application for disability compensation, we'll work with our VBA stakeholders to delete the submission records in VBMS.
 
 #### Planning
-- Desired date range or test duration: Aug 9 & 12, 2024
+- Desired date range or test duration: Aug 16, 2024
 - Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in TestRail
 - How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test, could be ann (internal) Veteran
 - Submitting 6 full submissions could be done by less than 6 people
@@ -168,12 +170,24 @@ Due to the need to test against the production lightouse /submit endpoint, we'll
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Flipper [disability_526_toxic_exposure]
 
 #### Results
-- Number of users:
-- Number of bugs identified / fixed:
-- Was any downstream service affected by the change?:
+- Number of users: 6
+- Number of bugs identified / fixed: 61
+    - Identified a need for 2 new test cases (review & submit and BDD)
+    - Not a bug, but we identified a need for a flag to block generating new ITFs and preventing EP400 workloads
+- Was any downstream service affected by the change?: no
 - Types of errors logged:
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Backend:
+ - When Validating against the dataset we used for Moderated Production Testing, we logged 61 (2.3% error rate) validation errors in of four categories when calling LH /validate.
+    - Treatments/treated disabiliity names
+    - Separation location
+    - Mailing address
+    - Direct deposit
+- Frontend:
+  - Missing validations such as service period start and end dates (know
+
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: no
+- Nothing launch blocking, although missing FE validations might be something we have to consider
+
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
@@ -187,7 +201,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
         - Refer to [troubleshooting SOP document for details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md) on how remediate form data
 
 #### Rollout Planning
-- Desired date range: Aug 15 - Sept 11
+- Desired date range: Aug 28 - Oct 1
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - % of [normal](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/bi4-785-p5z), [backup](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/6ek-k9t-7d7), failsafe (come back to this) path rates are the same or less than what we have currently
@@ -199,14 +213,11 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - Domo Dashboard request submitted
 - Who is monitoring the dashboard(s)?: PM, Disability teams 1 & 2, OCTO PO (Emily Theis) monitor analytics for issues (failed submissions, traffic irregularities, unexpected errors)
 
-
-
-
 #### Prerequisites:
 Approvals & to do's for launch:
-- [ ] Development for release 1.0 and 1.1 are complete, and the ability to give certain Veterans access to 2022 form based on the toggle state
+- [x] Development for release 1.0 and 1.1 are complete, and the ability to give certain Veterans access to 2022 form based on the toggle state
 - [ ] DBEX Teams approve [Validation Rake Task](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88063) results
-- [ ] Monitoring configured by DBEX teams
+- [x] Monitoring configured by DBEX teams
 - [X] Benchmark data for Veteran claim selection and monitoring during the release      
 - [X] [Troubleshooting SOP documented](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)
 
@@ -217,12 +228,26 @@ Approvals & to do's for launch:
 - Remediation steps are dependent on the type of error
 - Once a Veteran is selected for the 2022 526ez form they cannot be de-selected.
 
+
 ### Stage A: Canary 5% of users
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
-- Length of time: 2 days
+- Length of time: 3 days (Aug 28- 30)
 - Percentage of Users (and roughly how many users do you expect this to be): 5% of users, ~106 submissions
+
+#### Steps
+- Create a Teams channel for the DBEX, VBA, and OCTO teams to use on Wednesday Aug 28th
+- At 9am PDT on Wednesday Aug 28th, Aurora to turn the TE flag on in production for 5% of traffic
+- Monitor the EVSS > LH DD Dashboard for anomalies
+- If anomalies are found that exceed our established thresholds or are otherwise concerning, turn the flag off in Production
+Otherwise:
+- Monitor the EVSS > LH DD Dashboard for the count of submissions
+- When 50 submissions are received, turn the flag off
+- Validate submission data, the claim in VBMS, and generated pdf in partnership with OCTO and VBA.
+- For any issues found, create tickets to remediate and prioritize as required based on the severity of the issue
+- After submissions have been validated, work with OCTO and VBA to determine timing of turning traffic back on
+- If no anomalies within the agreed time box, decide with OCTO to raise traffic percentage to 10%
 
 #### Results
 - Number of unique users: 
@@ -250,16 +275,38 @@ Other considerations:
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
-- Length of time: 4 days
+- Length of time: 7 days (Aug 20-26)
 - Percentage of Users (and roughly how many users do you expect this to be): 10% of users, ~428 submissions
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: **1858**
+- Metrics at this stage (per your "success criteria"): a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+  - % of normal, backup, failsafe path rates: **90%, 10%, 0%**
+  - Submission volume:
+  - Error rate: 
+- Was any downstream service affected by the change?: Yes, LH has several tickets now to fix some errors in both the VBMS claim establishment service and the pdf generation service. Some are resolved, some are still a mystery. Details below.
+- Types of errors logged:
+  - Validation: Direct Deposit Account number length
+    - fixed by LH
+  - Bad Request: Unicode
+    - fixed by LH
+  - Bad Request: MethodArgumentNotValid treatment detail length
+    - fixed by LH
+  - Invalid Date: XX's going through the frontend
+    - fixed by T-REX
+  - Unprocessible Entity: SeparationLocationCode
+    - fixed by LH
+  - Unprocessable Entity: Maximum number of EP codes
+    - this is a known issue. backup path picks these up
+  - Unprocessable Entity: Claim not established. A duplicate claim for this EP code already exists in CorpDB. Please use a different EP code modifier.
+    - still a mystery. [working with LH to figure this out](https://dsva.slack.com/archives/C02CQP3RFFX/p1726263770523399)
+  - failures with ```validate_pdf``` in ```app/app/uploaders/validate_pdf.rb```
+    - [working with LH to figure this out](https://dsva.slack.com/archives/C02CQP3RFFX/p1726526799461849)
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
+  - [#92417](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/92417): invalid date issue - bug was found in that the frontend (va.gov) is sending dates with "XX" in them which will not parse anywhere
+    - this is already fixed and deployed
+  - [#93079](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/93079): bug was found from needing to have "unique" multiple exposures in the request to LH
 
 ### Stage C: 25% of users
 
@@ -267,7 +314,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 4 days
+- Length of time: 7 days (Aug 27 - Sept 2)
 - Percentage of Users (and roughly how many users do you expect this to be): 25%, 1071 submissions
 
 #### Results
@@ -284,7 +331,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days (Sept. 3-4)
 - Percentage of Users (and roughly how many users do you expect this to be): 50%, 1071 submissions
 
 #### Results
@@ -299,7 +346,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 5 days (Sept. 5-9)
 - Percentage of Users (and roughly how many users do you expect this to be): 75%, 1605 submissions
 
 #### Results
@@ -314,7 +361,7 @@ Other considerations:
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 1 days (Sep 10)
 - Percentage of Users (and roughly how many users do you expect this to be): 100%, 2141 submissions
 
 #### Results

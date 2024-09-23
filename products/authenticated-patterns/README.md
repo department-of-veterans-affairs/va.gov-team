@@ -20,7 +20,7 @@ Our north star: Crafting evidence-based, adaptable and adoptable design patterns
 * Improve Veteran experiences: impactful improvements to Veteran workflows
 * Across government digital services: extendable across many VA teams and other  federal agencies 
 
- Our work ultimately makes it easier for other teams to build personalized, consistent authenticated exeriences.
+ Our work ultimately makes it easier for other teams to build personalized, consistent authenticated experiences.
  
 ### What is an Authenticated Design Pattern?
 It is the sum of many components shared across one or more pages that create an optimal user flow within authenticated products or platforms. It should include governance and usage guidelines, code for components and pages, and examples.

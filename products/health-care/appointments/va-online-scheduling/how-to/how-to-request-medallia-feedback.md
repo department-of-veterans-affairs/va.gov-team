@@ -57,19 +57,17 @@ No
 |   27  | 06-30-2024 | 07-06-2024 | Peter Russo  | [88131](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88131) | Done  |
 |   28  | 07-07-2024 | 07-13-2024 | Peter Russo  | [88402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88402) | Done  |
 |   29  | 07-14-2024 | 07-20-2024 | Peter Russo  | [88954](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88954) |  Done      |
-|   30  | 07-21-2024 | 07-27-2024 | Peter Russo  | [89468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89468) | In Progress       |
-|   31  |       |        | Peter Russo  | []()         |        |
-|   32  |       |        | Peter Russo  | []()         |        |
-|   33  |       |        | Peter Russo  | []()         |        |
-|   34  |       |        | Peter Russo  | []()         |        |
-|   35  |       |        | Peter Russo  | []()         |        |
-|   36  |       |        | Peter Russo  | []()         |        |
-|   37  |       |        | Peter Russo  | []()         |        |
-|   38  |       |        | Peter Russo  | []()         |        |
-|   39  |       |        | Peter Russo  | []()         |        |
-
-
-
+|   30  | 07-21-2024 | 07-27-2024 | Peter Russo  | [89468](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89468) | Done       |
+|   31  | 07-28-2024    | 08-03-2024       | Peter Russo  | [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271)         |    Done    |
+|   32  | 08-04-2024    | 08-10-2024       | Peter Russo  | Thru 8-7: [90271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90271) 8-8 - 8-10: [90630](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90630)      |    Done  |
+|   33  | 08-11-2024    | 08-17-2024       | Peter Russo  | 8/11: [90988](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90988)         |     Done   |
+|   34  | 08-18-2024      | 08-24-2024       | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763),  [#92051](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92051)        |Done        |
+|   35  | 08-25-2024       | 08-31-2024        | Leah De La Costa  | [90763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90763),  [#92051](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92051)        |Done        |
+|   36  | 09-01-2024       | 09-07-2024        | Leah De La Costa  |  [#92051](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92051), [92407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92407)     |Done      |
+|   37  | 09-08-2024       | 09-14-2024        | Leah De La Costa  | [92407](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92407), [92714](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92714), [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)       |In progress        |
+|   38  | 09-15-2024       | 09-21-2024        | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)     |In progress        |
+|   39  | 09-22-2024       | 09-28-2024        | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)        |In progress        |
+|   40  | 09-29-2024       | 09-30-2024       | Leah De La Costa  | [92715](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92715)        |In progress        |       |In progress        |
 
 ### Medallia Feedback Requests - Q2 2024
 

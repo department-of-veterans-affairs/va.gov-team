@@ -1,5 +1,7 @@
 # Decision and Change Log: Appoint a Representative
 
+This document is actively maintained by Product Manager, Lindsay Li-Smith, and updates are made every Friday.
+
 - **10/27/2023**: The 21-22 and 21-22a forms are updated to include a new field "Claimant's Date of Birth" and the 21-22a has an additional field "Authorization for Disclosure to Affiliated Personnel".\
   _Notified by the Compensation Service Calendar automated updates. ([calendar link](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fvbacoweba5.vba.va.gov%2Fbl%2F21%2Fcalendar%2Fcal_Week.asp\&data=05%7C02%7C%7Cfb5aa9ac2a8144f1c2c108dc27cdcb98%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638429012045422344%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=za8k4WgCpYWf0LMiovJ54HLgaxR%2BSPHvtbzrV87ZVN4%3D\&reserved=0))._
 - **1/26/2024**: Lighthouse confirms that an older version of the PDF will not be an issue.\
@@ -7,7 +9,9 @@
 - **2/7/2024**: The 21-22a form has non-substantive updates to field 19, removing the word “optional” and including labeled checkboxes to 19a and 19b.\
   _Notified by the Compensation Service Calendar automated updates. (_[_calendar link_](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fvbacoweba5.vba.va.gov%2Fbl%2F21%2Fcalendar%2Fcal_Week.asp\&data=05%7C02%7C%7Cfb5aa9ac2a8144f1c2c108dc27cdcb98%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638429012045422344%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=za8k4WgCpYWf0LMiovJ54HLgaxR%2BSPHvtbzrV87ZVN4%3D\&reserved=0)_)._
 - **2/21/2024**: Required fields for 21-22 and 21-22a forms are defined, with input from Compensation Service stakeholders. \
-_Input was requested by Product Manager Lindsay Li-Smith via email “21-22/21-22a Required Fields?” and provided by Jenny Rosenau and Jessica Pierce with Compensation Service (_[required form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/required-form-fields.md)_)._
+_Input was requested by Product Manager Lindsay Li-Smith via email “21-22/21-22a Required Fields?” and provided by Jenny Rosenau and Jessica Pierce with Compensation Service ([required form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/required-form-fields.md))._
+- **4/1/2024**: Discussed requiring phone numbers even though it's not required to process the 21-22/21-22a forms, to ensure representatives have a way to contact Veterans/claimants in cases where they need to discuss before accepting the POA request. \
+_Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1709314818403419?thread_ts=1708470282.764319&cid=C05L6HSJLHM)) and confirmed by CAIA in biweekly sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F065KP8MRHA?focus_section_id=temp:C:GGKbbeeb4893a3f46ed98052a99a))._
 - **4/25/2024**: MVP is updated to include feedback from multiple rounds of stakeholder review (VBA, OGC, OIT/VEO, Compensation Service).\
   _Communicated by Product Manager Lindsay Li-Smith via email “Design Review: Appoint a Rep (Digital form fill of 21-22/21-22a)”._
 - **6/10/2024**: Decided to move forward with the search results experience where we show cards as the search result. No longer pursuing our "fuzzy search" design due to accessibility concerns from both Governance and Design System Council.\
@@ -17,10 +21,22 @@ _Input was requested by Product Manager Lindsay Li-Smith via email “21-22/21-2
 - **6/24/2024**: VA OI\&T Privacy Officer approves the MVP email notification (confirmation and next steps).\
   _Product Manger Lindsay Li-Smith requested approval via email “Seeking Privacy Officer for email Notification Content Approval” and Privacy Officer Gina Siefert confirmed there are no PHI concerns._
 - **7/16/2024**: Confirming MVP will release before v2 work will begin, as there are still dependencies to figure out prior to v2 release.\
-  _Confirmed at the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD1ae1d5de3ac54a0d9e1c1261c))_
+  _Confirmed at the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD1ae1d5de3ac54a0d9e1c1261c))._
 - **7/18/2024:** Confirmed MVP will target Veteran and non-Veteran claimant users (no “I am the accredited representative” path). The representative path was removed from MVP to reduce scope to launch, and because there were still open questions regarding the rep-initiated user experience.\
   _Discussed by the core ARM team in the July 17 demo, with VA Enablement and stakeholders present. Confirmed with the team the next day in standup ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67741#issuecomment-2237204197))._
 - **7/22/2024**: Do not push contact information updates to the Profile. \
-  _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1721064185404579))_
-- **Pending**: Decide if 2.0 releases on [VA.gov](http://VA.gov) (Veteran-facing) or the Accredited Representative Portal (VSO-facing)
-- **Pending**: Decide if the Request POA service lives in Lighthouse or vets-api
+  _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1721064185404579))._
+- **7/30/2024**: Determined that 2.0 should release on [VA.gov](http://VA.gov) (Veteran-facing) and _not_ the Accredited Representative Portal (VSO-facing).  In order to protect Veterans from unauthorized disclosure of personal and private information, the Veteran must sign a paper form or provide an electronic signature via their va.gov login method. \
+  _Confirmed by Product Owner Jennifer Bertsch ([Slack Message](https://dsva.slack.com/archives/C05SUUM4GAW/p1722360689132869)), based on guidance from Compensation Services ([detailed response and guidance in Sharepoint](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representatives/RFI-Accredited%20Representative%20initiating%2021-22%20POA%20request.docx?d=we0c18763433f46fca7b3e5ae69d0c244&csf=1&web=1&e=FBlw1B))._
+- **8/7/2024**: Confirmed with stakeholders that there are valid scenarios where a user may want to re-submit a 21-22/21-22a for a representative they already have appointed. This could be to renew access to records (which expires after 5 years) or to change their consent to certain authorizations. \
+  _Confirmed by stakeholders Jenny Rosenau (Compensation Service), Nathan Kroes (OGC) and Martin Caraway (VBA) in email "Re-appointing a currently appointed representative"._
+- **8/15/2024**: Decided to save the prefill pattern for a future iteration of Appoint a Representative as it was adding 60-70% complexity for gathering claimant/Veteran info -- something we did not originally plan for, but discovered after diving into development. \
+  _Proposed by Product Manager Lindsay Li-Smith and approved by Product Owner Jennifer Bertsch ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1723759381357219))_
+- **8/30/2024**: Engineering discovered that the "Review" page is the final step/chapter in the VA Forms Library process, presenting challenges for the "Download" page which was designed to be the final step/chapter _after_ "Review". The team decided to update the "Download" page design to remove the progress tracker and "Back" button. \
+  _Solution presented by UX Designer Michael Tri ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1725047898860319))._
+- **9/3/2024**: Decided the Request POA service will exist in vets-api immediately upon submission on VA.gov, then updated in corpDB/Lighthouse as "cold storage". \
+  _Path forward communicated by Product Owner Jennifer Bertsch ([Slack Message](https://dsva.slack.com/archives/C06ABHUNBRS/p1725393615800809)) and CorpDB was discussed as "cold storage" in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV48541100debf431580cd3ce4c))._
+- **9/4/2024**: Decided not to require a Veteran phone number, when a non-Veteran claimant is completing the form, as the Veteran may be decesased. \
+  _Proposed by Product Manager Lindsay Li-Smith ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1725474567167699?thread_ts=1725471067.804769&cid=C05L6HSJLHM))._
+- **9/17/2024**: Decided to resurface the represntativey query (and related search results) when a user clicks "Back" in the same session. \
+  _Decided by the core team and summarized by Product Manager Lindsay Li-Smith ([Slack Message](https://dsva.slack.com/archives/C05L6HSJLHM/p1726598932350429?thread_ts=1726581286.045329&cid=C05L6HSJLHM))._

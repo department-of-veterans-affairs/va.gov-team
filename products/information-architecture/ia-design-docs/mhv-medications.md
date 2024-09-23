@@ -1,5 +1,5 @@
 # IA Design for MHV on VA.gov - Medications
-**STATUS: Phase 0, Moving to Phase 1**
+**STATUS: Phase 1**
 
 **Team:** MHV on VA.gov Medications
 
@@ -12,6 +12,8 @@
 - [Redirects](#redirects)
 
 ## <a name="decision-log"></a>Decision Log
+* August 2024: Learned about possible PHI/PII issues in some elements getting passed to GA4 analytics, which include title tags (were revealing specific medications in the H1, and using that in title tag) and possibly link text in list-veiw pages if the click analytics on those links are captured (would collect same medication name). Title tags were revised on 8/31/2024 to avoid PHI/PII collection, and requests to track click analytics on list-view pages were rescinded. 
+* May 2024: Moved to Phase 1
 * December 2023: Moved to Phase 0
 * January 2024: Began designing new page for the eventual phase 1: a multi-refill flow that allows users to select and request many refills at once (if desired). This page will live at: `va.gov/my-health/medications/refill` 
 * February-March 2024: User research sessions
@@ -52,16 +54,26 @@ The launch of medications to Phase 1 will coincide with all tools that are in Ph
 Opening a details page is considered a mini subtask, and will take on <- Back to[name of page] breadcrumbs:
   - desktop: <- Back to medications
   - mobile: <- Back to medications
-- Title tag: [H1] - Medications | Veterans Affairs
+- ~Title tag: [H1] - Medications | Veterans Affairs~ (this solution, which matches VADS standards, violates PII/PHI. We had to institute a looser more generalized title tag in order to protect security of Veterans & not risk leaking data).
+- Revised title tag: Medication details | Veterans Affairs
 - Notes: 
-  - URL will be based on unique ID for the individual's specific medication.  It will not be the name of the medication.
+  - URL will include a randomized ID for medications details pages. No actual medication name or health record identifiers will ever be passed into the URL.
 
- **4) Refill prescriptions - NEW**
+ **4) Refill prescriptions**
 - URL: www.va.gov/my-health/medications/refill
 - Breadcrumb:
   - desktop: VA.gov home > My HealtheVet > About medications > Refill prescriptions
   - mobile: < About medications
 - Title tag: Refill prescriptions - Medications | Veterans Affairs
+
+**5) More about this medication - COMING SOON**
+The medications team is working on pulling information about medications via an external API and linking to that information via the medications details page. 
+- URL: TBD
+- Breadcrumb:
+Opening the more information page from a details page is considered a mini subtask, and will take on the <- Back breadcrumbs style. We cannot reveal back to [name of previous page] due to PHI/PII risk mitigation, so it will be a simple back breadcrumb. 
+  - Desktop: <- Back
+  - Mobile: <- Back
+ Title tag: More about this medication | Veterans Affairs
 
 ## <a name="nav"></a>Entry points <br>
 _See also user flow and breadcrumb documents linked above in this document_
@@ -81,6 +93,12 @@ N/A
 ## Archived:
 **IA Request:** [[Link to Sitewide Content and IA intake request]](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/59159)
 
+**For Phase 1:**
+- Breadcrumbs will be updated to connect the experience with the My HealtheVet landing page
+- Cross-links will be updated to connect the experience wtih other tools already in Phase 1 (secure messages and appointments)
+- Secondary navigation will be implemented on this product (and others already in Phase 1)
+- Try me banners will launch in the national portal experience for users who want to try out the new version
+
 **For Phase 0:**
 - Users will only be able to access this product via an email invitation with a direct link.  After clicking on the link, the user will be presented with the VA.gov home page with the sign in modal displayed. Once signed in they will be immediately routed to the medications landing page
 - The Medication landing page will include messaging and a link to send feedback about the tool. 
@@ -95,7 +113,7 @@ The user flow provided depicts the flow for Phase 0 of this product only.  The e
 ![Screenshot 2023-06-28 at 4 35 42 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/9aa7af6a-78c7-46b1-9b61-577987b7579f)
 
 
-Decision log: 
+Notes: 
 * ~As of 6/30/23, the H1 of the Medication page may change to 'Medication and Supplies'. If we do make that change, we may change URLs.
 - also note that the url is a sibling structure, but the breadcrumbs will represent a parent strucuture.~ Decided against this
   

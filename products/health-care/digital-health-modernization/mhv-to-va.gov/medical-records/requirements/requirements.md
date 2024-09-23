@@ -12,8 +12,8 @@
 |1/11/24 | Coulton Bunney | Added download all medical reocrds, landing page, and medical records settings|
 |2/23/24 | Kaitlin Fink | Added care summaries and notes|
 |5/16/24 | Kaitlin Fink | Added vitals and updated health conditions|
-
-
+|8/22/24 | Kaitlin Fink | Updated labs and test results information|
+|8/28/24 | Kaitlin Fink | Updated vaccines with new decision|
 
 ## Table of Contents  
 
@@ -231,6 +231,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
   
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------| 
+|The field for provider comments will not be displayed for vaccines.|Decision made on 8/15 via email following discussion with PCP SME workgroup. Discovered the field was used only 8% of the time, there was no uniformity as to how it was used and there was a concern that the information may cause more confusion than add value for the Veteran.| 
 | The field for reactions will not be displayed as part of the vaccine data in production.                                  | After significant research and review of data, it was determined that CPRS 32b, which removed the reaction field from vaccines, was released Sep 29, 2022 and all sites (except those on Cerner) should have installed it by Dec 16, 2022.  This change made recording reactions as part of the vaccines record obsolete, and as a result, Dr. Josephs recommended that we not display it.  
 | The domain name was will be Vaccines, not Immunizations| This was approved by SMEs. Vaccines is more recongizable and plain language than immunizations. |
 | The vaccines list view will incldue a link to allergies. | Based on SME input, reactions and allergies to vaccines are typically documented in the allergies list.|
@@ -417,21 +418,18 @@ Back button: Yes, `< Back to medical records`
 #### Content
 
 > **NOTE**
-> Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+> Content in Figma should be considered a source of truth for content, not this requirement document.
 
 * H1 for this page should be `Lab and test results`
 * Intro text at top of page that explains what you will find in this section of the medical record, including 36 hour hold on lab results and 14 day delay for pathology results (pathology results simply take longer to come back)
-* Additional info that explains what to know about printing and downloading lab and test information
 * For each result in list, include the following information
   * Test name
-     *  If specific test name not available, use test category such as Microbiology
-  * Date
-     * Chem/Hem, Microbiology, Pathology: Date and time collected
-     * Imaging: Date imaging test was performed
-  * Chem/Hem, Microbiology: Provider who ordered the lab or test
+     *  If specific test name not available, use type of test such as Microbiology
+  * Date and time
+  * Ordering provider (with the exception of pathology which does not include ordering provider
 
 #### Functionality
-* List should be paginated, with 10 results per page
+* List should be paginated, with 15 results per page
 * For each result, a user should be able to click on the first line of the card (result name) to view detailed information about that result
 
 ---
@@ -448,7 +446,7 @@ Back button: Yes, `< Back to lab and test results`
 
 #### Content
 > **NOTE**  
->  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+> Content in Figma should be considered a source of truth for content, not this requirement document.
 
 > **NOTE:** These results may consist of two parts. 
 > 1. Each lab test has “top-level” information that describes the metadata for the test. These are called Cosmic (VistA) or Orderable (OH) tests.
@@ -456,25 +454,23 @@ Back button: Yes, `< Back to lab and test results`
 
 * H1 for this page should be the name of the orderable or cosmic test.
 * At the Cosmic/Orderable level, include the following information
-   * Name of test _(used as H1)_
+   * Panel name _(used as H1)_
+   * Date and time collected
    * Type of test - Chemistry and hematology
-   * Date and time that the specimen for this test was collected
-   * The location at which the specimen was collected
-   * The provider who ordered the test
    * Site or sample tested
-   * Comments entered by the lab
+   * Ordering provider
+   * The location at which the specimen was collected
+   * Lab comments
 * Information about understanding your results, presented within an additional info component
 * At the Atomic/Discrete level, include the following information for each result, presented in a card
    * Test name
-   * Result measurement
-   * Units - _include as part of result measurement_
-   * Flag - _include as part of result measurement_
+   * Result measurement _shown in units and flag if available as part of results ie. (Low)_
    * Reference range
    * Status
-   * Performing lab location - where the sample was tested/evaluated
+   * Lab comments
 
 #### Functionality
-* Ability to download details of current result as a PDF
+* Ability to download details of current result as a PDF or TXT file
 * Ability to print the currently in view details of results
 ---
 </details>
@@ -490,25 +486,26 @@ Back button: Yes, `< Back to lab and test results`
 
 #### Content
 > **NOTE**  
->  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+> Content in Figma should be considered a source of truth for content, not this requirement document.
 
 * H1 for this page should be the name of the microbiology lab test that was run. If name not available, use type of test.
 * For each microbiology result, include the following information
    * Name of test _(used as H1)_
-   * Type of test - e.g. Surgical pathology _(backup for H1)_
-   * Date and time that the specimen for this test was collected
-   * The location at which the specimen was collected
-   * The provider who ordered the test
+   * Date and time collected
+   * Type of test - Microbiology _(backup for H1)_
    * Site or sample tested
    * Collection sample - e.g. swab
-   * Performing lab location - where the sample was tested/evaluated
+   * The provider who ordered the test
+   * The location at which the specimen was collected
    * Date that the sample evaluation was completed
-   * The actual resulting microbiology report - presented in monospaced font to preserve spacing
    * Information about understanding your results, presented within an additional info component
-
+   * The actual resulting microbiology report - presented in monospaced font to preserve spacing
+* During Phase 0 we will investigate the following field to confirm their value and the data displayed and confirm with SMEs if they should continue to be included.
+   * Collection sample- This is useful for microbiology results but the most important thing to the veteran is the site or sample tested. There are some examples ie. a urine culture where there may be no data for the site or sample tested and collection sample would be the only way to determine the sample.  We saw this displayed differently depending on the VistA occurrence.
+   * Date completed- We could not find an example of this field in our example data.  It displayed as "Date not available".  This may be more significant to pathology and may be site specific if data is included here.  Will continue investigation and determine if it is valuable.
 
 #### Functionality
-* Ability to download details of current result as a PDF
+* Ability to download details of current result as a PDF or TXT file
 * Ability to print the currently in view details of results
 ---
 </details>
@@ -524,23 +521,23 @@ Back button: Yes, `< Back to lab and test results`
 
 #### Content
 > **NOTE**  
->  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
-> 
-> In MHV classic, there is significantly less structured data available for pathology reports. For example, ordering provider and location are not available. As work is done on this category, exploration should be done to understand whether we can get the same set of standardized data fields as chem/hem result and if so, take them to SMEs for approval to include. 
+> Content in Figma should be considered a source of truth for content, not this requirement document.
 
-* H1 for this page should be the name of the pathology lab test that was run. If name not available, use type of test.
+* H1 for this page should be the name of the pathology lab test that was run. 
 * For each pathology result, include the following information
    * Name of test _(used as H1)_
-   * Type of test - e.g. Surgical pathology _(backup for H1)_
    * Date and time that the specimen for this test was collected
-   * Performing lab location - where the sample was tested/evaluated
+   * Performing lab location 
    * Date that the sample evaluation was completed
-   * The actual resulting pathology report - presented in monospaced font to preserve spacing
    * Information about understanding your results, presented within an additional info component
+   * The actual resulting pathology report - presented in monospaced font to preserve spacing
+* During Phase 0 we will investigate the following field to confirm their value and the data displayed and confirm with SMEs if they should continue to be included.
+   * Time collected - Time is not needed for pathology from a clinical perspective.  Will ask veterans about it during research to determine if having it consistent across all labs & tests is preferred or only relevant for labs. 
+  
 
 
 #### Functionality
-* Ability to download details of current result as a PDF
+* Ability to download details of current result as a PDF or TXT file
 * Ability to print the currently in view details of results
 ---
 </details>
@@ -556,24 +553,24 @@ Back button: Yes, `< Back to lab and test results`
 
 #### Content
 > **NOTE**  
->  Content document not yet available. When available, update the content in this section. Content document should be considered a source of truth for content, not this requirement document.
+> Content in Figma should be considered a source of truth for content, not this requirement document.
 
-* H1 for this page should be the name of the imaging test that was run. If name not available, use type of test.
+* H1 for this page should be the name of the imaging test that was run. 
 * For each imaging result, include the following information
    * Name of test _(used as H1)_
-   * Type of test - e.g. X-Ray _(backup for H1)_
-   * Date and time of the imaging procedure
-   * Performing location - where the images were taken
-   * Ordering/requesting provider
-   * Reason for study
+   * Date and time performed
+   * Reason for test
    * Clinical history
-   * Radiologist who performed study
+   * Ordering provider
+   * Performing location - where the images were taken
+   * Imaging provider
+   * Link to images on MyHealtheVet website
    * The actual resulting imaging report - presented in monospaced font to preserve spacing
 
 #### Functionality
-* Ability to download details of current result as a PDF
+* Ability to download details of current result as a PDF or TXT
 * Ability to print the currently in view details of results
-* Link to MHV Classic to view associated radiology images
+* Link to MHV website to view/download associated radiology images, we will not have images included on VA.gov until Phase 1. When images are avialbe on VA.gov we plan to have both DICOM and JPEGs.
 
 ---
 </details>
@@ -588,9 +585,11 @@ Back button: Yes, `< Back to lab and test results`
 |In the list view, each card will show enough information about a lab result to consider that entry unique. We believe name and date speciment collected suffice.| The same lab or imaging test may be run multiple times.|
 |The following imaging results fields will not be shown to users: ordering location | SMEs felt that the ordering location was not important data and could create confusion alongside performing location.|
 |Lab and test result reports should be shown in monospaced fonts.| SMEs informed us that reports are written up in lab systems in monospaced fonts, and spacing is an important consideration. Therefore, that spacing should be retained when presenting to patients.|
-|For phase 0, we do not need to show radiology images.|Radiology images are stored differently from other medical records data and can be quite large in size. This work is requires separate work than making the other MR data available. Due to the heavier lift, as well as the notion that images are less useful for patients than the report, Dr. J mentioned in PI 10 that this work to move over to VA.gov could be deprioritzed, though needs to be done eventually before Phase 4.|
+|For phase 0, we do not need to show radiology images.|Radiology images are stored differently from other medical records data and can be quite large in size. This work is requires separate work than making the other MR data available. Due to the heavier lift, as well as the notion that images are less useful for patients than the report, we have decided to move forward with linking to MHV and add for Phase 1.  At that time we will include both DICOM and JPEGS.|
+|For Phase 0 we will have one location field for all labs and tests.  We will call this field "location" removing any of the identifiers. We will continue further investigation about the location field and ask Veterans in research for feedback to determine if we need to make any adjustments moving forward.|Based on our technical investigation we identified that the three location fields we display in MHV today for labs and tests (Ordering location, Collected location and Performing location) are sourced from the same location, which is the VistA location providing the report. The only difference is performing location attempts to display the address instead of the facility name. |
 </details>
 
+* [Phase 0 launch Figma File](https://www.figma.com/design/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records---Phase-0?node-id=5525-60665&t=6vNsoNGU6fTM6HkG-0)
 * [Subject matter expert review - Lab results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Lab%20results/Lab%20results%20information%20on%20VA.gov.docx?d=wfedc587c450b4d79afeda296ac1cc29a&csf=1&web=1&e=PwDTCE)
 * [Subject matter expert review - Imaging results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Imaging%20results/Imaging%20results%20information%20on%20VA.gov.docx?d=w0887da3bbedb4994b48d7f90c9d93461&csf=1&web=1&e=e2JHoM)
 

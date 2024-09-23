@@ -410,10 +410,12 @@ While we didn’t identify specific individuals or organizations to pilot with, 
 ## Recommendations for ARP pilot
 
 ### 1. Adjust the unauthenticated homepage to align with user feedback.
-We recommend proceeding with [Homepage 4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=GgE0LX3xENrrjTv0-1), with key changes:
-- Shift headings to black text (as used in [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=GgE0LX3xENrrjTv0-1)) to improve readability.
-- Reconcile and avoid poor color contrast
-- Improve content strategy to make it more clear who the portal is for and that it is not intended for Veterans.
+We recommend proceeding with [Homepage 4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=GgE0LX3xENrrjTv0-1), which has some key changes:
+- Shifted headings to black text (as used in [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=GgE0LX3xENrrjTv0-1)) to improve readability.
+- Removed poor color contrast
+
+Continue to:
+- Explore improvements to content strategy to make it more clear who the portal is for and that it is not intended for Veterans.
 - Maintain VA branding and continue with clean, simple design that representatives prefer.
 
 ### 2. Refine the POA request list and search/filter UI.
@@ -480,6 +482,7 @@ Additional research questions surfaced in this study:
 ## Appendix
 - [Research plan](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Intercept%20Testing_%20Research%20Plan.pdf?csf=1&web=1&e=7iF0Bb) (Sharepoint)
 - [Conversation guide](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/052024_NACVSO%20Conversation%20Guide.pdf?csf=1&web=1&e=zphvgx) (Sharepoint)
+- [EnjoyHQ project](https://app.enjoyhq.com/projects/q7W5B6Wp4/plan)
 
 ### Tools used for synthesis
 - [Raw data from intercepts](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Raw%20data/NACVSO%20Intercept%20Data%20Entry%20(Responses).xlsx?d=wbb4fd1ce16b14ba0806312f2170d2587&csf=1&web=1&e=WZpGCh) (Sharepoint)

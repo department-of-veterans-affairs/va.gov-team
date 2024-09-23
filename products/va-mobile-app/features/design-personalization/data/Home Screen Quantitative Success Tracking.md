@@ -19,25 +19,37 @@ While lagging indicators, like retention rate are strong indicators of value for
 |Retention|Lagging|Retention |Percentage of users who return to the app at increasing intervals of time |The personalized home screen will surface more value to the app leading to improved user retention over time|||
 
 ### Metric Tracking
+**Engagement** 
 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|Personalized home screen adoption| N/A ||||
-|Home screen load speed|5.6 secs||||
-|Unread message read rate|20.31%||||
-|Claims view rate|67.99%||||
-|Prescription refill rate|59.69%||||
-|Appointment Page View Rate|34.66%|||
-|Home screen modules clicks|N/A||||
+|Unread message read rate|76.71%|81.45%|||
+|Claims view rate|65.90%|70.45%|||
+|Prescription refill rate|15.49%|28.21%|||
+|Appointment Page View Rate|36.18%|39.11%||
 
-* Date Range: 02/27/24 - 04/28/24
+**Performance** 
+| Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
+| -------- | -------- | ---------- | -----------------| -----------------| 
+|Home screen load speed|6.78 Secs|4.66 Secs - 99.9% was within 1 STD of the median load time|||
+|Load Time Appointment|3.79 Sec|4.21 Sec|||
+|Load Time Claims |2.99 Sec|2.95 Sec|||
+|Load Time Prescription|3.08 Sec|3.21 Sec|||
+|Load Time Secure Message|2.03 Sec|2.31 Sec|||
+
+
+
+* Date Range: 03/01/24 - 07/31/24
 
 ### Retention Rates 
 
-| Vateran Behavior | 30-Day Rate | 60-Day Rate | 90-Day Days Rate | 120-Day Rate| 150-Day Rate | 180-Day Rate |
+| Veteran Behavior | 1 Month | 2 Month | 3 Month | 4 Month| 5 Month | 6 Month |
 | -------- | -------- | ---------- | ----------------- | -----------------| ----------- | --------- |
-| Vateran Opened App & Viewed Home Screen | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
+| Veteran Opened App & Viewed Home Screen (Baseline) | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
+| Veteran Opened App & Viewed Home Screen (Post Launch) | 67.73% | |  |  |  |  ||||
 
 
 
-* Retention Cohort Date Range: 10/01/23 - 10/31/23 
+
+
+* Retention study starts in October 2023. 

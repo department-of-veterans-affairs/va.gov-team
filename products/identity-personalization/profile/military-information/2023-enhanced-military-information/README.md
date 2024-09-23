@@ -1,7 +1,8 @@
 # Initiative outline: Enhanced Military Information
 
-**Last Updated: 2/1/24** Added specifics of the original request
+**Last Updated: 8/5/24**  
 
+`based on research we decided not to proceed w this work`
 
 ## Table of Contents 
 
@@ -72,7 +73,7 @@ The 526EZ electronic form is expanding to incorporate additional questions relat
 
 ## Problem Statement
 
-We know veterans use various documents to piece together their military history when applying for benefits. Many use a copy of their DD214, but not all data required is available. Some use a PDF printout of their ILER record. Again, this isn't without issues as the data can be confusing and isn't organized in teh b
+We know veterans use various documents to piece together their military history when applying for benefits. Many use a copy of their DD214, but not all data required is available. Some use a PDF printout of their ILER record. Again, this isn't without issues as the data can be confusing and isn't organized in a way for easy comprehension.
 
 - As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
 - As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
@@ -117,6 +118,7 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
 - [Mural refinement ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
 - [sensitive repo directory (contains stakeholder artifacts)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information)
+- [research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery)
 
 
 ## Key dates
@@ -126,9 +128,11 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 - October 2023: Started collaborating with the 526 team; Decided on our MVP approach; Produced initial designs
 - November-December 2023: Build
 - November 2023: Created phase specific project outline for MVP work
+- March 2024: Gave the readout and decided not to pursue this work
 
 
-## Design
+## Design / research 
 
-[Profile military information Figma files](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=10%3A6355&mode=design&t=ITOJ8kb0R5q1NIdj-1)
+- [Profile military information Figma files](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=10%3A6355&mode=design&t=ITOJ8kb0R5q1NIdj-1)
+- [research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery)
    

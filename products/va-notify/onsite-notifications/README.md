@@ -1,5 +1,5 @@
 # Onsite Notifications
-Launched to 100% of VA.gov users on 10/24/2022
+Launched to 100% of VA.gov users on 10/24/2022 and disabled on 10/31/2023
 
 ## Points of Contact
 
@@ -23,7 +23,8 @@ The dashboard (My VA) is meant to be the source of truth for veteran goals and a
 
 Veteran can more easily find and manage their debts (and other use cases in the future).
 
-## [Why Veterans Want This](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-mvp)
+## Why Veterans Want This
+[My VA's Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications)
 - This helps to surface all relevant tasks, jobs, or actions.
 - The more complete a profile becomes, the better the dashboard represents the things a veteran can/ should/ ought to do in regards to VA benefits and services.
 

@@ -1,17 +1,17 @@
 > [!CAUTION]
-> **WIP**: Last udpated: July 15, 2024 (see commit comments for details)
+> **WIP**: Last udpated: Aug. 14, 2024 (see commit comments for details)
 
 # How we audit for accessibility
 
 If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, or an [A11Y Champ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community-aka-a11y-champs), you might wonder how CAIA's (Content, Accessibility and Information Architecture) team of accessibility specialists audits experiences for accessibility. 
 
 **We'll go into that plus:**
-- What's an audit?
-- When does an audit happen?
-- What are the outcomes of an audit?
-- How long does an audit take?
-- What is tested during an audit? 
-- How to get started with an audit?
+- [What's an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#whats-an-audit)
+- [When does an audit happen?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#when-does-it-happen)
+- [What are the outcomes of an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#what-are-the-outcomes)
+- [How long does an audit take?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#how-long-does-it-take)
+- [What is tested during an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#whats-tested)
+- [How to get started with an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/CAIA/accessibility/how-we-audit-2024.md#how-do-we-start-one-and-whats-the-process)
    
 ## What's an audit?
 
@@ -26,29 +26,43 @@ An accessibility audit can be a prototype review or a design and code review of 
 
 An audit can happen at any time, and vary in scope. 
 - Generally, an audit should happen at least once a year on a complete product. 
-- It should also happen when new features get created.
+- It should also happen when new features get created, or a new product.
+- Audits can be completed on experimental components, prior to submitting to the Design System Council. 
+- Audits can take place both inside and outside the Collaboration Cycle. 
 
 ## What are the outcomes
 
-Teams get a list of accessibility findings in an audit report, which summarizes those issues and bugs. Accessibility specialists will also be available to help explain the issues identified and point to best practices for your team to use to remediate them. 
+- Teams get a list of accessibility findings in an audit report, which summarizes those issues and bugs, in addition to recommendations - and screenshots, where applicable.
+- Accessibility specialists will also be available to help explain the issues identified and point to best practices for your team to use to remediate them. 
 
 ## How long does it take?
 
 This varies, depending on the scope of what's being tested. A good starting point is that testing five screens of mid-level complexity takes five days. This includes the testing and the writing of tickets that come out of that testing.
 
 **Variables that can change the amount of time it takes are:**
-- the testing environment and whether it requires logging in.
-- the amount of form fields involved in the testing.
-- the amount of errors and conditional content that need to be triggered and tested.
-- how accessible the experience turns out to be. The fewer issues found, the quicker the audit gets completed.
+- The testing environment and whether it requires logging in.
+- The amount of form fields involved in the testing.
+- The amount of errors and conditional content that need to be triggered and tested.
+- How accessible the experience turns out to be. The fewer issues found, the quicker the audit gets completed.
 
 ## What's tested?
 
 > [!IMPORTANT]
 > - Please specify if you need testing completed on a certain device or assistive technology.
-> - [These are the tools accessibility specialists use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2e5a0a08bd51ae3258de4c9f37754f907e938586/teams/CAIA/accessibility/tools-we-use.md#tools-we-use).
->   - However, all accessibility specialists do not have access to the same technology.
+> - [These are the tools accessibility specialists use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/tools-we-use.md).
+>   - However, all accessibility specialists do not have access to the same technology.*
 >   - As an example, some have access to JAWS, while others do not. Some do not have a mobile devlice, while others have an Android device, while others have iPhone and/or both.
+
+### Devices Available for Testing*
+- [x] Mobile Testing (iPhone and Android)
+- [x] Desktop Testing
+- [ ] Tablet Testing
+
+### Testable Environments
+- [x] Prototypes, such as Figma 
+- [x] Coded Prototypes, such as CodePen 
+- [x] Staging
+- [x] Production
 
 In general, accessibility specialists focus on five areas of testing for accessibility. 
 

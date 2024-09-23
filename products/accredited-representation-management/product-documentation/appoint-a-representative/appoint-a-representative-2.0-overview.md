@@ -2,28 +2,45 @@
 
 Developed by the Accredited Representation Management team, the Appoint a Representative will support Veterans in a digital form fill of the 21-22/21-22a which is required for appointing a representative. 
 
-The following overview demonstrates the changes we'll be implementing for version 2.0, based on research findings and input from our stakeholders.
+Version 2.0 is focused on the digital submission of 21-22:
+1. Available for LOA3 authenticated users of VA.gov
+2. Available for VSOs that accept online requests for representation
 
-1. Digital submission of 21-22
-    1. Available for authenticated users of VA.gov
-    2. Available for VSOs that accept online requests for representation
-    3. Notifications (partner with VA Notify and Lighthouse)
-       1. Representative approved request
-       2. Representative declined request
-2. The ability to appoint an organization without first selecting an individual VSO Representative
-
-
-## Future Iteration
-
-1. Digital submission of 21-22a (feature flag?)
-    1. Determine if we can support digital submission for attorneys and claim agents who often require fee agreements before accepting
-    2. Identify how the insurance field impacts Power of Attorney
-    3. Authenticated users only
-1. Manage requests (can the vet cancel a request)
-1. Manage rep (can the vet cancel an existing rep)
-2. Satisfaction survey to assess the user perceptions of our product experience
-3. Consider how we might support situations where multiple representatives are assigned (Claim PoA vs. Claimant PoA)
-4. Consider showing an error state if the user is [deceased, incompetent, or has a fiduciary appointed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
-5. Explore if there is an acceptable [esignature option for unauthorized users](https://design.va.gov/patterns/ask-users-for/signature)
-6. Explore how to assist the homeless population with requesting representation, as they often do not have an address, phone number and/or access to internet to check email
-7. Explore an option for a quick link or QR code, where a representative's information is quickly added to the 21-22/21-22a 
+🚧 This experience is currently in the design/research phase, and not yet available on VA.gov.
+       
+#### Appoint a Representative
+1. Form Intro
+   1. Encourage users to sign in to submit their form digitally 🆕
+2. Provide LOA1 users the option to verify their identity to submit their form digitally 🆕
+3. Require LOA3 users who are missing information to call VA to complete their Profile 🆕
+4. Tell us who you are (Veteran or non-Veteran claimant)
+5. Select a Representative/Organization
+   1. See which representatives/organizations can digitally accept the 21-22 🆕
+   2. Select the accredited represenative (individual or organization)
+   3. Select the associated VSO (cross-accredited VSO representatives only)
+      1. See which organizations can digitally accept the 21-22 🆕
+   5. Confirmation to replace an existing representative (if applicable)
+   6. Reminder to contact the representative
+3. Claimant Information
+   1. Claimant's relationshiop to Veteran
+   2. Claimant's personal information
+   3. Claimant's contact informatiom
+      1. If claimant is the authenticated user, push contact information updates to Profile 🆕 
+4. Vetgeran Information
+   1. Veteran's personal information
+   2. Veteran's contact information
+      1. If the Veteran is the authenticated user, push contact information updates to Profile 🆕
+   4. Veteran identification information (for non-Veteran claimant users only)
+   5. Veteran service information (21-22a form only)
+5. Authorizations
+   1. Authorization to access certain medical records
+   2. Authorization to access certain medical records - select records
+   3. Authorization to change address
+   4. Authorization for access in VA systems (21-22a only)
+   5. Authorization for access outside VA systems (21-22a only)
+   6. Authorization for access outside VA systems - name indivduals to authorize (21-22a only)
+6. Reivew
+7. Download
+8. Next Steps
+   1. An email notification is triggered to reiterate next steps (partner with VA Notify)
+   2. An email notification is triggered to confirm digital submission of the 21-22 (partner with VA Notify) 🆕

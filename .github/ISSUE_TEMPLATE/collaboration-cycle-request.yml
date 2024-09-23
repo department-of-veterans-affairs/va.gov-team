@@ -142,6 +142,17 @@ body:
         - "Unsure"
     validations:
       required: true
+  - type: dropdown
+    id: cms
+    attributes:
+      label: Will a VA editor (Drupal) notice this change?
+      description: A VA editor creates content that informs the public about VA facilities - operating hours, services offered at specific locations - or else public content that describes benefits and procedures for applying for them.
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: "## Artifacts"
@@ -170,11 +181,4 @@ body:
       options:
         - label: I acknowledge that I must add the GitHub labels for my team, product, and feature to this ticket. 
           required: true
-  - type: checkboxes
-    id: notify-slack
-    attributes:
-      label: Notify the Collaboration Cycle team of this ticket in your team's public Slack channel.
-      description: After creating this ticket, use the "/Collab Cycle Kickoff" slash-command in your Slack channel and follow Slackbot's instructions.
-      options:
-        - label: I acknowledge that I must notify the Governance team by completing the Collab Cycle Kickoff workflow in my team's Slack channel after submitting this issue. This can be completed by typing "/collab cycle" and selecting the kickoff workflow. 
-          required: true
+

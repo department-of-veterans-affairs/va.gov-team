@@ -3,16 +3,46 @@
 ---
 
 ## Overview
-The VA.gov header and footer are key navigational elements for VA.gov. They go beyond just a feature of the modernized VA.gov as the header and footer are also 'injected' to many non-modernized sites via script. Examples include: 
-- https://www.cem.va.gov/ 
+The VA.gov header and footer are key navigational elements for VA.gov. 
+
+The header and footer are not used exclusively on the modernized VA.gov, and are also 'injected' into many non-modernized TeamSites via a javascript application (proxy-rewrite). Example sites using the injected header/footer include: 
 - https://benefits.va.gov/benefits/ 
 - https://www.va.gov/health/
+- https://www.cem.va.gov/ 
 
 Note: Be aware that there are also "copycat" injected headers such as https://www.research.va.gov/ (as of 4/17/2023) that exist because the injection script cannot work on that site.
 
+
+## Product Ownership
+| | VA.gov header & footer | Injected header/footer | 
+| --- | --- | --- |
+| Content | Sitewide Content Team | Sitewide Content Team |
+| Design & Research  | Sitewide Product Team | Sitewide Product Team |
+| Build & compiled presentation (including analytics) | Design System Team | Design System Team | 
+| Delivery | Design System Team - incl. anything visual, errors due to style or markup changes / introduction of components | Sitewide Product Team (via proxy-rewrite app) - incl. CORS errors, problems with injection, Drupal data structure errors in injection, or addition of new sites for injection | 
+
+**Sitewide Content**
+- OCTO Lead: Danielle Thierry
+- OCTO Slack channel: #sitewide-content-accessibility-ia
+
+**Sitewide Product Team**
+ - OCTO Sitewide Lead: Michelle Middaugh
+ - VA Design lead: Amanda Klausmeier
+ - OCTO Slack channel: #sitewide-public-websites
+
+**VA Design System Team**
+ - OCTO Design System Team lead: Matt Dingee
+ - OCTO Slack channel: #platform-design-system
+
+### Other products within the header owned by other teams
+The Header and Footer contain elements that are managed separately as standalone products and have their own product development cycles. Those include: 
+* On-site search: Sitewide Product Team
+* Veterans Crisis Line modal: Design System Team
+* Authenticated menu and Login modal: Identity Team
+
 ## Problem Statement
 
-- How might we create and maintain a header that supports Veterans "browse" behaviors on the site that accurately reflect flows and information architecture?
+- How might we create and maintain a header that supports Veteran "browse" behaviors that accurately reflect flows and information architecture?
 - How might this header support the identity of VA?
 - How might we create and maintain a header that increases the usage and throughput of VA services - especially that of self-service?
  
@@ -32,8 +62,8 @@ Note: Be aware that there are also "copycat" injected headers such as https://ww
 ## Desired Business Outcomes
 
 - Facilitates the IA of VA.gov
-- Easily maintained content that leverages the CMS and content publishing releases rather than code releases for most maintenance activities.
-- Contains mandated information (e.g. FOIA, Privacy, No FEAR, etc) and supports Federal and VA policy (e.g. 21st century idea act, etc)
+- Easily maintained content that leverages the Drupal content management system and content publishing releases for most maintenance activities (rather than hard coded behavior that requires code release and deployment).
+- Contains mandated information (e.g. FOIA, Privacy, No FEAR, etc) and supports Federal and VA policy (e.g. 21st century IDEA act, etc)
 - Supports VA.gov design system needs
 - Supports USWDS design system needs
 
@@ -89,19 +119,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Artifacts
 
-#### Research
-- [Federal Standardized Header/Footer Usability Testing -- Research Findings from Phases 1 & 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/research-findings-phases1%262.md)
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/research-plan.md)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/conversation-guide.md)
-- [Interview Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/session-notes)
-- [Responsive Prototype](https://cdpn.io/pen/debug/gOEPoyo/43fa8051200887cb97f5b154ed54c8a3)
-- [Synthesis Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/analysis/Header_footer%20phase%202%20usab%20notes%20%26%20data%20analysis.xlsx)
-- [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705968636854/21a2da5c771047b31063a128a500e133522ffcf9?sender=uff8fa85716c1796ccf022668)
-
--
 #### Initiatives
 - [2021 New Mobile Header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/Initiative%20Briefing.md)
 - [2024 Federal Standardized Header and Footer](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer) - discontinued, did not ship
+
+#### Research
+- [2024 Federal Standardized Header/Footer Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research)
 
 ---
 
@@ -117,30 +140,5 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ---
 
-#### Communications
-
-- Team Name: Sitewide-Public-Websites
-- Slack channel: #sitewide-public-websites
-- Stakeholders:
-
-
-#### Product Ownership
-
-The VA Design System Team will take ownership of the Header (including meganav) & Footer in July 2024, upon completion of Sitewide work to segregate the injected header code ([Slack](https://dsva.slack.com/archives/C03LFSPGV16/p1719954937244809?thread_ts=1719849942.025859&cid=C03LFSPGV16))
-
-The Sitewide team owns the design of the header while the Design System Team owns the code of the header going forward. Thus the Design System Team is currently building out the web-components and will be working with other teams to support web-components in TeamSites.
-
- - OCTO Design System Team lead: Matt Dingee
- - OCTO Sitewide Lead: Michelle Middaugh
- - VA Design lead: Amanda Klausmeier
-
- 
 
 #### Stakeholders
-
-<details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
-

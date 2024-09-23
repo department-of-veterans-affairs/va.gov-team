@@ -1,6 +1,8 @@
 # VA Mobile app: Push Notifications Design Strategy Worksheet 
 
-Novmber 2023
+Novmber 2023  
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team  
+
 _This worksheet was created from an amalgamation of sources ([Lean UX](https://www.oreilly.com/library/view/designing-for-product/9781491971451/ch05.html) and [others](http://others)) to help cross-functional teams to align and clearly frame problems and testable product hypotheses. It is ideally completed together by UX, Product Management, and User Research, and should act as the foundation for ideation sessions (it can also be used to gut-check projects that are in-process). It should be used in conjunction with a Product Brief, user stories, etc. Questions? [holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)_
 
 This work is part of the [VA Mobile App - Personalization project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization).

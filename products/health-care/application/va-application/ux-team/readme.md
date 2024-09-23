@@ -110,7 +110,7 @@ Content Sync with CAIA
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / GH "jessicastump" - UX Design/Research
 
 #### EZR Group: 
-- Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com / GH "katelyncai" - UX Design/Research
+- Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "RenataKeck" - UX Design/Research
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 
 #### OCTO Design Lead:

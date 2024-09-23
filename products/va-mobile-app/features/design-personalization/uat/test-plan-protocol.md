@@ -1,7 +1,8 @@
 # VA Mobile App - Personalized Home Screen: UAT Plan & Protocol
 
-Based on [Standard Work - Mobile App UAT 020123](https://docs.google.com/document/d/1_TGZ3W4d7DbLfNAkbaSvv5GAHZUnkTA4_izlJWxgR0I/edit) 
-
+Based on [Standard Work - Mobile App UAT 020123](https://docs.google.com/document/d/1_TGZ3W4d7DbLfNAkbaSvv5GAHZUnkTA4_izlJWxgR0I/edit)  
+April 2024  
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team  
 
 ## **Test Plan**
 

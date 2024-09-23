@@ -1,5 +1,5 @@
 ## VetsAPI Sprint 15 Planning
-Sprint 14: 7/16/24 - 7/29/24
+Sprint 15: 7/16/24 - 7/29/24
 
 ## 📅 Upcoming Dates  & 🏖️ PTO
 * Clayton 7/16

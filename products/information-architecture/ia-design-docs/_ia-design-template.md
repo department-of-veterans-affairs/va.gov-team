@@ -3,7 +3,9 @@
 
 **Team:** [Team name]
 
-**IA Request:** [Link to Sitewide Content and IA intake request]
+**CAIA Intake ticket:**
+
+**IA Tracker:** 
 
 **On this page:**
 - [User/page flows](#flows)
@@ -28,12 +30,12 @@
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) [Page name] - [Existing/New]**
+**1) Page name - Existing/New**
 - URL:
 - Breadcrumb: 
 - Notes: 
 
-**2) [Page name] - [Existing/New]**
+**2) Page name - Existing/New**
 - URL:
 - Breadcrumb: 
 - Notes: 
@@ -45,7 +47,7 @@
 ### Primary entry point
 _Most of the time this is the CTA on a tool static landing page (a sign in widget).  For forms, it may be on a How to apply page or equivalent. Sometimes the only way to access a feature is via navigation component (top, left) or a header/footer/home page link. This is the only entry point that HAS to be ready to launch when a team goes through staging review._
 
-1. **[Page/menu name]** - [Add/Modify/Remove]
+1. **Page/menu name** - Add/Modify/Remove
   - Placement description: 
   - Link label: 
   - Link destination: 
@@ -54,7 +56,7 @@ _Most of the time this is the CTA on a tool static landing page (a sign in widge
 ### Secondary entry points
 _Any additional locations that the page should be navigable from.  This is often an about-a-form page, an R&S page about the feature, or can be left nav or mega menu.   These are secondary, and while they are still very important, are not required for launch._
 
-1. **[Page/menu name]** - [Add/Modify/Remove]
+1. **Page/menu name** - Add/Modify/Remove
   - Placement description: 
   - Link label:
   - Link destination: 
@@ -63,7 +65,7 @@ _Any additional locations that the page should be navigable from.  This is often
 ### Crosslinks
 _Not required. Links on other pages that point to this tool/thing/form._
 
-1. **[Link on a specific page]** - [Add/Modify/Remove]
+1. **Link on a specific page** - Add/Modify/Remove
   - Placement description: 
   - Link label:
   - Link destination: 

@@ -34,9 +34,10 @@ We pull in a small amount of military information to the VA.gov profile. This in
 - Branch(es) of service
 - Period start dates
 - Period end dates
+- Service type (avtive, inactive, reserves etc) 
 - Multiple periods of service, if applicable
 - Link to information on how to request records (DD214)
-- [Veteran Status Card ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/product.md)(this is owned by another team)
+- [Veteran Status Card ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/README.md)(this is owned by another team)
 
 ## User problem statements
 - As a Veteran, I want to see what service history information the VA has on file for me to validate that it's correct.
@@ -48,9 +49,10 @@ We pull in a small amount of military information to the VA.gov profile. This in
 
 [For a complete list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
 
-|Project/Inititive|Epic|
-|---|---|
-| Expand Military Information [project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information)| [Intake EPIC \| Profile \| Enhanced Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)|
+|Project/Inititive|Epic|Status|
+|---|---|---|
+| Expand Military Information [project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information)| [Intake EPIC \| Profile \| Enhanced Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)|Decided not to persue this except for adding the service type|
+|IES Download|||
 
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md)

@@ -4,7 +4,7 @@ See the resources at the bottom of this page for more information on how to test
 
 ## Page works as expected at all breakpoints
 - [ ] Page works at 360px
-- [ ] Page works at 769px
+- [ ] Page works at 768px
 - [ ] Page works at 1200px
 
 ## Page functions with CSS turned off
@@ -29,6 +29,11 @@ See the resources at the bottom of this page for more information on how to test
 ## axe checks
 - [ ] Each page has been scanned using axe 
 
+## Font-size is correct
+- [ ] Base font size for body content is 16.96px
+
+## Content is wrapped in semantic tags
+- [ ] Body, label, link, etc content is wrapped in meaningful [semantic tags](https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/css-library/src/stylesheets/uswds-typography.scss)
 
 ## Content zoom and reflow checks
 
@@ -44,9 +49,21 @@ See the resources at the bottom of this page for more information on how to test
 - [ ]  The order of `Tab` stops makes sense and is appropriate for completing tasks
 
 ## Screenreader test
-- [ ] Spot check feature with VoiceOver on mac
-- [ ] Spot check feature with VoiceOver on phone
-- [ ] Spot check feature with TalkBack on phone
+
+Spot check on any screen readers available to you:
+- [ ] VoiceOver on Mac
+- [ ] VoiceOver on phone
+- [ ] TalkBack on phone
+
+Test that screen reader
+- [ ] Reads entire page
+- [ ] Announces interactive elements clearly and in expected order
+- [ ] Navigates headings clearly and in expected order
+
+## Voice-assisted Tech test
+
+Check feature is navigable using voice-assisted technology
+- [ ] Test with [Voice Control on Mac](https://support.apple.com/en-us/102225)
 
 ## Resources
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)

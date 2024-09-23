@@ -19,11 +19,9 @@ If you're interested in presenting reach out to Anastasia Jakabcin via DM in the
 _Presentations occur at 1:00pm ET_
 |    Team      | Presenter | Initiative | Launch Date | Impact Review Date|
 |----|----|----|----|----|
-| Benefits Management Tools | Jacob Worrell | _Enter initiative_ | _Enter launch date_ |  August 8, 2024|
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | August 8, 2024 |
-| Benefits Management Tools | Lindsay Li-Smith and Janelle Finnerty | Accredited Representation Management | various | September 5, 2024|
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | September 5, 2024|
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | October 3, 2024 |
+| Accredited Representation Management | Lindsay Li-Smith and Janelle Finnerty | Accredited Representation Management | various | September 5, 2024|
+| Benefits Management Tools | Jacob Worrell | Claim details v2 | May 2024 | September 5, 2024|
+| Benefits Management Tools | Jacob Worrell | Claim phase expansion | August 2024 |  October 3, 2024|
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | October 3, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | November 7, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | November 7, 2024 |

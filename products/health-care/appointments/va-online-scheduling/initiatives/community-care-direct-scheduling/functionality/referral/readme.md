@@ -1,4 +1,4 @@
-# Referrals (CC Consults)
+# Referrals (Active CC Consults)
 
 ## Integration plan 
 
@@ -17,6 +17,16 @@ Last updated: July 2, 2024
 
 - [CCRA/HSRM User Guide with screenshots of referral data fields; 2024 (SharePoint)](https://dvagov.sharepoint.com/sites/vacovha/DUSHCC/DC/DO/CI/CCRA/Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvacovha%2FDUSHCC%2FDC%2FDO%2FCI%2FCCRA%2FDocuments%2FHSRM%20Build%2024.0%20Files%2Fccra_hsrm_va_end_user_guide_release_24.0.pdf&parent=%2Fsites%2Fvacovha%2FDUSHCC%2FDC%2FDO%2FCI%2FCCRA%2FDocuments%2FHSRM%20Build%2024.0%20Files)
 - [HSRM data and field definitions; 2021 (SharePoint)](https://dvagov.sharepoint.com/sites/VHACCPIR/KMSVID/KMS%20Documents/Forms/Docs.aspx?id=%2Fsites%2FVHACCPIR%2FKMSVID%2FKMS%20Documents%2FHSRM%20%28CCRA%29%2FData%20Entities%20and%20Field%20Definitions-v25-20210519.pdf&parent=%2Fsites%2FVHACCPIR%2FKMSVID%2FKMS%20Documents%2FHSRM%20%28CCRA%29)
+
+## SEOC (Standardized Episode of Care) Admin List
+
+- [SEOC Admin List site](https://ssologon.iam.va.gov/centrallogin/Default.aspx?appname=core&URL=https://ssologon.iam.va.gov/centrallogin/core/redirect.aspx&TYPE=33619969&REALMOID=06-9547f248-4199-4cf8-976c-1877215e1f1d&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$lJ3WPTrXgev6x7qOwvSFgkTk0A1AZCx%2b%2bnblljoF4XNFBHvrj5wIaxxxBVN5zkfY&TARGET=$SM$https%3a%2f%2fseoc%2eva%2egov%2f)
+
+| HPTC (or SEOC)  |  Grouping  | Classification |
+| ------------- | ------------- | -------------
+| 225100000X (may be shortened to 225) | Respiratory, Developmental, Rehabilitative and Restorative Service Providers | Physical Therapist |
+
+
 
 ## Functional requirements  
 

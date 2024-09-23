@@ -1,6 +1,64 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+## 9/17/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+
+1. Mike: seeking VBA signoff on design for [Submission Experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md) > Timely and Truthful Submission ([Zenhub epic](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) / [Github epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82076) / [Figma mockups](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&t=yuh8OGDS9kvw7KCR-1))
+2. Ruben: Continue the discussion for 4142:
+   * How private medical facilities are notified
+   * How requests to limit consent are handled
+   * How is it done today when using the paper form that allows them to enter more than, but not submit them separately?
+3. Jina: does VBA have a new file type for display in VBMS for the new form? (0781) 
+
+## 9/3/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+* Jina - We looked into how the 4142 is generated in the backend. If 5 providers are inputted, then one PDF 4142 with all 5 providers on it are generated. We want to double check that this is same PDF is sent to all 5 providers. ([ticket link]([url](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/6?pane=issue&itemId=75109776))) - separate 4142 goes to each provider. the grouped provider can be for a 4142a. 
+what happens if multiple providers is sent to one provider? this is a HIPPA concern. it'll come back as "we haven't seen X for this condition" 
+* Jina - which SC category does "traumatic event" fall under? - majority of time for traumatic event, it'd be the first option (direct SC). but there could be scenarios where it was aggravated by an event. so that'd be the third bullet. 
+add (traumatic event)
+* TREX - 2022/TE Form526 5% (Canary) release: how is the data looking for 10% release from VBA's side?
+
+## 8/20/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+* Feedback from VBA on Toxic Exposure Moderated Production Testing
+* T-REX lessons learned from TE Moderated Production Testing
+* [PII concern from Robin](https://dsva.slack.com/archives/CBU0KDSB1/p1724089667718119?thread_ts=1724089667.718119&cid=CBU0KDSB1)
+
+
+
+## 8/6/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+
+1. Jina - show content changes for 0781 (encouraging filling out new PDF while online version is being built out)
+   david - this looks ok. 
+   lisa - are we going to put anything about how online version isn't up to date? i don't feel like i'm being told why i'm being recommended the PDF
+   shannon - turn off validation on upload 0781 page so we don't require them (emily leans toward not changing that); we want to keep this small lift. PDF is less burden, faster, trauma informed but it's hard to explain succintly (which is why content is more handwaving).. we can see what happens. this is at least an incremental nudge that's imperfect but could be a good tradeoff
+   emily - tweak copy - you don't need to scan copy of your file for all folks (save as PDF instead). also add link to PDF on this page. check file types?
+   
+2. Emily - Is there a way to block the production "moderated testing" cases from being sent to Mail Automation?
+
+* When performing Moderated Production Testing (MPT), we don’t want the submission to ping the service that triggers Mail Automation. This is part of Rapid Ready for Decision (RRD). T-REX can create a toggle to prevent this from happening.
+* We also want to prevent an ITF from being created
+* We don’t want testers to fill out a 4142, so exclude this from the test cases
+* We should have a test case that includes uploading fake evidence documents. We’ll provide an image file for testers to use
+* We want to prevent the backup path being triggered, as this would trigger a human creating a claim and we won’t have the ability to delete it as soon as it comes through. Ideally we should block this from happening.
+
+3. Jared - How might we delete the submitted claims in VBMS? Who can do this? Similar to Emily's question. How will we communicate with potential testers?
+* Kevin, VBA will help with deleting a claim. He’ll cancel the EP and delete documents. Matt can help as needed.
+* To help Kevin, provide him a screenshot of the Review & Submit screen form data, or if needed provide him with the raw formDatta JSON
+* Emily will create a spreadsheet to track test cases - this will help us understand if the submitted data is the same as the claim in VBMS & the PDF
+* T-REX to edit the MPT email/Slack script to include that we’ll need volunteers to send their file number and email address to Kevin over a Teams chat or an encrypted email.
+
+
 ## 7/23/24 Biweekly VBA-DBEX Check-in
 ### In attendance
 …

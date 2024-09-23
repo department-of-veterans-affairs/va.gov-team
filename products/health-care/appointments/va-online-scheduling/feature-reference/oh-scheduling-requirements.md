@@ -31,13 +31,22 @@ OH facility [leadership] can configure the online scheduling options available t
 
 **A Veteran must [choose a location for their appointment](schedule-flow/va-direct--choose-location.md) for their selected type of care.**
 
-- The system displays all OH locations where the Veteran has had an encounter.
+The system displays all OH locations where the Veteran has had an encounter.
 
-- A OH user can schedule nutrition and food appointments at any OH location where:
-  - They are a registered patient at any OH location.
+OH facility staff can configure:
+- Whether a facility supports direct-scheduling, requests, both, or neither for each type of care.
+   - Note that the general rules for which scheduling types are allowed
+- Whether a user is required to have had an encounter at that facility for each type of care
+   - The timeframe for that encounter (e.g. 24 or 36 months - actual timeframes TBD)
+- The number of requests a user is allowed to submit to a facility for a given type of care (e.g. 1-2)
+- Staff configure these settings in CTPS.
+
+A OH user can schedule nutrition and food appointments at any OH location where:
+  - They are a registered patient.
     - Note: registering at one OH location automatically registers them at all other OH facilities.
   - AND They have had an encounter at that location for `Nutrition and Food`
-  - AND The location has enabled direct scheduling for `Nutrition and Food`
+  - AND The location has enabled direct scheduling for `Nutrition and Food`Rule:
+  - Note: Facilities with providers a user has a relationship with will only be displayed if the user has had a past encounter with that provider at that specific facility. This prevents users from accidentally scheduling appointments at distant locations if a provider has moved to a different facility.
 
 When choosing an OH location, a Veteran will be directed to [request an appointment](#requests) if the facility:
   - Does not have DS enabled,
@@ -48,13 +57,21 @@ When choosing an OH location, a Veteran will be directed to call to schedule if:
    - They select `Nutrition and Food`, but have not had an encounter for that type of care at that location.
    - Neither DS nor requests are enabled
 
+The system alerts the user if they can't continue scheduling an appointment because:
+- They aren't registered at any facilities where they can schedule appointments
+- None of their facilities support direct scheduling or requests.
+- The facility they chose doesn't support direct scheduling or requests.
+- They haven't had an encounter in the given timeframe at the location they selected.
+- They have hit the limit of requests for the selected type of care at the selected facility.
+
 **A Veteran may choose a provider for their appointment.**
 The Veteran is given the option to select:
-- Providers with whom they have had a recent encounter (within the last 36 months) for `Nutrition and Food`.
+- Providers with whom they have had a recent encounter (within the timeframe configured in VAS) for `Nutrition and Food`.
 - None of the options
     - If they choose this option:
       - AND requests are enabled, they are directed to [request an appointment](#requests).
       - If requests are disabled, they are directed to call to schedule.
+
 
 **A Veteran must [provide the preferred date for their appointment](schedule-flow/va-direct--preferred-date.md).**
 - Note: OH can't receive preferred date due to a technical limitation. However, this field is used to warn users that they can't select same day appointments.

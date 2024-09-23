@@ -1,11 +1,66 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+
+## Sprint 6
+9/11 - 9/24
+**Toxic Exposure**
+* Complete 75% rollout
+  * [stretch] Complete 100% rollout
+* Address high priority submission and validation errors
+
+⠀**Submission Experience**
+* Submit Timely & Truthful for CAIA review
+  * Revise designs if possible
+* Con’t: Describe (draft) high level intent of up to 3 solutions for Submission Record and Tracking
+
+## Sprint 5
+Period 8/28 - 9/10
+
+**Toxic Exposure**
+- Complete 5% and 10% Canary rollout
+- Address high priority submission and validation errors
+
+**Submission Experience**
+- Revise design for Timely and Truthful
+- Reflect insights from ideation workshop
+
+
+## Sprint 4
+8/14 - 8/27
+
+**Toxic Exposure**
+- (Complete Staging Review)
+- Complete 5% Canary rollout >
+- Evaluate user metrics (Medallia & GA) to inform research
+  
+**Paper Form Sync**
+- Temp on hold until after 100% TE rollout
+  
+**Submission Experience**
+- Ideate solutions to Timely & Truthful + Submission Record and Tracking
+
+## Sprint 3
+7/31 - 8/13
+
+**Toxic Exposure**
+- 1.0 Launch Prep (Product/UX testing, Perform PSIRR, Perform Staging Review, Moderated Prod Testing, UAT)
+- Review Medalia survey data (stretch)
+
+**Paper Form Sync**
+- Temp on hold
+
+**Submission Experience**
+- Adjust the design for Timely & Truthful based on research findings
+- Incorporate research findings into Submission Record and Tracking
+- Create submission status research report and share out findings
+
+
 ## Sprint 2
 Period - 07/17/2024 - 07/30/2024
 * **Toxic Exposure**
   * Validation, testing, and submit for Staging Review
 * **Paper Form Sync**
-  * Begin implementation Claim Certification behind feature flag - stretch goal
+  * Begin implementation Claim Certification - stretch goal
 * **Submission Experience**
   * Synthesize insights from Timely & Truthful research study
 

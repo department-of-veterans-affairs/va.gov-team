@@ -337,7 +337,7 @@ Note: this document does not include research history for Appeals projects, whic
 
 -16 participants (4-8 therapists / social workers. 8-12 veterans)
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/nov-2020)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/archive/nov-2020)
 
 
 
@@ -351,7 +351,7 @@ Note: this document does not include research history for Appeals projects, whic
 *VAOS, Peter Russo*
 
 - 8 Veterans
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/oct-2020-cc-provider-discovery/research-plan-cc-discovery.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability)
 - Scheduling, Appointments
 
 #### November 6 - November 20: Community Care Request Manager Research
@@ -429,11 +429,11 @@ Note: this document does not include research history for Appeals projects, whic
 #### August 10-14 Patient Generated Data Discovery Research
 *VA Lighthouse APIs: Lauryl Zenobi*
 - 9 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/patient-generated-data)
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Health%20Research/2020-08-Perception-of-Patient-Generated-Data-with-veterans)
 **Key words:** Veterans, Clinicians, PGD, Wearables, Data-sharing, Clinical workflows
 
 
-#### August 10 - 12
+#### August 10 - 12 COVID Vaccine Trial Enrollment
 *CTO health team: Ryan Thurlwell*
 
 - 6 participants (out of 8), 1 round
@@ -458,8 +458,7 @@ Note: this document does not include research history for Appeals projects, whic
 *DEPO team, Melissa Schaff*
 
 - 15 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research)
-- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/july-2020-user-research/2020-july-VAOSR-EC-research-report.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2020-07-vaos-mvp-and-express-care-user-research)
 
 **Keywords**: vaos, vaosr, online scheduling, express care, covid, coronavirus, user research, usabilty testing
 
@@ -478,7 +477,7 @@ Note: this document does not include research history for Appeals projects, whic
 *Ad Hoc: Carey Otto, Evangeline Garreau, Maria Vidart-Delgado
 
 - 11 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/privacy/connected-accounts)
+- [Research folder](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Veteran%20User%20Research/2020-06-Connected-Accounts-with-Veterans)
 
 ### June 2020
 
@@ -547,8 +546,8 @@ Note: this document does not include research history for Appeals projects, whic
 *DEPO team, Melissa Schaff*
 
 - 11 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research)
-- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research/express-care-research-report.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2020-05-express-care-research)
+- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2020-05-express-care-research/research-findings.md)
 
 **Keywords**: express care, virtual care, online appointments, video appointments, urgent care, vaos, covid, coronavirus, user research, usabilty testing
 

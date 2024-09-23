@@ -6,60 +6,95 @@
   * Review status of current work
   * Discuss changes in risks, dependencies, assumptions, resources, staffing or priority for the current / future sprints
   * Review insights from ongoing discovery or delivery work for the current / future sprints
-  * Triage unplanned work
+  * Triage new work
   * POs reconfirm project priorities
-  * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
+  * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+     * Call out any Closed Epics
+     * Call out unplanned work
   
-## OKRs
-### Platform
-#### Stability
-| KR |Q2 | Q3 | 
-|-------- | ----------- | ----------- | 
-|Zero app store rejections | 0 | 0 |
-|Zero failed CI processes related to a release | 0 | 0 |
-|Reduce bugs by 25% | 0 | 0 |
-|Zero failed RC testing due to a bug | 0 | 0 |
-|Zero severity-1 accessibility issues | 0 | 0 |
+### [OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/MobileTeamOKRs.md)
 
-#### Productivity
-| KR |Q2 | Q3 | 
-|-------- | ----------- | ----------- | 
-|Platform user happiness trends in positive direction | Establishing Baseline | 0 |
-|100% of new devs are "up and running" by the end of first sprint: can build and test front end locally; can build and test back end locally; merged one PR. | Blocked | Blocked |
-|100% of Experience teams’ PMs and designers own mobile tickets on Experience teams’ board by the end of first sprint. | Blocked | Blocked |
+## 10/16/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Q4 Plan Readout
 
+## 10/2/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Q4 Planning milestones
+  * [Quarterly Planning Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/planning/quarterly%20planning/MobileQuarterlyPlanningProcess.md)
+  * Readout in SoS Oct. 16
 
-### VA H&B App
-#### Retention
-| KR |Q2 | Q3 | 
-|-------- | ----------- | ----------- | 
-|Retention at the 30, 60, and 90-day marks increase by 10% | 0 | 0 |
-
-#### Satisfaction
-| KR |Q2 | Q3 | 
-|-------- | ----------- | ----------- | 
-|Baseline Veteran satisfaction score is established | Blocked | Blocked |
-|Veteran satisfaction score is increased by 10% | Blocked | Blocked |
-|App store rating remains at or above 4.6 / 4.8 | Yes | Yes |
-
-#### The App Works
-| KR |Q2 | Q3 | 
-|-------- | ----------- | ----------- | 
-|App load time is 2 seconds or less | 0 | 0 |
-|Reduce bugs by 25% | 0 | 0 |
-
-
-
-
+## 9/18/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Ask - think through prioritization process (PM group)
+  * User Impact, Business Impact, LOE
+  * Want to have a clearer way of describing priority of Epics
+* Ask - User Metrics for Shared Services (Don, Ryan, Matt, Kelly)
+  * how many current users do we have? by user, I mean # of people, # of teams, or however else we define user
+  * on average, how many "leads" do we get every month (or whichever time frequency we use to track)? by lead, I mean new teams filling out an intake form
+  * approximate % of leads who become an actual user?
+*  Rachel's 'Product Launch'
+  *  Likely out Nov. 15, returning end of Jan/early Feb (Feb 10)
+* Upcoming VA events:
+  * DE Portfolio monthly mtg w/ Charles 
+    * Veteran Facing - Oct 1
+    * Shared Services - Nov 1
+  * week of Nov 11 - OCTO off-site
 
 
 ## Agenda
+## 9/4/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* **Home Screen 30 Day Metrics Review**
+
+
+## 8/21/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* OKR formats - review OKR page and discuss update timing
+  * Bug Reduction OKRs (Therese)
+* Disaster recovery / home screen API call usage
+  * upstream teams feeling stress of additional home screen traffic to their APIs
+  * most teams have been able to scale except the Community Care appts which caused failures in other tools
+  * Lesson Learned - think about this for future feature development and be sure to work with upstream services ahead of launching to get them ready
+  * We are looking at adding the functionality to turn off individual home screen cards to reduce load to those services [ticket](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/9355)
+     * Priority of this change = medium to low
+  * Monthly Payment API switch over - do we know if the new API would perform better? - Stacy to check with Jayson to answer
+     * Need to ensure the data is the same - work with owners of new API to confirm
+     * We should test to confirm as well
+*  How to learn about changes from other teams.
+   *  We don't currently get timely notification of upstream API changes
+   *  We also didn't communicate to upstream API teams about added traffic either, so this is a wide-spread problem
+   *  OCTO Portfolios are aware of this communication gap and having active conversations
+   *  In the meantime, we should keep this gap in mind and do our best
+   * ex.2. Switching API call from EVSS to Lighthouse and what is the cost of doing so - monthly payment call on homepage
+   * ex.1. VA.gov added error messaging for Z status for Veteran status but did not inform us, despite talking to us about the bug.
+* Mobile - Web Collaboration session last Friday
+   * It was great, you can watch the recording if you couldn't join
+   * Had a lot more communication with experience teams since then
+* What are the next steps for the Veteran Status work?
+   * Leads discussing Thursday 8/22 for how this will work*
+      * *There is nothing to panic about
+      * Will have to be strict with our prioritization decisions
 
 ## 8/7/24
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
-  * OKR formats - how to make them easier to report on consistently
-     * Bug Reduction OKRs (Therese)
+* OKR formats - review OKR page and discuss update timing
+  * Bug Reduction OKRs (Therese)
+* How to learn about changes from other teams. For example, VA.gov added error messaging for Z status for Veteran status but did not inform us, despite talking to us about the bug.  
 
 ## 7/10/24
 * **Epics Review**

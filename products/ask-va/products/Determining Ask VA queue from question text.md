@@ -1,5 +1,5 @@
 # Determining Ask VA queue from question text
-Last updated by @beckyphung: July 22, 2024
+Last updated by @beckyphung: August 14, 2024
 
 This doc describes how we can use current Ask VA data to train an AI model. The model will determine the queue a question should land in based on the question text.
 
@@ -11,7 +11,8 @@ Jump to:
 - [Background](#background)
 
 ## Problem statements
-This AI model could support both agent and submitter needs. 
+This AI model could support both agent and submitter needs. However, based on a more in-depth analysis we conducted ([view our GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Queue%20analysis.md)), we believe an AI model has a[ greater impact on the submitter experience of completing the form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Queue%20analysis.md) compared to reducing solution time.
+
 ### Submitter problem statement: Misrouting and form burden
 Sometimes, people choose the wrong answers to Category, Topic, and Location, so the CRM routes their question to a queue with assigned agents who can’t answer their question. **Agents reroute around 7% questions every year to different queues.** 
 
@@ -55,9 +56,12 @@ Agents reroute once correctly 90% of the time. 10% of the time, it takes agents 
 **Opportunity**: We could help agents reroute correctly the first time by recommending queues to agents in CRM. 
 There is a primary benefit to dynamically recommending queues to agents:  
 -	Submitters will get quicker responses because questions get rerouted by agents to the correct queue the first time. We know **it takes agents 1.5 times longer to respond to questions if they reroute a question multiple times compared to only rerouting once**.
+- Agents will waste less time rerouting inquiries.
+
 ## Plan WIP
 -	WIP
 -	See planning work [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719949263359/22d8bf1e2d70fac8a9da7e57ca6642e2e23724fb?sender=u44efa807e992cacf10cf3697)
+
 ## Background
 There are currently 191 queues in the Ask VA CRM. Each queue has a specific group of people (aka ‘teams’ or user groups in CRM) who can answer questions only assigned to certain queues. 
 When a submitter submits a question through the Ask VA form, answers to the following questions determine which queue the question lands in: Category, Topic, and State of Residency.

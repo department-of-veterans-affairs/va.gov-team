@@ -1,5 +1,96 @@
 # Design Weekly Sync Agenda
 
+
+## 2024-08-26
+Attendees: Angela, Jessica, Hieu, Lois, Renata and Luis
+
+**Analytics chat**
+Voc = Voice of the Customer, effort from CIO office
+Team to gather data that exists; processing and presenting to CIO, Lois involved with that effort - separate from this team
+What benefits team is doing; way of working + align with what they are doing
+Monthly pull basis Medalia
+More actionable insights
+Tell the story with links back to data
+CSAT score positive or negative — what happened? What we know?
+Starting pinning to certain changes made on form
+Concerns with data sources populating correctly
+Need to do a clean up = landscape effort
+Leaning more into GA4 and DataDog
+Start reporting richer metrics
+ACTION ITEM: Team next steps meeting, PM + PO focused with Luis and Lois
+
+
+**Social listenting**
+VA Mobile app; play store reviews ,Reddit mining
+CHAMPVA fB groups; so much data in there, ethics to discuss
+What other teams have done something like this
+You tube Veteran influences - comments
+ACTION ITEM: Renata to open a ticket and start social listening around Priority Groups
+
+
+**Facilities updates**
+Reviewed current CG facilities design around CG research
+Noting all just Figma and v3 component updates
+Reviewed EZ phased facilities designs and search
+Noting will need to start thinking about research +
+ACTION ITEM: Jessica schedule EZ/CG team meeting. Create a ticket for planning around EZ facilities research and metrics
+
+
+**Notification on EZR**
+Reviewed Mural
+Worked on landscape of teams and their Figma files
+Call outs on phone number and in-consistency
+Back end systems where info goes
+Leverage other teams for updatingTalked about status that would trigger a notification need
+What Priority Groups / reasons are there for a notification trigger to complete the financial assessment
+Phone numbers - watching out for inconsistencies,
+ACTION ITEM: Hieu - Look into notification triggers / statuses
+
+
+
+
+## 2024-08-12
+Attendees: Angela, Jessica, Hieu, Lois, and Renata.
+
+**Multiple responses pattern** 
+- Went over the "custom" version used on the EZ/EZR today and the mocks using the 'forms library' version for EZ insurance and EZR EC/NOK
+- We will create clear labels in the design source of truth files to make this really clear when we are using what version
+- Will align styles to the form library version as much as possible but acknowledge there will be some visual differences (save-in-progress alerts and delete/remove icon button) with the custom version used
+- Talked through state when a Veteran could see the custom and library versions of the pattern in the same go through the form, not ideal interim state but okay with it
+- Goal: to help improve the pattern with the forms library and move all of our custom to the library version eventually
+
+**Design notes + documentation** 
+- The before/after side-by-side and the notes and callouts of what changed has been received well! Team notes engineers and content peeps have called this out. Plan on continuing with this pattern and what else is valuable to note and annotate in the future.
+
+**Tickets template:** 
+- Walked through slack thread of new areas to include in tickets but especially the dependencies feature is a nice add on
+
+** Registration update**
+- the sign in part was just to remove the link to save the form on those first couple of pages where the registration questions are presented.
+
+**Action Items**
+- Ask the engineers regarding the stacking button. If that is an automatic rollout or something needs to be done.
+- UX team needs to go to the Forms design officer hours regarding the list & loop directions.
+- UX team needs to indicate a badge for the custom list & loop vs no badge for the Form’s version. 
+
+
+
+## 2024-07-29
+Attendees: Angela, Jessica, Hieu, Lois. Luis, and Renata.
+
+Team updates Lois on current projects and efforts:
+- Registration path: Lois asked if there is enough interest in this path. Jessica notes that the MVP is only for service-connected Veterans with disabilities rating between 10-40%, but there are tons of other reasons for someone to apply through a Registration-only pathway (such as IVF, mental health, non-veterans, humanitarian, etc)
+- Lois inquired about the team’s Accessibility process in staging. We currently have a QA person who does Accessibility as part of their test but UX and PM can jump in during the Collaboration process. 
+- Lois needed help with the Google Analytics access. Luis notes that Lois’ access is GA3 and it will need to be GA4. Luis also recommends Datadog out-of-the-box analytics. 
+- Team updates Lois on the CAIA process: all processes, no matter the size, should go through CAIA. 
+- TERA: 
+  - Lois is puzzled by VES’ Other Toxin character limitation which potentially forces another fill-in
+  - Team updates Lois on the Special Character effort. VES indicated they could receive the change so the team pushed out the changes but the VES backend was not ready. 
+  - For TERA branching logic, the team realized that the form is only asking for the Vetearn’s last branch of the service period. The team showed a few different options on how to ask for additional services. Lois likes the 3rd option: Description, Military service component, then the question to add more. 
+  - The team later discussed simplifying the question into year-only.
+
+
+
 ## 2024-07-23
 Attendees: Angela, Jessica, Hieu, and Lois.
 

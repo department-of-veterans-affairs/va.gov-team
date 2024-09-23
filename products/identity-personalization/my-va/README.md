@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: April 26, 2024 - updated projects**
+**Last updated: August 16, 2024 - updated latest FE documentation for Benefit Application Drafts and changed title to "Benefit applications and forms"**
 
 ### Communications
 
@@ -136,7 +136,7 @@ _Why would your business want this to exist?_
 |----|----|---|
 |My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
 |[SiP configuration enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/save-in-progress-configuration-enhancement) | [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509) | In development |
-|[Forms status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/benefit-application-drafts-forms-submission-status#project-outline-benefit-application-drafts--forms-submission-status-wip) (in partnership with Veteran Facing Forms) |[#81849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81849) | In development |
+|[Forms status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/README.md) (in partnership with Veteran Facing Forms) |[#81849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81849) | In development |
 |Notifications: badge indicator| [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788)| In development |
 
 ### Completed projects & enhancements
@@ -228,7 +228,7 @@ _Why would your business want this to exist?_
    - [Outstanding Debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/outstanding-debts-FE-documentation.md)
    - [Benefit Payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/benefit-payments-FE-documentation.md)
    - [Education & Training](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/education-and-training-FE-documentation.md)
-   - [Benefit Application Drafts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/applications-FE-documentation.md#my-va-benefit-application-drafts-frontend-documentation) 
+   - [Benefit Applications and Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/FE-documentation-MVP.md) 
 
 ## Backend
 

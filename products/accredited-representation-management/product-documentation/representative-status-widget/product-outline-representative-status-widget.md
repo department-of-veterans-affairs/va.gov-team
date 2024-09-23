@@ -46,13 +46,14 @@ We are actively outlining our [ARM OKRs](https://app.mural.co/t/departmentofvete
 1. [Decision and Change Log: Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/decision-change-log-representative-status-widget.md)
 2. [Representative Status Widget Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/launch-materials/product-playbook-incident-response-plan.md)
 3. [Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/representative-status-widget/contact-center)
+4. [Service Map](service-map.md)
 
 ## Future Plans and Ideas
 When the Appoint a Representative product launches, the Representative Status Widget will be included in the user flow to help users understand if they have existing representation, and that any requests for new representation will replace their current appointed representative.
 
 We are also partnering with the Profile and MyVA teams to include a version of the representative status information that better matches existing design patterns.
 
-Longer term ideas for Find a Representative are stored in our [ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+Longer term ideas for the Representative Status Widget are stored in our [ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
 
 #### Communications
 

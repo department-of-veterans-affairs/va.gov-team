@@ -101,12 +101,12 @@
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: Make it easier for Veterans with representatives to fill out the online form
-  - Key result: number of applications that are not misrouted or delayed (obtained from CSP leadership)
+  - Key result: Reduce the number of applications that are misrouted or delayed (obtained from CSP leadership)
  
-|Invalid/Duplicate/Created in error| Baseline (Jan-Feb 2023)| Target | 1 Month after launch|
+|Invalid/Duplicate/Created in error| Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
-|Total Apps (rounded) | 960 | TBD | TBD |
-|Total Online Apps (rounded) | 520 | TBD | TBD |
+|Total Apps (rounded) | 384 | TBD | TBD |
+|Total Online Apps (rounded) | 222 | TBD | TBD |
 
 
 
@@ -130,7 +130,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - **Usability Risks** (can people figure out how to use it):
   - Applicants may not understand the reason for selecting a facility.
   - Applicants may not understand how to use the facility selector/search.
-  - Applicants may be given too much information about facility, location, and so on and feel overwhelmed when making a decision.
+  - Applicants may be given too much information about facility, location, and Caregiver support association and feel overwhelmed when making a decision.
 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - API dependencies may cause unplanned outages, causing the facility selector page to be unresponsive
@@ -144,7 +144,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - Revisit UI against the current Facilities selection page on VA.gov and other private sector locator search pages
   - Condust research/usability sessiosn with Veterans to determine the best, easiest to use design
   - Redesign facility selection page
-    - Provide applicants with an idea of location/distance of any given facility to ensure they can select the one that is correct for them.
+    - Provide applicants with the option to search by city, state or postal code of any given facility to ensure they can select the one that is correct for them.
 --- 
 
 ### Outstanding Questions
@@ -162,7 +162,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Collaboration Cycle
 
 - [Kickoff ticket #51980](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/51980)
-  - [ ] Design Intent 3/20/2023
+  - [x] Design Intent 3/20/2023
   - [ ] Research Review
   - [ ] IA Review
   - [ ] Midpoint Review
@@ -173,7 +173,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Incident Response Info
 - The 1010CG form is currently in production
 - We are going to begin calling an existing API (Facilities API)
-- We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
+- XXXXXX We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
 - 1010CG [Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 ### Timeline 
@@ -218,7 +218,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
   
 - Office/Department: OCTO-DE
-- Contact(s): Patrick Bateman, Katherine Lawyer, Mark Dewey
+- Contact(s): Patrick Bateman, Lois Lewis
  
 </details>
 

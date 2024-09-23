@@ -56,11 +56,13 @@
 ## Product 
 
 #### Product Documentation
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
+- [Patient Check-in Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md)
+- [Day of Appointment Travel Reimbursement Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/oracle-health-travel-product-outline.md)
 - [Product Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/README.md)
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
 - [Other Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
 - [Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos#product-demo)
+- [508 Audits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/508-audits)
 - [Responding to Veteran Complaints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/responding-to-veteran-complaints.md)
 - PCI Service Blueprint with 45MR, filing BT claim and "Are you at the facility?" page
     - [Review Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286)
@@ -104,6 +106,7 @@
 - [Facility Directory](https://www.va.gov/directory/guide/rpt_fac_list.cfm?sort=Sta&list_by=all&oid=all)
 - [VAMC EHR Facility json](https://www.va.gov/data/cms/vamc-ehr.json)
 - [Testing Setup](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md)
+- [Instructions for Accessing Patient Check-in in the Staging Environment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-demos/staging-instructions.md)
 - [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
 - [TestRail Test Plans & Cases](https://dsvavsp.testrail.io/index.php?/projects/overview/62)
 
@@ -136,10 +139,22 @@
   - [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
   - [CHIP API](https://github.com/department-of-veterans-affairs/chip)
   - [LoROTA API](https://github.com/department-of-veterans-affairs/lorota)
-  - [checkin-devops](https://github.com/department-of-veterans-affairs/checkin-devops/)
-  - [cie-staging-scheduler](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/)
-  - [cie-datadog-log-forwarder](https://github.com/department-of-veterans-affairs/cie-datadog-log-forwarder/)
   - [octo-vista-api](https://github.com/department-of-veterans-affairs/octo-vista-api/)
+  - [cie-staging-scheduler](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/)
+- Code Repositories (DevOps)
+  - [checkin-devops](https://github.com/department-of-veterans-affairs/checkin-devops/): General DevOps repository and root IaC for the `vaec-cms` and `vaec-cie` AWS accounts
+  - [cie-bash](https://github.com/department-of-veterans-affairs/cie-bash/): Bash scripts shared across multiple repositories and projects
+  - [cie-codebuild-ghar](https://github.com/department-of-veterans-affairs/cie-codebuild-ghar/): Terraform module to configure Self-Hosted GitHub Actions Runners in AWS CodeBuild.
+  - [cie-datadog-log-forwarder](https://github.com/department-of-veterans-affairs/cie-datadog-log-forwarder/): Terraform module to configure the Datadog Log Forwarder in the `vaec-cie` AWS account.
+  - [cie-downstream-api](https://github.com/department-of-veterans-affairs/cie-downstream-api/): Terraform module for managing a "downstream" API for services to interact with CHIP and LoROTA.
+  - [cie-dsva-iac](https://github.com/department-of-veterans-affairs/cie-dsva-iac/): Terraform configuration for managing Check-In Experience resources within the `dsvagovcloud` AWS account.
+  - [cie-github-actions](https://github.com/department-of-veterans-affairs/cie-github-actions/): GitHub Actions that can be reused across Check-In Experience projects.
+  - [cie-iam-manager](https://github.com/department-of-veterans-affairs/cie-iam-manager/): Terraform configuration for managing IAM roles, policies, and other access control resources in the `vaec-cie` AWS account.
+  - [cie-system-tests](https://github.com/department-of-veterans-affairs/cie-system-tests/): Automated tests that leverage the known-working code of CHIP and LoROTA to validate the infrastructure in the `vaec-cie` AWS account.
+  - [cie-terraform-modules](https://github.com/department-of-veterans-affairs/cie-terraform-modules/): Terraform modules that can be reused across Check-In Experience projects.
+  - [cie-test](https://github.com/department-of-veterans-affairs/cie-test/): A test repository without any real content, just used to validate Terraform modules that act on a specified repository.
+  - [cie-upstream-api](https://github.com/department-of-veterans-affairs/cie-upstream-api/): Terraform module for managing an "upstream" API for CHIP and LoROTA to interact with Vista API, BTSSS, and other APIs.
+  - [cie-utility-api](https://github.com/department-of-veterans-affairs/cie-utility-api/): Terraform module for managing a "utility" API that exposes endpoints useful for debugging and interacting with the deployed instances of CHIP and LoROTA.
 - [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/architecture-diagrams)
 - [System Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering)
 - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/qa)

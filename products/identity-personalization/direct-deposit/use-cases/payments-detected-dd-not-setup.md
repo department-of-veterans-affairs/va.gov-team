@@ -8,16 +8,12 @@ If an ID.me or Login.gov LOA3 user (identity verified) logs in to VA.gov, naviga
 - [Desktop mock-up](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-500&mode=design&t=JeBw2hRh9J5QSuL7-11)
 - [Mobile mock-up](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-139&mode=design&t=JeBw2hRh9J5QSuL7-11)
 
-### Compensation and pension payments
+### Adding direct deposit information
 - Content prompts user to add account information
 - Clicking the `Add` button will enable edit mode within this section. A user can add their routing number, account number, and account type.
 - Bank name will be automatically filled in based on the routing number; users can't manually add their bank name.
 - [Read more about edit mode here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md)
 
-### Education payments
-- Education section will show the same state as if the user [does not receive education payments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md). Users will see content directing them to call VA to set up direct deposit payments.
-- There is currently no way for users to set up DD pamyents for education benefits online
-- Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
 
 ## Codes
 

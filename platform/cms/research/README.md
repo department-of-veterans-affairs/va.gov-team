@@ -6,7 +6,7 @@
 - When your study is complete, update the main database with any new information and especially the research study name and date of editor participation. 
 - After main database is updated, delete the study specific participant tracker 
 - At times, you will come across additional participants potentially referred by other editors or through listening sessions, after you obtain consent for their participation you can add them to the main database.
-- [Helpful Tips](https://dvagov.sharepoint.com/:w:/r/sites/SitewideFacilitiesTeam/_layouts/15/Doc.aspx?sourcedoc=%7Befad7716-1a70-46c8-9a6f-22e230e82909%7D&action=edit&wdPid=814aa11) for editor research including scheduing written by Facilities team 
+- [Helpful Tips](https://dvagov.sharepoint.com/:w:/r/sites/SitewideFacilitiesTeam/_layouts/15/Doc.aspx?sourcedoc=%7Befad7716-1a70-46c8-9a6f-22e230e82909%7D&action=edit&wdPid=814aa11) for editor research including scheduling tips 
 
 ## CMS research studies
 

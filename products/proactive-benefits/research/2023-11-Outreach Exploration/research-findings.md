@@ -325,7 +325,7 @@ Audience segment:
 
 - Veterans: 9
 
-- Caregivers: 9
+- Caregivers: 0
 
 - Family members of a Veteran: 0
 

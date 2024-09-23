@@ -1,10 +1,67 @@
 # VA Mobile team sprint demo meeting analytics
 
 This file serves as a high level meeting log and demo inventory for the VA Health and Benefit mobile core team.
+***
+## September 10, 2024: Sprint 105 [Mobile Sprint Demo - Sprint 105.pdf](https://github.com/user-attachments/files/16965602/Mobile.Sprint.Demo.-.Sprint.105.pdf)
+
+
+Recording: https://adhocteam-us.zoom.us/rec/share/pUaqZzBd9QvOZNojIsXA5GGYwpIRE1SZ0QUK1eI2lc0-t-kL17DPsBYyTBmqMz6m.vZpa0Rvs_QAKBcAT 
+Passcode: P=56^hhY
+
+| Team | Topic | 
+|---|---|
+| Platform | Q2 User Feedback |
+| Platform: Design System | FormWrapper and SnackBar component |
+| Platform: API | JSON Schema |
+| Platform: QA & Release | Multiple small updates |
+| Flagship: Health & Benefits | Progress Summary |
+| Flagship: Global | SSO into VA.gov from within the app |
+
+***
+## August 27, 2024: Sprint 104 [Mobile Sprint Demo - Sprint 104.pdf](https://github.com/user-attachments/files/16768507/Mobile.Sprint.Demo.-.Sprint.104.pdf)
+
+Recording: https://adhocteam-us.zoom.us/rec/share/GxlcCK7Er-27FyXKWOLTRU3C6LV73DOcxK2gzJHOs_cS9SRHDRQUKMeU8HfBK6-w.CVF5YjuAqoqxcOos?startTime=1724785153000
+Passcode: Sb^c!u6t
+
+| Team | Topic | 
+|---|---|
+| Flagship: Health & Benefits | Claims Evidence upload update |
+| Flagship: Global | In-app feedback prototype |
+| Platform: QA & Release | MCAG |
+| Platform: API | Travel Pay API updates |
+| Platform: Design System | ran out of time |
 
 ***
 
-## July 16, 2024: Sprint 100 [VA Mobile Sprint Demo - Sprint 101.pdf](https://github.com/user-attachments/files/16255990/VA.Mobile.Sprint.Demo.-.Sprint.101.pdf)
+## August 13, 2024: Sprint 103 [VA Mobile Sprint Demo - Sprint 103.pdf](https://github.com/user-attachments/files/16605405/VA.Mobile.Sprint.Demo.-.Sprint.103.pdf)
+
+[8/13/24 Sprint Demo](https://adhocteam-us.zoom.us/rec/share/dQPRoBofBvVcPftxE6yWDbJWTlpSANl7jkg22hp-2d9sqknyCCGM66GASIJ--tEd.RC0JeEsCPtxLvFGS?startTime=1723575638000)
+Passcode: jLYW45x%
+
+| Team | Topic | 
+|---|---|
+| Flagship: Global | Home Screen Metrics, July App Reviews |
+| Flagship: Health & Benefits | Claims Steps update |
+| Platform: QA & Release | PRs requiring both Eng and QA approval |
+| Platform: API | Veteran Status Investigation Summary |
+| Platform: Design System | Color Token Documentation |
+
+***
+
+## July 30, 2024: Sprint 102 [VA Mobile Sprint Demo - Sprint 102.pdf](https://github.com/user-attachments/files/16433304/VA.Mobile.Sprint.Demo.-.Sprint.102.pdf)
+[7/30/24 Sprint Demo](https://adhocteam-us.zoom.us/clips/share/oOUR0-6L24mpoKHnTWi0S0Cfcyl-t3URGv53XpW3OFQnbO-QsXA-RLk22T_d5yTVUXIpkw.Vo3whcM6MSPBaBzd)
+
+| Team | Topic | 
+|---|---|
+| Flagship: Global | Home Screen Research Readout |
+| Flagship: Health & Benefits | status update |
+| Platform: QA & Release | Team documentation |
+| Platform: API | Feedback Hub LLM addition |
+| Platform: Design System | skipped |
+
+***
+
+## July 16, 2024: Sprint 101 [VA Mobile Sprint Demo - Sprint 101.pdf](https://github.com/user-attachments/files/16255990/VA.Mobile.Sprint.Demo.-.Sprint.101.pdf)
 [7/26/24 demo recording](https://adhocteam-us.zoom.us/rec/play/yQ1uMbMPJpG58Ear9VM8SMGqjqZykvpEyC4AHNQAcqvJryuM8OmjjYTg1r455o0MOOXOh-UJmgCTOFlA.FJZmYEvH4v89YDUy%20Passcode:%20n6=L@1F#)
 Passcode: n6=L@1F#
 

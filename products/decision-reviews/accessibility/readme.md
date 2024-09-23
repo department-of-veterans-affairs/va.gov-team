@@ -6,9 +6,9 @@ This documentation covers accessibility-related efforts for Decision Reviews.
 
 Notice of Disagreement: Last substantial audit took place in [June, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61234). The team also [conducted research with Veterans who are blind or have low vision in February, 2024](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/468).
 
-Supplemental Claims: Last substantial audit took place in [January, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52046).
+Supplemental Claims: Last substantial audit took place in [June, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82892). Before that, the last substantial audit took place in [January, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/52046).
 
-Higher Level Review: Last substantial audit took place in [December, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34244).
+Higher Level Review: Last substantial audit took place in [May, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82890). Before that, the last substantial audit took place in [December, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34244).
 
 ## Resources
 

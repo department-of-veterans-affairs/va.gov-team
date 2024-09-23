@@ -1,5 +1,11 @@
 # My VA Benefit Application Drafts Frontend Documentation
-Last updated: April 29, 2024 (added note about when forms expire)
+Last updated: August 5, 2024 - added link to Form status documentation at top of page, which contains updated design and details
+
+[Current state documentation of My VA Benefit applications and forms, as of 8/2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/FE-documentation-MVP.md)
+
+The following information was created as part of the 2022 audit of My VA:
+
+---
 
 ## When to show the ‘Benefit application drafts’ section
 We show this section for every LOA3 user.

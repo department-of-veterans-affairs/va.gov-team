@@ -74,7 +74,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 
-- GitHub Label: coe, umbrella, non-disability-benefits
+- GitHub Label: coe, non-disability-benefits
 - Slack channel: #benefits-non-disability
 - VA.gov link: [https://www.va.gov/burials-and-memorials/application/530/introduction](https://www.va.gov/housing-assistance/home-loans/request-coe-form-26-1880/introduction)
 - Product Roadmap: [link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697040351744/d0ff11497ce0df685a377f3889f6d27687c0ffb4?sender=u0e8ac1d6d7681bb7e1b80558)

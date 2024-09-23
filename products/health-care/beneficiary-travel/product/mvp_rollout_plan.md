@@ -51,35 +51,60 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Desired date range or test duration: Jul 15 - Jul 30
-- Desired number of users: TBD
-- How you'll recruit the right production test users: Through a network of Ad Hoc, BAH, and VA Veterans
+- Desired date range or test duration: Aug 22 - Sept 4
+- Desired number of users: 2
+- How you'll recruit the right production test users: We have identified two BAH Veterans
 - How you'll conduct the testing: UAT
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Through use of a feature flag
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Number of users: 2
+- Number of bugs identified / fixed: 2
+  - STS Bug: Our service account wasn't configured correctly to include the ICN; team resolved this.
+  - Incorrect config: The team was using out-of-date credentials; upstream service provided us with the updated credentials.
+  - Overwrite issue: our request headers were getting overridden - the root cause was the need to support two API keys, but our team was able to resolve this as well.
+- Was any downstream service affected by the change?: No
+- Types of errors logged: N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
+- Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
+
+### Phase I: Friends and Family testing
+
+#### Planning
+
+- Desired date range or test duration: Week of Sept 15
+- Desired number of users: 19
+- How you'll recruit the right production test users: We have identified 19 Veterans with VA.gov email logins to whom we will reach out and offer to test our authenticated experience.
+- How you'll conduct the testing: We will offer them an optimal workshop survey asking them to verify a few pieces of information.
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Through use of a feature flag
+
+#### Results
+
+- Number of users: 2
+- Number of bugs identified / fixed: 2
+  - STS Bug: Our service account wasn't configured correctly to include the ICN; team resolved this.
+  - Incorrect config: The team was using out-of-date credentials; upstream service provided us with the updated credentials.
+  - Overwrite issue: our request headers were getting overridden - the root cause was the need to support two API keys, but our team was able to resolve this as well.
+- Was any downstream service affected by the change?: No
+- Types of errors logged: N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
+- Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
+**Note: This rollout is on hold pending an update from the Change Management Team on the appropriate timeline.**
 
 #### Rollout Planning
 
-- Desired date range: July 31 
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
+- Desired date range: Pending, September
+- How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
+- Links to the dashboard showing "success criteria" metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)
 - Who is monitoring the dashboard(s)?: UX Leads, Engineering Lead, and Product Manager
 
-
-**Datadog Metrics (Engineering)**
+**Engineering Metrics (Datadog)**
+***[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)*** 
 
 | Metric Name | Description |
 | ----------- | ----------- |
@@ -87,7 +112,9 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Travel Pay API - Endpoint error count | Number of non-200,201 status codes to travel pay API endpoints |
 | VA.gov - Sustained high latency | p90 latency measures above x for time |
 
-**Google Analytics Metrics (UX)**
+**User-Facing Metrics (Google Analytics and Call Center)**
+***[Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-claim-status%26_r.explorerCard..startRow%3D0&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582&r=all-pages-and-screens)
+
 | Metric Name | Description |
 | ----------- | ----------- |
 | Unique page views | # of individuals (% of users) who are visiting this page at least once |
@@ -98,6 +125,9 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Exit point | Where are they clicking out to? |
 | Entry point | Which of the sources are they entering from (MHV / main page; VA Travel Reimbursement; My VA claims tool) |
 | Time spent | Time spent on page |
+| Call Center Queries | How many calls and queries did the VA call center receive about this page? |
+| Member Services Queries | How many calls and queries did Member Services receive about this page? |
+
 
 ### Stage A: Canary
 
@@ -105,7 +135,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days, beginning when greenlit by the change management team
 - Percentage of Users (and roughly how many users do you expect this to be): 5% , on top of which we will include Ad Hoc, BAH, and VA veterans who have agreed to test the status page.
 
 #### Results
@@ -171,8 +201,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- Length of time: 1 day
+- Percentage of Users: 100%
 
 #### Results
 

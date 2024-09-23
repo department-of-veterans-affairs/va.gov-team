@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 30, 2024
+Last updated by @tygindraux: August 12, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -57,14 +57,14 @@ This research will help us document and prioritize any bugs or usability issues 
 
 1. Veterans will think headers, labels and links are descriptive and clear.
 2. Veterans will be able to interact with all elements using only their keyboards or other devices.
-4. Veterans will be oriented and still able to use the form when magnified.
-5. Veterans will understand that information has been pre-filled from 'their' account and know how to update it.
-6. Veterans will understand their progress in the form with or without visual cues.
-7. Sign in will be a barrier for some Veterans using a screen reader or magnification.
+3. Veterans will be oriented and still able to use the form when magnified.
+4. Veterans will understand that information has been pre-filled from 'their' account and know how to update it.
+5. Veterans will understand their progress in the form with or without visual cues.
+6. Sign in will be a barrier for some Veterans using a screen reader or magnification.
 
 ## Methodology
 
-We will run a moderated usability study remotely on Zoom. We will test in staging using test user accounts. 
+We will run a moderated usability study remotely on Zoom. We will mock the sign in process, so participants don't have to sign in but we can test the authenticated experience.
 
 ### Research materials
 
@@ -79,20 +79,14 @@ We will run a moderated usability study remotely on Zoom. We will test in stagin
 
 We will work with Perigean to recruit Veterans for this research.
 
+We're available for a kickoff call with Perigean during the following times:
+- Wednesday, July 31 at 3-5pm EST
+- Thursday, Aug 1 at 9-11am EST or 3:30-5pm EST
+- Friday, Aug 2 at 12-3pm EST
+
 We request that Perigean:
 - shares a link or screenshot of the recruitment survey for this study, so we can review it before it goes out to participants
-- emails each participant after they've been recruited (copy content provided)
-- calls each participant to remind them about the session, one day in advance.
-
-#### Email to send each participant after recruitment, prior to their session
-
-> Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
->
-> How would you prefer to receive a link to the prototype during the session? By email, through Zoom chat or dictated aloud?
->
-> On the call, we’ll have an accessibility specialist with us. Are there any other accommodations that would be helpful during your session?
->
-> We look forward to meeting with you soon.
+- if we're facing issues with no-shows or cancellations, we'll ask that you call remaining participant to remind them about the session, one day in advance.
 
 ### Recruitment criteria
 
@@ -172,7 +166,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 2. If you answered yes, which screen reader do you use? Please select all that apply.
     - JAWS
     - NVDA
-    - VoiceOver (iOS/macOS)
+    - VoiceOver (iPhone, iPad, Mac)
     - TalkBack (Android)
     - Narrator (Windows)
     - Other (Please specify): ________________
@@ -202,10 +196,12 @@ We'd like to recruit people who use a mix of different screen magnification soft
 2. If you answered yes, which alternative navigation tool do you use? Please select all that apply.
     - Switch systems
     - Dragon
-    - Voice Control (iOS/macOS)
+    - Voice Control (Mac)
+    - Siri (iPhone, iPad)
     - One-handed keyboard
     - Head mouse
     - Sip and puff device
+    - Pointer device on mobile (mouse, joystick)
     - Other (Please specify): ________________
     - This question doesn't apply to me
 3. How frequently do you use an alternative navigation tool? Your best guess is okay.
@@ -225,15 +221,8 @@ We'd like to recruit people who use a mix of different screen magnification soft
 1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
     - Yes
     - No
-2. If you answered yes, which screen magnification tool do you use? Please select all that apply.
-   - ZoomText
-   - ZoomText Fusion
-   - Windows Magnifier
-   - macOS Zoom
-   - iOS/iPadOS Zoom
-   - Android Magnification
-   - Other (Please specify): ________________
-   - This question doesn't apply to me
+2. If you answered yes, which screen magnification tool do you use?
+   - Open text box
 3. If you answered yes, how frequently do you use screen magnification on VA.gov?
    - Always
    - Sometimes
@@ -243,8 +232,6 @@ We'd like to recruit people who use a mix of different screen magnification soft
    - Yes
    - No
    - This question doesn't apply to me
-5. Please list the name of the screen magnification tool you will use during the session.
-    - Open text box
 
 ## Timeline
 

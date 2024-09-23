@@ -1,6 +1,7 @@
 # Project Outline - Ch33 Migration to CorpDB
+`Migration Completed`
 
-**Last updated 4/30/2024** -- updated timeline
+**Last updated 8/12/2024** -- updated important dates
 ## Table of Contents 
 - [Communications](#communications)
 - [Roles](#roles)
@@ -235,7 +236,7 @@ This is a rough timeline of how this might work assuming there are no roadblocks
 
 </details>
 
-### Revised Timeline June 2024
+### Revised Timeline June 2024 - estimated
 
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/6c48be6a-a1c8-4e93-9172-541178912948)
@@ -287,3 +288,5 @@ Since this feature already exists, we're simply modifying from two forms to one,
 - February 20, 2024: Formal planning and coordination begins
 - April 20, 2024: Set date for migration of BDN to CorpDB
 - April 26, 2024: Last day anything can be sent to BDN
+- July 22, 2024: UAT Completed
+- July 22, 2024: Relaunched to prod

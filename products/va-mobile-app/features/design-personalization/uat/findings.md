@@ -1,5 +1,6 @@
 # VA Mobile App - Personalized Home Screen: UAT Summary of Findings 
-May 14, 2024
+May 14, 2024  
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team
 
 ## Approach
 - UAT interviews were conducted May 9-13, 2024

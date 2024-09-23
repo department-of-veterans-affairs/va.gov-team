@@ -84,7 +84,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 
-- GitHub Label: burial, umbrella
+- GitHub Label: burial, pension
 - Slack channel: #benefits-non-disability
 - VA.gov link: https://www.va.gov/burials-and-memorials/application/530/introduction
 - Product Roadmap: [link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697040351744/d0ff11497ce0df685a377f3889f6d27687c0ffb4?sender=u0e8ac1d6d7681bb7e1b80558)

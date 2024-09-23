@@ -5,8 +5,16 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## ?
+*   Pilots and Design Systems - idea for collaboration
+
+
+## 8/28/24
+*   VADS status with the documentation merge
+
 ## 7/30/24
 *   Typography Tokens update
+*   Form System scope discussion
 
 ## 7/16/24
 *   general updates and Q3 planning

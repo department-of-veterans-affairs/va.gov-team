@@ -29,12 +29,14 @@ The Product team should tell Sitewide CAIA about plans for an incremental launch
 | Product team | Create a feature toggle (Flipper) in vets-api (to use in vets-websites) to control the display of content. </br>**Note:** The product team is responsible for creating **and** monitoring the feature toggle.<br> [Read documentation on feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide) |
 | Product team | Merge vets-website widget code and vets-api Feature toggle, & make sure they deploy and Feature toggle is disabled in both [Staging](https://staging-api.va.gov/flipper/features) and [Prod](https://api.va.gov/flipper/features). |
 | Product team | Share the react widget ID with Sitewide CAIA team in the issue. |
-| Sitewide CAIA team | **One week prior to estimated full launch date**, Sitewide Content team confirms date with Product team and adjusts timing if needed. |
+| Sitewide CAIA team | **One week prior to estimated initial launch date**, Sitewide Content team confirms date with Product team and adjusts timing if needed. |
 | Sitewide CAIA team | Add the react widget ID to the Drupal page as a React widget content block. This step will entail moving some content out of Drupal content blocks. Confirm with Product team if the widget should be a CTA or not. | 
 | Sitewide CAIA and Product team |Sitewide CAIA should work with the Product team to test the widget and make sure that the versions within the widget match the content and design planned by Sitewide CAIA and the Product team. </br>**Note:** The Product team needs to make sure that the react widget is pushed to production before we can test it in Drupal — or the engineer needs to demo it to the writer and copy editor. Making late-stage changes can delay the launch, since updates are pushed once a day in the afternoon. |
 | Product team | If the Feature toggle is a boolean, enable the Feature Toggle on Staging for review & signoff before enabling on Prod. If the Feature toggle is for % rollout, monitor during rollout. |
-| Product team | **On launch:** Notify Sitewide CAIA team when product is 100% launched. |
-| Sitewide CAIA team | **On launch:** If the launch is a temporary widget: Once the product fully launches to 100% of users, remove the react widget and put the content and CTA action link back into regular rich text fields within Drupal. Sitewide CAIA team editor reviews and approves changes. **Note:** This is an important step to take post-launch. Having content and CTA buttons accessible in Drupal allows Sitewide CAIA to make updates as needed without help from developers. It also helps to avoid potential issues with showing the wrong content to users, if feature toggles remain but are no longer monitored.|
+| Product team | **On initial launch:** Notify Sitewide CAIA team when product is launched on Prod. Confirm that you have tested the product and it's working as expected. Confirm that you're ready for CAIA to publish the page with the react widget and make the entry point available to Veterans. |
+| Sitewide CAIA team | **On initial launch:** Publish page with react widget. Confirm with product team that widget is working as expected and Veterans are successfully entering the product. |
+| Product team | Notify CAIA when product is fully launched to 100% of users.|
+| Sitewide CAIA | If the launch used a temporary widget for incremental release and it's now live to 100%, remove the react widget and put the content and CTA action link back into regular rich text fields within Drupal. Sitewide CAIA team editor reviews and approves changes. **Note:** This is an important step to take post-launch. Having content and CTA buttons accessible in Drupal allows Sitewide CAIA to make updates as needed without help from developers. It also helps to avoid potential issues with showing the wrong content to users, if feature toggles remain but are no longer monitored.|
 | Product team | Product team and SMEs review and confirm changes. |
 | Sitewide CAIA team | Publish page. Sitewide CAIA team and Product team validate that CTA action link on live, updated page continues to point to correct place. |
 | Product team | Deprecate the flipper / remove related code. |
@@ -48,4 +50,35 @@ The Product team should tell Sitewide CAIA about plans for an incremental launch
 * Confirm copy edit process (this is project-specific)
 * Confirm start and end date for the incremental launch
 * Confirm date the engineer will deliver the react widget ID code to CAIA
+
+## React widget creation steps
+
+### For non-sign-in-related react widgets 
+Follow the [platform developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-react-widget) to create the react widget.
+
+### For sign-in-related (Call to Action) react widgets
+
+1. Add entry to `CTA_WIDGET_TYPES` in `src/applications/static-pages/cta-widget/ctaWidgets.js`. `MY_WIDGET_NAME: 'my-widget-name',`
+2. Add entry to `ctaWidgetsLookup` to initialize the widget:
+```
+[CTA_WIDGET_TYPES.MY_WIDGET_NAME]: {
+  id: CTA_WIDGET_TYPES.MY_WIDGET_NAME,
+  deriveToolUrlDetails: () => ({
+  url: '/url-to-my-application',
+    redirect: true,
+  }),
+  hasRequiredMhvAccount: () => false,
+  isHealthTool: false,
+  mhvToolName: null,
+  requiredServices: null,
+  serviceDescription: 'perform some action',
+},
+```
+3. Point `url` to the route to your team's react application (or any other appropriate/relevant page)
+4. Update the `serviceDescription` with the action to perform. This description will be appended to the sign-in call-to-action (i.e. Sign in to [serviceDescription])
+5. Provide the widget type value to sitewide CAIA for input into Drupal
+
+## Notes for testing react widgets
+* For general testing, ensure the widget code has been deployed to production before testing with Sitewide CAIA.
+* If your widget is controlled by a feature toggle, when Sitewide CAIA is ready for testing, you will need to fully enable the feature toggle for all users in order to test the enabled rendering. Testing will not work with the toggle in a conditional state. You may reset the toggle to whatever condition is required after testing is completed.
 

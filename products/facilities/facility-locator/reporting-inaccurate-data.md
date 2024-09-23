@@ -18,7 +18,7 @@ VHA Clinics | Email the name of the facility and the missing or inaccurate detai
 Vet Centers | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 Vet Center Outstations | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 Vet Centers Community Access Point  | Contact the CMS help desk (support@va-gov.atlassian.net) 
-NCA Cemeteries | Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, and please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+NCA Cemeteries | XML is source of truth for name and website only. All other data comes from CDW as source of truth. Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, and please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov). Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 
@@ -48,23 +48,33 @@ NCA Cemeteries | Contact Lisa Hollenbeck (Lisa.Hollenbeck2@va.gov) in NCA
 VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov)
 Community care providers and pharmacies (usually non-VA facilities)	| N/A
 Vet Centers Community Access Point  | N/A
-NCA Cemeteries | N/A
-VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	N/A
-Community care providers and pharmacies (usually non-VA facilities)	| N/A
 
 
 ## Facilities & CMS Team workflows
 
 ### Facilities team
-If Facilities team learns about any incorrect VHA Facility data, contact VHA DM for follow up with the relevant Editor.
+If a discrepancy about a facility or service is reported, confirm whether the location is a VA health facility or community provider. 
+- If it is related to a VA health facility, report to VHA DM. 
+- If it is a community provider, follow the steps specified in 
 
 Facility type	| Service |	Notes & Process
 ---	|	--- | ---
-VHA Medical Centers| Urgent care (UC) / Emergency care (ED) | [LH Slack explainer thread](https://dsva.slack.com/archives/C02BTJTDFTN/p1718720223648529). UC/ED services can come either from Drupal or from Access to Care (ATC). Unlike other services, they are **not** auto-removed from a facility if the billing code has not been used in the last 30 days. We must ask LH to manually reach out to ATC to update the data.
+VHA Medical Centers | <ul><li> Audiology </li><li> Cardiology </li><li> Dermatology </li><li> Gastroenterology </li><li> Gynecology </li><li> Mental Health Care </li><li> Ophthalmology </li><li> Optometry </li><li> Orthopedics </li><li> Primary Care </li><li> Urology </li><li> Womens Health </li></ul> | <ul><li> A facility can indicate the availability of any of these services by adding or removing the service from the facility in Drupal. </li><li> If the service is not associated with the facility in Drupal, then the association exists with Access to Care (ATC)<sup>[1]</sup>. The ATC association between a service and facility will automatically dissolve if the billing code has not been used in the last 30 days. </li></ul>
+VHA Medical Centers| <ul><li> Urgent care (UC) </li><li> Emergency care (ED)  </li></ul> | <ul><li>  A facility can indicate the availability of either service by adding or removing the service from the facility in Drupal.  </li><li> If the service is not associated with the facility in Drupal, then the association exists with ATC and LH must reach out to ATC to request a manual change to remove the service from the facility if the relationship is not valid. Unlike the above services, they are **not** auto-removed. <sup>[2]</sup> </li></ul>
+VHA Medical Centers| <ul><li> Dental Services </li><li> Nutrition </li><li> Podiatry </li></ul> | T<ul><li>  A facility can indicate the availability of any of these services by adding or removing the service from the facility in Drupal.  </li><li> If the service is not associated with the facility in Drupal, then the association exists the DST table in CDW. </li><li> These should be auto-updating but discrepancies in these services  should be reported to LH. [TBD]. 
+VHA Medical Centers| Caregiver Services | <ul><li> A facility can indicate the availability of caregiver servicces by adding or removing the service from the facility in Drupal. </li><li> The LH API source of truth for Caregiver services is an internal service and ultimately Caregiver Records Management Application (CARMA)<sup>[3]</sup>.Contact LH to resolve discrepancies outside of Drupal </li></ul> 
+
+<sup>[1]</sup> Access to Care associates facilities with services through billing codes. 
+
+<sup>[2]</sup> [LH Slack explainer thread](https://dsva.slack.com/archives/C02BTJTDFTN/p1718720223648529).
+
+<sup>[3]</sup> Because of downstream dependencies, Drupal cannot be the source of truth for Caregiver services. Changing the process could result in depays in processing for caregiver program applications. 
 
 
 ### Helpdesk (CMS Team)
-If Helpdesk (CMS team) learns about any incorrect Facility data in context of Editor contact, flag with Editors to follow the runbook above.
+If a discrepancy about a facility or service is reported, confirm whether the location is a VA health facility or community provider. 
+- If it is a community provider, see the Services process for [Community care providers and pharmacies](#services) 
+- If Helpdesk (CMS team) learns about any incorrect Facility data in context of Editor contact, follow the steps as above.
 
 If Editors haven’t taken action after CMS Team suggests next steps, CMS team should contact Facilities team to escalate to VHA DM team. Create a post in DSVA Slack, #facilities-support, and include the following:
  * Identify which facility needs Editor action (provide a link)

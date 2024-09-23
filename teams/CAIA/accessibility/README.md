@@ -34,16 +34,18 @@ We can work with a team to develop an accessibility-focused testing plan so that
 ### Support design discovery
 We can work with you and your team during design discovery to ensure that accessibility considerations are being taken into account, and help to flag when something may be veering away from the accessible happy path.
 
-### Review wireframes and prototypes
+### Review wireframes and Figma prototypes
 We can review your static wireframes or interactive prototypes looking for potential accessibility issues. **We can also work with you and advise on how to annotate designs to ensure that they are easy to implement in an accessible way.**
 
 ### PDF audit
 We can review PDF documents for accessibility, and help advise on how to remediate any issues found.
 
-### Staging audit
-We can review products in staging, testing with assistive technology, reviewing for accessibility best practices, and ensuring that the product meets OCTO-DE accessibility experience standards. 
+### Staging / CodePen / Production audit
+We can review coded products, either on staging or CodePen. We test with assistive technology, review for accessibility best practices, and ensure that the product meets OCTO-DE accessibility experience standards. 
 
 **We can also help you prepare the [required accessibility testing artifact](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#artifact) for the Collaboration Cycle.**
+
+We can audit products for accessibility issues on desktop and mobile devices (subject to device availability among CAIA specialists).
 
 ### Health check audit
 This is very much like a staging review but done in production! This is useful for older products that were implemented and released before certain standards were put into place.

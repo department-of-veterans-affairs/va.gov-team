@@ -8,11 +8,10 @@ In the event of an incident, this document should serve as a useful guide for wh
 The purpose of this document is to provide a broad view of the systems and teams responsible for the VA.gov homepage. 
 
 ## People, Roles, and Responsibilities
-|Team |OCTODE POC| Vendor POC|
-|---|---|---|
-[#sitewide-homepage-refresh](https://dsva.slack.com/archives/C03NSH4SLQY) | Dave Conlon (@Dave Conlon), VA OCTODE Lead | Michelle Middaugh (@Michelle Middaugh), Product Manager
-[#sitewide-public-websites](https://dsva.slack.com/archives/C52CL1PKQ) | Dave Conlon (@Dave Conlon), VA OCTODE Lead | Wes Rowe (@Wes Rowe), Product Manager / Jill Adams (@Jill Adams), Delivery Manager 
-[#cms-platform](https://dsva.slack.com/archives/C02HX4AQZ33) |Dave Conlon (@Dave Conlon), VA OCTODE Lead | Bentley Hensel(@Bentley Hensel), Product Manager 
+|Team | POC| 
+|---|---|
+[#sitewide-public-websites](https://dsva.slack.com/archives/C52CL1PKQ) | Michelle Middaugh,  VA OCTODE Lead / Jill Adams (@Jill Adams), Delivery Manager 
+[#cms-platform](https://dsva.slack.com/archives/C02HX4AQZ33) | Erika Washburn, VA OCTODE Lead | 
 [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)  | POC rotates 
 
 ## VA.gov homepage

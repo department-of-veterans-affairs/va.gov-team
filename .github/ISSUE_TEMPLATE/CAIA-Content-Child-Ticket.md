@@ -15,20 +15,20 @@ _What details are necessary for understanding the specific work or request track
 ---
 ## Tasks
 _What work is necessary for this ticket to be completed? Examples:_
-- [ ] Assess stakeholder request
+- [ ] Assess request
 - [ ] Draft content
 - [ ] Review 
-- [ ] Share with stakeholder
+- [ ] Share with requesting team
 - [ ] Update page
 - [ ] Copyedit
 - [ ] Publish
-- [ ] Alert stakeholder
+- [ ] Alert requesting team
 
 ## Acceptance Criteria
 _What will be created or happen as a result of this story? Examples:_
 - [ ] Updated content is live on the site
 - [ ] Product has launched
-- [ ] Feedback has been shared with stakeholders
+- [ ] Feedback has been shared with requesting team
 
 ## Configure this issue
 - [ ] _Attach to an Epic (what body of work is this a part of?)_

@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: June 6, 2024 - updates to Key Dates**
+**Last updated: July 30, 2024 - updates to scope**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -53,7 +53,7 @@ There are two (potentially three) major components of work to address these prob
 2. Conveying the current status, which we can obtain by polling the Benefits Intake API post-submission, to the user on My VA. -- _to be handled by Auth Exp My VA team_
 3. TBD - updates to notifications via and in partnership with VA Notify so that updates are triggered to Veterans with these status changes as well.
 
-**The MVP will target the following forms:**
+### The MVP will target the following forms:
 |Form ID| Form Title | Definition | What happens post submission?|
 |---|----|----|---|
 |21-4142 & 21-4142a (These are combined together)| Request Private Medical Facilities | Use this form if you want to give VA permission to request your medical records and information from non-VA sources to support your benefit claim.|  |
@@ -63,20 +63,31 @@ There are two (potentially three) major components of work to address these prob
 | 21-0972 | Alternate Signer | Use this form if you’re signing a VA benefits application or related form on behalf of someone else. This form certifies you as an alternate signer for the Veteran or non-Veteran with a VA claim (also called the claimant).| |
 | 21P-0847 | Request to be a substitute claimant | Use this form if someone you’re connected to dies before VA finishes processing their VA claim and you want to continue their claim.|
 | 20-10207 | Priority Processing | Use this form to request that VA process your claim faster due to certain situations. One of these descriptions must be true: <br/>- You’re homeless or at risk of becoming homeless, **or** <br/>- You’re experiencing extreme financial hardship (such as loss of your job or a sudden decrease in income), **or** <br/>- You have ALS (amyotrophic lateral sclerosis), also known as Lou Gehrig’s disease, **or** <br/>- You have a terminal illness (a condition that can’t be treated), **or** -<br/>You have a Very Seriously Injured or Ill (VSI) or Seriously Injured or Ill (SI) status from the Defense Department (DOD) (this status means you have a disability from a military operation that will likely result in your discharge from the military),**or**or <br/>-You’re age 85 or older, or <br/>-You’re a former prisoner of war, **or** <br/>-You received the Medal of Honor or the Purple Heart award| |
+| 20-10206 | Request personal records  | Use this form to request personal compensation, pension or benefit records | |
 
 
-**In Scope**
-- Updated confirmation page for the specific forms outlined for MVP (see above)
-- Updated name/heading for the Benefit Applications section
-- Status card in Benefit Applications (name TBD) section on My VA: submitted/pending, error, received
+### **Functionality & Scope**
+
+**My VA**
+- Updated heading for the Benefit Applications section to "Benefit applications and forms"
+- Status cards in Benefit applications and forms section on My VA for the following statuses: submitted/pending (TBD), action needed, received
+- Accordion component for "why don't you see your form"
+- Download functionality on My VA (pending reusability from VFF work)
+- Display logic: cards appear for 60 days and then disappear, user does not have dismiss capability
 - Updated copy for submitted/pending confirmation notification; stretch goal to include new notification for error (dependpent on VA Notify scheduling)
 
-**Out of Scope**
+
+**VFF**
+- Updated confirmation page for the specific forms outlined for MVP (see above)
+
+### **Out of Scope**
 - Changes to Central Mail
-- Conditional formatting of confirmation page with specific content for forms not tracked in the MVP forms submission status
-- Changes to the Claims and Appeals section on My VA
-- Download functionality (TBD, depends on technical feasibility)
-- Explainer text around which documents are part of MVP vs not
+- On My VA:
+   - Changes to the Claims and Appeals section
+   - Definitions of statuses
+   - "what's next component"
+   - "onsite notification" element at the top of the page (will pursue for post-mvp)
+
 
 ## User Outcomes
 

@@ -1,5 +1,6 @@
 # VA Mobile App: Personalized Home Screen Evaluative Research - Conversation Guide
-March 2024
+March 2024  
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team
 
 ### Moderator logistics
 * 2-3 days before the session:

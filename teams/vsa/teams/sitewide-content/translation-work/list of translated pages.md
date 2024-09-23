@@ -24,3 +24,13 @@
 | [About VA DIC for spouses, dependents, and parents](https://www.va.gov/disability/dependency-indemnity-compensation-esp/) | Spanish | 11/16/23 | 
 | [GI Bill and other education benefit eligibility](https://www.va.gov/education/eligibility-esp/) | Spanish | 2/14/24 |
 | [VA Survivors Pension](https://www.va.gov/pension/survivors-pension-esp) | Spanish | 3/6/24 |
+| [What to bring to create your online sign in account](https://www.va.gov/resources/what-to-bring-to-create-your-online-sign-in-account-esp/) | Spanish | 8/23/24 (Waiting for QA)
+| [After you apply for an eligibility determination](https://www.va.gov/burials-memorials/pre-need-eligibility/after-you-apply-esp/) | Spanish | 8/27/24 (Sent for QA on 9/9/24)
+| [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov-esp/) | Spanish | 8/29/24 (Waiting for QA)
+| [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov-esp/) | Spanish | 8/29/24 (Waiting for QA)
+| [Educational and career counseling (VA Chapter 36)](https://www.va.gov/careers-employment/education-and-career-counseling-esp/) | Spanish | 8/31/24 (Sent for QA on 9/9/24)
+| [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility-esp/) | Spanish | 8/31/24 (Sent for QA on 9/9/24)
+| [Pre-need eligibility for burial in a VA cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility-esp/) | Spanish | 8/31/24 (Sent for QA on 9/9/24)
+| [VA dental care](https://www.va.gov/health-care/about-va-health-benefits/dental-care-esp) | Spanish | 9/2/24 (Sent for QA on 9/9/24) 
+| [Eligibility for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility-esp/) | Spanish | 9/2/24 (Sent for QA on 9/9/24)
+| [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov-esp) | Spanish | 9/3/24 (Waiting for QA)

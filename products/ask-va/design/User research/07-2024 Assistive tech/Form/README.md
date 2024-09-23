@@ -16,4 +16,4 @@ We need to move AVA to VA.gov. It should be mobile friendly, accessible and easy
 We will work with Perigean to recruit Veterans for this research.
 
 ## Date
-This research will take place in July and August 2024.
+This research will take place in August 2024.

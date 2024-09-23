@@ -1,5 +1,5 @@
 # VA-Mobile Quality Acceptance (QA) Processes
-[Document everything.](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/Philosphy)
+[Document everything.](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/#document-everything)
 
 Better yet, OVER-document. If it is more complex than a tsdoc or API doc, add an .md file to the docs site. Assume you will never touch this again. Make everything abundantly clear as to how it works… There are few things worse than looking at something complicated with no or almost no documentation… Taking two hours to remember your own work is a sure-fire way to realize how hard it would be for people without your memories to grok a thing. Be kind to future-you and all your coworkers.
 

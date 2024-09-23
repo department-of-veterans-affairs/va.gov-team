@@ -96,7 +96,8 @@ Please provide the following documentation as attachments.
           form_uuid { SecureRandom.uuid }
           s3_status { '[200]' }
           pega_status { %w[pending processing completed].sample }
-          case_id { 'ABC-1234' }
+          case_id { 'ABC-1234' },
+          email_sent { false}
         end
     * Where is the data is stored and how, including information such as any encryption used?
       - **See above. No encryption at this time.**

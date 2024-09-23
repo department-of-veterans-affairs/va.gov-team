@@ -1,107 +1,60 @@
-# Income Limits Data Sources
+# Income Limits API Data Source and Migrations
 
-The [Income Limits application](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/income_limits) reads data from PostgreSQL (part of the vets-api stack). To get data imported into the database, a cron-like script runner for Ruby on Rails, Sidekiq, [executes import scripts](https://github.com/department-of-veterans-affairs/vets-api/tree/master/app/workers/income_limits) on a schedule (currently at midnight every 3 months). The scripts pull data from CSV data files in order to populate the PostgreSQL database.
+## Overview 
+The [Income Limits](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/income_limits) API utilizes data from VHAs Veterans Enrollment System (VES) database.
 
-## VES
-The data that the Income Limits application uses is sourced from the [Veterans Enrollment System database](https://dev.ves.va.gov/esr/). This data is housed in Oracle databases within the VA infrastructure.
+This document describes how this data is accessed and imported into the vets-api postgres database.
 
-During development of the Income Limits application, the VES database was not accessible via vets-api. In that interim, we opted to export the VES data to CSVs and host them on S3 in a public folder, a location that vets-api can always pull from. Once we establish connectivity directly to the VES Oracle database, we can move away from this manual data shuffling.
+## Data Source
+The data that the Income Limits API uses is sourced from the [Veterans Enrollment System database](https://dev.ves.va.gov/esr/). This is an **Oracle** database which holds, among other things, income thresholds, zip codes, states, and county information. We obtained access to this database by working with VES so that we could pull the data into vets-api.
 
-### Zip -> County Data
-In the VES database, the std_zipcode table houses a large dataset which contains a mapping of every U.S. county to their respective zip codes. This data is sourced from a VA Standard Data Services team, who distribute updates to the VES DB team.
+While the data is available to some systems, there are some limitations that caused us to build a decoupled migration process.
 
-## CSV
-There are 5 data files (created from VES Oracle db tables). Each of the files will need to live in a public S3 bucket so that they are reachable by any environment that needs to use them. There is no sensitivity to the data so making them public removes a need for authenticating to S3 to retrieve the files.
+## Network Access Limitation
+The VES database is an internal VA asset that isn't accessible from most systems even with the VA network. We worked with VA IT to create a working network pathway from all vets-api environments, but even then we cannot access the database from our local systems using SOCKS.
 
-### CSV URLs
+The VES Oracle database resides in the VA network but within a different AWS region and Virtual Private Cloud. Thanks to VA IT, they were able to create a network policy to allow connectivity from any vets-api environment. We leverage this connection to import data into vets-api database.
+
+### Oracle + Ruby + Apple Silicon CPU Limitation
+To query an Oracle database from Ruby requires the [`ruby-oci8`](https://github.com/kubo/ruby-oci8) gem which itself needs the Oracle Instant Client library installed. As previously mentioned, the library isn't compatible with Apple Silicon (M1, M2, etc) CPUs, preventing us from bundling it into the vets-api codebase as a dependency. As a result, we opted to create a data migration process that moves the data into the vets-api database (Postgres) using a two step process:
+
+1. Migrate from VES DB to CSV files stored on S3.
+2. Migrate from S3 CSVs to Postgres
+
+## Data Migrations
+
+### Migrating from VES to S3
+Data moves from the VES Oracle database into CSV files stored on S3 using a [Github Action](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/workflows/income-limits-data-sync.yml). The GHA executes the action using a [self-hosted runner](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners). It is imperative that the GHA runs on a self-hosted runner so that the action has access to the internal VA network, which is a prerequisite for accessing the VES database.
+
+The action runs on the 28th of each month at 12:35 AM.
+
+When the GHA executes, it sets up a standalone Ruby environment (GHAs do not have access to the vets-api Rails environment) in the container, [queries the VES database](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/scripts/income-limits-data-sync.rb), and exports the results to CSV files. The files are then moved to a [public S3 bucket](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/workflows/income-limits-data-sync.yml#L103) that vets-api can always reach.
+
+#### Migrating from S3 to Postgres
+A scheduled [series of Sidekiq jobs](https://github.com/department-of-veterans-affairs/vets-api/blob/bbc93d8245e47a4f103608f54a925714d7b9a7c0/lib/periodic_jobs.rb#L55-L64) execute migration scripts which pull from S3.
+
+eg:
+```ruby
+  mgr.register('0 0 1 */3 *', 'IncomeLimits::GmtThresholdsImport')
+  # Import income limit data CSVs from S3
+  mgr.register('0 0 1 */3 *', 'IncomeLimits::StdCountyImport')
+  # Import income limit data CSVs from S3
+  mgr.register('0 0 1 */3 *', 'IncomeLimits::StdIncomeThresholdImport')
+  # Import income limit data CSVs from S3
+  mgr.register('0 0 1 */3 *', 'IncomeLimits::StdStateImport')
+  # Import income limit data CSVs from S3
+  mgr.register('0 0 1 */3 *', 'IncomeLimits::StdZipcodeImport')
+  # Import income limit data CSVs from S3
+```
+
+Each of these scripts pull the related CSV from the public S3 bucket and run [ActiveRecord transactions](https://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html) to persist the data to Postgres.
+
+At this time the scripts are scheduled to run every 3rd month at midnight.
+
+## Public CSV Files
 The CSV files will be accessible at the following URLs:
 - https://sitewide-public-websites-income-limits-data.s3-us-gov-west-1.amazonaws.com/std_zipcode.csv
 - https://sitewide-public-websites-income-limits-data.s3-us-gov-west-1.amazonaws.com/std_state.csv
 - https://sitewide-public-websites-income-limits-data.s3-us-gov-west-1.amazonaws.com/std_incomethreshold.csv
 - https://sitewide-public-websites-income-limits-data.s3-us-gov-west-1.amazonaws.com/std_gmtthresholds.csv
 - https://sitewide-public-websites-income-limits-data.s3-us-gov-west-1.amazonaws.com/std_county.csv
-
-### VES Export to Excel Files
-
-When the data is exported from Oracle, Excel .xsls files are generated. While it is possible to use an .xlsx file as a source for the vets-api import process, we have opted to convert them to CSV files in order to make the processing script leaner and contain less technical debt.
-
-### Converting XLSX to CSV
-
-Follow these guidelines to convert the Excel .xlsx files to .csv:
-1) Obtain .xlsx documents from VES (POC: Joshua Faulkner)
-2) Create a new worksheet in each document with is a copy of the primary sheet (to avoid munging the exported data)
-3) Format the columns as described below
-4) Upload the files to the S3
-
-Due to the nature of the formatting applied to some columns of the Excel files, directly exporting them to CSV will generate data that does not conform to the data schemas. Therefore, some columns need to be formatted prior to cutting the CSV. Below lists the formatting changes for columns in each file.
-
-std_county.xlsx -> std_county.csv
-- ID: number
-- COUNTYNUMBER: 3 digit number (with leading zeros)
-- STATE_ID: number
-
-std_gmtthresholds.xlsx -> std_gmtthresholds.csv
-- ID: number
-- EFFECTIVEYEAR: number
-- FIPS: number
-- TRHD1: number
-- TRHD2: number
-- TRHD3: number
-- TRHD4: number
-- TRHD5: number
-- TRHD6: number
-- TRHD7: number
-- TRHD8: number
-- MSA: number
-
-std_incomethresdhold.xlsx -> std_incomethresdhold
-- ID: number
-- INCOME_THRESHOLD_YEAR: number
-- EXEMPT_AMOUNT: number
-- CHILD_INCOME_EXCLUSION: number
-- DEPENDENT: number
-- ADD_DEPENDENT_THRESHOLD: number
-- PROPERTY_THRESHOLD: number
-- PENSION_THRESHOLD: number
-- PENSION_1_DEPENDENT: number
-- ADD_DEPENDENT_PENSION: number
-- THRESHOLD_EFFECTIVE_DATE: number
-- AID_AND_ATTENDANCE_THRESHOLD: number
-
-std_state.xlsx -> std_state.csv
-- ID: number
-- FIPSCODE: 2 digit number (with leading zeros)
-- COUNTRY_ID: number
-
-std_zipcode.xlsx -> std_zipcode.csv
-- ID: number
-- ZIPCODE: 5 digit number (with leading zeros)
-- ZIPCLASSIFICATION_ID: number
-- PREFERREDZIPPLACE_ID: number
-- STATE_ID: number
-- COUNTYNUMBER: 3 digit number (with leading zeros)
-
-### Exporting XLSX to CSV
-In order to export the Excel .XLSX worksheet to CSV, perform the below instructions. 
-
-#### Export to CSV from Excel
-1. Click the File menu
-2. In the sidebar, click Export
-3. In the Export window, click the Change File Type option
-4. In the Change File Type area, click the CSV (Comma delimited) file type
-5. Click Save As
-6. In the dialog that opens, name your new file and change the file location if necessary.
-7. Click the Save button
-
-![Screenshot 2023-05-03 at 8 42 35 AM](https://user-images.githubusercontent.com/221539/235968938-13d5dcc8-7e0e-4f12-b5de-2c343b9978a5.png)
-
-![Screenshot 2023-05-03 at 8 42 54 AM](https://user-images.githubusercontent.com/221539/235968976-a998efea-b67c-4cf2-aa9c-6d33e7063349.png)
-
-See also https://support.microsoft.com/en-us/office/save-a-workbook-to-text-format-txt-or-csv-3e9a9d6c-70da-4255-aa28-fcacf1f081e6
-
-#### Export to CSV from Google Sheets
-1. Click the File menu
-2. Select the Download option
-3. Select the Comma Separated Values (.csv) option
-
-![Screenshot 2023-05-03 at 8 53 45 AM](https://user-images.githubusercontent.com/221539/235971084-5944a072-b327-4b31-bded-62a6ac70c876.png)

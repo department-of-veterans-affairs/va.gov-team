@@ -28,12 +28,17 @@ Determine which information would be most helpful for Veterans to have surfaced 
 Live interview sessions were conducted remotely via Zoom, and at the end of interviews, participants were asked to share their screen (any device) to locate and review the military information section of the profile together.
 
 ## Hypotheses and Conclusions
-1. Military information must be provided when Veterans apply for various VA benefits. 
+1. Military information must be provided when Veterans apply for various VA benefits.
+
 *Mostly true* 
+
 Depending on how a Veteran applies for benefits, they may have more or less flexibility around what service history information and/or documents the Veteran must supply as part of the application. Participants that applied for benefits with the assistance of a VSO did so without complete information. Participants that applied by themselves believed they needed the complete service information requested on the forms they filled out, plus their DD214. For more information on what participants believe is needed vs. what actually is needed to apply for VA benefits, read key findings 3 and 4 below.
 
 2. Veterans receive form DD214 when they leave the service.
-*Not always true* 1 participant out of the 10 interviewed has never received a DD214 and a review of Veteran Reddit confirms that some Veterans leave the service without receiving discharge papers. 
+
+*Not always true* 
+
+1 participant out of the 10 interviewed has never received a DD214 and a review of Veteran Reddit confirms that some Veterans leave the service without receiving discharge papers. 
 
 ## Key Findings
 1. The most common service history related fields that participants recalled when applying for VA benefits were branch of service and service dates, but those are not the only fields repeating on common digitized and non-digitized VA forms.

@@ -16,12 +16,12 @@ Booked appointments through VA or CC facilities.
 |---|---|
 | [VA In-person](./appointment-types/va-in-person.md)  | `appointment.kind` = `clinic` |
 | [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | `appointment.serviceType` = `covid` |
-| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | `appointment.kind` = `telehealth` and `appointment.telehealth.atlas` does not exist and (`appointment.videoData.kind` = `ADHOC` or `appointment.videoData.kind` = `MOBILE_ANY`) |
-| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) | `appointment.kind` = `telehealth` and (`appointment.videoData.kind` = `CLINIC_BASED` or `appointment.videoData.kind` = `STORE_FORWARD`)  |
-| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) | `appointment.kind` = `telehealth` and  `appointment.videoData.kind` = `MOBILE_GFE`|
-| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) | `appointment.kind` = `telehealth` and  `appointment.telehealth.atlas` exists |
-| [VA Phone](./appointment-types/va-phone.md) | `kind` = `phone` |
-| [Community care](./appointment-types/community-care.md) | `kind` = `cc` AND there is data in the `appointment.start` attribute |
+| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) |  `telehealth` field should have `vvsKind` field equal to `MOBILE_ANY`  (i.e. `telehealth: {vvsKind: 'MOBILE_ANY/ADHOC'}`) and `Appointment.extension.patientHasMobileGfe === false` |
+| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) | `telehealth` field should have `vvsKind` field equal to `MOBILE_ANY`  (i.e. `telehealth: {vvsKind: 'MOBILE_ANY/ADHOC'}`) and `Appointment.extension.patientHasMobileGfe === true` |
+| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) | telehealth field should have `vvsKind` field equal to `CLINIC_BASED` or `STORE_FORWARD`  (i.e. `telehealth: {vvsKind: 'CLINIC_BASED'}`)  |
+| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) | `appointment.kind` = `telehealth` and  telehealth field should have an atlas field (i.e. `telehealth: {atlas: ...}`) |
+| [VA Phone](./appointment-types/va-phone.md) | `appointment.kind` = `phone` |
+| [Community care](./appointment-types/community-care.md) | `appointment.kind` = `cc` AND there is data in the `appointment.start` attribute |
 | [Claim exam appointment](./appointment-types/claim-exam.md) | `appointment.serviceCategory[0].text` = `COMPENSATION & PENSION` |
 
 ### Request types

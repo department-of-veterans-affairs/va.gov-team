@@ -24,7 +24,12 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 
 
 **Appointments displayed**
-- All Community Care upcoming and canceled upcoming appointments from the Health Systems Referral Manager (HSRM) within the next 395 days (13 months) must display.
+
+Display future booked appointments in the upcoming list: 
+- Display telehealth the appointments in the upcoming list for 240 mins / 4hours after start time 
+- Display non-telehealth appointments in the upcoming tab for 60 mins after the start time.
+    - Once these timeframes have passed, display these appointments in the past list
+- All community care upcoming and canceled upcoming appointments from the Health Systems Referral Manager (HSRM) within the next 395 days (13 months) must display.
 - All VA/VistA upcoming and canceled upcoming appointments for the user from any Veteran-registered VistA system within the next 395 days (13 months) display EXCEPT for those where the clinic has any of the following:   
     - The clinic name matches a community care clinic name regular expression that is part of the MAS configuration: `"((COM CARE-.)|(NON VA CARE .))`  https://issues.mobilehealth.va.gov/browse/CKM-1181
     - Clinic's stop code in on the Office of Integrated Veteran Care's stop code exclusion list

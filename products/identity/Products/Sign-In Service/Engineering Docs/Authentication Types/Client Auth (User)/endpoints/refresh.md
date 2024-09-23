@@ -50,6 +50,6 @@ vagov_anti_csrf_token=<antiCsrfTokenHash> // be5aac9...
 vagov_info_token=<infoToken> // %7B%3Aaccess_token_expiration%3D%3
 ```
 
-### Error Responses
+## Error Responses
 
-For more detailed information on possible error responses see the [SiS Errors Page](../errors.md#refresh---sign_inrefresh).
+For more detailed information on possible error responses see the [SiS Errors Page](../../../../Troubleshooting/errors.md).

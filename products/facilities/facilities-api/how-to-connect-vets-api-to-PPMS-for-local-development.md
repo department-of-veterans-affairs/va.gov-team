@@ -15,7 +15,7 @@ This describes setting up AWS credentials and local aws-cli setup to allow your 
     * To access the AWS console or use the SSM command line you'll need AWS credentials including mandatory 2FA.
     * The person making the IAM assignment really only cares about `dsva-vfs-developers` being the group you need to get added to.
 2. Developers need access to the [devops repository](https://github.com/department-of-veterans-affairs/devops/) to access some utility scripts for establishing the SSM tunnel.
-3. vets-api must be using a native or hybrid setup (i.e. start ruby with foreman), since docker-compose won't be able to connect to local port forwarding.
+3. vets-api must be using a native or hybrid setup (i.e. start ruby with foreman), since docker-compose won't be able to connect to local port forwarding (At least on Apple devices).
 
 ## Setup steps
 ### SSM Tunnel
@@ -42,25 +42,16 @@ The following steps need to be performed each development session, since the MFA
 1. Establish an MFA token in your shell. From the root of the devops repository, run `. ./utilities/issue_mfa.sh <Aws.Username> <2FA code>`. Username is your login credential not the access key Id. It should print output like "AWS Session credentials saved. Will expire in 12 hours".
    * Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell.
    * `/utilities/issue_mfa.sh` runs `aws sts get-session-token` with `--serial-number` and `--token-code` parameters, then sets multiple environment variables such as `AWS_SESSION_TOKEN`.
-2. From the same terminal, discover a forward proxy instance to tunnel to in whichever environment is desired, using this command `./utilities/ssm.sh fwdproxy <dev|staging>`. The command will print the available instances and prompt you to connect a shell session to one. You can Ctrl-C out of this command at this point as you don't need to connect, you just want to print the available instances.
-    - Connecting can be useful for debugging connection issues or testing updated hosts or interfaces in the forward proxy.
-    - `utilities/ssm.sh` runs `aws ec2 describe-instances` (using a docker image) with `--filters` and a `--query` to retrieve ec2 hostnames
-4. In the same terminal run the following command to establish the SSM tunnel:
-```
-aws ssm start-session --target <instance_id> --document-name AWS-StartPortForwardingSession --parameters '{"portNumber":["<fwdproxy_port>"], "localPortNumber":["<local_port>"]}'
-```
-  * `instance_id` is the AWS instance id (like `i-0a751576c718bf730`) from step 3.
-  * `fwdproxy_port` is the configured HAProxy port for the upstream service. For MHV Secure Messaging, the values are as follows:
-    * dev - fwdproxy_port = **4443**
-    * staging - fwdproxy_port = **not known yet**
-  * `local_port` can be any unused port number on your machine below 6000. You'll need this value when configuring vets-api below. 
-
-If successful, this command should print output like:
+2. Use the `devops/utilities/ssm-portforwarding.sh` script to start the session. e.g. `./utilities/ssm-portforwarding.sh forward-proxy dev 5303 4443`
+    1. the first argument is the application (we use the forward-proxy application to connect to PPMS)
+    2. the second argument is the environment - dev/staging both use the nprod endpoint so either works
+    3. the third is the local port you want to use (see below)
+    4. the fourth is the port on the AWS instance to use (on dev, staging, and prod 4443 is PPMS)
+If successful, this command should print output something like:
 ```
 Starting session with SessionId: <User.Name>-011656eeb2a332a9a
 Port 5303 opened for sessionId <User.Name>-011656eeb2a332a9a.
 ```
-_Possible enhancement - a PR would be welcome for an `ssm-tunnel.sh` command that does the instance discovery and establishes the tunnel in one step, combining steps 3 and 4. Something like `ssm-tunnel.sh <env> <local port> <remote port>`_
 
 ### vets-api 
 Once the tunnel is established, configure vets-api to use the local end of the tunnel as the configured upstream for the relevant service. 
@@ -75,7 +66,7 @@ ppms:
   api_keys:
     Ocp-Apim-Subscription-Key: <SUBSCRIPTION KEY>
 ```
-* Get nprod subscription key from @eselkin or @jilladams
+* Get nprod (non-prod) subscription key from @eselkin or @jilladams
 * Restart your Rails server (must use native or hybrid setup - i.e. must start ruby with foreman not docker)
   
 ### Bypassing SSL hostname verification

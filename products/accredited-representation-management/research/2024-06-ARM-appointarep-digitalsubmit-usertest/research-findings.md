@@ -4,6 +4,8 @@
 
 Janelle Finnerty, janelle.finnerty\@oddball.io
 
+[Research share-out](https://dvagov.sharepoint.com/:v:/s/vaabdvro/EfdAe40SDdtLuDajlYHWIigBjAKh5fbweQIuu2WGX6i1XQ?e=yWcqK8)
+
 Jump to:
 
 [Research Goals](#research-goals)

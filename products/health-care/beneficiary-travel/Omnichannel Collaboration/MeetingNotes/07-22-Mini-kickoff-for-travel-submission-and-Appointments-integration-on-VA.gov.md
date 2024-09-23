@@ -1,9 +1,8 @@
 # Cross-team kickoff agenda to support travel reimbursement for past appointments on VA.gov
 
-Date: Monday, July 22, 2024.  Owned by Ben Brasso and Christina Gednalske.
+Date: Tuesday, July 30, 2024
 
-
-## General scope
+## General MVP scope
 
 - **[Appointments/Check-in Team] File a BT claim from Appointments on VA.gov:** Veterans have the ability to start the process of filing a beneficiary travel (BT) reimbursement claim for an “eligible” appointment from their past appointments list on VA.gov. E.g., an in-person appointment that was “completed” yesterday or up to the previous 30 days and hasn’t had a BT claim already filed for this day _and_ at this facility (using the BTSSS Get Claim Status API). 
    - “Completed” is in quotations because a BT claim can be submitted to BTSSS even if it’s not in a CHECKED-OUT status in VistA. (BTSSS rules engine picks up the process from this point.)
@@ -25,6 +24,7 @@ Date: Monday, July 22, 2024.  Owned by Ben Brasso and Christina Gednalske.
 
 ## Existing design and research artifacts 
 
+- **Userflow:** [User flow for filing a BT claim from past appointments on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722263210448/33062955940eb08d097dbd88a8dc98488ac2ffcc?sender=u37bb983bd3fc3cc00c7d3286) _Added 07/29/2024_
 - **Form wireframes:** [Up-to-date designs](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3592-4824&t=JbmPVn8Znw5BOZVZ-1), with BTSSS starting on the [form intro page](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3593-3077&t=JbmPVn8Znw5BOZVZ-1).
    - If SMS messages are going to be used to let Veterans know if the claim was or wasn’t successfully saved in BTSSS, then some of the links in the messages (from the Figma file) might need to change, e.g., to navigate users to the new VA.gov Travel Reimbursement Status tool.
 - **Appointment detail pages on VA.gov wireframes:** The [appointment detail page wireframes](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3594-8284&t=JbmPVn8Znw5BOZVZ-1) will get updated as part of this process based on scope changes since the initial research was conducted.
@@ -45,7 +45,6 @@ Date: Monday, July 22, 2024.  Owned by Ben Brasso and Christina Gednalske.
 ### Other resources
 
 - [Service blueprint for filing travel reimbursement at Oracle Health facilities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707427471672/75fb6b9eea27c7b854e8b31c0e9017e2a54bb95a?sender=u37bb983bd3fc3cc00c7d3286)
-- [User flow for filing a BT claim from past appointments on VA.gov.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695774555765/73dec2c323f80ae6cb2a6e0a646221e2aeb680c4?sender=u37bb983bd3fc3cc00c7d3286), which will get updated to reflect changes and prepare for Design Intent
 
 ## What's in progress from BTSSS?
 
@@ -71,11 +70,11 @@ Date: Monday, July 22, 2024.  Owned by Ben Brasso and Christina Gednalske.
 
 | Question | <br><br>Answer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 | ------------------- | ----------  | 
-| Can we deeplink to a specific claim? If so, what's the structure of the url parameters and how do we determine what values to include? And, should this be considered for MVP depending on level of effort? |  Assigned to Kevin. |
-| What's our plan for research needs? |  Moderated UAT in staging env. In addition, include links to past research in collab cycle ticket, while making note of number of AT users that have participated. |
+| Can we deeplink to a specific claim? If so, what's the structure of the url parameters and how do we determine what values to include? And, should this be considered for MVP depending on level of effort? |  Not for MVP. _(Confirmed with Micah and Cara on 07/30/2024)_ |
+| What's our plan for research needs? |  In-person Veteran intercept and staff interviews due to the need to test the end-to-end experience, including how BT claims are appearing in MS Dynamics for staff. In addition, include links to past research in collab cycle ticket, while making note of number of AT users that have participated. |
 | How do the Medication Review changes impact the Appointment Detail Page designs?<br><br> | TBD. |
-| How are we planning to roll out this feature? Ayush to discuss with IVC during BT/Staff/API recurring meetings. E.g., VISN to VISN rollout? | Assigned to Ayush.<br><br> |
-| Knowing that Appointments/Check-in has language translations for the BT question workflow, does BTSSS want or plan to use those? | Assigned to Ayush to decide. |
+| How are we planning to roll out this feature? Ayush to discuss with IVC during BT/Staff/API recurring meetings. E.g., VISN to VISN rollout? | Cara and Micha mentioned Mark Dewey would like to plan a single facility pilot. _Updated on 07/30/2024_<br><br> |
+| Knowing that Appointments/Check-in has language translations for the BT question workflow, does BTSSS want or plan to use those? | Most likely not for MVP. _Updated on 07/30/2024_ |
 
 ## To do's
 
@@ -83,7 +82,7 @@ Date: Monday, July 22, 2024.  Owned by Ben Brasso and Christina Gednalske.
 | ------------------- | ----------  | 
 | Add links to research findings to design artifacts section. [Christina]<br><br> | Complete<br><br> |
 | Identify and update latest BT workflow wireframes link (not including appt detail pages) in the design artifcats section. [Christina]<br><br> | Complete<br><br> | 
-| Set up bi-weekly with Appts/Check-in and BTSSS Teams. [Ben]<br><br> |  <br><br>| 
+| Set up bi-weekly with Appts/Check-in and BTSSS Teams. [Ben]<br><br> |  Scheduled first meeting. <br><br>| 
 | Set up design/research meeting to discuss userflow and any other design-related next steps. [Ben]<br><br> | Complete<br><br> | 
 
 ## Communication plan 
@@ -91,4 +90,5 @@ Date: Monday, July 22, 2024.  Owned by Ben Brasso and Christina Gednalske.
 - Bi-weekly collaboration meetings
 - Collaboration conversations should take place in DSVA in #travel-pay (which allows Mobile App to stay in the loop)
 - Ayush to continue attending BT/Staff/API recurring meetings and provide progress updates on initiative. Add in other teammates when needed for demos, etc. 
+
 

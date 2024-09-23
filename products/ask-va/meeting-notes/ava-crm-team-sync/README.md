@@ -1,3 +1,141 @@
+##8/20/2024
+
+**Agenda**
+
+- Review Research Plan for Dashboard
+- Review Mockups for Dashboard
+- Questions for CRM about dashboard
+ 
+ - **Question:** Confirming you don’t currently include the ‘We’ve received your question’ etc. first email in the dashboard, right?
+ -  **Answer**: Just the response. We’ve received your inquiry is only for the unauthenticated experience. 
+ -  **Question**: how are we keeping track of the new requests, Do you store/include timestamps in the dashboard (in addition to dates)?
+ - 	 **Answer**: Based on the correspondence of the email, the timestamp is available and can be added
+Timestamp for created on will be UTC 
+		- Kyle to add, will be included in the sprint planning
+	- **Question**: After a question is reopened(and also rerouted) , when VA replies back it’s moved back to closed, right?
+	- **Answer:** It would not be automatically be closed
+	- if they did a send and solve it would, if they just sent a correspondence then it might not automatically close.The Agent would be performing the solve.
+
+
+
+**Notes & Key Questions: **
+
+- How might we change statuses for an inquiry 
+	- Can we get a timestamp associated with an inquiry
+	- Replies are typically sent as a string, can we keep the format from the va (maintaining spaces, and paragraphs) The mock up currently is just a paragraph, uncertain if this data is formatted or is parseable
+	- *Shelby confirmed there are paragraph breaks and formatting is maintained from when the message is sent. *
+-  Can we determine whether something is a response or reply from a user? 
+- CRM to check that data dictionary - Hemesh to ask the Team. 
+- Any Updates on CRM Test Plans 
+- Drafting dev. Testing vs business testing this afternoon.
+
+08/13/2024 
+
+**Agenda August 13th**
+- [in]Security Issues
+- Updating AVA Profile (Conversation here.)
+- Generate Open API from Dataverse APIs?
+	- MSFT tooling should create the Swagger ??
+	- Better than hand-edited markdown.
+
+- adding queueID to the payload
+
+**Notes:**
+- Security result: CRM will add ICN+documentID for retrieving records, additional finding not high enough risk to research and resolve at this time.
+- Swagger Docs were sent while on the call, Joe created a [draft document](https://github.com/department-of-veterans-affairs/ask-va/tree/joehall-tw-patch-1/test-swagger) as a response.
+**Action Items**
+- Kyle to send Swagger API Docks - Done
+- Kyle to setup QueueID to response body - Done
+
+**Agenda For next session:**
+ 
+- Review Design Research plan for Dashboard Study
+- Dashboard Mocked Data - Changing statuses for user 119 
+
+**Agenda for August 13th:** 
+
+- Security Issues
+- Updating AVA Profile (Conversation [in slack](https://dsva.slack.com/archives/C06LN37RT47/p1723230210079369?thread_ts=1723147323.138299&cid=C06LN37RT47).)
+- Generate Open API from Dataverse APIs?
+  - MSFT tooling should create the Swagger ??
+  - Better than hand-edited markdown.
+
+**Notes**
+
+- notes here
+
+**Action Items**
+
+ - **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
+ - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
+
+
+## Meeting Notes for August 6th:
+
+**Agenda** 
+
+- Review Test Plan (RPA Notes)
+- Display_name follow up (Hemesh/Khoa)
+
+**Notes**
+
+- Review Test Plan (RPA Notes)
+  - Natalie to look into this more and make sure we’re clear on the coordination efforts (who reaches out, documented in the test plan.)
+  - CHRIS: if we want to interact with RPA, needs to be one of their supported topics, as listed in the test plan.
+  - KYLE: RPA bot needs to be reenabled in pre-prod for UAT.
+- Display_name follow up (Hemesh/Khoa)
+  - Only a couple more to update. All should be able to update by October, but Ed users (highest-stake users) may want to make changes closer to December? HEMESH: display_name is only used by AVA VA.gov, but CRM is implementing name and display_name at the same time.
+- SHELBY/BECKY: UAT for changes deployed to prod, but the work for the launch will be done in the individual release UATs (5 or so), no specific CRM changes to test for VA.gov work. 
+
+**Action items:**
+ 
+ - **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
+ - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
+ - DONE: ~**Kyle/ Chris** to update test user 119 for AVA Profile Data~
+ - DONE: ~**Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting.~
+
+## Meeting Notes for August 1st:
+
+**Agenda** 
+
+- Discuss CRM UAT
+- Review Timeline for potential phases approaches
+- Testing Users (Joe): 119 Add Classic AVA /CRM to profile
+- What Metrics is CRM Capturing to date for VA.Gov or would like to capture (outside of PowerBI)?
+ - benchmarking for the use of the form etc
+  - Are we tracking the response time from the Queues?
+
+**Action items:**
+ 
+ -  **CeeCee + Shelby** to attend GA4 Office Hours August 8th - **Scheduled**
+ - **VAPO** to discuss timeline for CRM UAT - **Scheduled**
+ - **Kyle/ Chris** to update test user 119 for AVA Profile Data
+ - **Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting. - **complete**
+
+**Proposed Agenda for August 6th:**
+ 
+- Review Test Plan - 
+- RPA Testing added to test plan
+- Review if Test User 119 or other test profiles need to be updated
+- Update from Kyle on  
+
+**Proposed Agenda for following session - August** 
+  - Review potential new timeline   
+
+**Notes:** 
+
+- VAPO to discuss timeline approaches and to be added to agenda on X date
+- Metrics: CeeCee + Shelby to pair @ GA4 office Hours
+Action: Shelby to invite CeeCee to PowerBI 
+Testing Users (Joe): 119 Add Classic AVA /CRM to profile
+  - Pulling data from ava profile, our users lack some key info that needs to be attributed to it to test prefill. 
+  - Action to Chris/Kyle (Shelby to confirm correct partner)
+
+- Potential AI Features for AVA (For after the redesigned form and dashboard - Post Release ‘25) 
+  - **Goal:** validate the potential use case that we will be able to determine based on a user's question what queue does it belong to.
+ - **Action:** new meeting to assist with analysis for time per queue to resolve an issue (best date 8 or 9th - Thursday / Friday) 
+ - This information will help determine if the potential model will improve the ability to decrease inquiry resolution time (is this useful)
+ - **Action: Becky ask Jacob** - what kind of support is needed, to determine which resource from CRM side would be assisting.
 
 ## Meeting Notes for July 23rd: 
 
@@ -12,10 +150,12 @@
 * CeeCee : Update timeline for phased approach to review with team
 * Tyler & Chris: Sync up around Dashboard.
 
-### Proposed new Agenda for Tuesday July 30th: 
-* Review Timeline for potential phases approaches
-* Discuss UAT 
-* Testing Users (Joe): 119 Add Classic AVA /CRM to profile 
+### Proposed new Agenda for Thursday August 1st: 
+* Discuss CRM UAT - Review Timeline for potential phases approaches
+* Testing Users (Joe): 119 Add Classic AVA /CRM to profile
+* What Metrics is CRM Capturing to date for VA.Gov or would like to capture (outside of PowerBI)?
+	* benchmarking for the use of the form etc
+ * * Are we tracking the response time from the Queues
 
 ### Notes:
 ### Rollback & Release Planning:

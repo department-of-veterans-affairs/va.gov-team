@@ -1,6 +1,7 @@
 
 # VA Mobile app - Discovery/Desk Research: Push Notification Best Practices
-Dec 2023
+Dec 2023  
+Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team
 
 ## Themes:
 

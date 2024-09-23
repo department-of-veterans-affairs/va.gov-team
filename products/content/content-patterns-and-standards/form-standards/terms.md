@@ -76,3 +76,4 @@ Not this: "Power of Attorney"
 ## S
 
 ### sponsor
+We use this word in forms and other content to refer to the Veteran who earned the benefits that a family member may be using. It's OK to use the word sponsor but lead with the plain language definition. Example: the Veteran you're connected to (called your "sponsor")

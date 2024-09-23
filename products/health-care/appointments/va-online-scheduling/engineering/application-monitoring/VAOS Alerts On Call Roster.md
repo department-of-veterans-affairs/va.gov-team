@@ -22,11 +22,11 @@ The following individuals are assigned to monitor the [VAOS Alerts dashboard](ht
   |Jul 1-5  ||
   |Jul 8-12 | John Luo |
   |Jul 15-19|Ryan Shaw|
-  |Jul 22-26||
+  |Jul 22-26|Jeff Roof|
   |Jul 29-Aug 2| John Luo |
  </details>
 
- <details>
+ <details open>
   <summary>
     
 ### August
@@ -34,13 +34,13 @@ The following individuals are assigned to monitor the [VAOS Alerts dashboard](ht
   
   | Date | On Call |
   |------------|--------------------|
-  |Aug 5-9||
-  |Aug 12-16||
-  |Aug 19-23||
+  |Aug 5-9|Corey Ferris|
+  |Aug 12-16|Jeff Roof|
+  |Aug 19-23|John Luo|
   |Aug 26-30||
  </details>
  
- <details>
+ <details open>
   <summary>
     
 ### September

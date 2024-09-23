@@ -1,4 +1,4 @@
-# Product Outline - Patient Check-in: Pre-Check-in, eCheck-in, & Travel Reimbursement
+# Product Outline - Patient Check-in: Pre-Check-in and eCheck-in
 
 ## Overview
 The patient check-in (PCI) product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The Modernized Check-in Team created the portion of the ecosystem that enables a Veteran to utilize their smartphone to check in through VA.gov. 
@@ -84,7 +84,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Applies to: In-person and phone appointments only
 
 #### Support for Phone Appointments
- - Status: Released
+ - Status: ~Released~ Recalled
  - Purpose: Added Pre-Check-in support for phone appointments
  - Additional Info: Based on the conversation in this [slack thread](https://dsva.slack.com/archives/C022AC2STBM/p1682438155187729?thread_ts=1682432660.843999&cid=C022AC2STBM), the following decisions have been made:
       - We will not support video/telehealth appointments in Pre-Check-in and eCheck-in because 
@@ -110,36 +110,8 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Status: Released to all VISNs on 12/5/2023
 - Purpose: Send an SMS to Veterans 45 minutes before their VA health appointment if the appointment is eligible for eCheck-in 
 
-#### [Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
-- Status: Fall 2024 planned pilot
-- Purpose: Allow Veterans who have health appointments at VA facilities that use Oracle Health EHR software to submit a mileage-only travel reimbursement claim on the day of their appointment (one claim per facility)
-- Functionality:
-    - Veteran texts "travel" on the day of their OH appointment
-    - Veteran receives a link back if they have an OH appointment today 
-        - Veteran will receive an error message if (1) they do not have any OH appointments for today, (2) we cannot find their phone number in the VA records, or (3) the feature is not available for their appointment's facility
-    - Veteran clicks the link 
-        - Veteran will receive a "link has expired" message if they click the link after the day of the OH appointment
-        - Veteran sees a "you've already filed a claim" message if they click the link and they have already filed a claim for their OH appointment today (1 claim per facility per day is allowed)
-    - Veteran verifies their identity  
-    - Veteran sees information on
-        - How to check their eligibility to file a claim
-        - How to file a claim now
-        - How to file a claim for other expenses later
-        - How to set up direct deposit
-    - Veteran chooses to file a milesage-only claim
-        - Veteran is only allowed to submit one travel claim per day
-        - If the Veteran has more than 1 appointment today, the Veteran selects for which appointment they would like to submit a claim
-    - Veteran answers the question if they travelled in their own vehicle
-        - Veteran see an error message if they answer "no"
-    - Veteran answers the question if they travelled from their home address
-        - Veteran see an error message if they answer "no"  
-    - Veteran agrees to the VA's terms & submits their claim (or chooses to file later)
-    - Veteran sees confirmation that their claim was submitted and information for how to check the status of their claim
-    - Veteran receives an SMS that includes the claim submission status returned from BTSSS
-- Applies to: In-person appointments only
-
 #### Medication Review
-- Status: In development
+- Status: Released to all VISNs in 09 2024
 - Purpose: Remind Veterans to, at their VA health appointment, be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.
 
    

@@ -1,11 +1,12 @@
 `Draft`
 # Project Outline: User Profile Completion
 
-**Last Update:** 5/21/2024 drafting the initial document 
+**Last Update:** 5/21/2024 added artifacts
 
 ## Communications
 - **Github labels**: authenticated-experience; profile-completion
 - **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+- **Teams**: Account Experience - Profile, IIR 
 
 ## Overview
 
@@ -53,13 +54,13 @@ Task completion rate post-update:
 
 
 ## Objectives and Key Results (OKRs)
-
+`Draft objectives, needs convo w PO/OCTO`
 ### Objective: 
 Increase user profile completeness.
 #### Key result 1: 
-Achieve a 70% profile completion rate within six months.
+Achieve a [insert %] profile completion rate within six months.
 #### Key result 2: 
-Reduce communication issues by 25% within the first year.
+Reduce misdirected communication by [insert %] within the first year.
 
 ## Solution Approach
 ### Assumptions
@@ -86,7 +87,12 @@ Reduce communication issues by 25% within the first year.
 - Focus on critical contact information first; additional features will follow post-MVP.
 
 ## Important Artifacts 
-- [Profile Completion Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83258) 
+- [Profile Completion Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83258)
+### IIR artifacts 
+- [collab cycle for the IIR onboarding page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82257)
+- [IIR onboarding analysis mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712608107388/80dc1be20f9ee63ac894c536ccd20d5b1cc172e1?sender=uaa72d11015d3f7c704a64191)
+- [user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715019181472/206d1983971576ee7696c1984666185a2fbff545?sender=uaa72d11015d3f7c704a64191)
+- [figma for midpoint](https://www.figma.com/design/CertVj7cu66kFv9TnseR30/Veteran-Onboarding?node-id=300-11104&t=Ow7esQ4gUlPtOyqr-0)
 
 ## Screenshots
 ### Before

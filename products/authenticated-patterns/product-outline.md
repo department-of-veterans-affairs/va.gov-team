@@ -45,15 +45,15 @@ Once fully adopted by VA teams, we expect these to be indicators of success:
 
 ## Assumptions
 Based on existing research and priorities from OCTO/VADS we have identified several potential candidate patterns. These include:
-- Prefill Form Data
-- Maintain accurate data within their profile
-- Service History
-- Auto Save Alert
-- Make Descisions based on personalized form flows
-- Information mismatch handling
-- Stay informed of request status
-- Know when there's a personal notification
-- Help users sign in with less friction
+- Help Users to... Know when their information is prefilled
+- Help users to... Confirm and update their prefilled information
+- Service History (not doing)
+- Auto Save Alert (not doing)
+- Help users to... Make decisions based on personalized form flows
+- Help users to... Understand when information is mismatched
+- Help users to... Stay informed of request status
+- Help users to... Know when there's a personal notification
+- Help users to... Sign in with less friction
 - Navigate as an authenticated user
 
 ## Solution Approach
@@ -71,40 +71,39 @@ We gathered as a team to prioritize patterns identified, with items in the darke
 ![image](https://github.com/user-attachments/assets/782e9b03-f34a-46cb-bc8f-cddbcb796976)
 View our prioritization work [in this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719935240619/2a4978c3cf5c7320fbf5c37f26fa0860d0798589?sender=u44efa807e992cacf10cf3697)
 
-### Prefill Form Data
+### [Help Users to... Know when their information is prefilled](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/patterns/prefill)
 We believe this is a good pattern to begin with as there are many forms already using this pattern as a 'component' within VADS > forms (https://design.va.gov/components/form/prefill) and we that this would be a useful pattern to contribute up to USWDS as many other agencies have authenticated forms. We believe this pattern should consist of: 
 - one or more visual indications that form data has been prefilled, including but not limited to:
   - page-level alerts
   - inline alerts
   - additional info component
   - address/details component
+  - card component
   - input styling
-  - directions to update profile data 
 
-### Maintain accurate data within their profile
+### Help users to... Confirm and update their prefilled information
 We believe that creating improved personal profile maintenance interfaces will help improve and maintain data quality within user profiles. This pattern will tie in closely with the prefill form pattern and knowing where and how to update out of date information when forms are prefilled. As such we believe this is a good second pattern to work with and should consist of:
-- consistent presentation of profile fields across all VA products
 - directions to update profile data 
 - page-level alerts
 - inline alerts
 
-### Make Descisions based on personalized form flows
+### Help users to... Make decisions based on personalized form flows
 We believe that creating a pattern for personalized form flows will significantly reduce time and cognitive load for users when filling out authenticated forms, allowing them to prefill known information or skip sections based on previously entered information. We believe this pattern will consist of:
 - page-level alerts
 - inline alerts
 - address/detail components
 - progress/status bars
 
-### Information mismatch handling
+### Help users to... Understand when information is mismatched
 We believe that alerting users to mismatched data when filling out forms will improve the quality of profile data and help reduce frustration and mistrust with users. As with other pattern prospects, we believe this could be a widely used pattern within other agencies authenticated form experiences.
 
-### Stay informed of request status
+### Help users to... Stay informed of request status
 We believe that creating a pattern for how users are informed of the status of their requests, whther helpdesk or form submission related, is an extremely valuable pattern. However we acknowledge that this is also a very broad idea that will be more difficult to implement. We do believe that creating a pattern for a notification dashboard or similar is useful to other agencies with authenticated form submissions and helpdesks.
 
-### Know when there's a personal notification
+### Help users to... Know when there's a personal notification
 We believe that creating a pattern for personal and timely notifications, is an extremely valuable pattern. However we acknowledge that this is also a very broad idea that will be more difficult to implement. We believe that this pattern may tie in closely with the previous request status pattern and may have ready to adopt patterns found in other agencies using USWDS.
 
-### Help users sign in with less friction
+### Help users to... Sign in with less friction
 Currently there are many methods a user can authenticate on VA.gov including buttons, modals, inline links on pages, etc. We believe this could be improved by creating a pattern that could include guidance and components for how users authenticate on VA.gov and other federal agency sites using ID.me and login.gov. 
 
 ### Navigate as an authenticated user
@@ -117,22 +116,19 @@ We believe this pattern could consist of a common 'user menu' including content,
 
 ### Initiatives
 #### FY24 Q4
-- Prefill Form Data (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/17)
-- Maintain accurate data within their profile (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/22)
-- Service History (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/27)
+- Help Users to... Know when their information is prefilled (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/17)
+- Help users to... Confirm and update their prefilled information (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/22)
 
 #### FY25 Q1
-- Auto Save Alert (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/24)
-- Make Descisions based on personalized form flows (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/25)
-- Information mismatch handling (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/30)
+- Help users to... Make decisions based on personalized form flows (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/25)
+- Help users to... Know when there's a personal notification (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/19)
+- Help users to... Understand when information is mismatched (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/30) (**NOT DOING**)
 
 #### FY25 Q2
-- Stay informed of request status (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/21)
-- Know when there's a personal notification (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/19)
+- Help users to... Stay informed of request status (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/21)
 
 #### FY25 Q3
-- Help users sign in with less friction (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/20)
-- Navigate as an authenticated user (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/23)
+- Help users to... Sign in with less friction (https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/20)
 --- 
 
 ## Launch Strategy
@@ -163,11 +159,11 @@ n/a
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Authenticated Experience Design Patterns Team
+- GitHub Label: `auth-exp-design-patterns` 
+- Slack channel: #tmf-auth-exp-design-patterns
+- Product POCs: Becky Phung, Lynn Stahl
+- Stakeholders: Matt Dingee (VADS), Kevin Hoffman (VADS), USWDS
 
 </details>
 
@@ -175,10 +171,10 @@ n/a
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Becky Phung
+ - PM: Lynn Stahl
+ - Engineering: Adam Whitlock, Belle Poopongpanit
+ - Research/Design: Christine Steiffer, Morgan Jones
  
 </details>
 
@@ -186,7 +182,7 @@ n/a
 #### Stakeholders
 
 <details>
- 
-_What offices/departments are critical to make this initiative successful?_
+- Office/Department: OCTO/VA Design System, USDS/USWDS
+- Contact(s): Matt Dingee (VADS), Kevin Hoffman (VADS)
  
 </details>

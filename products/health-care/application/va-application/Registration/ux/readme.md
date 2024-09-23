@@ -9,19 +9,23 @@ The problem is to add this option to the online EZ in a way that is not confusin
 
 
 - [Mural folder](https://app.mural.co/t/departmentofveteransaffairs9999/r/1670613238628?folderUuid=eb1cd9df-3cca-4008-9d32-29c42520a4ba)
+- [ MVP epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
+
 
 ## Recent Work
 
-- [Research][DA] 10-10EZ Registration - Research plan for mvp #89214
 - [Figma MVP Designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3025-106249&t=JJdIOxH6I9H8BRka-0)
+
+
 
 ### MVP Design Decisions + Content Review
 | Date | Name of Decision | High-level descirption | Status |
 |------|-------------------------|-----------|---|
-|  July 26, 2024    |      Success research plan                  |      write up a proposal to share our approach, what we are doing, the proposed timeframe to monitor traffic, what threshold is considered "enough registration interest" to keep or expand on the process If it is under that threshold, what would we want to do then (remove it? revise it? etc)     | shared via Slack update from Heather Justice  - [Research][DA] 10-10EZ Registration - Research plan for mvp #89214 | 
-|  July 24, 2024    |      Simplify unauthenticatd mvp flow                   |      To reduce technical complexity and address content logic / one-thing-per page; updated user flow for unauthenticated users (leave disability rating question where it is today in flow)     | Internal team via DSU + Slack; PM/PO met 7/25 | 
+|  August 2024    |      Post-Demo Feedback                  | Decided to remove "I'm not sure" option, as it is not in alignment with radio button best practices without going to a different alert which is not a great experience. Will replace radio option with hint text. | [Github ticket]() | 
+|  July 26, 2024    |      Experiment Proosal                  | If it is determined that there is enough interest and traffic to indicate a need to provide the Registration Only pathway online within the first 30 days, we will run a research interview plan with Veterans to help us decide on how best to present the pathway in an easy-to-understand and transparent way within the EZ form. This new pathway will be an iteration and new Epic. | [Proposal link approved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Registration/Reg%20Only%20experiment%20proposal.md) | 
+|  July 24, 2024    |      Simplify unauthenticatd mvp flow                   |      To reduce technical complexity and address content logic / one-thing-per page; updated user flow for unauthenticated users (leave disability rating question where it is today in flow)     | Internal team via DSU + Slack; PM/PO met 7/25. Decision to proceed with flow directions. | 
 |  July 23, 2024    |  One-thing-per-page + content logic                      |     Recommended headers or split up page with personal information and content logic aroudn registration and/or disability rating into two pages      | EZ/CG Team Sprint Planning Meeting 7.23.24 |
-|  July 2024    |    Component used to display personal information                     |     Replace current use of address block with gray card      | Pending - [Slack thread](https://dsva.slack.com/archives/C01DBGX4P45/p1721745150002349?thread_ts=1719868094.635789&cid=C01DBGX4P45) |
+|  July 2024    |    Component used to display personal information                     |     Replace current use of address block with gray card, Authenticated experience pattern team is testing an approach     | Used in MVP designs, will plan to test and **tag appropriately** as the pattern in any findings |
 |   July 2024   |      Additional info with priority group information                   |   In the additional info component with more details about the full medical benefits package -  Pulled that language directly from the VA.gov health benefits page and included the priority group info specific to folks with a 10-40% disability rating. Added 1/ a sentence that explains what priority groups may help determine about their care ("..how much you'll pay...") and 2/ a sentence in the priority group 3 bullet point that clarifies that other factors aside of their disability rating may determine their placement in this priority group (...like details about your military service history...").        | [CAIA content review ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67133#issuecomment-2243814710) - Jessica Stump and Aliyah Blackmore |
 | July 2024 |  "Apply" content on registration page | We decided to leave "apply for" in the question to align with the PDF language and because even if someone only wants to register, they still need to fill out the entire EZ application. We can revisit this after any testing/applicant feedback. | [CAIA content review ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67133#issuecomment-2243814710) - Jessica Stump and Aliyah Blackmore |
 
@@ -31,7 +35,6 @@ The problem is to add this option to the online EZ in a way that is not confusin
 **MVP - Pre-Enrollment System Option - April 2024**
 - [Registration User Flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711487582087/34c3dab41845b8a2ca33afa97e05671703ca8395?sender=uadf1ed7fe7c76f0914967329)
 - [Alert Content + Additional Questions](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=3025-106249&mode=design&t=L5TgC5z1rWG3Hpqd-0)
-
 - Presented user flow options to Patrick (PO) on 3/27
 - PO suggested a lighter weight approach to start and tackling only SC 10-40% to gather data on interest for registering online
 - Team revisited user flows and settled on an alert-approach, aiming to show it to relevant users as early in the form as possible
@@ -39,7 +42,6 @@ The problem is to add this option to the online EZ in a way that is not confusin
 
 
 ### MVP Prioritization Post Workshops - March 2024
-
 - [Prioritization Matrix](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710355314983/31aebd05b2ad4aef0b3e3abb04e9b1886c1f4cff?sender=uadf1ed7fe7c76f0914967329) - in progress
 - [Wireframes v2](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=86-36817&mode=design&t=iUWqKCLTMPFMYn84-0) -  in progress
 

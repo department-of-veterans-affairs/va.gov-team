@@ -60,16 +60,19 @@ Records |  11 | 3
 ## Recommendations and next steps
 
 High priority
-- [ ] Make edits as indicated in each audit.
-- [x] Submit ticket to CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page.
-- [ ] Work with product teams that have incorrect URL structures on their forms or tools to get them updated to meet standards. 
-    - This should start with identifying which URLs need to be updated and developing a communication plan
-    - will also test this process with Pension team to identity impacts and options to approach this work
-- [ ] Have initial conversation with Public Websites and potentially CMS team on feasibility of creating an data pull of all the data/content we want to review or just those that have issues, submit ticket if possible for them to prioritize
+- [x] Make edits as indicated in each audit.
+- [x] Submit ticket to CMS team to correct the existing breadcrumb logic so each segment accurately matches the H1 of the corresponding page: [ticket 16464](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16464) 
+- [x] Work with product teams that have incorrect URL structures on their forms or tools to get them updated to meet standards. 
+    - This should start with identifying which URLs need to be updated and developing a communication plan. Documented in [google sheet](https://docs.google.com/spreadsheets/d/1DUAt4-XA-jHj3MZgT-7CsvEVk2tnixFXhJCeaMjgkU4/edit?gid=0#gid=0)
+    - Open tickets for product teams to edit
+        - [H1 of GI Bill Feedback tool ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80512)
+        - [URL for post-9/11 GI Bill statement of benefits tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80295)
+        - [URL for pre-need burial form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80510)
+- ~[ ] Have initial conversation with Public Websites and potentially CMS team on feasibility of creating an data pull of all the data/content we want to review or just those that have issues, submit ticket if possible for them to prioritize~ Not pulling in engineering resources for this effort.
 
 Medium priority
-- [ ] Refine CAIA processes to address navigation component and hub page updates when pages are launched, H1s are changed, or pages are archived - i.e. if a H1 is modified, an IA is looped in to evaluate navigation and entry points
-- [ ] Document new standards and guidance identified as needed and work with Design System team to add them to the VA design system.
+- [x] Refine CAIA processes to address navigation component and hub page updates when pages are launched, H1s are changed, or pages are archived - i.e. if a H1 is modified, an IA is looped in to evaluate navigation and entry points
+- [x] Document new standards and guidance identified as needed and work with Design System team to add them to the VA design system.
     - Establish guidance/rubric to define what links should appear on the hub page in each secton - i.e. top page views, frequency of use 
     - Usage of "On this page" component
     - Use of form number in link labels and page titles
@@ -79,13 +82,14 @@ Medium priority
     - Guidance for determining labels for left nav
 
 Low priority
-- [ ] Export the spreadsheets from Google to Excel and upload them to GH, possibly as one spreadsheet
-- [ ] Remove the "On this page" component from the audit - we will work to get set standards for when to include, and content can review separately
-- [ ] Update audit process documentation
+- [x] Export the spreadsheets from Google to Excel and upload them to GH, possibly as one spreadsheet
+- [x] Remove the "On this page" component from the audit - we will work to get set standards for when to include, and content can review separately
+- [x] Update audit process documentation
     - Write better notes next year so we understand them when we return to do the work
     - Create a global decisions log, possibly within the audit spreadsheet
     - Continue to have meetings with SMEs (Mikki/Beth) together
     - Look at setting tighter parameters up front for the audit to empower auditors to make decisions and decrease reviews needed (i.e. we are not changing URLs this round, only documenting changes needed)
 
+## Retrospective
 
-
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/retro.md

@@ -3,15 +3,15 @@ name: Redirect, URL change, or vanity URL request
 about: Submit a request to change a URL and/or implement a redirect for a URL. Also
   for vanity URL requests.
 title: Redirect Request
-labels: sitewide CAIA, Sitewide IA, sitewide, Public Websites, VA.gov frontend, Redirect request
-assignees: jennymayoco, kristinoletmuskat, strelichl, franecross
+labels: sitewide CAIA, Sitewide IA, VA.gov frontend, Redirect request, sitewide
+assignees: kristinoletmuskat, strelichl
 
 ---
 
 ### Instructions
 - Requests must be submitted **AT LEAST** 2 weeks in advance.  Some requests take a significant amount of time and coordination to implement, so start the process as soon as you know you will need one. 
-- This issue will be used from initial request through implementation to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track differnt steps.
-- It is your responsibility to notify VA stakeholders as appropriate.  
+- This issue will be used from initial request through implementation to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track different steps.
+- It is your responsibility to notify VA stakeholders as appropriate.
 
 | POC | Github alias(es) |
 --- | --- 
@@ -26,12 +26,14 @@ assignees: jennymayoco, kristinoletmuskat, strelichl, franecross
 - [ ] We need a custom vanity URL (complete vanity URL section)
 - [ ] We are removing a temporary redirect  (add relevant background and link to original redirect request)
 
-### Do you need Public Websites to implement this redirect?
-- [ ] Yes
-- [ ] No - Please note: Redirect still needs approval from IA and PW will do PR review
+### Do you have a product technical team able to implement this redirect?
+- [ ] Yes - Please note: Redirect still needs approval from IA.
+  - [ ] Please verify your team has reviewed [Redirect governance](https://design.va.gov/components/url-standards/redirects) and [Redirect technical implementation information
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md) 
+- [ ] No - CAIA will need to make Public Websites aware of the ticket.
 
 ### Implementation date
-When does this request need to be live? **NOTE:** Redirects deploy M-Th. Friday launches should be avoided.
+When does this request need to be live? **NOTE:** Redirects in vsp-platform-revproxy auto-deploy M-Th. Friday launches should be avoided.
 Choose one:
 - [ ] On a specific date, connected to a program or publishing requirement. **DATE:**
 - [ ] Any day prior to a deadline/latest possible date. **DEADLINE:** 
@@ -49,7 +51,7 @@ Vanity URL  |  Landing page
 ---  |  ---
 requested URL | landing page URL
 
-**Link to campaign landing page request issue:**
+**Link to campaign landing page request issue, if relevant:**
 
 
 ### Process, Roles and Responsibilities

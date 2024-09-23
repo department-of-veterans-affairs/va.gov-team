@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: June 26, 2024
+Last updated by @tygindraux: September 3, 2024
 
 This document is for our design team to communicate field rules.
 
@@ -12,7 +12,7 @@ This document is for our design team to communicate field rules.
   - [Branch of service](#branch-of-service)
   - [Location and postal code](#location-and-postal-code)
   - [School fields](#school-fields)
-  - [Medical facility](#medical-facility)
+  - [Health facility](#health-facility)
   - [Contact options](#when-contact-options-are-enableddisabled)
   - [Gender](#gender)
   - [DoD/EDIPI number](#dodedipi-number)
@@ -68,10 +68,16 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school` or `State of residency`||
-|Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `State of school` or `School facility`||
+|Category = `Education benefits and work study` and relationship to the Veteran = Business|Require `School facility` or `State of facility` depending on role*||
 |All other categories|Don't include school fields||
 
-## Medical facility
+- *For business inquiries, whether to require `School facility` or `State of facility` depends on which role the submitter chooses.
+  - If: Role = ON-THE-JOB TRAINING OR APPRENTICESHIP SUPERVISOR or SCHOOL CERTIFYING OFFICIAL (SCO)
+    - Then: Require `School facility` (If they choose, 'facility not listed' then ask for 'State of school')
+  - If: Role = VA EMPLOYEE or WORK STUDY SITE SUPERVISOR or OTHER
+    - Then: Require `State of facility'
+
+## Health facility
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Health care` and topic = `Prosthetics` `Audiology and hearing aids` `Getting care at a local VA medical center`|Require `Medical facility`||
@@ -79,6 +85,8 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
 |Category = `Debt` and topic = `Health care copay debt`|Require `Medical facility`||
 |Category = `Debt` and topic ≠ `Health care copay detb`|Don't include `Medical facility`||
 |All other categories|Don't include `Medical facility`||
+
+- **If** we collect health facility then we don't also collect postal code (unless postal code is part of their mailing address and they choose US mail). 
 
 ## When contact options are enabled/disabled
 - Review [Contact options by business line](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) for details.
