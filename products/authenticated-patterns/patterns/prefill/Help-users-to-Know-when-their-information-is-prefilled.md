@@ -25,7 +25,7 @@ View [Help users to... Update their prefilled information](#link to other patter
 - **User control and freedom.** This pattern also gives users control over their own information. [Learn more about User Control and Freedom](https://www.nngroup.com/articles/user-control-and-freedom/).
 
 ### When not to use this pattern
-- **For unauthenticated users**. Users who aren't signed in shouldn't see their information prefilled when they interact with an application. However, when forms don't require users to be signed in, they should see an information alert describing benefits to signing in. [View the alert](#unauthenticated-intro-page-alert-caia-guidance) later described on this page.
+- **For unauthenticated users**. Users who aren't signed in shouldn't see their information prefilled when they interact with an application. However, when forms don't require users to be signed in, they should see an information alert describing benefits to signing in. [View the unauthenticated intro page alert](#unauthenticated-intro-page-alert) later described on this page.
 
 ### When to use caution
 - **When prefilling data from a source other than VA Profile.** It is crucial to explain to the user exactly where the data is coming from so that if there are any errors in the data, it is clear how to correct them. 
@@ -40,12 +40,12 @@ This pattern involves these types of pages found in VA.gov forms:
 #### Unauthenticated introduction page
 [image example]
 
-Image caption: [Unauthenticated intro page alert](#unauthenticated-intro-page-alert) on the introduction page.
+Image caption:[Unauthenticated intro page alert on the introduction page.
 
 #### Authenticated introduction page
 ![Authenticated intro page alert on form introduction page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
 
-Image caption: [Authenticated introduction page alert](#authenticated-introduction-page-alert) on the introduction page.
+Image caption: Authenticated introduction page alert on the introduction page.
   
 #### Personal information page
 ![Prefilled information on personal informaiton pages](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
