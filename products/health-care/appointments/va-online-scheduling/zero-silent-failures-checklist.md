@@ -72,15 +72,16 @@
     GET /ppms/v1/providers/#{id}
     GET /vaos/v1/patients/#{user.icn}/eligibility
     GET /vpg/v1/patients/#{user.icn}/eligibility (Turned off via Flipper)
-    GET /vpg/v1/patients/#{user.icn}/relationships (I don't think we use this yet @cferris32?)
+    GET /vpg/v1/patients/#{user.icn}/relationships (I don't think we use this yet @cferris32? A: Correct, this is not yet in use [CF])
     GET /vaos/v1/locations/#{location_id}/clinics/#{clinic_id}/slots
     GET /vpg/v1/slots (Turned off via Flipper)
     GET /cce/v1/patients/#{user.icn}/eligibility/#{service_type}
-    GET /var/VeteranAppointmentRequestService/v4/rest/patient/ICN/#{user.icn}/preference (I don't think we use this PreferenceService @cferris32?)
+    GET /var/VeteranAppointmentRequestService/v4/rest/patient/ICN/#{user.icn}/preference (I don't think we use this PreferenceService @cferris32? A: Correct, this endpoint is not called anywhere in our VAOS code [CF])
     GET /users/v2/session/jwts
     POST /users/v2/session?processRules=true
     ```
     Note that I'm excluding v1 endpoints but let me know if we need to look into that as well @cferris32.
+    A: The v1 endpoints as they are defined in the VAOS routes have virtually never been used. From our routes perspective, we went straight from v0 to v2 (v0 has long since been    deleted). I cannot find any evidence that these endpoints are currently being used even by stray clients, but this might be worth additional investigation and possibly shutting off the routes if we believe they aren't needed and don't want to chance them being hit. [CF]
 
 ### Does your application submit to an API that relies on Sidekiq (or another background job processor)?
 
@@ -104,6 +105,7 @@
     - [ ] No
 
 - [JL] Technically yes we do since we have a user service that uses a Sidekiq job to refresh user sessions for all vets-api endpoints. However, my understanding is that this is a non-critical job and failures do not break user workflows since they will simply create a new session on the next API call to the backend. @cferris32 to double check my understanding here. If so, can we say we don't **rely** on Sidekiq jobs since the Sidekiq job can't break our user workflows?
+A: I believe you are correct and I will look into confirming this. @JunTaoLuo where did you find that info on the sidekiq jobs? [CF]
 
 If you answered yes to any of these questions then go through the following [checklist](#checklist) as a team exercise to determine if your application has silent failures.
 
