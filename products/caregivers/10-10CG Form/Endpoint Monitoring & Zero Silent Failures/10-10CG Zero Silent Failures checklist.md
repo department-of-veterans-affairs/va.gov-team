@@ -38,7 +38,7 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
->* No, MuleSoft introduced in September 2022, which is now a middleware between VA.gov and CARMA.  We no longer connect directly to CARMA.
+>* No, MuleSoft was introduced in September 2022, which is now a middleware between VA.gov and CARMA.  We no longer connect directly to CARMA.
 >     * The team had Datadog monitoring for the CARMA system while connected, and has since been updated to monitor MuleSoft when the change was made.
 >     * Sentry logs and alerts were also in place for the data flow to CARMA, which have since been removed after the change to MuleSoft was made.
 
