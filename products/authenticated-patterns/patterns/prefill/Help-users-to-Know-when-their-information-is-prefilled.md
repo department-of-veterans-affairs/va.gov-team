@@ -24,7 +24,7 @@ View [Help users to... Update their prefilled information](#link to other patter
 - **User control and freedom.** This pattern also gives users control over their own information. [Learn more about User Control and Freedom](https://www.nngroup.com/articles/user-control-and-freedom/).
 
 ### When not to use this pattern
-- **For unauthenticated users**. Users who aren't signed in shouldn't see any of their information prefilled when they interact with an application. However, when users can complete a form when they're signed in or not signed in, they should see the [Sign-in to start your application - Pre-fill]([https://design.va.gov/components/alert/](https://design.va.gov/components/alert/#sign-in-to-start-your-application---pre-fill)) instance of the information alert on the form's introduction page. The alert tells the user that information can be prefilled into some forms from Profile data if they sign in.
+- **For unauthenticated users**. Users who aren't signed in shouldn't see their information prefilled when they interact with an application. However, when forms don't require users to be signed in, they should see the [Sign-in to start your application - Pre-fill](https://design.va.gov/components/alert/#sign-in-to-start-your-application---pre-fill)) instance of the information alert on the form's introduction page. The alert tells the user that information can be prefilled into some forms from Profile data if they sign in.
 
 ### When to use caution
 
