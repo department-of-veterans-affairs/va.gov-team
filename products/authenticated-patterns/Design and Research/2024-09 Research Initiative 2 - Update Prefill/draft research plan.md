@@ -12,7 +12,7 @@
 - [Approved by](#approved-by)
 
 ## Background
-Many applications on VA.gov prefill existing information from user profiles if users sign in. This saves Veterans time and effort in completing tasks, like applications. Our team reviews current and potential design patterns to improve implementation guidance. We want to make it easier for VFS teams to implement patterns and make implementation more consistent.
+Many applications on VA.gov prefill existing information from user profiles when users sign in. This saves Veterans time and effort in completing tasks, like applications. Our team reviews current and potential design patterns to improve implementation guidance. We want to make it easier for VFS teams to implement patterns and make implementation more consistent.
 
 We've researched current instances of this pattern [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722538218743/e8a34db6e16086f9122fd2e0927edf5607bfa273?sender=u44efa807e992cacf10cf3697) so far. 
 
