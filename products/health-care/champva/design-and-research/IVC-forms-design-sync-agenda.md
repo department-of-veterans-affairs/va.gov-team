@@ -2,8 +2,8 @@
 
 ## September 16 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang, Ray Messina
-- Facilitator: Syd
-- Next meeting facilitator: Steven
+- Facilitator: Steven
+- Next meeting facilitator: Rachael
 - Agenda Topics
 	- 10-10d option vs required -- low priority (Syd)
  	- Walkthrough of the latest medicare card upload screens & OHI Status
