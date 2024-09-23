@@ -404,6 +404,7 @@ Possible silent errors
 - [PR] Staff data coming through the "details about your concern" field
 - [PR] Data missing from video appointments
 - [PR] Staff-canceled appointments disappearing from the list/no email notification
+- [JL] Long standing requests without response?
 - [JL] Session extension failure (Sidekiq job)
 - [JL] Partial responses
 - [JM] Clinic location mis-entered with codes rather than floor or room number
