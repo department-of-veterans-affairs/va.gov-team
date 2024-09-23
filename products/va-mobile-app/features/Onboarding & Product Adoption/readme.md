@@ -15,7 +15,7 @@ Lorem ipsum
 ### User Research
 
 ### Discovery & Previous Exploration
-* [Current App User Journey & Onboarding Experience + Gap Analysis (Figma)](https://www.figma.com/board/oaF7dSbwnt1Ga3v6rrVsx8/Onboarding---%F0%9F%A7%AA-Discovery-%26-Research---VA-Mobile?node-id=201-2116&t=5Gt6LTzCSpndKTC7-1)
+* [Current App User Journey & Onboarding Experience + Gap Analysis (FigJam)](https://www.figma.com/board/oaF7dSbwnt1Ga3v6rrVsx8/Onboarding---%F0%9F%A7%AA-Discovery-%26-Research---VA-Mobile?node-id=201-2116&t=5Gt6LTzCSpndKTC7-1)
 * [Discovery/Desk Research: Mobile App User Journeys & Onboarding: Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Onboarding%20&%20Product%20Adoption/discovery/onboarding-best-practices.md)
 
 ### Team Roles
