@@ -243,7 +243,7 @@ TBD
 #### Contributors 
 
 - Office/Department: Scheduling Product Line (SPL)
-  - Contact(s): Sam Passarelli (Contractor, Designer/Researcher), Stephanie Kilgore (Contractor, Designer/Researcher), Emily Qi (Product), BJ Thompson (Engineering) 
+  - Contact(s): Sam Passarelli (Contractor, Designer/Researcher), Stephanie Kilgore (Contractor, Designer/Researcher), Emily Qi (VA, Product), BJ Thompson (VA, Engineering) 
 - Office/Department: VeText
   - Contact(s): Shane Elliott (IT Specialist, OIT), Justin Wowk (Contractor, PM) 
 
