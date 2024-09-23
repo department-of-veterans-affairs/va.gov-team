@@ -122,7 +122,7 @@ Note: It is expected that our update will not break these bots with the inscope 
    - Testing for AVA VA.gov's web-facing, public UI will be owned by the AVA VA.gov team, guided by their test plan.
    - Testing for CRM's web-facing, public UI will be owned by the CRM team, guided by their test plan.
    - Testing steps that reference CRM's agent UI to verify queue routing will be intiated by the AVA VA.gov team and will be verified with support from the CRM team as needed.
-   - Testing steps that reference CRM's agent UI to reply to an inquiry will be owned by the CRM team as needed, this includes making changes to a inquiry status or drafting a response to an inquiry,
+   - Testing steps that reference CRM's agent UI to reply to an inquiry will be owned by the CRM team as needed, this includes making changes to a inquiry status or drafting a response to an inquiry.
    - Testing steps that reference CRM's agent UI to reroute an inquiry will be owned and executed by the CRM team as needed.
    - Testing of the CRM APIs/contracts will be performed by the CRM team.
    - Testing of the AVA VA.gov APIs/facade/middleware will be performed by the AVA VA.gov team.
