@@ -34,17 +34,17 @@ sequenceDiagram
   end
 
   break too few appointments
-    c-)vt: return error
+    c--)vt: return error
     vt-)vet: send text (ERROR_NOT_AVAILABLE)
   end
 
   break insurance validation needed
-    c-)vt: return error
+    c--)vt: return error
     vt-)vet: send text (ERROR_INSURANCE_VALIDATION)
   end
 
   break unknown number
-    c-)vt: return error
+    c--)vt: return error
     vt-)vet: send text (ERROR_PHONE_NOT_FOUND)
   end
 
@@ -52,7 +52,7 @@ sequenceDiagram
 
   break any error occurs
     va--)c: return error
-    c->>vt: return error
+    c--)vt: return error
     vt-)vet: send text (error: check-in could not be completed)
   end
 
@@ -62,7 +62,7 @@ sequenceDiagram
 
   break any error occurs
     cw--)c: return error
-    c->>vt: call
+    c--)vt: return error
     vt-)vet: send text (error: check-in could not be completed)
   end
 
@@ -72,7 +72,7 @@ sequenceDiagram
 
   break any error occurs
     l--)c: return error
-    c->>vt: call
+    c--)vt: return error
     vt-)vet: send text (error: check-in could not be completed)
   end
 
@@ -82,7 +82,7 @@ sequenceDiagram
 
   break any error occurs
     url--)c: return error
-    c->>vt: call
+    c--)vt: return error
     vt-)vet: send text (error: check-in could not be completed)
   end
 
@@ -93,7 +93,7 @@ sequenceDiagram
 
     break any error occurs
       va--)c: return error
-      c->>vt: call
+      c--)vt: return error
       vt-)vet: send text (error: check-in could not be completed)
     end
 
@@ -104,7 +104,7 @@ sequenceDiagram
     break any error occurs
       val--)va: return error
       va--)c: return error
-      c->>vt: call
+      c--)vt: return error
       vt-)vet: send text (error: check-in could not be completed)
     end
 
