@@ -92,6 +92,7 @@ If you answered yes to any of these questions then go through the following [che
 >        * If the application cannot be successfully retried in that time, we follow the [Ultimate Failure process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) (written with the Caregiver business stakeholders) to gather user data, notify CG team who will then notify the Veteran/Caregiver
 >   * If the CARMA system is unavailable at the time of application submission, MuleSoft queues the application until the CARMA system is available to receive the data for up to 24 hours.
 >        * If the application cannot be successfully retried in that time, the contact information within the application data is used to send an email to the Veteran and Caregiver, informing them of the issue and requesting they resubmit the application.
+>        * This is documented in the [End-to-End Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10cg%20End-to-End%20data%20flow.png)
 
 * [x] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
