@@ -48,8 +48,11 @@ As of January 2024, we are averaging 3.2k 0781/a successful uploads per month vs
 Canary rollout using 1% of new claims, if no issues rollout to 100%. 
 
 Release date: 
+
 Team members: 
+
 Length of time: 
+
 Percentage of Users (and roughly how many users do you expect this to be): 1% of users, ~xxx submissions
 
 
