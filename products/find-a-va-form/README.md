@@ -138,7 +138,7 @@ Forms managers provide an administrative function to manage Forms data entry and
 |Name|Role re: Forms|
 |----|----|
 |Brian.Mano@VA.gov|Supervisory Program manager|
-|Lancaster, Maryetta <Maryetta.Lancaster@va.gov>|Business owner of Forms managers (OPAL), VACO & NCA Forms manager|
+|Lancaster, Maryetta <Maryetta.Lancaster@va.gov>|Interim VACO & NCA Forms manager|
 |Bennett, Grant <Grant.Bennett@va.gov>  | VHA Forms manager|
 |Kessinger, Nancy J. <nancy.kessinger@va.gov> | VBA Forms manager |
 |Allmond, Yvette M. <yvette.allmond@va.gov> | VBA Forms manager|
