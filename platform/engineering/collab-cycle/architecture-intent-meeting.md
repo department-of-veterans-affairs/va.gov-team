@@ -1,14 +1,10 @@
 # Architecture Intent Meeting
 
-__*** DRAFT *** DRAFT *** DRAFT ***__
-
 The Architecture Intent meeting helps your team build a solution that meets VA.gov platform engineering and security standards and lowers the potential for launch-blocking issues later in the development cycle.
 
 ## What is the purpose of Architecture Intent meeting?
 
-The Architecture Intent meeting is less a formal presentation and more of a discussion.  It not only provides OCTO-DE and Platform with an early understanding of the product/feature your team wants to build, but is also an opportunity to collaborate and provide feedback on the intended implementation and surface any adjustments needed to meet Platform engineering and security standards. The focus is on making sure your code meets user needs within the constraints of the platform you're building on.
-
-TODO: emphasize that this is a low stakes, collaborative conversation to help connect eng teams with the information and resources they need to build great things
+The Architecture Intent meeting is an informal technical discussion about engineering and security, not a formal presentation.  It provides the OCTO-DE and Platform crews with an early understanding of the product/feature your team wants to build.  It's an opportunity to collaborate and provide feedback on the intended implementation and discover any adjustments needed to meet Platform engineering and security standards.  It helps make sure your code meets user needs within the constraints of the platform you're building on, and it helps connect teams with the information and resources they need to build great things.
 
 ## When to schedule an Architecture Intent meeting?
 
@@ -39,19 +35,23 @@ TODO: specify format for these docs and where they should live
 Some of the items below may not apply to your work--that's okay.  You may not be able to fill in some items that _do_ apply to your work--that's also okay.  If you don't have answers, please come ready to ask questions.
 
 - Product description
-    + Brief overview of motivation for the change
-    + Link to product document or GitHub issue
+    + Brief overview of motivation for the change from an engineering & security point of view
+    + Link to Collaboration Cycle Request issue
 - UX design description
     + For user-facing changes, link to UX prototype or wireframes if available
-    + Call out any engineering challenges; UX is reviewed in the Design Intent meeting
+    + Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
 - Frontend changes
     + Identify any significant code changes
     + Identify any new design system components needed or changes to current components
     + Describe any product analytics being gathered
 - Backend changes
     + Does the project introduce any new or unusual infrastructure dependencies?
+    + Do you need to poll any APIs for status?
+    + Are you handling all failure and error cases while in custody of your users's data?
 - Internal API changes
     + List new or modified APIs in `vets-api`
+    + Are you deprecating or removing any APIs?
+    + Do you have API documentation?
     + Describe expected call patterns
 - External API changes
     + List new or modified APIs for upstream or external systems
@@ -63,7 +63,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - Data storage
     + Describe new or modified databases, tables or columns
     + Describe indexes and constraints
-    + Identify PII and PHI and where and how it will be stored and processed
+    + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
 - Libraries and dependencies
     + List new or updated dependences
 - Metrics, logging, observability, alerting
