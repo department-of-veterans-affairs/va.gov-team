@@ -113,11 +113,11 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 #### Ease of use
 
 - At least 75% conversion rate of eCheck-in. | Create Explore Report in GA4 with custom GA Events
-- Decrease in time spent with Veterans during check in at the clinic who have completed eCheck-in; according to in-person semi-structured interviews with MSAs and clinical staff. 
+- Decrease in time spent with Veterans during check in at the clinic who have completed eCheck-in; according to in-person semi-structured interviews with MSAs and clinical staff. E.g., are staff asking pre-registration questions again? 
   
 #### Service completion
 
-- Decrease in canceled or missed appointments from Veterans with eCheck-in completed; to be collected in scheduled facility and IVC feedback sessions.  
+- Decrease in canceled or missed appointments from Veterans with eCheck-in completed; to be collected in scheduled facility and IVC feedback sessions. (Is there an IVC report for this now?)
 - Decrease in number of occasions MSAs or clinicians spend time locating a Veteran who has completed eCheck-in, but is not in the clinic waiting room; to be collected in scheduled facility and IVC feedback sessions. 
 
 #### Trust and satisfaction
@@ -125,7 +125,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 ##### - Quantitative
 
 - Decrease in mentions (at participating clinics) from Veterans of clinic staff not using PCI and challenges with finding their appointment's clinic after completing online check in, according to VSignals reports. | [VSignals Veteran Feedback Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals/2024)
-- At least 3.75 CSAT score, according to in-person user acceptance testing (UAT), i.e., Veterans.
+- At least 3.75 SUS, according to in-person user acceptance testing (UAT), i.e., Veterans. (% of 4 and 5's)
 - Increase in employee satisfaction towards PCI, according to in-person semi-structured interviews with MSAs and clinical staff. 
 
 ##### - Qualitative
@@ -135,7 +135,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 
 #### Application health
 
-- Less than 2% eCheck-in application downtime, according to DataDog reports. | [Looker Studio PCI Metrics Report](https://lookerstudio.google.com/u/0/reporting/07cf45d3-d464-4e0b-b905-40bcf34f4602/page/TlJ0C)
+- N/a
 
 ---
 
@@ -189,9 +189,9 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 ### Go-to-market strategy 
 [//]: # (*What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*)
 
-- To avoid a negative impact on satisfaction for Veterans and staff at operationally high-performing clinics using eCheck-in, pilot this feature at a larger CBOC that has reported complaints about PCI to IVC.
+- To avoid a negative impact on satisfaction for Veterans and staff at operationally high-performing clinics using eCheck-in, pilot this feature at a larger CBOC that has reported complaints about PCI to IVC. (CHANGE THIS.)
 - Required training for administrative and clinical staff on changes to PCI and their impact on clinic operations.
-- Researchers from PCI Veteran-facing Team and SPL Team to visit CBOC for in-person UAT with Veterans and semi-structured interviews with MSAs, clinic managers, clinicians using VSE-CS, and/or facility managers.  
+- Researchers from PCI Veteran-facing Team and SPL Team to visit CBOC for in-person UAT with Veterans and semi-structured interviews with MSAs, clinic managers, clinicians using VSE-CS, and/or facility managers. Best to visit in the first week in order to capture observations the first time Veterans. 
 
 --- 
 
@@ -242,8 +242,8 @@ TBD
     
 #### Contributors 
 
-- Office/Department: Service/Product Line (SPL)
-  - Contact(s): Sam Passarelli (Contractor, Designer/Researcher), Stephanie Kilgore (Contractor, Designer/Researcher)
+- Office/Department: Scheduling Product Line (SPL)
+  - Contact(s): Sam Passarelli (Contractor, Designer/Researcher), Stephanie Kilgore (Contractor, Designer/Researcher), Emily Qi (Product), BJ Thompson (Engineering) 
 - Office/Department: VeText
   - Contact(s): Shane Elliott (IT Specialist, OIT), Justin Wowk (Contractor, PM) 
 
