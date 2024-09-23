@@ -12,9 +12,11 @@
 - [Approved by](#approved-by)
 
 ## Background
-A variety of digital products within the authenticated VA.gov experience provide a service to users that prefill some of their existing profile information in order to save Veterans' time and energy. Our team is tasked with reviewing current or potential VADS design patterns to improve guidance around their implementation for consistency and ease of use across the different use cases on VA.gov. We have researched how this pattern has been used so far across the site, and would like to test some of the different variations we have seen implemented to find the best possible solution for the widest audience.
+Many digital products on VA.gov let users prefill existing information from their profile if they sign in. This saves Veterans time and effort in completing tasks, like applications. Our team reviews current and potential design patterns to improve implementation guidance. We want to make it easier for VFS teams to implement patterns and make implementation more consistent.
 
-Some of the variations we plan to test include:
+We've researched current instances of this pattern [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722538218743/e8a34db6e16086f9122fd2e0927edf5607bfa273?sender=u44efa807e992cacf10cf3697) so far. 
+
+In this study, we'll test some these variations:
 - Display style of both locked and editable data sets (Address vs Gray Box vs review card)
 - Asking users where they prefer to save updated data (Profile and form vs Form only)
     - once per form
