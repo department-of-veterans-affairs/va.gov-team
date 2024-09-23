@@ -102,7 +102,7 @@ Further complicating these issues, clinics aren't required to use PCI and VSE-CS
 ---
 ## Measuring Success
 
-### Key Performance Indicators (KPIs)
+### Metrics to track experiment 
 <!--
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
