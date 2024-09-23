@@ -17,30 +17,33 @@ View [Help users to... Update their prefilled information](#link to other patter
 
 ## Usage
 ### When to use this pattern
-- **When you prefill the user's data into an application, like a form.** When using this pattern, it is important to clearly inform the user of where their data is being pulled from to prefill for them.
+- **When you prefill the user's data into an application, like a form.** When using this pattern, clearly inform the user of where their data is being pulled from to prefill for them.
+- **When users can update prefilled information.** View [Help users to... Update their prefilled information](#link to other pattern) for guidance on helping users update prefilled information.
 
 #### Design Principals
 - **Visibility of system status.** This pattern demonstrates the usability principle of communicating the current state to help users feel in control and take appropriate action. [Learn more about Visibility of system status](https://www.nngroup.com/articles/visibility-system-status/).
 - **User control and freedom.** This pattern also gives users control over their own information. [Learn more about User Control and Freedom](https://www.nngroup.com/articles/user-control-and-freedom/).
 
 ### When not to use this pattern
-- **For unauthenticated users**. Users who aren't signed in shouldn't see their information prefilled when they interact with an application. However, when forms don't require users to be signed in, they should see the [Sign-in to start your application - Pre-fill](https://design.va.gov/components/alert/#sign-in-to-start-your-application---pre-fill)) instance of the information alert on the form's introduction page. The alert tells the user that information can be prefilled into some forms from Profile data if they sign in.
+- **For unauthenticated users**. Users who aren't signed in shouldn't see their information prefilled when they interact with an application. However, when forms don't require users to be signed in, they should see the [Sign-in to start your application - Pre-fill](https://design.va.gov/components/alert/#sign-in-to-start-your-application---pre-fill) instance of the information alert on the form's introduction page. The alert tells the user that information can be prefilled into some forms from Profile data if they sign in.
 
 ### When to use caution
-
-- When prefilling data from a source other than VA Profile. It is crucial to explain to the user exactly where the data is coming from so that if there are any errors in the data, it is clear how to correct them. 
+- **When prefilling data from a source other than VA Profile.** It is crucial to explain to the user exactly where the data is coming from so that if there are any errors in the data, it is clear how to correct them. 
 
 ## How to design and build
 
 ### Anatomy or layout details
-#### Form Intro Pages
-![Form Intro Page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
+#### Alert on form introdcution page
+![Alert on form introdcution page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
+[Add image description]
 
-#### Personal Information Review Pages
-![Personal Info Review Page](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
+#### Uneditable prefilled information on personal informaiton pages
+![Prefilled information on personal informaiton pages](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
+[Add image description]
 
-#### Information Review Pages
-![Address Review Page](https://github.com/user-attachments/assets/ccd68305-e4a6-46f9-ab6c-5665c1eee3d7)
+#### Editable prefilled information on information pages pages
+![Editable prefilled information on information pages pages](https://github.com/user-attachments/assets/ccd68305-e4a6-46f9-ab6c-5665c1eee3d7)
+[Add image description]
 
 ### How this pattern works
 
