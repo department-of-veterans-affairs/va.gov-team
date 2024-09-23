@@ -294,7 +294,7 @@ Provide a link to any materials you need to run your study, including any materi
   
 -    [Link to mockups](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=3212-30062&t=aLJ9Qek5E92Qj4dA-1)
   
--    [Link to prototype](https://codepen.io/team/Debt-Team/pen/mdZZdeP)
+-    [Link to prototype](https://codepen.io/team/Debt-Team/live/mdZZdeP)
 
   
 - **Please note: We are in the process of finalizing Codepen prototypes, which will be responsive.** 
