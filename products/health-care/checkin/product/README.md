@@ -111,7 +111,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Purpose: Send an SMS to Veterans 45 minutes before their VA health appointment if the appointment is eligible for eCheck-in 
 
 #### Medication Review
-- Status: In development
+- Status: Released to all VISNs in 09 2024
 - Purpose: Remind Veterans to, at their VA health appointment, be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.
 
    
