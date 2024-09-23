@@ -17,8 +17,10 @@ Reference Docs:
 - [Dress Rehearsal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/test-plans/Test%20Dress%20Rehearsal.md)
 - [Visual Flow of Testing](https://app.mural.co/t/thoughtworksclientprojects1205/m/thoughtworksclientprojects1205/1724347818244/9bca3672d775ae5fec71d1af118bcb859bce65e2?sender=uc2a4f18a27ff336484232897)
 - [Differences between Categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Similarities%20and%20differences%20between%20categories.md)
-  
-**Timeline:** [View our timeline in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12?wid=0-1717520164261)
+- [Form Flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708479170047/8ebb517a213e05ebc500087f5661a993a41392e8?sender=uc2a4f18a27ff336484232897)
+- [Testing Approach Doc](https://dvagov-my.sharepoint.com/:w:/g/personal/shelby_carl_va_gov/EXQdtcz1ksFKpTiRiE8kkhABaZZlCNK0RTt3L7n77L-eqQ?e=2rAX87) - PIV access Required
+- **Timeline:** [View our timeline in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12?wid=0-1717520164261)
+ 
 
 ## 2. Testing Types
 - **Unit Testing:** Test individual components and functions.
@@ -35,10 +37,14 @@ Reference Docs:
 ### Integration Testing
 **Decision:** Initial automated tests will be run locally in order to prevent blocking the pipeline. _Once Authenticated Health - I am the Vet - Myself_ passes, we’ll promote it to the build pipeline. 
 
-- Test Cases: Interaction between form steps, form data persistence between steps, backend integration.
+- Test Cases: Interaction between form steps, form data persistence between steps, and backend integration.
 - Example: Test backend calls, and ensure data is correctly saved and retrieved.
 
 The team will leverage Insomnia to send a collection of requests to the CRM APIs. The APIs will return a response body that includes a new field containing QueueID to ensure that the right Category, Topic, and Subtopic are routed to the correct queue.
+
+Drafting Insomnia Batch: 
+- Inquiries will be drafted based on the Ava Testing Framework excel. Each inquiry will require a Category, Topic, and Subtopic which will route to a unique Queue.
+- Additional notes such as what mocked user information will be based ( name, email, etc) and documented
 
 For Formal Testing: We will cover 120 flows of potential inquiry mapping
 
@@ -75,9 +81,16 @@ Checking responses (dashboard)
 - An Unauthenticated User, Who is a submitter, checking status in the `Check the status of your question` question
 - An Authenticated User, who is a submitter, checking for responses on the dashboard
 
-### Manual Usability & Accessibility Testing
+### Manual Testing
 - Scope: 
-- Test Cases: Usability, unexpected user behavior, error conditions.
+- Test Cases: Usability, unexpected user behavior, error conditions, and edge cases to catch discrepancies in testing.
+
+**Manual Test Cases:**
+Initial cases will be drafted here:  - [Testing Approach Doc](https://dvagov-my.sharepoint.com/:w:/g/personal/shelby_carl_va_gov/EXQdtcz1ksFKpTiRiE8kkhABaZZlCNK0RTt3L7n77L-eqQ?e=2rAX87) - PIV access Required
+
+
+**Manual Accessibility Testing - aka Man QA **
+Manual QA was done via Assistive Tech Studies and/or done individually on the page level by a teammate. 
 - Example: Navigate the form with the keyboard, visually inspect the form, and verify form responsiveness on different devices.
   - **Required tools:** JAWS (to gain access [see Slack](https://dsva.slack.com/archives/C0552U2L30S/p1715866016698579) ) 
   - **References:**  [Prototype Figma workspace](https://www.figma.com/design/nI0nYMdLamogjKq9t5atj8/Ask-VA-Prototype-R4-(Staging)?node-id=2001-79334)
@@ -108,9 +121,9 @@ Note: It is expected that our update will not break these bots with the inscope 
 - Roles and responsibilities for end-to-end (E2E) testing are as follows:
    - Testing for AVA VA.gov's web-facing, public UI will be owned by the AVA VA.gov team, guided by their test plan.
    - Testing for CRM's web-facing, public UI will be owned by the CRM team, guided by their test plan.
-   - Testing steps that reference CRM's agent UI to verify queue routing will be owned by the AVA VA.gov team, with support from the CRM team as needed.
-   - Testing steps that reference CRM's agent UI to reply to an inquiry will be owned by the AVA VA.gov team, with support from the CRM team as needed.
-   - Testing steps that reference CRM's agent UI to reroute an inquiry will be owned by the AVA VA.gov team, with support from the CRM team as needed.
+   - Testing steps that reference CRM's agent UI to verify queue routing will be intiated by the AVA VA.gov team and will be verified with support from the CRM team as needed.
+   - Testing steps that reference CRM's agent UI to reply to an inquiry will be owned by the CRM team as needed, this includes making changes to a inquiry status or drafting a response to an inquiry,
+   - Testing steps that reference CRM's agent UI to reroute an inquiry will be owned and executed by the CRM team as needed.
    - Testing of the CRM APIs/contracts will be performed by the CRM team.
    - Testing of the AVA VA.gov APIs/facade/middleware will be performed by the AVA VA.gov team.
 
