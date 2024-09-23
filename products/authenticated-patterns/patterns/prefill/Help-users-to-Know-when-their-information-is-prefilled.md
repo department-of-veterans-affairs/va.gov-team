@@ -65,8 +65,6 @@ This pattern communicates when and why information will be prefilled with:
 - **Unauthenticated intro page alert.**. This tells users they should expect prefilled information in a form after they sign in. Add this alert for forms that don't require users to be signed in.
 - **Authenticated intro page alert.** Add this alert for forms that do require users to be signed in.
   
-Forms display an alert component on the introduction page informing users that their information will be prefilled & from where their information is sourced. 
-
 #### Communicate information that cannot be edited
 This pattern communicates information that cannot be edited with: 
 - **Uneditable prefilled information displayed in a card.** Display uneditabled prefilled information (such as legal name, date of birth, and Social Security Number) in a card component.
