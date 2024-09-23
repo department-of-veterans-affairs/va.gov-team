@@ -3,15 +3,19 @@
 ## Purpose
 The purpose of this release plan is to document and align the delivery teams and stakeholders on what will be delivered and when. 
 
-## Project Description
+## Feature description
 For Veterans who have started their claim process since the new online paper sync for 0781 was released and who want to apply for benefits or services related to PTSD (post traumatic stress disorder) or mental health issues, this feature will notify the user that there is a new PDF paper form that is more current than the online version. Unlike today in the production where the newest version of the PDF is available, this feature will let the user know that the new version of the form includes questions related to mental health that the online version does not have and encourage them to download it.
 
-## Project Goals
+## Project goals
 - Notify the user that there is new version of the PDF that is more current than the online version
 - Increase the number of claims with file uploads vs. online for PTSD 
 
 ## Success criteria
--  As of January 2024, we are averaging 3.2k 0781/a successful uploads per month
+Using the number of new claims vs. claims that were in progress before the release, the number of uploaed 0781 forms vs. online entry for PTSD goes up. 
+Post submission validation (becasuse clicks on pages or buttons in our flow may not be accurate enough because the summary page allows the user to change their mind). 
+
+### Current stats
+As of January 2024, we are averaging 3.2k 0781/a successful uploads per month vs. x.xk online form entries. 
 
 ## Resource materials
 - [Design specs](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=7355-119960&t=qKSlGlTXqNCK0gRW-4)
@@ -21,9 +25,11 @@ For Veterans who have started their claim process since the new online paper syn
 - Product Guide
 - Collboration Cycle Plan
 
-## New Capabilities and Changes
+## New capabilities and changes
 - 0781 Flipper https://github.com/department-of-veterans-affairs/va.gov-team/issues/92013 - canary rollout and production validation
+
 - Limit the new feature to only new claims https://github.com/department-of-veterans-affairs/va.gov-team/issues/92199 - these are claims started after the release date, claims that were in progress before the release would not see the new feature. 
+
 - Instead of asking the user two seprate choices for which form they would like to upload (example, onece for each of these): 
   - walkthrough-781-choice page
   - walkthrough-781a-choice page
@@ -38,9 +44,19 @@ For Veterans who have started their claim process since the new online paper syn
   We'll ask once on one page.     
   - NEW 0781 upload page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91998 - new content and link to the paper form
 
+## Production release plan
+Canary rollout using 1% of new claims, if no issues rollout to 100%. 
+
+Release date: 
+Team members: 
+Length of time: 
+Percentage of Users (and roughly how many users do you expect this to be): 1% of users, ~xxx submissions
+
+
 
 ## Risks
 
+## Production issues recovery plan
+DBEX team Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which would prevent any user starting a new form from entering the path for the new 0781 redirect flow and instead direct them through the original flow for entering or uploading their 0781 and 0781a form/data. 
 
-## Production rollout plan
 
