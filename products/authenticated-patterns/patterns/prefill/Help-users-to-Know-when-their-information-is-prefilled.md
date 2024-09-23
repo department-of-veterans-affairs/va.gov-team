@@ -38,42 +38,41 @@ This pattern involves these types of pages found in VA.gov forms:
 - **Your information or Veteran information chapter**: Chapter of a form that could include multiple pages asking for information such as contact information, demographics, form-specific questions, etc.
 
 #### Unauthenticated introduction page
-[image example]
 
 Image caption: Unauthenticated intro page alert on the introduction page.
 
-#### Authenticated introduction page
-![Authenticated intro page alert on form introduction page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
+#### Introduction page
+There are two states of an introduciton page: Authenticated and Unathenticated. 
 
+![Authenticated intro page alert on form introduction page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
 Image caption: Authenticated introduction page alert on the introduction page.
+
+![Unauthenticated intro page alert on the introduction page.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Unauthenticated%20Alert.png)
+Image caption: Unauthenticated introduction page alert.
   
 #### Personal information page
 ![Prefilled information on personal informaiton pages](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
-
 Image caption: Uneditable prefilled information on the personal information page.
 
 #### Your information or Veteran information chapter
 ![Editable prefilled information on information pages pages](https://github.com/user-attachments/assets/ccd68305-e4a6-46f9-ab6c-5665c1eee3d7)
-
 Image caption: Editable prefilled information in the Veteran information chapter. Depending on the form, this information could be displayed in the Your information chapter too.
 
 ### How this pattern works
-[description?]
 
 #### Communicate when and why information will be prefilled
 This pattern communicates when and why information will be prefilled with: 
-- **Unauthenticated intro page alert.**. This tells users they should expect prefilled information in a form after they sign in. Add this alert for forms that don't require users to be signed in.
-- **Authenticated intro page alert.** Add this alert for forms that do require users to be signed in.
+- **Unauthenticated intro page alert.**. This tells users they should expect prefilled information in a form after they sign in.
+- **Authenticated intro page alert.** This alert tells users that some of their information may be prefilled for them because they are signed in.
   
 #### Communicate information that cannot be edited
 This pattern communicates information that cannot be edited with: 
-- **Uneditable prefilled information displayed in a card.** Display uneditabled prefilled information (such as legal name, date of birth, and Social Security Number) in a card component.
-- **Directions for updating uneditable information.** Add text under the card that has the bolded word 'Note" and directions to update this information offline. For guidance on helping users update prefilled information, see the ["Help users to... Know how their information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) patter. We're updating this pattern.
+- **Uneditable prefilled information displayed in a card.** Prefilled information (such as legal name, date of birth, and Social Security Number) is displayed in a card component.
+- **Directions for updating uneditable information.** Helper text is added under the card that has the bolded word 'Note" and directions to update this information offline. For additional guidance on helping users update prefilled information, see the ["Help users to... Know how their information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) pattern which will be updated soon.
 
 #### Communicate information that can be edited
 This pattern communicates information that can be edited with: 
-- **Editabled prefilled information displayed in a card with an edit link.** Displayed editable prefilled information editable in a card component with a link to edit the information. For guidance on helping users update prefilled information, see the ["Help users to... Know how their information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) patter. We're updating this pattern.
-- **Authenticated contextual alert.** Add this alert on pages that have editable prefilled information.
+- **Editable prefilled information displayed in a card with an edit link.** Prefilled information the is editable is displayed in a card component with a link to edit the information. For additional guidance on helping users update prefilled information, see the ["Help users to... Know how their information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) pattern which will be updated soon.
 
 ### Components used in this pattern
 
@@ -103,7 +102,7 @@ Directions for updating information that can't be updated online within the form
 [health form?]
 [benefits form?]
 
-### Alert content
+### Contextual Alert content
 Each alert has specific content requirements. You can find each content scenario below. 
 - Unauthenticated intro page alert
 - Authenticated intro page alert
@@ -125,23 +124,18 @@ Each alert has specific content requirements. You can find each content scenario
 > [button] Sign in or create an account
 > 
 > [text link] Start your form without signing in
-
- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Unauthenticated%20Alert.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Unauthenticated%20Alert.png)
 
 
 #### Authenticated intro page alert
 > [content] **Note:** Since you’re signed in to your account, we can prefill part of your form based on your account details. You can also save your form in progress and come back later to finish filling it out.
-
 ![image](https://github.com/user-attachments/assets/a279e845-aaa9-4373-bda0-932de3d3e2aa)
 
 
 #### Authenticated contextual alert
 > [content] **Note:** We've prefilled some of your information from your account. If you need to correct anything, you can select edit below. All updates will be made only to this form.
-> 
 ![image](https://github.com/user-attachments/assets/36b4acb4-be99-49cd-8bd6-536d8ef7db8e)
 
 
-
 ## Research findings
-
 The Authenticated Experience Design Patterns team conducted [user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill) to gather validation about this pattern.
