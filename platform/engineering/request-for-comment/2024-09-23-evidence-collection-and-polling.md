@@ -56,8 +56,8 @@ The document has to live somewhere when it is uploaded. For some amount of time 
 For some documents, this is required, such as 21-4142, since it requires manual action be done by a person. This is also appropriate for documents which fail to go the primary/Documents API path (due to error, data issues/discrepancies, downtimes, network issues, etc)
 
 
-
 #### Unauthenticated User Document Uploads
+As of now we are not sure the unauthenticated document upload should be any different that authenitcated. We still have a duty to ensure that the document gets where it was going, and potentially a duty to notify the uploader if we cannot.
 
 
 #### Other considerations
@@ -124,13 +124,13 @@ This risk can be mitigated by monitoring and alerting, and someone ensuring the 
 ## Appendix/Additional info
 ### Various existing polling stuff
 * 526 happy path pdf to LH generation upload tracking (in prod)
-** https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/lighthouse/poll_form526_pdf.rb
+https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/lighthouse/poll_form526_pdf.rb
 * 526 backup path polling implementation (in prod)
-** https://github.com/department-of-veterans-affairs/vets-api/blob/aaceb9279c03cd5e1f6903cf57e0b6846a8f8ccc/app/sidekiq/form526_status_polling_job.rb#L5
+https://github.com/department-of-veterans-affairs/vets-api/blob/aaceb9279c03cd5e1f6903cf57e0b6846a8f8ccc/app/sidekiq/form526_status_polling_job.rb#L5
 * 526 evidence / ancillary forms polling (in development)
-** https://github.com/department-of-veterans-affairs/vets-api/blob/aaceb9279c03cd5e1f6903cf57e0b6846a8f8ccc/app/sidekiq/lighthouseform526_document_upload_polling_job.rb
+https://github.com/department-of-veterans-affairs/vets-api/blob/aaceb9279c03cd5e1f6903cf57e0b6846a8f8ccc/app/sidekiq/lighthouseform526_document_upload_polling_job.rb
 * Decision review evidence and submission polling
-** https://github.com/department-of-veterans-affairs/vets-api/pull/18421/files
+https://github.com/department-of-veterans-affairs/vets-api/pull/18421/files
 * Burial/Pensions/Simple forms (just submissions, no evidence yet)
-** https://github.com/department-of-veterans-affairs/vets-api/blob/aaceb9279c03cd5e1f6903cf57e0b6846a8f8ccc/modules/pensions/app/sidekiq/pensions/pension_benefit_intake_job.rb
+https://github.com/department-of-veterans-affairs/vets-api/blob/aaceb9279c03cd5e1f6903cf57e0b6846a8f8ccc/modules/pensions/app/sidekiq/pensions/pension_benefit_intake_job.rb
 
