@@ -496,6 +496,18 @@ Please indicate how much you agree or disagree with the following statement:
     
 -    Strongly disagree
 
+ #### 7. LGBTQ+
+
+Do you identify as a member of the LGBTQ+ community?
+
+*We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.*
+
+-   Yes
+  
+-   No
+  
+-   Decline to answer
+
 ## Timeline
 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
