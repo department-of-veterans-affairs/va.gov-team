@@ -27,7 +27,7 @@ DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
 #### Sign in with a verified account
 You’ll need to sign in with an identity-verified account through one of our account providers. Identity verification helps us protect all Veterans’ information and prevent scammers from stealing your benefits.
 
-**Don't yet have a verified account?** Create a **Login.gov** or **ID.me** account now. Then come back here and sign in. We’ll help you verify your identity for your account.
+**Don't yet have a verified account?** Create a **Login.gov** or **ID.me** account now. We’ll help you verify your identity for your account.
 
 **Not sure if your account is verified?** Sign in here. We’ll tell you if you need to verify. 
 
@@ -71,12 +71,11 @@ This one-time process often takes about 10 minutes. You'll need to provide certa
 
 We need you to sign in with an identity-verified account. This step helps us protect all Veterans’ information and prevent scammers from stealing your benefits. You have 2 options: a verified **Login.gov** or a verified **ID.me** account.
 
-**Follow these steps:**
-1. Sign out of VA.gov.
-2. If you already have a **Login.gov** or **ID.me** account, sign back in with that account. If you don't have one of these accounts, select **Create an account** on the VA.gov homepage and create one now. Then sign back in with that account.
-3. If you still need to verify your identity for your account, we'll help you verify.
+**If you already have a **Login.gov** or **ID.me** account,** sign in with that account now. We’ll tell you if you need to verify your identity for your account.  
+
+**If you don't have one of these accounts,** create one now. We’ll help you verify your identity.
   
-[button] Sign out
+[button] Sign in or create an account
 
 [text link] [Learn about creating an account](https://www.va.gov/resources/creating-an-account-for-vagov/)
 
