@@ -14,21 +14,11 @@
       - 🟨 [[DevOps] Discovery on getting `cie-staging-scheduler` into IaC.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/299)
       - 🟨 [[DevOps] Investigate whether to remove DevOps configuration for CHIP DNS names.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/372)
 - **Community Care Direct Scheduling**
-    - **Sprint Goals is to ...................**
-    - 🟥 [Create KPIs and ensure business alignment ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)
-    - 🟩 [[FE] Time selection inline validation error](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91914)
-    - 🟩 [[FE] Referral Review - update design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
-    - 🟩 [[FE] Choose a date & Time - design update ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92483)
-    - 🟩 [[FE] Redux state tracking for appointments-cc flow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92490)
-    - 🟩 [[FE] Create flow pattern structure for referrals ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)
-    - 🟦🟩 [Create code to handle not double booking an appt at the same time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89730)  
+    - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
+    - TBD
 - **Upcoming VAOS Appointments**   
-    - **Sprint Goal is to perform functional and accessibility testing and get ready for Staging Review**
-    - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84421)
-    - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84417)
-    - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84425)
-    - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84422)
-    - 🟪 Schedule Staging Review
+    - **Sprint Goal is to complete the new details pages for every modality**
+    - TBD
 - **Check in with staff after checking in**
     - TBD
 - **OH Travel**
@@ -40,9 +30,7 @@
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
 - **Tech Debt**
-    - 🟩 [Use the New DS Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883)
-    - 🟩 [Check to see if the new DS Action Link Component is ready](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3136)
-        - It is closed, what, if anything, do we need to do on our end?    
+    - 🟩 [Use the New DS Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883)    
 </details>
 
 ## SPRINT 16 - 9/18/2024-10/1/2024
