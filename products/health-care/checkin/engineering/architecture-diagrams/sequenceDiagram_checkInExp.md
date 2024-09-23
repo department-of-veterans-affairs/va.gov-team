@@ -116,11 +116,13 @@ sequenceDiagram
   vt-)-vet: send text (short url)
 ```
 
-(Zoom-In on CW Portion so we can clean up above)
+#### Clinician Workflow: Get Demographics Status
+
+CHIP's request to Clinician Workflow for demographics status kicks off its own series of requests to VistA stations via Vista API.
+
 ```mermaid
 sequenceDiagram
   participant c as CHIP
-  participant t as Twilio
   participant cw as Clinician Workflow
   participant va as Vista API
   participant val as VistALink
@@ -133,7 +135,7 @@ sequenceDiagram
 
   va--)-c: valid token returned
 
-  c->>+cw: get demographics confirmations
+  c->>+cw: get demographics status
 
   cw->>+va: get VistA token
 
