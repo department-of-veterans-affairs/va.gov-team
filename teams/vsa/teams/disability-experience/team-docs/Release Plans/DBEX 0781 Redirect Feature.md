@@ -14,10 +14,30 @@ For Veterans who have started their claim process since the new online paper syn
 -  
 
 ## Resource materials
-- Design specs
-- Flow diagram
-- Feature ticket
-- 
+- [Design specs](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=7355-119960&t=qKSlGlTXqNCK0gRW-4)
+- [Flow diagram](https://lucid.app/lucidchart/3c8b77ee-d557-4e3c-aa71-72b91a19f8f9/edit?invitationId=inv_2aad0e84-4c60-48b5-88ba-32ccb30dc5d3&page=Aty-zM1V_zGj#)
+- [Datadog log](https://vagov.ddog-gov.com/logs?query=%40application%3Avets-api-worker%20%40environment%3Aproduction%20%40named_tags.class%3A%22EVSS%3A%3ADisabilityCompensationForm%3A%3ASubmitForm0781%22%20%40payload.status%3Asuccess%20&agg_m=count&agg_m_source=base&agg_t=count&cols=%40payload.error_message%2C%40payload.submission_id%2C%40payload.saved_claim_id%2C%40payload.job_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&step=2592000000&storage=online_archives&stream_sort=time%2Casc&view=spans&viz=timeseries&from_ts=1704085200000&to_ts=1725249540000&live=false)
+- Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production)
+- Product Guide
+- Collboration Cycle Plan
+
+## New Capabilities and Changes
+- 0781 Flipper https://github.com/department-of-veterans-affairs/va.gov-team/issues/92013 - canary rollout and production validation
+- Limit the new feature to only new claims https://github.com/department-of-veterans-affairs/va.gov-team/issues/92199 - claims starting after the release date
+- Direct users to the 0781 NEW Choice page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91930 - new content and link to the paper form
+- Direct users to the NEW upload page https://github.com/department-of-veterans-affairs/va.gov-team/issues/91998 - new content and link to the paper form
+
+- Instead of asking the user two seprate choices for which form they would like to upload (example, onece for each of these): 
+  - walkthrough-781-choice page
+  - walkthrough-781a-choice page
+    
+  We'll ask once on one page.
+  
+- Instead of asking the user to upload their form on two seprate pages(example, one for each of these): 
+  - ptsd-781-upload page
+  - ptsd-781a-upload page
+ 
+  We'll ask once on one page. 
 
 ## Risks
 
