@@ -35,7 +35,7 @@ For new team members, please refer to the onboarding documentation to get starte
 
 2. **ARP Frontend in vets-website**
    - Description: This repository contains the frontend application for the Accredited Representative Portal (ARP) within its `vets-website` React app.
-   - Link: [ARP Frontend in vets-website](https://github.com/department-of-veterans-affairs/vets-website/blob/5224ca7500fd9292b8fe29d967bcb4ab55f93df3/src/applications/accredited-representative-portal)
+   - Link: [ARP Frontend in vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accredited-representative-portal)
 
 3. **ARP Layout in content-build**
    - Description: This repository contains the layout for the Accredited Representative Portal (ARP) within `content-build`.
