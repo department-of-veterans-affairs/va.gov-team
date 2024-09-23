@@ -386,8 +386,8 @@ Participants thought it was helpful to have access to features from the home scr
 
   6 of the 13 participants provided feedback on the disability rating and monthly compensation components:
 
-  * 5 participants found it useful to see disability rating and monthly compensation on the home screen
-     > “If I fill out paperwork, I need the proof of Veteran status or my rating and how much my compensation is.“ P1
+  * 5 participants found it useful to see disability rating and monthly compensation displayed together, and 1 said it was specifically helpful to see it on the home screen
+     > “I have to look up my monthly compensation sometimes, Veteran status, etc. I like that it is right on the home page of the screen.” P1
   * 1 participant said that the presence of disability rating on the home screen problematic as well as not useful
      > “Personally - it's nobody's business what my rating is. It may change, it may not change.... it doesn't affect the discount.“ P9
 

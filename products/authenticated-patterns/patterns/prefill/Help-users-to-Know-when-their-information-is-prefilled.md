@@ -1,7 +1,9 @@
 # Help users to... Know when their information is prefilled
 `USE WITH CAUTION: CANDIDATE OR AVAILABLE?`
 
-Follow this pattern to help users know when their information will be prefilled for them in an application. View the [Help users to... Update their prefilled information](#link to other pattern) pattern if you're looking for guidance on helping users update this prefilled information.
+Follow this pattern to help users know when their information will be prefilled for them in an application. 
+
+View [Help users to... Update their prefilled information](#link to other pattern) for guidance on helping users update this prefilled information.
 
 ### Resources
 - [Research](Link to research repo filtered for issues containing pattern label [like this](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+label%3A%22DSC%3A+Help%20users%20know%20how%20their%20info%20is%20updated%22))
@@ -15,41 +17,63 @@ Follow this pattern to help users know when their information will be prefilled 
 
 ## Usage
 ### When to use this pattern
-- **When you prefill the user's data into an application, like a form.** When using this pattern, it is important to clearly inform the user of where their data is being pulled from to prefill for them.
+- **When you prefill the user's data into an application, like a form.** When using this pattern, clearly inform the user of where their data is being pulled from to prefill for them.
+- **When users can update prefilled information.** View [Help users to... Update their prefilled information](#link to other pattern) for guidance on helping users update prefilled information.
 
 #### Design Principals
-- Visibility of system status. This pattern demonstrates the [usability principle of communicating the current state](https://www.nngroup.com/articles/visibility-system-status/) in order to allow users to feel in control and to be able to take appropriate action.
-- User control and freedom. This pattern also gives users control over their own information thereby providing control and freedom.
+- **Visibility of system status.** This pattern demonstrates the usability principle of communicating the current state to help users feel in control and take appropriate action. [Learn more about Visibility of system status](https://www.nngroup.com/articles/visibility-system-status/).
+- **User control and freedom.** This pattern also gives users control over their own information. [Learn more about User Control and Freedom](https://www.nngroup.com/articles/user-control-and-freedom/).
 
 ### When not to use this pattern
-- For unauthenticated users. Users who are unauthenticated should not see any of their information prefilled, but on forms that can be completed in either an authenticated or unauthenticated state, users should see an alert on the introduction of the form letting them know how prefill benefits them to entice them to sign in to complete the form.
+- **For unauthenticated users**. Users who aren't signed in shouldn't see their information prefilled when they interact with an application. However, when forms don't require users to be signed in, they should see an information alert describing benefits to signing in. [View the unauthenticated intro page alert](#unauthenticated-intro-page-alert) later described on this page.
 
 ### When to use caution
-
-- When prefilling data from a source other than VA Profile. It is crucial to explain to the user exactly where the data is coming from so that if there are any errors in the data, it is clear how to correct them. 
+- **When prefilling data from a source other than VA Profile.** It is crucial to explain to the user exactly where the data is coming from so that if there are any errors in the data, it is clear how to correct them. 
 
 ## How to design and build
+### Anatomy or layout details 
+This pattern involves these types of pages found in VA.gov forms:
+- **Introduction page**: The first page of a form. Introduces the process the Veteran or other beneficiary will follow to apply for a benefit or to complete a supporting form. Changes slightly after a user signs in.
+- **Personal information page**: Usually the first page of a form after the user signs in. Has personal details that cannot be edited online, like name, date of birth, Social Security Number, etc.
+- **Your information or Veteran information chapter**: Chapter of a form that could include multiple pages asking for information such as contact information, demographics, form-specific questions, etc.
 
-### Anatomy or layout details
-#### Form Intro Pages
-![Form Intro Page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
+#### Unauthenticated introduction page
+[image example]
 
-#### Personal Information Review Pages
-![Personal Info Review Page](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
+Image caption: Unauthenticated intro page alert on the introduction page.
 
-#### Information Review Pages
-![Address Review Page](https://github.com/user-attachments/assets/ccd68305-e4a6-46f9-ab6c-5665c1eee3d7)
+#### Authenticated introduction page
+![Authenticated intro page alert on form introduction page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
+
+Image caption: Authenticated introduction page alert on the introduction page.
+  
+#### Personal information page
+![Prefilled information on personal informaiton pages](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
+
+Image caption: Uneditable prefilled information on the personal information page.
+
+#### Your information or Veteran information chapter
+![Editable prefilled information on information pages pages](https://github.com/user-attachments/assets/ccd68305-e4a6-46f9-ab6c-5665c1eee3d7)
+
+Image caption: Editable prefilled information in the Veteran information chapter. Depending on the form, this information could be displayed in the Your information chapter too.
 
 ### How this pattern works
+[description?]
 
-#### Communicate information that is prefilled
-Forms display an alert component on the introduction page informing users that their information will be prefilled & from where their information is sourced. 
+#### Communicate when and why information will be prefilled
+This pattern communicates when and why information will be prefilled with: 
+- **Unauthenticated intro page alert.**. This tells users they should expect prefilled information in a form after they sign in. Add this alert for forms that don't require users to be signed in.
+- **Authenticated intro page alert.** Add this alert for forms that do require users to be signed in.
+  
+#### Communicate information that cannot be edited
+This pattern communicates information that cannot be edited with: 
+- **Uneditable prefilled information displayed in a card.** Display uneditabled prefilled information (such as legal name, date of birth, and Social Security Number) in a card component.
+- **Directions for updating uneditable information.** Add text under the card that has the bolded word 'Note" and directions to update this information offline. For guidance on helping users update prefilled information, see the ["Help users to... Know how their information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) patter. We're updating this pattern.
 
-#### Communicate what information can be edited and what cannot
-Prefilled data that is uneditable (personal information such as Legal name, DOB and SSN) should appear in a card component, followed by a message that includes the bolded word 'note' and further instructions for how a user can update this information offline.
-
-Prefilled data that is editable should be shown in a card component with a link to edit the information. For guidance on editing prefilled information, see the "Help users to... Update their prefilled information" pattern, which is currently found in the ["Know how their information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) pattern. 
-
+#### Communicate information that can be edited
+This pattern communicates information that can be edited with: 
+- **Editabled prefilled information displayed in a card with an edit link.** Displayed editable prefilled information editable in a card component with a link to edit the information. For guidance on helping users update prefilled information, see the ["Help users to... Know how their information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) patter. We're updating this pattern.
+- **Authenticated contextual alert.** Add this alert on pages that have editable prefilled information.
 
 ### Components used in this pattern
 
@@ -73,12 +97,21 @@ Coming soon!
 
 
 ## Content considerations
-- For data that cannot be edited on the site, describe why you don't allow it and provide clear and concise instructions on how to do so.
+### Directions for updating uneditable information
+Directions for updating information that can't be updated online within the form varies. See examples below....
+[examples]
+[health form?]
+[benefits form?]
 
-### Alert Content
-When using this pattern keep in mind that the alerts used have specific content requirements. You can find each content scenario below. 
+### Alert content
+Each alert has specific content requirements. You can find each content scenario below. 
+- Unauthenticated intro page alert
+- Authenticated intro page alert
+- Authenticated contextual alert
 
-#### Unauthenticated intro page alert ([CAIA guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-patterns-and-standards/sign-in-alerts.md))
+#### Unauthenticated intro page alert
+...[Draft guidance from CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-patterns-and-standards/sign-in-alerts.md) on sign in alerts?
+
 > [heading] Sign in with a verified account
 > 
 > [content] Here’s how signing in with an identity-verified account helps you:
@@ -102,7 +135,7 @@ When using this pattern keep in mind that the alerts used have specific content 
 ![image](https://github.com/user-attachments/assets/a279e845-aaa9-4373-bda0-932de3d3e2aa)
 
 
-#### Authenticated review alert
+#### Authenticated contextual alert
 > [content] **Note:** We've prefilled some of your information from your account. If you need to correct anything, you can select edit below. All updates will be made only to this form.
 > 
 ![image](https://github.com/user-attachments/assets/36b4acb4-be99-49cd-8bd6-536d8ef7db8e)

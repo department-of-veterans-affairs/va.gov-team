@@ -115,6 +115,7 @@ shortening TBD]/
 | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[licensing-and-certification-tests-and-prep-courses - or Drupal auto-shortened version TBD] | L&C redirect |
 | https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[national-test-and-prep-courses - or Drupal auto-shortened version TBD] | National tests redirect |
 
+**[Redirect ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93434)**
 
 ## <a name="bestbets"></a>Best Bets<br>
 - **Update** best bet for Licenses and Certifications page

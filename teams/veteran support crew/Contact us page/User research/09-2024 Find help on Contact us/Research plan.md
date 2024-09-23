@@ -109,8 +109,8 @@ For more details about our criteria, refer to our [Recruitment ticket](https://g
 |:--|:--|
 |Friday, August 30|✅ Research review submitted|
 |~~Wednesday, September 4~~Friday, August 30|✅ Research review approved|
-|Thursday, September 5|Pilot session|
-|Monday, September 9 - Thursday, September 19|Research sessions|
+|Thursday, September 5| ✅ Pilot session|
+|Monday, September 9 - Thursday, September 19| ✅ Research sessions|
 |Monday, September 23 - Tuesday, September 24|Analysis|
 |Wednesday, September 25 - Friday, September 27|Synthesis|
 |Monday, September 30|Discuss recommendations|

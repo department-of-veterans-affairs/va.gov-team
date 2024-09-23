@@ -40,7 +40,6 @@
 - [21-8940 (Veteran's Application for Increased Compensation Based on Unemployability)][21-8940]
 - [21-2680 (Examination for Housebound Status or Permanent Need For Regular Aid and Attendance)][21-2680]
 - [21-4502 (Auto Allowance & Adaptive Equipment Application)][21-4502]
-- |526 ancillary forms|List of additional forms mentioned on paper version of 526, and recommendations for future inclusion in digital 526 flows|[Link](https://docs.google.com/spreadsheets/d/1gYOQFXQxfacFIf5B0qb4-NGUDLvzVQ3oEMMNjvxk86I/edit?usp=sharing)|March 2023|
 
 
 ## Team

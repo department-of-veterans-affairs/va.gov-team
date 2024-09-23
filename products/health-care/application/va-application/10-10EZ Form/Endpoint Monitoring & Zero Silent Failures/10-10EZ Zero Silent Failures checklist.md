@@ -91,14 +91,17 @@ If you answered yes to any of these questions then go through the following [che
 >       * Specify APIs/SORs we call within what steps
 >       * Detail which system retries a submission and what happens after all retries are exhausted (aka our submission failures process)
 
-* [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
+* [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
->   * Yes, playbook in progress.  Diagram needed
-
+>   * Yes - ACTION ITEM: Update Flow chart
+> 
 * [x] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
   * Please document the outcome of this conversation in your product's documentation in Github.
->   * Yes, we confirmed with Joshua Faulkner (Technical Director of the Veteran Enrollment System (VES) via email that any errors considered "fatal" or "unrecoverable" once they reach the VES are moved into a manual workflow for the staff to take action on the application submission.  Most of the scenarios that result in this manual workflow are expected and intentional, especially in the anonymous submission route; but unexpected errors also follow that same flow. This will be documented in our [10-10EZ Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/10-10EZ%20Flow%20Chart.md) 
+>   * Yes, we confirmed with Joshua Faulkner (Technical Director of the Veteran Enrollment System (VES) via email that:
+>   >*  any errors considered "fatal" or "unrecoverable" once they reach the VES are moved into a manual workflow for the staff to take action on the application submission.
+>   >*  Most of the scenarios that result in this manual workflow are expected and intentional, especially in the anonymous submission route; but unexpected errors also follow that same flow.
+>   *  This will be documented in our [10-10EZ Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/10-10EZ%20Flow%20Chart.md) 
 
 #### User experience
 

@@ -35,7 +35,7 @@ For new team members, please refer to the onboarding documentation to get starte
 
 2. **ARP Frontend in vets-website**
    - Description: This repository contains the frontend application for the Accredited Representative Portal (ARP) within its `vets-website` React app.
-   - Link: [ARP Frontend in vets-website](https://github.com/department-of-veterans-affairs/vets-website/blob/5224ca7500fd9292b8fe29d967bcb4ab55f93df3/src/applications/accredited-representative-portal)
+   - Link: [ARP Frontend in vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accredited-representative-portal)
 
 3. **ARP Layout in content-build**
    - Description: This repository contains the layout for the Accredited Representative Portal (ARP) within `content-build`.
@@ -43,7 +43,7 @@ For new team members, please refer to the onboarding documentation to get starte
 
 4. **ARP Form21a in vets-website**
    - Description: This repository contains the implementation of the VA Form 21a for the Accredited Representative Portal (ARP) within its `vets-website` [Forms Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview) application.
-   - Link: [ARP Form21a in vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accreditation/21a)
+   - Link: [ARP Form21a in vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accredited-representative-portal/accreditation/21a)
 
 5. **ARP Form21a in vets-api**
    - Description: This repository contains the implementation of the VA Form 21a for the Accredited Representative Portal (ARP) within its `vets-api` Rails engine.

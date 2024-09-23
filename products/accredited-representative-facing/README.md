@@ -15,7 +15,9 @@ Throughout the yearlong POP, we focused on 3 main features or work streams withi
 ## Where to find our work
 
 - [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW) OCTO Slack channel
-- [Github repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing) (this repo)
+- [Github repo for documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing) (this repo)
+- [Github repo for frontend work(vets-website)](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accredited-representative-portal)
+- [Gihub repo for backend work (vets-api)](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/accredited_representative_portal)
 - [Sharepoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing?csf=1&web=1&e=nBcDcq) within the Benefits Portfolio Sharepoint
 - [Zenhub board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board)
 - [Mural folder](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=ec617166-2771-4165-a134-39e239f3a045)

@@ -1,10 +1,10 @@
 # ARF Engineer Onboarding
 
-Welcome to the Accredited Representative Facing (ARF) Engineering team! This document is an onboarding guide for new team members, providing a comprehensive overview of our projects, resources, and critical documentation. By following the steps outlined here, you'll gain an understanding of our mission, current projects, technical details, and where to find important information.
+Welcome to the Accredited Representative Facing (ARF) Engineering team! This document is an onboarding guide for new team members, providing a comprehensive overview of our projects, resources, and critical documentation. By following the steps outlined here, you'll be able to understand our mission, current projects, technical details, and where to find important information.
 
 ## High-Level Project Overview
 
-- [ ] **Explore** [Accredited Representative Facing Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing). The ARF homepage outlines the team's mission at the Department of Veterans Affairs to enhance the VA experience through a user-friendly online system. It showcases resources like the MVP, roadmap, and glossary of jargon. It also highlights key documentation, team agreements, and communication channels for engagement.
+- [ ] **Explore** [Accredited Representative Facing Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing). The ARF homepage outlines the team's mission at the Department of Veterans Affairs to enhance the VA experience through a user-friendly online system. It showcases resources like the MVP, roadmap, and glossary of jargon. It also highlights vital documentation, team agreements, and communication channels for engagement.
 - [ ] **Reference** [VA Form 21-22](https://www.vba.va.gov/pubs/forms/vba-21-22-are.pdf) - Veterans use VA Form 21-22 when they want to have a Veterans Service Organization (VSOrg) help them with VA benefits or claims. The Veteran/Claimant information from this form is what will populate ARP's POA Request Table (using LH<>BGS<>CorpDB).
 
 ### Background Research / SEP Demos
@@ -20,6 +20,7 @@ The main bit is the SEP slides. Everything else is optional.
 ### Deeper Technical Discovery
 
 - [ ] **Explore** [ADRs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/ADRs)
+   - [ ] The [ARF 21a Architecture Intent Document]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/arp-architecture-intent-meeting.md)) is a key one to spend time with!
 - [ ] **Explore** [ARF Engineering Canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC)
 - [ ] **Reference** [Lighthouse Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705440431964/42ea71b5405cda62ed44e95794facd94d8d266a0?sender=u44da4f823ec94118a7079396)
 - [ ] [Staging/WIP LH API Endpoints](https://staging-developer.va.gov/explore/api/benefits-claims/docs?version=current)
@@ -36,7 +37,7 @@ The main bit is the SEP slides. Everything else is optional.
 
 ## Zenhub
 
-The below are the key ARF engineering epics
+Below are the essential ARF engineering epics.
 
 - [ ] [Accept/Deny Power of Attorney Requests](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/78472)
 - [ ] [ARF Authentication](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746)

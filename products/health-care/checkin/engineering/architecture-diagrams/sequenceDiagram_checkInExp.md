@@ -34,17 +34,17 @@ sequenceDiagram
   end
 
   break too few appointments
-    c-)vt: return error
+    c--)vt: return error
     vt-)vet: send text (ERROR_NOT_AVAILABLE)
   end
 
   break insurance validation needed
-    c-)vt: return error
+    c--)vt: return error
     vt-)vet: send text (ERROR_INSURANCE_VALIDATION)
   end
 
   break unknown number
-    c-)vt: return error
+    c--)vt: return error
     vt-)vet: send text (ERROR_PHONE_NOT_FOUND)
   end
 
@@ -52,7 +52,7 @@ sequenceDiagram
 
   break any error occurs
     va--)c: return error
-    c->>vt: return error
+    c--)vt: return error
     vt-)vet: send text (error: check-in could not be completed)
   end
 
@@ -62,7 +62,7 @@ sequenceDiagram
 
   break any error occurs
     cw--)c: return error
-    c->>vt: call
+    c--)vt: return error
     vt-)vet: send text (error: check-in could not be completed)
   end
 
@@ -72,7 +72,7 @@ sequenceDiagram
 
   break any error occurs
     l--)c: return error
-    c->>vt: call
+    c--)vt: return error
     vt-)vet: send text (error: check-in could not be completed)
   end
 
@@ -82,7 +82,7 @@ sequenceDiagram
 
   break any error occurs
     url--)c: return error
-    c->>vt: call
+    c--)vt: return error
     vt-)vet: send text (error: check-in could not be completed)
   end
 
@@ -93,7 +93,7 @@ sequenceDiagram
 
     break any error occurs
       va--)c: return error
-      c->>vt: call
+      c--)vt: return error
       vt-)vet: send text (error: check-in could not be completed)
     end
 
@@ -104,7 +104,7 @@ sequenceDiagram
     break any error occurs
       val--)va: return error
       va--)c: return error
-      c->>vt: call
+      c--)vt: return error
       vt-)vet: send text (error: check-in could not be completed)
     end
 
@@ -116,11 +116,13 @@ sequenceDiagram
   vt-)-vet: send text (short url)
 ```
 
-(Zoom-In on CW Portion so we can clean up above)
+#### Clinician Workflow: Get Demographics Status
+
+CHIP's request to Clinician Workflow for demographics status kicks off its own series of requests to VistA stations via Vista API.
+
 ```mermaid
 sequenceDiagram
   participant c as CHIP
-  participant t as Twilio
   participant cw as Clinician Workflow
   participant va as Vista API
   participant val as VistALink
@@ -133,7 +135,7 @@ sequenceDiagram
 
   va--)-c: valid token returned
 
-  c->>+cw: get demographics confirmations
+  c->>+cw: get demographics status
 
   cw->>+va: get VistA token
 

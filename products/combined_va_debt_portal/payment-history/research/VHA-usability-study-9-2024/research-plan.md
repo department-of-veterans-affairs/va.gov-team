@@ -291,10 +291,13 @@ Provide a link to any materials you need to run your study, including any materi
 ## For moderated usability tests:
 
 -    [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/conversation-guide.md)
-    
--    [Link to prototype](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=3212-30062&t=aLJ9Qek5E92Qj4dA-1)
   
-- **Please note: We are in the process of finalizing Codepen prototypes, which will be responsive. We will update the link to the Figma mockups as soon as the 	Codepen prototypes are ready.** 
+-    [Link to mockups](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=3212-30062&t=aLJ9Qek5E92Qj4dA-1)
+  
+-    [Link to prototype](https://codepen.io/team/Debt-Team/live/mdZZdeP)
+
+  
+- **Please note: We are in the process of finalizing Codepen prototypes, which will be responsive.** 
     
 
 ## Recruitment
@@ -345,7 +348,7 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
 
 #### Primary criteria (must-haves)
 
--  At least 8-12 Veterans interviewed, please recruit 16 - 24 Veterans
+-  At least 8-12 Veterans interviewed, please recruit 16 Veterans
     
 -   All participants must be Veterans
     
@@ -496,11 +499,23 @@ Please indicate how much you agree or disagree with the following statement:
     
 -    Strongly disagree
 
+ #### 7. LGBTQ+
+
+Do you identify as a member of the LGBTQ+ community?
+
+*We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.*
+
+-   Yes
+  
+-   No
+  
+-   Decline to answer
+
 ## Timeline
 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
-Monday, September 30 - Tuesday, October 8 2024
+Monday, September 30 - Tuesday, October 9 2024
 
 ## Prepare
 
@@ -515,7 +530,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ## Research sessions
 
-Monday, September 30 - Tuesday, October 8 2024
+Monday, September 30 - Tuesday, October 9 2024
    
 -   Session length: 60 minutes
     
@@ -530,25 +545,11 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-Monday, September 30 - Tuesday, October 8 2024
+Monday, September 30 - Tuesday, October 9 2024
 
-Tuesday, Wednesday
+Mon – Friday
 
--   9am PT
-    
--   12pm PT
-    
-
-Monday, Thursday
-
--   10am PT
--   1pm PT
-    
-
-Friday
-
--   1pm PT
-    
+-   9am – 1pm PT
 
 2 max per day
 
@@ -568,7 +569,7 @@ Please list the people who will be serving in each role. Include the primary pho
     
 -   Accessibility specialist (for sessions where support for assistive technology may be needed): [ add ]
     
--   Note-takers: Megan Gayle, Joseph Lee, Perigean
+-   **Note-takers**: Megan Gayle, **Perigean**
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
     

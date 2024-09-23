@@ -18,6 +18,7 @@ In addition, this documentation accounts for possible scenarios in which no draf
 - Failed API call
 - Scheduled maintenance
 - PDF cannot be generated
+- PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
 
 ## When to show the ‘Benefit applications and forms' section
 We show this section for every LOA3 user.
