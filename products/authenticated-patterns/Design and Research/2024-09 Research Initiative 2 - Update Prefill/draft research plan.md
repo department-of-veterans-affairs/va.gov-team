@@ -12,7 +12,7 @@
 - [Approved by](#approved-by)
 
 ## Background
-Many digital products on VA.gov let users prefill existing information from their profile if they sign in. This saves Veterans time and effort in completing tasks, like applications. Our team reviews current and potential design patterns to improve implementation guidance. We want to make it easier for VFS teams to implement patterns and make implementation more consistent.
+Many applications on VA.gov prefill existing information from user profiles if users sign in. This saves Veterans time and effort in completing tasks, like applications. Our team reviews current and potential design patterns to improve implementation guidance. We want to make it easier for VFS teams to implement patterns and make implementation more consistent.
 
 We've researched current instances of this pattern [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722538218743/e8a34db6e16086f9122fd2e0927edf5607bfa273?sender=u44efa807e992cacf10cf3697) so far. 
 
@@ -23,13 +23,14 @@ In this study, we'll test some these variations:
     - once per field
     - only certain fields
 - Including a review step at the end of a form
- 
-Many forms prefill personal information on VA.gov right now. By determining the best placement, style and experience of using this pattern, we will provide improved guidance for this pattern that will help to improve the user experience of VA.gov as well as other federal government digital products.
 
-[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/patterns/prefill/README.md).
+[View our product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/patterns/update-prefilled-information).
+
 ### OCTO Objectives and Veteran Journey
+This work supports [OCTO Objective 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md).
+- Our people are empowered with the knowledge and resources they need to make a sustained impact.
 
-This work supports the [OCTO Objective 3.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) Our people are empowered with the knowledge and resources they need to make a sustained impact. Because this design pattern can be used across a wide variety of forms and digital products, the study fits into the [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5fa2c0a1630337422de4e8f719cdcac3e391fe1a/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf#L2) throughout the full life cycle of the Veteran.
+Because this design pattern can be used in many forms and digital products, the study fits into the [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5fa2c0a1630337422de4e8f719cdcac3e391fe1a/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf#L2) throughout the full life cycle of the Veteran.
 
 ## Research Goals	
 Goals for this research include:
