@@ -125,7 +125,7 @@ body:
   - type: dropdown
     id: architecture-intent
     attributes:
-      label: Does your work require [non-trivial](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md#when-to-schedule-an-architecture-intent-meeting) code changes or involve [PII](https://en.wikipedia.org/wiki/Personal_data)/[PHI](https://en.wikipedia.org/wiki/Protected_health_information)?
+      label: Does your work require non-trivial code changes or involve PII/PHI?
       description: If so, you need an [engineering and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md).
       options:
         - "Yes"
