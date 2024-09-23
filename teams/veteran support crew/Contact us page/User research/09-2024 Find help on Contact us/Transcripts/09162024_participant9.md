@@ -10,12 +10,72 @@
 - [Cool down](#cool-down)
 
 ## Before showing ‘Contact us’ page
-[Veteran 30 years ago this month. 
-*Have you used Contact Us? -Yes, two years ago. When they went to the logon. Com I was on a test for that but after the session, that login has not worked. I still have not been able to get it to work. 
-I clicked on the link on the website. I tried to go first on reset my ID but there were too many steps and I called and they were supposed to send me a link but I still have not heard back.
-I tried to do email or any method. The phone is a last resort. I’m not an area where cellphones is not the best. To me, a phone call is a last resort. The people I talk to do, don’t always know. 
-Yes. Through the website or help page. 
-Finding out, I received a benefits letter. I kept typing in on the search button on the VA website and didn’t work and I googled the exact words on google and it led me to the exact page I needed.
+Becky: Well, it seems like we're ready to get started and first, we're just gonna take some time to learn more about your experience with VA and VA customer support. So starting off around how long have you been a veteran?
+
+> P9: We're technically a veteran with when I joined, so [number] years ago this month.
+
+Becky: Wow. OK, Happy happy anniversary. That's quite a long time. In that time, have you ever used the contact us page on va.gov?
+
+> P9: Yes, I want to say two years ago was the last time I did when they went to the new I think it was log on dot, log on dot, ID whatever was called the new format.
+
+> P9: I was part of a test part for that to do, trying to work on it and to get the ID, ID to work.
+
+> P9: But it after the session it didn't work. And then I kept trying to contact the VA through Contact us and then try to get that that log in to work again and I still haven't gotten it to work right since.
+
+> P9: So I have to use other logins other than the new version of it that they have.
+
+Becky: Oh, interesting. OK. How did you try to contact the VA in that instance?
+
+> P9: So I clicked on the link on the website and then 'cause I tried to do first, you know, reset your IP, you know, getting a new password and everything else, trying to go through the process, but it's got so many Dang steps.
+
+> P9: It kept timing out and then it kept screened up. So I finally got it to try to get a phone call. So I finally got a phone call with them to try to work on it.
+
+> P9: They said they're supposed to give me a call back and they sent me a link, but it didn't work. So I just like, it's just not worth it, worth an hour of the time.
+
+> P9: I was, I just was waiting for the glitches to stop. Hopefully one day it would work better so I wouldn't have to worry about it anymore. But still not that.
+
+Becky: Yeah, sorry to hear about that. I know, you know, we definitely hear a lot about login issues with our veterans too, you know, even depending on if they live overseas or if they're here, that sort of thing.
+
+Becky: I'm curious too. So you mentioned you contacted VA by phone. Is that how you usually contact VA by calling or like, do you try to do e-mail or do you have a preference?
+
+> P9: I try to do e-mail. I try to do or anything or whichever method e-mail or like the chat if it was available, but phone's kind of last resort just cause it's, it's a hit or miss and you never know.
+
+> P9: And I'm, I'm not in an area where the cell phone signal is the best, which is part of the problem too.
+
+> P9: So it's always an issue, especially if you have to worry about receiving a code to your phone, stuff like that, that's always a pain.
+
+> P9: So it just, it's just, it's a hassle. So to me, a phone, a phone call's almost a last resort.
+
+Becky: OK, Can you explain, I guess you talked about, you know, your, your cell phone signal. Is there any other reason why it might be a last resort for you?
+
+> P9: 'cause the people I talk to don't always necessarily know what's going on. And again, without having the best signal, it's hard to hear them. And then constantly repeat for everything else. It's just more of a hassle than than it's worth. 
+ 
+Becky: Yeah, yes. I'm wondering do you try to find answers online first? 
+
+> P9: Yes.
+
+Becky: OK, how do you do that?
+
+> P9: So if I can't find it on the website itself to the help page or I'll go to Google and then type it in there or try to find other like some of the forums I'm part of just to see if if anything, if anybody else having the same issue or how do they way to fix it.
+
+> P9: I try I might put the question out there if it's, you know, really troublesome, but again, we don't always get quick answers there either.
+
+> P9: So I don't really have a quick way to get anything done just because of the fact of where I live, but it is what it is.
+
+Becky: Got it. I'm curious, can you maybe walk me through like your most recent attempt at finding answers online and, and how that went with VA or like Ava related question.
+
+> P9: So actually we end up being, finding out what my, actually I had to get, actually last week I had to get a benefits letter to show because my my VA benefits have been updated. So I wanted to get a letter for it.
+
+> P9: But I kept typing in for the search function on my health, the vet or my Hilda vet, whatever it is. And then on the main VA page, it wouldn't work.
+
+> P9: So I finally had to go to Google, type in the exact same words. And gosh, it took me right to the V as link right there.
+
+> P9: But for some reason the VA itself, the VA.gov or the My HealtheVet would not let me find that page. That's really that was very frustrating.
+ 
+Becky: Got it. So it sounds like you are trying to use this, that search tool, but you just had to use the Google search tool which brought you to the same page anyway?
+
+> P9: Yes, 'cause it wouldn't let me. I couldn't find it under my own, like under myself, I couldn't find claims, I couldn't find anything where it was would go specifically to those letters that I, I'd only seen the page before.
+
 I went to the home page, my information page.]
 
 ## Scenarios
