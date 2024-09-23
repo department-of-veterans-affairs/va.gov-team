@@ -72,7 +72,7 @@ If you answered yes to any of these questions then go through the following [che
   * If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
 >   * Team tickets have been created for investigation and subsequent resolutions.
 >   * At this time, the 10-10CG does not have any silent failures.
->   * The 10-10 Health Apps team or the CG tech team is notified on any failures and processes are in place to ensure the Veteran and Caregiver(s) are notified by email that there was an issue and requesting they resubmit the application.
+>   * The 10-10 Health Apps team or the CG tech team is notified on any failures and processes are in place to ensure the Veteran and Caregiver(s) are notified by phone or email that there was an issue and requesting they resubmit the application.
 
 * [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
   * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
