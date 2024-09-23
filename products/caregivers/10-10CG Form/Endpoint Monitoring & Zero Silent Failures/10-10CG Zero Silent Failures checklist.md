@@ -38,13 +38,13 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
->* No, Mulesoft introduced in September 2022, which is now a middleware between VA.gov and CARMA.  We no longer connect directly to CARMA.
+>* No, MuleSoft introduced in September 2022, which is now a middleware between VA.gov and CARMA.  We no longer connect directly to CARMA.  The team had Datadog monitoring for the CARMA system while connected, and has since been updated to monitor MuleSoft when the change was made.
 
 #### Monitoring
 
 * [x] Do you monitor the API that you submit to via Datadog? 
   * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
->   * Yes, we do monitor Mulesoft and file upload in the [10-10CG Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zcn-whk-r5h/1010-cg-vagov-performance?fromUser=false&refresh_mode=sliding&from_ts=1726692573245&to_ts=1726865373245&live=true)
+>   * Yes, we do monitor MuleSoft and file upload in the [10-10CG Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zcn-whk-r5h/1010-cg-vagov-performance?fromUser=false&refresh_mode=sliding&from_ts=1726692573245&to_ts=1726865373245&live=true)
 
 * [x] Does your Datadog monitoring use the appropriate tagging?
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
