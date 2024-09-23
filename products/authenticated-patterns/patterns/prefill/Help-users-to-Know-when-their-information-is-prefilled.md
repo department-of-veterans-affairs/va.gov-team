@@ -1,18 +1,27 @@
+# Help users to... Know when their information is prefilled
+`USE WITH CAUTION: CANDIDATE OR AVAILABLE?`
 
-Follow this pattern to help users know how and when their information will be prefilled for them in an application. 
+Follow this pattern to help users know when their information will be prefilled for them in an application. View the [Help users to... Update their prefilled information](#link to other pattern) pattern if you're looking for guidance on helping users update this prefilled information.
+
+### Resources
+- [Research](Link to research repo filtered for issues containing pattern label [like this](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+label%3A%22DSC%3A+Help%20users%20know%20how%20their%20info%20is%20updated%22))
+
+### On this page
+- [Usage](#usage)
+- [How to design and build](#how-to-design-and-build)
+- [Examples](#examples)
+- [Content considerations](#content-considerations)
+- [Research findings](#research-findings)
 
 ## Usage
-
 ### When to use this pattern
-
-- When data is pulled from the user's record and prefilled into a form or application. This helps to save time and ensure data integrity. When using this pattern, it is important to clearly inform the user of where their data is being pulled from to prefill for them.
+- **When you prefill the user's data into an application, like a form.** When using this pattern, it is important to clearly inform the user of where their data is being pulled from to prefill for them.
 
 #### Design Principals
 - Visibility of system status. This pattern demonstrates the [usability principle of communicating the current state](https://www.nngroup.com/articles/visibility-system-status/) in order to allow users to feel in control and to be able to take appropriate action.
 - User control and freedom. This pattern also gives users control over their own information thereby providing control and freedom.
 
 ### When not to use this pattern
-
 - For unauthenticated users. Users who are unauthenticated should not see any of their information prefilled, but on forms that can be completed in either an authenticated or unauthenticated state, users should see an alert on the introduction of the form letting them know how prefill benefits them to entice them to sign in to complete the form.
 
 ### When to use caution
@@ -100,6 +109,6 @@ When using this pattern keep in mind that the alerts used have specific content 
 
 
 
-## Research Findings
+## Research findings
 
 The Authenticated Experience Design Patterns team conducted [user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill) to gather validation about this pattern.
