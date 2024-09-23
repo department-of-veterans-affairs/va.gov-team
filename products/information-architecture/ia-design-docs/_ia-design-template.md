@@ -92,9 +92,9 @@ Current URL | Redirect to | Notes
 
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
+*Is the team planning a staged rollout? Roll-outs hidden behind a flipper flag need a static page to place a sign in widget or CTA on. Pages/sections where a sign in widget can't be implemented - find a form pages, within accordions, hub pages*
 
-**[Which static page has the widget, ie the main entry point?]**
+Which static page has the widget, ie the main entry point? 
 
 
 
