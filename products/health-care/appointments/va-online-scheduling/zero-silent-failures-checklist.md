@@ -296,7 +296,7 @@ If not, then file Github issues to capture error categories following [this guid
     - VA Request Flow
         - [ ] Yes
         - [ ] No
-    - CC Request Flow
+    - CC Request Flow (WIP [RS])
         - [ ] Yes
         - [ ] No
     - Manage Appointments Flow
@@ -313,7 +313,7 @@ Link to data flow diagram:
 - VA Direct Schedule Flow
 - COVID Vaccine Flow
 - VA Request Flow
-- CC Request Flow
+- CC Request Flow (WIP [RS])
 - Manage Appointments Flow
 - Cancellation Flows
 
@@ -328,7 +328,7 @@ Link to data flow diagram:
     - VA Request Flow
         - [ ] Yes
         - [ ] No
-    - CC Request Flow
+    - CC Request Flow (WIP [RS])
         - [ ] Yes
         - [ ] No
     - Manage Appointments Flow
