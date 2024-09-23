@@ -106,6 +106,7 @@
 
 - [JL] Technically yes we do since we have a user service that uses a Sidekiq job to refresh user sessions for all vets-api endpoints. However, my understanding is that this is a non-critical job and failures do not break user workflows since they will simply create a new session on the next API call to the backend. @cferris32 to double check my understanding here. If so, can we say we don't **rely** on Sidekiq jobs since the Sidekiq job can't break our user workflows?
 A: I believe you are correct and I will look into confirming this. @JunTaoLuo where did you find that info on the sidekiq jobs? [CF]
+A: I'm just looking through Sidekiq documentation and the code [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/user_service.rb#L26).
 
 If you answered yes to any of these questions then go through the following [checklist](#checklist) as a team exercise to determine if your application has silent failures.
 
