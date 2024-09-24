@@ -114,7 +114,7 @@
 
 ### Primary entry point
 
-1. **[Hub Page]** - [Modify]
+1. **[Hub Page]** - [Modify] - DONE
    The education and careers hub page will now have the following links. Changes are marked in bold. 
 
 - **Education and career benefits**
@@ -170,7 +170,6 @@ The education/careers left nav will have the following structure. These are not 
          - Past rates: 23-24
          - Past rates: 22-23
          - Past rates: 21-22
-         - Past rates: 20-21 
     - Apply DEA/FRY form 22-5490
     - Transferred post-9/11 GI bill education benefits
       - Apply form 22-1990e (NOT LAUNCHING THIS ROUND)
@@ -183,23 +182,23 @@ The education/careers left nav will have the following structure. These are not 
 
 ### Crosslinks
 
-1. **[Current VA education benefit rates](https://www.va.gov/education/benefit-rates/)** - [Modify] - DONE
+1. **[Current VA education benefit rates](https://www.va.gov/education/benefit-rates/)** - [Modify] - DONE, verified in prod
   - Placement description: Update the relevant links on this page to point to the new locations in family member hub
   - Link label: TBD by content
 
-2. **[Education benefit rates left nav](https://www.va.gov/education/benefit-rates/)** - [Modify] - DONE, need to verify in prod
+2. **[Education benefit rates left nav](https://www.va.gov/education/benefit-rates/)** - [Modify] - DONE, have some stragglers I need to verify in prod
   - Placement description: Remove left nav links to Dea/CH35, Fry, and transferred family rates. 
   - Link label: TBD by content
 
 ![Screenshot 2024-08-01 at 1 45 49 PM](https://github.com/user-attachments/assets/d2b6cb49-259e-4749-a7c8-ac03ace64ebe)
 
 
-3. **[Survivor and dependent benefits left nav](https://www.va.gov/education/survivor-dependent-benefits/)** - [Remove] - DONE, need to verify in prod
+3. **[Survivor and dependent benefits left nav](https://www.va.gov/education/survivor-dependent-benefits/)** - [Remove] - DONE, verified in prod
   - Placement description: This entire section needs to be removed from the left nav, since it's migrating fully into the FMB hub
 
  ![Screenshot 2024-08-01 at 11 34 06 AM](https://github.com/user-attachments/assets/47b04c99-ec38-4a97-9cd9-2f649c1795f0)
 
-4. **[Careers and employment left nav](https://www.va.gov/careers-employment/dependent-benefits/)** - [Remove] - DONE, need to verify in prod
+4. **[Careers and employment left nav](https://www.va.gov/careers-employment/dependent-benefits/)** - [Remove] - DONE, verified in prod
   - Placement description: Remove left nav link to dependent employment benefits
 
 ![Screenshot 2024-08-07 at 3 07 41 PM](https://github.com/user-attachments/assets/0ec089bb-f83f-4764-b982-8b40405e4cfc)
@@ -210,20 +209,27 @@ The education/careers left nav will have the following structure. These are not 
 ![Screenshot 2024-08-19 at 3 40 54 PM](https://github.com/user-attachments/assets/551c4b57-f83b-43ed-9f1e-84c2a53efc55)
 
 
-5. **[Vet Success on campus](https://www.va.gov/careers-employment/vetsuccess-on-campus/)** - [Remove] DONE, need to verify in prod
+6. **[Vet Success on campus](https://www.va.gov/careers-employment/vetsuccess-on-campus/)** - [Remove] DONE, verified in prod
   - Placement description: Remove left nav link to VSOC, since it will now be a R+S article. Update hub page to link to R+S instead.
 
 ![Screenshot 2024-08-19 at 3 43 59 PM](https://github.com/user-attachments/assets/3ad90051-b300-4761-b010-54700b9a8c98)
 
-4. **Education mega menu** - [Modify] DONE, need to verify in prod
+7. **Education mega menu** - [Modify] DONE, verified in prod
   - Placement description: Update link to point to new node, update label
 ![Screenshot 2024-09-12 at 1 56 29 PM](https://github.com/user-attachments/assets/d13c35ee-e0e4-486c-81b3-d9dc2c3f2613)
 
 
-4. **Education hub page** - [Edit] - DONE
+8. **Education hub page** - [Edit] - DONE, verified in prod
   - Placement description: Update the link to VA education benefits for survivors to point to our new node. Edit label.
 
 ![Screenshot 2024-09-11 at 4 22 14 PM](https://github.com/user-attachments/assets/33a45dd7-3258-4b17-9daf-a915495b9a27)
+
+9. **Careers hub page** - [Edit] - 
+  - Placement description: Update the link to VA education benefits for survivors to point to our new node. Edit label.
+
+![Screenshot 2024-09-24 at 1 58 18 PM](https://github.com/user-attachments/assets/d644defc-b3f9-45ba-bde8-af539623c848)
+
+
 
 
 
