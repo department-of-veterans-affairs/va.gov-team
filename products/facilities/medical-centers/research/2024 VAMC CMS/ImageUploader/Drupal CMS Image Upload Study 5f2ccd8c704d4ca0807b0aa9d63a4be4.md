@@ -20,7 +20,7 @@ The [Prototype Validation] tag means that these recommendations are already refl
 
 ## Users Prefer New Image Upload Design
 
-Users overwhelmingly prefer the prototype over the current version, citing its streamlined process and reduced complexity. 
+**Users overwhelmingly prefer the prototype over the current version, citing its streamlined process and reduced complexity.**
 
 The prototype was perceived as cleaner, easier to use, more direct, and more straightforward overall.
 
