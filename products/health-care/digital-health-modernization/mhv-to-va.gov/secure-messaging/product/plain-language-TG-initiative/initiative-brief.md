@@ -139,11 +139,14 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 
 ### After on VA.gov
 Note: In the mock up below, the Maryland and DC healthcare systems are using the new method. Providence is still operating as status quo. This is shown for illustration that for the pilot, it is an accepted state that some (most all) systems will be status quo while the 3 pilot sites will not. Users may see a mix like this when registered across systems.
-![8 27 24 mockup of triage group names with HCS](https://github.com/user-attachments/assets/2fbc30d3-58a6-4db2-924c-6b6adf6e965e)
+
+![image](https://github.com/user-attachments/assets/23f5b7fe-737d-4640-837f-16dbd70fb284)
+
 
 ### Updated 9/5/25 as "Nice to have" (not "must have" for pilot launch)
 Typeahead combobox - pending a11y discussions and decisions decisions on how combobox functionality should work
-![image](https://github.com/user-attachments/assets/905c3775-1361-4272-9453-913283dd2e96)
+
+![image](https://github.com/user-attachments/assets/31eb440a-3505-4708-bd47-8e57bb6d39f9)
 
 
 ---
@@ -205,7 +208,7 @@ updated 9/17
 - Team Name: Secure Messaging 
 - GitHub Label(s):  vfs-mhv-secure-messaging 
 - Slack channel: #mhv-secure-messaging, #mhv-sm-redesign-devs
-- Product POCs: Janie Tankard Carnock (OCTO)
+- Product POCs: Janie Tankard Carnock (OCTO) - January 2024-Oct 2024; Patrick Bateman, Oct 2024 and beyond
 
 #### Stakeholders
 *What offices/departments are critical to make this initiative successful?*
