@@ -68,7 +68,7 @@ _Hypothesis 5:_ The "location first" new experience option will produce lower ti
 The hypotheses-related findings comprise the key findings for this study. Please see the [presentation slide deck](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FSecure%20Messaging%2FTriage%20Group%20Naming%2FResearch%2F2409%5FCare%20Names%20rebranding%20comparative%20study%20readout%2Epdf&parent=%2Fsites%2FHealthApartment%2FShared%20Documents%2FSecure%20Messaging%2FTriage%20Group%20Naming%2FResearch) for more detailed results. 
 
 **Additional key finding:** 
-Amongst the cohort of Veterans who answered a post-test question asking them to indicate their preference between the Location and Provider prototypes (n=68), 29 (57%) preferred the Provider prototype and 39 (57%) preferred the Location prototype. 
+Amongst the cohort of Veterans who answered a post-test question asking them to indicate their preference between the Location and Provider prototypes (n=68), 29 (43%) preferred the Provider prototype and 39 (57%) preferred the Location prototype. 
 
 
 # **Recommendations**
