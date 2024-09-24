@@ -220,7 +220,7 @@ The education/careers left nav will have the following structure. These are not 
 ![Screenshot 2024-09-12 at 1 56 29 PM](https://github.com/user-attachments/assets/d13c35ee-e0e4-486c-81b3-d9dc2c3f2613)
 
 
-4. **Education hub page** - [Edit]
+4. **Education hub page** - [Edit] - DONE
   - Placement description: Update the link to VA education benefits for survivors to point to our new node. Edit label.
 
 ![Screenshot 2024-09-11 at 4 22 14 PM](https://github.com/user-attachments/assets/33a45dd7-3258-4b17-9daf-a915495b9a27)
