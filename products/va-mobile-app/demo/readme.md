@@ -2,8 +2,21 @@
 
 This file serves as a high level meeting log and demo inventory for the VA Health and Benefit mobile core team.
 ***
-## September 10, 2024: Sprint 105 [Mobile Sprint Demo - Sprint 105.pdf](https://github.com/user-attachments/files/16965602/Mobile.Sprint.Demo.-.Sprint.105.pdf)
+## September 24, 2024: Sprint 106 [VA Mobile Sprint Demo - Sprint 106.pdf](https://github.com/user-attachments/files/17120552/VA.Mobile.Sprint.Demo.-.Sprint.106.pdf)
 
+
+Recording: 
+
+| Team | Topic | 
+|---|---|
+| Flagship: Global | Monthly App Store Reviews |
+| Flagship: Health & Benefits | Animation Library PoC |
+| Platform: Design System | Loading Indicator Content Guidance updates |
+| Platform: QA & Release | Detox updates |
+| Platform: API | Zero Silent Failures, CMS API |
+
+***
+## September 10, 2024: Sprint 105 [Mobile Sprint Demo - Sprint 105.pdf](https://github.com/user-attachments/files/16965602/Mobile.Sprint.Demo.-.Sprint.105.pdf)
 
 Recording: https://adhocteam-us.zoom.us/rec/share/pUaqZzBd9QvOZNojIsXA5GGYwpIRE1SZ0QUK1eI2lc0-t-kL17DPsBYyTBmqMz6m.vZpa0Rvs_QAKBcAT 
 Passcode: P=56^hhY
