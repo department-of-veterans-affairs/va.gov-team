@@ -70,7 +70,10 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Have you filed issues for errors that are appearing in Datadog / Slack?
   * If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
->   * Team tickets are created for investigation and subsequent resolutions.  At this time, the 10-10EZ does not have any silent failures. The 10-10 Health Apps team is notified on all failures and we have a process to ensure the Veteran is being contacted timely by the Health Enrollment Center staff to assist with their application.
+>   * Team tickets are created for investigation and subsequent resolutions.  The 10-10 Health Apps team is notified on all application and Enrollment system failures, and we have a process to ensure the Veteran is being contacted timely by the Health Enrollment Center staff to assist with their application.
+>   * We have two tickets that we have tagged as part of the Zero Silent Failure remediation:
+>      * [#93247](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93247) - This is to address the gap of not being alerted when a submission failure email fails to send to the Veteran.  (There have not been any failures since onboarding to VA Notify, no failure remediation is needed)
+>      * [#93166](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93166) - This is to update our submission flow documentation with the additional error handling indicated, including the VA Notify Delivery Status callbacks being implemented in the ticket above (#93247_
 
 * [x] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
   * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
