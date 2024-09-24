@@ -51,21 +51,20 @@ A note about these flows and forms:
 
 **1) [Licensing and Certification tests and prep courses] - [Keep page in current location, update content]**
 - Old URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
-- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/**[TBD by content]**
+- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/licensing-and-certification-tests/
 - Old Breadcrumb: VA.gov home > Education and training > About GI Bill benefits > 
 How to use your GI Bill benefits > Get paid back for test fees
 - New Breadcrumb: Va.gov home > Education and training > About GI Bill benefits > 
-How to use your GI Bill benefits > **[Licensing and Certification tests and prep 
-courses - or Drupal auto-shortening TBD]**
+How to use your GI Bill benefits > Licensing and certification tests and prep courses
 - Notes: This page is currently in the Education Hub. It's staying there.
 
 **2) [National Tests] - [Move page into hub, update content]**
 - Old URL: va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/
-- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/**[TBD by content]**
+- New URL: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/national-tests/
 - Old Breadcrumb: VA.gov home > Resources and Support > Can I Use My VA 
 Education Benefits To Pay For Preparatory Courses?
 - New Breadcrumb: Va.gov home > Education and training > About GI Bill benefits >
-How to use your GI Bill benefits > **[National tests and prep courses - or Drupal auto-shortening TBD]**
+How to use your GI Bill benefits > National tests and prep courses
 - Notes: This page is currently in Resources and Support. It's moving to the Education Hub.
 
 ## <a name="nav"></a>Entry points <br>
@@ -74,19 +73,16 @@ How to use your GI Bill benefits > **[National tests and prep courses - or Drupa
 
 1. **[Left nav: Educaion and training]** - [Modify]
   - Placement description: Keep L&C page in the current location in the 'Education and training' left nav.
-  - Link label: **Licensing and Certification tests and prep courses** or TBD by Content
-  - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
-**[Licensing and Certification tests and prep courses - or Drupal auto-
-shortening TBD]**/
+  - Link label: Licensing and Certification tests and prep courses
+  - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/licensing-and-certification-tests/
   - Notes: The only change to the L&C entry point is a page name update
 
 **National Tests**
 
 1. **[Left nav: Educaion and training]** - [Modify]
   - Placement description: Move the National Tests page to the 'Education and training' left nav, directly under the 'Licensing and Certification tests and prep courses' item.
-  - Link label: **National tests and prep courses** or TBD by Content
-  - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[National tests 
-and prep courses - or Drupal auto-shortening TBD/
+  - Link label: National tests and prep courses
+  - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/national-tests/
   - Notes: This page is moving over from Resources and Support
 
 <img width="981" alt="reimbursement secondary pts 2" src="https://github.com/user-attachments/assets/4021eac1-2a82-4b59-b9ec-999a52069a9a">
@@ -99,9 +95,7 @@ and prep courses - or Drupal auto-shortening TBD/
 1. **Link on [Education and career counseling](https://www.va.gov/careers-employment/education-and-career-counseling/) page** - [Add]
   - Placement description: Add crosslink to L&C page from the 'Other helpful information' footer section 'Educational and career counseling (VA Chapter 36)'
   - Link label: Licensing and certification tests and prep courses
-  - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
-[Licensing and Certification tests and prep courses - or Drupal auto-
-shortening TBD]/
+  - Link destination: va.gov/education/about-gi-bill-benefits/how-to-use-benefits/licensing-and-certification-tests/
 <img width="686" alt="reimbursements l c crosslinks" src="https://github.com/user-attachments/assets/579c8c80-4e10-40ec-a342-4c4a59e4ace4">
 
 **National Tests**
@@ -112,8 +106,8 @@ shortening TBD]/
 
 | Current URL | Redirect to | Notes |
 | --- | --- | --- |
-| https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[licensing-and-certification-tests-and-prep-courses - or Drupal auto-shortened version TBD] | L&C redirect |
-| https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/[national-test-and-prep-courses - or Drupal auto-shortened version TBD] | National tests redirect |
+| https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/licensing-and-certification-tests/| L&C redirect |
+| https://www.va.gov/resources/can-i-use-my-va-education-benefits-to-pay-for-preparatory-courses/ | https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/national-tests/ | National tests redirect |
 
 **[Redirect ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93434)**
 
