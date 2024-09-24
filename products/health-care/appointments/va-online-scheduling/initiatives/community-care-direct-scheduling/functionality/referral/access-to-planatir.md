@@ -23,4 +23,4 @@
 
 ### Step 4
 
-- [Access referrals db in Planatir](https://va.palantirgov.com/workspace/data-integration/dataset/preview/ri.foundry.main.dataset.bd2319c0-5f39-43d2-8d99-dde49b1d3904/master). 
+- After your request to CDW has been approved, i.e., keep checking your ticket for updates, you'll be able to [access the referrals db in Planatir](https://va.palantirgov.com/workspace/data-integration/dataset/preview/ri.foundry.main.dataset.bd2319c0-5f39-43d2-8d99-dde49b1d3904/master). 
