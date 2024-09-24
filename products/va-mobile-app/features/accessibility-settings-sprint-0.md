@@ -13,7 +13,7 @@
 #### Desired Outcomes ####
 
 * Honor a user's device settings by default, but also allow the user to override these default settings with app-specific settings within the mobile app.
-* For MVP, I would offer the following settings:
+* For MVP, I would include the following settings:
    * Haptic Feedback (on/off)
    * Color mode (dark/light/honor device settings)
       * We could also explore the possibility of an "automatic" setting (light mode during the day and dark mode at night)
