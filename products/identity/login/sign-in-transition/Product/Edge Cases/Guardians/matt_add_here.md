@@ -40,4 +40,48 @@ The guardian would:
 - If the platform supports it, there might be features for caregivers or guardians, allowing them separate access levels.
 
 ## Summary  
-Due to the fragmentation in private sector health, the process and access can vary
+Due to the fragmentation in private sector health, the process and access can vary depending on the state, insurance company, and provider. Generally, documents and identity are verified in person before any digital access is granted.
+
+![High-Level User Journey | Private Sector Court-Appointed Guardian](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sign-in-transition/Product/Edge%20Cases/Guardians/High%20Level%20User%20Journey%20-%20Private%20Sector%20Court-Appointed%20Guardian.png)
+
+
+## VA
+
+### Problem
+A guardian role is only appointed when a veteran is unable to speak for themselves. This may not be that they literally can't speak (though it can be), but it could be something like the person has Alzheimer's and while they can speak, they don't know what is going on. So these veterans cannot verify themselves.
+
+### Who needs to be supported?
+- Support existing veterans whose court-appointed guardians authenticate on their behalf
+- Create a new feature to allow for court-appointed guardians to perform delegate actions on a veteran's behalf
+
+### How the OGC wants it handled
+- A court-appointed guardian creates their own Login.gov or ID.me account
+- We then somehow link that to the veteran's information.
+
+### Requirements
+- Court-appointed guardians must present documentation in person in order to be authenticated as the guardian by the health system
+  - VERA functions similarly, requiring the guardian to present documents in person every time a transaction is done on behalf of the Veteran
+
+### Use Cases
+- Veteran that has a guardian
+- Veteran that is a guardian
+- Are they asked to go to their account or their guardian's account?
+  - Profile switch
+
+### Future Considerations for VA
+The Identity (Oddball) team is evaluating technical requirements currently. There is a future opportunity to evaluate the user experience once technical capability and requirements have been identified to determine an adapted pathway for guardians impacted by the credential migration.
+
+The considerations below are the “happy” paths that might be considered and would require vetting against the current technical capabilities on VA.gov.
+
+#### 1. Guardianship Already Established
+  - Online Proxy is tracked on IAM, based on identities.
+  - Preserve MHV Premium flag for approved guardians (completed authentication and relevant documents, if digital copies are required) on MHV Benefits view, even though sign-in changes.
+
+#### 2. Feature Builds
+  - Authenticate and include a note that flags the Veteran account with guardian access.
+    - Every sign-in with Veteran credentials prompts a person to indicate they are a guardian. All activity is tagged as guardian actions on behalf of the Veteran.
+  - Feature build on VA.gov to link between guardian accounts.
+    - Requirement is that the patient and guardian have the same verified credential.
+    - UI feature to switch views.
+    - Clarity on the in-person process to authenticate and admin access to update approval and link accounts.
+
