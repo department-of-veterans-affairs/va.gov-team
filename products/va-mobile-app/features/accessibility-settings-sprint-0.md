@@ -38,57 +38,6 @@
 * What is the best way to present these options to a user (toggle component, etc.)? What are other apps doing?
 * Where would the settings themselves live? Would we add an additional screen / area into the main "Settings" area of the app?
 
-## Step 1 - Understanding the work
-
-### Research Needed
-
-* What do we need to learn before to can plan the feature?
-
-### UX Design 
-
-*	Create Figma Mockups
-
-### MVP Scope
-
-* For the initial MVP, I would plan to implement controls for the accessibility features that already exist in the app.
-
-### Technical Approach
-
-*	Are there other VA groups or tools we need to work with?
-    *	What API work is needed?
-
-### Measuring success 
-
-*	What metrics can we watch to see if our efforts are reaching the desired outcomes?
-
-## Step 2 - Planning the work
-
-### Create Implementation Plan
-
-*   Work with disciplines to create tickets
-*   Create Test Plan
-*   Link to Epic/Ticket List
-*   Determine high-level time estimates/Roadmap for work
-
-## Step 3 - Implementing the feature
-
-*   Build feature (ENG DoD)
-    * Unit tests created
-    * Manual Testing completed (QART)
-    * PRs reviewed by Mobile Platform
-    * Documentation updated (Call Center docs, What's New content created, etc.)
- 
-*   Release Feature
-    *   Release process and approvals
-         
-
-## Step 4 - Measuring and maintaining the feature
-
-### Measuring Success
-
-*   Watch analytics dashboard(s) for insight on success
-*   Track progress against success metrics
-
 ### Maintenance/Post-MVP Plan
 
 *   How do you plan to prioritize bugs?
