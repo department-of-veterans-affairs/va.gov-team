@@ -28,8 +28,6 @@ These services have or are verifying they respond properly, however we also chec
 * [x] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? 
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
-⚠️ **Failure to have endpoint monitoring in place is a blocking QA standard at Staging review as of 9/10/24.** If you answered no to any of the questions above, you will be blocked from shipping at the Staging review touchpoint in Collab Cycle.
-
 #### Reporting errors
 
 * [x] Have you filed issues for errors that are appearing in Datadog / Slack?
