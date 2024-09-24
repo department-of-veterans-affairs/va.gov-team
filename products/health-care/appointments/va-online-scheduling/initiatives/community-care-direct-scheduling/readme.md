@@ -1,5 +1,13 @@
 # CC Direct Scheduling initiative brief 
 
+## Initiative quick links 
+
+- [Initiative SharePoint Site](https://dvagov.sharepoint.com/:f:/s/HealthApartment/EsTqWKP_0G1PuMla1iiyr9kBfiuSpcQxUodT9n1WLqIj7g?e=p9TaHh)
+- [MVP Scope Slack Canvas](https://dsva.slack.com/docs/T03FECE8V/F07NVM3B9NG)
+- [Care Nav API Endpoints (SharePoint)](https://dvagov.sharepoint.com/:x:/s/HealthApartment/EVXEu66555xIs5UMghBrAvIBjUuwc-AMyLC_YsCmTJfQbg?e=Ec9AuH)
+- [Figma designs](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=2490-44318&t=4E3sLy8lYzxyOpUL-1)
+- [User and data flows (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/r/1675718737504?folderUuid=30f4b508-9720-4ebf-8105-40700da3c6aa)
+  
 ## Overview
 
 ### Cleland-Dole Act
