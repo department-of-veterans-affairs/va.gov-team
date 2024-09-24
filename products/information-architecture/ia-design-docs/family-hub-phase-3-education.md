@@ -194,7 +194,7 @@ The education/careers left nav will have the following structure. These are not 
 ![Screenshot 2024-08-01 at 1 45 49 PM](https://github.com/user-attachments/assets/d2b6cb49-259e-4749-a7c8-ac03ace64ebe)
 
 
-3. **[Survivor and dependent benefits left nav](https://www.va.gov/education/survivor-dependent-benefits/)** - [Remove]
+3. **[Survivor and dependent benefits left nav](https://www.va.gov/education/survivor-dependent-benefits/)** - [Remove] - DONE, need to verify in prod
   - Placement description: This entire section needs to be removed from the left nav, since it's migrating fully into the FMB hub
 
  ![Screenshot 2024-08-01 at 11 34 06 AM](https://github.com/user-attachments/assets/47b04c99-ec38-4a97-9cd9-2f649c1795f0)
