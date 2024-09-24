@@ -17,10 +17,7 @@
 11. [Troubleshooting](#troubleshooting)
 12. [Bonus - Automatic Public Codespace Creation](#bonus---automatic-public-codespace-creation)
     - [Overview](#overview)
-    - [Key Features](#key-features)
-    - [Codespaces Startup Script](#codespaces-startup-script)
-    - [User-Configurable Secrets](#user-configurable-secrets)
-    - [Public Port Configuration](#public-port-configuration)
+    - [New Codespace Secrets](#new-codespace-secrets)
     - [User Adoption](#user-adoption)
     - [Usage Instructions](#usage-instructions)
     - [Related Resources](#related-resources)
@@ -186,35 +183,29 @@ Remember, Codespaces will spin down after a period of inactivity. If you're runn
 
 ### Overview
 
-It is possible to set up your Github account to allow Codespaces to do several steps for you to get a public url that can be viewed automatically.
-### Key Features
+It is now possible to set up your Github account to allow Codespaces to do several steps for you, and to get a public url that can be viewed automatically with minimal extra steps.
 
-1. Automatic application startup in Codespaces
-2. Configurable mock server and frontend dev server via Codespace secrets
-3. Public port setup for prototype sharing
-### Codespaces Startup Script
+1. Automatic application startup in Codespaces when the Codespace is first created
+2. Configurable mock server and frontend dev server via secrets
+3. Public port setup for prototype sharing via url
 
-The `codespaces-start.sh` script has been updated in `vets-website` to include a new section that automates the application startup process. This enhancement allows for a more efficient and consistent setup across different user environments.
+The `codespaces-start.sh` script has been updated in `vets-website` to include a new section that automates this application startup process. The GitHub CLI is used in this script to programmatically  set the frontend and mock server ports as public, which is what allows for easy sharing of prototypes with external stakeholders.
 
-### User-Configurable Secrets
+### New Codespace Secrets
 
-To provide flexibility and customization, the following Codespaces user secrets have been introduced. These secrets are added in same as was previously outlined for adding `VETS_WEBSITE_BUILD_CONTENT` 
+The following Codespaces user secrets have been introduced. These secrets are added in the same way as was previously outlined for adding `VETS_WEBSITE_BUILD_CONTENT` 
 
-1. `MOCK_RESPONSES`: Specifies the path to mock server responses.
+1. `MAKE_APP_PUBLIC`: Enables public port setup for the application.
+   - Value: Set to "YES" to enable public ports.
+   - Usage: Acts as an on/off switch for the public app bootstrapping process. If this is not set, or set to anything other than "YES" the startup script will not start the application for you.
+   
+2. `MOCK_RESPONSES`: Specifies the path to mock server responses.
    - Default: `src/platform/testing/local-dev-mock-api/common.js`
    - Usage: Set this to use custom mock responses. An engineer should be able to provide you with the path to your app's mock server entry file (if that has been set up). The default common responses are pretty barebones, so don't expect much to work if you use them, besides some feature toggles, user, and maintenance windows endpoints. 
-
-2. `MAKE_APP_PUBLIC`: Enables public port setup for the application.
-   - Values: Set to "YES" to enable public ports.
-   - Usage: Acts as an on/off switch for the public app bootstrapping process.
 
 3. `ENTRY_APPS`: Defines specific apps to be built in watch mode.
    - Format: Comma-separated list of app names that should be accessible (e.g., "static-pages,auth")
    - Usage: Optimizes build time by focusing on specific apps, if this is not set, then it will build all applications in the Codespace, and startup time will be extended.
-
-### Public Port Configuration
-
-The GitHub CLI is used programmatically to set the frontend and mock server ports as public. This allows for easy sharing of prototypes with external stakeholders.
 
 ### User Adoption
 
@@ -225,13 +216,15 @@ Users can opt into running public prototypes through Codespaces by configuring t
 1. Set up Codespaces user secrets:
    - Go to GitHub account settings
    - Navigate to Codespaces settings
-   - Add the desired secrets (`MOCK_RESPONSES`, `MAKE_APP_PUBLIC`, `ENTRY_APPS`)
+   - Add the desired secrets (`MOCK_RESPONSES`, `MAKE_APP_PUBLIC`, `ENTRY_APPS`) and their corresponding values
 
 2. Create a new Codespace for the project
 
 3. The application will automatically start based on your configured secrets
 
-4. Access the public prototype using the provided Codespace URL
+4. Access the public prototype using the provided Codespace URL You can view this public url in the 'ports' section of the Codespace VS Code instance that runs in your browser, as was outline in the section [Making the frontend public](#making-the-frontend-public)
+
+5. Navigate to your application's url like `/profile`, `/my-va`, etc 
 
 ### Related Resources
 
