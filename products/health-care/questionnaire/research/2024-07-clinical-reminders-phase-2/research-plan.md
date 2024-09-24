@@ -1,5 +1,4 @@
-# Research plan: Phase 2 Health Questionnaires, Clinical Reminders Pilot –Veteran usability sessions, September 2024 
-
+# Research plan for Phase 2 Health Questionnaires, Clinical Reminders Pilot: Veteran usability sessions, September 2024 
 
 ## Background 
 
@@ -88,7 +87,6 @@ The purpose of this research is to gather feedback from Veterans on the revised 
      - Veterans may choose to use their assistive devices during sessions; subject to participant recruitment. 
 
  
-
 ### Research materials 
 
 - Veterans will access the BHL Touch prototype via a link that a moderator will add to the Zoom chat during the start of the usability session. 
@@ -111,14 +109,14 @@ The purpose of this research is to gather feedback from Veterans on the revised 
 ### Recruitment criteria 
 - Recruitment ticket: TBD
   
-**Primary criteria
+**Primary criteria**
 
 - Perigean will recruit 6 out of the 13 Veterans from Phase 1 of the Health Questionnaires, Clinical Reminders Pilot. 
-- Perigean will recruit the remaining 6 Veterans. 
+- Perigean will recruitthe remaining 6 Veterans. 
 - All efforts will be made to recruit a diverse sample, with participants from the following demographics: 
      - Education 
      - Geographical locations and areas 
-     - Gender identity  
+     - Gender identity   
      - Branch of service 
      - Age 
      - Abilities 
@@ -130,9 +128,9 @@ The purpose of this research is to gather feedback from Veterans on the revised 
 - Total session to complete: 12 
 
 - **All cohorts:** 
-   - 3 Veterans with cognitive disabilities or visually impaired. 
+   - 3 Veterans with cognitive disabilities or who are visually impaired. 
 
-   - All Veterans must have a computer or mobile device and are willing to use it to complete the activity. 
+   - All Veterans must have a computer, tablet, or mobile phone and are willing to use it to complete the activity. 
 
  - **Cohort 1:** 
 
@@ -182,12 +180,7 @@ The purpose of this research is to gather feedback from Veterans on the revised 
 
 ## Timeline 
 
-
-### Research session:
-October 7th-16, 2024
-
 - The prototype link is ready on September 23, 2024 (tentative) for the research review. 
-
 
 
 - Pilot Test 
@@ -197,7 +190,7 @@ October 7th-16, 2024
      
 
    - Date and time of pilot session:
-     - September 23, 2024
+     - September 26, 2024
 
  
 
@@ -207,53 +200,45 @@ October 7th-16, 2024
 
 - Buffer time between sessions: 30 minutes 
 
-- Maximum Sessions per day: 3 
+- Maximum Sessions per day: Preferably 2, but 3 is accepatable.
 
  
-
 ### Research sessions 
 
-- Planned dates of research are October 7-16,2024:  
+- Planned dates of research are October 14-18, 2024:  
 
    - **Cohort 1 (6 Veterans from Phase 1)** 
 
    - **Moderator:** Jenny Wang
-    - October 7, 2024
+    - October 14, 2024
       - 10:30 am-5:00 pm ET  
-    - October 8, 2024 
+    - October 15, 2024 
       - 10:30 am-5:00 pm ET     
-    - October 9, 2024
+    - October 16, 2024
       - 10:30 am-5:00 pm ET 
-    - October 10, 2024
+    - October 17, 2024
       - 10:30 am-5:00 pm ET 
 
-
+<br> <br/>
 
    - **Cohort 2 (6 new Veterans)**
-   - **Moderator:** Nina Anusavice
-    - October 7, 2024 
+     
+  - **Moderator:** Nina Anusavice
+   - October 14, 2024 
       - 9:30 am-10:30 am ET 
-      - 2:00 pm -6:00 pm ET 
-    - October 8, 2024 
-      - 9:30 am-12:30 pm ET 
-      - 3:00 pm -6:00 pm ET 
-    - October 9, 2024 
-      - 9:30 am-12:30 pm ET 
       - 2:30 pm -6:00 pm ET 
-    - October 10, 2024 
-      - 4:30 pm -6:00 pm ET 
+   - October 15, 2024 
+      - 9:30 am-11:30 pm ET 
+      - 3:00 pm -6:00 pm ET 
+   - October 16, 2024 
+      - 9:30 am-6:00 pm ET 
+   - October 17, 2024
+      - 9:30 am-11:30 pm ET 
+      - 4:00 pm -6:00 pm ET
+   - October 18, 2024 
+      - 9:30 am-4:00 pm ET 
 
- 
 
-- **Additional dates for Cohort 2 and 3 (if needed)**
-
-    - October 14, 2024 
-      -2:30 pm -6:00 pm ET 
-    - October 15, 2024 
-      -9:30 am-11:00 am ET 
-      -2:30 pm -6:00 pm ET 
-    - October 16, 2024 
-      -9:30 am-11:30 pm ET 
 
 
 ## Team Roles 
