@@ -1,6 +1,8 @@
 **When 3rd-Party Services are Down**
 There are several services that we depend on for the AVA VA.gov project to work in PROD. This is a thought exercise to see how we might handle a failure in each of those services.
 
+<img width="563" alt="image" src="https://github.com/user-attachments/assets/59f3c7ff-d7ed-42c5-bca3-865e5e224a11">
+
 
 **Login Services**
 If the login services are down, we will only be able to service unauthenticated inquiries and show the summary status of an inquiry when searched by its inquiry number.
