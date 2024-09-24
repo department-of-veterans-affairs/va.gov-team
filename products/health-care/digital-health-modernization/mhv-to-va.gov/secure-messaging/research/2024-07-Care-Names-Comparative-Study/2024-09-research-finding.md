@@ -52,7 +52,7 @@ _Hypothesis 2:_ The average time to complete tasks will be lower on either of th
 
 _Hypothesis 3:_ A higher proportion of Veterans will find either of the new experiences to be more intuitive and satisfying than the old experience. 
 
-  SOMEWHAT TRUE - responses to post-task questions about the quality of the experience, perceived ease of use, and satisfaction with the respective prototypes indicated a higher rate of positive response for both Location and Provider prototypes compared with Classic prototype. The difference was statistically significant and represents a moderate to high effect size. There was no significant difference between Provider and Location responses. See presentation slide deck for more detailed information.  
+  SOMEWHAT TRUE - responses to post-task questions about the quality of the experience, perceived ease of use, and satisfaction with the respective prototypes indicated a higher rate of positive response for both Location and Provider prototypes compared with Classic prototype. The difference was statistically significant and represents a moderate to high effect size. There was no significant difference between Provider and Location responses. See [presentation slide deck](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FSecure%20Messaging%2FTriage%20Group%20Naming%2FResearch%2F2409%5FCare%20Names%20rebranding%20comparative%20study%20readout%2Epdf&parent=%2Fsites%2FHealthApartment%2FShared%20Documents%2FSecure%20Messaging%2FTriage%20Group%20Naming%2FResearch) for more detailed information.  
 
 _Hypothesis 4:_ The old experience will produce higher rates of distrust in VA digital services than either of the new experiences. 
 
@@ -64,10 +64,10 @@ _Hypothesis 5:_ The "location first" new experience option will produce lower ti
 
 # **Key Findings: Details**
 
-The hypotheses-related findings comprise the key findings for this study. Please see the presentation slide deck for more detailed results. 
+The hypotheses-related findings comprise the key findings for this study. Please see the [presentation slide deck](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FSecure%20Messaging%2FTriage%20Group%20Naming%2FResearch%2F2409%5FCare%20Names%20rebranding%20comparative%20study%20readout%2Epdf&parent=%2Fsites%2FHealthApartment%2FShared%20Documents%2FSecure%20Messaging%2FTriage%20Group%20Naming%2FResearch) for more detailed results. 
 
 **Additional key finding:** 
-Amongst the cohort of Veterans who answered a post-test question asking them to indicate their preference between the Location and Provider prototypes (n=68), 29 (57%) preferred the Provider prototype and 39 (57%) preferred the Location prototype (chi square results). 
+Amongst the cohort of Veterans who answered a post-test question asking them to indicate their preference between the Location and Provider prototypes (n=68), 29 (57%) preferred the Provider prototype and 39 (57%) preferred the Location prototype. 
 
 
 # **Recommendations**
