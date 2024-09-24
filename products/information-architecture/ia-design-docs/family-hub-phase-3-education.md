@@ -215,7 +215,7 @@ The education/careers left nav will have the following structure. These are not 
 
 ![Screenshot 2024-08-19 at 3 43 59 PM](https://github.com/user-attachments/assets/3ad90051-b300-4761-b010-54700b9a8c98)
 
-4. **Education mega menu** - [Modify]
+4. **Education mega menu** - [Modify] DONE, need to verify in prod
   - Placement description: Update link to point to new node, update label
 ![Screenshot 2024-09-12 at 1 56 29 PM](https://github.com/user-attachments/assets/d13c35ee-e0e4-486c-81b3-d9dc2c3f2613)
 
