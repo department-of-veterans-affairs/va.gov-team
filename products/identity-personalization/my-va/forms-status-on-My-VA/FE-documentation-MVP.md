@@ -1,6 +1,6 @@
 # Forms Status on My VA MVP Frontend Documentation
-- Last updated: September 23, 2024 - added the "PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)" error scenario
-- Updated: September 18, 2024 - added VA Form 20-10206 Request personal records to the list for MVP (TB)
+- Last updated: September 24, 2024 - added VA Form 20-10206 to the accordion info
+- Updated: September 23, 2024 - added the "PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)" error scenario
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
@@ -169,12 +169,12 @@ For MVP, [8 forms are tracked and displayed on My VA](https://github.com/departm
 
 - Authorize the release of non-VA medical information to VA (VA Form 21-4142 & 21-4142a)
 - Submit a lay or witness statement to support a VA claim (VA Form 21-10210)
-- Request priority processing for an existing claim (VA Form 20-10207)
 - Authorize VA to release your information to a third-party source (VA Form 21-0845)
-- Sign VA claim forms as an alternate signer (VA Form 21-0972)
 - Submit an intent to file (VA Form 21-0966)
-- Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847)
+- Request priority processing for an existing claim (VA Form 20-10207)
 - Request personal records (VA Form 20-10206)
+- Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847) 
+- Sign VA claim forms as an alternate signer (VA Form 21-0972)
 
 
 Once one of these forms are submitted, they will be represented as a card on My VA. The cards with the statuses of submission in progress, received, and action needed correspond to these forms. 
