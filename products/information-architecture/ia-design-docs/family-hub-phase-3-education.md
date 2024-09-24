@@ -144,7 +144,7 @@
     - **More(H2)**
        - **Transferred 9/11 GI Bill benefit rates: va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates**
        - **Fry Scholarship rates: va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates**
-       - **DEA/CH35 rates: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/**
+       - **DEA/CH35 rates: va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/rates**
        - **R+S: How to choose GI Bill approved schools: va.gov/resources/choosing-a-school-with-gi-bill-approved-programs NOT LAUNCHING THIS ROUND**
        - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
        - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
