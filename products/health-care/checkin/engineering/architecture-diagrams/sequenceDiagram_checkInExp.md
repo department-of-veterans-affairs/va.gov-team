@@ -173,6 +173,7 @@ Once they click on the link, they are redirected to the website, which checks if
 ```mermaid
 sequenceDiagram
     actor vet as Veteran
+    participant var as VA.gov Reverse Proxy
     participant url as URL Shortener Service
     participant db as Short URL DB
     participant web as vets-website
@@ -180,16 +181,22 @@ sequenceDiagram
 
     activate vet
     note right of vet: Click on "check-in" short URL
-    vet->>+url: GET /short-urls/{id}
+    vet->>+var: GET /c/{id}
+    var->>+url: GET /short-urls/{id}
     url->>+db: GET /{key: id, TableName: table-name}
-    alt id not found 
-        db--)url: 404 Not Found
-    else url expired
-        db--)url: 404 Short URL expired
-    else url found
-        db--)-url: 200 Long URL
+    break id not found 
+      db--)url: 404 Not Found
+      url--)var: 404 Not Found
+      var--)vet: 404 Not Found      
     end
-    url--)-vet: 301 redirect {headers: {location: Long URL}}
+    break url expired
+      db--)url: 404 Short URL expired
+      url--)var: 404 Short URL expired
+      var--)vet: 404 Short URL expired
+    end
+    db--)-url: 200 Long URL
+    url--)-var: 301 redirect {headers: {location: Long URL}}
+    var--)-vet: 301 redirect {headers: {location: Long URL}}
     vet->>+web: load "health-care/appointment-check-in"
     web->>+api: GET /check_in/v2/sessions/{id}
     api->>api: check if session exists in redis
