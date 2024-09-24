@@ -50,8 +50,8 @@
 
 
 - [x] Discovery
-     - [ ] Does the solution require engagement with downstream system
-          - [ ] Is there a data change, and can the downstream system accept the data?
+     - [x] Does the solution require engagement with downstream system
+          - [x] Is there a data change, and can the downstream system accept the data?
 - [x] Create Epic to identify the problem and solution
 - [x] Create corresponding stories to align with the work needed (start with this list!)
 - [x] Initial design
@@ -82,11 +82,11 @@
      - [x] Engineers work with Designers on any questions/clarifications
      - [x] Present to team for validation
      - [x] Present to Stakeholders for validation
-- [ ] **Engage downstream system team for End-to-End QA coordination**
+- [x] Engage downstream system team for End-to-End QA coordination
      - [x] Create E2E use cases and document results
-     - [ ] **Obtain signoff from downstream system team**
+     - [x] Obtain signoff from downstream system team
 - [x] Request Analytics review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] Complete QA and Accessibility QA
+- [x] Complete QA and Accessibility QA
      - [x] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
      - [x] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
 - [x] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
@@ -105,23 +105,23 @@
 - [x] Request Privacy, Security, Infrastructure readiness review - Refer back to the initial Collaboration Cycle Request ticket
 - [x] Update Contact Center guide
      - [x] Coordinate with IVC Contact Center
-     - [ ] notify IVC Contact Center before going to prod
+     - [x] notify IVC Contact Center before going to prod
      - [x] Submit Contact Center guide review [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90047)
-- [ ] **Update Release Plan**
-     - [ ] **Include E2E test results & signoff**
+- [x] Update Release Plan
+     - [x] Include E2E test results & signoff
 - [ ] Schedule or close all remaining tickets
      - Some tickets may be backlogged for future work, as they were not required to launch
 - [x] Coordinate with CAIA
      - [x] confirmation email review [ticket](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/89338)
      - [x] react widget [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88012#issuecomment-2256789193) - content and testing
-     - [ ] notify CAIA before going to prod
-     - [ ] notify VA Notify of prod date
+     - [x] notify CAIA before going to prod
+     - [x] notify VA Notify of prod date
      - [x] Coordinate with VA Notify
-- [ ] **Conduct Launch Go/No Go with the team**
-     - [ ] **Review this checklist**
-     - [ ] **Review Release Plan**
-- [ ] **Launch in a phased manner, according to Release Plan**
-- [ ] **Continuous check-ins with downstream system**
+- [x] Conduct Launch Go/No Go with the team
+     - [x] Review this checklist
+     - [x] Review Release Plan
+- [x] Launch in a phased manner, according to Release Plan
+- [x] Continuous check-ins with downstream system
 - [x] Conduct Usability/UAT sessions
      - [x] Synthesize research findings, if needed (not usually needed for UAT)
      - [x] Review findings with the team
