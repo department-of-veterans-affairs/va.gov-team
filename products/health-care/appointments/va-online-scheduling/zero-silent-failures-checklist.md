@@ -53,9 +53,10 @@
     - [x] Yes [JL]
     - [ ] No
 
-- [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the APIs we hit I've found so far:
+- [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the non-appointments APIs we hit I've found so far:
     ```
     From vets-website:
+    (note: I'm not including APIs to appointments APIs maintained by us)
     GET /facilities_api/v1/ccp/provider?latitude=${latitude}&longitude=${longitude}&radius=${radius}&per_page=${perPage}&page=${page}&${bboxQuery}&${specialtiesQuery}&trim=true
     GET /vaos/v2/epsApi/referralDetails?facilityId=${facilityId}&clinicId=${clinicId}&start=${startDate}&end=${endDate} (Not used yet, WIP feature)
     GET /vaos/v2/epsApi/referralDetails/${referralId} (Not used yet, WIP feature)
@@ -106,7 +107,7 @@
 
 - [JL] Technically yes we do since we have a user service that uses a Sidekiq job to refresh user sessions for all vets-api endpoints. However, my understanding is that this is a non-critical job and failures do not break user workflows since they will simply create a new session on the next API call to the backend. @cferris32 to double check my understanding here. If so, can we say we don't **rely** on Sidekiq jobs since the Sidekiq job can't break our user workflows?
 A: I believe you are correct and I will look into confirming this. @JunTaoLuo where did you find that info on the sidekiq jobs? [CF]
-A: I'm just looking through Sidekiq documentation and the code [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/user_service.rb#L26).
+A: I'm just looking through Sidekiq documentation and the code [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/user_service.rb#L26). [JL]
 
 If you answered yes to any of these questions then go through the following [checklist](#checklist) as a team exercise to determine if your application has silent failures.
 
