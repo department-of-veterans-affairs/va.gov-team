@@ -41,7 +41,8 @@ This unmoderated study consisted of participants completing three tasks with dif
 
 _Hypothesis 1:_ A higher proportion of Veterans will select the incorrect care team in the old experience than either of the new experiences. 
 
-  SOMEWHAT TRUE - 62% and 67% of participants successfully completed all tasks with both the Provider and Location prototypes respectively, compared with 32% of participants using the Classic prototype. However, when subjected to chi-square tests for statistical significance, only Task 1 showed significant differences between Classic and the other two prototypes (x^2 = 28.278, p<.001). Pair-wise analysis showed a moderate affect for this differences: 
+  SOMEWHAT TRUE - 62% and 67% of participants successfully completed all tasks with both the Provider and Location prototypes respectively, compared with 32% of participants using the Classic prototype. However, when subjected to chi-square tests for statistical significance, only Task 1 showed significant differences between Classic and the other two prototypes (x2 = 28.278, p<.001). Pair-wise analysis showed a moderate affect for this differences: 
+  
     - Provider vs. Classic: x2 = 17.990; p<.001, Cramers V = .364 -> moderate effect
     - Location vs. Classic: x2 = 19.720; p<.001, Cramers V = .375 -> moderate effect
     - Location vs. Provider: x2 = .019; p = .890 -> no significant differences​
