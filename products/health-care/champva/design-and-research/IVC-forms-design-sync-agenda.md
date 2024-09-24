@@ -1,5 +1,23 @@
 # Running Design and Research Agenda
 
+## September 23 2024
+- Attendees: Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Steven Straily, Devi Hill, Mary Wang, Ray Messina
+- Facilitator: Syd
+- Next meeting facilitator: Jamie
+- Agenda Topics
+	- 10-10d option vs required (Syd)
+ 	- Walkthrough of the latest medicare card upload screens (Syd)
+ 
+  ### Notes
+- Premal found out some OHI information -- going to wait til Jamie is back
+- Double check that we cannot use an accordion within the page
+- Double check what the static page has 
+- Look to see if any VA forms have just an Upload section at the end
+- Lois would like to see a source of truth in the FMP stuff (follow up with Jamie)
+- Lois inquires about Figma naming convenstions -- starting a new file vs adding to an existing one
+
+
+
 ## September 16 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang, Ray Messina
 - Facilitator: Steven
