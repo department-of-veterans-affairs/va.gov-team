@@ -392,3 +392,22 @@ sequenceDiagram
 ### Check In - Travel Claims
 This diagram shows the sequence of submitting travel claims to BTSSS as part of check-in steps, as well as checking the status of the claim through BTSSS in case of timeouts.
 
+#### Claim Submission
+When the veterans submit the travel claim, website makes a call to vets-api controller, which in turns submits a sidekiq job to call the BTSSS API. The actual travel claim submission to BTSSS happens asynchronously, and veterans are notified via va-notify when BTSSS receives the submission.
+
+```mermaid
+sequenceDiagram
+    actor vet as Veteran
+    participant web as vets-website
+    participant api as vets-api
+    participant sidekiq as sidekiq
+    participant btsss as BTSSS
+
+    activate vet
+    vet->>+web: Click check-in
+    web->>+api: POST /travel_claims
+    api-)sidekiq: submit job to call BTSSS
+    api--)-web: 202 Accepted
+    web--)-vet: Click check-in
+    deactivate vet
+```
