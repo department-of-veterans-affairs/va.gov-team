@@ -62,5 +62,5 @@ Please document the outcome of this conversation in your product's documentation
 **User experience**
 
  Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
-If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to create a user data flow diagram. That diagram will help us to help you and your team to create this user experience.
+If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to create a user data flow diagram. That diagram will help us to help you and your team to create this user experience.**Diagram provided above**
 
