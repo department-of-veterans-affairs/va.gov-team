@@ -1,5 +1,5 @@
 # 10-10CG - Zero Silent Failures checklist
-- Last updated: 09/18/2024
+- Last updated: 09/23/2024
 ---
 
 * Does your application have a user-facing transaction that is submitted to a back-end system? 
