@@ -596,8 +596,54 @@ Becky: You're right. I noticed you mentioned that too. Like this would be your s
 Becky: Yeah. All right. And I think real quick, I think we have one more time for one more section to review.
 
 ### Explore our FAQs and other resources to get answers to your questions
+[Becky reviews FAQs.]
 
+Becky: Oh, go ahead.
+
+> P9: Well, there's a managing VA profile could possibly for login or that bottom right. If you go down, there's that one that, you know, helpful VA numbers. I think it's more down other topics like that one right there [referring to Helpful VA phone numbers link under Other topics and questions].
+
+> P9: So like those something that could help you, you know, might help you figure out what you're trying to do.
+
+Becky: Yeah, yeah, that that I see. I see why that would why you'd gravitate towards those two things. Let's go to managingyourva.gov profile and see if the answer is on here.
+
+[Becky reviews Verifying your identity on VA.gov [page]
+
+Becky: So while it's not answering my question directly, it's telling me, OK, maybe I should try id.meinsteadoflogin.gov.
+
+> P9: Well, it kind of does mention that. I mean, to me that does answer the question.
+
+> P9: OK, Oh crap. I can't use my passport for login.gov. I can only use my driver's license or state issue ID. So I, if I want to use my passport, I do ID dot me. So that's that is helpful.
+
+> P9: So that's that is helpful. I mean, like the answers that question.
+
+Becky: Yeah, yeah, that and this shows you, you know how you you can go through all the links and land on this answer here. Any questions or comments on that whole process, the FAQ process?
+
+> P9: No, go back one page, please. Yes, scroll up. Keep going, keep going. Stop right there, OK, The click on no, the step by step the, the very first link right below it, that one right there, What happens if you click on that? [How to verify your identity for your Login.gov account link in search results]
+
+> P9: So keep going, OK, Slowly Scroll down, please. OK, so, OK, so right there, there, there you go.
+
+> P9: So that actually answers my question right there, 'cause you're trying to use your passport and then it shows you can't use it.
+
+> P9: Yeah, it's saying, I see that it's saying, you know, you can only use your driver's license or state issued ID.
 
 ## Cool down
+Becky: Yeah. All right. Well, I'll, I'll stop sharing right now and give us just a quick two minutes to maybe reflect on a little time just reflecting on everything we went through today.
+
+Becky: And so is there anything that you liked on the contact us page? Anything that could have been easier?
+
+> P9: Sure. Easier on that one page, you know, Well, both pages, the the map page, where to try to find my location on that one for the again, that putting my what issues do I have of trying to collect?
+
+> P9: You know, I kept trying to push in the box, but most part of me, it did answer my questions. It was, you know, I was able to find different options, not necessarily what I was looking for. But again, you can't have the answers to everything.
+
+> P9: I mean, it would be great to have a search bar and everything that would actually answer that on the main page.
+
+> P9: Hard to say if that would, if that would work or not, but that would be where I would try to go for and look, look to, to use.
+
+> P9: But I mean, definitely we were able to find what we're looking for for the sake of this demonstration, but still that. And then I learned more 'cause I do. You can't, I did not know you can't use your passport for login.gov.
+
+> P9:  So it's good to, you know, I, I learned something from them.
+
+Becky: So, Oh, great. Well, I'm glad you you learned something new there.
+
 [Map page, and putting my issues didn’t work. For the most part, it did have options and answers but not for everything. Search bars on everything would be great.]
 
