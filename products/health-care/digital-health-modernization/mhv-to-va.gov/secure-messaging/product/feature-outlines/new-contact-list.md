@@ -29,17 +29,16 @@ We hope to launch this during PI16 in late September 2024 (9/17 - 10/1)
 
 
 #### After | Designs for VA.gov:
+##### Single System
+![Contact list page single facility ](https://github.com/user-attachments/assets/0cd7e49e-fd3e-4808-9af6-f01acda15005)
 
-Single System
-*![Contact list page single facility ](https://github.com/user-attachments/assets/0cd7e49e-fd3e-4808-9af6-f01acda15005)
+##### 2+ Systems
+  ![Contact list page multi facility (mobile)](https://github.com/user-attachments/assets/e08cf94a-b5bd-4059-8a10-d16dab60a80d)
+  ![Contact list page multi facility (desktop)](https://github.com/user-attachments/assets/0ac78831-890e-408f-ac29-0a1c7f4de102)
 
-2+ Systems
-*![Contact list page multi facility (mobile)](https://github.com/user-attachments/assets/e08cf94a-b5bd-4059-8a10-d16dab60a80d)
-* ![Contact list page multi facility (desktop)](https://github.com/user-attachments/assets/0ac78831-890e-408f-ac29-0a1c7f4de102)
-
-Discoverable through the new "If you can't find your team" banner as well as Edit Preferences button
-* ![image](https://github.com/user-attachments/assets/57c3f2a4-6f86-41ce-8494-3a0c289c5da8)
-* ![image](https://github.com/user-attachments/assets/1673eca4-8216-462b-85cd-645785e83c88)
+##### Discoverable through the new "If you can't find your team" banner as well as Edit Preferences button
+![image](https://github.com/user-attachments/assets/57c3f2a4-6f86-41ce-8494-3a0c289c5da8)
+![image](https://github.com/user-attachments/assets/1673eca4-8216-462b-85cd-645785e83c88)
 
 
 
