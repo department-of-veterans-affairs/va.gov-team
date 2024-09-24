@@ -1,6 +1,35 @@
 
 # Using GitHub Codespaces for User Research Testing Environments
 
+1. [Introduction](#introduction)
+2. [Configuring the codespace environment variables](#configuring-the-codespace-environment-variables)
+3. [Setting Up Your Codespace](#setting-up-your-codespace)
+4. [Setting Up the Mock Server](#setting-up-the-mock-server)
+5. [Making the Mock API Public](#making-the-mock-api-public)
+6. [Running the Frontend Development Server](#running-the-frontend-development-server)
+7. [Making the Frontend Public](#making-the-frontend-public)
+8. [Managing Codespace Timeout and Cost](#managing-codespace-timeout-and-cost)
+   - [Increasing Codespace Timeout](#increasing-codespace-timeout)
+   - [Understanding Codespace Inactivity](#understanding-codespace-inactivity)
+   - [Minimizing Codespace Costs](#minimizing-codespace-costs)
+9. [Preparing for User Research Sessions](#preparing-for-user-research-sessions)
+10. [Best Practices](#best-practices)
+11. [Troubleshooting](#troubleshooting)
+12. [Bonus - Automatic Public Codespace Creation](#bonus---automatic-public-codespace-creation)
+    - [Overview](#overview)
+    - [Key Features](#key-features)
+    - [Codespaces Startup Script](#codespaces-startup-script)
+    - [User-Configurable Secrets](#user-configurable-secrets)
+    - [Public Port Configuration](#public-port-configuration)
+    - [User Adoption](#user-adoption)
+    - [Usage Instructions](#usage-instructions)
+    - [Related Resources](#related-resources)
+13. [Extra Notes on Cost and Performance](#extra-notes-on-cost-and-performance)
+    - [Memory Usage](#memory-usage)
+    - [Disk Space](#disk-space)
+    - [CPU Utilization](#cpu-utilization)
+    - [Proposed adjustments](#proposed-adjustments)
+
 ## Introduction
 
 This guide will walk you through setting up a testing environment for user research sessions using GitHub Codespaces. To streamline the process, we will use `vets-website` without the content-build process and implement a mock server to handle API calls. This approach allows for a faster setup and more controlled testing environment in that the frontend can be updated on the fly, and mock responses for api calls can be tailored to the needs of the research study.
@@ -153,9 +182,63 @@ The Github Codespace landing page:
 
 Remember, Codespaces will spin down after a period of inactivity. If you're running a longer research session, you may need to keep the container active or rebuild it.
 
----
+## Bonus - Automatic Public Codespace Creation
 
-## Further Notes
+### Overview
+
+It is possible to set up your Github account to allow Codespaces to do several steps for you to get a public url that can be viewed automatically.
+### Key Features
+
+1. Automatic application startup in Codespaces
+2. Configurable mock server and frontend dev server via Codespace secrets
+3. Public port setup for prototype sharing
+### Codespaces Startup Script
+
+The `codespaces-start.sh` script has been updated in `vets-website` to include a new section that automates the application startup process. This enhancement allows for a more efficient and consistent setup across different user environments.
+
+### User-Configurable Secrets
+
+To provide flexibility and customization, the following Codespaces user secrets have been introduced. These secrets are added in same as was previously outlined for adding `VETS_WEBSITE_BUILD_CONTENT` 
+
+1. `MOCK_RESPONSES`: Specifies the path to mock server responses.
+   - Default: `src/platform/testing/local-dev-mock-api/common.js`
+   - Usage: Set this to use custom mock responses. An engineer should be able to provide you with the path to your app's mock server entry file (if that has been set up). The default common responses are pretty barebones, so don't expect much to work if you use them, besides some feature toggles, user, and maintenance windows endpoints. 
+
+2. `MAKE_APP_PUBLIC`: Enables public port setup for the application.
+   - Values: Set to "YES" to enable public ports.
+   - Usage: Acts as an on/off switch for the public app bootstrapping process.
+
+3. `ENTRY_APPS`: Defines specific apps to be built in watch mode.
+   - Format: Comma-separated list of app names that should be accessible (e.g., "static-pages,auth")
+   - Usage: Optimizes build time by focusing on specific apps, if this is not set, then it will build all applications in the Codespace, and startup time will be extended.
+
+### Public Port Configuration
+
+The GitHub CLI is used programmatically to set the frontend and mock server ports as public. This allows for easy sharing of prototypes with external stakeholders.
+
+### User Adoption
+
+Users can opt into running public prototypes through Codespaces by configuring their Codespace settings in their GitHub account. This process is designed to be accessible to non-engineers, enabling them to spin up a Codespace with minimal technical knowledge.
+
+## Usage Instructions
+
+1. Set up Codespaces user secrets:
+   - Go to GitHub account settings
+   - Navigate to Codespaces settings
+   - Add the desired secrets (`MOCK_RESPONSES`, `MAKE_APP_PUBLIC`, `ENTRY_APPS`)
+
+2. Create a new Codespace for the project
+
+3. The application will automatically start based on your configured secrets
+
+4. Access the public prototype using the provided Codespace URL
+
+### Related Resources
+
+- Issue: [TMF Auth Exp Design Patterns #110](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/110)
+- Codespaces documentation: [GitHub Codespaces](https://docs.github.com/en/codespaces)
+
+## Extra Notes on Cost and Performance
 
 The higher priced Codespaces are required when you need to run content-build to get static content into your codesapce. If we could use lower cost machines when content-build is not needed, then we could significantly reduce cost.
 
