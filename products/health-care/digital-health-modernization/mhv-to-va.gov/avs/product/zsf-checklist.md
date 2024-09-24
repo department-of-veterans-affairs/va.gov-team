@@ -9,7 +9,7 @@
   
 ## Monitoring
 
-* [x] Do you monitor the API that you submit to via Datadog?
+* [x] Do you monitor the API that you use via Datadog?
   * [Monitors](https://vagov.ddog-gov.com/monitors/manage?q=tag%3A%28service%3Aafter-visit-summary%29&order=desc)
 * [x] Does your Datadog monitoring use the appropriate tagging?
   * [Monitors](https://vagov.ddog-gov.com/monitors/manage?q=tag%3A%28service%3Aafter-visit-summary%29&order=desc)
