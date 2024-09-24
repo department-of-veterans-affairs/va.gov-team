@@ -38,14 +38,5 @@
 * What is the best way to present these options to a user (toggle component, etc.)? What are other apps doing?
 * Where would the settings themselves live? Would we add an additional screen / area into the main "Settings" area of the app?
 
-### Maintenance/Post-MVP Plan
-
-*   How do you plan to prioritize bugs?
-*   What do you plan for later iterations?
-*   What metric threasholds will determine future changes?
-
-
-
-
 ## Important Links
 *   Links to deliverables
