@@ -10,7 +10,7 @@ These services have or are verifying they respond properly, however we also chec
 
 #### Start
 
-* [ ] Do you know when your application shipped to production?
+* [x] Do you know when your application shipped to production?
   * If not, use Github to determine, roughly, when your application shipped to users.
 * [ ] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
