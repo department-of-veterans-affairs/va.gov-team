@@ -30,7 +30,7 @@ The prototype was perceived as cleaner, easier to use, more direct, and more str
 > *“Overall it was clean and easy and it was a lot less like there was a lot less that was unclear.” - P3*
 > 
 
-> *“This one seems like it more to the point. I just wanna get this imagery dropped off and  get it to go with the event or whatever. – P5*
+> *“This one seems like it's more to the point. I just wanna get this imagery dropped off and get going with the event. – P5*
 > 
 
 > *“It was cleaner because you reduce steps and you already know that.” - P7*
@@ -48,9 +48,7 @@ The following feedback highlights findings and recommendations based on user’s
     
     > *“I think naturally I just put a description in I didn't even like recognize that it was not a required field..” - P2*
     > 
-    
-    > *“The file name is going to tell me generally what the picture is and the alternative text is going to generally tell me what the picture is...” - P8*
-    > 
+        > 
     - **Recommendation:** Remove description fields to streamline the process and reduce confusion. [Prototype Validation]
 - **Alt Text Challenges:** Users struggled to describe complex images like screenshots due to alt text requirements.
     
