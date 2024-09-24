@@ -24,16 +24,16 @@ The [Prototype Validation] tag means that these recommendations are already refl
 
 The prototype was perceived as cleaner, easier to use, more direct, and more straightforward overall.
 
-> *“I like how this looks.” - P1*
+> *“I like how this looks.” – P1*
 > 
 
-> *“Overall it was clean and easy and it was a lot less like there was a lot less that was unclear.” - P3*
+> *“Overall it was clean and easy and it was a lot less like there was a lot less that was unclear.” – P3*
 > 
 
 > *“This one seems like it's more to the point. I just wanna get this imagery dropped off and get going with the event. – P5*
 > 
 
-> *“It was cleaner because you reduce steps and you already know that.” - P7*
+> *“It was cleaner because you reduce steps and you already know that.” – P7*
 > 
 
 # Key Findings & Recommendations
@@ -46,20 +46,20 @@ The following feedback highlights findings and recommendations based on user’s
 
 - **Description Field Confusion:** Users found little distinction between image descriptions and alternative text fields, unclear about their purposes.
     
-    > *“I think naturally I just put a description in I didn't even like recognize that it was not a required field..” - P2*
+    > *“I think naturally I just put a description in I didn't even like recognize that it was not a required field.” - P2*
     > 
     - **Recommendation:** Remove description fields to streamline the process and reduce confusion. [Prototype Validation]
 - **Alt Text Challenges:** Users struggled to describe complex images like screenshots due to alt text requirements.
     
-    > *“I wanted to describe like step one, “upload an image of your ID” because that's what the picture was of and I couldn't do it because it had “image of”. - P3*
+    > *“I wanted to describe like step one, “upload an image of your ID” because that's what the picture was of and I couldn't do it because it had “image of”. – P3*
     > 
     - **Recommendation:** Increase flexibility in alt text requirements for complex images, particularly screenshots.
 - **Section Selection Issues:** Users found selecting image sections time-consuming and confusing, mainly due to the lengthy list of options.
     
-    > *“I wish there if there were a way to expedite that just to make a default setting for ourselves…” - P5*
+    > *“I wish there if there were a way to expedite that just to make a default setting for ourselves…” – P5*
     > 
     
-    > *“This was kind of annoying to scroll through…” - P3*
+    > *“This was kind of annoying to scroll through…” – P3*
     > 
     - **Recommendation:**
         - Display only sections that the editor has permission to edit, simplifying the selection process.
@@ -69,29 +69,29 @@ The following feedback highlights findings and recommendations based on user’s
 
 - **Crop Option Confusion:** Users had diverse preferences and limited understanding of crop options, often finding them excessive and confusing.
     
-    > *“…I'm confused by that because I don't know which one I'm supposed to select because there's times I've gone through and I upload something and my image is like “Oh God, that's not even what I wanted to show.” So I have to back out and, you know, redo the image and, and move it so that I have what's pertinent that shows.” - P1*
+    > *“…I'm confused by that because I don't know which one I'm supposed to select because there's times I've gone through and I upload something and my image is like “Oh God, that's not even what I wanted to show.” So I have to back out and, you know, redo the image and, and move it so that I have what's pertinent that shows.” – P1*
     > 
     - **Recommendation:**
         - Remove crop options for content types with a required crop (e.g., 7:2 for events). [Prototype Validation]
         - For pages without specific image size requirements, only include free-form cropping options.
 - **Image Preview Experience:** Users expressed frustration with the current image preview process, citing slow loading speeds and time-consuming adjustments.
     
-    > *“It's just harder to know how it's gonna look in production until I can upload it and preview it. So there's just naturally gonna be some like readjusting at that phase. Even if I have all the images and they're like all the right size and I upload it, I'm like, “Oh actually, I have the right size but like the main thing that I want is up here.” So I'm gonna need to like rethink that and resize it or something.” - P3*
+    > *“It's just harder to know how it's gonna look in production until I can upload it and preview it. So there's just naturally gonna be some like readjusting at that phase. Even if I have all the images and they're like all the right size and I upload it, I'm like, “Oh actually, I have the right size but like the main thing that I want is up here.” So I'm gonna need to like rethink that and resize it or something.” – P3*
     > 
     - **Recommendation:**
         - Provide immediate preview of the cropped image to allow real-time adjustments. [Prototype Validation]
         - Consider live preview, side-by-side that shows real-time updates, so users know exactly how the image will look within the content.
 - **Preference for "Save and Insert":** Users strongly preferred the "Save and Insert" option over "Save and Select" due to its perceived efficiency.
     
-    > *“I know save and insert is the one that you use, because I've used both obviously and one works and one doesn't.” - P4*
+    > *“I know save and insert is the one that you use, because I've used both obviously and one works and one doesn't.” – P4*
     > 
     
-    > *“Save and insert means it immediately jumps me back to this page and I'm already here. If I do save and insert it, uploads the image and then it asks me do I save and upload? Then it asks me do I wanna insert it? So I just skip a step, right?” - P1*
+    > *“Save and insert means it immediately jumps me back to this page and I'm already here. If I do save and insert it, uploads the image and then it asks me do I save and upload? Then it asks me do I wanna insert it? So I just skip a step, right?” – P1*
     > 
     - **Recommendation:** Remove the "Save and Select" option to simplify the process. [Prototype Validation]
 - **Image Size Display:** Users wanted to see the pixel size details of their uploaded images.
     
-    > *“The consistency that we were looking for in this instance was a consistent width… If Drupal would tell me what the size is and what the what the width is, either in pixels or inches or something… I can like see the numbers then I can see, “Oh, that number is off.”” - P3*
+    > *“The consistency that we were looking for in this instance was a consistent width… If Drupal would tell me what the size is and what the what the width is, either in pixels or inches or something… I can like see the numbers then I can see, “Oh, that number is off.”” – P3*
     > 
     - **Recommendation:** Display image dimensions (width and height) in pixels directly within the image upload interface. This will help users ensure images meet size requirements and optimize performance.
 
@@ -99,19 +99,19 @@ The following feedback highlights findings and recommendations based on user’s
 
 - **Limited Use for New Images:** Users infrequently used the media library and rarely encounter scenarios where they would use images uploaded by others.
     
-    > *“I am rarely ever assuming that it's worth my time to look for an image because I'm doing new things, new news release, new stories, new events happening around our local VA new region. So I'm not looking for historical past postings to then utilize.” - P7*
+    > *“I am rarely ever assuming that it's worth my time to look for an image because I'm doing new things, new news release, new stories, new events happening around our local VA new region. So I'm not looking for historical past postings to then utilize.” – P7*
     > 
     
-    > *“I almost never use it except to find my own pictures that I've uploaded before… I've kind of looked through them. Most of the time when I'm uploading images, it's very specific to our facility and the stories that we're posting. - P8*
+    > *“I almost never use it except to find my own pictures that I've uploaded before… I've kind of looked through them. Most of the time when I'm uploading images, it's very specific to our facility and the stories that we're posting. – P8*
     > 
     - **Recommendation:**
         - Consider limiting media library access to personal or section only
 - **Image Reusability Concerns:** Users expressed concerns about image reusability and permissions, questioning the applicability of consent granted to specific VA offices.
     
-    > *“The VA has rules about the photos that we take of people, staff included and how they can be used. So if someone signs a consent form for us to use [an image] for a specific story or a specific page on our internet, I can't give other people permission to use it because they didn't ” - P7*
+    > *“The VA has rules about the photos that we take of people, staff included and how they can be used. So if someone signs a consent form for us to use [an image] for a specific story or a specific page on our internet, I can't give other people permission to use it because they didn't ” – P7*
     > 
     
-    > *“I assumed anything that went into the media library was going to be reused because it belongs to VA National.” - P8*
+    > *“I assumed anything that went into the media library was going to be reused because it belongs to VA National.” – P8*
     > 
     - **Recommendation:**
         - Remove the "Reusable" checkbox on image uploads, and default to a global image reusability behavior. [Prototype Validation]
@@ -126,7 +126,7 @@ The following feedback highlights findings and recommendations based on user’s
 
 - **Description Removal Appreciated:** Users liked the removal of description.
     
-    > *“Description and alt text kind of are like [the same], I put the same thing in both most of the time. So and it is nice to have it like [this].” -P4*
+    > *“Description and alt text kind of are like [the same], I put the same thing in both most of the time. So and it is nice to have it like [this].” – P4*
     > 
     - **Recommendation:** Maintain description removal. [Prototype Validation]
 
@@ -134,34 +134,34 @@ The following feedback highlights findings and recommendations based on user’s
 
 - **Image Size Recommendations:** Users valued size information but wanted it earlier in the upload process.
     
-    > *“So if it said ”Event image recommended size… in this box [on event page]… that would be perfect…because I usually have Photoshop open with the image I've been editing still there.” - P4*
+    > *“So if it said ”Event image recommended size… in this box [on event page]… that would be perfect…because I usually have Photoshop open with the image I've been editing still there.” – P4*
     > 
     - **Recommendation:**
         - Provide clear, upfront information about recommended image sizes on content page within the image upload component (e.g., event). Include both pixel dimensions and aspect ratios to align with users' workflow.
 - **Clarity on Size Requirements:** Users were confused about whether “Recommended sizes” were required or if variations were acceptable.
     
-    > *“Recommended seems to be the wrong word because I’m looking at that, whether recommended means I need to do something or I don't. Does that mean you're going to resize at this? Does it mean that the image size… is actually the at the one aspect ratio that's allowed… it's unclear to me.” - P7*
+    > *“Recommended seems to be the wrong word because I’m looking at that, whether recommended means I need to do something or I don't. Does that mean you're going to resize at this? Does it mean that the image size… is actually the at the one aspect ratio that's allowed… it's unclear to me.” – P7*
     > 
     - **Recommendation:** Clearly state whether exact sizes are necessary and specify minimum and maximum acceptable dimensions.
 - **Automatic Cropping Feature:** Users appreciated automatic cropping with preview before finalization.
     
-    > *“Having the preset aspect ratio that it just goes into, that’s excellent.” - P7*
+    > *“Having the preset aspect ratio that it just goes into, that’s excellent.” – P7*
     > 
     
-    > *“I think having like the one image ratio for certain templated spots is great because it just helps cut out something to think about.” - P3*
+    > *“I think having like the one image ratio for certain templated spots is great because it just helps cut out something to think about.” – P3*
     > 
     
-    > *“If your picture is a little bit too big, you wanna move it so it shows the pertinent information… you have an opportunity to adjust it so it can say “town hall” or whatever and then people will know exactly what it is. But yeah, I think it's great. - P1*
+    > *“If your picture is a little bit too big, you wanna move it so it shows the pertinent information… you have an opportunity to adjust it so it can say “town hall” or whatever and then people will know exactly what it is. But yeah, I think it's great. – P1*
     > 
     - **Recommendation:** Maintain automatic cropping. [Prototype Validation]
 - **Editing Flexibility:** Users wanted post-upload adjustments without erasing and re-uploading images or accessing the media library.
     
-    > *“My hesitation and pressing that [remove image button] was that I wasn't necessarily ready to like scrap everything and go back and find my image. I just wanted to like, readjust it again. I just wanted to go one step back versus like two or three, but it wasn't a bad experience.” -P3*
+    > *“My hesitation and pressing that [remove image button] was that I wasn't necessarily ready to like scrap everything and go back and find my image. I just wanted to like, readjust it again. I just wanted to go one step back versus like two or three, but it wasn't a bad experience.” – P3*
     > 
     - **Recommendation:** Add an "Edit Image" button for readjusting images after uploading.
 - **Clarifying Image Upload Indicators:** The "1 out of 1" indicator for single image uploads caused confusion.
     
-    > *“I’m confused by seeing that text, like what it means because I didn't see anywhere in the flow place to add more than one. ” - P3*
+    > *“I’m confused by seeing that text, like what it means because I didn't see anywhere in the flow place to add more than one. ” – P3*
     > 
     - **Recommendation:** Remove this indicator for single image uploads.
 
@@ -176,19 +176,19 @@ The following feedback highlights feature requests users suggested that may impr
 
 - **Image Resolution Issues:** Users struggled to achieve high-quality image resolution, especially with small images.
     
-    > *“I'm still not happy with the resolution. I think it looks really pixelated.” - P3*
+    > *“I'm still not happy with the resolution. I think it looks really pixelated.” – P3*
     > 
     - **Recommendation:**
         - Offer recommended image size guidelines [Prototype Validation]
         - Consider preventing low-quality image uploads (e.g., less than 250 px)
 - **GIF Playback Issues:** GIFs uploaded to the Drupal CMS don't animate correctly in production.
     
-    > *“It said that it allows GIFS and we uploaded a GIF because another PA specialist   wanted to have two photos rotate through. When it went to the external side, it didn't actually move, it stayed at one photo.” - P5*
+    > *“It said that it allows GIFS and we uploaded a GIF because another PA specialist   wanted to have two photos rotate through. When it went to the external side, it didn't actually move, it stayed at one photo.” – P5*
     > 
     - **Recommendation:** Remove GIF support from the Drupal CMS. [Prototype Validation]
 - **Diverse Editing Tools:** Editors use various tools for pre-processing images, avoiding external work-orders for image adjustments.
     
-    > *“I use Photoshop and I crop it to the dimensions, and I'll retouch it for them.” - P4*
+    > *“I use Photoshop and I crop it to the dimensions, and I'll retouch it for them.” – P4*
     > 
     
     > *“[In Adobe], I have like a template for the events and then changing titles and stuff like that… It's a 7 by 2 ratio. So there's not much room to do much else with it.” – P6*
@@ -200,7 +200,7 @@ The following feedback highlights feature requests users suggested that may impr
         - Consider creating standardized Photoshop templates for all content types images, as VA editors have Adobe Creative Cloud access.
 - **Single Image Limitation:** Users are frustrated by the restriction to one image on most content types, limiting visual enhancement.
     
-    > *“If we've taken seven images and taken the time to send a photographer, why can't our story here include seven images.” - P7*
+    > *“If we've taken seven images and taken the time to send a photographer, why can't our story here include seven images.” – P7*
     > 
     - **Recommendation:** Consider allowing multiple image uploads for all content types.
 - **Flyer Uploads:** Some users want to upload flyers to events directly, while others worry about PDF accessibility compliance.
@@ -244,12 +244,12 @@ The following feedback highlights general aspects of the [VA.gov](http://va.gov/
     - **Recommendation:** Allow VA police page to be customizable to accommodate variations in local information.
 - **Caption Limitations:** Users can only add captions to images on story pages in the Drupal CMS, forcing them to include captions directly on images for other page types.
     
-    > *“I've had to kind of can make it up in Photoshop but like it's not the easiest to get consistent fonts.” - P4*
+    > *“I've had to kind of can make it up in Photoshop but like it's not the easiest to get consistent fonts.” – P4*
     > 
     - **Recommendation:** Extend caption functionality to all page types within the Drupal CMS.
 - **Insufficient Lede Length:** The current lede word count is too short, causing users to repeat content in both the lede and body of articles.
     
-    > *“Word counts for the lede of the story can be an issue and then you can't link in here. Sometimes people have really long first sentences and then sometimes even in our National Tool Kits, they'll give us like a press release or, and like they'll, they'll want like a link in the first sentence and then we can't do that.” - P4*
+    > *“Word counts for the lede of the story can be an issue and then you can't link in here. Sometimes people have really long first sentences and then sometimes even in our National Tool Kits, they'll give us like a press release or, and like they'll, they'll want like a link in the first sentence and then we can't do that.” – P4*
     > 
     - **Recommendation:** Increase the lede word limit for more comprehensive content. Use ellipses in previews if the lede exceeds the desired length.
 - **Complex Node Structure:** Users struggle to navigate and remember the hierarchical structure of nodes in the Drupal CMS.
@@ -280,6 +280,6 @@ The following feedback highlights general aspects of the [VA.gov](http://va.gov/
     - **Recommendation:** Implement more intuitive time zone options, such as "Pacific Time Zone," "Eastern Time Zone," and "Central Time Zone."
 - **Inconsistent Capitalization:** Users are frustrated by inconsistent capitalization of "health care" for health care systems.
     
-    > *“It always annoys me that there's different capitalization in there and “health care” isn't capitalized and “Northeast Ohio” is.” - P7*
+    > *“It always annoys me that there's different capitalization in there and “health care” isn't capitalized and “Northeast Ohio” is.” – P7*
     > 
     - **Recommendation:** Allow capitalization of "health care" to align with user expectations and maintain consistency.
