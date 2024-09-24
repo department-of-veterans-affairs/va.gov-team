@@ -12,14 +12,14 @@ Jump to:
 - Dashboard variations
 
 ## Form variations
-These are examples of when the form changes, what changes in the form, and reference docs.
+These are points at which the form may change for the submitter.
 
-- Answers to Who is your question about?
-- Whether submitter signs in or not (Authentication)
-- Answer to What is your relationship to the Veteran?
+- Answer to `Who is your question about?`
+- Whether submitter signs in or not (authentication)
+- Answer to `What is your relationship to the Veteran?`
 - Whether submitter has Name, Date of Birth, and Social Security Number
-- Answers to Category, Topic, and Subtopic
-- 
+- Answers to `Category`, `Topic`, and `Subtopic`
+- Answer to `How should we contact you?`
 
 
 ### Answers to Who is your question about?
@@ -31,3 +31,10 @@ The submitter's answer to Who is your question about? determines which form flow
 Prefilled information, Content on the Confirmation page...
 
 ## Dashboard variations
+These are points at which the dashboard may change for the submitter.
+
+- Whether submitter has previous inquiries
+- Whether submitter signs in or not (authentication)
+- Replies: Whether agent has replied yet
+- Replies: Whether business line has enabled or disabled
+- Number of previous inquiries a submitter has
