@@ -211,7 +211,7 @@ The following Codespaces user secrets have been introduced. These secrets are ad
 
 Users can opt into running public prototypes through Codespaces by configuring their Codespace settings in their GitHub account. This process is designed to be accessible to non-engineers, enabling them to spin up a Codespace with minimal technical knowledge.
 
-## Usage Instructions
+### Usage Instructions
 
 1. Set up Codespaces user secrets:
    - Go to GitHub account settings
