@@ -9,15 +9,6 @@ Cara Frissell [cara.frissell@adhocteam.us)
 
 RECOMMENDED: [9.26 Travel Claim Status Language Generative Study - Full Edition .pdf](https://github.com/user-attachments/files/17081275/9.26.Travel.Claim.Status.Language.Generative.Study.-.Full.Edition.pdf)
 
-Jump to:
-
-
-
-* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-findings)
-* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#recommendations)
-* [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#further-research-needed)
-* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#who-we-talked-to)
-
 
 ## **Research Goals**
 
