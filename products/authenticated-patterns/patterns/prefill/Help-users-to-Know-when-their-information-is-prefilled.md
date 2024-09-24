@@ -37,10 +37,6 @@ This pattern involves these types of pages found in VA.gov forms:
 - **Personal information page**: Usually the first page of a form after the user signs in. Has personal details that cannot be edited online, like name, date of birth, Social Security Number, etc.
 - **Your information or Veteran information chapter**: Chapter of a form that could include multiple pages asking for information such as contact information, demographics, form-specific questions, etc.
 
-#### Unauthenticated introduction page
-
-Image caption: Unauthenticated intro page alert on the introduction page.
-
 #### Introduction page
 There are two states of an introduciton page: Authenticated and Unathenticated. 
 
