@@ -39,4 +39,5 @@
 * Where would the settings themselves live? Would we add an additional screen / area into the main "Settings" area of the app?
 
 ## Important Links
-*   Links to deliverables
+*   Could be a possible solution for [Display Zoom](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Display%20Zoom%20on%20Android/displayZoomOnAndroid.md) in the future (the Veteran could possibly update their font size in the app if it appears broken).
+*   [Examples of personalization / accessibility settings](https://www.figma.com/board/kY6MMlbNUuwvwct2pDqSN3/Personalization-%2F-Accessibility-Examples?node-id=0-1&t=TSFEg0uKzUydQIS2-1) in other apps.
