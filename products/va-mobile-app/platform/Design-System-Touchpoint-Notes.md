@@ -5,7 +5,7 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
-## ?
+## 9/25/24
 *   Pilots and Design Systems - idea for collaboration
 
 
