@@ -204,7 +204,7 @@ The education/careers left nav will have the following structure. These are not 
 
 ![Screenshot 2024-08-07 at 3 07 41 PM](https://github.com/user-attachments/assets/0ec089bb-f83f-4764-b982-8b40405e4cfc)
 
-5. **[Choosing a GI Bill Approved School](https://www.va.gov/education/choosing-a-school/)** - [Remove]
+5. **[Choosing a GI Bill Approved School](https://www.va.gov/education/choosing-a-school/)** - [Remove] - HOLD pending launch of R+S
   - Placement description: Remove left nav link to GI Bill approved school, since it will now be a R+S article. Update hub page to link to R+S instead.
 
 ![Screenshot 2024-08-19 at 3 40 54 PM](https://github.com/user-attachments/assets/551c4b57-f83b-43ed-9f1e-84c2a53efc55)
