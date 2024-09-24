@@ -187,7 +187,7 @@ The education/careers left nav will have the following structure. These are not 
   - Placement description: Update the relevant links on this page to point to the new locations in family member hub
   - Link label: TBD by content
 
-2. **[Education benefit rates left nav](https://www.va.gov/education/benefit-rates/)** - [Modify]
+2. **[Education benefit rates left nav](https://www.va.gov/education/benefit-rates/)** - [Modify] - DONE, need to verify in prod
   - Placement description: Remove left nav links to Dea/CH35, Fry, and transferred family rates. 
   - Link label: TBD by content
 
