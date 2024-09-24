@@ -105,5 +105,6 @@ Because this work involves so many teams (the ARF team, GCLAWS team, Forms Libra
 * [Slack thread in #trauma-practice](https://dsva.slack.com/archives/C04F9JLSATE/p1724110779946819) about **best ways to warn users and help them cope with difficult questions**
 * [Slack thread in #sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH/p1724676016296359) about **when to use terminal punctuation in error messages**
 * [Slack thread in #veteran-facing-forms](https://dsva.slack.com/archives/C044AGZFG2W/p1725924253908929) about **jumping between sections and numbering questions**
+  * [Slack thread in #design](https://dsva.slack.com/archives/C0NGDDXME/p1725969601543419) about jumping between sections and numbering questions (no response)
 * [Slack thread in #design](https://dsva.slack.com/archives/C0NGDDXME/p1725049384222299) asking about **international phone numbers** (not from our team, but relevant to us)
 * [Slack thread in #benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW/p1726237738894719) where CAIA agreed to the **implementation of special list & loop cases**.
