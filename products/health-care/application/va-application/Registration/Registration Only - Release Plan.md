@@ -53,7 +53,9 @@ Before enabling your feature toggle in production, you'll need to:
   - Number of Register selections (Reg Info page views) :  Expecting about 1/3 of total traffic to select Register option
   - Number of Page Exits : Expecting about 20% of Register selections to leave the form on Register Info page
   - Number of "Back" button clicks on Reg Info page: Expecting 80% of Register selections to click the "BacK" button on the Register info page
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
+- Links to the dashboard(s) showing "success criteria" metrics: 
+  - [GA4 Authenticated path exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Xpk8PijJQpCkXPUsBezQbQ)
+  - [GA4 Unauthenticated path exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/rsa8M9z3TwiggRM6G6fCRw)
 - Who is monitoring the dashboard(s)?:
      - Product Manager (Heather Justice), Data Analyst (Luis Simauchi)
 
