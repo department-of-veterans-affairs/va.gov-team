@@ -1,6 +1,6 @@
 # Findings on Claim Denial Reasons 
 
-See discovery process documented in this [ZenHub epic](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/90701) 
+An overview of observations and findings about the reasons claims are denied and how those denials are currently communicated to Veterans.  See discovery process documented in this [ZenHub epic](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/90701) 
 
 ### Reasons for Denial/Rejection
 
