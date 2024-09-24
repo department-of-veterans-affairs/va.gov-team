@@ -24,8 +24,10 @@ These are points at which the form may change for the submitter.
 |Point when form changes|Different options|Result|Reference|
 |:--|:--|:--|:--|
 |Answer to `Who is your question about?`|Myself, Someone else, or It's a general question|Different form pages and/or questions in flow|[Form flows (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708479170047/8ebb517a213e05ebc500087f5661a993a41392e8?sender=u44efa807e992cacf10cf3697)|
-|Whether submitter signs in or not (authentication)|Authenticated or Unauthenticated|Information shouldn't be prefilled and certain pages shouldn't appear if users are unauthenticated|[How prefill works (Github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/How%20prefill%20works.md)|
+|Whether submitter signs in or not (authentication)|Authenticated or Unauthenticated|Information shouldn't be prefilled and certain pages shouldn't appear if users are unauthenticated|[How prefill works (Github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/How%20prefill%20works.md) and [Your personal information (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=3236-14648)|
 |Whether submitter signs in or not (authentication)|Authenticated or Unauthenticated|Different landing page|[Home page (Unauthenticated) (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=3312-56070) and [Dashboard without cards](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=157-3146&node-type=canvas&t=zM02niVhCfrNIhD2-0)|
+|Whether submitter signs in or not (authentication)|Authenticated or Unauthenticated|Different content on the confirmation page|[Confirmation page (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=6-25025)|
+|Whether submitter signs in or not (authentication)|Authenticated or Unauthenticated|Authenticated users ONLY for these categories: Education benefits and work study & Debt for benefit overpayments and health care copay bills|❔|
 
 
 ## Dashboard variations
