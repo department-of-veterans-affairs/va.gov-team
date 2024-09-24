@@ -1,5 +1,5 @@
 # Forms Status on My VA MVP Frontend Documentation
-- Last updated: September 24, 2024 - added VA Form 20-10206 to the accordion info
+- **Last updated: September 24, 2024 - added VA Form 20-10206 to the accordion info**
 
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
