@@ -24,18 +24,18 @@
 * [x] Have you filed issues for errors that are appearing in Datadog / Slack?
   * There are no current errors specific to the AVS application. An issue with 502 responses from the AVS backend was identified and resolved in concert with the AVS backend and VAOS teams during the initial rollout.
 * [x] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
- * Any non-successful responses from the backend result in an error being shown to the user.
+  * Any non-successful responses from the backend result in an error being shown to the user.
 
 ## Documentation
 
 * [x] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
-  * The AVS application is read-only and does not accept user submissions. Data flows are documented [here](../engineering#architecture).
-* [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
-* [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+  *  Data flows are documented [here](../engineering#architecture).
+* [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
+  * The AVS application is read-only and does not accept user submissions.
+* [x] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+  * The AVS application is read-only and does not accept user submissions.
 
 ## User experience
 
-* [ ] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
-[Create Thread](https://github.com/department-of-veterans-affairs/mhv-sm-patient-api/blob/development/src/main/java/gov/va/med/mhv/sm/patient/service/SendMessageService.java#L690)
-[Send Patient Message](https://github.com/department-of-veterans-affairs/mhv-sm-patient-api/blob/development/src/main/java/gov/va/med/mhv/sm/patient/service/SendMessageService.java#L584C18-L584C36)
-[Send Message](https://github.com/department-of-veterans-affairs/mhv-sm-patient-api/blob/development/src/main/java/gov/va/med/mhv/sm/patient/service/SendMessageService.java#L584C18-L584C36)
+* [x] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
+  * All non-success responses from the backend are handled. Error paths are documented on the [designs in Figma](https://www.figma.com/design/31l8PTsu3E80aQiJvSpZJK/AVS-MVP-12_27?node-id=0-29&node-type=canvas&t=1gLnjBbQymlCDI3X-0).
