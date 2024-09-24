@@ -90,7 +90,7 @@ If you answered yes to any of these questions then go through the following [che
 * [x] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
   * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information. 
 >  * Yes, [10-10EZ Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/10-10EZ%20Flow%20Chart.md)
->  * ACTION ITEM: Update Flow chart to include:
+>  * ACTION ITEM [#93247](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93247): Update Flow chart to include:
 >       * VES error handling (aka direct to manual workflow)
 >       * VA Notify email sends error handling (NEW)
 >       * Specify APIs/SORs we call within what steps
@@ -98,7 +98,7 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
->   * Yes - ACTION ITEM: Update Flow chart
+>   * Yes - ACTION ITEM [#93247](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93247): Update Flow chart
 > 
 * [x] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
@@ -112,6 +112,6 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
   * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram). That diagram will help us to help you and your team to create this user experience.
->   * Not yet. We must remediate the Delivery Status callback setup from VA Notify to ensure our team is being notified of any failed email sends.
+>   * Not yet. We must remediate the Delivery Status callback setup from VA Notify to ensure our team is being notified of any failed email sends - [#93166](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93166)
 >   * All other points of failure are made known to the user on-screen within the 10-10EZ online form or via email.
 
