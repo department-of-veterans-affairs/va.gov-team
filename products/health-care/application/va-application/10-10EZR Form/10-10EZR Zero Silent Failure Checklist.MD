@@ -49,7 +49,7 @@ Documentation
 If not, then create a user data flow diagram that captures this information.
 
 
-- Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? #93490
+- Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? **Working on this, story** #[93490](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/93490)
 
 If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
