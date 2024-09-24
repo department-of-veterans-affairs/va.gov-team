@@ -48,7 +48,6 @@ The following feedback highlights findings and recommendations based on user’s
     
     > *“I think naturally I just put a description in I didn't even like recognize that it was not a required field..” - P2*
     > 
-        > 
     - **Recommendation:** Remove description fields to streamline the process and reduce confusion. [Prototype Validation]
 - **Alt Text Challenges:** Users struggled to describe complex images like screenshots due to alt text requirements.
     
