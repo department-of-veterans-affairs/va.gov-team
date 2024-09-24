@@ -408,6 +408,6 @@ sequenceDiagram
     web->>+api: POST /travel_claims
     api-)sidekiq: submit job to call BTSSS
     api--)-web: 202 Accepted
-    web--)-vet: Click check-in
+    web--)-vet: claim submitted
     deactivate vet
 ```
