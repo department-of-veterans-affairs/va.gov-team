@@ -13,6 +13,11 @@
 #### Desired Outcomes ####
 
 * Honor a user's device settings by default, but also allow the user to override these default settings with app-specific settings within the mobile app.
+* For MVP, I would offer the following settings:
+   * Haptic Feedback (on/off)
+   * Color mode (dark/light/honor device settings)
+      * We could also explore the possibility of an "automatic" setting (light mode during the day and dark mode at night)
+    * Reduce animation (on/off)
 
 ### Assumptions and Level of Confidence
 
@@ -37,7 +42,9 @@
    * We should likely also look into providing an option to turn animations on or off and identify areas that this would apply to (i.e. the screen title transition in the header).
 * What is the best way to present these options to a user (toggle component, etc.)? What are other apps doing?
 * Where would the settings themselves live? Would we add an additional screen / area into the main "Settings" area of the app?
+* Do we have the ability to add an "automatic" setting for light and dark mode (light during day and dark at night)?
 
 ## Important Links
-*   Could be a possible solution for [Display Zoom](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Display%20Zoom%20on%20Android/displayZoomOnAndroid.md) in the future (the Veteran could possibly update their font size in the app if it appears broken).
+*   Could be a possible solution for [Display Zoom](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Display%20Zoom%20on%20Android/displayZoomOnAndroid.md) in the future.
+     *   If we were able to add in the ability for font sizing within the app, the Veteran could possibly update their font size in the app if they have display zoom enabled and copy is breaking outside of containers / not wrapping properly.
 *   [Examples of personalization / accessibility settings](https://www.figma.com/board/kY6MMlbNUuwvwct2pDqSN3/Personalization-%2F-Accessibility-Examples?node-id=0-1&t=TSFEg0uKzUydQIS2-1) in other apps.
