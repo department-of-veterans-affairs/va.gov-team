@@ -2,14 +2,14 @@
 
 Authenticated Experience Design Patterns
 
-Last updated by @christinerosesteiffer Sept 18, 2024
+Last updated by @christinerosesteiffer Sept 23, 2024
 
 Christine Rose Steiffer [christine.steiffer@agile6.com | christine.steiffer@va.gov]
 
 **Jump to:**
 
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
-- [Key findings](#key-findings)
+- [Key Prefill pattern findings](#key-prefill-pattern-findings)
 - [Recommendations](#recommendations)
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
@@ -76,48 +76,57 @@ We presented scenarios testing the following variations:
 |Users want to be informed if their data is not updating to their profile.|Definitely True|Users cared a lot about being very clear on where their data and updates were saving|
 |The confirmation alert will help users understand when their data has been updated. |Definitely True|Most participants read the alert text the first time and understood where their data would save.|
 
-## Key findings
+## Key Prefill pattern findings
 
-1. 
+1. Users have no concept of what ‘profile data’ is
+2. Users want to see the prefill alert at the top of the Intro page, as well as on the page with editable prefilled data, and the page where they edit that data
+3. Users want to see the word ‘Note’ bolded to draw their attention to important information
+4. Users preferred to see the gray card over the address component
+5. Users appreciated understanding why some of their data is uneditable on the site
+
+## Update Prefill pattern findings
+
+1. Users most often want to see their updates saved to their profile, but some wanted the chance to select whether their changes would save to just the form or to the profile as well
+2. Users expect to go to another page to edit their data and come back into the form flow afterwards
+3. Users expect to see their ‘old’ data within the form fields themselves on the edit page
+
+## Additional findings
+
+1. There is confusion between the autosave feature and the edit process. 
+2. Users find calling the VA to be a pain and avoid it if  possible, sometimes opting to drive a long distance to see someone in person rather than trying to solve their problem over the phone
+3. Sharing on mobile is hard
+4. Signing in is difficult for users
 
 ## Details of findings
 
-### Finding 1: [Finding]
+### Finding 1: Veterans don’t understand what is meant by ‘profile data’ and some conflate VA.gov data with their method of authentication (Login.gov, ID.me or MHV).
 
-_Labels: `PRDT: AVA`, `_ [from GH + EHQ]
+_Labels: `Pattern: Know when their information is prefilled`_ 
 
-Finding content
+Veterans used a variety of words to describe where they thought their data was pulled from to display in the prototype. This includes words such as account, information, profile, records, permanent record, and in the cloud among others. 
 
-> "Quote" P[#]
+Many of our participants expressed confusion around their data and it’s association, or lack thereof, with whichever authentication service they used to login to VA.gov (such as Login.gov, ID.me and MyHealtheVet). They thought that if they made changes to their VA.gov profile data, it would update their authentication platform data as well. One even thought that it would update any other platforms that were connected to their Login.gov account, such as SSA.gov.
 
-> "Quote" P[#]
+> " I would think [my records are pulled] from login.gov like when you're you sign in 'cause login.gov is also SSA and… it's also your medical records." P13
 
-
-### Finding 2: [Finding]
-
-_Labels: `PRDT: AVA`, `_ [from GH + EHQ]
-
-Finding content
-
-> "Quote" P[#]
-
-> "Quote" P[#]
+> "[My prefilled data] comes from a blackhole somewhere" P3
 
 
-### Finding 3: [Finding]
+### Finding 2: Users want to see the prefill alert at the top of the Intro page, as well as on the page with editable prefilled data, and the page where they edit that data
 
-_Labels: `PRDT: AVA`, `_ [from GH + EHQ]
+_Labels: `Pattern: Know when their information is prefilled`_
 
-Finding content
+The general consensus was that Veterans want to see the alert on all three of the previously mentioned pages, but not any others within the form. They also preferred to see the alert at the top of the Intro page.
 
-> "Quote" P[#]
+> "The more [alerts] the merrier." P3
 
-> "Quote" P[#]
+> "[The page with locked data doesn’t need an alert because] it seems obvious that the info has been prefilled here." P5
 
 
-### Finding 4: [Finding]
+### Finding 3: Users want to see the word ‘Note’ bolded to draw their attention to important information
 
-_Labels: `PRDT: AVA`, `_ [from GH + EHQ]
+
+_Labels: `Pattern: Know when their information is prefilled`_
 
 Finding content
 
@@ -126,35 +135,145 @@ Finding content
 > "Quote" P[#]
 
 
-### Finding 5: [Finding]
+### Finding 4: Users preferred to see the gray card over the address component
 
-_Labels: `PRDT: AVA`, `_ [from GH + EHQ]
+_Labels: `Pattern: Know when their information is prefilled`_
 
-Finding content
+The results are pretty split, with 4 Veterans voting directly for the gray box and 3 for the Address component. The other participant responses were inconclusive.
+
+> "I like the gray box better - it stands out more." P10
+
+> "[The address component] looks cleaner" P9
+
+
+### Finding 5: Users appreciated understanding why some of their data is uneditable on the site
+
+
+_Labels: `Pattern: Know when their information is prefilled`_
+
+Many Veterans have experienced issues with identity theft, and with recent news of many Americans SSNs getting leaked, this issue was a hot topic during our sessions. While some Veterans did not see any added value of knowing this information, others did feel it was important and felt the messaging helped them gain deeper trust with the VA.
+
+> "I appreciate [this messaging] in today’s world of data breaches." P2
+
+
+## Update Prefill Findings
+
+### Finding 1: Users most often want to see their updates saved to their profile, but some wanted the chance to select whether their changes would save to just the form or to the profile as well
+
+
+_Labels: `Pattern: Update their prefilled information`_
+
+P2
+they hope that updates in purple task would update their profile as well 
+P5
+Cannot imagine a scenario where they would save to a form but not to their profile
+P6
+Wants to see a version history of changes to personal information
+Understood that the changes would only save to the form in Purple, but still expected the update to ‘dump into the system’ and update the profile as well
+P8
+Understand in purple task that updates only happen in the form
+Wants the ability to choose where to save, but also thinks they would normally save to both places
+Missed that the updates in Yellow task made to profile - only confirm after further probing when they read the confirmation message
+P9
+understands that purple updates only go to the form 
+P10
+“I feel conflicted [about not being able to choose where to save updates]”
+they can imagine a time where they may want to only update their form with this information.
+
+> "Quote" P[#]
+
+> "Quote" P[#]
+
+### Finding 2: Users expect to go to another page to edit their data and come back into the form flow afterwards
+
+
+_Labels: `Pattern: Update their prefilled information`_
+
+P#
+
+
 
 > "Quote" P[#]
 
 > "Quote" P[#]
 
 
-### Finding 6: [Finding]
+### Finding 3: Users expect to see their ‘old’ data within the form fields themselves on the edit page
 
-_Labels: `PRDT: AVA`, `_ [from GH + EHQ]
+_Labels: `Pattern: Update their prefilled information`_
 
-Finding content
+P#
+
+
 
 > "Quote" P[#]
 
 > "Quote" P[#]
-
 
 ## Additional insights
 
-- 
+### Finding 1: There is confusion between the autosave feature and the edit process.
+
+_Labels: `test`_ 
+
+P#
+
+
+
+> "Quote" P[#]
+
+> "Quote" P[#]
+
+“I know the save has been updated with this application (based on reading the autosave alert) but it doesn’t say they’ve updated my VA with this info” (P9)
+
+
+### Finding 2: Users find calling the VA to be a pain and avoid it if  possible, sometimes opting to drive a long distance to see someone in person rather than trying to solve their problem over the phone
+
+_Labels: `test`_ 
+
+P#
+
+
+
+> "Quote" P[#]
+
+> "Quote" P[#]
+
+### Finding 3: Sharing on mobile is hard
+
+
+_Labels: `test`_ 
+
+P#
+
+
+
+> "Quote" P[#]
+
+> "Quote" P[#]
+
+### Finding 4: Signing in is difficult for users
+
+
+_Labels: `test`_
+
+P#
+
+
+
+> "Quote" P[#]
+
+> "Quote" P[#]
+
 
 ## Recommendations
 
-1.
+1. Create guidance advising pattern users to include the alert at the top of their first form page, as well as including it on pages with relevant editable prefilled information. The alert should also be found on the page that allows users to edit prefilled information, but NOT on pages where data is not prefilled or where prefilled data cannot be edited.
+2. One general comment that a participant made was that they expected to see the data that is editable in a different style component from the data that is locked. We should explore this idea in our next research study to see if we can get any further conclusive results.
+3. We should work with CAIA to make the language around where prefill data comes from and is saved very clear and understandable, then test those variations in our next round of research.
+4. Work with CAIA to confirm our instructions are correct, and include content recommendations the focus on the ‘why’ of not allowing updates directly on the site.
+5. Test inline editing with AT users during our next study to ensure this pattern is accessible
+6. Include a task where users can choose where their data saves in our next round of testing
 
 ## Next steps
 
@@ -166,9 +285,7 @@ Finding content
 ## Appendix
 
 - [Research plan]()
-- Conversation guides
-  * [Conversation guide - Veterans]()
-  * [Conversation guide - Business]()
+- [Conversation guide]()
 - [Transcripts]()
 
 ## Tools used for synthesis
@@ -188,56 +305,56 @@ All of our research can be found [in this folder]().
 We talked to **10 participants.**
 
 Gender:
-* Male: 
-* Female: 
-* Unknown: 
+* Male:
+* Female:
+* Unknown:
 
 LGBTQ+:
-* LGBTQ+ (Details unknown): 
-* Transgender: 0
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
-* Gay, lesbian, or bisexual: 0
-* Unknown: 
+* LGBTQ+ (Details unknown):
+* Transgender: 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 
+* Gay, lesbian, or bisexual: 
+* Unknown: 10
 
 Devices used during study:
-* Desktop: 
+* Desktop: 2
 * Tablet: 0
-* Smart phone: 
+* Smart phone: 8
 * Assistive Technology: 0
 
 Age:
-* 25-34: 
-* 35-44: 
-* 45-54: 
-* 55-64: 
+* 25-34:
+* 35-44:
+* 45-54:
+* 55-64:
 * 65+: 0
-* Unknown: 
+* Unknown:
 
 Education:
-* High school degree or equivalent: 
-* Some college (no degree): 
-* Associate's degree, trade certificate or vocational training: 
+* High school degree or equivalent:
+* Some college (no degree):
+* Associate's degree, trade certificate or vocational training:
 * Bachelor's degree: 0
-* Master's degree: 
-* Doctorate degree: 
-* Unknown: 
+* Master's degree:
+* Doctorate degree:
+* Unknown:
 
 Geographic location:
-* Urban: 
-* Rural: 
-* Unknown: 
+* Urban:
+* Rural:
+* Unknown:
 
 Race:
-* White: 
-* Black: 
-* Hispanic: 
-* Biracial: 
+* White:
+* Black:
+* Hispanic:
+* Biracial:
 * Asian: 0
-* Native: 
-* Unknown: 
+* Native:
+* Unknown:
 
 Disability and Assistive Technology (AT):
-* Cognitive: 
+* Cognitive:
 * AT beginner: 0
 * AT advanced user: 0
 * Desktop screen reader: 0
@@ -250,8 +367,7 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to
 
-We have completed the [VA Recruitment Checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726).
+We have completed the [VA Recruitment Checker for marginalized Veteran groups]()
 
 
 ![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/07-2024-Research-equality-checker.png)
-
