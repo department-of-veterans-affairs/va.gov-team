@@ -35,7 +35,7 @@ View [Help users to... Update their prefilled information](#link to other patter
 This pattern involves these types of pages found in VA.gov forms:
 - **Introduction page**: The first page of a form. Introduces the process the Veteran or other beneficiary will follow to apply for a benefit or to complete a supporting form. Changes slightly after a user signs in.
 - **Personal information page**: Usually the first page of a form after the user signs in. Has personal details that cannot be edited online, like name, date of birth, Social Security Number, etc.
-- **Your information or Veteran information chapter**: Chapter of a form that could include multiple pages asking for information such as contact information, demographics, form-specific questions, etc.
+- **Prefill check page**: Any page of a form that will display prefilled information in the card component (along with the alert) that can be edited within the site itself.
 
 #### Introduction page
 There are two states of an introduciton page: Authenticated and Unathenticated. 
@@ -50,9 +50,9 @@ Image caption: Unauthenticated introduction page alert.
 ![Prefilled information on personal informaiton pages](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
 Image caption: Uneditable prefilled information on the personal information page.
 
-#### Your information or Veteran information chapter
-![Editable prefilled information on information pages pages](https://github.com/user-attachments/assets/ccd68305-e4a6-46f9-ab6c-5665c1eee3d7)
-Image caption: Editable prefilled information in the Veteran information chapter. Depending on the form, this information could be displayed in the Your information chapter too.
+#### Prefill check page
+![Editable prefilled information on information pages pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Address%20Review%20Page.png)
+Image caption: Editable prefilled information displayed on the Prefill check page. This is the proposed style to display data that is editable.
 
 ### How this pattern works
 
