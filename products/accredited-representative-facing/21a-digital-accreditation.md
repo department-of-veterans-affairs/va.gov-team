@@ -87,6 +87,7 @@ The below personas reflect the goals, pain points, and other information for _ac
   * [Business Logic - 21a - Attorneys.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/ERV-Dht0rKpLoMfwS-YDTpkBGyE_GVUdNxz7tsZ6sM23Cg?e=GmrajJ) (Sharepoint)
   * [List of jurisdictions, agencies, and courts.pdf](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EdraCvW6JJtLia7Ju4uI4l0BYsEKE_ppHHmHI8fbHJ8kFw?e=WQMwpp) (Sharepoint)
 * [GCLAWS Schema alignment spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/OITSPMGCLAWS-VBAIntegrations/Shared%20Documents/Accreditation%20Portal%20(va.gov)/21a%20Design%20Feedback/v5/ARF%20-%20GCLAWS%20alignment%20spreadsheet%20v5%20%5Ball%20new%20requested%20fields%5D.xlsx?d=wced87ea864214601b2e9b2de165ab100&csf=1&web=1&e=wPkYjc) (need to be on the VA network)
+* OGC feedback on the mockups over the course of Summer 2024, with comments about when the feedback was integrated **(add once it's in Sharepoint)**
 
 ## Slack communications
 
