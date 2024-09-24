@@ -16,6 +16,8 @@ In addition, this documentation accounts for possible scenarios in which no draf
 - Failed user call
 - Failed network call
 - Failed API call
+- Failure for drafts only
+- Failure for submitted only
 - Scheduled maintenance
 - PDF cannot be generated
 - PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
@@ -390,7 +392,19 @@ We're sorry. We're working to fix this problem. Check back later.
 We can't access your benefit applications and forms right now
 
 We're sorry. We're working to fix this problem. Check back later.
-    
+
+## Failure for drafts only
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1771-70415&t=Ly3AlX7WzQaWU6dS-1)
+
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1789-41493&t=Ly3AlX7WzQaWU6dS-1)
+
+## Failure for submitted only
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1771-71011&t=Ly3AlX7WzQaWU6dS-1)
+
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1789-41838&t=Ly3AlX7WzQaWU6dS-1)
+
 ## Scheduled maintenance
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
