@@ -33,8 +33,33 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Do you monitor the API that you submit to via Datadog? 
   * ~~If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).~~
-* [ ] Does your Datadog monitoring use the appropriate tagging?
-  * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
+* [x] Does your Datadog monitoring use the appropriate tagging? 
+  * ~~If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!~~
+  * Yes we have 13 monitors and they are all tagged.
+  <details><summary>See details below:</summary>
+   
+  ```
+  Debts controller errors, FSR Controller errors, MCP VBS Errors, Medical Copay Controller#index Errors, Medical Copay Controller#show Errors, VHA FSR SharePoint Errors, VHA FSR Sharepoint completion rate is low, VHA FSR VBS Errors, VHA FSR VBS completion rate is low:
+   - env:prod
+   - team:vfs-debt
+   - itportfolio:digital-experience
+   - service:debt-resolution
+
+  NewStatementNotificationJob is experiencing elevated failure rate, Medical Copay Controller#send_statement_notifications Errors, Medical Copay Controller#get_pdf_statement_by_id Errors:
+   - env:eks-prod
+   - team:vfs-debt
+   - itportfolio:digital-experience
+   - service:debt-resolution
+
+  Debts controller#index response time elevated:
+   - env:production
+   - team:vfs-debt
+   - itportfolio:digital-experience
+   - service:debt-resolution
+
+  ```
+   
+  </details>
 * [x] Do errors detected by Datadog go into a Slack notifications channel?
   * **DSVA [#debt-alerts](https://dsva.slack.com/archives/C02EYV9NJFJ)**
   * ~~If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications]~~(https://dsva.slack.com/archives/C063SM22J3H) for an example.
