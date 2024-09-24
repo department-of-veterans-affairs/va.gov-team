@@ -292,8 +292,8 @@ Figma file (with content supplied by CAIA):
 ---
 
 ## Form Status card - Action Needed
-- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
-- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1237-27666&t=qtVTZVRRbZjROpfd-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=rws9CImTjEAVCPiu-1)
 
 This is an **error state** for an individual form submission. This occurs after submission and before it would be received. When detected errors (aka detectable "silent errors") occur during the submission process of supported forms, the associated form cannot be processed by VA staff. In all likelihood, the form will have to be redone and resubmitted. To inform users, we display the "Action needed" card to indicate a system error took place and that they should contact the VA via the Benefits Hotline.
 
@@ -335,8 +335,8 @@ We're sorry. There was a problem with our system. We couldn't process this form.
 
 #### **Content specs**
 Figma file (with content supplied by CAIA):
-- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
-- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1237-27666&t=qtVTZVRRbZjROpfd-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=rws9CImTjEAVCPiu-1)
 
 ### How does a form/application in the action needed status end up showing in a card on My VA?
 - This card can appear when 
