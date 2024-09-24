@@ -199,7 +199,7 @@ The education/careers left nav will have the following structure. These are not 
 
  ![Screenshot 2024-08-01 at 11 34 06 AM](https://github.com/user-attachments/assets/47b04c99-ec38-4a97-9cd9-2f649c1795f0)
 
-4. **[Careers and employment left nav](https://www.va.gov/careers-employment/dependent-benefits/)** - [Remove]
+4. **[Careers and employment left nav](https://www.va.gov/careers-employment/dependent-benefits/)** - [Remove] - DONE, need to verify in prod
   - Placement description: Remove left nav link to dependent employment benefits
 
 ![Screenshot 2024-08-07 at 3 07 41 PM](https://github.com/user-attachments/assets/0ec089bb-f83f-4764-b982-8b40405e4cfc)
