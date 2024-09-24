@@ -34,10 +34,23 @@ Slack Channel  | #va-mobile-app
  6.    Enter the Password and click demo button
  7.    Screen is updated with a Demo Mode bar on the home screen
  8.    Click Sign In button 
- 9.    Demo user is now at the home page of the mobile app and can explore 
+ 9.    Demo user is now at the home page of the mobile app and can explore
 
-
-
+**Steps to Access Demo Mode with a Screenreader**
+ 1.    Download or update the VA: Health and Benefits app to the latest version (version 2.37.0 or later) and open the app.
+       * [Apple App Store Link](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596)
+       * [Google Play Store Link](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US&gl=US)
+ 2.    Swipe past the Veterans Crisis Line link to the VA logo (it will come immediately after the Crisis Line link and before the "sign in" button). 
+       * With VoiceOver (iOS), it will announce as "Department of Veterans Affairs logo, image, VA U.S. Department of Veterans Affairs".
+       * With Talkback (Android), it will announce as "Department of Veterans Affairs logo, image".
+ 3.    Double-tap the VA logo image 7 times (14 times total).
+ 4.    A modal window will appear to enter a password and focus will be on the input field.
+       * With VoiceOver (iOS), it will announce "Text field is editing, word mode, insertion point at start".
+       * With Talkback (Android), it will announce "Enter password, edit box".
+ 5.    Enter the password into the text field.
+ 6.    After entering the password, swipe to the "demo" button and double tap.
+ 7.    After tapping the demo button, the login screen will update. The focus should shift back to the Veterans Crisis Line link, but depending on your phone's version, it might take you lower on the screen. If you have successfully activated demo mode, there will be an alert box that says "Demo mode, heading" directly below / after the Veterans Crisis Line link. Swipe past that and down to the "sign in" button.
+ 8.    Double-tap the "sign in" button to login with demo mode.
 
 
 ## Troubleshooting: ##
