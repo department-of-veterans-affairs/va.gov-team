@@ -93,10 +93,10 @@ Coming soon!
 
 ## Content considerations
 ### Directions for updating uneditable information
-Directions for updating information that can't be updated online within the form varies. See examples below....
-[examples]
-[health form?]
-[benefits form?]
+Directions for updating information that can't be updated online within the form varies and should be updated based on the context of the form or application being used. CAIA is currently working on finalizing some base language to be included, but general guidelines are:
+- If it's benefits related, include the content that has the VA benefits hotline
+- If it's health related, include the content that has the VA benefits hotline AND the content to contact your local medical center
+
 
 ### Contextual Alert content
 Each alert has specific content requirements. You can find each content scenario below. 
