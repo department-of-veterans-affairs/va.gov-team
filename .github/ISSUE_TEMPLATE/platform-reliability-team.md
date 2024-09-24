@@ -2,7 +2,7 @@
 name: Platform Reliability Issue Template
 about: For filing standard issues
 title: ''
-labels: 'platform-reliability-team'
+labels: ['platform-reliability-team', 'needs-refinement']
 assignees: ''
 projects: ["department-of-veterans-affairs/927"]
 ---
