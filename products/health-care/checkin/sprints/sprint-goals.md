@@ -65,7 +65,7 @@
     - 🟥 [[Design] Update Community Care VSS after consult approval workflow (Mural) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88886)
     - ✔️ 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
     - ✔️ 🟥 [[Design] Add content to confirmation page about how to cancel appt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92733)
-    - 🟥 [Add urls to MVP scope page in Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92776)
+    - ✔️ 🟥 [Add urls to MVP scope page in Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92776)
     - ✔️ 🟥 Send messages to Melanie for review and Privacy Officer
         - ~Waiting for VA Notify kick off to happen first~
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
@@ -80,7 +80,7 @@
        - [OCTO PO Sync touchpoint ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93088) 
 - **Stand-alone Travel Application for OH Sites**
    - **Sprint Goal is to tweak content based on Staging Review**
-   - 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)    
+   - ✔️ 🟥 [Remove and change content that tells Veterans they can file again](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92831)    
    - ✔️ 🟥 [[UX] Determine text to use for clinics not in the standalone app pilot](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93050)
 - **Research Cards & Their Headers**
     - ✔️ 🟥 [[Research] Hold kick-off with Perigean and monitor incoming study data in Optimal Workshop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92901)
