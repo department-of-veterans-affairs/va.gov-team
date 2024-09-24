@@ -6,18 +6,17 @@ See discovery process documented in this [ZenHub epic](https://app.zenhub.com/wo
 
 #### Categories (broadly)
 
-1. Don’t meet income/disability rating thresholds (earn too much, not a high enough disability rating)
+1. Veteran is ineligible - don’t meet income/disability rating thresholds (earn too much, not a high enough disability rating)
 2. Too long has passed - it’s been 30+ days since the qualifying event
 3. Distance is too far - “Distance between claim address and facility is greater than the Max Distance global or facility setting.” (DE001)  What this means according to the description: there was a closer location the Veteran could have gone to.  Assume that means that the max distance is the distance from residence to closest service provider facility.    
 4. Went to a facility the Veteran isn't eligible for 
     1. Rejection reason DE003: There is a closer facility with the same parent facility as the home facility, or the appointment is at a facility not related to the home facility.
 5. Missing information about the Veteran submitting (ie, banking info, SSN)
 6. Missing claim evidence (eg receipts)
-7. Missing verification 
-8. Filed for environmental Health appointment which is not eligible 
+7. Missing verification (in Vista)
+8. Filed for an appointment type which is not eligible (only Environmental Health is specifically called out)
 9. Duplicate claim 
-10. Veteran is ineligible
-11. Technical error of some sort (eg., bing maps issue)
+10. Technical error of some sort (eg., bing maps issue, also potentially missing verification)
 
 #### Frequency
 
