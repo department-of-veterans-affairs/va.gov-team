@@ -1,5 +1,6 @@
 # Findings on Denial Reasons 
 
+See discovery process documented in this [ZenHub epic](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/90701) 
 
 ### Reasons for Denial/Rejection
 
