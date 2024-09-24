@@ -20,26 +20,26 @@ If not, set up monitoring in Datadog.
 
 If not, implement tagging standards. Adding the dependency tag is highly recommended!
 
-- Do errors detected by Datadog go into a Slack notifications channel? #health-tools-1010-apm
+- Do errors detected by Datadog go into a Slack notifications channel? **#health-tools-1010-apm**
 
 If not, start directing errors in Datadog to a dedicated Slack channel. See #veteran-facing-forms-notifications for an example.
 
-- Does more than one person look at the Slack notifications channel containing errors on a daily basis? The whole team, particularly developers, PM, DM, and Data Analyst
+- Does more than one person look at the Slack notifications channel containing errors on a daily basis? **The whole team, particularly developers, PM, DM, and Data Analyst**
 
 If not, then follow this guide on managing errors 
 
-- Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? Emoji reactions and comments
+- Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? **Emoji reactions and comments**
 
 If not, then follow this guide on managing errors
 
 ⚠️ Failure to have endpoint monitoring in place is a blocking QA standard at Staging review as of 9/10/24. If you answered no to any of the questions above, you will be blocked from shipping at the Staging review touchpoint in Collab Cycle.
 Reporting errors
 
-- Have you filed issues for errors that are appearing in Datadog / Slack? Yes, and we have a Sprintly monitoring ticket for any errors that may occur during that Sprint
+- Have you filed issues for errors that are appearing in Datadog / Slack? **Yes, and we have a Sprintly monitoring ticket for any errors that may occur during that Sprint**
 
 If not, then start filing Github issues for new categories of errors following this guidance
 
-- Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email? Not yet, we need to add that. It is currently handled manually by the team and HEC Admins. We have a ticket for this
+- Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email? Not yet, we need to add that. It is currently handled manually by the team and HEC Admins. We have a ticket for this #[92911](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/92911)
 
 If not, then file Github issues to capture error categories following this guidance
 Documentation
