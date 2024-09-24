@@ -392,7 +392,7 @@ sequenceDiagram
 ### Check In - Travel Claims
 This diagram shows the sequence of submitting travel claims to BTSSS as part of check-in steps, as well as checking the status of the claim through BTSSS in case of timeouts.
 
-#### Claim Submission
+#### Claim Submission - Initiation
 When the veterans submit the travel claim, website makes a call to vets-api controller, which in turns submits a worker (sidekiq) job to call the BTSSS API. The actual travel claim submission to BTSSS happens asynchronously, and veterans are notified via va-notify when BTSSS receives the submission.
 
 ```mermaid
@@ -410,4 +410,50 @@ sequenceDiagram
     api--)-web: 202 Accepted
     web--)-vet: claim submitted
     deactivate vet
+```
+
+#### Claim Submission to BTSSS
+To submit the claim to BTSSS service, we first need to get the auth token through VEIS. If there's any error getting the token, we send an error text to Veterans so they are aware and can submit/follow up on their claim through other means. Upon receiving the token, we call BTSSS to submit the claim. If BTSSS returns any error, we send an error notification to the Veteran via va-notify. If the claim is submitted successfully, BTSSS returns a claim number, which is then sent to the Veteran via va-notify.
+
+```mermaid
+sequenceDiagram
+  actor vet as Veteran
+  participant api as vets-api
+  participant vaw as vets-api-worker
+  participant veis as VEIS
+  participant bt as BTSSS
+  participant van as va-notify
+
+  api -) vaw: submit job to call BTSSS
+  vaw->>veis: POST /oauth2/token
+  activate vaw
+
+  alt successful token
+    veis--)vaw: successful token  
+    alt successful claim submission
+        vaw->>+bt: POST /submitclaim
+        bt--)-vaw: success
+        vaw->>+van: POST /notifications/sms
+        van--)-vaw: 201 created
+        van-)vet: sms "claim created"
+    else duplicate claim
+        vaw->>+bt: POST /submitclaim
+        bt--)-vaw: error 'duplicate claim'
+        vaw->>+van: POST /notifications/sms
+        van--)-vaw: 201 created
+        van-)vet: sms "duplicate claim"
+    else unknown error
+        vaw->>+bt: POST /submitclaim
+        bt--)-vaw: unknown error
+        vaw->>+van: POST /notifications/sms
+        van--)-vaw: 201 created
+        van-)vet: sms "unknown error"
+    end
+    deactivate vaw
+  else token call failed
+    veis--)vaw: error
+    vaw->>+van: POST /notifications/sms
+    van--)-vaw: 201 created
+    van-)vet: sms "unknown error"
+  end
 ```
