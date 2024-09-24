@@ -210,7 +210,7 @@ The education/careers left nav will have the following structure. These are not 
 ![Screenshot 2024-08-19 at 3 40 54 PM](https://github.com/user-attachments/assets/551c4b57-f83b-43ed-9f1e-84c2a53efc55)
 
 
-5. **[Vet Success on campus](https://www.va.gov/careers-employment/vetsuccess-on-campus/)** - [Remove]
+5. **[Vet Success on campus](https://www.va.gov/careers-employment/vetsuccess-on-campus/)** - [Remove] DONE, need to verify in prod
   - Placement description: Remove left nav link to VSOC, since it will now be a R+S article. Update hub page to link to R+S instead.
 
 ![Screenshot 2024-08-19 at 3 43 59 PM](https://github.com/user-attachments/assets/3ad90051-b300-4761-b010-54700b9a8c98)
