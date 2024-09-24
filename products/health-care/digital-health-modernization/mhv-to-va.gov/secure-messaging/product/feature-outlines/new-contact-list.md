@@ -18,7 +18,8 @@ We hope to launch this during PI16 in late September 2024 (9/17 - 10/1)
 
 
 ### Before/After (link) 
-Before | The feature on My HealtheVet:
+
+#### Before | The feature on My HealtheVet:
 
 * ![image](https://github.com/user-attachments/assets/ff13a93c-7174-4746-8aec-73ff21ffada3)
 
@@ -27,7 +28,7 @@ Before | The feature on My HealtheVet:
 * ![image](https://github.com/user-attachments/assets/5bf79662-a38b-4ec7-a54d-41d7245805ba)
 
 
-After | Designs for VA.gov:
+#### After | Designs for VA.gov:
 
 Single System
 *![Contact list page single facility ](https://github.com/user-attachments/assets/0cd7e49e-fd3e-4808-9af6-f01acda15005)
