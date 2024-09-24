@@ -305,41 +305,80 @@ sequenceDiagram
     participant web as vets-website
     participant api as vets-api
     participant l as LoROTA
-    participant c as CHIP
     participant btsss as BTSSS
+    participant c as CHIP
     participant va as VistA API
     participant cw as Clinician Workflow
 
     activate vet
-    vet->>+web: Click check-in
-    opt demographics confirmations
-        web->>+api: PUT /demographics
-        api->>+c: confirm demographics
-        c->>+cw: set patient demographic status
-        cw--)-c: status set
-        c--)-api: response
-        api--)-web: response
+    alt if confirmation > 7 days or demographicsNeedsUpdate status == false
+        vet->>+web: Reviews demographics page
+        alt demographics data up-to date
+            web->>+api: PATCH /check_in/v2/demographics/{id}
+            api->>+c: /actions/confirm-demographics {patientDfn:, stationNo:, demographicConfirmations: {demographicsConfirmationPayload}}
+            alt Invalid request
+                api--)web: 400 'Invalid parameter request'
+                web--)vet: "We're sorry. Something went wront on our end. Check-in with a staff member"
+            else No token
+                api--)web: 401 { permissions: 'read.none', status: 'success', uuid: }
+                web--)vet: "We're sorry. Something went wront on our end. Check-in with a staff member"
+            else 
+                c->>+cw: POST /api/v1/vista-sites/{station3No}/patient_demographics_status {patientDfn:, demographicsConfirmationPayload}
+                alt Successful setting demographics status
+                    cw--)-c: Response data
+                    c--)-api: 200 {confirmation response}
+                    api--)web: 200 {confirmation response}
+                else Exception from Clinician Workflow
+                    cw->>c: 500 'Unknown clinician workflow error'
+                    c--)api: 500 'Unknown error'
+                    api--)-web: 500 'Internal Server Error'
+                    web--)-vet: "We're sorry. Something went wront on our end. Check-in with a staff member"
+                end
+            end
+        end
     end
-    web->>+api: POST /travel_claims
+    web->>+api: POST /check_in/v0/travel_claims/
     note right of web: see Check In - Travel Claims
     api--)-web: 202 Accepted
-    web->>+api: POST /check-in
-    api->>+c: check-in
-    c->>+l: get appointment
-    l--)-c: appointment
-    par
-        c->>+va: set checkin
-        va--)-c: response
-    and
-        c->>+va: set appointment status (E-CHECKIN COMPLETE)
-        va--)-c: response
-    and
-        c->>+cw: set checkin step
-        cw--)-c: response
+    vet->>+web: Click check-in from appointment details page
+    web->>+api: POST /check_in/v2/patient_check_ins/ {id:,appt_ien:,travel_enabled:,travel_submitted:}
+    alt Authorized session exists
+        api--)web: 200 { permissions: 'read.none', status: 'success', uuid: }
+        web--)vet: "We're sorry. Something went wront on our end. Check-in with a staff member"
+    else
+        api->>+c: POST /actions/check-in/{id} {appt_ien:,travel_params:}
+        c->>+l: GET /data/{id}
+        alt Exception from LoROTA
+            l--)c: 500 'Unable to find appointments in {id}'
+            c--)api: 404 'Unable to find appointment {appt_ien} in {id}'
+            api--)web: 404 'Not Found'
+            web--)vet: "We're sorry. Something went wront on our end. Check-in with a staff member"
+        else Succeeded getting appointments
+            l--)-c: Returns appointment for {appt_ien} in {id}'
+            c--)c: Get appointment station number
+            c-->+va: /v1/sdes/checkin/{station_number}/{appt_ien}
+            alt Exception/Error checking in for the appt_ien
+                va--)c: 500 'VISTA_ERROR'
+                c--)api: 500 'VISTA_ERROR'
+                api--)web: 500 'Internal Server Error'
+                web--)vet: "We're sorry. Something went wront on our end. Check-in with a staff member"
+            else
+                va--)c: 200 Response data
+                c-->+va: PUT /v1/sdes/checkin-status-set/{station_number}/{appt_ien}/CHECK_IN_COMPLETE
+                alt Exception
+                    va--)c: 500 'VISTA_ERROR
+                    c--)api: 500 'VISTA_ERROR'
+                    api--)web: 500 'Internal Server Error'
+                    web--)vet: "We're sorry. Something went wront on our end. Check-in with a staff member"
+                else Setting CHECK_IN_COMPLETE Success
+                    va--)c: 200 Response data
+                    c--)api: 200 Checkin Successful
+                    api--)web: 200 Checkin Successful
+                    api--)vet: Checkedin Successfully
+                end
+            end
+        end
     end
-    c--)-api: checkin successful
-    api--)-web: response
-    web--)-vet: successful checked in page
     deactivate vet
 ```
 
