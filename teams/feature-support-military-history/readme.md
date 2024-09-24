@@ -15,7 +15,7 @@ Our team has contributed to the following products to date:
 
 ## Our Work at a Glance
 
-- [Release Notes](https://github.com/department-of-veterans-affairs/)
+- [Release Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/feature-support-military-history/release-notes)
 - [Roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/1413/)
 
 ## DSVA Slack Channel
