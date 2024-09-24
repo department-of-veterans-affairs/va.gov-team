@@ -183,7 +183,7 @@ The education/careers left nav will have the following structure. These are not 
 
 ### Crosslinks
 
-1. **[Current VA education benefit rates](https://www.va.gov/education/benefit-rates/)** - [Modify]
+1. **[Current VA education benefit rates](https://www.va.gov/education/benefit-rates/)** - [Modify] - DONE
   - Placement description: Update the relevant links on this page to point to the new locations in family member hub
   - Link label: TBD by content
 
