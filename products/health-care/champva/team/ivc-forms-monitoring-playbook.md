@@ -31,6 +31,7 @@ Investigation
   - If root cause has been identified as an issue outside of vets-website and vets-api, work with PM, DM, and PO to determine contacts and next steps
 
 Resolution
+- Acknowledge monitoring alerts in slack according to [Managing Errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md#define-an-on-call-rotation--monitor-errors-in-slack)
 - IVC Forms engineering will provide updates on development and deployment of a solution and its status in each environment.
 - IVC Forms engineering will notify PM and DM when resolved
 - IVC Forms engineering will monitor outstanding missing statuses and ensure they are cleared appropriately. No statuses should be deleted or cleared without agreement from PO and/or PM.
