@@ -40,9 +40,10 @@
 
 * [x] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
   * Yes;
-    * [Initiate Check-In/"Day Of"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#initiate-check-in)
-    * [Start Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#start-check-in)    
-    * [Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#check-in)
+    * [Initiate Pre-Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_preCheckInExp.md#initiate-pre-check-in)
+    * [Start Pre-Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_preCheckInExp.md#start-pre-check-in)
+    * [Authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_preCheckInExp.md#authentication)
+    * [Complete Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_preCheckInExp.md#complete-pre-check-in)
 * [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * Yes; all uncaught errors are caught and re-thrown with pertinent information. Errors are returned to the calling system with an appropriate level of detail for the user. Users are instructed to check in at the desk if they encounter a non-actionable error.
 * [x] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
