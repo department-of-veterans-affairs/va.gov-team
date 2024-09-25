@@ -24,19 +24,17 @@ Sprint 20: 9/24/24 - 10/7/24
 ## 📋 Previous Sprint Summary:
 In Sprint 19, the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  * [#92579 CES-969 VPG: implement ces-ig library for CFA Slot search](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/92579)
-
+  * Updated VetsAPI Patient Gateway to utilize the new CesSlot class defined by the Clinical Encounter Service Integration Guide (CES IG), ensuring proper resolution of Practitioner and Location information from Cerner FHIR Adapter (CFA).
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-*  * [#91635 VetsAPI: Research options for toggling vaos backend url](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91635)
-   * [#91655 CES-916: Migrate EHR determination out of PreEnrichment step](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/91655)
-   * [#92556 CES-989 VPG: add tests for mappers package](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/92556)
-   * 🧗‍♀️[#93094 CES-1025 CES: Apply Ehr Source extension to resources fetched by search](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/93094)
-   * [#92572 CES-983 CES: Refactor EHRSource determination to use Strategy pattern](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/92572)
+  * Researched options for toggling the VAOS backend URL, determining that the approach for swapping VAOS endpoints would depend on the status of VetsAPI Patient Gateway integration points at the time of the switch. Solutions for both scenarios have been identified.
+  * Migrated EHR determination out of the PreEnrichment step in Clinical Encounter Service (CES); this early decision will facilitate better troubleshooting as EHR determination processes become more complex.
+  * Added comprehensive tests for the mappers package in VetsAPI Patient Gateway, achieving 100% line and branch coverage.
+  * Applied the EHR Source extension to resources fetched by search in Clinical Encounter Service; this extension was previously applicable only to read resources but was updated to include resources retrieved through searches.
+  * Refactored Clinical Encounter Service for EHR Source Determination to implement the Strategy pattern, leveraging enricher factories to enhance robustness.
 * #### Backend support for Slot Search for Appointment Requests
-   * [#92507 CES-948 VPG: implement serviceTypes endpoint](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/92507)
+   * Added the serviceTypes endpoint in VetsAPI Patient Gateway to retrieve supported clinical service types for scheduling. 
 * #### Testing/Admin/Operational Support
-   * [#92508 CES-957 VPG: VAMFAT Submit Updates](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/92508)
-
+   * Resubmitted VetsAPI Patient Gateway for approval from the VA Mobile Framework Architecture Team (VAMFAT) due to the addition of new endpoints in the service.
  
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
