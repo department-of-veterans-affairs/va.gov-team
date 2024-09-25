@@ -2,7 +2,7 @@
 
 Authenticated Experience Design Patterns
 
-Last updated by @christinerosesteiffer Sept 23, 2024
+Last updated by @christinerosesteiffer Sept 25, 2024
 
 Christine Rose Steiffer [christine.steiffer@agile6.com | christine.steiffer@va.gov]
 
@@ -19,7 +19,7 @@ Christine Rose Steiffer [christine.steiffer@agile6.com | christine.steiffer@va.g
 
 ## Research goals
 
-The key goals of this study are to:
+The key goals of this study were to:
 
 * Understand where and when users need the prefill alert to appear.
 * Understand how users expect the prefilled data to display.
@@ -29,14 +29,13 @@ The key goals of this study are to:
 ## Research questions
 
 Understand where and when users need the prefill alert to appear.
-- Does the prefill alert in the unauthenticated experience entice them to sign in to complete the form?
 - Where do they expect the prefill alert message to be located once they are authenticated?
-- In what variation do they notice the prefill alert? Top of page? On the step pages?
+- On which pages do they expect to see the prefill alert populated?
 - Does bolding the word ‘note’ make an impact on whether they will read the information?
 
 Understand how users expect the prefilled data to display.
-- Which version of the data display (address block vs gray card component) helps users to more quickly understand that it contains prefilled data?
-- Do they notice the prefilled data where it is located on the page in either the address block or gray card component?
+- Which version of the data display (address block vs gray card component) is more effective in providing prefill information to users?
+- What are users impressions of the two versions of displaying their prefilled data?
 
 Understand users' expectations around why certain data can be edited within their profile and other data cannot.
 - How do they feel about the ability to edit some data but not others?
@@ -45,7 +44,7 @@ Understand users' expectations around why certain data can be edited within thei
 - Does the explanation for why we limit edits to some user data increase user trust in VA?
 
 Understand how users expect the edit process to work, look like, where they expect their edits to get saved, and if they want to be asked where to save their data.
-- Where do they think the new information gets saved? (profile vs form)
+- Where do they think the new information gets saved? (profile vs form vs something else)
 - Would they ever want to choose where this information gets saved?
 - Which type of prefilled data display do they prefer to see on the edit page? (in-field vs gray box)
 - What content do users expect to see in the confirmation message after they have saved their data?
@@ -69,15 +68,15 @@ We presented scenarios testing the following variations:
 
 |Hypothesis|Conclusion|Explanation|
 |:--|:--|:--|
-|Bolding ‘note’ in the prefill alert messaging will help users to see a block of text quicker|Somewhat True|This was true except in cases where there were multiple blocks of text starting with the word ‘Note’.|
 |Users will more easily notice the intro prefill alert when it’s at the top of the page. |Definitely True|Users preferred to see it at the top of the page.|
-|We will learn that the user only needs the prefill alert on the Intro page|Definitely False|Users want to see the alert on the Intro page, but they also want to see it on the page with prefilled, editable information and the Edit screen as well|
+|We will learn that the user only needs the prefill alert on the Intro page|Definitely False|Users want to see the alert on the Intro page, but they also want to see it on Prefill confirm page with their editable information and the Edit screen as well|
+|Bolding ‘note’ will help users to see a block of text quicker|Somewhat True|This was true except in cases where there were multiple blocks of text started with the word ‘Note’.|
 |The users will prefer the address component over the gray box for the locked data|Likely False|There was a slight preference for the gray box over the address component, with one user specifically associating the color gray with ‘uneditable’ information.|
 |Users understand why we limit in screen edits for some types of data and find the messaging around the reason to be sufficient|Definitely True|Most users understood why this information could not be edited online and appreciated the messaging around protecting their data|
-|As long as the data is going back to their profile, they will not want to be asked if it is ok to update their profile|Likely False|Many participants expressed an interest in being able to choose where they want their changes to save.|
-|Users will prefer to see in the field data instead of the locked gray box displaying their current data while they are editing. |Definitely True|8 out of 10 users preferred the inline text edit to the gray box.|
+|As long as the data is going back to their profile, they will not want to be asked where to save their data|Definitely False|Many participants expressed an interest in being able to choose where they want their changes to save.|
+|Users will prefer to see their 'old' data inline in the form fields rather than the locked gray box while they are editing. |Definitely True|8 out of 10 users preferred the inline text edit to the gray box.|
 |Users want to be informed if their data is not updating to their profile.|Definitely True|Users cared a lot about being very clear on where their data and updates were saving|
-|The confirmation alert will help users understand when their data has been updated. |Definitely True|Most participants read the alert text the first time and understood where their data would save.|
+|The confirmation alert will help users understand where their data has been updated. |Definitely True|Most participants read the alert text the first time and understood where their data would save.|
 
 ## Prefill pattern findings
 
@@ -96,7 +95,7 @@ We presented scenarios testing the following variations:
 
 ## Additional findings
 
-1. It is not always clear to people the difference between the autosave feature and updating their prefilled data.
+1. It is not always clear to people the difference between the autosave feature and updates to their prefilled data.
 2. The process of signing in is difficult and confusing.
 3. Sharing a prototype on mobile is hard.
 
@@ -106,7 +105,7 @@ We presented scenarios testing the following variations:
 
 _Labels: `Pattern: Know when their information is prefilled`_ 
 
-Veterans used a variety of words to describe where they thought their data was pulled from to display in the prototype. This includes words such as account, information, profile, records, permanent record, and in the cloud among others. 
+Veterans used a variety of words to describe where they thought their data was pulled from to display in the prototype. This included words such as account, information, profile, records, permanent record, and in the cloud among others. 
 
 Many of our participants expressed confusion around their data and it’s association, or lack thereof, with whichever authentication service they used to login to VA.gov (such as Login.gov, ID.me and MyHealtheVet). They thought that if they made changes to their VA.gov profile data, it would update their authentication platform data as well. One even thought that it would update any other platforms that were connected to their Login.gov account, such as SSA.gov.
 
@@ -119,7 +118,7 @@ Many of our participants expressed confusion around their data and it’s associ
 
 _Labels: `Pattern: Know when their information is prefilled`_
 
-We asked Veterans about the prefill alert on every page we looked at together. The general consensus was that they want to see the alert on all three of the previously mentioned pages, but not any others within the form. This was because the intro page gives them an idea what to expect, the prefill confirm page shows them their prefilled information and allows them to edit, and then the edit screen provides that old data within the form fields - all places that made sense to Veterans to show the prefill alert.
+We asked Veterans about the prefill alert on every page we looked at together. The general consensus was that they want to see the alert on all three of the previously mentioned pages, but not any others within the form. This was because the intro page gives them an idea of what to expect, the prefill confirm page shows them their prefilled information and allows them to edit, and then the edit screen provides that old data within the form fields - all places that made sense to Veterans to show the prefill alert.
 
 They also preferred to see the alert at the top of the form intro page.
 
@@ -130,19 +129,18 @@ They also preferred to see the alert at the top of the form intro page.
 
 ### Finding 3: Bolding the word ‘Note’ at the beginning of an important text block draws more attention to the information.
 
-
 _Labels: `Pattern: Know when their information is prefilled`_
 
 Most Veterans felt that bold text made them pay more attention to the information that followed. Some used bold text and headers as they scanned the page to get an idea of what it was talking about before reading more in depth.
 
-Caution should be taken in overusing this pattern, however, as there are sometimes instances of forms or pages where multiple text blocks start with the word ‘Note’ which compete for attention with each other.
+Caution should be taken in overusing this pattern, however, as there are sometimes instances of forms or pages where multiple text blocks start with the word ‘Note’ which can compete for user attention.
 
 > "I look down and do a quick glance over the bold titles." P2
 
-> "[The alert icon] actually felt more eye-catching than the word ‘Note’ especially because there is another bolded ‘Note’ right above it. [It is unclear which] is the most significant part of it." P1
+> "[The alert icon] actually felt more eye-catching than the word ‘Note’ especially because there is another bolded ‘Note’ right above it. [It is unclear which] is the most significant part of [the page]." P1
 
 
-### Finding 4: There was a slight preference of the gray card style over the address component style, but the results are not conclusive.
+### Finding 4: There was a slight preference of the gray card style over the address component style, but the results are inconclusive.
 
 _Labels: `Pattern: Know when their information is prefilled`_
 
@@ -155,12 +153,11 @@ We saw a wide range of reactions to the two style variations of showing the pref
 
 ### Finding 5: Understanding why they can’t update certain information on the site helps Veterans to build trust with the VA. 
 
-
 _Labels: `Pattern: Know when their information is prefilled`_
 
-Many Veterans have experienced issues with identity theft, and with recent news of many Americans SSNs getting leaked, this issue was a hot topic during the research sessions. Some Veterans did not see any added value of knowing this information and felt that it should be inherent that the VA is protecting their data. However, more expressed that they felt it was important and felt the messaging helped them gain deeper trust with the VA.
+Many Veterans have experienced issues with identity theft, and with recent news that most American's SSNs have been leaked, this issue was a hot topic during the research sessions. Some Veterans did not see any added value of knowing this information and felt that it should be inherent that the VA is protecting their data. However, more expressed that they felt it was important and felt the messaging helped them gain deeper trust with the VA.
 
-One participant did express concern at the instruction to change your name or other personal information over the phone. They had worked in cyber security for decades and stated that it is much easier to socially engineer someone into allowing a data update over the phone than it is to hack into someone’s account to change it there. 
+One participant did express concern at the instruction to change your name or other personal information over the phone. They had worked in cyber security for decades and stated that it is much easier to socially engineer someone into allowing a data update over the phone than it is to hack into someone’s online account to change it that way. 
 
 > "I appreciate [this messaging] in today’s world of data breaches." P2
 
@@ -206,13 +203,11 @@ One participant mentioned their association of the color gray with meaning they 
 
 ## Additional insights
 
-### Finding 1: It is not always clear to people the difference between the autosave feature and updating their prefilled data.
+### Finding 1: It is not always clear to people the difference between the autosave feature and updates to their prefilled data.
 
-_Labels: `test`_ 
+Although we asked no specific questions about the autosave alert, seven participants organically brought it up. While it was a popular feature, it appeared to sometimes compete with people’s understanding of changes getting saved to their profile or even completing the form itself. 
 
-Although we had no specific questions about the autosave alert, seven participants organically brought it up. While it was a popular feature, it appeared to sometimes compete with people’s understanding of changes getting saved to their profile or even completing the form itself. 
-
-> "[On the Prefill Check page] It’s saying my request has been saved… so basically they are saying that they received my Board of Appeals request… But I haven’t actually sent [in the request. I guess] it just has been saved for like the moment." P4
+> "[On the Prefill Check page] It’s saying my request has been saved… so basically they are saying that they received my Board of Appeals request… But I haven’t actually sent [in the request. I guess] it just has been saved for, like, the moment." P4
 
 > "’Save your application on every change’ is ok but again, that… brings up the question of like, well, do I have to click save or not first?" P2
 
@@ -220,9 +215,6 @@ Although we had no specific questions about the autosave alert, seven participan
 
 
 ### Finding 2: The process of signing in is difficult and confusing.
-
-
-_Labels: `test`_
 
 We heard from a variety of people that they struggle with the sign in process. One mentioned selecting the wrong authentication service and having a lot of difficulties before realizing what they had done wrong. Others mentioned confusion between the authentication services and information connected to their REAL ID.
 
@@ -233,8 +225,6 @@ We heard from a variety of people that they struggle with the sign in process. O
 
 ### Finding 3: Sharing a prototype on mobile is hard.
 
-_Labels: `test`_ 
-
 We specifically recruited participants to join from a mobile device so that we could be mobile-first in our approach to testing this design pattern. The average time it took for participants to share the prototype on their mobile device was just under seven minutes. There were three participants that took longer than ten minutes to share the prototype from their phone, and for one participant we decided it would be easier if the moderator just shared their screen. 
 
 > "I use DuckDuckGo [a browser which doesn’t like sharing things]. Let me try something else." P6
@@ -243,26 +233,28 @@ We specifically recruited participants to join from a mobile device so that we c
 ## Recommendations
 
 ### Prefill pattern
-Add language to the prefill alert that makes it clear exactly where their information comes from and is saved.
-Create guidance advising pattern users to include the alert at the top of the form intro page, as well as on Prefill check pages that show editable prefilled information. The alert should also be found on the page that allows users to edit prefilled information.
-Bold the word ‘Note’ at the beginning of the text block that advises people how to update locked information.
-Test a variation in the next research study that shows a gray card for locked data and a white card with a border for data that is editable on the Prefill check page to see if there is a stronger opinion on the style one way or the other.
-Work with CAIA to improve the instructions around updating locked personal information.
+* Add language to the prefill alert that makes it clear exactly where their information comes from and is saved.
+* Create guidance advising pattern users to include the alert at the top of the form intro page, as well as on Prefill check pages that show editable prefilled information. The alert should also be found on the page that allows users to edit prefilled information.
+* Bold the word ‘Note’ at the beginning of the text block that advises people how to update locked information.
+* Test a variation in the next research study that shows a gray card for locked data and a white card with a border for data that is editable on the Prefill check page to see if there is a stronger opinion on the style one way or the other.
+* Work with CAIA to improve the instructions around updating locked personal information.
 
 ### Update Prefill pattern
-Test a variation in our next research study that allows people to select where their updates get saved.
-Test a variation in our next research study that includes edits from the review page to ensure this meets expectations.
-Test a variation with AT users in our next research study that features inline editing to ensure this pattern is accessible.
+* Test a variation in our next research study that allows people to select where their updates get saved.
+* Test a variation in our next research study that includes edits from the review page to ensure this meets expectations.
+* Test a variation with AT users in our next research study that features inline editing to ensure this pattern is accessible.
 
 ### Additional recommendations
 
-Work with the Veteran Facing Forms team as they study the autosave feature and how people understand it in relation to editing their prefilled data.
-Share findings around sign in difficulty with appropriate VA design teams.
-Work with Perigean to improve our instructions or method for working with users that will share on a mobile device.
+* Work with the Veteran Facing Forms team as they study the autosave feature and how people understand it in relation to editing their prefilled data.
+* Share findings around sign in difficulty with appropriate VA design teams.
+* Work with Perigean to improve our instructions or method for working with users that will share on a mobile device.
 
 ## Next steps
 
-- [ ] Item – [#ticket]()
+- [ ] Finalize Content Guidance for Prefill pattern – [#119](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=Sprint+8&pane=issue&itemId=80943313)
+- [ ] Draft Design Variations for our next research study on Update Prefill - [#59](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=Sprint+8&pane=issue&itemId=73731288)
+- [ ] Submit pattern for staging review - [#69](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=Sprint+8&pane=issue&itemId=73880308)
 
 ## Further research needed
 
