@@ -39,23 +39,27 @@ View [Help users to... Know how their information is updated](https://design.va.
 This pattern involves these types of pages found in VA.gov forms:
 - **Introduction page**: The first page of a form. Introduces the process the Veteran or other beneficiary will follow to apply for a benefit or to complete a supporting form. Changes slightly after a user signs in.
 - **Personal information page**: Usually the first page of a form after the user signs in. Has personal details that cannot be edited online, like name, date of birth, Social Security Number, etc.
-- **Prefill check page**: Any page of a form that displays prefilled information that the user can edit within the form.
+- **Prefill check page**: Any page of a form that displays prefilled information users can edit within the form.
 
 #### Introduction page
-There are two states of an introduciton page: Authenticated and Unathenticated. 
+There are two states of an introduction page: Authenticated and Unathenticated. 
 
-![Authenticated intro page alert on form introduction page](https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd)
+<img src="https://github.com/user-attachments/assets/96117070-4a9e-4755-9fc5-2c305a1e76bd" width="600">
+<br>
 Image caption: Authenticated introduction page alert on the introduction page.
 
-![Unauthenticated intro page alert on the introduction page.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Unauthenticated%20Alert.png)
-Image caption: Unauthenticated introduction page alert.
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Unauthenticated%20Alert.png" width="600">
+<br>
+Image caption: Unauthenticated introduction page alert on the introduction page.
   
 #### Personal information page
-![Prefilled information on personal informaiton pages](https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c)
+<img src="https://github.com/user-attachments/assets/1c122b34-1cc3-48c8-b6b4-2950a7dc692c" width="600">
+<br>
 Image caption: Uneditable prefilled information on the personal information page.
 
 #### Prefill check page
-![Editable prefilled information on information pages pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Address%20Review%20Page.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Address%20Review%20Page.png" width="600">
+<br>
 Image caption: Editable prefilled information displayed on the Prefill check page. This is the proposed style to display data that is editable.
 
 ### How this pattern works
