@@ -17,7 +17,9 @@
     * [Dashboard](https://vetext.ddog-gov.com/dashboard/vu4-t9w-xzs/vista-api?fromUser=false&refresh_mode=sliding&from_ts=1727101512354&to_ts=1727105112354&live=true)
     * Monitors
       * [Prod High Error Rate](https://vetext.ddog-gov.com/monitors/122032)      
-  * Clinician Workflow (see department-of-veterans-affairs/checkin-devops#632).
+  * Clinician Workflow
+    * Monitors
+      * [High Error Rate](https://tevi.ddog-gov.com/monitors/277782)
 * [x] Does your Datadog monitoring use the appropriate tagging?
   * Yes; all monitors use required tags.
 * [x] Do errors detected by Datadog go into a Slack notifications channel?
