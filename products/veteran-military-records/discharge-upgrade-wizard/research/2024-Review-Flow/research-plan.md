@@ -51,7 +51,7 @@ Learnings will help enhance the edit flow to account for questions with branchin
 5. Veterans will find the content of the questions relevant to their understanding of a Discharge Upgrade and how it applies to them.
 
 ## Methodology
-We will conduct remote moderated usability testing to observe research participants using the Discharge Upgrade Wizard in production once it’s updated to the sub task pattern. This will allow us to use the current branching logic and our experimental edit flow pattern.
+We will conduct remote moderated usability testing to observe research participants using the Discharge Upgrade Wizard in a live coded environment (staging or production) with the updated sub task pattern. This will allow us to use the current branching logic and our experimental edit flow pattern.
 
 ### Location
 Sessions will be conducted over Zoom, and we would like Zoom transcripts please.
