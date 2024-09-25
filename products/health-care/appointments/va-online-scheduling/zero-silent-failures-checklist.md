@@ -415,7 +415,7 @@ Please document the outcome of this conversation in your product's documentation
 - [JL] ~~Session extension failure (Sidekiq job)~~ Does not break user flow upon failure
 - [JL] ~~Schema validation failure (Sidekiq job)~~ Turned off via Flipper
 - [JL] Partial responses
-- [JM] Clinic location mis-entered with codes rather than floor or room number
+- [JM] ~~Clinic location mis-entered with codes rather than floor or room number~~ Does not break application
 
 
 If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md). That diagram will help us to help you and your team to create this user experience.
