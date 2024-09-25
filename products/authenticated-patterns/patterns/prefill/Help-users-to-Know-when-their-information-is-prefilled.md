@@ -39,7 +39,7 @@ View [Help users to... Know how their information is updated](https://design.va.
 This pattern involves these types of pages found in VA.gov forms:
 - **Introduction page**: The first page of a form. Introduces the process the Veteran or other beneficiary will follow to apply for a benefit or to complete a supporting form. Changes slightly after a user signs in.
 - **Personal information page**: Usually the first page of a form after the user signs in. Has personal details that cannot be edited online, like name, date of birth, Social Security Number, etc.
-- **Prefill check page**: Any page of a form that will display prefilled information in the card component (along with the alert) that can be edited within the site itself.
+- **Prefill check page**: Any page of a form that displays prefilled information that the user can edit within the form.
 
 #### Introduction page
 There are two states of an introduciton page: Authenticated and Unathenticated. 
