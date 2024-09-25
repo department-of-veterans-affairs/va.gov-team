@@ -7,7 +7,9 @@ Date: 09/26/2024
 
 Cara Frissell [cara.frissell@adhocteam.us)
 
-RECOMMENDED: [9.26 Travel Claim Status Language Generative Study - Full Edition .pdf](https://github.com/user-attachments/files/17081275/9.26.Travel.Claim.Status.Language.Generative.Study.-.Full.Edition.pdf)
+RECOMMENDED: [9.26 PPT presentation in Sharepoint](https://dvagov-my.sharepoint.com/:p:/r/personal/cara_frissell_va_gov/Documents/Desktop/9.26%20Travel%20Claim%20Status%20Language%20Generative%20Study%20-%20Full%20Edition.pptx?d=w4b2f0cf5f08846f697a5d35c12492b0e&csf=1&web=1&e=iS82Ib)
+
+Preferred PDF: [9.26 Travel Claim Status Language Generative Study - Full Edition .pdf](https://github.com/user-attachments/files/17081275/9.26.Travel.Claim.Status.Language.Generative.Study.-.Full.Edition.pdf)
 
 
 ## **Research Goals**
@@ -80,7 +82,7 @@ _Participants Described This Group As…:_
 
 _“The veteran submitted all the required information, they have **nothing left to do.” -P18_
 
-_“You submitted a claim** through the online process” - P3_
+_“You submitted a claim through the online process” - P3_
 
 _“[I would describe this group as]... just confirmation that you've submitted your claim.” - P14_
 
@@ -110,44 +112,35 @@ _“ …anything that's been approved and is waiting…on the next step…or pai
 
 _“All of these point to the money's coming my way.” - P1_
 
-_“It's the successful group. You got your payment. Somehow you managed to get your money.” - P4 _
+_“It's the successful group. You got your payment. Somehow you managed to get your money.” - P4_
 
 
-### *Insight #2: *Participants did not clearly understand how individual claim statuses connected with each other in the larger process but wanted to be proactively made aware of critical phases of claim processing, when they needed to do something to avoid a denied claim and learn why a claim was denied. 
+### Insight #2: Participants did not clearly understand how individual claim statuses connected with each other in the larger process but wanted to be proactively made aware of critical phases of claim processing, when they needed to do something to avoid a denied claim and learn why a claim was denied. 
 
 **Finding 9:** Participants struggled to connect the different claim statuses because they felt they did not well understand the process as a whole; Recommend managing participants expectations of the claim review process so that they can situate their claim within the broader process 
 
 
-    <span style="text-decoration:underline;">How participants discussed this…</span>
+_How participants discussed this…_
 
+_“You submit it's pending, approved or denied…maybe add days in  …[not] specific days, you know, three to five days or something like that.” - P1_
 
-    *“You submit it's pending, approved or denied…maybe add days in  …[not] specific days, you know, **three to five days or something like that.**” - P1*
+_“ …where I'm at** in the process, how long it may take the process …the steps it takes like a FAQ questionnaire and what documents I need… “ -P11_
 
+_“[I want to know] a timeline, even if it's best or worst case scenario, ETA, you know, military is big on acronyms, so ‘need to know’...” - P5_
 
-    *“ …**where I'm at** in the process, **how long** it may take the process …the **steps it takes** like a FAQ questionnaire and what documents I need… “ -P11*
+_“I wanna know what are the **next steps **and I wanna **know when I will know **the claim has been either denied or approved.” - P1_
 
+**Finding 10:** Participants wanted more prominent notifications of both key moments in the claim process and when a claim is blocked and they need to do something (e.g., provide additional information) to unblock it 
 
-    *“[I want to know] **a timeline**, even if it's best or worst case scenario, ETA, you know, military is big on acronyms, so ‘need to know’...” - P5*
+_How participants discussed this…_
 
+_“...it's totally on me to have to keep going back every day to check to see if it's pending and to hope that I happen to see before day 29 that they're missing information because nothing dings me. I get no email saying, ‘Hey, your travel claim is missing information.” Or ‘Hey, you need to review this.’ I get no notification. So a notification like that card supposedly says happens - it doesn't happen” - P4_
 
-    *“I wanna know what are the **next steps **and I wanna **know when I will know **the claim has been either denied or approved.” - P1 *
+_“I would want notifications for major milestones for any major action - under review, approved, denied.” - P1_
 
-Finding 10: Participants wanted more prominent notifications of both key moments in the claim process and when a claim is blocked and they need to do something (e.g., provide additional information) to unblock it 
+_“[I care most about] appealed, denied and submitted ….so cards 4 [Appealed], 1 [Claim Submitted], and 9 [Partial Payment] and 15 [Denied] and maybe card 10 [Submitted for Payment] too… those are about submitted, appealed, approved and a couple in the denied section.” - P20_
 
-
-    How participants discussed this…
-
-
-    *“...it's totally on me to have to keep going back every day to check to see if it's pending and to hope that I happen to see before day 29 that they're missing information because nothing dings me. **I get no email saying, ‘Hey, your travel claim is missing information.”** Or ‘Hey, you need to review this.’ I get no notification. So a notification like that card supposedly says happens - it doesn't happen” - P4*
-
-
-    *“I would want **notifications for major milestones** for any major action - under review, approved, denied.” - P1*
-
-
-    *“[I care most about] appealed, denied and submitted ….so cards 4 [Appealed], 1 [Claim Submitted], and 9 [Partial Payment] and 15 [Denied] and maybe card 10 [Submitted for Payment] too… those are about **submitted, appealed, approved and a couple in the denied section.**” - P20*
-
-
-    *“[I would set an alert for] particularly the ones that would **require me to submit more information because how else would I know** that I needed to do that? - P24*
+_“[I would set an alert for] particularly the ones that would require me to submit more information because how else would I know that I needed to do that? - P24_
 
 **Finding 11:** When a claim is denied, participants want to be given a way to learn why the claim was being denied 
 
@@ -156,28 +149,28 @@ Finding 10: Participants wanted more prominent notifications of both key moments
 [insert image]
 
 
-## **Recommendations**
-
-
+## Recommendations
 
 1. Consider alternative language that emphasizes when a submitter needs to take action or provide additional information.
+   
 2. Manage users expectations of the claim review process from the start, giving them a way to conceptualize  what to expect from the process overall with information such as timeframes and steps in the process.
     1. Give users a way to place their claim within that larger process.
+       
 3. Give users the option to proactively keep themselves up to date with key and critical moments in the process with capabilities like notifications and emails.
 
 
-## **Appendix**
+## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study/Research-Plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study/ConversationGuide.md)
 
-[Interview notes](link here)
+[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study/InterviewNotes)
 
 
-## **Tools used for Synthesis**
+## Tools used for Synthesis
 
-[Mural board](link here)
+[Mural board](https://app.mural.co/invitation/room/1698083071599?code=6270bd7cdee14c0d875aba3de348a4d7&sender=ucbacbd1daef36939e8aa2288)
 
 [EnjoyHQ](link here)
 
@@ -190,14 +183,9 @@ Audience segment:
 
 
 
-* Veterans: x
-* Caregivers: x
-* Family members of a Veteran: x
+* Veterans: 16
 
 Gender:
-
-
-
 * Male: x
 * Female: x
 
@@ -211,16 +199,9 @@ LGBTQ+:
 
 Devices used during study:
 
-
-
-* Desktop: x
-* Tablet: x
-* Smart phone: x
-* Assistive Technology: x
+* Desktop: 16
 
 Age:
-
-
 
 * 25-34: x
 * 35-44: x
@@ -230,8 +211,6 @@ Age:
 * Unknown: x
 
 Education:
-
-
 
 * High school degree or equivalent: x
 * Some college (no degree): x
