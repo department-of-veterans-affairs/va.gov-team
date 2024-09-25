@@ -63,20 +63,24 @@ _“...goes to…some division within the VA that processes the travel claims va
 
 
 **Finding 2:** Participants’ imagined the claim evaluation process as starting clearly and ending clearly, but with a murky middle that they did not understand; dividing the process into pre- and post- decision
-
-[insert image of participants perception]
+<img width="818" alt="Screenshot 2024-09-25 at 5 29 38 PM" src="https://github.com/user-attachments/assets/e0d4bf8a-7f56-4077-985e-7f987743599d">
 
 **Finding 3:** The pre- and post- decision division can be further broken down into 5 groups oriented around the internal VA process and the moments that require action
 
-[insert image of similarity matrix]
+<img width="498" alt="Screenshot 2024-09-25 at 5 30 19 PM" src="https://github.com/user-attachments/assets/dee06dd2-35e8-40d6-9d48-c999cabc054e">
 
-[insert image of dendrogram]
+Similarity matrix based on open card sort
+
+
+<img width="835" alt="Screenshot 2024-09-25 at 5 31 11 PM" src="https://github.com/user-attachments/assets/670a2a81-eec0-4c8e-aac8-4533ef7181c7">
+
+Dendrogram based on open card sort
 
 **Finding 4**: Participants expect a travel claim to go through an evaluation process and expect that “claim status” tells them where the claim is in that process
 
 **Finding 5**: Participants collapsed “Claim Submitted” and “In Process” as both a confirmation of a submitted claim; the first clear,  ephemeral step in the broader claim review process
 
-[insert image]
+<img width="345" alt="Screenshot 2024-09-25 at 5 32 19 PM" src="https://github.com/user-attachments/assets/3b3e00eb-b318-453d-bb17-2aad00a965a6">
 
 _Participants Described This Group As…:_
 
@@ -92,7 +96,11 @@ _“[I would describe this group as]... just confirmation that you've submitted 
 * Recommend collapsing “On Hold” and “Incomplete” together; removing or consolidating “In Manual Review” 
 * Unsure of what to do with “Loose Ends” statuses; participants vacillated between grouping these statuses with the pre-decision review phase or the post-decision phase  
 
-[insert image]
+<img width="381" alt="Screenshot 2024-09-25 at 5 33 19 PM" src="https://github.com/user-attachments/assets/91302667-cdde-48ae-b1b6-ad11bb921885">
+
+<img width="375" alt="Screenshot 2024-09-25 at 5 34 33 PM" src="https://github.com/user-attachments/assets/874de19e-0604-4f4a-8ce5-dde45d2f9ebb">
+
+
 
 **Finding 7**: Although most participants grouped the “Claim Denied” statuses together, they distinguished the statuses based on the reason for the denial, especially being denied due to error versus being ineligible
 
@@ -102,7 +110,9 @@ _“I'm traveling to these appointments and they're in the system either through
 
 _“...clarify why … it's not rejected because of a missing information, it's not eligible to be reimbursed.” - P24  on Card 17_
 
-[insert image]
+<img width="376" alt="Screenshot 2024-09-25 at 5 35 44 PM" src="https://github.com/user-attachments/assets/99efdb0a-ade7-413c-a0a5-2c9b1e9acf39">
+<img width="238" alt="Screenshot 2024-09-25 at 5 36 06 PM" src="https://github.com/user-attachments/assets/10860711-10f8-4f52-acfa-84801cec403e">
+
 
 **Finding 8:** Participants saw “Claim Paid” as the successful group; they did not distinguish between internal VA process phases but did distinguish between payment “en route” and payment complete 
 
@@ -114,6 +124,7 @@ _“All of these point to the money's coming my way.” - P1_
 
 _“It's the successful group. You got your payment. Somehow you managed to get your money.” - P4_
 
+<img width="418" alt="Screenshot 2024-09-25 at 5 36 46 PM" src="https://github.com/user-attachments/assets/65451094-ef50-44c3-93c0-79fb9aa889ff">
 
 ### Insight #2: Participants did not clearly understand how individual claim statuses connected with each other in the larger process but wanted to be proactively made aware of critical phases of claim processing, when they needed to do something to avoid a denied claim and learn why a claim was denied. 
 
@@ -144,9 +155,9 @@ _“[I would set an alert for] particularly the ones that would require me to su
 
 **Finding 11:** When a claim is denied, participants want to be given a way to learn why the claim was being denied 
 
-**Finding 12:** Moments in the claim process participants wanted to be proactively made aware of included both updates and actions
+**Finding 12:** Moments in the claim process participants wanted to be proactively made aware of included both updates and moments that require action
 
-[insert image]
+<img width="715" alt="Screenshot 2024-09-25 at 5 38 19 PM" src="https://github.com/user-attachments/assets/2afad820-de67-4860-8077-56688d80d9eb">
 
 
 ## Recommendations
@@ -172,12 +183,12 @@ _“[I would set an alert for] particularly the ones that would require me to su
 
 [Mural board](https://app.mural.co/invitation/room/1698083071599?code=6270bd7cdee14c0d875aba3de348a4d7&sender=ucbacbd1daef36939e8aa2288)
 
-[EnjoyHQ](link here)
-
 
 ## **Who we talked to**
 
-We talked to 16 participants.
+We talked to 16 Veteran participants.
+
+<img width="353" alt="Screenshot 2024-09-25 at 5 39 59 PM" src="https://github.com/user-attachments/assets/4aaab4d9-6f4e-471d-a4d4-cc732d536785">
 
 Audience segment:
 
@@ -250,17 +261,7 @@ Disability and Assistive Technology (AT):
 * Captions: x
 
 
-## **Underserved groups we haven’t talked to**
-
-*[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)*
-
-This research does not include the perspectives of the following marginalized Veteran groups: *List all groups in red from the spreadsheet*
 
 
 
-* Live in rural areas or abroad
-* Don’t have a degree
-* Other than honorable 
-* Immigrant origin
 
-*[insert screenshot of completed recruitment checker]* ![VA-recruitment-checker](link - add image to github folder and link here with .png)
