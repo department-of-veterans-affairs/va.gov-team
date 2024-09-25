@@ -181,21 +181,17 @@ We talked to 16 participants.
 
 Audience segment:
 
-
-
 * Veterans: 16
 
 Gender:
-* Male: x
-* Female: x
+* Male: 7
+* Female: 9
 
 LGBTQ+:
 
-
-
-* Transgender: x
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 2
 
 Devices used during study:
 
@@ -203,17 +199,16 @@ Devices used during study:
 
 Age:
 
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 4
+* 35-44: 2
+* 45-54: 3
+* 55-64: 3
+* 65+: 5
 
 Education:
 
-* High school degree or equivalent: x
-* Some college (no degree): x
+* High school degree or equivalent: 
+* Some college (no degree): 
 * Associate's degree, trade certificate or vocational training: x
 * Bachelor's degree: x
 * Master's degree: x
