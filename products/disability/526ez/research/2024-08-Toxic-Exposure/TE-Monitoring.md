@@ -64,19 +64,8 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |Step 5| Additional Disabilities | 0%| 0.63% | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
 
 ### [UNDER CONSTRUCTION: Overall Form Abandonment]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
-
 **As of 9/3**, we are reworking this funnel and will update it once we have more confidence in the numbers we see. 
-
 **Alternative approaches we're considering:** Removing all steps that are not seen by all Veterans (such as claim type) or exploring other non-funnel models for understanding the data. 
-| Step # | 526 Page| Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
-|--|--|--|--|--|--|--|--|--|--|--|
-|Step 1|Introduction | 0.19% | 0.19% |  | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 2| Veteran Information | 37.82% | 37.82% |  | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 3| Disabilities | 14.49% | 14.49% |  | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 4| Supporting Evidence | 12.08% | 12.08% | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 5| Additional Information | 2.26% | 2.26% || | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 6| Review and Submit | 2.0% | 2.0% | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
-|Step 7| Confirmation | - | - | | | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) |
 
 ## Summary of Medallia survey and Contact Center data 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
