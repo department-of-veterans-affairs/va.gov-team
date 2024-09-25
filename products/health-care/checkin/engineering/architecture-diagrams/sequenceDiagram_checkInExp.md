@@ -425,38 +425,37 @@ sequenceDiagram
   participant van as va-notify
 
   api -) vaw: submit job to call BTSSS
-  vaw->>veis: POST /oauth2/token
-  activate vaw
-
+  vaw ->>+ veis: POST /oauth2/token
   alt successful token
-    veis--)vaw: successful token  
+    veis --) vaw: successful token
     alt successful claim submission
-        vaw->>+bt: POST /submitclaim
-        bt--)-vaw: success
-        vaw->>+van: POST /notifications/sms
-        van--)-vaw: 201 created
-        van-)vet: sms "claim created"
+      vaw ->>+ bt: POST /submitclaim
+      bt --)- vaw: success
+      vaw ->>+ van: POST /notifications/sms
+      van --)- vaw: 201 created
+      van -) vet: sms "claim created"
     else duplicate claim
-        vaw->>+bt: POST /submitclaim
-        bt--)-vaw: error 'duplicate claim'
-        vaw->>+van: POST /notifications/sms
-        van--)-vaw: 201 created
-        van-)vet: sms "duplicate claim"
+      vaw ->>+ bt: POST /submitclaim
+      bt --)- vaw: error 'duplicate claim'
+      vaw ->>+ van: POST /notifications/sms
+      van --)- vaw: 201 created
+      van -) vet: sms "duplicate claim"
     else timeout
-        vaw->>bt: POST /submitclaim
-        note right of vaw: see BTSSS timeout SD
+      vaw ->>+ bt: POST /submitclaim
+      bt --)- vaw: timeout
+      vaw ->> vaw: schedule Status Check job
+      note right of vaw: see Status Check SD
     else unknown error
-        vaw->>+bt: POST /submitclaim
-        bt--)-vaw: unknown error
-        vaw->>+van: POST /notifications/sms
-        van--)-vaw: 201 created
-        van-)vet: sms "unknown error"
+      vaw ->>+ bt: POST /submitclaim
+      bt --)- vaw: unknown error
+      vaw ->>+ van: POST /notifications/sms
+      van --)- vaw: 201 created
+      van -) vet: sms "unknown error"
     end
-    deactivate vaw
   else token call failed
-    veis--)vaw: error
-    vaw->>+van: POST /notifications/sms
-    van--)-vaw: 201 created
-    van-)vet: sms "unknown error"
+    veis --) vaw: error
+    vaw ->>+ van: POST /notifications/sms
+    van --)- vaw: 201 created
+    van -) vet: sms "unknown error"
   end
 ```
