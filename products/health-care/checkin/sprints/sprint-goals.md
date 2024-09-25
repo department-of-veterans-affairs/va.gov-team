@@ -37,6 +37,7 @@
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93424)
 - **Tech Debt**
+    - 🟩 [Update Spanish Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93590)
     - 🟩 [Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93422)
     - 🟩 [Use the New DS Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883)    
 </details>
