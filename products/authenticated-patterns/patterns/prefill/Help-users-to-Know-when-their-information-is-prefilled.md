@@ -128,18 +128,19 @@ Each alert has specific content requirements. You can find each content scenario
 > [button] Sign in or create an account
 > 
 > [text link] Start your form without signing in
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Unauthenticated%20Alert.png)
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Unauthenticated%20Alert.png" width="600">
 
 
 #### Authenticated intro page alert
 > [content] **Note:** Since you’re signed in to your account, we can prefill part of your form based on your account details. You can also save your form in progress and come back later to finish filling it out.
-![image](https://github.com/user-attachments/assets/a279e845-aaa9-4373-bda0-932de3d3e2aa)
 
+<img src="https://github.com/user-attachments/assets/a279e845-aaa9-4373-bda0-932de3d3e2aa" width="600">
 
 #### Authenticated contextual alert
 > [content] **Note:** We've prefilled some of your information from your account. If you need to correct anything, you can select edit below. All updates will be made only to this form.
-![image](https://github.com/user-attachments/assets/36b4acb4-be99-49cd-8bd6-536d8ef7db8e)
 
+<img src="https://github.com/user-attachments/assets/36b4acb4-be99-49cd-8bd6-536d8ef7db8e" width="600">
 
 ## Research findings
 The Authenticated Experience Design Patterns team conducted [user research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill) to gather validation about this pattern.
