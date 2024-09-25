@@ -222,7 +222,11 @@ Users can opt into running public prototypes through Codespaces by configuring t
 
 ### Codespace Walkthrough Video
 
-![Codespace walkthrough video](https://github.com/department-of-veterans-affairs/va.gov-team/raw/refs/heads/master/products/authenticated-patterns/engineering/Codespaces-public-setup.mp4)
+
+
+https://github.com/user-attachments/assets/82c68292-8fa2-417c-96ab-0392bf53d1aa
+
+
 
 ## Extra Notes on Cost and Performance
 
