@@ -264,6 +264,7 @@ Link to Playbook:
         - [ ] Yes
         - [ ] No
  - [JL] We have filed issues using data from our DataDog monitoring tools in the past when additional backend work was needed, e.g. 86316, 89619 and 90026. I believe there are currently no outstanding issues that need to be filed but we should update our practices to match the expectations listed in the linked document.
+ - [JR,SA] Mentioned during the meeting that we also file MAPSUP tickets when needed.
 
 If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
 
