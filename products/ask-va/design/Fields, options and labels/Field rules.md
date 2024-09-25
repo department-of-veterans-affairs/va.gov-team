@@ -10,6 +10,7 @@ This document is for our design team to communicate field rules.
   - [Social security number or service number](#social-security-number-or-service-number)
   - [Date of birth](#date-of-birth)
   - [Branch of service](#branch-of-service)
+  - [Roles](#roles)
   - [Location and postal code](#location-and-postal-code)
   - [School fields](#school-fields)
   - [Health facility](#health-facility)
@@ -60,6 +61,26 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
 
 - Even if the question is **not** about the Veteran, we still need to require the Veteran's branch of service (for these categories and if it's not a general question).
 - While this data is in MPI, agents are not able to look this up using their MPI search tool in the CRM.
+
+## Roles
+The roles lists are different if it's an education question or not.
+
+If not education related, (default) roles list includes:
+- Accredited representative (such as an accredited attorney, claims agent, or Veterans Service Officer)
+- Fiduciary
+- Funeral director
+- On-the-job training or apprenticeship supervisor
+- School Certifying Official (SCO)
+- VA employee
+- Work study site supervisor
+- Other
+
+If education question, roles list includes:
+- On-the-job training or apprenticeship supervisor
+- School Certifying Official (SCO)
+- VA employee
+- Work study site supervisor
+- Other
 
 ## Location and postal code
 - Review [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for details.
