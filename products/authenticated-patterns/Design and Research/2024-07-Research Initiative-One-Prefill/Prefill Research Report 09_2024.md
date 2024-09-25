@@ -258,7 +258,7 @@ We specifically recruited participants to join from a mobile device so that we c
 
 ## Further research needed
 
-We are currently working on our next research study that will continue to look at the Update Prefill pattern. Please review the latest updates in that study’s research folder [here]().
+We are currently working on our next research study that will continue to look at the Update Prefill pattern. Please review the latest updates in that study’s research folder [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill).
 
 
 ## Appendix
