@@ -1,4 +1,4 @@
-# Release Plan: Lighthouse Migration for Ancillary Document Uploas
+# Release Plan: Lighthouse Migration for Ancillary Document Uploads
 
 ## Purpose
 The purpose of this release plan is to document and align the delivery teams and stakeholders on what will be delivered and when. 
