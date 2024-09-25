@@ -1,8 +1,25 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 7
+9/25 - 10/8
+
+**Toxic Exposure**
+* Complete 100% rollout
+* Address high priority submission and validation errors
+* Prep for 1.1 release
+
+**Submission Experience**
+* Finalize Timely & Truthful designs, align w OCTO and prep stories for implementation
+* Refine Submission Record & Tracking solution direction and align w OCTO
+
+**Other**
+* Discovery on Zero Silent Failures work
+* Address inconsistencies in Toxic Exposure metrics
+* Collab with Carbs on new high priority work. Mostly this is just accounting for unknowns re new items that arise out of priority discussions this week, and primarily any ZSF work.
 
 ## Sprint 6
 9/11 - 9/24
+
 **Toxic Exposure**
 * Complete 75% rollout
   * [stretch] Complete 100% rollout
