@@ -289,8 +289,8 @@ All of our research can be found [in this folder](https://github.com/department-
 We talked to **10 participants.**
 
 Gender:
-* Male: 6
-* Female: 4
+* Male: 7
+* Female: 3
 * Unknown: 0
 
 LGBTQ+:
@@ -354,4 +354,4 @@ Disability and Assistive Technology (AT):
 
 We have completed the [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=650805732#gid=650805732)
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/VA%20Recruitment%20Checker%20for%20Equality.png)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Images/Equality%20Checker.png)
