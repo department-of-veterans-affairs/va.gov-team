@@ -188,7 +188,7 @@ Event details have been gathered by use of Adswerve while signed into staging.
      <td>Entire portal or just landing page</td>
      <td>
        <ul> 
-          <li>en:"nagivation"</li>
+          <li>en:"navigation"</li>
           <li>ep.dle_name:"nav-mhv-secondary"</li>
           <li>ep.event_action:"click"</li>
           <li>ep.link_url:"/my-health/appointments"
