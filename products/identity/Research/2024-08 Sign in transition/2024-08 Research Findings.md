@@ -2,48 +2,112 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sign-in Transition, Identity Experience Team**
 
-- [Research readout]()
 - Researchers
   - Megan Driscoll | megan@bluetiger.digital
   - Charlye Tran | charlye@bluetiger.digital
   - Clayton Zook | clayton.zook@oddball.io
  
-    
-### Research Goals:
+## Research materials
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-08%20Credential%20deprecation/2024-08%20Credential%20deprecation%20conversation%20guide.md)
+- [Prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=65-42645&t=pCsS806Lgd3tIEHz-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=65%3A42645&show-proto-sidebar=1)
 
--   
-    
+## OCTO Identity Crew Objectives
+- Objective 1: Create a smooth transition for Veterans from legacy to modern sign-in credentials
+  - KR1: The number of users who have a MHV credential and neither ID.me or Login.gov is reduced to less than 500K by Oct 31, 2024 and to less than 100K by Jan 31, 2025
+      - Baseline: 1.1M users in January 2024; 900K users in July 2024.
+   - KR2: Sign-ins to VA web/mobile properties with the MHC credential are reduced to less than 1M per month by Oct 31, 2024 and to less than 200K per month by Jan 31, 2025
+      - Baseline: 1.53M July '24 logins to VA.gov and the VA mobile app.
+KR3: Retire the MHV in the targeted timeframe (last day available is January 31,
+- Objective 2 Improve the Veteran sign-in experience. 
+   - Retiring the MHV credential is only one of the improvements we intend to make to the sign in experience in the coming months. Changes in these metrics will likely capture work related to and separate from the transition.
+   - KR1: Improve CSAT score from roughly 1.7 in FY24 rating to date to at least 2.2 by the end of Q2 FY2025 (March 2025).
+   - KR2: [In progress: determining a KR for how we've impacted contact center support calls]
 
-### Research Questions:
+## Veteran Journey
+Securely accessing VA online services can happen at any stage in the Veteran journey. The updated Sign-in page and modal will apply to everyone who signs into VA online and uses the authenticated experience.
 
-1. 
-    
-### Methodology:
--  Remote usability testing will evaluate the prototype with participants, in remote sessions over Zoom. We tested with both mobile and desktop users.
+## Research Goals
+- Test newly created sign in or create an account modal with updated language to inform veterans of upcoming changes to CSPs
+- Test preliminary interstitial content that provides more in-depth information about the MHV deprecation as part of the communications strategy 
+- Test the usability of a prototype for the sign in page and/or sign in modal
+- Explore veterans thinking around certain terms and phrases relating to sign in and credential migration
+messaging
 
-### Hypotheses and Conclusions:
+## Outcome
+Uncover areas for improvement with our design and content by allowing veterans to interact with our prototype. This will allow us to update the UI and content in a way that better encourages veterans to stop using a deprecated credential and to instead use a modern credential. We expect to find both immediate next steps and to uncover insights for future work.
 
-1. 
+## Research questions
+- Is our messaging clear enough to encourage veterans to make the transition and begin using the other CSPs? 
+- Do folks understand the content around credential deprecation and whether that applies to them and what does that mean going forward?
+- Do veterans understand the differences between MHV as a credential versus a site?
+- Do veterans still sign in with a deprecated credential if they choose to do so and bypass our attempt to steer them to Login.gov or ID.me?
+- Do veterans understand the language updates we plan to use to describe the benefits of a modern credential? 
+- What are veterans’ sentiments around the deprecation?
+- When would a veteran actually transition to Login.gov/ID.me?
+- Are there any other gotchas or pain points that come up?
+
+
+## Hypothesis
+- H1: Based on the content updates, veterans will understand that MHV as a credential will be going away soon.  -  **True**
+- H2: Veterans will be confused as to what will happen with the MHV site.  -  **Mostly True**
+- H3: Veterans will continue to use their MHV credential when they sign into VA.gov.  - **True**
+- H4: MHV credential users will not create a new modern credential if they are visiting VA.gov to complete a specific task.  -  **True**
+- H5: Veterans will wait until the last minute to transition to Login.gov/ID.me.  -  **True**
+- H6: Veterans will feel ambivalent about the messaging around credentials deprecation.  -  **True**
+
+
+## Methodology
+Remote usability testing will evaluate the prototype with participants. We’ll use Perigean’s Zoom account for these remote sessions
+
 
 ### Key Findings (General):
 Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`,  `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
+- Most participants we spoke to were already prepared for the change.
+- Our existing content and messaging is working. 
+- New content is clear but participants only scanned headings and CTA buttons, skipping over help links and microcopy.
+- Most will wait until the last minute to adopt the new sign in option. 
+- Most experienced technical issues setting up their modern account with Login.gov or ID. me.
 
 
 ### Key Findings (Design):
 Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
+- Sign-in Page
+  - Looked like what they’re already used to.
+  - 3/10 said they would sign in with their modern account because:
+    -The CTA was prioritized at the top of the page.
+  - 7/10 would continue to select the My HealtheVet sign in option because:
+    - It’s faster (fewer clicks).
+    - It’s familiar.
+    - Their password is saved on their browser or device.
+    - Their priority is completing their task quickly.
+- Interstitial Page
+  - Participants said the information was clear.
+  - Repeating the deadline in the heading increased the sense of urgency.
+  - 8/10 participants said they’d:
+    - sign in with their modern credentials 
+    - or create a modern account.
 
+### Key Findings (Sentiment):
+Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
+- Perception that setting up a new (modern) account will take too much time.
+- Discomfort with providing sensitive information to another website, such as SSN.
+- Frustration with scanning and uploading documents.
+- Liked the simplicity of fewer sign-in options and the ability to access everything in one place.
+- Some Veterans wanted more information to decide which modern account they should choose.
+- Veterans want easy access to support and expressed a preference for phone support or in-person support.
+- Veterans responded positively to learning about in-person signup days.
+- Veterans want reassurance that the new sign-in process will be easier for them.
 
-### Recommendations
 
 #### Recommendations - 
 
 |   | Recommendation  |
 |---|---|
-| 1 | Indicate time period for which the devices are shown e.g. 45 days.  |
-| 2 | Replace sign out button with “signed out” for devices that are no longer active.  |
-| 3 | Add in disclaimer that the user will be signed out of all sessions including the current session and will need to sign back in if they confirm “sign out of all devices”.  |
-| 4 | Hyperlink “changing your password” in the body text.  |
-| 5 | Work with Danielle Thierry  to create a communication plan for feature roll-out since this is a new user experience.  |
+| 1 | Implement new sign-in page and interstitial page for MHV users.  |
+| 2 | Collect metrics on new sign-in page and interstitial page to get more reliable data on behavior.  |
+| 3 | Audit user flows on desktop and mobile for account creation on Login.gov and ID.me.  |
+| 4 | Collaborate with Login.gov and ID.me teams on content improvements in the product and documentation.  |
+| 5 | Create (or update) service blueprints for MHV users transitioning to Login.gov and ID.me to identify gaps and opportunities to serve up specific help resources at the right time. |
 
 
 ### Who we talked to 
