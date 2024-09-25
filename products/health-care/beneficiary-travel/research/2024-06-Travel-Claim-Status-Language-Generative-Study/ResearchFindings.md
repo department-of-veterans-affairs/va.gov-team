@@ -39,10 +39,6 @@ The desired outcome of this study is a generative, first version set of recommen
 
 60 minute user interviews with 16 Veterans.  In addition to open ended questions, participants completed 2 exercises.  In Exercise #1, they labeled status definitions.  In Exercise #2, they completed an open card sort.
 
-Link to Conversation Guide
-
-Link to Mural with exercises
-
 
 ## **Key Insights**
 
