@@ -6,8 +6,10 @@
   * Review status of current work
   * Discuss changes in risks, dependencies, assumptions, resources, staffing or priority for the current / future sprints
   * Review insights from ongoing discovery or delivery work for the current / future sprints
-  * Triage new work
-  * POs reconfirm project priorities
+
+  * POs confirm Epic priorities
+     * Triage new Experience Team work
+   
   * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
      * Call out any Closed Epics
      * Call out unplanned work
