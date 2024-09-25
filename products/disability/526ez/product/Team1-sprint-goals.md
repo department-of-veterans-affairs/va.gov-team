@@ -13,10 +13,10 @@
 * Refine Submission Record & Tracking solution direction and align w OCTO
 
 **Other**
-* Discovery on Zero Silent Failures work
+* Discovery on Zero Silent Failures (ZSF) work
 * Address inconsistencies in Toxic Exposure metrics
-* Collab with Carbs on new high priority work.
-  * Accounting for unknowns re new items that arise out of priority discussions this week, and primarily any ZSF work.
+* Collab with Carbs on new high priority work
+  * Accounting for unknowns re new items that arise out of priority discussions this week, and primarily any ZSF work
 
 ## Sprint 6
 9/11 - 9/24
