@@ -1,4 +1,4 @@
-# Checklist for Patient Check-In
+# Checklist
 
 ## Start
 
