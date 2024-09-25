@@ -1,9 +1,13 @@
 # Help users to... Know when their information is prefilled
-`USE WITH CAUTION: CANDIDATE OR AVAILABLE?`
+`USE WITH CAUTION: CANDIDATE`
 
 Follow this pattern to help users know when their information will be prefilled for them in an application. 
 
-View [Help users to... Update their prefilled information](#link to other pattern) for guidance on helping users update this prefilled information.
+View [Help users to... Know how their information is updated](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) for guidance on helping users update this prefilled information.
+
+📝 Note: We need to decide whether this pattern will be added to VADS at the same time as the other one.
+- If it is, then we can link to the other one.
+- If it isn't, we need to only link to the existing pattern . For the sake of consistency, I'm going to update the links to link to the existing pattern for now.
 
 ### Resources
 - [Research](Link to research repo filtered for issues containing pattern label [like this](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+label%3A%22DSC%3A+Help%20users%20know%20how%20their%20info%20is%20updated%22))
@@ -18,7 +22,7 @@ View [Help users to... Update their prefilled information](#link to other patter
 ## Usage
 ### When to use this pattern
 - **When you prefill the user's data into an application, like a form.** When using this pattern, clearly inform the user of where their data is being pulled from to prefill for them.
-- **When users can update prefilled information.** View [Help users to... Update their prefilled information](#link to other pattern) for guidance on helping users update prefilled information.
+- **When users can update prefilled information.** View [Help users to... Know how their information is updated](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) for guidance on helping users update this prefilled information.
 
 #### Design Principals
 - **Visibility of system status.** This pattern demonstrates the usability principle of communicating the current state to help users feel in control and take appropriate action. [Learn more about Visibility of system status](https://www.nngroup.com/articles/visibility-system-status/).
