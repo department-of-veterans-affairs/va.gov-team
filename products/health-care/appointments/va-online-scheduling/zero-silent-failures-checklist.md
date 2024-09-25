@@ -406,7 +406,7 @@ Please document the outcome of this conversation in your product's documentation
         - [ ] Yes
         - [ ] No
 
-Possible silent errors
+### Possible silent errors
 - [PR] Clinic phone numbers being disabled or mis-entered
 - [PR] Staff data coming through the "details about your concern" field
 - [PR] Data missing from video appointments
@@ -420,7 +420,7 @@ Possible silent errors
 
 If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md). That diagram will help us to help you and your team to create this user experience.
 
-Link to user flow diagram:
+### Link to user flow diagram:
 
 - VA Direct Schedule Flow
 - COVID Vaccine Flow
