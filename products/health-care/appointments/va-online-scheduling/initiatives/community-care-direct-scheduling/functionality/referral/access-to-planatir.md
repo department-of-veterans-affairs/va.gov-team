@@ -7,6 +7,12 @@
 
 <img width="600" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/user-attachments/assets/ab9fee1f-eafa-4c66-b6f7-80a0cb9be9a6c"><br/>
 
+#### Purpose of use
+
+```
+As part of the Cleland Dole Act, working with OCTO, IVC, PMD, and HVA, the VAOS FE Team (VAOS) within OCTO needs access to CDW to pull referrals and referral information that's created in HSRM and stored in CDW. The referrals will be used to enable Veterans to digitally self-schedule VA authorized community care appointments within the fully authenticated VAOS experience on VA.gov. This request includes access to the "Staff" table since referrals are entered by staff members. Supervisors for this initiative include Stephen Barrs, Robert Meehan, and Richard Marble within OCTO, IVC, and OIT.
+```
+
 ----
 
 <img width="600" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/user-attachments/assets/bdd83f55-7876-4e22-a047-48d0d8a2e523"><br>
