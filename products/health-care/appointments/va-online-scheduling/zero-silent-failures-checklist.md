@@ -220,18 +220,19 @@ If not, start directing errors in Datadog to a dedicated Slack channel. See [#ve
 
 Link to channel where alerts are populated: [#appointments-alerts](https://dsva.slack.com/archives/C016QB6T340)
 
-- [ ] Does more than one person look at the Slack notifications channel containing errors on a daily basis?
-    - [ ] Yes
+- [x] Does more than one person look at the Slack notifications channel containing errors on a daily basis?
+    - [x] Yes
     - [ ] No
 
 - [JL] Theoretically we do, and there’s a schedule [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/application-monitoring/VAOS%20Alerts%20On%20Call%20Roster.md). However, we haven’t been following this since August. Though I often see Jeff, Corey and Nicholas being active in the slack channel.
 
 If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
-- [ ] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
-    - [ ] Yes
+- [x] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
+    - [x] Yes
     - [ ] No
  - [JL] Yes we do. While we usually acknowledge issues in the slack channel directly using comments and threads, we can adopt the recommended methods listed in the linked document.
+ - [JL] We've decided to revisit how we respond to issues given the platform recommendations but we'll keep the current alert channel name of #appointments-alerts.
 
 If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
