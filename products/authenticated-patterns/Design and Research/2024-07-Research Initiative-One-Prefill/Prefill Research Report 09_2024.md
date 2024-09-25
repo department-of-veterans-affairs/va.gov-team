@@ -289,8 +289,8 @@ All of our research can be found [in this folder](https://github.com/department-
 We talked to **10 participants.**
 
 Gender:
-* Male: 7
-* Female: 3
+* Male: 6
+* Female: 4
 * Unknown: 0
 
 LGBTQ+:
