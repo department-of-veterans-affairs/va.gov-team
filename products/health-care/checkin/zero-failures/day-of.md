@@ -40,7 +40,7 @@
 
 * [x] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
   * Yes;
-    * [Initiate Check-In/"Day Of"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#initiate-check-in)
+    * [Initiate Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#initiate-check-in)
     * [Start Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#start-check-in)    
     * [Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#check-in)
 * [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
