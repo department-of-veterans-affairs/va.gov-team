@@ -4,6 +4,8 @@
 
 Veterans and others can access information about accredited representatives (i.e. VSOs, attorneys, claims agents) on the [Find a Rep tool](https://www.va.gov/get-help-from-accredited-representative/find-rep/) and the [OGC Accreditation Search](https://www.va.gov/ogc/apps/accreditation/index.asp). The information on these tools is often out of date. Updating contact information is a highly manual process managed by the Office of General Counsel (OGC). We aim to design something that is more efficient for both representatives and OGC, leading to more reliable information for Veterans. This will be one feature in the **Accredited Representative Portal (ARP)**, which is envisioned to be a one-stop-shop for accredited representatives to get accredited and support Veterans and their dependents with their claims. 
 
+**For more information on this product, view the [contact information updates product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/contact-information-updates-product-outline.md).**
+
 ## The end user
 
 Accredited attorneys and claim agents can update their contact information by contacting OGC (verify). However, VSO reps are told to contact their certifying official, who will request an information update for them. Because VSO reps can't update their information directly, we aren't currently including them as direct users of this feature. We have personas for attorneys and claim agents, but don't yet have one for certifying officials.
