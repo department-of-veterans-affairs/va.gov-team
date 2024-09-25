@@ -422,9 +422,9 @@ If not, don't worry. Few teams are doing this and we'll be providing resources t
 
 ### Link to user flow diagram:
 
-- VA Direct Schedule Flow
-- COVID Vaccine Flow
-- VA Request Flow
-- CC Request Flow
+- (VA Direct Schedule Flow)[https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3649&t=cc4aBjvQIeqdAjYg-1]
+- (COVID Vaccine Flow)[https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3569&t=cc4aBjvQIeqdAjYg-1]
+- (VA Request Flow)[https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3877&t=cc4aBjvQIeqdAjYg-1]
+- (CC Request Flow)[https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3760&t=cc4aBjvQIeqdAjYg-1]
 - Manage Appointments Flow
 - Cancellation Flows
