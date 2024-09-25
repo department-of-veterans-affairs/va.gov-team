@@ -64,7 +64,7 @@ In addition to the above content, the below files may be helpful in understandin
 - **Design Lead:** Lesley Ropp - [lesley.ropp@va.gov](mailto:lesley.ropp@va.gov)
 - **Product Manager:** Mike Marinos - [mike@agile6.com](mailto:mike@agile6.com)
 - View the [full ARF team roster](https://github.com/orgs/department-of-veterans-affairs/projects/947/views/4)
-- View the [Stakeholder Engagement Tracker](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EQgtn4jarAlBrIzHbxXaRnsBwyQxcNxleqUfl6QEAuaxTA?e=K8wCho) (Sharepoint) and [Rep Facing Stakeholder Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696447082781/01a5c0865df77c97693ac51b36a61a989c8f9fba?sender=u2a4240a640b257ce33545495) (Mural)
+- View the [Stakeholder Engagement Tracker](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EQgtn4jarAlBrIzHbxXaRnsBwyQxcNxleqUfl6QEAuaxTA?e=kCEQav) (Sharepoint) and [Rep Facing Stakeholder Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696447082781/01a5c0865df77c97693ac51b36a61a989c8f9fba?sender=u2a4240a640b257ce33545495) (Mural)
 
 ### Stay Connected
 
