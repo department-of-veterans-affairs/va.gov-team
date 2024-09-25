@@ -220,6 +220,10 @@ Users can opt into running public prototypes through Codespaces by configuring t
 - Issue: [TMF Auth Exp Design Patterns #110](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/110)
 - Codespaces documentation: [GitHub Codespaces](https://docs.github.com/en/codespaces)
 
+### Codespace Walkthrough Video
+
+![Codespace walkthrough video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/engineering/Codespaces-public-setup.mp4)
+
 ## Extra Notes on Cost and Performance
 
 The higher priced Codespaces are required when you need to run content-build to get static content into your codesapce. If we could use lower cost machines when content-build is not needed, then we could significantly reduce cost.
