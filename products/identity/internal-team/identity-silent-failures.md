@@ -1,52 +1,48 @@
-[link to thread](https://dsva.slack.com/archives/C06JLV08D32/p1726784377692059)
+## Start
 
-### [VA.gov](http://VA.gov) Authentication Checklist
-
-### Start
-
-- [ ]  Do you know when your application shipped to production?
+- [x]  Do you know when your application shipped to production?
     - JPN: *The current version has existed since at least 2017*
-- [ ]  Did your application use the same APIs when it shipped as it does today?
+- [x]  Did your application use the same APIs when it shipped as it does today?
     - JPN: *We use some of the same and new ones*
 
-### Monitoring
+## Monitoring
 
-- [ ]  Do you monitor the API that you submit to via Datadog?
+- [x]  Do you monitor the API that you submit to via Datadog?
     - [MAP](https://vagov.ddog-gov.com/dashboard/8j2-b5n-kic/identity-map-securitytoken-service?fromUser=false&refresh_mode=sliding&from_ts=1727213098415&to_ts=1727299498415&live=true)
         - [Alert link 1](https://vagov.ddog-gov.com/monitors/204497)
         - [Alert link 2](https://vagov.ddog-gov.com/monitors/233525)
     - [MPI](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=true&refresh_mode=paused&from_ts=1727285025593&to_ts=1727299425593&live=false&tile_focus=9002221376328820)
         - [Alert link 1](https://vagov.ddog-gov.com/monitors/200810)
         - [Alert link 2](https://vagov.ddog-gov.com/monitors/238295)
-- [ ]  Does your Datadog monitoring use the appropriate tagging?
+- [x]  Does your Datadog monitoring use the appropriate tagging?
     - Yes all our monitors have the identity team tag
-- [ ]  Do errors detected by Datadog go into a Slack notifications channel?
+- [x]  Do errors detected by Datadog go into a Slack notifications channel?
     - yes, [channel link](https://dsva.slack.com/archives/C02SBFQ22RL)
-- [ ]  Does more than one person look at the Slack notifications channel containing errors on a daily basis?
+- [x]  Does more than one person look at the Slack notifications channel containing errors on a daily basis?
     - yes, we also page on call staff for high priority issues
-- [ ]  Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
+- [x]  Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
     - yes, we have an [incident response process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/Monitoring%20and%20Alerting/Monitors_Alerts_Datadog.md) for Datadog alerts (currently being updated)
 
-### Reporting errors
+## Reporting errors
 
-- [ ]  Have you filed issues for errors that are appearing in Datadog / Slack?
-    - [ ]  Yes we file all bug fix and incident tickets in JIRA
-- [ ]  Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
+- [x]  Have you filed issues for errors that are appearing in Datadog / Slack?
+    -  Yes we file all bug fix and incident tickets in JIRA
+- [x]  Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
     - Yes, a list of frontend errors can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Troubleshooting_logging).
     - There are also backend related errors that a user may not be made aware of. These are listed in the Services section below.
 
-### Documentation
+## Documentation
 
-- [ ]  Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
+- [x]  Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
     - Diagrams added to [folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/identity)
-- [ ]  Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
+- [x]  Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
     - yes, indicated in the Services section below
-- [ ]  Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+- [x]  Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
     - MPI would be the only system that falls into this category. Working with my PO to get the proper acknowledgement.
 
-### User experience
+## User experience
 
-- [ ]  Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on [VA.gov](http://va.gov/) or the mobile application?
+- [x]  Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on [VA.gov](http://va.gov/) or the mobile application?
     - Yes, frontend errors are documented [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Troubleshooting_logging) and diagrams for flows [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/identity).
 
 ## Silent Failures
