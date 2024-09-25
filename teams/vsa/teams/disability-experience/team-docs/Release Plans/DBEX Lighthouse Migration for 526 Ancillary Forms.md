@@ -4,6 +4,14 @@
 The purpose of this release plan is to document and align the delivery teams and stakeholders on what will be delivered and when. 
 
 ## Feature description
+There are several ancillary jobs that submit various documents to EVSS after a Form 526 is successfully submitted. As with the Form 526 submission itself, these document upload jobs need to be submitted to Lighthouse instead of EVSS. In this case, we will use the Lighthouse Benefits Documents API.
+
+This release plan refers to the following forms: 
+- BDD Instructions, the cover sheet that accompanies the 526 submission to EVSS/LH
+- Veteran evidence documents, the Veteran file uploads for disability claim evidence 
+- PTSD Ancillary, the 0781 and 0781a data for PTSD claims
+
+Note: 526 Submission - refers to the 526e primary data only, and the migration to LightHouse has already been completed. 
 
 
 ## Project goals
