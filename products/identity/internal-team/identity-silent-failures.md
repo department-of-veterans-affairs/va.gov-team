@@ -37,7 +37,7 @@
     - Diagrams added to [folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/identity)
 - [x]  Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
     - yes, indicated in the Services section below
-- [x]  Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+- [ ] **TODO**  Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
     - MPI would be the only system that falls into this category. Working with my PO to get the proper acknowledgement.
 
 ## User experience
