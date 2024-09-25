@@ -1,6 +1,6 @@
 # CST: Eliminate Evidence Submission Silent Failures Initiative
 
-* GitHub Label: cst-evidence-silent-failures
+* GitHub Label: zero-silent-failures
 * Slack channel: #benefits-management-tools
 * Product: CST
 * GitHub Issue: 
