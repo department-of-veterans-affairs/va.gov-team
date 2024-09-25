@@ -29,12 +29,12 @@ We have focused on 3 main features or work streams within ARP: [Form 21a digitiz
 The paragraphs below summarize our 3 main work streams. Proposed next steps for each are included in the pages linked to at the end of each summary.
 
 ### Form 21a digitization (representative accreditation)
-Before attorneys or claims agents can help Veterans with claims, they need to become accredited through VA. To become accredited, they need to submit Form 21a, which the Office of General Counsel (OGC) uses to verify the applicant’s credentials and reputation. Claims agents then need to complete a written test verifying they have sufficient knowledge of the claims process.
+Before attorneys or claims agents can help Veterans with claims, they need to become accredited through VA. To become accredited by submitting the Form 21a. Office of General Counsel (OGC) uses this form to verify the applicant’s credentials and reputation. Claims agents then need to complete a written test verifying they have sufficient knowledge of the claims process.
 
 This form is currently a paper form. OGC would like to cut down on the time needed to process the form by digitizing it. ARF began this process and documented next steps and relevant resources on the [21a Digital Accreditation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md) page.
 
 ### Form 21-22 (power of attorney) accept/decline
-The first work stream our team tackled was Form 21-22 (power of attorney) accept/decline. In order to work with an accredited representative, a Veteran must file Form 21-22, which gives the representative power of attorney. VA is looking to streamline the process through which accredited reps can accept Form 21-22. We envision this being one of the first features released within ARP. 
+The first work stream our team tackled was Form 21-22 (power of attorney) accept/decline. In order to work with an accredited representative, a Veteran must file Form 21-22, which gives the representative limited power of attorney. VA is looking to streamline the process through which accredited reps can accept Form 21-22. We envision this being one of the first features released within ARP. 
 
 ARF spent the most time working on this work stream, but eventually broadened our work to include other work streams, described below. Our research, design and engineering for 21-22 is documented on the [Form 21-22 (Power of Attorney)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md) page.
 
