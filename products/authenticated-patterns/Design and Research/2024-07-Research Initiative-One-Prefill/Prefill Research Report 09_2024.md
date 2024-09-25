@@ -9,7 +9,10 @@ Christine Rose Steiffer [christine.steiffer@agile6.com | christine.steiffer@va.g
 **Jump to:**
 
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
-- [Key Prefill pattern findings](#key-prefill-pattern-findings)
+- [Prefill pattern findings](#prefill-pattern-findings)
+- [Update Prefill pattern findings](#update-prefill-pattern-findings)
+- [Additional findings](#additional-findings)
+- [Details of findings](#details-of-findings)
 - [Recommendations](#recommendations)
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
@@ -76,7 +79,7 @@ We presented scenarios testing the following variations:
 |Users want to be informed if their data is not updating to their profile.|Definitely True|Users cared a lot about being very clear on where their data and updates were saving|
 |The confirmation alert will help users understand when their data has been updated. |Definitely True|Most participants read the alert text the first time and understood where their data would save.|
 
-## Key Prefill pattern findings
+## Prefill pattern findings
 
 1. Veterans don’t understand what is meant by ‘profile data’ and some conflate VA.gov data with their method of authentication (Login.gov, ID.me or MHV).
 2. Veterans want to see the prefill alert at the top of the Intro page, on the prefill confirm page, and on the edit prefilled data page.
@@ -89,14 +92,13 @@ We presented scenarios testing the following variations:
 
 1. While most people expected their updates to save to their profile, many could think of examples of when they might want to choose whether the update saves to the just form or to their profile as well.
 2. While some people wanted the ability to edit on the same page, most people expected the ‘Edit’ button to take them to a new page.
-3. Users expect to see their ‘old’ data within the form fields themselves on the edit page
+3. The option to edit ‘old’ data within the form field itself was widely preferred on the edit page. 
 
 ## Additional findings
 
-1. There is confusion between the autosave feature and the edit process. 
-2. Users find calling the VA to be a pain and avoid it if  possible, sometimes opting to drive a long distance to see someone in person rather than trying to solve their problem over the phone
-3. Sharing on mobile is hard
-4. Signing in is difficult for users
+1. It is not always clear to people the difference between the autosave feature and updating their prefilled data.
+2. The process of signing in is difficult and confusing.
+3. Sharing a prototype on mobile is hard.
 
 ## Details of findings
 
@@ -164,6 +166,7 @@ One participant did express concern at the instruction to change your name or ot
 
 > "It’s going to be more likely that Veterans are going to trust and use the site [after reading this message]." P9
 
+
 ## Update Prefill Findings
 
 ### Finding 1: While most people expected their updates to save to their profile, many could think of examples of when they might want to choose whether the update saves to the just form or to their profile as well.
@@ -188,59 +191,35 @@ It was clear to most participants that editing their information would happen on
 
 > "The more [pages] I have to click through, the more I’m worried that maybe I took a misstep somewhere." P1
 
-
-
-### Finding 3: Users expect to see their ‘old’ data within the form fields themselves on the edit page
+### Finding 3: The option to edit ‘old’ data within the form field itself was widely preferred on the edit page. 
 
 _Labels: `Pattern: Update their prefilled information`_
 
-P#
+Many participants expected to see their ‘old’ data inline within the form fields and felt this was a standard way to display the information. While some liked the styling of the information in the gray box, 8 out of 10 participants said they would prefer to see their information directly within the form fields. This was partially due to the convenience of being able to change some but not all of their information, like if a phone number has a typo.
 
+One participant mentioned their association of the color gray with meaning they could not edit the information, so the gray card made more sense to them. 
 
+> "I would think its pretty standard [to see my old data inline]" P13
 
-> "Quote" P[#]
+> "[When you’re] an old man with… fat fingers.. all I gotta do is change [the typo] and leave everything else." P3
 
-> "Quote" P[#]
 
 ## Additional insights
 
-### Finding 1: There is confusion between the autosave feature and the edit process.
+### Finding 1: It is not always clear to people the difference between the autosave feature and updating their prefilled data.
 
 _Labels: `test`_ 
 
-P#
+Although we had no specific questions about the autosave alert, seven participants organically brought it up. While it was a popular feature, it appeared to sometimes compete with people’s understanding of changes getting saved to their profile or even completing the form itself. 
+
+> "[On the Prefill Check page] It’s saying my request has been saved… so basically they are saying that they received my Board of Appeals request… But I haven’t actually sent [in the request. I guess] it just has been saved for like the moment." P4
+
+> "’Save your application on every change’ is ok but again, that… brings up the question of like, well, do I have to click save or not first?" P2
+
+> “I know the save has been updated with this application [based on reading the autosave alert] but it doesn’t say they’ve updated my VA with this info” P9
 
 
-
-> "Quote" P[#]
-
-> "Quote" P[#]
-
-“I know the save has been updated with this application (based on reading the autosave alert) but it doesn’t say they’ve updated my VA with this info” (P9)
-
-
-### Finding 2: Users find calling the VA to be a pain and avoid it if  possible, sometimes opting to drive a long distance to see someone in person rather than trying to solve their problem over the phone
-
-_Labels: `test`_ 
-
-P#
-
-
-
-> "Quote" P[#]
-
-> "Quote" P[#]
-
-### Finding 3: Sharing a prototype on mobile is hard.
-
-_Labels: `test`_ 
-
-We specifically recruited participants to join from a mobile device so that we could be mobile-first in our approach to testing this design pattern. The average time it took for participants to share the prototype on their mobile device was just under seven minutes. There were three participants that took longer than ten minutes to share the prototype from their phone, and for one participant we decided it would be easier if the moderator just shared their screen. 
-
-> "I use DuckDuckGo [a browser which doesn’t like sharing things]. Let me try something else." P6
-
-
-### Finding 4: The process of signing in is difficult and confusing.
+### Finding 2: The process of signing in is difficult and confusing.
 
 
 _Labels: `test`_
@@ -252,15 +231,34 @@ We heard from a variety of people that they struggle with the sign in process. O
 > "It would be a lot simpler for me and everybody else if there was only one place to go to get a verified account. And with the REAL ID coming about next year and all this Login.gov and ID.me... I mean, why are there three of them?!" P5
 
 
+### Finding 3: Sharing a prototype on mobile is hard.
+
+_Labels: `test`_ 
+
+We specifically recruited participants to join from a mobile device so that we could be mobile-first in our approach to testing this design pattern. The average time it took for participants to share the prototype on their mobile device was just under seven minutes. There were three participants that took longer than ten minutes to share the prototype from their phone, and for one participant we decided it would be easier if the moderator just shared their screen. 
+
+> "I use DuckDuckGo [a browser which doesn’t like sharing things]. Let me try something else." P6
+
 
 ## Recommendations
 
-1. Create guidance advising pattern users to include the alert at the top of their first form page, as well as including it on pages with relevant editable prefilled information. The alert should also be found on the page that allows users to edit prefilled information, but NOT on pages where data is not prefilled or where prefilled data cannot be edited.
-2. One general comment that a participant made was that they expected to see the data that is editable in a different style component from the data that is locked. We should explore this idea in our next research study to see if we can get any further conclusive results.
-3. We should work with CAIA to make the language around where prefill data comes from and is saved very clear and understandable, then test those variations in our next round of research.
-4. Work with CAIA to confirm our instructions are correct, and include content recommendations the focus on the ‘why’ of not allowing updates directly on the site.
-5. Test inline editing with AT users during our next study to ensure this pattern is accessible
-6. Include a task where users can choose where their data saves in our next round of testing
+### Prefill pattern
+Add language to the prefill alert that makes it clear exactly where their information comes from and is saved.
+Create guidance advising pattern users to include the alert at the top of the form intro page, as well as on Prefill check pages that show editable prefilled information. The alert should also be found on the page that allows users to edit prefilled information.
+Bold the word ‘Note’ at the beginning of the text block that advises people how to update locked information.
+Test a variation in the next research study that shows a gray card for locked data and a white card with a border for data that is editable on the Prefill check page to see if there is a stronger opinion on the style one way or the other.
+Work with CAIA to improve the instructions around updating locked personal information.
+
+### Update Prefill pattern
+Test a variation in our next research study that allows people to select where their updates get saved.
+Test a variation in our next research study that includes edits from the review page to ensure this meets expectations.
+Test a variation with AT users in our next research study that features inline editing to ensure this pattern is accessible.
+
+### Additional recommendations
+
+Work with the Veteran Facing Forms team as they study the autosave feature and how people understand it in relation to editing their prefilled data.
+Share findings around sign in difficulty with appropriate VA design teams.
+Work with Perigean to improve our instructions or method for working with users that will share on a mobile device.
 
 ## Next steps
 
@@ -268,16 +266,21 @@ We heard from a variety of people that they struggle with the sign in process. O
 
 ## Further research needed
 
+We are currently working on our next research study that will continue to look at the Update Prefill pattern. Please review the latest updates in that study’s research folder [here]().
+
+
 ## Appendix
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/Prefill%20Research%20Plan%2008_19_2024.md)
--[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/Prefill%20Research%20Conversation%20Guide%2008_19_24.md)
--[Transcripts](https://dvagov.sharepoint.com/:f:/r/sites/TMFAuthenticatedExperienceDesignPatterns/Shared%20Documents/General/Research%20and%20Design/Research%20Artifacts/Prefill%20Research%20Study/Recordings%20and%20Transcripts?csf=1&web=1&e=mvYXf9)
+* [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/Prefill%20Research%20Plan%2008_19_2024.md)
+ 
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/Prefill%20Research%20Conversation%20Guide%2008_19_24.md)
+
+* [Transcripts](https://dvagov.sharepoint.com/:f:/r/sites/TMFAuthenticatedExperienceDesignPatterns/Shared%20Documents/General/Research%20and%20Design/Research%20Artifacts/Prefill%20Research%20Study/Recordings%20and%20Transcripts?csf=1&web=1&e=mvYXf9)
 
 ## Tools used for synthesis
+* [EnjoyHQ](https://app.enjoyhq.com/projects/2XaWM5J6Q/plan)
 
-- [EnjoyHQ](https://app.enjoyhq.com/projects/2XaWM5J6Q/plan)
--[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724781626434/81bcfbf107fa7ca5f229d3b8406d9da6bd3acab3?wid=0-1725474764608)
+* [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724781626434/81bcfbf107fa7ca5f229d3b8406d9da6bd3acab3?wid=0-1725474764608)
 
 ## Pages and applications used
 - [Codespaces Prototype]()
