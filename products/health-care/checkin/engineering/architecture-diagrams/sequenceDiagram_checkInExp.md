@@ -442,6 +442,9 @@ sequenceDiagram
         vaw->>+van: POST /notifications/sms
         van--)-vaw: 201 created
         van-)vet: sms "duplicate claim"
+    else timeout
+        vaw->>bt: POST /submitclaim
+        note right of vaw: see BTSSS timeout SD
     else unknown error
         vaw->>+bt: POST /submitclaim
         bt--)-vaw: unknown error
