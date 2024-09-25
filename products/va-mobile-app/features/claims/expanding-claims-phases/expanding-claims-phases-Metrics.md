@@ -3,8 +3,8 @@ This page contains quantitative data intended to measure recent changes to certa
 
 ### Metric Description
 
-| Category | Metric Type | Metric | Description | Hypothesis | Numerator | Denominator |
-| -------- | -------- | ---------- | -----------------| -----------------|
+| Category | Metric Type | Metric | Description | Hypothesis | Numerator | Denominator 
+| -------- | -------- | ---------- | ---------- | ---------- | -------| -------|
 |Engagement|Leading|Get Claims Letter Click Rate| Measure rate at which Veterans Click the 'Get Claims Letters'|Veterans would have increased rate of engagement with the button |# of sessions Veterans has Clams letter and clicks it |# of sessions where Veteran has claims letter available |
 |Engagement|Leading|Claim details tab click rate| Measures the rate at which Veterans click the Files Tab|Veterans will view this tab longer, more often since there is an increase in value| # of sessions where Veteran Clicks the Details tab| # of sessions where Veteran has files associated with the claim |
 |Engagement|Leading|Disagree (panel content) click rate|Measures the rate at which Veteran clicks on the link on a Closed claim|Veterans will click on this link more often since it is contextual to the Claim's Closed state| # of sessions where Veteran Clicks disagree Panel |# of session where Veteran sees disagree Panel  |
