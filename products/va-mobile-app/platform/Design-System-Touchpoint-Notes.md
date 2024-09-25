@@ -1,4 +1,4 @@
-Meeting time: Bi-weekly Thursdays 3:35pm ET-4:00pm ET
+Meeting time: Bi-weekly Wednesdays 1:05pm ET-1:30pm ET
 Agenda:
 
 *   Discuss any blockers or open questions on the Mobile Design System work
