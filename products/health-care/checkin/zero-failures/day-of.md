@@ -21,7 +21,7 @@
     * Monitors
       * [High Error Rate](https://tevi.ddog-gov.com/monitors/277782)
 * [x] Does your Datadog monitoring use the appropriate tagging?
-  * Yes; all monitors use required tags.
+  * Yes; all monitors use required tags. We have opened a ticket for adding dependency tags.
 * [x] Do errors detected by Datadog go into a Slack notifications channel?
   * Yes: `#check-in-monitoring`.
 * [x] Does more than one person look at the Slack notifications channel containing errors on a daily basis? 
