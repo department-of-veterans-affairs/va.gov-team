@@ -12,11 +12,11 @@ If not, then you'll need to consider the path user data took through both the cu
 
 **Monitoring**
 
-- Do you monitor the API that you submit to via Datadog? Yes
+- Do you monitor the API that you submit to via Datadog? **Yes**
 
 If not, set up monitoring in Datadog.
 
-- Does your Datadog monitoring use the appropriate tagging? Yes #93151
+- Does your Datadog monitoring use the appropriate tagging? **Yes #93151**
 
 If not, implement tagging standards. Adding the dependency tag is highly recommended!
 
@@ -49,7 +49,7 @@ Documentation
 If not, then create a user data flow diagram that captures this information.
 
 
-- Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? **Working on this, story** #[93490](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/93490)
+- Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? **Yes and included in our data flow diagram**
 
 If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
