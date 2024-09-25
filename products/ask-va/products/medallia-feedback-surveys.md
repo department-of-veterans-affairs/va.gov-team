@@ -2,10 +2,11 @@
 Updated by @beckyphung on: September 25, 2024
 
 ## Background
-We will include two Medallia surveys in the Ask VA flow, an intercept survey and a feedback button. The intercept survey will interrupt 5% of users based on a triggering event (a step in the flow). 
-The feedback button will show a feedback survey (2 questions) when a user clicks on the feedback button, which will be available on all pages. Both surveys are shown in modals.
+We will include two Medallia surveys in the Ask VA flow, an intercept survey and a feedback button. 
+- The intercept survey will interrupt 5% of users based on a triggering event (a step in the flow). 
+- The feedback button will show a feedback survey (2 questions) when a user clicks on the feedback button, which will be available on all pages.
 
-We will add these surveys to ask.va.gov (to establish a baseline) and Ask VA on VA.gov at va.gov/contact-us/ask-va.
+Both surveys are shown in modals. We will add these surveys to ask.va.gov (to establish a baseline) and Ask VA on VA.gov at va.gov/contact-us/ask-va.
 
 ## Intercept survey
 🚧 9/10 note: we're still working with the VSignals team to determine the trigger for the intercept survey. See details for our intercept survey below.
