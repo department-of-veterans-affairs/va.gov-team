@@ -12,11 +12,9 @@ This section has documentation for Zero Silent Failures, an initiative to elimin
 - [Third Party Connections](./third-party-connections.md)
 
 ## Sequence Diagrams
-- [Initiate Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#initiate-check-in)
-- [Start Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#start-check-in)
-- [Authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#authentication)
-- [Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#check-in)
-- [Check-In + Travel Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#check-in---travel-claims)
+- [Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_checkInExp.md#initiate-check-in)
+- [Pre-Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_preCheckInExp.md)
+- [Authenticated Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/architecture-diagrams/sequenceDiagram_full_auth_checkInExp.md)
 
 ## Other Diagrams
 
