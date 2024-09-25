@@ -311,7 +311,7 @@ _Our [architecture diagram](https://github.com/department-of-veterans-affairs/va
         - [ ] Yes
         - [ ] No
     - Manage Appointments Flow
-        - [ ] Yes
+        - [x] Yes [JL]
         - [ ] No
     - Cancellation Flows
         - [x] Yes [JL]
@@ -380,7 +380,7 @@ Link to user flow diagram:
     - Cancellation Flows
         - [ ] Yes
         - [ ] No
- - [JL] This will likely be a large work item since we’ll need to coordinate with OCTO to obtain agreements with all the systems listed in the diagram [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png).
+ - [JL] This will likely be a large work item since we’ll need to coordinate with OCTO to obtain agreements with all the systems listed in the diagram [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png). But I feel that we will not need to take much action other than communicating what services we depend on.
 
 If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
 Please document the outcome of this conversation in your product's documentation in Github and link here:
