@@ -12,7 +12,8 @@
   -   Affected VA Location: Select specific location. If impacting all locations, select any one and include "Impacting all VA locations" in the detailed description field.
   -   Affected Oracle System or Application: Select ```EHRM Powerchart```
   -   EHRM Type: Select ```Electronic Health Record Modernization```
-  -   Detailed Description: For FHIR team, include ```FHIR error received by VEText service account - please engage FHIR team.``` Also include additiona information about: Impacted Locations, Impacted Appointment Types, Error information, and appropriate Request IDs for FHIR calls.
+  -   Detailed Description: For FHIR team, include ```FHIR error received by VEText service account - please engage FHIR team.``` Also include additiona information about: Impacted Locations, Impacted Appointment Types, Error information, and appropriate Request IDs for FHIR calls (Pneumonic for FEHR IRC calls: `USVA DC`)
+
   -   Check the ```The device I am looking for is not on the list```
   -   Please enter the Name, EE Number and/or hostname of the affected system: Type ```N/A```
   -   Click Submit button (on the right)
@@ -50,7 +51,7 @@ To escalate a Production issue for immediate engagement, contact Oracle Health's
   -   Affected VA Location: Select specific location. If impacting all locations, select any one and include "Impacting all VA locations" in the detailed description field.
   -   Affected Oracle System or Application: Select EHRM Powerchart
   -   EHRM Type: Select Electronic Health Record Modernization
-  -   Detailed Description: For FHIR team, include "FHIR error received by VEText service account - please engage FHIR team." Also include additiona information about: Impacted Locations, Impacted Appointment Types, Error information, and appropriate Request IDs for FHIR calls.
+  -   Detailed Description: For FHIR team, include "FHIR error received by VEText service account - please engage FHIR team." Also include additiona information about: Impacted Locations, Impacted Appointment Types, Error information, and appropriate Request IDs for FHIR calls (Pneumonic for FEHR IRC calls: `USVA DC`).
   -   Check the "The device I am looking for is not on the list"
   -   Please enter the Name, EE Number and/or hostname of the affected system: Type "N/A"
   -   Click Submit button (on the right)
