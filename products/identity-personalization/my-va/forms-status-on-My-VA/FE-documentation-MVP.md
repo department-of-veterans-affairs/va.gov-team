@@ -23,7 +23,7 @@ In addition, this documentation accounts for possible scenarios in which no draf
 - PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
 
 ## When to show the ‘Benefit applications and forms' section
-We show this section for every LOA3 user.
+We show this section for every LOA3 user. LOA1 users will continue to see forms in draft state.
 
 ---
 
