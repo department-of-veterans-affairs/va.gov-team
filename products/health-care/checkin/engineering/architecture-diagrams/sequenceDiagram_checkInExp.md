@@ -24,7 +24,7 @@ sequenceDiagram
   participant va as Vista API
   participant l as LoROTA
   participant url as URL Shortener Service
-  participant val as VistALink
+  participant val as VistA Stations
 
   alt veteran initiated check-in
     vet->>+vt: text "check-in"
