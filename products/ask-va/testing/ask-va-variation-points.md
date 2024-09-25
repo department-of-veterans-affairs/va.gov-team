@@ -46,5 +46,5 @@ These are points at which the dashboard may change for the submitter.
 
 |Point when form changes|Different options|Result|Reference|
 |:--|:--|:--|:--|
-|Whether submitter had previous inquiries|Submitter has 0 inquries or previous inquiries|Whether cards appear in dashboard|[Home page (Unauthenticated) (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=3312-56070) and [Dashboard without cards](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=157-3146&node-type=canvas&t=zM02niVhCfrNIhD2-0)|
+|Whether submitter had previous inquiries|Submitter has 0 inquries or previous inquiries|If at least 1 previous inquiry, cards appear in dashboard|[Home page (Unauthenticated) (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=3312-56070) and [Dashboard without cards](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=157-3146&node-type=canvas&t=zM02niVhCfrNIhD2-0)|
 |Whether submitter has previously submitted a business inquiry|Submitter has 0 business inquiries or at least 1 business inquiry|If at least 1 business inquiry, Business and Personal tabs appear|[Dashboard: With cards and sorting (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1224-131181)|
