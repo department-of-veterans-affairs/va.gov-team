@@ -9,23 +9,12 @@
 6. [Running the Frontend Development Server](#running-the-frontend-development-server)
 7. [Making the Frontend Public](#making-the-frontend-public)
 8. [Managing Codespace Timeout and Cost](#managing-codespace-timeout-and-cost)
-   - [Increasing Codespace Timeout](#increasing-codespace-timeout)
-   - [Understanding Codespace Inactivity](#understanding-codespace-inactivity)
-   - [Minimizing Codespace Costs](#minimizing-codespace-costs)
 9. [Preparing for User Research Sessions](#preparing-for-user-research-sessions)
 10. [Best Practices](#best-practices)
 11. [Troubleshooting](#troubleshooting)
 12. [Bonus - Automatic Public Codespace Creation](#bonus---automatic-public-codespace-creation)
-    - [Overview](#overview)
-    - [New Codespace Secrets](#new-codespace-secrets)
-    - [User Adoption](#user-adoption)
-    - [Usage Instructions](#usage-instructions)
-    - [Related Resources](#related-resources)
 13. [Extra Notes on Cost and Performance](#extra-notes-on-cost-and-performance)
-    - [Memory Usage](#memory-usage)
-    - [Disk Space](#disk-space)
-    - [CPU Utilization](#cpu-utilization)
-    - [Proposed adjustments](#proposed-adjustments)
+
 
 ## Introduction
 
@@ -173,7 +162,7 @@ The Github Codespace landing page:
 ## Troubleshooting
 
 - If your Codespace freezes during setup, try stopping and restarting it using the command: `Codespaces: Stop Current Codespace`.
-- Since the mock server and the frontend are run in watch mode, you can technically update the code in realtime and see those changes reflected in the codespace url. 
+- Since the mock server and the frontend are run in watch mode, you can technically update the code in realtime and see those changes reflected in the codespace url.
 - Logging the request and response within the mock server endpoints can be helpful when verifying mock server interactions.
 - It is also possible to share a codespace with another user that also has access to the github organization. The VS Code Live Share extenstion can be used to generate a sharing url for the editor, and also the various terminals when required.
 
@@ -193,15 +182,15 @@ The `codespaces-start.sh` script has been updated in `vets-website` to include a
 
 ### New Codespace Secrets
 
-The following Codespaces user secrets have been introduced. These secrets are added in the same way as was previously outlined for adding `VETS_WEBSITE_BUILD_CONTENT` 
+The following Codespaces user secrets have been introduced. These secrets are added in the same way as was previously outlined for adding `VETS_WEBSITE_BUILD_CONTENT`
 
 1. `MAKE_APP_PUBLIC`: Enables public port setup for the application.
    - Value: Set to "YES" to enable public ports.
    - Usage: Acts as an on/off switch for the public app bootstrapping process. If this is not set, or set to anything other than "YES" the startup script will not start the application for you.
-   
+
 2. `MOCK_RESPONSES`: Specifies the path to mock server responses.
    - Default: `src/platform/testing/local-dev-mock-api/common.js`
-   - Usage: Set this to use custom mock responses. An engineer should be able to provide you with the path to your app's mock server entry file (if that has been set up). The default common responses are pretty barebones, so don't expect much to work if you use them, besides some feature toggles, user, and maintenance windows endpoints. 
+   - Usage: Set this to use custom mock responses. An engineer should be able to provide you with the path to your app's mock server entry file (if that has been set up). The default common responses are pretty barebones, so don't expect much to work if you use them, besides some feature toggles, user, and maintenance windows endpoints.
 
 3. `ENTRY_APPS`: Defines specific apps to be built in watch mode.
    - Format: Comma-separated list of app names that should be accessible (e.g., "static-pages,auth")
@@ -224,7 +213,7 @@ Users can opt into running public prototypes through Codespaces by configuring t
 
 4. Access the public prototype using the provided Codespace URL You can view this public url in the 'ports' section of the Codespace VS Code instance that runs in your browser, as was outline in the section [Making the frontend public](#making-the-frontend-public)
 
-5. Navigate to your application's url like `/profile`, `/my-va`, etc 
+5. Navigate to your application's url like `/profile`, `/my-va`, etc
 
 ### Related Resources
 
@@ -257,7 +246,7 @@ CPU usage when vets-website first builds is high, but once built the dev servers
 - Don't use watch mode for the FE dev server if performance / memory usage becomes an issue. We don't really need to watch for file changes if we aren't doing active development on the Codespace, so just running the local dev server without watch should help
 - Don't use mocker-api
   - Using an Express or Fastify would allow us to run a server that doesn't rely on Chokidar to watch files for changes. Mocker-api watches by default and it cannot be turned off, so if we wanted to optimize the mock-server then a different solution would be required.
-  - From a DX perspective, Mocker-api is not ideal. Fastify or Express could be easier to maintain and providing backwards compatibility to mocker-api would be trivial. 
+  - From a DX perspective, Mocker-api is not ideal. Fastify or Express could be easier to maintain and providing backwards compatibility to mocker-api would be trivial.
 - Allow engineers to choose their machine type when starting a Codespace
   - The highest tier is the only level of machine available, and we can't explore with a lower level machine to see what would work.
   - The 4-core cpu, 16gb memory, 64gb dish drive level _should_ work fine, and is only $0.36 an hour vs $2.88 an hour for the highest level
