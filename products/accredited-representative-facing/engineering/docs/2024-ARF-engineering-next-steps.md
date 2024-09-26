@@ -17,7 +17,7 @@ This document outlines the next steps for onboarding team members and provides c
 ### Complete POST of Form 21a to GCLAWS API
 
 - **Action**: Resolve implementation issues related to the submission of Form 21a.
-- **Status**: Blocked. Pending [Enterprise Security Change Control (ESECC) networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC.
+- **Status**: Blocked. Pending [ESECC networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC.
 - **Key Issues**: Detailed in [GitHub Issue #85933](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85933).
 - **References**:
   - [ARP Engine Code for Form Submission](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/services/accreditation_service.rb#L37-L55)
