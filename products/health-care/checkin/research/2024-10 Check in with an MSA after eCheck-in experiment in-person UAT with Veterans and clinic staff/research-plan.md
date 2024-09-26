@@ -88,53 +88,35 @@ TBD
 
 ### Risks
 
-Description 
-How to track  
-Decrease in Veteran usage of VA digital services, specifically eCheck-in
-In-person Veteran interviews and PCI PowerBI Dashboard
-Decrease in Veteran satisfaction with VA digital services, e.g., decrease value of eCheck-in and/or frustration as a result of constant changes to digital services
-In-person Veteran interviews, VSignals reports 
-Increase in wait time for Veterans to check in at clinics. And, average amount of time it takes to check Veterans in, including eCheck-in and in-person check in. (I.e., 2 mins and 21 seconds, including travel reimbursement, for eCheck-in alone.) 
-In-person clinic observation and in-person MSA semi-structured interviews 
-Decrease in ease of access to checking in for an appointment and inclusivity, e.g., Veterans with mobility or vision challenges don't want to wait in line.
-In-person Veteran interviews, VSignals reports 
-Negative impact on clinic operations and patient tracking at VA facilities that don’t have these problems
-In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC 
+| Description | How to track |
+| ---------------- | ----------- |
+| Decrease in Veteran usage of VA digital services, specifically eCheck-in | In-person Veteran interviews and PCI PowerBI Dashboard |
+|Decrease in Veteran satisfaction with VA digital services, e.g., decrease value of eCheck-in and/or frustration as a result of constant changes to digital services | In-person Veteran interviews, VSignals reports |
+|Increase in wait time for Veterans to check in at clinics. And, average amount of time it takes to check Veterans in, including eCheck-in and in-person check in. (I.e., 2 mins and 21 seconds, including travel reimbursement, for eCheck-in alone.) | In-person clinic observation and in-person MSA semi-structured interviews |
+| Decrease in ease of access to checking in for an appointment and inclusivity, e.g., Veterans with mobility or vision challenges don't want to wait in line. | In-person Veteran interviews, VSignals reports |
+| Negative impact on clinic operations and patient tracking at VA facilities that don’t have these problems | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
+| No impact on clinic operations and patient tracking as a result of no changes being implemented with clinic staff around check in process and communication at pilot facilities, specifically ones that have reported problems. E.g., what are clinic staff going to do differently? | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
 
+### Research materials 
 
-No impact on clinic operations and patient tracking as a result of no changes being implemented with clinic staff around check in process and communication at pilot facilities, specifically ones that have reported problems. E.g., what are clinic staff going to do differently? 
-In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC
+- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-with-staff.md)
+- Research plan
+- Conversation guide 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Research materials 
-TBD
-
-Recruitment
+## Recruitment
 n/a
 
-Timeline
+## Timeline
 TBD
 
-Team roles
-Moderator: Ben Brasso (ben.brasso@agile6.com)
-Research guide writing and task development: Ben Brasso (ben.brasso@agile6.com)
-Participant recruiting & screening: n/a
-Project point of contact: Ben Brasso (ben.brasso@agile6.com), Kristen McConnell (kristen.mcconnell@va.gov) 
-Participants for pilot test: n/a
-Note-takers: TBD
-Observers: n/a
+## Team roles
+- Moderator: Ben Brasso (ben.brasso@agile6.com)
+- Research guide writing and task development: Ben Brasso (ben.brasso@agile6.com)
+- Participant recruiting & screening: n/a
+- Project point of contact: Ben Brasso (ben.brasso@agile6.com), Kristen McConnell (kristen.mcconnell@va.gov)
+- Participants for pilot test: n/a
+- Note-takers: TBD
+- Observers: n/a
 
  
 
