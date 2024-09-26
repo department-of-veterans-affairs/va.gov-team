@@ -36,6 +36,8 @@ Further complicating these issues, VA facilities and clinics aren't mandated (i.
 
 ## How this research maps to the Veteran journey 
 
+<img width="1000" alt="Screenshot 2024-09-25 at 11 07 33 AM" src="https://github.com/user-attachments/assets/4140f4f6-7d46-4564-8faa-0a52514661e1">
+
 ## Research goals 
 
 The purpose of this research is to, 1) understand the value of eCheck-in as an experiment that includes a step for Veterans to check in with clinic staff after completing “online check in” to Veterans, 2) understand the impact of this change, whether it solves the identified problems or creates new undesired burdens, on improving the connectedness of “checking in” vs. “arrived and ready to be seen,” and finally, 3) inform the next step in solving this complex end-to-end experience problem.   
@@ -45,32 +47,34 @@ In addition, it’s important to understand the outcomes of this research at VA 
 ### Research questions 
 
 #### Veteran-facing
-1. Do Veterans perceive the value of eCheck-in has increased or decreased as a result of now having to check in with staff after completing eCheck-in? What about Veterans who file a travel reimbursement claim during eCheck-in vs. those that do not? 
-2. How likely or unlikely are Veterans to use eCheck-in again knowing that they’ll be required to check in with an MSA after completing eCheck-in on their smartphone? And, why?  
+1. Do Veterans understand that they have to check in with an MSA at their clinic to complete the check in process? 
+2. Do Veterans perceive the value of eCheck-in has increased or decreased as a result of now having to check in with staff after completing eCheck-in? What about Veterans who file a travel reimbursement claim during eCheck-in vs. those that do not? 
+3. How likely or unlikely are Veterans to use eCheck-in again knowing that they’ll be required to check in with an MSA after completing eCheck-in on their smartphone? And, why?  
 
 #### Staff-facing
-3. Understand if clinic staff will review demographic information with Veterans during check in even if Veterans marked them as up to date during eCheck-in. If so, why? 
-4. Has the workload increased or decreased for MSAs or clinicians checking patients in? If so, why and how? 
-5. Has the average amount of time increased or decreased for Veterans waiting in line to check in with clinic staff? I.e., observationally. 
-6. Has the amount of missed appointments, Veterans arriving late or being at the wrong clinic waiting room, lost patients, and/or canceled appointments by VA staff (when eCheck-in status is set to completed) increased or decreased?
-7. Understand what the highest value improvement would be for patient tracking and check in for clinicians and MSAs.   
-8. Has clinic patient tracking operations and communication between front of house and back of house improved, remained the same, or worsened? And, why? 
+4. Understand if clinic staff will review demographic information with Veterans during check in even if Veterans marked them as up to date during eCheck-in. If so, why? 
+5. Has the workload increased or decreased for MSAs or clinicians checking patients in? If so, why and how? 
+6. Has the average amount of time increased or decreased for Veterans waiting in line to check in with clinic staff? I.e., observationally. 
+7. Has the amount of missed appointments, Veterans arriving late or being at the wrong clinic waiting room, lost patients, and/or canceled appointments by VA staff (when eCheck-in status is set to completed) increased or decreased?
+8. Understand what the highest value improvement would be for patient tracking and check in for clinicians and MSAs.   
+9. Has clinic patient tracking operations and communication between front of house and back of house improved, remained the same, or worsened? And, why? 
 
 ## Hypothesis
 
 #### Veteran-facing
-1. Do Veterans perceive the value of eCheck-in has increased or decreased as a result of now having to check in with staff after completing eCheck-in? What about Veterans who file a travel reimbursement claim during eCheck-in vs. those that do not? 
-2. How likely or unlikely are Veterans to use eCheck-in again knowing that they’ll be required to check in with an MSA after completing eCheck-in on their smartphone? And, why?
+1. Do Veterans understand that they have to check in with an MSA at their clinic to complete the check in process? 
+2. Do Veterans perceive the value of eCheck-in has increased or decreased as a result of now having to check in with staff after completing eCheck-in? What about Veterans who file a travel reimbursement claim during eCheck-in vs. those that do not? 
+3. How likely or unlikely are Veterans to use eCheck-in again knowing that they’ll be required to check in with an MSA after completing eCheck-in on their smartphone? And, why?
    - Veterans who file mileage-only travel reimbursement claims will likely use eCheck-in again. 
    - Veterans who don’t file travel reimbursement claims during eCheck-in will be unlikely to use eCheck-in again because VA is forcing them to perform the same task twice. 
 
 #### Staff-facing
-3. Understand if clinic staff will review demographic information with Veterans during check in even if Veterans marked them as up to date during eCheck-in. If so, why? 
-4. Has the workload increased or decreased for MSAs or clinicians checking patients in? If so, why and how? 
-5. Has the average amount of time increased or decreased for Veterans waiting in line to check in with clinic staff? I.e., observationally. 
-6. Has the amount of missed appointments, Veterans arriving late or being at the wrong clinic waiting room, lost patients, and/or canceled appointments by VA staff (when eCheck-in status is set to completed) increased or decreased?
-7. Understand what the highest value improvement would be for patient tracking and check in for clinicians and MSAs.   
-8. Has clinic patient tracking operations and communication between front of house and back of house improved, remained the same, or worsened? And, why? 
+4. Understand if clinic staff will review demographic information with Veterans during check in even if Veterans marked them as up to date during eCheck-in. If so, why? 
+5. Has the workload increased or decreased for MSAs or clinicians checking patients in? If so, why and how? 
+6. Has the average amount of time increased or decreased for Veterans waiting in line to check in with clinic staff? I.e., observationally. 
+7. Has the amount of missed appointments, Veterans arriving late or being at the wrong clinic waiting room, lost patients, and/or canceled appointments by VA staff (when eCheck-in status is set to completed) increased or decreased?
+8. Understand what the highest value improvement would be for patient tracking and check in for clinicians and MSAs.   
+9. Has clinic patient tracking operations and communication between front of house and back of house improved, remained the same, or worsened? And, why? 
 
 ## Research method  
 
