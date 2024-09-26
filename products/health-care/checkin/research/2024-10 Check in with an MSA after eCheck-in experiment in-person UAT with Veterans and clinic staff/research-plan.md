@@ -95,7 +95,8 @@ TBD
 |Increase in wait time for Veterans to check in at clinics. And, average amount of time it takes to check Veterans in, including eCheck-in and in-person check in. (I.e., 2 mins and 21 seconds, including travel reimbursement, for eCheck-in alone.) | In-person clinic observation and in-person MSA semi-structured interviews |
 | Decrease in ease of access to checking in for an appointment and inclusivity, e.g., Veterans with mobility or vision challenges don't want to wait in line. | In-person Veteran interviews, VSignals reports |
 | Negative impact on clinic operations and patient tracking at VA facilities that don’t have these problems | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
-| No impact on clinic operations and patient tracking as a result of no changes being implemented with clinic staff around check in process and communication at pilot facilities, specifically ones that have reported problems. E.g., what are clinic staff going to do differently? | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
+| No impact on clinic operations and patient tracking as a result of no changes being implemented with clinic staff around check in process and communication at pilot facilities, specifically ones that have reported problems. (E.g., what are clinic staff going to do differently?) | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
+| Veteran completes eCheck-in, but fails to find or go to the clinic and check in with an MSA (What staff steps exist today when a Veteran isn’t in the waiting room when their name is called?) | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
 
 ### Research materials 
 
