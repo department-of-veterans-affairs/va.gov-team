@@ -93,7 +93,7 @@ After coordination with VA facilities has completed, researchers will work with 
 
 Our goal is to intercept and gather feedback from at least 15 Veterans at each VA facility and speak with, at least, MSAs and clinicians that use VSE-CS to monitor patient check ins at each clinic and/or VA facility visited. 
 
-### Location
+### Locations
 
 TBD
 
