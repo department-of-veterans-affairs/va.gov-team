@@ -145,7 +145,7 @@ You are now signed in and are beginning the application.
 
 1. Please read this page and think aloud. Does this raise any questions? Is anything unclear?
 
-**Personal Information: Figma frame Step 1-06 (**Which role are you applying for?)
+**Personal Information: Figma frame Step 1-06** (Which role are you applying for?)
 
 1. In this case, let’s pretend you are applying as an attorney, even if you’re applying as a claims agent.
 
@@ -177,7 +177,7 @@ You are now signed in and are beginning the application.
 
 1. Please read this page and think aloud. Does this raise any questions? Is anything unclear?
 
-**Employment Information: Figma frame Step 3-09** (Note that this page should be modified in the prototype to say “Are you currently working in a federal position”
+**Employment Information: Figma frame Step 3-09** (Note that this page should be modified in the prototype to say “Are you currently working in a federal position”)
 
 1. For the sake of this prototype, let’s select “Yes.”
 
@@ -235,7 +235,7 @@ You are now signed in and are beginning the application.
 NOTE: Ask when appropriate. These questions can be applied throughout the interview.
 
 1. How do you feel about the flow of going through these questions?
-2. Would you ever complete this application out of order? Why?
+2. Would you ever want to skip a question and come back to it? Why?
 3. Based on what you see, do you know how far you are in the application?
 
 ## Post-Task Interview - 5 minutes
@@ -255,7 +255,7 @@ Well we really appreciate you taking the time to share your thoughts with us tod
 
 I wanted to ask, if you know of anyone else who is planning on or has recently applied for accreditation who would be interested in providing feedback? We want to make sure we’re collecting feedback from everyone who would be benefitting from these tools. 
 
-[Wait for response]
+_Wait for response_
 
 Our team will be sending a thank you email, where we’ll provide a link to our feedback intake form, which you can share with your colleagues.
 
