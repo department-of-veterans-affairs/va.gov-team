@@ -3,7 +3,8 @@ Sprint 20: 9/24/24 - 10/7/24
 
 ## 📅 Upcoming Dates  & 🏖️ PTO
 * Brittany in all day in-person meetings  9/24 & 9/25
-* Drew and Clayton out for appts 9/25
+* Clayton out for apptointment 9/25
+* Drew out for apptointment 10/2
 
 
 ## 📣 Announcements
@@ -26,7 +27,7 @@ In Sprint 19, the team provided support for multiple features and initiatives, o
 * #### Backend support for Oracle Health to enable direct scheduling
   * Updated VetsAPI Patient Gateway to utilize the new CesSlot class defined by the Clinical Encounter Service Integration Guide (CES IG), ensuring proper resolution of Practitioner and Location information from Cerner FHIR Adapter (CFA).
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-  * Researched options for toggling the VAOS backend URL, determining that the approach for swapping VAOS endpoints would depend on the status of VetsAPI Patient Gateway integration points at the time of the switch. Solutions for both scenarios have been identified.
+  * Researched options for toggling the VAOS backend URL, determining that the approach for swapping VAOS endpoints would depend on the status of VetsAPI Patient Gateway integration points at the time of the switch. Solutions for both scenarios have been identified and documented in the Github issue.
   * Migrated EHR determination out of the PreEnrichment step in Clinical Encounter Service (CES); this early decision will facilitate better troubleshooting as EHR determination processes become more complex.
   * Added comprehensive tests for the mappers package in VetsAPI Patient Gateway, achieving 100% line and branch coverage.
   * Applied the EHR Source extension to resources fetched by search in Clinical Encounter Service; this extension was previously applicable only to read resources but was updated to include resources retrieved through searches.
