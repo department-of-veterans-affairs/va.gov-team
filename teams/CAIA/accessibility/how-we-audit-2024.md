@@ -1,7 +1,7 @@
 > [!CAUTION]
 > **WIP**: Last udpated: Aug. 14, 2024 (see commit comments for details)
 
-# How we audit for accessibility
+# How CAIA audits for accessibility
 
 If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, or an [A11Y Champ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community-aka-a11y-champs), you might wonder how CAIA's (Content, Accessibility and Information Architecture) team of accessibility specialists audits experiences for accessibility. 
 
@@ -22,6 +22,13 @@ An accessibility audit can be a prototype review or a design and code review of 
 - [Accessibility Best Practices](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov#AccessibilityonVA.gov-Applyaccessibilitybestpractices.1)
 - [Section 508 ICT Testing Baseline](https://ictbaseline.access-board.gov)
 
+### What's the difference between an audit from CAIA, accessibility feedback from the Governance team, and Section 508 testing?
+- CAIA and the Governance team audit products to ensure **usability** by people of all abilities. The focus is on the overall experience, not legal compliance.
+   - Contact CAIA at the start of the Collaboration Cycle. We'll review your product before your major touchpoints with the Governance team.
+   - Governance will review your product at Midpoint and Staging Review. They'll provide accessibility feedback and create defect tickets for you to correct issues. 
+- The Section 508 office audits products for **compliance** with Section 508 standards and policies. The focus is legal compliance. If anything doesn't meet compliance standards, they'll send you a report of issues to fix.
+
+
 ## When does it happen?
 
 An audit can happen at any time, and vary in scope. 
@@ -30,10 +37,10 @@ An audit can happen at any time, and vary in scope.
 - Audits can be completed on experimental components, prior to submitting to the Design System Council. 
 - Audits can take place both inside and outside the Collaboration Cycle. 
 
-## What are the outcomes
+## What are the outcomes?
 
 - Teams get a list of accessibility findings in an audit report, which summarizes those issues and bugs, in addition to recommendations - and screenshots, where applicable.
-- Accessibility specialists will also be available to help explain the issues identified and point to best practices for your team to use to remediate them. 
+- Accessibility specialists will also be available to help explain the issues identified and point to best practices for your team to use to remediate them.
 
 ## How long does it take?
 
