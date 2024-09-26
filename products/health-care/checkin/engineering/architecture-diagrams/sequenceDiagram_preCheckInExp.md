@@ -109,9 +109,12 @@ sequenceDiagram
   va--)-c: appointments
 
   c->>+va: get demographics
+  va->>+val: RPC SDEC GETREGA
+  val--)-va: demographics
   va--)-c: demographics
-  c->>+cw: get demographics confirmations
-  cw--)-c: demographics confirmations
+
+  c->>+cw: get demographics status
+  cw--)-c: demographics status
 
   c->>+l: save data
   l--)-c: documentId
@@ -128,6 +131,57 @@ sequenceDiagram
   web--)-vet: redirect to login page
   deactivate vet
 ```
+
+#### Clinician Workflow: Get Demographics Status
+
+CHIP's request to Clinician Workflow for demographics status kicks off its own series of requests to VistA stations via Vista API.
+
+```mermaid
+sequenceDiagram
+  participant c as CHIP
+  participant cw as Clinician Workflow
+  participant va as Vista API
+  participant val as VistALink
+
+  c->>+va: get Vista token
+
+  break any error occurs
+    va--)c: return error
+  end
+
+  va--)-c: valid token returned
+
+  c->>+cw: get demographics status
+
+  cw->>+va: get VistA token
+
+  break any error occurs
+    va--)cw: return error
+    cw--)c: return error
+  end
+
+  va--)-cw: valid token returned
+
+  cw->>+va: get demographics by patient
+
+  break any error occurs
+    va--)cw: return error
+    cw--)c: return error
+  end
+
+  va->>+val: RPC SDEC GETREGA
+
+  break any error occurs
+    val--)va: return error
+    va--)-cw: return error
+    cw--)-c: return error
+  end
+
+  val--)-va: demographics returned
+  va--)cw: demographics returned
+  cw--)c: demographics confirmations
+```
+
 
 ### Authentication
 This is the flow when Veterans submit their last4/last name to complete the LoROTA low auth flow. If successfully authenticated, LoROTA returns the stored data from DynamoDB. The data includes patient's demographic update status. If any of the demographic data requires updates, they are shown those demographic pages to confirm that their data is correct. One additional step in pre check-in authentication scenario is when vets-api calls a CHIP lambda to set the pre check-in started status in VistA.
