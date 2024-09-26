@@ -45,11 +45,11 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|
 | Abandonment rates| 33.61% | 33.61% | 0% | 1.8% | | | |  |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)|
-| TE Opt-in rate* | | | 38% | 48% | | | | |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)<br>[Datadog](https://vagov.ddog-gov.com/logs?query=env:%22eks-prod%22%20@http.referer:*21%5C-526ez%5C/toxic%5C-exposure*%20&agg_m=@payload.user_uuid&agg_m_source=base&agg_q=@http.referer&agg_q_source=base&agg_t=cardinality&analyticsOptions=%5B%22bars%22,%22dog_classic%22,null,null,%22value%22%5D&cols=host,service&fromUser=true&messageDisplay=inline&storage=hot&stream_sort=desc&top_n=10&top_o=top&viz=timeseries&x_missing=true&from_ts=1723791600000&to_ts=1723877940000&live=false)|
-| Submission errors | 0.62% | ≤0.62% | 0.28% | 0.48% | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
-|% of submissions that use normal path| 99.38% | 99.38%  | 99.72% | 99.51% | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
-| % of uses of backup path | 0.94% | < 1.0% | 0.04% | 10% | | | | | Weekly error tracker sheet |
-| % of uses of failsafe path | 0.001% | <.010% | 0% | 0% | | | | | Weekly error tracker sheet |
+| TE Opt-in rate* | - | - | 38% | 48% | | | | |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)<br>[Datadog](https://vagov.ddog-gov.com/logs?query=env:%22eks-prod%22%20@http.referer:*21%5C-526ez%5C/toxic%5C-exposure*%20&agg_m=@payload.user_uuid&agg_m_source=base&agg_q=@http.referer&agg_q_source=base&agg_t=cardinality&analyticsOptions=%5B%22bars%22,%22dog_classic%22,null,null,%22value%22%5D&cols=host,service&fromUser=true&messageDisplay=inline&storage=hot&stream_sort=desc&top_n=10&top_o=top&viz=timeseries&x_missing=true&from_ts=1723791600000&to_ts=1723877940000&live=false)|
+| Submission errors | 0.96% | ≤0.96% | 0.28% | 0.48% | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
+| % of submissions that use normal path| 99.04% | ≤99.04%  | 99.72% | 99.51% | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
+| % of uses of backup path | 0.94% | ≤0.94% | 0.04% | 10% | | | | | Weekly error tracker sheet |
+| % of complete failure | 0.0001% | ≤0.0001% | 0% | 0% | | | | | Weekly error tracker sheet |
 
 *For Veterans who saw the 2022 form version.
 
@@ -63,9 +63,14 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |Step 5| Additional Exposures | 0%| 0.73% | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
 |Step 5| Additional Disabilities | 0%| 0.63% | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
 
-### [UNDER CONSTRUCTION: Overall Form Abandonment]((https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/BtqeUqzLR3y7cFsUETgZwQ))
-**As of 9/3**, we are reworking this funnel and will update it once we have more confidence in the numbers we see. 
+### Overall Form Abandonment
 **Alternative approaches we're considering:** Removing all steps that are not seen by all Veterans (such as claim type) or exploring other non-funnel models for understanding the data. 
+
+| Step # | 526 Page | Baseline | Target | 5% | 10% | 25% | 50% | 75% | 100% |Data Source |
+|--|--|--|--|--|--|--|--|--|--|--|
+|Step 1| Introduction | 46.73% | 46.73% | 44.24% | | | | | |  [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+|Step 7| Confirmation | - | - |  | | |  | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+
 
 ## Summary of Medallia survey and Contact Center data 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
