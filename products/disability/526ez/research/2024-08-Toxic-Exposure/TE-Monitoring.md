@@ -38,8 +38,8 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |**Rollout %**|**Dates of rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|GA4 reporting date | Medallia +Contact Center request
 |--|--|--|--|
 |5%| Aug 28 | Sept 3 [Validation of success metrics below](#526ez-success-metrics)| 
-|10%| Sept 5 - 15 | Sept 15|
-|25% | Sept 16 - Sept 18 | Sept 18/19|
+|10%| Sept 5 - 15 | |
+|25% | Sept 16 - Sept 26 ||
 |50%|TBD| TBD |Request on Sept 20|
 |75%|TTBD| TBD|
 |100%|TBD| TBD| Request on TBD|
