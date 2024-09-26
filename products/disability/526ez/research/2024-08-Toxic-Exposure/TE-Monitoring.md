@@ -19,7 +19,7 @@ We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for 
 
 This reporting will seek to keep all stakeholders informed of the rollout's progress. Beyond this documentation, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack. 
 <details>
-  <summary>Click to expand Goals & Impact</summary>
+  <summary>Click to expand </summary>
     
 - This report will document GA4, Data Dog, Contact Center, and Medallia survey data over the course of the release.
 - Relevant tickets: [(#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [(#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
@@ -27,7 +27,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 ## Goals & Impact
 1. Monitoring the release will help us determine if and when we need to pause the incremental release of TE. We will be looking for major technical blockers or patterns of very negative open response feedback in the data to inform our decision-making.
 2. Reviewing Medallia data will help us focus our upcoming usability research on the new feature. We will leverage early findings in monitoring to shape the research plan and hypotheses.
-3. 
+
 **Note:** We will be responsive to the release, updating our monitoring approach as we learn more/better!
  </details>   
 
