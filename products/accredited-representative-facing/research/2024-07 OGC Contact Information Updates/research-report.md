@@ -10,6 +10,20 @@ Date: 08/2024
 * Ben Nguyen, [ben@cityfriends.tech](mailto:ben@cityfriends.tech) (research preparation, session moderation and notetaking, data analysis and report)
 * Danielle Oppendike, [danielle.oppendike@adhocteam.us](mailto:danielle.oppendike@adhocteam.us) (session moderation and notetaking, design)
 
+Jump to...
+* [Research Goals](#research-goals)
+* [Research Questions](#research-questions)
+* [Methodology](#methodology)
+* [Interview Questions](#interview questions)
+* [Key Findings](#key-findings)
+* [Details of Key Findings](#details-of-key-findings)
+* [Additional Insights](#additional-insights)
+* [Recommendations](#recommendations)
+* [Next Steps](#next-steps)
+* [Further Research Needed](#further-research-needed)
+* [Appendix](#appendix)
+
+
 ## Background
 
 Veterans currently search for and find accredited representatives on va.gov through the [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/). The contact information displayed has accuracy issues stemming from an outdated directory with a cumbersome process to update information. Updating contact information for VSO Representatives in this directory involves the VA’s Office of General Counsel (OGC) updating entries upon email request by the VSO certifying officials.
