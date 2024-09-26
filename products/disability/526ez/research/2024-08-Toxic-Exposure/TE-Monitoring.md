@@ -105,12 +105,15 @@ We are regularly evaluating our top success metrics to make sure we can trust th
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
   
 ### Guiding Questions for UX Monitoring
+<details>
+  <summary>Click to expand questions </summary>
 1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
 2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
 3. What challenges (usability issues, bugs, general pain points) are Veterans encountering with the feature? 
 4. How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
 5. What impact does the new feature have on Veteran trust in VA?
-   
+</details>details> 
+
 ### Overall 526ez
 All Medalia survey data is reported as a % of 4+5 answers.
 |**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 50%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
