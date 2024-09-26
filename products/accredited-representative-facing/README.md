@@ -22,7 +22,7 @@ We have focused on 3 main features or work streams within ARP: [Form 21a digitiz
 - [Zenhub board](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/board)
 - [Mural folder](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=ec617166-2771-4165-a134-39e239f3a045)
 - [Figma project](https://www.figma.com/files/team/1278375444205744118/project/176208173/Accredited-Representatives?fuid=1142566432181786950) (shared with our sister team, ARM)
-- [Speadsheet of our team Slack canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC) (Slack; must be accessed via the OCTO/DSVA Slack workspace)
+- [Speadsheet of our team Slack canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC), which includes some internal team meeting notes (Slack; must be accessed via the OCTO/DSVA Slack workspace)
 - [Google Drive folder](https://drive.google.com/drive/folders/0AHtMEJhzWhvjUk9PVA) (requires permissions request)
 
 ## Primary work streams
