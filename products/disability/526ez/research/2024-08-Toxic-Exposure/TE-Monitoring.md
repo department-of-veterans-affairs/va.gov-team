@@ -8,6 +8,7 @@
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
 **You will find all TE Monitoring information and updates in this document.**
+
 **Jump to:**
 - [Background](#background)
 - [Reporting Schedule](#reporting-schedule)
