@@ -450,12 +450,66 @@ sequenceDiagram
       bt --)- vaw: unknown error
       vaw ->>+ van: POST /notifications/sms
       van --)- vaw: 201 created
-      van -) vet: sms "unknown error"
+      van -) vet: sms "claim submission error"
     end
   else token call failed
     veis --) vaw: error
     vaw ->>+ van: POST /notifications/sms
     van --)- vaw: 201 created
-    van -) vet: sms "unknown error"
+    van -) vet: sms "claim submission error"
   end
 ```
+
+#### Timeout handling for BTSSS claim submission
+In case we get a timeout when calling BTSSS claim ingest API, we schedule another job to be run in 5 minutes. This job calls the BTSSS status endpoint to check the status of the claim, and sends a text notification to the veteran based on the status received.
+
+```mermaid
+sequenceDiagram
+  actor vet as Veteran
+  participant vaw as vets-api-worker
+  participant veis as VEIS
+  participant bt as BTSSS
+  participant van as va-notify
+
+  vaw ->>+ veis: POST /oauth2/token
+  alt successful token
+    veis --) vaw: successful token
+    alt claim submitted successfully
+      vaw ->>+ bt: POST /claimstatus
+      bt --)- vaw: claim success
+      vaw ->>+ van: POST /notifications/sms
+      van --)- vaw: 201 created
+      van -) vet: sms "claim submitted"
+    else claim submitted but has errors
+      vaw ->>+ bt: POST /claimstatus
+      bt --)- vaw: claim submitted but has errors
+      vaw ->>+ van: POST /notifications/sms
+      van --)- vaw: 201 created
+      van -) vet: sms "claim failure"
+    else empty or multiple status response
+      vaw ->>+ bt: POST /claimstatus
+      bt --)- vaw: empty or multiple status response
+      vaw ->>+ van: POST /notifications/sms
+      van --)- vaw: 201 created
+      van -) vet: sms "claim submission error"
+    else timeout
+      vaw ->>+ bt: POST /claimstatus
+      bt --)- vaw: timeout
+      vaw ->>+ van: POST /notifications/sms
+      van --)- vaw: 201 created
+      van -) vet: sms "claim timeout"
+    else any other error
+      vaw ->>+ bt: POST /claimstatus
+      bt --)- vaw: error
+      vaw ->>+ van: POST /notifications/sms
+      van --)- vaw: 201 created
+      van -) vet: sms "claim submission error"
+    end
+  else token call failed
+    veis --) vaw: error
+    vaw ->>+ van: POST /notifications/sms
+    van --)- vaw: 201 created
+    van -) vet: sms "claim submission error"
+  end
+```
+
