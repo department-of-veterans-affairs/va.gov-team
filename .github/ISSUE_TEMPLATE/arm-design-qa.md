@@ -1,7 +1,7 @@
 ---
 name: ARM Design QA
 about: Design QA of frontend work, for the ARM team
-title: 'QA updates:'
+title: ''
 labels: 'accredited-representation-management-team, frontend, mvp'
 assignees: ''
 
