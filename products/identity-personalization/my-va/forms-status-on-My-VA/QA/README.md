@@ -1,5 +1,5 @@
 # My VA Forms Status: QA Strategy & Artifacts 
-**Last Updated: Sept 23, 2024 - first published**
+**Last Updated: September 26, 2024 - QA findings**
 
 ## Test Scenarios
 QA was performed manually by team members to the best of our ability based on limited resources and access to/knowledge of testing tools. 
@@ -50,5 +50,8 @@ We need to test all _n_ test cases across the devices, operating systems, and br
 ## Findings Summary
 | Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
-|  |  |  |  |  |  |  |  |
+| 1 | Incorrect copy  | all  | all  | all  | Matt  | #93764 |   |
+| 2 | Submitted forms not appearing for LOA1 users  | all  | all  | all  | AJ  | #93723 |   |
+| 4 | Incorrect copy  | all  | all  | all  | Matt  | #93764 |   |
+
 
