@@ -181,6 +181,6 @@ These are categories and topics this queue handles:
 The business line stakeholder provided the following reason for keeping US mail:
 > We need to be uniform in response options offered across our business line. To allow return phone calls/emails/letters during 7 million+ annual contacts in the National Contact Centers,  285k+ with our Public Contact Teams, then restrict reply options in 100k inquiries simply because of the mechanism used to ask a question is neither consistent nor customer-centric.
 
-### Debt for benefit overpayments and health care copay bills
+#### Debt for benefit overpayments and health care copay bills
 The business line stakeholder provided the following reason for keeping US mail:
 > We are required by 38USC to keep physical mail as our primary notification so therefore we need to keep it.  
