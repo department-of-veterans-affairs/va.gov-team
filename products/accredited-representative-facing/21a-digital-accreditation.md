@@ -72,6 +72,7 @@ The below personas reflect the goals, pain points, and other information for _ac
    * date formatting for review pages
 * Run usability testing to validate some of the design decisions about the digitized form. (Add link to plan once it's ready) See the [Future Research Activities Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718980793805/b1c89e3110a00b235ee30bc04bab3cc96a33c696?sender=u2a4240a640b257ce33545495) for more information on proposed research studies about 21a and other ARP features.
 * As we get closer to launch, explore ways that we can meld the IA/header and footer for this feature (Form 21a) with the other features our team explored (21-22 and contact info updating). The IA that gets selected for the initial ARP release will be entirely dependent on which feature(s) go live first. These features have been designed independently so far, but if two features go live at the same time, the team will need to explore how it should be presented.
+* See also the [High-Level Next Steps for Accredited Representative Facing (ARF) Engineering Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/2024-ARF-engineering-next-steps.md) (Github).
 
 ## Project resources and links
 
