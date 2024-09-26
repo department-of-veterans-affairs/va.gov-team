@@ -1,4 +1,3 @@
-
 # Monitoring Toxic Exposure Release
 
 **Office of the CTO - Digital Experience (OCTO-DE), 526EZ, DBEX 1**
