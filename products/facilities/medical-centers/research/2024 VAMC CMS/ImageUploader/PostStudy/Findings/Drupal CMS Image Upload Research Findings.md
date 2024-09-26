@@ -11,9 +11,9 @@ David Pearl [david.pearl@adhocteam.us](mailto:david.pearl@adhocteam.us)
 
 - [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/PostStudy/Findings/Drupal%20CMS%20Image%20Upload%20Research%20Findings.md#hypotheses-and-conclusions)
 - [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/PostStudy/Findings/Drupal%20CMS%20Image%20Upload%20Research%20Findings.md#key-findings)
-- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/PostStudy/Findings/Drupal%20CMS%20Image%20Upload%20Research%20Findings.md#key-findings)
-- [Who we talked to]()
-
+- [Detailed Findings & Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/PostStudy/Findings/Drupal%20CMS%20Image%20Upload%20Research%20Findings.md#details-of-findings--recommendations)
+- [CMS Drupal Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/PostStudy/Findings/Drupal%20CMS%20Image%20Upload%20Research%20Findings.md#cms-drupal-feedback)
+- [Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/PostStudy/Findings/Drupal%20CMS%20Image%20Upload%20Research%20Findings.md#next-steps)
 ### **Research Goals**
 
 As Veterans begin to engage with VA, learning about benefits through events and their local facilities, they will rely on accurate and quality content on [VA.gov](http://va.gov/) pages that are created by Drupal CMS editors. The moments that matter include Getting out, Starting up, and Taking care of myself.
