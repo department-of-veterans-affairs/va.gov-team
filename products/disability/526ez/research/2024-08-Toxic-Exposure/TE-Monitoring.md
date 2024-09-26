@@ -76,7 +76,10 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 
 ## Success Metric Validation
-We are regularly evaluating our top success metrics to make sure we can trust them. See findings and resulting updates below. 
+We are regularly evaluating our top success metrics to make sure we can trust them. 
+<details>
+  <summary>Click to expand findings below. </summary>
+
 ### TE Abdanonment and Overall 526 Abandonment 
 ||**Toxic Exposure Abandonment** |**Overall 526 Abandonment**|
 |--------------|--------------|---|
@@ -96,7 +99,7 @@ We are regularly evaluating our top success metrics to make sure we can trust th
 |**Takeaways from 25%**|_To be added_|_To be added_|
 |**Limitations**|- # of submissions isn't going to equal number of GA4 active users since GA4 does not track the same user across multiple sessions or devices. <br> -Submissions will be lower than page views. Some users may take more than one session to go back and forth in the form.|None noted. |
 |**Any next steps**|-Measure how many Veterans completed the TE questions at end of 1.0 and 1.1. -This will tell us what percentage of Veterans submitted vs. viewed TE questions, which could help inform research design. <br> -This is a nice-to-have addition. |We wonder if we could use this report down the road to calculate a rough average number of pages that a Veteran sees in the TE flow. |
-
+</details>
 
 ## Medallia survey and Contact Center data 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
