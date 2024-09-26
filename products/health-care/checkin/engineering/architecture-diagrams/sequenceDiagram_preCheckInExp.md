@@ -6,16 +6,17 @@ Pre check-in is inititated by VEText based on a configurable number of days prio
 ```mermaid
 sequenceDiagram
     actor vet as Veteran
+    participant val as VistA Stations
+    participant va as Vista API
     participant vt as VEText
     participant c as CHIP
     participant l as LoROTA
-    participant t as Twilio
-    participant va as VistA API
     participant cw as Clinician Workflow
     participant url as URL Shortener Service
 
+    val->>+va: initiate pre-check-in
+    va->>+vt: initiate pre-check-in
     vt->>+c: initiate pre check-in
-    activate vt
     c->>+va: get appointments
     va--)-c: appointments
     par
@@ -30,9 +31,7 @@ sequenceDiagram
     c--)-vt: documentId
     vt->>+url: get short url
     url--)-vt: short url
-    vt->>+t: call
-    deactivate vt
-    t-)-vet: send text (short url)
+    vt->>-vet: send text (short url)
 ```
 
 ### Start Pre check-in
