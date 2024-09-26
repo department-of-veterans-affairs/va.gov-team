@@ -8,14 +8,12 @@
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
 **Jump to:**
-1. [Background]
-2. [Reporting Schedule]
-3. [526ez Success Metrics by % rollout]
-    - Toxic Exposure Abandonment
-    - Overall Form Abandonment
-4.  [Summary of Medallia survey and Contact Center data]
-5. [Appendix]
-    [- Evaluating success metrics throughout launch]
+- [Background](#background)
+- [Reporting Schedule](#reporting-schedule)
+- [526ez Success Metrics](#526ez-success-metrics-by-%-rollout)
+- [Medallia survey and Contact Center data](#medallia-survey-and-contact-center-data)
+- [Appendix](#appendix)
+    - [Evaluating success metrics throughout launch](#evaluating-success-metrics-throughout-launch)
 
 ## Background
 We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. By tracking interactions and gathering feedback, we will identify any issues with TE early so we can make data-driven improvements. 
@@ -81,7 +79,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |Step 7| Confirmation | - | - |  | | |  | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
 
 
-## Summary of Medallia survey and Contact Center data 
+## Medallia survey and Contact Center data 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
   
 ### Guiding Questions for UX Monitoring
