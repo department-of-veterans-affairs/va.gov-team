@@ -2,7 +2,7 @@
 
 ## NOTE: Please update this document as you go through it! Let's make things easier for the next person onboarded to the ARF Team.
 
-Welcome to the Accredited Representative Facing (ARF) Engineering team! This document is an onboarding guide for new team members, providing a comprehensive overview of our projects, resources, and critical documentation. Following the steps outlined here, you'll understand our mission, current projects, technical details, and where to find important information.
+Welcome to the Accredited Representative Facing (ARF) Engineering team! This document is an onboarding guide for new team members, providing a comprehensive overview of our projects, resources, and critical documentation. Following the steps outlined here, you'll be able to understand our mission, current projects, technical details, and where to find important information.
 
 ## High-Level Project Overview
 
@@ -26,11 +26,7 @@ The main bit is the SEP slides. Everything else is optional.
 - [ ] **Explore** [ARF Engineering Canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC)
 - [ ] **Reference** [Lighthouse Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705440431964/42ea71b5405cda62ed44e95794facd94d8d266a0?sender=u44da4f823ec94118a7079396)
 - [ ] [Staging/WIP LH API Endpoints](https://staging-developer.va.gov/explore/api/benefits-claims/docs?version=current)
-- [ ] [ARP Process Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709071900155/9d5180a5134a76b7a9a0165a6cd56a892ad1b6a1?sender=u44da4f823ec94118a7079396)
-- [ ] [vets-api<>BGS](https://github.com/department-of-veterans-affairs/vets-api/pull/16125/files#diff-bbca7a11ca641e8acf38c4bbd5f52808ac6f6eba817f149b9c8ecbb742f04f2e) See @nihil2501's PR on how [vets-api will interact with BGS](https://github.com/department-of-veterans-affairs/vets-api/pull/16125/files#diff-bbca7a11ca641e8acf38c4bbd5f52808ac6f6eba817f149b9c8ecbb742f04f2e) to get/update POA requests.
-- [ ] [ARP engine data points exploration](https://docs.google.com/spreadsheets/d/1qPpJQ5IVbAU9xQLiEz_WSqdFPfuUNuGTz8nQo7khB-A/edit#gid=0)
 - [ ] [BGS API catalog](https://github.com/department-of-veterans-affairs/bgs-catalog/blob/main/VDC/ManageRepresentativeService/ManageRepresentativePortBinding)
-- [ ] [VA Forms Library - Getting Started with the Forms Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-getting-started-with-the-forms-li)
 
 ## ARP Design
 
@@ -71,5 +67,5 @@ The below doesn't add much value beyond the ARF homepage but can provide histori
 
 ## Output
 
-- [ ] Optional: contribute to the [ARF Team Docs](products/accredited-representative-facing)
-- [ ] Optional: improve this onboarding document for the next person
+- [ ] Suggested: contribute to the [ARF Team Docs](products/accredited-representative-facing)
+- [ ] Suggested: improve this onboarding document for the next person
