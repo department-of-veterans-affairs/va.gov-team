@@ -296,8 +296,6 @@ Provide a link to any materials you need to run your study, including any materi
   
 -    [Link to prototype](https://codepen.io/team/Debt-Team/live/mdZZdeP)
 
-  
-- **Please note: We are in the process of finalizing Codepen prototypes, which will be responsive.** 
     
 
 ## Recruitment
