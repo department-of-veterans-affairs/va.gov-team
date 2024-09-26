@@ -22,8 +22,6 @@
     - 🟩 [Write query to fetch referrals and write code to parse data into shared db in VA ecosystem](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92927)
     - 🟩 [Rebuild Pending page based off of new design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92771)
     - 🟩 [[FE] Referral Review - update design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
-- **Check in with staff after checking in**
-    - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
 - **OH Travel**
     - 🟦 [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
     - 🟦 [[BE] [OH] update travel claims status check worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93077)
@@ -32,6 +30,10 @@
     - 🟦 [[BE] [OH] update travel claims client to use a different client id for OH claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93074)
     - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
     - 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
+- **Check in with staff after checking in**
+    - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
+    - Schedule Design Intent (PO Sync occurred on 9/25)
+    - Schedule Research Review
 - **Edit existing content on a resources and support page from Check in**
     - TBD
 - **CIE Analytics**
