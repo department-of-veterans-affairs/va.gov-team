@@ -252,8 +252,8 @@ If not, then start filing Github issues for new categories of errors following [
 
 - [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
  - [LD] We currently have alerts in the Appointments application
- - 500 error state - will enter the details here
- - 400 error state - will enter the details here
+ - 500 error state - We follow the design system guidlines for displaying alert/error to display an alert with this message. "We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later."
+ - 400 error state - We follow the design system guidlines for displaying alert/error to display an alert with this message. "We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later."
  - FE alerts diagram (will insert here) 
 
   - [JL] I’m not sure how we can be certain of this but I suppose the documentation part will help us answer this question?
