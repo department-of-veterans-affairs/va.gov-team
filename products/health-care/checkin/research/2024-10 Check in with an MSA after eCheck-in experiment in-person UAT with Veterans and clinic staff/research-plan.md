@@ -100,7 +100,7 @@ TBD
 ### Research materials 
 
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-with-staff.md)
-- Research plan
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2024-10%20Check%20in%20with%20an%20MSA%20after%20eCheck-in%20experiment%20in-person%20UAT%20with%20Veterans%20and%20clinic%20staff/research-plan.md)
 - Conversation guide 
 
 ## Recruitment
