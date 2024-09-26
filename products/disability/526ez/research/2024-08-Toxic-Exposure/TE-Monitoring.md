@@ -10,7 +10,12 @@
 **Jump to:**
 1. [Background](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#background)
 2. [Schedule of Reporting](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#schedule-of-reporting)
-3.  526ez Success Metrics by % rollout
+3. [526ez Success Metrics by % rollout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#526ez-success-metrics-by--rollout)
+    - Toxic Exposure Abandonment
+    - Overall Form Abandonment
+4.  [Summary of Medallia survey and Contact Center data](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#summary-of-medallia-survey-and-contact-center-data)
+5.  [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#appendix)
+    [- Evaluating success metrics throughout launch](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#appendix)
 
 ## Background
 We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. By tracking interactions and gathering feedback, we will identify any issues with TE early so we can make data-driven improvements. 
