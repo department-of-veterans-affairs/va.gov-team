@@ -31,6 +31,7 @@
 * Q4 Planning milestones
   * [Quarterly Planning Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/planning/quarterly%20planning/MobileQuarterlyPlanningProcess.md)
   * Readout in SoS Oct. 16
+* Home screen 60 day data readout
 
 ## 9/18/24
 * **Epics Review**
