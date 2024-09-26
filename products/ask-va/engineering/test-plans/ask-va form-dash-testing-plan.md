@@ -10,7 +10,7 @@ Jump to:
 - [7. Pre-Launch Checklist](#7-Pre-Launch-Checklist)
 
 ## 1. Scope and Objectives
-- **Scope:** Ask VA form and dashboard covering all steps and fields, validation rules, usability and data submission.
+- **Scope:** Ask VA form and dashboard covering all steps and fields, validation rules, usability and data submission. View our scope in [Ask VA variation points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/ask-va-variation-points.md).
 - **Objectives:** Ensure the form functions correctly, validates input, integrates properly with the backend, [CRM and other APIs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration), and provides a smooth user experience with appropriate accessibility expectations.
 
 Reference Docs: 
@@ -22,7 +22,6 @@ Reference Docs:
 - [Ask VA variation points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/ask-va-variation-points.md)
 - **Timeline:** [View our timeline in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12?wid=0-1717520164261)
  
-
 ## 2. Testing Types
 - **Unit Testing:** Test individual components and functions.
 - **Integration Testing:** Ensure different components work together.
