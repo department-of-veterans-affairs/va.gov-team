@@ -99,7 +99,7 @@ Because this work involves so many teams (the ARF team, GCLAWS team, Forms Libra
 * [Slack thread in #veteran-facing-forms](https://dsva.slack.com/archives/C044AGZFG2W/p1720561869891279) asking about **progress within a step/progress bar** ([ARM also also tagged our team](https://dsva.slack.com/archives/C0643ADPP60/p1720614998814519), offering the same resources.)
 * [Slack thread in #sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH/p1719960829744819) asking **if we should use "Military history," "Service history," or "Military service history"** (no response)
 * [Slack thread in #veteran-facing-forms](https://dsva.slack.com/archives/C044AGZFG2W/p1719871679682529) asking **if we should use "Military history," "Service history," or "Military service history"**
-* [Slack thread in #sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH/p1719531652111479) about office hours 
+* [Slack thread in #sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH/p1719531652111479) about **office hours** 
 * [Slack thread in #platform-design](https://dsva.slack.com/archives/CQB4DP56V/p1721418955736989) about **design approach to min/max**
 * [Slack thread in #design](https://dsva.slack.com/archives/C0NGDDXME/p1721433911257739?thread_ts=1720443623.691809&cid=C0NGDDXME) about the **progress bar** (see also the [feature request in Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70094) and their [Figma file](https://www.figma.com/design/PvD4V93eBOXyKwmBfIJk47/AVA-Component-library?node-id=264-14575&t=ziot6pGkpkBABoJq-1))
 * [Slack thread in #veteran-facing-forms](https://dsva.slack.com/archives/C044AGZFG2W/p1723226324502029) about **expandUnder accessibility**
