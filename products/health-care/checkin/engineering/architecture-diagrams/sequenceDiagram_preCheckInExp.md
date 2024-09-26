@@ -51,41 +51,71 @@ sequenceDiagram
 ### Start Pre check-in
 When Veterans click on the link in the text message, they are redirected to the website that calls vets-api to start pre check-in. This is more involved than the start of day of check-in process as vets-api also calls CHIP to refresh the pre check-in data in LoROTA so that Veterans are shown the latest data. Once the refresh is done and an existing session is not found, they are redirected to the auth page.
 
+
+#### Short URL -> Pre-Check-In URL
+
 ```mermaid
 sequenceDiagram
-    actor vet as Veteran
-    participant url as URL Shortener Service
-    participant web as vets-website
-    participant api as vets-api
-    participant c as CHIP
-    participant l as LoROTA
-    participant va as VistA API
-    participant cw as Clinician Workflow
+  actor vet as Veteran
+  participant var as VA.gov Reverse Proxy
+  participant url as URL Shortener Service
+  participant db as Short URL DB
+  activate vet
+  note right of vet: Click on "check-in" short URL
+  vet->>+var: GET /c/{id}
+  var->>+url: GET /short-urls/{id}
+  url->>+db: GET /{key: id, TableName: table-name}
+  break id not found 
+    db--)url: 404 Not Found
+    url--)var: 404 Not Found
+    var--)vet: 404 Not Found      
+  end
+  break url expired
+    db--)url: 404 Short URL expired
+    url--)var: 404 Short URL expired
+    var--)vet: 404 Short URL expired
+  end
+  url--)-var: 301 redirect
+  var--)-vet: 301 redirect
+  deactivate vet
+```
 
-    activate vet
-    vet->>+url: Click on short URL
-    url--)-vet: 301 redirect
-    vet->>+web: load "health-care/appointment-pre-check-in"
-    web->>+api: GET /sessions
-    api->>+c: refresh precheckin
-    c->>+l: get saved data
-    l--)-c: data
-    c->>+va: get appointments
-    va--)-c: appointments
-    par
+#### Starting Pre-Check-In
+
+```mermaid
+sequenceDiagram
+  actor vet as Veteran
+  participant web as vets-website
+  participant api as vets-api
+  participant c as CHIP
+  participant l as LoROTA
+  participant va as VistA API
+  participant cw as Clinician Workflow
+
+  activate vet
+
+  vet->>+web: load "health-care/appointment-pre-check-in"
+  web->>+api: GET /sessions
+  api->>+c: refresh precheckin
+
+  c->>+l: get saved data
+  l--)-c: data
+  c->>+va: get appointments
+  va--)-c: appointments
+  par
     c->>+va: get demographics
     va--)-c: demographics
-    and
+  and
     c->>+cw: get demographics confirmations
     cw--)-c: demographics confirmations
-    end
-    c->>+l: save data
-    l--)-c: documentId
-    c--)-api: refreshed
-    api->>api: check if session exists
-    api--)-web: session doesn't exist
-    web--)-vet: redirect to login page
-    deactivate vet
+  end
+  c->>+l: save data
+  l--)-c: documentId
+  c--)-api: refreshed
+  api->>api: check if session exists
+  api--)-web: session doesn't exist
+  web--)-vet: redirect to login page
+  deactivate vet
 ```
 
 ### Authentication
