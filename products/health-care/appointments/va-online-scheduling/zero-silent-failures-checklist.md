@@ -109,7 +109,7 @@
 A: I believe you are correct and I will look into confirming this. @JunTaoLuo where did you find that info on the sidekiq jobs? [CF]
 A: I'm just looking through Sidekiq documentation and the code [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/user_service.rb#L26). [JL]
 A: Confirmed that our understanding of the sidekiq job for the user session is correct, this should not be breaking failure in our flow. [CF]
-A: FYI I've found another Sidekiq job that validates appointments_index schema [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/v2/appointments_service.rb#L43) but this is currently turned off via Flipper.
+A: FYI I've found another Sidekiq job that validates appointments_index schema [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/v2/appointments_service.rb#L43) but this is currently turned off via Flipper. [JL]
 - [JR] We don't have visibility to downstream services so we can only confirm that we don't use Sidekiq in the Appointments FE (src/applications/vaos) and BE (modules/vaos).
 
 If you answered yes to any of these questions then go through the following [checklist](#checklist) as a team exercise to determine if your application has silent failures.
@@ -277,7 +277,7 @@ Please document the outcome of this conversation in your product's documentation
 - [JL] Long standing requests without response?
 - [JL] ~~Session extension failure (Sidekiq job)~~ Does not break user flow upon failure
 - [JL] ~~Schema validation failure (Sidekiq job)~~ Turned off via Flipper
-- [JL] Partial responses
+- [JL] ~~Partial responses~~ We display an alert indicating to the user that not all appointments were loaded
 - [JM] ~~Clinic location mis-entered with codes rather than floor or room number~~ Does not break application
 - [SA] When user gets dropped to request flow due to ineligibility for direct schedule, no message is shown to end user. Is this considered a silent failure?
 
