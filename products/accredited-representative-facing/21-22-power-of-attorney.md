@@ -32,6 +32,7 @@ Over the yearlong POP (September 2023-September 2024) the ARF team gathered info
 * We need to understand how fast/slow search, fetch, and (maybe) sort actions are since we've been speculating a bit on that so that would be an engineering task. Design/content may need to be adjusted based on how that plays out.
 * As we get closer to launch, explore ways that we can meld the IA/header and footer for this feature (POA requests) with the other features our team explored (contact info updating and 21a). The IA that gets selected for the initial ARP release will be entirely dependent on which feature(s) go live first. These features have been designed independently so far, but if two features go live at the same time, the team will need to explore how it should be presented. 
 * See the [Future Research Activities Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718980793805/b1c89e3110a00b235ee30bc04bab3cc96a33c696?sender=u2a4240a640b257ce33545495) for more information on proposed research studies about 21-22 and other ARP features.
+* See also the [High-Level Next Steps for Accredited Representative Facing (ARF) Engineering Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/2024-ARF-engineering-next-steps.md) (Github).
 
 ## Resources 
 
