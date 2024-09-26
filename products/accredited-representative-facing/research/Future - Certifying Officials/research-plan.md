@@ -57,7 +57,8 @@ Below is a partial accounting of information gaps around certifying officials th
 
 1. If a representative doesn’t conduct business out of their home, would there ever be any reason to display their home address on their public profile?
 2. How does a certifying official learn of changes to the representative’s business contact information?
-3. How often do representatives use a PO box as their default mailing address? 
+3. How often do representatives use a PO box as their default mailing address?
+4. What are your thoughts about if we should list both a physical address and a mailing address for representatives on FAR?
 
 **Renewals and notifications**
 
