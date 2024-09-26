@@ -182,7 +182,6 @@ sequenceDiagram
   cw--)c: demographics confirmations
 ```
 
-
 ### Authentication
 This is the flow when Veterans submit their last4/last name to complete the LoROTA low auth flow. If successfully authenticated, LoROTA returns the stored data from DynamoDB. The data includes patient's demographic update status. If any of the demographic data requires updates, they are shown those demographic pages to confirm that their data is correct. One additional step in pre check-in authentication scenario is when vets-api calls a CHIP lambda to set the pre check-in started status in VistA.
 
@@ -290,4 +289,59 @@ sequenceDiagram
   web--)-vet: success page
 
   deactivate vet
+```
+
+
+#### Clinician Workflow: Set Demographics Status
+
+CHIP's request to Clinician Workflow to set demographics status kicks off its own series of requests to VistA stations via Vista API.
+
+```mermaid
+sequenceDiagram
+  participant c as CHIP
+  participant cw as Clinician Workflow
+  participant va as Vista API
+  participant val as VistA Stations
+
+  c->>+va: get Vista token
+
+  activate c
+
+  break any error occurs
+    va--)c: return error
+  end
+
+  va--)-c: valid token returned
+
+  c->>+cw: set demographics status
+
+  cw->>+va: get VistA token
+
+  break any error occurs
+    va--)cw: return error
+    cw--)c: return error
+  end
+
+  va--)-cw: valid token returned
+
+  cw->>+va: set demographics by patient
+
+  break any error occurs
+    va--)cw: return error
+    cw--)c: return error
+  end
+
+  va->>+val: RPC SDEC EDIT PAT PRE-REGISTRATION
+
+  break any error occurs
+    val--)va: return error
+    va--)cw: return error
+    cw--)c: return error
+  end
+
+  val--)-va: demographics returned
+  va--)-cw: demographics returned
+  cw--)-c: demographics confirmations
+
+  deactivate c
 ```
