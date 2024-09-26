@@ -7,30 +7,37 @@ Pre check-in is inititated by VEText based on a configurable number of days prio
 sequenceDiagram
     actor vet as Veteran
     participant val as VistA Stations
-    participant va as Vista API
     participant vt as VEText
     participant c as CHIP
+    participant va as Vista API
     participant l as LoROTA
-    participant cw as Clinician Workflow
     participant url as URL Shortener Service
 
-    val->>+va: initiate pre-check-in
-    va->>+vt: initiate pre-check-in
+    val->>+vt: initiate pre-check-in
     vt->>+c: initiate pre check-in
+
     c->>+va: get appointments
     va--)-c: appointments
-    par
-    c->>+va: get demographics
-    va--)-c: demographics
-    and
-    c->>+cw: get demographics confirmations
-    cw--)-c: demographics confirmations
+
+    break already checked in
+      c--)vt: return error (ALREADY_CHECKED_IN)
     end
+
     c->>+l: save appointments
+    break any error occurs
+      l--)c: return error
+      c--)vt: return error (INTERNAL_SERVER_ERROR)
+    end
     l--)-c: documentId
+
     c--)-vt: documentId
-    vt->>+url: get short url
+
+    vt->>+url: shorten url
+    break any error occurs
+      url--)vt: return error (INTERNAL_SERVER_ERROR)
+    end
     url--)-vt: short url
+
     vt->>-vet: send text (short url)
 ```
 
