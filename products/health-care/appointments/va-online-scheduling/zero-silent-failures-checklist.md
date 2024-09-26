@@ -237,8 +237,6 @@ If not, then start filing Github issues for new categories of errors following [
  - 400 error state - [SA] We follow the design system guidlines for displaying alert/error to display an alert with this message. "We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later."
  - FE alerts diagram (will insert here) 
 
-  - [JL] I’m not sure how we can be certain of this but I suppose the documentation part will help us answer this question?
-
 If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
 
 ### Documentation
