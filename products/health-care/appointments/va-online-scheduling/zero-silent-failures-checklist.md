@@ -195,25 +195,6 @@ If not, [implement tagging standards](https://depo-platform-documentation.scroll
 
 - [x] Do errors detected by Datadog go into a Slack notifications channel?
 
-    - VA Direct Schedule Flow
-        - [x] Yes [JL]
-        - [ ] No
-    - COVID Vaccine Flow
-        - [x] Yes [JL]
-        - [ ] No
-    - VA Request Flow
-        - [x] Yes [JL]
-        - [ ] No
-    - CC Request Flow
-        - [x] Yes [JL]
-        - [ ] No
-    - Manage Appointments Flow
-        - [x] Yes [JL]
-        - [ ] No
-    - Cancellation Flows
-        - [x] Yes [JL]
-        - [ ] No
-
  - [JL] We have this set up too. Messages go to [#appointments-alerts](https://dsva.slack.com/archives/C016QB6T340) channel.
 
 If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
@@ -266,35 +247,8 @@ If not, then file Github issues to capture error categories following [this guid
 
 _Our [architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png) may suffice here and we may not need to diagram for each flow [RS]_
 
-    - VA Direct Schedule Flow
-        - [ ] Yes
-        - [ ] No
-    - COVID Vaccine Flow
-        - [ ] Yes
-        - [ ] No
-    - VA Request Flow
-        - [ ] Yes
-        - [ ] No
-    - CC Request Flow (WIP [RS])
-        - [ ] Yes
-        - [ ] No
-    - Manage Appointments Flow
-        - [x] Yes [JL]
-        - [ ] No
-    - Cancellation Flows
-        - [x] Yes [JL]
-        - [ ] No
-
 If not, then [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md) that captures this information.
 
-Link to data flow diagram:
-
-- VA Direct Schedule Flow
-- COVID Vaccine Flow
-- VA Request Flow
-- CC Request Flow (WIP [RS])
-- Manage Appointments Flow
-- Cancellation Flows
 
 - [X] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? This should be captured in the data flow diagram or a separate document.
 
@@ -302,35 +256,9 @@ Link to data flow diagram:
 
 If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
-Link to user flow diagram:
-
-- VA Direct Schedule Flow
-- COVID Vaccine Flow
-- VA Request Flow
-- CC Request Flow
-- Manage Appointments Flow
-- Cancellation Flows
-
-- [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
-
-    - VA Direct Schedule Flow
-        - [ ] Yes
-        - [ ] No
-    - COVID Vaccine Flow
-        - [ ] Yes
-        - [ ] No
-    - VA Request Flow
-        - [ ] Yes
-        - [ ] No
-    - CC Request Flow
-        - [ ] Yes
-        - [ ] No
-    - Manage Appointments Flow
-        - [ ] Yes
-        - [ ] No
-    - Cancellation Flows
-        - [ ] Yes
-        - [ ] No
+- [X] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+- [LD] The owner of the system of record does not recieve the the user data indiciation of when the application has a failure. Our team will notify the services team when we come into a issue with any of the upstream services. 
+   
  - [JL] This will likely be a large work item since we’ll need to coordinate with OCTO to obtain agreements with all the systems listed in the diagram [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png). But I feel that we will not need to take much action other than communicating what services we depend on.
 
 If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
