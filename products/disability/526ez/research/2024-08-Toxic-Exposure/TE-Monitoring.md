@@ -8,14 +8,14 @@
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
 **Jump to:**
-1. [Background](## Background)
-2. [Schedule of Reporting]((##Schedule-of-Reporting))
-3. [526ez Success Metrics by % rollout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#526ez-success-metrics-by--rollout)
+1. [Background]
+2. [Reporting Schedule]
+3. [526ez Success Metrics by % rollout]
     - Toxic Exposure Abandonment
     - Overall Form Abandonment
-4.  [Summary of Medallia survey and Contact Center data](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#summary-of-medallia-survey-and-contact-center-data)
-5. [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#appendix)
-    [- Evaluating success metrics throughout launch](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#appendix)
+4.  [Summary of Medallia survey and Contact Center data]
+5. [Appendix]
+    [- Evaluating success metrics throughout launch]
 
 ## Background
 We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. By tracking interactions and gathering feedback, we will identify any issues with TE early so we can make data-driven improvements. 
@@ -32,7 +32,7 @@ We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for 
 ### Scope of this report
 This reporting will seek to keep all stakeholders informed of the rollout's progress. Beyond this documentation, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
 
-## Schedule of reporting
+## Reporting Schedule
 - Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. 
 - Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts. Requesting and reviewing Medallia data takes 1-3 days; delay is noted in the table below. 
 
