@@ -29,6 +29,11 @@ Further complicating these issues, VA facilities and clinics aren't mandated (i.
 #### Complaints from Veterans
 - Out of ~574 responses in early 2024, there were 44 complaints from Veterans specifically about either, 1) clinic staff ignoring eCheck-ins, or 2) not enough information in appointment reminders and eCheck-in for them to find the clinic for their appointment(s). ([VSignals Summary of Common Themes from Veterans Report](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/EQl4f33NUjBDssglCQbteiEB4YP850RQPK-SgGlRotMGDA?e=ihkF9M).)
 
+<img width="800" alt="Screenshot 2024-09-25 at 10 31 00 AM" src="https://github.com/user-attachments/assets/9cd69553-a359-45a1-8437-e00127ac241d"><br/><br/>
+
+<img width="800" alt="Screenshot 2024-09-25 at 10 31 10 AM" src="https://github.com/user-attachments/assets/8cc87fde-829e-49dd-9195-092d248d599e">
+
+
 ## OCTO-DE goals this research supports
 
 - Veterans can manage their health services online
