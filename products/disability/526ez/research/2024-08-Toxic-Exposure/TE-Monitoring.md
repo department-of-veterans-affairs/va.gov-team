@@ -16,15 +16,19 @@
   
 ## Background
 We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. By tracking interactions and gathering feedback, we will identify any issues with TE early so we can make data-driven improvements. 
+<details>
+  <summary>Click to expand Goals & Impact</summary>
+    
 - This report will document GA4, Data Dog, Contact Center, and Medallia survey data over the course of the release.
-- We are considering adding Contact Center as a data source to capture the feedback of Veterans calling for help on TE.
 - Relevant tickets: [(#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [(#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
 
 ### Goals & Impact
 1. Monitoring the release will help us determine if and when we need to pause the incremental release of TE. We will be looking for major technical blockers or patterns of very negative open response feedback in the data to inform our decision-making.
-2. Reviewing Medallia data will help us focus our upcoming usability research on the new feature. We will leverage early findings in monitoring to shape the research plan and hypotheses. 
-
+2. Reviewing Medallia data will help us focus our upcoming usability research on the new feature. We will leverage early findings in monitoring to shape the research plan and hypotheses.
+3. 
 **Note:** We will be responsive to the release, updating our monitoring approach as we learn more/better!
+ </details>   
+
 
 ### Scope of this report
 This reporting will seek to keep all stakeholders informed of the rollout's progress. Beyond this documentation, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
@@ -158,6 +162,10 @@ Top takeaways will come from the combined review of GA4 and Medallia whenever th
 ## Appendix 
 
 ### 526ez pages with the most responses
+
+<details>
+  <summary>Click to expand</summary>
+    
 **Feedback survey**
 |Rank|Pre-launch (6 weeks)| **1.0 rollout** | **1.1 rollout**|
 |--|--|--|--|
@@ -174,9 +182,12 @@ Top takeaways will come from the combined review of GA4 and Medallia whenever th
 |1|Introduction (42 / 49%)|||
 |2| Start (22/ 26%)|||
 |3| Veteran Information (7 / 8%)|||
+</details>
 
 ### Codebook
 See full list of codes and their definitions below. 
+<details>
+  <summary>Click to expand</summary>
 |Code|Definition|
 |--|--|
 |Usability|Responses that describe specific usability issues not encompassed by other tags. Examples include character limits, inability to update prefill, not being able to continue, etc.|
@@ -190,3 +201,4 @@ See full list of codes and their definitions below.
 |Intent to File| Responses that reference Intent to File or upcoming ITF deadlines|
 | Bright spot| Positive feedback or something that’s working well|
 |General|Responses that included non-specific qualitative information, such as "filing"|
+</details>
