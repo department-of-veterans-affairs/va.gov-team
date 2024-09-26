@@ -11,8 +11,8 @@
 **Jump to:**
 - [Background](#background)
 - [Reporting Schedule](#reporting-schedule)
-- [526ez Success Metrics](#526ez-success-metrics-by-%-rollout)
-    - [Validating success metrics](#success-metric-validation)
+- [526ez Success Metrics](#526ez-success-metrics)
+    - [Validating our metrics](#success-metric-validation)
 - [Medallia survey and Contact Center data](#medallia-survey-and-contact-center-data)
 - [Appendix](#appendix)
   
@@ -49,7 +49,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |75%|||
 |100%|| | Request on Oct 25|
 
-## 526ez Success Metrics by % rollout
+## 526ez Success Metrics
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|
 | Abandonment rates| 33.61% | 33.61% | 0% | 1.8% | | | |  |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)|
@@ -87,7 +87,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |**TE opt in**|	"What portion of Veterans are choosing to answer the TE questions?|	"We see 39% opt-in for the submission record (Aurora looked at raw database data) and GA4.We see this match up as evidence that we can use GA4 to measure ""opt-in"" throughout the release. 117 TE clams in EVSS around Aug 28th"	Having more data improves overall accuracy. |TE opt-in, currently at 48% is 10% greater than at the 5% increment.		# of submissions isn't going to equal number of GA4 active users since GA4 does not track the same user across multiple sessions or devices. Submissions will be lower than page views. Some users may take more than one session to go back and forth in the form.|| 	"Measure how many Veterans completed the TE questions at end of 1.0 and 1.1. This will tell us what percentage of Veterans submitted vs. viewed TE questions, which could help inform research design. This is a nice-to-have addition.|	
 |**TE abandonment**|	"Percentage of people drop-off in the TE flow and don't continue to the next page (measured by change in page views).|"Close to zero abandonment was observed in raw database data as well as GA4.|-|-|We are wary of absolutely no abandonment and will continue to track this metric as the release continues. "	We view it as a positive sign that abandonment rate with the TE flow is low, 1.33% on average.|	Closely monitor as the release continues|
 |**Overall form abandonment**|	Percentage of people drop-off at each page in the 526 and don't continue to the next page (measured by change in page views)|	"The data at 5% did not align with expected behavior for abandonment. We are revisiting the approach to see if we can get better data. | Overall abandonment rate at 10% increment is lower than the baseline, and remains steady +/-2%. ||	We know from past discovery that measuring drop off throughout the 526 is difficult to manage with the 10 step limit to GA4. Because so many pages are conditional, it is also hard to find pages at regular intervals that all Veterans see. |Christine and Jared decided to use a more blunt means of measing overall abandonment, selecting just the Introduction and Confirmation page since conditional logic issues are cirvumvented when using these two pages.
-|**Top page views**| Report that shows the 10 top TE page views.| Christine generated this during our discovery to validate the 5% numbers. It is a straightforward count of page views. ||	75% of Veterans viewing Toxic Exposure pages use a desktop browser, 24.6% use a mobile device. Page views of gulf war 1990, 2001, herbicide, and additional exposures are the most viewed and views across these pages are consistent, with only a 12.42% difference in page views between these pages. Other and MOS additional exposures were the least viewed of all Toxic Exposure pages, representing just 5% of total views.		|||	"We wonder if we could use this report down the road to calculate a rough average number of pages that a Veteran sees in the TE flow. 
+|**Top page views**| Report that shows the 10 top TE page views.| Christine generated this during our discovery to validate the 5% numbers. It is a straightforward count of page views. |	75% of Veterans viewing Toxic Exposure pages use a desktop browser, 24.6% use a mobile device. Page views of gulf war 1990, 2001, herbicide, and additional exposures are the most viewed and views across these pages are consistent, with only a 12.42% difference in page views between these pages. Other and MOS additional exposures were the least viewed of all Toxic Exposure pages, representing just 5% of total views.		|||	"We wonder if we could use this report down the road to calculate a rough average number of pages that a Veteran sees in the TE flow. 
 
 ## Medallia survey and Contact Center data 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
