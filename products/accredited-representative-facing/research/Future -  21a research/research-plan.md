@@ -144,9 +144,9 @@ Timeline is an estimation and will be updated if needed. Dependencies that may i
 
 ## Team Roles
 
-* **Moderators:** TBD
-* **Research guide writing and task development:** TBD
-* **Participant recruiting & scheduling:** TBD
-* **Project point of contact**: TBD
-* **Notetakers:** TBD
-* **Observers:** TBD
+* Moderators: TBD
+* Research guide writing and task development: TBD
+* Participant recruiting & scheduling: TBD
+* Project point of contact: TBD
+* Notetakers: TBD
+* Observers: TBD
