@@ -345,10 +345,8 @@ The following feedback highlights general aspects of the [VA.gov](http://va.gov/
 - [Link to transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/ImageUploader/Transcripts)
 
 ### **Tools used for Synthesis**
-
-[Dovetail for transcription & tagging](https://iir-workspace-epf3.dovetail.com/projects/1fnDiRThXwm9VymUV6Znga/tags/b/2SQBixJJmgYiLkFwEpU1PN) 
-
-[Figma for affinity mapping](https://www.figma.com/design/OjptXN3dzYqJHDQb8zV2eb/CMS-Research?node-id=559-2&t=v8GPR79ZnFBLkIGh-1)
+- [Dovetail for transcription & tagging](https://iir-workspace-epf3.dovetail.com/projects/1fnDiRThXwm9VymUV6Znga/tags/b/2SQBixJJmgYiLkFwEpU1PN) 
+- [Figma for affinity mapping](https://www.figma.com/design/OjptXN3dzYqJHDQb8zV2eb/CMS-Research?node-id=559-2&t=v8GPR79ZnFBLkIGh-1)
 
 ### **Pages and applications used**
 
