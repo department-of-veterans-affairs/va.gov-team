@@ -113,12 +113,13 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 ### Guiding Questions for UX Monitoring
 <details>
   <summary>Click to expand questions </summary>
+
 1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
 2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
 3. What challenges (usability issues, bugs, general pain points) are Veterans encountering with the feature? 
 4. How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
 5. What impact does the new feature have on Veteran trust in VA?
-</details>details> 
+</details>
 
 ### Overall 526ez
 All Medalia survey data is reported as a % of 4+5 answers.
