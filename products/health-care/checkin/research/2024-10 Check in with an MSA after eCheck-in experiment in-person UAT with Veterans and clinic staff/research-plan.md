@@ -61,7 +61,7 @@ In addition, it’s important to understand the outcomes of this research at VA 
 5. Has the workload increased or decreased for MSAs or clinicians checking patients in? If so, why and how? 
 6. Has the average amount of time increased or decreased for Veterans waiting in line to check in with clinic staff? I.e., observationally. 
 7. Has the amount of missed appointments, Veterans arriving late or being at the wrong clinic, lost patients, and/or canceled appointments by VA staff (when eCheck-in status is set to completed) increased or decreased?
-8. Understand what the highest value improvement would be for patient tracking and check in for clinicians and MSAs.   
+8. Understand what the highest value improvement would be within these staff-facing tools to better support patient tracking and check ins for clinicians and MSAs.   
 9. Has clinic patient tracking operations and communication between front of house and back of house improved, remained the same, or worsened? And, why? 
 
 ## Hypothesis
