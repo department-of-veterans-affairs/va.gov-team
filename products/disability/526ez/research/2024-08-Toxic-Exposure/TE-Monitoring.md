@@ -7,7 +7,7 @@
 
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
-**Jump to:**
+**All Monitoring content is in this document. Jump to:**
 - [Background](#background)
 - [Reporting Schedule](#reporting-schedule)
 - [526ez Success Metrics](#526ez-success-metrics-by-%-rollout)
@@ -15,7 +15,6 @@
 - [Medallia survey and Contact Center data](#medallia-survey-and-contact-center-data)
 - [Appendix](#appendix)
   
-
 ## Background
 We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. By tracking interactions and gathering feedback, we will identify any issues with TE early so we can make data-driven improvements. 
 - This report will document GA4, Data Dog, Contact Center, and Medallia survey data over the course of the release.
