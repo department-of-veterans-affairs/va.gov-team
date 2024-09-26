@@ -36,7 +36,7 @@ Further complicating these issues, VA facilities and clinics aren't mandated (i.
 
 ## How this research maps to the Veteran journey 
 
-<img width="1000" alt="Screenshot 2024-09-25 at 11 07 33 AM" src="https://github.com/user-attachments/assets/4140f4f6-7d46-4564-8faa-0a52514661e1">
+<img width="800" alt="Screenshot 2024-09-25 at 11 07 33 AM" src="https://github.com/user-attachments/assets/4140f4f6-7d46-4564-8faa-0a52514661e1">
 
 ## Research goals 
 
