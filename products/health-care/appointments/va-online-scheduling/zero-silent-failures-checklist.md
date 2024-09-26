@@ -243,58 +243,26 @@ Link to Playbook:
 > If you answered no to any of the questions above, you will be blocked from shipping at the Staging review touchpoint in Collab Cycle.
 
 ### Reporting errors
-- [ ] Have you filed issues for errors that are appearing in Datadog / Slack?
+- [X] Have you filed issues for errors that are appearing in Datadog / Slack?
 
-    - VA Direct Schedule Flow
-        - [ ] Yes
-        - [ ] No
-    - COVID Vaccine Flow
-        - [ ] Yes
-        - [ ] No
-    - VA Request Flow
-        - [ ] Yes
-        - [ ] No
-    - CC Request Flow
-        - [ ] Yes
-        - [ ] No
-    - Manage Appointments Flow
-        - [ ] Yes
-        - [ ] No
-    - Cancellation Flows
-        - [ ] Yes
-        - [ ] No
  - [JL] We have filed issues using data from our DataDog monitoring tools in the past when additional backend work was needed, e.g. 86316, 89619 and 90026. I believe there are currently no outstanding issues that need to be filed but we should update our practices to match the expectations listed in the linked document.
  - [JR,SA] Mentioned during the meeting that we also file MAPSUP tickets when needed.
 
 If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
 
-- [ ] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
+- [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
+ - [LD] We currently have alerts in the Appointments application
+ - 500 error state - will enter the details here
+ - 400 error state - will enter the details here
+ - FE alerts diagram (will insert here) 
 
-    - VA Direct Schedule Flow
-        - [ ] Yes
-        - [ ] No
-    - COVID Vaccine Flow
-        - [ ] Yes
-        - [ ] No
-    - VA Request Flow
-        - [ ] Yes
-        - [ ] No
-    - CC Request Flow
-        - [ ] Yes
-        - [ ] No
-    - Manage Appointments Flow
-        - [ ] Yes
-        - [ ] No
-    - Cancellation Flows
-        - [ ] Yes
-        - [ ] No
   - [JL] I’m not sure how we can be certain of this but I suppose the documentation part will help us answer this question?
 
 If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
 
 ### Documentation
 
-- [ ] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
+- [X] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
 
 _Our [architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png) may suffice here and we may not need to diagram for each flow [RS]_
 
@@ -328,26 +296,9 @@ Link to data flow diagram:
 - Manage Appointments Flow
 - Cancellation Flows
 
-- [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? This should be captured in the data flow diagram or a separate document.
+- [X] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? This should be captured in the data flow diagram or a separate document.
 
-    - VA Direct Schedule Flow
-        - [ ] Yes
-        - [ ] No
-    - COVID Vaccine Flow
-        - [ ] Yes
-        - [ ] No
-    - VA Request Flow
-        - [ ] Yes
-        - [ ] No
-    - CC Request Flow (WIP [RS])
-        - [ ] Yes
-        - [ ] No
-    - Manage Appointments Flow
-        - [ ] Yes
-        - [ ] No
-    - Cancellation Flows
-        - [ ] Yes
-        - [ ] No
+ - [LD] Our team understands when we recieved an error from the upstream services. We cannot tell what caused the issue from the upstream services.  
 
 If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
@@ -387,26 +338,8 @@ Please document the outcome of this conversation in your product's documentation
 
 ### User experience
 
-- [ ] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
-
-    - VA Direct Schedule Flow
-        - [ ] Yes
-        - [ ] No
-    - COVID Vaccine Flow
-        - [ ] Yes
-        - [ ] No
-    - VA Request Flow
-        - [ ] Yes
-        - [ ] No
-    - CC Request Flow
-        - [ ] Yes
-        - [ ] No
-    - Manage Appointments Flow
-        - [ ] Yes
-        - [ ] No
-    - Cancellation Flows
-        - [ ] Yes
-        - [ ] No
+- [X] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
+- [LD] We have alerts in the UI that displays when there is an issue with the application 
 
 ### Possible silent errors
 - [PR] Clinic phone numbers being disabled or mis-entered
