@@ -1,6 +1,51 @@
 # Design Weekly Sync Agenda
 
 
+
+## 2024-09-23
+Attendees: 
+
+Summary:
+[part overlap with research session]
+Analytics working session with Lois & Luis
+
+
+## 2024-09-16
+Attendees: 
+
+Summary:
+
+Would like to chat through the county field updates on the CG form - [Figma link](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?t=kjelMus8DMVBLq1t-0)
+[Design] 10-10CG - Explore design and content options for County field #92754
+
+From Heather in Slack: 
+RE County - Matt says it would not be a quick fix to put it on its own page, so we would need to determine if that is going to be a permanent change (thinking yes, but we can chat about it).  Also, a quick fix would be to add that US/USA/United States validation restriction.
+9:08
+RE data flows, there is that Visio, but we don't maintain that. We do have some high level diagrams in our folders
+[EZ architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/architecture-diagram.md) (GovDelivery is now VA Notify, has not yet been updated)
+[CG architectural overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf) - font is a bit tiny, but it does include the Mulesoft middleware
+
+
+## 2024-09-9
+Attendees: 
+
+Summary:
+CG 
+Research review / working session
+
+EZR
+- AEDP Team Prefill Research
+- Emergency Contact
+
+## 2024-09-03
+Attendees: 
+
+Summary:
+- Registration updates with not sure radio option removed
+- CG research check in
+
+
+
 ## 2024-08-26
 Attendees: Angela, Jessica, Hieu, Lois, Renata and Luis
 
