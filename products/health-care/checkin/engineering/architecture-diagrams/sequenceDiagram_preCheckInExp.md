@@ -17,6 +17,13 @@ sequenceDiagram
     vt->>+c: initiate pre check-in
 
     c->>+va: get appointments
+    va->>+val: RPC SDES GET APPTS BY PATIENT DFN2
+    break any error occurs
+      val--)va: return error
+      va--)c: return error
+      c--)vt: return error (INTERNAL_SERVER_ERROR)
+    end
+    val--)-va: appointments
     va--)-c: appointments
 
     break already checked in
