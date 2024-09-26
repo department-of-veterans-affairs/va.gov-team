@@ -66,10 +66,10 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 ### Overall Form Abandonment
 **Alternative approaches we're considering:** Removing all steps that are not seen by all Veterans (such as claim type) or exploring other non-funnel models for understanding the data. 
 
-| Step # | 526 Page | Baseline | Target | 5% | 10% | 25% | 50% | 75% | 100% |Data Source |
-|--|--|--|--|--|--|--|--|--|--|--|
-|Step 1| Introduction | 46.73% | 46.73% | 44.24% | | | | | |  [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 7| Confirmation | - | - |  | | |  | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+| Step # | 526 Page | Baseline | 5% | 10% | 25% | 50% | 75% | 100% |Data Source |
+|--|--|--|--|--|--|--|--|--|--|
+|Step 1| Introduction | 46.73% | 46.73% | 44.24% | | | | |  [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+|Step 7| Confirmation | - | - |  | | |  | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
 
 
 ## Summary of Medallia survey and Contact Center data 
