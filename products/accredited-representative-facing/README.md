@@ -56,6 +56,13 @@ In addition to the above content, the below files may be helpful in understandin
 - [ARF Team Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720019177037/1918bcb5dac0dab8a8103395aef7c9ddb347d6e6?sender=u2a4240a640b257ce33545495) (Mural; last updated in July 2024) 
 - [ARF Pilot Decision Record](https://docs.google.com/spreadsheets/d/1E4muMKOZJGPYe4vQGwmwj9_aViSun8wPq5PkZyT5bVM/edit?gid=0#gid=0) (**update to Sharepoint**)
 
+## Next Steps
+- Recommended next steps for each work stream are listed on the overview page for each respective work stream:
+  - [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md)
+  - [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md)
+  - [Contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md) 
+- Also see the [High-Level Next Steps for ARF Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/2024-ARF-engineering-next-steps.md) page
+
 ## The Team
 
 ### Core Members
