@@ -14,7 +14,7 @@
     - Toxic Exposure Abandonment
     - Overall Form Abandonment
 4.  [Summary of Medallia survey and Contact Center data](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#summary-of-medallia-survey-and-contact-center-data)
-5.  [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#appendix)
+5. [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#appendix)
     [- Evaluating success metrics throughout launch](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#appendix)
 
 ## Background
