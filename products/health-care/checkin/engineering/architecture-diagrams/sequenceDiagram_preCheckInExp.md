@@ -188,49 +188,49 @@ This is the flow when Veterans submit their last4/last name to complete the LoRO
 
 ```mermaid
 sequenceDiagram
-    actor vet as Veteran
-    participant web as vets-website
-    participant api as vets-api
-    participant l as LoROTA
-    participant c as CHIP
-    participant va as VistA API
+  actor vet as Veteran
+  participant web as vets-website
+  participant api as vets-api
+  participant c as CHIP
+  participant l as LoROTA
+  participant va as VistA API
 
-    alt invalid auth
-        activate vet
-        vet->>+web: Enter last4/last name
-        web->>+api: POST /sessions
-        api->>api: check in redis and session
-        api->>+l: POST /token
-        l--)-api: 401 invalid auth
-        api--)-web: 401 invalid auth
-        web--)-vet: error page
-        deactivate vet
-    else valid auth
-        activate vet
-        vet->>+web: Enter last4/last name
-        web->>+api: POST /sessions
-        api->>api: check in redis and session
-        api->>+l: POST /token
-        l--)-api: valid session
-        api->>api: save token in redis
-        api->>+c: set precheckin started
-        c->>+l: get appointments
-        l--)-c: appointments
-        c->>+va: set precheckin started
-        va--)-c: set
-        c--)-api: response
-        api--)web: return 'read.full'
-        deactivate api
-        web->>+api: GET pre check-in data
-        api->>+l: GET data
-        l--)-api: data
-        api--)-web: serialized data
-        opt demographics confirmations needed
-            web--)vet: demographics pages
-        end
-        web--)-vet: confirmation page
-        deactivate vet
-    end
+  activate vet
+
+  vet->>+web: Enter last4/last name
+  web->>+api: POST /sessions
+  api->>api: check in redis and session
+  api->>+l: POST /token
+
+  break invalid auth
+   l--)api: 401 invalid auth
+   api--)web: 401 invalid auth
+   web--)vet: error page
+  end
+
+  l--)-api: valid session
+
+  api->>api: save token in redis
+  api->>+c: set precheckin started
+  c->>+l: get appointments
+  l--)-c: appointments
+  c->>+va: set precheckin started
+  va--)-c: set
+  c--)-api: response
+  api--)-web: return 'read.full'
+
+  web->>+api: GET pre check-in data
+  api->>+l: GET data
+  l--)-api: data
+  api--)-web: serialized data
+
+  opt demographics confirmations needed
+    web--)vet: demographics pages
+  end
+
+  web--)-vet: confirmation page
+
+  deactivate vet
 ```
 
 ### Complete Pre check-in
