@@ -2,8 +2,6 @@
 
 Last updated by @tygindraux: September 26, 2024
 
-**Update**: We've recommended that US mail be removed. We have confirmed with business lines whether they'd like to keep US mail or agree with our recommendation to remove it as an option for their queue.
-
 Jump to:
 - [How this pattern works](#how-this-patterns-works)
 - [When to enable or disable contact options](#when-to-enable-or-disable-contact-options)
@@ -14,7 +12,7 @@ Jump to:
 
 If a business line supports 2 or more contact options, the form includes a question that asks for a submitter's contact preference. If a business line only supports 1 contact option (email), the form omits this question. This is determined based on category and topic.
 
-The confirmation page lets a submitter know how they will be contacted, whether it's by phone, email or U.S. mail. Even if a business line only supports 1 contact option (email) and the form omits the question, the confirmation page should still state how they will be contacted.
+The confirmation page lets a submitter know how they will be contacted, either by phone, email or U.S. mail. Even if a business line only supports 1 contact option (email) so the form omits the question, the confirmation page should still state how they will be contacted (by email).
 
 ## When to enable or disable contact options
 
