@@ -39,7 +39,8 @@ The new form will be a child page of [headstones, markers, and medallions](https
 
 **1) Cemetery official signature - request medallion form - New**
 - URL: va.gov/burials-memorials/memorial-items/headstones-markers-medallions/**cemetery-confirmation**-medallion-form-40-1330m/
-- Breadcrumb: NO BREADCRUMBS on this part of the form. 
+- Breadcrumb: NO BREADCRUMBS on this part of the form.
+- Developer notes: Make sure to noindex this page, so that it doesn't show up in any search results. We want to make sure veterans/family don't accidentally land on this page. ALSO, if you use parameters to display a specific application, make sure the parameters do not include PII (don't use social security number or anything like that in the parameter)
 - Notes: final URL is pending the H1 decision by the content team
 
 
