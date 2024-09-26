@@ -3,7 +3,7 @@
 
 ## Test Scenarios
 QA was performed manually by team members to the best of our ability based on limited resources and access to/knowledge of testing tools. 
-* Test cases (link tk)
+* [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-forms-status.md#my-va-forms-status-mvp---test-cases) (Github - sensitive repo)
 * Test cases (Github - A11y format) (link tk)
 * XLS spreadsheet TK (record of QA execution and findings)
 
