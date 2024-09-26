@@ -15,7 +15,10 @@ Studies 2-5 from the above table are also available in:
 - [VA Github Research Repository](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2?filterQuery=): Search 'VSOs label:"AUD: VSOs"'
 - [EnjoyHQ](https://app.enjoyhq.com/users/sign_in): All ARF research projects being with "Accredited Representative Portal". Ask [Janelle Finnerty](https://dsva.slack.com/team/U05ND2EMS9W) from the ARM team for EnjoyHQ login credentials.
 
-Participant recruitment was previously done through a [Google form](https://docs.google.com/forms/d/1COC4LzpflQdz4D5UNcNXUv_ej6vdg7LeYlilxoBLlqo/edit). That form has since been migrated to a [Microsoft form](https://forms.office.com/pages/responsepage.aspx?id=Ixtf6a-r7kWCHberJRqzv4cLYkW9qpVNsB4hyfWvYHZUQlNJUjkwQjRJQlZVVURXNTdVMjJRN1hQVC4u&route=shorturl) (Sharepoint). Lesley and Janelle from the ARM team manage this form.
+## Recruitment and Participant Management 
+Participant recruitment was previously done through a [Google form](https://docs.google.com/forms/d/1COC4LzpflQdz4D5UNcNXUv_ej6vdg7LeYlilxoBLlqo/edit). That form has since been migrated to a [Microsoft form](https://forms.office.com/pages/responsepage.aspx?id=Ixtf6a-r7kWCHberJRqzv4cLYkW9qpVNsB4hyfWvYHZUQlNJUjkwQjRJQlZVVURXNTdVMjJRN1hQVC4u&route=shorturl) (Sharepoint; file path Accredited Representative Facing > POA 21-22 > 00 Participant Panel). Lesley and Janelle from the ARM team manage this form.
+
+Read more about the process in the [Recruitment and Participant Management Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/Recruitment%20and%20Participant-Management%20Strategy.md) page (Github).
 
 ## Notes on Early Research
 † Additional information on the first set of research:
