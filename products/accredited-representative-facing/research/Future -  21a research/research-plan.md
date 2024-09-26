@@ -85,7 +85,7 @@ Online, over Zoom. Point of contact is [NAME, TITLE].
 
 ### Research materials
 
-* Link to [conversation guide](https://docs.google.com/document/d/13ddjsPhcT0LHhlZ5RIKg8BsBTphFGdfH7SasrkREf64/edit)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/Future%20-%20%2021a%20research/converation-guide.md)
 * [Link to staging environment](url goes here) and prototype(url goes here)(Figma)
 
 ## Recruitment
