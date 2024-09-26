@@ -221,6 +221,7 @@ sequenceDiagram
   va->>+val: RPC SDES SET APPT CHECK-IN STEP
   val--)-va: OK
   va--)-c: OK
+
   c--)-api: response
   api--)-web: return 'read.full'
 
@@ -243,32 +244,50 @@ After Veterans confirm their demographics data (if shown), website calls vets-ap
 
 ```mermaid
 sequenceDiagram
-    actor vet as Veteran
-    participant web as vets-website
-    participant api as vets-api
-    participant l as LoROTA
-    participant c as CHIP
-    participant va as VistA API
-    participant cw as Clinician Workflow
+  actor vet as Veteran
 
-    activate vet
-    vet->>+web: start pre check-in
-    opt demographics confirmations
-        web--)vet: confirm demographics data
-        vet->>web: confirmed
-    end
-    web->>+api: POST /pre check-in
-    api->>+c: pre check-in
-    c->>+l: get appointment
-    l--)-c: appointment
-    opt demographics confirmations
-        c->>+cw: set demographics status
-        cw--)-c: response
-    end
-    c->>+va: set precheckin complete
-    va--)-c: response
-    c--)-api: checkin successful
-    api--)-web: response
-    web--)-vet: success page
-    deactivate vet
+  participant web as vets-website
+  participant api as vets-api
+  participant c as CHIP
+  participant l as LoROTA
+  participant cw as Clinician Workflow
+  participant va as VistA API
+  participant val as VistA Stations
+
+  activate vet
+
+  vet->>+web: start pre check-in
+
+  opt demographics confirmations
+    web--)vet: confirm demographics data
+    vet->>web: confirmed
+  end
+
+  web->>+api: POST /pre-check-in
+  api->>+c: preCheckIn
+
+  c->>+l: get appointments
+  l--)-c: appointments
+
+  opt demographics confirmations
+    c->>+cw: set demographics status
+    cw--)-c: response
+  end
+
+  c->>+va: set precheckin complete
+  va->>+val: RPC SDES SET APPT CHECK-IN STEP
+  val--)-va: OK
+  va--)-c: OK
+
+  break any error occurs
+    c--)api: return error
+    api--)web: return error
+    web--)vet: show message (???)
+  end
+
+  c--)-api: checkin successful
+  api--)-web: response
+  web--)-vet: success page
+
+  deactivate vet
 ```
