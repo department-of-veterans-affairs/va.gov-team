@@ -11,7 +11,7 @@
 - [Background](#background)
 - [Reporting Schedule](#reporting-schedule)
 - [526ez Success Metrics](#526ez-success-metrics-by-%-rollout)
-- [Can we trust our success metrics?](#success-metric-validation)
+    - [Validating success metrics](#success-metric-validation)
 - [Medallia survey and Contact Center data](#medallia-survey-and-contact-center-data)
 - [Appendix](#appendix)
   
