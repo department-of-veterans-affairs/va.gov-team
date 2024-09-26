@@ -2,6 +2,29 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
+<summary>SPRINT 18 - 10/16/2024-10/29/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 18 - 10/16/2024-10/29/2024
+- **Production Support**
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
+    - **Move to New AWS Instance**
+      - TBD
+- **Community Care Direct Scheduling**
+    - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
+    - TBD
+- **OH Travel**
+    - TBD
+- **Check in with staff after checking in**
+    - TBD
+- **Edit existing content on a resources and support page from Check in**
+    - TBD
+- **CIE Analytics**
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93424)
+- **Tech Debt**
+    - TBD
+</details>
+
+<details>
 <summary>SPRINT 17 - 10/2/2024-10/15/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
@@ -30,6 +53,7 @@
     - 🟦 [[BE] [OH] update travel claims client to use a different client id for OH claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93074)
     - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
     - 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
+    - [Schedule Privacy, security, infrastructure readiness review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html)
 - **Check in with staff after checking in**
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
     - Schedule Design Intent (PO Sync occurred on 9/25)
