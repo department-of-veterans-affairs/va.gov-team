@@ -8,8 +8,8 @@
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
 **Jump to:**
-1. [Background](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#background)
-2. [Schedule of Reporting](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#schedule-of-reporting)
+1. [Background](## Background)
+2. [Schedule of Reporting]((##Schedule-of-Reporting))
 3. [526ez Success Metrics by % rollout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#526ez-success-metrics-by--rollout)
     - Toxic Exposure Abandonment
     - Overall Form Abandonment
