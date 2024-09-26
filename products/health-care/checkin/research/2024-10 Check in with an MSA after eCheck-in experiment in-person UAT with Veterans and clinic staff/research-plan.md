@@ -8,11 +8,13 @@ With the introduction of eCheck-in in early 2022, Veterans could check in remote
 
 Completing eCheck-in shows the patient as checked in within VistA and VSE-CS (i.e., both staff-facing applications), but Veterans do not have to be physically in the clinic waiting room at the time of completion, which is a mental model and process change for clinic staff.
 
+## Problem 
+
 With the introduction of eCheck-in, this additional modality to the check in process, reported by facility staff, has caused providers to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated to see their provider if eCheck-in wasn't completed correctly, etc. (More information about the problem below.)
 
 Further complicating these issues, VA facilities and clinics aren't mandated (i.e., there’s no VHA directive) to use Patient Check-in (PCI) and VSE-CS (PCI-CSV). And, not all clinical staff and MSAs are trained, and sometimes lack access, on how PCI and VSE-CS work. I.e., understanding the difference between pre-registration and check-in being complete (e.g., eCheck-in), but not necessarily having arrived at the clinic waiting room. 
 
-## Problem 
+### Problem areas 
 
 - Veterans using PCI, specifically eCheck-in, without a VHA directive mandating clinical staff and MSAs to use VSE-GUI and VSE-CS to review a patient's check in status, and understand that although checked in successfully, they might not be in the clinic waiting room, has caused clinical staff to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated to see their provider if eCheck-in wasn't completed correctly, etc.
 - Clinic operations, universally across VISNs, have not been able to figure out (or have unmet needs within VSE-GUI and VSE-CS on) how to, 1) identify when a patient has arrived at the clinic waiting room who has completed eCheck-in, and 2) let the clinical staff know the patient is ready to be seen.
