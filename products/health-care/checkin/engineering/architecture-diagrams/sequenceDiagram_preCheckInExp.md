@@ -91,6 +91,7 @@ sequenceDiagram
   participant c as CHIP
   participant l as LoROTA
   participant va as VistA API
+  participant val as VistA Stations
   participant cw as Clinician Workflow
 
   activate vet
@@ -100,25 +101,27 @@ sequenceDiagram
   api->>+c: refreshPreCheckin
 
   c->>+l: get saved data
+  l--)-c: data
+
+  c->>+va: get appointments
+  va->>+val: RPC SDES GET APPTS BY PATIENT DFN2
+  val--)-va: appointments
+  va--)-c: appointments
+
+  c->>+va: get demographics
+  va--)-c: demographics
+  c->>+cw: get demographics confirmations
+  cw--)-c: demographics confirmations
+
+  c->>+l: save data
+  l--)-c: documentId
+
   break any error occurs
-    l--)c: return error
     c--)api: return error
     api--)web: return error
     web--)vet: show message (???)
   end
-  l--)-c: data
 
-  c->>+va: get appointments
-  va--)-c: appointments
-  par
-    c->>+va: get demographics
-    va--)-c: demographics
-  and
-    c->>+cw: get demographics confirmations
-    cw--)-c: demographics confirmations
-  end
-  c->>+l: save data
-  l--)-c: documentId
   c--)-api: refreshed
   api->>api: check if session exists
   api--)-web: session doesn't exist
