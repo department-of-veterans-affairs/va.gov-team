@@ -14,7 +14,7 @@ sequenceDiagram
     participant url as URL Shortener Service
 
     val->>+vt: initiate pre-check-in
-    vt->>+c: initiate pre check-in
+    vt->>+c: initiatePreCheckin
 
     c->>+va: get appointments
     va->>+val: RPC SDES GET APPTS BY PATIENT DFN2
@@ -48,7 +48,7 @@ sequenceDiagram
     vt->>-vet: send text (short url)
 ```
 
-### Start Pre check-in
+### Start Pre Check-In
 When Veterans click on the link in the text message, they are redirected to the website that calls vets-api to start pre check-in. This is more involved than the start of day of check-in process as vets-api also calls CHIP to refresh the pre check-in data in LoROTA so that Veterans are shown the latest data. Once the refresh is done and an existing session is not found, they are redirected to the auth page.
 
 
@@ -80,7 +80,7 @@ sequenceDiagram
   deactivate vet
 ```
 
-#### Starting Pre-Check-In
+#### Refresh Pre-Check-In
 
 ```mermaid
 sequenceDiagram
@@ -96,10 +96,17 @@ sequenceDiagram
 
   vet->>+web: load "health-care/appointment-pre-check-in"
   web->>+api: GET /sessions
-  api->>+c: refresh precheckin
+  api->>+c: refreshPreCheckin
 
   c->>+l: get saved data
+  break any error occurs
+    l--)c: return error
+    c--)api: return error
+    api--)web: return error
+    web--)vet: show message (???)
+  end
   l--)-c: data
+
   c->>+va: get appointments
   va--)-c: appointments
   par
