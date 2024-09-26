@@ -5,9 +5,9 @@ Fall 2024
 ***
 
 
-## Moderator logistics
+# Moderator logistics
 
-### 2-3 days before the session
+## 2-3 days before the session
 
 1. Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
 
@@ -18,7 +18,7 @@ Fall 2024
 4. Check meeting settings; transcript and cloud recording are set up in settings in Perigean's account
 
 
-### Day of the session
+## Day of the session
 
 1. Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 
@@ -27,7 +27,7 @@ Fall 2024
 3. Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
 
-### Starting the session:
+## Starting the session:
 
 1. In the Attendees section, make sure everyone except the participant is on mute.
 
@@ -38,7 +38,7 @@ Fall 2024
 ***
 
 
-### When the participant joins:
+## When the participant joins:
 
 Validate that the participant uses AT and get permission for observers to join.
 
@@ -51,7 +51,7 @@ Validate that the participant uses AT and get permission for observers to join.
   - \[_If yes] Admit observers. (If the participant agrees, let observers join. Each observer should come off mute and introduce themselves, and then go back on mute with video off.)_
 
 
-#### **Intro - 5 minutes**
+### **Intro - 5 minutes**
 
 As we begin there are a few things I would like to start off with:
 
@@ -117,9 +117,9 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 ***
 
 
-#### **Section 2: Set up screen share - 5 minutes**
+### **Section 2: Set up screen share - 5 minutes**
 
-##### **Review**
+#### **Review**
 
 - During our session today, I am going to have you imagine that you have just created a VA.gov account and you are logging in for the first time. I will share a link to the pages you will interact with.
 
@@ -133,9 +133,9 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
   \[share link]
 
 
-#### **Section 3: Usability tasks - 30 minutes**
+### **Section 3: Usability tasks - 30 minutes**
 
-##### Task 1: First impressions of My VA: LOA1 Welcome Message (5 min)
+#### Task 1: First impressions of My VA: LOA1 Welcome Message (5 min)
 
 - Imagine that you have just created your VA.gov account and you are logging in for the first time. Please, talk aloud and share your thoughts and talk through any actions you would take before you take them. 
 
@@ -144,14 +144,50 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 * How would you rank the welcome page from 1(very helpful and user friendly) to 5 (very difficult)
 
 
-##### Task 2: My VA: Verify account
+##### Pay attention for if the participant:
+
+1. Was able to discover what we intended?
+
+2. Had difficulty navigating. If so, what made it difficult?
+
+3. Ran into any errors? Which error and why did they come up?
+
+4. Was ever confused?
+
+5. Experienced anything that they were not expecting?
+
+6. Was the participant triggered by anything in the experience?
+
+
+
+
+#### Task 2: My VA: Verify account
 
 Moderator: Now that you’ve taken a look at the page, what would you do from here?
 
 _If the participant would like to verify, tell them to go ahead and do so and encourage them to continue through the simulated "verification" screens, then move on to Section 3 questions. If the participant clicks on the other links, ask them “Where would you expect that link to go?”_
 
 
-##### Task 3: Review My VA “update contact info alert”
+##### Pay attention for if the participant:
+
+1. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
+
+2. Was able to discover what we intended?
+
+3. Had difficulty navigating. If so, what made it difficult?
+
+4. Ran into any errors? Which error and why did they come up?
+
+5. Was ever confused?
+
+6. Experienced anything that they were not expecting?
+
+7) Was the participant triggered by anything in the experience?
+
+
+
+
+#### Task 3: Review My VA “update contact info alert”
 
 - As you did on the previous screen, share aloud what stands out to you as you review this page.
 
@@ -162,7 +198,24 @@ _If the participant would like to verify, tell them to go ahead and do so and en
 * How would you rank the My VA page from 1(very helpful and user friendly) to 5 (very difficult)
 
 
-##### Task 4: Navigate to update contact info (Via alert or profile)
+##### Pay attention for if the participant:
+
+1. Was able to discover what we intended?
+
+2. Had difficulty navigating. If so, what made it difficult?
+
+3. Ran into any errors? Which error and why did they come up?
+
+4. Was ever confused?
+
+5. Experienced anything that they were not expecting?
+
+6. Was the participant triggered by anything in the experience?
+
+
+
+
+#### Task 4: Navigate to update contact info (Via alert or profile)
 
 (If participant did not say they would interact with the alert direct them to the alert)
 
@@ -175,7 +228,26 @@ _If the participant would like to verify, tell them to go ahead and do so and en
 * How would you rank navigating to update your contact info from 1(very helpful and user friendly) to 5 (very difficult)
 
 
-##### Task 5: Update/edit contact information
+##### Pay attention for if the participant:
+
+1. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
+
+2. Was able to discover what we intended?
+
+3. Had difficulty navigating. If so, what made it difficult?
+
+4. Ran into any errors? Which error and why did they come up?
+
+5. Was ever confused?
+
+6. Experienced anything that they were not expecting?
+
+7. Was the participant triggered by anything in the experience?
+
+
+
+
+#### Task 5: Update/edit contact information
 
 - Review this page, sharing any thoughts as you do so.
 
@@ -185,9 +257,24 @@ _If the participant would like to verify, tell them to go ahead and do so and en
 
 * How would you rank editing your contact information from 1(very helpful and user friendly) to 5 (very difficult)
 
-- Review this page, sharing any thoughts as you do so.
 
-Task 6: Evaluate confirmation page content and return to My VA 
+##### Pay attention for if the participant:
+
+1. Was able to complete the task? If not, what prevented them from doing so?(Did they miss a button, link, etc?)
+
+2. Was able to discover what we intended?
+
+3. Had difficulty navigating. If so, what made it difficult?
+
+4. Ran into any errors? Which error and why did they come up?
+
+5. Was ever confused?
+
+6. Experienced anything that they were not expecting?
+
+7. Was the participant triggered by anything in the experience?
+
+Task 6: Evaluate confirmation page
 
 If the participant has not yet completed the form to get to the final page, prompt them to go ahead and do so.
 
@@ -201,10 +288,27 @@ If the participant has not yet completed the form to get to the final page, prom
 
 * How would you rank this confirmation that your info has been updated from 1(very helpful and user friendly) to 5 (very difficult)
 
+
+##### Pay attention for if the participant:
+
+1. Was able to discover what we intended?
+
+2. Had difficulty navigating. If so, what made it difficult?
+
+3. Ran into any errors? Which error and why did they come up?
+
+4. Was ever confused?
+
+5. Experienced anything that they were not expecting?
+
+6. Was the participant triggered by anything in the experience?
+
 ***
 
 
-#### **Post-Task Interview - 5 minutes**
+
+
+### **Post-Task Interview - 5 minutes**
 
 Moderator: Thank you so much for the feedback so far! We're getting close to the end so I have just a few more questions for you about the overall experience today.
 
@@ -219,7 +323,7 @@ Questions:
 ***
 
 
-#### **Thank-You and Closing - 2 minutes**
+### **Thank-You and Closing - 2 minutes**
 
 Moderator: We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.\
 Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
@@ -229,6 +333,6 @@ Thank you so much again, and enjoy the rest of your day!
 ***
 
 
-#### **Emergency Exit**
+### **Emergency Exit**
 
 \[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it's easy to find during a session. Take some time to practice so it feels more comfortable.]
