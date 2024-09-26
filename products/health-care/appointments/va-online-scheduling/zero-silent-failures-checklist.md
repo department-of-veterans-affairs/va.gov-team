@@ -351,6 +351,7 @@ Please document the outcome of this conversation in your product's documentation
 - [JL] ~~Schema validation failure (Sidekiq job)~~ Turned off via Flipper
 - [JL] Partial responses
 - [JM] ~~Clinic location mis-entered with codes rather than floor or room number~~ Does not break application
+- [SA] When user gets dropped to request flow due to ineligibility for direct schedule, no message is shown to end user. Is this considered a silent failure?
 
 
 If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md). That diagram will help us to help you and your team to create this user experience.
