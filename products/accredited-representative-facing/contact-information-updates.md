@@ -27,6 +27,7 @@ Accredited attorneys and claim agents can update their contact information by co
 * Run a usabilty test to validate if the changes we made since the last set of user research work well for our intented audience.
 * Work with development to build these features. (To date, no development work has been done on content updates specifically, outside of general infrastructure for the Accredited Representative Portal). **<- True?**
 * As we get closer to launch, explore ways that we can meld the IA/header and footer for this feature (contact info updates) with the other features our team explored (Forms 21a and 21-22). The IA that gets selected for the initial ARP release will be entirely dependent on which feature(s) go live first. These features have been designed independently so far, but if two features go live at the same time, the team will need to explore how it should be presented.
+* See also the [High-Level Next Steps for Accredited Representative Facing (ARF) Engineering Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/2024-ARF-engineering-next-steps.md) (Github).
 
 ## Project resources and links
 
