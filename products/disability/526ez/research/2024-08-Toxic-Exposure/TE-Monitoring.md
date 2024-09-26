@@ -79,8 +79,8 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 
 ## Success Metric Validation
-We are regularly evaluating our top success metrics to make sure we can trust them. Below you will find tables examining 1) Abandonment rates and 2) TE opt-in and page views. 
-
+We are regularly evaluating our top success metrics to make sure we can trust them. See findings and resulting updates below. 
+### TE Abdanonment and Overall 526 Abandonment 
 ||**Toxic Exposure Abandonment** |**Overall 526 Abandonment**|
 |--------------|--------------|---|
 |**Definition**|_Percentage of people drop-off in the TE flow and don't continue to the next page (measured by change in page views)._|_Percentage of people drop-off at each page in the 526 and don't continue to the next page (measured by change in page views)_
@@ -90,7 +90,7 @@ We are regularly evaluating our top success metrics to make sure we can trust th
 |**Limitations**||- We know from past discovery that measuring drop off throughout the 526 is difficult to manage with the 10 step limit to GA4. <br> Because so many pages are conditional, it is also hard to find pages at regular intervals that all Veterans see. 
 |**Any next steps**|Closely monitor as the release continues| -Christine and Jared decided to use a more blunt means of measing overall abandonment <br> -Selecting just the Introduction and Confirmation page since conditional logic issues are cirvumvented when using these two pages.
 
-
+### TE opt in and Top 10 TE page views
 ||**Toxic Exposure opt in** |**Top 10 Toxic Exposure page views**|
 |--------------|--------------|---|
 |**Definition**|_What portion of Veterans are choosing to answer the TE questions?_|_Report that shows the 10 top TE page views._ | 
