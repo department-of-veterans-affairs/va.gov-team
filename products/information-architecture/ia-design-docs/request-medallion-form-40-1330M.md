@@ -37,16 +37,29 @@ The new form will be a child page of [headstones, markers, and medallions](https
 - Breadcrumb: Va.gov home > Burials and memorials > Memorial items> Veterans headstones, markers, medallions > [Form H1 TBD]
 - Notes: final URL is pending the H1 decision by the content team
 
+**1) Cemetery official signature - request medallion form - New**
+- URL: va.gov/burials-memorials/memorial-items/headstones-markers-medallions/request-medallion-form-40-1330m/cemetery-confirmation/[each page TBD]
+- Breadcrumb: NO BREADCRUMBS on this part of the form. 
+- Notes: final URL is pending the H1 decision by the content team
+
+
 ## <a name="nav"></a>Entry points <br>
 
 ### Primary entry point
 
 1. **[Headstones, markers, medallions](https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/)** - Modify
+  - Placement description: TBD by content
+  - Link label: TBD by content
+  - Link destination: va.gov/burials-memorials/memorial-items/headstones-markers-medallions/request-medallion-form-40-1330m/cemetery-confirmation/
+
+![Screenshot 2024-08-19 at 5 32 49 PM](https://github.com/user-attachments/assets/8442bd9f-89a2-441e-a584-0f9dceaecfd4)
+
+### Secondary entry point
+1. **VaNotify email to cemetery official**
   - Placement description: Under the 'how do I apply' section, update the application instructions, adding a sign-in widget for the new form.
   - Link label: TBD by content
   - Link destination: va.gov/burials-memorials/memorial-items/headstones-markers-medallions/request-medallion-form-40-1330m
-
-![Screenshot 2024-08-19 at 5 32 49 PM](https://github.com/user-attachments/assets/8442bd9f-89a2-441e-a584-0f9dceaecfd4)
+![Screenshot 2024-09-26 at 2 32 59 PM](https://github.com/user-attachments/assets/c3c3f608-13c9-4f2e-8a9b-a6f35491b4fb)
 
 
 ### Crosslinks
