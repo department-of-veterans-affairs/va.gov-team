@@ -1,6 +1,6 @@
 # CMS Image Uploader | Usability Tests
 
-### **Name:** Pilot \- Tabinda Syed
+### **Name:** Pilot
 
 **Date:** Aug 23, 2024  
 **Role/Title:** Delivery Manager  
@@ -88,7 +88,7 @@ Drupal CMS Questions \- 5-10 minutes
 * Are there types of information which VAMC editors want to add or need to communicate to the Veteran/beneficiary population they serve which they are currently unable to do?  
   * A point of contact for certain events/press releases. She wants to be able to route people to more specific contacts based on different needs.
 
-### **Name:** P2 \- Justin Warren
+### **Name:** P2
 
 **Date:** Sep 9, 2024  
 Warm-up Questions \- 5 minutes
@@ -268,7 +268,7 @@ Raw Notes:
 * The user desires the ability to use multiple photos in stories.  
 * Some editors find the cropping options too restrictive.
 
-### **Name:** P1 \- Linda Wondra
+### **Name:** P1
 
 **Date:** Sep 10, 2024  
 Warm-up Questions \- 5 minutes
@@ -396,7 +396,7 @@ Raw Notes:
 * User prefers to adjust image size outside the system before uploading.  
 * User is satisfied with the new workflow and finds it more user-friendly.
 
-### **Name:** P3 \- Megan Zendher
+### **Name:** P3
 
 **Date:** Sep 11, 2024  
 **Role/Title:**   
@@ -521,7 +521,7 @@ Warm-up Questions \- 5 minutes
 * User prefers to upload images directly from desktop rather than using the media library.  
 * User values efficiency and clear visual cues in the image upload process.
 
-### **Name:** P5 \- Lauren Bolanos
+### **Name:** P5
 
 **Date:** Sep 12, 2024  
 Warm-up Questions \- 5 minutes
@@ -677,7 +677,7 @@ Quotes
 - Extra:  
   - Unable to edit VA Police page \- they want to add local information, forcing her to create an additional page and now she has two VA Police pages. Not ideal. 
 
-### **Name:** P4 \- Joshua Wahl
+### **Name:** P4
 
 **Date:** Sep 12, 2024  
 Warm-up Questions \- 5 minutes
@@ -763,7 +763,7 @@ Drupal CMS Questions \- 5-10 minutes
 * User edits images using Photoshop before uploading.  
 * User rarely uses the media library.
 
-### **Name:** P8 \- Anna Mills
+### **Name:** P8
 
 **Date:** Sep 13, 2024  
 Warm-up Questions \- 5 minutes
@@ -891,8 +891,7 @@ Drupal CMS Questions \- 5-10 minutes
 * User prefers to upload images directly from desktop rather than using the media library.  
 * User values efficiency and simplicity in the image upload process.
 
-### **Name:** P6 \- Michael Compeau
-
+### **Name:** P6
 **Date:** Sep 16, 2024  
 Warm-up Questions \- 5 minutes
 
@@ -1103,7 +1102,7 @@ Media Library
 * User prefers to upload images directly from desktop rather than using the media library.  
 * User values efficiency and simplicity in the image upload process.
 
-### **Name:** P7 \- Christopher Lemke
+### **Name:** P7
 
 **Date:** Sep 17, 2024  
 Warm-up Questions \- 5 minutes
