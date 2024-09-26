@@ -3,7 +3,7 @@
 **Office of the CTO - Digital Experience (OCTO-DE)
 Image Uploader, VA Innovate, Iterate, and Run**
 
-Date: 09/25/2024
+Date: 09/26/2024
 
 David Pearl [david.pearl@adhocteam.us](mailto:david.pearl@adhocteam.us) 
 
