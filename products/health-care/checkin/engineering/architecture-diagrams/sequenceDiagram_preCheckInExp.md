@@ -75,6 +75,7 @@ sequenceDiagram
     url--)var: 404 Short URL expired
     var--)vet: 404 Short URL expired
   end
+  db--)-url: expanded URL
   url--)-var: 301 redirect
   var--)-vet: 301 redirect
   deactivate vet
