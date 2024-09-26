@@ -108,7 +108,7 @@ TBD
 | Negative impact on clinic operations and patient tracking at VA facilities that don’t have these problems. | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
 | Negative or no impact on clinic operations and patient tracking as a result of lack of education and training of the changes to these tools and what their data means, especially ones that have reported problems. | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
 | Veteran completes eCheck-in, but fails to find or go to the clinic and check in with an MSA or clincian on time. | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
-| Feasibility of implementation (the experiment itself, let alone the possibility of scalability) and staff education and training. | OCTO, IVC, IPT coordination |
+| Feasibility of implementation (the experiment itself, let alone the possibility of scalability) and staff education and training, which inherently impacts timeline. | OCTO, IVC, IPT coordination |
 
 ### Research materials 
 
