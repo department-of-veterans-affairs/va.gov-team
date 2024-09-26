@@ -259,8 +259,6 @@ If not, then create documentation that captures how errors in each system are ha
 - [X] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
 - [LD] The owner of the system of record does not recieve the the user data indiciation of when the application has a failure. Our team will notify the services team when we come into a issue with any of the upstream services. 
    
- - [JL] This will likely be a large work item since we’ll need to coordinate with OCTO to obtain agreements with all the systems listed in the diagram [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png). But I feel that we will not need to take much action other than communicating what services we depend on.
-
 If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
 Please document the outcome of this conversation in your product's documentation in Github and link here:
 
