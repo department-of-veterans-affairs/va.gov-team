@@ -141,7 +141,7 @@ sequenceDiagram
   participant c as CHIP
   participant cw as Clinician Workflow
   participant va as Vista API
-  participant val as VistALink
+  participant val as VistA Stations
 
   c->>+va: get Vista token
 
@@ -194,6 +194,7 @@ sequenceDiagram
   participant c as CHIP
   participant l as LoROTA
   participant va as VistA API
+  participant val as VistA Stations
 
   activate vet
 
@@ -212,10 +213,14 @@ sequenceDiagram
 
   api->>api: save token in redis
   api->>+c: set precheckin started
+
   c->>+l: get appointments
   l--)-c: appointments
+
   c->>+va: set precheckin started
-  va--)-c: set
+  va->>+val: RPC SDES SET APPT CHECK-IN STEP
+  val--)-va: OK
+  va--)-c: OK
   c--)-api: response
   api--)-web: return 'read.full'
 
