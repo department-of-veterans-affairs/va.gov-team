@@ -4,9 +4,9 @@
 
 Research to date has enabled the Accredited Representative-Facing Team to build useful profiles of  the people whom VA empowers  to consult and advocate on behalf of Veterans. The resulting personas provided invaluable insights into the user needs of:
 
-* [ Accredited attorneys](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717533456497/60064424f651818203ff49ac43d6fb9f0f2bccac?sender=u2a4240a640b257ce33545495)
-* [ Accredited claims agents](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u2a4240a640b257ce33545495), and
-* [ VSO representatives](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u2a4240a640b257ce33545495)
+* [Accredited attorneys](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717533456497/60064424f651818203ff49ac43d6fb9f0f2bccac?sender=u2a4240a640b257ce33545495)
+* [Accredited claims agents](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u2a4240a640b257ce33545495), and
+* [VSO representatives](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u2a4240a640b257ce33545495)
 
 Those insights  in turn informed design and development of the Accredited Representative Portal. 
 
