@@ -1,8 +1,8 @@
 # ARF Engineer Onboarding
 
-## NOTE: Please update this document as you go through it! Let's make things easier for the next person that is onboarded to the ARF Team.
+## NOTE: Please update this document as you go through it! Let's make things easier for the next person onboarded to the ARF Team.
 
-Welcome to the Accredited Representative Facing (ARF) Engineering team! This document is an onboarding guide for new team members, providing a comprehensive overview of our projects, resources, and critical documentation. By following the steps outlined here, you'll understand our mission, current projects, technical details, and where to find important information.
+Welcome to the Accredited Representative Facing (ARF) Engineering team! This document is an onboarding guide for new team members, providing a comprehensive overview of our projects, resources, and critical documentation. Following the steps outlined here, you'll understand our mission, current projects, technical details, and where to find important information.
 
 ## High-Level Project Overview
 
