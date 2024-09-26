@@ -323,7 +323,7 @@ Warm-up Questions \- 5 minutes
     * She doesn’t know which one to select and needs to look at page type. Hard to find the specific page to edit.   
       * Nodes. Takes a lot of digging to figure out what to edit on a page  
     * System page first and then select service  
-  * Linda is super open to provide more feedback to us if we need to
+  * She is super open to provide more feedback to us if we need to
 
 **Amanda’s Notes:**
 
