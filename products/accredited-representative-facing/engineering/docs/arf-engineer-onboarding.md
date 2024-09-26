@@ -22,7 +22,7 @@ The main bit is the SEP slides. Everything else is optional.
 ### Deeper Technical Discovery
 
 - [ ] **Explore** [ADRs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/ADRs)
-   - [ ] The [ARF 21a Architecture Intent Document]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/arp-architecture-intent-meeting.md)) is a key one to spend time with!
+   - [ ] The [ARF 21a Architecture Intent Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/arp-architecture-intent-meeting.md) is a key one to spend time with!
 - [ ] **Explore** [ARF Engineering Canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC)
 - [ ] **Reference** [Lighthouse Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705440431964/42ea71b5405cda62ed44e95794facd94d8d266a0?sender=u44da4f823ec94118a7079396)
 - [ ] [Staging/WIP LH API Endpoints](https://staging-developer.va.gov/explore/api/benefits-claims/docs?version=current)
