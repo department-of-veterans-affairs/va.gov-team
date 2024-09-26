@@ -7,6 +7,11 @@
 
 **Product/UX:** Jared Pace [Jared.pace@agile6.com] & Evelyn Hilbrich Davis [evelyn@cityfriends.tech] 
 
+**Jump to:**
+1. [Background](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#background)
+2. [Schedule of Reporting](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#schedule-of-reporting)
+3.  526ez Success Metrics by % rollout
+
 ## Background
 We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. By tracking interactions and gathering feedback, we will identify any issues with TE early so we can make data-driven improvements. 
 - This report will document GA4, Data Dog, Contact Center, and Medallia survey data over the course of the release.
@@ -19,7 +24,7 @@ We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for 
 
 **Note:** We will be responsive to the release, updating our monitoring approach as we learn more/better!
 
-## Scope of this report
+### Scope of this report
 This reporting will seek to keep all stakeholders informed of the rollout's progress. Beyond this documentation, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
 
 ## Schedule of reporting
@@ -40,8 +45,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |75%|||
 |100%|| | Request on Oct 25|
 
-## Summary of GA4/Data Dog
-### 526ez Success Metrics by % rollout
+## 526ez Success Metrics by % rollout
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|
 | Abandonment rates| 33.61% | 33.61% | 0% | 1.8% | | | |  |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)|
