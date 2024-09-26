@@ -1,32 +1,100 @@
-# High-Level Next Steps for ARF Engineering
+# High-Level Next Steps for Accredited Representative Facing (ARF) Engineering Team
 
-These are high-level, hypothetical next steps for the onboarding ARF Team, with links to relevant portions of the codebase.
+## Introduction
 
----
-
-## 21a: Form Submission & API Integration
-
-- **Establish connection between ARP engine (OCTO) and GCLAWS API (OGC)**
-  - **Status:** Blocked by an [ESECC networking request and MOU between OCTO and OGC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288).
-
-- **Complete POST of Form 21a to GCLAWS API**
-  - **Next Step:** Resolve implementation issues related to form submission, which are detailed in this [GH issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85933).
-  - **Reference:** See [ARP engine code](https://github.com/department-of-veterans-affairs/vets-api/blob/4aafc201f041c3f37893e138a3a03f15904c15bf/modules/accredited_representative_portal/app/services/accreditation_service.rb#L37-L55).
+This document outlines the next steps for onboarding team members and provides context, resources, and action items to guide our progress. For a comprehensive overview of our architecture and the progress made to date, please refer to the [ARP Architecture Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/arp-architecture-intent-meeting.md). For general ARF team engineering onboarding, see the [onboarding document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/arf-engineer-onboarding.md).
 
 ---
 
-## 21-22: User Validation & Data Management
+## Form 21a POST Submission & GCLAWS API Integration
 
-- **Implement Accredited Representative User Validation**
-  - **Pending Tasks:** Review incomplete issues in [ARP’s Authentication Epic](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746) and consult the [ARP Identity Flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714501321813/e46b8ede7bc0ba3e7b5361d59e86c929688e0857?sender=u44da4f823ec94118a7079396).
-  - **Impact:** This will unblock both 21-22 and [Contact Information user validation](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717433860326/129030147cf419fe9f5deb7004c0fb0a1a4e2350?sender=u44da4f823ec94118a7079396).
+**Objective**: Establish the connection between `vets-api` and `GCLAWS` to enable form submissions.
 
-- **Connect ARP Engine to Data Storage (via ARM Team)**
-  - **Action:** Align with ARM's storage solution as outlined in [Accredited Representative Management Team's proposal](https://github.com/department-of-veterans-affairs/va.gov-team/pull/89536/files). The decision is pending final ratification.
-  - **Historical Reference:** The outdated, initially proposed solution is in this [diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709071900155/9d5180a5134a76b7a9a0165a6cd56a892ad1b6a1?sender=u44da4f823ec94118a7079396) (which was almost implemented before [ARM technical challenges resulted in a pivot](https://dsva.slack.com/docs/T03FECE8V/F078P4SAFKR)). See related [claimsApi PRs by nihil2501](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+author%3Anihil2501+label%3AclaimsAPi) for additional context.
+**Relevant Epic**:
 
-- **Reinstate `power_of_attorney_requests_controller`**
-  - **Task:** Restore the [POA Requests Controller](https://github.com/department-of-veterans-affairs/vets-api/blob/27bcb31ed983be7d8b03c66b9934c70f1568f057/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/power_of_attorney_requests_controller.rb#L8-L39) and configure it to pull data from ARM’s storage solution (likely vets-api, potentially CorpDB).
+- **Digital Form 21a**: [ZenHub Epic #83627](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/83627)
 
-- **Update POA Requests Table**
-  - **Action:** Once controller and data storage integration are complete, update the [POA Requests Table](https://github.com/department-of-veterans-affairs/vets-website/blob/2c6c08227ad86726bce63045caa943c6b3364ecd/src/applications/accredited-representative-portal/components/POARequestsTable/POARequestsTable.jsx#L1-L116) and related files as needed.
+### Complete POST of Form 21a to GCLAWS API
+
+- **Action**: Resolve implementation issues related to the submission of Form 21a.
+- **Status**: Blocked
+  - **Blocker**: Pending [Enterprise Security Change Control (ESECC) networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC.
+- **Key Issues**: Detailed in [GitHub Issue #85933](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85933).
+- **References**:
+  - [ARP Engine Code for Form Submission](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/services/accreditation_service.rb#L37-L55)
+- **Next Steps**:
+  - Follow up on the status of the networking request and MOU with [Sam Raudabaugh](https://github.com/raudabaugh)
+  - Address the errors and TODOs outlined in the GitHub issue.
+  - Test the POST request thoroughly once the GCLAWS connection is established.
+
+---
+
+## Accredited Representative User Validation
+
+**Objective**: Implement robust accredited representative user validation.
+
+- **Relevant Epic**:
+  - **ARP Authentication**: [ZenHub Epic #78472](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746)
+
+- **Action**: Implement user authentication mechanisms for accredited representatives.
+- **Status**: Unblocked
+- **Key Tasks and Next Steps**:
+  - Review, add details to, and address incomplete issues in [ARP’s Authentication Epic](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746).
+  - Consult the [ARP Identity Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714501321813).
+  - Say hello to the Identity Team in [#arp-identity-integration](https://dsva.slack.com/archives/C06NBCMA7LL), as you'll collaborate closely with them!
+- **Impact**: Completing Accredited Representative User Validation will enable progress on [21-22](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/78472) and representative contact information updates (see relevant [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717433860326/129030147cf419fe9f5deb7004c0fb0a1a4e2350?sender=u2a4240a640b257ce33545495) [ZH epic](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/83633)).
+
+## Accept/Deny 21-22 Representation Requests
+
+**Objective**: Allow accredited representative users to digitally accept/decline 21-22 (power of attorney) requests within ARP.
+
+- **Relevant Epic**:
+  - **Accept Deny Power of Attorney Requests**: [ZenHub Epic #78472](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/78472)
+
+### Connect ARP Engine to 21-22 Data Storage
+
+- **Action**: Integrate the ARP engine with the data storage solution provided by the Accredited Representative Management (ARM) team.
+- **Status**: Blocked. Decision pending final ratification.
+- **Current Proposal**: See ARM's storage solution as outlined in their [proposal](https://github.com/department-of-veterans-affairs/va.gov-team/pull/89536/files).
+- **Historical Context**:
+  - An initial solution was proposed but pivoted due to technical challenges, as detailed in this [diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709071900155) and the related [Slack discussion](https://dsva.slack.com/archives/C0MQ281DJ/p1616161616000100).
+  - Related work can be found in [Claims API Pull Requests by @nihil2501](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+author%3Anihil2501+label%3AclaimsAPI).
+- **Next Steps**:
+  - Confirm the adoption of the proposed storage solution with [Sam Raudabaugh](https://github.com/raudabaugh).
+  - Plan the integration process with the ARM team and VA stakeholders.
+
+#### Reinstate vets-api `power_of_attorney_requests_controller`
+
+- **Action**: Restore the `power_of_attorney_requests_controller` and configure it to interface with the new data storage solution.
+- **Status**: Blocked. Storage solution implementation pending.
+- **References**:
+  - [POA Requests Controller Code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/power_of_attorney_requests_controller.rb)
+- **Next Steps**:
+  - Update the controller code according to the new data storage integration.
+
+#### Update vets-website POA Requests Table
+
+- **Action**: Revise the Power of Attorney (POA) Requests Table in the user interface to reflect the changes in the data source.
+- **Status**: Blocked. Storage solution implementation pending.
+- **References**:
+  - [POA Requests Table Component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/accredited-representative-portal/components/POARequestsTable/POARequestsTable.jsx)
+- **Next Steps**:
+  - Modify the vets-website component to fetch data from the updated API endpoints.
+  - Implement the ability to accept or deny POA requests.
+
+## Establish `representative.va.gov` Subdomain
+
+**Objective**: Set up the `representative.va.gov` subdomain to host the Accredited Representative Portal.
+**Relevant Epic**:
+
+- **Representative Subdomain Setup**: [ZenHub Epic #71723](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/71723)
+
+- **Action**: Process the ESECC request for the new subdomain.
+- **Status**: **Blocked**
+  - **Blocker**: Approval of the subdomain ESECC request.
+- **Key Issues**:
+  - Submit representative.va.gov Subdomain ESECC Request - [GH Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70480)
+- **Next Steps**:
+  - Complete and submit the ESECC request for the `representative.va.gov` subdomain.
+  - Monitor the approval process and address any feedback promptly.
+  - Once approved, proceed with configuring the subdomain and updating DNS records.
