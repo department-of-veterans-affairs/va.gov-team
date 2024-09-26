@@ -17,7 +17,7 @@ This document outlines the next steps for onboarding team members and provides c
 ### Complete POST of Form 21a to GCLAWS API
 
 - **Action**: Resolve implementation issues related to the submission of Form 21a.
-- **Status**: Blocked. Pending [ESECC networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC.
+- **Status**: Blocked (Pending [ESECC networking request and Memorandum of Understanding (MOU)])(https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC.
 - **Key Issues**: Detailed in [GitHub Issue #85933](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85933).
 - **References**:
   - [ARP Engine Code for Form Submission](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/services/accreditation_service.rb#L37-L55)
@@ -53,8 +53,8 @@ This document outlines the next steps for onboarding team members and provides c
 ### Connect ARP Engine to 21-22 Data Storage
 
 - **Action**: Integrate the ARP engine with the data storage solution provided by the Accredited Representative Management (ARM) team.
-- **Status**: Blocked. Decision pending final ratification.
-- **Current Proposal**: See ARM's storage solution as outlined in their [proposal](https://github.com/department-of-veterans-affairs/va.gov-team/pull/89536/files).
+- **Status**: Blocked (pending implementation of 21-22 request storage).
+- **Current Proposal**: See ARM's storage solution as outlined in their [proposal](https://github.com/department-of-veterans-affairs/va.gov-team/pull/89536/files), which has yet to be implemented.
 - **Historical Context**:
   - An initial solution was proposed but pivoted due to technical challenges, as detailed in this [diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709071900155) and the related [Slack discussion](https://dsva.slack.com/archives/C0MQ281DJ/p1616161616000100).
   - Related work can be found in [Claims API Pull Requests by @nihil2501](https://github.com/department-of-veterans-affairs/vets-api/pulls?q=is%3Apr+author%3Anihil2501+label%3AclaimsAPI).
@@ -65,7 +65,7 @@ This document outlines the next steps for onboarding team members and provides c
 #### Reinstate vets-api `power_of_attorney_requests_controller`
 
 - **Action**: Restore the `power_of_attorney_requests_controller` and configure it to interface with the new data storage solution.
-- **Status**: Blocked. Storage solution implementation pending.
+- **Status**: Blocked (pending implementation of 21-22 request storage).
 - **References**:
   - [POA Requests Controller Code](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/power_of_attorney_requests_controller.rb)
 - **Next Steps**:
@@ -74,7 +74,7 @@ This document outlines the next steps for onboarding team members and provides c
 #### Update vets-website POA Requests Table
 
 - **Action**: Revise the Power of Attorney (POA) Requests Table in the user interface to reflect the changes in the data source.
-- **Status**: Blocked. Storage solution implementation pending.
+- **Status**: Blocked (pending implementation of 21-22 request storage).
 - **References**:
   - [POA Requests Table Component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/accredited-representative-portal/components/POARequestsTable/POARequestsTable.jsx)
 - **Next Steps**:
@@ -89,10 +89,10 @@ This document outlines the next steps for onboarding team members and provides c
 - **Representative Subdomain Setup**: [ZenHub Epic #71723](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/71723)
 
 - **Action**: Process the ESECC request for the new subdomain.
-- **Status**: Blocked. Approval of the subdomain ESECC request.
+- **Status**: Blocked (pending approval of the subdomain ESECC request).
 - **Key Issues**:
   - Submit representative.va.gov Subdomain ESECC Request - [GH Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70480)
 - **Next Steps**:
   - Complete and submit the ESECC request for the `representative.va.gov` subdomain.
   - Monitor the approval process and address any feedback promptly.
-  - Once approved, proceed with configuring the subdomain and updating DNS records.
+  - Once approved, proceed with configuring the subdomain and any follow-on work that might arise.
