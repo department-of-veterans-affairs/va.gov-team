@@ -17,8 +17,7 @@ This document outlines the next steps for onboarding team members and provides c
 ### Complete POST of Form 21a to GCLAWS API
 
 - **Action**: Resolve implementation issues related to the submission of Form 21a.
-- **Status**: Blocked
-  - **Blocker**: Pending [Enterprise Security Change Control (ESECC) networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC.
+- **Status**: Blocked. Pending [Enterprise Security Change Control (ESECC) networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC.
 - **Key Issues**: Detailed in [GitHub Issue #85933](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85933).
 - **References**:
   - [ARP Engine Code for Form Submission](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/accredited_representative_portal/app/services/accreditation_service.rb#L37-L55)
@@ -90,8 +89,7 @@ This document outlines the next steps for onboarding team members and provides c
 - **Representative Subdomain Setup**: [ZenHub Epic #71723](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/71723)
 
 - **Action**: Process the ESECC request for the new subdomain.
-- **Status**: **Blocked**
-  - **Blocker**: Approval of the subdomain ESECC request.
+- **Status**: Blocked. Approval of the subdomain ESECC request.
 - **Key Issues**:
   - Submit representative.va.gov Subdomain ESECC Request - [GH Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70480)
 - **Next Steps**:
