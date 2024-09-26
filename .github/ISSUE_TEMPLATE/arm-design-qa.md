@@ -11,7 +11,7 @@ assignees: ''
 QA for [issue number/link].
 
 ## Defects
-- 
+- [ ] 
 
 
 ## Acceptance Criteria
