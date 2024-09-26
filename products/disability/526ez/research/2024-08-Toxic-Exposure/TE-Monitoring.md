@@ -16,22 +16,20 @@
   
 ## Background
 We are monitoring the 1.0 and 1.1 release of the new Toxic Exposure feature for the 526ez, starting at 5% in late August 2024. By tracking interactions and gathering feedback, we will identify any issues with TE early so we can make data-driven improvements. 
+
+This reporting will seek to keep all stakeholders informed of the rollout's progress. Beyond this documentation, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack. 
 <details>
   <summary>Click to expand Goals & Impact</summary>
     
 - This report will document GA4, Data Dog, Contact Center, and Medallia survey data over the course of the release.
 - Relevant tickets: [(#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [(#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
 
-### Goals & Impact
+## Goals & Impact
 1. Monitoring the release will help us determine if and when we need to pause the incremental release of TE. We will be looking for major technical blockers or patterns of very negative open response feedback in the data to inform our decision-making.
 2. Reviewing Medallia data will help us focus our upcoming usability research on the new feature. We will leverage early findings in monitoring to shape the research plan and hypotheses.
 3. 
 **Note:** We will be responsive to the release, updating our monitoring approach as we learn more/better!
  </details>   
-
-
-### Scope of this report
-This reporting will seek to keep all stakeholders informed of the rollout's progress. Beyond this documentation, DBEX Team 1 will monitor the TE release daily to identify bugs/challenges and make informed decisions about pacing the rollout. Any resulting concerns will be immediately escalated to OCTO/VBA via slack.  
 
 ## Reporting Schedule
 - Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. 
@@ -39,12 +37,12 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 |**Rollout %**|**Dates of rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|GA4 reporting date | Medallia +Contact Center request
 |--|--|--|--|
-|5%| Aug 28 | Sept 3 [(Sheet evaluating the 5% metrics)](https://docs.google.com/spreadsheets/d/1zyBjDaUAhYkcA0QhOH0NCKgLrJmylCZOP9AupWGCX3w/edit?gid=1093610789#gid=1093610789))| 
+|5%| Aug 28 | Sept 3 [(See https://docs.google.com/spreadsheets/d/1zyBjDaUAhYkcA0QhOH0NCKgLrJmylCZOP9AupWGCX3w/edit?gid=1093610789#gid=1093610789))| 
 |10%| Sept 5 - 15 | Sept 15|
 |25% | Sept 16 - Sept 18 | Sept 18/19|
-|50%|Sept 19- 22| Sept 23 |Request on Sept 20|
-|75%|Sept 23- 24|Sept 25|
-|100%|Sept 25- 30 | Sept 18| Request on Sept 27|
+|50%|TBA| TBA |Request on Sept 20|
+|75%|TBA|TBA|
+|100%|TBA|TBA| Request on Sept 27|
 |1.1 5%|||
 |25%|||
 |50%||| Request on Oct 18 |
