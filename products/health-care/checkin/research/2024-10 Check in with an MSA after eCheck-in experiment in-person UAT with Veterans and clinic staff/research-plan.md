@@ -45,7 +45,7 @@ Further complicating these issues, VA facilities and clinics aren't mandated (i.
 
 ## Research goals 
 
-The purpose of this research is to, 1) understand the value of eCheck-in as an experiment that includes a step for Veterans to check in with clinic staff after completing “online check in” to Veterans, 2) understand the impact of this change, whether it solves the identified problems or creates new undesired burdens, on improving the connectedness of “checking in” vs. “arrived and ready to be seen,” and finally, 3) inform the next step in solving this complex end-to-end experience problem.   
+The purpose of this research is to, 1) understand the value of eCheck-in to Veterans for an experiment that removes the step that happens in the background that sets the appointment status to CHECKED-IN after competing eCheck-in, 2) understand the impact of this change, whether it solves the identified problems or creates new undesired burdens, on improving clinic staff's understanding of “checked in” vs. “arrived and ready to be seen,” and finally, 3) inform the next step in solving this complex end-to-end experience problem.   
 
 In addition, it’s important to understand the outcomes of this research at VA facilities with varying levels of PCI utilization and patient tracking success. E.g., including a facility that often runs into the identified problems and ones that do not.  
 
