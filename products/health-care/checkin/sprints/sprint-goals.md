@@ -88,7 +88,6 @@
     - **Sprint Goals is to advance the FE and BE work as much as possible**
     - ✔️ WAITING ON SCOPE DECISIONS:
         - ✔️ What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
-          - Steps to access file in Planitir are in [Slack thread](https://dsva.slack.com/archives/C06RMRJCLHH/p1726667054494449?thread_ts=1726505070.527829&cid=C06RMRJCLHH) 
     - 🟥 [[Design] Update Community Care VSS after consult approval workflow (Mural) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88886)
     - ✔️ 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
     - ✔️ 🟥 [[Design] Add content to confirmation page about how to cancel appt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92733)
@@ -99,9 +98,9 @@
     - ✔️ 🟥 [[Design] Add info to confirmation/detail page to clarify steps for rescheduling](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/91239)       
 - **Check in with staff after checking in**
     - **Sprint Goal is to finish the research plan and start to make plans for the pilot**
-    - 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
+    -  ✔️ 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
     - ✔️ 🟥 [[Design] Create low-fi wireframe options](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92856)
-    - 🟥 [[SPIKE] Consider unmoderated study to solicit quick feedback on content changes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/93025)
+    -  ✔️ 🟥 [[SPIKE] Consider unmoderated study to solicit quick feedback on content changes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/93025)
     - ✔️ Create collab cycle ticket
     - ✔️ Have Kristen Schedule OCTO PO Sync touchpoint ([Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-with-staff.md))
        - [OCTO PO Sync touchpoint ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93088) 
