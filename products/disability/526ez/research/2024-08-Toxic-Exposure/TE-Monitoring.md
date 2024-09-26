@@ -35,6 +35,10 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 - Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. 
 - Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts. Requesting and reviewing Medallia data takes 1-3 days; delay is noted in the table below. 
 
+<details>
+  <summary>Click to expand provisional reporting schedule (not source of truth)
+  </summary>
+
 |**Rollout %**|**Dates of rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|GA4 reporting date | Medallia +Contact Center request
 |--|--|--|--|
 |5%| Aug 28 | Sept 3 [Validation of success metrics below](#526ez-success-metrics)| 
@@ -43,6 +47,8 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |50%|TBD| TBD |Request on Sept 20|
 |75%|TTBD| TBD|
 |100%|TBD| TBD| Request on TBD|
+
+</details>
 
 ## 526ez Success Metrics
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
