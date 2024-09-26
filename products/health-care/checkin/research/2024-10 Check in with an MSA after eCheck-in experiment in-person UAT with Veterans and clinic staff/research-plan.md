@@ -10,9 +10,9 @@ Completing eCheck-in shows the patient as checked in within VistA and VSE-CS (i.
 
 ## Problem 
 
-With the introduction of eCheck-in, this additional modality to the check in process, reported by facility staff, has caused providers to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated to see their provider if eCheck-in wasn't completed correctly, etc. (More information about the problem below.)
+The introduction of eCheck-in (i.e, an additional modality for Veterans to check in to an appointment), reported by facility staff, has caused providers to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated to see their provider if eCheck-in wasn't completed correctly, etc. (More information about the problem below.)
 
-Further complicating these issues, VA facilities and clinics aren't mandated (i.e., there’s no VHA directive) to use Patient Check-in (PCI) and VSE-CS (PCI-CSV). And, not all clinical staff and MSAs are trained, and sometimes lack access, on how PCI and VSE-CS work. I.e., understanding the difference between pre-registration and check-in being complete (e.g., eCheck-in), but not necessarily having arrived at the clinic waiting room. 
+Further complicating these issues, VA facilities and clinics aren't mandated (i.e., there’s no VHA directive) to use Patient Check-in (PCI) and VSE-CS (PCI-CSV) and these tools and their data are being used differently, which in turn passes a burden on to the Veteran to understand how PCI is being used at each clinic they go to for care. For example, completing eCheck-in doesn't necessarily equate to a Veteran being in the waiting room; and for clinics that operate without MSAs, interpretting eCheck-in the wrong way can cause problems for both the clinical team and the Veteran.  
 
 ### Problem areas 
 
