@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: September 3, 2024
+Last updated by @tygindraux: September 26, 2024
 
 This document is for our design team to communicate field rules.
 
@@ -104,7 +104,7 @@ If education question, roles list includes:
 |Category = `Health care` and topic = `Prosthetics` `Audiology and hearing aids` `Getting care at a local VA medical center`|Require `Medical facility`||
 |Category = `Health care` and topic = all other topics|Don't include medical facility||
 |Category = `Debt` and topic = `Health care copay debt`|Require `Medical facility`||
-|Category = `Debt` and topic ≠ `Health care copay detb`|Don't include `Medical facility`||
+|Category = `Debt` and topic ≠ `Health care copay debt`|Don't include `Medical facility`||
 |All other categories|Don't include `Medical facility`||
 
 - **If** we collect health facility then we don't also collect postal code (unless postal code is part of their mailing address and they choose US mail). 
