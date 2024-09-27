@@ -265,127 +265,139 @@ We are answering 'No' for various domains below as there is two scnearios that c
 
 #### Documentation
 
-* [ ] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
+* [X] Do you have a diagram of the submission path that user data your application takes to reach a system of record?
+Yes, for all domains with the exception of CCD (in development) and Settings.
  - Allergies:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Vaccines:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Vitals:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Health Conditions:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Care Notes and Summaries:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Lab and Test Results:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Blue Button:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Continuity of Care Document:
     - [ ] Yes     
     - [ ] No
+    - [X] Still Being Developed, so N/A
+  - Settings Page:
+    - [ ] Yes     
+    - [X] No - Not yet deployed, will add monitor when it goes Live
  
   * If not, then [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md) that captures this information. 
-  * Link to data flow diagram:
-   - Allergies:
-   - Vaccines:
-   - Vitals:
-   - Health Conditions:
-   - Care Notes and Summaries:
-   - Lab and Test Results:
-   - Blue Button:
-   - Continuity of Care Document:
+  * Link to data flow diagram:  **TBD - Need help creating blank MURAL so Mike can transfer the flows over**
+The MURAL that is created is by flow path, meaning some domains retreive data in the same manner and therefore share a path (for example, all FHIR data represents domains that are FHIR-ized retrieving data).
 
-* [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? This should be captured in the data flow diagram or a separate document. 
+* [X] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? This should be captured in the data flow diagram or a separate document.
+When backend systems or domains are down for maintenance, we utilize PagerDuty to setup appropriate outage messaging and notifications.  The following answers refer to when the submission path fails.
  - Allergies:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Vaccines:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Vitals:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Health Conditions:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Care Notes and Summaries:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Lab and Test Results:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Blue Button:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Continuity of Care Document:
     - [ ] Yes     
+    - [ ] No
+    - [X] Still Being Developed, so N/A
+  - Settings Page:
+    - [X] Yes     
     - [ ] No
 
   * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
-* [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+* [X] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
  - Allergies:
     - [ ] Yes     
-    - [ ] No
+    - [X] No
   - Vaccines:
     - [ ] Yes     
-    - [ ] No
+    - [X] No
   - Vitals:
     - [ ] Yes     
-    - [ ] No
+    - [X] No
   - Health Conditions:
     - [ ] Yes     
-    - [ ] No
+    - [X] No
   - Care Notes and Summaries:
     - [ ] Yes     
-    - [ ] No
+    - [X] No
   - Lab and Test Results:
     - [ ] Yes     
-    - [ ] No
+    - [X] No
   - Blue Button:
     - [ ] Yes     
-    - [ ] No
+    - [X] No
   - Continuity of Care Document:
     - [ ] Yes     
     - [ ] No
+    - [X] Still Being Developed, so N/A
+  - Settings Page:
+    - [ ] Yes     
+    - [X] No
 
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
   * Please document the outcome of this conversation in your product's documentation in Github and link here:
 
 #### User experience
 
-* [ ] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
+* [X] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
+Aside from the two scenarios we have identified above, the answers are 'Yes' as noted below.
    - Allergies:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Vaccines:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Vitals:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Health Conditions:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Care Notes and Summaries:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Lab and Test Results:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Blue Button:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Continuity of Care Document:
     - [ ] Yes     
     - [ ] No
+    - [X] Still Being Developed, so N/A
+  - Settings Page:
+    - [ ] Yes     
+    - [X] No
 
   * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md). That diagram will help us to help you and your team to create this user experience.
 
