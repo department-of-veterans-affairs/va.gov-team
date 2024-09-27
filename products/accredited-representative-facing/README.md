@@ -61,7 +61,7 @@ In addition to the above content, the below files may be helpful in understandin
   - [Form 21a digitization (representative accreditation)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md)
   - [Form 21-22 (power of attorney) accept/decline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21-22-power-of-attorney.md)
   - [Contact information updates for accredited representatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/contact-information-updates.md) 
-- Also see the [High-Level Next Steps for ARF Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/2024-ARF-engineering-next-steps.md) page
+- Also see the [High-Level Next Steps for ARF Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/2024-9-ARF-engineering-next-steps.md) page
 
 ## The Team
 
