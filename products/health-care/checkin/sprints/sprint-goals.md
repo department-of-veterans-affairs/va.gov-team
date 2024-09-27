@@ -57,7 +57,8 @@
 - **Check in with staff after checking in**
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
     - Schedule Design Intent (PO Sync occurred on 9/25)
-    - Schedule Research Review
+    - Schedule Research Review?
+    - Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well)
 - **Edit existing content on a resources and support page from Check in**
     - TBD
 - **CIE Analytics**
