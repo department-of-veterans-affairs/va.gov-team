@@ -11,41 +11,43 @@ This release plan refers to the following forms:
 - Veteran evidence documents, the Veteran file uploads for disability claim evidence 
 - PTSD Ancillary, the 0781 and 0781a data for PTSD claims
 
-Note: 526 Submission - refers to the 526e primary data only, and the migration to LightHouse has already been completed. 
+Note: 526 Submission - refers to the 526e primary data only, and the migration to LightHouse has already been completed for that. 
 
 
 ## Project goals
--
+- Modernization of the APIs used for the 526e ancillary forms
+- Transition from EVSS to Lighthouse API endpoints
+- Datadog monitoring
 
 ## Success criteria
-
-
-### Current stats
-
+- 
 
 ## Resource materials
+- [[Epic] Lighthouse Document Upload Migration #83837](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83837)
+- [Lighthouse Benefits Documents API](https://dev-developer.va.gov/explore/api/benefits-documents/docs?version=current)
 
 
 ## New capabilities and changes
-
+- (list the API(s) here)
+- (list the Datadog monitoring here)
 
 ## Production release plan
+
+### BDD 
 For the BDD release, we want to start by setting the feature flipper to send 1% of BDD uploads to Lighthouse. 
 After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
-0781 and the Veteran-uploaded documents will follow a similar pattern, based on how the initial BDD test goes.
 
-Release date: 
+**Release date:** TBD
 
-Team members: 
-
-Length of time: 
-
-Percentage of Users (and roughly how many users do you expect this to be): 1% of users, ~xxx submissions
+**Team members:**
+- [Nathan Burgess](https://github.com/NB28VT)
+- [Alison Jones](http://www.github.com/ajones446)
+- [Kyle Soskin](https://github.com/kylesoskin)
+- [Lisa Capaccioli](https://github.com/lisacapaccioli)
+- [Emily Theis](https://github.com/emilytheis)
 
 
 ## Risks
 
 ## Production issues recovery plan
-DBEX team Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which would prevent any user starting a new form from entering the path for the new 0781 redirect flow and instead direct them through the original flow for entering or uploading their 0781 and 0781a form/data. 
-
-
+DBEX team Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which would ... 
