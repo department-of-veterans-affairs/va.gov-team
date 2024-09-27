@@ -5,10 +5,6 @@ Today, individuals who want to become an accredited claims agent or attorney thr
 
 The goal of this initiative is to build a secure, web-based self-service Accreditation application form (21a) on VA.gov to support those who seek accreditation, starting with Claims Agents and Attorneys.
 
-### Associated product(s)
-* [Mockups (Figma)](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1026-23089&t=bZzrpQIbIIgz574V-1)
-
-
 ## Problem
 
 ### What is the problem and who is affected?
@@ -28,7 +24,6 @@ Additionally, the BLG has extensive back-and-forth communication with applicants
 ### How does this initiative help further OCTO-DE’s mission and goals?
 
 OCTO strives to provide excellent experiences and outcomes for Veterans. For some Veterans, working with accredited representatives is a crucial step to navigating the VA ecosystem. 
-
 
 ### Objective
 
@@ -68,6 +63,12 @@ Go-to-market
 
 Note: A long-term goal of VA OGC is to reduce the backlog of accreditation applicants. (The backlog currently sits at roughly 2,000 applicants.) The digitization of this form will not contribute to reducing the existing backlog. However, a desired outcome of this product is to reduce the time needed to process future applications, thus helping reduce future backlogs.
 
+## Related artifacts
+* [Paper/PDF Form 21a](https://www.va.gov/find-forms/about-form-21a/)
+* [Mockups](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation-(CA-%26-Attorneys)?node-id=1026-23089&t=bZzrpQIbIIgz574V-1) (Figma)
+* [21a Overview page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/21a-digital-accreditation.md) (Github)
+* [Proposed research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/research/Future%20-%20%2021a%20research) (Github)
+
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
@@ -76,16 +77,12 @@ Quantitative:
 * Average time application process time relative to previous processing time
 * % of successful and failed form submissions
     * Overall submission volume
-    * Submission total failure error %
-    * Backup path usage
-* % of successful and failed form submissions
-    * Overall submission volume
     * Submission error %
+    * Backup path usage
 * User form completion behavior
     * Number of sessions to complete a form
     * Time to complete form
-* Applicant satisfaction (measured by 
-    * CSAT score)
+* Applicant satisfaction (measured by CSAT score)
 
 Qualitative:
 * Feedback from VA OGC employees who process applications about the increased or decreased ease of processing applications
@@ -116,7 +113,7 @@ Because this product is not Veteran-facing, it has not followed the standard col
 * Target Launch Date
     * Targeting end of September 2024 for initial development of the new digital 21a application by the Accredited Resentative-Facing Team
 
-        _Note: Official launch date will need to be coordinated with dependent GCLAWS development team and OGC stakeholders_
+        _Note: Official launch date will need to be coordinated with and is dependent on GCLAWS development team and OGC stakeholders_
 
 * Actual Launch Date
     * TBD - Pending alignment with GCLAWS team
