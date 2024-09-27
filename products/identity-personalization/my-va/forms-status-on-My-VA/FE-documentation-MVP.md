@@ -11,16 +11,14 @@ This FE documentation outlines all possible status cards that appear in the Bene
 
 It also outlines the accordion component with the title "If you can't find your application or form" that appears at the bottom of this section.
 
-In addition, this documentation accounts for possible scenarios in which no draft or form statuses can be displayed in the entirety of the section, or a PDF cannot be generated:
-
+In addition, this documentation accounts for possible scenarios in which no draft and/or form statuses can be displayed in the entirety of the section:
 - Failed user call
 - Failed network call
 - Failed API call
 - Failure for drafts only
 - Failure for submitted only
 - Scheduled maintenance
-- PDF cannot be generated
-- PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
+
 
 ## When to show the ‘Benefit applications and forms' section
 We show this section for every user (LOA1 and LOA3). (Note: Not all forms are available to be filled out/displayed on My VA without LOA3 authentication)
@@ -346,27 +344,6 @@ Figma file (with content supplied by CAIA):
 
 ---
 
-## PDF related errors
-
----
-
-### PDF cannot be generated
-
-[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2107-27599&t=xjD6hDcxAO3klDmb-1)
-
-[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2107-42621&t=xjD6hDcxAO3klDmb-1)
-
-If it is detected that a PDF cannot be generated at page load, the link will not appear on the form card(s). If it cannot generate but the link is visible, a browser-based error will appear (this is slated to be addressed in a future enhancement). All other content on the card will remain the same for that status type (Received, etc.).
-
-### PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
-
-[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2134-26236&t=1xBs1o2BLdUQ1mpr-1)
-
-[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2136-41730&t=1xBs1o2BLdUQ1mpr-1)
-
-A user selecting the link to download the PDF will cause a browser-based error to appear, akin to what is shown in Figma (representing a Firefox error state). 
-
----
 
 ## System-wide errors for the Benefit application and forms section
 
