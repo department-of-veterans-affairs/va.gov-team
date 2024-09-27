@@ -14,3 +14,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Product Manager Lindsay Li-Smith requested a phone number via email “Phone Number for Active POA?” and Martin Caraway (VBA) provided the number for MyVA411 and the VA Benefits Hotline. MyVA411 was referenced at launch, but Product Owner Chante Lantos-Swett advised the MyVA411 number will not be helpful for understanding representative status (_[_Github ticket for this update_](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86190)_)_.
 - **9/19/2024**: Confirmed that we are not at risk for silent failures. \
   _Confirmed by Technical Lead Holden Hinkle ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93229))._
+- **9/25/2024**: Confirmed that we are ready to move forward with Profile and MyVA designs. \
+  _Confirmed by Product Manager Lindsay Li-Smith ([Slack post](https://dsva.slack.com/archives/C909ZG2BB/p1727283149165399))._
