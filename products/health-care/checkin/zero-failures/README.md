@@ -7,8 +7,6 @@ This section has documentation for Zero Silent Failures, an initiative to elimin
 - [Oracle Health Travel](./oh-travel.md)
 - [Pre-Check-In](./pre-check-in.md)
 - [PCI + Travel Claims](./travel-pay.md)
-
-## Other Documentation
 - [Third Party Connections](./third-party-connections.md)
 
 ## Sequence Diagrams
