@@ -4,9 +4,9 @@ This section has documentation for Zero Silent Failures, an initiative to elimin
 
 ## Checklists
 - [e-check-in](./day-of.md)
-- [Oracle Health Travel](./oh-travel.md)
 - [Pre-Check-In](./pre-check-in.md)
-- [PCI + Travel Claims](./travel-pay.md)
+- [PCI Travel Claims](./pci-travel-pay.md)
+- [Oracle Health Travel](./oh-travel.md)
 - [Third Party Connections](./third-party-connections.md)
 
 ## Sequence Diagrams
