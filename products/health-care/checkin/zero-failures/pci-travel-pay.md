@@ -1,9 +1,6 @@
-# Checklist for PCI + Travel Pay
+# Checklist for PCI Travel Pay
 
-This covers the Zero Silent Failure audit for
-
-- Travel Pay during PCI
-- Oracle health Travel Pay app (OHTP)
+This covers the Zero Silent Failure audit for Travel Pay during PCI
 
 The systems involved are
 
