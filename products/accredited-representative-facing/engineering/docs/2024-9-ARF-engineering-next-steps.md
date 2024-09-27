@@ -94,8 +94,11 @@ This document outlines the next steps for onboarding team members and provides c
 ## Establish `representative.va.gov` Subdomain
 
 **Objective**: Set up the `representative.va.gov` subdomain for ARP.
+
 **Relevant Epic**: [Representative Subdomain Setup #71723](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/71723)
+
 **Status**: Blocked (pending approval of the subdomain ESECC request).
+
 **Next Steps**:
 - Monitor the [representative.va.gov Subdomain ESECC Request approval process](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70480) and address any feedback promptly.
 - Configure subdomain and update DNS upon approval.
