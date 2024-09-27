@@ -11,15 +11,16 @@ This document outlines the next steps for onboarding team members and provides c
 
 **Objective**: Establish the connection between `vets-api` and `GCLAWS` to enable 21a form submissions.
 
-**Status**: Blocked (pending [ESECC networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC).
+**Status**: Semi-blocked (pending [ESECC networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC).
 
 **Relevant Epic**: [Digital Form 21a #83627](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/83627)
 
 **Next Steps**:
 
 - **Integrate and Test GCLAWS API:**
-  - Follow up with [Sam Raudabaugh](https://github.com/raudabaugh) on the [networking request](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/88288) and MOU.
-  - Once the GCLAWS API is accessible from vets-api, update the endpoint configuration in `vets-api` and perform end-to-end testing. See [key issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85933), which details current errors, TODOs and necessary steps to accomplish this objective.
+  - [Blocked] Follow up with [Sam Raudabaugh](https://github.com/raudabaugh) on the [networking request](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/88288) and MOU.
+  - [Blocked] Once the GCLAWS API is accessible from vets-api, update the endpoint configuration in `vets-api` and perform end-to-end testing. See [key issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85933), which details current errors, TODOs and necessary steps to accomplish this objective.
+  - [Not Blocked] It'll be necessary to align the [vets-website JSON schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87164) and perform [params validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92770) before sending the Form21a JSON object to the Form21as GCLAWS POST endpoint.
 
 ---
 
