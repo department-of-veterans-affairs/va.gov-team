@@ -1,10 +1,10 @@
-# My VA Forms Status: QA Strategy & Artifacts 
+# My VA Forms Status MVP: QA Strategy & Artifacts 
 **Last Updated: September 26, 2024 - QA findings**
 
 ## Test Scenarios
 QA was performed manually by team members to the best of our ability based on limited resources and access to/knowledge of testing tools. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-forms-status-mvp.md) (Github - sensitive repo)
-* Test cases (Github - A11y format) (link tk)
+* [Test cases a11y format](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-forms-status-a11y.md) (Github - sensitive repo) (link tk)
 * XLS spreadsheet TK (record of QA execution and findings)
 
 
@@ -12,7 +12,8 @@ QA was performed manually by team members to the best of our ability based on li
 - Noted in the findings table below and in the attached spreadsheet above.
 
 ## Accessibility Staging Review Prep
-A11y Staging review prep doc/ticket link tk
+- [A11y Staging review prep doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/launch-materials/forms-status-on-My-VA-a11y-staging-review-prep.md)
+- A11y ticket: [Accessibility Testing for Authenticated Experience My VA, My VA, Forms status on My VA #93786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93786)
 
 ## Test URL
 The application can be accessed directly at https://staging.va.gov/my-va
