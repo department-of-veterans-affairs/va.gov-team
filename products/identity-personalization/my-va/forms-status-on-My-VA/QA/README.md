@@ -1,12 +1,11 @@
 # My VA Forms Status MVP: QA Strategy & Artifacts 
 **Last Updated: September 26, 2024 - QA findings**
 
-## Test Scenarios
+## Test Case Documentation
 QA was performed manually by team members to the best of our ability based on limited resources and access to/knowledge of testing tools. 
 * [Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-forms-status-mvp.md) (Github - sensitive repo)
 * [Test cases a11y format](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-forms-status-a11y.md) (Github - sensitive repo) (link tk)
 * XLS spreadsheet TK (record of QA execution and findings)
-
 
 ## Defect report
 - Noted in the findings table below and in the attached spreadsheet above.
