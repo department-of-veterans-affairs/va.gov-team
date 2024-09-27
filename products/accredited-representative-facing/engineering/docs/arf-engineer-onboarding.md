@@ -7,7 +7,6 @@ Welcome to the Accredited Representative Facing (ARF) Engineering team! This doc
 ## High-Level Project Overview
 
 - [ ] **Explore** [Accredited Representative Facing Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing). The ARF homepage outlines the team's mission at the Department of Veterans Affairs to enhance the VA experience through a user-friendly online system. It showcases resources like the MVP, roadmap, and glossary of jargon. It also highlights vital documentation, team agreements, and communication channels for engagement.
-- [ ] **Reference** [VA Form 21-22](https://www.vba.va.gov/pubs/forms/vba-21-22-are.pdf) - Veterans use VA Form 21-22 when they want to have a Veterans Service Organization (VSOrg) help them with VA benefits or claims. The Veteran/Claimant information from this form is what will populate ARP's POA Request Table.
 
 ### Background Research / SEP Demos
 
