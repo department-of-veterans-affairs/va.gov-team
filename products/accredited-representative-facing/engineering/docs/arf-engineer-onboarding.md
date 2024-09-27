@@ -7,15 +7,13 @@ Welcome to the Accredited Representative Facing (ARF) Engineering team! This doc
 ## High-Level Project Overview
 
 - [ ] **Explore** [Accredited Representative Facing Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing). The ARF homepage outlines the team's mission at the Department of Veterans Affairs to enhance the VA experience through a user-friendly online system. It showcases resources like the MVP, roadmap, and glossary of jargon. It also highlights vital documentation, team agreements, and communication channels for engagement.
+- [ ] **Explore** [Glossary of Terms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/terminology-definitions.md)
 
 ### Deeper Technical Discovery
 
 - [ ] **Explore** [ADRs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/ADRs)
    - [ ] The [ARF 21a Architecture Intent Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/arp-architecture-intent-meeting.md) is a key one to spend time with!
 - [ ] **Explore** [ARF Engineering Canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC)
-- [ ] **Reference** [Lighthouse Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705440431964/42ea71b5405cda62ed44e95794facd94d8d266a0?sender=u44da4f823ec94118a7079396)
-- [ ] [Staging/WIP LH API Endpoints](https://staging-developer.va.gov/explore/api/benefits-claims/docs?version=current)
-- [ ] [BGS API catalog](https://github.com/department-of-veterans-affairs/bgs-catalog/blob/main/VDC/ManageRepresentativeService/ManageRepresentativePortBinding)
 
 ## ARP Design
 
@@ -42,27 +40,31 @@ See [ARF's engineering README.md](/products/accredited-representative-facing/eng
 - [ ] [#benefits-portfolio](https://dsva.slack.com/archives/C055573C508)
 - [ ] [#benefits-representation-management](https://dsva.slack.com/archives/C05L6HSJLHM)
 
+### Background Research / SEP Demos
+
+The main bit is the SEP slides, as they capture much of the functionality that must be built in ARP. Everything else is optional.
+
+- [ ] **Reference** [SEP Slides](https://docs.google.com/presentation/d/1aDd9MVh-fg8bl040WeEAX_-0sZBnTntkgfhl1LEGxbg/edit#slide=id.g2b70658ac6f_1_65)
+
+- [ ] **Watch** (optional) [SEP demo with DAV](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Ee3gR_HqQ45CnY4OO5URNgYBJ-4haXSIx60F8Mmwz0MzPw?e=uJTLu9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [ ] **Watch** (optional) [SEP demo with VEO](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/SEP%20Demos/SEP%20Demo%20with%20CTO-20231208_111227-Meeting%20Recording.mp4?csf=1&web=1&e=a3abDH)
+
+
 ### Initial ARF Project Docs
 
-The below doesn't add much value beyond the ARF homepage but can provide historical context. I would say it's only worth skimming:
+The below doesn't add much value beyond the ARF homepage but can provide historical context. I would say it's only worth skimming for general awareness:
 
 - [ ] **Skim** [Product brief](https://docs.google.com/document/d/17yZF0USxhFP6aCuy4QL-sf-fpBxUx7KwCoCDnvKIDNE/edit)
 - [ ] **Skim** [White paper](https://docs.google.com/document/d/1BBaYQ3FEwsNbjCLw9s7hSMIIj42eDLvixX8w4yoCfiY/edit)
 - [ ] **Skim** [Alignment mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1698946005167/83f2b6b79d93fcdd9d13ef9431167c9804852a9d?sender=u513eeac34c563a9cc9834127)
 - [ ] **Skim** [What is an accredited representative?](https://www.benefits.va.gov/vso/)
-- [ ] **Skim** [Glossary of Terms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/terminology-definitions.md)
+- [ ] **Skim**: [21a OIT/OCTO Sync Notes](https://dsva.slack.com/docs/T03FECE8V/F077TCRJTR6)
 - [ ] **Skim** [Open questions](https://docs.google.com/document/d/1qQjq5IEMGW4ZDPdDI22LuBY6JxFiuUzNgty4KqRX5q8/edit#heading=h.hc4r5od8cxww)
 - [ ] **Skim**  - [Iterating on the Lighthouse API to support representative tools](https://docs.google.com/document/d/10uq87LqFWVPzr9J2eYeBmWnCqhv9xmchrndSeU6Kr0c/edit#heading=h.bwy7w8s83fxd) - [LH Slack canvas with commentary](https://dsva.slack.com/docs/T03FECE8V/F062AE3BJ4R)
-
-### Background Research / SEP Demos
-
-The main bit is the SEP slides. Everything else is optional.
-
-- [ ] **Reference** [SEP Slides](https://docs.google.com/presentation/d/1aDd9MVh-fg8bl040WeEAX_-0sZBnTntkgfhl1LEGxbg/edit#slide=id.g2b70658ac6f_1_65)
+- [ ] **Skim** [Lighthouse Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705440431964/42ea71b5405cda62ed44e95794facd94d8d266a0?sender=u44da4f823ec94118a7079396)
+- [ ] **Skim** [Staging/WIP LH API Endpoints](https://staging-developer.va.gov/explore/api/benefits-claims/docs?version=current)
+- [ ] **Skim** [BGS API catalog](https://github.com/department-of-veterans-affairs/bgs-catalog/blob/main/VDC/ManageRepresentativeService/ManageRepresentativePortBinding)
 - [ ] **Skim** [Existing research mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695929155059/a302158eccec694ec7089bd6a02954421721987d?sender=ua71936780d8bc9a2d2b29830)
-- [ ] **Watch** (optional) [SEP demo with DAV](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Ee3gR_HqQ45CnY4OO5URNgYBJ-4haXSIx60F8Mmwz0MzPw?e=uJTLu9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- [ ] **Watch** (optional) [SEP demo with VEO](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/SEP%20Demos/SEP%20Demo%20with%20CTO-20231208_111227-Meeting%20Recording.mp4?csf=1&web=1&e=a3abDH)
-- [ ] **Reference**: [21a OIT/OCTO Sync Notes](https://dsva.slack.com/docs/T03FECE8V/F077TCRJTR6)
 
 ## Output
 
