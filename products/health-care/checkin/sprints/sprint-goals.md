@@ -89,7 +89,7 @@
     - **Sprint Goals is to advance the FE and BE work as much as possible**
     - ✔️ WAITING ON SCOPE DECISIONS:
         - ✔️ What VA or external system will be used to know when a referral has been VA authorized? (E.g., EPS, mobile-hsrm-service in MAP, Consult Status: Authorized consult factor in CTB from vista-api-x, etc.)
-    - 🟥 [[Design] Update Community Care VSS after consult approval workflow (Mural) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88886)
+    - ✔️ 🟥 [[Design] Update Community Care VSS after consult approval workflow (Mural) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88886)
     - ✔️ 🟥 Schedule IVC research readout presentation (Kristen can help identify people and meeting)
     - ✔️ 🟥 [[Design] Add content to confirmation page about how to cancel appt](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92733)
     - ✔️ 🟥 [Add urls to MVP scope page in Figma](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92776)
