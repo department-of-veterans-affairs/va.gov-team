@@ -1,15 +1,11 @@
-
 # Product Outline Accredited Representative Portal - Power of Attorney 
-
----
 
 ## Overview
 We will create a site for accredited representatives hosted on va.gov yet visually distinct where VSOs are able to accept or reject representation requests from form 2122.
 
 Objectives:
-Develop a user-friendly website that enables Veteran Service Organizations (VSOs) to manage power of attorney (POA) requests from veterans efficiently.
-Ensure the site's design accommodates future expansions for additional tasks accredited representatives perform
-
+- Develop a user-friendly website that enables Veteran Service Organizations (VSOs) to manage power of attorney (POA) requests from veterans efficiently.
+- Ensure the site's design accommodates future expansions for additional tasks accredited representatives perform
 
 ## Problem Statement
 The current systems for accepting or denying representation requests by form 2122 are either hosted on a deprecated site (SEP) or are entirely on paper. It is very slow and doesn't contain a method for notifying the Veteran if the request has been accepted or rejected.
@@ -27,31 +23,20 @@ How might we digitize the acceptance of form 2122 and host it on a more modern s
  - Representatives begin to use and trust the site
  - Representatives are able to immediately start working on a Veteran's needs as soon as they accept the representation request.
 
-
 ## Desired Business Outcomes
  - Increased use of digital forms which is a current OCTO priority
  - Decrease in forms that are unanswered or unresponded to
 
-
-
----
 ## Measuring Success
-
 
 ### Key Performance Indicators (KPIs)
  - Increased use of digital acceptance of forms
  - Positive customer feedback
  - Decrease in time between when a VSO accepts a 2122 and when the rep can access a Veteran's records
 
-
-
 ### Objectives and Key Results (OKRs)
 - The majority of representatives report an easy experience with the process of using the site
 - The time between acceptance of representation and access to the Veteran's record is shortened
-  
-
-
----
 
 ## Assumptions
 - VSOs want to be able to digitally accept or reject 2122
@@ -67,8 +52,6 @@ How might we digitize the acceptance of form 2122 and host it on a more modern s
 ### Initiatives
 Parallel effort to conduct research with accredited representatives to further explore what a representative site could be used for and prioritize those needs. 
 
---- 
-
 ## Launch Strategy
 - We will collaborate with Office of General Counsel and VBA VSO liaison (Marty Calloway) in addition to the Office of Public and Intergovernmental Affairs to make VSO aware of the new site and encourage adoption.
 
@@ -76,54 +59,24 @@ Parallel effort to conduct research with accredited representatives to further e
 Target Launch Date
   - Late June/early July staying aware of possible code freezes.
 
-
----
-
-## Solution Narrative
-
-### Current Status
-
-### Key Decisions
-
----
-   
-## Screenshots
-
-### Before
-
-### After
-
----
-
 #### Communications
-
-<details>
 
 - Team Name: Accredited Representative Facing
 - GitHub Label: accredited-representative-facing
 - Slack channel: #benefits-representative-facing
 
-
-</details>
-
 #### Team Members
-
-<details>
  
  - DEPO Lead: Jennifer Bertsch
  - PM: Rivka Gates
  - Engineering: Derrick Ellerbie, Emily Gullo, Gabriel Zurita, Jesse Cohn, Oren Mittman, William Phelps
  - Research/Design: Kara Sanchez, Rebecca Blakiston, Renata Keck
- 
-</details>
-
 
 #### Stakeholders
 
-Marty Calloway
-Brandy Trailer
+- Marty Calloway
+- Brandi Traylor
 
- 
 _What offices/departments are critical to make this initiative successful?_
  Lighthouse - connections to their APIs
-</details>
+
