@@ -8,16 +8,6 @@ Welcome to the Accredited Representative Facing (ARF) Engineering team! This doc
 
 - [ ] **Explore** [Accredited Representative Facing Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing). The ARF homepage outlines the team's mission at the Department of Veterans Affairs to enhance the VA experience through a user-friendly online system. It showcases resources like the MVP, roadmap, and glossary of jargon. It also highlights vital documentation, team agreements, and communication channels for engagement.
 
-### Background Research / SEP Demos
-
-The main bit is the SEP slides. Everything else is optional.
-
-- [ ] **Reference** [SEP Slides](https://docs.google.com/presentation/d/1aDd9MVh-fg8bl040WeEAX_-0sZBnTntkgfhl1LEGxbg/edit#slide=id.g2b70658ac6f_1_65)
-- [ ] **Skim** [Existing research mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695929155059/a302158eccec694ec7089bd6a02954421721987d?sender=ua71936780d8bc9a2d2b29830)
-- [ ] **Watch** (optional) [SEP demo with DAV](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Ee3gR_HqQ45CnY4OO5URNgYBJ-4haXSIx60F8Mmwz0MzPw?e=uJTLu9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- [ ] **Watch** (optional) [SEP demo with VEO](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/SEP%20Demos/SEP%20Demo%20with%20CTO-20231208_111227-Meeting%20Recording.mp4?csf=1&web=1&e=a3abDH)
-- [ ] **Reference**: [21a OIT/OCTO Sync Notes](https://dsva.slack.com/docs/T03FECE8V/F077TCRJTR6)
-
 ### Deeper Technical Discovery
 
 - [ ] **Explore** [ADRs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/ADRs)
@@ -63,6 +53,16 @@ The below doesn't add much value beyond the ARF homepage but can provide histori
 - [ ] **Skim** [Glossary of Terms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/terminology-definitions.md)
 - [ ] **Skim** [Open questions](https://docs.google.com/document/d/1qQjq5IEMGW4ZDPdDI22LuBY6JxFiuUzNgty4KqRX5q8/edit#heading=h.hc4r5od8cxww)
 - [ ] **Skim**  - [Iterating on the Lighthouse API to support representative tools](https://docs.google.com/document/d/10uq87LqFWVPzr9J2eYeBmWnCqhv9xmchrndSeU6Kr0c/edit#heading=h.bwy7w8s83fxd) - [LH Slack canvas with commentary](https://dsva.slack.com/docs/T03FECE8V/F062AE3BJ4R)
+
+### Background Research / SEP Demos
+
+The main bit is the SEP slides. Everything else is optional.
+
+- [ ] **Reference** [SEP Slides](https://docs.google.com/presentation/d/1aDd9MVh-fg8bl040WeEAX_-0sZBnTntkgfhl1LEGxbg/edit#slide=id.g2b70658ac6f_1_65)
+- [ ] **Skim** [Existing research mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695929155059/a302158eccec694ec7089bd6a02954421721987d?sender=ua71936780d8bc9a2d2b29830)
+- [ ] **Watch** (optional) [SEP demo with DAV](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Ee3gR_HqQ45CnY4OO5URNgYBJ-4haXSIx60F8Mmwz0MzPw?e=uJTLu9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [ ] **Watch** (optional) [SEP demo with VEO](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/SEP%20Demos/SEP%20Demo%20with%20CTO-20231208_111227-Meeting%20Recording.mp4?csf=1&web=1&e=a3abDH)
+- [ ] **Reference**: [21a OIT/OCTO Sync Notes](https://dsva.slack.com/docs/T03FECE8V/F077TCRJTR6)
 
 ## Output
 
