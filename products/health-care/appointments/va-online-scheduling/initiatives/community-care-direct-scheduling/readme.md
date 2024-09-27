@@ -48,7 +48,7 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 - [Review the CC DVSS end-to-end data flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717007634301/2e9fa61206c18e8cf196e2deb612eb0b577fb458?sender=u37bb983bd3fc3cc00c7d3286)<br><br>
 
-<img width="996" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/user-attachments/assets/9459b789-49f2-4127-9aaf-d1aa306c39d8">
+<img width="996" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/user-attachments/assets/9459b789-49f2-4127-9aaf-d1aa306c39d8"><br><br>
 
 **Referrals-to-notifications-to-VA.gov data flow**
 
