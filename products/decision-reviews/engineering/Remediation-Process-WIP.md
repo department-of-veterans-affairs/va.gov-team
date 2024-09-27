@@ -162,7 +162,7 @@ To start the process, you can send a message to `@Kimberley Monroe-Daniels` in `
 
 - Email Content (Just an example, can be modified as needed)
 
-  > “Unfortunately, we were unable to process and attach a piece of evidence to your [Supplemental Claim / Notice of Disagreement] that you submitted on [Date of Submission]. We want to make sure that your submission is evaluated with all of the evidence you intended to include, so we are requesting that you mail it to: [insert mailing address for appropriate form] or you can fax it to: [fax number for appropriate form]. The PDF filename is below and may be masked to hide possible sensitive information, but you should be able to identify which piece of evidence we are referring to:
+  > “Unfortunately, we were unable to process and attach a piece of evidence to your [Supplemental Claim / Notice of Disagreement] that you submitted on [Date of Submission]. We want to make sure that your submission is evaluated with all of the evidence you intended to include, so we are requesting that you mail the evidence to: [insert mailing address for appropriate form] or you can fax it to: [fax number for appropriate form]. The PDF filename of the evidence we would like you to mail in is below and may be masked to hide possible sensitive information, but you should be able to identify which piece of evidence we are referring to:
 [Masked filename, minus first 3 and last 2 letters].pdf”
 
 
