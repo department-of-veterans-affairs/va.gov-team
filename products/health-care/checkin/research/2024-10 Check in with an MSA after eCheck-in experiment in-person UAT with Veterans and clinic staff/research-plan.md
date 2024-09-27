@@ -110,6 +110,11 @@ TBD
 | Veteran completes eCheck-in, but fails to find or go to the clinic and check in with an MSA or clinician on time. | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
 | Feasibility of implementation (the experiment itself, let alone the possibility of scalability) and staff education and training, which inherently impacts effort and timeline. | OCTO, IVC, IPT coordination |
 
+#### Compliments from Veterans about eCheck-in
+- Out of ~574 responses in early 2024 (from VSignals), there were 18 compliments from Veterans about how ease to use eCheck-in was, how excited they were about it, and how they wished it was available at more VA facilities. 
+
+<img width="800" alt="Screenshot 2024-09-25 at 10 31 00 AM" src="https://github.com/user-attachments/assets/25a6e664-feac-419e-8328-c8829cc6af51"><br/><br/>
+
 ### Research materials 
 
 - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-with-staff.md)
