@@ -11,7 +11,8 @@ Completing eCheck-in shows the patient as checked in within VistA and VSE-CS (i.
 ### Compliments from Veterans about eCheck-in
 - Out of ~574 responses in early 2024 (from VSignals), there were 18 compliments from Veterans about how easy to use eCheck-in was, how excited they were about it, and how they wished it was available at more VA facilities. 
 
-<img width="800" alt="Screenshot 2024-09-25 at 10 31 00 AM" src="https://github.com/user-attachments/assets/c8bad992-9c77-4087-a017-bda62fa3272"> 
+<img width="800" alt="Screenshot 2024-09-25 at 10 31 00 AM" src="https://github.com/user-attachments/assets/55a70b48-e6b3-4ce5-b034-18fa0b6aff2a"> 
+
 
 ## Problem 
 
