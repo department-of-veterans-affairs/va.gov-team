@@ -4,22 +4,38 @@
 
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
-- Complete any project-specific setup tasks for this study (List them below)
-     - Step 1
-     - Step 2
-     - Step 3
 
-### Day of the session
+### Before all sessions:
+- Review participant list for participant name and screener question responses
+- Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
+
+### 10-15 min before session:
+- Slack Perigean notetaker the link to notes doc in github
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-- Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you
-type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+     - Post p# and "observer instructions" in #feedback-backchannel
+     - @mention team members
+     - Share brief summary of participant demographic info
+     - Mural link for notetaking
+     - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+     - Mute your Slack notifications.
 
-### Starting the session
+### 5-10 min before session: Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting
+
+- Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
+- Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
+- Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
+- Open standalone browser windows with staging link: https://staging.va.gov/discharge-upgrade-instructions/introduction
+- Paste link into Zoom chat (but don't hit enter)
+- Do Not Disturb ON so no notifications
+- Make sure everyone is muted except me and the participant
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
+
+*When the participant is ready, turn on your camera and begin session with the intro*
+
+*CHECK SLACK for real-time feedback and questions from observers*
 
 ## Intro - 5 minutes
 Thanks for joining us today! My name is Jordan and [NOTETAKER NAME] is taking notes. I also
@@ -92,18 +108,34 @@ and the audio as we talk today?
 share with other VA partners if we remove any information that can be used to identify
 you?
 
+## Screen sharing instructions (if needed)
+- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...) or Share Screen (on computer, button is green).
+     - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+     - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+- Now I'd like you to share your screen with me. Tap on the button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
+- iPad: Broadcast screen
+- Backup plan if they cannot figure out how to share screen:
+     - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control--doesn't work w/iPhones] Can you click and see if you can move your mouse around on my screen?
+
+## Instructions for finding Zoom chat (if needed)
+- In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom.
+      - Computer: Just to the left of center is a conversation bubble that says Chat.
+          - If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
+     - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+
 ## Warm-up Questions (Optional) - 5 minutes
 Before we look at the website, let’s start with a few warm-up questions.
 1. I understand you are a Veteran. Is that right?
-     a. Thanks for confirming that.
+     - Thanks for confirming that.
 2. What kind of device are you using today? (Computer / Tablet / Smartphone)
 3. I will be sharing a web page link with you during the session. How would you prefer to
 receive the URL? I could dictate it to you, or put it in the Zoom chat. (RECORD)
 4. Do you know how discharge status relates to VA benefits?
 5. Are you familiar with the discharge upgrade process?
-     a. (If Y) Have you applied for a discharge upgrade in the past?
+     - (If Y) Have you applied for a discharge upgrade in the past?
           i. (If Y) Can you tell me about your experience? (when, how, results)
-     b. (If N) No problem. You'll learn about it as we go through this session.
+     - (If N) No problem. You'll learn about it as we go through this session.
 
 ## First Task: Open wizard
 Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd
@@ -155,8 +187,7 @@ Please tell me about what you see here.
   
 ## Fourth Task: Edit a question - Pick 1 or 2 of these depending on time
 
-**Option 1:**
-Year Discharge (Appears on every flow) (If selected year other than 2009)
+### Option 1: Year Discharge (Appears on every flow) (If selected year other than 2009)
 
 I’d like you to pretend that you left the military in 2009.
 
@@ -175,8 +206,7 @@ Is there a way you could update that information from this page?
 
 (RECORD all comments, especially about alerts. Did they notice them? Y/N)
 
-**Option 2:**
-Previous Application (Appears on some flows) (If p has not previously applied for discharge
+### Option 2: Previous Application (Appears on some flows) (If p has not previously applied for discharge
 upgrade)
 
 I’d like you to pretend that you have applied for a discharge upgrade.
@@ -199,8 +229,7 @@ Is there a way you could update that information from this page?
 
 (RECORD all comments, especially about alerts. Did they notice them? Y/N)
 
-**Option 3:**
-Edit non-branching question (If p selected 2009 and has applied for a discharge upgrade)
+### Option 3: Edit non-branching question (If p selected 2009 and has applied for a discharge upgrade)
 
 I’d like you to pretend that you served in the [branch of service not selected].
 (Options: Army, Navy, Air Force, Coast Guard, Marine Corps)
@@ -260,3 +289,7 @@ Thank you so much again, and enjoy the rest of your day!
 ## Emergency Exit
 [In the rare case of an emergency during a session, be prepared with an [emergency exit
 strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it's easy to find during a session. Take some time to practice so it feels more comfortable.]
+
+We recommend you plan a graceful exit strategy that you will feel comfortable using during a session. Your goal is to simply wrap up the session without any further incident or escalation. It is important not to blame the participant, since it could increase any distress or trauma they are experiencing. If you are exiting for a reason on your side, it’s best not to share any personal details, as it may create additional stress for all. Examples of exit strategies that have worked include:
+- Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+- Blame technology: I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
