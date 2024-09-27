@@ -31,7 +31,7 @@ This document outlines the next steps for onboarding team members and provides c
 
 - **Relevant Epic**:
   - **ARP Authentication**: [ZenHub Epic #78472](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746)
-- **Status**: Unblocked
+- **Status**: Semi-blocked (pending [ESECC networking request and Memorandum of Understanding (MOU)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88288) between OCTO and OGC as well as GCLAWS endpoint development), though several issues can be started now.
 - **Next Steps**:
   - Review, add details to, and address incomplete issues in [ARP’s Authentication Epic](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746).
   - Consult the [ARP Identity Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714501321813).
