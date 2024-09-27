@@ -67,8 +67,8 @@ This document outlines the next steps for onboarding team members and provides c
 
 **Next Steps**:
   - Review, add details to, and address incomplete issues in [ARP’s Authentication Epic](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746) (determining what portions can be completed with the GCLAWS API in its current state).
-    - Note: some portions of [this accredited representative user PR](https://github.com/department-of-veterans-affairs/vets-api/pull/18095/files) can be reverted and modified to fit a solution that leverages MPI and GCLAWS for user validation.
-  - Consult the [ARP Identity Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714501321813).
+    - Some portions of [this accredited representative user PR](https://github.com/department-of-veterans-affairs/vets-api/pull/18095/files) can be reverted and modified to fit a solution that leverages MPI and GCLAWS for user validation.
+    - The [ARP Identity Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714501321813) will be helpful in this effort.
   - Connect with the Identity Team in [#arp-identity-integration](https://dsva.slack.com/archives/C06NBCMA7LL), as you'll collaborate closely with them!
 
 ## Accept/Deny 21-22 Representation Requests
