@@ -120,10 +120,10 @@ Before enabling your feature toggle in production, you'll need to:
      - The number of 'Back' button clicks, form exits and download link clicks are estimations derived to support our hypothesis.
 
 Weekly average ([monthly averages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration#targets) divided by 4)
-|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
-|---------|---------------|-------------|----------|---------------|---------------|----------|
-| Historical Weekly Average | 4500 | 2750 | 62 | 50 |12 | 2 |
-| 1-week Total | x | x | x | x |x | x |
+|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
+|---------|---------------|-------------|----------|---------------|---------------|----------|----------|
+| Historical Weekly Average | 4500 | N/A | 2750 | 62 | 50 |12 | 2 |
+| 1-week Total | x | x | x | x |x | x | x |
 
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
@@ -135,14 +135,14 @@ Weekly average ([monthly averages](https://github.com/department-of-veterans-aff
      - The forecast of 250 registration selections is based on approximately one-third of monthly service-connected care only registration volumes (850-900)
      - The number of 'Back' button clicks, form exits and download link clicks are estimations derived to support our hypothesis.
 
-|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
-|---------|---------------|-------------|----------|---------------|---------------|----------|
-|Historical Monthly Average | 18000 | 11000 | 250 | 200 |50 | 10 |
-|Month 1| x | x | x | x |x | x |
-|Month 2| x | x | x | x |x | x |
-|Month 3| x | x | x | x |x | x |
-|Experiment Monthly Average | x | x | x | x |x | x |
-|3-month Total | x | x | x | x |x | x |
+|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
+|---------|---------------|-------------|----------|---------------|---------------|----------|----------|
+|Historical Monthly Average | 18000 | N/A | 11000 |250 | 200 |50 | 10 |
+|Month 1| x | x | x | x |x | x | x |
+|Month 2| x | x | x | x |x | x | x |
+|Month 3| x | x | x | x |x | x | x |
+|Experiment Monthly Average | x | x | x | x |x | x | x |
+|3-month Total | x | x | x | x |x | x | x |
 
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
