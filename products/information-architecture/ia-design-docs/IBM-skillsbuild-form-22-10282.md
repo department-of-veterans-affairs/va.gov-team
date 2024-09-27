@@ -1,4 +1,4 @@
-# IA Design for IBM SkillsBuild form digitization
+# IA Design for IBM SkillsBuild form digitization 
 
 **STATUS: In progress**
 
