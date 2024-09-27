@@ -365,6 +365,8 @@ There are four possible error scenarios that are not related to specific forms:
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-17482&t=nHq2rMia3osfDiWr-1)
 
+This error state occurs when a network request fails.
+
 **Visual specs**
 - The warning alert component in [VADS]([https://design.va.gov/components/card#variations](https://design.va.gov/components/alert#warning-alert)) is used
 - The 'warning' icon is used inside the alert
@@ -381,6 +383,8 @@ We're sorry. We're working to fix this problem. Check back later.
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28921&t=nHq2rMia3osfDiWr-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28909&t=nHq2rMia3osfDiWr-1)
+
+This error state occurs when an API request for statuses fails.
 
 **Visual specs**
 - The warning alert component in [VADS]([https://design.va.gov/components/card#variations](https://design.va.gov/components/alert#warning-alert)) is used
