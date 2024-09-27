@@ -346,20 +346,42 @@ Figma file (with content supplied by CAIA):
 
 ---
 
-## System-wide errors for the Benefit application and forms section
-
-There are four possible error scenarios that are not related to specific forms:
+## PDF related errors
 
 ---
 
-## Failed main user call (pagewide error state)
+### PDF cannot be generated
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2107-27599&t=xjD6hDcxAO3klDmb-1)
+
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2107-42621&t=xjD6hDcxAO3klDmb-1)
+
+If it is detected that a PDF cannot be generated at page load, the link will not appear on the form card(s). If it cannot generate but the link is visible, a browser-based error will appear (this is slated to be addressed in a future enhancement). All other content on the card will remain the same for that status type (Received, etc.).
+
+### PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2134-26236&t=1xBs1o2BLdUQ1mpr-1)
+
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2136-41730&t=1xBs1o2BLdUQ1mpr-1)
+
+A user selecting the link to download the PDF will cause a browser-based error to appear, akin to what is shown in Figma (representing a Firefox error state). 
+
+---
+
+## System-wide errors for the Benefit application and forms section
+
+There are multiple possible error scenarios that are not related to specific forms:
+
+---
+
+### Failed main user call (pagewide error state)
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HqzBWh1aYg5G4WmO-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-782&t=0g1QL0e3j29my5Qt-1)
 
  
-## Failed network call
+### Failed network call
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=nHq2rMia3osfDiWr-1)
 
@@ -372,13 +394,13 @@ This error state occurs when a network request fails.
 - The 'warning' icon is used inside the alert
 - Typography: alert title (matches USWDS 1.33rem), 'vads-font-size-base'
 
-### **Content**
+#### **Content**
 
 We can't access your benefit applications and forms right now
 
 We're sorry. We're working to fix this problem. Check back later.
 
-## Failed API call
+### Failed API call
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28921&t=nHq2rMia3osfDiWr-1)
 
@@ -391,25 +413,25 @@ This error state occurs when an API request for statuses fails.
 - The 'warning' icon is used inside the alert
 - Typography: alert title (matches USWDS 1.33rem), 'vads-font-size-base'
 
-### **Content**
+#### **Content**
 
 We can't access your benefit applications and forms right now
 
 We're sorry. We're working to fix this problem. Check back later.
 
-## Failure for drafts only
+### Failure for drafts only
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1771-70415&t=Ly3AlX7WzQaWU6dS-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1789-41493&t=Ly3AlX7WzQaWU6dS-1)
 
-## Failure for submitted only
+### Failure for submitted only
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1771-71011&t=Ly3AlX7WzQaWU6dS-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1789-41838&t=Ly3AlX7WzQaWU6dS-1)
 
-## Scheduled maintenance
+### Scheduled maintenance
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
 
@@ -420,24 +442,10 @@ We're sorry. We're working to fix this problem. Check back later.
 - The 'warning' icon is used inside the alert
 - Typography: alert title (matches USWDS 1.33rem), 'vads-font-size-base'
 
-### **Content**
+#### **Content**
 
 We can't access your benefit applications and forms right now due to maintenance
 
 We’re working on this part of My VA. During this time, you won’t be able to access benefit applications and forms. Check back after Month Date, Year, at hh:mm a.m/p.m. ET. 
 
-## PDF cannot be generated
 
-[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2107-27599&t=xjD6hDcxAO3klDmb-1)
-
-[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2107-42621&t=xjD6hDcxAO3klDmb-1)
-
-If it is detected that a PDF cannot be generated at page load, the link will not appear on the form card(s). If it cannot generate but the link is visible, a browser-based error will appear (this is slated to be addressed in a future enhancement). All other content on the card will remain the same for that status type (Received, etc.).
-
-## PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
-
-[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2134-26236&t=1xBs1o2BLdUQ1mpr-1)
-
-[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2136-41730&t=1xBs1o2BLdUQ1mpr-1)
-
-A user selecting the link to download the PDF will cause a browser-based error to appear, akin to what is shown in Figma (representing a Firefox error state). 
