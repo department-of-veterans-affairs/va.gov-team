@@ -28,7 +28,7 @@ Note: 526 Submission - refers to the 526e primary data only, and the migration t
 
 
 ## New capabilities and changes
-- (list the API(s) here)
+- (list the API(s) here???)
 - (list the Datadog monitoring here)
 
 ## Production release plan
@@ -37,7 +37,31 @@ Note: 526 Submission - refers to the 526e primary data only, and the migration t
 For the BDD release, we want to start by setting the feature flipper to send 1% of BDD uploads to Lighthouse. 
 After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
 
-**Release date:** TBD
+- **Release date for 1%:** TBD
+- **Release date for 5%:** TBD
+- **Release date for 50%:** TBD
+- **Release date for 100%:** TBD
+
+
+### 0781 
+For the 0781 release, we want to start by setting the feature flipper to send 1% of 0781 uploads to Lighthouse. 
+After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
+
+- **Release date for 1%:** TBD
+- **Release date for 5%:** TBD
+- **Release date for 50%:** TBD
+- **Release date for 100%:** TBD
+
+
+### Veteran Evidence Uploads 
+For the Evidence Upload release, we want to start by setting the feature flipper to send 1% of uploads to Lighthouse. 
+After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
+
+- **Release date for 1%:** TBD
+- **Release date for 5%:** TBD
+- **Release date for 50%:** TBD
+- **Release date for 100%:** TBD
+
 
 **Team members:**
 - [Nathan Burgess](https://github.com/NB28VT)
@@ -48,6 +72,7 @@ After successfully passing the testing plan, we will then increase usage to 5%, 
 
 
 ## Risks
+
 
 ## Production issues recovery plan
 DBEX team Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which would ... 
