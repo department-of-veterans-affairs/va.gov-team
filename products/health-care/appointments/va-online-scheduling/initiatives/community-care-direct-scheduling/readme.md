@@ -103,13 +103,5 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 - Conversion rate % | baseline
 - Error failure rate % | baseline
 
-## Discovery 
-
-### CC direct scheduling high level visual data flow (WIP)
-
-<img width="1000" alt="Screenshot 2024-09-16 at 12 14 40 PM" src="https://github.com/user-attachments/assets/cd06c3f4-1691-4290-92b7-306bf45cdd1e"><br/>
-
-- [Review Mural (Out of date)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712435187811/f3ab95fd81a0a49af7d20f4629e9fee0356bb8d9)<br>
-
 ## Schedule
 - [EPS-VAOS Schedule Overview in SharePoint](https://dvagov.sharepoint.com/:p:/s/HealthApartment/EaymMOj8IRVLgeceh1kS-OQB1K4Cnr39NJHeSSVmOrZ14g?e=zHH3UW)
