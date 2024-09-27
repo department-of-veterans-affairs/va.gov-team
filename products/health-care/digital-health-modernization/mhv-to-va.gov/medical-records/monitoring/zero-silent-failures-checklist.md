@@ -229,8 +229,8 @@ Errors that appear in Datadog/Slack are triaged and addressed accordingly.  Some
 
 * [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
 We are answering 'No' for various domains below as there is two scnearios that can impact all of the domains where we have identified a silent error.  This issue will be created and prioritized for development.
-**Scenario 1** - If a user has not visited MHV since our FHIR server was deployed, they will have no records in the FHIR database. Then, if they visit VA.gov MR and PHR refresh fails, the user may falsely get a message saying they have no records.
-**Scenario 2** - We are not currently handling API errors from the PHR Refresh Status Check. 
+**Scenario 1** - If a user has not visited MHV since our FHIR server was deployed, they will have no records in the FHIR database. Then, if they visit VA.gov MR and PHR refresh fails, the user may falsely get a message saying they have no records.  https://jira.devops.va.gov/browse/MHV-62496
+**Scenario 2** - We are not currently handling API errors from the PHR Refresh Status Check. https://jira.devops.va.gov/browse/MHV-62497
    - Allergies:
     - [ ] Yes     
     - [X] No
