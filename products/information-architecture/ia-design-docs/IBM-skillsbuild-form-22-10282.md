@@ -10,7 +10,6 @@
 - Sam Walker - CAIA IA
 
 **CAIA Intake ticket:** [87265](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/70?pane=issue&itemId=69171351)
-
 **IA Tracker:** [88619](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/70?pane=issue&itemId=71290073)
 
 **On this page:**
@@ -32,7 +31,8 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 <img width="382" alt="22-10282 sitemap" src="https://github.com/user-attachments/assets/2fcef6b5-6a56-4751-9388-509845015a02">
 
-*Note about the content organization on this page: the 'Other VA education benefits' page currently has two H2 sections for organizing benefits. Each heading describes the benefits' relationship with the GI bill. We may want to consider a third H2 for the IBM Skillsbuild program, since it is a benefit with NO relationship to the GI Bill.*
+*Note about the content organization on this page: the 'Other VA education benefits' page currently has two H2 sections for organizing benefits. Each heading describes the benefits' relationship with the GI bill. Should we consider adding new H2 for the IBM Skillsbuild program, since this benefit is GI Bill agnostic? (see current H2s in this screenshot)*
+<img width="527" alt="ibm page placement screenshot" src="https://github.com/user-attachments/assets/38d01231-d70b-4d93-a378-e187095a64c7">
 
 
 
@@ -40,17 +40,17 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 **1) Benefit Info page for IBM SkillsBuild - TBD H1 - New**
 - URL: va.gov/education/other-va-education-benefits/[H1 - TBD by Content]/
-- Breadcrumb: Va.gov home > Education and training > Other VA education benefits > [H1 - TBD by Content]
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > [H1 - TBD by Content]
 
 
 **2) Form Intro page for IBM SkillsBuild - TBD H1 - New**
-- URL: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/introduction
+- URL: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
 - Breadcrumb: VA.gov home > Education and training > Other VA education benefits > [H1 - TBD by Content] > **I'm confused here - am unsure whether I'm looking at correct examples of the difference between Benefit Info page and Form Intro page breadcrumbs**
 
 
 **3) About VA Form Form 22-10282 - New**
 - URL: va.gov/find-forms/about-form-22-10282/
-- Breadcrumb: Va.gov home > Find a VA Form > About VA Form 22-10282
+- Breadcrumb: VA.gov home > Find a VA Form > About VA Form 22-10282
 
 
 
