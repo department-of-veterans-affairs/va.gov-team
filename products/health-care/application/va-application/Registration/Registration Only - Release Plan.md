@@ -50,6 +50,7 @@ Before enabling your feature toggle in production, you'll need to:
      - We will use the feature toggle to limit the traffic of users.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
   - Form errors : We want to ensure there is are no errors occuring in the form, caused by this feature
+  - Number of Info Accordion clicks: this is a new feature, unsure of expectations
   - Number of Register selections (Reg Info page views) :  Expecting about 1/3 of total traffic to select Register option
   - Number of Page Exits : Expecting about 20% of Register selections to leave the form on Register Info page
   - Number of "Back" button clicks on Reg Info page: Expecting 80% of Register selections to click the "BacK" button on the Register info page
