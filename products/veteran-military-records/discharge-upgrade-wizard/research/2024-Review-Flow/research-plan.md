@@ -31,6 +31,7 @@ answer to a particular question.
 - After editing a question, updates to the review page are clear and easy for Veterans to
 understand.
 - Veterans can navigate through the entire flow using the subtask pattern with ease.
+- Veterans that use assistive technology, like screen readers or screen magnifier technology, can navigate through user flows with ease. 
 
 ### Outcome
 Learnings will help enhance the edit flow to account for questions with branching logic.
@@ -175,3 +176,6 @@ Please list the people who will be serving in each role.
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Laura Flannery (laura.flannery@civicactions.com)
 - Note-takers: Perigean
 - Observers: TBD
+
+## Approvals
+- Amanda Klausmeier (Sitewide UX/UI Lead) on September 25, 2024
