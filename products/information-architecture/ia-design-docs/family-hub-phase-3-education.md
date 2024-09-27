@@ -268,37 +268,34 @@ The education/careers left nav will have the following structure. These are not 
 
 ## <a name="bestbets"></a>Best Bets<br>
 
-**1) Transferred Education benefits static page - New**
+**1) [Transferred Education benefits static page](https://www.va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/) - New** - DONE
 - add the new best bet with the new URL after publishing
 
-**2) Transferred Education benefits general rates page - New**
+**2) [Transferred Education benefits general rates page](https://www.va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/rates/) - New** - DONE
 - add the new best bet with the new URL after publishing
 
-**3) Transferred Education benefits application - Remove**
+**3) Transferred Education benefits application - Remove** - DONE
 - remove the best bet for this application to direct users to the static page instead, so that they can check things like eligibility and program overview before applying
 
-**4) Fry Scholarship  - Update**
+**4) [Fry Scholarship](https://www.va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/)  - Update** - DONE
 - update the existing best bet with the new URL after publishing
 
-**5) Fry Scholarship general rates page  - New**
+**5) [Fry Scholarship general rates page](https://www.va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/rates/)  - New** - DONE
 - add the new best bet with the new URL after publishing
 
-**6) DEA static page  - Update**
+**6) [DEA static page](https://www.va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/)  - Update** - DONE
 - update the existing best bet with the new URL after publishing
 
-**7) DEA general rates page  - New**
+**7) [DEA general rates page](https://www.va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/rates/)  - New** - DONE
 - add the new best bet with the new URL after publishing
 
-**8) DEA/Fry application form  - Update**
-- update the existing best bet with the new URL after publishing
-
-**9) [Survivor education benefits veteran page](https://www.va.gov/education/survivor-dependent-benefits/)  - Remove**
+**8) [Survivor education benefits veteran page](https://www.va.gov/education/survivor-dependent-benefits/)  - Remove** - DONE
 - Remove this best bet because this page will no longer be live
 
-**10) SECO  - Update**
+**9) [SECO](https://www.va.gov/resources/career-resources-for-military-and-surviving-spouses/)  - Update** - DONE
 - update the existing best bet with the new URL after publishing
 
-**10) VSOC R+S  - Add**
+**10) [VSOC R+S](https://www.va.gov/resources/vetsuccess-on-campus-vsoc/)  - Add** - DONE
 - add the new best bet with the new URL after publishing
 
 
