@@ -111,7 +111,7 @@ For more details about our criteria, refer to our [Recruitment ticket](https://g
 |~~Wednesday, September 4~~Friday, August 30|✅ Research review approved|
 |Thursday, September 5| ✅ Pilot session|
 |Monday, September 9 - Thursday, September 19| ✅ Research sessions|
-|Monday, September 23 - ~~Tuesday, September 24~~ Thursday, September 26|Analysis|
+|Monday, September 23 - ~~Tuesday, September 24~~ Thursday, September 26| ✅ Analysis|
 |~~Wednesday, September 25 - Friday, September 27~~ Friday, September 27 - Tuesday, October 1 |Synthesis|
 |~~Monday, September 30~~ Wednesday, October 2|Discuss recommendations|
 |~~Wednesday, October 2~~ Thursday October 3|Share findings and recommendations|
@@ -155,4 +155,4 @@ We will provide 24 time slots, with the aim to book 12 sessions.
 We will limit sessions to no more than 5 people, including 1 participant, 1 moderator, 1 notetaker, 2 observers.
 
 ## Approved by:
-- Shane Strassberg, VA Research Ops on [🟡Month day], 2024
+- Shane Strassberg, VA Research Ops on August 30, 2024
