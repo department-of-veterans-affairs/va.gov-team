@@ -207,7 +207,6 @@ The numbers in parentheses at the end of each item reflect the number of people 
 
 - **Don’t just build, maintain.** If something like SEP is built well and maintained well, running into those silly issues like outdated forms won’t happen. These kinds of things are really important.    
 
-
 ### What this means for us
 
 - We should build on what SEP does well: fast access to VBMS and fast submission of claims. 
@@ -216,14 +215,11 @@ The numbers in parentheses at the end of each item reflect the number of people 
 - Ensure our tool works well with any other tools not being sunsetted, and that the scope of what our tool does vs. other tools is clear. Ideally, there would be one tool to do it all, or at least a limit on the number of tools representatives are using.
 
 
-##
-
 ## Appendix
 
 - [Slide deck with presentation and polling results](https://docs.google.com/presentation/d/1qytwUkiUPbZ_7XCTci8J4j-kUJwhSelqmAP6pqORbyo/edit)
 - [Slide deck of just polling results](https://docs.google.com/presentation/d/1i7FpoDmXTkgFP2dGjtHkKetiAcURbr7ZvjIWlUIeoCk/edit)
 - [Spreadsheet of raw and summarized polling results](https://docs.google.com/spreadsheets/d/1Kbh7EMZjQYi-UUN-c6QC8FEHpzfBYd1ty_7d-5a1-is/edit#gid=669491601)
-
 
 ### Screenshots of Poll Everywhere results
 
@@ -231,10 +227,9 @@ The numbers in parentheses at the end of each item reflect the number of people 
 
 ![](https://lh7-us.googleusercontent.com/uTGlMupKf5tOYO7Efky0Zu7QcsFythmKwBrskCA5naa7rzAQgyjgUSvzZSpSzLGPvRxoYh_tQ6vA3gFucMIbUKu_mFtSegi1EAouih46UPU7Hn492x-u3ameg12Xh-9K5G9ZZ7bV8ZMAtfntPpXpsRA)
 
+![](https://lh7-us.googleusercontent.com/akU-vadQHfwXEsYlQkwND56tiy-P_8kYcvoqt_rp7x7kKrJdzelt1M6WrQlMy6WAlHlHqSV0N2DsxzJyKXaZE5U9JwVmSlzexDkatxD05VYFde8ERdDqm-_nPaMvtC7tKyJaKQz67KQzJ8r0_nd9x2E)
 
-### ![](https://lh7-us.googleusercontent.com/akU-vadQHfwXEsYlQkwND56tiy-P_8kYcvoqt_rp7x7kKrJdzelt1M6WrQlMy6WAlHlHqSV0N2DsxzJyKXaZE5U9JwVmSlzexDkatxD05VYFde8ERdDqm-_nPaMvtC7tKyJaKQz67KQzJ8r0_nd9x2E)
-
-### ![](https://lh7-us.googleusercontent.com/F64lBv3QG2CZEUVdxwWLWzKvZa0KramOm2WuuuodZBY1kHHCxaQ2DU0CX-RgJKlPU2_GMbOVmfLTqn5GDMLMOphtXx6xVjBkr1F8EAOBlG5u4jG-AeRjlPYOgLHCaDyfOR3g9YjhkH5nBZPmeKcshl0)
+![](https://lh7-us.googleusercontent.com/F64lBv3QG2CZEUVdxwWLWzKvZa0KramOm2WuuuodZBY1kHHCxaQ2DU0CX-RgJKlPU2_GMbOVmfLTqn5GDMLMOphtXx6xVjBkr1F8EAOBlG5u4jG-AeRjlPYOgLHCaDyfOR3g9YjhkH5nBZPmeKcshl0)
 
 ![](https://lh7-us.googleusercontent.com/zwePQ9k2JN6r0cg8fjZ-RIeuCT_htzIrctBpntPoIw7GJjZUGoPIN9tvwS8WJKLIXcpj3S4AOQ2WZturYpKKCBrksGCwNIjFRiNJ4Uz5eRZdv4gCOZtShyrNbYwLaUrICH4ZFled0c8qTqOBDF_vQHI)
 
