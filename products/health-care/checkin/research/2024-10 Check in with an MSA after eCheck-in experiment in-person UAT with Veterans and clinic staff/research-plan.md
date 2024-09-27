@@ -8,6 +8,11 @@ With the introduction of eCheck-in in early 2022, Veterans could check in remote
 
 Completing eCheck-in shows the patient as checked in within VistA and VSE-CS (i.e., both staff-facing applications), but Veterans do not have to be physically in the clinic waiting room at the time of completion, which is a mental model and process change for clinic staff.
 
+### Compliments from Veterans about eCheck-in
+- Out of ~574 responses in early 2024 (from VSignals), there were 18 compliments from Veterans about how easy to use eCheck-in was, how excited they were about it, and how they wished it was available at more VA facilities. 
+
+<img width="800" alt="Screenshot 2024-09-25 at 10 31 00 AM" src="https://github.com/user-attachments/assets/25a6e664-feac-419e-8328-c8829cc6af51">
+
 ## Problem 
 
 The introduction of eCheck-in (i.e, an additional modality for Veterans to check in to an appointment), reported by facility staff, has caused providers to lose patients, patients going to the wrong floor/clinic, miss appointments, wait longer than anticipated to see their provider if eCheck-in wasn't completed correctly, etc. (More information about the problem below.)
@@ -109,11 +114,6 @@ TBD
 | Negative or no impact on clinic operations and patient tracking as a result of lack of education and training of the changes to these tools and what their data means, especially ones that have reported problems. | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
 | Veteran completes eCheck-in, but fails to find or go to the clinic and check in with an MSA or clinician on time. | In-person MSA semi-structured interviews and pilot feedback recurring meeting with IVC |
 | Feasibility of implementation (the experiment itself, let alone the possibility of scalability) and staff education and training, which inherently impacts effort and timeline. | OCTO, IVC, IPT coordination |
-
-#### Compliments from Veterans about eCheck-in
-- Out of ~574 responses in early 2024 (from VSignals), there were 18 compliments from Veterans about how ease to use eCheck-in was, how excited they were about it, and how they wished it was available at more VA facilities. 
-
-<img width="800" alt="Screenshot 2024-09-25 at 10 31 00 AM" src="https://github.com/user-attachments/assets/25a6e664-feac-419e-8328-c8829cc6af51"><br/><br/>
 
 ### Research materials 
 
