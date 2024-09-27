@@ -12,7 +12,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| caregiver_use_facilities_API | Allow list of caregiver facilites to be fetched by way of the Facilities API |
 
 ## Step 2: Validation
 
@@ -28,49 +28,12 @@ Before enabling your feature toggle in production, you'll need to:
   - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
-
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
+### Scope of the Facilty Selection feature
+- The goal of this feature is to provide a dynamic search functionality for Veterans and Caregivers, so that they will have confidence in selecting the Veteran's preferred facility, which will also ensure the submitted application is routed to the appropriate Caregiver service facility for processing.
 
 ### Define the Rollback process
 
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
-
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
-
-[FILL_IN]: create your rollback plan
+- The PM and Data Analyst will monitor analytics. If there is a spike in errors or unexpected behavior, the feature toggle will be disabled and issue triage will begin.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
