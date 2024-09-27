@@ -121,6 +121,9 @@ If you answered yes to any of these questions then go through the following [che
 - [ ] Do you know when your applications shipped to production? (*If not, use Github to determine, roughly, when your application shipped to users.*)
  - [RS] The src/applications/vaos/vaos-entry.jsx file was added to the repository on 2019-08-15, that doesn’t mean that is when it was turned on for production users however but when it was first added to the repository. This was determined from a git log command and filter.
  - [JL] Looking through the history of issues and tickets, my understanding is that the initial rollout was in Spring 2020, though it seems Tony would probably know best. I’m basing my understanding on three tickets in particular: 6498 tracked phase 1 of the roll out and was completed in March 2020, 6644 tracked the redirection of MHV traffic to VAOS after 100% rollout to va.gov and was completed in April 2020, 4164 is an epic that tracked production readiness and was finally closed in June 2020.
+ - [JR] August 2021 - Community Care and VA Request Submission
+   August 2021 - Direct Scheduling
+   March 2021 - Vaccine Scheduling 
 
 - [ ] Do your applications use the same APIs when it shipped as it does today?
  - [JL] As Simi mentioned, we have fully migrated from v0 to v2 APIs. I agree that I think it’s not useful to document v0 APIs since those are completely removed at this point.
