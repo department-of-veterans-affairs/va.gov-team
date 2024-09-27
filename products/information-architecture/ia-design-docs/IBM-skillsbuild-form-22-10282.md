@@ -32,6 +32,7 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 <img width="382" alt="22-10282 sitemap" src="https://github.com/user-attachments/assets/2fcef6b5-6a56-4751-9388-509845015a02">
 
 *Note about the content organization on this page: the 'Other VA education benefits' page currently has two H2 sections for organizing benefits. Each heading describes the benefits' relationship with the GI bill. Should we consider adding new H2 for the IBM Skillsbuild program, since this benefit is GI Bill agnostic? (see current H2s in this screenshot)*
+
 <img width="527" alt="ibm page placement screenshot" src="https://github.com/user-attachments/assets/38d01231-d70b-4d93-a378-e187095a64c7">
 
 
@@ -67,7 +68,7 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 ### Secondary entry points
 
-1. **[Left Nav]** - [Add]
+1. **Left Nav** - Add
   - Placement description: In the left nav, under **Education and training > Get benefits > Other VA education benefits > [IBM Skillsbuild - H1 TBD]**
   - Link label: H1 - TBD by content
   - Link destination: va.gov/education/other-va-education-benefits/[H1 - TBD by Content]/
@@ -76,7 +77,7 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 2. **'About' page for form** - Add
   - Placement description: The 'Find a VA form' system's search result for this form should be updated with a link to the form, now that it can be filled out digitally.
   - Link label: Fill out VA form 22-10282 online
-  - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/introduction
+  - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
 <img width="732" alt="ibm about 2" src="https://github.com/user-attachments/assets/1a37660a-3f6d-4396-8ab8-dc4b85cb2862">
 
 
@@ -84,15 +85,23 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 ### Crosslinks
 TBD by Content. Three options noted here, but the currently listed links on these pages may be not be general enough for IBM SkillsBuild to be a logical addition. Input by Content most welcome.
 
- <img width="341" alt="22-10282 crosslinks" src="https://github.com/user-attachments/assets/12f23bb2-ed5d-4b4b-980a-f671fd816d58">
+1. [Careers > Employment resources for veterans](https://va.gov/careers-employment/veteran-resources/)  This page feels like a good subject-matter fit for a crosslink. But the 'More info' links at the bottom are v tightly scoped to Readiness & Employment topics.
+<img width="606" alt="ibm crosslink 1" src="https://github.com/user-attachments/assets/7146df64-5ff6-44af-890d-ee93257b8312">
 
+
+2. [Careers > Education and career counseling for familiy members](https://www.va.gov/family-and-caregiver-benefits/education-and-careers/educational-and-career-counseling/) Since the benefit is for family members as well, this might be an option. The 'more info' section on this page has a broader scope.
+<img width="579" alt="ibm crosslink 2" src="https://github.com/user-attachments/assets/8b9f9d63-4f71-4976-aeeb-d435b4f33f90">
+
+
+3. Maybe also [Resources and Support > Career resources for military and surviving spouses](https://www.va.gov/resources/career-resources-for-military-and-surviving-spouses/) It has a section at the foot of the page that's not *technically* a 'More' section, but seems to be serving a similar purpose.
+<img width="602" alt="ibm crosslink 3" src="https://github.com/user-attachments/assets/a13fc583-fe73-43da-9962-695e9834b889">
 
 ## <a name="redirects"></a>Redirects <br>
 *No redirects, since this is a newly digitized form and newly added pages.*
 
 
 ## <a name="bestbets"></a>Best Bets<br>
-**Add** a best bet for the newly added page.
+**Add** a best bet that direct to Benefit Info page. To URL: va.gov/education/other-va-education-benefits/[H1 - TBD by Content]/
 
 <img width="659" alt="ibm best bets 2" src="https://github.com/user-attachments/assets/63953255-4920-42f4-9ec1-a2a5cafa447c">
 
