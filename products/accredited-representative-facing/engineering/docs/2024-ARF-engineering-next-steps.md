@@ -65,9 +65,10 @@ This document outlines the next steps for onboarding team members and provides c
 #### Update vets-website POA Requests Table
 - **Status**: Blocked (pending implementation of 21-22 request storage).
 - **References**:
-  - [POA Requests Table Component](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/accredited-representative-portal/components/POARequestsTable/POARequestsTable.jsx)
+  - [POA Requests Table Component](https://github.com/department-of-veterans-affairs/vets-website/blob/777b84fe6442b359676bb72edd0c0955d6b8e0af/src/applications/accredited-representative-portal/components/POARequestsTable/POARequestsTable.jsx)
+  - [PR to remove 21-22 code from vets-website](https://github.com/department-of-veterans-affairs/vets-website/pull/32130#pullrequestreview-2332678028)
 - **Next Steps**:
-  - Modify the component to fetch from updated API endpoints.
+  - Modify the 21-22 code to fetch from updated API 21-22 vets-api endpoints.
   - Implement POA request accept/deny functionality.
 
 ## Establish `representative.va.gov` Subdomain
