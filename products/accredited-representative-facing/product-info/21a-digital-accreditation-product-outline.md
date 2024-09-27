@@ -107,7 +107,7 @@ Qualitative:
 
 ### Collaboration Cycle
 
-Because this product is not Veteran-facing, it has not followed the standard collaboration cycle process. A Midpoint Review requested for September 16, 2024. (See the [Collaboration Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879).)
+Because this product is not Veteran-facing, it has not followed the standard collaboration cycle process. A Midpoint Review was held on September 16, 2024. See the [Collaboration Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91879) and [Midpoint Review feedback](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1398).
 
 ### Initiative Launch Dates
 * Target Launch Date
