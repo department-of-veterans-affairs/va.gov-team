@@ -25,7 +25,7 @@ Additionally, the BLG has extensive back-and-forth communication with applicants
 
 OCTO strives to provide excellent experiences and outcomes for Veterans. For some Veterans, working with accredited representatives is a crucial step to navigating the VA ecosystem. 
 
-### Objective
+## Objective
 
 Build a secure, web-based self-service Accreditation application (21a) on VA.gov that allows individuals to apply to become accredited as Claims Agents or Attorneys, and pass this data securely to VA OGC for processing.
 
