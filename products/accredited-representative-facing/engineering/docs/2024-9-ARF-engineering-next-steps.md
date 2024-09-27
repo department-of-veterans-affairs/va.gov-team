@@ -20,7 +20,7 @@ This document outlines the next steps for onboarding team members and provides c
 - **Integrate and Test GCLAWS API:**
   - [Blocked] Follow up with [Sam Raudabaugh](https://github.com/raudabaugh) on the [networking request](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/88288) and MOU.
   - [Blocked] Once the GCLAWS API is accessible from vets-api, update the endpoint configuration in `vets-api` and perform end-to-end testing. See [key issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85933), which details current errors, TODOs and necessary steps to accomplish this objective.
-  - [Not Blocked] It'll be necessary to align the [vets-website JSON schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87164) and perform [params validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92770) before sending the Form21a JSON object to the Form21as GCLAWS POST endpoint.
+  - [Not Blocked] Before sending the Form21a JSON object to the [Form21as GCLAWS POST endpoint](https://ogccotst1.dva.va.gov:4501/swagger/index.html), it'll be necessary to align the [vets-website JSON schema](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87164) and perform [params validation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92770).
 
 ---
 
