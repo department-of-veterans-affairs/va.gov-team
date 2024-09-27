@@ -54,7 +54,7 @@ In addition to the above content, the below files may be helpful in understandin
   - [Accredited attorneys](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717533456497/60064424f651818203ff49ac43d6fb9f0f2bccac?sender=u8cf3f08a008c2b61ad621433)
   - [Accredited claims agents](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718731869465/cf73b89eddb92c604d292554a31e503f7ce5d982?sender=u8cf3f08a008c2b61ad621433)
 - [ARF Team Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1720019177037/1918bcb5dac0dab8a8103395aef7c9ddb347d6e6?sender=u2a4240a640b257ce33545495) (Mural; last updated in July 2024) 
-- [ARF Pilot Decision Record](https://docs.google.com/spreadsheets/d/1E4muMKOZJGPYe4vQGwmwj9_aViSun8wPq5PkZyT5bVM/edit?gid=0#gid=0) (**update to Sharepoint**)
+- [ARF Pilot Decision Record](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Repr[…]x?d=waab14a59eb53458c9a3f01ba6660d290&csf=1&web=1&e=c3oxLK) (Sharepoint)
 
 ## Next Steps
 - Recommended next steps for each work stream are listed on the overview page for each respective work stream:
