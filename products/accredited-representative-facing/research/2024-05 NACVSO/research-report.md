@@ -491,30 +491,30 @@ Additional research questions surfaced in this study:
 - [Claims Clinic notes](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/Claims%20Clinics%20Insights.docx?d=wb2d1bf7af2264435ac4f05a2d602892c&csf=1&web=1&e=XkaYyr) and [debrief recording](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/NACVSO_claimsclinic_debrief_recording.mp4?csf=1&web=1&e=wPYCcU) (Sharepoint)
 
 ### Pages and applications used
-Homepage prototypes (Figma)
-H1
-H2
-H3
-H4 
-Navigation/IA
-ARP Header
-ARP global menu drop downs
-POA request page prototypes (Figma)
-A2
-E1
-E2
-Decline message prototypes (Figma)
-Free-form
-Drop-down
-Mobile testing (Figma)
-A2 (mobile)
-E1 (mobile)
-E2 (mobile + tablet)
-Photos of talk-back boards (Sharepoint)
-What are your biggest challenges supporting Veterans?
-What would make the 21-22 (power of attorney) process easier?
-Tell us how you feel about…
-Find a Representative (VA.gov)
+- Homepage prototypes (Figma)
+  - [H1](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26317&t=MYl2yCMveAIJscuO-1)
+  - [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=MYl2yCMveAIJscuO-1)
+  - [H3](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26478&t=MYl2yCMveAIJscuO-1)
+  - [H4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=MYl2yCMveAIJscuO-1) 
+ - Navigation/IA
+  - ARP Header
+  - ARP global menu drop downs
+- POA request page prototypes (Figma)
+  - [A2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-72051&t=MYl2yCMveAIJscuO-1)
+  - [E1](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-90007&t=MYl2yCMveAIJscuO-1)
+  - [E2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-107611&t=MYl2yCMveAIJscuO-1)
+- Decline message prototypes (Figma)
+  - Free-form
+  - Drop-down
+- Mobile testing (Figma)
+  - [A2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=215-4341&t=MYl2yCMveAIJscuO-1) (mobile)
+  - [E1](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=215-2014&t=MYl2yCMveAIJscuO-1) (mobile)
+  - [E2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=215-1129&t=MYl2yCMveAIJscuO-1) (mobile + tablet)
+- Photos of talk-back boards (Sharepoint)
+  - What are your biggest challenges supporting Veterans?
+  - What would make the 21-22 (power of attorney) process easier?
+  - Tell us how you feel about…
+- Find a Representative (VA.gov)
 
 ### Other supporting documents created
 The following artifacts were updated to reflect the findings presented in this report:
