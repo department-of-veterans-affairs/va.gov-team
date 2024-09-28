@@ -4,7 +4,7 @@
 
 **Method**: POST
 
-**Path**: /inquiries/new
+**Path**: /ask_va_api/v0/inquiries/new
 
 **Parameters**:
 None
@@ -14,6 +14,7 @@ None
 |---|---|---|
 |Authorization (optional)|JWT?|Token for access to the CRM API|
 |secid (optional)|string|User security identifier|
+|message_id|string|an optional guid for correlating events to aid troubleshooting|
 
 
 **Body**:
@@ -142,8 +143,141 @@ None
 </tr>
 </table>
 
+
+
+## Technical Updates
+
+**URL:** https://dev.integration.d365.va.gov/eis/vagov.lob.ava/api/inquiries/new?OrganizationName=iris-dev
+
+### Body
+
+```json
+{
+    "InquiryCategory":"5c524deb-d864-eb11-bb24-000d3a579c45", 
+    "InquirySource":722310004,
+    "InquirySubtopic":"932a8586-e764-eb11-bb23-000d3a579c3f",
+    "InquiryTopic":"932a8586-e764-eb11-bb23-000d3a579c3f",
+    "SubmitterQuestion":"test",
+    "AreYouTheDependent":true,
+    "AttachmentPresent":false,
+    "BranchOfService": "name of branch",
+    "City":"Queens",
+    "ContactMethod":722310001,
+    "Country": "name of country",
+    "DaytimePhone":"1235559090",
+    "DependantCity":"Morrilton",
+    "DependantCountry": "name of country",
+    "DependantDayTimePhone":"1235559090",
+    "DependantDOB":"01/01/2000",
+    "DependantEmail":"test@email.com",
+    "DependantFirstName":"Peter",
+    "DependantGender":"M",
+    "DependantLastName":"Parker",
+    "DependantMiddleName":"B",
+    "DependantProvince":722310008,
+    "DependantRelationship":722310007,
+    "DependantSSN":"123456789",
+    "DependantState":"name of state",
+    "DependantStreetAddress":"TEST",
+    "DependantZipCode":"72156",
+    "EmailAddress":"test@email.com",
+    "EmailConfirmation":"test@email.com",
+    "FirstName":"Pete",
+    "Gender":"M",
+    "InquiryAbout":722310003,
+    "InquirySummary":"string",
+    "InquiryType":722310001,
+    "IsVAEmployee":true,
+    "IsVeteran":true,
+    "IsVeteranAnEmployee":true,
+    "IsVeteranDeceased":true,
+    "LevelOfAuthentication":722310001,
+    "MedicalCenter":"07a51029-6816-e611-9436-0050568d743d",
+    "MiddleName":"MiddleName",
+    "PreferredName":"Petey",
+    "Pronouns":"string",
+	"SchoolObj": {
+		"SchoolFacilityCode":"1000000898",
+		"InstitutionName":"Kyle's Institution",
+		"City":"Boston",
+		"StateAbbreviation":"state abbreviation",
+		"RegionalOffice":"669cbc60-b58d-eb11-b1ac-001dd8309d89"
+	},
+    
+    "StreetAddress2":"string",
+    "Submitter":"42cc2a0a-2ebf-e711-9495-0050568d63d9",
+    "SubmitterDependent":722310000,
+    "SubmitterDOB":"01/01/2000",
+    "SubmitterGender":"M",
+    "SubmitterProvince": "name of province",
+    "SubmittersDodIdEdipiNumber":"string",
+    "SubmitterSSN":"string",
+    "SubmitterState":"80b9d1e0-d488-eb11-b1ac-001dd8309d89",
+    "SubmitterStateOfResidency":"name of state of residency",
+    "SubmitterStateOfSchool":"80b9d1e0-d488-eb11-b1ac-001dd8309d89",
+    "SubmitterStateProperty":"80b9d1e0-d488-eb11-b1ac-001dd8309d89",
+    "SubmitterStreetAddress":"string",
+    "SubmitterVetCenter":"string",
+    "SubmitterZipCodeOfResidency":"80123",
+    "Suffix":722310001,
+    "SupervisorFlag":true,
+    "VaEmployeeTimeStamp":"string",
+    "VeteranCity":"string",
+    "VeteranClaimNumber":"string",
+    "VeteranCountry": "name of country",
+    "VeteranDateOfDeath":"01/01/2000",
+    "VeteranDOB":"01/01/2000",
+    "VeteranDodIdEdipiNumber":"string",
+    "VeteranEmail":"string",
+    "VeteranEmailConfirmation":"string",
+    "VeteranEnrolled":true,
+    "VeteranFirstName":"string",
+    "VeteranICN":"string",
+    "VeteranLastName":"string",
+    "VeteranMiddleName":"string",
+    "VeteranPhone":"string",
+    "VeteranPreferedName":"string",
+    "VeteranPronouns":"string",
+    "VeteranProvince": "name of province",
+    "VeteranRelationship": 722310008,
+    "VeteranServiceEndDate":"01/01/2000",
+    "VeteranServiceNumber":"string",
+    "VeteranServiceStartDate":"01/01/1960",
+    "VeteranSSN":"string",
+    "VeteransState":"name of state",
+    "VeteranStreetAddress":"string",
+    "VeteranSuffix": 722310001,
+    "VeteranSuiteAptOther":"string",
+    "VeteranZipCode":"80123",
+    "WhoWasTheirCounselor":"string",
+    "YourLastName":"string",
+    "ZipCode":"80123"
+}
+```
+
+### Response
+
+```json
+{
+    "Data": {
+        "InquiryNumber": "A-20240326-307058"
+    },
+    "Message": null,
+    "ExceptionOccurred": false,
+    "ExceptionMessage": null,
+    "MessageId": "b5112058-4639-4d0a-b732-ca1e9885fae5"
+}
+```
+
+
+
 ## Notes
 
+* The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a header value in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
+* The `Authorization` and `ICN` header values will only be included for users that are logged in.
+
+## Tasks / Comments
+ 
 * CC: Success should return the Inquiry Number and the Queue SLA (queue.iris_sla) for inclusion on the Confirmation page
 
 * Delete: (JH: done)

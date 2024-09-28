@@ -1,6 +1,6 @@
 # Product outline: Military information in the VA.gov profile
 
-**Last Updated: September 8, 2023** added military information project, updated GH labels
+**Last Updated: April 1, 2024** added link to veteran status card documentation link
 
 ### Table of Contents
 
@@ -34,8 +34,10 @@ We pull in a small amount of military information to the VA.gov profile. This in
 - Branch(es) of service
 - Period start dates
 - Period end dates
+- Service type (avtive, inactive, reserves etc) 
 - Multiple periods of service, if applicable
 - Link to information on how to request records (DD214)
+- [Veteran Status Card ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/README.md)(this is owned by another team)
 
 ## User problem statements
 - As a Veteran, I want to see what service history information the VA has on file for me to validate that it's correct.
@@ -47,9 +49,10 @@ We pull in a small amount of military information to the VA.gov profile. This in
 
 [For a complete list of current and past projects, please refer to the Profile section outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#projects).
 
-|Project/Inititive|Epic|Launch date|
+|Project/Inititive|Epic|Status|
 |---|---|---|
-| Expand Military Information [project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information)| [Intake EPIC \| Profile \| Enhanced Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)| Intake|
+| Expand Military Information [project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information)| [Intake EPIC \| Profile \| Enhanced Military Information](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)|Decided not to persue this except for adding the service type|
+|IES Download|||
 
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md)
@@ -72,8 +75,8 @@ The following provides a description of the different termination reason codes:
 - "W" Not Applicable
 
 ## Design and UX
-- [Military Information sketch files](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+- [Mockups and user flow](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=1%3A6319&mode=design&t=99v2c611QVhoppFc-1)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/use-cases)
-- [User flow on mobile page of Sketch files has u](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/p/D6D40E33-BC4E-4A06-90C7-879C59AD49F4/canvas)
+
 
 ## Frontend 

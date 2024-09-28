@@ -44,6 +44,38 @@
 
 **Note:** This hides the page from appearing in the left nav. It doesn't delete it. To add the page back to the left nav, you can check the **Enabled** button.
 
+## How to add a new left nav (sidebar)
+Creating a new left nav requires coordinating content changes (menu links) with frontend and Drupal development in order to prevent unwanted or broken left nav links.
+
+Overall process
+1. Create a Drupal menu in code
+2. Create links in the Drupal menu according to the structure below and wait for or issue a content release
+3. Implement frontend changes
+
+### Create the Drupal menu in code
+The fist step in creating a new left nav is to create the corresponding Drupal menu. Menus in Drupal require a code change in order to make them permanent, so coordination with Drupal developers is needed here.
+
+### Create links in the Drupal menu
+To realize a left nav for a benefit hub page, links need to be added to the new menu in a way that is expected by the frontend. The structure is as follows:
+
+**Level 1** - Primary benefit landing page. All other links are children of this landing page, and there should only be one item at this level.
+
+**Level 2** - Nav heading label. In Drupal this link should be entered using a <nolink> url. This level is required.
+
+**Level 3** - Nav links
+
+**Level 4+** - Child links
+
+<img width="1427" alt="sidebar-menu-structure" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/221539/47bcf0a6-6290-4414-832e-3897e78cfdea">
+
+### Implement frontent changes
+These changes will cause the left nav to be visible on the frontend:
+
+- (frontend) Adding the menu (machine name) to hubNavNames.json
+- (frontend) Adding the GraphQL query for the menu in Sidebar.nav.graphql.js
+- (frontend) Adding the sidebar to the page template data in src/site/stages/build/drupal/individual-queries.js
+- (frontend) Adding the sidebar template to the base page template, if not already present.
+
 ## How to set the url for a Drupal page
 
 For root-level and benefit pages, a content author needs to manually add the url. Do this is in the "URL alias" section of the Drupal node. 

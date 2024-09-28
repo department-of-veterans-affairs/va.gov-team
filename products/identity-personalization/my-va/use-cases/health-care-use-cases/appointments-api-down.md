@@ -1,6 +1,6 @@
 # My VA Health Care Use Case: The appointments API is down and the system can't tell if the user has appointments scheduled but can tell they have VA health care
 
-**Last updated:** August 25, 2023
+**Last updated:** January 6, 2024 _(Removal of MHV link, updated with Figma links)_
 
 For LOA3 users who have VA health care but sign in when the appointments API is down, they will see an error in the Health care section on My VA as well as other useful health care links.
 
@@ -13,10 +13,10 @@ For LOA3 users who have VA health care but sign in when the appointments API is 
 - When this error occurs and there are no unread messages, all secondary links appear on the left hand side on desktop.
 - When this error occurs and the user does have unread messages, they will see the unread messages alert above the appointments error as well as links in the Health care section to [Refill and track your prescriptions](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/refill-prescriptions), [Request travel reimbursement](https://va.gov/health-care/get-reimbursed-for-travel-pay/), and [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data). These links currently all go to their respective pages in My HealtheVet.
 - When this error occurs and there are unread messages, all secondary links appear on the right hand side on desktop.
-- [Desktop mockup without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile mockup without messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
-- [Desktop mockup with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C19F6AA0-62CE-4F92-89BD-65680DE67F60)
-- [Mobile mockup with messages](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/0C2845E1-A9E9-412C-B653-11B292A822A0)
+- [Desktop mockup without messages](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A266&mode=design&t=5F61Y67ZSUQb0Pyb-1)
+- [Mobile mockup without messages](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A798&mode=design&t=5F61Y67ZSUQb0Pyb-1)
+- [Desktop mockup with messages](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A253&mode=design&t=5F61Y67ZSUQb0Pyb-1)
+- [Mobile mockup with messages](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A787&mode=design&t=5F61Y67ZSUQb0Pyb-1)
 
 ## How to reproduce
 - In order to reproduce this error, find any staging user who has VA health care in the [health care staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#health-care-section).

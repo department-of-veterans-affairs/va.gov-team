@@ -1,3 +1,5 @@
+# OBSOLETE DOCUMENT
+
 # Public Websites Product Transition Doc
 
 <br>
@@ -24,8 +26,8 @@ Brief plain-language description of the problem space where your team and its pr
 ### Appeal Modernization Process
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/AMA%20Follow%20Up)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/AMA%20Follow%20Up/AMA%20Follow%20Up%20Product%20Outline.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/AMA-follow-up)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/AMA-follow-up/AMA%20Follow%20Up%20Product%20Outline.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 

@@ -42,22 +42,24 @@ Staff travel clerks often have to take manual steps to fix, validate and process
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+- Number of Call Center / Help Desk inquiries about beneficiary claim status
+- Traffic to legacy Travel Claims Portal
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### Objectives and Key results (OKRs)
+- Objective: Improve the usability of VA.gov for beneficiary travel claims
+  - Key result: Increase number of users who access TBD by X%
 
-#### Draft OKRs from OCTO
+- Objective: Improve reporting of beneficiary travel claims digital tools usage
+  - Key result: We are able to track migration progress from the legacy Travel Claims Portal to VA.gov
+  - Key result: We are able to establish baseline metrics for the VA.gov experience
+
+
+<details>
+  <summary>Draft OKRs from OCTO</summary>
+ 
 - Objective: Increase the number of Veterans who are eligible to submit a claim.
   - Key result: Number of valid, payable claims submitted increases by X%
   - Key result: Number of eligible Veterans enrolled is increased by X%
@@ -70,6 +72,7 @@ Staff travel clerks often have to take manual steps to fix, validate and process
   - Key result: Claims are submitted during the check in process handling X claims
   - Key result: Claim tools are integrated into va.gov for simple claims handling X claims
 
+</details>
 
 ---
 
@@ -84,9 +87,8 @@ Staff travel clerks often have to take manual steps to fix, validate and process
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
+- MVP - Status of a Claim | [Link to Initiative Brief](./feature-reference/mvp-implementation/)
 
 --- 
 
@@ -111,44 +113,26 @@ Staff travel clerks often have to take manual steps to fix, validate and process
 
 ### Key Decisions
 
+See [Decision Log](./decision-log.md)
+
 ---
    
 ## Screenshots
 
 ### Before
 
+Travel Claims Portal - Dashboard
+
+![BTSSS-TCP-Dashboard](https://github.com/laurenernest/va.gov-team/assets/72046525/6d335e38-1139-4986-a754-5bf36e607ee8)
+
+Travel Claims Portal - Appointments List
+
+![BTSSS-TCP-Appointments List](https://github.com/laurenernest/va.gov-team/assets/72046525/6b139471-c8de-4bce-992a-a91e1671cc9d)
+
+
 ### After
 
----
 
-#### Communications
-
-<details>
-
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
-
-</details>
-
-#### Team Members
-
-<details>
- 
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
- 
-</details>
-
-
-#### Stakeholders
-
-<details>
- 
 _What offices/departments are critical to make this initiative successful?_
  
 </details>

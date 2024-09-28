@@ -12,14 +12,14 @@
 ### User has a single notification
 
 - If a user has one notification and they log in with an LOA3 account, they will see the notification on My VA under the "Notifications" header.
-  - [Desktop mockup of single notification](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FC0B70C7-FF70-4A54-8247-DC0AD864E5ED)
-  - [Mobile mockup of single notification](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/639F4902-A32D-4454-87E5-4BD2E50E578E)
+  - [Desktop mockup of single notification](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A135&mode=design&t=Xk2YIBRv4J7l5PrA-1)
+  - [Mobile mockup of single notification](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A664&mode=design&t=Xk2YIBRv4J7l5PrA-1)
 
 ### User has multiple notifications
 
 - Notifications stack vertically with the newest at the top and oldest at the bottom.
-  - [Desktop mockup of multiple notifications](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E1F1890F-BA4D-4726-909B-0055361FDF65)
-  - [Mobile mockup of multiple notifications](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ACC876AD-8A95-4CF0-BC33-814C674A33D4)
+  - ~~[Desktop mockup of multiple notifications](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E1F1890F-BA4D-4726-909B-0055361FDF65)~~ Links no longer valid
+  - ~~[Mobile mockup of multiple notifications](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ACC876AD-8A95-4CF0-BC33-814C674A33D4)~~ Links no longer valid
 - A user must dismiss notifications individually.
 - At this time, notifications will stack vertically with no limit to how many we show since we are only supporting a new debt notification. In the future as we support more types of notifications we will have a solution for when a user has several or many notifications.
 
@@ -37,8 +37,8 @@
 ### There's an error when user tries to dismiss a notification
 
 - If a user clicks or taps the close icon to dismiss a notification and there is a system error, an error message displays above the notification and below the "Notifications" header.
-  - [Desktop mockup of notification dismissal error](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A5E6BDAE-7D09-4B5B-8BF7-255DC72E98BA)
-  - [Mobile mockup of notification dismissal error](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/410D442D-8E53-454E-AE7C-30D878C32529)
+  - ~~[Desktop mockup of notification dismissal error](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A5E6BDAE-7D09-4B5B-8BF7-255DC72E98BA)~~ Links no longer valid
+  - ~~[Mobile mockup of notification dismissal error](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/410D442D-8E53-454E-AE7C-30D878C32529)~~ Links no longer valid
 
 ## How to reproduce
 

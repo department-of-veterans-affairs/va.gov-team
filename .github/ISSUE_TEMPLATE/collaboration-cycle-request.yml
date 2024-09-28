@@ -1,7 +1,7 @@
 name: "Collaboration Cycle Request"
 description: "Begin engaging with the Collaboration Cycle."
 title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
-labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request"]
+labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request", "sitewide CAIA"]
 assignees: []
 body:
   - type: markdown
@@ -14,7 +14,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before engaging with the Collaboration Cycle, please review the questions below to help Platform determine what level of support and which touchpoints are needed for your work. (Learn more about the [Collaboration Cycle kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html).)
+        Before engaging with the Collaboration Cycle, please review the questions below to help Platform determine what level of support and which touchpoints are needed for your work. (Learn more about the [Collaboration Cycle kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff).)
   - type: markdown
     attributes:
       value: |
@@ -90,7 +90,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) page on Platform Website for detailed information and examples regarding these questions (below).
+        Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff) page on Platform Website for detailed information and examples regarding these questions (below).
   - type: dropdown
     id: visible-changes
     attributes:
@@ -123,6 +123,15 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: architecture-intent
+    attributes:
+      label: Does your work require non-trivial code changes or involve PII/PHI?
+      description: If so, you need an [engineering and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md).
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+  - type: dropdown
     id: analytics-domo
     attributes:
       label: Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
@@ -136,6 +145,17 @@ body:
     id: other-analytics
     attributes:
       label: Do you need to capture any additional analytics or metrics?
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+    validations:
+      required: true
+  - type: dropdown
+    id: cms
+    attributes:
+      label: Will a VA editor (Drupal) notice this change?
+      description: A VA editor creates content that informs the public about VA facilities - operating hours, services offered at specific locations - or else public content that describes benefits and procedures for applying for them.
       options:
         - "Yes"
         - "No"
@@ -170,11 +190,4 @@ body:
       options:
         - label: I acknowledge that I must add the GitHub labels for my team, product, and feature to this ticket. 
           required: true
-  - type: checkboxes
-    id: notify-slack
-    attributes:
-      label: Notify the Collaboration Cycle team of this ticket in your team's public Slack channel.
-      description: After creating this ticket, use the "/Collab Cycle Kickoff" slash-command in your Slack channel and follow Slackbot's instructions.
-      options:
-        - label: I acknowledge that I must notify the Governance team by completing the Collab Cycle Kickoff workflow in my team's Slack channel after submitting this issue. This can be completed by typing "/collab cycle" and selecting the kickoff workflow. 
-          required: true
+

@@ -19,23 +19,22 @@ Search results connect to modernized websites for VAMCs and Vet Centers or legac
 
 
 ## Product
-- [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md) | September 2023 
+- [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/facility-locator-product-outline.md) | September 2023 
 - [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
   - [Link to Product Guide Word version](https://dvagov-my.sharepoint.com/:f:/r/personal/suzanne_middaugh_va_gov/Documents/Facility%20Locator?csf=1&web=1&e=3BaPie) _requires VA network connection_
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)
 - [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/analytics)
-- [Solution Narrative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/01804e1226822c291a483adf25424f3143f48940/products/facilities/facility-locator/product/solution-narrative/README.md)
+- [Solution Narrative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product/solution-narrative/README.md)
 
 ## Engineering
-- [Engineering Index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
-- [Technical Documentation and Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/technical-documentation.md)
+- [Engineering Documentation and Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md)
 - [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/error_states.md)
 - [Process for reporting inaccurate data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md)
 
 ## UX
 - [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
 - [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
-- [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research#readme)
+- [Research README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research)
 
 
 ## Legacy artifacts

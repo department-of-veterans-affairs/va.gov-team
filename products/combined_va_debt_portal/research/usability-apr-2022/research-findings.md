@@ -99,17 +99,16 @@ This usability study was conducted remotely via Zoom. Participants either logged
 	- *Likely True.* All but one participant thought of copays as a type of debt, he stated "Defining it as copay causes me to not consider it debt."
 
 3. Participants may want more real-time transaction data regarding their debts and bills  
-	- *Not enough information.* Because of few login issues and a lack of participants with current bills, not all participants were able to view their actual copay and debt information to comment on how timely the data was. One participant who was able to view their actual information stated that there was previously an erroneous charge on their account that was taken care of but was surprised when it still appeared on the Combined Debt Portal. He quickly looked at the date of June 10th and realized the information had not yet been updated on the portal. One participant noted that he expected information to be updated within 24-72 hrs.
-
+	- *Not enough information.* Because of few login issues and a lack of participants with current bills, not all participants were able to view their actual copay and debt information to comment on how timely the data was. One participant who was able to view their actual information stated that there was previously an erroneous charge on their account that was taken care of but was surprised when it still appeared on the Combined Debt Portal. He quickly looked at the date of June 10th and realized the information had not yet been updated on the portal. One participant noted that he expected information to be updated within 24-72 hrs. 
 Another participant noted that the information he's received is not always updated in a timely matter:
 	
-> _"Sometimes, I’ve had it in the past where I’ve paid the debt but it’s not reflecting or a debt I’ve paid in the past is showing up as unpaid."_
+     > _"Sometimes, I’ve had it in the past where I’ve paid the debt but it’s not reflecting or a debt I’ve paid in the past is showing up as unpaid."_
 
 4. Participants may want to view their debt and copay bill details before resolving them, so they may think there’s too much content on the ‘current debts’ and ‘current copay bills’ pages 
 	- *Maybe True.* Participants talked about the ability to either quickly view details or quickly pay their bill based on their situation. Several participants noted that they had to go through too many pages to get to the information they were looking for. One participant noted that there was too much text and he prefers to scan websites and not read every line.
 
-5. Participants will understand the difference between a copay bill and benefit debt, but may be confused by the differences in payment and resolution options with those debts and bills  
-	- *Maybe False.* Participants did understand the difference between a copay bill and benefit debt but were able to locate where to pay, where to request financial help. Some participants felt that links for important features such as a pay link were hidden and that there were too many layers of pages.
+5. Participants will understand the difference between a copay bill and benefit debt (*Likely True*), but may be confused by the differences in payment and resolution options with those debts and bills (*Maybe False*)  
+	- Participants did understand the difference between a copay bill and benefit debt. They were able to locate those where to pay and where to request financial help. Although they were able to find those links, some participants felt that links for important features such as a pay link were hidden and that there were too many layers of pages.
 
 6. Participants may not think the ‘Your other VA bills’ or ‘Your other VA debts’ section is prominent enough  
 	- *Not enough information.* We did not receive enough participants who had both copays and debts. Most participants began at the summary page and knew it existed before being asked to navigate to it. The few who did not see the summary page were still able to navigate to it.
@@ -328,7 +327,7 @@ Copay page:
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
+_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 

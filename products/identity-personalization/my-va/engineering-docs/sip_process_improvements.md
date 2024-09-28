@@ -6,7 +6,7 @@ Following up from Angela's work on the benefit application drafts section docume
 [Additional context](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60510#issuecomment-1658652021)
 
 ## Potential Solutions
-In order to render the [ApplicationsInProgress](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/ApplicationsInProgress.jsx) component:
+In order to render the [ApplicationsInProgress](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-application-drafts/ApplicationsInProgress.jsx) component:
 
 1. The logged in user's saved forms are retreived from the Redux store.
 2. We iterate over these saved forms and use the metadata defined in the [My VA helpers file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/helpers.jsx) to render the data for that form in the UI.
@@ -29,7 +29,7 @@ All of the solutions proposed require a good amount of engineering effort. My re
 After determining if this is a problem worth tackling, I would favor the simplest solution (#1) and measure developer happiness from there. If that still proves to be too itchy for devs, then we can invest engineering time into one of the more complex solutions.
 
 ### Resources
-- [Original issue](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/gh/department-of-veterans-affairs/va.gov-team/62897)
+- [Original issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62897)
 - [UX Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60510)
 - [Additional context](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60510#issuecomment-1658652021)
 - [Adding Forms to My VA](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage)

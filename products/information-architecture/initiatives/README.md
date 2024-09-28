@@ -10,7 +10,7 @@
 ## Content strategy and IA collaboration
 
 #### Family member benefits hub 
-[Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/initiative-brief.md)
+[Initiative brief, launch plan, and research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/audience-hubs/family-member-hub)
 
 #### Benefit hub optimization 
 [initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/optimize-benefit-hubs/initiative-brief.md)

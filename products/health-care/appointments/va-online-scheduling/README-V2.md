@@ -1,5 +1,5 @@
-# VA Online Scheduling
-VA online scheduling (VAOS) is a Veteran-facing healthcare appointment scheduling tool on VA.gov.
+# MHV on VA.gov: Appointments
+MHV on Va.gov: Appointments is a Veteran-facing healthcare appointment scheduling tool on VA.gov.
 
 [Other Veteran-facing healthcare appointment tools](../README.md)
 
@@ -10,10 +10,6 @@ Deliver a seamless and positive experience for any Veteran who wants to schedule
 A very small percentage of Veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and a heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for Veterans.
 
 [VAOS Product Outline](vaos-product-outline.md)
-
-**Jump to**
-
-[TBD - add links to all headings]
 
 ## What we're working on
 
@@ -33,9 +29,9 @@ This GitHub folder is the central document hub for the VAOS product, but other i
 
 - [GitHub sensitive repo]()
 - [DSVA Mural]()
-- [Teams]()
+- [SharePoint]()
 - [Figma]()
-- [Confluence]() (Requires VA network)
+
 
 ### Product and User Experience
 
@@ -72,8 +68,6 @@ This GitHub folder is the central document hub for the VAOS product, but other i
 - [User flows]()
 - [Copy docs]()
 - [Page templates]()
-
-
 
 ## The team
 

@@ -11,6 +11,17 @@ If anything came up related to Travel Pay in a study not related to Travel Pay, 
 
 **Takeaway:** 
 -------
+### Study name: Federal header authenticated menu usability
+**Team/Researcher:**  Liz Lantz, Authenticated Experience
+
+**Date:** 2/1/2024
+
+**Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/discovery-research/authenticated-menu-usability)
+
+**Takeaway:** One participant added "Travel benefits" to their authenticated menu during a prioritization excercise, because they know it's important to many Veterans. They said they stopped using the benefit themselves because it's not worth the hassle of submitting a claim.
+
+>P:  Well, I was thinking about putting it [travel benefits link] above profile, but travel benefits is something that only some veterans use or get. And you know, it's good for to be there, but it's not like a major thing. Because I can get travel benefits, but once they went from the paper process to online, it's not worth my time and effort to even worry about it. And it's only like 5 or 6 bucks, but you know. If you have to, you know, if you go, if you have a lot of appointments, it helps you, but. It's not really worth time or effort to put into it. So that's why it's at the bottom [of my authenticated menu].
+-------
 
 ### Study name: Personal health care contacts usability
 **Team/Researcher:** MHV Cartography team, Jonathan Nelson

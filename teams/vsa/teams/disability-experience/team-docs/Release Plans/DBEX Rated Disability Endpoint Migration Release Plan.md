@@ -38,8 +38,8 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - [x] Review Cases
     - [x] Canary
 - [ ] Phase II: Staged Rollout 
-    - [ ] Stage A: 1%
-    - [ ] Stage B: 5%
+    - [x] Stage A: 1%
+    - [x] Stage B: 5%
     - [ ] Stage C: 10%
     - [ ] Stage D: 25%
     - [ ] Stage E: 50%

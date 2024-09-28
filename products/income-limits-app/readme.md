@@ -142,8 +142,8 @@ See decision log in this folder.
 
 <details>
  
- - DEPO Lead: Dave Conlon
- - PM: Wes Rowe
+ - DEPO Lead: Michelle Middaugh
+ - PM: Fran Cross
  - Engineering: Daniel Sasser
  - Research/Design: Jordan Wood
  

@@ -6,13 +6,13 @@ View the [research plan](research-plan.md) and [conversation guide](conversation
 
 ## Research Goals
 
-Through this research, we sought to learn more about the Veteran mental model around scheduling and their registered health facilites, as well as evaluate the usability of a prototype that would allow Veterans to manage their health facilites. 
+Through this research, we sought to learn more about the Veteran mental model around scheduling and their registered health facilities, as well as evaluate the usability of a prototype that would allow Veterans to manage their health facilities. 
 
 The overall VAOS product goal for this work is to improve completion of the VA facility selection step. The abandonment rate for the VA facility selection page is consistently the highest in the VAOS appointment request flow. This page shows every VA facility where a Veteran has registered for care, and includes many that a Veteran has previously visited but where they no longer receive care.   
 
 We believe that if we surface only the facilities where the Veteran currently receives care, they will be able to find relevant facilities more easily and improve their chances of completing this step in the process.  
 
-![](images/vaos-steps.png)  
+![A chart showing abandonment rate at various stages through VAOS](images/vaos-steps.png)  
 
 *Above: Chart showing facility selection page has the highest abandonment rate (33.11%) in the VAOS scheduling flow (data from request flow, April 1, 2021 - June 22, 2021)*
 
@@ -20,11 +20,20 @@ We believe that if we surface only the facilities where the Veteran currently re
 
 We asked 8 Veterans how they currently select health care facilities, and had them complete tasks in a mobile InVision prototype that we expected would allow them schedule at their current facilities faster without sorting through facilities that weren't relative to them.
 
-For the prototype test, we split our eight veterans into two groups so we could test different different scenarios for wayfinding and setting preferences:  
+For the prototype test, we split our eight veterans into two groups so we could test different scenarios for wayfinding and setting preferences:  
 
-In scenario 1 ([view prototype](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)), we asked participants to navigate to the profile from the VAOS facility page to manage their current facilities, then return to VAOS to finish scheduling their appointment.  
+In scenario 1 ([view prototype](https://adhoc.invisionapp.com/console/share/BX2JRZTUR2/621669675)), we asked participants to navigate to the profile from the VAOS facility page to manage their current facilities, then return to VAOS to finish scheduling their appointment. 
 
-In scenario 2 ([view prototype](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)), we asked participants to save their facilities in VAOS, directly after the facility page 2\. Then, at the end of the scheduling flow, we asked them to navigate to the profile to manage their current facilities.  
+
+<video src="images/preferred-facility-prototype-scenario-1.mp4" controls title="Scenario 1 prototype video"></video>
+
+[Video of scenario 1](images/preferred-facility-prototype-scenario-1.mp4)
+
+In scenario 2 ([view prototype](https://adhoc.invisionapp.com/console/share/B72LX6SPTP/633532185)), we asked participants to save their facilities in VAOS, directly after the facility page 2. Then, at the end of the scheduling flow, we asked them to navigate to the profile to manage their current facilities.  
+
+<video src="images/preferred-facility-prototype-scenario-2.mp4" controls title="Scenario 2 prototype video"></video>
+
+[Video of scenario 2](images/preferred-facility-prototype-scenario-2.mp4)
 
 The rest of the tasks were the same for both scenarios:
 
@@ -93,7 +102,7 @@ While this study was too small to answer this question for the broader Veteran p
 
 Many participants said that when they need new care they work with their PCP who provides referrals and authorizations to see specialists or community care providers. They prefer to go to only these authorized providers because they feel it ensures their PCP is communicating with these providers, and that costs will be covered by VA health care. 
 
-The most common reason participants went to a facility other than where their PCP practiced is because they needed speciality care, such as a CPAP clinic, or needed to have tests done. 2 participants reported that they received referrals to other providers when appointments were available sooner at another facility. 
+The most common reason participants went to a facility other than where their PCP practiced is because they needed specialty care, such as a CPAP clinic, or needed to have tests done. 2 participants reported that they received referrals to other providers when appointments were available sooner at another facility. 
 
 #### Once they've established care, participants reported clear preferences for how they choose facilities.
 
@@ -126,7 +135,7 @@ When asked to describe the facilities they'd expect to see if the list was based
 
 > "I wouldn't expect to see \[far away facilities\] here. I don't know why I'd want to drive 1,000 miles to a VA facility. If I needed something unique like that I'd expect to go to a little bit of trouble to find it." - P7
 
-3 participants surmised it might be useful to see previously visited facilities in their list if they were traveling back to that area. However, one didn't think this would be helpful because they   expected they would need to call any facility in a different network to re-establish care there before scheduling a new appointment online. 
+3 participants surmised it might be useful to see previously visited facilities in their list if they were traveling back to that area. However, one didn't think this would be helpful because they expected they would need to call any facility in a different network to re-establish care there before scheduling a new appointment online. 
 
 No one had an immediate reason they would need to see this information. Other notes about registration:
 
@@ -153,10 +162,10 @@ Over the course of the sessions, four participants told us they start with secur
 
 > "I do better with secure messaging. This way I can see it. With a little bit of hearing loss, I don't always want to be on the phone saying, "Sorry, I didn't hear what you said, Sorry, can you say that again?" It gets annoying for me. I can only imagine what the person on the other end would be thinking." - P11
 
-Half of the participants prefer to make appointments in person.There was no larger theme here, but some of the unique points included:
+Half of the participants prefer to make appointments in person. There was no larger theme here, but some unique points included:
 
 * Two mentioned that it was sometimes more convenient to walk in to schedule than call.
-* Another said they liked to make their follow up appointments with the scheduler at the facility right after they completed an appointment.
+* Another said they liked to make their follow-up appointments with the scheduler at the facility right after they completed an appointment.
 
 ### 7 of 8 participants shared a negative perception of calling the VA
 
@@ -267,7 +276,7 @@ In VAOS, Veterans seeking health care at their regular clinic would find some va
 
 Some participants expected to be able to click on a facility in their profile list and send a secure message directly to that provider, and thought that would be useful.
 
-When a Veteran splits their time between two locations they often have one Primary care doctor at their "home" location, and other doctors at their alternate location. The participants we spoke to who traveled for work, or traveled to different locations for part of the year expected that VA would know about their location preferences and update which facilities are available to them accordingly.  They also stated saving facilites in anticipation of travel would be valuable. It wasn't clear to them why they would only see facilities where they had previously established care.
+When a Veteran splits their time between two locations they often have one Primary care doctor at their "home" location, and other doctors at their alternate location. The participants we spoke to who traveled for work, or traveled to different locations for part of the year expected that VA would know about their location preferences and update which facilities are available to them accordingly.  They also stated saving facilities in anticipation of travel would be valuable. It wasn't clear to them why they would only see facilities where they had previously established care.
 
 > \[Anything helpful about what you saw today?\] Yeah, possibly when I travel, it would be useful, because when I'm at home I use the laptop and I don't have to worry about jumping through hoops on the phone and it's easier to print what I need. but if I'm on the road, and I have to find a different facility for some reason, it would be useful. And I travel a lot.
 
@@ -374,7 +383,7 @@ Since the majority of participants didn’t intuitively use the profile menu, we
 ## Resources
 
 - [VAOS product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/README.md)
-- [Profile preferred facilites product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md)
+- [Profile preferred facilities product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/preferred-facility/README.md)
 - [Research plan](research-plan.md)
 - [Conversation guide](conversation-guide.md)
 - Prototypes

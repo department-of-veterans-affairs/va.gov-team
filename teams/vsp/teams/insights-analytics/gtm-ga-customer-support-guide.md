@@ -13,10 +13,10 @@
 
 - [ ] Start Toggl time entry for ticket number using our convention
 - [ ] Modify (and save) the GH ticket title and/or description if not enough context is provided as to the product/app/tool needing analytics service
-- [ ] Ensure the correct GH ticket template was used for the request: 
+- [ ] Ensure the correct GH ticket template was used for the request:
    - [ ] _If the correct request was not used, either ask team to resubmit using the correct ticket or adjust markdown to reflect correct ticket_
 - [ ] Ensure any ticket...whether it be for GTM implementation, GA/DOMO access, offboarding, and/or reporting and dashboarding has the correct **`analytics-insights`** label to represent our team's queue
-- [ ] Add an additional label to convey further context into the scope of the ticket, from one of the following: 
+- [ ] Add an additional label to convey further context into the scope of the ticket, from one of the following:
    - [ ] **`collaboration cycle`**: _For any new product/app/tool on VA.gov that is launching -- as all products are expected to go through the [collaboration cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle)_
    - [ ] **`collab cycle review`**: _For any new product/app/tool on VA.gov that is launching -- as most product will ultimately conduct a collab cycle review before launch_
    - [ ] **`analytics request`**: _For requests of our team of ANY service from VFS team_
@@ -24,7 +24,7 @@
    - [ ] **`access request`**: _For requests of our team to supply and/or remove Google Analytics and/or DOMO access_
    - [ ] **`kpi-dashboard`**: _For requests of our team to develop/update/iterate on a KPI dashboard_
    - [ ] **`needs grooming`**: _For any request that requires further grooming / clarification of scope before beginning work, call out this ticket during planning & grooming sessions and remove remove this label once fully understood_
-   - [ ] **`design system`**: _For any request that is going to involve design system updates in correlation with analytics or direct vsp design system team involved_ 
+   - [ ] **`design system`**: _For any request that is going to involve design system updates in correlation with analytics or direct vsp design system team involved_
    - [ ] **`bug`**: _For any request that is a FIX (tracking was previously working as expected and/or an implementation request has already created and closed and something needs to be revisited_
    - [ ] **`blocked`**: _For any request that becomes BLOCKED for any reason: technical, non-technical
        - _Also shift to **BLOCKED** column on board and leave a comment for WHY the ticket is blocked, CC relevant team members in tag_
@@ -36,23 +36,23 @@
    - [ ] _At this time it's also a good idea to comment @ the stakeholder letting them know you will review this during next planning / grooming_
 - [ ] Add sprint label if applicable
 - [ ] Review and identify Key Performance Indicators (KPIs) from product documentation and/or wireframes
-    -  _Verify you have a clear and precise understanding of their KPIs/success metrics and subsequently recognize the products/apps/tools/components that need tracking in order to fulfill their KPI in order to create better efficiency for 
+    -  _Verify you have a clear and precise understanding of their KPIs/success metrics and subsequently recognize the products/apps/tools/components that need tracking in order to fulfill their KPI in order to create better efficiency for
       delivering a KPI dashboard in the future_
     - _If needed, setup a meeting to walkthrough the product/app/tool and answer any questions and/or document questions in GH ticket and tag @ relevant personnel to confirm any clarifying questions_
-    - _If no product documentation is provided and a meeting is not possible, ensure at the very least items/components/areas of the application that need tracking have been identified within the ticket_ 
+    - _If no product documentation is provided and a meeting is not possible, ensure at the very least items/components/areas of the application that need tracking have been identified within the ticket_
 
  ---------------------------------------------------
 
 ## 2. Data Layer Specification / Design
 #### 🔴 _AFTER above step 1 (review, cleanup, triage) steps have been executed..._
 
-### General 
+### General
 - Almost every ticket will more than likely need _some_ data layer specification provided, that said now with our [design system standardization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/ga-events-data-dictionaries.md#design-system-component-tracking), some will require much less custom `recordEvent` pushes than others based on the amount of customization requested
-- Nonethless, when a data layer specification is supplied, a comment should be left clearly calling out the specification for VFS developers to implement with a tag to the appropriate developer (reference [VFS roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit#gid=0) if unsure from ticket)
+- Nonethless, when a data layer specification is supplied, a comment should be left clearly calling out the specification for VFS developers to implement with a tag to the appropriate developer (reference [the VFS team list](https://www.va.gov/atlas/product_directory/team_members)
 - One of the first things that is good to identify is whether the page is a static page or not AND if it's available within staging currently -- this will help identify how much of the app will automatically be tracked, see sections below for each scenario
-- The following table should serve as a reference for documenting the data layer: 
+- The following table should serve as a reference for documenting the data layer:
 
-| Description & Screenshot of Interaction | Data Layer Event | Dev Notes 
+| Description & Screenshot of Interaction | Data Layer Event | Dev Notes
 | -- | -- | -- |
 _Click on X_ | `'event': 'event-goes-here'` | _Any notes the developer should be aware of or specific instructions go here_
 _Specific interaction goes here_ | `'event': 'event-name-goes-here',`<br>`'data-layer-variable-here': 'value here'` | _Specify an example value or description of how to dynamically populate if not obvious_
@@ -89,7 +89,7 @@ _Loading indicator displayed_ | `'event': 'loading-indicator-displayed'` | **AUT
 
 #### 🔴 If the product/app/tool IS already available within staging...
 - If the page is a Drupal page, it could have some event listeners already deployed but more than likely not and proceed with documenting the data layer
-- If the page is an app page, do a quick preview mode audit of the page to determine which components they're interested in are already tracked. Call these out as part of the data layer specification 
+- If the page is an app page, do a quick preview mode audit of the page to determine which components they're interested in are already tracked. Call these out as part of the data layer specification
     - If the components that need tracking are any of our "opt-in" components (i.e Form Controls, Progress Bar, and/or Loading Indicator), inform the developer within the developer notes this will just be a matter of setting the `disableAnalytics` flag to `false`
 - Otherwise, reference specific application specifications where appropriate above
 
@@ -113,9 +113,9 @@ _Loading indicator displayed_ | `'event': 'loading-indicator-displayed'` | **AUT
 
 #### Forms
 - When a new form is implemented, in order for the VFS team to be able to leverage the funnel visualization report within Google Analytics, a `Destination` goal must be implemented
-   - The destination goal should be implemented within the proper proper Google Analytics view that most closely fits their product, for example, if a new health care form, the goal should be implemented within the Health Care Modernized View in **BOTH** Production and Non-Production views. 
+   - The destination goal should be implemented within the proper proper Google Analytics view that most closely fits their product, for example, if a new health care form, the goal should be implemented within the Health Care Modernized View in **BOTH** Production and Non-Production views.
    - Ensure the goal is implemented using `RegEx` matching and does not restrict any query parameters that may be included within the URL, i.e `^/health-care/order-hearing-aid-batteries-and-accessories/order-form-2346/introduction.*
-   - Ensure the Goal ID and set ID are matched in both non-production and production 
+   - Ensure the Goal ID and set ID are matched in both non-production and production
 - If the team had additional customization implemented, ensure custom dimensions and the proper scope have been implemented in both non-production and production and have been made active according _(GTM should also reflect this)_
 
 
@@ -127,7 +127,7 @@ _Loading indicator displayed_ | `'event': 'loading-indicator-displayed'` | **AUT
 - If **a reporting request**, and there is an issue with high cardinality, consider creating an unsampled report
 - If there are query parameters that would create very high cardinality AND/OR **risk PII INGESTION** they may need to be included in `Excluded URL query parameters`
    - If the data is necessary and not PII, consider repurposing to custom dimension or hashing if PII
-   - Excluded Query parameters should be added to all of the following views in **BOTH** Non-Production and Production: 
+   - Excluded Query parameters should be added to all of the following views in **BOTH** Non-Production and Production:
          - [ ] `WBC - VA.gov Modernized View`
          - [ ] Relevant product views
          - [ ] `va.gov - Test View`
@@ -139,27 +139,27 @@ _Loading indicator displayed_ | `'event': 'loading-indicator-displayed'` | **AUT
 -----------------------------
 ## 4. QA Testing and Publishing
 
-### Process 
+### Process
 - ❗ #1 CARDINAL RULE: **NO QA, NO CLOSURE**
    - _Not to be taken lightly...absolutely **NO** ticket should be closed without QA, it is our duty and responsibility to test both the data layer and GTM tagging with every request_
-- Following your GTM implementation and implementation of the data layer, it is the original ticket owner's responsibility to: 
+- Following your GTM implementation and implementation of the data layer, it is the original ticket owner's responsibility to:
    - [ ] _Shift the ticket to `VSP - Revew QA` column_
    - [ ] _Unassign themselves and assign the appropriate team member with capacity for QA_
    - [ ] _Document within a GH comment tagging the team member and calling out any adhoc complex testing that needs to take place / writing out the test cases clearly_
    - [ ] _It is alright if the original ticket owner **QA's the data layer**, but another team member should **ALWAYS** QA the GTM tagging before closing_
 - At times the data layer QA and GTM QA may happen at very different times due to volume & capacity, but ideally both can be tackled at the same time for efficiency purposes
-- Some resemeblance of the following QA test template should be utilized and documented within **EVERY** ticket: 
+- Some resemeblance of the following QA test template should be utilized and documented within **EVERY** ticket:
 
-| Description & Screenshot of Interaction | Data Layer Screenshot | GTM Tag Screenshot | DL Test Status | GTM TEST Status | Test Notes 
+| Description & Screenshot of Interaction | Data Layer Screenshot | GTM Tag Screenshot | DL Test Status | GTM TEST Status | Test Notes
 | -- | -- | -- | -- | -- | -- |
 _Click on X with test user Y_ | _Screenshot IMG_ | _Screenshot IMG_ | ✔️ **PASS** | ✔️ **PASS** | _i.e Custom Dimension value 123 has correct dynamical value_
 _Specific interaction goes here_ | _Screenshot IMG_ | _Screenshot IMG_ | ⚠️ **DOES NOT PASS** | ✔️ **PASS** | _i.e Custom Dimension value 123 has correct dynamical value_
-_Loading indicator displayed_ | _Screenshot IMG_ | _Screenshot IMG_ | ✔️ **PASS** | ✔️ **PASS** | 
+_Loading indicator displayed_ | _Screenshot IMG_ | _Screenshot IMG_ | ✔️ **PASS** | ✔️ **PASS** |
 
 
 ### 💡 💭 🤔 Testing To-Dos, Tips, & Considerations
 - If a test case **DOES NOT PASS** next steps have clearly been identified and documented with the relevant team member and/or VFS developer to reach closusre
-- Ensure testing that requires specific test users for [specific test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts.md) are leveraged 
+- Ensure testing that requires specific test users for [specific test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts.md) are leveraged
     - _Ensure the test users used are documented for reuse_
     - _Ensure you have a clear understanding of what attributes a test user has, and what functoinality should / should not occur as a result -- this is often documented along with the user account_
     - _Be sure to ask product owners if there is specific test users for a given application that represent Veterans with specific user attributes that need to be considered_
@@ -167,13 +167,13 @@ _Loading indicator displayed_ | _Screenshot IMG_ | _Screenshot IMG_ | ✔️ **P
     - ⚠️ _REMEMBER: Just because you're testing 1 specific use case and that use case works as expected, that doesn't mean there aren't other areas of the site that are not affected and may not be working as expected_
 - Ensure sure your test case descriptions clearly articulate the test case for both techical and non-technical readers to understand
 - Ensure test cases are reflective of the full user journey / experience and KPIs the team is looking to capture
-- Ensure screenshots clearly identify all testable components, using multiple within a single grid row if necessary 
+- Ensure screenshots clearly identify all testable components, using multiple within a single grid row if necessary
 - Use boxes, arrows, and highlighters where necessary to showcase specific components that need attention
 - Ensure any custom dimensions / metrics are tested and clearly documented
 
 ### ☑️ CHECKLIST BEFORE CLOSING ANY TICKET
 - [ ] QA of both the data layer and tagging has been documented
-- [ ] Content grouping has been updated & tested at both the benefit hub and product level 
+- [ ] Content grouping has been updated & tested at both the benefit hub and product level
 - [ ] Any **NEW** data layer specification that has been added has been reflected in our event data dictionary for future reuse
      - [ ] _Open a PR to our event labels documentation for review with the relevant changes_
 - [ ] Custom dimensions have been made active and index numbers are accurate
@@ -181,4 +181,4 @@ _Loading indicator displayed_ | _Screenshot IMG_ | _Screenshot IMG_ | ✔️ **P
 - [ ] GTM workspace has the necessary GH ticket number and the description provides clear context as to what was implemented
 - [ ] Publish has pushed to all environments from the "bottom up" -- first dev, staging, and -> then production
 - [ ] If a design system component interaction, ensure the component library version and event source has been passed with the event
-- [ ] If any additional communication with VFS stakeholders and/or downstream communication is necessary -- it's been documented before closing 
+- [ ] If any additional communication with VFS stakeholders and/or downstream communication is necessary -- it's been documented before closing

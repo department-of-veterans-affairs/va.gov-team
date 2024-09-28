@@ -45,7 +45,8 @@
   - Explore how VAOS handles other appointment types (VVC, ATLAS, etc.)
   - Ask what logic we could use to filter out community care appointments where we have created a fake VistA appointment to indicate that the Vet has a communicate care appointment
 
-![image](https://user-images.githubusercontent.com/86678742/180441101-ed2e5cf7-c162-4002-be26-a4846e528150.png)
+![image](https://github.com/user-attachments/assets/799b738f-e8da-47ce-96a8-545e5f7220e6)
+
 
 
 

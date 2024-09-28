@@ -15,8 +15,7 @@
   - Existing functionality + planned design work 
 
 2. **Break out the work**
-- Label epics and stories in a way that helps plan and track the work:
-  - Add an associated [UX writing task issue](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/master/.github/ISSUE_TEMPLATE/cms-ux-writing.md) 
+- Label epics and stories in a way that helps plan and track the work
 
 3. **Get clear on the context**
 - A UX team member and others will start collaborating by getting clear on the following:

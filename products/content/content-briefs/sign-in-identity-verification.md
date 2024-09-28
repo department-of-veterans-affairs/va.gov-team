@@ -33,6 +33,7 @@ This brief will help your team create content for your product that aligns with 
 | **sign in/sign out** | We always use "sign in" and "sign out" to describe the process of authenticating on VA.gov and other VA digital tools. | We don't use "log in"/"log out" or "sign on." |  | In style guide Word list | 10.14.22 |
 | ***draft*** **verify your identity** | We use this to describe the process of proving your identity through a sign-in partner like Login.gov or ID.me. | Login.gov and ID.me use "verify your identity" to describe this process. We can explain this in Veteran content as "We'll ask you to verify your identity (prove that you're you)."| | Not yet in style guide | 5.25.23 |
 | ***draft*** **VA.gov and other VA online services** | We use this term to describe the group of websites, tools, and apps that Veterans can use to manage their VA benefits, health care, and information online. | We can usually omit this term and focus on the action: "Sign in to manage your VA benefits and health care online." But we sometimes need to refer to this directly. For example, "To sign in to VA.gov and other VA online services, you need to accept these terms of use." | | (Not yet ready for style guide) | 5.25.23 |
+| ***draft*** **account provider** | We use this term when we need to refer to Login.gov and ID.me as the providers of the secure accounts, as opposed to the accounts themselves. | We don't use "account partner" or any other variation. | | Not yet in style guide | 1.30.24 |
 
 ## Content considerations specific to sign in and identity verification
 

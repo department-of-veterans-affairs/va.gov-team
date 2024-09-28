@@ -1,6 +1,6 @@
-# My Health Medical Records Product Outline
+# MHV on VA.gov Medical Records Product Outline
 
-Last Updated: Dec 5, 2023
+Last Updated: September 9. 2024
 
 ### Communications
 
@@ -11,29 +11,42 @@ Last Updated: Dec 5, 2023
   
 |Name|Role|Email|
 |----|----|-----|
-|Lauren Alexanderson |OCTO Lead|lauren.alexanderson@va.gov|
-|Marci McGuire |OCTO Product Manager| marci.mcguire@va.gov |
+|Lauren Alexanderson |OCTO Portfolio Director|lauren.alexanderson@va.gov|
+|Marci McGuire |OCTO Product Lead| marci.mcguire@va.gov |
+|Kaitlin Fink |OCTO Design Lead| kaitlin.fink@va.gov |
+|Stephen Barrs | OCTO Engineering Lead | stephen.barrs@va.gov |
 |Bresha Lipscomb | VA Product Owner | bresha.lipscomb@va.gov |
 |Bryan Riley | ByLight Delivery Mgr | bryan.riley@va.gov |
-|Mikki Northuis|Content and IA | mikki.northuis@va.gov |
+|Lichelle Bain | ByLight Product Manager | lichelle.bain@va.gov |
+|Jeanette Bruno | Director, Change Management, OCTO | jeannette.bruno@va.gov |
+|Danielle Thierry| Content and IA | danielle.thierry@va.gov |
 |Martha Wilkes |OCTO Accessibility Strategist | martha.wilkes@va.gov |
-|Coulton Bunney |OCTO Design Lead| coulton.bunney@va.gov |
-|Kaitlin Fink |OCTO Design Lead| kaitlin.fink@va.gov |
 |Alexia Wunder | By Light Design Lead | alexia.wunder@va.gov |
+|Robert (Bobby) Bailey  | By Light UX Senior Accessibility and Operations | robert.bailey1@va.gov |
 |Mike Moyer | ByLight Lead Developer | michael.moyer@va.gov |
-|Alexia Wunder| ByLight Lead Designer | alexia.wunder@bylight.com |
 |Anne Costello| ByLight Lead Researcher | anne.costello@bylight.com |
 
 
 ## Overview
 Medical Records on VA.gov will provide Veterans with the same ability to view their VA health care data providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
 
-The development and release of functionality will occur in five 'phases' to align with the release strategy of all MHV products.  After gaining approval via the collaboration cycle, each 'domain' of Medical Records will enter into Phase 0 one at a time.  After all domains are in Phase 0, they will then deploy together to Phases 1-4.
-  --Vaccines
-  --Lab and Test Results, consisting of Chemistry/Hematology, Microbiology, Pathology results, Cardiology images and reports, Radiology images & Reports
-  --Care Summaries and Notes, consisting of VA Notes, Admission & Discharge Summaries, After Visit Summaries
-  --Health Conditions, Vitals, and Allergies
-  --Downloadable Reports (consolidation of all domains into a single report)
+The development and release of functionality will occur in five 'phases' to align with the release strategy of all MHV products.  After gaining approval via the collaboration cycle, each 'domain' of Medical Records will enter into Phase 0 one at a time.  After all domains are in Phase 0, they will then deploy together to 1% of users, and then to Phases 1-4.
+  - Allergies
+  - Vaccines
+  - Lab and Test Results, consisting of:
+    -  Chemistry/Hematology
+    -  Microbiology
+    -  Pathology results
+    -  Radiology images & Reports
+  - Care Summaries and Notes, consisting of:
+    - VA Notes
+    - Admission & Discharge Summaries
+    - After Visit Summaries
+  - Health Conditions
+  - Vitals
+  - Downloadable Reports (consolidation of all domains into a single report)
+    - Blue Button Report
+    - Continuity of Care Document (CCD), previously referred to as VA Health Summary
 
 ## Problem Statement
 Medical Records on MyHealtheVet was researched and developed 20 years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  Furthermore, some of the rationale and decisions that drove the original medical records design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate.
@@ -124,13 +137,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 Medications: Medications will be combined with RX refill to create one medications section that will include a view of all of your meds, plus a view where you can refill/renew va meds.
 
-Appointments: Appointments will be found in “appointments” section of My Health
+Appointments: Appointments and After Visit Summaries will be found in “Appointments” section of MHV on VA.gov 
 
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
   - This solution will be developed and released in multiple groupings.  Each grouping will have it's own Collaboration Cycle ticket.  The groupings are expected to be:
   --Vaccines
-  --Lab and Test Results, consisting of Chemistry/Hematology, Microbiology, Pathology results, Cardiology images and reports, Radiology images & Reports
-  --Care Summaries and Notes, consisting of VA Notes, Admission & Discharge Summaries, After Visit Summaries
+  --Lab and Test Results, consisting of Chemistry/Hematology, Microbiology, Pathology results, Radiology images & Reports
+  --Care Summaries and Notes, consisting of VA Notes, Admission & Discharge Summaries, After Visit Summaries (linked from Appointments)
   --Health Conditions, Vitals, and Allergies
   --Downloadable Reports
   
@@ -148,10 +161,13 @@ Appointments: Appointments will be found in “appointments” section of My Hea
 - [Link to Release Plan -- TBD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
-- *Phase 0 Launch Date*
+- *Phase 0 Launch Dates*
   - October 2023 - Allergies - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/allergies/rollout_checklist.md)
   - December 2023 - Vaccines - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/vaccines/rollout_checklist.md)
-  - December 2023 - Care Summaries/Notes
+  - February 2024 - Care Summaries/Notes - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/care-summaries-notes/rollout-checklist.md)
+  - XXX 2024 - Health Conditions - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/health-conditions/rollout_checklist.md)
+  - XXX 2024 - Vitals - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/vitals/rollout_checklist.md)
+  - XXX 2024 - Lab and Test Results - [Go No/Go Rollout Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/labs-and-test-results/rollout_checklist.md)
 
 ---
 

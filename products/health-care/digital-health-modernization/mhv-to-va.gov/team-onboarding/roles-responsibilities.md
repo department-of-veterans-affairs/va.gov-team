@@ -11,7 +11,7 @@ Everyone across these 4 areas has a clear understanding of their roles and respo
 
 - Maintains overall product roadmap (Marci McGuire specifically)
 - Conducts product-specific usability research
-- Uses agile development to design, build, and launch web and mobile products
+- Uses agile development to design, build, and launch web and mobile products (partners with content/accessbility/information architecture team for these disciplines)
 - Partners with VA partners, Veterans, and subject matter experts to ensure the product meets the intended goals
 - Monitors the performance of the product once launched and prioritizes continuous improvements and fixes
 - Creates, updates, and distributes product guides

@@ -1,0 +1,114 @@
+openapi: 3.0.1
+info:
+  title: travelclaimapi-dev-btsss
+  description: This is a description of the API
+  contact:
+    name: BTSSS Support
+    email: BTSSS_Support@va.gov
+  version: '1.0'
+servers:
+  - url: https://va-veis-dev-apim.veis.va.gov/api/btsss/travelclaim
+paths:
+  /api/v1/Claims:
+    get:
+      summary: Gets a list of claim summaries
+      description: |
+        Retrieves a list of claim summaries by user ID. The user ID is derived from a token established during the authorization
+        phase and does not need to be included with this request.
+        
+        Headers necessary for this request are:
+        - `Authorization: Bearer <VEIS_TOKEN>` (see XXXX for instructions on how to get the VEIS token)
+        - `BTSSS-Access-Token: <BTSSS_ACCESS_TOKEN>`
+        - `Ocp-Apim-Subscription-Key: <API_KEY>`
+      security:
+        - BearerAuth: []
+          apiKeyHeader: []
+      tags:
+        - Claims
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ClaimSummary'
+        '400':
+          description: Bad Request
+          # some schema for a bad request here
+        '500':
+          description: Unknown error occured. Contact BTSSS API team.
+          # some schema for an internal server error
+        '503':
+          description: This endpoint is temporarily unavailable.
+          # some schema for a service unavailable
+components:
+  schemas:
+    ClaimSummary:
+      type: object
+      required:
+        - id
+        - claimNumber
+        - claimStatus
+        - appointmentDate
+        - createdOn
+        - modifiedOn
+      properties:
+        id:
+          type: string
+          format: uuid
+          example: '6ea23179-e87c-44ae-a20a-f31fb2c782fb'
+        claimNumber:
+          type: string
+          nullable: false
+          example: 'TC0928098230498'
+          pattern: '^TC[0-9]{13}$'
+        claimName:
+          type: string
+          nullable: true
+        claimStatus:
+          type: string
+          enum:
+            - IN_PROCESS
+            - CLAIM_SUBMITTED
+            - IN_MANUAL_REVIEW
+            - DENIED
+            - APPEALED
+            - CLOSED_NO_PAYMENT
+            - PARTIAL_PAYMENT
+            - ON_HOLD
+            - APPROVED
+            - SUBMITTED
+            - FISCAL_RESCINDED
+            - PAID
+            - PAYMENT_CANCELED
+          example: 'IN_PROCESS'
+        appointmentDate:
+          type: string
+          format: date-time
+        appointmentName:
+          type: string
+          nullable: true
+        createdOn:
+          type: string
+          format: date-time
+        modifiedOn:
+          type: string
+          format: date-time
+      additionalProperties: false
+  securitySchemes:
+    apiKeyHeader:
+      type: apiKey
+      name: Ocp-Apim-Subscription-Key
+      in: header
+    apiKeyQuery:
+      type: apiKey
+      name: subscription-key
+      in: query
+    BearerAuth:
+      type: http
+      scheme: bearer
+security:
+  - apiKeyHeader: []
+  - apiKeyQuery: []

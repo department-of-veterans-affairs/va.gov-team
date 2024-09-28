@@ -1,0 +1,21 @@
+# Glossary
+
+- **Auto-auth functionality:** a feature of Single-Sign On available for user authentication. Users who log in on webpage A are automatically signed in on webpage B. Not a component of service authentication.
+- **Authentication:** a process that verifies user credentials, and confirms the identity of the person (or app) accessing vets-api resources.
+- **Authorization:** a specific part of the authentication process that gives users (or an app) access to specific vets-api resources and paths.
+- **Authentication flows:** specific authentication process used for Sign-in Service.
+    - **Proof Key for Code Exchange (PKCE) - cookie:** the most common authentication flow for an end user application. This flow authenticates through a frontend in a web browser, and tokens are stored in browser cookies. After introducing the concept once, you can refer to it as PKCE going forward.
+    - **Proof Key for Code Exchange (PKCE) - API:** an authentication flow for an end user application that authenticates through a frontend without a web browser. Tokens are stored on the client, like a mobile device. After introducing the concept once, you can refer to it as PKCE going forward.
+    - **Private Key JWT - cookie:** an authentication flow that authenticates with a secure backend on a web browser using a public key. Tokens are stored in browser cookies.
+    - **Private key JWT - API:** an authentication flow that authenticates with a secure backend without a web browser using a public key. Tokens are stored on the client, like a mobile device.
+    - **Service account:** an authentication flow that authenticates through a secure backend with a public certificate. In this case, apps communicate directly via API without any end user interaction.
+- **Application:** the VA application or service that’s integrating with Sign-in Service.
+- **Client configuration:** Sign in Service [Cookie PKCE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/cookie_oauth.md), [API PKCE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/api_oauth.md), and [Private Key JWT](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows) clients are managed through a ClientConfig class within vets-api. In order to perform an end-user authentication with SiS a valid ClientConfig must be present.
+- **Product owner:** refers to the VA team point of contact who will approve the project.
+- **Service configuration:** a [ServiceAccountConfig](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/service_account.md) must be registered with the appropriate SiS environment in order to receive Service Account access_tokens. This database object provides SiS with the client's public certificates and scoped permissions used to authenticate requests and provision scoped access tokens.
+- **Sign-in Service (SiS):** a client service that authenticates login credentials, and grants access to vets-api resources. Abbreviated as “SiS” and always capitalized when written out.
+- **System authentication:** a process where an application or system confirms its identity to log in using a token-generating service. Also referred to as a service account.
+- **Team:** users from a specific VA team added to manage a team’s description or integration.
+- **Unified Sign-in Page (USiP):** a web-based application on VA.gov used to authenticate and redirect to external applications. If you define the acronym first, you can refer to this as USiP going forward.
+- **User authentication:** a process where an end user confirms their identity while logging in with a username and password.
+- **UUID:** short for Universally Unique IDentifier, a 36-character alphanumeric string that can be used to identify information.

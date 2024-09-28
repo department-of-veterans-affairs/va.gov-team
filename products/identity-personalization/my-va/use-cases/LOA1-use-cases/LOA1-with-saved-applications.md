@@ -15,8 +15,8 @@ For users who sign in and have not yet verified their identity, they will see a 
 - This card is always displayed on the left hand side of the page on desktop when there is only one card to show.
 - If a user has multiple benefit application drafts saved, they will see a card for each of them in this section and they are displayed side by side on desktop with two max per row.
 - Uses the [card component](https://design.va.gov/components/card) from the VA design system.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/padQ1OG)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/QbekmrG)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A239&mode=design&t=WghpiwwCzYuhYyHN-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A905&mode=design&t=WghpiwwCzYuhYyHN-1)
 
 ## How to reproduce
 1. Log into staging with any LOA1 user. 

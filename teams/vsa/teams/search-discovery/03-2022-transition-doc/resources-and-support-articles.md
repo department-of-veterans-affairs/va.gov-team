@@ -29,10 +29,10 @@
 
 - [UI Consistency for R&S Article Pages - Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/ui-consistency-initiative-brief.md)
 
-- [Preparing Resources and Support article pages for outside submissions - Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/article-pages/initiative-brief.md)
+- [Preparing Resources and Support article pages for outside submissions - Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2022-01-outside-submissions/initiative-brief.md)
 
 
--  [Audit of all R&S article pages - Feb 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/article-pages/tags-topics-ia-audit.md)
+-  [Audit of all R&S article pages - Feb 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2022-01-outside-submissions/tags-topics-ia-audit.md)
 
 -  [Roadmapping Takeaways - Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32746#issuecomment-970466533) ([Mural board](https://app.mural.co/t/vagov6717/m/vagov6717/1636744654505/e4733a01687242944f0904f3544ee73cc0f47435?sender=u1777baa622793bb339be4705))
 
@@ -46,7 +46,7 @@ This table includes links to the individual research studies.
 | IRIS | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/contact-center-interviews-1-research-plan.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/contact-center-interview-1-conversation-guide.md) | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/iris/contact-center-research-findings-2020.pdf) | Sept 2020 |
 
 
-- [Discovery Document: Resources and Support Article Pages - Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/article-pages/discovery.md)
+- [Discovery Document: Resources and Support Article Pages - Nov 2021](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2022-01-outside-submissions/discovery.md)
 
 
 

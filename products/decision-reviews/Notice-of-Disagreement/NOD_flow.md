@@ -2,26 +2,31 @@
 flowchart TB
     Title(Notice of Disagreement flow)
 
-    A[Veteran Information] --> B[Homeless]
-    B --> C[Contact Info]
+    A[Veteran Information] --> homeless[Homeless]
+    homeless --> ContactInfo[Contact Info]
 
-    C -.-> D[Update address] -.-> C
-    C -.-> E[Update phone] -.-> C
-    C -.-> F[Update email] -.-> C
+    ContactInfo -.-> UpdateAddress[Update address] --> ContactInfo
+    ContactInfo -.-> UpdatePhone[Update phone] --> ContactInfo
+    ContactInfo -.-> UpdateEmail[Update email] --> ContactInfo
 
-    C --> G[Filing deadline]
-    G --> H[Contestable Issues]
+    ContactInfo --> Deadlines[Filing deadline]
+    Deadlines --> RequestExtension{Request Extension}
 
-    H -.-> I[Add or edit issue] -.-> H
+    RequestExtension -. No .-> DenialVAHC[Denial of VA health care benefits]
+    RequestExtension -. Yes .-> ReasonForExtension[Reason for Extension]
+    ReasonForExtension --> DenialVAHC
+    DenialVAHC -- Yes or No --> ContestableIssues[Contestable Issues]
 
-    H --> J[Area of Disagreement followup]
-    J -. Each \n selected \n issue .-> J
-    J --> K[Issue Summary] -. Go back and add more .-> H
-    K --> L{Board Review option}
-    L -- Direct review --> M[Direct Review] --> Q[Review & submit]
-    L -- Submit evidence --> N{Upload now}
-    N -- No --> Q
-    N -- Yes --> O[Upload] --> Q
-    L -- Request hearing --> P[Hearing type] --> Q
-    Q --> R[Confirmation page]
+    ContestableIssues -.-> AddIssue[Add or edit issue] --> ContestableIssues
+
+    ContestableIssues --> AreaOfDisagreement[Area of Disagreement followup]
+    AreaOfDisagreement -. Each \n selected \n issue .-> AreaOfDisagreement
+    AreaOfDisagreement --> IssueSummary[Issue Summary] -. Go back and add more .-> ContestableIssues
+    IssueSummary --> BoardReviewOption{Board Review option}
+    BoardReviewOption -. Direct review .-> DirectReview[Direct Review] --> ReviewAndSubmit[Review & submit]
+    BoardReviewOption -. Submit evidence .-> UploadNow{Upload now}
+    UploadNow -. No .-> ReviewAndSubmit
+    UploadNow -. Yes .-> Upload[Upload] --> ReviewAndSubmit
+    BoardReviewOption -. Request hearing .-> HearingType[Hearing type] --> ReviewAndSubmit
+    ReviewAndSubmit --> Confirmation[Confirmation page]
 ```

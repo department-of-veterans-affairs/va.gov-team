@@ -3,12 +3,11 @@
 ## Communications
 - Team GitHub Label: my-health-CTO-HEALTH-TEAM 
 - Product GitHub Label: my-health-INTEGRATION
-- Slack channel: [#mhv-on-vagov-portal-home](https://dsva.slack.com/archives/C04GDQSHD1R)
+- Slack channel: [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
 - Product POCs: 
   - Lauren Alexanderson - OCTO Sponsor
-  - Leila Rassi - OCTO Product Owner
-  - Patrick Bateman - OCTO Technology Expert
-  - Coulton Bunney - OCTO UX Lead
+  - Patrick Bateman - OCTO Product Owner
+  - Kaitlin Fink - OCTO UX Lead
  
 - Stakeholders: 
    - Theresa Hancock
@@ -90,13 +89,17 @@ On April 26, 2023, the rollout moved to Phase 2, and access was expanded to 10% 
 ## Team
 
 - OCTO PO: Patrick Bateman
-- Product Manager: Tom Anderson (Agile Six)
+- Delivery Manager: Lynne Johnson (Agile Six)
+- Product Manager: Wes Rowe (Agile Six)
 - UX Design: Jonathan Nelson (Ad Hoc)
 - UX Design: Florence McCafferty (Agile Six)
-- Research: Cara Frissell (Ad Hoc)
+- Research: Kat Brinkley (Agile Six)
 - Technical Architect: Carlos Felix (Agile Six)
 - Information Architect: Sara Sterkenburg (Ad Hoc)
-- Engineer: Eric Voshall (Ad Hoc)
+- Engineer: Daniel Cloud (Ad Hoc)
+- Engineer: Jim Zaccardo (Ad Hoc)
+- Engineer: Richard Davis (Ad Hoc)
+- QA Engineer: Allan To (Ad Hoc)
    
 ## Screenshots
 

@@ -10,7 +10,7 @@ The Sprint 0 meeting is a time to do the following:
 * Review product briefs that we can pull from in a future quarter
 * Allow time with POs to ask questions or seek feedback on Sprint 0s in progress
 
-[View Sprint 0 template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/sprint-0/product-brief-template.md) \
+[View Sprint 0 template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/sprint-0/product-brief-template.md)
 
 
 ## Future Sprint 0s (not yet ready)
@@ -117,7 +117,7 @@ The Sprint 0 meeting is a time to do the following:
 ## 8/3/23
 
 * [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)
-* [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta)
+* [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%20Track%20referring%20URLs.md) (Greta)
 
 ## 7/20/23
 

@@ -12,6 +12,11 @@
 ## Launched Form Notifications 
 |Form Number  |Form Name |User State |Email Used |Launch Date | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| 26-4555 | Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant | Authenticated | Form | TBD |
+| 20-10206 | Freedom of Information Act (FOIA) or Privacy Act (PA) Request | Authenticated | Form | August 2024 |
+| 20-10207 | Request priority processing for an existing claim | Authenticated | ICN (Profile) | June 2024 |
+| 21-0966 | Submit an intent to file | Authenticated | ICN (Profile) | May 2024 |
+| 40-0247 | Request a Presidential Memorial Certificate | Unauthenticated | Form | March 2024 | 
 | 21-0845 | Authorize VA to release your information to a third party source | Authenticated and Unauthenticated | Form | November 2023 | 
 | 21-0972 | Sign VA claim forms as an alternate signer | Authenticated and Unauthenticated | Form | October 2023 | 
 | 22-10203 | Apply for the Rogers STEM Scholarship | Authenticated and Unauthenticated | Form | October 2023 | 
@@ -27,7 +32,6 @@
 | 21P-527EZ  | Application for Veterans Pension  |Authenticated and Unauthenticated | Form | January 2023  |
 | 40-10007  | Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery  | Authenticated and Unauthenticated | Form | December 2022 |
 | 21-674  | Request for Approval of School Attendance  | Authenticated | ICN (Profile) | December 2022  |
-| 10-10EZ  | Instructions and Enrollment Application for Health Benefits  | Authenticated | ICN (Profile) | October 2022  |
 | 28-8832  | Education/Vocational Counseling Application (Chapter 36)  | Authenticated and Unauthenticated | If profile email is not present, then form email is used | October 2022  |
 | 28-1900  | Application for Veteran Readiness and Employment for Claimants with Service-Connected Disabilities (Chapter 31)  | Authenticated | ICN (Profile) | July 2022  |
 | 21P-530  | Application for Burial Benefits  | Authenticated and Unauthenticated | Form | July 2022  |

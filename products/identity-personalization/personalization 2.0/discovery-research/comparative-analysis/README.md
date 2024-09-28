@@ -55,70 +55,70 @@ An effective dashboard has a clear purpose. For data-driven sites, a dashboard m
 - Additionally, Amazon's logged in navigations changes significantly from the logged in nav. In both, the primary menus and actions in the right-hand side of the navigation stay the same, which help ground the user. However, the links under the search bar are entirely different between the logged out and logged in experiences.
 
 *Logged out homepage*
-![Amazon logged out homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Amazon%20nav%20logged%20out.png)
+![Amazon logged out homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Amazon%20nav%20logged%20out.png)
 
 *Logged in homepage*
-![Amazon logged in homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Amazon%20nav%20logged%20in.png)
+![Amazon logged in homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Amazon%20nav%20logged%20in.png)
 
 - Once logged in, there is a robust megamenu that allows users to manage their account. Though the list of links are long, they are organized in a navigable way.
 
-![Amazon account megamenu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Amazon%20Account%20Megamenu.png)
+![Amazon account megamenu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Amazon%20Account%20Megamenu.png)
 
 - If you go to the Account page, you are taken to a dashboard that is completely action oriented. The primary actions are set  apart as tile-like buttons at the top of the page. Additional actions are grouped into categories and shown in tiles below the primary actions.
 - Note that there is no "profile" or singular "settings." All of this falls into the category of managing your account.
 - Notice that information about each category is not bubbled up on this dashboard. The primary purpose of this page is to route people to where they need to go and not to serve as a singular destination.
 
-![Amazon account dashboard](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Amazon%20account%20page.png)
+![Amazon account dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Amazon%20account%20page.png)
 
 ### Blue Cross Blue Shield — FEP Blue
 
 - BCBS has a separate logged out homepage and website for the federal health insurance plan and a separate, personalized portal once someone logs in. When someone is logged in, they can click the fepblue.org link in the navigation to get back to the unauthenticated version of the website.
 
 *Logged out homepage*
-![BCBS logged out homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20Logged%20out%20homepage.png)
+![BCBS logged out homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20Logged%20out%20homepage.png)
 
 *Logged in homepage*
-![BCBS logged in homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20Logged%20in%20homepage.png)
+![BCBS logged in homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20Logged%20in%20homepage.png)
 
 - The authenticated BCBS portal has an account menu in the upper right of the navigation that is separate from the other controls found on the dashboard.
 
-![BCBS account menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20Account%20menu.png)
+![BCBS account menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20Account%20menu.png)
 
 - Navigations are shown under the bell icon. There is no notification landing page where you can see historical notifications, and it is unclear from the frontend how long notifications stick around. 
 
-![BCBS notification menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20notifications.png)
+![BCBS notification menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20notifications.png)
 
 - There is, however, a super robust notification and messaging preference center which organizes its many settings via a left nav.
 
-![BCBS notification preferences](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20notification%20center.png)
+![BCBS notification preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20notification%20center.png)
 
 - The dashboard is organized by common actions --> plan and care overview info --> suggested content. With the exception of the super high-level plan and care overview, the dashboard links to pages with more information instead of surfacing prescriptions, claims, or notification updates right on the page.
 
-![BCBS dashboard actions and overview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20dashboard%20actions%20and%20overview.png)
+![BCBS dashboard actions and overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS%20dashboard%20actions%20and%20overview.png)
 
-![BCBS dashboard "suggested for you"](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/BCBS%20dashboard%20%22suggested%20for%20you%22.png)
+![BCBS dashboard "suggested for you"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/BCBS-dashboard-suggested-for-you.png)
 
 
 ### Github
 
 - Github has a personalized menu in the navigation that remains regardless of what repo you're in. This menu takes you to your profile and settings.
 
-![Github account menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Github%20account%20menu.png)
+![Github account menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Github%20account%20menu.png)
 
 - The profile page is very dashboard-like. I didn't find this page terribly useful, but I imagine it's much more robust and useful for developers who are following repos and commiting code on Github.
 
-![Github profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Github%20profile.png)
+![Github profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Github%20profile.png)
 
 - Github's Settings section is great. There are a lot of setting categories, but they are clearly organized in a left nav. Note that Settings encompass Account, Notifications, and any other preferences. We may want to use the word "settings" instead of prepending it with "account" to allow it to cover more information.
 
-![Github settings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Github%20settings.png)
+![Github settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Github%20settings.png)
 
 ### Google
 
 - Google keeps a menu icon and an account icon in the upper right corner of all of its web properties, regardless of whether you are on on GMail, Google Docs, Google Search, etc., so people always have easy access to all of their tools and to their login/logout/acocunt information.
 
-![Google tools menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Google%20tools%20menu.png)
-![Google account menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Google%20account%20menu.png)
+![Google tools menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Google%20tools%20menu.png)
+![Google account menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Google%20account%20menu.png)
 
 ### Microsoft
 
@@ -126,34 +126,34 @@ An effective dashboard has a clear purpose. For data-driven sites, a dashboard m
 - This dashboard organizes to-dos by tiles and utilizes iconography, making this menu easy to scan and fun to look at. We should remember that veterans are action oriented and the main priority is to route them effectively.
 - I also like the blue profile block at the top of the page, which balances personal information and additional actions someone might want to take.
 
-![Microsoft dashboard](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/Microsoft%20dashboard.png)
+![Microsoft dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/Microsoft%20dashboard.png)
 
 ### My USCIS
 
 - After login, you are directed to the logged in account homepage, but you can still get to the logged out homepage by clicking the logo. Honestly, this didn't feel that intuitive to me **because** there was nothing in the main nav to indicate that the logged out homepage persisted in any way. Also, there was nothing to indicate the logged in account page was a different page. This could have been clarified if there was a highlighted **Your Account** link in the main navigation in the logged in state.
 
 *Logged out homepage*
-![My USCIS logged out homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/My%20USCIS%20logged%20out%20hompage.png)
+![My USCIS logged out homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/My%20USCIS%20logged%20out%20hompage.png)
 
 *Logged in homepage*
-![My USCIS logged in homepage](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/My%20USCIS%20logged%20in%20hompage.png)
+![My USCIS logged in homepage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/My%20USCIS%20logged%20in%20hompage.png)
 
 - Also, there are some confusing things that happen with the navigation menus:
   - In the logged out state, there is an Explore menu. This goes away in the logged in version, even though this resource is still accessible via the Resources menu in the logged in state. Given this, the Explore menu could have persisted through to the logged in state.
   
-![My USCIS logged out Explore menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/My%20USCIS%20logged%20out%20Explore%20menu.png)
+![My USCIS logged out Explore menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/My%20USCIS%20logged%20out%20Explore%20menu.png)
   
   - In both logged in and logged out states, there is a Resources menu, but it is styled differently in each version. Also, some of the links are different between versions. This would probably be less confusing if these menus were styled the same way in each version so differences *and* similiarities in links or sections were more apparent.
 
 *Logged out Resources menu*
-![My USCIS logged out Resources menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/My%20USCIS%20logged%20out%20Resources%20menu.png)
+![My USCIS logged out Resources menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/My%20USCIS%20logged%20out%20Resources%20menu.png)
 
 *Logged in Resources menu*
-![My USCIS logged in Resources menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/My%20USCIS%20logged%20in%20Resources%20menu.png)  
+![My USCIS logged in Resources menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/My%20USCIS%20logged%20in%20Resources%20menu.png)  
   
   
 - Pros about the My Account menu:
   - Has a generic "Settings" page, which is currently sparse but could grow over time without having to change the nomenclature since "Settings" isn't overly specific.
   - Has the main actions (I assume) people want to take.
 
-![My USCIS My Account menu](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis/Screenshots/My%20USCIS%20logged%20in%20My%20Account%20menu.png)  
+![My USCIS My Account menu](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/comparative-analysis/Screenshots/My%20USCIS%20logged%20in%20My%20Account%20menu.png)  

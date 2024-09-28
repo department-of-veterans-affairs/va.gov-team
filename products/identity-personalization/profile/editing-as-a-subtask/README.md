@@ -1,7 +1,7 @@
 
 # Feature Overview: Editing as a Sub-Task 
 
-**Last updated:** 9/1/23 (added links to Sketch)
+**Last updated:** February 15, 2024 (removing Sketch links)
 
 ## Table of Contents 
 
@@ -25,7 +25,7 @@ As an example, if a user is missing a mobile phone number, when they navigate to
 
 ### Outcome Summary
 
-During the [useability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. The reengineered workflow reduces the cognitive load for updating data points that live elsewhere in the profile.
+During the [usability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. The reengineered workflow reduces the cognitive load for updating data points that live elsewhere in the profile.
 
 **Related/Associated product(s)**
 
@@ -62,18 +62,10 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 
 
-
-
-
 ## Analytics / Measuring Success
 
 
-## Feature Overview
- |Where|Status|
- |---|:-:|
- |Notification Settings Alert / CTA link| Pre Launch| 
 
-### What to know about this feature
 
 
 ## Future places to use this feature 
@@ -88,22 +80,19 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 
 
 
-### How to Access and Test
-
-
 ## Frontend
 
 
 
 ## Design & UX
 
-### Sketch files
-- [Mobile](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/06F02913-A0E1-4801-9D24-86E8DC71BB17/canvas)
-- [Desktop](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d)
+### Design files
+- [Mobile](https://www.figma.com/file/zRlluj4zQgu4yNykyp3LjS/Profile---Editing-sub-task?type=design&node-id=0%3A1&mode=design&t=05wMDw7LrG2bujmU-1)
+- [Desktop](https://www.figma.com/file/zRlluj4zQgu4yNykyp3LjS/Profile---Editing-sub-task?type=design&node-id=0%3A166&mode=design&t=BPTb5FsUfCHFyYT5-1)
 
 ### Flow diagrams
 - This user flow can be kicked off from anywhere on VA.gov
-- A visualization of the flow, once kicked off, will live on the [mobile page](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/06F02913-A0E1-4801-9D24-86E8DC71BB17/canvas) of our Sketch files (not yet created as of 9/1/23)
+- A visualization of the flow is on the Mobile page of the design files linked above.
 
-
-
+## Use cases 
+Use case documentation will be placed alongside the feature this is supporting, eg. [notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/partial-or-missing-contact-info.md) 

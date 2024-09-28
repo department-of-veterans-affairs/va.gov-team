@@ -1,6 +1,6 @@
 # Initiative outline: Updates to My VA Health Care in support of MHV on VA.gov Migration
 
-**Last updated:** November 28, 2023 - success metrics updated MHV link + cerner updates
+**Last updated:** December 19, 2023 - added a note to MHV link project
 
 ### Communications
 
@@ -51,6 +51,8 @@ In support of the MHV on VA.gov migration, we'll need to make updates to the Hea
 <details>  <summary>Project Details</summary>
  
 ### Overview
+**Note: as of December 8, 2023, we were asked to put this work on hold until all MHV health tools were available to all users on VA.gov**
+
 The health wayfinding study from earlier in 2023 showed that some folks had a hard time finding/navigating to the new MHV landing page from My VA, and therefore had a hard time finding additional health information not shown on My VA.
 
 We'll be adding some form of a "view all" link (content and mechanism tbd) to the Health Care section on My VA which will navigate users to the new MHV landing page on va.gov. We'll also be exploring this concept of "view all/more" acroess the other benefits on My VA to make sure we are making the experience as consistent as possible. 

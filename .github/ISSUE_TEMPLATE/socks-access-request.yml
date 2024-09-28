@@ -7,19 +7,17 @@ body:
     attributes:
       value: |
         :wave: **_Instructions_**
-        1. Before being granted access, you will need to either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
-        2. Change the **Title** to include your name
-        3. Add the label used by your team (eg: `BAH-526`)
-        4. Attach a screenshot of your E-QIP Transmittal Confirmation. If you have not started your E-QIP process, do NOT put in a request.
-        5. Do not remove `operations` label or the `ops-access-request` label; this will notify the VSP Operations team of your request
-        6. When the issue is closed you will be notified and can continue with on-boarding setup
-        
-        This issue can also be used to update existing access, including updating ssh-keys or changing the access type group you are in. 
+        1. Before being granted access, you need to either be listed in [Atlas](https://www.va.gov/atlas/product_directory/team_members) or the [Platform roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster). If your name is not there, start the [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) (specifically, the instructions for new VFS team members). If you're on a Lighthouse team, you might not be in Atlas yet. Check the box below to indicate you're on a LH team.
+        2. Change the **Title** to include your name.
+        3. Do not remove any labels, however you may add your team label for tracking (eg: `BAH-526`).
+        4. Attach a screenshot of your e-App (aka E-QIP) Transmittal Confirmation. If you have not started your a-App process, do NOT put in a request.
+        5. When the issue is closed as completed, you can continue with on-boarding setup.
+
+        This issue can also be used to update existing access, including updating ssh-keys or changing the access type group you are in. Please link any prior SOCKS access request tickets.
   - type: input
     id: requestor-name
     attributes:
       label: Your Name
-      description: Please provide your name
       placeholder: e.g. Jane Doe
     validations:
       required: true
@@ -29,6 +27,14 @@ body:
       label: Your Email
       description: Please provide your work email
       placeholder: e.g. jane.doe@company.com
+    validations:
+      required: true
+  - type: input
+    id: github_handle
+    attributes:
+      label: Your GitHub Handle
+      description: Please provide your work GitHub username
+      placeholder: e.g. janedoe
     validations:
       required: true
   - type: input
@@ -75,13 +81,27 @@ body:
       placeholder: ssh-rsa  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
     validations:
       required: true
+  - type: checkboxes
+    id: passphraseRequirement
+    attributes:
+      label: SSH Key Passphrase
+      description: See [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases) for how to add a passphrase to an SSH key.
+      options:
+      - label: Please check this box to confirm that your SSH key has a strong passphrase.
+        required: true
   - type: textarea
     attributes:
-      label: E-QIP Transmittal Confirmation
-      description: Attach a screenshot of your confirmation by clicking this area to highlight and dragging the file in.
+      label: e-App (aka E-QIP) Transmittal Confirmation
+      description: Click the area below to attach a screenshot of your confirmation. Double check there is no sensitive information in the screenshot.
       placeholder: Drag your transmittal confirmation screenshot here
     validations:
       required: true
+  - type: checkboxes
+    id: lighthouse
+    attributes:
+      label: Lighthouse?
+      options:
+      - label: I'm on a Lighthouse team
   - type: markdown
     attributes:
       value: |
@@ -91,11 +111,8 @@ body:
         :x: Don't fill out anything below here :x:
   - type: checkboxes
     attributes:
-      label: User must exist in a roster before SOCKS access can be granted
+      label: Platform DevOps Support - please verify the following items before merging the SOCKS PR
       description: Don't fill this part out, please
       options:
-      - label: "Search for user on the VFS Team Roster: https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665"
-      - label: "Or search for user on the Platform Team Roster: https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster"
-      - label: "If user is on a VFS team but not in the VFS Team Roster, add the 'NOT YET' label and instruct them to start the Platform orientation process https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html"
-      - label: "If a user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added."
-      - label: "Comment in this issue saying which roster the user is listed in."
+      - label: "Work email address is listed"
+      - label: "Valid e-QIP/e-App transmittal notice (see what qualifies as valid [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/1792114735/Onboard+New+Team+Members+Granting+Access+to+Internal+Tools#What-Constitutes-a-Valid-e-qip-(aka-e-App)-Transmittal?))"

@@ -33,6 +33,7 @@ It may warrant an FAQ--or a different solution. If the question is promotional o
 
 - Aim to phrase a Q&A the way that people ask the question in search or in calls to contact centers. 
 - Whenever possible, create each Q&A to stand on its own in any context. This will help to make sure that the Q&A can be used not just on an FAQ page or in Resources and Support, but at any point where a person might have this question.
+- Be sure the answer directly answers the question and gets to the main point as quickly as possible. If you frame the question up in a way that leads to a "Yes," "No," or "It depends on..." answer, be sure to start the answer with "Yes," No," or "It depends on..." and then go into further details as needed.
 
 ## Multiple FAQ page
 - Always include a clear, relevant, SEO-optimized H1 that tells people exactly what the FAQs on the page will cover. Make sure all questions on the page map back to the title topic.

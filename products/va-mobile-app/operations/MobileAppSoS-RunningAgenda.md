@@ -3,17 +3,198 @@
 
 ## Meeting Purpose:
 
-  * Highlight the quarterly plan and review progress
-  * Review changes in risks, dependencies, assumptions, resources, staffing or priority for the current / future sprints
-  * Review insights from ongoing discovery or delivery work in the for the current / future sprints
-  * Triage unplanned work
-  * POs reconfirm project priorities
-  * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
+  * Review status of current work
+  * Discuss changes in risks, dependencies, assumptions, resources, staffing or priority for the current / future sprints
+  * Review insights from ongoing discovery or delivery work for the current / future sprints
+
+  * POs confirm Epic priorities
+     * Triage new Experience Team work
+   
+  * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+     * Call out any Closed Epics
+     * Call out unplanned work
   
+### [OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/MobileTeamOKRs.md)
+
+## 10/16/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Q4 Plan Readout
+
+## 10/2/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Q4 Planning milestones
+  * [Quarterly Planning Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/planning/quarterly%20planning/MobileQuarterlyPlanningProcess.md)
+  * Readout in SoS Oct. 16
+* Home screen 60 day data readout
+
+## 9/18/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Ask - think through prioritization process (PM group)
+  * User Impact, Business Impact, LOE
+  * Want to have a clearer way of describing priority of Epics
+* Ask - User Metrics for Shared Services (Don, Ryan, Matt, Kelly)
+  * how many current users do we have? by user, I mean # of people, # of teams, or however else we define user
+  * on average, how many "leads" do we get every month (or whichever time frequency we use to track)? by lead, I mean new teams filling out an intake form
+  * approximate % of leads who become an actual user?
+*  Rachel's 'Product Launch'
+  *  Likely out Nov. 15, returning end of Jan/early Feb (Feb 10)
+* Upcoming VA events:
+  * DE Portfolio monthly mtg w/ Charles 
+    * Veteran Facing - Oct 1
+    * Shared Services - Nov 1
+  * week of Nov 11 - OCTO off-site
 
 
 ## Agenda
+## 9/4/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* **Home Screen 30 Day Metrics Review**
 
+
+## 8/21/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* OKR formats - review OKR page and discuss update timing
+  * Bug Reduction OKRs (Therese)
+* Disaster recovery / home screen API call usage
+  * upstream teams feeling stress of additional home screen traffic to their APIs
+  * most teams have been able to scale except the Community Care appts which caused failures in other tools
+  * Lesson Learned - think about this for future feature development and be sure to work with upstream services ahead of launching to get them ready
+  * We are looking at adding the functionality to turn off individual home screen cards to reduce load to those services [ticket](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/9355)
+     * Priority of this change = medium to low
+  * Monthly Payment API switch over - do we know if the new API would perform better? - Stacy to check with Jayson to answer
+     * Need to ensure the data is the same - work with owners of new API to confirm
+     * We should test to confirm as well
+*  How to learn about changes from other teams.
+   *  We don't currently get timely notification of upstream API changes
+   *  We also didn't communicate to upstream API teams about added traffic either, so this is a wide-spread problem
+   *  OCTO Portfolios are aware of this communication gap and having active conversations
+   *  In the meantime, we should keep this gap in mind and do our best
+   * ex.2. Switching API call from EVSS to Lighthouse and what is the cost of doing so - monthly payment call on homepage
+   * ex.1. VA.gov added error messaging for Z status for Veteran status but did not inform us, despite talking to us about the bug.
+* Mobile - Web Collaboration session last Friday
+   * It was great, you can watch the recording if you couldn't join
+   * Had a lot more communication with experience teams since then
+* What are the next steps for the Veteran Status work?
+   * Leads discussing Thursday 8/22 for how this will work*
+      * *There is nothing to panic about
+      * Will have to be strict with our prioritization decisions
+
+## 8/7/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* OKR formats - review OKR page and discuss update timing
+  * Bug Reduction OKRs (Therese)
+* How to learn about changes from other teams. For example, VA.gov added error messaging for Z status for Veteran status but did not inform us, despite talking to us about the bug.  
+
+## 7/10/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+  * Health & Benefits update
+     * Removed Covid-19 links 
+     * Appointments work going out this relese
+         * Call Center and App store where not updated - believe to be minimal change 
+            * Alayna to discuss with the HB team changes
+        * Rachel said moving forward Call Center and App Store needs to be updated (if applicable), if not features should not be released   
+           * Alayna recommended to work with Ameet as he will / has worked on these items for Homescreen Personalization
+           * PO discussion on how to handle this with external teams - Don mentioned it would be the centralized Mobile team which is this team right now 
+    * No other updates from PM 
+* **Discussion Topics**
+ * Lauren - Marketing Materials   
+     * Rachael - Mobile Ad Hoc not responsible for Marketing Materials (images, videos, etc)
+     * Michelle is the key contact for VA Marketing which Mobile has worked with in the past with data / reporting 
+ * Rachel - H&B meeting with Health Team Web
+     *  What is the level of engagement / collaboration & visibility into how Mobile work
+        *   Alayna - more used for subject matter expertise discussions where Mobile can ask questions and review what Mobile is proceeding to do
+         *  H&B team has given presentation on the changes Mobile would like to do and why 
+ * Ameet - How would the Mobile POs and other relevant POs want to see Holly's presentation on HSP
+     * Confirmed this is different level of detail than the write up that is already available in Githuhb
+     * Holly will be presenting next Monday at the VA Design Meeting
+        * Ryan confirmed this is the big design meeting with contractors that VA has
+     * Team agreed to demo this on 7/30 - which is when the app will be released
+        * Targeting 30 minutes instead of the whole thing so others can demo too 
+ * Rachel - PMs should prepare to engage with VA POs on new Mobile request and roadmap items in the coming weeks
+     * Rachel told PMs not to have direct messaging or Slack threads discussions
+         * Require them to create tickets with all the details 
+         * POs agreed we need to push the responsibility back on the VA POs and not take it on ourselves  
+     * Matt mentioned to Rachel that Adam was working on a form of sorts - would be great to get that done sooner vs later this week 
+        * Adam is working on an existing [Feature Request](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=timwright12%2CHallm13&labels=feature-request&projects=&template=feature-request.yml&title=Feature+Request%3A+%5Bname+of+feature%5D) form and planning to update it to have submittors fill out more information given its currently very vague and general 
+        * Adam to follow-up when changes are made by EOW 
+
+
+
+## 6/26/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Discussion Topics**
+  * Summer capacity
+  * GitHub Sprints tab
+     * Asking that all teams use this for Q3 planning 
+  * Q3 Planning 
+
+
+## 6/17/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Discussion Topics**
+  * Anything we need to discuss from last week?
+  * Staggering release for Homescreen and Appts releases
+    * Appointments first (7/16)?
+    * then Homescreen (7/30)?
+      * Ameet to follow-up with Rachel about demoing the new Home Screen
+  * Decision making for Health and Benefits problem spaces
+    * Health POs will make decisions except in cases when:
+      * immediate mobile issue, highlighting to Health POs
+      * mobile expertise is required
+    * Analytics needed for decision making may need further discussion and access for other POs
+  * Rachel OOO first week of July and only semi-available the 3rd week of July
+  * Onboarding Initiative (Push Notification Opt-in flow) - Ameet to schedule follow-up meeting
+
+## 5/29/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Discussion Topics**
+  * RQ next steps
+    * H&B work is at a stopping point
+    * Global can focus on QA for RQ work that is in PROD
+    * Global should also decide the priority of any additional RQ work and plan it as a project
+  * staggering releases for Homescreen and Appts so we can avoid/plan for 2 big things going out in same release
+    * Adam, Ameet, and Alayna to discuss
+
+## 5/15/24
+* **New Meeting Format**
+  * Confirm most important info to cover from POs perspective
+  * Confirm meeting start time (3:05 ET, 3:30 ET?)
+  * Review Epic status from [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+      * Ensure statuses on Epics are updated day before this SoS meeting so POs can review updates before this SoS meeting each Sprint
+          * Update the following:
+          * Status grid in Epic details
+          * Target Start and Target Delivery Dates in right-hand side
+          * Project Status in right-had side
+          * Epic status on SoS Board matches Epic status in ZenHub
+          * POs to update the Target Dates and Status of the Epic on the Digital-Experience-Products board since contractors cannot edit
+      * We will NOT go through each Epic, but will go through anything with Risks, Blockers, or questions
+      
+* **Process Retro**
+  * As we've split into separate teams, what processes are working well at the team level and where are there areas where we need standardization across teams?
+  * [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1715720774099/f5818b6c94c7e3ccddb54b63c419de2e2753a69c?sender=matthall4429)
+
+
+
+
+__________________________________________________________________________
 ## 12/12/23
 
 * **Q4 Projects in Progress**

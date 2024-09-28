@@ -29,7 +29,7 @@ As secondary goals, we’ll follow up on [our last usability study](https://gith
 ### Outcome
 Based on the outcome of this research study, we will either release the audit updates to production and/or update our design to correct any significant usability hurdles people encounter. 
 
-If Veterans are still confused about the Benefit application drafts section, we have a [backup plan to launch with hint text added to this section](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/CD712D86-61D8-4485-8727-A2CB2EF534C6).
+If Veterans are still confused about the Benefit application drafts section, we have a [backup plan to launch with hint text added to this section](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-1&mode=design).
 
 ### Research questions
 - Does the functionality work as expected?

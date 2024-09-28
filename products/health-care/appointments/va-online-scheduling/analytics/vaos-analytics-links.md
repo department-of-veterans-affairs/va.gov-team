@@ -9,18 +9,18 @@ From "start scheduling" clicks to appointment submission
 - GA: https://analytics.google.com/analytics/web/template?uid=iFy1B26wQrG78jY9CPTXAA
 
 ### Users
-- GA: https://analytics.google.com/analytics/web/template?uid=Hula7nxGTz-3fUIZRGZn1w
+- GA: https://analytics.google.com/analytics/web/template?uid=6ps2Y5dATkuqW_ZSmdu1_Q
 
 ### Static Landing Page Conversion
 Unauthenticated content page before entering the authenticated app.
-- GA: https://analytics.google.com/analytics/web/template?uid=heanj0ISTmeEdlqM6wAMGw
+- GA: https://analytics.google.com/analytics/web/template?uid=AQ1bUr1URRm6pH85yVKdTA
 
 ### Exit Links
 Exit links from within the app
 - GA: https://analytics.google.com/analytics/web/template?uid=6PVfZ2b8QiK08p5i94Gmmw
 
 ### Phone Number Clicks
-- GA: https://analytics.google.com/analytics/web/template?uid=2_3XpdQURWmy_8KzqR9PpQ
+- GA: https://analytics.google.com/analytics/web/template?uid=F12XDPN9Tq-DcBLOEuRDeA
 
 ---
 

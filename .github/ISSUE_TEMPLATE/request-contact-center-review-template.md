@@ -2,8 +2,8 @@
 name: Contact Center Review - Request Template
 about: To request a Contact Center Review for your product
 title: Contact Center Review for [Team Name - Feature Name]
-labels: collab-cycle-review
-assignees: ATMiddleton, Kimberley2019, starlow00
+labels: VSP-contact-center
+assignees: ATMiddleton, Kimberley2023-CSM, starlow00
 
 ---
 

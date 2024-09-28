@@ -82,7 +82,8 @@ Agenda
 
 - Slides - [Sprint 77 - VA Mobile App Demo Slides.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/12600991/Sprint.77.-.VA.Mobile.App.Demo.Slides.pdf)
 
-- Video - https://github.com/department-of-veterans-affairs/va.gov-team/assets/93945676/1920e5fe-24f9-4d02-a327-8f81900e42f1
+- Video - [Recording](https://adhocteam-us.zoom.us/rec/share/BYF3q7RMbLSRMwqRqISSS_l8AqbHW9jYeO08kuerHicOZcHg4MdOYdIORPcmRstX.xanAwO6WwI02nXaI?startTime=1692209220000
+Passcode: YQ4@RZ4e)
 
 ----  
 **Demo Sprint 76 8/2/23** 

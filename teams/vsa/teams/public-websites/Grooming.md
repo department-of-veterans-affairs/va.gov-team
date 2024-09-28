@@ -240,7 +240,7 @@ Ticket Needs:
 - [ ] 508-defect-1 ❗[SCREENREADER]: Some non-English links have the lang="en" attribute [#27619](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27619) 
 
 ### Future Work Grooming: 
-New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/new-mobile-header/product-outline.md)
+New Mobile Header - [Product Ouline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/product-outline.md)
 
 ### Icebox Items (Relevancy - Delete)
 - [ ] Use a cta-widget or similar embedded component for links to eBenefits [#9020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9020) 

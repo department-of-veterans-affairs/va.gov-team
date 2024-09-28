@@ -1,3 +1,5 @@
+# OBSOLETE DOCUMENT
+
 # VSA Public Websites Development Team Transition Doc
 
 <br>

@@ -1,5 +1,5 @@
 # Benefit Payments Frontend Documentation
-Last updated: July 17, 2023 - added Background; updated error
+Last updated: May 6, 2024 - added VA-icon names and updated screens
 
 ### Background
 This is FE documentation for v2 of "payment info" on My VA in which the original single section My VA, "Benefit payments and debts" was separated out into two sections - one for Outstanding Debts and a second for Benefit Payments. This document specifically covers the Benefit Payments section on My VA.
@@ -75,9 +75,9 @@ You have no recent payments to show.
 
 ### Manage direct deposit link
 
-![Screen Shot 2022-11-04 at 1 10 51 PM](https://user-images.githubusercontent.com/97965610/200035290-7f3f7332-d79f-4e0a-8984-f5f3cb67fc84.png)
+<img width="440" alt="Screenshot 2024-05-06 at 4 34 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/7ac7c5ff-02f8-4aca-b357-c1d7440e683c">
 
-Use font awesome icon `dollar` for icon in link list
+Use VA-icon `attach_money` for icon in link list
 
 **Show**
 - For all LOA3 users.
@@ -94,12 +94,13 @@ Use font awesome icon `dollar` for icon in link list
 
 ### Review your payment history link
 
-- Use font awesome icon “user-check”
+- Use VA-icon `how_to_reg`
 
 **Show in link list**
 - If a user has not had a payment in the last 60 days but has in the past.
 
-![Screen Shot 2022-11-04 at 1 08 40 PM](https://user-images.githubusercontent.com/97965610/200034911-968063a5-6510-4194-8249-56232cfb013e.png)
+<img width="440" alt="Screenshot 2024-05-06 at 6 37 57 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/80e8e1f2-249f-47f6-8138-d96cf13ef7b2">
+
 
 **Do NOT show in link list**
 - If a user has never received a payment.

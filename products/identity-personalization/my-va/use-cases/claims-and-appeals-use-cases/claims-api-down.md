@@ -1,6 +1,6 @@
 # My VA Claims and Appeals Use Case: The claims API is down and we can’t display any claims or appeals information
 
-**Last updated:** July 17, 2023
+**Last updated:** May 29, 2024 (added Figma links)
 
 For LOA3 users who sign in when the claims API is down, they will see an error in the Claims and appeals section on My VA.
 
@@ -10,8 +10,8 @@ For LOA3 users who sign in when the claims API is down, they will see an error i
 - If this error occurs, we display an error that states "**We can't access your claims or appeals information.** We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later."
 - This error is the only thing that displays in the section when it occurs.
 - Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D61859AD-13DE-473E-8914-990CED053569)
+- [Desktop mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-279&t=GBCeuQm7m0x4XIc1-1)
+- [Mobile mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-809&t=GBCeuQm7m0x4XIc1-1)
 
 ## How to reproduce
 

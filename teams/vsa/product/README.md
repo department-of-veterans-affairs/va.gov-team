@@ -21,7 +21,6 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
 - Templates
   - [Outcome-based Roadmap Visual](https://docs.google.com/drawings/d/16-ih0YnV-Q09PUfFPWT9mqEMRpkizvjugOgHpBDK9RM/edit?usp=sharing)
 - Examples 
-  - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/roadmaps/3q-facilities-team-roadmap.md)
 
 
 ### Product Outline
@@ -29,7 +28,7 @@ Product Outlines serve as the top-level description of the product a team owns. 
 
 - [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Examples 
-  - [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
+  - [Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/facility-locator-product-outline.md)
   - [Reviews Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/vsp-collaboration-cycle/product-outline.md)
   - [VA Forms API Product Outline](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/VA%20Forms%20API%20Product%20Outline.md)
   
@@ -43,7 +42,7 @@ Initiative Briefs serve as a description of the project a team is pursuing to ac
 - [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)
 - Examples
   - [Prevent unintended MPI updates via 10-10ez](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/initiatives/avoid-mpi-changes.md#prevent-unintended-mpi-updates-via-10-10ez)
-  - [Intiative Briefing: New VA.gov Mobile Header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/new-mobile-header/Initiative%20Briefing.md)
+  - [Intiative Briefing: New VA.gov Mobile Header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/Initiative%20Briefing.md)
   
 ### Problem Brief
 Problem Briefs serve as low-barrier starting point for teams to begin tackling a given issue. These problems are typically process-related or decision-related (vs. product-related that may be better suited by a Product Outline or Initiative Brief).

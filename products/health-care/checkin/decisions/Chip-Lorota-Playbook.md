@@ -1,6 +1,8 @@
 
 # On call patient check-in and Chip & Lorota Response Playbook
 
+## DEPRECATED Using [Tier 3 team Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/main/docs/PCI%20API%20Tier%203%20Team%20Playbook.md) instead
+
 
 ### Table of Contents
 1. [CHIP & Lorota API Incident Response Overview](#overview)
@@ -51,23 +53,25 @@ Architecture diagrams that show our systems in context can be found here:
  - Monday through Friday
 
 ## Before you start… <a name="before-start"></a>
-Make sure you have access to DataDog 
-- DataDog Dashboard Link: [CHIP Production Dashboard](https://tevi.ddog-gov.com/dashboard/5jy-mz3-53p/technical-dashboard-chip-prod?from_ts=1660050311069&to_ts=1660053911069&live=true)
-- DataDog Dashboard Link: [LoROTA Production Dashboard](https://tevi.ddog-gov.com/dashboard/9ss-nrd-bj9/technical-dashboard-lorota-prod?from_ts=1660050411772&to_ts=1660054011772&live=true)
+Make sure you have access to DataDog
+- [Check In Production Dashboard](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716304789663&to_ts=1716319189663&live=true)
+- [Travel Claim Production Dashboard ](https://vagov.ddog-gov.com/dashboard/5pd-req-u6d/check-in-travel-claims?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716304789663&to_ts=1716319189663&live=true)
+- [CHIP Production Dashboard](https://tevi.ddog-gov.com/dashboard/5jy-mz3-53p/technical-dashboard-chip-prod?from_ts=1660050311069&to_ts=1660053911069&live=true)
+- [LoROTA Production Dashboard](https://tevi.ddog-gov.com/dashboard/9ss-nrd-bj9/technical-dashboard-lorota-prod?from_ts=1660050411772&to_ts=1660054011772&live=true)
 
 Make sure you have access to the VNCE team G-drive, which will give you access to:
 - [The Critical Incident Event Log](https://docs.google.com/spreadsheets/d/14W6AOjbOS6XmbzN7hpvo3vAO5ZG5eW6vhPj1JvOeCaM/edit#gid=0)
 - [Previous Post Mortems](https://dvagov.sharepoint.com/sites/PCIAPI)
 
 Make sure your on-call shift is configured in [PagerDuty](https://veterans-affairs.pagerduty.com/teams/PZ9XJHY)
-- Request to be added to DSVA Pagerduty by the platform team (Allison can add if response time is delayed)
+- Request to be added to DSVA Pagerduty by the platform team [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
 
 Once you have VA Access, make sure you have access to the:
 - [PCI API SNOW queue](https://yourit.va.gov/nav_to.do?uri=%2Ftask_list.do%3Fsysparm_clear_stack%3Dtrue%26sysparm_query%3Dassignment_group%253Djavascript:getMyGroups()%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_first_row%3D1%26sysparm_view%3Dcatalog) 
   (be sure to reference the [ServiceNow Process](https://github.com/department-of-veterans-affairs/chip/blob/master/docs/2022-production-rollout-support.md#servicenow-process) for instructions on how to configure your settings, especially if it’s your first time)
 - [PCI Implementation teams channel](https://teams.microsoft.com/l/team/19%3awwjxmJilnNQkrSuL1_UDJccHQcMIPF2OnFC73KpNN9s1%40thread.tacv2/conversations?groupId=7b702e1f-7c29-419b-8215-35b0346ca2b5&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
 
-Read the PCI API Tier 3 Playbook (this document!)
+Read the On call patient check-in and Chip & Lorota Response Playbook (this document!)
 
 ## During your On-Call Shift… <a name="shift"></a>
 As discussed above, during business hours (07:00am ET - 08:00pm ET) the expectation is that you will be more in a proactive monitoring posture (especially in the morning, when clinics open). When you are on-call, expect to start your shift at 7am EST, as most issues identified are identified in the morning (such as following a deployment the previous night). 
@@ -77,17 +81,15 @@ When you start your shift
 - Be aware that there are some automatic daily and weekly monitoring downtimes on datadog. The downtime is to silence any potential alerts that occur during the downtime window. Click [here](https://tevi.ddog-gov.com/monitors/downtimes?sort=-start_dt) for the currently enabled automatic downtimes Tevi Datadog automatic downtime
 - Monitor the tools listed below for signs of issues
 
-When you log in in the morning at 7am EST for first shift 1pm EST for second shift,  the on-call developer should be proactively monitoring a number of locations for any outages or incidents. This includes:
+When you log in in the morning at 7am EST for first shift 1pm EST for second shift, the on-call developer should be proactively monitoring a number of locations for any outages or incidents. This includes:
 - DSVA Slack 
-  - Check DataDog Alerts in the [#check-in-monitoring](https://dsva.slack.com/archives/C04G3EY2F5W) channel
+  - Check DataDog Alerts in the [#check-in-monitoring](https://dsva.slack.com/archives/C04G3EY2F5W) and [#check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF) channels
   - Actively monitor and respond to incident threads in the [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX) channel
   - Actively monitor and respond to incident threads in the [#check-in-experience-engineering](https://dsva.slack.com/archives/C02G6AB3ZRS) channel
 - DataDog 
-  - Actively monitoring DataDog APM dashboards for anomalies, errors, spikes, latency, or outages. (See links above)
+  - Actively monitoring DataDog APM dashboards for anomalies, errors, spikes, latency, or outages. [(See links above)](#before-start)
 - Sidekiq
-  - Actively monitoring Sidekiq: https://vse-wf-api.va.gov/sidekiq
-
-When the above responsibilities are met and development bandwidth is available, Tier 3 Monitoring Engineer will work on minor tasks in Tier 3 team backlog. 
+  - Actively monitoring [Sidekiq](https://vse-wf-api.va.gov/sidekiq)
 
 ## In the event of an incident… <a name="incident-response"></a>
 

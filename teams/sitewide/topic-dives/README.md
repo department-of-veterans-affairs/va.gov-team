@@ -12,13 +12,53 @@ Please add any potential future topics you would like covered below:
 - How does the help desk work?
 - content api / accelerated publishing (when it is available)
 - How do CMS teams use Task files?
-- Sections: How do they work for subsections? How to they interact with roles?
+- Sections: How do they work for subsections? How to they interact with roles? ([Slack convo as basis](https://dsva.slack.com/archives/CT4GZBM8F/p1723505580525429))
 - Cypress
 
 ## Topic Dives
 
 ### - NGrok
 - @dsasser
+
+### 7/10/24 - Find a Form
+https://us06web.zoom.us/rec/share/nhSoIaTcjXapnmI6VbM0i7tSLUMJTPWD7WlN2r1hauB1U5k3_Fb1_CxW7swzg47N.-kGMFqgUx35QgVaj?startTime=1720642043000
+Passcode: uc63t+P8
+
+Soup to nuts, how Find a Form works, including: 
+* Nature of upstream data housed in Forms DB 
+  * Ownership of Forms DB
+  * Ownership of the business processes within each administration to create / manage forms and PDFs
+  * Forms contacts
+  * [VA Forms Contacts docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#va-forms-contacts)
+* Migration of Forms data to Drupal
+  * [Migration docs](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-forms.md))
+  * [Migration in Drupal](https://prod.cms.va.gov/admin/structure/migrate/manage/forms/migrations/va_node_form) 
+* How we manage VA Form nodes in Drupal
+  * Flagging mechanisms
+  * Metadata changes we watch for and why
+  * Publishing VA Form nodes: CAIA's job and how that works
+  * [VA Forms admin queues/views](https://prod.cms.va.gov/admin/content/va-forms)
+* Lighthouse Forms API & how we use it / how they use the CMS
+  * [Lighthouse contacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#lighthouse-api-team)
+  * [LH / Forms data flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/engineering.md#end-to-end-flow-to-lh-forms-api)
+* Form download flow: from form Search page vs. from Forms detail page ([Mural artifact of technical flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1660150431569/27c80eaeeaedfd88c80322ae177b68c503345ba9?sender=u0b235d03cbd64f7f93673243))
+* Troubleshooting
+  * Typical problems
+  * Interaction with Forms managers for data fixes
+  * [Troubleshooting docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md)
+* Monitoring
+  * [Public Websites datadog dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard)
+  * [Forms APM monitors in Datadog](https://vagov.ddog-gov.com/apm/services/find-a-form/operations/rack.request/resources)
+
+### 6/17/24 - Flippers & Feature Toggles
+  - Jill Adams
+  - Describes the very high level use case / context for both Drupal feature toggles, and Flippers used in the VA.gov Frontend (driven by vets-api & vets-website)
+  - [Video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/videos/feature-toggles-flippers.mp4) - MP4 you'll need to download
+
+### 3/5/24 - ECA module / use for Aging content notifications 
+   - Daniel Sasser
+   - Primarily Drupal: Use of ECA module, how we are configuring it on Public Websites for use to send aging content notifications for Full Width Banners. This was a team-internal primer / demo before the feature shipped. Future topic dive may go into greater detail.
+   - [Video](https://us06web.zoom.us/rec/share/QW-gQ30pdwsEUMU9z3I9p7LPvLKpHgFp_wcRy-6KibDoTmrx_8Zb8z1VtDu_7alA.YadrT7s73_Mylzc3?startTime=1709666432000)  Passcode: UB!4xG?5
 
 ### 10/30/23 - How to make your Content Model Documentation ride with your code.
    - Steve Wirt
@@ -57,7 +97,7 @@ Please add any potential future topics you would like covered below:
 
 ### 5/15/23 - CMS User Permission Model (Roles, Permissions, Workflows & Sections)
 - Dave Pickett
-- [CMS User Permission Model video](https://drive.google.com/file/d/1kM_WClSL15z3JX1EAHJ5f-QG8f0n_lyL/view)
+- [CMS User Permission Model video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/CMS%20User%20Permission%20-%20Dave%20P%20-%205.15.2023.mp4)
 - [CMS User Permission Model slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-governance/CMS-user-permission-model.pdf)
 
 ### 4/17/2023 - Diagrams in Github / Markdown with Mermaid

@@ -1,18 +1,19 @@
-# My VA Benefit Application Drafts Use Case: User has a benefit application draft saved but not yet submitted
+# My VA Benefit Applications and Forms Use Cases: User has a benefit application draft saved but not yet submitted
 
-**Last updated:**October 26, 2023
+**Last updated:** August 14, 2024 - updated content around saved date changing "last opened" to "last saved" in the UX section
 
-For LOA3 users who sign in and have a benefit application draft saved (or multiple), we will show a card (or cards) for their saved application(s) in the Benefit application drafts section on My VA that provides a link for them to continue their application.
+For LOA3 users who sign in and have a benefit application draft saved (or multiple), we will show a card (or cards) for:
+- their saved application(s) in the Benefit applications and forms section on My VA that provides a link for them to continue their application
 
 ## UX
-- Any logged in LOA3 user can see the Benefit application drafts section on My VA.
-- When a user has a benefit application draft saved in progress, they will see a card in this section that tells them the form code, application type, an expiration date for the application, the date that they last opened it, and a link to continue the application.
+- Any logged in LOA3 user can see the Benefit applications and forms section on My VA.
+- When a user has a benefit application draft saved in progress, they will see a card in this section that tells them the form code, application type, an expiration date for the application, the date that they last saved it, and a link to continue the application.
 	- Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
-- This card is always displayed on the left hand side of the page on desktop when there is only one card to show.
-- If a user has multiple benefit application drafts saved, they will see a card for each of them in this section and they are displayed side by side on desktop with two max per row.
+- This card is always displayed on the left hand side of the page on desktop
+- If a user has multiple benefit application drafts saved, they will see a card for each of them in this section and they are stacked vertically for both desktop and mobile
 - Uses the [card component](https://design.va.gov/components/card) from the VA design system.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/8AB87684-AE2C-42F4-BC9D-60E4B26AE1BB)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
+- [Desktop mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26447&t=D9AmNbDyzhvCGW9h-1)
+- [Mobile mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1264-32620&t=D9AmNbDyzhvCGW9h-1)
 
 ## How to reproduce
 - Find a staging user who has a benefit application draft in the [benefit application drafts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#saved-applications-section).

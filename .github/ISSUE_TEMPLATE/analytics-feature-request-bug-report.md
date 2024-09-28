@@ -3,7 +3,7 @@ name: Analytics Feature Request/Bug Report
 about: To request analytics features or report an analytics bug
 title: Analytics Feature Request/Bug Report
 labels: analytics-insights, enhancement
-assignees: ''
+assignees: johnny-jesensky-adhoc
 
 ---
 

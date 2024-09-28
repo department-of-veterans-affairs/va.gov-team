@@ -6,7 +6,7 @@ They are managed within the Drupal CMS.
 
 ## Governance
 Owner: Public Websites team
-PO: Dave Conlon
+PO: Michelle Middaugh
 
 * Content is governed by the Sitewide Content team. 
 * Usage is governed by the Public Websites team.

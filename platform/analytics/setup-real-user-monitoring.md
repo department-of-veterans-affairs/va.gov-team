@@ -89,9 +89,15 @@ VA.gov contains a lot of PII/PHI, so we need to hide it during session replays. 
 - Class name to hide or mask content
   > class="dd-privacy-allow" | "dd-privacy-mask-user-input" | "dd-privacy-mask" | "dd-privacy-hidden"
 
+⚠️
+
+It is *strongly* recommended to use the `defaultPrivacyLevel: mask` setting, and opt individual elements into being displayed with `data-dd-privacy="allow"`. This is more reliable than attempting to ensure that all elements that should be masked are. (And relying on it happening when new data elements are added)
+
+⚠️
+
 ### Default privacy level
 
-In our apps, we've been setting this option to `'mask-user-input'`. It doesn't hide all content on the page, like the `'mask'` setting does, it masks the content within form elements; three asterisks are display no matter how much content is inside a text input.
+In our apps, we've been setting this option to `'mask-user-input'`. It doesn't hide all content on the page, like the `'mask'` setting does, it masks the content within form elements; three asterisks are displayed, no matter how much content is inside a text input.
 
 ### Masking or hiding content
 
@@ -114,61 +120,68 @@ To make it easier to determine content that has already been masked, you can inj
 | Masked & hidden content (with missing action names) | <img width="332" alt="Veteran info page showing name as hidden (in orange), SSN, VA file number and date of birth are masked (in purple) and gender is hidden (in orange)" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/65e8a245-2b3e-4ac7-9066-aecc52bc752b"> |
 | Hidden content that includes an action name | <img width="438" alt="Screenshot 2023-10-05 at 10 46 30 AM" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/3a958191-e63c-4a6f-bebe-28c008342f5f"> |
 
- The easiest method to do it would be to install the [Stylus](https://add0n.com/stylus.html) browser app for [Chrome-based browsers](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/). This extension allows you to inject CSS into any page.
+You can highlight these DataDog privacy classes using one of two methods:
+- [VA page checker browser extension](https://chromewebstore.google.com/detail/va-page-checker/bohcdnelkeimoooidokojkcjdaahjbkb?authuser=1), <strong>or</strong>
 
-Once the extension is installed:
+  <img alt="highlight datadog example from browser extension" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/bb384cc3-c6d0-4733-bcd7-1e482ab24d49" width="300" />
+- Use the Stylus browser extension to inject CSS into the page <details><summary>Using Stylus</summary>
 
-1. Click on the Stylus icon to open the popup
-2. Check the "write new style as usercss" checkbox
-3. Click on "this URL" link to open the manager
-    <p>
-      <img width="265" alt="stylus icon with popup opened" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/c796db65-7ce8-467b-9bcf-90c34bbaa838">
-    </p>
+  Install the [Stylus](https://add0n.com/stylus.html) browser app for [Chrome-based browsers](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/). This extension allows you to inject CSS into any page.
 
-Now copy the following (user)CSS:
+  Once the extension is installed:
 
-```css
-/* ==UserStyle==
-@name           Reveal Datadog masking/hidden elements
-@namespace      github.com/openstyles/stylus
-@version        1.0.0
-@description    A new userstyle
-@author         Me
-==/UserStyle== */
-@-moz-document url-prefix("http://localhost:3001/"), url-prefix("https://staging.va.gov/") {
-  .dd-privacy-hidden,
-  [data-dd-privacy="hidden"] {
-    color: #c60 !important;
+  1. Click on the Stylus icon to open the popup
+  2. Check the "write new style as usercss" checkbox
+  3. Click on "this URL" link to open the manager
+      <p>
+        <img width="265" alt="stylus icon with popup opened" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/c796db65-7ce8-467b-9bcf-90c34bbaa838">
+      </p>
+
+  Now copy the following (user)CSS:
+
+  ```css
+  /* ==UserStyle==
+  @name           Reveal Datadog masking/hidden elements
+  @namespace      github.com/openstyles/stylus
+  @version        1.0.0
+  @description    A new userstyle
+  @author         Me
+  ==/UserStyle== */
+  @-moz-document url-prefix("http://localhost:3001/"), url-prefix("https://staging.va.gov/") {
+    .dd-privacy-hidden,
+    [data-dd-privacy="hidden"] {
+      color: #c60 !important;
+    }
+
+    .dd-privacy-hidden:after,
+    [data-dd-privacy="hidden"]:after {
+      content: ' {HIDDEN}';
+    }
+
+    .dd-privacy-mask,
+    [data-dd-privacy="mask"] {
+      color: #c0a !important;
+    }
+    .dd-privacy-mask:after,
+    [data-dd-privacy^="mask"]:after {
+      content: ' {MASKED}';
+    }
+
+    .dd-privacy-mask[data-dd-action-name]:after {
+      content: ' {MASKED + ' attr(data-dd-action-name) '}';
+    }
+    .dd-privacy-hidden[data-dd-action-name]:after {
+      content: ' {HIDDEN + ' attr(data-dd-action-name) '}';
+    }
   }
+  ```
 
-  .dd-privacy-hidden:after,
-  [data-dd-privacy="hidden"]:after {
-    content: ' {HIDDEN}';
-  }
+  In the Stylus editor, select all content (use <kbd>Ctrl</kbd> or <kbd>⌘ Command</kbd> with <kbd>A</kbd>) then paste (use <kbd>Ctrl</kbd> or <kbd>⌘ Command</kbd> with <kbd>V</kbd>) in the userCSS from above.
 
-  .dd-privacy-mask,
-  [data-dd-privacy="mask"] {
-    color: #c0a !important;
-  }
-  .dd-privacy-mask:after,
-  [data-dd-privacy^="mask"]:after {
-    content: ' {MASKED}';
-  }
+  Use "Save" in the side panel, then close the browser tab
 
-  .dd-privacy-mask[data-dd-action-name]:after {
-    content: ' {MASKED + ' attr(data-dd-action-name) '}';
-  }
-  .dd-privacy-hidden[data-dd-action-name]:after {
-    content: ' {HIDDEN + ' attr(data-dd-action-name) '}';
-  }
-}
-```
-
-In the Stylus editor, select all content (use <kbd>Ctrl</kbd> or <kbd>⌘ Command</kbd> with <kbd>A</kbd>) then paste (use <kbd>Ctrl</kbd> or <kbd>⌘ Command</kbd> with <kbd>V</kbd>) in the userCSS from above.
-
-Use "Save" in the side panel, then close the browser tab
-
-Return to the app to see the changes
+  Return to the app to see the changes
+  </details>
 
 ### Other exposed PII/PHI
 
@@ -186,8 +199,20 @@ These are exposures of PII/PHI (in staging) we've encountered while setting up R
 
   <img width="450" alt="What is your primary phone with 2 radios showing mobile & home phone with the actual number in the radio description" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/62b7d907-da86-4d22-aa88-131917419418">
 
-- In the RUM events side panel, if a Veteran clicks on PII (even non-interactive elements), the text inside that element will display in the event text. To fix this, make sure to include a `data-dd-action-name` for every instance.
-    <img src="https://user-images.githubusercontent.com/136959/262451382-1c467eec-1d30-4c3f-b553-775a8e82986e.png" alt="RUM dashboard showing a click on date of birth: February 14, 1... event">
+- In the RUM events side panel, if a Veteran clicks on PII (even non-interactive elements), the text inside that element will display in the event text. To fix this, either:
+   - make sure to include a `data-dd-action-name` for _every_ element.
+       <img src="https://user-images.githubusercontent.com/136959/262451382-1c467eec-1d30-4c3f-b553-775a8e82986e.png" alt="RUM dashboard showing a click on date of birth: February 14, 1... event">
+   - If you do not need to see information about which element is clicked, you may globally override all element names by adding the following property to the RUM configuration:
+      ```
+      beforeSend: event => {
+        // Prevent PII from being sent to Datadog with click actions.
+        if (event.action?.type === 'click') {
+          // eslint-disable-next-line no-param-reassign
+          event.action.target.name = 'Clicked item';
+        }
+        return true;
+      },
+      ```
 
 - On the review & submit page some content may be automatically rendered. This can be fixed by including a `ui:reviewWidget` function in the uiSchema:
 
@@ -222,7 +247,7 @@ These are exposures of PII/PHI (in staging) we've encountered while setting up R
       {' '} {/* empty label */}
     </label>
   </div>
-  
+
   <h3
     id="issue-0-title"
     data-dd-action-name="Issue name"

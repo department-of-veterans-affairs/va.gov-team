@@ -25,9 +25,11 @@ This document describes the recommended setup for doing fullstack development of
 The following steps need to be performed each development session, since the MFA session expires and the forward proxy instances periodically get redeployed with new instance IDs.  
 
 1. Establish an MFA token in your shell. From the root of the devops repository, run `. ./utilities/issue_mfa.sh <Aws.Username> <2FA code>`. It should print output like "AWS Session credentials saved. Will expire in 12 hours".
-   * Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell. 
+   * Note the `. ` in front of this command, this is needed to source the output of this command into your existing shell.
+   * `/utilities/issue_mfa.sh` runs `aws sts get-session-token` with `--serial-number` and `--token-code` parameters, then sets multiple environment variables such as `AWS_SESSION_TOKEN`.
 2. From the same terminal, discover a forward proxy instance to tunnel to in whichever environment is desired, using this command `./utilities/ssm.sh fwdproxy <dev|staging>`. The command will print the available instances and prompt you to connect a shell session to one. You can Ctrl-C out of this command at this point as you don't need to connect, you just want to print the available instances.
     - Connecting can be useful for debugging connection issues or testing updated hosts or interfaces in the forward proxy.
+    - `utilities/ssm.sh` runs `aws ec2 describe-instances` (using a docker image) with `--filters` and a `--query` to retrieve ec2 hostnames
 4. Run the following command to establish the SSM tunnel:
 ```
 aws ssm start-session --target <instance_id> --document-name AWS-StartPortForwardingSession --parameters '{"portNumber":["<fwdproxy_port>"], "localPortNumber":["<local_port>"]}'

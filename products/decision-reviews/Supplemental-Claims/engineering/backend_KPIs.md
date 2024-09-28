@@ -13,8 +13,8 @@ Identify all backend actions and items a Supplemental Claim submission on va.gov
 Action | Description | [Up/Down]stream System | Transfer Description | Frequency | Consequence of Failure
 -- | -- | -- | -- | -- | -- 
 Prefill Info | Get info for the veteran to pre-populate information on the form | Vet360 (mailing address)BGS (file number last 4) | An http call to external service | Always 1 per submission | User cannot begin the form
-Intent to File (check) | Intent to File for veteran | EVSS(Lighthouse soon?) | An http call to external service | Always 1 per submission | User cannot continue with the form. 
-Intent to File (create) | Intent to File for veteran | EVSS(Lighthouse soon?) | An http call to external service | Optional based on check result | User cannot continue with the form. 
+Intent to File (check) | Intent to File for veteran | Lighthouse | An http call to external service | Always 1 per submission | User cannot continue with the form. 
+Intent to File (create) | Intent to File for veteran | Lighthouse | An http call to external service | Optional based on check result | User cannot continue with the form. 
 Evidence Upload (before submission) | Putting S3 file in S3 | AWS S3 | An http call to external service | Any number per submission, including 0 (optional) | User sees an error message on the webpage. Evidence is not included in submission or user must reupload on the webpage.
 Get Contestable Issues | Gets a list of contestable issues the veteran can choose from for this claim | Lighthouse | An http call to external service | Always 1 per submission | User is allowed to continue, must enter in their own contentions. May cause confusion if user does not know it, or delay claim if they enter something different that what they requested before.
 Overall Supplemental Claim Submission | The overall submission over the claim | Lighthouse | An http call to external service | Always 1 per submission | User sees an error message on the webpage. Save in progress data is retained. They may attempt later.

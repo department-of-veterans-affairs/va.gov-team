@@ -1,9 +1,10 @@
 
 # My VA Dashboard Product Guide Versions
-_Last updated June 5, 2023 - added details about version 7 of the guide._
+_Last updated January 29, 2024 - added details about version 8._
 
 |File|Version Number|Date| Call center GH Ticket | Notes |
 |----------|--------|---------|-------------|--------|
+|[My VA 2.0.Product.Guide.v8.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/14087096/My.VA.2.0.Product.Guide.v8.docx)| Version 8 | December 2023 | [#72135](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72135) | Submitted to call center for review 12/18/2023 and accepted by VEO 12/26/2024. <br/><br/>Removes notifications section; updated screenshots for white card implementation, changes to Health Care section with addition of "go to inbox link", updates to the Benefit Application Drafts section and revised LOA1 experience. | 
 |[My.VA.2.0.Product.Guide.Version.7.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11658631/My.VA.2.0.Product.Guide.Version.7.docx)| Version 7 | May 26, 2023 | [#59228](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59228)| Submitted to call center for review 5/26/23 and accepted by VEO week of 6/5/2023. <br/><br/>Includes updated screenshots to the Notifications section to show the new notification component.|
 | [My VA 2.0 Product Guide.Version 6](https://github.com/department-of-veterans-affairs/va.gov-team/files/11091045/My.VA.2.0.Product.Guide.Version.6.docx) | Version 6 | March 16, 2023 | [#55302](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55302)| Submitted to call center for review 3/16/23 and accepted by VEO on 04/04/2023. <br/><br/>Includes updates to guide to reflect implementation of findings from the UX audit which streamlines conditional use cases and code base for scalability.|
 |[My VA 2.0 Product Guide. Version 5](https://github.com/department-of-veterans-affairs/va.gov-team/files/10133946/MyVA_2_0_v5.docx)| Version 5 | November 10, 2022 |[#49621](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49621)|Submitted for review November 14 and accepted by VEO on November 30, 2022. <br/><br/>Includes updates to the guide to reflect the newest version of "payment history" (the creation of Outstanding Debts and Benefit Payments sections on My VA).|

@@ -1,13 +1,13 @@
 # Personal information: VA.gov can’t display any personal information
-**Last updated: February 6, 2023**
+**Last updated:**  February 15, 2024
 
 For LOA3 ID.me/Login.gov users who sign in, go to the profile, and click into the personal information section, we will show an error if we are having issues connecting to the backends that provide us with legal name and disability rating information. If we are having issues connecting to the backend, there’s no action a user can take to correct this.
 
 ## UX
 * An LOA3 user goes to the personal information section section of the profile. If we are having issues connecting to the backend (eg. backend is down), we will show an warning message in that section that explains we can’t access that information at the moment, and to check back later.
 * Uses the  [background color only alert component](https://design.va.gov/components/alert#examples---background-color-only)  from the VA design system.
-*  [Can't display disability rating mockup](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/v/vWx1M1/a/4ajJxKJ) 
-*  [Can't display legal name mockup](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/a/1KGwJ2w) 
+*  [Can't display disability rating mockup](https://www.figma.com/file/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?type=design&node-id=0-55&mode=design&t=3BjAesVLktQXS6X2-11) 
+*  [Can't display legal name mockup](https://www.figma.com/file/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?type=design&node-id=0-66&mode=design&t=3BjAesVLktQXS6X2-11) 
 *  **Note**: it is possible that both of these errors could display at the same time.
 
 ## Codes

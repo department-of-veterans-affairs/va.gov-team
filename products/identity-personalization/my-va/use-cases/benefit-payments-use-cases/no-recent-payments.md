@@ -1,5 +1,5 @@
 # My VA Benefit Payments Use Case: User hasn't received a payment from VA in the last 60 days
-**Last updated: December 14, 2022**
+**Last updated: June 4, 2024 - replaced links**
 
 For LOA3 users who sign in and have *not* received any payments from VA in the last 60 days, they will see text in the Benefit payments section stating that they have no recent payments to show as well as links to manage their direct deposit information and review their payment history.
 
@@ -11,15 +11,15 @@ For LOA3 users who sign in and have *not* received any payments from VA in the l
 
 * If a logged in LOA3 user has not received a payment from VA in the last 60 days, they will text in this section that says "You have no recent payments to show."
 * If a user has received payments from VA before, they will see links to "Manage your direct deposit information" which links to the [direct deposit page](https://www.va.gov/profile/direct-deposit) of their profile and a link to "Review your payment history" which links to the [payment history tool](https://www.va.gov/va-payment-history/payments) directly below the text.
-* [Desktop mockup for no recent payments but has received payments before](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/977354F4-360B-4287-B9CD-CE28DC8444A0)
-* [Mobile mockup for no recent payments but has received payments before](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/95A46294-248D-407C-8557-8C6A35C02315)
+* [Desktop mockup for no recent payments but has received payments before](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-89&t=c2OqcG9WOavV8QTN-1)
+* [Mobile mockup for no recent payments but has received payments before](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-730&t=c2OqcG9WOavV8QTN-1)
 
 ### User has never received payments from VA
 
 * If a logged in LOA3 user has never received a payment from VA, they will text in this section that says "You have no recent payments to show."
 * They will also see a link to "Manage your direct deposit information" which links to the [direct deposit page](https://www.va.gov/profile/direct-deposit) of their profile.
-* [Desktop mockup for no payments ever](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B0DF2025-E29C-48D0-8230-6BC8D2FAA5EA)
-* [Mobile mockup for no payments ever](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FE8BFAEA-9A71-4AB6-A35F-9BE18A63B3CF)
+* [Desktop mockup for no payments ever](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-194&t=c2OqcG9WOavV8QTN-1)
+* [Mobile mockup for no payments ever](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-741&t=c2OqcG9WOavV8QTN-1)
 
 ## How to reproduce
 * Find a staging user who has no recent payments in the [benefit payments staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info-v2.md#test-cases-for-benefit-payments-section).

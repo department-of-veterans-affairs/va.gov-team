@@ -2,8 +2,6 @@
 
 **Last updated:** December 1, 2023 (first published)
 
-_Insert brief explanation of this update to the health care section of My VA._
-
 For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
 ## When to show the ‘Health care’ section
@@ -12,8 +10,8 @@ We show this section for every LOA3 user.
 ## UX Specs
 
 ### If a user does not have VA health care
-- Desktop (link latest sketch file)
-- Mobile (link latest sketch file)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A331&mode=design&t=ACz9YR6bpwDeZvbB-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A763&mode=design&t=ACz9YR6bpwDeZvbB-1)
 
 #### **Content**
 
@@ -33,8 +31,8 @@ You have no health care information to show.
 
 ### Next appointment card
 (_needs updating to include MHV link_)
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A4148&mode=design&t=ACz9YR6bpwDeZvbB-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=ACz9YR6bpwDeZvbB-1)
 
 **Show card**
 
@@ -71,8 +69,8 @@ Location
 
 ### If a user has VA health care but does not have any upcoming appointments scheduled
 (_needs updating to include MHV link_)
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ECC10511-998E-4BD9-9D9F-B87E0ADC477B)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6D7BBA0-BD00-42E1-A445-5C81FBEE0307)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A423&mode=design&t=2WZaQsuz8oy0Sr3k-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A842&mode=design&t=ACz9YR6bpwDeZvbB-1)
 
 **Show**
 
@@ -91,10 +89,10 @@ You have no upcoming appointments to show.
 
 ### If a user receives VA health care at a Cerner facility
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ADCF0E10-E520-4E53-AA3A-70B27D06AD46)
-- [Desktop - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Ryd9gKQ)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B86A600B-1B19-4128-854C-299A3A7AAD07)
-- [Mobile - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/L4PYeML)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A468&mode=design&t=ACz9YR6bpwDeZvbB-1)
+- [Desktop - expanded](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=93%3A15630&mode=design&t=ACz9YR6bpwDeZvbB-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A918&mode=design&t=ACz9YR6bpwDeZvbB-1)
+- [Mobile - expanded](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=85%3A8697&mode=design&t=ACz9YR6bpwDeZvbB-1)
 
 **Show**
 
@@ -143,9 +141,9 @@ For **any other facility, go to My HealtheVet.**
 
 ### Apply for VA health care link
 
-![Screen Shot 2022-11-17 at 11 07 54 AM](https://user-images.githubusercontent.com/97965610/202497628-f2f6b3d4-81f3-401e-a5e6-f0f6030bdbd3.png)
+<img width="733" alt="Screenshot 2024-05-06 at 5 34 19 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/6919faae-5b8f-4e9e-ba86-b5f9e0b21d93">
 
-Use font awesome icon `file-medical` for icon
+Use VA-icon `note_add` for icon (as of 5/2024)
 
 **Show**
 - For users who do not have health care through VA.
@@ -178,18 +176,22 @@ TK
 ### Go to your inbox link
 
 With unread messages:
-<img width="955" alt="Screenshot 2023-08-23 at 2 13 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/692bd74b-c9c6-4e8e-9a27-1ab2401a3c2b">
-[Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZOP0Rqa)
 
-[Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Y42Dz)
+<img width="717" alt="Screenshot 2024-05-06 at 5 24 04 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/cce74c4c-eab2-4b07-bbe6-df4f79cdf111">
+
+[Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A305&mode=design&t=ZhUs1Oeae2EQjVFh-1)
+
+[Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A842&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
 Without unread messages:
-<img width="948" alt="Screenshot 2023-08-23 at 2 30 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/07d7cc07-f26a-418e-81fe-8b5fe0d4d119">
-[Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/25LlG1l)
 
-[Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/WK72gqw)
+<img width="722" alt="Screenshot 2024-05-06 at 5 24 09 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/297b8ef9-d275-40a4-a21c-e028482a9d34">
 
-Use font awesome icon `comments` for icon
+[Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A4148&mode=design&t=ZhUs1Oeae2EQjVFh-1)
+
+[Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=ZhUs1Oeae2EQjVFh-1)
+
+Use VA-icon `forum` for icon
 
 **Show link**
 - For users who have VA health care.
@@ -204,7 +206,7 @@ Use font awesome icon `comments` for icon
 
 **Accessibility specs** 
 
-[Accessibility annotation](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/y9ylJ8y)
+[Accessibility annotation](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A483&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
 - There should be an aria label associated with the inbox link **when there are unread messages**. If there are no unread messages, there does not need to be an additional aria label.
   - When a user has unread messages and therefore the dot shows, the aria label should say "Unread messages." and then read the title of the link after that: "Go to your inbox."

@@ -1,8 +1,8 @@
 ---
-name: Platform Infrastructure Issue
-about: For VA.gov Platform Lights Team
+name: Platform Infrastructure Services Issue
+about: For VA.gov Platform Infrastructure Services Team
 title: '[Product] Thing to be done'
-labels: platform-lights-team, Infrastructure-Services
+labels: Infrastructure-Services, needs-refinement
 assignees: ''
 
 ---
@@ -17,7 +17,6 @@ _What details are necessary to understand the work that this issue is tracking?_
 - [ ] _What will be created or happen as a result of this issue?_
 
 ## Refinement Guidance - Check the following before working on this issue: 
-- [ ] _Team label assigned ("platform-tech-team-2")_
 - [ ] _Epic assigned (if needed)_ 
 - [ ] _Estimated (points assigned)_
 - [ ] _Sprint assigned (once planned)_

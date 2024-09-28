@@ -120,25 +120,25 @@ The eBenefits Team will migrate this functionality from EBN to the modern front 
 
 - VA Executive Sponsor`*`: Paul Schute(?)
 - VA Policy Expert(s):
-- DEPO`*`: Steve Kovacs
-- Product Manager`*`: Jason Wolf
-- Design Lead: Shawna Hein
-- Eng Lead: Paul Short
+- DEPO`*`: TBD
+- Product Manager`*`: Jacob Worrell
+- Design Lead: TBD
+- Eng Lead: TBD
 - VA Web Comms Partner:
-- VA Contact Center Partner(s): Chante
+- VA Contact Center Partner(s): TBD
 - Production Testing Partner(s):
-- Designer(s): Jim Adams
+- Designer(s): TBD
 - Content Writer(s): None
 
 ### API Team
-- Product and Project: Jason Wolf
-- Front-end Engineer(s): Micah Chiang, Jesse Cohn
-- Back-end Engineer(s): Kathleen Crawford
+- Product and Project: Jacob Worrell
+- Front-end Engineer(s): TBD
+- Back-end Engineer(s): TBD
 
 ### Veteran Facing UX Team
 - Product and Project: Jason Wolf
-- Front-end Engineer(s): Micah Chiang, Jesse Cohn
-- Back-end Engineer(s): Kathleen Crawford
+- Front-end Engineer(s): TBD
+- Back-end Engineer(s): TBD
 
 
 `*` = approval required for launch

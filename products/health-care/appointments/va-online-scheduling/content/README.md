@@ -35,47 +35,70 @@ Appointments content is in the pages that follow and the [platform scheduling co
 | [VA Appointment Request](./appointment-details.md#va-requests)  | Request for a VA appointment |
 | [Community Care Appointment request](./appointment-details.md#community-care-requests) | Request for a community care appointment |
 
-## Schedule appointments flows
+## Schedule appointments
 
-| Flow | Page |
+### Start of scheduling flows
+
+| Step # | Page |
 |---|---|
-| All flows | [Choose a type of care](./schedule-all-flows.md#choose-a-type-of-care) |
-| All flows | [Choose a type of sleep care](./schedule-all-flows.md#choose-sleep-care) |
-| All flows | [Choose a type of eye care](./schedule-all-flows.md#choose-eye-care) |
-| All flows | [Choose location category](./schedule-all-flows.md#choose-location-type) |
-| All flows | [Choose a type of audiology care](./schedule-all-flows.md#choose-audiology-care) |
-| VA direct-schedule | [Choose a location](./schedule-va.md#choose-a-va-location) | 
-| VA direct-schedule | [Cerner location redirect](./schedule-va.md#endpoint---cerner-offboard-page) |
-| VA direct-schedule | [Choose a clinic](./schedule-va.md#choose-a-va-clinic) |
-| VA direct-schedule | [Choose a preferred date](./schedule-va.md#patient-indicated-date) |
-| VA direct-schedule | [Choose a date and time](./schedule-va.md#choose-a-date) |
-| VA direct-schedule | [Reason for appointment](./schedule-va.md#reason-for-appointment) |
-| VA direct-schedule | [Confirm contact information](./schedule-va.md#contact-information) |
-| VA direct-schedule | [Review and submit](./schedule-va.md#review-and-submit) |
-| VA direct-schedule | [Confirmation details](./appointment-details.md#confirmed-2) |
-| VA request | [Choose a day and time](./request-va.md#preferred-date) |
-| VA request | [Reason for appointment](./request-va.md#reason-for-appointment) |
-| VA request | [Method of attendance](./request-va.md#preferred-modality) |
-| VA request | [Confirm contact information](./request-va.md#contact-information) |
-| VA request | [Review and submit](./request-va.md#review-appointment-details) |
-| VA request | [Confirmation details](./appointment-details.md#confirmed) |
-| CC request | [Choose a day and time](./request-cc.md#preferred-date) |
-| CC request | [Closest city](./request-cc.md#nearest-city) |
-| CC request | [Choose a provider](./request-cc.md#request-a-provider-optional) |
-| CC request | [Choose a preferred language](./request-cc.md#choose-a-language) |
-| CC request | [Reason for appointment](./request-cc.md#reason-for-appointment) |
-| CC request | [Confirm contact information](./request-cc.md#contact-information) |
-| CC request | [Review and submit](./request-cc.md#review-appointment-details) |
-| CC request | [Confirmation details](./appointment-details.md#confirmed-1) |
-| VA direct-schedule COVID Vaccine | [Plan ahead](./schedule-va-covid.md#plan-ahead) | 
-| VA direct-schedule COVID Vaccine | [Received first dose screener](./schedule-va-covid.md#received-first-dose-screener) | 
-| VA direct-schedule COVID Vaccine | [End point: first dose received](./schedule-va-covid.md#end-point-dose-received-cant-schedule-online) | 
-| VA direct-schedule COVID Vaccine | [Choose location](./schedule-va-covid.md#vaccine---choose-location) | 
-| VA direct-schedule COVID Vaccine | [End point: no facilities online](./schedule-va-covid.md#end-point-no-facilities-online) | 
-| VA direct-schedule COVID Vaccine | [Choose a clinic](./schedule-va-covid.md#choose-a-clinic) | 
-| VA direct-schedule COVID Vaccine | [Choose a date](./schedule-va-covid.md#choose-a-date) | 
-| VA direct-schedule COVID Vaccine | [Second dose info](./schedule-va-covid.md#second-dose-info) | 
-| VA direct-schedule COVID Vaccine | [Contact information](./schedule-va-covid.md#contact-information) | 
-| VA direct-schedule COVID Vaccine | [Review and submit](./schedule-va-covid.md#review-and-submit) | 
-| VA direct-schedule COVID Vaccine | [Confirmation details](./schedule-va-covid.md#confirmation-details) | 
+| 1 | [Choose a type of care](./schedule-all-flows.md#choose-a-type-of-care) |
+| 1a | [Choose a type of sleep care](./schedule-all-flows.md#choose-sleep-care) |
+| 1b | [Choose a type of eye care](./schedule-all-flows.md#choose-eye-care) |
+| 1c | [Choose a type of audiology care](./schedule-all-flows.md#choose-audiology-care) |
+| 2 | [Choose VA or CC facility](./schedule-all-flows.md#choose-location-type) |
+
+### Direct schedule VA appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Choose a location](./schedule-va.md#choose-a-va-location) | 
+| 1a | [Cerner location redirect](./schedule-va.md#endpoint---cerner-offboard-page) |
+| 2 | [Choose a clinic](./schedule-va.md#choose-a-va-clinic) |
+| 3 | [Choose a preferred date](./schedule-va.md#patient-indicated-date) |
+| 4 | [Choose a date and time](./schedule-va.md#choose-a-date) |
+| 5 | [Reason for appointment](./schedule-va.md#reason-for-appointment) |
+| 6 | [Confirm contact information](./schedule-va.md#contact-information) |
+| 7 | [Review and submit](./schedule-va.md#review-and-submit) |
+| 8 | [Confirmation details](./appointment-details.md#confirmed-2) |
+
+### Request VA appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Preferred date](./request-va.md#preferred-date) |
+| 2 | [Reason for appointment](./request-va.md#reason-for-appointment) |
+| 3 | [Method of attendance](./request-va.md#preferred-modality) |
+| 4 | [Confirm contact information](./request-va.md#contact-information) |
+| 5 | [Review and submit](./request-va.md#review-appointment-details) |
+| 6 | [Confirmation details](./appointment-details.md#confirmed) |
+
+### Request community care appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Choose a day and time](./request-cc.md#preferred-date) |
+| 2 | [Closest city](./request-cc.md#nearest-city) |
+| 3 | [Choose a provider](./request-cc.md#request-a-provider-optional) |
+| 4 | [Choose a preferred language](./request-cc.md#choose-a-language) |
+| 5 | [Reason for appointment](./request-cc.md#reason-for-appointment) |
+| 6 | [Confirm contact information](./request-cc.md#contact-information) |
+| 7 | [Review and submit](./request-cc.md#review-appointment-details) |
+| 8 | [Confirmation details](./appointment-details.md#confirmed-1) |
+
+
+### Direct schedule COVID Vaccine appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Plan ahead](./schedule-va-covid.md#plan-ahead) | 
+| 2 | [Received first dose screener](./schedule-va-covid.md#received-first-dose-screener) | 
+| 2a | [End point: first dose received](./schedule-va-covid.md#end-point-dose-received-cant-schedule-online) | 
+| 3 | [Choose location](./schedule-va-covid.md#vaccine---choose-location) | 
+| 4 | [End point: no facilities online](./schedule-va-covid.md#end-point-no-facilities-online) | 
+| 5 | [Choose a clinic](./schedule-va-covid.md#choose-a-clinic) | 
+| 6 | [Choose a date](./schedule-va-covid.md#choose-a-date) | 
+| 7 | [Second dose info](./schedule-va-covid.md#second-dose-info) | 
+| 8 | [Contact information](./schedule-va-covid.md#contact-information) | 
+| 9 | [Review and submit](./schedule-va-covid.md#review-and-submit) | 
+| 10 | [Confirmation details](./schedule-va-covid.md#confirmation-details) | 
 

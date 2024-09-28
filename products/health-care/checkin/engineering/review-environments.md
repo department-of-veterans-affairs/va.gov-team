@@ -1,7 +1,7 @@
 ## Check-in Review Environments
 
 <aside>
-👉🏽 socks needs to be enabled to access any review environments. Please follow the instructions [here](https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html) to get access through and configure socks
+👉🏽 socks needs to be enabled to access any review environments. Please follow the instructions: https://depo-platform-documentation.scrollhelp.site/getting-started/Internal-tools-access-via-SOCKS-proxy.1821081710.html to get access through and configure socks
 </aside>
 
 ### Feature Toggles
@@ -32,6 +32,12 @@ curl -v --proxy socks5h://127.0.0.1:2001 http://<env_id>-api.review.vetsgov-inte
 or using insomnia (after adding socks proxy):
 
    ![Insomnia Settings](https://user-images.githubusercontent.com/1310524/162674005-bfe682b6-54e4-4685-8415-47b2c2120ddb.png)
+
+
+Note: vets-api in review instances runs in Rails 'development' mode, which means that [caching is disabled by default](https://github.com/department-of-veterans-affairs/vets-api/blob/5852e0abd98848aa89aaf0644b4588b90dfb554d/config/environments/development.rb#L26). To enable it (for session management etc):
+1. ssh into the host
+2. `docker exec` into the vets-api container,
+3. either run `rails dev:cache`, or `touch tmp/caching-dev.txt`
 
 
 ### vets-website PR branch to vets-api PR branch

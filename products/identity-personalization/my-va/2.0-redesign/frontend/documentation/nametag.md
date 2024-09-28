@@ -1,8 +1,8 @@
 # Nametag specs
 
-## Sketch Mockups
+## Figma Mockups
 
-- [Desktop & Mobile](https://www.sketch.com/s/bca53b50-8797-44fa-8c37-2b13c24c626c)
+- [Desktop & Mobile](https://www.figma.com/file/takD53OoltCjdlmGBwK3DH/Sketch-Archive---Authenticated-Experience?type=design&node-id=1%3A3755&mode=design&t=CREOF8xG3jKa75nz-1)
 
 ## When to show the nametag
 

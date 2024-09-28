@@ -68,7 +68,7 @@ There was a usability study conducted in June 2019 that included finding urgent 
 - Removing the location finder link from the navigation, and integrating it into the existing “Search” drop down similarly to how it has been integrated into the “Contact Us” drop down.
 
 ### Community Care Research
-There was a research study conducted around Community Care in May 2019. It can be found [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering/data/community-care)
+There was a research study conducted around Community Care in May 2019. It can be found [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/initiatives/2018-add-community-care)
 
 #### The following findings from the Community Care study are helpful to the Facility Locator Discovery research:
 - Veterans anticipate entering city or zip code and provider specialty criteria to establish a suitable set of results.

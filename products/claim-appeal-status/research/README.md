@@ -1,17 +1,5 @@
 # Claim Appeal Status Research
-Research efforts to be summarized here.
 
-- Previous research review - April 2020
+This is a collection of research conducted on the Claim Status Tool.
 
-- Competetive analysis - April 2020
-
-- Quantitative analysis May 2020
-
-- Co-design-session-and-usability-test - June 2020
- 
-- CST-social-listening - July 2020
-
-- Stakeholder-interviews - July 2020 
-
-
-
+Folders with the format `[year]-[month]-[feature-name]` are user research sessions we conducted with Veterans between 2022-2024.

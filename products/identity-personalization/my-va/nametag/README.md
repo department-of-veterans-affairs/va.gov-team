@@ -1,1 +1,1 @@
-## [Nametag documentation lives in the Profile folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/README.md). The nametag functions the same way in both the profile and My VA, as it is a shared element.
+## [Nametag documentation lives under the identity and personalization folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/nametag). The nametag functions the same way in both the profile and My VA, as it is a shared element.

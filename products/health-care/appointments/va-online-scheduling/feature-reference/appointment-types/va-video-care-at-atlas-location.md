@@ -28,6 +28,7 @@ See [Connected Care: VA and ATLAS](https://connectedcare.va.gov/partners/atlas)
 | Status: Past                                               |          | ✅    |          |
 | Status: Canceled                                           |          |      | ✅        |
 | Type of Care                                               | ✅        | ✅    | ✅        |
+| Provider Name                                              | 1          |  1    |  1       |
 | Modality                                                   | ✅        | ✅    | ✅        |
 | Joining Instructions                                       | ✅        |      |          |
 | ATLAS Location Name                                        | 1        | 1    | 1        |
@@ -35,11 +36,13 @@ See [Connected Care: VA and ATLAS](https://connectedcare.va.gov/partners/atlas)
 | Directions Link                                            | ✅        | ✅    | ✅        |
 | Appointment Code                                           | ✅        |      |          |
 | Provider Name                                              | ✅        | ✅    | ✅        |
+| [Instructions](../../../appointments-reference/data-reference/data-definitions.md#instructions-how-to-join): [Medication review](../../../appointments-reference/data-reference/data-definitions.md#medication-review---atlas)                            | ✅        | ?    | ?        |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 | Call to Reschedule Alert                                   | ✅        |      |
 
-1. ATLAS location name data should be included but is not currently available. - PR 11/20/2023
+Notes:
+1: 02/23/2024 - Requirement not yet met
 
 ## Specifications
 

@@ -8,7 +8,7 @@ The Lighthouse Claims API will retrieve a veteran's claim status information fro
 
 * The transactions costs around collaboration have been high, it has been difficult to conduct joint discovery to determine what opportunities there might be to expand the number of attributes available for the Claim Status Tool. As a result, the pace at which we can pursue valuable bets and iterate on the status experience has been greatly reduced. 
 * It is difficult to determine objective measures of application performance metrics related to the API calls being made. For example, metrics around latency are extremely limited.
-* When bugs or user pain points surface, it has sometimes been difficult to diagnose which team is in a position to diagnose and solve the problem. 
+* When bugs or user pain points surface, service improvement is often delayed because problem definition, root cause analysis, and implementation approaches requiring multiple teams to collaborate often get delayed due to process hurdles such as aligning roadmaps and seeking stakeholder approvals. 
 
 ## Desired User Outcomes
 - Veterans experience better application performance

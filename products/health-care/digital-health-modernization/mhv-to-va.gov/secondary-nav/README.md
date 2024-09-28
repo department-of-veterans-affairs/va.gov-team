@@ -142,7 +142,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Team Name: Cartographers (MHV on VAgov)
 - GitHub Label(s): Cartographers
 - Slack channel: mhv-on-vagov-cartography-team
-- Product POCs: Wesley Rowe (PM), Patrick Bateman (PO)
+- Product POCs: Wes Rowe (PM), Patrick Bateman (PO)
 
 </details>
 
@@ -151,9 +151,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
  
  - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - PM: Wes Rowe
+ - Engineering: Carlos Felix, Jim Zaccardo, Richard Davis, Daniel Cloud
+ - Research/Design: Florence McCafferty, Jonathan Nelson, Kat Brinkley, Sara Sterkenburg
  
 </details>
 

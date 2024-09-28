@@ -1,0 +1,32 @@
+name: Identity
+description: For writing OCTO Identity ickets
+labels: "Identity"
+projects:
+  - department-of-veterans-affairs/1137
+body:
+- type: textarea
+  attributes:
+    label: Issue Description
+    description: Describe the issue details
+    placeholder: Insert issue details here
+- type: markdown
+  attributes:
+    value: |
+      ## Issue Description
+      _Insert issue details here_
+      
+      ## Tasks
+      
+      ## Acceptance Criteria
+      - [ ] Documentation has been updated
+      - [ ] SiS docs have been updated
+      - [ ] Next steps have been determined and documented
+      - [ ] AC1
+      - [ ] AC2
+      
+      ## Appendix
+      
+      #### Product notes
+      
+      #### Tech notes
+

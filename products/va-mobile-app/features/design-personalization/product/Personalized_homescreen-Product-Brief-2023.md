@@ -11,7 +11,7 @@ This work is part of the [VA Mobile App - Personalization project](https://githu
 
 ### Current Experience
 
-The **VA Flagship mobile app** was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes). We have observed that research participants report that **they download the app to see if it can help them (but then don’t use it regularly)** and metrics indicate that **users who initially download the app do not actively use the app over time**. As a result, the VA mobile app may not be successfully **providing Veterans with a way to keep track of their activities across VA in a way that’s worth returning to**. 
+The **VA Flagship mobile app** was [designed to help Veterans who are actively engaged with VA health and benefits services to keep track of their tasks and interactions across VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/Product-Outline.md#desired-user-outcomes). We have observed that research participants report that **they download the app to see if it can help them (but then don’t use it regularly and/or don't have time to investigate what the app can do for them)** and metrics indicate that **users who initially download the app do not actively use the app over time**. As a result, the VA mobile app may not be successfully **providing Veterans with a way to keep track of their activities across VA in a way that’s worth returning to**. 
 
 Up to this point, the app has used a one-size-fits-all approach to the home screen that limits its perceived value to Veterans. In particular:
 
@@ -19,7 +19,7 @@ Up to this point, the app has used a one-size-fits-all approach to the home scre
 
 * Veterans don’t have a way to get a **quick overview of what VA is doing for them now or that something is needed from them** in order to keep things moving.
 * Veteran **expectations and understanding** of what they think they can do in the mobile app are **limited and often inaccurate** (they want something to help them, and to know if the app is that thing).
-* As the app adds more functionality or a Veteran gets more benefits from VA, Veterans have to do more work to complete tasks and find information related to them. 
+* As the app adds more functionality or a Veteran gets more benefits from VA, Veterans have to **do more work to complete tasks** and **find information related to them.** 
 
 We believe that these problems are making it more difficult for Veterans to realize how the app can help them which is resulting in **decreased user retention.**
 
@@ -82,7 +82,7 @@ Subsequent Personalization iterations will _**not**_ be limited to the home scre
 
 ### Metrics
 
-Measures of success are defined by an outcome with associated direct & proxy measurements. Additional details on how measures of success were determined are located [here](https://docs.google.com/document/d/1xa5d114xMp6Ls1x2KR904LUoAQ7tDGKZBiijE8MJRKc/edit)
+Measures of success are defined by an outcome with associated direct & proxy measurements. Additional details on how measures of success were determined are located in the [Data Project Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/data/data_project_plan.md)
 
 
 

@@ -62,12 +62,12 @@ In Fall 2023, a CEDAR team was hired to [digitize 15 forms](https://github.com/d
   - Latest PDF:  [Download VA Form 10-7959f-2](https://www.va.gov/vaforms/medical/pdf/vha-10-7959f-2.pdf) (PDF)
   - Expiration: 01/31/2024
   - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program)
-6.	*Power of Attorney form – VA Form 10-0137*
+6.	~*Power of Attorney form – VA Form 10-0137*~ [descoped 4/30/24](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/advance-directive/descoping-decision.md)
   - Latest PDF: [Download VA Form 10-0137](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-0137_FILL.pdf) (PDF)
   - Expiration: 04/30/2024
   - *This one requires special handling because it is a legal document that requires witnesses and notarization, and must be formally filed at a VA Medical Center. Need to work with stakeholder to understand what part we want to have digitized, and how we handle the subsequent steps - likely offline?*
   - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/advance-directive)
-7.	Release of Information (ROI) form – VA Form 10-5345
+7.	~* Release of Information (ROI) form – VA Form 10-5345 *~ [descoped]
   - Latest PDF:  [About form 10-5345](https://www.va.gov/find-forms/about-form-10-5345/)
   - Expiration: Not shown
   - *this one also requires special handling because we need to understand where it needs to be routed.*

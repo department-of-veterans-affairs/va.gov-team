@@ -1,4 +1,5 @@
 ## _THIS DOCUMENT IS IN PROGRESS_
+Note: CAIA is continuing this work in [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74785) as of March 2024.
 
 # Goal 
 Standardize form intro pages, taking into account the VA.gov style, voice, plain language, and accessibility standards. Share the defined content components, labels, and messaging for the intro page with designers so they have specific guidance when working on new forms. 

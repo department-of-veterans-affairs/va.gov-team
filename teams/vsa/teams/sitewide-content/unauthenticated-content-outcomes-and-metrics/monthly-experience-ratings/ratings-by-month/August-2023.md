@@ -1,8 +1,8 @@
 # Unauthenticated page experience ratings: August 2023
 
 ## Related overall scores
-- **Total customer satisfaction score:** (49.9% change from last period)
-- **Average resources and support good/bad experience score:** 
+- **Total customer satisfaction score:** 49.9 (0%change from last period)
+- **Average resources and support good/bad experience score:** 73% "good" experience rating overall (10,299 out of 14,107 total)
 
 ## Experience ratings (1 to 5 scale)
 

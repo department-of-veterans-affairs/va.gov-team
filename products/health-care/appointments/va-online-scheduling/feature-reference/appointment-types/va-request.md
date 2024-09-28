@@ -78,7 +78,7 @@ Data requirements table:
 **Alert UI**
 - [User flow](Add link)
 - [State template](Add link)
-- [State content](Add link)
+- [State content]()
 
 ## Technical design
 <!-- Endpoints and sample responses -->

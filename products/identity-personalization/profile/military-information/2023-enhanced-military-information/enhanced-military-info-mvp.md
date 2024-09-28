@@ -67,7 +67,7 @@ The online version of this form is being refreshed to match the paper version wh
 - Veteran 526 submissions will be more accurate if Veterans are able to at a minimum see what the VA has in their systems.
   
 ### Undesired Business Outcomes
-
+- veterans see incorrect data and do not have a way to update it on va.gov resulting in increased call volume
 
 ## Measuring Success
 
@@ -93,15 +93,14 @@ The online version of this form is being refreshed to match the paper version wh
 - [Mural for initial refinement](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
 - [Google Doc Project Outline](https://docs.google.com/document/d/1aiw0drerrscjmgDtRLEaLlwvl58ZvLSdKcE_K0XGLsE/edit)
 - [sensitive repo directory (contains stakeholder artifacts)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information)
-- QA Plan
-- Release plan
+
 
 ## Key dates
 
 - September 2023: Initial discussions; project kickoff
 - September-October 2023: Discovery
 - October 2023: Started collaborating with the 526 team; Decided on our MVP approach; Produced initial designs
-- November-December 2023: Build
+- November-December 2023: research prep
 
 
 ## Key decisions

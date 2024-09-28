@@ -64,7 +64,31 @@ Updated 6/12/23 - Updates to entry points and redirects
 **2) [Disability > How to file > Additional forms page](https://www.va.gov/disability/how-to-file-claim/additional-forms/)
 - Add link to the supporting form landing page in a new section for related links at the bottom of the page
 
- 
+3. **[The VA claim process after you file your claim](https://www.va.gov/disability/after-you-file-claim/)** - Add
+  - Placement description: Add under "More information about disability ratings and payments" section
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/
+  - Notes: We are adding this link in the disability hub as a general way to look for supporting forms rather than crosslinking specific forms. This was kicked off after exploring crosslinking opportunities for form 20-10207. We will be adding a link to the supporting forms page both under "how to apply" pages and "after you apply". We want to follow a pattern where the supporting form page is listed lower under "more info" on "how to apply" pages and higher under "more info" section on "after you apply" pages. As noted above, the ["how to file a VA disability claim" page](https://www.va.gov/disability/how-to-file-claim/) already has a link to supporting forms page under "More information about filing disability claims", but will want to update the description. 
+
+<img width="550" alt="About VA Form 20-10207" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/76a924ee-f073-4e65-b3b0-bb6406e756fc">
+
+
+4. **[How to apply for a VA pension as a Veteran](https://www.va.gov/pension/how-to-apply/)** - Add
+  - Placement description: Add under "Other pension benefits" component, 3rd option down
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/request-priority-processing-form-20-10207
+  - Notes: There isn't a "after you apply" page in the pension hub
+
+<img width="550" alt="About VA Form 20-10207" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/4e7d6035-8ab8-449b-98f5-1cda36889661">
+
+5. **[VA Survivors Pension](https://www.va.gov/pension/survivors-pension/)** - Add
+  - Placement description: Add under "More information for survivors" component
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/request-priority-processing-form-20-10207
+  - Notes: There isn't a "after you apply" page in the pension hub for Survivors pension either
+
+<img width="550" alt="About VA Form 20-10207" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/14daf94b-cf20-4e54-bd6f-ddf562ff50e1">
+
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  

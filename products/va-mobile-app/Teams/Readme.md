@@ -1,8 +1,14 @@
-| Mobile Team | Team Category| PM | Team | Focus | Team Ticket Label | Other Info |  Slack Channel 
-| ------------| ----| ----| -----| -----| -------------| -----------|--------| 
-| Health and Benefits | Flagship | Alayna Abell (fully onboarded 1/22/24) | Kris (FE), Dylan (FE), Lauren (UX) | | Health |  Team starting 1/22; in the mean time will fill in work per convo with Tim with bugs, code upkeep, react native given no remaining Q4 Health Work | va-mobile-health-benefits|
-| Global | Flagship | Ameet Sarkar | Holly (UX), Jon (FE), Theo (FE), Chika (FE), Liz (Research), Misty (Content), Brea (UX - Accessibility), Greta (Data) | Features that affect the entire app or all users | global | started Sprint 84  | va-mobile-global|  
-| Design System  | Shared Services |Kelly Lein | Narin (FE). Tim Roettger (FE), Jessica Woodin (UX) | Developing standards and design systems within the app. Work identified here will be implemented by the releveant flagship team. Not anticipating any production to be made by this team. | | Ongoing since Q3 but modifying starting Sprint 86 | va-mobile-app-design-system |
-| API  |Shared Services | Stacy Blackwood | Jayson (BE), Kris (BE) | Team focuses on back-end engineering needs for other Mobile teams including integration, updating existing APIs due to upstream changes, etc  | | Starting Sprint 86 | va-mobile-api-engineering
-| QA and Release   | Shared Services| Adam Kasmier |Therese (QA for Global), Tom (QA for Health and Benefits), Rachael (QA for Design System / API/ floater), DevOps (not yet hired) | Bug ticket scrubbing, release management, release testing, ticket testing and validation  | QA and Release | Starting SPrint 86 | va-mobile-app-qa| 
-| Veteran Status Contract Team | External |  Matt Reilly | Cara Frissell, Courtney Stubbert, Liz Townsend,   | Veteran Status Contract work managed by Seth with PO's Rachel and Ryan. Dev work managed by Tim Wright|  veteran-status| Mobile team not provided direction on how to support this team when instructed to break into teams. Re-followed up with Seth / Tim on 12/6 via slack and no update | va-mobile-veteran-status-id | 
+# VA Health and Benefits Mobile App Core Team
+
+![VA Health and Benefits Team Org Chart](https://github.com/user-attachments/assets/561d3d76-351f-45b3-a89c-924c8bd3c5d3)
+
+
+## VAHB Team Details
+
+| Mobile Team | PM | Team | Focus | Team Ticket Label
+| ------------| ---| -----| ------| -----------------
+| Health and Benefits | Alayna Abel | Chris (FE)<br> Dylan (FE)<br> Lauren (UX)<br> | Maintaining all Health and Benefit Features within VAHB App and coordinating with VA on new features | `Health`, `benefits`
+| Global | Ameet Sarkar | Holly (UX)<br> Jon (FE)<br> Theo (FE)<br> Chika (FE)<br>Megan (Research)<br> Misty (Content)<br> Brea (UX - Accessibility)<br> Victor (Data)<br> | Features that affect the entire app or all users and expertise shared across the core mobile team | `global`
+| Design System | Kelly Lein | Narin (FE)<br> Tim R (FE)<br> Jessica (UX)<br> | Define and standardize visual elements to be used by teams engaging in the VAHB App  | `design-system`
+| API | Stacy Blackwood | Jayson (BE)<br> Kris (BE)<br> Andrew (BE)<br> Jason C (BE) | Team focuses on back-end engineering needs for other Mobile teams including integration, updating existing APIs due to upstream changes, etc  | `API team` |
+| QA and Release | Adam Kasmier | Therese (QA for Global)<br> Tom (QA for Health and Benefits)<br> Rachael (QA for Design System / API / floater)<br> Charnelle (DevOps)<br> | Bug ticket scrubbing, release management, release testing, ticket testing, test engineering and validation  | `QA and Release`

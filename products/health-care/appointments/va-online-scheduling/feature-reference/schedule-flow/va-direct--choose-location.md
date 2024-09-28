@@ -17,21 +17,28 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 - Display all facilities where:
     - They are associated with a VistA site where the user is registered
     - The location has request and/or direct scheduling enabled in CCM  for the selected type of care
-    - The facility classification is one of the following: 1) Multispecialty CBOC 2) Other Outpatient Services 3) Primary Care CBOC or 4) VA Medical Center (VAMC) 4) Health Care Center (HCC).  
+    - The facility classification is one of the following:
+      - Multispecialty CBOC  
+      - Other Outpatient Services  
+      - Primary Care CBOC or VA Medical Center (VAMC)
+      - Health Care Center (HCC).  
 - If a user only has one facility that supports online scheduling for the chosen type of care, this page will show that facility without radio buttons.
 
-**Allow user to sort facilities**
+**Display and sort multiple facilities**
 - If multiple facilites are shown and the user has a residential address in VA Profile:
-   - VAOS may only display a set number of facilities at time.
-   - A link must display to show any other locations if more locations are available.  
-  - Show facilities sorted by distance from that address.
-  - The user can choose to sort the facilities by how close they are to their current (browser) location instead of residential address.
-  - Show the distance to the facility in miles.
-    - Calculate the distance as a straight line between the Veteran's residential address or location and the facility address.
-    - Facilities that are within 100 miles of the residential address or current location and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options. 
-- If the user does not have a residential address, show the facilities in alphabetical order.
-   - An option to update residential address is available
-
+    - By default, show facilities sorted by distance from the user's address.
+    - The user has the option to sort by their current (browser) location.
+        - Calculate the distance as a straight line between the Veteran's residential address or location and the facility address.
+    - The user has the option to sort the list alphabetically
+    - If the user doesn't have a residential address:
+       - The option to sort by distance does not display in the list
+       - The list is sorted alphabetically by default
+       - An option to update residential address is available 
+    - Show the distance to the facility in miles.
+    - Display a set number of facilities at time.
+    - A link must display to show any other locations if more locations are available.
+    - Facilities that are within 100 miles of the residential address or current location and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options.  
+  
 **Redirect user to Cerner**
 - If the user is registered at a Cerner site, facilities in that site are always shown on this page and include a link to the Cerner portal below the radio button
 - If a user choose a Cerner facility and clicks Continue, they're sent to the schedule Cerner page
@@ -43,7 +50,7 @@ Veterans are asked to choose where they'd like to receive the type of care they 
     - If the user is not eligible for either path, they're shown a message explaining why.
 - **For the direct scheduling path**, there are four potential checks:
     1. Does the facility support direct scheduling?
-    2. Does the veteran have a recent enough visit?
+    2. Does the veteran have a recent enough visit? (See note below)
         - This can be set to 12 or 24 months, or disabled
         - This check does not apply for primary care
     3. Are there available VistA clinics for this facility and type of care?
@@ -63,6 +70,11 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 
 See also [VA facility page data sources](../backend-logic.md#va-facility-page-data-sources)
 
+#### Notes
+
+**Why can Veterans only self-schedule into clinics that they've been seen at within the last 24 months?**
+- Many facility + care type combinations have an overwhelming numbr of clinic options. Furthermore, many of these clinics are confusing to Veterans, because they're not consistently named in a way that's useful to Veterans or even written in plain english.
+- Certain clinics have specific uses that aren't obvious to Veterans (for example, for new patients only), so opening up all available clinics for self-scheduling for everyone results in many canceled or rescheduled appointments.
 
 ### Non-functional
 

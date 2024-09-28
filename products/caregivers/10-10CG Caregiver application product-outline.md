@@ -1,8 +1,6 @@
 # Caregivers Product Outline
-- GitHub Label: 1010-team
-- Slack channel: #1010-health-apps
-- VA.gov link: https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction
-- Product POCs: Heather Justice
+---
+- [10-10CG - Zero Silent Failures checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Endpoint%20Monitoring%20&%20Zero%20Silent%20Failures/10-10CG%20Zero%20Silent%20Failures%20checklist.md)
 ---
 
 ### Table of Contents

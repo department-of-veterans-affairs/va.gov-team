@@ -1,0 +1,3 @@
+- This section is to house documentation for new features we are building that extend or enhance the overall product functionality, building on what is described in our core [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product).
+- We will host smaller-sized "feature outlines" here that can serve as a reference for stakeholder coordination, such as with Collaboration Cycle.
+- These are features that can typically be worked within a quarter (or program increment) rather than a larger-sized initiative extending multiple quarters (e.g. plain language triage group enhancements to Select list). 

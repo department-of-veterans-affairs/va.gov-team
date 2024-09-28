@@ -9,9 +9,9 @@ A complete product guide will include the following:
 ## **Important Items/Notes:**
   
   - Use a Title Page. Ideally with VA logo, issuing department, product guide name, product guide edition, and launch date.
-  - Please be consistent with use and font sizes of headers, subheads, figure captions, and in-text references to figures. 
+  - Please use Arial font only and be consistent with font sizes of headers, subheads, figure captions, and in-text references to figures. 
   - Regarding figure captions and in-text references, use 9-point italic for figure captions ONLY, and bookmark them for the Clickable Table of Figures (see below).
-  - Figure caption example: "_Figure 1. This is a caption._" 
+  - Figure caption example: "_Fig. 1. This is a caption._" 
   - Figures must always be referenced in the body text in regular font size, linked to the appropriate bookmarked figure caption.
   - Figures should be of the highest resolution possible, then cropped as needed. 
 

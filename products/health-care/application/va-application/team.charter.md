@@ -37,16 +37,16 @@ Health Products
 - Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com / GH "alexseelig" - Product manager
 - Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com / GH "emily-brown34" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
-- Angela Agosto | angela.agosto@va.gov / angela.agosto@adhocteam.us / GH "aagosto" - UX Design/Research
-- Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com / GH "katelyncai" - UX Design/Research
+- Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research
+- Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design/Research
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
 - Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com / GH "mkerns1" - Frontend Engineer
-- Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com / GH "jadon1979" - Full Stack Engineer
-- Lihan Li | han.li@va.gov / lihan@adhocteam.us / GH "lihanli" - Backend Engineer
+- Derrick Ellerbie | derrick.ellerbie@va.gov / derrick.ellerbie@Agile6.com / GH "dellerbie" - Full Stack Engineer
 - Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" - Full Stack/Backend focus Engineer
-- Fletcher Bonds | VA EMAIL TBD / fletcher.bonds@adhocteam.us / GH "fbonds" - Sr Engineer/QA
+- Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH TBD - Full Stack Engineer
 - Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi" - Sr Data Analyst
+- Allan To | allan.to@va.gov / allan.to@adhocteam.us / GH "allanto-ah" - QA Engineer
 
 ---
 
@@ -94,7 +94,7 @@ Create, review, estimate, and prioritize backlog items.
 **Labels to use**
 - All tickets should include:
      - 1010-team
-     - Product: Either 1010-ez or 1010-cg
+     - Product: 1010-ez
 - EZ initiative labels (examples)
      - 1010-short-form
      - 10-10ez-notifications
@@ -191,28 +191,28 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 
 ## VA relationships
 
+**OCTO-DE**
 - Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
 - Patrick Bateman | patrick.bateman@va.gov - Product Owner
-- Kristen McConnell | kristen.mcconnell@va.gov - UX Lead
+- Lois Lewis | lois.lewis2@va.gov - UX Lead
 - Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
 - Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
 - Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
 - Danielle Thierry | danielle.thierry@va.gov - Content writer
 
 **HEC (Health Eligibility Center) Program Team**
-- Jennifer Mdoe | jennifer.mdoe@va.gov -- Program Analyst, ESO - Main POC
+- Bryan Burgan | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
 - Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
 - Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
-- Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
 - Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
 - Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
 - Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
 - Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
 - Annie Rice | Annie.Rice@va.gov -- Contact Representative office
-- Shana Watson | shana.watson@va.gov
-- Simone Gully | simone.gully@va.gov
-- Amanda Scully | amanda.scully@va.gov
+- Shana Watson | shana.watson@va.gov -- Member Services SME
+- Simone Gully | simone.gully@va.gov -- Member Services SME
+- Amanda Scully | amanda.scully@va.gov -- Member Services SME
 
 **Enrollment System (ES)**
 - Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)

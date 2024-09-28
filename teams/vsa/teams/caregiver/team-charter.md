@@ -24,8 +24,9 @@ Improve the experience of Veterans when applying for VA health care benefits
 Health Products 
 
 ### Product Portfolio:
-- [Online family caregiver application](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/)
-- [Online VA health care application](https://www.va.gov/health-care/apply/application/introduction)
+- [Online family caregiver application](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
+- [Online VA health care application](https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
+- [Online VA health benefits update form](https://www.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
 
 ---
 
@@ -36,26 +37,69 @@ Health Products
 - Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com / GH "alexseelig" - Product manager
 - Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com / GH "emily-brown34" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
-- Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto" - UX Design/Research
-- Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com / GH "katelyncai" - UX Design/Research
+- Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research
+- Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design/Research
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
 - Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com / GH "mkerns1" - Frontend Engineer
-- Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com / GH "jadon1979" - Full Stack Engineer
-- Lihan Li | han.li@va.gov / lihan@adhocteam.us / GH "lihanli" - Backend Engineer
+- Derrick Ellerbie | derrick.ellerbie@va.gov / derrick.ellerbie@Agile6.com / GH "dellerbie" - Full Stack Engineer
 - Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" - Full Stack/Backend focus Engineer
-- Fletcher Bonds | VA EMAIL TBD / fletcher.bonds@adhocteam.us / GH "fbonds" - Sr Engineer/QA
+- Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6" - Full Stack Engineer
 - Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi" - Sr Data Analyst
+- Allan To | allan.to@va.gov / allan.to@adhocteam.us / GH "allanto-ah" - QA Engineer
 
 
-### OCTO-DE team
+### VA relationships
+
+**OCTO-DE**
 - Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
 - Patrick Bateman | patrick.bateman@va.gov - Product Owner
-- Kristen McConnell | kristen.mcconnell@va.gov - UX Lead
+- Lois Lewis | lois.lewis2@va.gov - UX Lead
 - Katherine Lawyer | katherine.lawyer@va.gov - Product Owner
 - Mark Dewey | mark.dewey@va.gov - Engineering Product Owner
 - Stephen Barrs |stephen.barrs@va.gov - Engineering Product Owner
-- Danielle Thierry | danielle.thierry@va.gov - Lead Content writer
+- Danielle Thierry | danielle.thierry@va.gov - Content writer
+
+**HEC (Health Eligibility Center) Program Team**
+- Bryan Burgan | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
+- Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
+- Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
+- Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
+- Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
+- Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
+- Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
+- Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
+- Annie Rice | Annie.Rice@va.gov -- Contact Representative office
+- Shana Watson | shana.watson@va.gov -- Member Services SME
+- Simone Gully | simone.gully@va.gov -- Member Services SME
+- Amanda Scully | amanda.scully@va.gov -- Member Services SME
+
+**Enrollment System (ES)** (End-to-End Testing POCs)
+- Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
+     - Primary contact for ES testing (end2end)
+- Ramya Venkataraman |ramya.venkataraman@va.gov - SQA Test Lead, Enrollement system
+     - Secondary contact for ES testing
+- Reetu Dhanda |reetu.dhanda@va.gov - SQA Test Engineer (VES PACT Act scrum team)
+- Turkan Kasamanly |turkan.kasamanli@va.gov - Test Automation Engineer (VES PACT Act scrum team)
+
+---
+**Caregiver Program Business Unit Team**
+- Matt Brown | Matthew.Brown4@va.gov  -- Assoc. Director (leads  the relationship between the program and VA.gov)
+- Tiffany Puckett | Tiffany.Puckett@va.gov  -- Health System Specialist
+- Tamara Scott | tamara.scott@va.gov  -- Social Worker: Caregiver Support Program
+- Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
+- Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
+- Drew DeRocco  | drew.derocco@va.gov -- PMO, scheduling
+
+**CARMA team/MuleSoft.Salesforce team** (End-to-End Testing POCs)
+- Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
+- Ramesh Dugar | ramesh.dugar@va.gov - CARMA engineer
+- David Wald | David.Wald@va.gov - testing/integration lead
+- Ranganathan Vekataraman | Ranganathan.Vekataraman@va.gov - CARMA engineer
+- Igor Khurgin | igor.khurgin@va.gov - CARMA engineer
+- Marla Clayton | marla.clayton@va.gov - Technical Project Manager CARMA
+- Mili Riddout | mili.riddout@salesforce.com - CARMA point of contact
+- Slack channel | #vecms-carma_vadotgov_development_external
 
 ---
 
@@ -99,11 +143,12 @@ Create, review, estimate, and prioritize backlog items.
 - Anyone on the team can create a(n) issue/ticket/story. 
 - All teammates are responsible for keeping them up to date.
 - Templates are available within the new issue/ticket/story during creation - Pick one you like!
+- The [Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/1010-Epic-template.md) will be used to include the high-level details and a task list that will convert into stories
 
 **Labels to use**
 - All tickets should include:
      - 1010-team
-     - Product: Either 1010-ez or 1010-cg
+     - Product: Either 1010-ez, 1010-ezr or 1010-cg
 - EZ initiative labels (examples)
      - 1010-short-form
      - 10-10ez-notifications
@@ -115,19 +160,13 @@ Create, review, estimate, and prioritize backlog items.
      - legal-rep
      - MuleSoft
      - 1010 primary/secondary
-     - facilities-1010
-
-- We use epics to represent user stories. For an epic to go into the **"Epic"** column, it should have:
-    - Clear acceptance criteria
-    - Definition of done  
-    - A user story that reflects the benefit to a Veteran, Caregiver, or other user
-    - Been broken up into discreet tasks/Github tickets that are attatched to the epic
-    - All components/steps have been accounted for in the epic
-    - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
+     - facilities-cg
+- EZR initiative labels (examples
+     - toxic-exposure
 
 - Naming convention for tickets/stories/tasks
-    - [area of work] Epic/Initiative: Brief title of work to be done
-    - _Example_: [FE] 1010EZ Shortform: Change accordian alert to expandable alert
+    - [area of work] FormID - Epic/Initiative: Brief title of work to be done
+    - _Example_: [FE] 10-10EZ - Shortform: Change accordian alert to expandable alert
 
 **Epics** should include:
    - Clear acceptance criteria
@@ -188,7 +227,7 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 - This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
 #### GitHub
-- GitHub is the single source of truth. All work is documented for tracking and capacity planning.
+- GitHub is the single source of truth. All work is documented for tracking and planning.
 
 #### PTO
 - We will respect time off and understand that mental, physical, and personal health is the top priority for team members
@@ -196,4 +235,4 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
-- Extra time? Explore the "Ready to pickup" column in [ZenHub](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).
+- Extra time? Explore the "Refined & Prioritized" column in [GitHub](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/board).

@@ -33,3 +33,60 @@ We would like to move the refresh to the VA.gov login process, so that informati
 ### More Info ###
 
 For more information on what happens in the backend when PHR refresh is initiated, see [this document](https://department-of-veterans-affairs.github.io/mhv-fhir-phr-mapping/background.html#general-processing-of-clinical-resources).
+
+### Sequence Diagram ###
+# TODO
+- [ ] Add redis and 1 hour refresh data rule
+- [ ] confirm current diagram is correct
+- [ ] add `/session` call
+- [ ] ???  
+
+```mermaid
+sequenceDiagram
+	autonumber
+	participant VW as vets-website
+	participant VA as vets-api
+	participant MHVAPI as MHV API
+	participant FHIR as MHV HAPI<br />FHIR Server
+	loop Every 2 seconds on 202 response
+		VW->>VA: GET /allergies
+		alt PHR refresh not called in the last 3600 seconds
+			VA->>MHVAPI: POST /refresh/{icn}<br/>async Sidekiq job
+			MHVAPI->>FHIR: Create patient record
+		end
+		alt Patient record doesn't exist in FHIR
+			VA->>FHIR: GET /Patient
+			FHIR-->>VA: HTTP 500 "HAPI-1363: Either No patient<br />or multiple patient found"
+			VA-->>VW: HTTP 202 ACCEPTED
+		else Patient record exists in FHIR
+			alt Patient record not loaded in session
+				VA->>FHIR: GET /Patient
+				FHIR-->>VA: HTTP 200 Patient
+			end
+			VA->>FHIR: GET /AllergyIntolerance
+			FHIR-->>VA: HTTP 200 AllergyIntolerance
+			VA-->>VW: HTTP 200 AllergyIntolerance
+		end
+	end
+```
+
+```mermaid
+sequenceDiagram
+	autonumber
+	participant VW as vets-website
+	participant VA as vets-api
+	participant MHVAPI as MHV API
+	participant FHIR as MHV HAPI<br />FHIR Server
+	VW->>VA: GET /allergies
+	Note over VW,VA: See other diagram<br />for this interaction
+	loop Every 2 seconds while data is stale
+		VW->>VA: GET /status
+		VA->>MHVAPI: GET /status/{icn}
+		MHVAPI-->>VA: HTTP 200 status obj.
+		VA-->>VW: HTTP 200 status obj.
+	end
+	alt Allergy lastSuccessfulUpdate has changed from stale to current
+		VW->>VA: GET /allergies
+		Note over VW,VA: See other diagram<br />for this interaction
+	end
+```

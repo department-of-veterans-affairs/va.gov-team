@@ -10,7 +10,7 @@
 <br>
 
 ## Feature background
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/Submit%20Feedback%20Tool-%20Medalia%20for%20Articles.md)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2022-02-submit-feedback-tool/initiative-brief-submit-feedback-tool.md)
 
 - [Existing feature -  'How do you rate' Page Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14579)
 

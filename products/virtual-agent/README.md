@@ -5,25 +5,40 @@ This repository contains research, documentation and diagrams for the VA Chabot.
 In case of a DDOS attack or inaprropriate use of the VA Chatbot, disable the `virtual_agent_token` toggle in flipper/features to block new connections to webchat. When the endpoint is healthy again, you can enable the `virtual_agent_token` toggle.
 
 ## Team ##
-<img width="845" alt="Screenshot 2023-10-25 at 11 34 28 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98479064/d9a862f2-d541-452d-9b0a-91b94ec0a31d">
+<img width="1225" alt="Screenshot 2024-09-18 at 9 38 15 AM" src="https://github.com/user-attachments/assets/c565d405-d5a8-4958-a15a-2d845547f588">
+
+
 
 
 - Product Owner (VES): Nathalie Rayter
 - Product Owner (OCTO-DE): Luciana Morais
-- Tech Lead: Karan Krishnani
-- Project Manager: Zinal Patel
-- Product Manager: Joy Elizabeth
-- Quality Analyst: Swapna Krishnankutty
-- Business Analyst: Kathy Cui
+- Tech Lead: Anita DeWitt (Accessibility Champion)
+- Product Manager: Vrushali Patil
+- Quality Analyst: Nitheesha Karnati 
+- Project Manager: Christina Schuler 
+- Data Scientist: Nicola Guo 
 - UX Designer: Matt Terwilliger
-- US Digital Corps Fellow, Product Manager: Ryan Powers
-- Data Scientist: Shiva Omranisabbaghi
-- Developer: Aaron Young
 - Developer: Alex Person
 - Developer: Alexander Mendoza
-- Developer: Anita DeWitt (Accessibility Champion)
+- Developer: Nicholas Herndon
+- Developer/Data Engineer: Devi Peruri 
+- Developer/Tech Anchor: Samreen Zarroug
+
+Past: 
+- Tech Lead: Karan Krishnani
+- Project Manager: Zinal Patel
+- Developer: Raina Heurta
+- Developer: Aaron Young
 - Developer: Evan Ubiera
 - Developer: Maurice Okumu
-- Developer: Nicholas Herndon
-- Developer: Raina Heurta
-- Developer: Samreen Zarroug
+- Data Scientist: Shiva Omranisabbaghi
+- US Digital Corps Fellow, Product Manager: Ryan Powers
+- Quality Analyst: Swapna Krishnankutty
+- Business Analyst: Kathy Cui
+
+
+
+
+
+
+

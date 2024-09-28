@@ -11,8 +11,8 @@ For LOA3 users who sign in and have a claim or appeal that has been closed withi
 - Once a claim or appeal has been closed for longer than 60 days, the status card will no longer show on My VA.
 - Uses the [card component](https://design.va.gov/components/card) from the VA design system.
 - They will also see links to “Learn how to file a claim” which links to [a page about how to file a disability claim](https://www.va.gov/disability/how-to-file-claim/), as well as "Manage all claims and appeals" which links to the [claims tool](https://www.va.gov/claim-or-appeal-status/) where they can view a list of all past claims.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/47848588-D962-4ED8-8936-3B496E7F7C54)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/54A44752-3361-4BE7-891D-0116F56C690B)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A384&mode=design&t=ZhUs1Oeae2EQjVFh-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A869&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
 ## How to reproduce
 

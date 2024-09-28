@@ -57,3 +57,8 @@ This table reflects current information as of 9/14/2023
 
 ### Implement feature toggles
 The authenticated experience team will leverage feature toggles for each email notification so we have ultimate flexibility with displaying and hiding notification items as needed to support the migration of MHV notifications
+
+
+## Additional items learned after this meeting 
+We originally believe there was a cost to leveraging the text features, there in fact is not. [See this thread
+](https://dsva.slack.com/archives/C010R6AUPHT/p1718202532112719?thread_ts=1716464232.905489&cid=C010R6AUPHT)

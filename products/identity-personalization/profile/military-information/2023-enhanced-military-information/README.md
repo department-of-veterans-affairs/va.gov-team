@@ -1,9 +1,8 @@
 # Initiative outline: Enhanced Military Information
 
-`DRAFT`
+**Last Updated: 8/5/24**  
 
-**Last Updated: 12/6/2023** updated ToC
-
+`based on research we decided not to proceed w this work`
 
 ## Table of Contents 
 
@@ -51,6 +50,20 @@ Expansion of the military information available on VA.gov will focus on the thre
 - Linking to ILER Records
 - Allowing for edits/updates to ILER records
 
+### Original request
+
+These are the details of the original request from Trish Dang and Melissa Rebstock, on behalf of the VA/DoD folks who are working to figure out how we can meet the letter of the law with PACT Act requirements:
+
+1. Expose the following additional data points on VA.gov: 
+  - Dates of deployment and branch(es) of service (note: we already show this)
+  - Units with which the veteran served
+  - Deployment locations, and start/end dates
+  - Military occupational specialties
+  - Training courses
+  - Military awards and decorations
+2. Link to a PDF copy of someone's ILER record.
+3. Provide guidance on how to update the record if it is incomplete. The exact flow for this is still being determined, but MVP is likely providing a number for folks to call.
+Over time, we can work to expand/improve this experience, but this should meet legal requirements so VA is in compliance with the congressional mandates set forth in the 2019 NDAA and PACT Act.
 
 ## MVP 
 The scope of those three things is expansive. With that in mind we're using the 526EZ form to inform our initial focus to the items that will most likely assist veterans when completing the 526EZ. 
@@ -60,7 +73,7 @@ The 526EZ electronic form is expanding to incorporate additional questions relat
 
 ## Problem Statement
 
-We know veterans use various documents to piece together their military history when applying for benefits. Many use a copy of their DD214, but not all data required is available. Some use a PDF printout of their ILER record. Again, this isn't without issues as the data can be confusing and isn't organized in teh b
+We know veterans use various documents to piece together their military history when applying for benefits. Many use a copy of their DD214, but not all data required is available. Some use a PDF printout of their ILER record. Again, this isn't without issues as the data can be confusing and isn't organized in a way for easy comprehension.
 
 - As a Veteran, I want to see what information VA has about my military history, and to be able to correct it if it is inaccurate.
 - As a Veteran, I want to know if I served in an area where I may have been subject to toxic exposure, as this might mean I am available for additional disability compensation under PACT Act.
@@ -76,9 +89,9 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 ## Proposed Solution/Phases
 
-|Phase|Short Description (w/link)|Details|
+|Phase|Outlines |Details|
 |:-:|---|---|
-|1 / MVP|[Read Access for 526EZ Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-mvp.md)||
+|1 / MVP|[Read Access for 526EZ Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-mvp.md)|we're in this phase, a readout to veo was presented where we detailed the lack of data quality|
 |2 |[Read Access for Additional Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-additional-read-access.md)||
 |3 |[ILER Read Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-iler-read-access.md)||
 |4 |[ILER Edit/Update Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enahnced-military-info-iler-edit.md)|Thinking of this as not updating ILER but a link to a form for initiating an DoD data correction|
@@ -102,11 +115,10 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 ## Key deliverables / artifacts
 
-(This is just a starting list. Feel free to add whatever is relevant here.)
-
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
 - [Mural refinement ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
 - [sensitive repo directory (contains stakeholder artifacts)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information)
+- [research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery)
 
 
 ## Key dates
@@ -116,9 +128,11 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 - October 2023: Started collaborating with the 526 team; Decided on our MVP approach; Produced initial designs
 - November-December 2023: Build
 - November 2023: Created phase specific project outline for MVP work
+- March 2024: Gave the readout and decided not to pursue this work
 
 
-## Design
+## Design / research 
 
-[Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+- [Profile military information Figma files](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=10%3A6355&mode=design&t=ITOJ8kb0R5q1NIdj-1)
+- [research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-military-info-discovery)
    

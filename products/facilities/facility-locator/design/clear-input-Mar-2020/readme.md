@@ -14,7 +14,7 @@ A clear input button would allow clearing the input with clicking of an icon.
 
 ## Research:
 - [Mural board with reference examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/design/clear-input-Mar-2020/Clear-Input.pdf) 
-- [Comparative analysis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/map-enhancements/map-comparative-analysis/map-comparative-analysis-spreadsheet.pdf)
+- [Comparative analysis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2021-map-enhancements/map-comparative-analysis/map-comparative-analysis-spreadsheet.pdf)
 
 ## PROPOSED DESIGN
 

@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /ping
+**Path**: /ask_va_api/v0/ping
 
 **Parameters**:
 * ?organizationName=[env]

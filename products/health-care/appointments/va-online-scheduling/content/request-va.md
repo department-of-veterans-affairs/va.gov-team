@@ -4,9 +4,7 @@
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/va-request`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/request-date`
+URL: `https://va.gov/my-health/appointments/schedule/va-request`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -41,9 +39,7 @@ Choose your preferred date and time for this appointment. You can request up to 
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/va-request/reason`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/reason-appointment`
+URL: `https://va.gov/my-health/appointments/schedule/va-request/reason`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -90,9 +86,7 @@ Please provide any additional details you'd like to share with your provider abo
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/va-request/preferred-method`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-visit-type`
+URL: `https://va.gov/my-health/appointments/schedule/va-request/preferred-method`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -129,9 +123,7 @@ Please let us know how you would like to be seen for this appointment. (*Require
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/va-request/contact-information`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/contact-info`
+URL: `https://va.gov/my-health/appointments/schedule/va-request/contact-information`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -213,9 +205,7 @@ Please enter a valid email address
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/va-request/review`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/review`
+URL: `https://va.gov/my-health/appointments/schedule/va-request/review`
 
 Page title: `[Page Header] | Veterans Affairs`
 

@@ -1,37 +1,39 @@
 # 530 Application for Burial Benefits
 
-[Staging Link](https://staging.va.gov/burials-and-memorials/application/530/introduction)
+[v1 Staging Link](https://staging.va.gov/burials-and-memorials/application/530/introduction) (current form)
+
+[v2 Staging Link](https://staging.va.gov/burials-and-memorials-v2/application/530/introduction) (new form)
 
 ## All Login Information
-| Email                         | Password | 
-| ----------------------------- | ---------- |
-| vets.gov.user+24@gmail.com   | 168SsNrLgPv5 | 
-| vets.gov.user+228@gmail.com   | 200SsNrLgPv5 | 
-| vets.gov.user+80@gmail.com   | 447SsNrLgPv5 | 
+| Email                         |
+| ----------------------------- |
+| `vets.gov.user+229@gmail.com`   |
+| `vets.gov.user+128@gmail.com`   |
+| `vets.gov.user+80@gmail.com`   |
 
-## Staging User 228
-- vets.gov.user+228@gmail.com
-- 200SsNrLgPv5
+[All user credentials](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/burials/530-staging-test-accounts.md)
+
+## Staging User 80
+- Acts as an exmple of a Veteran w/ a form in progress. When logged in with this user, the V1 form is visible.
 
 ### Test Case
-The burial 530 digital form is outdated and cannot be easily processed by downstream systems. The digital form will be updated to add missing required fields, remove depreciated fields, and fix any critical accessibilty issues on the pages that are getting updated.
+- User is redirected to the v1 form they first started on. All new applications are V2.
 
 ### Steps to Reproduce (update)
-1. User should see a No Form Page with a summary instead of the actual form on [https://staging.va.gov/burials-and-memorials/application/530/introduction](https://staging.va.gov/burials-and-memorials/application/530/introduction)
+
 
 ### Intended Outcomes (if applicable) (update)
 1. User can referenece the displayed data that was saved in progress from their last application
 
-## Staging User 80
+## Staging User 229 & 128
+- Act as users with v2 forms in progress. These are the primary users for review.
 
-- vets.gov.user+80@gmail.com 
-- 447SsNrLgPv5
 
 ### Test Case (i.e. Title)
-Same as above
+Does not have a v1 form in progress
 
 ### Steps to Reproduce (update)
-1. User should see a No Form Page summary that says they do not have any saved forms [https://staging.va.gov/burials-and-memorials/application/530/](https://staging.va.gov/burials-and-memorials/application/530/)
+1. User should be able to continue a v2 form in progress or start a new v2 form
 
 ### Intended Outcomes (if applicable) (update)
-1. User is notified the form isn't working and given a link to instructions on how to apply
+1. User can submit their original application if it was saved in progress using the v1 form. All new applications will default to v2

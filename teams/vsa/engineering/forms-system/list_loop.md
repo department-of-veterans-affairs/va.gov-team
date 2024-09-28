@@ -1,6 +1,6 @@
 Check out these other related docs:
 - [add item list loop](list_loop_v2_add_item.md) with a separate add item page
-- [contact info list loop](list_loop_v2_contact_info.md) which allows editing contact info in 3 separate pages
+- [contact info list loop](list_loop_v3_contact_info.md) which allows editing contact info in 3 separate pages
 
 ---
 

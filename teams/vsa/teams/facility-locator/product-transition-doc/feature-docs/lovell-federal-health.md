@@ -51,7 +51,7 @@ Include notes about which Platform process was in use when this feature was in d
 - [IA review #38735](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37835)
 
 ## Other feature documentation
-- [**Initiative brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-initiative-brief.md)
+- [**Initiative brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-initiative-brief.md)
 <br>
 
 ## References and resources

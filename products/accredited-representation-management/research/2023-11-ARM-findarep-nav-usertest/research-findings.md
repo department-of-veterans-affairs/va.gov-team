@@ -374,18 +374,20 @@ _\*Included all searches that have a variation of the main term. Top search term
 
 ## Recommendations<a id="recommendations"></a>
 
+The following recommendations support these business objectives and desired outcomes:
+
+### Business Objectives<a id="business-objectives"></a>
+1. Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov.
+2. Veterans are able to successfully find a representative through our Find a Representative tool.
+
 ### Desired Business Outcomes<a id="desired-business-outcomes"></a>
 
-These recommendations support the following desired business outcomes:
-
 1. Increase the functionality of VA.gov to support searching for accredited representatives.
-
 2. Reduce the time it takes for Veterans to find an accredited representative.
-
 3. Expedite the deprecation of the legacy eBenefits platform by delivering replacement services.
 
 
-### Mission Critical<a id="mission-critical"></a>
+### Mission Critical Recommendations<a id="mission-critical"></a>
 
 1. Improve findability of the Find a Representative tool through homepage placement and keyword improvements. Not doing so could directly impact KPI performance. (Key Finding 4 & 5, Task 1)
 

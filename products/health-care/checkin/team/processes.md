@@ -10,9 +10,9 @@
 - [Business Stakeholder Feedback](#business-stakeholder-feedback)
 - [Notifications of Releases and Updates to Planned Releases](#notifications-of-releases-and-updates-to-planned-releases)
 
-## Stand Up / Daily Scrum
+## Daily Huddle / Daily Scrum
 - Team Member will
-    - Raise your virtual hand when you enter Stand up and take it down after you have given your update
+    - Raise your virtual hand when you enter the Daily Huddle and take it down after you have given your update
     - Answer the following questions
         - What is your Balance score?
         - What did you do yesterday towards our Sprint goals?
@@ -20,9 +20,31 @@
         - Do you have any blockers?
     - Discuss who is responsible for reviewing any tickets that need validation and a timeframe for completion
 
+## CIE Team & UX Team Collaboration
+- UX Team will hold a face-to-face feature feasibility discussion prior to the feature being approved by OCTO
+    - Invitees
+        - Involved UX team members
+        - At least 1 FE and 1 BE CIE engineer        
+        - CIE PM & DM
+    - The intent of this discussion is to allow the engineers to raise any concerns or technical risks/impossibilities about the feature before it is presented to OCTO
+- UX Team will hold a face-to-face discussion prior to the feature's wireframes finalization
+   - Invitees
+       - Involved UX team members
+       - All CIE FE & BE engineers 
+       - CIE PM & DM
+    - The intent of this discussion is to allow the engineers & PM to raise any concerns about the UI or functionality before it is finalized     
+- UX Team will hold a face-to-face technical hand-off when the feature is ready to be implemented
+   - Invitees
+        - Involved UX team members
+        - All CIE FE & BE engineers (engineers that will work on it are required, others are optional)
+        - CIE PM & DM
+    - The intent of this discussion is to walk the team through the feature and answer any questions the engineers may have about functionality prior to implementing
+    - Figma files will be locked down and made availabile in the "Waiting for release" section
+    - Any changes that may be necessary after the hand-off will be evaluated by UX & the CIE team and a decision made about whether the changes must be incorporated into the planned release or pushed to a different release
+
 ## Refinement 
 - Team will 
-    - Answer & document in the Epic/Ticket the following questions for each Epic/Ticket
+    - Answer & document in the Epic the following questions for each Epic /Ticket
         - How will we release the work for this Epic/Ticket? 
             - Scheduled & Coordinated - will we use a Feature Flag or Feature Branch? 
                 - All Epics should be scheduled and coordinated
@@ -30,26 +52,43 @@
                 - Bugs not related to an Epic plus Tech Debt can be released upon completion & approval
         - Is this in the Planned Releases list yet or does it not need to be?
             - Pick a release date that is at least 2 weeks from the day it is added to the Planned Releases list    
-        - Does this Ticket need a release note?
+        - Does this Epic need a release note?
    - Discuss and modify Acceptance Criteria, as necessary
    - Estimate/Point each Ticket (or apply a time box)
    - Understand the work that is necessary (high level) for each Ticket and how it is being released
-   - Ensure tickets (using the following templates) are created, as necessary, and added to each Epic based on what work is needed
+   - Ensure tickets are created, as necessary, and added to each Epic based on what work is needed; the following GitHub templates are available to use as approrpirate
+        - COLLAB CYCLE
+            - check-in-experience-collab-cycle-caia.md
         - DESIGN
-            - check-in-experience-create-prototype.md
-            - check-in-experience-design-create-content.md
+            - check-in-experience-discovery-feature-outline.md
+            - check-in-experience-design-options-spike.md
+            - check-in-experience-design-create-userflow.md
+            - check-in-experience-design-create-lofi-wireframes.md
+            - check-in-experience-design-create-content.md            
             - check-in-experience-design-create-final-wireframes.md
+            - check-in-experience-design-create-prototype.md
         - DEVELOPMENT
+            - check-in-experience-development-design-implementation.md
             - check-in-experience-development-risk-register.md
-            - check-in-experience-development-backend.md
+            - check-in-experience-development-create-task-tickets.md
             - check-in-experience-development-create-feature-flag.md
+            - check-in-experience-development-backend.md            
             - check-in-experience-development-frontend.md
+            - check-in-experience-testing-accessibility.md
+            - check-in-experience-testing-create-test-cases.md
+            - check-in-experience-testing-functional-FE.md
+            - check-in-experience-testing-functional-product.md
+            - check-in-experience-testing-functional.md
+            - check-in-experience-testing-update-test-cases.md
+            - check-in-experience-release-prod-testing.md
             - check-in-experience-release-to-production.md
             - check-in-experience-release-update-product-atifacts.md
             - check-in-experience-release-update-design-atifacts.md
+            - check-in-experience-snow-ticket.md
         - METRICS
             - check-in-experience-metrics-decide.md    
-            - check-in-experience-metrics-create.md            
+            - check-in-experience-metrics-create.md
+            - check-in-experience-metrics-vsignals.md           
             - check-in-experience-metrics-monitor.md
         - RESEARCH
             - check-in-experience-research-research-plan-task.md
@@ -58,9 +97,9 @@
             - check-in-experience-research-conduct-study.md
             - check-in-experience-research-remote-study.md
             - check-in-experience-research-synthesis-task.md
-            - check-in-experience-research-study-report-task.md            
+            - check-in-experience-research-study-report-task.md
+            - check-in-experience-resource-page-update.md    
         - TRANSLATIONS
-            - check-in-experience-translations-add-to-spreadsheet.md
             - check-in-experience-translations-submit-to-SD.md
             - check-in-experience-translations-add-content.md             
             - check-in-experience-translations-submit-workflows.md      
@@ -189,7 +228,10 @@
             - Kelly.Giddens@va.gov.
 
 
-## Diagram of All Team Processes
+## Diagram of Team Processes
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/1a092434-1989-4900-b709-f3345246ef83)
+
 
 ![CIE Development Process - BPMN process flow (1)](https://user-images.githubusercontent.com/86678742/174146999-201947c6-33b6-4564-bb64-a1bce22631df.jpeg)
 
