@@ -534,7 +534,7 @@ Notes taken at NACVSO sessions (Sharepoint):
 - [09/2023 Secondary Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-09-secondary-research/2023-09-secondary-research-accredited-representation-management.md) (GitHub)
 - [11/2023 Find a Representative User Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2023-11-ARM-findarep-nav-usertest) (GitHub)
 - [03/2024 Find a Representative LIVE User Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/45e6ae651cb6ba417e17ce63204069fb53fe0618/products/accredited-representation-management/research/2024-03-ARM-findarep-live-usertest) (GitHub)
-- [01/2024 VSO Listening Session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md) (GitHub)
+- [01/2024 VSO Listening Session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-01%20Listening%20Session/research-report.md) (GitHub)
 - [02/2024 VSO User Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews) (GitHub)
 - [04/2024 Veteran and Caregiver Representative Experience Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2024-04-ARM-veteran-representative-experience-interviews) (GitHub)
 
