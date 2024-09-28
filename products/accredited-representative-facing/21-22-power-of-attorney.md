@@ -12,6 +12,8 @@ There are a few pain points with the above flow: QuickSubmit is not “quick,”
 
 Our goal is to create a seamless process where reps can see and accept POA requests in real time, thereby getting instant access to VBMS and other systems they need to begin processing claims. This will be one feature in the **Accredited Representative Portal (ARP)**, which is envisioned to be a one-stop-shop for accredited representatives to get accredited and support Veterans and their dependents with their claims. 
 
+**For more information on ARP and Form 21-22, view the [21-22 product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/21-22-power-of-attorney-product-outline.md).**
+
 ## The End User
 
 Form 21-22 impacts several types of users:
