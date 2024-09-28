@@ -80,12 +80,11 @@ Once a Veteran hits “submit,” the messaging they receive does not reflect th
 ## 6.2 Submission Record and Tracking
 In the 2024-07 [Submission Status Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-07-Submission-Status/Research-findings.md), all participants stated they had the claim information they needed on the confirmation page. When asked if they would be interested in downloading a full PDF at a later date, a majority of Veterans said yes.
 
-However, today it’s not possible for Veterans to do this. Before the Veteran submits their application, they can view the details of the application in detail on the Review & Submit screen, but there is no option to print or save. After the Veteran clicks “Submit application” they are redicted to the Confirmation page where the Veteran can view their name, date the application was submitted, the conditions they claimed, and a Claim ID number. The ability to print, save, or view a copy of the completed and submitted 526 form, is not a given option on this page. If the Veteran wants the application’s details and uses the browser’s back button they are taken to the start page of the 526 form, not the Review and Submit page where they would have expected to go. Veterans also expressed a desire to be able to locate and view a copy of their completed form online at a later time. A record of their submission could ease resubmission challenges for Veterans who are asked to mail in failed documents like evidence or a 4142/0781. Easy access to full evidence file names and completed ancillary forms could save Veterans calls to the Contact Center or refilling forms.
+However, today it’s not possible for Veterans to do this. Before the Veteran submits their application, they can view the details of the application in detail on the Review & Submit screen, but there is no option to print or save. After the Veteran clicks “Submit application” they are redicted to the Confirmation page where the Veteran can view their name, date the application was submitted, the conditions they claimed, and a Claim ID number. The ability to print, save, or view a copy of the completed and submitted 526 form, is not a given option on this page. If the Veteran wants the application’s details and uses the browser’s back button they are taken to the start page of the 526 form, not the Review and Submit page where they may have expected to go. Veterans also expressed a desire to be able to locate and view a copy of their completed form online at a later time. A record of their submission could ease resubmission challenges for Veterans who are asked to mail in failed documents like evidence or a 4142/0781. Easy access to full evidence file names and completed ancillary forms could save Veterans calls to the Contact Center or refilling forms.
 
 ## 6.2.1 Success
-- Veterans save or print their completed 526ez that matches the submitted claim VA has on file
-
-- Should Veterans want help with their claim, they have the information they need to get help
+- Veterans can view, save, or print their a record of their submission that matches the submitted claim VA has on file
+- Should Veterans want help with their application, they have the information they need to get help
 
 ### 6.2.1.1 As Jobs To Be Done
 * When I want information on my completed 526 form, I need my printed form on hand so I can find the information I need
@@ -96,7 +95,6 @@ However, today it’s not possible for Veterans to do this. Before the Veteran s
 Ensure [result] for [persona]
 * Ensure a printable copy of the submission record is available to the Veteran
 * Ensure a copy of the submission record is available as a download for the Veteran
-
 * Ensure that the submission record contains the information needed to get help for the Veteran
 
 ### 6.2.1.3 As User Stories
