@@ -496,16 +496,16 @@ Additional research questions surfaced in this study:
   - [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=MYl2yCMveAIJscuO-1)
   - [H3](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26478&t=MYl2yCMveAIJscuO-1)
   - [H4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=MYl2yCMveAIJscuO-1) 
- - Navigation/IA
-  - ARP Header
-  - ARP global menu drop downs
+- Navigation/IA
+  - [ARP Header](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=57-61381&t=MYl2yCMveAIJscuO-1)
+  - [ARP global menu drop downs](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-202993&t=MYl2yCMveAIJscuO-1)
 - POA request page prototypes (Figma)
   - [A2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-72051&t=MYl2yCMveAIJscuO-1)
   - [E1](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-90007&t=MYl2yCMveAIJscuO-1)
   - [E2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-107611&t=MYl2yCMveAIJscuO-1)
 - Decline message prototypes (Figma)
-  - Free-form
-  - Drop-down
+  - [Free-form](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-125300&t=MYl2yCMveAIJscuO-1)
+  - [Drop-down](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=59-127195&t=MYl2yCMveAIJscuO-1)
 - Mobile testing (Figma)
   - [A2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=215-4341&t=MYl2yCMveAIJscuO-1) (mobile)
   - [E1](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=215-2014&t=MYl2yCMveAIJscuO-1) (mobile)
