@@ -1,4 +1,4 @@
-# Product Outline Accredited Representative Portal - Power of Attorney 
+# Accredited Representative Portal - Form 21-22/Power of Attorney Product Brief
 
 ## Overview
 We will create a site for accredited representatives hosted on VA.gov yet visually distinct where VSOs are able to accept or decline representation requests from Form 21-22.
