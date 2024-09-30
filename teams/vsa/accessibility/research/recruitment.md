@@ -77,7 +77,7 @@ If relevant to your study, your sample may also aim to include:
 - Family members and caregivers
 - Veteran service officers (VSOs)
 
-To simplify planning for recruitment, [use our VA recruitment checker spreadsheet on Google Sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to check if you're meeting the right amount of numbers for your study. Google sheets will not be accessible within the VA network, so if you're looking to share findings, take a screenshot or transition it to Microsoft Excel version.
+To simplify planning for recruitment, [use our VA recruitment checker spreadsheet on Google Sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to check if you're meeting the right amount of numbers for your study. Google sheets is not accessible within the VA network, so if you're looking to share findings, take a screenshot.
 
 If your time and budget does not allow for including groups listed above, please reference the communicating and documenting risk section.
 
