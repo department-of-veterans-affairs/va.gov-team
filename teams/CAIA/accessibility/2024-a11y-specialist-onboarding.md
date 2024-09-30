@@ -1,5 +1,5 @@
 # Onboarding Guide: Accessibility Specialist for VA.gov
-`Last updated June 27, 2024`
+`Last updated September 30, 2024`
 
 
 > [!TIP]
@@ -259,7 +259,7 @@ If you want to learn more about how accessibility works at VA.gov, reach out to:
 <details><summary>Toggle to view detail in the areas where you can strengthen your skillsets :accessibility:</summary>
 
 ### Accessibility Champs
-If you are new to the accessibility space, or know someone that is, check out the [Accessibility Champions Community)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)! We're a grassroots, volunteer-led educational program intent on scaling up VA.gov's focus on the disabled Veteran experience through:
+If you are new to the accessibility space, or know someone that is, check out the [Accessibility Champions Community](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)! We're a grassroots, volunteer-led educational program intent on scaling up VA.gov's focus on the disabled Veteran experience through:
 - co-design, curiosity, and community
 - centering the diverse voices of disabled Veterans, caretakers, and family members
 - asking questions first and learning from others
