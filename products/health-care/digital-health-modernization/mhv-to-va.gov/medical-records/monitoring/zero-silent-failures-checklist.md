@@ -3,8 +3,8 @@
 ---
 
 * Does your application have a user-facing transaction that is submitted to a back-end system?
-For Medical Records, we do NOT have any user entered data submitted to a backend system.  One exception to this is that users are able to change their opt in/out out setting via our settings page. 
-That change is submitted to the backend and the user is provided a success or error message.   For various domains (below) we do call various backend systems to RETRIEVE data, therefore we are marking those as 'Yes'.
+
+  _For Medical Records, we do NOT have any user entered data submitted to a backend system.  One exception to this is that users are able to change their "VHIE Sharing "opt in/out out setting via our settings page. That change is submitted to the backend and the user is provided a success or error message.   For various domains (below) we do call various backend systems to RETRIEVE data, therefore we are marking those as 'Yes'._
   - Allergies:
     - [X] Yes     
     - [ ] No
@@ -50,7 +50,8 @@ That change is submitted to the backend and the user is provided a success or er
 
 
 * Does your application submit to an API that relies on Sidekiq (or another background job processor)?
-We do have a Sidekiq process to run 'PHR Refresh' that is run for all backend API calls.  It happens on backend sessions creation.
+
+  _We do have a Sidekiq process to run 'PHR Refresh' that is run when we create the backend session to MHV APIs. This session is created whenever a user interacts with any MR API and persists for one hour._
   - Allergies:
     - [X] Yes     
     - [ ] No
@@ -88,7 +89,7 @@ If you answered yes to any of these questions then go through the following [che
 
 * [X] Do you know when your applications shipped to production?
   * If not, use Github to determine, roughly, when your application shipped to users.
-    
+
 ##### Ship Dates:
   - Allergies: Sep 2023
   - Vaccines: Nov 2023
@@ -128,6 +129,7 @@ If you answered yes to any of these questions then go through the following [che
   - Settings Page:
     - [X] Yes     
     - [ ] No
+
 If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
 
 #### Monitoring
