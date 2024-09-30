@@ -8,7 +8,7 @@ There are 2 versions of a Facilities API that are powered by vets-api. Both are 
 * [Modern Facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#modern-facilities-api)
   * [Code](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#code)
   * [Data sources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#data-sources)
-  * [facilities-api Consumers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#customers)
+  * [facilities-api Consumers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#facilities-api-consumers)
   * [Lighthouse Integration](#lighthouse-integration)
   * [Working with the facilities-api](#working-with-the-facilities-api)
 * [Legacy Facilities API client](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#legacy-facilities-api-client)
