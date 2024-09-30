@@ -1,5 +1,17 @@
 # Initiative - Resources and Support search experience enhancements, Phase 1
 
+- [Overview](#overview)
+- [Problems to solve](#problems-to-solve)
+- [Scope](#scope)
+- [Measuring success](#measuring-success)
+- [Relevant resources]
+- [Launch planning](#launch-planning) 
+  - [Collaboration cycle](#collaboration-cycle)
+  - [Timeline](#timeline)
+- [Screenshots](#screenshots)
+- [POCs and Stakeholders](#pocs-and-stakeholders)
+
+
 ## Overview
 Initially called the "Learning Center", Resources and Support leverages a variety of Drupal content types to provide a self-serve library with targeted, supplemental information to help Veterans and other beneficiaries understand their VA benefits. 
 
@@ -15,13 +27,6 @@ The first articles were published in November 2020. Since then, Resources and su
 
 This anticipated growth accelerated the prioritization of this effort to ensure the experience adequately supports discoverability and Veteran understanding.
 
-**Relevant resources**
-- [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support)
-- [Early Learning center template requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#learning-center-template-requirements)
-- [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/analytics/Analytics%20-%20Resources%20%26%20Support.md)
-- [Article list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/resources-and-support-article-list.md)
-- [A guide to Resources and support content types](https://prod.cms.va.gov/help/resources-and-support/a-guide-to-resources-and-support-content-types) - requires network connection
-
 ## Problems to solve
 > *Describe the challenges / pain points you seek to address* 
 
@@ -31,34 +36,12 @@ This anticipated growth accelerated the prioritization of this effort to ensure 
 - The landing page does not adequately support browsing - topic lists are incomplete and organized by benefit hub, rather than based on Veteran mental models
 - The experience contains a number of accessibility defects, as discovered by an [audit performed in May 2024](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17365#issuecomment-2116090937) 
 
-<details>
-  <summary> Current landing page experience </summary>
-
-  ![image](https://github.com/user-attachments/assets/fbb1022e-e339-4780-a501-e7b7214e893d)
-
-</details>
-
-<details>
-  <summary> Example article </summary>
-
-![image](https://github.com/user-attachments/assets/7a021d11-0d97-4e34-bc09-e357414398f8)
-
-</details>
-
 ### Current Drupal editorial experience
 - Tags representing topic and/or audience group (i.e. beneficiary or non-beneficiary) are not required.
 - Options for topic tags are not comprehensive
 - Methods to organize content and support findability rely on manual editorial processes, making them inconsistent and/or absent.
 
-## Measuring Success
-### 
 
-## Discovery to inform iteration 
-Efforts to inform this iteration with Veteran feedback
-- [#19090 Good/Bad rating - update submitted feedback success message #19090](https://app.zenhub.com/workspaces/vagov-sitewide-product-team-6645154188a81a1f7a0a9464/issues/gh/department-of-veterans-affairs/va.gov-cms/19090) will simplify the feedback process and enourage high participation by presenting the Medallia survey after a user rates a R&S page, with hopes that we will receive more actionable qualitative feedback
-- Veteran usability research will be conducted using a prototype of the redesigned search experience
-
-### Questions
 
 ## Scope
 ### In scope
@@ -69,6 +52,10 @@ Phase 1 focus
   - taxonomy enhancements to support functional tagging and which can be extended to other parts of the VA.gov experience
 - landing page redesign
 - detail page template improvements
+### Discovery to inform iteration 
+Efforts to inform this iteration with Veteran feedback
+- [#19090 Good/Bad rating - update submitted feedback success message #19090](https://app.zenhub.com/workspaces/vagov-sitewide-product-team-6645154188a81a1f7a0a9464/issues/gh/department-of-veterans-affairs/va.gov-cms/19090) will simplify the feedback process and enourage high participation by presenting the Medallia survey after a user rates a R&S page, with hopes that we will receive more actionable qualitative feedback
+- Veteran usability research will be conducted using a prototype of the redesigned search experience
 
 ### Out of scope
 The following changes will be part of a future iteration phase 
@@ -77,9 +64,15 @@ The following changes will be part of a future iteration phase
   - template improvements (i.e. checklist, multi FAQs)
 - Adjust search for Resources and Support searching only
 
+## Measuring Success
+[TBD]
 
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+## Relevant resources
+- [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support)
+- [Early Learning center template requirements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/template-requirements.md#learning-center-template-requirements)
+- [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/analytics/Analytics%20-%20Resources%20%26%20Support.md)
+- [Article list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/resources-and-support-article-list.md)
+- [A guide to Resources and support content types](https://prod.cms.va.gov/help/resources-and-support/a-guide-to-resources-and-support-content-types) - requires network connection
 
 --- 
 
@@ -105,15 +98,25 @@ The following changes will be part of a future iteration phase
 ## Screenshots
 
 ### Before
+<details>
+  <summary> Current landing page experience </summary>
+
+  ![image](https://github.com/user-attachments/assets/fbb1022e-e339-4780-a501-e7b7214e893d)
+
+</details>
+
+<details>
+  <summary> Example article </summary>
+
+![image](https://github.com/user-attachments/assets/7a021d11-0d97-4e34-bc09-e357414398f8)
+
+</details>
 
 ### After
 
 ---
 
-#### Communications
-*Where will you discuss this initiative?*
-
-<details>
+#### POCs and Staeholders
 
 - Team Name: 
 - GitHub Label(s): 
@@ -121,16 +124,3 @@ The following changes will be part of a future iteration phase
 - Product POCs:
 
 </details>
-
-
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
-</details>
-
----
