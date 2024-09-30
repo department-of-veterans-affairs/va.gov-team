@@ -58,7 +58,8 @@ flowchart LR
 
 1. Facility Locator: uses the facilities-api for facility and service search and filtering
 2. 1010 Health apps team - PM: Heather Justice (May 2024)
-3. CTA widget code on Health apps pages: on the following pages, KISS data uses the facilities-api to display facility listings, in order to show a logged-in Veteran the various facilities where they have received care (if those facilities use Cerner for medical records): 
+3. VAOS - uses Community Care endpoints
+4. CTA widget code on Health apps pages: on the following pages, KISS data uses the facilities-api to display facility listings, in order to show a logged-in Veteran the various facilities where they have received care (if those facilities use Cerner for medical records): 
     * Medical records
     * Lab results
     * Prescriptions
