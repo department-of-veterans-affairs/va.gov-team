@@ -1,5 +1,13 @@
 # Running Design and Research Agenda
 
+## September 30 2024
+- Attendees:Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+	- Review OHI Form updates fro stakeholders
+	- Quick review of CHAMPVA Claims Research Report
+  	- CHAMPVA Registration Staging review items for Design
+### Notes
+
 ## September 23 2024
 - Attendees: Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Steven Straily, Devi Hill, Mary Wang, Ray Messina
 - Facilitator: Syd
