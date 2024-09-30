@@ -137,8 +137,7 @@ If not, then you'll need to consider the path user data took through both the cu
 #### Monitoring
 * [X] Do you monitor the APIs that you submit to via Datadog?
 
-  Currently, these are all combined, -- MHV-62593 (research), MHV-62594 (implementation)
-  MR-specfic channel for monitor alerts -- MHV-62596
+  _Currently, all our domains are combined into just a few monitors, e.g. error, anomaly, but we plan to research whether they should be split out into individual monitors: [MHV-62593](https://jira.devops.va.gov/browse/MHV-62593) (research), [MHV-62594](https://jira.devops.va.gov/browse/MHV-62594) (implementation)_
 
   - Allergies:
     - [X] Yes     
@@ -215,10 +214,12 @@ If not, then you'll need to consider the path user data took through both the cu
   * If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
     
   * Link to channel where alerts are populated: _#mhv-on-vagov-alerts_
+     
+    _Note that we are planning to create a new Slack channel for alerts that is specific to Medical Records, making it easier for our team to identify and address relevant alerts ([MHV-62596](https://jira.devops.va.gov/browse/MHV-62596))._
 
 * [X] Does more than one person look at the Slack notifications channel containing errors on a daily basis?
 
-  _Team ticket for this (MHV-62494)_
+  _We are planning to have a team review to familiarize with the process of monitoring and addressing alerts ([MHV-62494](https://jira.devops.va.gov/browse/MHV-62494))._
 
     - [X] Yes     
     - [ ] No
@@ -227,7 +228,7 @@ If not, then you'll need to consider the path user data took through both the cu
 
 * [X] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
 
-  _We have a ticket to create a playbook for this (MHV-62597)_
+  _We have a ticket to create a playbook ([MHV-62597](https://jira.devops.va.gov/browse/MHV-62597))_
 
      - [ ] Yes     
      - [X] No
@@ -248,11 +249,11 @@ If not, then you'll need to consider the path user data took through both the cu
 
 * [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
 
-_We are answering 'No' for various domains below as there is two scnearios that can impact all of the domains where we have identified a silent error.  This issue will be created and prioritized for development._
+  _We are answering 'No' for various domains below as there is two scnearios that can impact all of the domains where we have identified a silent error.  This issue will be created and prioritized for development._
 
-_**Scenario 1** - If a user has not visited MHV since our FHIR server was deployed, they will have no records in the FHIR database. Then, if they visit VA.gov MR and PHR refresh fails, the user may falsely get a message saying they have no records.  https://jira.devops.va.gov/browse/MHV-62496_
+  _**Scenario 1** - If a user has not visited MHV since our FHIR server was deployed, they will have no records in the FHIR database. Then, if they visit VA.gov MR and PHR refresh fails, the user may falsely get a message saying they have no records.  https://jira.devops.va.gov/browse/MHV-62496_
 
-_**Scenario 2** - We are not currently handling API errors from the PHR Refresh Status Check. https://jira.devops.va.gov/browse/MHV-62497_
+  _**Scenario 2** - We are not currently handling API errors from the PHR Refresh Status Check. https://jira.devops.va.gov/browse/MHV-62497_
 
   - Allergies:
     - [ ] Yes     
