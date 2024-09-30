@@ -7,6 +7,16 @@
 	- Quick review of CHAMPVA Claims Research Report
   	- CHAMPVA Registration Staging review items for Design
 ### Notes
+- OHI
+	- Let exclude the "other Medicare" plans for now because that the orginal PDF does not ask for anything other than Part A, B, C, and D. We do not have a lot of data on the other medicare plans and the volume of users with those and adding the other Medicare plan (PACE an cost plans) in the digital form may cause some additional engineering efforts and PEGA issues.  After the form launches we will continue to monitor this to see if we see any signifcant drop offs.  
+	- Revise the presentation of the before/after changes so the flow is easier to follow
+ 	- Find a better way to present the changes to the stakeholders. It's been a while since we presented the digital form to them so the pdf form may be more top of mind to them. Find a way to break this the proposed changes and relate it to the pdf form better.
+- CHAMPVA Claims Research Report
+  	- Lois had to drop off the call early so Design will follow up her with on if she would like more of a walkthrough of Draft 1
+   - We decided to combined the Research and Product Syncs into the weekly Design Sync. We will go over the roadmap at the top of the meeting followed by any design related items so Premal may drop off early if he needs. We can cover the reasearch items with Lois as the last part of the meeting.
+- CHAMPVA Registration Staging review items for Design
+	- All Staging Review tickets will be post launch to leave capacity for the Engineers to work on the FMP Registration launch. Design can get their tickets ready ahead of time in the Figma files and work on them as our capacity allows. We are predicting to move them into "in progress" early in Sprint 2. 
+
 
 ## September 23 2024
 - Attendees: Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Steven Straily, Devi Hill, Mary Wang, Ray Messina
