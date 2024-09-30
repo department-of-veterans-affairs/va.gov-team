@@ -6,8 +6,20 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 - **Team/Researcher:** 
 - **Date:**
 - **Link to study:**
-- **Takeaway**:
+- **Takeaway:**
 ----
+
+### Study name: MyHealtheVet+VA Online Scheduling appointments list discovery
+- **Team/Researcher:** Christine Rose Steiffer, Authenticated Experience Design Patterns
+- **Date:** Aug 2024
+- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill)
+- **Takeaway:** [Finding 1:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md#finding-1-veterans-dont-understand-what-is-meant-by-profile-data-and-some-conflate-vagov-data-with-their-method-of-authentication-logingov-idme-or-mhv) Veterans don’t understand what is meant by ‘profile data’ and some conflate VA.gov data with their method of authentication (Login.gov, ID.me or MHV).
+   - Veterans used a variety of words to describe where they thought their data was pulled from to display in the prototype. This included words such as account, information, profile, records, permanent record, and in the cloud among others.
+   -  Many of our participants expressed confusion around their data and it’s association, or lack thereof, with whichever authentication service they used to login to VA.gov (such as Login.gov, ID.me and MyHealtheVet). They thought that if they made changes to their VA.gov profile data, it would update their authentication platform data as well. One even thought that it would update any other platforms that were connected to their Login.gov account, such as SSA.gov.
+
+   >I would think [my records are pulled] from login.gov like when you're you sign in 'cause login.gov is also SSA and… it's also your medical records. P13
+
+
 ### Study name: Federal Header Authenticated Menu Usability
 - **Team/Researcher:** Liz Lantz, Authentciated Experience
 - **Date:** 1/31/2024
