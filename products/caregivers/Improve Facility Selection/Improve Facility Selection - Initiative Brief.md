@@ -109,13 +109,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 |Total Online Apps (rounded) | 222 | TBD | TBD |
 
 
+   - Key result: Reduce the amount of time a user selects a facility
 
-  - Key result: Facilities list is complete, accurate and up to date
-       - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/dist/caregiverProgramFacilities.json) contained 142 facilities
-       - Facilities API contains **1,252** facilities
-  - 
-  
-
+|Average time on page |Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
+|--------|-----------------------|----------|--------------------|
+|Search page| 55 seconds |TBD|TBD|
+|Confirmation page |NEW|TBD|TBD|
 
 ---
 
