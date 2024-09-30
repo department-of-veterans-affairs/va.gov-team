@@ -168,27 +168,27 @@ If not, then you'll need to consider the path user data took through both the cu
 
   * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
-* [ ] Does your Datadog monitoring use the appropriate tagging?  **TBD Mike**
+* [X] Does your Datadog monitoring use the appropriate tagging?
 
   _All of our Datadog monitors have the tags `team`, `service`, `env`, and `itportfolio`. We will look into adding the `dependency` tag._
 
   - Allergies:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Vaccines:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Vitals:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Health Conditions:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Care Notes and Summaries:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Lab and Test Results:
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
   - Blue Button:
     - [ ] Yes     
