@@ -45,7 +45,7 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 - Breadcrumb: VA.gov home > Education and training > Other VA education benefits > [H1 - TBD by Content]
 
 
-**2) Form Intro page for IBM SkillsBuild - TBD H1 - New**
+**2) Form for IBM SkillsBuild - TBD H1 - New**
 - URL: va.gov/education/other-va-education-benefits/[Static page name TBD by Content]/apply-form-22-10282/
 - Breadcrumb: VA.gov home > Education and training > Other VA education benefits > [Static page H1 - TBD by Content] > [Form page H1 - TBD by Content]
 
@@ -60,8 +60,8 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 ### Primary entry point
 
-1. **IBM SkillsBuild page [page name TBD by Content]** - Add new page
-  - Placement description: Create a form intro page, with an entry point to the form. There is no log-in for completing this form.
+1. **IBM SkillsBuild form [page name TBD by Content]** - Add link to complete form
+  - Placement description: This form doesn't require log in, so there is no sign-in widget at the start of this form.
   - Link label: TBD by Content
   - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
     
@@ -82,7 +82,7 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
   - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
 <img width="732" alt="ibm about 2" src="https://github.com/user-attachments/assets/1a37660a-3f6d-4396-8ab8-dc4b85cb2862">
 
-
+3. **Sam - add benefit info page w screenshot of start of form
 
 ### Crosslinks
 TBD by Content. The three options below are more brainstorm than instructions. The options shown on these pages are pretty narrowly scoped, in some cases. So I'd like to defer to Content's input on the best choices.
