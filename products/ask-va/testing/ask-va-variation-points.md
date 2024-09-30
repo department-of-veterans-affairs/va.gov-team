@@ -11,7 +11,7 @@ Last updated by @beckyphung: September 30, 2024
 Jump to: 
 - [Form variations](#form-variations)
 - [Dashboard variations](#dashboard-variations)
-- [Comparing this doc to CRM test plan](#comparing-to-crm-test-plan)
+- [Comparing this doc to CRM test plan](#comparing-this-doc-to-crm-test-plan)
 
 ## Form variations
 These are points at which the form may change for the submitter.
@@ -75,7 +75,9 @@ CRM agents perform the following actions that will change the dashboard.
 ## Comparing this doc to CRM test plan
 ### Not included in Ask VA variations points doc
 [View the CRM team's testing approach in Word](https://dvagov-my.sharepoint.com/:w:/g/personal/shelby_carl_va_gov/EXQdtcz1ksFKpTiRiE8kkhABaZZlCNK0RTt3L7n77L-eqQ?e=3qRcZH).
+#### Sign In 
 - Signing with different identity credentials (DS Logon, ID.me, Login.gov)
+#### Inquiry Submit 
 - Submitter is new to AVA and Veteran is new to AVA
 - Submitter is new to AVA and Veteran is known to AVA
 - Submitter is known to AVA and Veteran is new to AVA
@@ -85,10 +87,14 @@ CRM agents perform the following actions that will change the dashboard.
 - Submitter updating their information on VA Profile
    - BP note: Asked in comment if this is referring to the profile on VA.gov.
 - Required fields
+#### CRM Actions
 - All fields display correctly/are populated
+#### Inquiry Correspondence
 - Formatting between CRM and portal is correct
 - Correspondence history shows correspondence from before portal changeover
+#### Reporting
 - Queue Trackers
+#### Other Regression Tests 
 - Flag for Supervisor
 - Override SLA 
 - Re-Route 
