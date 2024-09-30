@@ -1,5 +1,7 @@
 # SM Patient API Error handling
 
+Current Status: Looks to be *fine*, but I am not convinced this is not an issue.
+
 ## What is wrong
 
 There is a misalignment in how error handling is happening between va.gov and the SM Patient API
@@ -16,14 +18,6 @@ va.gov clients are assuming RESTful best practices being followed. The API team 
 * Vets-api acts as a pass through
 * SM API handles the request
   * In doing so, it calls[a Service method](https://github.com/department-of-veterans-affairs/mhv-sm-patient-api/blob/0474aa290b0eab1ea1ab838fb0c413f4513be62b/src/main/java/gov/va/med/mhv/sm/patient/service/SendMessageService.java#L146) to create the message. There is try/catch block that catches all errors. If this is the trigger, then the MEssageDTO never gets and ID. this DTO is still returned to the client without and id, but with a 200 success, even though the call actually failed
-
-## The numbers
-
-|            What            | Value | ??? |
-| :------------------------: | :---: | :-: |
-| Number of 200s over a week |       |     |
-|                            |       |     |
-|                            |       |     |
 
 ## How to fix this
 

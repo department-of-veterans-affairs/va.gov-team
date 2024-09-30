@@ -33,7 +33,7 @@
 * [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * we have and use a Pagerduty integration
 * [x] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
-  - This has uncovered and action item for the SM API team
+  * This has uncovered and action item for the SM API team
 
 ## User experience
 
@@ -41,9 +41,8 @@
   
 ## Next Steps
 
-* [ ] Create concrete example of swallowing errors happening
+> OCTO heading this action items currently
+
 * [ ] Figure out how often this is happening in production
 * [ ] Refine error handling and testing guidelines and implementation
-* [ ] Determine a Email error strategy
 * [ ] Walk through the exchange to determine the silent failures
-
