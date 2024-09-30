@@ -121,7 +121,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 5. What impact does the new feature have on Veteran trust in VA?
 </details>
 
-### Overall 526ez
+### Medallia Data 
 All Medalia survey data is reported as a % of 4+5 answers.
 |**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 50%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
 |--|--|--|--|--|--|--|
@@ -131,7 +131,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**Trust Overall**|41% |52% | |
 |**WIP How interaction changed trust**||  | | |
 
-### Toxic Exposure feature
+#### Toxic Exposure feature
 |**Data point**|**1.0 - 50%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
@@ -140,7 +140,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**Trust Overall**| | | | |
 |**WIP How interaction changed trust**| | | | |
 
-### **Themes across Medallia survey responses**
+#### **Themes across Medallia survey responses**
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 
 **Top themes**
@@ -151,6 +151,19 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |3|PACT (26)| |--|
 |4|Error (26)||--| --|
 |5|Getting help (23)|--|
+
+### Contact Center (MyVA 411 Data)
+|Case type| Case Category| **1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
+|--|--|--|--|--|--|
+|**PACT Act**|Directory Assistance| 1358|
+|**PACT Act**| General Information | 365|
+|**Disability Claim Application**| Application submission issue| 10
+| **PACT Act (Concern)**|Concern VBA | 7
+|**Disability Claim Application**| Navigation Issues | 4
+|**Disability Claim Application**| Upload/Download documents | 3|
+|**Disability Claim Application**| Intent to File Issue| 3
+
+
 
 ## Top 5 Takeaways 
 Top takeaways will come from the combined review of GA4 and Medallia whenever the survey data is pulled. These insights will work to explain trends we see across qualitative and quantitative data points as they pertain to Toxic Exposure. 
