@@ -17,6 +17,26 @@ architecture.
 ## Decision
 We will provide a configurable, shared module for integration with the travel pay API. Integrating parties will build their own controller(s) to integrate with the shared module.
 
+```mermaid
+C4Component
+title Shared Module/Controller Architecture
+
+Boundary(b, "VA.gov Travel Pay Module", "boundary") {
+  Container(tpmod, "Travel Pay Module", "Rails Engine", "Provides upstream integration, common buisness logic, <br/>consistency through translations to controllers")
+}
+
+Component(ctrla, "Controller A", "Rails Controller", "A vets-api controller")
+Component(ctrlb, "Controller B", "Rails Controller", "A vets-api controller")
+Component(ctrlc, "Controller C", "Rails Controller", "A vets-api controller")
+
+
+Rel(ctrla, tpmod, "Intantiates")
+Rel(ctrlb, tpmod, "Intantiates")
+Rel(ctrlc, tpmod, "Intantiates")
+
+UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
+```
+
 ## Consequences
 Our decision is in line with other integration patterns on VA.gov. It has the benefits of being familiar with VFS teams and straightforward to implement.
 
