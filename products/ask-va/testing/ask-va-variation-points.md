@@ -1,12 +1,10 @@
 # Ask VA variation points
 Last updated by @beckyphung: September 26, 2024
 
-This document shows the different points at which the Ask VA form and dashboard changes. Our team is using this document to ensure we have adequate test coverage for front-end variations before we launch the redesigned Ask VA front-end on VA.gov in January 2025. 
-
-We're drafting test scripts based on this document. They'll either be automated or manual, depending on what we can automate before launch. 
-
-This document **does not** include back-end variations and integration testing.
-
+- **What**: This document shows the different points at which the Ask VA form and dashboard change.
+- **Why**: Ensure we have adequate test coverage for front-end variations before launch in January 2025.
+   - This document **does not** include back-end variations and integration testing.
+- **How**: Draft test scripts based on this document, which will be automated or manual, depending on what we can automate before launch.
 
 [View the original Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726092793555/33edcc869ba8093c26a7f5c95426045014966078?sender=u44efa807e992cacf10cf3697) this doc is based on.
 
