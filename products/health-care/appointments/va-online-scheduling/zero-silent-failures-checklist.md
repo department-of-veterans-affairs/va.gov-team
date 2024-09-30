@@ -6,22 +6,22 @@
 ### Does your application have a user-facing transaction that is submitted to a back-end system?
 
 - VA Direct Schedule Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - COVID Vaccine Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - VA Request Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - CC Request Flow
-    - [x] Yes [JL]
+    - [X] Yes 
     - [ ] No
-- Manage Appointments Flow
+- Manage Appointments Flow (view Appointment List and Details) 
     - [ ] Yes
-    - [x] No [JL] Assuming this means only the display of appointment lists and details
+    - [X] No
 - Cancellation Flows
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 
 > [!NOTE]
@@ -35,22 +35,22 @@
 > - Any others?
 
 - VA Direct Schedule Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - COVID Vaccine Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - VA Request Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - CC Request Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - Manage Appointments Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - Cancellation Flows
-    - [x] Yes [JL]
+    - [x] Yes
     - [ ] No
 
 - [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the non-appointments APIs we hit I've found so far:
@@ -88,22 +88,22 @@
 
 - VA Direct Schedule Flow
     - [ ] Yes
-    - [x] No [JL]
+    - [x] No 
 - COVID Vaccine Flow
     - [ ] Yes
-    - [x] No [JL]
+    - [x] No 
 - VA Request Flow
     - [ ] Yes
-    - [x] No [JL]
+    - [x] No 
 - CC Request Flow
     - [ ] Yes
-    - [x] No [JL]
+    - [x] No 
 - Manage Appointments Flow
     - [ ] Yes
-    - [x] No [JL]
+    - [x] No 
 - Cancellation Flows
     - [ ] Yes
-    - [x] No [JL]
+    - [x] No 
 
 - [JL] Technically yes we do since we have a user service that uses a Sidekiq job to refresh user sessions for all vets-api endpoints. However, my understanding is that this is a non-critical job and failures do not break user workflows since they will simply create a new session on the next API call to the backend. @cferris32 to double check my understanding here. If so, can we say we don't **rely** on Sidekiq jobs since the Sidekiq job can't break our user workflows?
 A: I believe you are correct and I will look into confirming this. @JunTaoLuo where did you find that info on the sidekiq jobs? [CF]
