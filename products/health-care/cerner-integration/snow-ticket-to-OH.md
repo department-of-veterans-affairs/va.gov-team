@@ -24,6 +24,10 @@ To escalate a Production issue for immediate engagement, contact Oracle Health's
 2. Notify EHRM contact person
 3. Call the IRC and follow prompts for IRC: ```(866) 221-8877```
 
+To get the Cerner SR number, it is provided on YourIT ticket info under "External Ticket ID":
+![image](https://github.com/user-attachments/assets/61fa53d0-69a2-4451-9a77-1f670e7c2129)
+
+
 ## For Reference: SNOW ticket instructions WITH screenshots
 - Access VA's [yourIT Service Portal](https://yourit.va.gov/va)
 - Select "Report an Issue". 
