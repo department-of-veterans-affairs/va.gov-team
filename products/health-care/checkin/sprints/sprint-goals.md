@@ -70,7 +70,10 @@
     - TBD???
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Synthesize unmoderated card sort data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93642)
-    - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)    - 
+    - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
+    - 🟥 [Update CC VDSS Research Findings pres for Monday's readout with OCTO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93870)
+    - 🟥 [How do pending cc appts appear in the Request and referrals page?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93904)
+    - 🟥 [[Design] Update eCheck-in BT pages with community care content change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92895)
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93424)
 - **Tech Debt**
