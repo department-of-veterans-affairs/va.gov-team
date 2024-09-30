@@ -1,7 +1,7 @@
 # Ask VA variation points
 Last updated by @beckyphung: September 26, 2024
 
-This document shows the different points at which the Ask VA form and dashboard changes. Our team is using this document to ensure we have adequate test coverage before we launch the redesigned Ask VA front-end on VA.gov in January 2025. 
+This document shows the different points at which the Ask VA form and dashboard changes. Our team is using this document to ensure we have adequate test coverage for front-end variations before we launch the redesigned Ask VA front-end on VA.gov in January 2025. This document **does not** include back-end variations and integration testing.
 
 We're drafting test scripts based on this document. They'll either be automated or manual, depending on what we can automate before launch. 
 
@@ -10,6 +10,7 @@ We're drafting test scripts based on this document. They'll either be automated 
 Jump to: 
 - [Form variations](#form-variations)
 - [Dashboard variations](#dashboard-variations)
+- [Comparing CRM combined test plan scope](#comparing-crm-combined-test-plan-scope)
 
 ## Form variations
 These are points at which the form may change for the submitter.
@@ -52,4 +53,4 @@ These are points at which the dashboard may change for the submitter.
 |Replies: Whether business line has enabled or disabled|Enabled or disabled|If disabled, then submitter can't reply|🟡 Add link to documentation|
 |Number of previous inquiries a submitter has|5 or more inquiries|If 5 or more inquiries, add pagination|[With cards and sorting (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1224-131181&node-type=canvas&t=ZvNhhwfSwvWrr6ND-0)|
 
-
+# Comparing CRM combined test plan scope
