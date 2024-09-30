@@ -72,19 +72,21 @@ There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Ex
 ### Targets
 - Source Data - Google Analytics, Datadog (Links TBD)
 
-|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
-|---------|---------------|-------------|----------|---------------|---------------|----------|
-|Historical Monthly Average | 18000 | 11000 | 250 | 200 |50 | 10 |
-| 3-month Total | x | x | x | x |x | x |
+|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
+|---------|---------------|-------------|----------|---------------|---------------|----------|----------|
+| Historical Weekly Average | 4500 | N/A | 2750 | 62 | 50 |12 | 2 |
+| 3-month Total | x | x | x | x |x | x | x |
 
 ### Results
-|Timeblock|# of application starts|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
-|---------|---------------|----------------|----------|---------------|---------------|----------|
-|Month 1| x | x | x | x |x | x |
-|Month 2| x | x | x | x |x | x |
-|Month 3| x | x | x | x |x | x |
-|Experiment Monthly Average | x | x | x | x |x | x |
-| 3-month Total | x | x | x | x |x | x |
+|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|
+|---------|---------------|-------------|----------|---------------|---------------|----------|----------|
+|Historical Monthly Average | 18000 | N/A | 11000 |250 | 200 |50 | 10 |
+|Month 1| x | x | x | x |x | x | x |
+|Month 2| x | x | x | x |x | x | x |
+|Month 3| x | x | x | x |x | x | x |
+|Experiment Monthly Average | x | x | x | x |x | x | x |
+|3-month Total | x | x | x | x |x | x | x |
+
 
 
 ## Research questions/Supplemental Metrics
