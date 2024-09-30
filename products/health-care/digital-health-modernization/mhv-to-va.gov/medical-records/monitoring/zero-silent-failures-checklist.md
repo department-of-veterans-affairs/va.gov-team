@@ -169,6 +169,9 @@ If not, then you'll need to consider the path user data took through both the cu
   * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
 * [ ] Does your Datadog monitoring use the appropriate tagging?  **TBD Mike**
+
+  _All of our Datadog monitors have the tags `team`, `service`, `env`, and `itportfolio`. We will look into adding the `dependency` tags.
+
   - Allergies:
     - [ ] Yes     
     - [ ] No
