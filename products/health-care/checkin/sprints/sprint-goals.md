@@ -36,16 +36,6 @@
       - 🟨 [[DevOps] Discovery into isolated LoROTA environment for Terraform CI/CD.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/509)
       - 🟨 [[DevOps] Discovery on getting `cie-staging-scheduler` into IaC.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/299)
       - 🟨 [[DevOps] Investigate whether to remove DevOps configuration for CHIP DNS names.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/372)
-- **Community Care Direct Scheduling**
-    - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
-    - 🟥 [[Design] Wireframe for when when the selected provider doesn't have their time slots open to EPS/WellHive](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93373)
-    - 🟥 Create and submit CAIA ticket for final content review of wireframe content
-    - 🟩 [[FE] Time selection inline validation error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91914)
-    - 🟩 [[FE] Create flow pattern structure for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)
-    - 🟩 [Write query to fetch referrals and write code to parse data into shared db in VA ecosystem](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92927)
-    - 🟩 [Rebuild Pending page based off of new design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92771)
-    - 🟩 [[FE] Referral Review - update design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
-    - 🟩 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)
 - **OH Travel**
     - 🟦 [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
     - 🟦 [[BE] [OH] update travel claims status check worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93077)
@@ -55,6 +45,19 @@
     - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
     - 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
     - 🟩 Schedule Privacy, security, infrastructure readiness review [instructions](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html)
+- **Community Care Direct Scheduling**
+    - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
+    - 🟥 [[Design] Wireframe for when when the selected provider doesn't have their time slots open to EPS/WellHive](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93373)
+    - 🟥 Create and submit CAIA ticket for final content review of wireframe content
+    - 🟩 [[FE] Time selection inline validation error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91914)
+    - 🟩 [[FE] Create flow pattern structure for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)
+    - 🟩 [[FE] Referral Review - update design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
+    - **Write query to fetch referrals**
+        - 🟦[Create Sequence Diagram for CC Referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93897)
+        - 🟦 [SPIKE: Identify shared, restricted folder to store data in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93888)
+        - 🟦 [SPIKE: Identify deleting referral information we no longer need.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93889)    
+        - 🟦 [SPIKE: Identify What Referral Data we Need
+](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93900)        
 - **Check in with staff after checking in**
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
