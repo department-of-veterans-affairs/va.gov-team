@@ -14,13 +14,13 @@ Jump to:
 - **Objectives:** Ensure the form functions correctly, validates input, integrates properly with the backend, [CRM and other APIs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration), and provides a smooth user experience with appropriate accessibility expectations.
 
 Reference Docs: 
-- [Dress Rehearsal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/test-plans/Test%20Dress%20Rehearsal.md)
-- [Visual Flow of Testing](https://app.mural.co/t/thoughtworksclientprojects1205/m/thoughtworksclientprojects1205/1724347818244/9bca3672d775ae5fec71d1af118bcb859bce65e2?sender=uc2a4f18a27ff336484232897)
-- [Differences between Categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Similarities%20and%20differences%20between%20categories.md)
-- [Form Flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708479170047/8ebb517a213e05ebc500087f5661a993a41392e8?sender=uc2a4f18a27ff336484232897)
-- [Testing Approach Doc](https://dvagov-my.sharepoint.com/:w:/g/personal/shelby_carl_va_gov/EXQdtcz1ksFKpTiRiE8kkhABaZZlCNK0RTt3L7n77L-eqQ?e=2rAX87) - PIV access Required
-- [Ask VA variation points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/ask-va-variation-points.md)
-- **Timeline:** [View our timeline in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12?wid=0-1717520164261)
+- [Dress Rehearsal (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/test-plans/Test%20Dress%20Rehearsal.md)
+- [Visual Flow of Testing (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724077180667/e055a7b6a2eb7bd0bd586ce7f4b6130d4343e524?sender=u44efa807e992cacf10cf3697)
+- [Differences between Categories (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Similarities%20and%20differences%20between%20categories.md)
+- [Form Flows (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708479170047/8ebb517a213e05ebc500087f5661a993a41392e8?sender=uc2a4f18a27ff336484232897)
+- [Testing Approach Doc (Word doc)](https://dvagov-my.sharepoint.com/:w:/g/personal/shelby_carl_va_gov/EXQdtcz1ksFKpTiRiE8kkhABaZZlCNK0RTt3L7n77L-eqQ?e=2rAX87) - PIV access Required
+- [Ask VA variation points (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/ask-va-variation-points.md)
+- [Timeline (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12?wid=0-1717520164261)
  
 ## 2. Testing Types
 - **Unit Testing:** Test individual components and functions.
