@@ -5,7 +5,13 @@ Goal of the meeting series: addressing policy related or other open questions fo
 ### In attendance
 …
 ### Notes
+1. Ruben: Continue the discussion for 4142:
+   * How private medical facilities are notified
+   * How requests to limit consent are handled
+   * How is it done today when using the paper form that allows them to enter more than, but not submit them separately?
+2. How is overflow content being handled? For 0781, we're trying to decide if we should limit fields to paper form, or put them on overflow. (ex. there's 6 spaces for events. should we allow for more and put extras on overflow, or limit to 6 entries?) ![Screenshot 2024-09-26 at 9 08 27 AM](https://github.com/user-attachments/assets/53a01405-f316-4c65-baf4-680b991b6a19)
 
+3. Jina: does VBA have a new file type for display in VBMS for the new form? (0781) 
 
 
 ## 9/17/24 Biweekly VBA-DBEX Check-in
