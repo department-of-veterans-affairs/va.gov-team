@@ -1,4 +1,4 @@
-# Research Plan for [Public Websites,Discharge Upgrade Wizard, Date?]
+# Research Plan for [Public Websites, Discharge Upgrade Wizard, October 2024]
 ## Background
 The Discharge Upgrade Wizard is part of the unauthenticated experience and uses a [wizard pattern](https://design.va.gov/patterns/wizards) to guide Veterans through an optimized series of questions based on their circumstances. The wizard pattern has been deprecated by the Design System team and is being updated to the recommended [sub task pattern](https://design.va.gov/patterns/help-users-to/complete-a-sub-task). This pattern allows Veterans to check and edit their answers at the end of the flow. We’re enhancing the current edit flow to account for the branching logic in this wizard and help Veterans understand why they may need to answer more questions after editing an answer.
 
@@ -58,7 +58,7 @@ We will conduct remote moderated usability testing to observe research participa
 Sessions will be conducted over Zoom, and we would like Zoom transcripts please.
 
 ### Research materials
-- Link to conversation guide (when available)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/conversation-guide.md)
 - [Link to DUW in production](https://www.va.gov/discharge-upgrade-instructions)
 - [Link to Research Notetaking Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726091853497/11d98e6ba53e1a738c258f67c2671a8e43d7908c?sender=u01810f3edbfc878c08be5925)
 
