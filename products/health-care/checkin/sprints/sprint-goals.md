@@ -29,7 +29,7 @@
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
 - **Production Support**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93865)
     - **Move to New AWS Instance**
       - 🟨 [[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
       - 🟨 [[DevOps] Do all alarm messages link to the playbook?](https://github.com/department-of-veterans-affairs/checkin-devops/issues/392)
@@ -45,6 +45,7 @@
     - 🟩 [Write query to fetch referrals and write code to parse data into shared db in VA ecosystem](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92927)
     - 🟩 [Rebuild Pending page based off of new design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92771)
     - 🟩 [[FE] Referral Review - update design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
+    - 🟩 [Get vets-website staging env pointing to WellHive Sandbox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88892)
 - **OH Travel**
     - 🟦 [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
     - 🟦 [[BE] [OH] update travel claims status check worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93077)
@@ -58,6 +59,7 @@
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
+    - 🟥 [Create final wireframes for "go see staff" after checking in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93804)
     - Schedule Design Intent (PO Sync occurred on 9/25)
     - Schedule Research Review
     - Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well)
