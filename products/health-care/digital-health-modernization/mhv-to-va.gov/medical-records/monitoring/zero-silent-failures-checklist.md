@@ -4,7 +4,8 @@
 
 * Does your application have a user-facing transaction that is submitted to a back-end system?
 
-  _For Medical Records, we do NOT have any user entered data submitted to a backend system.  One exception to this is that users are able to change their "VHIE Sharing "opt in/out out setting via our settings page. That change is submitted to the backend and the user is provided a success or error message.   For various domains (below) we do call various backend systems to RETRIEVE data, therefore we are marking those as 'Yes'._
+  _For Medical Records, we do NOT have any user entered data submitted to a backend system.  One exception to this is that users are able to change their "VHIE Sharing" opt in/out out setting via our settings page. That change is submitted to the backend and the user is provided a success or error message. For various domains (below) we do call various backend systems to RETRIEVE data, therefore we are marking those as 'Yes'._
+
   - Allergies:
     - [X] Yes     
     - [ ] No
@@ -52,6 +53,7 @@
 * Does your application submit to an API that relies on Sidekiq (or another background job processor)?
 
   _We do have a Sidekiq process to run 'PHR Refresh' that is run when we create the backend session to MHV APIs. This session is created whenever a user interacts with any MR API and persists for one hour._
+
   - Allergies:
     - [X] Yes     
     - [ ] No
@@ -200,11 +202,12 @@ If not, then you'll need to consider the path user data took through both the cu
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
 
 * [X] Do errors detected by Datadog go into a Slack notifications channel?
-All monitors referenced in the above section do sent notifications to Slack.
+
+  _All monitors referenced in the above section do send notifications to Slack._
 
   * If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
     
-  * Link to channel where alerts are populated: mhv-on-vagov-alerts
+  * Link to channel where alerts are populated: _#mhv-on-vagov-alerts_
 
 * [X] Does more than one person look at the Slack notifications channel containing errors on a daily basis?
     - [X] Yes     
@@ -224,16 +227,21 @@ All monitors referenced in the above section do sent notifications to Slack.
 
 #### Reporting errors
 * [X] Have you filed issues for errors that are appearing in Datadog / Slack?
-Errors that appear in Datadog/Slack are triaged and addressed accordingly.  Sometimes the errors are resolved or explained with simple Slack communication.  If errors result in the need for further development, a JIRA ticket is filed and prioritized with the appopriate Product Owners.  
+
+  _Errors that appear in Datadog/Slack are triaged and addressed accordingly.  Sometimes the errors are resolved or explained with simple Slack communication.  If errors result in the need for further development, a JIRA ticket is filed and prioritized with the appopriate Product Owners._
 
   * If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
 
 
 * [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
-We are answering 'No' for various domains below as there is two scnearios that can impact all of the domains where we have identified a silent error.  This issue will be created and prioritized for development.
-**Scenario 1** - If a user has not visited MHV since our FHIR server was deployed, they will have no records in the FHIR database. Then, if they visit VA.gov MR and PHR refresh fails, the user may falsely get a message saying they have no records.  https://jira.devops.va.gov/browse/MHV-62496
-**Scenario 2** - We are not currently handling API errors from the PHR Refresh Status Check. https://jira.devops.va.gov/browse/MHV-62497
-   - Allergies:
+
+_We are answering 'No' for various domains below as there is two scnearios that can impact all of the domains where we have identified a silent error.  This issue will be created and prioritized for development._
+
+_**Scenario 1** - If a user has not visited MHV since our FHIR server was deployed, they will have no records in the FHIR database. Then, if they visit VA.gov MR and PHR refresh fails, the user may falsely get a message saying they have no records.  https://jira.devops.va.gov/browse/MHV-62496_
+
+_**Scenario 2** - We are not currently handling API errors from the PHR Refresh Status Check. https://jira.devops.va.gov/browse/MHV-62497_
+
+  - Allergies:
     - [ ] Yes     
     - [X] No
   - Vaccines:
@@ -268,7 +276,9 @@ We are answering 'No' for various domains below as there is two scnearios that c
 #### Documentation
 
 * [X] Do you have a diagram of the submission path that user data your application takes to reach a system of record?
-Yes, for all domains with the exception of CCD (in development) and Settings.
+      
+_Yes, for all domains with the exception of CCD (in development) and Settings._
+
  - Allergies:
     - [X] Yes     
     - [ ] No
@@ -299,11 +309,14 @@ Yes, for all domains with the exception of CCD (in development) and Settings.
     - [X] No - Not yet deployed, will add monitor when it goes Live
  
   * If not, then [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md) that captures this information. 
-  * Link to data flow diagram:  **TBD - Need help creating blank MURAL so Mike can transfer the flows over**
-The MURAL that is created is by flow path, meaning some domains retreive data in the same manner and therefore share a path (for example, all FHIR data represents domains that are FHIR-ized retrieving data).
+  * Link to data flow diagram:
+
+    _[Here is our data flow diagram in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727453503231/6cfa8ad65d1b4190d6e86baed21f62fad2259f11?sender=75eccca8-883a-4a4e-958c-15360cfe990b). The diagrams are are broken out by flow path, meaning some domains retreive data in the same manner and therefore share a path (for example, all FHIR-ized data are retrieved via the same path and handled the same way, even if the specific endpoints are different)._
 
 * [X] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? This should be captured in the data flow diagram or a separate document.
-When backend systems or domains are down for maintenance, we utilize PagerDuty to setup appropriate outage messaging and notifications.  The following answers refer to when the submission path fails.
+
+    _When backend systems or domains are down for maintenance, we utilize PagerDuty to setup appropriate outage messaging and notifications.  The following answers refer to when the submission path fails._
+
  - Allergies:
     - [X] Yes     
     - [ ] No
@@ -336,7 +349,7 @@ When backend systems or domains are down for maintenance, we utilize PagerDuty t
   * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
 * [X] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
- - Allergies:
+  - Allergies:
     - [ ] Yes     
     - [X] No
   - Vaccines:
@@ -372,7 +385,7 @@ When backend systems or domains are down for maintenance, we utilize PagerDuty t
 
 * [X] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
 Aside from the two scenarios we have identified above, the answers are 'Yes' as noted below.
-   - Allergies:
+  - Allergies:
     - [X] Yes     
     - [ ] No
   - Vaccines:
