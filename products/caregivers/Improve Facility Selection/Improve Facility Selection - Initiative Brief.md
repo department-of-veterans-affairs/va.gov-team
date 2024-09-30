@@ -108,8 +108,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 |Total Apps (rounded) | 384 | TBD | TBD |
 |Total Online Apps (rounded) | 222 | TBD | TBD |
 
-
-   - Key result: Reduce the amount of time a user selects a facility
+   - Key result: Maintain or reduce the amount of time a user selects a facility
 
 |Average time on page |Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
