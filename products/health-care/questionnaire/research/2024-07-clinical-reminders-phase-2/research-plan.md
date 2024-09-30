@@ -91,13 +91,16 @@ The purpose of this research is to gather feedback from Veterans on the revised 
 
 - Veterans will access the BHL Touch prototype via a link that a moderator will add to the Zoom chat during the start of the usability session. 
 
-     - Conversation guide link TBD 
+     - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2024-07-clinical-reminders-phase-2/conversation%20guide.md) 
 
-     - [BHL Prototype](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbhl.va.gov%2Fx9tzw3y&data=05%7C02%7C%7Ce8094c7e54ad4314863008dce16bf43c%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638633100971715421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YUEsmfXIfevOWAS%2BqaghJlUPucGtN9Dv%2BfHXnc652fs%3D&reserved=0) 
+     - [BHL Prototype*](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbhl.va.gov%2Fx9tzw3y&data=05%7C02%7C%7Ce8094c7e54ad4314863008dce16bf43c%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638633100971715421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YUEsmfXIfevOWAS%2BqaghJlUPucGtN9Dv%2BfHXnc652fs%3D&reserved=0) 
 
-***Important Note:** Prototype link **will expire on Oct. 3, 2024 at 12:00 pm**. If you need more time in accessing the link,  please contact [Nina Anusavice](nina.anusavice@va.gov) to obtain a new link. In addition, the **link can only be used once** if you go through the whole questionnaire; to have access to the link more than once, **do not** go through the entire experieince by selecting **OK** on the **Thank you** screen.
+***Important Note:** Prototype link **will expire on Oct. 3, 2024 at 12:00 p.m. ET**. 
+- If you need more time in accessing the prototype,  please contact [Nina Anusavice](nina.anusavice@va.gov) to obtain a new link.
+- Please note the **prototype link will be no longer valid** if you click through the entire questionnaire; to go through the protoype more than once, **do not** click through the entire experieince; You can avoid clicking through by **not selecting the OK** on the **Thank you** screen; click on the X instead. Please contact [Nina Anusavice](nina.anusavice@va.gov) if you have additional questions.
 
- 
+
+
 
 ## Recruitment 
 
