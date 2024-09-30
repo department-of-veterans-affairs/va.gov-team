@@ -46,8 +46,8 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 
 **2) Form Intro page for IBM SkillsBuild - TBD H1 - New**
-- URL: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > [H1 - TBD by Content] > **I'm confused here - am unsure whether I'm looking at correct examples of the difference between Benefit Info page and Form Intro page breadcrumbs**
+- URL: va.gov/education/other-va-education-benefits/[Static page name TBD by Content]/apply-form-22-10282/
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > [Static page H1 - TBD by Content] > [Form page H1 - TBD by Content]
 
 
 **3) About VA Form Form 22-10282 - New**
@@ -63,7 +63,8 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 1. **IBM SkillsBuild page [page name TBD by Content]** - Add new page
   - Placement description: Create a form intro page, with an entry point to the form. There is no log-in for completing this form.
   - Link label: TBD by Content
-  - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/introduction **this is wrong - Kristin, how do I indicate that this goes to p. 2 of the form?**
+  - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
+    
 <img width="417" alt="ibm primary entry 2" src="https://github.com/user-attachments/assets/21c15251-7481-4006-9e9d-cccf01ac9269">
 
 
