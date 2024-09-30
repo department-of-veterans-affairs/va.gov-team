@@ -6,6 +6,7 @@
 [View our Research readout in this slide deck pdf](link here)
 
 **Jump to:**
+- [Veteran journey]
 - [Research goals]
 - [Research questions]
 - [Methodology] 
@@ -15,40 +16,56 @@
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
-## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+## Veteran journey
+The Contact us page can support Veterans at any stage of the Veteran journey because it connects Veterans to VA support channels. For example, Veterans at any stage could call the MyVA411 main information line for information about login issues.
 
-The key goals of this study are to:
-- Understand whether people can find the right support (answers or channels) to resolve their issues
-- Understand how people choose phone numbers  
-- Understand what people expect on the Contact us page:  
+Some support channels may matter more to Veterans depending on where they’re at too. For example, a Veteran at the Starting up stage might want to call the GI Bill hotline for questions about their education benefits.
+
+## Research Goals
+Our research goals are to:  
+-	Understand whether people can find the right support (answers or channels) to resolve their issues
+-	Understand how people choose phone numbers
+-	Understand what people expect on the Contact us page
 
 ## Research Questions
-
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
-
+Understand whether people can find support (answers or contact information) to resolve their issues:
+-	Can people find the answers they need online before deciding to contact VA directly? 
+-	How do people navigate within the page to find answers?
+-	Do the headings help people find answers? 
+-	Do the headings help people find contact information?
+-	Do people know which links to select? Do they seem confused? 
+-	Can people get their issues resolved on the pages they’re directed to from ‘Contact us’?
+-	Which support channels do people prefer? Why? 
+-	How does the order of contact channels on the page affect people’s experience?
+  
+Understand how people choose phone numbers:
+-	How do people find phone numbers on Contact us?
+-	How do people decide which phone number they need?
+-	What phone number details are useful to decide which phone number they need? Which details don’t help people find phone numbers?
+  
+Understand what people expect on the Contact us page:
+-	Why do people use the Contact us page? 
+-	What information are they looking for?
+-	What tasks are they hoping they can do on the page?
+  
 ## Methodology 
+This a remote moderated usability study over Zoom for the current Contact us page in VA.gov's production environment at va.gov/contact-us. 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
-
+We’ll ask users to consider how they would use Contact us to find answers or customer support in two scenarios in which they have questions about: 
+-	Creating a Login.gov account
+-	Increasing disability compensation for an existing condition
 
 ## Hypotheses and Conclusions
-
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
+|Hypothesis|Conclusion|Explanation|
+|:--|:--|:--|
+|Most of the time, people will be able to find general answers to questions online.|Likely false|Most participants couldn't find answers to their question.|
+|It will be more difficult for people to find personalized answers online.|Not enough information|x|
+|People will primarily use the headings to navigate to each section to find answers or contact information.|Definitely true|x|
+|People will prefer different contact channels in different contexts.|Mostly true|x|
+|People will choose more direct phone numbers rather than general lines to avoid being transferred.|Definitely true|x|
+|People won’t be highly confident they’re choosing the right phone number with current phone number details.|Likely False|x|
+|People primarily use Contact us to look for ways to contact VA (like phone numbers).|Not enough information|x|
+|People don’t expect to find answers to questions from Contact us.|Not enough information|x|
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
