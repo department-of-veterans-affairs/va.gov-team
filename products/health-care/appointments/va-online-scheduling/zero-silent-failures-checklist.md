@@ -296,3 +296,120 @@ If not, don't worry. Few teams are doing this and we'll be providing resources t
 - [Manage Appointments Flow](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2696&t=cc4aBjvQIeqdAjYg-1)
 - [Cancellation Flow: Upcoming](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2925&t=cc4aBjvQIeqdAjYg-1)
 - [Cancellation Flow: Requests](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3518&t=cc4aBjvQIeqdAjYg-1)
+
+
+### Sequence diagrams:
+
+## Fetch Appointments
+
+```mermaid
+sequenceDiagram
+actor Client
+activate Client
+Client->>vets-website: Fetch Appointments
+loop User Session token check
+    vets-api->>user service: 
+
+Note right of vets-api: refresh token if expired
+end
+activate vets-website
+vets-website->>vets-api: GET /vaos/v2/appointments/${appointment_id}?_include=facilities,clinics,avs
+activate vets-api
+
+vets-api->>vaos service: GET /vaos/v1/patients/${icn}/appointments/${appointment_id}
+vaos service-->>vets-api: 200
+vets-api-->>vets-website: 200
+vets-website-->>Client: display appointment
+alt
+vaos service-->>vets-api: 207 {partial errors}
+vets-api-->>vets-website: 207 {partial errors}
+vets-website-->>Client: dispay error message {We can't display all your appointments.}
+end
+alt
+vaos service-->>vets-api: 500 {internal error}
+vets-api-->>vets-website: 500 {internal error}
+vets-website-->>Client: dispay error message {We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later.}
+end
+
+vets-api->>PPMS: GET /ppms/v1/providers/${id}
+PPMS-->>vets-api: 200
+vets-api-->>vets-website: 200
+vets-website-->>Client: display preferred provider name in appointment response
+alt
+PPMS-->>vets-api: 500 {internal error}
+vets-api-->>vets-website: appointment.preferredProviderName {null}
+vets-website-->>Client: display message {Provider name not available}
+end
+
+vets-api->>Mobile Facility service: GET /facilities/v2/facilities/#{id}
+Mobile Facility service-->>vets-api: 200
+vets-api-->>vets-website: 200
+vets-website-->>Client: display facility data in appointment response.
+alt
+Mobile Facility service-->>vets-api: 500 {internal error}
+vets-api-->>vets-website: appointment.location {null}
+vets-website-->>Client: display message {Facility details not available}
+end
+
+vets-api->>AVS service: GET /my-health/medical-records/summaries-and-notes/visit-summary/${sid}
+AVS service-->>vets-api: 200
+vets-api-->>vets-website: 200
+vets-website-->>Client: display avs path link.
+alt
+AVS service-->>vets-api: 404 {Not found', "No AVS found for sid ${sid}"}
+AVS service-->>vets-api: 400 {'Invalid AVS id', 'AVS id does not match accepted format.'}
+AVS service-->>vets-api: 400 {'Invalid parameters', 'Station number and Appointment IEN must be present and valid.'}
+AVS service-->>vets-api: 401 {'Not authorized', 'User may not view this AVS.'} 
+vets-api-->>vets-website: appointment.avsPath {'Error retrieving AVS link'}
+vets-website-->>Client: dispay error {'We can't access after-visit summaries at this time. We’re sorry. We’ve run into a problem.'}
+end
+deactivate vets-api
+deactivate vets-website
+deactivate Client
+```
+
+## Cancel Appointment
+
+```mermaid
+sequenceDiagram
+actor Client
+activate Client
+Client->>vets-website: Cancel Appointment
+activate vets-website
+vets-website->>vets-api: PUT /vaos/v2/appointments/${appointment_id}
+activate vets-api
+vets-api->>vaos service: PUT /vaos/v1/patients/${user.icn}/appointments/${appointment_id}
+vaos service-->>vets-api: 200
+vets-api-->>vets-website: 200
+vets-website-->>Client: display cancellation confirmation
+alt
+vaos service-->>vets-api: 500 {internal error}
+vets-api-->>vets-website: 500 {internal error}
+vets-website-->>Client: display Error {We couldn’t cancel your appointment. Something went wrong when we tried to cancel this appointment. Please contact your medical center to cancel}
+deactivate vets-api
+deactivate vets-website
+deactivate Client
+end
+```
+
+## Create Appointment
+```mermaid
+sequenceDiagram
+activate Client
+Client->>vets-website: Create Appointment
+activate vets-website
+vets-website->>vets-api: POST /vaos/v2/appointments
+activate vets-api
+vets-api->>vaos service: POST /vaos/v1/patients/${icn}/appointments
+vaos service-->>vets-api: 200
+vets-api-->>vets-website: 200
+vets-website-->>Client: display appointment confirmation
+alt
+vaos service-->>vets-api: 500 {internal error}
+vets-api-->>vets-website: 500 {internal error}
+vets-website-->>Client: display Error {We can’t submit your request}
+deactivate vets-api
+deactivate vets-website
+deactivate Client
+end
+```
