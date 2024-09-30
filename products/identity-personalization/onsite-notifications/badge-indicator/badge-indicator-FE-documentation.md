@@ -8,7 +8,7 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 
 With unread messages:
 
- << needs image >>
+<img width="675" alt="Badge 1" src="https://github.com/user-attachments/assets/18fb8819-ada6-4d5b-82aa-972fe8116aa0">
 
 Desktop mockup (link tk)
 
