@@ -9,7 +9,7 @@ With the introduction of eCheck-in in early 2022, Veterans could check in remote
 Completing eCheck-in shows the patient as checked in within VistA and VSE-CS (i.e., both staff-facing applications), but Veterans do not have to be physically in the clinic waiting room at the time of completion, which is a mental model and process change for clinic staff.
 
 ### Compliments from Veterans about eCheck-in
-- Out of ~574 responses in early 2024 (from VSignals), there were 18 compliments from Veterans about how easy to use eCheck-in was, how excited they were about it, and how they wished it was available at more VA facilities. ([VSignals Summary of Common Themes from Veterans Report](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/EQl4f33NUjBDssglCQbteiEB4YP850RQPK-SgGlRotMGDA?e=ihkF9M).)
+- Out of ~574 responses in early 2024 (from VSignals), where the vast majority of comments were about Veteran's satisfaction with MSAs or their clinical encounter, there were 18 compliments from Veterans about how easy to use eCheck-in was, how excited they were about it, and how they wished it was available at more VA facilities. ([VSignals Summary of Common Themes from Veterans Report](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/EQl4f33NUjBDssglCQbteiEB4YP850RQPK-SgGlRotMGDA?e=ihkF9M).)
 
 <img width="800" alt="Screenshot 2024-09-25 at 10 31 00 AM" src="https://github.com/user-attachments/assets/55a70b48-e6b3-4ce5-b034-18fa0b6aff2a"> 
 
@@ -33,7 +33,7 @@ Further complicating these issues, VA facilities and clinics aren't mandated (i.
 - The Integrated Veteran Care (IVC) department received ~80-90 complaints about eCheck-in from facilities in early 2024.
 
 #### Complaints from Veterans
-- Out of ~574 responses in early 2024, there were 44 complaints from Veterans specifically about either, 1) clinic staff ignoring eCheck-ins, or 2) not enough information in appointment reminders and eCheck-in for them to find the clinic for their appointment(s). ([VSignals Summary of Common Themes from Veterans Report](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/EQl4f33NUjBDssglCQbteiEB4YP850RQPK-SgGlRotMGDA?e=ihkF9M).)
+- Out of ~574 responses in early 2024, where the vast majority of comments were about Veteran's satisfaction with MSAs or their clinical encounter, there were 44 complaints from Veterans specifically about either, 1) clinic staff ignoring eCheck-ins, or 2) not enough information in appointment reminders and eCheck-in for them to find the clinic for their appointment(s). ([VSignals Summary of Common Themes from Veterans Report](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/EQl4f33NUjBDssglCQbteiEB4YP850RQPK-SgGlRotMGDA?e=ihkF9M).)
 
 <img width="800" alt="Screenshot 2024-09-25 at 10 31 00 AM" src="https://github.com/user-attachments/assets/9cd69553-a359-45a1-8437-e00127ac241d"><br/><br/>
 
