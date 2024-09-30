@@ -6,7 +6,7 @@
 - [Enjoy HQ project](https://app.enjoyhq.com/projects/QwXlGYvnK/plan)
 - [Research Session Guest List Planning](https://docs.google.com/spreadsheets/d/1iL70YzCGE5qAeifvvCfLYuCWbTbd8tnnT9maJ3vx3_c/edit?gid=981393527#gid=981393527)
 - [Mural board for note taking](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1725465491316/e7a181f8754e25d530726bd324837e889b191d11?sender=u2bba352d5b2fc0f0969e0146)
-- [Recruitment diversity checker spreadsheet]() tbd
+- [Recruitment diversity checker spreadsheet](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=76780941#gid=76780941)
 
 ## Planned Timeline
 
