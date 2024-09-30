@@ -45,6 +45,8 @@ These are points at which the dashboard may change for the submitter.
 - Replies: Whether agent has replied yet
 - Replies: Whether business line has enabled or disabled
 - Number of previous inquiries a submitter has
+- Different statuses
+- Whether inquiry has attachments
 
 |Point when form changes|Different options|Result|Reference|
 |:--|:--|:--|:--|
@@ -53,5 +55,14 @@ These are points at which the dashboard may change for the submitter.
 |Replies: Whether agent has replied yet|Agent has replied or not|If no replies, only 1 accordion appears|[Review and send reply (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1224-131182)|
 |Replies: Whether business line has enabled or disabled|Enabled or disabled|If disabled, then submitter can't reply|🟡 Add link to documentation|
 |Number of previous inquiries a submitter has|5 or more inquiries|If 5 or more inquiries, add pagination|[With cards and sorting (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1224-131181&node-type=canvas&t=ZvNhhwfSwvWrr6ND-0)|
+|Different statuses|In progress, Replied, Reopened|Correct status appears based on status in CRM|[Statuses and triggers (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Statuses%20and%20triggers.md)|
+|Whether inquiry has attachments|Inquiry has attachments or not|Show attachments if an inquiry has them|[Review & send reply (Figma)](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1224-131182)|
 
-# Comparing CRM combined test plan scope
+## Comparing CRM combined test plan scope
+### Included in CRM combined test plan only
+- Signing with different identity credentials (DS Logon, ID.me, Login.gov
+  
+### Included in both
+- Whether submitter had previous inquiries
+- Different statuses
+- Whether inquiry has attachments
