@@ -124,7 +124,7 @@ you?
           - If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
      - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
 
-## Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions - 5 minutes
 Before we look at the website, let’s start with a few warm-up questions.
 1. I understand you are a Veteran. Is that right?
      - Thanks for confirming that.
@@ -229,7 +229,7 @@ Is there a way you could update that information from this page?
 
 (RECORD all comments, especially about alerts. Did they notice them? Y/N)
 
-### Option 3: Edit non-branching question (If p selected 2009 and has applied for a discharge upgrade)
+### Option 3: Edit non-branching question (If options 1 & 2 aren't valid)
 
 I’d like you to pretend that you served in the [branch of service not selected].
 (Options: Army, Navy, Air Force, Coast Guard, Marine Corps)
