@@ -50,7 +50,8 @@ VA Notify does not…
 - Track analytics per Veteran
 
 ## Supported notification channels (types)
-Currently we support email, text messaging (SMS) and push notifications with the Flagship Mobile App. You can find the VA Standard Operating Procedures for SMS [here](https://github.com/department-of-Veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
+Currently we support email, text messaging (SMS) and push notifications with the Flagship Mobile App. 
+Read our [VA Standard Operating Procedures for SMS](https://github.com/department-of-Veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
 
 ## Onboarding to VA Notify
 Welcome! Please submit an [intake form](https://github.com/department-of-Veterans-affairs/va.gov-team/issues/new?assignees=christy-tongty%2C+mjones-oddball%2C+GitSamJennings&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D) to kick off the process. This lets us know a little bit more about you and what you’re trying to accomplish to ensure VA Notify is a good fit. From there we may schedule a kick-off meeting to learn more and guide you through next steps.
