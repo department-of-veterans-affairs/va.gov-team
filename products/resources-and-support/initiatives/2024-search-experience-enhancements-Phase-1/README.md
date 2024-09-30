@@ -4,7 +4,7 @@
 - [Problems to solve](#problems-to-solve)
 - [Scope](#scope)
 - [Measuring success](#measuring-success)
-- [Relevant resources]
+- [Relevant resources](#relevant-resources)
 - [Launch planning](#launch-planning) 
   - [Collaboration cycle](#collaboration-cycle)
   - [Timeline](#timeline)
