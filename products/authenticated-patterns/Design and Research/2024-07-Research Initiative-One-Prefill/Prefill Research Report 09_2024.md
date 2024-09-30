@@ -68,12 +68,12 @@ We presented scenarios testing the following variations:
 
 |Hypothesis|Conclusion|Explanation|
 |:--|:--|:--|
-|Users will more easily notice the intro prefill alert when it’s at the top of the page. |Definitely True|Users preferred to see it at the top of the page.|
+|Users will more easily notice the authenticated intro prefill alert when it’s at the top of the page. |Definitely True|Users preferred to see it at the top of the page.|
 |We will learn that the user only needs the prefill alert on the Intro page|Definitely False|Users want to see the alert on the Intro page, but they also want to see it on Prefill confirm page with their editable information and the Edit screen as well|
 |Bolding ‘note’ will help users to see a block of text quicker|Somewhat True|This was true except in cases where there were multiple blocks of text started with the word ‘Note’.|
 |The users will prefer the address component over the gray box for the locked data|Likely False|There was a slight preference for the gray box over the address component, with one user specifically associating the color gray with ‘uneditable’ information.|
 |Users understand why we limit in screen edits for some types of data and find the messaging around the reason to be sufficient|Definitely True|Most users understood why this information could not be edited online and appreciated the messaging around protecting their data|
-|As long as the data is going back to their profile, they will not want to be asked where to save their data|Definitely False|Many participants expressed an interest in being able to choose where they want their changes to save.|
+|People will always want to save their changes to their profile.|Definitely False|Many participants expressed an interest in being able to choose where they want their changes to save.|
 |Users will prefer to see their 'old' data inline in the form fields rather than the locked gray box while they are editing. |Definitely True|8 out of 10 users preferred the inline text edit to the gray box.|
 |Users want to be informed if their data is not updating to their profile.|Definitely True|Users cared a lot about being very clear on where their data and updates were saving|
 |The confirmation alert will help users understand where their data has been updated. |Definitely True|Most participants read the alert text the first time and understood where their data would save.|
@@ -120,7 +120,7 @@ _Labels: `Pattern: Know when their information is prefilled`_
 
 We asked Veterans about the prefill alert on every page we looked at together. The general consensus was that they want to see the alert on all three of the previously mentioned pages, but not any others within the form. This was because the intro page gives them an idea of what to expect, the prefill confirm page shows them their prefilled information and allows them to edit, and then the edit screen provides that old data within the form fields - all places that made sense to Veterans to show the prefill alert.
 
-They also preferred to see the alert at the top of the form intro page.
+They also preferred to see the alert at the top of the form intro page. 
 
 > "The more [alerts] the merrier." P3
 
@@ -233,16 +233,17 @@ We specifically recruited participants to join from a mobile device so that we c
 ## Recommendations
 
 ### Prefill pattern
-* Add language to the prefill alert that makes it clear exactly where their information comes from and is saved.
-* Create guidance advising pattern users to include the alert at the top of the form intro page, as well as on Prefill check pages that show editable prefilled information. The alert should also be found on the page that allows users to edit prefilled information.
-* Bold the word ‘Note’ at the beginning of the text block that advises people how to update locked information.
-* Test a variation in the next research study that shows a gray card for locked data and a white card with a border for data that is editable on the Prefill check page to see if there is a stronger opinion on the style one way or the other.
+* Add language to the alert that makes it clear where their information comes from and is saved.
+* Create guidance advising pattern users to include the alert at the top of the form intro page, as well as on Prefill check pages that show editable prefilled information. The exception to that is for contextual alerts, such as the unauthenticated sign in alert, that should be placed above the relevant section they are referencing. 
+* Use the bolded word ‘Note’ only once on the page on the most important element.
+* Test a variation in the next research study that shows a gray card for locked data and a white card with a border for data that is editable on the Prefill check page to further drill down on the best option.
 * Work with CAIA to improve the instructions around updating locked personal information.
 
 ### Update Prefill pattern
-* Test a variation in our next research study that allows people to select where their updates get saved.
-* Test a variation in our next research study that includes edits from the review page to ensure this meets expectations.
-* Test a variation with AT users in our next research study that features inline editing to ensure this pattern is accessible.
+* Test the following variations (with non-AT and AT users) in our Upcoming Prefill Study
+  * One that allows people to select where their updates get saved
+  * One that includes edits from the Review page
+  * One that includes a gray card with locked data and white with border for editable data
 
 ### Additional recommendations
 
