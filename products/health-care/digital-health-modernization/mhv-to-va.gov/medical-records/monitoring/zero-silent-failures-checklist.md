@@ -135,7 +135,11 @@ If you answered yes to any of these questions then go through the following [che
 If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
 
 #### Monitoring
-* [ ] Do you monitor the APIs that you submit to via Datadog?
+* [X] Do you monitor the APIs that you submit to via Datadog?
+
+  Currently, these are all combined, -- MHV-62593 (research), MHV-62594 (implementation)
+  MR-specfic channel for monitor alerts -- MHV-62596
+
   - Allergies:
     - [X] Yes     
     - [ ] No
@@ -161,10 +165,10 @@ If not, then you'll need to consider the path user data took through both the cu
   - Continuity of Care Document:
     - [ ] Yes     
     - [ ] No
-    - [X] Still Being Developed, so N/A
+    - [X] Still Being Developed, so N/A (MHV-62491, 2, 3)
   - Settings Page:
     - [ ] Yes     
-    - [X] No - Not yet deployed, will add monitor when it goes Live
+    - [X] No - Not yet deployed, will add monitor before it goes live (MHV-62490)
 
   * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
@@ -213,14 +217,20 @@ If not, then you'll need to consider the path user data took through both the cu
   * Link to channel where alerts are populated: _#mhv-on-vagov-alerts_
 
 * [X] Does more than one person look at the Slack notifications channel containing errors on a daily basis?
+
+  _Team ticket for this (MHV-62494)_
+
     - [X] Yes     
     - [ ] No
 
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
 * [X] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
-     - [X] Yes     
-     - [ ] No
+
+  _We have a ticket to create a playbook for this (MHV-62597)_
+
+     - [ ] Yes     
+     - [X] No
 
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
@@ -387,7 +397,9 @@ _Yes, for all domains with the exception of CCD (in development) and Settings._
 #### User experience
 
 * [X] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
-Aside from the two scenarios we have identified above, the answers are 'Yes' as noted below.
+      
+  _Aside from the two scenarios we have identified above, the answers are 'Yes' as noted below._
+
   - Allergies:
     - [X] Yes     
     - [ ] No
