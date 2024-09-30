@@ -78,9 +78,19 @@ The following changes will be part of a future iteration phase
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
-- Kickoff ticket
+Milestone | Date | Link to issue |
+---| :---: | :---: |
+| Collaboration cycle kickoff request | | |
+| PO Sync | | |
+| Design Intent | | |
+| CMS Request| | |
+| Research review| | |
+| Midpoint Review| | |
+| Analytics request| | |
+| Contact center review| | |
+| Staging review| | |
+| Privacy, security, infrastructure readiness review| | |
+| Architecture Intent| | |
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
