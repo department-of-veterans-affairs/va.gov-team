@@ -40,7 +40,7 @@ Veterans with pending disability compensation claims.
 
 # Core Bet
 
-Our core bet is that if we provide veterans with a clearer understanding of their unique responsibilities versus the VA's at each stage of the claims process, they will be able to more effectively contribute to their own claims. By redefining how the claims process is depicted in the CST, not just as a linear timeline, but as a process that may cycle between stages, we can align veterans' expectations with the reality of the claims process. This increased understanding should lead to veterans submitting more accurate and relevant evidence in a timely fashion, thereby facilitating a smoother and more efficient claims process.
+Our core bet is that if we provide veterans with a clearer understanding of their unique responsibilities versus the VA's at each stage of the claims process, they will be able to more effectively contribute to their own claims. By redefining how the claims process is depicted in the CST, not just as a linear timeline, but as a process that may cycle between stages, we can align veterans' expectations with the reality of the claims process. This increased understanding should lead to higher levels of satisfaciton with the transparency of the information provided.
 
 # MVP
 
