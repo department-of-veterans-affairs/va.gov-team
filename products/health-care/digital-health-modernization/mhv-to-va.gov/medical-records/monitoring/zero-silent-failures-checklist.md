@@ -4,7 +4,7 @@
 
 * Does your application have a user-facing transaction that is submitted to a back-end system?
 
-  _For Medical Records, we do NOT have any user entered data submitted to a backend system.  One exception to this is that users are able to change their "VHIE Sharing" opt in/out out setting via our settings page. That change is submitted to the backend and the user is provided a success or error message. For various domains (below) we do call various backend systems to RETRIEVE data, therefore we are marking those as 'Yes'._
+  _For Medical Records, we do NOT have any user entered data submitted to a backend system, with one exception: users are able to change their "VHIE Sharing" opt in/out out setting via our settings page. That change is submitted to the backend and the user is provided a success or error message. For various domains (below) we do call various backend systems to RETRIEVE data, therefore we are marking those as 'Yes'._
 
   - Allergies:
     - [X] Yes     
