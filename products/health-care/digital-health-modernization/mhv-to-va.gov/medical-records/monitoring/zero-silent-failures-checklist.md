@@ -170,7 +170,7 @@ If not, then you'll need to consider the path user data took through both the cu
 
 * [X] Does your Datadog monitoring use the appropriate tagging?
 
-  _All of our Datadog monitors have the tags `team`, `service`, `env`, and `itportfolio`. We will look into adding the `dependency` tag._
+  _All of our Datadog monitors have the tags `team`, `service`, `env`, and `itportfolio`. We will look into adding the `dependency` tag ([MHV-62580](https://jira.devops.va.gov/browse/MHV-62580))._
 
   - Allergies:
     - [X] Yes     
