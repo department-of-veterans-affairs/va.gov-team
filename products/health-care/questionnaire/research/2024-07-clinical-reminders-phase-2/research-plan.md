@@ -93,7 +93,9 @@ The purpose of this research is to gather feedback from Veterans on the revised 
 
      - Conversation guide link TBD 
 
-     - Prototype link TBD
+     - [BHL Prototype](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbhl.va.gov%2Fx9tzw3y&data=05%7C02%7C%7Ce8094c7e54ad4314863008dce16bf43c%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638633100971715421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YUEsmfXIfevOWAS%2BqaghJlUPucGtN9Dv%2BfHXnc652fs%3D&reserved=0) 
+
+***Important Note:** Prototype link **will expire on Oct. 3, 2024 at 12:00 pm**. If you need more time in accessing the link,  please contact [Nina Anusavice](nina.anusavice@va.gov) to obtain a new link. In addition, the **link can only be used once** if you go through the whole questionnaire; to have access to the link more than once, **do not** go through the entire experieince by selecting **OK** on the **Thank you** screen.
 
  
 
