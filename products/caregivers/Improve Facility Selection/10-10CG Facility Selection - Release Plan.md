@@ -78,8 +78,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: 11/4-11/6 - 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 10%, approximately 65 page views
 
 #### Results
 
@@ -158,6 +158,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 ## Post Launch metrics
 
 Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
+
+- [Link to GA4 10-10CG Facility Page dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
 
 ### 1-week results
 
