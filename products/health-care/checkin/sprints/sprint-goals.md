@@ -100,6 +100,7 @@
       - ✔️ 🟨 [[DevOps] Request OIDC-assumable role for `dsvagovcloud` from `checkin-devops`.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/454)
       - ✔️ 🟨 [[DevOps] Create `shared_secrets` Terraform module to share secrets between different AWS accounts.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/650)
       - ✔️ 🟨 [[DevOps] Add documentation for GitHub App in `va.gov-team` repo.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/529)
+      - ✔️ 🟨 [[DevOps] Update `dsvagovcloud` SSM parameters for `vaec-cms` outputs after applies.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/240)
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to advance the FE and BE work as much as possible**
     - ✔️ WAITING ON SCOPE DECISIONS:
