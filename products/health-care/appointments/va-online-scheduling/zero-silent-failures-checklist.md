@@ -84,6 +84,8 @@
     Note that I'm excluding v1 endpoints but let me know if we need to look into that as well @cferris32.
     A: The v1 endpoints as they are defined in the VAOS routes have virtually never been used. From our routes perspective, we went straight from v0 to v2 (v0 has long since been    deleted). I cannot find any evidence that these endpoints are currently being used even by stray clients, but this might be worth additional investigation and possibly shutting off the routes if we believe they aren't needed and don't want to chance them being hit. [CF]
 
+Summary of above: our vets-api v1 endpoints have been inactive and unused for years so we are excluding them from this list.
+
 ### Does your application submit to an API that relies on Sidekiq (or another background job processor)?
 
 - VA Direct Schedule Flow
@@ -111,6 +113,8 @@ A: I'm just looking through Sidekiq documentation and the code [here](https://gi
 A: Confirmed that our understanding of the sidekiq job for the user session is correct, this should not be breaking failure in our flow. [CF]
 A: FYI I've found another Sidekiq job that validates appointments_index schema [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/v2/appointments_service.rb#L43) but this is currently turned off via Flipper. [JL]
 - [JR] We don't have visibility to downstream services so we can only confirm that we don't use Sidekiq in the Appointments FE (src/applications/vaos) and BE (modules/vaos).
+
+Summary of above: we have no sidekiq jobs that are at risk of blocking our user flow or being critical failures.
 
 If you answered yes to any of these questions then go through the following [checklist](#checklist) as a team exercise to determine if your application has silent failures.
 
