@@ -53,14 +53,19 @@
     - 🟦 [[BE] [OH] update travel claims client to use a different client id for OH claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93074)
     - 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
     - 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
-    - [Schedule Privacy, security, infrastructure readiness review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html)
+    - 🟩 Schedule Privacy, security, infrastructure readiness review [instructions](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html)
 - **Check in with staff after checking in**
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
+    - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
+    - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
     - Schedule Design Intent (PO Sync occurred on 9/25)
-    - Schedule Research Review?
+    - Schedule Research Review
     - Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well)
 - **Edit existing content on a resources and support page from Check in**
-    - TBD
+    - TBD???
+- **Research Cards & Their Headers**
+    - 🟥 [[Research] Synthesize unmoderated card sort data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93642)
+    - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)    - 
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93424)
 - **Tech Debt**
@@ -74,7 +79,7 @@
     - **NOTE: ALL ENGINEERS SHOULD BE WORKING ON THE ZERO SILENT EFFORT THIS SPRINT, INCLUDING DEVOPS**
     - ❗❗❗❗❗ 🟦[Complete Silent Failure Checklist for ALL Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92903) ❗❗❗❗❗
         - **HARD DEADLINE IS OCT 1**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92521)
+    - ✔️ ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92521)
     - **Move to New AWS Instance**      
       - ✔️ 🟨 [[DevOps] Request kms:DeleteAlias and kms:UpdateAlias permissions from VAEC.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/614)
       - ✔️ 🟨 [[DevOps] Discovery on an Upstream API Gateway](https://github.com/department-of-veterans-affairs/checkin-devops/issues/502)
@@ -112,7 +117,7 @@
 - **Research Cards & Their Headers**
     - ✔️ 🟥 [[Research] Hold kick-off with Perigean and monitor incoming study data in Optimal Workshop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92901)
 - **CIE Analytics**
-    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
+    - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
     - ✔️ 🟥🟪 [Gather quantitative data for what users are selecting on the /appointments page in pre-check-in](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92844)
 
 
