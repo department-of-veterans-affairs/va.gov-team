@@ -1,86 +1,105 @@
 # QA Artifact for Discharge Upgrade Wizard
-Conversion to Subtask pattern and CAIA Content Updates launching Q4 2024
+
+v2 launching Q4 2024
 
 ## Overview of app and QA risks
-The Discharge Upgrade Wizard app has **<minimum/moderate/high>** complexity from a testing perspective.
+
+The Discharge Upgrade Wizard has **moderate** complexity from a testing perspective.
 
 Simplicity:
+
 - Not authenticated
 - Uses design system components as much as possible
 - No API calls
 
 Complexity:
+
 - Branching logic for display of questions and routing to results pages
-- A review page where the user may click Edit to return to a question and change their answer.
 - Dynamic content on results pages
 
 ### React application complexity: moderate
-The first question in the application is "What was your branch of service?"
 
-Based on the response, the user will be asked between <#> and <#> questions. We refer to this as "branching logic." There is one answer type:
+There are potentially 12 questions that can be asked in the wizard flow.
 
-- Radio buttons: 1 response per page
+Questions throughout the wizard can branch based on the immediate answer to the question as well as previous answers in the wizard flow. Logic for navigation is built into the continue button when answering a question and will navigate to the appropriate question.
 
-Three is also a review page, where the user has the chance to click Edit to return to a quesion and edit their answer. Depending on their new answer, they may then be presented with additinal pages of questions to answer before they are returned to the review screen.
+For example answering "I received a DD215 that shows my discharge upgrade or correction. But I want an updated DD214." instead of "I was discharged due to my sexual orientation (including under the Don’t Ask, Don’t Tell policy)." to the "Tell us why you want to change your discharge paperwork." will show a different question next in the wizard flow.
 
-Every question also has its own branching logic. Not all questions are Yes/No. For screens where the answers are Yes, No, or I'm not sure, if a user selects "Yes" to a question, they will be guided down a question path or to a results screen. A different path exists for a "No" or "I'm not sure" response.
+There are two answer types to these questions:
 
-[This Mural](URL) illustrates how the questions flow from one to the next and to the results screens at the end.
-[This Mural](URL) illustrates the review screen edit flow.
+- Radio buttons: 1 response
+- Dropdown select: 1 response
+
+[This Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696352911500/80253b1c7200212cbcbcfb940d2cf4a29fed8417?sender=ua4eca0cc168eff677bd03940) illustrates how the questions flow from one to the next and to the review and results screens at the end.
 
 ## Our QA approach
+
 **UX / interaction**
 
-For every user story implemented, the team manually tested most question and results flows. Some questions have the same branching logic behavior if Yes, "No", or "I'm not sure" is selected, or if specific answers to military branch, reason for discharge, etc. are chosen.
+The team manually tested all flows and branching logic with each complete user story.
+We tested edit question flows on the review page along with navigation when editing a question.
 
-We added automated tests (both unit tests and end-to-end tests) to cover all cases and to prevent regression. 
+We added unit and end-to-end tests to cover all flows and branching logic to prevent regression.
 
 ## Manual test cases
+
 **UX validation**
 
-- Navigation through most possible flows
-  - Each individual possible answer was chosen on a page (non Yes/No/I'm not sure)
-  - "Yes" or checkbox(es) selected for each question
-  - "No" or "I'm not sure" selected for each question
-  - Combinations of the above
-  - Results screen accordions validated for proper open/close behavior and correct content
+- Navigation through flows
+  - Followed mural artifact to test flows and potential branching questions
+  - Validated branching logic worked as expected
+  - Result screen dynamic content validation along with external link and accordion open/close behavior
 - Validation errors as expected for invalid responses
-  - "Yes"/"No"/"I'm not sure" questions
-  - Multi-checkbox questions
+  - Dropdown and Radio button questions
+- Review page and edit question logic
+  - Validated editing a question works as expected and editing a branching question showed a new question if an answer was changed
+  - Navigation when editing a question goes back to review page if answer was not changed
 - Deep linking prevention
   - If a user lands within the flow for any reason, they are redirected to the `/introduction` screen
 
 ## Automated Test Coverage
+
 ### Unit Test Coverage
-#### Shadow DOM Limitations **(CHRIS, ARE THESE A TRUE STATEMENTS? CAME FROM PAW)**
 
-All VA design components use the shadow DOM for style encapsulation. Unit testing Discharge Upgrade Wizard code had its unit testing challenges as the shadow DOM cannot be targeted in a unit test. 
+#### Shadow DOM Limitations
 
-Any actions requiring `<va-button>` clicks cannot be unit tested as the `<button>` is contained in the shadow DOM. Our "Back" and "Continue" buttons are `<va-button>`s; we cannot simulate clicking them for form validation or navigation.
+All VA design elements use the shadow DOM for style isolation. This created challenges in unit testing the Discharge Upgrade Wizard, as the shadow DOM cannot be directly accessed in unit tests.
 
-`<va-accordion>` and `<va-accordion-item>` expand/collapse behavior are limited as well, affecting coverage for the results pages.
+Any action involving `<va-button>` clicks is untestable because the `<button>` resides within the shadow DOM. Since our "Back" and "Continue" buttons are `<va-button>` components, we can't simulate clicks for form validation or navigation purposes.
 
-As a result, tests for questions pages are limited to a simple "did it load the correct HTML content?" check. This includes testing the contents of dynamic accordions and other dynamic content on results set 1, pages 1-2.
+Due to these limitations unit tests are simple correct HTML content checks.
 
-#### Utility: General utilities **(CHRIS, ARE THESE A TRUE STATEMENTS? CAME FROM PAW)**
+#### Utility: General utilities
 
-The results pages use utilities that determine whether the correct answers have been selected in order to be on that results page (are all form inputs properly filled out?). 
+Utilities are used throughout the wizard and are all covered by unit tests:
+[Helpers](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discharge-wizard/tests/v2/helpers)
+[Utilities: Shared](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discharge-wizard/tests/v2/utilities/shared.unit.spec.js)
+[Utilities: Answer Clean Up](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discharge-wizard/tests/v2/utilities/answer-cleanup.unit.spec.js)
+[Utilities: Display Logic](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discharge-wizard/tests/v2/utilities/display-logic-questions.unit.spec.js)
 
-All utilities are completely covered by unit tests [here](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/pact-act/tests/utilities).
+#### Unit Test Coverage Statistics
 
-#### Unit Test Coverage Statistics **(CHIS, YOU'LL WANT TO CORRECT THE DUW NAME IN THE TABLE BELOW, AND ENTER THE STATS)**
-|Application (src/applications) | Total Tests | Lines | Functions | Statements | Branches | Avg of All % |
-|---|---|---|---|---|---|--|
-|discharge-upgrade | | | |  |  | **%** |
+| Application (src/applications) | Total Tests | Lines  | Functions | Statements | Branches | Avg of All % |
+| ------------------------------ | ----------- | ------ | --------- | ---------- | -------- | ------------ |
+| discharge-wizard               |             | 70.77% | 70.85%    | 70.85%     | 46.85%   | **%**        |
 
-### Cypress Test Coverage **CHRIS, YOU'LL WANT TO EDIT FOR DUW)
+### Cypress Test Coverage
 
-You can refer to [this Mural](url) in addition to this written explanation to understand how the Cypress tests are structured.
+You can refer to [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696352911500/80253b1c7200212cbcbcfb940d2cf4a29fed8417?sender=ua4eca0cc168eff677bd03940) along with this written explanation to better understand the structure of the Cypress tests.
 
-There are 25 comprehensive [Cypress test files](URL). For each of the possible answers to the first question about (ENTER FIRST QUESTION OR...), there is a corresponding folder (**A**) of Cypress suites. Within each of the folders are folders (**B**) for possible answers for those questions. At this level, the questions all have radio buttons, so each of the folders is "Yes", "No", or "I'm not sure." Within each of those folders are individual Cypress tests (**C**) covering an end-to-end flow for that answer. Below is an example of one group of Cypress tests.
+The [Cypress tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discharge-wizard/tests/v2/cypress) have been broken down by flow, review and base navigation.
 
-- (**A**) "During both of these time periods" <- service period response
-  - (**B**) 
+The flows folder we break down the main branching flows based on the answer to the discharge reason question and provide a main flow cypress test. These flows are shown in the mural doc and match the same logic.
 
-The functionality tested within Cypress flows cover the below:
-1.
+The review folder provides end-to-end flow testing for editing a question and all edge case scenarios including navigation when choosing to edit an answer. This includes testing all branching questions and making sure editing a question works for all questions.
+
+The functionality tested within Cypress flows cover the following:
+
+1. Navigation through the wizard choosing discharge form update DD215 for discharge reason
+2. Navigation through the wizard choosing discharge is unjust for discharge reason
+3. Navigation through the wizard choosing sexual orientation for discharge reason
+4. Navigation through the wizard choosing transgender for discharge reason
+5. Combinations of different answers to branching questions for the main flow, making sure all other flows are covered
+6. Radio button questions form validation
+7. Multi-checkboxes questions form validation
+8. Deep linking prevention - user attempts to link to a part of the form before filling out inputs that precede it
