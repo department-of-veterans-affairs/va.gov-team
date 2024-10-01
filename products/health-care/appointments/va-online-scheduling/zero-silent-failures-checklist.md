@@ -326,7 +326,7 @@ end
 alt
 vaos service-->>vets-api: 500 {internal error}
 vets-api-->>vets-website: 500 {internal error}
-vets-website-->>Client: dispay error message {We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later.}
+vets-website-->>Client: display error message {We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later.}
 end
 
 vets-api->>PPMS: GET /ppms/v1/providers/${id}
@@ -359,7 +359,7 @@ AVS service-->>vets-api: 400 {'Invalid AVS id', 'AVS id does not match accepted 
 AVS service-->>vets-api: 400 {'Invalid parameters', 'Station number and Appointment IEN must be present and valid.'}
 AVS service-->>vets-api: 401 {'Not authorized', 'User may not view this AVS.'} 
 vets-api-->>vets-website: appointment.avsPath {'Error retrieving AVS link'}
-vets-website-->>Client: dispay error {'We can't access after-visit summaries at this time. We’re sorry. We’ve run into a problem.'}
+vets-website-->>Client: display error {'We can't access after-visit summaries at this time. We’re sorry. We’ve run into a problem.'}
 end
 deactivate vets-api
 deactivate vets-website
