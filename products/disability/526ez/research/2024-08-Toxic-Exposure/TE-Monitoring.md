@@ -11,7 +11,9 @@
 - [Reporting Schedule](#reporting-schedule)
 - [526ez Success Metrics](#526ez-success-metrics)
     - [Validating our metrics](#success-metric-validation)
-- [Medallia survey and Contact Center data](#medallia-survey-and-contact-center-data)
+- [Top 5 Takeaways](#Top-5-Takeaways )
+- [Medallia Survey Data](#Medallia-Data)
+- [Contact Center MyVA411 Data](Contact-Center(MyVA-411-Data))
 - [Appendix](#appendix)
   
 ## Background
@@ -112,8 +114,6 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |**Limitations**|- # of submissions isn't going to equal number of GA4 active users since GA4 does not track the same user across multiple sessions or devices. <br> -Submissions will be lower than page views. Some users may take more than one session to go back and forth in the form.|None noted. |
 |**Any next steps**|-Measure how many Veterans completed the TE questions at end of 1.0 and 1.1. -This will tell us what percentage of Veterans submitted vs. viewed TE questions, which could help inform research design. <br> -This is a nice-to-have addition. |We wonder if we could use this report down the road to calculate a rough average number of pages that a Veteran sees in the TE flow. |
 </details>
-
-## Veteran Feedback on Toxic Exposure via Medallia Survey and Contact Center MyVA 411 data 
 
 ## Top 5 Takeaways 
 **These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.** 
