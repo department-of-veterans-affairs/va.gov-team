@@ -118,7 +118,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 ## Top 5 Takeaways 
 These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.
 
-### 5-25% Takeaways (8/28-9/20) 
+## 5-25% Takeaways (8/28-9/20) 
     
 **Takeaway 1.** 
 
@@ -138,13 +138,13 @@ It is too early to use our qualitative data sources to evaluate this success of 
 
 
 
-### Medallia Data 
+## Medallia Data 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
 <details>
   <summary> Click to see tables highlighting trends below. </summary>
 
 All Medalia survey data is reported as a % of 4+5 answers.
-#### Success Metrics
+### Success Metrics
 |**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 25% (8/28-9/20)** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
 |--|--|--|--|--|--|--|
 |**CSAT-Intercept**| 36.2%|41.9% | | |
@@ -153,7 +153,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**Trust Overall**|41% |52% | |
 |**WIP How interaction changed trust**||  | | |
 
-#### Toxic Exposure feature
+### Toxic Exposure feature
 |**Data point**|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
@@ -162,7 +162,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**Trust Overall**| | | | |
 |**WIP How interaction changed trust**| | | | |
 
-#### Thematic Tags 
+### Thematic Tags 
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 
 |Rank|Pre-launch (6 weeks)|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
@@ -175,7 +175,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |5|Getting help (n=23)|BIRLS error (4)|
 </details>
 
-### Contact Center(MyVA 411 Data)
+## Contact Center(MyVA 411 Data)
 Data from the MyVA411 information line (800-698-2411) is logged in Salesforce by call center agents, then requested by researchers to review. 
 <details>
   <summary> Click to see tables highlighting trends below. </summary>
