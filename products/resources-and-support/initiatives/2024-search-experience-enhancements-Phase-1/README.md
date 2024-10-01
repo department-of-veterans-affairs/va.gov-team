@@ -120,7 +120,7 @@ Milestone | Date | Link to issue |
 <details>
   <summary> Example article </summary>
 
-![image](https://github.com/user-attachments/assets/7a021d11-0d97-4e34-bc09-e357414398f8)
+![image](https://github.com/user-attachments/assets/b1fc2e64-025e-4a5b-a452-8c087c6a36b0)
 
 </details>
 
