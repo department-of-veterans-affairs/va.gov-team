@@ -1,7 +1,7 @@
 # Resources & Support Product Brief
 
-[MVP product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md)
-[2024 - Search experience enhancements initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1)
+- [MVP product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/product-outline.md)
+- [2024 - Search experience enhancements initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1)
 
 Resources and Support (R&S), originally called “Learning Center”, was created to contain Tier 2 content. This product focuses on creating an IA and content design for tier 2 content that includes benefit learning, knowledge, help, and support content categories. 
 
