@@ -38,6 +38,7 @@
       - 🟨 [[DevOps] Submit ESECC Request for vaec-cie Staging VPC to Station 500 and 530 New Addresses](https://github.com/department-of-veterans-affairs/checkin-devops/issues/604)
       - 🟨 [[DevOps] Submit ESECC Request for vaec-cie Dev VPC to Station 500 and 530 New Addresses](https://github.com/department-of-veterans-affairs/checkin-devops/issues/605)
       - 🟨 [[DevOps] Develop VistA-API System Tests to Verify DB Changes](https://github.com/department-of-veterans-affairs/checkin-devops/issues/603)
+      - 🟨 [[DevOps] Figure out how to connect to MAP or onboard or whatever we need to do](https://github.com/department-of-veterans-affairs/checkin-devops/issues/612)
 - **OH Travel**
     - ❗ 🟦 G&K - [[BE] [OH] update travel claims client to use a different client id for OH claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93074)
     - ❗ 🟦 G&K - [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
