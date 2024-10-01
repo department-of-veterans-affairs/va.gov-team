@@ -89,7 +89,6 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 
 ### Success Metric Validation
-
 <details>
   <summary>We are regularly evaluating our top success metrics to make sure we can trust them. Click to expand findings below. </summary>
 
@@ -114,8 +113,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |**Any next steps**|-Measure how many Veterans completed the TE questions at end of 1.0 and 1.1. -This will tell us what percentage of Veterans submitted vs. viewed TE questions, which could help inform research design. <br> -This is a nice-to-have addition. |We wonder if we could use this report down the road to calculate a rough average number of pages that a Veteran sees in the TE flow. |
 </details>
 
-## Surfacing UX Insights w/ Medallia Survey and Contact Center MyVA 411 data 
-Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
+## Veteran Feedback on Toxic Exposure via Medallia Survey and Contact Center MyVA 411 data 
 
 ## Top 5 Takeaways 
 **These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.** 
@@ -123,8 +121,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 <details>
   <summary> Expand to see insights.</summary>
 
-
-### 5-25% Takeaways
+### 5-25% (8/28-9/20) Takeaways
     
 **Takeaway 1.** Early data from the success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
    
@@ -139,6 +136,8 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 
 
 ### Medallia Data 
+Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
+
 All Medalia survey data is reported as a % of 4+5 answers.
 |**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 50%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
 |--|--|--|--|--|--|--|
