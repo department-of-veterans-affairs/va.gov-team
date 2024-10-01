@@ -118,7 +118,7 @@ Many participants didn't understand the relationship with their data and the aut
 
 _Labels: `Pattern: Know when their information is prefilled`_
 
-We asked Veterans about the prefill alert on every page we looked at together. The general consensus was that they want to see the alert on all three of the previously mentioned pages, but not any others within the form. This was because the intro page gives them an idea of what to expect, the prefill confirm page shows them their prefilled information and allows them to edit, and then the edit screen provides that old data within the form fields - all places that made sense to Veterans to show the prefill alert.
+We asked Veterans about the prefill alert on every page we looked at together. Generally, Veterans wanted to see the alert on all three of the previously mentioned pages, but not any others within the form. The intro page gives them an idea of what to expect. The prefill check page shows them their prefilled information and allows them to edit. The edit page provides that old data within the form fields. Veterans thought it made sense to see an alert on these pages.
 
 They also preferred to see the alert at the top of the form intro page. 
 
@@ -133,7 +133,7 @@ _Labels: `Pattern: Know when their information is prefilled`_
 
 Most Veterans felt that bold text made them pay more attention to the information that followed. Some used bold text and headers as they scanned the page to get an idea of what it was talking about before reading more in depth.
 
-Caution should be taken in overusing this pattern, however, as there are sometimes instances of forms or pages where multiple text blocks start with the word ‘Note’ which can compete for user attention.
+We recommend caution, since it's easy to overuse this pattern. There are instances of forms or pages where multiple text blocks start with the word ‘Note’, competing for user attention.
 
 > "I look down and do a quick glance over the bold titles." P2
 
@@ -144,7 +144,7 @@ Caution should be taken in overusing this pattern, however, as there are sometim
 
 _Labels: `Pattern: Know when their information is prefilled`_
 
-We saw a wide range of reactions to the two style variations of showing the prefilled data. While most preferred the gray card, one participant didn’t notice it until it was pointed out to them. Others preferred the address component or expressed no clear opinion on the matter.
+We saw a wide range of reactions to the two style variations of showing the prefilled data. While most preferred the gray card, one participant didn’t notice it until we pointed it out to them. Others preferred the address component or expressed no clear opinion on the matter.
 
 > "I like the gray box better - it stands out more." P10
 
@@ -155,7 +155,7 @@ We saw a wide range of reactions to the two style variations of showing the pref
 
 _Labels: `Pattern: Know when their information is prefilled`_
 
-Many Veterans have experienced issues with identity theft, and with recent news that most American's SSNs have been leaked, this issue was a hot topic during the research sessions. Some Veterans did not see any added value of knowing this information and felt that it should be inherent that the VA is protecting their data. However, more expressed that they felt it was important and felt the messaging helped them gain deeper trust with the VA.
+Many Veterans have experienced issues with identity theft. With recent news that most American's SSNs have been leaked, this issue was a hot topic during the research sessions. Some Veterans did not see any added value of knowing this information and felt that it should be inherent that the VA is protecting their data. However, more expressed that they felt it was important and felt the messaging helped them gain deeper trust with the VA.
 
 One participant did express concern at the instruction to change your name or other personal information over the phone. They had worked in cyber security for decades and stated that it is much easier to socially engineer someone into allowing a data update over the phone than it is to hack into someone’s online account to change it that way. 
 
@@ -170,9 +170,9 @@ One participant did express concern at the instruction to change your name or ot
 
 _Labels: `Pattern: Update their prefilled information`_
 
-A common example we heard Veterans discuss was that of snow birds (people who live in the north during the summer and vacation in the south during the winter) - they could imagine those folks might want to have a different address saved to specific forms rather than to their profile if, for instance, they needed prescriptions mailed to their vacation home address. For this reason, a majority of people said they would want the choice of where to save their updates.
+A common example we heard Veterans discuss was that of snow birds. Snow birds are people who live in the north during the summer and vacation in the south during the winter. They could imagine those folks might want to have a different address saved to specific forms rather than to their profile. For example, they might need prescriptions mailed to their vacation home address. 
 
-There was still confusion about what these updates meant. While one participant clearly read and understood that their updates would only save to the form in one of the tasks, they then stated they assumed eventually their updates will “dump out” into their profile data. Another read the sign in alert and thought it meant that by signing in, their updates would automatically go to their profile and not just the form itself.
+There was still confusion about what these updates meant.  One participant clearly read and understood that their updates would only save to the form in one of the tasks. Then, they said they assumed their updates will eventually “dump out” into their profile data. Another participant read the sign in alert and thought that by signing in, their updates would automatically go to their profile and not just the form itself.
 
 > "If I’m gunna take the time to update my information, I would like it to be updated in the whole system because… if I need to change my information, I need to change my information." P9
 
@@ -182,7 +182,7 @@ There was still confusion about what these updates meant. While one participant 
 
 _Labels: `Pattern: Update their prefilled information`_
 
-It was clear to most participants that editing their information would happen on a different page, but some mentioned wishing it could happen on the same page in order to cut down on page load times. Some mentioned concern that the system might give them an error if they didn’t have the proper number format (including dashes or periods), but were pleasantly surprised when the update went through. 
+It was clear to most participants that they would edit their information on a different page. However, some wanted to edit their information same page to cut down on page load times. Some also were concerned that they might see an error if they didn’t have the proper number format (including dashes or periods), but were pleasantly surprised when the update went through. 
 
 > "It would definitely take me to the edit page [to update my information]." P4
 
@@ -192,9 +192,9 @@ It was clear to most participants that editing their information would happen on
 
 _Labels: `Pattern: Update their prefilled information`_
 
-Many participants expected to see their ‘old’ data inline within the form fields and felt this was a standard way to display the information. While some liked the styling of the information in the gray box, 8 out of 10 participants said they would prefer to see their information directly within the form fields. This was partially due to the convenience of being able to change some but not all of their information, like if a phone number has a typo.
+Many participants expected to see their ‘old’ data inline within the form fields and felt this was a standard way to display the information. Some liked the styling of the information in the gray box. 8 out of 10 participants said they would prefer to see their information directly within the form fields. This was partially due to the convenience of being able to change some but not all of their information, like if a phone number has a typo.
 
-One participant mentioned their association of the color gray with meaning they could not edit the information, so the gray card made more sense to them. 
+The gray card made more sense to one participant because they associated the color gray with not being able to edit the information.
 
 > "I would think its pretty standard [to see my old data inline]" P13
 
@@ -205,7 +205,7 @@ One participant mentioned their association of the color gray with meaning they 
 
 ### Finding 1: It is not always clear to people the difference between the autosave feature and updates to their prefilled data.
 
-Although we asked no specific questions about the autosave alert, seven participants organically brought it up. While it was a popular feature, it appeared to sometimes compete with people’s understanding of changes getting saved to their profile or even completing the form itself. 
+Although we didn't ask about the autosave alert, seven participants organically brought it up. It was a popular feature, but it appeared to sometimes compete with people’s understanding of changes getting saved to their profile or even completing the form itself. 
 
 > "[On the Prefill Check page] It’s saying my request has been saved… so basically they are saying that they received my Board of Appeals request… But I haven’t actually sent [in the request. I guess] it just has been saved for, like, the moment." P4
 
@@ -225,7 +225,7 @@ We heard from a variety of people that they struggle with the sign in process. O
 
 ### Finding 3: Sharing a prototype on mobile is hard.
 
-We specifically recruited participants to join from a mobile device so that we could be mobile-first in our approach to testing this design pattern. The average time it took for participants to share the prototype on their mobile device was just under seven minutes. There were three participants that took longer than ten minutes to share the prototype from their phone, and for one participant we decided it would be easier if the moderator just shared their screen. 
+We specifically recruited participants to join from a mobile device to be mobile-first in our testing approach. The average time it took for participants to share the prototype on their mobile device was just under seven minutes. Three participants took longer than ten minutes to share the prototype from their phone. For one participant, we decided it would be easier if the moderator just shared their screen. 
 
 > "I use DuckDuckGo [a browser which doesn’t like sharing things]. Let me try something else." P6
 
@@ -234,7 +234,7 @@ We specifically recruited participants to join from a mobile device so that we c
 
 ### Prefill pattern
 * Add language to the alert that makes it clear where their information comes from and is saved.
-* Create guidance advising pattern users to include the alert at the top of the form intro page, as well as on Prefill check pages that show editable prefilled information. The exception to that is for contextual alerts, such as the unauthenticated sign in alert, that should be placed above the relevant section they are referencing. 
+* Create guidance advising pattern users to include the alert at the top of the form intro page, as well as on Prefill check pages that show editable prefilled information. Exception: Contextual alerts, such as the unauthenticated sign in alert, should be placed above the relevant section they are referencing.
 * Use the bolded word ‘Note’ only once on the page on the most important element.
 * Test a variation in the next research study that shows a gray card for locked data and a white card with a border for data that is editable on the Prefill check page to further drill down on the best option.
 * Work with CAIA to improve the instructions around updating locked personal information.
