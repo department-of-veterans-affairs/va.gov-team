@@ -81,7 +81,7 @@
     GET /users/v2/session/jwts
     POST /users/v2/session?processRules=true
     ```
-    A: The v1 endpoints as they are defined in the VAOS routes have virtually never been used. From our routes perspective, we went straight from v0 to v2 (v0 has long since been    deleted). I cannot find any evidence that these endpoints are currently being used even by stray clients, but this might be worth additional investigation and possibly shutting off the routes if we believe they aren't needed and don't want to chance them being hit. [CF]
+The v1 endpoints as they are defined in the VAOS routes have virtually never been used. From our routes perspective, we went straight from v0 to v2 (v0 has long since been    deleted). We cannot find any evidence that these endpoints are currently being used even by stray clients, but this might be worth additional investigation and possibly shutting off the routes if we believe they aren't needed and don't want to chance them being hit. 
 
 Summary of above: our vets-api v1 endpoints have been inactive and unused for years so we are excluding them from this list.
 
