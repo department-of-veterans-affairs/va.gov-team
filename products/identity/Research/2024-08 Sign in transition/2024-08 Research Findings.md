@@ -6,12 +6,19 @@
   - Megan Driscoll | megan@bluetiger.digital
   - Charlye Tran | charlye@bluetiger.digital
   - Clayton Zook | clayton.zook@oddball.io
+
+Jump to:
+- [Hypotheses](#hypotheses)
+- [Key findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Who we talked to](#who-we-talked-to)
  
 ## Research materials
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-08%20Sign%20in%20transition/2024-08%20Sign%20in%20transition%20research%20plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-08%20Sign%20in%20transition/2024-08%20Sign%20in%20transition%20conversation%20guide.md)
 - [Prototype](https://www.figma.com/proto/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=65-42645&t=pCsS806Lgd3tIEHz-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=65%3A42645&show-proto-sidebar=1)
 
+  
 ## OCTO Identity Crew Objectives
 - Objective 1: Create a smooth transition for Veterans from legacy to modern sign-in credentials
   - KR1: The number of users who have a MHV credential and neither ID.me or Login.gov is reduced to less than 500K by Oct 31, 2024 and to less than 100K by Jan 31, 2025
@@ -48,7 +55,7 @@ Uncover areas for improvement with our design and content by allowing veterans t
 - Are there any other gotchas or pain points that come up?
 
 
-## Hypothesis
+## Hypotheses
 - H1: Based on the content updates, veterans will understand that MHV as a credential will be going away soon.  -  **True**
 - H2: Veterans will be confused as to what will happen with the MHV site.  -  **Mostly True**
 - H3: Veterans will continue to use their MHV credential when they sign into VA.gov.  - **True**
@@ -61,7 +68,8 @@ Uncover areas for improvement with our design and content by allowing veterans t
 Remote usability testing will evaluate the prototype with participants. We’ll use Perigean’s Zoom account for these remote sessions
 
 
-### Key Findings (General):
+## Key Findings 
+### General:
 Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Login`, `PRDT: VA.gov Profile`, `PRDT: Single-Sign-On (SSO)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`, `login.gov-adoption`
 1. Most participants we spoke to were already prepared for the change.
 2. Our existing content and messaging is working. 
@@ -69,20 +77,19 @@ Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTI
 4. Most will wait until the last minute to adopt the new sign in option. 
 5. Most experienced technical issues setting up their modern account with Login.gov or ID. me.
 
-
-### Key Findings (Sign in page design):
+### Sign in page design:
 Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Login`, `PRDT: VA.gov Profile`, `PRDT: Single-Sign-On (SSO)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`, `login.gov-adoption`
 1. Looked like what participants were already used to.
 2. Some (3/10) said they would sign in with their modern account because the CTA was prioritized at the top of the page.
 3. Most (7/10) would continue to select the My HealtheVet sign in option with reasons like: it’s faster (fewer clicks), it’s familiar, their password is saved on their browser or device, or their priority is completing their task quickly.
 
-### Key Findings (Interstitial page deisgn):
+### Interstitial page deisgn:
 Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Login`, `PRDT: VA.gov Profile`, `PRDT: Single-Sign-On (SSO)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`, `login.gov-adoption`
 1. Participants said the information was clear.
 2. Repeating the deadline in the heading increased the sense of urgency.
 3. On this page most (8/10) participants said they’d either sign in with their existing modern credentials or create a modern account.
 
-### Key Findings (Sentiment):
+### Sentiment:
 Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Login`, `PRDT: VA.gov Profile`, `PRDT: Single-Sign-On (SSO)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`, `login.gov-adoption`
 1. Perception that setting up a new (modern) account will take too much time.
 2. Discomfort with providing sensitive information to another website, such as SSN.
@@ -94,7 +101,7 @@ Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTI
 8. Veterans want reassurance that the new sign-in process will be easier for them.
 
 
-#### Recommendations - 
+#### Recommendations 
 
 |   | Recommendation  |
 |---|---|
