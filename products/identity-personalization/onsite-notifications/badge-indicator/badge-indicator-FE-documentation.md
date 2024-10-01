@@ -56,16 +56,15 @@ font: vads-font-family-sans-serif, vads-font-size-base,vads-font-weight-bold
 
 color: $color-vads-color-base-lightest
 
-  
-  - Size: ...
-  - Color: ....
-    - Hex value: ....
-  - Margins and positioning: ....
-
 **Accessibility specs** 
 The component is implemented with aria text for screen reader usage. 
 
-The aria content has variations
+The aria text has variations depending on the number of unread messages/other unseen content:
+
+- 1 item: "Go to your inbox. You have 1 new message."
+- 2-99 items: "Go to your inbox. You have # new messages."
+- More than 99 items: "Go to your inbox. You have more than 99 new messages."
+
 
 **Positioning**
 - The "Go to your inbox" link should always appear first in the stack of health care links. The stack of links appears on the lefthand side on desktop if the user does not upcoming appointments. Otherwise, it appears on the righthand side on desktop.
