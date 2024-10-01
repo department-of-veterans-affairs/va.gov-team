@@ -122,7 +122,7 @@ These insights will gather weave together findings across data sources to highli
     
 **Takeaway 1.** 
 
-Early data from the success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
+Early success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
    
 **Takeaway 2.** 
 
@@ -134,7 +134,7 @@ A majority of our qualitative feedback from Medalia in MyVA 411 features Veteran
 It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time. We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
    
 **Takeaway 4.**
-Issues already exist with the concept and usability of an IPF.
+Issues already exist with the usability of an IPF.
 "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
 
 
