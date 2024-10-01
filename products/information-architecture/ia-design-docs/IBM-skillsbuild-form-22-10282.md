@@ -64,8 +64,8 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
   - Placement description: This form doesn't require log in, so there is no sign-in widget at the start of this form.
   - Link label: TBD by Content
   - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
-    
-<img width="417" alt="ibm primary entry 2" src="https://github.com/user-attachments/assets/21c15251-7481-4006-9e9d-cccf01ac9269">
+
+<img width="496" alt="ibm primary entry a" src="https://github.com/user-attachments/assets/5dd99e02-bde0-4bda-9413-bf9bde804727">
 <img width="507" alt="ibm primary entry b" src="https://github.com/user-attachments/assets/568c8880-6dac-4595-b0f5-2d2e871065c3">
 
 
