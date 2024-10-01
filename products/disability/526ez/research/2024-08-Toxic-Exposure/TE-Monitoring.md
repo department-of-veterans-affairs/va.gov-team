@@ -188,33 +188,13 @@ Top takeaways will come from the combined review of GA4 and Medallia whenever th
 </details>
 
 
-## Appendix 
-
-### 526ez pages with the most responses
-
+## Appendix     
 <details>
-  <summary>Click to expand</summary>
-    
-**Feedback survey**
-|Rank|Pre-launch (6 weeks)| **1.0 rollout** | **1.1 rollout**|
-|--|--|--|--|
-|-|Total responses (462)||||||
-|1| Introduction (116 / 25%)|||||
-|2| Confirmation (76 / 16%)|||||
-|3| Start (64 / 14%)|||||
-|4| Review & Submit (19 / 4%)| ||||
-
-**Intercept survey**
-|Rank|Pre-launch (6 weeks)| **1.0 rollout** | **1.1 rollout**|
-|--|--|--|--|
-|| Total responses (85)| |||||
-|1|Introduction (42 / 49%)|||
-|2| Start (22/ 26%)|||
-|3| Veteran Information (7 / 8%)|||
+  <summary> Expand to see See full list of codes and their definitions below.</summary>
 </details>
+ 
 
 ### Codebook
-See full list of codes and their definitions below. 
 <details>
   <summary>Click to expand</summary>
 |Code|Definition|
