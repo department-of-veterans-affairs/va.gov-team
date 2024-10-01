@@ -29,7 +29,7 @@ body:
       description: Provide the name of the Product Owner responsible for this application
     validations:
       required: true
-  /*
+  
   - type: input
    id: api
     attributes:
@@ -85,7 +85,6 @@ body:
     attributes:
       label: UUIDs
       description: Paste in any UUIDs. 
-      */
   - type: textarea
     id: additional-notes
     attributes:
