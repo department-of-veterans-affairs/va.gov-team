@@ -6,7 +6,7 @@ Attendees: Angela, Jessica, Hieu, Lois, and Renata.
 **CG Research**
 - The team discussed several stakeholders signing up to be observers and how Jessica or Angela would send out the individual links. 
 
-**EZR Social Listening**
+**EZR Social Listening next steps**
 - Linking back to Priority Group, it is clear and definitive that most Veterans do not know what Priority Group is and how it impacts their benefits. 
 - Renata notes that the User Generated Content is across the board on the Veteran Journey while the Medalia that Luis is working on is during mid-form. Both types would help us identify gaps.
 - Lois wants to emphasize getting back to the research plan, wondering how much more should we do on social listening and what will be helpful to us.
@@ -14,21 +14,28 @@ Attendees: Angela, Jessica, Hieu, Lois, and Renata.
 - Lois agrees with sharing the work and notes that Kristen M. would be interested in the appointment portion of the work.
 - One idea: Priority Group is care based on your disability group + financial situation?
  
-**Journey Map**
-- Jessica explains that it would be a low lift, a source of truth (and living docs) of everything we have learned so far, including our research.
+**Experience Maps**
+- Talked through the concept of creating a living journey map/persona docs where we can gather all the research data and insights (social listening, research studies, VoC, GA + Datadog data, desk research etc).
+- Want to talk through what is easy to maintain and the audience of such an artifact
+- How can this benefit others?
+- Maybe for now, focus on how this can be used and benefit our team? UX roadmapping + prioritization workJessica explains that it would be a low lift, a source of truth (and living docs) of everything we have learned so far, including our research.
 - Lois brought up it would be like the Map of Maps. 
 - Idea: just links in Mural to keep it low lift? 
 
 **Registration**
-- Lois: It feels like the registration explanation is still unclear.
+- Concerns Registration explanation is not clear for MVP, will watch during first month
+- Need to think about research questions and/or next steps
 
-**OCTO Presentation**
-- Lois questions how all these presentations relate back to us. The one from today would be Prefill and Trauma. 
-The discussion that the OCTO presentation is ultimately a way for other teams to share their work and see if it can be utilized by the larger community.
+**OCTO Presentation/ Monday Design Sync**
+- Lois brought up this concept similar to the PM ToT slack summary
+- The one from today would be Prefill and Trauma. What from that meeting to directly impacts us and our work?
 
-**Silent Failure**
+**Email,Silent Failure**
 - Renata explains what happens when the EZ/EZR application is not successfully submitted through the VES. The Confirmation Page message is around successful submission while the VES would be the one that sends out the application is successfully received. If it is not received by the system, this silent failure will trigger. 
-**Sign In** 
+- The silent failure email, EZR does not have a failed to submit email, workin on this and the content is going through CAIA review
+- EZ does have an email implemented, but it never went through CAIA review, going through review at same time as EZR
+
+**Saved in progress** 
 - Lois brought up the conversation around how Veterans would be confused on the sign-in location after they have an in-progress application. 
 - We think EZ shows up as Save-in-Progress on MyVA (Dashboard and in Claims). Angela can confirm that with the Developers. 
 - In Slack, Heather asked the MyVA team if that is not longer the case. 
