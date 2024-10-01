@@ -19,9 +19,9 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 
 <img width="460" alt="No messages" src="https://github.com/user-attachments/assets/da79657a-80e4-4a1f-83f9-08d5c43278df">
 
-Desktop mockup (link tk)
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-370&t=A6qFKMrzSt4ukLYn-1)
 
-Mobile mockup (link tk)
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-853&t=A6qFKMrzSt4ukLYn-1)
 
 Use _________ for icon
 
