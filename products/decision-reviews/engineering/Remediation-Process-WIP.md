@@ -141,9 +141,9 @@ To start the process, you can send a message to `@Kimberley Monroe-Daniels` in `
 
 #### Data to send to Contact Center
 - Veteran/Submission Info
-- Veteran ICN
-- Date of submission
-- If evidence error, provide the Obfuscated/masked filename (first 3 letters, last 2 letters, file extension and special characters like underscores are also okay — basically follow what 526 did for their obfuscation)
+  - Veteran ICN
+  - Date of submission
+  - If evidence error, provide the Obfuscated/masked filename (first 3 letters, last 2 letters, file extension and special characters like underscores are also okay — basically follow what 526 did for their obfuscation)
 - Mailing/Fax Info
   - For **Notice of Disagreement** submission:
 
@@ -162,8 +162,11 @@ To start the process, you can send a message to `@Kimberley Monroe-Daniels` in `
 
 - Email Content (Just an example, can be modified as needed)
 
-  > “Unfortunately, we were unable to process and attach a piece of evidence to your [Supplemental Claim / Notice of Disagreement] that you submitted on [Date of Submission]. We want to make sure that your submission is evaluated with all of the evidence you intended to include, so we are requesting that you mail the evidence to: [insert mailing address for appropriate form] or you can fax it to: [fax number for appropriate form]. The PDF filename of the evidence we would like you to mail in is below and may be masked to hide possible sensitive information, but you should be able to identify which piece of evidence we are referring to:
-[Masked filename, minus first 3 and last 2 letters].pdf”
+  > Unfortunately, we were unable to process and attach a piece of evidence to your [Supplemental Claim / Notice of Disagreement] that you submitted on [Date of Submission]. The PDF filename(s) of the evidence we could not process are listed below. They may be masked to hide possible sensitive information, but you should be able to identify which piece(s) of evidence we are referring to: \
+  > \
+  > [Masked filename(s), minus first 3 and last 2 letters].pdf \
+  > \
+  > We want to make sure that your submission is evaluated with all of the evidence you intended to include, so we are requesting that you mail the evidence to: [insert mailing address for appropriate form] or you can fax it to: [fax number for appropriate form]. 
 
 
 
