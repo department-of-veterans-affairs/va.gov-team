@@ -17,7 +17,7 @@
 Assess level of compliance with the [No Silent Error initiative](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-discover-if-your-app-has-silent-failures.md).
 
 ## Monitoring
-This section details the current monitors for the Authenticated Experience team, designed to capture errors, failures, and patterns of inconsistent activity.
+This section details the current monitors for the Medallia feedback surveys on VA.gov, designed to capture errors, failures, and patterns of inconsistent activity.
 
 Both the My VA and Profile teams have a Datadog dashboard:
 
