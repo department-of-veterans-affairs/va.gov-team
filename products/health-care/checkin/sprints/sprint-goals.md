@@ -34,6 +34,7 @@
       - 🟨 [[DevOps] Discovery into isolated LoROTA environment for Terraform CI/CD.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/509)
       - 🟨 [[DevOps] Discovery on getting `cie-staging-scheduler` into IaC.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/299)
       - 🟨 [[DevOps] Investigate whether to remove DevOps configuration for CHIP DNS names.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/372)
+      - 🟨 [[DevOps] Backup (AMI) veac-cms EC2 Instances Then Terminate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/616)
 - **OH Travel**
     - ❗ 🟦 G&K - [[BE] [OH] update travel claims client to use a different client id for OH claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93074)
     - ❗ 🟦 G&K - [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
