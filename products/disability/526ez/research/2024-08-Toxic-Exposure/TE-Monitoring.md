@@ -68,16 +68,17 @@ These insights will gather weave together findings across data sources to highli
 
 ### 5-25% Takeaways (8/28-9/20) 
     
-**Takeaway 1.** Early success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
+**Takeaway 1. Early success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.**
    
-**Takeaway 2.** A majority of our qualitative feedback from Medalia in MyVA 411 features Veterans requesting more information about the Pact Act or looking for a way to access the form itself.
+**Takeaway 2. There is a strong demand for clear guidance on where to file for the PACT Act.**
+
+**Takeaway 3. Veterans have a high volume of questions about the PACT Act and their eligibility.**
 > "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran
 
-**Takeaway 3.** It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time. We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
-   
-**Takeaway 4.** Issues already exist with the usability of an IPF.
+**Takeaway 4. Issues already exist with the usability of an IPF.**
 > "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
 
+**Takeaway 5. It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time.** We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
 
 </details>
 
