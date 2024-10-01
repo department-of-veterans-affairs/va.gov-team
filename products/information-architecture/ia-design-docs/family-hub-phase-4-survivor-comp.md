@@ -16,10 +16,12 @@
 
 
 ## <a name="map"></a>Page structure<br>
+Note: accrued benefits is launching separately near end of October
 ![Screenshot 2024-08-29 at 10 02 25 AM](https://github.com/user-attachments/assets/b9af7b74-aa0c-4be2-a2d4-c7d7a145af6e)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
+Note: accrued benefits is launching separately near end of October
 ![Screenshot 2024-08-29 at 10 02 35 AM](https://github.com/user-attachments/assets/4878893a-682b-49c4-b049-e4ec94ae6c74)
 
 
@@ -95,6 +97,7 @@
 - Notes: URL is TBD finalizing H1
 
 **15) Accrued benefits - Add new**
+Note: accrued benefits is launching separately from the rest of the pages, near end of October
 - URL: va.gov/family-and-caregiver-benefits/survivor-compensation/accrued-benefits/
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Survivor compensation > [Accrued Benefits H1]
 - Notes: URL is TBD finalizing H1
