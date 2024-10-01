@@ -53,7 +53,7 @@
     - [x] Yes
     - [ ] No
 
-- [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the non-appointments APIs we hit I've found so far:
+- All `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the non-appointments APIs we hit I've found so far:
     ```
     From vets-website:
     (note: I'm not including APIs to appointments APIs maintained by us)
