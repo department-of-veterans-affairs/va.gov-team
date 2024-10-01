@@ -146,11 +146,11 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 **Top themes**
 |Rank|Pre-launch (6 weeks)|**1.0 - 50%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|--|
-|1|Usability (33)|Submission Issuees (9)|--|||
-|2|Navigation (33)|Evidence Upload (7) |
-|3|PACT (26)|  PACT (7)|--|
-|4|Error (26)||In Progress Form Issues (6)| --|
-|5|Getting help (23)|BIRLS error (4)|
+|1|Usability (n=33)|Submission Issuees (9)|--|||
+|2|Navigation (n=33)|Evidence Upload (7) |
+|3|PACT (n=26)|  PACT (7)|--|
+|4|Error (n=26)|In Progress Form Issues (6)| --|
+|5|Getting help (n=23)|BIRLS error (4)|
 
 ### Contact Center (MyVA 411 Data)
 |Case type| Case Category| **1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
