@@ -87,10 +87,9 @@ Before discussing how you help Veterans and non-veterans (Veterans' family membe
 - Does it differ if the claimant is also a Veteran?
 - What tools do you use to help claimants apply for Burial Benefits?
 - What time frame does it usually take you to help claimants complete the Burial Benefits form?
-- Where do you go to obtain all the necessary information on the deceased veteran to submit the Burial benefit form?
+- Where do you go to obtain all the necessary information and supporting evidence on the deceased veteran to submit the Burial benefit form?
    - Is this the same place you would suggest a claimant go?
-- Where do you go to obtain all the necessary supporting evidence to submit the Burial benefit form?
-   - Is it the same place you would suggest a claimant go to?
+- Do you submit the form using the FDC program or that standard claim process?
 
 ## Challenges with the Burial benefits form
 - What may stop someone from applying for the burial benefits form online or on paper?
