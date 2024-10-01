@@ -43,6 +43,9 @@
 * What is the best way to present these options to a user (toggle component, etc.)? What are other apps doing?
 * Where would the settings themselves live? Would we add an additional screen / area into the main "Settings" area of the app?
 * Do we have the ability to add an "automatic" setting for light and dark mode (light during day and dark at night)?
+* Is it possible to include analytics to see how often Veterans are overriding / customizing their app settings?
+* How do we decide / govern what additional settings we might expand to include in the future?
+   * What if another / outside team comes in and decides that they want an additional setting that we do not offer currently? How do we determine what gets added and what does not? (i.e. Global team "owns" it but would need accessibility sign-off)
 
 ## Important Links
 *   Could be a possible solution for [Display Zoom](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Display%20Zoom%20on%20Android/displayZoomOnAndroid.md) in the future.
