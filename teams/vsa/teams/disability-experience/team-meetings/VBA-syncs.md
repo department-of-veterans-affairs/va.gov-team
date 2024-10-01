@@ -11,7 +11,8 @@ Goal of the meeting series: addressing policy related or other open questions fo
    * How is it done today when using the paper form that allows them to enter more than, but not submit them separately?
 2. How is overflow content being handled? For 0781, we're trying to decide if we should limit fields to paper form, or put them on overflow. (ex. there's 6 spaces for events. should we allow for more and put extras on overflow, or limit to 6 entries?) ![Screenshot 2024-09-26 at 9 08 27 AM](https://github.com/user-attachments/assets/53a01405-f316-4c65-baf4-680b991b6a19)
 
-3. Jina: does VBA have a new file type for display in VBMS for the new form? (0781) 
+3. Jina: does VBA have a new file type for display in VBMS for the new form? (0781)
+4. An update on 25% Toxic Exposure release is forthcoming. Here's a brief recap on the current existing silent failures: The four failed submissions from July were remediated this morning by Sam on Team 2. The 'xx' date submissions are still awaiting front-end and backend-fixes before they can be remediated. Tommasina will remediate the 14 duplicate submissions today (might need support on Sharepoint access if Emily isn't able to add her), and she is still investigating the 2 other missing 'icn' submissions.
 
 
 ## 9/17/24 Biweekly VBA-DBEX Check-in
