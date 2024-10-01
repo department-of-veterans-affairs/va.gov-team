@@ -81,20 +81,20 @@ We conducted hour-long remote moderated research sessions via Zoom
 
 ## Key Findings
 
-1. Most participants liked the new notice page design.
+1. Veterans rated the notice information an average score of 4.5 out of 5 for helpfulness.
 
-2. Most participants could read and summarize the page content but remained confused about the meaning and purpose of the 5103 waiver.
+2. Most participants accurately summarized the 5103 notice page, but by the end of the flow, they were unclear about the purpose and implications of the waiver.
 
-3. Some participants were paused by the pages displaying confirmation messages and those without notifications.
+3. Confirmation messages appear on unexpected pages, and are missing where some participants expected them.
 
-4. Most participants valued the thoroughness of decision letters but were frustrated by the lengthy wait and vague information about their claim status.
+4. Most participants recalled valuing the thoroughness of decision letters but were frustrated by the lengthy wait and vague information about their claim status.
 
-5. Most participants preferred receiving only e-communication for development letters.
+5. Most participants said they would prefer to receive electronic-only communication regarding their claims.
 
 
 ## Details of Findings 
 
-**1. Most participants liked the new notice page design.**
+**1. Veterans rated the notice information an average score of 4.5 out of 5 for helpfulness.**
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
@@ -109,7 +109,7 @@ Veterans rated the page flow of the new design an average of **4.5 out of 5** fo
 > _This gives me more confidence in working with the VA, unlike right now where I'm working with a VSO." "Referring to evidence notice page - P1_
 
 
-**2. Most participants could read and summarize the page content, but remained confused about the meaning and purpose of the 5103 waiver.**
+**2. Most participants accurately summarized the 5103 notice page, but by the end of the flow, they were unclear about the purpose and implications of the waiver.**
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
@@ -121,11 +121,11 @@ Participants were able to explain the purpose of alerts and understood deadlines
 
 However, they were confused about submitting the 5103 waiver due to the term 'waiver' and after uploading evidence. Addition to the term, ‘waiver’ creating pause for some participants. Others were under the impression that submitting the waiver would prevent them from adding evidence later.
 
-> _“Thinks that after he submits waiver, the claim will be "locked" and that he won't be able to submit more evidence” - P5_
+> _“Thinks that after he submits waiver, the claim will be "locked" and that he won't be able to submit more evidence” - P5, observer note_
 
 **Note**: The content has been updated post the study. We believe it will help Veterans have a clearer understanding of 5103 notice.
 
-**3. Some participants were paused by the pages displaying confirmation messages and those without notifications.**
+**3. Confirmation messages appear on unexpected pages, and are missing where some participants expected them.**
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
@@ -141,7 +141,7 @@ They were also confused because the claim card page didn't display an update mes
 > _“Doesn’t show I've uploaded anything a couple days ago. Everything looks the same except the 5103 notice isn't there any more.” - P17_
 
 
-**4. Most participants valued the thoroughness of decision letters but were frustrated by the lengthy wait and vague information about their claim status.**
+**4. Most participants recalled valuing the thoroughness of decision letters but were frustrated by the lengthy wait and vague information about their claim status.**
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
@@ -159,7 +159,7 @@ Participants were frustrated by length of time in receiving claim letters and fo
 
 
 
-**5. Most participants preferred receiving only e-communication for development letters.**
+**5. Most participants said they would prefer to receive electronic-only communication regarding their claims.**
 
 Labels: BNFT: Disability, Claims Status, PRDT: Claim-status-tool
 
@@ -181,22 +181,23 @@ Popular reasons for participants who liked having paper copies would be to have 
 > _“only e-comm? i’m old school so i like the mail. getting it electronic would make it easier. the paper would be the back up.” - P6_
 
 ## Secondary Finding
-1. 33% of participants preferred downloading the PDF version of VA Form 21-4142 over completing it online and wanted the PDFs to be fillable with an electronic signature option.
-2. Participants want a streamlined view of their claim information, taking a 'in progress claims' first approach and making required actions or new notifications prominent.
-3. Participants want mobile app notifications displayed as badges with numbers, similar to other apps.
-4. Participants want two-way communication options like live chat or FaceTime within the app/website for tech support or direct contact with the VSR handling their claim.
+1. 77% of participants preferred completing the VA Form 21-4142 online, while 33% opted for downloading the PDF version.
+2. Participants want PDF forms to be fillable and to include an electronic signature option, based on their past experiences with non-interactive PDFs on the VA platform.
+3. Participants want to feel confident that claims requiring their action or containing new notifications are prioritized  
+4. Participants want mobile app notifications displayed as badges with numbers, similar to other apps.
+5. Participants want two-way communication options to assist with their claims. Some suggested features like live chat or FaceTime within the app or website for tech support or direct contact with the VSR handling their claim.
 
 ## Recommendations
 
-1. Continue refining the current notice page design.
+1. Continue refining the flow and design of the notice page experience.
 2. Clarify that submitting the evidence waiver doesn't prevent Veterans from adding evidence later.
 3. Strengthen the flow to prompt Veterans to submit an evidence waiver after uploading evidence.
 4. Add a homepage message confirming the submission of a waiver or evidence during the last session.
 5. Reduce confusion by moving the 5103 waiver confirmation to the status page and deep-linking to "Additional Evidence" on the files tab when navigating from the 5103 notice page.
-6. Prioritize the online form link over the download link on the VA 21-4142 form page.
-7. Ensure the online VA 21-4142 form closes the tracked item, not just the downloaded version.
-8. Make more PDF forms fillable and allow e-signatures.
-9. The second link on the file uploader should be labeled 'Choose another file' or something similar to clarify that it's the secondary action, rather than using 'Choose from folder.
+6. Switch the order of form links to show online tool before PDF download option on the VA 21-4142 form page.
+7. Ensure the online VA 21-4142 form closes the tracked item, not just the PDF version that is uploaded into CST.
+8. Investigate whether more  PDF forms needs to be fillable and allow e-signatures.
+9. Include future usability testing to test scenarios where Veterans upload multiple files to check whether 'Choose from folder’ isn’t confusing.
 
 
 ## Next Steps
