@@ -116,7 +116,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 </details>
 
 ## Top 5 Takeaways 
-**These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.** 
+These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.
 
 ### 5-25% Takeaways (8/28-9/20) 
     
