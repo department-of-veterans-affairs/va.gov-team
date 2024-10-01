@@ -12,8 +12,8 @@
 - [526ez Success Metrics](#526ez-success-metrics)
     - [Validating our metrics](#success-metric-validation)
 - [Top UX Takeaways - new added across release](#Top-5-Takeaways )
-    - [Medallia Survey Trends](#Medallia-Data-Trends)
-    - [Contact Center MyVA411 Data Trends](Contact-Center(MyVA-411-Data)-Trends)
+    - [Medallia Survey Trends]
+    - [Contact Center MyVA411 Data Trends]
 - [Appendix](#appendix)
   
 ## Background
@@ -118,25 +118,30 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 ## Top 5 Takeaways 
 **These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.** 
 
-<details>
-  <summary> Expand to see insights.</summary>
-
 ### 5-25% Takeaways (8/28-9/20) 
     
-**Takeaway 1.** Early data from the success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
+**Takeaway 1.** 
+
+Early data from the success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
    
-**Takeaway 2** A majority of our qualitative feedback from Medalia in MyVA 411 features Veterans requesting more information about the Pact Act or looking for a way to access the form itself.
+**Takeaway 2** 
+
+A majority of our qualitative feedback from Medalia in MyVA 411 features Veterans requesting more information about the Pact Act or looking for a way to access the form itself.
 > "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran
 
-**Takeaway 3** It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time. We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
+**Takeaway 3** 
+It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time. We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
    
 **Takeaway 4**
+
 > "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
-</details>
+
 
 
 ### Medallia Data 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
+<details>
+  <summary> Click to see tables highlighting trends below. </summary>
 
 All Medalia survey data is reported as a % of 4+5 answers.
 #### Success Metrics
@@ -168,8 +173,13 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |3|PACT (n=26)|  PACT (7)|--|
 |4|Error (n=26)|In Progress Form Issues (6)| --|
 |5|Getting help (n=23)|BIRLS error (4)|
+</details>
 
 ### Contact Center(MyVA 411 Data)
+Data from the MyVA411 information line (800-698-2411) is logged in Salesforce by call center agents, then requested by researchers to review. 
+<details>
+  <summary> Click to see tables highlighting trends below. </summary>
+    
 |Case type| Case Category| **1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|--|
 |**PACT Act**|Directory Assistance| 1358|
@@ -180,16 +190,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |**Disability Claim Application**| Upload/Download documents | 3|
 |**Disability Claim Application**| Intent to File Issue| 3
 
-#### **Themes across Medallia survey responses**
-I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
-<details>
-  <summary>Click to expand tables </summary>
-
-**Top themes**
-
-
-
-
+</details>
 
 ## Appendix     
 
