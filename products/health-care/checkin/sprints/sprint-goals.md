@@ -21,7 +21,7 @@
 - **CIE Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93424)
 - **Tech Debt**
-    - TBD
+    - 🟦 [Add Code to Retry VA Notify when We Receive an Error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
 </details>
 
 <details>
