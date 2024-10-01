@@ -114,7 +114,6 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |**Limitations**|- # of submissions isn't going to equal number of GA4 active users since GA4 does not track the same user across multiple sessions or devices. <br> -Submissions will be lower than page views. Some users may take more than one session to go back and forth in the form.|None noted. |
 |**Any next steps**|-Measure how many Veterans completed the TE questions at end of 1.0 and 1.1. -This will tell us what percentage of Veterans submitted vs. viewed TE questions, which could help inform research design. <br> -This is a nice-to-have addition. |We wonder if we could use this report down the road to calculate a rough average number of pages that a Veteran sees in the TE flow. |
 </details>
-
 ## Top 5 Takeaways 
 These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.
 
@@ -135,7 +134,7 @@ It is too early to use our qualitative data sources to evaluate this success of 
    
 **Takeaway 4.**
 Issues already exist with the usability of an IPF.
-"I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
+> "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
 
 
 
