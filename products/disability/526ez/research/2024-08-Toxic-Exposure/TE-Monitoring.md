@@ -142,6 +142,8 @@ All Medalia survey data is reported as a % of 4+5 answers.
 
 #### **Themes across Medallia survey responses**
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
+<details>
+  <summary>Click to expand tables </summary>
 
 **Top themes**
 |Rank|Pre-launch (6 weeks)|**1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
@@ -163,18 +165,25 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |**Disability Claim Application**| Navigation Issues | 4
 |**Disability Claim Application**| Upload/Download documents | 3|
 |**Disability Claim Application**| Intent to File Issue| 3
-
+</details>
 
 ## Top 5 Takeaways 
 Top takeaways will come from the combined review of GA4 and Medallia whenever the survey data is pulled. These insights will work to explain trends we see across qualitative and quantitative data points as they pertain to Toxic Exposure. 
 
 ### 5-25% Takeaways
-1. Early data from the success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
-2. A majority of our qualitative feedback from Medalia in MyVA 411 features Veterans requesting more information about the Pact Act or looking for a way to access the form itself.
-   - < "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so.
-4.  It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time. We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
-5.  
+<details>
+  <summary>Click to expand Takeaways </summary>
 
+**Takeaway 1.** Early data from the success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
+   
+**Takeaway 2** A majority of our qualitative feedback from Medalia in MyVA 411 features Veterans requesting more information about the Pact Act or looking for a way to access the form itself.
+> "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran
+
+**Takeaway 3** It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time. We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
+   
+**Takeaway 4**
+> "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
+</details>
 
 
 ## Appendix 
