@@ -42,6 +42,7 @@ Join, and keep an eye on, all of the below:
 - [ ] [#benefits-engineers-lighthouse-collaboration](https://dsva.slack.com/archives/C063D0M76HX)
 - [ ] [#benefits-portfolio](https://dsva.slack.com/archives/C055573C508)
 - [ ] [#benefits-representation-management](https://dsva.slack.com/archives/C05L6HSJLHM)
+- [ ] [#arp-identity-integration](https://dsva.slack.com/archives/C06NBCMA7LL)
 
 ### Background Research / SEP Demos
 
