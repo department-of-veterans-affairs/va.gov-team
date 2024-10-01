@@ -24,9 +24,6 @@
     - 🟦 [Add Code to Retry VA Notify when We Receive an Error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
 </details>
 
-<details>
-<summary>SPRINT 17 - 10/2/2024-10/15/2024 FUTURE TENTATIVE</summary>
-
 ## SPRINT 17 - 10/2/2024-10/15/2024
 - **Production Support**
     - ❗ 🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93865)
@@ -79,7 +76,6 @@
     - 🟩 [Update Spanish Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93590)
     - 🟩 [Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93422)
     - 🟩 [Use the New DS Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883)    
-</details>
 
 ## SPRINT 16 - 9/18/2024-10/1/2024
 - **Production Support**
