@@ -59,6 +59,29 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 </details>
 
+## Top 5 Takeaways 
+These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.
+
+## 5-25% Takeaways (8/28-9/20) 
+    
+**Takeaway 1.** 
+
+Early success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
+   
+**Takeaway 2.** 
+
+A majority of our qualitative feedback from Medalia in MyVA 411 features Veterans requesting more information about the Pact Act or looking for a way to access the form itself.
+> "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran
+
+**Takeaway 3.** 
+
+It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time. We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
+   
+**Takeaway 4.**
+Issues already exist with the usability of an IPF.
+> "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
+
+
 ## 526ez Success Metrics
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|
@@ -114,28 +137,6 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |**Limitations**|- # of submissions isn't going to equal number of GA4 active users since GA4 does not track the same user across multiple sessions or devices. <br> -Submissions will be lower than page views. Some users may take more than one session to go back and forth in the form.|None noted. |
 |**Any next steps**|-Measure how many Veterans completed the TE questions at end of 1.0 and 1.1. -This will tell us what percentage of Veterans submitted vs. viewed TE questions, which could help inform research design. <br> -This is a nice-to-have addition. |We wonder if we could use this report down the road to calculate a rough average number of pages that a Veteran sees in the TE flow. |
 </details>
-## Top 5 Takeaways 
-These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.
-
-## 5-25% Takeaways (8/28-9/20) 
-    
-**Takeaway 1.** 
-
-Early success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
-   
-**Takeaway 2.** 
-
-A majority of our qualitative feedback from Medalia in MyVA 411 features Veterans requesting more information about the Pact Act or looking for a way to access the form itself.
-> "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran
-
-**Takeaway 3.** 
-
-It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time. We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
-   
-**Takeaway 4.**
-Issues already exist with the usability of an IPF.
-> "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
-
 
 
 ## Medallia Data 
