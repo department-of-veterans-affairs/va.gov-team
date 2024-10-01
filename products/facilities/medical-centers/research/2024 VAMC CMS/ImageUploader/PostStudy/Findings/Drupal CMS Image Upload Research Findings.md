@@ -53,7 +53,7 @@ The prototype was perceived as cleaner, easier to use, more direct, and more str
 > *“I like how this looks.” - P1*
 > 
 
-> *“Overall it was clean and easy and it was a lot less like there was a lot less that was unclear.” - P3*
+> *“Overall it was clean and easy and there was a lot less that was unclear.” - P3*
 > 
 
 > *“This one seems like it more to the point. I just wanna get this imagery dropped off and  get it to go with the event or whatever. – P5*
