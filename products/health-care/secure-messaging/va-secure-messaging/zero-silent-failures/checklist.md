@@ -43,6 +43,19 @@
 
 > OCTO heading this action items currently
 
-* [ ] Figure out how often this is happening in production
+* [ ] Continue diving into production to shore up error handling
+* [ ] Handle file errors better
+* [ ] Make email failure not a critical error
 * [ ] Refine error handling and testing guidelines and implementation
 * [ ] Walk through the exchange to determine the silent failures
+
+## Key Findings
+
+* Everything we do is synchronous
+* SM API has some tech debt around error handling
+  * Somes times might return a 200, when it failed. This is the current inviestigation.
+  * false errors (email) (ticket made)
+  * Attachment error handling (getting handled currently)
+* There are some challenges with the OH integration that we aware of and building into the process to support user notifications
+  * queues, databases, monitoring
+  * a bunch of async background processing
