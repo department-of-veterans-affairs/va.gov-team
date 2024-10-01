@@ -17,7 +17,8 @@ Goal of the meeting series: addressing policy related or other open questions fo
    * "they can attach additional pages too, or veteran will submit 4138 where they will continue the info one. remarks space is pretty big enough already though" -kevin
 
 4. Jina: does VBA have a new file type for display in VBMS for the new form? (0781)
-   * SF - david put the new name in a slack message a week or two ago and it is different. more closely matches title of new name of the form 
+   * SF - david put the new name in a slack message a week or two ago and it is different. more closely matches title of new name of the form
+   * [slack thread]([url](https://dsva.slack.com/archives/C04KW0B46N5/p1726770800020109))
      
 6. An update on 25% Toxic Exposure release is forthcoming. Here's a brief recap on the current existing silent failures: The four failed submissions from July were remediated this morning by Sam on Team 2. The 'xx' date submissions are still awaiting front-end and backend-fixes before they can be remediated. Tommasina will remediate the 14 duplicate submissions today (might need support on Sharepoint access if Emily isn't able to add her), and she is still investigating the 2 other missing 'icn' submissions.
 
