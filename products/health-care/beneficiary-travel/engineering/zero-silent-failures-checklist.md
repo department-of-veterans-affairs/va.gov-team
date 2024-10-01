@@ -1,7 +1,7 @@
 # Zero Silent Failures
 
 ## Product
-BTSSS Claims Status
+This checklist is currently scoped to the "Get Status" tool, with interactions that are read-only
 
 ### Checklist
 
