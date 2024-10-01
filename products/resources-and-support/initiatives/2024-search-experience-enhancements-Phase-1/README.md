@@ -52,6 +52,8 @@ Phase 1 focus
   - taxonomy enhancements to support functional tagging and which can be extended to other parts of the VA.gov experience
 - landing page redesign
 - detail page template improvements
+- ensuring no silent failures
+
 ### Discovery to inform iteration 
 Efforts to inform this iteration with Veteran feedback
 - [#19090 Good/Bad rating - update submitted feedback success message #19090](https://app.zenhub.com/workspaces/vagov-sitewide-product-team-6645154188a81a1f7a0a9464/issues/gh/department-of-veterans-affairs/va.gov-cms/19090) will simplify the feedback process and enourage high participation by presenting the Medallia survey after a user rates a R&S page, with hopes that we will receive more actionable qualitative feedback
