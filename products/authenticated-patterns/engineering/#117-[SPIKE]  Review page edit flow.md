@@ -60,6 +60,7 @@ New proposed user flow --> When we click “edit,” we want to return to that s
 
 1) If the Edit button takes the user back to that section’s original page, the user will be forced to click through the entire form again just to return to the Review page. Previously filled-out information will still be there though, which is at least good.
 2) We’ll need to modify files within the platform/forms-system. How do we approach this? Would it be feasible to test this feature solely in our mock form app? Can we make copies of the necessary platform files and transfer them into our mock app folder as we’ve done previously with the other pattern?
+   
     a) We could make a prototype in another branch and host this on Codespaces since we do not need to be on main.
 
 ### Other resources
