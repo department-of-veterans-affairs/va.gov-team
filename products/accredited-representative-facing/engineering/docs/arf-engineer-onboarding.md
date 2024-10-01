@@ -38,6 +38,7 @@ See [ARF's engineering README.md](/products/accredited-representative-facing/eng
 
 Join, and keep an eye on, all of the below:
 - [ ] [#benefits-representation-engineering](https://dsva.slack.com/archives/C06ABHUNBRS)
+- [ ] [#benefits-representation-engineering-log](https://dsva.slack.com/archives/C06TTS0J4LV)
 - [ ] [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW)
 - [ ] [#benefits-engineers-lighthouse-collaboration](https://dsva.slack.com/archives/C063D0M76HX)
 - [ ] [#benefits-portfolio](https://dsva.slack.com/archives/C055573C508)
