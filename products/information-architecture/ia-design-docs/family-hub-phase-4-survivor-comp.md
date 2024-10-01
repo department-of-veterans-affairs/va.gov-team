@@ -116,7 +116,7 @@ Note: accrued benefits is launching separately from the rest of the pages, near 
        - **DIC: va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/**
        - **VA Survivors Pension: va.gov/family-and-caregiver-benefits/survivor-compensation/survivors-pension/**
        - Aid and attendance or housebound allowance: https://www.va.gov/pension/aid-attendance-housebound/
-       - **Accrued benefits: PAUSED UNTIL LATE NOVEMBER va.gov/family-and-caregiver-benefits/survivor-compensation/accrued-benefits/**
+       - **Accrued benefits: PAUSED UNTIL LATE OCTOBER va.gov/family-and-caregiver-benefits/survivor-compensation/accrued-benefits/**
    - Get - Additional benefits or services(H3)
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
    - Manage(H2)
@@ -144,7 +144,7 @@ The survivors comp left nav will have the following structure. These are not the
      - Parent DIC rates
    - Survivors Pension
      - Survivors pension rates
-  - Accrued benefits
+  - Accrued benefits (NOT UNTIL LATE OCTOBER)
       
 ### Crosslinks
 All link labels TBD by content
@@ -225,7 +225,7 @@ Redirect ticket [91851](https://github.com/department-of-veterans-affairs/va.gov
 - update the existing best bet with the new URL after publishing
 
 **6) Accrued benefits  - Add**
-- add the new best bet with the new URL after publishing
+- (NOT UNTIL END OF OCTOBER) add the new best bet with the new URL after publishing
 
 
 <hr>
