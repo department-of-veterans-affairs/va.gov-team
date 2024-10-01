@@ -128,7 +128,7 @@ Milestone | Date | Link to issue |
 
 ---
 
-#### POCs and Staeholders
+#### POCs and Stakeholders
 
 - Team Name: 
 - GitHub Label(s): 
