@@ -35,20 +35,23 @@ Use _________ for icon
 <img width="210" alt="badge specifications" src="https://github.com/user-attachments/assets/1ff0d15a-2381-45f1-a3ae-dd08067a63f8">
 
 display: inline-flex;
+
 height: 24px;
+
 padding: 0px 8px 0px 8px;
+
 justify-content: center;
+
 align-items: center;
+
 Radius: 2px;
 
 Color:$color-secondary-vads-color-secondary-dark
 
-font: vads-font-family-sans-serif, 
-vads-font-size-base,
-vads-font-weight-bold 
+font: vads-font-family-sans-serif, vads-font-size-base,vads-font-weight-bold 
+
 color: $color-vads-color-base-lightest
 
- 
   
   - Size: ...
   - Color: ....
