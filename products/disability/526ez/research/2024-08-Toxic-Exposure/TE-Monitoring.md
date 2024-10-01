@@ -121,7 +121,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 <details>
   <summary> Expand to see insights.</summary>
 
-### 5-25% (8/28-9/20) Takeaways
+### 5-25% Takeaways (8/28-9/20) 
     
 **Takeaway 1.** Early data from the success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
    
@@ -140,7 +140,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 
 All Medalia survey data is reported as a % of 4+5 answers.
 #### Success Metrics
-|**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 50%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
+|**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 25% (8/28-9/20)** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
 |--|--|--|--|--|--|--|
 |**CSAT-Intercept**| 36.2%|41.9% | | |
 |**Feedback satisfaction**|21.6%| 34.2%|
@@ -149,7 +149,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**WIP How interaction changed trust**||  | | |
 
 #### Toxic Exposure feature
-|**Data point**|**1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
+|**Data point**|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
 |**Feedback satisfaction**|||
@@ -160,7 +160,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 #### Thematic Tags 
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 
-|Rank|Pre-launch (6 weeks)|**1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
+|Rank|Pre-launch (6 weeks)|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|--|
 |Total responses| 462| 207|
 |1|Usability (n=33)|Submission Issues (9)|--|||
@@ -170,7 +170,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |5|Getting help (n=23)|BIRLS error (4)|
 
 ### Contact Center(MyVA 411 Data)
-|Case type| Case Category| **1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
+|Case type| Case Category| **1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|--|
 |**PACT Act**|Directory Assistance| 1358|
 |**PACT Act**| General Information | 365|
