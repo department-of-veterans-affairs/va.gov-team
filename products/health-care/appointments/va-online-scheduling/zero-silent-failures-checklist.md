@@ -264,7 +264,7 @@ Please document the outcome of this conversation in your product's documentation
 ### User experience
 
 - [X] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
-- [LD] We have alerts in the UI that displays when there is an issue with the application 
+-  We have alerts in the UI that displays when there is an issue with the application. 
 
 ### Possible silent errors
 - Clinic phone numbers being disabled or mis-entered
