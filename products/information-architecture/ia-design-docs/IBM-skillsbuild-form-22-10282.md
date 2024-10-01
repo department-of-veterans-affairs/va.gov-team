@@ -86,7 +86,7 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 3. **Sam - add benefit info page w screenshot of start of form
 
 ### Crosslinks
-TBD by Content. The three options below are more brainstorm than instructions. The options shown on these pages are pretty narrowly scoped, in some cases. So I'd like to defer to Content's input on the best choices.
+The three options below are more brainstorm than instructions. The 'more info' sections on some of these pages have a pretty narrowly topic focus, so I'd like to defer to Content's input on which of these options seem best.
 
 1. [Careers > Employment resources for veterans](https://va.gov/careers-employment/veteran-resources/)  This page feels like a good subject-matter fit for a crosslink. But the 'More info' links at the bottom are v tightly scoped to Readiness & Employment topics.
 <img width="606" alt="ibm crosslink 1" src="https://github.com/user-attachments/assets/7146df64-5ff6-44af-890d-ee93257b8312">
