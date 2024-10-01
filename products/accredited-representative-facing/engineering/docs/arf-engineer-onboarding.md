@@ -63,7 +63,7 @@ The below doesn't add much value beyond the ARF homepage but can provide histori
 - [ ] **Skim** [What is an accredited representative?](https://www.benefits.va.gov/vso/)
 - [ ] **Skim**: [21a OIT/OCTO Sync Notes](https://dsva.slack.com/docs/T03FECE8V/F077TCRJTR6)
 - [ ] **Skim** [Open questions](https://docs.google.com/document/d/1qQjq5IEMGW4ZDPdDI22LuBY6JxFiuUzNgty4KqRX5q8/edit#heading=h.hc4r5od8cxww)
-- [ ] **Skim**  - [Iterating on the Lighthouse API to support representative tools](https://docs.google.com/document/d/10uq87LqFWVPzr9J2eYeBmWnCqhv9xmchrndSeU6Kr0c/edit#heading=h.bwy7w8s83fxd) - [LH Slack canvas with commentary](https://dsva.slack.com/docs/T03FECE8V/F062AE3BJ4R)
+- [ ] **Skim**  [Iterating on the Lighthouse API to support representative tools](https://docs.google.com/document/d/10uq87LqFWVPzr9J2eYeBmWnCqhv9xmchrndSeU6Kr0c/edit#heading=h.bwy7w8s83fxd) - [LH Slack canvas with commentary](https://dsva.slack.com/docs/T03FECE8V/F062AE3BJ4R)
 - [ ] **Skim** [Lighthouse Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705440431964/42ea71b5405cda62ed44e95794facd94d8d266a0?sender=u44da4f823ec94118a7079396)
 - [ ] **Skim** [Staging/WIP LH API Endpoints](https://staging-developer.va.gov/explore/api/benefits-claims/docs?version=current)
 - [ ] **Skim** [BGS API catalog](https://github.com/department-of-veterans-affairs/bgs-catalog/blob/main/VDC/ManageRepresentativeService/ManageRepresentativePortBinding)
