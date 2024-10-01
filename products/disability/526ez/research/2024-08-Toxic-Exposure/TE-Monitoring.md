@@ -11,7 +11,7 @@
 - [Reporting Schedule](#reporting-schedule)
 - [526ez Success Metrics](#526ez-success-metrics)
     - [Validating our metrics](#success-metric-validation)
-- [Top 5 Takeaways](#Top-5-Takeaways )
+- [Top UX Takeaways - new added across release](#Top-5-Takeaways )
 - [Medallia Survey Data](#Medallia-Data)
 - [Contact Center MyVA411 Data](Contact-Center(MyVA-411-Data))
 - [Appendix](#appendix)
