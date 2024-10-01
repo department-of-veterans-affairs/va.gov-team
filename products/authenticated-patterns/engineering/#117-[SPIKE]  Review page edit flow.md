@@ -60,3 +60,7 @@ New proposed user flow --> When we click “edit,” we want to return to that s
 
 1) If the Edit button takes the user back to that section’s original page, the user will be forced to click through the entire form again just to return to the Review page. Previously filled-out information will still be there though, which is at least good.
 2) We’ll need to modify files within the platform/forms-system. How do we approach this? Would it be feasible to test this feature solely in our mock form app? Can we make copies of the necessary platform files and transfer them into our mock app folder as we’ve done previously with the other pattern?
+
+### Other resources
+- [Slack thread](https://dsva.slack.com/archives/C5HP4GN3F/p1727724185315819) talking about a similar functionality. 10-10 team has a custom review component that when clicking edit sends the user back to the form page with a query param of review=true.
+On their custom page, look for that search param and if true, tell it to go back to /review-and-submit else go to the next desired path.
