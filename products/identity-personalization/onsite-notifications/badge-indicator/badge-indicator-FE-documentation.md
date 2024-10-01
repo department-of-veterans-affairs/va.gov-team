@@ -32,7 +32,7 @@ Use _________ for icon
 
 ### Visual specifications
 
-<img width="410" alt="Screenshot 2024-10-01 at 10 02 09 AM" src="https://github.com/user-attachments/assets/1ff0d15a-2381-45f1-a3ae-dd08067a63f8">
+<img width="210" alt="badge specifications" src="https://github.com/user-attachments/assets/1ff0d15a-2381-45f1-a3ae-dd08067a63f8">
 
 display: inline-flex;
 height: 24px;
