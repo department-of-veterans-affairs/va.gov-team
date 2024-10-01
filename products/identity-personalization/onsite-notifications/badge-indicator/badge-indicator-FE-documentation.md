@@ -8,8 +8,7 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 
 ### With unread messages:
 
-<img width="460
- " alt="Badge 1" src="https://github.com/user-attachments/assets/18fb8819-ada6-4d5b-82aa-972fe8116aa0">
+<img width="460" alt="Badge 1" src="https://github.com/user-attachments/assets/18fb8819-ada6-4d5b-82aa-972fe8116aa0">
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2291-30877&t=A6qFKMrzSt4ukLYn-1)
 
@@ -29,15 +28,37 @@ Use _________ for icon
 - For users who have VA health care.
 
 **Show badge indicator**
-- For users who ....
-- Badge indicator visual specs:
+- For users who have unread messages in their secure messaging inbox.
+
+### Visual specifications
+
+<img width="410" alt="Screenshot 2024-10-01 at 10 02 09 AM" src="https://github.com/user-attachments/assets/1ff0d15a-2381-45f1-a3ae-dd08067a63f8">
+
+display: inline-flex;
+height: 24px;
+padding: 0px 8px 0px 8px;
+justify-content: center;
+align-items: center;
+Radius: 2px;
+
+Color:$color-secondary-vads-color-secondary-dark
+
+font: vads-font-family-sans-serif, 
+vads-font-size-base,
+vads-font-weight-bold 
+color: $color-vads-color-base-lightest
+
+ 
+  
   - Size: ...
   - Color: ....
     - Hex value: ....
   - Margins and positioning: ....
 
 **Accessibility specs** 
-TK TK
+The component is implemented with aria text for screen reader usage. 
+
+The aria content has variations
 
 **Positioning**
 - The "Go to your inbox" link should always appear first in the stack of health care links. The stack of links appears on the lefthand side on desktop if the user does not upcoming appointments. Otherwise, it appears on the righthand side on desktop.
