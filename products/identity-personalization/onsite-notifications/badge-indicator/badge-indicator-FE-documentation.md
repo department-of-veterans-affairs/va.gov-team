@@ -1,6 +1,6 @@
 # Badge indicator FE documentation - My VA Health Care inbox link implementation 
 
-**Last updated:** September 19, 2024 - first published
+**Last updated:** October 1 2024 - added the majority of the details for the component. _Note that elements related to error handling are still WIP._
 
 This document outlines specs for implementing the badge indicator on the "Go to your inbox" link in the Health Care section on My VA. The link provides access the health care secure messaging inbox. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
