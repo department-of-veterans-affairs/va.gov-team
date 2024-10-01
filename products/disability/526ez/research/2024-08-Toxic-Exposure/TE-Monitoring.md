@@ -170,10 +170,12 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 ## Top 5 Takeaways 
 Top takeaways will come from the combined review of GA4 and Medallia whenever the survey data is pulled. These insights will work to explain trends we see across qualitative and quantitative data points as they pertain to Toxic Exposure. 
 
-### 5-25% Takeaways
 <details>
-  <summary>Click to expand Takeaways </summary>
+  <summary> Expand to see insights.</summary>
 
+
+### 5-25% Takeaways
+    
 **Takeaway 1.** Early data from the success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
    
 **Takeaway 2** A majority of our qualitative feedback from Medalia in MyVA 411 features Veterans requesting more information about the Pact Act or looking for a way to access the form itself.
