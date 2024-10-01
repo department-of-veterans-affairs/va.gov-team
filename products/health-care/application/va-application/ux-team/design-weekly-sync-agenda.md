@@ -1,5 +1,39 @@
 # Design Weekly Sync Agenda
 
+## 2024-09-30
+Attendees: Angela, Jessica, Hieu, Lois, and Renata.
+
+**CG Research**
+- The team discussed several stakeholders signing up to be observers and how Jessica or Angela would send out the individual links. 
+
+**EZR Social Listening**
+- Linking back to Priority Group, it is clear and definitive that most Veterans do not know what Priority Group is and how it impacts their benefits. 
+- Renata notes that the User Generated Content is across the board on the Veteran Journey while the Medalia that Luis is working on is during mid-form. Both types would help us identify gaps.
+- Lois wants to emphasize getting back to the research plan, wondering how much more should we do on social listening and what will be helpful to us.
+- Hieu notes there are two ideas around this work: 1 - how does this help our team with our work/research? 2 - Can other teams utilize this work? So the intent is to share this work with others as well.
+- Lois agrees with sharing the work and notes that Kristen M. would be interested in the appointment portion of the work.
+- One idea: Priority Group is care based on your disability group + financial situation?
+ 
+**Journey Map**
+- Jessica explains that it would be a low lift, a source of truth (and living docs) of everything we have learned so far, including our research.
+- Lois brought up it would be like the Map of Maps. 
+- Idea: just links in Mural to keep it low lift? 
+
+**Registration**
+- Lois: It feels like the registration explanation is still unclear.
+
+**OCTO Presentation**
+- Lois questions how all these presentations relate back to us. The one from today would be Prefill and Trauma. 
+The discussion that the OCTO presentation is ultimately a way for other teams to share their work and see if it can be utilized by the larger community.
+
+**Silent Failure**
+- Renata explains what happens when the EZ/EZR application is not successfully submitted through the VES. The Confirmation Page message is around successful submission while the VES would be the one that sends out the application is successfully received. If it is not received by the system, this silent failure will trigger. 
+**Sign In** 
+- Lois brought up the conversation around how Veterans would be confused on the sign-in location after they have an in-progress application. 
+- We think EZ shows up as Save-in-Progress on MyVA (Dashboard and in Claims). Angela can confirm that with the Developers. 
+- In Slack, Heather asked the MyVA team if that is not longer the case. 
+- The status also shows up in the Intro page (Save-in-Progress) for the 10-10EZ application. 
+- Nuance: What does not show in MyVA because not all status shows up in MyVA.
 
 
 ## 2024-09-23
@@ -15,16 +49,17 @@ Attendees:
 
 Summary:
 
-Would like to chat through the county field updates on the CG form - [Figma link](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?t=kjelMus8DMVBLq1t-0)
+- Would like to chat through the county field updates on the CG form - [Figma link](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?t=kjelMus8DMVBLq1t-0)
 [Design] 10-10CG - Explore design and content options for County field #92754
 
-From Heather in Slack: 
+- From Heather in Slack: 
 RE County - Matt says it would not be a quick fix to put it on its own page, so we would need to determine if that is going to be a permanent change (thinking yes, but we can chat about it).  Also, a quick fix would be to add that US/USA/United States validation restriction.
 9:08
 RE data flows, there is that Visio, but we don't maintain that. We do have some high level diagrams in our folders
 [EZ architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/architecture-diagram.md) (GovDelivery is now VA Notify, has not yet been updated)
 [CG architectural overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf) - font is a bit tiny, but it does include the Mulesoft middleware
 
+- Lois asked if her TERA overview questions were accurate. Angela updated the questions since it is closer to VBA’s question now.
 
 ## 2024-09-9
 Attendees: 
