@@ -120,8 +120,8 @@
     - **Sprint Goal is to finish the research plan and start to make plans for the pilot**
     -  ✔️ 🟥 [[Research] Create Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91303)
     - ✔️ 🟥 [[Design] Create low-fi wireframe options](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92856)
-    -  ✔️ 🟥 [[SPIKE] Consider unmoderated study to solicit quick feedback on content changes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/93025)
-    - 🟥 [Start creating short presentation about experiment for IPT](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93630)
+    - ✔️ 🟥 [[SPIKE] Consider unmoderated study to solicit quick feedback on content changes](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/93025)
+    - ✔️ 🟥 [Start creating short presentation about experiment for IPT](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93630)
     - ✔️ Create collab cycle ticket
     - ✔️ Have Kristen Schedule OCTO PO Sync touchpoint ([Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-with-staff.md))
        - [OCTO PO Sync touchpoint ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93088) 
