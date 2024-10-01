@@ -1,7 +1,7 @@
 # Ask VA variation points
 Last updated by @beckyphung: October 1, 2024
 
-As of October 1, 2024, we started outlining the full scope of testing in the [Ask VA Phase 1 testing scope tracker Excel file in SharePoint](https://dvagov.sharepoint.com/:x:/s/AskVA/EbbW0jyxC7tDvWNf346N4kkBYx7ZAff9Pt5pTOX7fODjIA?e=cX2e51).
+10/1 update: We started outlining the full scope of testing in the [Ask VA Phase 1 testing scope tracker Excel file in SharePoint](https://dvagov.sharepoint.com/:x:/s/AskVA/EbbW0jyxC7tDvWNf346N4kkBYx7ZAff9Pt5pTOX7fODjIA?e=cX2e51).
 
 - **What**: This document shows the different points at which the Ask VA form and dashboard change.
 - **Why**: Ensure we have adequate test coverage for front-end variations before launch in January 2025.
