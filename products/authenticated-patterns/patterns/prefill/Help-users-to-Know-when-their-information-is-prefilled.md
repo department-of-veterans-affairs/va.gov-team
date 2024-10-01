@@ -1,23 +1,22 @@
-# Help users to... Know when their information is prefilled
-`USE WITH CAUTION: CANDIDATE`
+---
+layout: pattern
+title: Help users to... Know when their information is prefilled
+draft: true
+permalink: /patterns/help-users-to/know-when-their-information-is-prefilled
+sub-section: help-users-to
+intro-text: "Follow this pattern to help users know when their information will be prefilled for them in an application. "
+research-title: DSC: Help users know when their info is prefilled. 
+figma-link: 
+status: use-with-caution-available
+anchors:
+  - anchor: Usage
+  - anchor: How to design and build
+  - anchor: Examples
+  - anchor: Code usage
+  - anchor: Content considerations
+  - anchor: Research findings
+---
 
-Follow this pattern to help users know when their information will be prefilled for them in an application. 
-
-View [Help users to... Know how their information is updated](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) for guidance on helping users update this prefilled information.
-
-📝 Note: We need to decide whether this pattern will be added to VADS at the same time as the other one.
-- If it is, then we can link to the other one.
-- If it isn't, we need to only link to the existing pattern . For the sake of consistency, I'm going to update the links to link to the existing pattern for now.
-
-### Resources
-- [Research](Link to research repo filtered for issues containing pattern label [like this](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+label%3A%22DSC%3A+Help%20users%20know%20how%20their%20info%20is%20updated%22))
-
-### On this page
-- [Usage](#usage)
-- [How to design and build](#how-to-design-and-build)
-- [Examples](#examples)
-- [Content considerations](#content-considerations)
-- [Research findings](#research-findings)
 
 ## Usage
 ### When to use this pattern
