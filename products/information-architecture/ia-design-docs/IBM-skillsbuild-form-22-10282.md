@@ -77,13 +77,21 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
   - Link destination: va.gov/education/other-va-education-benefits/[H1 - TBD by Content]/
 <img width="825" alt="ibm secondary nav" src="https://github.com/user-attachments/assets/530297e9-f80a-4e17-a432-80e8e83c82ce">
 
-2. **'About' page for form** - Add
+2. **Benefit Info page (static Drupal page)** - Add
+   - Placement description: The 'Benefit Info page' is listed the left nav, under **Education and training > Get benefits > Other VA education benefits > [IBM Skillsbuild - H1 TBD]. This page includes a CTA to apply for the benefit.
+  - CTA Link label: Apply for IBM SkillsBuild trainings (or similar - TBD by Content)
+  - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
+![ibm secondary entry benefit info](https://github.com/user-attachments/assets/5654f697-9798-4a82-9039-51260d26febb)
+
+3. **'About' page for form** - Add
   - Placement description: The 'Find a VA form' system's search result for this form should be updated with a link to the form, now that it can be filled out digitally.
   - Link label: Fill out VA form 22-10282 online
   - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
 <img width="732" alt="ibm about 2" src="https://github.com/user-attachments/assets/1a37660a-3f6d-4396-8ab8-dc4b85cb2862">
 
-3. **Sam - add benefit info page w screenshot of start of form
+
+
+
 
 ### Crosslinks
 The three options below are more brainstorm than instructions. The 'more info' sections on some of these pages have a pretty narrowly topic focus, so I'd like to defer to Content's input on which of these options seem best.
