@@ -6,17 +6,18 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 
 ## Go to your inbox link
 
-With unread messages:
+### With unread messages:
 
-<img width="675" alt="Badge 1" src="https://github.com/user-attachments/assets/18fb8819-ada6-4d5b-82aa-972fe8116aa0">
+<img width="460
+ " alt="Badge 1" src="https://github.com/user-attachments/assets/18fb8819-ada6-4d5b-82aa-972fe8116aa0">
 
-Desktop mockup (link tk)
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2291-30877&t=A6qFKMrzSt4ukLYn-1)
 
-Mobile mockup (link tk)
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1758-69586&t=A6qFKMrzSt4ukLYn-1)
 
-Without unread messages:
+### Without unread messages:
 
- << needs image >>
+<img width="460" alt="No messages" src="https://github.com/user-attachments/assets/da79657a-80e4-4a1f-83f9-08d5c43278df">
 
 Desktop mockup (link tk)
 
