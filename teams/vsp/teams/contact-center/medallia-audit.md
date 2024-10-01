@@ -23,8 +23,8 @@ Both the My VA and Profile teams have a Datadog dashboard:
 
 | **Dashboard**          | **Description**        |
 |-------------------|----------------------|
-| [My VA Dashboard](https://vagov.ddog-gov.com/dashboard/4dk-pwd-mni/authenticated-experience-my-va?fromUser=false&refresh_mode=sliding&from_ts=1727402646697&to_ts=1727406246697&live=true)     | Contains visualizations for benefits payments, outstanding debts, submission statuses, etc.          |
-| [Profile Dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=sliding&from_ts=1727319633446&to_ts=1727406033446&live=true)    | Contains visualizations for contact information, personal information, direct deposit information, communication preferences, military service history, etc. |
+| [Medallia Dashboard]()     | Contains visualizations for benefits payments, outstanding debts, submission statuses, etc.          |
+
 
 All API endpoints have 2 monitors associated with them:
 
