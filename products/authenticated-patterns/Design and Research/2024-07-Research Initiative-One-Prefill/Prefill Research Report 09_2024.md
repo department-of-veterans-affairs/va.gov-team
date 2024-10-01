@@ -107,7 +107,7 @@ _Labels: `Pattern: Know when their information is prefilled`_
 
 Veterans used a variety of words to describe where they thought their data was pulled from to display in the prototype. This included words such as account, information, profile, records, permanent record, and in the cloud among others. 
 
-Many of our participants expressed confusion around their data and it’s association, or lack thereof, with whichever authentication service they used to login to VA.gov (such as Login.gov, ID.me and MyHealtheVet). They thought that if they made changes to their VA.gov profile data, it would update their authentication platform data as well. One even thought that it would update any other platforms that were connected to their Login.gov account, such as SSA.gov.
+Many participants didn't understand the relationship with their data and the authentication service they used to login to VA.gov (such as Login.gov, ID.me and MyHealtheVet). They thought that if they made changes to their VA.gov profile data, it would update their authentication platform data as well. One even thought that it would update any other platforms that were connected to their Login.gov account, such as SSA.gov.
 
 > " I would think [my records are pulled] from login.gov like when you're you sign in 'cause login.gov is also SSA and… it's also your medical records." P13
 
