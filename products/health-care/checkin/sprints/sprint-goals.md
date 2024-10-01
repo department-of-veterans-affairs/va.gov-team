@@ -22,6 +22,7 @@
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93424)
 - **Tech Debt**
     - 🟦 [Add Code to Retry VA Notify when We Receive an Error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
+    - 🟦 [URL Shortener Errors Return a JSON Response](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94048)
 </details>
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
