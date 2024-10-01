@@ -349,6 +349,8 @@ There are multiple possible error scenarios that are not related to specific for
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-782&t=0g1QL0e3j29my5Qt-1)
 
+This error states when the page fails to load. This could be due to a "catastrophic" failure.
+
  
 ### Failed network call
 
@@ -356,7 +358,7 @@ There are multiple possible error scenarios that are not related to specific for
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-17482&t=nHq2rMia3osfDiWr-1)
 
-This error state occurs when a network request fails.
+This error state occurs when a network request fails. This could be because of: an issue with VA.gov's front-end/back-end, with an internal API failure(s). 
 
 **Visual specs**
 - The warning alert component in [VADS]([https://design.va.gov/components/card#variations](https://design.va.gov/components/alert#warning-alert)) is used
@@ -369,13 +371,13 @@ We can't access your benefit applications and forms right now
 
 We're sorry. We're working to fix this problem. Check back later.
 
-### Failed API call
+### Failed external API call
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28921&t=nHq2rMia3osfDiWr-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28909&t=nHq2rMia3osfDiWr-1)
 
-This error state occurs when an API request for statuses fails.
+This error state occurs when an API request for statuses fails, on the Lighthouse side.
 
 **Visual specs**
 - The warning alert component in [VADS]([https://design.va.gov/components/card#variations](https://design.va.gov/components/alert#warning-alert)) is used
