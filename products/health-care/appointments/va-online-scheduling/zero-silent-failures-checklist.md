@@ -275,9 +275,8 @@ Please document the outcome of this conversation in your product's documentation
 - Does not break user flow upon failure
 - Turned off via Flipper
 - We display an alert indicating to the user that not all appointments were loaded
-- Does not break application
-- When user gets dropped to request flow due to ineligibility for direct schedule, no message is shown to end user. Is this considered a silent failure?
-
+- Display unknown data to the user. For example, if we receive “1-128" as the clinic name, we pass the information to the frontend. That information may not be clear since it's not in plain language. 
+- When user gets dropped to request flow due to ineligibility for direct schedule, no message is shown to end user. 
 
 If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md). That diagram will help us to help you and your team to create this user experience.
 
