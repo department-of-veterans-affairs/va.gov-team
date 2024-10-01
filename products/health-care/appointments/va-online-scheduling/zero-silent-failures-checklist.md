@@ -198,7 +198,7 @@ If not, [implement tagging standards](https://depo-platform-documentation.scroll
 
 - [x] Do errors detected by Datadog go into a Slack notifications channel?
 
- - [JL] We have this set up too. Messages go to [#appointments-alerts](https://dsva.slack.com/archives/C016QB6T340) channel.
+ - We have this set up too. Messages go to [#appointments-alerts](https://dsva.slack.com/archives/C016QB6T340) channel.
 
 If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
 
@@ -208,7 +208,7 @@ Link to channel where alerts are populated: [#appointments-alerts](https://dsva.
     - [x] Yes
     - [ ] No
 
-Our team has a dedicated slack channel #appointments-alerts and we have team members monitoring issues that come up for the application. 
+  - Our team has a dedicated slack channel #appointments-alerts and we have team members monitoring issues that come up for the application. 
 
 If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
@@ -236,7 +236,7 @@ If not, then start filing Github issues for new categories of errors following [
  - We currently have alerts in the Appointments application
  - 500 error state - We follow the design system guidlines for displaying alert/error to display an alert with this message. "We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later."
  - 400 error state - We follow the design system guidlines for displaying alert/error to display an alert with this message. "We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later."
- - FE alerts diagram (will insert here) 
+ - [FE alerts diagram](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2&node-type=canvas&t=T08zTlyRrfLtzViJ-0) 
 
 If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
 
@@ -244,19 +244,19 @@ If not, then file Github issues to capture error categories following [this guid
 
 - [X] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
 
-_Our [architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png) may suffice here and we may not need to diagram for each flow [RS]_
+Our [architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png) 
 
 If not, then [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md) that captures this information.
 
 
 - [X] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down? This should be captured in the data flow diagram or a separate document.
 
- - [LD] Our team understands when we recieved an error from the upstream services. We cannot tell what caused the issue from the upstream services.  
+ - Our team understands when we recieved an error from the upstream services. We cannot tell what caused the issue from the upstream services.  
 
 If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
 - [X] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
-- [LD] The owner of the system of record does not recieve the the user data indiciation of when the application has a failure. Our team will notify the services team when we come into a issue with any of the upstream services. 
+ - The owner of the system of record does not recieve the the user data indiciation of when the application has a failure. Our team will notify the services team when we come into a issue with any of the upstream services. 
    
 If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
 Please document the outcome of this conversation in your product's documentation in Github and link here:
@@ -267,16 +267,16 @@ Please document the outcome of this conversation in your product's documentation
 - [LD] We have alerts in the UI that displays when there is an issue with the application 
 
 ### Possible silent errors
-- [PR] Clinic phone numbers being disabled or mis-entered
-- [PR] Staff data coming through the "details about your concern" field
-- [PR] Data missing from video appointments
-- [PR] Staff-canceled appointments disappearing from the list/no email notification
-- [JL] Long standing requests without response?
-- [JL] ~~Session extension failure (Sidekiq job)~~ Does not break user flow upon failure
-- [JL] ~~Schema validation failure (Sidekiq job)~~ Turned off via Flipper
-- [JL] ~~Partial responses~~ We display an alert indicating to the user that not all appointments were loaded
-- [JM] ~~Clinic location mis-entered with codes rather than floor or room number~~ Does not break application
-- [SA] When user gets dropped to request flow due to ineligibility for direct schedule, no message is shown to end user. Is this considered a silent failure?
+- Clinic phone numbers being disabled or mis-entered
+- Staff data coming through the "details about your concern" field
+- Data missing from video appointments
+- Staff-canceled appointments disappearing from the list/no email notification
+- [Long standing requests without response?
+- Does not break user flow upon failure
+- Turned off via Flipper
+- We display an alert indicating to the user that not all appointments were loaded
+- Does not break application
+- When user gets dropped to request flow due to ineligibility for direct schedule, no message is shown to end user. Is this considered a silent failure?
 
 
 If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md). That diagram will help us to help you and your team to create this user experience.
