@@ -13,8 +13,9 @@ Welcome to the Accredited Representative Facing (ARF) Engineering team! This doc
 
 - [ ] **Explore** [ADRs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/ADRs)
    - [ ] The [ARF 21a Architecture Intent Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/arp-architecture-intent-meeting.md) is a key one to spend time with!
+- [ ] **Explore** [Next Steps for ARF Engineers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/2024-9-ARF-engineering-next-steps.md)
 - [ ] **Explore** [ARF Engineering Canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC)
-- [ ] **Explore** [Exercising BGS's POA request APIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/exercising_BGS_POA_request_apis.md) - which will allow you to hit BGS from vets-api (see [diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709071900155/9d5180a5134a76b7a9a0165a6cd56a892ad1b6a1?sender=u44da4f823ec94118a7079396)).
+- [ ] **Explore** [Exercising BGS's POA request APIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/exercising_BGS_POA_request_apis.md) - which will allow you to hit BGS from `vets-api` (see [diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709071900155/9d5180a5134a76b7a9a0165a6cd56a892ad1b6a1?sender=u44da4f823ec94118a7079396)). The ability to do this may not be of consequence depending on the [chosen 21-22 storage solution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/technical-documentation/appoint-a-representative/poa_request_proposal.md#features-supported).
 
 ## ARP Design
 
