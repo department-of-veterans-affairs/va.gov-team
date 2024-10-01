@@ -30,6 +30,10 @@ Use _________ for icon
 **Show badge indicator**
 - For users who have unread messages in their secure messaging inbox.
 
+**Flow chart**
+
+<img width="4206" alt="Flow Chart" src="https://github.com/user-attachments/assets/68314736-d111-471b-a9d4-3cc8fc66f28b">
+
 ### Visual specifications
 
 <img width="210" alt="badge specifications" src="https://github.com/user-attachments/assets/1ff0d15a-2381-45f1-a3ae-dd08067a63f8">
