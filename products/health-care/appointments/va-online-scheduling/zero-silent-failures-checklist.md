@@ -53,7 +53,7 @@
     - [x] Yes
     - [ ] No
 
-- [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the non-appointments APIs we hit I've found so far:
+All `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the non-appointments APIs we hit I've found so far:
     ```
     From vets-website:
     (note: I'm not including APIs to appointments APIs maintained by us)
@@ -122,15 +122,13 @@ If you answered yes to any of these questions then go through the following [che
 
 ### Start
 
-- [ ] Do you know when your applications shipped to production? (*If not, use Github to determine, roughly, when your application shipped to users.*)
- - [RS] The src/applications/vaos/vaos-entry.jsx file was added to the repository on 2019-08-15, that doesn’t mean that is when it was turned on for production users however but when it was first added to the repository. This was determined from a git log command and filter.
- - [JL] Looking through the history of issues and tickets, my understanding is that the initial rollout was in Spring 2020, though it seems Tony would probably know best. I’m basing my understanding on three tickets in particular: 6498 tracked phase 1 of the roll out and was completed in March 2020, 6644 tracked the redirection of MHV traffic to VAOS after 100% rollout to va.gov and was completed in April 2020, 4164 is an epic that tracked production readiness and was finally closed in June 2020.
- - [JR] August 2021 - Community Care and VA Request Submission
-   August 2021 - Direct Scheduling
-   March 2021 - Vaccine Scheduling 
+- [X] Do you know when your applications shipped to production? (*If not, use Github to determine, roughly, when your application shipped to users.*)
+    August 2021 - Community Care and VA Request Submission
+    August 2021 - Direct Scheduling
+    March 2021 - Vaccine Scheduling 
 
-- [ ] Do your applications use the same APIs when it shipped as it does today?
- - [JL] As Simi mentioned, we have fully migrated from v0 to v2 APIs. I agree that I think it’s not useful to document v0 APIs since those are completely removed at this point.
+- [X] Do your applications use the same APIs when it shipped as it does today?
+ - We have fully migrated from v0 to v2 APIs.
 
 If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
 
@@ -138,50 +136,51 @@ If not, then you'll need to consider the path user data took through both the cu
 - [x] Do you monitor the APIs that you submit to via Datadog?
 
 - VA Direct Schedule Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - COVID Vaccine Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - VA Request Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - CC Request Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - Manage Appointments Flow
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 - Cancellation Flows
-    - [x] Yes [JL]
+    - [x] Yes 
     - [ ] No
 
-- [JL] The dashboard is located [here](https://vagov.ddog-gov.com/dashboard/7t4-7fw-pgj/vaos-alerts?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1726685791928&to_ts=1726858591928&live=true).
+- The dashboard is located [here](https://vagov.ddog-gov.com/dashboard/7t4-7fw-pgj/vaos-alerts?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1726685791928&to_ts=1726858591928&live=true).
 
 If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
 
 - [x] Does your Datadog monitoring use the appropriate tagging?
 
     - VA Direct Schedule Flow
-        - [x] Yes [JL]
+        - [x] Yes 
         - [ ] No
     - COVID Vaccine Flow
-        - [x] Yes [JL]
+        - [x] Yes 
         - [ ] No
     - VA Request Flow
-        - [x] Yes [JL]
+        - [x] Yes 
         - [ ] No
     - CC Request Flow
-        - [x] Yes [JL]
+        - [x] Yes 
         - [ ] No
     - Manage Appointments Flow
-        - [x] Yes [JL]
+        - [x] Yes 
         - [ ] No
     - Cancellation Flows
-        - [x] Yes [JL]
+        - [x] Yes 
         - [ ] No
 
- - [JL] I'm not sure if I found all the monitors but so far I see 5 that send updates to our slack channel [here](https://vagov.ddog-gov.com/monitors/manage?q=notification%3Aslack-appointments-alerts&order=desc). I'm not sure if there are other ones (maybe PagerDuty or other alerts)? Here are the tags we set:
+ - Updates in our slack channel [here](https://vagov.ddog-gov.com/monitors/manage?q=notification%3Aslack-appointments-alerts&order=desc). 
+   Here are the tags we set:
    - VAOS Vets API Errors Per Second, VAOS Vets API Error Rate, VAOS Request Rate is Low, VAOS Breakers Outage
     ```
     env:eks-prod
