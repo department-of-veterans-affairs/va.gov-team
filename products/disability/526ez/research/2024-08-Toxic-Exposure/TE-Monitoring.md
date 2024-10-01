@@ -139,6 +139,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
 
 All Medalia survey data is reported as a % of 4+5 answers.
+#### Success Metrics
 |**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 50%** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
 |--|--|--|--|--|--|--|
 |**CSAT-Intercept**| 36.2%|41.9% | | |
@@ -156,12 +157,9 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**Trust Overall**| | | | |
 |**WIP How interaction changed trust**| | | | |
 
-#### **Themes across Medallia survey responses**
+#### Thematic Tags 
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
-<details>
-  <summary>Click to expand tables </summary>
 
-**Top themes**
 |Rank|Pre-launch (6 weeks)|**1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|--|
 |Total responses| 462| 207|
@@ -171,7 +169,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |4|Error (n=26)|In Progress Form Issues (6)| --|
 |5|Getting help (n=23)|BIRLS error (4)|
 
-### Contact Center (MyVA 411 Data)
+### Contact Center(MyVA 411 Data)
 |Case type| Case Category| **1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|--|
 |**PACT Act**|Directory Assistance| 1358|
@@ -181,13 +179,19 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |**Disability Claim Application**| Navigation Issues | 4
 |**Disability Claim Application**| Upload/Download documents | 3|
 |**Disability Claim Application**| Intent to File Issue| 3
-</details>
+
+#### **Themes across Medallia survey responses**
+I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
+<details>
+  <summary>Click to expand tables </summary>
+
+**Top themes**
+
+
+
+
 
 ## Appendix     
-<details>
-  <summary> Expand to see See full list of codes and their definitions below.</summary>
-</details>
- 
 
 ### Codebook
 <details>
