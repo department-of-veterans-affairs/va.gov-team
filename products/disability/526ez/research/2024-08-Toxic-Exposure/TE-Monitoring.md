@@ -24,6 +24,13 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 - This report will document GA4, Data Dog, Contact Center, and Medallia survey data over the course of the release.
 - Relevant tickets: [(#90466)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/90466) and [(#88714)](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/88714)
 
+## Guiding Questions for UX Monitoring
+1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
+2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
+3. What challenges (usability issues, bugs, general pain points) are Veterans encountering with the feature? 
+4. How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
+5. What impact does the new feature have on Veteran trust in VA?
+
 ## Goals & Impact
 1. Monitoring the release will help us determine if and when we need to pause the incremental release of TE. We will be looking for major technical blockers or patterns of very negative open response feedback in the data to inform our decision-making.
 2. Reviewing Medallia data will help us focus our upcoming usability research on the new feature. We will leverage early findings in monitoring to shape the research plan and hypotheses.
@@ -109,17 +116,6 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 ## Surfacing UX Insights w/ Medallia Survey and Contact Center MyVA 411 data 
 Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [[See full report here.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
-
-### Guiding Questions for UX Monitoring
-<details>
-  <summary>Click to expand questions </summary>
-
-1. What portion of Veterans are choosing to answer the TE questions? [opt-in %]
-2. When are Veterans abandoning the TE flow? Are we seeing more drop-offs than baseline at later points in the form?
-3. What challenges (usability issues, bugs, general pain points) are Veterans encountering with the feature? 
-4. How satisfied are Veterans with the overall performance of the feature?[Intercept and Feedback customer satisfaction]
-5. What impact does the new feature have on Veteran trust in VA?
-</details>
 
 ## Top 5 Takeaways 
 **These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.** 
