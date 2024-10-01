@@ -61,13 +61,14 @@
     - **Appts Team (Simi) is handling this one**
         - 🟫 [SPIKE: Can we use the Search Providers Appts in EPS to show scheduled appt as an upcoming appt in the Appts app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93946)
 - **Check in with staff after checking in**
+    - 🟥 [[Research] Finish IPT presentation](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=81758430)
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
     - 🟥 [Create final wireframes for "go see staff" after checking in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93804)
     - Schedule Design Intent (PO Sync occurred on 9/25)
-    - Schedule Research Review
-    - Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well)
+    - Schedule Research Repo tickets to Shane for review 
+    - Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well) (Scheduled for Thursday)
 - **Edit existing content on a resources and support page from Check in**
     - TBD???
 - **Research Cards & Their Headers**
