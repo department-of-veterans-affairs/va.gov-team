@@ -93,7 +93,7 @@ The purpose of this research is to gather feedback from Veterans on the revised 
 
      - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2024-07-clinical-reminders-phase-2/conversation%20guide.md) 
 
-     - [BHL Prototype*](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbhl.va.gov%2Fx9tzw3y&data=05%7C02%7C%7Ce8094c7e54ad4314863008dce16bf43c%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638633100971715421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YUEsmfXIfevOWAS%2BqaghJlUPucGtN9Dv%2BfHXnc652fs%3D&reserved=0) 
+     - [BHL Prototype*](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbhl.va.gov%2Fbbybq9g%3Ft%3De&data=05%7C02%7C%7Ce4cb37550e3243a649ed08dce2120d88%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638633814384602405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=gGGdSUclw%2FxqLOAdlPuh66LNva%2BeXr0zNtyL5bVEBw4%3D&reserved=0)
 
 ***Important Note:** Prototype link **will expire on Oct. 3, 2024 at 12:00 p.m. ET**. 
 - If you need more time in accessing the prototype,  please contact [Nina Anusavice](nina.anusavice@va.gov) to obtain a new link.
@@ -171,7 +171,7 @@ The purpose of this research is to gather feedback from Veterans on the revised 
  
 ### Perigean kick-off meeting  
 
-- September 26, 2024 (tentative) with the following attendees: 
+- October 2-4, 2024 (please confirm time with Nina Anusavice) with the following attendees: 
 
    - Kristen McConnell UX Lead (kristen.mcconnell@va.gov) 
 
