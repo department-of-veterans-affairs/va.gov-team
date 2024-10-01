@@ -42,7 +42,7 @@ Based on on our findings, usability adjustments will be made to the image upload
 
 ### **Hypotheses**
 
-Our hypothesis is that participantP will prefer the updated mockup, based on previous research, and will also provide additional feedback on ways to improve it. Since the goal is to make usability adjustments to the image uploader, the only way to validate and expand on these adjustments is through testing.
+Our hypothesis is that participants will prefer the updated mockup, based on previous research, and will also provide additional feedback on ways to improve it. Since the goal is to make usability adjustments to the image uploader, the only way to validate and expand on these adjustments is through testing.
 
 ### **Conclusion:** *Definitely True!*
 
