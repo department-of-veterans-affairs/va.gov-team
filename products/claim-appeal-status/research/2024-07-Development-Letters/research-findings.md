@@ -320,6 +320,6 @@ This research does not include the perspectives of the following marginalized Ve
 * Identify as Biracial, or LGBTQ+
 * User relying on assistive technology
 
-<a href="https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1462409266" target="_blank">
-   <img alt="VA Recruitment Checker for this study" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2023-10-Claim-Contextualization/2024-cst-claim-contextualization.png" width="800"  height="">
+<a href="https://docs.google.com/spreadsheets/d/1Q5ZOzX8Y---IlzpbwHYNm017zDw1jFFyEqTd56wvG_E/edit?pli=1&gid=1606067745#gid=1606067745" target="_blank">
+   <img alt="VA Recruitment Checker for this study" src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2024-07-Development-Letters/recruitment-stats-for-benefit-claims-development-letters.png" width="800"  height="">
 </a>
