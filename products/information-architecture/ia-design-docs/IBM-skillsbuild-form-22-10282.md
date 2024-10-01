@@ -65,7 +65,6 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
   - Link label: TBD by Content
   - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
 
-<img width="496" alt="ibm primary entry a" src="https://github.com/user-attachments/assets/5dd99e02-bde0-4bda-9413-bf9bde804727">
 <img width="507" alt="ibm primary entry b" src="https://github.com/user-attachments/assets/568c8880-6dac-4595-b0f5-2d2e871065c3">
 
 
@@ -73,12 +72,12 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 1. **Left Nav** - Add
   - Placement description: In the left nav, under **Education and training > Get benefits > Other VA education benefits > [IBM Skillsbuild - H1 TBD]**
-  - Link label: H1 - TBD by content
+  - Left nav link label: H1 - TBD by content
   - Link destination: va.gov/education/other-va-education-benefits/[H1 - TBD by Content]/
 <img width="825" alt="ibm secondary nav" src="https://github.com/user-attachments/assets/530297e9-f80a-4e17-a432-80e8e83c82ce">
 
-2. **Benefit Info page (static Drupal page)** - Add
-   - Placement description: The 'Benefit Info page' is listed the left nav, under **Education and training > Get benefits > Other VA education benefits > [IBM Skillsbuild - H1 TBD]. This page includes a CTA to apply for the benefit.
+2. **Benefit Info (static Drupal page)** - Add
+   - Placement description: The 'Benefit Info page' can be reached from the left nav (see Secondary Entry Point > Left Nav, above). The page contains a description of the benefit (TBD by Content), and a CTA to apply for the benefit.
   - CTA Link label: Apply for IBM SkillsBuild trainings (or similar - TBD by Content)
   - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
 ![ibm secondary entry benefit info](https://github.com/user-attachments/assets/5654f697-9798-4a82-9039-51260d26febb)
