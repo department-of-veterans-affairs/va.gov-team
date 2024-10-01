@@ -23,29 +23,8 @@ Both the My VA and Profile teams have a Datadog dashboard:
 
 | **Dashboard**          | **Description**        |
 |-------------------|----------------------|
-| [Medallia Dashboard]()     | Contains visualizations for benefits payments, outstanding debts, submission statuses, etc.          |
+| [Medallia Dashboard]()     |           |
 
-
-All API endpoints have 2 monitors associated with them:
-
-| **Monitor**          | **Description**                                                                                   |
-|----------------------|---------------------------------------------------------------------------------------------------|
-| Error Rate Increase   | Error rate increases trigger when errors exceed a set threshold within a specific period of time. |
-| Volume Anomaly        | Volume anomaly monitors will trigger when there is a rapid increase or decrease in traffic.       |
-
-
-The list of monitors for My VA and Profile [can be found here](https://vagov.ddog-gov.com/monitors/manage?q=tag%3A%22team%3Aauth-experience-profile%22&order=asc&sort=name).
-
-When a monitor is triggered, an alert is sent to the [#accountexp-authexp_alerts](https://dsva.slack.com/archives/C02SYJGH8FJ) channel.
-
-API endpoints that make write requests are also monitored by the VA.gov Watchtower team.  When these monitors trigger, an incident will be created.  Usually, a watch officer will open an incident and reach out in our channel to inquire about an alert and request an explanation.
-
-## Response Protocols
-Our [monitor playbooks](#https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/auth-experience/playbooks/monitoring.md) ensure that the team can quickly assess, investigate, and respond to issues with Authenticated Experience's APIs while keeping internal and external teams informed.
-
-#### [Playbook: Error and Traffic Monitor Alerts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/auth-experience/playbooks/monitoring.md#playbook-error-and-traffic-monitor-alerts)
-
-#### [Playbook: Scheduled Maintenance](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/auth-experience/playbooks/monitoring.md#playbook-scheduled-maintenance)
 
 ## Requirement Checklists
 The following sections present the results of our assessment on how our team complies with the requirements outlined in this document. 
