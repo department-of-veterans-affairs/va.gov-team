@@ -81,7 +81,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 |Step 7| Confirmation | - | - |  | | |  | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
 
 
-## Success Metric Validation
+### Success Metric Validation
 We are regularly evaluating our top success metrics to make sure we can trust them. 
 <details>
   <summary>Click to expand findings below. </summary>
