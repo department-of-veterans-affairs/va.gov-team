@@ -82,9 +82,9 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 
 ### Success Metric Validation
-We are regularly evaluating our top success metrics to make sure we can trust them. 
+
 <details>
-  <summary>Click to expand findings below. </summary>
+  <summary>We are regularly evaluating our top success metrics to make sure we can trust them. Click to expand findings below. </summary>
 
 ### TE Abdanonment and Overall 526 Abandonment 
 ||**Toxic Exposure Abandonment** |**Overall 526 Abandonment**|
@@ -122,7 +122,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 </details>
 
 ## Top 5 Takeaways 
-Top takeaways will come from the combined review of all data sources. These insights will work to explain trends we see across qualitative and quantitative data points as they pertain to Toxic Exposure. 
+**These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.** 
 
 <details>
   <summary> Expand to see insights.</summary>
