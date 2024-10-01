@@ -116,7 +116,7 @@ Note: accrued benefits is launching separately from the rest of the pages, near 
        - **DIC: va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/**
        - **VA Survivors Pension: va.gov/family-and-caregiver-benefits/survivor-compensation/survivors-pension/**
        - Aid and attendance or housebound allowance: https://www.va.gov/pension/aid-attendance-housebound/
-       - **Accrued benefits: va.gov/family-and-caregiver-benefits/survivor-compensation/accrued-benefits/**
+       - **Accrued benefits: PAUSED UNTIL LATE NOVEMBER va.gov/family-and-caregiver-benefits/survivor-compensation/accrued-benefits/**
    - Get - Additional benefits or services(H3)
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
    - Manage(H2)
