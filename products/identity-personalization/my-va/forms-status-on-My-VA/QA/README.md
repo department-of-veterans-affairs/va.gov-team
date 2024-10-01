@@ -23,7 +23,7 @@ For QA of the My VA Forms Status we will be performing QA manually using a sprea
 
 ### Overview of Devices, Operating Systems & Browser
 
-We need to test all _n_ test cases across the devices, operating systems, and browsers outlined below. 
+We need to test all 10 test cases across the devices, operating systems, and browsers outlined below. 
 
 #### General Version-coverage Strategy
 - **Hardware:** cover 2nd-latest models [1 yr back from latest available]
