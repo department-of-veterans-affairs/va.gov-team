@@ -1,5 +1,5 @@
 # CIE SPRINT GOALS (aka SPRINKLES) 
-🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
+🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM 🟫 APPT TEAM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
 <summary>SPRINT 18 - 10/16/2024-10/29/2024 FUTURE TENTATIVE</summary>
@@ -56,8 +56,9 @@
         - 🟦[Create Sequence Diagram for CC Referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93897)
         - 🟦 [SPIKE: Identify shared, restricted folder to store data in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93888)
         - 🟦 [SPIKE: Identify deleting referral information we no longer need.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93889)    
-        - 🟦 [SPIKE: Identify What Referral Data we Need
-](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93900)        
+        - 🟦 [SPIKE: Identify What Referral Data we Need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93900)
+    - **Appts Team (Simi) is handling this one**
+        - 🟫 [SPIKE: Can we use the Search Providers Appts in EPS to show scheduled appt as an upcoming appt in the Appts app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93946)
 - **Check in with staff after checking in**
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
