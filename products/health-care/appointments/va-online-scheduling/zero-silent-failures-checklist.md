@@ -53,7 +53,7 @@
     - [x] Yes
     - [ ] No
 
-All `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the non-appointments APIs we hit I've found so far:
+- [JL] FYI all `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs since we augment each appointment retrieved/created/updated with location information and service/friendly names. Here's a list of all the non-appointments APIs we hit I've found so far:
     ```
     From vets-website:
     (note: I'm not including APIs to appointments APIs maintained by us)
@@ -81,7 +81,6 @@ All `/vaos/v2/appointments/` calls will hit the facilities and clinics APIs sinc
     GET /users/v2/session/jwts
     POST /users/v2/session?processRules=true
     ```
-    Note that I'm excluding v1 endpoints but let me know if we need to look into that as well @cferris32.
     A: The v1 endpoints as they are defined in the VAOS routes have virtually never been used. From our routes perspective, we went straight from v0 to v2 (v0 has long since been    deleted). I cannot find any evidence that these endpoints are currently being used even by stray clients, but this might be worth additional investigation and possibly shutting off the routes if we believe they aren't needed and don't want to chance them being hit. [CF]
 
 Summary of above: our vets-api v1 endpoints have been inactive and unused for years so we are excluding them from this list.
