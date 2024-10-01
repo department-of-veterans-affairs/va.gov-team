@@ -53,6 +53,25 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 
 >I tried to do something online and I signed back in and it kicked me out. And I signed in again and it kicked me out. And then I have to try a different browser just to stay logged in.
 
+
+### Study name: 526 Shadowing
+- **Team/Researcher:** 526EZ Evelyn Hilbrich Davis, Julie Pedke, and Nichole Nicholas
+- **Date:** Nov 2023
+- **Link to study:** [2023-11-Shadowing-Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
+- **Takeaway:**
+   - P10 had an interesting sequence (likely mostly stemming from reseting password)
+      - signed in (vai Login.gov) at the form page, but couldn't remember password
+      - reset password (off screeen share)
+      - Signed back in at on VA branded Login.gov, and did MFA code
+      - Back on VA got back to the form page, clicked button to start the form and went to /verfiy page
+      - clicked through to Login.gov - had to sign in again, MFA again, and then saw "Reactivate your Account" page on Login.gov
+      - this page required the Personal Key which the participant confused at first with MFA.
+      - when clicked the option for "don't have personal key" it them required ID verification, which participant mentioned doing just a few days ago.
+   - Another had to go to another room to get their phone for MFA.
+   - Another was already signed in before session start and had to sign back in due to inactivity.
+   - I saw was P12 came up with the double MFA. Likely due to having set up MFA with DS Logon, and then having the forced MFA from the ID.me “MFA wrapper”
+
+
 ### Study name: Logged-in wayfinding and navigation research
 - **Team/Researcher:** Authenticated Experience, Liz Lantz
 - **Date:** March 2023
