@@ -121,56 +121,51 @@ See also our [Research Plan section on recruitment criteria]()
 We talked with  participants** out of 15 participants who were recruited
 
 Gender:
-* Male: 
-* Female:  
+* Male: 7
+* Female: 3
 
 LGBTQ+:
-* Transgender:  x
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender:  0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 0
 
 
 Devices used during study: 
 * Desktop: 
 * Tablet: 
 * Smart phone: 
-* Assistive Technology: 
+* Assistive Technology: 1 (hearing aid)
 
 
 Age:
-* 25-34: 
-* 35-44: 
-* 45-54: 
-* 55-64: 
-* 65+: 
-* Unknown: 
+* 25-34: 1
+* 35-44: 0
+* 45-54: 0
+* 55-64: 9 
+* 65+: 0
+* Unknown: 0 
 
 
 Education:
-* High school degree or equivalent: 
-* Some college (no degree): 
-* Associate's degree, trade certificate or vocational training: 
-* Bachelor's degree: 
-* Master's degree: 
+* High school degree or equivalent: 1
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 4
+* Master's degree: 2
 * Doctorate degree: 
 * Unknown: 
 
-Geographic location:
-* Urban: 
-* Rural: 
-* Unknown: 
-
 Race:
-* White: 
+* White: 7
 * Black: 
 * Hispanic: 
 * Biracial: 
 * Asian: 
-* Native: 
-
+* Native: 1
+* Unknown: 2
 
 Disability and Assistive Technology (AT):
-* Cognitive: 
+* Cognitive: 1
 
 ## Underserved groups we haven’t talked to 
 
