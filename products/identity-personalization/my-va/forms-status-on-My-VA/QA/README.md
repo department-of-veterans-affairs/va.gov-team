@@ -51,9 +51,9 @@ We need to test all _n_ test cases across the devices, operating systems, and br
 ## Findings Summary
 | Test case No. |    Finding       | Device  | Operating System| Browser |Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
-| 1 | Incorrect copy - when LOA1 users have no forms to show the copy in the Benefit Applications and Forms section is incorrect  | all  | all  | all  | Matt  | [#93764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93764) |   |
-| 2 | Submitted forms not appearing for LOA1 users  | all  | all  | all  | AJ  | [#93723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93723) |   |
-| 4 | Incorrect copy - when LOA3 users have no forms to show the copy in the Benefit Applications and Forms section is incorrect  | all  | all  | all  | Matt  | [#93764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93764) |   |
-| General/all | Font in tag component appears to be mismatched from VADS |  all  | all  | all  | Matt  | [#93767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93767)|
+| 1 | Incorrect copy - when LOA1 users have no forms to show the copy in the Benefit Applications and Forms section is incorrect  | all  | all  | all  | Matt  | [#93764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93764) | Draft PR waiting to be merged post-staging review   |
+| 2 | Submitted forms not appearing for LOA1 users  | all  | all  | all  | AJ  | [#93723](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93723) | Draft PR waiting to be merged post-staging review   |
+| 4 | Incorrect copy - when LOA3 users have no forms to show the copy in the Benefit Applications and Forms section is incorrect  | all  | all  | all  | Matt  | [#93764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93764) | Draft PR waiting to be merged post-staging review   |
+| General/all | Font in tag component appears to be mismatched from VADS |  all  | all  | all  | Matt  | [#93767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93767)|  |
 
 
