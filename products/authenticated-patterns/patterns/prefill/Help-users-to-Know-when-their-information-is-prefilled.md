@@ -4,7 +4,7 @@ title: Help users to... Know when their information is prefilled
 draft: true
 permalink: /patterns/help-users-to/know-when-their-information-is-prefilled
 sub-section: help-users-to
-intro-text: "Follow this pattern to help users know when their information will be prefilled for them in an application. "
+intro-text: Follow this pattern to help users know when their information will be prefilled for them in an application.
 research-title: DSC: Help users know when their info is prefilled. 
 figma-link: 
 status: use-with-caution-available
