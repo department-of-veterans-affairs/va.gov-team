@@ -132,7 +132,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |**WIP How interaction changed trust**||  | | |
 
 #### Toxic Exposure feature
-|**Data point**|**1.0 - 50%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
+|**Data point**|**1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|
 |**CSAT-Intercept**| | | | |
 |**Feedback satisfaction**|||
@@ -144,9 +144,10 @@ All Medalia survey data is reported as a % of 4+5 answers.
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 
 **Top themes**
-|Rank|Pre-launch (6 weeks)|**1.0 - 50%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
+|Rank|Pre-launch (6 weeks)|**1.0 - 25%** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
 |--|--|--|--|--|--|
-|1|Usability (n=33)|Submission Issuees (9)|--|||
+|Total responses| 462| 207|
+|1|Usability (n=33)|Submission Issues (9)|--|||
 |2|Navigation (n=33)|Evidence Upload (7) |
 |3|PACT (n=26)|  PACT (7)|--|
 |4|Error (n=26)|In Progress Form Issues (6)| --|
@@ -164,19 +165,17 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |**Disability Claim Application**| Intent to File Issue| 3
 
 
-
 ## Top 5 Takeaways 
 Top takeaways will come from the combined review of GA4 and Medallia whenever the survey data is pulled. These insights will work to explain trends we see across qualitative and quantitative data points as they pertain to Toxic Exposure. 
 
-### Week 1 Takeaways
-1. Takeaway
-2. Takeaway
-3. Takeaway
-4. Takeaway
-5. Takeaway
-### Week 2 Takeaways
-### Week 3 Takeaways
-### Week 4 Takeaways
+### 5-25% Takeaways
+1. Early data from the success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.
+2. A majority of our qualitative feedback from Medalia in MyVA 411 features Veterans requesting more information about the Pact Act or looking for a way to access the form itself.
+   - < "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so.
+4.  It is too early to use our qualitative data sources to evaluate this success of the new toxic exposure feature at this time. We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points.
+5.  
+
+
 
 ## Appendix 
 
