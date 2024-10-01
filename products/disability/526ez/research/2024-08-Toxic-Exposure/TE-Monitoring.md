@@ -12,8 +12,8 @@
 - [526ez Success Metrics](#526ez-success-metrics)
     - [Validating our metrics](#success-metric-validation)
 - [Top UX Takeaways - new added across release](#Top-5-Takeaways )
-    - [Medallia Survey Trends](#Medallia-Data)
-    - [Contact Center MyVA411 Data Trends](Contact-Center(MyVA-411-Data))
+    - [Medallia Survey Trends](#Medallia-Data-Trends)
+    - [Contact Center MyVA411 Data Trends](Contact-Center(MyVA-411-Data)-Trends)
 - [Appendix](#appendix)
   
 ## Background
