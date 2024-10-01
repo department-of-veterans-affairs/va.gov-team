@@ -208,15 +208,14 @@ Link to channel where alerts are populated: [#appointments-alerts](https://dsva.
     - [x] Yes
     - [ ] No
 
-- [JL] Theoretically we do, and there’s a schedule [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/application-monitoring/VAOS%20Alerts%20On%20Call%20Roster.md). However, we haven’t been following this since August. Though I often see Jeff, Corey and Nicholas being active in the slack channel.
+Our team has a dedicated slack channel #appointments-alerts and we have team members monitoring issues that come up for the application. 
 
 If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
 - [x] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
     - [x] Yes
     - [ ] No
- - [JL] Yes we do. While we usually acknowledge issues in the slack channel directly using comments and threads, we can adopt the recommended methods listed in the linked document.
- - [JL] We've decided to revisit how we respond to issues given the platform recommendations but we'll keep the current alert channel name of #appointments-alerts.
+  - Yes we do. While we usually acknowledge issues in the slack channel directly using comments and threads, we can adopt the recommended methods listed in the linked document. We will work with our OCTO Product Owners to see how we will respond to issues given the platform recommendations. 
 
 If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
@@ -229,15 +228,14 @@ Link to Playbook:
 ### Reporting errors
 - [X] Have you filed issues for errors that are appearing in Datadog / Slack?
 
- - [JL] We have filed issues using data from our DataDog monitoring tools in the past when additional backend work was needed, e.g. 86316, 89619 and 90026. I believe there are currently no outstanding issues that need to be filed but we should update our practices to match the expectations listed in the linked document.
- - [JR,SA] Mentioned during the meeting that we also file MAPSUP tickets when needed.
+ - We have filed issues using data from our DataDog monitoring tools in the past when additional backend work was needed. If there is an issue on the frontend, we will open a GitHub ticket. If there is an issue with the backend/services, we will open a MASUP or JIRA ticket when needed. 
 
 If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
 
 - [X] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
- - [LD] We currently have alerts in the Appointments application
- - 500 error state - [SA] We follow the design system guidlines for displaying alert/error to display an alert with this message. "We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later."
- - 400 error state - [SA] We follow the design system guidlines for displaying alert/error to display an alert with this message. "We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later."
+ - We currently have alerts in the Appointments application
+ - 500 error state - We follow the design system guidlines for displaying alert/error to display an alert with this message. "We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later."
+ - 400 error state - We follow the design system guidlines for displaying alert/error to display an alert with this message. "We’re sorry. We’ve run into a problem. Something went wrong on our end. Please try again later."
  - FE alerts diagram (will insert here) 
 
 If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
