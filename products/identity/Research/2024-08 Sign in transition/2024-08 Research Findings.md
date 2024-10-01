@@ -62,42 +62,36 @@ Remote usability testing will evaluate the prototype with participants. We’ll 
 
 
 ### Key Findings (General):
-Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`,  `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
-- Most participants we spoke to were already prepared for the change.
-- Our existing content and messaging is working. 
-- New content is clear but participants only scanned headings and CTA buttons, skipping over help links and microcopy.
-- Most will wait until the last minute to adopt the new sign in option. 
-- Most experienced technical issues setting up their modern account with Login.gov or ID. me.
+Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Login`, `PRDT: VA.gov Profile`, `PRDT: Single-Sign-On (SSO)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`, `login.gov-adoption`
+1. Most participants we spoke to were already prepared for the change.
+2. Our existing content and messaging is working. 
+3. New content is clear but participants only scanned headings and CTA buttons, skipping over help links and microcopy.
+4. Most will wait until the last minute to adopt the new sign in option. 
+5. Most experienced technical issues setting up their modern account with Login.gov or ID. me.
 
 
-### Key Findings (Design):
-Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
-- Sign-in Page
-  - Looked like what they’re already used to.
-  - 3/10 said they would sign in with their modern account because:
-    -The CTA was prioritized at the top of the page.
-  - 7/10 would continue to select the My HealtheVet sign in option because:
-    - It’s faster (fewer clicks).
-    - It’s familiar.
-    - Their password is saved on their browser or device.
-    - Their priority is completing their task quickly.
-- Interstitial Page
-  - Participants said the information was clear.
-  - Repeating the deadline in the heading increased the sense of urgency.
-  - 8/10 participants said they’d:
-    - sign in with their modern credentials 
-    - or create a modern account.
+### Key Findings (Sign in page design):
+Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Login`, `PRDT: VA.gov Profile`, `PRDT: Single-Sign-On (SSO)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`, `login.gov-adoption`
+1. Looked like what participants were already used to.
+2. Some (3/10) said they would sign in with their modern account because the CTA was prioritized at the top of the page.
+3. Most (7/10) would continue to select the My HealtheVet sign in option with reasons like: it’s faster (fewer clicks), it’s familiar, their password is saved on their browser or device, or their priority is completing their task quickly.
+
+### Key Findings (Interstitial page deisgn):
+Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Login`, `PRDT: VA.gov Profile`, `PRDT: Single-Sign-On (SSO)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`, `login.gov-adoption`
+1. Participants said the information was clear.
+2. Repeating the deadline in the heading increased the sense of urgency.
+3. On this page most (8/10) participants said they’d either sign in with their existing modern credentials or create a modern account.
 
 ### Key Findings (Sentiment):
-Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `PRDT: VA.gov Profile`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
-- Perception that setting up a new (modern) account will take too much time.
-- Discomfort with providing sensitive information to another website, such as SSN.
-- Frustration with scanning and uploading documents.
-- Liked the simplicity of fewer sign-in options and the ability to access everything in one place.
-- Some Veterans wanted more information to decide which modern account they should choose.
-- Veterans want easy access to support and expressed a preference for phone support or in-person support.
-- Veterans responded positively to learning about in-person signup days.
-- Veterans want reassurance that the new sign-in process will be easier for them.
+Labels: `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `INTIVE: CX Executive Order`, `PRDT: Login`, `PRDT: VA.gov Profile`, `PRDT: Single-Sign-On (SSO)`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`, `login.gov-adoption`
+1. Perception that setting up a new (modern) account will take too much time.
+2. Discomfort with providing sensitive information to another website, such as SSN.
+3. Frustration with scanning and uploading documents.
+4. Liked the simplicity of fewer sign-in options and the ability to access everything in one place.
+5. Some Veterans wanted more information to decide which modern account they should choose.
+6. Veterans want easy access to support and expressed a preference for phone support or in-person support.
+7. Veterans responded positively to learning about in-person signup days.
+8. Veterans want reassurance that the new sign-in process will be easier for them.
 
 
 #### Recommendations - 
@@ -131,9 +125,9 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: 
+* Desktop or laptop: 6
 * Tablet: 
-* Smart phone: 
+* Smart phone: 4
 * Assistive Technology: 1 (hearing aid)
 
 
@@ -141,8 +135,7 @@ Age:
 * 25-34: 1
 * 35-44: 0
 * 45-54: 0
-* 55-64: 9 
-* 65+: 0
+* 55-64+: 9
 * Unknown: 0 
 
 
@@ -165,12 +158,13 @@ Race:
 * Unknown: 2
 
 Disability and Assistive Technology (AT):
-* Cognitive: 1
+* Cognitive: 2
+* Hearing aid: 1
 
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 
-* We didn't get a completed session with any users who identified as LGBTQ+.
-* We didn't talk with anyone who identitfies as Black.
-* We didn't speak to anyone who leveraged an assistive device.
+* Identify as LGBTQ+.
+* Identitfy as Black, Latino, Asian, or biracial
+* Those using an assistive device for vision imparement
