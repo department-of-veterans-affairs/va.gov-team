@@ -106,12 +106,10 @@ Summary of above: our vets-api v1 endpoints have been inactive and unused for ye
     - [ ] Yes
     - [x] No 
 
-- [JL] Technically yes we do since we have a user service that uses a Sidekiq job to refresh user sessions for all vets-api endpoints. However, my understanding is that this is a non-critical job and failures do not break user workflows since they will simply create a new session on the next API call to the backend. @cferris32 to double check my understanding here. If so, can we say we don't **rely** on Sidekiq jobs since the Sidekiq job can't break our user workflows?
-A: I believe you are correct and I will look into confirming this. @JunTaoLuo where did you find that info on the sidekiq jobs? [CF]
-A: I'm just looking through Sidekiq documentation and the code [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/user_service.rb#L26). [JL]
-A: Confirmed that our understanding of the sidekiq job for the user session is correct, this should not be breaking failure in our flow. [CF]
-A: FYI I've found another Sidekiq job that validates appointments_index schema [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/v2/appointments_service.rb#L43) but this is currently turned off via Flipper. [JL]
-- [JR] We don't have visibility to downstream services so we can only confirm that we don't use Sidekiq in the Appointments FE (src/applications/vaos) and BE (modules/vaos).
+- Sidekiq documentation and the code [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/user_service.rb#L26). [JL]
+- We confirmed the sidekiq job for the user session should not be breaking failure in our flow today. 
+- Sidekiq job that validates appointments_index schema [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/vaos/app/services/vaos/v2/appointments_service.rb#L43) but this is currently turned off via Flipper.
+- We don't have visibility to downstream services so we can only confirm that we don't use Sidekiq in the Appointments FE (src/applications/vaos) and BE (modules/vaos).
 
 Summary of above: we have no sidekiq jobs that are at risk of blocking our user flow or being critical failures.
 
