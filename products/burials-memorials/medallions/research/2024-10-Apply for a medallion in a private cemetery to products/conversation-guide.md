@@ -58,12 +58,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 -Veteran service periods: Can the participant navigate adding, cancelling, editing, deleting service periods?
 -Burial information: Is the wording for the questions in this section clear and easily understandable?
 - Memorial items: Does the participant click on the learn more about types of sizes links, and feel this is adequate in terms of user experience?
--Memorial items: For shipping information, does the user understand if they select yes, the medallion will be shipped to their address?
--Confirmation: Does the user understand what will happen next in the application process and to look for an email?
--VANotify emails: Are next steps clear to the cemetery participant with what to expect and do next before and after submission?
--Intro secondary form: How does the participant feel about having to create an account? 
--Confirmation secondary form: Does the user quickly sign or thoroughly review the accordions and guiding text?
--VANotify emails: Is the information sufficient for the Medallion recipient with what they should do and expect next?
+- Memorial items: For shipping information, does the user understand if they select yes, the medallion will be shipped to their address?
+- Confirmation: Does the user understand what will happen next in the application process and to look for an email?
+- VANotify emails: Are next steps clear to the cemetery participant with what to expect and do next before and after submission?
+- Intro secondary form: How does the participant feel about having to create an account? 
+- Confirmation secondary form: Does the user quickly sign or thoroughly review the accordions and guiding text?
+- VANotify emails: Is the information sufficient for the Medallion recipient with what they should do and expect next?
 ## Second Task: [Family member applicant] - X minutes
 - Step 1: You are Alex Wilson, a family member of the deceased Veteran. You live out of country but want to send the medallion to your brother to place on the Veteran’s headstone. You will complete the application from start to finish.
 ### Things to watch for:
@@ -72,14 +72,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Etc]
 - Introduction: Does the participant read every section?
 - Whole application: Does the participant feel they’d want to use the Need help guidance at any point?
--Address validation: Does the participant understand what to do next with standard address validation and not being able to verify an address? 
--Veteran service periods: Can the participant navigate adding, cancelling, editing, deleting service periods?
--Burial information: Is the wording for the questions in this section clear and easily understandable?
--Burial information: Does the participant read carefully for cemetery email address, “Check the email is correct before continuing. You must enter the cemetery’s email address. A secondary form required to sign will be sent to this address.”?
+- Address validation: Does the participant understand what to do next with standard address validation and not being able to verify an address? 
+- Veteran service periods: Can the participant navigate adding, cancelling, editing, deleting service periods?
+- Burial information: Is the wording for the questions in this section clear and easily understandable?
+- Burial information: Does the participant read carefully for cemetery email address, “Check the email is correct before continuing. You must enter the cemetery’s email address. A secondary form required to sign will be sent to this address.”?
 - Memorial items: Does the participant click on the learn more about types of sizes links, and feel this is adequate in terms of user experience?
--Memorial items: For shipping information, does the user understand if they select yes, the medallion will be shipped to their address?
--Confirmation: Does the user understand what will happen next in the application process and to look for an email?
--VANotify emails: Are next steps clear to a family member applicant for what to expect next after the cemetery official submits the secondary form?
+- Memorial items: For shipping information, does the user understand if they select yes, the medallion will be shipped to their address?
+- Confirmation: Does the user understand what will happen next in the application process and to look for an email?
+- VANotify emails: Are next steps clear to a family member applicant for what to expect next after the cemetery official submits the secondary form?
 
 ## Third Task: [VSO organization applicant] - X minutes
 - Step 1: You are Alex Wilson, a Veterans Service Organization (VSO) representative of the deceased Veteran. You hope to receive a medallion to place on a deceased Veteran’s headstone. You will complete the application from start to finish.
@@ -89,15 +89,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Etc]
 - Introduction: Does the participant read every section?
 - Whole application: Does the participant feel they’d want to use the Need help guidance at any point?
--Address validation: Does the participant understand what to do next with standard address validation and not being able to verify an address? 
--Veteran service periods: Can the participant navigate adding, cancelling, editing, deleting service periods?
--Burial information: Is the wording for the questions in this section clear and easily understandable?
--Burial information: Does the participant read carefully for cemetery email address, “Check the email is correct before continuing. You must enter the cemetery’s email address. A secondary form required to sign will be sent to this address.”?
+- Address validation: Does the participant understand what to do next with standard address validation and not being able to verify an address? 
+- Veteran service periods: Can the participant navigate adding, cancelling, editing, deleting service periods?
+- Burial information: Is the wording for the questions in this section clear and easily understandable?
+- Burial information: Does the participant read carefully for cemetery email address, “Check the email is correct before continuing. You must enter the cemetery’s email address. A secondary form required to sign will be sent to this address.”?
 - Memorial items: Does the participant click on the learn more about types of sizes links, and feel this is adequate in terms of user experience?
--Memorial items: For shipping information, does the user understand if they select yes, the medallion will be shipped to their address?
--Confirmation: Does the user understand what will happen next in the application process and to look for an email?
--VANotify emails: Are next steps clear to a family member applicant for what to expect next after the cemetery official submits the secondary form?
--VANotify emails: Is the information sufficient for the Medallion recipient with what they should do and expect next?
+- Memorial items: For shipping information, does the user understand if they select yes, the medallion will be shipped to their address?
+- Confirmation: Does the user understand what will happen next in the application process and to look for an email?
+- VANotify emails: Are next steps clear to a family member applicant for what to expect next after the cemetery official submits the secondary form?
+- VANotify emails: Is the information sufficient for the Medallion recipient with what they should do and expect next?
 
 ## Post-Task Interview - X minutes
 - Question 1: What did you think of the application process overall? 
