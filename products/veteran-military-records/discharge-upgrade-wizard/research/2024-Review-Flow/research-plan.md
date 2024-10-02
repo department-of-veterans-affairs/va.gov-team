@@ -134,8 +134,7 @@ has a working microphone. What kind of device will you be using? (RECORD)
      - Computer
      - Tablet
 
-## Timeline (TBD)
-**Below is wording from the research plan template**
+## Timeline
 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
@@ -145,26 +144,38 @@ and has also been through a [Midpoint review](https://depo-platform-documentatio
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot
 session.
+
+**Pilot 1**
 - Pilot participant email:
-- Date and time of pilot session:
+- Date and time of pilot session: Between Oct 7-15
+
+**Pilot 2 (with AT user)**
+- Pilot participant email:
+- Date and time of pilot session: Between Oct 7-15
 
 ### Research sessions
-- Planned dates of research:
+- Planned dates of research: Oct 22 - Oct 30, 2024
 
 ### Length of sessions
 - Session length: 1 hour
-- Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)
-- Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+- Buffer time between sessions: 1 hour
+- Maximum Sessions per day: 2
 
 ### Length of sessions for AT
 - Session length: 2 hours
-- Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)
-- Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+- Buffer time between sessions: 1 hour
+- Maximum Sessions per day: 2
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.
 
-Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+Team Availability | Time Slots (ET--all pm)
+------------------|--------------
+Oct 22, 2023 | 1-6 pm 
+Oct 23, 2023 | 2-6 pm
+Oct 24, 2023 | 2-3, 5-6 pm 
+Oct 25, 2023 | 12-6 pm
+Oct 28, 2023 | 12-6 pm
+Oct 30, 2023 | 1-6 pm
 
 ## Team Roles
 Please list the people who will be serving in each role.
