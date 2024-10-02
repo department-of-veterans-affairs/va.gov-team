@@ -76,8 +76,7 @@ Remote testing with Zoom as the preferred video conferencing software.
 ### Research materials 
  
 For moderated usability tests:  
-- [Link to conversation guide](https://boozallen.sharepoint.com/:w:/r/teams/mbms/_layouts/15/Doc.aspx?sourcedoc=%7BD43551B6-1254-455A-94F9-D2036134D402%7D&file=Conversation%20Guide%20Medallions.docx&action=default&mobileredirect=true 
-) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/medallions/research/2024-10-Apply%20for%20a%20medallion%20in%20a%20private%20cemetery%20to%20products/conversation-guide.md) 
 - [Link to prototype](https://www.figma.com/design/3aSSS4Exs7kFn17lN9wIM4/Pre-Need---Integration-Prototype?m=auto&t=wed0ix8AGRrDhFrY-6 ) 
  
 ### Recruitment approach 
