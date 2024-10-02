@@ -1,7 +1,7 @@
 ## CLP performance - 2024
 
-- [January - June 2024] (#january---june-2024)
-- [July - December 2024 data by Campaign Landing Page title]
+- [January - June 2024](#january---june-2024)
+- [July - December 2024 data by Campaign Landing Page title](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/campaign-landing-page/analytics.md#july---december-2024-data-by-campaign-landing-page-title)
 - 
 ### July - December 2024 data by Campaign Landing Page title
 
