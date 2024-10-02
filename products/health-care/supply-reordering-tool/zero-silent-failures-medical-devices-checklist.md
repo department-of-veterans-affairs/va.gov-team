@@ -3,7 +3,7 @@
 #### Start
 
 * [x] Do you know when your application shipped to production?
-  * Yes
+  * Yes, the application as it currently stands was shipped in 2020. 
 * [x] Did your application use the same APIs when it shipped as it does today?
   * Yes
 #### Monitoring
