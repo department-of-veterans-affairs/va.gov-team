@@ -614,6 +614,8 @@ Note: this document does not include research history for Appeals projects, whic
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/sso/ux-research)
 - Themes and keywords: warning alert, minimize scrolling, consolidate information, multiple CTAs, My VA Health, Cerner, facility registration
 
+* **Note** - This research can no longer be found in the provided link or in any folder in identity or identity-personalization (10/02/2024) - Shane Strassberg, OCTO Research Ops Lead
+
 #### February 19-March 6: eBenefits Form 21-686c Add/Remove Dependents Workflows
 *Aricka Lewis, James Adams*
 
