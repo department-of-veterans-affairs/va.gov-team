@@ -15,7 +15,7 @@ Not applicable - team conducted internal testing.
 **Launch Go/No-go:** 
 - _Completed mm/dd/yyyy_
 - Launch go/no-go ticket: [#81960](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81960)
-- Launch readiness checklist -- tk
+- [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/launch-materials/forms-status-on-my-va-launch-readiness-checklist.md)
 
 **Desired date range:** _mm/dd/yyyy - mm/dd/yyyy_
 Coordinated phased roll-out with Veteran Facing Forms team over a 1 week period.
