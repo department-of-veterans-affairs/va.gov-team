@@ -26,14 +26,16 @@
 ## Troubleshooting
 
 ### Errors and Metrics
-...
+[Playbook: Error and Traffic Monitor Alerts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/auth-experience/playbooks/monitoring.md#playbook-error-and-traffic-monitor-alerts)
+[Playbook: Scheduled Maintenance](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/auth-experience/playbooks/monitoring.md#playbook-scheduled-maintenance)
+
 
 ### Issue investigation steps
 Depending on the errors encountered our team would reach out to contacts with the corresponding upstream connections. A full list of datapoints/features on My VA and corresponding owners and means of contact can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md#my-va-features).
 
 
 ### Flipper Features and Rollback
-- The feature flag for this feature is: ...
+- The feature flag for this feature is: `my_va_form_submission_statuses`
 
 ## Security
 No PII/PHI involved in this feature, or known/accepted security vulnerabitlities
