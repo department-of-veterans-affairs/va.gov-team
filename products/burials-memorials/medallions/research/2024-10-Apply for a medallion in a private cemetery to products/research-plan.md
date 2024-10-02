@@ -85,6 +85,8 @@ For moderated usability tests:
 We’d like to recruit 10 participants for a total of 8 completed sessions. We’ll use Perigean to recruit participants. 
  
 ### Recruitment criteria 
+
+Requested date/time: Oct 4, 1:30 p.m.-3:00 p.m. 
  
 **Primary criteria (must-haves) ** 
 - Amount: Target is 8 participants but recruit 10 
