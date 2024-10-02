@@ -102,4 +102,4 @@ This document outlines the next steps for onboarding team members and provides c
 
 **Next Steps**:
 - Monitor the [representative.va.gov Subdomain ESECC Request approval process](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70480) and address any feedback promptly.
-- Configure subdomain and update DNS upon approval.
+- Configure the subdomain and make any necessary updates upon approval.
