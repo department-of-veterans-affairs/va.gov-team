@@ -12,8 +12,8 @@
 - [526ez Success Metrics](#526ez-success-metrics)
     - [Validating our metrics](#success-metric-validation)
 - [Top UX Takeaways - new added across release](#Top-5-Takeaways )
-    - Medallia Survey Trends
-    - Contact Center MyVA411 Data Trends
+    [- Medallia Survey Data Trends](#Medallia-Data)
+    - [Contact Center MyVA411 Data Trends](#Contact-Center-MyVA-4110-Data)
 - [Appendix](#appendix)
   
 ## Background
@@ -188,7 +188,7 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 |5|Getting help (n=23)|BIRLS error (4)|
 </details>
 
-## Contact Center(MyVA 411 Data)
+## Contact Center MyVA 411 Data
 Data from the MyVA411 information line (800-698-2411) is logged in Salesforce by call center agents, then requested by researchers to review. 
 <details>
   <summary> Click to see tables highlighting trends below. </summary>
