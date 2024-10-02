@@ -1,4 +1,4 @@
-# Authenticated Experience: No Silent Error Report
+# VA.gov Digital Surveys (Medallia): No Silent Error Report
 
 - [Purpose](#purpose)
 - [Monitoring](#monitoring)
