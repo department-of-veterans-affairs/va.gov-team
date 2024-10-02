@@ -88,6 +88,12 @@ These insights will gather weave together findings across data sources to highli
 
 </details>
 
+<details>
+  <summary>Click to expand 1.0 100% Takeaways [Future reporting]
+  </summary>
+
+    We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points
+</details>
 
 ## 526ez Success Metrics
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
