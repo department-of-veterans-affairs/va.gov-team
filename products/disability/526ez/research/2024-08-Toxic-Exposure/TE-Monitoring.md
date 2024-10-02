@@ -11,7 +11,7 @@
 - [Reporting Schedule](#reporting-schedule)
 - [526ez Success Metrics](#526ez-success-metrics)
     - [Validating our metrics](#success-metric-validation)
-- [Top UX Takeaways](#1.0-5-25%-Takeaways-(8/28-9/20))
+- [Top UX Takeaways](#1.0-5-25%-Takeaways-(8/28-9/20)
     - [ Medallia Survey Data Trends](#Medallia-Data)
     - [Contact Center Data Trends](#Contact-Center-MyVA-4110-Data)
 - [Appendix](#appendix)
