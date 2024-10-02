@@ -30,7 +30,6 @@
     - ❗ 🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93865)
     - **Move to New AWS Instance**
       - 🟨 [[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
-      - 🟨 [[DevOps] Do all alarm messages link to the playbook?](https://github.com/department-of-veterans-affairs/checkin-devops/issues/392)
       - 🟨 [[DevOps] Discovery on getting `cie-staging-scheduler` into IaC.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/299)
       - 🟨 [[DevOps] Backup (AMI) veac-cms EC2 Instances Then Terminate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/616)
       - 🟨 [[DevOps] Submit ESECC Request for vaec-cie Staging VPC to Station 500 and 530 New Addresses](https://github.com/department-of-veterans-affairs/checkin-devops/issues/604)
@@ -39,6 +38,7 @@
       - 🟨 [[DevOps] Figure out how to connect to MAP or onboard or whatever we need to do](https://github.com/department-of-veterans-affairs/checkin-devops/issues/612)
       - ✔️ 🟨 [[DevOps] Discovery into isolated LoROTA environment for Terraform CI/CD.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/509)
       - ✔️ 🟨 [[DevOps] Investigate whether to remove DevOps configuration for CHIP DNS names in `fwdproxy`](https://github.com/department-of-veterans-affairs/checkin-devops/issues/372)
+      - ✔️ 🟨 [[DevOps] Do all alarm messages link to the playbook?](https://github.com/department-of-veterans-affairs/checkin-devops/issues/392)
 - **OH Travel**
     - ❗ 🟦 G&K - [[BE] [OH] update travel claims client to use a different client id for OH claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93074)
     - ❗ 🟦 G&K - [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
