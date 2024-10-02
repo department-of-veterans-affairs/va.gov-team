@@ -23,6 +23,7 @@ Slack channel: #ves-transition
 
 
 ## <a name="map"></a>Page structure<br>
+[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716219020147/013c6f25f45e35963469c7bb7a94b66e1402f663?wid=0-1722446695647)
 For the MVP, this tool will only display careers/employment benefits. But, the future plan is to have this tool display all types of benefits. Therefore, we decided to publish this page into ROOT so that we don't have to change the URL a bunch of times as new benefits are added to the tool. 
 
 ![Screenshot 2024-07-31 at 12 24 37 PM](https://github.com/user-attachments/assets/b205f124-ec07-465f-852f-0861f372b551)
