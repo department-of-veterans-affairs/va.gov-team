@@ -75,10 +75,10 @@ _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave toge
 > "Veteran calling in about a text he received about Vietnam Veterans being eligible for Compensation and wants to know more about it." - Contact Center Employee
 
 ### #4. There is a strong demand for clear guidance on where to file for the PACT Act.
-Once Veterans understand the Pact Act and think they might be eligible, they are looking for outlets to apply for compensation. 
-     > "Simply trying to claim additional compensation for presumptive exposure to airborne pathogens during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran Feedback
-     > "Veteran received a message from the VA concerning the  Pact Act and would like to apply for disability compensation. Veteran believes he has a va.gov account, but does not remember password. Agent offered to help Veteran create an account, which Veteran declined at this time." -Contact Center Employee
-     > "Caller is the spouse of the Veteran and wants to apply for the PACT Act for Agent Orange." -Contact Center Employee
+Once Veterans understand the Pact Act and think they might be eligible, they are looking for outlets to apply for compensation-- including online.
+ > "Simply trying to claim additional compensation for presumptive exposure to airborne pathogens during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran Feedback
+ > "Veteran received a message from the VA concerning the  Pact Act and would like to apply for disability compensation. Veteran believes he has a va.gov account, but does not remember password. Agent offered to help Veteran create an account, which Veteran declined at this time." -Contact Center Employee
+ > "Caller is the spouse of the Veteran and wants to apply for the PACT Act for Agent Orange." -Contact Center Employee
      
 ### #5: One Veteran filing for Toxic Exposure could not find the In Progress Form they had started previously.
 We still see the in progress form as a potential hotspot for problems with veterans who fill in all of the data for toxic exposure, but then find that they don't know how to recover their work. 
