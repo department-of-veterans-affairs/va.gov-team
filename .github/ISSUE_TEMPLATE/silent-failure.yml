@@ -31,7 +31,7 @@ body:
       required: true
   
   - type: input
-   id: api
+    id: api
     attributes:
       label: API(s) used by your application (if applicable)
       description: List all of the APIs used by your application
