@@ -11,7 +11,7 @@
 - [Reporting Schedule](#reporting-schedule)
 - [526ez Success Metrics](#526ez-success-metrics)
     - [Validating our metrics](#success-metric-validation)
-- [Top UX Takeaways](#Top-Takeaways-1.0-5-25%)
+- [Top UX Takeaways](#Top-Takeaways)
     - [ Medallia Survey Data Trends](#Medallia-Data)
     - [Contact Center Data Trends](#Contact-Center-MyVA-4110-Data)
 - [Appendix](#appendix)
@@ -58,8 +58,8 @@ _
 
 </details>
 
-## Top Takeaways 1.0 5-25%
-_These insights will gather weave together findings across Contact Center (MyVA 411), Medallia, and GA4 to highlight trends in user experience of the new Toxic Exposure feature._    
+## Top Takeaways
+_These insights for 5-25% (or 8/28-9/20) will gather weave together findings across Contact Center (MyVA 411), Medallia, and GA4 to highlight trends in user experience of the new Toxic Exposure feature._    
 ### #1: Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.**
 - TE Opt-in rate for 25% was 48%, a 10% increase over 5% canary. Furthermore, TE page abandonment was low, averaging just 1.3%
 - We are also seeing that overall form abandonment (44.2%) is lower than the baseline (46.7%) and remains steady at +/- 2%.
