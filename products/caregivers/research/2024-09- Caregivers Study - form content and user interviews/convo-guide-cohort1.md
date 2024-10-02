@@ -156,7 +156,7 @@ On a scale of 1-5 (1 being very poor/difficult and 5 being very well/easy to do)
 
 - What does a secondary caregiver mean to you?
 - How do you think the secondary role differs in the application process and benefits from the primary caregiver?
-- Now I'd like you to add an additional secondary caregiver. Please continue with that on this form and continue to think aloud.
+- Now I'd like you to add a secondary caregiver. Please continue with that on this form and continue to think aloud.
   
 
 ### Things to watch for:
