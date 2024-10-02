@@ -11,7 +11,7 @@
 - [Reporting Schedule](#reporting-schedule)
 - [526ez Success Metrics](#526ez-success-metrics)
     - [Validating our metrics](#success-metric-validation)
-- [Top UX Takeaways](#Top-Takeaways-[5-25% rollout(8/28-9/20)])
+- [Top UX Takeaways](#Top-Takeaways-1.0-5-25%)
     - [ Medallia Survey Data Trends](#Medallia-Data)
     - [Contact Center Data Trends](#Contact-Center-MyVA-4110-Data)
 - [Appendix](#appendix)
@@ -59,7 +59,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 </details>
 
-## Top Takeaways [5-25% rollout(8/28-9/20)]
+## Top Takeaways 1.0 5-25%
 These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.
     
 ### #1: Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.**
@@ -79,7 +79,8 @@ We still see the in progress form as a potential hotspot for problems with veter
  - The volume of the Contact Center data gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set.
 
 ### #5. Veterans have a high volume of questions about the PACT Act and their eligibility.
-> "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran
+> "Simply trying to claim additional compensation for presumptive exposure to airborne pathogens  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran Feedback
+
 
 <details>
   <summary>Click to expand 1.0 100% Takeaways [Future reporting]
