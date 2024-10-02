@@ -6,21 +6,23 @@
 
 ## SPRINT 18 - 10/16/2024-10/29/2024
 - **Production Support**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
+    - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
     - 🟥 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)
-- **OH Travel**
-    - TBD
+- **Travel Claims for Past Appts**
+    - 🟩 [[FE] - Create mock api for travel claim status endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
+    - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Check in with staff after checking in**
     - TBD
 - **Edit existing content on a resources and support page from Check in**
     - TBD
 - **CIE Analytics**
-    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93424)
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
 - **Tech Debt**
+    - 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
     - 🟦 [Add Code to Retry VA Notify when We Receive an Error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
     - 🟦 [URL Shortener Errors Return a JSON Response](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94048)
 </details>
