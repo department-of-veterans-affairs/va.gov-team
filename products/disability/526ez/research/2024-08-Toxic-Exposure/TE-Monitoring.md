@@ -68,7 +68,7 @@ These insights will gather weave together findings across data sources to highli
 
 ### 1.0 5-25% Takeaways (8/28-9/20) 
     
-**Takeaway 1.Early success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.**
+**Takeaway 1.Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.**
    
 **Takeaway 2. It is too early to evaluate the success of Toxic Exposure from our 25% qualitative data.**
 - Lighthouse indicates that 63,078 Veterans filed using the 526ez between 8/28-9/24. 5,900 of them saw the 2022 version of the PDF and 2,382 opted in to the Toxic Exposure flow. At this stage, seeing any volume of user feedback on less-than-blocking pain points would be like finding a needle in a haystack.
