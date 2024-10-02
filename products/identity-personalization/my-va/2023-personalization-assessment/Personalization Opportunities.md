@@ -1,7 +1,7 @@
 
-<h1>VA Personalization Opportunities</h1>
+## VA Personalization Opportunities 
 
-<i>This set of opportunities, primarily focused on My VA and Profile, were documented and discussed on Dec. 14, 2023</i>
+_This set of opportunities, primarily focused on My VA and Profile, were documented and discussed on Dec. 14, 2023_
 
 1. My VA name
 - Not obvious what this means to a new user. Recommend looking at alternatives, potentially find a way to better combine Profile and My VA into one entity. 
