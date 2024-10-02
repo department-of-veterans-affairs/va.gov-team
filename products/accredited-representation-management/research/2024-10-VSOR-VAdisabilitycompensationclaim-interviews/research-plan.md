@@ -1,5 +1,4 @@
-# Research Plan for AR Team, VSOR - VA Claims Processing - Interviews, 09/2024
-
+# Research Plan for AR Team, VSOR - VA Disability Compensation Claim - Interviews, 10/2024
 
 ## **Background**
 
