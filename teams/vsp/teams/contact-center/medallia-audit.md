@@ -33,16 +33,16 @@ The following sections present the results of our assessment on how our team com
 
 | **Start** | **Medallia** |
 |-------------------|-----------|
-| Do you know when your application shipped to production? <br><br> *See [Reference: API Deployment Dates](#reference-api-deployment-dates) for details.* | YES |
-| Did your application use the same APIs when it shipped as it does today? <br><br> *My VA and Profile features use the same VA.gov APIs since deployment.  For external APIs, we have maintained the use of original APIs since deployment, but we have also migrated some APIs over time. We've reviewed the current architecture for all supporting APIs and have built the necessary monitors and logging around potential failures.* | YES | YES |
+| Do you know when your application shipped to production?  | YES |
+| Did your application use the same APIs when it shipped as it does today? | YES |
 
 ### Documentation
 
 | **Documentation** | **Medallia** |
 |-------------------|-----------|
-| **Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?**  <br><br> *Our team is currently reviewing this and will be adding links to existing user flow diagrams. We will also create tickets to address any missing diagrams.* | WIP |
+| **Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?**  <br><br> *Our team is in the process of creating this and is tracking that progress in this ticket.* | NO |
 | **Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?** <br><br> *Some maintenance windows in My VA and the Profile are not functioning correctly. We are addressing this issue through ticket [#93234](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93234) to ensure that all maintenance windows operate as intended.* | WIP |
-| **Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors?** <br><br> *As far as we are aware, the owner of the system of record receiving the user's data has not indicated in writing that their system notifies or resolves 100% of fatal errors. We will need to reach out to Lighthouse, VA Profile, and any other relevant upstream systems to confirm this information.* | NO |
+| **Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors?** <br><br> *As far as we are aware, the owner of the system of record receiving the user's data has not indicated in writing that their system notifies or resolves 100% of fatal errors. | NO |
 
 ### Monitoring
 | **Monitoring** | **Medallia** |
