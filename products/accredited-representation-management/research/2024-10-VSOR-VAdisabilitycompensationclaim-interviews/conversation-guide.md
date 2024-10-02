@@ -1,4 +1,4 @@
-# **Conversation Guide for AR Team, VSOR - VA Claims Processing - Interviews, 09/2024**
+# **Conversation Guide for AR Team, VSOR - VA Disability Compensation Claim - Interviews, 10/2024**
 
 
 ## **Moderator logistics**
