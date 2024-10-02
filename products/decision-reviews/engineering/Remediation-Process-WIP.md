@@ -142,7 +142,7 @@ To start the process, you can send a message to `@Kimberley Monroe-Daniels` in `
 #### Data to send to Contact Center
 - Veteran/Submission Info
   - Veteran ICN
-  - Date of submission
+  - Date of submission (be mindful of UTC timestamps vs. timezones; you can check their form data for a timezone if needed)
   - If evidence error, provide the Obfuscated/masked filename (first 3 letters, last 2 letters, file extension and special characters like underscores are also okay — basically follow what 526 did for their obfuscation)
 - Mailing/Fax Info
   - For **Notice of Disagreement** submission:
