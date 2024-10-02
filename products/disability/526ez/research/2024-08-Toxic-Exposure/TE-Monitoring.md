@@ -70,14 +70,16 @@ These insights will gather weave together findings across data sources to highli
     
 **Takeaway 1. Early success metrics indicates that half of veterans are entering the Toxic Exposure flow--and that very few abandon.**
    
-**Takeaway 2. Contact Center, Medallia, and GA4 data reviewed up until the 25% rollout confirms hypotheses and findings identified in the pre-launch Medalia data.**
-- The volume of the Contact Center data gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set (see takeaways below).
-- However, it's too early to evaluate the success of the new feature with our 25% data, since a majority of Veterans leaving feedback have not seen the Toxic Exposure flow. 
+**Takeaway 2. It is too early to evaluate the success of Toxic Exposure from our 25% qualitative data.**
+- Lighthouse indicates that 63,078 Veterans filed using the 526ez between 8/28-9/24. 5,900 of them saw the 2022 version of the PDF and 2,382 opted in to the Toxic Exposure flow. 
+- However, the Contact Center, Medallia, and GA4 data reviewed up until the 25% rollout confirms hypotheses and findings identified in the pre-launch Medalia data.
 
-**Takeaway 3. Issues already exist with the usability of an IPF.**
+**Takeaway 3.One Veteran filing for Toxic Exposure could not find the In Progress Form they had started previously.**
+We still see the in progress form as a potential hotspot for problems with veterans who fill in all of the data for toxic exposure, but then find that they don't know how to recover their work. 
 > "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
 
 **Takeaway 4. There is a strong demand for clear guidance on where to file for the PACT Act.**
+ - The volume of the Contact Center data gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set (see takeaways below).
 
 **Takeaway 5. Veterans have a high volume of questions about the PACT Act and their eligibility.**
 > "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran
