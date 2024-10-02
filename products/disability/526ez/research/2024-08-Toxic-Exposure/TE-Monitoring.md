@@ -69,10 +69,10 @@ _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave toge
 - As we get more data from more veterans who have access to the toxic exposure flow, we anticipate being able to make more definitive claims about the Toxic Exposure user experience.
 - However, the Contact Center, Medallia, and GA4 data reviewed up until the 25% rollout confirms hypotheses and findings identified in the pre-launch Medalia data.
 
-### #3. Veterans have a high volume of questions about the PACT Act.
-> "Veteran calling in about a text he received about Vietnam Veterans being eligible for Compensation and wants to know more about it." - Contact Center Employee
+### #3. Veterans call the Contact Center with a high volume of questions about the PACT Act.
 - The [volume of the Contact Center data--over 1700 entries--](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#contact-center-myva-411-data) gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set.
  - We are embarking on discovery to learn how to best quickly and efficiently process Contact Center data in the future-- there is no thematic coding available for this data set. [Review here on Sharepoint.](https://dvagov-my.sharepoint.com/:x:/g/personal/evelyn_davis3_va_gov/Eati06vqxD9MhBnbZgQ3g_gB38EQDDopf0zLkYXlEUOuNA?e=cQQTqc)
+> "Veteran calling in about a text he received about Vietnam Veterans being eligible for Compensation and wants to know more about it." - Contact Center Employee
 
 ### #4. There is a strong demand for clear guidance on where to file for the PACT Act.
 Once Veterans understand the Pact Act and think they might be eligible, they are looking for outlets to apply for compensation. 
