@@ -1,10 +1,14 @@
 ## CLP performance
 
-The following data from [DOMO](https://va-gov.domo.com/) representing data through June 30, 2024 (when GA4 was implemented)
+The following data from [DOMO](https://va-gov.domo.com/) representing data January - June 30, 2024 (when GA4 was implemented)
 
-CLP	|	Veterans Experience Action Center (VEAC)	|		Emergency room, 911, or urgent care? 		|		Veteran Trust in VA		|		Flu and COVID-19: one visit, two vaccines		|		Have questions before you get your COVID-19 vaccine?		|		Recognizing LGBTQ+ Veterans During Pride Month		
+Metric	|	Veterans Experience Action Center (VEAC)	|		Emergency room, 911, or urgent care? 		|		Veteran Trust in VA		|		Flu and COVID-19: one visit, two vaccines		|		Have questions before you get your COVID-19 vaccine?		|		Recognizing LGBTQ+ Veterans During Pride Month		
 ---|	:---: |		:---:|	:---:|	:---:|	:---:|	:---:|	
-|	Primary CTA	|	57	|		5		|		23		|		810		|				|				|
+|	Unique pageviews | 8,610	|		20,547		|		4,040	|		M		|		M		|		M		|
+| Unique users | 6,445 (48% new)		|		18,629 (48% new)		|	3,115 (41% new)	| M		|		M		|		M		|
+| Total interactions | 6,612			|		14,061		|	3,764	|	M		|		M		|		M		|
+| Average scroll depth |	45.9&	|		42.9%		|		45%	|	M		|		M		|		M		|
+| Primary CTA	|	57	|		5		|		23		|		810		|				|				|
 |	Secondary CTA	|	58	|		77		|		104		|		same		|				|				|
 |	What you can do 	|		|		2		|				|				|				|				|
 |	Videos	|		|				|				|				|		4,190		|				|
