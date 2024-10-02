@@ -7,7 +7,7 @@ Leah De La Costa | 20 | 4,7 (PM PTO), 8 | 8, 11-12  | 26-27
 Peter Russo      | 26-30     |  1-4  |  |  |  
 Ciera Maddox     |  |  |  |  |  
 Melissa Lefevre  |  |  |  |  |  
-Simi Adebowale   | 19 - 20, 23 |  |  |  |  
+Simi Adebowale   | 19 - 20, 23 |  | 7-8, 11 |  |  
 Corey Ferris     | 5-6, 9 |  |  |  |  
 Ryan Shaw        |  |  |  |  |  
 John Luo         | 16 | 15 | 12-15 (tentative), 29 | 23-24, 26-27, 30-31 (tentative) |  
