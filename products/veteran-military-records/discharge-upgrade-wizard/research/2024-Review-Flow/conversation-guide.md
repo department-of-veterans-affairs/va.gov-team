@@ -206,8 +206,7 @@ Is there a way you could update that information from this page?
 
 (RECORD all comments, especially about alerts. Did they notice them? Y/N)
 
-### Option 2: Previous Application (Appears on some flows) (If p has not previously applied for discharge
-upgrade)
+### Option 2: Previous Application (Appears on some flows) (If p has not previously applied for discharge upgrade)
 
 I’d like you to pretend that you have applied for a discharge upgrade.
 
@@ -220,8 +219,19 @@ Is there a way you could update that information from this page?
      - What would you do now?
 - Previous application year
      - Can select either option
-- Previous application type
-     - Can select any option except BCNR
+ 
+*To test Back button:*
+
+- Previous application type or Prior Service
+     - I'd like you to pause here before answering this question.
+     - Pretend that you need to change your answer to the last question. How would you do that?
+- (Navigate Back) Previous application year
+     - Can select opposite option
+- Previous application type or Prior Service
+     - Can select any option
+     - Selecting BCNR will show Failure to Exhaust question
+- Failure to Exhaust
+     - Can select any option 
 - Continue to review screen
      - Please tell me about what you see here.
      - (If alert or updated answers are noticed) What does this mean to you?
