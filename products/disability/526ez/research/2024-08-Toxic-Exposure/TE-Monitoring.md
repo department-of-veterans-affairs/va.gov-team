@@ -161,6 +161,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 ### Success Metrics
 |**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 25% (8/28-9/20)** |**1.0 100%** | **1.1 25%**|**1.1 100%**|
 |--|--|--|--|--|--|--|
+|**Total**||462 | 225|
 |**CSAT-Intercept**| 36.2%|41.9% | | |
 |**Feedback satisfaction**|21.6%| 34.2%|
 |**Task completion**| 23% | 44.5% |36%| |
