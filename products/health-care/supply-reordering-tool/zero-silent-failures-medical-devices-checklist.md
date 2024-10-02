@@ -35,8 +35,8 @@
    * [User Data Flow Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727717727395/0aa30378aa18ef2c552e49f576771dbbaf51c46d?sender=u60de8ad852bae74490032629)
 * [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * Yes – errors are shown to the user, with an indication of the reason if we’re able to determine it from the backend error code.
-* [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
-  * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
+* [x] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+  * Yes, DLC has confirmed that the veterans' orders would be shipped out, or the veteran would receive a call if there is an issue processing the request.
   * Please document the outcome of this conversation in your product's documentation in Github.
 
 #### User experience
