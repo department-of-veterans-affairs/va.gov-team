@@ -65,22 +65,25 @@ _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave toge
 - We are also seeing that overall form abandonment (44.2%) is lower than the baseline (46.7%) and remains steady at +/- 2%.
    
 ### #2: It is too early to evaluate the success of Toxic Exposure from our 25% qualitative data.**
-- Lighthouse indicates that 63,078 Veterans filed using the 526ez between 8/28-9/24. 5,900 of them saw the 2022 version of the PDF and 2,382 opted in to the Toxic Exposure flow. At this stage, seeing any volume of user feedback on less-than-blocking pain points would be like finding a needle in a haystack.
+- At this stage in the rollout, seeing any volume of user feedback on less-than-blocking pain points would be like finding a needle in a haystack.Lighthouse indicates that 63,078 Veterans filed using the 526ez between 8/28-9/24. 5,900 of them saw the 2022 version of the PDF and 2,382 opted in to the Toxic Exposure flow. 
 - As we get more data from more veterans who have access to the toxic exposure flow, we anticipate being able to make more definitive claims about the Toxic Exposure user experience.
 - However, the Contact Center, Medallia, and GA4 data reviewed up until the 25% rollout confirms hypotheses and findings identified in the pre-launch Medalia data.
 
-### #3: One Veteran filing for Toxic Exposure could not find the In Progress Form they had started previously.
-We still see the in progress form as a potential hotspot for problems with veterans who fill in all of the data for toxic exposure, but then find that they don't know how to recover their work. 
-> "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
+### #3. Veterans have a high volume of questions about the PACT Act.
+> "Veteran calling in about a text he received about Vietnam Veterans being eligible for Compensation and wants to know more about it." - Contact Center Employee
+- The [volume of the Contact Center data--over 1700 entries--](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#contact-center-myva-411-data) gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set.
+ - We are embarking on discovery to learn how to best quickly and efficiently process Contact Center data in the future-- there is no thematic coding available for this data set. [Review here on Sharepoint.](https://dvagov-my.sharepoint.com/:x:/g/personal/evelyn_davis3_va_gov/Eati06vqxD9MhBnbZgQ3g_gB38EQDDopf0zLkYXlEUOuNA?e=cQQTqc)
 
 ### #4. There is a strong demand for clear guidance on where to file for the PACT Act.
- - The [volume of the Contact Center data--over 1700 entries--](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#contact-center-myva-411-data) gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set.
- - We are embarking on discovery to learn how to best quickly and efficiently process Contact Center data in the future-- there is no thematic coding available for this data set. [Review here on Sharepoint.](https://dvagov-my.sharepoint.com/:x:/g/personal/evelyn_davis3_va_gov/Eati06vqxD9MhBnbZgQ3g_gB38EQDDopf0zLkYXlEUOuNA?e=cQQTqc)
+Once Veterans understand the Pact Act and think they might be eligible, they are looking for outlets to apply for compensation. 
+     > "Simply trying to claim additional compensation for presumptive exposure to airborne pathogens during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran Feedback
+     > "Veteran received a message from the VA concerning the  Pact Act and would like to apply for disability compensation. Veteran believes he has a va.gov account, but does not remember password. Agent offered to help Veteran create an account, which Veteran declined at this time." -Contact Center Employee
      > "Caller is the spouse of the Veteran and wants to apply for the PACT Act for Agent Orange." -Contact Center Employee
-     > 
-
-### #5. Veterans have a high volume of questions about the PACT Act and their eligibility.
-> "Simply trying to claim additional compensation for presumptive exposure to airborne pathogens  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran Feedback
+     
+### #5: One Veteran filing for Toxic Exposure could not find the In Progress Form they had started previously.
+We still see the in progress form as a potential hotspot for problems with veterans who fill in all of the data for toxic exposure, but then find that they don't know how to recover their work. 
+> "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
+>
 
 
 <details>
