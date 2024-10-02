@@ -70,7 +70,7 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 ### Secondary entry points
 
-1. **Left Nav** - Add
+1. **Left Nav lists Benefit Info page** - Add
   - Placement description: In the left nav, under **Education and training > Get benefits > Other VA education benefits > [IBM Skillsbuild - H1 TBD]**
   - Left nav link label: H1 - TBD by content
   - Link destination: va.gov/education/other-va-education-benefits/[H1 - TBD by Content]/
