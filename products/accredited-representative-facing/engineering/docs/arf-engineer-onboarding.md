@@ -9,7 +9,11 @@ Welcome to the Accredited Representative Facing (ARF) Engineering team! This doc
 - [ ] **Explore** [Accredited Representative Facing Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing). The ARF homepage outlines the team's mission at the Department of Veterans Affairs to enhance the VA experience through a user-friendly online system. It showcases resources like the MVP, roadmap, and glossary of jargon. It also highlights vital documentation, team agreements, and communication channels for engagement.
 - [ ] **Explore** [Glossary of Terms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/terminology-definitions.md)
 
-### Deeper Technical Discovery
+## ARF Repositories
+
+See [ARF's engineering README.md](/products/accredited-representative-facing/engineering/README.md).
+
+## Deeper Technical Discovery
 
 - [ ] **Explore** [ADRs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/ADRs)
    - [ ] The [ARF 21a Architecture Intent Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/arp-architecture-intent-meeting.md) is a key one to spend time with!
@@ -30,13 +34,9 @@ Below are the essential ARF engineering epics.
 - [ ] [ARF Authentication](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746)
 - [ ] [ARF Digital 21a](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/83627)
 
-## ARF Repositories
-
-See [ARF's engineering README.md](/products/accredited-representative-facing/engineering/README.md).
-
 ## DSVA Slack Channels
 
-Join, and keep an eye on, all of the below:
+Join, and keep an eye on all of the below:
 - [ ] [#benefits-representation-engineering](https://dsva.slack.com/archives/C06ABHUNBRS)
 - [ ] [#benefits-representation-engineering-log](https://dsva.slack.com/archives/C06TTS0J4LV)
 - [ ] [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW)
@@ -47,7 +47,7 @@ Join, and keep an eye on, all of the below:
 
 ### Background Research / SEP Demos
 
-The main bit is the SEP slides, as they capture much of the functionality that must be built in ARP. Everything else is optional.
+The main bit is the SEP slides, which capture much of the functionality that must be built in ARP. Everything else is optional.
 
 - [ ] **Reference** [SEP Slides](https://docs.google.com/presentation/d/1aDd9MVh-fg8bl040WeEAX_-0sZBnTntkgfhl1LEGxbg/edit#slide=id.g2b70658ac6f_1_65)
 
