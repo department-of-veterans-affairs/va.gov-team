@@ -1,5 +1,5 @@
 # VA Online Scheduling - Zero Silent Failures Checklist
-*Last updated: 2024-09-25*
+*Last updated: 2024-10-02*
 
 ## Team Questions
 
@@ -289,6 +289,7 @@ If not, don't worry. Few teams are doing this and we'll be providing resources t
 - [Manage Appointments Flow](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2696&t=cc4aBjvQIeqdAjYg-1)
 - [Cancellation Flow: Upcoming](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2925&t=cc4aBjvQIeqdAjYg-1)
 - [Cancellation Flow: Requests](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3518&t=cc4aBjvQIeqdAjYg-1)
+- [Technical FE Diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726688922423/1707b7c34332fa682664d69ee7e9e4489a05f7f0?sender=u8eb77785aa402b60d2e17927)
 
 
 ### Sequence diagrams:
