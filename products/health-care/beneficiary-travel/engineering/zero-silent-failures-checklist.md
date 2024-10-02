@@ -16,7 +16,7 @@ This checklist is currently scoped to the "Get Status" tool, with interactions t
 
 - [x] Do you monitor the API that you submit to via Datadog? 
  	- Yes, we have the following monitors set up:
-    		- [Upstream service (Travel Pay API) error rate is high](https://vagov.ddog-gov.com/monitors/236850)
+  		- [Upstream service (Travel Pay API) error rate is high](https://vagov.ddog-gov.com/monitors/236850)
 		- [Travel Pay error rate is very high](https://vagov.ddog-gov.com/monitors/236847)
 		- [Travel Pay endpoint latency is high on VA.gov side in the last 10 minutes](https://vagov.ddog-gov.com/monitors/248803)
 		- [Travel Pay endpoint latency is high on VA.gov side in the last 5 minutes](https://vagov.ddog-gov.com/monitors/236852)
