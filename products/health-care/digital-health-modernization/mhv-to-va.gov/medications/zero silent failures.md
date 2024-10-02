@@ -1,11 +1,11 @@
 # MHV on VA.gov Medications - Zero Silent Failures checklist
-Last updated: 09/19/2024
+Last updated: 10/2/2024
 
 * Does your application have a user-facing transaction that is submitted to a back-end system? 
   * NOTE: This is not limited to online forms! Other examples can include:
     * Uploads of documents and/or attachments
     * Performing an action (Such as refilling a prescription or ordering supplies)
-    - [ ] Yes     
+    - [X] Yes     
     - [ ] No
 * Are you using any of the following APIs:
     * [Lighthouse Appeals Status](https://developer.va.gov/explore/api/appeals-status/docs?version=current)
@@ -14,7 +14,7 @@ Last updated: 09/19/2024
     * [Lighthouse Decision Reviews](https://developer.va.gov/explore/api/decision-reviews/docs?version=current)
     * [EVSS Document Upload](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/evss.md)
     - [ ] Yes     
-    - [ ] No
+    - [X] No
 * Does your application submit to an API that relies on Sidekiq (or another background job processor)?
     - [ ] Yes     
     - [ ] No
@@ -25,22 +25,22 @@ If you answered yes to any of these questions then go through the following [che
 
 #### Start
 
-* [ ] Do you know when your application shipped to production?
+* [X] Do you know when your application shipped to production?
   * If not, use Github to determine, roughly, when your application shipped to users.
-* [ ] Did your application use the same APIs when it shipped as it does today?
+* [X] Did your application use the same APIs when it shipped as it does today?
   * If not, then you'll need to consider the path user data took through both the current architecture and the previous architecture. You will need to account for potential failures in all paths since your application shipped.
 
 #### Monitoring
 
-* [ ] Do you monitor the API that you submit to via Datadog? 
+* [] Do you monitor the API that you submit to via Datadog? 
   * If not, [set up monitoring in Datadog](#set-up-monitoring-in-datadog).
-* [ ] Does your Datadog monitoring use the appropriate tagging?
+* [] Does your Datadog monitoring use the appropriate tagging?
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
-* [ ] Do errors detected by Datadog go into a Slack notifications channel?
+* [] Do errors detected by Datadog go into a Slack notifications channel?
   * If not, start directing errors in Datadog to a dedicated Slack channel. See [#veteran-facing-forms-notifications](https://dsva.slack.com/archives/C063SM22J3H) for an example.
-* [ ] Does more than one person look at the Slack notifications channel containing errors on a daily basis? 
+* [] Does more than one person look at the Slack notifications channel containing errors on a daily basis? 
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
-* [ ] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? 
+* [] Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there? 
   * If not, then follow this [guide on managing errors](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/managing-errors.md)
 
 ⚠️ **Failure to have endpoint monitoring in place is a blocking QA standard at Staging review as of 9/10/24.** If you answered no to any of the questions above, you will be blocked from shipping at the Staging review touchpoint in Collab Cycle.
@@ -54,9 +54,9 @@ If you answered yes to any of these questions then go through the following [che
 
 #### Documentation
 
-* [ ] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
-  * If not, then [create a user data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/how-to-create-a-user-data-flow-diagram.md) that captures this information. 
-* [ ] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
+* [X] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
+  * [Uuser data flow diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727383607379/9c85b435e20aa15eb4ae6417aebd6891773f241c?wid=0-1727384114267&sender=uffe0b1e17d72421900bf8566)
+* [X] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 * [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
