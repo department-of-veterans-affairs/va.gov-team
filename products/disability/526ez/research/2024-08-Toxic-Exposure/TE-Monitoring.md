@@ -41,9 +41,8 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
  </details>   
 
 ## Reporting Schedule
-- Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. 
-- Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts. Requesting and reviewing Medallia data takes 1-3 days; delay is noted in the table below. 
-
+_Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts.
+_
 <details>
   <summary>Click to expand provisional reporting schedule (not source of truth)
   </summary>
