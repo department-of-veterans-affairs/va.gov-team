@@ -26,10 +26,10 @@ This page contains quantitative data intended to measure whether the home screen
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
 |Home screen load speed|6.78 Secs|4.66 Secs - 99.9% was within 1 STD of the median load time|4.296 Sec - (99.9%) was within 1 STD of the median load time||
-|Load Time Appointment|3.79 Sec|4.21 Sec|3.99 Sec||
-|Load Time Claims |2.99 Sec|2.95 Sec|2.58 Sec||
-|Load Time Prescription|3.08 Sec|3.21 Sec|3.22 Sec||
-|Load Time Secure Message|2.03 Sec|2.31 Sec|2.32 Sec||
+|Appointments Load Time|3.79 Sec|4.21 Sec|3.99 Sec||
+|Claims Load Time|2.99 Sec|2.95 Sec|2.58 Sec||
+|Prescriptions Load Time|3.08 Sec|3.21 Sec|3.22 Sec||
+|Secure Messages Load Time |2.03 Sec|2.31 Sec|2.32 Sec||
 
 
 
