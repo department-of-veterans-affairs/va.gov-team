@@ -26,7 +26,7 @@
     - 🟩 [[FE] - Create mock api for travel claim status endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **VAHB: Medication Wording**
-    - [Update Medication Wording for Appointments | In Person](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
+    - JUAN - [Update Medication Wording for Appointments | In Person](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
 - **VAHB: Pre-Check-in**
     - 🟥 [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
 - **Check in with staff after checking in**
