@@ -3,7 +3,7 @@
 
 ### Table of Contents
 - [Phase I: UAT](#Phase-i-uat)
-- [Phase II: Standard Rollout](#Phase-ii-rollout)
+- [Phase II: Staged Rollout](#Phase-ii-staged-rollout)
 - [Go Live!](#Go-Live)
 
 ## Phase I: UAT
