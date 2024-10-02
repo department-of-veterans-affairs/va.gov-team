@@ -34,7 +34,23 @@
 * Home screen 60 day quantitative and qualitative data readout
  * [Quantitative Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/data/Home%20Screen%20Quantitative%20Success%20Tracking.md)
  * Qualitative Feedback
- * 
+    * Overall, very positive
+      * App store
+        * 5 stars - "I really love the new layout and the **GUI is super easy to use**."
+        * 5 stars - "The new release is great. All **important info on home screen**."
+        * 5 stars - "This latest update is so great!!! As soon as I logged in, **I was greeted with everything that I needed on the first screen**. Developers should take note. This is how an interactive app should be built. Kudos to the team that worked on this improvement."
+   * The only negative feedback is surfacing disability rating and monthly payment due to privacy concerns
+      * App store ratings with negative feedback about monthly payment mentioned it in conjunction with other issues
+        * 2 stars - 2.33 crashes every time I open. Please fix. As a user, **I don’t like that my monthly disability award** is displayed. Please roll back this new change.
+        * 4 stars - Everything about the app is great, except **"the monthly payment" should be placed on the payment page and not on the Front page for everyone to see. The bigger the amount, the bigger the target the Veteran becomes.** Please move this to the payment page. Then I'll give it 5 Stars.
+       * Reddit comments
+         * **It shouldn’t have our $ amount on the front page.** Outside of that, I like it a lot.
+         * I don’t like it .. as soon as you open it big as day your rating and payment. **The payment should not be there like that**.
+       * Email
+         * I just wanted to provide feedback to the recent UI update in the app.
+**I do not prefer to have my connected percentage and monthly amount paid on the front screen** as soon as you login to the app. It **gives away too much information that others can see **sitting beside you when you need to open the app up. It’s a big privacy issue putting that on the main page, imo.
+I liked it previously where it just said you were service connected and you had to drill down further in order to get those kind of private details
+
 
 ## 9/18/24
 * **Epics Review**
