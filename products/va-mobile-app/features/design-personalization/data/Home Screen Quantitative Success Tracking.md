@@ -39,8 +39,8 @@ This page contains quantitative data intended to measure whether the home screen
 
 | Veteran Behavior | 1 Month | 2 Month | 3 Month | 4 Month| 5 Month | 6 Month |
 | -------- | -------- | ---------- | ----------------- | -----------------| ----------- | --------- |
-| Veteran Opened App & Viewed Home Screen (Baseline) | 71.98% | 46.61% | 43.07% | 42.66% | 40.70% | 39.09% ||||
-| Veteran Opened App & Viewed Home Screen (Post Launch) | 67.73% | |  |  |  |  ||||
+| Veteran Opened App & Viewed Home Screen (Baseline) | 68% | 58% | 53% | 53% | 50% | 48% ||||
+| Veteran Opened App & Viewed Home Screen (Post Launch) | 74% | |  |  |  |  ||||
 
 
 
