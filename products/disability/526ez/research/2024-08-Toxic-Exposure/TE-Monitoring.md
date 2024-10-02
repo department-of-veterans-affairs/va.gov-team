@@ -65,9 +65,10 @@ _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave toge
 - We are also seeing that overall form abandonment (44.2%) is lower than the baseline (46.7%) and remains steady at +/- 2%.
    
 ### #2: Although it is too early to evaluate the success of Toxic Exposure from our 25% qualitative data, we expect more specific insight as the rollout continues.
-- At this stage in the rollout, seeing any volume of user feedback on less-than-blocking pain points would be like finding a needle in a haystack.Lighthouse indicates that 63,078 Veterans filed using the 526ez between 8/28-9/24. 5,900 of them saw the 2022 version of the PDF and 2,382 opted in to the Toxic Exposure flow. 
+- At this stage in the rollout, seeing any volume of user feedback on less-than-blocking pain points would be like finding a needle in a haystack.
+- Lighthouse indicates that 63,078 Veterans filed using the 526ez between 8/28-9/24. 5,900 of them saw the 2022 version of the PDF and 2,382 opted in to the Toxic Exposure flow. 
 - As we get more data from more veterans who have access to the toxic exposure flow, we anticipate being able to make more definitive claims about the Toxic Exposure user experience.
-- However, the Contact Center, Medallia, and GA4 data reviewed up until the 25% rollout confirms hypotheses and findings identified in the pre-launch Medalia data.
+- However, the Contact Center, Medallia, and GA4 data reviewed up until the 25% rollout confirms hypotheses and findings identified in the pre-launch Medalia data. Findings below echo those surfaced in the [pre-launch data analysis of Medallia.]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/Toxic%20Exposure%20Pre-Launch%20Review%20of%20Medallia%20Data.md)) 
 
 ### #3. Veterans call the Contact Center with a high volume of questions about the PACT Act.
 - The [volume of the Contact Center data--over 1700 entries--](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#contact-center-myva-411-data) gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set.
