@@ -8,6 +8,8 @@ This document outlines the expectations and responsibilities for team members du
 * **Rotation**: On-call duty will rotate with each sprint among team members, starting on the first day of the sprint at 9 AM ET and ending the last day of the sprint at 5 PM ET.
 * **Coverage**: The team member on call is responsible for production support during regular business hours (Monday to Friday, 9 AM - 5 PM ET). If you are unavailable (vacation, illness), you must arrange a swap with another team member and notify the team.
 ### Responsibilities During On-Call
+The person on call is primarily responsible for following the team's [monitoring playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/ivc-forms-monitoring-playbook.md) and ensuring it is followed by ticket assignees.
+
 While on call, you are expected to:
 - Monitor: Actively monitor production alerts and notifications during your assigned sprint.
 - Respond: 
