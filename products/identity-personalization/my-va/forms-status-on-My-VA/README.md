@@ -70,7 +70,7 @@ There are two (potentially three) major components of work to address these prob
 
 **My VA**
 - Updated heading for the Benefit Applications section to "Benefit applications and forms"
-- Status cards in Benefit applications and forms section on My VA for the following statuses: submitted/pending (TBD), action needed, received
+- Status cards in Benefit applications and forms section on My VA for the following statuses: submission in progress, action needed, received
 - Accordion component for "why don't you see your form"
 - Download functionality on My VA (pending reusability from VFF work)
 - Display logic: cards appear for 60 days and then disappear, user does not have dismiss capability
