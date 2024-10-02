@@ -13,6 +13,7 @@
     - [Validating our metrics](#success-metric-validation)
 - [Top UX Takeaways - new added across release](#Top-5-Takeaways )
     [- Medallia Survey Data Trends](#Medallia-Data)
+  
     - [Contact Center MyVA411 Data Trends](#Contact-Center-MyVA-4110-Data)
 - [Appendix](#appendix)
   
