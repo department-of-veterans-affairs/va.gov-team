@@ -132,9 +132,9 @@ TK TK
 - May 21, 2024: Midpoint Review
 - May 29, 2024: CAIA a11y Pilot
 - June 2024: Usability Study
-- ____: QA
-- ____: Staging Review
-- ____: UAT
+- September 24, 2024: QA
+- October 4, 2024: Staging Review
+- ____: internal UAT
 - ____: Begin phased launch
 - ____: Launch to 100%
    
