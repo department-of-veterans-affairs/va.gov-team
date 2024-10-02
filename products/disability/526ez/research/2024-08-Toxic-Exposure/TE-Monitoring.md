@@ -11,7 +11,7 @@
 - [Reporting Schedule](#reporting-schedule)
 - [526ez Success Metrics](#526ez-success-metrics)
     - [Validating our metrics](#success-metric-validation)
-- [Top UX Takeaways](#Top-5-Takeaways )
+- [Top UX Takeaways](#Top-Takeaways-[5-25% rollout(8/28-9/20)])
     - [ Medallia Survey Data Trends](#Medallia-Data)
     - [Contact Center Data Trends](#Contact-Center-MyVA-4110-Data)
 - [Appendix](#appendix)
@@ -59,28 +59,26 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 
 </details>
 
-## Top 5 Takeaways 
+## Top Takeaways [5-25% rollout(8/28-9/20)]
 These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.
-
-### 1.0 5-25% Takeaways (8/28-9/20) 
     
-**Takeaway 1.Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.**
+### #1: Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.**
 - TE Opt-in rate for 25% was 48%, a 10% increase over 5% canary. Furthermore, TE page abandonment was low, averaging just 1.3%
 - We are also seeing that overall form abandonment (44.2%) is lower than the baseline (46.7%) and remains steady at +/- 2%.
    
-**Takeaway 2. It is too early to evaluate the success of Toxic Exposure from our 25% qualitative data.**
+### #2: It is too early to evaluate the success of Toxic Exposure from our 25% qualitative data.**
 - Lighthouse indicates that 63,078 Veterans filed using the 526ez between 8/28-9/24. 5,900 of them saw the 2022 version of the PDF and 2,382 opted in to the Toxic Exposure flow. At this stage, seeing any volume of user feedback on less-than-blocking pain points would be like finding a needle in a haystack.
 - As we get more data from more veterans who have access to the toxic exposure flow, we anticipate being able to make more definitive claims about the Toxic Exposure user experience.
 - However, the Contact Center, Medallia, and GA4 data reviewed up until the 25% rollout confirms hypotheses and findings identified in the pre-launch Medalia data.
 
-**Takeaway 3. One Veteran filing for Toxic Exposure could not find the In Progress Form they had started previously.**
+### #3: One Veteran filing for Toxic Exposure could not find the In Progress Form they had started previously.
 We still see the in progress form as a potential hotspot for problems with veterans who fill in all of the data for toxic exposure, but then find that they don't know how to recover their work. 
 > "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -Medallia Feedback from Veteran on RNG page
 
-**Takeaway 4. There is a strong demand for clear guidance on where to file for the PACT Act.**
+### #4. There is a strong demand for clear guidance on where to file for the PACT Act.
  - The volume of the Contact Center data gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set.
 
-**Takeaway 5. Veterans have a high volume of questions about the PACT Act and their eligibility.**
+### #5. Veterans have a high volume of questions about the PACT Act and their eligibility.
 > "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran
 
 <details>
