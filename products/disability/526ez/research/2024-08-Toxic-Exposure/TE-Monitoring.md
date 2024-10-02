@@ -60,8 +60,7 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 </details>
 
 ## Top Takeaways 1.0 5-25%
-These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.
-    
+_These insights will gather weave together findings across Contact Center (MyVA 411), Medallia, and GA4 to highlight trends in user experience of the new Toxic Exposure feature._    
 ### #1: Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.**
 - TE Opt-in rate for 25% was 48%, a 10% increase over 5% canary. Furthermore, TE page abandonment was low, averaging just 1.3%
 - We are also seeing that overall form abandonment (44.2%) is lower than the baseline (46.7%) and remains steady at +/- 2%.
