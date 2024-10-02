@@ -64,7 +64,7 @@ _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave toge
 - TE Opt-in rate for 25% was 48%, a 10% increase over 5% canary. Furthermore, TE page abandonment was low, averaging just 1.3%
 - We are also seeing that overall form abandonment (44.2%) is lower than the baseline (46.7%) and remains steady at +/- 2%.
    
-### #2: It is too early to evaluate the success of Toxic Exposure from our 25% qualitative data.
+### #2: Although it is too early to evaluate the success of Toxic Exposure from our 25% qualitative data, we expect more specific insight as the rollout continues.
 - At this stage in the rollout, seeing any volume of user feedback on less-than-blocking pain points would be like finding a needle in a haystack.Lighthouse indicates that 63,078 Veterans filed using the 526ez between 8/28-9/24. 5,900 of them saw the 2022 version of the PDF and 2,382 opted in to the Toxic Exposure flow. 
 - As we get more data from more veterans who have access to the toxic exposure flow, we anticipate being able to make more definitive claims about the Toxic Exposure user experience.
 - However, the Contact Center, Medallia, and GA4 data reviewed up until the 25% rollout confirms hypotheses and findings identified in the pre-launch Medalia data.
