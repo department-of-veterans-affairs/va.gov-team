@@ -131,11 +131,11 @@ None.
 - If no, disqualify. 
 4. Do you need to use assistive technology to use the internet such as  VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
 - Proceed to question 4a if yes. Proceed to 4c if no.  
-4a. Are you able to join the Zoom session using this assistive  
+  - 4a. Are you able to join the Zoom session using this assistive  
 technology?  
 - Answer should be yes to satisfy criteria for screen reader. 
-4b. Please list the name of the assistive technology or software you will use during the session. 
-4c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? 
+  - 4b. Please list the name of the assistive technology or software you will use during the session. 
+  - 4c. Are you able to join the Zoom session from a smart phone such as a Samsung Galaxy or Apple iPhone? 
 - Any kind of smart phone will work, as long as it connects to the internet. Tablet is ok, too.  
 - Answer should be yes for 3-4 users to satisfy criteria for mobile testing.
  
