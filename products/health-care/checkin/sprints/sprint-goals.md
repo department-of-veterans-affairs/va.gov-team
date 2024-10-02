@@ -11,20 +11,33 @@
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
+    - **END OF THE YEAR DEADLINE**
     - 🟥 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)
+    - 🟥 [Draft non-PHI email notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94170)
+    - 🟦 [Create Sequence Diagram for CC Referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93897)
+    - 🟦 [Figure out what query we need to write in Planatir to export the least amount of referral data.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)
+    - 🟦 [Parse the exported raw data into usable data to store in restricted shared folder (TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93892)
+    - 🟦 [Implement deleting referral information we no longer need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93890)   -     
+- **OH Travel**
+    - **Sprint goal is to have this ready for internal testing**
+    - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
 - **Travel Claims for Past Appts**
+  - **END OF THE YEAR DEADLINE**
     - 🟩 [[FE] - Create mock api for travel claim status endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
+- **VAHB: Medication Wording**
+    - [Update Medication Wording for Appointments | In Person](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
+- **VAHB: Pre-Check-in**
+    - 🟥 [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
 - **Check in with staff after checking in**
-    - TBD
+    - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
+- **Research Cards & Their Headers**
+    - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
 - **Edit existing content on a resources and support page from Check in**
     - TBD
-- **CIE Analytics**
+- **Tech Debt & Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
-- **Tech Debt**
     - 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
-    - 🟦 [Add Code to Retry VA Notify when We Receive an Error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
-    - 🟦 [URL Shortener Errors Return a JSON Response](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94048)
 </details>
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
