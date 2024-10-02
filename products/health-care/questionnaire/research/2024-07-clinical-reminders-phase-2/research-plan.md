@@ -171,9 +171,7 @@ The purpose of this research is to gather feedback from Veterans on the revised 
  
 ### Perigean kick-off meeting  
 
-- October 2-4, 2024 (please confirm time with Nina Anusavice) with the following attendees: 
-
-   - Kristen McConnell UX Lead (kristen.mcconnell@va.gov) 
+- October 2, 2024 (please confirm time with Nina Anusavice) with the following attendees: 
 
     - Nina Anusavice UX Designer (nina.anusavice@va.gov) 
 
@@ -185,7 +183,7 @@ The purpose of this research is to gather feedback from Veterans on the revised 
 
 ## Timeline 
 
-- The prototype link is ready on September 23, 2024 (tentative) for the research review. 
+- The prototype link is ready on September 26, 2024 (tentative) for the research review. 
 
 
 - Pilot Test 
@@ -210,13 +208,11 @@ The purpose of this research is to gather feedback from Veterans on the revised 
  
 ### Research sessions 
 
-- Planned dates of research are October 14-18, 2024:  
+- Planned dates of research for cohort 1 are October 15-17, 2024 and Cohort 2 sessions will run on October 21-28, 2024.
 
    - **Cohort 1 (6 Veterans from Phase 1)** 
 
-   - **Moderator:** Jenny Wang
-    - October 14, 2024
-      - 10:30 am-5:00 pm ET  
+   - **Moderator:** Jenny Wang 
     - October 15, 2024 
       - 10:30 am-5:00 pm ET     
     - October 16, 2024
@@ -229,18 +225,17 @@ The purpose of this research is to gather feedback from Veterans on the revised 
    - **Cohort 2 (6 new Veterans)**
      
   - **Moderator:** Nina Anusavice
-   - October 14, 2024 
-      - 9:30 am-10:30 am ET 
-      - 2:30 pm -6:00 pm ET 
-   - October 15, 2024 
-      - 9:30 am-11:30 pm ET 
-      - 3:00 pm -6:00 pm ET 
-   - October 16, 2024 
+   - October 21, 2024 
+      - 9:30 am-2:00 pm ET 
+   - October 22, 2024 
       - 9:30 am-6:00 pm ET 
-   - October 17, 2024
-      - 9:30 am-11:30 pm ET 
-      - 4:00 pm -6:00 pm ET
-   - October 18, 2024 
+   - October 23, 2024 
+      - 9:30 am-6:00 pm ET 
+   - October 24, 2024
+      - 9:30 am-2:00 pm ET
+        
+  **Additional dates for Cohort 2 if neeeded**
+  - October 28, 2024
       - 9:30 am-4:00 pm ET 
 
 
