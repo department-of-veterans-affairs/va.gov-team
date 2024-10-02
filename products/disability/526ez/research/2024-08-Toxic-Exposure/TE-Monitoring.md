@@ -62,10 +62,6 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
 ## Top 5 Takeaways 
 These insights will gather weave together findings across data sources to highlight trends in user experience of the new Toxic Exposure feature.
 
-<details>
-  <summary>Click to expand 5-25% Takeaways (8/28-9/20)
-  </summary>
-
 ### 1.0 5-25% Takeaways (8/28-9/20) 
     
 **Takeaway 1.Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.**
@@ -84,9 +80,6 @@ We still see the in progress form as a potential hotspot for problems with veter
 
 **Takeaway 5. Veterans have a high volume of questions about the PACT Act and their eligibility.**
 > "Simply trying to claim additional compensation for presumptive exposure to airborne pathogengs  during Desert Storm, but cannot find specific it or information to do so." -Medallia Veteran
-
-
-</details>
 
 <details>
   <summary>Click to expand 1.0 100% Takeaways [Future reporting]
