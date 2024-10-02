@@ -49,7 +49,7 @@
     - ❗ 🟦 G&K - [[BE] [OH] Add client_number_oh to config](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93078)
     - ❗ 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
     - ❗ 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
-    - ❗ 🟩 Schedule Privacy, security, infrastructure readiness review [instructions](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html)
+    - ❗ 🟩 Schedule Privacy, security, infrastructure readiness review [instructions](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html) [artifact](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1979)
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
     - 🟥 [[Design] Wireframe for when when the selected provider doesn't have their time slots open to EPS/WellHive](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93373)
