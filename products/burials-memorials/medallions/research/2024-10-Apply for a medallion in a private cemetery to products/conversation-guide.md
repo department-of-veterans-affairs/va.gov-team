@@ -66,7 +66,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 -VANotify emails: Is the information sufficient for the Medallion recipient with what they should do and expect next?
 ## Second Task: [Family member applicant] - X minutes
 - Step 1: You are Alex Wilson, a family member of the deceased Veteran. You live out of country but want to send the medallion to your brother to place on the Veteran’s headstone. You will complete the application from start to finish.
-- Step 2
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
@@ -84,7 +83,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Third Task: [VSO organization applicant] - X minutes
 - Step 1: You are Alex Wilson, a Veterans Service Organization (VSO) representative of the deceased Veteran. You hope to receive a medallion to place on a deceased Veteran’s headstone. You will complete the application from start to finish.
-- Step 2: I think it’s better to just have the two tasks for the secondary form testing. 
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
