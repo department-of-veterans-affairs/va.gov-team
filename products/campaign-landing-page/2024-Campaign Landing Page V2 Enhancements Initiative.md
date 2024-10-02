@@ -1,4 +1,4 @@
-# Campaign Landing Page V2 Enhancements Initiative
+# Campaign Landing Page V2 Enhancements Initiative (WIP)
 #### Overview
 
 The Campaign Landing Page MVP was launched in 2021, and a review needs to be conducted to determine whether the MVP was successful, and if not not, what next steps if any should be prioritized.
@@ -14,7 +14,7 @@ The opportunity is to validate or disprove effectivness of the MVP Campaign Land
 ## Problem
 > *Describe the challenge / pain point you seek to address* 
 
-The CLP template is not meeting the original KPIs of
+The CLP template does not meeting all the original KPIs - especially:
 - the capabilities of the CLP template (the various content components) meet the minimum needs of the business stakeholders
 - the CMS functionality of the template builder is bug-free and user/author-friendly
 
@@ -32,7 +32,7 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 - the CLP is driving users to benefit pages or tools - _true_, based on data available in DOMO for 7 CLPs
   - caveat: data is not available for all CLPs and some data is aggregated as a link, rather than specific to the link
   - [data is available here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/campaign-landing-page/analytics.md)
-- the CLP is forcing a primary CTA (e.g., campaign KPI that's other than 'page visits' which is what most VA engagement pages/subdomains measure) - _true_
+- the CLP is forces a primary CTA (e.g., campaign KPI that's other than 'page visits' which is what most VA engagement pages/subdomains measure) - _true_
 - the CLP is instrumented so that every interaction on the page is tracked whether it is the optional secondary CTA, or downloads, video plays, or clicks to more info/deeper content. -_true_
 
 ## Discovery to inform iteration 
@@ -118,10 +118,21 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 --- 
 
 ## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+### Collaboration Cycle
+Milestone | Date | Link to issue |
+---| :---: | :---: |
+| Collaboration cycle kickoff request | | |
+| PO Sync | | |
+| Design Intent | | |
+| CMS Request| | |
+| Research review| | |
+| Midpoint Review| | |
+| Analytics request| | |
+| Contact center review| | |
+| Staging review| | |
+| Privacy, security, infrastructure readiness review| | |
+| Architecture Intent| | |
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -144,29 +155,3 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 
 ---
 
-#### Communications
-*Where will you discuss this initiative?*
-
-<details>
-
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
-
-</details>
-
-
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
-</details>
-
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
