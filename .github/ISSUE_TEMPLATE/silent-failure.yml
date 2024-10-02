@@ -2,8 +2,8 @@ name: Silent failure
 description: Let OCTO know about a silent failure in an application
 title: "[Team name] | Silent failure: [Description]"
 labels: ['zero-silent-failures']
-# assignees: 
- # - humancompanion-usds
+ assignees: 
+  - humancompanion-usds
 body:
   - type: markdown
     attributes:
