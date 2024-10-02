@@ -196,4 +196,4 @@ This study focused on AT, as do these notes. We had 4 sessions cancelled for var
 *1 person navigated visually with their mouse
 **2 people only use Dragon for dictation not for navigation
 
-![VA-recruitment-checker](add link)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/09-2024-Research-equality-checker.png)
