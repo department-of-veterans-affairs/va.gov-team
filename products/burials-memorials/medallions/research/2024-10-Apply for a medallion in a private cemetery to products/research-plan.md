@@ -13,7 +13,7 @@ We will be conducting usability testing using interactive designs of a new Medal
  
 ### OCTO Priorities  
  
-The [OCTO objectives] ( https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports are to: 
+The [OCTO objectives]( https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme) that this research supports are to: 
 - Solidify the VA.gov platform 
 - Enhance Veteran’s personalized online experience 
 - Drive OIT’s Digital Transformation Strategy 
@@ -21,7 +21,7 @@ The [OCTO objectives] ( https://github.com/department-of-veterans-affairs/va.g
  
 ### Veteran Journey 
  
-This product fits into the [Veteran journey] ( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) for the following areas:  
+This product fits into the [Veteran journey]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) for the following areas:  
  
 The Medallions application applies to life stage of Dying, as Veteran’s family members, personal representatives, or Veteran Service Officers can apply for a medallion to affix to a private marker in a private cemetery at the time of death – or at any point after the Veteran’s death. 
  
@@ -76,10 +76,9 @@ Remote testing with Zoom as the preferred video conferencing software.
 ### Research materials 
  
 For moderated usability tests:  
-- [Link to conversation guide] (https://boozallen.sharepoint.com/:w:/r/teams/mbms/_layouts/15/Doc.aspx?sourcedoc=%7BD43551B6-1254-455A-94F9-D2036134D402%7D&file=Conversation%20Guide%20Medallions.docx&action=default&mobileredirect=true 
+- [Link to conversation guide](https://boozallen.sharepoint.com/:w:/r/teams/mbms/_layouts/15/Doc.aspx?sourcedoc=%7BD43551B6-1254-455A-94F9-D2036134D402%7D&file=Conversation%20Guide%20Medallions.docx&action=default&mobileredirect=true 
 ) 
-- [Link to prototype] (https://www.figma.com/design/3aSSS4Exs7kFn17lN9wIM4/Pre-Need---Integration-Prototype?m=auto&t=wed0ix8AGRrDhFrY-6 ) 
-- [Link to recruitment ticket] (url goes here) 
+- [Link to prototype](https://www.figma.com/design/3aSSS4Exs7kFn17lN9wIM4/Pre-Need---Integration-Prototype?m=auto&t=wed0ix8AGRrDhFrY-6 ) 
  
 ### Recruitment approach 
 We’d like to recruit 10 participants for a total of 8 completed sessions. We’ll use Perigean to recruit participants. 
