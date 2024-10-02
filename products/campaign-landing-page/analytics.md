@@ -6,15 +6,15 @@
 ### July - December 2024 data by Campaign Landing Page title
 
 ### [VA Health Connect provides the right care, right now]( https://www.va.gov/initiatives/va-health-connect) 
-- published 9/26/2024
+> published 9/26/2024
 <details>
   <summary> Expand for data </summary>
 
 | metric| July 2024 | August 2024 | September 2024 | October 2024 | November 2024 |  December 2024
 | --- | :---: | :---: |:---:  | :---: |:---:  | :---: | 
-| Views |  | | | | | | 
-| Views/session || | | | | | 
-| Views/active user |  | | | | | | 
+| Views | - | - | | | | | 
+| Views/session | - | - | | | | | 
+| Views/active user | - | -  | | | | | 
 | Interaction with link		|		|  | | | | | | 	
 | Interaction with link		|	|  | | | | | | 	
 | Interaction with link		|		|  | | | | | | 	
@@ -25,15 +25,15 @@
 </details>
 
 ### [VA resources for survivors of suicide loss](https://www.va.gov/initiatives/va-resources-for-survivors-of-suicide-loss) 
-- published 9/23/2024
+> published 9/23/2024
 <details>
   <summary> Expand for data </summary>
   
 | metric| July 2024 | August 2024 | September 2024 | October 2024 | November 2024 |  December 2024
 | --- | :---: | :---: |:---:  | :---: |:---:  | :---: | 
-| Views |  | | | | | | 
-| Views/session || | | | | | 
-| Views/active user |  | | | | | | 
+| Views | - | - | | | | | 
+| Views/session | - | - | | | | | 
+| Views/active user | - | -  | | | | | 
 | Interaction with link		|		|  | | | | | | 	
 | Interaction with link		|	|  | | | | | | 	
 | Interaction with link		|		|  | | | | | | 	
@@ -44,7 +44,6 @@
 </details>
 
 ### [Prepare for VA's secure sign-in changes](https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes/) 
-- published 8/30/2024
 <details>
   <summary> Expand for data </summary>
   
@@ -53,25 +52,22 @@
 | Views | 168,435 | | | | | | 
 | Views/session | 1.26 | | | | | | 
 | Views/active user | 1.39 | | | | | | 
-| Interaction with link /records	|	934 | | | | | |
-| Interaction with link /service-member-benefits	|	431| | | | | |
-| Interaction with link entity:node/51915	|	144 | | | | | |
-| Interaction with link entity:node/8222	|	29 | | | | | |
-| Interaction with link entity:node/8233	|	101 | | | | | |
-| Interaction with linkhttps://facebook.com/VeteransAffairs	|	129 | | | | | |
-| Interaction with link https://instagram.com/deptvetaffairs	|	22 | | | | | |
-| Interaction with link https://public.govdelivery.com/accounts/USVA/subscriber/new/	|	208 | | | | | |
-| Interaction with link https://twitter.com/DeptVetAffairs	|	58 | | | | | |
+| Interaction with link /records	|	934 | 571| | | | |
+| Interaction with link /service-member-benefits	|	431| 231 | | | | |
+| Interaction with linkhttps://facebook.com/VeteransAffairs	|	129 | 34| | | | |
+| Interaction with link https://instagram.com/deptvetaffairs	|	22 |7 | | | | |
+| Interaction with link https://public.govdelivery.com/accounts/USVA/subscriber/new/	|	208 | 68| | | | |
+| Interaction with link https://twitter.com/DeptVetAffairs	|	58 |54 | | | | |
 | Interaction with link https://twitter.com/intent/tweet?text=Prepare for VA's secure sign-in changes&url=https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes	|	36 | | | | | |
-| Interaction with link https://www.facebook.com/sharer/sharer.php?href=https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes	|	438 | | | | | |
-| Interaction with link https://www.va.gov/resources/creating-an-account-for-vagov/	|	16281 | | | | | |
-| Interaction with link https://www.va.gov/resources/signing-in-to-vagov/	|	3637 | | | | | |
-| Interaction with link https://www.va.gov/resources/verifying-your-identity-on-vagov/	|	3580 | | | | | |
-| Interaction with link https://youtube.com/DeptVetAffairs	| 93 | | | | | |
+| Interaction with link https://www.facebook.com/sharer/sharer.php?href=https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes	|	438 |109 | | | | |
+| Interaction with link https://www.va.gov/resources/creating-an-account-for-vagov/	|	16,281 |7,334 | | | | |
+| Interaction with link https://www.va.gov/resources/signing-in-to-vagov/	|	3,637 | 2,250| | | | |
+| Interaction with link https://www.va.gov/resources/verifying-your-identity-on-vagov/	|	3,580 | 1,822 | | | | |
+| Interaction with link https://youtube.com/DeptVetAffairs	| 93 | 48| | | | |
 </details>
 
 ### [End-of-Life benefits](https://www.va.gov/initiatives/end-of-life-benefits) 
-- published 12/08/2023
+> published 12/08/2023
 <details>
   <summary> Expand for data </summary>
   
@@ -80,20 +76,20 @@
 | Views |2,617	|		| | | | | | 
 | Views/session | 1.29 | | | | | 
 | Views/active user |1.54 | | | | | | 
-| Interaction with link	/burials-memorials	|	58 |  | | | | | | 
-| Interaction with link	/life-insurance	|	72 |  | | | | | | 
-| Interaction with link	https://news.va.gov/116142/advance-directives-ensure-future-care-wishes/	|	29 |  | | | | | | 
-| Interaction with link	https://news.va.gov/118845/end-of-life-planning-with-va/	|	137 |  | | | | | | 
-| Interaction with link	https://news.va.gov/120689/more-survivors-eligible-pact-act-benefits/	|	22 |  | | | | | | 
-| Interaction with link	https://www.facebook.com/sharer/sharer.php?href=https://www.va.gov/initiatives/end-of-life-benefits	|	14 |  | | | | | | 
-| Interaction with link	https://www.va.gov/burials-memorials/	|	208 |  | | | | | | 
-| Interaction with link	https://www.va.gov/family-member-benefits/	|	173 |  | | | | | | 
-| Interaction with link	https://www.va.gov/geriatrics/pages/advance_care_planning_topics.asp	|	72 |  | | | | | | 
+| Interaction with link	/burials-memorials	|	58 | 14 | | | | | | 
+| Interaction with link	/life-insurance	|	72 | 48 | | | | | | 
+| Interaction with link	https://news.va.gov/116142/advance-directives-ensure-future-care-wishes/	|	29 | 14 | | | | | | 
+| Interaction with link	https://news.va.gov/118845/end-of-life-planning-with-va/	|	137 | 82 | | | | | | 
+| Interaction with link	https://news.va.gov/120689/more-survivors-eligible-pact-act-benefits/	|	22 | 20 | | | | | | 
+| Interaction with link	https://www.facebook.com/sharer/sharer.php?href=https://www.va.gov/initiatives/end-of-life-benefits	|	14 | - | | | | | | 
+| Interaction with link	https://www.va.gov/burials-memorials/	|	208 | 197 | | | | | | 
+| Interaction with link	https://www.va.gov/family-member-benefits/	|	173 | 218 | | | | | | 
+| Interaction with link	https://www.va.gov/geriatrics/pages/advance_care_planning_topics.asp	|	72 | 41 | | | | | | 
 
 </details>
 
 ### [Virtual care, urgent care, emergency room, or 911?](https://www.va.gov/initiatives/emergency-room-911-or-urgent-care) 
-- published 07/13/2023, updated 9/26/2024
+> published 07/13/2023, updated 9/26/2024
 <details>
   <summary> Expand for data </summary>
   
@@ -103,12 +99,13 @@
 | Views/session |1.09 | | | | | | 
 | Views/active user |1.20  | | | | | | 
 | Interaction with link		|	827	|  | | | | | | 	
-| Interaction with link	/service-member-benefits	|	7	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/COMMUNITYCARE/programs/veterans/Urgent_Care.asp	|	151	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/communitycare/programs/veterans/emergency_care.asp	|	208	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/find-locations/?facilityType=emergency_care	|	395	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/find-locations/?facilityType=urgent_care	|	374	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/health/docs/learn-about-VA-health-care-options_508_112921.pdf	|	93	|  | | | | | | 	
+| Interaction with link	/service-member-benefits	|	7	| 14 | | | | | | 	
+| Interaction with link	https://www.va.gov/COMMUNITYCARE/programs/veterans/Urgent_Care.asp	|	151	| 190 | | | | | | 	
+| Interaction with link	https://www.va.gov/communitycare/programs/veterans/emergency_care.asp	|	208	| 292 | | | | | | 	
+| Interaction with link	https://www.va.gov/find-locations/?facilityType=emergency_care	|	395	|503  | | | | | | 	
+| Interaction with link	https://www.va.gov/find-locations/?facilityType=urgent_care	|	374	| 428  | | | | | | 	
+| Interaction with link	https://www.va.gov/health/docs/learn-about-VA-health-care-options_508_112921.pdf	|	93	|95  | | | | | | 	
+| Interaction with link	https://www.va.gov/resources/choosing-between-urgent-and-emergency-care	|	-| 156	|  | | | | | 
 
 </details>
 
@@ -122,13 +119,13 @@
 | Views | 9,970 | | | | | | 
 | Views/session |2.09 | | | | | | 
 | Views/active user | 2.46 | | | | | | 
-| Interaction with link	/family-member-benefits	|	14	|  | | | | | | 	
-| Interaction with link	/service-member-benefits	|	50	|  | | | | | | 	
-| Interaction with link	https://news.va.gov/119761/securely-accessing-your-va-account-online/	|	50	|  | | | | | | 	
-| Interaction with link	https://news.va.gov/122499/login-gov-offers-new-in-person-identity-verification-for-veterans/	|	29	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/resources/creating-an-account-for-vagov/	|	101	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/resources/signing-in-to-vagov/	|	266	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/resources/verifying-your-identity-on-vagov/	|	72	|  | | | | | | 	
+| Interaction with link	/family-member-benefits	|	14	| - | | | | | | 	
+| Interaction with link	/service-member-benefits	|	50	| - | | | | | | 	
+| Interaction with link	https://news.va.gov/119761/securely-accessing-your-va-account-online/	|	50	|7  | | | | | | 	
+| Interaction with link	https://news.va.gov/122499/login-gov-offers-new-in-person-identity-verification-for-veterans/	|	29	| 7 | | | | | | 	
+| Interaction with link	https://www.va.gov/resources/creating-an-account-for-vagov/	|	101	| 7 | | | | | | 	
+| Interaction with link	https://www.va.gov/resources/signing-in-to-vagov/	|	266	|7  | | | | | | 	
+| Interaction with link	https://www.va.gov/resources/verifying-your-identity-on-vagov/	|	72	| 7 | | | | | | 	
 
 </details>
 
@@ -141,18 +138,18 @@
 | Views |5,966 | | | | | | 
 | Views/session |1.18 | | | | | | 
 | Views/active user |1.32  | | | | | | 
-| Interaction with link	/disability	|	29	|  | | | | | | 	
-| Interaction with link	/health-care	|	14	|  | | | | | | 	
-| Interaction with link	https://instagram.com/deptvetaffairs	|	7	|  | | | | | | 	
-| Interaction with link	https://news.va.gov/127910/beware-of-job-scams-targeting-veterans/	|	29	|  | | | | | | 	
-| Interaction with link	https://news.va.gov/131856/gaming-fraud-protection-against-world-of-gaming/	|	22	|  | | | | | | 	
-| Interaction with link	https://public.govdelivery.com/accounts/USVA/subscriber/new/	|	7	|  | | | | | | 	
-| Interaction with link	https://twitter.com/intent/tweet?text=Protecting Veterans from fraud&url=https://www.va.gov/initiatives/protecting-veterans-from-fraud	|	7	|  | | | | | | 	
-| Interaction with link	https://www.facebook.com/sharer/sharer.php?href=https://www.va.gov/initiatives/protecting-veterans-from-fraud	|	7	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/files/2024-03/employment-scam-prevention.pdf	|	14	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/get-help-from-accredited-representative/	|	43	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/get-help-from-accredited-representative/find-rep/	|	36	|  | | | | | | 	
-| Interaction with link	https://youtube.com/DeptVetAffairs	|	7	|  | | | | | | 	
+| Interaction with link	/disability	|	29	| 7 | | | | | | 	
+| Interaction with link	/health-care	|	14	| 20 | | | | | | 	
+| Interaction with link	https://instagram.com/deptvetaffairs	|	7	| 7 | | | | | | 	
+| Interaction with link	https://news.va.gov/127910/beware-of-job-scams-targeting-veterans/	|	29	| 27 | | | | | | 	
+| Interaction with link	https://news.va.gov/131856/gaming-fraud-protection-against-world-of-gaming/	|	22	| 7 | | | | | | 	
+| Interaction with link	https://public.govdelivery.com/accounts/USVA/subscriber/new/	|	7	|7  | | | | | | 	
+| Interaction with link	https://twitter.com/intent/tweet?text=Protecting Veterans from fraud&url=https://www.va.gov/initiatives/protecting-veterans-from-fraud	|	7	| - | | | | | | 	
+| Interaction with link	https://www.facebook.com/sharer/sharer.php?href=https://www.va.gov/initiatives/protecting-veterans-from-fraud	|	7	| 7 | | | | | | 	
+| Interaction with link	https://www.va.gov/files/2024-03/employment-scam-prevention.pdf	|	14	|14  | | | | | | 	
+| Interaction with link	https://www.va.gov/get-help-from-accredited-representative/	|	43	| - | | | | | | 	
+| Interaction with link	https://www.va.gov/get-help-from-accredited-representative/find-rep/	|	36	| 116 | | | | | | 	
+| Interaction with link	https://youtube.com/DeptVetAffairs	|	7	| 7 | | | | | | 	
 
 </details>
 
@@ -165,15 +162,18 @@
 | Views |1,165	 | | | | | | 
 | Views/session |1.13 | | | | | | 
 | Views/active user | 1.35 | | | | | | 
-| Interaction with link	/family-member-benefits	|	7	|  | | | | | | 	
-| Interaction with link	/service-member-benefits	|	14	|  | | | | | | 	
+| Interaction with link	/family-member-benefits	|	7	|-  | | | | | | 	
+| Interaction with link	/service-member-benefits	|	14	| 34 | | | | | | 	
 | Interaction with link	https://news.va.gov/127537/delaware-veterans-help-health-care-benefits-veac/	|	7	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/files/2024-06/continental-region-veac-flyer.pdf	|	50	|  | | | | | | 	
-| Interaction with link	https://www.youtube.com/watch?v=np3Yq5WAQAY	|	29	|  | | | | | | 	
+| Interaction with link	https://www.va.gov/files/2024-06/continental-region-veac-flyer.pdf	|	50	| - | | | | | | 	
+| Interaction with link	https://www.youtube.com/watch?v=np3Yq5WAQAY	|	29	|7  | | | | | | 	
+| Interaction with link	https://book.appointment-plus.com/ch422seq/#/	|	-| 102	|  | | | | | 	
+
 
 </details>
 
 ### [Veteran Trust in VA](https:/www.va.gov/initiatives/veteran-trust-in-va/)
+- updated
 <details>
   <summary> Expand for data </summary>
   
@@ -182,10 +182,13 @@
 | Views | 726 | | | | | | 
 | Views/session |1.13 | | | | | | 
 | Views/active user | 1.51 | | | | | | 
-| Interaction with link	https://survey.voice.va.gov/?rQSp6z-PACTActOutreach	|	7	|  | | | | | | 	
-| Interaction with link	https://survey.voice.va.gov/?rQSp6z-PACTActOutreach=	|	7	|  | | | | | | 	
-| Interaction with link	https://www.facebook.com/sharer/sharer.php?href=https://www.va.gov/initiatives/veteran-trust-in-va	|	7	|  | | | | | | 	
-| Interaction with link	https://www.stripes.com/theaters/us/2024-03-29/veterans-affairs-pact-act-enrollment-burn-pits-13452173.html	|	14	|  | | | | | | 	
+| Interaction with link	https://survey.voice.va.gov/?rQSp6z-PACTActOutreach	|	7	| - | | | | | | 	
+| Interaction with link	https://www.facebook.com/sharer/sharer.php?href=https://www.va.gov/initiatives/veteran-trust-in-va	|	7	|-  | | | | | | 	
+| Interaction with link	https://www.stripes.com/theaters/us/2024-03-29/veterans-affairs-pact-act-enrollment-burn-pits-13452173.html	|	14	|-  | | | | | | 	
+| Interaction with link	/service-member-benefits| -	|	34	|  | | | | | 
+| Interaction with link	https://book.appointment-plus.com/ch422seq/#/	| -	|	102	|  | | | | | 
+| Interaction with link	https://www.youtube.com/watch?v=np3Yq5WAQAY	| -	|	7	|  | | | | | 
+
 
 </details>
 
