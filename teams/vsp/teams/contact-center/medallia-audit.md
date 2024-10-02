@@ -29,6 +29,12 @@ Both the My VA and Profile teams have a Datadog dashboard:
 ## Requirement Checklists
 The following sections present the results of our assessment on how our team complies with the requirements outlined in this document. 
 
+### Start
+
+| **Start** | **Medallia** |
+|-------------------|-----------|
+| Do you know when your application shipped to production? <br><br> *See [Reference: API Deployment Dates](#reference-api-deployment-dates) for details.* | YES |
+| Did your application use the same APIs when it shipped as it does today? <br><br> *My VA and Profile features use the same VA.gov APIs since deployment.  For external APIs, we have maintained the use of original APIs since deployment, but we have also migrated some APIs over time. We've reviewed the current architecture for all supporting APIs and have built the necessary monitors and logging around potential failures.* | YES | YES |
 
 ### Documentation
 
