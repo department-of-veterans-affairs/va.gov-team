@@ -7,53 +7,119 @@
 **Important Dates:**
 
  - [x] Staging Review -  August 29, 2024
- - [ ] Go/no go Meeting - TBD
  - [ ] Pilot Release - TBD
- - [ ] Production Release - TBD
+ - [ ] Limited Availability Release - TBD
+ - [ ] General Availability Release - TBD
 
-
-
-## Phase I: Pilot Release 
+## Phase I: Pilot Release (i.e. release to a pilot facility)
 
 ### Planning:
-
-- Number of users: under 50 per month. Limited to primary care patients seeing Dr. John Byrne at the Loma Linda VAMC
-- Pilot users will be notified to fill out questionnaire via text or email which contains a link to questionnaire
-
-## Go Live!
-
- - Go/no go meeting 
- -  Go live with 100% of Pilot users with notifications and questionnaire. 
+- Pilot will include all Veterans at the Spokane, WA facilities
+- Pilot users see faciity posters directing them to text "travel" to an SMS short code
 
 ## Rollback Plan 
-
- - Application is behind feature flags and can be disabled 
+- Application is behind feature flags and can be disabled 
 
 ### 1-week results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
 
-### 1-month results:
-- Number of unique users: x
-- Post-launch KPI 1 actual: xx lorem ipsum
-- Post-launch KPI 2 actual: xx lorem ipsum
-- Post-launch KPI 3 actual: xx lorem ipsum
-- Any issues with VA handling/processing?: yes/no, lorem ipsum
-- Types of errors logged: lorem ipsum
-- Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
-- If yes, what: lorem ipsum
+### 2-week results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+### 3-week results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+### 4-week results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
 
 ## Post-launch Questions 
+- How does the conversion rate compare over time?
+- Does the completion rate increase over time?
 
-_To be completed once you have gathered your initial set of data, as outlined above._ 
+## Phase II: Limited Availability Release (i.e. release to certain facilities)
 
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-1. What qualitative feedback have you gathered from users or other stakeholders, if any?
-1. Which of the assumptions you listed in your product outline were/were not validated? 
-1. How might your product evolve now or in the future based on these results?
+### Planning:
+- IVC will determine to which additional facilities to release
+- Users see faciity posters directing them to text "travel" to an SMS short code
+
+## Rollback Plan 
+- Application is behind feature flags and can be disabled 
+
+### 1-week results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+### 2-week results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+### 3-week results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+### 4-week results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+## Post-launch Questions 
+- How does the conversion rate compare over time?
+- Does the completion rate increase over time?
+
+## Phase III: General Availability Release (i.e. release to all facilities)
+
+### Planning:
+- IVC/OCTO will determine the timing of releasing to all facilities
+- Users see faciity posters directing them to text "travel" to an SMS short code
+
+## Rollback Plan 
+- Application is behind feature flags and can be disabled 
+
+### 1-month results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+### 2-month results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+### 3-month results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+### 4-month results:
+- Audience: Number of unique users who verified their identity
+- Conversion Rate: % of users who verified their identity and submitted a claim
+- Completions: Number of claims submitted
+- Errors: number/% of errors that occured on submission
+
+## Post-launch Questions 
+- How does the conversion rate compare over time?
+- Does the completion rate increase over time?
+
+
