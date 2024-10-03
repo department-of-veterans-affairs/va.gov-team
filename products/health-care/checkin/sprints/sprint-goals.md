@@ -87,8 +87,8 @@
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
     - 🟥 [Create final wireframes for "go see staff" after checking in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93804)
     - Schedule Design Intent (PO Sync occurred on 9/25)
-    - Schedule Research Repo tickets to Shane for review 
-    - Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well) (Scheduled for Thursday)
+    - Schedule Research Repo tickets for unmoderated study to Shane for review 
+    - ✔️ Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well) (Scheduled for Thursday)
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Synthesize unmoderated card sort data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93642)
 - **CIE Analytics**
