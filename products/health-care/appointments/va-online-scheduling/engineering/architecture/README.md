@@ -3,7 +3,7 @@
 ## Dependency diagrams
 
 ### Current
-![vaos current](https://github.com/user-attachments/assets/970f8472-2b00-47c4-8b0c-ca0619e1532c)
+![vaos current](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/vaos_2024_v1.png)
 
 
 ### Legacy
