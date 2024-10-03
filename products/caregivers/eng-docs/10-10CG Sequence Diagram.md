@@ -1,6 +1,6 @@
 ```mermaid
 sequenceDiagram
-  actor Veteran as Veteran or Caregiver
+  actor Veteran as Veteran
 
   participant vets-website as Vets Website
   participant vets-api as Vets API
@@ -10,7 +10,7 @@ sequenceDiagram
   participant mulesoft as Mulesoft
   participant carma as CARMA
 
-  rect rgb(242, 147, 140)
+  rect rgb(84, 39, 143)
   Veteran ->>+ vets-website: Fill out 10-10CG Form
   Veteran ->>+ vets-website: Upload supporting documents
   vets-website ->>+ vets-api: Upload attachments
@@ -36,7 +36,7 @@ sequenceDiagram
   mulesoft ->>+ carma: Queue form data and attachments
   end
 
-  rect rgb(255, 227, 150)
+  rect rgb(64, 128, 126)
   Veteran ->>+ vets-website: Click "Download your <br> completed application" button
   vets-website ->>+ vets-api: Requests 10-10CG PDF
   vets-api -->>- vets-website: PDF file
