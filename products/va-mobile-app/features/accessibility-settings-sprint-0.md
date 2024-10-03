@@ -17,7 +17,7 @@
    * Haptic Feedback (on/off)
    * Color mode (dark/light/honor device settings)
       * We could also explore the possibility of an "automatic" setting (light mode during the day and dark mode at night)
-    * Reduce animation (on/off)
+   * Reduce animation (on/off)
 
 ### Assumptions and Level of Confidence
 
@@ -25,7 +25,7 @@
 
 ### Risks
 
-1. There is a risk that targeting the various accessibility features that we have already implemented into the app (dark/light mode, haptics, etc.) may be difficult, time-consuming, or not possible.
+1. There is a risk that targeting the various accessibility features that we have already implemented into the app (dark/light mode, haptics, reducing animation, etc.) may be difficult, time-consuming, or not possible.
    *  To help mitigate this risk, we should do some research to determine which settings we may be able to implement a control for in the app.
 
 ### Business Goals
@@ -38,8 +38,8 @@
 
 ### Open Questions
 
-* Is it possible to implement controls for the accessibility features that we already have (haptics and dark/light mode)?
-   * We should likely also look into providing an option to turn animations on or off and identify areas that this would apply to (i.e. the screen title transition in the header).
+* Is it possible to implement controls for reducing animations?
+    * Is this something that we can detect in a user's device settings like we can with dark/light mode and haptics?
 * What is the best way to present these options to a user (toggle component, etc.)? What are other apps doing?
 * Where would the settings themselves live? Would we add an additional screen / area into the main "Settings" area of the app?
 * Do we have the ability to add an "automatic" setting for light and dark mode (light during day and dark at night)?
