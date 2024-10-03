@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience, Health Enrollment Team, 10-10EZR**
 
-October 2024
+September 2024
 
 Hieu Vo (hieu.vo@agile6.com) and Renata Keck (renata.keck@agile6.com)
 
@@ -18,14 +18,14 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+Healthcare updates, especially regarding financial information, are a critical touchpoint in a veteran’s health journey, as they help the VA determine if the veteran is eligible for travel pay reimbursement and whether copays are required for non-service-connected care or prescription medicines.
 
-_Then, describe your goals for this research_
+The online Health Care Benefit Update form (10-10EZR) is available, but there is currently no notification system in place to inform Veterans about updates. This raises key questions: Who should be notified? When should we notify them? How often should notifications be sent out? Moreover, how should we categorize Veterans for these notifications? Should we group them by Priority Group, by Disability Rating, or by other factors?
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
-
-
+To address these challenges, we took a step back to analyze user-generated content (UGC) from social media. By examining real-world experiences shared by veterans and healthcare users, we aim to gain insight into their expectations, pain points, and preferences regarding notifications. This approach allows us to:
+ 1. Understand how Veterans currently perceive their healthcare journey, especially in terms of financial information.
+ 2. Identify frustrations or gaps in communication that could help us shape more effective notification strategies.
+ 3. Determine patterns that may help us decide how to group Veterans for tailored notifications (e.g., by disability status, healthcare needs, or personal preferences).
 
 ## Research Questions
 
