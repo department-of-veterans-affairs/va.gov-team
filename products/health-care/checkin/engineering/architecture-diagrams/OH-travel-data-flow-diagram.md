@@ -8,8 +8,8 @@ config:
 sequenceDiagram
   actor patient as patient
   participant vetext as veTEXT
-  participant oh as Oracle Health
-  participant lorota as LoROTA
+  participant oh as Oracle Health <br> (system of record)
+  participant lorota as LoROTA <b> (temporary storage)
   participant vetswebsite as vets-website/api
   patient->>vetext: request action
   oh->>vetext: appointment data
