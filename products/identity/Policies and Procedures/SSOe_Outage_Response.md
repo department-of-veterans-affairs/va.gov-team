@@ -4,7 +4,7 @@
 | Version Number | Author(s)                                              | Revision Date | Description of Change                                                                      |
 |----------------|--------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------|
 |       0.1      | Joe Niquette |    5/12/23    | Initial creation, approval verbally given to team by Chris Johnston. This document formally acknowledges that approval by the PR approval of Thomas Black.                                                                           |
-|      1.0      |        Joe Niquette                                   |   10/03/24    | Re-approval by Tom Black
+|      1.0      |        Joe Niquette                                |   10/03/24    | Re-approval by Tom Black
 
 ## Background
 
