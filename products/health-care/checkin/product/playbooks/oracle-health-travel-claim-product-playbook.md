@@ -5,17 +5,17 @@ NOTE:
 - This document serves the requirement of an incident response procedure for your product. This document should be iterated upon as changes are made to the product.
 
 ## Product Description
-quick sentence or two describing what the product does, also can be a link to the product outline
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/oracle-health-travel-product-outline.md)
 
 ## Routes to code
-links here
-issue tickets (if they add value when describing known errors for your product)
+- [Frontend](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/travel-claim)
+- Backend
 
 ## Contacts
 
 ### Team Members:
 - DSVA Product Lead: _person’s name_ _persons's email_
-- Team Product Manager: _person’s name_ _persons's email_
+- Team Product Manager: Lorie Pusey _persons's email_
 - _Additional Team Role_: _person’s name_ _persons's email_
 
 ### Outage Contacts:
