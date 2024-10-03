@@ -154,7 +154,7 @@ session.
 - Date and time of pilot session: Between Oct 7-15
 
 ### Research sessions
-- Planned dates of research: Oct 22 - Oct 30, 2024
+- Planned dates of research: Oct 22 - Oct 31, 2024
 
 ### Length of sessions
 - Session length: 1 hour
