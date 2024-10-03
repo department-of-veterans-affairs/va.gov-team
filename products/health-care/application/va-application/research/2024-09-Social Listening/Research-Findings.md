@@ -1,4 +1,4 @@
-# Research Findings for 10-10EZR Social Listening for Priority Groups and Notifications.
+# Research Findings for 10-10EZR User-Generated Content Analysis.
 
 **Office of the CTO - Digital Experience, Health Enrollment Team, 10-10EZR**
 
