@@ -11,13 +11,6 @@
  - [ ] General Availability Release - TBD
 
 ## Step 1: Development
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
-
-List the features toggles here.
-
-| Toggle name | Description |
-| ----------- | ----------- |
-| check_in_experience_cerner_travel_claims_enabled  | Enables travel claims filing for Oracle Health (Cerner) sites  |
 
 Since this is a stand-alone application within the check-in namespace we can also use PagerDuty to put the applicaiton into maintenance mode
  - [Production Service](https://dsva.pagerduty.com/service-directory/PPS19LL)
