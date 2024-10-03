@@ -73,7 +73,7 @@ We asked users to consider how they would use Contact us to find answers or cust
 2. People expected the jump links to direct them to another page.
 3. People weren't sure about the purpose of "Helpful online tools."
 4. Some people related "Contact us online through Ask VA" to chat support.
-5. Some people misinterpreted what "Resources and support" means.
+5. Some people misinterpreted "Resources and support" but understood "FAQs."
 6. Some people weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
 ### Preferences
 7. People prefer more direct phone numbers.
@@ -136,7 +136,7 @@ While some people interpreted "Contact us online through Ask VA" correctly, some
 
 > Now it looks like I may be able to get kind of a chat going. That's what I would think so. Because if it's online, it has to be some kind of chat, am I correct?... Oh, it doesn't say question and answer. I just put that in myself.  
 
-### Some people misinterpreted what "Resources and support" means.
+### Some people misinterpreted "Resources and support" but understood "FAQs."
 
 "Resources and support" is a separate area on VA.gov. It provides more specific support-related content that doesn't fit under benefits hub pages. People interpreted the words "resources" and "support" differently.
 
