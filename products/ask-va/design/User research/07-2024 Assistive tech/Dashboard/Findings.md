@@ -49,15 +49,98 @@ We ran a moderated usability study remotely on Zoom. We mocked the sign in proce
 
 ## Key findings
 
-1. 
+1. It's difficult for screen reader users to tell when one card ends and another begins.
+2. Sorting by date is less useful than filtering by status or category.
+3. It's clear who sent each part of the conversation, but it would be easier to skim if the bold text was the sender.
+4. People understand what each status means, apart from Reopened which is confusing when it's not related to claims.
+5. How to navigate to the next page of cards is clear for people using different assistive technology.
+6. 7 business days is too long for most people to wait, especially knowing there are more timely ways to get information.
 
 ## Details of findings 
 
-### Finding 1: 
+### Finding 1: It's difficult for screen reader users to tell when one card ends and another begins.
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-Description
+The overall purpose of Ask VA and the dashboard was clear. However, screen reader users had trouble figuring out which elements belong to each question.
+
+Often, people thought the 'replied' label was a heading and the reply from VA would follow. This made it difficult for screen reader users to understand where to find the reply from VA and what they could click on.
+
+And it was difficult to find the 'Check details' links when skimming with screen reader. In contrast, sighted people find and understand this link easily.
+
+> Quote
+
+> Quote
+
+### Finding 2: Sorting by date is less useful than filtering by status or category.
+
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
+
+Most Veterans, most of the time will keep the default of sorting by newest to oldest.
+
+Filters are used more frequently and easily by people who are navigating visually.
+
+Filter by status was most commonly useful because people want to know when they have a reply. Veterans will use filter by category if they remember what their question is related to.
+
+If 'search' was a feature, people would expect to be able to search multiple fields, such as, question, dates and category
+
+> Quote
+
+> Quote
+
+### Finding 3: It's clear who sent each part of the conversation, but it would be easier to skim if the bold text was the sender.
+
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
+
+It's intuitive to read a chronological conversation. Veterans focused more on who sent each message compared to the date and time it was sent.
+
+The accordions made it easy to skim the page. But, because one accordion was defaulted open, people often accidentally closed it as they went down the list opening them.
+
+There needs to be separation  between the last accordion and send a reply, otherwise people miss the content.
+
+> Quote
+
+> Quote
+
+### Finding 4: People understand what each status means, apart from Reopened which is confusing when it's not related to claims.
+
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
+
+In progress clearly means that the VA is working on a reply.
+
+Replied is much more clear than 'Closed,' which we tested previously. It means the VA has sent you a reply.
+
+But reopened is less clear now that the statuses more clearly represent a conversation, not a case. Some people felt it would be more clear if it toggled between in progress and replied.
+
+> Quote
+
+> Quote
+
+### Finding 5: How to navigate to the next page of cards is clear for people using different assistive technology.
+
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
+
+People using screen readers, magnification, voice control or other technology, could navigate to the next page of questions.
+
+Apart from a bug that anchors you to the footer when you navigate to page 2.
+
+Some people may prefer to have more than 4 cards per page, but the need is unclear.
+
+> Quote
+
+> Quote
+
+### Finding 6: 7 business days is too long for most people to wait, especially knowing there are more timely ways to get information.
+
+_Labels: `PRDT: AVA`, `AUD: Veterans`_
+
+Veterans consistently lament the 7 day turnaround time.
+
+Many people would decide to call the VA instead, after realizing it takes 7 business days to receive a reply.
+
+And struggle to think of scenarios where they would use Ask VA instead of another contact method.
+
+Veterans mention preferring AI if it means they'll receive a faster answer, or at first, assuming that Ask VA will "be" AI.
 
 > Quote
 
@@ -78,7 +161,7 @@ Description
 ## Recommendations
 
 - Grouping the dashboard cards in an LI element will make it easier to distinguish between questions.
-- Consider shortening the text on 'check details' so it doesn't take as long to hear 'link.'
+- Consider shortening the sr label on the 'check details' link so it doesn't take as long to hear 'link.'
 - Remove sorting menu and default to always newest to oldest.
 - Add description of how many cards are on the dashboard, which changes when filtering.
 - Move filter by status to first, and filter by category next.
@@ -88,6 +171,7 @@ Description
 - When a question is reopened, it goes back to in progress until it changes to replied again.
 - Fix bug that anchors you to the footer when you click to next page.
 - Fix issue with content continuing after ellipsis in the cards.
+- Add sr-only class to tags that says, 'status' for consistency and clarity.
 
 ## Next steps
 
