@@ -77,7 +77,7 @@ Remote testing with Zoom as the preferred video conferencing software.
  
 For moderated usability tests:  
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/medallions/research/2024-10-Apply%20for%20a%20medallion%20in%20a%20private%20cemetery%20to%20products/conversation-guide.md) 
-- [Link to prototype](https://www.figma.com/design/3aSSS4Exs7kFn17lN9wIM4/Pre-Need---Integration-Prototype?m=auto&t=wed0ix8AGRrDhFrY-6 ) 
+- [Link to prototype](https://www.figma.com/design/QIMsAdHJjctTKDM1I34uXV/Medallions---Baseline-Prototype?node-id=2-2&t=bGe4ntD0Ez3qUrmb-1) 
  
 ### Recruitment approach 
 We’d like to recruit 10 participants for a total of 8 completed sessions. We’ll use Perigean to recruit participants. 
