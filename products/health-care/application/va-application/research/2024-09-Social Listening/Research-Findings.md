@@ -23,35 +23,39 @@ Healthcare updates, especially regarding financial information, are a critical t
 The online Health Care Benefit Update form (10-10EZR) is available, but there is currently no notification system in place to inform Veterans about updates. This raises key questions: Who should be notified? When should we notify them? How often should notifications be sent out? Moreover, how should we categorize Veterans for these notifications? Should we group them by Priority Group, by Disability Rating, or by other factors?
 
 To address these challenges, we took a step back to analyze user-generated content (UGC) from social media. By examining real-world experiences shared by veterans and healthcare users, we aim to gain insight into their expectations, pain points, and preferences regarding notifications. This approach allows us to:
- 1. Understand how Veterans currently perceive their healthcare journey, especially in terms of financial information.
- 2. Identify frustrations or gaps in communication that could help us shape more effective notification strategies.
- 3. Determine patterns that may help us decide how to group Veterans for tailored notifications (e.g., by disability status, healthcare needs, or personal preferences).
+ - Goal 1: Understand how Veterans currently perceive their healthcare journey, especially in terms of financial information.
+ - Goal 2: Identify frustrations or gaps in communication that could help us shape more effective notification strategies.
+ - Goal 3: Determine patterns that may help us decide how to group Veterans for tailored notifications (e.g., by disability status, healthcare needs, or personal preferences).
 
 ## Research Questions
 
-_Research questions here_
+**Goal 1: Understand how Veterans currently perceive their healthcare journey, especially in terms of financial information.**
+- How much do Veterans associate income with priority groups (and by extension, the covered care they can receive at VA)?
+- How do Veterans perceive the financial-related information provided by the VA (Copayment, travel reimbursement)? 
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
+**Goal 2: Identify frustrations or gaps in communication that could help us shape more effective notification strategies.**
+- When do Veterans want to know about insurance and eligibility? Are our assumptions wrong?
+- What do Veterans identify as their main frustration with the current notification system (timing, clarity, frequency)? 
 
-
-* Question 
-* Question
-* Question
+**Goal 3: Determine patterns that may help us decide how to group Veterans for tailored notifications (e.g., by disability status, healthcare needs, or personal**
+- Do Veterans know which life events necessitate updating their information through the EZR form, and if so, which life events?
+- Do Veterans understand why they need to update their information on a (semi)regular basis to maintain their eligibility?
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
-
-
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+** We assume...Veterans do not fully understand how financial information, such as income, impacts their eligibility for benefits, including Priority Groups and covered care.**
+- Definitely true
+- Text
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
+** We assume...the current method of notifications about insurance, reliability, and billing updates do not align with Veterans' preference, leading to confusion and frustration.**
+- Somewhat true
+- Text
 
-_Hypothesis statement_
+** We assume...Veterans are unclear about which life events or changes require them to update their information, resulting in infrequent updates.**
+- Somewhat true
+- Text
 
 _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
@@ -60,9 +64,7 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
+1. Finding one - Veterans do not associate their Priority Group with VA healthcare.
 
 2. Finding two
 
@@ -85,13 +87,11 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
+**Finding 1:Veterans do not associate their Priority Group with VA healthcare. **
+- 83% (132 of 159) of posts mentioned disability rating.
+- 36% (57 of 159) of posts mentioned a service-connected disability but did not specify a rating.
+- Only 11 posts explicitly mentioned priority groups. Of those, 3 mentioned a specific PG, and only 1 Veteran confidently knew what their PG# was.
+- Based on references to service-connected disability ratings alone, 39% of Veterans posting on Reddit are in Priority Group 1.
 
 > _Supporting data: Quote here_
 
