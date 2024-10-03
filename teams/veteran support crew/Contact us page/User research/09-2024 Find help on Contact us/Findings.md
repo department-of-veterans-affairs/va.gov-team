@@ -49,9 +49,9 @@ Understand what people expect on the Contact us page:
 -	What tasks are they hoping they can do on the page?
   
 ## Methodology 
-This a remote moderated usability study over Zoom for the current Contact us page in VA.gov's production environment at va.gov/contact-us. 
+This was a remote moderated usability study over Zoom for the current Contact us page in VA.gov's production environment at va.gov/contact-us. 
 
-We’ll ask users to consider how they would use Contact us to find answers or customer support in two scenarios in which they have questions about: 
+We asked users to consider how they would use Contact us to find answers or customer support in two scenarios in which they have questions about: 
 -	Creating a Login.gov account
 -	Increasing disability compensation for an existing condition
 
@@ -67,37 +67,149 @@ We’ll ask users to consider how they would use Contact us to find answers or c
 |People primarily use Contact us to look for ways to contact VA (like phone numbers).|Not enough information|x|
 |People don’t expect to find answers to questions from Contact us.|Not enough information|x|
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
-
 ## Key Findings
-
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
-
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
-
+### Behavior and expectations
+1. People scan for words related to their issue to find help and/or contact info.
+2. People expected the jump links to direct them to another page.
+3. People weren't sure about the purpose of "Helpful online tools."
+4. Some people related "Contact us online through Ask VA" to chat support.
+5. Some people misinterpreted what "Resources and support" means.
+6. Some people weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
+### Preferences
+7. People prefer more direct phone numbers.
+8. People prefer using search, but it can be difficult on VA.gov.
+9. People prefer talking to real people and online messaging (chat or email).
 
 ## Details of Findings 
+### Behavior and expectations
+#### People scan for words related to their issue to find help and/or contact info.
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
+In each scenario, people would scan the Contact us page for related keywords, such as "website access" and "request more compensation." 
 
+> I don't see anything specific about website access.
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+> So unless it specifically says, how do I request more compensation? So it's not really giving me the question I'm looking for.
 
+For the login scenario, many people gravitated towards the words "help desk" in the "My HealtheVet help desk" label.
+
+>  Right now, I'm skimming for a contact for online support. And the closest thing I see is the My HealtheVet help desk.     
+
+For the claims scenario, many people gravitated towards the "Check your VA claim or appeal status" link.
+
+>  I could do this, the claim or appeal... they could check the status of my disability. And also, they could probably update my my disability or give me information if I can apply for greater disability or greater payment.
+
+#### People expected the jump links to direct them to another page.
+
+After selecting the links, some people would continue scrolling and miss the content of the original link they selected. Not everyone recognized when this happened.
+
+> So once I hit the chat [the jump link], it opened up to learn more about it and ask a question, but it also opened up a 411 information.
+
+> This is the headings for whatever everything I'm looking at now. I just figured that out.
+
+When there are a lot of options on one page, it can be hard to focus and pause on a single section after selecting a jump link.  
+
+> Y'all trying to cram all this stuff into one little thing, and that's what gets people messed up.
+
+> I guess there's too many options. It needs to be more, here's your main thing to do to get to where you need to be.
+
+#### People weren't sure about the purpose of "Helpful online tools."
+
+People didn't understand how the "Helpful online tools" section would help them find contact information or help. Two participants said the section was "unrelated" and "repetitive."
+
+> "Helpful online tools"... I don't see that as related to everything else... because I could come up with 100 different helpful online tools. This is only four. I don't really know how these are more helpful than any of the other links.  
+
+> "Helpful online tools," just kind of feels repetitive.   
+
+Some people just overlooked the "Helpful online tools" label and skipped to the links in the section. 
+
+> When you get a hyperlink like this where it says, "Change your address," or anything like that, you click on that, and it'll take you right to the page that you need to go to the either change the address or change the direct deposit or you need to change your VA claim or anything.
+
+#### Some people related "Contact us online through Ask VA" to chat support.
+
+While some people interpreted "Contact us online through Ask VA" correctly, some did not. Ask VA is a contact form. Some people thought it was related to chat. They focused on the label and less on the descriptive text below it. 
+
+> I expect that in a timely manner, I'll get a reply back either confirming that they got the message or asking for a little more information, what I'm trying to say, or they'll give me an answer.
+
+> ...probably be presented with a contact us form with lots of dropdowns to try and narrow...
+
+> I'm assuming to be a chat, some kind of chat functionality.
+
+> Now it looks like I may be able to get kind of a chat going. That's what I would think so. Because if it's online, it has to be some kind of chat, am I correct?... Oh, it doesn't say question and answer. I just put that in myself.  
+
+### Some people misinterpreted what "Resources and support" means.
+
+"Resources and support" is a separate area on VA.gov. It provides more specific support-related content that doesn't fit under benefits hub pages. People interpreted the words "resources" and "support" differently.
+
+> Resources would be other resources that are not affiliated with the VA, but the VA, you know, puts them out there because they're real and legit resources... Support, I would hope, would be an actual person. Either an actual person or an e-mail.
+
+Because the label "Explore our FAQs and other resources to get answers to your questions" doesn't explicitly include the words "Resources and support," most people still understood the purpose of this section though. 
+
+They understood what FAQs were. 
+
+> One thing that does that stick out to me is the frequently asked questions. So I might look there to see if there are any topics that might be helpful. How to use VA.gov to manage your benefits, it might be there.
+
+> Frequently asked questions popped in my head as something I should look at to see if it's something that could be of assistance.
+
+### Some people weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
+
+Some people understood there might be a difference, but they weren't sure what the difference between these numbers is.
+
+> VA health benefits is again the same thing, similar to the one above. I'm not sure why you have it twice. There's a health benefits and then benefits. I guess they're different.
+
+>  So I see the first VA benefits hotline, and I'm just going to go ahead and keep glancing just for grins and giggles. And there's the health benefits hotline now. Then there's a MyHealtheVet help desk. And now I'm kind of confused as they are three separate numbers.
+
+### Preferences
+#### People prefer more direct phone numbers.
+
+People overwhelmingly don't have high expectations for phone calls. They prefer more direct phone numbers to mitigate the risk of long hold times, generic answers, transfers, and unhelpful phone agents.
+
+> At least if I call local, I can talk to somebody and say, here's my problem.
+
+> I want a VSO. I want I want the phone number of a VSO.
+
+> It's like, I wanna talk to the EPA and I've got the White House. I'm on the White House page. So I'm a little too high up in the chain, you know, to be looking for the best phone number to begin with.
+
+> I like that it was split up where it's not one general number to call...I know way back in the dinosaur age there was one phone number, and you could be on there for days.
+
+VA markets the MyVA411 number to [reduce the complexity of trying to find the right phone number](https://news.va.gov/82379/1-800-myva411/). However, people either don't understand 411 or have had subpar experiences with national numbers. They would still prefer a direct number in comparison to a national number.
+
+> The 411 in there throws me, and maybe it's 'cause I'm in a rural [location] area... get rid of the MyVA411 and just have "main information" would I guess draw my attention more. 
+
+> The further away from the locale you are in almost every institution, the more difficult. I mean, whether it's the Social Security office here in town versus calling a 800 number, 800 numbers are just not as successful for me, I would guess.
+
+### People prefer using search, but it can be difficult on VA.gov.
+
+People tried searching for answers on VA.gov either through the main search tool or the search on the "Resources and support" page. Most people weren't successful with finding an answer. 
+
+> And even if I take away all this and just say "create account"... [Reading results] VA prescription refill and tracking download letters, upgrade premium My HealtheVet, change your direct deposit. You know, nothing there fits what I'm looking for.
+
+People suggested a better search to improve the Contact us page and VA.gov.
+
+> I mean, it would be great to have a search bar and everything that would actually answer that on the main page.
+
+> Search bar is my favorite thing. So I will usually search it unless I know exactly where I'm going.
+
+> So it's just a matter of a search bar that is not limited
+
+### People prefer talking to real people and online messaging (chat or email).
+
+People like talking to real people and dislike automation, like phone trees and chatbots. Automation doesn't work as well (right now) as talking to a real person.
+
+> if I know I don't know the answer and I'm not just fooling around on the, on the website, it's easier to just ask somebody.
+
+>  sometimes even no matter how good the, the chat is, sometimes you just need a live person to, you know, to walk you through
+
+Many people talked about their positive experiences with VA secure messaging. For one participant, VA secure messaging was their go-to support tool for all questions.
+
+> I'm in contact with my providers quite frequently with the secure messaging, but I'm not aware of the "Contact us" or whatever you just said page on VA.gov.
+
+>  I'm a big secure message person... Yeah, I can go do something and wait for the e-mail to come back. I would hope to have a response within 24 hours.
+
+In general, people prefer online messaging because it's more convenient.
+
+> A lot of times, 3:00 in the morning, I'm going to write an e-mail because by 7-8 o'clock the next day, I'm going to forget it.
+
+> [Talking about Ask VA] If I put in a secure request, you know, that's going to take at least a day, depending on what day it is, which is super fast, you know, from my experience in the government, super fast and really like it.
 
 **Finding 1**
 
