@@ -96,8 +96,8 @@ The MHV team has created an api called the MHV account creation API which the VA
 - MHV credential - the username and password object of an MHV account. This object will no longer be accessible by external users after Jan 2025.
 - **Facility ID or station ID -** required for MHV account creation API call logic can be found as follows from MPI:
     - VHA facility IDs show up as PI correlations using the station ID, example (from VA MPI - DFN Examples):
-        
-        *VHA correlated systems   Id <id root=“2.16.840.1.113883.4.349” extension=“123456^PI^station#OfVHASystem^USVHA”/>*
+        - VHA correlated systems   Id <id root=“2.16.840.1.113883.4.349” extension=“123456^PI^station#OfVHASystem^USVHA”/>
+        - Station IDs which correlate to proper treatment facilities are [[358, 718], [720, 740], [743, 758]] and "741MM"
         
 
 ## Contacts
