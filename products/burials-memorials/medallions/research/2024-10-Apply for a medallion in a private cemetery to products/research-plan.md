@@ -87,7 +87,7 @@ Weâ€™d like to recruit 10 participants for a total of 8 completed sessions. Weâ€
 
 Requested date/time: Oct 4, 1:30 p.m.-3:00 p.m. 
  
-**Primary criteria (must-haves) ** 
+**Primary criteria (must-haves)** 
 - Amount: Target is 8 participants but recruit 10 
 - Age ranges:  
     * Around 70% 55+ - 7 participants 
@@ -113,10 +113,10 @@ Requested date/time: Oct 4, 1:30 p.m.-3:00 p.m.
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom 
 - At least 3-4 people who will use a mobile device during the research session (tablet is ok too) 
   
- **Secondary criteria (nice-to-haves) ** 
+ **Secondary criteria (nice-to-haves)** 
 None. 
  
-**Screener questions to target criteria not captured in the recruitment sign-up survey: ** 
+**Screener questions to target criteria not captured in the recruitment sign-up survey:** 
  
 1. Which of the following describes your relationship to a Veteran?  
 - I am a family member of the Veteran  
