@@ -77,7 +77,7 @@ We asked users to consider how they would use Contact us to find answers or cust
 6. Some people weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
 ### Preferences
 7. People prefer more direct phone numbers.
-8. People prefer using search, but it can be difficult on VA.gov.
+8. People prefer using search, but searches aren't always successful on VA.gov.
 9. People prefer talking to real people and online messaging (chat or email).
 
 ## Details of Findings 
@@ -177,7 +177,7 @@ VA markets the MyVA411 number to [reduce the complexity of trying to find the ri
 
 > The further away from the locale you are in almost every institution, the more difficult. I mean, whether it's the Social Security office here in town versus calling a 800 number, 800 numbers are just not as successful for me, I would guess.
 
-### People prefer using search, but it can be difficult on VA.gov.
+### People prefer using search, but searches aren't always successful on VA.gov.
 
 People tried searching for answers on VA.gov either through the main search tool or the search on the "Resources and support" page. Most people weren't successful with finding an answer. 
 
