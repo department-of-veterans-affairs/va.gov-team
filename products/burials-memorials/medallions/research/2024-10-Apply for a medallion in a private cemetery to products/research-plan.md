@@ -165,28 +165,28 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ## Available times
 - 10/15: 9:00 a.m. - 9:45 a.m. EST
-- 10/15: 10:00 a.m. - 10:45 a.m. EST
-- 10/15: 11:00 a.m. - 11:45 a.m. EST
-- 10/15: 1:00 p.m. - 1:45 p.m. EST
-- 10/15: 2:00 p.m. - 2:45 p.m. EST
+- 10/15: 10:15 a.m. - 11:30 a.m. EST
+- 10/15: 12:00 p.m. - 12:45 a.m. EST
+- 10/15: 1:15 p.m. - 2:00 p.m. EST
+- 10/15: 2:30 p.m. - 3:15 p.m. EST
 
 - 10/16: 9:00 a.m. - 9:45 a.m. EST
-- 10/16: 10:00 a.m. - 10:45 a.m. EST
-- 10/16: 11:00 a.m. - 11:45 a.m. EST
-- 10/16: 1:00 p.m. - 1:45 p.m. EST
-- 10/16: 2:00 p.m. - 2:45 p.m. EST
+- 10/16: 10:15 a.m. - 11:30 a.m. EST
+- 10/16: 12:00 p.m. - 12:45 a.m. EST
+- 10/16: 1:15 p.m. - 2:00 p.m. EST
+- 10/16: 2:30 p.m. - 3:15 p.m. EST
 
 - 10/17: 9:00 a.m. - 9:45 a.m. EST
-- 10/17: 10:00 a.m. - 10:45 a.m. EST
-- 10/17: 11:00 a.m. - 11:45 a.m. EST
-- 10/17: 1:00 p.m. - 1:45 p.m. EST
-- 10/17: 2:00 p.m. - 2:45 p.m. EST
+- 10/17: 10:15 a.m. - 11:30 a.m. EST
+- 10/17: 12:00 p.m. - 12:45 a.m. EST
+- 10/17: 1:15 p.m. - 2:00 p.m. EST
+- 10/17: 2:30 p.m. - 3:15 p.m. EST
 
 - 10/18: 9:00 a.m. - 9:45 a.m. EST
-- 10/18: 10:00 a.m. - 10:45 a.m. EST
-- 10/18: 11:00 a.m. - 11:45 a.m. EST
-- 10/18: 1:00 p.m. - 1:45 p.m. EST
-- 10/18: 2:00 p.m. - 2:45 p.m. EST
+- 10/18: 10:15 a.m. - 11:30 a.m. EST
+- 10/18: 12:00 p.m. - 12:45 a.m. EST
+- 10/18: 1:15 p.m. - 2:00 p.m. EST
+- 10/18: 2:30 p.m. - 3:15 p.m. EST
 
 ## Team Roles	 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker. ** 	 
