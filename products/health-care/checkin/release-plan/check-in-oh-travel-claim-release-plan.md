@@ -17,7 +17,11 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| check_in_experience_cerner_travel_claims_enabled  | Enables travel claims filing for Oracle Health (Cerner) sites  |
+
+Since this is a stand-alone application within the check-in namespace we can also use PagerDuty to put the applicaiton into maintenance mode
+ - [Production Service](https://dsva.pagerduty.com/service-directory/PPS19LL)
+ - [Staging Service](https://dsva.pagerduty.com/service-directory/PHVXQUE)
 
 ## Step 2: Validation
 
