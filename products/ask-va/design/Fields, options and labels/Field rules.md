@@ -14,7 +14,8 @@ This document is for our design team to communicate field rules.
   - [Location and postal code](#location-and-postal-code)
   - [School fields](#school-fields)
   - [Health facility](#health-facility)
-  - [Contact options](#when-contact-options-are-enableddisabled)
+  - [State of property](#state-of-property)
+  - [Contact options](#contact-options)
   - [Gender](#gender)
   - [DoD/EDIPI number](#dodedipi-number)
   - [Reason you contacted us](#reason-you-contacted-us)
@@ -109,7 +110,14 @@ If education question, roles list includes:
 
 - **If** we collect health facility then we don't also collect postal code (unless postal code is part of their mailing address and they choose US mail). 
 
-## When contact options are enabled/disabled
+## State of property
+|If|Then|Unless|
+|:--|:--|:--|
+|Category = `Housing assistance and home loans` and topic = `Appraisals` `Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants`|Require `State of property`||
+|Category = `Housing assistance and home loans` and topic = all other topics|Don't include `State of property`||
+|All other categories|Don't include `State of property`||
+
+## Contact options
 - Review [Contact options by business line](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) for details.
 
 ## Gender
