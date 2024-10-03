@@ -6,7 +6,7 @@
 
 **People:** 
 - Ariana Adili - product team UX
-- Katherine and A. - CAIA content
+- Katherine handed off to Monica and A. - CAIA content
 - Sam Walker - CAIA IA
 
 **CAIA Intake ticket:** [87265](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/70?pane=issue&itemId=69171351)
