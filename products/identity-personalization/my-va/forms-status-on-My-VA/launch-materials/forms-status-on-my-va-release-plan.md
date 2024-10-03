@@ -1,5 +1,5 @@
 # My VA Forms Status MVP Release Plan
-**Last updated: September 27, 2024 - first published** 
+**Last updated: October 2, 2024 - updated checklist links** 
 
 ### Table of Contents
 - [Phase I: UAT](#Phase-i-uat)
