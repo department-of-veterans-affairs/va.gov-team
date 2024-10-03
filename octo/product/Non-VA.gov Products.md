@@ -5,8 +5,8 @@ This list comprises products that are not built on VA.gov, but provide value in 
 
 ### List of Non-VA.gov Products
 
-|Product Name| OCTO Crew| OCTO Product Owner| Product Manager| Product Outline | Silent Failures Checklist | 
-|---|---|---|---|---|
+|Product Name|OCTO Crew|OCTO Product Owner|Product Manager|Product Outline|Silent Failures Checklist| 
+|---|---|---|---|---|---|
 | CDS Application: COVID-19 Patient Manager | Health | Shane Elliott | Peter Koutsovitis | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b5069a80fd6a9b990d263c690f76ff9058f2cae9/products/health-care/clinical-decision-support/covid-patient-manager/README.md) | https://github.com/department-of-veterans-affairs/covid-patient-manager/blob/main/docs/engineering/audit/silent-failures.md
 | CDS Application: CRISTAL | Health | Shane Elliott | Peter Koutsovitis | [Product Outline](https://dvagov.sharepoint.com/sites/CDSProgramTeam/SitePages/CRISTAL/CRISTAL-Learn-More.aspx) |
 | CDS Application: Lung Cancer Screening Program (V2) | Health | Shane Elliott | Peter Koutsovitis | [Product Outline](https://confluence.devops.va.gov/pages/viewpage.action?pageId=54828527) | https://confluence.devops.va.gov/pages/viewpage.action?pageId=198413898 |  
