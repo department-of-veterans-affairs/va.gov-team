@@ -1,4 +1,4 @@
-# Spike Investigation: Uptick in MHV Logins in September  
+# Spike: Investigate Uptick in MHV Logins in September  
 **Completed:** October 1, 2024  
 **Contributor:** John Marchi  
 **Jira Ticket:** [SIT-90](https://jira.devops.va.gov/browse/SIT-90)
