@@ -8,7 +8,6 @@
 ### [VA Health Connect provides the right care, right now]( https://www.va.gov/initiatives/va-health-connect) 
 > published 9/26/2024
 
-
 | metric| July 2024 | August 2024 | September 2024 | October 2024 | November 2024 |  December 2024
 | --- | :---: | :---: |:---:  | :---: |:---:  | :---: | 
 | Views | - | - | | | | | 
@@ -174,42 +173,8 @@
 | Interaction with link	https://news.va.gov/108631/elections_vet_the_vote/	|	7	|  | | | | | | 	
 | Interaction with link	https://vote.gov/	|	43	|  | | | | | | 	
 | Interaction with link	https://www.federalregister.gov/documents/2021/03/10/2021-05087/promoting-access-to-voting	|	50	|  | | | | | | 	
-| Interaction with link	https://www.va.gov/vhapublications/ViewPublication.asp?pub_ID=8555	|	65	|  | | | | | | 	
+| Interaction with link	https://www.va.gov/vhapublications/ViewPublication.asp?pub_ID=8555	|	65	|  | | | | | | 
 
-### [National Buddy Check Week](https:/www.va.gov/initiatives/national-buddy-check-week-talk-to-10-veterans/)
-  
-  | metric| July 2024 | August 2024 | September 2024 | October 2024 | November 2024 |  December 2024
-| --- | :---: | :---: |:---:  | :---: |:---:  | :---: | 
-| Views | 252 | | | | | | 
-| Views/session |1.10 | | | | | | 
-| Views/active user | 1.17 | | | | | | 
-
-### [COVID - Flu](https:/www.va.gov/initiatives/covid-flu/)	
-| metric| July 2024 | August 2024 | September 2024 | October 2024 | November 2024 |  December 2024
-| --- | :---: | :---: |:---:  | :---: |:---:  | :---: | 
-| Views |29 | | | | | | 
-| Views/session |1.0 | | | | | | 
-| Views/active user | 1.0 | | | | | | 
-
-</details>
-
-### [Network of Support](https://www.va.gov//initiatives/network-of-support/)	
-| metric| July 2024 | August 2024 | September 2024 | October 2024 | November 2024 |  December 2024
-| --- | :---: | :---: |:---:  | :---: |:---:  | :---: | 
-| Views |22 | | | | | | 
-| Views/session |1.0 | | | | | | 
-| Views/active user | 1.57 | | | | | | 
-
-</details>
-
-### [Recognizing LGBTQ Veterans during Pride month](https:/www.va.gov/initiatives/recognizing-lgbtq-veterans-during-pride-month/)	
-| metric| July 2024 | August 2024 | September 2024 | October 2024 | November 2024 |  December 2024
-| --- | :---: | :---: |:---:  | :---: |:---:  | :---: | 
-| Views | 7| | | | | | 
-| Views/session |1.0 | | | | | | 
-| Views/active user | 1.0 | | | | | | 
-
-</details>
 
 ### January - June 2024
 The following data from [DOMO](https://va-gov.domo.com/) representing data January - June 30, 2024 (when GA4 was implemented)
