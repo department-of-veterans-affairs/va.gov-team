@@ -28,6 +28,7 @@
 - **VAHB: Medication Wording**
     - JUAN - [Update Medication Wording for Appointments | In Person](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
 - **VAHB: Pre-Check-in**
+    - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
     - 🟥 [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
 - **Check in with staff after checking in**
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
