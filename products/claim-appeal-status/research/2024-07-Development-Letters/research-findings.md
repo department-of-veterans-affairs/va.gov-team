@@ -6,7 +6,8 @@ Date: 09/10/2024
 
 Gary Homidas gary.homidas@adhocteam.us, Skyler Schain skyler.schain@coforma.io
 
-[Research readout](https://docs.google.com/presentation/d/1PRCntb-42507Jeu8rMCPjVYqq3HROr90_XNJw3blZ_s/edit#slide=id.g892adcb623_0_141)
+
+[Research readout](https://github.com/user-attachments/files/17247654/research-findings_evaluate-development-letter-experience-and-5103-improvements.pdf)
 
 **Jump to:**
 
