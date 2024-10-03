@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: September 26, 2024
+Last updated by @tygindraux: October 3, 2024
 
 This document is for our design team to communicate field rules.
 
@@ -84,7 +84,7 @@ If education question, roles list includes:
 - Other
 
 ## Location and postal code
-- Review [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for details.
+Please review [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for these rules.
 
 ## School fields
 |If|Then|Unless|
@@ -121,10 +121,10 @@ If education question, roles list includes:
 - Review [Contact options by business line](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) for details.
 
 ## Gender
-- In June 2024, the Change Control Board voted in favor our removing this field from Ask VA.
+This field has been removed from Ask VA. In June 2024, the Change Control Board voted to remove it.
 
 ## DoD/EDIPI number
-- We agreed with business lines that this field will be removed from Ask VA because agents can look this up in MPI using first and last name, and DOB or SSN, all of which will be required.
+This field has been removed from Ask VA. We agreed with business lines that this field will be removed because agents can look this up in MPI using first and last name, and DOB or SSN, all of which will be required.
 
 ## Reason you contacted us
-- In June 2024, the Change Control Board voted in favor our removing this field from Ask VA.
+This field has been removed from Ask VA. In June 2024, the Change Control Board voted to remove it.
