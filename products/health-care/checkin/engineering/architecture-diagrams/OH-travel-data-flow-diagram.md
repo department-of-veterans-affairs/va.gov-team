@@ -19,7 +19,7 @@ sequenceDiagram
   lorota->>lorota: deletes appointment data after 1 day
 ```
 ### Data flow description
-A patient requests to do a travel claim by texting veTEXT. veTEXT searches Oracle Health for that patient's appointments for the current day. If found the appointments are fetched and sent to LoROTA. LoROTA is a dynamo database in AWS cloud that encrypts data at rest. LoROTA also stores authentication for the patient to use to star the application. When authenticated, LoROTA sends the appointment data to vetswebsite/api to use in the application. The data in LoROTA only lives for a day.
+A patient requests to do a travel claim by texting veTEXT. veTEXT searches Oracle Health for that patient's appointments for the current day. If found the appointments are fetched and sent to LoROTA. LoROTA is a dynamo database in AWS cloud that encrypts data at rest. LoROTA also stores authentication for the patient to use to start the application. When authenticated, LoROTA sends the appointment data to vetswebsite/api to use in the application. The data in LoROTA only lives for a day.
 
 ### Data example
 ```
