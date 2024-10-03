@@ -6,9 +6,10 @@
 
 **Important Dates:**
 
- - [ ] Staging Review -  
- - [ ] Go/no go Meeting - 
- - [ ] Prod Release Pilot - 
+ - [x] Staging Review -  August 29, 2024
+ - [ ] Go/no go Meeting - TBD
+ - [ ] Pilot Release - TBD
+ - [ ] Production Release - TBD
 
 
 
