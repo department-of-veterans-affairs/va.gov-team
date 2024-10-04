@@ -196,6 +196,10 @@ Veterans mention preferring AI if it means they'll receive a faster answer, or a
   - Making it so content does not continue after the ellipsis in the cards.
   - Removing anchor to the footer that happens when you click to next page.
 
+Other ideas we considered:
+- Changing the background color of the cards to help visually break up the cards or to show when there's a reply.
+- Removing 'last updated' until something happens to make it clearer when something has a new update.
+
 ## Next steps
 
 - [ ] TBC
