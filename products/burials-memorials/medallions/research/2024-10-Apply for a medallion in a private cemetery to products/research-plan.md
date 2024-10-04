@@ -8,7 +8,7 @@ The paper form application for a medallion is available for eligible Veterans an
  
 We will be conducting usability testing using interactive designs of a new Medallions form, and with a solution for multiple signatures. This is to ensure it meets the needs of VA.gov users, and that it can provide NCSO analysts with clean, accurate data.  
 
-[link to product brief] 
+ [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/medallions/research)
 
  
 ### OCTO Priorities  
