@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: October 2, 2024
+Last updated by @tygindraux: October 4, 2024
 
 Tyler Gindraux [tyler@bluetiger.digital | tyler.gindraux@va.gov]
 
@@ -66,11 +66,13 @@ The overall purpose of Ask VA and the dashboard was clear. However, screen reade
 
 Often, people thought the 'replied' label was a heading and the reply from VA would follow. This made it difficult for screen reader users to understand where to find the reply from VA and what they could click on.
 
-And it was difficult to find the 'Check details' links when skimming with screen reader. In contrast, sighted people find and understand this link easily.
+And it was difficult to find the 'Check details' links when skimming with screen reader. This could be because it takes a while to hear the word link and because the link is not an accurate description of the action. In contrast, sighted people find and understand this link easily.
 
-> Quote
+> "I've seen two replies, but I was like okay, what questions were those for. So that's why I had to scroll back to the top."
 
-> Quote
+> "I was thinking that I was going to read the reply [next]. [But] the next thing is actually, after the reply, it's something different. It's speaking about dependents, I take it. [...] It's a question that's been asked, not a reply about how to get my wife an ID card."
+
+> "Could you put check details... It seems like that needs to be worded so you know that's also where you can go to read the reply. The wording. Check details... and replies? Something that makes it more [obvious]."
 
 ### Finding 2: Sorting by date is less useful than filtering by status or category.
 
@@ -84,9 +86,13 @@ Filter by status was most commonly useful because people want to know when they 
 
 If 'search' was a feature, people would expect to be able to search multiple fields, such as, question, dates and category
 
-> Quote
+> "Instead of giving me a filter, its giving me, 'select all of them.' I don't know how to select something different [than all]."
 
-> Quote
+> "I know once I figured it out I would be using the filter by status."
+
+> "Filter by status would let you know what's been replied to and what's still in progress."
+
+> "There's at least 2 pages, so if there was more, it would be easier to just click on the filter and go down to that [housing] subject."
 
 ### Finding 3: It's clear who sent each part of the conversation, but it would be easier to skim if the bold text was the sender.
 
@@ -98,11 +104,13 @@ The accordions made it easy to skim the page. But, because one accordion was def
 
 There needs to be separation  between the last accordion and send a reply, otherwise people miss the content.
 
-> Quote
+> "I had to click on the question to open the question and then I had to click on the response and open the response. It was categorized very well. I liked the hide boxes because it made it that much easier to read. I asked the question, they answered the question. You don't have to go down the whole page. [...] It made it a lot easier to read."
 
-> Quote
+> "It's clearly labelled, your question, response, your reply."
 
-### Finding 4: People understand what each status means, apart from Reopened which is confusing when it's not related to claims.
+> "You want me to open it? [Although the last accordion was already opened, they thought it was closed like the previous two.]"
+
+### Finding 4: People understand what each status means, apart from 'Reopened' which is confusing when it's not related to claims.
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
@@ -112,9 +120,13 @@ Replied is much more clear than 'Closed,' which we tested previously. It means t
 
 But reopened is less clear now that the statuses more clearly represent a conversation, not a case. Some people felt it would be more clear if it toggled between in progress and replied.
 
-> Quote
+> "Replied is pretty self explanatory, you've probably gotten an answer to your question."
 
-> Quote
+> "I'm not sure what reopened means, because my understanding is you only get information, it's not like you're filing something with the government. I'm not sure, if they actually give you claims through this."
+
+> "'Reopened.' A lot of Veterans would go, 'Oh my god, reopened. They're reopening my claims or case?' [...] I would change that."
+
+> "I'm not really sure what 'reopened' means [...] Maybe if I was happy and then a week, or a couple weeks later, I thought, 'Oh, I need to ask this question.' And you can and then it'd be 'reopened.'"
 
 ### Finding 5: How to navigate to the next page of cards is clear for people using different assistive technology.
 
@@ -124,11 +136,13 @@ People using screen readers, magnification, voice control or other technology, c
 
 Apart from a bug that anchors you to the footer when you navigate to page 2.
 
-Some people may prefer to have more than 4 cards per page, but the need is unclear.
+Some people may prefer to have more than 4 cards per page, but the need for this is less clear right now.
 
-> Quote
+> "It says current page, so we're [on Page 1] and there's another page. [Next, they navigated to page 2]."
 
-> Quote
+> "It said, page 1 and page 2, so I clicked on page 2 and it put me all the way at the bottom of page 2. So I had to swipe up. So that was probably the weirdest thing that ever happened to me [when] going to another page."
+
+> "I like [when] I [can] display a hundred messages per page, and scroll down as opposed to [here], you seem to choose just 4 messages per page."
 
 ### Finding 6: 7 business days is too long for most people to wait, especially knowing there are more timely ways to get information.
 
@@ -142,9 +156,13 @@ And struggle to think of scenarios where they would use Ask VA instead of anothe
 
 Veterans mention preferring AI if it means they'll receive a faster answer, or at first, assuming that Ask VA will "be" AI.
 
-> Quote
+> "If they had more manageable timeframes, it wouldn't be that bad to use."
 
-> Quote
+> "If I made a phone call and talked to a human being, I could get that answer in the same day. It depends on how patient you are, some of these older Veterans might be more patient. For me, I'm just asking a simple question, I don't know if I'm going to want to wait a week..."
+
+> "I don't mind using AI, being visually impaired, I'm all for AI because it makes my life easier. It can send you to a document right off. If you're talking to a person, sometimes they don't know things as well, it takes a while for them, they've got to go look at their computer, go research something [...] then they finally come back."
+
+> "I hope it starts out with AI so I can just go, 'hey, I need form 10-something. [...] And if you're working with AI, usually if you get to something like [entering personal information or uploading files] then it will connect you to a live agent."
 
 ## Additional insights
 
@@ -160,23 +178,28 @@ Veterans mention preferring AI if it means they'll receive a faster answer, or a
 
 ## Recommendations
 
-- Grouping the dashboard cards in an LI element will make it easier to distinguish between questions.
-- Consider shortening the sr label on the 'check details' link so it doesn't take as long to hear 'link.'
-- Remove sorting menu and default to always newest to oldest.
-- Add description of how many cards are on the dashboard, which changes when filtering.
-- Move filter by status to first, and filter by category next.
-- Change first, bold text on accordions to sender and second, unbolded text to date and time.
-- Default all accordions closed in conversation.
-- Add accordion border and consider adding more spacing to message within according.
-- When a question is reopened, it goes back to in progress until it changes to replied again.
-- Fix bug that anchors you to the footer when you click to next page.
-- Fix issue with content continuing after ellipsis in the cards.
-- Add sr-only class to tags that says, 'status' for consistency and clarity.
+1. Make it easier for screen reader users to navigate cards, by:
+  - Grouping the dashboard cards in an LI element will make it easier to distinguish between questions.
+  - Changing the 'Check details' link to 'Review conversation' and announce a shorter link, "Review conversation for question submitted on August 24."
+  - Add sr-only class to tags that says, 'status' for consistency and clarity.
+2. Make it simpler to filter, by:
+  - Removing sorting menu and default to always newest to oldest.
+  - Add description of how many cards are on the dashboard, which changes when filtering.
+  - Move filter by status to first, and filter by category next.
+3. Make the conversation easy to read, by:
+  - Changing first, bold text on accordions to sender and second, unbolded text to date and time.
+  - Defaulting all accordions closed in conversation.
+  - Adding accordion border and consider adding more spacing to message within according.
+4. Ensure statuses are clear, by:
+  - Reconsidering what we name the 'reopened' status or, consider that reopened just sends a question back to in progress until there's another reply
+5. Fix a few outstanding bugs, by:
+  - Making it so content does not continue after the ellipsis in the cards.
+  - Removing anchor to the footer that happens when you click to next page.
 
 ## Next steps
 
-- [ ] Write
-- [ ] Write
+- [ ] TBC
+- [ ] TBC
 
 ## Further research needed
 
