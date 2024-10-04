@@ -33,7 +33,7 @@ For the MVP, this tool will only display careers/employment benefits. But, the f
 The URL should be a permenant home for the tool. 
 
 **1) Transition experience benefit questionnaire - New**
-- URL: va.gov/benefit-eligibility-questionnaire/ (TBD!!!)
+- URL: va.gov/discover-your-benefits/
 - Breadcrumb: none since only 2 levels deep?
 - Notes: This URL is not finalized -- it's just a suggestion to show the idea of the URL being benefit-agnostic, rather than focused specifically on careers. The final URL needs to be created in partnership with the content team.
 
