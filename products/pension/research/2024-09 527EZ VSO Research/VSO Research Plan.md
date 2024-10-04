@@ -61,20 +61,19 @@ The goals of this research are to learn from VSOs of the pain points Veterans ex
 
 
 1. **What is the VSOs experience helping Veterans understand the 527EZ pension benefit?**
-        1. Are there common characteristics, experiences, questions, etc of Veterans with whom they work who are seeking pension benefits?
-        2. How do eligible Veterans learn about the 527EZ Pension Benefit?
-        3. How do Veterans connect with accredited representatives (e.g. referred by other organizations, family, facilities)?
-            1. Are VSOs proactively seeking out or informing Veterans of Veterans pension?
-        4. What support are Veterans seeking when connecting with accredited representatives about Veterans pension? What questions do they have?
-        5. What are VSOs’ perceptions of Veterans’ primary challenges in learning about the pension benefit and getting help to apply? 
-2. **What is the experience of VSOs in helping eligible Veterans apply for the pension benefit?**
+   1. Are there common characteristics, experiences, questions, etc of Veterans with whom they work who are seeking pension benefits?
+   2. How do eligible Veterans learn about the 527EZ Pension Benefit?
+   3. How do Veterans connect with accredited representatives (e.g. referred by other organizations, family, facilities)?
+   4. What support are Veterans seeking when connecting with accredited representatives about Veterans pension? What questions do they have?
+   5. What are VSOs’ perceptions of Veterans’ primary challenges in learning about the pension benefit and getting help to apply? 
+3. **What is the experience of VSOs in helping eligible Veterans apply for the pension benefit?**
     1. Where do VSOs typically provide the most support in the application process?
     2. What challenges, if any, do VSOs observe/experience that Veterans have with gathering records and applying for pension benefits?
     3. What is the VSOs understanding of ITF and how it’s used?
     4. What is the primary method of communicating with Veterans? What tools do VSOs use to support Veterans in the application process?
     5. Do VSOs have a preference for application methods (i.e. in person, by phone, online, etc) when working with Veterans?
         1. Which of these communication methods are most utilized by Veterans?
-3. **Receiving and maintaining pension benefit**
+4. **Receiving and maintaining pension benefit**
    1. What are VSOs’ perceptions of Veterans experience of receiving and maintaining benefits?
    2. How are VSOs typically involved in the process after filing a claim?
    4. What, if any, challenges do VSOs have in ensuring eligible Veterans receive  pension benefit payments?
@@ -88,9 +87,7 @@ Understanding the first-hand experience of VSOs using the VA.gov Pension applica
 
 **Methodology**
 
-
-
-        * Remote moderated interviews via video conferencing on laptop.  
+Remote moderated interviews via video conferencing on laptop.  
 
 
 #### **Participants**
