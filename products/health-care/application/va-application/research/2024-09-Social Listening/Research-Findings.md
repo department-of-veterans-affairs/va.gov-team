@@ -64,9 +64,8 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 _The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
-1. Finding one - Veterans do not associate their Priority Group with VA healthcare.
-
-2. Finding two
+1. Finding one - When Veterans are in a transitional phase such as job change, health change, or retirement, they are very proactive in seeking guidance and support for their healthcare
+2. Finding two - Veterans do not associate their Priority Group with VA healthcare.
 
 3. Finding three
 
@@ -86,8 +85,14 @@ _For each finding, list details with supporting quotes and images when possible.
 
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
+**Finding 1: When Veterans are in a transitional phase such as job change, health change, or retirement, they are very proactive in seeking guidance and support for their healthcare.**
+- 43% (69 of 159) entries would be within the “Taking Care of Myself” stage of the Veteran Journey.
+- 43% (68 of 159) entries had questions about health insurance.
+- 40% (63 of 159) entries had questions about miscellaneous VA Benefits including travel reimbursements, appointments, community care, and medication.  
+- 15% (25 of 159) entries would be within the “Starting Up” stage of the Veteran Journey
+- 11% (18 of 159) entries would be within the “Putting Down Roots” stage of the Veteran Journey.
 
-**Finding 1:Veterans do not associate their Priority Group with VA healthcare. **
+**Finding 2: Veterans do not associate their Priority Group with VA healthcare.**
 - 83% (132 of 159) of posts mentioned disability rating.
 - 36% (57 of 159) of posts mentioned a service-connected disability but did not specify a rating.
 - Only 11 posts explicitly mentioned priority groups. Of those, 3 mentioned a specific PG, and only 1 Veteran confidently knew what their PG# was.
