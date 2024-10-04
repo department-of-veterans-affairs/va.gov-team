@@ -114,11 +114,13 @@ There needs to be separation  between the last accordion and send a reply, other
 
 _Labels: `PRDT: AVA`, `AUD: Veterans`_
 
-In progress clearly means that the VA is working on a reply.
+‘In progress’ clearly means that the VA is working on a reply.
 
-Replied is much more clear than 'Closed,' which we tested previously. It means the VA has sent you a reply.
+‘Replied’ is much more clear than ‘Closed,’ which we tested previously. It means the VA has sent you a reply.
 
-But reopened is less clear now that the statuses more clearly represent a conversation, not a case. Some people felt it would be more clear if it toggled between in progress and replied.
+But ‘Reopened’ is less clear now that the statuses more clearly represent a conversation, not a case. 
+
+Some people felt it would be more clear if it toggled between ‘In progress’ and ‘Replied.’
 
 > "Replied is pretty self explanatory, you've probably gotten an answer to your question."
 
@@ -191,7 +193,7 @@ Veterans mention preferring AI if it means they'll receive a faster answer, or a
   - Defaulting all accordions closed in conversation.
   - Adding accordion border and consider adding more spacing to message within according.
 4. Ensure statuses are clear, by:
-  - Reconsidering what we name the 'reopened' status or, consider that reopened just sends a question back to in progress until there's another reply
+  - Reconsidering what we name the 'reopened' status or, consider that reopened just sends a question back to in progress until there's another reply.
 5. Fix a few outstanding bugs, by:
   - Making it so content does not continue after the ellipsis in the cards.
   - Removing anchor to the footer that happens when you click to next page.
