@@ -14,29 +14,21 @@ NOTE:
 - [LoROTA](https://github.com/department-of-veterans-affairs/lorota)
 
 ## Contacts
-
-### Team Members:
-- DSVA Product Lead: _person’s name_ _persons's email_
-- Team Product Manager: Lori Pusey lori.pusey@agile6.com
-- Developers: Brian Seek, Gaurav Gupta, Kanchana, John Woolschlager, 
-
-### Outage Contacts:
-- _Additional Team Role_: _person’s name_ _persons's email_
-- _Additional Team Role_: _person’s name_ _persons's email_
-- pagerduty email/activation call (if available)
+[Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/team)
 
 ## Troubleshooting
 
 ### Errors and Metrics
-link to errors and logs your product produces
-brief explanation of errors/metrics (or link to them here)
+[DataDog](https://vagov.ddog-gov.com/dashboard/njk-mi6-mxy/travel-claims-oracle-health?fromUser=false&refresh_mode=sliding&from_ts=1727961956507&to_ts=1727965556507&live=true)
+[Sentry](https://sentry.vfs.va.gov/organizations/vsp/issues/?environment=production&project=3&query=team%3Acheck-in+transaction%3A%22Sidekiq%2FCheckIn%3A%3ATravelClaimSubmissionWorker%22&statsPeriod=14d)
 
 ### Issue investigation steps
-- Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
+- For issues and investigations follow the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
 ### Flipper Features and Rollback
-- Is there a flipper feature? If yes, describe here and explain when to modify the flipper and to what exactly.
-- At what point, if applicable, should your code be rolled back, to what state? (optional)
+Since this is a stand-alone application within the check-in namespace we can use PagerDuty to put the applicaiton into maintenance mode
+ - [Production Service](https://dsva.pagerduty.com/service-directory/PPS19LL)
+ - [Staging Service](https://dsva.pagerduty.com/service-directory/PHVXQUE)
 
 ## Security
 descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log senstive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc.
