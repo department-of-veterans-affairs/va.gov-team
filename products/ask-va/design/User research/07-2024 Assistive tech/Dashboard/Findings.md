@@ -204,8 +204,12 @@ Other ideas we considered:
 
 ## Next steps
 
-- [ ] TBC
-- [ ] TBC
+- [ ] Update dashboard card design – (DESIGN > DEV) – #[add ticket]() 
+- [ ] Update sorting and filter design – (DESIGN > DEV) – #[add ticket]()
+- [ ] Update conversation accordion design – (DESIGN > DEV) – #[add ticket]()
+- [ ] Update reopened status – (DESIGN > DEV) – #[add ticket]() 
+- [ ] Fix question in cards so content doesn't continue after ellipsis – (DESIGN > DEV) – #[add ticket]()
+- [ ] Fix issue with anchor to footer when clicking to the next page – (DESIGN > DEV) – #[add ticket]()
 
 ## Further research needed
 
