@@ -18,7 +18,8 @@
 **Code changes**
 
 1. VADS styling needs to be converted to USWDS styling (e.g., “vads–” to “usa-”)
-2. Components in USWDS are written using Twig template (.twig), which is a modern template engine for PHP. 
+2. Components in USWDS are written using Twig template (.twig), which is a modern template engine for PHP.
+3. Each component uses a JSON file to house the content info that will be used inside the component.
 
 **Steps needed**
 
@@ -32,9 +33,10 @@
 1. How should we build the pattern in the USWDS codebase?
     1. Where should this code live in their repo?
         1. Interestingly, there is a PR label for “is pattern” but a pattern has never been introduced/contributed before.
-        2. Under the “packages” folder where all the components live (based on looking at past PRs).
-        3. There is a “Patterns” section in their Storybook (only 1 form in there). Perhaps this is where we will put our Prefill pattern form Storybook component.
-        4. Similar to how we built a demo pattern in VADS.
+        2. Under the “packages” folder where all the components live (based on looking at past PRs). **OR**
+        3. Under "templates" folder.
+        4. There is a “Patterns” section in their Storybook (only 1 form in there). Perhaps this is where we will put our Prefill pattern form Storybook component.
+        5. Similar to how we built a demo pattern in VADS.
 2. What should the timeline look like for this?
     1. For the proposal, should we wait for the user research to be completed so we know what our final pattern would be?
     2. In the meantime, should we start building the Storybook pattern?

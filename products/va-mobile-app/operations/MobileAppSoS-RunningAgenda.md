@@ -6,18 +6,81 @@
   * Review status of current work
   * Discuss changes in risks, dependencies, assumptions, resources, staffing or priority for the current / future sprints
   * Review insights from ongoing discovery or delivery work for the current / future sprints
-  * Triage new work
-  * POs reconfirm project priorities
+
+  * POs confirm Epic priorities
+     * Triage new Experience Team work
+   
   * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
      * Call out any Closed Epics
      * Call out unplanned work
   
 ### [OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/MobileTeamOKRs.md)
 
+## 10/16/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Q4 Plan Readout
 
+## 10/2/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Q4 Planning milestones
+  * [Quarterly Planning Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/planning/quarterly%20planning/MobileQuarterlyPlanningProcess.md)
+  * Readout in SoS Oct. 16
+* Home screen 60 day quantitative and qualitative data readout
+ * [Quantitative Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/data/Home%20Screen%20Quantitative%20Success%20Tracking.md)
+ * Qualitative Feedback
+    * Overall, very positive
+      * App store
+        * 5 stars - "I really love the new layout and the **GUI is super easy to use**."
+        * 5 stars - "The new release is great. All **important info on home screen**."
+        * 5 stars - "This latest update is so great!!! As soon as I logged in, **I was greeted with everything that I needed on the first screen**. Developers should take note. This is how an interactive app should be built. Kudos to the team that worked on this improvement."
+   * The only negative feedback is surfacing disability rating and monthly payment due to privacy concerns
+      * App store ratings with negative feedback about monthly payment mentioned it in conjunction with other issues
+        * 2 stars - 2.33 crashes every time I open. Please fix. As a user, **I don’t like that my monthly disability award** is displayed. Please roll back this new change.
+        * 4 stars - Everything about the app is great, except **"the monthly payment" should be placed on the payment page and not on the Front page for everyone to see. The bigger the amount, the bigger the target the Veteran becomes.** Please move this to the payment page. Then I'll give it 5 Stars.
+       * Reddit comments
+         * **It shouldn’t have our $ amount on the front page.** Outside of that, I like it a lot.
+         * I don’t like it .. as soon as you open it big as day your rating and payment. **The payment should not be there like that**.
+       * Email
+         * I just wanted to provide feedback to the recent UI update in the app.
+**I do not prefer to have my connected percentage and monthly amount paid on the front screen** as soon as you login to the app. It **gives away too much information that others can see **sitting beside you when you need to open the app up. It’s a big privacy issue putting that on the main page, imo.
+I liked it previously where it just said you were service connected and you had to drill down further in order to get those kind of private details
+
+
+## 9/18/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* Ask - think through prioritization process (PM group)
+  * User Impact, Business Impact, LOE
+  * Want to have a clearer way of describing priority of Epics
+* Ask - User Metrics for Shared Services (Don, Ryan, Matt, Kelly)
+  * how many current users do we have? by user, I mean # of people, # of teams, or however else we define user
+  * on average, how many "leads" do we get every month (or whichever time frequency we use to track)? by lead, I mean new teams filling out an intake form
+  * approximate % of leads who become an actual user?
+*  Rachel's 'Product Launch'
+  *  Likely out Nov. 15, returning end of Jan/early Feb (Feb 10)
+* Upcoming VA events:
+  * DE Portfolio monthly mtg w/ Charles 
+    * Veteran Facing - Oct 1
+    * Shared Services - Nov 1
+  * week of Nov 11 - OCTO off-site
 
 
 ## Agenda
+## 9/4/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Experience Team Requests Review**
+  * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
+* **Home Screen 30 Day Metrics Review**
+
 
 ## 8/21/24
 * **Epics Review**

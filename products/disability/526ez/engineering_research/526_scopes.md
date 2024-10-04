@@ -18,7 +18,7 @@ These scopes are where the rubber meets the road for our ["exclusive methodology
 These scopes give us 100% coverage of Form526Submissions within the scope of va.gov. They even cover edge case failures downstream to some extent ([see this doc on 'paranoid success' for more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/paranoid_success_submissions.md)).  However, if Lighthouse, EVSS, VBMS, or any of the other isolated links in the submission life 'chain' fail silently, and no body tells us, we can't do anything about that. Therefor, we can say these scopes give us **100% coverage of va.gov, but nothing else.** Someday we might have a wholistic state solution that covers the entire lifecycle of a submission, but for now ensuring the integrity of our 'link in the chain' is the best we can do.
 
 ### Technical Limitations
-It's not uncommon for these scopes to timeout when run from a command line. There are 'memory-light' versions scripted under each scope header below that can be used to achieve the same results without crashing your Postgresql connection.
+It's not uncommon for these scopes to timeout when run from a command line. This is mittigated a bit by using `.pluck(:id)` to execute subqueries where we are able.
 
 ### MAX_PENDING_TIME
 this is a duration that we use to delineate between "this is too new to call it a failure" and "this is old enough that we can consider it a failure, unless it meets one of our success type criteria."  This is not an arbitrary number. At the time of writing, it is set at 3 weeks. We picked that number to allow for the cumulative duration of
@@ -52,9 +52,20 @@ All of the following must be true:
 
 ### accepted_to_primary_path
 
-- has has been sent to the primary path (has a `submitted_claim_id`)
+- has been sent to the primary path (has a `submitted_claim_id`)
+- has been sent either to LH (with successful PDF upload) or EVSS
+- now looks at both accepted_to_evss_primary_path and accepted_to_lighthouse_primary_path scopes
 
-NOTE: we may soon also be checking for a status, as primary path migrates to a new endpoint with a polling requirement
+### accepted_to_evss_primary_path
+
+- has been sent to the primary path (has a `submitted_claim_id`)
+- the submit endpoint is either null or it's not LH ('claims_api')
+
+### accepted_to_lighthouse_primary_path
+
+- has been sent to the primary path (has a `submitted_claim_id`)
+- was submitted to LH's 'claim_api'
+- the PDF was uploaded successfully (via synchronous polling of the LH Benefits Claims API)
 
 ### accepted_to_backup_path
 All of the following must be true:
@@ -113,6 +124,12 @@ NOTE: `paranoid_success` and `success_by_age` are two sides of the same coin. It
 ### failure_type
 
 Anything and everything that is not `success_type` or `incomplete_type`. This is our most important scope, the others all serve this one in some way. This is the query that tells us at a glance exactly how many failed submissions are hanging out in our system requiring human intervention to reach a state of completeness.
+
+NOTE: in spirit we are just saying `where not success_type or incomplete_type`, however this was causing postgres timeouts. the current implementation filters each subcondition 1 by 1
+
+#### failure_type edge case
+
+We build the failure_type scope with a step by step, subtracive query to avoid timeouts in the database. There is an edge case where a submission succeeds the happy path during the execution of this filtering. The way it works is essentially that by the time we subtract everything `in_process`, the submission is no longer in process. This seesm to only happen on the happy path so we have addressed it in [this pull request](https://github.com/department-of-veterans-affairs/vets-api/pull/18364)
 
 ### with_exhausted_primary_jobs
 All of the following must be true

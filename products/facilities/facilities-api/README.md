@@ -8,7 +8,7 @@ There are 2 versions of a Facilities API that are powered by vets-api. Both are 
 * [Modern Facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#modern-facilities-api)
   * [Code](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#code)
   * [Data sources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#data-sources)
-  * [facilities-api Consumers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#customers)
+  * [facilities-api Consumers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#facilities-api-consumers)
   * [Lighthouse Integration](#lighthouse-integration)
   * [Working with the facilities-api](#working-with-the-facilities-api)
 * [Legacy Facilities API client](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#legacy-facilities-api-client)
@@ -58,7 +58,8 @@ flowchart LR
 
 1. Facility Locator: uses the facilities-api for facility and service search and filtering
 2. 1010 Health apps team - PM: Heather Justice (May 2024)
-3. CTA widget code on Health apps pages: on the following pages, KISS data uses the facilities-api to display facility listings, in order to show a logged-in Veteran the various facilities where they have received care (if those facilities use Cerner for medical records): 
+3. VAOS - uses Community Care endpoints
+4. CTA widget code on Health apps pages: on the following pages, KISS data uses the facilities-api to display facility listings, in order to show a logged-in Veteran the various facilities where they have received care (if those facilities use Cerner for medical records): 
     * Medical records
     * Lab results
     * Prescriptions

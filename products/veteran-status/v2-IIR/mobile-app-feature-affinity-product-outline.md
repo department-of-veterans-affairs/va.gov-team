@@ -13,7 +13,7 @@ The Iterate, Innovate, and Run (IIR) team is driving the Veteran Status experien
 
 - Mobile app users don’t understand why they don’t have access or can’t access their Proof of Status (no error/ineligibility messaging).
 
-- The Veteran ID Card (VIC) cannot be decommissioned until both the web and mobile app Proof of Status meet legislative requirements (DoD ID number needs to be added).
+- VA Stakeholders (Melissa Rebstock) will not have a strong case to ask for legislative changes to card requirements if Vet Status does not contain an ID number that is not a SSN (adding the DoD ID).
 
 
 ### Desired User Outcomes
@@ -75,7 +75,7 @@ Before | Web vs. Mobile Status Information
 |                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                            |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                     Web                                                                                                                     |                                                                                                                   Mobile                                                                                                                   |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJ8Hdpw4DN38rMnK4NWTYAfu9UHvLZH71gzbcT8uGj588OeD2N2td8ZSLMv9YbS5AU0DnJ4OViEkjlEB1Gc2YUC-1y-WNHfb97G4AiW6NFJnBEZbAcn1-AL8yRoJ8UgA6mTuZIqylwf-vK3vupjdxmkCff?key=7ZRGJik9DMl_m3QFL33zqA) | ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBfTjboxNOK_6_WqyAo16RcW5v6XuUgItoFPJAknQXIGfIcCnlUXORfU5hh2M1upxHlpmEevS8A9JLYiMDpbI-BLeX4tjY2CQQoZYJxQ22efxnfPWPz3pUN98TBBbWE6UP4SNQKnul72Z_IGPLhvbBLAA?key=7ZRGJik9DMl_m3QFL33zqA) |
+| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfIrURVnjvWgyw5rs2KjFNV9uyszAKWOXSD9q--vznQTiESFyZGNlfVYjvLFlpNq9WELQ0g_dnGVKuwfSq-IiWaeF8ctvlumRmgIEsk1WV-JGJuGWrFq0dVIvltU4KYm8SB0IMqEkbSic1hpJ07uqksBTNT?key=dnUrnrCY036e-0TiBIPVCA) | ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBfTjboxNOK_6_WqyAo16RcW5v6XuUgItoFPJAknQXIGfIcCnlUXORfU5hh2M1upxHlpmEevS8A9JLYiMDpbI-BLeX4tjY2CQQoZYJxQ22efxnfPWPz3pUN98TBBbWE6UP4SNQKnul72Z_IGPLhvbBLAA?key=7ZRGJik9DMl_m3QFL33zqA) |
 
 After | Web vs. Mobile Status Information
 

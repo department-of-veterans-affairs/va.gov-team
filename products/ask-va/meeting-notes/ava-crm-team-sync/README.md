@@ -1,3 +1,34 @@
+##8/20/2024
+
+**Agenda**
+
+- Review Research Plan for Dashboard
+- Review Mockups for Dashboard
+- Questions for CRM about dashboard
+ 
+ - **Question:** Confirming you don’t currently include the ‘We’ve received your question’ etc. first email in the dashboard, right?
+ -  **Answer**: Just the response. We’ve received your inquiry is only for the unauthenticated experience. 
+ -  **Question**: how are we keeping track of the new requests, Do you store/include timestamps in the dashboard (in addition to dates)?
+ - 	 **Answer**: Based on the correspondence of the email, the timestamp is available and can be added
+Timestamp for created on will be UTC 
+		- Kyle to add, will be included in the sprint planning
+	- **Question**: After a question is reopened(and also rerouted) , when VA replies back it’s moved back to closed, right?
+	- **Answer:** It would not be automatically be closed
+	- if they did a send and solve it would, if they just sent a correspondence then it might not automatically close.The Agent would be performing the solve.
+
+
+
+**Notes & Key Questions: **
+
+- How might we change statuses for an inquiry 
+	- Can we get a timestamp associated with an inquiry
+	- Replies are typically sent as a string, can we keep the format from the va (maintaining spaces, and paragraphs) The mock up currently is just a paragraph, uncertain if this data is formatted or is parseable
+	- *Shelby confirmed there are paragraph breaks and formatting is maintained from when the message is sent. *
+-  Can we determine whether something is a response or reply from a user? 
+- CRM to check that data dictionary - Hemesh to ask the Team. 
+- Any Updates on CRM Test Plans 
+- Drafting dev. Testing vs business testing this afternoon.
+
 08/13/2024 
 
 **Agenda August 13th**

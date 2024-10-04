@@ -28,7 +28,7 @@
 | [45MR Staff-facing Research](https://github.com/department-of-veterans-affairs/va.gov-team/files/14127810/PCI.45MR.Research.Findings.Presentation.Jan.2024.pdf) | Staff from 142 sites | January 2024 |
 | [In-Person UAT for Travel Reimbursement on Smartphone at VA Oracle Health Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2024-02%20In-Person%20Travel%20Reimbursement%20Research%20for%20Oracle%20Health%20Facilities) | TBD | TBD |
 | [Unmoderated Content Evaluation for Multiple Facilities Selection in BT Oracle Health App Research Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/2024-04%20Unmoderated%20Content%20Evaluation%20for%20Multiple%20Facilities%20Selection%20in%20BT%20Oracle%20Health%20App) | 60 Veterans | April 2024 |
-| [2024-06 Community Care Self-Scheduling - Usability and Concept Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing) | TBD | July 2024 |
+| [2024-06 Community Care Self-Scheduling - Usability and Concept Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing) | 15 Veterans | August 2024 |
 
 
 

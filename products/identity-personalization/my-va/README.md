@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: August 16, 2024 - updated latest FE documentation for Benefit Application Drafts and changed title to "Benefit applications and forms"**
+**Last updated: October 4, 2024 - updated security artifacts**
 
 ### Communications
 
@@ -237,7 +237,8 @@ _Why would your business want this to exist?_
 - [My VA 2.0 Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/Technical-diagrams/My-VA-architectural-diagram.md)
 
 ## Security
-Latest security playbook: [My VA Health Care section - Dot Indicator on Unread Health Care Messages Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/create-dot-indicator/launch-materials/dot-indicator-on-my-va-security-playbook.md)
+- Latest security playbook: [Forms Status security playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/launch-materials/forms-status-on-my-va-security-playbook.md)
+- [System monitoring playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/auth-experience/playbooks/monitoring.md#system-monitoring-playbooks)
 
 ## How to Access and Test
 

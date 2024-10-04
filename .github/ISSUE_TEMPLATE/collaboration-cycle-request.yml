@@ -123,6 +123,15 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: architecture-intent
+    attributes:
+      label: Does your work require non-trivial code changes or involve PII/PHI?
+      description: If so, you need an [engineering and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md).
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+  - type: dropdown
     id: analytics-domo
     attributes:
       label: Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?

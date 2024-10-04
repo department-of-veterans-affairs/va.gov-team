@@ -1,5 +1,5 @@
 # Notification settings Use Cases
-**Last updated:** February 15, 2024 (updating user flow link)
+**Last updated:** (feature flag link)
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
@@ -31,3 +31,8 @@ This feature has no validation use cases.
 
 ## Flow diagrams
 - [High-level user flow](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=1%3A12888&mode=design&t=beICgF9Ke3eKxb6t-1)
+
+
+
+## Feature Flags 
+- [documented in the FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/feature-flags.md)

@@ -1,4 +1,141 @@
 # Design Weekly Sync Agenda
+
+## 2024-09-30
+Attendees: Angela, Jessica, Hieu, Lois, and Renata.
+
+**CG Research**
+- The team discussed several stakeholders signing up to be observers and how Jessica or Angela would send out the individual links. 
+
+**EZR Social Listening next steps**
+- Linking back to Priority Group, it is clear and definitive that most Veterans do not know what Priority Group is and how it impacts their benefits. 
+- Renata notes that the User Generated Content is across the board on the Veteran Journey while the Medalia that Luis is working on is during mid-form. Both types would help us identify gaps.
+- Lois wants to emphasize getting back to the research plan, wondering how much more should we do on social listening and what will be helpful to us.
+- Hieu notes there are two ideas around this work: 1 - how does this help our team with our work/research? 2 - Can other teams utilize this work? So the intent is to share this work with others as well.
+- Lois agrees with sharing the work and notes that Kristen M. would be interested in the appointment portion of the work.
+- One idea: Priority Group is care based on your disability group + financial situation?
+ 
+**Experience Maps**
+- Talked through the concept of creating a living journey map/persona docs where we can gather all the research data and insights (social listening, research studies, VoC, GA + Datadog data, desk research etc).
+- Want to talk through what is easy to maintain and the audience of such an artifact
+- How can this benefit others?
+- Maybe for now, focus on how this can be used and benefit our team? UX roadmapping + prioritization workJessica explains that it would be a low lift, a source of truth (and living docs) of everything we have learned so far, including our research.
+- Lois brought up it would be like the Map of Maps. 
+- Idea: just links in Mural to keep it low lift? 
+
+**Registration**
+- Concerns Registration explanation is not clear for MVP, will watch during first month
+- Need to think about research questions and/or next steps
+
+**OCTO Presentation/ Monday Design Sync**
+- Lois brought up this concept similar to the PM ToT slack summary
+- The one from today would be Prefill and Trauma. What from that meeting to directly impacts us and our work?
+
+**Email,Silent Failure**
+- Renata explains what happens when the EZ/EZR application is not successfully submitted through the VES. The Confirmation Page message is around successful submission while the VES would be the one that sends out the application is successfully received. If it is not received by the system, this silent failure will trigger. 
+- The silent failure email, EZR does not have a failed to submit email, workin on this and the content is going through CAIA review
+- EZ does have an email implemented, but it never went through CAIA review, going through review at same time as EZR
+
+**Saved in progress** 
+- Lois brought up the conversation around how Veterans would be confused on the sign-in location after they have an in-progress application. 
+- We think EZ shows up as Save-in-Progress on MyVA (Dashboard and in Claims). Angela can confirm that with the Developers. 
+- In Slack, Heather asked the MyVA team if that is not longer the case. 
+- The status also shows up in the Intro page (Save-in-Progress) for the 10-10EZ application. 
+- Nuance: What does not show in MyVA because not all status shows up in MyVA.
+
+
+## 2024-09-23
+Attendees: 
+
+Summary:
+[part overlap with research session]
+Analytics working session with Lois & Luis
+
+
+## 2024-09-16
+Attendees: 
+
+Summary:
+
+- Would like to chat through the county field updates on the CG form - [Figma link](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?t=kjelMus8DMVBLq1t-0)
+[Design] 10-10CG - Explore design and content options for County field #92754
+
+- From Heather in Slack: 
+RE County - Matt says it would not be a quick fix to put it on its own page, so we would need to determine if that is going to be a permanent change (thinking yes, but we can chat about it).  Also, a quick fix would be to add that US/USA/United States validation restriction.
+9:08
+RE data flows, there is that Visio, but we don't maintain that. We do have some high level diagrams in our folders
+[EZ architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/architecture-diagram.md) (GovDelivery is now VA Notify, has not yet been updated)
+[CG architectural overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf) - font is a bit tiny, but it does include the Mulesoft middleware
+
+- Lois asked if her TERA overview questions were accurate. Angela updated the questions since it is closer to VBA’s question now.
+
+## 2024-09-9
+Attendees: 
+
+Summary:
+CG 
+Research review / working session
+
+EZR
+- AEDP Team Prefill Research
+- Emergency Contact
+
+## 2024-09-03
+Attendees: 
+
+Summary:
+- Registration updates with not sure radio option removed
+- CG research check in
+
+
+
+## 2024-08-26
+Attendees: Angela, Jessica, Hieu, Lois, Renata and Luis
+
+**Analytics chat**
+Voc = Voice of the Customer, effort from CIO office
+Team to gather data that exists; processing and presenting to CIO, Lois involved with that effort - separate from this team
+What benefits team is doing; way of working + align with what they are doing
+Monthly pull basis Medalia
+More actionable insights
+Tell the story with links back to data
+CSAT score positive or negative — what happened? What we know?
+Starting pinning to certain changes made on form
+Concerns with data sources populating correctly
+Need to do a clean up = landscape effort
+Leaning more into GA4 and DataDog
+Start reporting richer metrics
+ACTION ITEM: Team next steps meeting, PM + PO focused with Luis and Lois
+
+
+**Social listenting**
+VA Mobile app; play store reviews ,Reddit mining
+CHAMPVA fB groups; so much data in there, ethics to discuss
+What other teams have done something like this
+You tube Veteran influences - comments
+ACTION ITEM: Renata to open a ticket and start social listening around Priority Groups
+
+
+**Facilities updates**
+Reviewed current CG facilities design around CG research
+Noting all just Figma and v3 component updates
+Reviewed EZ phased facilities designs and search
+Noting will need to start thinking about research +
+ACTION ITEM: Jessica schedule EZ/CG team meeting. Create a ticket for planning around EZ facilities research and metrics
+
+
+**Notification on EZR**
+Reviewed Mural
+Worked on landscape of teams and their Figma files
+Call outs on phone number and in-consistency
+Back end systems where info goes
+Leverage other teams for updatingTalked about status that would trigger a notification need
+What Priority Groups / reasons are there for a notification trigger to complete the financial assessment
+Phone numbers - watching out for inconsistencies,
+ACTION ITEM: Hieu - Look into notification triggers / statuses
+
+
+
+
 ## 2024-08-12
 Attendees: Angela, Jessica, Hieu, Lois, and Renata.
 

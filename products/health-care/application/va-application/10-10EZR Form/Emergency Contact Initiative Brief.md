@@ -68,6 +68,10 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 ---
 
@@ -77,15 +81,26 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Will Veterans spend the time updating their EC as they go through EZR?
+  - Will Veterans leave other VA.Gov areas (such as the VA.Gov Profile) to come to the EZR form to update EC?
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
+  - Can VES save new EC data?
+  - Can VES update EC for existing ECs? Will they be saved as new ECs each time even if they're updates?
+  - Can we delete ECs in VES?
+  - Can we distinguish between primary and secondary ECs, particularly in VES?
+
+  Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - The team will work with HEC/MS stakeholders to help let Veterans know they can now enter this information online
+  - Team will update Contact Center guide so that help desk knows Veterans can update this information online
+  - Biggest challenge to visibility is simply that it will be part of a larger online form, the 10-10EZR, and it will take outreach work with the support of stakeholders to let Veterans know they can update this information
+  - Suggestion: It may be worth letting VHA Comms know that Veterans can now do the 10-10EZR online, especially when Next of Kin is completed
+  
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
 
@@ -93,6 +108,17 @@
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
+
+- EC primary and secondary
+- All EC fields including name, phone, relationship, and address
+- ECs are optional within the EZR
+- Add address to EC is optional
+- Veteran can add, edit, remove, and cancel update for an EC
+- EC is in Veteran Info section
+- EC will be behind a Feature Flag to start
+- EC rollout will be staggered
+- EC will be QAed, E2E tested, and accessibility tested
+- 
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*

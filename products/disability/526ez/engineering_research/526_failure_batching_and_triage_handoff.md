@@ -82,5 +82,11 @@ At a high level
 
 [See this design document for a full outline of how we can execute this transition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/process_improvement_proposal_for_scriptable_tasks.md)
 
+## Subsequent Audits
+
+The followign document is a good starting point for understanding how we checked our work on this remediation with audits, and ultimately engineered solutions to capture 100% of failures and prevent them from slipping through the cracks in the future.
+
+- [Closing the Blackhole](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md)
+
 
 

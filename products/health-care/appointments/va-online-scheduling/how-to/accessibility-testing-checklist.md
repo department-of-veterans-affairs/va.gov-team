@@ -60,7 +60,10 @@ Test that screen reader
 - [ ] Announces interactive elements clearly and in expected order
 - [ ] Navigates headings clearly and in expected order
 
-## V
+## Voice-assisted Tech test
+
+Check feature is navigable using voice-assisted technology
+- [ ] Test with [Voice Control on Mac](https://support.apple.com/en-us/102225)
 
 ## Resources
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)

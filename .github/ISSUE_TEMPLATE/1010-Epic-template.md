@@ -21,6 +21,7 @@ _Which Objective / Key Result does this epic push forward?_
 - _What are we doing within the scope of this ticket?_
 - _Is there anything specifically out of scope of this ticket?_
 - _Is there anything that must be done before this ticket? (link ticket as dependency)_
+- _Are there any external dependencies?_
 
 ## Resources
 - Product or Initiative brief links 
@@ -46,9 +47,11 @@ _Which Objective / Key Result does this epic push forward?_
 - [ ] QA
 - [ ] Team review & signoff
 - [ ] End to end testing
-- [ ] Cypress testing
+- [ ] Release Plan
+- [ ] Cypress test suite
 - [ ] Team review & signoff
 - [ ] Launch to Prod
+- [ ] Update Source of Truth
 ```
 
 ---

@@ -24,7 +24,7 @@ DRAFT IN PROGRESS, COORDINATE WITH CAIA TEAM BEFORE IMPLEMENTING
 
 ### Standard sign-in alert (for all tools and forms that require sign-in with a verified account)
 
-#### Sign in with a verified account to [CTA]
+#### Sign in with a verified account
 You’ll need to sign in with an identity-verified account through one of our account providers. Identity verification helps us protect all Veterans’ information and prevent scammers from stealing your benefits.
 
 **Don't yet have a verified account?** Create a **Login.gov** or **ID.me** account now. Then come back here and sign in. We’ll help you verify your identity for your account.
@@ -37,7 +37,7 @@ You’ll need to sign in with an identity-verified account through one of our ac
 
 ### Variation for forms with optional sign-in that support prefill
 
-#### Sign in with a verified account to save your work in progress
+#### Sign in with a verified account
 
 Here’s how signing in with an identity-verified account helps you:
 - We can fill in some of your information for you to save you time.
@@ -56,7 +56,7 @@ After you sign in, we’ll tell you if you need to verify your identity for your
 
 ### Verify alert for LOA1/IAL1 Login.gov and ID.me accounts
 
-#### Verify your identity to [CTA]
+#### Verify your identity
 We need you to verify your identity for your **{Account type}** account. This step helps us protect all Veterans’ information and prevent scammers from stealing your benefits. 
 
 This one-time process often takes about 10 minutes. You'll need to provide certain personal information and identification.
@@ -67,22 +67,14 @@ This one-time process often takes about 10 minutes. You'll need to provide certa
 
 ### Verify alert for LOA1/IAL1 My HealtheVet accounts 
 
-#### You need to sign in with a different account to [CTA] 
+#### You need to sign in with a different account 
 
 We need you to sign in with an identity-verified account. This step helps us protect all Veterans’ information and prevent scammers from stealing your benefits. You have 2 options: a verified **Login.gov** or a verified **ID.me** account.
 
-**If you already have a Login.gov or ID.me account,** sign out of VA.gov. Then sign back in with that account. We’ll tell you if you need to verify your identity for your account.
-
-**If you want to create a Login.gov or ID.me account,** follow these steps:
-- Sign out of VA.gov.
-- On the VA.gov homepage, select **Create an account**. Create a **Login.gov** or **ID.me** account.
-- Come back to VA.gov and sign in with your **Login.gov** or **ID.me** account. We’ll help you verify your identity.
-
-**Not sure if you already have a Login.gov or ID.me account?**
-
-You may have one if you’ve ever signed in to a federal website to manage your benefits—like Social Security or disability benefits. Or you may have connected your email address to **ID.me** when you signed in to VA.gov with a **My HealtheVet** or **DS Logon** account.
-
-To check, sign out of VA.gov. Then try to create a new account with the email address you think the account is attached to. If you already have one, the sign-in account provider will tell you. You can then try to reset your password.
+**Follow these steps:**
+1. Sign out of VA.gov.
+2. If you already have a **Login.gov** or **ID.me** account, sign back in with that account. If you don't have one of these accounts, select **Create an account** on the VA.gov homepage and create one now. Then sign back in with that account.
+3. If you still need to verify your identity for your account, we'll help you verify.
   
 [button] Sign out
 

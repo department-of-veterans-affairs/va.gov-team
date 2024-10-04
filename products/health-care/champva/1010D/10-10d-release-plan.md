@@ -1,4 +1,4 @@
-
+# 
 <!-- markdownlint-disable MD024 -->
 # 10-10d Release Plan
 
@@ -35,7 +35,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| form1010d | [FILL_IN] |
+| form1010d | If enabled shows the digital form experience for form 10-10d (IVC CHAMPVA) |
 
 "form1010d" is the React widget ID.
 
@@ -48,9 +48,9 @@ Before enabling your feature toggle in production, you'll need to:
 - [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
 - [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+- [ ] ~~Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:~~
+  - [ ] ~~review the plan with your DEPO/OCTO representative.~~
+  - [ ] ~~review the release plan with your team.~~
 
 ## Step 3: Production rollout
 
@@ -92,7 +92,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
 
 > Example
->
+> 
 > - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
 
 [FILL_IN]: create your rollback plan
@@ -126,8 +126,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
+- Desired date range: Beginning 10/14/24
+- How will you make the product available in production while limiting the number of users who can find/access it: feature flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - [FILL_IN] : list
   - [FILL_IN] : of
@@ -137,14 +137,23 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
+### Smoke Test
+
+Test a small number of accounts added to an allowed email list in Flipper. Allowed users will authenticate to submit applications in production to verify:
+- [ ] success message is displayed to user on the page after submit
+- [ ] 200 received from s3
+- [ ] import to PEGA
+- [ ] successful callback to IVC’s endpoint to report status from PEGA
+- [ ] confirmation email is received (requires including optional email when filling out the form)
+
 ### Stage A: Canary
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time:  (Monday to Tuesday)
+- Percentage of Users (and roughly how many users do you expect this to be): 10% of time to include unauthenticated users
 
 #### Results
 
@@ -160,7 +169,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 48 hours (Tuesday to Thursday)
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -177,7 +186,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 48 hours (Thursday to Monday)
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -194,7 +203,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 24 hours (Monday to Tuesday)
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -209,7 +218,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: ongoing
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
@@ -251,7 +260,7 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 *To be completed once you have gathered your initial set of data, as outlined above.*
 
 1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-1. What qualitative feedback have you gathered from users or other stakeholders?
-1. Which assumptions you listed in your product outline were/were not validated?
-1. How might your product evolve now or in the future based on these results?
-1. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
+2. What qualitative feedback have you gathered from users or other stakeholders?
+3. Which assumptions you listed in your product outline were/were not validated?
+4. How might your product evolve now or in the future based on these results?
+5. What technical tasks are needed to clean up (i.e., removal of feature toggles)?

@@ -13,6 +13,7 @@
 |2/23/24 | Kaitlin Fink | Added care summaries and notes|
 |5/16/24 | Kaitlin Fink | Added vitals and updated health conditions|
 |8/22/24 | Kaitlin Fink | Updated labs and test results information|
+|8/28/24 | Kaitlin Fink | Updated vaccines with new decision|
 
 ## Table of Contents  
 
@@ -230,6 +231,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
   
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------| 
+|The field for provider comments will not be displayed for vaccines.|Decision made on 8/15 via email following discussion with PCP SME workgroup. Discovered the field was used only 8% of the time, there was no uniformity as to how it was used and there was a concern that the information may cause more confusion than add value for the Veteran.| 
 | The field for reactions will not be displayed as part of the vaccine data in production.                                  | After significant research and review of data, it was determined that CPRS 32b, which removed the reaction field from vaccines, was released Sep 29, 2022 and all sites (except those on Cerner) should have installed it by Dec 16, 2022.  This change made recording reactions as part of the vaccines record obsolete, and as a result, Dr. Josephs recommended that we not display it.  
 | The domain name was will be Vaccines, not Immunizations| This was approved by SMEs. Vaccines is more recongizable and plain language than immunizations. |
 | The vaccines list view will incldue a link to allergies. | Based on SME input, reactions and allergies to vaccines are typically documented in the allergies list.|

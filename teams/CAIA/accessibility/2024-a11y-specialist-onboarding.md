@@ -1,5 +1,5 @@
 # Onboarding Guide: Accessibility Specialist for VA.gov
-`Last updated June 27, 2024`
+`Last updated September 30, 2024`
 
 
 > [!TIP]
@@ -181,8 +181,8 @@ Join us!
 
 Meeting Name | About | Frequency | Joining
 ------------------|------------------|--------------|--------------|
-**VA A11y Specialist Weekly Sync** | All a11y specialists meet for community support and to discuss group topics | Thursdays at 1:00 ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y weekly sync Zoom call](https://adhocteam-us.zoom.us/j/89015804002?pwd=WCtWaUt4eWtETThVQ3VSTzFmendtQT09). 
-**VA A11y Specialist Office Hours** |`Optional` a11y specialist only calls for us to support one another | Fridays at 11:00 a.m. ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09).  
+**VA Accessibility Specialist Weekly Sync** | All accessibility specialists meet for community support and to discuss group topics | Thursdays at 1:00 ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [accessibility weekly sync Zoom call](https://adhocteam-us.zoom.us/j/89015804002?pwd=WCtWaUt4eWtETThVQ3VSTzFmendtQT09). 
+**VA Accessibility Specialist Office Hours** |`Optional` accessibility specialist only calls for us to support one another | Fridays at 11:00 a.m. ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [accessibility office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09).  
 **VA.gov 508 Monthly** |Opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans | 3rd Wednesday at 4:00 ET | [Request to join by reaching out to Martha, OCTO's accessibility lead](https://dsva.slack.com/archives/D04NHP2FGEP) 
 **CAIA Office Hours** |The CAIA team holds office hours every Tuesday at 4:00 ET. If you're on a product team and want any content, information architecture, or accessibility feedback, chat with CAIA!| Tuesdays at 4 p.m. ET | [Sign up for a time slot](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) on CAIA's Canvas. 
 
@@ -204,9 +204,9 @@ Meeting Name | About | Frequency | Joining
 #### Channels
 The following channels are a must-join for accessibility specialists at VA.gov.
 
-- [#a11y-specialists](https://dsva.slack.com/archives/C0335Q88X0S) (private channel for a11y specialists) ⭐♿
-- [#accessibility-ops](https://dsva.slack.com/archives/C023ZKDJJK1) (public channel for accessibility champs and other a11y fans)
-- [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) (general requests for a11y help, join post accessibility training)
+- [#accessibility-specialists](https://dsva.slack.com/archives/C0335Q88X0S) (private channel for accessibility specialists) ⭐♿
+- [#accessibility-ops](https://dsva.slack.com/archives/C023ZKDJJK1) (public channel for accessibility champs and other accessibility fans)
+- [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) (general requests for accessibility help, join post accessibility training)
 - [#sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH) (the public CAIA channel)
 
 These channels aren't required, but we recommend you join them. They'll give you visibility into different disciplines at VA.gov, along with the platform itself:
@@ -234,7 +234,7 @@ If you want to keep abreast of accessibility happenings across VA.gov, you can s
    - **Examples:** Accessibility, accessible, audit, user research, ux, CAIA, user experience, a11y
 
 #### Tagging
-Calling all CAIA a11ys! Use `@sitewide-caia-accessibility` in Slack to ping all CAIA accessibility specialists.
+Use `@sitewide-caia-accessibility` in Slack to ping all CAIA accessibility specialists.
 
 </details>
 
@@ -248,7 +248,7 @@ If you want to learn more about how accessibility works at VA.gov, reach out to:
 
 ## Improve your skills
 **This section includes information about:**
-- A11y Champs
+- Accessibility Champs
 - Tooling
 - Figma
 - PDFs
@@ -258,8 +258,8 @@ If you want to learn more about how accessibility works at VA.gov, reach out to:
 
 <details><summary>Toggle to view detail in the areas where you can strengthen your skillsets :accessibility:</summary>
 
-### A11y Champs
-If you are new to the accessibility space, or know someone that is, check out the [Accessibility Champions Community ("A11y Champs")](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)! We're a grassroots, volunteer-led educational program intent on scaling up VA.gov's focus on the disabled Veteran experience through:
+### Accessibility Champs
+If you are new to the accessibility space, or know someone that is, check out the [Accessibility Champions Community](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)! We're a grassroots, volunteer-led educational program intent on scaling up VA.gov's focus on the disabled Veteran experience through:
 - co-design, curiosity, and community
 - centering the diverse voices of disabled Veterans, caretakers, and family members
 - asking questions first and learning from others

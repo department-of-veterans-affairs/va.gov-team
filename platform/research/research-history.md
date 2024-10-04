@@ -546,8 +546,8 @@ Note: this document does not include research history for Appeals projects, whic
 *DEPO team, Melissa Schaff*
 
 - 11 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research)
-- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/express-care-research/2020-may-research/express-care-research-report.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2020-05-express-care-research)
+- [Report/synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2020-05-express-care-research/research-findings.md)
 
 **Keywords**: express care, virtual care, online appointments, video appointments, urgent care, vaos, covid, coronavirus, user research, usabilty testing
 
@@ -613,6 +613,8 @@ Note: this document does not include research history for Appeals projects, whic
 - 6 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/sso/ux-research)
 - Themes and keywords: warning alert, minimize scrolling, consolidate information, multiple CTAs, My VA Health, Cerner, facility registration
+
+* **Note** - This research can no longer be found in the provided link or in any folder in identity or identity-personalization (10/02/2024) - Shane Strassberg, OCTO Research Ops Lead
 
 #### February 19-March 6: eBenefits Form 21-686c Add/Remove Dependents Workflows
 *Aricka Lewis, James Adams*

@@ -41,9 +41,6 @@ Any/all points when a Veteran needs support filing and accessing their benefits.
 - Information on accredited representatives’ behavior in their regular work supporting Veterans and expectations for the new tool will be used to inform user flows, future state mapping and creation of the tool’s navigation.
 - Qualitative design feedback will be used to create an initial mockup of the MVP, specifically the landing page, dashboard, and PoA accept/decline pages.
 
-[See full design/research roadmap](https://docs.google.com/document/d/1Ksk88KhZcXFJxySHNC9icoacRUoISJznsGb0VfFSqX0/edit)
-
-
 ## Methodology
 
 **Semi-structured interviews** / The interviewer will ask the representative a series of questions to gather insight into their experiences and knowledge. Questions will be customized depending upon the participant. Remote on Zoom.
@@ -60,7 +57,7 @@ Online, over Zoom. Point of contact is Renata Keck, UX Researcher/Designer.
 
 Moderated interviews
 
-- [Conversation guide](https://docs.google.com/document/d/14xLcuD5Pq67qmnpiY8_r7t7x00bprE2xSviJUOreY5U/edit)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews/conversation-guide.md)
 - [Design ideation Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706127153075/2a5b791fb4bcd9667d98daaa9586211ea2eab234?sender=u503219bf4e47eab9c75d3838)
 - [Recruitment messaging](https://docs.google.com/document/d/138umkKulE_KrLZbSO61h1bGqYMgeJp4p96aW0LwycTw/edit?usp=sharing)
 

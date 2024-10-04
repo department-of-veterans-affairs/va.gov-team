@@ -2,6 +2,50 @@
 
 This file serves as a high level meeting log and demo inventory for the VA Health and Benefit mobile core team.
 ***
+## September 24, 2024: Sprint 106 [VA Mobile Sprint Demo - Sprint 106.pdf](https://github.com/user-attachments/files/17120552/VA.Mobile.Sprint.Demo.-.Sprint.106.pdf)
+
+
+Recording: https://adhocteam-us.zoom.us/rec/share/6duFW8-JkqYYh4Fi3p_OrTfBienkhMCSdD7b93-fNhWuog_gkQekVBaftElf9eqG.5IWnwIp6fyFo5yMo?startTime=1727204377000
+Passcode: 1R2^$W8L
+
+| Team | Topic | 
+|---|---|
+| Flagship: Global | Monthly App Store Reviews |
+| Flagship: Health & Benefits | Animation Library PoC |
+| Platform: Design System | Loading Indicator Content Guidance updates |
+| Platform: QA & Release | Detox updates |
+| Platform: API | Zero Silent Failures, CMS API |
+
+***
+## September 10, 2024: Sprint 105 [Mobile Sprint Demo - Sprint 105.pdf](https://github.com/user-attachments/files/16965602/Mobile.Sprint.Demo.-.Sprint.105.pdf)
+
+Recording: https://adhocteam-us.zoom.us/rec/share/pUaqZzBd9QvOZNojIsXA5GGYwpIRE1SZ0QUK1eI2lc0-t-kL17DPsBYyTBmqMz6m.vZpa0Rvs_QAKBcAT 
+Passcode: P=56^hhY
+
+| Team | Topic | 
+|---|---|
+| Platform | Q2 User Feedback |
+| Platform: Design System | FormWrapper and SnackBar component |
+| Platform: API | JSON Schema |
+| Platform: QA & Release | Multiple small updates |
+| Flagship: Health & Benefits | Progress Summary |
+| Flagship: Global | SSO into VA.gov from within the app |
+
+***
+## August 27, 2024: Sprint 104 [Mobile Sprint Demo - Sprint 104.pdf](https://github.com/user-attachments/files/16768507/Mobile.Sprint.Demo.-.Sprint.104.pdf)
+
+Recording: https://adhocteam-us.zoom.us/rec/share/GxlcCK7Er-27FyXKWOLTRU3C6LV73DOcxK2gzJHOs_cS9SRHDRQUKMeU8HfBK6-w.CVF5YjuAqoqxcOos?startTime=1724785153000
+Passcode: Sb^c!u6t
+
+| Team | Topic | 
+|---|---|
+| Flagship: Health & Benefits | Claims Evidence upload update |
+| Flagship: Global | In-app feedback prototype |
+| Platform: QA & Release | MCAG |
+| Platform: API | Travel Pay API updates |
+| Platform: Design System | ran out of time |
+
+***
 
 ## August 13, 2024: Sprint 103 [VA Mobile Sprint Demo - Sprint 103.pdf](https://github.com/user-attachments/files/16605405/VA.Mobile.Sprint.Demo.-.Sprint.103.pdf)
 

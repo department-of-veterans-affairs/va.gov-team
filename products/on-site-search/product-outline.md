@@ -5,7 +5,7 @@
 - GitHub Label: search
 - Slack channel: [#va-search](https://dsva.slack.com/channels/va-search), or [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 - Product POCs: 
-   - Dave Conlon, @davidconlon 
+   - Michelle Middaugh 
 - Engineering POCs:
    - Fran Cross, Sitewide Public Websites, @FranECross
 - Search.gov POC: 

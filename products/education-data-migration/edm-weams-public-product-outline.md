@@ -4,7 +4,7 @@
 
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.* 
 
-Our team will enhance VA education tools by migrating WEAMS Public  ("WP") data into the Comparison Tool. The current-state design and functionality of  WEAMS Public site will be analyzed to identify any future WP functionality via an extract from WEAMS corporate and GIDS, including updated institution, license, certification, and exam information. 
+Our team will enhance VA education tools by migrating WEAMS Public  (WP) data into the Comparison Tool. The current-state design and functionality of  WEAMS Public site will be analyzed to identify any future WP functionality via an extract from WEAMS corporate and GIDS, including updated institution, license, certification, and exam information. 
 
 
 ## Problem Statement 
@@ -139,8 +139,8 @@ Both Comparison Tool and WP are both currently live in PRODUCTION and functional
 ### Key Decisions 
 
 - Update licenses and certs, exams, and programs to display correctly in WP (EDM-86) 
-- Decision Point: Determine if school info should display for WP (EDM-88) 
-- Decision Point: Determine if Advanced Pay needs to be displayed (EDM-92) 
+- Decision Point: Determine if school info should display for WP (EDM-88) Yes, school contact information should be migrated to Comparison Tool per Brian Grubb 9/3/2024 who gained permission from Kaprice Dyson via email because they're already listed in CT. EDM-133 created to act on this decision
+- Decision Point: Determine if Advance Payment needs to be displayed (EDM-92) Yes, Advance Payment needs to be displayed in CT per Robert Holbrook 9/4 via email (information gathered from his policy POCs). This primarily applies for Chapter 35 students but is not separately distinguishable. 
 
 --- 
 

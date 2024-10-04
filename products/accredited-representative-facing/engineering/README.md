@@ -1,6 +1,6 @@
 # ARF Engineering
 
-Below is a list of repositories, a link to the onboarding documentation to help new team members get started, along with ways to stay in touch with ARF engineers.
+Below is a list of repositories, a link to the onboarding documentation to help new team members get started, and ways to stay in touch with ARF engineers.
 
 ## ARF Engineering Team Members
 
@@ -17,7 +17,7 @@ Do you have questions or want to get in touch? Join us on the ARF engineering DS
 
 To reach out to ARF engineers on Slack, message @arfeng
 
-To tag engineers on Github PRs as `Reviewers`, please use: [benefits-accredited-rep-facing-engineers](https://github.com/orgs/department-of-veterans-affairs/teams/benefits-accredited-rep-facing-engineers)
+To tag engineers on GitHub PRs as `Reviewers`, please use: [benefits-accredited-rep-facing-engineers](https://github.com/orgs/department-of-veterans-affairs/teams/benefits-accredited-rep-facing-engineers)
 
 ## Engineering Agreements
 
@@ -25,7 +25,7 @@ Learn about our engineering working style and agreements: [ARF Engineering Agree
 
 ## Onboarding Documentation
 
-For new team members, please refer to the onboarding documentation to get started with our engineering processes, tools, and best practices. You can find the onboarding guide here: [Onboarding Documentation](docs/arf-engineer-onboarding.md)
+For new team members, please review the onboarding documentation to get started with our engineering processes, tools, and best practices. You can find the onboarding guide here: [Onboarding Documentation](docs/arf-engineer-onboarding.md)
 
 ## Repositories
 
@@ -35,7 +35,7 @@ For new team members, please refer to the onboarding documentation to get starte
 
 2. **ARP Frontend in vets-website**
    - Description: This repository contains the frontend application for the Accredited Representative Portal (ARP) within its `vets-website` React app.
-   - Link: [ARP Frontend in vets-website](https://github.com/department-of-veterans-affairs/vets-website/blob/5224ca7500fd9292b8fe29d967bcb4ab55f93df3/src/applications/accredited-representative-portal)
+   - Link: [ARP Frontend in vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accredited-representative-portal)
 
 3. **ARP Layout in content-build**
    - Description: This repository contains the layout for the Accredited Representative Portal (ARP) within `content-build`.
@@ -43,8 +43,11 @@ For new team members, please refer to the onboarding documentation to get starte
 
 4. **ARP Form21a in vets-website**
    - Description: This repository contains the implementation of the VA Form 21a for the Accredited Representative Portal (ARP) within its `vets-website` [Forms Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview) application.
-   - Link: [ARP Form21a in vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accreditation/21a)
+   - Link: [ARP Form21a in vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/accredited-representative-portal/accreditation/21a)
 
 5. **ARP Form21a in vets-api**
    - Description: This repository contains the implementation of the VA Form 21a for the Accredited Representative Portal (ARP) within its `vets-api` Rails engine.
    - Link: [ARP Form21a in vets-api](https://github.com/department-of-veterans-affairs/vets-api/blob/0a8561a81fe9455f7a1a2ba620f7b7b1ce1f0014/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/v0/form21a_controller.rb)
+
+## Architecture
+The [ARF engineering architectural decision record folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/ADRs) has some key architectural decisions as well as an [architecture overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/ADRs/arp-architecture-intent-meeting.md) that's worth getting familiar with.

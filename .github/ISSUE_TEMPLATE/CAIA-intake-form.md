@@ -1,26 +1,34 @@
 ---
 name: Sitewide Content, Accessibility, and IA Intake Form
-about: Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
+about: Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA)  team.
 title: "[CAIA Intake] <Team Name>: <Initiative Name>"
-labels: sitewide CAIA
+labels: sitewide CAIA,CAIA Intake
 assignees: strelichl,NaomiPMC
 
 ---
 # Content, accessibility, information architecture (CAIA) new initiative collaboration request
 
-Use this ticket to request collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
+Use this ticket to request collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) shared services team. Feel free to delete instructions and unselected options from the ticket to make it easier to scan.
 
-## About your team
+## Your team
 
-- **Team name**: `Insert name`
-- **OCTO product owner:** `Insert product owner`
-- **Product name:** `Insert product name`
-- **Product manager:**  `Insert product manager`
-- **Slack channel:** `Insert and link to OCTO slack channel`
-- **Dedicated content writer on your team (if you have one):** `Insert name and/or GH handle`
-- **Dedicated a11y specialist on your team (if you have one):** `Insert name and/or GH handle`
+
+- **Product name:**
+- **Team name**:
+- **OCTO product owner:** 
+- **Product manager:** 
+- **Designer(s):** 
+- **Slack channel:** 
+- **Dedicated content writer on your team (if you have one):** 
+- **Dedicated a11y specialist on your team (if you have one):**
+
+## Your CAIA team:
+_Filled out by CAIA_
+- **IA:** 
+- **Content:** 
+- **Accessibility:** 
  
-## About your initiative
+## Your Initiative
 
 ### Which of these descriptions best fits the work we’ll partner on?
 Select all that apply.
@@ -30,11 +38,14 @@ Select all that apply.
 - [ ] Translating a form or tool into Spanish
 - [ ] Adding new unauthenticated content to VA.gov
 - [ ] Updating existing unauthenticated content on VA.gov
-- [ ] Something else:  `insert description`
+- [ ] Something else:  
 
 ### What's the nature of your initiative and desired outcomes?
-
 `Tell us briefly about your work and the outcomes you’re aiming to achieve.`
+
+## Supporting artifacts
+Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. Include artifacts like your product outline, user flows, mockups and prototypes, or any draft content. FOR FIGMA/MURAL: please tell us which screens/board/section to look at so we don't leave comments on old stuff. 
+- [Supporting artifact<name>]
 
 ## Collaboration timeframe
 
@@ -74,10 +85,6 @@ Select all that apply.
 
 If you’re going through the collaboration cycle, provide a link to your Collaboration Cycle Request:
 - **Hyperlinked Ticket Number:** 
-
-## Supporting artifacts
-Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. Include artifacts like your product outline, user flows, mockups and prototypes, or any draft content.
-- [Supporting artifact<name>]
 
 ## Next steps
 - [ ] Review the remaining next steps in the **VFS team tasks** section here.

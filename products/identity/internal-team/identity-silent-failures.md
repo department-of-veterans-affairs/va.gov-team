@@ -1,0 +1,330 @@
+## Start
+
+- [x]  Do you know when your application shipped to production?
+    - JPN: *The current version has existed since at least 2017*
+- [x]  Did your application use the same APIs when it shipped as it does today?
+    - JPN: *We use some of the same and new ones*
+
+## Monitoring
+
+- [x]  Do you monitor the API that you submit to via Datadog?
+    - [MAP](https://vagov.ddog-gov.com/dashboard/8j2-b5n-kic/identity-map-securitytoken-service?fromUser=false&refresh_mode=sliding&from_ts=1727213098415&to_ts=1727299498415&live=true)
+        - [Alert link 1](https://vagov.ddog-gov.com/monitors/204497)
+        - [Alert link 2](https://vagov.ddog-gov.com/monitors/233525)
+    - [MPI](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=true&refresh_mode=paused&from_ts=1727285025593&to_ts=1727299425593&live=false&tile_focus=9002221376328820)
+        - [Alert link 1](https://vagov.ddog-gov.com/monitors/200810)
+        - [Alert link 2](https://vagov.ddog-gov.com/monitors/238295)
+- [x]  Does your Datadog monitoring use the appropriate tagging?
+    - Yes all our monitors have the identity team tag
+- [x]  Do errors detected by Datadog go into a Slack notifications channel?
+    - yes, [channel link](https://dsva.slack.com/archives/C02SBFQ22RL)
+- [x]  Does more than one person look at the Slack notifications channel containing errors on a daily basis?
+    - yes, we also page on call staff for high priority issues
+- [x]  Do the team members monitoring the Slack channel have a system for acknowledging and responding to the errors that appear there?
+    - yes, we have an [incident response process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/Monitoring%20and%20Alerting/Monitors_Alerts_Datadog.md) for Datadog alerts (currently being updated)
+
+## Reporting errors
+
+- [x]  Have you filed issues for errors that are appearing in Datadog / Slack?
+    -  Yes we file all bug fix and incident tickets in JIRA
+- [x]  Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
+    - Yes, a list of frontend errors can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Troubleshooting_logging).
+    - There are also backend related errors that a user may not be made aware of. These are listed in the Services section below.
+
+## Documentation
+
+- [x]  Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
+    - Diagrams added to [folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/identity)
+- [x]  Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
+    - yes, indicated in the Services section below
+- [ ] **TODO**  Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
+    - MPI would be the only system that falls into this category. Working with my PO to get the proper acknowledgement.
+
+## User experience
+
+- [x]  Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on [VA.gov](http://va.gov/) or the mobile application?
+    - Yes, frontend errors are documented [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Troubleshooting_logging) and diagrams for flows [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/identity).
+
+## Silent Failures
+
+We have two main services that may fall into the silent failure category. MPI and the Terms of Use solution. 
+
+- MPI
+    - MPI failure
+        - The error either raises or returns an error object, and the upstream service should be able to deal with both
+        - Some errors require manual resolution, but user would have catastrophic error in the meantime, so this should not be classified as a silent error
+    - MPI Users Controller Failure (this creates birls_id or participant_id)
+        - Failure is raised, so FE should know when this fails
+        - This is still not a submission though, so submissions that require this should still be able to error and show the appropriate error message on their own
+- Terms of use
+    - We would not place this in the silent failure category because if this controller fails the user cannot login and shown an error
+    - We have a sidekiq job that notifies a downstream system (SuS) of Terms of use decisions. When the job is exhausted we send the information manually to the SuS team for intervention. Again though, this isn't silent, the user is made aware by not being able to login.
+
+## Services
+
+### External Services
+
+- [ID.me](http://id.me/) service
+    - Usage
+        - Call [ID.me](http://id.me/) during authentication to retrieve user attributes and set up local `User` model
+    - Error Handling
+        - Client Errors are logged and re-raised
+        - Unexpected errors are not rescued
+    - Impact of error
+        - User will not be able to complete authentication
+    - Resolution
+        - User must attempt to re-authenticate
+        - User is redirected to frontend error page with help desk number
+    - Code location
+        - `lib/sign_in/idme/service.rb`
+- [Login.gov](http://login.gov/) service
+    - Usage
+        - Call [Login.gov](http://login.gov/) during authentication to retrieve user attributes and set up local `User` model
+    - Error Handling
+        - Client Errors are logged and re-raised
+        - Unexpected errors are not rescued
+    - Impact of error
+        - User will not be able to complete authentication
+    - Resolution
+        - User must attempt to re-authenticate
+        - User is redirected to frontend error page with help desk number
+    - Code location
+        - `lib/sign_in/logingov/service.rb`
+- MPI Service
+    - Usage
+        - Given identifiable attributes or identifier, retrieve exhaustive attribute data for user
+        - Add specific attributes for a user
+    - Error Handling
+        - Faraday, Breaker, GatewayTimeout, ClientErrors are caught and returned in descriptive error class
+        - Unexpected errors are not rescued
+    - Impact of error
+        - User attribute data cannot be retrieved
+        - User may not be able to authenticate
+        - User may not be able to update necessary attributes
+    - Resolution
+        - User must attempt to re-authenticate (if MPI error during auth flow)
+        - User is redirected to frontend error page with help desk number (if MPI error during auth flow)
+        - Certain logs sent to MPI administrators for manual fixes
+    - Code location
+        - `lib/mpi/service.rb`
+- MHV Account Creation service
+    - Usage
+        - Send request to MHV service to either create MHV backend account, or retrieve existing account identifier
+        - Enables access to MHV services
+    - Error Handling
+        - Parsing errors, Client errors are logged and re-raised
+        - Unexpected errors are not rescued
+    - Impact of error
+        - User cannot interface with MHV-related services
+    - Resolution
+        - User must attempt to re-authenticate
+        - User must reload page with MHV related functionality
+    - Code location
+        - `lib/mhv/account_creation/service.rb`
+- MAP Sign Up Service
+    - Usage
+        - Accept/Decline Terms of Use for authenticating User
+    - Error Handling
+        - Parsing errors, Client errors are logged and re-raised
+        - Unexpected errors are not rescued
+    - Impact of error
+        - User cannot authenticate on MHV or MVH websites
+    - Resolution
+        - User must attempt to re-authenticate
+    - Code location
+        - `lib/map/sign_up/service.rb`
+
+### Controllers
+
+- SessionsController
+    - Usage
+        - Facilitate SSOe authentication for [VA.gov](http://va.gov/)
+    - Error Handling
+        - All errors are rescued, logged, redirected to error page on frontend
+    - Impact of error
+        - User cannot authenticate
+    - Resolution
+        - User must attempt to re-authenticate
+        - User must follow steps on error page (such as making call to call center)
+    - Code location
+        - `app/controllers/v1/sessions_controller.rb`
+- UsersController
+    - Usage
+        - Serialize and return User attributes
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - User will be logged out
+    - Resolution
+        - User must attempt to re-authenticate
+    - Code location
+        - `app/controllers/v0/users_controller.rb`
+- TermsOfUseAgreementsController
+    - Usage
+        - Accept, Decline, check status of Terms of Use Agreements
+    - Error Handling
+        - Expected errors are rescued and specific error response is rendered
+    - Impact of error
+        - User will not be able to authenticate
+    - Resolution
+        - User must attempt to re-authenticate
+    - Code location
+        - `app/controllers/v0/terms_of_use_agreements_controller.rb`
+- SignInController
+    - Usage
+        - Facilitate Sign in Service authentication for [VA.gov](http://va.gov/) and VA flagship mobile app
+        - Facilitate system to system (STS) token generation
+    - Error Handling
+        - All errors are rescued, logged, redirected to error page on frontend
+        - For STS, expected errors are rescued, logged and render in a response
+    - Impact of error
+        - User cannot authenticate
+        - STS clients cannot authenticate with each other
+    - Resolution
+        - User must attempt to re-authenticate
+        - User must follow steps on error page (such as making call to call center)
+        - STS applications must attempt to generate token again
+    - Code location
+        - `app/controllers/v0/sign_in_controller.rb`
+- MPIUsersController
+    - Usage
+        - Create missing birls_id or participant_id for verified user that does not have them
+    - Error Handling
+        - No errors are rescued (error response will occur for all failures)
+    - Impact of error
+        - MPI will not add participant_id or birls_id for user
+    - Resolution
+        - Controller request must be attempted again
+        - Log must be collected and sent to MPI administrators for manual resolution
+    - Code location
+        - `app/controllers/v0/mpi_users_controller.rb`
+- MapServicesController
+    - Usage
+        - Facilitate token generation for MAP Services
+    - Error Handling
+        - Client error, GatewayTimeout errors are rescued and error response rendered
+        - Parameter errors are rescued and error response rendered
+        - Unexpected errors are not rescued
+    - Impact of error
+        - External service will not be able to procure token for MAP Services
+    - Resolution
+        - Token request must be attempted again
+    - Code location
+        - `app/controllers/v0/map_services_controller.rb`
+- TermsOfUseController
+    - Usage
+        - Retrieve status of latest terms of use agreement for authenticated user
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - External service will not be able to retrieve status of latest terms of use agreement
+    - Resolution
+        - Request must be attempted again
+    - Code location
+        - `app/controllers/sts/terms_of_use_controller.rb`
+- OpenidConnectCertificatesController
+    - Usage
+        - Retrieve public cert for Sign in Service
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - External service will not be able to retrieve public cert to confirm Sign in Service tokens
+    - Resolution
+        - Request must be attempted again
+    - Code location
+        - `app/controllers/sign_in/openid_connect_certificates_controller.rb`
+- ClientConfigsController
+    - Usage
+        - Update configurations for Sign in Service clients
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - External service will not be able to update Sign in Service configurations for their integrations
+    - Resolution
+        - Request must be attempted again
+    - Code Location
+        - `app/controllers/sign_in/client_configs_controller.rb`
+- ServiceAccountConfigsController
+    - Usage
+        - Update configurations for Sign in Service STS clients
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - External service will not be able to update Sign in Service STS configurations for their integrations
+    - Resolution
+        - Request must be attempted again
+    - Code Location
+        - `app/controllers/sign_in/service_account_configs_controller.rb`
+- AuthenticationAndSSOConcerns
+    - Usage
+        - Includes general authentication code for authenticated routes
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - Users will not be able to interact with authenticated routes
+    - Resolution
+        - Request must be attempted again
+        - User must authenticate again
+    - Code Location
+        - `app/controllers/concerns/authentication_and_sso_concerns.rb`
+
+### Sidekiq Jobs
+
+- SignUpServiceUpdaterJob
+    - Usage
+        - Updates Terms of Use Agreements for Sign Up Service
+    - Error Handling
+        - Errors are not rescued
+        - If job has reached number of retries, exhaustion log is sent
+    - Impact of error
+        - Users will not be able to authenticate on MHV
+        - Users will not be able to authenticate on MVH
+    - Resolution
+        - Job will retry for 48 hours
+        - If job is exhausted, monitor for exhausted jobs must be manually sent to Sign Up Service for resolution
+    - Code Location
+        - `app/sidekiq/terms_of_use`
+- DeleteExpiredSessionsJob
+    - Usage
+        - Remove Sign In Service Sessions that have expired
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - Sign in Service Sessions may remain even if they have expired
+    - Resolution
+        - Job must be run again
+    - Code Location
+        - `app/sidekiq/sign_in/delete_expired_sessions_job.rb`
+- CertificateCheckerJob
+    - Usage
+        - Checks qualities on certificates for Sign in Service and reports when they are expiring, expired, or self signed
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - Insight into certificate expiration or behaviors may be delayed in monitors
+    - Resolution
+        - Job must be run again
+    - Code Location
+        - `app/sidekiq/sign_in/certificate_checker_job.rb`
+- UserAcceptableVerifiedCredentialTotalsJob
+    - Usage
+        - Queries and logs number of users who have MHV and DSLogon credentials and not [ID.me](http://id.me/) or [Login.gov](http://login.gov/) credentials
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - Insight into qualities of user credentials may be delayed in monitors
+    - Resolution
+        - Job must be run again
+    - Code Location
+        - `app/sidekiq/identity/user_acceptable_verified_credential_totals_job.rb`
+- AccountLoginStatisticsJob
+    - Usage
+        - Queries and logs number of users who have logged into [VA.gov](http://va.gov/) over different periods of time in the pas
+    - Error Handling
+        - Errors are not rescued
+    - Impact of error
+        - Insight into user authentication behavior may be delayed in monitors
+    - Resolution
+        - Job must be run again
+    - Code Location
+        - `app/sidekiq/account_login_statistics_job.rb`

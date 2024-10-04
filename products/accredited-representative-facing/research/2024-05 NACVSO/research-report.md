@@ -410,10 +410,12 @@ While we didn’t identify specific individuals or organizations to pilot with, 
 ## Recommendations for ARP pilot
 
 ### 1. Adjust the unauthenticated homepage to align with user feedback.
-We recommend proceeding with [Homepage 4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=GgE0LX3xENrrjTv0-1), with key changes:
-- Shift headings to black text (as used in [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=GgE0LX3xENrrjTv0-1)) to improve readability.
-- Reconcile and avoid poor color contrast
-- Improve content strategy to make it more clear who the portal is for and that it is not intended for Veterans.
+We recommend proceeding with [Homepage 4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=GgE0LX3xENrrjTv0-1), which has some key changes:
+- Shifted headings to black text (as used in [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=GgE0LX3xENrrjTv0-1)) to improve readability.
+- Removed poor color contrast
+
+Continue to:
+- Explore improvements to content strategy to make it more clear who the portal is for and that it is not intended for Veterans.
 - Maintain VA branding and continue with clean, simple design that representatives prefer.
 
 ### 2. Refine the POA request list and search/filter UI.
@@ -480,6 +482,7 @@ Additional research questions surfaced in this study:
 ## Appendix
 - [Research plan](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Intercept%20Testing_%20Research%20Plan.pdf?csf=1&web=1&e=7iF0Bb) (Sharepoint)
 - [Conversation guide](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/052024_NACVSO%20Conversation%20Guide.pdf?csf=1&web=1&e=zphvgx) (Sharepoint)
+- [EnjoyHQ project](https://app.enjoyhq.com/projects/q7W5B6Wp4/plan)
 
 ### Tools used for synthesis
 - [Raw data from intercepts](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Raw%20data/NACVSO%20Intercept%20Data%20Entry%20(Responses).xlsx?d=wbb4fd1ce16b14ba0806312f2170d2587&csf=1&web=1&e=WZpGCh) (Sharepoint)
@@ -488,30 +491,30 @@ Additional research questions surfaced in this study:
 - [Claims Clinic notes](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/Claims%20Clinics%20Insights.docx?d=wb2d1bf7af2264435ac4f05a2d602892c&csf=1&web=1&e=XkaYyr) and [debrief recording](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/NACVSO_claimsclinic_debrief_recording.mp4?csf=1&web=1&e=wPYCcU) (Sharepoint)
 
 ### Pages and applications used
-Homepage prototypes (Figma)
-H1
-H2
-H3
-H4 
-Navigation/IA
-ARP Header
-ARP global menu drop downs
-POA request page prototypes (Figma)
-A2
-E1
-E2
-Decline message prototypes (Figma)
-Free-form
-Drop-down
-Mobile testing (Figma)
-A2 (mobile)
-E1 (mobile)
-E2 (mobile + tablet)
-Photos of talk-back boards (Sharepoint)
-What are your biggest challenges supporting Veterans?
-What would make the 21-22 (power of attorney) process easier?
-Tell us how you feel about…
-Find a Representative (VA.gov)
+- Homepage prototypes (Figma)
+  - [H1](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26317&t=MYl2yCMveAIJscuO-1)
+  - [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=MYl2yCMveAIJscuO-1)
+  - [H3](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26478&t=MYl2yCMveAIJscuO-1)
+  - [H4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=MYl2yCMveAIJscuO-1) 
+- Navigation/IA
+  - [ARP Header](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=57-61381&t=MYl2yCMveAIJscuO-1)
+  - [ARP global menu drop downs](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-202993&t=MYl2yCMveAIJscuO-1)
+- POA request page prototypes (Figma)
+  - [A2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-72051&t=MYl2yCMveAIJscuO-1)
+  - [E1](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-90007&t=MYl2yCMveAIJscuO-1)
+  - [E2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-107611&t=MYl2yCMveAIJscuO-1)
+- Decline message prototypes (Figma)
+  - [Free-form](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-125300&t=MYl2yCMveAIJscuO-1)
+  - [Drop-down](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=59-127195&t=MYl2yCMveAIJscuO-1)
+- Mobile testing (Figma)
+  - [A2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=215-4341&t=MYl2yCMveAIJscuO-1) (mobile)
+  - [E1](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=215-2014&t=MYl2yCMveAIJscuO-1) (mobile)
+  - [E2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=215-1129&t=MYl2yCMveAIJscuO-1) (mobile + tablet)
+- Photos of talk-back boards (Sharepoint)
+  - What are your biggest challenges supporting Veterans?
+  - What would make the 21-22 (power of attorney) process easier?
+  - Tell us how you feel about…
+- Find a Representative (VA.gov)
 
 ### Other supporting documents created
 The following artifacts were updated to reflect the findings presented in this report:
@@ -531,7 +534,7 @@ Notes taken at NACVSO sessions (Sharepoint):
 - [09/2023 Secondary Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-09-secondary-research/2023-09-secondary-research-accredited-representation-management.md) (GitHub)
 - [11/2023 Find a Representative User Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2023-11-ARM-findarep-nav-usertest) (GitHub)
 - [03/2024 Find a Representative LIVE User Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/45e6ae651cb6ba417e17ce63204069fb53fe0618/products/accredited-representation-management/research/2024-03-ARM-findarep-live-usertest) (GitHub)
-- [01/2024 VSO Listening Session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md) (GitHub)
+- [01/2024 VSO Listening Session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-01%20Listening%20Session/research-report.md) (GitHub)
 - [02/2024 VSO User Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews) (GitHub)
 - [04/2024 Veteran and Caregiver Representative Experience Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2024-04-ARM-veteran-representative-experience-interviews) (GitHub)
 

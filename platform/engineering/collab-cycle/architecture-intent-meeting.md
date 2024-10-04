@@ -1,14 +1,10 @@
 # Architecture Intent Meeting
 
-__*** DRAFT *** DRAFT *** DRAFT ***__
-
 The Architecture Intent meeting helps your team build a solution that meets VA.gov platform engineering and security standards and lowers the potential for launch-blocking issues later in the development cycle.
 
 ## What is the purpose of Architecture Intent meeting?
 
-The Architecture Intent meeting is less a formal presentation and more of a discussion.  It not only provides OCTO-DE and Platform with an early understanding of the product/feature your team wants to build, but is also an opportunity to collaborate and provide feedback on the intended implementation and surface any adjustments needed to meet VSP engineering and security standards. The focus is on making sure your code meets user needs within the constraints of the platform you're building on.
-
-TODO: emphasize that this is a low stakes, collaborative conversation to help connect eng teams with the information and resources they need to build great things
+The Architecture Intent meeting is an informal technical discussion about engineering and security, not a formal presentation.  It provides the OCTO-DE and Platform crews with an early understanding of the product/feature your team wants to build.  It's an opportunity to collaborate and provide feedback on the intended implementation and discover any adjustments needed to meet Platform engineering and security standards.  It helps make sure your code meets user needs within the constraints of the platform you're building on, and it helps connect teams with the information and resources they need to build great things.
 
 ## When to schedule an Architecture Intent meeting?
 
@@ -17,7 +13,7 @@ You should schedule an Architecture Intent meeting if any of these apply:
 - You have questions about one or more points on the template below.
 - You're having trouble locating or getting technical info from other stakeholders or system owners.
 - You're launching a new service or major new feature.
-- You're using an architecture pattern not currently found on the VA.gov platform.
+- You're using an architecture pattern not currently found on the VA.gov Platform.
 - You plan to use a new technology, library or dependency.
 - You're integrating with a new system or API, inside or outside of the VA.
 - Your change requires complex coordination across teams or you need support to coordinate across teams.
@@ -39,19 +35,23 @@ TODO: specify format for these docs and where they should live
 Some of the items below may not apply to your work--that's okay.  You may not be able to fill in some items that _do_ apply to your work--that's also okay.  If you don't have answers, please come ready to ask questions.
 
 - Product description
-    + Brief overview of motivation for the change
-    + Link to product document or GitHub issue
+    + Brief overview of motivation for the change from an engineering & security point of view
+    + Link to Collaboration Cycle Request issue
 - UX design description
     + For user-facing changes, link to UX prototype or wireframes if available
-    + Call out any engineering challenges; UX is reviewed in the Design Intent meeting
+    + Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
 - Frontend changes
     + Identify any significant code changes
     + Identify any new design system components needed or changes to current components
     + Describe any product analytics being gathered
 - Backend changes
     + Does the project introduce any new or unusual infrastructure dependencies?
+    + Do you need to poll any APIs for status?
+    + Are you handling all failure and error cases while in custody of your users's data?
 - Internal API changes
     + List new or modified APIs in `vets-api`
+    + Are you deprecating or removing any APIs?
+    + Do you have API documentation?
     + Describe expected call patterns
 - External API changes
     + List new or modified APIs for upstream or external systems
@@ -63,7 +63,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - Data storage
     + Describe new or modified databases, tables or columns
     + Describe indexes and constraints
-    + Identify PII and PHI and where and how it will be stored and processed
+    + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
 - Libraries and dependencies
     + List new or updated dependences
 - Metrics, logging, observability, alerting
@@ -89,7 +89,7 @@ TODO: provide this checklist as a document template in a separate file
 
 ## Security checklist
 
-This checklist provides a high-level overview of key security requirements expected to be met by all new functionality implemented on the VA.gov platform. If any of the items on this checklist are unclear to you or you're unsure whether your intended architecture will comply with them, they should be brought up and discussed at the Architecture Intent meeting.
+This checklist provides a high-level overview of key security requirements expected to be met by all new functionality implemented on the VA.gov Platform. If any of the items on this checklist are unclear to you or you're unsure whether your intended architecture will comply with them, they should be brought up and discussed at the Architecture Intent meeting.
 
 This checklist is by no means a comprehensive list of all applicable security principles! Engineers building new functionality for VA.gov are expected to have experience with secure web application development principles and techniques and to apply them consistently in their work.
 
@@ -115,8 +115,8 @@ This checklist is by no means a comprehensive list of all applicable security pr
     + `vets-api` endpoints should use the [authentication][authn] and [authorization][authz] functionality provided by `vets-api`. Please don't roll your own.
     + Static API keys are not allowed for new inbound or outbound system-to-system authenticated integrations. Instead, they must utilize a pattern that complies with OAuth 2.0 JWT authorization standards. See, for example, the Identity team's [Service Account Auth (STS) documentation][sts].
         * New integrations that are not compliant with this requirement require an exemption with an approved justification.
-        * For assistance with satisfying this requirement, please consult with the Identity team.
-    + Integration endpoints with that use static API key authentication (with an exemption as described above), should support key rotation without downtime. This typically means the endpoint allows multiple keys to be active at the same time, so that the key can be rotated by first adding the new key to the endpoint, then changing the caller to use the new key, then finally removing the old key from the endpoint.
+        * For assistance with satisfying this requirement, please consult with the Identity team in [#identity-support](https://dsva.slack.com/archives/CSFV4QTKN).
+    + Integration endpoints that use static API key authentication (with an exemption as described above), should support key rotation without downtime. This typically means the endpoint allows multiple keys to be active at the same time, so that the key can be rotated by first adding the new key to the endpoint, then changing the caller to use the new key, then finally removing the old key from the endpoint.
 - Secrets should be stored in the AWS SSM Parameter Store as [described in the developer documentation][secrets]. Secrets should _never_ be hard-coded in source code or checked into GitHub.
 - TODO: Do we want to talk about internal administration / maintenance pages here? Do any such pages already exist within VA.gov, and are there documented patterns for how they should be implemented, protected from public access, etc.?
 

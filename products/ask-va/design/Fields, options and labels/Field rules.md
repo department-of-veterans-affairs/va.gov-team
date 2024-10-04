@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: August 8, 2024
+Last updated by @tygindraux: October 3, 2024
 
 This document is for our design team to communicate field rules.
 
@@ -10,10 +10,12 @@ This document is for our design team to communicate field rules.
   - [Social security number or service number](#social-security-number-or-service-number)
   - [Date of birth](#date-of-birth)
   - [Branch of service](#branch-of-service)
+  - [Roles](#roles)
   - [Location and postal code](#location-and-postal-code)
   - [School fields](#school-fields)
-  - [Medical facility](#medical-facility)
-  - [Contact options](#when-contact-options-are-enableddisabled)
+  - [Health facility](#health-facility)
+  - [State of property](#state-of-property)
+  - [Contact options](#contact-options)
   - [Gender](#gender)
   - [DoD/EDIPI number](#dodedipi-number)
   - [Reason you contacted us](#reason-you-contacted-us)
@@ -61,8 +63,28 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
 - Even if the question is **not** about the Veteran, we still need to require the Veteran's branch of service (for these categories and if it's not a general question).
 - While this data is in MPI, agents are not able to look this up using their MPI search tool in the CRM.
 
+## Roles
+The roles lists are different if it's an education question or not.
+
+If not education related, (default) roles list includes:
+- Accredited representative (such as an accredited attorney, claims agent, or Veterans Service Officer)
+- Fiduciary
+- Funeral director
+- On-the-job training or apprenticeship supervisor
+- School Certifying Official (SCO)
+- VA employee
+- Work study site supervisor
+- Other
+
+If education question, roles list includes:
+- On-the-job training or apprenticeship supervisor
+- School Certifying Official (SCO)
+- VA employee
+- Work study site supervisor
+- Other
+
 ## Location and postal code
-- Review [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for details.
+Please review [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for these rules.
 
 ## School fields
 |If|Then|Unless|
@@ -77,23 +99,32 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
   - If: Role = VA EMPLOYEE or WORK STUDY SITE SUPERVISOR or OTHER
     - Then: Require `State of facility'
 
-## Medical facility
+## Health facility
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Health care` and topic = `Prosthetics` `Audiology and hearing aids` `Getting care at a local VA medical center`|Require `Medical facility`||
 |Category = `Health care` and topic = all other topics|Don't include medical facility||
 |Category = `Debt` and topic = `Health care copay debt`|Require `Medical facility`||
-|Category = `Debt` and topic ≠ `Health care copay detb`|Don't include `Medical facility`||
+|Category = `Debt` and topic ≠ `Health care copay debt`|Don't include `Medical facility`||
 |All other categories|Don't include `Medical facility`||
 
-## When contact options are enabled/disabled
+- **If** we collect health facility then we don't also collect postal code (unless postal code is part of their mailing address and they choose US mail). 
+
+## State of property
+|If|Then|Unless|
+|:--|:--|:--|
+|Category = `Housing assistance and home loans` and topic = `Appraisals` `Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants`|Require `State of property`||
+|Category = `Housing assistance and home loans` and topic = all other topics|Don't include `State of property`||
+|All other categories|Don't include `State of property`||
+
+## Contact options
 - Review [Contact options by business line](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) for details.
 
 ## Gender
-- In June 2024, the Change Control Board voted in favor our removing this field from Ask VA.
+This field has been removed from Ask VA. In June 2024, the Change Control Board voted to remove it.
 
 ## DoD/EDIPI number
-- We agreed with business lines that this field will be removed from Ask VA because agents can look this up in MPI using first and last name, and DOB or SSN, all of which will be required.
+This field has been removed from Ask VA. We agreed with business lines that this field will be removed because agents can look this up in MPI using first and last name, and DOB or SSN, all of which will be required.
 
 ## Reason you contacted us
-- In June 2024, the Change Control Board voted in favor our removing this field from Ask VA.
+This field has been removed from Ask VA. In June 2024, the Change Control Board voted to remove it.

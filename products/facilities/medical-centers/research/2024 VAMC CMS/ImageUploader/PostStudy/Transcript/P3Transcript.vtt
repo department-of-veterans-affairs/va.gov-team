@@ -1,0 +1,3034 @@
+WEBVTT
+
+1
+00:00:00.010 --> 00:00:02.020
+David: The cloud great.
+
+2
+00:00:02.990 --> 00:00:09.659
+David: and I've started recording, I'd like to confirm. Are you comfortable if I record the screen and audio as we speak today.
+
+3
+00:00:09.870 --> 00:00:10.470
+Megan Zehnder: Yes.
+
+4
+00:00:11.360 --> 00:00:12.920
+David: Great, great, great, great.
+
+5
+00:00:13.020 --> 00:00:19.710
+David: Okay? So let's just kind of jump into it. Can you tell me a little bit about your role at the Va.
+
+6
+00:00:20.490 --> 00:00:28.170
+Megan Zehnder: Yes, so I work with the Cms pretty extensively. I am on a content.
+
+7
+00:00:28.470 --> 00:00:41.859
+Megan Zehnder: I'm I work on the Content side as a copy editor. So I work on a lot of the static pages so like any of the pages on Va. Gov. That people don't have to be authenticated to get into. Those are mostly the pages that we work on.
+
+8
+00:00:42.930 --> 00:00:43.760
+Megan Zehnder: Which
+
+9
+00:00:43.940 --> 00:00:46.698
+Megan Zehnder: many are on drupal. And
+
+10
+00:00:47.620 --> 00:00:55.997
+Megan Zehnder: we don't work with a ton of images regularly. On the like core benefit pages and
+
+11
+00:00:56.620 --> 00:01:00.389
+Megan Zehnder: resources and support pages that that we often are
+
+12
+00:01:00.400 --> 00:01:02.530
+Megan Zehnder: creating or editing or updating.
+
+13
+00:01:03.655 --> 00:01:04.750
+Megan Zehnder: But
+
+14
+00:01:04.830 --> 00:01:06.910
+Megan Zehnder: yeah, that's a little bit about my
+
+15
+00:01:07.000 --> 00:01:09.380
+Megan Zehnder: interactions with drupal.
+
+16
+00:01:09.440 --> 00:01:11.850
+Megan Zehnder: But we work kind of across
+
+17
+00:01:12.550 --> 00:01:20.650
+Megan Zehnder: lots of work with lots of teams, product teams and business lines. Any anything that kind of touches the
+
+18
+00:01:21.405 --> 00:01:23.830
+Megan Zehnder: content on va.gov.
+
+19
+00:01:24.530 --> 00:01:28.719
+David: Got it. So you said you don't often work with images, are there
+
+20
+00:01:28.950 --> 00:01:37.590
+David: when you do work with images. Are there specific pages that you're working on more than others? Or is it kind of whatever comes up.
+
+21
+00:01:37.590 --> 00:01:46.060
+Megan Zehnder: Yeah. So I would say, it's not. It's like, not our standard. But there are occasionally times like, for instance, in the last week.
+
+22
+00:01:46.150 --> 00:01:49.850
+Megan Zehnder: when we put together a step by step
+
+23
+00:01:50.150 --> 00:02:02.304
+Megan Zehnder: process page that was this was in like the resources and support section of the site, which is where there are a lot of like questions and answers. That come up. This particular one was
+
+24
+00:02:03.620 --> 00:02:14.960
+Megan Zehnder: advising people on how to sign in and how to verify their account. And so there were a lot of screenshots involved. And so that was the main way that I was using the
+
+25
+00:02:15.210 --> 00:02:18.740
+Megan Zehnder: the upload image tool for that one.
+
+26
+00:02:19.680 --> 00:02:22.699
+Megan Zehnder: but it is a little bit more rare. But but
+
+27
+00:02:22.730 --> 00:02:24.440
+Megan Zehnder: you know, when we do use it.
+
+28
+00:02:24.700 --> 00:02:27.482
+Megan Zehnder: it's probably it's usually on pages that
+
+29
+00:02:28.500 --> 00:02:31.827
+Megan Zehnder: probably, you know, have a lot of traffic or or
+
+30
+00:02:33.010 --> 00:02:34.650
+Megan Zehnder: for whatever reason.
+
+31
+00:02:35.230 --> 00:02:37.599
+Megan Zehnder: lend itself to needing imagery.
+
+32
+00:02:38.380 --> 00:02:40.980
+David: Got it. Got it. So these are. It's not
+
+33
+00:02:41.150 --> 00:02:48.069
+David: so much on like an event or a story page, or it's more like instructional
+
+34
+00:02:48.390 --> 00:02:51.799
+David: lots of pictures. Got it. Okay.
+
+35
+00:02:51.960 --> 00:02:53.400
+Megan Zehnder: Yeah, more.
+
+36
+00:02:54.380 --> 00:02:55.010
+David: And
+
+37
+00:02:56.060 --> 00:03:08.749
+David: So generally, when you're receiving an image, or when you're like preparing an image for this, do you find yourself editing and cropping it beforehand or yeah, do you? Yeah.
+
+38
+00:03:08.750 --> 00:03:11.180
+Megan Zehnder: Yes, yes, so
+
+39
+00:03:11.860 --> 00:03:13.160
+Megan Zehnder: definitely
+
+40
+00:03:13.760 --> 00:03:16.862
+Megan Zehnder: cropping, at least in this instance. Last week.
+
+41
+00:03:17.570 --> 00:03:19.909
+Megan Zehnder: we kind of had to to
+
+42
+00:03:20.130 --> 00:03:22.019
+Megan Zehnder: crop them and get them and
+
+43
+00:03:22.040 --> 00:03:25.020
+Megan Zehnder: process them so that to try and get them consistent.
+
+44
+00:03:25.680 --> 00:03:32.559
+Megan Zehnder: a little bit more new at that process. And you know my background is more in content than I. I
+
+45
+00:03:32.640 --> 00:03:35.030
+Megan Zehnder: I struggled a bit with that process. But
+
+46
+00:03:37.200 --> 00:03:40.560
+Megan Zehnder: yes, in the rare instances that I have worked with
+
+47
+00:03:40.760 --> 00:03:42.000
+Megan Zehnder: images.
+
+48
+00:03:42.050 --> 00:03:45.119
+Megan Zehnder: I've done the processing and resizing
+
+49
+00:03:45.430 --> 00:03:47.329
+Megan Zehnder: before uploading.
+
+50
+00:03:48.010 --> 00:03:48.740
+David: Got it.
+
+51
+00:03:49.190 --> 00:03:55.240
+David: And that is the main goal for that to have just consistency. Or is there like
+
+52
+00:03:55.600 --> 00:03:56.660
+David: upload
+
+53
+00:03:56.670 --> 00:03:59.800
+David: problems or things that you're also trying to avoid
+
+54
+00:04:00.552 --> 00:04:02.600
+David: sizing. I don't know.
+
+55
+00:04:02.790 --> 00:04:04.770
+Megan Zehnder: Yeah, it's for consistency.
+
+56
+00:04:04.770 --> 00:04:07.590
+David: It's for consistency. Got it? Yeah.
+
+57
+00:04:07.860 --> 00:04:08.740
+David: okay.
+
+58
+00:04:08.990 --> 00:04:19.510
+David: great and do you find yourself using images from the media library as well? Or are you really just uploading new images as you need them?
+
+59
+00:04:19.820 --> 00:04:22.959
+Megan Zehnder: So for this instance, I did
+
+60
+00:04:23.310 --> 00:04:28.570
+Megan Zehnder: go back into the media library because I want it, like.
+
+61
+00:04:29.210 --> 00:04:48.219
+Megan Zehnder: for a couple of reasons, mostly to adjust all the alt text later, or to re upload a different size image because the 1st one didn't work out when I previewed it. So I went back into the media library, not so much to like see what was available, but more to
+
+62
+00:04:48.310 --> 00:04:49.520
+Megan Zehnder: revisit
+
+63
+00:04:49.730 --> 00:04:51.890
+Megan Zehnder: images that I already uploaded.
+
+64
+00:04:52.230 --> 00:04:57.219
+David: Revisit images you've already uploaded, and you mentioned kind of like when it's
+
+65
+00:04:57.240 --> 00:05:01.990
+David: when you see the image like in the preview. Then, you know it's good or not.
+
+66
+00:05:04.480 --> 00:05:08.930
+David: is this, this is at at what point in your workflow is this.
+
+67
+00:05:09.530 --> 00:05:10.575
+Megan Zehnder: So
+
+68
+00:05:12.320 --> 00:05:13.930
+Megan Zehnder: this is probably like
+
+69
+00:05:14.230 --> 00:05:20.183
+Megan Zehnder: kind of in the middle of the workflow, like I, or toward the end, possibly
+
+70
+00:05:21.100 --> 00:05:21.980
+Megan Zehnder: But
+
+71
+00:05:22.210 --> 00:05:26.120
+Megan Zehnder: like as I'm uploading images and trying to see
+
+72
+00:05:26.210 --> 00:05:31.879
+Megan Zehnder: how it's looking. I might test a different size to see how that works.
+
+73
+00:05:32.130 --> 00:05:32.880
+David: But.
+
+74
+00:05:32.880 --> 00:05:41.839
+Megan Zehnder: Maybe, like, for the most part, it's toward the end, when I'm trying to make everything consistent. And I might need to make adjustments to the photo or to the alt text.
+
+75
+00:05:43.660 --> 00:05:45.950
+Megan Zehnder: like, after everything else is in place.
+
+76
+00:05:46.380 --> 00:05:47.150
+David: I see.
+
+77
+00:05:47.530 --> 00:05:52.775
+David: Okay, great. So we'll jump into our 1st task. Now.
+
+78
+00:05:53.400 --> 00:05:56.400
+David: if you could open your Cms
+
+79
+00:05:56.979 --> 00:06:05.920
+David: and share your screen, that would be great and feel free to like log in or anything before you start sharing. If if you, if you want.
+
+80
+00:06:05.920 --> 00:06:07.439
+Megan Zehnder: Already. In. So let me.
+
+81
+00:06:07.675 --> 00:06:07.910
+David: Perkin.
+
+82
+00:06:07.910 --> 00:06:08.900
+Megan Zehnder: Be able to.
+
+83
+00:06:15.560 --> 00:06:16.450
+David: Receive.
+
+84
+00:06:16.450 --> 00:06:17.410
+Megan Zehnder: The Cms.
+
+85
+00:06:17.720 --> 00:06:19.580
+David: Yeah, I see it. That's perfect.
+
+86
+00:06:19.670 --> 00:06:26.999
+David: So I'm really curious about like the page that you said you were kind of working on right now.
+
+87
+00:06:28.125 --> 00:06:29.120
+David: And
+
+88
+00:06:29.410 --> 00:06:42.119
+David: maybe if you could show me how you you could either go to the original, the one that you're working on and show me kind of there, or if it'd be easier to do a new one, just to kind of see that process.
+
+89
+00:06:43.550 --> 00:06:45.590
+Megan Zehnder: Yeah, I can. This.
+
+90
+00:06:45.940 --> 00:06:48.909
+Megan Zehnder: I can show you the one that I was working on.
+
+91
+00:06:49.180 --> 00:06:50.670
+David: Step by step, got it.
+
+92
+00:06:50.670 --> 00:06:53.960
+Megan Zehnder: Step by step. Yeah, template. And
+
+93
+00:06:55.850 --> 00:06:57.320
+Megan Zehnder: we added.
+
+94
+00:06:59.670 --> 00:07:02.400
+Megan Zehnder: do you want to see the preview or the edit mode?
+
+95
+00:07:04.370 --> 00:07:12.560
+David: this I mean, yeah, this is what I'm I'm very interested in, just like this part. So the step by step, you're you're uploading these images to it.
+
+96
+00:07:12.770 --> 00:07:13.540
+Megan Zehnder: Yeah.
+
+97
+00:07:14.880 --> 00:07:16.155
+Megan Zehnder: And there were
+
+98
+00:07:18.310 --> 00:07:26.850
+Megan Zehnder: maybe like 2 editors in here, maybe 2 or 3. So at various points we were both adding images.
+
+99
+00:07:28.190 --> 00:07:29.110
+Megan Zehnder: So
+
+100
+00:07:29.390 --> 00:07:30.739
+Megan Zehnder: that's just another
+
+101
+00:07:31.120 --> 00:07:32.470
+Megan Zehnder: character. But
+
+102
+00:07:32.880 --> 00:07:37.479
+Megan Zehnder: there were many, and I went back to
+
+103
+00:07:38.910 --> 00:07:40.080
+Megan Zehnder: The
+
+104
+00:07:40.700 --> 00:07:47.998
+Megan Zehnder: I ended up. Sorry if I was scrolling. I ended up going back into the media library like several times, just to
+
+105
+00:07:51.600 --> 00:07:52.860
+Megan Zehnder: make sure that
+
+106
+00:07:52.980 --> 00:07:56.939
+Megan Zehnder: just to adjust the image size or to adjust the Alt text.
+
+107
+00:07:57.340 --> 00:07:57.870
+Megan Zehnder: Hmm.
+
+108
+00:07:57.880 --> 00:07:58.550
+David: Huh?
+
+109
+00:07:59.760 --> 00:08:00.840
+David: So I have
+
+110
+00:08:01.349 --> 00:08:05.029
+David: a couple of questions for you. The 1st is.
+
+111
+00:08:05.920 --> 00:08:09.140
+David: and what does consistency
+
+112
+00:08:09.490 --> 00:08:13.230
+David: mean to you? Is it like the same width size.
+
+113
+00:08:13.750 --> 00:08:14.389
+David: Is it something.
+
+114
+00:08:14.390 --> 00:08:15.460
+Megan Zehnder: Announce.
+
+115
+00:08:15.880 --> 00:08:18.260
+Megan Zehnder: So for this one.
+
+116
+00:08:19.330 --> 00:08:25.600
+Megan Zehnder: we're gonna probably revisit these images, or we're definitely revisiting them because they I'm still not happy with
+
+117
+00:08:25.880 --> 00:08:29.850
+Megan Zehnder: the resolution. I think it looks really pixelated.
+
+118
+00:08:31.470 --> 00:08:32.260
+Megan Zehnder: But
+
+119
+00:08:32.630 --> 00:08:38.200
+Megan Zehnder: or like the v 1, just to get this out because it was a little bit of a time. Crunch! We
+
+120
+00:08:40.059 --> 00:08:42.379
+Megan Zehnder: just went with these images and
+
+121
+00:08:42.400 --> 00:08:44.100
+Megan Zehnder: got them all
+
+122
+00:08:44.490 --> 00:08:45.380
+Megan Zehnder: in
+
+123
+00:08:47.120 --> 00:08:50.909
+Megan Zehnder: The consistency that we were looking for in this instance was like a consistent width.
+
+124
+00:08:51.650 --> 00:08:54.920
+Megan Zehnder: So I think we were able to generally
+
+125
+00:08:55.070 --> 00:08:56.340
+Megan Zehnder: achieve that.
+
+126
+00:08:57.570 --> 00:09:01.420
+Megan Zehnder: But again, like it's this is not perfect. And
+
+127
+00:09:04.190 --> 00:09:05.490
+Megan Zehnder: ideally.
+
+128
+00:09:05.630 --> 00:09:09.644
+Megan Zehnder: we would want these to have a better resolution.
+
+129
+00:09:11.760 --> 00:09:15.859
+Megan Zehnder: I think I don't know. I'm talking with the designer tomorrow to kind of get their perspective on
+
+130
+00:09:16.610 --> 00:09:17.300
+Megan Zehnder: how to
+
+131
+00:09:17.680 --> 00:09:19.070
+Megan Zehnder: make this better. But.
+
+132
+00:09:19.520 --> 00:09:20.409
+David: I see.
+
+133
+00:09:20.410 --> 00:09:21.020
+Megan Zehnder: Yeah.
+
+134
+00:09:21.580 --> 00:09:28.259
+David: Okay, that's great. Now, if you go back to that, I think the 1st tab. Yeah.
+
+135
+00:09:28.800 --> 00:09:30.290
+David: There's 1
+
+136
+00:09:30.360 --> 00:09:32.109
+David: I was hoping you could just
+
+137
+00:09:33.115 --> 00:09:39.020
+David: before like not saving it, but kind of walk me through your process of uploading an image. I think there's
+
+138
+00:09:39.488 --> 00:09:43.660
+David: one or 2 that don't have an image that maybe we could practice on.
+
+139
+00:09:44.290 --> 00:09:45.204
+Megan Zehnder: Sure.
+
+140
+00:09:48.210 --> 00:09:49.730
+Megan Zehnder: yeah, I guess I could add it.
+
+141
+00:09:49.810 --> 00:09:53.960
+Megan Zehnder: or maybe, should I just start? Maybe I'll start a new one. Just so I don't want to get.
+
+142
+00:09:54.410 --> 00:09:57.603
+David: Oh, yeah, whatever is easier or safer.
+
+143
+00:09:58.250 --> 00:09:59.840
+Megan Zehnder: Let me just start a new one, just
+
+144
+00:09:59.920 --> 00:10:03.009
+Megan Zehnder: in case someone needs to go into that post or something.
+
+145
+00:10:03.290 --> 00:10:03.670
+David: Absolutely.
+
+146
+00:10:06.480 --> 00:10:07.450
+Megan Zehnder: next up
+
+147
+00:10:14.580 --> 00:10:15.540
+Megan Zehnder: and
+
+148
+00:10:23.120 --> 00:10:24.290
+Megan Zehnder: so
+
+149
+00:10:26.730 --> 00:10:30.109
+Megan Zehnder: do you want to see my process, for, like how I resize them.
+
+150
+00:10:32.740 --> 00:10:40.390
+David: You can show that to me I'd be I yeah, I mean, whatever you'd like to show me, I I as you do your typical flow of an image.
+
+151
+00:10:40.690 --> 00:10:45.130
+Megan Zehnder: Okay, it definitely changed as I was working on this post, because
+
+152
+00:10:45.790 --> 00:10:53.014
+Megan Zehnder: at 1st I was just uploading them, kind of like as they were given to me. So.
+
+153
+00:10:55.500 --> 00:10:57.390
+Megan Zehnder: I had my
+
+154
+00:10:59.630 --> 00:11:02.350
+Megan Zehnder: sorry. This looks really disorganized because it was
+
+155
+00:11:02.670 --> 00:11:04.478
+Megan Zehnder: a quick process, but
+
+156
+00:11:05.830 --> 00:11:10.010
+Megan Zehnder: like I had my images that I was given, and then I
+
+157
+00:11:11.500 --> 00:11:12.860
+Megan Zehnder: added them.
+
+158
+00:11:13.927 --> 00:11:16.499
+Megan Zehnder: I added description
+
+159
+00:11:17.020 --> 00:11:17.900
+Megan Zehnder: like
+
+160
+00:11:24.690 --> 00:11:25.780
+Megan Zehnder: something like that.
+
+161
+00:11:25.860 --> 00:11:27.040
+Megan Zehnder: And then
+
+162
+00:11:27.480 --> 00:11:32.440
+Megan Zehnder: section. This was kind of annoying to scroll through. Why, but
+
+163
+00:11:32.710 --> 00:11:33.979
+Megan Zehnder: not going there.
+
+164
+00:11:38.330 --> 00:11:43.827
+Megan Zehnder: And then I I still I tried to make this a little bit different.
+
+165
+00:11:45.110 --> 00:11:50.430
+David: Yeah, what? I'm curious. What's the difference between the description and the alt text?
+
+166
+00:11:50.610 --> 00:11:53.329
+Megan Zehnder: Yeah. Well, I tried to.
+
+167
+00:11:54.130 --> 00:11:56.679
+Megan Zehnder: My, you know, from my understanding.
+
+168
+00:11:58.670 --> 00:12:02.149
+Megan Zehnder: tried to make all text a little bit more
+
+169
+00:12:02.440 --> 00:12:03.395
+Megan Zehnder: descriptive.
+
+170
+00:12:04.858 --> 00:12:07.719
+Megan Zehnder: And use this a little bit more as like
+
+171
+00:12:09.780 --> 00:12:11.069
+Megan Zehnder: the title
+
+172
+00:12:12.916 --> 00:12:17.630
+Megan Zehnder: but I don't have high confidence in how I was filling these out so.
+
+173
+00:12:18.970 --> 00:12:22.839
+David: And then I'm curious also about the sections.
+
+174
+00:12:23.315 --> 00:12:25.590
+David: You mentioned. It was a little bit.
+
+175
+00:12:27.130 --> 00:12:30.350
+David: I think he used the word frustrating or.
+
+176
+00:12:30.740 --> 00:12:36.259
+Megan Zehnder: Yeah, it just was like, I don't know what were the issues. I think that like, I would
+
+177
+00:12:36.300 --> 00:12:38.039
+Megan Zehnder: try and go down here.
+
+178
+00:12:38.060 --> 00:12:40.320
+Megan Zehnder: And then sometimes it would flip back up.
+
+179
+00:12:41.590 --> 00:12:43.980
+Megan Zehnder: not. I don't seem to be having that issue right now.
+
+180
+00:12:44.700 --> 00:12:48.059
+David: Okay. But there's there's a lot to kind of scroll through.
+
+181
+00:12:48.360 --> 00:12:52.589
+Megan Zehnder: For me. There is. Yeah, I don't know if everyone has the same view, but it
+
+182
+00:12:54.130 --> 00:12:55.679
+Megan Zehnder: it is a lot. Yeah.
+
+183
+00:12:56.090 --> 00:12:56.760
+David: Yeah.
+
+184
+00:12:57.200 --> 00:13:04.059
+David: is this the same? Is this the same view you typically have when you are selecting sections
+
+185
+00:13:04.180 --> 00:13:05.699
+David: in other places.
+
+186
+00:13:05.700 --> 00:13:14.109
+Megan Zehnder: Yeah, I think it is when we're when we're creating a new page. Then I I'm pretty sure it is. I can go and check. But
+
+187
+00:13:15.435 --> 00:13:16.270
+Megan Zehnder: yeah.
+
+188
+00:13:17.100 --> 00:13:19.449
+Megan Zehnder: And then, okay, so
+
+189
+00:13:19.670 --> 00:13:20.930
+Megan Zehnder: did that
+
+190
+00:13:21.630 --> 00:13:22.910
+Megan Zehnder: step one?
+
+191
+00:13:24.350 --> 00:13:27.629
+Megan Zehnder: Oh, I know something that was really frustrating.
+
+192
+00:13:27.650 --> 00:13:28.790
+Megan Zehnder: was
+
+193
+00:13:30.020 --> 00:13:32.880
+Megan Zehnder: I so in in the
+
+194
+00:13:33.400 --> 00:13:37.660
+Megan Zehnder: the image that I was adding like, sometimes I wanted to describe like.
+
+195
+00:13:37.820 --> 00:13:39.190
+Megan Zehnder: step one
+
+196
+00:13:39.850 --> 00:13:42.040
+Megan Zehnder: upload and upload
+
+197
+00:13:42.400 --> 00:13:49.509
+Megan Zehnder: an image of your Id, because that's what the picture was of, and I I couldn't do it because it had
+
+198
+00:13:50.230 --> 00:13:53.230
+Megan Zehnder: image of which I understand. Why that
+
+199
+00:13:53.930 --> 00:13:54.490
+Megan Zehnder: like? Why.
+
+200
+00:13:54.490 --> 00:14:01.200
+David: Oh, that's so interesting. Yeah, cause you're not using it as saying, this is an image of this. You're using it.
+
+201
+00:14:01.690 --> 00:14:04.610
+Megan Zehnder: Right, exactly so.
+
+202
+00:14:04.800 --> 00:14:05.680
+David: Yeah.
+
+203
+00:14:05.680 --> 00:14:07.049
+Megan Zehnder: For me. This was
+
+204
+00:14:07.100 --> 00:14:09.060
+Megan Zehnder: this was a problem.
+
+205
+00:14:10.350 --> 00:14:18.060
+Megan Zehnder: but you know I don't know how many times people are uploading images in this way. But I had to like
+
+206
+00:14:18.250 --> 00:14:20.799
+Megan Zehnder: I don't even know what I ended up doing, but I was like.
+
+207
+00:14:21.130 --> 00:14:22.440
+Megan Zehnder: upload
+
+208
+00:14:24.140 --> 00:14:28.479
+Megan Zehnder: your id or something. I don't. I don't know how I ended up wording it, but I had to.
+
+209
+00:14:28.880 --> 00:14:32.360
+Megan Zehnder: I had to really do some some results around that copy.
+
+210
+00:14:32.360 --> 00:14:33.210
+David: Yeah.
+
+211
+00:14:34.072 --> 00:14:36.320
+Megan Zehnder: Okay? And then I.
+
+212
+00:14:36.726 --> 00:14:42.820
+David: So I'm just curious about those cropping options. Are are you using any of those.
+
+213
+00:14:42.820 --> 00:14:45.240
+Megan Zehnder: Oh, are there cropping options.
+
+214
+00:14:45.610 --> 00:14:48.839
+David: Oh, yeah, no. That that. Okay. Now that.
+
+215
+00:14:48.840 --> 00:14:52.659
+Megan Zehnder: How do I? Okay, let me go back. And then can I let me
+
+216
+00:14:52.680 --> 00:14:54.289
+Megan Zehnder: look in the
+
+217
+00:14:56.365 --> 00:14:58.260
+Megan Zehnder: go back to the media library?
+
+218
+00:14:58.400 --> 00:15:02.299
+Megan Zehnder: My gosh, if I miss the crafting options completely.
+
+219
+00:15:03.966 --> 00:15:05.420
+Megan Zehnder: Okay, media.
+
+220
+00:15:09.380 --> 00:15:11.060
+Megan Zehnder: so I just did. Okay.
+
+221
+00:15:13.880 --> 00:15:19.600
+Megan Zehnder: Oh, this. Oh, big, these cropping images. Yeah, okay, so I did see these.
+
+222
+00:15:22.610 --> 00:15:24.910
+Megan Zehnder: I didn't know how
+
+223
+00:15:25.250 --> 00:15:33.289
+Megan Zehnder: to use this in a way that would be that would help me get consistency with all the other images, because all the other images
+
+224
+00:15:34.720 --> 00:15:36.180
+Megan Zehnder: we're coming from
+
+225
+00:15:36.240 --> 00:15:40.635
+Megan Zehnder: slightly different places. Maybe I should have thought about this a little differently. But
+
+226
+00:15:44.400 --> 00:15:45.350
+Megan Zehnder: yeah.
+
+227
+00:15:46.090 --> 00:15:48.130
+David: I I hear what you're saying. It's.
+
+228
+00:15:49.170 --> 00:15:49.680
+Megan Zehnder: Was not.
+
+229
+00:15:49.680 --> 00:15:51.549
+David: Not allowing you to
+
+230
+00:15:52.760 --> 00:15:57.030
+David: do something that's like consistent. Besides, it's like it's visual
+
+231
+00:15:57.220 --> 00:15:58.649
+David: cropping versus.
+
+232
+00:15:59.760 --> 00:16:08.790
+Megan Zehnder: Resizing right like I couldn't. I needed to resize. I think I it wasn't that I needed to crop. Necessarily, I needed to resize.
+
+233
+00:16:10.160 --> 00:16:11.080
+David: I see.
+
+234
+00:16:11.460 --> 00:16:14.929
+Megan Zehnder: So maybe there's a way to do this. But I didn't.
+
+235
+00:16:16.340 --> 00:16:17.480
+Megan Zehnder: I did not.
+
+236
+00:16:18.960 --> 00:16:21.909
+Megan Zehnder: I did not mess with it. I didn't. I didn't explore it.
+
+237
+00:16:23.380 --> 00:16:24.790
+Megan Zehnder: Instead, I used
+
+238
+00:16:24.870 --> 00:16:26.570
+Megan Zehnder: an outside program.
+
+239
+00:16:26.790 --> 00:16:28.250
+Megan Zehnder: I just use canva.
+
+240
+00:16:28.650 --> 00:16:35.440
+David: Canva. Okay? Yeah, I've I've heard that canvas very commonly used. So that's good.
+
+241
+00:16:35.440 --> 00:16:40.260
+Megan Zehnder: Yeah. And I I'll say that I struggled a lot with that because
+
+242
+00:16:42.970 --> 00:16:45.649
+Megan Zehnder: because I originally, we like
+
+243
+00:16:45.920 --> 00:16:48.610
+Megan Zehnder: put these in a word, Doc, and and
+
+244
+00:16:50.040 --> 00:16:53.529
+Megan Zehnder: tried to make them consistent in the word doc
+
+245
+00:16:53.860 --> 00:16:59.030
+Megan Zehnder: by adjusting their inches. So like we made all the images
+
+246
+00:16:59.700 --> 00:17:01.550
+Megan Zehnder: 2 and a half inches, or whatever.
+
+247
+00:17:02.440 --> 00:17:06.099
+Megan Zehnder: But then, for whatever reason, when we uploaded them in here.
+
+248
+00:17:06.940 --> 00:17:07.950
+Megan Zehnder: the
+
+249
+00:17:08.000 --> 00:17:12.829
+Megan Zehnder: the pixels were all different, so the images displayed
+
+250
+00:17:13.260 --> 00:17:15.060
+Megan Zehnder: in all different sizes.
+
+251
+00:17:15.390 --> 00:17:16.450
+Megan Zehnder: So
+
+252
+00:17:17.369 --> 00:17:26.030
+Megan Zehnder: so the adjustment that we made in the word Doc to adjust the the inches did not work. So what I ended up doing was
+
+253
+00:17:26.050 --> 00:17:28.169
+Megan Zehnder: uploading them all in canva.
+
+254
+00:17:28.300 --> 00:17:29.990
+Megan Zehnder: adjusting
+
+255
+00:17:30.040 --> 00:17:32.929
+Megan Zehnder: the image, sorry, adjusting the inches.
+
+256
+00:17:33.180 --> 00:17:43.199
+Megan Zehnder: and then like matching that with the pixels and sizing it that way. And I'm probably using this terminology all wrong, because I'm not a designer. But
+
+257
+00:17:43.280 --> 00:17:47.510
+Megan Zehnder: but there was something about like the inches and pixels
+
+258
+00:17:47.830 --> 00:17:50.859
+Megan Zehnder: that for whatever reason, the 1st round were not
+
+259
+00:17:50.930 --> 00:17:55.279
+Megan Zehnder: scaling together. And I had to try and like
+
+260
+00:17:56.680 --> 00:17:58.210
+Megan Zehnder: figure it out in canva.
+
+261
+00:18:01.340 --> 00:18:02.709
+David: Got it. Got it.
+
+262
+00:18:02.710 --> 00:18:03.850
+Megan Zehnder: You may.
+
+263
+00:18:04.420 --> 00:18:08.000
+David: Okay? And if we scroll down just a bit. So you typically
+
+264
+00:18:08.020 --> 00:18:11.039
+David: don't select any of these cropping options, you just kind of
+
+265
+00:18:11.420 --> 00:18:12.660
+David: go keep going.
+
+266
+00:18:12.660 --> 00:18:20.909
+Megan Zehnder: I I have not. I can imagine, though, if I like, had an image, and I just needed a little part of it. Maybe I would
+
+267
+00:18:21.730 --> 00:18:22.960
+Megan Zehnder: use this.
+
+268
+00:18:24.600 --> 00:18:27.699
+Megan Zehnder: But I would say like, this is a little bit not
+
+269
+00:18:28.840 --> 00:18:31.009
+Megan Zehnder: clear to me like what this part.
+
+270
+00:18:31.060 --> 00:18:32.910
+Megan Zehnder: what the ratios mean.
+
+271
+00:18:35.440 --> 00:18:36.260
+David: Okay.
+
+272
+00:18:37.346 --> 00:18:38.320
+David: and then
+
+273
+00:18:38.730 --> 00:18:42.729
+David: I know we're on kind of like the the image thing itself.
+
+274
+00:18:44.450 --> 00:18:54.079
+David: but if we were back on the page that we were on before, where we were like uploading the image. You had 2 options insert and select and insert.
+
+275
+00:18:54.240 --> 00:18:57.159
+David: or save and save and select and save and insert.
+
+276
+00:18:57.340 --> 00:18:58.760
+David: and I'm curious.
+
+277
+00:18:59.645 --> 00:19:01.789
+David: Which one you.
+
+278
+00:19:04.210 --> 00:19:07.359
+Megan Zehnder: Yeah, let me go back to that page.
+
+279
+00:19:10.810 --> 00:19:11.660
+Megan Zehnder: hold on
+
+280
+00:19:12.200 --> 00:19:13.360
+Megan Zehnder: November
+
+281
+00:19:16.940 --> 00:19:17.680
+Megan Zehnder: test.
+
+282
+00:19:18.570 --> 00:19:19.400
+Megan Zehnder: He's gonna
+
+283
+00:19:21.360 --> 00:19:22.260
+Megan Zehnder: hmm
+
+284
+00:19:25.514 --> 00:19:28.586
+Megan Zehnder: know how I got back to that page.
+
+285
+00:19:38.570 --> 00:19:39.430
+Megan Zehnder: Hold on
+
+286
+00:19:39.850 --> 00:19:40.840
+Megan Zehnder: instead.
+
+287
+00:19:42.620 --> 00:19:44.710
+David: Oh, maybe didn't! Oh.
+
+288
+00:19:44.710 --> 00:19:46.100
+Megan Zehnder: Did I not save it?
+
+289
+00:19:46.610 --> 00:19:49.420
+David: Yeah, maybe we didn't save the page.
+
+290
+00:19:50.180 --> 00:19:53.010
+Megan Zehnder: And then I just exited out of it. Suddenly.
+
+291
+00:19:53.210 --> 00:19:53.989
+David: There's a
+
+292
+00:19:54.140 --> 00:19:56.659
+David: is it, Champ? I I don't know.
+
+293
+00:19:57.020 --> 00:20:00.809
+Megan Zehnder: Well, okay, let me go back into this page.
+
+294
+00:20:06.870 --> 00:20:07.980
+Megan Zehnder: and I'll
+
+295
+00:20:10.800 --> 00:20:11.970
+Megan Zehnder: I can try them.
+
+296
+00:20:56.740 --> 00:20:59.050
+Megan Zehnder: Okay. So I did my description.
+
+297
+00:21:01.630 --> 00:21:02.760
+Megan Zehnder: It does
+
+298
+00:21:06.120 --> 00:21:07.170
+Megan Zehnder: on my.
+
+299
+00:21:07.370 --> 00:21:08.560
+Megan Zehnder: I'll text
+
+300
+00:21:15.139 --> 00:21:19.940
+David: A couple of questions. Actually, do you ever find yourself unchecking the reusable.
+
+301
+00:21:21.180 --> 00:21:22.230
+Megan Zehnder: I don't.
+
+302
+00:21:25.540 --> 00:21:26.250
+Megan Zehnder: Okay.
+
+303
+00:21:27.840 --> 00:21:28.590
+David: And then
+
+304
+00:21:29.600 --> 00:21:34.899
+David: my other question is, Yeah, what's the difference between save and select and save and insert.
+
+305
+00:21:47.220 --> 00:21:54.189
+Megan Zehnder: I don't know, I guess, save and insert. It goes right into the the post right away. But I did not
+
+306
+00:21:56.710 --> 00:21:58.510
+Megan Zehnder: really. I did not
+
+307
+00:21:58.950 --> 00:22:03.709
+Megan Zehnder: think about these very intentionally. I just went with the one that was selected.
+
+308
+00:22:04.200 --> 00:22:04.940
+David: Okay.
+
+309
+00:22:05.090 --> 00:22:05.710
+Megan Zehnder: Yeah.
+
+310
+00:22:06.640 --> 00:22:08.440
+David: Great, great, great, great.
+
+311
+00:22:08.460 --> 00:22:10.319
+David: Okay, though
+
+312
+00:22:11.160 --> 00:22:12.450
+David: overall.
+
+313
+00:22:12.590 --> 00:22:16.059
+David: How? How was that experience for you filling this out.
+
+314
+00:22:21.400 --> 00:22:23.870
+Megan Zehnder: I mean, outside of, like the
+
+315
+00:22:24.910 --> 00:22:29.079
+Megan Zehnder: massive problems I had with trying to get a consistent
+
+316
+00:22:29.700 --> 00:22:34.419
+Megan Zehnder: like width or image of my source images.
+
+317
+00:22:34.590 --> 00:22:38.339
+Megan Zehnder: So maybe that's like out of scope, out of scope on a different issue.
+
+318
+00:22:39.570 --> 00:22:41.240
+Megan Zehnder: This was.
+
+319
+00:22:43.710 --> 00:22:47.680
+Megan Zehnder: it wasn't like a horrible experience like I was able to go
+
+320
+00:22:47.930 --> 00:22:49.300
+Megan Zehnder: into the
+
+321
+00:22:49.890 --> 00:22:51.470
+Megan Zehnder: media library
+
+322
+00:22:51.600 --> 00:22:53.053
+Megan Zehnder: pretty easily.
+
+323
+00:22:53.880 --> 00:22:55.659
+Megan Zehnder: and find the image.
+
+324
+00:22:58.970 --> 00:23:01.229
+Megan Zehnder: yeah, I wouldn't say that like
+
+325
+00:23:03.650 --> 00:23:04.670
+Megan Zehnder: this
+
+326
+00:23:04.730 --> 00:23:08.709
+Megan Zehnder: felt very useful to me, like in in its current iteration.
+
+327
+00:23:14.900 --> 00:23:16.480
+Megan Zehnder: it's a cute one.
+
+328
+00:23:17.810 --> 00:23:19.740
+Megan Zehnder: Yeah, you get one.
+
+329
+00:23:19.740 --> 00:23:20.710
+David: Curious.
+
+330
+00:23:21.350 --> 00:23:24.520
+David: When do you think something like this would be valuable.
+
+331
+00:23:25.130 --> 00:23:26.300
+David: or could it be.
+
+332
+00:23:28.130 --> 00:23:29.255
+Megan Zehnder: Yeah,
+
+333
+00:23:38.580 --> 00:23:40.560
+Megan Zehnder: I guess if you're trying to like
+
+334
+00:23:40.680 --> 00:23:44.759
+Megan Zehnder: if you have a huge screenshot, and you're like, I just want this part.
+
+335
+00:23:45.530 --> 00:23:47.010
+Megan Zehnder: So I'm gonna
+
+336
+00:23:47.350 --> 00:23:48.930
+Megan Zehnder: but like, why is it?
+
+337
+00:23:49.630 --> 00:23:51.499
+Megan Zehnder: Why does it seem like I can
+
+338
+00:23:51.890 --> 00:23:53.559
+Megan Zehnder: adjust it? But then I can't.
+
+339
+00:23:55.370 --> 00:23:57.369
+David: Yeah, I'm not sure about that one.
+
+340
+00:23:58.680 --> 00:24:03.120
+Megan Zehnder: Yeah. But I guess, like, if you're if you just have a large image and you're trying to.
+
+341
+00:24:03.430 --> 00:24:06.429
+Megan Zehnder: and you don't feel comfortable. And outside
+
+342
+00:24:07.810 --> 00:24:10.510
+Megan Zehnder: editing software. Then
+
+343
+00:24:11.110 --> 00:24:12.960
+Megan Zehnder: then they're like, it is
+
+344
+00:24:13.870 --> 00:24:15.789
+Megan Zehnder: nice to have at least some
+
+345
+00:24:16.490 --> 00:24:19.539
+Megan Zehnder: way to edit the photo in this tool.
+
+346
+00:24:20.090 --> 00:24:20.900
+David: Yeah.
+
+347
+00:24:20.900 --> 00:24:21.949
+Megan Zehnder: But it is.
+
+348
+00:24:22.450 --> 00:24:25.629
+Megan Zehnder: It's a little tricky. Oh, I guess. Okay, that's when you do preform.
+
+349
+00:24:26.590 --> 00:24:27.690
+Megan Zehnder: Great. Oh.
+
+350
+00:24:27.690 --> 00:24:29.690
+David: Okay. So now.
+
+351
+00:24:29.740 --> 00:24:35.200
+David: I'm gonna shift us to our next part of this, where I'm gonna send you
+
+352
+00:24:35.380 --> 00:24:37.929
+David: a prototype that we're working on.
+
+353
+00:24:38.780 --> 00:24:39.390
+Megan Zehnder: Okay.
+
+354
+00:24:40.218 --> 00:24:43.280
+David: So I'm gonna go ahead and just share it in chat.
+
+355
+00:25:07.260 --> 00:25:17.980
+David: And we're gonna do probably a little bit of pretending here. So the prototype that we have is for events.
+
+356
+00:25:18.260 --> 00:25:19.180
+David: It's
+
+357
+00:25:20.790 --> 00:25:32.010
+David: There are the the module for the actual like image uploader is the same. This is just kind of an event. Situation? So there are certain things that are
+
+358
+00:25:32.040 --> 00:25:36.400
+David: the same, certain things that are different than your workflow. But yeah, hopefully, we can.
+
+359
+00:25:38.040 --> 00:25:39.881
+David: And I got through that
+
+360
+00:25:40.450 --> 00:25:47.640
+David: and let's go into the left nav. There's like a proposed flow and a current flow. Let's do the proposed flow.
+
+361
+00:25:49.110 --> 00:25:50.790
+David: And then what I'd
+
+362
+00:25:51.710 --> 00:25:57.670
+David: like you do is imagine that you've started to create a new event for veterans.
+
+363
+00:25:57.700 --> 00:26:00.529
+David: Okay, you've entered the date and time.
+
+364
+00:26:01.027 --> 00:26:03.600
+David: Which va location. It's going to be
+
+365
+00:26:03.982 --> 00:26:07.109
+David: happening at. And now it's time to upload that image.
+
+366
+00:26:10.030 --> 00:26:13.600
+David: So yeah, I'd like for you to show me how you would go ahead and do that.
+
+367
+00:26:14.550 --> 00:26:16.560
+Megan Zehnder: I say, I have my image ready.
+
+368
+00:26:17.470 --> 00:26:25.920
+David: Yeah. And it, it's kind of baked into this. So you can't really drag and drop. But like, if you do the things that you would normally do. You'll see
+
+369
+00:26:26.760 --> 00:26:27.709
+David: the more problem.
+
+370
+00:26:28.110 --> 00:26:29.640
+Megan Zehnder: Okay. You want me to keep going.
+
+371
+00:26:30.120 --> 00:26:31.279
+David: Yep. Yep.
+
+372
+00:26:36.100 --> 00:26:37.080
+Megan Zehnder: Nice.
+
+373
+00:26:39.860 --> 00:26:44.369
+Megan Zehnder: Okay? So all they all have to be the same aspect. Ratio.
+
+374
+00:26:46.020 --> 00:26:46.710
+Megan Zehnder: Okay.
+
+375
+00:26:47.140 --> 00:26:49.370
+David: And that that's an events, thing.
+
+376
+00:26:49.370 --> 00:26:50.730
+Megan Zehnder: Okay, so that's
+
+377
+00:26:51.150 --> 00:26:52.880
+Megan Zehnder: got it. That makes sense. Okay.
+
+378
+00:26:58.780 --> 00:26:59.670
+Megan Zehnder: yes.
+
+379
+00:27:13.350 --> 00:27:17.539
+Megan Zehnder: What would I do if I was like, oh, wait! I actually don't like where that
+
+380
+00:27:20.210 --> 00:27:23.640
+Megan Zehnder: like, how I edit, how I adjusted that!
+
+381
+00:27:24.560 --> 00:27:25.750
+Megan Zehnder: Is there
+
+382
+00:27:26.330 --> 00:27:28.209
+Megan Zehnder: something I can do to
+
+383
+00:27:28.650 --> 00:27:29.460
+Megan Zehnder: go back.
+
+384
+00:27:32.220 --> 00:27:34.019
+David: Yeah. What do you? What do you think?
+
+385
+00:27:34.430 --> 00:27:35.550
+David: What would you like.
+
+386
+00:27:37.960 --> 00:27:40.019
+Megan Zehnder: I guess I would.
+
+387
+00:27:43.080 --> 00:27:45.610
+Megan Zehnder: maybe finish editing this and go back
+
+388
+00:27:45.640 --> 00:27:51.269
+Megan Zehnder: to the media library to see if I can like readjust that or something.
+
+389
+00:27:51.790 --> 00:27:54.930
+David: Okay, you would go back to the media library to readjust that.
+
+390
+00:27:55.090 --> 00:27:55.800
+Megan Zehnder: Yeah.
+
+391
+00:27:56.000 --> 00:27:58.279
+Megan Zehnder: or but if there was like a
+
+392
+00:27:59.410 --> 00:28:02.309
+Megan Zehnder: little edit icon or something, then I would
+
+393
+00:28:03.240 --> 00:28:06.420
+Megan Zehnder: click on that to try and get back to the edit screen.
+
+394
+00:28:06.870 --> 00:28:10.290
+David: Gotcha, and what would happen if you pressed X.
+
+395
+00:28:11.280 --> 00:28:12.229
+Megan Zehnder: I don't know.
+
+396
+00:28:13.270 --> 00:28:15.909
+Megan Zehnder: Oh, and go away. Yeah, that makes sense. Okay.
+
+397
+00:28:16.733 --> 00:28:18.860
+Megan Zehnder: then I would just re upload it.
+
+398
+00:28:19.420 --> 00:28:21.579
+Megan Zehnder: Okay, yeah, that that makes sense.
+
+399
+00:28:23.115 --> 00:28:23.970
+Megan Zehnder: Yeah.
+
+400
+00:28:23.970 --> 00:28:25.580
+David: Yeah, that part's not gonna work.
+
+401
+00:28:25.580 --> 00:28:26.400
+Megan Zehnder: Thank you.
+
+402
+00:28:27.090 --> 00:28:30.569
+Megan Zehnder: But okay, so I could adjust it. There, continue.
+
+403
+00:28:31.090 --> 00:28:32.180
+Megan Zehnder: Add my Alt text.
+
+404
+00:28:33.490 --> 00:28:35.090
+Megan Zehnder: adjust, file, name.
+
+405
+00:28:35.400 --> 00:28:37.740
+Megan Zehnder: and I could remove it here and then.
+
+406
+00:28:39.380 --> 00:28:40.739
+David: You can click that.
+
+407
+00:28:47.230 --> 00:28:48.850
+Megan Zehnder: Yeah, that feels right?
+
+408
+00:29:02.360 --> 00:29:03.680
+David: Would would
+
+409
+00:29:03.980 --> 00:29:06.440
+David: editing at this stage.
+
+410
+00:29:07.390 --> 00:29:11.530
+David: So so I guess. Actually let me take a step back. You
+
+411
+00:29:11.580 --> 00:29:15.729
+David: seemed a little hesitant, I think, with clicking that X
+
+412
+00:29:15.880 --> 00:29:18.329
+David: was. That was that for a reason.
+
+413
+00:29:20.460 --> 00:29:21.070
+David: Perfect.
+
+414
+00:29:22.890 --> 00:29:25.989
+David: or did he not? Did you notice it? Did you notice the act.
+
+415
+00:29:26.360 --> 00:29:27.890
+Megan Zehnder: I did notice it, and I.
+
+416
+00:29:27.890 --> 00:29:28.530
+David: Okay.
+
+417
+00:29:28.530 --> 00:29:30.770
+Megan Zehnder: I think, like my hesitation
+
+418
+00:29:31.230 --> 00:29:33.219
+Megan Zehnder: in pressing. That was that
+
+419
+00:29:33.350 --> 00:29:42.140
+Megan Zehnder: I wasn't necessarily ready to like, scrap everything and go back and find my image. I just wanted to like. Readjust it again.
+
+420
+00:29:43.680 --> 00:29:44.920
+Megan Zehnder: so
+
+421
+00:29:45.280 --> 00:29:48.239
+Megan Zehnder: like I just wanted to go one step back versus like
+
+422
+00:29:48.350 --> 00:29:54.330
+Megan Zehnder: 2 or 3. But it wasn't a bad experience I probably like. If I was unhappy with that.
+
+423
+00:29:55.250 --> 00:29:56.230
+Megan Zehnder: I think
+
+424
+00:29:56.930 --> 00:29:59.579
+Megan Zehnder: I would probably just start over, and
+
+425
+00:30:00.640 --> 00:30:01.330
+Megan Zehnder: you know, whatever.
+
+426
+00:30:01.330 --> 00:30:05.920
+David: I see, but it would be nicer to just go one step back rather than
+
+427
+00:30:06.040 --> 00:30:08.230
+David: the work you put in kind of being.
+
+428
+00:30:08.230 --> 00:30:10.890
+Megan Zehnder: Right? Yeah, to like find the image and upload it.
+
+429
+00:30:11.200 --> 00:30:11.740
+David: I see.
+
+430
+00:30:12.435 --> 00:30:13.130
+Megan Zehnder: But
+
+431
+00:30:13.670 --> 00:30:17.350
+Megan Zehnder: I think overall it was clean and easy, and
+
+432
+00:30:19.472 --> 00:30:22.069
+Megan Zehnder: it was a lot less like
+
+433
+00:30:22.700 --> 00:30:25.360
+Megan Zehnder: there was a lot less that was unclear.
+
+434
+00:30:25.954 --> 00:30:31.470
+Megan Zehnder: It was a pretty simple process, and I could like adjust it right away.
+
+435
+00:30:32.276 --> 00:30:33.859
+Megan Zehnder: So I like that part.
+
+436
+00:30:35.840 --> 00:30:41.659
+David: yeah, what's so yeah, you're kind of getting into this what stands out to you about this newer
+
+437
+00:30:42.640 --> 00:30:44.280
+David: update design.
+
+438
+00:30:44.650 --> 00:30:50.449
+Megan Zehnder: I think that there are fewer options which could be good in certain situations, and maybe
+
+439
+00:30:50.920 --> 00:30:53.811
+Megan Zehnder: not ideal in all situations.
+
+440
+00:30:54.500 --> 00:30:55.880
+Megan Zehnder: but like.
+
+441
+00:30:56.360 --> 00:31:00.040
+Megan Zehnder: I think, having like the one image ratio for
+
+442
+00:31:00.680 --> 00:31:02.100
+Megan Zehnder: certain templated
+
+443
+00:31:02.200 --> 00:31:04.700
+Megan Zehnder: spots is great because
+
+444
+00:31:07.180 --> 00:31:08.050
+Megan Zehnder: it just
+
+445
+00:31:09.220 --> 00:31:10.910
+Megan Zehnder: it just helps cut out a
+
+446
+00:31:11.640 --> 00:31:13.129
+Megan Zehnder: something to think about.
+
+447
+00:31:16.240 --> 00:31:19.179
+Megan Zehnder: I don't know. Can I go back to like in the
+
+448
+00:31:19.660 --> 00:31:26.460
+Megan Zehnder: to to just see what my options are if I upload it? And I realize like, oh, this looks way, too
+
+449
+00:31:26.990 --> 00:31:27.550
+Megan Zehnder: like the.
+
+450
+00:31:27.550 --> 00:31:28.230
+David: So.
+
+451
+00:31:28.240 --> 00:31:29.670
+Megan Zehnder: What work for this one.
+
+452
+00:31:29.670 --> 00:31:34.840
+David: Yeah, you can go back. You can use. So I have a current flow which is the exact
+
+453
+00:31:35.190 --> 00:31:41.839
+David: thing for the events right now, or you can go into the Cms and check it out yourself. Whatever is easiest.
+
+454
+00:31:42.100 --> 00:31:48.829
+Megan Zehnder: Okay, I think I just wanted to go. Yeah, this one. Okay. So okay, so I have this.
+
+455
+00:31:49.630 --> 00:31:51.130
+Megan Zehnder: and I select this
+
+456
+00:31:53.720 --> 00:32:01.119
+Megan Zehnder: So if I have an event that like this, ratio doesn't work, and I need to get like I need to change my
+
+457
+00:32:01.240 --> 00:32:03.339
+Megan Zehnder: image. I guess I just go back
+
+458
+00:32:04.620 --> 00:32:05.614
+Megan Zehnder: and
+
+459
+00:32:08.710 --> 00:32:11.490
+Megan Zehnder: take a new image, and that's what I would do.
+
+460
+00:32:12.680 --> 00:32:13.470
+Megan Zehnder: But
+
+461
+00:32:15.240 --> 00:32:17.520
+Megan Zehnder: I wonder if there should be
+
+462
+00:32:24.050 --> 00:32:27.649
+Megan Zehnder: Wonder if there's like any text that would be helpful. That's like
+
+463
+00:32:28.550 --> 00:32:30.609
+Megan Zehnder: what to do if like this.
+
+464
+00:32:30.970 --> 00:32:32.719
+Megan Zehnder: If the crop
+
+465
+00:32:33.500 --> 00:32:35.239
+Megan Zehnder: cropping tool doesn't
+
+466
+00:32:36.820 --> 00:32:39.380
+Megan Zehnder: is cutting off certain parts of your
+
+467
+00:32:40.190 --> 00:32:41.210
+Megan Zehnder: image.
+
+468
+00:32:44.690 --> 00:32:47.170
+Megan Zehnder: I don't know. Maybe it's intuitive, though, that you just
+
+469
+00:32:48.710 --> 00:32:52.819
+Megan Zehnder: I think what I would do personally is I would just say, Okay, this is not gonna work.
+
+470
+00:32:53.260 --> 00:33:00.110
+Megan Zehnder: the image. The source image doesn't work for what I need. So I need to go and figure out something else. I need to get a new one.
+
+471
+00:33:01.746 --> 00:33:04.199
+David: Yeah. If you go ahead and press back.
+
+472
+00:33:05.771 --> 00:33:08.338
+David: I'm curious if you
+
+473
+00:33:08.990 --> 00:33:13.260
+David: saw those recommended image size the bullets up top.
+
+474
+00:33:13.790 --> 00:33:15.370
+Megan Zehnder: Yeah, that is
+
+475
+00:33:16.030 --> 00:33:20.500
+Megan Zehnder: important to have. But I I would probably
+
+476
+00:33:21.930 --> 00:33:22.780
+Megan Zehnder: like.
+
+477
+00:33:24.190 --> 00:33:28.440
+Megan Zehnder: try what I have first.st And I and like, learn through the visual.
+
+478
+00:33:31.350 --> 00:33:32.140
+Megan Zehnder: But
+
+479
+00:33:32.690 --> 00:33:37.859
+Megan Zehnder: yeah, so I don't. I don't know that it necessarily needs to be repeated in here.
+
+480
+00:33:44.010 --> 00:33:47.530
+Megan Zehnder: yeah. So may actually, yeah, maybe. Then I go back and say, Okay.
+
+481
+00:33:51.410 --> 00:33:52.970
+Megan Zehnder: 1954.
+
+482
+00:33:58.280 --> 00:33:59.140
+Megan Zehnder: Yeah.
+
+483
+00:33:59.520 --> 00:34:00.880
+David: So I'm wondering
+
+484
+00:34:02.060 --> 00:34:06.229
+David: in your workflow if you, if you go ahead and press, cancel here.
+
+485
+00:34:06.230 --> 00:34:06.950
+Megan Zehnder: Okay.
+
+486
+00:34:08.560 --> 00:34:12.180
+David: Do you have your you? Do you have your image prepared
+
+487
+00:34:12.500 --> 00:34:14.060
+David: before you click.
+
+488
+00:34:14.989 --> 00:34:17.820
+David: add media, upload image, whatever it is.
+
+489
+00:34:18.290 --> 00:34:23.280
+David: Or are you kind of like clicking it, and then slowly gathering your
+
+490
+00:34:23.429 --> 00:34:26.639
+David: information, gathering your photos.
+
+491
+00:34:27.050 --> 00:34:28.620
+Megan Zehnder: Well, I think I
+
+492
+00:34:29.389 --> 00:34:36.599
+Megan Zehnder: ideally, I'd have everything ready. But I think there's it's just harder to know how it's gonna look
+
+493
+00:34:36.750 --> 00:34:42.499
+Megan Zehnder: in production until I can upload it and preview it. So there's just naturally going to be
+
+494
+00:34:43.510 --> 00:34:46.179
+Megan Zehnder: some like readjusting at that phase like.
+
+495
+00:34:46.409 --> 00:34:47.129
+David: You know.
+
+496
+00:34:47.130 --> 00:34:48.170
+Megan Zehnder: Even if I
+
+497
+00:34:48.510 --> 00:34:52.379
+Megan Zehnder: have all the images, and they're like all the right size.
+
+498
+00:34:52.710 --> 00:34:59.670
+Megan Zehnder: And I upload it. And I'm like, Oh, actually, like, I have the right size, but, like the main thing that I want is up here.
+
+499
+00:35:00.580 --> 00:35:03.849
+Megan Zehnder: So I'm gonna need to like rethink that and
+
+500
+00:35:03.910 --> 00:35:05.610
+Megan Zehnder: resize it, or something.
+
+501
+00:35:06.370 --> 00:35:07.130
+David: Got it.
+
+502
+00:35:07.130 --> 00:35:11.089
+Megan Zehnder: I think. I think this like is very helpful that it.
+
+503
+00:35:11.310 --> 00:35:14.459
+Megan Zehnder: you know it shows what part is going to be seen.
+
+504
+00:35:15.045 --> 00:35:17.170
+Megan Zehnder: And it's very clear, like
+
+505
+00:35:17.520 --> 00:35:20.270
+Megan Zehnder: what part is not going to be seen. So
+
+506
+00:35:20.700 --> 00:35:28.170
+Megan Zehnder: it's as like someone using this. It's so much more helpful to to get the preview. And
+
+507
+00:35:29.240 --> 00:35:32.499
+Megan Zehnder: see, get a, you know. Get a sense of what's going to be cropped
+
+508
+00:35:33.120 --> 00:35:37.170
+Megan Zehnder: at this phase rather than like as you're previewing it.
+
+509
+00:35:37.760 --> 00:35:38.260
+Megan Zehnder: Oh.
+
+510
+00:35:38.260 --> 00:35:39.980
+David: Okay. So you are saving
+
+511
+00:35:40.220 --> 00:35:45.589
+David: like a little bit of a few clicks by not having to like press preview. You're already getting.
+
+512
+00:35:46.180 --> 00:35:46.740
+Megan Zehnder: Right.
+
+513
+00:35:47.500 --> 00:35:49.170
+David: That preview. Okay.
+
+514
+00:35:49.170 --> 00:35:49.490
+Megan Zehnder: Yeah.
+
+515
+00:35:49.490 --> 00:35:52.800
+David: And that, and that's and that's helpful for you, and.
+
+516
+00:35:52.800 --> 00:35:55.090
+Megan Zehnder: Yeah, I think it's really helpful to see
+
+517
+00:35:55.280 --> 00:35:59.120
+Megan Zehnder: what is gonna get cropped out and what what will be
+
+518
+00:35:59.340 --> 00:36:00.180
+Megan Zehnder: in the
+
+519
+00:36:01.270 --> 00:36:02.970
+Megan Zehnder: in the post or in the page.
+
+520
+00:36:03.610 --> 00:36:04.780
+David: Got it. Got it?
+
+521
+00:36:05.243 --> 00:36:13.919
+David: Now, if you go ahead and click continue. I have a couple of other questions for you. One thing is.
+
+522
+00:36:14.120 --> 00:36:16.829
+David: I'm not even sure if you noticed that
+
+523
+00:36:16.900 --> 00:36:19.490
+David: this version removes description.
+
+524
+00:36:19.720 --> 00:36:20.650
+David: Field.
+
+525
+00:36:21.078 --> 00:36:22.789
+Megan Zehnder: Yeah, that is nice.
+
+526
+00:36:23.080 --> 00:36:24.760
+David: That is nice. You like that.
+
+527
+00:36:25.440 --> 00:36:26.999
+Megan Zehnder: Yeah, I think that
+
+528
+00:36:27.260 --> 00:36:33.779
+Megan Zehnder: that saves some time for me to figure out what I'm supposed, how I'm supposed to differentiate them.
+
+529
+00:36:35.060 --> 00:36:36.010
+Megan Zehnder: Hi.
+
+530
+00:36:37.230 --> 00:36:38.960
+Megan Zehnder: one thing.
+
+531
+00:36:39.090 --> 00:36:40.250
+Megan Zehnder: 2 like
+
+532
+00:36:40.840 --> 00:36:43.503
+Megan Zehnder: this might be a little bit of an aside, but
+
+533
+00:36:44.370 --> 00:36:52.390
+Megan Zehnder: I noticed in the current iteration, when I remove the image, the Alt text also gets removed.
+
+534
+00:36:52.410 --> 00:36:55.990
+Megan Zehnder: and that was a little bit of a frustrating point, because
+
+535
+00:36:57.100 --> 00:37:03.620
+Megan Zehnder: I had to go back and like I had to recreate it each time. If I didn't remember to save in advance.
+
+536
+00:37:03.760 --> 00:37:05.850
+Megan Zehnder: because when I remove the image
+
+537
+00:37:07.300 --> 00:37:11.440
+Megan Zehnder: like sometimes I just replaced it with a different size and
+
+538
+00:37:13.510 --> 00:37:15.830
+Megan Zehnder: and so like the Alt text.
+
+539
+00:37:17.480 --> 00:37:18.610
+Megan Zehnder: you know
+
+540
+00:37:18.780 --> 00:37:21.410
+Megan Zehnder: I want. I wanted it to remain the same.
+
+541
+00:37:21.680 --> 00:37:22.140
+David: And just.
+
+542
+00:37:22.140 --> 00:37:24.500
+Megan Zehnder: If we deleted it once I press remove
+
+543
+00:37:24.620 --> 00:37:25.345
+Megan Zehnder: so
+
+544
+00:37:27.900 --> 00:37:32.720
+Megan Zehnder: I don't know. Maybe like, if these 2 settings could stay like, I understand that
+
+545
+00:37:32.730 --> 00:37:34.360
+Megan Zehnder: the different file name. But
+
+546
+00:37:34.810 --> 00:37:35.730
+Megan Zehnder: that was just
+
+547
+00:37:36.520 --> 00:37:37.909
+Megan Zehnder: something I remembered.
+
+548
+00:37:38.690 --> 00:37:39.380
+David: Yeah.
+
+549
+00:37:40.930 --> 00:37:49.980
+David: yeah, that's interesting. So you'll you typically will enter in just as I'm like on the same page. You'll enter in your all text your section.
+
+550
+00:37:50.120 --> 00:37:57.639
+David: then. But the ish, I guess the difference is in the current version you're leaving. You're saving. You're committing.
+
+551
+00:37:57.690 --> 00:38:00.190
+David: Yeah? Then you're gonna go see? The preview.
+
+552
+00:38:00.320 --> 00:38:12.460
+Megan Zehnder: Right then I'm gonna go see the preview. And then I typically like multiple times in that last page I was working on, I would actually remove this, and I would re upload a different image that I had processed differently, and
+
+553
+00:38:12.830 --> 00:38:17.279
+Megan Zehnder: that I wanted to work with. And then I had to like, re-enter everything again
+
+554
+00:38:17.370 --> 00:38:18.599
+Megan Zehnder: which was annoying. Right.
+
+555
+00:38:18.880 --> 00:38:32.059
+David: I see. Yeah, now, does this process of like having the image here still like that is being cropped and like kind of giving you a more one to one preview. What you'll be seeing does that support
+
+556
+00:38:32.540 --> 00:38:37.260
+David: like your workflow still? Is that making it any easier.
+
+557
+00:38:37.630 --> 00:38:40.359
+Megan Zehnder: Yeah, I think it's really helpful to see
+
+558
+00:38:40.590 --> 00:38:46.310
+Megan Zehnder: how it's going to be cropped in this way. Yeah, I think this is helpful.
+
+559
+00:38:46.880 --> 00:38:47.610
+David: Great.
+
+560
+00:38:48.190 --> 00:38:49.705
+David: great, great, great
+
+561
+00:38:51.440 --> 00:38:59.100
+David: so are there any additional improvements or things you'd like to see in this prototype things that would make
+
+562
+00:38:59.430 --> 00:39:01.260
+David: your life easier
+
+563
+00:39:01.610 --> 00:39:03.900
+David: when uploading photos or images.
+
+564
+00:39:05.260 --> 00:39:07.409
+Megan Zehnder: If this was my main.
+
+565
+00:39:07.820 --> 00:39:09.400
+Megan Zehnder: Yeah, I think like.
+
+566
+00:39:12.020 --> 00:39:13.690
+Megan Zehnder: if if
+
+567
+00:39:13.800 --> 00:39:18.189
+Megan Zehnder: the content types that are working on only allowed for this
+
+568
+00:39:19.140 --> 00:39:20.839
+Megan Zehnder: aspect ratio
+
+569
+00:39:24.200 --> 00:39:27.850
+Megan Zehnder: Then this would be great, and it would feel easy, and it.
+
+570
+00:39:30.780 --> 00:39:32.719
+David: Now let's talk about
+
+571
+00:39:34.500 --> 00:39:39.140
+David: your step by step. Pages. I know this is just it's kind of different.
+
+572
+00:39:39.550 --> 00:39:40.300
+David: But
+
+573
+00:39:41.870 --> 00:39:42.720
+David: what
+
+574
+00:39:43.580 --> 00:39:47.629
+David: would you like to see in this, to make your step by step pages
+
+575
+00:39:47.890 --> 00:39:50.149
+David: image uploading a little bit easier.
+
+576
+00:39:55.790 --> 00:40:02.140
+Megan Zehnder: So I think a couple of things also, before I answer, Can I can. I just ask one more thing that I noticed?
+
+577
+00:40:02.613 --> 00:40:06.319
+Megan Zehnder: So this one out of one image uploaded?
+
+578
+00:40:08.630 --> 00:40:11.120
+Megan Zehnder: I don't totally know.
+
+579
+00:40:11.370 --> 00:40:15.169
+Megan Zehnder: Like, was there a spot where I could add more than one
+
+580
+00:40:15.200 --> 00:40:18.080
+Megan Zehnder: you're like? I guess I'm confused by seeing that text
+
+581
+00:40:18.400 --> 00:40:19.450
+Megan Zehnder: like what it
+
+582
+00:40:19.600 --> 00:40:23.399
+Megan Zehnder: what it means, cause I I didn't see anywhere in the flow
+
+583
+00:40:23.870 --> 00:40:26.319
+Megan Zehnder: place to add more than one.
+
+584
+00:40:28.090 --> 00:40:33.699
+David: Yeah, for event images. They require only one image. You can't put 2
+
+585
+00:40:33.880 --> 00:40:37.889
+David: or anything like that. Other pages might.
+
+586
+00:40:39.840 --> 00:40:41.169
+David: I think, have
+
+587
+00:40:41.260 --> 00:40:46.850
+David: several options in a single upload. But what what do you? What do you think?
+
+588
+00:40:47.070 --> 00:40:49.609
+David: Tell me more about why you're bringing this up? Yeah.
+
+589
+00:40:49.610 --> 00:40:53.380
+Megan Zehnder: I would just expect to see image uploaded. Checkmark.
+
+590
+00:40:53.830 --> 00:40:54.340
+Megan Zehnder: Oh.
+
+591
+00:40:54.340 --> 00:40:55.060
+David: Okay.
+
+592
+00:40:55.060 --> 00:40:56.013
+Megan Zehnder: I wouldn't.
+
+593
+00:40:57.500 --> 00:40:59.900
+Megan Zehnder: I think the one out of one
+
+594
+00:41:01.680 --> 00:41:02.620
+Megan Zehnder: just
+
+595
+00:41:03.400 --> 00:41:07.320
+Megan Zehnder: makes me confused about like if there is another
+
+596
+00:41:07.500 --> 00:41:09.670
+Megan Zehnder: place to add one or or
+
+597
+00:41:09.980 --> 00:41:11.309
+Megan Zehnder: like. Why it's
+
+598
+00:41:13.560 --> 00:41:15.950
+Megan Zehnder: but again, I'm not the
+
+599
+00:41:16.540 --> 00:41:21.970
+Megan Zehnder: maybe maybe for someone. It is meaningful because they don't know if they're supposed to add one or not.
+
+600
+00:41:22.930 --> 00:41:23.870
+Megan Zehnder: One
+
+601
+00:41:26.110 --> 00:41:27.389
+Megan Zehnder: so I don't know how.
+
+602
+00:41:28.210 --> 00:41:30.469
+David: You don't know how that one of one yeah, where it's.
+
+603
+00:41:30.470 --> 00:41:31.220
+Megan Zehnder: Yeah.
+
+604
+00:41:31.370 --> 00:41:32.510
+Megan Zehnder: yeah, right.
+
+605
+00:41:34.100 --> 00:41:34.560
+David: Okay.
+
+606
+00:41:34.560 --> 00:41:36.969
+Megan Zehnder: For someone else. It would make more sense. But.
+
+607
+00:41:37.630 --> 00:41:45.010
+David: So I'm curious now, like, if you had a magic wand right, you can wave it around and make yourself
+
+608
+00:41:45.230 --> 00:41:46.550
+David: the perfect
+
+609
+00:41:47.070 --> 00:41:48.510
+David: image uploader.
+
+610
+00:41:48.540 --> 00:41:51.709
+David: not for events, but for the work that you're working on.
+
+611
+00:41:51.710 --> 00:41:52.380
+Megan Zehnder: Yeah.
+
+612
+00:41:52.660 --> 00:41:54.240
+David: What might you
+
+613
+00:41:55.680 --> 00:41:56.620
+David: do?
+
+614
+00:41:58.770 --> 00:41:59.755
+Megan Zehnder: So.
+
+615
+00:42:00.820 --> 00:42:04.069
+Megan Zehnder: I mean the one I think one minor thing is just
+
+616
+00:42:04.130 --> 00:42:05.690
+Megan Zehnder: not deleting that
+
+617
+00:42:07.090 --> 00:42:11.580
+Megan Zehnder: alternate text. When I remove an image going back into
+
+618
+00:42:12.190 --> 00:42:14.529
+Megan Zehnder: like the same settings and a
+
+619
+00:42:14.860 --> 00:42:18.619
+Megan Zehnder: the media library. That's just a minor one.
+
+620
+00:42:21.300 --> 00:42:22.530
+Megan Zehnder: I
+
+621
+00:42:25.150 --> 00:42:26.739
+Megan Zehnder: go to the current flow.
+
+622
+00:42:27.800 --> 00:42:29.180
+Megan Zehnder: So is this.
+
+623
+00:42:31.110 --> 00:42:32.250
+Megan Zehnder: this is like.
+
+624
+00:42:33.440 --> 00:42:34.919
+Megan Zehnder: okay, yeah. This one.
+
+625
+00:43:15.860 --> 00:43:18.279
+Megan Zehnder: I feel like being able to
+
+626
+00:43:23.400 --> 00:43:31.410
+Megan Zehnder: like. If if I could see the full size, see? I don't. I don't know exactly what what would have made it easier in my.
+
+627
+00:43:33.560 --> 00:43:36.018
+Megan Zehnder: The page that I was working on
+
+628
+00:43:37.640 --> 00:43:40.959
+Megan Zehnder: like what I was looking for is some kind of like visual
+
+629
+00:43:41.680 --> 00:43:46.249
+Megan Zehnder: drag or drop like I guess I probably didn't go far enough in these
+
+630
+00:43:48.320 --> 00:43:50.210
+Megan Zehnder: or like resizing.
+
+631
+00:43:51.470 --> 00:43:55.010
+Megan Zehnder: But what I what was helpful for me in canva
+
+632
+00:43:55.130 --> 00:43:58.507
+Megan Zehnder: in the end was being able to.
+
+633
+00:44:07.420 --> 00:44:10.259
+Megan Zehnder: Oh, this is, we're almost done in 2 min.
+
+634
+00:44:10.650 --> 00:44:11.210
+Megan Zehnder: being able.
+
+635
+00:44:11.210 --> 00:44:12.160
+David: So I'm.
+
+636
+00:44:12.160 --> 00:44:12.940
+Megan Zehnder: Okay. Yeah.
+
+637
+00:44:12.940 --> 00:44:14.873
+David: Yeah, I'm okay. I'm here.
+
+638
+00:44:15.260 --> 00:44:16.920
+Megan Zehnder: Okay, cool and
+
+639
+00:44:18.390 --> 00:44:20.940
+Megan Zehnder: no, I'm rambling a bit.
+
+640
+00:44:23.710 --> 00:44:28.930
+Megan Zehnder: but I just wanted to like pull up what was useful for me in canva. And then.
+
+641
+00:44:29.360 --> 00:44:31.529
+David: Yeah, no, that'd be great to see.
+
+642
+00:44:31.530 --> 00:44:32.200
+Megan Zehnder: Okay.
+
+643
+00:44:36.920 --> 00:44:37.920
+Megan Zehnder: New.
+
+644
+00:44:39.360 --> 00:44:40.749
+Megan Zehnder: You can see my canva.
+
+645
+00:44:41.030 --> 00:44:42.130
+David: Yes, I can.
+
+646
+00:44:42.300 --> 00:44:42.940
+Megan Zehnder: Okay.
+
+647
+00:44:44.540 --> 00:44:48.692
+Megan Zehnder: all these pages that I was trying to work on.
+
+648
+00:44:53.460 --> 00:44:54.150
+Megan Zehnder: okay.
+
+649
+00:44:55.210 --> 00:44:56.150
+Megan Zehnder: So
+
+650
+00:44:59.130 --> 00:45:04.129
+Megan Zehnder: what I ended up doing was like looking at these inches and pixels, which.
+
+651
+00:45:09.050 --> 00:45:13.299
+Megan Zehnder: like maybe it would be helpful when I uploaded it. If if
+
+652
+00:45:14.150 --> 00:45:16.140
+Megan Zehnder: drupal would tell me like
+
+653
+00:45:16.480 --> 00:45:23.130
+Megan Zehnder: what the size is and what the what the width is like, either in pixels or inches, or something, so that I can.
+
+654
+00:45:24.500 --> 00:45:26.200
+Megan Zehnder: if I can.
+
+655
+00:45:27.330 --> 00:45:28.590
+Megan Zehnder: adjust it
+
+656
+00:45:28.850 --> 00:45:44.079
+Megan Zehnder: in drupal, and I can like see the numbers. Then I can see like, Oh, that is, that number is off like, if I if I saw when I uploaded it like, okay, this is 500 pixels by 1,800, and then the other. The next time I I
+
+657
+00:45:44.220 --> 00:45:50.670
+Megan Zehnder: upload another one it was like 1,800 pixels by 600. Then I could like tell that
+
+658
+00:45:50.760 --> 00:45:55.109
+Megan Zehnder: some things are off off because one is 501 is 1,800.
+
+659
+00:45:55.170 --> 00:45:57.890
+Megan Zehnder: So if I had some kind of like
+
+660
+00:45:58.240 --> 00:45:59.850
+Megan Zehnder: visual cue
+
+661
+00:46:00.060 --> 00:46:00.980
+Megan Zehnder: of
+
+662
+00:46:01.390 --> 00:46:04.006
+Megan Zehnder: the size that was uploading.
+
+663
+00:46:05.040 --> 00:46:07.840
+Megan Zehnder: I think it would be really helpful. And then.
+
+664
+00:46:07.890 --> 00:46:09.760
+Megan Zehnder: if there was a way
+
+665
+00:46:10.080 --> 00:46:16.410
+Megan Zehnder: to like, adjust it in there and just say, Okay, crop this down. And even if it scales it so it's not like
+
+666
+00:46:17.140 --> 00:46:20.559
+Megan Zehnder: cutting it off, but then scaling it to.
+
+667
+00:46:21.160 --> 00:46:27.080
+Megan Zehnder: it's like, no, I actually don't want this to be 2.7. I want I want to be 5 or whatever, and then upload that
+
+668
+00:46:28.600 --> 00:46:34.260
+Megan Zehnder: that would be really helpful. I you know that that and that's magic. Wand Ish, because
+
+669
+00:46:34.760 --> 00:46:37.800
+Megan Zehnder: I know that's like a lot, and we're not a
+
+670
+00:46:39.570 --> 00:46:41.706
+Megan Zehnder: image editing tool. But
+
+671
+00:46:43.040 --> 00:46:53.900
+Megan Zehnder: I just felt like I was uploading these, and I had no sense of like how I could even adjust it to to create a consistent like
+
+672
+00:46:54.180 --> 00:46:55.850
+Megan Zehnder: pixel width size.
+
+673
+00:46:57.340 --> 00:46:58.350
+Megan Zehnder: So
+
+674
+00:46:59.170 --> 00:47:02.600
+Megan Zehnder: anyway, that's what was, that's what was frustrating. But
+
+675
+00:47:03.200 --> 00:47:04.910
+Megan Zehnder: it. I eventually
+
+676
+00:47:05.870 --> 00:47:06.870
+Megan Zehnder: figured it out.
+
+677
+00:47:08.910 --> 00:47:12.609
+David: Thank you so much for sharing the canva. I think that's a really helpful
+
+678
+00:47:12.770 --> 00:47:15.889
+David: representation of how you're going through the flow currently and
+
+679
+00:47:16.060 --> 00:47:17.210
+David: well, definitely
+
+680
+00:47:17.330 --> 00:47:19.690
+David: talk about ways to, you know.
+
+681
+00:47:19.700 --> 00:47:24.770
+David: bridge that gap a little bit more. We do have a couple of questions from the group.
+
+682
+00:47:25.432 --> 00:47:44.820
+David: I'll read them out. But yeah, if any of the observers want to like, add, or or clarify anything, feel free to jump in christian asks in your current flow. Are you viewing the node to preview the image as opposed to reviewing the image only in the uploader model model
+
+683
+00:47:45.060 --> 00:47:45.860
+David: modal.
+
+684
+00:47:45.860 --> 00:47:48.380
+Megan Zehnder: Yes. So when I look at the
+
+685
+00:47:48.840 --> 00:47:50.020
+Megan Zehnder: the
+
+686
+00:47:50.350 --> 00:47:55.170
+Megan Zehnder: node, I'm doing the standard Cms preview, so that I see all of them
+
+687
+00:47:55.350 --> 00:47:56.980
+Megan Zehnder: once they're added.
+
+688
+00:47:57.630 --> 00:47:58.840
+Megan Zehnder: is that what you mean?
+
+689
+00:48:00.380 --> 00:48:01.080
+Megan Zehnder: Okay.
+
+690
+00:48:01.300 --> 00:48:03.810
+Christian Burk (Omaha, Nebr.): Yeah, that's what I was thinking. Thank you. Appreciate it.
+
+691
+00:48:04.040 --> 00:48:06.800
+Megan Zehnder: Yeah, definitely use the preview heavily.
+
+692
+00:48:07.430 --> 00:48:12.599
+David: Perfect and then we have another question from Megan in your current flow.
+
+693
+00:48:13.057 --> 00:48:20.199
+David: Did you upload images all at once in the media library? Or do you go one by one, as you go through each step.
+
+694
+00:48:24.520 --> 00:48:28.209
+Megan Zehnder: In this last instance I was.
+
+695
+00:48:30.300 --> 00:48:35.479
+Megan Zehnder: I did a little bit of both. I started adding them all at once, and then, when I realized
+
+696
+00:48:35.640 --> 00:48:37.709
+Megan Zehnder: this was not consistent.
+
+697
+00:48:37.800 --> 00:48:40.550
+Megan Zehnder: I kind of paused on that approach
+
+698
+00:48:41.120 --> 00:48:45.189
+Megan Zehnder: finish, getting all the content that I needed ready. And then
+
+699
+00:48:45.935 --> 00:48:51.279
+Megan Zehnder: and then just tried to figure out the image issue separately.
+
+700
+00:48:52.200 --> 00:48:56.259
+Megan Commons: Yeah. Cause I'm even thinking if you were going one by one like
+
+701
+00:48:56.890 --> 00:49:04.109
+Megan Commons: uploading them all at once would be even more work. Because then again, okay, let's re upload everything. Now that we got that. And that would, okay, okay.
+
+702
+00:49:04.110 --> 00:49:06.059
+Megan Zehnder: It was a lot of that.
+
+703
+00:49:06.060 --> 00:49:06.800
+Megan Commons: I believe it.
+
+704
+00:49:06.800 --> 00:49:11.069
+Megan Zehnder: I was not efficient, because I was just struggling a lot with the
+
+705
+00:49:12.140 --> 00:49:16.234
+Megan Zehnder: with my, you know, design ignorance. But it was
+
+706
+00:49:18.080 --> 00:49:24.309
+Megan Zehnder: yeah, I think like after I realized it was not being consistent. Then I tried to just shift my attention
+
+707
+00:49:24.540 --> 00:49:25.560
+Megan Zehnder: at the end.
+
+708
+00:49:26.050 --> 00:49:26.800
+Megan Commons: Okay.
+
+709
+00:49:26.940 --> 00:49:28.919
+Megan Commons: yeah. Did you ever
+
+710
+00:49:33.660 --> 00:49:38.479
+Megan Commons: cause you, you talked about how you go back to the media library to edit things.
+
+711
+00:49:38.640 --> 00:49:43.740
+Megan Commons: So we're you like back and forth a lot between. Okay media library to edit.
+
+712
+00:49:43.860 --> 00:49:49.280
+Megan Commons: re upload media library to edit, re upload, like, I guess how. What was
+
+713
+00:49:49.950 --> 00:49:51.210
+Megan Commons: kind of the.
+
+714
+00:49:51.740 --> 00:50:02.089
+Megan Zehnder: Well, okay. So there were 2 editors, so like the 1st editor who added images added them, and they were like all over the place. So then I tried to. I went back
+
+715
+00:50:02.910 --> 00:50:14.189
+Megan Zehnder: and into the media library and tried to adjust it from there, but I was only adjusting the inches, and it didn't. And I was like, I'm I'm
+
+716
+00:50:14.490 --> 00:50:19.630
+Megan Zehnder: I kept thinking I was like uploading the same image, but it was like a totally different pixel size.
+
+717
+00:50:19.630 --> 00:50:20.429
+Megan Commons: Yeah, yeah.
+
+718
+00:50:20.430 --> 00:50:26.239
+Megan Zehnder: I don't know what really speak to that part, but so anyway, that at that
+
+719
+00:50:26.270 --> 00:50:29.990
+Megan Zehnder: point I was going back and forth a lot to try and troubleshoot.
+
+720
+00:50:30.830 --> 00:50:32.219
+Megan Zehnder: And then
+
+721
+00:50:32.280 --> 00:50:40.029
+Megan Zehnder: toward the end, once I figured it out, I just was going back in and re uploading for all of them to try and get them consistent.
+
+722
+00:50:40.450 --> 00:50:41.700
+Megan Commons: Okay. Cool.
+
+723
+00:50:42.900 --> 00:50:44.469
+Megan Zehnder: Makes sense. Yeah.
+
+724
+00:50:44.800 --> 00:50:47.170
+David: Yeah. I'm
+
+725
+00:50:47.400 --> 00:50:52.259
+David: have a couple like 1. 1 more question. If that's okay, are you? Okay on time? Okay?
+
+726
+00:50:52.260 --> 00:50:53.330
+Megan Zehnder: Yeah. Totally. Yeah.
+
+727
+00:50:55.400 --> 00:51:02.530
+David: are there? And then this is this is a question. Beyond, just like events and uploading images.
+
+728
+00:51:02.600 --> 00:51:06.960
+David: Is there anything else within the drupal cms that you'd like
+
+729
+00:51:08.700 --> 00:51:10.040
+David: to be.
+
+730
+00:51:10.670 --> 00:51:24.030
+David: that that might be like more difficult than it should be, or might cause more frustration that we can keep in our backlog and our list of like. Oh, these are things that we could eventually get to, to make your lives easier as a editors.
+
+731
+00:51:24.850 --> 00:51:26.780
+Megan Zehnder: Checking links is
+
+732
+00:51:26.930 --> 00:51:27.970
+Megan Zehnder: portable.
+
+733
+00:51:29.010 --> 00:51:29.950
+David: Gaining, link.
+
+734
+00:51:30.816 --> 00:51:31.683
+Megan Zehnder: Yes.
+
+735
+00:51:33.030 --> 00:51:34.360
+Megan Zehnder: there's like.
+
+736
+00:51:36.710 --> 00:51:43.910
+Megan Zehnder: I don't know right now. We have these link sees that are making up the flow really hard to check links
+
+737
+00:51:44.940 --> 00:51:46.979
+Megan Zehnder: in preview mode
+
+738
+00:51:47.010 --> 00:51:52.820
+Megan Zehnder: links don't really work. So then you have to look at it in view mode in the drupal.
+
+739
+00:51:53.680 --> 00:51:54.800
+Megan Zehnder: and
+
+740
+00:51:56.150 --> 00:51:57.339
+Megan Zehnder: and it's just
+
+741
+00:51:58.140 --> 00:51:59.670
+Megan Zehnder: harder than it should be.
+
+742
+00:52:01.070 --> 00:52:02.180
+David: Anything else.
+
+743
+00:52:11.250 --> 00:52:15.359
+Megan Zehnder: I am sure. Can I? Can I follow up on that.
+
+744
+00:52:15.360 --> 00:52:19.200
+David: Yeah, like, if there's anything else that comes up, love to
+
+745
+00:52:19.240 --> 00:52:28.702
+David: hear it. Yeah, we're we're kind of compiling a little bit of a list here, too, like after this, what? What else we could eventually hit. So
+
+746
+00:52:29.100 --> 00:52:30.210
+David: yeah, that's.
+
+747
+00:52:30.210 --> 00:52:30.810
+Megan Zehnder: Oh!
+
+748
+00:52:31.220 --> 00:52:31.910
+David: Great.
+
+749
+00:52:31.910 --> 00:52:35.026
+Megan Zehnder: Thanks for letting me share all this. It's really nice to
+
+750
+00:52:36.087 --> 00:52:38.119
+Megan Zehnder: to like. Explain.
+
+751
+00:52:38.600 --> 00:52:41.380
+Megan Zehnder: I don't know. Just talk about it, cause it was a
+
+752
+00:52:41.410 --> 00:52:47.469
+Megan Zehnder: I. I'm so glad that I used the tool and like, and finally got it. That was really
+
+753
+00:52:47.930 --> 00:52:51.320
+Megan Zehnder: satisfying. But it yeah, and I don't know if any of the
+
+754
+00:52:51.650 --> 00:52:55.050
+Megan Zehnder: problems I went into were helpful at all. But it was helpful for me.
+
+755
+00:52:55.050 --> 00:53:03.539
+David: Incredibly helpful. Really, really like, appreciate your time, appreciate your thoughtful answers. And yeah, thanks again.
+
+756
+00:53:03.540 --> 00:53:07.499
+Megan Zehnder: Yeah. Good luck with this project. Thanks for tackling this. Really appreciate it.
+
+757
+00:53:08.960 --> 00:53:10.580
+Megan Commons: Nice to meet you. Thanks, Megan.
+
+758
+00:53:10.580 --> 00:53:12.870
+Megan Zehnder: You, too, talk to you later. Bye.
+

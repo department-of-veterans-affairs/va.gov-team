@@ -1,0 +1,92 @@
+name: Silent failure
+description: Let OCTO know about a silent failure in an application
+title: "[Team name] | Silent failure: [Description]"
+labels: ['zero-silent-failures']
+assignees: 
+  - humancompanion-usds
+body:
+  - type: markdown
+    attributes:
+      value: Complete this form to make Team Zero Errors aware of a silent failure in an application.
+  - type: input
+    id: application-name
+    attributes:
+      label: Application name
+      description: Please provide the name of the application or form
+    validations:
+      required: true
+  - type: input
+    id: team-name
+    attributes:
+      label: Team
+      description: Please provide the name of the team
+    validations:
+      required: true
+  - type: input
+    id: po-name
+    attributes:
+      label: Product Owner (PO) name 
+      description: Provide the name of the Product Owner responsible for this application
+    validations:
+      required: true
+  
+  - type: input
+    id: api
+    attributes:
+      label: API(s) used by your application (if applicable)
+      description: List all of the APIs used by your application
+  - type: input
+    id: launch-date
+    attributes:
+      label: Application launch date
+      description: The date that this application launched on the platform.
+  - type: input
+    id: users-impacted
+    attributes:
+      label: Number of users impacted
+      description: The real or estimated number of users impacted.
+    validations:
+      required: true
+  - type: input
+    id: error-category
+    attributes:
+      label: Error category
+      description: Select from the [list of error categories](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/zero-silent-failures/error-categories.md) or add a new type of error.
+    validations:
+      required: true
+  - type: input
+    id: error-date
+    attributes:
+      label: Date of first error
+      description: Enter the date of the first occurance of this type of error.
+  - type: input
+    id: submission-date
+    attributes:
+      label: Submission date
+      description: Earliest submission date.
+  - type: input
+    id: datadog-query
+    attributes:
+      label: Datadog query
+      description: If you have it, please link to a relevant Datadog query showing instances of this error.
+  - type: input
+    id: user-data-flow-diagram
+    attributes:
+      label: User data flow diagram
+      description: If you have it, please link to a user data flow diagram.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: textarea
+    id: uuids
+    attributes:
+      label: UUIDs
+      description: Paste in any UUIDs. 
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Use this section to add notes.

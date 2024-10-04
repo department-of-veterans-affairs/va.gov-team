@@ -1,10 +1,54 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 7
+9/25 - 10/8
+
+**Toxic Exposure**
+* Complete 100% rollout
+* Address high priority submission and validation errors
+* Prep for 1.1 release
+
+**Submission Experience**
+* Finalize Timely & Truthful designs, align w OCTO and prep stories for implementation
+* Refine Submission Record & Tracking solution direction and align w OCTO
+
+**Other**
+* Discovery on Zero Silent Failures (ZSF) work
+* Address inconsistencies in Toxic Exposure metrics
+* Collab with Carbs on new high priority work
+  * Accounting for unknowns re new items that arise out of priority discussions this week, and primarily any ZSF work
+
+## Sprint 6
+9/11 - 9/24
+
+**Toxic Exposure**
+* Complete 75% rollout
+  * [stretch] Complete 100% rollout
+* Address high priority submission and validation errors
+
+⠀**Submission Experience**
+* Submit Timely & Truthful for CAIA review
+  * Revise designs if possible
+* Con’t: Describe (draft) high level intent of up to 3 solutions for Submission Record and Tracking
+
+## Sprint 5
+Period 8/28 - 9/10
+
+**Toxic Exposure**
+- Complete 5% and 10% Canary rollout
+- Address high priority submission and validation errors
+
+**Submission Experience**
+- Revise design for Timely and Truthful
+- Reflect insights from ideation workshop
+
+
 ## Sprint 4
 8/14 - 8/27
 
 **Toxic Exposure**
-- Complete 5% Canary rollout
+- (Complete Staging Review)
+- Complete 5% Canary rollout >
 - Evaluate user metrics (Medallia & GA) to inform research
   
 **Paper Form Sync**

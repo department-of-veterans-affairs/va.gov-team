@@ -109,7 +109,7 @@ The most risky aspect is the assumption that batch processing would address 24/7
   - June 2024 - Discovery
   - July 2024 / August 2024 – Design and Development
   - September 2024 – Iteration and Testing, Bug Fixes
-  - February – Deployment
+  - December 2024 – Deployment on VA.gov
   - April 2025 – Project End
 - *Actual Launch Date* 
   - tbd
@@ -124,7 +124,12 @@ The most risky aspect is the assumption that batch processing would address 24/7
 SOB is currently available from Sunday-Friday 6am-10pm & Saturday 6am-7pm ET to be available 24 hours/7 days a week.
 
 ### Key Decisions
-EDU stakeholder, Tammy Hurley, decided not to make any design changes to SOB as of 7/24/2024 
+- No major design changes, per Tammy Hurley 7/24 via SOB Requirements meeting 
+- Remove date of birth from display in SOB because it’s incorrect and unnecessary, per Tammy Hurley 8/21 via email (EDM-121)  
+- Not going to display VA file number since it’s often the same as a Veteran’s SSN and unnecessary to show since SOB is an authenticated application, per Tammy Hurley 8/28 during SOB Requirements meeting (EDM-155) 
+- Moving forward with claimant-api because it is the most efficient way to solve data issues and make SOB available 24/7, approved by Tammy Hurley 8/28 during SOB Requirements meeting (EDM-156) 
+- No longer displaying enrollment history in SOB because it’s not what Veterans are looking for. The purpose of SOB is to show schools Veterans have entitlement so they can defer payments and submit their enrollment information to the VA and they can get enrollment history elsewhere, per Cinda Quattrini 8/28 during SOB Requirements meeting (EDM-157) 
+- Do not need to display who Veteran transferred entitlement to, per Cinda Quattrini 9/4 during SOB Requirements meeting (EDM-138) 
 
 ---
    

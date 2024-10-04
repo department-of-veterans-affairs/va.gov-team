@@ -31,22 +31,20 @@ Any/all points when a Veteran needs support filing and accessing their benefits.
 
 ### For Veterans Service Organization (VSO) Certifying Officials<a id="for-veterans-service-organization-vso-certifying-officials"></a>
 
-|                                                                           |                                                                                                                                                               |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Research goal**                                                         | **Research question**                                                                                                                                         |
+| **Research goal**                                                         | **Research question**           |
+| ---------------------------------------- | ---------------------------------------------------------------- |
 | Determine requirements for email address field(s).                        | What different email addresses do representatives have, and do they use different email addresses for different purposes? (e.g. VA vs. client communications) |
-| Determine requirements for address field(s).                              | How many address fields do we need to provide, and what should distinguish one address from another?                                                          |
-| Determine permissions for VSO Representatives and certifying officials.   | Are certifying officials the only ones who can update a VSO Representative’s information?                                                                     |
-| Determine if public-facing VSO directories are a reliable source of truth | Are public-facing VSO directories accurate, and do they include location and phone number?                                                                    |
+| Determine requirements for address field(s).                              | How many address fields do we need to provide, and what should distinguish one address from another?  |
+| Determine permissions for VSO Representatives and certifying officials.   | Are certifying officials the only ones who can update a VSO Representative’s information?|
+| Determine if public-facing VSO directories are a reliable source of truth | Are public-facing VSO directories accurate, and do they include location and phone number? |
 
 
 ### For accredited Attorneys and Claims Agents<a id="for-accredited-attorneys-and-claims-agents"></a>
 
-|                                                    |                                                                                                                                                                |
-| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Research goal**                                  | **Research question**                                                                                                                                          |
+| **Research goal**                                                         | **Research question**           |
+| ---------------------------------------- | ---------------------------------------------------------------- |
 | Determine requirements for email address field(s). | What different email addresses do representatives have, and do they use different emails addresses for different purposes? (e.g. VA vs. client communications) |
-| Determine requirements for address field(s).       | How many address fields do we need to provide, and what should distinguish one address from another?                                                           |
+| Determine requirements for address field(s).       | How many address fields do we need to provide, and what should distinguish one address from another?|
 
 
 ## Methodology<a id="methodology"></a>

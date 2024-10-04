@@ -43,6 +43,6 @@ This guide is based on:
 
 ## After the session
 
-* After each session, we will have an optional 10 minute debrief. Please leave and rejoin the same meeting link.
+* After each session, we will have an optional debrief. You should have an invite to the debrief in your calendar.
 * Write your top 3 key takeaways in Mural.
 * If you have further questions or comments for the moderator, reach out to them directly.

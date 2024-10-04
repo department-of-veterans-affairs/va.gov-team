@@ -20,3 +20,9 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Product Owner Jennifer Bertsch requested this be prioritized for the next sprint ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721334455491939))._
 - **7/25/2024**: The Report Outdated Information feature was removed from Production.\
   _Product Manager Lindsay Li-Smith confirmed this change and has updated OGC stakeholders ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721931488251949))._
+- **8/27/2024**: VA Enablement advises to continue to omit ~500 representatives from Find a Rep search results due to invalid/incomplete addresses, since a key functionality is for Veterans to find representatives based on location. The OGC Accreditation tool still exists as a means to access information for these representatives.\
+  _Confirmed in the ARM Leadership Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD109f834c96fe497bb35d622af))._
+- **9/13/2024**: OGC's Benefits Law Group (Jonathan Taylor) requested to be informed when our team receives more than 5 reports of outdated information in one week. After discussion with Product Owner Jennifer Bertsch, agreed that we will share if we receive more than 5 direct reports and simultaneously focus on creating a solution wiht the ARF team; reports to the Contact Center will not be factored in.\
+  _Confirmed by Product Owner Jennifer Bertsch ([Slack message](https://dsva.slack.com/archives/C06GE5N7QJ0/p1726258168134879?thread_ts=1726256358.678779&cid=C06GE5N7QJ0)) and this was communicated to OGC by Product Manager Lindsay Li-Smith via email "Question about messaging"._
+- **9/19/2024**: Confirmed that we are not at risk for silent failures. \
+  _Confirmed by Technical Lead Holden Hinkle ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93229))._

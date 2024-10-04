@@ -5,7 +5,7 @@
 ## Overview
 
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
-- Our team will enhance Department of Veterans Affairs ("VA") education tools by migrating Yellow Ribbon Tool ("YRT") data into the Comparison Tool ("CT"). The current-state design and functionality of YRT will be analyzed to identify any future YRT functionality to migrate, enhance, and integrate into CT. The Yellow Ribbon Program can help you pay for higher out-of-state, private school, foreign school, or graduate school tuition and fees that the Post-9/11 GI Bill doesn’t cover.
+- Our team will enhance Department of Veterans Affairs (VA) education tools by migrating Yellow Ribbon Tool (YRT) data into the Comparison Tool (CT). The current-state design and functionality of YRT will be analyzed to identify any future YRT functionality to migrate, enhance, and integrate into CT. The Yellow Ribbon Program can help you pay for higher out-of-state, private school, foreign school, or graduate school tuition and fees that the Post-9/11 GI Bill doesn’t cover.
 
 
 ## Problem Statement
@@ -137,10 +137,12 @@ Both CT and YRT are currently live in PRODUCTION and functional.
 
 ### Key Decisions
 
-Fix the "No" selection on the YRT checkbox (EDM-96)
-Update YRT header to reflect 2024-2025 (previously 2023-2024) (EDM-66)
-Add conversion FYI to identify that foreign currency has already been converted to USD (EMD-65)
-
+- Fix the "No" selection on the YRT checkbox (EDM-96) No longer relevant because issue should not have been in Staging. 
+- Update YRT header to reflect 2024-2025 (previously 2023-2024) (EDM-66) requested by Brian Grubb. Header automatically updates each August to display new school year. 
+- Add conversion FYI to identify that foreign currency has already been converted to USD so the end user is aware of the cost of attendance in USD (EDM-65)
+- Remove specialized filters  from YRT (EDM-161) Janice Fisher does not want specialized filters to be removed so EDM is exploring how to display specialized filters/information 
+  1. Only show schools that provide maximum funding (tution that's left after your Post-9/11 GI Bill)
+  2. Only show schools that provide funding to all eligible students 
 ---
 
 ## Screenshots

@@ -1,6 +1,8 @@
 # Product Outline - Health care application
 ---
+- [10-10EZ - Zero Silent Failures Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Endpoint%20Monitoring%20&%20Zero%20Silent%20Failures/10-10EZ%20Zero%20Silent%20Failures%20checklist.md)
 
+---
 ## Problem Statement
 
 - How might we improve the experience of Veterans who are applying for VA health care online?
@@ -128,7 +130,10 @@
 
 
 ## Launch Dates
-Note: 10-10 EZ form has been available online for a number of years.  Only in 2020/2021, has the form been revisited for updates and improvements.
+Note: 10-10 EZ form has been available online for a number of years.  Only in 2019, had the form been regularly revisited for updates and improvements. ([archived docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/vets-application/product))
+- 2012: Fillable PDF avalable to submit online (vets.gov)
+- May 2016: Online form created with data fields and submission online (no more PDF), content & data fields match PDF form (vets.gov)
+- 6/3/2019: Enrollment record validation when user enters personal info, if no record found, user can proceed through the form
 - 8/23/2022: Medicare Claim number field added to the form
 - 10/11/2022: American Indian question added to the form
 - 10/31/2022: 10-10EZ Short Form
@@ -140,7 +145,7 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 
 ### Current Status
 
-- As of 11/2022, we are
+- As of 11/2022, we are:
    - Preparing for moderated research sessions on the Household section optimization design in December
    - Preparing for moderated research sessions on the entire form to gather baseline data and feedback
         - This will help inform our next initiatives
@@ -164,7 +169,7 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
  
 
 ### After
-[Sketch File of all screens](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/p/0C3B7020-8169-4FF2-AB5C-AF52BC4E34C2/canvas)
+[Figma File of all screens](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=109-59846&mode=design&t=NG4WSpLntVopG3ox-0)
 
 ---
 
@@ -207,9 +212,9 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 - Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
 - Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
 - Annie Rice | Annie.Rice@va.gov -- Contact Representative office
-- Shana Watson | shana.watson@va.gov
-- Simone Gully | simone.gully@va.gov
-- Amanda Scully | amanda.scully@va.gov
+- Shana Watson | shana.watson@va.gov -- Business SME
+- Simone Gully | simone.gully@va.gov -- Business SME
+- Amanda Scully | amanda.scully@va.gov -- Business SME
 
 **Enrollment System (ES)**
 - Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)

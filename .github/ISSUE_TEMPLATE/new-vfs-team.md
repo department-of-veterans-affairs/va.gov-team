@@ -77,5 +77,5 @@ In addition to providing information to Platform and completing necessary tasks 
 
 
 ## Platform Checklist
-The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html).
+The items in this checklist are for Platform to complete. If you are ready to close the ticket and the Platform Checklist section has not been completed, please reach out to Platform via the guidance provided in [Getting help from Platform in Slack](https://depo-platform-documentation.scrollhelp.site/support/getting-help-from-the-platform-in-slack).
 - [ ] New VFS Team has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/)

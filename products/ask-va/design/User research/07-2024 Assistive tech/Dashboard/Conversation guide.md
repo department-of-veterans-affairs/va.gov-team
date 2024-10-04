@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: August 12, 2024
+Last updated by @tygindraux: September 13, 2024
 
 ## Moderator logistics
 
@@ -122,6 +122,7 @@ I'd also like to know a little more about how you're using your assistive tech.
 - How long have you been using [tool]?
 - How often do you use [tool]?
 - What device are you using today? [Desktop, mobile, tablet, Mac, Windows, Android?]
+- Why do you use [this tool]?
 
 <details>
   <summary>Key things to notice</summary>
@@ -145,6 +146,7 @@ Okay, great. We're going to do that now.
   - `IF NO` I’ll help guide you through how to share your screen...
 
 ### Troubleshooting: Screen share issues
+- If testing with TTS software, like Dragon, ask the participant to share their **full screen** this way we can see the flags, grid, etc.
 - If testing on VoiceOver (Mac), tell participants to navigate to "Share" (tab or they can do shift + command + S). Then, once they choose "Share," they need to share sound. They should tab until they hear "Share sound" and then check on. Then, choose, "Share" again to finish.
 - Refer to [Screen reader instructions: Setting up screen share](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
 - Ask the accessibility specialist to come off mute and assist.
@@ -157,9 +159,9 @@ Thanks! Now I’m able to see your screen. I see [describe window].
 
 Next, I'm going to share a link to the test website.
 
-- Would you prefer that I email you the link, send it in the Zoom chat or dictate it to you?
+- Would you prefer that I send a link in the Zoom chat or dictate it to you?
 
-> Dictate, email or send link in chat: [https://bit.ly/ask-va](https://bit.ly/ask-va).
+> Dictate or send link in chat: [https://bit.ly/ask-va](https://bit.ly/ask-va).
 
 <details>
 
@@ -171,7 +173,9 @@ Next, I'm going to share a link to the test website.
    
 </details>
 
-> Opens staging. On the dashboard.
+> Opens staging. On the homepage.
+
+Okay, great. Now, if you'll navigate to where it says Research Study. Then we're going to click on the sign in button under Research Study.
 
 ## Dashboard (30 minutes)
 
@@ -181,7 +185,7 @@ So, today we're going to observe as you navigate this website.
 
 Before you start, I'm going to share some context with you.
 
-This is a tool called Ask VA. It's a way for Veterans to contact the VA and ask a question online. For today's session, we're going to pretend like you recently asked the VA a question and today you've come back to read the reply from the VA. We're going to go through a couple different tasks which I'll explain as we go.
+This is a tool called Ask VA. It's a way for Veterans to contact the VA and ask a question online. For today's session, we're going to pretend like you recently asked the VA a question and today you've just signed into your account on VA.gov to read the VA's reply to your question. We're going to go through a couple different tasks which I'll explain as we go.
 
 And as you navigate, we want to understand what's going through your mind and how your assistive technology is supporting you. I'll try and stay quiet while you're focused on a task [and what your screen reader is announcing]. [If we can't hear their screen reader eg. on mobile, tell them that.]
 
@@ -221,28 +225,29 @@ I'll give you a couple of minutes to navigate around. After you finish, I'd like
 
 ### Task 3
 
-Next, I'd like you to find a question that's related to housing assistance.
+Next, I'd like you to find a question that's related to home loans.
 
 `When they've finished...`
 
-- Which question is related to housing assistance?
+- Which question is related to home loans?
 - How did you find the question that's related to housing assistance?
 - If you weren't sure how to find it, what would you do?
+- Did you have any difficulty navigating to the second page of questions?
 
 ### Task 4
 
-Okay, this is the last task on this page. I'd like you to find the question that you submitted on September 3rd.
+Okay, this is the last task on this page. I'd like you to find the question that you submitted on August 24th.
 
 `When they've finished...`
 
-- Which question did you submit on September 3rd?
+- Which question did you submit on August 24th?
 - What is the question about?
-- How did you find the question that you submitted on September 3rd?
+- How did you find the question that you submitted on August 24th?
 - If you weren't sure how to find it, what would you do?
 
 ### Task 5
 
-Now, we're going to read the reply from the VA. I'd like you to show me how you would navigate to read what the VA replied to your question that you submitted on September 3rd.
+Now, we're going to read the reply from the VA. I'd like you to show me how you would navigate to read what the VA replied to your question that you submitted on August 24th.
 
 > Navigates to question details page.
 
@@ -255,6 +260,9 @@ Now, we're going to read the reply from the VA. I'd like you to show me how you 
 - Is the tab order logical and easy to follow?
 - Where did they pause, if at all?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
+- Are statuses clear? Do they require more description? If so, just for screen reader users or for everyone?
+- Do people have any difficulty navigating to the second page of questions?
+- Do people, especially screen reader users, have any difficulty navigating to the correct Check details link?
 
 </details>
 
@@ -266,34 +274,46 @@ Okay, great.
 
 - Before we talk about this page, did you have any difficulty finding the link to this page?
 
-Great. We're going to do the same thing on this page.
+Great.
 
 ### Task 1
 
-First, I'd like you to find and read the reply that the VA sent you.
+The first thing I'd like you to do is find the reply that the VA sent you.
 
 `When they've finished...`
 
-- What did the VA reply to you?
+- What day did the VA reply to you?
 - How did you navigate to the reply on this page?
 
 ### Task 2
 
-Next, I'd like you to tell me what you would do if you read this reply and you had a follow-up question.
+Next, I'm going to give you some time to read the reply from the VA. And then I'd like you summarize their reply.
 
 `When they've finished...`
 
-- Did you find anything else on this page that could help?
-- If you couldn't find anything on this page, what would you do?
-- Can you send a reply back to the VA?
+- What did the VA say to you in this message?
+- Would you have any follow up questions after reading this message?
+- Is anything missing from their reply?
 
 ### Task 3
 
-Now, let's try and reply back to the VA. Go ahead and write a short reply to the VA (you can write anything). And send it.
+Next, there's a message that was sent on September 12th. I'd like you to find that message and let me know when you've found it.
 
 `When they've finished...`
 
-> Navigates to reply confirmation page.
+- In this scenario, who sent this message?
+
+### Task 4
+
+Okay, now, let's say that you have waited over a week now after sending this follow up question. Tell me what you would do next, if you felt you had waited long enough for the VA to reply back.
+
+- Is there anything else on this page that could help?
+
+[If they don't already suggest or notice it.] One thing you could do is send the VA another reply. Next, can you send the VA a reply?
+
+`When they've finished...`
+
+- [If they haven't already] You can hit send when you're ready.
 
 <details>
   <summary>Key things to notice</summary>
@@ -304,6 +324,7 @@ Now, let's try and reply back to the VA. Go ahead and write a short reply to the
 - Is the tab order logical and easy to follow?
 - Where did they pause, if at all?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
+- Are accordions adding unnecessary complexity? Would it be better to have plain text on the page?
 
 </details>
 
@@ -313,23 +334,14 @@ Now, let's try and reply back to the VA. Go ahead and write a short reply to the
 
 Okay, great.
 
-- Before we talk about this page, how was that process of replying back to the VA?
+- Before we talk about this page, how was that processing of sending a reply to the VA?
 
-Great. I'll give you a minute to read through this page and then I'd like to know if you have any questions about it.
+Next, I'll give you a minute to read through this page and I'd like to know if you have any questions about it.
 
 `When they've finished...`
 
 - Do you have any questions about what you just read?
-- What's the next step in the process after you sent the VA a follow up question?
-
-### Task 1
-
-Great. I'd like to do one more thing. I'd like for you to navigate back to the home page, where we started. That's the page where you could read all of your questions.
-
-`When they've finished...`
-
-- Did you have any trouble finding how to get back to this page?
-- Is there anything else you want to share about this page?
+- What's the next step after replying back to the VA again?
 
 <details>
   <summary>Key things to notice</summary>
@@ -340,6 +352,7 @@ Great. I'd like to do one more thing. I'd like for you to navigate back to the h
 - Is the tab order logical and easy to follow?
 - Where did they pause, if at all?
 - Is there any assistive tech behaviour you need them to explain, for example, what their screen reader announced on a particular element?
+- Do they understand the reply confirmation message or have any additional questions?
 
 </details>
 
@@ -431,4 +444,4 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 ## Approved by:
 
 - Becky Phung, PO on July 15, 2024
-- Shane Strassberg, VA Research Ops on [DATE]
+- Shane Strassberg, VA Research Ops on September 4, 2024

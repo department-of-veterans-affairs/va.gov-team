@@ -1,5 +1,7 @@
 # Initiative Brief - Permission to Include PHI and PII in Appointment Reminders
 
+**Last Update:** 8/29/2024 minor revisions and link updates
+
 - **Product:** VA.gov Profile | Notification Settings
 - **Initiative:** Support the MHV to VA.gov Migration by displaying the PHI/PII Appointment Reminder Permission 
 
@@ -46,15 +48,15 @@ We need to allow for the same functionality on VA.gov Profile where users can gr
 
 ## Outcome Summary
 
-The goal of this is to ensure veterains who use MHV today are able to maintain the same capabilities as MHV migrates to VA.gov. The option to grant the VA permission to include PHI/PII in appointment reminders is an important aspect of that. 
+The goal of this is to ensure veterans who use MHV today are able to maintain the same capabilities as MHV migrates to VA.gov. The option to grant the VA permission to include PHI/PII in appointment reminders is an important aspect of that. 
 
 
 
 ## Problem
 
-Email and Text Message are unencrypted communication channels. When communicating with veterans we have to be mindful of the risks inherent to unencrypted messaging which can expose sensitive information. In light of the risks associated with unecnrypted messaging it's important Veterans opt-in and grant us permission to send sensitive PII and PHI in those unencrypted channels. Additionally, this is a requirement mandated by law.
+Email and Text Message are unencrypted communication channels. When communicating with veterans we have to be mindful of the risks inherent to unencrypted messaging which can expose sensitive information. In light of the risks associated with unencrypted messaging it's important Veterans opt-in and grant us permission to send sensitive PII and PHI in those unencrypted channels. Additionally, this is a requirement mandated by law.
 
-Today, MHV users have an opt in/out process that allows them to decide if they would like to see PII/PHI in their appointment reminders. There's a process flow through Vet Text that allows them to opt in / grant permission for MHV to send PII/PHI in appointment reminders. The goal of this initiative is allow users to update their VA.gov profile to grant or rescind persmission for including PHI/PII in appointment reminders on VA.gov in the Notification Settings page of their Profile 
+Today, MHV users have an opt in/out process that allows them to decide if they would like to see PII/PHI in their appointment reminders. There's a process flow through Vet Text that allows them to opt in / grant permission for MHV to send PII/PHI in appointment reminders. The goal of this initiative is allow users to update their VA.gov profile to grant or rescind permission for including PHI/PII in appointment reminders on VA.gov in the Notification Settings page of their Profile 
 
 
 ## Desired User Outcomes
@@ -113,7 +115,8 @@ In the VA.gov profile under notification settings > "your healthcare" > "appoint
 
 Currently users see:
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/fb11bba5-6574-405b-bed1-7e981d4d3aa8)
+![image](https://github.com/user-attachments/assets/6ce88e76-6f69-469d-8791-69755198664f)
+
 
 We'd need a check box or radio button feature to be determined with the team's designers to allow veterans a means to see if they've granted the VA permission to include PII/PHI in their appointment reminders and to opt in or out. 
 
@@ -121,13 +124,14 @@ This would be for text and email. A user could opt in to the permission to allow
 
 #### Go-to-market 
 
-We will be coordinating with VA Profile, VA Notify, and MHV teams to ensure this rolls out at the necessary moment. 
+We will be coordinating with VA Profile, VA Notify, Mobile, and MHV teams to ensure this rolls out at the necessary moment. 
 
 ## Important artifacts 
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58797)
 - [notification settings figma file](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=1-12888&t=ffRZ8R6IwgMyND70-0)
      - [PHI/PII specific tab of the figma](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=572-10323&t=ffRZ8R6IwgMyND70-0)
-
+- [mural for design concept noodling](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724854864669/fd19195a421188d983c7395240861de29b87ed6d?sender=uaa72d11015d3f7c704a64191)
+- [Collaboration Cycle for: AE Profile | Notification Settings | Appointment Reminders PHI/PII #91788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91788)
    
 ## Screenshots
 
@@ -135,8 +139,15 @@ We will be coordinating with VA Profile, VA Notify, and MHV teams to ensure this
 
 <details><summary>screenshot </summary>
 <p>
+  
+radio button format that has since been replaced w/checkboxes: 
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/fb11bba5-6574-405b-bed1-7e981d4d3aa8)
+
+current checkbox configuration: 
+
+![image](https://github.com/user-attachments/assets/41adcfd3-79c3-486a-9e30-53235bc002ca)
+
 
 </p>
 </details> 

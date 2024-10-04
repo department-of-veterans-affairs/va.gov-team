@@ -1,5 +1,6 @@
 # Forms Status on My VA MVP Frontend Documentation
-Last updated: August 20, 2024
+**Last updated: September 27, 2024 - removed all references to PDF downloads (will be a post-MVP enhancement)**
+
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
@@ -10,15 +11,17 @@ This FE documentation outlines all possible status cards that appear in the Bene
 
 It also outlines the accordion component with the title "If you can't find your application or form" that appears at the bottom of this section.
 
-In addition, this documentation accounts for possible scenarios in which no draft or form statuses can be displayed in the entirety of the section:
-
+In addition, this documentation accounts for possible scenarios in which no draft and/or form statuses can be displayed in the entirety of the section:
 - Failed user call
 - Failed network call
 - Failed API call
+- Failure for drafts only
+- Failure for submitted only
 - Scheduled maintenance
 
+
 ## When to show the ‘Benefit applications and forms' section
-We show this section for every LOA3 user.
+We show this section for every user (LOA1 and LOA3). (Note: Not all forms are available to be filled out/displayed on My VA without LOA3 authentication)
 
 ---
 
@@ -67,7 +70,7 @@ You have no benefit applications or forms to show.
 **Visual specs**
 - [The accordion component's bordered variant from the VA design system is utilized](https://design.va.gov/components/accordion)
 - Typography: 'h3', 'vads-font-size-base' with bolded text using 'vads-font-weight-bold', tag component uses its default 'regular' font style
-- Link style: 'default'
+- Link component style: ['default'](https://design.va.gov/components/link/#default)
 
 ### Collapsed state
 
@@ -88,11 +91,12 @@ We're offering a new feature for some forms that helps you track those forms fro
 We'll show the status of these select forms here for 60 days after you submit the form:
 - Authorize the release of non-VA medical information to VA (VA Form 21-4142 & 21-4142a)
 - Submit a lay or witness statement to support a VA claim (VA Form 21-10210)
-- Request priority processing for an existing claim (VA Form 20-10207)
 - Authorize VA to release your information to a third-party source (VA Form 21-0845)
-- Sign VA claim forms as an alternate signer (VA Form 21-0972)
 - Submit an intent to file (VA Form 21-0966)
+- Request priority processing for an existing claim (VA Form 20-10207)
+- Request personal records (VA Form 20-10206)
 - Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847)
+- Sign VA claim forms as an alternate signer (VA Form 21-0972)
 
 If you have questions about your applications or forms, call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
@@ -116,7 +120,7 @@ If you have questions about your applications or forms, call us at 800-827-1000 
 
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is also used.
-- Link style: the "Continue your application" link should use the [active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in VADS.
+- Link component style: the "Continue your application" link should use the [Link component active link style](https://design.va.gov/storybook/?path=/docs/components-va-link--default#active) in VADS.
 - Typography: 'h3', 'vads-font-size-base'
 
 #### **Content**
@@ -124,8 +128,6 @@ If you have questions about your applications or forms, call us at 800-827-1000 
 Form code
 
 Application type
-
-Download your application, available until X/X/XXXX (PDF)
 
 `error`(icon) Application expires on: Date
 
@@ -161,15 +163,16 @@ Cards are stacked in a single column on both mobile and desktop, as shown in the
 
 ## When form status cards besides drafts appear
 
-For MVP, [7 forms are tracked and displayed on My VA](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/MVP-form-list.md):
+For MVP, [8 forms are tracked and displayed on My VA](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Research/MVP-form-list.md):
 
 - Authorize the release of non-VA medical information to VA (VA Form 21-4142 & 21-4142a)
 - Submit a lay or witness statement to support a VA claim (VA Form 21-10210)
-- Request priority processing for an existing claim (VA Form 20-10207)
 - Authorize VA to release your information to a third-party source (VA Form 21-0845)
-- Sign VA claim forms as an alternate signer (VA Form 21-0972)
 - Submit an intent to file (VA Form 21-0966)
-- Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847)
+- Request priority processing for an existing claim (VA Form 20-10207)
+- Request personal records (VA Form 20-10206)
+- Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847) 
+- Sign VA claim forms as an alternate signer (VA Form 21-0972)
 
 
 Once one of these forms are submitted, they will be represented as a card on My VA. The cards with the statuses of submission in progress, received, and action needed correspond to these forms. 
@@ -194,8 +197,8 @@ Once one of these forms are submitted, they will be represented as a card on My 
 **Visual specs**
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is used.
-- Link styles:
-  - 'default' for benefits hotline number and TTY, ['download' for PDF download](https://design.va.gov/components/link/#download)
+- Link component styles:
+  - ['default' for benefits hotline number and TTY](https://design.va.gov/components/link/)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
@@ -205,8 +208,6 @@ SUBMISSION IN PROGRESS
 Form name
 
 Form number
-
-Download your application, available until X/X/XXXX (PDF)
 
 Submitted on: Month Day, Year
 
@@ -246,8 +247,8 @@ Figma file (with content supplied by CAIA):
 **Visual specs**
 - The Card component in [VADS](https://design.va.gov/components/card#variations) is used, with the default white background variation.
 - The Tag component in [VADS](https://design.va.gov/components/tag) is used.
-- Link styles:
-  - 'default' for benefits hotline number and TTY, ['download' for PDF download](https://design.va.gov/components/link/#download)
+- Link component styles:
+  - ['default' for benefits hotline number and TTY](https://design.va.gov/components/link/#default)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
@@ -259,8 +260,6 @@ RECEIVED
 Form name
 
 Form number
-
-Download your application, available until X/X/XXXX (PDF)
 
 Submitted on: Month Day, Year
 
@@ -287,8 +286,8 @@ Figma file (with content supplied by CAIA):
 ---
 
 ## Form Status card - Action Needed
-- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
-- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1237-27666&t=qtVTZVRRbZjROpfd-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=rws9CImTjEAVCPiu-1)
 
 This is an **error state** for an individual form submission. This occurs after submission and before it would be received. When detected errors (aka detectable "silent errors") occur during the submission process of supported forms, the associated form cannot be processed by VA staff. In all likelihood, the form will have to be redone and resubmitted. To inform users, we display the "Action needed" card to indicate a system error took place and that they should contact the VA via the Benefits Hotline.
 
@@ -304,8 +303,8 @@ This is an **error state** for an individual form submission. This occurs after 
 - The Tag component in [VADS](https://design.va.gov/components/tag) is also used.
 - 'Error alert' variation of the Alert component in [VADS](https://design.va.gov/components/alert#error-alert) is used on the card.
 - 'error'(icon) is in the alert. 
-- Link style:
-  - 'default' for benefits hotline number and TTY, ['download' for PDF download](https://design.va.gov/components/link/#download)
+- Link component style:
+  - ['default' for benefits hotline number and TTY](https://design.va.gov/components/link/#default)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 ### **Content**
@@ -315,8 +314,6 @@ ACTION NEEDED
 Form name
 
 Form number
-
-Download your application, available until X/X/XXXX (PDF)
 
 Submitted on: Month Day, Year 
 
@@ -330,8 +327,8 @@ We're sorry. There was a problem with our system. We couldn't process this form.
 
 #### **Content specs**
 Figma file (with content supplied by CAIA):
-- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=9jXpvwMfseFUL5KE-1)
-- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=nHq2rMia3osfDiWr-1)
+- [Desktop figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1237-27666&t=qtVTZVRRbZjROpfd-1)
+- [Mobile figma link](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-12819&t=rws9CImTjEAVCPiu-1)
 
 ### How does a form/application in the action needed status end up showing in a card on My VA?
 - This card can appear when 
@@ -339,54 +336,76 @@ Figma file (with content supplied by CAIA):
 
 ---
 
+
 ## System-wide errors for the Benefit application and forms section
 
-There are four possible error scenarios that are not related to specific forms:
+There are multiple possible error scenarios that are not related to specific forms:
 
 ---
 
-## Failed main user call (pagewide error state)
+### Failed main user call (pagewide error state)
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HqzBWh1aYg5G4WmO-1)
 
-[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-128&t=HqzBWh1aYg5G4WmO-1)
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-782&t=0g1QL0e3j29my5Qt-1)
+
+This error states when the page fails to load. This could be due to a "catastrophic" failure.
 
  
-## Failed network call
+### Failed network call
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-26844&t=nHq2rMia3osfDiWr-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1327-17482&t=nHq2rMia3osfDiWr-1)
 
+This error state occurs when a network request fails. This could be because of: an issue with VA.gov's front-end/back-end, with an internal API failure(s). 
+
 **Visual specs**
 - The warning alert component in [VADS]([https://design.va.gov/components/card#variations](https://design.va.gov/components/alert#warning-alert)) is used
 - The 'warning' icon is used inside the alert
 - Typography: alert title (matches USWDS 1.33rem), 'vads-font-size-base'
 
-### **Content**
+#### **Content**
 
 We can't access your benefit applications and forms right now
 
 We're sorry. We're working to fix this problem. Check back later.
 
-## Failed API call
+### Failed external API call
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28921&t=nHq2rMia3osfDiWr-1)
+
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1302-28909&t=nHq2rMia3osfDiWr-1)
+
+This error state occurs when an API request for statuses fails, on the Lighthouse side.
 
 **Visual specs**
 - The warning alert component in [VADS]([https://design.va.gov/components/card#variations](https://design.va.gov/components/alert#warning-alert)) is used
 - The 'warning' icon is used inside the alert
 - Typography: alert title (matches USWDS 1.33rem), 'vads-font-size-base'
 
-### **Content**
+#### **Content**
 
 We can't access your benefit applications and forms right now
 
 We're sorry. We're working to fix this problem. Check back later.
-    
-## Scheduled maintenance
+
+### Failure for drafts only
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1771-70415&t=Ly3AlX7WzQaWU6dS-1)
+
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1789-41493&t=Ly3AlX7WzQaWU6dS-1)
+
+### Failure for submitted only
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1771-71011&t=Ly3AlX7WzQaWU6dS-1)
+
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1789-41838&t=Ly3AlX7WzQaWU6dS-1)
+
+### Scheduled maintenance
+
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1294-62137&t=nHq2rMia3osfDiWr-1)
+
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1330-40104&t=nHq2rMia3osfDiWr-1)
  
 **Visual specs**
@@ -394,8 +413,10 @@ We're sorry. We're working to fix this problem. Check back later.
 - The 'warning' icon is used inside the alert
 - Typography: alert title (matches USWDS 1.33rem), 'vads-font-size-base'
 
-### **Content**
+#### **Content**
 
 We can't access your benefit applications and forms right now due to maintenance
 
 We’re working on this part of My VA. During this time, you won’t be able to access benefit applications and forms. Check back after Month Date, Year, at hh:mm a.m/p.m. ET. 
+
+

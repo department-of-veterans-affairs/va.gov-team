@@ -1,4 +1,145 @@
 # Running Design and Research Agenda
+
+## September 30 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+	- Review OHI Form updates from stakeholders
+	- Quick review of CHAMPVA Claims Research Report
+  	- CHAMPVA Registration Staging review items for Design
+### Notes
+- OHI
+	- Let exclude the "other Medicare" plans for now because that the original PDF does not ask for anything other than Part A, B, C, and D. We do not have a lot of data on the other medicare plans and the volume of users with those and adding the other Medicare plan (PACE and cost plans) in the digital form may cause some additional engineering efforts and PEGA issues.  After the form launches we will continue to monitor this to see if we see any significant drop offs.  
+	- Revise the presentation of the before/after changes so the flow is easier to follow
+ 	- Find a better way to present the changes to the stakeholders. It's been a while since we presented the digital form to them so the pdf form may be more top of mind to them. Find a way to break this the proposed changes and relate it to the pdf form better.
+- CHAMPVA Claims Research Report
+  	- Lois had to drop off the call early so Design will follow up her with on if she would like more of a walkthrough of Draft 1
+   - We decided to combine the Research and Product Syncs into the weekly Design Sync. We will go over the roadmap at the top of the meeting followed by any design related items so Premal may drop off early if he needs. We can cover the research items with Lois as the last part of the meeting.
+- CHAMPVA Registration Staging review items for Design
+	- All Staging Review tickets will be post launch to leave capacity for the Engineers to work on the FMP Registration launch. Design can get their tickets ready ahead of time in the Figma files and work on them as our capacity allows. We are predicting to move them into "in progress" early in Sprint 2. 
+
+
+## September 23 2024
+- Attendees: Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Steven Straily, Devi Hill, Mary Wang, Ray Messina
+- Facilitator: Syd
+- Next meeting facilitator: Jamie
+- Agenda Topics
+	- 10-10d option vs required (Syd)
+ 	- Walkthrough of the latest medicare card upload screens (Syd)
+ 
+  ### Notes
+- Premal found out some OHI information -- going to wait til Jamie is back
+- Double check that we cannot use an accordion within the page
+- Double check what the static page has 
+- Look to see if any VA forms have just an Upload section at the end
+- Lois would like to see a source of truth in the FMP stuff (follow up with Jamie)
+- Lois inquires about Figma naming convenstions -- starting a new file vs adding to an existing one
+
+
+
+## September 16 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang, Ray Messina
+- Facilitator: Steven
+- Next meeting facilitator: Rachael
+- Agenda Topics
+	- 10-10d option vs required -- low priority (Syd)
+ 	- Walkthrough of the latest medicare card upload screens & OHI Status
+ 
+  ### Notes
+- Syd is going to work on refining the 10-10d optional versus required flow based on Lois and Premal's feedback during the meeting, and it will be presented again at a later date.
+- Jamie to do a little reasearch on what the legal use for Medicare card images are.
+- "I don't like it, because it sounds like we have processors that are uninformed." - Medicare cards required in all situations.
+- Lois is concerned about keeping Medicare cards up to date.
+- Jamie is going to check into make the back of the card more readable.
+- Clarify that the form is not yet in a digital version when sharing out the Service Blueprint
+- Adding on PEGA information to the Service Blueprint
+  
+## September 9 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang, Ray Messina
+- Facilitator: Syd
+- Next meeting facilitator: Steven
+- Agenda Topics
+	- Discuss FMP Prefill
+	- Discuss "synthesis checkpoints"
+ 	- Discuss OHI CHanges
+  	- Talk about interviews
+ 
+### Notes
+- Premal worried about messaging for "apply to this form" but it will apply to the FMP systems
+- Premal and Lois are in agreement that the pattern looks good to move forward
+- Jamie showing that Part C needs to be included in the OHI PDF updates -- current PDF harms Veterans exiperiences, would like the PDF to be update to accurately reflect what the processing team needs
+- Jamie proposes some potential options for shortening the form and making the experience more streamlined -- looking for information about how to move forward
+- If we make OHI updates on the frontend, it also impacts engineers because we need to stamp onto the PDF with these changes
+- Rachael spoke with all folks that Lois suggested while looking into their synthesis checkpoints -- no other teams do this to an extent beyond what our teams do
+- Lois wants the synthesis checkins because she's having a hard time connecting the findings to the notes, so it'll make it easier for her to understand the final report (so she knows what's coming, other than just reviewing the end report)
+- TBD whether or not Rachael and Steven will be the ones doing the CHAMPVA Claims analysis -- will need to do some sort of handoff to Jamie that Lois would like to be part of
+- Hopefully Rachael and Steven will have some initial synthesis findings before rolling off the project, so they can pass off information to Jamie and Lois -- they will pass off whatever they have
+- Andrea suggests figuring this out moving forward with the new team and how they communicate the research back to Lois (improve the report itself, not just the communication)
+- Lois suggests possibly doing a "topline" report
+- Steven explains that our research team already does more than many other research teams, as he has spoken to other teams
+- Andrea suggests we wait to change the process until the new team starts and create it as a team norm instead of trying to change it now
+- Premal thinks we need some sort of sync before the new team starts just so this CHAMPVA Claims analysis can be what Lois wants
+- Rachael says we should wait until we get the 6-8 interviews done before we move forward with synthesis -- currently blocked by Perigean not recruiting enough people
+
+- Double notes from Jamie:
+- F2 Prefill:
+Is it confusing to state that the address will only update on this “form”? Premal to this bring up in a leadership meeting but what we have now maybe ok for launch.
+Consider changing it to “this applies to FMP forms”
+We found out that you cannot change the Name , DOB and SSN through VA Profile online.
+Premal and Lois are good with the overall Prefill pattern
+- Synthesis checkpoints:
+This will act as a checkpoint mid-synthesis to lessen the time it takes for Lois to look through the report at the end.
+With Lois not being involved in the synthesis at all has made it difficult for her look through the final report.
+Lois wants to be apart of the handoff when Rachael and Steven leave
+There may be a checkpoint before they leave but we can be sure depending on timing
+There will be a handoff of the synthesis from Rachael and Steven to Jamie and Lois once they roll off
+The goal is to improve the communication between the synthesis and report. Lois expects for it to serve as a way to talk me through what is happening for clarity.
+Lois and Premal are trying to standardize the way the healthcare teams work.
+The Checkpoint would be more related to how the final report gets shaped and not related to how the research gets done. 
+Andrea suggested setting up as a norm for the “new team” to handle the checkpoint. 
+Involve Jamie in the research over the next few weeks
+Make Wednesday as a cutoff date for getting interviews.
+Lois will discuss concerns with no-shows into her meeting with Perigean.
+  
+### Decisions and action items
+- Syd to follow up with designers and CAIA to make sure the "applies to this form" copy is accurate and clear for users
+- Premal to talk with Delaney about updating the form -- see if we want to update it now or wait til post launch
+- Jamie to clean up OHI file and get it ready to share with stakeholders (low priority though)
+- Plan is to try to get as many more interviews in as we can, and cut it off on Wednesday 9/11
+- Lois to follow up with Perigean about no-shows
+- Synthesis check-ins to be determined by new team structure
+
+
+
+
+## August 26, 2024
+- Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang
+- Facilitator: Rachael
+- Next meeting facilitator: Steven
+- Agenda Topics
+	- Next steps for OHI
+ 	- Debrief on Friday's pilot session for 59a UXR
+ 
+### Notes
+- Next steps for OHI
+	- We were not aware of taking out the pharmacy benefits for Medicare. Jamie thinks - better to capture more data than less, and we would want to firm up if we really need it before we take it out. Seems to be some confusion.
+ - Since it's already on the form, it's an optimization but not requried to take it out - Jamie
+ - Lois - if we can ask for less, that's better from a UX perspective. But Jamie is worried about not collecting data that they do need. 
+ - Bo and Lois - feels like they're trying to remove stuff from the digital form before the paper form.
+ - Paper form is going to update end of October. Keep on eye on that. We need to figure out who is in charge of that.
+ - We also need to revise the upload screen
+ - Do we want to delay staging?
+ - Mary - we need to know what's going to happen with updating the paper form
+ - Lois - let's look into how to download the confirmation page so we can look into using it to reupload later
+- Pilot session debrief
+	- We need to understand what a claim actually is - probe on this 
+ 	- Consider easy exit if people dive too deep into what it's like in a doctor's office
+  
+### Decisions and action items
+- Premal OK with defaulting to put an email on all the forms (Bo - need to determine what to do with it on the back end. Need to investigate how it would work)
+- For now, we are not going to take out the question on pharmacy benefits for Medicare. We first need to understand how/when/who will update the paper OHI form.
+- Need to look into who owns the forms and keeps them aligned
+- Understand when we're going to be able to use a "download form" option - Syd to do discovery around who's doing it and how it works
+
 ## August 19, 2024
 - Attendees: Jamie Fiore, Syd Hoeper, Bo Altes, Lois Lewis, Premal Shah, Rachael Penfil, Devi Hill, Mary Wang
 - Facilitator: Jamie
@@ -9,7 +150,7 @@
 	- Review CHAMPVA Application and OHI forms merge
  	- Talk through any PRA risks involved with the CHAMPVA Application and OHI merge
   
- 
+
 ### Notes
 - OHI: Frame the question about Medicare cards as we are trying to reduce the content on the uploaded screen if other card types are not needed. 
 	- If we only need the "red white and blue" card, provide examples of what the card looks like. Keep a11y in mind while doing this. 

@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: August 12, 2024
+Last updated by @tygindraux: September 13, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -49,13 +49,17 @@ This research will help us document and prioritize any bugs or usability issues 
 * Are there any inconsistencies during the journey that present confusion?
 * Do Veterans who use assistive technology feel they can read a reply from VA or reply to VA without the support of another person?
 * Does Ask VA need to change or evolve to offer an equitable experience? If so, how?
+* Are statuses clear, do they require more description? If so, just for screen reader users or for everyone?
+* Do accordions adding unnecessary complexity? Would plain text be better for the conversation?
 
 ### Hypotheses
 
 1. Veterans will think headers, labels and links are descriptive and clear.
 2. Veterans will be able to interact with all elements using only their keyboards or other devices.
 3. Veterans will be oriented and still able to use the dashboard when magnified.
-4. Sign in will be a barrier for some Veterans using a screen reader or magnification.
+4. Veteran's who use screen readers will find it difficult to know how many cards are under the "Your question" section, including when they filter by category and/or status.
+5. Veterans will not have difficulty navigating between pages of cards on the dashboard with their assistive technology.
+6. Veterans will find it difficult to understand what each status means without more description, regardless of which assistive technology they use.
 
 ## Methodology
 
@@ -148,7 +152,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Yes
     - No
 
-#### Screen readers
+#### Screen reader users
 
 1. Do you need to use a screen reader to access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
     - Yes
@@ -178,7 +182,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 6. Please list the name of the screen reader you will use during the session.
     - Open text box
 
-#### Alternative navigation
+#### Alternative navigation users
 
 1. Do you need to use alternative navigation tools to access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
     - Yes
@@ -194,31 +198,41 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - Pointer device on mobile (mouse, joystick)
     - Other (Please specify): ________________
     - This question doesn't apply to me
-3. How frequently do you use an alternative navigation tool? Your best guess is okay.
+3. How long have you been using an alternative navigation tool? Your best guess is okay.
+    - 0 - 1 years
+    - 2 - 4 years
+    - 5+ years
+    - Never used
+4. How frequently do you use an alternative navigation tool? Your best guess is okay.
     - Daily
     - Once a week
     - Once a month
     - Never
-4. Can you join the Zoom session from your mobile or desktop device using your alternative navigation tool?
+5. Can you join the Zoom session from your mobile or desktop device using your alternative navigation tool?
     - Yes
     - No
     - This question doesn't apply to me
-5. Please list the name of the alternative navigation tool you will use during the session.
+6. Please list the name of the alternative navigation tool you will use during the session.
     - Open text box
 
-#### Screen magnification
+#### Screen magnification users
 
 1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
     - Yes
     - No
 2. If you answered yes, which screen magnification tool do you use?
    - Open text box
-3. If you answered yes, how frequently do you use screen magnification on VA.gov?
+3. How long have you been using a screen magnification tool? Your best guess is okay.
+    - 0 - 1 years
+    - 2 - 4 years
+    - 5+ years
+    - Never used
+4. How frequently do you use screen magnification on VA.gov?
    - Always
    - Sometimes
    - Rarely
    - Never
-4. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
+5. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
    - Yes
    - No
    - This question doesn't apply to me
@@ -228,28 +242,26 @@ We'd like to recruit people who use a mix of different screen magnification soft
 |Date|Milestone|
 |:--|:--|
 |September 3, 2024|Research Review|
-|September 5 - 6, 2024|Pilot sessions with CAIA|
+|September 10 - 11, 2024|Pilot sessions with CAIA|
 |September 17 - 24, 2024|Research sessions|
 |September 26 - October 3, 2024|Synthesis|
 |October 4, 2024|Share findings|
 
 ### Pilot sessions
 
-We will have 3 pilot sessions and/or asynchronous reviews with CAIA.
+We will have 2 pilot sessions and/or asynchronous reviews with CAIA. Tyler will set up pilot sessions herself (Perigean does not need to schedule.)
 
-Here is our [CAIA research support ticket](add link).
+Here is our [CAIA research support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92003).
 
-**Pilot 1: Desktop with screen reader**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 5 - 6, 2024
+**Pilot 1: TTS (Mac Voice Control) on desktop**
+- Pilot participant: Jamie
+- [CAIA a11y Research - PILOT: Ask VA - Desktop Pilot - Dashboard #92028](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92028)
+- Date and time of pilot session: September 11th at 11am-12pm EST
 
-**Pilot 2: Mobile with screen reader**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 5 - 6, 2024
-
-**Pilot 3: Desktop with alternative navigation**
-- Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around September 5 - 6, 2024
+**Pilot 2: Screen reader on mobile**
+- Pilot participant: SK
+- [CAIA a11y Research - PILOT: Ask VA - Mobile Pilot - Dashboard #92024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92024)
+- Date and time of pilot session: September 11th at 2-3pm EST
 
 ## Research sessions
 
@@ -259,7 +271,7 @@ Here is our [CAIA research support ticket](add link).
 - Buffer between sessions: 30 minutes
 - Maximum sessions per day: 2 sessions
 
-### Availability UPDATE
+### Availability
 
 We will provide 24 time slots, with the aim to book 12 sessions. We have provided 1.5 hour sessions, but for screen magnification users, please only book 1 hour.
 
@@ -285,7 +297,7 @@ We will also provide one day for overflow. This should only be booked if we don'
 * Participant recruiting & screening: Perigean
 * Project point of contact: Tyler Gindraux
 * Participant(s) for pilot test: CAIA
-* Accessibility specialist: TBD
+* Accessibility specialist: Sara, Jamie, SK
 * Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
 

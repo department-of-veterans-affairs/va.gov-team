@@ -57,10 +57,10 @@ This research will help us document and prioritize any bugs or usability issues 
 
 1. Veterans will think headers, labels and links are descriptive and clear.
 2. Veterans will be able to interact with all elements using only their keyboards or other devices.
-4. Veterans will be oriented and still able to use the form when magnified.
-5. Veterans will understand that information has been pre-filled from 'their' account and know how to update it.
-6. Veterans will understand their progress in the form with or without visual cues.
-7. Sign in will be a barrier for some Veterans using a screen reader or magnification.
+3. Veterans will be oriented and still able to use the form when magnified.
+4. Veterans will understand that information has been pre-filled from 'their' account and know how to update it.
+5. Veterans will understand their progress in the form with or without visual cues.
+6. Sign in will be a barrier for some Veterans using a screen reader or magnification.
 
 ## Methodology
 

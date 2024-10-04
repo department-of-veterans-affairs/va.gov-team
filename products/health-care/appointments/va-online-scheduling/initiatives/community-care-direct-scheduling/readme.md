@@ -1,5 +1,21 @@
 # CC Direct Scheduling initiative brief 
 
+## Initiative quick links 
+
+### Requirements
+
+- **[Business and legislative requirements tracker (SharePoint)](https://dvagov-my.sharepoint.com/:x:/g/personal/robert_meehan3_va_gov/EdTXJw53krNIt1qysxRDLwABl1cbCz0Hi4fYhzyxSoEVmA?e=8R3ypc)**
+- **[CC DVSS Process Flow](https://dvagov-my.sharepoint.com/:u:/g/personal/robert_meehan3_va_gov/EZ8ifg_TwetKmevHKDieolABMkHlo2Ovtt4NOrxB5Fb10Q?e=v4nRRy)**
+
+### Other artifacts 
+
+- [Initiative SharePoint Site](https://dvagov.sharepoint.com/:f:/s/HealthApartment/EsTqWKP_0G1PuMla1iiyr9kBfiuSpcQxUodT9n1WLqIj7g?e=p9TaHh)
+- [MVP Scope Slack Canvas](https://dsva.slack.com/docs/T03FECE8V/F07NVM3B9NG)
+- [Care Nav API Endpoints (SharePoint)](https://dvagov.sharepoint.com/:x:/s/HealthApartment/EVXEu66555xIs5UMghBrAvIBjUuwc-AMyLC_YsCmTJfQbg?e=Ec9AuH)
+- [Figma designs](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=2490-44318&t=4E3sLy8lYzxyOpUL-1)
+- [User and data flows (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/r/1675718737504?folderUuid=30f4b508-9720-4ebf-8105-40700da3c6aa)
+- [Requesting access to referrals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/referral/access-to-planatir.md)
+
 ## Overview
 
 ### Cleland-Dole Act
@@ -9,7 +25,6 @@
 **More information:** [Cleland Dole Act PDF](https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf)<br>
 Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2023 | Congress.gov | Library of Congress (Section 121, 125, 132, 133)
 
-**[Business and legislative requirements tracker (SharePoint)](https://dvagov-my.sharepoint.com/:x:/g/personal/robert_meehan3_va_gov/EdTXJw53krNIt1qysxRDLwABl1cbCz0Hi4fYhzyxSoEVmA?e=8R3ypc)**
 
 ### CC scheduling current state
 
@@ -23,11 +38,23 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 **High-level**
 
-<img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/61887bd5-3b13-48d3-9537-6e2659db9030"><br><br>
+<img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/user-attachments/assets/236a4371-1a2c-441b-929a-f83173c6267c"><br><br>
 
 **Sequence diagram**<br><br>
 
-<img width="980" alt="Frame 1" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/3c7925aa-f393-4972-aa44-b926b5c21569">
+<img width="1000" alt="Frame 1" src="https://github.com/user-attachments/assets/e638d073-6daf-4f99-80ee-1fc2a044d9f4"><br><br>
+
+**End-to-end data flow**
+
+- [Review the CC DVSS end-to-end data flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717007634301/2e9fa61206c18e8cf196e2deb612eb0b577fb458?sender=u37bb983bd3fc3cc00c7d3286)<br><br>
+
+<img width="996" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/user-attachments/assets/9459b789-49f2-4127-9aaf-d1aa306c39d8"><br><br>
+
+**Referrals-to-notifications-to-VA.gov data flow**
+
+- [Review the Community Care VSS referral to VA Notify data flow in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724857034587/50f5a6735d13d9273970da070a5573385dd7fb2c?sender=u37bb983bd3fc3cc00c7d3286)<br><br>
+
+<img width="996" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/user-attachments/assets/156fc85e-cb01-41dc-8f36-13785257b4aa">
 
 ## Research findings
 
@@ -43,6 +70,12 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 - **For both cases, appointment availability was top of mind.** Most participants wanted to know how soon they could see the provider, or if the provider was available on specific dates.
 - Participants liked knowing a provider’s distance, but **some wanted to see the provider list in alphabetical order so they could find someone who they already knew - either an existing provider, or one they had researched.**
 - **Most participants said they would spend time researching providers before reaching this step,** googling review sites to get a sense of the provider’s reputation.
+
+### Recent research 
+
+#### Community care self-scheduling - usability and concept testing research findings 
+
+- [2024-06 Research Findings - Community Care Self-Scheduling Findings Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md)
 
 ## Outcomes
 
@@ -70,11 +103,5 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 - Conversion rate % | baseline
 - Error failure rate % | baseline
 
-## Discovery 
-
-### CC direct scheduling high level visual data flow (WIP)
-
-[Review Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712435187811/f3ab95fd81a0a49af7d20f4629e9fee0356bb8d9)<br>
-[Download PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/14980565/CC.direct.scheduling.high.level.visual.data.flow_2024-04-15_14-37-39.pdf)<br>
-
-<img width="1000" alt="CC direct scheduling high level visual data flow (WIP)" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/e7c4fa94-7cf7-46b0-b349-c85281b38eb4">
+## Schedule
+- [EPS-VAOS Schedule Overview in SharePoint](https://dvagov.sharepoint.com/:p:/s/HealthApartment/EaymMOj8IRVLgeceh1kS-OQB1K4Cnr39NJHeSSVmOrZ14g?e=zHH3UW)

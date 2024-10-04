@@ -78,8 +78,8 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 
 
 ## Solution approach
-* Comms to let Veterans know what is happening.
-* UX changes to de-emphasize sunsetting credentials.
+* Progressively urgent communications to let Veterans know what is happening.
+* UX changes to progressively de-emphasize the sunsetting credentials.
 * Timeline which accelerates nudging Veterans to move away from MHV and DSLogon as their sunset dates approach.
 
 ## Key dates
@@ -93,4 +93,6 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 ## Frontend
 ## Design
 
-- [Figma design](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?m=auto&t=goA3iDADRZdnacsU-6), currently includes brain storming of possible design flows (Aug 2024)
+- [Figma design for sign in page changes](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?m=auto&t=goA3iDADRZdnacsU-6), currently includes brain storming of possible design flows (Aug 2024)
+
+- [Figma design for interstitial](https://www.figma.com/design/skWgD0gHYGlKSoLdH097OX/USiP-and-sign-in-modal---deemphasize-DSL%2FMHV?node-id=74-62823&t=vsDxsHI2L0hFmw0R-0)

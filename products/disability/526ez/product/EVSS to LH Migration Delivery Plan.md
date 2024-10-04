@@ -34,17 +34,17 @@ Delivery deadline: Original sunset date for EVSS August 2023 - new date TBD
 External dependency: Lightouse endpoint availability in Lighthouse staging & production environments
 
 ## Delivery Status of 526ez Endpoints
-|Endpoint|Lighthouse Update               | DBEX Update|Notes|
-|--------|--------------------------------|------------|-----|
-|Intent to file |In production|100% in production| Endpoint remains stable. |
-|Submit | In production, resolving bugs. |In development| Endpoint is needed to complete release of the 2022 version of the 526ez. Previous version not synchronous, new endpoint version will provide a synchronous response except for 526 PDF upload. |
-|Benefits claims service| In production|100% in production| Rolled back April 2024 for Employee Experience release; resumed May 2024. |
-|Generate PDF|In production|In development| Team 2 |
-|Rated Disabilities| Bug fix re-release to LH staging and production 5/20/24|On hold, ready to resume release||
-|PPIU (Direct Deposit) |In production|100% in production| Endpoint remains stable. |
-|PCIU (Prefill) |Original notes were to migrate to VA Profile, not to LH. However, there are some 526-specific calls that VA Profile does not support so migration still needed. |Development complete, release paused.| Address error rate too high to proceed with confidence, on hold.|
-|Document Service|In development| In development| Team 2 |
-|Benefits Reference Data(BRD) API|In production|On hold, ready to resume release| Validation of monitoring and canary launch next |
+|Endpoint|Description for use|Lighthouse Update               | DBEX Update|Notes|
+|--------|--------------------------------|--------------------------------|------------|-----|
+|Intent to file ||In production|100% in production| Endpoint remains stable. |
+|Benefits claims service|| In production|100% in production| Rolled back April 2024 for Employee Experience release; resumed May 2024. |
+|PPIU (Direct Deposit) ||In production|100% in production| Endpoint remains stable. |
+|Submit || In production, resolving bugs. |In production; Currently in 25% users when they start new forms only| Endpoint is needed to complete release of the 2022 version of the 526ez. Previous version not synchronous, new endpoint version will provide a synchronous response except for 526 PDF upload. |
+|Generate PDF||In production; paired with Submit rollout above|In development| Team 2 |
+|Document Service||In development| In development| Team 2 |
+|Rated Disabilities|| Bug fix re-release to LH staging and production 5/20/24|On hold, ready to resume release||
+|PCIU (Prefill) ||Original notes were to migrate to VA Profile, not to LH. However, there are some 526-specific calls that VA Profile does not support so migration still needed. |Development complete, release paused.|| Address error rate too high to proceed with confidence, on hold.|
+|Benefits Reference Data(BRD) API||In production|On hold, ready to resume release| Validation of monitoring and canary launch next |
 
 
 ## Delivery Plan for Remaining Work

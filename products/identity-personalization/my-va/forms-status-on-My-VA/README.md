@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: July 30, 2024 - updates to scope**
+**Last updated: October 4, 2024 - updated security artifacts**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -53,7 +53,7 @@ There are two (potentially three) major components of work to address these prob
 2. Conveying the current status, which we can obtain by polling the Benefits Intake API post-submission, to the user on My VA. -- _to be handled by Auth Exp My VA team_
 3. TBD - updates to notifications via and in partnership with VA Notify so that updates are triggered to Veterans with these status changes as well.
 
-**The MVP will target the following forms:**
+### The MVP will target the following forms:
 |Form ID| Form Title | Definition | What happens post submission?|
 |---|----|----|---|
 |21-4142 & 21-4142a (These are combined together)| Request Private Medical Facilities | Use this form if you want to give VA permission to request your medical records and information from non-VA sources to support your benefit claim.|  |
@@ -63,13 +63,14 @@ There are two (potentially three) major components of work to address these prob
 | 21-0972 | Alternate Signer | Use this form if you’re signing a VA benefits application or related form on behalf of someone else. This form certifies you as an alternate signer for the Veteran or non-Veteran with a VA claim (also called the claimant).| |
 | 21P-0847 | Request to be a substitute claimant | Use this form if someone you’re connected to dies before VA finishes processing their VA claim and you want to continue their claim.|
 | 20-10207 | Priority Processing | Use this form to request that VA process your claim faster due to certain situations. One of these descriptions must be true: <br/>- You’re homeless or at risk of becoming homeless, **or** <br/>- You’re experiencing extreme financial hardship (such as loss of your job or a sudden decrease in income), **or** <br/>- You have ALS (amyotrophic lateral sclerosis), also known as Lou Gehrig’s disease, **or** <br/>- You have a terminal illness (a condition that can’t be treated), **or** -<br/>You have a Very Seriously Injured or Ill (VSI) or Seriously Injured or Ill (SI) status from the Defense Department (DOD) (this status means you have a disability from a military operation that will likely result in your discharge from the military),**or**or <br/>-You’re age 85 or older, or <br/>-You’re a former prisoner of war, **or** <br/>-You received the Medal of Honor or the Purple Heart award| |
+| 20-10206 | Request personal records  | Use this form to request personal compensation, pension or benefit records | |
 
 
 ### **Functionality & Scope**
 
 **My VA**
 - Updated heading for the Benefit Applications section to "Benefit applications and forms"
-- Status cards in Benefit applications and forms section on My VA for the following statuses: submitted/pending (TBD), action needed, received
+- Status cards in Benefit applications and forms section on My VA for the following statuses: submission in progress, action needed, received
 - Accordion component for "why don't you see your form"
 - Download functionality on My VA (pending reusability from VFF work)
 - Display logic: cards appear for 60 days and then disappear, user does not have dismiss capability
@@ -109,13 +110,12 @@ There are two (potentially three) major components of work to address these prob
 - Create more confusion around form status and failures/errors.
 
 ## Security
-[Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-security-playbook.md)
+- Security playbook: [Forms Status security playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/launch-materials/forms-status-on-my-va-security-playbook.md)
+- [System monitoring playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/auth-experience/playbooks/monitoring.md#system-monitoring-playbooks)
+
 
 ## Measuring Success
 The primary goal of this MVP is to reduce silent submission failures in the form/application submission process.
-
-### Objectives & Key Results
-TK TK
 
 ## Key deliverables
 
@@ -131,9 +131,9 @@ TK TK
 - May 21, 2024: Midpoint Review
 - May 29, 2024: CAIA a11y Pilot
 - June 2024: Usability Study
-- ____: QA
-- ____: Staging Review
-- ____: UAT
+- September 24, 2024: QA
+- October 4, 2024: Staging Review
+- ____: internal UAT
 - ____: Begin phased launch
 - ____: Launch to 100%
    

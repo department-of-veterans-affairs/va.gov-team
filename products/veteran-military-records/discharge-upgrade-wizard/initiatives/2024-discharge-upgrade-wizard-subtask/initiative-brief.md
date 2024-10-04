@@ -7,7 +7,7 @@ The existing discharge upgrade wizard was built in Vets.gov days. It does not us
 
 Based on learnings from the PACT Act wizard, this effort will improve the ability for Veterans to determine their eligibility for a discharge upgrade by re-modernizing the product to align with current VA.gov design and content standards, and convert to a subtask pattern.
 
-**OCTO lead** - Dave Conlon
+**OCTO lead** - Michelle Middaugh
 
 **Is this project tracked to an upcoming event or congressional deadline?** - No
 

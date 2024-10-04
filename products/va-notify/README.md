@@ -18,16 +18,16 @@ Email us at **VA Notify** (oitoctovanotify@va.gov)
 
 # Points of Contact
 **Product**
-- Dave Conlon, VA PO - VA Notify, Strike Team
-- Samantha Jennings, Product Manager - Forms Strike Team
-- Rachel Han, VA PO - VA Platform, Notify Team
-- Jeff Keene, Lead Engineer - VA Platform, Notify Team
-- Ksenia Belikova, Product Manager - Notifications Platform
+- Dave Conlon, VA PO - VA Notify, Notify Experience (Strike) Team
+- Samantha Jennings, Product Manager - Notify Experience (Strike) Team
+- Rachel Han, VA PO - VA Platform, Notify Platform Team
+- Jeff Keene, Lead Engineer - VA Platform, Notify Platform Team
+- Ksenia Belikova, Product Manager - Notify Platform Team
 
 
 **Engineering**
-- Kyle Macmillan, Tech Lead - Notifications Platform
-- Nathan Wright, Tech Lead - Forms Strike Team
+- Kyle Macmillan, Tech Lead - Notify Platform Team
+- Nathan Wright, Tech Lead - Notify Experience (Strike) Team
 
 # Playbook
 
@@ -50,7 +50,8 @@ VA Notify does not…
 - Track analytics per Veteran
 
 ## Supported notification channels (types)
-Currently we support email, text messaging (SMS) and push notifications with the Flagship Mobile App. You can find the VA Standard Operating Procedures for SMS [here](https://github.com/department-of-Veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
+Currently we support email, text messaging (SMS) and push notifications with the Flagship Mobile App. 
+Read our [VA Standard Operating Procedures for SMS](https://github.com/department-of-Veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
 
 ## Onboarding to VA Notify
 Welcome! Please submit an [intake form](https://github.com/department-of-Veterans-affairs/va.gov-team/issues/new?assignees=christy-tongty%2C+mjones-oddball%2C+GitSamJennings&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D) to kick off the process. This lets us know a little bit more about you and what you’re trying to accomplish to ensure VA Notify is a good fit. From there we may schedule a kick-off meeting to learn more and guide you through next steps.

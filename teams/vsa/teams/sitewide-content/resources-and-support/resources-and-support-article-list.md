@@ -127,3 +127,13 @@
 | 125 | [VA health care income limits](https://www.va.gov/resources/va-health-care-income-limits/) | Health care           | 8/29/23    |       |  
 | 126 | [What should I bring to my health care appointments?](https://www.va.gov/resources/what-should-i-bring-to-my-health-care-appointments/) | Health care           | 7/17/24    |       | 
 | 127 | [Separation Health Assessment for service members](https://www.va.gov/resources/separation-health-assessment-for-service-members/) | Health care           | 6/8/23    |       | 
+| 128 | [Qué traer para crear su cuenta de inicio de sesión en línea](https://www.va.gov/resources/que-traer-para-crear-su-cuenta-de-inicio-de-sesion-en-linea/) | Health care | 8/28/24 | Waiting on QA
+| 129 | [Verificación de su identidad en VA.gov](https://www.va.gov/resources/verificacion-de-su-identidad-en-vagov/) | VA account and profile | 8/29/24 | Waiting on QA
+| 130 | [Iniciar sesión en VA.gov](https://www.va.gov/resources/iniciar-sesion-en-vagov/)| VA account and profile | 8/29/24 | Waiting on QA
+| 131 | [Creación de una cuenta para VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov-esp) | VA account and profile | 9/3/24
+| 132 | [How to create a Login.gov account for VA](https://www.va.gov/resources/how-to-create-a-logingov-account-for-va/) | VA account and profile | 9/10/24
+| 133 | [How to create an ID.me account for VA](https://www.va.gov/resources/how-to-create-an-idme-account-for-va/) | VA account and profile | 9/10/24
+| 134 | [How to verify your identity for your ID.me account](https://www.va.gov/resources/how-to-verify-your-identity-for-your-idme-account/) | VA account and profile | 9/10/24
+| 135 | [How to verify your identity for your Login.gov account](https://www.va.gov/resources/how-to-verify-your-identity-for-your-logingov-account/) | VA account and profile | 9/6/24
+| 136 | [Can I get a Login.gov or ID.me account if I don’t have a mobile phone?](https://www.va.gov/resources/can-i-get-a-logingov-or-idme-account-if-i-dont-have-a-mobile-phone/) | VA account and profile | 9/5/24
+| 137 | [If I return to active duty, will I still get VA disability payments?](https://www.va.gov/resources/if-i-return-to-active-duty-do-i-still-receive-va-disability-payments/) | Disability | 9/13/24

@@ -44,9 +44,9 @@ Last Updated: January 5, 2024
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Denise Coveyduc                          |
 |Sr. Product Manager    |Tom Davis                    |
-|Delivery Manager       |Heather Rienks                     |
-|Lead Back End Engineer  |Austin Smith                         |
-|Back End Engineer      |Kevin Suarez                                |
+|Delivery Manager       |Devi Hill                     |
+|Sr. Back End Engineer  |Penny Lischer                         |
+|Back End Engineer      |Derek Dyer                                |
 |Lead Front End Engineer |Andrew Rodiek                       |
 |Sr. Front End Engineer |Brandyn Sullins                     |
 |Sr. Front End Engineer |Aaron Ponce                        |
@@ -65,10 +65,10 @@ Last Updated: January 5, 2024
 ##  Agile Ceremonies 
 |**Agile Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |**Facilitator**  | 
 |-----------------------|------------------------------|------|------------------|-----------------|----------------|
-|*Stand-Up*               |*M,W,F* @ 12:30pm ET/9:30am PT |30 mins         | *M,W,F*: Zoom T,Th: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any Blockers and/or Dependancies?|Heather Rienks  | 
+|*Stand-Up*               |*M,W,F* @ 12:30pm ET/9:30am PT |30 mins         | *M,W,F*: Zoom T,Th: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any Blockers and/or Dependancies?|Devi Hill  | 
 |*Sprint Planning*        |Last Tuesday of every sprint  @ 1:00pm ET/10:00am PT|45 mins | Zoom meeting|Outline team and member focus, goals for upcoming sprint.|Tom Davis  | 
-|*Sprint Retrospective*                  |Last Tuesday of every sprint @ 3pm ET/12pm PT | 60 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|Heather Rienks    | 
-|*Backlog Refinement* | Bi-Weekly 2nd Wednesday of every sprint, @ 1:30pm ET/10:30am PT|45 mins |Zoom meeting|Assess and update workload for remainder of sprint|Heather Rienks    | 
+|*Sprint Retrospective*                  |Last Tuesday of every sprint @ 3pm ET/12pm PT | 60 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|Devi Hill    | 
+|*Backlog Refinement* | Bi-Weekly 2nd Wednesday of every sprint, @ 1:30pm ET/10:30am PT|45 mins |Zoom meeting|Assess and update workload for remainder of sprint|Devi Hill    | 
 
 </br>
 
@@ -76,12 +76,12 @@ Last Updated: January 5, 2024
 ##  Planning Meetings
 | **Meeting**                  | **Cadence**         | **Attendees/Groups**                 |**Agenda/Focus**       | **Facilitator(s)**  | 
 |--------------------------|-----------------|----------------------------------|-------------------|-------------------|
-| *Product Planning*               | Quarterly: once every 3 months        | Matt, Denise, Jill, Heather, A6? |Discuss product roadmap and OKR status |Denise Coveyduc  | 
+| *Product Planning*               | Quarterly: once every 3 months        | Matt, Denise, Jill, Devi, Tom |Discuss product roadmap and OKR status |Denise Coveyduc  | 
 | *Quarterly Team Planning*       | Quarterly: once every 3 months    | PM, DM, BE, FE, Design, Research  |Align on upcoming priorities |Denise Coveyduc   | 
-| *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Heather Rienks, Tom Davis  | 
-| *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Heather Rienks, Tom Davis  | 
-| *Design/Research Touchpoint*   | Weekly          | PM, DM, Design, Research     |Align on current Design + Research Priorities, Challenges, & Blockers         |Heather Rienks, Tom Davis  | 
-| *PM + DM Sync*   | Twice Weekly          | PM, DM   |Align on Priorities & Team Needs |Heather Rienks, Tom Davis| 
+| *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Devi Hill, Tom Davis  | 
+| *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Devi Hill, Tom Davis  | 
+| *Design/Research Touchpoint*   | Weekly          | PM, DM, Design, Research     |Align on current Design + Research Priorities, Challenges, & Blockers         |Devi Hill, Tom Davis  | 
+| *PM + DM Sync*   | Twice Weekly          | PM, DM   |Align on Priorities & Team Needs |Devi Hill, Tom Davis| 
 
 
 
@@ -89,14 +89,14 @@ Last Updated: January 5, 2024
 | **Meeting** | **Cadence**      | **Attendees/Groups**   |**Agenda/Focus**    |**Facilitator**  | 
 |-------------|--------|-------------|---------|----------|
 | *Veterans Online Debt Access (VODA) Project Overview* | Monthly      | VA Leadership    |Provide update to leadership monitoring progress and reviewing path forward for VA Debt Portal    |Denise Coveyduc  |   
-| *Debt Team Sprint Demo* | Bi-Weekly (Encompasses previous sprint accomplishments)     | Denise Coveyduc, Debt Team  |Summarize current work & achievements    |Heather Rienks  | 
+| *Debt Team Sprint Demo* | Bi-Weekly (Encompasses previous sprint accomplishments)     | Denise Coveyduc, Debt Team  |Summarize current work & achievements    |Devi Hill  | 
 
 
 
 ## Contract Meetings
 | **Meeting** | **Cadence**      |**Attendees**  |**Agenda/Focus**    |**Facilitator**    | 
 |-------------|--------|-------------|---------|----------| 
-| *Contract Status Meeting* | Monthly      | Jennifer O’Day (COR), Denise Coveyduc, Heather Rienks, Athena Perez    |TBD    |TBD   |
+| *Contract Status Meeting* | Monthly      | Jennifer O’Day (COR), Denise Coveyduc, Devi Hill, Athena Perez    |TBD    |TBD   |
 
 
 </br>

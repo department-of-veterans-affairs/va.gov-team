@@ -3,10 +3,12 @@
 ## Outcome Summary
 * We want to simplify the process for a Veteran to select their VA facility when applying for health care by ensuring that they can select the correct one in relation to the City, State or Zip Code they enter.
 
-**Related/Associated product(s)**
+**Related/Associated product(s) and resources**
 - Product | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - Epic | [Link to the Initiative Epic #30650](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30650)
 - [JSON static file](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/8cdc5f35ad743af51170adad84b92a8b49504bdf/src/common/va-medical-facilities.js) contained 1040 facilities
+- [Figma Design Discovery](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3831-40050&node-type=CANVAS&t=joom4n3vLUHatY2V-0)
+- [Figma Phased Designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=5131-3754&node-type=CANVAS&t=joom4n3vLUHatY2V-0)
 
 ---
 ## Problem
@@ -16,12 +18,12 @@
 
 ### Desired User Outcomes
 * Facility selection becomes easy and simple.
-* Veterans can select the specific facility they want based on knowledge, location, etc..
+* Veterans can select the specific facility they want based on knowledge, location and facility name.
 
 
 ### Undesired User Outcomes
 * Facility selection becomes complicated or difficult.
-* Veterans face _analysis paralysis_ due to volume of information presented to them.
+* Veterans face _analysis paralysis_ due to volume of information presented to them in the drop-down list.
 
 
 ### Desired Business Outcomes
@@ -48,7 +50,7 @@ We currently have the following qualitative metrics:
 |--------|-----------------------|----------|--------------------|
 |Visits to Find Locations page, from the Facility Selection page | 10,871 | 5,000 | TBD |
 
-- [Google Analytics](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230101&_u.date01=20230630&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Ffind-locations~2F&_r.tabId=navigationsummary&navigationsummary.rowCount=50&navigationsummary-fromNavigationSummaryTable.filter=insurance-information/) - page navigation from Facility selection page to Facility Locator page
+- [Google Analytics] - page navigation from Facility selection page to Facility Locator page
 
        
 ---
@@ -76,8 +78,8 @@ We currently have the following qualitative metrics:
   - VA stakeholder End-to-End testing
 
 ### What're you building
-#### In Scope
-- Update UI to allow for dynamic facility location search based on City, State or Zip Code
+#### Phase 1 - In Scope
+- Update UI to allow for dynamic facility location search based on Zip Code
 - Only one facility can be selected
 - Display facility name and address in the list of facilities returned from search
 
@@ -101,6 +103,7 @@ We currently have the following qualitative metrics:
 ### Collaboration Cycle
 
 - Kickoff ticket #..
+  - PO Sync
   - Design Intent
   - Research Review
   - IA Review
@@ -125,7 +128,8 @@ We currently have the following qualitative metrics:
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
-  - tbd
+  - API Update launch: August 26, 2024
+  - UI Redesign launch: TBD 
 
 ---
    
@@ -164,7 +168,7 @@ Accordion Open
 <details>
   
 - Office/Department: OCTO-DE
-- Contact(s): Patrick Bateman, Kristen McConnell
+- Contact(s): Patrick Bateman, Lois Lewis
  
 </details>
 

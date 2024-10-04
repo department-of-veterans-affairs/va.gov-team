@@ -1,7 +1,5 @@
 # Engineering Collaboration Cycle
 
-__*** DRAFT *** DRAFT *** DRAFT ***__
-
 Building on the current [Collaboration Cycle][1], the Veteran-Facing Platforms and Platform Services and Governance crews are adding engineering touchpoints.
 
 [1]: https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/

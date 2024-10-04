@@ -35,7 +35,7 @@ Today, while Veterans can file disability compensation for conditions believed t
 - Veterans express that the UX is worse than it was before
 
 ## Measuring Success
-
+We will be measuring the success of the release and delivering a weekly report on Fridays: [UX Monitoring Toxic Exposure Release ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-UX-Monitoring.md)
 ### Key Performance Indicators (KPIs)
 
 | Product KPI                                                 | Baseline  | Target                                        | Data Source                                                  |

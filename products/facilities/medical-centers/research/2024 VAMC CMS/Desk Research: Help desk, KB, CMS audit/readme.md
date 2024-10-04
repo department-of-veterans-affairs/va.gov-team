@@ -1,4 +1,4 @@
-# VAMC CMS Editor Experience
+# VAMC CMS Editor Experience, August 2024
 
 ## About this project
 

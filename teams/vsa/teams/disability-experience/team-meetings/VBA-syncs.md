@@ -1,6 +1,49 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+## 10/01/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+1. Ruben: Continue the discussion for 4142:
+   * How private medical facilities are notified
+   * How requests to limit consent are handled
+   * How is it done today when using the paper form that allows them to enter more than, but not submit them separately?
+   * 4142 vs. 4142a - the 4142 is the specific consent and is individually provided to each provider. the VA leverages a contractor to solicit that info, and they're apt to only disclose specifics to the vendor. The 4142a is a valid process for VBA, where there's multiple providers on one form. 
+2. How is overflow content being handled? For 0781, we're trying to decide if we should limit fields to paper form, or put them on overflow. (ex. there's 6 spaces for events. should we allow for more and put extras on overflow, or limit to 6 entries?) ![Screenshot 2024-09-26 at 9 08 27 AM](https://github.com/user-attachments/assets/53a01405-f316-4c65-baf4-680b991b6a19)
+   * don't think overflow would affect that
+   * the "additional remarks" is the catch all for extra stuff that overflows 
+   * "i don't think limiting would be needed" - kevin
+   * "they can attach additional pages too, or veteran will submit 4138 where they will continue the info one. remarks space is pretty big enough already though" -kevin
+
+4. Jina: does VBA have a new file type for display in VBMS for the new form? (0781)
+   * SF - david put the new name in a slack message a week or two ago and it is different. more closely matches title of new name of the form
+   * [slack thread]([url](https://dsva.slack.com/archives/C04KW0B46N5/p1726770800020109))
+     
+6. An update on 25% Toxic Exposure release is forthcoming. Here's a brief recap on the current existing silent failures: The four failed submissions from July were remediated this morning by Sam on Team 2. The 'xx' date submissions are still awaiting front-end and backend-fixes before they can be remediated. Tommasina will remediate the 14 duplicate submissions today (might need support on Sharepoint access if Emily isn't able to add her), and she is still investigating the 2 other missing 'icn' submissions.
+
+
+## 9/17/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+
+1. Mike: seeking VBA signoff on design for [Submission Experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md) > Timely and Truthful Submission ([Zenhub epic](https://app.zenhub.com/workspaces/disability-benefits-experience-team-1-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) / [Github epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82076) / [Figma mockups](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&t=yuh8OGDS9kvw7KCR-1))
+2. Ruben: Continue the discussion for 4142:
+   * How private medical facilities are notified
+   * How requests to limit consent are handled
+   * How is it done today when using the paper form that allows them to enter more than, but not submit them separately?
+3. Jina: does VBA have a new file type for display in VBMS for the new form? (0781) 
+
+## 9/3/24 Biweekly VBA-DBEX Check-in
+### In attendance
+…
+### Notes
+* Jina - We looked into how the 4142 is generated in the backend. If 5 providers are inputted, then one PDF 4142 with all 5 providers on it are generated. We want to double check that this is same PDF is sent to all 5 providers. ([ticket link]([url](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/6?pane=issue&itemId=75109776))) - separate 4142 goes to each provider. the grouped provider can be for a 4142a. 
+what happens if multiple providers is sent to one provider? this is a HIPPA concern. it'll come back as "we haven't seen X for this condition" 
+* Jina - which SC category does "traumatic event" fall under? - majority of time for traumatic event, it'd be the first option (direct SC). but there could be scenarios where it was aggravated by an event. so that'd be the third bullet. 
+add (traumatic event)
+* TREX - 2022/TE Form526 5% (Canary) release: how is the data looking for 10% release from VBA's side?
 
 ## 8/20/24 Biweekly VBA-DBEX Check-in
 ### In attendance

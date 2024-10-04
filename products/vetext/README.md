@@ -8,6 +8,7 @@ In 2020 the VEText team moved to the OCTO to give it a national scope, and is no
 - [Objectives](#objectives)
 - [Team](#team)
 - [Projects](#projects)
+- [VEText Wiki Documentation](#vetext-wiki-documentation)
 - [Additional Documentation](#additional-documentation)
 
 ## North Star
@@ -94,6 +95,10 @@ The core development team (Shane, Robert & Andy) have worked together for 20 yea
 |--|--|
 |[**VEText VistA EHR Portal**](https://portal.vetext.va.gov)|The UI that VA Health Center administrators interact with to initiate VEText messages for VistA EHR facilities. 
 |[**VEText Federal EHR Portal**](https://ng.vetext.va.gov/)|The UI that VA Health Center administrators interact with to initiate VEText messages for Federal EHR facilities. 
+
+# VEText Wiki Documentation
+
+The [VEText Documentation Wiki](https://github.com/department-of-veterans-affairs/vetext/wiki/) is an internal hub for development and product documentation. 
 
 # Additional Documentation
 

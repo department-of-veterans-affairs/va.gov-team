@@ -6,8 +6,20 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 - **Team/Researcher:** 
 - **Date:**
 - **Link to study:**
-- **Takeaway**:
+- **Takeaway:**
 ----
+
+### Study name: MyHealtheVet+VA Online Scheduling appointments list discovery
+- **Team/Researcher:** Christine Rose Steiffer, Authenticated Experience Design Patterns
+- **Date:** Aug 2024
+- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill)
+- **Takeaway:** [Finding 1:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md#finding-1-veterans-dont-understand-what-is-meant-by-profile-data-and-some-conflate-vagov-data-with-their-method-of-authentication-logingov-idme-or-mhv) Veterans don’t understand what is meant by ‘profile data’ and some conflate VA.gov data with their method of authentication (Login.gov, ID.me or MHV).
+   - Veterans used a variety of words to describe where they thought their data was pulled from to display in the prototype. This included words such as account, information, profile, records, permanent record, and in the cloud among others.
+   -  Many of our participants expressed confusion around their data and it’s association, or lack thereof, with whichever authentication service they used to login to VA.gov (such as Login.gov, ID.me and MyHealtheVet). They thought that if they made changes to their VA.gov profile data, it would update their authentication platform data as well. One even thought that it would update any other platforms that were connected to their Login.gov account, such as SSA.gov.
+
+   >I would think [my records are pulled] from login.gov like when you're you sign in 'cause login.gov is also SSA and… it's also your medical records. P13
+
+
 ### Study name: Federal Header Authenticated Menu Usability
 - **Team/Researcher:** Liz Lantz, Authentciated Experience
 - **Date:** 1/31/2024
@@ -40,6 +52,25 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 >I’m trying to go in and look at my appointments or something. And then, I said shoot, my phone is downstairs in the car. I have to go downstairs and get my phone, I have to power it on, or it’s not charged.  
 
 >I tried to do something online and I signed back in and it kicked me out. And I signed in again and it kicked me out. And then I have to try a different browser just to stay logged in.
+
+
+### Study name: 526 Shadowing
+- **Team/Researcher:** 526EZ Evelyn Hilbrich Davis, Julie Pedke, and Nichole Nicholas
+- **Date:** Nov 2023
+- **Link to study:** [2023-11-Shadowing-Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
+- **Takeaway:**
+   - P10 had an interesting sequence (likely mostly stemming from reseting password)
+      - signed in (vai Login.gov) at the form page, but couldn't remember password
+      - reset password (off screeen share)
+      - Signed back in at on VA branded Login.gov, and did MFA code
+      - Back on VA got back to the form page, clicked button to start the form and went to /verfiy page
+      - clicked through to Login.gov - had to sign in again, MFA again, and then saw "Reactivate your Account" page on Login.gov
+      - this page required the Personal Key which the participant confused at first with MFA.
+      - when clicked the option for "don't have personal key" it them required ID verification, which participant mentioned doing just a few days ago.
+   - Another had to go to another room to get their phone for MFA.
+   - Another was already signed in before session start and had to sign back in due to inactivity.
+   - I saw was P12 came up with the double MFA. Likely due to having set up MFA with DS Logon, and then having the forced MFA from the ID.me “MFA wrapper”
+
 
 ### Study name: Logged-in wayfinding and navigation research
 - **Team/Researcher:** Authenticated Experience, Liz Lantz

@@ -27,7 +27,7 @@ If you're using a **Macbook** and don't hear things like `heading` and `list ite
 
 Good! This is supposed to be difficult, and why we have a community 👐
 - If you feel a little brave, ask for help on the `#accessibility-help` channel
-- If you want a safer space, ask for help on our `#a11y-champs` channel
+- If you want a safer space, ask for help on our `#accessibility-champs` channel
 - If you'd like a private one on one session with a specialist, [sign up for CAIA's office hours on Slack](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) (Tuesdays at 4 p.m. Eastern)
 
 ## You completed level 1 🥇
@@ -42,5 +42,5 @@ Congratulations on taking your first big step towards becoming an accessibility 
 
 **Before you go**
 - [ ] <strong>[Complete this feedback survey (Microsoft Forms)](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAToLe2lUM0FTUlRTRUxIMEhTVjc1RExON1JTVTk2Vi4u).</strong> This curriculum is a work in progress. If you have feedback from the technical (broken links) to the educational (hard to follow curriculum) or just want to say something nice, we'd love to hear it.
-- [ ] <strong>Message the `#a11y-champs` channel or [send a direct message to any of our specialists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md#specialists) to let us know that you've completed level 1!</strong> We'll update our community doc to reflect that. Congratulations again on your first step 💙
+- [ ] <strong>Message the `#accessibility-champs` channel or [send a direct message to any of our specialists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md#specialists) to let us know that you've completed level 1!</strong> We'll update our community doc to reflect that. Congratulations again on your first step 💙
 - [ ] Move on to level 2, or bookmark it for safekeeping (level 2 hasn't been written yet, so if you've finished this, you're all set for now!)

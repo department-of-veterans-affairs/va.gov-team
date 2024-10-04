@@ -125,6 +125,7 @@ There are multiple reasons we are leaning towards the current design being a new
 |||||
 
 ## Design and UX
+[Figma](https://www.figma.com/design/uYMdNtQnrzq7OiDl0rPF9k/Profile---Personal-health-care-contacts?node-id=4-1425&node-type=CANVAS&t=dv1qKbW0bOx4Im8o-0)
 ## Frontend
 ## Backend
 

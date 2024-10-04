@@ -104,18 +104,42 @@ We took the feedback from the calls and created an affinity map to understand th
 
 #### Exploration and Analysis of discovery research:
 
-[Experience map](https://www.figma.com/file/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?type=design\&node-id=353-8360\&mode=design)
+[Experience map (figma)](https://www.figma.com/file/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?type=design\&node-id=353-8360\&mode=design)
+Map 1 (zipped PDF): [How to enable VA and OCTO employees to deep dive into which tools provide most value](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Experience%20Map%201-%20Enable%20VA%20and%20OCTO%20employees%20to%20deep%20dive%20into%20which%20tools%20provide%20most%20value.pdf.zip)
 
-[Heuristic review](https://www.figma.com/file/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?type=design\&node-id=0-1\&mode=design)
+Map 2 (zipped PDF): [Enable VA and OCTO employees to share which traffic, actions, and customer satisfaction metrics are and how they are changing over time](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Experience%20Map%202-%20Enable%20VA%20and%20OCTO%20employees%20to%20share%20which%20traffic%2C%20actions%2C%20and%20customer%20satisfaction%20metrics%20are%20and%20how%20they%20are%20changing%20over%20time.pdf.zip)
 
-[Figma affinity map and Analysis of findings](https://www.figma.com/file/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?type=design\&node-id=128-3655\&mode=design)
+Map 3 (zipped PDF): [Enable VA employees and OCTO employees to share traffic, actions, and customer satisfaction metrics and how that is changing over time](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Experience%20Map%203-%20Enable%20VA%20employees%20and%20OCTO%20employees%20to%20share%20traffic%2C%20actions%2C%20and%20customer%20satisfaction%20metrics%20and%20how%20that%20is%20changing%20over%20time.pdf.zip)
+
+Map 4 (zipped PDF): [Enable VA employees and OCTO employees to see and share the items that are most relevant to OCTO goals and progress toward them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Experience%20map%204-%20Enable%20VA%20employees%20and%20OCTO%20employees%20to%20see%20and%20share%20the%20items%20that%20are%20most%20relevant%20to%20OCTO%20goals%20and%20progress%20toward%20them.pdf.zip)
+
+
+[Heuristic review in Figma](https://www.figma.com/file/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?type=design\&node-id=0-1\&mode=design)
+[Hueristic review in PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Hueristic%20Analysis%20of%20Jan%202024%20Version.pdf.zip)
+
+[Affinity map and Analysis of findings (Figma)](https://www.figma.com/file/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?type=design\&node-id=128-3655\&mode=design)
+
+Affinity map and Analysis of findings (PDFs)
+Affinity map of findings (PDF)
+
+[Research Question 1(PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Analysis_%20Research%20Question%201.pdf.zip)
+
+[Research Question 2(PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Analysis_%20Research%20Question%202.pdf.zip)
+
+[Research Question 3(PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Experience%20Map%203-%20Enable%20VA%20employees%20and%20OCTO%20employees%20to%20share%20traffic%2C%20actions%2C%20and%20customer%20satisfaction%20metrics%20and%20how%20that%20is%20changing%20over%20time.pdf.zip)
+
+[Research Question 4(PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Analysis_%20Research%20Question%204.pdf.zip)
+
+[Unmet needs identified in analysis (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Unmet%20needs%20identified%20in%20analysis.pdf.zip)
+
+[Top problems or needs to address as determined by product team (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Top%20problems%20or%20needs%20to%20address.pdf.zip)
 
 ****
 
 
 #### Metrics Research:
 
-[Research DOMO vs Performance Dashboard differences](https://docs.google.com/spreadsheets/d/1PfzWhQsY-p8cJ7zTOTvpyQPWereS9Gy2SBW8LSMscHM/edit#gid=0)
+[Research DOMO vs Performance Dashboard differences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Domo%20vs%20Performance%20Dashboard.xlsx)
 
 [Research Users within GA](https://app.zenhub.com/workspaces/va-iir-6508c0bd79e64e0fb5855caf/issues/gh/department-of-veterans-affairs/va-iir/605)
 
@@ -123,7 +147,7 @@ We took the feedback from the calls and created an affinity map to understand th
 
 [Performance Dashboard Analytics \_ All Tools on VA.Gov.xlsx](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWxHQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4502e4c8b053947ec48d94208249a03d7e9b59b2/Performance%20Dashboard%20Analytics%20_%20All%20Tools%20on%20VA.Gov.xlsx)
 
-[All metrics mentioned in calls, on current performance dashboard, and in presentations](https://docs.google.com/spreadsheets/d/1oCqpEyrlfof_6bnv93iW4miNHa4olN9SwELovcLjWV8/edit#gid=1226337306)
+[All metrics mentioned in calls, on current performance dashboard, and in presentations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/Performance%20Dashboard%20Metrics.xlsx)
 
 
 ### 3. Usability research

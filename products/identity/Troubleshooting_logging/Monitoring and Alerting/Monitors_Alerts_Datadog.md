@@ -2,11 +2,11 @@
 
 Last Update: 13JUN22
 
-The VSP Identity team utilizes two primary solutions for monitoring and alerting of [va.gov](http://va.gov/) login related functions. [Grafana](http://grafana.vfs.va.gov/d/ioicprRMk/ssoe-launch?orgId=1&from=now-12h&to=now&refresh=30m) and [Datadog](https://app.datadoghq.com/dashboard/97h-d7e-tgr/vsp-identity-monitor-dashboard). VSP is moving all metrics away from Grafana and into Datadog. All of the metrics utilized within these two solutions rely on Statsd. The statsd modules are used within Vets-API and many of the required proxies for Vets-API, this ensures the required information the Identity team is captured.
+The VSP Identity team utilizes [Datadog](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1727285401455&to_ts=1727299801455&live=true) for monitoring and alerting of [va.gov](http://va.gov/) login related functions. [G. VSP is moving all metrics away from Grafana and into Datadog. All of the metrics utilized within this solution relies on Statsd. The statsd modules are used within Vets-API and many of the required proxies for Vets-API, this ensures the required information the Identity team is captured.
 
 ### <ins>**Audience**</ins>
 
-This document is intended to be utilized by anyone who has access to the [Identity Datadog Dashboard](https://app.datadoghq.com/dashboard/97h-d7e-tgr/vsp-identity-monitor-dashboard). The details within this document should be enough to help explain what the monitor's intent is and some initial information on how to respond. The technical implementation of the stats that are collected to create the monitors is not explained in this document, for that you can review the [Identity Metrics and Errors document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Identity_errors_metrics.md).
+This document is intended to be utilized by anyone who has access to the [Identity Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1727285401455&to_ts=1727299801455&live=true). The details within this document should be enough to help explain what the monitor's intent is and some initial information on how to respond. The technical implementation of the stats that are collected to create the monitors is not explained in this document, for that you can review the [Identity Metrics and Errors document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Identity_errors_metrics.md).
 
 ### <ins>**Current State**</ins>
 

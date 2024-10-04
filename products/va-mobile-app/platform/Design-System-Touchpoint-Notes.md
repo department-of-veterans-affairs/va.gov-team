@@ -1,9 +1,16 @@
-Meeting time: Bi-weekly Thursdays 3:35pm ET-4:00pm ET
+Meeting time: Bi-weekly Wednesdays 1:05pm ET-1:30pm ET
 Agenda:
 
 *   Discuss any blockers or open questions on the Mobile Design System work
 *   Review open action items
 *   Discuss progress and risks 
+
+## 9/25/24
+*   Pilots and Design Systems - idea for collaboration
+
+
+## 8/28/24
+*   VADS status with the documentation merge
 
 ## 7/30/24
 *   Typography Tokens update

@@ -45,6 +45,7 @@ Health Products
 - Derrick Ellerbie | derrick.ellerbie@va.gov / derrick.ellerbie@Agile6.com / GH "dellerbie" - Full Stack Engineer
 - Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" - Full Stack/Backend focus Engineer
 - Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6" - Full Stack Engineer
+- Brandon Cooper |brandon.cooper1@va.gov / brandon.cooper@adhocteam.us /  GH "coope93' - Full Stack/Backend focus Engineer
 - Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi" - Sr Data Analyst
 - Allan To | allan.to@va.gov / allan.to@adhocteam.us / GH "allanto-ah" - QA Engineer
 
@@ -143,6 +144,7 @@ Create, review, estimate, and prioritize backlog items.
 - Anyone on the team can create a(n) issue/ticket/story. 
 - All teammates are responsible for keeping them up to date.
 - Templates are available within the new issue/ticket/story during creation - Pick one you like!
+- The [Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/1010-Epic-template.md) will be used to include the high-level details and a task list that will convert into stories
 
 **Labels to use**
 - All tickets should include:

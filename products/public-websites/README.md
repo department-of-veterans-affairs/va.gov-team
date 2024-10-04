@@ -23,7 +23,6 @@ All requests will be refined and planned according to other team priorities, so 
 Monitors for each product are described within product folders. e.g. 
 * [Find a Form monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md)
 * [VA.gov homepage monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/engineering/monitoring.md)
-* Header (incl megamenu) and Footer, and
 * [Injected Header/Footer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/engineering/monitoring.md)
 * [VA.gov search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/engineering/monitoring.md)
 
@@ -36,7 +35,7 @@ Monitors for each product are described within product folders. e.g.
 | [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
 | ------------- | ------------- | ------------- |
 | [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Discharge upgrade wizard](#discharge-upgrade-wizard) | [Appeal Modernization Process](#appeal-modernization-process) |
-| [Benefits Detail Page](#benefits-detail-page) | [Global header / footer (aka Mega-menu)](#global-header--footer-aka-mega-menu) | [Disability rating calculator](#disability-rating-calculator) |
+| [Benefits Detail Page](#benefits-detail-page) |  | [Disability rating calculator](#disability-rating-calculator) |
 | [Campaign Landing Pages](#campaign-landing-pages-clp) | [Header / footer injection](#header--footer-injection) | [Downtime messaging](#downtime-messaging) |
 | [Events List](#events-list) | [Income limits web application](#income-limits-web-application) | [Harassment Reporting Tool](#harassment-reporting-tool) |
 | [Event](#event-detail-page) | [Non-facility Redirects](#non-facility-redirects) | [Higher-Level Review static landing page](#higher-level-review-static-landing-page) |
@@ -55,10 +54,9 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 
 ### COPY/PASTABLE product list
 <details><summary>List in accordion. Please update with any product ownership changes</summary>
+    
 ### P1 Products
 - [ ] VA.gov homepage
-- [ ] Veterans Crisis Line modal
-- [ ] Global header / footer
 - [ ] Header / footer injection - https://benefits.va.gov
 - [ ] Search / results form in header
 - [ ] Search results page - https://www.va.gov/search/?query=benefits&t=false
@@ -79,6 +77,8 @@ The Public Websites team also supports most of the portfolio of the previous Dec
     - [ ] Checklist
     - [ ] Video list
     - [ ] Image list
+    - [ ] Step-by-step
+    - [ ] Checklist
     - [ ] Support Services
 - [ ] Full width alert - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=banner&moderation_state=published&owner=All
 - [ ] Promo banner - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=promo_banner&moderation_state=published&owner=All
@@ -100,6 +100,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 </details>
 
 ## Changelog
+* 09/23/2024: Design System Team now owns the global Header and footer markup: https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
 * 07/2024: Design System team now owns the Veterans Crisis Line modal as a component: https://dsva.slack.com/archives/C06V7AAFVH7/p1721850350022329?thread_ts=1720203529.734199&cid=C06V7AAFVH7
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
 * 11/2023: [Breadcrumbs](#breadcrumbs) - Transitioned to CMS team as of Q4 2024, as a result of Accelerated Publishing work to manage Breadcrumbs for CMS-related content fully within the CMS
@@ -493,13 +494,13 @@ Q1 2024 will include an [initiative to rebuild the tool using the DS sub-task pa
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md)
 
 ## Shadow / dark launches of content
+Docs below will move to Platform content site via https://github.com/department-of-veterans-affairs/va.gov-team/issues/93032. When that is published, content will be removed from this README.
 
 ### Ownership: CMS team
-**Dark launches are owned by the CMS team as of 10/31/2023.**  
-Docs will move to a new location, pending outcomes from https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15932
+**CMS Dark launches are owned by the CMS team as of 10/31/2023.**  
 
 ### Usage
-Sometimes content generated by the Sitewide Content team, other teams, or just portions of a page may need to “dark launch” meaning: not be available to all site users in production. We have options for how to manage dark launches: 
+Sometimes content generated by the Sitewide Content team, other teams, or just portions of a page may need to “dark launch” or incrementally launch, meaning: not be available to all site users in production. We have options for how to manage dark launches: 
 
 ### It is **not** currently possible to
 * Hide a specific CMS node from robots.txt & the sitemap. Not ticketed, and would/will require custom code.
@@ -510,7 +511,9 @@ Sometimes content generated by the Sitewide Content team, other teams, or just p
 #### 1. Use Tugboat to preview CMS + content-build + vets-website changes together.
 * In the `/admin/content/deploy` Release Content interface on Tugboat, you can specify a content-build and/or a vets-website branch, to get a full feature preview in Tugboat frontend.
 
-#### 2. Use vets-api “Flipper” feature toggles to show / hide page sections or react widgets (vets-website changes)
+**Not working as of May 2024**: Tugboat is not picking up vets-website changes from branches other than `main`. Ticketed pending CMS ability to prioritize a fix: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18208
+
+#### 2. Use vets-api “Flipper” feature toggles to show / hide page sections or react widgets (vets-website changes) to authenticated users
 
 - https://api.va.gov/flipper/features – to login: you must have a verified ID.me account using your VA.gov email address (as primary or secondary email) 
 - https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles 
@@ -527,35 +530,38 @@ A good summary of how to flipper: https://github.com/department-of-veterans-affa
 
 Flippers are typically using javascript, and do not require a code deploy to enable / change settings.
 
+**NOTE** It seems to be possible to display FE changes to a % of users, using the `cookie_id` and % of time setting in Flipper.
+
 #### 3. Write custom vets-website code to control traffic to unauthenticated element / widget
-With the release of chatbot, custom code was written to allow % traffic gating for unauthenticated visitors to the chatbot  React widget.
-* Add contact chatbot CTA widget[#20280](https://github.com/department-of-veterans-affairs/vets-website/pull/20280), [PR](https://github.com/department-of-veterans-affairs/vets-website/commit/aeedb0e664c7e265ae8b0ffc9533d5d3108635ad)
-* Render the content to a % of users: [#21363](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21363); [PR](https://github.com/department-of-veterans-affairs/vets-website/pull/20378)
+A react hook exists that can allow displaying a feature to a % of unauthenticated traffic:  `useStaggeredFeatureRelease`
+https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/utilities/react-hooks.js#L34
+
+This does not work for CMS-generated content. 
 
 #### 4. Publish a CMS page only to Staging (using EntityQueue) in order to stage CMS + content-build + vets-website for viewing off of VA network
 Typically, when a CMS page is published, it publishes to production. 
-However: as of Sept 2022, a CMS node may be published to staging.va.gov _only_ by using EntityQueue. This is useful to allow previewing a new CMS page that includes a React widget (aka vets-website code), before it reaches production for user acceptance testing (by off-network users) or stakeholder approval. CMS team does not want to get in the habit of having staged nodes that will not publish, so this method should only be used for business cases that warrant it, at Public Websites PO's discretion.
+However: as of Sept 2022, a CMS node may be published to staging.va.gov _only_ by using EntityQueue. This is useful to allow previewing a new CMS page that includes a React widget (aka vets-website code) for user acceptance testing (by off-network users) or stakeholder approval, before it reaches production. CMS team does not want to get in the habit of having staged nodes that will not publish, so this method should only be used for business cases that warrant it, at CMS PO's discretion.
 
 **How to stage:** 
-* (Requesting team) cut a [Dark launch request ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams%2C+wesrowe&labels=Drupal+engineering%2C+Needs+refining%2C+%E2%AD%90%EF%B8%8F+Public+Websites%2C+VA.gov+frontend&template=pw-dark-launch.md&title=CMS%2FReact+content+dark+launch+request%3A+%3Ccontent+info%3E) to Public Websites to request support
+* (Requesting team) cut a [Dark launch request ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new/choose) to CMS team to request support
   * Specify Node / prod CMS link to the node 
-* (Requesting team) When PW has prioritized the work, merge React widget code to main & confirm deploy in vets-website. App code will not appear on prod, **if no live page is calling the app**. 
-* (PW) Add the Node ID to the [Staged Content entity subqueue](https://prod.cms.va.gov/admin/structure/entityqueue/staged_content/staged_content?destination=/admin/structure/entityqueue)
-* (PW) Request approval from requesting team to publish the node to staging, then publish it.
-* (PW/Deployment) 
-  * The nightly CMS build must run which pushes prod mirror to the staging site, or PW must request an out of band deployment. 
+* (Requesting team) When CMS has prioritized the work, merge React widget code to main & confirm deploy in vets-website. App code will not appear on prod, **if no live page is calling the app**.
+* (CMS) Add the Node ID to the [Staged Content entity subqueue](https://prod.cms.va.gov/admin/structure/entityqueue/staged_content/staged_content?destination=/admin/structure/entityqueue)
+* (CMS) Request approval from requesting team to publish the node to staging, then publish it.
+* (CMS/Deployment) 
+  * The nightly CMS build must run which pushes prod mirror to the staging site, or CMS must request an out of band deployment. 
   * Content-release must then run. Page will be live on Staging after the first content-release after nightly CMS build.
 
 **How to launch**
 * (Requesting team) Greenlight to launch
-* (PW) Remove the node ID from the [Staged Content entity subqueue](https://prod.cms.va.gov/admin/structure/entityqueue/staged_content/staged_content?destination=/admin/structure/entityqueue)
-* (PW/Deployment) 
-  * The nightly CMS build must run or PW must request an out of band deployment. 
+* (CMS) Remove the node ID from the [Staged Content entity subqueue](https://prod.cms.va.gov/admin/structure/entityqueue/staged_content/staged_content?destination=/admin/structure/entityqueue)
+* (CMS/Deployment) 
+  * The nightly CMS build must run or CMS must run an out of band deployment. 
   * Content-release must then run. Page will be live on Prod after the first content-release after nightly CMS build.
 
 NOTES: 
 1. It is _not_ possible to use this mechanism to test updates / additions to an existing live/published CMS page. The dark launch mechanism says: for this node ID, include it in the Staging build, and do _not_ include it in the Production build. So testing an existing node in this way would effectively unpublish it from Production.
-2. For reference, the staging CMS database is not implicated in this process / these changes. The front-end of staging.va.gov is populated by a database mirror of Prod, and is rewritten everytime code is merged to prod. The staging CMS, staging.cms.va.gov, has no front-end -- no front-end is updated when the Staging db is modified.
+2. For reference, the staging CMS database is not implicated in this process / these changes. The front-end of staging.va.gov is populated by a database mirror of Prod, and is rewritten everytime code is merged to prod. The staging CMS, staging.cms.va.gov, has no front-end -- no front-end is updated when the Staging CMS db is modified.
 
 **Entityqueue implementation:**
 - Spike: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10327
@@ -572,7 +578,7 @@ CMS feature toggles take effect at the content-build level, and are not dynamica
 
 For example, if a new feature is launching, that calls new fields / exposes new layout of a template, we may use CMS feature flags to wrap the new markup in order to show / hide the changes for testing or to simplify rollback. 
 
-We try to avoid page-specific templates, so for example, we would not advocate controlling launch of content for a single page using this method. This is more a content type level option.
+We try to avoid page-specific templates, so for example, we would not advocate controlling launch of content for a single page using this method. This is a content-type-level option.
 
 
 #### 6. Use content-build environment checks to publish a static page only to staging
@@ -584,34 +590,23 @@ PW team has done this twice:
 
 **Gotcha:** this method creates tech debt, and can cause unexpected behavior in future, when we test in Staging and end up with different behavior in Production. E.g. Feature A tests well in staging, but when we reach Prod, behavior is different due to a forgotten environment check in old / untouched code.
 
-
 Some nuances: https://dsva.slack.com/archives/CT4GZBM8F/p1660937436605269 
 
 
 
 ## Global header / footer (aka Mega-menu)
 
-**OWNERSHIP:** Will transition to the Design System team in 2024: https://dsva.slack.com/archives/C06V7AAFVH7/p1720203529734199
+**OWNERSHIP:** As of 9/23/24, Design System team owns the markup of the VA.gov header / footer and Injected header. Sitewide may still be involved in the following areas:  
+* Assistance with Drupal data feeding into the header / footer, unless / until DST gets Drupal access.
+* Design / Research for any major revisions to the header, given DST staffing
+
+https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
 
 **What is:**
 
 Product brief: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer
-Engineering notes: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/engineering
-
-VA.gov header and footer, within VA.gov context, including presentation of banners / alerts, and the Veterans Crisis Line modal.
-
-**Example content:**
-* URL: [https://www.va.gov/](https://www.va.gov/) 
-
-**More info:**
-* Mobile authed header: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/30626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30626)
-* Mobile unauthed header: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/30623](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30623) 
-
-
 
 ## Header / footer injection
-
-**OWNERSHIP:** Will transition to the Design System team in 2024: https://dsva.slack.com/archives/C06V7AAFVH7/p1720203529734199
 
 **What is:**
 

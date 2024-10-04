@@ -1,7 +1,12 @@
 # Appointments research on VA.gov
 Research related to appointments on VA.gov. Feel free to link to relevant studies. Questions or comments? Contact peter.russo@adhocteam.us or ask on Slack in #appointments-fe-team.
 
+## 2024
+
+### [Community Care Self-Scheduling - Usability and Concept Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md) - Appointments, August 2024
+
 ## 2023
+
 ### [Appointment List Screen Reader Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader) - VAOS, February 2023
 
 ## 2022
@@ -13,7 +18,6 @@ Research related to appointments on VA.gov. Feel free to link to relevant studie
 ### [Request Manager Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2022-08-request-manager-discovery-research) - VAOS, August 2022
 
 ### [Enabling Pre-check-in for Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/veteran-facing/telephone/research-findings.md) - **Check-in**, June 2022.
-
 
 ### [Pre-check-in: Telephone Appointments](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/111) - Check-in, May 2022
 

@@ -1,6 +1,6 @@
 # Location of residence and postal code
 
-Last updated by @tygindraux: June 6, 2024
+Last updated by @tygindraux: September 3, 2024
 
 **Jump to:**
 - [Contact preference rules](#contact-preference)
@@ -296,22 +296,26 @@ We require location of residence and postal code so we can route to the correct 
 
 `AND` I'm the Veteran
 
+`AND` VA medical center is not required
+
 `THEN` **require submitter's (Veteran's) postal code**
 
-| `AND`                | `AND`            | `THEN`                                 |
-| ------------------ | --------------- | --------------------------------------- | 
-| About myself | I'm the Veteran | **require submitter's (Veteran's) postal code** |
+| `AND`                | `AND`                  | `AND`                        | `THEN`                          |
+| ------------------ | ------------------------------- | ----------- | --------------------------------------------- |
+| About myself | I'm the Veteran | VA medical center is not required | **require submitter's (Veteran's) postal code** |
 
 #### Flow 1.2
 `AND` About myself
 
 `AND` I'm a family member
 
+`AND` VA medical center is not required
+
 `THEN` **require submitter (family member’s) postal code**
 
-| `AND`                | `AND`                              | `THEN`                          |
-| ------------------ | -------------------------------- | --------------------------------------------- |
-| About myself | I'm a family member | **require submitter (family member’s) postal code** |
+| `AND`                | `AND`                  | `AND`                        | `THEN`                          |
+| ------------------ | ------------------------------- | ----------- | --------------------------------------------- |
+| About myself | I'm a family member | VA medical center is not required | **require submitter (family member’s) postal code** |
 
 ### About someone else
 
@@ -320,11 +324,13 @@ We require location of residence and postal code so we can route to the correct 
 
 `AND` I'm the Veteran
 
+`AND` VA medical center is not required
+
 `THEN` **require family member’s postal code**
 
-| `AND`                        | `AND`             | `THEN`                                    |
-| -------------------------- | --------------- | --------------------------------------- |
-| About someone else | I'm the Veteran | **require family member’s postal code** |
+| `AND`                | `AND`                  | `AND`                        | `THEN`                          |
+| ------------------ | ------------------------------- | ----------- | --------------------------------------------- |
+| About someone else | I'm the Veteran | VA medical center is not required | **require family member’s postal code** |
 
 #### Flow 2.2.1
 
@@ -336,11 +342,13 @@ We require location of residence and postal code so we can route to the correct 
 
 `AND question is about` The Veteran
 
+`AND` VA medical center is not required
+
 `THEN` **require Veteran’s postal code**
 
-| `AND`                   | `AND`               | `AND`             | `AND question is about` | `THEN`                      | 
-| --------------| -------------------- | --------------------------- | --------------------- | ------------------------------- |
-| About someone else | I'm a family member of a Veteran | `family_relationship` | The Veteran | **require Veteran’s postal code** |
+| `AND`                   | `AND`               | `AND`         | `AND question is about`         | `AND` | `THEN`                      | 
+| --------------| -------------------- | ---------------------- | ---------------- | --------------------- | ------------------------------- |
+| About someone else | I'm a family member of a Veteran | `family_relationship` | The Veteran | VA medical center is not required | **require Veteran’s postal code** |
 
 #### Flow 2.2.2
 `AND` About someone else
@@ -349,13 +357,15 @@ We require location of residence and postal code so we can route to the correct 
 
 `AND` `family_relationship`
 
-`AND question is about` Other family member (not the Veteran or me)
+`AND question is about` other family member (not the Veteran or me)
+
+`AND` VA medical center is not required
 
 `THEN` **require other family member’s postal code**
 
-| `AND`                        | `AND`                              | `AND`                                 | `AND question is about` | `THEN`                                          |
-| -------------------------- | -------------------------------- | ----------------------------------- | --------------------- | --------------------------------------------- |
-| About someone else | I'm a family member | `family_relationship` | Other family member (not the Veteran or me) | **require other family member’s postal code** |
+| `AND`                        | `AND`                              | `AND`                | `AND question is about`         | `AND` | `THEN`                                 |
+| -------------------------- | -------------------------------- | ----------------------------------- | --------- | --------------------- | --------------------------------------------- |
+| About someone else | I'm a family member | `family_relationship` | Other family member (not the Veteran or me) | VA medical center is not required | **require other family member’s postal code** |
 
 #### Flow 2.3
 `AND` About someone else
@@ -366,26 +376,32 @@ We require location of residence and postal code so we can route to the correct 
 
 `AND question is about` The Veteran
 
+`AND` VA medical center is not required
+
 `THEN` **require Veteran’s postal code**
 
-| `AND`                        | `AND`                                            | `AND`       | `AND question is about`         | `THEN`                                      
-| -------------------------- | ---------------------------------------------- | --------- | ----------------------------- | -----------------------------------------|
-| About someone else | I'm a connected to the Veteran through my work | `work_role` | The Veteran | **require Veteran’s postal code** |
+| `AND`                        | `AND`                                            | `AND`       | `AND question is about`         | `AND`    |  `THEN`         |                             
+| -------------------------- | ---------------------------------------------- | --------- | ----------------------------- | ---- |  -----------------------------------------|
+| About someone else | I'm a connected to the Veteran through my work | `work_role` | The Veteran | VA medical center is not required | **require Veteran’s postal code** |
 
 ### A general question
 
 #### Flow 3.1
 `AND` A general question
 
+`AND` VA medical center is not required
+
 `THEN` **require submitter’s postal code**
 
-| `AND`                     | `THEN`                                      |
-| ----------------------- | ----------------------------------------- | 
-| A general question  | **require submitter’s postal code** |
+| `AND`                    | `AND`                    | `THEN`                          |
+| ----------------------- | ------------------- | ----------------------------------------- | 
+| A general question  | VA medical center is not required | **require submitter’s postal code** |
 
 ### Why do we require this information?
 
 We require postal code because these VHA offices are national but they may need to direct someone to a local medical facility or share local resources.
+
+We don't require postal code when we collect VA medical center in order to reduce submitter burden. Also, medical facility is more specific and if it's still necessary, an agent can get their postal code through MPI.
 
 ## Pages in Figma
 
