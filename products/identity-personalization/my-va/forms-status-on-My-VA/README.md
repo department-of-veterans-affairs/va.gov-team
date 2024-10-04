@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: July 30, 2024 - updates to scope**
+**Last updated: October 4, 2024 - updated security artifacts**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -116,9 +116,6 @@ There are two (potentially three) major components of work to address these prob
 
 ## Measuring Success
 The primary goal of this MVP is to reduce silent submission failures in the form/application submission process.
-
-### Objectives & Key Results
-TK TK
 
 ## Key deliverables
 
