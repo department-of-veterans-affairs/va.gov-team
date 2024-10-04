@@ -7,14 +7,16 @@
 We identified a 20K discrepancy in the monthly MHV user totals, specifically between July's initially reported 900k users without modern credentials and the updated July total of 922k. The purpose of this spike is to investigate the cause of the discrepancy and determine if the methodology for calculating active users needs to be revised. 
 
 ## Findings  
-The discrepancy is due to the structure of the MHV data, which classifies users as "active" based on activity in the last two years. The data recalculates user counts each month, including reactivated users who were previously inactive. This process introduces previously inactive accounts into the calculation, creating a noticeable increase in the total number of users reported for prior months.  
+The discrepancy between our July numbers of 900k users without modern credentials and our current July total of 922k is due to the way the MHV data we receive is structured and how it informs the way users are considered inactive or reactivated.
 
-For example, September's data included 9,104 reactivated users, causing a larger-than-normal jump. The reactivations over the past three months led to a total increase of 20,534 users:
+The data we receive from MHV includes the ICNs of users with activity within the last two years who are what we consider "active" users that form the basis of the proceeding calculations. Each month, we see some users (usually around 5,000) who have signed in that month for the first time since they were considered inactive and are tagged as "reactivated". Since their accounts did exist but were not included in the preceding months calculations, we then get new matches on older CSP data causing the total number of users for previous months to increase.  
+
+The September data included a larger than normal set of 9,104 reactivated users causing the jump to be more noticeable. The totals for the last three months account for the increase in roughly 20k users that triggered this investigation:
 
 - Reactivated on or before 8/1/2024: 5,882  
 - Reactivated on or before 9/1/2024: 5,538  
-- Reactivated on or before 10/1/2024: 9,104  
+- Reactivated on or before 10/1/2024: 9,104
 
-This highlights a potential gap in how active user metrics are calculated and raises the question of whether older ICNs (inactive accounts) should also be requested from MHV to ensure a more comprehensive user count.
+Total: 20,534 users
 
-The inclusion of older data could present challenges, such as matching users to credentials, but it may prevent gaps in outreach for users who need to update their credentials but haven't been active in several years.
+This raises a question of whether we should update the process to request not just active MHV users, but all available ICNs. Introducing older data may add new challenges in terms of matching these users to their credentials and understanding where they fit into the system overall, but it may also prevent gaps in campaigns for users who need to update their credentials but have not been active in several years. 
