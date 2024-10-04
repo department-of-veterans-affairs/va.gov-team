@@ -35,4 +35,4 @@ Quarterly Planning discussions and meetings begin ~3weeks before the start of th
 ## Tools/Resources
 - [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 - [Sprints Tab](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
-- [Capacity Spreadsheet](https://docs.google.com/spreadsheets/d/1hPzaw50gTsRdc9ks4ncUjBP8ifUhGm631u4WIk1kjqY/edit?usp=sharing)
+- [Q4 Capacity Spreadsheet](https://docs.google.com/spreadsheets/d/1dtUX1E_P2RG_ApuTdv859ACF-Q6cqJUyPK1Y1Ct35SY/edit?gid=1777236506#gid=1777236506)
