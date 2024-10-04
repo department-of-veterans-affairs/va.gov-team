@@ -624,57 +624,49 @@ ARF Team
 
 - Consider including Veterans representative status with POA requests.
 
+  - Consider providing direction to representatives on how to manage changing a Veterans POA, with a special focus on paid representation.
+
 - Consider including Veterans claim status with POA requests if accepting will negatively impact the Veterans claim.
-
-OGC & ARF Team
-
-- Consider providing direction to representatives on how to manage changing a Veterans POA, with a special focus on paid representation.
 
 ### **ARM Representative Status Widget**
 
-- Open topic: VSORs requested the closest representative to the Veteran be presented alongside the VSO national HQ. Thoughts?
+- CAIA content update: Recommend changing ‘Your current accredited representative’ to ‘Your current VSO’ or ‘Your current accredited organization’.
 
-- Copy recommendation: Recommend changing ‘Your current accredited representative’ to ‘Your current VSO’ or ‘Your current accredited organization’.
+- Future idea: Show the VSOR closest to the Veteran associated with the organization they have POA with in the widget.
 
 ### **ARM Representative Information Cards**
 
-- Open topic: VSORs requested cards to be grouped by location, rather than individual in Find a Representative. Thoughts?
+- Future idea: Group cards in find and appoint a representative by location, and provide office information for those locations.
 
-  - ARF: If we do group representatives by location, is it possible to provide office level information to Veterans?
-
-- Open topic: VSORs and Veterans have requested specialties in the past to understand who can support them with PTSD, MST, and other mental health conditions. Thoughts?
-
-- Copy recommendation: When discussing remote support, provide clarity to both representatives and Veterans on what it means.
+- Future idea: Provide VSOR specialties around mental health conditions for Veterans (such as specialties in PTSD or MST).
 
 ### **Find a Representative**
 
 ARM & ARF Teams
 
-- Open topic: VSOs have regional and state limitations on who they can support. Are there any actions we want to take to address this concern, or do we leave it up to the representatives to manage those expectations?
+- ARM + ARF discussion needed: VSOs have regional and state limitations on who they can support. Are there any actions we want to take to address this concern, or do we leave it up to the representatives to manage those expectations?
 
-- Recommendation: Show ‘Flag incorrect information’ button for representatives who have an ARP account, and notify them if their information is flagged. This feature would require a data point that would allow FAR to know which representatives have ARP accounts.
+- ARM + ARF discussion needed: Show ‘Flag incorrect information’ button for representatives who have an ARP account, and notify them if their information is flagged. This feature would require a data point that would allow FAR to know which representatives have ARP accounts.
 
 ### **Appoint a Representative**
 
 ARM & ARF Teams
 
-- Open topic: VSORs cannot support POAs from all VSOs they’re accredited with. What can we do to ensure that only organizations VSORs can support POA from show in ARM products?
+- CAIA content update: Provide information on what the VA power of attorney does and doesn’t do in the representative FAQ.
 
-- Open topic: VSORs continue to request an option to start a 21-22 in ARP. Do we continue to explore this as an option?
+- CAIA content update: Provide information in appoint a representative and representative FAQ informing Veterans they do not need to be a VSO member or pay member due to request POA with a VSO.
 
-- Open topic: As they are common next steps, do we link intent to file or how to file a claim at the end of the form?
+- CAIA content update: Update copy on confirmation page to say ‘confirm or deny your request’ to provide clarity on next steps.
 
-- Open topic: Many VSORs mentioned that POA is a frequently asked question from Veterans. Do we incorporate any content about POA in the FAQ?
+- ARM + ARF discussion needed: Only show organizations a VSOR can accept POA with within appoint a representative.
 
-- Copy recommendation: Provide content either in AAR or FAQ informing Veterans they do not need to be a VSO member to request POA with a VSO.
+- ARM + ARF discussion needed: Consider notifying representatives when they lose POA in ARP.
 
-- Copy recommendation: Update copy on confirmation page to say ‘confirm or deny your request’ to provide clarity on next steps.
+- Future idea: Provide VSORs a way to fill out and submit the 21-22 in a way to grant them instant access to a Veterans files.
 
-- Consider incorporating VA Form 21-0972 into the non-Veteran claimant signing on behalf of the Veteran form flow. 
+- Future idea: Provide common next step forms at the end of the 21-22/21-22a submission flow, such as Intent to File.
 
-ARF Team
-
-- Consider notifications to VSORs when they’re selected in AAR.
+- Future idea: Consider incorporating VA Form 21-0972 into the non-Veteran claimant signing on behalf of the Veteran form flow.
 
 ### **VSOR Cross Accreditation**
 
