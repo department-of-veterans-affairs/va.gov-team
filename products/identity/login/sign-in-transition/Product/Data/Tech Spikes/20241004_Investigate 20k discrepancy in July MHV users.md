@@ -1,6 +1,6 @@
 # Spike: Investigate 20k Discrepancy in July MHV Users  
 **Completed:** October 4, 2024  
-**Contributor:** John Marchi  
+**Contributor:** John Marchi, Steve Dickson 
 **Jira Ticket:** [SIT-88](https://jira.devops.va.gov/browse/SIT-88)
 
 ## Situation  
