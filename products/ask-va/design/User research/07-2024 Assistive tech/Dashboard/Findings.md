@@ -206,12 +206,12 @@ Other ideas we considered:
 
 ## Next steps
 
-- [ ] Update dashboard card design [DESIGN –> DEV] – #[add ticket]() 
-- [ ] Update sorting and filter design [DESIGN –> DEV] – #[add ticket]()
-- [ ] Update conversation accordion design [DESIGN –> DEV] – #[add ticket]()
-- [ ] Update reopened status [DESIGN –> DEV] – #[add ticket]() 
-- [ ] Fix question in cards so content doesn't continue after ellipsis [DEV] – #[add ticket]()
-- [ ] Fix issue with anchor to footer when clicking to the next page [DEV] – #[add ticket]()
+- [ ] Update dashboard card design `DESIGN` ➡️ `DEV` – #[add ticket]() 
+- [ ] Update sorting and filter design `DESIGN` ➡️ `DEV` – #[add ticket]()
+- [ ] Update conversation accordion design `DESIGN` ➡️ `DEV` – #[add ticket]()
+- [ ] Update reopened status `DESIGN` ➡️ `DEV` – #[add ticket]() 
+- [ ] Fix question in cards so content doesn't continue after ellipsis `DEV` – #[add ticket]()
+- [ ] Fix issue with anchor to footer when clicking to the next page `DEV` – #[add ticket]()
 
 ## Further research needed
 
