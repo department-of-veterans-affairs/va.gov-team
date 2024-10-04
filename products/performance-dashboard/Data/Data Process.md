@@ -116,6 +116,48 @@ The current process can be broken down into the following steps:
 
   - Medallia: afb89759-292f-40f0-8be4-0ccee76006d5
 
+5.
+
+- As of October 1st 2024, the team has integrated duplicate data models for DEV and Staging, to allow us to make changes to the flows, without impacting production. 
+
+  - The DEV/Staging backend code now references the following dataset IDs for GA/Medallia respectfully: 
+
+    - DEV GA dataset id: 9c5f58df-5399-4644-b33f-0df61af0716d
+
+    - [Link](https://va-gov.domo.com/datasources/9c5f58df-5399-4644-b33f-0df61af0716d/details/data/table): 
+
+    - DEV Medallia dataset id: f5bf5142-65e8-4bd8-b460-bc7e52f34518
+
+    - [Link](https://va-gov.domo.com/datasources/f5bf5142-65e8-4bd8-b460-bc7e52f34518/details/data/table): 
+
+    - Staging GA dataset id: c8ffc4d2-b4e5-4516-b6ad-e325fcaf1d6e
+
+    - [Link](https://va-gov.domo.com/datasources/c8ffc4d2-b4e5-4516-b6ad-e325fcaf1d6e/details/data/table): 
+
+    - Dev Staging dataset id: 84d8c3be-f15b-49b4-8500-af737df737a0
+
+    - [Link](https://va-gov.domo.com/datasources/84d8c3be-f15b-49b4-8500-af737df737a0/details/data/table): 
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 \
 \
 
