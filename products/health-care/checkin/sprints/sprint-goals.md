@@ -32,6 +32,7 @@
     - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
     - 🟥 [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
 - **Check in with staff after checking in**
+    - 🟥 [Edit presentation slides for meeting with Shane next week](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94295)
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
