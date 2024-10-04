@@ -110,7 +110,10 @@ There are two (potentially three) major components of work to address these prob
 - Create more confusion around form status and failures/errors.
 
 ## Security
-[Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-security-playbook.md)
+## Security
+- Security playbook: [Forms Status security playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/launch-materials/forms-status-on-my-va-security-playbook.md)
+- [System monitoring playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/auth-experience/playbooks/monitoring.md#system-monitoring-playbooks)
+
 
 ## Measuring Success
 The primary goal of this MVP is to reduce silent submission failures in the form/application submission process.
