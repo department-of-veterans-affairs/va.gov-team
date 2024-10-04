@@ -18,7 +18,7 @@ We want to learn from accredited representatives about their experience supporti
 * Understand VSOs’ perspectives of what causes incomplete claims (eg. Veteran quits the process) and what causes further development.
 * Understanding what tools accredited representatives are using to help Veterans submit a 527EZ application for Veteran Benefits (e.g. paper pdf, software application) and the benefits and challenges of each will help us identify opportunities to improve the experience for Veterans. 
 
-**OCTO Priorities **
+**OCTO Priorities**
 
 Resolving challenges or friction points with the digital 527EZ form will align with OCTO DE goals, including: 
 
@@ -35,7 +35,7 @@ This research and product (VA Form 21P-527EZ Veterans Pension benefits) fits int
 
 
 ### 
-** Research Goals**
+**Research Goals**
 
 
 The goals of this research are to learn from VSOs of the pain points Veterans experience in applying for and receiving pension benefits.  
@@ -60,31 +60,27 @@ The goals of this research are to learn from VSOs of the pain points Veterans ex
 
 
 
-1. **What is the VSOs experience helping Veterans understand the 527EZ pension benefit? **
+1. **What is the VSOs experience helping Veterans understand the 527EZ pension benefit?**
         1. Are there common characteristics, experiences, questions, etc of Veterans with whom they work who are seeking pension benefits?
-1. Are there common characteristics of Veterans who are seeking pension benefits but are not eligible? 
         2. How do eligible Veterans learn about the 527EZ Pension Benefit?
         3. How do Veterans connect with accredited representatives (e.g. referred by other organizations, family, facilities)?
             1. Are VSOs proactively seeking out or informing Veterans of Veterans pension?
         4. What support are Veterans seeking when connecting with accredited representatives about Veterans pension? What questions do they have?
         5. What are VSOs’ perceptions of Veterans’ primary challenges in learning about the pension benefit and getting help to apply? 
-2. **What is the experience of VSOs in helping eligible Veterans apply for the pension benefit? **
+2. **What is the experience of VSOs in helping eligible Veterans apply for the pension benefit?**
     1. Where do VSOs typically provide the most support in the application process?
-    1. What challenges, if any, do VSOs observe/experience that Veterans have with gathering records and applying for pension benefits?
-    2. What is the VSOs understanding of ITF and how it’s used?
-        1. How is that communicated to Veterans (if at all)?
-    3. What is the primary method of communicating with Veterans? What tools do VSOs use to support Veterans in the application process?
-    4. Do VSOs have a preference for application methods (i.e. in person, by phone, online, etc) when working with Veterans?
+    2. What challenges, if any, do VSOs observe/experience that Veterans have with gathering records and applying for pension benefits?
+    3. What is the VSOs understanding of ITF and how it’s used?
+    4. What is the primary method of communicating with Veterans? What tools do VSOs use to support Veterans in the application process?
+    5. Do VSOs have a preference for application methods (i.e. in person, by phone, online, etc) when working with Veterans?
         1. Which of these communication methods are most utilized by Veterans?
 3. **Receiving and maintaining pension benefit**
-1. What are VSOs’ perceptions of Veterans experience of receiving and maintaining benefits?
-2. How are VSOs typically involved in the process after filing a claim?
-    1. How are new developments with the application (e.g. receipt of a development letter) communicated to Veterans?  
-3. What, if any, challenges do VSOs have in ensuring eligible Veterans receive  pension benefit payments?
-4. What challenges, if any, do eligible Veterans have in maintaining benefits?
-5. What are VSOs’ perceptions of Veterans experience of receiving and maintaining benefits?
-6. How do VSOs support Veterans with providing annual updates (e.g. income. Marital status, change in dependents)?
-    2. How do VSOs support Veterans who have been overpaid? 
+   1. What are VSOs’ perceptions of Veterans experience of receiving and maintaining benefits?
+   2. How are VSOs typically involved in the process after filing a claim?
+   4. What, if any, challenges do VSOs have in ensuring eligible Veterans receive  pension benefit payments?
+   5. What challenges, if any, do eligible Veterans have in maintaining benefits?
+   6. What are VSOs’ perceptions of Veterans experience of receiving and maintaining benefits?
+   7. How do VSOs support Veterans with providing annual updates (e.g. income. Marital status, change in dependents)?
 
 **Hypotheses**
 
@@ -109,7 +105,7 @@ We are looking for 5-6 VSOs to participate in this study. Participants will be r
 * A mix of VSOs who use 3rd party software applications and other means to submit a pension benefit application. 
 
 
-#### **Schedule **
+#### **Schedule**
 
 
 
