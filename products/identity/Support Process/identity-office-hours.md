@@ -7,7 +7,7 @@ Schedule time to meet with the Identity team for flexible office hours every wee
 **Schedule office hours for drop-in questions**
 
 - Authentication, metrics, and security: schedule time with [Joe Niquette](https://calendar.app.google/CEq822Myid5xsxwH9)
-- Product office hours:  schedule time with [Mike King](https://calendar.app.google/3S6SfAmvuKcBer3T6) or [Jim Connelly](https://calendar.app.google/HG2iZgqtv4nWmnvT8)
+- Product office hours:  reach out to Lainey Trahan or Joelle Wells in Slack
 
 ## 📅 Pairing sessions
 
@@ -28,4 +28,4 @@ If you need assistance with an urgent request during weekends, holidays, or outs
 
 ### Requests during business hours
 
-Reach out to us on [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) Monday - Friday from 9:00 a.m. to 8:00 p.m. ET.
+Reach out to us on [#identity-support](https://dsva.slack.com/archives/CSFV4QTKN) Monday - Friday from 9:00 a.m. to 8:00 p.m. ET.
