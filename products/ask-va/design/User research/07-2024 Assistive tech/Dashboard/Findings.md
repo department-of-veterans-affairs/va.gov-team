@@ -84,7 +84,7 @@ Filters are used more frequently and easily by people who are navigating visuall
 
 Filter by status was most commonly useful because people want to know when they have a reply. Veterans will use filter by category if they remember what their question is related to.
 
-If 'search' was a feature, people would expect to be able to search multiple fields, such as, question, dates and category
+If 'search' was a feature, people would expect to be able to search multiple fields, such as, question, dates and category.
 
 > "Instead of giving me a filter, its giving me, 'select all of them.' I don't know how to select something different [than all]."
 
