@@ -201,19 +201,24 @@ Veterans mention preferring AI if it means they'll receive a faster answer, or a
 Other ideas we considered:
 - Changing the background color of the cards to help visually break up the cards or to show when there's a reply.
 - Removing 'last updated' until something happens to make it clearer when something has a new update.
+- Adding a search feature, which we've discussed in the past and is out of scope for now.
+- Updating the 'Contact us' page, so it's more clear what Ask VA can and can't help with.
 
 ## Next steps
 
-- [ ] Update dashboard card design – (DESIGN > DEV) – #[add ticket]() 
-- [ ] Update sorting and filter design – (DESIGN > DEV) – #[add ticket]()
-- [ ] Update conversation accordion design – (DESIGN > DEV) – #[add ticket]()
-- [ ] Update reopened status – (DESIGN > DEV) – #[add ticket]() 
-- [ ] Fix question in cards so content doesn't continue after ellipsis – (DESIGN > DEV) – #[add ticket]()
-- [ ] Fix issue with anchor to footer when clicking to the next page – (DESIGN > DEV) – #[add ticket]()
+- [ ] Update dashboard card design [DESIGN –> DEV] – #[add ticket]() 
+- [ ] Update sorting and filter design [DESIGN –> DEV] – #[add ticket]()
+- [ ] Update conversation accordion design [DESIGN –> DEV] – #[add ticket]()
+- [ ] Update reopened status [DESIGN –> DEV] – #[add ticket]() 
+- [ ] Fix question in cards so content doesn't continue after ellipsis [DEV] – #[add ticket]()
+- [ ] Fix issue with anchor to footer when clicking to the next page [DEV] – #[add ticket]()
 
 ## Further research needed
 
-We recommend further testing once we're live in production.
+We recommend further testing once we're live in production. In particular, in the next phase of work, we'd like to explore:
+- Search feature
+- How to better sync up statuses so agents are referencing the same statuses as submitters
+- Ability for submitters to say when a question has been 'answered' and can be 'closed'
 
 ## Appendix
 
