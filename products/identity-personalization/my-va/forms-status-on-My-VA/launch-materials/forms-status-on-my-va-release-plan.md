@@ -18,7 +18,7 @@ Not applicable - team conducted internal testing.
 - [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/launch-materials/forms-status-on-my-va-launch-readiness-checklist.md)
 
 **Desired date range:** _mm/dd/yyyy - mm/dd/yyyy_
-Coordinated phased roll-out with Veteran Facing Forms team over a 1 week period.
+Once the phased roll-out is complete on My VA, the Veteran Facing Forms team will proceed with their launch process to release the updated confirmation page. Their release plan can be found [here](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/release%20plan.md).
 
 **Phased rollout:** 
 |Launch % |Time Frame | Planned Date Range | Ticket | 
