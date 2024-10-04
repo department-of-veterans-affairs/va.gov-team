@@ -201,17 +201,18 @@ If participant recalls the questions, then ask:
    
 3. Is it clear or unclear as to why the VA is asking you toxic exposure questions and Why?
    
-4. In the second paragraph, the sentence, ‘we’ll use your answers to connect you with information about VA benefits and services you may be eligible for, what do you think of the content?
+4. In the second paragraph, the sentence, ‘This screening is optional, what do you think of the content?
    
 5. Without clicking on anything, in the question Do you want to continue with this toxic exposure screening, can you to tell me what the word “screening’ means to you?
     - 5a. Is there anything about the question that is unclear.
       
-6. You can go ahead and scroll down to the section that says “Note”.
+6. You can go ahead and scroll down to the section that says “Note:The PACT Act law...”.
     - 6a. Can you tell me what this content means to you.
       
-7. On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions?
+7. Can you tell me your thoughts about the “View Privacy Act Statement”?
+8.  On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions?
 
-8. Okay you may answer the question and please move on from this page.
+9. Okay you may answer the question and please move on from this page.
 
 - Moderator: move to Task 4.
 
@@ -240,8 +241,9 @@ If participant recalls the questions, then ask:
 5. Go ahead and answer the question and please move on.
 
 - Moderator: Note what answer participant selects on this screen, since the answer will determine whether user goes to either screen 3a or screen 4a.
-    - If yes, go to task 5.
-    - If no, go to task 6.
+    - If yes, go to task 5 “Which toxins or hazards were you exposed to”
+    - If no, go to task 8, “Thank you” page and the end of questionnaire.
+    - If I’m not sure, go to task 7, “Do you want more information”
 
 
 ## Task 5: Screen 3a-Which toxins or hazards were you exposed to - 3 minutes
