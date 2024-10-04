@@ -16,12 +16,7 @@
 1.2 Number of transactions processed using our products have increased by 25%. 
 1.3 All new products have a faster transaction time than those they replaced. 
 
-![image](https://github.com/user-attachments/assets/ad701bf9-860c-4530-80a7-c898710c4516)
-![image](https://github.com/user-attachments/assets/96073339-7262-4b40-81f0-0792a6566048)
-![image](https://github.com/user-attachments/assets/d002b348-77ce-49a7-b694-7d91dc64a93d)
 
-
-<!--
 ## Desired User Outcomes
 - Faster, more direct way to request prescription renewals.  
 - Users know how to get a medication they are prescribed no matter what the current status is.
@@ -82,7 +77,7 @@
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93196)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -91,7 +86,7 @@
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - Spring 2025
 - *Actual Launch Date* 
   - tbd
 
@@ -100,32 +95,28 @@
 ## Screenshots
 
 ### Before
+MHV on VA.gov today
+![image](https://github.com/user-attachments/assets/ad701bf9-860c-4530-80a7-c898710c4516)
+![image](https://github.com/user-attachments/assets/96073339-7262-4b40-81f0-0792a6566048)
+![image](https://github.com/user-attachments/assets/d002b348-77ce-49a7-b694-7d91dc64a93d)
+
+MyVA Health today 
+![image](https://github.com/user-attachments/assets/81759577-522e-4715-9e8a-7f2e2d122df1)
+![image](https://github.com/user-attachments/assets/dd18f890-2ec8-4663-8809-7301eb21e494)
+![image](https://github.com/user-attachments/assets/dd819889-a295-49b6-8d7f-530e6bd705bd)
 
 ### After
 
 ---
 
 #### Communications
-*Where will you discuss this initiative?*
-
-<details>
-
-- Team Name: 
+- Team Name: Medications on VA.gov
 - GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
-
-</details>
-
+- Slack channel: #mhv-medications-devs, #mhv-medications-rx
+- Product POCs: Kaitlin Fink
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
-  
-- Office/Department:
-- Contact(s): 
- 
-</details>
+- OCC: Eric Spahn (RX), Patty Henry (SM) (if SM is the desired solution) 
+- PCP SME Work group: Lead by Meredith Joesphs, Organized by Bresha Lipscomb
 
 ---
