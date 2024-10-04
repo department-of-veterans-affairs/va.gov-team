@@ -1,4 +1,4 @@
-name: set po-sync flag
+name: Set PO-sync flag
 
 on:
   issues:
@@ -9,24 +9,24 @@ jobs:
   do-sync:
     name: Create Completed Ticket
     runs-on: ubuntu-latest
-    if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') &&
-        (github.event.label.name == 'PO-Sync-approved'}}
+    if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && (github.event.label.name == 'PO-Sync-approved'}}
+    
     steps:
-    - name: Get data
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        ORGANIZATION: ${{ github.repository_owner }}
-        PROJECT_NUMBER: 998
-        LABEL_CHECK: "VFS Team"
+      - name: Get data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ORGANIZATION: ${{ github.repository_owner }}
+          PROJECT_NUMBER: 998
+          LABEL_CHECK: "VFS Team"
 
-      run: |
-        PROJECT_ID=$(gh api graphql -f query='
-            query($org: String!, $number: Int!) {
-              organization(login: $org){
-                projectV2(number: $number) {
-                  id
+        run: |
+          PROJECT_ID=$(gh api graphql -f query='
+              query($org: String!, $number: Int!) {
+                organization(login: $org){
+                  projectV2(number: $number) {
+                    id
+                  }
                 }
-              }
-            }' -f org=$ORGANIZATION -f number=$PROJECT_NUMBER --jq '.data.organization.projectV2.id')
-        
-        echo "The Project ID is...$PROJECT_ID"
+              }' -f org=$ORGANIZATION -f number=$PROJECT_NUMBER --jq '.data.organization.projectV2.id')
+          
+          echo "The Project ID is...$PROJECT_ID"
