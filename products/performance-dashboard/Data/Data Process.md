@@ -138,28 +138,6 @@ The current process can be broken down into the following steps:
 
     - [Link](https://va-gov.domo.com/datasources/84d8c3be-f15b-49b4-8500-af737df737a0/details/data/table): 
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
 
 
 Metrics Mapping Guide (Stage 3)
