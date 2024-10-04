@@ -20,7 +20,7 @@ Note: 526 Submission - refers to the 526e primary data only, and the migration t
 - Datadog monitoring
 
 ## Success criteria
-- 
+- Using the Lighthouse API for ancillary jobs should succeed at a rate that is equal to or better than the existing EVSS API.
 
 ## Resource materials
 - [[Epic] Lighthouse Document Upload Migration #83837](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83837)
@@ -28,10 +28,12 @@ Note: 526 Submission - refers to the 526e primary data only, and the migration t
 
 
 ## New capabilities and changes
-- (list the API(s) here???)
-- (list the Datadog monitoring here)
+- (TBD: list feature flipper names)
+- (TBD: list failure email templates)
+- (TBD: list the Datadog monitoring here)
 
 ## Production release plan
+Thorough testing in the staging environment will be done for each type of upload, starting with BDD, then 0781, then Veteran Evidence Uploads. The plan is to "rehearse" the release on staging to make sure everything works as expected before incrementally rolling out the release on production. The staging QA checklist is linked in issue https://github.com/department-of-veterans-affairs/va.gov-team/issues/90005
 
 ### BDD 
 For the BDD release, we want to start by setting the feature flipper to send 1% of BDD uploads to Lighthouse. 
@@ -72,7 +74,7 @@ After successfully passing the testing plan, we will then increase usage to 5%, 
 
 
 ## Risks
-
+The biggest risk is that uploads could fail silently if a failure is not recorded correctly and/or if the email fails to send. Datadog analytics and alerts will be in place to monitor for these risks (specific monitors listed above.)
 
 ## Production issues recovery plan
-DBEX team Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which would ... 
+DBEX team Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which redirect all submissions back to the existing EVSS path. 
