@@ -3,13 +3,12 @@
 
 ---
 ## Outcome Summary
-> Allow users to request a renewal of a prescription directly from within the Medications product on VA.gov to improve CSAT and user adoption of Medications on VA.gov. 
+Allow users to request a renewal of a prescription directly from within the Medications product on VA.gov to improve CSAT and user adoption of Medications on VA.gov. 
 
 **Related/Associated product(s)**
-- Product | [Medications product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications)
+[Medications product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
 * Today on VA.gov when a prescription has 0 refills left or is expired, users are unable to refill the prescription and must request a renewal from their prescriber.  For these prescriptions today we give users a message with a link to the card to "Learn how to renew prescriptions".  This takes them to the landing page where they are given the option to renew by phone or by secure message.  If a user chooses to send a secure message they need to ensure they include a list of 7 details from their prescription information, that they already have today in the medications product.  This puts a heavy burden on the user to copy the information and go between multiple places on the patient portal.  
 * Today MyVA Health users have the ability in the Medications product to request a renewal with this information pre-populated into a secure message directly.  When we integrate with OH we need to ensure users have the ability to renew a prescription directly from the medications product.  We also want to use this opportunity to look into improving this experience for the providers who need to approve of the renewals.
 * In Medallia feedback on both VA.gov and MHV Classic this is the number one requested feature and would help users get their prescriptions more quickly.  This would directly improve the following OCTO OKRS: 1.1 CSAT (customer satisfaction) for our web products have increased by 5 points. 
