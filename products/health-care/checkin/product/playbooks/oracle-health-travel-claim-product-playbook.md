@@ -1,4 +1,4 @@
-# [Product] Playbook
+# Oracle Health Travel Claim Playbook
 
 NOTE: 
 - links to complete data for each of the sections below is welcome and encouraged.
@@ -8,15 +8,17 @@ NOTE:
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/oracle-health-travel-product-outline.md)
 
 ## Routes to code
-- [Frontend](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/travel-claim)
-- Backend
+- [Vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in/travel-claim)
+- [vets-api](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/check_in)
+- [chip](https://github.com/department-of-veterans-affairs/chip/tree/master/src/initiateTravelClaim)
+- [LoROTA](https://github.com/department-of-veterans-affairs/lorota)
 
 ## Contacts
 
 ### Team Members:
 - DSVA Product Lead: _person’s name_ _persons's email_
-- Team Product Manager: Lorie Pusey _persons's email_
-- _Additional Team Role_: _person’s name_ _persons's email_
+- Team Product Manager: Lori Pusey lori.pusey@agile6.com
+- Developers: Brian Seek, Gaurav Gupta, Kanchana, John Woolschlager, 
 
 ### Outage Contacts:
 - _Additional Team Role_: _person’s name_ _persons's email_
