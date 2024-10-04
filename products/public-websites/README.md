@@ -530,6 +530,8 @@ A good summary of how to flipper: https://github.com/department-of-veterans-affa
 
 Flippers are typically using javascript, and do not require a code deploy to enable / change settings.
 
+**NOTE** It seems to be possible to display FE changes to a % of users, using the `cookie_id` and % of time setting in Flipper.
+
 #### 3. Write custom vets-website code to control traffic to unauthenticated element / widget
 A react hook exists that can allow displaying a feature to a % of unauthenticated traffic:  `useStaggeredFeatureRelease`
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/utilities/react-hooks.js#L34
