@@ -67,9 +67,10 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 1. Finding one - When Veterans are in a transitional phase such as job change, health change, or retirement, they are very proactive in seeking guidance and support for their healthcare
 2. Finding two - Veterans do not associate their Priority Group with VA healthcare.
 
-3. Finding three
+3. Finding three - A common concern was that giving VHA information about their employer's health insurance plan would remove their eligibility for VA healthcare.
+[Hieu Note; Alternatively finding: Veterans frequently compare private healthcare with VA services, seeking to understand which provides better or more comprehensive coverage.]
 
-4. Finding four
+4. Finding four - Many Veterans' first impression of the VA is through informal sources (word-of-mouth or third party).
 
 5. Finding five
 
@@ -98,40 +99,28 @@ _To add images: ![text](link - add image to github folder and link here with .pn
 - Only 11 posts explicitly mentioned priority groups. Of those, 3 mentioned a specific PG, and only 1 Veteran confidently knew what their PG# was.
 - Based on references to service-connected disability ratings alone, 39% of Veterans posting on Reddit are in Priority Group 1.
 
-> _Supporting data: Quote here_
+**Finding 3: A common concern was that giving VHA information about their employer's health insurance plan would remove their eligibility for VA healthcare.**
+ - 43% (68 of 159) entries had questions about health insurance.
+ - 55 of 68 posts wanted to understand covered care at VHA in relation to their health insurance (13 TRICARE, 1 ACA, 41 employer or private health insurance plan)
+ - 12 of 68 explicitly wanted to understand the difference between health insurance and VA healthcare
+ - 12 of 68 wanted to know if they were eligible to receive any healthcare at VA
 
-> _Supporting data: Quote here_
-
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
 
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+**Additional Finding 1: Veterans struggle to understand whether their dependents (spouse, children) are eligible for VA healthcare benefits. Many assume certain disability ratings automatically extend coverage to their family.**
+- 12% (19 of 159) posts had questions about dependent care and beneficiary benefits.
+- 17 of 19 of those posts are CHAMPVA-related, seeking guidance and clarification.
+
+**Additional Finding 2: Harmful experience; Difficulty in traveling to VA facilities is a recurring issue for a number of Veterans, particularly for those living far from VA centers or in rural areas.**
+ - There are 8 entries regarding travel reimbursements
+- At least 4 of those entries had a negative experience trying to receive care due to their struggling with getting transportation the the treatment facility or navigating the travel reimbursement system.
+
+
+**Additional Finding 3: Harmful experience; A common concern involves veterans encountering unexpected bills or co-pays, even after receiving care through the VA.**
+- 10 entries sought clarity over copay and how the VA coverage impacts them.
+- At least 4 of those entries had a negative experience, expressing confusion and frustration with receiving unexpected bills/ copay charges and then struggling to navigate the VA website for relevant information.
 
 
 ## Recommendations
