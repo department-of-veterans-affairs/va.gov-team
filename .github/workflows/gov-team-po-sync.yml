@@ -9,7 +9,7 @@ jobs:
   do-sync:
     name: Create Completed Ticket
     runs-on: ubuntu-latest
-    if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && (github.event.label.name == 'PO-Sync-approved'}}
+    if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && github.event.label.name == 'PO-Sync-approved'}}
     
     steps:
       - name: Get data
