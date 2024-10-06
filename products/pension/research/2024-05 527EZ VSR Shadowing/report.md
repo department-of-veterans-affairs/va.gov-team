@@ -59,29 +59,26 @@ Under “Date Costs Paid” for unreimbursed recurring expenses, Veterans are us
 ![Excerpt from paper 527EZ form showing medical expeses section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2024-05%20527EZ%20VSR%20Shadowing/other-medical-expenses.png)
 
 
-**_Team/Product questions_**
-
-_How might we help Veterans understand that they are entitled to benefits as of the date of their ITF (entitlement date, not earlier)?   (ITF language TBD)_
+> **_Team/Product questions_**<br />
+> _How might we help Veterans understand that they are entitled to benefits as of the date of their ITF (entitlement date, not earlier)?   (ITF language TBD)_
 
 #### b. Some Veterans choose not to complete sections of the form 
 Sections that ask for information that a Veteran assume the VA already knows about them are often left incomplete. 
 
 Examples include income, especially federal income from civil service pay or social security and medical history if they receive treatment from a VA facility. 
 
-**_Team/Product questions_**
-
-* _How might we provide clarity of what information is required, why and how it is used?_
-* _How might we gain access to the information that the VA has to streamline the experience by pre-populating information?_
+> **_Team/Product questions_**<br />
+> * _How might we provide clarity of what information is required, why and how it is used?_<br />
+> * _How might we gain access to the information that the VA has to streamline the experience by pre-populating information?_
 
 #### c. Claims submitted without a representative typically require a lot of development compared to those submitted with the help of a VSO, Attorney or Claims Agent. 
 
 This is especially true if supplemental forms, such as 0969 and 8416, are needed. 
 
-**_Enablement Team/VBA questions_**
-
-* _How might we help Veterans avoid delays in receiving pension benefits ?_
-* _How might we reduce the cognitive load of completing the 527EZ application?_
-* _Should Veterans be encouraged to get assistance from a VSO?_
+> **_Enablement Team/VBA questions_**<br />
+> * _How might we help Veterans avoid delays in receiving pension benefits ?_<br />
+> * _How might we reduce the cognitive load of completing the 527EZ application?_<br />
+> * _Should Veterans be encouraged to get assistance from a VSO?_
 
 #### d. The current paper version of the 527EZ has sections which regularly cause confusion for Veterans 
 
@@ -95,9 +92,8 @@ As a result of 1-3 above, **development letters need to be sent** requesting add
 Note: The online web-based form has addressed 1 and 2 above as well as concerns that all Veterans were being asked if they are medically incapable of working vs just applicants under 65. (See _ADDITIONAL DETAILS below for more information)_
 
 
-**_Enablement Team/VBA questions_**
-
-_How might we address the challenges Veterans are experiencing with the  paper and online PDF version of the pension benefit application?_
+> **_Enablement Team/VBA questions_**<br />
+> _How might we address the challenges Veterans are experiencing with the  paper and online PDF version of the pension benefit application?_
 
 ### 2) Some Veterans struggle with retrieving exact dates  
 The 527EZ form asks for month/day/year for marriages, divorces, military service and separation, **yet VSRs are often able to process their 527EZ applications with month and year.**
@@ -106,10 +102,9 @@ Two out of 3 VSRs shadowed indicated that month and year are sufficient for marr
 
 One VSR noted that  it’s ultimately the VAs responsibility to get the Veteran’s records and service dates, but if there is no information available through the DD214, they would return the application as incomplete. They also noted for pension all that’s needed is a wartime period
 
-**_Enablement Team/VBA questions_**
-
-* _How might we reduce the burden for Veterans in remembering exact dates (e.g. marriages, divorces, military service)?_
-* _How might we keep dates to the minimum information needed?_
+> **_Enablement Team/VBA questions_**<br />
+> * _How might we reduce the burden for Veterans in remembering exact dates (e.g. marriages, divorces, military service)?_
+> * _How might we keep dates to the minimum information needed?_
 
 ### 3) VSRs begin the review of pension benefit applications looking for key pieces of information
 
@@ -136,8 +131,8 @@ The following are estimates by the VSRs based on their experience processing pen
 * 60%+ are in facilities(e.g. assisted living), 10% in nursing homes
 * Over 50-75% of applicants are seeking SMP 
 
-**_Team/Product questions_**
-_How might the findings above influence the development of the web-based pension benefits form?_
+> **_Team/Product questions_**<br />
+> _How might the findings above influence the development of the web-based pension benefits form?_
 
 
 ### Additional Details for Key Finding #1D
@@ -165,10 +160,9 @@ The instructions in this section seem to be misleading for the Veteran. **There 
 
 Note: They are unable to leave this section blank. 
 
-**_VBA/SME  questions_**
-
-* _Is there a need to have an option of “no income”?_
-* Should applicants know in advance if they have more than 4 sources of income to report that they will need to submit an 0969?   What happens if they list 4 on the 527EZ and the rest on their 0969? 
+> **_VBA/SME  questions_**<br />
+> * _Is there a need to have an option of “no income”?_<br />
+> * Should applicants know in advance if they have more than 4 sources of income to report that they will need to submit an 0969?   What happens if they list 4 on the 527EZ and the rest on their 0969? 
 
 #### 2) Marital Status (paper form)
 Marital status does not have a “divorced” option The options are:
