@@ -43,7 +43,7 @@ Additional information may be found in **Key Findings and Detailed Findings.**.
 
 ## Key Findings 
 
-1. **Veterans are losing time and money** when they don’t understand what information is needed on the pension benefit application, and why 
+1. Veterans are losing time and money when they don’t understand what information is needed on the pension benefit application, and why 
 2. Some Veterans struggle with  remembering exact dates for marriages and service 
 3. VSRs begin reviewing 527EZ applications looking for key pieces of information
 
