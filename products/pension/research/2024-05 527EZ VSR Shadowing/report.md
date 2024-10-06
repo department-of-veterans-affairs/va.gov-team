@@ -51,7 +51,7 @@ Additional information may be found in **Key Findings and Detailed Findings.**.
 
 Veterans do not always understand what information is required, why information is needed, and the time frame they should use for entering expenses on the 527EZ.  
 
-#### a) Unreimbursed Medical Expenses
+#### a. Unreimbursed Medical Expenses
 Veterans are losing out on several months of monthly medical expenses that could be reimbursed. Veterans may have a lag time of 6-9 months from time they started their pension application to the time they complete it.  <br />
 Under “Date Costs Paid” for unreimbursed recurring expenses, Veterans are using the date that they are entering the information.  They are not dating their medical expenses back to the date of the ITF. As a result, they are losing out on several months of monthly medical expenses that could be reimbursed.  
 
@@ -63,7 +63,7 @@ Under “Date Costs Paid” for unreimbursed recurring expenses, Veterans are us
 
 _How might we help Veterans understand that they are entitled to benefits as of the date of their ITF (entitlement date, not earlier)?   (ITF language TBD)_
 
-#### b) Some Veterans choose not to complete sections of the form 
+#### b. Some Veterans choose not to complete sections of the form 
 Sections that ask for information that a Veteran assume the VA already knows about them are often left incomplete. 
 
 Examples include income, especially federal income from civil service pay or social security and medical history if they receive treatment from a VA facility. 
@@ -73,7 +73,7 @@ Examples include income, especially federal income from civil service pay or soc
 * _How might we provide clarity of what information is required, why and how it is used?_
 * _How might we gain access to the information that the VA has to streamline the experience by pre-populating information?_
 
-#### c) Claims submitted without a representative typically require a lot of development compared to those submitted with the help of a VSO, Attorney or Claims Agent. 
+#### c. Claims submitted without a representative typically require a lot of development compared to those submitted with the help of a VSO, Attorney or Claims Agent. 
 
 This is especially true if supplemental forms, such as 0969 and 8416, are needed. 
 
@@ -83,7 +83,7 @@ This is especially true if supplemental forms, such as 0969 and 8416, are needed
 * _How might we reduce the cognitive load of completing the 527EZ application?_
 * _Should Veterans be encouraged to get assistance from a VSO?_
 
-#### d) The current paper version of the 527EZ has sections which regularly cause confusion for Veterans 
+#### d. The current paper version of the 527EZ has sections which regularly cause confusion for Veterans 
 
 Those sections are : 
 1. The need to report an income 
@@ -114,7 +114,7 @@ One VSR noted that  it’s ultimately the VAs responsibility to get the Veteran�
 ### 3) VSRs begin the review of pension benefit applications looking for key pieces of information
 
 
-#### a) VSRs are initially looking at a few key areas
+#### a. VSRs are initially looking at a few key areas
 These areas determine if they proceed with an application, send a development letter, or deny a claim. 
 
 The sections include:
@@ -130,7 +130,7 @@ They also look at the following information which can indicate whether an applic
 * Over 25,000 in assets
 * If seeking Special Monthly Pension (SMP)
 
-#### b) Applicant information 
+#### b. Applicant information 
 The following are estimates by the VSRs based on their experience processing pension benefit applications
 * Up to 75% are using accredited representatives
 * 60%+ are in facilities(e.g. assisted living), 10% in nursing homes
@@ -146,7 +146,7 @@ These findings relate to the current paper version of the 527EZ.  The digital ve
 
 **PDF generated from paper pension benefits form** has sections that are not clear. One VSR who has been processing pension benefit applications for years noted that Veterans are regularly not fully completing the applications or erroneously entering information, identifying the following areas on the paper PDF form to be challenging. 
 
-#### a) Income and Assets (paper form)
+#### 1) Income and Assets (paper form)
 
 In the Income and Assets Section lX 9G of the paper form, Veterans answer “no” to having MORE than 4 sources of income and then skip over questions 9H(1) thru 9K(3) which are for reporting any income they receive. <br />
 Note section states _“If you leave the entire question blank, we will assume you have no income to report”_  yet “_If any items or skipped or left blank will be considered an unspecified income and could require a request for further information, potentially delaying your claim.”_<br />
@@ -170,7 +170,7 @@ Note: They are unable to leave this section blank.
 * _Is there a need to have an option of “no income”?_
 * Should applicants know in advance if they have more than 4 sources of income to report that they will need to submit an 0969?   What happens if they list 4 on the 527EZ and the rest on their 0969? 
 
-#### b) Marital Status (paper form)
+#### 2) Marital Status (paper form)
 Marital status does not have a “divorced” option The options are:
 * Married
 * Separated
@@ -206,7 +206,7 @@ The online pension form breaks up these questions:
 * Have you applied for Medicaid? (*Required)
     * If they respond yes, they receive the alert _“You'll need to submit a Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779). An official from your nursing home must complete the form.”_
 
-#### d) Medical Condition that Prevents (paper form) 
+#### 4) Medical Condition that Prevents (paper form) 
 Paper form: Section IV Pension Information 4B  _“Are you medically incapable of working?”_   
 
 Online form: _“Do you have a medical condition that prevents you from working?”_  The only time that this question should be asked is if the Veteran is under 65 years of age.  
