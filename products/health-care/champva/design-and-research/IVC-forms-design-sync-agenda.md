@@ -13,6 +13,31 @@
 			- Timeline
 ### Notes
 
+* CHAMPVA Registration: 
+    * Make sure we are clearly defining what changes we are making and find a way to attach the ticket to each issue we address on the figma file. 
+    * Look at the 1010 team’s (healthcare apply pod) work to see how they are handling reporting changes on the figma file.
+    * Also, look into to how they are working with CAIA on content changes
+* OHI:
+    * We will present the flow and how it relates to the pdf form the Claims /OHI team during our regular scheduled stakeholder call (10/16). Remind them of the last conversation we had about data we do and don’t need to collect. 
+    * Consider creating a figma prototype to walk them through the form.
+    * The goal is to ensure that we did not miss anything that is needed in order for the IVC team to process the form. 
+    * We may have to collect the Medicare / HI insurance ID numbers eventually. We hope this will increase the likelihood of removing the HI and Medicare card uploads. 
+    * We want to wait until they update the paper form before we update the digital form to include the ID numbers. This change is still TBD and most likely will wait until VES is ready so this will not be an update needed for MVP launch.    
+* CHAMPVA Claims Research Report: 
+    * Including the recommendations in the finding details works better. 
+    * Consider moving the” Recommendations at a glance” after the “Findings Details”. 
+    * Keep the finding name in the heading for each recommendation in the “Recommendations at a glance” so the reader can look back at the details if they want. 
+    * Keep the overview of the research study that was just added on Friday (10/04/24) where it is in the report.
+    * Plan to wrap up this round of changes by the end of the sprint \
+
+* Claims Research Roadmapping Workshop: 
+    * The goal is to look at the recommendation as a team with, decide what is work pursuing, prioritize them and bucket the tickets (backlog, design, and discovery tickets).
+    * We want to make decisions together on if and how we want to approach these. 
+    * Timeline: Try to schedule the workshop for next sprint or early in sprint 3
+    * Jamie to organize a Mural Board for “Recommendation Roadmap” 
+    * Keep in mind how these findings relate to FMP Claims form. This can be a separate ticket for design. 
+
+
 ## September 30 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
 	- Agenda Topics
