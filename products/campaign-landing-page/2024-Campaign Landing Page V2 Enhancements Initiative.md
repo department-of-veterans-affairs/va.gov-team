@@ -32,7 +32,7 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 - the CLP is driving users to benefit pages or tools - _true_, based on data available in DOMO for 7 CLPs
   - caveat: data is not available for all CLPs and some data is aggregated as a link, rather than specific to the link
   - [data is available here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/campaign-landing-page/analytics.md)
-- the CLP is forces a primary CTA (e.g., campaign KPI that's other than 'page visits' which is what most VA engagement pages/subdomains measure) - _true_
+- the CLP forces a primary CTA (e.g., campaign KPI that's other than 'page visits' which is what most VA engagement pages/subdomains measure) - _true_
 - the CLP is instrumented so that every interaction on the page is tracked whether it is the optional secondary CTA, or downloads, video plays, or clicks to more info/deeper content. -_true_
 
 ## Discovery to inform iteration 
