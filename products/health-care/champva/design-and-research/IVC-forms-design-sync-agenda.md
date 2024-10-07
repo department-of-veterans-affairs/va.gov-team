@@ -1,5 +1,18 @@
 # Running Design and Research Agenda
 
+## October 7 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+		- Review the 1010D design related staging review tickets and talk through some of our suggestions to resolved them
+		- Discuss presenting the new flow to the OHI team
+			- Goals
+			- Timeline
+		- Update on the CHAMPVA Claims Research Report
+		- Discussion on setting up a Claims Research Finding Workshop
+			- Goals
+			- Timeline
+### Notes
+
 ## September 30 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
 	- Agenda Topics
