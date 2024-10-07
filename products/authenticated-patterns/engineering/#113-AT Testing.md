@@ -1,15 +1,15 @@
 # Accessibility Testing for Prefilled pattern
 
 
-# Findings from Tab Navigation and VoiceOver on Mac
+## Findings from Tab Navigation and VoiceOver on Mac
 
-## Tested on: Chrome, Safari, Firefox
+### Tested on: Chrome, Safari, Firefox
 
 - **Focus order is correct.**
 - In alerts that have a heading (e.g., `h3`) and other text (`p` tags), only the heading is read by the screen reader.
 - In prefill alerts where "Note" is bolded, the screen reader only reads “Note” and nothing else.
 
-## Task Green
+### Task Green
 
 - **Home page →** Prefill alert needs `tabindex=0` and possibly `role="alert"`
   `_mock-form-ae-design-patterns/shared/components/alerts/VerifiedPrefillAlert.jsx`
@@ -20,7 +20,7 @@
 
 > **All alerts on the page should have `tabindex=0` added.**
 
-## Task Yellow
+### Task Yellow
 
 - **Confirm mailing address →** Prefill alert needs `tabindex=0` and possibly `role="alert"`
   `_mock-form-ae-design-patterns/shared/components/alerts/PrefillAlert.jsx`
@@ -30,7 +30,7 @@
 - **After editing and saving new address →** Success alert needs `tabindex=0` and possibly `role="alert"`
   `_mock-form-ae-design-patterns/shared/components/alerts/MailingAddressSaveSuccessAlert.jsx`
 
-## Task Purple
+### Task Purple
 
 1. **Home page →** Prefill alert needs `tabindex=0` and possibly `role="alert"`
    `platform/forms/save-in-progress/SaveInProgressIntro.jsx`
@@ -43,7 +43,7 @@
 
 > **`tabindex=0` should be added to all alerts (e.g., Missing info) on this page.**
 
-## 10-10EZR
+### 10-10EZR
 
 - **Home page →** Prefill alert needs `tabindex=0` and possibly `role="alert"`
   `_mock-form-ae-design-patterns/shared/components/alerts/VerifiedPrefillAlert.jsx`
@@ -63,9 +63,9 @@
 - **Insurance-information/medicaid-eligibility →** Similar to the household info page, this does not use the `va-alert` component.
   `platform/forms/save-in-progress/PrefillMessage.jsx`
 
-## Findings from Using aXe Dev Tool Extension on Mac
+### Findings from Using aXe Dev Tool Extension on Mac
 
-### Chrome & Firefox
+#### Chrome & Firefox
 
 - **Moderate issue under “Best practices”**
   Landmarks should have a unique role or role/label/title (i.e., accessible name).
