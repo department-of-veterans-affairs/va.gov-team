@@ -32,9 +32,8 @@
 - Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
 - Delivery Manager & Scrum Master - [Anita Halici](https://dsva.slack.com/archives/D055G32ES79)
 - UX Researchers & Designers
-  - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
-  - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
   - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
+  - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)  
 - Full Stack Engineers
   - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
 - Frontend Engineers
@@ -43,6 +42,8 @@
 - Backend Engineers
   - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
   - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
+- Native Mobile App Engineers
+    - [Juan Castillo](https://dsva.slack.com/archives/D07QU9YQ7HA)
 - DevOps Engineers
   - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
   - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
