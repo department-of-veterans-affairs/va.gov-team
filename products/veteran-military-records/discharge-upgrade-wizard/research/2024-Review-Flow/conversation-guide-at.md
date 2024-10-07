@@ -215,7 +215,7 @@ to this condition.”
 ## Third Task: Review screen
 (RECORD which answers they’ve selected)
 
-Please tell me about your impressions of this page. 
+Please tell me what you think of this page. 
 
 - What does this mean to you?
 - What would you do now?
@@ -230,12 +230,10 @@ Is there a way you could update that information from this page?
 
 - Edit
 - Year discharge
-     - Please tell me about your impressions of this page. 
      - (If alert is noticed) What does this mean to you?
      - What would you do now?
 - Month discharge
 - Continue to review screen
-     - Please tell me about your impressions of this page. 
      - (If alert or updated answers are noticed) What does this mean to you?
      - What would you do now?
 
@@ -249,7 +247,6 @@ Is there a way you could update that information from this page?
 
 - Edit
 - Previous application
-     - Please tell me about what you see here.
      - (If alert is noticed) What does this mean to you?
      - What would you do now?
 - Previous application year
@@ -268,7 +265,6 @@ Is there a way you could update that information from this page?
 - Failure to Exhaust
      - Can select any option 
 - Continue to review screen
-     - Please tell me about what you see here.
      - (If alert or updated answers are noticed) What does this mean to you?
      - What would you do now?
 
@@ -283,20 +279,19 @@ Is there a way you could update that information from this page?
 
 - Edit
 - Branch of service
-     - Please tell me about your impressions of this page. 
      - (If alert is noticed) What does this mean to you?
      - What would you do now?
 - Continue to review screen
-     - Please tell me about your impressions of this page. 
      - (If alert or updated answers are noticed) What does this mean to you?
      - What would you do now?
 
 After you review your answers, could you tell me what you would do next?
+
 Could you please select "Continue"?
 
 ## Fifth Task: Results screen
 
-Please tell me about your impressions of this page. 
+Please tell me what you think of this page.
 
 1. Why do you think you’re seeing this page?
 2. What does this page mean to you?
