@@ -36,7 +36,7 @@
 **Chante & PM**: are you ready to monitor analytics data for trends and problems?
 - Answer: 
 
-**Chante & PM**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/launch-materials/forms-status-on-my-va-release-plan.md)] complete and ready to execute against?
+**Chante & PM**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/launch-materials/forms-status-on-my-va-release-plan.md) complete and ready to execute against?
 - Answer: 
 
 **Everyone**: does anyone have any concerns or reasons we should postpone a launch of forms status on My VA to 25% of users?
