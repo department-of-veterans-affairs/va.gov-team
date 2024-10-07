@@ -26,6 +26,7 @@
     - [Other Submissions](#other-submissions)
   - [Risks](#risks)
     - [Types](#types)
+    - [Duplicates](#duplicates)
     - [Context Changes](#context-changes)
       - [Format Changes](#format-changes)
       - [Context Loss](#context-loss)
@@ -328,6 +329,14 @@ In the above example, you can gather the information for the id from the content
 ### Types
 
 Having types be global requires any system generating an ID would require that value as context. This can be mitigated by having a globally acknowledged place of record as well as only required the system or origin to be aware of Types it is a source of origin for, however it is still an external context requirement.
+
+### Duplicates
+
+There can be cases where a Veteran submits the same exact submission multiple times. This should be mitigated by the SME selecting data that guarantees uniqueness, however that may not always be the case.
+
+This is an opportunity to deduplicate submissions at the submission process however that may not be the desired outcome as Veterans are allowed to submit duplicates.
+
+In those cases, we could add an optional [salt](https://en.wikipedia.org/wiki/Salt_(cryptography)) value to the context. This could be used if set, but allowed to be empty when no salt is needed.
 
 ### Context Changes
 
