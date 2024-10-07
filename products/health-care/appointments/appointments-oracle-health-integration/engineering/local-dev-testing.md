@@ -20,6 +20,15 @@ Then from the directory containing the caddy file, run caddy
 
 * > caddy start
 
+**Note:** In addition to VPG, Ensure that `vaos-service` and `mobile-facility-service` are specified in the Caddyfile.  Your file should look something like this, though the ports may be different.
+```
+http://localhost:2015 {
+        reverse_proxy /facilities/v2/* localhost:8080
+        reverse_proxy /vpg/* localhost:8081
+        reverse_proxy /vaos/* localhost:4518
+}
+```
+
 ### Configuring local vets-api setup
 Follow the guidance detailed in the Vets-api README for configuring local settings: https://github.com/department-of-veterans-affairs/vets-api?tab=readme-ov-file#configuration
 
