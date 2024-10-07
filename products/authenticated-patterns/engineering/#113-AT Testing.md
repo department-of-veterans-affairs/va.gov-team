@@ -91,4 +91,4 @@ I believe the accessibility issues identified are minimal. Any best practice "er
 ## Open Questions
 
 - How do we want to handle unlocked and locked cards? Do we want to add focus? Should screen readers read the text inside (since it will contain the prefilled info)?
-- For the pages using `PrefilledMessage` components with `divs` instead of `va-alert` components, do we want to convert them to use the `va-alert` components?
+- For the pages using `PrefillMessage` components with `divs` instead of `va-alert` components, do we want to convert them to use the `va-alert` components?
