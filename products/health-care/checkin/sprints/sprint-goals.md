@@ -38,8 +38,6 @@
 - **Edit existing content on a resources and support page from Check in**
     - TBD
 - **Tech Debt & Analytics**
-    - [Knowledge Documentation & Transfer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94402)
-    - 🟪 [Complete Offboarding Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=vsp-product-support%2C+operations%2C+Offboarding%2C+analytics-insights&template=offboarding-request.md&title=Offboarding+of+%5Bindividual%5D)
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
     - 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
 </details>
