@@ -14,7 +14,7 @@ The opportunity is to validate or disprove effectivness of the MVP Campaign Land
 ## Problem
 > *Describe the challenge / pain point you seek to address* 
 
-The CLP template does not meeting all the original KPIs - especially:
+The CLP template does not meet all the original KPIs - especially:
 - the capabilities of the CLP template (the various content components) meet the minimum needs of the business stakeholders
 - the CMS functionality of the template builder is bug-free and user/author-friendly
 
@@ -106,6 +106,8 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 - do we need two different templates for different purposes/uses/editor types?
 - what is the definition of a campaign?
 - could we make these auto-expire?
+
+## Scope
 
 
 ## Launch Planning
