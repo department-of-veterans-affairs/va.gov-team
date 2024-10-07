@@ -26,18 +26,16 @@ Please note, this is for the calendar year 2024.
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | Medium               | Medium                | High                | High                    |
 | Q2      | High                 | High                  | Elite               | Elite                   |
-| Q3      |                      |                       |                     |                         |
+| Q3      | Elite                | High                  | Elite               | Elite                   |
 | Q4      |                      |                       |                     |                         |
 
-Notes:
-- Toward the end of Q2, Notify moved to on demand deployments due to our Continuous Delivery pipeline automation. We have had no deployment failures, though if we did we are confident we could quickly rollback and restore - hence our elite rating in those categories.
 
 **Strike**
 |Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | High                 | High                  | Elite               | Elite                   |
 | Q2      | Elite                | High                  | Elite               | Elite                   |
-| Q3      |                      |                       |                     |                         |
+| Q3      | Elite                | High                  | Elite               | Elite                   |
 | Q4      |                      |                       |                     |                         |
 
 #### Platform Satisfaction
