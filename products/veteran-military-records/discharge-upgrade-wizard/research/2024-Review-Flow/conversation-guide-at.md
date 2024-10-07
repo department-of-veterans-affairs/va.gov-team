@@ -57,7 +57,7 @@ because they can help me advocate for improvements to the process in the future.
 If you need help with an existing claim or issue, we can connect you with someone after this session. 
 
 Before we start, I have a few things that I want to go over with you:
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you
+- **This entire session should take about 2 hours.** I want to be sure not to keep you
 much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong
 answers; we are not testing your knowledge or abilities. I welcome any and all of your
@@ -129,11 +129,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 2. What kind of device are you using today? (Computer / Tablet / Smartphone)
 3. What web browser do you use? (Chrome / Firefox / Edge / Safari / _______)
 4. What assistive technology are you using right now? (screen reader / magnifier _______________________)
+    
     - (If Dolphin screen reader, won't be able to share screen on Zoom)
     - (if no AT) Do you sometimes use assistive technology?
-          - If so, what do you use and when?
-               1. Would you be willing to start using it now in this session?
-               2. (if not, discuss w/Amanda--run session w/o AT, or stop and ask Perigean for a replacement participant)
+         - If so, what do you use and when?
+              - Would you be willing to start using it now in this session?
+              - (if not, discuss w/Amanda--run session w/o AT, or stop and ask Perigean for a replacement participant)
+      
 5. How would you rate your level of experience with using a screen (reader / magnifier)--beginner, intermediate, advanced, or expert?
 6. How long have you been using a screen (reader / magnifier)?
 7. Have you ever shared your screen in Zoom while using a screen (reader / magnifier)? (Yes / No)
@@ -144,7 +146,7 @@ receive the URL? I could dictate it to you, or put it in the Zoom chat. (RECORD)
 10. Do you know how discharge status relates to VA benefits?
 11. Are you familiar with the discharge upgrade process?
      - (If Y) Have you applied for a discharge upgrade in the past?
-          i. (If Y) Can you tell me about your experience? (when, how, results)
+          - (If Y) Can you tell me about your experience? (when, how, results)
      - (If N) No problem. You'll learn about it as we go through this session.
 
 ## User Tasks
