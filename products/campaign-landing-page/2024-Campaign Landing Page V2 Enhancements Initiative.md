@@ -107,15 +107,6 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 - what is the definition of a campaign?
 - could we make these auto-expire?
 
-### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
-
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
---- 
 
 ## Launch Planning
 
