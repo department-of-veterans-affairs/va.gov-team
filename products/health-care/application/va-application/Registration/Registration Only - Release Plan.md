@@ -67,7 +67,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time:
-     - 10/1/2024-10/3/2024 
+     - 10/3/2024-10/7/2024 
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10%, about 60 authenticated users
 
@@ -86,7 +86,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time:
-     - 10/3/2024-10/7/2024 
+     - 10/7/2024-10/9/2024 
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 50%, about 300 authenticated users
 
@@ -102,7 +102,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 10/7/2024 - 12/31/2024
+- Length of time: 10/9/2024 - 12/31/2024
 - Percentage of Users (and roughly how many users do you expect this to be): 100%, 250 users will select Registration per month (~700 total users for 3 months)
 
 #### Results
