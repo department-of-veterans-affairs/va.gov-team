@@ -2,7 +2,7 @@
 Scope: Create 1 hub where we list all documentation related to our testing effort
 
 
-##[Ava Test Framework Doc](https://docs.google.com/spreadsheets/d/1W89vFL1L8t7E471NlLeiEmoxDzoAZ1daXepxhFB1Zc4/edit?gid=62297269#gid=62297269)##
+##[Ava Test Framework Doc](https://docs.google.com/spreadsheets/d/1W89vFL1L8t7E471NlLeiEmoxDzoAZ1daXepxhFB1Zc4/edit?gid=62297269#gid=62297269)
 
 Scope: 
 - Initial pass at organizing our testing effort
@@ -33,7 +33,7 @@ Unique testing scenarios required for both the AVA Portal and Agent UI,
 
 Doc Owner: Shelby 
 
-##[Variations Mural](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/ask-va-variation-points.md)##
+##[Variations Mural](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/ask-va-variation-points.md)
 
 Key unique variations amongst the Form Flows. 
 
