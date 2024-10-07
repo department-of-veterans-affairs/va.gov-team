@@ -70,7 +70,7 @@
     - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
     - 🟥 [[Design] Wireframe for when when the selected provider doesn't have their time slots open to EPS/WellHive](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93373)
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
-    - 🟥 [Create and submit CAIA ticket for final content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93968)
+    - ✔️ 🟥 [Create and submit CAIA ticket for final content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93968)
     - ✔️ 🟥 [Update CC VDSS Research Findings pres for Monday's readout with OCTO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93870)
     - 🟩 [[FE] Time selection inline validation error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91914)
     - 🟩 [[FE] Create flow pattern structure for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)
