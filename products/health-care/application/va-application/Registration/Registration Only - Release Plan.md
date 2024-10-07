@@ -73,11 +73,11 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 19 users
+- Metrics at this stage (per your "success criteria"): 17 views of the question page, no errors, one "back" button selection
+- Was any downstream service affected by the change?: NO
+- Types of errors logged: N/A
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? N/A
 
 ### Stage B: 50% of users
 
