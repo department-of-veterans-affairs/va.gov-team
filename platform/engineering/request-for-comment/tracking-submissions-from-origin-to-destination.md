@@ -195,13 +195,13 @@ normalize() {
 
 TYPE=$(normalize 'va_form_10-0996')
 SUBJECT=$(normalize '123456789')
-CONTEXT=$(normalize 'foot:90,head:100')
+CONTEXT=$(normalize '2020-06-12:knee,2001-01-01:headache')
 
 echo -n "$TYPE-$SUBJECT-$CONTEXT" | shasum -a 256
-# 7b4dcc1f5cb176d013ba7a8c3581ee4bca59d620f57a2529a21a83ed648d893d
+# 386ff27b99accdfd6e3d313354417d8e7d7652da3fd8673bf80a4455ef0387fe
 ```
 
-Putting it all together, the Tracking ID for the example is: `7b4dcc1f5cb176d013ba7a8c3581ee4bca59d620f57a2529a21a83ed648d893d`
+Putting it all together, the Tracking ID for the example is: `386ff27b99accdfd6e3d313354417d8e7d7652da3fd8673bf80a4455ef0387fe`
 
 ## Full Example
 
@@ -240,7 +240,7 @@ X-VA-SSN: 111-11-1111
     {
       "type": "contestableIssue",
       "attributes": {
-        "issue": "bum knee",
+        "issue": "knee",
         "decisionDate": "2020-06-12",
         "ratingIssueReferenceId": "142894"
       }
@@ -248,7 +248,7 @@ X-VA-SSN: 111-11-1111
     {
       "type": "contestableIssue",
       "attributes": {
-        "issue": "bad thinky parts",
+        "issue": "headache",
         "decisionDate": "2001-01-01"
       }
     }
@@ -276,10 +276,28 @@ const typeMap = {
 const req = {
   headers: {
     /* request headers from above */
+    'X-VA-SSN': "111-11-1111"
   },
   body: {
     /* request body from above */
-  },
+    "data": {
+      "type": "supplementalClaim",
+    },
+    "included": [
+      {
+        "attributes": {
+          "issue": "knee",
+          "decisionDate": "2020-06-12",
+        }
+      },
+      {
+        "attributes": {
+          "issue": "headache",
+          "decisionDate": "2001-01-01"
+        }
+      }
+    ]
+  }
 };
 
 const type = normalize(typeMap[req.body.data.type]);
@@ -294,7 +312,7 @@ const context = normalize(
 const hashContent = `${type}-${subjectId}-${context}`;
 
 const id = await digestMessage(hashContent);
-// 7a9137cd8fa84f0eaabe1cde4b576f4b598884c6f018462caef4fdb93df9e0b4
+// a11af0b512e265c7fffaf6c8dd8ebb9933dc912f87d8c45c62184096fa0a7640
 ```
 
 ### Other Submissions
