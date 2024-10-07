@@ -32,6 +32,10 @@ Objective 3: Improve Veteran Satisfaction
     KR2: Veteran satisfaction score is increased by 10%
     KR3: App store rating remains above 4.8
 
+Objective 4: The App Works
+
+     KR1: App load time is 2 seconds or less
+     KR2: Reduce bugs by 25%
 
 ## OCTO Objective 2: Stronger platforms.
 
