@@ -69,7 +69,7 @@ Before enabling your feature toggle in production, you'll need to:
 ## Step 4: Limited Availability Release (i.e. release to certain facilities)
 
 ### Planning:
-- VTP and OCTO will determine to which additional facilities to release
+- OCTO with VTP will determine to which additional facilities to release
 - Users see faciity posters directing them to text "travel" to an SMS short code
 
 ## Rollback Plan 
@@ -106,7 +106,7 @@ Before enabling your feature toggle in production, you'll need to:
 ## Step 5: General Availability Release (i.e. release to all facilities)
 
 ### Planning:
-- VTP and OCTO will determine the timing of releasing to all facilities
+- OCTO with VTP will determine the timing of releasing to all facilities
 - Users see faciity posters directing them to text "travel" to an SMS short code
 
 ## Rollback Plan 
