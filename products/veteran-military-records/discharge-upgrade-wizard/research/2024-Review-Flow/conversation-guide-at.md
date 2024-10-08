@@ -38,9 +38,10 @@
 *CHECK SLACK for real-time feedback and questions from observers*
 
 ## Intro - 5 minutes
-Thanks for joining us today! My name is Jordan and [NOTETAKER NAME] is taking notes. I also
-have a couple other colleagues in the Zoom waiting room who would like to observe and take
-notes. But before we get to them…
+Thanks for joining us today! I have a colleague with us in this session who will be taking notes. [Laura/CAIA person] is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take
+notes. 
+
+But before we get to them…
 
 I work on making technology easier for Veterans to use in order to get information and benefits
 from the VA. Today I'm going to ask you a few questions, and then I'll ask you to do some
@@ -109,6 +110,7 @@ share with other VA partners if we remove any information that can be used to id
 you?
 
 ## Screen sharing instructions (if needed)
+- [Laura/CAIA person] will provide instructions specific to AT
 - In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...) or Share Screen (on computer, button is green).
      - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
      - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
@@ -117,6 +119,7 @@ you?
 - iPad: Broadcast screen
 
 ## Instructions for finding Zoom chat (if needed)
+- [Laura/CAIA person] will provide instructions specific to AT
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom.
       - Computer: Just to the left of center is a conversation bubble that says Chat.
           - If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
@@ -139,10 +142,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 5. How would you rate your level of experience with using a screen (reader / magnifier)--beginner, intermediate, advanced, or expert?
 6. How long have you been using a screen (reader / magnifier)?
 7. Have you ever shared your screen in Zoom while using a screen (reader / magnifier)? (Yes / No)
-     - If not, we can help you do that.
+     - (If Y) We'll ask you to share your screen later. Please make sure you have sound enabled. 
+     - (If N) No problem, [Laura/CAIA person] can help you do that.
 8. Is there anything else that we can do to support you during this session? (RECORD AND DO!)
 9. I will be sharing a web page link with you during the session. How would you prefer to
-receive the URL? I could dictate it to you, or put it in the Zoom chat. (RECORD)
+receive the URL? I could email, text, dictate it to you, or put it in the Zoom chat. (RECORD)
 10. Do you know how discharge status relates to VA benefits?
 11. Are you familiar with the discharge upgrade process?
      - (If Y) Have you applied for a discharge upgrade in the past?
@@ -175,7 +179,7 @@ in your impressions of what you see, any questions that you have, and how you fe
 what you're doing.
 
 I'll have you start from a URL that I'm going to [[email/text/dictate/put into the Zoom chat]] for you to use:
-[https://www.va.gov/discharge-upgrade-instructions]
+[https://staging.va.gov/discharge-upgrade-instructions/introduction]
 
 - (If text or email) Could the notetaker please text/email the link?
 - (Might need to hold tablet horizontally so easier to read)
