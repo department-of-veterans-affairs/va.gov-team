@@ -96,4 +96,4 @@ Please list the people who will be serving in each role.
 - Project point of contact: Matt Marino
 - Participant(s): Participants are volunteers from USDS
 - Note-takers: Jeana Clark
-- Observers: AJ Jakabcin, Jeana Clark
+- Observers: AJ Jakabcin, Jeana Clark, Mike Marinos
