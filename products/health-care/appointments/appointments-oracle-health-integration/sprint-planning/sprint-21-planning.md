@@ -2,7 +2,8 @@
 Sprint 21: 10/8/24 - 10/21/24
 
 ## 📅 Upcoming Dates  & 🏖️ PTO
-
+* Indigenous Peoples Day 10/14/24 - observed 
+* Devin PTO 10/18/24 - 10/24/24
 
 
 ## 📣 Announcements
@@ -23,7 +24,7 @@ Sprint 21: 10/8/24 - 10/21/24
 ## 📋 Previous Sprint Summary:
 In Sprint 20, the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  * [#93475 Redirect vets-api clinics endpoint to VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/93475)
+  * Redirect vets api clinics endpoint to send requests to VetsAPI Patient Gateway
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
   * * 🚧 [#92560 CES-988 VPG: add named exceptions for handled scenarios](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/92560)
     * [#93518 CES-1065: Allow rules engine to run on return](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/93518)
