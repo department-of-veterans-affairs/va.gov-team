@@ -40,7 +40,7 @@
 
 ## Background
 
-Submissions are any data provided by veterans/users that are collected, generated, stored, and sent in many different ways across products/forms.
+Submissions are any data provided by veterans/users that are collected, generated, stored, and sent in many different ways across products/services.
 
 In order to provide a holistic view of these submissions as they travel from system to system on their way to a final destination, we need a way to track each item uniquely and consistently. Ideally, this system is resilient to unexpected gaps or loses, as well as support systems that cannot change or be updated.
 
@@ -65,11 +65,16 @@ In order to provide a holistic view of these submissions as they travel from sys
 - Provide a way to track unique submissions from system to system
 - Allow for transition time for systems that cannot be updated quickly
 - Can recover from errors or gaps in tracking
-- Not be considered PII/PHI (but may use PII/PHI in its generation)
+- Should not be considered PII/PHI (but may use PII/PHI in its generation)
 
 ## Design
 
 The main design is to generate a unique ID for each submission, regardless of type that can persist between all systems the submission will travel. In order to support systems that cannot or will not be updated to accept and work with this ID, it should be deterministic based on the content of the submission. This allows systems that are aware of the ID to "regenerate" the ID or corelate that system's ID to this unique ID.
+
+A reference implementation for this thought experiment would be a Reporting/BI service would collect information about submissions from each system. This service would attempt to track a submission between these systems. In order to do so, it will need a way to associate records from each system to a unique submission. Using the ideas in this paper, the Reporting service would be able to either:
+
+- Use the generated Submission ID, if it's available from the reporting service
+- Generate the Submission ID from the content of the submission, if it's not available from the reporting service
 
 ### Unique and Deterministic
 
