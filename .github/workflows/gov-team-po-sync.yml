@@ -12,21 +12,25 @@ jobs:
     if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && github.event.label.name == 'PO-Sync-approved'}}
     
     steps:
-      - name: Get data
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ORGANIZATION: ${{ github.repository_owner }}
-          PROJECT_NUMBER: 998
-          LABEL_CHECK: "VFS Team"
 
-        run: |
-          PROJECT_ID=$(gh api graphql -f query='
-              query($org: String!, $number: Int!) {
-                organization(login: $org){
-                  projectV2(number: $number) {
-                    id
-                  }
-                }
-              }' -f org=$ORGANIZATION -f number=$PROJECT_NUMBER --jq '.data.organization.projectV2.id')
-          
-          echo "The Project ID is...$PROJECT_ID"
+    - name: Checkout
+        uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      run: |
+        npm i axios@^1.7.7 axios-retry@^3.9.1
+
+    - name: Run script
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PROJECT_NUMBER: 998
+        ISSUE_TITLE: ${{ github.event.issue.title }}
+
+        run: node ./scripts/github-actions/po-sync.js
+
+        
