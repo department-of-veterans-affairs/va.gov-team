@@ -106,7 +106,7 @@ Before enabling your feature toggle in production, you'll need to:
 ## Step 5: General Availability Release (i.e. release to all facilities)
 
 ### Planning:
-- IVC/OCTO will determine the timing of releasing to all facilities
+- VTP and OCTO will determine the timing of releasing to all facilities
 - Users see faciity posters directing them to text "travel" to an SMS short code
 
 ## Rollback Plan 
