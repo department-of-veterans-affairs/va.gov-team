@@ -1,78 +1,66 @@
 # Identity
-Welcome to the Identity team. This directory contains information needed to Onboard to the VSP Identity Team
+Welcome to the Identity team. This directory contains information needed to onboard to the Identity Team.
 
 **New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
 
 
-## What we're doing:
+## What we're working on:
 
-### Current Team Objectives
-
-
-**Sign in Service Pilot**  
-_Current Status:_ Actively working on this.  Currently working on second phase of work.  
-We are developing a pilot sign in service, in partnership with non-SSO VA.gov-ecosystem applications. This pilot will investigate the possibility of minimizing redirects, improving service reliability, and modernizing protocols. This pilot will help address ongoing concerns by business partners and Veterans. Research and development are underway, with an MVP expected in Q1'22.
-
-**Inherited Proofing**  
-_Current Status:_ Initial research is done.  Next up is accessibility research.
-We are working to provide a framework for users to migrate from legacy Credential Service Providers such as MyHealtheVet to more modern providers such as Login.gov.  This includes tools to help users select a new CSP that meets their needs, as well as validating that users are eligible to migrate to these CSPs.  The goal of this work is to provide users a more uniform, secure experience across government services.
+### Current Team Initiatives
 
 
-**Alerting Improvements**  
-_Current Status:_ Actively working on this  
-We are working to streamline our alerting and monitoring systems to reduce alert noise and improve accuracy, allowing us to more accurately and efficiently track and resolve issues.
+**Sign-in Transition**  
+_Current Status:_ Actively in progress
+To enhance security and streamline the sign-in process, we are consolidating from four options to two modern, secure credentials: Login.gov and ID.me. The initiative includes updating the sign-in modal to de-emphasize MHV and DS Logon by rearranging options and interstitials to prompt users to make the transition prior to the deprecation date. MHV users will need to transition by January 31, 2025, while DS Logon users have until September 30, 2025, to switch to Login.gov or ID.me.
 
+**Court-Appointed Guardians Issue**  
+_Current Status:_ Research & Discovery
+Court-appointed guardians access veterans' benefits and information through MHV, but there is no equivalent access pathway through Login.gov or ID.me after MHV credentials are deprecated. We are addressing this gap by exploring short-term solutions to prevent immediate loss of access for guardians, while also considering long-term strategies to support delegate access within the modern credentials.
+
+**Account Creation API**  
+_Current Status:_ Actively in progress  
+As MHV credentials are set to be retired in January 2025, we are exploring how the MHV Account Creation API can be used to associate MHV accounts with modern VA.gov credentials. The API aims to ensure that users' MHV account information is properly linked within VA systems, with vets-api checking user verification status and station ID before making an asynchronous call to the MHV Account Creation API for account association.
 
 
 ---
-
-Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the [#vfs-product](https://dsva.slack.com/channels/vfs-product) channel in Slack.
 
 
 ## Team
 
 ### VA Product Owners
-- Tom Black
+- Tom Black, Identity Engineering Lead
+- Samara Strauss, Identity Product Lead
 
-### Product and Program Management
+### Program & Engineering Management
 - Parker Baranowski - Program Manager
-- Mike King - Product Manager
-- Jim Connelly - Product Manager
-- Lisa Lindsey - Delivery Manager
-
-### UX
-
-- Clayton Zook - UX Lead
-- Charlye Tran - UX Designer/Researcher
-- Megan Driscoll - UX Content Designer
-
-### Engineering
 - Joe Niquette - Security Engineer, Lead Engineer
 
-#### Backend
-- Trevor Bosaw - Backend Lead
+#### Platform-Infrastructure
+- Lainey Trahan - Product Manager
+- Trevor Bosaw - Backend Engineer, Technical Lead
 - John Bramley - Backend Engineer
-- Richard Davis - Backend Engineer
+- Emily Nguyen - Backend Engineer (temporary)
 - Riley Anderson - Backend Engineer
-
-#### Frontend
-- Alex Garcia - Frontend Lead
-- Afia Caruso - Frontend Engineer
-- Antonette Caldwell - Frontend Engineer
+- Alex Jolovic - Backend Engineer (temporary)
 - Afia Caruso - Frontend Engineer
 - Ian Magenta - Frontend Engineer
-- Caitlin Neathawk - Frontend Engineer
-
-#### DevOps
 - Vid Jovanovic - DevOps Engineer
 - Josh Houston - DevOps Engineer
 
 
+#### Identity Support and Experience
+- Joelle Wells - Product Manager
+- Alex Garcia - Frontend Engineer, Technical Lead
+- Clayton Zook - UX Lead
+- Charlye Tran - UX Designer/Researcher
+- Megan Driscoll - UX Content Designer
+- Antonette Caldwell - Frontend Engineer
+- Caitlin Neathawk - Frontend Engineer
+
+
 ## Communications
-- Slack: #vsp-identity
-- Zenhub tag: identity
+- If you have a question and can't find the answer, don't hesitate to send a message to the [#identity](https://dsva.slack.com/channels/identity) channel in Slack.
 
-## Timeline
+- For support requests, please send a message to the [#identity-support](https://dsva.slack.com/channels/identity-support) channel in Slack.
 
-
-
+- Jira labels: identity_platform, identity_experience
