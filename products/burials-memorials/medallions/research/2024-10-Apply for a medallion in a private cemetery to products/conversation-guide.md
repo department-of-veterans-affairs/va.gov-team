@@ -27,7 +27,7 @@ Before we start, I have a few things that I want to go over with you:
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
    - Are you on a desktop, mobile or tablet device?
    - I'm going to send you a link in the chat that I would like for you to open. [Link]
-- Okay, now I'm going to ask you to share your screen in Zoom so that we can look at the prototype together and then we'll begin.
+- **Okay, now I'm going to ask you to share your screen in Zoom** so that we can look at the prototype together and then we'll begin.
    - Zoom screensharing on desktop: Locate green Share Screen button on the bottom tool pane.
    - Zoom screensharing on mobile: Locate Share button in bottom tool panel (it's scrollable and they may need to scroll to see button if off screen), then hit "Start broadcast".
    - If they have trouble locating the chat or with sharing, talk them through finding the chat window to locate the prototype link and the Zoom screen sharing features. Zoom share screen directions
