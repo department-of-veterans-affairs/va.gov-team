@@ -14,19 +14,19 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 | Metric| December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 |September 2024|October 2024	|November 2024	|December 2024	|
 |---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
-| Number of editors | 539 | 539 | 554 | 555| 557 | 559 | 559
-| % which have logged in in the last 30 days | 17 | 26 |18 | 11 | 11 | 16
-| % which have never logged in | 8 | 8| 10 | 9 | 9 | 9
+| Number of editors | 539 | 539 | 554 | 555| 557 | 559 | 559 |-|-| 554
+| % which have logged in in the last 30 days | 17 | 26 |18 | 11 | 11 | 16 | - |- | - | 14 |
+| % which have never logged in | 8 | 8| 10 | 9 | 9 | 9 | - |- | - | 8 |
 
 
 ## Vet Center facility stats
 | Metric| December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 |September 2024|October 2024	|November 2024	|December 2024	|
 |---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
-| Number of Vet Centers | 300 | 300 | 300 | 302 | 302 | 304 | | | 302 ||||||
-| Number of Outstations |20 | 20| 21 | 22 | 22 | 22 | 22 | 23 | 24||||||
-| Number of Mobile Vet Centers| 83|83 |83 | 83 | 83 | 83 | 83 | 83 | 83||||||
-| Number of CAPs | 519 |525 |528 | 534 | 537 | 537 | | | 546||||||
-| Number of Vet Center services| 3,741 |3,742 |3,742 | 3,746 | 3,749 | 3,749 | | | 3,756||||||
+| Number of Vet Centers | 300 | 300 | 300 | 302 | 302 | 304 |- |- | 302 | 302|||||
+| Number of Outstations |20 | 20| 21 | 22 | 22 | 22 | 22 | 23 | 24| 24 |||||
+| Number of Mobile Vet Centers| 83|83 |83 | 83 | 83 | 83 | 83 | 83 | 83| 83|||||
+| Number of CAPs | 519 |525 |528 | 534 | 537 | 537 |- |- | 546| 547|||||
+| Number of Vet Center services| 3,741 |3,742 |3,742 | 3,746 | 3,749 | 3,749 | -|- | 3,756| 3,767|||||
 
 ## Users
 
@@ -49,8 +49,8 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 ## Service views
 
-|	Service	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24	|	Jun-24		Jul-24	|	Aug-24	|	Sep-24	|	|	|	|
-|---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|
+|	Service	|	December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 |	July 2024	| August 2024	|September 2024|October 2024	|November 2024	|December 2024	|
+|---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
 |	Mental health care  (R)	|	 3,245 	|	 3,741 	|	 4,228 	|	 4,182 	|	4231	|	 4,070 	|	 3,780 	 | 	 4,022 	 | 	 3,860 	 | 	 3,834 	|		|		|		|
 |	Veteran connections  (R)	|	 3,240 	|	 3,472 	|	 4,108 	|	 3,892 	|	3997	|	 3,776 	|	 3,577 	 | 	 3,906 	 | 	 3,706 	 | 	 3,358 	|		|		|		|
 |	Couples and family counseling  (R)	|	 2,743 	|	 3,011 	|	 3,518 	|	 3,583 	|	3607	|	 3,361 	|	 3,154 	 | 	 3,486 	 | 	 3,463 	 | 	 3,494 	|		|		|		|
@@ -70,13 +70,13 @@ OKR to measure the success of notifications reminding editors to review and upda
 |	Intimate partner violence support (O)	|	 123 	|	 110 	|	 139 	|	 141 	|	117	|	 134 	|	 144 	 | 	 134 	 | 	 142 	 | 	 104 	|		|		|		|
 |	Recreation and creative arts therapy (O)	|	 37 	|	 56 	|	 65 	|	 63 	|	117	|	 48 	|	 68 	 | 	 58 	 | 	 62 	 | 	 58 	|		|		|		|
 ## Interactions with FAQs
-| Clicks on accordions|  December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 |	July 2024	| August 2024	|September 2024|October 2024	|November 2024	|December 2024	|
-|---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
-|	Do I have to be enrolled in VA health care to access Vet Center services?	|		|		|		|		|		|		|		|	 3,024 	 | 	 2,838 	 | 	 2,676 	|	|	|	|
-|	Am I eligible for Vet Center services as a military family member?	|		|		|		|		|		|		|		|	 2,372 	 | 	 2,348 	 | 	 2,280 	|	|	|	|
-|	Do I have to be enrolled in VA health care to access Vet Center services?	|		|		|		|		|		|		|		|	 3,024 	 | 	 2,838 	 | 	 2,676 	|	|	|	|
-|	What about my privacy?	|		|		|		|		|		|		|		|	 1,414 	 | 	 1,162 	 | 	 1,138 	|	|	|	|
-|	What are Vet Centers?	|		|		|		|		|		|		|		|	 5,674 	 | 	 5,568 	 | 	 5,305 	|	|	|	|
+| Clicks on accordions| July 2024	| August 2024	|September 2024|October 2024	|November 2024	|December 2024	|
+|---|:---:|:---:|:---:|:---:| :---:|:---:|
+|	Do I have to be enrolled in VA health care to access Vet Center services?	|	 3,024 	 | 	 2,838 	 | 	 2,676 	|	|	|	|
+|	Am I eligible for Vet Center services as a military family member? |	 2,372 	 | 	 2,348 	 | 	 2,280 	|	|	|	|
+|	Do I have to be enrolled in VA health care to access Vet Center services?	| 3,024 	 | 	 2,838 	 | 	 2,676 	|	|	|	|
+|	What about my privacy?	| 1,414 	 | 	 1,162 	 | 	 1,138 	|	|	|	|
+|	What are Vet Centers?	| 5,674 	 | 	 5,568 	 | 	 5,305 	|	|	|	|
 
 ## Other interactions
 | Other interactions (clicks on links)| December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 |	July 24	| August 24	|September 2024| October 2024	|November 2024	|December 2024	|

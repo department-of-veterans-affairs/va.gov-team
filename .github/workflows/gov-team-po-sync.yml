@@ -31,6 +31,6 @@ jobs:
         PROJECT_NUMBER: 998
         ISSUE_TITLE: ${{ github.event.issue.title }}
 
-        run: node ./scripts/github-actions/po-sync.js
+      run: node ./scripts/github-actions/po-sync.js
 
         

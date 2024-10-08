@@ -40,8 +40,8 @@ We can review your static wireframes or interactive prototypes looking for poten
 ### PDF audit
 We can review PDF documents for accessibility, and help advise on how to remediate any issues found.
 
-### Staging / CodePen / Production audit
-We can review coded products, either on staging or CodePen. We test with assistive technology, review for accessibility best practices, and ensure that the product meets OCTO-DE accessibility experience standards. 
+### Staging / CodePen / Codespace / Production audit
+We can review coded products, whether they're on staging, CodePen, Codespace, or are already in production. We test with assistive technology, review for accessibility best practices, and ensure that the product meets OCTO-DE accessibility experience standards. 
 
 **We can also help you prepare the [required accessibility testing artifact](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#artifact) for the Collaboration Cycle.**
 
