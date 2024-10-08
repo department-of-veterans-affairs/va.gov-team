@@ -303,3 +303,6 @@ strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Re
 We recommend you plan a graceful exit strategy that you will feel comfortable using during a session. Your goal is to simply wrap up the session without any further incident or escalation. It is important not to blame the participant, since it could increase any distress or trauma they are experiencing. If you are exiting for a reason on your side, it’s best not to share any personal details, as it may create additional stress for all. Examples of exit strategies that have worked include:
 - Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 - Blame technology: I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+
+## Approvals
+- Amanda Klausmeier (VA UX lead) on October 8, 2024
