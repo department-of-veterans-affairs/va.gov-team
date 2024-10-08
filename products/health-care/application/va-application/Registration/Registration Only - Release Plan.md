@@ -45,7 +45,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Rollout Planning
 
 - Desired date range:
-     - 10/1/2024 - 12/31/2024 - This will be a 3-month long experiment
+     - 10/3/2024 - 12/31/2024 - This will be a 3-month long experiment
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - We will use the feature toggle to limit the traffic of users.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
