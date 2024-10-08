@@ -147,7 +147,7 @@ When will the thing you are testing be finalized? Ideally, it’s after going th
  
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.  
 * Pilot participant email: santiago_kenneth@bah.com 
-* Date and time of pilot session: TBD 
+* Date and time of pilot session: 10/11/2024, 1 p.m. 
  
 **We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this. **  
 - Requested dates/times for kick-off meeting (ET): 10/08/2024
