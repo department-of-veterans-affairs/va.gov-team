@@ -7,7 +7,7 @@ on an experimental design for editing questions with branching logic and this st
 
 - [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/2024-discharge-upgrade-wizard-subtask/initiative-brief.md)
 - [Link to secondary research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/secondary-research.md)
-- Link to card in research repo (when available)
+- [Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/704)
 
 ### OCTO Priorities
 This research aligns with the following [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md):
@@ -59,7 +59,7 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts please.
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/conversation-guide.md)
-- [Link to DUW in production](https://www.va.gov/discharge-upgrade-instructions)
+- [Link to DUW in staging](https://staging.va.gov/discharge-upgrade-instructions/introduction)
 - [Link to Research Notetaking Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726091853497/11d98e6ba53e1a738c258f67c2671a8e43d7908c?sender=u01810f3edbfc878c08be5925)
 
 ## Recruitment
