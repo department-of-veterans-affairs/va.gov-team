@@ -143,7 +143,7 @@ like you to try to use it, and please share your feedback while you're doing tha
 in your impressions of what you see, any questions that you have, and how you feel about
 what you're doing.
 I'll have you start from a URL that I'm going to [dictate/put into the Zoom chat] for you to use:
-[https://www.va.gov/discharge-upgrade-instructions]
+[https://staging.va.gov/discharge-upgrade-instructions/introduction]
 
 Did you get the link?
 - If see “unsupported browser” error, ask to try a different browser or device, or share my
