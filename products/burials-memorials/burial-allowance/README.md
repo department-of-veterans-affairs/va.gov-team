@@ -114,3 +114,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 - VBA Stakeholders and SMEs: Eric Henne, Terrence Minyard, Chelsey Carlin, Maureen Domzalski, Jennifer Feuer, Derek Uttley
 - CAIA Team (content review)
+
+#### Privacy officer
+ - Renu Roy (renu.roy@va.gov) 
