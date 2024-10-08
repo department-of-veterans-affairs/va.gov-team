@@ -70,13 +70,13 @@ OKR to measure the success of notifications reminding editors to review and upda
 |	Intimate partner violence support (O)	|	 123 	|	 110 	|	 139 	|	 141 	|	117	|	 134 	|	 144 	 | 	 134 	 | 	 142 	 | 	 104 	|		|		|		|
 |	Recreation and creative arts therapy (O)	|	 37 	|	 56 	|	 65 	|	 63 	|	117	|	 48 	|	 68 	 | 	 58 	 | 	 62 	 | 	 58 	|		|		|		|
 ## Interactions with FAQs
-| Clicks on accordions|  December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 |	July 2024	| August 2024	|September 2024|October 2024	|November 2024	|December 2024	|
-|---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
-|	Do I have to be enrolled in VA health care to access Vet Center services?	|		|		|		|		|		|		|		|	 3,024 	 | 	 2,838 	 | 	 2,676 	|	|	|	|
-|	Am I eligible for Vet Center services as a military family member?	|		|		|		|		|		|		|		|	 2,372 	 | 	 2,348 	 | 	 2,280 	|	|	|	|
-|	Do I have to be enrolled in VA health care to access Vet Center services?	|		|		|		|		|		|		|		|	 3,024 	 | 	 2,838 	 | 	 2,676 	|	|	|	|
-|	What about my privacy?	|		|		|		|		|		|		|		|	 1,414 	 | 	 1,162 	 | 	 1,138 	|	|	|	|
-|	What are Vet Centers?	|		|		|		|		|		|		|		|	 5,674 	 | 	 5,568 	 | 	 5,305 	|	|	|	|
+| Clicks on accordions| July 2024	| August 2024	|September 2024|October 2024	|November 2024	|December 2024	|
+|---|:---:|:---:|:---:|:---:| :---:|:---:|
+|	Do I have to be enrolled in VA health care to access Vet Center services?	|	 3,024 	 | 	 2,838 	 | 	 2,676 	|	|	|	|
+|	Am I eligible for Vet Center services as a military family member? |	 2,372 	 | 	 2,348 	 | 	 2,280 	|	|	|	|
+|	Do I have to be enrolled in VA health care to access Vet Center services?	| 3,024 	 | 	 2,838 	 | 	 2,676 	|	|	|	|
+|	What about my privacy?	| 1,414 	 | 	 1,162 	 | 	 1,138 	|	|	|	|
+|	What are Vet Centers?	| 5,674 	 | 	 5,568 	 | 	 5,305 	|	|	|	|
 
 ## Other interactions
 | Other interactions (clicks on links)| December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 |	July 24	| August 24	|September 2024| October 2024	|November 2024	|December 2024	|
