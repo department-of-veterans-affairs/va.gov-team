@@ -189,4 +189,4 @@ Please list the people who will be serving in each role.
 - Observers: TBD
 
 ## Approvals
-- Amanda Klausmeier (Sitewide UX/UI Lead) on September 25, 2024
+- Amanda Klausmeier (VA UX lead) on October 8, 2024
