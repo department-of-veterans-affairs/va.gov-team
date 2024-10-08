@@ -112,3 +112,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  - PM: Laura Steele
  - Engineering: Thomas Blackwell
  - Research/Design: Julie Pedtke, Fiorella Geedi
+
+#### Privacy officer
+ - Renu Roy (renu.roy@va.gov) 
