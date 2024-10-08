@@ -69,7 +69,7 @@ Before enabling your feature toggle in production, you'll need to:
 ## Step 4: Limited Availability Release (i.e. release to certain facilities)
 
 ### Planning:
-- IVC will determine to which additional facilities to release
+- VTP and OCTO will determine to which additional facilities to release
 - Users see faciity posters directing them to text "travel" to an SMS short code
 
 ## Rollback Plan 
