@@ -15,8 +15,8 @@ OKR to measure the success of notifications reminding editors to review and upda
 | Metric| December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 |September 2024|October 2024	|November 2024	|December 2024	|
 |---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
 | Number of editors | 539 | 539 | 554 | 555| 557 | 559 | 559 |-|-| 554
-| % which have logged in in the last 30 days | 17 | 26 |18 | 11 | 11 | 16 | - |- | 14 |
-| % which have never logged in | 8 | 8| 10 | 9 | 9 | 9 | - |- | 8 |
+| % which have logged in in the last 30 days | 17 | 26 |18 | 11 | 11 | 16 | - |- | - | 14 |
+| % which have never logged in | 8 | 8| 10 | 9 | 9 | 9 | - |- | - | 8 |
 
 
 ## Vet Center facility stats
