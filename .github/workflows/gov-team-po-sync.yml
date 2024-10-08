@@ -7,7 +7,7 @@ on:
 
 jobs:
   do-sync:
-    name: Create Completed Ticket
+    name: Update Collab Cycle Project Board for PO-Sync
     runs-on: ubuntu-latest
     
     permissions:
