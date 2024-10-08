@@ -1,6 +1,22 @@
 # VA Mobile team sprint demo meeting analytics
 
 This file serves as a high level meeting log and demo inventory for the VA Health and Benefit mobile core team.
+
+***
+## October 8, 2024: Sprint 107 [VA Mobile Sprint Demo - Sprint 107.pdf](https://github.com/user-attachments/files/17299427/VA.Mobile.Sprint.Demo.-.Sprint.107.pdf)
+
+
+https://adhocteam-us.zoom.us/rec/share/puVOeDEp2Riud_pKgCBdJpDA7fSxZgZg5RmHbkO1Z7gX861KbOLJde4hyiNGKJh6.s3w8KPaoZS0MZQhw
+Passcode: k#MS8^#P
+
+| Team | Topic | 
+|---|---|
+| Platform: Design System | Spacing Tokens |
+| Platform: API | Zero Silent Failures, eFolder |
+| Platform: QA & Release | Accessibility Light/Dark mode audit |
+| Flagship: Global | SSO throughout the app |
+| Flagship: Health & Benefits | Claims Status Analytics |
+
 ***
 ## September 24, 2024: Sprint 106 [VA Mobile Sprint Demo - Sprint 106.pdf](https://github.com/user-attachments/files/17120552/VA.Mobile.Sprint.Demo.-.Sprint.106.pdf)
 
