@@ -16,8 +16,6 @@ The plan for associating appointments to claims is to add Travel Pay specific at
 
 It is the team's recommendation that the appointment association logic is performed in a separate module based on the BTSSS appointment list. This will have the most comprehensive data returned to associate the VAOS appointment to any existing travel claims as well as the necessary data requirements to submit the claim without additional API calls. In the appointments list we can show a `yes/no` indication of whether or not a travel pay claim has been submitted for the appointment date-time and facility, allowing users to submit a claim if no claim is associated with the given appointment.
 
-From a product perspective, we want to move away from the idea of Travel Pay Reimbursement being tied directly to "appointments". While an appointment is a _qualifying_ event for a reimbursement, it's not having an appointment that makes you eligible, it's _incurring a cost for your trip to the location of service delivery_.
-
 By separating the appointment-to-claim association logic into a separate "Appointment Association Module" (or class) it can be shared across all modalities for an omni-channel "appointments" experience, while leaving the Travel Pay Reimbursement claim logic itself a standalone concern.
 
 ## Technical feasibility research
