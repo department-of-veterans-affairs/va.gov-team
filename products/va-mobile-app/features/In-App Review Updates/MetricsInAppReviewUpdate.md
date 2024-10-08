@@ -1,6 +1,6 @@
 
 ## In App Review Code Update 
-This page contains quantitative data intended to measure the In-App reveiw Code update. 
+This page contains quantitative data intended to measure the In-App review Code update. 
 
 ### Metric Tracking
 
