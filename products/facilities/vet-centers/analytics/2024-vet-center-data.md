@@ -49,7 +49,7 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 ## Service views
 
-|	Service	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24	|	Jun-24	|	Jul-24	|	Aug-24	|	Sep-24	| Oct-24	| Nov-24	| Dec-24	|
+|	Service	|	December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 |	July 2024	| August 2024	|September 2024|October 2024	|November 2024	|December 2024	|
 |---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
 |	Mental health care  (R)	|	 3,245 	|	 3,741 	|	 4,228 	|	 4,182 	|	4231	|	 4,070 	|	 3,780 	 | 	 4,022 	 | 	 3,860 	 | 	 3,834 	|		|		|		|
 |	Veteran connections  (R)	|	 3,240 	|	 3,472 	|	 4,108 	|	 3,892 	|	3997	|	 3,776 	|	 3,577 	 | 	 3,906 	 | 	 3,706 	 | 	 3,358 	|		|		|		|
