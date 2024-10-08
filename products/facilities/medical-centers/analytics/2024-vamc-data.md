@@ -26,10 +26,9 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Total # of active editors | 366 |368 |362 |392 | 408 | 424 |||
 | Number of new editors this month |3 |5 | 4| 8 | 9 |||
-| Total # of VAMC systems |141 | 141 |141 | 141 | 141 | | | 142 
-| Total # of VAMC facilities | 1,458 |1,461 |1,462 |1,464 | 1,470 | | | 1,480 | | 
-| Total # of VAMC system health services | 6,550 |6,559 |6,567 |6,567 | 6,593 | | | 6,663 | | 
-| Total # of VAMC facility health services | 15,856 | 15,901 |15,995 |16,067 | 16,112 | | | 16,318 | |
+| Total # of VAMC facilities | 1,458 |1,461 |1,462 |1,464 | 1,470 |- | -| 1,480 |1,483 | 
+| Total # of VAMC system health services | 6,550 |6,559 |6,567 |6,567 | 6,593 |- |- | 6,663 | 6,667| 
+| Total # of VAMC facility health services | 15,856 | 15,901 |15,995 |16,067 | 16,112 |- | -| 16,318 | 16,347 |
 
 ## Summary data
 
