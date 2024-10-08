@@ -9,7 +9,7 @@
 * Prep for 1.1 release
 
 **Submission Experience**
-* Finalize Timely & Truthful designs, align w OCTO and prep stories for implementation
+* Finalize New Confirmation Page and New Email Touchpoints (formerly T&T) design and prep stories for implementation
 * Refine Submission Record & Tracking solution direction and align w OCTO
 
 **Other**

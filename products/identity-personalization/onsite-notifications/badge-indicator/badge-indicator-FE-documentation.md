@@ -25,6 +25,11 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 ### Error state - API-related failure:
 WIP
 
+
+---
+
+### Use cases
+
 **Show link**
 - For users who have VA health care.
 
@@ -58,6 +63,7 @@ font: vads-font-family-sans-serif, vads-font-size-base,vads-font-weight-bold
 color: $color-vads-color-base-lightest
 
 **Accessibility specs** 
+
 The component is implemented with aria text for screen reader usage. 
 
 The aria text has variations depending on the number of unread messages/other unseen content:

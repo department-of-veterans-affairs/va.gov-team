@@ -25,6 +25,17 @@ Before we start, I have a few things that I want to go over with you:
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+   - Are you on a desktop, mobile or tablet device?
+   - I'm going to send you a link in the chat that I would like for you to open. [Link]
+- **Okay, now I'm going to ask you to share your screen in Zoom** so that we can look at the prototype together and then we'll begin.
+   - Zoom screensharing on desktop: Locate green Share Screen button on the bottom tool pane.
+   - Zoom screensharing on mobile: Locate Share button in bottom tool panel (it's scrollable and they may need to scroll to see button if off screen), then hit "Start broadcast".
+   - If they have trouble locating the chat or with sharing, talk them through finding the chat window to locate the prototype link and the Zoom screen sharing features. Zoom share screen directions
+   - Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording.
+   - Backup plan if they cannot figure out how to share screen:
+      - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and
+        then I'm going to have you "Drive". You can tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
+
 - (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?

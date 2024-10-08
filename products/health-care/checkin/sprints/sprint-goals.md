@@ -27,7 +27,7 @@
     - 🟩 [[FE] - Create mock api for travel claim status endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **VAHB: Medication Wording**
-    - JUAN - [Update Medication Wording for Appointments | In Person](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
+    - JUAN - [Update Medication Wording for Appointments | In Person & Community Care & Phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
 - **VAHB: Pre-Check-in**
     - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
     - 🟥 [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
@@ -40,6 +40,7 @@
 - **Tech Debt & Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
     - 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
+    - 🟩 [Use aria-describedby for Details links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94424)
 </details>
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
@@ -48,9 +49,9 @@
     - **Move to New AWS Instance**
       - ✔️ 🟨 [[DevOps] Perform Discovery to Modify Vets-API to PULL CHIP Parameters Instead of PUSH to DSVAgovCloud](https://github.com/department-of-veterans-affairs/checkin-devops/issues/477)
       - 🟨 [[DevOps] Discovery on getting `cie-staging-scheduler` into IaC.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/299)
-      - 🟨 [[DevOps] Backup (AMI) veac-cms EC2 Instances Then Terminate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/616)
-      - 🟨 [[DevOps] Submit ESECC Request for vaec-cie Staging VPC to Station 500 and 530 New Addresses](https://github.com/department-of-veterans-affairs/checkin-devops/issues/604)
-      - 🟨 [[DevOps] Submit ESECC Request for vaec-cie Dev VPC to Station 500 and 530 New Addresses](https://github.com/department-of-veterans-affairs/checkin-devops/issues/605)
+      - ✔️ 🟨 [[DevOps] Backup (AMI) veac-cms EC2 Instances Then Terminate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/616)
+      - ✔️ 🟨 [[DevOps] Submit ESECC Request for vaec-cie Staging VPC to Station 500 and 530 New Addresses](https://github.com/department-of-veterans-affairs/checkin-devops/issues/604)
+      - ✔️ 🟨 [[DevOps] Submit ESECC Request for vaec-cie Dev VPC to Station 500 and 530 New Addresses](https://github.com/department-of-veterans-affairs/checkin-devops/issues/605)
       - 🟨 [[DevOps] Develop VistA-API System Tests to Verify DB Changes](https://github.com/department-of-veterans-affairs/checkin-devops/issues/603)
       - 🟨 [[DevOps] Figure out how to connect to MAP or onboard or whatever we need to do](https://github.com/department-of-veterans-affairs/checkin-devops/issues/612)
       - ✔️ 🟨 [[DevOps] Discovery into isolated LoROTA environment for Terraform CI/CD.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/509)
@@ -68,9 +69,8 @@
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
     - 🟥 [[Design] Wireframe for when when the selected provider doesn't have their time slots open to EPS/WellHive](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93373)
-    - 🟥 Create and submit CAIA ticket for final content review of wireframe content
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
-    - 🟥 [Create and submit CAIA ticket for final content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93968)
+    - ✔️ 🟥 [Create and submit CAIA ticket for final content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93968)
     - ✔️ 🟥 [Update CC VDSS Research Findings pres for Monday's readout with OCTO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93870)
     - 🟩 [[FE] Time selection inline validation error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91914)
     - 🟩 [[FE] Create flow pattern structure for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)

@@ -45,7 +45,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Rollout Planning
 
 - Desired date range:
-     - 10/1/2024 - 12/31/2024 - This will be a 3-month long experiment
+     - 10/3/2024 - 12/31/2024 - This will be a 3-month long experiment
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - We will use the feature toggle to limit the traffic of users.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -67,17 +67,17 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time:
-     - 10/1/2024-10/3/2024 
+     - 10/3/2024-10/7/2024 
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10%, about 60 authenticated users
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 19 users
+- Metrics at this stage (per your "success criteria"): 17 views of the question page, no errors, one "back" button selection
+- Was any downstream service affected by the change?: NO
+- Types of errors logged: N/A
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? N/A
 
 ### Stage B: 50% of users
 
@@ -86,7 +86,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time:
-     - 10/3/2024-10/7/2024 
+     - 10/7/2024-10/9/2024 
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 50%, about 300 authenticated users
 
@@ -102,7 +102,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 10/7/2024 - 12/31/2024
+- Length of time: 10/9/2024 - 12/31/2024
 - Percentage of Users (and roughly how many users do you expect this to be): 100%, 250 users will select Registration per month (~700 total users for 3 months)
 
 #### Results

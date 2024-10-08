@@ -102,6 +102,15 @@ Note: accrued benefits is launching separately from the rest of the pages, near 
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Survivor compensation > [Accrued Benefits H1]
 - Notes: URL is TBD finalizing H1
 
+**16) DIC SPANISH - Change**
+- URL: va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation-esp/
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Survivor compensation > [DIC H1]
+- Notes: URL is TBD finalizing H1
+
+**17) Survivors Pension SPANISH - Change**
+- URL: va.gov/family-and-caregiver-benefits/survivor-compensation/survivors-pension-esp/
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Survivor compensation > [Survivors Pension H1]
+- Notes: This page is still going through state department review. The URL should be live at launch, but the link will not show up in the left nav, and there will be no toggle on the english page. 
 
 
 ## <a name="nav"></a>Entry points <br>

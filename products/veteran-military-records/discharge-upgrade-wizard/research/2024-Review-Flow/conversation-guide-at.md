@@ -38,9 +38,10 @@
 *CHECK SLACK for real-time feedback and questions from observers*
 
 ## Intro - 5 minutes
-Thanks for joining us today! My name is Jordan and [NOTETAKER NAME] is taking notes. I also
-have a couple other colleagues in the Zoom waiting room who would like to observe and take
-notes. But before we get to them…
+Thanks for joining us today! I have a colleague with us in this session who will be taking notes. [Laura/CAIA person] is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take
+notes. 
+
+But before we get to them…
 
 I work on making technology easier for Veterans to use in order to get information and benefits
 from the VA. Today I'm going to ask you a few questions, and then I'll ask you to do some
@@ -57,7 +58,7 @@ because they can help me advocate for improvements to the process in the future.
 If you need help with an existing claim or issue, we can connect you with someone after this session. 
 
 Before we start, I have a few things that I want to go over with you:
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you
+- **This entire session should take about 2 hours.** I want to be sure not to keep you
 much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong
 answers; we are not testing your knowledge or abilities. I welcome any and all of your
@@ -109,6 +110,7 @@ share with other VA partners if we remove any information that can be used to id
 you?
 
 ## Screen sharing instructions (if needed)
+- [Laura/CAIA person] will provide instructions specific to AT
 - In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...) or Share Screen (on computer, button is green).
      - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
      - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
@@ -117,6 +119,7 @@ you?
 - iPad: Broadcast screen
 
 ## Instructions for finding Zoom chat (if needed)
+- [Laura/CAIA person] will provide instructions specific to AT
 - In the Zoom application on your phone or computer, you'll see a row of buttons at the bottom.
       - Computer: Just to the left of center is a conversation bubble that says Chat.
           - If don't see chat, ASK: Do you see the red "Stop Share" button? If so, put your mouse just above it and see if you see more Zoom controls. Then click on the Chat button in the center of the Zoom controls.
@@ -129,22 +132,25 @@ Before we look at the website, let’s start with a few warm-up questions.
 2. What kind of device are you using today? (Computer / Tablet / Smartphone)
 3. What web browser do you use? (Chrome / Firefox / Edge / Safari / _______)
 4. What assistive technology are you using right now? (screen reader / magnifier _______________________)
+    
     - (If Dolphin screen reader, won't be able to share screen on Zoom)
     - (if no AT) Do you sometimes use assistive technology?
-          - If so, what do you use and when?
-               1. Would you be willing to start using it now in this session?
-               2. (if not, discuss w/Amanda--run session w/o AT, or stop and ask Perigean for a replacement participant)
+         - If so, what do you use and when?
+              - Would you be willing to start using it now in this session?
+              - (if not, discuss w/Amanda--run session w/o AT, or stop and ask Perigean for a replacement participant)
+      
 5. How would you rate your level of experience with using a screen (reader / magnifier)--beginner, intermediate, advanced, or expert?
 6. How long have you been using a screen (reader / magnifier)?
 7. Have you ever shared your screen in Zoom while using a screen (reader / magnifier)? (Yes / No)
-     - If not, we can help you do that.
+     - (If Y) We'll ask you to share your screen later. Please make sure you have sound enabled. 
+     - (If N) No problem, [Laura/CAIA person] can help you do that.
 8. Is there anything else that we can do to support you during this session? (RECORD AND DO!)
 9. I will be sharing a web page link with you during the session. How would you prefer to
-receive the URL? I could dictate it to you, or put it in the Zoom chat. (RECORD)
+receive the URL? I could email, text, dictate it to you, or put it in the Zoom chat. (RECORD)
 10. Do you know how discharge status relates to VA benefits?
 11. Are you familiar with the discharge upgrade process?
      - (If Y) Have you applied for a discharge upgrade in the past?
-          i. (If Y) Can you tell me about your experience? (when, how, results)
+          - (If Y) Can you tell me about your experience? (when, how, results)
      - (If N) No problem. You'll learn about it as we go through this session.
 
 ## User Tasks
@@ -173,7 +179,7 @@ in your impressions of what you see, any questions that you have, and how you fe
 what you're doing.
 
 I'll have you start from a URL that I'm going to [[email/text/dictate/put into the Zoom chat]] for you to use:
-[https://www.va.gov/discharge-upgrade-instructions]
+[https://staging.va.gov/discharge-upgrade-instructions/introduction]
 
 - (If text or email) Could the notetaker please text/email the link?
 - (Might need to hold tablet horizontally so easier to read)
@@ -213,7 +219,7 @@ to this condition.”
 ## Third Task: Review screen
 (RECORD which answers they’ve selected)
 
-Please tell me about your impressions of this page. 
+Please tell me what you think of this page. 
 
 - What does this mean to you?
 - What would you do now?
@@ -228,12 +234,10 @@ Is there a way you could update that information from this page?
 
 - Edit
 - Year discharge
-     - Please tell me about your impressions of this page. 
      - (If alert is noticed) What does this mean to you?
      - What would you do now?
 - Month discharge
 - Continue to review screen
-     - Please tell me about your impressions of this page. 
      - (If alert or updated answers are noticed) What does this mean to you?
      - What would you do now?
 
@@ -247,7 +251,6 @@ Is there a way you could update that information from this page?
 
 - Edit
 - Previous application
-     - Please tell me about what you see here.
      - (If alert is noticed) What does this mean to you?
      - What would you do now?
 - Previous application year
@@ -266,7 +269,6 @@ Is there a way you could update that information from this page?
 - Failure to Exhaust
      - Can select any option 
 - Continue to review screen
-     - Please tell me about what you see here.
      - (If alert or updated answers are noticed) What does this mean to you?
      - What would you do now?
 
@@ -281,20 +283,19 @@ Is there a way you could update that information from this page?
 
 - Edit
 - Branch of service
-     - Please tell me about your impressions of this page. 
      - (If alert is noticed) What does this mean to you?
      - What would you do now?
 - Continue to review screen
-     - Please tell me about your impressions of this page. 
      - (If alert or updated answers are noticed) What does this mean to you?
      - What would you do now?
 
 After you review your answers, could you tell me what you would do next?
+
 Could you please select "Continue"?
 
 ## Fifth Task: Results screen
 
-Please tell me about your impressions of this page. 
+Please tell me what you think of this page.
 
 1. Why do you think you’re seeing this page?
 2. What does this page mean to you?
@@ -336,3 +337,6 @@ strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Re
 We recommend you plan a graceful exit strategy that you will feel comfortable using during a session. Your goal is to simply wrap up the session without any further incident or escalation. It is important not to blame the participant, since it could increase any distress or trauma they are experiencing. If you are exiting for a reason on your side, it’s best not to share any personal details, as it may create additional stress for all. Examples of exit strategies that have worked include:
 - Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 - Blame technology: I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+
+## Approvals
+- Amanda Klausmeier (VA UX lead) on October 8, 2024

@@ -172,10 +172,10 @@ Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
 Oct 22, 2023 | 1-6 pm 
 Oct 23, 2023 | 2-6 pm
-Oct 25, 2023 | 12-6 pm
+Oct 25, 2023 | 12-5 pm
 Oct 28, 2023 | 12-6 pm
-Oct 30, 2023 | 1-6 pm
-Oct 31, 2023 | 12-6 pm
+Oct 30, 2023 | 2-6 pm
+Oct 31, 2023 | 12-4:30 pm
 
 ## Team Roles
 Please list the people who will be serving in each role.
@@ -189,4 +189,4 @@ Please list the people who will be serving in each role.
 - Observers: TBD
 
 ## Approvals
-- Amanda Klausmeier (Sitewide UX/UI Lead) on September 25, 2024
+- Amanda Klausmeier (VA UX lead) on October 8, 2024

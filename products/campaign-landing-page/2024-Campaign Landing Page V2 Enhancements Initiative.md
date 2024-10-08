@@ -14,7 +14,7 @@ The opportunity is to validate or disprove effectivness of the MVP Campaign Land
 ## Problem
 > *Describe the challenge / pain point you seek to address* 
 
-The CLP template does not meeting all the original KPIs - especially:
+The CLP template does not meet all the original KPIs - especially:
 - the capabilities of the CLP template (the various content components) meet the minimum needs of the business stakeholders
 - the CMS functionality of the template builder is bug-free and user/author-friendly
 
@@ -32,7 +32,7 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 - the CLP is driving users to benefit pages or tools - _true_, based on data available in DOMO for 7 CLPs
   - caveat: data is not available for all CLPs and some data is aggregated as a link, rather than specific to the link
   - [data is available here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/campaign-landing-page/analytics.md)
-- the CLP is forces a primary CTA (e.g., campaign KPI that's other than 'page visits' which is what most VA engagement pages/subdomains measure) - _true_
+- the CLP forces a primary CTA (e.g., campaign KPI that's other than 'page visits' which is what most VA engagement pages/subdomains measure) - _true_
 - the CLP is instrumented so that every interaction on the page is tracked whether it is the optional secondary CTA, or downloads, video plays, or clicks to more info/deeper content. -_true_
 
 ## Discovery to inform iteration 
@@ -107,15 +107,8 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 - what is the definition of a campaign?
 - could we make these auto-expire?
 
-### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+## Scope
 
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
---- 
 
 ## Launch Planning
 
