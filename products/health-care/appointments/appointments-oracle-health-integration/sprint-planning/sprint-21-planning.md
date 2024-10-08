@@ -24,17 +24,17 @@ Sprint 21: 10/8/24 - 10/21/24
 ## 📋 Previous Sprint Summary:
 In Sprint 20, the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  * Redirect vets api clinics endpoint to send requests to VetsAPI Patient Gateway
+  * Redirected the VetsAPI clinics endpoint to send requests to the VetsAPI Patient Gateway.
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-  * VetsAPI Patient Gateway added named exceptions for handled scenarios to improve the quality of the summary information provided by grafana. 
-  * Clinical Encounter Service was improved to allow rules engine to run on return fetch requests. 
-  * The previous way of determining wheather a site is a Vista Site of an Oracle Health site was deprecated. VetsAPI Patient Gateway was updated so now site EHR checks use mobile-facility-service for this information.
+   * Added named exceptions in VetsAPI Patient Gateway for handled scenarios, enhancing the quality of summary information provided by Grafana.
+   * Improved Clinical Encounter Service to enable the rules engine to operate on return fetch requests.
+   * Deprecated the previous method for determining whether a site is a VistA site or an Oracle Health site; updated VetsAPI Patient Gateway to utilize the mobile-facility-service for this information.
 * #### Backend support for Slot Search for Appointment Requests
-*   * VetsAPI Patient Gateway addressed tech debt in resource package and improved test coverage.  
+   * Addressed technical debt in the resource package of VetsAPI Patient Gateway and improved test coverage.
 * #### Backend support for Oracle Health to enable Appointment Cancellation
-*   * VetsAPI Patient Gateway addedd mapping to use the value returned by Cerner Fhir Adapter service type. 
+   * Updated VetsAPI Patient Gateway to map and utilize the value returned by the Cerner FHIR Adapter service type.
 * #### Testing/Admin/Operational Support
-   * Documentation was improved to included additional information for local set up and testing. 
+   * Enhanced documentation to include additional information for local setup and testing. 
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
