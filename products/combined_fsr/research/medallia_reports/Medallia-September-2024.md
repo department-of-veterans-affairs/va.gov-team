@@ -1,3 +1,143 @@
+# Debt Portal & eFSR Medallia Report: September 2024
+
+# Debt Portal
+
+*Summary and opening:*
+
+Similar recurring issues are being echoed by Veterans filling out the Medallia feedback form month-to-month, in the past year, since October 2023.
+
+Since May 2024, the VODA team has been working with VBA and VHA SME's and stakeholders to create a solution to address the problems voiced by Veterans.
+
+The top issues described by Veterans that recur every month are mainly 1) issues with findability and navigation and 2) issues with payments made by Veterans not posting to the debt portal
+
+The new solution created by the team will address these difficulties for  both  the VBA path and the VHA path.
+
+## Overall Feedback
+
+[ 92 ] Veterans left qualitative and/or quantitative feedback on the debt portal pages in September 2024.
+
+## CSAT Scores
+
+Veterans can leave quantitative feedback on their experience with VA.gov on a scale from 1 to 5, the ordinal data ranges from:
+
+[not at all satisfied = 1]
+
+[dissatisfied = 2]
+
+[neither satisfied or dissatisfied = 3]
+
+[satisfied = 4]
+
+[very satisfied = 5]
+
+
+> **VA.gov Experience**
+
+|AVERAGE  |  COUNT| MODE | 
+|--|--|--
+| 3.48 |  31| 5
+
+> **VA.gov Understanding**
+
+|AVERAGE  |  COUNT| MODE | 
+|--|--|--
+| 3.58 |  29| 5
+
+> **General VA Trust**
+
+|AVERAGE  |  COUNT| MODE | 
+|--|--|--
+| 3.16 |  30| 3
+
+> **Trust in VA Commitment to Veterans**
+
+|AVERAGE  |  COUNT| MODE | 
+|--|--|--
+| 3.34 |  29| 5
+
+
+> **What is your overall satisfaction with this site?**
+
+|AVERAGE  |  COUNT| MODE | 
+|--|--|--
+| 2.07 |  27| 1
+
+
+## Qualitative Findings
+
+### Were you able to do your task today?
+
+Yes = 7
+
+No = 37
+
+## Important Findings:
+
+**VA.gov Experience: Why did you select that rating?**
+
+- Character limit confusion on the account number (an issue we are aware of and working to resolve)
+
+> The characters for entitled member (7) and the input of the information on the pay.gov (6 characters) have a mis-matched.  need to get this fixed.
+
+* Several Veterans left positive feedback.
+
+Examples:
+
+> most of this i can understand easy enough.
+
+> Easy to use.
+
+> I had no problem logging in or finding what I needed
+
+> I found what I wanted, quickly.
+
+> User friendly
+
+> found the site easy to navigate to complete my transaction
+
+* At least 2 Veterans said the information on the website is inconsistent with information they receive from customer support or communications from VA:
+
+> Because information on the website is inconsistent with letters or information that customer support personnel may have.
+
+> The information from my email link is different than what is stated when I log into my account. That's confusing.
+
+* One Veteran says that while waiting for an itemized breakdown for their overpayment debt, their overpayment debt was escalated to the Department of the Treasury:
+
+> I have been trying to get an itemized breakdown for my overpayment debt for a year now to check the numbers for accuracy. I have been stone walled and delayed and still do not have an answer. The last few times I have called I have asked if I should pay the debt while I am awaiting an response as to the days of overpayment. I was told that the case would not be sent to debt collection or the treasury and would not incur additional interest while I awaited an answer. The debt has now been referred to the treasury and has more than doubled from the best estimate I have. I have paid the debt today and will be seeking restitution for this overcharge while I await the originally requested breakdown of debts. I have lost all trust for the VA debt management center.
+
+* A Veteran describes how their co-pay increased, which they find out on the debt portal:
+
+> Because I recently paid a Co-Payment amount and then today I received a bill in the mail stating that I owe $73.52 still and that it is being handled by a collections company, I go on line to try to figure this out and the va.gov/manage-va-debt/summary/copay-balances says the amount owe is $459.34.  The VA is so screwed up right now. I recently had a travel claim rejected and then when I brought it to their attention is was paid in full, with an apology. Why can't the VA get people who can do their jobs correctly? Not everything is bad, I like the folks I work directly with and the medical is decent. That's why I rated "Somewhat bad."
+
+* Issues with payments posting late:
+
+> The record of copays is significantly late in showing posting of payments made.
+
+> Items and Information not updated regularly, and system is slow.
+
+* Silent error report:
+
+/manage-va-debt/summary/debt-balances/details/30403
+
+> links that just go in circles
+
+> New system has a lot of starts and stops.. "please wait while we load.." also jumps around a lot to empty pages or "authenticating.. please wait" Flow of app from one page to another is not smooth.
+
+* A Veteran says their dependents change was unsuccessful and resulted in an overpayment:
+
+> I tried several times to get my ex wife off of my dependents list and it never took. Finally when it did take effect my three sons were also removed even though they should have remained. Why is it that I have to provide proof numerous times of my divorce? Why is it that my kids were removed as dependents when they are still my dependents? The ONLY person that should have been removed is my ex wife. The web site is flawed and frequently does not work. Now you claim that I owe you money?! This is garbage. I want a representative, but when I try to reach out I get no responses. Y'all are pissing me off.
+
+* Having to enter the payment form every time:
+
+> It's frustrating having to redo the payment form every time I want to pay my bill.
+
+* Difficulty for seniors:
+
+> to hard to navigate (too many steps) especially for seniors.
+
+* A Veteran says it would be helpful to speak with a financial advisor:
+
+> I'm looking to talk to somebody about financial decisions. Whether I should do consolidation or bankruptcy or if they have other options. You talk hardship it's only about owing you money? Loans are only about homes but you say in one area and then you have the same thing under homes. I just want to sit with somebody and ask them what they think by my situation it would be best if I get a consolidation loan and how to get one in my situation or go into bankruptcy. All I'm seeing is about houses or people coming back from war in transition I don't see a generic or general way to speak to a financial advisor
 
 
 # eFSR
