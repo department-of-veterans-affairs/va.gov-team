@@ -6,8 +6,8 @@ This page contains quantitative data intended to measure the In-App reveiw Code 
 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|IOS|4083|2403 (58.85% Increase)|||
-|Andriod|1191.6|1830 (53.65% Incresed)|||
+|IOS|4083|6486 (58.85% Increase)|8051 (97.66% Increase)||
+|Andriod|1191.6|1830 (53.65% Incresed)|2059 (72.87% Increase)||
 
 
 
