@@ -1,4 +1,4 @@
-# 2024-09 UAT Forms Status on My VA Research Plan
+# 2024-10 UAT Forms Status on My VA Research Plan
 
 ## Background
 
@@ -11,7 +11,7 @@ Based on those conversations, there were two possible paths we could take moving
 1. Starting a "rolling research recruitment" with Perigean in which we actively recruit participants and get them in sessions quickly. Perigean has recommended alloting multiple weeks for this in order to ensure we get enough participants.
 
   - If we took this approach, we are likely looking at a delayed rollout to Production, with uncertain ability to really test both of the standard statuses that can appear for users (submission in progress, received).
-  - Shannon Housel had recommended that we plan on hour long sessions just to account for technical difficulties, while cautioning that users may unintentionally report in screeners that they have done one of the seven forms when they have not.
+  - Shannon Housel had recommended that we plan on hour long sessions just to account for technical difficulties, while cautioning that users may unintentionally report in screeners that they have done one of the eight forms when they have not.
 
 2. Relying instead on QA in Staging, as well as attempting to get assistance from internal OCTO users of VA.gov with UAT using their own personal accounts.
 
@@ -73,20 +73,19 @@ Any Veteran who is, or has very recently, submitted one of the seven forms that 
 
 When will the thing you are testing be finalized? 
 
-- All engineering work will be completed after September 10, 2024, specific time TBD.
-
+- All engineering work will be completed after September 10, 2024, testing will be completed by October 12.
 
 ### Research sessions
 What dates do you plan to do research? 
 
-- After September 13, 2024. 
+- The week of October 10, 2024. 
 
 ### Length of sessions
-Sessions will be 30 minutes, but tasks are expected to take less time than that.
+Sessions will be 45 minutes, but tasks are expected to take less time than that.
 
 ### Availability
 
-TBD
+The week of October 10, 2024. 
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
@@ -95,6 +94,6 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development: Matt Marino
 - Participant recruiting: Matt Marino
 - Project point of contact: Matt Marino
-- Participant(s) for pilot test: Contact info tbd (USDS participants)
-- Note-takers: TBD 
-- Observers: TBD
+- Participant(s): Participants are volunteers from USDS
+- Note-takers: Jeana Clark
+- Observers: AJ Jakabcin, Jeana Clark
