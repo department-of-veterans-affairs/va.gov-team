@@ -28,6 +28,8 @@ WIP
 
 ---
 
+### Use cases
+
 **Show link**
 - For users who have VA health care.
 
