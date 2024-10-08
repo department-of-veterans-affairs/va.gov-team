@@ -139,19 +139,26 @@ has a working microphone. What kind of device will you be using? (RECORD)
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins
-and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+Before recruitment starts, we would like to request a kickoff call with Perigean to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.
+
+Jordan is available for a kickoff call during any of these times:
+
+- Fri Oct 11, 1 - 5 pm ET
+- Mon Oct 14, 1 - 5 pm ET
+- Tue Oct 15, 12 - 2 pm ET
+
+Please invite Jordan (jordan.wood@civicactions.com), Dave (dave.pickett@civicactions.com), and Amanda (amanda.klausmeier@va.gov) to the kickoff call.
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot
 session.
 
 **Pilot 1**
 - Pilot participant email:
-- Date and time of pilot session: Between Oct 7-15
+- Date and time of pilot session: Between Oct 14-18
 
 **Pilot 2 (with AT user)**
 - Pilot participant email:
-- Date and time of pilot session: Between Oct 7-15
+- Date and time of pilot session: Between Oct 14-18
 
 ### Research sessions
 - Planned dates of research: Oct 22 - Oct 31, 2024
