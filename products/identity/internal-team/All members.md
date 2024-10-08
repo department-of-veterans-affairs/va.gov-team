@@ -35,7 +35,7 @@ As MHV credentials are set to be retired in January 2025, we are exploring how t
 - Parker Baranowski - Program Manager
 - Joe Niquette - Security Engineer, Lead Engineer
 
-#### Platform-Infrastructure
+#### Identity Platform-Infrastructure
 - Lainey Trahan - Product Manager
 - Trevor Bosaw - Backend Engineer, Technical Lead
 - John Bramley - Backend Engineer
