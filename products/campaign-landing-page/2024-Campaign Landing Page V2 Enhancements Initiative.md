@@ -107,6 +107,10 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 - what is the definition of a campaign?
 - could we make these auto-expire?
 
+### Artifacts
+- [EPIC] Campaign Landing Page V2 Enhancements [#19447](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/19447)
+
+
 ## Scope
 
 
