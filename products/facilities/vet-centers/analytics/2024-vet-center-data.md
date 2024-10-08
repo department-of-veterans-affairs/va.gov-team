@@ -14,19 +14,19 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 | Metric| December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 |September 2024|October 2024	|November 2024	|December 2024	|
 |---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
-| Number of editors | 539 | 539 | 554 | 555| 557 | 559 | 559
-| % which have logged in in the last 30 days | 17 | 26 |18 | 11 | 11 | 16
-| % which have never logged in | 8 | 8| 10 | 9 | 9 | 9
+| Number of editors | 539 | 539 | 554 | 555| 557 | 559 | 559 |-|-| 554
+| % which have logged in in the last 30 days | 17 | 26 |18 | 11 | 11 | 16 | - |- | 14 |
+| % which have never logged in | 8 | 8| 10 | 9 | 9 | 9 | - |- | 8 |
 
 
 ## Vet Center facility stats
 | Metric| December 2023 | January 2024 | February 2024 | March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 |September 2024|October 2024	|November 2024	|December 2024	|
 |---|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:| :---:|:---:|:---:|:---:|
-| Number of Vet Centers | 300 | 300 | 300 | 302 | 302 | 304 | | | 302 ||||||
-| Number of Outstations |20 | 20| 21 | 22 | 22 | 22 | 22 | 23 | 24||||||
-| Number of Mobile Vet Centers| 83|83 |83 | 83 | 83 | 83 | 83 | 83 | 83||||||
-| Number of CAPs | 519 |525 |528 | 534 | 537 | 537 | | | 546||||||
-| Number of Vet Center services| 3,741 |3,742 |3,742 | 3,746 | 3,749 | 3,749 | | | 3,756||||||
+| Number of Vet Centers | 300 | 300 | 300 | 302 | 302 | 304 |- |- | 302 | 302|||||
+| Number of Outstations |20 | 20| 21 | 22 | 22 | 22 | 22 | 23 | 24| 24 |||||
+| Number of Mobile Vet Centers| 83|83 |83 | 83 | 83 | 83 | 83 | 83 | 83| 83|||||
+| Number of CAPs | 519 |525 |528 | 534 | 537 | 537 |- |- | 546| 547|||||
+| Number of Vet Center services| 3,741 |3,742 |3,742 | 3,746 | 3,749 | 3,749 | -|- | 3,756| 3,767|||||
 
 ## Users
 
