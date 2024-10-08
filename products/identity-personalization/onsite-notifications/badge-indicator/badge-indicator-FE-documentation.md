@@ -25,6 +25,9 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 ### Error state - API-related failure:
 WIP
 
+
+---
+
 **Show link**
 - For users who have VA health care.
 
