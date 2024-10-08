@@ -9,6 +9,10 @@ jobs:
   do-sync:
     name: Create Completed Ticket
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      projects: write
+      
     if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && github.event.label.name == 'PO-Sync-approved'}}
     
     steps:
