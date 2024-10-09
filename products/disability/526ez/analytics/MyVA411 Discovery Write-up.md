@@ -4,6 +4,12 @@ Disability Benefits Team 1, October 2024
 
 Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
+1. [Background](#background) 
+2. [Contact Center Data- Use Case](#Contact-Center-Data-Use-Case)
+3. [Approaches](#approaches)
+4. [Recommended Approach for TE Monitoring](#Recommended-Approach-for-TE-Monitoring)
+5. [Relevant Links] (#relevant-links)
+
 ## Background
 
 This document will outline three approaches that UX can take to efficiently and effectively analyze MyVA411, Veteran support data originating from VEO 411 Contact Centers.
@@ -33,7 +39,7 @@ While Medallia can provide invaluable insight into how Veterans are completing t
 
 ## Contact Center Data - Use Case
 
-MyVA411 data is valuable for supporting quarterly health checks and release monitoring. Read below for greater detail into benefits and limitations of utilizing the support data.
+Read below for greater detail into benefits and limitations of utilizing the support data.
 
 ### Benefits
 
@@ -58,7 +64,6 @@ MyVA411 data is valuable for supporting quarterly health checks and release moni
     
 -   Will skew negative– many Veterans see calling Contact Center as a last resort
     
-
 ## Approaches
 
 ### Approach 1- Manual Coding
@@ -67,8 +72,8 @@ Take a small slice of the data so # of entries becomes manageable to be manually
 
 This could be randomly selecting a percentage of the overall data set, or could include all entries that contain certain key terms. Consider ignoring Salesforce categorization; labels seem inconsistent and could be cumbersome to vet manually.
 
-Benefits: Least rigid approach, allows for more nuanced pattern identification, draws on existing competencies of the UX team.  
-Limitations: Manual, most time-intensive approach; can’t review as much data as with more automated processes.
+**Benefits:** Least rigid approach, allows for more nuanced pattern identification, draws on existing competencies of the UX team.  
+**Limitations:** Manual, most time-intensive approach; can’t review as much data as with more automated processes.
 
 ### Approach 2- Simple Scripts for Partial Automation.
 
@@ -86,9 +91,9 @@ Work with Engineers to create a more automated process for finding patterns and 
 
   
 
-Benefits: Faster than a fully manual approach, allows us to look at the data from more angles (especially if using NLP)
+**Benefits:** Faster than a fully manual approach, allows us to look at the data from more angles (especially if using NLP)
 
-Limitations: Requires more capacity to get started, might not be prioritized work for engineering when the support is needed.
+**Limitations:** Requires more capacity to get started, might not be prioritized work for engineering when the support is needed.
 
 ### Approach 3- New Tooling
 
@@ -105,11 +110,11 @@ Explore data analytics and AI tooling that is being made available to OCTO.
 3.  Heather Real mentioned two AI pilot programs going on right now; awaiting information.
     
 
-Benefits: Save us engineering time; seems accessible for UX to work with tools independently.
+**Benefits:** Save us engineering time; seems accessible for UX to work with tools independently.
 
-Trade-offs: Tooling would require more research capacity to operationalize. As tooling becomes more common and problems are ironed out, we could explore with less risk down the road. Concerns about how safe it is to include PII.
+**Trade-offs:** Tooling would require more research capacity to operationalize. As tooling becomes more common and problems are ironed out, we could explore with less risk down the road. Concerns about how safe it is to include PII.
 
-# Recommended Approach future MyVA411 data pulls (next: TE Monitoring 1.0 @ 100%)
+# Recommended Approach for TE Monitoring
 We know that MyVA411 offers a high volume of data, but the value of the data for monitoring a digital launch still remains unseen. In order to keep monitoring lightweight in the short term, we will begin with a hybrid approach of 1 & 2, leaning into Steven's background with NLP. This will keep engineers focused on their work but allow time for a conversation with Megan Hicks about Streamlit. If Approach 2 serves difficult due to PII and machine access, we will fall back to Approach 1. 
 
 # Relevant Links
