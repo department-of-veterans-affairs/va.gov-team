@@ -26,6 +26,8 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 **Appointments displayed**
 
 Display future booked appointments in the upcoming list: 
+- Display appointments when they are created
+     - `vaos service` updates the appointment list in real time. On the FE, we call the appointment list endpoint to pull the latest list after appointment creation.
 - Display telehealth the appointments in the upcoming list for 240 mins / 4hours after start time 
 - Display non-telehealth appointments in the upcoming tab for 60 mins after the start time.
     - Once these timeframes have passed, display these appointments in the past list
