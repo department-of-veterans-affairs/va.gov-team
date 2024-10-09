@@ -2,7 +2,7 @@
 
 # Debt Portal
 
-*Summary and opening:*
+## Summary and opening:
 
 Similar recurring issues have been echoed by Veterans filling out the Medallia feedback form month-to-month, in the past year, since October 2023.
 
@@ -10,19 +10,23 @@ Since May 2024, the VODA team has been working with VBA and VHA SME's and stakeh
 
 The top issues described by Veterans that recur every month are mainly 
 
-1) issues with findability and navigation 
+1) Issues with findability and navigation 
 
-2) issues with payments made by Veterans not posting to the debt portal
+2) Issues with payments made by Veterans not posting to the debt portal
 
-The new solution created by the team will address these difficulties for  both  the VBA path and the VHA path.
+3) Issues of life hardship and financial hardship
 
-The VBA payment history initiative was tested in a usability and comprehension study with Veterans in July 2024 with positive results. 
+The new solution created by the team will address the difficulties pertaining to issues #1 and #2 for  both the VBA path and the VHA path.
+
+- The VBA payment history initiative was tested in a usability and comprehension study with Veterans in July 2024 with positive results. 
 Development started in September and the first of iterative releases happened in September. 
 
-The VHA payment history initiative is currently being tested in a usability and comprehension study with Veterans and will be reported on later this month. 
+- The VHA payment history initiative is currently being tested in a usability and comprehension study with Veterans and will be reported on later this month. 
 If it tests positively as well, development can begin shortly after. 
 
-We expect that the solutions offered by the changes we are making to the VA debt portal will result in significant enhancements to findability, navigation, and understanding of the debt portal and the issues we are aware of today. 
+We expect that the solutions offered by the changes we are making to the VA debt portal including the additions of timely payment transactions reflected in the portal, copay bill description details surfaced sooner and more prominently in the portal, the break out of separate pages for resolution options and debt/copay bill details, will result in significant enhancements to findability, navigation, and understanding of Veteran VA copay bills and VA debt and the issues we are aware of today. 
+
+The other piece that will be important to tackle will be the service design component to assist Veterans with life hardships or special needs better navigate the resolution process so they don't face further financial hardship related to VA debts and copay bills. 
 
 ## Overall Feedback
 
