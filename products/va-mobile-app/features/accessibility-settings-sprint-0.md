@@ -12,6 +12,8 @@
 
 #### Desired Outcomes ####
 
+Doing this work would give each Veteran more control over their app experience. Similarly to how we've given Veterans the option to personalize which push notifications they receive, it would allow them more control over their app. It could also open the door to expand the app with additional features such as theming, font sizing, etc. and provide a place for those additional features to live.
+
 * Honor a user's device settings by default, but also allow the user to override these default settings with app-specific settings within the mobile app.
 * For MVP, I would include the following settings:
    * Haptic Feedback (on/off)
@@ -29,7 +31,15 @@
    *  To help mitigate this risk, we should do some research to determine which settings we may be able to implement a control for in the app.
 
 ### Business Goals
-* Doing this work would give each Veteran more control over their app experience. Similarly to how we've given Veterans the option to personalize which push notifications they receive, it would allow them more control over their app. It could also open the door to expand the app with additional features such as theming, font sizing, etc. and provide a place for those additional features to live.
+* **How would this benefit VA?**
+   * Our hope is that by allowing Veterans more control over their in-app experience at a granular level, it will result in Veterans feeling more connected to the app itself and by extension, help them feel more connected to VA as a whole.
+   * Allowing them to easily adjust their accessibility settings within the app also keeps them in the app (rather than exiting to adjust their device settings) and opens the door to introducing these settings into a "first run" of the app during the initial onboarding.
+   * Introducing this feature will also give us a place within the app to expand these settings in the future. One of these possibilities is to introduce additional themes for Veterans with visual disabilities (i.e. colorblind or high contrast themes), which will ultimately help to increase the overall accessibility of the mobile app.
+* **Which OCTO and Program goals does this tie to?**
+   * Improving Veteran Satisfaction
+      * _This assumes that additional personalization / customization features within the mobile app would be something that Veterans want._
+   * Improving Veteran Retention
+      * _Providing additional personalization / customization will hopefully reinforce or create that sense of ownership over the app and this being "their space"._
 
 ### Stakeholders
 
