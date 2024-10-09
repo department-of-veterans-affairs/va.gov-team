@@ -56,6 +56,11 @@ New proposed user flow --> When we click “edit,” we want to return to that s
     this.goToPath(`/1/ezr/${path}`);
   }
 
+- In the `return`, inside the `SchemaForm` component [line 245](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms-system/src/js/review/ReviewCollapsibleChapter.jsx#L245), update the `onEdit` prop:
+   ```javascript
+   onEdit={() => this.handleEdit(page.path)}
+
+
 ## Perceived Issues with This New Functionality
 
 1) If the Edit button takes the user back to that section’s original page, the user will be forced to click through the entire form again just to return to the Review page. Previously filled-out information will still be there though, which is at least good.
