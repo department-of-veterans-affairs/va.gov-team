@@ -99,14 +99,10 @@ Work with Engineers to create a more automated process for finding patterns and 
 Explore data analytics and AI tooling that is being made available to OCTO.
 
 1.  Megan Hicks is piloting Streamlit, an open-source Python framework that simplifies data analysis and offers many customizable options through a single page application
+    - Introduces a tool to the brute forcing, adds a third party. Web-based with scripts? We need more information.
+    - Scheduling time to meet with Megan, Aurora, Jared, and Steven to discuss the tool. Any additional conversation would need to be ticketed again.
     
-
-1.  Introduces a tool to the brute forcing, adds a third party. Web-based with scripts? We need more information.
-    
-2.  Scheduling time to meet with Megan, Aurora, Jared, and Steven to discuss the tool. Any additional conversation would need to be ticketed again.
-    
-
-3.  Heather Real mentioned two AI pilot programs going on right now; awaiting information.
+2.  Heather Real mentioned two AI pilot programs going on right now; awaiting information.
     
 
 **Benefits:** Save us engineering time; seems accessible for UX to work with tools independently.
