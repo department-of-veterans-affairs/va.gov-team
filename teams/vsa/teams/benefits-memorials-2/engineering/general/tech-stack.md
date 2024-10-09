@@ -119,9 +119,9 @@ Document the frameworks used to build and manage back-end services.
 Include details of databases used (SQL/NoSQL) and related tools.
 
 -   **Database**:
--   SQL: PostGIS (PostgreSQL): We use the `form5655_submissions` table in the vets-api DB
--   ORM: ActiveRecord: We use this Ruby-on-Rails ORM when interfacing with the vets-api DB 
--   We also use Redis stores for caching purposes (debatable if Redis double be considered a DB)
+-   SQL: PostGIS (PostgreSQL) - we use the `form5655_submissions` table in the vets-api DB
+-   ORM: ActiveRecord - we use this Ruby-on-Rails ORM when interfacing with the vets-api DB 
+-   We also use Redis stores for caching purposes (debatable if Redis should be considered a DB)
 
 ### APIs  
 List any APIs that the back-end exposes or consumes.
