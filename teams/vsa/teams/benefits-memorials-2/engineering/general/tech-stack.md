@@ -32,8 +32,8 @@ This document outlines the technologies and tools used in both the **front-end**
 ## Overview
 Provide a high-level summary of the overall architecture of the application, including which platforms (e.g., web, mobile, desktop) the debt portal application supports and what the major components are.
 
--   **Application Name**: `<Your App Name>`
--   **Platform**: `<Web / Mobile / Desktop>`
+-   **Application Name**: `Debt and bills`
+-   **Platform**: `Web`
 -   **Overview Diagram**: *(Add architecture diagram here)*
 
 ## Front-End
@@ -127,9 +127,8 @@ Include details of databases used (SQL/NoSQL) and related tools.
 List any APIs that the back-end exposes or consumes.
 
 -   **API Specification**:
--   `REST`
+-   `REST`: All debts APIs we maintain are REST APIs 
 -   `GraphQL`
--   `gRPC`
 
 -   **Documentation Tools**:
 -   `Swagger`
