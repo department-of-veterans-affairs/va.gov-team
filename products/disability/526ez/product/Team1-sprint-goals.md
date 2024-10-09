@@ -4,7 +4,7 @@
 10/9 - 10/22
 
 **Toxic Exposure**
-- 1.0 100% rollout
+- 1.0 50% rollout
 - Reduce Veteran burden and improve data quality by switching to va-data month year option (stretch goal)
 
 **Submission Experience**
