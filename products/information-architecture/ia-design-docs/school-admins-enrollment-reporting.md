@@ -14,9 +14,9 @@
 
 [**IA Review Ticket: 85/15 Rule reporting form 22-10215:** ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92142)
 
-[**CAIA Intake Ticket: 35% exemption request from 85/15 reporting requirement form 22-10216**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92587) 
+[**CAIA Intake Ticket: 35% exemption request from 85/15 reporting requirement, form 22-10216**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92587) 
 
-[**IA Review Ticket: 35% exepmtion to 85/15 Rule reporting form 22-10216:** ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92143)
+[**IA Review Ticket: 35% exepmtion request from 85/15 Rule reporting requirement, form 22-10216:** ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92143)
 
 *Note: CAIA can only offer detailed support (e.g. URLs, breadcrumbs, content recommendations, etc.) for pages that are veteran-facing, due to capacity constraints. So the recommendations here are brief, and the URL options are more in the spirit of suggestions.*
 
@@ -39,7 +39,7 @@
 
 Refer to the design system's guidance for [page titles and section titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles) and [URLs](https://design.va.gov/components/url-standards/) when finalizing the form pages' H1s and URLs.
 
-Some suggestions:
+**Some suggestions:**
 
 **85/15 form**
 - **H1:** Report 85/15 Rule enrollment ratio
