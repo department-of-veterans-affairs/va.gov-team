@@ -1,7 +1,8 @@
 # Approaches to MyVA411 Data Analysis
 
-Disability Benefits Team 1
-[Evelyn Hilbrich Davis] (evelyn@cityfriends.tech)
+Disability Benefits Team 1, October 2024
+
+Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
 ## Background
 
@@ -11,7 +12,6 @@ Historically, UX has relied on Medallia survey data for 526ez health checks and 
 
 While Medallia can provide invaluable insight into how Veterans are completing the form in real time, feedback is limited and is not easily accessible to AT users. One of the surveys, the Intercept, is not optimized, as OCTO is currently working to improve it across products.
 
-  
 
 **All approaches outlined are:**
 
@@ -109,14 +109,12 @@ Benefits: Save us engineering time; seems accessible for UX to work with tools i
 
 Trade-offs: Tooling would require more research capacity to operationalize. As tooling becomes more common and problems are ironed out, we could explore with less risk down the road. Concerns about how safe it is to include PII.
 
+# Recommended Approach future MyVA411 data pulls (next: TE Monitoring 1.0 @ 100%)
+We know that MyVA411 offers a high volume of data, but the value of the data for monitoring a digital launch still remains unseen. In order to keep monitoring lightweight in the short term, we will begin with a hybrid approach of 1 & 2, leaning into Steven's background with NLP. This will keep engineers focused on their work but allow time for a conversation with Megan Hicks about Streamlit. If Approach 2 serves difficult due to PII and machine access, we will fall back to Approach 1. 
+
 # Relevant Links
-
 [Processing and Utilizing Veteran Support Data](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data)
-
 [How to use MyVA411 data in Domo](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/how-to-use-contact-center-data-in-domo)
-
-  
-
 [Discovery Notes document](https://docs.google.com/document/d/1vOy9Yyemm2AeMSC9NQBukWoaz67RNWt5pWkqSZ2OWpI/edit)
 
   
