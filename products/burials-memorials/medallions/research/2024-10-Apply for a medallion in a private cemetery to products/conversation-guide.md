@@ -44,7 +44,7 @@ Before we start, I have a few things that I want to go over with you:
 - **Okay, now I'm going to ask you to share your screen in Zoom** so that we can look at the prototype together and then we'll begin.
    - Zoom screensharing on desktop: Locate green Share Screen button on the bottom tool pane.
    - Zoom screensharing on mobile: Locate Share button in bottom tool panel (it's scrollable and they may need to scroll to see button if off screen), then hit "Start broadcast".
-   - If they have trouble locating the chat or with sharing, talk them through finding the chat window to locate the prototype link and the Zoom screen sharing features. Zoom share screen directions
+   - If they have trouble locating the chat or with sharing, talk them through finding the chat window to locate the prototype link and the Zoom screen sharing features.
    - Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording.
    - Backup plan if they cannot figure out how to share screen:
       - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and
