@@ -14,7 +14,8 @@ jobs:
       contents: read
       issues: write
       pull-requests: write
-      project: write
+      repository-projects: write
+      organization-projects: write
 
     if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && github.event.label.name == 'PO-Sync-approved'}}
     
