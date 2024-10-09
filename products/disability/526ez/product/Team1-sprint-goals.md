@@ -1,4 +1,17 @@
-# Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
+# Sprint goals for Benefits Disability Experience Team 1 (DBEX-TREX)
+
+## Sprint 8
+10/9 - 10/22
+
+**Toxic Exposure**
+- 1.0 100% rollout
+
+**Submission Experience**
+- New Confirmation Page and Email Touchpoints annotations for Engineering
+
+**Zero Silent Failures**
+- Enhance DD Metrics & 4142 remediation discovery
+
 
 ## Sprint 7
 9/25 - 10/8
