@@ -69,8 +69,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 3.	Would this be something you’d be interested in applying for? 
 - Yes or no, ask for the user to elaborate further. 
 ## First Task: [Cemetery applicant] - X minutes
-- Step 1: You are Alex Wilson, a cemetery official working for Abraham Lincoln Cemetery. You want a medallion sent to you to place on a deceased Veteran’s headstone. You will complete the application from start to finish for the medallion. 
-- Step 2: You will review and sign a second form after, confirming the information is correct.
+- Step 1: You are Alex Wilson, a funeral home employee working for Abraham Lincoln Cemetery. You want a medallion sent to you to place on a deceased Veteran’s headstone. You will complete the application from start to finish for the medallion. 
+- Step 2: After, you are Sammy Beagles, a cemetery official who will review and sign a second form confirming information is correct.
 ### Things to watch for:
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
