@@ -10,4 +10,4 @@ assignees: ''
 #### How to configure this issue
 1. Label with practice area (`ux`, `research`, `design`, `backend`, `frontend`)
 2. Label for MVP work? (`mvp`)
-3. Set Project Status to `Epic`
+3. After the issue is created, set Project Status to `Epic`
