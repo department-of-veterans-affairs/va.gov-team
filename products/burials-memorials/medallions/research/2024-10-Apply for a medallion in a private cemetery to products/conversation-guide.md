@@ -25,7 +25,8 @@ Before we start, I have a few things that I want to go over with you:
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-   - Are you on a desktop, mobile or tablet device?
+     
+- Are you on a desktop, mobile or tablet device?
   
 - **Do you have a screen reader on this device?**
    - What kind of screen reader do you use?
