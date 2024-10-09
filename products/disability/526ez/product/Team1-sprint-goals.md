@@ -9,6 +9,7 @@
 
 **Submission Experience**
 - New Confirmation Page and Email Touchpoints annotations for Engineering
+- Accessibility audit, including Review pages (stretch goal)
 
 **Zero Silent Failures**
 - Enhance DD Metrics & 4142 remediation discovery
