@@ -8,7 +8,7 @@ Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 2. [Contact Center Data- Use Case](#Contact-Center-Data-Use-Case)
 3. [Approaches](#approaches)
 4. [Recommended Approach for TE Monitoring](#Recommended-Approach-for-TE-Monitoring)
-5. [Relevant Links] (#relevant-links)
+5. [Relevant Links](#relevant-links)
 
 ## Background
 
