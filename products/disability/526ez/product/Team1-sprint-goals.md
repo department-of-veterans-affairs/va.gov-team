@@ -5,6 +5,7 @@
 
 **Toxic Exposure**
 - 1.0 100% rollout
+- Reduce Veteran burden and improve data quality by switching to va-data month year option (stretch goal)
 
 **Submission Experience**
 - New Confirmation Page and Email Touchpoints annotations for Engineering
