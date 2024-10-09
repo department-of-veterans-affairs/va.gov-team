@@ -42,7 +42,6 @@ List all the programming languages used for the front-end development.
 
 -   **Languages**:
 -   `JavaScript`
--   `TypeScript`
 -   `HTML`
 -   `CSS`
 
@@ -51,9 +50,6 @@ Specify the frameworks and libraries that the front-end relies on.
 
 -   **Frameworks**:
 -   `React`
--   `Vue.js`
--   `Angular`
--   `Svelte`
 
 -   **Libraries**:
 -   `Redux` / `Vuex` / `MobX`
@@ -73,7 +69,6 @@ Outline the state management approach or libraries used in the application.
 Document how styling and layouts are handled in the project.
 
 -   **Styling Frameworks & Preprocessors**:
--   `CSS`
 -   `SCSS` / `SASS`
 -   `Styled Components`
 -   `Tailwind CSS` / `Bootstrap`
@@ -89,7 +84,6 @@ List the tools used to build and package the front-end code.
 -   **Package Managers**:
 -   `npm`
 -   `yarn`
--   `pnpm`
 
 ### Testing  
 Outline the testing framework and libraries used to ensure front-end functionality.
@@ -113,22 +107,13 @@ Provide details on the development tools or IDE extensions used.
 List the programming languages used for back-end development.
 
 -   **Languages**:
--   `Node.js`
--   `Python`
--   `Java`
--   `C#`
--   `Go`
--   `PHP`
+-   `Ruby`
 
 ### Frameworks  
 Document the frameworks used to build and manage back-end services.
 
 -   **Frameworks**:
--   `Express.js`
--   `Django`
--   `Spring Boot`
--   `ASP.NET Core`
--   `Flask`
+-   `Ruby on Rails`
 
 ### Database  
 Include details of databases used (SQL/NoSQL) and related tools.
@@ -174,27 +159,25 @@ Outline the testing tools and strategies used to ensure back-end quality.
 ### Development Tools  
 Provide details on the development tools or IDE extensions used for back-end development.
 
--   **Code Editor**: `VSCode`, `IntelliJ`
--   **Linting Tools**: `ESLint`, `Pylint`
--   **Debugging Tools**: `Node.js Debugger`, `PyCharm Debugger`
+-   **Code Editor**: `VSCode` and/or `IntelliJ`
+-   **Linting Tools**: `Rubocop`
+-   **Debugging Tools**: This depends on the code editor. For VSCode, Ruby LSP is used.
 
 ## CI/CD & Deployment
 ### Continuous Integration  
 Describe the tools and workflows used for continuous integration.
 
 -   **CI Tools**:
--   `GitHub Actions`
--   `Jenkins`
--   `CircleCI`
+-   `GitHub Actions`: Used for CI checks during PR validation
+-   `Jenkins`: Used for daily deployment jobs
 
 ### Continuous Deployment  
 Outline how the deployment process works and the tools used.
 
 -   **Deployment Tools**:
--   `Docker`
--   `Kubernetes`
--   `Heroku`
--   `AWS` / `Azure` / `GCP`
+-   `Docker`: a docker image is built for vets-api for deployment
+-   `Kubernetes`: composition of vets-api docker image and services such as Ingress
+-   `AWS`: vets-api production is run on EKS
 
 ## Third-Party Services
 List any third-party services, libraries, or APIs integrated into the application.
