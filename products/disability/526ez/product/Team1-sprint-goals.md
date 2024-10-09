@@ -13,6 +13,7 @@
 
 **Zero Silent Failures**
 - Enhance DD Metrics & 4142 remediation discovery
+- Provide migration LOE of BRD and PCIU to OCTO
 
 
 ## Sprint 7
