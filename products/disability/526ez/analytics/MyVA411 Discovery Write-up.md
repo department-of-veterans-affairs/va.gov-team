@@ -1,6 +1,7 @@
 # Approaches to MyVA411 Data Analysis
 
-Disability Benefits Team 1, October 2024
+Disability Benefits Team 1
+[Evelyn Hilbrich Davis] (evelyn@cityfriends.tech)
 
 ## Background
 
