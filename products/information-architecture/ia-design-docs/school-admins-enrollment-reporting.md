@@ -1,4 +1,4 @@
-# IA Design for [85/15 compliance reporting form](https://www.vba.va.gov/pubs/forms/vba-22-10215-are.pdf), and [35% Exception form](https://www.vba.va.gov/pubs/forms/vba-22-10216-are.pdf)
+# IA Design for enrollment reporting (form 22-10215), and enrollment reporting exception (form 22-10216) 
 
 **STATUS: [In progress]**
 
