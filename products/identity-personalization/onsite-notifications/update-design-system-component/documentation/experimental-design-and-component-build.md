@@ -1,4 +1,4 @@
-# Experimental Design Process + Component Build (WIP)
+# Experimental Design Process + Component Build
 
 _Document outlining My VA's experience navigating the the experimental design process and design system as the team worked to build the new notification component._
 
