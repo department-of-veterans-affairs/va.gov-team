@@ -17,7 +17,7 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 
 **OCTO Product Owners**
 - Kay Lawyer
-- Patrick Bateman
+- Stephen Barrs
 - Kristen McConnell
 
 **Program Management**
