@@ -41,6 +41,7 @@
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
     - 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
     - 🟩 [Use aria-describedby for Details links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94424)
+    - 🟩 [Update want to file a bt claim page in eCheck-in app with CC content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94605)
 </details>
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
