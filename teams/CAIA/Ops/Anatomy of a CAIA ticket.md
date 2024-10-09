@@ -1,10 +1,9 @@
-# CAIA ticket types and how to use them
+# CAIA Tickets and How To Use Them
 `Current WIP Version: V1.0`
 
 ## In this Document
 - [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#overview)
 - [Ticket Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-types)
-    - [CAIA Intake](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#caia-intake)
 - [Custom Field Section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#custom-field-section)
 - [Ticket Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-status)
 
@@ -40,15 +39,13 @@ These two types can be view separately on our board:
 
 When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
 
-### CAIA intake
-
 ### Title
 The title section contains the name of the ticket with the following naming convention:
 
 - [CAIA intake] is used to distinguish the ticket type
 - Child tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning
 
-### Custom Field Section
+# Custom Field Section
 This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. This includes:
 
 - **Assignees** - Shows who is responsible for the work being done on the ticket. This should be used only for the person actively working on the ticket, not for general awareness (if you need to flag a ticket for someone's awareness, tag them in a comment). As a ticket moves through the work process, the assignee may change. For example, a content ticket will be handed off from an editor to a writer to a copyeditor--to make it obvious who is actively responsible for work, we won't keep all three of those people assigned the whole time.
@@ -82,32 +79,29 @@ This section contains field data that is important for filtering and tracking is
 - **Originator/Team** - shows the team or stakeholder requesting the work
 - **Last Checked** - used to show the last time a ticket was checked, typically in backlog or blocked to ensure tickets do not go stale in the pipeline
 
-## Ticket Status
-- Status - the following tickets statuses exist in CAIA and relate to which swim lane the ticket will be in in the [Main Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/46) view in Github Projects.
-  -  **New Intakes** - default lane for all new work that is submitted
+# Ticket Status
+The ticket status shows where work is in the CAIA pipeline and provides an overview of what's actually happening across the team. The status corresponds to which swim line the ticket will appear in on the [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1))(and task board) view in Github Projects. We use two sets of statuses for the two different ticket types:
+
+## Intake status:
+  -  **New Intakes** - this is where all new work comes into the board. When you create a ticket and add the sitewide-caia label, it will automatically appear here.
+  -  **Intakes in Refinement** - Intakes that have been viewed by the Delivery Lead/Product Manager, but need more followup (feedback from OCTO, additional information from the requesting team, etc.)
+  -  **Intakes in Progress** - Intakes where work has started and child tickets are moving through the swimlanes. 
+  -  **Backlog/Blocked Intakes** - Intakes where work has stopped or been deprioritized.
   -  **Epics** - used to group tickets related to the same product. Epics themself do not usually contain any direct work, rather they are a bucket for related intakes or child tickets where individual work is being tracked.
-  -  **Backlog** - items not currently being worked on - usually of a lower priority
-  -  **OCTO Audits** - tickets created by OCTO leadership - usually audit work
-  -  **Blocked** - issues where work has been forced to stop due to blockers. Can include the following:
-      -  Waiting on stakeholder
-      -  Waiting on another team or CAIA discipline to complete work
+  -  **Closed** - all the child tickets related to the intake are complete, so the intake has been closed.
+
+## Child ticket status:
+  -  **Icebox** - issues that have been deprioritized with no clear timeline or next steps
+  -  **Backlog** - issues that are not currently being worked on, but are still relevant and should be pulled in in the foreseeable future
+  -  **Blocked** - issues where work has been stopped for more than a sprint due to a blocker external to CAIA:
+      -  Waiting on stakeholder or SME
       -  Waiting on a decision or review by OCTO or VBA
       -  Missing or incomplete artifacts required to complete work
-  -  **Ready** - issue has been refined and is ready to begin work on
-  -  **In Progress** - work is currently being carried out
-  -  **Validate** - for cases where a product or page is published, but needs additional review to ensure there are no bugs or stakeholder changes, or similar instances where CAIA work is complete but followup from the product team/OCTO is required. This should be noted in the ticket. 
-  -  **Closed** - work completed for this issue. Updates are live, the product has launched, or feedback or deliverables have been provided to the team. Anyone assigned to a ticket can close and record it in the [capacity spreadsheet](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit#gid=623845405).
-  -  
-## Closing Tickets
-If  CAIA work on a ticket has been completed, the person working on that ticket can move the ticket to `validate`, or if no validation is required, a ticket can be moved directly to closed and recorded in the capacity tracker.
-
-- If the work on a ticket is complete (for example, an updated page is live or a deliverable has been sent to a stakeholder), you can move the ticket to `closed`.
-- Tickets that are closed should have all of their fields completed, prior to closing out the ticket.
-- Tickets that are closed should be added to the [capacity tracker]([url](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit#gid=623845405)), for the assignees involved.
-- A ticket should only be moved to `validate` if there is specific validation criteria (for example, a when launching a new tool that needs a short window of time post-launch for the product team to spot bugs or review live pages). In this case, please revisit and close once followup is complete.
-
-
-
+  -  **Ready** - issues have been refined, have next steps and assignees, and is ready to begin work on
+  -  **In Progress** - work that is actively being worked on
+  -  **Validate** - once CAIA work is complete on an issue, the person responsible for it at that stage should fill out the custom fields and move the ticket to validate. Naomi will close and track the ticket in the capacity spreadsheet. Make a note in the ticket for any cases where a product or page is published but needs additional review to ensure there are no bugs, stakeholder changes, or followup from the product team/OCTO.
+ -  **Closed** - work completed for this issue. Updates are live, the product has launched, or feedback or deliverables have been provided to the team.
+  - **OCTO Audits** - tickets created by OCTO leadership - usually audit work
 
 
 
