@@ -119,9 +119,9 @@ Document the frameworks used to build and manage back-end services.
 Include details of databases used (SQL/NoSQL) and related tools.
 
 -   **Database**:
--   SQL: `Postgr[eSQL`,](http://asp.net/) `MySQL`, `SQL Server`
--   NoSQL: `MongoDB`, `Cassandra`, `Firebase`
--   ORM: `Sequelize`, `Prisma`, `SQLAlchemy`
+-   SQL: PostGIS (PostgreSQL): We use the `form5655_submissions` table in the vets-api DB
+-   ORM: ActiveRecord: We use this Ruby-on-Rails ORM when interfacing with the vets-api DB 
+-   We also use Redis stores for caching purposes (debatable if Redis double be considered a DB)
 
 ### APIs  
 List any APIs that the back-end exposes or consumes.
@@ -130,8 +130,7 @@ List any APIs that the back-end exposes or consumes.
 -   `REST`: All debts APIs we maintain are REST APIs 
 
 -   **Documentation Tools**:
--   `Swagger`
--   `Postman`
+-   `Swagger`: We maintain swagger documentation for debts, debt letters, FSR and medical copays endpoints/APIs.
 
 ### Authentication & Authorization  
 Outline the authentication and authorization methods used in the application.
@@ -149,16 +148,13 @@ Outline the authentication and authorization methods used in the application.
 Outline the testing tools and strategies used to ensure back-end quality.
 
 -   **Testing Frameworks**:
--   `Jest`
--   `Mocha` / `Chai`
--   `Supertest`
--   `JUnit`
+-   `RSpec`: This is the testing framework for Ruby-on-Rails that's used by vets-api
 
 ### Development Tools  
 Provide details on the development tools or IDE extensions used for back-end development.
 
 -   **Code Editor**: `VSCode` and/or `IntelliJ`
--   **Linting Tools**: `Rubocop`
+-   **Linting Tools**: `Rubocop` and `reek`
 -   **Debugging Tools**: This depends on the code editor. For VSCode, Ruby LSP is used.
 
 ## CI/CD & Deployment
@@ -184,7 +180,8 @@ List any third-party services, libraries, or APIs integrated into the applicatio
 
 -   **Email Services**: We use VaNotify::Service to send emails [here](https://github.com/department-of-veterans-affairs/vets-api/blob/6a50ca0d454cefb58198f3d19b9aaa4861bd4824/lib/debt_management_center/sidekiq/va_notify_email_job.rb#L22-L23).
 -   **Notification Services**: See above, we send notifications via email.
--   **Cloud Services**: We upload documents to Sharepoint [here](https://github.com/department-of-veterans-affairs/vets-api/blob/99eab7ef9d18216eceef9606e69e87d6e4f2efec/modules/debts_api/app/workers/debts_api/v0/form5655/vha/sharepoint_submission_job.rb).
+-   **Cloud Services**: We upload documents to Sharepoint [here](https://github.com/department-of-veterans-affairs/vets-api/blob/99eab7ef9d18216eceef9606e69e87d6e4f2efec/modules/debts_api/app/workers/debts_api/v0/form5655/vha/sharepoint_submission_job.rb). I believe we used to use Veteran Facing eFolder for debt letters but that has since been switched to VBMS instead.
+-   **Other Services**: We also interact with VBS, VBA, VBMS, MPI endpoints.
 
 ## Additional Notes
 Include any additional notes or resources that may be relevant for developers or system administrators working on the project.
