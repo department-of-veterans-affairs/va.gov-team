@@ -58,7 +58,7 @@ You can also join the AppealSubmissionUpload directly to the AppealsApi::Evidenc
 ```rb
 AppealsApi::EvidenceSubmission.joins(:upload_submission)
                             .where(upload_submission: { status: 'error' })
-                            .joins("INNER JOIN appeal_submission_uploads ON appeal_submission_uploads.lighthouse_upload_id =         CAST(appeals_api_evidence_submissions.guid as VARCHAR)")
+                            .joins("INNER JOIN appeal_submission_uploads ON appeal_submission_uploads.lighthouse_upload_id = CAST(appeals_api_evidence_submissions.guid as VARCHAR)")
                             .where('appeals_api_evidence_submissions.created_at > ?', start_date)
                             .order(created_at: :desc)
                             .map {|es| [es.guid, es.upload_submission.detail, es.appeal_submission_upload.decision_review_evidence_attachment_guid] }
