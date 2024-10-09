@@ -26,12 +26,7 @@ Before we start, I have a few things that I want to go over with you:
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
    - Are you on a desktop, mobile or tablet device?
-   - I'm going to send you a link in the chat that I would like for you to open. [Link]
-- **Device and browser** Are you using a computer or mobile phone during our session today?
-   - Mac or Windows
-   - iOS or Android?
-- **What browser are you using today?**
-- **If not joined by Zoom already**, Do you have Zoom installed?
+  
 - **Do you have a screen reader on this device?**
    - What kind of screen reader do you use?
    - Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
@@ -42,7 +37,9 @@ Before we start, I have a few things that I want to go over with you:
    - Are you using a screen magnifier today?
    - Are there any other assistive technologies that you use?
       - If the participant has low vision, they may require captions which needs to be turned on in advanced settings
-        
+
+- I'm going to send you a link in the chat that I would like for you to open. [Link]
+
 - **Okay, now I'm going to ask you to share your screen in Zoom** so that we can look at the prototype together and then we'll begin.
    - Zoom screensharing on desktop: Locate green Share Screen button on the bottom tool pane.
    - Zoom screensharing on mobile: Locate Share button in bottom tool panel (it's scrollable and they may need to scroll to see button if off screen), then hit "Start broadcast".
