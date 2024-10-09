@@ -128,7 +128,6 @@ List any APIs that the back-end exposes or consumes.
 
 -   **API Specification**:
 -   `REST`: All debts APIs we maintain are REST APIs 
--   `GraphQL`
 
 -   **Documentation Tools**:
 -   `Swagger`
@@ -167,6 +166,7 @@ Provide details on the development tools or IDE extensions used for back-end dev
 Describe the tools and workflows used for continuous integration.
 
 -   **CI Tools**:
+-   We use the same CI tools provided by the platform team as everyone else in vets-api and vets-website, which includes:
 -   `GitHub Actions`: Used for CI checks during PR validation
 -   `Jenkins`: Used for daily deployment jobs
 
@@ -174,6 +174,7 @@ Describe the tools and workflows used for continuous integration.
 Outline how the deployment process works and the tools used.
 
 -   **Deployment Tools**:
+-   We use the same deploytment tools provided by the platform team as everyone else in vets-api and vets-website, which includes:
 -   `Docker`: a docker image is built for vets-api for deployment
 -   `Kubernetes`: composition of vets-api docker image and services such as Ingress
 -   `AWS`: vets-api production is run on EKS
@@ -181,10 +182,9 @@ Outline how the deployment process works and the tools used.
 ## Third-Party Services
 List any third-party services, libraries, or APIs integrated into the application.
 
--   **Payment Services**: `Stripe`, `PayPal`
--   **Email Services**: `SendGrid`, `Mailgun`
--   **Notification Services**: `Twilio`, `Firebase`
--   **Cloud Services**: `AWS S3`, `Google Cloud Storage`
+-   **Email Services**: We use VaNotify::Service to send emails [here](https://github.com/department-of-veterans-affairs/vets-api/blob/6a50ca0d454cefb58198f3d19b9aaa4861bd4824/lib/debt_management_center/sidekiq/va_notify_email_job.rb#L22-L23).
+-   **Notification Services**: See above, we send notifications via email.
+-   **Cloud Services**: We upload documents to Sharepoint [here](https://github.com/department-of-veterans-affairs/vets-api/blob/99eab7ef9d18216eceef9606e69e87d6e4f2efec/modules/debts_api/app/workers/debts_api/v0/form5655/vha/sharepoint_submission_job.rb).
 
 ## Additional Notes
 Include any additional notes or resources that may be relevant for developers or system administrators working on the project.
