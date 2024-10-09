@@ -124,5 +124,8 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  - DEPO Lead: Sarah Ortiz Shields
  - PM: Laura Steele
  - Engineering: Thomas Blackwell
- - Research/Design: Julie Pedtke, Ajia Wallace
+ - Research/Design: Ajia Wallace, Fiorella Geedi, Ruben Sun
+
+#### Privacy officer
+- Lakisha Wright (lakisha.wright@va.gov)
 
