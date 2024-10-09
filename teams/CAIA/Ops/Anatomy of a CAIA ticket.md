@@ -6,8 +6,7 @@
 - 
 - [Ticket Anatomy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-anatomy)
    - [Ticket Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-types)
-    - [Standard Intake Request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#standard-intake-request)
-    - [General Collaboration Request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#general-collaboration-request)
+    - [CAIA Intake](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#caia-intake)
       - [Title](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#title)
       - [Main Body](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#main-body)
       - [Custom Field Section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#custom-field-section)
@@ -23,32 +22,31 @@ This document details how to create, update, and close a CAIA ticket, ensuring a
 
 | **Term** | Definition |
 |------------------------|------------------|
-| **Ticket**                   | A method to track a work requirement. In Github they are used to track issues at the repository level. Tickets contain the details of the issue and the steps or work required to meet the definition of done.|
-| **Issue**                   |     An issue is a discreet, well defined unit of work for a team or project. In Github, they are synonymous with tickets - that is, a ticket will usually contain a single well defined issue. With VA, however, tickets can contain more than one issue, and so the best way to think of it is that a ticket is a ‘bucket’ or ‘repository’ for issues.| 
-| **EPIC**                   |     An overarching grouping of tasks (or sub-tasks) that contain several smaller `Issues`, also known as `User Stories`. | 
-| **Task**                   |     In Github, a task is an individual work item, usually assignable to someone, who will then complete that item and check it off. Tasks can be as simple as a checklist item, or they can be multi-functional, when it is converted into an issue. Task lists can connect to existing issues as well as tasks converted into issues. An issue can appear in multiple task lists, simply by connecting it with the issue number. Regardless if a task is a plain text task or an issue, when it is unchecked, it is open and when it is checked, it is closed. The tickets that are connected to tasks are tracking tasks. GHP will tell you the number of tasks completed and overall, along with a percentage. You can also use multiple task lists in one ticket for different parts of your project. [Learn more about tasks from GitHub.](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) | 
-| **Repository**                   |     A place where a project’s files, version history, and resources live. In CAIA, we operate in the VA.gov-team repository.| 
-| **Pipeline**                   |     A pipeline is a collection or series of workflows that defines the status of work being done at a given point in the work process. The CAIA Pipeline consists of distinct stages that help define the status of work while it is with our team. The start point for our pipeline is `New Stuff` and the end point is `Closed`.| 
-| **Refinement**                   |     The process of reviewing and assessing tickets in the various stages of the CAIA pipeline - Ready, Backlog etc - in an effort to progress them through the pipeline to a closed status. Includes the following: raw tickets, backlog and blocked. | 
-| **Refinement**: Raw Tickets| Reviewing & assessing raw tickets as they come into the `New Stuff` column.|
-| **Refinement**: Backlog |Reviewing and assessing tickets in the backlog to ensure they do not get forgotten and seeing if they can be pulled into the current `Ready` or `In Progress` work streams.|
-| **Refinement**: Blocked |Reviewing and assessing tickets in `Blocked`  to see if they can be unblocked or if not, who needs to be notified or informed to get it unblocked.|
+| **Issue**                   | An issue is a discreet, well defined unit of work for a team or project. In Github, they are synonymous with tickets - that is, a ticket will usually contain a single well defined issue.| 
+| **Ticket**                   | Tickets contain the details of the issue and the steps or work required to meet the definition of done.|
+| **Epic**                   |     An overarching "bucket" of work that contains individual `Issues`. CAIA uses Epics to group work by product. | 
+| **Task**                   |     In Github, a task is an individual work item, usually assignable to someone, who will then complete that item and check it off. Tasks can be used as a simple checklist, or converted into issues. Task lists can connect to existing issues as well as tasks converted into issues. An issue can appear in multiple task lists, simply by connecting it with the issue number. Regardless if a task is a plain text task or an issue, when it is unchecked, it is open and when it is checked, it is closed. The tickets that are connected to tasks are tracking tasks. GHP will show the number of tasks completed in an issue, and the overall progress as a percentage. You can also use multiple task lists in one ticket for different parts of your project. [Learn more about tasks from GitHub.](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) | 
+| **Repository**                   |     A place where a project’s files, version history, and resources live. CAIA operates in the VA.gov-team repository.| 
+| **Pipeline**                   |     A pipeline is a collection or series of workflows that defines the status of work being done at a given point in the work process. The CAIA Pipeline consists of distinct stages that help define the status of work while it is with our team. The starting point for our pipeline is `New Intakes` and the end point is `Closed`.| 
+| **Refinement**                   |     The process of reviewing and assessing tickets in the various stages of the CAIA pipeline (Ready, Backlog, etc.) in an effort to progress them through the pipeline to a closed status. | 
 
 </details>
 
 # Ticket Anatomy
 
 ## Ticket Types
-There are 2 main tickets that CAIA will use in its pipeline:
+There are 2 types of tickets that CAIA will use in its pipeline:
 
-- [Standard Intake Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E). Typically used for teams going through the collaboration cycle or beginning a new product or initiative.
-- [General Collaboration Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cstrelichl&labels=sitewide+CAIA&projects=&template=caia-general-collab-request.md&title=%5BCAIA+General+Support%5D%3A%3CTeam+name%3E%3CSupport+Needed%3E). Typically used for teams requesting general collaboration with CAIA that is not part of the collaboration cycle or for an already existing product or service.
+- [CAIA Intake Request]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)).  This is the intake template for teams to request collaboration with CAIA. During refinement, CAIA will attach new child tickets to capture work needed from each CAIA discipline.
+- CAIA child ticket: This is the issue created by CAIA, based on an intake or stakeholder request, that outlines the specific work needed from the assignee.
 
-When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Stuff` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
+These two types can be view separately on our board: 
+- Child tickets: [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1) and [Task Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/74)
+- Intakes and Epics: [High Level Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75) and [High Level Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/72)
 
-### Standard Intake Request
+When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
 
-### General Collaboration Request
+### CAIA intake
 
 ### Title
 ![Title](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/73d12ae7-751e-4dec-a900-57dd94339b48)
