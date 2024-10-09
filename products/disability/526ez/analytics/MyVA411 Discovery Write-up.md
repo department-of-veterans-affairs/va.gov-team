@@ -12,7 +12,7 @@ While Medallia can provide invaluable insight into how Veterans are completing t
 
   
 
-All approaches outlined are:
+**All approaches outlined are:**
 
 -   Designed for single-sprint data analysis/review by one researcher. Assume that Medallia data will also be reviewed during the same sprint for health checks and release monitoring.
     
@@ -21,7 +21,7 @@ All approaches outlined are:
 -   Dependent on establishing clear scope before getting started!
       
 
-Not included in time-boxed discovery:
+**Not included in time-boxed discovery:**
 
 -   Looked briefly at Domo, didn’t understand how the dashboard worked.
     
@@ -53,7 +53,7 @@ MyVA411 data is valuable for supporting quarterly health checks and release moni
 
 -   Agent coding isn’t consistent; sometimes Pact Act has no reference to Pact Act.
     
--   PII means the data needs to stay on Citrix or Azure for processing
+-   PII means the data needs to stay on Citrix or Azure for processing in order to be secure
     
 -   Will skew negative– many Veterans see calling Contact Center as a last resort
     
@@ -64,11 +64,7 @@ MyVA411 data is valuable for supporting quarterly health checks and release moni
 
 Take a small slice of the data so # of entries becomes manageable to be manually coded over the course of the sprint. Treat this portion as a random cross-section and representative of the larger data set.
 
-  
-
 This could be randomly selecting a percentage of the overall data set, or could include all entries that contain certain key terms. Consider ignoring Salesforce categorization; labels seem inconsistent and could be cumbersome to vet manually.
-
-  
 
 Benefits: Least rigid approach, allows for more nuanced pattern identification, draws on existing competencies of the UX team.  
 Limitations: Manual, most time-intensive approach; can’t review as much data as with more automated processes.
@@ -76,8 +72,6 @@ Limitations: Manual, most time-intensive approach; can’t review as much data a
 ### Approach 2- Simple Scripts for Partial Automation.
 
 Work with Engineers to create a more automated process for finding patterns and cleaning basic PII. Come to engineers with vision and intent for the objective of the data analysis, highlighting possible keywords. Engineers could use simple scripts to brute force it without using AI.
-
-  
 
 1.  This matches the approach the Conditions team took in order to analyze free text from the contentions page. The team used Python on GFE and kept all data inside of Sharepoint. The data scientist used Polar, which is allowed on GFE, can get downloaded by the Help Desk. No NLP modeling, pretty straightforward metrics. Jupyter notebooks stored on Sharepoint. The team has offered to share their Jupyter notebook so 526 engineers can borrow the structure.
     
