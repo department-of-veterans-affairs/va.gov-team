@@ -26,7 +26,7 @@ Before we start, I have a few things that I want to go over with you:
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
      
-- Are you on a desktop, mobile or tablet device?
+- **Are you on a desktop, mobile or tablet device?**
   
 - **Do you have a screen reader on this device?**
    - What kind of screen reader do you use?
@@ -39,7 +39,7 @@ Before we start, I have a few things that I want to go over with you:
    - Are there any other assistive technologies that you use?
       - If the participant has low vision, they may require captions which needs to be turned on in advanced settings
 
-- I'm going to send you a link in the chat that I would like for you to open. [Link]
+- **I'm going to send you a link in the chat that I would like for you to open.** [Link]
 
 - **Okay, now I'm going to ask you to share your screen in Zoom** so that we can look at the prototype together and then we'll begin.
    - Zoom screensharing on desktop: Locate green Share Screen button on the bottom tool pane.
