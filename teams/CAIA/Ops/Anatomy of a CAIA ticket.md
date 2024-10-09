@@ -49,34 +49,15 @@ When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds t
 ### CAIA intake
 
 ### Title
-![Title](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/73d12ae7-751e-4dec-a900-57dd94339b48)
-The title section contains the name of the ticket with the following naming convention
+The title section contains the name of the ticket with the following naming convention:
 
-- [] is used for the ticket type
-- <> is used for the team requesting
-
-The ticket title also conatains the following ticket information
-
-- Ticket Status - See in the [Custom Field Section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#custom-field-section) Below
-- Number of tasks completed and total number of tasks
-- Who opened the ticket and when
-
-
-### Main Body
-![Main Body](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/e58c76ec-7278-4016-ab95-de36cab48546)
-The main body of the the standard intake request consists of the following sections
-
-- **About your team** - Details information on the team requesting collaboration with CAIA Includes details such as
-  - OCTO Product Owner
-  - Slack Channel
-  - Content Writer on team (if applicable)
-- About your request - Details information about the nature of the collaboration request
+- [CAIA intake] is used to distinguish the ticket type
+- Child tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning
 
 ### Custom Field Section
-![Custom Fields](https://github.com/department-of-veterans-affairs/va.gov-team/assets/109677068/f321f7c3-5cc4-4fd8-a7b6-43f95fc1fbad)
-This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. They include:
+This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. This includes:
 
-- **Assignees** - Shows who is involved in the work being done on the ticket
+- **Assignees** - Shows who is responsible for the work being done on the ticket. This should be used only for the person actively working on the ticket, not for general awareness (if you need to flag a ticket for someone's awareness, tag them in a comment). As a ticket moves through the work process, the assignee may change. For example, a content ticket will be handed off from an editor to a writer to a copyeditor--to make it obvious who is actively responsible for work, we won't keep all three of those people assigned the whole time.
 - **Labels** - Sometimes known as tags. These allow for CAIA to 'tag' which discipline needs to be involved with the work. Current labels for CAIA are:
   - sitewide CAIA
   - sitewide content
@@ -87,7 +68,7 @@ This section contains field data that is important for filtering and tracking is
 - Milestone - not currently used
 - Status - the following tickets statuses exist in CAIA and relate to which swim lane the ticket will be in in the [Main Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/46) view in Github Projects.
   -  **New Intakes** - default lane for all new work that is submitted
-  -  **EPICS** - used to group tickets related to the same product. EPICS themself do not usually contain any direct work, rather they are a vessel for containing child tickets that are used to track the actual work done.
+  -  **Epics** - used to group tickets related to the same product. Epics themself do not usually contain any direct work, rather they are a bucket for related intakes or child tickets where individual work is being tracked.
   -  **Backlog** - items not currently being worked on - usually of a lower priority
   -  **OCTO Audits** - tickets created by OCTO leadership - usually audit work
   -  **Blocked** - issues where work has been forced to stop due to blockers. Can include the following:
