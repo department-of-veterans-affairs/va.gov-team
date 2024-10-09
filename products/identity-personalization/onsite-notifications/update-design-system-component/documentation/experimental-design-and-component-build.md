@@ -1,5 +1,7 @@
 # Experimental Design Process + Component Build
 
+**Last updated: August 2023, added recommendations section**
+
 _Document outlining My VA's experience navigating the the experimental design process and design system as the team worked to build the new notification component._
 
 ## Design
