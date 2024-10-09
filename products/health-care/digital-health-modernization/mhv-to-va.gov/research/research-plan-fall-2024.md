@@ -26,7 +26,7 @@ This research fits into these points of a Veteran's Journey:
 The learnings of this research will inform changes to the MHV on VA.gov experience and strategy for change management. 
 
 ### Research questions
-- Are CTAs to try out the new MHV portal working? Do users notice them and understand what is happening?
+- Are CTAs to try out the new MHV portal effective? Do users notice them and understand what they're saying?
 - Once users try out the new portal, do they understand how to return?
 - Are changes made to national portal language or tools causing confusion?
 - How much do users care about what the new MHV offers them? 
