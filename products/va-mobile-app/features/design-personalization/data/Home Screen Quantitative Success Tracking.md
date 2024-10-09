@@ -31,9 +31,7 @@ This page contains quantitative data intended to measure whether the home screen
 |Prescriptions Load Time|3.08 Sec|3.21 Sec|3.22 Sec||
 |Secure Messages Load Time |2.03 Sec|2.31 Sec|2.32 Sec||
 
-
-
-* Date Range: 03/01/24 - 07/31/24
+Baseline was from 03/01/24 - 07/31/24. Note that during this timeframe, the API calls that the home screen leverages were being called on the home screen. It is unclear why there has been a decrease throughout the year and after release.
 
 ### Retention Rates 
 
