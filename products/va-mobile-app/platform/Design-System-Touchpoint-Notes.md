@@ -8,11 +8,11 @@ Agenda:
 ## 10/9/24
 *   Review Q4 Plan
 *   Home Icon sizing
-   * post in Slack to ask VADS
+    *   post in Slack to ask VADS
 *   Spacing Token questions from Demo
-   * Create documentation of the Spacing pattern(s)
+    *   Create documentation of the Spacing pattern(s)
 *   Light mode / Dark Mode from Demo
-   * screen templates not in DS right now
+    *   screen templates not in DS right now
 
 ## 9/25/24
 *   Pilots and Design Systems - idea for collaboration
