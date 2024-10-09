@@ -39,7 +39,7 @@ Before we start, I have a few things that I want to go over with you:
    - Are there any other assistive technologies that you use?
       - If the participant has low vision, they may require captions which needs to be turned on in advanced settings
 
-- **I'm going to send you a link in the chat that I would like for you to open.** [Link]
+- **I'm going to send you a link in the chat that I would like for you to open.** [Link](https://www.figma.com/proto/QIMsAdHJjctTKDM1I34uXV/Medallions---Baseline-Prototype?page-id=2%3A2&node-id=2185-38626&node-type=frame&viewport=12548%2C5040%2C0.3&t=ql7d2qYUg3eKaxGb-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2185%3A38626&show-proto-sidebar=1)
 
 - **Okay, now I'm going to ask you to share your screen in Zoom** so that we can look at the prototype together and then we'll begin.
    - Zoom screensharing on desktop: Locate green Share Screen button on the bottom tool pane.
