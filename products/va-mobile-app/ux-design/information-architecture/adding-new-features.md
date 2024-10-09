@@ -1,11 +1,11 @@
 
 
-# Determining Navigation & Information Architecture Placement for New Features within the VA Mobile App
+# Determining placement of new features within the VA Mobile App's navigation & Information Architecture
 
 All features in the VA mobile app should have a <span style="text-decoration:underline;">primary placement within the app’s taxonomy</span>, even if there are multiple entry points for it at different locations within the app (example of secondary entry points: personalized home screen content, cross-references within other sections). A feature’s placement within the app’s navigation & taxonomy should take user mental models, business goals, and the feature type into account. This doc is intended to help teams decide where a new feature belongs in this app’s sitemap and navigation model. Not covered here: individual screen hierarchies or components used to access the feature.
 
 
-#### Questions to ask to determine the <span style="text-decoration:underline;">primary placement within the app’s taxonomy</span> for a new feature in the VA Mobile app:
+#### Questions to ask to determine the <span style="text-decoration:underline;">primary placement for a new feature</span> in the VA Mobile app:
 
 
 
