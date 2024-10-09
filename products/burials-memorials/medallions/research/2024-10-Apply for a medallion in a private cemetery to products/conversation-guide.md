@@ -15,7 +15,7 @@ Slack for real-time feedback from observers.
 ## Intro - 5 minutes
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
-Today we're going to talk about [the process of applying for a Medallion for a deceased Veteran to be placed in a private cemetery. A bit of background, in this process the applicant will fill out a form for the medallion and submit. Then a second form, which is a shortened version of the first form, is sent to the cemetery to review and sign. If approved, the medallion will be sent.]
+Today we're going to talk about the process of applying for a Medallion for a deceased Veteran to be placed in a private cemetery. A bit of background, in this process the applicant will fill out a form for the medallion and submit. Then a second form, which is a shortened version of the first form, is sent to the cemetery to review and sign. If approved, the medallion will be sent.
 Before we start, I have a few things that I want to go over with you:
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
