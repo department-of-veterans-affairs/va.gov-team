@@ -136,13 +136,11 @@ List any APIs that the back-end exposes or consumes.
 Outline the authentication and authorization methods used in the application.
 
 -   **Authentication**:
--   `JWT (JSON Web Tokens)`
--   `OAuth 2.0`
--   `Session-Based Authentication`
+-   We use the same authentication process described [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication) as other apps in vets-api.
+-   We use token based authentication when interacting with the Sharepoint endpoint [here](https://github.com/department-of-veterans-affairs/vets-api/blob/4ed913ed8b4d7795922c29c65c814f01fdd433f0/lib/debt_management_center/sharepoint/request.rb#L62-L71).
 
 -   **Authorization**:
--   `Role-Based Access Control (RBAC)`
--   `Access Control Lists (ACL)`
+-   `Policy` classes: We use the default vets-api authorization management described in this [documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/authorization).
 
 ### Testing  
 Outline the testing tools and strategies used to ensure back-end quality.
