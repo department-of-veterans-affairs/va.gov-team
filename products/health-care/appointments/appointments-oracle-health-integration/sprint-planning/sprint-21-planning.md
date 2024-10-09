@@ -24,9 +24,9 @@ Sprint 21: 10/8/24 - 10/21/24
 ## 📋 Previous Sprint Summary:
 In Sprint 20, the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  * Redirected the VetsAPI clinics endpoint to send requests to the VetsAPI Patient Gateway.
+  * Redirected the VetsAPI clinics endpoint to optionally send requests to the VetsAPI Patient Gateway if a feature flag is enabled.
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-   * Added named exceptions in VetsAPI Patient Gateway for handled scenarios, enhancing the quality of summary information provided by Grafana.
+   * Added named exceptions in VetsAPI Patient Gateway for handled scenarios, enhancing the quality of error summary information available in Grafana.
    * Improved Clinical Encounter Service to enable the rules engine to operate on return fetch requests.
    * Deprecated the previous method for determining whether a site is a VistA site or an Oracle Health site; updated VetsAPI Patient Gateway to utilize the mobile-facility-service for this information.
 * #### Backend support for Slot Search for Appointment Requests
