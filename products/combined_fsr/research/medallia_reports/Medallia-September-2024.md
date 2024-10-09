@@ -33,34 +33,35 @@ Veterans can leave quantitative feedback on their experience with VA.gov on a sc
 
 > **VA.gov Experience**
 
-|AVERAGE  |  COUNT| MODE | 
-|--|--|--
-| 3.48 |  31| 5
+|AVERAGE  |  COUNT| MODE | CSAT |
+|--|--|--|--|
+| 3.48 |  31| 5 | 74.19% (small sample size)
+
 
 > **VA.gov Understanding**
 
-|AVERAGE  |  COUNT| MODE | 
-|--|--|--
-| 3.58 |  29| 5
+|AVERAGE  |  COUNT| MODE | CSAT |
+|--|--|--|--|
+| 3.58 |  29| 5 | 82.75% (small sample size)
 
 > **General VA Trust**
 
-|AVERAGE  |  COUNT| MODE | 
-|--|--|--
-| 3.16 |  30| 3
+|AVERAGE  |  COUNT| MODE | CSAT | 
+|--|--|--|--|
+| 3.16 |  30| 3 | 33.33% (small sample size)
 
 > **Trust in VA Commitment to Veterans**
 
-|AVERAGE  |  COUNT| MODE | 
-|--|--|--
-| 3.34 |  29| 5
+|AVERAGE  |  COUNT| MODE | CSAT |
+|--|--|--|--|
+| 3.34 |  29| 5 | 79.21% (small sample size)
 
 
 > **What is your overall satisfaction with this site?**
 
-|AVERAGE  |  COUNT| MODE | 
-|--|--|--
-| 2.07 |  27| 1
+|AVERAGE  |  COUNT| MODE | CSAT |
+|--|--|--|--|
+| 2.07 |  27| 1 | 18.51% (small sample size)
 
 
 ## Qualitative Findings
@@ -187,35 +188,36 @@ N = 1 response
 
 > **VA.gov Experience**
 
-|AVERAGE  |  COUNT|
-|--|--|
-| 2.5 |  2|
+|AVERAGE  |  COUNT| CSAT |
+|--|--|--|
+| 2.5 |  2| Not statistically significant
+
 
 
 > **VA.gov Understanding**
 
-|AVERAGE  |  COUNT|
-|--|--|
-| 2.5 |  2|
+|AVERAGE  |  COUNT| CSAT |
+|--|--|--|
+| 2.5 |  2| Not statistically significant
 
 
 > **General VA Trust**
 
-|AVERAGE  |  COUNT| MODE | 
-|--|--|--
-| 4 |  67| 5
+|AVERAGE  |  COUNT| MODE | CSAT |
+|--|--|--|--|
+| 4 |  67| 5 | 61.19%
 
 > **Trust in VA Commitment to Veterans**
 
-|AVERAGE  |  COUNT| MODE | 
-|--|--|--
-| 4.07 |  66| 5
+|AVERAGE  |  COUNT| MODE | CSAT |
+|--|--|--|--|
+| 4.07 |  66| 5 | 75.75%
 
 >**What is your overall satisfaction with this site?**
 
-|AVERAGE  |  COUNT| MODE | 
-|--|--|--
-| 2.09 |  11| 1
+|AVERAGE  |  COUNT| MODE | CSAT |
+|--|--|--|--|
+| 2.09 |  11| 1 | Not statistically significant
 
 
 
