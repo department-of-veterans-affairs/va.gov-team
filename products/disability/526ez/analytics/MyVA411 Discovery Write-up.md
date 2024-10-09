@@ -4,6 +4,7 @@ Disability Benefits Team 1, October 2024
 
 Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
+Jump to: 
 1. [Background](#background) 
 2. [Contact Center Data- Use Case](#Contact-Center-Data-Use-Case)
 3. [Approaches](#approaches)
@@ -14,10 +15,9 @@ Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
 This document will outline three approaches that UX can take to efficiently and effectively analyze MyVA411, Veteran support data originating from VEO 411 Contact Centers.
 
-Historically, UX has relied on Medallia survey data for 526ez health checks and is currently using it to look for usability issues and other pain points with the new feature during the Toxic Exposure release.
+Historically, UX has relied on Medallia survey data for 526ez health checks and is currently using it to look for usability issues and other pain points with the new feature during the Toxic Exposure release. While Medallia can provide invaluable insight into how Veterans are completing the form in real time, feedback is limited and is not easily accessible to AT users. One of the surveys, the Intercept, is not optimized, as OCTO is currently working to improve it across products. 
 
-While Medallia can provide invaluable insight into how Veterans are completing the form in real time, feedback is limited and is not easily accessible to AT users. One of the surveys, the Intercept, is not optimized, as OCTO is currently working to improve it across products.
-
+We are interested to see ways we can make the most out of MyVA411 data to see how it can support TE monitoring and future form health checks in the future. 
 
 **All approaches outlined are:**
 
