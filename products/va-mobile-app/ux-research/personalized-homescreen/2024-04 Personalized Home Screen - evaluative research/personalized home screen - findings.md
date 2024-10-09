@@ -9,7 +9,7 @@ Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)),
 
 **Research readout:**  
 * [Internal team deck](https://docs.google.com/presentation/d/1ZPKnTM2UslfUm71EBhangvb3aAMtx_74riC9qns8OQc/edit#slide=id.g1531a8d3ce4_2_202) | [PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/2024%20-%20VA%20Mobile%20App%20-%20Home%20Screen%20Evaluative%20Research%20-%20Findings%20Report%20(internal).pdf)
-* Monday design meeting deck 
+* [Monday design meeting deck](https://docs.google.com/presentation/d/1LB2zGOyP0o4awPzqvQ8yiw5AytOz6epLxH6k03dTOJM/edit) [PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/2024%20-%20VA%20Mobile%20App%20-%20Home%20Screen%20Evaluative%20Research%20Findings%20Report%20%26%20Screen%20Reader%20Demo%20(Monday%20Design%20%26%20Research%20Share).pdf)
 
 **Jump to:**  
 [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20findings.md#hypotheses-and-conclusions)  
