@@ -2,7 +2,7 @@
 name: ARM Epic
 about: Epics for the ARM team
 title: 'ARM Research/Design/Development:'
-labels: 'accredited-representation-management-team, Epic'
+labels: accredited-representation-management-team, Epic
 assignees: ''
 
 ---
