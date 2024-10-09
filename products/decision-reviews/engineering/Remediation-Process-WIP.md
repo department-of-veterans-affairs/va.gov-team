@@ -47,7 +47,22 @@ AppealsApi::EvidenceSubmission.joins(:upload_submission)
 ```
 
 #### Verifying file upload in S3
-You can use the guid on the AppealsApi::EvidenceSubmission to look up the AppealSubmissionUpload to get the S3 uuid (decision_review_evidence_attachment_guid)
+You can use the guid on the AppealsApi::EvidenceSubmission to look up the AppealSubmissionUpload to get the S3 uuid
+```rb
+es = AppealsApi::EvidenceSubmission.last
+asu = AppealSubmissionUpload.where(lighthouse_upload_id: es.guid)
+s3_uuid = asu.decision_review_evidence_attachment_guid)
+```
+
+You can also join the AppealSubmissionUpload directly to the AppealsApi::EvidenceSubmission when querying for errors, but it's a little messy (tentative, needs validation in prod console)
+```rb
+AppealsApi::EvidenceSubmission.joins(:upload_submission)
+                            .where(upload_submission: { status: 'error' })
+                            .joins("INNER JOIN appeal_submission_uploads ON appeal_submission_uploads.lighthouse_upload_id =         CAST(appeals_api_evidence_submissions.guid as VARCHAR)")
+                            .where('appeals_api_evidence_submissions.created_at > ?', start_date)
+                            .order(created_at: :desc)
+                            .map {|es| [es.guid, es.upload_submission.detail, es.appeal_submission_upload.decision_review_evidence_attachment_guid] }
+```
 
 1. Log into AWS on Citrix/AVD
 2. Navigate to the S3 bucket
