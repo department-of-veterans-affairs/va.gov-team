@@ -25,9 +25,7 @@ Before we start, I have a few things that I want to go over with you:
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-     
 - **Are you on a desktop, mobile or tablet device?**
-  
 - **Do you have a screen reader on this device?**
    - What kind of screen reader do you use?
    - Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
@@ -38,9 +36,7 @@ Before we start, I have a few things that I want to go over with you:
    - Are you using a screen magnifier today?
    - Are there any other assistive technologies that you use?
       - If the participant has low vision, they may require captions which needs to be turned on in advanced settings
-
 - **I'm going to send you a link in the chat that I would like for you to open.** [Link](https://www.figma.com/proto/QIMsAdHJjctTKDM1I34uXV/Medallions---Baseline-Prototype?page-id=2%3A2&node-id=2185-38626&node-type=frame&viewport=12548%2C5040%2C0.3&t=ql7d2qYUg3eKaxGb-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2185%3A38626&show-proto-sidebar=1)
-
 - **Okay, now I'm going to ask you to share your screen in Zoom** so that we can look at the prototype together and then we'll begin.
    - Zoom screensharing on desktop: Locate green Share Screen button on the bottom tool pane.
    - Zoom screensharing on mobile: Locate Share button in bottom tool panel (it's scrollable and they may need to scroll to see button if off screen), then hit "Start broadcast".
@@ -49,7 +45,6 @@ Before we start, I have a few things that I want to go over with you:
    - Backup plan if they cannot figure out how to share screen:
       - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and
         then I'm going to have you "Drive". You can tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
-
 - (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
@@ -67,44 +62,47 @@ Before we look at the website, let’s start with a few warm-up questions.
 -	If yes, how did you find out?
 -	If no, skip to question 3.
 3.	Would this be something you’d be interested in applying for? 
-- Yes or no, ask for the user to elaborate further. 
+- Yes or no, ask for the user to elaborate further.
 ## First Task: [Cemetery applicant] - X minutes
-- Step 1: You are Alex Wilson, a funeral home employee working for Abraham Lincoln Cemetery. You want a medallion sent to you to place on a deceased Veteran’s headstone. You will complete the application from start to finish for the medallion. 
-- Step 2: After, you are Sammy Beagles, a cemetery official who will review and sign a second form confirming information is correct.
+- Step 1: You are Alex Wilson, a funeral home employee working for Wilson & Wilson. You want a medallion sent to you to place on a deceased Veteran’s headstone. You will complete the application from start to finish for the medallion. 
+- Step 2: You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct.
 ### Things to watch for:
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
 - Introduction: Does the participant read every section?
 - Whole application: Does the participant feel they’d want to use the Need help guidance at any point?
-- Applicant information: Does the participant read the hint text “Check the email is correct before continuing. The secondary form will be sent to this address.” for the cemetery email address?
--Address validation: Does the participant understand what to do next with standard address validation and not being able to verify an address? 
--Veteran service periods: Can the participant navigate adding, cancelling, editing, deleting service periods?
--Burial information: Is the wording for the questions in this section clear and easily understandable?
-- Memorial items: Does the participant click on the learn more about types of sizes links, and feel this is adequate in terms of user experience?
-- Memorial items: For shipping information, does the user understand if they select yes, the medallion will be shipped to their address?
-- Confirmation: Does the user understand what will happen next in the application process and to look for an email?
-- VANotify emails: Are next steps clear to the cemetery participant with what to expect and do next before and after submission?
-- Intro secondary form: How does the participant feel about having to create an account? 
-- Confirmation secondary form: Does the user quickly sign or thoroughly review the accordions and guiding text?
-- VANotify emails: Is the information sufficient for the Medallion recipient with what they should do and expect next?
-## Second Task: [Family member applicant] - X minutes
-- Step 1: You are Alex Wilson, a family member of the deceased Veteran. You live out of country but want to send the medallion to your brother to place on the Veteran’s headstone. You will complete the application from start to finish.
-### Things to watch for:
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-- Introduction: Does the participant read every section?
-- Whole application: Does the participant feel they’d want to use the Need help guidance at any point?
+- Multiple sections: Does the participant read the hint text “Check the email is correct before continuing..” and understand the importance of why?
 - Address validation: Does the participant understand what to do next with standard address validation and not being able to verify an address? 
 - Veteran service periods: Can the participant navigate adding, cancelling, editing, deleting service periods?
 - Burial information: Is the wording for the questions in this section clear and easily understandable?
-- Burial information: Does the participant read carefully for cemetery email address, “Check the email is correct before continuing. You must enter the cemetery’s email address. A secondary form required to sign will be sent to this address.”?
+- Burial information: Does the applicant understand the cemetery will be signing a second form?
 - Memorial items: Does the participant click on the learn more about types of sizes links, and feel this is adequate in terms of user experience?
-- Memorial items: For shipping information, does the user understand if they select yes, the medallion will be shipped to their address?
+- Memorial items: For shipping information, does the user understand they should have it sent to their address as they are receiving it?
+- Supporting documents: Does the user spend time to read the supporting documents page?
 - Confirmation: Does the user understand what will happen next in the application process and to look for an email?
-- VANotify emails: Are next steps clear to a family member applicant for what to expect next after the cemetery official submits the secondary form?
+- VANotify emails: Are next steps clear to the applicant with what to expect and do next before and after submission?
+We'll now go to Step 2 where you are the cemetery official signing the second form. I will now mention the scenario agin. You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct. At this point the cemetery will receive an email with a link to begin their application. 
+- (Switch to cemetery step) VANotify emails: Are next steps clear to the cemetery participant with what to expect and do next before and after submission?
+- Intro secondary form: How does the participant feel about having to create an account?
+  
+## Second Task: [Family member applicant] - X minutes
+- Step 1: You are Alex Wilson, a family member of the deceased Veteran. You live out of country but want to send the medallion to your brother to place on the Veteran’s headstone. You will complete the application from start to finish.
+- Step 2: You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct.
+### Things to watch for:
+- Introduction: Does the participant read every section?
+- Whole application: Does the participant feel they’d want to use the Need help guidance at any point?
+- Multiple sections: Does the participant read the hint text “Check the email is correct before continuing..” and understand the importance of why?
+- Address validation: Does the participant understand what to do next with standard address validation and not being able to verify an address? 
+- Veteran service periods: Can the participant navigate adding, cancelling, editing, deleting service periods?
+- Burial information: Is the wording for the questions in this section clear and easily understandable?
+- Burial information: Does the applicant understand the cemetery will be signing a second form?
+- Memorial items: Does the participant click on the learn more about types of sizes links, and feel this is adequate in terms of user experience?
+- Memorial items: For shipping information, does the user understand to select no, since they aren't receiving the medallion?
+- Supporting documents: Does the user spend time to read the supporting documents page?
+- Confirmation: Does the user understand what will happen next in the application process and to look for an email?
+- VANotify emails: Are next steps clear to the applicant with what to expect and do next before and after submission?
+We'll now go to Step 2 where you are the cemetery official signing the second form. I will now mention the scenario agin. You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct. At this point the cemetery will receive an email with a link to begin their application. 
+- (Switch to cemetery step) VANotify emails: Are next steps clear to the cemetery participant with what to expect and do next before and after submission?
+- Intro secondary form: How does the participant feel about having to create an account?
+  
 ## Post-Task Interview - X minutes
 - Question 1: What did you think of the application process overall? 
 - Question 2: On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, how would you rate the application process for Medallions you just experienced?
