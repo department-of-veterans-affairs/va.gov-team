@@ -153,3 +153,33 @@ def get_email_and_icn_with_lighthouse_upload_id(lighthouse_upload_id)
   }
 end
 ```
+
+## Get Evidence Failure Remediation Info for Contact Center with Lighthouse Upload UUID
+```rb
+def remediation_info(lighthouse_upload_id)
+  upload = AppealSubmissionUpload.find_by(lighthouse_upload_id:)
+  appeal_submission = upload.appeal_submission
+  user_uuid = appeal_submission.user_uuid
+
+  # Same as get_mpi_profile_with_user_uuid method
+  mpi_service = MPI::Service.new 
+  idme_profile = mpi_service.find_profile_by_identifier(identifier: user_uuid, identifier_type: 'idme')&.profile
+  logingov_profile = mpi_service.find_profile_by_identifier(identifier: user_uuid, identifier_type: 'logingov')&.profile
+  mpi_profile = idme_profile || logingov_profile
+
+  form_attachment = FormAttachment.find_by(guid: upload.decision_review_evidence_attachment_guid)
+  raw_filename = JSON.parse(form_attachment.file_data)['filename']
+
+  left = raw_filename[0, 3]
+  mid = raw_filename[3, raw_filename.length - 9].gsub(/[^_-]/, '*')
+  right = raw_filename[raw_filename.length - 6, raw_filename.length]
+
+  {
+    icn: mpi_profile.icn,
+    form_type: appeal_submission.type_of_appeal,
+    upload_timestamp: form_attachment.created_at,
+    filename: [left, mid, right].join(""),
+    raw_filename:
+  }
+end
+```
