@@ -97,8 +97,8 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
       -  Waiting on stakeholder or SME
       -  Waiting on a decision or review by OCTO or VBA
       -  Missing or incomplete artifacts required to complete work
-  -  **Ready** - issues have been refined, have next steps and assignees, and is ready to begin work on
-  -  **In Progress** - work that is actively being worked on
+  -  **Ready** - issues have been refined, have next steps and assignees, and is ready to begin work on. It's ok if some work has been done already, by your discipline or another disclipine. Tickets here are what you are going to tackle next.
+  -  **In Progress** - your current workload, things that you are actively focused on in the current week or two.
   -  **Validate** - once CAIA work is complete on an issue, the person responsible for it at that stage should fill out the custom fields and move the ticket to validate. Naomi will close and track the ticket in the capacity spreadsheet. Make a note in the ticket for any cases where a product or page is published but needs additional review to ensure there are no bugs, stakeholder changes, or followup from the product team/OCTO.
  -  **Closed** - work completed for this issue. Updates are live, the product has launched, or feedback or deliverables have been provided to the team.
   - **OCTO Audits** - tickets created by OCTO leadership - usually audit work
