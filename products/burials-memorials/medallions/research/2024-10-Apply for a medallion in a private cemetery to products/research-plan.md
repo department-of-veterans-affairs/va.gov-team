@@ -202,8 +202,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - Note-takers: Perigean 
 - Observers (limiting 3-4 of the following people per session):  
 - Sathish Kadiresan (sathish.kadiresan@va.gov) 
-- Michelle Dieudonne Yenyo (dieudonneyenyo_michelle@bah.com) 
-- Kelby Stewart (stewart_kelby@bah.com)
-- Jessica Downs-Bowen (Downs-Bowen_Jessica@bah.com)
+- Michelle Dieudonne Yenyo (Michelle.DieudonneYenyo@va.gov) 
+- Kelby Stewart (Kelby.Stewart@va.gov)
+- Jessica Downs-Bowen (Jessica.Downs-Bowen@va.gov)
 - Ginger Wilson (ginger.wilson@va.gov)
 - TBD
