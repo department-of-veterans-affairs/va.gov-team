@@ -25,9 +25,9 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - XX% (XX of XXX) R&S pages have a 75% or higher "good" score
-  - XX% (XX of XXX) R&S pages have a 51% - 74% "good" score
-  - XX% (XX of XXX) R&S pages have a 50% or lower "good" score
+  - 45% (57 of 127) R&S pages have a 75% or higher "good" score
+  - 22% (28 of 127) R&S pages have a 51% - 74% "good" score
+  - 33% (42 of 127) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:*
 
@@ -64,10 +64,10 @@ All pages have ratings of 2 or below.
 5. [How to access my HealtheVet on VA.gov](https://www.va.gov/resources/how-to-access-my-healthevet-on-vagov/) (25% good out of 124 total responses)
    
 ## Analysis
-[Resources and support ratings spreadsheet]
-- This month R&S met our goal of 75% or higher "good" ratings, with a XX% "good" average rating.
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7BEC747BDB-A9A2-4722-9973-534B33684EAD%7D&file=Resources%20and%20support%20ratings%20tracking%20September%202024.xlsx&action=default&mobileredirect=true)
+- This month R&S didn't meet our goal of 75% or higher "good" ratings, with a 65% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process.
 - Performance isn't as high when broken down to individual pages:
-  - XX% of pages are scoring at 90% or higher "good"
-  - XX% of pages are meeting our goal of 75% or higher "good," while XX% of pages are scoring 70% or higher
-  - XX% of pages are scoring at less than 50% "good," with XX% scoring at less than 10% "good" 
+  - 20% of pages are scoring at 90% or higher "good"
+  - 45% of pages are meeting our goal of 75% or higher "good," while 48% of pages are scoring 70% or higher
+  - 28% of pages are scoring at less than 50% "good," with 6% scoring at less than 10% "good" 
 - 
