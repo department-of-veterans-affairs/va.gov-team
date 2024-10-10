@@ -16,7 +16,7 @@ This document is for our design team to communicate field rules.
   - [School fields](#school-fields)
   - [Health facility](#health-facility)
   - [State of property](#state-of-property)
-  - [Veteran Readiness and Employment (VR&E) information](#veteran-readiness-and-employment-vr&e-information)
+  - [Veteran Readiness and Employment (VR&E) information](#veteran-readiness-and-employment-vre-information)
   - [Contact options](#contact-options)
   - [Gender](#gender)
   - [DoD/EDIPI number](#dodedipi-number)
