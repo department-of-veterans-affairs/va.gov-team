@@ -3,9 +3,11 @@ Tickets [#117](https://github.com/department-of-veterans-affairs/tmf-auth-exp-de
 [#127](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/127)
 
 ## Table of Contents
-- [General overview and initial changes](#changes-needed)
+- [General overview and initial changes](#overview)
 - [Option 1](#option-1)
 - [Option 2](#option-2)
+
+## Overview
 
 Currently, users are able to edit and update information within the same Review page section.
 
@@ -134,6 +136,78 @@ goForward={
    [Line 31](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-117-spike-review-page-edit-functionality/src/platform/forms-system/src/js/components/FormNavButtons.jsx#L31)
    
 `buttonText={sessionStorage.review ? 'Save & Return' : 'Continue'}`
+
+
+## Option 2
+Setting query string "review" in URL & adding conditional Save & Return button
+
+[Branch](https://github.com/department-of-veterans-affairs/vets-website/tree/bp-121-spike-review-edit-flow-query)
+
+### Steps
+
+1) `platform/forms-system/src/js/review/ReviewCollapsibleChapter`
+In `handleEdit` function [Line 35](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/review/ReviewCollapsibleChapter.jsx#L35), add functionality to add a query string to the URL such as `review=true` and take the user to the relevant form page.
+
+```javascript
+ handleEdit(path) {
+   const basePath = window.location.pathname
+     .split('/')
+     .slice(2, 4)
+     .join('/');
+   this.goToPath(`/${basePath}/${path}?review=true`);
+ }
+```
+
+2) `platform/forms-system/src/js/containers/FormPage`
+   a) Line [253](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/containers/FormPage.jsx#L253) Under `onContinue` function, 
+Add function `returnToReviewPage`, which takes the user back to the review page after they edited the relevant form section and remove the `review` query string from URL.
+```javascript
+ returnToReviewPage = () => {
+   const isReviewTrue = this.isReview();
+
+
+   if (isReviewTrue) {
+     const basePath = window.location.pathname
+       .split('/')
+       .slice(2, 4)
+       .join('/');
+     this.goToPath(`/${basePath}/review-and-submit`);
+
+
+     const url = new URL(window.location);
+     url.searchParams.delete('review');
+   }
+ };
+```
+
+b) [Line 89](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/containers/FormPage.jsx#L89) → Add `isReview` function that checks if there is a review query string and if it is equal to true
+```javascript
+ isReview = () => {
+   const urlParams = new URLSearchParams(window.location.search);
+   return urlParams.get('review') === 'true';
+ };
+```
+
+c)  [Line 411](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/containers/FormPage.jsx#L411)
+Add conditional in the `goForward` prop in the `NavButtons` component stating that if `isReview` is true, then run the function `returnToReviewPage`. Otherwise, use the `onContinue` function
+```javascript
+ goForward={
+                 this.isReview() ? this.returnToReviewPage : this.onContinue
+               }
+```
+
+d) [Line 414](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/containers/FormPage.jsx#L411) Pass a new prop `isReview={this.isReview()`  in the `NavButtons` component 
+
+3) `platform/forms-system/src/js/components/FormNavButtons`
+   [Line 31](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/components/FormNavButtons.jsx#L31)
+   Pass `isReview` prop in. 
+   Add conditional in the `buttonText` prop in the `FormNavButtons` component, stating if `isReview` prop is true then the button text should be “Save & Return”. Otherwise, it will be “Continue”
+
+
+
+
+
+   
 
 
 
