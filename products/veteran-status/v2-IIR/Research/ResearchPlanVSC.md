@@ -11,7 +11,7 @@
 
 This research supports the OCTO priority:
 
-- 1.3**:** All new products have a faster transaction time than those they replaced.
+- 1.3: All new products have a faster transaction time than those they replaced.
 - 2.2: Our platforms measure and improve the satisfaction of their internal users.
 
 **Veteran Journey**
