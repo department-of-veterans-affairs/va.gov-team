@@ -123,7 +123,7 @@
     - 🟦 [Create Sequence Diagram for CC Referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93897)
         - Added after Sprint Planning
     - **Appts Team (Simi) is handling this one**
-        - 🟫 [SPIKE: Can we use the Search Providers Appts in EPS to show scheduled appt as an upcoming appt in the Appts app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93946)
+        - ✔️ 🟫 [SPIKE: Can we use the Search Providers Appts in EPS to show scheduled appt as an upcoming appt in the Appts app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93946)
 - **Check in with staff after checking in**
     - ✔️ 🟥 [Edit presentation slides for meeting with Shane next week](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94295)
         - Added on 10/3 as a result of the IPT meeting
