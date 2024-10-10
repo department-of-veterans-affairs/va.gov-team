@@ -67,7 +67,6 @@ Document how styling and layouts are handled in the project.
 -   **Styling Frameworks & Preprocessors**:
 -   `SCSS` / `SASS`
 -   `Styled Components`
--   `Tailwind CSS` / `Bootstrap`
 
 ### Build Tools & Package Managers  
 List the tools used to build and package the front-end code.
