@@ -28,8 +28,9 @@ In general, when we refer to the submitter, this can be a Veteran, a family memb
 ## Authentication required
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Education benefits and work study`|Authentication always required|Topic = `Veteran Readiness and Employment (Chapter 31)|
+|Category = `Education benefits and work study`|Authentication always required|Topic = `Veteran Readiness and Employment (Chapter 31)`|
 |Category = `Debt for benefit overpayments and health care copay bills`|Authentication always required||
+|Category = `Benefits issues outside the U.S.`|Authentication always required|Topic = `Disability compensation`|
 |Who is your question about? = `Myself`|Authentication always required||
 |Who is your question about? = `Someone else`|Authentication always required||
 
