@@ -1,5 +1,40 @@
 # CIE SPRINT GOALS (aka SPRINKLES) 
-🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM 🟫 APPT TEAM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
+🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ⬛ VAHB 🟧 VeText 🟫 Appts ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over ⏱️ Dependency
+
+<details>
+<summary>SPRINT 19 - 10/30/2024-11/12/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 19 - 10/30/2024-11/12/2024
+- **Production Support**
+    - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
+    - **Move to New AWS Instance**
+      - TBD
+- **Community Care Direct Scheduling**
+    - **Sprint Goal is to understand how to get referral data from Palantir**
+    - **END OF THE YEAR DEADLINE**
+   
+- **OH Travel**
+    - **Sprint goal is to have this ready for internal testing**
+    - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
+        - FYI We are waiting on this VeText ticket before we pilot
+- **Travel Claims for Past Appts**
+  - **Sprint goal is to finish this by the end of the year**
+  - **END OF THE YEAR DEADLINE**
+
+- **VAHB: Medication Wording**
+    - ⬛ [Update Medication Wording for Appointments | In Person & Community Care & Phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
+- **VAHB: Pre-Check-in**
+)
+- **Check in with staff after checking in**
+
+- **Research Cards & Their Headers**
+
+- **Edit existing content on a resources and support page from Check in**
+    - TBD
+- **Tech Debt & Analytics**
+    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
+    - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
+</details>
 
 <details>
 <summary>SPRINT 18 - 10/16/2024-10/29/2024 FUTURE TENTATIVE</summary>
@@ -60,14 +95,14 @@
       - ✔️ 🟨 [[DevOps] Investigate whether to remove DevOps configuration for CHIP DNS names in `fwdproxy`](https://github.com/department-of-veterans-affairs/checkin-devops/issues/372)
       - ✔️ 🟨 [[DevOps] Do all alarm messages link to the playbook?](https://github.com/department-of-veterans-affairs/checkin-devops/issues/392)
 - **OH Travel**
-    - ❗ 🟦 G&K - [[BE] [OH] update travel claims client to use a different client id for OH claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93074)
+    - ✔️ ❗ 🟦 G&K - [[BE] [OH] update travel claims client to use a different client id for OH claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93074)
     - ❗ 🟦 G&K - [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
     - ❗ 🟦 G&K - [[BE] [OH] update travel claims status check worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93077)
     - ❗ 🟦 G&K - [[BE] [OH] update travel claims submission worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93076)
     - ❗ 🟦 G&K - [[BE] [OH] Add client_number_oh to config](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93078)
-    - ❗ 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
+    - ✔️ ❗ 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
     - ❗ 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
-    - ❗ 🟩 Schedule Privacy, security, infrastructure readiness review [instructions](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html) [artifact](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1979)
+    - ✔️ ❗ 🟩 Schedule Privacy, security, infrastructure readiness review [instructions](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html) [artifact](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1979)
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
     - 🟥 [[Design] Wireframe for when when the selected provider doesn't have their time slots open to EPS/WellHive](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93373)
@@ -78,13 +113,13 @@
     - 🟩 [[FE] Create flow pattern structure for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)
     - 🟩 [[FE] Referral Review - update design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
     - **Write query to fetch referrals**
-        - 🟦 LEE - [SPIKE: Identify shared, restricted folder to store data in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93888)
-        - 🟦 LEE - [SPIKE: Identify deleting referral information we no longer need.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93889)    
-        - 🟦 LEE - [SPIKE: Identify What Referral Data we Need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93900)
+        - ✔️ 🟦 LEE - [SPIKE: Identify shared, restricted folder to store data in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93888)
+        - ✔️ 🟦 LEE - [SPIKE: Identify deleting referral information we no longer need.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93889)    
+        - ✔️ 🟦 LEE - [SPIKE: Identify What Referral Data we Need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93900)
     - **Appts Team (Simi) is handling this one**
         - 🟫 [SPIKE: Can we use the Search Providers Appts in EPS to show scheduled appt as an upcoming appt in the Appts app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93946)
 - **Check in with staff after checking in**
-    - 🟥 [Edit presentation slides for meeting with Shane next week](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94295)
+    - ✔️ 🟥 [Edit presentation slides for meeting with Shane next week](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94295)
         - Added on 10/3 as a result of the IPT meeting
     - ✔️ 🟥 [[Research] Finish IPT presentation](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=81758430)
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
@@ -99,9 +134,9 @@
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93424)
 - **Tech Debt**
     - ✔️ 🟥 [[Design] Update eCheck-in BT pages with community care content change](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92895)
-    - 🟩 [Update Spanish Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93590)
-    - 🟩 [Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93422)
-    - 🟩 [Use the New DS Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883)    
+    - ✔️ 🟩 [Update Spanish Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93590)
+    - ✔️ 🟩 [Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93422)
+    - ✔️ 🟩 [Use the New DS Action Link Component ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92883)    
 
 ## SPRINT 16 - 9/18/2024-10/1/2024
 - **Production Support**
