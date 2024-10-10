@@ -3,6 +3,7 @@
 - [Overview](#overview)
 - [Problems to solve](#problems-to-solve)
 - [Scope](#scope)
+- [Design](#design)
 - [Measuring success](#measuring-success)
 - [Questions](#questions)
 - [Relevant resources](#relevant-resources)
@@ -64,6 +65,9 @@ The following changes will be part of a future iteration phase
   - new content types (i.e., image list)
   - template improvements (i.e. checklist, multi FAQs)
 - Adjust search for Resources and Support searching only
+
+## Design
+[Figma](https://www.figma.com/design/cg8VNnxFOxw7lb10FVHpi5/VA-Resources-support-template?node-id=198-5737&node-type=section&t=G7yoxBvukRBiwCbI-0)
 
 ## Questions 
 > Related - [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1/decision-log.md)
