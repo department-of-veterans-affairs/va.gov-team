@@ -18,13 +18,13 @@
     - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
         - FYI We are waiting on this VeText ticket before we pilot
 - **Travel Claims for Past Appts**
-  - **Sprint goal is to finish this by the end of the year**
-  - **END OF THE YEAR DEADLINE**
+    - **Sprint goal is to finish this by the end of the year**
+    - **END OF THE YEAR DEADLINE**
 
 - **VAHB: Medication Wording**
-    - ⬛ [Update Medication Wording for Appointments | In Person & Community Care & Phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
+    - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764)
 - **VAHB: Pre-Check-in**
-)
+
 - **Check in with staff after checking in**
 
 - **Research Cards & Their Headers**
@@ -65,8 +65,9 @@
     - 🟩 [[FE] - Create mock api for travel claim status endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **VAHB: Medication Wording**
-    - JUAN - [Update Medication Wording for Appointments | In Person & Community Care & Phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
+    - ⬛ [Update Medication Wording for Appointments | VA Video](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9763)    
 - **VAHB: Pre-Check-in**
+    - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
     - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
     - 🟥 [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
 - **Check in with staff after checking in**
