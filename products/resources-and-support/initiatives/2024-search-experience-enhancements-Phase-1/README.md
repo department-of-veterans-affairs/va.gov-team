@@ -4,6 +4,7 @@
 - [Problems to solve](#problems-to-solve)
 - [Scope](#scope)
 - [Measuring success](#measuring-success)
+- [Questions](#questions)
 - [Relevant resources](#relevant-resources)
 - [Launch planning](#launch-planning) 
   - [Collaboration cycle](#collaboration-cycle)
@@ -41,8 +42,6 @@ This anticipated growth accelerated the prioritization of this effort to ensure 
 - Options for topic tags are not comprehensive
 - Methods to organize content and support findability rely on manual editorial processes, making them inconsistent and/or absent.
 
-
-
 ## Scope
 ### In scope
 Phase 1 focus
@@ -65,6 +64,29 @@ The following changes will be part of a future iteration phase
   - new content types (i.e., image list)
   - template improvements (i.e. checklist, multi FAQs)
 - Adjust search for Resources and Support searching only
+
+## Questions 
+> Related - [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1/decision-log.md)
+
+### Editorial experience
+- user permissions vs Section/Organization
+
+### Tag categories
+- Which categories will be available?
+- Which categories will be required in Drupal UX?
+- Which categories will be available in front end for filtering?
+
+### UX behavior
+- If multiple filters are used in search, do they expand or reduce search results (i.e., when (hypothetical) tags for both `Careers and Employment` and `Education and training` are chosen, do search results include articles tagged with either cateogry or only those which are tagged with both?)
+
+### Governance
+- What criteria determines the topics/categories available for browsing via the landing page? What is the maximum number of categories to be displayed? 
+- What criteria determines links displayed as Featured?
+  - Do featued links direct to individual pages or pre-filtered search results?
+- What criteria determines which topics are available for filtering? What is the maximum number of filters?
+- What criteria is used to determiine when a new topic can be added?
+- Can topics be deprecated? If so, by what criteria?
+- 
 
 ## Measuring Success
 [TBD]
