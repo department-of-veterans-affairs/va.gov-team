@@ -16,6 +16,7 @@ This document is for our design team to communicate field rules.
   - [School fields](#school-fields)
   - [Health facility](#health-facility)
   - [State of property](#state-of-property)
+  - [Veteran Readiness and Employment (VR&E) information](#veteran-readiness-and-employment-vr&e-information)
   - [Contact options](#contact-options)
   - [Gender](#gender)
   - [DoD/EDIPI number](#dodedipi-number)
@@ -124,8 +125,16 @@ Please review [Location of residence and postal code](https://github.com/departm
 |Category = `Housing assistance and home loans` and topic = all other topics|Don't include `State of property`||
 |All other categories|Don't include `State of property`||
 
-## Contact options
+## Veteran Readiness and Employment (VR&E) information
+|If|Then|Unless|
+|:--|:--|:--|
+|Category = `Veteran Readiness and Employment`|Require `Have you/they ever applied for Veteran Readiness and Employment benefits and services?`||
+|Category = `Education benefits and work study` and topic = `Veteran Readiness and Employment (Chapter 31)`|Require `Have you/they ever applied for Veteran Readiness and Employment benefits and services?`||
+|Category = `Education benefits and work study` and topic ≠ `Veteran Readiness and Employment (Chapter 31)`|Don't include VR&E pages||
+|All other categories|Don't include VR&E pages||
+|If 'Yes' to `Have you/they ever applied for Veteran Readiness and Employment benefits and services?`|Require `Veteran Readiness and Employment counselor`|
 
+## Contact options
 Business lines allow varying contact options.
 
 Review [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) documentation for rules.
