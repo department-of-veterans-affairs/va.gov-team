@@ -35,7 +35,10 @@ We believe this pattern should consist of:
     - directions to update profile data 
 
 ### Finalized Pattern
+
 We have completed our [research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md) and finalized our recommendations for this pattern which can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/patterns/prefill/Help-users-to-Know-when-their-information-is-prefilled.md).
+
+
 --- 
 
 ## Launch Planning
