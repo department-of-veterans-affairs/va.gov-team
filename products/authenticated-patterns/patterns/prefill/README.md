@@ -34,21 +34,23 @@ We believe this pattern should consist of:
     - input styling
     - directions to update profile data 
 
+### Finalized Pattern
+We have completed our [research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-07-Research%20Initiative-One-Prefill/Prefill%20Research%20Report%2009_2024.md) and finalized our recommendations for this pattern which can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/patterns/prefill/Help-users-to-Know-when-their-information-is-prefilled.md).
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
 **Staging review will be required for adoption into VADS.**
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90181)
 
 ### Timeline 
 
 #### Initiative Launch Dates
-- *Target Launch Date*
+- *Target Submission Date*
   - Oct. 1, 2024
-- *Actual Launch Date* 
-  - tbd
+- *Actual Submission Date* 
+  - Sept 27. 24
 
 ---
    
