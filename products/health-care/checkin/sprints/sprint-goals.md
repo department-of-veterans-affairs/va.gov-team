@@ -6,7 +6,7 @@
 
 ## SPRINT 19 - 10/30/2024-11/12/2024
 - **Production Support**
-    - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
+    - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94768)
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
@@ -49,16 +49,19 @@
     - **END OF THE YEAR DEADLINE**
     - 🟥 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)
     - 🟥 [Draft non-PHI email notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94170)
-    - 🟦 [Create Sequence Diagram for CC Referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93897)
-    - 🟦 [Figure out what query we need to write in Planatir to export the least amount of referral data.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)
+    - 🟥 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
+    - 🟥 [Submit CAIA ticket to update CC page on unauth site for direct scheduling cc appts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94444)
+    - 🟥 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94713)
+    - 🟦 [Write CDW Query and Determine the Palantir Process to Create the API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)
     - 🟦 [Parse the exported raw data into usable data to store in restricted shared folder (TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93892)
     - 🟦 [Implement deleting referral information we no longer need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93890)   -     
 - **OH Travel**
     - **Sprint goal is to have this ready for internal testing**
     - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
+    - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
+        - FYI We are waiting on this VeText ticket before we pilot
 - **Travel Claims for Past Appts**
-  - **Sprint goal is to finish this by the end of the year**
-  - **END OF THE YEAR DEADLINE**
+  - **Sprint goal is to finish this by THE END OF THE YEAR**  
     - 🟩 [[FE] - Create mock api for travel claim status endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **VAHB: Medication Wording**
@@ -116,6 +119,8 @@
         - ✔️ 🟦 LEE - [SPIKE: Identify shared, restricted folder to store data in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93888)
         - ✔️ 🟦 LEE - [SPIKE: Identify deleting referral information we no longer need.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93889)    
         - ✔️ 🟦 LEE - [SPIKE: Identify What Referral Data we Need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93900)
+    - 🟦 [Create Sequence Diagram for CC Referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93897)
+        - Added after Sprint Planning
     - **Appts Team (Simi) is handling this one**
         - 🟫 [SPIKE: Can we use the Search Providers Appts in EPS to show scheduled appt as an upcoming appt in the Appts app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93946)
 - **Check in with staff after checking in**
@@ -128,6 +133,8 @@
     - Schedule Design Intent (PO Sync occurred on 9/25)
     - Schedule Research Repo tickets for unmoderated study to Shane for review 
     - ✔️ Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well) (Scheduled for Thursday)
+- **VAHB: Medication Wording**
+    - ⬛ [Update Medication Wording for Appointments | In Person & Community Care & Phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Synthesize unmoderated card sort data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93642)
 - **CIE Analytics**
