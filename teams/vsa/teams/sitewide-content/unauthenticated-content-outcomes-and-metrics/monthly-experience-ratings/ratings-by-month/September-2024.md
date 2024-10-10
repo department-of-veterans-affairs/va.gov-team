@@ -1,8 +1,7 @@
-# This page is in draft
 # Unauthenticated page experience ratings: September 2024
 ## Related overall scores
 - **Total customer satsifaction score:** 58.3 (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall XXXX out of XXXXX total)
+- **Average resources and support good/bad experience score:** 65% "good" experience rating overall 7,309 out of 11,160 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -65,9 +64,10 @@ All pages have ratings of 2 or below.
    
 ## Analysis
 [Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7BEC747BDB-A9A2-4722-9973-534B33684EAD%7D&file=Resources%20and%20support%20ratings%20tracking%20September%202024.xlsx&action=default&mobileredirect=true)
-- This month R&S didn't meet our goal of 75% or higher "good" ratings, with a 65% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process.
+- This month R&S didn't meet our goal of 75% or higher "good" ratings, with a 65% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process but we will continue to monitor it.
 - Performance isn't as high when broken down to individual pages:
   - 20% of pages are scoring at 90% or higher "good"
   - 45% of pages are meeting our goal of 75% or higher "good," while 48% of pages are scoring 70% or higher
   - 28% of pages are scoring at less than 50% "good," with 6% scoring at less than 10% "good" 
-- 
+- Sign-in related content continues to have the highest volume of total responses with "bad" ratings. The total number of responses have gone up for these pages since we launched the sign-in transition campaign.
+- The PACT Act page continues to be the page with the most responses and has a very high number of "good" responses. 
