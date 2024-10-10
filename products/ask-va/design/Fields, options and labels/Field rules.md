@@ -5,6 +5,7 @@ Last updated by @tygindraux: October 10, 2024
 This document is for our design team to communicate field rules.
 
 **Jump to:**
+  - [Authentication required](#authentication-required)
   - [Pronouns](#pronouns)
   - [Preferred name](#preferred-name)
   - [Social security number or service number](#social-security-number-or-service-number)
@@ -23,6 +24,14 @@ This document is for our design team to communicate field rules.
   - [Reason you contacted us](#reason-you-contacted-us)
 
 In general, when we refer to the submitter, this can be a Veteran, a family member, or another third party.
+
+## Authentication required
+|If|Then|Unless|
+|:--|:--|:--|
+|Category = `Education benefits and work study`|Authentication always required|Topic = `Veteran Readiness and Employment (Chapter 31)|
+|Category = `Debt for benefit overpayments and health care copay bills`|Authentication always required||
+|Who is your question about? = `Myself`|Authentication always required||
+|Who is your question about? = `Someone else`|Authentication always required||
 
 ## Pronouns
 |If|Then|Unless|
