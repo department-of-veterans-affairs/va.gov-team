@@ -1,4 +1,11 @@
 ## TOPIC: Investigate how the edit flow might change from the Review Page to return to previous corresponding form sections
+Tickets [#117](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/117)
+[#127](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/127)
+
+## Table of Contents
+- [General overview and initial changes](#changes-needed)
+- [Option 1](#option-1)
+- [Option 2](#option-2)
 
 Currently, users are able to edit and update information within the same Review page section.
 
@@ -71,3 +78,62 @@ New proposed user flow --> When we click “edit,” we want to return to that s
 ### Other resources
 - [Slack thread](https://dsva.slack.com/archives/C5HP4GN3F/p1727724185315819) talking about a similar functionality. 10-10 team has a custom review component that when clicking edit sends the user back to the form page with a query param of review=true.
 On their custom page, look for that search param and if true, tell it to go back to /review-and-submit else go to the next desired path.
+
+
+# Possible options on how to implement 
+
+## Option 1
+Using sessionStorage and adding a conditional Save & Return button 
+
+[Branch](https://github.com/department-of-veterans-affairs/vets-website/tree/bp-117-spike-review-page-edit-functionality)
+
+### Steps
+`platform/forms-system/src/js/review/ReviewCollapsibleChapter`
+1) In the `handleEdit` function [line 35](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-117-spike-review-page-edit-functionality/src/platform/forms-system/src/js/review/ReviewCollapsibleChapter.jsx#L35), add functionality to set a `sessionStorage` item called `review` to `true` and take the user to the relevant form page.
+
+```javascript
+window.sessionStorage.setItem('review', 'true');   
+const basePath = window.location.pathname
+     .split('/')
+     .slice(2, 4)
+     .join('/');
+this.goToPath(`/${basePath}/${path}`);
+```
+
+2) `platform/forms-system/src/js/containers/FormPage`
+ a) Under `onContinue` function, add function `returnToReviewPage`, which takes the user back to the review page after they edited the relevant form section and remove the `review` sessionStorage item. [Line 248](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-117-spike-review-page-edit-functionality/src/platform/forms-system/src/js/containers/FormPage.jsx#L248)
+
+```javascript
+returnToReviewPage = isReview => {    
+    if (isReview) {
+        const basePath = window.location.pathname
+            .split('/')
+            .slice(2, 4)
+            .join('/');
+        this.goToPath(`/${basePath}/review-and-submit`);
+        sessionStorage.removeItem('review');
+    } 
+};
+```
+b) In the `render`, set `const isReview = sessionStorage.getItem('review') === 'true';`
+[Line 270](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-117-spike-review-page-edit-functionality/src/platform/forms-system/src/js/containers/FormPage.jsx#L270)
+
+c) Add conditional in the `goForward` prop in the `NavButtons` component stating that if `isReview` is true, then run the function `returnToReviewPage(isReview)`. Otherwise, use the `onContinue` function
+[Line 404](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-117-spike-review-page-edit-functionality/src/platform/forms-system/src/js/containers/FormPage.jsx#L404)
+
+```javascript
+goForward={
+    isReview
+        ? () => this.returnToReviewPage(isReview)
+        : this.onContinue
+}
+```
+
+3) `platform/forms-system/src/js/components/FormNavButtons`
+   Add conditional in the `buttonText` prop in the `FormNavButtons` component, stating if there is a sessionStorage item of `review` then the button text should be “Save & Return”. Otherwise, it will be “Continue”.
+   [Line 31](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-117-spike-review-page-edit-functionality/src/platform/forms-system/src/js/components/FormNavButtons.jsx#L31)
+   
+`buttonText={sessionStorage.review ? 'Save & Return' : 'Continue'}`
+
+
+
