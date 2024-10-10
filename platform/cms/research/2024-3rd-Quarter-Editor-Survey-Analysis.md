@@ -269,10 +269,6 @@ The open text fields were implemented to provide editors with the opportunity to
 
 **Affinity Map Legend:**
 
-**Label**
-
-**Definition**
-
 [table]
 
 * * *
