@@ -80,13 +80,15 @@ The following changes will be part of a future iteration phase
 - If multiple filters are used in search, do they expand or reduce search results (i.e., when (hypothetical) tags for both `Careers and Employment` and `Education and training` are chosen, do search results include articles tagged with either cateogry or only those which are tagged with both?)
 
 ### Governance
-- What criteria determines the topics/categories available for browsing via the landing page? What is the maximum number of categories to be displayed? 
+- What criteria determines the topics/categories available for browsing via the landing page?
+  - What is the maximum number of categories to be displayed? 
 - What criteria determines links displayed as Featured?
   - Do featued links direct to individual pages or pre-filtered search results?
-- What criteria determines which topics are available for filtering? What is the maximum number of filters?
-- What criteria is used to determiine when a new topic can be added?
+- What criteria determines which topics are available for filtering?
+  - What is the maximum number of filters?
+- What criteria is used to determine when a new topic can be added?
 - Can topics be deprecated? If so, by what criteria?
-- 
+
 
 ## Measuring Success
 [TBD]
