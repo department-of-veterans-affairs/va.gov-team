@@ -39,12 +39,13 @@
   
 
 ## <a name="flows"></a>User/page flows <br>
-Proposed modified flow. The same proposed flow applies to both forms, the proposed supporting page is outlined in pink.
+Proposed modified flow. The same changes flow apply to both forms, the proposed supporting page is outlined in pink.
 <img width="1297" alt="school admins 6" src="https://github.com/user-attachments/assets/e07de145-9c1c-4c82-b317-592172fa7287">
 
 
 ## <a name="map"></a>Page structure<br>
 With an additional supporting page of information and instructions for each form, the sitemap would look like this. The level 2 pages are the proposed additional pages.
+
 <img width="488" alt="school admins 7" src="https://github.com/user-attachments/assets/35581fe8-355e-430a-99ab-39973e47887c">
 
 
@@ -62,12 +63,13 @@ Refer to the design system's guidance for [page titles and section titles](https
 - **H1:** Report 85/15 Rule enrollment ratios
 - **URL:** va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/
 
+
   
 **35% form, supporting page** - New, proposed by CAIA
 - **H1:** 35% exemption from 85/15 reporting
 - **URL:** va.gov/school-administrators/35-percent-exemption/
 
-**85/15 form, form intro page** - New, intro page of form
+**35% form, form intro page** - New, intro page of form
 - **H1:** Request 35% exemption from 85/15 reporting
 - **URL:** va.gov/school-administrators/35-percent-exemption/request-exemption/
   
@@ -76,6 +78,7 @@ Refer to the design system's guidance for [page titles and section titles](https
 *Note on Form Numbers: Veterans often know forms they use frequently by form number. So we often include the form number in H1s and URLs. If the form numbers are often referenced by this audience, the form number could be appended to the end of each URL.  For example "/submit-85-15-rule-reports-form-22-10205/".*
 
 *Note on Process: **Once the team has finalized H1s and URLs please let CAIA know.** We'll do a final check to confirmation that they don't create confusion or conflicts with features in the Veteran and Family Member spaces.*
+
 
 
 ## <a name="Entry Points"></a>Entry Points<br>
