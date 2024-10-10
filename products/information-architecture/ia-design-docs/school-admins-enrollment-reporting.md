@@ -45,8 +45,9 @@ Proposed modified flow. The same changes flow apply to both forms, the proposed 
 
 ## <a name="map"></a>Page structure<br>
 With an additional supporting page of information and instructions for each form, the sitemap would look like this. The level 2 pages are the proposed additional pages.
+<img width="904" alt="school admins 8" src="https://github.com/user-attachments/assets/00a4a58d-73d2-45ce-8068-1a2c83f25996">
 
-<img width="488" alt="school admins 7" src="https://github.com/user-attachments/assets/35581fe8-355e-430a-99ab-39973e47887c">
+
 
 
 ## <a name="H1 and URL"></a>H1 and URL<br>
