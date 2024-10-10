@@ -12,7 +12,7 @@ VA.gov is introducing new functionality that allows Veterans to track the status
 
 Before we start, I wanted to go over a few details:
 
-- **This session should take 45 minutes of your time or less.** It involves me asking you to complete a few small tasks. Because I want to make sure we don’t keep you beyond 30 minutes, I may prompt you with the next question to keep things moving.
+- **This session should take 30 minutes of your time or less.** It involves me asking you to complete a few small tasks. Because I want to make sure we don’t keep you beyond 30 minutes, I may prompt you with the next question to keep things moving.
 - **I will ask that you share your screen for part of our session today, in order to see that everything is working correctly** While we won’t be recording this session, we will be able to see some of your real information today. This may include some healthcare information and some claims information. However, you have the choice to stop screen sharing during any of the tasks, and start again when you feel comfortable.
 - **For us to test things fully, you will need to have submitted a form within the last 60 days.** If you have not, then we cannot proceed. Please let me know if you have or not, or if you are planning on completing the form
 
