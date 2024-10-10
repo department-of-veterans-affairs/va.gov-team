@@ -30,11 +30,11 @@ This document details how to create, update, and close a CAIA ticket, ensuring a
 # Ticket Types
 There are 2 types of tickets that CAIA will use in its pipeline:
 
-- [CAIA Intake Request]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)).  This is the intake template for teams to request collaboration with CAIA. During refinement, CAIA will attach new child tickets to capture work needed from each CAIA discipline.
-- CAIA child ticket: This is the issue created by CAIA, based on an intake or stakeholder request, that outlines the specific work needed from the assignee.
+- [CAIA Intake Request]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)).  This is the intake template for teams to request collaboration with CAIA. During refinement, CAIA will attach new work tickets to capture individual support tasks needed from each CAIA discipline.
+- CAIA work ticket: This is the issue created by CAIA, based on an intake or stakeholder request, that outlines the specific work needed from the assignee. We have also called these "child" or "task" tickets.
 
 These two types can be view separately on our board: 
-- Child tickets: [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1) and [Task Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/74)
+- Work tickets: [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1) and [Task Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/74)
 - Intakes and Epics: [High Level Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75) and [High Level Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/72)
 
 When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
@@ -43,7 +43,7 @@ When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds t
 The title section contains the name of the ticket with the following naming convention:
 
 - [CAIA intake] is used to distinguish the ticket type
-- Child tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning
+- Work tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning
 
 # Custom Field Section
 This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. This includes:
@@ -85,12 +85,12 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
 ## Intake status:
   -  **New Intakes** - this is where all new work comes into the board. When you create a ticket and add the sitewide-caia label, it will automatically appear here.
   -  **Intakes in Refinement** - Intakes that have been viewed by the Delivery Lead/Product Manager, but need more followup (feedback from OCTO, additional information from the requesting team, etc.)
-  -  **Intakes in Progress** - Intakes where work has started and child tickets are moving through the swimlanes. 
+  -  **Intakes in Progress** - Intakes where work has started and work tickets are moving through the swimlanes. 
   -  **Backlog/Blocked Intakes** - Intakes where work has stopped or been deprioritized.
-  -  **Epics** - used to group tickets related to the same product. Epics themself do not usually contain any direct work, rather they are a bucket for related intakes or child tickets where individual work is being tracked.
-  -  **Closed** - all the child tickets related to the intake are complete, so the intake has been closed.
+  -  **Epics** - used to group tickets related to the same product. Epics themself do not usually contain any direct work, rather they are a bucket for related intakes or work tickets where individual work is being tracked.
+  -  **Closed** - all the work tickets related to the intake are complete, so the intake has been closed.
 
-## Child ticket status:
+## Work ticket status:
   -  **Icebox** - issues that have been deprioritized with no clear timeline or next steps
   -  **Backlog** - issues that are not currently being worked on, but are still relevant and should be pulled in in the foreseeable future
   -  **Blocked** - issues where work has been stopped for more than a sprint due to a blocker external to CAIA:
