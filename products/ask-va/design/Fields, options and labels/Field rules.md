@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: October 3, 2024
+Last updated by @tygindraux: October 10, 2024
 
 This document is for our design team to communicate field rules.
 
@@ -11,6 +11,7 @@ This document is for our design team to communicate field rules.
   - [Date of birth](#date-of-birth)
   - [Branch of service](#branch-of-service)
   - [Roles](#roles)
+  - [Attachments](#attachments)
   - [Location and postal code](#location-and-postal-code)
   - [School fields](#school-fields)
   - [Health facility](#health-facility)
@@ -83,6 +84,12 @@ If education question, roles list includes:
 - Work study site supervisor
 - Other
 
+## Attachments
+
+On the 'Your question' page, we may or may not include the option to add an attachment.
+
+Review [attachments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Attachments.md) documentation for rules.
+
 ## Location and postal code
 Please review [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for these rules.
 
@@ -118,7 +125,10 @@ Please review [Location of residence and postal code](https://github.com/departm
 |All other categories|Don't include `State of property`||
 
 ## Contact options
-- Review [Contact options by business line](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) for details.
+
+Business lines allow varying contact options.
+
+Review [contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) documentation for rules.
 
 ## Gender
 This field has been removed from Ask VA. In June 2024, the Change Control Board voted to remove it.
