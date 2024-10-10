@@ -68,11 +68,14 @@ We believe this pattern may consist of:
 
 - Kickoff ticket
 
+### Finalized Pattern
+We have completed our research study and finalized our recommendations for this pattern which can be found (here)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/patterns/update-prefilled-information/Help-users-to-Update-prefilled-information.md]
+
 ### Timeline 
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - Oct. 15, 2024
+  - Nov. 19, 2024
 - *Actual Launch Date* 
   - tbd
 
