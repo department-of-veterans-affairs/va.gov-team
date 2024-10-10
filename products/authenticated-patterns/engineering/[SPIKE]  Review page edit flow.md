@@ -146,6 +146,7 @@ Setting query string "review" in URL & adding conditional Save & Return button
 ### Steps
 
 1) `platform/forms-system/src/js/review/ReviewCollapsibleChapter`
+   
 In `handleEdit` function [Line 35](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/review/ReviewCollapsibleChapter.jsx#L35), add functionality to add a query string to the URL such as `review=true` and take the user to the relevant form page.
 
 ```javascript
@@ -159,6 +160,7 @@ In `handleEdit` function [Line 35](https://github.com/department-of-veterans-aff
 ```
 
 2) `platform/forms-system/src/js/containers/FormPage`
+   
    a) Line [253](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/containers/FormPage.jsx#L253) Under `onContinue` function, 
 Add function `returnToReviewPage`, which takes the user back to the review page after they edited the relevant form section and remove the `review` query string from URL.
 ```javascript
@@ -198,14 +200,15 @@ Add conditional in the `goForward` prop in the `NavButtons` component stating th
 
 d) [Line 414](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/containers/FormPage.jsx#L411) Pass a new prop `isReview={this.isReview()`  in the `NavButtons` component 
 
+
 3) `platform/forms-system/src/js/components/FormNavButtons`
-   [Line 31](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/components/FormNavButtons.jsx#L31)
-   Pass `isReview` prop in. 
-   Add conditional in the `buttonText` prop in the `FormNavButtons` component, stating if `isReview` prop is true then the button text should be “Save & Return”. Otherwise, it will be “Continue”
+[Line 31](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-121-spike-review-edit-flow-query/src/platform/forms-system/src/js/components/FormNavButtons.jsx#L31)
+Pass `isReview` prop in. 
+Add conditional in the `buttonText` prop in the `FormNavButtons` component, stating if `isReview` prop is true then the button text should be “Save & Return”. Otherwise, it will be “Continue”
 
+## Screenshot
 
-
-
+<img width="468" alt="Screenshot 2024-10-10 at 2 03 47 PM" src="https://github.com/user-attachments/assets/1dd55030-91fd-498d-8d78-e5a32776287c">
 
    
 
