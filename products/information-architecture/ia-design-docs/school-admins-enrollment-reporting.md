@@ -1,4 +1,4 @@
-# IA Design for school administrators' forms for enrollment reporting (form 22-10215) and excemption (form 22-10216) 
+# IA Design for school admins' enrollment reporting (form 22-10215 and 22-10216) 
 
 **STATUS: [In progress]**
 
