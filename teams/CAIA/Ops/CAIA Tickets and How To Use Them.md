@@ -93,7 +93,7 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
 ## Work ticket status:
   -  **Icebox** - issues that have been deprioritized with no clear timeline or next steps
   -  **Backlog** - issues that are not currently being worked on, but are still relevant and should be pulled in in the foreseeable future
-  -  **Blocked** - issues where work has been stopped for more than a sprint due to a blocker external to CAIA:
+  -  **Blocked** - issues where work has been stopped for more than a a week or two due to a blocker external to CAIA:
       -  Waiting on stakeholder or SME
       -  Waiting on a decision or review by OCTO or VBA
       -  Missing or incomplete artifacts required to complete work
