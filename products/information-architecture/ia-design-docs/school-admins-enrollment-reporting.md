@@ -57,7 +57,7 @@ OR
 
 *Note on Terminology: I'm leaning toward the term '85/15 Rule' rather than '85% Rule' as the plain language description of this form, for two reasons. '85/15 Rule' is more frequently used, both around the web and in the VA's own supporting documentation. So this is the better option for SEO. And in web searches of VA topics, the string '85%' sometimes describe an individual veteran's disability determinations. It would be good to avoid confusion between education admin terminology and descriptions of individual veterans' disability status, where possible.*
 
-*Note on Form Numbers: Veterans are often familiar with the form numbers for forms they use frequently, so we often include the form number in H1s and URLs. If the form numbers are often referenced by this audience, the form number could be appended to the end of each URL.  For example "/submit-85-15-rule-reports-form-22-10205/".*
+*Note on Form Numbers: Veterans often know forms they use frequently by form number. So we often include the form number in H1s and URLs. If the form numbers are often referenced by this audience, the form number could be appended to the end of each URL.  For example "/submit-85-15-rule-reports-form-22-10205/".*
 
 *Note on Process: **Once the team has finalized H1s and URLs please let CAIA know.** We'll do a final check to confirmation that they don't create confusion or conflicts with features in the Veteran and Family Member spaces.*
 
