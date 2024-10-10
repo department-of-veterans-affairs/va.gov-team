@@ -52,18 +52,14 @@ Specify the frameworks and libraries that the front-end relies on.
 -   `React`
 
 -   **Libraries**:
--   `Redux` / `Vuex` / `MobX`
--   `Axios` / `Fetch`
--   `Styled-components` / `Sass`
--   `D3.js` / `Chart.js`
+-   `Redux` 
+-   `Sass`
 
 ### State Management  
 Outline the state management approach or libraries used in the application.
 
 -   **State Management**:
 -   `Redux`
--   `Vuex`
--   `Context API`
 
 ### Styling  
 Document how styling and layouts are handled in the project.
@@ -97,7 +93,7 @@ Outline the testing framework and libraries used to ensure front-end functionali
 ### Development Tools  
 Provide details on the development tools or IDE extensions used.
 
--   **Code Editor**: `VSCode`, `WebStorm`
+-   **Code Editor**: `VSCode`,
 -   **Linting Tools**: `ESLint`, `Prettier`
 -   **Debugging Tools**: `React Developer Tools`, `Redux DevTools`
 
