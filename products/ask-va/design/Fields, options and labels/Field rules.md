@@ -12,6 +12,7 @@ This document is for our design team to communicate field rules.
   - [Date of birth](#date-of-birth)
   - [Branch of service](#branch-of-service)
   - [Roles](#roles)
+  - [Subject field](#subject-field)
   - [Attachments](#attachments)
   - [Location and postal code](#location-and-postal-code)
   - [School fields](#school-fields)
@@ -97,6 +98,15 @@ If education question, roles list includes:
 - Work study site supervisor
 - Other
 
+## Subject field
+
+On the 'Your question' page, we include a subject field if it's an education inquiry.
+
+|If|Then|Unless|
+|:--|:--|:--|
+|Category = `Education benefits and work study`|Require `Subject` in addition to `Your question` field|Topic = `Veteran Readiness and Employment (Chapter 31)`|
+|All other categories|Don't include `Subject` field|||
+
 ## Attachments
 
 On the 'Your question' page, we may or may not include the option to add an attachment.
@@ -109,11 +119,11 @@ Please review [Location of residence and postal code](https://github.com/departm
 ## School fields
 |If|Then|Unless|
 |:--|:--|:--|
-|Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school` or `State of residency`||
-|Category = `Education benefits and work study` and relationship to the Veteran = Business|Require `School facility` or `State of facility` depending on role*||
+|Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school` or `State of residency`|Topic = `Veteran Readiness and Employment (Chapter 31)`|
+|Category = `Education benefits and work study` and relationship to the Veteran = Business|Require `School facility` or `State of facility` depending on role*|Topic = `Veteran Readiness and Employment (Chapter 31)`|
 |All other categories|Don't include school fields||
 
-- *For business inquiries, whether to require `School facility` or `State of facility` depends on which role the submitter chooses.
+*For business inquiries, whether to require `School facility` or `State of facility` depends on which role the submitter chooses.
   - If: Role = ON-THE-JOB TRAINING OR APPRENTICESHIP SUPERVISOR or SCHOOL CERTIFYING OFFICIAL (SCO)
     - Then: Require `School facility` (If they choose, 'facility not listed' then ask for 'State of school')
   - If: Role = VA EMPLOYEE or WORK STUDY SITE SUPERVISOR or OTHER
