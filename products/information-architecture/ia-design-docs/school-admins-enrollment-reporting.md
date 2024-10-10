@@ -23,6 +23,8 @@
 
 **On this page:**
 - [Location of forms](#location-of-forms)
+- [User/page flows](#user-page-flows)
+- [Page structure](#page-structure)
 - [H1 and URL](#H1-and-URL)
 - [Entry Points](#entry-points)
 - [Header and footer](#header-and-footer)
@@ -33,6 +35,16 @@
 ## <a name="location-of-forms"></a>Location of forms<br>
 
 - The 85/15 reporting form and the 35% exemption form should live under the [Resources for schools](https://www.va.gov/school-administrators/) page. 
+- Consider creating a supporting page for program information and submission process instructions, rather than using the About page for this purpose. The primary function of an About page is as a search tool, rather than an information source. It should provide access to download the pdf form and provide access to the online version, but it is not intended to be a place for instructions around applying or provide program information.
+<img width="1297" alt="school admins 6" src="https://github.com/user-attachments/assets/1dbb3be5-09d6-4680-beab-16a69af1de31">
+
+## <a name="flows"></a>User/page flows <br>
+Proposed modified flow. The same proposed flow applies to both forms, the proposed supporting page is outlined in pink.
+<img width="1297" alt="school admins 6" src="https://github.com/user-attachments/assets/e07de145-9c1c-4c82-b317-592172fa7287">
+
+## <a name="map"></a>Page structure<br>
+With an additional supporting page of information and instructions for each form, the sitemap would look like this. The level 2 pages are the proposed additional pages.
+<img width="488" alt="school admins 7" src="https://github.com/user-attachments/assets/35581fe8-355e-430a-99ab-39973e47887c">
 
 
 ## <a name="H1 and URL"></a>H1 and URL<br>
@@ -41,20 +53,23 @@ Refer to the design system's guidance for [page titles and section titles](https
 
 **Some suggestions:**
 
-**85/15 form**
-- **H1:** Report 85/15 Rule enrollment ratio
-- **URL:** va.gov/school-administrators/report-85-15-rule-enrollment-ratio/
+**85/15 form, supporting page** - New, proposed by CAIA
+- **H1:** 85/15 Rule enrollment ratios
+- **URL:** va.gov/school-administrators/85-15-rule-enrollment-ratios/
 
-OR
-
-- **H1:** Submit 85/15 Rule reports
-- **URL:** va.gov/school-administrators/submit-85-15-rule-reports/
+**85/15 form, form intro page** - New, intro page of form
+- **H1:** Report 85/15 Rule enrollment ratios
+- **URL:** va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/
 
   
-**35% form**
-- **H1:** Request 35% exemption from 85/15 reporting
-- **URL:** va.gov/school-administrators/request-35-percent-exemption/
+**35% form, supporting page** - New, proposed by CAIA
+- **H1:** 35% exemption from 85/15 reporting
+- **URL:** va.gov/school-administrators/35-percent-exemption/
 
+**85/15 form, form intro page** - New, intro page of form
+- **H1:** Request 35% exemption from 85/15 reporting
+- **URL:** va.gov/school-administrators/35-percent-exemption/request-exemption/
+  
 *Note on Terminology: I'm leaning toward the term '85/15 Rule' rather than '85% Rule' as the plain language description of this form, for two reasons. '85/15 Rule' is more frequently used, both around the web and in the VA's own supporting documentation. So this is the better option for SEO. And in web searches of VA topics, the string '85%' sometimes describe an individual veteran's disability determinations. It would be good to avoid confusion between education admin terminology and descriptions of individual veterans' disability status, where possible.*
 
 *Note on Form Numbers: Veterans often know forms they use frequently by form number. So we often include the form number in H1s and URLs. If the form numbers are often referenced by this audience, the form number could be appended to the end of each URL.  For example "/submit-85-15-rule-reports-form-22-10205/".*
