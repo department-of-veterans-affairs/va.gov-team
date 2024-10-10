@@ -84,10 +84,9 @@ List the tools used to build and package the front-end code.
 Outline the testing framework and libraries used to ensure front-end functionality.
 
 -   **Testing Frameworks**:
--   `Jest`
--   `Cypress`
--   `Testing Library`
--   `Mocha` / `Chai`
+-   `Cypress`: We use this for e2e tests
+-   `Testing Library`: We use this for testing React components
+-   `Mocha` / `Chai`: Mocha is our unit test runner and Chai is the assertion library
 
 ### Development Tools  
 Provide details on the development tools or IDE extensions used.
