@@ -6,6 +6,7 @@ Tickets [#117](https://github.com/department-of-veterans-affairs/tmf-auth-exp-de
 - [General overview and initial changes](#overview)
 - [Option 1](#option-1)
 - [Option 2](#option-2)
+- [Decision](#decision)
 
 ## Overview
 
@@ -212,5 +213,18 @@ Add conditional in the `buttonText` prop in the `FormNavButtons` component, stat
 
 ## Decision
 
+### Option 1
+Pros 
+- sessionStorage is straightforward and doesn't clutter the URL
+- Doesn't require modifying the URL, which adds more work including additional string parsing
+
+### Option 2
+Pros 
+- User can revisit the page since the state is n the URL
+- User can see that they're in review mode in the URL
+
+Cons
+- Slightly more complex to implement since it involves URL manipulation and parsing.
+- Cluttered URL
 
 
