@@ -2,7 +2,7 @@
 
 **Background**
 
-- **Problem:** The current Veteran Status Card (VSC) experience is inconsistent and difficult to use across web and mobile platforms based on an internal audit. Unclear usage and difficulty to access both can behindering Veterans from utilizing its benefits.
+- **Problem:** While the Veteran Status Card (VSC) experience on va.gov and mobile app platforms offer distinct advantages tailored to each device, there is an opportunity to enhance the overall consistency and user experience by aligning design elements and interactions. This would create a more cohesive and intuitive experience for users across both platforms.
 - **Location:** The VSC is found within a Veteran's profile on VA.gov, in the authenticated experience.
 - **Familiarity:** Veterans may be aware of the VSC but may not be familiar with its current functionality or how to access it.
 - **Product Iteration:** This is an iteration on an existing product, aiming to improve accessibility and usability.
@@ -21,12 +21,12 @@ The VSC plays a role in the Veteran's journey by allowing them to easily access 
 **Research Goals**
 
 1. **Understand the challenges and opportunities** associated with verifying Veteran status for both Veterans and businesses.
-2. **Evaluate the usability and effectiveness** of the current VSC design and functionality.
+2. **Evaluate the usability and effectiveness** of the current VSC design and functionality (across va.gov and then mobile app).
 3. **Identify opportunities for improvement** in the verification process and VSC design to enhance user experience and streamline the process.
 
 **Outcome**
 
-This research will inform the redesign of the VSC and the development of a streamlined verification process. It will create a user-centered approach to improve accessibility, user flow, and efficiency for both Veterans and businesses. Learnings from this research will be used to develop a revised prototype for further testing.
+This research will inform the redesign of the VSC and the development of a streamlined verification process. It will create a user-centered approach to improve accessibility, user flow, and efficiency for both Veterans and businesses. Learnings from this research will be used to iterate on designs for implementation.
 
 **Research Questions**
 
@@ -38,12 +38,14 @@ This research will inform the redesign of the VSC and the development of a strea
 
 **Part 2: VSC Redesign**
 
-- **RQ4:** What are the usability issues and pain points associated with the current Veteran Status Card?
+- **RQ4:** What are the usability issues and pain points associated with the current Veteran Status Card? (across va.gov and the mobile app)
 - **RQ5:** How do Veterans perceive the redesigned Veteran Status Card in terms of ease of use, functionality, and overall satisfaction?
 
-**Hypothesis**
+**Hypotheses**
 
-We hypothesize that Veterans encounter challenges in the current verification process and VSC experience. By understanding these challenges and conducting usability testing, we can identify opportunities to improve accessibility, create a more intuitive design, and streamline the verification process for both Veterans and businesses.
+1. It is hard for users to verify they are Veterans to non-VA entities.
+2. Va.gov users cannot access their status card as easily as mobile app users.
+3. All users would benefit from card designs that are familiar and “consistent with [the public’s] favorite consumer websites and mobile apps.” 
 
 **Methodology**
 
