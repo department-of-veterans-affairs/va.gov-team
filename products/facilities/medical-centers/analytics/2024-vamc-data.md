@@ -7,6 +7,7 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 - [User statistics](#user-statistics)
 - [Top health services at system level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#top-health-services-at-system-level)
 - [Top health services at facility level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#top-health-services-at-facility-level)
+- [Manage your health online](#manage-your-health-online)
 - [Unique pageviews on required health service pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-required-health-service-pages)
 - [Unique pageviews on other specified pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-other-specified-pages)
 
@@ -134,6 +135,20 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 |	Patient advocates	|	 26,416 	|	 34,244 	|	 26,813 	|	 25,766 	|	27,324	|	28, 205	|	26,745	| 33,198 | 32,300 | 28,880
 |	Returning service member care	|	 888 	|	 1,801 	|	 1,410 	|	 932 	|	1,058	|	1,033	|	612	| 1,796 | 865 | 1,422
 |	Women Veteran care	|	 4,025 	|	 6,272 	|	 5,382 	|	 5,711 	|	5,768	|	5,702	|	4,863	| 6,867 | 5,621 | 8,042
+
+### Manage your health online 
+> assessing links on links in the box on health system main page
+
+| Link| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Refill and track your prescriptions|||||||||| 
+| Send a secure message to your health care team |||||||||| 
+| Schedule and manage health appointments |||||||||| 
+| Download your VA medical records (Blue Button) |||||||||| 
+| View your lab and test results |||||||||| 
+| Order hearing aid batteries and accessories ||||||||||
+| Download VA Health Chat |||||||||| 
+| Connect to VA care |||||||||| 
 
 ### Unique pageviews on other specified pages
 
