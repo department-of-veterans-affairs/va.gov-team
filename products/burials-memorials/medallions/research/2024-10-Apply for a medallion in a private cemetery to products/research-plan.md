@@ -206,4 +206,5 @@ Please list the people who will be serving in each role. **Include the primary p
 - Kelby Stewart (Kelby.Stewart@va.gov)
 - Jessica Downs-Bowen (Jessica.Downs-Bowen@va.gov)
 - Ginger Wilson (ginger.wilson@va.gov)
-- TBD
+- William Rodgers (William.Rodgers2@va.gov)
+- Jamie Klenetsky Fay (Jamie.KlenetskyFay@va.gov)(only for the Wednesday at 11:30 a.m. session)
