@@ -24,7 +24,28 @@ Our initial survey's total response rate fell below our target of 20%. We will u
 Response Rate by Product/User Section
 -------------------------------------
 
-[table]
+|              |        |
+|-----------------------|--------|
+| **VAMC**       |        |
+| Participants          | 42     |
+| Total                 | 397    |
+| Response              | 11%    |
+| **Vet Centers**       |        |
+| Participants          | 25     |
+| Total                 | 543    |
+| Response              | 4.6%   |
+| **VBA Regional**      |        |
+| Participants          | 5      |
+| Total                 | 8      |
+| Response              | 62.5%  |
+| **Resources/Support** |        |
+| Participants          | 8      |
+| Total                 | 12     |
+| Response              | 67%    |
+| **Outreach**          |        |
+| Participants          | 7      |
+| Total                 | 26     |
+| Response              | 26.92% |
 
 The largest group to respond was the VAMC editors, while the largest group contacted is the Vet Center editors. We saw a strong response from the VBA Regional editors followed by Resources and Support editors.
 
@@ -38,9 +59,10 @@ Background Information
 #### **Question:**  
 How long have you been in your current position?
 
-![Duration in Current Position.png](./editor survey results_files/Duration in Current Position.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > Duration in Current Position.png")
-
-[table]
+|           | < 1yr  | 1-3 yrs | > 3 yrs |
+|-----------|--------|---------|---------|
+| CY2024 Q3 | 32     | 32      | 15      |
+|           | 40.51% | 40.51%  | 18.99%  |
 
 The data shows a 50/50 split, with the majority of editors falling into two periods: Less than 1 year and One to three years. This data provides us with insights into the editor comfort level within Drupal-CMS. It suggests that the majority of editors are relatively new to the system. We believe that editors who have been working in the system for a longer period may have a higher level of confidence in using Drupal-CMS.
 
@@ -48,12 +70,13 @@ The data shows a 50/50 split, with the majority of editors falling into two peri
 
 #### **Question:**  
 What percentage of your current position is writing and managing web content?  
+(0% = none at all and 100% the main function of your job)
 
-#### (0% = none at all and 100% the main function of your job)
 
-![Percentage of Current Position Creating Content.png](./editor survey results_files/Percentage of Current Position Creating Content.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > Percentage of Current Position Creating Content.png")
-
-[table]
+|           | 0%    | 10%    | 20%    | 30%    | 40-70% | 80-100% |
+|-----------|-------|--------|--------|--------|--------|---------|
+| CY2024 Q3 | 7     | 23     | 11     | 12     | 15     | 11      |
+|           | 8.86% | 29.11% | 13.92% | 15.19% | 18.99% | 13.92%  |
 
 Nearly half of all editors' current responsibilities involve writing and managing web content.
 
@@ -64,9 +87,11 @@ This data indicates that our editors are not only tasked with maintaining curren
 #### **Question:**  
 How often do you use the CMS?
 
-![CMS Frequency of Use.png](./editor survey results_files/CMS Frequency of Use.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Frequency of Use.png")
 
-[table]
+|           | Daily  | 1+/week | 1+/month | 1+/quarter | Other |
+|-----------|--------|---------|----------|------------|-------|
+| CY2024 Q3 | 17     | 20      | 24       | 13         | 4     |
+|           | 21.79% | 25.64%  | 30.77%   | 16.67%     | 5.13% |
 
 This data gives us a view into the frequency of use by editors. Nearly twenty-two percent of editors utilize Drupal-CMS on a daily basis, while just over 30% of editors use the system once a month. Additionally, 25% of editors use Drupal-CMS once or more a month.
 
@@ -78,9 +103,15 @@ General Experience
 #### **Question:**  
 What CMS product do you work on?
 
-![CMS Product Worked On.png](./editor survey results_files/CMS Product Worked On.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Product Worked On.png")
-
-[table]
+| CY2024 Q3 |                   |    |        |
+|-----------|-------------------|----|--------|
+|           | VAMC              | 42 | 53.16% |
+|           | Vet Center        | 26 | 32.91% |
+|           | Benefits Hub      | 4  | 5.06%  |
+|           | VBA Regional      | 5  | 6.33%  |
+|           | Outreach          | 26 | 32.91% |
+|           | Resources/Support | 9  | 11.39% |
+|           | Other             | 5  | 6.33%  |
 
 This data provides insights into the response rate by product, with each product being defined as the ‘area the editor works in’. The VAMC editors had the highest response rate, with over 50%, while both Outreach and Vet Center editors had a response rate of 32%. It's important to note that editors were able to select as many products as applied, and we received a total of 115 responses to this question.
 
@@ -89,9 +120,10 @@ This data provides insights into the response rate by product, with each product
 #### **Question:**  
 How satisfied are you with your overall experience with the CMS?
 
-![CMS Satisfaction - Overall.png](./editor survey results_files/CMS Satisfaction - Overall.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Satisfaction - Overall.png")
-
-[table]
+|           | Not at all | Dissatisfied | Neither | Satisfied | Completely Satisfied |
+|-----------|------------|--------------|---------|-----------|----------------------|
+| CY2024 Q3 | 7          | 8            | 21      | 34        | 9                    |
+|           | 8.86%      | 10.13%       | 26.58%  | 43.04%     | 11.39%               |
 
 The survey results indicate that more than half of the editors are satisfied with their experience using Drupal-CMS. Notably, there is a significant number of editors who fall into the "Neither" category, indicating that they are relatively neutral about their experience. It's important to note that the survey also included new editors with little to no experience using Drupal-CMS.
 
@@ -103,9 +135,10 @@ Using The Drupal-CMS
 #### **Question:**  
 I think the CMS is easy to use.
 
-![CMS Easy to Use.png](./editor survey results_files/CMS Easy to Use.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Easy to Use.png")
-
-[table]
+|           | Strongly Disagree | Disagree | Neither | Agree  | Strongly Agree |
+|-----------|-------------------|----------|---------|--------|----------------|
+| CY2024 Q3 | 7                 | 6        | 17      | 37     | 12             |
+|           | 8.86%             | 7.59%    | 21.52%  | 46.84% | 15.19%         |
 
 Nearly half of editors believe that the Drupal-CMS is easy to use, while almost 20% feel that the system is not as easy to use as hoped. Interestingly, 15% strongly agree that the system is simple to use.
 
@@ -114,9 +147,10 @@ Nearly half of editors believe that the Drupal-CMS is easy to use, while almost 
 #### **Question:**  
 I am able to find what I need quickly within the CMS.
 
-![CMS Easy to Locate.png](./editor survey results_files/CMS Easy to Locate.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Easy to Locate.png")
-
-[table]
+|           | Strongly Disagree | Disagree | Neither | Agree  | Strongly Agree |
+|-----------|-------------------|----------|---------|--------|----------------|
+| CY2024 Q3 | 4                 | 11       | 20      | 37     | 7              |
+|           | 5.06%             | 13.92%   | 25.32%  | 46.84% | 8.86%          |
 
 Around 55% of the surveyed editors expressed that they can efficiently locate the information they need within the Drupal-CMS. However, the analysis of the "Neither" grouping indicates a necessity for additional research into potential improvements.
 
@@ -125,9 +159,10 @@ Around 55% of the surveyed editors expressed that they can efficiently locate th
 #### **Question:**  
 It is easy to learn how to use the CMS.
 
-![CMS Easy to Learn.png](./editor survey results_files/CMS Easy to Learn.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Easy to Learn.png")
-
-[table]
+|           | Strongly Disagree | Disagree | Neither | Agree  | Strongly Agree |
+|-----------|-------------------|----------|---------|--------|----------------|
+| CY2024 Q3 | 5                 | 7        | 20      | 37     | 10             |
+|           | 6.33%             | 8.86%    | 25.32%  | 46.84% | 12.66%         |
 
 Most editors find the Drupal-CMS easy to learn and use, with a substantial number of editors expressing agreement with the system's simplicity. While only 15% consider the system to be less easy to use, it's crucial to identify their main challenges for future improvements.
 
@@ -139,9 +174,11 @@ Content Creation
 #### **Question:**  
 How familiar are you with best practices for creating accessible content for site visitors of all abilities (e.g., providing alt text on images, using headers, etc)?
 
-![CMS Best Practice Familiarity.png](./editor survey results_files/CMS Best Practice Familiarity.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Best Practice Familiarity.png")
+|           | Not all all | Somewhat | Very   |
+|-----------|-------------|----------|--------|
+| CY2024 Q3 | 9           | 39       | 31     |
+|           | 11.39%      | 49.37%   | 39.24% |
 
-[table]
 Approximately 40% of the surveyed editors feel confident about their familiarity with best practices for creating accessible content. However, almost 50% express a lack of confidence, indicating a need for further clarification in the areas in question or the necessity of clear guidelines.
 
 * * *
@@ -149,9 +186,10 @@ Approximately 40% of the surveyed editors feel confident about their familiarity
 #### **Question:**  
 The Drupal CMS makes it easy for me to create accessible content for site visitors.
 
-![CMS Easy to Create Plain Language.png](./editor survey results_files/CMS Easy to Create Plain Language.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Easy to Create Plain Language.png")
-
-[table]
+|           | Strongly Disagree | Disagree | Neither | Agree  | Strongly Agree |
+|-----------|-------------------|----------|---------|--------|----------------|
+| CY2024 Q3 | 8                 | 5        | 27      | 29     | 10             |
+|           | 10.13%            | 6.33%    | 34.18%  | 36.71% | 12.66%         |
 
 Editors are equally divided between feeling supported and unsupported in creating accessible content for site visitors. However, there is a slight edge in favor of editors feeling supported. Nonetheless, this split underscores the importance of gaining a better understanding of the guidance provided and maintaining ongoing support.
 
@@ -160,9 +198,10 @@ Editors are equally divided between feeling supported and unsupported in creatin
 #### **Question:**  
 How familiar are you with best practices for creating plain language content for site visitors?
 
-![Familiarity with Best Practices for creating content.png](./editor survey results_files/Familiarity with Best Practices for creating content.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > Familiarity with Best Practices for creating content.png")
-
-[table]
+|           | Not all all | Somewhat | Very   |
+|-----------|-------------|----------|--------|
+| CY2024 Q3 | 13          | 34       | 32     |
+|           | 16.46%      | 43.04%   | 40.51% |
 
 Nearly 84% of editors expressed feeling somewhat to very comfortable creating plain language content for site visitors, while only 16% indicated feeling uncomfortable. However, almost 43% of the supported editors believe they are not 100% comfortable with the content creation best practices.
 
@@ -171,22 +210,24 @@ Nearly 84% of editors expressed feeling somewhat to very comfortable creating pl
 #### **Question:**  
 The Drupal CMS makes it easy for me to create plain language content for site visitors.
 
-![Easy for me to create plain language content.png](./editor survey results_files/Easy for me to create plain language content.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > Easy for me to create plain language content.png")
-
-[table]
+|           | Strongly Disagree | Disagree | Neither | Agree  | Strongly Agree |
+|-----------|-------------------|----------|---------|--------|----------------|
+| CY2024 Q3 | 5                 | 5        | 24      | 31     | 14             |
+|           | 6.33%             | 6.33%    | 30.38%  | 39.24% | 17.72%         |
 
 Just over 55% of editors agree that the Drupal-CMS supports their efforts in creating plain language content for site visitors. However, almost 30% are not confident that the system supports their efforts, indicating a deeper need to understand the guidance being offered and how the product aligns with expectations for both the editor and OCTO.
 
 * * *
 
 #### **Question:**  
-How familiar are you with the [VA.gov](http://va.gov/) content style guide?
+How familiar are you with the VA.gov content style guide?
 
-![Familiarity with va.gov content creation.png](./editor survey results_files/Familiarity with va.gov content creation.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > Familiarity with va.gov content creation.png")
+|           | Not all all | Somewhat | Very   |
+|-----------|-------------|----------|--------|
+| CY2024 Q3 | 8           | 29       | 42     |
+|           | 10.13%      | 36.71%   | 53.16% |
 
-[table]
-
-The analysis of this data reveals the connection between editors and the [va.gov](http://va.gov/) content style guide. It shows that slightly more than half of the editors feel that they have a clear understanding of how to create [va.gov](http://va.gov/) content.
+The analysis of this data reveals the connection between editors and the va.gov content style guide. It shows that slightly more than half of the editors feel that they have a clear understanding of how to create va.gov content.
 
 * * *
 
@@ -196,9 +237,10 @@ The analysis of this data reveals the connection between editors and the [va.gov
 #### **Question:**  
 Have you ever contacted the help desk for support?
 
-![Contacted Help Desk before.png](./editor survey results_files/Contacted Help Desk before.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > Contacted Help Desk before.png")
-
-[table]
+|           | Yes    | No     |
+|-----------|--------|--------|
+| CY2024 Q3 | 49     | 30     |
+|           | 62.03% | 37.97% |
 
 Slightly over half of the editors had prior experience working with the Help Desk. This data indicates that close to 40% of our users have never needed to reach out to the Help Desk to address their challenges.
 
@@ -209,9 +251,11 @@ Further segmentation of the data is necessary to gain a deeper understanding of 
 #### **Question:**  
 Did the help desk respond as quickly as you expected?
 
-![Help Desk Responds Quickly.png](./editor survey results_files/Help Desk Responds Quickly.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > Help Desk Responds Quickly.png")
+|           | Yes    | No     |
+|-----------|--------|--------|
+| CY2024 Q3 | 44     | 5      |
+|           | 89.80% | 10.20% |
 
-[table]
 Based on the survey results, 89% of editors believe that the Help Desk support team responds quickly to their submitted inquiries. This indicates that the support provided by the Help Desk is considered sufficient at this time, and no additional resources are currently required.
 
 * * *
@@ -219,9 +263,10 @@ Based on the survey results, 89% of editors believe that the Help Desk support t
 #### **Question:**  
 Was the help desk able to help you resolve your problem?
 
-![Help Desk helps resolve my problems.png](./editor survey results_files/Help Desk helps resolve my problems.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > Help Desk helps resolve my problems.png")
-
-[table]
+|           | Yes    | No     |
+|-----------|--------|--------|
+| CY2024 Q3 | 41     | 7      |
+|           | 85.42% | 14.58% |
 
 This data pertains to the performance of the Help Desk support team. A significant 86% of respondents expressed that they were able to successfully address their challenges with the assistance of the Help Desk. However, 14% did not have a positive experience with the support they received, warranting further investigation into the specific challenges faced by editors in this group.
 
@@ -230,9 +275,10 @@ This data pertains to the performance of the Help Desk support team. A significa
 #### **Question:**  
 Have you ever used the CMS Knowledge Base?
 
-![CMS Knowledge Base prior experience.png](./editor survey results_files/CMS Knowledge Base prior experience.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Knowledge Base prior experience.png")
-
-[table]
+|           | Yes    | No     |
+|-----------|--------|--------|
+| CY2024 Q3 | 61     | 18     |
+|           | 77.22% | 22.78% |
 
 The data shows that over 75% of editors have accessed the Knowledge Base for various reasons. When considering the perspective of ‘ease-of-use’ or intuitiveness, it can be assumed that the Knowledge Base is being accessed by almost all editors, which is a significant point to consider.
 
@@ -241,9 +287,10 @@ The data shows that over 75% of editors have accessed the Knowledge Base for var
 #### **Question:**  
 Did you find the Knowledge Base helpful?
 
-[table]
-
-![CMS Knowledge Base is helpful.png](./editor survey results_files/CMS Knowledge Base is helpful.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Knowledge Base is helpful.png")
+|           | Yes    | No     |
+|-----------|--------|--------|
+| CY2024 Q3 | 48     | 13     |
+|           | 78.69% | 21.31% |
 
 It seems that 22% of editors do not find the Knowledge Base helpful, while 78% are satisfied with the level of support provided by the self-help guides. It will be important to inquire about what qualifies as ‘helpful’ to the editors in order to understand the expectations of the 22%.
 
@@ -252,9 +299,10 @@ It seems that 22% of editors do not find the Knowledge Base helpful, while 78% a
 #### **Question:**  
 Did you find the content in the Knowledge Base easy to understand?
 
-![CMS Knowledge Base content is easy to understand.png](./editor survey results_files/CMS Knowledge Base content is easy to understand.png "Platform CMS Team > Drupal-CMS Editor Survey Metrics > CMS Knowledge Base content is easy to understand.png")
-
-[table]
+|           | Yes    | No     |
+|-----------|--------|--------|
+| CY2024 Q3 | 47     | 13     |
+|           | 78.33% | 21.67% |
 
 Overall, editors find the content within the Knowledge Base easy to understand. However, it's important to note that 21% of editors responded with 'no.' Understanding their challenges will help us ensure that all Knowledge Base content is accessible for editors at all levels.
 
@@ -269,14 +317,37 @@ The open text fields were implemented to provide editors with the opportunity to
 
 **Affinity Map Legend:**
 
-[table]
+| Label          | Definition                                                             |
+|----------------|------------------------------------------------------------------------|
+| editor ability | Editor has requested additional features or abilities                  |
+| happy          | Editor has indicated a level of happiness or satisfaction              |
+| accessibility  | Editor is unable to access content; intuitive UX is in question        |
+| unpack         | Editor has responded with more than one point requiring a deeper dive  |
+| technical      | Editor has mentioned a technical bug, glitch or known engineering task |
+| none           | Editor has not provided any valuable or measurable feedback            |
 
 * * *
 
 #### **Question:**  
 What, if anything, could improve your satisfaction with the Drupal CMS?
 
-[table]
+| top-level      | # of instances | most common    | #  of instances |
+|----------------|----------------|----------------|-----------------|
+| editor ability | 12             | publish-speed  | 10              |
+| happy          | 4              | images         | 8               |
+| accessibility  | 3              | workflow       | 7               |
+| unpack         | 11             | customization  | 7               |
+| technical      | 7              | expectations   | 5               |
+| none           | 4              | knowledge base | 3               |
+
+| postive     | neutral   | negative      |
+|-------------|-----------|---------------|
+| translation | workflow  | publish-speed |
+| pleased     | share     | customization |
+|             | banners   | expectations  |
+|             | pdfs      | limited-ux    |
+|             | Help Desk | simplify      |
+|             |           | outdated      |
 
 **💬 Notable Quotes:**
 
@@ -295,7 +366,24 @@ What expectations does the Drupal CMS meet?
 
 **Affinity Mapping Results:**
 
-[table]
+| top-level      | # of instances | most common    | #  of instances |
+|----------------|----------------|----------------|-----------------|
+| happy          | 31             | satisfied      | 13              |
+| accessibility  | 1              | updates        | 10              |
+| unpack         | 11             | ease-of-use    | 9               |
+| technical      | 4              | unclear        | 9               |
+| none           | 6              | consistency    | 7               |
+
+| postive     | neutral         | negative      |
+|-------------|-----------------|---------------|
+| satisfied   | new-user        | unclear       |
+| ease-of-use | standardization | difficult     |
+| accesible   | consistency     | lowered       |
+| no-code     | informational   | unhappy       |
+| support     | clear           | clunky-cms    |
+|             | templates       | limitations   |
+|             | training        | publish speed |
+
 
 **💬 Notable Quotes:**
 
@@ -312,7 +400,22 @@ Do you have any thoughts or comments regarding your experience with the help des
 
 **Affinity Mapping Results:**
 
-[table]
+| top-level      | # of instances | most common     | #  of instances |
+|----------------|----------------|-----------------|-----------------|
+| happy          | 18             | satisfied       | 17              |
+| accessibility  | -              | timely-response | 7               |
+| unpack         | 8              | helpful         | 3               |
+| technical      | 1              | delayed response| 3               |
+| none           | 6              | unahppy         | 2               |
+
+| postive         | neutral         | negative      |
+|-----------------|-----------------|---------------|
+| satisfied       | content-updates | unclear       |
+| timely-response | Knowledge-Base  | difficult     |
+| helpful         | email thread    | lowered       |
+| efficient       | communication   | understaffed  |
+| supportive      |                 |               |
+
 
 **💬 Notable Quotes:**
 
@@ -332,7 +435,21 @@ Do you have any thoughts or comments regarding your experience with the CMS Know
 
 **Affinity Mapping Results:**
 
-[table]
+| top-level      | # of instances | most common       | #  of instances |
+|----------------|----------------|-------------------|-----------------|
+| happy          | 9              | satisfied         | 9               |
+| accessibility  | 8              | readibility       | 3               |
+| unpack         | 4              | trouble-navigating| 6               |
+| technical      | -              | works             | 4               |
+| none           | 7              | helpful           | 4               |
+
+| postive         | neutral         | negative          |
+|-----------------|-----------------|-------------------|
+| satisfied       | consistency     | readability       |
+| works           | video-upload    | trouble-navigating|
+| helpful         | image-upload    | unhelpful         |
+| training        | html-edit       | out-of-date       |
+| great resource  |                 | limited-search    |
 
 **💬 Notable Quotes:**
 
@@ -353,7 +470,25 @@ The feedback on the Knowledge Base is mixed, with some editors finding it helpfu
 
 **Affinity Mapping Results:**
 
-[table]
+| top-level      | # of instances | most common       | #  of instances |
+|----------------|----------------|-------------------|-----------------|
+| happy          | 5              | satisfied         | 9               |
+| accessibility  | 6              | publish-speed     | 3               |
+| unpack         | 9              | unhappy           | 6               |
+| technical      | 6              | ease-of-use       | 4               |
+| none           | 8              |                   |                 |
+
+| postive         | neutral         | negative         |
+|-----------------|-----------------|------------------|
+| supportive      | marketing       | overwhelmed      |
+| translation     | social-share    | skeptical        |
+| training        | wordpress       | cumbersome       |
+| appreciative    | contact-details | system-down      |
+| customer-service| facilities      | unaware          |
+| satisfied       | address-style   | out-of-date      |
+|                 | navigation      | inconsistent     |
+|                 | video-upload    | publish-speed    |
+
 
 **💬 Notable Quotes:**
 
