@@ -78,11 +78,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - **Memorial items:** For shipping information, does the user understand they should have it sent to their address as they are receiving it?
 - **Supporting documents:** Does the user spend time to read the supporting documents page?
 - **Confirmation:** Does the user understand what will happen next in the application process and to look for an email?
-- **VANotify emails:** Are next steps clear to the applicant with what to expect and do next before and after submission?
-We'll now go to Step 2 where you are the cemetery official signing the second form. I will now mention the scenario agin. You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct. At this point the cemetery will receive an email with a link to begin their application. 
-- **VANotify emails:** Are next steps clear to the cemetery participant with what to expect and do next before and after submission?
+- **Second form:** We'll now go to Step 2 where you are the cemetery official signing the second form. I will now mention the scenario agin. You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct. At this point the cemetery will receive an email with a link to begin their application. 
 - **Intro secondary form:** How does the participant feel about having to create an account?
-  
 ## Second Task: [Family member applicant] - X minutes
 - **Step 1:** You are Alex Wilson, a family member of the deceased Veteran. You live out of country but want to send the medallion to your brother to place on the Veteran’s headstone. You will complete the application from start to finish.
 - **Step 2:** You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct.
@@ -98,9 +95,7 @@ We'll now go to Step 2 where you are the cemetery official signing the second fo
 - **Memorial items:** For shipping information, does the user understand to select no, since they aren't receiving the medallion?
 - **Supporting documents:** Does the user spend time to read the supporting documents page?
 - **Confirmation:** Does the user understand what will happen next in the application process and to look for an email?
-- **VANotify emails:** Are next steps clear to the applicant with what to expect and do next before and after submission?
-We'll now go to Step 2 where you are the cemetery official signing the second form. I will now mention the scenario agin. You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct. At this point the cemetery will receive an email with a link to begin their application. 
-- **VANotify emails:** Are next steps clear to the cemetery participant with what to expect and do next before and after submission?
+- **Second form:** We'll now go to Step 2 where you are the cemetery official signing the second form. I will now mention the scenario agin. You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct. At this point the cemetery will receive an email with a link to begin their application. 
 - **Intro secondary form:** How does the participant feel about having to create an account?
 ## Post-Task Interview - X minutes
 - **Question 1:** What did you think of the application process overall? 
