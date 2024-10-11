@@ -164,7 +164,7 @@ Slack channel in dsva.slack.com: #ask-va
 ### One person really likes Ask VA.
 > [Talking about Ask VA] If I put in a secure request, you know, that's going to take at least a day, depending on what day it is, which is super fast, you know, from my experience in the government, super fast and really like it.
 
-### People had challenges with the current Ask VA category question
+### People had challenges with the current Ask VA category question.
 #### Issue might not fit under an existing category
 > Sometimes I get hung up just getting through those boxes and get frustrated. And it's like, well, what I'm trying to find isn't listed there and think, well, this isn't where I need to be.
 
