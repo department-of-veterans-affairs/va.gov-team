@@ -13,7 +13,7 @@ Additional findings don’t represent a pattern in this study, but may be part o
 - [Sitewide: facilities](#sitewide-facilities)
 - [Accessibility](#accessibility)
 - [Ask VA](#ask-va)
-- [VA.gov in general](#va-gov-in-general)
+- [VA.gov in general](#vagov-in-general)
 
 ## Sign-in experience
 Slack channel in dsva.slack.com: #sign-in-experience
