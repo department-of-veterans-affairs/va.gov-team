@@ -13,6 +13,8 @@ Slack for real-time feedback from observers.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
+- Make sure to silence the sounds as observers enter and exit, General>View advanced features>Play sound when participants join or leave.
+- Ensure it's recording to the cloud.
 ## Intro - 5 minutes
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
