@@ -17,13 +17,13 @@ This document details how to create, update, and close a CAIA ticket, ensuring a
 
 | **Term** | Definition |
 |------------------------|------------------|
-| **Issue**                   | An issue is a discreet, well defined unit of work for a team or project. In Github, they are synonymous with tickets - that is, a ticket will usually contain a single well defined issue.| 
-| **Ticket**                   | Tickets contain the details of the issue and the steps or work required to meet the definition of done.|
-| **Epic**                   |     An overarching "bucket" of work that contains individual `Issues`. CAIA uses Epics to group work by product. | 
-| **Task**                   |     In Github, a task is an individual work item, usually assignable to someone, who will then complete that item and check it off. Tasks can be used as a simple checklist, or converted into issues. Task lists can connect to existing issues as well as tasks converted into issues. An issue can appear in multiple task lists, simply by connecting it with the issue number. Regardless if a task is a plain text task or an issue, when it is unchecked, it is open and when it is checked, it is closed. The tickets that are connected to tasks are tracking tasks. GHP will show the number of tasks completed in an issue, and the overall progress as a percentage. You can also use multiple task lists in one ticket for different parts of your project. [Learn more about tasks from GitHub.](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) | 
 | **Repository**                   |     A place where a project’s files, version history, and resources live. CAIA operates in the VA.gov-team repository.| 
 | **Pipeline**                   |     A pipeline is a collection or series of workflows that defines the status of work being done at a given point in the work process. The CAIA Pipeline consists of distinct stages that help define the status of work while it is with our team. The starting point for our pipeline is `New Intakes` and the end point is `Closed`.| 
 | **Refinement**                   |     The process of reviewing and assessing tickets in the various stages of the CAIA pipeline (Ready, Backlog, etc.) in an effort to progress them through the pipeline to a closed status. | 
+| **Issue**                   | An issue is a discreet, well defined unit of work for a team or project. In Github, they are synonymous with tickets - that is, a ticket will usually contain a single well defined issue.| 
+| **Ticket**                   | Tickets contain the details of the issue and the steps or work required to meet the definition of done.|
+| **Epic**                   |     An overarching "bucket" of work that contains individual `Issues`. CAIA uses Epics to group work by product. | 
+| **Task**                   |     In Github, a task is an individual work item that can be checked off when completed. Tasks can be used as a simple checklist or converted into issues. Task lists can connect to existing issues as well as tasks converted into issues. An issue can appear in multiple task lists, simply by connecting it with the issue number. Regardless if a task is a plain text task or an issue, when it is unchecked, it is open and when it is checked, it is closed. The tickets that are connected to tasks are tracking tasks. GHP will show the number of tasks completed in an issue, and the overall progress as a percentage. You can also use multiple task lists in one ticket for different parts of your project. [Learn more about tasks from GitHub.](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) |
 
 </details>
 
@@ -34,8 +34,8 @@ There are 2 types of tickets that CAIA will use in its pipeline:
 - CAIA work ticket: This is the issue created by CAIA, based on an intake or stakeholder request, that outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets). Product teams can see work tickets attached to their intake, but these work tickets are for you to use. You can add notes in comments to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.
 
 These two types can be view separately on our board: 
-- Work tickets: [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1) and [Task Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/74)
-- Intakes and Epics: [High Level Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75) and [High Level Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/72)
+- Work tickets: [Work Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1) and [Work Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/74)
+- Intakes and Epics: [Intake Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75) and [Intake Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/72)
 
 When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
 
@@ -48,6 +48,7 @@ The title section contains the name of the ticket with the following naming conv
 # Custom Field Section
 This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. This includes:
 
+### Required fields
 - **Assignees** - Shows who is responsible for the work being done on the ticket. This should be used only for the person actively working on the ticket, not for general awareness (if you need to flag a ticket for someone's awareness, tag them in a comment). As a ticket moves through the work process, the assignee may change. For example, a content ticket will be handed off from an editor to a writer to a copyeditor--to make it obvious who is actively responsible for work, we won't keep all three of those people assigned the whole time.
 - **Labels** - Sometimes known as tags. These allow for CAIA to 'tag' which discipline needs to be involved with the work. Current labels for CAIA are:
   - sitewide CAIA
@@ -56,18 +57,20 @@ This section contains field data that is important for filtering and tracking is
   - sitewide accessibility
   - CAIA translation 
   - CAIA-a11y-research (used to denote CAIA research involvement for Assistive Technology support)
-- **Milestone** - not currently used
 - **Opened Date** - the date the ticket was created - this is auto generated by Github, however, the default data cannot be used to filter issues on the board
-- **Linked pull requests** - not used
-- **Repository** - the Github repository in which the ticket was created
-- **Closed Date** - the date the ticket was closed - when closing a ticket, be sure to fill out this field!
-- **Target date** - we don't use this consistently. It has been used to track both product team launch dates and general internal CAIA deadlines.
-- **Estimate** - the level of effort required for this ticket. Only used on Task tickets, not Epics. Level of effort is determined using basic tee shirt sizes based on the time it would take to complete the work iteself (not including waiting on SMEs or stakeholders, back and forth with OCTO, etc.):
+- **Closed Date** - the date the ticket was closed - when closing a ticket, be sure to fill out this field
+- **Estimate** - the level of effort we think will be required for a ticket. Only used on Task tickets, not Epics. Level of effort is determined using basic tee shirt sizes based on the time it would take to complete the work iteself (not including waiting on SMEs or stakeholders, back and forth with OCTO, etc.):
   - **Small** for 1-5 days - Redirects, deprecating a page
   - **Medium** for 2-4 weeks - Best bets, React Widgets
   - **Large** for 1-3 months - Launching a new tool
   - **Extra large** for 4+ months -  Migration audit
-- **Priority** - used to indicate how urgent a piece of work is, based on the following scale
+- **Actual** - how much effort was required, once we've completed the work and can asses how big a lift it was
+- **Originator/Team** - the team or stakeholder that requested the work
+- **Last Checked** - the last time a ticket was checked, especially helpful to track on tickets in backlog or blocked to ensure tickets do not go stale in the pipeline
+
+### Optional fields
+- **Target date** - we don't use this consistently. It has been used to track both product team launch dates and general internal CAIA deadlines.
+- **Priority** - we don't use this consistently, but it can be used to indicate how urgent a piece of work is based on the following scale:
   - **High** - top priority, work should begin immediately
   - **Medium** - important but not as urgent as high priority
   - **Normal** - default, regular priority
@@ -76,8 +79,8 @@ This section contains field data that is important for filtering and tracking is
 - **Sprint** - Used for planning when the work in this ticket should be scheduled
 - **Blocked by** - used to indicate which OCTO crew is blocking the work
 - **Reason Blocked** - general text field to  add detail to the reason the ticket is blocked
-- **Originator/Team** - shows the team or stakeholder requesting the work
-- **Last Checked** - used to show the last time a ticket was checked, typically in backlog or blocked to ensure tickets do not go stale in the pipeline
+- **Milestone** - not currently used by CAIA, these are another way of grouping work and tracking progress
+- **Linked pull requests** - not used
 
 # Ticket Status
 The ticket status shows where work is in the CAIA pipeline and provides an overview of what's actually happening across the team. The status corresponds to which swim line the ticket will appear in on the [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1))(and task board) view in Github Projects. We use two sets of statuses for the two different ticket types:
