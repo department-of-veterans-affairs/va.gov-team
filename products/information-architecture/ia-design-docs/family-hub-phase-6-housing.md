@@ -89,7 +89,7 @@ All link labels TBD by content
 
 ## <a name="redirects"></a>Redirects <br>
 
-Redirect ticket: 
+Redirect ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/94859
 
 | Page                                        | Current URL                                                         | Redirect to                                                                               | Status                                                         | 
 |---------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------|
