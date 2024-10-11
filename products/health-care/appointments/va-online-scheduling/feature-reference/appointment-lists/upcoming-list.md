@@ -175,7 +175,7 @@ Generic error when appointment list can't be displayed due to:
 
 To see the current api responses:
 - Navigate to the [vets-api swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
-- Search for `https://api.va.gov/vaos/v2/apidocs`
+- Search for or paste this url in the explore bar `https://api.va.gov/vaos/v2/apidocs`
 
 <details>
   <summary>Sample response</summary>
