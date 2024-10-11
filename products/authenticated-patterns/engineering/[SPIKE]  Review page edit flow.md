@@ -90,6 +90,8 @@ Using sessionStorage and adding a conditional Save & Return button
 
 [Branch](https://github.com/department-of-veterans-affairs/vets-website/tree/bp-117-spike-review-page-edit-functionality)
 
+Used "/1/ezr" form to test. 
+
 ### Steps
 `platform/forms-system/src/js/review/ReviewCollapsibleChapter`
 1) In the `handleEdit` function [line 35](https://github.com/department-of-veterans-affairs/vets-website/blob/bp-117-spike-review-page-edit-functionality/src/platform/forms-system/src/js/review/ReviewCollapsibleChapter.jsx#L35), add functionality to set a `sessionStorage` item called `review` to `true` and take the user to the relevant form page.
@@ -143,6 +145,8 @@ goForward={
 Setting query string "review" in URL & adding conditional Save & Return button
 
 [Branch](https://github.com/department-of-veterans-affairs/vets-website/tree/bp-121-spike-review-edit-flow-query)
+
+Used "/1/ezr" form to test this.
 
 ### Steps
 
@@ -217,6 +221,9 @@ Add conditional in the `buttonText` prop in the `FormNavButtons` component, stat
 Pros 
 - sessionStorage is straightforward and doesn't clutter the URL
 - Doesn't require modifying the URL, which adds more work including additional string parsing
+
+Cons
+- sessionStorage items need to be removed by JavaScript during navigation or other interactions. Thus, need to account for this and make sure no edge cases get missed so that the user isn't accidentally redirected
 
 ### Option 2
 Pros 
