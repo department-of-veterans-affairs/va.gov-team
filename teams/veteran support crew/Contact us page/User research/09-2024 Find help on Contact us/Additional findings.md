@@ -25,8 +25,87 @@ Slack channel in dsva.slack.com: #sign-in-experience
 > 
 > And the most bizarre thing in the entire federal government is that they're all citing US Code 81, I believe, I believe it's 81, inappropriately about the use of military ID cards as a form of legal identity. They're totally misquoting it and misinterpreting it, and they refuse to answer the question every time I confront them with the exact text because I was a COMSEC guy.
 
+### People experience challenges with two-factor authentication (2FA).
+#### Limited phone service and can't use email
+> I really don't like multi factor authentication because it, it's, it's too limiting for those of us that live in an area where we don't get service most of the time I do not have service on my cell phone... So I can get in my e-mail, but it won't let me do that.
+
+#### Has two phones
+> I have two phones. The information that's stored in one phone isn't in the other one.
+
+> [Talked about option to use two phones, but can't have two phones for 2FA] If you do have two phones, you can't add 2 phones.
+
+#### Annoying to get to phone
+> It's just irritating that sometimes I'm sitting in my computer, and it's requiring me to go get my phone.
+
 ### One person didn't have a positive experience with Login.gov phone support.
 > So Login.gov, tried to work with the customer service, was not helpful. That did not solve my problem.
 
 ### One person's login transition questions weren't answered by existing pages.
+> Couldn't find anything in the promotional information. Anything you click on within the web page always sent you back to another promotional message and redirected you to ID.me or Login.gov.
+
+### One person thought Login.gov was more secure than ID.me.
+> It's kind of odd to me that Login.gov and ID.me both have two different verification processes... So it kind of makes me want to do a Login.gov because they're a little bit more strict on what ID they take.
+
+## Account experience
+Slack channel in dsva.slack.com: #accontexp-authexp
+
+### One person couldn't find their VA benefits letter.
+> I had to get, actually last week, I had to get a benefits letter to show because my VA benefits have been updated. So I wanted to get a letter for it
+>
+> But I kept typing in the search function on my health, the vet or my healthy vet, whatever it is. And then on the main VA page, it wouldn't work.
+>
+> So I finally had to go to Google, type in the exact same words. And gosh, it took me right to the link right there.
+>
+> I couldn't find it under my own, like under myself, I couldn't find claims. I couldn't find anything where it was, would go specifically to those letters that I'd only seen the page before.
+
+## Travel pay
+Slack channel in dsva.slack.com: #travel-pay
+
+### One participant talked about challenges with travel claims.
+> The VA is horrible about doing travel claims because they refuse to add my location to where they sent me to their list, so I can do a travel claim.
+> 
+> They'll give me a facility pretty much near the VA hospital, but I cannot find it when I do the travel claim.
+>
+> They just give me a denial letter where I used to be able to take my exact letter.
+
+## Chatbot
+Slack channel in dsva.slack.com: #va-chatbot-public
+
+### People were deterred from using chatbot after reviewing content.
+> [In an accordion on the Chatbot page] But one thing I first noticed, "our chat bot cannot do any of these things. It cannot help you sign in to VA.gov."  So that probably means crap. It's not gonna work. So I would then go back, 'cause it looks like it's not gonna help me.
+
+> [Reviewing suggested prompts] Try entering questions like blood, you know, where is my decision letter or where is, you know, like that's not, you know. I just need, I need to find out where I can get a, a letter that has nothing to do with anything on here.
+
+### One person was overwhelmed by content on the Chatbot page.
+> A lot of times something like that, I'll start clicking on all the links trying to and then I end up down the rabbit hole and it's like I forget what I was even looking for to begin with.
+
+### One person thought it would be helpful to save chatbot interactions.
+> Do people have a option to get a, where their inquiry, if it's incomplete, can get forwarded to the correct department or get a copy of the transcript so maybe they can see the answers that were given?
+> ...
+> 
+>  I can have 23 tabs open in one of my three browsers. So I never lose track of, you know, what I was looking at previously.
+
+## Sitewide: facilities
+Slack channel in dsva.slack.com: #sitewide-facilities
+
+### One Veteran used the facility locator because they live in another location.
+> We winter in [location] and so finding a VA location in [location] that was very helpful because it turns out there is a local office in [location], which is close.
+
+### One Veteran wanted more information about facilities while using the facility locator.
+> I guess it'd be nice if there were some way for it to tell me you could go there, but it's going to cost you more.
+>
+> Like I would think the closest one, if it's an emergency, you would go there. But that closest one is actually ER2U, is a service where they I think they like come with an ambulance or something.
+>
+> That ER2U... that was an odd one. But yeah, when I looked at that, I was like, wonder what that is?
+
+### One participant didn't expect to see a zoomed out map of the US when no results were found in the List view and after they selected View map
+> [List view] And of course no areas found. What I don't see is something to expand the area, like, OK, 50 miles, 100 miles, 250 miles, whatever else. I don't have that option so far.
+>
+> So I see the view map. So I'm gonna try that and then try to zoom out and see what it says, 'cause right now it's showing me the whole map of the United States. That's not very helpful to me.
+
+### The same participant also couldn't select the pin on the map.
+> [Map view] Right now I'm getting frustrated 'cause I don't understand why if I click on the "A" which should be the one location it shows. Why is nothing happening?
+
+### One overseas Veteran didn't think the facility locator tool could help them.
+> So contact local VA facility. There are no local VA facilities overseas.
 
