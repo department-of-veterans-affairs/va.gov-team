@@ -137,7 +137,7 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 |	Women Veteran care	|	 4,025 	|	 6,272 	|	 5,382 	|	 5,711 	|	5,768	|	5,702	|	4,863	| 6,867 | 5,621 | 8,042
 
 ### Manage your health online 
-> assessing links on links in the box on health system main page
+> assessing interactions with links in the box on health system main page
 
 | Link| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
