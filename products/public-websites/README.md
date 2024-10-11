@@ -43,7 +43,7 @@ Monitors for each product are described within product folders. e.g.
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | . |
 | [VA.gov Homepage](#vagov-homepage) | [CTA React widget](#cta-react-widget) | . |
-| [Promo Banner](#promo-banner) | . |  .  |
+| [Promo Banner](#promo-banner) | . |  [BTSSS react widget](#btsss-react-widget)  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
@@ -475,6 +475,12 @@ Taxonomy launched in 2023, in pilot use by CAIA for managing benefits informatio
 ---
 
 # Non-CMS content / products
+
+## BTSSS React widget
+
+**What is**
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss
+
 
 ## CTA React widget
 
