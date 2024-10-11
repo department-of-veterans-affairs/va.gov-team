@@ -323,9 +323,6 @@ To see the current api responses:
         "avsPath": "string"
       }
     }
-  ]
-},
-    
   ],
   "meta": {
     "pagination": {
