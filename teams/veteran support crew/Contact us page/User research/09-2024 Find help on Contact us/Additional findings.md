@@ -128,7 +128,10 @@ Slack channel in dsva.slack.com: #accessibility-champs
 ### One participant skipped the headers on VA.gov pages and focused on interative elements instead (like accordions).
 This participant would also lower her glasses to look at some pages. In the following quotes, the participant is referring to the [Get help from a VA accredited representative or VSO ](https://www.va.gov/get-help-from-accredited-representative/) page.
 
-They're trying to looking contact information for VSOs but are frus trated when they only see only a P.O. box listed. They don't notice the heading that says **Option 2: Submit your form by mail**.
+They're trying to looking contact information for VSOs but are frustrated when they only see only a P.O. box listed. They don't notice the heading that says **Option 2: Submit your form by mail**.
+
+![image](https://github.com/user-attachments/assets/28484afd-4603-4e4d-b586-2119385674e3)
+_Description: Screenshot of page showing open accordion with P.O. box listed inside._
 
 > So no phone number, just a PO box in Wisconsin, right? OK, so this this just seems like, you know, it seems like they put something up there just to have something up there.
 >
@@ -145,3 +148,40 @@ They're trying to looking contact information for VSOs but are frus trated when 
 > ...
 > 
 > we're in a very small area in the middle of nowhere. So getting assistance is very hard.
+
+## Ask VA
+Slack channel in dsva.slack.com: #ask-va
+
+### One person pointed out the need for an unauthenticated Ask VA experience.
+> OK, so create account sign in to start your message. Well, no, I can't do that. That's the whole problem. So I would do the start your message without signing in.
+
+### One person really likes Ask VA.
+> [Talking about Ask VA] If I put in a secure request, you know, that's going to take at least a day, depending on what day it is, which is super fast, you know, from my experience in the government, super fast and really like it.
+
+### People had challenges with the current Ask VA category question
+#### Issue might not fit under an existing category
+> Sometimes I get hung up just getting through those boxes and get frustrated. And it's like, well, what I'm trying to find isn't listed there and think, well, this isn't where I need to be.
+
+#### Current category field on ask.va.gov looks like an input 
+> Why is everything else a drop-down except for that one 'cause that makes me think I need to type in something by the way that box looks, and you can't do anything when you click on it.
+
+## VA.gov
+Slack channel in dsva.slack.com: #va-cto-all-teams
+
+### Some Veterans don't think VA.gov is helpful.
+#### Can't find information
+> That's the thing with with VA.gov. I mean, why it it's all over the place?
+
+> 90 some percent of the time if I'm looking for something on the site, I can't find it.
+
+#### Doesn't understand purpose
+> I don't understand the, you know, the use of it, you know, what is it? What is it for?... This is not the place to come to if you need help.
+
+#### Compares to other VA sites
+> I like having MyHealtheVet, but maybe this is easier, VA.gov... It hasn't been easier for me lately
+>
+> My frustration is that that the different websites and the different things keep changing. It keeps changing.
+>
+> You know, all this is E benefits. So you're cramming all this stuff together.
+
+> I used to be able to go to E benefits, and now they're saying you gotta go to VA.gov to get that information. And I'm like, OK, well that's fine, but is it gonna be easy to find that information?
