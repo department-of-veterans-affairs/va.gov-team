@@ -43,6 +43,7 @@ Make any requested changes and update in sharepoint. They will typically look th
 |8/22/24 |4.1|[#89173](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=72805124)|Disability Experience Team 2|Post-Submission Failure Email|
 |8/28/24 |4.2|[#91656](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=76716622)|Disability Experience Team 2|0781 Post-Submission Failure Email|
 |9/12/24 |4.3 -In progress|[#89474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89474) [89576](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89576)|Disability Experience Team 2|ITF and Missing Information Error Messages|
+|10/11/24 |4.4 -In progress|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|
 
 
 ## 526 BDD Product Guide Ticket History
@@ -55,3 +56,4 @@ Make any requested changes and update in sharepoint. They will typically look th
 |8/22/24 |3.1|[#89173](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=72805124)|Disability Experience Team 2|Post-Submission Failure Email|
 |8/28/24 |3.2|[#91656](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=76716622)|Disability Experience Team 2|0781 Post-Submission Failure Email|
 |9/12/24 |3.3 -In progress|[#89474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89474) [89576](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89576)|Disability Experience Team 2|ITF and Missing Information Error Messages|
+|10/11/24 |3.4 -In progress|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|
