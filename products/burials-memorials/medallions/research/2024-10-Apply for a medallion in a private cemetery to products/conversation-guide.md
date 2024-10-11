@@ -58,13 +58,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Alright, let's get to the prototype.
 ## Getting Started - 1 minute
 - I'm going to give you a scenario for you to walk through a prototype of this application and give us your thoughts.
-- The prototype link I shared is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not and some fields will fill in when you click on them.
+- The prototype link I shared is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not and some fields will fill in when you click on them. Some of the questions you may not know the answer to, and that's ok.
 - While you're going through the scenario, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn, so we want to hear your honest opinions. We're not testing your ability. We just want to improve the form to better meet Veteran's needs. We won't be offended by any opinions you express, and we welcome your feedback.
 - When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way. 
 ## First Task: [Cemetery applicant] - X minutes
 - **Step 1:** You are Alex Wilson, a funeral home employee working for Wilson & Wilson. You want a medallion sent to you to place on a deceased Veteran’s headstone. You will complete the application from start to finish for the medallion. 
-- **Step 2:** You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct.
-- Now you start working on the prototype like it's your first time viewing it. Remember the prototype is not going to be perfect,
+- **Step 2:** You are a cemetery official reviewing and signing off on an application.
 ### Things to watch for:
 - **Introduction:** Does the participant read every section?
 - **Whole application:** Does the participant feel they’d want to use the Need help guidance at any point?
@@ -77,11 +76,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 - **Memorial items:** For shipping information, does the user understand they should have it sent to their address as they are receiving it?
 - **Supporting documents:** Does the user spend time to read the supporting documents page?
 - **Confirmation:** Does the user understand what will happen next in the application process and to look for an email?
-- **Second form:** We'll now go to Step 2 where you are the cemetery official signing the second form. I will now mention the scenario agin. You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct. At this point the cemetery will receive an email with a link to begin their application. 
+- **Second form:** You completed the form and did great. The first task is done, so erase all that out of your mind. We are going to now start the second scenario we want to have you test. You are a cemetery official reviewing and signing off on an application. Again, you are a cemetery official reviewing and signing off on an application. 
 - **Intro secondary form:** How does the participant feel about having to create an account?
 ## Second Task: [Family member applicant] - X minutes
-- **Step 1:** You are Alex Wilson, a family member of the deceased Veteran. You live out of country but want to send the medallion to your brother to place on the Veteran’s headstone. You will complete the application from start to finish.
-- **Step 2:** You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct.
+- **Step 1:** You are Alex Wilson, a family member of the deceased Veteran. You want to send the medallion to your brother to place on the Veteran’s headstone. You will complete the application from start to finish.
+- **Step 2:** You are a cemetery official reviewing and signing off on an application.
 ### Things to watch for:
 - **Introduction:** Does the participant read every section?
 - **Whole application:** Does the participant feel they’d want to use the Need help guidance at any point?
@@ -94,7 +93,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - **Memorial items:** For shipping information, does the user understand to select no, since they aren't receiving the medallion?
 - **Supporting documents:** Does the user spend time to read the supporting documents page?
 - **Confirmation:** Does the user understand what will happen next in the application process and to look for an email?
-- **Second form:** We'll now go to Step 2 where you are the cemetery official signing the second form. I will now mention the scenario agin. You are Sammy Beagles, a cemetery official reviewing and signing a second form confirming information is correct. At this point the cemetery will receive an email with a link to begin their application. 
+- **Second form:** You completed the form and did great. The first task is done, so erase all that out of your mind. We are going to now start the second scenario we want to have you test. You are a cemetery official reviewing and signing off on an application. Again, you are a cemetery official reviewing and signing off on an application. 
 - **Intro secondary form:** How does the participant feel about having to create an account?
 ## Post-Task Interview - X minutes
 - **Question 1:** What did you think of the application process overall? 
