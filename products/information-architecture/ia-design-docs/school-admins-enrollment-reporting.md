@@ -51,7 +51,7 @@ With an additional supporting page of information and instructions for each form
 
 ## <a name="H1 and URL"></a>H1 and URL<br>
 
-Refer to the design system's guidance for [page titles and section titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles) and [URLs](https://design.va.gov/components/url-standards/) when finalizing the form pages' H1s and URLs.
+Refer to the design system's guidance for [page titles and section titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles), [URLs](https://design.va.gov/components/url-standards/), and [title tags](https://design.va.gov/content-style-guide/title-tags) when finalizing the form pages' H1s and URLs.
 
 **Some suggestions:**
 
@@ -82,12 +82,24 @@ Refer to the design system's guidance for [page titles and section titles](https
 
 
 ## <a name="Entry Points"></a>Entry Points<br>
- 
-**1) Find a VA form** - Add Navigation Link
-- Placement description: Links on the [Resources for schools ](https://www.va.gov/school-administrators/)page.
-- Link label: H1 of destination page
-- Link destination: URL of destination page
 
+### Primary entry point
+_Most of the time this is the CTA on a tool static landing page - this may be an action link that goes directly to the new feature, or it may be part of a sign in widget._
+
+**1) Form Intro Pages** - Add
+- Placement description: Link from form intro page into fillable steps of the form
+- Link label: A 'Start' or 'Submit' CTA
+- Link destination: Next form step
+![school admins 12](https://github.com/user-attachments/assets/1310026b-d831-496e-b401-3c7856e23e35)
+
+
+### Secondary entry points
+_Any additional locations that the page should be navigable from such as the "About a form" page, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc.   These are secondary, and while they are still very important, are not required for launch._
+
+**1) Find a VA form, About page** - Add Page and Navigation Link
+- Placement description: Link on 'About VA Form ##-####' page, to intro page of form
+- Link label: Go to the online tool
+- Link destination: Form intro page
 
 ## <a name="header and footer"></a>Header and footer<br>
 
