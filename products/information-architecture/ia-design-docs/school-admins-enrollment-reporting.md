@@ -39,14 +39,13 @@
   
 
 ## <a name="flows"></a>User/page flows <br>
-Proposed modified flow. The same changes flow apply to both forms, the proposed supporting page is outlined in pink.
-<img width="1229" alt="school admins 9" src="https://github.com/user-attachments/assets/d5085e1d-7885-4440-a362-751dd6d2db70">
+Flow into forms, including a new supporting page. The same pattern applies to both forms.
+<img width="1225" alt="school admins 10" src="https://github.com/user-attachments/assets/bed01ec1-06a3-468f-af2c-0430827c9770">
 
 
 ## <a name="map"></a>Page structure<br>
 With an additional supporting page of information and instructions for each form, the sitemap would look like this. The level 2 pages are the proposed additional pages.
-<img width="904" alt="school admins 8" src="https://github.com/user-attachments/assets/00a4a58d-73d2-45ce-8068-1a2c83f25996">
-
+<img width="679" alt="school admins 11" src="https://github.com/user-attachments/assets/2ac2ee18-625c-44c6-a115-31342a499936">
 
 
 
@@ -56,21 +55,21 @@ Refer to the design system's guidance for [page titles and section titles](https
 
 **Some suggestions:**
 
-**85/15 Rule, supporting page** - New, proposed by CAIA
+**85/15 Rule, supporting page** - New
 - **H1:** 85/15 Rule enrollment ratios
 - **URL:** va.gov/school-administrators/85-15-rule-enrollment-ratios/
 
-**85/15 Rule, form intro page** - New, intro page of form
+**85/15 Rule, form intro page** - New
 - **H1:** Report 85/15 Rule enrollment ratios
 - **URL:** va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/
 
 
   
-**35% Exception, supporting page** - New, proposed by CAIA
+**35% Exemption, supporting page** - New
 - **H1:** 35% exemption from 85/15 reporting
 - **URL:** va.gov/school-administrators/35-percent-exemption/
 
-**35% Exception, form intro page** - New, intro page of form
+**35% Exemption, form intro page** - New
 - **H1:** Request 35% exemption from 85/15 reporting
 - **URL:** va.gov/school-administrators/35-percent-exemption/request-exemption/
   
