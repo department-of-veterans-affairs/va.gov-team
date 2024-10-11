@@ -96,15 +96,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 - **Second form:** You completed the form and did great. The first task is done, so erase all that out of your mind. We are going to now start the second scenario we want to have you test. You are a cemetery official reviewing and signing off on an application. Again, you are a cemetery official reviewing and signing off on an application. 
 - **Intro secondary form:** How does the participant feel about having to create an account?
 ## Post-Task Interview - X minutes
+You’ve completed the task. Now we’re going to ask you some post task interview questions.
 - **Question 1:** What did you think of the application process overall? 
 - **Question 2:** On a scale of 1 to 5 with 1 being the lowest and 5 being the highest, how would you rate the application process for Medallions you just experienced?
 - **Question 3:** If you could snap your fingers and recreate the application process for Medallions to make it better or do things differently, what would that process look like? 
 - **Question 4:** Is there anything else on your mind that we didn't ask? 
 •	I'm going to ask my colleague [Charlie or Carly] if they have questions currently and also check the channel to see if any of our observers have any questions. [Check Teams chat for questions] 
 •	Do you have any questions for me? 
-## Consent to use video clips
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 ## Thank-You and Closing - X minutes
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
