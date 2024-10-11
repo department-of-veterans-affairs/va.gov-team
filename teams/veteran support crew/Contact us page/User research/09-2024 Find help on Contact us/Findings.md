@@ -13,7 +13,7 @@
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
-- [Further research needed](#further-research-needed)
+- [Further design exploration and research needed](#further-design-exploration-and-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
 ## Veteran journey
@@ -283,10 +283,12 @@ Another key finding was that [people prefer using search, but searches aren't al
 ### Update "Resources and support" to something more recognizable like "Help" 
 We learned that [some people misinterpreted "Resources and support" but understood "FAQs."](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Findings.md#some-people-misinterpreted-resources-and-support-but-understood-faqs) The Content, Information Architecture, and Editor Experiences Crew is also planning on revisting the Resources and Support experience, so we'll share our findings. We should consider if renaming Resources and support will make direct more people to this area of VA.gov and help them find answers.
 
-
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
-
+**Demographics:** We did not have participants in the following demographics categories: 
+- Assistive technology users: Veterans who use assitive technology, like screen readers and alternative navigation tools.
+- Other than honorable: Veterans with an other than honorable discharge type. 
+- Immigrant origin: Veterans who identify as an immigrant.
+- Asian: Veterans who identify as an Asian ethnicity.
+- Native: Veterans who identify as a Native ethnicity. 
 
 ## Appendix
 
