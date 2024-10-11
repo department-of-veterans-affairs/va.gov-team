@@ -137,7 +137,7 @@ They're trying to looking contact information for VSOs but are frus trated when 
 ### One participant said they don't have good cell service.
 > And again, without having the best signal, it's hard to hear them.
 
-### One participant who lives in a rural area talked about challenges with their local VA facility. 
+### One participant who lives in a rural area talked about challenges getting care. 
 > ...they're understaffed, and they unfortunately had a lot of turnover lately. So they're doing the very best they can.
 > ...
 > 
