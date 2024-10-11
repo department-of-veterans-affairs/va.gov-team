@@ -60,4 +60,10 @@ Here, add notes about technical fixes, issues we're experiencing, details for re
 Next Steps:
 Next steps for the release, including details on anything mentioned in Technical Notes
 
-2. 
+2. Group failures by user to get a sense of impact to Veterans:
+```
+   # Total failure grouping
+failures_grouped_by_user = failures.group_by(&:user_uuid)
+failures_grouped_by_user = subs.group_by(&:user_uuid)
+failures_grouped_by_user.each {|k, v| puts "#{k}: #{v.count}"};nil
+```
