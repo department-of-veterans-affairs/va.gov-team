@@ -283,49 +283,30 @@ Another key finding was that [people prefer using search, but searches aren't al
 ### Update "Resources and support" to something more recognizable like "Help" 
 We learned that [some people misinterpreted "Resources and support" but understood "FAQs."](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Findings.md#some-people-misinterpreted-resources-and-support-but-understood-faqs) The Content, Information Architecture, and Editor Experiences Crew is also planning on revisting the Resources and Support experience, so we'll share our findings. We should consider if renaming Resources and support will make direct more people to this area of VA.gov and help them find answers.
 
-**Demographics:** We did not have participants in the following demographics categories: 
-- Assistive technology users: Veterans who use assitive technology, like screen readers and alternative navigation tools.
-- Other than honorable: Veterans with an other than honorable discharge type. 
-- Immigrant origin: Veterans who identify as an immigrant.
-- Asian: Veterans who identify as an Asian ethnicity.
-- Native: Veterans who identify as a Native ethnicity. 
-
 ## Appendix
+- [View research plan](#https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Research%20plan.md)
+- [View conversation guide](#https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md)
+- [View research transcripts](#https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Transcripts)
 
-[Research plan](link here)
-
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
-
-
-## Tools used for Synthesis
+## Tools used for synthesis
 I primarily used [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1725895721652/68ab05d19a3f0d47b575db99e30f66039b553c93?sender=u44efa807e992cacf10cf3697) to synthesize findings.
 
-
 ## Pages and applications used
-
-Link to prototypes or pages that were tested
-
+- [Contact us page on VA.gov](https://www.va.gov/contact-us)
 
 ## Other supporting documents created
-
 e.g. user flows, personas, etc.
 
-
 ## Secondary research
-
 Include any secondary research you may have. 
 
 E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
-
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
 We talked to **x participants.**
@@ -335,11 +316,9 @@ Audience segment:
 * Caregivers: x 
 * Family members of a Veteran: x  
 
-
 Gender:
 * Male: x 
 * Female: x 
-
 
 LGBTQ+:
 * Transgender: x 
@@ -353,7 +332,6 @@ Devices used during study:
 * Smart phone: x 
 * Assistive Technology: x
 
-
 Age:
 * 25-34: x
 * 35-44: x
@@ -361,7 +339,6 @@ Age:
 * 55-64: x
 * 65+: x
 * Unknown: x
-
 
 Education:
 * High school degree or equivalent: x
@@ -372,12 +349,10 @@ Education:
 * Doctorate degree: x
 * Unknown: x
 
-
 Geographic location:
 * Urban: x
 * Rural: x
 * Unknown: x
-
 
 Race:
 * White: x
@@ -386,7 +361,6 @@ Race:
 * Biracial: x
 * Asian: x
 * Native: x
-
 
 Disability and Assistive Technology (AT):
 * Cognitive: x
@@ -400,16 +374,15 @@ Disability and Assistive Technology (AT):
 * Sighted keyboard: x
 * Captions: x
 
-
 ## Underserved groups we haven’t talked to 
+This research does not include the perspectives of the following underserved Veteran groups:
+- Assistive technology users: Veterans who use assitive technology, like screen readers and alternative navigation tools.
+- Other than honorable: Veterans with an other than honorable discharge type. 
+- Immigrant origin: Veterans who identify as an immigrant.
+- Asian: Veterans who identify as an Asian ethnicity.
+- Native: Veterans who identify as a Native ethnicity. 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
 _[insert screenshot of completed recruitment checker]_
+
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
