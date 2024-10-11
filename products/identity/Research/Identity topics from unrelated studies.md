@@ -9,6 +9,20 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 - **Takeaway:**
 ----
 
+### Study name: 09-2024 Find help on Contact us
+- **Team/Researcher:** Becky Phung, Veteran support crew (contact us page)
+- **Date:** Sept 2024
+- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us), [add'l findings report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Additional%20findings.md#sign-in-experience)
+- **Takeaways:**
+   - Overseas Veterans experience challenges with verifying their identity.
+   - People experience challenges with two-factor authentication (2FA).
+      - Limited phone service and can't use email
+      - Has two phones
+      - Annoying to get to phone
+   - One person didn't have a positive experience with Login.gov phone support pages.
+   - One person thought Login.gov was more secure than ID.me.
+
+
 ### Study name: MyHealtheVet+VA Online Scheduling appointments list discovery
 - **Team/Researcher:** Christine Rose Steiffer, Authenticated Experience Design Patterns
 - **Date:** Aug 2024
