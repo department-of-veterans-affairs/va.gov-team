@@ -18,9 +18,11 @@ Slack channel in dsva.slack.com: #sign-in-experience
 > 
 > I know a guy that actually had to move back to [location] because of that very reason. He moved back two months early, screwed up all of his plans, all simply because he got locked out of the that part of his account for me right now.  
 > ...
+>
+> I cannot, I can't change my direct deposite forever.
 > 
-> I cannot, I can't change my direct deposit forever.
 > ...
+> 
 > And the most bizarre thing in the entire federal government is that they're all citing US Code 81, I believe, I believe it's 81, inappropriately about the use of military ID cards as a form of legal identity. They're totally misquoting it and misinterpreting it, and they refuse to answer the question every time I confront them with the exact text because I was a COMSEC guy.
 
 ### One person didn't have a positive experience with Login.gov phone support.
