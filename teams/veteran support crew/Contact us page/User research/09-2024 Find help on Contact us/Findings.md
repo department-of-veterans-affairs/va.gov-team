@@ -256,7 +256,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 ### Add description to "Helpful online tools" section
 - **Hypothesis**: If we add descriptions to better explain what users can use helpful online tools for, then users will read the description and understand helpful online tools.
 - **Risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it.
-- **Mitigating risks**: Consider splitting the Contact us page into a multi-page experience.
+- **Mitigating risks**: Consider the Contact us page as a multi-page experience.
 - **Measuring impact**: Clicks to online tools
 
  ### Identify top-used online tools and add them to the page (possibly compare with what's in the VA mobile app)
@@ -270,7 +270,18 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 _Next steps here. Include owners if appropriate._
 
 
-## Further research needed
+## Further design exploration and research needed
+### Reconsider order of Contact us page to be more topic-driven
+One key finding was that **people scan for words related to their issue to find help and/or contact info**. We should explore what this might look like, and how it might align more with our Resources and support experience.
+
+### Split Contact us page into multiple pages
+The Contact us page is long and will get longer if we add more content. We should explore a multi-page experience using the one-thing per page principle ([see guidance from the GOV.UK service design manual](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)). This may also help us consider a helpful Contact us expeience on the VA mobile app too. 
+
+### Add search directly on Contact us page
+Another key finding was that **people prefer using search, but searches aren't always successful on VA.gov.** The Content, Information Architecture, and Editor Experiences Crew is already planning on prioritizing a better search experience on VA.gov, so we'll share this finding with them. We should also explore how to leverage search directly on Contact us to help people find either information articles or contaction information more efficiently.
+
+### Update "Resources and support" to something more recognizable like "Help" 
+We learned that **some people misinterpreted "Resources and support" but understood "FAQs."** The Content, Information Architecture, and Editor Experiences Crew is also planning on revisting the Resources and Support experience, so we'll share our findings. We should consider if renaming Resources and support will make direct more people to this area of VA.gov and help them find answers.
 
 
 
