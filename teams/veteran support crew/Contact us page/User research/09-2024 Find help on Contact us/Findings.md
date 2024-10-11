@@ -228,7 +228,7 @@ In general, people prefer online messaging because it's more convenient.
 > [Talking about Ask VA] If I put in a secure request, you know, that's going to take at least a day, depending on what day it is, which is super fast, you know, from my experience in the government, super fast and really like it.
 
 ## Additional Insights
-Please see additional findings in this separate GitHub doc.
+Please see additional findings in [this separate GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Additional%20findings.md).
 
 ## Recommendations
 ### Add descriptions to phone numbers
