@@ -67,7 +67,7 @@ Slack channel in dsva.slack.com: #accontexp-authexp
 ## Travel pay
 Slack channel in dsva.slack.com: #travel-pay
 
-### One participant talked about challenges with travel claims.
+### One participant talked about not being able to file a travel claim.
 > The VA is horrible about doing travel claims because they refuse to add my location to where they sent me to their list, so I can do a travel claim.
 > 
 > They'll give me a facility pretty much near the VA hospital, but I cannot find it when I do the travel claim.
