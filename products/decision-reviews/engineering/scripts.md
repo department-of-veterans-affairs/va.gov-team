@@ -170,15 +170,11 @@ def remediation_info(lighthouse_upload_id)
   form_attachment = FormAttachment.find_by(guid: upload.decision_review_evidence_attachment_guid)
   raw_filename = JSON.parse(form_attachment.file_data)['filename']
 
-  left = raw_filename[0, 3]
-  mid = raw_filename[3, raw_filename.length - 9].gsub(/[^_-]/, '*')
-  right = raw_filename[raw_filename.length - 6, raw_filename.length]
-
   {
     icn: mpi_profile.icn,
     form_type: appeal_submission.type_of_appeal,
     upload_timestamp: form_attachment.created_at,
-    filename: [left, mid, right].join(""),
+    filename: raw_filename.gsub(/(?<=.{3})[^_-](?=.{6})/, '*'),
     raw_filename:
   }
 end
