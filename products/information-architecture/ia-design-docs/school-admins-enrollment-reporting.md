@@ -35,7 +35,7 @@
 ## <a name="location-of-forms"></a>Location of forms<br>
 
 - The 85/15 reporting form and the 35% exemption form should live under the [Resources for schools](https://www.va.gov/school-administrators/) page. 
-- Please create a supporting page for each form, to hold reporting requirements and instructions about the submission process. The current design uses the About page for this purpose. About pages are part of the Find a VA Forms search tool, and their primary purpose is to provide a short description, and links to the PDF and digital versions of the form. They are not intended to hold a lot of detail on requirements or processes. This workflow, sitemap, and suggested urls in this spec provide resources for creating a supporting page and for each form.
+- Please create a supporting page for each form, to hold reporting requirements and instructions about the submission process. The current design uses the About page for this purpose. About pages are part of the Find a VA Forms search tool, and their primary purpose is to provide a short description, and links to the PDF and digital versions of the form. They are not intended to hold a lot of detail on requirements or processes. The workflow, sitemap, and suggested urls in this spec provide info for creating a supporting page and for each form.
   
 
 ## <a name="flows"></a>User/page flows <br>
