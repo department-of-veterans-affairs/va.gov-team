@@ -217,6 +217,8 @@ Add conditional in the `buttonText` prop in the `FormNavButtons` component, stat
 
 ## Decision
 
+We are going with Option 1 (sessionStorage) for this pattern. 
+
 ### Option 1
 Pros 
 - sessionStorage is straightforward and doesn't clutter the URL
@@ -233,5 +235,7 @@ Pros
 Cons
 - Slightly more complex to implement since it involves URL manipulation and parsing.
 - Cluttered URL
+  
+**Possible future fix for this: The formConfig could be used to identify the available URLs within the app, which could allow for smarter redirection and sensible fallbacks.
 
 
