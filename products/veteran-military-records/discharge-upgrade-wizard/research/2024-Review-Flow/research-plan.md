@@ -177,12 +177,13 @@ session.
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Oct 22, 2023 | 1-6 pm 
-Oct 23, 2023 | 2-6 pm
-Oct 25, 2023 | 12-5 pm
-Oct 28, 2023 | 12-6 pm
-Oct 30, 2023 | 2-6 pm
-Oct 31, 2023 | 12-4:30 pm
+Oct 22, 2024 | 1-6 pm 
+Oct 23, 2024 | 2-6 pm
+Oct 25, 2024 | 12-5 pm
+Oct 28, 2024 | 12-6 pm
+Oct 30, 2024 | 2-6 pm
+Oct 31, 2024 | 12-4:30 pm
+Nov 1, 2024 | 12:30-5 pm
 
 ## Team Roles
 Please list the people who will be serving in each role.
