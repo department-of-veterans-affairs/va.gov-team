@@ -100,6 +100,7 @@ _Any additional locations that the page should be navigable from such as the "Ab
 - Placement description: Link on 'About VA Form ##-####' page, to the intro page of the form
 - Link label: Go to the online tool
 - Link destination: Form intro page
+- Note: While CAIA is asking that informational content be moved from the About page to a support page, the About page itself (and its nav links) should still be built.
 
 ## <a name="header and footer"></a>Header and footer<br>
 
