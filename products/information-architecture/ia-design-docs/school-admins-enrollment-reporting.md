@@ -56,21 +56,21 @@ Refer to the design system's guidance for [page titles and section titles](https
 
 **Some suggestions:**
 
-**85/15 form, supporting page** - New, proposed by CAIA
+**85/15 Rule, supporting page** - New, proposed by CAIA
 - **H1:** 85/15 Rule enrollment ratios
 - **URL:** va.gov/school-administrators/85-15-rule-enrollment-ratios/
 
-**85/15 form, form intro page** - New, intro page of form
+**85/15 Rule, form intro page** - New, intro page of form
 - **H1:** Report 85/15 Rule enrollment ratios
 - **URL:** va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/
 
 
   
-**35% form, supporting page** - New, proposed by CAIA
+**35% Exception, supporting page** - New, proposed by CAIA
 - **H1:** 35% exemption from 85/15 reporting
 - **URL:** va.gov/school-administrators/35-percent-exemption/
 
-**35% form, form intro page** - New, intro page of form
+**35% Exception, form intro page** - New, intro page of form
 - **H1:** Request 35% exemption from 85/15 reporting
 - **URL:** va.gov/school-administrators/35-percent-exemption/request-exemption/
   
