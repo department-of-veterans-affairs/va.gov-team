@@ -137,7 +137,7 @@ This participant would also lower her glasses to look at some pages. In the foll
 They're trying to looking contact information for VSOs but are frustrated when they only see only a P.O. box listed. They don't notice the heading that says **Option 2: Submit your form by mail**.
 
 ![image](https://github.com/user-attachments/assets/28484afd-4603-4e4d-b586-2119385674e3)
-_Description: Screenshot of page showing open accordion with P.O. box listed inside._
+<br>_Description: Screenshot of page showing open accordion with P.O. box listed inside._
 
 > So no phone number, just a PO box in Wisconsin, right? OK, so this this just seems like, you know, it seems like they put something up there just to have something up there.
 >
