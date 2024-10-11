@@ -8,11 +8,14 @@
       A[Dashboard.jsx] --> B[BenefitApplications.jsx]
       B --> C[ApplicationsInProgress.jsx]
       C --> D[ApplicationInProgress.jsx]
+      C --> my_va_form_submission_statuses
       subgraph my_va_form_submission_statuses
-      E[SubmissionCard.jsx]
+      E[SubmissionCard.jsx] --> G[ReceivedContent]
+      E[SubmissionCard.jsx] --> H[InProgressContent]
+      E[SubmissionCard.jsx] --> I[ActionNeededContent]
       F[DraftCard.jsx]
       end
-      C --> my_va_form_submission_statuses
+
 ```
 
 ## Class diagram
@@ -41,16 +44,39 @@
       }
 
       ApplicationsInProgress --|> ApplicationInProgress
-      <<component>> ApplicationInProgress
+
+      class ApplicationInProgress {
+        <<component>>
+        formId
+        formTitle
+        lastSavedDate
+        presentableFormId
+        continueUrl
+        expirationDate
+      }
 
       ApplicationsInProgress --|> SubmissionCard
-      <<component>> SubmissionCard
 
       ApplicationsInProgress --|> DraftCard 
-      <<component>> DraftCard
       
       namespace my_va_form_submission_statuses { 
-        class SubmissionCard
-        class DraftCard
+        class SubmissionCard {
+          <<component>> 
+          formId
+          formTitle
+          lastSavedDate
+          submittedDate
+          presentableFormId
+          status
+        }
+        class DraftCard {
+          <<component>> 
+          formId
+          formTitle
+          lastSavedDate
+          presentableFormId
+          continueUrl
+          expirationDate
+        }
       }
 ```
