@@ -272,7 +272,7 @@ _Next steps here. Include owners if appropriate._
 
 ## Further design exploration and research needed
 ### Reconsider order of Contact us page to be more topic-driven
-One key finding was that **people scan for words related to their issue to find help and/or contact info**. We should explore what this might look like, and how it might align more with our Resources and support experience.
+One key finding was that [people scan for words related to their issue to find help and/or contact info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Findings.md#people-scan-for-words-related-to-their-issue-to-find-help-andor-contact-info). We should explore what this might look like, and how it might align more with our Resources and support experience.
 
 ### Split Contact us page into multiple pages
 The Contact us page is long and will get longer if we add more content. We should explore a multi-page experience using the one-thing per page principle ([see guidance from the GOV.UK service design manual](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)). This may also help us consider a helpful Contact us expeience on the VA mobile app too. 
