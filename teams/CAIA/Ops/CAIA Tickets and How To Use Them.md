@@ -13,8 +13,6 @@ This document details how to create, update, and close a CAIA ticket, ensuring a
 
 ## CAIA Github terms and definitions
 
-<details><summary>Toggle to view definitions of Github vocabulary</summary>
-
 | **Term** | Definition |
 |------------------------|------------------|
 | **Repository**                   |     A place where a project’s files, version history, and resources live. CAIA operates in the VA.gov-team repository.| 
