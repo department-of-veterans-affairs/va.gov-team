@@ -109,3 +109,39 @@ Slack channel in dsva.slack.com: #sitewide-facilities
 ### One overseas Veteran didn't think the facility locator tool could help them.
 > So contact local VA facility. There are no local VA facilities overseas.
 
+## Accessibility
+Slack channel in dsva.slack.com: #accessibility-champs
+
+### Older Veterans primarily use their phones.
+> I see some of these older retirees and, you know, and they're living off their, you know, 7 inch screen smartphones now.
+
+### People don't notice dynamic changes on a page if attention isn't called to it.
+>  And now when I clicked on "Country", it just changed the form-filled entry, the formatting. Well, that's screwed up.
+>
+> But when they're on their phones or their tablets, they don't see that. And when they get to the bottom, it's just, it's kind of a jumbled mess as they're going back trying to figure out where did I make the mistake.
+
+### People acknowledge differences in digital technology use in different age groups.
+> I need my grandkids to come and do this because they just click, click, click, click. How'd you do that?
+
+> I hope that's in your research that people that are over a certain age that are not used to technology, you need to make it more user-friendly, I guess.
+
+### One participant skipped the headers on VA.gov pages and focused on interative elements instead (like accordions).
+This participant would also lower her glasses to look at some pages. In the following quotes, the participant is referring to the [Get help from a VA accredited representative or VSO ](https://www.va.gov/get-help-from-accredited-representative/) page.
+
+They're trying to looking contact information for VSOs but are frus trated when they only see only a P.O. box listed. They don't notice the heading that says **Option 2: Submit your form by mail**.
+
+> So no phone number, just a PO box in Wisconsin, right? OK, so this this just seems like, you know, it seems like they put something up there just to have something up there.
+>
+> I'm like, why is that there? You know, is it because it's a government site?
+
+### One participant said they don't have good cell service.
+> And again, without having the best signal, it's hard to hear them.
+
+### One participant who lives in a rural area talked about challenges with their local VA facility. 
+> ...they're understaffed, and they unfortunately had a lot of turnover lately. So they're doing the very best they can.
+> ...
+> 
+> I rely on community care for almost everything.
+> ...
+> 
+> we're in a very small area in the middle of nowhere. So getting assistance is very hard.
