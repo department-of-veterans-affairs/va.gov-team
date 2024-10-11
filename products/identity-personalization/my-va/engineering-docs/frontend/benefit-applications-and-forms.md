@@ -14,3 +14,43 @@
       end
       C --> my_va_form_submission_statuses
 ```
+
+## Class diagram
+```mermaid
+    classDiagram
+      Dashboard ..> BenefitApplications
+      <<component>> Dashboard
+      Dashboard : -render()
+
+      BenefitApplications ..> ApplicationsInProgress
+      <<component>> BenefitApplications
+      class BenefitApplications {
+        -shouldGetESRStatus()
+        -getESREnrollmentStatus()
+        -getFormStatuses()
+        -render()
+      }
+      
+      <<component>> ApplicationsInProgress
+      class ApplicationsInProgress {
+        +bool hideH3
+        +Array savedForms
+        +bool submittedError
+        +Array submittedForms
+        -render()
+      }
+
+      ApplicationsInProgress --|> ApplicationInProgress
+      <<component>> ApplicationInProgress
+
+      ApplicationsInProgress --|> SubmissionCard
+      <<component>> SubmissionCard
+
+      ApplicationsInProgress --|> DraftCard 
+      <<component>> DraftCard
+      
+      namespace my_va_form_submission_statuses { 
+        class SubmissionCard
+        class DraftCard
+      }
+```
