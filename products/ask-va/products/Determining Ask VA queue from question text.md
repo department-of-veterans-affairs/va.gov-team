@@ -1,9 +1,9 @@
 # Determining Ask VA queue from question text
-Last updated by @beckyphung: August 14, 2024
+Last updated by @beckyphung: October 11, 2024
 
 This doc describes how we can use current Ask VA data to train an AI model. The model will determine the queue a question should land in based on the question text.
 
-View our [Power BI report](https://app.powerbigov.us/groups/0946c35e-7703-4949-b964-f984467d9d62/reports/6b8f7898-55f8-4fdf-87e6-676ea10b7521/ReportSection) on Ask VA rerouting. You may have to request access.
+View our [Power BI report](https://app.powerbigov.us/groups/0946c35e-7703-4949-b964-f984467d9d62/reports/31d823a9-44a2-4ee2-81ef-dccadf6190c1/ReportSection35e1abc099c496ef83da) on Ask VA rerouting. You may have to request access.
  
 Jump to: 
 - [Problem statements](#problem-statement)
