@@ -223,47 +223,23 @@ Brief description
 
 > _Supporting data: Quote here_
 
-
-**Finding 2**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
-**Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
-
-
 ## Additional Insights
 
 _Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
 
 
 ## Recommendations
+### Add descriptions to phone numbers
+- **Hypothesis**: If we explain the purpose of each VA phone number, then users will read the descriptions and understand which phone number can help them the most.
+- **Potential risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it. 
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+### Update "Contact us online through Ask VA" heading
+- **Hypothesis**: If
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
+### Update "Helpful online tools" heading
+### Add description to "Helpful online tools" section
+### Add VA secure messaging
+### Identify top-used online tools and add them to the page (possibly compare with what's in the VA mobile app)
 
 ## Next Steps
 
