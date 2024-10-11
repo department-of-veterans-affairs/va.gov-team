@@ -281,7 +281,7 @@ The Contact us page is long and will get longer if we add more content. We shoul
 Another key finding was that **people prefer using search, but searches aren't always successful on VA.gov.** The Content, Information Architecture, and Editor Experiences Crew is already planning on prioritizing a better search experience on VA.gov, so we'll share this finding with them. We should also explore how to leverage search directly on Contact us to help people find either information articles or contaction information more efficiently.
 
 ### Update "Resources and support" to something more recognizable like "Help" 
-We learned that **some people misinterpreted "Resources and support" but understood "FAQs."** The Content, Information Architecture, and Editor Experiences Crew is also planning on revisting the Resources and Support experience, so we'll share our findings. We should consider if renaming Resources and support will make direct more people to this area of VA.gov and help them find answers.
+We learned that [some people misinterpreted "Resources and support" but understood "FAQs."](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Findings.md#some-people-misinterpreted-resources-and-support-but-understood-faqs) The Content, Information Architecture, and Editor Experiences Crew is also planning on revisting the Resources and Support experience, so we'll share our findings. We should consider if renaming Resources and support will make direct more people to this area of VA.gov and help them find answers.
 
 
 
