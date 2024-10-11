@@ -1,4 +1,6 @@
 # Reseach findings for "Find help on Contact us" study
+🟡 10/11: This is still in-progress.
+
 - Study dates: August 30 to October # 2024
 - Study conducted by: Becky Phung, becky.phung@va.gov
 - Goverment team: Department of Veterans Affairs > Office of the Chief Technology Officer > Digital Experience Portfolio > **Veteran Support Crew & Content, Information Architecture, and Editor Experiences Crew** 
