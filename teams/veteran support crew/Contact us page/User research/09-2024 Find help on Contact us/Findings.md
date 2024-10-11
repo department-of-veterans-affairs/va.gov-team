@@ -284,9 +284,10 @@ Another key finding was that [people prefer using search, but searches aren't al
 We learned that [some people misinterpreted "Resources and support" but understood "FAQs."](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Findings.md#some-people-misinterpreted-resources-and-support-but-understood-faqs) The Content, Information Architecture, and Editor Experiences Crew is also planning on revisting the Resources and Support experience, so we'll share our findings. We should consider if renaming Resources and support will make direct more people to this area of VA.gov and help them find answers.
 
 ## Appendix
-- [View research plan](#https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Research%20plan.md)
-- [View conversation guide](#https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md)
-- [View research transcripts](#https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Transcripts)
+- [View research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Research%20plan.md
+)  
+- [View conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Conversation%20guide.md)
+- [View research transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/veteran%20support%20crew/Contact%20us%20page/User%20research/09-2024%20Find%20help%20on%20Contact%20us/Transcripts)
 
 ## Tools used for synthesis
 I primarily used [this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1725895721652/68ab05d19a3f0d47b575db99e30f66039b553c93?sender=u44efa807e992cacf10cf3697) to synthesize findings.
