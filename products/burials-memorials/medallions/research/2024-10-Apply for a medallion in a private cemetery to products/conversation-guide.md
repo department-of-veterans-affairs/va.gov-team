@@ -23,22 +23,13 @@ Before we start, I have a few things that I want to go over with you:
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going.
+- **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
-   - If yes: Admit observers.
+   - If yes: Admit observers and **have everyone turn on cameras**
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 - **Are you on a desktop, mobile or tablet device?**
-- **Do you have a screen reader on this device?**
-   - What kind of screen reader do you use?
-   - Are you wearing headphones today? If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
-   - How long have you been using it?
-   - Do you know your screen reader's speaking rate (verbosity setting)? High, medium, low?
-      - If high, be prepared to have them repeat anything that can't be heard or understood
-   - I may need to pause you at times and ask you what you're hearing if I can't make out what's being read.
-   - Are you using a screen magnifier today?
-   - Are there any other assistive technologies that you use?
-      - If the participant has low vision, they may require captions which needs to be turned on in advanced settings
 - **I'm going to send you a link in the chat that I would like for you to open.** [Link](https://www.figma.com/proto/QIMsAdHJjctTKDM1I34uXV/Medallions---Baseline-Prototype?page-id=2%3A2&node-id=2185-38626&node-type=frame&viewport=12548%2C5040%2C0.3&t=ql7d2qYUg3eKaxGb-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2185%3A38626&show-proto-sidebar=1)
 - **Okay, now I'm going to ask you to share your screen in Zoom** so that we can look at the prototype together and then we'll begin.
    - Zoom screensharing on desktop: Locate green Share Screen button on the bottom tool pane.
