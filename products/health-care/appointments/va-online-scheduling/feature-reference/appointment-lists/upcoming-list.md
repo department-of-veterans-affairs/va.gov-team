@@ -184,143 +184,193 @@ To see the current api responses:
 {
   "data": [
     {
-      "id": "string",
+      "id": "167554",
       "type": "appointments",
       "attributes": {
-        "id": "string",
+        "id": "167554",
         "identifier": [
           {
-            "system": "string",
-            "value": "string"
+            "system": "Appointment/",
+            "value": "4139383339353237"
           }
         ],
         "kind": "clinic",
-        "status": "cancelled",
-        "serviceType": "string",
-        "reasonCode": {
-          "coding": [
-            {
-              "code": "Routine Follow-up"
-            }
-          ],
-          "text": "string"
-        },
-        "priority": 0,
-        "patientIcn": "string",
-        "locationId": "string",
-        "clinic": "string",
-        "clinicName": "string",
-        "practitioners": [
+        "status": "booked",
+        "serviceType": "optometry",
+        "serviceTypes": [
           {
-            "identifier": [
+            "coding": [
               {
-                "system": "string",
-                "value": "string"
+                "system": "http://veteran.apps.va.gov/terminologies/fhir/CodeSystem/vats-service-type",
+                "code": "optometry"
+              }
+            ]
+          }
+        ],
+        "serviceCategory": [
+          {
+            "coding": [
+              {
+                "system": "http://www.va.gov/Terminology/VistADefinedTerms/409_1",
+                "code": "REGULAR",
+                "display": "REGULAR"
               }
             ],
-            "name": {
-              "family": "string",
-              "given": [
-                "string"
-              ]
+            "text": "REGULAR",
+            "reasonCode": {
+              "coding": [
+                {
+                  "code": "Routine Follow-up"
+                }
+              ],
+              "text": "string"
             },
-            "address": {
-              "type": "postal",
-              "line": [
-                "string"
-              ],
-              "city": "string",
-              "state": "string",
-              "postalCode": "string",
-              "country": "string",
-              "text": "string"
+            "priority": 0,
+            "patientIcn": "<ICN>",
+            "locationId": "983",
+            "clinic": "437",
+            "serviceName": "CHY VISUAL FIELD",
+            "friendlyName": "VISUAL FIELD",
+            "location": {
+              "id": "983",
+              "type": "appointments",
+              "attributes": {
+                "id": "983",
+                "vistaSite": "983",
+                "vastParent": "983",
+                "type": "va_facilities",
+                "name": "Cheyenne VA Medical Center",
+                "classification": "VA Medical Center (VAMC)",
+                "timezone": {
+                  "timeZoneId": "America/Denver"
+                },
+                "lat": 39.744507,
+                "long": -104.830956,
+                "website": "https://www.denver.va.gov/locations/directions.asp",
+                "phone": {
+                  "main": "307-778-7550",
+                  "fax": "307-778-7381",
+                  "pharmacy": "866-420-6337",
+                  "afterHours": "307-778-7550",
+                  "patientAdvocate": "307-778-7550 x7517",
+                  "mentalHealthClinic": "307-778-7349",
+                  "enrollmentCoordinator": "307-778-7550 x7579"
+                },
+                "practitioners": [
+                  {
+                    "identifier": [
+                      {
+                        "system": "string",
+                        "value": "string"
+                      }
+                    ],
+                    "name": {
+                      "family": "string",
+                      "given": [
+                        "string"
+                      ]
+                    },
+                    "address": {
+                      "type": "postal",
+                      "line": [
+                        "string"
+                      ],
+                      "city": "string",
+                      "state": "string",
+                      "postalCode": "string",
+                      "country": "string",
+                      "text": "string"
+                    }
+                  }
+                ],
+                "start": "2024-10-11T17:47:03.902Z",
+                "localStartTime": "2024-10-11T17:47:03.902Z",
+                "end": "2024-10-11T17:47:03.902Z",
+                "minutesDuration": 0,
+                "slot": {
+                  "id": "string",
+                  "start": "2024-10-11T17:47:03.902Z",
+                  "end": "2024-10-11T17:47:03.902Z"
+                },
+                "created": "2024-10-11T17:47:03.902Z",
+                "preferredLocation": {
+                  "city": "string",
+                  "state": "string"
+                },
+                "requestedPeriods": [
+                  {
+                    "start": "2024-10-11T17:47:03.902Z",
+                    "localStartTime": "2024-10-11T17:47:03.902Z",
+                    "end": "2024-10-11T17:47:03.902Z"
+                  }
+                ],
+                "contact": {
+                  "telecom": [
+                    {
+                      "type": "email",
+                      "value": "string"
+                    }
+                  ]
+                },
+                "preferredTimesForPhoneCall": [
+                  "Morning"
+                ],
+                "cancelationReason": {
+                  "coding": [
+                    {
+                      "code": "Routine Follow-up"
+                    }
+                  ],
+                  "text": "string"
+                },
+                "description": "string",
+                "comment": "string",
+                "preferredLanguage": "string",
+                "cancellable": true,
+                "patientInstruction": "string",
+                "telehealth": {
+                  "url": "string",
+                  "group": "string",
+                  "vvsKind": "string",
+                  "atlas": {
+                    "siteCode": "string",
+                    "confirmationCode": "string",
+                    "address": {
+                      "streetAddress": "string",
+                      "city": "string",
+                      "state": "string",
+                      "zipCode": "string",
+                      "country": "string",
+                      "latitutde": 0,
+                      "longitude": 0,
+                      "additionalDetails": "string"
+                    }
+                  }
+                },
+                "extension": {
+                  "desiredDate": "2024-10-11T17:47:03.902Z",
+                  "ccLocation": {
+                    "practiceName": "string",
+                    "address": {
+                      "type": "postal",
+                      "line": [
+                        "string"
+                      ],
+                      "city": "string",
+                      "state": "string",
+                      "postalCode": "string",
+                      "country": "string",
+                      "text": "string"
+                    }
+                  },
+                  "ccRequestedCancellation": true
+                },
+                "preferredProviderName": "string",
+                "avsPath": "string"
+              }
             }
           }
-        ],
-        "start": "2024-10-11T17:47:03.902Z",
-        "localStartTime": "2024-10-11T17:47:03.902Z",
-        "end": "2024-10-11T17:47:03.902Z",
-        "minutesDuration": 0,
-        "slot": {
-          "id": "string",
-          "start": "2024-10-11T17:47:03.902Z",
-          "end": "2024-10-11T17:47:03.902Z"
-        },
-        "created": "2024-10-11T17:47:03.902Z",
-        "preferredLocation": {
-          "city": "string",
-          "state": "string"
-        },
-        "requestedPeriods": [
-          {
-            "start": "2024-10-11T17:47:03.902Z",
-            "localStartTime": "2024-10-11T17:47:03.902Z",
-            "end": "2024-10-11T17:47:03.902Z"
-          }
-        ],
-        "contact": {
-          "telecom": [
-            {
-              "type": "email",
-              "value": "string"
-            }
-          ]
-        },
-        "preferredTimesForPhoneCall": [
-          "Morning"
-        ],
-        "cancelationReason": {
-          "coding": [
-            {
-              "code": "Routine Follow-up"
-            }
-          ],
-          "text": "string"
-        },
-        "description": "string",
-        "comment": "string",
-        "preferredLanguage": "string",
-        "cancellable": true,
-        "patientInstruction": "string",
-        "telehealth": {
-          "url": "string",
-          "group": "string",
-          "vvsKind": "string",
-          "atlas": {
-            "siteCode": "string",
-            "confirmationCode": "string",
-            "address": {
-              "streetAddress": "string",
-              "city": "string",
-              "state": "string",
-              "zipCode": "string",
-              "country": "string",
-              "latitutde": 0,
-              "longitude": 0,
-              "additionalDetails": "string"
-            }
-          }
-        },
-        "extension": {
-          "desiredDate": "2024-10-11T17:47:03.902Z",
-          "ccLocation": {
-            "practiceName": "string",
-            "address": {
-              "type": "postal",
-              "line": [
-                "string"
-              ],
-              "city": "string",
-              "state": "string",
-              "postalCode": "string",
-              "country": "string",
-              "text": "string"
-            }
-          },
-          "ccRequestedCancellation": true
-        },
-        "preferredProviderName": "string",
-        "avsPath": "string"
+        ]
       }
     }
   ],
