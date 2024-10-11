@@ -44,9 +44,8 @@
     - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
     - **Move to New AWS Instance**
       - TBD
-- **Community Care Direct Scheduling**
-    - **Sprint Goal is to understand how to get referral data from Palantir**
-    - **END OF THE YEAR DEADLINE**
+- **Community Care Appointment Scheduling**
+    - **DEADLINE IS END OF YEAR**  
     - 🟥 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)
     - 🟥 [Draft non-PHI email notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94170)
     - 🟥 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
@@ -55,18 +54,22 @@
     - 🟦 [Write CDW Query and Determine the Palantir Process to Create the API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)
     - 🟦 [Parse the exported raw data into usable data to store in restricted shared folder (TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93892)
     - 🟦 [Implement deleting referral information we no longer need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93890)   -     
-- **OH Travel**
-    - **Sprint goal is to have this ready for internal testing**
+- **Travel for OH**
+    - **DEADLINE IS END OF YEAR**  
     - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
     - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
         - FYI We are waiting on this VeText ticket before we pilot
-- **Travel Claims for Past Appts**
-  - **Sprint goal is to finish this by THE END OF THE YEAR**  
+- **Travel Claims for Past Appts - Web**
+  - **DEADLINE IS END OF YEAR**  
     - 🟩 [[FE] - Create mock api for travel claim status endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
-- **VAHB: Medication Wording**
-    - ⬛ [Update Medication Wording for Appointments | VA Video](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9763)    
-- **VAHB: Pre-Check-in**
+- **Medication Wording - VAHB**
+    - **DEADLINE IS END OF YEAR**  
+    - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764)  
+- **Travel Claims for Past Appts - VAHB**
+    - **DEADLINE IS END OF YEAR**
+    - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94870)
+- **Pre-Check-in - VAHB**
     - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
     - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
     - 🟥 [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
@@ -74,8 +77,6 @@
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
-- **Edit existing content on a resources and support page from Check in**
-    - TBD
 - **Tech Debt & Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
     - 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
