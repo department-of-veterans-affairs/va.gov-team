@@ -230,16 +230,40 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 ## Recommendations
 ### Add descriptions to phone numbers
-- **Hypothesis**: If we explain the purpose of each VA phone number, then users will read the descriptions and understand which phone number can help them the most.
-- **Potential risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it. 
+- **Hypothesis**: If we add descriptions to better explain the purpose of each VA phone number, then users will read the descriptions and understand which phone number can help them the most.
+- **Risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it.
+- **Mitigating risks**: Consider the Contact us page as a multi-page experience.
+- **Measuring impact**: Clicks on phone number links 
 
 ### Update "Contact us online through Ask VA" heading
-- **Hypothesis**: If
+- **Hypothesis**: If we update the heading to better explain what Ask VA is, then users will choose to send an online message to VA more.
+- **Risks**: Any language around "messaging" may get conflated with VA secure messaging.
+- **Mitigating risks**: Consider grouping VA secure messaging and Ask VA under a single "messaging" label
+- **Measuring impact**: Clicks on Ask VA link
+
+### Add VA secure messaging
+- **Hypothesis**: If we add a link to VA secure messaging, then users will know where to send health-care related messages.
+- **Risks**: The Contact us page will become longer if we continue added content to it. People may think they can ask questions that their care team can't answer. People may choose VA secure messaging rather than Ask VA when Ask VA is more appropriate. 
+- **Mitigating risks**: Consider the Contact us page as a multi-page experience. Clarify the distinction between Ask VA and VA secure messaging.
+- **Measuring impact**: Clicks to VA secure messaging.
 
 ### Update "Helpful online tools" heading
+- **Hypothesis**: If we update the heading to better explain what users can use helpful online tools for, then users will choose to access online tools more. 
+- **Risks**: n/a 
+- **Mitigating risks**: n/a 
+- **Measuring impact**: Clicks to online tools
+
 ### Add description to "Helpful online tools" section
-### Add VA secure messaging
-### Identify top-used online tools and add them to the page (possibly compare with what's in the VA mobile app)
+- **Hypothesis**: If we add descriptions to better explain what users can use helpful online tools for, then users will read the description and understand helpful online tools.
+- **Risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it.
+- **Mitigating risks**: Consider splitting the Contact us page into a multi-page experience.
+- **Measuring impact**: Clicks to online tools
+
+ ### Identify top-used online tools and add them to the page (possibly compare with what's in the VA mobile app)
+- **Hypothesis**: If we identify top-used online tools, then users will be more likely find online tools that will help them.
+- **Risks**: People may not find the tool they need in our list of tools. 
+- **Mitigating risks**: Consider redirecting people somewhere else if they can't find what they're looking for.
+- **Measuring impact**: Clicks to online tools
 
 ## Next Steps
 
