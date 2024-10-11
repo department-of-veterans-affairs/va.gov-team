@@ -105,7 +105,7 @@ Slack channel in dsva.slack.com: #sitewide-facilities
 > That ER2U... that was an odd one. But yeah, when I looked at that, I was like, wonder what that is?
 
 ![image](https://github.com/user-attachments/assets/94f49245-e023-4565-9f93-9742319c5587)
-_Description: Screenshot of search results showing "ER2U" location from facility locator tool._
+<br>_Description: Screenshot of search results showing "ER2U" location from facility locator tool._
 
 ### One participant didn't expect to see a zoomed out map of the US when no results were found in the List view and after they selected View map
 > [List view] And of course no areas found. What I don't see is something to expand the area, like, OK, 50 miles, 100 miles, 250 miles, whatever else. I don't have that option so far.
