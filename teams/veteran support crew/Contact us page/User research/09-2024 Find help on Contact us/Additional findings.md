@@ -6,8 +6,14 @@ Additional findings don’t represent a pattern in this study, but may be part o
 [See this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1725895721652/68ab05d19a3f0d47b575db99e30f66039b553c93?wid=0-1728672865972) for complete quotes for each finding.
 
 **Jump to:**
-- Heading
-- Heading
+- [Sign-in experience](#sign-in-experience)
+- [Account experience](#account-experience)
+- [Travel pay](#travel-pay)
+- [Chatbot](#chatbot)
+- [Sitewide: facilities](#sitewide-facilities)
+- [Accessibility](#accessibility)
+- [Ask VA](#ask-va)
+- [VA.gov in general](#va-gov-in-general)
 
 ## Sign-in experience
 Slack channel in dsva.slack.com: #sign-in-experience
@@ -165,7 +171,7 @@ Slack channel in dsva.slack.com: #ask-va
 #### Current category field on ask.va.gov looks like an input 
 > Why is everything else a drop-down except for that one 'cause that makes me think I need to type in something by the way that box looks, and you can't do anything when you click on it.
 
-## VA.gov
+## VA.gov in general
 Slack channel in dsva.slack.com: #va-cto-all-teams
 
 ### Some Veterans don't think VA.gov is helpful.
