@@ -35,12 +35,12 @@
 ## <a name="location-of-forms"></a>Location of forms<br>
 
 - The 85/15 reporting form and the 35% exemption form should live under the [Resources for schools](https://www.va.gov/school-administrators/) page. 
-- Consider creating a supporting page for program information and submission process instructions, rather than using the About page for this purpose. The primary function of an About page is as a search tool, rather than an information source. It should provide access to download the pdf form and provide access to the online version, but it is not intended to be a place for instructions around applying or provide program information.
+- Please create a supporting page for each form, to hold reporting requirements and instructions about the submission process. The current design uses the About page for this purpose. About pages are part of the Find a VA Forms search tool, and are not intended to hold a lot of detail on requirements or processes. About pages should mainly just provide access to download the pdf form and and to the online form when available. This spec provides workflow, sitemap, and url information for a supporting page and for each form.
   
 
 ## <a name="flows"></a>User/page flows <br>
 Proposed modified flow. The same changes flow apply to both forms, the proposed supporting page is outlined in pink.
-<img width="1297" alt="school admins 6" src="https://github.com/user-attachments/assets/e07de145-9c1c-4c82-b317-592172fa7287">
+<img width="1229" alt="school admins 9" src="https://github.com/user-attachments/assets/d5085e1d-7885-4440-a362-751dd6d2db70">
 
 
 ## <a name="map"></a>Page structure<br>
