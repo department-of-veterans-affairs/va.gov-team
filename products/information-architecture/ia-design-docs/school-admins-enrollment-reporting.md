@@ -97,7 +97,7 @@ _Most of the time this is the CTA on a tool static landing page - this may be an
 _Any additional locations that the page should be navigable from such as the "About a form" page, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc.   These are secondary, and while they are still very important, are not required for launch._
 
 **1) Find a VA form, About page** - Add Page and Navigation Link
-- Placement description: Link on 'About VA Form ##-####' page, to intro page of form
+- Placement description: Link on 'About VA Form ##-####' page, to the intro page of the form
 - Link label: Go to the online tool
 - Link destination: Form intro page
 
