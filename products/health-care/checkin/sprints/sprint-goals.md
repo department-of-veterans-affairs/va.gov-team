@@ -74,9 +74,12 @@
 - **Pre-Check-in - VAHB**
     - BLOCKED until Kristen, Ryan T and Don determine who's doing the work and when. E.g., VAHB Team won't do a kickoff until it's approved. 
 - **Check in with staff after checking in**
+    - 🟥 Schedule Design Intent
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative in-person study](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=80762049&issue=department-of-veterans-affairs%7Cva.gov-team%7C92884)
+    - 🟥 Submit Research Repo tickets for unmoderated study to Shane for review
+    - 🟥 Submit Research Repo tickets for in-person study to Shane for review
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391556&pane=issue&itemId=81112557&issue=department-of-veterans-affairs%7Cva.gov-team%7C93643)
 - **Tech Debt & Analytics**
