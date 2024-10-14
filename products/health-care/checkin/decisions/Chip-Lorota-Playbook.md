@@ -1,7 +1,7 @@
 
 # On call patient check-in and Chip & Lorota Response Playbook
 
-## DEPRECATED Using [Tier 3 team Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/main/docs/PCI%20API%20Tier%203%20Team%20Playbook.md) instead
+## DEPRECATED Using [Shared Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/vetext-pci-incident-response/incident-response-playbook.md) instead
 
 
 ### Table of Contents
