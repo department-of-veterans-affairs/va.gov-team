@@ -48,7 +48,7 @@
     - **DEADLINE IS END OF YEAR**  
     - 🟥 [Create KPIs and ensure business alignment](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=80752456&issue=department-of-veterans-affairs%7Cva.gov-team%7C82894)
     - 🟥 [Draft non-PHI email notification](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=81959797&issue=department-of-veterans-affairs%7Cva.gov-team%7C94170)
-    - 🟥 [Submit CAIA ticket to update CC page on unauth site for direct scheduling cc appts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94444)
+    - 🟥 [Submit CAIA ticket to update CC page on unauth site for direct scheduling cc appts](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82484455&issue=department-of-veterans-affairs%7Cva.gov-team%7C94444)
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
     - 🟥 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94713)
     - 🟦 [Write CDW Query and Determine the Palantir Process to Create the API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)
