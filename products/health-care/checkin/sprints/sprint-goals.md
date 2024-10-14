@@ -48,13 +48,14 @@
     - **DEADLINE IS END OF YEAR**  
     - 🟥 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)
     - 🟥 [Draft non-PHI email notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94170)
-    - 🟥 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
     - 🟥 [Submit CAIA ticket to update CC page on unauth site for direct scheduling cc appts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94444)
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
     - 🟥 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94713)
     - 🟦 [Write CDW Query and Determine the Palantir Process to Create the API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)
     - 🟦 [Parse the exported raw data into usable data to store in restricted shared folder (TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93892)
-    - 🟦 [Implement deleting referral information we no longer need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93890)   -     
+    - 🟦 [Implement deleting referral information we no longer need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93890)
+    - **APPOINTMENTS SCRUM TEAM**
+      - 🟫 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
 - **Travel for OH**
     - **DEADLINE IS END OF YEAR**  
     - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
