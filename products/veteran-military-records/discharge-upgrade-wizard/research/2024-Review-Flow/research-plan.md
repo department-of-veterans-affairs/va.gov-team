@@ -153,12 +153,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 session.
 
 **Pilot 1**
-- Pilot participant email:
-- Date and time of pilot session: Between Oct 14-18
+- Pilot participant email: Bryan Thompson (bryan.thompson@agile6.com)
+- Date and time of pilot session: Oct 15, 5:30 pm ET
 
 **Pilot 2 (with AT user)**
-- Pilot participant email:
-- Date and time of pilot session: Between Oct 14-18
+- Pilot participant email: Sarah Koomson (sarah.koomson@oddball.io) or Maria Mutia (maria.mutia@adhocteam.us) on a screen reader
+- Date and time of pilot session: Oct 15, 2 pm ET
 
 ### Research sessions
 - Planned dates of research: Oct 22 - Nov 1, 2024
