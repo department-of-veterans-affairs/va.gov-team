@@ -2,7 +2,7 @@
 
 ## **How to Use This Document**
 
-This document provides guidance on identifying and managing incidents related to key authentication services on VA.gov. Here's how to use it:
+This document provides guidance on identifying incidents related to components that are owned by OCTO Identity Team. It describes the process to define and prioritize an incident, which is necessary to determine whether an incident must be declared.
 
 1. **Definition and Declaration of an Incident**: Begin by reviewing what constitutes an incident and the process for declaring one. This section explains the criteria for classifying an event as an incident based on user impact.  
 2. **Severity/Priority Levels and Response Times**: Next, determine the severity of the incident. This section helps you prioritize and respond based on the level of impact and the number of affected users.  
