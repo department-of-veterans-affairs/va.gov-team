@@ -13,7 +13,7 @@ This document describes the overall response process for any suitably severe inc
 
 ## Declaring an Incident
 * Incident management is performed through [Datadog Incidents](https://vagov.ddog-gov.com/incidents)
-* Specific instructions for declaring an incident are described in [datadog incident management]([https://github.com/department-of-veterans-affairs/va.gov-team/products/identity/Incident Response/Incident Declaration Guidelines.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/46456243acc2110580f0a2ffb3d2e6696b4bb48a/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md))
+* Specific instructions for declaring an incident are described in [datadog incident management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/46456243acc2110580f0a2ffb3d2e6696b4bb48a/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md)
 * If an incident requires code changes by the OCTO Identity team, in addition to the incident declaration, an Out of Band deploy is likely necessary. Follow the Platform OOB [process](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies#DeploymentPolicies-Requestingout-of-banddeploys)
 
 ## Ongoing Incident Management 
