@@ -198,3 +198,4 @@ Please list the people who will be serving in each role.
 
 ## Approvals
 - Amanda Klausmeier (VA UX lead) on October 8, 2024
+- Shane Strassberg (VA Research Ops) on October 9, 2024
