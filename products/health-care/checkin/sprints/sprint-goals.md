@@ -70,9 +70,9 @@
     - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764)  
 - **Travel Claims for Past Appts - VAHB**
     - **DEADLINE IS END OF YEAR**
-    - ⛔ TBD (E.g., VAHB Team is currently is design and development)
+    - ⛔ TBD (E.g., VAHB Team is currently in design and mobile OS implementation)
 - **Pre-Check-in - VAHB**
-    - ⛔ BLOCKED until Kristen, Ryan T and Don determine who's doing the work and when. E.g., VAHB Team won't do a kickoff until it's approved. 
+    - ⛔ BLOCKED until Kristen, Ryan T and Don determine who's doing the work and when. E.g., VAHB Team won't do a kickoff until it's approved between OCTO. 
 - **Check in with staff after checking in**
     - 🟥 Schedule Design Intent
     - 🟥 Submit CAIA intake request ticket to review content changes
