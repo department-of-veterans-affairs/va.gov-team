@@ -70,7 +70,7 @@
     - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764)  
 - **Travel Claims for Past Appts - VAHB**
     - **DEADLINE IS END OF YEAR**
-    - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94870)
+    - TBD (E.g., VAHB Team is currently is design and development)
 - **Pre-Check-in - VAHB**
     - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
     - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
