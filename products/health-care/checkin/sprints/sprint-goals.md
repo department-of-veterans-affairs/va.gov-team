@@ -72,9 +72,7 @@
     - **DEADLINE IS END OF YEAR**
     - TBD (E.g., VAHB Team is currently is design and development)
 - **Pre-Check-in - VAHB**
-    - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
-    - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
-    - 🟥 [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
+    - BLOCKED until Kristen, Ryan T and Don determine who's doing the work and when. E.g., VAHB Team won't do a kickoff until it's approved. 
 - **Check in with staff after checking in**
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
