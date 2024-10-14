@@ -191,7 +191,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator): Jordan Wood, Dave Pickett
 - Participant recruiting & screening: Perigean
 - Project point of contact: Jordan Wood, Dave Pickett
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: Bryan Thompson, TBD on Sarah Koomson or Maria Mutia for AT pilot
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Laura Flannery (laura.flannery@civicactions.com)
 - Note-takers: Perigean
 - Observers: TBD
