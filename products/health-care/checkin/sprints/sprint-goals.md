@@ -75,6 +75,8 @@
     - BLOCKED until Kristen, Ryan T and Don determine who's doing the work and when. E.g., VAHB Team won't do a kickoff until it's approved. 
 - **Check in with staff after checking in**
     - 🟥 Schedule Design Intent
+    - 🟥 Submit CAIA intake request ticket to review content changes
+    - 🟥 [Create wireframe for intro page with content](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=83339156)
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative in-person study](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=80762049&issue=department-of-veterans-affairs%7Cva.gov-team%7C92884)
