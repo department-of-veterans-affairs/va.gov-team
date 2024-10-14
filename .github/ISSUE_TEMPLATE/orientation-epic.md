@@ -45,7 +45,7 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose) for an overview of VA.gov
 - [ ] Watch [VFS Orientation for Platform Website video](https://www.youtube.com/watch?v=I3RFCuTEfBI&ab_channel=PlatformCrew)
 - [ ] Watch the [Platform Support overview video](https://www.youtube.com/watch?v=V3o_oiwrpA4)
-- [ ] Review the [Getting help from the Platform in Slack guidance](https://depo-platform-documentation.scrollhelp.site/support/Getting-help-from-the-Platform-in-Slack.1439138197.html)
+- [ ] Review the [Getting help from the Platform in Slack guidance](https://depo-platform-documentation.scrollhelp.site/support/getting-help-from-the-platform-in-slack)
 - [ ] Review [Welcome](https://depo-platform-documentation.scrollhelp.site/getting-started/Welcome.1255276574.html) documentation
 - [ ] Review [Support Overview](https://depo-platform-documentation.scrollhelp.site/support/Support-overview.604012552.html) documentation
 - [ ] Review the guidance on [Submitting a feature request](https://depo-platform-documentation.scrollhelp.site/support/Submitting-a-feature-request.1938915400.html)
