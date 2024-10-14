@@ -76,6 +76,7 @@
 - **Check in with staff after checking in**
     - 🟥 Schedule Design Intent
     - 🟥 Submit CAIA intake request ticket to review content changes
+    - 🟥 [Add annotations to userflow to ensure eng understands changes](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=83339637&issue=department-of-veterans-affairs%7Cva.gov-team%7C94912)
     - 🟥 [Create wireframe for intro page with content](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=83339156)
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
