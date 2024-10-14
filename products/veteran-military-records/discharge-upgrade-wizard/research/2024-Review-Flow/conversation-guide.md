@@ -306,3 +306,4 @@ We recommend you plan a graceful exit strategy that you will feel comfortable us
 
 ## Approvals
 - Amanda Klausmeier (VA UX lead) on October 8, 2024
+- Shane Strassberg (VA Research Ops) on October 9, 2024
