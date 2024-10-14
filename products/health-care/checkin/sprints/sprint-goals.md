@@ -112,8 +112,8 @@
     - ✔️ ❗ 🟩 Schedule Privacy, security, infrastructure readiness review [instructions](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Privacy-and-security-review.1782317101.html) [artifact](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1979)
 - **Community Care Direct Scheduling**
     - **Sprint Goals is to move forward as much as we can given the roadblocks that exist**
-    - 🟥 [[Design] Wireframe for when when the selected provider doesn't have their time slots open to EPS/WellHive](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93373)
-    - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
+    - ✔️ 🟥 [[Design] Wireframe for when when the selected provider doesn't have their time slots open to EPS/WellHive](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93373)
+    - 🚧 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/91576)
     - ✔️ 🟥 [Create and submit CAIA ticket for final content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93968)
     - ✔️ 🟥 [Update CC VDSS Research Findings pres for Monday's readout with OCTO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93870)
     - 🟩 [[FE] Time selection inline validation error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91914)
@@ -133,9 +133,9 @@
     - ✔️ 🟥 [[Research] Finish IPT presentation](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=81758430)
     - 🚧 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🚧 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
-    - 🟥 [Create final wireframes for "go see staff" after checking in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93804)
-    - Schedule Design Intent (PO Sync occurred on 9/25)
-    - Schedule Research Repo tickets for unmoderated study to Shane for review 
+    - ✔️ 🟥 [Create final wireframes for "go see staff" after checking in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93804)
+    - 🚧 Schedule Design Intent (PO Sync occurred on 9/25)
+    - 🚧 Schedule Research Repo tickets for unmoderated study to Shane for review 
     - ✔️ Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well) (Scheduled for Thursday)
 - **VAHB: Medication Wording**
     - ⬛ [Update Medication Wording for Appointments | In Person & Community Care & Phone](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9759)
