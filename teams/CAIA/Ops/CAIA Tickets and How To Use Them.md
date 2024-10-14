@@ -4,7 +4,7 @@
 ## In this Document
 - [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#overview)
 - [Ticket Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-types)
-- [Custom Field Section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#custom-field-section)
+- [Custom Fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#custom-field-section)
 - [Ticket Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-status)
 
 # Overview
@@ -44,7 +44,7 @@ The title section contains the name of the ticket with the following naming conv
 - [CAIA intake] is used to distinguish the ticket type
 - Work tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning
 
-# Custom Field Section
+# Custom Fields
 This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. This includes:
 
 ### Required fields
