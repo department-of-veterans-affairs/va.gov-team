@@ -7,6 +7,7 @@ Tickets [#117](https://github.com/department-of-veterans-affairs/tmf-auth-exp-de
 - [Option 1](#option-1)
 - [Option 2](#option-2)
 - [Decision](#decision)
+- [Open questions](#open-questions)
 
 ## Overview
 
@@ -74,9 +75,6 @@ New proposed user flow --> When we click “edit,” we want to return to that s
 ## Perceived Issues with This New Functionality
 
 1) If the Edit button takes the user back to that section’s original page, the user will be forced to click through the entire form again just to return to the Review page. Previously filled-out information will still be there though, which is at least good.
-2) We’ll need to modify files within the platform/forms-system. How do we approach this? Would it be feasible to test this feature solely in our mock form app? Can we make copies of the necessary platform files and transfer them into our mock app folder as we’ve done previously with the other pattern?
-   
-    a) We could make a prototype in another branch and host this on Codespaces since we do not need to be on main.
 
 ### Other resources
 - [Slack thread](https://dsva.slack.com/archives/C5HP4GN3F/p1727724185315819) talking about a similar functionality. 10-10 team has a custom review component that when clicking edit sends the user back to the form page with a query param of review=true.
@@ -226,6 +224,7 @@ Pros
 
 Cons
 - sessionStorage items need to be removed by JavaScript during navigation or other interactions. Thus, need to account for this and make sure no edge cases get missed so that the user isn't accidentally redirected
+- sessionStorage keys need to be maintained by the app or the engineers building the app. Is the session key app specific, or is it for any app? Could having one session key 'to rule them all' introduce a source of bugs? Adds a little complexity.
 
 ### Option 2
 Pros 
@@ -237,5 +236,16 @@ Cons
 - Cluttered URL
   
 **Possible future fix for this: The formConfig could be used to identify the available URLs within the app, which could allow for smarter redirection and sensible fallbacks.
+
+
+## Open Questions 
+### Next steps/thoughts to consider
+
+1) We’ll need to modify files within the platform/forms-system. How do we approach this? Would it be feasible to test this feature solely in our mock form app? Can we make copies of the necessary platform files and transfer them into our mock app folder as we’ve done previously with the other pattern?
+   
+    a) We could make a prototype in another branch and host this on Codespaces since we do not need to be on main.
+2) Will this new review page edit implementation be adopted by other teams, or will it remain confined to this mock application? 
+3) Will this new review page be incorporated into future patterns? If it is, we’ll need to carefully consider edge cases of each option.
+
 
 
