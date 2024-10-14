@@ -58,7 +58,7 @@ because they can help me advocate for improvements to the process in the future.
 If you need help with an existing claim or issue, we can connect you with someone after this session. 
 
 Before we start, I have a few things that I want to go over with you:
-- **This entire session should take about 2 hours.** I want to be sure not to keep you
+- **This entire session will take up to 2 hours.** I want to be sure not to keep you
 much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong
 answers; we are not testing your knowledge or abilities. I welcome any and all of your
@@ -111,6 +111,8 @@ you?
 
 ## Screen sharing instructions (if needed)
 - [Laura/CAIA person] will provide instructions specific to AT
+- Note for screen readers: If using phone or tablet, there won’t be a share sound button. You may not hear their screen reader speaking.
+- Note for screen magnifiers: Screen magnification doesn’t visually come through over Zoom. Double-check with the participant and let them know that you don’t see it on your end.
 - In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...) or Share Screen (on computer, button is green).
      - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
      - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
@@ -157,6 +159,9 @@ receive the URL? I could email, text, dictate it to you, or put it in the Zoom c
 Now I'm going to ask you to do some things...
 
 ### Screen sharing
+
+- Note for screen readers: If using phone or tablet, there won’t be a share sound button. You may not hear their screen reader speaking.     
+- Note for screen magnifiers: Screen magnification doesn’t visually come through over Zoom. Double-check with the participant and let them know that you don’t see it on your end.
 
 (If Dolphin screen reader, won't be able to share screen on Zoom, so will need to open the prototype and listen to them and their screen reader while they navigate. Ask them to talk aloud about what's going on.)
 
@@ -340,3 +345,4 @@ We recommend you plan a graceful exit strategy that you will feel comfortable us
 
 ## Approvals
 - Amanda Klausmeier (VA UX lead) on October 8, 2024
+- Shane Strassberg (VA Research Ops) on October 9, 2024
