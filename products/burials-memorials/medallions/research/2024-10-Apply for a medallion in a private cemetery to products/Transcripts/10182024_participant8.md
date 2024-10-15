@@ -11,7 +11,7 @@ Slack for real-time feedback from observers.
 ### Starting the session
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
+- Check your [screensharing setup] and share permissions for participants
 - When the participant is ready, begin the session with the following intro*
 - Make sure to silence the sounds as observers enter and exit, General>View advanced features>Play sound when participants join or leave.
 - Ensure it's recording to the cloud.
