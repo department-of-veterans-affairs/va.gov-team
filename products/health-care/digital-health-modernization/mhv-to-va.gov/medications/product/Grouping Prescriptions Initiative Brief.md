@@ -102,8 +102,8 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 ### Collaboration Cycle
 - [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94684)
 - 10/16 - PO Sync
+- 10/23 - Architecture Review
 - 10/24 - Design Intent
-- TBD - Architecture Intent
 - 11/15 - Midpoint
 - 12/10 - Staging
 - Release by end of PI 17 - Jan 21.
