@@ -141,14 +141,14 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 
 | Link| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Refill and track your prescriptions|||||||||| 
-| Send a secure message to your health care team |||||||||| 
-| Schedule and manage health appointments |||||||||| 
-| Download your VA medical records (Blue Button) |||||||||| 
-| View your lab and test results |||||||||| 
-| Order hearing aid batteries and accessories ||||||||||
-| Download VA Health Chat |||||||||| 
-| Connect to VA care |||||||||| 
+| Refill and track your prescriptions|231|318|267|200|246|173|-|3,057|4,884 | 
+| Send a secure message to your health care team |139|266|157|157|124|112| -|1,485|2,472 | 
+| Schedule and manage health appointments |291|381|245|260|225|194|-|2,145|3,782| 
+| Download your VA medical records (Blue Button) |335|300|314|332|270|234|-|1,550|2,321| 
+| View your lab and test results |98|219|103|91|92|72|-|1,348|2,013| 
+| Order hearing aid batteries and accessories |41|150|51|35|28|27|-|373|581|
+| Download VA Health Chat |-|-|-|-|-|-|-|579|529| 
+| Connect to VA care |-|-|-|-|-|-|-|2,045|1,847| 
 
 ### Unique pageviews on other specified pages
 
