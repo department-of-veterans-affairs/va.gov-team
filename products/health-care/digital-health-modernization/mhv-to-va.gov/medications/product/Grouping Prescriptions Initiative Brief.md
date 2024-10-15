@@ -3,35 +3,47 @@
 
 ---
 ## Outcome Summary
-Allow users to request a renewal of a prescription directly from within the Medications product on VA.gov to improve CSAT and user adoption of Medications on VA.gov. 
+The medications list has one object (card) for each medication (medication name + doage + form). Prescriptions are rolled up to the medication level and not separated into indivudal cards.
 
 **Related/Associated product(s)**
 [Medications product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications)
 
 ## Problem
-* Today on VA.gov when a prescription has 0 refills left or is expired, users are unable to refill the prescription and must request a renewal from their prescriber.  For these prescriptions today we give users a message with a link to the card to "Learn how to renew prescriptions".  This takes them to the landing page where they are given the option to renew by phone or by secure message.  If a user chooses to send a secure message they need to ensure they include a list of 7 details from their prescription information, that they already have today in the medications product.  This puts a heavy burden on the user to copy the information and go between multiple places on the patient portal.  
-* Today MyVA Health users have the ability in the Medications product to request a renewal with this information pre-populated into a secure message directly.  When we integrate with OH we need to ensure users have the ability to renew a prescription directly from the medications product.  We also want to use this opportunity to look into improving this experience for the providers who need to approve of the renewals.
-* In Medallia feedback on both VA.gov and MHV Classic this is the number one requested feature and would help users get their prescriptions more quickly.  This would directly improve the following OCTO OKRS: 1.1 CSAT (customer satisfaction) for our web products have increased by 5 points. 
-1.2 Number of transactions processed using our products have increased by 25%. 
-1.3 All new products have a faster transaction time than those they replaced. 
+The goal with medications on VA.gov was to create one holistic view for Veterans to be able to manage their medications, both VA and non-VA.  The first iteration, focused on prescriptions and what's available today in MHV. As the medications product outline states, the current application (MHV legacy) is associated with prescriptions and prescription refills, but the goal is for Veterans to think of medications they take holistically and give them information they can use to discuss with their provider. The medications list today includes two different types of objects: prescriptions and medications, wich causes user confusion and frustration. MHV legacy and VAHB app only show medications from the past 6 months, but there was a requirement on VA.gov to show all historical medications, this has added a tremendous amount of expired or discontinued objects to the list, making it very difficult for users to navigate.
 
+## Supporting Veteran Feedback
+Since rolling medications out to Phase 1, we have heard a bunch of positive feedback from veterans but we have seen a consistent theme of findability come up as a source of frustration.  Below are some Medallia comments and details from a findability study to support this initative: 
+  * Do not like having all the medicines that have been discontinued listed and all the non-VA medicines listed. - September Veteran feedback
+  * Why do I need to see multiple scripts for the same drug ordered for 3 years? It is pointless clutter. - August Veteran feedback
+  * I can not go through 584 medications to find the few that I'm actually using. - August Veteran feedback
+  * Very confusing. Too much information. - August Veteran feedback
+  * Why do you still post a medication that is no longer active? - July Veteran feedback
+  *  [Findability study findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-02-findability-study):
+    * Half the participants (9 of 18) stated they are looking for their medication names when first logging into their medications platform.
+    * Most participants (14 of 18) placed the non-VA active medication after the active medications, followed by expired and discontinued medications.
+    * All participants (18 of 18) stated they want medications they no longer take or need removed from their medication list.
+    * Most participants (14 of 18) reported relying on the name when looking for a medication in their medication platform.
 
 ## Desired User Outcomes
-- Faster, more direct way to request prescription renewals.  
-- Users know how to get a medication they are prescribed no matter what the current status is.
-- Users can accomplish all of their medication tasks within the Medications product of the patient portal.
+- Veterans find the medications list is easy to navigate and find what they are looking for. 
+- Veterans know how to find a complete list of medications they have on file at VA, as well as any relevant details about those medications. This includes all historical information about a medication including past prescription history.
+- Improve transparency / reduce confusion around medications a Veteran is taking (VA and non-VA)
+- Veterans are well-informed about the status of their medications (when something needs to be refilled or renewed, shipment tracking updates, etc.)
 
 ## Undesired User Outcomes
-- Requests for renewals get "stuck" somewhere in the system and the user does not get feedback on their request.
+- Medication section doesn’t provide the user with the same functionality that they have today- causing frustration and dissatisfaction.
+- Veterans are confused about medications they are taking.
+- Veterans are confused by VA and non-VA medications that are the same medication. 
 -
 ## Desired Business Outcomes
-- Less burden on pharmacy's automated refill line
-- Improved provider experience when managing/responding to secure message renewal requests. 
-- Veterans get their prescriptions in a timely manner. 
-- Veterans are able to accomplish all medications tasks within the patient portal.
+- Veterans have access to all historical information about a medication including past prescription history.
+- Misalignment in data and functionality on VA Health and Benefits Application and MHV on va.gov.
+- Enabling users to understand and self-service medication needs leads to more timely care, reduces burden on clinical staff, and increases patient safety. 
+- Have one place for veterans to find all their medication information and self serve their medication needs.
+- Easily accessible and identifiable medications list will alleviate congressional and patient safety questions.
 
 ## Undesired Business Outcomes
-- More burden is placed on the providers to respond to renewal requests. 
+- Users find the medications on VA.gov complex and difficult to accomplish their tasks and continue to default to MHV legacy to self-serve their needs.
 
 ---
 ## Measuring Success
@@ -77,7 +89,7 @@ Allow users to request a renewal of a prescription directly from within the Medi
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93196)
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94684)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -86,37 +98,27 @@ Allow users to request a renewal of a prescription directly from within the Medi
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - Spring 2025
+  - V1 - Jan 2025
+  - Possible V2 coming later
 - *Actual Launch Date* 
   - tbd
 
 ---
    
-## Screenshots
+## Example of 3 different prescriptions as separate objects on the medications list
+![image](https://github.com/user-attachments/assets/432d12f0-b523-43ec-a2bf-5f9a870aabc9)
 
-### Before- MHV on VA.gov
-![image](https://github.com/user-attachments/assets/ad701bf9-860c-4530-80a7-c898710c4516)
-![image](https://github.com/user-attachments/assets/96073339-7262-4b40-81f0-0792a6566048)
-![image](https://github.com/user-attachments/assets/d002b348-77ce-49a7-b694-7d91dc64a93d)
-
-
-### Before- MYVA Health
-![image](https://github.com/user-attachments/assets/81759577-522e-4715-9e8a-7f2e2d122df1)
-![image](https://github.com/user-attachments/assets/dd18f890-2ec8-4663-8809-7301eb21e494)
-![image](https://github.com/user-attachments/assets/dd819889-a295-49b6-8d7f-530e6bd705bd)
-
-### After
-
+### Additional resources 
+- [Medications Data Modeling & Lo-fi Re-Structure Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708968755045/4bdbe77c90fbcf529afa0cf7c05342f6357c7997?sender=uffe0b1e17d72421900bf8566) from IA
 ---
 
 #### Communications
 - Team Name: Medications on VA.gov
-- GitHub Label(s): 
+- GitHub Label(s): MHV-Medications
 - Slack channel: #mhv-medications-devs, #mhv-medications-rx
-- Product POCs: Kaitlin Fink
+- Product POCs: Kaitlin Fink (acting), Kay Lawyer (parental leave)
 
 #### Stakeholders
-- OCC: Eric Spahn (RX), Patty Henry (SM) (if SM is the desired solution) 
-- PCP SME Work group: Lead by Meredith Joesphs, Organized by Bresha Lipscomb
+- OCC: Eric Spahn (RX)
 
 ---
