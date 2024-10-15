@@ -7,6 +7,7 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 - [Manual testing workflow for product/design](#manual-testing-workflow-for-productdesign)
 - [Creating a bug ticket](#creating-a-bug-ticket)
 - [Bug tracking and fixing](#bug-tracking-and-fixing)
+- [References](#references)
 
 ## Manual testing workflow for product/design
 1. Tyler will list initial scenarios we should test.
@@ -22,23 +23,20 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 
 ## Creating a bug ticket
 ### Rules
-- **Avoid rewriting the rules in multiple places.** Link to existing documentation as much as possible. This will prevent errors. See example below for **Require Veteran's branch of service for certain categories #1293**.
+- **Avoid rewriting the rules in multiple places.** Link to existing documentation as much as possible. This will prevent errors. See example below for [Require Veteran's branch of service for certain categories #1293](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1293).
 
 > - [ ] Rules are met as defined in documentation
 >  
 > - [ ] Tested 2 categories that require branch of service to confirm rules
 > 
 > - [ ] Tested 2 categories that do not require branch of service to confirm rules
+- **Product, dev, or design can all identify bugs.** If you're creating a ticket, just make sure to follow these steps.
+- Include screenshots as needed.
+- Keep comments about the bug in the ticket
 
-### Steps
-- Add these labels to the ticket:
-   - `bug`, `dev`, `dev-FE` and/or `dev-BE`, `severity [number]`
-- Assign to **Caterpillars** column
-
-## Bug tracking and fixing 
-[Bug Tracking Ways of Working](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719508782816/0c02aafe8740074c13ea3a6821008f9f08266f5d?sender=uc2a4f18a27ff336484232897) 
-
-Bugs will be identified by Product or Teammates when identified. Bugs will be labeled with “Bug” and will be triaged within Zenhub within the Defects swimlane, ordered by priority. 
+### Rules for product
+- **Order bugs by priority in the Caterpillars swimlane.**
+- **Assign severity based on the following table.** ⚠️ Note: We're done with AT testing and probably need to update this table.
 
 | Category | Description | Resolution Process |
 |--------------|-------------|--------------------|
@@ -46,31 +44,28 @@ Bugs will be identified by Product or Teammates when identified. Bugs will be la
 | **Severity&nbsp;2** | This will impact AT, but lesser priority | Give a heads up before picking up another ticket|
 | **Severity&nbsp;3** | Not blocking AT, but will be needed to be resolved prior to release **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
 
+### Steps
+#### Before creating ticket
+1. **Check if the bug already exists.** Do a keyword search in ZenHub for related issues. PM will archive duplicates as needed.
 
-### Process for Bug Creation: 
+#### Creating the ticket
+1. Copy the bug template below into an issue. ⚠️ Note: Is this bug template up to date? 
+2. Add these labels to the ticket:
+   - `bug`, `dev`, `dev-FE` and/or `dev-BE`, `severity [number]`
+      - Severity 1: Pre-launch, eg. flow broken, etc.
+      - Severity 2: Fast follow post launch, eg. missing content
+      - Severity 3: Backlog, eg. spacing issues
+3. Assign to **Caterpillars** swimlane.
+4. Add links to rules documentation.
+5. Tag Design (@tygindraux and @t-michaud)
 
+## References
+- [See our Mural from June 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719508782816/0c02aafe8740074c13ea3a6821008f9f08266f5d?sender=uc2a4f18a27ff336484232897) where we first documented ways of working for bugs
 ![image](https://github.com/user-attachments/assets/95d60188-5bf2-456b-bb08-36481438c4d9)
 
+### Current Bug Template
+⚠️ Note: Is this bug template up to date? 
 
-When identifying a bug take the following steps: 
-
-1. Check if the bug already exists
-2. Include steps to recreate the defect
-3. Include screenshots
-4. Keep comments about the bug in the ticket
-   - If Rules are applied in the scope of the ticket, reference a link to the rules doc directly instead of cross posting the rule in the individual card.
-   - If Rules need to be tested include in the acceptance criteria:
-       - [ ] Rules are met as defined in documentation
-       - [ ] Tested 2 categories that require branch of service to confirm rules
-       - [ ] Tested 2 categories that do not require branch of service to confirm rules
-5. Tag Design (Tyler / Thomas)
-6. Log Bug ticket in Caterpillars
-7. Assign Priority
-   - Severity 1: Pre-launch, eg. flow broken, etc.
-   - Severity 2: Fast follow post launch, eg. missing content
-   - Severity 3: Backlog, eg. spacing issues
-
-### Current Bug Template:
 #### Description
 _**Required.** Describe the problem._
 <!-- EXAMPLE: The -->
