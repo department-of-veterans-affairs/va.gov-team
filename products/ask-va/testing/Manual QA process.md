@@ -61,7 +61,6 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 
 ## References
 - [See our Mural from June 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719508782816/0c02aafe8740074c13ea3a6821008f9f08266f5d?sender=uc2a4f18a27ff336484232897) where we first documented ways of working for bugs
-![image](https://github.com/user-attachments/assets/95d60188-5bf2-456b-bb08-36481438c4d9)
 
 ### Current Bug Template
 ⚠️ Note: Is this bug template up to date? 
