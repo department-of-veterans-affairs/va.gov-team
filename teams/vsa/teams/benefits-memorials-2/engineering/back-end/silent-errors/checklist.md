@@ -101,7 +101,6 @@ If you answered yes to any of these questions then go through the following [che
   * [Ticket](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/94946)
 
 ## We don't have any silent errors!
-vsa/teams/benefits-memorials-2/engineering/back-end/silent-errors/checklist.md
 Great! Please let us know that you went through the checklist above as a team and did not find any silent failures in our Slack channel: [#zero-silent-failures](https://dsva.slack.com/archives/C07KTTFP308). You don't have to hang out in there once you have notified us. Just pop in, tell us who you are (which team and in which portfolio) and that no failures were found. Thanks!
 
 ## Additional details
