@@ -56,8 +56,6 @@
     - 🟦 [Parse the exported raw data into usable data to store in restricted shared folder (TBD)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93892)
     - 🟦 [Implement deleting referral information we no longer need](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93890)
     - 🟩 DO WE HAVE ANY FE TICKET????????????
-    - **APPOINTMENTS SCRUM TEAM**
-      - 🟫 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
 - **Travel for OH**
     - **DEADLINE IS END OF YEAR**  
     - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
@@ -76,12 +74,12 @@
 - **Pre-Check-in - VAHB**
     - ⛔ Kristen, Ryan T and Don need to determine who's doing the work and when. E.g., VAHB Team won't do a kickoff until it's approved between OCTO. 
 - **Check in with staff after checking in**
-    - 🟥 Schedule Design Intent
+    - 🟥 [Schedule design intent](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94241)
     - 🟥 Submit CAIA intake request ticket to review content changes
-    - 🟥 [Add annotations to userflow to ensure eng understands changes](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=83339637&issue=department-of-veterans-affairs%7Cva.gov-team%7C94912)
-    - 🟥 [Create wireframe for intro page with content](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=83339156)
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
+    - 🟥 [Add annotations to userflow to ensure eng understands changes](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=83339637&issue=department-of-veterans-affairs%7Cva.gov-team%7C94912)
+    - 🟥 [Create wireframe for intro page with content](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=83339156)
     - 🟥 [[Research] Create Conversation Guide for check in with staff initiative in-person study](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391310&pane=issue&itemId=80762049&issue=department-of-veterans-affairs%7Cva.gov-team%7C92884)
     - 🟥 Submit Research Repo tickets for unmoderated study to Shane for review
     - 🟥 Submit Research Repo tickets for in-person study to Shane for review
