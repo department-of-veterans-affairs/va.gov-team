@@ -1,8 +1,27 @@
-# How do we know that Phase 1 - Front End Portal Redesign for AVA has been successful?
-Last updated by @beckyphung on December 12, 2023
+# Ask VA KPIs
+Last updated by @beckyphung on October 15, 2024
 
-**Acceptance Criteria for the Product:** 
-- [This scope is achieved](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/edit?usp=drive_open&ouid=101501728404306985792).
+🚧 10/15 Update: We're working on updating this page right now.
+
+These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
+
+Jump to: 
+- [User experience KPIs](#user-experience-kpis)
+- [Performance KPIs](#performance-kpis)
+
+## User experience KPIs
+User Experience KPIs measure how well Ask VA meets the needs and expectations of its users.
+
+
+
+
+## Performance KPIs
+Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads.
+
+
+
+----
+🚧 Old text below
 
 ## KPIs (Pick max 3-5):
 
