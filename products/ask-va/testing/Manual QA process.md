@@ -21,13 +21,13 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 
 ## Creating a bug ticket
 ### Rules
-- **Avoid rewriting the rules in multiple places.** Link to existing documentation as much as possible. This will prevent errors. See example below.
+- **Avoid rewriting the rules in multiple places.** Link to existing documentation as much as possible. This will prevent errors. See example below for **Require Veteran's branch of service for certain categories #1293**.
 
-> [ ] Rules are met as defined in documentation
+> - [ ] Rules are met as defined in documentation
+>  
+> - [ ] Tested 2 categories that require branch of service to confirm rules
 > 
-> [ ] Tested 2 categories that require branch of service to confirm rules
-> 
-> [ ] Tested 2 categories that do not require branch of service to confirm rules
+> - [ ] Tested 2 categories that do not require branch of service to confirm rules
 
 ### Steps
 - Add these labels to the ticket:
