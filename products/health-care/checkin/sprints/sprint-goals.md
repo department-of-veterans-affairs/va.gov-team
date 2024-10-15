@@ -43,7 +43,11 @@
 - **Production Support**
     - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
     - **Move to New AWS Instance**
-      - TBD
+      - 🟨 [[DevOps] Wrap LoROTA event handler bodies in `try... catch` blocks.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/583)
+      - 🟨 [[DevOps] LoROTA should include error in Datadog tracing information.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/600)
+      - 🟨 [[DevOps] Figure out how to connect to MAP or onboard or whatever we need to do.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/612)
+      - 🟨 [Renew `vista-api-int` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/674)
+      - 🟨 [Remove `vista-api-dev` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/678)
 - **Community Care Appointment Scheduling**
     - **DEADLINE IS END OF YEAR**  
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=80759582&issue=department-of-veterans-affairs%7Cva.gov-team%7C91576)
