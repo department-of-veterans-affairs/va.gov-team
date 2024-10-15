@@ -11,7 +11,7 @@ The medications list has one object (card) for each medication (medication name 
 ## Problem
 The goal with medications on VA.gov was to create one holistic view for Veterans to be able to manage their medications, both VA and non-VA.  The first iteration, focused on prescriptions and what's available today in MHV. As the medications product outline states, the current application (MHV legacy) is associated with prescriptions and prescription refills, but the goal is for Veterans to think of medications they take holistically and give them information they can use to discuss with their provider. The medications list today includes two different types of objects: prescriptions and medications, wich causes user confusion and frustration. MHV legacy and VAHB app only show medications from the past 6 months, but there was a requirement on VA.gov to show all historical medications, this has added a tremendous amount of expired or discontinued objects to the list, making it very difficult for users to navigate.
 
-## Supporting Veteran Feedback
+## Supporting Veteran Painpoints
 Since rolling medications out to Phase 1, we have heard a bunch of positive feedback from veterans but we have seen a consistent theme of findability come up as a source of frustration.  Below are some Medallia comments and details from a findability study to support this initative: 
   * Do not like having all the medicines that have been discontinued listed and all the non-VA medicines listed. - September Veteran feedback
   * Why do I need to see multiple scripts for the same drug ordered for 3 years? It is pointless clutter. - August Veteran feedback
@@ -51,8 +51,12 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 ### Key Performance Indicators (KPIs)
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
-
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Positive CSAT increases over time | Baseline 65% | Goal after 3 months | [Monthly reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/analytics)
+- Negative CSAT decreases over time | Baseline 26% | Goal 20% after 3 months | [Monthly reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/analytics)
+- Monitor CSAT qualitative comments for findability and frustrations with the list view (as outlined in Veteran painpoints above)
+- Conduct additional findability research after additional improvements have been made
+- Total refills made on VA.gov stays consistent or increases | Baseline 3.4% | Goal >3.4% | [Datadog](https://vagov.ddog-gov.com/dashboard/p4s-ppk-kpw/rx-on-vagov?fromUser=false&refresh_mode=monthly&view=spans&from_ts=1726461222529&to_ts=1729025404109&live=true)
+- Total % of veteran users stays consistent or increases | Baseline 3.5% | Goal >3.5% | [Datadog](https://vagov.ddog-gov.com/dashboard/p4s-ppk-kpw/rx-on-vagov?fromUser=false&refresh_mode=monthly&view=spans&from_ts=1726461222529&to_ts=1729025404109&live=true)
 
 ---
 
@@ -63,15 +67,20 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Veterans are used to what exists today and changing that logic/behavior will be difficult for them to adopt. 
+  - Veterans don't understand (or get why) that the medications product on VA.gov includes all historical medicaitons including those over 6 months old. 
 - **Usability Risks** (can people figure out how to use it):
-  - .
+   - Veterans will find it harder to navigate than MHV today.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
+   - We have to update the vets-api and possibly MHV layer.
+   - Pagination on VA.gov today gets tricky and we will likely have to create new endpoints in the API.
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+   - VA.gov, MHV legacy and VAHB all display different types of objects and date ranges.  This already exists somewhat today but the objects will be even more different with these changes.
+   - May need training and additional education for helpcenters and MHVC.
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
 
