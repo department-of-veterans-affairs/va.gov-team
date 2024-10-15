@@ -89,33 +89,28 @@
 
 ## Launch Planning
 ### Collaboration Cycle
-- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94684)
-- 10/16 - PO Sync
-- 10/23 - Architecture Review
-- 10/24 - Design Intent
-- 11/15 - Midpoint
-- 12/10 - Staging
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94685)
+- 10/23 - PO Sync
+- TBD - Architecture Review
+- 10/31 - Design Intent
+- 12/12 - Midpoint
+- 1/7 - Staging
 - Release by end of PI 17 - Jan 21.
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-- The medications product is working on a variety of findability improvements in PI17 based on the current user problems we've identified.  Rather than doing research for each indivdual solution, the team is planning to conduct research in combination with other changes in PI18.
+- 
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - V1 - Jan 2025
-  - Possible V2 coming later
+  - Jan 2025
 - *Actual Launch Date* 
   - tbd
 
 ---
-   
-## Example of 3 different prescriptions as separate objects on the medications list
-![image](https://github.com/user-attachments/assets/432d12f0-b523-43ec-a2bf-5f9a870aabc9)
 
 ### Additional resources 
-- [Medications Data Modeling & Lo-fi Re-Structure Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708968755045/4bdbe77c90fbcf529afa0cf7c05342f6357c7997?sender=uffe0b1e17d72421900bf8566) from IA
-- [Inital Slack Discussion](https://dsva.slack.com/archives/C059Q28DV99/p1725994741982699)
+
 ---
 
 #### Communications
