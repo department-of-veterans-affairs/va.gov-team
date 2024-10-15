@@ -6,7 +6,6 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 **Jump to:** 
 - [Manual testing workflow for product/design](#manual-testing-workflow-for-productdesign)
 - [Creating a bug ticket](#creating-a-bug-ticket)
-- [Bug tracking and fixing](#bug-tracking-and-fixing)
 - [References](#references)
 
 ## Manual testing workflow for product/design
