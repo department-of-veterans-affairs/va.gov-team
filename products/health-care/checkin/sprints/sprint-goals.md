@@ -48,6 +48,9 @@
       - 🟨 [[DevOps] Figure out how to connect to MAP or onboard or whatever we need to do.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/612)
       - 🟨 [Renew `vista-api-int` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/674)
       - 🟨 [Remove `vista-api-dev` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/678)
+      - 🟨 [[DevOps] Create and Apply Dev env DB Parameter Group with Vulnerability Remediation Parameter Configuration](https://github.com/department-of-veterans-affairs/checkin-devops/issues/704)
+      - 🟨 [[DevOps] Install pgcrypto Extension on vista-api-dev](https://github.com/department-of-veterans-affairs/checkin-devops/issues/579)
+      - 🟨 [[DevOps] Remediate High vista-api-dev Findings by Updating DB Engine to 14.12](https://github.com/department-of-veterans-affairs/checkin-devops/issues/547)
 - **Community Care Appointment Scheduling**
     - **DEADLINE IS END OF YEAR**  
     - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=80759582&issue=department-of-veterans-affairs%7Cva.gov-team%7C91576)
