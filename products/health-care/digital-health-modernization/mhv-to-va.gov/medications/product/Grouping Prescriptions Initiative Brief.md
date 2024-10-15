@@ -1,5 +1,5 @@
 
-# RGrouping Prescriptions
+# Grouping Prescriptions Initiative Brief
 
 ---
 ## Outcome Summary
