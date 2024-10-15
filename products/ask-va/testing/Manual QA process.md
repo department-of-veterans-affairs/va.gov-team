@@ -30,7 +30,7 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 > - [ ] Tested 2 categories that require branch of service to confirm rules
 > 
 > - [ ] Tested 2 categories that do not require branch of service to confirm rules
-- **Product, dev, or design can all identify bugs.** If you're creating a ticket, just make sure to follow these steps.
+- **Product, dev, or design can identify bugs.** If you're creating a ticket, just make sure to follow these steps.
 - Include screenshots as needed.
 - Keep comments about the bug in the ticket
 
