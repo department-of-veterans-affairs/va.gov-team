@@ -2,7 +2,11 @@
 
 Last updated by @tygindraux: October 10, 2024
 
-## Attachment rules by category
+## Attachments when you submit a question
+
+This is when a submitter is asking a new question to VA. They either can or cannot include attachments along with their question.
+
+### Attachment rules by category
 
 |Category|Rule|
 |:--|:--|
@@ -25,7 +29,7 @@ Last updated by @tygindraux: October 10, 2024
 |`Veteran ID Card (VIC)`|✅|
 |`Veteran Readiness and Employment`|✅|
 
-## Attachment rules by topic
+### Attachment rules by topic
 
 ✅ = Allowed
 ✖️ = Not allowed
@@ -138,3 +142,10 @@ Last updated by @tygindraux: October 10, 2024
 |`Veteran Readiness and Employment`|Following up on application or contacting counselor|✅|
 |`Veteran Readiness and Employment`|How to apply|✅|
 |`Veteran Readiness and Employment`|Other|✅|
+
+## Attachments when you send a reply back to VA
+
+This is when a submitter is replying back to VA after receiving a response to their original question. They either can or cannot include attachments along with their follow up reply.
+
+[This needs to be added.]
+
