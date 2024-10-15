@@ -61,6 +61,9 @@ We added unit and end-to-end tests to cover all flows and branching logic to pre
 
 ### Unit Test Coverage
 
+**Unit Tests under 80%**
+The current percentage of test coverage is under 80% due to file sharing of the v1 code base of the DUW wizard. We decided to share the same folder as some of the original code will be used with the v2 wizard. Once we release and remove old code and cleanup the folder, the test coverage will be over the 80% threshold. 
+
 #### Shadow DOM Limitations
 
 All VA design elements use the shadow DOM for style isolation. This created challenges in unit testing the Discharge Upgrade Wizard, as the shadow DOM cannot be directly accessed in unit tests.
@@ -78,6 +81,7 @@ Utilities are used throughout the wizard and are all covered by unit tests:
 [Utilities: Display Logic](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discharge-wizard/tests/v2/utilities/display-logic-questions.unit.spec.js)
 
 #### Unit Test Coverage Statistics
+
 
 | Application (src/applications) | Total Tests | Lines  | Functions | Statements | Branches | Avg of All % |
 | ------------------------------ | ----------- | ------ | --------- | ---------- | -------- | ------------ |
