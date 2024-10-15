@@ -6,7 +6,7 @@ Jump to:
 - [3. Test Cases](#3-Test-Cases)
 - [4. Testing Team](#4-Testing-Team)
 - [5. Execute Testing](#5-Execute-Testing)
-- [6. Bug Tracking and Fixing](#6-Bug-Tracking-and-Fixing) Note: We moved this section to [this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/Manual%20QA%20process.md#bug-tracking-and-fixing).
+- [6. Bug Tracking and Fixing](#6-Bug-Tracking-and-Fixing) Note: We moved this section to [this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/Manual%20QA%20process.md).
 - [7. Pre-Launch Checklist](#7-Pre-Launch-Checklist)
 
 ## 1. Scope and Objectives
@@ -158,7 +158,7 @@ Note: It is expected that our update will not break these bots with the inscope 
    - Retest after making fixes.
 
 ## 6. Bug Tracking and Fixing
-We moved this section to [this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/Manual%20QA%20process.md#bug-tracking-and-fixing). 
+We moved this section to [this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/Manual%20QA%20process.md). 
 
 ## 7. Pre-Launch Checklist
 Final Review: Ensure all critical issues are resolved.
