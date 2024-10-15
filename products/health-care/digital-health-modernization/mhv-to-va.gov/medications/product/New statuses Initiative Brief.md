@@ -119,6 +119,7 @@ should group the old RX with the renewal/pending one
 
 ### Additional resources 
 - [Pending Epic ](https://jira.devops.va.gov/browse/MHV-35870)
+- [Pending Rx File](https://dvagov-my.sharepoint.com/:x:/r/personal/eric_spahn_va_gov/Documents/Microsoft%20Teams%20Chat%20Files/PENDING%20Rx%20File.xlsx?d=wb64c626a16994ce384178248ea43059f&csf=1&web=1&e=Ym7m6M)
 - [Partial Fill Epic](https://jira.devops.va.gov/browse/MHV-48037)
 ---
 
