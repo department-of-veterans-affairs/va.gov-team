@@ -71,7 +71,7 @@
         - FYI We are waiting on this VeText ticket before we pilot; **B1930 is down until end of November**
 - **Travel Claims for Past Appts - Web**
   - **DEADLINE IS END OF YEAR**  
-    - 🟩 [[FE] - Create mock api for travel claim status endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
+    - 🟩 [[FE] - Modify appointments api call to retrieve travel claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Medication Wording for Appointments - VAHB**
     - **DEADLINE IS END OF YEAR**  
