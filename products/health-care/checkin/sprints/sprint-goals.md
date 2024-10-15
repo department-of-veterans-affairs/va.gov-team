@@ -36,9 +36,6 @@
     - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
 </details>
 
-<details>
-<summary>SPRINT 18 - 10/16/2024-10/29/2024 FUTURE TENTATIVE</summary>
-
 ## SPRINT 18 - 10/16/2024-10/29/2024
 - **Production Support**
     - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
@@ -62,8 +59,9 @@
     - 🟥🟪 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82814449&issue=department-of-veterans-affairs%7Cva.gov-team%7C94713)
     - 🟦 [CC Technical Documentation & Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94979)
     - 🟦 [Write CDW Query and Determine the Palantir Process to Create the API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)
+    - 🟦 [Create Palantir connection, includes connection but not fully fleshed out endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94981)
     - 🟩 [Create CC subrouter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94817)
-    - 🟩🟦 **Create Tickets for FE & BE**    
+    - 🟩🟦 [Create ALL Tickets Needed to Complete this Feature for FE & BE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95003) 
 - **Travel for OH**
     - **DEADLINE IS END OF YEAR**  
     - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
@@ -84,20 +82,18 @@
 - **Check in with staff after checking in**
     - 🟥 Submit CAIA intake request ticket to review content changes
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
-    - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639) 
+    - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
+    - 🟥 [Create wireframe for intro page with content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94911)
     - 🟥 Submit Research Repo tickets for unmoderated study to Shane for review
     - 🟥 Submit Research Repo tickets for in-person study to Shane for review
 - **Research Cards & Their Headers**
-    - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391556&pane=issue&itemId=81112557&issue=department-of-veterans-affairs%7Cva.gov-team%7C93643)
+    - 🟥 [[Research] Synthesize unmoderated card sort data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93642)
 - **Tech Debt & Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
     - 🟪 [Send Tagalog Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94997)
     - 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
-    - 🟩 [Use aria-describedby for Details links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94424)
     - 🟩 [Update want to file a bt claim page in eCheck-in app with CC content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94605)
     - 🟥 [Create UX onboarding documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2327217&pane=issue&itemId=83339991)
-    - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
-</details>
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
 - **Production Support**
