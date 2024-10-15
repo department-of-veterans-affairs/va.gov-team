@@ -1,5 +1,5 @@
 # Spike: Investigate 134k "Not Correlated" Users in MHV and MPI Datasets  
-**Completed:** October 3, 2024  
+**Completed:** October 15, 2024  
 **Contributor:** Steve Dickson  
 **Jira Ticket:** [SIT-105](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=12843&projectKey=SIT&view=detail&selectedIssue=SIT-105#)
 
