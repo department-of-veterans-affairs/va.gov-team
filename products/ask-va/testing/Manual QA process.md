@@ -1,5 +1,7 @@
 # Ask VA Manual QA process
-This document explains our process to QA Ask VA. We're primarily using this process before our expected launch on VA.gov in January 2025. 
+Last updated October 15, 2024 by @beckyphung
+
+This document explains our process to manually QA Ask VA. We're primarily using this process before our expected launch on VA.gov in January 2025. 
 
 **Jump to:** 
 - [Manual testing workflow for product/design](#manual-testing-workflow-for-productdesign)
