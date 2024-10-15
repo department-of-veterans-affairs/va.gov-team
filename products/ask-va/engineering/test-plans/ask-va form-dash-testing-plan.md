@@ -176,9 +176,10 @@ Bugs will be identified by Product or Teammates when identified. Bugs will be la
 
 When identifying a bug take the following steps: 
 
-1. Include steps to recreate the defect
-2. Include screenshots
-3. Keep comments about the bug in the ticket
+1. Check if the bug already exists
+2. Include steps to recreate the defect
+3. Include screenshots
+4. Keep comments about the bug in the ticket
    - If Rules are applied in the scope of the ticket, reference a link to the rules doc directly instead of cross posting the rule in the individual card.
    - If Rules need to be tested include in the acceptance criteria:
        - [ ] Rules are met as defined in documentation
