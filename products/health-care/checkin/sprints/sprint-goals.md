@@ -101,6 +101,7 @@
     - 🟩 [Use aria-describedby for Details links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94424)
     - 🟩 [Update want to file a bt claim page in eCheck-in app with CC content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94605)
     - 🟥 [Create UX onboarding documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2327217&pane=issue&itemId=83339991)
+    - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
 </details>
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
