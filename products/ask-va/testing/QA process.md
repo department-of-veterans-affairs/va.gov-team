@@ -30,4 +30,4 @@ This document explains our process to QA Ask VA. We're primarily using this proc
 ### Steps
 - Add these labels to the ticket:
    - `bug`, `dev`, `dev-FE` and/or `dev-BE`, `severity [number]`
-- Assign to `Caterpillars` column
+- Assign to **Caterpillars** column
