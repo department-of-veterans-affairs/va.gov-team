@@ -73,8 +73,6 @@ List the tools used to build and package the front-end code.
 
 -   **Build Tools**:
 -   `Webpack`
--   `Parcel`
--   `Vite`
 
 -   **Package Managers**:
 -   `npm`
