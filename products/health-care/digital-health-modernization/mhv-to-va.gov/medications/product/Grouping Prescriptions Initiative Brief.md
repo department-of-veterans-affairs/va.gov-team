@@ -100,14 +100,17 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
 - [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94684)
+- 10/16 - PO Sync
+- 10/24 - Design Intent
+- TBD - Architecture Intent
+- 11/15 - Midpoint
+- 12/10 - Staging
+- Release by end of PI 17 - Jan 21.
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- The medications product is working on a variety of findability improvements in PI17 based on the current user problems we've identified.  Rather than doing research for each indivdual solution, the team is planning to conduct research in combination with other changes in PI18.
 
 #### Initiative Launch Dates
 - *Target Launch Date*
