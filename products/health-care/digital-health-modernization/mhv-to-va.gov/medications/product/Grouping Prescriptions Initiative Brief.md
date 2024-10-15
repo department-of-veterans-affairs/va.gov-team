@@ -83,6 +83,7 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 - A veteran can find details about each prescription in the details page.
 - This list view should display the most recent status, which should help veterans find their active medications quicker. 
 - This should be built in a way that other clients (ie. VAHB) can use the same logic. 
+- Initally this is not in scope for VAHB since the app focuses on VA prescriptions currently and only shows Rx from the last 6 months.  In the future as we think about what should be included in VAHB medications experience the same logic should be able to be applied. 
 
 #### V1
 - Group medications that have the same RX# + alpha character into one object (card).  These are prescriptions and their associated renewals. 
