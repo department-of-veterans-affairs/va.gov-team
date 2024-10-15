@@ -7,6 +7,30 @@
 		- Share agenda items for the CHAMPVA Claims Research Roadmap Review
   		- Share the OHI Presentation for the IVC stakeholders
 ### Notes
+* Design Roadmap
+    * Updated: moved the COP and Stakeholder CHAMPVA Claims research readout to the Next column. 
+    * Jamie to find a way to work CHAMPVA Registration in to the readouts
+* CHAMPVA Claims Research Report
+    * Jamie updated the report according to Lois’ suggestions. 
+    * Lois to review the report and not any other changes needed.
+
+ 
+
+
+
+* Claims Research Roadmap Review
+    * Lois to see if she has time open to schedule the sessions earlier than 10/29
+    * We may need to rethink how and when we do the Engineer LOE ratings for each finding. We plan to get through the finding analysis and decide what would be the most helpful to do next. 
+    * Jamie to tighten the plan for Part 2 on the Roadmap Review
+* OHI Presentation to IVC stakeholders
+    * Presentation is good with a few minor adjustments. Remove the yellow note tabs and maybe try to make the screens/ form image larger.
+    * Explain the goal of the meeting as a review of the latest form flow to align everyone with the data that we are collecting from Benes as per are last few convos about OHI
+    * While presenting this to the IVC Stakeholders, explain that we are only showing Medicare and HI questions b/c to show deviations we decided on from the pdf form. 
+    * Explain what branching is on the form while presenting.  \
+
+* In-person research
+    * Think about what we want to ask for in-person research appointment
+    * We want to focus on how caregivers approach My VA. Perhaps ask about the status of Registration/ Claims or their experience of how spouses log in or if they choose to use their Veteran’s Account.  What would a caregiver or spouse want to see on their My VA?
 
 ## October 7 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
