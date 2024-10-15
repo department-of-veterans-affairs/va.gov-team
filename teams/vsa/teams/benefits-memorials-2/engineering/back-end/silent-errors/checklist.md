@@ -87,7 +87,8 @@ If you answered yes to any of these questions then go through the following [che
     * More granular view of [Roles and responsibilities of the related Financial Status Report services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/fsr-submission-dependency-graph.png)
   * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information. 
 * [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
-  * add doc here
+  * [Link to data flow](https://github.com/user-attachments/files/17372719/FSR.Submission.Flow.pdf)
+
 * [ ] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
   * Please document the outcome of this conversation in your product's documentation in Github.
