@@ -78,10 +78,10 @@
     - **DEADLINE IS END OF YEAR**  
     - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764)  
 - **Travel Claims for Past Appts - VAHB**
-    - **DEADLINE IS END OF YEAR**; CIE FE & Travel Pay Team BE
-    - ⛔ VAHB Team is currently in design and development. This ticket is TBD until Kristen can determine each team's scope or responsibilities.
+    - **DEADLINE IS END OF YEAR**
+    - ⛔ VAHB Team is currently in design and development. Juan will do FE work in VAHB.
 - **Pre-Check-in - VAHB**
-    - ⛔ Kristen, Ryan T and Don need to determine who's doing the work and when. E.g., VAHB Team won't do a kickoff until it's approved between OCTO. 
+    - ⛔ Waiting on Kick-off by Kristen & UX work by VAHB. Juan will do FE work in VAHB.
 - **Check in with staff after checking in**
     - 🟥 Submit CAIA intake request ticket to review content changes
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
