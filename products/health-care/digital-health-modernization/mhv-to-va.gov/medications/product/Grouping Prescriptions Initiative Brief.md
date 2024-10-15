@@ -19,10 +19,10 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
   * Very confusing. Too much information. - August Veteran feedback
   * Why do you still post a medication that is no longer active? - July Veteran feedback
   *  [Findability study findings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-02-findability-study):
-    * Half the participants (9 of 18) stated they are looking for their medication names when first logging into their medications platform.
-    * Most participants (14 of 18) placed the non-VA active medication after the active medications, followed by expired and discontinued medications.
-    * All participants (18 of 18) stated they want medications they no longer take or need removed from their medication list.
-    * Most participants (14 of 18) reported relying on the name when looking for a medication in their medication platform.
+     * Half the participants (9 of 18) stated they are looking for their medication names when first logging into their medications platform.
+     * Most participants (14 of 18) placed the non-VA active medication after the active medications, followed by expired and discontinued medications.
+     * All participants (18 of 18) stated they want medications they no longer take or need removed from their medication list.
+     * Most participants (14 of 18) reported relying on the name when looking for a medication in their medication platform.
 
 ## Desired User Outcomes
 - Veterans find the medications list is easy to navigate and find what they are looking for. 
@@ -34,7 +34,7 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 - Medication section doesn’t provide the user with the same functionality that they have today- causing frustration and dissatisfaction.
 - Veterans are confused about medications they are taking.
 - Veterans are confused by VA and non-VA medications that are the same medication. 
--
+
 ## Desired Business Outcomes
 - Veterans have access to all historical information about a medication including past prescription history.
 - Misalignment in data and functionality on VA Health and Benefits Application and MHV on va.gov.
@@ -79,6 +79,19 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
+- The medication list should only have one card per medication name (name + dose + form), unless their is a VA and non-VA med with the same medication name. This will group similar medications that are separate prescriptions together under one object. 
+- A veteran can find details about each prescription in the details page.
+- This list view should display the most recent status, which should help veterans find their active medications quicker. 
+- This should be built in a way that other clients (ie. VAHB) can use the same logic. 
+
+#### V1
+- Group medications that have the same RX# + alpha character into one object (card).  These are prescriptions and their associated renewals. 
+   - Example:
+    - Medication = Ibprofen 200MG tab
+    - Prescription 1234567, Prescription 1234567A, Prescription 1234567B would all be grouped together under this medication vs. having three separate cards.  The most recent Rx would be the status shown on the card.  All previous Rx details would be listed under the details page.  
+#### V2
+- Explore grouping medications by NDC and/or Medication name (name + dose + form).  
+- Likely would not want to group VA meds + non-VA meds together as one object even if NDC or medication name is the same.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -110,6 +123,7 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 
 ### Additional resources 
 - [Medications Data Modeling & Lo-fi Re-Structure Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708968755045/4bdbe77c90fbcf529afa0cf7c05342f6357c7997?sender=uffe0b1e17d72421900bf8566) from IA
+- [Inital Slack Discussion](https://dsva.slack.com/archives/C059Q28DV99/p1725994741982699)
 ---
 
 #### Communications
