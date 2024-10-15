@@ -68,21 +68,29 @@
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
-- The medication list should only have one card per medication name (name + dose + form), unless their is a VA and non-VA med with the same medication name. This will group similar medications that are separate prescriptions together under one object. 
-- A veteran can find details about each prescription in the details page.
-- This list view should display the most recent status, which should help veterans find their active medications quicker. 
-- This should be built in a way that other clients (ie. VAHB) can use the same logic. 
+- Naming of these statuses is not final.  This is the current business naming conventions and may not be the most intuitive to users.
+- 
+#### "Pending" Status Details 
+Pending Medications - meds order by VA facility but not yet dispensed
+Source code: PD
+Criteria:
+Returns all Pending medications with an “Order type” of NEW ORDER, HOLD, or RENEW.   It disregards values DISCONTINUED (EDIT), DISCONTINUED, and REFILL REQUEST.
+Uses API 4821: PEN^PSO5241
 
-#### V1
-- Group medications that have the same RX# + alpha character into one object (card).  These are prescriptions and their associated renewals. 
-   - Example:
-    - Medication = Ibprofen 200MG tab
-    - Prescription 1234567, Prescription 1234567A, Prescription 1234567B would all be grouped together under this medication vs. having three separate cards.  The most recent Rx would be the status shown on the card.  All previous Rx details would be listed under the details page.  
-#### V2
-- Explore grouping medications by NDC and/or Medication name (name + dose + form).  
-- Likely would not want to group VA meds + non-VA meds together as one object even if NDC or medication name is the same.
+For Pending list view:
+Medication name *drug name unless not available, show Orderable Item
+Prescription number
+number of refills left
+Status
+[descriptive information about the status]
 
-#### Go-to-market 
+within the same day or commonly within 24-72 hours but no longer than 7 days from date it was ordered
+should group the old RX with the renewal/pending one
+
+#### "Partial Fill" Status Details
+
+
+### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
 
 --- 
@@ -110,7 +118,8 @@
 ---
 
 ### Additional resources 
-
+- [Pending Epic ](https://jira.devops.va.gov/browse/MHV-35870)
+- [Partial Fill Epic](https://jira.devops.va.gov/browse/MHV-48037)
 ---
 
 #### Communications
