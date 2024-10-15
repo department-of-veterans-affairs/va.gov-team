@@ -66,9 +66,6 @@
     - 🟩🟦 **Create Tickets for FE & BE**    
 - **Travel for OH**
     - **DEADLINE IS END OF YEAR**  
-    - ❗ 🟦 G&K - [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
-    - ❗ 🟦 G&K - [[BE] [OH] update travel claims status check worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93077)
-    - ❗ 🟦 G&K - [[BE] [OH] update travel claims submission worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93076)
     - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
     - ⛔ ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
         - FYI We are waiting on this VeText ticket before we pilot; **B1930 is down until end of November**
@@ -81,7 +78,7 @@
     - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764) 
 - **Travel Claims for Past Appts - VAHB**
     - **DEADLINE IS END OF YEAR**
-    - ⛔ VAHB Team is currently in design and development. Juan will do FE work in VAHB.
+    - ⛔ VAHB Team is currently in design. Juan will do FE work in VAHB for the appointments page.
 - **Pre-Check-in - VAHB**
     - ⛔ Waiting on Kick-off by Kristen & UX work by VAHB. Juan will do FE work in VAHB.
 - **Check in with staff after checking in**
@@ -91,7 +88,6 @@
     - 🟥 Submit Research Repo tickets for unmoderated study to Shane for review
     - 🟥 Submit Research Repo tickets for in-person study to Shane for review
 - **Research Cards & Their Headers**
-    - 🟥 [[Research] Synthesize unmoderated card sort data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93642)
     - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2391556&pane=issue&itemId=81112557&issue=department-of-veterans-affairs%7Cva.gov-team%7C93643)
 - **Tech Debt & Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
