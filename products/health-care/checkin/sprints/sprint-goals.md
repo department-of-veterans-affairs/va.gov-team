@@ -12,7 +12,7 @@
 - **Community Care Direct Scheduling**
     - **Sprint Goal is to understand how to get referral data from Palantir**
     - **END OF THE YEAR DEADLINE**
-   
+    - TBD
 - **OH Travel**
     - **Sprint goal is to have this ready for internal testing**
     - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
@@ -20,15 +20,15 @@
 - **Travel Claims for Past Appts**
     - **Sprint goal is to finish this by the end of the year**
     - **END OF THE YEAR DEADLINE**
-
+    - TBD
 - **VAHB: Medication Wording**
-    - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764)
+    - TBD
 - **VAHB: Pre-Check-in**
-
+    - TBD
 - **Check in with staff after checking in**
-
+    - TBD
 - **Research Cards & Their Headers**
-
+    - TBD
 - **Edit existing content on a resources and support page from Check in**
     - TBD
 - **Tech Debt & Analytics**
@@ -77,7 +77,7 @@
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Medication Wording for Appointments - VAHB**
     - **DEADLINE IS END OF YEAR**  
-    - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764)  
+    - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764) 
 - **Travel Claims for Past Appts - VAHB**
     - **DEADLINE IS END OF YEAR**
     - ⛔ VAHB Team is currently in design and development. Juan will do FE work in VAHB.
