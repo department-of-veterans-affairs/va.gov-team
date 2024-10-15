@@ -59,7 +59,7 @@
     - 🟥 [Submit CAIA ticket to update CC page on unauth site for direct scheduling cc appts](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82484455&issue=department-of-veterans-affairs%7Cva.gov-team%7C94444)
     - 🟥 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
     - 🟥🟪 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82814449&issue=department-of-veterans-affairs%7Cva.gov-team%7C94713)
-    - 🟦 DO WE HAVE ANY BE TICKETS????????????
+    - 🟦 [CC Technical Documentation & Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94979)
     - 🟩 [Create CC subrouter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94817)
 - **Travel for OH**
     - **DEADLINE IS END OF YEAR**  
