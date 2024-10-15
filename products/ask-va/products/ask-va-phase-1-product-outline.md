@@ -49,7 +49,7 @@ We expect Veterans and other submitters to meet these outcomes after we launch P
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expected submitter outcomes over time. Objectives and Key results (OKRs) help us measure success of specific targeted objectives.
+Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. Objectives and Key results (OKRs) help us measure success of specific targeted objectives for a specific initiative or time period.
 
 View our KPIs in this [KPI Measurement doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
 
