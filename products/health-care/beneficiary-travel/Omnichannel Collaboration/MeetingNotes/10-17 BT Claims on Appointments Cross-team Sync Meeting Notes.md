@@ -1,4 +1,4 @@
-# Agenda 10-15-2024
+# Agenda 10-17-2024
 
 - New updates from OCTO/IVC/VTP or others
 - Progress for each team
