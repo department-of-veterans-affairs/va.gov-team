@@ -61,6 +61,7 @@
     - 🟥🟪 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82814449&issue=department-of-veterans-affairs%7Cva.gov-team%7C94713)
     - 🟦 [CC Technical Documentation & Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94979)
     - 🟦 [Write CDW Query and Determine the Palantir Process to Create the API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)
+    - 🟩 [[FE] Referral Review - update design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
     - 🟩 [Create CC subrouter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94817)
     - 🟩🟦 **Create Tickets for FE & BE**    
 - **Travel for OH**
@@ -134,8 +135,8 @@
     - ✔️ 🟥 [Create and submit CAIA ticket for final content review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93968)
     - ✔️ 🟥 [Update CC VDSS Research Findings pres for Monday's readout with OCTO](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93870)
     - ✔️ 🟩 [[FE] Time selection inline validation error](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91914)
-    - ✔️  🟩 [[FE] Create flow pattern structure for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)
-    - 🟩 [[FE] Referral Review - update design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
+    - ✔️ 🟩 [[FE] Create flow pattern structure for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92852)
+    - 🚧 🟩 [[FE] Referral Review - update design](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92482)
     - **Write query to fetch referrals**
         - ✔️ 🟦 LEE - [SPIKE: Identify shared, restricted folder to store data in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93888)
         - ✔️ 🟦 LEE - [SPIKE: Identify deleting referral information we no longer need.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93889)    
