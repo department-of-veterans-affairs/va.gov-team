@@ -2,6 +2,9 @@
 
 See [the Search playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/search-playbook.md) for access, tooling and support specifics.
 
+[Search User flow (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728324454952/c3cbd6203c07712994f5c5e4f9d6e81bfc2432e4?sender=u0b235d03cbd64f7f93673243)
+
+
 ### Search.gov Integration & Background
 
 VA.gov search is powered by Search.gov, a service of the General Services Administration, supporting the search boxes on over 2,000 websites, across 30% of federal domains.  
