@@ -74,9 +74,9 @@ If you answered yes to any of these questions then go through the following [che
 
 #### Reporting errors
 
-* [ ] Have you filed issues for errors that are appearing in Datadog / Slack?
+* [x] Have you filed issues for errors that are appearing in Datadog / Slack?
   * If not, then start filing Github issues for new categories of errors following [this guidance](#file-silent-errors-issues-in-github)
-* [ ] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
+* [x] Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email?
   * If not, then file Github issues to capture error categories following [this guidance](#file-silent-errors-issues-in-github)
 
 #### Documentation
