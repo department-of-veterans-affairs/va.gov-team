@@ -78,7 +78,6 @@
 - **Pre-Check-in - VAHB**
     - ⛔ Kristen, Ryan T and Don need to determine who's doing the work and when. E.g., VAHB Team won't do a kickoff until it's approved between OCTO. 
 - **Check in with staff after checking in**
-    - 🟥 [Schedule design intent](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94241)
     - 🟥 Submit CAIA intake request ticket to review content changes
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
@@ -148,7 +147,7 @@
     - 🚧 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🚧 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
     - ✔️ 🟥 [Create final wireframes for "go see staff" after checking in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93804)
-    - 🚧 Schedule Design Intent (PO Sync occurred on 9/25)
+    - ✔️ Schedule Design Intent (PO Sync occurred on 9/25)
     - 🚧 Schedule Research Repo tickets for unmoderated study to Shane for review 
     - ✔️ Kristen wants UX to present to IPT when we have research plan & wireframes (problems & risks as well) (Scheduled for Thursday)
 - **VAHB: Medication Wording**
