@@ -30,6 +30,3 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 | W5: Status Page to Claim Details            | Travel Pay             | Travel Pay             |
 | M1: Appointment List to Appointment Details | Juan                   | VAHB Team and UAE      |
 | M2: Appointment Details to SMOC             | Liz                    | VAHB Team and UAE      |
-
-
-![Uploading image.png…]()
