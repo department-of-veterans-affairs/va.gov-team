@@ -21,6 +21,7 @@ Reference Docs:
 - [Testing Approach Doc (Word doc)](https://dvagov-my.sharepoint.com/:w:/g/personal/shelby_carl_va_gov/EXQdtcz1ksFKpTiRiE8kkhABaZZlCNK0RTt3L7n77L-eqQ?e=2rAX87) - PIV access Required
 - [Ask VA variation points (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/ask-va-variation-points.md)
 - [Timeline (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12?wid=0-1717520164261)
+- [AVA Test Doc Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/test-plans/Ask.VA.Gov%20Test%20Doc%20Guide.MD)
  
 ## 2. Testing Types
 - **Unit Testing:** Test individual components and functions.
@@ -178,7 +179,17 @@ When identifying a bug take the following steps:
 1. Include steps to recreate the defect
 2. Include screenshots
 3. Keep comments about the bug in the ticket
-4. Tag Design (Tyler / Thomas)  
+   - If Rules are applied in the scope of the ticket, reference a link to the rules doc directly instead of cross posting the rule in the individual card.
+   - If Rules need to be tested include in the acceptance criteria:
+       - [ ] Rules are met as defined in documentation
+       - [ ] Tested 2 categories that require branch of service to confirm rules
+       - [ ] Tested 2 categories that do not require branch of service to confirm rules
+5. Tag Design (Tyler / Thomas)
+6. Log Bug ticket in Caterpillars
+7. Assign Priority
+   - Severity 1: Pre-launch, eg. flow broken, etc.
+   - Severity 2: Fast follow post launch, eg. missing content
+   - Severity 3: Backlog, eg. spacing issues
 
 ### Current Bug Template:
 
