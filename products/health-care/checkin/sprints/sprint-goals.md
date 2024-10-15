@@ -117,9 +117,9 @@
       - Random cleanup/tech debt/automated test stuff [#692](https://github.com/department-of-veterans-affairs/checkin-devops/issues/692) [#694](https://github.com/department-of-veterans-affairs/checkin-devops/issues/694) [#696](https://github.com/department-of-veterans-affairs/checkin-devops/issues/696)
 - **OH Travel**
     - ✔️ ❗ 🟦 G&K - [[BE] [OH] update travel claims client to use a different client id for OH claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93074)
-    - ❗ 🟦 G&K - [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
-    - ❗ 🟦 G&K - [[BE] [OH] update travel claims status check worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93077)
-    - ❗ 🟦 G&K - [[BE] [OH] update travel claims submission worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93076)
+    - 🚧❗ 🟦 G&K - [[BE] [OH] update travel claims service to use facility_type](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93075)
+    - 🚧 ❗ 🟦 G&K - [[BE] [OH] update travel claims status check worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93077)
+    - 🚧❗ 🟦 G&K - [[BE] [OH] update travel claims submission worker to pass facility_type when instantiating service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93076)
     - ✔️ ❗ 🟦 G&K - [[BE] [OH] Add client_number_oh to config](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93078)
     - ✔️ ❗ 🟩 [[FE] Text change on /my-health/appointment-travel-claim/travel-pay/](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/92827)
     - ✔️ ❗ 🟩 [Add Feature to Limit Access to One or More Facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92905)
