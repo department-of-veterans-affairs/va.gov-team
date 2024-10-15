@@ -5,20 +5,24 @@ Last updated by @beckyphung on October 15, 2024
 
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
 
-Jump to: 
+**Jump to: **
 - [User experience KPIs](#user-experience-kpis)
 - [Performance KPIs](#performance-kpis)
 
 ## User experience KPIs
 User Experience KPIs measure how well Ask VA meets the needs and expectations of its users.
 
-
-
+|Goal|KPI|Target definition|Actual targets as of [date]|
+|:--|:--|:--|:--|
+|Make it easy to complete the form|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|- VA.gov all pages average CSAT<br>-VA.gov forms average CSAT|- VA.gov average: [##]%<br>-VA.gov forms average: [##]%|
+|Make it easy to complete the form|**Task completion** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|VA.gov form completion rate|VA.gov form completion rate:[##]%|
+|Make it easy to complete the form|**Time on task** - Decrease the average time it takes submitters to send a question from ??|??|VA.gov time on task: ??|
 
 ## Performance KPIs
 Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads.
-
-
+|Goal|KPI|Target definition|Actual targets as of [date]|
+|:--|:--|:--|:--|
+|Ensure completely successful submissions|**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|xx|xx|
 
 ----
 🚧 Old text below
