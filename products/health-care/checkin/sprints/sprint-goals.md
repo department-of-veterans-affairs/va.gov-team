@@ -57,7 +57,7 @@
     - 🟥 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
     - 🟥🟪 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82814449&issue=department-of-veterans-affairs%7Cva.gov-team%7C94713)
     - 🟦 DO WE HAVE ANY BE TICKETS????????????
-    - 🟩 DO WE HAVE ANY FE TICKET????????????
+    - 🟩 [Create CC subrouter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94817)
 - **Travel for OH**
     - **DEADLINE IS END OF YEAR**  
     - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
