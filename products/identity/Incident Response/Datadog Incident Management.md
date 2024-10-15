@@ -14,7 +14,7 @@ This document describes the two methods to declare an incident and what the expe
     3. **Incident Commander**: person on call or person declaring the incident
     4. **Attributes**:
         1. **Monitor**: Any of the alerts that are active can be used here
-        2. **Priority**: Follow the guidance form the [Incident Declaration guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md), normally anything longer than a 15 minute outage will be a P1.
+        2. **Priority**: Follow the guidance form the [Incident Declaration guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Declaration%20Guidelines.md#severity-levels), normally anything longer than a 15 minute outage will be a P1.
         3. Teams: select “Platform Identity” from the drop down. Delete “identity” as its not a team construct known to incidents.
         ![Screenshot 2024-10-15 at 14 56 58](https://github.com/user-attachments/assets/ac298f41-929d-4c07-ae4a-5e7c481796a4)
 
