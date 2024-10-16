@@ -1,12 +1,12 @@
 <!-- This was copied over from the VSA document at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md -->
 
 
-# VHA Debt Portal payment history Topline Summary
-[link research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/research-plan.md)
+# VHA Debt Portal Payment History Topline Summary
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/research-plan.md)
 
-[link conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/conversation-guide.md)
 
-[link interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/transcripts)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/transcripts)
 
 
 
@@ -51,5 +51,5 @@ The majority of Veterans we interviewed said it is not helpful to see this infor
 
 >”I saw it on the bill, the actual bill, and I didn't understand why, you know, I did not have to pay previously for the doctor. And now I did, and honestly, what it's caused me to do is not want to go to the VA for my health care, and I've actually not gone because I didn't want to incur any more expenses. And I started, my husband is disabled, so I found out this year that I actually could utilize the Medicaid, so I switched a few of my medicines to picking them up from Medicaid. But now I don't know what my situation will be and you know, not getting the medicine that I need, because I didn't want to incur any more bills. Because I honestly didn’t understand how it worked.” -P10
 
-> “You know what I did. I just made it my own. I just send what I could send. I didn't bother, you know. I didn't know I could make a compromise offer or repayment plan. I just sent what I had available, and wait until the next time…
-I did not know they were available. I didn't know you could dispute them. I never, never, actually, because I normally kind of. Know my bills and stuff, have an idea what to expect.  I've never had a cause for a waiver or a compromise, but a repayment plan back in the past would have been really nice. I'm glad that's there. ‘Request help for future health care’, ‘Hardship determination’. That's interesting. And I think we've got Vets that could use that, I would put money on it actually.” -P3
+> “You know what I did. I just made it my own. I just send what I could send. I didn't bother, you know, I didn't know I could make a compromise offer or repayment plan. I just sent what I had available, and wait until the next time…
+I did not know they were available. I didn't know you could dispute them. I never, never, actually, because I normally kind of know my bills and stuff, have an idea what to expect.  I've never had a cause for a waiver or a compromise, but a repayment plan back in the past would have been really nice. I'm glad that's there. ‘Request help for future health care’, ‘Hardship determination’. That's interesting. And I think we've got Vets that could use that, I would put money on it actually.” -P3
