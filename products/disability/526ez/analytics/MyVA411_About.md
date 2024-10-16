@@ -33,5 +33,7 @@ The higher the tier, the more likely the call was to be a blocker or severe usab
 ### Data Requests for Toxic Exposure Monitoring
 
 “Pact Act” will not be the best case category to find issues related to the toxic exposure rollout. For example, when a Veteran calls, the phone system might say “If you are looking for PACT ACT press one.” Veterans could press one and then the call could be unrelated to the Pact Act.
+
 Request data for disability benefits and then search toxic exposure as a keyword. “Disability benefits” is more likely to be how TE usability issues or questions are coded. TE problems will more likely be found in Tier 2 data, while Tier 1 will be more general, resolved issues.
+
 If a Veteran calls and says, “I need dates for this screen filing for disability but I don’t know them” within the 526 flow for TE, then the agent will direct the call to HRC or NCC.
