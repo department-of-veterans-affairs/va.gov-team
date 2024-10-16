@@ -10,6 +10,8 @@ Several different dates are collected as part of the service history questions t
   - 2023-11-31 (day of 31 for a month that has less than 31 days)
 - Reserves National Guard Service, obligation terms of service dates
   - 2022-01-XX (X’s in place of day)
+ 
+Failures occurring on both primary and backup submission were the result of invalid data created before a correction was made in the UI to prevent the issue from occurring moving forward. This could potentially be the case for any initial saved claim created before 11/30/23.  
 
 ## Tickets
 
@@ -21,12 +23,14 @@ Several different dates are collected as part of the service history questions t
   - This was remediation not a bug fix. We took a batch of submissions with the XX date problem and manually repressed them.
 - [Investigate resurgence of the "XX date bug"#75280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75280)
   - Investigation, afaik this was closed because the problem ‘seemed to go away’. There was also chatter from FE that this was fixed by using a new date component.
+  - Provides an explanation of the issue impacting specific submissions associated with an individual user, also noted in https://github.com/department-of-veterans-affairs/va.gov-team/issues/75281 and https://github.com/department-of-veterans-affairs/va.gov-team/issues/75517, attributed to invalid data that were stored and resubmitted before a correction was made in the UI to prevent the issue from occurring moving forward.
 - [Replace date fields using input with select elements#70682](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70682)
-  - Unknown
+  - Follow-up to https://github.com/department-of-veterans-affairs/va.gov-team/issues/69455, which didn't resolve issue first identified and worked on in https://github.com/department-of-veterans-affairs/va.gov-team/issues/67497.
+  - It was possible to create an "XX" value for the Day field of some dates in the 526 form causing primary and backup path failures after submission due to data invalidation errors. Where required, date field days in which a user could previously input a value were updated to dropdown select options based on the selected Month, ensuring reliable data inputs. The DateUI schema was imported directly into and accessed within the impacted page, instead of attempting to assign all UI attributes within the page itself.
 - [Impossible Date Error#69455](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69455)
   - Different than the XX date bug. This was submissions with dates like June 31st (impossible). No idea if it ever got resolved. We manually changed these dates with a script to the last real date of the given month and resubmitted them.
 - [Fix date validation to prevent impossible dates#67497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67497)
-  - Placeholder ticket, no idea if it ever resulted in work getting done.
+  - https://github.com/department-of-veterans-affairs/va.gov-team/issues/69455 spawned from this ticket
 
 # Toxic Exposure
 
@@ -83,5 +87,10 @@ For any fixes that are implemented, we must remember that an In Progress Form (I
 Example of prompting the Veteran on the Review page to fix an invalid date.
 ![image](https://github.com/user-attachments/assets/427ac919-18b8-4756-b674-32f5d7e55a41)
 
+Questions that arose when encountering the reemergence of XX dates after correcting for the problematic web component:
+- Should form data storing invalid 'XX' dates be remediated manually as they arise, when backup fails?
+- Should saved claims be preemptively searched for any instances where dates are invalid and make corrections?
+- Should a validation mechanism be inserted into the primary and/or backup paths that corrects a claim's data when submitted for processing?
+- Not knowing what value should replace 'XX' is probably the biggest question. Does it matter? Would it later be confirmed and corrected anyways?
 
 
