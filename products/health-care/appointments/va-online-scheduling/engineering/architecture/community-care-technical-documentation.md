@@ -100,46 +100,6 @@ classDiagram
         +ReasonForReturn: String
     }
 ```
-
-## System Architecture
-
-```mermaid
-sequenceDiagram
-    participant User
-    participant Frontend
-    participant VetsAPI
-    participant Postgres
-    participant Sidekiq
-    participant Palantir
-    participant VA
-    participant EPS
-
-    Note over Sidekiq: Nightly Job
-    Sidekiq->>Palantir: getExternalReferralData()
-    Palantir-->>Sidekiq: Return referral data
-    Sidekiq->>VetsAPI: parseConsultIntoReferral()
-    VetsAPI->>VetsAPI: checkReferralData()
-    VetsAPI->>Postgres: Check for duplicates and expiration
-    Postgres-->>VetsAPI: Return check results
-    VetsAPI->>VetsAPI: encryptReferralData()
-    VetsAPI->>Postgres: storeData()
-    VetsAPI->>VA: sendNotification()
-    VA-->>User: Send SMS/Email with referral link
-
-    Note over User: User Workflow
-    User->>Frontend: Open appointments page
-    Frontend->>VetsAPI: getReferralData()
-    VetsAPI->>Postgres: Fetch referral data
-    Postgres-->>VetsAPI: Return referral data
-    VetsAPI-->>Frontend: Return referral data
-    Frontend->>Frontend: Store referral data in Redux
-    Frontend->>VetsAPI: checkEPSAppointments()
-    VetsAPI->>EPS: Check for EPS appointments
-    EPS-->>VetsAPI: Return EPS appointments
-    VetsAPI-->>Frontend: Return EPS appointments
-    Frontend->>Frontend: Combine EPS appointments with existing appointments in Redux
-```
-
 ## Sequence Diagrams
 
 ### Nightly Job
