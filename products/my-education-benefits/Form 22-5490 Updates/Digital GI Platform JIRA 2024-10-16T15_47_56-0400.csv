@@ -1,0 +1,4 @@
+Issue key,Issue id,Issue Type,Summary,Status,Created,Updated,Component/s,Component/s,Component/s,Assignee
+SA-100625,425250,Bug,"INTERNAL - MEB - Original Claim - Benefits Selection Page -"" Learn more about the Post-9/11 GI Bill "" verbiage is linked incorrectly",DONE,Oct/09/24 9:52 AM,Oct/16/24 3:46 PM,N33Automation,,,aid.luce
+SA-100552,424943,Bug,INTERNAL - Automation processing not happening for CH30/1606 on AFS003 when we submit a MEB application.,Triage,Oct/08/24 3:10 PM,Oct/16/24 3:46 PM,Automation,N33Automation,,seb.caso
+SA-99753,418928,Story,N33Automation - MEB - 5490 - Update Findings,Testing in Progress,Sep/27/24 11:46 AM,Oct/16/24 3:47 PM,Agile Capacity,MyEducationBenefits,N33Automation,ana.masroor
