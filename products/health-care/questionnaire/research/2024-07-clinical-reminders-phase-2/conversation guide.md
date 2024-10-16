@@ -129,7 +129,7 @@ If participant recalls the questions, then ask:
 
 - Moderator: move to Task 1.
   
-2. Imagine a scenario where you are enrolled in VA healthcare, and you intermittently receive notifications from the VA asking you to fill out healthcare related questionnaires that aren’t directly related to any healthcare appointment:  
+2. Now that you’ve gone through a toxic exposure questionnaire, you have a good idea of what a health questionnaire or clinical reminder may be like. Please keep in mind that the VA has a vast amount of health questionnaires on a wide range of mental and physical health concerns. Which questionnaire you will receive will depend on VA’s health initiative directives, your service history, and your current health status. Imagine a scenario where you are enrolled in VA healthcare, and you intermittently receive notifications from the VA asking you to fill out healthcare related questionnaires that aren’t directly related to any healthcare appointment:  
     - 2a. . How do you feel about receiving a skin cancer screening questionnaire even if you don’t have any upcoming healthcare appointments in the near future?    
     - 2b. Would you prefer to answer this type of questionnaire online or in-person at the time of your healthcare appointment.
     - 2c. How would you like receive this notification, is it through a text messaging or email?
