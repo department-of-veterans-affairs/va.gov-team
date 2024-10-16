@@ -105,13 +105,13 @@ classDiagram
 
 ```mermaid
 sequenceDiagram
-    participant Sidekiq
-    participant Palantir
-    participant VetsAPI
-    participant Postgres
-    participant VA
     participant User
     participant Frontend
+    participant VetsAPI
+    participant Postgres
+    participant Sidekiq
+    participant Palantir
+    participant VA
     participant EPS
 
     Note over Sidekiq: Nightly Job
@@ -138,6 +138,97 @@ sequenceDiagram
     EPS-->>VetsAPI: Return EPS appointments
     VetsAPI-->>Frontend: Return EPS appointments
     Frontend->>Frontend: Combine EPS appointments with existing appointments in Redux
+```
+
+## Sequence Diagrams
+
+### Nightly Job
+```mermaid
+sequenceDiagram
+    participant User
+    participant Frontend as Frontend (FE)
+    participant VetsAPI as Vets API
+    participant Sidekiq as Sidekiq Job
+    participant Postgres as Postgres DB
+    participant Palantir as Palantir
+    participant EPS as EPS System
+    participant VA as VA Notify
+
+    Note over Sidekiq: Nightly Job
+    Sidekiq->>Palantir: getExternalReferralData()
+    Palantir-->>Sidekiq: Return referral data
+    Sidekiq->>VetsAPI: parseConsultIntoReferral()
+    VetsAPI->>VetsAPI: checkReferralData()
+    VetsAPI->>Postgres: Check for duplicates and expiration
+    Postgres-->>VetsAPI: Return check results
+    VetsAPI->>VetsAPI: encryptReferralData()
+    VetsAPI->>Postgres: storeData()
+    VetsAPI->>VA: sendNotification()
+    VA-->>User: Send SMS/Email with referral link
+```
+
+### Workflow once SMS/Email received
+```mermaid
+sequenceDiagram
+    participant User
+    participant Frontend as Frontend (FE)
+    participant VetsAPI as Vets API
+    participant Sidekiq as Sidekiq Job
+    participant Postgres as Postgres DB
+    participant Palantir as Palantir
+    participant EPS as EPS System
+    participant VA as VA Notify
+
+    Note over Sidekiq: Nightly Job
+    Sidekiq->>Palantir: getExternalReferralData()
+    Palantir-->>Sidekiq: Return referral data
+    Sidekiq->>VetsAPI: parseConsultIntoReferral()
+    VetsAPI->>VetsAPI: checkReferralData()
+    VetsAPI->>Postgres: Check for duplicates and expiration
+    Postgres-->>VetsAPI: Return check results
+    VetsAPI->>VetsAPI: encryptReferralData()
+    VetsAPI->>Postgres: storeData()
+    VetsAPI->>VA: sendNotification()
+    VA-->>User: Send SMS/Email with referral link
+
+    Note over User: User clicks link in SMS/Email
+    User->>Frontend: Open appointments page
+    Frontend->>VetsAPI: getReferralData()
+    VetsAPI->>Postgres: Fetch referral data
+    Postgres-->>VetsAPI: Return referral data
+    VetsAPI-->>Frontend: Return referral data
+    Frontend->>Frontend: Store referral data in Redux
+    Frontend->>VetsAPI: checkEPSAppointments()
+    VetsAPI->>EPS: Check for EPS appointments
+    EPS-->>VetsAPI: Return EPS appointments
+    VetsAPI-->>Frontend: Return EPS appointments
+    Frontend->>Frontend: Combine EPS appointments with existing appointments in Redux
+
+    Note over User: Starting appointment process page
+    Frontend->>Frontend: getReferralData() from Redux
+    Frontend-->>User: Display referral data
+
+    Note over User: Schedule your appointment page
+    User->>Frontend: View provider availability
+    Frontend->>VetsAPI: getProviderAvailability()
+    VetsAPI->>EPS: Fetch provider availability
+    EPS-->>VetsAPI: Return provider availability
+    VetsAPI-->>Frontend: Return provider availability
+    User->>Frontend: Select date/time and click next
+    Frontend->>Frontend: Store provider and appointment data in Redux
+
+    Note over User: Confirm page
+    Frontend->>Frontend: getReferralData() from Redux
+    Frontend-->>User: Display referral and appointment details
+    User->>Frontend: Click confirm
+    Frontend->>VetsAPI: confirmAppointment()
+    VetsAPI->>EPS: Send appointment details
+    EPS-->>VetsAPI: updateReferralStatus() Confirm appointment scheduled
+    VetsAPI->>Postgres: Mark referral as confirmed appointment
+
+    Note over User: Review page
+    Frontend->>Frontend: getReferralData() from Redux
+    Frontend-->>User: Display appointment data
 ```
 
 ## Key Processes
