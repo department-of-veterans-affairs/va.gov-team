@@ -6,7 +6,7 @@ Evelyn Hilbrich Davis (evelyn@cityfriends.tech)
 
 Jump to: 
 1. [Background](#background) 
-2. [About Contact Center Data](#Contact-Center-Data)
+2. [Benefits/Limitations of MyVA411 Data](#Benefits/Limitations-of-MyVA411-Data)
 3. [Approaches](#approaches)
 4. [Recommended Approach for TE Monitoring](#Recommended-Approach-for-TE-Monitoring)
 5. [Relevant Links](#relevant-links)
@@ -36,7 +36,7 @@ Historically, UX has relied on Medallia survey data for 526ez health checks and 
 -   Meeting with Contact Center and Megan Hicks to discuss Streamlit
     
 
-## About MyVA411 data
+## Benefits/Limitations of MyVA411 Data
 See an overview of MyVA411 data in this document.
 
 ### Benefits of MyVA411 Data
