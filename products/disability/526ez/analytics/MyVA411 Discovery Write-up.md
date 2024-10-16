@@ -113,6 +113,7 @@ We know that MyVA411 offers a high volume of data, but the value of the data for
 
 
 Our focus will be to keep our monitoring lightweight and targeted. In our data request, we will request case categories dealing with "disability compensation rather than "Pact Act," specifically. [See justification in this About MyVA411 document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MyVA411_About.md) 
+
 With the data analysis, we will take a hybrid approach of 1 & 2, leaning into Steven's background with NLP. This will keep engineers focused on their work but allow time for a conversation with Megan Hicks about Streamlit. If Approach 2 serves difficult due to PII and machine access, we will fall back to Approach 1. 
 
 # Relevant Links
