@@ -56,6 +56,23 @@ Examples of failures:
 
 # Key takeaways
 
+### Takeaway: Utilize current front end tooling to ensure valid data
+In this example, the day field was previously a text input field which allowed invalid, non-numeric characters. This page was built many years ago before more robust date tooling was available. Fixes were put in to change the day field from a freeform text input to a dropdown, limiting what could be entered in the field.  Additionally, the newer tooling can limit which days are available based on the month and year. **Going forward, continue to look for ways to modernize and change the UI/UX to prevent invalid data from coming in.** 
+
+![image](https://github.com/user-attachments/assets/4764a388-2353-4516-bfa4-28ba5cf8d5b9)
+
+### Takeaway: Consider in-progress forms and remediation
+For any fixes that are implemented, we must remember that an In Progress Form (IPF) may still be holding invalid data for up to one year. **Going forward, any fixes should be tested with the IPF scenario to ensure the submission can be successful.** The solution may differ depending on the situation. For example, the invalid data could be either automatically sanitized (in the case of dropping optional, invalid date fields like day) or by prompting the Veteran with error feedback to fix the invalid piece of data.
+
+Example of prompting the Veteran on the Review page to fix an invalid date.
+![image](https://github.com/user-attachments/assets/427ac919-18b8-4756-b674-32f5d7e55a41)
+
+Questions that arose when encountering the reemergence of XX dates after correcting for the problematic web component:
+- Should form data storing invalid 'XX' dates be remediated manually as they arise, when backup fails?
+- Should saved claims be preemptively searched for any instances where dates are invalid and make corrections?
+- Should a validation mechanism be inserted into the primary and/or backup paths that corrects a claim's data when submitted for processing?
+- Not knowing what value should replace 'XX' is probably the biggest question. Does it matter? Would it later be confirmed and corrected anyways?
+
 ### Takeaway: Different data validations up and downstream must be identified and reconciled
 
 In this Toxic exposure example, the component library is set up for a full date, e.g. YYYY-MM-DD, but it also allows for scoping to just year, in which case it will use X’s for the other fields, e.g. 2024-XX-XX. Lighthouse on the other hand has a pattern to accept year only or year + month. It does not allow X’s in any of the date fields which ultimately caused the submission failures.
@@ -81,16 +98,8 @@ Gaps were discovered with the front end `va-memorable-date` component which unex
 
 **Going forward, we must design, build, and test for the ‘I changed my mind scenarios’.** There is no easy, one size fits all solution for these scenarios. The Veteran experience has to be balanced with VSR burden. In the above example of changing their mind about a location and date, a short term solution was used to ignore the orphaned date upon submission. It was decided not to hard delete the partial date in case the Veteran goes back in the form and changes their mind again as this reduces the burden of remembering the date again. There is a longer term story in the backlog to come up with a design for this desctructive action scenario ([#94396]().) 
 
-### Takeaway: Consider in-progress forms
-For any fixes that are implemented, we must remember that an In Progress Form (IPF) may still be holding invalid data for up to one year. **Going forward, any fixes should be tested with the IPF scenario to ensure the submission can be successful.** The solution may differ depending on the situation. For example, the invalid data could be either automatically sanitized (in the case of dropping optional, invalid date fields like day) or by prompting the Veteran with error feedback to fix the invalid piece of data.
 
-Example of prompting the Veteran on the Review page to fix an invalid date.
-![image](https://github.com/user-attachments/assets/427ac919-18b8-4756-b674-32f5d7e55a41)
 
-Questions that arose when encountering the reemergence of XX dates after correcting for the problematic web component:
-- Should form data storing invalid 'XX' dates be remediated manually as they arise, when backup fails?
-- Should saved claims be preemptively searched for any instances where dates are invalid and make corrections?
-- Should a validation mechanism be inserted into the primary and/or backup paths that corrects a claim's data when submitted for processing?
-- Not knowing what value should replace 'XX' is probably the biggest question. Does it matter? Would it later be confirmed and corrected anyways?
+
 
 
