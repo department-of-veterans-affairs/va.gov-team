@@ -22,7 +22,7 @@ This document describes the overall response process for any suitably severe inc
 ## Ongoing Incident Management
 
 - After an incident is declared, ongoing communication about the state of the incident are expected until resolution
-- Every 30 minutes, if the incident is not resolved, create a [notification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md) in the Datadog Incident
+- Every 30 minutes, if the incident is not resolved, create a notification in the [declared incident page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Datadog%20Incident%20Management.md#declared-incident-page)
     - Performing this action will post a message in the `#identity-support` Slack channel
 
 ## Resolving an Incident
