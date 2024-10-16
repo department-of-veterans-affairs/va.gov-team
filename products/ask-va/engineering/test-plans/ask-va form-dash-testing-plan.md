@@ -76,7 +76,7 @@ Form submission
 - An Unauthenticated User, who is the Veteran, asking a question in the `Life insurance` category
 - An Authenticated User, who is the Veteran, asking a question in the `Health care` category
 - An Unauthenticated User, who is the veteran, asking a question in the `Health care` category
-- An Authenticated, who is a business submitter, asking a question in the `Education benefits and work study` category
+- An Authenticated User, who is a business submitter, asking a question in the `Education benefits and work study` category
 
 Checking responses (dashboard)
 - An Unauthenticated User, Who is a submitter, checking status in the `Check the status of your question` question
