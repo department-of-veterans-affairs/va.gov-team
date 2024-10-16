@@ -70,7 +70,6 @@ Efforts to inform this iteration with Veteran feedback
 [Figma](https://www.figma.com/design/cg8VNnxFOxw7lb10FVHpi5/VA-Resources-support-template?node-id=198-5737&node-type=section&t=G7yoxBvukRBiwCbI-0)
 
 ### Drupal UX
-- As a R&S editor, 
 
 ## Questions 
 > Related - [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1/decision-log.md)
