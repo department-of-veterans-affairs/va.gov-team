@@ -32,6 +32,5 @@ We are currently exploring some options for next steps:
 
 | **Options** | **Notes** |
 | ----------- | --------- |
-| MHV to provide a different identifier | MHV doesn’t store the SECID.  TBD whether IAM has the MHVID and can  include in their extracts. |
-| IAM to investigate whether the credentials are included in their extract.  If not, why not or if they are in the extract, why the ICN is omitted. | In progress. |
+| IAM to investigate/fix instances where an ICN exists but has been omitted from the extract. | Would need to submit an SR with IAM team.  LOE unknown. |
 | Update the Domo Dashboard to better identify what “not correlated” means and “let it ride” | This won’t impact communication campaign since the list of  users is being identified and provided by MHV to Oddball. MHV team is aware of the nuances we had discovered of the IAM data related to the ID.me wrapper and expect they can (if not currently, then soon) provide a similar list of ICNs who need transitioned. |
