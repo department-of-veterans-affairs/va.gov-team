@@ -9,6 +9,7 @@
 - [LS-2024-0122945-SPA-FINAL_Q2 2024 - Spanish_2024-08-08_17-20-25.xlsx](https://github.com/user-attachments/files/16661789/LS-2024-0122945-SPA-FINAL_Q2.2024.-.Spanish_2024-08-08_17-20-25.xlsx) - received on 8/19/2024
 
 ### Tagalog
+- [FIL-Q2 2024 - Tagalog_2024-08-09_14-13-17.docx](https://github.com/user-attachments/files/17402172/FIL-Q2.2024.-.Tagalog_2024-08-09_14-13-17.docx) - received 9/23/2024
 
 ## QA Screenshots sent to the State Department on TBD
 
