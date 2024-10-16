@@ -157,8 +157,8 @@ session.
 - Date and time of pilot session: Oct 15, 5:30 pm ET
 
 **Pilot 2 (with AT user)**
-- Pilot participant email: Maria Mutia (maria.mutia@adhocteam.us) on a screen reader
-- Date and time of pilot session: Oct 15, 2 pm ET
+- Pilot participant email: Sarah Koomson (Sarah.Koomson@oddball.io) on a screen reader
+- Date and time of pilot session: Oct 16, 2 pm ET
 
 ### Research sessions
 - Planned dates of research: Oct 22 - Nov 1, 2024
@@ -191,7 +191,7 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator): Jordan Wood, Dave Pickett
 - Participant recruiting & screening: Perigean
 - Project point of contact: Jordan Wood, Dave Pickett
-- Participant(s) for pilot test: Bryan Thompson and Maria Mutia
+- Participant(s) for pilot test: Bryan Thompson and Sarah Koomson
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Laura Flannery (laura.flannery@civicactions.com)
 - Note-takers: Perigean
 - Observers: TBD
