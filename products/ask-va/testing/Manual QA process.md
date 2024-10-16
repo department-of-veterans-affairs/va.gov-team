@@ -1,5 +1,5 @@
 # Ask VA Manual QA process
-Last updated October 16, 2024 by @ceeceeoconnor-tw
+Last updated October 16, 2024 by @beckyphung
 
 This document explains our process to manually QA Ask VA. We're primarily using this process before our expected launch on VA.gov in January 2025. 
 
@@ -51,12 +51,11 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 1. Copy the bug template below into an issue. ⚠️ Note: Is this bug template up to date? 
 2. Add these labels to the ticket:
    - `bug`, `dev`, `dev-FE` and/or `dev-BE`, `severity [number]`
-      - Severity 1: Pre-launch, eg. flow broken, etc.
-      - Severity 2: Fast follow post launch, eg. missing content
-      - Severity 3: Backlog, eg. spacing issues
 3. Assign to **Caterpillars** swimlane.
 4. Add links to rules documentation.
-5. Tag Design (@tygindraux and @t-michaud)
+5. Add to the correct child epic.
+   - For example, if a ticket is about the "Tell about yourself page," add it to the "Tell us about yourself" epic.
+7. Tag Design (@tygindraux and @t-michaud)
 
 ## References
 - [See our Mural from June 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719508782816/0c02aafe8740074c13ea3a6821008f9f08266f5d?sender=uc2a4f18a27ff336484232897) where we first documented ways of working for bugs
