@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: October 4, 2024 - updated security artifacts**
+**Last updated: October 16, 2024 - updated key dates**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -133,7 +133,7 @@ The primary goal of this MVP is to reduce silent submission failures in the form
 - June 2024: Usability Study
 - September 24, 2024: QA
 - October 4, 2024: Staging Review
-- ____: internal UAT
+- October 10, 2024: internal UAT
 - ____: Begin phased launch
 - ____: Launch to 100%
    
@@ -147,7 +147,7 @@ The primary goal of this MVP is to reduce silent submission failures in the form
 TK
 
 ### After
-**TBD NAME section on My VA**
+**Benefit Applications and Forms section on My VA**
 TK
 
 **VFF confirmation page**
