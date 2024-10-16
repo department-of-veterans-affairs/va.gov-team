@@ -39,9 +39,9 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 
 | Category | Description | Resolution Process |
 |--------------|-------------|--------------------|
-| **Severity&nbsp;1** | This is a top tier. Bugs must be corrected prior to Assistive Tech Study (AT) **Example:** Unable to populate VA Health Facility Location, Incorrect Progress Bar. |Jumps backlog, potentially interrupt a developer |
-| **Severity&nbsp;2** | This will impact AT, but lesser priority | Give a heads up before picking up another ticket|
-| **Severity&nbsp;3** | Not blocking AT, but will be needed to be resolved prior to release **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
+| **Severity&nbsp;1** | This is a top tier.Fast follow post launch, eg. missing content |Jumps backlog, potentially interrupt a developer |
+| **Severity&nbsp;2** | Fast follow post launch, eg. missing content| Give a heads up before picking up another ticket|
+| **Severity&nbsp;3** |  Backlog, eg. spacing issues **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
 
 ### Steps
 #### Before creating ticket
