@@ -101,52 +101,6 @@ If participant recalls the questions, then ask:
 
 2.	We are going to go through a similar process again, but this time I’ll only show revised questions from the toxic exposure questions reminder. These revisions are based on the feedback we received from the usability sessions you participated in back in January. But before we move on to the prototype, I have a few more questions. 
 
-- Moderator: move to Continuation of warm-up questions…
-
-
-## Continuation of warm-up questions for Cohort 1 and 2 – 10 minutes
-
-1. Since your enrollment in VA healthcare, do you recall ever receiving notifications from the VA asking you to fill out healthcare related questionnaires that were not related to a specific healthcare appointment?
-
-- Moderator: If participant answers no, move to question 2.
-  
-- If participant answers yes, then ask the following questions:
-    - 1a. How did you receive this notification, was it through a text messaging, or email?
-    - 1b. Do you recall if you were ever hesitant, or you ever felt uneasy to click on the VA notification, or its content due to it potentially being spam, or not from the VA? Why or why not?
-    - 1c. What would you add, delete, or change about the notification, or the link, to make you feel more confident the notification was from the VA?
-    - 1d. Did any of these notifications include a link to a healthcare related questionnaire?
-    - 1e. Do you recall how many questionnaires a notification contained?
-    - 1f.  What was the length of time it took you to respond to the actual questionnaire(s)?
-    - 1g. Do you think that is it took a reasonable amount of time to complete it, just the right amount of time, or an unreasonable amount of time?
-    - 1h. How do you feel about answering healthcare related questionnaires-do you feel that they are worth your time to fill out, not worth your time, or you have neutral feelings about filling them out? Why or why not?
-    - 1i. What did you expect to happen after you filled out the questionnaire(s).Do you recall about how many times between healthcare appointments, or within a 6-month period, you received similar questionnaire(s)? 
-    - 1j. Do you recall the cadence as being infrequent, just the right amount of time, or too frequent?-What cadence do you consider to be reasonable amount of time?
-    - 1k. How do you feel about receiving a skin cancer screening questionnaire even if you don’t have any upcoming healthcare appointments in the near future?    
-    - 1l. Would you prefer to answer this type of questionnaire online or in-person at the time of your healthcare appointment? Why?
-    - 1m. Suppose the VA sent you a batch of 3-6 healthcare related questionnaires all at once?
-    - 1n.	How would you like to receive the batch, via email or text notification?
-    - 10.	How many questionnaires in a batch would you consider to be a reasonable amount to respond to at once?
-    - 1p.	What cadence would you expect to receive a batch of 3-6 questionnaires and why?
-
-- Moderator: move to Task 1.
-  
-2. Imagine a scenario where you are enrolled in VA healthcare, and you intermittently receive notifications from the VA asking you to fill out healthcare related questionnaires that aren’t directly related to any healthcare appointment:  
-    - 2a. . How do you feel about receiving a skin cancer screening questionnaire even if you don’t have any upcoming healthcare appointments in the near future?    
-    - 2b. Would you prefer to answer this type of questionnaire online or in-person at the time of your healthcare appointment.
-    - 2c. How would you like receive this notification, is it through a text messaging or email?
-    - 2d. What would make you hesitant, or uneasy to click on the VA notification, or its content due to it potentially being spam, or not from the VA? 
-    - 2e. What would you add, delete, or change about the notification, or the link, to make you feel more confident the notification is from the VA?
-    - 2f. How long would the questionnaire have to be for you to consider it to be a reasonable amount of time to complete?
-    - 2g. How do you feel about answering healthcare related questionnaires-do you feel that they are worth your time to fill out, not worth your time, or you have neutral feelings about filling them out? Why or why not?
-    - 2h. What do you expect to happen after you fill out healthcare related questionnaire(s).
-    - 2i. What cadence in receiving a questionnaire do you consider to be just the right amount of time?
-    - 2j. Suppose the VA sent a batch of 3-6 healthcare related questionnaires all at once?
-    - 2k	How would you like to receive the batch, via email or text notification?
-    - 2l. How many questionnaires in a batch would you consider to be:
-    - 2m. a reasonable amount to respond to at oncce?
-    - 2n. What cadence would you expect to receive a batch of 3-6 questionnaires and why?
-
-- Moderator: move to Task 1.
 
 ## Task 1: Notifications - 5 minutes
 - Moderator: Share your screen with image of text or email notification; which modality you show participant depends on what device they are using during session.
@@ -334,13 +288,29 @@ If participant recalls the questions, then ask:
     - i. On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or is it to understand this page?
 
 
-## Task 9- Questionnaire burden and trust–1 minute
+## Task 9: Frequency, cadence, and questionnaire limits per batch
 
-1.	Would you say this questionnaire took a reasonable or an unreasonable amount of time to complete and why?
+1. Now that you’ve gone through a toxic exposure questionnaire, you have a good idea of what a health questionnaire or clinical reminder may be like. Please keep in mind that the VA has a vast amount of health questionnaires on a wide range of mental and physical health concerns. Which questionnaire you will receive will depend on VA’s health initiative directives, your service history, and your current health status. 
 
-2.	After completing this questionnaire, did it change your trust in the VA in anyway?
-- 2a. Can you explain why you chose _____?
-- 2b. How can the VA increase your trust with this questionnaire?
+
+2. So next, I’ll ask you hypothetical questions on receiving with type of questionnaire in the future from the VA. Imagine a scenario where you are enrolled in VA healthcare, and you intermittently receive notifications from the VA asking you to fill out healthcare related questionnaires that aren’t directly related to any healthcare appointment:  
+
+- a. If you had a choice, how you would like to receive a link for a similar questionnaire in the future? (ask them about modality, email, text,)
+- b. How do you feel about answering healthcare related questionnaires-do you feel that they are worth your time to fill out, not worth your time, or you have neutral feelings about filling them out? Why or why not?
+- c. Would you say this questionnaire took a reasonable or an unreasonable amount of time to complete? Why?
+- d. How do you feel about receiving a skin cancer screening questionnaire, or any other health screening questionnaire, even if you don’t have any upcoming healthcare appointments in the near future?    
+- e. Would you prefer to answer this type of questionnaire online or in-person at the time of your healthcare appointment.
+- f. How would you like receive this notification, is it through a text messaging or email?
+- g. How long would the questionnaire have to be for you to consider it to be a reasonable amount of time to complete?
+- h. How do you feel about answering healthcare related questionnaires-do you feel that they are worth your time to fill out, not worth your time, or you have neutral feelings about filling them out? Why or why not?
+- i. What cadence in receiving a questionnaire do you consider to be just the right amount of time? 
+- j. Suppose the VA sent a batch of 3-6 similar questionnaires all at once, how many questionnaires in a batch would you consider to be a reasonable amount to respond to at once?
+- k. How would you like to receive the batch, via email or text notification?
+- l. What cadence would you expect to receive a batch of 3-6 questionnaires and why? (weekly, monthly, bi-monthly, etc..)
+- m. After completing this questionnaire, did it change your trust in the VA in anyway?
+- o. Can you explain why you chose _____?
+- p. How can the VA increase your trust with this questionnaire?
+
 
 
 ## Thank-You and Closing - 2 minutes
