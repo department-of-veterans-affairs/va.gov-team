@@ -29,3 +29,4 @@ This document describes the overall response process for any suitably severe inc
 
 - When the alert has resolved, or incident has otherwise resolved, the datadog incident status can be set to `Resolved` and a notification should be sent from within Datadog to notify all relevant parties
 - Datadog can be used to generate a Post Mortem of the incident
+- System recovery procedure [documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Incident%20Response/System%20Recovery%20Procedures) can be consulted to determine proper testing and communication after incident resolution
