@@ -26,7 +26,7 @@ Approximately 134K of these ICNs are not in the datasets that we are receiving f
 
 Based on spot-checking, we can extrapolate that about 70% of these 134K "not correlated" users need modern credentials. This is in addition to the ~828K users that we are already able to identify.  
 
-An investigation is ongoing for Category C and why the ICNs are not matching the users/credentials records we’re receiving from IAM. We do understand that ICNs are not statically assigned to individuals and that users are sometimes assigned new ICNs. For at least one of the above ICNs, the IAM team did confirm that the ICN was in MPI and could be correlated with a SECID, which subsequently could be used to find the user’s credentials in the AuthDB dataset the we receive.  
+An investigation is ongoing for Category C and why the ICNs are not matching the users/credentials records we’re receiving from IAM. We do understand that ICNs are not statically assigned to individuals and that users are sometimes assigned new ICNs. For at least one of the above ICNs, the IAM team did confirm that the ICN was in MPI and the user only had the one ICN.  Using MPI, the ICN was correlated with a SECID, which subsequently was be used to confirm that the user’s credentials are in AuthDB.  In progress: determining if those credentials are in the IAM AuthDB dataset the we receive, but perhaps without the ICN.
 
 We are currently exploring some options for next steps:
 
