@@ -32,7 +32,7 @@
         * G4 Dashboards
     * Collab Cycle Tickets
         * Open
-          - [Medical Records Initital Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53454)
+          - [Medical Records Initial Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53454)
           - [Download Records](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92340)
           - [Phase 1 Radiology Flow/Images](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95081)
           - [Settings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95082)
