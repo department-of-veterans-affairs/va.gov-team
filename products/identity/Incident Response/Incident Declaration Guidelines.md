@@ -48,7 +48,7 @@ To understand the impact of an outage, use the following monitors to check how m
 
 ## **Severity Levels**
 
-If an incident has been declared, it must be given a severity level.
+If an incident has been declared, it must be given a severity level. This is used to set the severity level in a [Datadog Incident](http://vagov.ddog-gov.com/incidents) associated with the declared incident.
 
 | Severity | Description | Example |
 | :---: | :---: | :---: |
