@@ -41,14 +41,14 @@ Since rolling medications out to Phase 1, we have heard a bunch of positive feed
 
 ## Desired Business Outcomes
 - Veterans have access to all historical information about a medication including past prescription history.
-- Misalignment in data and functionality on VA Health and Benefits Application and MHV on va.gov.
 - Enabling users to understand and self-service medication needs leads to more timely care, reduces burden on clinical staff, and increases patient safety. 
 - Veterans have one place to find all their medication information and self serve their medication needs.
 - Easily accessible and identifiable medications list will reduce congressional and patient safety questions.
 
 ## Undesired Business Outcomes
 - Users find the medications application on VA.gov complex, have difficulty accomplishing their tasks and continue to default to MHV legacy to self-serve their needs.
-
+- Misalignment in data and functionality on VA Health and Benefits Application and MHV on va.gov.
+- 
 ---
 ## Measuring Success
 
