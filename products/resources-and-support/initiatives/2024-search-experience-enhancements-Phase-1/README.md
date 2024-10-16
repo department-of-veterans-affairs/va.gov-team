@@ -98,7 +98,9 @@ Efforts to inform this iteration with Veteran feedback
 
 
 ## Measuring Success
-[TBD]
+
+### Analytics
+For baseline metrics, including CSAT, user and traffic data, and pageviews, please see [Resources & Support Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/analytics/Analytics%20-%20Resources%20%26%20Support.md)
 
 ## Relevant resources
 - [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support)
