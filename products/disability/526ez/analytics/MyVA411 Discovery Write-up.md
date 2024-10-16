@@ -37,7 +37,7 @@ Historically, UX has relied on Medallia survey data for 526ez health checks and 
     
 
 ## Benefits/Limitations of MyVA411 Data
-See an overview of MyVA411 data in this document.
+See an overview of MyVA411 data[ in this document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MyVA411_About.md)
 
 ### Benefits of MyVA411 Data
 
