@@ -38,7 +38,7 @@ Before we start, I have a few things that I want to go over with you:
    - Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording.
    - Backup plan if they cannot figure out how to share screen:
       - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You can tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
-- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
+- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits. While you're going through the scenario, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
@@ -55,8 +55,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Yes or no, ask for the user to elaborate further.
 - Alright, let's get to the prototype.
 ## Getting Started - 1 minute
-- I'm going to give you a scenario for you to walk through of a prototype of this application and please give us your thoughts.
-- While you're going through the scenario, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. 
+- I'm going to give you a scenario for you to walk through of a prototype of this application and please give us your thoughts. 
 ## First Task: [Funeral home applicant] - X minutes
 - **Step 1:** You are Alex Wilson, a funeral home employee working for Wilson & Wilson. You want a medallion sent to you to place on a deceased Veteran’s headstone. You will complete the application from start to finish for the medallion. 
 - **Step 2:** You are a cemetery official reviewing and signing off on an application.
