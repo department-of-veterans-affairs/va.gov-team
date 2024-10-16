@@ -109,7 +109,11 @@ Explore data analytics and AI tooling that is being made available to OCTO.
 **Trade-offs:** Tooling would require more research capacity to operationalize. As tooling becomes more common and problems are ironed out, we could explore with less risk down the road. Concerns about how safe it is to include PII.
 
 # Recommended Approach for TE Monitoring
-We know that MyVA411 offers a high volume of data, but the value of the data for monitoring a digital launch still remains unseen. In order to keep monitoring lightweight in the short term, we will begin with a hybrid approach of 1 & 2, leaning into Steven's background with NLP. This will keep engineers focused on their work but allow time for a conversation with Megan Hicks about Streamlit. If Approach 2 serves difficult due to PII and machine access, we will fall back to Approach 1. 
+We know that MyVA411 offers a high volume of data, but the value of the data for monitoring a digital launch still remains unseen. 
+
+
+Our focus will be to keep our monitoring lightweight and targeted. In our data request, we will request case categories dealing with "disability compensation rather than "Pact Act," specifically. [See justification in this About MyVA411 document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/MyVA411_About.md) 
+With the data analysis, we will take a hybrid approach of 1 & 2, leaning into Steven's background with NLP. This will keep engineers focused on their work but allow time for a conversation with Megan Hicks about Streamlit. If Approach 2 serves difficult due to PII and machine access, we will fall back to Approach 1. 
 
 # Relevant Links
 [Processing and Utilizing Veteran Support Data](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data)
