@@ -58,7 +58,7 @@ This is a list of proposed entry points. We recommend checking page performance 
 
 <img width="200" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/b2b7bfb4-e862-4060-a636-5b9f9a0c847a">
 
- 3. **[About VA Form 20-10206](https://www.va.gov/find-forms/about-form-20-10206/)** - Add
+ 3. **[About VA Form 20-10206](https://www.va.gov/find-forms/about-form-20-10206/)** - Add - *as of 10.17.2024 this is still needed*
   - Placement description: Add below “Downloadable PDF”
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
