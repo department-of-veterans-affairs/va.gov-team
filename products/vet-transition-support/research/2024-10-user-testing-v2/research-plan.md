@@ -240,7 +240,7 @@ Are you currently a Commanding Officer?
 We plan to interview Veterans, TSMs, and COs over approximately a 2-week period (August 6th through August 16th). Dates are subject to move based on participant availability.
 
 #### Prepare
-We will be testing our product on the [VA staging site] (https://staging.va.gov/benefit-eligibility-questionnaire/introduction).
+We will be testing our product on the [VA staging site](https://staging.va.gov/benefit-eligibility-questionnaire/introduction).
 
 We do want to hold a kickoff call with the Perigean team. Please email the following people to schedule a kickoff call:
 
