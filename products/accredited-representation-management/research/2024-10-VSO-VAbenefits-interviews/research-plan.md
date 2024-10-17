@@ -1,4 +1,4 @@
-# Research Plan for AR Team, VSOR - VA Disability Compensation Claim - Interviews, 10/2024
+# Research Plan for AR Team, VSO - VA Benefits (526ez, 686c, 674) - Interviews, 10/2024
 
 ## **Background**
 
