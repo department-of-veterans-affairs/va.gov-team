@@ -45,7 +45,7 @@ Success metrics from GA4 will be updated in this document at the end of each inc
 
 Medallia and MyVA411 data will reviewed throughout the rollout at 1.0 25%, 1.0 100%, and 1.1 75%. 
 
-For dates of the rollout, please see the [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000)).
+For dates of the rollout, please see the [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000).
 
 
 ## Top Takeaways
