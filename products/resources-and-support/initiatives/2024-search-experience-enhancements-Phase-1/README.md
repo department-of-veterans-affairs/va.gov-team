@@ -99,7 +99,8 @@ Efforts to inform this iteration with Veteran feedback
 ## Measuring Success
 
 ### Analytics
-For baseline metrics, including CSAT, user and traffic data, and pageviews, please see [Resources & Support Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/analytics/Analytics%20-%20Resources%20%26%20Support.md)
+- For baseline metrics, including CSAT, user and traffic data, and pageviews, please see [Resources & Support Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/analytics/Analytics%20-%20Resources%20%26%20Support.md)
+- Monthly experience ratings are available in the [Unauthenticated outcomes and metrics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/unauthenticated-content-outcomes-and-metrics/monthly-experience-ratings/ratings-by-month)
 
 ## Relevant resources
 - [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support)
