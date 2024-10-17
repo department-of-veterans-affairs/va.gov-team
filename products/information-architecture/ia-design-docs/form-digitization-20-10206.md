@@ -42,7 +42,7 @@ FYI, no flow for POA/third party is supported at this moment.
 
 This is a list of proposed entry points. We recommend checking page performance after the online application has been 100% launched and then submitting a ticket to have IA reeavuluate entry points if needed.
 
-1. **[Records hub page](https://www.va.gov/records/)** - Add
+1. **[Records hub page](https://www.va.gov/records/)** - Add <span style="color:red">- this is still needed</span>.
   - Placement description: Under “Get your records and documents”, 4th option down. Below the records options that are currently available on the modernized site.
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
