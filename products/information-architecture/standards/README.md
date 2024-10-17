@@ -26,7 +26,6 @@ Search best bets | [Search best bets guidance on GH](https://github.com/departme
 Primary navigation | Not documented in VADS | Med/Med | Unassigned |  | Document guidance for existing experience <br> OCTO currently evaluating for redesign, along with secondary nav. 
 Secondary navigation | [Side nav](https://design.va.gov/components/sidenav) | Med/Med | Unassigned |  | Document guidance for existing experiences - Benefit hubs, health facilities, MHV portal <br> OCTO currently evaluating for redesign, along with primary nav
 IA section of design system  | --- | High/High | Unassigned  | [Old mural for reference](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727207094767/f4f5ac4667427130c83c631d474bc783da52ff20?sender=u2aba00c97ab77c6ec1573123) | Not started
-Links | [Links](https://design.va.gov/content-style-guide/links) | --- | ? |  | [Lasted updates communicated out on 9/24/24](https://dsva.slack.com/archives/C0NGDDXME/p1727205735920459) Is this done?
 Pagination | [Pagination component](https://design.va.gov/components/pagination) Discovery of current usage, any V3 plans, USWDS guidance.| Low/Med | Unassigned|   | Not started
 Template: Find a form landing page | | Low/Low |Unassigned | [Draft guidance](https://dvagov-my.sharepoint.com/:w:/g/personal/suzanne_middaugh_va_gov/EaDcyTELxL5Hk7fvpdCcNaABTTtD--NJnOZhW3PU7n86KA?email=Michelle.Northuis%40va.gov&e=Ika3UY) | Not started
 Template: About a form detail page | | Low/Med |Unassigned | [Draft guidance](https://dvagov-my.sharepoint.com/:w:/g/personal/suzanne_middaugh_va_gov/EaDcyTELxL5Hk7fvpdCcNaABTTtD--NJnOZhW3PU7n86KA?email=Michelle.Northuis%40va.gov&e=Ika3UY) | Not started
@@ -36,6 +35,7 @@ URLs | - [General URL standards](https://design.va.gov/components/url-standards/
 Redirects | [Redirect guidance](https://design.va.gov/components/url-standards/redirects) | Med/Med | Kristin | --- | [Lastest updates communicated on 8/5/24](https://dsva.slack.com/archives/CE4304QPK/p1722883165574459) VADS documentation is DONE. Still need to update platform documentation (Jill is POC for that)
 Sign-in Widget | | Med/Med | Login team | [CAIA Ticket #78520](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78520) | Mikki is going to look into what work we actually have to do given conten's current involvement. <br> The login team is planning to take over this documentation -- we have feedback. DONE
 Page titles and title tags | [Page titles](https://design.va.gov/content-style-guide/page-titles-and-section-titles) <br> [Title tags](https://design.va.gov/content-style-guide/title-tags) |High/Med | Kristin | ---| [Latest updates communicated out on 9/24/24](https://dsva.slack.com/archives/C0NGDDXME/p1727205735920459) DONE
+Links | [Links](https://design.va.gov/content-style-guide/links) | --- | ? |  | [Lasted updates communicated out on 9/24/24](https://dsva.slack.com/archives/C0NGDDXME/p1727205735920459) Is this done?
 
  
 
