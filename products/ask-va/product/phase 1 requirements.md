@@ -1,4 +1,4 @@
-# Phase 1 MVP - Front-End Redesign
+# Phase 1 front-end redesign requirements
 
 Last updated by @beckyphung on October 30, 2023
 
