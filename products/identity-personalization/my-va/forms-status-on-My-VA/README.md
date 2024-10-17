@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: October 16, 2024 - updated key dates**
+**Last updated: October 17, 2024 - updated key dates**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -134,7 +134,7 @@ The primary goal of this MVP is to reduce silent submission failures in the form
 - September 24, 2024: QA
 - October 4, 2024: Staging Review
 - October 10, 2024: internal UAT
-- ____: Begin phased launch
+- October 17, 2024: Begin phased launch (25%)
 - ____: Launch to 100%
    
 ## Screenshots
