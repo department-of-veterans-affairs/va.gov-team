@@ -83,7 +83,8 @@
 - **Pre-Check-in - VAHB**
     - ⛔ Waiting on Kick-off by Kristen & UX work by VAHB. Juan will do FE work in VAHB.
 - **Check in with staff after checking in**
-    - 🟥 Submit CAIA intake request ticket to review content changes
+    - ~🟥 Submit CAIA intake request ticket to review content changes~
+      - IPT wants the ISS work done first by SPL Team. No timeline specified yet. No need go through CAIA, as the application could change between now and then. 
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
     - 🟥 [Create wireframe for intro page with content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94911)
