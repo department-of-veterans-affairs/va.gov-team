@@ -4,5 +4,7 @@ The purpose of these meetings are to determine timelines for content work and di
 ## October 17, 2024
 - Review widget in the static page for 1010d CHAMPVA Registration
 - Review school letter decision for 1010d CHAMPVA Registration
+- Silent failures (Aliyah)
+- Confirmation emails - updates based on new design system guidance (Aliyah)
   
  ### Notes
