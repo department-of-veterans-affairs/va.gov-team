@@ -151,7 +151,7 @@ _\*NOTE: Please do not schedule more than one participant per US state._
 
 ### **Research sessions**
 
-- Planned dates of research: October 23 – October 29, 2024
+- Planned dates of research: October 24 – October 30, 2024
 
 ### **Length of sessions**
 
@@ -162,11 +162,12 @@ _\*NOTE: Please do not schedule more than one participant per US state._
 
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
-| Wednesday | October 23, 2024 | 9:00am – 7:00pm |
 | Thursday | October 24, 2024 | 9:00am – 7:00pm |
 | Friday | October 25, 2024 | 9:00am – 5:00pm |
 | Monday | October 28, 2024 | 9:00am – 7:00pm |
 | Tuesday | October 29, 2024 | 9:00am – 7:00pm |
+| Wednesday | October 30, 2024 | 9:00am – 7:00pm |
+
 
 Note: Please do not schedule more than 4 sessions per day.
 
