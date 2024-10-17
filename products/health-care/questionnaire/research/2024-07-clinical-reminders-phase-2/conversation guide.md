@@ -98,7 +98,7 @@ If participant recalls the questions, then ask:
     - 1b. Do you recall if the experience was positive or negative? Why?
     - 1c. Do you recall anything in particular about those questionnaires that stood out to you?
 
-2.	We are going to go through a similar process again, but this time I’ll only show revised questions from the toxic exposure questions reminder. These revisions are based on the feedback we received from the usability sessions you participated in back in January. But before we move on to the prototype, I have a few more questions. 
+2.	We are going to go through a similar process again, but this time I’ll only show revised questions from the toxic exposure questions reminder. These revisions are based on the feedback we received from the usability sessions you participated in back in January.
 
 - Moderator: move to Task 1.
 
