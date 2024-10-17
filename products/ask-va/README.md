@@ -3,7 +3,7 @@ Ask VA (AVA) is an online portal that allows Veterans, caregivers, and supportin
 
 Ask VA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystem to quickly and accurately answer users' questions. Users should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want Ask VA to feel part of a cohesive and user-centered approach to support.
 
-Learn more about the [history of Ask VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-background.md).
+Learn more about the [history of Ask VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/background.md).
 
 ## Where to find us 
 
