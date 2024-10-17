@@ -65,20 +65,20 @@ This is a list of proposed entry points. We recommend checking page performance 
   - Notes: Add to search results as well
 <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/739985f7-8a95-4327-8c18-8d7e57113423">
 
-4. **[Privacy Policy](https://www.va.gov/privacy-policy/)** - Add
+4. **[Privacy Policy](https://www.va.gov/privacy-policy/)** - Add - *still needed as of 10.17.2024*
   - Placement description:
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
   - Notes:
 
-5. **[VA claim exam (C&P exam)](https://www.va.gov/disability/va-claim-exam/)** - Add
+5. **[VA claim exam (C&P exam)](https://www.va.gov/disability/va-claim-exam/)** - *completed as of 10.17.2024*
   - Placement description: Under "After your VA claim exam" and under expanded item "How can I get my claim exam results?"
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
   - Notes:
 <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/791ade55-e5fc-4f7e-908c-041ff214a7e7">
 
-6. **[Privacy Act Requests](https://department.va.gov/privacy/privacy-act-requests/)** - Add
+6. **[Privacy Act Requests](https://department.va.gov/privacy/privacy-act-requests/)** - Add - *still needed as of 10.17.2024. This page has a text-link to the PDF version of the FOIA form, but not the digital version.*
   - Placement description: 
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
@@ -86,14 +86,14 @@ This is a list of proposed entry points. We recommend checking page performance 
 <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/6db79b5f-9a0b-428e-a28b-c85ff2fa4bc7">
 
 
-7. **[FOIA Requests](https://department.va.gov/foia/foia-requests/)** - Add
+7. **[FOIA Requests](https://department.va.gov/foia/foia-requests/)** - Add - *still needed as of 10.17.2024*
   - Placement description: Below “How are VA FOIA Requests Handled?”, there is a section for “Personal Records”
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
   - Notes: We would need to connect with the team that manages this site to add entry point here.
  <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/6a635c95-63e9-4892-a0dd-ae2b7bc09d81">   
 
-8. **[Supporting Forms page](https://va.gov/supporting-forms-for-claims/)** - Add
+8. **[Supporting Forms page](https://va.gov/supporting-forms-for-claims/)** - *Complete as of 10.17.2024*
   - Placement description:
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
