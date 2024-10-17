@@ -41,22 +41,12 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
  </details>   
 
 ## Reporting Schedule
-_Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts._
-_
-<details>
-  <summary>Click to expand provisional reporting schedule (not source of truth)
-  </summary>
+Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. 
 
-|**Rollout %**|**Dates of rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|GA4 reporting date | Medallia +Contact Center request
-|--|--|--|--|
-|5%| Aug 28 | Sept 3 [Validation of success metrics below](#526ez-success-metrics)| 
-|10%| Sept 5 - 15 | |
-|25% | Sept 16 - Sept 26 ||
-|50%|TBD| TBD |Request on Sept 20|
-|75%|TTBD| TBD|
-|100%|TBD| TBD| Request on TBD|
+Medallia and MyVA411 data will reviewed throughout the rollout at 1.0 25%, 1.0 100%, and 1.1 75%. 
 
-</details>
+For dates of the rollout, please see the [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000)).
+
 
 ## Top Takeaways
 _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave together insight across Contact Center (MyVA 411), Medallia, and GA4 to highlight trends in user experience of the new Toxic Exposure feature._    
