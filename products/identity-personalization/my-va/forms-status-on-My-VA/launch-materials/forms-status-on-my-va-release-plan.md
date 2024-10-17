@@ -1,5 +1,5 @@
 # My VA Forms Status MVP Release Plan
-**Last updated: October 16, 2024 - updated launch go/no-go details** 
+**Last updated: October 17, 2024 - updated phased launch details** 
 
 ### Table of Contents
 - [Phase I: UAT](#Phase-i-uat)
@@ -33,7 +33,7 @@ Once the phased roll-out is complete on My VA, the Veteran Facing Forms team wil
 ### Planning & Execution:
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 25% | 10/17/2024 | _mm/dd/yyyy_ |
+| Launch to 25% | 10/17/2024 | _10/17/2024_ |
 | Launch to 50% | 10/21/2024 | _mm/dd/yyyy_|
 | Launch to 100% | 10/23/2024 | _mm/dd/yyyy_ |
 
