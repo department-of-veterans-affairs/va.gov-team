@@ -1,6 +1,6 @@
 # MHV on VA.gov Medical Records Product Outline
 
-Last Updated: September 9. 2024
+Last Updated: Oct 17. 2024
 
 ### Communications
 
