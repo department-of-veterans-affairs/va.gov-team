@@ -18,7 +18,7 @@ Specific questions in the Ask VA form determine routing. There are different typ
 |Category, topic, and subtopic|**Category**: Health care<br>**Topic**: Family member health benefits<br>**Subtopic**: CHAMPVA benefits<br>**Queue**: VHA HAC CHAMPVA (Civilian Hlth&Med Prog)| 
 
 
-### heading
+### Education
 |Questions that determine routing|Examples| 
 |:--|:--| 
 |Category, topic, and School facility code|**Category**: Education benefits and work study<br>**Topic**: Benefits for survivors and dependents<br>**School facility code**:...<br>**Queue**: Buffalo CSR|
@@ -27,3 +27,13 @@ Specific questions in the Ask VA form determine routing. There are different typ
 |Category, topic, subtopic, and State of school|**Category**: Education benefits and work study<br>**Topic**: Transfer of benefits<br>**Subtopic**: Transferring benefits after death of Veteran or dependent (Section 110)<br>**State of school**: ...<br>**Queue**: Buffalo Colmery Section 110| 
 |Category, topic, and State of residence|**Category**: Education benefits and work study<br>**Topic**: School Certifying Officials (SCOs)<br>**State of residence**:...<br>**Queue**: Muskogee Schools| 
 |Category, topic, subtopic, and State of residence|**Category**: Education benefits and work study<br>**Topic**: Work study<br>**Subtopic**: Position description<br>**State of residence**:...<br>**Queue**: Buffalo Work Study| 
+
+### Health care
+|Questions that determine routing|Examples|Notes| 
+|:--|:--|:--|
+|Category, topic, and Medical facility|**Category**: Health care<br>**Topic**: Getting care at a local VA medical center<br>**Medical facility**:...<br>**Queue**: PATSR|PATSR uses Medical facility to create the case for the proper facility queues in the PATSR application.|
+
+### VR&E 
+|Questions that determine routing|Examples|Notes| 
+|:--|:--|:--|
+|Category, topic, and Medical Facility|**Category**: Health care<br>**Topic**: Getting care at a local VA medical center<br>**Medical Facility**:...<br>**Queue**: PATSR|PATSR uses Medical Facility to create the case for the proper facility queues in the PATSR application.|
