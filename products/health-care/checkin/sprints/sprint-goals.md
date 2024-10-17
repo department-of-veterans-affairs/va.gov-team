@@ -12,7 +12,7 @@
 - **Community Care Direct Scheduling**
     - **Sprint Goal is to understand how to get referral data from Palantir**
     - **END OF THE YEAR DEADLINE**
-    - TBD
+    - 🟦 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
 - **OH Travel**
     - **Sprint goal is to have this ready for internal testing**
     - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
