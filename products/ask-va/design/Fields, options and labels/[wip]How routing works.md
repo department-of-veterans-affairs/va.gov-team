@@ -28,12 +28,12 @@ Specific questions in the Ask VA form determine routing. There are different typ
 |Category, topic, and State of residence|**Category**: Education benefits and work study<br>**Topic**: School Certifying Officials (SCOs)<br>**State of residence**:...<br>**Queue**: Muskogee Schools| 
 |Category, topic, subtopic, and State of residence|**Category**: Education benefits and work study<br>**Topic**: Work study<br>**Subtopic**: Position description<br>**State of residence**:...<br>**Queue**: Buffalo Work Study| 
 
+### VR&E 
+|Questions that determine routing|Examples|Notes|
+|:--|:--|:--|
+|Category, topic, and Postal code|**Category**: Veteran Readiness and Employment<br>**Topic**: Financial issues<br>**Postal code**:...<br>**Queue**: VBA Anchorage RO-VR&E|❓Does Postal code or State of residence determine routing for VR&E? Noticed there could be multiple regional offices within a single state.|
+
 ### Health care
 |Questions that determine routing|Examples|Notes| 
 |:--|:--|:--|
 |Category, topic, and Medical facility|**Category**: Health care<br>**Topic**: Getting care at a local VA medical center<br>**Medical facility**:...<br>**Queue**: PATSR|PATSR uses Medical facility to create the case for the proper facility queues in the PATSR application.|
-
-### VR&E 
-|Questions that determine routing|Examples|Notes| 
-|:--|:--|:--|
-|Category, topic, and Medical Facility|**Category**: Health care<br>**Topic**: Getting care at a local VA medical center<br>**Medical Facility**:...<br>**Queue**: PATSR|PATSR uses Medical Facility to create the case for the proper facility queues in the PATSR application.|
