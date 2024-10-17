@@ -11,7 +11,7 @@ This doc explains how the Ask VA CRM routes inquiries to the correct queue.
 ## Types of routing rules 
 Specific questions in the Ask VA form determine routing. There are different types of routing rules that depend on answers to different questions. We describe each combination in the table below.  
 
-### heading
+### Most categories
 |Questions that determine routing|Examples| 
 |:--|:--| 
 |Category and topic|**Category**: Disability compensation<br>**Topic**: Any topic within this category<br>**Queue**: VBA ART| 
@@ -41,4 +41,4 @@ Specific questions in the Ask VA form determine routing. There are different typ
 ### Housing assistance and home loans
 |Questions that determine routing|Examples|Notes|
 |:--|:--|:--|
-|Category, topic, and State of Property|**Category**: Housing assistance and home loans<br>**Topic**: Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants<br>**State of property**:...<br>**Queue**: VBA Anchorage RO-VR&E|❓Does Postal code or State of residence determine routing for VR&E? Noticed there could be multiple regional offices within a single state.|
+|Category, topic, and State of Property|**Category**: Housing assistance and home loans<br>**Topic**: Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants<br>**State of property**:...<br>**Queue**: VBA-LGY-Specially Adapted Housing|❓How does State of property determine the queue?|
