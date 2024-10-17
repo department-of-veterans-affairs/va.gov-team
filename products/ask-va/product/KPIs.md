@@ -5,7 +5,7 @@ Last updated by @beckyphung on October 15, 2024
 
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
 
-**Jump to: **
+**Jump to:**
 - [User experience KPIs](#user-experience-kpis)
 - [Performance KPIs](#performance-kpis)
 
@@ -22,7 +22,10 @@ User Experience KPIs measure how well Ask VA meets the needs and expectations of
 Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads.
 |Goal|KPI|Target definition|Actual targets as of [date]|
 |:--|:--|:--|:--|
-|Ensure completely successful submissions|**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|xx|xx|
+|Ensure completely successful submissions|**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate|VA.gov silent failures rate: ??|
+
+## Business line KPIs
+The Ask VA CRM team tracks business line KPIs in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). This includes metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more.
 
 ----
 🚧 Old text below
