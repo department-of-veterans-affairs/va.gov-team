@@ -34,3 +34,9 @@ We are currently exploring some options for next steps:
 | ----------- | --------- |
 | IAM to investigate/fix instances where an ICN exists but has been omitted from the extract. | Would need to submit an SR with IAM team.  LOE unknown. |
 | Update the Domo Dashboard to better identify what “not correlated” means and “let it ride” | This won’t impact communication campaign since the list of  users is being identified and provided by MHV to Oddball. MHV team is aware of the nuances we had discovered of the IAM data related to the ID.me wrapper and expect they can (if not currently, then soon) provide a similar list of ICNs who need transitioned. |
+
+## Next Steps (updated 10/17/24)  
+We have received new information from Brian that the user only has one ICN associated with them. We have asked whether/why this user's credentials were omitted from the IAM extract or whether/why the user's credentials are in the extract but the ICN is being omitted. This is different from the multiple ICN scenario initially suspected. We are awaiting feedback from Brian on how feasibile it is to resolve the issue and the level of effort required to fix the data. Our next steps are: 
+
+- Continue working with IAM to understand the underlying issue, which may be something they can fix.
+- Discuss with Samara about creating a new Service Request (SR) with the IAM team to address the data discrepancies.
