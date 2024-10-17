@@ -92,7 +92,8 @@ We are seeking Perigean’s assistance to recruit Veterans, Transitioning Servic
 To be inclusive of diverse perspectives, we plan to recruit participants from various races/ethnicities, genders, age ranges, and service branches. Approximately 50% of our sample will include people of color and 50% will be women as well. We are recruiting Veterans from 3 age ranges, with Veterans 65 years and older being the largest percentage (40%) of the three age bands.
 
 #### Recruitment criteria
-Veterans
+
+#### Veterans
 How many names are we seeking?
 -	The VTS team is seeking interviews with 16 veterans
 -	Minimum 10 veterans
