@@ -11,10 +11,19 @@ This doc explains how the Ask VA CRM routes inquiries to the correct queue.
 ## Types of routing rules 
 Specific questions in the Ask VA form determine routing. There are different types of routing rules that depend on answers to different questions. We describe each combination in the table below.  
 
+### heading
 |Questions that determine routing|Examples| 
 |:--|:--| 
-|Category and topic|- **Category**: Disability compensation<br>- **Topic**: Any topic within this category<br>- **Queue**: VBA ART| 
-|Category, topic, and subtopic|- **Category**: Health care<br>- **Topic**: Family member health benefits<br>- **Subtopic**: CHAMPVA benefits<br>- **Queue**: VHA HAC CHAMPVA (Civilian Hlth&Med Prog)| 
-|Category, topic, and School facility code|- **Category**: Education benefits and work study<br>- **Topic**: Benefits for survivors and dependents<br>- **School facility code**:...<br>- **Queue**: Buffalo CSR|
-|Category, topic, and State of school|- **Category**: Education benefits and work study<br>- **Topic**: Family member health benefits<br>- **Subtopic**: CHAMPVA benefits<br>- **Queue**: VHA HAC CHAMPVA (Civilian Hlth&Med Prog)| 
-|Category, topic, and State of residence|- **Category**: Health care<br>- **Topic**: Family member health benefits<br>- **Subtopic**: CHAMPVA benefits<br>- **Queue**: VHA HAC CHAMPVA (Civilian Hlth&Med Prog)| 
+|Category and topic|**Category**: Disability compensation<br>**Topic**: Any topic within this category<br>**Queue**: VBA ART| 
+|Category, topic, and subtopic|**Category**: Health care<br>**Topic**: Family member health benefits<br>**Subtopic**: CHAMPVA benefits<br>**Queue**: VHA HAC CHAMPVA (Civilian Hlth&Med Prog)| 
+
+
+### heading
+|Questions that determine routing|Examples| 
+|:--|:--| 
+|Category, topic, and School facility code|**Category**: Education benefits and work study<br>**Topic**: Benefits for survivors and dependents<br>**School facility code**:...<br>**Queue**: Buffalo CSR|
+|Category, topic, subtopic, and School facility code|**Category**: Education benefits and work study<br>**Topic**: Work study<br>**Subtopic**: Application<br>**School facility code**:...<br>**Queue**: Buffalo CSR|
+|Category, topic, and State of school|**Category**: Education benefits and work study<br>**Topic**: Educational and career counseling<br>**State of school**: ...<br>**Queue**: Muskogee CSR|
+|Category, topic, subtopic, and State of school|**Category**: Education benefits and work study<br>**Topic**: Transfer of benefits<br>**Subtopic**: Transferring benefits after death of Veteran or dependent (Section 110)<br>**State of school**: ...<br>**Queue**: Buffalo Colmery Section 110| 
+|Category, topic, and State of residence|**Category**: Education benefits and work study<br>**Topic**: School Certifying Officials (SCOs)<br>**State of residence**:...<br>**Queue**: Muskogee Schools| 
+|Category, topic, subtopic, and State of residence|**Category**: Education benefits and work study<br>**Topic**: Work study<br>**Subtopic**: Position description<br>**State of residence**:...<br>**Queue**: Buffalo Work Study| 
