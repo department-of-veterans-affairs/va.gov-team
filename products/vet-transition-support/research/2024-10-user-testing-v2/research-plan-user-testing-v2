@@ -1,16 +1,18 @@
 # Veteran Transition Support Version 1 User Testing and Research
 ## Research Plan
 
-Created On: July 10, 2024
+Created On: October 17, 2024
 
-Edited Last: July 17, 2024
+Edited Last: October 17, 2024
 
 ### Background
-Through the Veteran Transition Support (VTS) project, the Department of Veterans Affairs (VA) and Booz Allen Hamilton are working to help Veterans learn about available benefits, understand their eligibility, and begin the application process. The VTS teams aims to create a new, accessible, all-in-one prototype for Veteran benefit information that is helpful for current service-members approaching separation and all Veterans regardless of the time since their separation. This prototype would clearly guide Veterans through the benefits discovery and eligibility check processes. The prototype will also provide comprehensive and accurate information about gathering required documentation, applying for benefits, and checking one’s application status.
+Through the Veteran Transition Support (VTS) project, the Department of Veterans Affairs (VA) and Booz Allen Hamilton are working to help Veterans learn about available benefits, understand their eligibility, and begin the application process. The VTS teams aims to create a new, accessible, all-in-one prototype for Veteran benefit information that is helpful for current service members approaching separation and all Veterans regardless of the time since their separation. This prototype would clearly guide Veterans through the benefits discovery and eligibility check processes. The prototype will also provide comprehensive and accurate information about gathering required documentation, applying for benefits, and checking one’s application status.
 
-The VTS team will use a multi-phased approach to develop the MVP. The team began by conducting a research review of previous VA-funded projects that support benefit discovery and service-member transition. The next phase to conduct original interviews to answer questions that have not been covered by previous VA research. The VTS team plans to interview Veterans, service-members, and VA stakeholders to learn about unexplored aspects of the separation process, benefit discovery, and available support for Veterans.
+The team began by conducting a research review of previous VA-funded projects that support benefit discovery and service member transition. The next phase was to conduct original interviews to answer questions that have not been covered by previous VA research. The VTS team interviewed Veterans, transitioning service members, Commanding Officers, and VA stakeholders to learn about unexplored aspects of the separation process, benefit discovery, and available support for Veterans. Informed by the interview findings and previous VA research, the VTS team designed and iteratively refined a Figma prototype for the benefit recommendation tool. 
 
-This will be a new Veteran-facing product. It is undecided whether the product will be authenticated or unauthenticated. We may have both authenticated content and unauthenticated content. This is our initial round of generative research. We are very early in our project timeline, so we are not testing a prototype at this stage. Our generative research will inform our development of a prototype, which we will test in a later round of user research.
+We conducted an initial round of user testing with Veterans and transitioning service members. Our initial user testing used the Figma prototype; we conducted this initial user testing before the underlying recommendation logic was finalized.
+
+While we gained significant insights from the initial user testing, we need to conduct additional testing to ensure the product’s recommendation logic and interactive features work properly. The VTS team’s developers have transformed the prototype into a product on the VA staging site. We will conduct this second round of user testing on the staging site.
 
 #### OCTO Priorities 
 Our research supports the following  OCTO priorities
@@ -23,22 +25,20 @@ Our product will support Veterans at multiple stages of the [Veteran journey](ht
 
 ### Research Goals	
 Our research goals are the following:
--	Understand how Version 1 of the Veterans Transition Assistant starts to meet the needs of transitioning service-members and current Veterans
--	Test specific features in the Version 1 MVP: Skipping Questions, Review Answers Page, Sorting and Filtering, Etc.
--	Determine expectations of users given the baseline MVP of Version 1
+-	Understand how Version 2 of the Veterans Transition Support product starts to meet the needs of transitioning service-members and current Veterans
+-	Test specific features in the Version 2 staging site: Skipping Questions, Review Answers Page, Sorting and Filtering, Etc.
+-	Determine expectations of users for the product
 -	Find out additional features & systems that can be added to VTS in future versions that is helpful to users
 
 #### Outcome
-The findings from our research will primarily inform any feature or design fixes to include in the Version 2 of the VTS product. We’re looking to validate all design assumptions and choices that we made for Version 1. 
-
-Secondarily, now that we have a MVP version of the VTS, the findings from the research will also help inform future features and design choices for future versions as well as how we should prioritize those future features and design choices.
+The findings from our research will primarily inform any feature or design fixes to include in the Version 3 of the VTS product. We’re looking to validate the design assumptions and choices that we made for Version 2. 
 
 #### Research questions
 Our research questions are the following:
 -	What should the VTS be named?
-    - Something catchy?
-    - Or informative?
-    - Or somewhere in between?
+    - We are tentatively calling it "Discover my benefits." How do Veterans and service members feel about this name?
+    - How do Veterans and service members feel about "Find my benefits" as an alternative option?
+    - Are there other names that might be more appropriate?
 -	How do users feel about the Review Answers Page?
     - How often to people just skip it quickly?
     - Do people use it to alter their answers just to see changes on the results page?
@@ -67,7 +67,7 @@ Our research questions are the following:
     - Is this section useful to users? Why?
 
 #### Hypothesis
-Our hypothesis is that Version 1 of the Veteran Transition Support questionnaire meets some needs of users and sets up the project to meet future needs of veterans. 
+Our hypothesis is that Version 2 of the Veteran Transition Support questionnaire meets some needs of users and sets up the project to meet future needs of Veterans. However, we expect that we will receive feedback to improve the user experience for v3 and beyond.
 
 ### Methodology	
 We are conducting semi-structured interviews for this research project. We will be starting with structured user testing: Sending the user a clickable prototype and asking them to click through the prototype while speaking their thoughts. 
@@ -82,6 +82,7 @@ We will host our user interviews remotely. Since we are working with Perigean to
 
 #### Research materials
 -	The conversation guide is in a separate document
+
 ### Recruitment	
 We will work with Perigean to handle the recruitment, scheduling, and compensation of Veterans, transitioning servicemembers, and Commanding Officers.
 
@@ -239,22 +240,23 @@ Are you currently a Commanding Officer?
 We plan to interview Veterans, TSMs, and COs over approximately a 2-week period (August 6th through August 16th). Dates are subject to move based on participant availability.
 
 #### Prepare
-We will be testing a clickable prototype with users. This prototype will be hosted on Figma and a link will be sent to users for the testing.
+We will be testing our product on the [VA staging site] (https://staging.va.gov/benefit-eligibility-questionnaire/introduction).
 
 We do want to hold a kickoff call with the Perigean team. Please email the following people to schedule a kickoff call:
--	Gene Dreyband (Yevgeny.Dreyband@va.gov)
+
 -	Cora Goldston (Cora.Goldston@va.gov)
--	Nicole Kontrabecki (Nicole.Kontrabecki@va.gov)
+-	Ronnie Young (Veronica.Young1@va.gov)
 -	Michelle Ortiz (Michelle.Ortiz3@va.gov)
--	Ronnie Young (Veronica.Young1@va.gov
+-	Gene Dreyband (Yevgeny.Dreyband@va.gov) - Gene may be OOO when we have the kickoff call, but please include him in Perigean communications.
+-	Nicole Kontrabecki (Nicole.Kontrabecki@va.gov) - Nicole may be OOO when we have the kickoff call, but please include her in Perigean communications.
 
 Here is the mock participant information for the required pilot test:
--	Pilot participant email: Nicole.Kontrabecki@va.gov
+-	Pilot participant email: Cora.Goldston@va.gov
 -	Date and time of pilot session: TBD; but before research begins
 
 #### Research sessions
 Planned dates of research: 
-August 6 – August 16, 2024
+October 31 – November 13, 2024
 
 #### Length of sessions
 -	Session length: 1 hour
@@ -262,31 +264,35 @@ August 6 – August 16, 2024
 -	Maximum Sessions per day: There will be 2 interviewers. Please do not schedule a particular interviewer for more than 2 interviews per day. 
 
 #### Availability
-Tuesday, August 6, 2024
+
+Thursday, October 31, 2024
 -	10:00-17:00 EDT
 
-Wednesday, August 7, 2024
+Friday, November 1, 2024
 -	09:00-17:00 EDT
 
-Thursday, August 8, 2024
+Monday, November 4, 2024
+-	09:00-17:00 EDT
+
+Tuesday, November 5, 2024
 -	10:00-17:00 EDT
 
-Friday, August 9, 2024
+Wednesday, November 6, 2024
 -	09:00-17:00 EDT
 
-Monday, August 12, 2024
--	09:00-17:00 EDT
-
-Tuesday, August 13, 2024
+Thursday, November 7, 2024
 -	10:00-17:00 EDT
 
-Wednesday, August 14, 2024
+Friday, November 8, 2024
 -	09:00-17:00 EDT
 
-Thursday, August 15, 2024
+Monday, November 11, 2024
+-	09:00-17:00 EDT
+
+Tuesday, November 12, 2024
 -	10:00-17:00 EDT
 
-Friday, August 16, 2024
+Wednesday, November 13, 2024
 -	09:00-17:00 EDT
 
 ### Team Roles	
@@ -302,10 +308,10 @@ Participant recruiting & screening:
 -	Perigean
   
 Project point of contact:
--	Nicole Kontrabecki (443-360-6528; Nicole.Kontrabecki@va.gov)
+-	Cora Goldston (773-316-1424; Cora.Goldston@va.gov)
   
 Participant(s) for pilot test:
--	Nicole Kontrabecki (443-360-6528; Nicole.Kontrabecki@va.gov)
+-	Cora Goldston (773-316-1424; Cora.Goldston@va.gov)
   
 Accessibility specialist (for sessions where support for assistive technology may be needed):
 -	Can Perigean help with accessibility support?
