@@ -115,6 +115,8 @@ More details to come.
 
 _Drafts and submitted forms use two separate services, and it is possible that one could fail while the other does not. At this time, we handle all failures the same way but there is the possibility of varying error handling depending on what service(s) fails._
 
+It appears that drafts are tied to the user service, and it is likely that a failure with drafts implies a user won't be able to see any of My VA. If this is the case, then it limits the kinds of messaging we can show. 
+
 More details to come.
 
 ## Revisit overall card content
