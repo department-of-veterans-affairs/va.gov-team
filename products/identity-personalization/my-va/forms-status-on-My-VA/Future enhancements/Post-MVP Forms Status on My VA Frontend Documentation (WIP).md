@@ -21,6 +21,9 @@ Documentation for these points are below:
 
 ## PDF download support on form status cards (Submission in progress, Received, Action needed)
 
+<img width="462" alt="Application Card" src="https://github.com/user-attachments/assets/6563f18e-e633-4b35-b9c8-7028b9b9658d">
+
+
 **New card content, on all forms cards**
 
 Download your application, available until X/X/XXXX (PDF)
