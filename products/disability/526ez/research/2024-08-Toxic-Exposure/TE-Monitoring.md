@@ -51,6 +51,7 @@ For dates of the rollout, please see the [release plan calendar](https://app.mur
 ## Top Takeaways
 <details>
   <summary>Click to expand takeaways for 5-25% rollout of 1.0 </summary>    
+    
 _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave together insight across Contact Center (MyVA 411), Medallia, and GA4 to highlight trends in user experience of the new Toxic Exposure feature._    
 ### #1: Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.
 - TE Opt-in rate for 25% was 48%, a 10% increase over 5% canary. Furthermore, TE page abandonment was low, averaging just 1.3%
