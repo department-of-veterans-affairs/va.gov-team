@@ -61,9 +61,11 @@ A user selecting the link to download the PDF will cause a browser-based error t
 
 _No additional design work is required for this_
 
+More details to come.
+
 ## The addition of a page level alert that appears at the top of My VA, indicating when a form submission has had a detectable system-based error
 
-More details to come
+More details to come.
 
 ### One form with an 'action needed' status
 
