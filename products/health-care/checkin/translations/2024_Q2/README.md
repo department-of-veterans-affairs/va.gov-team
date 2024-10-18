@@ -17,9 +17,13 @@
 - [Q2 2024 - Spanish_2024-08-27_16-44-03.pdf](https://github.com/user-attachments/files/16766114/Q2.2024.-.Spanish_2024-08-27_16-44-03.pdf) - sent on 8/27/2024
 
 ### Tagalog
+- [Q2 2024 - Tagalog_2024-10-18_12-14-36.pdf](https://github.com/user-attachments/files/17435597/Q2.2024.-.Tagalog_2024-10-18_12-14-36.pdf) - send on 10/18/2024
 
 ## Final QA from the State Department on TBD
 
 ### Spanish
 - [Q2 2024 - Spanish_2024-08-27_16-44-03 updated.pdf](https://github.com/user-attachments/files/17133881/Q2.2024.-.Spanish_2024-08-27_16-44-03.updated.pdf) - received on 9/25/2024
+
+### Tagalog
+- TBD
 
