@@ -1,5 +1,15 @@
 # IA Design for Privacy Act Form 20-10206
-**STATUS: Completed**
+**STATUS: Completed** 
+
+*Update 10.17.2024: This work is not fully completed. Some entry points are still needed. See fully notes on each entry point below. A quick summary:
+- **1. [Records hub page](https://www.va.gov/records/)** - *still needed as of 10.17.2024*
+- **2. [Records left nav](https://www.va.gov/records/get-veteran-id-cards/)** - *still needed as of 10.17.2024*
+- 3. [About VA Form 20-10206](https://www.va.gov/find-forms/about-form-20-10206/)- *completed as of 10.17.2024*
+- **4. [Privacy Policy](https://www.va.gov/privacy-policy/)** - *still needed as of 10.17.2024*
+- 5. [VA claim exam (C&P exam)](https://www.va.gov/disability/va-claim-exam/) - *completed as of 10.17.2024*
+- **6. [Privacy Act Requests](https://department.va.gov/privacy/privacy-act-requests/)** - *still needed as of 10.17.2024. This page has a text-link to the PDF version of the FOIA form, but not the digital version.*
+- **7. [FOIA Requests](https://department.va.gov/foia/foia-requests/)** - *still needed as of 10.17.2024*
+- 8. [Supporting Forms page](https://va.gov/supporting-forms-for-claims/) - *Complete as of 10.17.2024*
 
 **Team:** Veteran facing forms
 
