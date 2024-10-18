@@ -52,6 +52,17 @@
 - Query: ```sum(last_5m):sum:vets_api.statsd.api_rack_request{env:eks-prod, controller:v0/search}.as_count() <= 0```
 - Timeframe: 5 min
 
+#### Search.gov - vets-api error due to 429 code returned from search.gov (rate limiting)
+https://vagov.ddog-gov.com/monitors/287522
+
+What is:
+* Errors when we receive 1+ rate limit errors (429) from Search.gov
+
+Mitigation if warn/error: 
+* Enable the Search.gov maintenance Flipper, which will warn Veterans that search may fail: https://api.va.gov/flipper/features/search_gov_maintenance
+* Post a note to the #public-websites-dd-search channel so others know you're taking follow up steps
+* Email search@gsa.gov immediately to request API rate limit increase, and cc PO / PM / DM
+
 **Triage:**
 - Requires investigation.
 
