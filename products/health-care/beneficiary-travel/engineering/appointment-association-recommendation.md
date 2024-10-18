@@ -49,7 +49,7 @@ sequenceDiagram
     activate tpapi
       tpapi ->> vapi: Claim data
     deactivate tpapi
-      vapi ->> appts: All appts (Shared module attaches associatedTravelPayClaim ID)
+      vapi ->> appts: All appts (vets-api module attaches claim ID based on appt datetime & facility match)
     deactivate vapi
 
     appts -) redux: Store all appts (with claimID)
@@ -71,7 +71,7 @@ sequenceDiagram
     activate vaos
       vaos ->> vapi: Appointment {123} data
     deactivate vaos
-      vapi ->> tpapi: Request claim data for appt date
+      vapi ->> tpapi: Request claim data for appt datetime
     activate tpapi
       tpapi ->> vapi: Claim data
     deactivate tpapi
@@ -87,9 +87,19 @@ sequenceDiagram
   deactivate appts
 ```
 
+## Risks, Questions, Considerations
+1. What is the exact policy surrounding Travel Pay claims?
+  - For example, we know that the Rules Engine will flip a claim into the "In Manual Review" status if it's the second one of the day (but the Veteran can still _submit_ that second claim for a second appointment)
+  - So should we associate _any_ appointment on that date at that facility to a claim for that date/facility, resulting in a potential `many:1` (`appt:claim`) association? Or match only on the exact datetime and facility (i.e. the exact appointment for which the claim was submitted) and leave the policy decisions around multiple submissions to the Rules Engine/Travel Clerks?
+2. What are the ramifications of including the claim status in the appointment response object?
+  - Depending on the answer to question 1, how should we associate the status of a claim with an appointment if there might be multiple appointments associated with the same claim (which appointment gets the "status" attached to the appointment object? Or do they all get the same status?)
+3. What is the risk to the Mobile App backwards compatibility requirement if we change the response later?
+  - KISS: simpler is better
+  - Additive changes are ok, but if we add status and other Travel Pay attributes now, harder to remove later
+
 ## Technical feasibility research
 
-### Use the `/appointments` TP-API endpoint (Recommended aproach)
+### Use the `/appointments` TP-API endpoint
 
 One option the team has discussed is to use the TP-API `/appointments` endpoint to retrieve a collection of the user's BTSSS appointments for the same date range (past 3 months, past 6 months, etc.) and associate those to the VAOS appointments in the appointments list. 
  
