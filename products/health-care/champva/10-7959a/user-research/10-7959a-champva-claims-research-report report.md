@@ -1,4 +1,4 @@
-​​2024-09 CHAMPVA Claims 10-7959a Usability/Interviews Research Findings
+# ​​2024-09 CHAMPVA Claims 10-7959a Usability/Interviews Research Findings
 
 Office of the CTO - Digital Experience (OCTO-DE), Form 10-7959a, IVC Forms Team
 
@@ -7,62 +7,37 @@ Date: 09/27/2024
 Rachael Penfil (rachael.penfil@adhocteam.us), Steven Straily (steven.straily@agile6.com), Jamie Fiore (jamie.fiore@adhocteam.us)
 
 Jump to:
-
-
-
-* 
-
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Overview"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-[Overview](#heading=h.1fdnh6gyzx5l)
-* 
-
+- [Overview](#heading=h.1fdnh6gyzx5l)
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Research goals"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-[Research goals](#heading=h.uhtqfo9wxawk)
-* 
-
+- [Research goals](#heading=h.uhtqfo9wxawk)
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Research questions"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-[Research questions](#heading=h.2365gsne18qd)
-* 
-
+- [Research questions](#heading=h.2365gsne18qd)
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Methodology"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-[Methodology](#heading=h.xitqll3ilz2r)
-* 
-
+- [Methodology](#heading=h.xitqll3ilz2r)
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Hypotheses and conclusions"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-[Hypotheses and conclusions](#heading=h.yu8cdoi3ctmb)
-* 
-
+- [Hypotheses and conclusions](#heading=h.yu8cdoi3ctmb)
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Key findings at a glance"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-[Key findings at a glance](#heading=h.3wm8626tn9s)
-* 
-
+- [Key findings at a glance](#heading=h.3wm8626tn9s)
 <p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Details of findings"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Details of findings](#heading=h.cm019s6p0ucb)
-* 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendations at a glance"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+- <p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendations at a glance"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Recommendations at a glance](#heading=h.t0jwu3yfdy7j)
-* 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Further research needed"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+- <p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Further research needed"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Further research needed](#heading=h.yigiky9jc4y7)
-* 
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Next steps"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+- <p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Next steps"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Next steps](#heading=h.d1ejxaousstc)
-* 
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Who we talked to"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+- <p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Who we talked to"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Who we talked to](#heading=h.7hu3cptz7eby)
 
@@ -84,15 +59,9 @@ Each of these participants answered questions about their past experience with t
 
 ## Research goals
 
-This study provided insight into the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) program and unauthenticated digital flow for the CHAMPVA claim form (Form 10-7959a). With this form, certain dependents of disabled Veterans who don’t qualify for TRICARE can submit reimbursement claims to CHAMPVA for their eligible medical expenses. If eligible, CHAMPVA will cover the cost of some of the beneficiary’s healthcare services and supplies. While veterans and their dependents may be familiar with the paper form for submitting claims and with CHAMPVA as a whole, the digital form was newly created for this effort. \
- \
-
+This study provided insight into the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) program and unauthenticated digital flow for the CHAMPVA claim form (Form 10-7959a). With this form, certain dependents of disabled Veterans who don’t qualify for TRICARE can submit reimbursement claims to CHAMPVA for their eligible medical expenses. If eligible, CHAMPVA will cover the cost of some of the beneficiary’s healthcare services and supplies. While veterans and their dependents may be familiar with the paper form for submitting claims and with CHAMPVA as a whole, the digital form was newly created for this effort. 
 
 The moments that matter within the Veteran journey are:
-
- 
-
-
 
 * Starting up - depending on their disability status and eligibility for Tricare, the Veteran and/or their family may qualify for benefits through CHAMPVA at this point in their journey.
 * Putting down roots - as the Veteran puts down roots, if they are qualified for CHAMPVA, they will need to revisit the application for their dependents over time. Veterans and their dependents who didn’t previously qualify for CHAMPVA may be eligible if the Veteran’s disability status changes. If their dependents are registered in CHAMPVA they may begin submitting claims for their eligible medical expenses.
@@ -149,18 +118,18 @@ Exit interview questions were asked in the remaining 15-30 minutes, less any tim
 
 
 
-* Based on our understanding of current patterns and best practices for forms, the digital prototype 10-7959a will be easy to understand and navigate.
-    * **Mostly True. **All participants successfully navigated and submitted the form. They were able to form a basic understanding of what they were trying to accomplish and why certain tasks were necessary; however, there were some components in the form that the users were not expecting to behave in the way it did.
-* Based on our understanding of accessibility best practices, we believe the 10-7959a prototype will be free of significant accessibility issues.
-    * **Not enough information. **We had only one assistive technology user in our study, a beginner screen reader and keyboard navigation user. This user was able to navigate and submit the form but further research with assistive technology users is needed to fully assess the accessibility of the form.
-* Users may experience confusion due to inconsistent, mistimed, or absent feedback when using the new list-and-loop pattern.
-    * **Mostly true.** Most of the users were distracted by the alert presented on the insurance review page. Despite this slow down, users were able to move onto the next step once they read and understood the alert.
-* Users could experience issues with the new upload pattern that has yet to be thoroughly tested.
-    * **Not enough information.** The new upload pattern was not available at the time of testing. 
+- Based on our understanding of current patterns and best practices for forms, the digital prototype 10-7959a will be easy to understand and navigate.
+    - **Mostly True.** All participants successfully navigated and submitted the form. They were able to form a basic understanding of what they were trying to accomplish and why certain tasks were necessary; however, there were some components in the form that the users were not expecting to behave in the way it did.
+- Based on our understanding of accessibility best practices, we believe the 10-7959a prototype will be free of significant accessibility issues.
+   - **Not enough information.** We had only one assistive technology user in our study, a beginner screen reader and keyboard navigation user. This user was able to navigate and submit the form but further research with assistive technology users is needed to fully assess the accessibility of the form.
+- Users may experience confusion due to inconsistent, mistimed, or absent feedback when using the new list-and-loop pattern.
+    - **Mostly true.** Most of the users were distracted by the alert presented on the insurance review page. Despite this slow down, users were able to move onto the next step once they read and understood the alert.
+- Users could experience issues with the new upload pattern that has yet to be thoroughly tested.
+     - **Not enough information.** The new upload pattern was not available at the time of testing. 
 * Users may experience confusion in understanding the information and documents they need to submit with their claims.
-    * **Mostly true.** Users understood from their own past experiences what they needed to process a claim. However, specifics on the supporting documents detailing what to include (DX, NCT codes, etc..,) were not clear to them.
-* Our understanding of stakeholder research about the process leads us to believe that users who have filed a claim for CHAMPVA benefits through the existing process will highlight similar pain points (e.g., visibility of claim status, lengthy processing time, frustration with the lack of available options to submit supporting documents digitally).
-    * **True**. All participants expressed their frustration about the long wait times (60-90 days) to hear anything about their claim from VA.
+    - **Mostly true.** Users understood from their own past experiences what they needed to process a claim. However, specifics on the supporting documents detailing what to include (DX, NCT codes, etc..,) were not clear to them.
+- Our understanding of stakeholder research about the process leads us to believe that users who have filed a claim for CHAMPVA benefits through the existing process will highlight similar pain points (e.g., visibility of claim status, lengthy processing time, frustration with the lack of available options to submit supporting documents digitally).
+   - **True**. All participants expressed their frustration about the long wait times (60-90 days) to hear anything about their claim from VA.
 
      
 
@@ -188,7 +157,7 @@ Exit interview questions were asked in the remaining 15-30 minutes, less any tim
 ## Details of findings
 
 
-### **Finding 1**: Participants had a basic understanding of what they may need to complete the claim form but still needed some further clarification.
+### **Finding 1** : Participants had a basic understanding of what they may need to complete the claim form but still needed some further clarification.
 
 Most of the participants understood that they would need some level of proof of payment or billing statement from their doctor or pharmacy prior to entering the form or shortly after reading the introduction page. They all knew where they could find the requested proof, either in the physical format or by utilizing their insurance company’s portal.
 
@@ -367,9 +336,7 @@ The participants only felt comfortable moving forward after reading the descript
 
 ### **Finding 7**:  Participants understood the work or auto accident-related injury question. However, they expected to have to submit more details with their claim if they chose “yes” for an answer for either question.
 
-The participants were familiar with the procedure to have the claim processed through third party liability if the illness or injury was caused during work or by an auto accident. However, there were mixed feelings about whether they would continue submitting the claim through CHAMPVA. One participant remarked that they would not answer truthfully in fear that their claim would be denied, or they would have to answer more questions. Some participants also expressed confusion on how to answer the question for a minor dependent
-
-.
+The participants were familiar with the procedure to have the claim processed through third party liability if the illness or injury was caused during work or by an auto accident. However, there were mixed feelings about whether they would continue submitting the claim through CHAMPVA. One participant remarked that they would not answer truthfully in fear that their claim would be denied, or they would have to answer more questions. Some participants also expressed confusion on how to answer the question for a minor dependent.
 
 Almost all the participants expected to have to submit additional information about the injury or illness including details on what happened and/or police or accident reports.
 
@@ -904,8 +871,6 @@ Recruitment criteria:
 
 The intended audience for this research was Veterans whose dependents had submitted claims for CHAMPVA benefits and dependents of Veterans who had submitted claims for CHAMPVA benefit. We talked to 7 participants. Our pilot participant was a dependent who was familiar with  CHAMPVA benefits, but we did not collect their demographic information. Therefore, we included them in our analysis but they are not reflected in the following demographic information.
 
-* *
-
 Audience segment:
 
 
@@ -946,8 +911,7 @@ Age:
 * 45-54: 1
 * 55-64: 2
 * 65+: 1
-
-    Unknown: 0
+* Unknown: 0
 
 
 Education:
