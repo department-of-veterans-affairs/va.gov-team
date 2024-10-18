@@ -33,18 +33,28 @@ sequenceDiagram
   participant smoc as Mileage Claim Submission: VA.gov
   participant redux as Redux Store
   participant vapi as vets-api
+  participant tpapi as Travel Pay API
+  participant vaos as VA Appointment Service
 
-  vet ->> appts: View past appointment
+  vet ->> appts: View past appointments list
   activate appts
-    appts ->> vapi: Request all appts
+    appts ->> vapi: Request appts in date range
     
     activate vapi
+      vapi ->> vaos: Request all appts in date range
+    activate vaos
+      vaos ->> vapi: Appointment data
+    deactivate vaos
+      vapi ->> tpapi: Request claims in date range
+    activate tpapi
+      tpapi ->> vapi: Claim data
+    deactivate tpapi
       vapi ->> appts: All appts (Shared module attaches associatedTravelPayClaim ID)
     deactivate vapi
 
     appts -) redux: Store all appts (with claimID)
     
-    vet ->> appts: View appointment details
+    vet ->> appts: View past appointment details
 
     appts ->> redux: Get appt {123} details (with claimID)
 
@@ -53,10 +63,19 @@ sequenceDiagram
     deactivate redux
 
     vet ->> appts: Refreshes page
-    appts ->> vapi: Get appt {123} details (with claimID)
+    appts ->> vapi: Get appt {123} details
     
     activate vapi
-      vapi ->> appts: Appt {123} Details (with claimID)
+      
+      vapi ->> vaos: Request appointment {123} data
+    activate vaos
+      vaos ->> vapi: Appointment {123} data
+    deactivate vaos
+      vapi ->> tpapi: Request claim data for appt date
+    activate tpapi
+      tpapi ->> vapi: Claim data
+    deactivate tpapi
+      vapi ->> appts: Appt {123} details (with claimID)
     deactivate vapi
 
     appts -) redux: Store appt details (with claimID)
