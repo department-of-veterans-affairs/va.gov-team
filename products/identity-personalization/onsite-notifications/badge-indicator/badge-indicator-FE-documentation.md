@@ -1,6 +1,6 @@
 # Badge indicator FE documentation - My VA Health Care inbox link implementation 
 
-**Last updated:** October 1 2024 - added the majority of the details for the component. _Note that elements related to error handling are still WIP._
+**Last updated:** October 18 2024 - Updated details for error handling.
 
 This document outlines specs for implementing the badge indicator on the "Go to your inbox" link in the Health Care section on My VA. The link provides access the health care secure messaging inbox. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
@@ -22,8 +22,17 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-853&t=A6qFKMrzSt4ukLYn-1)
 
-### Error state - API-related failure:
-WIP
+### Error state - API-related failure(s):
+
+A [warning 'alert' component](https://design.va.gov/components/alert/#warning-alert) will display at the top of the Health care section of My VA if there is an API/systems related error that prevents the count of unread messages from being displayed. It is expected that this would prevent the reading of messages in a user's inbox as well, but there may be edge case scenarios which mean we must tell users that they _might_ be able to still read messages on MHV. 
+
+_Note that this content may need additional CAIA review._
+
+<img width="458" alt="Alert" src="https://github.com/user-attachments/assets/732b6f74-3012-4468-b14a-6fcb7c4016d3">
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2621-31035&t=h6U22HGIiGoYMot8-1)
+
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2622-33921&t=h6U22HGIiGoYMot8-1)
 
 
 ---
