@@ -32,5 +32,8 @@ As a Veteran, I want [ ], so that [ ].
 ## How to configure this issue
 - [ ] **Labeled with Team** (`1010-team`)
 - [ ] **Labeled with Form** (`1010-ez`, `1010-ezr`, `1010-cg`)
-- [ ] **Labeled with Project** (`facilities-cg`, `registration`,  `toxic-exposure`, etc.)
+- [ ] **Labeled with Feature** (`facilities-cg`, `registration`,  `toxic-exposure`, etc.)
 - [ ] **Labeled with Discipline** (`backend`, `frontend`,  `design`, `QA`, `research`, etc.)
+- [ ] **Project selected** (`1010 Health Apps team`)
+- [ ] **Epic Reationship (parent) identified**
+
