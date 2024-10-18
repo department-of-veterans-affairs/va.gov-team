@@ -42,7 +42,7 @@ FYI, no flow for POA/third party is supported at this moment.
 
 This is a list of proposed entry points. We recommend checking page performance after the online application has been 100% launched and then submitting a ticket to have IA reeavuluate entry points if needed.
 
-1. **[Records hub page](https://www.va.gov/records/)** - Add - *still needed as of 10.17.2024*
+1. **[Records hub page](https://www.va.gov/records/)** - *still needed as of 10.17.2024*
   - Placement description: Under “Get your records and documents”, 4th option down. Below the records options that are currently available on the modernized site.
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
@@ -50,7 +50,7 @@ This is a list of proposed entry points. We recommend checking page performance 
     
 <img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/55889933-b880-41f2-bc66-0d25c6e54c56">
 
-2. **Records left nav** - Add
+2. **Records left nav** - *still needed as of 10.17.2024*
   - Placement description: Under “Get your records and documents”, 4th option down. Below the records options that are currently available on the modernized site. Get Veteran IDs is 3rd down at the moment but we can update the left nav so it matches the hubpage order.
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/records/request-personal-records-form-20-10206
