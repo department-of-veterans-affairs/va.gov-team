@@ -12,7 +12,7 @@ The future enhancements are as follows (the order of items does not indicate the
 - Support for 21-0966 (Intent to file)
 - The addition of a page level alert that appears at the top of My VA, indicating when a form submission has had a detectable system-based error
 - Possible addition of a Process List component, mirroring the one shown on the submission confirmation page
-- Possible removal of the 'error' icon on the Draft cards
+- Possible removal of the 'error' icon on the Draft cards (expiration dates)
 - Possible addition of truncation and dedicated page for form status cards
 - Possible addition of secondary link going to a dedicated Resources page for form statuses
 - In-take process for scaling (non-Veteran facing)
@@ -87,7 +87,7 @@ More details to come.
 
 <img width="462" alt="Application Card" src="https://github.com/user-attachments/assets/f4048e0e-4477-478a-a22d-9a0c1e191510">
 
-## Possible removal of the 'error' icon on the Draft cards
+## Possible removal of the 'error' icon on the Draft cards (expiration dates)
 
 _The current use of an error icon adjacent to the expiration date of the draft has questionable value to users, and deviates from existing patterns used on My VA's other types of cards. There is a case for its removal._
 
@@ -114,10 +114,6 @@ Details to come
 _Drafts and submitted forms use two separate services, and it is possible that one could fail while the other does not. At this time, we handle all failures the same way but there is the possibility of varying error handling depending on what service(s) fails._
 
 More details to come.
-
-## Revisit draft card expiration dates
-
-Details to come
 
 ## Revisit overall card content
 
