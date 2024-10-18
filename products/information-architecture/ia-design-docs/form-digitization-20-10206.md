@@ -11,6 +11,8 @@
 7. **[FOIA Requests](https://department.va.gov/foia/foia-requests/)** - *still needed as of 10.17.2024*
 8. [Supporting Forms page](https://va.gov/supporting-forms-for-claims/) - *Complete as of 10.17.2024*
 
+When 1 and 2 from the above list are in place, the IA definition of done will be complete. The location and need for entry points 4, 6, 7, and any others pages that may have been built since this work was done, are at Content's discretion.
+
 **Team:** Veteran facing forms
 
 **IA Request:** [Link to Sitewide Content and IA intake request #65348](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65348)
