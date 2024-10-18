@@ -33,7 +33,11 @@ Download your application, available until X/X/XXXX (PDF)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
 
 
-### PDF cannot be generated
+### Errors
+- PDF cannot be generated
+- PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
+
+#### PDF cannot be generated
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2107-27599&t=xjD6hDcxAO3klDmb-1)
 
@@ -41,10 +45,12 @@ Download your application, available until X/X/XXXX (PDF)
 
 If it is detected that a PDF cannot be generated at page load, the link will not appear on the form card(s). If it cannot generate but the link is visible, a browser-based error will appear (this is slated to be addressed in a future enhancement). All other content on the card will remain the same for that status type (Received, etc.).
 
-### PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
+#### PDF cannot be downloaded due to the expiration of file availability (based on ATO guidelines)
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2134-26236&t=1xBs1o2BLdUQ1mpr-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2136-41730&t=1xBs1o2BLdUQ1mpr-1)
 
 A user selecting the link to download the PDF will cause a browser-based error to appear, akin to what is shown in Figma (representing a Firefox error state).
+
+
