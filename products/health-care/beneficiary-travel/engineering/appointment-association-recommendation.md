@@ -12,11 +12,61 @@ The appointments team has made the technical decision to retrieve all VAOS appoi
 
 The plan for associating appointments to claims is to add Travel Pay specific attributes to the appointment object in the initial appointments list call, thereby providing the necessary claim information in the appointments list and appointment details page.
 
-## Recommendation
+## Recommendation (10/08/24)
 
 It is the team's recommendation that the appointment association logic is performed in a separate module based on the BTSSS appointment list. This will have the most comprehensive data returned to associate the VAOS appointment to any existing travel claims as well as the necessary data requirements to submit the claim without additional API calls. In the appointments list we can show a `yes/no` indication of whether or not a travel pay claim has been submitted for the appointment date-time and facility, allowing users to submit a claim if no claim is associated with the given appointment.
 
 By separating the appointment-to-claim association logic into a separate "Appointment Association Module" (or class) it can be shared across all modalities for an omni-channel "appointments" experience, while leaving the Travel Pay Reimbursement claim logic itself a standalone concern.
+
+### Update 10/18/24
+
+With integration questions still under discussion, the team has decided to move forward with an appointment > claim association with VAOS appointments > BTSSS claims association approach.
+
+Using shared logic in the Travel Pay module of `vets-api`, the Travel Pay team retrieves the claims for the specified date range sent in with the initial appointments list API call. The claims and appointments for that date range are associated, returning a new array of appointments with the `associatedTravelPayClaim` ID appended. The appointments team can then show either a link to the claim details page (if a claim ID is present) or a link to the submit flow (if a claim ID is not included).
+
+## Appointment association data flow
+
+```mermaid
+sequenceDiagram
+  actor vet as Veteran
+  participant appts as Appointments: VA.gov
+  participant smoc as Mileage Claim Submission: VA.gov
+  participant redux as Redux Store
+  participant vapi as vets-api
+
+  vet ->> appts: View past appointment
+  activate appts
+    appts ->> vapi: Request all appts
+    
+    activate vapi
+      vapi ->> appts: All appts (Shared module attaches associatedTravelPayClaim ID)
+    deactivate vapi
+
+    appts -) redux: Store all appts (with claimID)
+    
+    vet ->> appts: View appointment details
+
+    appts ->> redux: Get appt {123} details (with claimID)
+
+    activate redux
+      redux ->> appts: Show appt {123} details
+    deactivate redux
+
+    vet ->> appts: Refreshes page
+    appts ->> vapi: Get appt {123} details (with claimID)
+    
+    activate vapi
+      vapi ->> appts: Appt {123} Details (with claimID)
+    deactivate vapi
+
+    appts -) redux: Store appt details (with claimID)
+
+    vet ->> appts: Conditional link if claimID is present or not
+
+    appts ->> smoc: View claim details or Enter submit flow
+
+  deactivate appts
+```
 
 ## Technical feasibility research
 
