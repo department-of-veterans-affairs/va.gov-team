@@ -1,8 +1,8 @@
 # Post-MVP Forms Status on My VA Frontend Documentation (WIP)
 
-**Last updated: October 17, 2024 - File created**
+**Last updated: October 18, 2024**
 
-_As of Oct. 17, 2024_ - During the course of MVP design and research there were multiple points of functionality that were planned as future enhancements. 
+During the course of MVP design and research there were multiple points of functionality that were planned as future enhancements. 
 In addition, support for PDF downloads were not able to make the cut during development for MVP due to technical constraints, and so that will be a future enhancement as well. 
 Also, the 21-0966 form was pulled from MVP due to an inability to consistently let users know the status of its submission without further engineering work to make that possible - it will also be coming in a future iteration of form status functionality.
 
@@ -59,7 +59,6 @@ If it is detected that a PDF cannot be generated at page load, the link will not
 
 A user selecting the link to download the PDF will cause a browser-based error to appear, akin to what is shown in Figma (representing a Firefox error state).
 
-
 ## Support for 21-0966 (Intent to file)
 
 _No additional design work is required for this_
@@ -82,19 +81,29 @@ Mobile TBD
 
 ## Possible addition of a Process List component, mirroring the one shown on the submission confirmation page
 
-Details to come
+_This was part of user testing in May 2024, after which the decision was made to not include it in MVP and revisit its usage later._ 
+
+More details to come.
+
+<img width="462" alt="Application Card" src="https://github.com/user-attachments/assets/f4048e0e-4477-478a-a22d-9a0c1e191510">
 
 ## Possible removal of the 'error' icon on the Draft cards
 
-Details to come
+_The current use of an error icon adjacent to the expiration date of the draft has questionable value to users, and deviates from existing patterns used on My VA's other types of cards. There is a case for its removal._
+
+More details to come.
 
 ## Possible addition of truncation and dedicated page for form status cards
 
-Details to come
+_Some discussion has happened previously regarding the potential implication of some way to minimize the number of cards visible on My VA at a given time, to make information easier to process. There could be the introduction of a dedicated forms status page, akin to the CST page. This is *NOT* something we are committed to doing._
+
+More details to come.
 
 ## Possible addition of secondary link going to a dedicated Resources page for form statuses
 
-Details to come
+_As the number of supported forms increases, instructional information for users that includes the list of forms that currently lives in the accordion component in the "Benefit applications and forms" section of My VA will need space beyond what is acceptable for the component's usage. A "Resources" page that provides the complete list of supported forms (and other relevant info) may be necessary._
+
+More details to come.
 
 ## In-take process for scaling (non-Veteran facing)
 
@@ -102,7 +111,9 @@ Details to come
 
 ## Revisit expansion of error scenarios (e.g. when drafts work but submitted forms don't)
 
-Details to come
+_Drafts and submitted forms use two separate services, and it is possible that one could fail while the other does not. At this time, we handle all failures the same way but there is the possibility of varying error handling depending on what service(s) fails._
+
+More details to come.
 
 ## Revisit draft card expiration dates
 
@@ -110,5 +121,7 @@ Details to come
 
 ## Revisit overall card content
 
-Details to come
+_CAIA has previously expressed concern about some elements of the content on cards, we will review with them again._
+
+More details to come.
 
