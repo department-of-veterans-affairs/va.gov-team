@@ -26,7 +26,6 @@ Documentation for these points are below:
 
 <img width="462" alt="Application Card" src="https://github.com/user-attachments/assets/6563f18e-e633-4b35-b9c8-7028b9b9658d">
 
-
 **New card content, on all forms cards**
 
 Download your application, available until X/X/XXXX (PDF)
@@ -37,7 +36,6 @@ Download your application, available until X/X/XXXX (PDF)
 - Link component styles:
   - ['default' for benefits hotline number and TTY](https://design.va.gov/components/link/), ['download' for PDF download](https://design.va.gov/components/link/#download)
 - Typography: 'h3', 'vads-font-size-base', tag component uses its default 'regular' font style
-
 
 ### Errors
 - PDF cannot be generated
@@ -107,7 +105,9 @@ More details to come.
 
 ## In-take process for scaling (non-Veteran facing)
 
-Details to come
+_The engineering approach for scaling beyond MVP needs to be determined._
+
+More details to come.
 
 ## Revisit expansion of error scenarios (e.g. when drafts work but submitted forms don't)
 
