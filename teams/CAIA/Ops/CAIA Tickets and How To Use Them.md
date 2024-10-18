@@ -65,9 +65,9 @@ This section contains field data that is important for filtering and tracking is
   - **Extra large** for 4+ months -  Migration audit
 - **Actual** - how much effort was required, once we've completed the work and can asses how big a lift it was
 - **Originator/Team** - the team or stakeholder that requested the work
-- **Last Checked** - the last time a ticket was checked, especially helpful to track on tickets in backlog or blocked to ensure tickets do not go stale in the pipeline
 
 ### Optional fields
+- **Last Checked** - the last time a ticket was checked, especially helpful to track on tickets in backlog or blocked to ensure tickets do not go stale in the pipeline
 - **Target date** - we don't use this consistently. It has been used to track both product team launch dates and general internal CAIA deadlines.
 - **Priority** - we don't use this consistently, but it can be used to indicate how urgent a piece of work is based on the following scale:
   - **High** - top priority, work should begin immediately
@@ -109,7 +109,26 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
 # Closing tickets
 The way we close tickets matters to our reporting, but we have different steps to complete due to the range of ticket types and discipline setups on our team. 
 
-### Closing work tickets
-A11y: Individual contributors are responsible for closing tickets they are assigned to and tracking them in the reporting spreadsheet
-IA: Individual contributors are responsible for closing tickets they are assigned to and tracking them in the reporting spreadsheet
-Content: Individual contributors are responsible for moving tickets they are assigned to into validate. The PDM will track them in the reporting spreadsheet.
+### Closure process for team members
+**Work ticket that is attached to an intake:**
+1. Add all required fields
+2. Close ticket
+
+**Work ticket that is NOT attached to an intake:**
+The assignee responsible for the last step will be responsible for moving the ticket.
+1. Add all required fields
+2. Move the ticket to Validate
+
+**Intakes**
+If you are assigned to the last open work ticket on an intake (or you’re the only team member assigned), you are responsible for moving the intake. 
+1. Confirm that all the work tickets are closed
+2. Add all required fields
+3. Add a comment confirming that the ticket is ready for closure review, and tag your discipline lead.
+4. Move the ticket to Validate
+
+### Closure process for discipline "leads"/delivery
+At least weekly, review the Validate column and close intakes and work tickets related to your discipline. 
+1. Confirm that all work tickets attached to an intake are closed
+2. If a ticket is not ready for closure, add a comment explaining why and next steps, and move the ticket to an active status swimlane (such as In Progress or Blocked)
+3. Add closed intakes and their attached work tickets to the [CAIA metric spreadsheet](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit?gid=1091370068#gid=1091370068) in the relevant sprint tab.
+   
