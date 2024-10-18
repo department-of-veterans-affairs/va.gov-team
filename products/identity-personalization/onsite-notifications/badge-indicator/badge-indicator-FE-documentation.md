@@ -26,6 +26,8 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 
 A [warning 'alert' component](https://design.va.gov/components/alert/#warning-alert) will display at the top of the Health care section of My VA if there is an API/systems related error that prevents the count of unread messages from being displayed. It is expected that this would prevent the reading of messages in a user's inbox as well, but there may be edge case scenarios which mean we must tell users that they _might_ be able to still read messages on MHV. 
 
+_(For uses outside of Health care and My VA, error messaging using alerts may make sense as well but could require a different pattern/component)._
+
 _Note that this content may need additional CAIA review._
 
 <img width="458" alt="Alert" src="https://github.com/user-attachments/assets/732b6f74-3012-4468-b14a-6fcb7c4016d3">
@@ -33,7 +35,6 @@ _Note that this content may need additional CAIA review._
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2621-31035&t=h6U22HGIiGoYMot8-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2622-33921&t=h6U22HGIiGoYMot8-1)
-
 
 ---
 
