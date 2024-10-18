@@ -139,42 +139,10 @@ What criteria should be used to develop the TSM and CO outreach list?
 1. Was your last military separation more or less than 2 years ago from today?
 -	More than 2 years ago
 -	Less than 2 years ago
-  
-What is your current age?  ***Already In Database***
--	35 years old or younger
--	35-39 years old
--	40-59 years old
--	60-64 years old
--	65 years or older
-  
-(Answering “35 years old or younger”, “40-59 years old”, or “65 years or older” would qualify the participant.)
 
 2. Have you previously engaged with the VA or VA services?
 -	Yes
 -	No
-  
-What service branch(es) did you serve during your time as an active servicemember?  ***Already In Database***
--	Air Force
--	Army
--	Coast Guard
--	Marine Corps
--	National Guard
--	Navy
--	Space Force
-
-Which of the following describe your race and/or ethnicity? You may choose multiple options. ***Already In Database***
--	American Indian or Alaska Native
--	Asian
--	Black or African American
--	Hispanic or Latino
--	I prefer not to answer
--	I prefer to self-describe
--	Native Hawaiian or Other Pacific Islander
--	White
-
-Which of the following describe your gender? ***Already In Database***
--	Male
--	Female
 
 
 #### Transitioning Servicemembers (TSMs) and Commanding Officers (COs)
@@ -190,28 +158,6 @@ Which of the following describe your gender? ***Already In Database***
 
 (Answering "Yes" would automatically qualify the participant. Participants who answer "No" will only qualify if they answered "Within the next year" to the previous question, "When do you expect to separate from active military service?".)
 
-What service branch(es) did you serve during your time as an active servicemember?  ***Already In Database***
--	Air Force
--	Army
--	Coast Guard
--	Marine Corps
--	National Guard
--	Navy
--	Space Force
-
-Which of the following describe your race and/or ethnicity? You may choose multiple options. ***Already In Database***
--	American Indian or Alaska Native
--	Asian
--	Black or African American
--	Hispanic or Latino
--	I prefer not to answer
--	I prefer to self-describe
--	Native Hawaiian or Other Pacific Islander
--	White
-
-Which of the following describe your gender? ***Already In Database***
--	Male
--	Female
 
 #### Overall Screening Questions to Ask
 When do you expect to separate from active military service?
