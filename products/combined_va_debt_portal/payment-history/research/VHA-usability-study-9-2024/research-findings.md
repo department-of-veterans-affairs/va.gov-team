@@ -220,3 +220,67 @@ Hypothesis 4:
 
 -   Usability testing - appropriate for evaluative research
     
+## Key Findings
+
+### 1. Navigation & Findability
+
+ Navigation and findability were excellent: Veterans in this study could easily find information they were looking for and knew which links to click on to read more details on their bill and to resolve the bill. Additionally, comprehension was excellent, overall.
+ 
+Not all participants were asked about this but of those who were, the majority of those participants were in favor of the way content was divided among these pages.
+
+  
+
+### 2.  Copay Overview page  
+Veterans we interviewed correctly interpreted the status differences between each facility's copay bill (payable in the portal, not payable since escalated to treasury, and already paid).
+    
+
+### 3.  Copay Detail page
+    
+The copay detail page was overall well understood but could be 	improved.
+
+**Pending Transactions**
+
+Overall, seeing pending transactions unrelated to the bill that is owed was described as unhelpful at best and confusing at worst by 5 of 8 participants (2 of 10 participants did not see this section).
+
+**Copay Detail Descriptions**
+
+**Prescription copay**
+	
+The feedback we received on the prescription copay details was very positive. All of the information provided in the example was described as helpful.
+
+**Outpatient care copay**
+
+Keeping this section simple seems preferable based on participant 	feedback.
+
+  The majority of participants said the information was helpful:
+
+-   Department or clinic name
+    
+-   Name of diagnosis* (some concerns about PHI, 3 of 8 participants)
+    
+-   Doctor’s name
+    
+**Inpatient care copay**
+
+A more in depth study that includes more participants who had inpatient stays would be helpful in determining this information.
+
+ **Alert Component**
+
+The information in the alert component was easy to understand. Participants could easily find the due date and current balance.  
+
+**Copay Detail Section**
+
+The copay details section after the yellow alert component and before the statement caused confusion because it referenced activity outside of the current month.
+
+**Rights and responsibilities** 
+
+The Rights and responsibilities modal link is currently on the combined Copay Detail and Resolve Page. On the prototype it is only placed on the Copay Details page. It is worth exploring the placement in future studies.
+
+### 4.  Resolve page
+    
+Participants easily understood each section: Pay online, Pay by phone, pay by mail, pay in person, request financial help, dispute this bill.
+
+### 5.  Service Design
+    
+Participants were able to easily find and understand the Resolve page and all of the options available to them. Three participants who had not used the debt portal before were not aware of all of the ways they could resolve their bill, including requesting financial help. There is room for improvement on raising awareness to Veterans who receive copays and do not access the debt portal that financial help is available to them.
+
