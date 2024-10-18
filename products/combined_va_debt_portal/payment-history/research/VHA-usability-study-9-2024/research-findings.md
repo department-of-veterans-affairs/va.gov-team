@@ -1,6 +1,3 @@
-
-
-
 # VHA Debt Portal payment history: usability & comprehension study, September - October 2024
   
 ## Research Findings
@@ -12,7 +9,7 @@ Date: 9/29/2024 - 10/11/2024
 UX Team: Charlotte Cesana - Senior UX Researcher & Moderator, Megan Gayle - Lead UX Researcher/Designer, Joseph Lee - Senior UX Designer
 
  
- [Research readout](link here)
+ <!-- [Research readout](link here) -->
 
  
 Jump to:
@@ -299,10 +296,13 @@ Navigation and findability were excellent: Veterans in this study could easily f
 > “I think that they were what I like to say: simple. I think if you keep things pretty simple, well thought out, not trying to overcomplicate it and be an engineer to people who are not then you'll make great pages and websites and things of that nature. Because most people run away from the Internet because of how complicated people are making it. Thinking that it's a really nice design, it might be a nice design to you, but not user friendly. So that's the biggest thing that I like to do is keep things user-friendly. So this is definitely very user-friendly. I would say.” - P16 (screen reader user)
 
 **One thing per page**
+
 Not all participants were asked about this but of those who were, the majority of those participants were in favor of the way content was divided among these pages. 
+
 Some of those in favor of one thing per page noted that there was a lot of information on the Resolve page and it was good that it was on its own page. One participant wanted further separation stating that ‘Dispute this bill’ and ‘Request financial help’ could be on a separate page from information about paying.
 
 In favor of one thing per page: P3, P9, P10, P12
+
 Not in favor of one thing per page: P1, P4
 
 P5 did not remember having to click so many times to pay her bill. She recently signed up for VA health care and had received one copay bill so far. She received a bill in the mail and went directly to pay.gov to pay the bill. 
@@ -483,6 +483,7 @@ Quotes:
 The information in the alert component was easy to understand. Participants could easily find the due date and current balance. 
 
 **Copay Detail Section**
+
 The copay details section after the yellow alert component and before the statement caused confusion because it referenced activity outside of the current month. 
 
 
@@ -528,10 +529,12 @@ I did not know they were available. I didn't know you could dispute them. I neve
 
 > “I would like to see the payment as close as humanly possible. I don't know how long it takes to process payments, but it would be nice to know. If I paid today, I wouldn't mind seeing a receipt as soon as humanly possible. Why? I'm forgetful. I forget I paid bills.” - P3
 
-##Additional Insights
+## Additional Insights
 
 **Combined Debt Portal Mental Models:**
-Overall Overview page
+
+**Overall Overview page**
+
 If time allowed, some participants saw the Overall Overview page that contained a card with a summary of overpayments and a card with a summary of copays. Not all of the participants understood what VA debt/overpayment was as they had never received an overpayment from the VA before. 
 
 >”If it's VA overall, then I understand it because I don't have any of the other programs. But now I'm reading up here, you know, disability, the pension plans, all that is part of the VA… it consolidates it so you're just having an overview right now. Then it's allowing you to go to the next pages, so you can resolve it further, you know, or look at it, or view it.” -P10
@@ -562,10 +565,13 @@ A participant reached a point of frustration with the debt portal copay prototyp
 
 >”You've seen how much difficulty I have with online things. It's MyHealth or myVAhealth.com, or whatever it's called. Anytime there's even the slightest change on there it throws me completely off balance. Once I learn how to navigate it, how to maybe ask for refills or blah blah. Even the slightest changes caused me a headache. So pay online. I'm not even gonna try. You've already seen how much trouble I have with this.” -P2
 
-**Trauma informed interviews: **
+**Trauma informed interviews:**
+
 A through line in this study and previous studies on VA debt and copay bills has been the importance of trauma-informed moderating. 
 In every interview we are being **trauma informed** by:
+
 Setting expectations before the interview begins:
+
 - The purpose of the study, the moderator’s role, the sensitive nature of what will be discussed and a choice to opt out of questions, take a break, or end the interview at any time. 
 - Taking time to build rapport before the formal interview begins.
 - Actively listening during the interview
@@ -574,17 +580,22 @@ Setting expectations before the interview begins:
 
 
 ## <a id="recommendations"></a>Recommendations
+
 **Copay details page (page with most need for improvement)**
+
 **Debt Details section**
 We recommend simplifying this section or further differentiating information from the current statement and information from the past statement (amount paid). 
 
 **Pending transactions**
+
 A majority of participants did not find pending transactions so it is not necessary to include this information, especially if an amount will not be shown. If necessary to add, we can consider moving Activity since last statement (pending transactions) after the information that directly relates to the statement at hand, to minimize confusion and provide this info to Veterans that it can be helpful to (possibly a minority)
 
 **Copay transaction details**
+
 Work with Lighthouse team and VHA stakeholders to further understand and refine the data displayed for each type of copay transaction.
 
 **Resolve page**
+
 Several participants noted that this was a lot of content to scroll through. It would be helpful to add the On this page component with anchor links to Pay, Request help, and Dispute the bill.
 
 ## Next Steps
@@ -601,8 +612,10 @@ The team needs further research to gather more information on:
 
 
 ## Appendix
-[Research plan]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/research-plan.md))
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/research-plan.md)
+
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/conversation-guide.md)
+
 [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/payment-history/research/VHA-usability-study-9-2024/transcripts)
 
 ## Tools used for Synthesis
