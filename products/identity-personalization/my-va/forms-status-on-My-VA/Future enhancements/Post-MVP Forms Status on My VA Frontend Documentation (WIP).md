@@ -66,18 +66,21 @@ _No additional design work is required for this_
 
 ## The addition of a page level alert that appears at the top of My VA, indicating when a form submission has had a detectable system-based error
 
-Details to come
+More details to come
+
+### One form with an 'action needed' status
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1241-24524&t=IzebklllHwsoqqU2-1)
+
+Mobile TBD
+
+### 2+ forms with an 'action needed' status
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-25952&t=IzebklllHwsoqqU2-1)
+
+Mobile TBD
 
 ## Possible addition of a Process List component, mirroring the one shown on the submission confirmation page
-
-
-Details to come
-
-## Possible addition of a Process List component, mirroring the one shown on the submission confirmation page
-
-Details to come
-
-## Possible removal of the 'error' icon on the Draft cards
 
 Details to come
 
