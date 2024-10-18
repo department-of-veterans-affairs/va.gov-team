@@ -158,3 +158,8 @@ TK
         }
       }
 ```
+
+## Other docs
+- [Project outline: Forms status MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/forms-status-on-My-VA)
+- [Frontend documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/FE-documentation-MVP.md)
+- [Backend documentation (sensitive repo)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/form-status/backend_documentation.md)
