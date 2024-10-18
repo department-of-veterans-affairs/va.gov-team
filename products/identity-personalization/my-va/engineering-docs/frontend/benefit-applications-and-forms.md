@@ -69,6 +69,9 @@ The FE entry point lives at
 
 ## Errors 
 
+![benefit-apps-errors](https://github.com/user-attachments/assets/c033bd80-b9cd-4aa4-ac7b-357c79bb9e03)
+
+
 ## Analytics events
 
 TK
