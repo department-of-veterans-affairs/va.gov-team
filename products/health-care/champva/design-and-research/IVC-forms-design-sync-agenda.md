@@ -1,8 +1,17 @@
 # Running Design and Research Agenda
-## October 15 2024
+## October 21 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
 	- Agenda Topics
 		- Share out the update Design Roadmap
+		- OHI Flow: Part C and Part D questions to account for PFFS
+ 
+### Notes
+
+
+## October 15 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+		- Share out the updated Design Roadmap
 		- Share some updates on the CHAMPVA Claims Research Report and answer any questions you may have about it during the Sync.
 		- Share agenda items for the CHAMPVA Claims Research Roadmap Review
   		- Share the OHI Presentation for the IVC stakeholders
