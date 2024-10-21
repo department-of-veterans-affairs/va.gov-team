@@ -37,11 +37,11 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 - **Order bugs by priority in the Caterpillars swimlane.**
 - **Assign severity based on the following table.**
 
-| Category | Description | Resolution Process |
-|--------------|-------------|--------------------|
-| **Severity&nbsp;1** | This is a top tier. Pre-launch, eg. flow broken, etc. |Jumps backlog, potentially interrupt a developer |
-| **Severity&nbsp;2** | Fast follow post-launch, eg. missing content| Give a heads up before picking up another ticket|
-| **Severity&nbsp;3** | Backlog, eg. spacing issues **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
+| Category | Description | Resolution Process | Example |
+|--------------|-------------|--------------------|--|
+| **Severity&nbsp;1** | This is a top tier. Pre-launch, eg. flow broken, etc. |Jumps backlog, potentially interrupt a developer |[Missing subtopics for Education category #1435](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1435)|
+| **Severity&nbsp;2** | Fast follow post-launch, eg. missing content| Give a heads up before picking up another ticket|[Remove question mark from header #1409](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1409)|
+| **Severity&nbsp;3** | Backlog, eg. spacing issues **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly|[Progress bar UI changes#1249](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1249)|
 
 ### Steps
 #### Before creating ticket
