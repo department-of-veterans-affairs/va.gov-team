@@ -1,6 +1,6 @@
 # Ask VA Manual QA process
 
-Last updated: October 21, 2024 by @beckyphung
+Last updated: October 21, 2024 by @tygindraux
 
 This document explains our process to manually QA Ask VA. We're primarily using this process before our expected launch on VA.gov in January 2025. 
 
@@ -11,14 +11,16 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 
 ## Manual testing workflow for product/design
 1. Tyler will list initial scenarios we should test.
-2. Tyler will make a copy of a template based on the scenario and write rules and script for specific scenario.
-3. Tyler will test staging and compare to scenario script/rules.
-4. Tyler will document issues in spreadsheet.
-5. Tyler will let product know when a scenario is complete and handover.
-7. Product person will check whether tickets have been created for issues they've listed, if not, create a new bug.
-8. In the bug, product person will link to the script they were testing so dev has a reference.
-9. In the spreadsheet, product person will add a link to the bug.
-10. Product person will check off scenario in index.
+2. Tyler will assign herself as 'tester' and make a copy of a template based on the scenario.
+3. Tyler will write rules and script for a specific scenario.
+4. Tyler will test staging and compare to scenario script/rules.
+5. Tyler will document issues in spreadsheet.
+6. Tyler will let product know when a scenario is complete and handover.
+7. Product person will assign themselves as 'bug writer' in index.
+8. Product person will either create a new bug ticket or list an existing bug ticket in the bug column.
+9. In the bug ticket, product person will link to the script they were testing so developers can reference it.
+10. In the spreadsheet, product person will add a link to the new bug.
+11. Product person will check off scenario in index when complete.
 
 ## Creating a bug ticket
 ### Rules
