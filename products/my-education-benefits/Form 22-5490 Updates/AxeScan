@@ -1,0 +1,110 @@
+{
+    "url": "https://dev.va.gov/education/survivor-dependent-education-benefit-22-5490/introduction",
+    "extensionVersion": "4.92.0",
+    "axeVersion": "4.10.0",
+    "standard": "WCAG 2.1 AA",
+    "testingStartDate": "2024-10-16T19:36:16.232Z",
+    "testingEndDate": "2024-10-16T19:42:34.167Z",
+    "bestPracticesEnabled": false,
+    "experimentalEnabled": false,
+    "issueSummary": {
+        "critical": 0,
+        "minor": 0,
+        "moderate": 0,
+        "serious": 2,
+        "needsReview": 0,
+        "bestPractices": 0
+    },
+    "remainingTestingSummary": {
+        "run": false
+    },
+    "failedRules": [
+        {
+            "name": "definition-list",
+            "count": 2,
+            "mode": "automated"
+        }
+    ],
+    "needsReview": [],
+    "source": {
+        "productName": "axe-devtools-html",
+        "productComponentName": "web-ui",
+        "productVersion": "4.128.0"
+    },
+    "testDetails": {
+        "testId": "04b6cd26-86d1-42a7-a2da-a3663ba70ce6",
+        "axeVersion": "4.10.0",
+        "engine": "axe-core",
+        "standard": "WCAG 2.1 AA",
+        "startDate": "2024-10-16T19:36:16.232Z",
+        "endDate": "2024-10-16T19:42:34.167Z",
+        "bestPracticesEnabled": false,
+        "experimentalEnabled": false
+    },
+    "allIssues": [
+        {
+            "issueId": null,
+            "ruleId": "definition-list",
+            "description": "Ensure <dl> elements are structured correctly",
+            "help": "<dl> elements must only directly contain properly-ordered <dt> and <dd> groups, <script>, <template> or <div> elements",
+            "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/definition-list?application=AxeChrome",
+            "impact": "serious",
+            "needsReview": false,
+            "isManual": false,
+            "summary": "Ensure <dl> elements are structured correctly",
+            "source": "<dl class=\"review\"><div class=\"review-row\"><p class=\"va-address-block\">MEBREG AUTO STEBBINS<br>Date of birth: January 1st, 1980</p></div><div class=\"review-row\"><dt>Did you earn a high school or equivalency certificate?</dt><dd>yes</dd></div></dl>",
+            "selector": [
+                ".form-review-panel-page > dl"
+            ],
+            "tags": [
+                "cat.structure",
+                "wcag2a",
+                "wcag131",
+                "EN-301-549",
+                "EN-9.1.3.1"
+            ],
+            "testName": "Survivor And Dependent Benefits 22-5490 | Veterans Affairs - 10/16/2024",
+            "shareURL": null,
+            "createdAt": "2024-10-16T19:39:52.935Z",
+            "isExperimental": false,
+            "foundBy": "kevin.mooney@afs.com",
+            "testUrl": "https://dev.va.gov/education/survivor-dependent-education-benefit-22-5490/review-and-submit",
+            "axeVersion": "4.10.0",
+            "testPageTitle": "Survivor And Dependent Benefits 22-5490 | Veterans Affairs",
+            "integrationUrl": null,
+            "screenshotURL": "https://axe.deque.com/api/screenshots/1cc1edba-da03-4dde-9d55-4491affaec74"
+        },
+        {
+            "issueId": null,
+            "ruleId": "definition-list",
+            "description": "Ensure <dl> elements are structured correctly",
+            "help": "<dl> elements must only directly contain properly-ordered <dt> and <dd> groups, <script>, <template> or <div> elements",
+            "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/definition-list?application=AxeChrome",
+            "impact": "serious",
+            "needsReview": false,
+            "isManual": false,
+            "summary": "Ensure <dl> elements are structured correctly",
+            "source": "<dl class=\"review\" style=\"margin: 16px auto;\">",
+            "selector": [
+                "va-accordion-item[data-chapter=\"directDepositChapter\"] > div[data-testid=\"accordion-item-content\"] > .form-review-panel-page > form > dl"
+            ],
+            "tags": [
+                "cat.structure",
+                "wcag2a",
+                "wcag131",
+                "EN-301-549",
+                "EN-9.1.3.1"
+            ],
+            "testName": "Survivor And Dependent Benefits 22-5490 | Veterans Affairs - 10/16/2024",
+            "shareURL": null,
+            "createdAt": "2024-10-16T19:42:04.432Z",
+            "isExperimental": false,
+            "foundBy": "kevin.mooney@afs.com",
+            "testUrl": "https://dev.va.gov/education/survivor-dependent-education-benefit-22-5490/review-and-submit",
+            "axeVersion": "4.10.0",
+            "testPageTitle": "Survivor And Dependent Benefits 22-5490 | Veterans Affairs",
+            "integrationUrl": null,
+            "screenshotURL": "https://axe.deque.com/api/screenshots/ab09c2bf-ccf3-4eaf-9a7f-e799de6b6cda"
+        }
+    ]
+}
