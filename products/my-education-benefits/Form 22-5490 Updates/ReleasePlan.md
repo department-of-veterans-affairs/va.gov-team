@@ -1,4 +1,5 @@
 Introduction
+
 The CH35/FRY application is an application intended to let veterans dependents submit an education benefits claim for the CH33 FRY benefit or The Survivors' and Dependents' Educational Assistance program.
 The application has the following components.
 
@@ -14,14 +15,21 @@ Generating letters approval or denial of clam.
 The release plan will address how to test and release this application hosted on VA.gov with its backend hosted on the DGIB Managed Service.
 
 Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+
 Planning:
 Desired date range or test duration: 10/1/2024 - 11/15/2024
 Desired number of users: 5
+
 How you'll recruit the right production test users: The selection of UAT users will be done in close collaboration with the VA Education team along with the My Education Benefits Product Owners assisting with testing.
+
 How you'll conduct the testing: For UAT, we'll be standing up a production like instance of the Digital Gi Bill (DGIB) environment. This environment is the one responsible for providing dependent data (personal info, demographics, sponsor(s) information) and also for processing CH33 FRY and The Survivors' and Dependents' Educational Assistance program education claims. We will create user accounts on the DGIB UAT environment and our testers will conduct their testing against these accounts. The testers will execute prepared test scripts to try the different possible scenarios for dependents submitting a claim.
+
 How you'll give the test users access to the product in production w/o making it live on VA.gov: The UAT testing will be done only on staging.va.gov with our vets-api endpoints pointing to the production like DGIB UAT instance. We will use feature flags to limit the use of the 5490 form on staging only by designated UAT testing/development accounts. The app will not be in production as its vagovprod flag will be set to false on the registry.
+
 Results:
+
 Number of users: TBD
+
 Number of bugs identified / fixed: TBD
 Was the data submitted (if any) easy for VA to process?: TBD
 Types of errors logged: TBD
