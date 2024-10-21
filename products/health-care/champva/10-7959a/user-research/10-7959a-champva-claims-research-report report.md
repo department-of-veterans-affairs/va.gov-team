@@ -162,7 +162,7 @@ Some participants demonstrated signs of fatigue after reading through the suppor
  
 
 
-### **Finding 2**: Participants who had previously applied for VA benefits expected the requirements to be difficult, so they read instructions in depth.
+### **Finding 2**:  Participants who had previously applied for VA benefits expected the requirements to be difficult, so they read instructions in depth.
 
 Influenced by their past experiences applying for benefits with VA, participants anticipated frequent changes to the requirements for submitting claims. To ensure that they had up-to-date information and knew what documents the CHAMPVA would ask for, they carefully read most or all the content on the page before proceeding to the form. 
 
@@ -184,7 +184,7 @@ Consider including all the claim requirements and supporting documents in the in
      
 
 
-### **Finding 3**: Participants had a good understanding of what a single claim was but desired a different experience when needing to submit multiple claims at one time.
+### **Finding 3**:  Participants had a good understanding of what a single claim was but desired a different experience when needing to submit multiple claims at one time.
 
 All of the participants had a good understanding of what was meant by a claim (each date of service or physician location is a separate claim). Most participants explained that if they did have multiple claims to submit that they would fill the form out for each claim. One participant remarked that they would upload all of their claims in one form submission to see if VA would accept them and if the claims were denied in this format, they would then send each claim in separate form submissions.
 
@@ -268,7 +268,7 @@ Even though the policy number and insurance phone number fields were not require
 
 
 * The policy numbers and the insurance phone numbers are not required, so consider removing them from the form to alleviate the burden on the users.
-* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments [see Finding 6](#finding-6-after-adding-the-correct-maximum-number-of-insurance-policies-allowed-on-the-form-participants-hesitated-to-move-forward-when-shown-the-alert-box-on-the-insurance-policy-review-page).
+* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments [see Finding 6](#finding-6).
 
      
 
@@ -584,40 +584,28 @@ The participants expected to have some of the parts of the form pre-filled after
 ## Recommendations at a glance
 
 
-### [Recommendation for finding 1](#finding-1)
+### [Recommendation for finding 1](#finding-1--participants-had-a-basic-understanding-of-what-they-may-need-to-complete-the-claim-form-but-still-needed-some-further-clarification)
 
 
 
 * Consider including some common examples of where to find the codes listed on the upload page for medical claims or in what format these codes are commonly found (like the explanation and benefits upload page).
 
 
-### 
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for finding 2"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for finding 2](#heading=h.bccsmfa06aoc)
+### [Recommendation for finding 2](#finding-2-participants-who-had-previously-applied-for-va-benefits-expected-the-requirements-to-be-difficult-so-they-read-instructions-in-depth)
 
 
 
 * Consider including all of the claim requirements and supporting documents in the introduction page and making this top level in the hierarchy of the layout.
 
 
-### 
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for finding 3"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for finding 3](#heading=h.lervx9ic0hss)
+### [Recommendation for finding 3](#finding-3-participants-had-a-good-understanding-of-what-a-single-claim-was-but-desired-a-different-experience-when-needing-to-submit-multiple-claims-at-one-time)
 
 
 
 * Continue with the discovery and engineering of a workflow that will allow a user to submit several claims in one form session. Also continue to research how to best organize the output of the form submissions for the claims processors to efficiently enter the claims into their systems. (Refer to the[ CHAMPVA claims service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723309711950/72864bacb39ee1c8cd48f80735b6f6994a72b6ca?sender=u10700c583aaa99f809c88675)).
 
 
-### 
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendations for finding 4"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendations for finding 4](#heading=h.fspw2qejrzdj)
+### [Recommendations for finding 4](#finding-4-participants-had-difficulty-when-navigating-the-form-as-a-third-party-representative-or-sponsor)
 
 
 
@@ -625,16 +613,12 @@ The participants expected to have some of the parts of the form pre-filled after
 * Consider redefining the term “sponsor” using the phrase “the service member the beneficiary is connected to.” This recommendation should be aligned on all the CHAMPVA forms.
 
 
-### 
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendations for finding 5"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendations for finding 5](#heading=h.r82sog2tkd7d)
+### [Recommendations for finding 5](#finding-5-participants-were-able-to-work-through-the-majority-of-the-list-and-loop-pattern-without-friction-when-adding-insurances-but-demonstrated-low-confidence-when-filling-out-their-insurance-details)
 
 
 
 * The policy numbers and the insurance phone numbers are not required, so consider removing them from the form to alleviate the burden on the users.
-* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments. [See finding 6](#finding-6-after-adding-the-correct-maximum-number-of-insurance-policies-allowed-on-the-form-participants-hesitated-to-move-forward-when-shown-the-alert-box-on-the-insurance-policy-review-page)
+* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments. [See finding 6](#finding-6-after-adding-the-correct-maximum-number-of-insurance-policies-allowed-on-the-form-participants-hesitated-to-move-forward-when-shown-the-alert-box-on-the-insurance-policy-review-page).
 
 
 ### [Recommendations for finding 6](#finding-6-after-adding-the-correct-maximum-number-of-insurance-policies-allowed-on-the-form-participants-hesitated-to-move-forward-when-shown-the-alert-box-on-the-insurance-policy-review-page)
@@ -645,11 +629,7 @@ The participants expected to have some of the parts of the form pre-filled after
 * Add some additional context about the maximum of two insurances on the insurance review page. Possibly use an error message to direct the content to only users trying to add more than 2 insurances.
 
 
-### 
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendations for finding 7"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendations for finding 7](#heading=h.r3qscen1d9wk)
+### [Recommendations for finding 7](#finding-7--participants-understood-the-work-or-auto-accident-related-injury-question-however-they-expected-to-have-to-submit-more-details-with-their-claim-if-they-chose-yes-for-an-answer-for-either-question)
 
 
 
@@ -657,22 +637,14 @@ The participants expected to have some of the parts of the form pre-filled after
 * Consider exploring the removal of the work-related injury question if the beneficiary is under the legal working age (14 years old).
 
 
-### 
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for finding 8"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for finding 8](#heading=h.ebl15d4pj0zk)
+### [Recommendation for finding 8](#finding-8-participants-knew-how-to-use-the-file-upload-screen-almost-immediately-after-landing-on-the-page-but-many-participants-were-not-expecting-the-additional-notes-accordion-component-to-behave-or-contain-the-information-that-it-did-when-they-expanded-it)
 
 
 
 * Consider rewording the “Additional notes” header on the accordion component to be more descriptive of the content that it contains to set better expectations.
 
 
-### 
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendations for finding 9"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendations for finding 9](#heading=h.15j4wrmm2wp)
+### [Recommendations for finding 9](#finding-9-all-the-participants-immediately-noticed-and-understood-the-change-of-address-question-they-stated-that-they-would-know-what-address-they-used-on-their-last-champva-form-submission)
 
 
 
@@ -680,11 +652,7 @@ The participants expected to have some of the parts of the form pre-filled after
 * In the future, consider developing a method to show the last saved address on their CHAMPVA profile while filling out the digital form.
 
 
-### 
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendations for finding 10"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendations for finding 10](#heading=h.b0uqbnpctf1e)
+### [Recommendations for finding 10](#finding-10--all-of-the-participants-expressed-that-they-thought-there-was-enough-information-on-the-confirmation-page-but-wished-there-was-another-way-to-save-the-content-that-is-shown-on-the-page-which-includes-date-how-long-it-will-take-to-process-and-what-the-appeals-process-is)
 
 
 
@@ -692,11 +660,7 @@ The participants expected to have some of the parts of the form pre-filled after
 * Consider sending a post-form submission email with the information on the confirmation page so beneficiaries can have a digital version of this information.
 
 
-### 
-
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for finding 11"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for finding 11](#heading=h.xfc5k6aoyl0d)
+### [Recommendation for finding 11](#finding-11-most-of-the-participants-were-unfamiliar-with-what-the-champva-number-was-or-what-their-number-was-specifically)
 
 
 
