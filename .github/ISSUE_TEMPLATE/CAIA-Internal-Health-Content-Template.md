@@ -7,9 +7,11 @@ project: 'Sitewide CAIA'
 assignees: laurwill
 ---
 
-> [!WARNING] This ticket is for internal CAIA use only
+> [!WARNING]
+> This ticket is for internal CAIA use only
 
 ## Issue description
+
 This ticket captures ongoing content support for MHV and other health tools. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
 
 ---
