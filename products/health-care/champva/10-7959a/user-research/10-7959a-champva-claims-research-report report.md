@@ -667,66 +667,42 @@ The participants expected to have some of the parts of the form pre-filled after
 * Follow up with IVC stakeholders to determine if the social security number acts as the CHAMPVA member number 100% of the time. If this is true, consider updating the question to collect the SSN rather than the CHAMPVA member number. This will ease mental burden on the user and prevent uncertainty when answering this question.
 
 
-### 
-
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for additional insight 1"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for additional insight 1](#heading=h.q3dem2dyjwoc)
+### [Recommendation for additional insight 1](#additional-insight-1--all-of-the-participants-anticipated-a-long-wait-time-for-processing-their-forms)
 
 
 
 * The digitization of the claims form will eliminate the time it takes to send and receive correspondence through the mail. It is recommended to continue to digitize the process to help reduce labor and enhance workflows which will decrease the time it takes to receive, process and send the reimbursement of the claim.
 
 
-### 
-
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for additional insight 2"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for additional insight 2](#heading=h.vtvb7l7war4e)
+###[Recommendation for additional insight 2](#additional-insight-2-during-testing-4-of-7-participants-used-autofill-to-complete-the-online-form)
 
 
 
 * The digitization of the claims form will increase accessibility and reduce burden by having the ability to autofill common information if the user chooses to use it.
 
 
-### 
-
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for additional insight 3"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for additional insight 3](#heading=h.ydyvsusrssi4)
+### [Recommendation for additional insight 3](#additional-insight-3-all-the-participants-found-the-review-screen-for-the-insurances-and-the-form-useful-and-intuitive)
 
 
 
 * It’s recommended to keep the current pattern for the review page. For any future enhancements of the review page pattern consider keeping the edits inline within the review page or create an experience that only brings the user to the page they need to edit and then navigate them back to the review page when finished.
 
 
-### 
-
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for additional insight 4"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for additional insight 4](#heading=h.ph57ftyzxvuu)
+###[Recommendation for additional insight 4](#additional-insight-4-during-the-session-3-out-of-7-participants-verbally-acknowledged-the-privacy-policy-and-statement-of-truth-on-the-form-submission-and-understood-the-importance-of-these-security-measures)
 
 
 
 * The statement of truth and privacy statement are well known patterns among regular VA.gov forms users. Consider monitoring analytics post-launch to discover any friction as newer VA form users start to use the form.
 
 
-### 
-
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for additional insight 5"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for additional insight 5](#heading=h.9l9kkyacrwry)
+### [Recommendation for additional insight 5](#additional-insight-5--during-the-study-2-of-7-participants-mentioned-that-they-had-a-champva-claim-denied-the-reasons-for-the-rejections-were-not-well-understood-or-expected-by-the-participants)
 
 
 
 * Consider creating more resources that will help educate beneficiaries on common services or products that are not covered by CHAMPVA. This information can be included in media that is easily updatable when program requirements change such as  in a digital version of CHAMPVA handbook and/or added to the CHAMPVA information page on VA.gov.
 
 
-### 
-
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for additional insight 6"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for additional insight 6](#heading=h.s19gffoz8j5z)
+### [Recommendation for additional insight 6](#additional-insight-6--the-majority-of-the-participants-that-were-also-veterans-stated-that-they-would-sign-in-before-filling-out-the-claims-form)
 
 
 
