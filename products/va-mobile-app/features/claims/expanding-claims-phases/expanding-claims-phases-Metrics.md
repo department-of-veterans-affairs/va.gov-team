@@ -17,11 +17,11 @@ This page contains quantitative data intended to measure recent changes to certa
 
 | Metric | Baseline | 30 Days from Launch | 60 Days from Launch | 90 Days from Launch |
 | -------- | -------- | ---------- | -----------------| -----------------| 
-|Get Claims Letter Click Rate |85.96%|98.47%|||
-|Claim details tab click rate|65.23%|67.80%|||
-|Disagree (panel content) click rate|95.37%|94.47%|||
-|Combine (panel content) click rate|94.54%|94.35%||
-|Review file requests click rate|79.20%|79.76%||
+|Get Claims Letter Click Rate |85.96%|98.47%|93.58%||
+|Claim details tab click rate|65.23%|67.80%|73.29%||
+|Disagree (panel content) click rate|95.37%|94.47%|92.82%||
+|Combine (panel content) click rate|94.54%|94.35%|94.35%|
+|Review file requests click rate|79.20%|79.76%|79.09%|
 
 * Date Range: 05/01/24 - 07/31/24
 
