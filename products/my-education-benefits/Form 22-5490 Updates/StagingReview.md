@@ -6,7 +6,7 @@ education/survivor-dependent-education-benefit-22-5490/)
 
 ### Content Brief
 - [[Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/enrollment-verification) ](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/my-education-benefits)
-- Product description and screenshots can be found in the [Product Outline]- Product description and screenshots can be found in the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/enrollment-verification/product-outline.md)
+- Product description and screenshots can be found in the [Product Outline]- Product description and screenshots can be found in the [Product Outline]products/my-education-benefits/Form 22-5490 Updates/Product Outline.md
 
 - [Staging link](https://staging.va.gov/education/survivor-dependent-education-benefit-22-5490/)
 
