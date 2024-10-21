@@ -23,5 +23,8 @@ This page contains quantitative data intended to measure recent changes to certa
 |Combine (panel content) click rate|94.54%|94.35%|94.35%|
 |Review file requests click rate|79.20%|79.76%|79.09%|
 
-* Date Range: 05/01/24 - 07/31/24
+## Date Range
+- Baseline: 05/01/24 - 07/31/24
+- 30 Day: 08/13 - 09/13 
+- 60 Day: 09/14 - 10/14 
 
