@@ -54,7 +54,7 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 3. Assign to **Caterpillars** swimlane.
 4. Add links to rules documentation.
 5. Add to the correct child epic.
-   - For example, if a ticket is about the "Tell about yourself page," add it to the "Tell us about yourself" epic.
+   - For example, if a ticket is about the "Tell about yourself" page, add it to the "Tell us about yourself" epic.
 7. Tag Design (@tygindraux and @t-michaud)
 
 ## References
