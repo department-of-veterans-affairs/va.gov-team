@@ -1,6 +1,6 @@
 # Ask VA Manual QA process
 
-Last updated: October 21, 2024 by @tygindraux
+Last updated: October 21, 2024 by @beckyphung
 
 This document explains our process to manually QA Ask VA. We're primarily using this process before our expected launch on VA.gov in January 2025. 
 
@@ -35,7 +35,7 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 
 ### Rules for product
 - **Order bugs by priority in the Caterpillars swimlane.**
-- **Assign severity based on the following table.** ⚠️ Note: We're done with AT testing and probably need to update this table.
+- **Assign severity based on the following table.**
 
 | Category | Description | Resolution Process |
 |--------------|-------------|--------------------|
