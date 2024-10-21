@@ -7,7 +7,8 @@ project: 'Sitewide CAIA'
 assignees: laurwill,megzehn
 ---
 
-> [!WARNING] This ticket is for internal CAIA use only
+> [!WARNING]
+> This ticket is for internal CAIA use only
 
 ## Issue description
 
