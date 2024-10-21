@@ -7,7 +7,7 @@ Date: 09/27/2024
 Rachael Penfil (rachael.penfil@adhocteam.us), Steven Straily (steven.straily@agile6.com), Jamie Fiore (jamie.fiore@adhocteam.us)
 
 Jump to:
-* [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/champva/10-7959a/user-research/10-7959a-champva-claims-research-report%20report.md##overview)
+* [Overview](#overview)
 
 - [Research goals](#heading=h.uhtqfo9wxawk)
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Research questions"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
