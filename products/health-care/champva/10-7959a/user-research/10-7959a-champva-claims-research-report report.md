@@ -674,7 +674,7 @@ The participants expected to have some of the parts of the form pre-filled after
 * The digitization of the claims form will eliminate the time it takes to send and receive correspondence through the mail. It is recommended to continue to digitize the process to help reduce labor and enhance workflows which will decrease the time it takes to receive, process and send the reimbursement of the claim.
 
 
-###[Recommendation for additional insight 2](#additional-insight-2-during-testing-4-of-7-participants-used-autofill-to-complete-the-online-form)
+### [Recommendation for additional insight 2](#additional-insight-2-during-testing-4-of-7-participants-used-autofill-to-complete-the-online-form)
 
 
 
@@ -688,7 +688,7 @@ The participants expected to have some of the parts of the form pre-filled after
 * It’s recommended to keep the current pattern for the review page. For any future enhancements of the review page pattern consider keeping the edits inline within the review page or create an experience that only brings the user to the page they need to edit and then navigate them back to the review page when finished.
 
 
-###[Recommendation for additional insight 4](#additional-insight-4-during-the-session-3-out-of-7-participants-verbally-acknowledged-the-privacy-policy-and-statement-of-truth-on-the-form-submission-and-understood-the-importance-of-these-security-measures)
+### [Recommendation for additional insight 4](#additional-insight-4-during-the-session-3-out-of-7-participants-verbally-acknowledged-the-privacy-policy-and-statement-of-truth-on-the-form-submission-and-understood-the-importance-of-these-security-measures)
 
 
 
