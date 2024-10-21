@@ -15,8 +15,8 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 3. Tyler will write rules and script for a specific scenario.
 4. Tyler will test staging and compare to scenario script/rules.
 5. Tyler will document issues in spreadsheet.
-6. Tyler will let product know when a scenario is complete and handover.
-7. Product person will assign themselves as 'bug writer' in index.
+6. Tyler will let product know when scenario(s) are complete and handover.
+7. Product person will choose a scenario that is linked in the index and assign themselves as 'bug writer.'
 8. Product person will either create a new bug ticket or list an existing bug ticket in the bug column.
 9. In the bug ticket, product person will link to the script they were testing so developers can reference it.
 10. In the spreadsheet, product person will add a link to the new bug.
