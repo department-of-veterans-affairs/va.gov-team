@@ -1,4 +1,4 @@
-Introduction
+##Introduction
 
 The CH35/FRY application is an application intended to let veterans dependents submit an education benefits claim for the CH33 FRY benefit or The Survivors' and Dependents' Educational Assistance program.
 The application has the following components.
