@@ -1,7 +1,7 @@
 # SME accuracy review process
-When you share your silent failure email content with your VA partners or SMEs for approval, you can ask them to an accuracy review of the information (e.g. the recovery steps in the email, phone numbers, or addresses.
+When you share your silent failure email content with your VA partners or SMEs for approval, you can ask them for an accuracy review of the information (e.g. the recovery steps in the email, phone numbers, or addresses).
 
-Note that the content in the email is aligned with the VA.gov plain langauge, accessibility, and content style guidance. And if you worked with someone on the CAIA team, be sure to include them on the VA partners/SME email thread.
+In your message to them, note that the content in the email is aligned with our VA.gov plain langauge, accessibility, and content style guidance. And if you worked with someone on the CAIA team, be sure to include them on the VA partners/SME email thread.
 
 **Here's an example of email you can send**
 
