@@ -10,6 +10,7 @@ Jump to:
 - [By routing queue](#reply-rules-by-routing-queue)
 - [By category](#reply-rules-by-category)
 - [By topic](#reply-rules-by-topic)
+- [By subtopic](#reply-rules-by-subtopic)
 
 ### Reply rules by routing queue
 
@@ -163,3 +164,12 @@ Replies are allowed for all other queues.
 |`Veteran Readiness and Employment`|Following up on application or contacting counselor|✅|
 |`Veteran Readiness and Employment`|How to apply|✅|
 |`Veteran Readiness and Employment`|Other|✅|
+
+### Reply rules by subtopic
+
+There is only one topic that includes subtopics with different reply rules. It's listed here.
+
+|Category|Topic|Subtopic|Reply rule|
+|:--|:--|:--|:--|
+|`Burials and memorials`|Memorial items|Burial flags|✖️|
+|`Burials and memorials`|Memorial items|Headstones, markers, medallions, and Presidential Memorial Certificates|✅|
