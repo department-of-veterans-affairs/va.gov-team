@@ -57,29 +57,29 @@ Replies are allowed for all other queues.
 
 |Category|Topic|Reply rule|
 |:--|:--|:--|
-|`Benefits issues outside the U.S.`|Disability compensation|  |
-|`Benefits issues outside the U.S.`|Education benefits and work study|  |
-|`Burials and memorials`|Burial allowance|  |
-|`Burials and memorials`|Burial allowance for unclaimed Veteran remains|  |
-|`Burials and memorials`|Burial in a VA grant-funded state or tribal cemetery|  |
-|`Burials and memorials`|Burial in a VA national cemetery|  |
-|`Burials and memorials`|Memorial items|  |
-|`Burials and memorials`|Pre-need eligibility for burial|  |
-|`Burials and memorials`|Other|  |
+|`Benefits issues outside the U.S.`|Disability compensation|✖️|
+|`Benefits issues outside the U.S.`|Education benefits and work study|✅|
+|`Burials and memorials`|Burial allowance|✖️|
+|`Burials and memorials`|Burial allowance for unclaimed Veteran remains|✖️|
+|`Burials and memorials`|Burial in a VA grant-funded state or tribal cemetery|✅|
+|`Burials and memorials`|Burial in a VA national cemetery|✅|
+|`Burials and memorials`|Memorial items|[Depends on subtopics](#reply-rules-by-subtopic)|
+|`Burials and memorials`|Pre-need eligibility for burial|✅|
+|`Burials and memorials`|Other|✅|
 |`Center for Minority Veterans`|Programs and policies|✅|
 |`Center for Women Veterans`|General question|✅|
 |`Center for Women Veterans`|Programs and policies|✅|
-|`Debt for benefit overpayments and health care copay bills`|Education benefit overpayments (for school officials)|  |
-|`Debt for benefit overpayments and health care copay bills`|Burial benefit overpayments|  |
-|`Debt for benefit overpayments and health care copay bills`|Disability compensation overpayments|  |
-|`Debt for benefit overpayments and health care copay bills`|Drill pay overpayments|  |
-|`Debt for benefit overpayments and health care copay bills`|Education benefit overpayments (for students)|  |
-|`Debt for benefit overpayments and health care copay bills`|Health care copay debt|  |
-|`Debt for benefit overpayments and health care copay bills`|Home loan overpayments|  |
-|`Debt for benefit overpayments and health care copay bills`|Pension benefit overpayments|  |
-|`Debt for benefit overpayments and health care copay bills`|Separation pay overpayments|  |
-|`Debt for benefit overpayments and health care copay bills`|Severance pay overpayments|  |
-|`Debt for benefit overpayments and health care copay bills`|Veteran Readiness and Employment overpayments|  |
+|`Debt for benefit overpayments and health care copay bills`|Education benefit overpayments (for school officials)|✅|
+|`Debt for benefit overpayments and health care copay bills`|Burial benefit overpayments|✅|
+|`Debt for benefit overpayments and health care copay bills`|Disability compensation overpayments|✅|
+|`Debt for benefit overpayments and health care copay bills`|Drill pay overpayments|✅|
+|`Debt for benefit overpayments and health care copay bills`|Education benefit overpayments (for students)|✅|
+|`Debt for benefit overpayments and health care copay bills`|Health care copay debt|✅|
+|`Debt for benefit overpayments and health care copay bills`|Home loan overpayments|✅|
+|`Debt for benefit overpayments and health care copay bills`|Pension benefit overpayments|✅|
+|`Debt for benefit overpayments and health care copay bills`|Separation pay overpayments|✖️|
+|`Debt for benefit overpayments and health care copay bills`|Severance pay overpayments|✖️|
+|`Debt for benefit overpayments and health care copay bills`|Veteran Readiness and Employment overpayments|✅|
 |`Decision reviews and appeals`|Board Appeals|✖️|
 |`Decision reviews and appeals`|Higher-Level Reviews or Supplemental Claims|✖️|
 |`Defense Enrollment Eligibility Reporting System (DEERS)`|Adding requests|✅|
@@ -90,27 +90,27 @@ Replies are allowed for all other queues.
 |`Disability compensation`|Guardianship, custodianship, or fiduciary issues|✖️|
 |`Disability compensation`|How to file a claim|✖️|
 |`Disability compensation`|Payment issues|✖️|
-|`Education benefits and work study`|Benefits for survivors and dependents|  |
-|`Education benefits and work study`|Certificate of Eligibility (COE) or Statement of Benefits|  |
-|`Education benefits and work study`|Compliance surveys|  |
-|`Education benefits and work study`|Educational and career counseling|  |
-|`Education benefits and work study`|Licensing and testing fees|  |
-|`Education benefits and work study`|Montgomery GI Bill Active Duty (Chapter 30)|  |
-|`Education benefits and work study`|Montgomery GI Bill Selected Reserve (Chapter 1606)|  |
-|`Education benefits and work study`|On-the-job training and apprenticeships|  |
-|`Education benefits and work study`|Post-9/11 GI Bill (Chapter 33)|  |
-|`Education benefits and work study`|Reserve Educational Assistance Program (Chapter 1607)|  |
-|`Education benefits and work study`|School Certifying Officials (SCOs)|  |
-|`Education benefits and work study`|Transfer of benefits|  |
-|`Education benefits and work study`|Tuition Assistance Top-Up|  |
-|`Education benefits and work study`|Verifying school enrollment|  |
-|`Education benefits and work study`|Veteran Readiness and Employment (Chapter 31)|  |
-|`Education benefits and work study`|Veterans’ Educational Assistance Program (Chapter 32)|  |
-|`Education benefits and work study`|Web Automated Verification of Enrollment (WAVE)|  |
-|`Education benefits and work study`|Work study|  |
-|`Guardianship, custodianship, or fiduciary issues`|Accounting issue|  |
-|`Guardianship, custodianship, or fiduciary issues`|Investigations and field examinations|  |
-|`Guardianship, custodianship, or fiduciary issues`|Other|  |
+|`Education benefits and work study`|Benefits for survivors and dependents|✅|
+|`Education benefits and work study`|Certificate of Eligibility (COE) or Statement of Benefits|✅|
+|`Education benefits and work study`|Compliance surveys|[Depends on routing queue](#reply-rules-by-routing-queue)|
+|`Education benefits and work study`|Educational and career counseling|✅|
+|`Education benefits and work study`|Licensing and testing fees|✅|
+|`Education benefits and work study`|Montgomery GI Bill Active Duty (Chapter 30)|✅|
+|`Education benefits and work study`|Montgomery GI Bill Selected Reserve (Chapter 1606)|✅|
+|`Education benefits and work study`|On-the-job training and apprenticeships|✅|
+|`Education benefits and work study`|Post-9/11 GI Bill (Chapter 33)|✅|
+|`Education benefits and work study`|Reserve Educational Assistance Program (Chapter 1607)|✅|
+|`Education benefits and work study`|School Certifying Officials (SCOs)|[Depends on routing queue](#reply-rules-by-routing-queue)|
+|`Education benefits and work study`|Transfer of benefits|✅|
+|`Education benefits and work study`|Tuition Assistance Top-Up|✅|
+|`Education benefits and work study`|Verifying school enrollment|✅|
+|`Education benefits and work study`|Veteran Readiness and Employment (Chapter 31)|✅|
+|`Education benefits and work study`|Veterans’ Educational Assistance Program (Chapter 32)|✅|
+|`Education benefits and work study`|Web Automated Verification of Enrollment (WAVE)|✅|
+|`Education benefits and work study`|Work study|✅|
+|`Guardianship, custodianship, or fiduciary issues`|Accounting issue|[Depends on routing queue](#reply-rules-by-routing-queue)|
+|`Guardianship, custodianship, or fiduciary issues`|Investigations and field examinations|[Depends on routing queue](#reply-rules-by-routing-queue)|
+|`Guardianship, custodianship, or fiduciary issues`|Other|✖️|
 |`Health care`|Audiology and hearing aids|✅|
 |`Health care`|Billing and copays|✅|
 |`Health care`|Career opportunities at VA health facilities|✅|
