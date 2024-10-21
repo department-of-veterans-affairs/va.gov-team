@@ -38,7 +38,7 @@ Thorough testing in the staging environment will be done for each type of upload
 For the BDD release, we want to start by setting the feature flipper to send 1% of BDD uploads to Lighthouse. 
 After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
 
-- **Release date for 1%:** Thurs Oct 24
+- **Release date for 1%:** Thursday Oct 24
 - **Release date for 5%:** Monday Oct 28
 - **Release date for 50%:** Thursday Oct 31
 - **Release date for 100%:** Monday Nov 4
