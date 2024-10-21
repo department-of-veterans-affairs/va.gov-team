@@ -7,10 +7,13 @@ project: 'Sitewide CAIA'
 assignees: laurwill
 ---
 
-> [!WARNING] This ticket is for internal CAIA use only
+> [!WARNING]
+> This ticket is for internal CAIA use only
 
 ## Issue description
+
 This ticket captures the last minute, quick-turnaround content requests that come in outside of CAIA intakes. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
+
 ---
 ## Acceptance Criteria
 _What will be created or happen as a result of this story? Examples:_
