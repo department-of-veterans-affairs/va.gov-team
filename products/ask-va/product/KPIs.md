@@ -18,6 +18,7 @@ User Experience KPIs measure how well Ask VA meets the needs and expectations of
 |:--|:--|:--|:--|
 |Make it easy to complete the form|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|- VA.gov all pages average CSAT<br>-VA.gov forms average CSAT|- VA.gov average: [##]%<br>-VA.gov forms average: [##]%|
 |Make it easy to complete the form|**Task completion** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|VA.gov form completion rate|VA.gov form completion rate:[##]%|
+|Make it easy to complete the form|**Abandonment rate** - Decrease the abandonment rate from ??|??|VA.gov form abandonment rate:[##]%|
 |Make it easy to complete the form|**Time on task** - Decrease the average time it takes submitters to send a question from ??|??|VA.gov time on task: ??|
 
 ### Dashboard 
