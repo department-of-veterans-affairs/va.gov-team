@@ -83,24 +83,23 @@ Refer to the design system's guidance for [page titles and section titles](https
 
 ## <a name="Entry Points"></a>Entry Points<br>
 
-### Primary entry point
+### Primary entry point for 85/15 Rule
 _Most of the time this is the CTA on a tool static landing page - this may be an action link that goes directly to the new feature, or it may be part of a sign in widget._
 
-**1) Form Intro Pages** - Add
-- Placement description: Link from form intro page into fillable steps of the form
-- Link label: A 'Start' or 'Submit' CTA
-- Link destination: Next form step
-![school admins 12](https://github.com/user-attachments/assets/1310026b-d831-496e-b401-3c7856e23e35)
+**1) 85/15 Rule - Supporting Page** - Add
+- Placement description: Link from supporting page to form intro page
+- Link label: 'Report 85/15 Rule Enrollment Ratios' or similar
+- Link destination: va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/introduction/
+![school admins 1a](https://github.com/user-attachments/assets/efb5f2b9-dbe4-49cb-b87f-9a4a435eb87e)
 
+### Primary entry point for 35% Exemption
 
-### Secondary entry points
-_Any additional locations that the page should be navigable from such as the "About a form" page, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc.   These are secondary, and while they are still very important, are not required for launch._
+**2) 35% EXEMPTION - Supporting Page** - Add
+- Placement description: Link from supporting page to form intro page
+- Link label: 'Request 35% exemption from 85/15 reporting' or similar
+- Link destination: va.gov/school-administrators/35-percent-exemption/request-exemption/introduction/
+![school admins 2a](https://github.com/user-attachments/assets/e3f184e3-86d7-45c6-9799-a40645753001)
 
-**1) Find a VA form, About page** - Add Page and Navigation Link
-- Placement description: Link on 'About VA Form ##-####' page, to the intro page of the form
-- Link label: Go to the online tool
-- Link destination: Form intro page
-- Note: While CAIA is asking that informational content be moved from the About page to a support page, the About page itself (and its nav links) should still be built.
 
 ## <a name="header and footer"></a>Header and footer<br>
 
