@@ -1,6 +1,6 @@
 ---
 name: Blank Template
-about: 
+about: Blank Template
 title: 
 labels: 
 assignees: ''
