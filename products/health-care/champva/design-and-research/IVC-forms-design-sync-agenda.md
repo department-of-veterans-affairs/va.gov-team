@@ -4,6 +4,7 @@
 	- Agenda Topics
 		- Share out the update Design Roadmap
 		- OHI Flow: Part C and Part D questions to account for PFFS
+  		- Discuss the OHI PDF change. Concerned with IVC stakeholders and our interpretation of the Part D vs Pharmacy Benefits. 
  
 ### Notes
 
