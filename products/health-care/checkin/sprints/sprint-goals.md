@@ -6,29 +6,37 @@
 
 ## SPRINT 19 - 10/30/2024-11/12/2024
 - **Production Support**
-    - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94768)
+    - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94768)
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goal is to understand how to get referral data from Palantir**
     - **END OF THE YEAR DEADLINE**
-    - 🟦 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
+    - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
+    - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
+    - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
+    - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
+    - 🟦 [SPIKE: Set up CC backend structure in the VAOS module (Where at, standalone or under VAOS)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95402)
+    - 🟦 [Define endpoint naming conventions (routes)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95403)
+    - 🟦 [Configure AWS parameters (secure store) and settings files (one ticket, easy knockout)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95404)
+    - 🟦 [Might not need to create client layers, platform base classes might provide this for us to develop service layers on top of.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95462)
 - **OH Travel**
     - **Sprint goal is to have this ready for internal testing**
+    - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
     - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
         - FYI We are waiting on this VeText ticket before we pilot
 - **Travel Claims for Past Appts**
     - **Sprint goal is to finish this by the end of the year**
     - **END OF THE YEAR DEADLINE**
-    - TBD
-- **VAHB: Medication Wording**
-    - TBD
-- **VAHB: Pre-Check-in**
-    - TBD
+    - 🟪 [Update Appointment Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94372)
 - **Check in with staff after checking in**
-    - TBD
+    - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)
+    - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95473)
+    - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95474)
+    - 🟥 [[Research] Create Draft Conversation Guide for check in with staff initiative in-person study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
 - **Research Cards & Their Headers**
-    - TBD
+    - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
+    - 🟥 [Create readme doc for appointment details page research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95000)
 - **Edit existing content on a resources and support page from Check in**
     - TBD
 - **Tech Debt & Analytics**
