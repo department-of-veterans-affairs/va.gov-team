@@ -553,7 +553,7 @@ P3 wanted to be ensured that the information contained in the copay description 
 P7 thought phone numbers listed on VA.gov may be unsafe as they were wary of scammers. 
 >"Another thing is the 888 number to pay the debt…They can hack anything. Evidently the VA has been hacked or something because they're switching everything around the 1st of the year. And I'm computer literate and couldn't set up an account in their system." -P7
 
-*AT user stated that the term "warning" was triggering.
+AT user stated that the term "warning" was triggering.
 
 >”I don't know if it's because of my military background, and what I did because warnings in my regs, for when me, with me being a flyer in the Air Force ‘warnings’ meant potentially death…. as soon as I seen ‘warning’ it made me want to swipe to see what it was. What's the warning? So I just, it just made me pay close attention is what it did.” -P16
 
@@ -635,65 +635,110 @@ The research from this study and the accompanying [Mural](https://app.mural.co/t
 We talked to 10 participants.
 
 **Audience segment:**
+
 Veterans: 10
+
 Caregivers: 0
+
 Family members of a Veteran: 0
 
 **Gender:**
+
 Male: 8
+
 Female: 2
 
 **LGBTQ+:**
+
 Transgender: 0
+
 Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+
 Gay, lesbian, or bisexual: 0
 
 **Devices used during study:**
+
 Desktop: 6
+
 Tablet: 0
+
 Smart phone: 4
+
 Assistive Technology: 1
 
 **Age:**
+
 25-34: 1
+
 35-44: 3
+
 45-54: 0
+
 55-64: 1
+
 65+: 5
+
 Unknown: 0
 
 **Education:**
+
 High school degree or equivalent: 1
+
 Some college (no degree): 3
+
 Associate's degree, trade certificate or vocational training: 3
+
 Bachelor's degree: 1
+
 Master's degree: 2
+
 Doctorate degree: 0
+
 Unknown: 0
 
 **Geographic location:**
+
 Urban: 5
+
 Rural: 4
+
 Unknown: 1
-Race:
+
+**Race:**
 White: 5
+
 Black: 2
+
 Hispanic: 1
+
 Biracial: 1
+
 Asian: 1
+
 Native: 1
+
 Unknown: 1
 
 **Disability and Assistive Technology (AT):**
+
 Cognitive: 5
+
 AT beginner: 0
+
 AT advanced user: 1
+
 Desktop screen reader: 0
+
 Mobile screen reader: 1
+
 Magnification/Zoom: 0
+
 Speech Input Technology like Siri/Dragon Naturally Speaking: 0
+
 Hearing aids: 0
+
 Sighted keyboard: 0
+
 Captions: 0
 
 
