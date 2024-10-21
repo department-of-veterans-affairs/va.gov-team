@@ -24,11 +24,7 @@ Jump to:
 
 ## Overview
 
-The CHAMPVA Claims Usability interviews were conducted from Aug 23rd 2024 - Sept 11th 2024. During that period, we talked to 6 participants and 1 pilot all of which were either a Veteran or a Veteran’s caregiver. They each had a variety of cognitive abilities and were aged 35 years old and up. You can read more about the study’s demographics in the “
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Who we talked to section"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Who we talked to section](#heading=h.7hu3cptz7eby)” of this report.
+The CHAMPVA Claims Usability interviews were conducted from Aug 23rd 2024 - Sept 11th 2024. During that period, we talked to 6 participants and 1 pilot all of which were either a Veteran or a Veteran’s caregiver. They each had a variety of cognitive abilities and were aged 35 years old and up. You can read more about the study’s demographics in the “[Who we talked to](#who-we-talked-to)" of this report.
 
  
 
@@ -87,8 +83,8 @@ Service design
 
 ## Methodology
 
-A mixed-method approach was used, combining a usability study with a user interview. There was 30-45 minutes of usability testing, utilizing the think-out-loud protocol while interacting with the prototype to identify significant issues with the digital form. \
- \
+A mixed-method approach was used, combining a usability study with a user interview. There was 30-45 minutes of usability testing, utilizing the think-out-loud protocol while interacting with the prototype to identify significant issues with the digital form. 
+
 Exit interview questions were asked in the remaining 15-30 minutes, less any time it took to prepare or troubleshoot for the participant. We chose to ask these questions at the end to avoid any bias that may impact interactions with the prototype, as well as comments gathered through the execution of the think-out-loud protocol. This method is appropriate for the research goals because it addresses them directly. The maturity of the design should be appropriate to accommodate all of the aforementioned research.
 
 
@@ -182,9 +178,7 @@ Influenced by their past experiences applying for benefits with VA, participants
 
 
 #### Recommendation
-
-
-    Consider including all the claim requirements and supporting documents in the introduction page and making this top level in the hierarchy of the layout.
+Consider including all the claim requirements and supporting documents in the introduction page and making this top level in the hierarchy of the layout.
 
 
      
@@ -274,11 +268,7 @@ Even though the policy number and insurance phone number fields were not require
 
 
 * The policy numbers and the insurance phone numbers are not required, so consider removing them from the form to alleviate the burden on the users.
-* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments (
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "see Finding 6"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[see Finding 6](#heading=h.incem5reqvi6)).
+* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments [see Finding 6](#finding-6).
 
      
 
@@ -594,11 +584,7 @@ The participants expected to have some of the parts of the form pre-filled after
 ## Recommendations at a glance
 
 
-### 
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendation for finding 1"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendation for finding 1](#heading=h.wroyt5g043dt)
+### [Recommendation for finding 1](#finding-1)
 
 
 
