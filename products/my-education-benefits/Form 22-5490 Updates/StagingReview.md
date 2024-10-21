@@ -8,7 +8,7 @@ education/survivor-dependent-education-benefit-22-5490/)
 - [[Source code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/enrollment-verification) ](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/my-education-benefits)
 - Product description and screenshots can be found in the [Product Outline]- Product description and screenshots can be found in the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/enrollment-verification/product-outline.md)
 
-- [[Staging link](https://staging.va.gov/education/survivor-dependent-education-benefit-22-5490/)
+- [Staging link](https://staging.va.gov/education/survivor-dependent-education-benefit-22-5490/)
 
 ### Test info
 - To get access to accounts that have letters on DGIB so you can test VA Education Inbox, please contact Cesar Santiago at VA.gov slack channel so they can be staged prior to testing.
@@ -18,7 +18,7 @@ education/survivor-dependent-education-benefit-22-5490/)
 
 ### QA Test plan
 - products/my-education-benefits/Form 22-5490 Updates/5490_TestCase.csv
-- 
+- products/my-education-benefits/Form 22-5490 Updates/AxeScan
 
 ### Test Reports
 TBD
