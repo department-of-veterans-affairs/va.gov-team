@@ -162,7 +162,7 @@ Some participants demonstrated signs of fatigue after reading through the suppor
  
 
 
-### **Finding 2**:  Participants who had previously applied for VA benefits expected the requirements to be difficult, so they read instructions in depth.
+### **Finding 2**: Participants who had previously applied for VA benefits expected the requirements to be difficult, so they read instructions in depth.
 
 Influenced by their past experiences applying for benefits with VA, participants anticipated frequent changes to the requirements for submitting claims. To ensure that they had up-to-date information and knew what documents the CHAMPVA would ask for, they carefully read most or all the content on the page before proceeding to the form. 
 
@@ -184,7 +184,7 @@ Consider including all the claim requirements and supporting documents in the in
      
 
 
-### **Finding 3**:  Participants had a good understanding of what a single claim was but desired a different experience when needing to submit multiple claims at one time.
+### **Finding 3**: Participants had a good understanding of what a single claim was but desired a different experience when needing to submit multiple claims at one time.
 
 All of the participants had a good understanding of what was meant by a claim (each date of service or physician location is a separate claim). Most participants explained that if they did have multiple claims to submit that they would fill the form out for each claim. One participant remarked that they would upload all of their claims in one form submission to see if VA would accept them and if the claims were denied in this format, they would then send each claim in separate form submissions.
 
@@ -268,7 +268,7 @@ Even though the policy number and insurance phone number fields were not require
 
 
 * The policy numbers and the insurance phone numbers are not required, so consider removing them from the form to alleviate the burden on the users.
-* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments [see Finding 6](#finding-6).
+* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments [see Finding 6](#finding-6-after-adding-the-correct-maximum-number-of-insurance-policies-allowed-on-the-form-participants-hesitated-to-move-forward-when-shown-the-alert-box-on-the-insurance-policy-review-page).
 
      
 
@@ -634,18 +634,10 @@ The participants expected to have some of the parts of the form pre-filled after
 
 
 * The policy numbers and the insurance phone numbers are not required, so consider removing them from the form to alleviate the burden on the users.
-* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments (
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "see finding 6"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[see finding 6](#heading=h.incem5reqvi6)).
+* Continue to use the new list and loop pattern to ask for the insurance information with some adjustments. [See finding 6](#finding-6-after-adding-the-correct-maximum-number-of-insurance-policies-allowed-on-the-form-participants-hesitated-to-move-forward-when-shown-the-alert-box-on-the-insurance-policy-review-page)
 
 
-### 
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendations for finding 6"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendations for finding 6](#heading=h.incem5reqvi6)
+### [Recommendations for finding 6](#finding-6-after-adding-the-correct-maximum-number-of-insurance-policies-allowed-on-the-form-participants-hesitated-to-move-forward-when-shown-the-alert-box-on-the-insurance-policy-review-page)
 
 
 
