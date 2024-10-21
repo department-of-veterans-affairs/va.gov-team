@@ -7,36 +7,17 @@ Date: 09/27/2024
 Rachael Penfil (rachael.penfil@adhocteam.us), Steven Straily (steven.straily@agile6.com), Jamie Fiore (jamie.fiore@adhocteam.us)
 
 Jump to:
-* [Overview](#overview)
-
-- [Research goals](#heading=h.uhtqfo9wxawk)
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Research questions"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-- [Research questions](#heading=h.2365gsne18qd)
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Methodology"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-- [Methodology](#heading=h.xitqll3ilz2r)
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Hypotheses and conclusions"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-- [Hypotheses and conclusions](#heading=h.yu8cdoi3ctmb)
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Key findings at a glance"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-- [Key findings at a glance](#heading=h.3wm8626tn9s)
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Details of findings"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Details of findings](#heading=h.cm019s6p0ucb)
-- <p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Recommendations at a glance"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Recommendations at a glance](#heading=h.t0jwu3yfdy7j)
-- <p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Further research needed"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Further research needed](#heading=h.yigiky9jc4y7)
-- <p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Next steps"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Next steps](#heading=h.d1ejxaousstc)
-- <p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Who we talked to"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Who we talked to](#heading=h.7hu3cptz7eby)
+- [Overview](#overview)
+- [Research goals](#research-goals)
+- [Research questions](#research-questions)
+- [Methodology](#methodology)
+- [Hypotheses and conclusions](#hypotheses-and-conclusions)
+- [Key findings at a glance](#key-findings-at-a-glance)
+- [Details of findings](#details-of-findings)
+- [Recommendations at a glance](#recommendations-at-a-glance)
+- [Further research needed](#further-research-needed)
+- [Next steps](#next-steps)
+- [Who we talked to](#who-we-talked-to)
 
  
 
