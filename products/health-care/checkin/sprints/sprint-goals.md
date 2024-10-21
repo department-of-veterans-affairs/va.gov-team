@@ -13,16 +13,17 @@
     - **Sprint Goal is to understand how to get referral data from Palantir**
     - **END OF THE YEAR DEADLINE**
     - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
-    - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
-    - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
-    - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
-    - 🟦 [SPIKE: Set up CC backend structure in the VAOS module (Where at, standalone or under VAOS)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95402)
-    - 🟦 [Define endpoint naming conventions (routes)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95403)
-    - 🟦 [Configure AWS parameters (secure store) and settings files (one ticket, easy knockout)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95404)
-    - 🟦 [Might not need to create client layers, platform base classes might provide this for us to develop service layers on top of.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95462)
+    - FE STEP 1
+        - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
+        - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
+        - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
+    - BE STEP 1
+        - 🟦 [SPIKE: Set up CC backend structure in the VAOS module (Where at, standalone or under VAOS)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95402)
+        - 🟦 [Define endpoint naming conventions (routes)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95403)
+        - 🟦 [Configure AWS parameters (secure store) and settings files (one ticket, easy knockout)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95404)
+        - 🟦 [Might not need to create client layers, platform base classes might provide this for us to develop service layers on top of.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95462)
 - **OH Travel**
     - **Sprint goal is to have this ready for internal testing**
-    - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
     - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
         - FYI We are waiting on this VeText ticket before we pilot
 - **Travel Claims for Past Appts**
@@ -41,7 +42,7 @@
     - TBD
 - **Tech Debt & Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
-    - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
+    - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
 </details>
 
 ## SPRINT 18 - 10/16/2024-10/29/2024
