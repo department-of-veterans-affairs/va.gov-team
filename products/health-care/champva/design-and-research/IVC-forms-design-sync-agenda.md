@@ -7,6 +7,21 @@
   		- Discuss the OHI PDF change. Concerned with IVC stakeholders and our interpretation of the Part D vs Pharmacy Benefits. 
  
 ### Notes
+- OHI Flow:
+	- For now we are keeping the flow the same
+	- This uses that have both an Advantage plan and a separate Part D plan might be edge cases. We need to do some more research with the stakeholders to know if we need to solve this. If they are edge cases we may be able to allow those users to get the info to IVC in other ways. We are concerned with confusing the majority of Advantage plan users by asking them if they have Part D. 
+
+	- We are removing Prescription Discounts from the health insurance plan types questions on the pdf and the digital form
+	- Confirm with Angela P. if we need Part D effective dates. 
+	- Our suggestion is to keep both Part D and pharmacy questions to capture those people with Advantage Plans with a bundled drug plan.  
+
+- Silent Failures and required emails deadline
+	- Moving forward with requiring emails on all forms 
+	- There’s not a very straight forward solution for 1010D (CHAMPVA Registration) so we may be able to change the schedule for 1010D. (Launch with email by 11/11) Premal to inquire about the date change. 
+	- Need to know from OCTO:
+		- Are we decoupling what we are doing on the digital vs paper form? Are we solving for both? Does VES have to accept that email? Premal to have a conversation with OCTO about what is in involved for 010D
+	- IVC will come up with a recommendation for requiring an email to send users a failure notice. 
+	- We will make the FMP Reg required as it’s an easier task. 
 
 
 ## October 15 2024
