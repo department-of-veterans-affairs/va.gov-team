@@ -28,21 +28,20 @@ Note: 526 Submission - refers to the 526e primary data only, and the migration t
 
 
 ## New capabilities and changes
-- (TBD: list feature flipper names)
-- (TBD: list failure email templates)
-- (TBD: list the Datadog monitoring here)
+- DataDog Monitors: each type of upload will have a DataDog dashboard for staging and production to track how many uploads are attempted to Lighthouse vs EVSS, categorized as success or failure. 
+- Slack Alerts: each type of upload will trigger a slack alert in case of an upload failure with exhausted retries.
 
 ## Production release plan
-Thorough testing in the staging environment will be done for each type of upload, starting with BDD, then 0781, then Veteran Evidence Uploads. The plan is to "rehearse" the release on staging to make sure everything works as expected before incrementally rolling out the release on production. The staging QA checklist is linked in issue https://github.com/department-of-veterans-affairs/va.gov-team/issues/90005
+Thorough testing in the staging environment will be done for each type of upload, starting with BDD, then 0781, then Veteran Evidence Uploads. The plan is to "rehearse" the release on staging to make sure everything works as expected before incrementally rolling out the release on production. The QA checklist is linked in issue https://github.com/department-of-veterans-affairs/va.gov-team/issues/90005
 
 ### BDD 
 For the BDD release, we want to start by setting the feature flipper to send 1% of BDD uploads to Lighthouse. 
 After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
 
-- **Release date for 1%:** TBD
-- **Release date for 5%:** TBD
-- **Release date for 50%:** TBD
-- **Release date for 100%:** TBD
+- **Release date for 1%:** Thurs Oct 24
+- **Release date for 5%:** Monday Oct 28
+- **Release date for 50%:** Thursday Oct 31
+- **Release date for 100%:** Monday Nov 4
 
 
 ### 0781 
@@ -77,4 +76,4 @@ After successfully passing the testing plan, we will then increase usage to 5%, 
 The biggest risk is that uploads could fail silently if a failure is not recorded correctly and/or if the email fails to send. Datadog analytics and alerts will be in place to monitor for these risks (specific monitors listed above.)
 
 ## Production issues recovery plan
-DBEX team Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which redirect all submissions back to the existing EVSS path. 
+DBEX team Carbs and OCTO PO will monitor analytics. If something goes wrong, the engineering teams will be on standby to disable the flippers which redirect all submissions back to the existing EVSS path. The recovery playbook is included in the QA document linked in this issue https://github.com/department-of-veterans-affairs/va.gov-team/issues/90005
