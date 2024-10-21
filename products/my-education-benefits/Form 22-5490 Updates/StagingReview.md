@@ -17,7 +17,7 @@ education/survivor-dependent-education-benefit-22-5490/)
 - N/A
 
 ### QA Test plan
-- 
+- products/my-education-benefits/Form 22-5490 Updates/5490_TestCase.csv
 - 
 
 ### Test Reports
