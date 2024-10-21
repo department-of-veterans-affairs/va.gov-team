@@ -60,10 +60,10 @@
     - 🟥🟪 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82814449&issue=department-of-veterans-affairs%7Cva.gov-team%7C94713)
     - 🟥[Error page for EPS submission call failed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95073)
         - Added 1 day after planning
-    - 🟦 [CC Technical Documentation & Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94979)
+    - 🟦 ~[CC Technical Documentation & Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94979)~
     - 🟦 ~[Write CDW Query and Determine the Palantir Process to Create the API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)~
     - 🟦 ~[Create Palantir connection, includes connection but not fully fleshed out endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94981)~
-    - 🟩 [Create CC subrouter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94817)
+    - ✔️ 🟩 [Create CC subrouter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94817)
     - 🟩🟦 [Create ALL Tickets Needed to Complete this Feature for FE & BE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95003) 
 - **Travel for OH**
     - **DEADLINE IS END OF YEAR**  
@@ -76,7 +76,7 @@
     - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Medication Wording for Appointments - VAHB**
     - **DEADLINE IS END OF YEAR**  
-    - ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764) 
+    - ✔️ ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764) 
 - **Travel Claims for Past Appts - VAHB**
     - **DEADLINE IS END OF YEAR**
     - ⛔ VAHB Team is currently in design. Juan will do FE work in VAHB for the appointments page.
@@ -92,10 +92,10 @@
     - ~🟥 Submit Research Repo tickets for in-person study to Shane for review~
       - Pulled out conversation guide before sprint started, so can't submit ticket to Shane yet
 - **Research Cards & Their Headers**
-    - 🟥 [[Research] Synthesize unmoderated card sort data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93642)
+    - ✔️ 🟥 [[Research] Synthesize unmoderated card sort data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93642)
 - **Tech Debt & Analytics**
-    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
-    - 🟪 [Send Tagalog Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94997)
+    - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
+    - ✔️ 🟪 [Send Tagalog Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94997)
     - 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
     - 🟩 [Update want to file a bt claim page in eCheck-in app with CC content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94605)
     - 🟥 [Create UX onboarding documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2327217&pane=issue&itemId=83339991)
