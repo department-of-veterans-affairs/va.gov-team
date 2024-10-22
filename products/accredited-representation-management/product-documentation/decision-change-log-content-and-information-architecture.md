@@ -9,7 +9,7 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
 - :tada: **3/12/2024**: [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/) landing page is published. \
   _Published by CAIA ([Github comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67034#issuecomment-1989100865) confirming ready to publish)_.
 - **3/18/2024**: Redirected [va.gov/disability/get-help-filing-claim](https://www.va.gov/disability/get-help-filing-claim/) and [va.gov/decision-reviews/get-help-with-review-request](https://www.va.gov/decision-reviews/get-help-with-review-request/) to the accredited representative landing page. \
-  _Redirect implemented by the Public Websites team_ ([redirect plan](https://dvagov.sharepoint.com/:w:/s/SitewideCAIA/EXzlPiBgEiBKmYFApzlvs2oBxVQhSWag-nxboeMTNRLnNQ?e=I7Rpfu)).
+  _Redirect implemented by the Public Websites team ([redirect plan](https://dvagov.sharepoint.com/:w:/s/SitewideCAIA/EXzlPiBgEiBKmYFApzlvs2oBxVQhSWag-nxboeMTNRLnNQ?e=I7Rpfu))_.
 - **3/18/2024**: CAIA will be deprecating the “Veteran Service Officer” term across VA.gov.\
   _Decided by CAIA content ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F065KP8MRHA?focus_section_id=temp:C:GGKa8a581d429694eecac216dcd5))._
 - **4/15/2024**: CAIA Content Lead Beth Potts is managing stakeholder feedback from Christa Shriber, Jonathan Taylor and Nathan Kroes (OGC) for the FAQ page.\
@@ -19,7 +19,7 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
 - **4/26/2024**: FAQ page is added under the Disability section on the R\&S landing page.\
   _Published by CAIA (_[_Github ticket_](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68394)_)._
 - **4/26/2024**: Redirected [benefits.va.gov/vso/index.asp](https://benefits.va.gov/vso/index.asp) to the accredited representative landing page.\
-  _Redirect implemented by the Public Websites team_ ([redirect plan](https://dvagov.sharepoint.com/:w:/s/SitewideCAIA/EXzlPiBgEiBKmYFApzlvs2oBxVQhSWag-nxboeMTNRLnNQ?e=I7Rpfu)).
+  _Redirect implemented by the Public Websites team ([redirect plan](https://dvagov.sharepoint.com/:w:/s/SitewideCAIA/EXzlPiBgEiBKmYFApzlvs2oBxVQhSWag-nxboeMTNRLnNQ?e=I7Rpfu))_.
 - **6/12/2024**: Added a “Get help from an accredited representative or VSO” link to the [VA.gov](http://VA.gov) footer, replacing the “Accredited claims representatives” OGC link. CAIA approved a slight deviation from the page’s H1 (Get help from a VA accredited representative or VSO), to ensure the link title would resonate with Veterans. \
   _Link language was recommended by Lead Information Architect Mikki Northuis and CAIA Content Lead Beth Potts (_[_Github comment_](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84354#issuecomment-2153486227)_)._
 - **7/22/2024**: Added [va.gov/ogc/accreditation.asp](https://www.va.gov/ogc/accreditation.asp) to the right rail on the disability hub landing page, which follows an already-established pattern for including non-Veteran-facing content on [VA.gov](http://VA.gov).\
@@ -35,16 +35,18 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
 - **8/7/2024**: Informed VBA and OGC stakeholders of the redirect of [va.gov/vso](https://va.gov/vso/) and [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp) to our FAQ page.\
   _CAIA IA partner Kristin Oulette Muskat and Product Manager Lindsay Li-Smith communicated this to stakeholders via email "Redirecting accredited representative URL"._
 - **8/8/2024**: Updated the entry point on [About GI Bill benefits](https://www.va.gov/education/about-gi-bill-benefits/) to point to our landing (originally pointing to the legacy page [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp).\
-  _CAIA content partner A Procik confirmed in ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1723148921019749?thread_ts=1722880231.966739&cid=C05L6HSJLHM))._
+  _CAIA content partner A Procik confirmed ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1723148921019749?thread_ts=1722880231.966739&cid=C05L6HSJLHM))._
 - **8/8/2024**: While content standards recommend spelling out an acronym the first time it's mentioned on a page, we are making some excpetions for "VSO".  Veterans are most familiar with the "VSO" term so we want to highlight that first for user recognition and will define the acronym in the following sentence of body copy.\
   _CAIA content partner A Procik confirmed in ([Slack message](https://dsva.slack.com/archives/C01K37HRUAH/p1723151194544469?thread_ts=1723136972.151189&cid=C01K37HRUAH))._
 - **8/13/2024**: Updated the entry point on [VA Form 5655](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction) to point to our landing page (originally pointing to the legacy page [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp)).\
-  _Confirmed with the Debt Resolution team in ([Slack message](https://dsva.slack.com/archives/CPE4AJ6Q0/p1723579054028459?thread_ts=1723148366.330879&cid=CPE4AJ6Q0))._
+  _Confirmed with the Debt Resolution team ([Slack message](https://dsva.slack.com/archives/CPE4AJ6Q0/p1723579054028459?thread_ts=1723148366.330879&cid=CPE4AJ6Q0))._
 - **8/19/2024**: Redirected [va.gov/vso](https://va.gov/vso/) and [va.gov/ogc/recognizedvsos.asp](https://www.va.gov/ogc/recognizedvsos.asp) to our FAQ page.\
   _CAIA IA partner Kristin Oulette Muskat confirmed this ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1724103072664889)) and Product Manager Lindsay Li-Smith communicated this to stakeholders via email "Redirecting accredited representative URL"._
 - **8/28/2024**: Redirected [benefits.va.gov/vso](https://www.benefits.va.gov/vso/) to our FAQ page.\
   _Managed by the sitewide team ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89196#issuecomment-2316428385)) and Product Manager Lindsay Li-Smith communicated this to stakeholders via email "Redirecting accredited representative URL"._
 - **8/28/2024**: Updated the entry point on [VA Form 21-0966](https://www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966/introduction) and [VA Form 21-10210](https://www.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210/introduction) to point to our landing page (originally pointing to the legacy page [va.gov/vso](https://va.gov/vso/)).\
-  _Confirmed by the VA Forms team in ([Slack message](https://dsva.slack.com/archives/C044AGZFG2W/p1724879329795459?thread_ts=1722981558.317339&cid=C044AGZFG2W))._
+  _Confirmed by the VA Forms team ([Slack message](https://dsva.slack.com/archives/C044AGZFG2W/p1724879329795459?thread_ts=1722981558.317339&cid=C044AGZFG2W))._
 - **8/29/2024**: Updated the entry point on [VA Form 10-10EZ](https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction) to point to our landing page (originally pointing to the legacy page [va.gov/vso](https://va.gov/vso/)).\
-  _Managed by the 10-10 team in ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90206))._
+  _Managed by the 10-10 team ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90206))._
+- **10/22/2024**: Updated the entry point on [VA Form 10-10EZR](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction) to point to our landing page (originally pointing to the legacy page [va.gov/vso](https://va.gov/vso/)).\
+  _Confirmed by the 10-10 team ([Slack message](https://dsva.slack.com/archives/CMJ2V70UV/p1729556961782609?thread_ts=1723062021.733149&cid=CMJ2V70UV))._
