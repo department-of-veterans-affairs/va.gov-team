@@ -1,6 +1,8 @@
-# Experimental Design Process + Component Build (WIP)
+# Experimental Design Process + Component Build
 
-_Shell document to capture My VA's experience navigating the the experimental design system and design system as the team worked to build the new notification component._
+**Last updated: August 2023, added recommendations section**
+
+_Document outlining My VA's experience navigating the the experimental design process and design system as the team worked to build the new notification component._
 
 ## Design
 

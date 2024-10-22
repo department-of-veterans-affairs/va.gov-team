@@ -7,7 +7,7 @@ Veterans who have medical appointments at VA health facilities that use Oracle H
 
 The greatest value right now for this consortium of Veterans and patient tracking at clinics is to offer Veterans the ability to file a mileage-only travel reimbursement claim using VA's Low Risk One Time Authentication (LoROTA) to streamline the "sign in" process for Veterans. 
 
-The online travel reimbursement feature for smartphones will be piloted at a VA health facility that's use of Oracle Health is mature. E.g., Portland or Columbus. We will be collaborating with Integrated Veteran Care (IVC) on selecting a pilot facility and scheduling an in-person research visit.
+The online travel reimbursement feature for smartphones will be piloted at a VA health facility that's use of Oracle Health is mature. E.g., Portland or Columbus. We will be collaborating with Veterans Transportation Program (VTP) on selecting a pilot facility and scheduling an in-person research visit.
 
 ### Additional Artifacts
 
@@ -96,7 +96,7 @@ Method
 
 This research will be conducted through Veteran intercepts and in-person semi-structured interviews with clinic and Travel Office staff. Our intention is to visit various clinics, at busy times, to see what differences exist between clinics and different types of clinics. 
 
-We will work with IVC (Integrated Veteran Care) and facility leadership to determine the best approach for Veteran intercepts, but ideally plan to intercept Veterans after check out. While observing Veterans as they go through the travel reimbursement filing process on their smartphones, we will assist as needed, and ask them a few questions to gather feedback on their experience.
+We will work with VTP (Veterans Transportation Program), IVC (Integrated Veteran Care), and facility leadership to determine the best approach for Veteran intercepts, but ideally plan to intercept Veterans after check out. While observing Veterans as they go through the travel reimbursement filing process on their smartphones, we will assist as needed, and ask them a few questions to gather feedback on their experience.
 
 We will also ask MSAs and Travel Office staff questions from our conversation guide to better understand the check-in ecosystem and impact of the new travel claim tool on their workload, while documenting those findings.
 

@@ -69,7 +69,6 @@ Subtopics are not listed here, because they follow the same contact rules as the
 |`Debt for benefit overpayments and health care copay bills`|Education benefit overpayments (for students)|✅|✅|✅|
 |`Debt for benefit overpayments and health care copay bills`|Health care copay debt|✅|✅|✅|
 |`Debt for benefit overpayments and health care copay bills`|Home loan overpayments|✅|✅|✅|
-|`Debt for benefit overpayments and health care copay bills`|Disputing a debt|✅|✅|✅|
 |`Debt for benefit overpayments and health care copay bills`|Pension benefit overpayments|✅|✅|✅|
 |`Debt for benefit overpayments and health care copay bills`|Separation pay overpayments|✅|✅|✅|
 |`Debt for benefit overpayments and health care copay bills`|Severance pay overpayments|✅|✅|✅|

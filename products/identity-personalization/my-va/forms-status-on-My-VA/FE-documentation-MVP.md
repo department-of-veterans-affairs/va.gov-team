@@ -1,6 +1,7 @@
 # Forms Status on My VA MVP Frontend Documentation
-**Last updated: September 27, 2024 - removed all references to PDF downloads (will be a post-MVP enhancement)**
+**Last updated: October 15, 2024 - updated content for drafts only, forms only service failures**
 
+_Note: The "Submit an intent to file (VA Form 21-0966)" form has been removed from MVP as of 10/10/24 due to the variability of statuses being displayed (depending on the use of Central Mail vs. VBMS, what a user chooses in the submission (Veteran vs. not). This will be added in the future._
 
 This FE documentation outlines all possible status cards that appear in the Benefit applications and forms section on My VA: 
 
@@ -92,7 +93,6 @@ We'll show the status of these select forms here for 60 days after you submit th
 - Authorize the release of non-VA medical information to VA (VA Form 21-4142 & 21-4142a)
 - Submit a lay or witness statement to support a VA claim (VA Form 21-10210)
 - Authorize VA to release your information to a third-party source (VA Form 21-0845)
-- Submit an intent to file (VA Form 21-0966)
 - Request priority processing for an existing claim (VA Form 20-10207)
 - Request personal records (VA Form 20-10206)
 - Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847)
@@ -168,7 +168,6 @@ For MVP, [8 forms are tracked and displayed on My VA](https://github.com/departm
 - Authorize the release of non-VA medical information to VA (VA Form 21-4142 & 21-4142a)
 - Submit a lay or witness statement to support a VA claim (VA Form 21-10210)
 - Authorize VA to release your information to a third-party source (VA Form 21-0845)
-- Submit an intent to file (VA Form 21-0966)
 - Request priority processing for an existing claim (VA Form 20-10207)
 - Request personal records (VA Form 20-10206)
 - Request to be a substitute claimant for a deceased claimant (VA Form 21P-0847) 
@@ -390,13 +389,17 @@ We can't access your benefit applications and forms right now
 
 We're sorry. We're working to fix this problem. Check back later.
 
-### Failure for drafts only
+### Failure for drafts only, submitted only
+
+There are separate services utilized for displaying draft statuses and form statuses, and the possibility of one failing while the other does not is tangible. However, for the sake of our MVP and minimizing complexity, we are treating either kind of service failure as a total failure for all and as such we show the same error state regardless. The associated Figma file has dedicated frames for each of these possible states, but the content being the same is intentional (Post-MVP, this will change). 
+
+### Drafts only
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1771-70415&t=Ly3AlX7WzQaWU6dS-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1789-41493&t=Ly3AlX7WzQaWU6dS-1)
 
-### Failure for submitted only
+#### Submitted only
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1771-71011&t=Ly3AlX7WzQaWU6dS-1)
 

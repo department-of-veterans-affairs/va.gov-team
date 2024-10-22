@@ -137,3 +137,6 @@
 | 135 | [How to verify your identity for your Login.gov account](https://www.va.gov/resources/how-to-verify-your-identity-for-your-logingov-account/) | VA account and profile | 9/6/24
 | 136 | [Can I get a Login.gov or ID.me account if I don’t have a mobile phone?](https://www.va.gov/resources/can-i-get-a-logingov-or-idme-account-if-i-dont-have-a-mobile-phone/) | VA account and profile | 9/5/24
 | 137 | [If I return to active duty, will I still get VA disability payments?](https://www.va.gov/resources/if-i-return-to-active-duty-do-i-still-receive-va-disability-payments/) | Disability | 9/13/24
+| 138 | [How to protect your identity and your VA benefits from scammers](https://www.va.gov/resources/how-to-protect-your-identity-and-your-va-benefits-from-scammers/) | Health care/Disability/Education | 10/8/24 |
+| 139 | [Disaster help](https://www.va.gov/resources/disaster-help/) | Health care/Disability/Housing | 10/9/24 |
+| 140 | [Asistencia frente a una catástrofe](https://www.va.gov/resources/disaster-help-esp/) | Health care/Disability/Housing | 10/10/24 |

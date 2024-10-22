@@ -1,0 +1,48 @@
+name: Set PO-sync flag
+
+on:
+  issues:
+    types:
+      - labeled
+
+jobs:
+  do-sync:
+    name: Update Collab Cycle Project Board for PO-Sync
+    runs-on: ubuntu-latest
+
+    if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && github.event.label.name == 'PO-Sync-approved'}}
+    
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    # - name: Configure AWS Credentials
+    #   uses: aws-actions/configure-aws-credentials@v4.0.2
+    #   with:
+    #     aws-access-key-id: ${{ secrets.aws_access_key_id }}
+    #     aws-secret-access-key: ${{ secrets.aws_secret_access_key }}
+    #     aws-region: "us-gov-west-1"
+
+    # - name: Get bot token from Parameter Store
+    #   uses: marvinpinto/action-inject-ssm-secrets@latest
+    #   with:
+    #     ssm_parameter: /devops/VA_VSP_BOT_GITHUB_TOKEN
+    #     env_variable_name: VA_VSP_BOT_GITHUB_TOKEN
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      run: |
+        npm i axios@^1.7.7 axios-retry@^3.9.1
+
+    - name: Run script
+      env:
+        GITHUB_TOKEN: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+        PROJECT_NUMBER: 998
+        ISSUE_TITLE: ${{ github.event.issue.title }}
+
+      run: node ./scripts/github-actions/po-sync.js

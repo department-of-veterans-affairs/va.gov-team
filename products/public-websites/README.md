@@ -43,7 +43,7 @@ Monitors for each product are described within product folders. e.g.
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | . |
 | [VA.gov Homepage](#vagov-homepage) | [CTA React widget](#cta-react-widget) | . |
-| [Promo Banner](#promo-banner) | . |  .  |
+| [Promo Banner](#promo-banner) | . |  [BTSSS react widget](#btsss-react-widget)  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
@@ -476,6 +476,12 @@ Taxonomy launched in 2023, in pilot use by CAIA for managing benefits informatio
 
 # Non-CMS content / products
 
+## BTSSS React widget
+
+**What is**
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss
+
+
 ## CTA React widget
 
 **What is:**
@@ -529,6 +535,8 @@ Flippers cannot control visibility of an entire page to unauthenticated users or
 A good summary of how to flipper: https://github.com/department-of-veterans-affairs/va.gov-team/issues/8853#issuecomment-625426153 
 
 Flippers are typically using javascript, and do not require a code deploy to enable / change settings.
+
+**NOTE** It seems to be possible to display FE changes to a % of users, using the `cookie_id` and % of time setting in Flipper.
 
 #### 3. Write custom vets-website code to control traffic to unauthenticated element / widget
 A react hook exists that can allow displaying a feature to a % of unauthenticated traffic:  `useStaggeredFeatureRelease`

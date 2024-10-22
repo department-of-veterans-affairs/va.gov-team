@@ -112,9 +112,9 @@ For more details about our criteria, refer to our [Recruitment ticket](https://g
 |Thursday, September 5| ✅ Pilot session|
 |Monday, September 9 - Thursday, September 19| ✅ Research sessions|
 |Monday, September 23 - ~~Tuesday, September 24~~ Thursday, September 26| ✅ Analysis|
-|~~Wednesday, September 25 - Friday, September 27~~ Friday, September 27 - Tuesday, October 1 |Synthesis|
-|~~Monday, September 30~~ Wednesday, October 2|Discuss recommendations|
-|~~Wednesday, October 2~~ Thursday October 3|Share findings and recommendations|
+|~~Wednesday, September 25 - Friday, September 27~~ Friday, September 27 - Tuesday, October 1 |✅ Synthesis|
+|~~Monday, September 30~~ Wednesday, October 2|✅ Discuss recommendations|
+|~~Wednesday, October 2~~ Tuesday, October 22|✅Share findings and recommendations|
 
 ## Pilot session
 Perigean does **not** need to set up our pilot session. Becky will schedule and add participants herself.

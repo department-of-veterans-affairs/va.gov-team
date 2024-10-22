@@ -209,3 +209,75 @@ Another way to think about this through the lens of our work on VA.gov and assoc
 ### Last updated
 
 May 20, 2024
+
+***
+
+## Visually hidden link / button text best practices
+
+When we think about assistive technology, we usually think of - and test for - screen readers first. But there are other widely used types of assistive tech that we need to account for.
+
+Users with motor difficulties may use **voice command applications** to control their devices. This includes navigating websites and filling out online forms. Applications include Dragon (Windows, third-party), Voice Control (Mac and iOS, built-in), and Speech Recognition (Windows 10, built-in).
+
+For example, to activate a link with the visible label “My Profile” on a web page, a user of a voice command app can say “Click ‘My Profile.’” to activate the link.
+
+### Accessibility problem being solved
+
+We often use `aria-label` or `aria-labelledby` to create text for assistive technology that better explains the purpose of a button or link. For example, [form review pages](https://design.va.gov/templates/forms/review) have an "Edit" button for each section of the form. These are differentiated by pulling in the section heading - the "Edit" button under "Personal information" has an `aria-label` of "Edit personal information." This works very well for screen readers.
+
+The problem: Voice command applications display different behavior when the visual label ("Edit") doesn't match the computed accessible name, or accName (the `aria-label` or `aria-labelledby`). Some solely use the visual label, some soley use the accName, and some use a mix of both!
+
+### Ideal state
+
+Our goal is for as many users as possible, using whatever technology they need in order to access VA.gov, to easily select links and buttons.
+
+**Ideally,** teams should use distinct visual labels for each link / button on a screen. This avoids the issue of needing `aria-label` or `aria-labelledby` entirely.
+
+When this isn't always possible, due to visual design constraints (for example, link / button text on too many lines on mobile devices), you'll need to use `aria` in some capacity. This is fine, but the visual label and the `aria` text must start with the **same word**.
+- **Do this:** `<button aria-label="Edit personal information">Edit</button>` - most voice command applications will work if you say "Click 'Edit'"
+- **Not this:** `<button aria-label="Please submit the form">Submit</button>` - some voice command applications will _not_ work if you say "Click 'Submit'"
+
+### aria-label or aria-labelledby?
+
+`aria-labelledby` is preferred because it uses visual text to create an accName. That text is able to be translated by machine translation apps like Google Translate. If you're able, use `aria-labelledby`! 
+
+Example:
+```
+<h2 id="theHeading">Personal information</h2>
+<button id="theButton" aria-labelledby="theButton theHeading">Edit</button>
+The accName here is "Edit Personal information.
+```
+
+`aria-label` does _not_ translate, since the label is in an HTML attribute. But **if you're using VADS components**, you **must** use `aria-label` - components use the ShadowDOM, and can't access anything outside of themselves (like a heading further up the page). Use the component's props to add an `aria-label`.
+
+Example:
+```
+<va-button
+  label="Edit personal information"
+  onClick={function noRefCheck(){}}
+  text="Edit"
+/>
+```
+
+
+### Implementation notes
+**Note:** MacOS and iOS Voice Control generally uses the computed accName only to identify links and buttons; only distinct visual labels will be 100% usable by this group. However, these users have other ways to access links and buttons, via numbered flags or a numbered grid, so these aren’t wholly inaccessible to them.
+
+### How we tested
+First, we created a [testing script](https://coforma-jamie.github.io/VoiceCommandTest/) to test interactive elements - links, buttons, radio buttons, checkboxes, text inputs - with unique instances of `aria-label` and `aria-labelledby` for a variety of "vanilla" semantic HTML interactive elements and VADS components.
+
+Then we tried activating each element using the visual label and its `aria` accName (if applicable), and recorded our findings in a [spreadsheet](https://docs.google.com/spreadsheets/d/154S4eYogg-k-Lx-GFLZuriIs8Nr3q2LO7gRY3jxamvU/edit?gid=0#gid=0).
+
+To test, we used these apps:
+- Voice Control (MacOS and iOS)
+- Dragon
+- Windows Speech Recognition (Win 10)
+- Windows Voice Access (Win 11)
+- Talon
+- Android Voice Access
+
+### Further reading
+- [What is an accessible name?, TPGi](https://www.tpgi.com/what-is-an-accessible-name/)
+- [GH ticket #92432 - Voice command and interactive elements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92432)
+
+### Last updated
+October 15, 2024

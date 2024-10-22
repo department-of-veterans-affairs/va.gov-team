@@ -22,10 +22,11 @@ to create a ticket. Update the change logs within the docs and on this page with
 Make any requested changes and update in sharepoint. They will typically look through each change and approve or comment on the change.<br><br>
 5. Complete!<br>Contact Center team attaches the approved version to the ticket.
 
-## Some best practices
+## Some best practices and tips
 - Both guides should be updated at the same time to keep them in sync, unless there is a change that impacts only one of the two flows.
 - Follow a light version of [semantic versioning](https://semver.org/) with major version increment for significant changes (such as a new OMB version of the 526 form or multiple large changes to the doc and its format) and minor version increment for smaller changes
-- Previously the product guides were duplicated here in github, but this caused syncing and collaboration challenges. Utilizing the already existing source of truth (docs in Sharepoint owned by the Contact Center) and ticketing process is preferable. 
+- Previously the product guides were duplicated here in github, but this caused syncing and collaboration challenges. Utilizing the already existing source of truth (docs in Sharepoint owned by the Contact Center) and ticketing process is preferable.
+- Utilize the Word app on the CAG for editing and collaboration. This is easier and less risky than importing the docs in and out of google docs.
 
 ## 526 Product Guide Ticket History
 |Date|Version|Ticket|Author|Feature Name|
@@ -42,6 +43,7 @@ Make any requested changes and update in sharepoint. They will typically look th
 |8/22/24 |4.1|[#89173](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=72805124)|Disability Experience Team 2|Post-Submission Failure Email|
 |8/28/24 |4.2|[#91656](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=76716622)|Disability Experience Team 2|0781 Post-Submission Failure Email|
 |9/12/24 |4.3 -In progress|[#89474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89474) [89576](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89576)|Disability Experience Team 2|ITF and Missing Information Error Messages|
+|10/11/24 |4.4 -In progress|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|
 
 
 ## 526 BDD Product Guide Ticket History
@@ -54,3 +56,4 @@ Make any requested changes and update in sharepoint. They will typically look th
 |8/22/24 |3.1|[#89173](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=72805124)|Disability Experience Team 2|Post-Submission Failure Email|
 |8/28/24 |3.2|[#91656](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/2?filterQuery=&sliceBy%5Bvalue%5D=nnicholas7&pane=issue&itemId=76716622)|Disability Experience Team 2|0781 Post-Submission Failure Email|
 |9/12/24 |3.3 -In progress|[#89474](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89474) [89576](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89576)|Disability Experience Team 2|ITF and Missing Information Error Messages|
+|10/11/24 |3.4 -In progress|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|

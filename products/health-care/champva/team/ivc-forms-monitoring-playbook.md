@@ -18,7 +18,7 @@ This playbook is for IVC Forms team members responding to Datadog Missing Pega S
 When this monitor is triggered, follow these steps.
 
 Intake
-- Notify IVC Forms team product manager (PM) and delivery manager (DM) to open an incident ticket for the IVC Forms team
+- Notify IVC Forms team product manager (PM) and delivery manager (DM) to open an incident ticket ([example here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94827)) for the IVC Forms team
 - PM and DM will confirm ticket creation and assign ticket to an engineer
 
 Investigation

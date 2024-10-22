@@ -7,14 +7,19 @@
 - **[Business and legislative requirements tracker (SharePoint)](https://dvagov-my.sharepoint.com/:x:/g/personal/robert_meehan3_va_gov/EdTXJw53krNIt1qysxRDLwABl1cbCz0Hi4fYhzyxSoEVmA?e=8R3ypc)**
 - **[CC DVSS Process Flow](https://dvagov-my.sharepoint.com/:u:/g/personal/robert_meehan3_va_gov/EZ8ifg_TwetKmevHKDieolABMkHlo2Ovtt4NOrxB5Fb10Q?e=v4nRRy)**
 
-### Other artifacts 
-
+### Artifacts 
+#### Product Artifacts
 - [Initiative SharePoint Site](https://dvagov.sharepoint.com/:f:/s/HealthApartment/EsTqWKP_0G1PuMla1iiyr9kBfiuSpcQxUodT9n1WLqIj7g?e=p9TaHh)
 - [MVP Scope Slack Canvas](https://dsva.slack.com/docs/T03FECE8V/F07NVM3B9NG)
-- [Care Nav API Endpoints (SharePoint)](https://dvagov.sharepoint.com/:x:/s/HealthApartment/EVXEu66555xIs5UMghBrAvIBjUuwc-AMyLC_YsCmTJfQbg?e=Ec9AuH)
+
+#### Design Artifcats
 - [Figma designs](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=2490-44318&t=4E3sLy8lYzxyOpUL-1)
 - [User and data flows (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/r/1675718737504?folderUuid=30f4b508-9720-4ebf-8105-40700da3c6aa)
-- [Requesting access to referrals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/referral/access-to-planatir.md)
+
+#### Engineering Artifacts
+- [Care Nav API Endpoints (SharePoint)](https://dvagov.sharepoint.com/:x:/s/HealthApartment/EVXEu66555xIs5UMghBrAvIBjUuwc-AMyLC_YsCmTJfQbg?e=Ec9AuH)
+- [External Referral Appointment Scheduling System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/community-care-technical-documentation.md)
+- [Requesting access to Palantir for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/referral/access-to-planatir.md)
 
 ## Overview
 

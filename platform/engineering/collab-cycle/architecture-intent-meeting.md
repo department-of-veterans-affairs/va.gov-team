@@ -30,7 +30,7 @@ In addition, you should review the security checklist below the template and mak
 
 Your document should be brief and high-level.  Please keep it to a single page.  Focus on the high level and link to supporting material where appropriate; this is _not_ a detailed engineering spec.
 
-TODO: specify format for these docs and where they should live
+A [template document in markdown](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/template.md) has been provided with instructions on where to commit your completed checklist.
 
 Some of the items below may not apply to your work--that's okay.  You may not be able to fill in some items that _do_ apply to your work--that's also okay.  If you don't have answers, please come ready to ask questions.
 
@@ -85,7 +85,6 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Are there any other security concerns about your project that you want to discuss?
     + What [threat modeling][threats] have you done, and how did the results influence your planned architecture?
 
-TODO: provide this checklist as a document template in a separate file
 
 ## Security checklist
 
@@ -122,7 +121,7 @@ This checklist is by no means a comprehensive list of all applicable security pr
 
 ## How to schedule the Architecture Intent meeting
 
-TODO: use [Design Intent][DI] as a template
+Use [Calendly](https://calendly.com/collaboration-cycle/architecture-intent?month=2024-09) to schedule an Architecture Intent touch point.
 
 <!----------------------------------------------------------------------------->
 

@@ -10,6 +10,8 @@
   * POs confirm Epic priorities
      * Triage new Experience Team work
    
+  * Review [SEV-1 & SEV-2 Bugs](https://github.com/department-of-veterans-affairs/va-mobile-app/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug%20label%3Asev-1%2Csev-2)
+   
   * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
      * Call out any Closed Epics
      * Call out unplanned work

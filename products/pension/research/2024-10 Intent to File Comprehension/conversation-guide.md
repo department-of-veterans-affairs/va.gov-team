@@ -25,7 +25,7 @@ During this study, we plan to take a trauma-informed approach by:
 
 ## **Intro (5 minutes)**
 
-Thanks for joining us today\! My name is \[Name\] and I’m part of a team working on the claims filing experience on VA.gov.
+Thanks for joining us today\! My name is \[Name\] and I’m a \[role\] working on VA.gov.
 
 To provide a little background, our team is looking to understand more about the claims filing experience on Va.gov. We’re holding a series of conversations (like this one today) to seek feedback from Veterans. 
 
@@ -41,9 +41,11 @@ For those of you who just joined, can you come off-camera briefly to introduce y
 
 This entire session should take about 60 minutes. To ensure we're able to touch on all the topics we're hoping to cover, I may occasionally prompt you to keep the conversation on track.
 
-In this session, we want to hear your honest opinions. There are no right or wrong answers and we are not evaluating you. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+In this session, we want to hear your honest opinions. I welcome any and all of your feedback, and I won't be offended by any opinions you express. There are no right or wrong answers and we are not evaluating you. If you ask questions, I may ask them back to you so that we can understand your perspective better. But if you feel stuck, I’m here to help so that you feel comfortable to participate. 
 
-Your participation in this interview is completely voluntary. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, please let me know. You will be compensated for the session even if you need to stop.
+You'll be interacting with a mobile prototype. This may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. Since it's a simulation, none of your actions will affect your actual VA information or benefits.
+
+Your participation in this interview is completely voluntary. If you would like to stop the session or do not want to answer a question for any reason at any time, please let me know. You will be compensated for the session even if you need to stop.
 
 One last thing. Are you comfortable if I record the screen and audio as we talk today? We capture these recordings to ensure we're able to capture your opinions accurately. Recordings are deleted after we complete analysis, and none of the comments from the recordings will be attached to your name.
 
@@ -53,9 +55,9 @@ If yes: Once I start recording, I am going to confirm that you are okay with me 
 
 I have started recording. Just to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-I’d like to share an overview of what today’s conversation will look like: We’ll start with a few questions about your past claim filing experiences with the VA, and then we’ll spend the majority of our time together asking you to walk us through your experience using a prototype that we’ll share with you shortly. Do you have any questions about this?
+I’d like to share an overview of what today’s conversation will look like: We’ll start with a few questions about your past claim filing experiences with the VA, and then we’ll spend the majority of our time together asking you to walk us through 3 scenarios using the prototype we’ll share with you shortly. Do you have any questions about this?
 
-## **Warm-up (5-10 min)**
+## **Warm-up (5-10 min) until \[time\]**
 
 *Goal: Understand Veterans' existing mental model (if any) of ITF*
 
@@ -72,7 +74,7 @@ For participants who **have not** previously filed a claim on VA.gov
     * If yes, what resources have you used to learn more about filing a claim (i.e. accredited representative, personal networks, VA.gov, Google, etc)?   
   * Have you used VA.gov before? If yes, what have you used it for?
 
-For **all** participants
+—------------
 
 * Are you familiar with the phrase “intent to file”?  
   * \[If yes\] If you had to describe intent to file to a fellow Veteran, what would you say?  
@@ -82,29 +84,35 @@ For **all** participants
   * \[If applicable\] Tell me about your last experience with intent to file.  
     * \[If they’ve filed an ITF before\] What informed your decision to file an intent to file? How did you go about filing one? What questions did you have?
 
-## **Task: Starting a new application (10-15 min)**
+## **Task: Starting a new application (10-15 min) until \[time\]**
 
-*Goal: Validate when and how intent to file messaging might be effective for Veterans*
+*Goal: Learn when and where ITF messaging would be most effective and beneficial for Veterans*
 
-Now I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder \- it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
+Now I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. 
 
 * *Send link to prototype in Zoom chat*  
 * *If user is on mobile, tell them to tap the three dots that say "More" and then select Chat from the menu to access the link that was sent*  
-* *Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu*
+* *Ask participant to share their screen by selecting the Share button*   
+  * *\[if Desktop\] in the middle of the bottom menu*  
+  * *\[if Mobile\] You may need to scroll at the bottom menu to see the “Share” button. Tap “Share”, then scroll down to tap “Screen”. Then, tap “Start” or “Start Broadcast”. You can swipe my video to the side of the screen so that we can see how you’re interacting with it.* 
+
+Just a reminder \- it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype. We’re testing the prototype, not you, so interact with it as you would if we weren’t here, and feel free to point out anything that you didn’t expect.  
 
 Scenario: Thanks for sharing your screen. Before you start scrolling through the prototype, I’m going to provide you with a scenario to keep in mind as you review and click through the prototype.
 
-I want you to imagine you are learning about Veterans Pension benefits, and you reached this page because you’ve decided that you want to start a pension application
+I want you to imagine you are learning about Veterans Pension benefits. You’ve signed into VA.gov, and you reached this page because you’ve decided that you want to start a Veterans Pension application.
 
 I’ll give you some time to review this page–please feel free to talk out loud as you review.
 
 * \[Probe if needed\] What do you think is the purpose of this message?  
 * Is there anything confusing about the message here?  
-* In your own words,  what do you think this page is telling you?  
+* In your own words, what do you think this is telling you?  
 * What does “back payments” mean to you? Is there a different word, or words, that you would use?  
 * Before you continue, what do you think will happen next? 
 
-Go ahead and start an application, and talk aloud as you go.
+Go ahead and continue as you would, and talk aloud as you go.
+
+* On the previous screen, you mentioned that you expected to see \[...\]. How does this page compare to those expectations?
 
 Success Criteria: 
 
@@ -112,24 +120,28 @@ Success Criteria:
 * They mention an earlier start date for benefits or payments  
 * They mention backpay or back payments
 
-## **Task: ITF successfully created (5-10 min)**
+## **Task: ITF successfully created (5-10 min) until \[time\]**
 
-*Goal: Learn about Veteran expectations and comprehension of the relationship between the intent to file process in the context of the Veteran's application*
+*Goal: Learn when and where ITF messaging would be most effective and beneficial for Veterans*
 
-* Walk me through what you see on this page.   
+* Walk me through what you would do on this page.  
 * What do you think is the purpose of this page?  
-* Based on what you see here, what does the information on this page tell you about your application?
-  * In your own words, how does intent to file relate to your application?
-  * If you’re eligible for benefits, when would your benefits start?  
-  * When do you need to complete your application by?  
-     * Why?
-* How would you use this information?  
-* What would you do next? Where would you go from here?  
-* What stands out to you?   
+* Based on what you see here, what does the information on this page tell you about your application?  
 * Is there anything you expect to see here that you don't? Is anything confusing?  
 * What questions do you have, if any?  
+* What stands out to you? 
+
+Before we move on:
+
+* How would you use this information?  
 * What would you do if you wanted more information?  
-* What would you expect to happen next?
+* What would you do next? Where would you go from here?  
+* What do you expect to happen next?  
+* In your own words, how does intent to file relate to your application?  
+  * What do these dates mean to you?  
+  * If you’re eligible for benefits, when would your benefits start?  
+  * When do you need to complete your application by?  
+    * Why?
 
 Success Criteria: 
 
@@ -140,82 +152,68 @@ Success Criteria:
   * if they do not complete the application by the expiry date, they miss out on more retroactive payments  
 * They mention their next step as continuing the application, or clicking “Continue”
 
-## **Task: Returning to an in-progress application (10-15 min)**
+Now we’ll move onto the next scenario. I want you to imagine the same scenario – that you’re learning about Veterans Pension benefits, and you’ve decided that you want to start an application for the first time.
 
-*Goal: Validate existing in-progress application information and standards*
+## **Task: Endpoint is unavailable (5-10 min) until \[time\]**
 
-Now I'm going to ask you to open a prototype from a link I'll post in the chat and have you share your screen. Just a reminder \- it'll be very helpful if you think out loud and share what's on your mind as much as possible as you're looking at the prototype.
+*Goal: Learn when and where ITF messaging would be most effective and beneficial for Veterans*
 
-* *Send link to prototype in Zoom chat*  
-* *If user is on mobile, tell them to tap the three dots that say "More" and then select Chat from the menu to access the link that was sent*  
-* *Ask participant to share their screen by selecting the green Share Screen button in the middle of the bottom menu*
+* Walk me through what you would do on this page.  
+* Is there anything you expect to see here that you don't?  
+* What questions do you have, if any?
 
-Scenario: Thanks for sharing your screen. Before you start scrolling through the prototype, I’m going to provide you with a scenario to keep in mind as you review and click through the prototype.
+Before we move on:
 
-I want you to imagine you previously started an application for Veterans Pension benefits a few months ago, and you reached this page because you’ve decided that you’re ready to continue working on your in-progress application.
+* How would you use this information?  
+* What would you do if you wanted more information?  
+* What would you do next?   
+* What does “potential start date” mean to you?   
+  * When do you think it is?
+
+Success Criteria: 
+
+* They mention their next step as continuing the application  
+* They understand that their potential start date may not be today (the day they started)
+
+## **Task: Returning to an in-progress application (10-15 min) until \[time\]**
+
+*Goal: Learn when and where ITF messaging would be most effective and beneficial for Veterans*
+
+For the last scenario, I’d like you to imagine you previously started an application for Veterans Pension benefits a few months ago, and you reached this page because you’ve decided that you’re ready to continue working on your in-progress pension application.
 
 I’ll give you some time to review this page–please feel free to talk out loud as you review.
 
-* Walk me through what you see on this page.   
-* Based on what you see here, what does the information on this page tell you about your application?
-* When was the last time you worked on your application?
-* When do you need to complete your application by? Why?
-* What questions do you have, if any? Is anything confusing?
-   * Where would you go for more information?
-* What would you do next?
+* Walk me through what you would do on this page.   
+* Based on what you see here, what does the information on this page tell you about your application?  
+* When was the last time you worked on your application?  
+* When do you need to complete your application by? Why?  
+* What questions do you have, if any? Is anything confusing?  
+  * Where would you go for more information?  
+* What would you do next?  
 * What would you expect to happen next?
 
 Go ahead and continue to work on your application, and talk aloud as you go.
+
+So in this scenario, let’s say that you’re done working on your application for now. Before you continue:
+
+* What do you expect to happen next?  
+* How did this match your expectations?  
+* What stands out to you?  
+* Is there anything you expect to see here that you don’t?
 
 Success Criteria: 
 
 * They mention the correct date the application was last saved  
 * They mention the correct expiry date
 
-## **Task: Existing ITF returned (5-10 min)**
-
-*Goal: Validate that the application details provided are sufficient for Veterans to continue their application*
-
-Before you review this page, I want to provide some context. I want you to imagine that we are now at the section in the application where you last left off, which is the household information section. I’ll give you some time to review this page–please feel free to talk out loud as you review.
-
-* Walk me through what you see on this page.   
-* Is this what you expected to see?
-* Is there anything you expect to see here that you don't?
-* When do you need to complete your application by?  
-  * Why?  
-* What questions do you have, if any?
-
-Success Criteria: 
-
-* They mention the correct expiry date
-
-## **Task: \[Starting or returning\] Endpoint is unavailable (5-10 min)**
-
-*Goal: Validate that the application details provided are sufficient for Veterans to continue their application*
-
-On the previous screen, you received information about your intent to file being successfully \[created/retrieved\].
-
-In this final scenario, I want you to imagine that instead of the messaging on the previous screen, you see this screen instead.
-
-* Walk me through what you see on this page.   
-* How would you use this information?  
-* What would you do next?  
-* Is there anything you expect to see here that you don't?
-* What questions do you have, if any?  
-* What would you do if you wanted more information?  
-
-Success Criteria: 
-
-* They mention their next step as continuing the application
-
 ## **Wrap-Up & Thank You (5-10 min)**
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback and perspective is so helpful to us as we continue to improve the experience of applying for benefits.
 
+* How, if at all, did today’s experience impact your understanding of intent to file?  
 * What did you think of that process?  
   * What would you change, if anything?   
 * Is there anything that could have been easier?  
-
 * As we wrap up our conversation today, is there anything else that you’d like to share with me today?  
 * Do you have any questions for me?
 
@@ -224,39 +222,3 @@ Those are all of the questions we had for today\!
 Lastly, so you’re aware, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again for your time, and enjoy the rest of your day\!
-
-## Pause or exit strategies
-
-We can use this strategies to prepare for difficult situations.
-
-### If the participant isn't feeling well
-
-I'm sorry you're [not feeling well]. Do you feel up for continuing? You'll be paid even if we stop early.
-
-> If they choose to continue...
-
-Okay, just let me know if you change your mind.
-
-### If the participant is showing signs of upset or distress
-
-This sounds so hard. Would you like to take a break or stop?
-
-> If they choose to take a break and come back...
-
-Welcome back. I'm interested to hear more about [topic you left off on]. Are you up for continuing or would you prefer we move to the next topic?
-
-### If the participant decides to stop
-
-Thank you for your time today, I completely understand your decision to stop.
-
-> If they seem distressed...
-
-Before you go, the VA Hotline number is 988, it's a confidential helpline, and it's 24/7. It's up to you whether you call.
-
-### If the participant is fine to continue, but you aren't
-
-I hear that you're okay to continue. Before we do, I realized that I need a minute. I'm going to turn off my camera and microphone, and get a glass of water. Is that okay with you? I'll be back in 3 minutes.
-
-> If you're still not able to continue, after you pause...
-
-Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.

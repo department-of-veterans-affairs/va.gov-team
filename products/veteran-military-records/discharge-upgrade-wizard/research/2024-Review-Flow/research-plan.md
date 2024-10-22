@@ -7,7 +7,7 @@ on an experimental design for editing questions with branching logic and this st
 
 - [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/initiatives/2024-discharge-upgrade-wizard-subtask/initiative-brief.md)
 - [Link to secondary research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/secondary-research.md)
-- Link to card in research repo (when available)
+- [Link to card in research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/704)
 
 ### OCTO Priorities
 This research aligns with the following [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md):
@@ -59,7 +59,7 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts please.
 
 ### Research materials
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/research/2024-Review-Flow/conversation-guide.md)
-- [Link to DUW in production](https://www.va.gov/discharge-upgrade-instructions)
+- [Link to DUW in staging](https://staging.va.gov/discharge-upgrade-instructions/introduction)
 - [Link to Research Notetaking Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726091853497/11d98e6ba53e1a738c258f67c2671a8e43d7908c?sender=u01810f3edbfc878c08be5925)
 
 ## Recruitment
@@ -139,22 +139,29 @@ has a working microphone. What kind of device will you be using? (RECORD)
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins
-and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
+Before recruitment starts, we would like to request a kickoff call with Perigean to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.
+
+Jordan is available for a kickoff call during any of these times:
+
+- Fri Oct 11, 1 - 5 pm ET
+- Mon Oct 14, 1 - 5 pm ET
+- Tue Oct 15, 12 - 2 pm ET
+
+Please invite Jordan (jordan.wood@civicactions.com), Dave (dave.pickett@civicactions.com), and Amanda (amanda.klausmeier@va.gov) to the kickoff call.
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot
 session.
 
 **Pilot 1**
-- Pilot participant email:
-- Date and time of pilot session: Between Oct 7-15
+- Pilot participant email: Bryan Thompson (bryan.thompson@agile6.com)
+- Date and time of pilot session: Oct 15, 5:30 pm ET
 
 **Pilot 2 (with AT user)**
-- Pilot participant email:
-- Date and time of pilot session: Between Oct 7-15
+- Pilot participant email: Sarah Koomson (Sarah.Koomson@oddball.io) on a screen reader
+- Date and time of pilot session: Oct 16, 2 pm ET
 
 ### Research sessions
-- Planned dates of research: Oct 22 - Oct 30, 2024
+- Planned dates of research: Oct 22 - Nov 1, 2024
 
 ### Length of sessions
 - Session length: 1 hour
@@ -170,12 +177,13 @@ session.
 
 Team Availability | Time Slots (ET--all pm)
 ------------------|--------------
-Oct 22, 2023 | 1-6 pm 
-Oct 23, 2023 | 2-6 pm
-Oct 24, 2023 | 2-3, 5-6 pm 
-Oct 25, 2023 | 12-6 pm
-Oct 28, 2023 | 12-6 pm
-Oct 30, 2023 | 1-6 pm
+Oct 22, 2024 | 1-6 pm 
+Oct 23, 2024 | 2-6 pm
+Oct 25, 2024 | 12-5 pm
+Oct 28, 2024 | 12-6 pm
+Oct 30, 2024 | 2-6 pm
+Oct 31, 2024 | 12-4:30 pm
+Nov 1, 2024 | 12:30-5 pm
 
 ## Team Roles
 Please list the people who will be serving in each role.
@@ -183,10 +191,11 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator): Jordan Wood, Dave Pickett
 - Participant recruiting & screening: Perigean
 - Project point of contact: Jordan Wood, Dave Pickett
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: Bryan Thompson and Sarah Koomson
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Laura Flannery (laura.flannery@civicactions.com)
 - Note-takers: Perigean
 - Observers: TBD
 
 ## Approvals
-- Amanda Klausmeier (Sitewide UX/UI Lead) on September 25, 2024
+- Amanda Klausmeier (VA UX lead) on October 8, 2024
+- Shane Strassberg (VA Research Ops) on October 9, 2024

@@ -25,27 +25,34 @@
 - [Resources Developed outside the CIE Team](#resources-developed-outside-the-cie-team)
 
 ## Team Members
-- OCTO health pod
-    - Kay Lawyer (PO)
-    - Kristen McConnell (UX)
-    - Stephen Barrs (Eng)
-- Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
-- Delivery Manager & Scrum Master - [Anita Halici](https://dsva.slack.com/archives/D055G32ES79)
-- UX Researchers & Designers
-  - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
-  - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
-  - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
-- Full Stack Engineers
-  - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
-- Frontend Engineers
-  - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
-  - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
-- Backend Engineers
-  - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
-  - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
-- DevOps Engineers
-  - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
-  - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
+- Management
+    - OCTO
+        - Kay Lawyer (PO)
+        - Kristen McConnell (UX)
+        - Stephen Barrs (Eng)
+    - Product
+        - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
+    - Delivery
+        - [Anita Halici](https://dsva.slack.com/archives/D055G32ES79)
+- UX
+    - Research
+      - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
+    - Design
+      - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)  
+- Engineering
+    - Full Stack
+      - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
+    - Front End
+      - [Brian Seek](https://dsva.slack.com/team/U02FLCLQ6J2)
+      - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
+    - Back End 
+      - [Gaurav Gupta](https://dsva.slack.com/team/U02DB4BC10F)
+      - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
+    - Native Mobile App
+        - [Juan Castillo](https://dsva.slack.com/archives/D07QU9YQ7HA)
+    - Dev Ops
+      - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
+      - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
 
 ## Terminology
 - **Pre-Registration:** The verification of up to date insurance information, contact information, next of kin, and emergency contact information for VA medical appointments. As a VHA Directive, pre-registration must be completed at least once within 7 days of an appointment and does not need to be completed again if another appointment is within 7 days of its completion.  

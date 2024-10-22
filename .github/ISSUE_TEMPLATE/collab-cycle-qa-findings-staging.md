@@ -53,6 +53,10 @@ assignees: ''
 - [ ] Standard has been met
 - [ ] Standard has not been met
 ##### Explanation of failure to meet standard (if applicable): #####
+#### Logging Silent Failures
+- [ ] Standard has been met
+- [ ] Standard has not been met
+##### Explanation of failure to meet standard (if applicable): #####
 ---
 
 ### Next Steps for the VFS team

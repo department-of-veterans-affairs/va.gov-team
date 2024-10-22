@@ -4,6 +4,7 @@ about: Template to create an Epic for the CIE team
 title: TBD
 labels: HCE-Checkin
 assignees: ''
+type: Epic
 
 ---
 

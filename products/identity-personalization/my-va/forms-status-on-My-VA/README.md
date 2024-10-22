@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: July 30, 2024 - updates to scope**
+**Last updated: October 17, 2024 - updated key dates**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -110,13 +110,12 @@ There are two (potentially three) major components of work to address these prob
 - Create more confusion around form status and failures/errors.
 
 ## Security
-[Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-security-playbook.md)
+- Security playbook: [Forms Status security playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/launch-materials/forms-status-on-my-va-security-playbook.md)
+- [System monitoring playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/auth-experience/playbooks/monitoring.md#system-monitoring-playbooks)
+
 
 ## Measuring Success
 The primary goal of this MVP is to reduce silent submission failures in the form/application submission process.
-
-### Objectives & Key Results
-TK TK
 
 ## Key deliverables
 
@@ -134,8 +133,8 @@ TK TK
 - June 2024: Usability Study
 - September 24, 2024: QA
 - October 4, 2024: Staging Review
-- ____: internal UAT
-- ____: Begin phased launch
+- October 10, 2024: internal UAT
+- October 17, 2024: Begin phased launch (25%)
 - ____: Launch to 100%
    
 ## Screenshots
@@ -148,7 +147,7 @@ TK TK
 TK
 
 ### After
-**TBD NAME section on My VA**
+**Benefit Applications and Forms section on My VA**
 TK
 
 **VFF confirmation page**

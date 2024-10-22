@@ -176,6 +176,9 @@ Benefits Dependents Experience Team:
 - VBA Stakeholders and SMEs: Daivd Reis, Brandi Traylor, Angela Moritz
 - CAIA Team (content review)
 
+#### Privacy officer
+- Lakisha Wright (lakisha.wright@va.gov)
+
 ---
 <sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
 <sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)

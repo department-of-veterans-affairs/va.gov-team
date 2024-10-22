@@ -295,7 +295,7 @@ At the end of the PTSD/MST flow Veterans are asked the POW question directly, wi
 * Explore redesign of ancillary form 4142.
 * Build transparency.
     * Explain how PMR is collected by the VA– especially for Veterans with older records.
-    * Identify how the Claims Processing Tool can help Veterans understand and track documentation collection.  
+    * Identify how the Claims Status Tool can help Veterans understand and track documentation collection.  
     * Allow Veterans to continue past required fields (but block them from submitting before the application is complete).
 * Reduce abandonment.
     * Provide a printable claimed condition list to Veterans who opt to collect their records. 

@@ -1,16 +1,24 @@
 ## Background
+As a Veteran, I want to easily edit prefilled form information and have it save to my profile, so I can keep my profile up to date.
 
-As a Veteran, I want to easily edit my profile, so I can keep my profile up to date.
+There are several different 'profiles' users can edit across the various VA platforms and products, with the main profile found at va.gov/profile. This is the profile we will be referring to. During our research into the Prefill Form Data pattern, we discovered that users may find outdated profile data that has been prefilled and want to correct it, so as part of this pattern we will aim to provide an easy way to update that profile data when completing a prefilled form.
 
-There are several different 'profiles' users can edit across the various VA platforms and products, with the main profile found at va.gov/profile. We aim to conduct research into these, document the gaps between them and propose a path to unification and consistency. For example, there exists an 'Emergency Contact' section within the profile on one platform, but this data is not stored in other VA profiles. 
-
-During our research into the Prefill Form Data pattern, we discovered that users may find outdated profile data that has been prefilled and want to correct it, so as part of this pattern we will aim to provide an easy way to update that profile data when completing a prefilled form. 
+NOTE: We considered having this pattern be "review" or "confirm" and update, but ultimately decided that the viewing of the prefilled information belonged in the Help users to... Know when their information is prefilled pattern.
 
 ## Hypothesis
-This pattern will tie in closely with the prefill form pattern and knowing where and how to update out of date information when forms are prefilled. We believe that creating improved personal profile maintenance interfaces will:
+This pattern will tie in closely with the prefill form pattern and knowing where and how to update out of date information when forms are prefilled. We believe that creating improved personal profile maintenance interfaces will help users to:
+- Update their prefilled information
+- Know where those updates were saved to
+- Understand why they can not update certain information
+
+## Outcomes
 - Improve and maintain data quality within user profiles
 - Promote consistency in how profile data is updated across VA platforms
 - Reduce cognitive load and friction when updating their profile data
+
+
+
+
 
 
 ## Discovery
@@ -46,11 +54,11 @@ During our [discovery](https://github.com/department-of-veterans-affairs/va.gov-
 ### What're you building
 
 We believe this pattern may consist of:
-- consistent presentation of profile fields across all VA products
-- directions to update profile data
-- page-level alerts
-- inline alerts
-
+- one or more content updates within existing components and guidance including:
+    - messaging about how to edit a prefilled field
+    - messaging about where your updates will save
+    - messaging about how why fields are not editable online
+- one or more updates to the visual user flow of editing a prefilled field
 
 --- 
 
@@ -60,11 +68,14 @@ We believe this pattern may consist of:
 
 - Kickoff ticket
 
+### Finalized Pattern
+We have completed our research study and finalized our recommendations for this pattern which can be found (here)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/patterns/update-prefilled-information/Help-users-to-Update-prefilled-information.md]
+
 ### Timeline 
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - Oct. 15, 2024
+  - Nov. 19, 2024
 - *Actual Launch Date* 
   - tbd
 

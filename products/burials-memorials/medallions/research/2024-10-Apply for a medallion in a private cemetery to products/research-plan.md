@@ -8,7 +8,7 @@ The paper form application for a medallion is available for eligible Veterans an
  
 We will be conducting usability testing using interactive designs of a new Medallions form, and with a solution for multiple signatures. This is to ensure it meets the needs of VA.gov users, and that it can provide NCSO analysts with clean, accurate data.  
 
-[link to product brief] 
+ [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/medallions/research)
 
  
 ### OCTO Priorities  
@@ -87,7 +87,7 @@ We’d like to recruit 10 participants for a total of 8 completed sessions. We�
 
 Requested date/time: Oct 4, 1:30 p.m.-3:00 p.m. 
  
-**Primary criteria (must-haves) ** 
+**Primary criteria (must-haves)** 
 - Amount: Target is 8 participants but recruit 10 
 - Age ranges:  
     * Around 70% 55+ - 7 participants 
@@ -113,10 +113,10 @@ Requested date/time: Oct 4, 1:30 p.m.-3:00 p.m.
 - Participants must be able to use Zoom, locate and use the chat function in Zoom, and to share their screen through Zoom 
 - At least 3-4 people who will use a mobile device during the research session (tablet is ok too) 
   
- **Secondary criteria (nice-to-haves) ** 
+ **Secondary criteria (nice-to-haves)** 
 None. 
  
-**Screener questions to target criteria not captured in the recruitment sign-up survey: ** 
+**Screener questions to target criteria not captured in the recruitment sign-up survey:** 
  
 1. Which of the following describes your relationship to a Veteran?  
 - I am a family member of the Veteran  
@@ -147,7 +147,7 @@ When will the thing you are testing be finalized? Ideally, it’s after going th
  
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.  
 * Pilot participant email: santiago_kenneth@bah.com 
-* Date and time of pilot session: TBD 
+* Date and time of pilot session: 10/11/2024, 1 p.m. 
  
 **We also need a kick-off meeting with Perigean for recruiting as soon as possible. Our availability is flexible for this. **  
 - Requested dates/times for kick-off meeting (ET): 10/08/2024
@@ -162,7 +162,32 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Maximum Sessions per day: 4-5 
  
 ### Availability 
- 
+
+## Available times
+- 10/15: 9:00 a.m. - 9:45 a.m. EST
+- 10/15: 10:15 a.m. - 11:30 a.m. EST
+- 10/15: 12:00 p.m. - 12:45 a.m. EST
+- 10/15: 1:15 p.m. - 2:00 p.m. EST
+- 10/15: 2:30 p.m. - 3:15 p.m. EST
+
+- 10/16: 9:00 a.m. - 9:45 a.m. EST
+- 10/16: 10:15 a.m. - 11:30 a.m. EST
+- 10/16: 12:00 p.m. - 12:45 a.m. EST
+- 10/16: 1:15 p.m. - 2:00 p.m. EST
+- 10/16: 2:30 p.m. - 3:15 p.m. EST
+
+- 10/17: 9:00 a.m. - 9:45 a.m. EST
+- 10/17: 10:15 a.m. - 11:30 a.m. EST
+- 10/17: 12:00 p.m. - 12:45 a.m. EST
+- 10/17: 1:15 p.m. - 2:00 p.m. EST
+- 10/17: 2:30 p.m. - 3:15 p.m. EST
+
+- 10/18: 9:00 a.m. - 9:45 a.m. EST
+- 10/18: 10:15 a.m. - 11:30 a.m. EST
+- 10/18: 12:00 p.m. - 12:45 a.m. EST
+- 10/18: 1:15 p.m. - 2:00 p.m. EST
+- 10/18: 2:30 p.m. - 3:15 p.m. EST
+
 ## Team Roles	 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker. ** 	 
 - Moderators:  
@@ -176,9 +201,11 @@ Please list the people who will be serving in each role. **Include the primary p
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Not required for this study 
 - Note-takers: Perigean 
 - Observers (limiting 3-4 of the following people per session):  
-- Rhonda Jones (rhonda.jones1@va.gov) 
 - Sathish Kadiresan (sathish.kadiresan@va.gov) 
-- Michelle Dieudonne Yenyo (dieudonneyenyo_michelle@bah.com) 
-- Kelby Stewart (stewart_kelby@bah.com) 
+- Michelle Dieudonne Yenyo (Michelle.DieudonneYenyo@va.gov) 
+- Kelby Stewart (Kelby.Stewart@va.gov)
+- Jessica Downs-Bowen (Jessica.Downs-Bowen@va.gov)
 - Ginger Wilson (ginger.wilson@va.gov)
-- TBD
+- William Rodgers (William.Rodgers2@va.gov)
+- Jamie Klenetsky Fay (Jamie.KlenetskyFay@va.gov)(only for the Wednesday at 11:30 a.m. session)
+- Sara Smith (sara.smith23@va.gov) (only for the Wednesday at 11:30 a.m. session)

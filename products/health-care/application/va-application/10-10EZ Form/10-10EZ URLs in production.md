@@ -1,18 +1,16 @@
 # 10-10EZ form URLs in production
-- As of 09/16/2024 - updated by @hdjustice
+- As of 10/3/2024 - updated by @hdjustice
+     - Added Reg Only experiment pages in prod on 10/3
 
 - Reference [URLs in production prior to 5/6/2024, before root URL change](#urls-in-production-prior-to-562024-before-root-url-change)
-- Coming soon for Reg Only:
-     - Unauthenticated: After the `basic-information` page - www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits/benefits-package
-          - Then upon selecting Registration: www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits/service-connected-care
-     - Authenticated: After the `check-your-personal-information` page - www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits-package
-          - Then upon selecting Registration: www.va.gov/health-care/apply-for-health-care-form-10-10ez/care-for-service-connected-conditions
 
 |URL|
 |----|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/id-form|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/check-your-personal-information|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits-package|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/care-for-service-connected-conditions|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/birth-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/maiden-name-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/birth-sex|
@@ -21,6 +19,8 @@
 |www.va.gov/health-care/aapply-for-health-care-form-10-10ez/veteran-information/veteran-home-address|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/contact-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits/basic-information|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits/benefits-package|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits/service-connected-care|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits/pension-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/military-service/service-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/military-service/additional-information|

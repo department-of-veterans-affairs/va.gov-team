@@ -41,24 +41,17 @@ This reporting will seek to keep all stakeholders informed of the rollout's prog
  </details>   
 
 ## Reporting Schedule
-_Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. Medallia data will reviewed at the midpoint (around 50%) and end (100%) of the 1.0 and 1.1 rollouts._
-_
-<details>
-  <summary>Click to expand provisional reporting schedule (not source of truth)
-  </summary>
+Success metrics from GA4 will be updated in this document at the end of each increment of the rollout, starting with 5%. 
 
-|**Rollout %**|**Dates of rollout (Based on [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000))**|GA4 reporting date | Medallia +Contact Center request
-|--|--|--|--|
-|5%| Aug 28 | Sept 3 [Validation of success metrics below](#526ez-success-metrics)| 
-|10%| Sept 5 - 15 | |
-|25% | Sept 16 - Sept 26 ||
-|50%|TBD| TBD |Request on Sept 20|
-|75%|TTBD| TBD|
-|100%|TBD| TBD| Request on TBD|
+Medallia and MyVA411 data will reviewed throughout the rollout at 1.0 25%, 1.0 100%, and 1.1 75%. 
 
-</details>
+For dates of the rollout, please see the [release plan calendar](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721757550661/f347c9e1144d8093a8b75d4da6dae2b9c0bd42ad?sender=u9f3830b1ee3516bdcf2e2000).
+
 
 ## Top Takeaways
+<details>
+  <summary>Click to expand UX Insights for 5-25% rollout of 1.0 </summary>    
+    
 _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave together insight across Contact Center (MyVA 411), Medallia, and GA4 to highlight trends in user experience of the new Toxic Exposure feature._    
 ### #1: Early success metrics indicate that half of Veterans are entering the Toxic Exposure flow--and that very few abandon.
 - TE Opt-in rate for 25% was 48%, a 10% increase over 5% canary. Furthermore, TE page abandonment was low, averaging just 1.3%
@@ -87,10 +80,10 @@ Once Veterans understand the Pact Act and think they might be eligible, they are
 We still see the in progress form as a potential hotspot for problems with veterans who fill in all of the data for toxic exposure, but then find that they don't know how to recover their work. 
 > "I'm trying to finish my PACT ACT application. The system is not bringing me back to where I was in the process and it appears to be starting a new claim." -**Medallia Feedback from Veteran on RNG page**
 >
-
+</details>
 
 <details>
-  <summary>Click to expand 1.0 100% Takeaways [Future reporting]
+  <summary>Click to expand UX Insights for 1.0 100% [Future reporting]
   </summary>
 
     We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points
@@ -99,12 +92,11 @@ We still see the in progress form as a potential hotspot for problems with veter
 ## 526ez Success Metrics
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|--|
-| Abandonment rates| 33.61% | 33.61% | 0% | 1.8% | | | |  |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)|
-| TE Opt-in rate* | - | - | 38% | 48% | | | | |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)<br>[Datadog](https://vagov.ddog-gov.com/logs?query=env:%22eks-prod%22%20@http.referer:*21%5C-526ez%5C/toxic%5C-exposure*%20&agg_m=@payload.user_uuid&agg_m_source=base&agg_q=@http.referer&agg_q_source=base&agg_t=cardinality&analyticsOptions=%5B%22bars%22,%22dog_classic%22,null,null,%22value%22%5D&cols=host,service&fromUser=true&messageDisplay=inline&storage=hot&stream_sort=desc&top_n=10&top_o=top&viz=timeseries&x_missing=true&from_ts=1723791600000&to_ts=1723877940000&live=false)|
-| Submission errors | 0.96% | ≤0.96% | 0.28% | 0.48% | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
-| % of submissions that use normal path| 99.04% | ≤99.04%  | 99.72% | 99.51% | | | | | [v0 Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/y2b-q9c-7pb)<br>[LH Submit errors](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/94n-6kh-g5e) |
-| % of uses of backup path | 0.94% | ≤0.94% | 0.04% | 10% | | | | | Weekly error tracker sheet |
-| % of complete failure | 0.0001% | ≤0.0001% | 0% | 0% | | | | | Weekly error tracker sheet |
+| Abandonment rates| 33.61% | 33.61% | 0% | 1.8% |1.7% | | |  |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)|
+| TE Opt-in rate* | - | - | 38% | 48% |46.1% | | | |[GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q)<br>[Datadog](https://vagov.ddog-gov.com/logs?query=env:%22eks-prod%22%20@http.referer:*21%5C-526ez%5C/toxic%5C-exposure*%20&agg_m=@payload.user_uuid&agg_m_source=base&agg_q=@http.referer&agg_q_source=base&agg_t=cardinality&analyticsOptions=%5B%22bars%22,%22dog_classic%22,null,null,%22value%22%5D&cols=host,service&fromUser=true&messageDisplay=inline&storage=hot&stream_sort=desc&top_n=10&top_o=top&viz=timeseries&x_missing=true&from_ts=1723791600000&to_ts=1723877940000&live=false)|
+| % of submissions that use normal path| 99.04% | ≤99.04%  | 94.34% | 88.9% | 97.7% | | | | database queries |
+| % of uses of backup path | 0.94% | ≤0.94% | 5.66% | 11.07% | 2.03% | | | | database queries |
+| % of complete failure | 0.0001% | ≤0.0001% | 0% | 0% | .27% | | | | database queries |
 
 *For Veterans who saw the 2022 form version.
 
@@ -112,18 +104,18 @@ We still see the in progress form as a potential hotspot for problems with veter
  
 | Step # | TE Page| 5% | 10%| 25%| 50%|75% |100%| Data Source |
 |--|--|--|--|--|--|--|--|--|
-|Step 2| Gulf War 1990 | 0%| 3.6%  | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 3| Gulf War 2001 |0% | 0.29% |  | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 4| Herbicide | 0% | 1.4% | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 5| Additional Exposures | 0%| 0.73% | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
-|Step 5| Additional Disabilities | 0%| 0.63% | | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+|Step 2| Gulf War 1990 | 0%| 3.6%  | 3.3%| | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+|Step 3| Gulf War 2001 |0% | 0.29% | 0.2% | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+|Step 4| Herbicide | 0% | 1.4% | 0.6%| | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+|Step 5| Additional Exposures | 0%| 0.73% | 0.4%| | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+|Step 5| Additional Disabilities | 0%| 0.63% |0.4% | | | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
 
 ### Overall Form Abandonment
 **Alternative approaches we're considering:** Removing all steps that are not seen by all Veterans (such as claim type) or exploring other non-funnel models for understanding the data. 
 
 | Step # | 526 Page | Baseline | 5% | 10% | 25% | 50% | 75% | 100% |Data Source |
 |--|--|--|--|--|--|--|--|--|--|
-|Step 1| Introduction | 46.73% | 46.73% | 44.24% | | | | |  [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
+|Step 1| Introduction | 46.73% | 46.73% | 44.24% | 41.6%| | | |  [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
 |Step 7| Confirmation | - | - |  | | |  | | [GA](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Rrt3L0B2TSerwEKFm5Lk8Q) |
 
 

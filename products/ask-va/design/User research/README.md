@@ -14,7 +14,7 @@ This folder contains our user research documentation.
 |[Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/05-2024%20Dashboard)|Usability testing|May-June 2024|[#540](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/540)|
 |[Assistive tech – Form](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form)|Usability testing|August 2024|[#602](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/602)|
 |[Assistive tech – Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Dashboard)|Usability testing|September 2024|[#626](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/626)|
-|Compare form lengths|A/B test|October-December 2024||
+|Compare form lengths|A/B test|TBD||
 
 ## Questions?
 

@@ -7,45 +7,45 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 - [User statistics](#user-statistics)
 - [Top health services at system level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#top-health-services-at-system-level)
 - [Top health services at facility level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#top-health-services-at-facility-level)
+- [Manage your health online](#manage-your-health-online)
 - [Unique pageviews on required health service pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-required-health-service-pages)
 - [Unique pageviews on other specified pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#unique-pageviews-on-other-specified-pages)
 
  
 ## Satisfaction scores
 
-|	Metric| Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24	|	Jun-24	|	Jul-24	|
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| #CSAT submissions	|	210	|	165	|	189	|	181	|	183	|	207	|	243	|
-| CSAT score	|	44%	|	45.90%	|	47.60%	|	47.20%	|	49.30%	|	48.70%	|	48.20%	|
-| #VFS survey submissions	|	319	|	276	|	349	|	333	|	315	|	372	|	314	|
-| % respondents able to complete their task	|	3%	|	4%	|	6%	|	6%	|	6%	|	6%	|	23%	|
-| % overall satisfaction	|	2.12%	|	2.28%	|	2.25%	|	2.31%	|	2.23%	|	2.11%	|	2.13%	|
+|	Metric| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| #CSAT submissions	|	210	|	165	|	189	|	181	|	183	|	207	|	243	| | | 
+| CSAT score	|	44%	|	45.90%	|	47.60%	|	47.20%	|	49.30%	|	48.70%	|	48.20%	| | | 
+| #VFS survey submissions	|	319	|	276	|	349	|	333	|	315	|	372	|	314	| | | 
+| % respondents able to complete their task	|	3%	|	4%	|	6%	|	6%	|	6%	|	6%	|	23%	| | | 
+| % overall satisfaction	|	2.12%	|	2.28%	|	2.25%	|	2.31%	|	2.23%	|	2.11%	|	2.13%	| | | 
 
 ## VAMC editor and facility stats
-| Metric | January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Total # of active editors | 366 |368 |362 |392 | 408 | 424
-| Number of new editors this month |3 |5 | 4| 8 | 9
-| Total # of VAMC systems |141 | 141 |141 | 141 | 141 | | | 142 
-| Total # of VAMC facilities | 1,458 |1,461 |1,462 |1,464 | 1,470 | | | 1,480
-| Total # of VAMC system health services | 6,550 |6,559 |6,567 |6,567 | 6,593 | | | 6,663
-| Total # of VAMC facility health services | 15,856 | 15,901 |15,995 |16,067 | 16,112 | | | 16,318
+|	Metric| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Total # of active editors | 366 |368 |362 |392 | 408 | 424 |||
+| Number of new editors this month |3 |5 | 4| 8 | 9 |||
+| Total # of VAMC facilities | 1,458 |1,461 |1,462 |1,464 | 1,470 |- | -| 1,480 |1,483 | 
+| Total # of VAMC system health services | 6,550 |6,559 |6,567 |6,567 | 6,593 |- |- | 6,663 | 6,667| 
+| Total # of VAMC facility health services | 15,856 | 15,901 |15,995 |16,067 | 16,112 |- | -| 16,318 | 16,347 |
 
 ## Summary data
 
-|	Summary stats|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24 |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|	Unique users	|	1,131,378	|	1,242,502	|	1,332,982	|	1,297,523	|	1,331,023	|	1,340,938	 | 	1,268,055	 | 
-|	Total interactions    	|	1,585,767	|	1,784,288	|	1,925,043	|	1,807,007	|	1,860,168	|	1,876,171	 | 	1,778,682	 | 
-|	Total unique pageviews	|	2,439,472	|	3,217,095	|	2,892,442	|	2,810,241	|	2,872,481	|	2,880,172	 | 	2,647,086	 | 
+|	Metric| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|	Unique users	|	1,131,378	|	1,242,502	|	1,332,982	|	1,297,523	|	1,331,023	|	1,340,938	 | 	1,268,055	 | | |
+|	Total interactions    	|	1,585,767	|	1,784,288	|	1,925,043	|	1,807,007	|	1,860,168	|	1,876,171	 | 	1,778,682	 | | |
+|	Total unique pageviews	|	2,439,472	|	3,217,095	|	2,892,442	|	2,810,241	|	2,872,481	|	2,880,172	 | 	2,647,086	 | | |
 
-|	Top 5 interactions	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24 | 
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|	 Contact us 	|	 35,885 	|	 46,253 	|	 42,387 	|	 39,082 	|	 42,085 	|	40,769	 | 	36,508
-|	 Location and contact information 	|	 31,515 	|	 39,671 	|	 36,985 	|	 35,033 	|	 37,147 	|	36,279	 | 35,058	
-|	 Health services offered here 	|	 29,902 	|	 37,713 	|	 35,469 	|	 33,092 	|	 34,785 	|	32,302	 | 27,084	
-|	 Find a VA Location 	|	 27,398 	|	 33,563 	|	 32,588 	|	 31,229 	|	 32,936 	|	33,554	 | 	30,458
-|	 See all locations 	|	 24,096 	|	 30,057 	|	 26,827 	|	 27,297 	|	 27,082 	|	19,963	 | 	n/a
+|	Metric| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|	 Contact us 	|	 35,885 	|	 46,253 	|	 42,387 	|	 39,082 	|	 42,085 	|	40,769	 | 	36,508 | | |
+|	 Location and contact information 	|	 31,515 	|	 39,671 	|	 36,985 	|	 35,033 	|	 37,147 	|	36,279	 | 35,058	|||
+|	 Health services offered here 	|	 29,902 	|	 37,713 	|	 35,469 	|	 33,092 	|	 34,785 	|	32,302	 | 27,084	|||
+|	 Find a VA Location 	|	 27,398 	|	 33,563 	|	 32,588 	|	 31,229 	|	 32,936 	|	33,554	 | 	30,458|||
+|	 See all locations 	|	 24,096 	|	 30,057 	|	 26,827 	|	 27,297 	|	 27,082 	|	19,963	 | 	n/a|||
 
 ## User statistics
 
@@ -124,29 +124,43 @@ Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.dom
 ### Unique pageviews on required health service (care coordinator) pages
 (i.e., health-services/mental-health-care/) 
 
-|	Health service page	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|	Mental health care	|	 10,967 	|	 16,231 	|	 13,274 	|	 12,699 	|	13,830	|	13,598	|	17,890	|
-|	Suicide prevention	|	 1,171 	|	 2,029 	|	 2,007 	|	 1,595 	|	1,546	|	1,854	|	1,178	|
-|	Caregiver support	|	 4,716 	|	 6,795 	|	 7,479 	|	 5,247 	|	5,551	|	5,846	|	4,746	|
-|	Homeless Veteran care	|	 8,445 	|	 11,114 	|	 10,365 	|	 9,441 	|	9.429	|	10,097	|	8,845	|
-|	LGBTQ+ Veteran care	|	 2,937 	|	 4,035 	|	 3,633 	|	 3,870 	|	4,285	|	4,445	|	6,276	|
-|	Minority Veteran care	|	 537 	|	 1,337 	|	 928 	|	 1,618 	|	384	|	574	|	299	|
-|	Patient advocates	|	 26,416 	|	 34,244 	|	 26,813 	|	 25,766 	|	27,324	|	28, 205	|	26,745	|
-|	Returning service member care	|	 888 	|	 1,801 	|	 1,410 	|	 932 	|	1,058	|	1,033	|	612	|
-|	Women Veteran care	|	 4,025 	|	 6,272 	|	 5,382 	|	 5,711 	|	5,768	|	5,702	|	4,863	|
+|	Health service page	|	December 2023|	January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| :---:|
+|	Mental health care	|	 10,967 	|	 16,231 	|	 13,274 	|	 12,699 	|	13,830	|	13,598	|	17,890	| 15,697 | 14,473 | 14,277
+|	Suicide prevention	|	 1,171 	|	 2,029 	|	 2,007 	|	 1,595 	|	1,546	|	1,854	|	1,178	| 2,509 | 1,635 | 1,431
+|	Caregiver support	|	 4,716 	|	 6,795 	|	 7,479 	|	 5,247 	|	5,551	|	5,846	|	4,746	| 6,690 | 6,011 | 5,486
+|	Homeless Veteran care	|	 8,445 	|	 11,114 	|	 10,365 	|	 9,441 	|	9.429	|	10,097	|	8,845	| 11,026 | 10,631 | 10,300
+|	LGBTQ+ Veteran care	|	 2,937 	|	 4,035 	|	 3,633 	|	 3,870 	|	4,285	|	4,445	|	6,276	| 5,07 | 3,993 | 3,394
+|	Minority Veteran care	|	 537 	|	 1,337 	|	 928 	|	 1,618 	|	384	|	574	|	299	| 1,182 | 661 | 335 | 
+|	Patient advocates	|	 26,416 	|	 34,244 	|	 26,813 	|	 25,766 	|	27,324	|	28, 205	|	26,745	| 33,198 | 32,300 | 28,880
+|	Returning service member care	|	 888 	|	 1,801 	|	 1,410 	|	 932 	|	1,058	|	1,033	|	612	| 1,796 | 865 | 1,422
+|	Women Veteran care	|	 4,025 	|	 6,272 	|	 5,382 	|	 5,711 	|	5,768	|	5,702	|	4,863	| 6,867 | 5,621 | 8,042
+
+### Manage your health online 
+> assessing interactions with links in the box on health system main page
+
+| Link| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Refill and track your prescriptions|231|318|267|200|246|173|-|3,057|4,884 | 
+| Send a secure message to your health care team |139|266|157|157|124|112| -|1,485|2,472 | 
+| Schedule and manage health appointments |291|381|245|260|225|194|-|2,145|3,782| 
+| Download your VA medical records (Blue Button) |335|300|314|332|270|234|-|1,550|2,321| 
+| View your lab and test results |98|219|103|91|92|72|-|1,348|2,013| 
+| Order hearing aid batteries and accessories |41|150|51|35|28|27|-|373|581|
+| Download VA Health Chat |-|-|-|-|-|-|-|579|529| 
+| Connect to VA care |-|-|-|-|-|-|-|2,045|1,847| 
 
 ### Unique pageviews on other specified pages
 
-|	Unique pageviews on other specified pages	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24 | June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|	Contact us	|	 151,511 	|	 188,260 	|	 123,657 	|	 116,578 	|	120,848	|	123,012	|	118,189	|
-|	Campus map	|	 29,960 	|	 37,387 	|	 27,358 	|	 29,645 	|	31,896	|	32,728	|	30,367	|
-|	Programs	|	 30,725 	|	 40,275 	|	 33,921 	|	 31,918 	|	33,703	|	33,700	|	28,084	|
-|	VA Police	|	 1,824 	|	 8,713 	|	 5,366 	|	 5,771 	|	6,563	|	7,341	|	5,489	|
-|	Work with us	|	 70,156 	|	 105,732 	|	 85,832 	|	 67,323 	|	69,718	|	65,622	|	54,475	|
-|	Events	|	 22,860 	|	 35,724 	|	 35,157 	|	 14,346 	|	5,698	|	5,673	|	67,877	|
-|	Stories	|	 12,495 	|	 27,419 	|	 16,371 	|	 10,118 	|	9,643	|	10,872	|	8,070	|
+|	Unique pageviews on other specified pages	|	December 2023|	January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|	Contact us	|	 151,511 	|	 188,260 	|	 123,657 	|	 116,578 	|	120,848	|	123,012	|	118,189	| 170,818 | 166,152 | 152,734|
+|	Campus map	|	 29,960 	|	 37,387 	|	 27,358 	|	 29,645 	|	31,896	|	32,728	|	30,367	| | |
+|	Programs	|	 30,725 	|	 40,275 	|	 33,921 	|	 31,918 	|	33,703	|	33,700	|	28,084	| | |
+|	VA Police	|	 1,824 	|	 8,713 	|	 5,366 	|	 5,771 	|	6,563	|	7,341	|	5,489	| | |
+|	Work with us	|	 70,156 	|	 105,732 	|	 85,832 	|	 67,323 	|	69,718	|	65,622	|	54,475	| | |
+|	Events	|	 22,860 	|	 35,724 	|	 35,157 	|	 14,346 	|	5,698	|	5,673	|	67,877	| ||
+|	Stories	|	 12,495 	|	 27,419 	|	 16,371 	|	 10,118 	|	9,643	|	10,872	|	8,070	| | |
 
 *VA Police | MMVP launched 12/20/2023 
 

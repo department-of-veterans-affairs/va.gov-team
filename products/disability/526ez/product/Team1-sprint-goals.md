@@ -1,4 +1,21 @@
-# Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
+# Sprint goals for Benefits Disability Experience Team 1 (DBEX-TREX)
+
+## Sprint 8
+10/9 - 10/22
+
+**Toxic Exposure**
+- 1.0 50% rollout
+- Reduce Veteran burden and improve data quality by switching to va-data month year option (stretch goal)
+
+**Submission Experience**
+- New Confirmation Page and Email Touchpoints annotations for Engineering
+- Accessibility audit, including Review pages (stretch goal)
+
+**Zero Silent Failures**
+- Enhance DD Metrics ~~& 0781 remediation discovery~~*
+- Provide migration LOE of BRD and PCIU to OCTO
+
+*Change of plan mid sprint, Team 2 completed
 
 ## Sprint 7
 9/25 - 10/8
@@ -9,7 +26,7 @@
 * Prep for 1.1 release
 
 **Submission Experience**
-* Finalize Timely & Truthful designs, align w OCTO and prep stories for implementation
+* Finalize New Confirmation Page and New Email Touchpoints (formerly T&T) design and prep stories for implementation
 * Refine Submission Record & Tracking solution direction and align w OCTO
 
 **Other**

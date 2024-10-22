@@ -3,15 +3,24 @@ name: VANotify Business Intake Form
 about: To submit a request with the VANotify Team
 title: Business intake form for [Your Business or team]
 labels: vanotify-intake
-assignees: bevnobev
+assignees: GitSamJennings, christy-tongty, davidconlon, kbelikova-oddball
 
 ---
+### VA Notify:  Important Scheduling Information
+As we approach the end of the year, please note that VA Notify will ***not*** be starting any new notification intakes after November 15th. Our focus will be on supporting in-progress notifications, urgent zero silent failure use cases, and completing 2024 initiatives. Kick-off meetings for new intake forms submitted ***after November 15th*** will be scheduled in January.
+
+***Important Reminder:*** Please be mindful of launching new notifications before the holidays unless there is a business-critical deadline. There will be a ***VA platform code freeze 12/23/2024 - 1/3/2025***, with limited support during this time.
+
+If you have any other urgent needs that require attention before the end of the year, please reach out as soon as possible for review.
+
 
 ## Your Details
 1.  **Your Name**
 ​
 2.  **Business Line**
     (ex., claims, health, etc.)
+    
+3. **VA Product/Business Owner Contact Information**        
 ​
 ## Notification Details
 1.  **Notification type**

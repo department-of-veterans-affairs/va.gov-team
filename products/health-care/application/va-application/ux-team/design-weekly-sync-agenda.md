@@ -1,5 +1,111 @@
 # Design Weekly Sync Agenda
 
+
+
+## 2024-10-21
+Attendees: Angela, Jessica, Lois, Luis, and Renata
+
+#### UGC
+- social listening report - great job from Lois! 
+- how might we’s and exploring those in a workshop
+- time to workshop those as a team, post workshop and tickets/roadmap
+- Lois interim step before stakeholders, PMs/PO (middle ground)
+- Go over internally 
+
+
+#### EC/NOK
+- Hieu working with engineers and limitations with UI and backend
+- EC side then match on NOK
+- NOK HEC questions remaining - content specific 
+- align with PDF form questions and consistency - 1 vs 2 EC/NOKs allowed
+- Research talking with terminology - Next of Kin (advanced directed medical decisions) in VA vs outside (estate planning) - research needed content concern
+- No research planning, just seeing if scope validates research later
+- Renata talking about possible future benchmarking research 
+- Lois - research relevant and actionable
+
+
+- Approach for social listening, and open text fields and analysis of ga analytic 
+
+#### Doc Upload Component
+- document uploads and changing file types - Lois watch out list
+- upload issue… keep a look out
+
+
+#### EnjoyHQ
+- Lois to play around with upload a research study
+- Recent research to upload
+- Tracking trends - where Enjoy can come in
+- things we find and not providing well - how to reach out to others/Platform
+- More formal but easy
+
+#### CG research update
+- rescheduled session to this week, was supposed to be completed last Friday 10/18
+- full on synthesis work this week
+- Lois mentions synthesis checkpoints - reviewing research report, track back to the data in Mural, validate for myself
+- invite Lois as optional, team working session
+- Lois wants to observe process, pass along to other teams
+
+#### Data reporting with Luis
+- Question how many number of submissions (successful) 2023 to 2024 compare
+- broad health care apply study
+- Lois question - how do these transfer to benefits
+- numbers Luis ran, source the numbers from DataDog to find successful submissions (spreadsheet tracking Google sheet)
+- why DataDog better than GA? Number for submission is closer to actual truth, specific metric at code level when submission process. GA is tangental, tag manager pixel action
+- old GA numbers were sampled
+- numbers include EZ and EZR forms
+- Spikes in August + September 2023 during PACT communication blasts and efforts
+- DataDog retention is a month-ish; kept in spreadsheet for historical data
+- intro page vs Veteran info first page to factor in submission rates
+
+
+#### Content testing
+- what are other teams doing? guidance?
+
+
+
+
+## 2024-10-08
+Attendees: Angela, Jessica, Lois, Luis, and Renata
+
+Upcoming PTO: Lois is doing a half day on Friday.
+Next meeting: Monday is a Federal Holiday, so we will be moving our next 10-10 Design Sync
+
+**CG Research**
+* 9 sessions completed, all caregivers/partners.
+* Next week will be predominantly Veterans/Cohort 2, with the possibility of some caregiver rescheduled sessions.
+* The signup form is getting difficult to manage and hard for observers to sign up because so many participants have rescheduled or been replaced.
+* **Action item:** Angela/Jessica to reorder the sign up sheet in chronological order.
+
+**Autofill error**
+* Angela/Jessica noticed an error when participants were using browser autofill with the CG form in staging ([thread](https://dsva.slack.com/archives/C05Q6411HPF/p1728074968030069))
+* Jessica found that the way to troubleshoot the error with the participant in the session is to have the user tap a different form field and then go back to filling in the fields as usual. 
+* Angela spoke with the devs and this is a problem that could occur anywhere. Heather is opening a ticket to look into and resolve this issue.
+* Jessica wonders if this is a more global autofill UX issue, it could affect all forms teams. She has experienced this issue with autofill as well. Discovery should be interesting.
+* **Next steps:** Lois would like to know, even if this is a broader issue, how to support users experiencing this problem. Jessica agrees this could be more of a content design concern for better supporting users who use browser autofill.
+
+**EZR Social Listening updates**
+* Research plan is drafted, findings report is still in progress.
+* Lois is excited we're aligning our research goals with RQs and hypotheses in the findings section.
+* Note that in future, we should avoid using percentages with small sample sizes, but percentages in this study are sufficient (large n)
+* **Action item:** Renata to share the research plan Canvas in the design channel. Will also share the findings report when the draft is completed.
+
+**OCTO Design Sync**
+* Lois wants to know more about how the team who presented this week worked with Perigean to do dynamic recruitment of AT users.
+
+**10-10EZ Save in Progress investigation**
+* Luis captured quite a few metrics in GA4, but we're limited in a lookback perspective. We can only really go back to May in terms of historical data, since that's when we made the switch.
+* There's a slight fluctuation in SIP form start over (saving a form in progress, having an error, needing to start the form over from the beginning). Luis is more concerned with SIP form reload and the reload fails. Specifically calling out September, there's a May-August upward trend in errors, but it's very prominent in September. 
+    * **Next steps:** Luis is going through session replays to see if he can find any commonality with users coming in mid-form and experiencing a reload error. There's a big potential for an abandonment issue here. Should have updates on this by end of the week.
+    * **Action item:** Luis to share session replays in the Design channel so Lois/team can view.
+* Lois notes that this work goes beyond Zero Silent Failures. Luis agrees, this is an error that's not contingent on completing and submitting the form. It happens before that.
+* Lois would like to see a report or written narrative about this work in the future to demonstrate continuous improvements using data analytics. 
+
+**Actionable Research**
+* Lois would like to see "recommendation roadmap" in reports or slide decks. There are gaps between research recommendations in a findings report, and actionable work post-research study. There are a lot of "whats" but not many "hows" and Lois wants to be involved in the ideation post-research. Are there workshops or ways to involve Lois and the larger team in making research actionable?
+    * Jessica has done a scrappy SWOT analysis of prior research and potential areas of research with the CG team.
+    * Renata has done feature evaluation workshops.
+* **Action item:** Jessica and Renata to share a template or examlpes of SWOT/feature evaluation workshops in a Mural with Lois.
+
 ## 2024-09-30
 Attendees: Angela, Jessica, Hieu, Lois, and Renata.
 

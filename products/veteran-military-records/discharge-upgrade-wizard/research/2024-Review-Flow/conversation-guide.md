@@ -3,7 +3,7 @@
 ## Moderator logistics
 
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions).
+- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 
 ### Before all sessions:
 - Review participant list for participant name and screener question responses
@@ -143,7 +143,7 @@ like you to try to use it, and please share your feedback while you're doing tha
 in your impressions of what you see, any questions that you have, and how you feel about
 what you're doing.
 I'll have you start from a URL that I'm going to [dictate/put into the Zoom chat] for you to use:
-[https://www.va.gov/discharge-upgrade-instructions]
+[https://staging.va.gov/discharge-upgrade-instructions/introduction]
 
 Did you get the link?
 - If see “unsupported browser” error, ask to try a different browser or device, or share my
@@ -303,3 +303,7 @@ strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Re
 We recommend you plan a graceful exit strategy that you will feel comfortable using during a session. Your goal is to simply wrap up the session without any further incident or escalation. It is important not to blame the participant, since it could increase any distress or trauma they are experiencing. If you are exiting for a reason on your side, it’s best not to share any personal details, as it may create additional stress for all. Examples of exit strategies that have worked include:
 - Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 - Blame technology: I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+
+## Approvals
+- Amanda Klausmeier (VA UX lead) on October 8, 2024
+- Shane Strassberg (VA Research Ops) on October 9, 2024

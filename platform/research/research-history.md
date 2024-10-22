@@ -633,7 +633,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### January 30 - February 3: Yellow Ribbon - Find Participating Schools MVP
 *Public Websites, Liz Lantz*
 - 12 participants (12 scheduled, 2 no show)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-yellow-ribbon-school/yellow-ribbon-mvp/research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-yellow-ribbon-school/v1)
 
 **Keywords:** Yellow Ribbon program, benefits comprehension, user search behaviors, search results, education benefits, understanding of benefits, awareness of benefits, tabular data, tables, cards, comparison lists.
 
@@ -676,7 +676,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### January 6 - 8: STEM Scholarship Application
 *BAH: Amy Knox, Theresa McMurdo*
 - 6 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/research/wizard-update/research-plan.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/research/wizard-update/discovery-phase)
 
 ### December 2019
 
@@ -688,7 +688,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### December 9 - 20: VAOS UAT Phase II
 *Lauren Alexanderson*
 - 30 participants
-- Research Plan
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2019-12-uat-phase-2-requests)
 
 #### December 5 - 12: Medical Device Tool Discovery
 *AdHoc: Rebecca Walsh, Amida: Riley Orr*
