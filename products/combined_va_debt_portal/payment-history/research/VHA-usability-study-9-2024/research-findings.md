@@ -588,7 +588,7 @@ We recommend simplifying this section or further differentiating information fro
 
 **Pending transactions**
 
-A majority of participants did not find pending transactions so it is not necessary to include this information, especially if an amount will not be shown. If necessary to add, we can consider moving Activity since last statement (pending transactions) after the information that directly relates to the statement at hand, to minimize confusion and provide this info to Veterans that it can be helpful to (possibly a minority)
+A majority of participants did not find pending transactions helpful so it is not necessary to include this information, especially if an amount will not be shown. If necessary to add, we can consider moving Activity since last statement (pending transactions) after the information that directly relates to the statement at hand, to minimize confusion and provide this info to Veterans that it can be helpful to (possibly a minority)
 
 **Copay transaction details**
 
