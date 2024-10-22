@@ -13,6 +13,13 @@ This playbook is for IVC Forms team members responding to Datadog Missing Pega S
 - [#ivc-forms-datadog](https://dsva.slack.com/archives/C06RQR7V9CM) Public Slack channel
 
 
+## Best Practices
+
+Keep these items in mind while working through the **Steps** section below:
+
+- For quick communication/solutioning, prefer Slack Huddles or other video conferencing tools. After a huddle, **be sure to provide the key takeaway in writing** and share it to any relevant incident tickets/slack threads.
+- For visibility, keep all conversations relevant to the incident inside of the main DSVA  [#ivc-forms](https://dsva.slack.com/archives/C05UDS77ZPH) channel.
+
 ## Steps
 
 When this monitor is triggered, follow these steps.
