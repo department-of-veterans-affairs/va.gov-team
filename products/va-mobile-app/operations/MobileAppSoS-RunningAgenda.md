@@ -23,7 +23,7 @@
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * **Experience Team Requests Review**
   * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
-* New Exp Team work for Flagship teams
+* **New Exp Team work for Flagship teams in Sprint 110**
   * H&B: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9639
   * Global: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9619 
 
