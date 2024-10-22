@@ -31,8 +31,8 @@
         * [DataDog MR Dashboard](https://vagov.ddog-gov.com/dashboard/8tk-8fe-cin/mhv-medical-records?refresh_mode=sliding&from_ts=1696699383284&to_ts=1699291383284&live=true)
         * G4 Dashboards
     * Zero Silent Failures
-          - [Open Issues in GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20state%3Aopen%20label%3Azero-silent-failures%20label%3Amhv-medical-records)
-          - [JIRA Epic](https://jira.devops.va.gov/browse/MHV-62180)
+        * [Open Issues in GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20state%3Aopen%20label%3Azero-silent-failures%20label%3Amhv-medical-records)
+        * [JIRA Epic](https://jira.devops.va.gov/browse/MHV-62180)
     * Collab Cycle Tickets
         * Open
           - [Download Records](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92340)
