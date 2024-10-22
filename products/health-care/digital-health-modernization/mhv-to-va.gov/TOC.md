@@ -23,7 +23,6 @@
     * PIplanning.io
         * [PIplanning.io](https://pip.apps.vapo-aws.va.gov?company=department-of-veterans-affairs)
      
- 
 
 * **Medical Records**
     * [Team API](https://dsva.slack.com/docs/T03FECE8V/F07LLA6155E)
@@ -58,6 +57,9 @@
         * [DataDog SM Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-07e313c672cdf0fcd59ceb5c25b4c31c?refresh_mode=sliding&from_ts=1691515174056&to_ts=1699291174056&live=true)
         * G4 Dashboards
         * [Monthly Metrics and Feedback Summaries](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics)
+    * Zero Silent Failures
+        * [Open Issues in GH](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20state%3Aopen%20label%3Azero-silent-failures%20label%3AMHV-Secure-Messaging)
+        * [JIRA Epic](https://jira.devops.va.gov/browse/MHV-62179)
     * Collab Cycle Tickets
         * Open
           - [Contact List](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90850)
