@@ -7,6 +7,7 @@ Agenda:
 
 ## 10/23/24
 *   Figma account transition
+*   Checkbox tile spacing feedback
 
 ## 10/9/24
 *   Review Q4 Plan
