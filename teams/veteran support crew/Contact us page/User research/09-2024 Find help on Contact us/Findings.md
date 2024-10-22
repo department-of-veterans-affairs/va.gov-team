@@ -305,7 +305,7 @@ I primarily used [this Mural](https://app.mural.co/t/departmentofveteransaffairs
 **Recruitment criteria**
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
 * Veterans: 10
