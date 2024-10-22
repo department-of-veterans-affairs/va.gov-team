@@ -22,7 +22,7 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-853&t=A6qFKMrzSt4ukLYn-1)
 
-### Error state - API-related failure(s):
+## Error state - API-related failure(s):
 
 A [warning 'alert' component](https://design.va.gov/components/alert/#warning-alert) will display at the top of the Health care section of My VA if there is an API/systems related error that prevents the count of unread messages from being displayed. It is expected that this would prevent the reading of messages in a user's inbox as well, but there may be edge case scenarios which mean we must tell users that they _might_ be able to still read messages on MHV. 
 
@@ -30,11 +30,23 @@ _(For uses outside of Health care and My VA, error messaging using alerts may ma
 
 _Note that this content may need additional CAIA review._
 
-<img width="458" alt="Alert" src="https://github.com/user-attachments/assets/732b6f74-3012-4468-b14a-6fcb7c4016d3">
+### Inbox may be accessible still on MHV (400s error code)
+
+<img width="320" alt="Screenshot 2024-10-22 at 11 40 47 AM" src="https://github.com/user-attachments/assets/223ef4ec-4a30-444c-8cb5-3b4410d0d45e">
+
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2621-31035&t=h6U22HGIiGoYMot8-1)
 
 [Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2622-33921&t=h6U22HGIiGoYMot8-1)
+
+
+### Inbox is not accessible on MHV (500s error code)
+
+<img width="320" alt="Screenshot 2024-10-22 at 11 40 53 AM" src="https://github.com/user-attachments/assets/7361c3d8-bcf8-47e3-80f1-6d071854a76f">
+
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2677-4869&t=JEjUCa3eWvva0IQU-1)
+
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2681-12300&t=JEjUCa3eWvva0IQU-1)
 
 ---
 
