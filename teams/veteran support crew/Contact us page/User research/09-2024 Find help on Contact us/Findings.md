@@ -1,7 +1,5 @@
 # Reseach findings for "Find help on Contact us" study
-🟡 10/22: This is still in-progress.
-
-- Study dates: August 30 to October # 2024
+- Study dates: August 30 to October 22 2024
 - Study conducted by: Becky Phung, becky.phung@va.gov
 - Goverment team: Department of Veterans Affairs > Office of the Chief Technology Officer > Digital Experience Portfolio > **Veteran Support Crew & Content, Information Architecture, and Editor Experiences Crew** 
 
@@ -268,7 +266,7 @@ Please see additional findings in [this separate GitHub doc](https://github.com/
 - **Measuring impact**: Clicks to online tools
 
 ## Next Steps
-- **Review recommednations**: In 10/31 meeting, review recommendations with Chante, Beth, and Danielle.
+- **Review recommednations**: On 10/31, Becky to review recommendations with Chante, Beth, and Danielle.
 - **Update Contact us page**: Beth and Danielle can help update content on Contact us.
 - **Further design exploration and research**: Becky can lead on further exploration and research.
 
