@@ -156,9 +156,12 @@ sequenceDiagram
     User->>Frontend: Open appointments page
     Frontend->>VetsAPI: getCombinedReferralData()
     VetsAPI->>Postgres: Fetch referral data (or MAP system once complete possibly)
-    VetsAPI->>EPS: getEPSAppointments() (for user)
-    VetsAPI->>EPS: getEPSAppointments() (for referrals already made in EPS)
-    VetsAPI->>VistA: getVistAAppointments() (for referrals that are already appointments in VistA)
+    Postgres->>VetsAPI: Return referral data
+    VetsAPI->>EPS: getEPSAppointments() 
+    EPS->>VetsAPI: Return EPS appointments
+    VetsAPI->>VistA: getVistAAppointments() 
+    VistA->>VetsAPI: Return VistA appointments
+    VetsAPI->>VetsAPI: validateAppointments() (for referrals already made in EPS, for referrals that are already appointments in VistA)
     VetsAPI-->>Frontend: Return referral data
     Frontend->>Frontend: Store referral data in Redux
     Frontend->>VetsAPI: checkEPSAppointments()
