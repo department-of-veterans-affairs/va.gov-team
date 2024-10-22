@@ -14,25 +14,24 @@
 
 
 ## Desired User Outcomes
-- Veterans find the medications list is easy to navigate and find what they are looking for. 
-- Veterans know how to find a complete list of medications they have on file at VA, as well as any relevant details about those medications. This includes all historical information about a medication including past prescription history.
-- Improve transparency / reduce confusion around medications a Veteran is taking (VA and non-VA)
-- Veterans are well-informed about the status of their medications (when something needs to be refilled or renewed, shipment tracking updates, etc.)
+- Veterans can track prescription statuses that are not currently available on MHV to get a more accurate representation of their prescription.  
+- Veterans can view a prescription in MHV after it has been entered into the system but before the pharmacy has accepted it.
+- Veterans can view partial refills in MHV to have access to their complete refill history.
+- Improve transparency / reduce user confusion around prescriptions.
+- Veterans are well-informed about the status of their medications throughout the lifecycle of their prescription.
 
 ## Undesired User Outcomes
-- Medication section doesn’t provide the user with the same functionality that they have today- causing frustration and dissatisfaction.
-- Veterans are confused about medications they are taking.
-- Veterans are confused by VA and non-VA medications that are the same medication. 
+- Veterans are confused by these new statuses.
+- Veterans are confused by a "pending" prescription that gets accepted by the pharmacy and may change the medication name, etc.
+- Veterans don't understand what actions to take on prescriptions with these new statuses. 
 
 ## Desired Business Outcomes
-- Veterans have access to all historical information about a medication including past prescription history.
-- Misalignment in data and functionality on VA Health and Benefits Application and MHV on va.gov.
+- Veterans have access to all prescription information in MHV, to avoid additional calls or messages to their provider, pharmacy or call center.
 - Enabling users to understand and self-service medication needs leads to more timely care, reduces burden on clinical staff, and increases patient safety. 
 - Have one place for veterans to find all their medication information and self serve their medication needs.
-- Easily accessible and identifiable medications list will alleviate congressional and patient safety questions.
 
 ## Undesired Business Outcomes
-- Users find the medications on VA.gov complex and difficult to accomplish their tasks and continue to default to MHV legacy to self-serve their needs.
+- Users are confused by new statuses and this leads to more calls or messages to get help. 
 
 ---
 ## Measuring Success
@@ -41,8 +40,8 @@
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-
+- Reduce call center volume of Rx related issues | Baseline | Target | Link to data source (e.g. GA, Domo)-  TBD: verifying we have access to this information
+- Reduce Health Chat volume of Rx related issues | Baseline | Target | Link to data source (e.g. GA, Domo)-  TBD: verifying we have access to this information
 ---
 
 ## Discovery
@@ -68,31 +67,27 @@
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
-- Naming of these statuses is not final.  This is the current business naming conventions and may not be the most intuitive to users.
-- 
+- Naming of these statuses is not final.  This is the current business naming conventions and may not be the most intuitive to users. We know that "pending" has been difficult for users in Appointments and statuses are already confusing to users, we should explore alternate names to ensure users understand the process.
+  
 #### "Pending" Status Details 
-Pending Medications - meds order by VA facility but not yet dispensed
-Source code: PD
-Criteria:
-Returns all Pending medications with an “Order type” of NEW ORDER, HOLD, or RENEW.   It disregards values DISCONTINUED (EDIT), DISCONTINUED, and REFILL REQUEST.
-Uses API 4821: PEN^PSO5241
-
-For Pending list view:
-Medication name *drug name unless not available, show Orderable Item
-Prescription number
-number of refills left
-Status
-[descriptive information about the status]
-
-within the same day or commonly within 24-72 hours but no longer than 7 days from date it was ordered
-should group the old RX with the renewal/pending one
+- Pending prescriptions are medications ordered by a VA facility but not yet dispensed or accepted by the pharmacy.
+- In the source code they are listed as PD.  We return Pending medications with an “Order type” of NEW ORDER, HOLD, or RENEW.   It disregards values DISCONTINUED (EDIT), DISCONTINUED, and REFILL REQUEST. Uses API 4821: PEN^PSO5241.
+- These prescriptions are usually accepted or dispensed by the pharmacy within 24-72 hours but could take up to 7 days from the date it was ordered.
+- The old Rx will be grouped/associated with the pending one (being renewed) to indicate to the user that the new prescription is process and they do not need to take action at this time.
+- For the list view we need to show:
+  - Medication name *drug name unless not available, show Orderable Item
+  - Prescription number
+  - number of refills left
+  - Status
+  - [descriptive information about the status]
+- There should be a details page for pending prescriptions that includes all data fields including instructions, etc. But need to show a disclaimer that this information could change.
 
 #### "Partial Fill" Status Details
-
+- Partial fills we plan to add these to the refill history portion of the details page to give users context that only some of the refill was filled with the date that occured.
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
+- There will be marketing by the MHV comms teams about these new statuses when we are ready to release.  We will consider additional in product education for users. 
 --- 
 
 ## Launch Planning
