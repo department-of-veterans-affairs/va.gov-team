@@ -3,7 +3,7 @@
 
 Created On: October 17, 2024
 
-Edited Last: October 17, 2024
+Edited Last: October 22, 2024
 
 ### Background
 Through the Veteran Transition Support (VTS) project, the Department of Veterans Affairs (VA) and Booz Allen Hamilton are working to help Veterans learn about available benefits, understand their eligibility, and begin the application process. The VTS teams aims to create a new, accessible, all-in-one prototype for Veteran benefit information that is helpful for current service members approaching separation and all Veterans regardless of the time since their separation. This prototype would clearly guide Veterans through the benefits discovery and eligibility check processes. The prototype will also provide comprehensive and accurate information about gathering required documentation, applying for benefits, and checking one’s application status.
@@ -184,7 +184,7 @@ Are you currently a Commanding Officer?
 -	No
 
 ### Timeline
-We plan to interview Veterans, TSMs, and COs over approximately a 2-week period (August 6th through August 16th). Dates are subject to move based on participant availability.
+We plan to interview Veterans, TSMs, and COs over approximately a 2-week period (October 31st through November 13th). Dates are subject to move based on participant availability.
 
 #### Prepare
 We will be testing our product on the [VA staging site](https://staging.va.gov/benefit-eligibility-questionnaire/introduction).
