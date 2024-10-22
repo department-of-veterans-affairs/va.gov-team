@@ -153,9 +153,11 @@ sequenceDiagram
 
     Note over User: User clicks link in SMS/Email
     User->>Frontend: Open appointments page
-    Frontend->>VetsAPI: getReferralData()
-    VetsAPI->>Postgres: Fetch referral data
-    Postgres-->>VetsAPI: Return referral data
+    Frontend->>VetsAPI: getCombinedReferralData()
+    VetsAPI->>Postgres: Fetch referral data (or MAP system once complete possibly)
+    VetsAPI->>EPS: getEPSAppointments() (for user)
+    VetsAPI->>VetsAPI: checkEPSAppointments() (for referrals already made in EPS)
+    VetsAPI->>VetsAPI: checkEPSAppointments() (for referrals that are already appointments in VistA)
     VetsAPI-->>Frontend: Return referral data
     Frontend->>Frontend: Store referral data in Redux
     Frontend->>VetsAPI: checkEPSAppointments()
