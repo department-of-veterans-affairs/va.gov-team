@@ -118,7 +118,8 @@ The way we close tickets matters to our reporting, but we have different steps t
 
 The assignee responsible for the last step will be responsible for moving the ticket.
 1. Add all required fields
-2. Move the ticket to Validate
+2. Add a comment confirming that the ticket is ready for closure review, and tag your discipline lead.
+3. Move the ticket to Validate
 
 **Intakes**
 
