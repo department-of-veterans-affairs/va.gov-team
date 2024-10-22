@@ -136,6 +136,7 @@ sequenceDiagram
     participant Sidekiq as Sidekiq Job
     participant Postgres as Postgres DB
     participant Palantir as Palantir
+    participant VistA as VistA
     participant EPS as EPS System
     participant VA as VA Notify
 
@@ -156,8 +157,8 @@ sequenceDiagram
     Frontend->>VetsAPI: getCombinedReferralData()
     VetsAPI->>Postgres: Fetch referral data (or MAP system once complete possibly)
     VetsAPI->>EPS: getEPSAppointments() (for user)
-    VetsAPI->>VetsAPI: checkEPSAppointments() (for referrals already made in EPS)
-    VetsAPI->>VetsAPI: checkEPSAppointments() (for referrals that are already appointments in VistA)
+    VetsAPI->>EPS: getEPSAppointments() (for referrals already made in EPS)
+    VetsAPI->>VistA: getVistAAppointments() (for referrals that are already appointments in VistA)
     VetsAPI-->>Frontend: Return referral data
     Frontend->>Frontend: Store referral data in Redux
     Frontend->>VetsAPI: checkEPSAppointments()
