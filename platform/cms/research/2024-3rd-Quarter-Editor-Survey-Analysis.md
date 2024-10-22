@@ -121,7 +121,7 @@ The Drupal CMS team conducts a quarterly survey for editors to gauge their senti
 
 **CMS Knowledge Base**
 
-* 61/80 editors have used the CMS Knowledge Base (KB)
+* 76% (61/80) editors have used the CMS Knowledge Base (KB)
     * VAMC and Outreach editors most commonly used the KB
     * Vet Center editors split
 
