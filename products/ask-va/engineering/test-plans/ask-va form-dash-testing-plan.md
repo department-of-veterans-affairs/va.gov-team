@@ -47,7 +47,7 @@ Drafting Insomnia Batch:
 - Inquiries will be drafted based on the Ava Testing Framework excel. Each inquiry will require a Category, Topic, and Subtopic which will route to a unique Queue.
 - Additional notes such as what mocked user information will be based ( name, email, etc) and documented
 
-For Formal Testing: We will cover 120 flows of potential inquiry mapping
+For Formal Testing: We will cover 120 flows of potential inquiry mapping. This list will be provided by CRM and will be based on category,topic, and subtopic. There may be additional cases to test regional routing. 
 
 ### E2E Automated Testing (Cypress)
 **Test Cases:** We'll test the full user journey, from submitting the Ask VA form to checking for responses in either the dashboard (authenticated) or the `Check the status of your question` search (unauthenticated). We'll test edge cases and typical user flows for both authenticated and unauthenticated users.
