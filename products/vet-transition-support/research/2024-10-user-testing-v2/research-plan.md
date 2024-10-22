@@ -233,9 +233,6 @@ Thursday, November 7, 2024
 Friday, November 8, 2024
 -	09:00-17:00 EDT
 
-Monday, November 11, 2024
--	09:00-17:00 EDT
-
 Tuesday, November 12, 2024
 -	10:00-17:00 EDT
 
