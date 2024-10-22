@@ -1,155 +1,74 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for 10-10EZR, User Generated Content Analysis
+**Office of the CTO - Digital Experience, Health Enrollment Team, 10-10EZR**
+September 2024
+
+Hieu Vo and Renata Keck
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+The online health care application (VA Form 10-10EZ) and the update form (VA Form 10-10EZR) can both impact a Veteran's eligibility and placement when applying for and managing their health care benefits. This is moreso impactful for those placed in a [Priority Group](https://www.va.gov/health-care/eligibility/priority-groups/) who need to report additional income information to be considered for copay and travel reimbursement in addition to their basic eligibility. The 10-10EZ is the initial application that places a Veteran in a Priority group for enrollment into the full medical benefits package. The 10-10EZR is used to provide personal, financial or insurance information updates after enrollment.
 
-[Link to product brief](url goes here).
+The outcome of this exploratory research study will aid in further understanding how Veterans comprehend their eligibility for health care benefits as it pertains to applying for and maintaining those benefits.
+
+[Link to Priority Groups product initiative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Priority%20Group).
 
 ### OCTO Priorities 
+This research supports OCTO-DE's 2024 priorities, specifically [objective 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md): to make digital experiences the best way to access VA health care and benefits.
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+Data collected from this study will contribute to designing an updated process for applying for and maintaining eligibility for medical benefits that can be easily understood and managed online.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+The 10-10EZ and 10-10EZR fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) any time between getting out and dying, as a Veteran could be applying for and updating their information to maintain medical benefits around any milestone or change in life circumstances.
+
+Special attention has been paid to Starting Up, Taking Care of Myself and Putting Down Roots sections within the Veteran journey in this study.
 
 ## Research Goals	
-What are you trying to learn from this research? 
+Health care updates, especially regarding financial information, are a critical touchpoint in a Veteran's health journey, as they determine a Veteran's deligibility for receiving non-service-connected care at VA facilities, as well as other health care benefits.
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+The online Health Care Benefit Update form (VA 10-10EZR) is vailable, but currently there is no notification system in place online to inform the Veteran about when to update their information and why that information is important to keep current. This raises key questions: Who should be notified? When should we notify them? How often should notifications be sent out? Moreover, [how should be categorize Veterans for these notifications](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1698266698151/d82092b38107a883cc3975d9ea21deaf4fb0739a?sender=u503219bf4e47eab9c75d3838)? Should we group them by Priority Group, by Disability Rating, or by other eligibility factors?
+
+To address these questions, we propose taking a step back to analyze online user-generated content (UGC). By examining real-world experiences and questions shared by Veterans and other VA health care users, we aim to gain insight into their expectations, pain points, and preferences regarding notifications. This approach allows us to:
+- Goal 1: Understand how Veterans currently perceive their health care journey, especially in terms of financial eligibility
+- Goal 2: Identify frustrations or gaps in VA-Veteran communication that could help us shape more effective notification strategies
+- Goal 3: Determine patterns that may help us decide how to group Veterans for tailored notifications (e.g., by disability rating, health care needs, or personal preferences)
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+1. Prioritize areas for design and engineering discovery for 10-10EZR notifications
+2. Determine the best groupings for tailored notifications
+3. Identify gaps to address in future research
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+**Goal 1: Understand how Veterans currently perceive their health care journey, especially in terms of financial eligibility**
+1. How much do Veterans associate income with Priority Groups, and by extension, the covered care they can expect to receive at VA?
+2. How do Veterans perceive the financial-related information provided by the VA, such as copays and travel reimbursement?
 
-### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+**Goal 2: Identfy frustrations or gaps in VA-Veteran communication that could help us shape more effective notification strategies**
+1. When do Veterans want to know about insurance and eligibility? Are our assumptions wrong?
+2. What do Veterans identify as their main frustrations with the current notification system (e.g., timing, clarity, or frequency)?
+
+**Goal 3: Determine patterns that may help us decide how to group Veterans for tailored notifications (e.g., by disability rating, health care needs, or personal preferences)**
+1. Do Veterans know which life events necessitate updaitng their information through the 10-10EZR form, and if so, which life events?
+2. Do Veterans understand why they need to update their information on a (semi)regular basis to maintain their eligibility?
+
+### Hypotheses
+1. Veterans do not fully understand how financial information, such as income, impacts their eligibility for health care benefits, including Priority Group rating and covered care
+2. The current method of notifications about insurance, reliability, and billing updates do not align with Veterans' preferences, leading to confusion and frustration
+3. Veterans are unclear about which life events are changes to their circumstances require them to update their information using the 10-10EZR form, resulting in infrequent updates that could negatively affect the continuity of care they receive
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+We will be collecting and analyzing [user generated content](https://www.sciencedirect.com/topics/computer-science/user-generated-content) (UGC) from public, Veteran-centered communities on [Reddit](https://www.reddit.com/). This data will be anonymized during analysis, and destroyed at the conclusion of the study, in accordance with ethical data collection guidelines.
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+Qualitative data will be collected and analyzed for thematic, sentiment, and narrative findings. If relevant, statistical significance will be calculated relative to key findings.
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+### Why Reddit?
+**Targeted search results**
+Google search results have become less and less accurate and reliable over time, for a number of reasons, from the proliferation of ads, to SEO-optimized junk sites, to AI generated content ([1](https://dkb.blog/p/google-search-is-dying)). Users find Reddit recommendations useful, and increasingly are appending “Reddit” to their online search criteria to specifically seek out content on the platform ([2](https://www.fastcompany.com/90722739/is-reddit-a-better-search-engine-than-google), [3](https://blog.google/inside-google/company-announcements/expanded-reddit-partnership/)).
+
+**Trust**
+Past research has shown that Veterans feel more comfortable seeking peer support to navigate VA experiences. Many Veterans mistrust [VA.gov](https://www.va.gov) and seek support before engaging with it. Veteran-centered subreddits are among the largest and most active communities on the platform: [r/VeteransBenefits](https://www.reddit.com/r/VeteransBenefits/) is in the Top 1%, and [r/VeteransAffairs](https://www.reddit.com/r/VeteransAffairs/) the top 10% by size, respectively. These and other Veteran-centered subreddits have developed resources specifically for individuals seeking assistance with understanding service-connected disability benefits and health care.
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+This study will be remote, asynchronous, secondary research. Analysis tools will include spreadsheets and Mural.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
-	
-## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
-### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
-
-### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
-
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
-
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
-
-## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
-
-### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
-### Research sessions
-* Planned dates of research:
-
-### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
-
-### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-	
-## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- [Link to User Generated Content analysis Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726532865198/888111d9429b3f4a0c1ad8ac8287dffcf09a7682?sender=u503219bf4e47eab9c75d3838) 
+- [Link to EZR notifications discovery Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1698266698151/d82092b38107a883cc3975d9ea21deaf4fb0739a?sender=u503219bf4e47eab9c75d3838)
