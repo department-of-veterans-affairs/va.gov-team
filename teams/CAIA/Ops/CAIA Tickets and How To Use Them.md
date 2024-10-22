@@ -73,8 +73,7 @@ This section contains field data that is important for filtering and tracking is
   - **High** - top priority, work should begin immediately
   - **Medium** - important but not as urgent as high priority
   - **Normal** - default, regular priority
-  - **Low** - not urgent, does not require immediate work. This can be used for items in backlog without current work or actionable next steps yet
-  - **Chipper** - special status for work that is generally not a high priority item but that can be worked on as time and capacity allows. Generally long-term initiatives and items with no fixed deadline
+  - **Low** - not urgent, does not require immediate work. This can be used for items in backlog without current work or actionable next steps. It can also be used for items that can be worked on slowly as time and capacity allows (formerly known as a "chipper"), i.e. long-term initiatives or items with no fixed deadline.
 - **Sprint** - Used for planning when the work in this ticket should be scheduled
 - **Blocked by** - used to indicate which OCTO crew is blocking the work
 - **Reason Blocked** - general text field to  add detail to the reason the ticket is blocked
