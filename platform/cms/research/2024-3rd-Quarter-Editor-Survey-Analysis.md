@@ -296,7 +296,7 @@ Most editors find the Drupal-CMS easy to learn and use, with a substantial numbe
 
 * * *
 
-Content Creation
+### Content Creation
 ----------------
 
 #### **Question:**  
@@ -356,6 +356,16 @@ How familiar are you with the VA.gov content style guide?
 |           | 10.13%      | 36.71%   | 53.16% |
 
 The analysis of this data reveals the connection between editors and the va.gov content style guide. It shows that slightly more than half of the editors feel that they have a clear understanding of how to create va.gov content.
+
+* * *
+
+#### **Question:**  
+The Drupal CMS makes it easy for me to adhere to the va.gov content style guide
+
+|           | Strongly Disagree | Disagree | Neither | Agree  | Strongly Agree |
+|-----------|-------------------|----------|---------|--------|----------------|
+| CY2024 Q3 | 4                 | 4        | 18      | 39     | 14             |
+|           | 5.06%             | 5.06%    | 22.78%  | 49.37% | 17.72%         |
 
 * * *
 
