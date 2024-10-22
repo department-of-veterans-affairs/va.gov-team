@@ -27,7 +27,9 @@ This document is for our design team to communicate field rules. This list is al
 
 ## Attachments
 
-This is pulled from the inquiries endpoint so it's regularly updating. AVA Admins have the ability to change these rules at any point, without being part of a release.
+In the form, this is pulled from the categories endpoint so it's regularly updating. AVA Admins have the ability to change these rules at any point, without being part of a release.
+
+In the dashboard, TBC.
 
 ## Authentication required
 
