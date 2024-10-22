@@ -29,7 +29,7 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 - Communicate on the **#vecms-carma_vadotgov_development_external** Slack channel
 ### Triggered: 1010CG submission job has failed with no retries left
 #### Alert Reason
-- At least one application submission has been retried 22 times over the course of ~10 days, has failed and will not be retried again.
+- At least one application submission has been retried 14 times over the course of ~1 day, has failed and will not be retried again.
 #### Action
 - We have a [Catastrophic failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) process outlining that the 10-10 Health Apps team will 
 - Retrieve the PDF application file from the Production environment
