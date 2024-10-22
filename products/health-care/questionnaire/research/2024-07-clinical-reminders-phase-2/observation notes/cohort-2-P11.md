@@ -330,6 +330,31 @@ If participant recalls the questions, then ask:
 
 
 
+## Task 10 Follow-up Email and Link 
+
+- Moderator: Show Participant the Follow-email.
+
+
+1. Please read and tell me your thoughts on this screen.
+
+   
+- Anything unclear, missing or you would add to this?
+
+
+- what do you expect to happen after you click on the material resources link? 
+
+
+2. Okay, so I sent you link for you to click on so you can view the material resources.
+
+
+- Moderator: Send participant link of the Material resources link: https://bhl.va.gov/pe?288=BG
+
+
+- Please read and tell me your thoughts on this screen.
+
+
+- Go ahead and click on the links and tell me your thoughts about the information your given. 
+
 
 
 
