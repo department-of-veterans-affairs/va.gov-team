@@ -65,19 +65,19 @@ More details to come.
 
 ## The addition of a page level alert that appears at the top of My VA, indicating when a form submission has had a detectable system-based error
 
-More details to come.
+The [error variant of the 'warning' component](https://github.com/orgs/department-of-veterans-affairs/projects/1174/views/29?sliceBy%5Bvalue%5D=mattmarino-adhoc&pane=issue&itemId=81954186&issue=department-of-veterans-affairs%7Cva.gov-team%7C94153) will appear when a submitted form has experienced a deteced error in the process.
 
 ### One form with an 'action needed' status
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1241-24524&t=IzebklllHwsoqqU2-1)
 
-Mobile TBD
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2647-43905&t=1ZSN5IjvhAkT0vuu-1)
 
 ### 2+ forms with an 'action needed' status
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1242-25952&t=IzebklllHwsoqqU2-1)
 
-Mobile TBD
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2647-44362&t=1ZSN5IjvhAkT0vuu-1)
 
 ## Possible addition of a Process List component, mirroring the one shown on the submission confirmation page
 
