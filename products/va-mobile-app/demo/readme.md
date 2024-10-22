@@ -3,6 +3,20 @@
 This file serves as a high level meeting log and demo inventory for the VA Health and Benefit mobile core team.
 
 ***
+## October 22, 2024: Sprint 108 [VA Mobile Sprint Demo - Sprint 108.pdf](https://github.com/user-attachments/files/17481393/VA.Mobile.Sprint.Demo.-.Sprint.108.pdf)
+
+https://adhocteam-us.zoom.us/rec/share/LpbbqLEDiHxC4p0sdglxfzc6tVt4Gau5b5afZOtipMGN72lZpe5PCcQKU4TMBsrj.Cwe6JakviWs-vywZ
+Passcode: =!gTtc3H
+
+| Team | Topic | 
+|---|---|
+| Flagship: Global | Feedback hub UI updates, Sept. User Reviews update |
+| Flagship: Health & Benefits | API Error overrides in Demo Mode |
+| Platform: API | Vets-api “Access” Policy Updates, Merging Appointments Logic, Integrating endpoints with VBMS eFolder service |
+| Platform: Design System | Checkbox and Checkbox Group components |
+| Platform: QA & Release | Accessibility Settings Sprint 0 |
+
+***
 ## October 8, 2024: Sprint 107 [VA Mobile Sprint Demo - Sprint 107.pdf](https://github.com/user-attachments/files/17299427/VA.Mobile.Sprint.Demo.-.Sprint.107.pdf)
 
 
