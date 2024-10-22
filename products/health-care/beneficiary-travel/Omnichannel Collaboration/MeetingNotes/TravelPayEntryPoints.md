@@ -30,3 +30,7 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 | W5: Status Page to Claim Details            | Travel Pay (@Liz Townsend)| Travel Pay             |
 | M1: Appointment List to Appointment Details | UAE (@Juan Castillo)                 | VAHB Team to QA and UAE to review in local/staging     |
 | M2: Appointment Details to SMOC             | Liz (@Liz Townsend)               | VAHB Team to QA and UAE to review in local/staging        |
+
+## Slack threads:
+- - [va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ/p1729531969537449)
+- - [travel-pay](https://dsva.slack.com/archives/C05Q9HH47PS/p1729526935636379)
