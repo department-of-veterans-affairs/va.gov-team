@@ -92,7 +92,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 	- We send an email notifying Veterans of new debt and will eventually be updating the language to highlight the options available to them across the debt portal
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 	- As of now, no specific communication plans have been established by either Debt Management Center or VHA.
-- [Link to Release Plan for Digital Debt Dispute](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan for Digital Debt Dispute](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/release-plan.md)
 
 ## Launch Dates
 - *Target Launch Date*
