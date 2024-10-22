@@ -42,3 +42,10 @@ Specific questions in the Ask VA form determine routing. There are different typ
 |Questions that determine routing|Examples|Notes|
 |:--|:--|:--|
 |Category, topic, and State of Property|**Category**: Housing assistance and home loans<br>**Topic**: Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants<br>**State of property**:...<br>**Queue**: VBA-LGY-Specially Adapted Housing|❓How does State of property determine the queue?|
+
+### Guardianship, custodianship, or fiduciary issues
+❓Needs updating... 
+
+|Questions that determine routing|Examples|Notes|
+|:--|:--|:--|
+|Category, topic, and State of Property|**Category**: Housing assistance and home loans<br>**Topic**: Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants<br>**State of property**:...<br>**Queue**: VBA-LGY-Specially Adapted Housing|❓How does State of property determine the queue?|
