@@ -1,5 +1,5 @@
 # Ask VA KPIs
-Last updated by @beckyphung on October 17, 2024
+Last updated by @beckyphung on October 22, 2024
 
 🚧 10/15 Update: We're working on updating this page right now.
 
@@ -13,21 +13,30 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 User Experience KPIs measure how well Ask VA meets the needs and expectations of its users.
 
 ### Form
-
+These are KPIs we want to actively track when we launch on VA.gov in 2025.
 |Goal|KPI|Target definition|Actual targets as of [date]|
 |:--|:--|:--|:--|
 |Make it easy to complete the form|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|- VA.gov all pages average CSAT<br>-VA.gov forms average CSAT|- VA.gov average: [##]%<br>-VA.gov forms average: [##]%|
 |Make it easy to complete the form|**Task completion** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|VA.gov form completion rate|VA.gov form completion rate:[##]%|
-|Make it easy to complete the form|**Abandonment rate** - Decrease the abandonment rate from ??|??|VA.gov form abandonment rate:[##]%|
 |Make it easy to complete the form|**Time on task** - Decrease the average time it takes submitters to send a question from ??|??|VA.gov time on task: ??|
 
-### Dashboard 
+### Other form KPIs and metrics
+Below are other form KPIs and metrics we'll want to add. 
+- Form abandonment rate
+- [other]
 
+
+### Dashboard 
+These are KPIs we want to actively track when we launch on VA.gov in 2025.
 |Goal|KPI|Target definition|Actual targets as of [date]|
 |:--|:--|:--|:--|
 |Make it easy to use the dashboard|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|- VA.gov all pages average CSAT<br>-VA Secure messaging average CSAT?|- VA.gov average: [##]%<br>-VA Secure messaging average: [##]%|
 |Make it easy to use the dashboard|**Task completion** - Increase the number of replies to questions to ?? VA secure messaging?|VA secure messaging?|VA secure messaging? reply rate:[##]%|
 |Make it easy to use the dashboard|**Time on task** - Decrease the average time it takes submitters to reply to a question from ??|VA secure messaging?|VA secure messaging? time on task:[##]%|
+
+### Other dashboard KPIs and metrics
+Below are other dashboard KPIs and metrics we'll want to add. 
+- [other]
 
 ## Performance KPIs
 Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads.
