@@ -1,5 +1,5 @@
 # How Ask VA routing works 
-Last updated by @beckyphung: October 17, 2024  
+Last updated by @beckyphung: October 22, 2024  
 
 This doc explains how the Ask VA CRM routes inquiries to the correct queue. 
 
@@ -44,8 +44,6 @@ Specific questions in the Ask VA form determine routing. There are different typ
 |Category, topic, and State of Property|**Category**: Housing assistance and home loans<br>**Topic**: Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants<br>**State of property**:...<br>**Queue**: VBA-LGY-Specially Adapted Housing|❓How does State of property determine the queue?|
 
 ### Guardianship, custodianship, or fiduciary issues
-❓Needs updating... 
-
 |Questions that determine routing|Examples|Notes|
 |:--|:--|:--|
-|Category, topic, and State of Property|**Category**: Housing assistance and home loans<br>**Topic**: Specially Adapted Housing (SAH) and Special Home Adaptation (SHA) grants<br>**State of property**:...<br>**Queue**: VBA-LGY-Specially Adapted Housing|❓How does State of property determine the queue?|
+|Category, topic, and State of residence|**Category**: Guardianship, custodianship, or fiduciary issues<br>**Topic**: Accounting issues<br>**State of residence**:...<br>**Queue**: VBA Indy Fid Hub|Questions go to VBA ART or VBA Columbia Fid Hub? if conditional rules fail.|
