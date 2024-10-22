@@ -153,12 +153,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 session.
 
 **Pilot 1**
-- Pilot participant email:
-- Date and time of pilot session: Between Oct 14-18
+- Pilot participant email: Bryan Thompson (bryan.thompson@agile6.com)
+- Date and time of pilot session: Oct 15, 5:30 pm ET
 
 **Pilot 2 (with AT user)**
-- Pilot participant email:
-- Date and time of pilot session: Between Oct 14-18
+- Pilot participant email: Sarah Koomson (Sarah.Koomson@oddball.io) on a screen reader
+- Date and time of pilot session: Oct 16, 2 pm ET
 
 ### Research sessions
 - Planned dates of research: Oct 22 - Nov 1, 2024
@@ -191,10 +191,11 @@ Please list the people who will be serving in each role.
 - Research guide writing and task development (usually but not always same as moderator): Jordan Wood, Dave Pickett
 - Participant recruiting & screening: Perigean
 - Project point of contact: Jordan Wood, Dave Pickett
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: Bryan Thompson and Sarah Koomson
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Laura Flannery (laura.flannery@civicactions.com)
 - Note-takers: Perigean
 - Observers: TBD
 
 ## Approvals
 - Amanda Klausmeier (VA UX lead) on October 8, 2024
+- Shane Strassberg (VA Research Ops) on October 9, 2024

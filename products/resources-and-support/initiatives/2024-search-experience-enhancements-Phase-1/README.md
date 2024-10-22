@@ -25,17 +25,16 @@ Resources and Support was designed to provide a home for Tier 2 content which di
 - provides support for signing into and using VA.gov, _or_
 - answers a question that Veterans, service members, or family members have about VA benefits and services (based on contact center reports, search data, and user feedback)
 
-The first articles were published in November 2020. Since then, Resources and support has expanded to include 137 articles (as of September 2024). As much as 50% of the content from the Benefit Hubs is expected to be moved into Resources and Support as part of that streamlining effort. We expect the number of articles will continue to grow via the ongoing migration of content to VA.gov from legacy sites. Other major content areas are being evaluated, such as health education and materials for non-beneficiary audiences. 
+**The first articles were published in November 2020.** 
 
-This anticipated growth accelerated the prioritization of this effort to ensure the experience adequately supports discoverability and Veteran understanding.
+Since then, Resources and support has expanded to include 137 articles (as of September 2024). As much as 50% of the content from the Benefit Hubs is expected to be moved into Resources and Support as part of that streamlining effort. We expect the number of articles will continue to grow via the ongoing migration of content to VA.gov from legacy sites. Other major content areas are being evaluated, such as health education and materials for non-beneficiary audiences. This anticipated growth accelerated the prioritization of this effort to ensure the experience adequately supports discoverability and Veteran understanding.
 
 ## Problems to solve
-> *Describe the challenges / pain points you seek to address* 
 
 ### Current Veteran experience
 - The Resources and Support search component is custom built and allows the Veteran to search resources and support articles _or_ all of VA.gov 
-- "Tags" for benefit category, topic, and Audience _might_ appear on articles but aren't part of the search experience - search results cannot be filtered or sorted.
-- The landing page does not adequately support browsing - topic lists are incomplete and organized by benefit hub, rather than based on Veteran mental models
+- "Tags" for benefit category, topic, and Audience _might_ appear on articles but aren't consistent, interactive, or use to filter or sort search results.
+- The landing page does not adequately support browsing - topic lists are incomplete and manually organized by benefit hub, rather than based on Veteran mental models. 
 - The experience contains a number of accessibility defects, as discovered by an [audit performed in May 2024](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17365#issuecomment-2116090937) 
 
 ### Current Drupal editorial experience
@@ -49,15 +48,10 @@ Phase 1 focus
 - addressing accessibility defects - either through design iteration or engineering implementation
 - increasing findability 
   - search improvements
-  - taxonomy enhancements to support functional tagging and which can be extended to other parts of the VA.gov experience
+  - taxonomy enhancements to implement functional tagging, which can be extended to other parts of the VA.gov experience
 - landing page redesign
 - detail page template improvements
 - ensuring no silent failures
-
-### Discovery to inform iteration 
-Efforts to inform this iteration with Veteran feedback
-- [#19090 Good/Bad rating - update submitted feedback success message #19090](https://app.zenhub.com/workspaces/vagov-sitewide-product-team-6645154188a81a1f7a0a9464/issues/gh/department-of-veterans-affairs/va.gov-cms/19090) will simplify the feedback process and enourage high participation by presenting the Medallia survey after a user rates a R&S page, with hopes that we will receive more actionable qualitative feedback
-- Veteran usability research will be conducted using a prototype of the redesigned search experience
 
 ### Out of scope
 The following changes will be part of a future iteration phase 
@@ -66,11 +60,16 @@ The following changes will be part of a future iteration phase
   - template improvements (i.e. checklist, multi FAQs)
 - Adjust search for Resources and Support searching only
 
+### Discovery to inform iteration 
+Efforts to inform this iteration with Veteran feedback
+- [#19090 Good/Bad rating - update submitted feedback success message #19090](https://app.zenhub.com/workspaces/vagov-sitewide-product-team-6645154188a81a1f7a0a9464/issues/gh/department-of-veterans-affairs/va.gov-cms/19090) will simplify the feedback process and enourage high participation by presenting the Medallia survey after a user rates a R&S page, with hopes that we will receive more actionable qualitative feedback
+- Veteran usability research will be conducted using a prototype of the redesigned search experience
+
+
 ## Design
 [Figma](https://www.figma.com/design/cg8VNnxFOxw7lb10FVHpi5/VA-Resources-support-template?node-id=198-5737&node-type=section&t=G7yoxBvukRBiwCbI-0)
 
 ### Drupal UX
-- As a R&S editor, 
 
 ## Questions 
 > Related - [Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1/decision-log.md)
@@ -98,7 +97,10 @@ The following changes will be part of a future iteration phase
 
 
 ## Measuring Success
-[TBD]
+
+### Analytics
+- For baseline metrics, including CSAT, user and traffic data, and pageviews, please see [Resources & Support Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/analytics/Analytics%20-%20Resources%20%26%20Support.md)
+- Monthly experience ratings are available in the [Unauthenticated outcomes and metrics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/sitewide-content/unauthenticated-content-outcomes-and-metrics/monthly-experience-ratings/ratings-by-month)
 
 ## Relevant resources
 - [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support)

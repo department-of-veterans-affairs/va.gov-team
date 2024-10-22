@@ -5,9 +5,7 @@ title: ""
 labels:
   [
     "Decision-Reviews-Team",
-    "needs-grooming",
-    "needs-refinement",
-    "needs-estimate",
+    "needs-refinement"
   ]
 assignees: ""
 ---

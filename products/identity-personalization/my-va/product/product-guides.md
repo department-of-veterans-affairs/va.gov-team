@@ -1,9 +1,12 @@
 
 # My VA Dashboard Product Guide Versions
-_Last updated January 29, 2024 - added details about version 8._
+_Last updated October 15, 2024 - added details about version 9._
+
+Guidance for submitting an updated call center guide can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) and in the collaboration cycle epic. 
 
 |File|Version Number|Date| Call center GH Ticket | Notes |
 |----------|--------|---------|-------------|--------|
+|[My.VA.2.0.Product.Guide.Version.9.docx](https://github.com/user-attachments/files/17385035/My.VA.2.0.Product.Guide.Version.9.docx)| Version 9 |October 2024 | [#95015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95015)| Submitted to call center for review 10/15/2024 <br/><br/> Updates the "Benefit Application Drafts" section to "Benefit Applications and Forms" and includes forms status MVP functionality; various screenshot updates throughout the guide.|
 |[My VA 2.0.Product.Guide.v8.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/14087096/My.VA.2.0.Product.Guide.v8.docx)| Version 8 | December 2023 | [#72135](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72135) | Submitted to call center for review 12/18/2023 and accepted by VEO 12/26/2024. <br/><br/>Removes notifications section; updated screenshots for white card implementation, changes to Health Care section with addition of "go to inbox link", updates to the Benefit Application Drafts section and revised LOA1 experience. | 
 |[My.VA.2.0.Product.Guide.Version.7.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/11658631/My.VA.2.0.Product.Guide.Version.7.docx)| Version 7 | May 26, 2023 | [#59228](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59228)| Submitted to call center for review 5/26/23 and accepted by VEO week of 6/5/2023. <br/><br/>Includes updated screenshots to the Notifications section to show the new notification component.|
 | [My VA 2.0 Product Guide.Version 6](https://github.com/department-of-veterans-affairs/va.gov-team/files/11091045/My.VA.2.0.Product.Guide.Version.6.docx) | Version 6 | March 16, 2023 | [#55302](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55302)| Submitted to call center for review 3/16/23 and accepted by VEO on 04/04/2023. <br/><br/>Includes updates to guide to reflect implementation of findings from the UX audit which streamlines conditional use cases and code base for scalability.|

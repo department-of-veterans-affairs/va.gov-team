@@ -7,8 +7,9 @@ The content management system (CMS) syncs with the database during the nightly m
 <hr> 
 
 ### A newly added form was uploaded to the forms database, but the form details page is not available. Where is it?
-The new form is initially set as a draft in the CMS system. Once the form has been reviewed and is set to *Published*, the forms details page will be able to be statically generated. Until then, the result may show in *Find VA Forms* search, but the hyperlink to the details page will not be available. The form may available to be downloaded via the *Download* link.
+The new form is initially set as a draft in the CMS system. The Sitewide Content team owns decision making around which forms can / should be published to have their own form detail pages. Once the form has been reviewed and is set to *Published* by the Content team, the forms details page will be able to be statically generated, and will be live on VA.gov after the next content release. 
 
+Until then, the result may show in *Find VA Forms* search, but the hyperlink to the details page will not be available. The link will become active in search results, after the next nightly migration from Drupal to Lighthouse. 
 <hr> 
 
 ### In the CMS dashboard, a form title was edited. How long until the change is reflected on the frontend?

@@ -12,9 +12,10 @@
 - Accessibility audit, including Review pages (stretch goal)
 
 **Zero Silent Failures**
-- Enhance DD Metrics & 0781 remediation discovery
+- Enhance DD Metrics ~~& 0781 remediation discovery~~*
 - Provide migration LOE of BRD and PCIU to OCTO
 
+*Change of plan mid sprint, Team 2 completed
 
 ## Sprint 7
 9/25 - 10/8

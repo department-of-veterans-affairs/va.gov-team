@@ -34,3 +34,4 @@
 | 31 | [VA dental care](https://www.va.gov/health-care/about-va-health-benefits/dental-care-esp) | Spanish | 9/2/24  
 | 32 | [Eligibility for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility-esp/) | Spanish | 9/2/24 
 | 33 | [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov-esp) | Spanish | 9/3/24 
+| 34 | [Disaster Help](https://www.va.gov/resources/disaster-help-esp/) | Spanish | 10/10/24

@@ -1,4 +1,4 @@
-# Ask VA Form & Dashboard - Testing Plan (VA.gov)    DRAFT v2
+# Ask VA Form & Dashboard - Testing Plan (VA.gov)
 
 Jump to: 
 - [1. Scope and Objectives](#1-Scope-and-Objectives)
@@ -6,7 +6,7 @@ Jump to:
 - [3. Test Cases](#3-Test-Cases)
 - [4. Testing Team](#4-Testing-Team)
 - [5. Execute Testing](#5-Execute-Testing)
-- [6. Bug Tracking and Fixing](#6-Bug-Tracking-and-Fixing)
+- [6. Bug Tracking and Fixing](#6-Bug-Tracking-and-Fixing) Note: We moved this section to [this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/Manual%20QA%20process.md).
 - [7. Pre-Launch Checklist](#7-Pre-Launch-Checklist)
 
 ## 1. Scope and Objectives
@@ -21,6 +21,7 @@ Reference Docs:
 - [Testing Approach Doc (Word doc)](https://dvagov-my.sharepoint.com/:w:/g/personal/shelby_carl_va_gov/EXQdtcz1ksFKpTiRiE8kkhABaZZlCNK0RTt3L7n77L-eqQ?e=2rAX87) - PIV access Required
 - [Ask VA variation points (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/ask-va-variation-points.md)
 - [Timeline (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715100136735/fdff4d9758a1e62c69c5962faa45c587b83c9e12?wid=0-1717520164261)
+- [AVA Test Doc Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/test-plans/Ask.VA.Gov%20Test%20Doc%20Guide.MD)
  
 ## 2. Testing Types
 - **Unit Testing:** Test individual components and functions.
@@ -46,7 +47,7 @@ Drafting Insomnia Batch:
 - Inquiries will be drafted based on the Ava Testing Framework excel. Each inquiry will require a Category, Topic, and Subtopic which will route to a unique Queue.
 - Additional notes such as what mocked user information will be based ( name, email, etc) and documented
 
-For Formal Testing: We will cover 120 flows of potential inquiry mapping
+For Formal Testing: We will cover 120 flows of potential inquiry mapping. This list will be provided by CRM and will be based on category,topic, and subtopic. There may be additional cases to test regional routing. 
 
 ### E2E Automated Testing (Cypress)
 **Test Cases:** We'll test the full user journey, from submitting the Ask VA form to checking for responses in either the dashboard (authenticated) or the `Check the status of your question` search (unauthenticated). We'll test edge cases and typical user flows for both authenticated and unauthenticated users.
@@ -75,7 +76,7 @@ Form submission
 - An Unauthenticated User, who is the Veteran, asking a question in the `Life insurance` category
 - An Authenticated User, who is the Veteran, asking a question in the `Health care` category
 - An Unauthenticated User, who is the veteran, asking a question in the `Health care` category
-- An Authenticated, who is a business submitter, asking a question in the `Education benefits and work study` category
+- An Authenticated User, who is a business submitter, asking a question in the `Education benefits and work study` category
 
 Checking responses (dashboard)
 - An Unauthenticated User, Who is a submitter, checking status in the `Check the status of your question` question
@@ -157,57 +158,7 @@ Note: It is expected that our update will not break these bots with the inscope 
    - Retest after making fixes.
 
 ## 6. Bug Tracking and Fixing
-[Bug Tracking Ways of Working](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719508782816/0c02aafe8740074c13ea3a6821008f9f08266f5d?sender=uc2a4f18a27ff336484232897) 
-
-Bugs will be identified by Product or Teammates when identified. Bugs will be labeled with “Bug” and will be triaged within Zenhub within the Defects swimlane, ordered by priority. 
-
-| Category | Description | Resolution Process |
-|--------------|-------------|--------------------|
-| **Severity&nbsp;1** | This is a top tier. Bugs must be corrected prior to Assistive Tech Study (AT) **Example:** Unable to populate VA Health Facility Location, Incorrect Progress Bar. |Jumps backlog, potentially interrupt a developer |
-| **Severity&nbsp;2** | This will impact AT, but lesser priority | Give a heads up before picking up another ticket|
-| **Severity&nbsp;3** | Not blocking AT, but will be needed to be resolved prior to release **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
-
-
-### Process for Bug Creation: 
-
-![image](https://github.com/user-attachments/assets/95d60188-5bf2-456b-bb08-36481438c4d9)
-
-
-When identifying a bug take the following steps: 
-
-1. Include steps to recreate the defect
-2. Include screenshots
-3. Keep comments about the bug in the ticket
-4. Tag Design (Tyler / Thomas)  
-
-### Current Bug Template:
-
-#### Description
-_**Required.** Describe the problem._
-<!-- EXAMPLE: The -->
-#### Steps to Reproduce
-_**Required.** Provide information on what steps you are aware of that produce this undesired outcome._
-<!-- EXAMPLE:
-1. Visit the link at https://staging.va.gov/contact-us/ask-va-too/
-2. Click the "Start your application without signing in" link
-3. Notice that the "Dev List" doesn't contain "steven"
--->
-#### Workaround
-_**Optional.** Is there something we can do to work around this issue in the meantime?
-<!-- EXAMPLE: There are no known workarounds. -->
-#### Impact/Urgency
-_**Required.** Describe the impact this bug has on our system, clients, and/or team._
-Include the rational behind labelling P1, P2, P3 (ie for AT milesting. 1. stops the testing of the AT target 2. needed for AT target, but not stopping testing 3. post AT target
-<!-- EXAMPLE: This prevents us from testing the steven developer option. This is a blocking issue. -->
-#### Expected Behavior
-_**Required.** Describe the desired outcome if this were functioning as expected. Include a checklist if applicable._
-<!-- EXAMPLE: "steven" should appear in the unauthenticated Dev List dropdown. -->
-#### QA Considerations
-_**Optional.** For QA to populate. Leave blank if QA is not applicable on this ticket._
-<!-- EXAMPLE: ... -->
-#### Additional Info & Resources
-_**Required.** Include additional information, such as screenshots, log snippets, links to applicable code files, and/or links to relevant documentation._
-<!-- EXAMPLE: ... -->
+We moved this section to [this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/Manual%20QA%20process.md). 
 
 ## 7. Pre-Launch Checklist
 Final Review: Ensure all critical issues are resolved.

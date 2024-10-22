@@ -262,9 +262,22 @@ Example:
 ### Implementation notes
 **Note:** MacOS and iOS Voice Control generally uses the computed accName only to identify links and buttons; only distinct visual labels will be 100% usable by this group. However, these users have other ways to access links and buttons, via numbered flags or a numbered grid, so these aren’t wholly inaccessible to them.
 
+### How we tested
+First, we created a [testing script](https://coforma-jamie.github.io/VoiceCommandTest/) to test interactive elements - links, buttons, radio buttons, checkboxes, text inputs - with unique instances of `aria-label` and `aria-labelledby` for a variety of "vanilla" semantic HTML interactive elements and VADS components.
+
+Then we tried activating each element using the visual label and its `aria` accName (if applicable), and recorded our findings in a [spreadsheet](https://docs.google.com/spreadsheets/d/154S4eYogg-k-Lx-GFLZuriIs8Nr3q2LO7gRY3jxamvU/edit?gid=0#gid=0).
+
+To test, we used these apps:
+- Voice Control (MacOS and iOS)
+- Dragon
+- Windows Speech Recognition (Win 10)
+- Windows Voice Access (Win 11)
+- Talon
+- Android Voice Access
+
 ### Further reading
 - [What is an accessible name?, TPGi](https://www.tpgi.com/what-is-an-accessible-name/)
 - [GH ticket #92432 - Voice command and interactive elements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92432)
 
 ### Last updated
-October 10, 2024
+October 15, 2024

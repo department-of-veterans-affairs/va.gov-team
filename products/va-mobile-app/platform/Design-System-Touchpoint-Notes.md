@@ -5,6 +5,9 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 10/23/24
+*   Figma account transition
+
 ## 10/9/24
 *   Review Q4 Plan
 *   Home Icon sizing

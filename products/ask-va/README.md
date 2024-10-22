@@ -3,7 +3,7 @@ Ask VA (AVA) is an online portal that allows Veterans, caregivers, and supportin
 
 Ask VA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystem to quickly and accurately answer users' questions. Users should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want Ask VA to feel part of a cohesive and user-centered approach to support.
 
-Learn more about the [history of Ask VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/ask-va-background.md).
+Learn more about the [history of Ask VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/background.md).
 
 ## Where to find us 
 
@@ -17,11 +17,8 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 |:---|:---|:---|
 |Product Owner (OCTO), Designer|Becky Phung|becky.phung@va.gov|
 |Product Owner (VES)|Natalie Morales|natalie.morales@va.gov|
-|Product Owner (VES)|Andrea Schneider|andrea.schneider3@va.gov|
-|Program Manager|Emily Allan|emily@oddball.io|
 |Program Manager|Megan Siddle|megan.siddle@oddball.io|
 |Product Manager|CeeCee O'Connor|catherine.oconnor@thoughtworks.com|
-|Interim Product Manager|Terri Hollar|tbhollar@thoughtworks.com|
 |Lead Engineer|Joseph Hall|joe.hall@thoughtworks.com|
 |Engineer|Eddie Otero|eddie.otero@oddball.io|
 |Engineer|Khoa Nguyen|khoa.nguyen@oddball.io|

@@ -29,6 +29,8 @@
 - [ ] Check if the page has a new or updated alert. If so, publish the alert separately. 
 
 ### Additional checks for translated articles
+[Find list of translated articles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/translation-work/list%20of%20translated%20pages.md)
+
 - [ ] Share content ticket with bilingual copy editor to flag any changes that will need to be reflected on the translated versions of the page.
 - [ ] If we don't have updated translated versions, add the alert that links to the corresponding English page and lets users know that the translated pages aren't up to date.
 

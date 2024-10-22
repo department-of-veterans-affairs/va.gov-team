@@ -208,3 +208,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Ginger Wilson (ginger.wilson@va.gov)
 - William Rodgers (William.Rodgers2@va.gov)
 - Jamie Klenetsky Fay (Jamie.KlenetskyFay@va.gov)(only for the Wednesday at 11:30 a.m. session)
+- Sara Smith (sara.smith23@va.gov) (only for the Wednesday at 11:30 a.m. session)

@@ -16,8 +16,7 @@ Slack for real-time feedback from observers.
 - Make sure to silence the sounds as observers enter and exit, General>View advanced features>Play sound when participants join or leave.
 - Ensure it's recording to the cloud.
 ## Intro - 5 minutes
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes. I also have a UX colleague with me and a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 Today we're going to talk about the process of applying for a Medallion for a deceased Veteran to be placed in a private cemetery. A bit of background, in this process the applicant will fill out a form for the medallion and submit. Then a second form, which is a shortened version of the first form, is sent to the cemetery to review and sign. If approved, the medallion will be sent.
 Before we start, I have a few things that I want to go over with you:
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -38,7 +37,7 @@ Before we start, I have a few things that I want to go over with you:
    - Can actually do this while explaining to them where to find “Chat” and “Share,” so by the end we're looking at their screen, then move onto recording.
    - Backup plan if they cannot figure out how to share screen:
       - Ok, it seems like we're having some trouble getting the prototype up on your screen. I'm really excited for you to participate though, so what we're going to do today is have me share my screen, and then I'm going to have you "Drive". You can tell me what to do, what to tap, on, etc. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen?
-- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
+- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits. While you're going through the scenario, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
@@ -55,10 +54,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Yes or no, ask for the user to elaborate further.
 - Alright, let's get to the prototype.
 ## Getting Started - 1 minute
-- I'm going to give you a scenario for you to walk through of a prototype of this application and please give us your thoughts.
-- The prototype link I shared is a work in progress, so there might be a few mistakes, or it may not function exactly the way you expect, which is ok. Some areas will be clickable and some will not and some fields will fill in when you click on them. Some of the questions you may not know the answer to, and that's ok.
-- While you're going through the scenario, it would be really helpful if you'd think aloud - kind of like you'd do if you were talking to yourself. We are interested in your first reactions, what you're thinking & wondering as you go through the process. The more you say about what you are thinking and wondering, the more we’ll learn, so we want to hear your honest opinions. We're not testing your ability. We just want to improve the form to better meet Veteran's needs. We won't be offended by any opinions you express, and we welcome your feedback.
-- When you think aloud, it helps us understand what works well and where we might want to make improvements to make things even easier. If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way. 
+- I'm now going to give you a scenario for you to walk through of a prototype of this application. 
 ## First Task: [Funeral home applicant] - X minutes
 - **Step 1:** You are Alex Wilson, a funeral home employee working for Wilson & Wilson. You want a medallion sent to you to place on a deceased Veteran’s headstone. You will complete the application from start to finish for the medallion. 
 - **Step 2:** You are a cemetery official reviewing and signing off on an application.

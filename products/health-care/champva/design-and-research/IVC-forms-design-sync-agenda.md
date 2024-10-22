@@ -1,4 +1,61 @@
 # Running Design and Research Agenda
+## October 21 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+		- Share out the update Design Roadmap
+		- OHI Flow: Part C and Part D questions to account for PFFS
+  		- Discuss the OHI PDF change. Concerned with IVC stakeholders and our interpretation of the Part D vs Pharmacy Benefits. 
+ 
+### Notes
+- OHI Flow:
+	- For now we are keeping the flow the same
+	- This uses that have both an Advantage plan and a separate Part D plan might be edge cases. We need to do some more research with the stakeholders to know if we need to solve this. If they are edge cases we may be able to allow those users to get the info to IVC in other ways. We are concerned with confusing the majority of Advantage plan users by asking them if they have Part D. 
+
+	- We are removing Prescription Discounts from the health insurance plan types questions on the pdf and the digital form
+	- Confirm with Angela P. if we need Part D effective dates. 
+	- Our suggestion is to keep both Part D and pharmacy questions to capture those people with Advantage Plans with a bundled drug plan.  
+
+- Silent Failures and required emails deadline
+	- Moving forward with requiring emails on all forms 
+	- There’s not a very straight forward solution for 1010D (CHAMPVA Registration) so we may be able to change the schedule for 1010D. (Launch with email by 11/11) Premal to inquire about the date change. 
+	- Need to know from OCTO:
+		- Are we decoupling what we are doing on the digital vs paper form? Are we solving for both? Does VES have to accept that email? Premal to have a conversation with OCTO about what is in involved for 010D
+	- IVC will come up with a recommendation for requiring an email to send users a failure notice. 
+	- We will make the FMP Reg required as it’s an easier task. 
+
+
+## October 15 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+		- Share out the updated Design Roadmap
+		- Share some updates on the CHAMPVA Claims Research Report and answer any questions you may have about it during the Sync.
+		- Share agenda items for the CHAMPVA Claims Research Roadmap Review
+  		- Share the OHI Presentation for the IVC stakeholders
+### Notes
+* Design Roadmap
+    * Updated: moved the COP and Stakeholder CHAMPVA Claims research readout to the Next column. 
+    * Jamie to find a way to work CHAMPVA Registration in to the readouts
+* CHAMPVA Claims Research Report
+    * Jamie updated the report according to Lois’ suggestions. 
+    * Lois to review the report and not any other changes needed.
+
+ 
+
+
+
+* Claims Research Roadmap Review
+    * Lois to see if she has time open to schedule the sessions earlier than 10/29
+    * We may need to rethink how and when we do the Engineer LOE ratings for each finding. We plan to get through the finding analysis and decide what would be the most helpful to do next. 
+    * Jamie to tighten the plan for Part 2 on the Roadmap Review
+* OHI Presentation to IVC stakeholders
+    * Presentation is good with a few minor adjustments. Remove the yellow note tabs and maybe try to make the screens/ form image larger.
+    * Explain the goal of the meeting as a review of the latest form flow to align everyone with the data that we are collecting from Benes as per are last few convos about OHI
+    * While presenting this to the IVC Stakeholders, explain that we are only showing Medicare and HI questions b/c to show deviations we decided on from the pdf form. 
+    * Explain what branching is on the form while presenting.  \
+
+* In-person research
+    * Think about what we want to ask for in-person research appointment
+    * We want to focus on how caregivers approach My VA. Perhaps ask about the status of Registration/ Claims or their experience of how spouses log in or if they choose to use their Veteran’s Account.  What would a caregiver or spouse want to see on their My VA?
 
 ## October 7 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes

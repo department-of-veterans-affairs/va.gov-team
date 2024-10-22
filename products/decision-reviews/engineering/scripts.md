@@ -167,14 +167,15 @@ def remediation_info(lighthouse_upload_id)
   logingov_profile = mpi_service.find_profile_by_identifier(identifier: user_uuid, identifier_type: 'logingov')&.profile
   mpi_profile = idme_profile || logingov_profile
 
-  form_attachment = FormAttachment.find_by(guid: upload.decision_review_evidence_attachment_guid)
-  raw_filename = JSON.parse(form_attachment.file_data)['filename']
+  attachment = upload.decision_review_evidence_attachment
+  raw_filename = JSON.parse(upload.decision_review_evidence_attachment.file_data)['filename']
 
   {
     icn: mpi_profile.icn,
     form_type: appeal_submission.type_of_appeal,
-    upload_timestamp: form_attachment.created_at,
+    upload_timestamp: attachment.created_at,
     filename: raw_filename.gsub(/(?<=.{3})[^_-](?=.{6})/, '*'),
+    decision_review_evidence_attachment_uuid: attachment.guid,
     raw_filename:
   }
 end

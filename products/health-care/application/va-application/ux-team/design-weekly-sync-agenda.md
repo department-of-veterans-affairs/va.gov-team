@@ -1,5 +1,69 @@
 # Design Weekly Sync Agenda
 
+
+
+## 2024-10-21
+Attendees: Angela, Jessica, Lois, Luis, and Renata
+
+#### UGC
+- social listening report - great job from Lois! 
+- how might we’s and exploring those in a workshop
+- time to workshop those as a team, post workshop and tickets/roadmap
+- Lois interim step before stakeholders, PMs/PO (middle ground)
+- Go over internally 
+
+
+#### EC/NOK
+- Hieu working with engineers and limitations with UI and backend
+- EC side then match on NOK
+- NOK HEC questions remaining - content specific 
+- align with PDF form questions and consistency - 1 vs 2 EC/NOKs allowed
+- Research talking with terminology - Next of Kin (advanced directed medical decisions) in VA vs outside (estate planning) - research needed content concern
+- No research planning, just seeing if scope validates research later
+- Renata talking about possible future benchmarking research 
+- Lois - research relevant and actionable
+
+
+- Approach for social listening, and open text fields and analysis of ga analytic 
+
+#### Doc Upload Component
+- document uploads and changing file types - Lois watch out list
+- upload issue… keep a look out
+
+
+#### EnjoyHQ
+- Lois to play around with upload a research study
+- Recent research to upload
+- Tracking trends - where Enjoy can come in
+- things we find and not providing well - how to reach out to others/Platform
+- More formal but easy
+
+#### CG research update
+- rescheduled session to this week, was supposed to be completed last Friday 10/18
+- full on synthesis work this week
+- Lois mentions synthesis checkpoints - reviewing research report, track back to the data in Mural, validate for myself
+- invite Lois as optional, team working session
+- Lois wants to observe process, pass along to other teams
+
+#### Data reporting with Luis
+- Question how many number of submissions (successful) 2023 to 2024 compare
+- broad health care apply study
+- Lois question - how do these transfer to benefits
+- numbers Luis ran, source the numbers from DataDog to find successful submissions (spreadsheet tracking Google sheet)
+- why DataDog better than GA? Number for submission is closer to actual truth, specific metric at code level when submission process. GA is tangental, tag manager pixel action
+- old GA numbers were sampled
+- numbers include EZ and EZR forms
+- Spikes in August + September 2023 during PACT communication blasts and efforts
+- DataDog retention is a month-ish; kept in spreadsheet for historical data
+- intro page vs Veteran info first page to factor in submission rates
+
+
+#### Content testing
+- what are other teams doing? guidance?
+
+
+
+
 ## 2024-10-08
 Attendees: Angela, Jessica, Lois, Luis, and Renata
 

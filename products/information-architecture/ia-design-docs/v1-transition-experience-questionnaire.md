@@ -1,4 +1,4 @@
-# IA Design for V1 Transition Questionnaire
+# IA Design for V2 Transition Questionnaire
 **STATUS:In Progress**
 
 **Team:** Transition experience
@@ -24,9 +24,9 @@ Slack channel: #ves-transition
 
 ## <a name="map"></a>Page structure<br>
 [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716219020147/013c6f25f45e35963469c7bb7a94b66e1402f663?wid=0-1722446695647)
-For the MVP, this tool will only display careers/employment benefits. But, the future plan is to have this tool display all types of benefits. Therefore, we decided to publish this page into ROOT so that we don't have to change the URL a bunch of times as new benefits are added to the tool. 
+For the V1, this tool will only display careers/employment benefits, and will be shown in production only to a specific set of internal VA users. For V2, the team will include all main benefit types, and the tool will become available to general VA.gov users. 
+![Screenshot 2024-10-21 at 3 59 35 PM](https://github.com/user-attachments/assets/93460129-2279-4ab9-a009-a1a2f4e1d3e5)
 
-![Screenshot 2024-07-31 at 12 24 37 PM](https://github.com/user-attachments/assets/b205f124-ec07-465f-852f-0861f372b551)
 
 
 ## <a name="url"></a>URLs and breadcrumbs
@@ -34,8 +34,7 @@ The URL should be a permenant home for the tool.
 
 **1) Transition experience benefit questionnaire - New**
 - URL: va.gov/discover-your-benefits/
-- Breadcrumb: none since only 2 levels deep?
-- Notes: This URL is not finalized -- it's just a suggestion to show the idea of the URL being benefit-agnostic, rather than focused specifically on careers. The final URL needs to be created in partnership with the content team.
+- Breadcrumb: none since only 2 levels deep
 
 ### Sub-URLs
 The CAIA IA team would like to give feedback on the sub urls that the team suggests. 

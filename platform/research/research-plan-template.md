@@ -1,4 +1,4 @@
-# Research Plan for [Team, Product, Date]
+	# Research Plan for [Team, Product, Date]
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
@@ -143,7 +143,10 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
+**Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
+
+**Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
+
 - Moderator:	
 - Research guide writing and task development (usually but not always same as moderator):	
 - Participant recruiting & screening:	
@@ -151,5 +154,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
 - Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.
