@@ -16,7 +16,7 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 | W3: Appt Details to SMOC                    | UAE                    | Travel Pay             |
 | W4: Appt Details to Claim Details           | UAE                    | Travel Pay             |
 | W5: Status Page to Claim Details            | Travel Pay             | Travel Pay             |
-| M1: Appointment List to Appointment Details | VAHB Team              | UAE                    |
+| M1: Appointment List to Appointment Details | VAHB Team              | UAE to review                  |
 | M2: Appointment Details to SMOC             | VAHB Team              | UAE and Travel Pay     |
 
 ## **FRONT-END ENGINEERING**
