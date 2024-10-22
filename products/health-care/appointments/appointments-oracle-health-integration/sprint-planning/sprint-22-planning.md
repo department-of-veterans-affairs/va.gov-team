@@ -24,25 +24,21 @@ Sprint 22: 10/22/24 - 11/5/24
 ## 📋 Previous Sprint Summary:
 In Sprint 21 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  * [#94549 CES-1117 VPG: Enforce Cerner patient self-scheduling constraint](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94549)
+  * Updated VetsAPI Patient Gateway to enforce constraints on desired appointment dates for directly booked appointments. The gateway now disallows appointments with either a 1) current date or 2) a date more than 390 days in the future.
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-   *  [#93517 CES-918: Unify Slot Search Parameters](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/93517)
-     * [#94553 CES-1121 VPG: Address tech debt in orchestration package](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94553)
-     * [#94543 Migrate VAOS appointment specs to separate file](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94543)
-     * [#94552 CES-1119 VPG: Address tech debt in client package](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94552) 
+   * Enhanced Clinical Encounter Service to unify slot search parameters, moving away from custom search parameters based on EHR.
+   * Addressed technical debt in the gov.va.mobile.vpg.v1.orchestration package to respond to SCA findings, improving test coverage and resolving tech debt within the client package.
+   * Separated legacy VAOS links from the VetsAPI Patient Gateway to eliminate potential LOC violations.
 * #### Backend support for Slot Search for Appointment Requests
-   * [#94551 CES-542 VPG: add provider filter to Cerner slot search](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94551) 
+   * Implemented a new "provider" filter option in the VPG Slot search endpoint of VetsAPI Patient Gateway.
 * #### Backend support for Oracle Health to enable Appointment Cancellation
-   * [#93509 CES-1036 VPG: map Appointment telehealth info from Cerner](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/93509)
-
+   * Updated the orchestration layer and FHIR mappers in VetsAPI Patient Gateway to populate responses from Oracle Health appointment searches that do not include the URL for telehealth appointments.
 * #### Backend support for Oracle Health to enable appointment requests
-  *  [#92573 CES-945 CES: Support search by multiple ids for slots](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/92573)
-
+  *  Enhanced Clinical Encounter Service to support searching for slots using multiple IDs.
 * #### Testing/Admin/Operational Support
-   * [#94573 CES-1070 CES SRVDD update](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94573)
-  * [#94548 CES-1094 VPG: Enable SBA discovery](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94548)
-  * [#94574 CES-1092 CES: Enable SBA discvery](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94574)
-
+   * Addressed technical debt to ensure that services are configured to be discoverable by Spring Boot Admin in both the Clinical Encounter Service and VetsAPI Patient Gateway.
+   * Updated the CES service design document to accurately reflect all current capabilities of the service.
+ 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
@@ -55,13 +51,9 @@ In Sprint 21 the team provided support for multiple features and initiatives, ou
    * 🚧 [#94556 VPG: Test OH booked appointment reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94556)
    * [#95579 CES-1200: VPG: filter out missing ReasonCode Coding elements from FHIR Appointments](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95579)
    * [#95578 CES-1201: VPG: Populate minutesDuration field for Cerner appointments](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95578)
-
-* 🟦 Support Oracle Health slot search
-
 * 🔴 Appointment Cancellation
   * [#81329 Add careType eligibility logic to cancellation business rules document](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81329)
   * 🚧 [#94547 Remove unused feature flag for OH reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94547)
-  
 * 🟢 Appointment Requests
   * [#94555 VPG: Test OH proposed appointment reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94555) 
 * 🟣 Testing/Admin/Operational Support
