@@ -11,7 +11,7 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 
 | ENTRY POINT                                 | RESPONSIBLE (BUILDING) | ACCOUNTABLE (ADVISING) |
 |---------------------------------------------|:----------------------:|------------------------|
-| W1: MHV to Status Page                      | Cartography Team       | Travel Pay             |
+| W1: MHV to Status Page                      | Cartography Team (Florence, Wes)      | Travel Pay             |
 | W2: Appts List to Details                   | UAE                    | UAE                    |
 | W3: Appt Details to SMOC                    | UAE                    | Travel Pay             |
 | W4: Appt Details to Claim Details           | UAE                    | Travel Pay             |
@@ -23,7 +23,7 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 
 | ENTRY POINT                                 | RESPONSIBLE (BUILDING) | ACCOUNTABLE (ADVISING) |
 |---------------------------------------------|:----------------------:|------------------------|
-| W1: MHV to Status Page                      | Cartography              | Travel Pay             |
+| W1: MHV to Status Page                      | Cartography (Florence, Wes)              | Travel Pay             |
 | W2: Appts List to Details                   | UAE (@John Woolschlager))| UAE                    |
 | W3: Appt Details to SMOC                    | UAE (@John Woolschlager) | Travel Pay             |
 | W4: Appt Details to Claim Details           | UAE (@John Woolschlager) | Travel Pay             |
