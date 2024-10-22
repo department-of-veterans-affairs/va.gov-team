@@ -162,13 +162,10 @@ sequenceDiagram
     VetsAPI->>VistA: getVistAAppointments() 
     VistA->>VetsAPI: Return VistA appointments
     VetsAPI->>VetsAPI: validateAppointments() (for referrals already made in EPS, for referrals that are already appointments in VistA)
-    VetsAPI-->>Frontend: Return referral data
+    VetsAPI-->>VetsAPI: Combine all appointments as necessary and valid referrals
+    VetsAPI-->>Frontend: Return combined appointments
     Frontend->>Frontend: Store referral data in Redux
-    Frontend->>VetsAPI: checkEPSAppointments()
-    VetsAPI->>EPS: Check for EPS appointments
-    EPS-->>VetsAPI: Return EPS appointments
-    VetsAPI-->>Frontend: Return EPS appointments
-    Frontend->>Frontend: Combine EPS appointments with existing appointments in Redux
+    
 
     Note over User: Starting appointment process page
     Frontend->>Frontend: getReferralData() from Redux
