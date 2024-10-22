@@ -115,11 +115,13 @@ The way we close tickets matters to our reporting, but we have different steps t
 2. Close ticket
 
 **Work ticket that is NOT attached to an intake:**
+
 The assignee responsible for the last step will be responsible for moving the ticket.
 1. Add all required fields
 2. Move the ticket to Validate
 
 **Intakes**
+
 If you are assigned to the last open work ticket on an intake (or you’re the only team member assigned), you are responsible for moving the intake. 
 1. Confirm that all the work tickets are closed
 2. Add all required fields
@@ -127,6 +129,7 @@ If you are assigned to the last open work ticket on an intake (or you’re the o
 4. Move the ticket to Validate
 
 ### Closure process for discipline "leads"/delivery
+
 At least weekly, review the Validate column and close intakes and work tickets related to your discipline. 
 1. Confirm that all work tickets attached to an intake are closed
 2. If a ticket is not ready for closure, add a comment explaining why and next steps, and move the ticket to an active status swimlane (such as In Progress or Blocked)
