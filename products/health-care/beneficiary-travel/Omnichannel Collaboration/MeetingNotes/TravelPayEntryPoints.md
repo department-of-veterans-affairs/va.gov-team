@@ -7,7 +7,7 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 
 <img width="1044" alt="image" src="https://github.com/user-attachments/assets/747f8143-039f-4461-b098-96525fa1476c">
 
-**UX DESIGN**
+## **UX DESIGN**
 
 | ENTRY POINT                                 | RESPONSIBLE (BUILDING) | ACCOUNTABLE (ADVISING) |
 |---------------------------------------------|:----------------------:|------------------------|
@@ -19,7 +19,7 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 | M1: Appointment List to Appointment Details | VAHB Team              | UAE                    |
 | M2: Appointment Details to SMOC             | VAHB Team              | UAE and Travel Pay     |
 
-**FRONT-END ENGINEERING**
+## **FRONT-END ENGINEERING**
 
 | ENTRY POINT                                 | RESPONSIBLE (BUILDING) | ACCOUNTABLE (ADVISING) |
 |---------------------------------------------|:----------------------:|------------------------|
