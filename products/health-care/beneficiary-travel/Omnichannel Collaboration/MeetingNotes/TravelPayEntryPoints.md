@@ -12,10 +12,10 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 | ENTRY POINT                                 | RESPONSIBLE (BUILDING) | ACCOUNTABLE (ADVISING) |
 |---------------------------------------------|:----------------------:|------------------------|
 | W1: MHV to Status Page                      | Cartography Team (Florence, Wes)      | Travel Pay             |
-| W2: Appts List to Details                   | UAE                    | UAE                    |
-| W3: Appt Details to SMOC                    | UAE                    | Travel Pay             |
-| W4: Appt Details to Claim Details           | UAE                    | Travel Pay             |
-| W5: Status Page to Claim Details            | Travel Pay             | Travel Pay             |
+| W2: Appts List to Details (COMPLETED)                  | UAE                    | UAE                    |
+| W3: Appt Details to SMOC (COMPLETED)                   | UAE                    | Travel Pay             |
+| W4: Appt Details to Claim Details (COMPLETED)           | UAE                    | Travel Pay             |
+| W5: Status Page to Claim Details (COMPLETED)           | Travel Pay             | Travel Pay             |
 | M1: Appointment List to Appointment Details | VAHB Team              | UAE to review designs/conent                 |
 | M2: Appointment Details to SMOC             | VAHB Team              | UAE and Travel Pay to review designs/conent    |
 
