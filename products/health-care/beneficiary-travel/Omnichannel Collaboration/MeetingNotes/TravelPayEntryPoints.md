@@ -16,8 +16,8 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 | W3: Appt Details to SMOC                    | UAE                    | Travel Pay             |
 | W4: Appt Details to Claim Details           | UAE                    | Travel Pay             |
 | W5: Status Page to Claim Details            | Travel Pay             | Travel Pay             |
-| M1: Appointment List to Appointment Details | VAHB Team              | UAE to review                  |
-| M2: Appointment Details to SMOC             | VAHB Team              | UAE and Travel Pay     |
+| M1: Appointment List to Appointment Details | VAHB Team              | UAE to review designs/conent                 |
+| M2: Appointment Details to SMOC             | VAHB Team              | UAE and Travel Pay to review designs/conent    |
 
 ## **FRONT-END ENGINEERING**
 
@@ -28,5 +28,5 @@ This doc outlines an understanding of responsibilities discussed on 10/15 with K
 | W3: Appt Details to SMOC                    | UAE (@John Woolschlager) | Travel Pay             |
 | W4: Appt Details to Claim Details           | UAE (@John Woolschlager) | Travel Pay             |
 | W5: Status Page to Claim Details            | Travel Pay (@Liz Townsend)| Travel Pay             |
-| M1: Appointment List to Appointment Details | UAE (@Juan Castillo)                 | VAHB Team and UAE      |
-| M2: Appointment Details to SMOC             | Liz (@Liz Townsend)               | VAHB Team and UAE      |
+| M1: Appointment List to Appointment Details | UAE (@Juan Castillo)                 | VAHB Team to QA and UAE to review in local/staging     |
+| M2: Appointment Details to SMOC             | Liz (@Liz Townsend)               | VAHB Team to QA and UAE to review in local/staging        |
