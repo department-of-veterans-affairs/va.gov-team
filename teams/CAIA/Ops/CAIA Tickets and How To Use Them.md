@@ -126,7 +126,7 @@ The assignee responsible for the last step will be responsible for moving the ti
 If you are assigned to the last open work ticket on an intake (or you’re the only team member assigned), you are responsible for moving the intake. 
 1. Confirm that all the work tickets are closed
 2. Add all required fields
-3. Add a comment confirming that the ticket is ready for closure review, and tag your discipline lead.
+3. Add a comment confirming that the ticket is ready for closure review, and tag your discipline lead
 4. Move the ticket to Validate
 
 ### Closure process for discipline "leads"/delivery
