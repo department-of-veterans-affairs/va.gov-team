@@ -5,33 +5,17 @@ Last updated by
 
 ## Moderator logistics
 
-### Before all sessions
+### Day of the session
 
-- [ ] Review [guidelines for moderating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20moderating.md)
-- [ ] Review [research goals]()
-- [ ] Review participant list for name and screener responses
-- [ ] Review [screen reader instructions and troubleshooting during research guidance](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur) (if applicable to session)
+- [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
+Slack for real-time feedback from observers.
+- [ ] Mute your Slack notifications.
+- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- [ ] Send out the link to the observer Mural boardto observers in the thread
+- [ ] Sign into the Zoom website as Perigean using the credentials provided and start the Zoom meeting 5-10 minutes before
 
-### 10 minutes before the session
 
-- [ ] Start a thread in #feedback-backchannel
-- [ ] Sign into Perigean’s Zoom and start the meeting
-- [ ] Change name from 'Moderator' to your name
-- [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
-- [ ] Open conversation guide
-- [ ] Have sign-in instructions ready if needed / if participants struggles
-- [ ] Mute your Slack notifications
-
-### Start of the session
-
-- [ ] Turn camera on
-- [ ] Let in accessibility specialist (if applicable)
-- [ ] If participant doesn’t arrive after 2 minutes, Slack Perigean in study channel
-- [ ] After 15 minutes, if participant is a no-show, Slack team in #feedback-backchannel
-- [ ] If participant arrives, greet them prior to letting in other participants
-- [ ] Let in other participants & have them briefly come off camera to introduce themselves
-
-## Agenda (90 minutes)
+## Agenda (? minutes)
 
 - [Introduction - 5 minutes](#intro)
 - [Warm up - 5 minutes](#warm-up)
