@@ -1,5 +1,5 @@
 ---
-name: Best Bet Request
+name: CAIA Best Bet Request
 about: Request to create or change a best bet in VA.gov search results
 title: Best bet request for <topic>
 labels: sitewide content, sitewide CAIA, Sitewide IA
