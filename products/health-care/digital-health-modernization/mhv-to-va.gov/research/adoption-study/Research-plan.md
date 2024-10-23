@@ -54,36 +54,188 @@ These research sessions will be conducted remotely via Zoom.
 - Mural board for note-taking and synthesis
 	
 ## Recruitment	
+We will partner with Perigean to recruit Veterans and we request a kickoff meeting with Perigean. We anticipate that the kickoff meeting will last 30 minutes. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network.
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
+Availability for potential kickoff meeting times with Perigean:
+- 
 
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
-### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+We are aiming to speak to Veterans that are more likely to be able to independently navigate technical difficulties without relying on external help to gain access to and use the new portal.
 
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+**Account type**
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+How do you sign into VA.gov most often?
+- Login.gov (red button) (qualify)
+- ID.me (green button) (qualify)
+- My HealtheVet (blue button) (qualify or disqualify???)[{{type}} Annotation][{{type}} Annotation][{{type}} Annotation]
+- DS Login (blue button) (qualify or disqualify???)
+- I don’t remember (disqualify)
+- I don’t login to VA.gov (disqualify)
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+**Identify-verified account**
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+Which one of these sign-in credentials do you use when signing in to manage
+your VA benefits?
+- Login.gov (red button)
+- ID.me  (green button)
+- My HealtheVet (blue button)
+- DS Logon (blue button)
+
+Have you verified your account with a government ID (such as a drivers 
+license) and by proving either your phone number or mailing address?)
+- Yes (qualify)
+- No (disqualify)
+- Not sure and can’t check right now (disqualify)
+
+**Frequency of use**
+
+How often, if at all, have you used My HealtheVet over the past year?
+- Never used it (disqualify)
+- 1-2 times in the past year (disqualify)
+- 1-2 times in the past 6 months (qualify)
+- 3-4 times in the past 6 months (qualify)
+- More than 5 times in the past 6 months (qualify)
+
+**Recency of use**
+
+When was the last time you visited My HealtheVet?
+- Yesterday (qualify)
+- Within the past week (qualify)
+- Within the past month (qualify)
+- Within the past 2 months (disqualify)[{{type}} Annotation]
+- Within the past 3 months (disqualify)
+- Within the past 4 months (disqualify)
+- Within the past 5 months (disqualify)
+- Within the past 6 months (disqualify)
+- At least 6 months ago (disqualify)
+
+**Recent task**
+
+What did you last login to My HealtheVet to do? (Open text field)
+
+**Task completion**
+
+To which degree do you agree or disagree with this statement: The last time I logged in to My HealtheVet, I was able to complete the task(s) I had set out to complete.
+
+- Strongly agree (qualify)
+- Agree (qualify)
+- Disagree (qualify)
+- Strongly disagree (qualify)
+
+How comfortable are you with the idea of managing your health-related tasks online, such as scheduling appointments, viewing medical records, or communicating with health care professionals?
+ 
+- Not at all comfortable (Disqualify)
+- Slightly comfortable (Disqualify)
+- Moderately comfortable (Disqualify)
+- Very comfortable (Qualify)
+- Extremely comfortable (Qualify)
+
+How frequently do you use the internet for personal activities, such as browsing websites, online banking, or online shopping?
+ 
+- Never (Disqualify)
+- Rarely (Disqualify)
+- Occasionally (Disqualify)
+- Regularly (Qualify)
+- Frequently (Qualify)
+
+  
+If you had to set up a new bank account with your bank, and all of these options were available to you, which would you prefer? 
+
+- Set up a new account by myself online (Qualify)
+- Read FAQs or online articles first, and then set it up by myself online. (Qualify)
+- Chat with a bank representative online (Qualify)
+- Call the bank on the phone and speak to a representative (Disqualify)
+- Go to the bank and have someone help me set this up in person (Disqualify)
+
+**Device of choice**
+
+What type of device did you last use to access My HealtheVet?
+
+- Smartphone (any brand/kind) (qualify)
+- Public desktop or laptop computer (at a library or other public location)
+(qualify)
+- My own privately owned desktop or laptop computer (qualify)
+- I can’t remember (disqualify)[{{type}} Annotation][{{type}} Annotation][{{type}} Annotation]
+
+**Age**
+
+Which of the following ranges includes your age?
+- 25-34: (qualify)
+- 35-44: (qualify)
+- 45-54: (qualify)
+- 55-64: (disqualify)
+- 65-74: (disqualify)
+
+  
+Current VA benefits include?
+Health care and disability only (qualify)
+Health care, disability, and 1 or more additional benefits (qualify)
+Health care only (qualify)
+1 or more benefits not including health care (disqualify)
+No benefits currently (disqualify)
+Other (non-VA) benefits include?
+Use other insurance besides VA benefits (private/employer-based, 
+Medicare/Medicaid, TRICARE):
+Current disability rating which to qualify?
+100%
+90-100%
+70-89%
+50-69%
+30-49%
+1-29%
+No current rating
+Tech proficiency 1
+Do you regularly update your digital devices and software to ensure security 
+and performance?
+- Yes, always (qualify)
+- Yes, sometimes (qualify)
+- No, rarely (disqualify)
+- No, never (disqualify)
+Tech proficiency 2
+How technology savvy are you?
+- I’m a novice – I rely on others to support me (disqualify)
+- I know the basics – I rely on others to support me for more challenging 
+task (disqualify)
+- I’m a learner and tinkerer – I mostly get by without any help or support
+but I have gotten stuck before and needed to call for help (disqualify)
+- I understand tech quite well – I’m confident with tasks such as online 
+shopping and don’t need support (qualify)
+- I’m a technie – Others tend to call me when they’re stuck (qualify)
+Mobile device users
+Are you able to join the Zoom session from a smartphone such as a Samsung
+Galaxy or Apple iPhone? Any kind of smartphone will work as long as it 
+connects to the internet.
+- Yes (qualify)
+- No (disqualify)
+- Not sure (disqualify)
+Desktop device users
+Are you able to join the Zoom session from a computer such as a desktop or 
+laptop?
+- Yes (qualify)
+- No (disqualify)
+- Not sure (disqualify)
+Target stats for other demographic info:
+Age is 25-34: 33%
+Age is 35-44: 33%
+Age is 45-54: 33%
+Male: 33%
+Female: 33%
+Additional genders: 33%
+Rural: 60%
+Urban: 40%
+Caucasian or White: 25%
+African-American or Black: 25%
+Asian-American: 25%
+Native American: 25%
+Has doctorate degree: 20%
+Has master’s degree: 20%
+Has bachelor’s degree: 20%
+Has associate’s degree: 20%
+Has no degree: 20%
+Interview conducted via desktop: 50%
+Interview conducted via smartphone: 50%
+
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
