@@ -118,8 +118,8 @@ Planning and load balancing:
 ### CAIA Board Refinement
 
 - **Goal:** Issues do not go stale or slip through the cracks on our board.
-- **Audience:** CAIA Product Manager, Discipline Leads
-- **Frequency:** Weekly, async
+- **Audience:** CAIA Delivery Lead, CAIA Product Manager
+- **Frequency:** Monthly, async
 
 Review Blocked Items 
 - Check the comments for any project updates
@@ -135,7 +135,8 @@ Review Backlog Items
 - Update estimates or priority level, if applicable
 - Update the “Last Checked” date
 - If an issue has been in Backlog more than 6 months and does not have a clear timeline or next steps, move it to Icebox.
-- Review Icebox Items 
+
+Review Icebox Items 
 - Share in Slack with the CAIA assignee or OCTO lead to see if it is still required/relevant
 - Comment in ticket reflecting this followup and any next steps that might result from it
 - Update the “Last Checked” date 
