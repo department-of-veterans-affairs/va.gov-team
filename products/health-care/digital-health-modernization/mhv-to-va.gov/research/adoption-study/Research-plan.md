@@ -2,25 +2,29 @@
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. This research is in large part intended to inform our understanding of pain points that our users experience in transitioning to a new VA health care portal.
 
-[Link to product brief](url goes here).
+[Link to product brief](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fdepartment-of-veterans-affairs%2Fva.gov-team%2Fblob%2Fmaster%2Fproducts%2Fhealth-care%2Fdigital-health-modernization%2Fproduct%2Fproduct-brief.md&data=05%7C02%7C%7Cde887e86633e4506f8d008dce874c425%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638640835415549322%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=KjzKej8h03PM7t8ieRSsAm3SnY69khb0%2FZse4ko2HZA%3D&reserved=0)
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+This research supports the following OCTO objective:
+Veterans can manage their health services online
+
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+This research fits into these points of a Veteran's Journey:
+- Starting up
+- Taking care of myself
+- Retiring
+- Aging
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- What hinders our users from discovering and returning to MHV on VA.gov?
+- What unintentional friction are our users encountering on MHV on 
+VA.gov?
+- What information about new features on VA.gov might counter-balance
+the challenges associated with switching to the new portal?
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
