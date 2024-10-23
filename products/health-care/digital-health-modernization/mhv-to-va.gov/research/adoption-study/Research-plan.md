@@ -1,188 +1,157 @@
-# Research Plan for Adoption of My HealtheVet on VA.gov Generative Study
-Cartography team
+# Research plan for Adoption of My HealtheVet on VA.gov Generative Study
+*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
-Last updated by 
+## Background
+Briefly describe the background of your product. Consider:
+- What problem is your product trying to solve?
+- Where is your product situated on VA.gov? (ex: auth vs. unauth)
+- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-## Moderator logistics
+[Link to product brief](url goes here).
 
-### Day of the session
+### OCTO Priorities 
 
-- [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
-- [ ] Mute your Slack notifications.
-- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- [ ] Send out the link to the observer Mural boardto observers in the thread
-- [ ] Sign into the Zoom website as Perigean using the credentials provided and start the Zoom meeting 5-10 minutes before
+Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
 
+### Veteran Journey
+Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+Are there moments that matter? 
 
-## Agenda (? minutes)
+## Research Goals	
+What are you trying to learn from this research? 
 
-- [Introduction - 5 minutes](#intro)
-- [Warm up - 5 minutes](#warm-up)
-- [Set-up & sign-in - 10 minutes](#sign-in)
-- [My HealtheVet Classic - 15 minutes](#mhv-classic)
-- [My HealtheVet on VA.gov - 45 minutes](#mhv-va-gov)
-- [Questionnaire - 5 minutes](#questionnaire)
-- [Cool-down - 5 minutes](#cool-down)
+*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
 
-This document also contains [pause or exit strategies](#pause-or-exit-strategies).
+### Outcome
+How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-## <a name="intro"></a>Introduction (5 minutes)
+### Research questions
+Consider bucketing research questions under research goals. For each question, think about:
+- What will I do with what I learn from this question?
+- Does this question serve the goals of my study?
+- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
 
-> Start transcript: `LIVE TRANSCRIPT` > `ENABLE`.
+### Hypothesis
+What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
+- What do you already know about this problem space?
+- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
+- Write a generalized statement that combines what you know + what you think will happen during the study. 
+- Remember to constrain the hypothesis to the goals of your study!
 
-Thanks for joining us today! My name is [Sara]. How are you?
+## Methodology	
+Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
 
-I’m a researcher from VA. I work on improving VA.gov so it's easier for Veterans to manage their healthcare.
+Examples of common research methods include: 
+- Semi-structured interviews - appropriate for generative research
+- Contextual inquiry - appropriate for generative research
+- Card sorts - appropriate for generative and evaluative research; depending on the study design 
+- Tree tests - appropriate for evaluative research
+- Usability testing - appropriate for evaluative research
+- User acceptance testing (UAT) - required before product release
 
-My colleague is also here. They're a researcher too and are here to take notes as we talk, as well as support you and I during this conversation.
+Additional resources:
+- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
+- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
+- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
+- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
+- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
+- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
-> Notetaker says hello.
+### Location
+Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-**What I hope to do today** is talk to you about an upcoming transition the VA is making to move My HealtheVet over onto VA.gov and get your thoughts and feelings about how you experience that. In a little bit, I'll ask you to share your screen with me. We'll sign into your account together and do a few tasks within the session. 
+If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
 
-**What I don't want to do** is add to any frustration you may have had in trying to manage your healthcare with the VA previously. I want to be up front and say that I don't have a way of fixing those past experiences. But, I do want to know about your frustrations in case there are things we can improve for the future.
+If in person, include:
+- Location
+- Point of contact
+- Equipment used for research
 
-**I want to confirm now, are you okay with a couple of my teammates joining us to quietly observe?**
+### Research materials
+*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-- `IF NO` Use Slack to let observers know.
-- `IF YES` They're in the waiting room, so I'm going to let them into the meeting now.
+Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-> Let in observers from the waiting room.
+For moderated interviews:
+- [Link to conversation guide](url goes here) 
 
-Welcome. This is [participant].
+For moderated usability tests: 
+- [Link to conversation guide](url goes here)
+- [Link to prototype](url goes here)
 
-Let's go around and say hello, starting with ____.
+For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
+- [Link to email with instructions](url goes here)
+- [Link to prototype or OptimalSort session for group A](url goes here)
+- [Link to prototype or OptimalSort session for group B](url goes here)
 
-**Thanks everyone, now I’ll ask you to turn off your cameras and mute yourselves for the rest of the session.**
+If recruiting outside of Perigean’s participant database:
+- [Link to recruitment flyer](url goes here)
+	
+## Recruitment	
 
-There are a few other things I want to mention before we start:
+OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
 
-- **This session could take up to 90 minutes**
-   - I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
-- **We’re here to learn your honest opinions.** Negative feedback is helpful too, because it helps us learn how we can improve.
-- **I also want to make it clear that we’re not testing your ability.** So, for example, if I ask if you understand something, it’s because I want to make sure the description is clear. If it isn't, that's okay too and it helps us learn what to improve.
-- **If for any reason and at any time you want to stop the session, you just have to let me know.** And that might be a pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
-- The last thing is about recordings. Because we will be asking you to share your healthcare portal with us today and looking at your real patient data, we will not record any video. We would like to ask if we can record the audio for our session, so that we don't mis-capture anything you. If you agree, we will not link anything you share in the session to any information that could identify you. **Knowing this, are you comfortable if I record my audio as we talk today?**
-  - `IF NO` Don't record
-  - `IF YES` Once I start recording, I’ll confirm again.
+Before writing your recruitment criteria, be sure to review the following resources. 
+- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
+- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
-> Start recording: `RECORD TO CLOUD`.
+### Recruitment approach
+Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-I’ve started recording. I'd like to confirm again: **Are you comfortable if I record our audio as we talk today?**
+Pro tip:
+- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
+- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
+- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
 
-## <a name="warm-up"></a>Warm-up questions (5 minutes)
+Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
+### Recruitment criteria
+List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
 
+**Primary criteria (must-haves)**
+What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-## <a name="set-up"></a> Set up & sign-in (10 minutes)
+Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
+  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-- Have you ever shared your screen on Zoom before?
+> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
-Okay, great. We're going to do that now. 
+**Secondary criteria (nice-to-haves)**
+What criteria would strengthen your results? 
 
-- [Have they shared before?]
-  - `IF YES` Please share your screen when you're ready.
-  - `IF NO` I’ll help guide you through how to share your screen...
+## Timeline
+Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
-### Troubleshooting: Screen share issues
-Add screen-sharing instructions
-- If after trying everything, screen share still isn't working: We'll politely end the session. Refer to [pause and exit strategies](#pause-or-exit-strategies).
+### Prepare
+When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
-> Screen sharing starts.
+A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
+* Pilot participant email:
+* Date and time of pilot session: 
 
-Thanks! Now I’m able to see your screen. I see [describe window].
+### Research sessions
+* Planned dates of research:
 
-Next, I'm going to ask you to go to the My HealtheVet website.
+### Length of sessions
+* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
+* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
+* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
 
-Okay, great. Now, I'll ask you to sign in on this website. 
+### Availability
+When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-## <a name="mhv-classic"></a>My HealtheVet Classic (15 minutes)
+Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+	
+## Team Roles	
+**Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
 
+**Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-### Task 1
-
-
-### Task 2
-
-**Direct user to a "try-me" banner on one of these pages: Medications, Appointments, Secure Messages**
-- Can you read this rectangular box with a message in it here?
-- What do you think this means?
-- Where would you expect the link to send you if you select it?
-
-Okay, now go ahead and select that link. 
-
-## <a name="mhv-va-gov"></a>My HealtheVet on VA.gov (45 minutes) 
-
-Okay, now where do you think you are?
-Do you notice anything different?
-
-Why don't you take a few minutes to move around, and while you do so, please try to think out loud so that I can try to understand your thoughts. 
-
-### Tool 1:
-
-### Tool 2: 
-
-### Tool 3: 
-
-### Navigation notes:
-
-## <a name="questionnaires"></a>Questionnaires (5 minutes)
-
-[You can stop sharing your screen now if you'd like to.]
-
-TBD
-
-Florence wanted to ask a few questions where the participant rates their experience 
-
-## <a name="cool-down"></a>Cool down (5 minutes)
-
-Let's spend the last few minutes reflecting on that experience.
-
-**Do you have any questions for me about this project or this research?**
-
-Thanks again for sharing your time with us. It’s been so helpful to learn from you.
-
-Perigean will send you a thank you note with some information that you can pass along to other Veterans if they’d like to participate in future research sessions. 
-
-I hope you have a lovely rest of the day.
-
-
-### If the participant can't screen share after troubleshooting
-
-I really appreciate your patience through this. I'm sure you know, it can be really frustrating when technology is not our friend. Since we're not able to set up screen share, we're going to end the session now. You're still going to be compensated for the full session. Thanks again for joining us and we'll hopefully see you back here again for another study.
-
-### If the participant isn't feeling well
-
-I'm sorry you're [not feeling well]. Do you feel up for continuing? You'll be paid even if we stop early.
-
-> If they choose to continue...
-
-Okay, just let me know if you change your mind.
-
-### If the participant is showing signs of upset or distress
-
-This sounds so hard. Would you like to take a break or stop?
-
-> If they choose to take a break and come back...
-
-Welcome back. I'm interested to hear more about [topic you left off on]. Are you up for continuing or would you prefer we move to the next topic?
-
-### If the participant decides to stop
-
-Thank you for your time today, I completely understand your decision to stop.
-
-> If they seem distressed...
-
-Before you go, the VA Hotline number is 988, it's a confidential helpline, and it's 24/7. It's up to you whether you call.
-
-### If the participant is fine to continue, but you aren't
-
-I hear that you're okay to continue. Before we do, I realized that I need a minute. I'm going to turn off my camera and microphone, and get a glass of water. Is that okay with you? I'll be back in 3 minutes.
-
-> If you're still not able to continue, after you pause...
-
-Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
-
-## Approved by:
-
+- Moderator:	
+- Research guide writing and task development (usually but not always same as moderator):	
+- Participant recruiting & screening:	
+- Project point of contact:	
+- Participant(s) for pilot test:
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	
+- Note-takers:	
+- Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.
