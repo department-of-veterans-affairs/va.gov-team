@@ -31,45 +31,43 @@ This document also contains [pause or exit strategies](#pause-or-exit-strategies
 
 > Start transcript: `LIVE TRANSCRIPT` > `ENABLE`.
 
-Thanks for joining us today! My name is [Sara]. How are you?
+Thanks for joining us today! My name is [Facilitator name] and [NOTETAKER NAME] is on the call who will be taking notes.
 
-I’m a researcher from VA. I work on improving VA.gov so it's easier for Veterans to manage their healthcare.
+I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double check with you before we get going. 
 
-My colleague is also here. They're a researcher too and are here to take notes as we talk, as well as support you and I during this conversation.
+**Are you okay with a couple of additional observers during this session?**
+   - If no: Use Slack to kindly ask the observers to leave the Zoom.
+   - If yes: Admit observers. 
+   - Then, ask the notetaker and observers to give a brief, camera-on, introduction, like first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
+   - Once complete ask notetaker and observers to turn off their cameras for remainder of the session to save bandwidth
 
-> Notetaker says hello.
+We've invited you here today to help us improve a website for Veterans. We’ll use our time today to talk about an upcoming transition the VA is making to move My HealtheVet over onto VA.gov.. In a little bit, I'll ask you to share your screen with me. We'll sign into your account together and do a few tasks within the session. 
 
-**What I hope to do today** is talk to you about an upcoming transition the VA is making to move My HealtheVet over onto VA.gov and get your thoughts and feelings about how you experience that. In a little bit, I'll ask you to share your screen with me. We'll sign into your account together and do a few tasks within the session. 
+ Before we jump in with prompts and questions, I first have some information to confirm with you:
 
-**What I don't want to do** is add to any frustration you may have had in trying to manage your healthcare with the VA previously. I want to be up front and say that I don't have a way of fixing those past experiences. But, I do want to know about your frustrations in case there are things we can improve for the future.
+#### For screenreader or mobile sessions
+- **For screenreader sessions:** I understand you use screenreader software to navigate the internet, what SOFTWARE do you typically use? Are you able to use that during our session today?
+      - What is your skill level using that software? Beginner, Intermediate, or Advanced?
+      - What device do you typically use? Windows PC, Apple, phone?
+      - What browser are you using today? Is that what you typically use? 
 
-**I want to confirm now, are you okay with a couple of my teammates joining us to quietly observe?**
+- **For mobile sessions:** I understand you primarily use your phone to access the internet. Can you confirm that you are on your phone now? 
 
-- `IF NO` Use Slack to let observers know.
-- `IF YES` They're in the waiting room, so I'm going to let them into the meeting now.
-
-> Let in observers from the waiting room.
-
-Welcome. This is [participant].
-
-Let's go around and say hello, starting with ____.
-
-**Thanks everyone, now I’ll ask you to turn off your cameras and mute yourselves for the rest of the session.**
+Thank you for confirming these things! 
 
 There are a few other things I want to mention before we start:
 
-- **This session could take up to 90 minutes**
-   - I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
-- **We’re here to learn your honest opinions.** Negative feedback is helpful too, because it helps us learn how we can improve.
-- **I also want to make it clear that we’re not testing your ability.** So, for example, if I ask if you understand something, it’s because I want to make sure the description is clear. If it isn't, that's okay too and it helps us learn what to improve.
-- **If for any reason and at any time you want to stop the session, you just have to let me know.** And that might be a pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
+- **This session could take up to 60 minutes**
+ - **I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session, or do not want to answer a question, that's no problem. Please let me know.
+- Any questions I can answer at this point?
 - The last thing is about recordings. Because we will be asking you to share your healthcare portal with us today and looking at your real patient data, we will not record any video. We would like to ask if we can record the audio for our session, so that we don't mis-capture anything you. If you agree, we will not link anything you share in the session to any information that could identify you. **Knowing this, are you comfortable if I record my audio as we talk today?**
   - `IF NO` Don't record
   - `IF YES` Once I start recording, I’ll confirm again.
 
 > Start recording: `RECORD TO CLOUD`.
 
-I’ve started recording. I'd like to confirm again: **Are you comfortable if I record our audio as we talk today?**
 
 ## <a name="warm-up"></a>Warm-up questions (5 minutes)
 
