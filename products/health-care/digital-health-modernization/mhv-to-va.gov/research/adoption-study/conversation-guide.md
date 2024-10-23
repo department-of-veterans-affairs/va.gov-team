@@ -68,6 +68,7 @@ There are a few other things I want to mention before we start:
 
 > Start recording: `RECORD TO CLOUD`.
 
+I’ve started recording. I'd like to confirm again: **Are you comfortable if I record our audio as we talk today?**
 
 ## <a name="warm-up"></a>Warm-up questions (5 minutes)
 
