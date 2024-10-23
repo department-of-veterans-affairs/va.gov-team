@@ -7,7 +7,16 @@ Agenda:
 
 ## 10/23/24
 *   Figma account transition
+    *   blue sky dream: everyone at VA is on one Organizational account
+    *   VA has Professional account, AdHoc has Organizational account
+    *   Ryan to talk to Matt Dingee
 *   Checkbox tile spacing feedback
+    *   DS team has a ticket to look into this.
+    *   will also look at how our new typography stuff could affect this
+*   Link crashes
+    *   flag added to new link component to determine if the component is causing the crash, looks like it is
+    *   We will look at this ASAP
+    *   Android only: ~2500/day (Payment History page is worst), ~4% increase in crashes
 
 ## 10/9/24
 *   Review Q4 Plan
