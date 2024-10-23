@@ -2,7 +2,7 @@
 
 **Last updated:** February 15, 2024 - added Figma link
 
-## Overview of Benefit Application Drafts:
+## Overview of Benefit Applications and Forms Drafts:
 
 - For all of these use cases, the user must be LOA3 (identity verified). All LOA3 users will see this section on My VA.
 - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
