@@ -273,14 +273,15 @@ On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty
 - Anything I didn't ask you about that you want to share about your experience? 
 - Do you have any questions for me? 
 
+## Thank You and Closing - 1 minute
 
-**Do you have any questions for me about this project or this research?**
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
-Thanks again for sharing your time with us. It’s been so helpful to learn from you.
+Thank you so much again, and I hope that you enjoy the rest of your day!
 
-Perigean will send you a thank you note with some information that you can pass along to other Veterans if they’d like to participate in future research sessions. 
+*In the Transcript window, click **Save Transcript**, open in Finder and then save*
 
-I hope you have a lovely rest of the day.
+*End meeting for all*
 
 
 ### If the participant can't screen share after troubleshooting
