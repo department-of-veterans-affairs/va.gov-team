@@ -12,13 +12,11 @@
 - Design - Ariana Adili govcio-vbet
 - IA - Sam CAIA
 
-[**CAIA Intake Ticket: 85/15 Rule form 22-10215**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92591) 
-
-[**IA Review Ticket: 85/15 Rule reporting form 22-10215:** ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92142)
-
-[**CAIA Intake Ticket: 35% exemption request from 85/15 reporting requirement, form 22-10216**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92587) 
-
-[**IA Review Ticket: 35% exepmtion request from 85/15 Rule reporting requirement, form 22-10216:** ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92143)
+**Tickets:**
+- [CAIA Intake Ticket: 85/15 Rule form 22-10215**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92591) 
+- [IA Review Ticket: 85/15 Rule reporting form 22-10215:** ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92142)
+- [CAIA Intake Ticket: 35% exemption request from 85/15 reporting requirement, form 22-10216**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92587) 
+- [IA Review Ticket: 35% exepmtion request from 85/15 Rule reporting requirement, form 22-10216:** ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92143)
 
 
 **On this page:**
