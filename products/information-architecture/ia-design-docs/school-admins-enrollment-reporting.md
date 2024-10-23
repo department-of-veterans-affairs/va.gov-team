@@ -25,8 +25,8 @@
 - [User/page flows](#user-page-flows)
 - [Page structure](#page-structure)
 - [H1 and URL](#H1-and-URL)
-- [Entry Points for 85/15 Rule](#entry-points-rule)
-- [Entry Points for 35% Exemption](#entry-points-exemption)
+- [Entry Points for 85/15 Rule](#rule)
+- [Entry Points for 35% Exemption](#exemption)
 - [Header and footer](#header-and-footer)
 - [Crosslinks](#crosslinks)
 - [Redirects](#redirects)
@@ -71,7 +71,7 @@ Refer to the design system's guidance for [page titles and section titles](https
 *Note on Form Numbers: Veterans often know forms they use frequently by form number. So we often include the form number in H1s and URLs. If the form numbers are often referenced by this audience, the form number could be appended to the end of each URL.  For example "va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios-form-22-10205/".*
 
 
-## <a name="entry points rule"></a>Entry Points for 85/15 Rule<br>
+## <a name="rule"></a>Entry Points for 85/15 Rule<br>
 
 ### Primary entry point for 85/15 Rule
 _Most of the time this is the CTA on a tool static landing page - this may be an action link that goes directly to the new feature, or it may be part of a sign in widget._
@@ -95,7 +95,7 @@ _Most of the time this is the CTA on a tool static landing page - this may be an
 ![school admins 1a](https://github.com/user-attachments/assets/efb5f2b9-dbe4-49cb-b87f-9a4a435eb87e)
 
 
-## <a name="entry points exemption"></a>Entry Points for 35% Exemption<br>
+## <a name="exemption"></a>Entry Points for 35% Exemption<br>
 
 ### Primary entry point for 35% Exemption
 
