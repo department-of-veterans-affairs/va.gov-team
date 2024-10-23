@@ -38,8 +38,8 @@ The MHV team has created an api called the MHV account creation API which the VA
 
 ## Host Endpoints
 
-- Dev - http://api-intb.myhealth.va.gov
-- Staging - https://api-sysb.myhealth.va. gov
+- Dev -[https://apigw-intb.aws.myhealth.va.gov](https://apigw-intb.aws.myhealth.va.gov)
+- Staging - [https://apigw-sysb.aws.myhealth.va.gov](https://apigw-intb.aws.myhealth.va.gov)
 - Production - [https://api.myhealth.va.gov](https://api.myhealth.va.gov/)
 
 ## API Paths
