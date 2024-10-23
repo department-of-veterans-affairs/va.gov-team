@@ -219,8 +219,8 @@ Okay, now go ahead and select that link.
 - Why did you click those links? 
 - How would you get back out to the larger secure message section?/How would you get back to where you came from?
 
-Appointments: 
-Medications: 
+Appointments: Imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
+Medications: Let’s say you needed a refill on a prescription that you are running low on. How would you do that? 
 
 ### Tool 2: Medications 
 
@@ -232,8 +232,8 @@ Medications:
 - Why did you click those links? 
 - How would you get back out to the larger section of Medications?/How would you get back to where you came from?
 
-Appointments: 
-Secure messages: 
+Appointments: Imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
+Secure messages: Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
 
 ### Tool 3: Appointments 
 
@@ -244,8 +244,9 @@ Secure messages:
 - What are you looking for?
 - Why did you click those links? 
 - How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
-Medications: 
-Secure messages: 
+
+Medications: Let’s say you needed a refill on a prescription that you are running low on. How would you do that? 
+Secure messages: Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
 
 #### Things to note 
 
