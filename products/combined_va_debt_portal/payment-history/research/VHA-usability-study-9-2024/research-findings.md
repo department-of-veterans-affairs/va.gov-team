@@ -543,9 +543,11 @@ While most participants did not know about VA overpayments, a few participants s
 
 **Trauma informed findings:** 
 Participants were not asked about concerns with PHI and privacy/security, but a few commented on this without prompting: 
+
 P3 wanted to be ensured that the information contained in the copay description details is not public information:
 
-> ​​If this was public I wouldn't want it" (copay description details) -P3
+> ​​"If this was public I wouldn't want it" (copay description details) -P3
+
  P1 said it was triggering to see mental health diagnosis.
 
 >”It's a little scary, like, not scary, it's like, I don't wanna know. I don't wanna remind myself that I'm going there for that. Okay. Cause I already know I'm going. Maybe for behavioral health, I don't wanna know.” -P1
@@ -553,7 +555,7 @@ P3 wanted to be ensured that the information contained in the copay description 
 P7 thought phone numbers listed on VA.gov may be unsafe as they were wary of scammers. 
 >"Another thing is the 888 number to pay the debt…They can hack anything. Evidently the VA has been hacked or something because they're switching everything around the 1st of the year. And I'm computer literate and couldn't set up an account in their system." -P7
 
-AT user stated that the term "warning" was triggering.
+Screen reader user stated that the term "warning" was triggering.
 
 >”I don't know if it's because of my military background, and what I did because warnings in my regs, for when me, with me being a flyer in the Air Force ‘warnings’ meant potentially death…. as soon as I seen ‘warning’ it made me want to swipe to see what it was. What's the warning? So I just, it just made me pay close attention is what it did.” -P16
 
