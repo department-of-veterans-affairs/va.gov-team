@@ -202,26 +202,59 @@ Okay, now go ahead and select that link.
 
 ## <a name="mhv-va-gov"></a>My HealtheVet on VA.gov (45 minutes) 
 
-Okay, now where do you think you are?
-Do you notice anything different?
+- Okay, thank you. 
+- Now where do you think you are?/How would you describe where you are to a friend? 
+- Why don't you take a few minutes to move around, and while you do so, please try to think out loud so that I can try to understand your thoughts. 
+- Does anything standout from the previous page we were looking at?
 
-Why don't you take a few minutes to move around, and while you do so, please try to think out loud so that I can try to understand your thoughts. 
+### Things to note
+- Where do participants think they landed?/Do they understand where they’ve landed?
+- Anything exciting, interesting, or new that stands out? 
+- Anything particularly confusing? 
 
-### Tool 1:
+### Tool 1: Secure messages 
 
-### Tool 2: 
+- Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
+- Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
+- I'm seeing you gravitate towards ______. Why are you going there first?
+- What are you looking for?
+- Why did you click those links? 
+- How would you get back out to the larger secure message section?/How would you get back to where you came from?
 
-### Tool 3: 
+Appointments: 
+Medications: 
 
-### Navigation notes:
+### Tool 2: Medications 
 
-## <a name="questionnaires"></a>Questionnaires (5 minutes)
+- Let’s say you needed a refill on a prescription that you are running low on. How would you do that? 
+- What are you thinking as you (_go somewhere, do something_)?/What are you looking for 
+- Why did you (_do that, go there, try that_)? 
+- What do you think should happen if you (_do something_)? 
+- What are you looking for?
+- Why did you click those links? 
+- How would you get back out to the larger section of Medications?/How would you get back to where you came from?
 
-[You can stop sharing your screen now if you'd like to.]
+Appointments: 
+Secure messages: 
 
-TBD
+### Tool 3: Appointments 
 
-Florence wanted to ask a few questions where the participant rates their experience 
+- Imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
+
+- Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
+- I'm seeing you gravitate towards ______. Why are you going there first?
+- What are you looking for?
+- Why did you click those links? 
+- How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
+Medications: 
+Secure messages: 
+
+#### Things to note 
+
+- Are changes made to the national portal language or tools causing any confusion? 
+- Any challenges or hiccups with the new portal? 
+- Any positive changes that users notice while using the new portal?
+
 
 ## <a name="cool-down"></a>Cool down (5 minutes)
 
