@@ -18,11 +18,8 @@
 
 [**IA Review Ticket: 35% exepmtion request from 85/15 Rule reporting requirement, form 22-10216:** ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92143)
 
-*Note: CAIA can only offer detailed support (e.g. URLs, breadcrumbs, content recommendations, etc.) for pages that are veteran-facing, due to capacity constraints. So the recommendations here are brief, and the URL options are more in the spirit of suggestions.*
-
 
 **On this page:**
-- [Location of forms](#location-of-forms)
 - [User/page flows](#user-page-flows)
 - [Page structure](#page-structure)
 - [H1 and URL](#H1-and-URL)
@@ -32,19 +29,15 @@
 - [Redirects](#redirects)
 
 
-## <a name="location-of-forms"></a>Location of forms<br>
-
-- The 85/15 reporting form and the 35% exemption form should live under the [Resources for schools](https://www.va.gov/school-administrators/) page. 
-- Please create a supporting page for each form, to hold reporting requirements and instructions about the submission process. The current design uses the About page for this purpose. About pages are part of the Find a VA Forms search tool, and their primary purpose is to provide a short description, and links to the PDF and digital versions of the form. They are not intended to hold a lot of detail on requirements or processes. The workflow, sitemap, and suggested urls in this spec provide info for creating a supporting page and for each form.
-  
-
 ## <a name="flows"></a>User/page flows <br>
 Flow into forms, including a new supporting page. The same pattern applies to both forms.
 <img width="1225" alt="school admins 10" src="https://github.com/user-attachments/assets/bed01ec1-06a3-468f-af2c-0430827c9770">
 
 
 ## <a name="map"></a>Page structure<br>
-With an additional supporting page of information and instructions for each form, the sitemap would look like this. The level 2 pages are the proposed additional pages.
+- The 85/15 reporting form and the 35% exemption form should live under the [Resources for schools](https://www.va.gov/school-administrators/) page. 
+- Please create a supporting page for each form, to hold reporting requirements and instructions about the submission process. The current design uses the About page for this purpose. About pages are part of the Find a VA Forms search tool, and their primary purpose is to provide a short description, and links to the PDF and digital versions of the form. They are not intended to hold a lot of detail on requirements or processes. The workflow, sitemap, and suggested urls in this spec provide info for creating a supporting page and for each form.
+- With an additional supporting page of information and instructions for each form, the sitemap would look like this. The level 2 pages are the proposed additional pages.
 <img width="679" alt="school admins 11" src="https://github.com/user-attachments/assets/2ac2ee18-625c-44c6-a115-31342a499936">
 
 
