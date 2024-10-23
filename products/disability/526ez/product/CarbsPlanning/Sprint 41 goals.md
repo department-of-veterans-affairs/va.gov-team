@@ -18,7 +18,7 @@
     - 0781 paper sync discovery and solutioning 
       
  - Kyle Soskin
-    - Zero silent failure email for 4142 LH Polling 
+    - Zero silent failure email for 4142 LH Polling testing
   
   - Alison Jones
     - Lighthouse migration of the 0781/a
@@ -28,7 +28,7 @@
       - 0781/a release plan
 
 ## Research and Design
-[DBEX-CARBS HCD Sprint 40 Goals](https://dsva.slack.com/docs/T03FECE8V/F07N6EH4EUE)
+[DBEX-CARBS HCD Sprint 41 Goals](https://dsva.slack.com/docs/T03FECE8V/F07N6EH4EUE)
 
 
 
