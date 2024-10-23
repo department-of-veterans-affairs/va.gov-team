@@ -4,6 +4,7 @@ about: WIP for CAIA internal use, preparing multiple disciplines for product re-
 title: '[CAIA Internal]:<Team needing support><Support Needed><CAIA Disciplines>'
 labels: 'sitewide CAIA,sitewide IA,sitewide content'
 assignees: 'NaomiPMC,strelichl'
+project: sitewide CAIA
 ---
 
 # CAIA Internal Collaboration 
