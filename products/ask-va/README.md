@@ -15,8 +15,8 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 
 |Role|Assigned|Contact|
 |:---|:---|:---|
-|Product Owner (OCTO), Designer|Becky Phung|becky.phung@va.gov|
-|Product Owner (VES)|Natalie Morales|natalie.morales@va.gov|
+|Product Owner (OCTO), Designer|Becky Phung||
+|Product Owner (VES)|Natalie Morales||
 |Program Manager|Megan Siddle|megan.siddle@oddball.io|
 |Product Manager|CeeCee O'Connor|catherine.oconnor@thoughtworks.com|
 |Lead Engineer|Joseph Hall|joe.hall@thoughtworks.com|
