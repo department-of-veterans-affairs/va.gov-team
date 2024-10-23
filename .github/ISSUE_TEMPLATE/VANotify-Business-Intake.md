@@ -38,21 +38,24 @@ If you have any other urgent needs that require attention before the end of the 
 5.  **What system will kick off the notification? Please note the system should be inside the VA or have an ATO.**
     (ex., BVA hearing reminders are kicked off from Caseflow)
 ​
-6.  **What will trigger the notification?**
+6.  **What is the primary software language your system is built on?**
+   (ex., Python, Java, etc)
+
+7.  **What will trigger the notification?**
     (ex., clicking submit, status updates for claims, appointment reminders, new services available)
-​
-7.  **Provide sample content per notification type, if you have it.**
+  
+8.  **Provide sample content per notification type, if you have it.**
     Please note we collaborate with all of our users on their content to ensure it meets standards.
 ​
-8.  **Has a Privacy Officer (PO) seen and approved the content? If not, do you know who your PO is?** [Privacy Officer Locator](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx) - must be on VA network to access.
+9.  **Has a Privacy Officer (PO) seen and approved the content? If not, do you know who your PO is?** [Privacy Officer Locator](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx) - must be on VA network to access.
     (ex., PO has seen the content but it is not approved)
 ​
-9.  **Would you prefer to provide contact information for the recipients or would you rather VA Notify look this up for you by Veteran ID? If by ID, please let us know what identifier is used in your system.**
+10.  **Would you prefer to provide contact information for the recipients or would you rather VA Notify look this up for you by Veteran ID? If by ID, please let us know what identifier is used in your system.**
     (ex., VAPROFILEID, PID, BIRLS, ICN, etc.)
 ​
-10.  **Do you currently capture communication preferences related to this notification? If so, please describe.**
+11.  **Do you currently capture communication preferences related to this notification? If so, please describe.**
     (ex., opt in for claim status updates via email or text)
 ​
-11.  **What is the anticipated volume of notifications per day, week, month?**
+12.  **What is the anticipated volume of notifications per day, week, month?**
 ​
-12.  **When does this notification need to be in production?**
+13.  **When does this notification need to be in production?**
