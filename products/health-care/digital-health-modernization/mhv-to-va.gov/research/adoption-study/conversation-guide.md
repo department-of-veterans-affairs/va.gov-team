@@ -1,8 +1,6 @@
 # Conversation guide for Adoption of My HealtheVet on VA.gov Generative Study
 Cartography team
 
-Last updated by 
-
 ## Moderator logistics
 
 ### Day of the session
