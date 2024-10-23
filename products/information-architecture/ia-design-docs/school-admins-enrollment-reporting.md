@@ -83,16 +83,13 @@ _Most of the time this is the CTA on a tool static landing page - this may be an
 ![school admins 1a](https://github.com/user-attachments/assets/efb5f2b9-dbe4-49cb-b87f-9a4a435eb87e)
 
 **2) About Page** - Add
-- Placement description: Link from supporting page to form intro page
-- Link label: 'Report 85/15 Rule Enrollment Ratios' or similar
-- Link destination: va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/introduction/
-![school admins 1a](https://github.com/user-attachments/assets/efb5f2b9-dbe4-49cb-b87f-9a4a435eb87e)
+- Note: Once form 22-10215 is live, please reach out to CAIA to add a link from the corresponding "About form" page to the online version of the form
 
 **3) Resources for Schools Page** - Add
-- Placement description: Link from supporting page to form intro page
-- Link label: 'Report 85/15 Rule Enrollment Ratios' or similar
-- Link destination: va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/introduction/
-![school admins 1a](https://github.com/user-attachments/assets/efb5f2b9-dbe4-49cb-b87f-9a4a435eb87e)
+- Placement description: Link and description on the [Resources for schools page](https://www.va.gov/school-administrators/), to the supporting page.
+- Link label: '85/15 Rule Enrollment Ratios' or similar
+- Link destination: va.gov/school-administrators/85-15-rule-enrollment-ratios/
+- Note: This is is an entry point to the supporting page of reporting requirements and instructions about the submission process. Not an entry point to the form itself.
 
 
 ## <a name="exemption"></a>Entry Points for 35% Exemption<br>
@@ -106,16 +103,14 @@ _Most of the time this is the CTA on a tool static landing page - this may be an
 ![school admins 2a](https://github.com/user-attachments/assets/e3f184e3-86d7-45c6-9799-a40645753001)
 
 **2) About Page** - Add
-- Placement description: Link from supporting page to form intro page
-- Link label: 'Report 85/15 Rule Enrollment Ratios' or similar
-- Link destination: va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/introduction/
-![school admins 1a](https://github.com/user-attachments/assets/efb5f2b9-dbe4-49cb-b87f-9a4a435eb87e)
+- - Note: Once form 22-10216 is live, please reach out to CAIA to add a link from the corresponding "About form" page to the online version of the form
 
 **3) Resources for Schools Page** - Add
-- Placement description: Link from supporting page to form intro page
-- Link label: 'Report 85/15 Rule Enrollment Ratios' or similar
-- Link destination: va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/introduction/
-![school admins 1a](https://github.com/user-attachments/assets/efb5f2b9-dbe4-49cb-b87f-9a4a435eb87e)
+- Placement description: Link and description on the [Resources for schools page](https://www.va.gov/school-administrators/), to the supporting page.
+- Link label: '35% exemption from 85/15 reporting' or similar
+- Link destination: va.gov/school-administrators/35-percent-exemption/
+- Note: This is is an entry point to the supporting page of reporting requirements and instructions about the submission process. Not an entry point to the form itself.
+
 
 ## <a name="recirects"></a>Redirects<br>
 
