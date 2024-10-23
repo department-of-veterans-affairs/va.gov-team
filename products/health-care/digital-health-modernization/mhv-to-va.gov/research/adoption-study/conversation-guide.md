@@ -87,25 +87,33 @@ I’ve started recording. I'd like to confirm again: **Are you comfortable if I 
 
 ## <a name="set-up"></a> Set up & sign-in (10 minutes)
 
-- Have you ever shared your screen on Zoom before?
-
-Okay, great. We're going to do that now. 
+Thanks for answering those questions. I want to transition us to exploring the sites together. First I want you to share your screen. Is that something you've done before with Zoom? 
 
 - [Have they shared before?]
   - `IF YES` Please share your screen when you're ready.
   - `IF NO` I’ll help guide you through how to share your screen...
 
 ### Troubleshooting: Screen share issues
-Add screen-sharing instructions
-- If after trying everything, screen share still isn't working: We'll politely end the session. Refer to [pause and exit strategies](#pause-or-exit-strategies).
+
+#### Instructions for folks NOT using screenreaders:
+- In the Zoom application on your computer/phone/tablet, first tap anywhere on the screen, then you should see a row of buttons. In the center is a button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+  - Now I'd like you to share your screen with me. Tap on the button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
+
+#### Instructions for folks using screenreaders on a desktop:
+- Hit Alt S (as in Same); the option should come up to select the window you want to share - please choose Basic. 
+- Tab over and confirm that what is selected is "entire screen." 
+- Tab once more - make sure "share sound" is checked. 
+- Tab 4 times over to "share screen" - click activate.
 
 > Screen sharing starts.
 
-Thanks! Now I’m able to see your screen. I see [describe window].
+- Thanks! Now I’m able to see your screen. I see [describe window].
 
-Next, I'm going to ask you to go to the My HealtheVet website.
+- Next, I'm going to ask you to go to the My HealtheVet website.
 
-Okay, great. Now, I'll ask you to sign in on this website. 
+- Can you show me how you would get to My HealtheVet?
+
 
 ## <a name="mhv-classic"></a>My HealtheVet Classic (15 minutes)
 
