@@ -1,4 +1,4 @@
-# **10-10EZR | User Generated Content Analysis |Summary of Findings 09-2024**
+# **10-10EZR | User Generated Content Analysis | Summary of Findings 09-2024**
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZR, Health Enrollment Applications**
 
@@ -137,7 +137,7 @@ Past research has shown that Veterans feel more comfortable seeking peer support
 
 5. We manually created a spreadsheet with our initial collection of Reddit posts, removing identifiable information (URLs, usernames) and any data that was not relevant to the goals of this study. 
 
-**In total, we found 159 posts related to our search criteria**. This spreadsheet will be destroyed at the conclusion of the study, in accordance with ethical data collection guidelines.
+**In total, we found 159 posts related to our search criteria**.
 
 
 ### **Data analysis**
