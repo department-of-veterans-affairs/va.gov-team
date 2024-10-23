@@ -76,8 +76,8 @@ Refer to the design system's guidance for [page titles and section titles](https
 _The primary entry points are required to be in place for staging review._
 
 **1) Supporting Pages** - Add
-- 1. The 85/15 Rule supporting page must have a link to the 'Report 85/15 Rule enrollment rations' form
-- 2. The 35% Exemption supporting page must have a link to the 'Request 35% exemption from 85/15 reporting' form
+- The 85/15 Rule supporting page must have a link to the 'Report 85/15 Rule enrollment rations' form
+- The 35% Exemption supporting page must have a link to the 'Request 35% exemption from 85/15 reporting' form
 
 
 ### Secondary entry points
@@ -90,18 +90,6 @@ _The primary entry points are required to be in place for staging review._
   - the new 85/15 Rule supporting page
   - the new 35% Exemption supporting page
 - Note: These are entry points to the supporting pages which contain the reporting requirements and instructions about the submission process. Not entry points directly to the forms.
-
-
-## <a name="exemption"></a>Entry Points for 35% Exemption<br>
-
-### Primary entry point for 35% Exemption
-
-**1) 35% EXEMPTION - Supporting Page** - Add
-- Placement description: Link from supporting page to form intro page
-- Link label: 'Request 35% exemption from 85/15 reporting' or similar
-- Link destination: va.gov/school-administrators/35-percent-exemption/request-exemption/introduction/
-![school admins 2a](https://github.com/user-attachments/assets/e3f184e3-86d7-45c6-9799-a40645753001)
-
 
 
 ## <a name="recirects"></a>Redirects<br>
