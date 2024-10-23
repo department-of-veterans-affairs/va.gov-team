@@ -44,7 +44,7 @@ If you have any other urgent needs that require attention before the end of the 
 7.  **Provide sample content per notification type, if you have it.**
     Please note we collaborate with all of our users on their content to ensure it meets standards.
 ​
-8.  **Has a Privacy Officer (PO) seen and approved the content? If not, do you know who your PO is?**
+8.  **Has a Privacy Officer (PO) seen and approved the content? If not, do you know who your PO is?** [Privacy Officer Locator](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx) - must be on VA network to access.
     (ex., PO has seen the content but it is not approved)
 ​
 9.  **Would you prefer to provide contact information for the recipients or would you rather VA Notify look this up for you by Veteran ID? If by ID, please let us know what identifier is used in your system.**
