@@ -1,6 +1,6 @@
 # Badge indicator FE documentation - My VA Health Care inbox link implementation 
 
-**Last updated:** October 18 2024 - Updated details for error handling.
+**Last updated:** October 23, 2024 - Updated details for error handling.
 
 This document outlines specs for implementing the badge indicator on the "Go to your inbox" link in the Health Care section on My VA. The link provides access the health care secure messaging inbox. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
@@ -32,7 +32,7 @@ _Note that this content may need additional CAIA review._
 
 ### Inbox may be accessible still on MHV (400s error code)
 
-<img width="320" alt="Screenshot 2024-10-22 at 11 40 47 AM" src="https://github.com/user-attachments/assets/223ef4ec-4a30-444c-8cb5-3b4410d0d45e">
+<img width="400" alt="Screenshot 2024-10-22 at 11 40 47 AM" src="https://github.com/user-attachments/assets/223ef4ec-4a30-444c-8cb5-3b4410d0d45e">
 
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2621-31035&t=h6U22HGIiGoYMot8-1)
@@ -41,8 +41,7 @@ _Note that this content may need additional CAIA review._
 
 
 ### Inbox is not accessible on MHV (500s error code)
-
-<img width="320" alt="Screenshot 2024-10-22 at 11 40 53 AM" src="https://github.com/user-attachments/assets/7361c3d8-bcf8-47e3-80f1-6d071854a76f">
+<img width="400" alt="Screenshot 2024-10-23 at 9 43 35 AM" src="https://github.com/user-attachments/assets/a73cf17c-0009-4387-bf61-28c2ee582ba7">
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2677-4869&t=JEjUCa3eWvva0IQU-1)
 
