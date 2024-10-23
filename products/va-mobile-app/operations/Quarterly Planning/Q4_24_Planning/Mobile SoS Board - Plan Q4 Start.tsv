@@ -1,0 +1,53 @@
+Title	URL	Team	Target Start Date	Target Delivery Date	Kanban	Project Health Status	Status	Parent issue
+Travel Pay- BE Support	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9113	API			Next		Step 1: Strategize	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9563
+Appts. Data Rendering and Logic Updates (Q3 & Q4)	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9002	API	"Jul 29, 2024"	"Dec 31, 2024"	Now	On Track	Step 3: Build/Ship	
+EVSS Service Modernization	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2558	API	"Jun 1, 2023"	"Feb 28, 2025"	Now	At Risk	Step 3: Build/Ship	
+Feedback Hub- Prototype to Prod (Full Implementation) -Q3/Q4 (UI Cleanup/UX Designs)	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9031	API	"Aug 5, 2024"	"Nov 29, 2024"	Now	On Track	Step 3: Build/Ship	
+ZenHub to GitHub Projects Transition - API	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9855	API	"Oct 23, 2024"	"Dec 31, 2024"	Now	On Track	Step 1: Strategize	
+Onboarding & Off boarding RelatedDocumentation (Mobile API BE)	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9000	API	"Oct 23, 2024"	"Dec 31, 2024"	Now	On Track	Step 0: Identify	
+ Access Policy Related Updates	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9409	API	"Aug 28, 2024"	"Nov 15, 2024"	Now	On Track	Step 0: Identify	
+Mobile API Integration: Forms / Documents Services - eFolder	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6838	API	"Sep 16, 2024"	"Nov 6, 2024"	Now	On Track	Step 1: Strategize	
+DS - Create Text Input Component	https://github.com/department-of-veterans-affairs/va-mobile-library/issues/87	Design System			Next		Step 2: Design	
+DS - Create TextArea Component	https://github.com/department-of-veterans-affairs/va-mobile-library/issues/88	Design System			Next		Step 1: Strategize	
+DS - Design Tokens - Borders	https://github.com/department-of-veterans-affairs/va-mobile-library/issues/535	Design System			Next		Step 1: Strategize	
+DS - Q4 Bug & Maintenance Mgmt	https://github.com/department-of-veterans-affairs/va-mobile-library/issues/534	Design System	"Oct 23, 2024"	"Jan 14, 2025"	Now	On Track		
+DS Platform Support - Mobile Design Reviews	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9458	Design System	"Oct 23, 2024"	"Jan 14, 2025"	Now	On Track	Step 1: Strategize	
+DS - ZenHub to GitHub Projects Transition	https://github.com/department-of-veterans-affairs/va-mobile-library/issues/536	Design System	"Oct 23, 2024"	"Dec 18, 2024"	Now	On Track	Step 1: Strategize	
+DS - Create CheckboxGroup Component	https://github.com/department-of-veterans-affairs/va-mobile-library/issues/69	Design System	"Sep 11, 2024"	"Oct 22, 2024"	Now	On Track	Step 3: Build/Ship	
+DS - Design Tokens - Typography	https://github.com/department-of-veterans-affairs/va-mobile-library/issues/79	Design System	"Jul 23, 2024"	"Oct 22, 2024"	Now	On Track	Step 2: Design	
+DS - Create RadioButton Component	https://github.com/department-of-veterans-affairs/va-mobile-library/issues/70	Design System	"Oct 9, 2024"	"Nov 19, 2024"	Now	On Track	Step 3: Build/Ship	
+DS - Expand Platform Service Blueprint	https://github.com/department-of-veterans-affairs/va-mobile-library/issues/403	Design System	"Jul 30, 2024"	"Dec 17, 2024"	Now	Potential Risk	Step 2: Design	
+Program Wide : On-site Follow-up	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9138	Design System	"Jul 31, 2024"	"Oct 22, 2024"	Now	On Track	Step 1: Strategize	
+Change Request: Mobile App Feature Affinity for Veteran Status Card	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9480	Experience Team			Next		Step 0: Identify	
+"Change Request: Replacing ""not enrolled"" error screens in SM and Rx features"	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9639	Experience Team			Next			
+Change Request: Updating sign-in LOA gate screen	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9619	Experience Team			Next			
+Change Request: Adding Travel Pay on VAHB	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9563	Experience Team			Now			
+Change Request: Medication Wording for Appointments (OIG/Congressional request)	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9373	Experience Team			Now			
+Update Veteran Status Date of Birth Data to Limit Personal Information	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9865	Global	"Oct 31, 2024"	"Nov 30, 2024"	Next			https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9480
+Optimize App Store	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9829	Global	"Oct 23, 2024"	"Nov 27, 2024"	Next		Step 1: Strategize	
+Enabling Data-Driven Decision Making	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9862	Global	"Oct 24, 2024"	"Nov 28, 2024"	Next		Step 1: Strategize	
+Enable Cross-Modality Experiences	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9909	Global			Next			
+Dashboard Optimization	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9879	Global	"Oct 10, 2024"	"Dec 13, 2024"	Next	On Track		
+Collaborate with VA on marketing the mobile app through Dynamic Firebase links	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9159	Global	"Sep 24, 2024"	"Oct 29, 2024"	Next			
+Create Framework for Transitioning Veterans from Mobile to Web	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9116	Global	"Sep 16, 2024"	"Oct 22, 2024"	Next			
+Bug & Maintenance Mgmt - Global	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8302	Global			Now			
+Measure Veteran Effort & Gather In-App Feedback	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/6752	Global	"Feb 29, 2024"	"Nov 27, 2024"	Now	On Track	Step 0: Identify	
+Improve & Personalize the First-Run Onboarding Experience	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8381	Global	"Jul 29, 2024"	"Nov 27, 2024"	Now	On Track	Step 1: Strategize	
+Push Notification Opt-In	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9124	Global	"Aug 12, 2024"	"Oct 29, 2024"	Now	On Track	Step 2: Design	
+Review uploaded files for a claim	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9895	Health/Benefits	"Nov 1, 2024"	"Dec 31, 2024"	Next			
+Discovery: Filter/Sort for Messages and Appointments	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9896	Health/Benefits	"Dec 1, 2024"	"Dec 31, 2024"	Next		Step 0: Identify	
+Implement Spacing Tokens into VAHB App - Health & Benefits	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9751	Health/Benefits			Next			
+Incorporate new Loading Component into the App - H&B	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8937	Health/Benefits			Next			
+Update App Headings for Accessibility	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7817	Health/Benefits	"Jun 19, 2024"		Next			
+Q3/Q4 2024 - Simple Mileage-Only Claims [Travel Pay]	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9663	Health/Benefits	"Sep 1, 2024"	"Dec 1, 2024"	Now	On Track	Step 2: Design	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9563
+Bug & Maintenance Management - Health & Benefits (Q4 2024)	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9894	Health/Benefits	"Oct 23, 2024"	"Jan 14, 2025"	Now	On Track		
+Incorporate Design System Icon Component into the Flagship App - Health & Benefits	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/7696	Health/Benefits	"Oct 1, 2024"	"Oct 21, 2024"	Now	On Track		
+Support new teams onboarding to the Platform	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8424	Health/Benefits	"Oct 23, 2024"	"Jan 14, 2025"	Now	On Track		
+Documentation Productization - On-site Follow-up	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9388	Leads			Next			
+ZenHub to GitHub Projects Transition - QART	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9856	QA/Release			Next			
+QA - Tech Debt and Bug Maintenance - Q4	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9795	QA/Release	"Oct 23, 2024"	"Jan 14, 2025"	Now	On Track		
+QART - Accessibility Reviews and Experience Team Support - Q4	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9797	QA/Release	"Oct 23, 2024"	"Jan 14, 2025"	Now	On Track		
+"Accessibility - Improvements to the mobile app and the mobile team's processes, documentation, and guidance - Q4"	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9796	QA/Release	"Oct 23, 2024"	"Jan 14, 2025"	Now	On Track		
+DevOps- Improve Release Efficiency and Clean Up Automation Scripts - Q4	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9794	QA/Release	"Oct 23, 2024"	"Jan 14, 2025"	Now	On Track		
+Content Management System-CMS- Q4 Efforts	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9880		"Oct 23, 2024"	"Dec 5, 2024"	Now	On Track	Step 3: Build/Ship	
+Bug & Maintenance/Tech Debt- API Team (Q4)	https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9866		"Oct 23, 2024"	"Dec 20, 2024"	Now	On Track	Step 3: Build/Ship	
