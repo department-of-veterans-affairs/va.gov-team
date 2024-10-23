@@ -1,12 +1,10 @@
 # CAIA Refinement process
-`Current WIP Version: V1.0`
+Updated 10/2024
 
 ## In this document
 - [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#overview)
   - [Purpose of this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#purpose-of-this-document)
-  - [Purpose of CAIA ops Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#purpose-of-caia-ops-refinement)
-  - [Refinement Frequency](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#refinement-frequency)
-  - [Who participates in refinement?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#who-participates-in-refinement)
+  - [Purpose of Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#purpose-of-caia-ops-refinement)
 - [Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#process)
   - [Order of Operations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#order-of-operations) 
 
@@ -14,49 +12,54 @@
 ## Overview
 
 ### Purpose of this document
-This document serves as an instruction set and guidance for conducting CAIA operations refinement.
+This document serves as instruction and guidance for conducting CAIA operations refinement.
 
-### Purpose of CAIA Ops Refinement
-CAIA ops refinement focuses on adjusting, estimating, and ranking intake tickets in "New Stuff", "Backlog" and "Blocked" by using priority. Adjustments can be small things like adding descriptions and large edits like splitting or breaking an intake out into specific tasks. Effective refinement of intake tickets in a clear, well-understood manner, along with input from OCTO leadership, helps the team know what is the highest-priority.
+### Purpose of Refinement
+CAIA ops refinement focuses on adding detail and context, estimating, and prioritizing intake tickets in "New Stuff", "Backlog" and "Blocked". Refinement is an essential part of the effective management and prioritization of work and makes us aware and better able to plan for new work as it enters the CAIA pipeline.
 
-It is important to revisit items in blocked and backlog to ensure items do not get left in perpetuity.
-
-Refinement is an essential part of the effective management and prioritization of work and allows for awareness and planning of new tickets as they  enter the CAIA pipeline.
-The primary outcomes of CAIA Ops Refinement can be summarized as:
-- Reviewing all new intake requests in "New Stuff" column.
-- Simplification of user stories/ticket requirements ensuring we are working on the highest-priority tasks during each sprint.
-- Filling out ticket custom fields with relevant data.
-- Refined intake tickets should be:
-  - clear enough, so they understand what VFS teams or stakeholders are asking for and why they are asking for it.
-  - Small enough, so the items should be small enough to get done within a sprint or to comply with the definition of done.
-
-### Refinement frequency
-CAIA Ops Refinement is carried out every Monday at 3PM ET.
-
-### Who participates in refinement?
-The following roles particiapte in CAIA Ops refinement.
-- CAIA Project Manager.
-- CAIA Scrum Master/Product Manager.
-- CAIA Discipline Leads.
-- OCTO Discipline Leads.
+Primary outcomes of CAIA Refinement:
+- Reviewing all new requests in "New Intakes" column
+- Filling out ticket custom fields with relevant data
+- Identifying which disciplines or individual contributors should be involved in the work
+- Flagging items for prioritization review with OCTO
+- Responding to requesting teams for clarification or context
+- Ensuring items in blocked and backlog do not go stale and get forgotten
 
 ## Process
-There are 3 key objectives for refinement:
-1. Asses and order issues depending on priority.
-2. Provide visibility to CAIA team for work to be done.
-3. Ensure items in blocked and backlog do not go stale and get forgotten.
+There are 4 stages of Refinement, to account for CAIA's multi-disciplinary setup and our reliance on OCTO for ongoing prioritization.
+1. CAIA Ops Refinement
+2. OCTO Planning
+3. CAIA discipline planning
+4. CAIA Board Refinement
 
-### Order of operations
-Using Github Project, navigate to the [main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1)
-The default view for this is newest items are at the top.
+###CAIA Ops Refinement
+**- Goal:** Intake tickets have task tickets. We understand what the work is.
+**- Audience:** CAIA Delivery Lead, CAIA Product Manager, Accessibility Lead, IA Lead
+**- Frequency:** Weekly on Monday
 
-1. Run through the **New Intakes** column first.
-    - Assign estimate, priority, and last checked fields. OCTO will help determine priority level.
-    - Add comments to help signify action taken or decision made.
-    - Update "Last checked" field with today's date.
-    - If the ticket is related to HEALTH, triage whether it goes to Sara Sterkenberg (Cartography team) or Kristin Ouellette (CAIA)
-         -   If the url of the tool/page starts with /health-care/, it goes to Kristin (tag Kristin and Sitewide IA)
-         -   If the url starts with myhealth, it goes to Sara (tag Sara and Cartography team)
+**Agenda:**
+Review [New Intakes Column](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/78)
+- Add “CAIA-Intake” label
+- Add Originator/Team Name
+- Add Opened Date
+- Add Target Date (if applicable)
+- Add Estimate (if easily ascertained)
+- Add to Sprint (if applicable)
+- Post follow-up questions to teams in a comment in the intake
+- Apply discipline labels 
+- Add task list to outline handoff between discipline specialists
+- Assign individuals (if known at this point)
+- Review and close Intake tickets in Validate
+
+Additional steps for specific intake types
+- Redirect requests are treated as work tickets and should move through work ticket swim lanes
+- If team is publishing a new page or launching a new page, set up a work ticket for the entry point work. This includes crosslinks from other pages and left nav and top nav placement. Use the IA document provided by the IA team and list out each page the team needs to add an entry point. An example entry point ticket is here: https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/28677
+- If a new tool is launching incrementally, a react widget needs to be added to the page. Set up a ticket to implement the work. We need to provide the product team with the content to go in the widget. If the content is different depending on if the user sees the tool, be sure to write out both forms of content for the product team. Once the product team gives us the react app code, put it into Drupal. More info on react widgets here
+- If request is related to MHV, tag Sara Sterkenburg (@sterkenburgsara) and Riley Orr (@rileyorr)
+- If team has selected “no” on collab cycle checkbox, share in the Governance Slack channel to confirm they dont need to go through collab cycle
+- If the ticket is related to HEALTH, triage whether it goes to Sara Sterkenberg (Cartography team) or Kristin Ouellette (CAIA)
+- If the url of the tool/page starts with /health-care/, it goes to Kristin (tag Kristin and Sitewide IA)
+- If the url starts with myhealth, it goes to Sara (tag Sara and Cartography team)
 
 3. Next, run through **Blocked** column starting with items items with the oldest "last checked" date.
     - Determine if item is still blocked.
@@ -71,18 +74,4 @@ The default view for this is newest items are at the top.
     - Update estimate if applicable.
     - Update "Last checked" field with today's date.
     - Add comments to help signify action taken or decision made.
-
-## Glossary of terms
-
-### Priority levels
-
-1. **Urgent** - Should be started immediately.
-2. **High** - Should be started ASAP.
-3. **Medium** - Not quite high but above normal.
-4. **Normal** - Default for all new items.
-5. **Chipper** - An item that is not high priority that can be worked on as time allows.
-6. **Low** - Should be worked on after higher priority items.
-7. **Icebox** - Items that cannot be closed but are not actively being worked on or are indefinelely delayed or blocked.
-
-
 
