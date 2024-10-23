@@ -109,11 +109,8 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
 The way we close tickets matters to our reporting, but we have different steps to complete due to the range of ticket types and discipline setups on our team. 
 
 ### Closure process for team members
-**Work ticket that is attached to an intake:**
-1. Add all required fields
-2. Close ticket
 
-**Work ticket that is NOT attached to an intake:**
+**Work tickets:**
 
 The assignee responsible for the last step will be responsible for moving the ticket.
 1. Add all required fields
