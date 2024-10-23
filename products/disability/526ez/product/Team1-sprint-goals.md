@@ -1,5 +1,29 @@
 # Sprint goals for Benefits Disability Experience Team 1 (DBEX-TREX)
 
+## Sprint 9
+10/23 - 11/5
+
+**Paper Form Sync**
+- Reevaluate the remaining HCD tasks (a joint effort between TREX and CARBS) and engineering work (TREX only) for the 5103 form and signature component.
+
+**Toxic Exposure**
+- Prepare and perform 1.1 Moderated Production Testing
+- UX monitoring of TE Release (v1.0 100% rollout)
+- Draft evaluative research goals and plan for TE Release (a joint effort between TREX and CARBS)
+
+**Submission Experience**
+- Create feature toggle for New Confirmation Page
+- Update Confirmation Page and Email Touchpoints to align more closely to new VFF and VA-notify templates ( the work will be scoped minimally to avoid impacting engineering timelines.)
+- Alignment on implementation approach for New Email Touchpoints
+- Integrate stakeholder feedback on solution direction for Provide a Copy of Submission
+
+**Zero Silent Failures**
+- Establish a procedure for DBEX teams to monitor and action on application alerts
+
+**Product Enhancements**
+- Address "Scroll behavior does not respond to prefers-reduced-motion setting" on Review and Submit page
+
+
 ## Sprint 8
 10/9 - 10/22
 
