@@ -14,17 +14,21 @@ User Experience KPIs measure how well Ask VA meets the needs and expectations of
 
 ### Form
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
-|Goal|KPI|Target definition|Actual targets as of [date]|
-|:--|:--|:--|:--|
-|Make it easy to complete the form|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|- VA.gov all pages average CSAT<br>-VA.gov forms average CSAT|- VA.gov average: [##]%<br>-VA.gov forms average: [##]%|
-|Make it easy to complete the form|**Task completion** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|VA.gov form completion rate|VA.gov form completion rate:[##]%|
-|Make it easy to complete the form|**Time on task** - Decrease the average time it takes submitters to send a question from ??|??|VA.gov time on task: ??|
+|Goal|KPI|2024 targets as of 10/23/24|
+|:--|:--|:--|
+|Make it easy to complete the form|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: 57%<br>**VA.gov forms average** (Forms measures this in a different way right now): 3.5|
+|Make it easy to complete the form|**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|**VA.gov form completion rate**: 29%|
+|Make it easy to complete the form|**Time on task** - Decrease the average time it takes submitters to send a question from ??|**VA.gov time on task**: ??|
 
 ### Other form KPIs and metrics
-Below are other form KPIs and metrics we'll want to add. 
+Below are other form KPIs and metrics we'll want to track. 
 - Form abandonment rate
 - [other]
 
+### Target metric sources
+We pulled target metrics from the following dashboards in Domo: 
+- [VA.gov Forms KPIS](https://va-gov.domo.com/page/447193050)
+- [CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322)
 
 ### Dashboard 
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
