@@ -114,14 +114,84 @@ Thanks for answering those questions. I want to transition us to exploring the s
 
 - Can you show me how you would get to My HealtheVet?
 
+Optional probes - very flexible, adapt as appropriate depending on participant behavior:
+What are you thinking as you (go somewhere, do something)?
+Is that what you would typically do to get to My HealtheVet? 
+(If use search functionality): Please tell me why you searched for that term? What information were you hoping it would bring up?
+(If participant gets stuck and unable to find My HealtheVet) It looks like you're not finding the site. 
+ What would you do at this point? (If participant says they would call or use resources outside of VA.gov) 
+Great [Chat the participant link to MHV National Portal]
+
+- Okay, now, I'll ask you to sign in on this website. 
+
+- Looks like you are signed in! 
 
 ## <a name="mhv-classic"></a>My HealtheVet Classic (15 minutes)
 
+### Task 1: Explore the page (think aloud walkthrough) Medications, Secure messages, and Appointments on MVH National Portal - 10 mins 
 
-### Task 1
+- Take a few minutes to explore the page. It would really help me if you could talk me through what you are thinking while exploring the website.
+- How would you describe this page to your friend? 
+- What do you think you can do from here?/What kind of things can you do from this website?/What do you typically do here? 
+- Can you show me how you would do that? 
+
+_If attempts Medical records_
+
+- Before you click there, is this something you typically use?
+- Tell me about the last time you checked your Medical records on this website? 
+- What do you expect to be able to do in Medical records? 
+- Have you used any of the other tools before? Messages, Medications, Appointments. 
+	- Go ahead and show me how you check your Messages from your doctor. 
+- Go ahead and show me how you would refill a medication that needs to be refilled.
+- Go ahead and show me how you would schedule an appointment with your doctor	using this website.
+ 
+_If mentions/attempts to click on try me banner_ 
+
+- Before you click on the link, 
+- What does this information tell you?/Can you explain to me what this is telling you?/How would you describe this section to a friend? 
+- What would you expect to happen if you clicked on that link/What kind of things would you expect to be able to do if you clicked on the link? 
+- Have you ever tried clicking on this before? 
+	- Can you tell me about that experience? 
+- What do you remember from that? If anything. 
+- Did you ever come back or try to come back to this “new” site? 
 
 
-### Task 2
+#### Things to note
+- How does the page communicate to participants? 
+- Do participants notice the try-me banners? 
+- Do participants understand what the try-me banners are attempting to say? 
+- Anything particularly confusing? 
+- Have they’ve tried them before? What was that experience like? 
+
+### Task 2: Try-me banner - 5 mins
+
+**Direct user to a "try-me" banner on one of these pages: Medications, Appointments, Secure Messages**
+
+- Towards the top of the screen, you will see a rectangular box with a message in it. 
+- When you've been on My HealtheVet in the past, have you ever noticed these banners? 
+- Have you ever used them? 
+
+_If yes_Tell me about experience
+Why did you decide to click on it? 
+Did you ever try to get back to VA.gov?/that “new” experience? (not sure the best way to ask this)
+Why/Why not? 
+If returned to VA.gov, Do you remember how you got there? 
+
+_ If no/unsure_
+
+- Take a minute to read this message 
+- How would you describe this section? 
+- What do you think you can do from here?
+- Where would you expect the link to send you if you select it?
+- What would you expect to be able to do once on VA.gov? 
+- Can you show me how you would do that?
+
+### Things to note
+- Do participants notice the try-me banners? 
+- Have the participants used the try-me previously? 
+- Do participants understand what the try-me banners are attempting to say? 
+- Anything particularly confusing? 
+
 
 **Direct user to a "try-me" banner on one of these pages: Medications, Appointments, Secure Messages**
 - Can you read this rectangular box with a message in it here?
