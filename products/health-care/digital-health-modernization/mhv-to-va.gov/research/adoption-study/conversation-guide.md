@@ -256,9 +256,23 @@ Secure messages:
 - Any positive changes that users notice while using the new portal?
 
 
-## <a name="cool-down"></a>Cool down (5 minutes)
+## <a name="cool-down"></a>Questionnaires (10 minutes)
 
-Let's spend the last few minutes reflecting on that experience.
+- Thank you for going through those tasks and all your insight. I just have a few final questions to ask you. You can stop sharing your screen now if you'd like to.
+
+On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding what you were looking for in that site we just explored together?
+    - Why that rating? 
+
+On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of using the site we just explored together?
+    - Why that rating? 
+
+
+- Now that you've seen both of these approaches to managing your healthcare - what are your thoughts about them?
+- Did you find one version easier than another to use? Why? What about it?
+- If you were talking to a friend that is also a Veteran who wanted to use these tools, how would you describe the relationship between this site and the VA.gov?
+- Anything I didn't ask you about that you want to share about your experience? 
+- Do you have any questions for me? 
+
 
 **Do you have any questions for me about this project or this research?**
 
@@ -305,5 +319,5 @@ I hear that you're okay to continue. Before we do, I realized that I need a minu
 
 Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
 
-## Approved by:
+
 
