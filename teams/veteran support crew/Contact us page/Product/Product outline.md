@@ -53,7 +53,8 @@ See more information in our [Product metrics for ‘Contact us’ page](🟡 nee
 
 ### Key Performance Indicators (KPIs)
 Key Performance Indicators (KPIs) help us understand how the Contact us page is meeting expected user outcomes.
-We primarily track customer satisfaction (CSAT) right now. Below is our average CSAT score by year compared to VA.gov overall.
+We primarily track the page's experience rating right now. Below is our average experience rating by year compared to VA.gov overall. The experience rating comes from answers to "Please rate your experience with VA.gov today." from the page's intercept survey. See all intercept survey questions on the [VA.gov platform site](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-MedalliaInterceptSurveyQuestions).
+
 |Year| Contact us page | VA.gov all pages | 
 |----------|-------------| -------------|
 |2024 (as of 10/22/24)|24% (357 responses)|57% (56k responses)|                     
