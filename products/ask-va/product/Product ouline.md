@@ -1,5 +1,5 @@
 # Ask VA Phase 1 - Product Outline
-Last updated by @beckyphung on October 15, 2024
+Last updated by @beckyphung on October 22, 2024
 
 **Jump to:**
 - [Overview](#overview)
@@ -59,7 +59,7 @@ These OKRs measure the success of our Phase 1 launch.
 ####  Objective 1: Bring form and dashboard up to VA.gov design, accessibility, content, and information architecture standards
 - Key result 1.1: Complete VA.gov platform collaboration cycle steps
 - Key result 1.2: **Satisfaction** - Increase customer satisfaction score (CSAT) from the current ask.va.gov benchmark
-- Key result 1.3: **Task completion** - Increase the percentage of successful sent questions from the current ask.va.gov benchmark
+- Key result 1.3: **Form completion rate** - Increase the percentage of successfully sent questions from the current ask.va.gov benchmark
 - Key result 1.4: **Routing** - Increase percentage of questions that are routed successfully by submitters from the current ask.va.gov benchmark
 
 #### Objective 2: Integrate with enterprise assets, such as VA Profile, as necessary and possible for Phase 1
