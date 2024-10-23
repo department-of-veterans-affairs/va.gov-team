@@ -65,7 +65,7 @@ Refer to the design system's guidance for [page titles and section titles](https
 - **H1:** Request 35% exemption from 85/15 reporting
 - **URL:** va.gov/school-administrators/35-percent-exemption/request-exemption/
   
-*Note on Terminology: The term '85/15 Rule' is recommended instead of the term '85% Rule', because it occurs more frequently in web and in the VA's own supporting documentation
+*Note on Terminology: The term '85/15 Rule' is recommended instead of the term '85% Rule', because it occurs more frequently in web and in the VA's own supporting documentation*
 
 *Note on Form Numbers: Veterans often know forms they use frequently by form number. So we often include the form number in H1s and URLs. If the form numbers are often referenced by this audience, the form number could be appended to the end of each URL.  For example "va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios-form-22-10205/".*
 
