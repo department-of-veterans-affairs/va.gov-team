@@ -25,8 +25,7 @@
 - [User/page flows](#user-page-flows)
 - [Page structure](#page-structure)
 - [H1 and URL](#H1-and-URL)
-- [Entry Points for 85/15 Rule](#rule)
-- [Entry Points for 35% Exemption](#exemption)
+- [Entry Points](#entry-points)
 - [Header and footer](#header-and-footer)
 - [Crosslinks](#crosslinks)
 - [Redirects](#redirects)
@@ -71,25 +70,26 @@ Refer to the design system's guidance for [page titles and section titles](https
 *Note on Form Numbers: Veterans often know forms they use frequently by form number. So we often include the form number in H1s and URLs. If the form numbers are often referenced by this audience, the form number could be appended to the end of each URL.  For example "va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios-form-22-10205/".*
 
 
-## <a name="rule"></a>Entry Points for 85/15 Rule<br>
+## <a name="entry-points"></a>Entry Points<br>
 
-### Primary entry point for 85/15 Rule
-_Most of the time this is the CTA on a tool static landing page - this may be an action link that goes directly to the new feature, or it may be part of a sign in widget._
+### Primary entry points
+_The primary entry points are required to be in place for staging review._
 
-**1) 85/15 Rule - Supporting Page** - Add
-- Placement description: Link from supporting page to form intro page
-- Link label: 'Report 85/15 Rule Enrollment Ratios' or similar
-- Link destination: va.gov/school-administrators/85-15-rule-enrollment-ratio/report-ratios/introduction/
-![school admins 1a](https://github.com/user-attachments/assets/efb5f2b9-dbe4-49cb-b87f-9a4a435eb87e)
+**1) Supporting Pages** - Add
+- 1. The 85/15 Rule supporting page must have a link to the 'Report 85/15 Rule enrollment rations' form
+- 2. The 35% Exemption supporting page must have a link to the 'Request 35% exemption from 85/15 reporting' form
+
+
+### Secondary entry points
 
 **2) About Page** - Add
-- Once form 22-10215 is live, please reach out to CAIA to add a link from the corresponding "About form" page to the online version of the form
+- Once forms 22-10215 and 22-10216 are live, please reach out to CAIA to add links from the corresponding "About form" pages to the online versions of the forms.
 
 **3) Resources for Schools Page** - Add
-- Placement description: Link and description on the [Resources for schools page](https://www.va.gov/school-administrators/), to the new supporting page.
-- Link label: '85/15 Rule Enrollment Ratios' or similar
-- Link destination: va.gov/school-administrators/85-15-rule-enrollment-ratios/
-- Note: This is is an entry point to the supporting page containing reporting requirements and instructions about the submission process. Not an entry point to the form itself.
+- There should be links and descriptions on the [Resources for schools page](https://www.va.gov/school-administrators/), to:
+  - the new 85/15 Rule supporting page
+  - the new 35% Exemption supporting page
+- Note: These are entry points to the supporting pages which contain the reporting requirements and instructions about the submission process. Not entry points directly to the forms.
 
 
 ## <a name="exemption"></a>Entry Points for 35% Exemption<br>
@@ -102,14 +102,6 @@ _Most of the time this is the CTA on a tool static landing page - this may be an
 - Link destination: va.gov/school-administrators/35-percent-exemption/request-exemption/introduction/
 ![school admins 2a](https://github.com/user-attachments/assets/e3f184e3-86d7-45c6-9799-a40645753001)
 
-**2) About Page** - Add
-- Once form 22-10216 is live, please reach out to CAIA to add a link from the corresponding "About form" page to the online version of the form
-
-**3) Resources for Schools Page** - Add
-- Placement description: Link and description on the [Resources for schools page](https://www.va.gov/school-administrators/), to the new supporting page.
-- Link label: '35% exemption from 85/15 reporting' or similar
-- Link destination: va.gov/school-administrators/35-percent-exemption/
-- Note: This is is an entry point to the supporting page containing reporting requirements and instructions about the submission process. Not an entry point to the form itself.
 
 
 ## <a name="recirects"></a>Redirects<br>
