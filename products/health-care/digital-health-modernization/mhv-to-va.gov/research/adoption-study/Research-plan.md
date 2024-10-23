@@ -27,20 +27,21 @@ VA.gov?
 the challenges associated with switching to the new portal?
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+The learnings of this research will inform changes to the MHV on VA.gov experience and strategy for change management.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+- Are CTAs to try out the new MHV portal effective? Do users notice them
+and understand what they're saying?
+- Once users try out the new portal, do they understand how to return?
+- Are changes made to national portal language or tools causing confusion?
+- What challenges or hiccups are users encountering on the new portal?
+- What are positive changes that users notice while using the new portal?
+- How much do users care about what the new MHV offers them?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+- The majority of our users do not know that MHV is moving over to VA.gov, even directly after using the national portal. Many of them do not know what this change would or could mean for them outside of understanding that this change will pose a challenge to them that theywould prefer to avoid.
+- The guidance to try MHV on VA.gov is unclear and the user journey to get to MHV on VA.gov is disjointed and confusing.
+- Users will be interested in what we’ve decided are the most important or useful differentiators between the two portals but only those with a great deal of MHV experience will seem excited about the changes.
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
