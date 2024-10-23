@@ -16,7 +16,7 @@ Developed by the Accredited Representation Management team, the Appoint a Repres
    1. Claimant's relationshiop to Veteran
    2. Claimant's personal information
    3. Claimant's contact informatiom
-4. Vetgeran Information
+4. Veteran Information
    1. Veteran's personal information
    2. Veteran's contact information
    3. Veteran identification information (for non-Veteran claimant users only)
