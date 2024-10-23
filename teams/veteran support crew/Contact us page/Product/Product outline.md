@@ -1,6 +1,6 @@
 # Product outline for Contact us page 
 
-Last updated by @beckyphung on August 28, 2024
+Last updated by @beckyphung on October 22, 2024
 
 **Jump to:**
 - [Overview](#overview)
@@ -54,7 +54,7 @@ See more information in our [Product metrics for ‘Contact us’ page](🟡 nee
 ### Key Performance Indicators (KPIs)
 Key Performance Indicators (KPIs) help us understand how the Contact us page is meeting expected user outcomes.
 We primarily track customer satisfaction (CSAT) right now. Below is our average CSAT score by year compared to VA.gov overall.
-|Year| ‘Contact us’ page | VA.gov all pages | 
+|Year| Contact us page | VA.gov all pages | 
 |----------|-------------| -------------|
 |2024 (as of 10/22/24)|24% (357 responses)|57% (56k responses)|                     
 |2023|18% (518 responses)|52% (71k responses)|
