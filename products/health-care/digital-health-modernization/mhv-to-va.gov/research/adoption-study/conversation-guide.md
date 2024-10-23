@@ -72,6 +72,17 @@ I’ve started recording. I'd like to confirm again: **Are you comfortable if I 
 
 ## <a name="warm-up"></a>Warm-up questions (5 minutes)
 
+1. What experience do you have with VA.gov?
+- How often do you login? 
+- For what purpose?
+
+3. If does not mention My HealtheVet,
+- What about with My HealtheVet? 
+- How often do you login? 
+- For what purpose?
+
+   
+**Note why participants typically log in to VA.gov and MHV - to be used later in the study** 
 
 
 ## <a name="set-up"></a> Set up & sign-in (10 minutes)
