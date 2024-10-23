@@ -13,12 +13,12 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 User Experience KPIs measure how well Ask VA meets the needs and expectations of its users.
 
 ### Form
-These are KPIs we want to actively track when we launch on VA.gov in 2025.
-|Goal|KPI|2024 targets as of 10/23/24|
-|:--|:--|:--|
-|Make it easy to complete the form|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: 57%<br>**VA.gov forms average** (Forms measures this in a different way right now): 3.5|
-|Make it easy to complete the form|**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|**VA.gov form completion rate**: 29%|
-|Make it easy to complete the form|**Time on task** - Decrease the average time it takes submitters to send a question from ??|**VA.gov time on task**: ??|
+These are KPIs we want to actively track when we launch on VA.gov in 2025. Our primary goal is ti **make it easy to complete the form.**
+|KPI|2024 targets as of 10/23/24|
+|:--|:--|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: 57%<br>**VA.gov forms average** (Forms measures this in a different way right now): 3.5|
+|**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|**VA.gov average form completion rate**: 29%|
+|**Time on task** - Decrease the average time it takes submitters to send a question from ❓ VA secure messaging average time on task|**VA Secure messaging average time on task**: ❓|
 
 ### Other form KPIs and metrics
 Below are other form KPIs and metrics we'll want to track. 
