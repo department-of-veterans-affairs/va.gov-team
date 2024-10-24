@@ -16,20 +16,31 @@ User Experience KPIs measure how well Ask VA meets the needs and expectations of
 These are KPIs we want to actively track when we launch on VA.gov in 2025. Our primary goal is ti **make it easy to complete the form.**
 |KPI|2024 targets as of 10/23/24|
 |:--|:--|
-|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: xx%<br>**VA.gov forms average**: xx|
-|**Experience** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: 57%<br>**VA.gov forms average** (Forms measures this in a different way right now): 3.5|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: 57%<br>**VA.gov forms average**: ❓|
+|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**:❓<br>**VA.gov forms average**: 3.5|
 |**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|**VA.gov average form completion rate**: 29%|
-|**Time on task** - Decrease the average time it takes submitters to send a question from ❓ VA secure messaging average time on task or VA.gov?|**VA Secure messaging average time on task**: ❓|
+|**Time on task** - Decrease the average time it takes submitters to send a question from ❓|**❓**: ❓|
 
 ### How we'll calculate each KPI
 ### Satisfaction
-- [steps]
+- **Data source**: Answers to "What is your overall satisfaction with this site?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
+- **How to calculate**:
+   - ((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
+   - **Example**: ((40+40)/200)*100 = 40%
+
+### Experience
+- **Data source**: Answers to "How was your experience contacting VA today?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
+- **How to calculate**:
+   - Transform options ("Very bad" to "Very good") to 1 to 5 scale. With 1 being "Very bad" and 5 being "Very good."
+   - `mean` of responses
 
 ### Form completion rate
-- [steps]
+- **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
+- ❓
 
 ### Time on task
-- [steps]
+- **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
+- ❓
 
 ### Other form KPIs and metrics
 Below are other form KPIs and metrics we'll want to track. 
