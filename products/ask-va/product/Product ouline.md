@@ -47,11 +47,10 @@ We expect Veterans and other submitters to meet these outcomes after we launch P
 2. **Less stability**: We create a _less_ stable product that _isn’t_ better supported by existing VA enterprise assets, additional resources (such as the VA.gov Platform team), user testing, and data.
 
 ## Measuring Success
-
-### Key Performance Indicators (KPIs)
 Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. Objectives and Key results (OKRs) help us measure success of specific targeted objectives for a specific initiative or time period.
 
-We'll track these primary KPIs over time: 
+### Key Performance Indicators (KPIs)
+We'll track these primary KPIs over time.
 
 #### User experience KPIs
 - **Satisfaction** - Increase customer satisfaction score (CSAT) for form and dashboard
