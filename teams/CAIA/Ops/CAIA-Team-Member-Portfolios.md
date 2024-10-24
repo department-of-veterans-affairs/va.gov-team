@@ -1,4 +1,4 @@
-# CAIA team member portfolios
+# CAIA Team Member Portfolios
 
 ## In this Document
 - [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA-team-member-portfolios.md#overview)
@@ -10,7 +10,7 @@
 This document outlines the basic work areas that CAIA team members cover. We use this as a reference for assigning work or asking for additional resources or context.
 
 ## Content specialists 
-**Laura - Editor**
+**Laura Willwerth - Editor**
 - Migration work (co-editing by business line)
 - Community Care migration 
 - Ask VA integration
@@ -22,7 +22,7 @@ This document outlines the basic work areas that CAIA team members cover. We use
 - Chatbot
 - Voicebot
 
-**Aliyah - Writer**
+**Aliyah Blackmore - Writer**
 - Sign in and identity
 - Burials 
 - Health 
@@ -30,7 +30,7 @@ This document outlines the basic work areas that CAIA team members cover. We use
 - Debt 
 - Translation backup coverage (infrequent)
 
-**A - Editor**
+**A Procik - Editor**
 - Migration work (co-editing by business line)
 - Life insurance
 - Records
@@ -42,8 +42,7 @@ This document outlines the basic work areas that CAIA team members cover. We use
 - Housing 
 - Disability 
 
-
-**Katherine/Monica - Writer**
+**Monica Lee (formerly Katherine Fung, on leave) - Writer**
 - Education
 - Decision reviews
 - Disability
@@ -51,7 +50,7 @@ This document outlines the basic work areas that CAIA team members cover. We use
 - Careers & employment
 - Discharge Upgrade Wizard
 
-**Derek - Writer**
+**Derek Beyer- Writer**
 - Main writer on migration work
 - Community Care migration
 - Vet Centers migration
@@ -59,26 +58,26 @@ This document outlines the basic work areas that CAIA team members cover. We use
 - Life insurance
 - Housing
 
-**Megan - Copyeditor**
+**Megan Zehnder - Copyeditor**
 - Copy editing, pre-publishing checklist, and publishing of all static page content for Laura's content areas
 - Annual audit copyedits (shared role for now)
 - Style guide updates
 - Supporting forms work (copy editing)
   
-**Sara - Copyeditor**
+**Sara Torres - Copyeditor**
  - Copy editing, pre-publishing checklist, and publishing of all static page content for A's content areas
 - Annual audit copyedits (shared role for now)
 - Translation copyedits
 - Recurring updates (rates changes, etc)
 
-**Victoria - Bilingual copyediter**
+**Victoria Oviedo - Bilingual copyediter**
 - Translation
 
-**Jamie - accessibility specialist but flexes for special projects**
+**Jamie Klenetsky - accessibility specialist but flexes for special projects**
 - Claim Status Tool (content and a11y)
 
 ## IA specialists
-**Kristin** 
+**Kristin Ouellette Muskat** 
 - Health
 - MHV on VA.gov (secure messaging, medical records, medications, appoinments, AVS, patient check in)
   - Sara Sterkenberg is the main IA
@@ -95,7 +94,7 @@ This document outlines the basic work areas that CAIA team members cover. We use
 - Voicebot
 - Ask VA
   
-**Sam**
+**Sam CJ Walker**
 - Education
 - Careers & employment
 - Pension
