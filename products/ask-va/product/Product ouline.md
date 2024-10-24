@@ -54,20 +54,15 @@ Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expec
 We'll track these primary KPIs over time: 
 
 #### User experience KPIs
-**Form and Dashboard**
-- **Satisfaction** - Increase customer satisfaction score (CSAT)
-- **Experience** - Increase experience rating
-  
-**Form only**
-- **Form completion rate** - Increase the percentage of questions successfully sent by submitters 
-- **Time to submit form** - Decrease the average time it takes submitters to send a question
-
-**Dashboard only**
-- **Reply rate** - Increase the number of replies to questions
-- **Time to reply** - Decrease the average time it takes submitters to reply to a question
+- **Satisfaction** - Increase customer satisfaction score (CSAT) for form and dashboard
+- **Experience** - Increase experience rating for form and dashboard
+- **Form completion rate** - Increase the percentage of questions successfully sent by submitters for form
+- **Time to submit form** - Decrease the average time it takes submitters to send a question for form
+- **Reply rate** - Increase the number of replies to questions for dashboard
+- **Time to reply** - Decrease the average time it takes submitters to reply to a question for dashboard
 
 #### Performance KPIs
-- **Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions
+- **Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions for form and dashboard
 
 View more details in the [Ask VA KPIs doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md).
 
