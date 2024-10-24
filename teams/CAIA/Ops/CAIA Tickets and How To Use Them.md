@@ -28,16 +28,22 @@ This document details how to create, update, and close a CAIA ticket, ensuring a
 </details>
 
 # Ticket Types
-There are 2 main types of tickets that CAIA will use in its pipeline:
+**There are two main types of tickets:**
 
-- [CAIA Intake Request]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)).  This is the intake template for teams to request collaboration with CAIA. During refinement, CAIA will attach new work tickets to capture individual support tasks needed from each CAIA discipline. You will use the intake ticket to communicate with the product team/stakeholder and share any deliverables.
+- [CAIA Intake Request]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)).  This is the intake for teams to request collaboration with CAIA. During refinement, CAIA will attach new work tickets to capture individual support tasks needed from each CAIA discipline. You will use the intake ticket to communicate with the product team/stakeholder and share any deliverables.
 - CAIA work ticket: This is the issue created by CAIA, based on an intake or stakeholder request, that outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets). Product teams can see work tickets attached to their intake, but these work tickets are for you to use. You can add notes in comments to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.
 
-These two types can be view separately on our board: 
+**These two types can be view separately on our board: **
 - Work tickets: [Work Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1) and [Work Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/74)
 - Intakes and Epics: [Intake Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75) and [Intake Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/72)
 
 When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
+
+### Title
+The title section contains the name of the ticket with the following naming convention:
+
+- [CAIA intake] is used to distinguish the ticket type
+- Work tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning
 
 ## Work ticket templates
 
@@ -52,12 +58,6 @@ We use templates to make it easier to create tickets for specific kinds of work 
 - **CAIA Internal Health Content Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Health-Content-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Health-Content-Template.md). This ticket captures ongoing content support for MHV and other health tools. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
 - **Internal CAIA Pilot Research Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-internal-Research-Pilot-Ticket.md) + [create an issue]. Template for pilots conducted prior to research.
 - **Internal CAIA Refined Research Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-internal-research-refined-ticket-template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-internal-research-refined-ticket-template.md). Template for converted research intake to refined ticket.
-
-### Title
-The title section contains the name of the ticket with the following naming convention:
-
-- [CAIA intake] is used to distinguish the ticket type
-- Work tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning
 
 # Custom Fields
 This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. This includes:
