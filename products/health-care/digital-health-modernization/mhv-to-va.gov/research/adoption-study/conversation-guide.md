@@ -200,7 +200,7 @@ Okay, now go ahead and select that link.
 
 ## <a name="mhv-va-gov"></a>My HealtheVet on VA.gov (45 minutes) 
 
-### Arive on VA.gov (5 mins) 
+### Arrive on VA.gov (5 mins) 
 
 - Okay, thank you. 
 - Now where do you think you are?/How would you describe where you are to a friend? 
