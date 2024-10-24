@@ -21,6 +21,7 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 9. In the bug ticket, product person will link to the script they were testing so developers can reference it.
 10. In the spreadsheet, product person will add a link to the new bug.
 11. After finishing bugs, product person will change status to 🟥 because scenario is failing.
+12. Tyler will periodically re-test scenarios that are 🟥 and process repeats until scenario is 🟩.
 
 ## Creating a bug ticket
 ### Rules
