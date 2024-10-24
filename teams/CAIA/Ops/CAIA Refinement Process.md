@@ -1,5 +1,5 @@
 # CAIA Refinement process
-'Last pdated 10/2024'
+`Last updated 10/2024`
 
 ## In this document
 - [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Refinement%20Process.md#overview)
