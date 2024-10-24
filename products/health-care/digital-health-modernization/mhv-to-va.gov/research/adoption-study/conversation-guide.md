@@ -200,30 +200,36 @@ Okay, now go ahead and select that link.
 
 ## <a name="mhv-va-gov"></a>My HealtheVet on VA.gov (45 minutes) 
 
+### Arive on VA.gov (5 mins) 
+
 - Okay, thank you. 
 - Now where do you think you are?/How would you describe where you are to a friend? 
 - Why don't you take a few minutes to move around, and while you do so, please try to think out loud so that I can try to understand your thoughts. 
-- Does anything standout from the previous page we were looking at?
+- Does anything stand out from the previous page we were looking at?
 
 ### Things to note
 - Where do participants think they landed?/Do they understand where they’ve landed?
 - Anything exciting, interesting, or new that stands out? 
 - Anything particularly confusing? 
 
-### Tool 1: Secure messages 
+### Coherts: 
+- Participants **Secure messages** and **Meds**
+- Participants **Secure messages** and **Appointments**
+- Participants see **Medications** and **Appointments**
 
-- Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
+### Cohert 1: Secure messages to Medications 
+
+Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
+
 - Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
 - I'm seeing you gravitate towards ______. Why are you going there first?
 - What are you looking for?
 - Why did you click those links? 
-- How would you get back out to the larger secure message section?/How would you get back to where you came from?
+- **Optional** How would you get back out to the larger secure message section?/How would you get back to where you came from?
 
-Appointments: Imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
+Thank you for showing me that. 
 
-Medications: Let’s say you needed a refill on a prescription that you are running low on. How would you do that? 
-
-### Tool 2: Medications 
+[Meds] Now, let’s say you needed a refill on a prescription that you are running low on. How would you do that from this page? 
 
 - Let’s say you needed a refill on a prescription that you are running low on. How would you do that? 
 - What are you thinking as you (_go somewhere, do something_)?/What are you looking for 
@@ -231,11 +237,45 @@ Medications: Let’s say you needed a refill on a prescription that you are runn
 - What do you think should happen if you (_do something_)? 
 - What are you looking for?
 - Why did you click those links? 
+- **Optional** How would you get back out to the larger section of Medications?/How would you get back to where you came from?
+
+### Cohert 2: **Secure messages** and **Appointments** 
+
+Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
+
+- Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
+- I'm seeing you gravitate towards ______. Why are you going there first?
+- What are you looking for?
+- Why did you click those links? 
+- **Optional** How would you get back out to the larger secure message section?/How would you get back to where you came from?
+
+Thank you for showing me that. 
+
+[Apps] Now let's imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
+
+- Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
+- I'm seeing you gravitate towards ______. Why are you going there first?
+- What are you looking for?
+- Why did you click those links? 
+- **Optional** How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
+
+### Cohert 3: **Medications** and **Appointments**
+
+Let’s say you needed a refill on a prescription that you are running low on. How would you do that? 
+- What are you thinking as you (_go somewhere, do something_)?/What are you looking for 
+- Why did you (_do that, go there, try that_)? 
+- What do you think should happen if you (_do something_)? 
+- What are you looking for?
+- Why did you click those links? 
 - How would you get back out to the larger section of Medications?/How would you get back to where you came from?
 
-Appointments: Imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
+[Apps] Now let's imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
 
-Secure messages: Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
+- Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
+- I'm seeing you gravitate towards ______. Why are you going there first?
+- What are you looking for?
+- Why did you click those links? 
+- **Optional** How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
 
 ### Tool 3: Appointments 
 
