@@ -1,3 +1,4 @@
+# No show*
 # Conversation Guide – Apply for a medallion in a private cemetery 
 ## Moderator logistics
 ### 2-3 days before the session
@@ -11,7 +12,7 @@ Slack for real-time feedback from observers.
 ### Starting the session
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants
+- Check your [screensharing setup] and share permissions for participants.
 - When the participant is ready, begin the session with the following intro*
 - Make sure to silence the sounds as observers enter and exit, General>View advanced features>Play sound when participants join or leave.
 - Ensure it's recording to the cloud.
@@ -107,3 +108,4 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 Thank you so much again and enjoy the rest of your day!
 ## Emergency Exit
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+

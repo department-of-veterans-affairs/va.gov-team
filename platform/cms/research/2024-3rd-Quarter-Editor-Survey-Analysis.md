@@ -6,9 +6,137 @@ Editor Survey Analysis:
 
 The Drupal CMS team conducts a quarterly survey for editors to gauge their sentiments, identify pain points, and find opportunities for improvement. The data collected will be used to pinpoint editor pain points and areas that require positive changes.
 
-* * *
-
 ** Q3 2024 ** Editor Survey Results
+
+### Top-3 Quantitative Findings
+
+1. Nearly 22% (17/78) of editors use the system daily
+    1. VAMC editors are the most frequent users across all levels, followed by Outreach editors
+    2. Vet Center editors are more likely to use it less frequently, thus reflecting their survey engagement
+        1. 30% (24/78) of editors utilize Drupal-CMS at least one time per month
+        2. 25% (20/78) of editors currently use Drupal-CMS at least one time per week
+2. Approximately 40% of editors feel confident in Best Practices for Creating Accessible Content
+    1. Almost 50% lack confidence, indicating a need for further discovery
+        1. VAMC editors are split 50/50 with half feeling “very” confident and half feeling “somewhat”
+        2. Nearly 90% of Vet Center editors feel “somewhat” confident
+3. At 65%, Editors agree “the CMS is easy to use”
+    1. VAMC and Outreach groups lead positive sentiment
+    2. Vet Center editors are split 50/50, with half falling into the “neither” category
+    3. Overall, Editors agree more than disagree
+
+### Top-3 Qualitative Findings
+1. Editors are expressing a desire for enhanced capabilities in content creation. Specifically, they are requesting additional features related to photos, including the ability to add more images than currently allowed. 
+2. Editors are demonstrating a divergence in their understanding of the purpose of the Drupal-CMS system, with many comments requesting more customization and flexibility within templates. We believe that editors may not fully comprehend the intentional consistency of all Drupal-CMS products for all site visitors. Providing transparency into this intentionality is crucial. 
+3. Editors are understanding of the Help Desk's scope of support and are empathetic towards their limitations. They acknowledge that the Help Desk provides timely responses and is perceived as helpful, efficient, and supportive.
+
+### Key Findings & Insights
+
+**Response**
+
+* Less than 10% of editors emailed agreed to participate in the survey
+
+* The Vet Centers (543) is the largest group of editors, however, the VAMC (397) group response rate was higher (Response rate: 4.6% to 11%)
+
+* A quarter of editors currently use Drupal-CMS one time per week, while 30% utilize it one time per month. Nearly 22% of editors use the system daily
+
+* Editors can work on more than one product. (i.e., VBA Regional and Outreach)
+
+
+**Satisfaction**
+
+* Nearly half of the editors are satisfied with their overall experience with Drupal-CMS
+
+
+
+**Ease of Use**
+
+* Editors indicate confidence using Drupal-CMS, with more than 90% agreeing that they are ‘somewhat or very’ comfortable with the system
+  * VAMC, Vet Center, and Outreach groups are the most confident of the editors
+  * Vet Center shows opportunity for improvement as a large portion (19) indicate “somewhat” of a confidence
+
+* At 65%, Editors agree “the CMS is easy to use” 
+  * VAMC and Outreach groups lead positive sentiment
+  * Vet Center editors are split 50/50, with half falling into the “neither” category
+  * Overall, Editors agree more than disagree
+
+* 54% of editors agree they can find what they need quickly within Drupal-CMS
+  * VAMC group agrees the strongest
+  * Vet Center editors are split, with half neither agreeing nor disagreeing
+
+* More than 50% of editors agree Drupal-CMS “is easy to learn how to use”
+  * VAMC editors are the most confident with the majority of them agreeing on the learning curve
+  * Vet Center editors are split once again, with half neither agreeing nor disagreeing
+ 
+
+**Content Creation**
+
+* Best Practices for Creating Accessible Content
+  * Approximately 40% of editors feel confident 
+  * Almost 50% lack confidence, indicating a need for further discovery.
+    * VAMC editors are split 50/50 with half feeling “very” confident and half feeling “somewhat”
+    * Nearly 90% of Vet Center editors feel “somewhat” confident
+
+* Drupal-CMS makes it easy to Create Accessible Content
+  * Editors as a whole are split in half neither agreeing nor disagreeing
+    * VAMC editors lead with the majority agreeing
+    * The majority of Vet Center and Outreach editors fall into the “neither” category
+
+* Best Practices for Creating Plain Language Content
+  * 84% of editors are “somewhat” comfortable
+    * VAMC editors are the most confident with more than half of them feeling “very familiar”
+    * Vet Center editors are not as confident with most falling in the “somewhat” category
+
+* Drupal-CMS makes it easy to Create Plain Language Content
+  * 55% of editors agree
+  * Nearly 30% are not as confident
+    * More than 80% of VAMC editors agree the strongest
+    * Vet Center and Outreach editors are not as confident with half of each group indicating “neither” 
+
+  * Familiarity with va.gov Content Style Guide
+    * More than 50% of the editors are confident in their familiarity with the style guide
+    * 36% of editors are “somewhat” familiar
+      * VAMC editors are the most confident of all groups
+      * Majority of Vet Center editors are “somewhat” familiar 
+      * Outreach is split between “somewhat” and “very”
+
+  * Adherence to the va.gov Content Style Guide
+    * 66% of editors agree Drupal-CMS supports their adherence
+      * VAMC, Vet Center, and Outreach editors are aligned in their agreement
+ 
+
+**Help Desk**
+
+* 62% had prior experience reaching out to Help Desk for support
+    * Mainly VAMC and Outreach editors
+
+* Of the 49 with prior Help Desk experience:
+    * 89% felt they received a quick-response
+      * VAMC, Vet Center, and Outreach with the majority of responses
+      * Total of 5 editors believed otherwise
+
+    * 85% said that Help Desk helped solve their problem
+      * VAMC and Outreach editors were most satisfied
+      * Total of 7 editors believed otherwise
+
+
+**CMS Knowledge Base**
+
+* 76% (61/80) editors have used the CMS Knowledge Base (KB)
+    * VAMC and Outreach editors most commonly used the KB
+    * Vet Center editors split
+
+* 78% (48/61) of editors find the CMS KB helpful
+    * 31/39 VAMC editors find it helpful
+    * 19/21 Outreach editors find it helpful
+    * 8/10 Vet Center editors find it helpful
+
+* 78% find the content in the CMS KB easy to understand
+    * 32/39 VAMC editors find the KB content easy to understand
+    * 17/21 Outreach editors find the KB content easy to understand
+    * 8/10 Vet Center editors find the KB content easy to understand
+
+
+* * *
 
 Response Rate - All Products, All Users
 ---------------------------------------
@@ -53,7 +181,7 @@ How can we improve the response rate for the VAMC and Vet Center editors?
 
 * * *
 
-Background Information
+### Background Information
 ----------------------
 
 #### **Question:**  
@@ -97,7 +225,7 @@ This data gives us a view into the frequency of use by editors. Nearly twenty-tw
 
 * * *
 
-General Experience
+### General Experience
 ------------------
 
 #### **Question:**  
@@ -168,7 +296,7 @@ Most editors find the Drupal-CMS easy to learn and use, with a substantial numbe
 
 * * *
 
-Content Creation
+### Content Creation
 ----------------
 
 #### **Question:**  
@@ -228,6 +356,16 @@ How familiar are you with the VA.gov content style guide?
 |           | 10.13%      | 36.71%   | 53.16% |
 
 The analysis of this data reveals the connection between editors and the va.gov content style guide. It shows that slightly more than half of the editors feel that they have a clear understanding of how to create va.gov content.
+
+* * *
+
+#### **Question:**  
+The Drupal CMS makes it easy for me to adhere to the va.gov content style guide
+
+|           | Strongly Disagree | Disagree | Neither | Agree  | Strongly Agree |
+|-----------|-------------------|----------|---------|--------|----------------|
+| CY2024 Q3 | 4                 | 4        | 18      | 39     | 14             |
+|           | 5.06%             | 5.06%    | 22.78%  | 49.37% | 17.72%         |
 
 * * *
 

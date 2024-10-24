@@ -148,7 +148,7 @@ Before we look at the website, let’s start with a few warm-up questions.
      - (If N) No problem, [Laura/CAIA person] can help you do that.
 8. Is there anything else that we can do to support you during this session? (RECORD AND DO!)
 9. I will be sharing a web page link with you during the session. How would you prefer to
-receive the URL? I could email, text, dictate it to you, or put it in the Zoom chat. (RECORD)
+receive the URL? I could dictate it to you, or put it in the Zoom chat. (RECORD)
 10. Do you know how discharge status relates to VA benefits?
 11. Are you familiar with the discharge upgrade process?
      - (If Y) Have you applied for a discharge upgrade in the past?
@@ -183,10 +183,10 @@ like you to try to use it, and please share your feedback while you're doing tha
 in your impressions of what you see, any questions that you have, and how you feel about
 what you're doing.
 
-I'll have you start from a URL that I'm going to [[email/text/dictate/put into the Zoom chat]] for you to use:
+I'll have you start from a URL that I'm going to [dictate/put into the Zoom chat] for you to use:
 [https://staging.va.gov/discharge-upgrade-instructions/introduction]
 
-- (If text or email) Could the notetaker please text/email the link?
+- (If having trouble opening link) The email you received this morning should also have this URL in it. You can try to open it there if you have any problems using Zoom chat. 
 - (Might need to hold tablet horizontally so easier to read)
 
 Did you get the link?

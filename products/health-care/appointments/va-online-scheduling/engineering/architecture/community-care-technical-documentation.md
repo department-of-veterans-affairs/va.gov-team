@@ -136,6 +136,7 @@ sequenceDiagram
     participant Sidekiq as Sidekiq Job
     participant Postgres as Postgres DB
     participant Palantir as Palantir
+    participant VistA as VistA
     participant EPS as EPS System
     participant VA as VA Notify
 
@@ -153,16 +154,18 @@ sequenceDiagram
 
     Note over User: User clicks link in SMS/Email
     User->>Frontend: Open appointments page
-    Frontend->>VetsAPI: getReferralData()
-    VetsAPI->>Postgres: Fetch referral data
-    Postgres-->>VetsAPI: Return referral data
-    VetsAPI-->>Frontend: Return referral data
+    Frontend->>VetsAPI: getCombinedReferralData()
+    VetsAPI->>Postgres: Fetch referral data (or MAP system once complete possibly)
+    Postgres->>VetsAPI: Return referral data
+    VetsAPI->>EPS: getEPSAppointments() 
+    EPS->>VetsAPI: Return EPS appointments
+    VetsAPI->>VistA: getVistAAppointments() 
+    VistA->>VetsAPI: Return VistA appointments
+    VetsAPI->>VetsAPI: validateAppointments() (for referrals already made in EPS, for referrals that are already appointments in VistA)
+    VetsAPI-->>VetsAPI: Combine all appointments as necessary and valid referrals
+    VetsAPI-->>Frontend: Return combined appointments
     Frontend->>Frontend: Store referral data in Redux
-    Frontend->>VetsAPI: checkEPSAppointments()
-    VetsAPI->>EPS: Check for EPS appointments
-    EPS-->>VetsAPI: Return EPS appointments
-    VetsAPI-->>Frontend: Return EPS appointments
-    Frontend->>Frontend: Combine EPS appointments with existing appointments in Redux
+    
 
     Note over User: Starting appointment process page
     Frontend->>Frontend: getReferralData() from Redux

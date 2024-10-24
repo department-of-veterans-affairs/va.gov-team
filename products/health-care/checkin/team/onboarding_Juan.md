@@ -56,6 +56,14 @@
       - [brainstorming](https://balsamiq.cloud/s4uw4la/pnnwuqv/r8E01)
       - [VA Mobile Api](https://department-of-veterans-affairs.github.io/va-mobile-app/api/)
       - [Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board)
+- Feedback about coordination/collaboration between teams (product + mobile):
+      - For larges efforts (multiple teams) we suggest using ToT meetings to align
+- Feedback about priority alignments (product team(s) + mobile team)
+      - The travel pay for past appointments initiative didn't seem to be prioritized for the mobile team: Engineering (UAE) may need to be on hold until designs are done on the mobile UX side
+         - For apps developped on mobile platfrom - do designs need to be handles by the mobile UX team? Can product team take over?
+      - Lack of transparency around design delivery (mobile team) and timelines
+      - Request to join ToT meetings 
+   
 - Feedback about mentoring: (anything around if you got what you needed, if the guide and response was helpful, any imporvements to make it more productive, what communication type worked the best? ceremonies? slack ? or etc) 
   - xyz
   -

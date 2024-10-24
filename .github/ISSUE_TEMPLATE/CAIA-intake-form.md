@@ -22,7 +22,7 @@ Use this ticket to request collaboration on a new initiative with the sitewide c
 - **Dedicated content writer on your team (if you have one):** 
 - **Dedicated a11y specialist on your team (if you have one):**
 
-## Your CAIA team:
+## CAIA specialists involved
 _Filled out by CAIA_
 - **IA:** 
 - **Content:** 
@@ -93,3 +93,4 @@ If you’re going through the collaboration cycle, provide a link to your Collab
 - [ ] **If you're creating an experimental design**, also contact the design system team: [Read more about experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) <br> [Suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
 - [ ] **If you're requesting a11y support for usability research**, submit a research support request next: [Open an a11y research support request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name)
 - [ ] **If you are requesting content support**, please share your content source of truth (preferably as a SharePoint document).
+- [ ] Please don't close this intake when work is complete - CAIA will close and track

@@ -1,6 +1,6 @@
 # Product outline for Contact us page 
 
-Last updated by @beckyphung on August 28, 2024
+Last updated by @beckyphung on October 22, 2024
 
 **Jump to:**
 - [Overview](#overview)
@@ -53,11 +53,13 @@ See more information in our [Product metrics for ‘Contact us’ page](🟡 nee
 
 ### Key Performance Indicators (KPIs)
 Key Performance Indicators (KPIs) help us understand how the Contact us page is meeting expected user outcomes.
-We primarily track customer satisfaction (CSAT) right now. Below is our average CSAT score by year compared to VA.gov overall.
-|Year| ‘Contact us’ page | VA.gov all pages | 
+We primarily track the page's experience rating right now. Below is our average experience rating by year compared to VA.gov overall. The experience rating comes from answers to "Please rate your experience with VA.gov today." from the page's intercept survey. See all intercept survey questions on the [VA.gov platform site](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-MedalliaInterceptSurveyQuestions).
+
+### Experience rating
+|Year| Contact us page | VA.gov all pages | 
 |----------|-------------| -------------|
-|2024 (as of 8/21/24)|21.89% (273 responses)|56.86% (42932 responses)|                     
-|2023|18.22% (518 responses)|52.49% (70716 responses)|
+|2024 (as of 10/22/24)|24% (357 responses)|57% (56k responses)|                     
+|2023|18% (518 responses)|52% (71k responses)|
 
 ## Assumptions
 1.	People will prefer different contact channels in different contexts. For example, if people aren't confident they know which phone number to call, then people will prefer online tools for support. If people feel confident that a phone agent will be able to answer their question, then people will prefer phone calls for support. 

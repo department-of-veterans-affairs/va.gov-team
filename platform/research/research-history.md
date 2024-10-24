@@ -676,7 +676,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### January 6 - 8: STEM Scholarship Application
 *BAH: Amy Knox, Theresa McMurdo*
 - 6 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/research/wizard-update/research-plan.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/research/wizard-update/discovery-phase)
 
 ### December 2019
 
@@ -688,7 +688,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### December 9 - 20: VAOS UAT Phase II
 *Lauren Alexanderson*
 - 30 participants
-- Research Plan
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2019-12-uat-phase-2-requests)
 
 #### December 5 - 12: Medical Device Tool Discovery
 *AdHoc: Rebecca Walsh, Amida: Riley Orr*

@@ -2,8 +2,9 @@
 name: CAIA entry points and crosslinks for launches
 about: WIP for CAIA internal use, preparing multiple disciplines for product re-launches
 title: '[CAIA Internal]:<Team needing support><Support Needed><CAIA Disciplines>'
-labels: 'sitewide CAIA'
-assignees: 'coforma-terry,strelichl'
+labels: 'sitewide CAIA,sitewide IA,sitewide content'
+assignees: 'NaomiPMC,strelichl'
+project: sitewide CAIA
 ---
 
 # CAIA Internal Collaboration 

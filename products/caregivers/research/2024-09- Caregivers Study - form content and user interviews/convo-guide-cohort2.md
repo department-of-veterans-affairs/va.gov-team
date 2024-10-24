@@ -215,7 +215,9 @@ Next we would like your feedback on the information on the next couple of pages.
 **Skip this section for screen reader users**
 
 - I'm going to share my screen with you for the final step of the form and I'll ask you some questions about it.
-- [show Figma comp of production design version of confirmation page](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2930-67957&node-type=instance&t=EUUhWg1tjIgVWLwc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2930%3A67957) Confirm that they can see the confirmation page and that it's zoomed in enough to be read.
+- [show Figma comp of production design version of confirmation page - desktop](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2930-67957&node-type=instance&t=EUUhWg1tjIgVWLwc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2930%3A67957)
+- [Mobile prototype](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2955-74725&node-type=frame&t=eHfmPN0qC80XHHQv-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A4727&starting-point-node-id=2955%3A74725)
+- Confirm that they can see the confirmation page and that it's zoomed in enough to be read.
 - Describe to me in your own words what this page is telling you happened and what comes next in this process.
 - If you had a magic wand and you were in a perfect world, what would you like to see here?
 

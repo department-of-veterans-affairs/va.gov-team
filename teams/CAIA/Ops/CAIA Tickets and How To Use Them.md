@@ -4,6 +4,7 @@
 ## In this Document
 - [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#overview)
 - [Ticket Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-types)
+  - [Work ticket templates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#work-ticket-templates)
 - [Custom Fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#custom-field-section)
 - [Ticket Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-status)
 
@@ -27,7 +28,7 @@ This document details how to create, update, and close a CAIA ticket, ensuring a
 </details>
 
 # Ticket Types
-There are 2 types of tickets that CAIA will use in its pipeline:
+There are 2 main types of tickets that CAIA will use in its pipeline:
 
 - [CAIA Intake Request]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)).  This is the intake template for teams to request collaboration with CAIA. During refinement, CAIA will attach new work tickets to capture individual support tasks needed from each CAIA discipline. You will use the intake ticket to communicate with the product team/stakeholder and share any deliverables.
 - CAIA work ticket: This is the issue created by CAIA, based on an intake or stakeholder request, that outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets). Product teams can see work tickets attached to their intake, but these work tickets are for you to use. You can add notes in comments to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.
@@ -37,6 +38,20 @@ These two types can be view separately on our board:
 - Intakes and Epics: [Intake Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75) and [Intake Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/72)
 
 When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
+
+## Work ticket templates
+
+We use templates to make it easier to create tickets for specific kinds of work we do on a regular basis. All of the templates for the va.gov-team repository can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.github/ISSUE_TEMPLATE). This is a list of the CAIA-specific templates and their use cases:
+
+- **CAIA Best Bet Request**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA%20Best%20Bet%20Request.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA+Best+Bet+Request.md). Request to create or change a best bet in VA.gov search results.
+- **CAIA entry points and crosslinks for launches:** [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA%20entry%20points%20+%20crosslinks%20for%20launches.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA+entry+points+%2B+crosslinks+for+launches.md). This ticket is designed to coordinate IA and content tasks for product updates to update the mega menu, left nave, and hub pages in Drupal.
+- **Internal CAIA a11y Short Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-A11y-Short-Ticket.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-A11y-Short-Ticket.md). Template for CAIA a11y members to utilize, when needing to create a ticket oustide the intake process.
+- **CAIA Internal Ad Hoc Content Request Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Ad-Hoc-Content-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Ad-Hoc-Content-Template.md).This ticket captures the last minute, quick-turnaround content requests that come in outside of CAIA intakes. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
+- **CAIA Internal Style Guide Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Content-Style-Guide-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Content-Style-Guide-Template.md). This ticket captures ongoing content updates to the style guide. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
+- **CAIA Internal Content Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Content-Ticket.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Content-Ticket.md). Use to create general content work tickets, remove or edit the task checkboxes to fit the work. 
+- **CAIA Internal Health Content Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Health-Content-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Health-Content-Template.md). This ticket captures ongoing content support for MHV and other health tools. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
+- **Internal CAIA Pilot Research Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-internal-Research-Pilot-Ticket.md) + [create an issue]. Template for pilots conducted prior to research.
+- **Internal CAIA Refined Research Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-internal-research-refined-ticket-template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-internal-research-refined-ticket-template.md). Template for converted research intake to refined ticket.
 
 ### Title
 The title section contains the name of the ticket with the following naming convention:
@@ -48,6 +63,17 @@ The title section contains the name of the ticket with the following naming conv
 This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. This includes:
 
 ### Required fields
+- **Opened Date** - The date the ticket was created. This is auto-generated by Github, but the default data cannot be used to filter issues on the board, so we still need to manually input this date.
+- **Closed Date** - the date the ticket was closed. This is not auto-generated, so please be sure to fill out this field when you close a ticket (for content tickets, PDM will do this).
+- **Estimate** - the level of effort we think will be required for a ticket. Only used on Task tickets, not Epics. Level of effort is determined using basic tee shirt sizes based on the time it would take to complete the work iteself (not including waiting on SMEs or stakeholders, back and forth with OCTO, etc.):
+  - **Small** for 1-5 days - Redirects (except for Family Member Benefit migration work) and Best Bets, deprecating a page
+  - **Medium** for 2-4 weeks - Best bets, React Widgets
+  - **Large** for 1-3 months - Launching a new tool
+  - **Extra large** for 4+ months -  Migration audit
+- **Actual** - how much effort was required, once we've completed the work and can asses how big a lift it was
+- **Originator/Team** - the team or stakeholder that requested the work
+
+### Additional fields
 - **Assignees** - Shows who is responsible for the work being done on the ticket. This should be used only for the person actively working on the ticket, not for general awareness (if you need to flag a ticket for someone's awareness, tag them in a comment). As a ticket moves through the work process, the assignee may change. For example, a content ticket will be handed off from an editor to a writer to a copyeditor--to make it obvious who is actively responsible for work, we won't keep all three of those people assigned the whole time.
 - **Labels** - Sometimes known as tags. These allow for CAIA to 'tag' which discipline needs to be involved with the work. Current labels for CAIA are:
   - sitewide CAIA
@@ -56,25 +82,13 @@ This section contains field data that is important for filtering and tracking is
   - sitewide accessibility
   - CAIA translation 
   - CAIA-a11y-research (used to denote CAIA research involvement for Assistive Technology support)
-- **Opened Date** - The date the ticket was created. This is auto-generated by Github, but the default data cannot be used to filter issues on the board, so we still need to manually input this date.
-- **Closed Date** - the date the ticket was closed. This is not auto-generated, so please be sure to fill out this field when you close a ticket (for content tickets, PDM will do this).
-- **Estimate** - the level of effort we think will be required for a ticket. Only used on Task tickets, not Epics. Level of effort is determined using basic tee shirt sizes based on the time it would take to complete the work iteself (not including waiting on SMEs or stakeholders, back and forth with OCTO, etc.):
-  - **Small** for 1-5 days - Redirects, deprecating a page
-  - **Medium** for 2-4 weeks - Best bets, React Widgets
-  - **Large** for 1-3 months - Launching a new tool
-  - **Extra large** for 4+ months -  Migration audit
-- **Actual** - how much effort was required, once we've completed the work and can asses how big a lift it was
-- **Originator/Team** - the team or stakeholder that requested the work
 - **Last Checked** - the last time a ticket was checked, especially helpful to track on tickets in backlog or blocked to ensure tickets do not go stale in the pipeline
-
-### Optional fields
 - **Target date** - we don't use this consistently. It has been used to track both product team launch dates and general internal CAIA deadlines.
 - **Priority** - we don't use this consistently, but it can be used to indicate how urgent a piece of work is based on the following scale:
   - **High** - top priority, work should begin immediately
   - **Medium** - important but not as urgent as high priority
   - **Normal** - default, regular priority
-  - **Low** - not urgent, does not require immediate work. This can be used for items in backlog without current work or actionable next steps yet
-  - **Chipper** - special status for work that is generally not a high priority item but that can be worked on as time and capacity allows. Generally long-term initiatives and items with no fixed deadline
+  - **Low** - not urgent, does not require immediate work. This can be used for items in backlog without current work or actionable next steps. It can also be used for items that can be worked on slowly as time and capacity allows (formerly known as a "chipper"), i.e. long-term initiatives or items with no fixed deadline.
 - **Sprint** - Used for planning when the work in this ticket should be scheduled
 - **Blocked by** - used to indicate which OCTO crew is blocking the work
 - **Reason Blocked** - general text field to  add detail to the reason the ticket is blocked
@@ -109,7 +123,27 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
 # Closing tickets
 The way we close tickets matters to our reporting, but we have different steps to complete due to the range of ticket types and discipline setups on our team. 
 
-### Closing work tickets
-A11y: Individual contributors are responsible for closing tickets they are assigned to and tracking them in the reporting spreadsheet
-IA: Individual contributors are responsible for closing tickets they are assigned to and tracking them in the reporting spreadsheet
-Content: Individual contributors are responsible for moving tickets they are assigned to into validate. The PDM will track them in the reporting spreadsheet.
+### Closure process for team members
+
+**Work tickets:**
+
+The assignee responsible for the last step will be responsible for moving the ticket.
+1. Add all required fields
+2. Add a comment confirming that the ticket is ready for closure review, and tag your discipline lead.
+3. Move the ticket to Validate
+
+**Intakes**
+
+If you are assigned to the last open work ticket on an intake (or you’re the only team member assigned), you are responsible for moving the intake. 
+1. Confirm that all the work tickets are closed
+2. Add all required fields
+3. Add a comment confirming that the ticket is ready for closure review, and tag your discipline lead
+4. Move the ticket to Validate
+
+### Closure process for discipline "leads"/delivery
+
+At least weekly, review the Validate column and close intakes and work tickets related to your discipline. 
+1. Confirm that all work tickets attached to an intake are closed
+2. If a ticket is not ready for closure, add a comment explaining why and next steps, and move the ticket to an active status swimlane (such as In Progress or Blocked)
+3. Add closed intakes and their attached work tickets to the [CAIA metric spreadsheet](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit?gid=1091370068#gid=1091370068) in the relevant sprint tab.
+   

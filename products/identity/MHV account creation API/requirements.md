@@ -34,11 +34,12 @@ The MHV team has created an api called the MHV account creation API which the VA
 9. Vets-api MUST write to a new frontend serializer for the storage of the MHV attributes
 10. Vets-api MUST look for a temporary ICN and show the user an error if a non-temporary active ICN is not present.
     1. va.gov frontend MUST show an error message to the user stating there was an issue processing their user attributes, refer them to the help desk. Make this a new error code number so that we can inform the helpdesk to forward the issue onto IAM for a temporary ICN user.
+11. Vets-api MUST update the MHV related values within the user redis cache after a successful mhv account creation api call 
 
 ## Host Endpoints
 
-- Dev - http://api-intb.myhealth.va.gov
-- Staging - https://api-sysb.myhealth.va. gov
+- Dev -[https://apigw-intb.aws.myhealth.va.gov](https://apigw-intb.aws.myhealth.va.gov)
+- Staging - [https://apigw-sysb.aws.myhealth.va.gov](https://apigw-intb.aws.myhealth.va.gov)
 - Production - [https://api.myhealth.va.gov](https://api.myhealth.va.gov/)
 
 ## API Paths

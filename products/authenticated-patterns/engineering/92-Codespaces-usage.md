@@ -18,7 +18,7 @@
 
 ## Introduction
 
-This guide will walk you through setting up a testing environment for user research sessions using GitHub Codespaces. To streamline the process, we will use `vets-website` without the content-build process and implement a mock server to handle API calls. This approach allows for a faster setup and more controlled testing environment in that the frontend can be updated on the fly, and mock responses for api calls can be tailored to the needs of the research study.
+This guide will walk you through setting up a testing environment for user research sessions using [GitHub Codespaces](https://github.com/features/codespaces). To streamline the process, we will use `vets-website` without the content-build process and implement a mock server to handle API calls. This approach allows for a faster setup and more controlled testing environment in that the frontend can be updated on the fly, and mock responses for api calls can be tailored to the needs of the research study.
 
 ## Configuring the codespace environment variables
 

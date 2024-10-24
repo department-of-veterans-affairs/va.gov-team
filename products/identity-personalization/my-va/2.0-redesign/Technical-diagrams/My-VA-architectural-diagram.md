@@ -1,7 +1,8 @@
 # My VA Architecture Diagram
 _Last updated: July 25, 2023. New diagram created to reflect the latest version of My VA, which includes information about claims and appeals, health care, outstanding debts, benefit payments, and education benefits, as well as onsite notifications._
 
-![My VA Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/assets/534756/2cda66a7-e367-4bd2-bcd8-1a8a274f0e1a)
+![256022392-2cda66a7-e367-4bd2-bcd8-1a8a274f0e1a](https://github.com/user-attachments/assets/42234fac-0eab-44dc-ad6e-093ed8adddc1)
+
 
 
 ## Endpoint to Feature Map
@@ -20,3 +21,4 @@ _Last updated: July 25, 2023. New diagram created to reflect the latest version 
 | [`/v0/debts`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/debts/getDebts) | [Onsite Notifications](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/outstanding_debts/backend_documentation.md) |
 | [`/v0/medical_copays`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/medical_copays/getMedicalCopays) | [Outstanding Debts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/outstanding_debts/backend_documentation.md) |
 | [`/v0/health_care_applications/enrollment_status`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_forms/enrollmentStatusHealthCareApplication) | [Saved Applications](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/saved_applications/backend_documentation.md) |
+| [`/v0/my_va/submitted_applications`](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/my_va/getSubmissionStatuses) | [Submitted Applications](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/saved_applications/backend_documentation.md) |

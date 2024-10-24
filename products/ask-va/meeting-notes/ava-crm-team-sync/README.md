@@ -1,3 +1,101 @@
+**10/15/2024**
+Updates from Previous week:
+- Completed Dress Rehearsal!
+
+This weeks Agenda: 
+- Review Upcoming CRM Releases + Queue Rules
+- Review Payload + Submit Updates
+- Manual testing scenarios/scripts [FORM]
+
+
+**10/8/2024**
+Updates from Previous Week:
+- Prepping for Dress Rehearsal
+- Confirming + Implementing Payload updates
+Agenda for this week!
+- Dress Rehearsal  + Integration Script Coverage- Joe
+- Timeline Changes - CeeCee
+- CRM API conversations - Kyle + Ask.VA.Gov Devs
+- request from Education team - Additional Options under Compliance Surveys- Becky
+
+- Action items:
+  - CRM to review the potential 120 flows for testing, highlighting if we ought to be testing specific scenarios like regional rules etc. 
+
+
+**9/24/24**
+What was done since last touch points:
+- completed automated test scripts for dress rehearsal
+- updated timeline
+- dry run of 1 insomnia test inquiry for integration testing
+- run through of CRM test call outs doc
+  
+For this session:
+- discuss steps for dress rehearsal - next week - CeeCee
+- discuss update(s) to test plan - CeeCee
+- review test call out doc if there are new updates- Shelby
+- begin 3rd party outage conversations and discuss silent failures - Joe
+Tech Asks: – Khoa
+	- Can we get option Set in 1 go (Kyle/Shelby to discuss, seems doable) 
+	Attachment in replies
+	- Mirrors the Submit Inquiry - Kyle-approved!
+	- Personal/Business/Auth/Unauth  - Currently, all Unauth’d – Khoa (Action Item) Kyle to look into on CRM side. 
+ -- Notes: 
+  	-  Authenticated is not really an option - Chris
+	-  Unauth’d/Business/Personal are mutually exclusive
+  	- Inquiry contains ^^^^ value, shows on dashboard
+	- Unauth’d never on dash since we don’t know that it’s really you.
+
+- Review of test variations documented by Becky to ensure we’re getting full(ish) coverage. Document on github, Mural linked.
+-  Action Item: Becky and Shelby to compare notes and merge into a master document of test variants
+
+  Action Items: 
+  -  Becky and Shelby to compare notes and merge into a master document of test variants
+
+**9/17/24:**
+- What was done since last touch point: 
+- Insomnia Inquiry Review + 1st Collection Round Trip 
+- AVA CRM Test Call Outs
+- Team collaboration on bringing Test Coverage to 60% on AVA - VA.GOV - in progress
+
+**For this session: :**
+- Timeline Review
+- Insomnia Collection Round Trip Run Through and Feedback
+- AVA CRM Test Call Outs
+- Flow Mapping Doc Review
+- Discussion CRM Question: How are we handling the “for the dependent of a vet” when the submitter is the dependent? Specifically, how are VeteranRelationship and DependentRelationship populated?
+
+**9/9/2024:**
+**What was done since Last touch point:** 
+- Collaboration Cycle QA Read Out:
+- Updates to Test Doc + Timeline
+- Reviewed Mapping Doc
+- Drafting Insomnia Test
+- Unit Test Code Coverage: 
+
+**What we will be doing today: **
+- Insomnia Inquiry Update
+- Unit Test Code Coverage Report Example
+- Leadership Acceptance of Test Plan Deep Dive
+- Update to Governance Cycle: Data Dog Coverage of APIs before Staging
+- Testing Timeline End to End Testing
+
+Action Item: 
+
+
+9/3/2024:
+Action Items: 
+- CeeCee:  Update testing docs (add links to Test Plan: Dress Rehearsal, Categories description, description of mvp 2 E2E test scripts ) 
+- Joe: Continue working on unit test code coverage + draft insomnia inquiry for Life insurance
+- Terri: Send AVA CRM the category mapping doc in teams
+- Shelby to send by monday EOD
+- CeeCee + Shelby to attend Collaboration Cycle Office Hours 
+
+Tuesday Agenda
+- Insomnia test draft 
+- Coverage report on unit test coverage 
+- Discuss new potential CRM Sync ways of working
+
+
 ##8/20/2024
 
 **Agenda**

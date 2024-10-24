@@ -1,11 +1,9 @@
 # Reseach findings for "Find help on Contact us" study
-🟡 10/11: This is still in-progress.
-
-- Study dates: August 30 to October # 2024
+- Study dates: August 30 to October 22 2024
 - Study conducted by: Becky Phung, becky.phung@va.gov
 - Goverment team: Department of Veterans Affairs > Office of the Chief Technology Officer > Digital Experience Portfolio > **Veteran Support Crew & Content, Information Architecture, and Editor Experiences Crew** 
 
-[View our Research readout in this slide deck pdf](link here)
+[View our Research readout in this slide deck pdf](🟡 add link)
 
 **Jump to:**
 - [Veteran journey](#veteran-journey)
@@ -247,7 +245,7 @@ Please see additional findings in [this separate GitHub doc](https://github.com/
 - **Hypothesis**: If we add a link to VA secure messaging, then users will know where to send health-care related messages.
 - **Risks**: The Contact us page will become longer if we continue added content to it. People may think they can ask questions that their care team can't answer. People may choose VA secure messaging rather than Ask VA when Ask VA is more appropriate. 
 - **Mitigating risks**: Consider the Contact us page as a multi-page experience. Clarify the distinction between Ask VA and VA secure messaging.
-- **Measuring impact**: Clicks to VA secure messaging.
+- **Measuring impact**: Clicks to VA secure messaging
 
 ### Update "Helpful online tools" heading
 - **Hypothesis**: If we update the heading to better explain what users can use helpful online tools for, then users will choose to access online tools more. 
@@ -268,9 +266,9 @@ Please see additional findings in [this separate GitHub doc](https://github.com/
 - **Measuring impact**: Clicks to online tools
 
 ## Next Steps
-
-_Next steps here. Include owners if appropriate._
-
+- **Review recommednations**: On 10/31, Becky to review recommendations with Chante, Beth, and Danielle.
+- **Update Contact us page**: Beth and Danielle can help update content on Contact us.
+- **Further design exploration and research**: Becky can lead on further exploration and research.
 
 ## Further design exploration and research needed
 ### Reconsider order of Contact us page to be more topic-driven
@@ -297,85 +295,81 @@ I primarily used [this Mural](https://app.mural.co/t/departmentofveteransaffairs
 ## Pages and applications used
 - [Contact us page on VA.gov](https://www.va.gov/contact-us)
 
-## Other supporting documents created
-e.g. user flows, personas, etc.
-
 ## Secondary research
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+- Input from other teams and reviewed previous research [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719251794794/aa0db9f68c23d8d38f10e49f39cad9f67665c5f5?sender=u44efa807e992cacf10cf3697).
+- Medallia responses [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719593492763/c5c0e79c682911f1e45a9ae966a47a23f297d648).
+- Secure messaging comparative analysis, which includes related notes to Contact us experiences [in this SharePoint folder](https://dvagov.sharepoint.com/:f:/s/AccountExperienceCrew/Eu-ChaaPWPZPpmCo8v3sdLABskX2GvZLdoJQ9T_88A3l3A?e=1NUFo5).
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 6
+* Female: 4 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 2
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 6
+* Tablet: 1 
+* Smart phone: 3
+* Assistive Technology: 0
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 0
+* 35-44: 0
+* 45-54: 3
+* 55-64: 4
+* 65+: 3
+* Unknown: 0
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 2
+* Master's degree: 2
+* Doctorate degree: 0
+* Unknown: 0
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 4
+* Rural: 6
+* Unknown: 0
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 5
+* Black: 2
+* Hispanic: 1
+* Biracial: 1
+* Asian: 0
+* Native: 0
+* Unknown: 1
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
+* Cognitive: 5
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 ## Underserved groups we haven’t talked to 
 This research does not include the perspectives of the following underserved Veteran groups:
@@ -385,7 +379,4 @@ This research does not include the perspectives of the following underserved Vet
 - Asian: Veterans who identify as an Asian ethnicity.
 - Native: Veterans who identify as a Native ethnicity. 
 
-
-_[insert screenshot of completed recruitment checker]_
-
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![image](https://github.com/user-attachments/assets/d2b65c39-6348-41ee-ab9d-216af2cdee15)

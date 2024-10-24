@@ -20,4 +20,4 @@ We already know there are different ways other websites and mobile apps have app
 
 ## Timeline
 - **Start date**: August 30, 2024 (Research review submitted)
-- **End date**: October 2, 2024 (Share findings and recommendations)
+- **End date**: October 22, 2024 (Share findings and recommendations)

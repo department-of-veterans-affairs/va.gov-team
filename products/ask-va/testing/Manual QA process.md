@@ -1,5 +1,6 @@
 # Ask VA Manual QA process
-Last updated October 16, 2024 by @beckyphung
+
+Last updated: October 24, 2024 by @tygindraux
 
 This document explains our process to manually QA Ask VA. We're primarily using this process before our expected launch on VA.gov in January 2025. 
 
@@ -10,15 +11,17 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 
 ## Manual testing workflow for product/design
 1. Tyler will list initial scenarios we should test.
-2. Tyler or Thomas will make a copy of a template based on the scenario and write rules and script for specific scenario.
-3. When rules/script is ready for a product person to use, Tyler or Thomas will post on Slack.
-4. Product person will pick up the scenario and assign their name in the index.
-5. Product person will test staging and compare to scenario script/rules.
-6. Product person will document issues in spreadsheet.
-7. Product person will check whether tickets have been created for issues they've listed, if not, create a new bug.
-8. In the bug, product person will link to the script they were testing so dev has a reference.
-9. In the spreadsheet, product person will add a link to the bug.
-10. Product person will check off scenario in index.
+2. Tyler will assign herself as 'tester' and make a copy of a template based on the scenario.
+3. Tyler will write rules and script for a specific scenario and change status to ⬜ in index.
+4. Tyler will test staging and compare to scenario script/rules.
+5. If there are issues, Tyler will document issues in spreadsheet and change status to 🟨 in index.
+6. (If there are no issues, Tyler will change status to 🟩 in index and scenario is complete.)
+7. Product person will choose a 🟨 scenario in index and assign themselves as 'bug writer.'
+8. Product person will either create a new bug ticket or list an existing bug ticket in the bug column.
+9. In the bug ticket, product person will link to the script they were testing so developers can reference it.
+10. In the spreadsheet, product person will add a link to the new bug.
+11. After finishing bugs, product person will change status to 🟥 because scenario is failing.
+12. Tyler will periodically re-test scenarios that are 🟥 and process repeats until scenario is 🟩.
 
 ## Creating a bug ticket
 ### Rules
@@ -35,13 +38,13 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 
 ### Rules for product
 - **Order bugs by priority in the Caterpillars swimlane.**
-- **Assign severity based on the following table.** ⚠️ Note: We're done with AT testing and probably need to update this table.
+- **Assign severity based on the following table.**
 
-| Category | Description | Resolution Process |
-|--------------|-------------|--------------------|
-| **Severity&nbsp;1** | This is a top tier. Fast follow post launch, eg. missing content |Jumps backlog, potentially interrupt a developer |
-| **Severity&nbsp;2** | Fast follow post launch, eg. missing content| Give a heads up before picking up another ticket|
-| **Severity&nbsp;3** | Backlog, eg. spacing issues **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
+| Category | Description | Resolution Process | Example |
+|--------------|-------------|--------------------|--|
+| **Severity&nbsp;1** | This is a top tier. Pre-launch, eg. flow broken, etc. |Jumps backlog, potentially interrupt a developer |[Missing subtopics for Education category #1435](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1435)|
+| **Severity&nbsp;2** | Fast follow post-launch, eg. missing content| Give a heads up before picking up another ticket|[Remove question mark from header #1409](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1409)|
+| **Severity&nbsp;3** | Backlog, eg. spacing issues **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly|[Progress bar UI changes#1249](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1249)|
 
 ### Steps
 #### Before creating ticket
@@ -54,7 +57,7 @@ This document explains our process to manually QA Ask VA. We're primarily using 
 3. Assign to **Caterpillars** swimlane.
 4. Add links to rules documentation.
 5. Add to the correct child epic.
-   - For example, if a ticket is about the "Tell about yourself page," add it to the "Tell us about yourself" epic.
+   - For example, if a ticket is about the "Tell about yourself" page, add it to the "Tell us about yourself" epic.
 7. Tag Design (@tygindraux and @t-michaud)
 
 ## References

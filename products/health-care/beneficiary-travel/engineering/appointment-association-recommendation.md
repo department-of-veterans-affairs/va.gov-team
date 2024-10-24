@@ -12,15 +12,94 @@ The appointments team has made the technical decision to retrieve all VAOS appoi
 
 The plan for associating appointments to claims is to add Travel Pay specific attributes to the appointment object in the initial appointments list call, thereby providing the necessary claim information in the appointments list and appointment details page.
 
-## Recommendation
+## Recommendation (10/08/24)
 
 It is the team's recommendation that the appointment association logic is performed in a separate module based on the BTSSS appointment list. This will have the most comprehensive data returned to associate the VAOS appointment to any existing travel claims as well as the necessary data requirements to submit the claim without additional API calls. In the appointments list we can show a `yes/no` indication of whether or not a travel pay claim has been submitted for the appointment date-time and facility, allowing users to submit a claim if no claim is associated with the given appointment.
 
 By separating the appointment-to-claim association logic into a separate "Appointment Association Module" (or class) it can be shared across all modalities for an omni-channel "appointments" experience, while leaving the Travel Pay Reimbursement claim logic itself a standalone concern.
 
+### Update 10/18/24
+
+With integration questions still under discussion, the team has decided to move forward with an appointment > claim association with VAOS appointments > BTSSS claims association approach.
+
+Using shared logic in the Travel Pay module of `vets-api`, the Travel Pay team retrieves the claims for the specified date range sent in with the initial appointments list API call. The claims and appointments for that date range are associated, returning a new array of appointments with the `associatedTravelPayClaim` ID appended. The appointments team can then show either a link to the claim details page (if a claim ID is present) or a link to the submit flow (if a claim ID is not included).
+
+## Appointment association data flow
+
+```mermaid
+sequenceDiagram
+  actor vet as Veteran
+  participant appts as Appointments: VA.gov
+  participant smoc as Mileage Claim Submission: VA.gov
+  participant redux as Redux Store
+  participant vapi as vets-api
+  participant tpapi as Travel Pay API
+  participant vaos as VA Appointment Service
+
+  vet ->> appts: View past appointments list
+  activate appts
+    appts ->> vapi: Request appts in date range
+    
+    activate vapi
+      vapi ->> vaos: Request all appts in date range
+    activate vaos
+      vaos ->> vapi: Appointment data
+    deactivate vaos
+      vapi ->> tpapi: Request claims in date range
+    activate tpapi
+      tpapi ->> vapi: Claim data
+    deactivate tpapi
+      vapi ->> appts: All appts (vets-api module attaches claim ID based on appt datetime & facility match)
+    deactivate vapi
+
+    appts -) redux: Store all appts (with claimID)
+    
+    vet ->> appts: View past appointment details
+
+    appts ->> redux: Get appt {123} details (with claimID)
+
+    activate redux
+      redux ->> appts: Show appt {123} details
+    deactivate redux
+
+    vet ->> appts: Refreshes page
+    appts ->> vapi: Get appt {123} details
+    
+    activate vapi
+      
+      vapi ->> vaos: Request appointment {123} data
+    activate vaos
+      vaos ->> vapi: Appointment {123} data
+    deactivate vaos
+      vapi ->> tpapi: Request claim data for appt datetime
+    activate tpapi
+      tpapi ->> vapi: Claim data
+    deactivate tpapi
+      vapi ->> appts: Appt {123} details (with claimID)
+    deactivate vapi
+
+    appts -) redux: Store appt details (with claimID)
+
+    vet ->> appts: Conditional link if claimID is present or not
+
+    appts ->> smoc: View claim details or Enter submit flow
+
+  deactivate appts
+```
+
+## Risks, Questions, Considerations
+1. What is the exact policy surrounding Travel Pay claims?
+  - For example, we know that the Rules Engine will flip a claim into the "In Manual Review" status if it's the second one of the day (but the Veteran can still _submit_ that second claim for a second appointment)
+  - So should we associate _any_ appointment on that date at that facility to a claim for that date/facility, resulting in a potential `many:1` (`appt:claim`) association? Or match only on the exact datetime and facility (i.e. the exact appointment for which the claim was submitted) and leave the policy decisions around multiple submissions to the Rules Engine/Travel Clerks?
+2. What are the ramifications of including the claim status in the appointment response object?
+  - Depending on the answer to question 1, how should we associate the status of a claim with an appointment if there might be multiple appointments associated with the same claim (which appointment gets the "status" attached to the appointment object? Or do they all get the same status?)
+3. What is the risk to the Mobile App backwards compatibility requirement if we change the response later?
+  - KISS: simpler is better
+  - Additive changes are ok, but if we add status and other Travel Pay attributes now, harder to remove later
+
 ## Technical feasibility research
 
-### Use the `/appointments` TP-API endpoint (Recommended aproach)
+### Use the `/appointments` TP-API endpoint
 
 One option the team has discussed is to use the TP-API `/appointments` endpoint to retrieve a collection of the user's BTSSS appointments for the same date range (past 3 months, past 6 months, etc.) and associate those to the VAOS appointments in the appointments list. 
  
