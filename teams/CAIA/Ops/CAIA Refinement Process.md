@@ -15,7 +15,7 @@
 ## Overview
 
 ### Purpose of this document
-This document serves as instruction and guidance for conducting CAIA operations refinement.
+This document serves as instruction and guidance for conducting CAIA refinement.
 
 ### Purpose of Refinement
 CAIA ops refinement focuses on adding detail and context, estimating, and prioritizing intake tickets in "New Stuff", "Backlog" and "Blocked". Refinement is an essential part of the effective management and prioritization of work and makes us aware and better able to plan for new work as it enters the CAIA pipeline.
