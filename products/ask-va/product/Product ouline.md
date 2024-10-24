@@ -51,7 +51,25 @@ We expect Veterans and other submitters to meet these outcomes after we launch P
 ### Key Performance Indicators (KPIs)
 Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. Objectives and Key results (OKRs) help us measure success of specific targeted objectives for a specific initiative or time period.
 
-View our KPIs in this [KPI Measurement doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/products/Phase%201%20KPIs.md)
+We'll track these primary KPIs over time: 
+
+#### User experience KPIs
+**Form and Dashboard**
+- **Satisfaction** - Increase customer satisfaction score (CSAT)
+- **Experience** - Increase experience rating
+  
+**Form only**
+- **Form completion rate** - Increase the percentage of questions successfully sent by submitters 
+- **Time to submit form** - Decrease the average time it takes submitters to send a question
+
+**Dashboard only**
+- **Reply rate** - Increase the number of replies to questions
+- **Time to reply** - Decrease the average time it takes submitters to reply to a question
+
+#### Performance KPIs
+- **Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions
+
+View more details in the [Ask VA KPIs doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md).
 
 ### Objectives and key results (OKRs)
 These OKRs measure the success of our Phase 1 launch.
