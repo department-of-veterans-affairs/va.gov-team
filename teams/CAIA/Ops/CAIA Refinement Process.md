@@ -155,7 +155,7 @@ Planning and load balancing:
 
 These instructions are also included in [CAIA Tickets and How To Use Them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/CAIA%20Tickets%20and%20How%20To%20Use%20Them.md).
 
-**Review Validate Items **
+**Review Validate Items**
 
 - Confirm that all work tickets attached to an intake are closed
 - If a ticket is not ready for closure, add a comment explaining why and next steps, and move the ticket to an active status swimlane (such as In Progress or Blocked)
