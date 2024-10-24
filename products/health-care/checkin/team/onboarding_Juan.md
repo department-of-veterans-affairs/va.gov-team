@@ -64,9 +64,11 @@
   - Lack of transparency around design delivery (mobile team) and timelines
   - Request to join ToT meetings 
 - Code Merges/ QA review process:
-  - @juancstlm-a6 - please add the approx time of PR/QA review
-  - Let us know if the process works well for you?
-  - Any suggestions to improve in this process?
+  - 1+ Day to code review
+  - Initial recomendation is after PR is made, some one will review it, ask for PR review if not reviewed within 24hrs. But it might be better to get a PR into peoples radar by just asking for a review sooner via slack message.
+  - QA takes about 1 day
+  - If small changes are needed the process can be extended an extra day.
+  - Process is ok but not ideal due to significant time needed for review. 
 
   
 - Feedback about mentoring: (anything around if you got what you needed, if the guide and response was helpful, any imporvements to make it more productive, what communication type worked the best? ceremonies? slack ? or etc) 
