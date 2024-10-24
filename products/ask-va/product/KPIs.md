@@ -50,10 +50,10 @@ These are other dashboard metrics to track. We don't need these for launch.
 
 ### Experience
 - **Data source**: Answers to "How was your experience contacting VA today?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
-- **How to calculate (Option 1)**:
-   - ((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
+- **How to calculate (Option 1)**: ((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
+   - The [CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322) in Domo calculates the percentage. 
 - **How to calculate (Option 2)**: Transform options ("Very bad" to "Very good") to 1 to 5 scale. With 1 being "Very bad" and 5 being "Very good." Then `average` responses
-- **Note**: The [VA.gov Forms KPIs dashboard](https://va-gov.domo.com/page/447193050) in Domo calculates the average. And the [CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322) in Domo calculates the percentage.
+   - The [VA.gov Forms KPIs dashboard](https://va-gov.domo.com/page/447193050) in Domo calculates the average.
 
 ### Form completion rate
 - **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
@@ -77,10 +77,16 @@ These are other dashboard metrics to track. We don't need these for launch.
 
 ## Performance KPIs
 Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads.
-|KPI|Target definition|Actual targets as of [date]|
-|:--|:--|:--|
+|KPI|Actual targets as of [date]|
+|:--|:--|
 |**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: ❓|
-|**Add more**|xx|xx|
+|**Successful submissions to CRM**|xx|
+|**Failed submissions to CRM**|xx|
+|**Other things**|xx|
+
+### Other performance metrics
+These are other performance metrics to track. We don't need these for launch.
+- [Other metrics]
 
 ## Business lines
 The Ask VA CRM team tracks business line KPIs in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). This includes metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more.
