@@ -146,4 +146,5 @@ At least weekly, review the Validate column and close intakes and work tickets r
 1. Confirm that all work tickets attached to an intake are closed
 2. If a ticket is not ready for closure, add a comment explaining why and next steps, and move the ticket to an active status swimlane (such as In Progress or Blocked)
 3. Add closed intakes and their attached work tickets to the [CAIA metric spreadsheet](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit?gid=1091370068#gid=1091370068) in the relevant sprint tab.
+4. Note: to close a ticket, you need to use "Close issue" button in the comments section of the ticket. Unfortunately, just dragging the ticket into the "Closed" column does not actually close the ticket.
    
