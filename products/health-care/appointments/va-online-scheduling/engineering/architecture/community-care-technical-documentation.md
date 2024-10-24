@@ -140,18 +140,6 @@ sequenceDiagram
     participant EPS as EPS System
     participant VA as VA Notify
 
-    Note over Sidekiq: Nightly Job
-    Sidekiq->>Palantir: getExternalReferralData()
-    Palantir-->>Sidekiq: Return referral data
-    Sidekiq->>VetsAPI: parseConsultIntoReferral()
-    VetsAPI->>VetsAPI: checkReferralData()
-    VetsAPI->>Postgres: Check for duplicates and expiration
-    Postgres-->>VetsAPI: Return check results
-    VetsAPI->>VetsAPI: encryptReferralData()
-    VetsAPI->>Postgres: storeData()
-    VetsAPI->>VA: sendNotification()
-    VA-->>User: Send SMS/Email with referral link
-
     Note over User: User clicks link in SMS/Email
     User->>Frontend: Open appointments page
     Frontend->>VetsAPI: getCombinedReferralData()
@@ -210,6 +198,22 @@ sequenceDiagram
 3. After authentication, user is redirected to the referral page.
 4. Frontend retrieves referral data from Vets API and stores it in Redux.
 5. Frontend checks for EPS appointments and combines them with existing appointments in Redux.
+
+## Resources
+
+Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) service, we're going to use that resource. We have discussed this with the VAOS backend engineering team and they are in agreement with this approach. This avoids any confusion for the Appointment resource and object. However the downside is that we're going to have to add logic to retrieve the appointments from EPS and dedupe those within the existing appointments service code, which is going to add complexity and latency for existing consumers.
+
+'Referrals' is going to be a new resource. Endpoints are:
+
+* GET `/vaos/v2/referrals`
+  Sample Response
+  ```
+  TBD
+  ```
+* GET `/vaos/v2/appointments` (existing)
+* GET `/vaos/v2/appointment` (existing)
+* POST `/vaos/v2/appointment` (existing)
+
 
 ## Data Retention Policy
 
