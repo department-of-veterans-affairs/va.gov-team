@@ -22,25 +22,27 @@ These are KPIs we want to actively track when we launch on VA.gov in 2025. Our p
 |**Time on task** - Decrease the average time it takes submitters to send a question from ❓|**❓**: ❓|
 
 ### How we'll calculate each KPI
-### Satisfaction
+#### Satisfaction
 - **Data source**: Answers to "What is your overall satisfaction with this site?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
 - **How to calculate**:
    - ((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
    - **Example**: ((40+40)/200)*100 = 40%
 
-### Experience
+#### Experience
 - **Data source**: Answers to "How was your experience contacting VA today?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
 - **How to calculate**:
    - Transform options ("Very bad" to "Very good") to 1 to 5 scale. With 1 being "Very bad" and 5 being "Very good."
    - `mean` of responses
 
-### Form completion rate
+#### Form completion rate
 - **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
-- ❓
+- **How to calculate**:
+   - Count of users who hits submit button `divided by` Count of total users who visited Ask VA `multiplied by` 100
 
-### Time on task
+#### Time on task
 - **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
-- ❓
+- **How to calculate**:
+   - Session length... from form intro page to when user hits submit buttom
 
 ### Other form KPIs and metrics
 Below are other form KPIs and metrics we'll want to track. 
@@ -108,18 +110,6 @@ When we go live with our new front-end on VA.gov, ____ percentage of users compl
 - We will use Google Analytics to capture what percentage of submitters completed the journey
 - We do want the data to show authenticated vs. unauthenticated users and type of device. 
 
-
-### Submitter satisfaction
-Meet the target VA.gov satisfaction score (59% - fluid metric). Logic: 59% of the users rated their VA.gov experience as a 4 or 5 on 5 point scale (Medallia survey).
-
-- To capture current KPI on this for ask.va.gov, we need to introduce the Medallia survey on ask.va.gov to capture this metric.
-- To capture this metric in our new front-end on VA.gov, we will add the Medallia survey to VA.gov.
-
 ## Metrics that we want to monitor for awareness:
 - % of rerouted cases
 - Resolution time
-
-## KPIs that are not a good fit at this time:
-- 20% of submitters get answers to their questions without submitting an issue
-- Case resolution time is decreased by x%
-- Rerouted cases are reduced by 50%
