@@ -1,3 +1,12 @@
+---
+name: Epic Template
+about: For filing Epics
+title: ''
+labels: 'epic'
+assignees: ''
+
+---
+
 ## Status
 _Update each sprint until completed_
 | Date | Status | Launch Date (see above) | Notes |
