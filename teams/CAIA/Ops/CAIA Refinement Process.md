@@ -159,4 +159,5 @@ These instructions are also included in [CAIA Tickets and How To Use Them](https
 
 - Confirm that all work tickets attached to an intake are closed
 - If a ticket is not ready for closure, add a comment explaining why and next steps, and move the ticket to an active status swimlane (such as In Progress or Blocked)
-- Add closed intakes and their attached work tickets to the CAIA metric spreadsheet in the relevant sprint tab.
+- Add closed intakes and their attached work tickets to the [CAIA metric spreadsheet](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit?gid=1091370068#gid=1091370068) in the relevant sprint tab.
+- Note: to close a ticket, you need to use "Close issue" button in the comments section of the ticket. Unfortunately, just dragging the ticket into the "Closed" column does not actually close the ticket.
