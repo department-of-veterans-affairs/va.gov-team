@@ -74,7 +74,7 @@ I’ve started recording. I'd like to confirm again: **Are you comfortable if I 
 - How often do you login? 
 - For what purpose?
 
-3. If does not mention My HealtheVet,
+2. If does not mention My HealtheVet,
 - What about with My HealtheVet? 
 - How often do you login? 
 - For what purpose?
