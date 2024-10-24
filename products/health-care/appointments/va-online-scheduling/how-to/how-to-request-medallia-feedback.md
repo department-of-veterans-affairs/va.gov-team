@@ -56,7 +56,7 @@ No
 |-------|------------|------------|--------------|--------------|--------|
 |   40  | 09-29-2024 | 10-05-2024 | Leah De La Costa     | [94897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94897)         |Completed        |
 |   41  | 10-06-2024 | 10-12-2024 | Leah De La Costa     | [94897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94897)         |Completed        |
-|   42  | 10-13-2024 | 10-19-2024 | Leah De La Costa     | [95322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95322)         |In progress      |
+|   42  | 10-13-2024 | 10-19-2024 | Leah De La Costa     | [95322](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95322)         |Completed      |
 |   43  | 10-20-2024 | 10-26-2024 |              | []()         |        |
 |   44  | 10-27-2024 | 11-02-2024 |              | []()         |        |
 |   45  | 11-03-2024 | 11-09-2024 |              | []()         |        |
