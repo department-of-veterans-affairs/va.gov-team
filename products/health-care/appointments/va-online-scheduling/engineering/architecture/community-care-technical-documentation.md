@@ -206,6 +206,7 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 'Referrals' is going to be a new resource. Endpoints are:
 
 * GET `/vaos/v2/referrals`
+  
   Sample Response
   ```
   TBD
