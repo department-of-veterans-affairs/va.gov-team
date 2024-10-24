@@ -7,109 +7,80 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 
 **Jump to:**
 - [User experience KPIs](#user-experience-kpis)
+- [Calculating user experience KPIs](#user-experience-kpis)
 - [Performance KPIs](#performance-kpis)
 
 ## User experience KPIs
 User Experience KPIs measure how well Ask VA meets the needs and expectations of its users.
 
 ### Form
-These are KPIs we want to actively track when we launch on VA.gov in 2025. Our primary goal is ti **make it easy to complete the form.**
-|KPI|2024 targets as of 10/23/24|
+These are KPIs we want to actively track when we launch on VA.gov in 2025.
+|KPI|2024 targets as of 10/24/24|
 |:--|:--|
-|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: 57%<br>**VA.gov forms average**: ❓|
-|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**:❓<br>**VA.gov forms average**: 3.5|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: ❓<br>**VA.gov forms average**: ❓|
+|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**:57%<br>**VA.gov forms average**: 3.5|
 |**Form completion rate** - Increase the percentage of questions successfully sent by submitters to at least the VA.gov average form completion rate|**VA.gov average form completion rate**: 29%|
-|**Time on task** - Decrease the average time it takes submitters to send a question from ❓|**❓**: ❓|
+|**Time to submit form** - Decrease the average time it takes submitters to send a question from ❓|❓|
 
-### How we'll calculate each KPI
-#### Satisfaction
-- **Data source**: Answers to "What is your overall satisfaction with this site?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
-- **How to calculate**:
-   - ((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
-   - **Example**: ((40+40)/200)*100 = 40%
-
-#### Experience
-- **Data source**: Answers to "How was your experience contacting VA today?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
-- **How to calculate**:
-   - Transform options ("Very bad" to "Very good") to 1 to 5 scale. With 1 being "Very bad" and 5 being "Very good."
-   - `mean` of responses
-
-#### Form completion rate
-- **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
-- **How to calculate**:
-   - Count of users who hits submit button `divided by` Count of total users who visited Ask VA `multiplied by` 100
-
-#### Time on task
-- **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
-- **How to calculate**:
-   - Session length... from form intro page to when user hits submit buttom
-
-### Other form KPIs and metrics
-Below are other form KPIs and metrics we'll want to track. 
-- Form abandonment rate, including the step at which users exit the form
-- 
-- [other]
-
-### Target metric sources
-We pulled target metrics from the following dashboards in Domo: 
-- [VA.gov Forms KPIS](https://va-gov.domo.com/page/447193050)
-- [CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322)
+#### Other form metrics
+These are other form metrics to track. We don't need these for launch.
+- Form abandonment rate, including the page at which users exit the form before submitting
+- Page interactions, including clicks on phone numbers, the additional info component for military addresses, etc.
+- Disaggregate by device, demographics, other filters, etc.
 
 ### Dashboard 
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
-|Goal|KPI|Target definition|Actual targets as of [date]|
-|:--|:--|:--|:--|
-|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: 57%<br>**VA.gov forms average**: ❓|
-|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**:❓<br>**VA.gov forms average**: 3.5|
-|Make it easy to use the dashboard|**Task completion** - Increase the number of replies to questions to ?? VA secure messaging?|VA secure messaging?|VA secure messaging? reply rate:[##]%|
-|Make it easy to use the dashboard|**Time on task** - Decrease the average time it takes submitters to reply to a question from ??|VA secure messaging?|VA secure messaging? time on task:[##]%|
+KPI|2024 targets as of 10/24/24|
+|:--|:--|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: ❓|
+|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**: 57%|
+|**Reply rate** - Increase the number of replies to questions to ❓|❓|
+|**Time to reply** - Decrease the average time it takes submitters to reply to a question from ❓|❓|
 
-### Other dashboard KPIs and metrics
-Below are other dashboard KPIs and metrics we'll want to add. 
-- [other]
+### Other dashboard metrics
+These are other dashboard metrics to track. We don't need these for launch.
+- Review only rate, which shows how many users only use the dashboard to review questions
+- Page interactions, including clicks on tabs, next page, filter usage, accordion, etc.
+- Disaggregate by device, demographics, other filters, etc.
+
+## Calculating user experience KPIs
+### Satisfaction
+- **Data source**: Answers to "What is your overall satisfaction with this site?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
+- **How to calculate**: ((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
+
+### Experience
+- **Data source**: Answers to "How was your experience contacting VA today?" in the Medallia feedback button survey. [See survey questions in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Medallia%20feedback%20surveys.md)
+- **How to calculate (Option 1)**:
+   - ((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
+- **How to calculate (Option 2)**: Transform options ("Very bad" to "Very good") to 1 to 5 scale. With 1 being "Very bad" and 5 being "Very good." Then `average` responses
+- **Note**: The [VA.gov Forms KPIs dashboard](https://va-gov.domo.com/page/447193050) in Domo calculates the average. And the [CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322) in Domo calculates the percentage.
+
+### Form completion rate
+- **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
+- **How to calculate**:
+   - Count of clicks on submit button `divided by` Count of total users who visited Ask VA `multiplied by` 100
+
+### Reply rate
+- **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
+- **How to calculate**:
+   - Count of clicks on submit button `divided by` Count of total users who open question details page `multiplied by` 100
+     
+### Time to submit form
+- **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
+- **How to calculate**:
+   - Time when user clicked submit button `minus` time when user arrived on unauthenticated form introduction page OR authenticated dashboard page
+
+### Time to reply
+- **Data source**: [Google Analytics](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome) from "[GA4] VA.gov - Production" property
+- **How to calculate**:
+   - Time when user clicked send button `minus` time when user arrived on question details page
 
 ## Performance KPIs
 Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads.
-|Goal|KPI|Target definition|Actual targets as of [date]|
-|:--|:--|:--|:--|
-|Ensure completely successful submissions|**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate|VA.gov silent failures rate: ??|
+|KPI|Target definition|Actual targets as of [date]|
+|:--|:--|:--|
+|**Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions|VA.gov silent failures rate: ❓|
+|**Add more**|xx|xx|
 
-## Business line KPIs
+## Business lines
 The Ask VA CRM team tracks business line KPIs in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). This includes metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more.
-
-----
-🚧 Old text below
-
-## KPIs (Pick max 3-5):
-
-### Time it takes to submit an inquiry (Reduce this by X%)
-If an inquiry was submitted, how long did it take from the start of a session to the end of the session?
-
-Currently, submitters take an average time of ___ to submit an inquiry.
-
-#### To capture the current KPI on this for ask.va.gov
-- **For the submitters that submitted an inquiry**
-  - What is the average time that it took them from the time that they **landed on the ask.va.gov** to the time that they clicked submit.
-  - What is the average time that it took them from the time the **NEXT button is clicked in the “Tell us about your question” page** to the time that they clicked submit.
-
-We do want the data to show authenticated vs. unauthenticated, and type of device. 
-
-When we go live with our new front-end on VA.gov, submitters take an average time of ___ to submit an inquiry. 
-- We will use Google Analytics to capture the start and end of a session.
-
-### Percentage of submitters that complete the journey to submit their inquiry with information on what device was used (Increase by X%).
-What percentage of submitters completed the user journey once beginning the session?
-
-Currently, ____ percentage of users complete the user journey after beginning the session. 
-
-#### To capture current KPI on this for ask.va.gov, the calculation would be as follows
-- **Numerator**: Submitters that completed the journey (end on submission confirmation page)
-- **Denominator**: Total number of submitters that click the NEXT button on “Tell us about your question” page (shows intent to submit an inquiry)
-
-When we go live with our new front-end on VA.gov, ____ percentage of users complete the user journey after beginning the session. 
-- We will use Google Analytics to capture what percentage of submitters completed the journey
-- We do want the data to show authenticated vs. unauthenticated users and type of device. 
-
-## Metrics that we want to monitor for awareness:
-- % of rerouted cases
-- Resolution time
