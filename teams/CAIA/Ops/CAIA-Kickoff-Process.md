@@ -1,5 +1,5 @@
-# Intro to CAIA Kickoffs for product teams
-`Current WIP Version: V1.0`
+# Intro to CAIA Kickoffs (for product teams)
+`Last updated 10/2024`
 
 ## In this document 📃
 - [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/kickoff-process.md#overview)
