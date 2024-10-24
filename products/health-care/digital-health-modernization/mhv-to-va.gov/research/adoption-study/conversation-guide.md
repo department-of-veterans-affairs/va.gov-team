@@ -277,19 +277,6 @@ Let’s say you needed a refill on a prescription that you are running low on. H
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
 
-### Tool 3: Appointments 
-
-- Imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
-
-- Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
-- I'm seeing you gravitate towards ______. Why are you going there first?
-- What are you looking for?
-- Why did you click those links? 
-- How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
-
-Medications: Let’s say you needed a refill on a prescription that you are running low on. How would you do that? 
-
-Secure messages: Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
 
 #### Things to note 
 
