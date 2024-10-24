@@ -54,6 +54,6 @@ Expanding the dataset would involve increasing the volume of MHV credentials, bu
 ## Next Steps
 
 - Regroup with Tom after the 10/22 OCTO/OCC leadership meeting to align on next steps
-- Request MHV to remove unncessary date filters (e.g. "730 days"), ensuring future reports include all active MHV credentials.
+- Request MHV to remove unnecessary date filters (e.g. "730 days"), ensuring future reports include all active MHV credentials.
 - Request Basic Matched data and integrate into the weekly reports.
 - Update the "last used" filter to account for MHV credentials.
