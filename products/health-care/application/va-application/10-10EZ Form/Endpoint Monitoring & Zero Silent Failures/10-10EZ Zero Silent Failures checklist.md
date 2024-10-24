@@ -47,6 +47,7 @@ If you answered yes to any of these questions then go through the following [che
 >   * **ACTION ITEM**: We are not set up for Delivery Status callbacks with VA Notify, ticket created [#93247](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93247) to remediate
 >        * Confirmed that there have not been any delivery failures since onboarding Submission Failures emails to VA Notify on 7/9/2024
 >        * Prior to this, we had a Datadog monitor on the govDelivery email delivery status set up since September 2023 (which was removed when we switched over to VA Notify).
+>   * We have added the required [Silent Failure Avoided tracking logging](https://vagov.ddog-gov.com/dashboard/n6c-twn-swr/silent-failure-tracker?fromUser=false&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1729187697952&to_ts=1729792497952&live=true) to our 10-10EZ form, test results (10/24/2024) appeared in the tracker as expected
 
 * [x] Does your Datadog monitoring use the appropriate tagging?
   * If not, [implement tagging standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards). Adding the [dependency tag](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitor-tagging-standards#MonitorTaggingStandards-Recommended:dependency) is highly recommended!
@@ -113,6 +114,5 @@ If you answered yes to any of these questions then go through the following [che
 * [x] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
   * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram). That diagram will help us to help you and your team to create this user experience.
 >   * Not yet. We must remediate the Delivery Status callback setup from VA Notify to ensure our team is being notified of any failed email sends - [#93166](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93166)
->   * We have added he required [Silent Failure Avoided tracking logging](https://vagov.ddog-gov.com/dashboard/n6c-twn-swr/silent-failure-tracker?fromUser=false&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1729187697952&to_ts=1729792497952&live=true) to our 10-10EZ form, test results (10/24/2024) appeared in the tracker as expected
 >   * All other points of failure are made known to the user on-screen within the 10-10EZ online form or via email.
 
