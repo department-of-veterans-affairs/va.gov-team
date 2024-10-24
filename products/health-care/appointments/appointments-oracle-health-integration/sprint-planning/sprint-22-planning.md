@@ -24,15 +24,14 @@ Sprint 22: 10/22/24 - 11/5/24
 ## 📋 Previous Sprint Summary:
 In Sprint 21 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-  * Updated VetsAPI Patient Gateway to enforce constraints on desired appointment dates for directly booked appointments. The gateway now disallows appointments with either a 1) current date or 2) a date more than 390 days in the future.
+  * Updated VetsAPI Patient Gateway to enforce configurable constraints on desired appointment dates for directly booked appointments. The gateway now disallows appointments with either a 1) current date or 2) a date occurring after the configurable threshold (default setting is 390 days).
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
    * Enhanced Clinical Encounter Service to unify slot search parameters, moving away from custom search parameters based on EHR.
-   * Addressed technical debt in the gov.va.mobile.vpg.v1.orchestration package to respond to SCA findings, improving test coverage and resolving tech debt within the client package.
-   * Separated legacy VAOS links from the VetsAPI Patient Gateway to eliminate potential LOC violations.
+   * Updated the gov.va.mobile.vpg.v1.orchestration and client packages to respond to SCA findings, improve test coverage and resolve tech debt.
 * #### Backend support for Slot Search for Appointment Requests
    * Implemented a new "provider" filter option in the VPG Slot search endpoint of VetsAPI Patient Gateway.
 * #### Backend support for Oracle Health to enable Appointment Cancellation
-   * Updated the orchestration layer and FHIR mappers in VetsAPI Patient Gateway to populate responses from Oracle Health appointment searches that do not include the URL for telehealth appointments.
+   * Updated the orchestration layer and FHIR mappers in VetsAPI Patient Gateway to populate responses from Oracle Health appointment searches with telehealth information.
 * #### Backend support for Oracle Health to enable appointment requests
   *  Enhanced Clinical Encounter Service to support searching for slots using multiple IDs.
 * #### Testing/Admin/Operational Support
