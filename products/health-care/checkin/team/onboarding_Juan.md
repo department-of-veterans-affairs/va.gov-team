@@ -63,7 +63,12 @@
          - For apps developped on mobile platfrom - do designs need to be handles by the mobile UX team? Can product team take over?
   - Lack of transparency around design delivery (mobile team) and timelines
   - Request to join ToT meetings 
-   
+- Code Merges/ QA review process:
+  - @juancstlm-a6 - please add the approx time of PR/QA review
+  - Let us know if the process works well for you?
+  - Any suggestions to improve in this process?
+
+  
 - Feedback about mentoring: (anything around if you got what you needed, if the guide and response was helpful, any imporvements to make it more productive, what communication type worked the best? ceremonies? slack ? or etc) 
   - xyz
   -
@@ -72,11 +77,11 @@
   - xyz 
   -
   -
-- what would help with speeding up the onboarding?
+- What would help with speeding up the onboarding?
   - xyz
   -
-- feedback on tools (or any suggestions re tools):
+- Feedback on tools (or any suggestions re tools):
   - xyz
-- feedback on the development process:
+- Feedback on the development process:
   - xyz
   - 
