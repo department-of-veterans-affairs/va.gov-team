@@ -8,7 +8,7 @@
 |----|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/id-form|
-|www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/check-your-personal-information|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/check-your-personal-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/va-benefits-package|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/care-for-service-connected-conditions|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/birth-information|
