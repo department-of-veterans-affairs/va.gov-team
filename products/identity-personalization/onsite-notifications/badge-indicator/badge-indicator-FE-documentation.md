@@ -32,6 +32,8 @@ _Note that this content may need additional CAIA review._
 
 ### Inbox may be accessible still on MHV (400s error code)
 
+With some error scenarios, it's possible secure messaging access may still be possible, even if a count cannot be given.
+
 <img width="400" alt="Screenshot 2024-10-22 at 11 40 47 AM" src="https://github.com/user-attachments/assets/223ef4ec-4a30-444c-8cb5-3b4410d0d45e">
 
 
@@ -41,6 +43,9 @@ _Note that this content may need additional CAIA review._
 
 
 ### Inbox is not accessible on MHV (500s error code)
+
+With some other error scenarios, it's guaranteed that messaging would not be available. 
+
 <img width="400" alt="Screenshot 2024-10-23 at 9 43 35 AM" src="https://github.com/user-attachments/assets/a73cf17c-0009-4387-bf61-28c2ee582ba7">
 
 [Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2677-4869&t=JEjUCa3eWvva0IQU-1)
