@@ -57,7 +57,8 @@ We pulled target metrics from the following dashboards in Domo:
 These are KPIs we want to actively track when we launch on VA.gov in 2025.
 |Goal|KPI|Target definition|Actual targets as of [date]|
 |:--|:--|:--|:--|
-|Make it easy to use the dashboard|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|- VA.gov all pages average CSAT<br>-VA Secure messaging average CSAT?|- VA.gov average: [##]%<br>-VA Secure messaging average: [##]%|
+|**Satisfaction** - Increase customer satisfaction score (CSAT) to at least the VA.gov average|**VA.gov average**: 57%<br>**VA.gov forms average**: ❓|
+|**Experience** - Increase experience rating to at least the VA.gov average|**VA.gov average**:❓<br>**VA.gov forms average**: 3.5|
 |Make it easy to use the dashboard|**Task completion** - Increase the number of replies to questions to ?? VA secure messaging?|VA secure messaging?|VA secure messaging? reply rate:[##]%|
 |Make it easy to use the dashboard|**Time on task** - Decrease the average time it takes submitters to reply to a question from ??|VA secure messaging?|VA secure messaging? time on task:[##]%|
 
