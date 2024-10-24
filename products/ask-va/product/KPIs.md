@@ -1,7 +1,7 @@
 # Ask VA KPIs
 Last updated by @beckyphung on October 22, 2024
 
-🚧 10/15 Update: We're working on updating this page right now.
+🚧 10/24 Update: We don't have all targets currently. Also, we're currently working on updating the **Performance KPIs** section.
 
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
 
