@@ -1,5 +1,5 @@
 ---
-title: "[]{#_5o54wq3tj206 .anchor}SSIT Inbox Templates "
+"SSIT Inbox Templates"
 ---
 
 **VA NETWORK VERSION**
@@ -50,7 +50,7 @@ ENCRYPTED email to this inbox.
 ## Veteran To escalate an issue
 
 Please be sure you are [including all the following
-information]{.underline} in your requests so that the ticket can be
+information] in your requests so that the ticket can be
 effectively escalated to either Login.gov, ID.me, or the VA technical
 teams.
 
@@ -62,7 +62,7 @@ teams.
 
 - Provider (ID.me/Login.gov)
 
-- Issue description (All information [must]{.underline} be included.
+- Issue description (All information [must] be included.
   This helps minimize back and forth and allows us to quickly escalate
   the issue to the teams)
 
@@ -105,7 +105,7 @@ To Report Feedback
 
 Issues related to topics not covered below are to be escalated to
 internal leadership. Please utilize the [[escalation
-response]{.underline}](#internal-sit-escalations) below.
+response](#internal-sit-escalations) below.
 
 ### Missing information
 
@@ -191,7 +191,7 @@ Some Veterans such as those in assisted living facilities or under power
 of attorney POA/court-ordered guardian COG care may not have a valid
 form of ID as accepted by Login.gov or ID.me  
 Reference [[Troubleshooting
-Guide]{.underline}](https://dvagov-my.sharepoint.com/:w:/r/personal/christine_julian_va_gov/Documents/SSIT/Sign%20Up%20Day%20Support/VA%20Resources/Secure%20sign-in%20guide%20for%20in-person%20events%20and%20support_v1_10.01.24%20(1).docx?d=wb6e5dcad9e194bf4844df7672a30cb52&csf=1&web=1&e=hcIcFo&nav=eyJoIjoiMTYwNjcxMjgxMiJ9)
+Guide](https://dvagov-my.sharepoint.com/:w:/r/personal/christine_julian_va_gov/Documents/SSIT/Sign%20Up%20Day%20Support/VA%20Resources/Secure%20sign-in%20guide%20for%20in-person%20events%20and%20support_v1_10.01.24%20(1).docx?d=wb6e5dcad9e194bf4844df7672a30cb52&csf=1&web=1&e=hcIcFo&nav=eyJoIjoiMTYwNjcxMjgxMiJ9)
 
 Hello \[name\],
 
@@ -303,13 +303,7 @@ option. They will enter the information (no photo uploads required) and
 will receive a barcode to take to a participating post office, who can
 complete verification for them. You can search for a post office for the
 Veteran
-[[here]{.underline}](https://login.gov/help/verify-your-identity/verify-your-identity-in-person/find-a-participating-post-office/#:~:text=A%20.gov%20website%20belongs%20to%20an%20official%20government).
-
-![](media/image1.png){width="6.5in" height="4.986111111111111in"}
-
-![](media/image2.png){width="6.5in" height="4.722222222222222in"}
-
-![](media/image3.png){width="6.5in" height="8.069444444444445in"}
+[[here]](https://login.gov/help/verify-your-identity/verify-your-identity-in-person/find-a-participating-post-office/#:~:text=A%20.gov%20website%20belongs%20to%20an%20official%20government).
 
 Sincerely,
 
@@ -347,7 +341,7 @@ Sincerely,
 Secure Sign-In Transition Team \| VA  
   
 Download the follow-up materials from the Zip file at
-[[https://vaww.oit.va.gov/prepare-for-sign-in-changes/]{.underline}](https://vaww.oit.va.gov/prepare-for-sign-in-changes/)
+[[https://vaww.oit.va.gov/prepare-for-sign-in-changes/](https://vaww.oit.va.gov/prepare-for-sign-in-changes/)
 
 ### Veteran w/ Dementia
 
@@ -376,8 +370,8 @@ Secure Sign-In Transition Team \| VA
 
 ### Unhoused or Homeless
 
-Reference [[Troubleshooting
-Doc]{.underline}](https://dvagov-my.sharepoint.com/:w:/r/personal/christine_julian_va_gov/Documents/SSIT/Sign%20Up%20Day%20Support/VA%20Resources/Secure%20sign-in%20guide%20for%20in-person%20events%20and%20support_v1_10.01.24%20(1).docx?d=wb6e5dcad9e194bf4844df7672a30cb52&csf=1&web=1&e=7iy5Xa&nav=eyJoIjoiNTEwMzg2MTE4In0%3D)
+Reference [Troubleshooting
+Doc](https://dvagov-my.sharepoint.com/:w:/r/personal/christine_julian_va_gov/Documents/SSIT/Sign%20Up%20Day%20Support/VA%20Resources/Secure%20sign-in%20guide%20for%20in-person%20events%20and%20support_v1_10.01.24%20(1).docx?d=wb6e5dcad9e194bf4844df7672a30cb52&csf=1&web=1&e=7iy5Xa&nav=eyJoIjoiNTEwMzg2MTE4In0%3D)
 
 Hello \[name\],
 
@@ -465,7 +459,7 @@ Secure Sign-In Transition Team \| VA
 Hello \[name\],
 
 If this Veteran was not able to verify their phone with
-[[Login.gov]{.underline}](http://login.gov/) they need to verify by mail
+[[Login.gov]](http://login.gov/) they need to verify by mail
 by following the instructions on the flow. Here's what it looks
 like:![](media/image4.png){width="3.7269422572178477in"
 height="4.286458880139983in"}
@@ -505,15 +499,15 @@ Secure Sign-In Transition Team \| VA
 Hello \[name\],
 
 Thanks for reaching out. [Users can always submit tickets at the bottom
-of this [[page]{.underline}](https://login.gov/contact/) to reach our
+of this [[page]](https://login.gov/contact/) to reach our
 Contact Center for Login.gov]{.mark}
 
 In the future, if you are not able to get into contact with the help
 desk you can either have the Veteran create a ticket or submit it on
 their behalf here so that [[Login.gov]{.underline}](http://login.gov/)
 can follow up directly with the Veteran: [[Contact us
-\|]{.underline}](https://login.gov/contact/)
-[[Login.gov]{.underline}](http://login.gov/)
+\|]](https://login.gov/contact/)
+[[Login.gov]](http://login.gov/)
 
 Sincerely,  
 \[Name\]  
@@ -559,9 +553,9 @@ Secure Sign-In Transition Team \| VA
 ## ID.me {#id.me}
 
 Reference the [[ID.me Troubleshooting
-Page]{.underline}](https://docs.google.com/document/d/1cDqosgY-yO654sCebhVZksvbPZlbszcU/edit#heading=h.2dlolyb)
+Page]](https://docs.google.com/document/d/1cDqosgY-yO654sCebhVZksvbPZlbszcU/edit#heading=h.2dlolyb)
 
-### Re-Verification Request[ Hello \[name\],]{.mark}
+### Re-Verification Request[ Hello \[name\],]
 
 [  
 Thank you for reporting this issue. We have escalated to ID.me for
@@ -573,7 +567,7 @@ Sincerely,
 Secure Sign-In Transition Team \| VA  
   
 **Escalation to ID.me**: forward received email to
-[[jessica.guglielmini@id.me]{.underline}](mailto:jessica.guglielmini@id.me)
+[[jessica.guglielmini@id.me]](mailto:jessica.guglielmini@id.me)
 
 Hello Jessica,
 
@@ -672,19 +666,19 @@ Secure Sign-In Transition Team \| VA
 Hello \[name\],
 
 For Veterans who are having issues with photos, we recommend using
-[[Login.gov]{.underline}](http://login.gov/) and getting to a local
+[[Login.gov]](http://login.gov/) and getting to a local
 participating post office for in person proofing.
 
 Once the Veteran creates their
-[[Login.gov]{.underline}](http://login.gov/) account, they will log in
+[[Login.gov]](http://login.gov/) account, they will log in
 by clicking the link to the VA's unified sign in page (screenshots
 below). Select the "[[Verify your identity at a post
-office]{.underline}](https://www.va.gov/resources/how-to-verify-your-identity-for-your-logingov-account/)"
+office]](https://www.va.gov/resources/how-to-verify-your-identity-for-your-logingov-account/)"
 option. They will enter the information (no photo uploads required) and
 will receive a barcode to take to a participating post office, who can
 complete verification for them. You can search for a post office for the
 Veteran
-[[here]{.underline}](https://login.gov/help/verify-your-identity/verify-your-identity-in-person/find-a-participating-post-office/#:~:text=A%20.gov%20website%20belongs%20to%20an%20official%20government).
+[[here]](https://login.gov/help/verify-your-identity/verify-your-identity-in-person/find-a-participating-post-office/#:~:text=A%20.gov%20website%20belongs%20to%20an%20official%20government).
 
 Sincerely,  
 \[Name\]  
@@ -713,7 +707,7 @@ Secure Sign-In Transition Team \| VA
 ## MHV
 
 Reference the [[MHV & VA.gov Troubleshooting
-Page]{.underline}](https://docs.google.com/document/d/1cDqosgY-yO654sCebhVZksvbPZlbszcU/edit#heading=h.1x0gk37)
+Page]](https://docs.google.com/document/d/1cDqosgY-yO654sCebhVZksvbPZlbszcU/edit#heading=h.1x0gk37)
 
 ### Account Deactivated
 
@@ -735,7 +729,7 @@ Secure Sign-In Transition Team \| VA
 
 Request the required submission information if not provided in the
 original email. Then add them to the following
-[[sheet]{.underline}](https://dvagov.sharepoint.com/:x:/r/sites/IdentityTeam/Shared%20Documents/Sign%20in%20transition%20(VA%20and%20contractors)/In%20person%20support%20event%20materials/Sign%20Up%20Day%20Event%20Tracker_09302024.xlsx?d=w8ad8a3fa2f3f48118e08a70b595fa91c&csf=1&web=1&e=vR1lB1&xsdata=MDV8MDJ8fDg3OWI0Yzc3NTQ2YTQ3OWJiOTc1MDhkY2U3YTAyNGIxfGU5NWYxYjIzYWJhZjQ1ZWU4MjFkYjdhYjI1MWFiM2JmfDB8MHw2Mzg2Mzk5MjIyMDE2NTEyMDN8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=WU51enlIZ0c5THVzUjdsRVVWOXVyTjFuY0VBWEZDRDlpMUREZ0ltSHpsbz0%3d).
+[[sheet]](https://dvagov.sharepoint.com/:x:/r/sites/IdentityTeam/Shared%20Documents/Sign%20in%20transition%20(VA%20and%20contractors)/In%20person%20support%20event%20materials/Sign%20Up%20Day%20Event%20Tracker_09302024.xlsx?d=w8ad8a3fa2f3f48118e08a70b595fa91c&csf=1&web=1&e=vR1lB1&xsdata=MDV8MDJ8fDg3OWI0Yzc3NTQ2YTQ3OWJiOTc1MDhkY2U3YTAyNGIxfGU5NWYxYjIzYWJhZjQ1ZWU4MjFkYjdhYjI1MWFiM2JmfDB8MHw2Mzg2Mzk5MjIyMDE2NTEyMDN8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=WU51enlIZ0c5THVzUjdsRVVWOXVyTjFuY0VBWEZDRDlpMUREZ0ltSHpsbz0%3d).
 Escalate to the Internal Team for Coordination.
 
 Hello \[name\],
@@ -796,6 +790,7 @@ Sincerely,
 Secure Sign-In Transition Team \| VA
 
 ### Shared Frustration
+*Vetted & Approve for Trauma-Informed Response by Karen Cutright
 
 Hello \[name\],
 
@@ -834,7 +829,7 @@ below...
 Jeannette Bruno + Samara Strauss+ Tom Black  
 jeannette.bruno@va.gov
 
-[[samara.strauss@va.gov]{.underline}](mailto:samara.strauss@va.gov)
+[[samara.strauss@va.gov]](mailto:samara.strauss@va.gov)
 
 tom.black2@va.gov
 
@@ -842,19 +837,19 @@ tom.black2@va.gov
 
 [In order for ID.me to resolve the issue with the Veteran, we need to
 ensure proper troubleshooting was done (e.g. ID.me help desk called,
-ticket submitted).]{.mark}
+ticket submitted).]
 
 [We need to be sure we are submitting as much info to ID.me as possible
 so they can effectively locate the case on their end to get to a quick
-resolution.]{.mark}
+resolution.]
 
 [Only share with Jess after gathering all the relevant
-information.]{.mark} Forward email with request/need to (the ID.me team
+information.] Forward email with request/need to (the ID.me team
 will reach out to the Veteran directly to resolve open issues)  
   
 Jessica Guglielmini
 
-[[jessica.guglielmini@id.me]{.underline}](mailto:jessica.guglielmini@id.me)
+[[jessica.guglielmini@id.me]](mailto:jessica.guglielmini@id.me)
 
 Hello Jessica,
 
@@ -884,8 +879,8 @@ Secure Sign-In Transition Team \| VA
 ### 
 
 - **Help articles for common issues:** [[ID.me\'s help
-  center]{.underline}](https://help.id.me/)
-  ([[https://help.id.me/]{.underline}](https://help.id.me/))
+  center]](https://help.id.me/)
+  ([[https://help.id.me/]](https://help.id.me/))
 
 - **Help center support for VA only:** 877-327-0022 (Monday-Friday, 8:00
   a.m. to 8:00 p.m. ET). Select option 1 and follow the prompts. Note
@@ -896,27 +891,27 @@ Secure Sign-In Transition Team \| VA
 - **Online support:**
 
   - **Chabot ("Roy"):** Go to [[ID.me\'s help
-    center]{.underline}](about:blank)
+    center]](about:blank)
     ([[https://help.id.me/]{.underline}](https://help.id.me/)). The chat
     bot will prompt you to engage.
 
   - **Submit a support ticket:** Go to [[Contact Support
-    (id.me)]{.underline}](https://help.id.me/hc/en-us/p/contact_support)
+    (id.me)]](https://help.id.me/hc/en-us/p/contact_support)
     ([[https://help.id.me/hc/en-us/p/contact_support]{.underline}](https://help.id.me/hc/en-us/p/contact_support)).
     Select **Submit a ticket** to get started.
 
 ## Login.gov Escalations {#login.gov-escalations}
 
-The [[Login.gov]{.underline}](http://login.gov/) team typically does not
+The [[Login.gov]{](http://login.gov/) team typically does not
 follow up directly with the Veteran unless there was a call into their
 Help Desk to create a ticket or someone created a ticket for the
 Veteran.
 
 Encourage VA staff to submit a ticket for the Veteran but in cases where
 they are pushing back you can submit one via the [[Login.gov contact
-page]{.underline}](https://login.gov/contact/#report-an-issue) on behalf
+page]{](https://login.gov/contact/#report-an-issue) on behalf
 of the Veteran (using the info provided you in the inbox) and then
-letting the [[Login.gov]{.underline}](http://login.gov/) team know in
+letting the [[Login.gov]](http://login.gov/) team know in
 their weekly email share.  
   
 **Before escalating anything to the [Login.gov](http://login.gov/)
@@ -929,10 +924,10 @@ team**, they asked that we do these 2 things:
   list serv from the MHV team.
 
   [[Login.gov End User
-  Guide]{.underline}](https://dvagov-my.sharepoint.com/:b:/r/personal/christine_julian_va_gov/Documents/SSIT%20Support%20Materials/Login.gov/Login.gov%20End%20User%20Guide%20(October%202024).pdf?csf=1&web=1&e=QTx2XS)
+  Guide]](https://dvagov-my.sharepoint.com/:b:/r/personal/christine_julian_va_gov/Documents/SSIT%20Support%20Materials/Login.gov/Login.gov%20End%20User%20Guide%20(October%202024).pdf?csf=1&web=1&e=QTx2XS)
 
   [[Login.gov Help Center End User
-  Guide]{.underline}](https://dvagov-my.sharepoint.com/:b:/r/personal/christine_julian_va_gov/Documents/SSIT%20Support%20Materials/Login.gov/Login.gov%20Help%20Center%20End%20User%20Resources%20(October%202024).pdf?csf=1&web=1&e=0MjnA1)
+  Guide]](https://dvagov-my.sharepoint.com/:b:/r/personal/christine_julian_va_gov/Documents/SSIT%20Support%20Materials/Login.gov/Login.gov%20Help%20Center%20End%20User%20Resources%20(October%202024).pdf?csf=1&web=1&e=0MjnA1)
 
   2\. If the two PDFs do not answer their question, then send those
   requests onto the Login.gov contacts weekly, when weekly reporting is
@@ -942,14 +937,14 @@ Forward email with the applicable ticket information and the
 request/need to all three contacts below.
 
 Sierra Stewart Q2AABG  
-[[sierra.stewart@gsa.gov]{.underline}](mailto:sierra.stewart@gsa.gov)  
+[[sierra.stewart@gsa.gov]](mailto:sierra.stewart@gsa.gov)  
   
 Trevor Sinclair QUD-C  
-[[trevor.sinclair@gsa.gov]{.underline}](mailto:trevor.sinclair@gsa.gov)
+[[trevor.sinclair@gsa.gov]](mailto:trevor.sinclair@gsa.gov)
 
 Gabriel Vorleto QQ2-C
 
-[[gabriel.vorleto@gsa.gov]{.underline}](mailto:gabriel.vorleto@gsa.gov)
+[[gabriel.vorleto@gsa.gov]](mailto:gabriel.vorleto@gsa.gov)
 
 I need to open a support ticket for this Veteran with Login.gov Please
 find the attached information.
@@ -977,8 +972,8 @@ Secure Sign-In Transition Team \| VA
 ### 
 
 - **Help articles for common issues:** [[Login.gov's help
-  center]{.underline}](http://www.login.gov/help)
-  ([[www.login.gov/help]{.underline}](http://www.login.gov/help))
+  center]](http://www.login.gov/help)
+  ([[www.login.gov/help]](http://www.login.gov/help))
 
 - **Help center support:** 844.875.6446. Note that the support help desk
   staff can provider is often limited. Please **do not** give this
@@ -986,8 +981,8 @@ Secure Sign-In Transition Team \| VA
   number out will result in longer wait times for Veterans.
 
 - **Online support:** [[Login.gov's contact us
-  page]{.underline}](https://www.login.gov/contact/#get-in-touch)
-  ([[www.login.gov/contact/#get-in-touch]{.underline}](http://www.login.gov/contact/#get-in-touch))
+  page]{](https://www.login.gov/contact/#get-in-touch)
+  ([[www.login.gov/contact/#get-in-touch]{](http://www.login.gov/contact/#get-in-touch))
 
 ## MHV Escalations
 
