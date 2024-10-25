@@ -12,20 +12,18 @@ There are three types that the IA specialist will document in the IA spec:
 
 ## Types
 
-### Primary entry point
-This is the most critical entry point that needs to be implemented.  Most of the time, this is the CTA on a tool static landing page, and is generally part of a sign in widget. For forms this may be slightly different and it may be on a `/how-to-apply` page or something equivalent.  Sometimes the only way to access a feature is via navigation component (top, left) or a header/footer/home page link.
+### Primary navigation pathway and entry point
 
-This is the entry point that HAS to be ready to launch when a team goes through staging review. This is the only entry point that should be required for staging review. The only exception to this is if the feature is only supposed to be accessible a specific way (i.e. check-in is only accessible via a text) either indefinitely or for some period of time for a silent launch that has been approved by OCTO (i.e. MHV on Va.gov tools).
+**Primary navigation pathway:** A series of clicks(or interactions) that allows a user to navigate to the tool/form from the top menu on Va.gov. We outline this so we don't end up with orphaned pages that are only available via search. Teams must launch with at least one navigation pathway.
 
-There is only ever 1 primary entry point.
+The pathway must include the **Primary entry point:** The final click (or interaction) before you get to the form/tool. The actual component may vary (it could be a sign-in widget, an action link, a standad link, a left nav link), but this is typicaly the furthest link you can access before you are on the tool/form. 
 
-Ex: sign-in widget from primary landing page (unless there isn’t a primary page, in which case it would be the left nav)
+For forms, this interaction tends to be on a static Drupal page about the form or benefit. Drupal pages are created and managed by the CAIA content team -- teams must work with them to prepare their entry point BEFORE staging review. Teams will be required to come to Staging Review with a functioning URL (either for Drupal preview or staging) that is ready to publish.
 
+The only exception to this is if the feature is only supposed to be accessible a specific way (i.e. check-in is only accessible via a text) either indefinitely or for some period of time for a silent launch that has been approved by OCTO (i.e. MHV on Va.gov tools).
 
-### Secondary entry point
-Secondary entry points are any additional locations that the page should be navigable from. This is often an about form page, an R&S page about the feature, or even a best bet. These are secondary, and while they are still very important, are not required for launch.
-
-There can be multiple additional entry points.
+### Secondary entry points
+Secondary entry points are any additional locations that the page should be navigable from. This is often an about form page, an R&S page about the feature, or even a best bet. These are secondary, and while they are still very important, are not required for launch. They are most often set up post-launch, because there is no draft/preview state for some of these items in Drupal. 
 
 Ex: mega menu, left nav, find-a-form, benefit hub pages
 
