@@ -1,5 +1,7 @@
-# MHV to VA.gov Decision Log
-Please log key MHV to VA.gov decisions related to the below practice areas, including date, who made the decision, a description of the decision and any specific rationale behind it.  For decisions about specific products, please use the decision log within that products document folder.
+# MHV to VA.gov Global Decision Log
+Log key MHV to VA.gov decisions that impact multiple products here.  Add the decision in the appropirate practice area table below, including date, who made the decision, a description of the decision and the rationale behind it.  If there are supporting documents, please include links.
+
+For decisions that apply ONLY to Appointments, Secure Messaging, Medications or Medical Records, use the decision log in the respective product folder.
 
 ## Product
 | Date | Decision Maker(s) | Description of Decision | Rationale |
@@ -54,7 +56,7 @@ Please log key MHV to VA.gov decisions related to the below practice areas, incl
 |      |                   |                         |           |
 
 
-## Research (How it tests)
+## Research (How we test)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
 |      |                   |                         |           |
