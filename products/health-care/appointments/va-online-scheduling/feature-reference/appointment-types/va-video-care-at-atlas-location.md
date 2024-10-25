@@ -70,27 +70,16 @@ Data points:
 | Phone number | Need to make changes/Scheduling Facility | `facilityData[locationId].phone.main` or `appt.location.attributes.phone.main` or `appt.extension.clinic.phoneNumber` | Phone number priority: 1. Clinic phone number, 2. Facility phone number, 3. VA phone number. The heading is "Need to make changes" for upcoming appointments and "Scheduling Facility" for past/cancelled appointments |
 
 Note that we don't display "Modality" and "Veteran Reason For Appointment". These may have become obsolete after this ticket was filed. There are also a few other details we do display that weren't covered in the original ticket including "Facility Name" and "Clinic Name"
- 
- 
-
-
 
 ## Specifications
 
 **User flows**
-- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
-- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
+- [Upcoming appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2925&t=kDXwMWn2YUhVmLLB-4)
+- [Past appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3497&t=kDXwMWn2YUhVmLLB-4)
 
 
 **UI design specs**
-- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
-
-**Page content**
-- [Upcoming](../../content/appointment-details.md#va-vvc-atlas-appointment---upcoming)
-- [Past](../../content/appointment-details.md#va-vvc-atlas-appointment---past)
-- [Canceled](../../content/appointment-details.md#va-vvc-atlas-appointment---canceled)
+[ATLAS details pages](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-97230&t=MqiIQqIoo9Je6Pfy-4)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
