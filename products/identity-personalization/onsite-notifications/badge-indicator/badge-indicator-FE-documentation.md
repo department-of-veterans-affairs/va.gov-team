@@ -107,6 +107,6 @@ The aria text has variations depending on the number of unread messages/other un
 [Go to your inbox](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
 
 ## Technical Implementation
-We are already using the `/my_health/v1/messaging/folders` endpoint to display the "dot" indicator.  We can use this to read the count for the new badge indicator.  Fetched response data is already being stored via redux.  There will be fairly minor changes in FE code to enable this behavior.
+We use the `/my_health/v1/messaging/folders` endpoint to fetch a count of unread messages, which provides this data to the UI.  Fetched response data is stored via redux.  See implementation for more details:
 
-Eventually we will replace our custom implementation with a common DS component for the badge UI.
+https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/helpers.js#L36
