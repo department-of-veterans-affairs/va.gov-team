@@ -107,6 +107,4 @@ The aria text has variations depending on the number of unread messages/other un
 [Go to your inbox](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging)
 
 ## Technical Implementation
-We use the `/my_health/v1/messaging/folders` endpoint to fetch a count of unread messages, which provides this data to the UI.  Fetched response data is stored via redux.  See implementation for more details:
-
-https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/helpers.js#L36
+We use the `/my_health/v1/messaging/folders` endpoint to fetch a count of unread messages, which provides this data to the UI.  Fetched response data is stored via redux.  [View the javascript implementation](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/helpers.js#L36) for more details.
