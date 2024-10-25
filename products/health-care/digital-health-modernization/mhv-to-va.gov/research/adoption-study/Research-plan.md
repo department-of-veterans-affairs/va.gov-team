@@ -160,9 +160,6 @@ Which of the following ranges includes your age?
 - 55-64: (disqualify)
 - 65-74: (disqualify)
 
-**Other (non-VA) benefits include?**
-Use other insurance besides VA benefits (private/employer-based, Medicare/Medicaid, TRICARE)
-
 **Mobile device users**
 Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
 - Yes (qualify)
@@ -174,28 +171,6 @@ Are you able to join the Zoom session from a computer such as a desktop or lapto
 - Yes (qualify)
 - No (disqualify)
 - Not sure (disqualify)
-
-**Target stats for other demographic info:**
-- Age is 25-34: 33%
-- Age is 35-44: 33%
-- Age is 45-54: 33%
-- Male: 33%
-- Female: 33%
-- Additional genders: 33%
-- Rural: 60%
-- Urban: 40%
-- Caucasian or White: 25%
-- African-American or Black: 25%
-- Asian-American: 25%
-- Native American: 25%
-- Has doctorate degree: 20%
-- Has master’s degree: 20%
-- Has bachelor’s degree: 20%
-- Has associate’s degree: 20%
-- Has no degree: 20%
-- Interview conducted via desktop: 50%
-- Interview conducted via smartphone: 50%
-
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
