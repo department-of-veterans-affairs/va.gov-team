@@ -57,10 +57,19 @@ These research sessions will be conducted remotely via Zoom.
 We will partner with Perigean to recruit Veterans and we request a kickoff meeting with Perigean. We anticipate that the kickoff meeting will last 30 minutes. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network.
 
 Availability for potential kickoff meeting times with Perigean:
-- 
 
+Possible meeting times for a kick-off: 
+* Monday, October 28, 9-1est 2-5 est
+* Monday, October 29, 9-1est 2-5 est
+* Let me know if you need more time options! 
 
 ### Recruitment criteria
+
+### Recruitment approach
+We will partner with Perigean to recruit Veterans and we request a 30 min. kickoff meeting with Perigean to clarify recruiting needs. 
+
+We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
+
 We are aiming to speak to Veterans that are more likely to be able to independently navigate technical difficulties without relying on external help to gain access to and use the new portal.
 
 **Account type**
