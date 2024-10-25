@@ -1,6 +1,6 @@
 # Badge indicator FE documentation - My VA Health Care inbox link implementation 
 
-**Last updated:** October 23, 2024 - Updated details for error handling.
+**Last updated:** October 25, 2024 - Updated details for error handling.
 
 This document outlines specs for implementing the badge indicator on the "Go to your inbox" link in the Health Care section on My VA. The link provides access the health care secure messaging inbox. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
@@ -24,33 +24,21 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 
 ## Error state - API-related failure(s):
 
-A [warning 'alert' component](https://design.va.gov/components/alert/#warning-alert) will display at the top of the Health care section of My VA if there is an API/systems related error that prevents the count of unread messages from being displayed. It is expected that this would prevent the reading of messages in a user's inbox as well, but there may be edge case scenarios which mean we must tell users that they _might_ be able to still read messages on MHV. 
+A [slim warning 'alert' component](https://design.va.gov/components/alert/#warning-alert) will display instead of the "Go to your inbox" link of the health care section of My VA if there is an API/systems related error that prevents the count of unread messages from being displayed. It is expected that this would prevent the reading of messages in a user's inbox as well, but there may be edge case scenarios in which users _might_ be able to still read messages on MHV. After consultation with DSC, the decision was made to use a single warning alert that replaces the "go to your inbox" link with a catch-all message regardless of error code. 
 
 _(For uses outside of Health care and My VA, error messaging using alerts may make sense as well but could require a different pattern/component)._
 
 _Note that this content may need additional CAIA review._
 
-### Inbox may be accessible still on MHV (400s error code)
-
 With some error scenarios, it's possible secure messaging access may still be possible, even if a count cannot be given.
 
-<img width="400" alt="Screenshot 2024-10-22 at 11 40 47 AM" src="https://github.com/user-attachments/assets/223ef4ec-4a30-444c-8cb5-3b4410d0d45e">
+[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2715-34412&t=3UjLr4lC05r8oBlP-1)
 
+[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2622-33921&t=3UjLr4lC05r8oBlP-1)
 
-[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2621-31035&t=h6U22HGIiGoYMot8-1)
+### Content
 
-[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2622-33921&t=h6U22HGIiGoYMot8-1)
-
-
-### Inbox is not accessible on MHV (500s error code)
-
-With some other error scenarios, it's guaranteed that messaging would not be available. 
-
-<img width="400" alt="Screenshot 2024-10-23 at 9 43 35 AM" src="https://github.com/user-attachments/assets/a73cf17c-0009-4387-bf61-28c2ee582ba7">
-
-[Desktop](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2677-4869&t=JEjUCa3eWvva0IQU-1)
-
-[Mobile](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2681-12300&t=JEjUCa3eWvva0IQU-1)
+We can't access your messages right now. We're sorry. Check back soon.
 
 ---
 
