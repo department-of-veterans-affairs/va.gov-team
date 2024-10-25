@@ -49,9 +49,8 @@ We will conduct remote interviews with Zoom. The interviews will require users t
 These research sessions will be conducted remotely via Zoom.
 
 ### Research materials
-- Conversation guide
-- Statements for second part of interview
-- Mural board for note-taking and synthesis
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/conversation-guide.md)
+- [Mural board for note-taking and synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729884120702/705733d713250576c10c84b13d541ebe319e13fb)
 	
 ## Recruitment	
 We will partner with Perigean to recruit Veterans and we request a kickoff meeting with Perigean. We anticipate that the kickoff meeting will last 30 minutes. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network.
