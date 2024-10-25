@@ -91,16 +91,6 @@ We are aiming to speak to Veterans that are more likely to be able to independen
 
 ### Screener questions
 
-**Account type**
-
-How do you sign into VA.gov most often?
-- Login.gov (red button) (qualify)
-- ID.me (green button) (qualify)
-- My HealtheVet (blue button) (qualify or disqualify???)
-- DS Login (blue button) (qualify or disqualify???)
-- I don’t remember (disqualify)
-- I don’t login to VA.gov (disqualify)
-
 **Identify-verified account**
 
 Which one of these sign-in credentials do you use when signing in to manage
