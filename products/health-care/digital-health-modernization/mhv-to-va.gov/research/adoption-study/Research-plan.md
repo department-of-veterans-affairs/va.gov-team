@@ -64,7 +64,7 @@ Possible meeting times for a kick-off:
 
 ## Recruitment approach
 
-We’d like to recruit 13 participants for a total of 9 completed sessions:
+We’d like to recruit 14 participants for a total of 9 completed sessions:
 
 We are aiming to speak to Veterans that are more likely to be able to independently navigate technical difficulties without relying on external help to gain access to and use the new portal.
 
