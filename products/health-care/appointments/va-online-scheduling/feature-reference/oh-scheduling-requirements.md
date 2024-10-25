@@ -98,6 +98,8 @@ A Veteran may request an appointment when:
   
 Requesting an appointment at OH follows the current VistA request flow business rules.
 
+Note: We do not have the ability to tie a provider to the request. When requesting an appointment, the Veteran is not able to request a specific provider. They will only be able to request a time and date and location for their TOC and staff will contact them to finish scheduling. 
+
 ### Community care
 
 A Veteran may not request community care for any care type through an OH location.
