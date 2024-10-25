@@ -1,5 +1,5 @@
 ---
-name: Epic Template
+name: VA.gov Platform Epic Template
 about: For filing Epics
 title: ''
 labels: 'epic'
