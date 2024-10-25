@@ -18,6 +18,12 @@
   
 ### [OKRs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/operations/MobileTeamOKRs.md)
 
+### Experience Team stats
+|Current # of Change Requests | # of Teams | 
+|-------| ---------|
+|10 | 8 |
+
+
 ## 10/30/24
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
