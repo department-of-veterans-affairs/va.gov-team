@@ -16,7 +16,7 @@ Feature toggle
 Before enabling your feature toggle in production, you'll need to:
 
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-  - [x] [Link to Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZ-Toxic%20Exposure%20(TERA)%20MVP.md)
+  - [x] [Link to Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZ-TERA-branching-logic-update.md)
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
@@ -59,13 +59,13 @@ Before enabling your feature toggle in production, you'll need to:
 >
 >### Objective: Update the 10-10EZ, so Veterans are asked to provide relevant Toxic Exposure details while applying for VA health care.
 >
->#### **Key Result #1:** Time spent within the TERA questions has reduced
+>#### **Key Result #1:** A 25% reduction of user engagement time spent within the TERA questions
 >
->Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+>Data source - [Google Analytics (GA4) Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/dZ_qMurmRZiGKuFENIthOQ)
 >
 >| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 >|------------- |---------|-------------- |-------------- |-------------- |
->|Time spent in TERA section |xx| 25% | TBD | TBD |
+>|Avg Engagement time per session in the military section |3m 2s (182 seconds)| 2m 16s (136.5 seconds)  | TBD | TBD |
 >
 >
 >#### **Key Result #2:** Reduction of Medallia feedback mentioning being asked irrelevant questions
