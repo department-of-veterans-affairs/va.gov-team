@@ -84,9 +84,9 @@ We are aiming to speak to Veterans that are more likely to be able to independen
 
 **Some participants:**
 
-- 4 or 5 people who can join the session from a smartphone
-- 4 people who identify as a race other than White/Caucasian
-- 4 people who identify as a gender other than male
+- 7 people who can join the session from a smartphone
+- 7 people who identify as a race other than White/Caucasian
+- 7 people who identify as a gender other than male
 
 ### Screener questions
 
