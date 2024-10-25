@@ -76,3 +76,27 @@ failures_grouped_by_user = failures.group_by(&:user_uuid)
 failures_grouped_by_user = subs.group_by(&:user_uuid)
 failures_grouped_by_user.each {|k, v| puts "#{k}: #{v.count}"};nil
 ```
+3. To find XX date issues:
+```
+#        want to look through the array of submission ids at their forms to see if any key contains 'xx'
+     def recurse_through(arg, &closure)
+       if arg.instance_of?(Hash)
+         arg.each_value { |value| recurse_through(value, &closure) }
+       elsif arg.instance_of?(Array)
+         arg.each { |value| recurse_through(value, &closure) }
+       else
+         yield arg
+       end
+     end
+
+  failed_date_subs = []
+  subs.each do |sub|
+    recurse_through(sub.form['form526']['form526']) do |value|
+      if value.is_a?(String) && value.downcase.match?(/['x']{2}/)
+        puts "found xx date: #{value}"
+        puts sub.id
+        failed_date_subs << sub.id
+      end
+    end
+  end
+```
