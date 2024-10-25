@@ -1,5 +1,7 @@
 # Medical Records Decision Log
-Please log key decisions related to the below practice areas, including date, who made the decision, and a description of the decision and any specific rationale behind it.
+Log key Medical Records-specific decisions in the appropriate practice area table below, including date, who made the decision, and a description of the decision and any specific rationale behind it.
+
+Log any decisions impacting all/multiple MHV on VA.gov applications in the [global MR decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/decision-log.md).
 
 
 # Medical records design decisions
