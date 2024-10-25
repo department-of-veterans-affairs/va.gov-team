@@ -9,7 +9,7 @@ assignees: ''
 
 ## Status
 _Update each sprint until completed_
-| Date | Status | Launch Date (see above) | Notes |
+| Date | Status | Launch Date | Notes |
 | ----- | ------ | ------------------------- | ------ |
 | Date of update | not-started, in-progress, done | on-track, off-track | enter brief, blockers, dependencies, etc. |
 
