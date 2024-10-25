@@ -248,11 +248,13 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 ### Prepare
 We'll be testing on prod, so no artifact needs to be prepared for users to interact with.
-- Pilot participant email:
-- Date and time of pilot session:
+
+- Pilot participant: TBD 
+- Pilot participant email: TBD
+- Date and time of pilot session: November 1, 2024, Time TBD
 
 ### Research sessions
-* Planned dates of research:
+* Planned dates of research: November 4 - 15, 2024
 
 ### Length of sessions
 Session length: 1 hour
@@ -260,15 +262,25 @@ Session length: 1 hour
 - Maximum sessions per day: 4 sessions maximum
 
 ### Availability
+Please no sessions for Veterans Day (11/11/24) 
 
+Team Availability | Time Slots (ET)
+------------------|--------------
+| 11/4/24 | 9 am - 5pm
+| 11/5/2024 | 1pm - 5:30pm 
+| 11/6/2024 | 9am - 5pm |
+| 11/7/2024 | 9am - 5pm |
+| 11/8/2024 | 9am - 5pm | 
+| 11/12/2024 | 9am - 5pm; 5:30pm - 6pm |
+| 11/13/2024 | 9am - 5pm | 
 	
 ## Team Roles	
 **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
 
-- Moderators: Kat Brinkley, Florence McCafferty, Jonathan Nelson, Sara Sterkenburg 
-- Research guide writing and task development (usually but not always same as moderator): All of the above and Robyn Singleton
+- Moderators: Kat Brinkley (kat.brinkley@agile6.com) Jonathan Nelson (jonathan.nelson@adhocteam.us)
+- Research guide writing and task development (usually but not always same as moderator): Kat Brinkley (kat.brinkley@agile6.com) Jonathan Nelson (jonathan.nelson@adhocteam.us) Sara Sterkenberg (sara.sterkenburg@adhocteam.us) Florence McCafferty (florence.mccafferty@agile6.com)  Robyn Singleton 
 - Participant recruiting & screening: Perigean
-- Project point of contact: Robyn Singleton / Cartography team (MHV on VA.gov)
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):
+- Project point of contact: Kat Brinkley (kat.brinkley@agile6.com) and Jonathan Nelson (jonathan.nelson@adhocteam.us)/ Cartography team (MHV on VA.gov)
+- Participant(s) for pilot test:TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed): Riley Orr (riley.orr@adhocteam.us)
 - Note-takers: Kat Brinkley, Florence McCafferty, Jonathan Nelson, Sara Sterkenburg
