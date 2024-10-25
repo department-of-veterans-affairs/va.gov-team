@@ -89,12 +89,14 @@ We are aiming to speak to Veterans that are more likely to be able to independen
 - 4 people who identify as a race other than White/Caucasian
 - 4 people who identify as a gender other than male
 
+### Screener questions
+
 **Account type**
 
 How do you sign into VA.gov most often?
 - Login.gov (red button) (qualify)
 - ID.me (green button) (qualify)
-- My HealtheVet (blue button) (qualify or disqualify???)[{{type}} Annotation][{{type}} Annotation][{{type}} Annotation]
+- My HealtheVet (blue button) (qualify or disqualify???)
 - DS Login (blue button) (qualify or disqualify???)
 - I don’t remember (disqualify)
 - I don’t login to VA.gov (disqualify)
@@ -129,7 +131,7 @@ When was the last time you visited My HealtheVet?
 - Yesterday (qualify)
 - Within the past week (qualify)
 - Within the past month (qualify)
-- Within the past 2 months (disqualify)[{{type}} Annotation]
+- Within the past 2 months (disqualify)
 - Within the past 3 months (disqualify)
 - Within the past 4 months (disqualify)
 - Within the past 5 months (disqualify)
@@ -157,23 +159,6 @@ How comfortable are you with the idea of managing your health-related tasks onli
 - Very comfortable (Qualify)
 - Extremely comfortable (Qualify)
 
-How frequently do you use the internet for personal activities, such as browsing websites, online banking, or online shopping?
- 
-- Never (Disqualify)
-- Rarely (Disqualify)
-- Occasionally (Disqualify)
-- Regularly (Qualify)
-- Frequently (Qualify)
-
-  
-If you had to set up a new bank account with your bank, and all of these options were available to you, which would you prefer? 
-
-- Set up a new account by myself online (Qualify)
-- Read FAQs or online articles first, and then set it up by myself online. (Qualify)
-- Chat with a bank representative online (Qualify)
-- Call the bank on the phone and speak to a representative (Disqualify)
-- Go to the bank and have someone help me set this up in person (Disqualify)
-
 **Device of choice**
 
 What type of device did you last use to access My HealtheVet?
@@ -182,7 +167,7 @@ What type of device did you last use to access My HealtheVet?
 - Public desktop or laptop computer (at a library or other public location)
 (qualify)
 - My own privately owned desktop or laptop computer (qualify)
-- I can’t remember (disqualify)[{{type}} Annotation][{{type}} Annotation][{{type}} Annotation]
+- I can’t remember (disqualify)
 
 **Age**
 
@@ -193,47 +178,8 @@ Which of the following ranges includes your age?
 - 55-64: (disqualify)
 - 65-74: (disqualify)
 
-**Current VA benefits include?**
-
-- Health care and disability only (qualify)
-- Health care, disability, and 1 or more additional benefits (qualify)
-- Health care only (qualify)
-- 1 or more benefits not including health care (disqualify)
-- No benefits currently (disqualify)
-
 **Other (non-VA) benefits include?**
-- Use other insurance besides VA benefits (private/employer-based, Medicare/Medicaid, TRICARE)
-
-  
-**Current disability rating - which to qualify?**
-- 100%
-- 90-100%
-- 70-89%
-- 50-69%
-- 30-49%
-- 1-29%
-- No current rating
-
-
-**Tech proficiency 1**
-
-Do you regularly update your digital devices and software to ensure security and performance?
-- Yes, always (qualify)
-- Yes, sometimes (qualify)
-- No, rarely (disqualify)
-- No, never (disqualify)
-
-**Tech proficiency 2**
-
-How technology savvy are you?
-- I’m a novice – I rely on others to support me (disqualify)
-- I know the basics – I rely on others to support me for more challenging 
-task (disqualify)
-- I’m a learner and tinkerer – I mostly get by without any help or support
-but I have gotten stuck before and needed to call for help (disqualify)
-- I understand tech quite well – I’m confident with tasks such as online 
-shopping and don’t need support (qualify)
-- I’m a technie – Others tend to call me when they’re stuck (qualify)
+Use other insurance besides VA benefits (private/employer-based, Medicare/Medicaid, TRICARE)
 
 **Mobile device users**
 Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
