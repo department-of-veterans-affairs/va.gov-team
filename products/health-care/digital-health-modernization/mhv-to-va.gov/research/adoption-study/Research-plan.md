@@ -64,7 +64,6 @@ Possible meeting times for a kick-off:
 * Let me know if you need more time options! 
 
 ## Recruitment approach
-We will partner with Perigean to recruit Veterans and we request a 30 min. kickoff meeting with Perigean to clarify recruiting needs. 
 
 We’d like to recruit 13 participants for a total of 9 completed sessions:
 
@@ -76,12 +75,19 @@ We are aiming to speak to Veterans that are more likely to be able to independen
 
 **All participants:**
 
-- Must be veterans or caregivers
+- Must be Veterans
 - Must have a computer or mobile phone and be willing to complete their sessions on this device
 - Must be willing to share a web browser window on the Zoom call
 - Must have a working microphone
 - Must have Zoom downloaded to their computer or mobile phone prior to the session and know how to share their screen
-- Must have signed into VA.gov or My HealtheVet, for any reason and need to know their login information
+- Must have signed into VA.gov and My HealtheVet, for any reason and need to know their login information
+- Must have health care through VA
+
+**Some participants:**
+
+- 4 or 5 people who can join the session from a smartphone
+- 4 people who identify as a race other than White/Caucasian
+- 4 people who identify as a gender other than male
 
 **Account type**
 
