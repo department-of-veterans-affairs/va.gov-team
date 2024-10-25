@@ -108,3 +108,7 @@ The aria text has variations depending on the number of unread messages/other un
 
 ## Technical Implementation
 We use the `/my_health/v1/messaging/folders` endpoint to fetch a count of unread messages, which provides this data to the UI.  Fetched response data is stored via redux.  [View the javascript implementation](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/helpers.js#L36) for more details.
+
+Example Request and response:
+<img width="1470" alt="Screenshot of chrome devtools network tab with endpoint response" src="https://github.com/user-attachments/assets/5eca5d69-889a-4c6f-8a5c-e22a7ec8f340">
+
