@@ -17,6 +17,7 @@ If not, then you'll need to consider the path user data took through both the cu
 If not, set up monitoring in Datadog.
 
 - Does your Datadog monitoring use the appropriate tagging? **Yes #93151**
+Update tagging in progression, Story [#95506](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95506)
 
 If not, implement tagging standards. Adding the dependency tag is highly recommended!
 
