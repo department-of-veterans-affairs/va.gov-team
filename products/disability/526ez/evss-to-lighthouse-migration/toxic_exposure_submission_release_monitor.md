@@ -43,31 +43,33 @@ te_records = lighthouse_primary + lighthouse_backup + lighthouse_failures
 puts "1. lighthouse total: #{te_records.count}"
 ```
 And draft a message using this template with the output for numbers 1-4. 
-Baseline
-EVSS submissions from April 1 to July 31
-209,770 total submissions (primary, backup, and failure)
-99.04% used the primary path (207,772)
-0.94% used the backup path (1,959)
-0.00019% completely failed (4)
 
-Toxic Exposure
+### Template: 
+#### Baseline 
+EVSS submissions from April 1 to July 31: 209,770 total submissions (primary, backup, and failure)
+- 99.04% used the primary path (207,772)
+- 0.94% used the backup path (1,959)
+- 0.00019% completely failed (4)
+
+#### Toxic Exposure
 Toxic Exposure N% incremental rollout (Date 1 - Date 2):
 Lighthouse total submissions: (#1)
 
-Primary Path Submissions
+##### Primary Path Submissions
 N% used the Lighthouse primary path (2,993) (#2)
 
-Backup Path Submissions
+##### Backup Path Submissions
 N% used the Lighthouse backup path (68) (#3)
 
-Failures
+##### Failures
 N% of Lighthouse submissions failed (14) (#4)
 
-Technical Notes:
+#### Technical Notes:
 Here, add notes about technical fixes, issues we're experiencing, details for remediating them
 
-Next Steps:
+#### Next Steps:
 Next steps for the release, including details on anything mentioned in Technical Notes
+
 
 2. Group failures by user to get a sense of impact to Veterans:
 ```
