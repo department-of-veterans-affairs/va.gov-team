@@ -63,14 +63,25 @@ Possible meeting times for a kick-off:
 * Monday, October 29, 9-1est 2-5 est
 * Let me know if you need more time options! 
 
-### Recruitment criteria
-
 ## Recruitment approach
 We will partner with Perigean to recruit Veterans and we request a 30 min. kickoff meeting with Perigean to clarify recruiting needs. 
 
-We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
+We’d like to recruit 13 participants for a total of 9 completed sessions:
 
 We are aiming to speak to Veterans that are more likely to be able to independently navigate technical difficulties without relying on external help to gain access to and use the new portal.
+
+## Recruitment criteria
+
+**Primary criteria (must-haves)**
+
+**All participants:**
+
+- Must be veterans or caregivers
+- Must have a computer or mobile phone and be willing to complete their sessions on this device
+- Must be willing to share a web browser window on the Zoom call
+- Must have a working microphone
+- Must have Zoom downloaded to their computer or mobile phone prior to the session and know how to share their screen
+- Must have signed into VA.gov or My HealtheVet, for any reason and need to know their login information
 
 **Account type**
 
