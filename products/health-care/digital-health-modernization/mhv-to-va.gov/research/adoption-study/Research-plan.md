@@ -65,7 +65,7 @@ Possible meeting times for a kick-off:
 
 ### Recruitment criteria
 
-### Recruitment approach
+## Recruitment approach
 We will partner with Perigean to recruit Veterans and we request a 30 min. kickoff meeting with Perigean to clarify recruiting needs. 
 
 We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel file on the VA Network. 
