@@ -9,7 +9,7 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| hca_tera_enabled | Toggle to enable users to see the newly added TERA questions |
+| hca_tera_branching_enabled | Enables branching logic for the Toxic Exposure questionset in the Health Care Application |
 
 ## Step 2: Validation
 
@@ -19,8 +19,6 @@ Before enabling your feature toggle in production, you'll need to:
   - [x] [Link to Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZ-Toxic%20Exposure%20(TERA)%20MVP.md)
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-   - [x] Confirm with Meena (Meenatchi.Muthupalaniappan@va.gov), Ramya Venkataraman (ramya.venkataraman@va.gov) and team on End to End testing
-   - [x] [Link to confirmation of successful transmission/processing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/VES%206.8.2_OTST%20Demo%20scenarios_Test%20Result_20240228.docx)
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
@@ -30,43 +28,141 @@ Before enabling your feature toggle in production, you'll need to:
 ### Define the Rollback process
 
 - PM and Data Analyst will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the Engineering team to disable the toggle and begin triage.
-- PM and Engineering will contact the VES Sustainment team for additional triage
-
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
 - Desired date range or test duration:
-     - **Post-Launch (After 3/5)**
+     - N/A
 - Desired number of users:
-     - **TBD** participants
+     - N/A
 - How you'll recruit the right production test users:
-     - Perigean recruiting
+     - N/A
 - How you'll conduct the testing:
-     - Moderated
+     - N/A
 - How you'll give the test participants access to the product in production w/o making it live on VA.gov:
-     - Feature Toggle 
+     - N/A
 
 #### Results
 
-- Number of users: 
-- Number of bugs identified / fixed: 
-- Was any downstream service affected by the change?: 
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? 
+- N/A
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-This rollout will not be phased.  We will deliver this change at 100% on 3/5/2024
-
 #### Rollout Planning
 
-- Desired date range:
-     - 03/05/2024
-- How will you make the product available in production while limiting the number of users who can find/access it:
-     - We will run a test with a couple Production test users on 3/4/2024 prior to launching at 100%
-     - We will not limit the number of users on rollout
-- What metrics-based criteria will you be monitoring to determine success?:  Errors accessing the new pages, Errors submitting to Enrollment System with the new data, Errors within the application as a whole.
+- Desired date range: [FILL_IN]
+- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
+>## Measuring Success
+>
+>### Objective: Update the 10-10EZ, so Veterans are asked to provide relevant Toxic Exposure details while applying for VA health care.
+>
+>#### **Key Result #1:** Time spent within the TERA questions has reduced
+>
+>Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+>
+>| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+>|------------- |---------|-------------- |-------------- |-------------- |
+>|Time spent in TERA section |xx| 25% | TBD | TBD |
+>
+>
+>#### **Key Result #2:** Reduction of Medallia feedback mentioning being asked irrelevant questions
+>
+>Data source - Monthly Medallia survey results
+>
+>
+>
+- Links to the dashboard(s) showing traffic metrics:
+     - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
+     - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+- Who is monitoring the dashboard(s)?:
+     - Product Manager - Alex Seelig, Heather Justice
+     - Data Analyst - Luis Simauchi
+
+### Stage A: Canary
+
+*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
+
+#### Planning
+
+- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage B: 25% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 25%
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage C: 50% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 50%
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage D: 75% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 75%
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage E: 100% of users
+
+#### Planning
+
+- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 100%
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
 >## Measuring Success
 >
