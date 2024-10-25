@@ -93,13 +93,6 @@ We are aiming to speak to Veterans that are more likely to be able to independen
 
 **Identify-verified account**
 
-Which one of these sign-in credentials do you use when signing in to manage
-your VA benefits?
-- Login.gov (red button)
-- ID.me  (green button)
-- My HealtheVet (blue button)
-- DS Logon (blue button)
-
 Have you verified your account with a government ID (such as a drivers 
 license) and by proving either your phone number or mailing address?)
 - Yes (qualify)
