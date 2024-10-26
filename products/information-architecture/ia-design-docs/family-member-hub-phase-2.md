@@ -22,15 +22,19 @@ Only orange circled items are launching in 2A
 
 ## <a name="url"></a>URLs and breadcrumbs
 
-**4) [Spina bifida] - [New]**
+**1) [Spina bifida] - [New]**
 - URL: va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orangeTBD
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
 
-**5) [Children of women vietnam veterans] - [New]**
+**2) [Children of women vietnam veterans] - [New]**
 - URL: va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veteransTBD
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
+
+**3) [Meds by Mail R+S page] - [New]**
+- URL: http://va.gov/resources/prescription-medications-covered-through-meds-by-mail
+- Breadcrumb: NA - determined by Drupal
 
 
 
@@ -64,7 +68,7 @@ _Most of the time this is the CTA on a tool static landing page (a sign in widge
       - Request a decision review: https://www.va.gov/decision-reviews/
       - Get help from accredited rep: https://www.va.gov/get-help-from-accredited-representative/
   - **More(H2)**
-      - **R+S: Meds by Mail: new url TBD**
+      - **R+S: Meds by Mail: http://va.gov/resources/prescription-medications-covered-through-meds-by-mail**
       - Fisher House Program: https://www.socialwork.va.gov/fisher.asp
       - **R+S: Getting care through champva: new url TBD**
       - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
@@ -82,8 +86,8 @@ The health/disability left nav will have the following structure. These are not 
    - CHAMPVA
    - Program for Comprehensive Assistance for Family Caregivers
       -PCAFC application
-   - Spina Bifida
-   - Children of women vietnam veterans
+  ** - Spina Bifida**
+  ** - Children of women vietnam veterans**
 
 ### Crosslinks
 _Not required. Links on other pages that point to this tool/thing/form._
@@ -117,17 +121,18 @@ _Not required. Links on other pages that point to this tool/thing/form._
 
 Redirect ticket [#88112](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88112)
 
-| Current URL                                                                          | Redirect to                                                             | Status                             |
+| Current URL                                                                          | Redirect to                                                             | Status                         |
 |----------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------|
 | https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp   | R+S: File a champva claim (URL TBD)                                     | Waiting for content to finalize H1 |
 | https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina-claim.asp | R+S: File a spina bifida claim (URL TBD)                                | Waiting for content to finalize H1 |
 | https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/meds-by-mail.asp   | R+S: Meds by mail (URL TBD)                                             | Waiting for content to finalize H1 |
+| https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/MbM-medications.asp| http://va.gov/resources/prescription-medications-covered-through-meds-by-mail  | Ready                       |
 | https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA-faq.asp     | R+S: Getting care through champva (URL TBD)                             | Waiting for content to finalize H1 |
 | https://www.va.gov/disability/eligibility/special-claims/birth-defects/          | Spina Bifida page (URL TBD)                                             | Waiting for content to finalize H1 |
 | https://www.va.gov/COMMUNITYCARE/programs/dependents/cwvv/index.asp              | Children of women vietnam veterans page (URL TBD)                       | Waiting for content to finalize H1 |
 | https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp       | Spina Bifida page (URL TBD)                                             | Waiting for content to finalize H1 |
 | https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/index.asp          | R+S: Meds by mail (URL TBD)                                             | Waiting for content to finalize H1 |
-| https://www.va.gov/health-care/family-caregiver-benefits/                        | https://www.va.gov/family-and-caregiver-benefits/health-and-disability/ | Waiting for content to finalize H1 |
+
  
 
 ## <a name="bestbets"></a>Best Bets<br>
