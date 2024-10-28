@@ -8,6 +8,9 @@
 
 - Review documentation within [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation)
 - Review the [VA Design System website](https://design.va.gov/)
+
+**Might require additional access**
+
 - Review [PCI service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782)
 - Review latest [PCI Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides#product-guides) (used by VA Contact Center)
 
