@@ -52,12 +52,15 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Rollout Planning
 
-- Desired date range: 10/29-11/6
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
+- Desired date range:
+     - 10/29-11/6
+- How will you make the product available in production while limiting the number of users who can find/access it:
+     - We will limit the number of users by using the Flipper toggle, phasing the launch
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+     - Ensuring there are no errors accessing the new pages, errors submitting to Enrollment System with the new data, or errors within the application as a whole.
 >## Measuring Success
 >
->### Objective: Update the 10-10EZ, so Veterans are asked to provide relevant Toxic Exposure details while applying for VA health care.
+>### Objective: Update the 10-10EZ Toxic Exposure section, so Veterans are asked to provide relevant Toxic Exposure details while applying for VA health care.
 >
 >#### **Key Result #1:** A 25% reduction of user engagement time spent within the TERA questions
 >
@@ -78,7 +81,7 @@ Before enabling your feature toggle in production, you'll need to:
      - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
      - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 - Who is monitoring the dashboard(s)?:
-     - Product Manager - Alex Seelig, Heather Justice
+     - Product Manager - Heather Justice
      - Data Analyst - Luis Simauchi
 
 ### Stage A: Canary
@@ -87,8 +90,11 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: 
+     - 10/29
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 10% - about 25 users
+     - This is to ensure the pages are working as expected, and causing no issues navigating, providing input, and submitting the form. 
 
 #### Results
 
@@ -98,7 +104,7 @@ Before enabling your feature toggle in production, you'll need to:
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 25% of users
+### Stage B: 50% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
