@@ -52,7 +52,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
+- Desired date range: 10/29-11/6
 - How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
 >## Measuring Success
