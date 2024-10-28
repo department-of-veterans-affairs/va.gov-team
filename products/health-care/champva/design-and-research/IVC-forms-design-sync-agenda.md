@@ -8,6 +8,20 @@
   		- Discuss next steps for OHI flow now that we got more feedback from the CHAMPVA Claims/OHI teams
  
 ### Notes
+* Roadmap, Prioritize the Zero silent failures work then the CHAMPVA Claims Readout.
+* 1010D CHAMPVA Reg required email for silent failures \
+
+    * We want to move forward  the option that removes the first screener question with having CAIA weigh in on the “Your name” screen and the checkboxes on the relationship question
+    * Might be a larger engineering lift to prefill the applicant name, address and contact info in the list and loop 
+    * Recommended to ask for level of effort from engineering first, then collaborate with CAIA 
+    * Engineering work won't be this sprint with FMP work already in flight.
+    * We are leaning towards getting UX where it needs to be as the path forward right now rather than work on simpler solutions. Premal to can make look into  if we can delay launch to work one the this UX solution
+    * Do we have to go to staging review again? Lois doesn’t think so.
+    * **Action**: We will add the story and time space to do discovery engineering work for this flow in sprint 3.
+* OHI cert changes to PDF form/Digital form: 
+    * We need to get staging and figma more in parody with each other. 
+    * We need to control the changes from coming from the stakeholders better
+    * **Action**: Design to get figma design as it should be based on business needs from the IVC stakeholders. Break the change down by user stories then take a look at the changes and decide what gets in MVP and what can be pushed post launch.
 
 ## October 21 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
