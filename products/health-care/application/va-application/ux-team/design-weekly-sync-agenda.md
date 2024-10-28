@@ -1,6 +1,16 @@
 # Design Weekly Sync Agenda
 
+## 2024-10-28
+Attendees: Angela, Hieu, Jessica, & Lois.
 
+#### CG Synthesis
+- Next time, researchers to standardize tagging and definition before work sessions.
+- Lois mentioned she used Optimal Workshop - Reformer for synthesis. As well as OneNote for tagging (but it only allows for one tag).
+- Next Step: manual process of theme grouping
+
+#### TERA branching
+- Discussion on success metric, such as decrease application competition time and increase in customer satisfaction score (CSAT)
+- Lois thinks the number of competitions of TERA updates (before vs after) would be a good indicator.
 
 ## 2024-10-21
 Attendees: Angela, Jessica, Lois, Luis, and Renata
