@@ -77,26 +77,26 @@ _Most of the time this is the CTA on a tool static landing page (a sign in widge
       - VA Dental Insurance Program: https://www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance/
       - PCAFC: https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
       - Camp Lejeune: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/#benefits-for-families-who-live
-      - **Spina Bifida: New spina bifida url (TBD)**
-      - **Children of women vietnam veterans: New url (TBD)**
+      - **Spina Bifida: va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orange**
+      - **Children of women vietnam veterans: va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veterans (TBD)**
   - **Get - Additional benefits or services(H3)**
-      - **Tricare: New R+S page URL**
+      - Tricare: Not updating in Phase 2A
       - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp
       - Respite care: https://www.caregiver.va.gov/support/Respite.asp
       - Program of general caregiver support services: https://www.caregiver.va.gov/Care_Caregivers.asp
   - **Manage(H2)**
       - Request travel reimbursement: https://www.va.gov/health-care/get-reimbursed-for-travel-pay/
       - Pay copay bills: https://www.va.gov/health-care/pay-copay-bill/
-      - **R+S: File a champva claim: new url TBD**
-      - **R+S: File a SBHCP claim: new url TBD**
+      - **R+S: File a champva claim: http://va.gov/resources/how-to-file-a-champva-claim**
+      - **R+S: File a SBHCP claim: http://va.gov/resources/how-to-file-a-claim-for-spina-bifida-or-other-birth-defects**
       - Request a decision review: https://www.va.gov/decision-reviews/
       - Get help from accredited rep: https://www.va.gov/get-help-from-accredited-representative/
   - **More(H2)**
-      - **R+S: Meds by Mail: http://va.gov/resources/prescription-medications-covered-through-meds-by-mail**
+      - **R+S: Meds by Mail: http://va.gov/resources/meds-by-mail-for-champva-and-other-programs**
       - Fisher House Program: https://www.socialwork.va.gov/fisher.asp
       - **R+S: Getting care through champva: http://va.gov/resources/getting-care-through-champva**
       - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
-      - **R+S: Getting care for spina bifida and other birth defects: new url TBD**
+      - **R+S: Getting care for spina bifida and other birth defects: http://va.gov/resources/getting-care-for-spina-bifida-and-other-birth-defects**
   - **Related Benefits and Services**
       - no changes in phase 2 
 
@@ -122,24 +122,6 @@ _Not required. Links on other pages that point to this tool/thing/form._
   - Link destinations: 2 new family member birth defects pages (spina bifida and children of women vietnam vets) (URLs tbd)
   - Notes:
 
-2. **[[veteran health hub left nav](https://www.va.gov/health-care/family-caregiver-benefits/)]** - [Modify]
-  - Placement description: Update the node in the left nav to go to the new family health hub page. Remove the link to champva from the veteran health hub.
-  - Link label: TBD by content
-  - Link destination: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/
-  - Notes:
-
-![Screenshot 2024-07-11 at 9 41 18 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/97e649c7-53a7-4733-9618-571373fe2659)
-
- 5. **Veteran Healthcare Megamenu** - [Modify]
-  - Placement description: Update link with new node / label
-![Screenshot 2024-09-12 at 1 55 46 PM](https://github.com/user-attachments/assets/2aad27cd-6033-436f-8411-9dc443a61175)
-
-
-6. **[Veteran Healthcare hub page](https://www.va.gov/health-care/)** - [Modify]
-  - Update the Family and caregiver benefits link under "Get" with the new node / label
-![Screenshot 2024-09-11 at 5 23 10 PM](https://github.com/user-attachments/assets/6a5174ff-f09e-4dae-a3c4-40fe1e796cdc)
-
-
 
 ## <a name="redirects"></a>Redirects <br>
 
@@ -162,10 +144,7 @@ Redirect ticket [#88112](https://github.com/department-of-veterans-affairs/va.go
 
 ## <a name="bestbets"></a>Best Bets<br>
 
-**1) R+S: Tricare - New**
-- add the new best bet with the new URL after publishing
-
-**2) R+S: File a champva claim  - New**
+**1) R+S: File a champva claim  - New**
 - add the new best bet with the new URL after publishing
 
 
