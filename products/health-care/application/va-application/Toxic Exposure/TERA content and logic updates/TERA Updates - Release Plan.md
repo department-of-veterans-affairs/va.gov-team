@@ -93,7 +93,7 @@ Before enabling your feature toggle in production, you'll need to:
 - Length of time: 
      - 10/29
 - Percentage of Users (and roughly how many users do you expect this to be):
-     - 10% - about 25 users
+     - 10% - about 25 users per day
      - This is to ensure the pages are working as expected, and causing no issues navigating, providing input, and submitting the form. 
 
 #### Results
@@ -110,8 +110,10 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time:
+     - 10/30
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 50% - about 125 users per day
 
 #### Results
 
@@ -121,93 +123,16 @@ Before enabling your feature toggle in production, you'll need to:
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of users
+### Stage C: 100% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage D: 75% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage E: 100% of users
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
->## Measuring Success
->
->### Objective: Update the 10-10EZ, so Veterans have the opportunity to provide Toxic Exposure details while applying for VA health care.
->
->#### **Key Result #1:** 50% of Veterans who visit this page will answer Yes to provide TERA information
->
->Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
->
->| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
->|------------- |---------|-------------- |-------------- |-------------- |
->|Veterans who answered Yes to providing TERA info |N/A| 50% | TBD | TBD |
->
->
->#### **Key Result #2:** 75% of Veterans who said Yes to providing TERA information will provide info in at least one TERA question
->
->Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
->
->| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
->|------------- |---------|-------------- |-------------- |-------------- |
->|Veterans answer Yes to Cleanup or Response |N/A| TBD | TBD | TBD |
->|Veterans answer Yes to Service in Gulf War |N/A| TBD | TBD | TBD |
->|Veterans answer Yes to Combat Operations |N/A| TBD | TBD | TBD |
->|Veterans answer Yes to Agent Orange |N/A| TBD | TBD | TBD |
->|Total Veterans that provided an answer to at least one question |N/A| 75% | TBD | TBD |
->
-- Links to the dashboard(s) showing "success criteria" metrics:
-     - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
-     - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
-- Who is monitoring the dashboard(s)?:
-     - Product Manager - Alex Seelig, Heather Justice
-     - Data Analyst - Luis Simauchi
 
 - Length of time:
-     - 03/06/2024
+     - 10/31
 - Percentage of Users (and roughly how many users do you expect this to be):
-     - 100% of all Veterans
-     - about 300 submissions per day
-
+     - 100% - about 250 users per day
 
 #### Results
 
