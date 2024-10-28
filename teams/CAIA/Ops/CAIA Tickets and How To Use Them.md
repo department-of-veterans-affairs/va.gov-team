@@ -67,8 +67,8 @@ This section contains field data that is important for filtering and tracking is
 - **Closed Date** - the date the ticket was closed. This is not auto-generated, so please be sure to fill out this field when you close a ticket (for content tickets, PDM will do this).
 - **Estimate** - the level of effort we think will be required for a ticket. Only used on Task tickets, not Epics. Level of effort is determined using basic tee shirt sizes based on the time it would take to complete the work iteself (not including waiting on SMEs or stakeholders, back and forth with OCTO, etc.):
   - **Small** for 1-5 days - Redirects (except for Family Member Benefit migration work) and Best Bets, deprecating a page
-  - **Medium** for 2-4 weeks - Best bets, React Widgets
-  - **Large** for 1-3 months - Launching a new tool
+  - **Medium** for 2-4 weeks - Best bets, React Widgets, updating a translated page
+  - **Large** for 1-3 months - Launching a new tool, creating a new translated page
   - **Extra large** for 4+ months -  Migration audit
 - **Actual** - how much effort was required, once we've completed the work and can asses how big a lift it was
 - **Originator/Team** - the team or stakeholder that requested the work
