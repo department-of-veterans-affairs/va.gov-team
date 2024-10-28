@@ -97,10 +97,10 @@ _Less frequently used resources._
 
 _Follow each Team site from the VA network._
 
-- VEText - https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx
-- PCI - https://dvagov.sharepoint.com/sites/vhapcirollout/SitePages/Welcome.aspx
-- Appointments (MHV on VA.gov) - https://dvagov.sharepoint.com/sites/HealthApartment/SitePages/Home.aspx
-- OCTO/SPL Appointments UX - https://dvagov.sharepoint.com/sites/AppointmentsUXSync
+- [VEText](https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx)
+- [PCI Enterprise](https://dvagov.sharepoint.com/sites/vhapcirollout/SitePages/Welcome.aspx) 
+- [Appointments (MHV on VA.gov)](https://dvagov.sharepoint.com/sites/HealthApartment/SitePages/Home.aspx) 
+- [OCTO/SPL Appointments UX](https://dvagov.sharepoint.com/sites/AppointmentsUXSync) 
 
 ## Using staging to validate or review the Veteran experience
 
