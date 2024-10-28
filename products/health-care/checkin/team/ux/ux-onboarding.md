@@ -13,6 +13,18 @@
 
 - Review [PCI service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782)
 - Review latest [PCI Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides#product-guides) (used by VA Contact Center)
+  
+#### Get added to meetings 
+
+- UX Refinement - Contractor PO or DM will add you to the meeting series.
+- CIE Daily Scrum - Contractor PO or DM will add you to the meeting series.
+- CIE Sprint Review and Planning - Contractor PO or DM will add you to the meeting series.
+- Appointments SME Feedback Sessions - Ask Peter Russo or Kristen McConnell to be added to meeting series.
+- Veteran Digital User Experience Weekly Design Sync - Ask in #design to be added to this meeting series.
+- UAE UX Sync - Ask Kristen McConnell to be added to this meeting series.
+- OCTO/SPL Appointments UX Sync - Ask Kristen McConnell to be added to this meeting series.
+- MHV on va.gov Design Weekly Review - Ask Kaitlin Fink to be added to this meeting series. (Optional)
+- UAE UX Planning - Appointments and CIE designers and researchers weekly meeting series to discuss what they're working on. Ask Peter Russso for an invite to the meeting series.
 
 ## Requesting access to tools after Platform Onboarding
 
@@ -25,6 +37,8 @@
   - Some internal tools for software development are only accessible within the VA network. Access to developers outside the VA network is available via a SOCKS proxy.
 
 ## Join DSVA Slack channels
+
+_Some channels will be noisy and not needed very frequently. Use the channel mute feature, when needed._
 
 - #unified-appointment-experience - Unified Appointment Experience (UAE) includes VFS Teams, products, and services that stretch across the Veteran journey from requesting and scheduling an appointment, preparing for an appointment, to reviewing an after visit summary and filing a health care beneficiary travel reimbursement. This channel is where UAE communication and collaboration takes place.
 - #check-in-experience - Main channel for Patient Check-In (PCI) product, including pre-check-in and check-in.
@@ -41,19 +55,6 @@
 - #check-in-release-planning - PCI engineers use this channel to announce when features have been merged into main (production) or merged and feature-flagged as "off." E.g., it can be reviewed in staging depending on if the feature toggle is on or off.
 - #vetext-engineering - VEText handles some of the notifications related to PCI. Shane Elliott oversees the program and Justin Wowk is a PM/DM.
 
-## Meetings to attend
-
-- UX Refinement - Contractor PO or DM will add you to the meeting series.
-- CIE Daily Scrum - Contractor PO or DM will add you to the meeting series.
-- CIE Sprint Review and Planning - Contractor PO or DM will add you to the meeting series.
-- Appointments SME Feedback Sessions - Ask Peter Russo or Kristen McConnell to be added to meeting series.
-- Veteran Digital User Experience Weekly Design Sync - Ask in #design to be added to this meeting series.
-- UAE UX Sync - Ask Kristen McConnell to be added to this meeting series.
-- OCTO/SPL Appointments UX Sync - Ask Kristen McConnell to be added to this meeting series.
-- MHV on va.gov Design Weekly Review - Ask Kaitlin Fink to be added to this meeting series. (Optional)
-- UAE UX Planning - Appointments and CIE designers and researchers weekly meeting series to discuss what they're working on. Ask Peter Russso for an invite to the meeting series.
-- [Platform Office Hours](https://depo-platform-documentation.scrollhelp.site/support/office-hours) - Highly encourage taking advantage of signing up for Office Hours early and often to share and receive feedback on design, content, and a11y before collab cycle touchpoints occur. E.g., Design Office Hours. 
-
 ## Design and research quick links 
 
 - [Check in sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496)
@@ -67,7 +68,9 @@
 - [VA Mock Form Patterns](https://staging.va.gov/mock-form-patterns/introduction)
 - [Appointments service blueprints](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=123-11902&t=Hj3Rd8VZVVLwxmDI-0)
 - [PCI service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782)
-  
+- [Platform Office Hours](https://depo-platform-documentation.scrollhelp.site/support/office-hours)
+  - Highly encourage taking advantage of signing up for Office Hours early and often to share and receive feedback on design, content, and a11y before collab cycle touchpoints occur. E.g., Design Office Hours. 
+
 ## Other VHA quick links
 
 - [VA Facility Clinic IDs](https://veteran.apps.va.gov/facilities/v2/facilities/637/clinics)
