@@ -51,7 +51,8 @@
 - UAE UX Sync - Ask Kristen McConnell to be added to this meeting series.
 - OCTO/SPL Appointments UX Sync - Ask Kristen McConnell to be added to this meeting series.
 - MHV on va.gov Design Weekly Review - Ask Kaitlin Fink to be added to this meeting series. (Optional)
-- UAE UX Planning - Appointments and CIE designers and researchers weekly meeting series to discuss what they're working on. Ask Peter Russso for an invite to the meeting series. 
+- UAE UX Planning - Appointments and CIE designers and researchers weekly meeting series to discuss what they're working on. Ask Peter Russso for an invite to the meeting series.
+- [Platform Office Hours](https://depo-platform-documentation.scrollhelp.site/support/office-hours) - Highly encourage taking advantage of signing up for Office Hours early and often to share and receive feedback on design, content, and a11y before collab cycle touchpoints occur. E.g., Design Office Hours. 
 
 ## Design and research quick links 
 
