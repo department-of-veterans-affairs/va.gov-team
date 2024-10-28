@@ -28,7 +28,10 @@
 - #platform-design-system - Design space to ask questions and share work related to the [VA Design System](https://design.va.gov/).
 - #vfs-analytics - Channel to ask questions about Google Analytics.
 - #check-in-releases - Signals when a feature has been released to production for PCI, as well as interconnected applications and APIs.
-- #research-ops - Channel for sharing and asking questions related to research across OCTO. 
+- #research-ops - Channel for sharing and asking questions related to research across OCTO.
+- #va-notify-public - Channel used to communciate with VA Notify about PCI-related notifications.
+- #check-in-release-planning - PCI engineers use this channel to announce when features have been merged into main (production) or merged and feature-flagged as "off." E.g., it can be reviewed in staging depending on if the feature toggle is on or off.
+- #vetext-engineering - VEText handles some of the notifications related to PCI. Shane Elliott oversees the program and Justin Wowk is a PM/DM. 
    
 
 
