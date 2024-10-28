@@ -96,7 +96,7 @@
     - 🟥 [[Research] Create research plan for "see staff after check-in" unmoderated study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93774)
     - 🟥 [[Research] Set up unmoderated survey for "see staff after check-in"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93639)
     - ✔️ 🟥 [Create wireframe for intro page with content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94911)
-    - 🟥 Submit Research Repo tickets for unmoderated study to Shane for review
+    - ~🟥 Submit Research Repo tickets for unmoderated study to Shane for review~
     - ~🟥 Submit Research Repo tickets for in-person study to Shane for review~
       - Pulled out conversation guide before sprint started, so can't submit ticket to Shane yet
 - **Research Cards & Their Headers**
