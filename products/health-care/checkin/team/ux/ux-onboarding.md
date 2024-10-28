@@ -3,9 +3,14 @@
 ## Platform Orientation 
 
 - Individuals on a new VFS team or an existing VFS team will need to complete the [New VFS Team Member Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteammembers). The contractor PO or DM will take the first steps.
-- While waiting to go through New VFS Team Member Platform Onboarding:
-  - Review documentation within [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation)
-  - Review the [VA Design System website](https://design.va.gov/)
+
+### While waiting to go through New VFS Team Member Platform Onboarding
+
+- Review documentation within [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation)
+- Review the [VA Design System website](https://design.va.gov/)
+- Review [PCI service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782)
+- Review latest [PCI Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides#product-guides) (used by VA Contact Center)
+- 
 
 ## Requesting access to tools after Platform Onboarding
 
@@ -58,8 +63,8 @@
 - [Appointments (UAE) Mural room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1675718737504)
 - [VA Mock Form Patterns](https://staging.va.gov/mock-form-patterns/introduction)
 - [Appointments service blueprints](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=123-11902&t=Hj3Rd8VZVVLwxmDI-0)
-- 
-- 
+- [PCI service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782)
+  
 ## Other VHA quick links
 
 - [VA Facility Clinic IDs](https://veteran.apps.va.gov/facilities/v2/facilities/637/clinics)
