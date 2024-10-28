@@ -32,10 +32,7 @@
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
-    - **Sprint Goal is to understand how to get referral data from Palantir**
-    - **END OF THE YEAR DEADLINE**
-    - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
-    - 🟫 [Create wireframe for error when no time slots are available for provider from EPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95690)
+    - **Sprint Goal is to understand how to get referral data from Palantir**    
     - FE STEP 1 - Mock Data
         - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
         - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
