@@ -162,7 +162,7 @@ Flexible; based on Perigean's schedule to begin email recruitment
 
 ## Team Roles
 Christina Gednalske (christina.gednalske@adhocteam.us) will serve as primary researcher and project point of contact for this study.
-Zach Park
+Zach Park (zach.park@agile6.com) is a the secondary point of contact.
 
 ## Appendix
 ### Appendix Item A: Email to recruited participants
