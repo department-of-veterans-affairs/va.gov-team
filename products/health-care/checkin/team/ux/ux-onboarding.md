@@ -46,9 +46,33 @@
 - MHV on va.gov Design Weekly Review - Ask Kaitlin Fink to be added to this meeting series. (Optional)
 - UAE UX Planning - Appointments and CIE designers and researchers weekly meeting series to discuss what they're working on. Ask Peter Russso for an invite to the meeting series. 
 
+## Design and research quick links 
 
-   
+- [Check in sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496)
+- [Check in repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin)
+- [CC VDSS repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling)
+- [VA research hub](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1)
+- [CIE GH Issue Templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.github/ISSUE_TEMPLATE)
+- [Appointments repo hub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/)
+- [Appointments (UAE) Mural room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1675718737504)
+- [VA Mock Form Patterns](https://staging.va.gov/mock-form-patterns/introduction)
+- [Appointments service blueprints](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=123-11902&t=Hj3Rd8VZVVLwxmDI-0)
+- 
+- 
+## Other VHA quick links
+
+- [VA Facility Clinic IDs](https://veteran.apps.va.gov/facilities/v2/facilities/637/clinics)
+- [VHA Locations](https://reports.vssc.med.va.gov/ReportServer/Pages/ReportViewer.aspx?/Apps/VAST/Production/VAST_Snapshot_2&rs:Command=Render)
+- [PCI PowerBI Dashboard](https://app.powerbigov.us/groups/me/apps/741625e9-a049-4f8e-a424-d13c7a723da7/reports/3dd5c5a9-2f91-4330-b04c-0182e7f8129e/ReportSectionf5d765b9673881db1c7a)
+- [VAMC EHR List](https://www.va.gov/data/cms/vamc-ehr.json)
+- 
 
 
 
 Roster (Appts
+
+
+Team sites
+
+service blueprints
+
