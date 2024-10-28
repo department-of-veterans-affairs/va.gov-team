@@ -38,6 +38,11 @@
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
 
+**4) R+S: Tricare - New**
+- URL: 
+- Breadcrumb: 
+- Notes: 
+
 
 
 
@@ -58,7 +63,7 @@
       - Spina Bifida: New spina bifida url (TBD)
       - Children of women vietnam veterans: New url (TBD)
   - **Get - Additional benefits or services(H3)**
-      - Tricare: New R+S page URL
+      **- Tricare: New R+S page URL**
       - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp
       - Respite care: https://www.caregiver.va.gov/support/Respite.asp
       - Program of general caregiver support services: https://www.caregiver.va.gov/Care_Caregivers.asp
@@ -119,6 +124,8 @@ _Not required. Links on other pages that point to this tool/thing/form._
   - Link destination: New lejeune url (TBD)
   - Notes:
 
+4. Tricare?
+
 
 
 ## <a name="redirects"></a>Redirects <br>
@@ -128,11 +135,11 @@ Redirect ticket https://github.com/department-of-veterans-affairs/va.gov-team/is
 | Current URL                                                                          | Redirect to                                                             | Status                             |
 |----------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------|
 | https://www.va.gov/COMMUNITYCARE/programs/dependents/CLFMP.asp                   | Camp Lejeune page (URL TBD)                                             | Waiting for content to finalize H1 |
- 
+| https://www.tricare.mil/                                                         | R+S: Tricare                                                            | Waiting for content to finalize H1 |
 
 ## <a name="bestbets"></a>Best Bets<br>
 
-None as part of this phase
+Maybe TRicare
 
 
 <hr>
