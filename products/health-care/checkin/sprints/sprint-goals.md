@@ -13,23 +13,23 @@
     - **Sprint Goal is to understand how to get referral data from Palantir**
     - **END OF THE YEAR DEADLINE**
     - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
+    - 🟥 [Create wireframe for error when no time slots are available for provider from EPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95690)
     - FE STEP 1
         - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
         - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
         - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
     - BE STEP 1
-        - 🟦 [SPIKE: Set up CC backend structure in the VAOS module (Where at, standalone or under VAOS)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95402)
         - 🟦 [Define endpoint naming conventions (routes)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95403)
         - 🟦 [Configure AWS parameters (secure store) and settings files (one ticket, easy knockout)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95404)
-        - 🟦 [Might not need to create client layers, platform base classes might provide this for us to develop service layers on top of.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95462)
+        - 🟦 [SPIKE: Might not need to create client layers, platform base classes might provide this for us to develop service layers on top of.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95462)
 - **OH Travel**
-    - **Sprint goal is to have this ready for internal testing**
     - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
         - FYI We are waiting on this VeText ticket before we pilot
 - **Travel Claims for Past Appts**
     - **Sprint goal is to finish this by the end of the year**
     - **END OF THE YEAR DEADLINE**
-    - 🟪 [Update Appointment Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94372)
+    - 🟥 🟪 [Update Appointment Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94372)
+        - Question: Has this been released?
 - **Check in with staff after checking in**
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)
     - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95473)
@@ -67,13 +67,13 @@
       - Waiting for Kristen decision on whether we can move forward with Referrals and Requests page
     - ✔️ 🟥 [Update Figma annotations and mural user flow to communicate how we'll de-dupe Appts that aren't in vaos service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94998)
     - 🟥🟪 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82814449&issue=department-of-veterans-affairs%7Cva.gov-team%7C94713)
-    - 🟥[Error page for EPS submission call failed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95073)
+    - ✔️ 🟥[Error page for EPS submission call failed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95073)
         - Added 1 day after planning
     - 🟦 ~[CC Technical Documentation & Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94979)~
     - 🟦 ~[Write CDW Query and Determine the Palantir Process to Create the API Endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93891)~
     - 🟦 ~[Create Palantir connection, includes connection but not fully fleshed out endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94981)~
     - ✔️ 🟩 [Create CC subrouter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94817)
-    - 🟩🟦 [Create ALL Tickets Needed to Complete this Feature for FE & BE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95003) 
+    - ✔️ 🟩🟦 [Create ALL Tickets Needed to Complete this Feature for FE & BE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95003) 
 - **Travel for OH**
     - **DEADLINE IS END OF YEAR**  
     - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
@@ -105,8 +105,8 @@
 - **Tech Debt & Analytics**
     - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92523)
     - ✔️ 🟪 [Send Tagalog Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94997)
-    - 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
-    - 🟩 [Update want to file a bt claim page in eCheck-in app with CC content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94605)
+    - ✔️ 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
+    - ✔️ 🟩 [Update want to file a bt claim page in eCheck-in app with CC content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94605)
     - 🟥 [Create UX onboarding documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2327217&pane=issue&itemId=83339991)
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
