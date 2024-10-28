@@ -36,14 +36,18 @@
     - **END OF THE YEAR DEADLINE**
     - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
     - 🟫 [Create wireframe for error when no time slots are available for provider from EPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95690)
-    - FE STEP 1
+    - FE STEP 1 - Mock Data
         - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
         - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
         - 🟩 [Mock to confirm appointment (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95264)
-    - BE STEP 1
-        - 🟦 [Define endpoint naming conventions (routes)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95403)
-        - 🟦 [Configure AWS parameters (secure store) and settings files (one ticket, easy knockout)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95404)
-        - 🟦 [SPIKE: Might not need to create client layers, platform base classes might provide this for us to develop service layers on top of.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95462)
+    - FE STEP 2 - Appointments Page
+        - 🟩 [Create Task Card Component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95265)
+        - 🟩 [Add Review requests and referrals (x) link behind feature flag](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95300)
+    - BE STEP 1 - Implement EPSAppointmentsService
+        - 🟦 [Implement EPSAppointmentsService base class](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96000)
+        - 🟦 [Implement ClaimsToken class (using the pattern for Lorota::ClaimsToken)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96001)
+        - 🟦 [Implement RedisClient: Implement #save method to save the access_toke #96002](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114168&issue=department-of-veterans-affairs%7Cva.gov-team%7C96002)
+        - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114223&issue=department-of-veterans-affairs%7Cva.gov-team%7C96003)
 - **Check in with staff after checking in**
     - 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)
