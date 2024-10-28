@@ -44,6 +44,7 @@
 - [Add the CIE Calendar](https://calendar.google.com/calendar/embed?src=cie-team%40agile6.com&ctz=America%2FNew_York) (cie-team@agile6.com)
 - [Request access to SOCKS](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-SOCKSaccess)
   - Some internal tools for software development are only accessible within the VA network. Access to developers outside the VA network is available via a SOCKS proxy.
+  - Needed for accessing CIE applications locally and in staging. 
 
 ## Join DSVA Slack channels
 
