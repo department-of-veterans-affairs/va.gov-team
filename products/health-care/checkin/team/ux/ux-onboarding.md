@@ -13,6 +13,7 @@
 - [Request access to Mural](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-Mural)
 - [Request access to Datadog](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog)
 - [Request access to Google Analytics](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/new-users-to-google-analytics#NewUserstoGoogleAnalytics-HowtogetaccesstoGoogleAnalytics)
+- [Add the CIE Calendar](https://calendar.google.com/calendar/embed?src=cie-team%40agile6.com&ctz=America%2FNew_York) (cie-team@agile6.com)
 - [Request access to SOCKS](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-SOCKSaccess)
   - Some internal tools for software development are only accessible within the VA network. Access to developers outside the VA network is available via a SOCKS proxy.
 
@@ -31,10 +32,23 @@
 - #research-ops - Channel for sharing and asking questions related to research across OCTO.
 - #va-notify-public - Channel used to communciate with VA Notify about PCI-related notifications.
 - #check-in-release-planning - PCI engineers use this channel to announce when features have been merged into main (production) or merged and feature-flagged as "off." E.g., it can be reviewed in staging depending on if the feature toggle is on or off.
-- #vetext-engineering - VEText handles some of the notifications related to PCI. Shane Elliott oversees the program and Justin Wowk is a PM/DM. 
+- #vetext-engineering - VEText handles some of the notifications related to PCI. Shane Elliott oversees the program and Justin Wowk is a PM/DM.
+
+## Meetings to attend
+
+- UX Refinement - Contractor PO or DM will add you to the meeting series.
+- CIE Daily Scrum - Contractor PO or DM will add you to the meeting series.
+- CIE Sprint Review and Planning - Contractor PO or DM will add you to the meeting series.
+- Appointments SME Feedback Sessions - Ask Peter Russo or Kristen McConnell to be added to meeting series.
+- Veteran Digital User Experience Weekly Design Sync - Ask in #design to be added to this meeting series.
+- UAE UX Sync - Ask Kristen McConnell to be added to this meeting series.
+- OCTO/SPL Appointments UX Sync - Ask Kristen McConnell to be added to this meeting series.
+- MHV on va.gov Design Weekly Review - Ask Kaitlin Fink to be added to this meeting series. (Optional)
+- UAE UX Planning - Appointments and CIE designers and researchers weekly meeting series to discuss what they're working on. Ask Peter Russso for an invite to the meeting series. 
+
+
    
 
 
-https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-OCTOResearchSessionsCalendar
 
 Roster (Appts
