@@ -13,7 +13,7 @@
     - **Sprint Goal is to understand how to get referral data from Palantir**
     - **END OF THE YEAR DEADLINE**
     - 🟦🟩 [Review VA Notify Playbook ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92352)
-    - 🟥 [Create wireframe for error when no time slots are available for provider from EPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95690)
+    - 🟫 [Create wireframe for error when no time slots are available for provider from EPS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95690)
     - FE STEP 1
         - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
         - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
@@ -28,19 +28,18 @@
 - **Travel Claims for Past Appts**
     - **Sprint goal is to finish this by the end of the year**
     - **END OF THE YEAR DEADLINE**
-    - 🟥 🟪 [Update Appointment Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94372)
-        - Question: Has this been released?
 - **Check in with staff after checking in**
+    - 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)
     - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95473)
-    - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95474)
     - 🟥 [[Research] Create Draft Conversation Guide for check in with staff initiative in-person study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92884)
+    - 🟥 [Design Intent - IA Feedback - Modernized Check-in, eCheck-in, Check in with MSAs after eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95736)
+    - 🟥 [Design Intent - Accessibility Feedback - Modernized Check-in, eCheck-in, Check in with MSAs after eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95751)
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
     - 🟥 [Create readme doc for appointment details page research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95000)
-- **Edit existing content on a resources and support page from Check in**
-    - TBD
 - **Tech Debt & Analytics**
+    - 🟥 [[DESIGN] Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95964)
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94769)
     - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
 </details>
