@@ -93,7 +93,7 @@ Before enabling your feature toggle in production, you'll need to:
 - Length of time: 
      - 10/29
 - Percentage of Users (and roughly how many users do you expect this to be):
-     - 10% - about 25 users per day
+     - 25% - about 41 users per day (Based on ~5k users over 30 days who answered "Yes" to providing Toxic Exposure information)
      - This is to ensure the pages are working as expected, and causing no issues navigating, providing input, and submitting the form. 
 
 #### Results
@@ -113,7 +113,7 @@ Before enabling your feature toggle in production, you'll need to:
 - Length of time:
      - 10/30
 - Percentage of Users (and roughly how many users do you expect this to be):
-     - 50% - about 125 users per day
+     - 50% - about 83 users per day
 
 #### Results
 
@@ -132,7 +132,7 @@ Before enabling your feature toggle in production, you'll need to:
 - Length of time:
      - 10/31
 - Percentage of Users (and roughly how many users do you expect this to be):
-     - 100% - about 250 users per day
+     - 100% - about 166 users per day
 
 #### Results
 
