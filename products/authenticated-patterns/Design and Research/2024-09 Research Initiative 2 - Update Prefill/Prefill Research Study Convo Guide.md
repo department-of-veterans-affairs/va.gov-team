@@ -9,6 +9,7 @@
 - [Task Blue](#task-blue)
 - [Closing](#closing)
 - [Pause or exit strategies](#pause-or-exit-strategies)
+- [Approval](#approval)
 
 ## Moderator logistics
 
@@ -43,10 +44,9 @@
 
 ## Intro
 
-> [!TIP]
-> Estimated timing: 5 min
+**Estimated timing: 5 min**
 
-**- Start transcript: `LIVE TRANSCRIPT` > `ENABLE`**
+> **Start transcript: `LIVE TRANSCRIPT` > `ENABLE`**
 
 Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes. How are you today?
 
@@ -57,12 +57,8 @@ Before we get started, when Perigean set up this session, they asked if you woul
 So, I want to confirm that you are okay with a couple of my teammates joining us just to observe?
 
 - IF NO:
-
 > Use Slack to let observers know.
-
-- IF YES:
-
-They're in the waiting room, so I'm going to let them into the meeting now.
+- IF YES: They're in the waiting room, so I'm going to let them into the meeting now.
 
 > [Let in observers from the waiting room.]
 
@@ -84,20 +80,16 @@ The last thing is about recordings. Recording the session helps us to confirm th
 
 > Don't record
 
-- IF YES:
+- IF YES: Once I start recording, I’ll confirm again.
 
-Once I start recording, I’ll confirm again.
-
-
-### Start recording: RECORD TO CLOUD.
+> **Start recording: `RECORD TO CLOUD`.**
 
 I’ve started recording. I'd like to confirm again: Are you comfortable with me recording my screen and audio while we talk today?
 
 
 ## Warm-up
 
-> [!TIP]
-> Estimated timing: 5 min
+**Estimated timing: 5 min**
 
 Ok, great! I think we’re ready to get started. I'd like to begin by learning more about your experience with VA and our online services.
 
@@ -105,8 +97,7 @@ Ok, great! I think we’re ready to get started. I'd like to begin by learning m
 - How often, if at all, do you use VA.gov?
 - Do you have a VA.gov account?
 
-If YES:
-  - What do you typically do on VA.gov after you log in?
+If YES: What do you typically do on VA.gov after you log in?
 
 If NO:
   - How do you think having an account would change your experience on VA.gov?
@@ -123,7 +114,7 @@ Next, I'm going to share a link to our prototype to get your feedback. Then I'll
 As I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans.
 
 
-### Send link in Zoom chat **(add link here)**
+> Send link in Zoom chat **(add link here)**
 
 I've just sent the link in the Zoom chat. Do you see it? Can you open the link in the chat?
 
@@ -136,31 +127,26 @@ If YES:
 If NO:
   - I’ll walk you through how to do that…
 
-
-### If there is an issue sharing screens, follow the guidance found [here](https://docs.google.com/document/d/1IATvmu-0QJCH_jr4IM6eN_LFo03IR7shDqtboUUKSXY/edit?usp=sharing).
+> If there is an issue sharing screens, follow the guidance found [here](https://docs.google.com/document/d/1IATvmu-0QJCH_jr4IM6eN_LFo03IR7shDqtboUUKSXY/edit?usp=sharing).
 
 Thanks! Now I’m able to see your screen too.
 
 
 ## Task Orange
 
-#### Form tested: 22-1990 - Apply for VA Education Benefits
+**Form tested: 22-1990 - Apply for VA Education Benefits**
 
-> [!TIP]
-> Estimated timing: 10-15 min
+**Estimated timing: 10-15 min**
 
 In this **[first/next]** task, I would like you to imagine that you need to apply for VA education benefits to help cover your degree’s tuition costs. You navigate to VA.gov and find your way to the form to apply. You have not yet logged in. With that in mind, please select "Task Orange".
 
-
-### [Participant clicks on "Task Orange" to start]
-
+> [Participant clicks on "Task Orange" to start]
 
 ### Screen 1 - Unauthenticated Intro 
 
 Tell us what you are seeing on this screen and your initial thoughts before selecting anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Can you tell me more about what that blue alert is talking about?
 - After reading that alert, what do you think you would do?
 
@@ -176,12 +162,11 @@ Thank you for that feedback. Just so you know, we’ll have you select the "Sign
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Can you tell me more about what that blue alert is talking about?
 
 > [!IMPORTANT]
 > Things to watch for:
->  - Do they notice this alert without being prompted? 
+> - Do they notice this alert without being prompted? 
 > - What do they notice about the alert?
 > - Do they notice the prefill content within the alert?
 
@@ -193,7 +178,6 @@ Thank you for that feedback. Go ahead and move forward.
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Where do you think your personal information is coming from?
 - What do you think of how your personal information is presented?
 - How would you update your information if some of it were incorrect?
@@ -213,13 +197,11 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 
 Thank you for that feedback. Go ahead and move forward. Just note that this is a prototype and so we are skipping you to the end of the form for the sake of time. 
 
-
 ### Screen 4 - Review 
 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Is this what you expect a review page to look like before submitting your form?
 - What information do you think you can edit from here?
   - Do you expect to see personal information you can’t change listed on this page?
@@ -236,13 +218,11 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 
 Thank you for that feedback. Go ahead and show me how you would correct your address.
 
-
 ### Screen 5 - Edit mailing address
 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Is this what you expected to see when you clicked on "Edit"?
 - What was the first thing you noticed about the alert? 
 - Where do you think your update will save?
@@ -258,13 +238,11 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 
 Thank you for that feedback. Please change the address numbers to "345" and move forward.
 
-
 ### Screen 6 - Review with update confirmation
 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Has your change been saved?
 - Where do you think that information was saved to?
 - Is that confirmation message where you expected it to be?
@@ -277,36 +255,31 @@ Great! Thank you for your thoughts on all of that. That brings us to the end of 
 
 Do you have any questions or comments before we move on?
 
-### [Pause for questions]
+> [Pause for questions]
 
-### [If there are more tasks]
+> [If there are more tasks]
 
 Awesome. Please select "Continue" to head back to our navigation homepage.
 
-### [If this is the last task - go to the end of the convo guide for closing questions]
+> [If this is the last task - go to the end of the convo guide for closing questions]
 
 [Jump to Table of Contents](#table-of-contents)
 
-
 ## Task Gray
 
-#### Form tested: 26-1880 - Request a VA home loan Certificate of Eligibility (COE)
+**Form tested: 26-1880 - Request a VA home loan Certificate of Eligibility (COE)**
 
-> [!TIP]
-> Estimated timing: 10-15 min
+**Estimated timing: 10-15 min**
 
 For this **[first/next]** task, we’re going to have you imagine that you want to get a VA home loan and need to request a Certificate of Eligibility. You have logged into your VA.gov account and navigated to the application. Along the way, you will notice some of your information is incorrect and we will have you update it. With that in mind, please select "Task Gray".
 
-
-### [Participant clicks on "Gray Task" to start]
-
+> [Participant clicks on "Gray Task" to start]
 
 ### Screen 1 - Authenticated Intro 
 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Can you tell me more about what that blue alert is talking about?
 
 > [!IMPORTANT]
@@ -321,7 +294,6 @@ Thank you for that feedback. Go ahead and move forward.
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn't bring it up naturally, ask:
-
 - Where do you think your personal information is coming from?
 - What do you think of how your personal information is presented?
 - How would you update your information if some of it were incorrect?
@@ -342,7 +314,6 @@ Thank you for that feedback. Go ahead and move forward.
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - What was the first thing you noticed about the alert?
 - What do you think of how your personal information is presented?
 - What do you think you would do if you noticed some of your information was wrong here?
@@ -356,13 +327,11 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 
 Thank you for that feedback. Now let’s say you notice your address is incorrect. Show me how you would correct it.
 
-
 ### Screen 4 - Edit mailing address
 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Is this what you expected to see when you clicked on "Edit"?
 - What was the first thing you noticed about the alert? 
 - Is it clear where these updates will be saved?
@@ -377,13 +346,11 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 
 Thank you for that feedback. Please change the address numbers to "345" and  move forward.
 
-
 ### Screen 5 - Mailing address with edit confirmation
 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn't bring it up naturally, ask:
-
 - Is it clear where those updates were saved?
 
 > [!IMPORTANT]
@@ -398,7 +365,6 @@ Thank you for that feedback. Go ahead and move forward. Just note that this is a
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn't bring it up naturally, ask:
-
 - What do you notice about which information is included on this page? 
 
 > [!IMPORTANT]
@@ -411,37 +377,31 @@ Great! Thank you for your thoughts on all of that. That brings us to the end of 
 
 Do you have any questions or comments before we move on?
 
+> [Pause for questions]
 
-### [Pause for questions]
-
-### [If there are more tasks]
+> [If there are more tasks]
 
 Awesome. Please select "Continue" to head back to our navigation homepage.
 
-### [If this is the last task - go to the end of the convo guide for closing questions]
+> [If this is the last task - go to the end of the convo guide for closing questions]
 
 [Jump to Table of Contents](#table-of-contents)
 
-
 ## Task Blue
 
-#### Form tested: 101082 - Request a Board Appeal
+**Form tested: 101082 - Request a Board Appeal**
 
-> [!TIP]
-> Estimated timing: 10-15 min
+**Estimated timing: 10-15 min**
 
 In this **[first/next]** task, we will have you imagine that you need to request a board appeal on one of your recent disability claims decisions. You have logged into VA.gov and navigated to the correct form. Along the way, you will notice some of your information is incorrect and you will update it. With that in mind, please select "Task Blue".
 
-
-### [Participant clicks on "Task Blue" to start]
-
+> [Participant clicks on "Task Blue" to start]
 
 ### Screen 1 - Authenticated Intro 
 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Can you tell me more about what that blue alert is talking about?
 - What are your thoughts on how the alert is displayed to you?
 
@@ -452,13 +412,11 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 
 Thank you for that feedback. Go ahead and move forward.
 
-
 ### Screen 2 - Veteran information (with uneditable prefilled data)
 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Where do you think your personal information is coming from?
 - What do you think of how your personal information is presented?
 - How would you update your information if some of it were incorrect?
@@ -479,7 +437,6 @@ Thank you for that feedback. Go ahead and move forward.
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - What do you think of how your personal information is presented?
 - What do you think you would do if you noticed some of your information was wrong here?
 - If you needed to update this contact information, where do you think it would save?
@@ -491,13 +448,11 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 
 Thank you for that feedback. Now let’s say you notice your address is incorrect. Show me how you would correct it.
 
-
 ### Screen 4 - Edit mailing address 
 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Is this what you expected to see when you clicked on "Edit"?
 - What was the first thing you noticed about the alert? 
 - Where will these updates be saved?
@@ -519,7 +474,6 @@ Thank you for that feedback. Please change the address numbers to "345" and and 
 Tell us what you are seeing on this screen and your initial thoughts before doing anything.
 
 > If the user doesn’t bring it up naturally, ask:
-
 - Has your change been saved?
 - Where do you think that information was saved to?
 
@@ -531,16 +485,15 @@ Great! Thank you for your thoughts on all of that. That brings us to the end of 
 
 Do you have any questions or comments before we move on?
 
-### [Pause for questions]
+> [Pause for questions]
 
-### [If there are more tasks]
+> [If there are more tasks]
 
 Awesome. Please select "Continue" to head back to our navigation homepage.
 
-### [If this is the last task - go to the end of the convo guide for closing questions]
+> [If this is the last task - go to the end of the convo guide for closing questions]
 
 [Jump to Table of Contents](#table-of-contents)
-
 
 ## Closing
 
@@ -548,9 +501,9 @@ We really appreciate you taking the time to share your thoughts with us today.
 
 We just have a few remaining questions for you before we wrap up:
 
-### [Show users our screen or a page in Codespaces that shows the differences between the different design styles for headers, messaging, cards or review style, etc]
+> [Show users our screen or a page in Codespaces that shows the differences between the different design styles for headers, messaging, cards or review style, etc]
 
-### [Skip any of these that were already addressed by the participant in conversation]
+> [Skip any of these that were already addressed by the participant in conversation]
 
 - Before we look at the different stylistic differences we discussed in our session, I would just like to ask if there was anything that stood out to you as particularly challenging, difficult or confusing in this study overall?
 - We saw your prefilled data displayed in a few different ways (review style versus gray or white card). Which of these styles makes it easier to review your information, and why? Tell us about your preference for how that information is displayed.  Do you have a preference for how that information is displayed?
