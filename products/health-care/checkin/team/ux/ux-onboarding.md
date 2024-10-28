@@ -65,6 +65,8 @@ _Some channels will be noisy and not needed very frequently. Use the channel mut
 
 ## Design and research quick links 
 
+_Quick links, but also artifacts to review and be familiar with._
+
 - [Check in sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496)
 - [Check in repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin)
 - [CC VDSS repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling)
@@ -76,10 +78,13 @@ _Some channels will be noisy and not needed very frequently. Use the channel mut
 - [VA Mock Form Patterns](https://staging.va.gov/mock-form-patterns/introduction)
 - [Appointments service blueprints](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=123-11902&t=Hj3Rd8VZVVLwxmDI-0)
 - [PCI service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782)
+- [CIE FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
 - [Platform Office Hours](https://depo-platform-documentation.scrollhelp.site/support/office-hours)
   - Highly encourage taking advantage of signing up for Office Hours early and often to share and receive feedback on design, content, and a11y before collab cycle touchpoints occur. E.g., Design Office Hours. 
 
 ## Other VHA quick links
+
+_Less frequently used resources._
 
 - [VA Facility Clinic IDs](https://veteran.apps.va.gov/facilities/v2/facilities/637/clinics)
 - [VHA Locations](https://reports.vssc.med.va.gov/ReportServer/Pages/ReportViewer.aspx?/Apps/VAST/Production/VAST_Snapshot_2&rs:Command=Render)
@@ -88,19 +93,14 @@ _Some channels will be noisy and not needed very frequently. Use the channel mut
 
 ## SharePoint Team sites to follow 
 
+_Follow each Team site from the VA network._
+
 - VEText - https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx
 - PCI - https://dvagov.sharepoint.com/sites/vhapcirollout/SitePages/Welcome.aspx
 - Appointments (MHV on VA.gov) - https://dvagov.sharepoint.com/sites/HealthApartment/SitePages/Home.aspx
 - OCTO/SPL Appointments UX - https://dvagov.sharepoint.com/sites/AppointmentsUXSync
 
-
-
-
-
-Roster (Appts
-
-
-Team sites
+## Set 
 
 service blueprints
 
