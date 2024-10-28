@@ -10,6 +10,8 @@
 ** = try to finish by the end of the year
 * = stretch goal for finishing by the end of the year
 
+[Sharepoint folder for standards documentation](https://dvagov-my.sharepoint.com/:f:/r/personal/michelle_northuis_va_gov/Documents/IA/Standards?csf=1&web=1&e=6XnSEl)
+
 Component/Pattern | Published documentation | Priority/Effort | POC | Revisions and work in progress | Status/Next steps | Next step Deadline | Publishing deadline | 
 --- | --- | --- | --- | --- | --- | --- | --- |
 Breadcrumbs** | [Breadcrumb component](https://design.va.gov/components/breadcrumbs) | High/Med | Kristin | [CAIA Ticket #73451](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73451) and [WIP doc](https://docs.google.com/document/d/1XKUSwFIaqVYq_ZuXAoZ33sWjDWgTFWdZVMYJescmZGA/edit?tab=t.0)| Mikki to review and resolve final comment threads |11/1 | 11/8 |
