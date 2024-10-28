@@ -40,14 +40,14 @@ SSiT team email:
 | How many staff volunteered for Sign Up Day? Please include their roles.	| |
 | How much time did each staff member dedicate to running Sign Up Day? | |
 | After training: On a scale of 1-5 how confident were staff in helping Veterans during Sign Up Day (including troubleshooting)? 
-1 = not confident and unable to help Veterans sign up 
-2 = can help a Veteran with assistance
-3 = confident in helping Veterans Sign Up but not troubleshoot
-4 = moderately confident in helping Veterans Sign Up and troubleshoot
-5 = confident and could lead a future Sign Up Day	| |
+- 1 = not confident and unable to help Veterans sign up 
+- 2 = can help a Veteran with assistance
+- 3 = confident in helping Veterans Sign Up but not troubleshoot
+- 4 = moderately confident in helping Veterans Sign Up and troubleshoot
+- 5 = confident and could lead a future Sign Up Day	| |
 | After Sign Up Day: On a scale of 1-5 how confident were staff in helping Veterans during Sign Up Day (including troubleshooting)? 
-1 = not confident and unable to help Veterans sign up
-2 = can help a Veteran with assistance
-3 = confident in helping Veterans Sign Up but not troubleshoot
-4 = moderately confident in helping Veterans Sign Up and troubleshoot
-5 = confident and could lead a future Sign Up Day	| |
+- 1 = not confident and unable to help Veterans sign up
+- 2 = can help a Veteran with assistance
+- 3 = confident in helping Veterans Sign Up but not troubleshoot
+- 4 = moderately confident in helping Veterans Sign Up and troubleshoot
+- 5 = confident and could lead a future Sign Up Day	| |
