@@ -58,8 +58,8 @@ So, I want to confirm that you are okay with a couple of my teammates joining us
 
 - IF NO:
 > Use Slack to let observers know.
-- IF YES: They're in the waiting room, so I'm going to let them into the meeting now.
 
+- IF YES: They're in the waiting room, so I'm going to let them into the meeting now.
 > [Let in observers from the waiting room.]
 
 Welcome. This is [PARTICIPANT]. Observers, please briefly come on camera to say hello and tell us your role at the VA.
@@ -77,11 +77,9 @@ There are a few other things I want to mention before we start:
 The last thing is about recordings. Recording the session helps us to confirm that we captured your opinions accurately. Sometimes we share video clips with our colleagues at VA. If we do this, we don’t link anything you share in the session to any information that could identify you. We remove your face and your name from the videos. Knowing this, are you comfortable if I record my screen and audio while we talk today?
 
 - IF NO:
-
 > Don't record
 
 - IF YES: Once I start recording, I’ll confirm again.
-
 > **Start recording: `RECORD TO CLOUD`.**
 
 I’ve started recording. I'd like to confirm again: Are you comfortable with me recording my screen and audio while we talk today?
@@ -99,8 +97,7 @@ Ok, great! I think we’re ready to get started. I'd like to begin by learning m
 
 If YES: What do you typically do on VA.gov after you log in?
 
-If NO:
-  - How do you think having an account would change your experience on VA.gov?
+If NO: How do you think having an account would change your experience on VA.gov?
 
 > [!IMPORTANT]
 > Things to watch for:
