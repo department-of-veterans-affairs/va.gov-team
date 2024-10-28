@@ -100,7 +100,24 @@ _Follow each Team site from the VA network._
 - Appointments (MHV on VA.gov) - https://dvagov.sharepoint.com/sites/HealthApartment/SitePages/Home.aspx
 - OCTO/SPL Appointments UX - https://dvagov.sharepoint.com/sites/AppointmentsUXSync
 
-## Set 
+## Using staging to validate or review the Veteran experience
 
-service blueprints
+_Set up time with a front-end engineer to walk you through setting up an appointment on staging and accessing the application in staging._
 
+- Get on the VA Network
+- Access the [appointment scheduling tool](https://vigilant-couscous-ab7fb4a4.pages.github.io/?baseUrl=https%3A%2F%2Fstaging.va.gov)
+- Set up an appointment using one of the [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md#assigned-dfns)
+- Copy the check-in or pre-check-in link so you have it available locally
+- Paste the check-in or pre-check-in link into your local web browser
+- Emulate a mobile screen in your web browser
+- Use the last name and DoB for that [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/qa/test-data-setup.md#assigned-dfns) to authenticate
+- Complete check-in or pre-check-in
+
+## Using local env to validate or review the Veteran experience
+
+_Set up time with a front-end engineer to walk you through setting up vets website and the applications locally. Running the applications locally can be quicker than running it through staging, and depending on how engineers have used specific feature toggles or not, there might be scenarios where work can only be validated locally before it reaches production. But, engineers will provide this guidance._
+
+- Download Visual Code Studio or another code editor
+- Download GitHub Desktop
+- Get Node, Yarn, and vets-website loaded on your machine
+- Once Node, Yarn, and vets-website are loaded on your machine, [run the application locally](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/check-in#quick-start-to-get-running-locally). E.g., no need to be on the VA network. 
