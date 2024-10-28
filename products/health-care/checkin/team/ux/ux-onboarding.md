@@ -28,6 +28,8 @@
 
 #### Tasks to complete in the first 30 days 
 
+- Get added to relevant meetings
+- Join relevant Slack channels
 - Once you have access to GitHub and Figma, set up a meeting with the CIE designers to get a walk through of Figma file structure.
 - To get comfortable with the Figma file structure, create a Feature Page with 1 frame in 1 of the Figma files, have it reviewed by the CIE designers, and finish the process of moving it into the Production file. When finished with this process, delete the work.
 - Get familiar with updating the [CIE Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md). For example, add the check icon to a task to show that it's been completed and commit the change. Then, edit the page again, remove the check icon from the task, and commit the change.    
