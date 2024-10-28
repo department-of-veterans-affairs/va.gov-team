@@ -81,6 +81,7 @@ _Quick links, but also artifacts to review and be familiar with._
 - [Appointments service blueprints](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=123-11902&t=Hj3Rd8VZVVLwxmDI-0)
 - [PCI service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782)
 - [CIE FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
+- [CIE Research repo table](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research#all-check-in-research-studies) should be updated when a research study is completed. 
 - [Platform Office Hours](https://depo-platform-documentation.scrollhelp.site/support/office-hours)
   - Highly encourage taking advantage of signing up for Office Hours early and often to share and receive feedback on design, content, and a11y before collab cycle touchpoints occur. E.g., Design Office Hours. 
 
