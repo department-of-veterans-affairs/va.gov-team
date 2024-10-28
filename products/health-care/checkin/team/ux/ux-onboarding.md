@@ -51,6 +51,7 @@
 - [Check in sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496)
 - [Check in repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin)
 - [CC VDSS repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling)
+- [UAE Figma workspace](https://www.figma.com/files/team/1278375444205744118/project/175332858/MHV---Unified-Appointments?fuid=1175479952799719494)
 - [VA research hub](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1)
 - [CIE GH Issue Templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.github/ISSUE_TEMPLATE)
 - [Appointments repo hub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/)
@@ -65,7 +66,15 @@
 - [VHA Locations](https://reports.vssc.med.va.gov/ReportServer/Pages/ReportViewer.aspx?/Apps/VAST/Production/VAST_Snapshot_2&rs:Command=Render)
 - [PCI PowerBI Dashboard](https://app.powerbigov.us/groups/me/apps/741625e9-a049-4f8e-a424-d13c7a723da7/reports/3dd5c5a9-2f91-4330-b04c-0182e7f8129e/ReportSectionf5d765b9673881db1c7a)
 - [VAMC EHR List](https://www.va.gov/data/cms/vamc-ehr.json)
-- 
+
+## SharePoint Team sites to follow 
+
+- VEText - https://dvagov.sharepoint.com/sites/vhavetext/SitePages/VEText-Home-Page.aspx
+- PCI - https://dvagov.sharepoint.com/sites/vhapcirollout/SitePages/Welcome.aspx
+- Appointments (MHV on VA.gov) - https://dvagov.sharepoint.com/sites/HealthApartment/SitePages/Home.aspx
+- OCTO/SPL Appointments UX - https://dvagov.sharepoint.com/sites/AppointmentsUXSync
+
+
 
 
 
