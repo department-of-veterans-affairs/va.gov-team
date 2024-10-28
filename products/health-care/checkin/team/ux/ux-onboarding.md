@@ -26,7 +26,7 @@
 - MHV on va.gov Design Weekly Review - Ask Kaitlin Fink to be added to this meeting series. (Optional)
 - UAE UX Planning - Appointments and CIE designers and researchers weekly meeting series to discuss what they're working on. Ask Peter Russso for an invite to the meeting series.
 
-#### Tasks to complete in the first 30 days 
+## Tasks to complete in the first 30 days 
 
 - Get added to relevant meetings
 - Join relevant Slack channels
