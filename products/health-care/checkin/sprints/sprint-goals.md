@@ -2,6 +2,28 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ⬛ VAHB 🟧 VeText 🟫 Appts ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over ⏱️ Dependency
 
 <details>
+<summary>SPRINT 20 - 11/13/2024-11/26/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 19 - 10/30/2024-11/12/2024
+- **Production Support**
+    - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/)
+    - **Move to New AWS Instance**
+      - TBD
+- **Community Care Direct Scheduling**
+    - **Sprint Goal is to ...**    
+    - TBD
+- **Travel Claims for Past Appts**
+    - **Sprint goal is to finish this by the end of the year**
+    - TBD
+- **Check in with staff after checking in**
+    - TBD
+- **Research Cards & Their Headers**
+    - TBD
+- **Tech Debt & Analytics**
+    - TBD
+</details>
+
+<details>
 <summary>SPRINT 19 - 10/30/2024-11/12/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 19 - 10/30/2024-11/12/2024
@@ -22,12 +44,6 @@
         - 🟦 [Define endpoint naming conventions (routes)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95403)
         - 🟦 [Configure AWS parameters (secure store) and settings files (one ticket, easy knockout)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95404)
         - 🟦 [SPIKE: Might not need to create client layers, platform base classes might provide this for us to develop service layers on top of.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95462)
-- **OH Travel**
-    - ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
-        - FYI We are waiting on this VeText ticket before we pilot
-- **Travel Claims for Past Appts**
-    - **Sprint goal is to finish this by the end of the year**
-    - **END OF THE YEAR DEADLINE**
 - **Check in with staff after checking in**
     - 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)
