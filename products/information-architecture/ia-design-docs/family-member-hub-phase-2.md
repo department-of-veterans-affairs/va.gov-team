@@ -145,17 +145,18 @@ _Not required. Links on other pages that point to this tool/thing/form._
 
 Redirect ticket [#88112](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88112)
 
-| Current URL                                                                          | Redirect to                                                             | Status                         |
-|----------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------|
-| https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp   | R+S: File a champva claim (URL TBD)                                     | Waiting for content to finalize H1 |
-| https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina-claim.asp | R+S: File a spina bifida claim (URL TBD)                                | Waiting for content to finalize H1 |
-| https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/meds-by-mail.asp   | R+S: Meds by mail overview (URL TBD)                                             | Waiting for content to finalize H1 |
-| https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/MbM-medications.asp| http://va.gov/resources/prescription-medications-covered-through-meds-by-mail  | Ready                       |
-| https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA-faq.asp     | R+S: Getting care through champva (URL TBD)                             | Waiting for content to finalize H1 |
-| https://www.va.gov/disability/eligibility/special-claims/birth-defects/          | Spina Bifida page (URL TBD)                                             | Waiting for content to finalize H1 |
-| https://www.va.gov/COMMUNITYCARE/programs/dependents/cwvv/index.asp              | Children of women vietnam veterans page (URL TBD)                       | Waiting for content to finalize H1 |
-| https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp       | Spina Bifida page (URL TBD)                                             | Waiting for content to finalize H1 |
-| https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/index.asp          | R+S: Meds by mail overview (URL TBD)                                    | Waiting for content to finalize H1 |
+| Page Name                                        | Existing URL                                                                      | Will redirect to new page:                                                                    |
+|--------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| File a CHAMPVA Claim                             | https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp    | http://va.gov/resources/how-to-file-a-champva-claim                                           |
+| CHAMPVA FAQ                                      | https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA-faq.asp      | va.gov/resources/getting-care-through-champva                                                 |
+| Special claims for birth defects                 | https://www.va.gov/disability/eligibility/special-claims/birth-defects/           | va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orange          |
+| Care for dependents with spina bifida            | https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp        | va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orange          |
+| File a SBHCP Claim                               | https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina-claim.asp  | http://va.gov/resources/how-to-file-a-claim-for-spina-bifida-or-other-birth-defects           |
+| Children of women vietnam veterans               | https://www.va.gov/COMMUNITYCARE/programs/dependents/cwvv/index.asp               | va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veterans |
+| Pharmacy benefits for CHAMPVA and other programs | https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/index.asp           | http://va.gov/resources/meds-by-mail-for-champva-and-other-programs                           |
+| MbM overview                                     | https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/meds-by-mail.asp    | http://va.gov/resources/meds-by-mail-for-champva-and-other-programs                           |
+| Meds covered by MbM                              | https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/MbM-medications.asp | http://va.gov/resources/prescription-medications-covered-through-meds-by-mail                 |
+
 
  
 
