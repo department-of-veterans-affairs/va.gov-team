@@ -65,40 +65,51 @@ ensure that all campaigns that VA creates have these minimum values for DEPO:
 </details>
 
 ### Stakeholder feedback
+(n) indicates the number of stakeholders who mentioned this feedback 
 
 **Hero banner panel**
-- intro needs expanded character count 
+- intro needs expanded character count (2)
+  - 3rd stakeholder indicated she usually does fine with existing limit but sometimes needs just another 4 or 5 characters
 - use of at least 1 CLP was not been approved by stakeholders because the segment is limited to a single CTA
-- stakeholders question the need for any CTA in this segment (although [original template requirements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/campaign-landing-page#the-template-requirements-are) are rigid with locations for primary and secondary CTAs)
+- stakeholders question the need for any CTA in this segment (although [original template requirements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/campaign-landing-page#the-template-requirements-are) are rigid with locations for primary and secondary CTAs) (2)
 
 **Why this matters**
-- needs expanded character count to fully provide context 
-- title can be perceived as insulting or presumptive - stakeholders recommend a change in title, a consideration for making it editable, or allowing editors to choose among group of titles
-- feels duplicative to have both `Why this matters` and `What you can do` - editors and stakeholders would like to be able to choose to use one of the two and allow these two segments to be reordered
-- Selection of audiences should not be required, should allow selection of more than 3, and list of choices needs to be expanded
+- needs expanded character count to fully provide context (2)
+  - 3rd stakeholder indicated she usually does fine with existing limit but sometimes needs just another 4 or 5 characters
+- title can be perceived as insulting or presumptive - stakeholders recommend a change in title, a consideration for making it editable, or allowing editors to choose among group of titles (1)
+- feels duplicative to have both `Why this matters` and `What you can do` - editors and stakeholders would like to be able to choose to use one of the two and allow these two segments to be reordered (2)
+- Selection of audiences should not be required (2), should allow selection of more than 3 (3), and list of choices needs to be expanded (3)
+  - Survivors as suggested audience
 
 **What you can do**
-- "promo" name is misleading and confusing to editors
-- editors need more than 3 promo boxes or the ability to add more than one of these segments
-- editors need the ability to reorder segments and/or to add more than one of a given segment type 
+- "promo" name is misleading and confusing to editors (2)
+- editors need more than 3 promo boxes or the ability to add more than one of these segments (3)
+  - 1 editor indicated she manipulates the sections to meet the need - sometimes a video can be put in a spotlight, it doesn't have to always be in the video section
+- editors need the ability to reorder segments and/or to add more than one of a given segment type (2)
 
 **Connect with us panel**
-- only includes four administrations (VBA, VHA, NCA or "VACO")
+- only includes four administrations (VBA, VHA, NCA or "VACO") 
 
 **Editorial workflow**
-- editors need to be able to preview as they create content (possibly for an individual segment)
-- editors need a way to navigate the page and move from segment to segment 
-- nesting of forms within forms is confusing 
-- link teasers should not always be required
+- editors need to be able to preview as they create content (possibly for an individual segment) (3)
+  - 1 editor mentioned it would be nice to preview without the need to first save as draft for efficiency and to keep down the number of revisions
+- editors need a way to navigate the page and move from segment to segment (1)
+- nesting of forms within forms is confusing (1)
+- link teasers should not always be required (2)
 
 **Other feedback**
-- need to be able to point to PDF via CTA
-- criteria for creation isn't clear and/or needs to be expanded for great use cases
+- 1 editor said she was initially put off by the rigidity of the template but has come to appreciate that it forces her to be concise and that it creates consistency
+- need to be able to point to PDF via CTA (1)
+- criteria for creation isn't clear and/or needs to be expanded for great use cases (1)
 - should be "VA.gov" rather than "VACO"
-- access should be available at VISN level or lower
-- would be good to get report of outcomes/metrics
-- forcing a CTA so earlier may be a disservice - sometimes more context/content is needed before a call to action is appropriate
-- may need to be less restrictive on PDFs - or make it easier to create a collection of resources (outreach hub?) and then point to it 
+- access should be available at VISN level or lower (1)
+- would be good to get report of outcomes/metrics (1)
+- forcing a CTA so earlier may be a disservice - sometimes more context/content is needed before a call to action is appropriate (1)
+- may need to be less restrictive on PDFs - or make it easier to create a collection of resources (outreach hub?) and then point to it
+- wish some sections were more flexible - currentlynow fill them all or turn them off
+
+**Tips and tricks shared by editors**
+- 1 editor searches VA news and then shares the link as a way to provide a pre-filtered search for "More stories"
 
 ### Questions
 - should CLPs be used to promote long-lasting/permanent content? Are they an entry point for content which is ultimately moved elsewhere (i.e., Resources and Support)?
