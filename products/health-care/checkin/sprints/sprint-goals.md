@@ -4,7 +4,7 @@
 <details>
 <summary>SPRINT 20 - 11/13/2024-11/26/2024 FUTURE TENTATIVE</summary>
 
-## SPRINT 19 - 10/30/2024-11/12/2024
+## SPRINT 20 - 11/13/2024-11/26/2024
 - **Production Support**
     - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/)
     - **Move to New AWS Instance**
