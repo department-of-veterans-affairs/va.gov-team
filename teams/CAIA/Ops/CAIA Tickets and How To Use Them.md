@@ -110,10 +110,11 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
   -  **Icebox** - issues that have been deprioritized with no clear timeline or next steps. These are tickets we will only check on a quarterly or yearly basis, so if you anticipate action sooner than that, or need to keep a closer eye on the issue and check it more frequently, better to keep it in Backlog or Blocked.
   -  **Backlog** - issues that are not currently being worked on, but are still relevant and should be pulled in in the foreseeable future
   -  **Blocked** - issues where work has been stopped for more than a week or two. This includes any ticket where the next step belongs to a person that is external to CAIA:
-    - Tickets that need a decision or review from a stakeholder/SME or OCTO PO
-    - Tickets where artifacts required to complete work are missing or incomplete
-    - Tickets that are blocked by normal pipeline process steps. For example, a piece of work going through the Collaboration Cycle that is waiting on a product team to finish research before we can help them make changes. There’s no blocker we need to remove, we’re just waiting for it to come back to us.
-    - Leave yourself assigned  so you can pick them up when they come back to you!
+
+     - Tickets that need a decision or review from a stakeholder/SME or OCTO PO
+     - Tickets where artifacts required to complete work are missing or incomplete
+     - Tickets that are blocked by normal pipeline process steps. For example, a piece of work going through the Collaboration Cycle that is waiting on a product team to finish research before we can help them make changes. There’s no blocker we need to remove, we’re just waiting for it to come back to us.
+     - Leave yourself assigned  so you can pick them up when they come back to you!
   -  **Ready** - issues have been refined, have next steps and assignees, and is ready to begin work on. It's ok if some work has been done already, by your discipline or another disclipine. Tickets here are what you are going to tackle next.
   -  **In Progress** - your current workload, things that you are actively focused on in the current week or two.
   -  **Validate** - once CAIA work is complete on an issue, the person responsible for it at that stage should fill out the custom fields and move the ticket to validate. Naomi will close and track the ticket in the capacity spreadsheet. Make a note in the ticket for any cases where a product or page is published but needs additional review to ensure there are no bugs, stakeholder changes, or followup from the product team/OCTO.
