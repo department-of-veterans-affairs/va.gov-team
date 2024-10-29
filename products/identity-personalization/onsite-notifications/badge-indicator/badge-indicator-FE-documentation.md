@@ -1,6 +1,6 @@
 # Badge indicator FE documentation - My VA Health Care inbox link implementation 
 
-**Last updated:** October 25, 2024 - Updated details for error handling.
+**Last updated:** October 29, 2024 - Removed note about content.
 
 This document outlines specs for implementing the badge indicator on the "Go to your inbox" link in the Health Care section on My VA. The link provides access the health care secure messaging inbox. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
@@ -27,8 +27,6 @@ This document outlines specs for implementing the badge indicator on the "Go to 
 A [slim warning 'alert' component](https://design.va.gov/components/alert/#warning-alert) will display instead of the "Go to your inbox" link of the health care section of My VA if there is an API/systems related error that prevents the count of unread messages from being displayed. It is expected that this would prevent the reading of messages in a user's inbox as well, but there may be edge case scenarios in which users _might_ be able to still read messages on MHV. After consultation with DSC, the decision was made to use a single warning alert that replaces the "go to your inbox" link with a catch-all message regardless of error code. 
 
 _(For uses outside of Health care and My VA, error messaging using alerts may make sense as well but could require a different pattern/component)._
-
-_Note that this content may need additional CAIA review._
 
 With some error scenarios, it's possible secure messaging access may still be possible, even if a count cannot be given.
 
