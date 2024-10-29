@@ -64,7 +64,7 @@ Before enabling your feature toggle in production, you'll need to:
 >
 >#### **Key Result #1:** A 25% reduction of user engagement time spent within the TERA questions
 >
->Data source - [Google Analytics (GA4) Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/dZ_qMurmRZiGKuFENIthOQ)
+>- Data source - [Google Analytics (GA4) Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/dZ_qMurmRZiGKuFENIthOQ)
 >
 >| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 >|------------- |---------|-------------- |-------------- |-------------- |
@@ -73,7 +73,7 @@ Before enabling your feature toggle in production, you'll need to:
 >
 >#### **Key Result #2:** An increase in users reporting toxic exposures
 >- Users who answer "Yes" to the Toxic Exposure questions
->Data source - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&refresh_mode=sliding&from_ts=1730212537721&to_ts=1730216137721&live=true)
+>- Data source - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&refresh_mode=sliding&from_ts=1730212537721&to_ts=1730216137721&live=true)
 >
 >| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 >|------------- |---------|-------------- |-------------- |-------------- |
@@ -87,7 +87,7 @@ Before enabling your feature toggle in production, you'll need to:
 >
 >#### **Key Result #3:** An increase in users completing the toxic exposures section
 >- Users who answer "Yes" to the Toxic Exposure questions and subsequently complete the section, moving on to the rest of the form
->Data source - 
+>- Data source - 
 >
 >| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 >|------------- |---------|-------------- |-------------- |-------------- |
