@@ -13,11 +13,6 @@ jobs:
     if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') && github.event.label.name == 'PO-Sync-approved'}}
     
     steps:
-
-    - name: Check if secret exists
-      if: "${{ secrets.GOV_TEAM_TOKEN != '' }}"
-      run: echo "Secret exists"
-
     - name: Checkout
       uses: actions/checkout@v4
 
