@@ -95,18 +95,21 @@
 
 
 #### Baseline KPI Values
-- Number of online Caregiver applications filled out per month:
+- Number of online Caregiver applications filled out per month
+     - Using the same timeframe of Jan 1, 2022 through Jan 25, 2023, there were about 77,000 applications submitted.
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective: Make it easier for Veterans with representatives to fill out the online form
-  - Key result: Reduce the number of applications that are misrouted or delayed (obtained from CSP leadership)
+  - Key result: Reduce the number of applications that are rerouted (obtained from CSP leadership)
+       - From Jan 1, 2022 through Jan 25, 2023, there were 5,496 CARMA cases rerouted to a different facility.
+       - At this time, there is no simple way to determine whether the case was rerouted at the Veteran/Caregiver request or due to having a non-caregiver supported facility on the form.
  
-|Invalid/Duplicate/Created in error| Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
+|Applications | Monthly Average Baseline (Jan 2022-Jan 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
-|Total Apps (rounded) | 384 | TBD | TBD |
-|Total Online Apps (rounded) | 222 | TBD | TBD |
+|Total Apps Rerouted | 423 | TBD | TBD |
+|Total Apps Submitted | 5,923 | TBD | TBD |
+
 
    - Key result: Maintain or reduce the amount of time a user selects a facility
 
