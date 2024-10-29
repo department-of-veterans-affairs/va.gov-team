@@ -89,10 +89,10 @@
     - ✔️ 🟥 [Create KPIs and ensure business alignment](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=80752456&issue=department-of-veterans-affairs%7Cva.gov-team%7C82894)
     - ✔️ 🟥 [Draft non-PHI email notification](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=81959797&issue=department-of-veterans-affairs%7Cva.gov-team%7C94170)
     - ✔️ 🟥 [Submit CAIA ticket to update CC page on unauth site for direct scheduling cc appts](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82484455&issue=department-of-veterans-affairs%7Cva.gov-team%7C94444)
-    - ⛔ 🟥 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
+    - ✔️ 🟥 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
       - Waiting for Kristen decision on whether we can move forward with Referrals and Requests page
     - ✔️ 🟥 [Update Figma annotations and mural user flow to communicate how we'll de-dupe Appts that aren't in vaos service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94998)
-    - 🟥🟪 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82814449&issue=department-of-veterans-affairs%7Cva.gov-team%7C94713)
+    - ✔️ 🟥🟪 [Fill out UAT tracker plan template that BAH/PMD provides](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82814449&issue=department-of-veterans-affairs%7Cva.gov-team%7C94713)
     - ✔️ 🟥[Error page for EPS submission call failed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95073)
         - Added 1 day after planning
     - 🟦 ~[CC Technical Documentation & Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94979)~
