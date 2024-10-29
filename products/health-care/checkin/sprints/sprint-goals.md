@@ -30,7 +30,8 @@
 - **Production Support**
     - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94768)
     - **Move to New AWS Instance**
-      - TBD
+      - 🟨 [[DevOps] Create Pull-Requests to Modify Vets-API DEV Infrastructure to Read Secrets from CHIP #712](https://github.com/department-of-veterans-affairs/checkin-devops/issues/712)
+      - 🟨 [[DevOps] Determine how to deploy changes to Dev Vets-API Applications Manifest and Platform EKS Dev Cluster #684](https://github.com/department-of-veterans-affairs/checkin-devops/issues/684)
 - **Community Care Direct Scheduling**
     - **Sprint Goals: FE - Set up mock data and begin updates to the Appointments page; BE - set up EPS appt service**
     - FE STEP 1 - Mock Data
