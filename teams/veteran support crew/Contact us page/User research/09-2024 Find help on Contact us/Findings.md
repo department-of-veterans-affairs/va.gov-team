@@ -232,7 +232,7 @@ Please see additional findings in [this separate GitHub doc](https://github.com/
 ### Add descriptions to phone numbers
 - **Hypothesis**: If we add descriptions to better explain the purpose of each VA phone number, then users will read the descriptions and understand which phone number can help them the most.
 - **Risks**: We know people primarily read headings to scan. Some people don't read body text. The Contact us page will also become longer if we continue added content to it.
-- **Mitigating risks**: Consider the Contact us page as a multi-page experience.
+- **Mitigating risks**: Consider the Contact us page as a multi-page experience. Or hide content through accordions, additional info, or other components.
 - **Measuring impact**: Clicks on phone number links 
 
 ### Update "Contact us online through Ask VA" heading
