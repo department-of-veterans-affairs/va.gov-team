@@ -28,7 +28,7 @@ jobs:
 
     - name: Run script
       env:
-        GITHUB_TOKEN: ${{ secrets.GOV_TEAM_TOKEN }}
+        GOV_TEAM_TOKEN: ${{ secrets.GOV_TEAM_TOKEN }}
         PROJECT_NUMBER: 998
         ISSUE_TITLE: ${{ github.event.issue.title }}
 
