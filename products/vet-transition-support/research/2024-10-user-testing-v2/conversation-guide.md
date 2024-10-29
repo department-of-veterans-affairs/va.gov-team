@@ -10,7 +10,7 @@
 - [ ] Step 2: Confirm the notetaker and any observers for the session
 
 ### Day of the session
-- [ ] Make sure you have the site link queued up to the “welcome” page. 
+- [ ] Make sure you have the [v2 Figma prototype link](https://www.figma.com/proto/4J2vqMA2VY6wqgcjvhF2aT/v2-Prototype-Design?node-id=6007-18932&node-type=frame&t=vgmFBizBbqVw0xJw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) queued up to the “welcome” page. 
 - [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - [ ] Mute your Slack notifications.
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
@@ -60,6 +60,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 2. How often do you use the VA.gov website?
 3. Why do you use the VA.gov website?
 
+4. Now we want to ask a few questions about potential names for our tool. As a reminder, our tool is designed to help Veterans and service members learn about benefits that might be relevant to their goals and service history.
+   - How do you feel about the name "Discover your benefits"?
+   - What about "Find your benefits" as an alternative option?
+   - Do you have any other ideas or thoughts about the title?
+
 ## Instructions for the upcoming tasks - 5 minutes
 
 Now I’m going to ask you to do some tasks using our product in development. As I mentioned before, completing these tasks will not affect your VA information or benefits in any way.
@@ -77,7 +82,7 @@ Finally, you can ask questions at any time.
 ## First Task: Completing the questionnaire - 10 minutes
 
 Great, now we’re going to start today’s activity. I’m going to share a link in the chat box – it’s the link for our product in development. Please open the site and share your screen.
-- *Send the site link, queued up to the “welcome” page.*
+- *Send the [v2 Figma prototype link](https://www.figma.com/proto/4J2vqMA2VY6wqgcjvhF2aT/v2-Prototype-Design?node-id=6007-18932&node-type=frame&t=vgmFBizBbqVw0xJw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1), queued up to the “welcome” page.*
 
 What you’re seeing is the welcome page for a questionnaire. This questionnaire will ask a few questions to help you find benefits and resources that might be helpful.
 
@@ -139,10 +144,6 @@ Thank you for doing these tasks. I have a few follow-up questions to ask about t
 - Was there anything on the site that confused you?
 - What would you want a guided tool to help you with, even if it wasn’t included in the site you saw today?  
 - Would a tool like this be helpful for you? Why or why not?
-- You may have noticed that the screens had the title "Discover your benefits."
-   - How do you feel about that title?
-   - What about "Find your benefits" as an alternative option?
-   - Do you have any other ideas or thoughts about the title?
 - Where would you expect to find a tool like this on the VA.gov website?
 - Do you have any questions for me? 
 
