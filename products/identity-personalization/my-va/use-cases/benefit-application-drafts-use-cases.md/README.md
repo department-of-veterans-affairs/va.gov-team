@@ -1,6 +1,6 @@
 # My VA: Benefit Applications Drafts Use Cases
 
-**Last updated:** October 29, 2024 - updated info related to changes from the form status enhancement
+**Last updated:** October 29, 2024 - fixed typo
 
 ## Overview of Benefit Applications and Forms Drafts:
 
@@ -18,7 +18,7 @@
 ## Edge cases:
 
 ### System:
-The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error (MVI error).
+The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error (MPI error).
 
 ## Flow diagrams:
 - [User flow for benefit application drafts on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7642&mode=design&t=CREOF8xG3jKa75nz-1)
