@@ -71,7 +71,30 @@ Before enabling your feature toggle in production, you'll need to:
 >|Avg Engagement time per session in the military section |3m 2s (182 seconds)| 2m 16s (136.5 seconds)  | TBD | TBD |
 >
 >
->#### **Key Result #2:** Reduction of Medallia feedback mentioning being asked irrelevant questions
+>#### **Key Result #2:** An increase in users reporting toxic exposures
+>- Users who answer "Yes" to the Toxic Exposure questions
+>Data source - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&refresh_mode=sliding&from_ts=1730212537721&to_ts=1730216137721&live=true)
+>
+>| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+>|------------- |---------|-------------- |-------------- |-------------- |
+>|Toxic Exposure reports |TBD| TBD  | TBD | TBD |
+>|Radiation Cleanup reports |TBD| TBD  | TBD | TBD |
+>|Gulf War Service reports |TBD| TBD  | TBD | TBD |
+>|Operations reports |TBD| TBD  | TBD | TBD |
+>|Agent Orange reports |TBD| TBD  | TBD | TBD |
+>|Other Toxins or Hazards reports |TBD| TBD  | TBD | TBD |
+>
+>
+>#### **Key Result #3:** An increase in users completing the toxic exposures section
+>- Users who answer "Yes" to the Toxic Exposure questions and subsequently complete the section, moving on to the rest of the form
+>Data source - 
+>
+>| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+>|------------- |---------|-------------- |-------------- |-------------- |
+>|Toxic Exposure section completions |TBD| TBD  | TBD | TBD |
+>
+>
+>#### **Key Result #4:** Reduction of Medallia feedback mentioning being asked irrelevant questions
 >
 >Data source - Monthly Medallia survey results
 >
