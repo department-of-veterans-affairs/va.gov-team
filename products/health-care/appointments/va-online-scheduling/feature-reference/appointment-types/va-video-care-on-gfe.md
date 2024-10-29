@@ -36,7 +36,7 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 Notes:
 1: 02/23/2024 - Requirement not yet met
 
-### Empty states
+### Empty states and Alerts
 
 The following service endpoint is called to retrieve all appointments:
 
@@ -90,10 +90,13 @@ Example JSON appointment object returned from API call.
 - When clinic name missing, display "Clinic not available'.
 - When current time is more than 30 minutes before the appointment time, the link is disabled
 - When current time is more than 4 hours after after the appointment time, the ink is disabled
-<img width="597" src="https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWw2Qnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac2a42322f077543f81bc5830acb90e5d639bae8/localhost_3001_my-health_appointments_10aa456vvs%20%281%29.png" alt="localhost_3001_my-health_appointments_10aa456vvs (1).png" />
+
+![image](https://github.com/user-attachments/assets/0b170c23-3df8-422e-8d92-d3540b11dd96)
+
 
 When there is no link to join the video, error is displayed
-<img width="521" src="https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXA2Qnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bf447a4f76dc0dc3ae24978e82c4335f09289618/localhost_3001_my-health_appointments_10aa456vvs.png" alt="localhost_3001_my-health_appointments_10aa456vvs.png" />
+![image](https://github.com/user-attachments/assets/4506c6f8-5aae-4380-a18b-1cba4aacd17d)
+
 
 
 ## Specifications
@@ -120,19 +123,6 @@ When there is no link to join the video, error is displayed
 
 [All events VAOS tracks](Link TBD)
 
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 <!-- Endpoints and sample responses -->
