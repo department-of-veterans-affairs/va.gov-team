@@ -3,7 +3,7 @@
 
 Created On: October 17, 2024
 
-Edited Last: October 22, 2024
+Edited Last: October 29, 2024
 
 ### Background
 Through the Veteran Transition Support (VTS) project, the Department of Veterans Affairs (VA) and Booz Allen Hamilton are working to help Veterans learn about available benefits, understand their eligibility, and begin the application process. The VTS teams aims to create a new, accessible, all-in-one prototype for Veteran benefit information that is helpful for current service members approaching separation and all Veterans regardless of the time since their separation. This prototype would clearly guide Veterans through the benefits discovery and eligibility check processes. The prototype will also provide comprehensive and accurate information about gathering required documentation, applying for benefits, and checking one’s application status.
@@ -12,7 +12,7 @@ The team began by conducting a research review of previous VA-funded projects th
 
 We conducted an initial round of user testing with Veterans and transitioning service members. Our initial user testing used the Figma prototype; we conducted this initial user testing before the underlying recommendation logic was finalized.
 
-While we gained significant insights from the initial user testing, we need to conduct additional testing to ensure the product’s recommendation logic and interactive features work properly. The VTS team’s developers have transformed the prototype into a product on the VA staging site. We will conduct this second round of user testing on the staging site.
+While we gained significant insights from the initial user testing, we need to conduct additional testing to ensure the product’s recommendation logic and interactive features work properly.
 
 #### OCTO Priorities 
 Our research supports the following  OCTO priorities
@@ -26,7 +26,7 @@ Our product will support Veterans at multiple stages of the [Veteran journey](ht
 ### Research Goals	
 Our research goals are the following:
 -	Understand how Version 2 of the Veterans Transition Support product starts to meet the needs of transitioning service-members and current Veterans
--	Test specific features in the Version 2 staging site: Skipping Questions, Review Answers Page, Sorting and Filtering, Etc.
+-	Test specific features in the Version 2 prototype: Skipping Questions, Review Answers Page, Sorting and Filtering, Etc.
 -	Determine expectations of users for the product
 -	Find out additional features & systems that can be added to VTS in future versions that is helpful to users
 
@@ -187,7 +187,7 @@ Are you currently a Commanding Officer?
 We plan to interview Veterans, TSMs, and COs over approximately a 2-week period (October 31st through November 13th). Dates are subject to move based on participant availability.
 
 #### Prepare
-We will be testing our product on the [VA staging site](https://staging.va.gov/benefit-eligibility-questionnaire/introduction).
+We will be testing our product on the [v2 Figma prototype](https://www.figma.com/proto/4J2vqMA2VY6wqgcjvhF2aT/v2-Prototype-Design?node-id=6007-18932&node-type=frame&t=vgmFBizBbqVw0xJw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1).
 
 We do want to hold a kickoff call with the Perigean team. Please email the following people to schedule a kickoff call:
 
@@ -268,3 +268,5 @@ Observers:
 - Gene Dreyband (408-921-4440; Yevgeny.Dreyband@va.gov)
 - Nicole Kontrabecki (443-360-6528; Nicole.Kontrabecki@va.gov)
 - Michelle Ortiz (843-209-5026; Michelle.Ortiz3@va.gov)
+- Laura Willwerth (Laura.Willerth@va.gov)
+- Kristion Ouellette Muscat (Kristin.OuelletteMuscat@va.gov)
