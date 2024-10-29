@@ -40,23 +40,97 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 **Notes:**
 1. Requirement not yet met 
 
+### Empty states and alerts
+
+It uses the following vets-api call to retrieve appointments:
+
+`/vaos/v2/appointments?_include=facilities,clinics&start=2024-03-27&end=2024-07-26&statuses[]=proposed&statuses[]=cancelled”`
+
+**Appointment Date and Time**
+`"localStartTime": "2024-07-20T17:00:00.000-06:00"`
+
+If localStartTime is missing, then the appointment does not show in the upcoming appointment list. Chances are it is slim the user can get to the appointment detail page. However, if the user bookmarks the appointment when it was functional, then it displays the following:
+
+**Type of Care**
+"serviceType": “outpatientMentalHealth" 
+
+If Type of care is missing then it will not show the “What [type of care]” section
+
+**Facility Name**
+`"name": "Cheyenne VA Medical Center"`,
+
+(1) If the appt contains the facilityId, it takes the id and matches it up again the facilityData that contains the facility information.
+
+(2) If the appt doesn’t contains the facilityId, it then looks at the appointment location property which contains the facility information.
+
+(3) No facility ID and no location info
+
+**Facility Address**
+
+(1) Assuming it is extracting from facilityData, the field address will be as follows:
+
+```
+facililtyData.[facilityId].address: {
+ "line": ["2509 Research Boulevard"],
+ "city": "Fort Collins",
+ "state": "CO",
+ "postalCode": "80526-8108"
+ }
+```
+ 
+(2) Assuming it is extracting from appointment data, field address
+will be as follows:
+
+```
+appointment.location.attributes.physicalAddress: {
+ "line": ["2509 Research Boulevard"],
+ "city": "Fort Collins",
+ "state": "CO",
+ "postalCode": "80526-8108"
+ }
+```
+
+
+**Facility Phone Number** 
+
+(1) Assuming it is extracting from facilityData:
+
+`facililtyData.[facilityId].telecom[0].value`
+
+(2) Assuming it is extracting from the appointment data:
+
+`location.attributes.phone.main: "970-224-1550"`
+
+**Clinic Name**
+
+(1) It initially looks for the field name “friendlyName”
+"friendlyName": "YOUR FRIENDLY MH CLINIC",
+
+(2) if “friendlyName” doesn’t exist then it looks for field name
+“serviceName”
+
+"serviceName": "YOUR FRIENDLY MH CLINIC",
+
+If either field names are unavailable, then displays
+
+**Location Name**
+
+`extension.clinic.physicalLocation: "PHYSICAL LOCATIION TESTING”,`
+
+**Veteran Reason For Appointment**
+
+"reasonCode": { "text": "reasonCode:ROUTINEVISIT|
+comments:VAOSR-7760" },
+if reasonCode doesn’t exist, then displays
+
 ## Specifications
 
 **User flows**
-- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
-- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
+- [Upcoming appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2925&t=kDXwMWn2YUhVmLLB-4)
+- [Past appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3497&t=kDXwMWn2YUhVmLLB-4)
 
 **UI design specs**
-- [Confirmed](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26448&mode=design&t=zfYBrRPZirDqa8uW-4)
-- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26544&mode=design&t=zfYBrRPZirDqa8uW-4)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26527&mode=design&t=zfYBrRPZirDqa8uW-4)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26536&mode=design&t=zfYBrRPZirDqa8uW-4)
-
-**Page content**
-- [Confirmed](../../content/appointment-details.md#va-in-person---confirmed)
-- [Upcoming](../../content/appointment-details.md#va-in-person)
-- [Past](../../content/appointment-details.md#va-in-person---past)
-- [Canceled](../../content/appointment-details#va-in-person---canceled)
+[In-person details pages](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-82609&t=gPsyz7IrtgxZbZss-4)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
@@ -71,20 +145,6 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 - Event 2
 
 [All events VAOS tracks](Link TBD)
-
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 <!-- Endpoints and sample responses -->
