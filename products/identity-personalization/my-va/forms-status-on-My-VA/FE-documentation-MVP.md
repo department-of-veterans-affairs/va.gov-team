@@ -1,5 +1,5 @@
-# Forms Status on My VA MVP Frontend Documentation
-**Last updated: October 15, 2024 - updated content for drafts only, forms only service failures**
+# Forms Status on My VA Frontend Documentation
+**Last updated: October 29, 2024 - removed "MVP" from title**
 
 _Note: The "Submit an intent to file (VA Form 21-0966)" form has been removed from MVP as of 10/10/24 due to the variability of statuses being displayed (depending on the use of Central Mail vs. VBMS, what a user chooses in the submission (Veteran vs. not). This will be added in the future._
 
