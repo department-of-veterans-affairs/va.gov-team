@@ -111,7 +111,7 @@ Next, I'm going to share a link to our prototype to get your feedback. Then I'll
 As I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans.
 
 
-> Send link in Zoom chat **(add link here)**
+> Send link in Zoom chat: https://noxious-monster-gjxjrxqrrgfqvw-3001.app.github.dev/mock-form-ae-design-patterns/2
 
 I've just sent the link in the Zoom chat. Do you see it? Can you open the link in the chat?
 
@@ -178,6 +178,8 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 - Where do you think your personal information is coming from?
 - What do you think of how your personal information is presented?
 - How would you update your information if some of it were incorrect?
+- Is there anything missing from this page that you would expect to see here?
+- [placeholder for questions about SSN style]
 
 > If they mention the additional info component:
  - What do you think the best place for that explanation is?
@@ -191,6 +193,7 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 > - Do they understand where the prefilled data is coming from?
 > - Do they notice and open the additional info component?
 > - Do they understand how to update uneditable information?
+> - Do they miss seeing the prefill alert on this page?
 
 Thank you for that feedback. Go ahead and move forward. Just note that this is a prototype and so we are skipping you to the end of the form for the sake of time. 
 
@@ -295,6 +298,7 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 - What do you think of how your personal information is presented?
 - How would you update your information if some of it were incorrect?
 - Do you have any thoughts about how that information about updating this data is presented to you?
+- [placeholder for questions about SSN style]
 
 > [!IMPORTANT]
 > Things to watch for:
@@ -418,6 +422,7 @@ Tell us what you are seeing on this screen and your initial thoughts before doin
 - What do you think of how your personal information is presented?
 - How would you update your information if some of it were incorrect?
 - Do you have any thoughts about how that information about updating this data is presented to you?
+- [placeholder for questions about SSN style]
 
 > [!IMPORTANT]
 > Things to watch for:
