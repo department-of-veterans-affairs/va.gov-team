@@ -12,7 +12,7 @@
 The External Referral Appointment Scheduling System is designed to automate and simplify the process of managing external referrals and scheduling appointments for veterans. It involves a nightly job to fetch and process referral data ~from Palantir~, secure storage of this data, veteran notifications, and a user-friendly workflow for veterans to schedule appointments based on these referrals. The system integrates with VA Notify for communications and EPS for appointment management.
 
 ## Scope
-- Implementation of a nightly job to fetch and process external referral data from Palantir
+- Implementation of a nightly job to fetch and process external referral data ~from Palantir~
 - Secure storage of referral data in a Postgres database
 - Integration with VA Notify for sending referral notifications to veterans
 - Development of a frontend interface for veterans to view referrals and schedule appointments
