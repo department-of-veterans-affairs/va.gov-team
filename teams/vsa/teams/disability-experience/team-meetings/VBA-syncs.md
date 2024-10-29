@@ -3,7 +3,7 @@ Goal of the meeting series: addressing policy related or other open questions fo
 
 ## 10/29/24 Biweekly VBA-DBEX Check-in
 ### Notes
-1. 0781 opt out flow - when veterans opt out of 0781, should we automatically delete the 0781 files that they uploaded as well?
+1. 0781 opt out flow - when veterans opt out of 0781, should we automatically delete the 0781 files that they uploaded as well? and 0781 treatment details?
 
 ## 10/01/24 Biweekly VBA-DBEX Check-in
 ### In attendance
