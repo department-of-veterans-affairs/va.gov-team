@@ -193,6 +193,7 @@ async function getItemId(projectId, title) {
 
 async function main() {
   try {
+    console.log('the length of the token is...', GOV_TEAM_TOKEN.length)
     const projectId = await getProjectId2();
     const { id: fieldId, options} = await getPOSyncField(projectId);
     const [{id: optionId}] = options.filter(option => option.name === 'Approved');
