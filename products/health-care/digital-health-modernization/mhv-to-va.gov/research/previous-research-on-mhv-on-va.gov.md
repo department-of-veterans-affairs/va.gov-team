@@ -18,6 +18,7 @@ Below is a list of research that has been carried out to develop and support the
 - [2022 Health Hub Tree Test - Navigating "get" vs. "manage" health benefits in Health Hub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2022-07-health-apt-tree-test-round1) (July 2022)
 
 ## Landing page research
+- [Landing page gap analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/gap-analysis-2024.md) (July 2024)
 - [Landing Page Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research) (March 2023)
 
 ## Secure Messaging research
