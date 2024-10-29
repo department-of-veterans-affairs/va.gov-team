@@ -46,7 +46,7 @@ See [Connected Care: VA and ATLAS](https://connectedcare.va.gov/partners/atlas)
 Notes:
 1: 02/23/2024 - Requirement not yet met
 
-### Empty states
+### Empty states and alerts
 
 From ticket [69850](https://app.zenhub.com/workspaces/appointments-fe-ux-5fff340c2d80a4000fb6f69c/issues/gh/department-of-veterans-affairs/va.gov-team/69850)
 
@@ -94,20 +94,6 @@ Note that we don't display "Modality" and "Veteran Reason For Appointment". Thes
 - Event 2
 
 [All events VAOS tracks](Link TBD)
-
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 <!-- Endpoints and sample responses -->
