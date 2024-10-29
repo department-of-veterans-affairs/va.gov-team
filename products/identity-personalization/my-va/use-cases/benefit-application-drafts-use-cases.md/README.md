@@ -1,6 +1,6 @@
 # My VA: Benefit Applications Drafts Use Cases
 
-**Last updated:** February 15, 2024 - added Figma link
+**Last updated:** October 29, 2024 - updated info related to changes from the form status enhancement
 
 ## Overview of Benefit Applications and Forms Drafts:
 
@@ -8,6 +8,7 @@
 - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
 - This feature shows a card for any benefit applications that a user has started and saved but not yet submitted, or text stating that the user has no benefit application drafts.
   - Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
+- An 'accordion' component with information pertaining to tracking benefit application and form statuses is visible at the bottom of this section unless an error is preventing the display of forms.
 
 ## Common use cases:
 
@@ -17,7 +18,7 @@
 ## Edge cases:
 
 ### System:
-The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error.
+The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error (MVI error).
 
 ## Flow diagrams:
 - [User flow for benefit application drafts on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7642&mode=design&t=CREOF8xG3jKa75nz-1)
