@@ -98,7 +98,7 @@ This section contains field data that is important for filtering and tracking is
 # Ticket Status
 The ticket status shows where work is in the CAIA pipeline and provides an overview of what's actually happening across the team. The status corresponds to which swim line the ticket will appear in on the [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1))(and task board) view in Github Projects. We use two sets of statuses for the two different ticket types:
 
-## Intake status:
+## Intake status
   -  **New Intakes** - this is where all new work comes into the board. When you create a ticket and add the sitewide-caia label, it will automatically appear here.
   -  **Intakes in Refinement** - Intakes that have been viewed by the Delivery Lead/Product Manager, but need more followup (feedback from OCTO, additional information from the requesting team, etc.)
   -  **Intakes in Progress** - Intakes where work has started and work tickets are moving through the swimlanes. 
@@ -106,7 +106,7 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
   -  **Epics** - used to group tickets related to the same product. Epics themself do not usually contain any direct work, rather they are a bucket for related intakes or work tickets where individual work is being tracked.
   -  **Closed** - all the work tickets related to the intake are complete, so the intake has been closed.
 
-## Work ticket status:
+## Work ticket status
   -  **Icebox** - issues that have been deprioritized with no clear timeline or next steps. These are tickets we will only check on a quarterly or yearly basis, so if you anticipate action sooner than that, or need to keep a closer eye on the issue and check it more frequently, better to keep it in Backlog or Blocked.
   -  **Backlog** - issues that are not currently being worked on, but are still relevant and should be pulled in in the foreseeable future
   -  **Blocked** - issues where work has been stopped for more than a week or two. This includes any ticket where the next step belongs to a person that is external to CAIA:
