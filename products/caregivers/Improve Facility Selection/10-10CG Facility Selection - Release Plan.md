@@ -64,22 +64,53 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Desired date range: [FILL_IN]
 - How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
 
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
+---
+## Measuring Success
 
-### Stage A: Canary
 
-*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
+### Key Performance Indicators (KPIs)
+
+- User feedback (Medallia)
+- Feedback from CSCs on misrouted applications
+
+#### Baseline KPI Values
+- Number of online Caregiver applications filled out per month
+     - Using the timeframe of Jan 1, 2022 through Jan 25, 2023, there were about 77,000 applications submitted.
+
+### Objective: Make it easier for Veterans with representatives to fill out the online form
+#### Key result: Reduce the number of applications that are rerouted (obtained from CSP leadership)
+- From Jan 1, 2022 through Jan 25, 2023, there were 5,496 CARMA cases rerouted to a different facility.
+   - At this time, there is no simple way to determine whether the case was rerouted at the Veteran/Caregiver request or due to having a non-caregiver supported facility on the form.
+- Data Source: Caregiver Stakeholder team and [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true)
+ 
+|Applications | Monthly Average Baseline (Jan 2022-Jan 2023)| Target | 1 Month after launch|
+|--------|-----------------------|----------|--------------------|
+|Total Apps Rerouted | 423 | TBD | TBD |
+|Total Apps Submitted | 5,923 | TBD | TBD |
+
+
+#### Key result: Maintain or reduce the amount of time a user selects a facility
+- Data Source: [Google Analytics - CG Facility page views & time](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
+
+|Average time on page |Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
+|--------|-----------------------|----------|--------------------|
+|Search page| 55 seconds |TBD|TBD|
+|Confirmation page |NEW|TBD|TBD|
+
+
+- Links to the dashboard(s) showing traffic and errors metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true)
+- Who is monitoring the dashboard(s)?: Heather Justice & Luis Simauchi
+---
+
+### Stage A: Canary - 10% of users
+
 
 #### Planning
 
 - Length of time: 11/4-11/6 - 2 days
-- Percentage of Users (and roughly how many users do you expect this to be): 10%, approximately 65 page views
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 10%, approximately 65 page views per day
 
 #### Results
 
@@ -88,15 +119,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+---
 
 ### Stage B: 25% of users
 
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time:
+     - 11/6/2024
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 25%, about 162 users per day
 
 #### Results
 
@@ -105,15 +137,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+---
 
 ### Stage C: 50% of users
 
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
+- Length of time:
+     - 11/7/2024-11/12/2024
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 50%, about 325 users per day
 
 #### Results
 
@@ -122,15 +155,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+---
 
-### Stage D: 75% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
+### Stage D: 100% of users
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
+- Length of time:
+     - 11/12/2024
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 100%, about 650 users per day
 
 #### Results
 
@@ -139,21 +173,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage E: 100% of users
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+---
 
 ## Post Launch metrics
 
