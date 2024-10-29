@@ -66,19 +66,19 @@
 
 ## SPRINT 18 - 10/16/2024-10/29/2024
 - **Production Support**
-    - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
+    - ✔️ ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93425)
     - **Move to New AWS Instance**
       - 🟨 [[DevOps] Wrap LoROTA event handler bodies in `try... catch` blocks.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/583)
       - 🟨 [[DevOps] LoROTA should include error in Datadog tracing information.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/600)
       - 🟨 [[DevOps] Figure out how to connect to MAP or onboard or whatever we need to do.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/612)
       - 🟨 [Renew `vista-api-int` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/674)
-      - 🟨 [Remove `vista-api-dev` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/678)
+      - ✔️ 🟨 [Remove `vista-api-dev` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/678)
       - ✔️ 🟨 [[DevOps] Create and Apply Dev env DB Parameter Group with Vulnerability Remediation Parameter Configuration](https://github.com/department-of-veterans-affairs/checkin-devops/issues/704)
       - ✔️ 🟨 [[DevOps] Install pgcrypto Extension on vista-api-dev](https://github.com/department-of-veterans-affairs/checkin-devops/issues/579)
       - ✔️ 🟨 [[DevOps] Remediate High vista-api-dev Findings by Updating DB Engine to 14.13](https://github.com/department-of-veterans-affairs/checkin-devops/issues/547)
 - **Community Care Appointment Scheduling**
     - **DEADLINE IS END OF YEAR**  
-    - 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=80759582&issue=department-of-veterans-affairs%7Cva.gov-team%7C91576)
+    - ✔️ 🟥 [Review diagram reqs for interconnection between va.gov and EPS](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=80759582&issue=department-of-veterans-affairs%7Cva.gov-team%7C91576)
     - ✔️ 🟥 [Create KPIs and ensure business alignment](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=80752456&issue=department-of-veterans-affairs%7Cva.gov-team%7C82894)
     - ✔️ 🟥 [Draft non-PHI email notification](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=81959797&issue=department-of-veterans-affairs%7Cva.gov-team%7C94170)
     - ✔️ 🟥 [Submit CAIA ticket to update CC page on unauth site for direct scheduling cc appts](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2362496&pane=issue&itemId=82484455&issue=department-of-veterans-affairs%7Cva.gov-team%7C94444)
@@ -95,7 +95,7 @@
     - ✔️ 🟩🟦 [Create ALL Tickets Needed to Complete this Feature for FE & BE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95003) 
 - **Travel for OH**
     - **DEADLINE IS END OF YEAR**  
-    - 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
+    - ✔️ 🟩 [Remove paragraph content below success alert](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93512)
     - ⛔ ⏱️ 🟧 [For OH Benefits & Travel, add new error message for 404 (PILOT RELEASE END OF OCT) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3870)
         - FYI We are waiting on this VeText ticket before we pilot; **B1930 is down until end of November**
 - **Travel Claims for Past Appts - Web**
@@ -126,7 +126,7 @@
     - ✔️ 🟪 [Send Tagalog Screenshots to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94997)
     - ✔️ 🟩 [[FE] Update Pre-Check-in to Address Drop in Usage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94164)
     - ✔️ 🟩 [Update want to file a bt claim page in eCheck-in app with CC content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94605)
-    - 🟥 [Create UX onboarding documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2327217&pane=issue&itemId=83339991)
+    - ✔️ 🟥 [Create UX onboarding documentation](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/10?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2327217&pane=issue&itemId=83339991)
 
 ## SPRINT 17 - 10/2/2024-10/15/2024
 - **Production Support**
