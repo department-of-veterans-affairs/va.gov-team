@@ -16,7 +16,7 @@
     - **Sprint goal is to finish this by the end of the year**
     - TBD
 - **Check in with staff after checking in**
-    - TBD
+    - 🟩 [Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96034)
 - **Research Cards & Their Headers**
     - TBD
 - **Tech Debt & Analytics**
@@ -45,12 +45,17 @@
         - 🟦 [Implement ClaimsToken class (using the pattern for Lorota::ClaimsToken)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96001)
         - 🟦 [Implement RedisClient: Implement #save method to save the access_toke #96002](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114168&issue=department-of-veterans-affairs%7Cva.gov-team%7C96002)
         - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114223&issue=department-of-veterans-affairs%7Cva.gov-team%7C96003)
+- **Travel Claims for Past Appts - Web**  
+    - Rolled over from last sprint
+        - 🟩 [[FE] - Modify appointments api call to retrieve travel claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
+        - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Check in with staff after checking in**
     - 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)
     - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95473)
     - 🟥 [Design Intent - IA Feedback - Modernized Check-in, eCheck-in, Check in with MSAs after eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95736)
     - 🟥 [Design Intent - Accessibility Feedback - Modernized Check-in, eCheck-in, Check in with MSAs after eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95751)
+    - 🟥 [[DESIGN] Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95964)
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
     - 🟥 [Create readme doc for appointment details page research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95000)
@@ -95,8 +100,8 @@
         - FYI We are waiting on this VeText ticket before we pilot; **B1930 is down until end of November**
 - **Travel Claims for Past Appts - Web**
   - **DEADLINE IS END OF YEAR**  
-    - 🟩 [[FE] - Modify appointments api call to retrieve travel claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
-    - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
+    - 🚧 🟩 [[FE] - Modify appointments api call to retrieve travel claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
+    - 🚧 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Medication Wording for Appointments - VAHB**
     - **DEADLINE IS END OF YEAR**  
     - ✔️ ⬛ [Update Medication Wording for Appointments | Claim Exam](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9764) 
