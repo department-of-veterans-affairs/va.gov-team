@@ -21,10 +21,7 @@ In [our last study](https://github.com/department-of-veterans-affairs/va.gov-tea
 We've researched current instances of this pattern [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722538218743/e8a34db6e16086f9122fd2e0927edf5607bfa273?sender=u44efa807e992cacf10cf3697) so far. 
 
 In this study, we'll test some these variations:
-
-
-
-* Display style of both locked and editable data sets (new “review style” versus gray card versus white card)
+* Display style of both uneditable and editable data sets (new “review style” versus gray card versus white card)
 * Asking users where they prefer to save updated data (profile and form versus form only versus letting users choose between the profile or form)
 * A new format to the review page, with and without editable data
 * Including headers in the prefill alert or not
