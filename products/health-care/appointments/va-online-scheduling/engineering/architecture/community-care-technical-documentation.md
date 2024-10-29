@@ -215,6 +215,10 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 * GET `/vaos/v2/appointment` (existing)
 * POST `/vaos/v2/appointment` (existing)
 
+## Removing duplicates and preventing duplicates of referrals
+- A duplicate referral refers to a referral that has already been entered into our system. The incoming referral ID will match an existing referral ID in our postgress DB. This is likely a referral that hasn't been scheduled into an appointment yet. See blow for existing appointment
+- An existing appointment refers to an appointment that has been made with a referral ID, that referral ID matches to a "new" referral, which means it was already made. We can also possibly hold referrals in our DB and mark them as "completed" or "referral made" in the same manner, after the user has completed making an appointment with a referral
+- Expired referrals are referrals whose end date has expired, regardless of if an appointment exists or not
 
 ## Data Retention Policy
 
