@@ -22,6 +22,11 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 | % respondents able to complete their task	|	3%	|	4%	|	6%	|	6%	|	6%	|	6%	|	23%	| | | 
 | % overall satisfaction	|	2.12%	|	2.28%	|	2.25%	|	2.31%	|	2.23%	|	2.11%	|	2.13%	| | | 
 
+Average combined experience score
+
+![image](https://github.com/user-attachments/assets/dfc31a08-24fe-45cf-bdf1-5c835bd125f7)
+
+
 ## VAMC editor and facility stats
 |	Metric| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -33,13 +38,16 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 
 ## Summary data
 
-|	Metric| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|	Unique users	|	1,131,378	|	1,242,502	|	1,332,982	|	1,297,523	|	1,331,023	|	1,340,938	 | 	1,268,055	 | | |
-|	Total interactions    	|	1,585,767	|	1,784,288	|	1,925,043	|	1,807,007	|	1,860,168	|	1,876,171	 | 	1,778,682	 | | |
-|	Total unique pageviews	|	2,439,472	|	3,217,095	|	2,892,442	|	2,810,241	|	2,872,481	|	2,880,172	 | 	2,647,086	 | | |
+|	Metric | 	Dec-23	 | 	Jan-24	 | 	Feb-24	 | 	Mar-24	 | 	Apr-24	 | 	May-24	 | 	Jun-24	 | 	Jul-24	 | 	Aug-24	 | 	Sep-24	 | Oct-24		 | 	Nov-24		 | Dec-24		 |
+|	---| 	:---:	 | 	:---: | 	:---:	 | 	:---: | 	:---:	 | 	:---:| 	:---:	 | 	:---:	 | 	:---: | 	:---:	 | :---:	 | 	:---: | :---: |
+|	Unique users	 | 	1,131,378	 | 	1,242,502	 | 	1,332,982	 | 	1,297,523	 | 	1,331,023	 | 	1,340,938	 | 	 1,268,055 	 | 		 | 		 | 		 | 	
+| Total users (GA4)	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	1,464,135	 | 	1,330,661	 | 		 | 		 | 		 | 			
+|	Total interactions	 | 	1,585,767	 | 	1,784,288	 | 	1,925,043	 | 	1,807,007	 | 	1,860,168	 | 	1,876,171	 | 	 1,778,682 	 | 		 | 	17,921,422	 | 		 | 		 | 		 |	
+|	Event count (GA4)	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	17,921,422	 | 	13,909,079	 | 		 | 		 | 		 |
+|	Total unique pageviews	 | 	2,439,472	 | 	3,217,095	 | 	2,892,442	 | 	2,810,241	 | 	2,872,481	 | 	2,880,172	 | 	 2,647,086 	 | 		 | 		 | 		 | 		  	
+| Total pageviews (GA4)	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	 4,563,289	 | 	 3,647,711	 | 		 | 		 | 		 |
 
-|	Metric| January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
+|	Pageviews for selected pages | January 2024 | February 2024	| March 2024 | April 2024 | May 2024 | June 2024 | July 2024 | August 2024 | September 2024 
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |	 Contact us 	|	 35,885 	|	 46,253 	|	 42,387 	|	 39,082 	|	 42,085 	|	40,769	 | 	36,508 | | |
 |	 Location and contact information 	|	 31,515 	|	 39,671 	|	 36,985 	|	 35,033 	|	 37,147 	|	36,279	 | 35,058	|||
@@ -49,54 +57,45 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 
 ## User statistics
 
-|	Attribute	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24| June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|	Desktop 	|	46.3%	|	48.4%	|	48.2%	|	47.4%	|	47.50%	|	46.90%	 | 	46.30%	 | 
-|	Mobile	|	52.3%	|	50.3%	|	50.5%	|	51.3%	|	51.10%	|	51.90%	 | 	52.50%	 | 
-|	New users 	|	65.0%	|	65.0%	|	65.0%	|	64.0%	|	64.0%	|	65%	 | 	64%	 | 62%
-|	Returning users  	|	35.0%	|	35.0%	|	35.0%	|	36.0%	|	36.0%	|	35%	 | 	36%	 | 38% 
-|	User interaction rate  	|	37%	|	38%	|	26%	|	25%	|	36%	|	36%	 | 	37%	 | 
-|	Average scroll depth     	|	52.20%	|	68.90%	|	67.30%	|	68.50%	|	58%	|	58%	 | 	60.30%	 | 
-|	Average clicks per user  	|	0.82	|	0.85	|	0.48	|	0.46	|	0.83	|	0.85	 | 	0.88	 | 
+|	Metrics | 	Dec-23	 | 	Jan-24	 | 	Feb-24	 | 	Mar-24	 | 	Apr-24	 | 	May-24	 | 	Jun-24	 | 	Jul-24	 | 	Aug-24	 | 	Sep-24	 | Oct-24		 | 	Nov-24		 | Dec-24		 |
+|	---| 	:---:	 | 	:---: | 	:---:	 | 	:---: | 	:---:	 | 	:---:| 	:---:	 | 	:---:	 | 	:---: | 	:---:	 | :---:	 | 	:---: | :---: |
+|	Desktop 	 | 	46.3%	 | 	48.4%	 | 	48.2%	 | 	47.4%	 | 	47.50%	 | 	46.90%	 | 	46.30%	 | 		 | 		 | 		 | 		 | 		 | 		 | 
+|	Mobile	 | 	52.3%	 | 	50.3%	 | 	50.5%	 | 	51.3%	 | 	51.10%	 | 	51.90%	 | 	52.50%	 | 		 | 	 | 	| 		 | 		 | 		 | 
+|	New users 	 | 	65.0%	 | 	65.0%	 | 	65.0%	 | 	64.0%	 | 	64.0%	 | 	65%	 | 	64.00%	 | 		 | 	63%	 | 	65%	 | 		 | 		 | 		 | 		  	
+|	Returning users  	 | 	35.0%	 | 	35.0%	 | 	35.0%	 | 	36.0%	 | 	36.0%	 | 	35%	 | 	36.00%	 | 		 | 	37%	 | 	42%	 | 		 | 		 | 		 | 		  		
+|	User interaction rate 	 | 	37%	 | 	38%	 | 	26%	 | 	25%	 | 	36%	 | 	36%	 | 	37.00%	 | 		 | 	 | 	| 		 | 		 | 		 | 
+|	Engagement rate (GA4) 	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	65%	 | 	63%	| 		 | 		 | 		 | 			
+|	Average scroll depth     	 | 	52.20%	 | 	68.90%	 | 	67.30%	 | 	68.50%	 | 	58%	 | 	58%	 | 	60.30%	 | 		 | 	 | 	| 		 | 		 | 		 | 
+|	Average clicks per user  	 | 	0.82	 | 	0.85	 | 	0.48	 | 	0.46	 | 	0.83	 | 	0.85	 | 	88.00%	 | 		 | 	 | 	| 		 | 		 | 		 | 
+|	Views per session	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	2.5	 | 	1.93	 | 		 | 		 | 		 | 	
+|	Average session duration	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	3ms 28 sec	 | 	3m 21s	 | 		 | 		 | 		 | 		
 
 ### Top health services at system level
 (based on click interactions on accordions)
 Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.domo.com/page/426422632)
 
-|	System health service	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24	| June-24
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
-|	Addiction and substance use care	|			 801 	 | 	 918 	 | 	 830 	 | 	 765 	 | 	 721 	 | 	661	 | 
-|	Audiology and speech	|			 1,621 	 | 	 1,417 	 | 	 1,362 	 | 	 1,362 	 | 	 1,185 	 | 	1,137	 | 
-|	Cardiology 	|			 970 	 | 	 953 	 | 	 888 	 | 	 957 	 | 	 784 	 | 	731	 | 
-|	Caregiver support	|			 1,307 	 | 	 1,154 	 | 	 1,054 	 | 	 1,157 	 | 	 1,042 	 | 	917	 | 
-|	Dental/oral surgery 	|			 2,054 	 | 	 1,857 	 | 	 1,732 	 | 	 1,637 	 | 	 1,356 	 | 	1,424	 | 
-|	Dermatology	|			 497 	 | 	 508 	 | 	 511 	 | 	 543 	 | 	 424 	 | 	471	 | 
-|	Emergency care 	|			 965 	 | 	 976 	 | 	 869 	 | 	 779 	 | 	 785 	 | 	898	 | 
-|	Geriatrics	|			 942 	 | 	 810 	 | 	 763 	 | 	 854 	 | 	 729 	 | 	666	 | 
-|	Homeless Veteran care	|			 972 	 | 	 884 	 | 	 851 	 | 	 847 	 | 	 794 	 | 	692	 | 
-|	Laboratory and pathology 	|			 1,105 	 | 	 1,056 	 | 	 1,004 	 | 	 1,063 	 | 	 920 	 | 	894	 | 
-|	Mental health care 	|			 2,655 	 | 	 2,659 	 | 	 2,425 	 | 	 2,369 	 | 	 2,157 	 | 	1,969	 | 
-|	Minority Veteran care	|			 570 	 | 	 530 	 | 	 540 	 | 	 557 	 | 	 473 	 | 	452	 | 
-|	My HealtheVet coordinator	|			 742 	 | 	 695 	 | 	 681 	 | 	 733 	 | 	 607 	 | 	584	 | 
-|	Neurology	|			 745 	 | 	 807 	 | 	 742 	 | 	 678 	 | 	 655 	 | 	650	 | 
-|	Ophthalmology	|			 732 	 | 	 652 	 | 	 590 	 | 	 597 	 | 	 506 	 | 	551	 | 
-|	Optometry	|			 1,223 	 | 	 1,219 	 | 	 1,068 	 | 	 1,019 	 | 	 1,030 	 | 	986	 | 
-|	Orthopedics 	|			 628 	 | 	 608 	 | 	 574 	 | 	 572 	 | 	 560 	 | 	524	 | 
-|	Patient advocates	|			 1,034 	 | 	 1,016 	 | 	 965 	 | 	 934 	 | 	 844 	 | 	754	 | 
-|	Pharmacy 	|			 1,151 	 | 	 1,001 	 | 	 1,099 	 | 	 1,098 	 | 	 990 	 | 	867	 | 
-|	Physical medicine and rehabilitation	|			 644 	 | 	 607 	 | 	 517 	 | 	 581 	 | 	 510 	 | 	448	 | 
-|	PT, OT, KT	|			 802 	 | 	 850 	 | 	 786 	 | 	 774 	 | 	 696 	 | 	619	 | 
-|	Podiatry 	|			 673 	 | 	 608 	 | 	 645 	 | 	 634 	 | 	 546 	 | 	518	 | 
-|	Primary care 	|			 3,268 	 | 	 3,016 	 | 	 2,855 	 | 	 2,959 	 | 	 2,625 	 | 	2,555	 | 
-|	PTSD care	|			 702 	 | 	 718 	 | 	 617 	 | 	 614 	 | 	 581 	 | 	505	 | 
-|	Radiology	|			 874 	 | 	 866 	 | 	 830 	 | 	 882 	 | 	 792 	 | 	695	 | 
-|	Rehabilitation and extended care	|			 1,205 	 | 	 1,150 	 | 	 1,046 	 | 	 1,087 	 | 	 1,008 	 | 	925	 | 
-|	Social work	|			 1,307 	 | 	 1,202 	 | 	 1,174 	 | 	 1,142 	 | 	 1,044 	 | 	1,002	 | 
-|	Surgery	|			 611 	 | 	 644 	 | 	 582 	 | 	 571 	 | 	 572 	 | 	560	 | 
-|	Telehealth 	|			 697 	 | 	 659 	 | 	 572 	 | 	 609 	 | 	 520 	 | 	475	 | 
-|	Urgent care 	|			 648 	 | 	 604 	 | 	 606 	 | 	 571 	 | 	 538 	 | 	514	 | 
-|	Whole health 	|			 1,407 	 | 	 1,232 	 | 	 1,199 	 | 	 1,214 	 | 	 1,044 	 | 	954	 | 
-|	Women Veteran care	|			 1,111 	 | 	 968 	 | 	 1,033 	 | 	 986 	 | 	 832 	 | 	838	 | 
+|	Top health services at system level	|	Dec-23	|	Jan-24	|	Feb-24	|	Mar-24	|	Apr-24	|	May-24	|	Jun-24	|	Jul-24	|	Aug-24	|	Sep-24	|
+|	---| 	:---:	 | 	:---: | 	:---:	 | 	:---: | 	:---:	 | 	:---:| 	:---:	 | 	:---:	 | 	:---: | 	:---:	 | 
+ | 	 Addiction and substance abuse care 	 | 	 1,035 	 | 	 1,085 	 | 	 1,022 	 | 	 1,132 	 | 	 1,227 	 | 	 1,022 	 | 	 927 	 | 	 1,538 	 | 	 1,576 	 | 	 1,574 	 | 
+ | 	 Audiology and speech 	 | 	 2,402 	 | 	 2,893 	 | 	 2,787 	 | 	 2,643 	 | 	 3,072 	 | 	 2,777 	 | 	 2,439 	 | 	 3,144 	 | 	 3,438 	 | 	 3,120 	 | 
+ | 	 Cardiology 	 | 	 1,277 	 | 	 1,345 	 | 	 1,435 	 | 	 1,333 	 | 	 1,542 	 | 	 1,371 	 | 	 1,153 	 | 	 1,808 	 | 	 1,706 	 | 	 1,708 	 | 
+ | 	 Caregiver support 	 | 	 891 	 | 	 1,190 	 | 	 977 	 | 	 1,044 	 | 	 1,208 	 | 	 954 	 | 	 842 	 | 	 2,200 	 | 	 2,250 	 | 	 2,044 	 | 
+ | 	 Dental/oral surgery 	 | 	 2,419 	 | 	 2,848 	 | 	 2,685 	 | 	 2,593 	 | 	 3,205 	 | 	 2,802 	 | 	 2,327 	 | 	 3,112 	 | 	 3,308 	 | 	 3,050 	 | 
+ | 	 Homeless Veteran care 	 | 	 1,157 	 | 	 1,214 	 | 	 1,135 	 | 	 1,124 	 | 	 1,340 	 | 	 1,148 	 | 	 1,100 	 | 	 1,644 	 | 	 1,604 	 | 	 1,632 	 | 
+ | 	 Laboratory and pathology 	 | 	 2,847 	 | 	 3,111 	 | 	 3,278 	 | 	 3,580 	 | 	 4,354 	 | 	 3,558 	 | 	 3,307 	 | 	 2,288 	 | 	 2,390 	 | 	 2,178 	 | 
+ | 	 Mental health care 	 | 	 4,484 	 | 	 5,086 	 | 	 5,173 	 | 	 5,272 	 | 	 5,945 	 | 	 5,137 	 | 	 4,539 	 | 	 5,168 	 | 	 4,834 	 | 	 4,574 	 | 
+ | 	 Optometry 	 | 	 1,695 	 | 	 1,934 	 | 	 1,811 	 | 	 1,848 	 | 	 2,217 	 | 	 1,933 	 | 	 1,746 	 | 	 2,444 	 | 	 2,668 	 | 	 2,354 	 | 
+ | 	 Patient advocates 	 | 	 1,192 	 | 	 1,461 	 | 	 1,314 	 | 	 1,364 	 | 	 1,580 	 | 	 1,394 	 | 	 1,218 	 | 	 1,794 	 | 	 1,832 	 | 	 1,818 	 | 
+ | 	 Pharmacy 	 | 	 1,955 	 | 	 2,044 	 | 	 1,983 	 | 	 2,058 	 | 	 2,204 	 | 	 2,131 	 | 	 1,820 	 | 	 2,060 	 | 	 1,932 	 | 	 1,992 	 | 
+ | 	 Physical therapy, occupational therapy and kinesiotherapy 	 | 	 1,153 	 | 	 1,340 	 | 	 1,441 	 | 	 1,309 	 | 	 1,506 	 | 	 1,251 	 | 	 1,082 	 | 	 1,138 	 | 	 1,112 	 | 	 1,078 	 | 
+ | 	 Primary care 	 | 	 7,538 	 | 	 8,346 	 | 	 8,382 	 | 	 8,129 	 | 	 9,642 	 | 	 8,110 	 | 	 7,191 	 | 	 6,008 	 | 	 5,968 	 | 	 5,886 	 | 
+ | 	 PTSD care 	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	 1,162 	 | 	 1,140 	 | 	 1,102 	 | 
+ | 	 Radiology 	 | 	 1,362 	 | 	 1,527 	 | 	 1,619 	 | 	 1,617 	 | 	 1,763 	 | 	 1,606 	 | 	 1,482 	 | 	 1,882 	 | 	 1,868 	 | 	 1,750 	 | 
+ | 	 Social work 	 | 	 1,742 	 | 	 2,018 	 | 	 1,964 	 | 	 2,114 	 | 	 2,071 	 | 	 1,871 	 | 	 1,715 	 | 	 2,444 	 | 	 2,278 	 | 	 2,256 	 | 
+ | 	 Telehealth  	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	 1,148 	 | 	 1,070 	 | 	 986 	 | 
+ | 	 Urgent care  	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	 1,278 	 | 	 1,320 	 | 	 1,342 	 | 
+ | 	 Whole health  	 | 		 | 		 | 		 | 		 | 		 | 		 | 		 | 	 2,678 	 | 	 2,534 	 | 	 2,646 	 | 
+ | 	 Women Veteran care 	 | 	 1,494 	 | 	 1,833 	 | 	 1,786 	 | 	 1,758 	 | 	 1,946 	 | 	 1,676 	 | 	 1,524 	 | 	 3,085 	 | 	 1,914 	 | 	 2,148 	 | 
 
 
 ### Top health services at facility level
