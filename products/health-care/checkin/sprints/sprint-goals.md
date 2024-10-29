@@ -57,7 +57,6 @@
     - 🟥 [[DESIGN] Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95964)
 - **Research Cards & Their Headers**
     - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
-    - 🟥 [Create readme doc for appointment details page research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95000)
 - **Tech Debt & Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94769)
     - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
