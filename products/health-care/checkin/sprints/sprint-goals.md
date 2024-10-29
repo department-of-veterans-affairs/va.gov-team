@@ -31,7 +31,8 @@
     - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94768)
     - **Move to New AWS Instance**
       - TBD
-- **Community Care Direct Scheduling**    
+- **Community Care Direct Scheduling**
+    - **Sprint Goals: FE - Set up mock data and begin updates to the Appointments page; BE - set up EPS appt service**
     - FE STEP 1 - Mock Data
         - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
         - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
@@ -44,11 +45,13 @@
         - 🟦 [Implement ClaimsToken class (using the pattern for Lorota::ClaimsToken)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96001)
         - 🟦 [Implement RedisClient: Implement #save method to save the access_toke #96002](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114168&issue=department-of-veterans-affairs%7Cva.gov-team%7C96002)
         - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114223&issue=department-of-veterans-affairs%7Cva.gov-team%7C96003)
-- **Travel Claims for Past Appts - Web**  
+- **Travel Claims for Past Appts - Web**
+    - **Sprint Goals: Finish FE work knowing we are blocked with integrating with BE**
     - Rolled over from last sprint
         - 🟩 [[FE] - Modify appointments api call to retrieve travel claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
         - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Check in with staff after checking in**
+    - **Sprint Goals: Conduct unmoderated study and address design intent feedback**
     - 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)
     - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95473)
@@ -56,6 +59,7 @@
     - 🟥 [Design Intent - Accessibility Feedback - Modernized Check-in, eCheck-in, Check in with MSAs after eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95751)
     - 🟥 [[DESIGN] Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95964)
 - **Research Cards & Their Headers**
+    - **Sprint Goals: finish the research presentation and present**
     - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
 - **Tech Debt & Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94769)
