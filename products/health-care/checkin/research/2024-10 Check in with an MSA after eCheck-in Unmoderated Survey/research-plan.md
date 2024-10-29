@@ -73,8 +73,8 @@ This research will be conducted as an unmoderated survey study using Optimal Wor
 The tests will be conducted online at the participant’s leisure.
 
 ### Research Materials
-- Survey link - Version 1 (for Group 1)
-- Survey link - Version 2 (for Group 2)
+- [Survey link - Version 1](https://dj540s05.optimalworkshop.com/questions/4043d036909c7ea5a2f33dbc99ad1de4) (for Group 1)
+- [Survey link - Version 2](https://dj540s05.optimalworkshop.com/questions/69f615416b6bb02d55ea4a9b9b2f7ee9) (for Group 2)
 - Survey outline
 
 ## Recruitment
