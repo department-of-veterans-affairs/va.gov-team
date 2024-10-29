@@ -2,7 +2,7 @@ const axios = require('axios');
 const axiosRetry = require('axios-retry');
 
 const {
-  GITHUB_TOKEN,
+  GOV_TEAM_TOKEN,
   GITHUB_REPOSITORY,
   PROJECT_NUMBER,
   ISSUE_TITLE
@@ -14,7 +14,7 @@ const [owner, _] = GITHUB_REPOSITORY.split('/');
 const axiosInstance = axios.create({
   baseURL: 'https://api.github.com/graphql',
   headers: {
-    Authorization: `Bearer ${GITHUB_TOKEN}`,
+    Authorization: `Bearer ${GOV_TEAM_TOKEN}`,
     'Content-Type': 'application/json'
   }
 });
