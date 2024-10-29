@@ -212,12 +212,12 @@ Okay, now go ahead and select that link.
 - Anything exciting, interesting, or new that stands out? 
 - Anything particularly confusing? 
 
-### Coherts: 
+### Cohorts: 
 - Participants **Secure messages** and **Meds**
 - Participants **Secure messages** and **Appointments**
 - Participants see **Medications** and **Appointments**
 
-### Cohert 1: Secure messages to Medications 
+### Cohort 1: Secure messages to Medications 
 
 Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
 
@@ -239,7 +239,7 @@ Thank you for showing me that.
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger section of Medications?/How would you get back to where you came from?
 
-### Cohert 2: **Secure messages** and **Appointments** 
+### Cohort 2: **Secure messages** and **Appointments** 
 
 Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
 
@@ -259,7 +259,7 @@ Thank you for showing me that.
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
 
-### Cohert 3: **Medications** and **Appointments**
+### Cohort 3: **Medications** and **Appointments**
 
 Let’s say you needed a refill on a prescription that you are running low on. How would you do that? 
 - What are you thinking as you (_go somewhere, do something_)?/What are you looking for 
