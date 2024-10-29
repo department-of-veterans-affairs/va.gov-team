@@ -269,4 +269,4 @@ Observers:
 - Nicole Kontrabecki (443-360-6528; Nicole.Kontrabecki@va.gov)
 - Michelle Ortiz (843-209-5026; Michelle.Ortiz3@va.gov)
 - Laura Willwerth (Laura.Willerth@va.gov)
-- Kristion Ouellette Muscat (Kristin.OuelletteMuscat@va.gov)
+- Kristin Ouellette Muscat (Kristin.OuelletteMuscat@va.gov)
