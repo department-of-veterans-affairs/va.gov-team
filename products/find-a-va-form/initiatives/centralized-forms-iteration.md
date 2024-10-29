@@ -17,7 +17,8 @@ Four years later, the existing benefit-centric IA cannot meet the needs of the c
 ## Outcome Summary
 
 The goals of this iteration are
-- to create a centralized place for all digitized forms that eliminates the need to categorize them by benefit
+- to create a centralized place for all digitized forms and form-related tasks (i.e. form search, pdf download, pdf upload, online completion)
+- to eliminate the need to categorize by benefit or create unique spaces (i.e. /supporting-forms-for-claims/) for each new group of forms
 - to eliminate the duplication of content that exists for benefit applications between the form detail page (about pg), the how to apply page, and the introduction pages of the online forms
 - to reduce the number of pages fighting for search ranking 
 - to allow for growth of and wider contribution to the digital forms space
@@ -115,6 +116,18 @@ Answers to the following questions will influence the next iteration
 
 ## Measuring Success
 
+### Desirable user outcomes
+- Improved time to find and use forms
+- Reduced cognitive load by eliminating the need to understand how a form relates to the benefit hub IA to know where to go to find it
+- Increased findability of forms and form related tasks by having a single common location that all entry points lead to and can be easily bookmarked for return visits
+- Improved and simplified search results by reducing the number of pages competing for ranking for the same form
+
+### Desirable business outcomes
+- Reduced maintenance of duplicative content
+- Reduced need for IA maintenance (i.e. form movement) as the site and digitized forms space grows
+- Increased "self-service" placement by providing a simplified IA structure and related guidance on placement of digitized forms within the experience
+- Increased ability for wider contribution to the digital forms space
+- Decreased number of search best bets needed to highlight the most valid option in search
 
 
 
@@ -124,6 +137,7 @@ Answers to the following questions will influence the next iteration
 
 
 ### Artifacts
+- OCTO epic: [Centralized online forms #1160](https://github.com/orgs/department-of-veterans-affairs/projects/940/views/18?filterQuery=portfolio%3A%22OCTO+Digital+Experience%22+crew-%2F-pod%3A%22Content%2C+IA%2C+Editor+Experience%22&pane=issue&itemId=75354026&issue=department-of-veterans-affairs%7Cdigital-experience-products%7C1160)
 
 
 
