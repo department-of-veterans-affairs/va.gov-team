@@ -14,7 +14,7 @@ As part of improvements to the PCI experience, we’ll be piloting Veteran-facin
 This study aims to get Veteran feedback on UI and content changes to three pages within the online Check-in process, which will inform future interactions of these pages ahead of the pilot.
 
 ### OCTO Priorities
-The mileage-only travel reimbursement feature in Appointments on VA.gov aligns with the following OCTO-DE Priorities:
+The Check in with an MSA after eCheck-in initiative aligns with the following OCTO-DE Priorities:
 - Objective 1: Our digital experiences are the best way to access VA health care and benefits.
 
 ### Veteran Journey
