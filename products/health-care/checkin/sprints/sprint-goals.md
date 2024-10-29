@@ -50,6 +50,7 @@
         - 🟦 [Implement ClaimsToken class (using the pattern for Lorota::ClaimsToken)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96001)
         - 🟦 [Implement RedisClient: Implement #save method to save the access_toke #96002](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114168&issue=department-of-veterans-affairs%7Cva.gov-team%7C96002)
         - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/orgs/department-of-veterans-affairs/projects/1323/views/1?sliceBy%5Bvalue%5D=department-of-veterans-affairs%2Fva.gov-team%2395999&pane=issue&itemId=85114223&issue=department-of-veterans-affairs%7Cva.gov-team%7C96003)
+    - 🟫 [SPIKE: Do we need an empty state when there are no referrals on the new Referrals and requests page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94443)
 - **Travel Claims for Past Appts - Web**
     - **Sprint Goals: Finish FE work knowing we are blocked with integrating with BE**
     - Rolled over from last sprint
