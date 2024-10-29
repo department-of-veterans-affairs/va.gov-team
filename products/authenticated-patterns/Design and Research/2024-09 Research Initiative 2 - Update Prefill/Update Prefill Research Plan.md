@@ -11,7 +11,6 @@
 - [Approved by](#approved-by)
 - [Appendix](#appendix)
 
-
 # Background
 
 Many applications on VA.gov prefill existing information from user profiles upon sign in. This saves Veterans time and effort in completing tasks, like applications or other forms. Our team reviews current and potential design patterns to improve implementation guidance. We want to make it easier for VFS teams to implement patterns and make implementation more consistent.
@@ -30,7 +29,6 @@ In this study, we'll test some these variations:
 
 [View our product brief.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/authenticated-patterns/patterns/update-prefilled-information)
 
-
 ### OCTO Objectives and Veteran Journey
 
 This work supports [OCTO Objective 3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md): Our people are empowered with the knowledge and resources they need to make a sustained impact.
@@ -41,8 +39,6 @@ Because this design pattern can be used in many forms and digital products, the 
 ## Research Goals	
 
 Goals for this research include:
-
-
 
 * Understand the format that users expect to see prefilled information (“review style” versus gray or white cards)
 * Understand if users expect to see their uneditable data in a different format than their editable data
@@ -58,8 +54,6 @@ Goals for this research include:
 
 We will synthesize the data from this study and create a summary report of our learnings. This research will inform decisions around these two patterns our team is refining:
 
-
-
 * [Help users to... Know when their information is prefilled](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/17)
 * [Help users to... Update prefilled information](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/22)
 
@@ -70,22 +64,16 @@ This research will help us refine these patterns and present recommendations for
 
 *Goal 1: Understand user expectations around what the prefill alert should look like across different pages.*
 
-
-
 * Does the alert on the unauthenticated form intro page entice users to login?
 * Does including a header in the alert or bolding where the updates will save impact perception or comprehension of the alert?
 
 *Goal 2: Understand how users expect their prefilled data to be displayed across the whole form.*
-
-
 
 * What do each of the 3 display options (“review style” versus gray or white card)  communicate to users?
 * Which display option is most clear?
 * Which option enables them to most easily edit their prefilled data?
 
 *Goal 3: Understand users’ expectations around why certain data can be edited within their profile and other data cannot.*
-
-
 
 * How do they feel about the ability to edit some data but not others?
 * Do they expect to see a different style of prefill data depending on if it is editable or not?
@@ -94,14 +82,10 @@ This research will help us refine these patterns and present recommendations for
 
 *Goal 4: Understand if users want or need a confirmation step before submitting forms with prefilled data.*
 
-
-
 * Do users expect to see uneditable prefill data on the review page?
 * Do users want to see the additional info component explaining why they can’t update this data on the review page or not?
 
 *Goal 5: Understand how users expect the edit process to work and where they expect their edits to get saved.*
-
-
 
 * Where do they think the new information gets saved (profile versus form)?
 * Would they ever want to choose where this information gets saved? 
@@ -109,8 +93,6 @@ This research will help us refine these patterns and present recommendations for
 
 
 ### Hypotheses
-
-
 
 1. The unauthenticated prefill alert will entice users to sign in to complete their form.
 2. The gray and white card combination will be the preferred style of reviewing prefilled information.
@@ -131,17 +113,12 @@ We will hold the research sessions remotely on Zoom.
 
 ### Research materials
 
-
-
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Prefill%20Research%20Study%20Convo%20Guide.md)
 * [Prototype](x)
 * [Designs](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3387-40809&t=jtwiX2vPAhxYW6U0-1)
 
-	
-
 
 ## Recruitment
-
 
 ### Recruitment approach
 
@@ -154,8 +131,6 @@ We are looking for 8 Veterans to participate in this study. We’ll use a lean m
 
 We will recruit 12 Veterans for:
 
-
-
 * **minimum** of 5 non-AT users
 * **minimum** of 3 AT users
 * **minimum** of 2 sessions with screen reader users
@@ -167,7 +142,6 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 #### **Cohort 1: Non-AT users**
 
 We will recruit 7 Veterans to complete a **minimum** of 5 sessions. Half of them should be willing to join the study from their mobile devices.
-
 
 <table>
   <tr>
@@ -221,13 +195,11 @@ We will recruit 7 Veterans to complete a **minimum** of 5 sessions. Half of them
 </table>
 
 
-
 #### **Cohort 2: Screen reader users**
 
 We will recruit 3 Veterans who use screen readers to complete a **minimum** of 2 sessions. They should be daily users of screen readers.
 
 We'd like to recruit people who use a mix of different screen readers, such as,[ NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenreaders).
-
 
 <table>
   <tr>
@@ -297,13 +269,11 @@ We'd like to recruit people who use a mix of different screen readers, such as,[
 </table>
 
 
-
 #### **Cohort 3: Screen magnification users**
 
 We will recruit 2 Veterans who use screen magnification to complete a **minimum** of 1 session. They should state that they always use screen magnification on VA.gov.
 
 We'd like to recruit people who use a mix of different screen magnification software, such as,[ ZoomText, ZoomText Fusion, Magnifier (Windows) and Zoom (Apple)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenmagnification).
-
 
 <table>
   <tr>
@@ -365,22 +335,15 @@ We'd like to recruit people who use a mix of different screen magnification soft
 </table>
 
 
-
 ### Screener Questions
 
-
 #### **Non-AT users**
-
-
 
 1. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet.
     * Yes
     * No
 
-
 #### **Screen reader users**
-
-
 
 1. Do you need to use a screen reader to access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
     * Yes
@@ -412,8 +375,6 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 #### **Screen magnification users**
 
-
-
 1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
     * Yes
     * No
@@ -435,7 +396,6 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 
 ## Timeline
-
 
 <table>
   <tr>
@@ -478,7 +438,6 @@ Nov 15th - 20th for AT users
 </table>
 
 
-
 ### Prepare
 
 **When will the thing you are testing be finalized?**
@@ -486,8 +445,6 @@ Nov 15th - 20th for AT users
 Tuesday, October 29th
 
 **Pilot session information**
-
-
 
 * Pilot participants: 
     * Beth Pandone (non-AT session)
@@ -508,15 +465,12 @@ Second round - AT users - week of November 15th - 20th
 
 ### Length of sessions
 
-
-
 * Session length: 1 hour for non-AT users, 1.5 hours for AT users
 * Buffer time between sessions: 30 minutes
 * Maximum sessions per day: 3
 
 
 ### Availability
-
 
 <table>
   <tr>
@@ -584,12 +538,9 @@ Second round - AT users - week of November 15th - 20th
 </table>
 
 
-
 ## Team Roles
 
 Below is the list of the people serving in each role and their contact information:
-
-
 
 * Moderator: Christine Steiffer & Kristen Faiferlick
 * Research guide writing and task development: Christine Steiffer
@@ -616,35 +567,26 @@ Shane Strassberg, VA Research Ops, on:
 ### Variations we’re testing per task:
 
 **Task Orange**
-
-
-
 * The unauthenticated sign in alert
 * In prefill alerts, header is not included
 * In prefill alerts, “Note:” is bolded
-* ‘How to change this information’ additional info component
-* Prefilled information in the new “review style” for both editable and locked data
-* Users only save changes to the form
-* Review page and editing from there
-* Edit page contains multiple pieces of editable content 
+* Social Security number is masked except for the last 4 digits
+* “How to change this information” is displayed in an Additional Information component, with updated language explaining why we don’t allow updates to personal information
+* Prefilled information is presented in the new “review style” for both editable and uneditable data
+* Users can only save changes to the form
+* Users make changes to the mailing address from the review page
 
 **Task Gray**
-
-
-
 * In prefill alerts, header is not included
-* In prefill alerts, sentence about where changes are saved is bolded
-* Updated language explaining why we don’t allow updates to personal information
-* Prefilled information (address, specifically) presented in new white review card for both editable and uneditable data
-* Only allow users to save to their profile
+* In prefill alerts, the sentence about where changes are saved is bolded
+* “How to change this information” is displayed in a text string, with updated language explaining why we don’t allow updates to personal information
+* Prefilled information (address, specifically) is presented in new white review card for both editable and uneditable data
+* Users must save changes to the form and their their profile
 
 **Task Blue**
-
-
-
 * In prefill alerts, header is included
 * In prefill alerts, there is no “Note:”
-* Updated language explaining why we don’t allow updates to personal information
-* Prefilled information (address, specifically) presented in gray card for locked data and white review card for editable data
-* Allow users to choose if they save to their profile or only the form (default to their profile)
-* Edit page contains one piece of editable content
+* Social Security number only displays the last 4 digits
+* “How to change this information” is displayed in a text string, with updated language explaining why we don’t allow updates to personal information
+* Prefilled information (address, specifically) is presented in gray card for uneditable data and white review card for editable data
+* Users can choose if they save changes to their profile or only the form
