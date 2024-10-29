@@ -47,9 +47,10 @@ It uses the following vets-api call to retrieve appointments:
 `/vaos/v2/appointments?_include=facilities,clinics&start=2024-03-27&end=2024-07-26&statuses[]=proposed&statuses[]=cancelled”`
 
 **Appointment Date and Time**
+
 `"localStartTime": "2024-07-20T17:00:00.000-06:00"`
 
-If localStartTime is missing, then the appointment does not show in the upcoming appointment list. Chances are it is slim the user can get to the appointment detail page. However, if the user bookmarks the appointment when it was functional, then it displays the following:
+If localStartTime is missing, then the appointment does not show in the upcoming appointment list. Chances are it is slim the user can get to the appointment detail page. However, if the user bookmarks the appointment when it was functional, then it displays `Invalid date` in place of the date.
 
 **Type of Care**
 "serviceType": “outpatientMentalHealth" 
@@ -59,11 +60,11 @@ If Type of care is missing then it will not show the “What [type of care]” s
 **Facility Name**
 `"name": "Cheyenne VA Medical Center"`,
 
-(1) If the appt contains the facilityId, it takes the id and matches it up again the facilityData that contains the facility information.
+(1) If the appt contains the `facilityId`, it takes the id and matches it up again the `facilityData` that contains the facility information.
 
-(2) If the appt doesn’t contains the facilityId, it then looks at the appointment location property which contains the facility information.
+(2) If the appt doesn’t contains the `facilityId`, it then looks at the appointment location property which contains the facility information.
 
-(3) No facility ID and no location info
+(3) No facility ID and no location info, it shows an empty state.
 
 **Facility Address**
 
@@ -90,7 +91,6 @@ appointment.location.attributes.physicalAddress: {
  }
 ```
 
-
 **Facility Phone Number** 
 
 (1) Assuming it is extracting from facilityData:
@@ -111,7 +111,7 @@ appointment.location.attributes.physicalAddress: {
 
 "serviceName": "YOUR FRIENDLY MH CLINIC",
 
-If either field names are unavailable, then displays
+If either field names are unavailable, then displays clinic and location as "Not available"
 
 **Location Name**
 
@@ -121,7 +121,7 @@ If either field names are unavailable, then displays
 
 "reasonCode": { "text": "reasonCode:ROUTINEVISIT|
 comments:VAOSR-7760" },
-if reasonCode doesn’t exist, then displays
+if reasonCode doesn’t exist, then displays reason and details as "Not available"
 
 ## Specifications
 
