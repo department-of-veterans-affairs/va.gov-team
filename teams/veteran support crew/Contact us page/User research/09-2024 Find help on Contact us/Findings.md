@@ -242,7 +242,7 @@ Please see additional findings in [this separate GitHub doc](https://github.com/
 - **Measuring impact**: Clicks on Ask VA link
 
 ### Add VA secure messaging
-- **Hypothesis**: If we add a link to VA secure messaging, then users will know where to send health-care related messages.
+- **Hypothesis**: If we add a link to VA secure messaging, then users will know where to send messages to their VA health care team.
 - **Risks**: The Contact us page will become longer if we continue added content to it. People may think they can ask questions that their care team can't answer. People may choose VA secure messaging rather than Ask VA when Ask VA is more appropriate. 
 - **Mitigating risks**: Consider the Contact us page as a multi-page experience. Clarify the distinction between Ask VA and VA secure messaging.
 - **Measuring impact**: Clicks to VA secure messaging
