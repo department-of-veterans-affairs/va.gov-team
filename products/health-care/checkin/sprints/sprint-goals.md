@@ -23,9 +23,6 @@
     - TBD
 </details>
 
-<details>
-<summary>SPRINT 19 - 10/30/2024-11/12/2024 FUTURE TENTATIVE</summary>
-
 ## SPRINT 19 - 10/30/2024-11/12/2024
 - **Production Support**
     - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94768)
@@ -69,7 +66,6 @@
 - **Tech Debt & Analytics**
     - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94769)
     - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
-</details>
 
 ## SPRINT 18 - 10/16/2024-10/29/2024
 - **Production Support**
