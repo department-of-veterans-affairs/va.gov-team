@@ -1,11 +1,11 @@
 # My VA Benefit Applications and Forms Use Case: User has no benefit application drafts saved
 
-**Last updated:** July 31, 2024 - added new Figma links and section title
+**Last updated:** October 29, 2024 - added more details to reflect form status enhancements
 
 For LOA3 users who sign in and have no benefit application drafts saved, they will see text stating that they have no benefit application drafts to show.
 
 ## UX
-- Any logged in LOA3 user can see the Benefit applications and forms section on My VA.
+- Any logged in LOA1 or LOA3 user can see the Benefit applications and forms section on My VA.
 - When a user does not have any saved benefit application drafts, they will see text below the dropdown that says “You have no benefit application drafts to show.”
 - A user will also see an accordion component that is titled "If you can't find your application or form", with explanation as to why a user may not see their form appear in this section.
 - [Desktop mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=1231-49126&t=TWmq9bh0GmkgDdwH-1)
