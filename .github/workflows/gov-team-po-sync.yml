@@ -15,7 +15,9 @@ jobs:
     steps:
 
     - name: Check if secret exists
-      if: "${{ secrets.GOV_TEAM_TOKEN != '' }}"
+      env:
+        SECRET_EXISTS: ${{ secrets.GOV_TEAM_TOKEN }}
+      if: "${{ env.SECRET_EXISTS != '' }}"
       run: echo "Secret exists"
 
     - name: Checkout
