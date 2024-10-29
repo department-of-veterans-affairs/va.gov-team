@@ -31,8 +31,7 @@
     - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94768)
     - **Move to New AWS Instance**
       - TBD
-- **Community Care Direct Scheduling**
-    - **Sprint Goal is to understand how to get referral data from Palantir**    
+- **Community Care Direct Scheduling**    
     - FE STEP 1 - Mock Data
         - 🟩 [Mock data for referrals (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95262)
         - 🟩 [Mock data for Provider availability (happy & error paths)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95263)
