@@ -74,14 +74,11 @@ I’ve started recording. I'd like to confirm again: **Are you comfortable if I 
 - How often do you login? 
 - For what purpose?
 
-2. If does not mention My HealtheVet,
-- What about with My HealtheVet? 
+2. **If does not mention My HealtheVet**, What about with My HealtheVet? 
 - How often do you login? 
 - For what purpose?
 
-   
 **Note why participants typically log in to VA.gov and MHV - to be used later in the study** 
-
 
 ## <a name="set-up"></a> Set up & sign-in (10 minutes)
 
@@ -108,21 +105,14 @@ Thanks for answering those questions. I want to transition us to exploring the s
 
 - Thanks! Now I’m able to see your screen. I see [describe window].
 
-- Next, I'm going to ask you to go to the My HealtheVet website.
+- Next, I'm going to ask you to go to the My HealtheVet website. I can post the URL in the chat [https://www.myhealth.va.gov/mhv-portal-web/home]
 
-- Can you show me how you would get to My HealtheVet?
-
-Optional probes - very flexible, adapt as appropriate depending on participant behavior:
-What are you thinking as you (go somewhere, do something)?
-Is that what you would typically do to get to My HealtheVet? 
-(If use search functionality): Please tell me why you searched for that term? What information were you hoping it would bring up?
-(If participant gets stuck and unable to find My HealtheVet) It looks like you're not finding the site. 
- What would you do at this point? (If participant says they would call or use resources outside of VA.gov) 
-Great [Chat the participant link to MHV National Portal]
+_Send them or say https://www.myhealth.va.gov/mhv-portal-web/home
+- In your browser please enter "https://www.myhealth.va.gov/mhv-portal-web/home"
 
 - Okay, now, I'll ask you to sign in on this website. 
 
-- Looks like you are signed in! 
+- It looks like you are signed in! 
 
 ## <a name="mhv-classic"></a>My HealtheVet Classic (15 minutes)
 
