@@ -1,7 +1,7 @@
 # QA Plan - Community Care Direct Scheduleing  
 
 ## Functional Testing
-- [Test Cases]()
+- [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/cc-direct-scheduling-test-cases.md)
 - TestRail
   - [Test Plan]()
       - [Product Test Run]()
