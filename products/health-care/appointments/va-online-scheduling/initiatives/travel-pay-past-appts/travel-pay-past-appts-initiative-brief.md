@@ -73,7 +73,7 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
         - It is one of these in-person appointment types:
             - In-person appointment
             - In-person vaccine appointment
-            - Video at a VA facility appointment- 
+            - Video at a VA facility appointment 
 - If the selected appointment is eligible for a mileage-only travel claim, Veteran can choose one of these actions    
     - If no claim has yet been filed for the selected appointment date and facility, Veteran can choose to submit a claim
         - System navigates the Veteran to the new online mileage-only BT claim form 
