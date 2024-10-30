@@ -54,3 +54,18 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
   - See content that says a claim has already been filed for this appointment
   - Choose link **Check your claim status** to navigate to the new Travel Claim Status tool
   - Select the claim and view the status
+
+#### Use Case 3 - Missing Deadline
+- **Configuration**
+  - Test user should have a VA in person appointment scheduled for over 30 days ago and for which a travel reimbursement claim has not been submitted for the appointment date & facility
+
+- **Test Steps**
+  - Navigate to [Staging](http://staging.va.gov/?next=loginModal&oauth=true)
+  - Log in using ID.me and one of the [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
+  - Click Continue
+  - Click Continue
+  - Navigate to **VA Benefits and Health Care** -> **Health care** -> **Schedule and manage health appointments**
+  - Choose **Go to appointments on VA.gov**
+  - Click link **Past** to navigate to past appointments
+  - Click link **Details** for an in-person or video at VA appointment for which a mileage-only travel claim has already been submitted
+  - See content that indicates that the Veteran missed the deadline for filing; along with a link to learn about how to file
