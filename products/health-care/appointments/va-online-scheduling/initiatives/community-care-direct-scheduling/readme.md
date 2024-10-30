@@ -98,13 +98,16 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 Extrapolated from [CC VDSS SoPs](https://dvagov-my.sharepoint.com/:w:/g/personal/robert_meehan3_va_gov/ETsqC2BnBwJGiJuFsrBzdHABjHqlpcjoWh2TdN1lrKEB1g?e=aNMiDe): 
 
-| KPI | Source |
+**TO DO - let's tighten this up before we show it to anyone**
+
+Lori will put down some thoughts; Anita is setting up a meeting to discuss
+
+| Pilot KPIs | Source |
 |----- | ------- |
-| Number of scheduled VDSS appointments | VAOS backend service |
+| Number of scheduled VDSS appointments via VA.gov | VAOS backend service |
 | Number of scheduled appointments in EPS | Appointments submitted to EPS from vets-api |
 | Customer/Veteran Experience | CSAT from Medallia a11 survey on confirmation page and responses from feedback button usage on scheduling workflow pages on VA.gov | 
 | Total number of authorized CC PT referrals | New referrals received from VAOS backend service that are unfiltered based on patient scheduling preference |
-| Number of authorized CC PT referrals the Veteran chose to digital self-schedule | New referrals received from VAOS backend service that Veteran chose to Veteran digital self-schedule, not including "self-schedule" or other field values |
 | Time between Veteran choosing VDSS to when they Self-Schedule | Time from referral authorization, received from VAOS backend service, to booked appointment in EPS |
 | Number of error detections between referral authorization and booked appointment in EPS | Error detections by type between referral authorization, received from VAOS backend service, to booked appointment in EPS |
 
