@@ -60,6 +60,9 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
 ### User Flow
 [User Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722263210448/33062955940eb08d097dbd88a8dc98488ac2ffcc?sender=uc584f7fcc9a5090000259578)
 
+### Wireframes
+[Wireframes](https://www.figma.com/design/RzugGEmu4drhCSHTyQ6hjl/Simple-mileage-only-travel-pay-claim-submission?node-id=2135-3&node-type=canvas&t=nTKuyiruyK0ah1Z6-0)
+
 ### Solution Steps
 - Veteran navigates to past appointments on VA.gov
 - Veteran chooses a past appointment and navigates to the appointment details for the selected appointment
@@ -80,9 +83,6 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
     - Travelled from Veteran's on-file home address?
 - Veteran chooses to submit the form
 - System submits a mileage-only travel reimbursement claim for the selected appointment date & facility for the Veteran
-
-### Wireframes
-[Wireframes](https://www.figma.com/design/RzugGEmu4drhCSHTyQ6hjl/Simple-mileage-only-travel-pay-claim-submission?node-id=2135-3&node-type=canvas&t=nTKuyiruyK0ah1Z6-0)
 
 ## Launch Planning
 - [Collaboration Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89153)
