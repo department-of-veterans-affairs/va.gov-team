@@ -9,24 +9,21 @@ assignees: ''
 
 **Note:** this ticket should not be submitted until after you receive access to the appropriate repos. You will receive an email titled “USAccess PIV Sponsored” when your access is ready.
 
-## Welcome and Introduction
+## Welcome and introduction
 Welcome to the Department of Veterans Affairs (VA) Veteran Facing Services (VFS) team!
 
 As a new VFS team member, you will be working in the web ecosystem we call the VA.gov Platform (or "**The Platform,**" for short).  The tasks on this list are designed to get you up to speed on the role of Platform, making it easier for you to do your job.
 
 Because the VA is a huge organization that serves millions, the Platforms it runs on are equally big, complex, and multilayered. Most people find that even learning the basics for their own practice area entails a significant learning curve.  The tasks on this checklist will help you acquire those basics as quickly and efficiently as possible.
 
-## User Story
+## User story
 As a new VFS team member, I need to complete onboarding activities so I can successfully work on my project and support the VA.gov Platform.
 
-## How to fill out this ticket
-- [ ] Add your name to the ticket title
-- [ ] Complete the Onboarding Checklist below
-- [ ] Under **Get set up for your practice area,** you only need to complete the items for your role
-- [ ] You can close this ticket when all items are completed in the Onboarding Checklist and the Platform Checklist
+## Adminsitrative tasks
 
-## Onboarding Checklist
-### Share your info with Platform
+### General
+- [ ] Add your name to the ticket title
+- [ ] Complete the onboarding Checklist below
 - [ ] Complete the fields below:
  - Name:
  - Pronouns (e.g. she/her):
@@ -38,10 +35,30 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 *Providing your GitHub handle will allow Platform to provide you access to the necessary GitHub repos.
 
+- [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
+- [ ] [Request Access to Tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
+- [ ] Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization)
+   - **Note:** Membership in the VA Github Organization is a prerequisite for getting access to `vets.gov-write` and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.
+- [ ] [Opt out of Google Analytics](https://www.va.gov/analytics-opt-out.html) on all of your browsers on your work machines, personal machines (if you are not a Veteran yourself using the site for your own applications), and mobile devices
+- [ ] Are you a Veteran? Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
+
+### Get set up for your practice area
+
+#### Front-end Engineers
+- [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
+
+#### Back-end Engineers
+- [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
+
+#### Product Managers & Delivery Managers
+- [ ] [Schedule a PM intro via Calendly](https://calendly.com/collaboration-cycle/product-manager-intro) with Shira Goodman (Platform Governance Team PM).
+- [ ] If your team is new, please complete the [New VFS Team ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step.
+
+## Educational tasks
+
 ### General
 
 - [ ] Watch the [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Generalorientation) recording
-- [ ] Update your [Slack profile](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile)
 - [ ] Watch [VA.gov overview video](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html#PlatformOrientation-Purpose) for an overview of VA.gov
 - [ ] Watch [VFS Orientation for Platform Website video](https://www.youtube.com/watch?v=I3RFCuTEfBI&ab_channel=PlatformCrew)
 - [ ] Watch the [Platform Support overview video](https://www.youtube.com/watch?v=V3o_oiwrpA4)
@@ -50,19 +67,12 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 - [ ] Review [Support Overview](https://depo-platform-documentation.scrollhelp.site/support/Support-overview.604012552.html) documentation
 - [ ] Review the guidance on [Submitting a feature request](https://depo-platform-documentation.scrollhelp.site/support/Submitting-a-feature-request.1938915400.html)
 - [ ] Review guidance on [How to Submit Feedback about Platform Products & Services](https://depo-platform-documentation.scrollhelp.site/support/give-feedback-about-platform-products-or-services)
-- [ ] [Request Access to Tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html)
-- [ ] Confirm that you have access to the [VA GitHub Organization](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-GettingaccesstotheVAGitHuborganization)
-   - **Note:** Membership in the VA Github Organization is a prerequisite for getting access to `vets.gov-write` and access to many commonly-used repositories. Platform will not be able to complete this task if you are not a member of the VA GitHub Organization.
-- [ ] [Opt out of Google Analytics](https://www.va.gov/analytics-opt-out.html) on all of your browsers on your work machines, personal machines (if you are not a Veteran yourself using the site for your own applications), and mobile devices
-### Norms and standards
 - [ ] Review guidance on the [Platform Satisfaction Survey](https://depo-platform-documentation.scrollhelp.site/support/platform-satisfaction-survey)
-### Working on the platform
 - [ ] Review the [Platform Principles](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-crew-principles)
 - [ ] Review the [GitHub Markdown Cheatsheet](https://help.github.com/en/categories/writing-on-github) to learn the syntax for formatting documents in GitHub
 - [ ] Review the [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf)
 - [ ] Review the [Web Brand Consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf) documentation
 - [ ] Review the [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html) documentation on Platform Website
-- [ ] Are you a Veteran? Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
 
 
 ### Get set up for your practice area
@@ -76,7 +86,6 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 #### Front-end Engineers
 - [ ] Review [frontend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Frontend-developer-documentation.687931428.html) on Platform Website
-- [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
 - [ ] Watch the [Front-end orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Front-endorientation) recording
 - [ ] Watch the [Analytics orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-AnalyticsOrientation) recording
 - [ ] Watch the [Accessibility orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Accessibilityorientation) recording
@@ -85,13 +94,10 @@ As a new VFS team member, I need to complete onboarding activities so I can succ
 
 #### Back-end Engineers
 - [ ] Review [back-end developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/Backend-developer-documentation.1886289964.html) on Platform Website
-- [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
 - [ ] Watch the [Back-end orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-Back-endOrientation) recording
 - [ ] Watch the [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAOrientation) recording
 
 #### Product Managers & Delivery Managers
-- [ ] [Schedule a PM intro via Calendly](https://calendly.com/collaboration-cycle/product-manager-intro) with Shira Goodman (Platform Governance Team PM).
-- [ ] If your team is new, please complete the [New VFS Team ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step.
 - [ ]  Watch the [Analytics orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-AnalyticsOrientation) recording
 - [ ] Watch the [Accessibility orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-AccessibilityOrientation) recording
 - [ ] Watch the [QA orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-QAorientation) recording
