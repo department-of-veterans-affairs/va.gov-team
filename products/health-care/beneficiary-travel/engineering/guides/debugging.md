@@ -25,9 +25,6 @@ _Note: The token_service will be required_
 ```sh
 bundle exec rails c
 # ... wait for init ...
-token_service = TravelPay::TokenService.new
-claims_service = TravelPay::ClaimsService.new
-appts_service = TravelPay::AppointmentsService.new
 ```
 
 The internal logic of the service method requires a user class, but really, it only requires a user's email, ICN, and account uuid in a class instance that matches the methods of the vets-api `User` class. 
@@ -52,15 +49,24 @@ Then create an instance of the fake user (using one of the BTSSS test users) and
 test_user = FakeUser.new('prof.jimmy.dean@sausage.edu', '123ICNHERE123', 'uuid-12345-123436434-135234')
 ```
 
-First you'll need access to the tokens from the token service you set up above:
+First you'll need to instantiate the AuthManager:
 
 ```ruby
-tokens = token_service.get_tokens(test_user)
+auth_manager = TravelPay::AuthManager.new(Settings.travel_pay.client_number, test_user)
 ```
 
+Then instantiate the service you are wanting to interact with using the new auth_manager, e.g. the ClaimsService would be instantiated using:
+
+```ruby
+claims_service = TravelPay::ClaimsService.new(auth_manager)
+```
 Finally, test the service with:
 ```ruby
-claims_service.get_claims(tokens[:veis_token], tokens[:btsss_token])
+claims_service.get_claims
+
+# or with params:
+
+claims_service.get_claims({ 'appt_datetime' => '2024-07-16T16:00:00Z' })
 ```
 
 You should get a list of claims returned with translation and business logic applied to the result. If you need to inspect the response from the API without business logic or translation applied, or if you want to make temporary changes to the underlying requests, read on.
@@ -70,12 +76,12 @@ In order to call the travel pay API at a lower level, you need to provide all th
 
 First, fire up the rails console and create a new instance of any client you'd like to test (where all the API calls are made):
 
-_Note: The token_client or token_service will be required_
+_Note: The token_client requires the client number, which can be accessed from the Rails console using `Settings.travel_pay.client_number`._
 
 ```sh
 bundle exec rails c
 # ... wait for init ...
-token_client = TravelPay::TokenClient.new
+token_client = TravelPay::TokenClient.new(Settings.travel_pay.client_number)
 claims_client = TravelPay::ClaimsClient.new
 appts_client = TravelPay::AppointmentsClient.new
 ```
@@ -102,7 +108,13 @@ Then create an instance of the fake user and populate it with your BTSSS test us
 test_user = FakeUser.new('prof.jimmy.dean@sausage.edu', '123ICNHERE123', 'uuid-12345-123436434-135234')
 ```
 
-You can use the token_service created in the High-Level debugging example above to retrieve all the tokens required for making subsequent calls. In order to debug any authentication issues, however, you can follow the fine-grained token testing steps below with your new test_user.
+You can use the auth_manager created in the High-Level debugging example above to retrieve all the tokens required for making subsequent calls by using:
+
+```ruby
+tokens = auth_manager.authorize
+```
+
+In order to debug any authentication issues, however, you can follow the fine-grained token testing steps below with your new test_user.
 
 ### Fine-grained token testing steps
 If you're having trouble authenticating into the Travel Pay API, it might be any of the token calls that are failing. To get to the bottom of it, you can make individual token calls.
@@ -118,20 +130,21 @@ eis_token = token_client.request_veis_token
 
 You should have an EIS token now.  You will use the value of the EIS token to retrieve a travel pay API token, but first you must also get an STS token for user verification on the API.
 
-#### Requesting an STS token
-Use the test_user created above to retrieve the STS token:
 
-```ruby
-sts_token = token_client.request_sts_token(test_user)
-```
-
-Now that you have an STS token and an EIS token, you can call the travel pay API to request a travel pay API token.
+Now that you have an EIS token, you can call the travel pay API to request a travel pay API token.
 
 #### Requesting a travel pay API token
 Simply call:
 
 ```ruby
-tp_token = token_client.request_btsss_token(eis_token, sts_token)
+tp_token = token_client.request_btsss_token(eis_token, test_user)
+```
+
+#### Requesting an STS token
+If that fails, you can check that you're able to retrive an STS token, which is a required step in the `request_btsss_token` method. Use the test_user created above to retrieve the STS token:
+
+```ruby
+sts_token = token_client.request_sts_token(test_user)
 ```
 
 ### Calling the resource endpoints on the travel pay API
@@ -141,7 +154,7 @@ At this point you should have a travel pay API token you can use to call resourc
 claims = claims_client.get_claims(eis_token, tp_token)
 ```
 
-_Note: if you utilize the token_service example above to retrieve the required tokens, the syntax will instead be:_
+_Note: if you utilize the auth_manager example above to retrieve the required tokens, the syntax will instead be:_
 ```ruby
 claims = claims_client.get_claims(tokens[:veis_token], tokens[:btsss_token])
 ```
