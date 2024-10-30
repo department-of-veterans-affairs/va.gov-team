@@ -142,9 +142,9 @@ _If attempts Medical records_
 - Tell me about the last time you checked your Medical records on this website? 
 - What do you expect to be able to do in Medical records? 
 - Have you used any of the other tools before? Messages, Medications, Appointments. 
-- Go ahead and show me how you check your Messages from your doctor. 
-- Go ahead and show me how you would refill a medication that needs to be refilled.
-- Go ahead and show me how you would schedule an appointment with your doctor	using this website.
+	- Go ahead and show me how you check your Messages from your doctor. 
+	- Go ahead and show me how you would refill a medication that needs to be refilled.
+	- Go ahead and show me how you would schedule an appointment with your doctor	using this website.
  
 _If mentions/attempts to click on try me banner_ 
 
