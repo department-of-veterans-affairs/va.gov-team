@@ -131,6 +131,8 @@ async function getProjectId2() {
     }
   `;
 
+  console.log('the query is...', query);
+  
   const { data } = await axiosInstance.post('',
     { query },
   )
@@ -201,10 +203,10 @@ async function main() {
   try {
     console.log('the length of the token is...', GOV_TEAM_TOKEN.length)
     const projectId = await getProjectId2();
-    const { id: fieldId, options} = await getPOSyncField(projectId);
-    const [{id: optionId}] = options.filter(option => option.name === 'Approved');
-    const itemId = await getItemId(projectId, ISSUE_TITLE);
-    await updateIssue(projectId, itemId, fieldId, optionId);
+    // const { id: fieldId, options} = await getPOSyncField(projectId);
+    // const [{id: optionId}] = options.filter(option => option.name === 'Approved');
+    // const itemId = await getItemId(projectId, ISSUE_TITLE);
+    // await updateIssue(projectId, itemId, fieldId, optionId);
   } catch (error) {
     console.log(error);
     process.exit(1);
