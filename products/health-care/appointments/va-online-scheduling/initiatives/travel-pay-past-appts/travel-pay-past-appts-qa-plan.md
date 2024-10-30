@@ -1,4 +1,4 @@
-# QA Plan - Travel Reimbursement Claims for Past Appointments 
+# Test Plan - Travel Reimbursement Claims for Past Appointments 
 
 ## Functional Testing
 - [Travel - Past Appointments Web - Test Plan](https://dsvavsp.testrail.io/index.php?/plans/view/5766)
