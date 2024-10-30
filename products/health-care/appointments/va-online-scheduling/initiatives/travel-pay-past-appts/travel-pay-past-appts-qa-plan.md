@@ -3,11 +3,11 @@
 ## Functional Testing
 - [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-test-plan.md)
 - TestRail
-  - [Test Plan]()
-      - [Product Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/5771)
-      - [UX Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/5772)
-  - [Regression Plan]()
-      - [UX Regression Run](https://dsvavsp.testrail.io/index.php?/runs/view/5773)
+  - [Test Plan](https://dsvavsp.testrail.io/index.php?/plans/view/6172)
+      - [Product Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/6174&group_by=cases:section_id&group_order=asc)
+      - [UX Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/6173&group_by=cases:section_id&group_order=asc)
+  - [Regression Plan](https://dsvavsp.testrail.io/index.php?/plans/view/6175)
+      - [Regression Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/6176&group_by=cases:section_id&group_order=asc)
   - Defect Summary Report - TBD
   - Coverage for References - TBD
 
