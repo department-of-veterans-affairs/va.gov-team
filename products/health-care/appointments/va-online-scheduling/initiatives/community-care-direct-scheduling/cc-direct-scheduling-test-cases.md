@@ -1,13 +1,13 @@
 # Test Cases - Community Care Direct Scheduleing 
 
-## [[Epic] Community Care Direct Scheduling]([[Epic] Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62496)) 
-Allows Veterans who have indicated their preference to direct schedule their community care appointments to schedule on VA.gov
+## [[Epic] Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62496) 
+Allows Veterans who have indicated their preference to directly schedule their community care appointments to schedule their appointment on VA.gov
 
 ## Wireframes
 - [Wireframes](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=2490-44318&node-type=canvas&t=Yp56YEzCJdBOliAu-0)
 
 ## Test Users 
-- [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
+- [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ## Use Cases
  
