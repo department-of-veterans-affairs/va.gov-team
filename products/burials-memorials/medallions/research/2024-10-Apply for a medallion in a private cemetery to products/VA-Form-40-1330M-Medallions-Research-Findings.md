@@ -1,6 +1,6 @@
-# [Study] Research Findings 
+# [VA Form 40-1330M] Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), VA-Form 40-1330M Medallions, Memorials Self SErvice**
+**Office of the CTO - Digital Experience (OCTO-DE), VA-Form 40-1330M Medallions, Memorials Self Service**
 
 Date: 10/30/2024
 
@@ -157,6 +157,40 @@ Labels: label 1, label 2
 
 > _“I don’t have a problem with the demographic question so I would put yes. P7”_
 
+**4. Most participants generally understood the burial and claimed remains topics but had questions about eligibility with cremation.**
+
+- Most participants thought the question “Are the Veteran’s remains buried in their grave?” as clear.
+- 3 participants wondered about cremated remains and how that would affect the process.
+- 1 participant suggested that “unclaimed” remains meant that the Veteran was also “unknown.”
+- Most participants understood who the ‘next of kin’ would be.
+
+>_“Burial location, this is confusing me a little bit. If I am new to this process I would assume they are in a coffin or maybe cremated would be a different option?” - P4_ 
+
+>_“Remains claimed, it is making sure whoever the next of kin is has possession of the remains or knows where they are.” - P3_
+
+>_“Buried in their grave yes unless they are cremated.” – P10_
+
+>_“Next of kin, clicked the drop down. I would click yes. Buried in their grave, Yeah I think it is clear. ” – P13_
+
+
+**5. Some participants experienced confusion around medallion type and sizing.**
+
+-	Most participants understood that the Medal of Honor was not for everyone, and that you would need additional eligibility to receive that medallion. 
+-	Most participants think the medallion sizing is a preference. 
+-	2 participants wish for a more visual presentation of the medallions on an actual headstone.
+-	I participant suggested that the size of the medallion could be based on how long the Veteran had served.
+-	2 participants said they would click the link to learn more about medallion types and sizes.
+
+>_" I assume bronze is for another and medal of honor is if they received a medal of honor. Bigger medallion is always better.” - P3_
+
+>_“Size of medallion I think that would be a preference.” – P2_
+
+>_“Bronze or Medal of Honor, I don’t know which one there should be an explanation of the difference.” - P2
+>_“The sizes are medium and large. I am still curious of the actual size.” – P4_
+
+>_“Learning about the sizes could be beneficial, I guess maybe learning about how big they would be on the certain headstone and stuff. I was just thinking, the small one looks tiny so I was thinking how it would look in relation to a headstone. The dimensions  are there, but I am visual learner and just reading the numbers don’t mean much to me. I like the picture.” P12_
+
+>_“So the link just says learn more about the sizes so that tells me more about the sizes, not what they each mean. I think the picture helps and there are sizes under the list. It is nice to compare it to a coin for visual reference maybe some people will see the dimensions and be like ‘cool.’” - P6_
 
 
 ## Additional Insights
