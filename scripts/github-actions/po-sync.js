@@ -123,7 +123,7 @@ async function updateIssue(projectId, itemId, fieldId, optionId) {
 async function getProjectId2() {
   const query = `
     query ProjectID {
-      organization(login: ${owner}){
+      organization(login: "${owner}"){
         projectV2(number: ${PROJECT_NUMBER}) {
           id
         }
@@ -131,18 +131,10 @@ async function getProjectId2() {
     }
   `;
 
-  console.log('the query is...', query);
-  
-  const { data } = await axiosInstance.post('',
-    { query },
-  )
-  const x = data.errors.map(x => x.message).toString();
-  console.log('--->', x);
-return data;
-  // const { data: { data: { organization: { projectV2 } } } } = await axiosInstance.post('',
-  //     { query },
-  //   )
-  // return projectV2.id;
+  const { data: { data: { organization: { projectV2 } } } } = await axiosInstance.post('',
+      { query },
+    )
+  return projectV2.id;
 }
 
 async function getProjectItems(projectId) {
@@ -201,12 +193,11 @@ async function getItemId(projectId, title) {
 
 async function main() {
   try {
-    console.log('the length of the token is...', GOV_TEAM_TOKEN.length)
     const projectId = await getProjectId2();
-    // const { id: fieldId, options} = await getPOSyncField(projectId);
-    // const [{id: optionId}] = options.filter(option => option.name === 'Approved');
-    // const itemId = await getItemId(projectId, ISSUE_TITLE);
-    // await updateIssue(projectId, itemId, fieldId, optionId);
+    const { id: fieldId, options} = await getPOSyncField(projectId);
+    const [{id: optionId}] = options.filter(option => option.name === 'Approved');
+    const itemId = await getItemId(projectId, ISSUE_TITLE);
+    await updateIssue(projectId, itemId, fieldId, optionId);
   } catch (error) {
     console.log(error);
     process.exit(1);
