@@ -1,4 +1,4 @@
-# Feature Reference - Community Care Direct Scheduling ---------------DRAFT----------------
+# Feature Reference - Community Care Direct Scheduling 
 
 ## Overview
 This feature allows Veterans to directly schedule a community care appointment when they have indicated their preference is to directly schedule.
