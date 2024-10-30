@@ -191,6 +191,13 @@ Okay, now go ahead and select that link.
 
 ## <a name="mhv-va-gov"></a>My HealtheVet on VA.gov (45 minutes) 
 
+### Cohorts: 
+- **Cohort 1:** If arrives **Secure messages**
+- **Cohort 2:** If arrives **Meds**
+- **Cohort 3:** If arrives **Meds**
+-------
+### Cohort 1: Secure messages
+
 ### Arrive on VA.gov (5 mins) 
 
 - Okay, thank you. 
@@ -203,15 +210,7 @@ Okay, now go ahead and select that link.
 - Anything exciting, interesting, or new that stands out? 
 - Anything particularly confusing? 
 
-### Cohorts: 
-- **Cohort 1:** If arrives **Secure messages**
-- **Cohort 2:** If arrives **Meds**
-- **Cohort 3:** If arrives **Meds**
-- and **Meds**
-- Participants **Secure messages** and **Appointments**
-- Participants see **Medications** and **Appointments**
-
-### Cohort 1: Secure messages to Medications 
+### Secure message (5 mins)
 
 Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
 
@@ -223,15 +222,44 @@ Say you're confused by a medical result and you want to ask your doctor about it
 
 Thank you for showing me that. 
 
-[Meds] Now, let’s say you needed a refill on a prescription that you are running low on. How would you do that from this page? 
+#### Things to note 
 
-- Let’s say you needed a refill on a prescription that you are running low on. How would you do that? 
+- Are changes made to the national portal language or tools causing any confusion? 
+- Any challenges or hiccups with the new portal? 
+- Any positive changes that users notice while using the new portal?
+
+### Medications (5 mins) 
+
+Now, let’s say you needed a refill on a prescription that you are running low on. How would you do that from this page? 
+
 - What are you thinking as you (_go somewhere, do something_)?/What are you looking for 
 - Why did you (_do that, go there, try that_)? 
 - What do you think should happen if you (_do something_)? 
 - What are you looking for?
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger section of Medications?/How would you get back to where you came from?
+  
+#### Things to note 
+
+- Are changes made to the national portal language or tools causing any confusion? 
+- Any challenges or hiccups with the new portal? 
+- Any positive changes that users notice while using the new portal?
+
+### Appointments (5 mins) 
+
+Now let's imagine that you want to make a follow-up appointment with your doctor. Show me where you'd go to do that.
+
+- Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
+- I'm seeing you gravitate towards ______. Why are you going there first?
+- What are you looking for?
+- Why did you click those links? 
+- **Optional** How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
+
+#### Things to note 
+
+- Are changes made to the national portal language or tools causing any confusion? 
+- Any challenges or hiccups with the new portal? 
+- Any positive changes that users notice while using the new portal?
 
 ### Cohort 2: **Secure messages** and **Appointments** 
 
