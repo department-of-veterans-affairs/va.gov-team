@@ -90,6 +90,7 @@ Before we begin, I'd like to go over a few things:
     - Did you find it easy to access your information? Why or why not? (RQ2)
     - Are there any specific features you found particularly difficult to use or confusing? (RQ2)
     - If the store clerk said, "I'm sorry, but I can't accept this. I need to see additional proof," what might you do?
+    - **For mobile web only:** What do you think about where the link to the card currently is? e.g., nametag or profile card (RQ5)
 
 **Comparison and Preferences (10 minutes)**
 
