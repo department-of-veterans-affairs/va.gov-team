@@ -34,20 +34,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Desired date range or test duration:
-     - N/A
-- Desired number of users:
-     - N/A
-- How you'll recruit the right production test users:
-     - N/A
-- How you'll conduct the testing:
-     - N/A
-- How you'll give the test participants access to the product in production w/o making it live on VA.gov:
-     - N/A
-
-#### Results
-
-- N/A
+- There is no planned UAT for this iteration of the Toxic Exposure questions.
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
