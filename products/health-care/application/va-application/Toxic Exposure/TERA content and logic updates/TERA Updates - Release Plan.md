@@ -53,7 +53,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Rollout Planning
 
 - Desired date range:
-     - 10/31-11/6
+     - 10/31/2024 - 11/6/2024
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - We will limit the number of users by using the Flipper toggle, phasing the launch
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
@@ -112,7 +112,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 
-     - 10/31
+     - 10/31/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% - about 41 users per day (Based on ~5k users over 30 days who answered "Yes" to providing Toxic Exposure information)
 
@@ -132,7 +132,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time:
-     - 11/4/2024-11/6/2024
+     - 11/4/2024 - 11/6/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 50% - about 83 users per day (Based on ~5k users over 30 days who answered "Yes" to providing Toxic Exposure information)
 
