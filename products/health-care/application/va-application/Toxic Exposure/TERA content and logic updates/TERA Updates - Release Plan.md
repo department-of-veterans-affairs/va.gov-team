@@ -53,7 +53,7 @@ Before enabling your feature toggle in production, you'll need to:
 - **Key Result #1:** A 25% reduction of user engagement time spent within the TERA questions
      - Data source - [Google Analytics (GA4) Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/dZ_qMurmRZiGKuFENIthOQ)
 
-| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+| Product KPI | Historical |Target | Post-Launch 1 week|Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
 |Avg Engagement time per session in the military section |3m 2s (182 seconds)| 2m 16s (136.5 seconds)  | TBD | TBD |
 
@@ -61,7 +61,7 @@ Before enabling your feature toggle in production, you'll need to:
      - Users who answer "Yes" to at least one of the Toxic Exposure questions
      - Data source - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&refresh_mode=sliding&from_ts=1730212537721&to_ts=1730216137721&live=true)
 
-| Product KPI | Historical Sept 29-Oct28 |Target| Post-Launch 1 month|Post-Launch 3 months|
+| Product KPI | Historical Sept 29-Oct28 |Target| Post-Launch 1 week|Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
 |Toxic Exposure reports |5,090| 5,599 | TBD | TBD |
 |Radiation Cleanup reports |69| 76 | TBD | TBD |
@@ -74,7 +74,7 @@ Before enabling your feature toggle in production, you'll need to:
      - Users who answer "Yes" to at least one of the Toxic Exposure questions and subsequently complete the section, moving on to the rest of the form
      - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
 
-| Product KPI | Historical Sept 29-Oct28|Target | Post-Launch 1 month|Post-Launch 3 months|
+| Product KPI | Historical Sept 29-Oct28|Target | Post-Launch 1 week|Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
 |Toxic Exposure section completions |5,930| 7,116 | TBD | TBD |
 
