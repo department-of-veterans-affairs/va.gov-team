@@ -78,11 +78,11 @@ I’ve started recording. I'd like to confirm again: **Are you comfortable if I 
 - How often do you login? 
 - For what purpose?
 
-**Note why participants typically log in to VA.gov and MHV - to be used later in the study** 
+**Note: why participants typically log in to VA.gov and MHV which can be used later in the study** 
 
 ## <a name="set-up"></a> Set up & sign-in (10 minutes)
 
-Thanks for answering those questions. I want to transition us to exploring the sites together. First I want you to share your screen. Is that something you've done before with Zoom? 
+Thanks for answering those questions. I want to transition us to exploring the site together. First I want you to share your screen. Is that something you've done before with Zoom? 
 
 - [Have they shared before?]
   - `IF YES` Please share your screen when you're ready.
@@ -105,9 +105,9 @@ Thanks for answering those questions. I want to transition us to exploring the s
 
 - Thanks! Now I’m able to see your screen. I see [describe window].
 
-- Next, I'm going to ask you to go to the My HealtheVet website. I can post the URL in the chat [https://www.myhealth.va.gov/mhv-portal-web/home]
+- Next, I'm going to ask you to go to the My HealtheVet website. I can post the URL in the chat [https://www.myhealth.va.gov/mhv-portal-web/home] or say it aloud...
 
-_Send them or say https://www.myhealth.va.gov/mhv-portal-web/home
+- Send them://www.myhealth.va.gov/mhv-portal-web/home
 - In your browser please enter "https://www.myhealth.va.gov/mhv-portal-web/home"
 
 - Okay, now, I'll ask you to sign in on this website. 
@@ -123,13 +123,26 @@ _Send them or say https://www.myhealth.va.gov/mhv-portal-web/home
 - What do you think you can do from here?/What kind of things can you do from this website?/What do you typically do here? 
 - Can you show me how you would do that? 
 
+_Optional probes_ - very flexible, adapt as appropriate depending on participant behavior:
+
+- What are you thinking as you (go somewhere, do something)?
+- Is that what you would typically do to get to My HealtheVet? 
+- (If use search functionality): Please tell me why you searched for that term? What information were you hoping it would bring up?
+
+_Once explored a bit_
+
+- Go ahead and show me how you check your Messages from your doctor. 
+- Go ahead and show me how you would refill a medication that needs to be refilled.
+- Go ahead and show me how you would schedule an appointment with your doctor	using this website.
+ 
+
 _If attempts Medical records_
 
 - Before you click there, is this something you typically use?
 - Tell me about the last time you checked your Medical records on this website? 
 - What do you expect to be able to do in Medical records? 
 - Have you used any of the other tools before? Messages, Medications, Appointments. 
-	- Go ahead and show me how you check your Messages from your doctor. 
+- Go ahead and show me how you check your Messages from your doctor. 
 - Go ahead and show me how you would refill a medication that needs to be refilled.
 - Go ahead and show me how you would schedule an appointment with your doctor	using this website.
  
