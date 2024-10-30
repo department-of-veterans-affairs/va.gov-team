@@ -15,6 +15,8 @@
 - **Travel Claims for Past Appts**
     - **Sprint goal is to finish this by the end of the year**
     - TBD
+- **Pre-Check-in - VAHB**
+    - TBD - need to define design tickets
 - **Check in with staff after checking in**
     - 🟩 [Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96034)
 - **Research Cards & Their Headers**
