@@ -1,6 +1,6 @@
 # Manual-QA Test Plan - Travel Pay for Past Appointments
 
-## Project Summary Epic [[Epic] Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62496) 
+## [[Epic] Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62496) 
 Added a feature that allows Veterans to submit a simple mileage-only travel reimbursement claim for past VA appointments that have occurred in the past 30 days for in-person appointments, vaccine appointments, or video appointments at a VA facility.
 
 ## Business Rules 
@@ -12,14 +12,19 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
             - Video at a VA facility appointment 
 - Veterans can file only one mileage-only travel reimbursement claim per day per VA facility
 
-### Use Cases
+## Wireframes
+- [Wireframes](https://www.figma.com/design/RzugGEmu4drhCSHTyQ6hjl/Simple-mileage-only-travel-pay-claim-submission?node-id=2135-3&node-type=canvas&t=URUEyTcnHHThVESn-0)
+
+## Test Users 
+- [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
+
+## Use Cases
  
-- [ ] Use Case 1 - Submit Claim
+#### Use Case 1 - Submit Claim
+- **Configuration**
+  - Test user should have a VA in person appointment scheduled for within the last 30 days for which a travel reimbursement claim has not been submitted for the appointment date & facility
 
-* **Configuration**
-  - [ ] Test user should have a VA in person appointment scheduled for within the last 30 days for which a travel reimbursement claim has not been submitted for the appointment date & facility
-
-* **Test Steps**
+- **Test Steps**
   - Navigate to [Staging](http://staging.va.gov/?next=loginModal&oauth=true)
   - Log in using ID.me and one of the [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
   - Click Continue
@@ -33,12 +38,11 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
   - Complete and submit the form (i.e. answer yes to all questions)
   - See confirmation that the claim has been submitted
 
-- [ ] Use Case 2 - View Claim Status
+#### Use Case 2 - View Claim Status
+- **Configuration**
+  - Test user should have a VA in person appointment scheduled for within the last 30 days and for which a travel reimbursement claim has alreay been submitted for the appointment date & facility
 
-* **Configuration**
-  - [ ] Test user should have a VA in person appointment scheduled for within the last 30 days and for which a travel reimbursement claim has alreay been submitted for the appointment date & facility
-
-* **Test Steps**
+- **Test Steps**
   - Navigate to [Staging](http://staging.va.gov/?next=loginModal&oauth=true)
   - Log in using ID.me and one of the [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
   - Click Continue
@@ -51,22 +55,16 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
   - Choose link **Check your claim status** to navigate to the new Travel Claim Status tool
   - Select the claim and view the status
 
-### Wireframes
-- [Wireframes](https://www.figma.com/design/RzugGEmu4drhCSHTyQ6hjl/Simple-mileage-only-travel-pay-claim-submission?node-id=2135-3&node-type=canvas&t=URUEyTcnHHThVESn-0)
-
-### Test Users 
-- [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
-
-### Summary Defect Report
+## Summary Defect Report
 - TBD
 
-### Traceability Report 
+## Traceability Report 
 - [X] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
 
-### E2E tests 
+## E2E tests 
 - [X] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
 - [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
 
-### Code coverage
+## Code coverage
 - [X] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
 - [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
