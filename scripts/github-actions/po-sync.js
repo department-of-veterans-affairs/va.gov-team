@@ -131,10 +131,16 @@ async function getProjectId2() {
     }
   `;
 
-  const { data: { data: { organization: { projectV2 } } } } = await axiosInstance.post('',
-      { query },
-    )
-  return projectV2.id;
+  const { data } = await axiosInstance.post('',
+    { query },
+  )
+  const x = data.errors.map(x => x.message).toString();
+  console.log('--->', x);
+return data;
+  // const { data: { data: { organization: { projectV2 } } } } = await axiosInstance.post('',
+  //     { query },
+  //   )
+  // return projectV2.id;
 }
 
 async function getProjectItems(projectId) {
