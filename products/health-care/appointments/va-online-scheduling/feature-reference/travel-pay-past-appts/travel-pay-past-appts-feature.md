@@ -1,4 +1,4 @@
-# Travel Reiumbursement Claims for Past Appointments
+# Feature Reference - Travel Reiumbursement Claims for Past Appointments
 
 ## Overview
 This initiative allows Veterans to file a mileage-only beneficiary travel (BT) reimbursement claim for an eligible appointment from their past appointments list on VA.gov. An elibible appointment means any appointment:
@@ -13,51 +13,46 @@ As a Veteran, I would like to easily submit online a BT claim for a past appoint
 ## Requirements
 
 **Functional**
-
+- Veteran logs into VA.gov
 - Veteran navigates to past appointments on VA.gov
-- Veteran chooses a past appointment and navigates to the appointment details for the selected appointment
-- Veteran chooses to file a BT claim for the selected appointment
-    - Appointment will only have the option to file if the following criteria are met
-        - Appointment occured before today and within the last 30 days
-        - Appointment is one of these in-person appointment types
+- Veteran selects a past appointment and navigates to the appointment details for the selected appointment
+- System determines if the selected appointment is eligible for mileage-only travel reimbursement
+    - An appointment is eligible for mileage-only travel reimbursement when
+        - It occured within the last 30 days
+        - It is one of these in-person appointment types:
             - In-person appointment
             - In-person vaccine appointment
-            - Video at a VA facility appointment
-        - No BT claim has been filed for the Veteran for the same day and same facility as the selected appointment
-- System navigates the Veteran to the new online mileage-only BT claim form
-    - NOTE: System passes the Veteran's patient ICN and appointment date & time to the new BTSSS form
-- Veteran answers 'Yes' to the following questions
-    - Filing mileage-only claim?
-    - Used own vehicle to travel to the appointment?
-    - Travelled from Veteran's on-file home address?
-- Veteran chooses to submit the form
-- System submits a BT claim for the selected appointment date & facility for the Veteran
+            - Video at a VA facility appointment- 
+- If the selected appointment is eligible for a mileage-only travel claim, Veteran can choose one of these actions    
+    - If no claim has yet been filed for the selected appointment date and facility, Veteran can choose to submit a claim
+        - System navigates the Veteran to the new online mileage-only BT claim form 
+        - Veteran answers 'Yes' to the following questions
+            - Filing mileage-only claim?
+            - Used own vehicle to travel to the appointment?
+            - Travelled from Veteran's on-file home address?
+        - Veteran submits the form
+        - Veteran receives confirmation that their claim has been submitted
+    - If a claim has already been filed for the selected appointment date and facility, Veteran can choose to view the status of the claim
+        - System navigates the Veteran to the new BT Status Claim tool
+        - Veteran views the status of the claim
 
 ### Technical notes
    
-
 ## Specifications
 
-- [User Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722263210448/33062955940eb08d097dbd88a8dc98488ac2ffcc?sender=uc584f7fcc9a5090000259578)
-- [Wireframes]() - TBD
-
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
+- [Userflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722263210448/33062955940eb08d097dbd88a8dc98488ac2ffcc)
+- [Wireframes](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=0-17259&node-type=canvas&t=zefUppEidHHWSUEE-0)
 
 ## Metrics
-<!--Goals for this feature, and how we track them through analytics-->
-
-- TBD
-
-**Events tracked**
-<!-- Descriptions of events tracked on this page to meet those goals -->
-
-- TBD
-
-## Alerts and other states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
+- Number of Veterans who choose to file a travel reimbursement claim on VA.gov
+    - Click event on the "File a travel reimbursement claim" link on VA.gov
+    - ![image](https://github.com/user-attachments/assets/1c2d0bf4-921d-4a63-b960-5db38c708e9c)
+- Number of Veterans who choose to view their claim status on VA.gov
+    - Click event on the "Check you claim status" link
+    - ![image](https://github.com/user-attachments/assets/5ce71c8b-31dd-4ce3-8fcd-86c7433668ba)
+- Number of Veterans who choose to learn more about how to file a claim on VA.gov
+    - Click event on the "Learn more about travel reimbursement"
+    - ![image](https://github.com/user-attachments/assets/c3110fc1-c56c-4516-9f33-f610031518ca)
 
 ## Technical design
 <!-- Endpoints and sample responses -->
