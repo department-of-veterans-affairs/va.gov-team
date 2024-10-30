@@ -6,23 +6,30 @@
 
 ## SPRINT 20 - 11/13/2024-11/26/2024
 - **Production Support**
-    - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/)
+    - ❗ 🟦🟩 [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96179)
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
     - **Sprint Goal is to ...**    
-    - TBD
+     - FE STEP 2 - Appointments Page
+         - 🟩[Create the referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95266)
+     - FE STEP 3 - Referral For Page
+         - 🟩 [Hook up to the mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95269)
+         - 🟩 [Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95270)
+     - BE STEP 2 - TBD
+         - TBD
 - **Travel Claims for Past Appts**
     - **Sprint goal is to finish this by the end of the year**
     - TBD
 - **Pre-Check-in - VAHB**
-    - TBD - need to define design tickets
+    - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
+    - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
+    - 🟥 [[Design] Create Final Wireframes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94167)
 - **Check in with staff after checking in**
     - 🟩 [Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96034)
-- **Research Cards & Their Headers**
-    - TBD
+    - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95473)
 - **Tech Debt & Analytics**
-    - TBD
+    - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)
 </details>
 
 ## SPRINT 19 - 10/30/2024-11/12/2024
