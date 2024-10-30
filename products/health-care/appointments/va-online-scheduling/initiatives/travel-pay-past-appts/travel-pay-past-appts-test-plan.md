@@ -1,4 +1,4 @@
-# Manual-QA Test Plan - Travel Pay for Past Appointments
+# Test Cases - Travel Pay for Past Appointments
 
 ## [[Epic] Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62496) 
 Added a feature that allows Veterans to submit a simple mileage-only travel reimbursement claim for past VA appointments that have occurred in the past 30 days for in-person appointments, vaccine appointments, or video appointments at a VA facility.
@@ -54,17 +54,3 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
   - See content that says a claim has already been filed for this appointment
   - Choose link **Check your claim status** to navigate to the new Travel Claim Status tool
   - Select the claim and view the status
-
-## Summary Defect Report
-- TBD
-
-## Traceability Report 
-- [X] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
-
-## E2E tests 
-- [X] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
-- [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
-
-## Code coverage
-- [X] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
-- [X] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
