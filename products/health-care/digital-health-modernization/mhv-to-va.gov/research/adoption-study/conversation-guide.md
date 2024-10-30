@@ -13,13 +13,13 @@ Slack for real-time feedback from observers.
 - [ ] Sign into the Zoom website as Perigean using the credentials provided and start the Zoom meeting 5-10 minutes before
 
 
-## Agenda (? minutes)
+## Agenda (60 minutes)
 
 - [Introduction - 5 minutes](#intro)
 - [Warm up - 5 minutes](#warm-up)
 - [Set-up & sign-in - 10 minutes](#sign-in)
 - [My HealtheVet Classic - 15 minutes](#mhv-classic)
-- [My HealtheVet on VA.gov - 30 minutes](#mhv-va-gov)
+- [My HealtheVet on VA.gov - 20 minutes](#mhv-va-gov)
 - [Questionnaire - 5 minutes](#questionnaire)
 - [Cool-down - 5 minutes](#cool-down)
 
@@ -114,7 +114,7 @@ Thanks for answering those questions. I want to transition us to exploring the s
 
 - It looks like you are signed in! 
 
-## <a name="mhv-classic"></a>My HealtheVet Classic (15 minutes)
+## <a name="mhv-classic"></a>My HealtheVet Classic (10 minutes)
 
 ### Task 1: Explore the page (think aloud walkthrough) Medications, Secure messages, and Appointments on MVH National Portal - 10 mins 
 
@@ -189,7 +189,7 @@ _If mentions/attempts to click on try me banner_
 
 Okay, now go ahead and select that link. 
 
-## <a name="mhv-va-gov"></a>My HealtheVet on VA.gov (45 minutes) 
+## <a name="mhv-va-gov"></a>My HealtheVet on VA.gov (25 minutes) 
 
 ### Cohorts: 
 - **Cohort 1:** If arrives **Secure messages**
