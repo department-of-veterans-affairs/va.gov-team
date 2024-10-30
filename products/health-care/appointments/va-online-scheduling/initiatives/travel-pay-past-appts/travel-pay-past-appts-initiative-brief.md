@@ -82,7 +82,7 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
 - System submits a mileage-only travel reimbursement claim for the selected appointment date & facility for the Veteran
 
 ### Wireframes
-[Wireframes](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=0-17259&node-type=canvas&t=zefUppEidHHWSUEE-0)
+[Wireframes](https://www.figma.com/design/RzugGEmu4drhCSHTyQ6hjl/Simple-mileage-only-travel-pay-claim-submission?node-id=2135-3&node-type=canvas&t=nTKuyiruyK0ah1Z6-0)
 
 ## Launch Planning
 - [Collaboration Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89153)
