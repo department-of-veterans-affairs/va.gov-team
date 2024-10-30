@@ -204,7 +204,10 @@ Okay, now go ahead and select that link.
 - Anything particularly confusing? 
 
 ### Cohorts: 
-- Participants **Secure messages** and **Meds**
+- **Cohort 1:** If arrives **Secure messages**
+- **Cohort 2:** If arrives **Meds**
+- **Cohort 3:** If arrives **Meds**
+- and **Meds**
 - Participants **Secure messages** and **Appointments**
 - Participants see **Medications** and **Appointments**
 
