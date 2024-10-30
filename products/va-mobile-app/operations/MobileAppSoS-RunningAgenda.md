@@ -21,7 +21,7 @@
 ### Experience Team stats
 |Current # of Change Requests | # of Teams | 
 |-------| ---------|
-|10 | 7 |
+|10 | 9 |
 
 
 ## 10/30/24
@@ -32,7 +32,13 @@
 * **New Exp Team work for Flagship teams in Sprint 110**
   * H&B: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9639
       * Not adding new error handling, just updating content
-  * Global: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9619 
+  * Global: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9619
+      * Global team has refined the work and will get into the next Sprint
+* When an Experience Team Change Request has been vetted and is ready to go to the Flagship team to break out, what are expectation on how quickly the work gets into a Sprint?
+  * Once the work is broken out and ready to be worked, priority of the work is discussed in this SoS meeting
+  * Default expectation is NOT that the work will always be done immediately
+* Flagship work to review Experience Team work (design reviews, Test Plan review, PR reviews, etc.)
+  * May need to add an Epic for Global and H&B team to account for time reviewing and consulting on Experience Team work
 
 ## 10/16/24
 * **Epics Review**
