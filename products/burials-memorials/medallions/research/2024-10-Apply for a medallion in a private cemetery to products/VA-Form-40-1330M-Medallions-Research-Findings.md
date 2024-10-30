@@ -6,7 +6,7 @@ Date: 10/30/2024
 
 [Charles Barron] [charles.barron@va.gov], [Carly Yamrus] [carly.yamrus@va.gov]
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout]([link here](https://boozallen.sharepoint.com/:p:/r/teams/mbms/New%20Sharepoint/Self%20Service%20ART/UX%20Documents/04_Medallions/Research/Medallions%20Study%20Readout%20-%20October%202024.pptx?d=wcc1f630259794acfb68e045a84033e20&csf=1&web=1&e=u6Oamm))
 
 **Jump to:**
 
@@ -43,9 +43,12 @@ _
 ## Methodology 
 
 _We conducted remote usability testing sessions with Zoom using a clickable, interactive prototype of the Medallion and Multiple Signatures designs.
-Participants were given a link to open the prototype that they could navigate through to complete a scenario assigned to them.
+Participants were given a link to open the prototype that they could navigate through to complete a scenario assigned to them. 
+[Protoype](https://www.figma.com/proto/QIMsAdHJjctTKDM1I34uXV/Medallions---Baseline-Prototype?page-id=2%3A2&node-id=2185-38626&node-type=frame&t=5Wtgi4V942WneqD4-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3409%3A40654)
+
 Users were interviewed about their prior Medallions knowledge in addition to being asked questions to assess how experienced they are with VA.gov digital forms.
 Notes from the moderator, notetakers, and observers were then synthesized to form findings and recommendations._
+
 **Scenarios**
 - 4 Participants completed the application as a Veteran's family member
 - 4 Participants completed the application as a funeral home representative
@@ -86,9 +89,6 @@ Notes from the moderator, notetakers, and observers were then synthesized to for
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
@@ -117,7 +117,7 @@ Labels: PRDT: Burials-memorials, BNFT: Memorialization
 
 **2. Nearly all participants opted in to Veteran demographics questions.**
 
-Labels: label 1, label 2 
+Labels: PRDT: Burials-memorials, BNFT: Memorialization
 
 -	7/8 participants opted in to Veteran demographic questions.
 -	1 participant opted out of Veteran demographic questions because they said they would not know that information as an organization contact (funeral home.)
@@ -136,10 +136,9 @@ Labels: label 1, label 2
 
 
 
-
 **3. Some participants were hesitant to enter Veteran information if they didn’t know for sure.**
 
-Labels: label 1, label 2 
+Labels: PRDT: Burials-memorials, BNFT: Memorialization
 
 - 7/8 participants opted in to Veteran demographic questions.
 - 1 participant opted out of Veteran demographic questions because they said they would not know that information as an organization contact (funeral home.)
@@ -159,6 +158,8 @@ Labels: label 1, label 2
 
 **4. Most participants generally understood the burial and claimed remains topics but had questions about eligibility with cremation.**
 
+Labels: PRDT: Burials-memorials, BNFT: Memorialization
+
 - Most participants thought the question “Are the Veteran’s remains buried in their grave?” as clear.
 - 3 participants wondered about cremated remains and how that would affect the process.
 - 1 participant suggested that “unclaimed” remains meant that the Veteran was also “unknown.”
@@ -174,6 +175,8 @@ Labels: label 1, label 2
 
 
 **5. Some participants experienced confusion around medallion type and sizing.**
+
+Labels: PRDT: Burials-memorials, BNFT: Memorialization
 
 -	Most participants understood that the Medal of Honor was not for everyone, and that you would need additional eligibility to receive that medallion. 
 -	Most participants think the medallion sizing is a preference. 
@@ -192,30 +195,77 @@ Labels: label 1, label 2
 
 >_“So the link just says learn more about the sizes so that tells me more about the sizes, not what they each mean. I think the picture helps and there are sizes under the list. It is nice to compare it to a coin for visual reference maybe some people will see the dimensions and be like ‘cool.’” - P6_
 
+**6. All participants understood the two-part application process, saying it was quick and straightforward.**
 
-## Additional Insights
+Labels: PRDT: Burials-memorials, BNFT: Memorialization
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+-	Participants understood the two-part application process, and thought it was quick, straight-forward and user friendly.
+-	Participants gave the Medallions and Multiple Signatures forms an overall rating of 4.5/5.
+-	3 participants referenced other VA.gov and said it fit well with the other forms, and that it was clearer and easier than others they have completed.
+
+
+>_“ I liked it and it reminds me of other government forms but clearer than some I have done. So that’s nice.” – P13_
+>
+>_“It fits well with the VA forms. Easy to fill and follow. … The second was very polished well but the first one I can fumble through without having been through the process before.” – P4_
+
+>_“I would give it a 5, it was the easiest applications I’ve done on the VA app.” - P10_
+
+>“It was straightforward. I didn’t see anything that would cause confusion or couldn’t find. I don’t see how anyone would be hindered on the process of applying.” – P3_
+
+>“Regarding the process itself I would give a 4/4.5 because of how they work together. Excellent process for everyone to be on the same page of things.” – P4_
+
+**7. Address validation was familiar and easily understood by most participants.**
+
+Labels: PRDT: Burials-memorials, BNFT: Memorialization
+
+-	Address Validation is familiar to most users, but there was some confusion with test data and knowing what the differences were between the suggested and entered addresses. 
+-	Participants generally understood what was being asked of them, and how they would proceed through address validation.
+-	Participants were careful to double check their address information when prompted with an alert. 
+-	Most participants knew to continue if they thought their information was correct.
+
+>_"I would need to double check which address is correct, if I typed it correctly I would click the one I typed.” – P2_
+
+>_“This tells me I want to make sure it is correct even though it wasn’t pulled up in the postal information. If it was correct I would use it and if it wasn’t I would edit it then come back here.”-  P4_
+
+>_“I would check to make sure I didn’t type anything wrong. I would still just use this address.” - P7_
+
+>_“The address entered against the suggested address is good because you can pick the correct one. That’s a good placement. I would like the suggested address to be a different color so I knew they were separate; it would show that they are different.” – P7_
+
+**Secondary findings**
+1. Most participants saw the benefit of filling out as much information as they could, regardless of non-required labeling. However, 2 participants stated that they would leave non-required fields blank, and 1 participant thought that the non-required fields were less important to the process.
+2. Most participants understood Applicant vs Veteran terminology, but 1 participant had expressed confusion on who the “applicant” was and why that information was needed if the benefit is for a Veteran.
+3. 2 participants were confused about the “personal representative” title compared to the “family member” title and wondered if they could be both. 
+4. All participants understood and successfully navigated through the service periods component.
+5. Participants reacted positively to the Presidential Memorial Certificate, and expressed interest in learning more about it, or said they would order 1 or more.
 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+1. Add help text in the demographics section to further explain the "prefer not to answer” option.
+2. Explore content additions for additional help in finding important Veteran's information.
+3. Explore content improvements to better explain "unclaimed remains" with an additional info component instead of defining ‘next of kin.’
+4. Explore content improvements to better explain medallion sizing.
+5. Provide hint text for medal of honor eligibility, citing documents that will be needed as evidence for this benefit.
+6. Provide additional help with sizing requirements and possible cemetery restrictions.
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+Share findings with stakeholders and other teams working on VA.gov
+Review recommendations
+Update the Medallions prototype to incorporate agreed-upon recommendations
+Begin epic creation
 
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+Findings did not include the perspectives of the following underserved Veteran groups:
+Other than honorable
+Expat (living abroad)
+LGBTQ+ 
+Assistive tech (due to prototype limitations)
+We recommend studies with these underserved groups in the future.
+
 
 
 ## Appendix
@@ -229,7 +279,7 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+Mural
 
 
 ## Pages and applications used
@@ -255,80 +305,53 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+_10 participants recruited_
 
-We talked to **x participants.**
+We talked to **8 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans/Family members/Caregivers: 7 
+* Veteran Service Officers:   1
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 3
+* Female: 5 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* 1
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 5 
+* Smart phone: 2 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
 
+* 55+ - 4 participants
+* 35+ -  2 participants
+* 18-34 - 2 participants
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
 
+* 2 of Immigrant origin
+* 3 some college, no college degree, 3 Bachelors degree, 2 Masters degree
+* 5 with cognitive disabilities
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
+* Urban: 3
+* Rural: 5
+  
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
+* White or Caucasian 3 
+* Asian - 1
+* Native Hawaiian or other Pacific Islanders - 1 
+* *Black or African America - 3 participant
+  
 
 ## Underserved groups we haven’t talked to 
 
