@@ -261,6 +261,8 @@ Now let's imagine that you want to make a follow-up appointment with your doctor
 - Any challenges or hiccups with the new portal? 
 - Any positive changes that users notice while using the new portal?
 
+-------
+
 ### Cohort 2: Medications 
 
 ### Arrive on VA.gov (5 mins) 
@@ -326,7 +328,7 @@ Now let's imagine that you want to make a follow-up appointment with your doctor
 - Are changes made to the national portal language or tools causing any confusion? 
 - Any challenges or hiccups with the new portal? 
 - Any positive changes that users notice while using the new portal?
-
+-------
 
 ### Cohort 3: Appointments
 
@@ -392,7 +394,7 @@ Thank you for showing me that.
 - Are changes made to the national portal language or tools causing any confusion? 
 - Any challenges or hiccups with the new portal? 
 - Any positive changes that users notice while using the new portal?
-
+-------
 ## <a name="cool-down"></a>Questionnaires (10 minutes)
 
 - Thank you for going through those tasks and all your insight. I just have a few final questions to ask you. You can stop sharing your screen now if you'd like to.
