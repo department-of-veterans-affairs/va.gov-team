@@ -99,7 +99,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 
-     - 10/31/2024
+     - 10/31/2024 - 11/4/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% - about 41 users per day (Based on ~5k users over 30 days who answered "Yes" to providing Toxic Exposure information)
 
