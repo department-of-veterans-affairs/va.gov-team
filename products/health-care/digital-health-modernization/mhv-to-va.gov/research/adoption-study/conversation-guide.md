@@ -153,8 +153,8 @@ _If mentions/attempts to click on try me banner_
 - What would you expect to happen if you clicked on that link/What kind of things would you expect to be able to do if you clicked on the link? 
 - Have you ever tried clicking on this before? 
 	- Can you tell me about that experience? 
-- What do you remember from that? If anything. 
-- Did you ever come back or try to come back to this “new” site? 
+	- What do you remember from that? If anything. 
+	- Did you ever come back or try to come back to this “new” site? 
 
 
 #### Things to note
@@ -169,17 +169,11 @@ _If mentions/attempts to click on try me banner_
 **Direct user to a "try-me" banner on one of these pages: Medications, Appointments, Secure Messages**
 
 - Towards the top of the screen, you will see a rectangular box with a message in it. 
-- When you've been on My HealtheVet in the past, have you ever noticed these banners? 
-- Have you ever used them? 
-
-_If yes_Tell me about experience
-Why did you decide to click on it? 
-Did you ever try to get back to VA.gov?/that “new” experience? (not sure the best way to ask this)
-Why/Why not? 
-If returned to VA.gov, Do you remember how you got there? 
-
-_ If no/unsure_
-
+- When you've been on My HealtheVet in the past, have you ever noticed these banners?
+- Have you ever tried clicking on this before? 
+	- Can you tell me about that experience? 
+	- What do you remember from that? If anything. 
+	- Did you ever come back or try to come back to this to get to VA.gov/ the “new” site?
 - Take a minute to read this message 
 - How would you describe this section? 
 - What do you think you can do from here?
@@ -192,12 +186,6 @@ _ If no/unsure_
 - Have the participants used the try-me previously? 
 - Do participants understand what the try-me banners are attempting to say? 
 - Anything particularly confusing? 
-
-
-**Direct user to a "try-me" banner on one of these pages: Medications, Appointments, Secure Messages**
-- Can you read this rectangular box with a message in it here?
-- What do you think this means?
-- Where would you expect the link to send you if you select it?
 
 Okay, now go ahead and select that link. 
 
