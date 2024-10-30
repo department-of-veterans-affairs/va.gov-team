@@ -1,5 +1,6 @@
 # 10-10EZ Veteran health care application Toxic Exposure Content update and Question Branching Logic - Release Plan 
-- Last updated: 10/29/2024
+- Last updated: 10/30/2024
+- Launch ticket [#96011](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96011)
 
 
 ## Step 1: Development
