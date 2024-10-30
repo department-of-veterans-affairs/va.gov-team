@@ -19,7 +19,7 @@ Slack for real-time feedback from observers.
 - [Warm up - 5 minutes](#warm-up)
 - [Set-up & sign-in - 10 minutes](#sign-in)
 - [My HealtheVet Classic - 15 minutes](#mhv-classic)
-- [My HealtheVet on VA.gov - 45 minutes](#mhv-va-gov)
+- [My HealtheVet on VA.gov - 30 minutes](#mhv-va-gov)
 - [Questionnaire - 5 minutes](#questionnaire)
 - [Cool-down - 5 minutes](#cool-down)
 
