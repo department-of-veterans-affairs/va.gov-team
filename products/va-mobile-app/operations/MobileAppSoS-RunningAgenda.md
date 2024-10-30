@@ -21,7 +21,7 @@
 ### Experience Team stats
 |Current # of Change Requests | # of Teams | 
 |-------| ---------|
-|10 | 8 |
+|10 | 7 |
 
 
 ## 10/30/24
@@ -31,6 +31,7 @@
   * [XP Team Requests](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13?filterQuery=label%3AEpic+team%3ALeads)
 * **New Exp Team work for Flagship teams in Sprint 110**
   * H&B: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9639
+      * Not adding new error handling, just updating content
   * Global: https://github.com/department-of-veterans-affairs/va-mobile-app/issues/9619 
 
 ## 10/16/24
