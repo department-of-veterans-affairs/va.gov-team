@@ -98,11 +98,23 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 Extrapolated from [CC VDSS SoPs](https://dvagov-my.sharepoint.com/:w:/g/personal/robert_meehan3_va_gov/ETsqC2BnBwJGiJuFsrBzdHABjHqlpcjoWh2TdN1lrKEB1g?e=aNMiDe): 
 
-**TO DO - let's tighten this up before we show it to anyone**
+**NOTE: there are 2 use cases, one where the Veteran clicks on the SMS/Email link and the other where they go directly to VA.gov and start from there**
 
-Lori will put down some thoughts; Anita is setting up a meeting to discuss
+| Use Case | Metric | Description | Capture Method | Responsible |
+|----- |----- | ------- | ----- | ----- | 
+| SMS | Number who started the process | User clicked the link sent them via SMS/email | DataDog StatsD | UAE |
+| SMS | Number who successfully scheduled an appointment | Successful calls to the scheduling API | DataDog StatsD | UAE |
+| SMS | Number who received an error while scheduling | Failed calls to the schedulihng API | DataDog StatsD | UAE |
+| SMS | Time to complete the process | Time between starting and completing the process | DataDog StatsD | UAE |
+| VA.gov | Number who started the process | User clicked the "Schedule your appointment" link for a referral on the Referrals and Requests page | DataDog StatsD | UAE |
+| VA.gov | Number who successfully scheduled an appointment | Successful calls to the scheduling API | DataDog StatsD | UAE |
+| VA.gov | Number who received an error while scheduling | Failed calls to the schedulihng API | DataDog StatsD | UAE |
+| VA.gov | Time to complete the process | Time between starting and completing the process | DataDog StatsD | UAE |
+| All | Customer/Veteran Experience | CSAT from Medallia survey on confirmation page and scheduling workflow pages | Medallia | UAE |
+| All | Number of authorized referrals where Veteran has indicated a digital self-schedule preference | same | |  ????? |
 
-| Pilot KPIs | Source |
+
+| KPIs | Source |
 |----- | ------- |
 | Number of scheduled VDSS appointments via VA.gov | VAOS backend service |
 | Number of scheduled appointments in EPS | Appointments submitted to EPS from vets-api |
