@@ -38,7 +38,8 @@ Key considerations include the timeline and the data provider teams’ capacity 
 
 ### Key Takeaways / Next Steps
 - **Review Meeting with Tom & Samara** (10/30): Reviewed automation options; Options C/D were dismissed due to the increased workload they place on provider teams.
-- **Preferred Options**: Options A and B are most viable, with Option A serving as a prerequisite to Option B. 
+- **Preferred Options**: Options A and B are prefererable, with Option A serving as a prerequisite to Option B.
+- **Effort vs. Benefit Monitoring**: Continue to assess the level of effort versus benefits, especially given the finite timeline for credential deprecation. Identify quick wins and small improvements that can streamline the process without significant overhaul.
 - **Immediate Action Items**:
   - John will configure Domo Workbench on his CAG instance to reduce the current dependency on Steve for report generation.
   - Team will submit provisioning requests to test the feasibility of Option A within the VA network.
