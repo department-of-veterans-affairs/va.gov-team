@@ -1,4 +1,4 @@
-# Manual-UI Test Plan - Travel Pay for Past Appointments
+# Manual-QA Test Plan - Travel Pay for Past Appointments
 
 ## Project Summary Epic [[Epic] Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62496) 
 Added a feature that allows Veterans to submit a simple mileage-only travel reimbursement claim for past VA appointments that have occurred in the past 30 days for in-person appointments, vaccine appointments, or video appointments at a VA facility.
