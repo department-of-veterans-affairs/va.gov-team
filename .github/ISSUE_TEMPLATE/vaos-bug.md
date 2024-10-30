@@ -3,7 +3,7 @@ name: VAOS Bug Template
 about: For filing VAOS bugs found
 title: ''
 labels: bug, appointments
-assignees: ldelacosta
+assignees: JRRoof
 
 ---
 
@@ -32,7 +32,7 @@ _Describe what was supposed to happen; reference existing Github issue that cont
 
 ---
 ## How to configure this issue
-- [ ] **Labeled with Team** (`vaos`)
+- [ ] **Labeled with Team** (`appointments`)
 - [ ] **Labeled with Practice Area** (`backend`, `frontend`, `design`, `product`)
-- [ ] **Labeled with** `Bug`
+- [ ] **Labeled with** `bug`
 - [ ] **Assigned to** Product for prioritization
