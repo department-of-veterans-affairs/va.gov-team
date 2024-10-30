@@ -53,7 +53,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Rollout Planning
 
 - Desired date range:
-     - 10/29-11/6
+     - 10/31-11/6
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - We will limit the number of users by using the Flipper toggle, phasing the launch
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
@@ -70,29 +70,29 @@ Before enabling your feature toggle in production, you'll need to:
 |Avg Engagement time per session in the military section |3m 2s (182 seconds)| 2m 16s (136.5 seconds)  | TBD | TBD |
 
 
-#### **Key Result #2:** An increase in users reporting toxic exposures
+#### **Key Result #2:** A 10% increase in users reporting toxic exposures, due to additional content to include exposures during training
 - Users who answer "Yes" to at least one of the Toxic Exposure questions
 - Data source - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&refresh_mode=sliding&from_ts=1730212537721&to_ts=1730216137721&live=true)
 
 | Product KPI | Historical Sept 29-Oct28 |Target| Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Toxic Exposure reports |5,090| TBD  | TBD | TBD |
-|Radiation Cleanup reports |69| TBD  | TBD | TBD |
-|Gulf War Service reports |1,920| TBD  | TBD | TBD |
-|Operations reports |1,790|TBD  | TBD | TBD |
-|Agent Orange reports |710| TBD  | TBD | TBD |
-|Other Toxins or Hazards reports |10,176| TBD  | TBD | TBD |
+|Toxic Exposure reports |5,090| 5,599 | TBD | TBD |
+|Radiation Cleanup reports |69| 76 | TBD | TBD |
+|Gulf War Service reports |1,920| 2,112 | TBD | TBD |
+|Operations reports |1,790|1,969 | TBD | TBD |
+|Agent Orange reports |710| 781 | TBD | TBD |
+|Other Toxins or Hazards reports (total selections) |10,176| 11,193 | TBD | TBD |
 
-#### **Key Result #3:** An increase in users completing the toxic exposures section
+#### **Key Result #3:** A 20% increase in users completing the toxic exposures section
 - Users who answer "Yes" to at least one of the Toxic Exposure questions and subsequently complete the section, moving on to the rest of the form
 - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
 
 | Product KPI | Historical Sept 29-Oct28|Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Toxic Exposure section completions |5,930| TBD  | TBD | TBD |
+|Toxic Exposure section completions |5,930| 7,116 | TBD | TBD |
 
 
-#### **Key Result #4:** Reduction of Medallia feedback mentioning being asked irrelevant questions
+#### **Key Result #4:** No Medallia feedback mentioning being asked irrelevant questions
 - Data source - Monthly Medallia survey results
 
 
@@ -112,10 +112,9 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 
-     - 10/29
+     - 10/31
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% - about 41 users per day (Based on ~5k users over 30 days who answered "Yes" to providing Toxic Exposure information)
-     - This is to ensure the pages are working as expected, and causing no issues navigating, providing input, and submitting the form. 
 
 #### Results
 
@@ -133,7 +132,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time:
-     - 10/30
+     - 11/4/2024-11/6/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 50% - about 83 users per day (Based on ~5k users over 30 days who answered "Yes" to providing Toxic Exposure information)
 
@@ -153,7 +152,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time:
-     - 10/31
+     - 11/6/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% - about 166 users per day (Based on ~5k users over 30 days who answered "Yes" to providing Toxic Exposure information)
 
