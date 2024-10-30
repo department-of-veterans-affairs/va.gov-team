@@ -42,7 +42,7 @@ Consider the speed and performance of the experience. High-frequency, performanc
 - **Additional considerations**: To create a streamlined experience, remove unnecessary elements like top URLs, navigation bars, and headers. This prevents redundancy with app navigation, optimizes screen space, and focuses the user on the core content.
 
 ### 3. Single Sign On (SSO) to Browser:
-- **Condition**: SSO from mobile app to va.gov works. Users can access directly from a browser. Users install the mobile app on their hardware device(s), click on a link in-app, and navigate to a browser.
+- **Condition**: SSO from mobile app to va.gov works -- as of October 2024, development is in progress, with estimated target delivery of December 2024. Users can access directly from a browser. Users install the mobile app on their hardware device(s), click on a link in-app, and navigate to a browser.
 - **When to Use**: For more complex or secure actions that do not have a native implementation and require authentication (e.g., viewing labs and test results).
 - **Example**: A "Labs & Tests" feature could be implemented by sending users via SSO to the authenticated VA.gov browser experience, where they can access their results without needing a fully native implementation.
 - **Additional considerations**:
