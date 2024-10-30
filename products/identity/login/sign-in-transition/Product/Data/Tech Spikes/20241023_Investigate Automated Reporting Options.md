@@ -36,5 +36,9 @@ These options break down to two main approaches: moving the Domo Workbench insta
 ### Considerations: Timeline & Data Provider Readiness
 Key considerations include the timeline and the data provider teams’ capacity or willingness to take on the current Domo Workbench steps. **If there is desire to support these dashboards long-term**, **we recommend Option D:** working with the data provider teams to remove the dependency on Domo Workbench and develop a process for them to upload directly to Domo. **For a short-term solution**, moving Domo Workbench to a VM within the VA network gives us options to remove the VPN limitations. Because Domo Workbench operates locally, we can add redundancy by setting up instances on other team members’ CAG Windows environments to manually run the preprocessing steps and uploading to the Domo cloud **(Option A)**.
 
-### Next Steps
-Review these findings and automation options with Tom and Samara to determine the path forward: whether to automate, and if so, which approach to pursue. 
+### Key Takeaways / Next Steps
+- **Review Meeting with Tom & Samara** (10/30): Reviewed automation options; Options C/D were dismissed due to the increased workload they place on provider teams.
+- **Preferred Options**: Options A and B are most viable, with Option A serving as a prerequisite to Option B. 
+- **Immediate Action Items**:
+  - John will configure Domo Workbench on his CAG instance to reduce the current dependency on Steve for report generation.
+  - Team will submit provisioning requests to test the feasibility of Option A within the VA network.
