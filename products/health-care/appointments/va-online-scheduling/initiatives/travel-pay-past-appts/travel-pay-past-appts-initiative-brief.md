@@ -71,6 +71,7 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
             - In-person vaccine appointment
             - Video at a VA facility appointment
         - No BT claim has been filed for the Veteran for the same day and same facility as the selected appointment
+           - If a claim has already been filed, Veteran can choose to view the status of the claim in the new BT Status Claim Tool
 - System navigates the Veteran to the new online mileage-only BT claim form
     - NOTE: System passes the Veteran's patient ICN and appointment date & time to the new beneficiary travel claim submission form
 - Veteran answers 'Yes' to the following questions
