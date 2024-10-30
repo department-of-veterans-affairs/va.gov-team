@@ -4,6 +4,8 @@ This document is intended to guide development teams building experiences in the
 
 It starts with high-level decision criteria which should be reviewed before building any experience, then provides additional context for each user experience type.
 
+For a quick overview of differences between web apps vs. native apps, see [here](https://aws.amazon.com/compare/the-difference-between-web-apps-native-apps-and-hybrid-apps/)
+
 ## Key Decision Criteria:
 
 ### User Experience:
