@@ -37,8 +37,7 @@
 ### Additional checks for Resources and Support articles
 
 - [ ] Confirm H2s, H3s, and H4s are within the 70-character limit.
-- [ ] Confirm related links have been added to the file and make sense for the topic of the page (i.e., they’re actually related to the article—rather than “something you may also be interested in”—and there isn’t an obvious one that’s missing).
-- [ ] Determine if this new article should be added as a related link on any live articles. 
+- [ ] Confirm related links have been added to the file and make sense for the topic of the page (i.e., they’re actually related to the article—rather than “something you may also be interested in”—and there isn’t an obvious one that’s missing). 
 - [ ] When considering the wording for your CTA text, check to see if a label is already in use for this CTA on VA.gov. Reuse existing CTA text when possible. [Check the master list of labels for buttons and action links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
 - [ ] If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov.
 - [ ] Confirm that screen shots or other images have alt text that describes the image. Screen readers will read this text to the user, and search engines use it to assess the purpose of the page. [Learn how to write alt text on WebAIM](https://webaim.org/techniques/alttext/)
@@ -54,6 +53,7 @@
 ## Post-publishing R&S checklist
 
 - [ ] Add the article to the R&S landing page in the correct hub. If there are already more than 5 articles in that hub, check the analytics of all the listed stories on the landing page. Then determine with Beth and Danielle if the article should replace any of the articles that are currently on the page.
+- [ ] Determine if this new article should be added as a related link on any live articles.
 - [ ] If the article is the sixth one in a hub to be published, add the "Go to all articles" link at the bottom of the hub section on the landing page.
 - [ ] [Add the action link wording to our Github file of action link labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md).
 - [ ] [Add the new article to our Github file of R&S articles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/resources-and-support-article-list.md).
