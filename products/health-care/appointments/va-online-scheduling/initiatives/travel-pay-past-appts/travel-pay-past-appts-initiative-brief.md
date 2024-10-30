@@ -64,25 +64,28 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
 [Wireframes](https://www.figma.com/design/RzugGEmu4drhCSHTyQ6hjl/Simple-mileage-only-travel-pay-claim-submission?node-id=2135-3&node-type=canvas&t=nTKuyiruyK0ah1Z6-0)
 
 ### Solution Steps
+- Veteran logs into VA.gov
 - Veteran navigates to past appointments on VA.gov
-- Veteran chooses a past appointment and navigates to the appointment details for the selected appointment
-- Veteran chooses to file a BT claim for the selected appointment
-    - Appointment will only have the option to file if the following criteria are met
-        - Appointment occured before today and within the last 30 days
-        - Appointment is one of these in-person appointment types
+- Veteran selects a past appointment and navigates to the appointment details for the selected appointment
+- System determines if the selected appointment is eligible for mileage-only travel reimbursement
+    - An appointment is eligible for mileage-only travel reimbursement when
+        - It occured within the last 30 days
+        - It is one of these in-person appointment types:
             - In-person appointment
             - In-person vaccine appointment
-            - Video at a VA facility appointment
-        - No BT claim has been filed for the Veteran for the same day and same facility as the selected appointment
-           - If a claim has already been filed, Veteran can choose to view the status of the claim in the new BT Status Claim Tool
-- System navigates the Veteran to the new online mileage-only BT claim form
-    - NOTE: System passes the Veteran's patient ICN and appointment date & time to the new beneficiary travel claim submission form
-- Veteran answers 'Yes' to the following questions
-    - Filing mileage-only claim?
-    - Used own vehicle to travel to the appointment?
-    - Travelled from Veteran's on-file home address?
-- Veteran chooses to submit the form
-- System submits a mileage-only travel reimbursement claim for the selected appointment date & facility for the Veteran
+            - Video at a VA facility appointment- 
+- If the selected appointment is eligible for a mileage-only travel claim, Veteran can choose one of these actions    
+    - If no claim has yet been filed for the selected appointment date and facility, Veteran can choose to submit a claim
+        - System navigates the Veteran to the new online mileage-only BT claim form 
+        - Veteran answers 'Yes' to the following questions
+            - Filing mileage-only claim?
+            - Used own vehicle to travel to the appointment?
+            - Travelled from Veteran's on-file home address?
+        - Veteran submits the form
+        - Veteran receives confirmation that their claim has been submitted
+    - If a claim has already been filed for the selected appointment date and facility, Veteran can choose to view the status of the claim
+        - System navigates the Veteran to the new BT Status Claim tool
+        - Veteran views the status of the claim
 
 ## Launch Planning
 - [Collaboration Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89153)
