@@ -63,17 +63,16 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Objective: Update the 10-10EZ Toxic Exposure section, so Veterans are asked to provide relevant Toxic Exposure details while applying for VA health care.
 
-#### **Key Result #1:** A 25% reduction of user engagement time spent within the TERA questions
-- Data source - [Google Analytics (GA4) Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/dZ_qMurmRZiGKuFENIthOQ)
+- **Key Result #1:** A 25% reduction of user engagement time spent within the TERA questions
+     - Data source - [Google Analytics (GA4) Dashboard](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/dZ_qMurmRZiGKuFENIthOQ)
 
 | Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
 |Avg Engagement time per session in the military section |3m 2s (182 seconds)| 2m 16s (136.5 seconds)  | TBD | TBD |
 
-
-#### **Key Result #2:** A 10% increase in users reporting toxic exposures, due to additional content to include exposures during training
-- Users who answer "Yes" to at least one of the Toxic Exposure questions
-- Data source - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&refresh_mode=sliding&from_ts=1730212537721&to_ts=1730216137721&live=true)
+- **Key Result #2:** A 10% increase in users reporting toxic exposures, due to additional content to include exposures during training
+     - Users who answer "Yes" to at least one of the Toxic Exposure questions
+     - Data source - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&refresh_mode=sliding&from_ts=1730212537721&to_ts=1730216137721&live=true)
 
 | Product KPI | Historical Sept 29-Oct28 |Target| Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
@@ -84,17 +83,17 @@ Before enabling your feature toggle in production, you'll need to:
 |Agent Orange reports |710| 781 | TBD | TBD |
 |Other Toxins or Hazards reports (total selections) |10,176| 11,193 | TBD | TBD |
 
-#### **Key Result #3:** A 20% increase in users completing the toxic exposures section
-- Users who answer "Yes" to at least one of the Toxic Exposure questions and subsequently complete the section, moving on to the rest of the form
-- Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
+- **Key Result #3:** A 20% increase in users completing the toxic exposures section
+     - Users who answer "Yes" to at least one of the Toxic Exposure questions and subsequently complete the section, moving on to the rest of the form
+     - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
 
 | Product KPI | Historical Sept 29-Oct28|Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
 |Toxic Exposure section completions |5,930| 7,116 | TBD | TBD |
 
 
-#### **Key Result #4:** No Medallia feedback mentioning being asked irrelevant questions
-- Data source - Monthly Medallia survey results
+- **Key Result #4:** No Medallia feedback mentioning being asked irrelevant questions
+     - Data source - Monthly Medallia survey results
 
 
 
