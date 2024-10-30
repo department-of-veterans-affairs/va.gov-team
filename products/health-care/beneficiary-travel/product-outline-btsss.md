@@ -10,7 +10,7 @@ VA aims to improve the tooling and accessibility of the beneficiary travel syste
 
 The existing BTSSS system is siloed from other systems and the current VA.gov Veteran experience. Veterans are not able to easily discover, access, authenticate into and complete travel claims using BTSSS due to a complex user experience that was not built using human centered design principles.
 
-Staff travel clerks often have to take manual steps to fix, validate and process claims that were entered erroneously or on paper.
+Staff travel clerks often have to take manual steps to fix, validate, and process claims that were entered erroneously or on paper.
  
 ## Desired User Outcomes
 
@@ -18,11 +18,9 @@ Staff travel clerks often have to take manual steps to fix, validate and process
 - Able to interact travel reimbursement functionality where it is needed by leveraging an API-first approach
 - Enjoy a simple, intuitive experience that meets all VA.gov accessibility, design standards, and performance standards
 
-
 ## Undesired User Outcomes
 
 - Increased usage of the existing Veteran-facing BTSSS portal
-
 
 ## Desired Business Outcomes
 
@@ -30,16 +28,13 @@ Staff travel clerks often have to take manual steps to fix, validate and process
 - Increase travel claim submission accuracy
 - Decrease the number of manually reviewed claims
 
-
 ## Undesired Business Outcomes
 
 - Re-writing the BTSSS backend, business rules, or processing pipelines
 - Creating additional work for travel reimbursement staff
 
-
 ---
 ## Measuring Success
-
 
 ### Key Performance Indicators (KPIs)
 - Number of Call Center / Help Desk inquiries about beneficiary claim status
@@ -97,13 +92,13 @@ Staff travel clerks often have to take manual steps to fix, validate and process
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
-## Launch Dates
-- *Target Launch Date*
-  - tbd
+## Rollout Dates
+- *Target Launch Date - Travel Pay Status Page*
+  - May 2024
 - *Actual Launch Date* 
-  - tbd
+  - TBD
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - Two months after actual launch
 
 ---
 
@@ -132,7 +127,8 @@ Travel Claims Portal - Appointments List
 
 ### After
 
-
 _What offices/departments are critical to make this initiative successful?_
- 
-</details>
+ -VTP
+ -VEO
+ -OCTO
+ -Call Center
