@@ -162,6 +162,7 @@ sequenceDiagram
     VetsAPI->>EPS: Create Draft Appointment (patient ID, and referral ID)
     EPS->>VetsAPI: Get appointmentId from this call
     VetsAPI->>EPS: Get provider data based on referral / patient preferred provider (NPI? ID?)
+    VetsAPI->>EPS: Get drive time to provider, combine with provider data
     EPS->>VetsAPI: Return provider data
     VetsAPI->>Frontend: Return provider data
     Frontend-->Frontend: Store provider data in referral Redux object
