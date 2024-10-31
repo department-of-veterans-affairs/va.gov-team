@@ -5,11 +5,11 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
 
 ## Business Rules 
 - An appointment is eligible for mileage-only travel reimbursement when
-        - It occured within the last 30 days
-        - It is one of these in-person appointment types:
-            - In-person appointment
-            - In-person vaccine appointment
-            - Video at a VA facility appointment 
+    - It occured within the last 30 days
+    - It is one of these in-person appointment types:
+        - In-person appointment
+        - In-person vaccine appointment
+        - Video at a VA facility appointment 
 - Veterans can file only one mileage-only travel reimbursement claim per day per VA facility
 
 ## Wireframes
@@ -22,50 +22,58 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
  
 #### Use Case 1 - Submit Claim
 - **Configuration**
-  - Test user should have a VA in person appointment scheduled for within the last 30 days for which a travel reimbursement claim has not been submitted for the appointment date & facility
+  - Test user should have a VA in person or video at VA facility appointment that occurred within the last 30 days for which a travel reimbursement claim has **NOT** been submitted for the appointment date & facility
 
 - **Test Steps**
   - Navigate to [Staging](http://staging.va.gov/?next=loginModal&oauth=true)
-  - Log in using ID.me and one of the [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
+  - Click ID.me
+  - Enter the email and password using one of the [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
+  - Click Sign in
   - Click Continue
   - Click Continue
   - Navigate to **VA Benefits and Health Care** -> **Health care** -> **Schedule and manage health appointments**
-  - Choose **Go to appointments on VA.gov**
-  - Click link **Past** to navigate to past appointments
-  - Click link **Details** for an in-person or video at VA appointment within the last 30 days to navigate to the appointment details
-  - See the number of days left to file for travel reimbursement and verify
-  - Choose link **File a travel reimbursement claim** to navigate to the new Simple Mileage-Only Travel Claim form
+  - Click **Go to appointments on VA.gov**
+  - Click **Past** to navigate to past appointments
+  - Click **Details** for an in-person or video at VA appointment that occurred within the last 30 days for which a travel reimbursement claim has **NOT** been submitted for the appointment date & facility
+  - See the number of days left to file for travel reimbursement for this appointment
+  - Click **File a travel reimbursement claim** to navigate to the new Simple Mileage-Only Travel Claim form
   - Complete and submit the form (i.e. answer yes to all questions)
   - See confirmation that the claim has been submitted
 
 #### Use Case 2 - View Claim Status
 - **Configuration**
-  - Test user should have a VA in person appointment scheduled for within the last 30 days and for which a travel reimbursement claim has alreay been submitted for the appointment date & facility
+    - Test user should have a VA in person or video at VA facility appointment that occurred within the last 30 days and for which a travel reimbursement claim has **ALREADY** been submitted for the appointment date & facility
 
 - **Test Steps**
-  - Navigate to [Staging](http://staging.va.gov/?next=loginModal&oauth=true)
-  - Log in using ID.me and one of the [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
-  - Click Continue
-  - Click Continue
-  - Navigate to **VA Benefits and Health Care** -> **Health care** -> **Schedule and manage health appointments**
-  - Choose **Go to appointments on VA.gov**
-  - Click link **Past** to navigate to past appointments
-  - Click link **Details** for an in-person or video at VA appointment for which a mileage-only travel claim has already been submitted
-  - See content that says a claim has already been filed for this appointment
-  - Choose link **Check your claim status** to navigate to the new Travel Claim Status tool
-  - Select the claim and view the status
+    - Navigate to [Staging](http://staging.va.gov/?next=loginModal&oauth=true)
+    - Click ID.me
+    - Enter the email and password using one of the [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
+    - Click Sign in
+    - Click Continue
+    - Click Continue
+    - Navigate to **VA Benefits and Health Care** -> **Health care** -> **Schedule and manage health appointments**
+    - Click **Go to appointments on VA.gov**
+    - Click **Past** to navigate to past appointments
+    - Click **Details** for an in-person or video at VA appointment that occurred within the last 30 days for which a travel reimbursement claim has **ALREADY** been submitted for the appointment date & facility
+    - See content that says a claim has already been filed for this appointment
+    - Click **Check your claim status** to navigate to the new Travel Claim Status tool
+    - Select the claim and view the status
 
-#### Use Case 3 - Missing Deadline
+#### Use Case 3 - Missed Deadline
 - **Configuration**
-  - Test user should have a VA in person appointment scheduled for over 30 days ago and for which a travel reimbursement claim has not been submitted for the appointment date & facility
+    - Test user should have a VA in person or video at VA facility appointment that occurred over 30 days ago and for which a travel reimbursement claim has **NOT** been submitted for the appointment date & facility
 
 - **Test Steps**
-  - Navigate to [Staging](http://staging.va.gov/?next=loginModal&oauth=true)
-  - Log in using ID.me and one of the [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
-  - Click Continue
-  - Click Continue
-  - Navigate to **VA Benefits and Health Care** -> **Health care** -> **Schedule and manage health appointments**
-  - Choose **Go to appointments on VA.gov**
-  - Click link **Past** to navigate to past appointments
-  - Click link **Details** for an in-person or video at VA appointment for which a mileage-only travel claim has already been submitted
-  - See content that indicates that the Veteran missed the deadline for filing; along with a link to learn about how to file
+    - Navigate to [Staging](http://staging.va.gov/?next=loginModal&oauth=true)
+    - Click ID.me
+    - Enter the email and password using one of the [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
+    - Click Sign in
+    - Click Continue
+    - Click Continue
+    - Navigate to **VA Benefits and Health Care** -> **Health care** -> **Schedule and manage health appointments**
+    - Click **Go to appointments on VA.gov**
+    - Click **Past** to navigate to past appointments
+    - Click **Details** for an in-person or video at VA appointment that occurred over 30 days **AGO** for which a travel reimbursement claim has **NOT** been submitted for the appointment date & facility
+    - See content that indicates that the Veteran missed the deadline for filing
+    - Click **Learn more about travel reimbursement**
+    - See information about how to file for travel reimbursement
