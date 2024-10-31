@@ -9,7 +9,7 @@ Use the outline (hamburger menu) in this document to view and navigate the diffe
 
 This document details how to create, update, and close a CAIA ticket, ensuring all the custom field data is correctly entered.
 
-### CAIA Github terms and definitions
+### CAIA Github Terms and Definitions
 
 | **Term** | Definition |
 |------------------------|------------------|
