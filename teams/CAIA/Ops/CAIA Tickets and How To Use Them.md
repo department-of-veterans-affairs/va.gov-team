@@ -3,11 +3,7 @@
 > **Current WIP Version:** `V1.1`
 
 ## In this Document
-- Overview
-- Ticket Types
-- Work Ticket Templates
-- Custom Fields
-- Ticket Status
+Use the outline in this document to navigate the different sections. 
 
 ## Overview
 
