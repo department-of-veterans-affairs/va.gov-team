@@ -35,6 +35,7 @@ As a Veteran, I would like to easily submit online a BT claim for a past appoint
     - If a claim has already been filed for the selected appointment date and facility, Veteran can choose to view the status of the claim
         - System navigates the Veteran to the new BT Status Claim tool
         - Veteran views the status of the claim
+    - If the Veteran missed the deadline to file a claim, Veteran can choose to navigate to a resource page that gives instructions for filing travel reimbursement claims
 
 ### Technical notes
    
