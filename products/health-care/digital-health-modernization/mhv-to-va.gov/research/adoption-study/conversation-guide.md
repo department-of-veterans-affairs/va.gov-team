@@ -126,7 +126,7 @@ _Optional probes_ - very flexible, adapt as appropriate depending on participant
 _Once explored a bit_
 
 **Note:** Use the task participants said earlier in interview (what they typically do on MHV) 
-
+- Go ahead and show me how you [insert what task they typically do on MHV] 
 Additional prompts if needed: 
 - Go ahead and show me how you check your Messages from your doctor. 
 - Go ahead and show me how you would refill a medication that needs to be refilled.
