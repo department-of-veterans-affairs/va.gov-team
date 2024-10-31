@@ -168,8 +168,8 @@ Milestone | Date | Link to issue |
 - GitHub Label(s): Public Websites
 - Slack channel: #proj-sitewide
 - Product POCs:
- - Michelle Middaugh - OCTO PO
- - Fran Cross - A6 PM
- - Jill Adams - A^ Delivery Manager
+   - Michelle Middaugh - OCTO PO
+   - Fran Cross - A6 PM
+   - Jill Adams - A^ Delivery Manager
 
 </details>
