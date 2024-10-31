@@ -147,8 +147,6 @@ sequenceDiagram
     Frontend->>VetsAPI: Get referral data
     VetsAPI->>Postgres: Fetch referral data (or MAP system once complete possibly)
     Postgres->>VetsAPI: Return referral data
-    VetsAPI->>EPS: Create Draft Appointment (patient ID, and referral ID)
-    EPS->>VetsAPI: Get appointmentId from this call
     VetsAPI->>VistA: Get VistA appointments
     VistA->>VetsAPI: Return VistA appointments
     VetsAPI->>EPS: Get EPS appointments for patientId
@@ -161,6 +159,8 @@ sequenceDiagram
     Note over User: Starting appointment process page
     Frontend->>Frontend: getReferralData() from Redux
     Frontend->>VetsAPI: Get provider data
+    VetsAPI->>EPS: Create Draft Appointment (patient ID, and referral ID)
+    EPS->>VetsAPI: Get appointmentId from this call
     VetsAPI->>EPS: Get provider data based on referral / patient preferred provider (NPI? ID?)
     EPS->>VetsAPI: Return provider data
     VetsAPI->>Frontend: Return provider data
