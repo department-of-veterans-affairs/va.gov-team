@@ -234,7 +234,7 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 ### Two-tier Approach
 
 #### First Pass (Initial Release)
-- Store referral data from MAP until the appointment exists in vista-api-x.
+- Store referral data from MAP until the appointment exists in CCRA.
 - Daily checks for appointment existence in Vista.
 - Additional check when user views appointments.
 - Remove referral data once the appointment is verified in Vista.
