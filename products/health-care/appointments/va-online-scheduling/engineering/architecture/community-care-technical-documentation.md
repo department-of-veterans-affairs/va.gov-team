@@ -154,7 +154,6 @@ sequenceDiagram
     VetsAPI->>EPS: Get EPS appointments for patientId
     EPS->>VetsAPI: Return EPS appointments for patientId
     VetsAPI->>VetsAPI: validateAppointments() (for referrals already made in EPS, for referrals that are already appointments in VistA)
-    VetsAPI-->>VetsAPI: Get necessary referral and provider data for first page
     VetsAPI-->>Frontend: Return referral data
     Frontend->>Frontend: Store referral data in Redux
     
