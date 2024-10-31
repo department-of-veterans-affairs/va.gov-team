@@ -212,17 +212,21 @@ sequenceDiagram
 
 Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) service, we're going to use that resource. We have discussed this with the VAOS backend engineering team and they are in agreement with this approach. This avoids any confusion for the Appointment resource and object. However the downside is that we're going to have to add logic to retrieve the appointments from EPS and dedupe those within the existing appointments service code, which is going to add complexity and latency for existing consumers.
 
-'Referrals' is going to be a new resource. Endpoints are:
+'Referral' and 'Provider' are going to be a new resources. Endpoints are:
 
-* GET `/vaos/v2/referrals`
+* GET `/vaos/v2/referrals` (new)
   
   Sample Response
   ```
   TBD
   ```
 * GET `/vaos/v2/appointments` (existing)
-* GET `/vaos/v2/appointment` (existing)
-* POST `/vaos/v2/appointment` (existing)
+* GET `/vaos/v2/appointments/{appointmentId}` (existing)
+* POST `/vaos/v2/appointments` (existing)
+* GET `/vaos/v2/providers` (new)
+* GET `/vaos/v2/providers/{providerId}/slots` (new)
+* GET `/vaos/v2/providers/{providerId}/drivetime` (new)
+
 
 ## Removing duplicates and preventing duplicates of referrals
 - A duplicate referral refers to a referral that has already been entered into our system. The incoming referral ID will match an existing referral ID in our postgress DB. This is likely a referral that hasn't been scheduled into an appointment yet. See blow for existing appointment
