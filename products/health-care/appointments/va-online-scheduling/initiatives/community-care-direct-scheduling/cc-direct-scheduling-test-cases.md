@@ -9,9 +9,9 @@ Allows Veterans who have indicated their preference to directly schedule their c
 ## Test Users 
 - [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
-## Use Cases
+## Test Cases
  
-#### Use Case 1 - Veteran Receives a Link to Schedule their Appointment
+### Test Case 1 - Schedule via Push Notification
 - **Configuration**
   - Test user should have an approved, non-expired referral for which they have not already scheduled an appointment
 
@@ -29,7 +29,7 @@ Allows Veterans who have indicated their preference to directly schedule their c
   - Click "Confirm"
   - View your appointment details
 
-#### Use Case 2 - Veteran Logs into VA.gov to Schedule their Appointment
+### Test Case 2 - Schedule via VA.gov
 - **Configuration**
   - Test user should have an approved, non-expired referral for which they have not already scheduled an appointment
 
@@ -47,3 +47,23 @@ Allows Veterans who have indicated their preference to directly schedule their c
   - Review your appointment information
   - Click "Confirm"
   - View your appointment details
+ 
+ ## Error Cases
+ 
+ ### Error Case 1 - Already Have an Appointment at Selected Time
+ ![image](https://github.com/user-attachments/assets/0ea8286b-e6bc-4079-b63a-5751cb340cd7)
+ 
+ ### Error Case 2 - Couldn't Schedule Selected Appointment
+ ![image](https://github.com/user-attachments/assets/3ebcd2e6-4572-4d04-ac7f-80c8c5620a4e)
+ ![image](https://github.com/user-attachments/assets/3fcc9a04-7238-426a-a560-b48c2a8c5370)
+ ![image](https://github.com/user-attachments/assets/5f24fdef-c171-4760-a5a1-3d9c611dc2ac)
+
+ ### Error Case 3 - Can't Get Referral Information
+ ![image](https://github.com/user-attachments/assets/cf73f0ba-0968-4271-90f3-1dffa93e58ae)
+
+ ### Error Case 4 - Referral has Expired
+ ![image](https://github.com/user-attachments/assets/d53d8386-f7fc-4443-8783-804992ecfc49)
+
+ ### Error Case 5 - No Time Slots Available
+ ![image](https://github.com/user-attachments/assets/c174cd5b-3c63-4416-bd44-e47cc4a7825b)
+ 
