@@ -7,6 +7,7 @@ This initiative allows Veterans to file a mileage-only beneficiary travel (BT) r
  
 ## Product Documents
 - [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-initiative-brief.md)
+- [Feature Reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/feature-reference/travel-pay-past-appts/travel-pay-past-appts-feature.md)
 - [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-test-cases.md)
 - [QA Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-qa-plan.md)
 - [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-release-plan.md)
