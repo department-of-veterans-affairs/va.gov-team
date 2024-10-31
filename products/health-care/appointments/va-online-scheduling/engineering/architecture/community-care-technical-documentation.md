@@ -21,7 +21,7 @@ The External Referral Appointment Scheduling System is designed to automate and 
 - Ensuring compliance with VA accessibility standards
 
 ## Assumptions
-1. Referral data through MAP services which references CCRA
+1. Referral data through MAP services which references CCRA (which is built within HSRM, a 3rd party cloud system)
 2. Veterans have access to either SMS or email for receiving notifications
 3. The EPS system is available and can be integrated for appointment scheduling
 4. Staff members will continue to manually synchronize appointment data between EPS and Vista systems
