@@ -20,7 +20,7 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
 
 ## Use Cases
  
-#### Use Case 1 - Submit Claim
+#### Test Case 1 - Submit Claim
 - **Configuration**
   - Test user should have a VA in person or video at VA facility appointment that occurred within the last 30 days for which a travel reimbursement claim has **NOT** been submitted for the appointment date & facility
 
@@ -40,7 +40,7 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
   - Complete and submit the form (i.e. answer yes to all questions)
   - See confirmation that the claim has been submitted
 
-#### Use Case 2 - View Claim Status
+#### Test Case 2 - View Claim Status
 - **Configuration**
     - Test user should have a VA in person or video at VA facility appointment that occurred within the last 30 days and for which a travel reimbursement claim has **ALREADY** been submitted for the appointment date & facility
 
@@ -59,7 +59,7 @@ Added a feature that allows Veterans to submit a simple mileage-only travel reim
     - Click **Check your claim status** to navigate to the new Travel Claim Status tool
     - Select the claim and view the status
 
-#### Use Case 3 - Missed Deadline
+#### Test Case 3 - Missed Deadline
 - **Configuration**
     - Test user should have a VA in person or video at VA facility appointment that occurred over 30 days ago and for which a travel reimbursement claim has **NOT** been submitted for the appointment date & facility
 
