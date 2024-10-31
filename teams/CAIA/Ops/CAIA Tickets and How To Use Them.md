@@ -49,7 +49,7 @@ This document details how to create, update, and close a CAIA ticket, ensuring a
     - [**Intake Table**](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75)
     - [**Intake Board**](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/72)
 
-#### Process Description
+#### Ticket Creation Process
 - When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label.
 - This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1).
 - A ticket must have the `sitewide CAIA` label to exist in GH Projects!
@@ -59,7 +59,10 @@ The title section contains the name of the ticket with the following naming conv
 
 - `[CAIA intake]` is used to distinguish the ticket type
 - Work tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning. Consistency is also helpful.
-    - _Ex. Accessibility has naming conventions that feed into reporting, based on the content matches. It also helps with scanning the board due to the format which includes the type of ticket, team name and project name._ 
+> [!TIP]
+> **Optional:** The Accessibility Team has naming conventions that feed into reporting, based on the content matches.
+> - It also helps with scanning the board, due to the format which includes the type of ticket, team name and project name.
+> - **Example:** `[CAIA Team - Ticket Type]` `Team Needing Support` - `Project Being Supported`
 
 ## Work Ticket Templates
 
