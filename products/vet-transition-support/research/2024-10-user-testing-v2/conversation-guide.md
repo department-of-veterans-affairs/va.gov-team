@@ -10,7 +10,7 @@
 - [ ] Step 2: Confirm the notetaker and any observers for the session
 
 ### Day of the session
-- [ ] Make sure you have the [v2 Figma prototype link](https://www.figma.com/proto/4J2vqMA2VY6wqgcjvhF2aT/v2-Prototype-Design?node-id=6007-18932&node-type=frame&t=vgmFBizBbqVw0xJw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) queued up to the “welcome” page. 
+- [ ] Make sure you have the [v2 Figma prototype link](https://www.figma.com/proto/4J2vqMA2VY6wqgcjvhF2aT/v2-Prototype-Design?node-id=6007-18932&node-type=canvas&t=UVG9putBh2OE0q45-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&disable-default-keyboard-nav=1) queued up to the “welcome” page. 
 - [ ] Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - [ ] Mute your Slack notifications.
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
@@ -82,7 +82,7 @@ Finally, you can ask questions at any time.
 ## First Task: Completing the questionnaire - 10 minutes
 
 Great, now we’re going to start today’s activity. I’m going to share a link in the chat box – it’s the link for our product in development. Please open the site and share your screen.
-- *Send the [v2 Figma prototype link](https://www.figma.com/proto/4J2vqMA2VY6wqgcjvhF2aT/v2-Prototype-Design?node-id=6007-18932&node-type=frame&t=vgmFBizBbqVw0xJw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1), queued up to the “welcome” page.*
+- *Send the [v2 Figma prototype link](https://www.figma.com/proto/4J2vqMA2VY6wqgcjvhF2aT/v2-Prototype-Design?node-id=6007-18932&node-type=canvas&t=UVG9putBh2OE0q45-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&disable-default-keyboard-nav=1), queued up to the “welcome” page.*
 
 What you’re seeing is the welcome page for a questionnaire. This questionnaire will ask a few questions to help you find benefits and resources that might be helpful.
 
