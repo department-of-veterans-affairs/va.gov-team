@@ -274,3 +274,4 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 3. We need to add a shortURL for email/SMS (also need to expose CHIP / vets-api in order to do this)
 4. We MIGHT need to write something to parse data over FTP to get data from CCRA
 5. Text for initial scope (SMS)
+6. Get user data from full auth user object in vets-api to get address and phone and email
