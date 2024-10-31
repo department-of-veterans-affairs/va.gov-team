@@ -61,7 +61,7 @@
 
 ## Work Ticket Templates
 
-We use templates to make it easier to create tickets for specific kinds of work we do on a regular basis. All of the templates for the va.gov-team repository can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.github/ISSUE_TEMPLATE). 
+We use templates to make it easier to create tickets for specific kinds of work we do on a regular basis. [Access all of the templates for the va.gov-team repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.github/ISSUE_TEMPLATE).  
 
 <details><summary>Expand to access the list of the CAIA-specific templates and their use cases.</summary>
     
