@@ -2,17 +2,17 @@
 `Current WIP Version: V1.0`
 
 ## In this Document
-- [Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#overview)
-- [Ticket Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-types)
-  - [Work ticket templates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#work-ticket-templates)
-- [Custom Fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#custom-field-section)
-- [Ticket Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#ticket-status)
+- Overview
+- Ticket Types
+- Work Ticket Templates
+- Custom Fields
+- Ticket Status
 
-# Overview
+## Overview
 
 This document details how to create, update, and close a CAIA ticket, ensuring all the custom field data is correctly entered.
 
-## CAIA Github terms and definitions
+### CAIA Github terms and definitions
 
 | **Term** | Definition |
 |------------------------|------------------|
@@ -27,25 +27,40 @@ This document details how to create, update, and close a CAIA ticket, ensuring a
 
 </details>
 
-# Ticket Types
+## Ticket Types
 **There are two main types of tickets:**
 
-- [CAIA Intake Request]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)).  This is the intake for teams to request collaboration with CAIA. During refinement, CAIA will attach new work tickets to capture individual support tasks needed from each CAIA discipline. You will use the intake ticket to communicate with the product team/stakeholder and share any deliverables.
-- CAIA work ticket: This is the issue created by CAIA, based on an intake or stakeholder request, that outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets). Product teams can see work tickets attached to their intake, but these work tickets are for you to use. You can add notes in comments to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.
+- [**CAIA Intake Request**]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E))
+    - This is the intake for teams to request collaboration with CAIA.
+    - During refinement, CAIA will attach new work tickets to capture individual support tasks needed from each CAIA discipline.
+    - You will use the intake ticket to communicate with the product team/stakeholder and share any deliverables.
+- **CAIA Work Ticket**
+    - This is the issue created by CAIA, based on an intake or stakeholder request, that outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets).
+    - Product teams can see work tickets attached to their intake, but these work tickets are for you to use.
+    - You can add notes in comments to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.
 
-**These two types can be view separately on our board: **
-- Work tickets: [Work Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1) and [Work Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/74)
-- Intakes and Epics: [Intake Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75) and [Intake Board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/72)
+### Board Views
+**These two types can be view separately on our board:**
+- **Work tickets**
+    - [**Work Table**](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1)
+    - [**Work Board**](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/74)
+- **Intakes and Epics**
+    - [**Intake Table**](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75)
+    - [**Intake Board**](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/72)
 
-When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label. This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1). A ticket must have the `sitewide CAIA` label to exist in GH Projects!
+#### Process Description
+- When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label.
+- This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1).
+- A ticket must have the `sitewide CAIA` label to exist in GH Projects!
 
-### Title
+### Ticket Title
 The title section contains the name of the ticket with the following naming convention:
 
-- [CAIA intake] is used to distinguish the ticket type
-- Work tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning
+- `[CAIA intake]` is used to distinguish the ticket type
+- Work tickets can be named in whatever way makes sense, but it's good to keep it brief and include the name of the tool/product for easier scanning. Consistency is also helpful.
+    - _Ex. Accessibility has naming conventions that feed into reporting, based on the content matches. It also helps with scanning the board due to the format which includes the type of ticket, team name and project name._ 
 
-## Work ticket templates
+## Work Ticket Templates
 
 We use templates to make it easier to create tickets for specific kinds of work we do on a regular basis. All of the templates for the va.gov-team repository can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.github/ISSUE_TEMPLATE). This is a list of the CAIA-specific templates and their use cases:
 
