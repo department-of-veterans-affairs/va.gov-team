@@ -274,3 +274,4 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 2. Need to get what will be referred to as the providerID for the EPS system that matches to what's in the CCRA object. Refer to EPS document/yaml/json for the call `provider-services/{providerServiceId}`
 3. We need to add a shortURL for email/SMS (also need to expose CHIP / vets-api in order to do this)
 4. We MIGHT need to write something to parse data over FTP to get data from CCRA
+5. Text for initial scope (SMS)
