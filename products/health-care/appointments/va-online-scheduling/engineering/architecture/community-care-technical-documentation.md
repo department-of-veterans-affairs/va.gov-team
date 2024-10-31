@@ -241,9 +241,9 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 - Verification involves matching patientICN, provider, and other data between EPS and Vista.
 
 #### Second Tier (Future Implementation)
-- Utilize HSRM to provide referralID.
+- Utilize CCRA to provide referralID.
 - Remove need to store referral information after user makes an appointment.
-- Use HSRM (via VAOS) to pull referral data and associated appointments from EPS or other systems.
+- Use CCRA (via vets-api) to pull referral data and associated appointments from EPS or other systems.
 
 #### Addendum
 - Delete referrals after the expiration date (ReferralToDate).
@@ -255,10 +255,9 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 - Full authentication required before accessing referral information.
 
 ## Integration Points
-1. MAP: Source of referral data
+1. CCRA: Source of referral data
 2. VA Notify: For sending notifications to veterans
 3. EPS (External Provider Services): For appointment management
-4. Vista: For verifying appointment creation and syncing
 
 ## Performance Considerations
 - The nightly job is not time-critical and can run for a couple of hours if needed.
