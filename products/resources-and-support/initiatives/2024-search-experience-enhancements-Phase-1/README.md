@@ -68,6 +68,7 @@ Efforts to inform this iteration with Veteran feedback
 
 ## Design
 [Figma](https://www.figma.com/design/cg8VNnxFOxw7lb10FVHpi5/VA-Resources-support-template?node-id=198-5737&node-type=section&t=G7yoxBvukRBiwCbI-0)
+Experimental Design [Ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3423)
 
 ### Drupal UX
 
@@ -116,7 +117,7 @@ Efforts to inform this iteration with Veteran feedback
 Milestone | Date | Link to issue |
 ---| :---: | :---: |
 | Collaboration cycle kickoff request | | |
-| PO Sync | | |
+| PO Sync |October 30, 2024| [#95014](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95014) |
 | Design Intent | | |
 | CMS Request| | |
 | Research review| | |
@@ -163,9 +164,12 @@ Milestone | Date | Link to issue |
 
 #### POCs and Stakeholders
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
+- Team Name: Sitewide Public Websites
+- GitHub Label(s): Public Websites
+- Slack channel: #proj-sitewide
 - Product POCs:
+ - Michelle Middaugh - OCTO PO
+ - Fran Cross - A6 PM
+ - Jill Adams - A^ Delivery Manager
 
 </details>
