@@ -55,7 +55,7 @@
 </details>
 
 > [!NOTE]
-> - When a ticket is created, it automatically assigns `Naomi` and `Lily` and adds the `sitewide CAIA` label.
+> - When a ticket is created, it automatically assigns `Naomi` and `A` and adds the `sitewide CAIA` label.
 > - This label triggers GitHub Projects to pull the ticket into CAIA's view, and adds it to the `New Intakes` [lane on the main board](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1).
 > - A ticket must have the `sitewide CAIA` label to exist in GH Projects!
 
