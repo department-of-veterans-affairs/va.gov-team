@@ -142,7 +142,7 @@ sequenceDiagram
 
     Note over User: User clicks link in SMS/Email
     User->>Frontend: Open appointments page
-    Frontend->>VetsAPI: getCombinedReferralData()
+    Frontend->>VetsAPI: `get-referral-data`
     VetsAPI->>Postgres: Fetch referral data (or MAP system once complete possibly)
     Postgres->>VetsAPI: Return referral data
     VetsAPI->>EPS: getEPSAppointments() 
