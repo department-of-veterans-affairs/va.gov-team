@@ -30,8 +30,16 @@ A Veteran can submit a mileage-only travel reimbursement claim for a past appoin
 - Veterans do not understand that they can submit **only** a mileage-only claim using this new method.
 - Veterans do not undersatnd how to submit a mileage-only claim via VA.gov.
 
-## Measuring Success
-- Increase in the number of BT claims being submitted digitally
+## Metrics
+- Number of Veterans who choose to file a travel reimbursement claim on VA.gov
+    - Click event on the "File a travel reimbursement claim" link on VA.gov
+    - ![image](https://github.com/user-attachments/assets/1c2d0bf4-921d-4a63-b960-5db38c708e9c)
+- Number of Veterans who choose to view their claim status on VA.gov
+    - Click event on the "Check you claim status" link
+    - ![image](https://github.com/user-attachments/assets/5ce71c8b-31dd-4ce3-8fcd-86c7433668ba)
+- Number of Veterans who choose to learn more about how to file a claim on VA.gov
+    - Click event on the "Learn more about travel reimbursement"
+    - ![image](https://github.com/user-attachments/assets/c3110fc1-c56c-4516-9f33-f610031518ca)
   
 ## Discovery
 
