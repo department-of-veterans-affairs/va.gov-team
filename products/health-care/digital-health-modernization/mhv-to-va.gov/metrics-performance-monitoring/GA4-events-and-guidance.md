@@ -213,3 +213,16 @@ Event details have been gathered by use of Adswerve while signed into staging.
      </td>
      <td>Filter to look at all clicks in the footer throughout VA.gov by adding link_location exactly matches:"footer." Get all clicks on one link throughout VA.gov by adding filter link_text exactly matches:(whatever the link text is). Further filter to look at clicks on one link in the footer throughout the VA.gov MHV portal by adding filter page_path begins with:"/my-health" and to get clicks on one link in the footer on the landing page, set page_path exactly matches regex:"/my-health|/my-health/</td>
      </tr>   
+      <tr>
+     <td>Click link in the sidebar nav</td>
+     <td>Some pages of VA.gov (those with a sidebar nav, but not facility pages, which have a different secondary nav)</td>
+     <td>
+       I wasn't able to get these clicks to show up in Adswerve, but I know these parameters are true for these link clicks:
+       <ul> 
+          <li>en:"navigation"</li>
+          <li>ep.dle_name:"nav-sidenav"</li>
+          <li>ep.link_location:"sidebar"</li>
+       </ul>
+     </td>
+     <td>Filter to look at all clicks in the sidebar nav throughout VA.gov (but not the facility pages) by adding link_location exactly matches:"sidebar." If pulling event coutn, add event_name exactly matches:"navigation." Avoid facility pages by adding page path and screen class does not contain "vet-center"</td>
+     </tr>   
