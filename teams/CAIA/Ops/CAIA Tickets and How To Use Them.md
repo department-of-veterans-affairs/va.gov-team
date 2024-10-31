@@ -2,14 +2,12 @@
 > [!NOTE]
 > **Current WIP Version:** `V1.1`
 
-## In this Document
-Use the outline (hamburger menu) in this document to view and navigate the different sections. 
-
 ## Overview
 
-This document details how to create, update, and close a CAIA ticket, ensuring all the custom field data is correctly entered.
+- This document details how to create, update, and close a CAIA ticket, ensuring all the custom field data is correctly entered.
+- Use the outline (hamburger menu) in this document to view and navigate the different sections. 
 
-### CAIA Github Terms and Definitions
+## CAIA Github Terms and Definitions
 
 | **Term** | Definition |
 |------------------------|------------------|
