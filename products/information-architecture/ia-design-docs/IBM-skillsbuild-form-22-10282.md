@@ -42,12 +42,12 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 **1) Benefit Info page for IBM SkillsBuild - TBD H1 - New**
 - URL: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > IBM SkillsBuild Program
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > IBM SkillsBuild program
 
 
 **2) Form for IBM SkillsBuild - New**
 - URL: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282/
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > IBM SkillsBiuld Program > Apply for the IBM SkillsBuild program
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > IBM SkillsBiuld program > Apply for the IBM SkillsBuild program
 
 **3) About VA Form Form 22-10282 - New**
 - URL: va.gov/find-forms/about-form-22-10282/
@@ -69,7 +69,7 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 ### Secondary entry points
 
 1. **Left Nav lists Benefit Info page** - Add
-  - Placement description: In the left nav, under **Education and training > Get benefits > Other VA education benefits > [IBM Skillsbuild - H1 TBD]**
+  - Placement description: In the left nav, under **Education and training > Get benefits > Other VA education benefits > IBM SkillsBuild program**
   - Left nav link label: IBM SkillsBuild program
   - Link destination: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/
 <img width="437" alt="ibm 1 2" src="https://github.com/user-attachments/assets/c0c2242d-9c66-4292-a7d5-4d38b3453a58">
