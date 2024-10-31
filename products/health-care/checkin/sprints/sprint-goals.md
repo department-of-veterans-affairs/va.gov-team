@@ -40,8 +40,8 @@
       - 🟨 [[DevOps] Determine how to deploy changes to Dev Vets-API Applications Manifest and Platform EKS Dev Cluster #684](https://github.com/department-of-veterans-affairs/checkin-devops/issues/684)
       - 🟨 [[DevOps] Figure out how to connect to MAP or onboard or whatever we need to do.](https://github.com/department-of-veterans-affairs/checkin-devops/issues/612) (rolling over from Sprint 18)
       - 🟨 [[DevOps] Define Lambda for System Tests](https://github.com/department-of-veterans-affairs/checkin-devops/issues/560)
-      - 🟨 [Renew `vista-api-alb-staging` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/675)
-      - 🟨 [Remove old `vista-api-int` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/713)
+      - ✔️ 🟨 [Renew `vista-api-alb-staging` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/675)
+      - ✔️ 🟨 [Remove old `vista-api-int` ALB certificate](https://github.com/department-of-veterans-affairs/checkin-devops/issues/713)
 - **Community Care Direct Scheduling**
     - **Sprint Goals: FE - Set up mock data and begin updates to the Appointments page; BE - set up EPS appt service**
     - FE STEP 1 - Mock Data
