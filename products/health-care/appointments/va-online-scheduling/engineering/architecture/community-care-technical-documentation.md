@@ -142,29 +142,36 @@ sequenceDiagram
 
     Note over User: User clicks link in SMS/Email
     User->>Frontend: Open appointments page
-    Frontend->>VetsAPI: `get-referral-data`
+    Frontend->>VetsAPI: Get referral data
     VetsAPI->>Postgres: Fetch referral data (or MAP system once complete possibly)
     Postgres->>VetsAPI: Return referral data
-    VetsAPI->>EPS: getEPSAppointments() 
-    EPS->>VetsAPI: Return EPS appointments
-    VetsAPI->>VistA: getVistAAppointments() 
+    VetsAPI->>EPS: Create Draft Appointment (patient ID, and referral ID)
+    EPS->>VetsAPI: Get appointmentId from this call
+    VetsAPI->>VistA: Get VistA appointments
     VistA->>VetsAPI: Return VistA appointments
+    VetsAPI->>EPS: Get EPS appointments for patientId
+    EPS->>VetsAPI: Return EPS appointments for patientId
     VetsAPI->>VetsAPI: validateAppointments() (for referrals already made in EPS, for referrals that are already appointments in VistA)
-    VetsAPI-->>VetsAPI: Combine all appointments as necessary and valid referrals
-    VetsAPI-->>Frontend: Return combined appointments
+    VetsAPI-->>VetsAPI: Get necessary referral and provider data for first page
+    VetsAPI-->>Frontend: Return referral data
     Frontend->>Frontend: Store referral data in Redux
     
 
     Note over User: Starting appointment process page
     Frontend->>Frontend: getReferralData() from Redux
-    Frontend-->>User: Display referral data
+    Frontend->>VetsAPI: Get provider data
+    VetsAPI->>EPS: Get provider data based on referral / patient preferred provider (NPI? ID?)
+    EPS->>VetsAPI: Return provider data
+    VetsAPI->>Frontend: Return provider data
+    Frontend-->Frontend: Store provider data in referral Redux object
+    Frontend-->>User: Display referral data for this appointment
 
     Note over User: Schedule your appointment page
-    User->>Frontend: View provider availability
-    Frontend->>VetsAPI: getProviderAvailability()
-    VetsAPI->>EPS: Fetch provider availability
-    EPS-->>VetsAPI: Return provider availability
-    VetsAPI-->>Frontend: Return provider availability
+    User->>Frontend: View provider Slot availability
+    Frontend->>VetsAPI: getProviderSlotAvailability()
+    VetsAPI->>EPS: Fetch provider slot availability
+    EPS-->>VetsAPI: Return provider slot availability
+    VetsAPI-->>Frontend: Return provider slot availability
     User->>Frontend: Select date/time and click next
     Frontend->>Frontend: Store provider and appointment data in Redux
 
