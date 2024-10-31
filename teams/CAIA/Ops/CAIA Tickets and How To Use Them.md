@@ -66,19 +66,35 @@ The title section contains the name of the ticket with the following naming conv
 
 ## Work Ticket Templates
 
-We use templates to make it easier to create tickets for specific kinds of work we do on a regular basis. All of the templates for the va.gov-team repository can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.github/ISSUE_TEMPLATE). This is a list of the CAIA-specific templates and their use cases:
+We use templates to make it easier to create tickets for specific kinds of work we do on a regular basis. All of the templates for the va.gov-team repository can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.github/ISSUE_TEMPLATE). 
 
-- **CAIA Best Bet Request**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA%20Best%20Bet%20Request.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA+Best+Bet+Request.md). Request to create or change a best bet in VA.gov search results.
-- **CAIA entry points and crosslinks for launches:** [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA%20entry%20points%20+%20crosslinks%20for%20launches.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA+entry+points+%2B+crosslinks+for+launches.md). This ticket is designed to coordinate IA and content tasks for product updates to update the mega menu, left nave, and hub pages in Drupal.
-- **Internal CAIA a11y Short Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-A11y-Short-Ticket.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-A11y-Short-Ticket.md). Template for CAIA a11y members to utilize, when needing to create a ticket oustide the intake process.
-- **CAIA Internal Ad Hoc Content Request Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Ad-Hoc-Content-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Ad-Hoc-Content-Template.md).This ticket captures the last minute, quick-turnaround content requests that come in outside of CAIA intakes. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
-- **CAIA Internal Style Guide Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Content-Style-Guide-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Content-Style-Guide-Template.md). This ticket captures ongoing content updates to the style guide. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
-- **CAIA Internal Content Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Content-Ticket.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Content-Ticket.md). Use to create general content work tickets, remove or edit the task checkboxes to fit the work. 
-- **CAIA Internal Health Content Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Health-Content-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Health-Content-Template.md). This ticket captures ongoing content support for MHV and other health tools. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
-- **Internal CAIA Pilot Research Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-internal-Research-Pilot-Ticket.md) + [create an issue]. Template for pilots conducted prior to research.
-- **Internal CAIA Refined Research Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-internal-research-refined-ticket-template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-internal-research-refined-ticket-template.md). Template for converted research intake to refined ticket.
+<details><summary>Expand to access the list of the CAIA-specific templates and their use cases.</summary>
+    
+### IA Templates
+- **CAIA Best Bet Request**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA%20Best%20Bet%20Request.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA+Best+Bet+Request.md).
+    - Request to create or change a best bet in VA.gov search results.
+- **CAIA entry points and crosslinks for launches:** [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA%20entry%20points%20+%20crosslinks%20for%20launches.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA+entry+points+%2B+crosslinks+for+launches.md).
+    - This ticket is designed to coordinate IA and content tasks for product updates to update the mega menu, left nav, and hub pages in Drupal.
+### Accessibility Templates
+- **Internal Use: CAIA a11y Short Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-A11y-Short-Ticket.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-A11y-Short-Ticket.md).
+    - Template for CAIA a11y members to utilize, when needing to create a ticket oustide the intake process.
+- **Internal Use: CAIA Pilot Research Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-internal-Research-Pilot-Ticket.md) + [create an issue].
+    - Template for pilots conducted prior to research.
+- **Internal Use: CAIA Refined Research Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-internal-research-refined-ticket-template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-internal-research-refined-ticket-template.md).
+    - Template for converted research intake to refined ticket.
+### Content Templates
+- **CAIA Internal Ad Hoc Content Request Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Ad-Hoc-Content-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Ad-Hoc-Content-Template.md).
+    - This ticket captures the last minute, quick-turnaround content requests that come in outside of CAIA intakes. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
+- **CAIA Internal Style Guide Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Content-Style-Guide-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Content-Style-Guide-Template.md).
+    - This ticket captures ongoing content updates to the style guide. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
+- **CAIA Internal Content Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Content-Ticket.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Content-Ticket.md).
+    - Use to create general content work tickets, remove or edit the task checkboxes to fit the work. 
+- **CAIA Internal Health Content Ticket**: [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/CAIA-Internal-Health-Content-Template.md) + [create an issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-Internal-Health-Content-Template.md).
+    - This ticket captures ongoing content support for MHV and other health tools. Use the ticket comments to note any tasks completed or decisions made during the current sprint.
 
-# Custom Fields
+</details>
+
+## Custom Ticket Fields
 This section contains field data that is important for filtering and tracking issues within the CAIA pipeline. This includes:
 
 ### Required fields
