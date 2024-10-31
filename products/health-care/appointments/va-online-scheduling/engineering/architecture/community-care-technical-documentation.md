@@ -6,13 +6,13 @@
 2. Reduce manual intervention in the referral and appointment scheduling process
 3. Improve veteran experience by providing easy access to referral information and appointment scheduling
 4. Ensure data security and privacy throughout the referral and appointment process
-5. Integrate with existing VA systems (Palantir, EPS, Vista) to provide a seamless experience
+5. Integrate with existing VA systems (MAP, EPS, Vista) to provide a seamless experience
 
 ## Overview
-The External Referral Appointment Scheduling System is designed to automate and simplify the process of managing external referrals and scheduling appointments for veterans. It involves a nightly job to fetch and process referral data ~from Palantir~, secure storage of this data, veteran notifications, and a user-friendly workflow for veterans to schedule appointments based on these referrals. The system integrates with VA Notify for communications and EPS for appointment management.
+The External Referral Appointment Scheduling System is designed to automate and simplify the process of managing external referrals and scheduling appointments for veterans. It involves a nightly job to fetch and process referral data ~from MAP~, secure storage of this data, veteran notifications, and a user-friendly workflow for veterans to schedule appointments based on these referrals. The system integrates with VA Notify for communications and EPS for appointment management.
 
 ## Scope
-- Implementation of a nightly job to fetch and process external referral data ~from Palantir~
+- Implementation of a nightly job to fetch and process external referral data ~from MAP~
 - Secure storage of referral data in a Postgres database
 - Integration with VA Notify for sending referral notifications to veterans
 - Development of a frontend interface for veterans to view referrals and schedule appointments
@@ -52,7 +52,7 @@ graph TB
             SIDEKIQ[Sidekiq Job]
         end
     end
-    PALANTIR[Palantir System]
+    MAP[MAP System]
     EPS[EPS System]
     TWILIO[Twilio]
 
@@ -61,7 +61,7 @@ graph TB
     VA_API -->|Read/Write| POSTGRES
     VA_API -->|Cache| REDIS
     VA_API -->|Trigger| SIDEKIQ
-    SIDEKIQ -->|Fetch Data| PALANTIR
+    SIDEKIQ -->|Fetch Data| MAP
     VA_API -->|Schedule Appointments| EPS
     VA_NOTIFY -->|Send Notifications| TWILIO
     TWILIO -->|SMS/Email| User
@@ -70,7 +70,7 @@ graph TB
     classDef vaSystem fill:#e6f3ff,stroke:#333,stroke-width:2px;
     classDef external fill:#f9f9f9,stroke:#333,stroke-width:2px;
     class VW,VA_API,VA_NOTIFY,POSTGRES,REDIS,SIDEKIQ vaSystem;
-    class PALANTIR,EPS,TWILIO external;
+    class MAP,EPS,TWILIO external;
 ```
 
 ## Referral Data Model
@@ -110,13 +110,16 @@ sequenceDiagram
     participant VetsAPI as Vets API
     participant Sidekiq as Sidekiq Job
     participant Postgres as Postgres DB
-    participant Palantir as Palantir
+    participant MAP as MAP
+    participant CCRA as CCRA
     participant EPS as EPS System
     participant VA as VA Notify
 
     Note over Sidekiq: Nightly Job
-    Sidekiq->>Palantir: getExternalReferralData()
-    Palantir-->>Sidekiq: Return referral data
+    Sidekiq->>MAP: getExternalReferralData()
+    MAP->>CCRA: Get the actual data
+    CCRA->>MAP: Return the data to MAP
+    MAP-->>Sidekiq: Return referral data
     Sidekiq->>VetsAPI: parseConsultIntoReferral()
     VetsAPI->>VetsAPI: checkReferralData()
     VetsAPI->>Postgres: Check for duplicates and expiration
@@ -135,7 +138,7 @@ sequenceDiagram
     participant VetsAPI as Vets API
     participant Sidekiq as Sidekiq Job
     participant Postgres as Postgres DB
-    participant Palantir as Palantir
+    participant MAP as MAP
     participant VistA as VistA
     participant EPS as EPS System
     participant VA as VA Notify
@@ -192,7 +195,7 @@ sequenceDiagram
 ## Key Processes
 
 ### Nightly Job
-1. `getExternalReferralData()`: Pulls referral data from Palantir for the next 3 months.
+1. `getExternalReferralData()`: Pulls referral data from MAP for the next 3 months.
 2. `parseConsultIntoReferral()`: Vets API parses consult data into a referral object.
 3. `checkReferralData()`: Ensures referrals are not expired and don't exist in the Postgres DB.
 4. `encryptReferralData()`: Encrypts referral data using the vets-api encryption library.
@@ -232,7 +235,7 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 ### Two-tier Approach
 
 #### First Pass (Initial Release)
-- Store referral data from Palantir until the appointment exists in vista-api-x.
+- Store referral data from MAP until the appointment exists in vista-api-x.
 - Daily checks for appointment existence in Vista.
 - Additional check when user views appointments.
 - Remove referral data once the appointment is verified in Vista.
@@ -253,7 +256,7 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 - Full authentication required before accessing referral information.
 
 ## Integration Points
-1. Palantir: Source of referral data
+1. MAP: Source of referral data
 2. VA Notify: For sending notifications to veterans
 3. EPS (External Provider Services): For appointment management
 4. Vista: For verifying appointment creation and syncing
