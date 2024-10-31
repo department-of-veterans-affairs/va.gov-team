@@ -95,12 +95,6 @@ Thanks for answering those questions. I want to transition us to exploring the s
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
   - Now I'd like you to share your screen with me. Tap on the button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
 
-#### Instructions for folks using screenreaders on a desktop:
-- Hit Alt S (as in Same); the option should come up to select the window you want to share - please choose Basic. 
-- Tab over and confirm that what is selected is "entire screen." 
-- Tab once more - make sure "share sound" is checked. 
-- Tab 4 times over to "share screen" - click activate.
-
 > Screen sharing starts.
 
 - Thanks! Now I’m able to see your screen. I see [describe window].
@@ -131,6 +125,9 @@ _Optional probes_ - very flexible, adapt as appropriate depending on participant
 
 _Once explored a bit_
 
+**Note: Use the task participants said earlier in interview (what they typically do on MHV) 
+
+Additional prompts if needed: 
 - Go ahead and show me how you check your Messages from your doctor. 
 - Go ahead and show me how you would refill a medication that needs to be refilled.
 - Go ahead and show me how you would schedule an appointment with your doctor	using this website.
