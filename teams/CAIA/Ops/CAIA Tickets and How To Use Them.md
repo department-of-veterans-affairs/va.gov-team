@@ -3,7 +3,7 @@
 > **Current WIP Version:** `V1.1`
 
 ## In this Document
-Use the outline in this document to navigate the different sections. 
+Use the outline (hamburger menu) in this document to view and navigate the different sections. 
 
 ## Overview
 
