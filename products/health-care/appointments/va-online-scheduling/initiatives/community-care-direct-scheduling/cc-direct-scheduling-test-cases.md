@@ -49,21 +49,16 @@ Allows Veterans who have indicated their preference to directly schedule their c
   - View your appointment details
  
  ## Error Cases
+
+ ### [Error Case 1 - Already Scheduled Appointment for the Referral](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5565-5969&t=zYW9p1FINcaVJRSF-4)
  
- ### Error Case 1 - Already Have an Appointment at Selected Time
- ![image](https://github.com/user-attachments/assets/0ea8286b-e6bc-4079-b63a-5751cb340cd7)
+ ### [Error Case 2 - Already Have an Appointment at Selected Time](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=3713-15752&t=zYW9p1FINcaVJRSF-4)
  
- ### Error Case 2 - Couldn't Schedule Selected Appointment
- ![image](https://github.com/user-attachments/assets/3ebcd2e6-4572-4d04-ac7f-80c8c5620a4e)
- ![image](https://github.com/user-attachments/assets/3fcc9a04-7238-426a-a560-b48c2a8c5370)
- ![image](https://github.com/user-attachments/assets/5f24fdef-c171-4760-a5a1-3d9c611dc2ac)
-
- ### Error Case 3 - Can't Get Referral Information
- ![image](https://github.com/user-attachments/assets/cf73f0ba-0968-4271-90f3-1dffa93e58ae)
-
- ### Error Case 4 - Referral has Expired
- ![image](https://github.com/user-attachments/assets/d53d8386-f7fc-4443-8783-804992ecfc49)
-
- ### Error Case 5 - No Time Slots Available
- ![image](https://github.com/user-attachments/assets/c174cd5b-3c63-4416-bd44-e47cc4a7825b)
+ ### [Error Case 3 - Couldn't Schedule Selected Appointment](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5585-5236&t=zYW9p1FINcaVJRSF-4)
+  
+ ### [Error Case 4 - Can't Get Referral Information](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=3707-7921&t=zYW9p1FINcaVJRSF-4)
+ 
+ ### [Error Case 5 - Referral has Expired](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=3707-8119&t=zYW9p1FINcaVJRSF-4)
+ 
+ ### [Error Case 6 - No Time Slots Available](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5620-5841&t=zYW9p1FINcaVJRSF-4)
  
