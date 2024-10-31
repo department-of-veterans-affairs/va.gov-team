@@ -1,6 +1,6 @@
 # CAIA Tickets and How To Use Them
 > [!NOTE]
-> **Current WIP Version:** `V1.0`
+> **Current WIP Version:** `V1.1`
 
 ## In this Document
 - Overview
@@ -51,7 +51,7 @@ This document details how to create, update, and close a CAIA ticket, ensuring a
 
 <details><Summary>Access links to the GitHub Project boards and tables for work tickets and intakes.</Summary>
 
-**These two types can be view separately on our board:**
+**These two ticket types can be view separately on our board and tables:**
 - **Work tickets**
     - [**Work Table**](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1)
     - [**Work Board**](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/74)
