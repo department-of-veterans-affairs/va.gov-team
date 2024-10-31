@@ -6,7 +6,7 @@ Date: 10/30/2024
 
 [Charles Barron] [charles.barron@va.gov], [Carly Yamrus] [carly.yamrus@va.gov]
 
-[Research readout]([link here](https://boozallen.sharepoint.com/:p:/r/teams/mbms/New%20Sharepoint/Self%20Service%20ART/UX%20Documents/04_Medallions/Research/Medallions%20Study%20Readout%20-%20October%202024.pptx?d=wcc1f630259794acfb68e045a84033e20&csf=1&web=1&e=u6Oamm))
+[Research readout](https://boozallen.sharepoint.com/:p:/r/teams/mbms/New%20Sharepoint/Self%20Service%20ART/UX%20Documents/04_Medallions/Research/Medallions%20Study%20Readout%20-%20October%202024.pptx?d=wcc1f630259794acfb68e045a84033e20&csf=1&web=1&e=u6Oamm)
 
 **Jump to:**
 
@@ -42,12 +42,15 @@ _
 
 ## Methodology 
 
-_We conducted remote usability testing sessions with Zoom using a clickable, interactive prototype of the Medallion and Multiple Signatures designs.
+We conducted remote usability testing sessions with Zoom using a clickable, interactive prototype of the Medallion and Multiple Signatures designs.
 Participants were given a link to open the prototype that they could navigate through to complete a scenario assigned to them. 
-[Protoype](https://www.figma.com/proto/QIMsAdHJjctTKDM1I34uXV/Medallions---Baseline-Prototype?page-id=2%3A2&node-id=2185-38626&node-type=frame&t=5Wtgi4V942WneqD4-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3409%3A40654)
+[Prototype](https://www.figma.com/proto/QIMsAdHJjctTKDM1I34uXV/Medallions---Baseline-Prototype?page-id=2%3A2&node-id=2185-38626&node-type=frame&t=5Wtgi4V942WneqD4-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3409%3A40654)
 
 Users were interviewed about their prior Medallions knowledge in addition to being asked questions to assess how experienced they are with VA.gov digital forms.
+
 Notes from the moderator, notetakers, and observers were then synthesized to form findings and recommendations._
+
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/aabccb0e-6553-4016-9bab-b02383716801">
 
 **Scenarios**
 - 4 Participants completed the application as a Veteran's family member
@@ -181,17 +184,17 @@ Labels: PRDT: Burials-memorials, BNFT: Memorialization
 -	Most participants understood that the Medal of Honor was not for everyone, and that you would need additional eligibility to receive that medallion. 
 -	Most participants think the medallion sizing is a preference. 
 -	2 participants wish for a more visual presentation of the medallions on an actual headstone.
--	I participant suggested that the size of the medallion could be based on how long the Veteran had served.
+-	1 participant suggested that the size of the medallion could be based on how long the Veteran had served.
 -	2 participants said they would click the link to learn more about medallion types and sizes.
 
 >_" I assume bronze is for another and medal of honor is if they received a medal of honor. Bigger medallion is always better.” - P3_
 
 >_“Size of medallion I think that would be a preference.” – P2_
 
->_“Bronze or Medal of Honor, I don’t know which one there should be an explanation of the difference.” - P2
->_“The sizes are medium and large. I am still curious of the actual size.” – P4_
+> _“Bronze or Medal of Honor, I don’t know which one there should be an explanation of the difference.” - P2_
+> _“The sizes are medium and large. I am still curious of the actual size.” – P4_
 
->_“Learning about the sizes could be beneficial, I guess maybe learning about how big they would be on the certain headstone and stuff. I was just thinking, the small one looks tiny so I was thinking how it would look in relation to a headstone. The dimensions  are there, but I am visual learner and just reading the numbers don’t mean much to me. I like the picture.” P12_
+> _“Learning about the sizes could be beneficial, I guess maybe learning about how big they would be on the certain headstone and stuff. I was just thinking, the small one looks tiny so I was thinking how it would look in relation to a headstone. The dimensions  are there, but I am visual learner and just reading the numbers don’t mean much to me. I like the picture.” P12_
 
 >_“So the link just says learn more about the sizes so that tells me more about the sizes, not what they each mean. I think the picture helps and there are sizes under the list. It is nice to compare it to a coin for visual reference maybe some people will see the dimensions and be like ‘cool.’” - P6_
 
@@ -231,13 +234,6 @@ Labels: PRDT: Burials-memorials, BNFT: Memorialization
 
 >_“The address entered against the suggested address is good because you can pick the correct one. That’s a good placement. I would like the suggested address to be a different color so I knew they were separate; it would show that they are different.” – P7_
 
-**Secondary findings**
-1. Most participants saw the benefit of filling out as much information as they could, regardless of non-required labeling. However, 2 participants stated that they would leave non-required fields blank, and 1 participant thought that the non-required fields were less important to the process.
-2. Most participants understood Applicant vs Veteran terminology, but 1 participant had expressed confusion on who the “applicant” was and why that information was needed if the benefit is for a Veteran.
-3. 2 participants were confused about the “personal representative” title compared to the “family member” title and wondered if they could be both. 
-4. All participants understood and successfully navigated through the service periods component.
-5. Participants reacted positively to the Presidential Memorial Certificate, and expressed interest in learning more about it, or said they would order 1 or more.
-
 
 ## Recommendations
 
@@ -251,40 +247,29 @@ Labels: PRDT: Burials-memorials, BNFT: Memorialization
 
 ## Next Steps
 
-Share findings with stakeholders and other teams working on VA.gov
-Review recommendations
-Update the Medallions prototype to incorporate agreed-upon recommendations
-Begin epic creation
-
-
-## Further research needed
-
-Findings did not include the perspectives of the following underserved Veteran groups:
-Other than honorable
-Expat (living abroad)
-LGBTQ+ 
-Assistive tech (due to prototype limitations)
-We recommend studies with these underserved groups in the future.
-
+* Share findings with stakeholders and other teams working on VA.gov
+* Review recommendations
+* Update the Medallions prototype to incorporate agreed-upon recommendations
+* Begin epic creation
 
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/medallions/research/2024-10-Apply%20for%20a%20medallion%20in%20a%20private%20cemetery%20to%20products/research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/medallions/research/2024-10-Apply%20for%20a%20medallion%20in%20a%20private%20cemetery%20to%20products/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/medallions/research/2024-10-Apply%20for%20a%20medallion%20in%20a%20private%20cemetery%20to%20products/Transcripts)
 
 
 ## Tools used for Synthesis
 
-Mural
+[Synthesis Mural](https://app.mural.co/t/bahdigitalexperience6902/m/bahdigitalexperience6902/1728659336270/ec4393fd38317a96dbc11ee88089b53366498891?sender=u0dd4d7e56fac73345c0e0723)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Link to prototype](https://www.figma.com/proto/QIMsAdHJjctTKDM1I34uXV/Medallions---Baseline-Prototype?page-id=2%3A2&node-id=2185-38626&node-type=frame&t=5Wtgi4V942WneqD4-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3409%3A40654)
 
 
 ## Other supporting documents created
@@ -294,14 +279,15 @@ e.g. user flows, personas, etc.
 
 ## Secondary research
 
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+**Secondary findings**
+1. Most participants saw the benefit of filling out as much information as they could, regardless of non-required labeling. However, 2 participants stated that they would leave non-required fields blank, and 1 participant thought that the non-required fields were less important to the process.
+2. Most participants understood Applicant vs Veteran terminology, but 1 participant had expressed confusion on who the “applicant” was and why that information was needed if the benefit is for a Veteran.
+3. 2 participants were confused about the “personal representative” title compared to the “family member” title and wondered if they could be both. 
+4. All participants understood and successfully navigated through the service periods component.
+5. Participants reacted positively to the Presidential Memorial Certificate, and expressed interest in learning more about it, or said they would order 1 or more.
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
@@ -320,7 +306,7 @@ Gender:
 
 
 LGBTQ+:
-* 1
+* 0
 
 
 Devices used during study: 
@@ -357,11 +343,16 @@ Race:
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Findings did not include the perspectives of the following underserved Veteran groups:
+* Other than honorable
+* Expat (living abroad)
+* LGBTQ+ 
+* Assistive tech (due to prototype limitations)
+We recommend studies with these underserved groups in the future.
 
-_[insert screenshot of completed recruitment checker]_
+
+<img width="631" alt="Screenshot 2024-10-31 at 12 21 24 PM" src="https://github.com/user-attachments/assets/4ecccc10-00a2-4bd3-9a2a-54a1dd0f5b8a">
+<img width="629" alt="Screenshot 2024-10-31 at 12 21 56 PM" src="https://github.com/user-attachments/assets/cf1f9469-acbb-451e-96bb-fcffb5bbd0bf">
+<img width="615" alt="Screenshot 2024-10-31 at 12 22 14 PM" src="https://github.com/user-attachments/assets/c50e0a4d-1fca-4d45-849c-20a52c49b895">
+
 ![VA-recruitment-checker](link - add image to github folder and link here with .png)
