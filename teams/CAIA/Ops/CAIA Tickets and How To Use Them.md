@@ -1,5 +1,6 @@
 # CAIA Tickets and How To Use Them
-`Current WIP Version: V1.0`
+> [!NOTE]
+> **Current WIP Version:** `V1.0`
 
 ## In this Document
 - Overview
