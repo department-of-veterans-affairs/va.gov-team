@@ -41,14 +41,13 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 ## <a name="url"></a>URLs and breadcrumbs
 
 **1) Benefit Info page for IBM SkillsBuild - TBD H1 - New**
-- URL: va.gov/education/other-va-education-benefits/[H1 - TBD by Content]/
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > [H1 - TBD by Content]
+- URL: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > IBM SkillsBuild Program
 
 
-**2) Form for IBM SkillsBuild - TBD H1 - New**
-- URL: va.gov/education/other-va-education-benefits/[Static page name TBD by Content]/apply-form-22-10282/
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > [Static page H1 - TBD by Content] > [Form page H1 - TBD by Content]
-
+**2) Form for IBM SkillsBuild - New**
+- URL: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282/
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > IBM SkillsBiuld Program > Introduction??
 
 **3) About VA Form Form 22-10282 - New**
 - URL: va.gov/find-forms/about-form-22-10282/
@@ -62,8 +61,8 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 1. **IBM SkillsBuild form intro page [page name TBD by Content]** - Add link to complete form
   - Placement description: This form doesn't require log in, so there is no sign-in widget at the start of this form.
-  - Link label: TBD by Content
-  - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
+  - Link label: Apply for the IBM SkillsBuild program
+  - Link destination: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282/
 
 <img width="507" alt="ibm primary entry b" src="https://github.com/user-attachments/assets/568c8880-6dac-4595-b0f5-2d2e871065c3">
 
@@ -72,18 +71,18 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 1. **Left Nav lists Benefit Info page** - Add
   - Placement description: In the left nav, under **Education and training > Get benefits > Other VA education benefits > [IBM Skillsbuild - H1 TBD]**
-  - Left nav link label: H1 - TBD by content
-  - Link destination: va.gov/education/other-va-education-benefits/[H1 - TBD by Content]/
+  - Left nav link label: IBM SkillsBuild program
+  - Link destination: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/
 <img width="825" alt="ibm secondary nav" src="https://github.com/user-attachments/assets/530297e9-f80a-4e17-a432-80e8e83c82ce">
 
 2. **Benefit Info (static Drupal page)** - Add
-- Placement description: The 'Benefit Info page' can be reached from the left nav (see Secondary Entry Point > Left Nav, above). The page contains a description of the benefit (TBD by Content), and a CTA to apply for the benefit.
-- CTA Link label: Apply for IBM SkillsBuild trainings (or similar - TBD by Content)
-- Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
+- Placement description: The 'Benefit Info page' can be reached from the left nav (see Secondary Entry Point > Left Nav, above). The page contains a description of the benefit (see draft content in the [Content Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728998207284/c6a24447b96cefa10acf5138d27fdde8b07aca45?wid=0-1729001422687)), and a CTA to apply for the benefit.
+- CTA Link label: Apply for the IBM SkillsBuild program
+- Link destination: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282/
 ![ibm secondary entry benefit info](https://github.com/user-attachments/assets/5654f697-9798-4a82-9039-51260d26febb)
 
 3. **'About' page for form** - Add
-  - Placement description: The 'Find a VA form' system's search result for this form should be updated with a link to the form, now that it can be filled out digitally.
+  - Note: Placement description: The 'Find a VA form' system's search result for this form should be updated with a link to the form, now that it can be filled out digitally.
   - Link label: Fill out VA form 22-10282 online
   - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
 <img width="732" alt="ibm about 2" src="https://github.com/user-attachments/assets/1a37660a-3f6d-4396-8ab8-dc4b85cb2862">
