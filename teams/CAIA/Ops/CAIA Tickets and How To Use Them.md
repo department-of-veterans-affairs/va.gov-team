@@ -135,10 +135,10 @@ This section contains field data that is important for filtering and tracking is
 
 </details>
 
-# Ticket Status
+## Ticket Status
 The ticket status shows where work is in the CAIA pipeline and provides an overview of what's actually happening across the team. The status corresponds to which swim line the ticket will appear in on the [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1))(and task board) view in Github Projects. We use two sets of statuses for the two different ticket types:
 
-## Intake status
+### Intake status
   -  **New Intakes** - this is where all new work comes into the board. When you create a ticket and add the sitewide-caia label, it will automatically appear here.
   -  **Intakes in Refinement** - Intakes that have been viewed by the Delivery Lead/Product Manager, but need more followup (feedback from OCTO, additional information from the requesting team, etc.)
   -  **Intakes in Progress** - Intakes where work has started and work tickets are moving through the swimlanes. 
@@ -146,7 +146,7 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
   -  **Epics** - used to group tickets related to the same product. Epics themself do not usually contain any direct work, rather they are a bucket for related intakes or work tickets where individual work is being tracked.
   -  **Closed** - all the work tickets related to the intake are complete, so the intake has been closed.
 
-## Work ticket status
+### Work ticket status
   -  **Icebox** - issues that have been deprioritized with no clear timeline or next steps. These are tickets we will only check on a quarterly or yearly basis, so if you anticipate action sooner than that, or need to keep a closer eye on the issue and check it more frequently, better to keep it in Backlog or Blocked.
   -  **Backlog** - issues that are not currently being worked on, but are still relevant and should be pulled in in the foreseeable future
   -  **Blocked** - issues where work has been stopped for more than a week or two. This includes any ticket where the next step belongs to a person that is external to CAIA:
@@ -161,19 +161,21 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
  -  **Closed** - work completed for this issue. Updates are live, the product has launched, or feedback or deliverables have been provided to the team.
   - **OCTO Audits** - tickets created by OCTO leadership - usually audit work
 
-# Closing tickets
-The way we close tickets matters to our reporting, but we have different steps to complete due to the range of ticket types and discipline setups on our team. 
+## Closing tickets
+The way we close tickets matters to our reporting, but we have different steps to complete, due to the range of ticket types and discipline setups on our team. 
+
+<details><summary>Expand to review the closure processes for team members and leads</summary>
 
 ### Closure process for team members
 
-**Work tickets:**
+#### Work tickets
 
 The assignee responsible for the last step will be responsible for moving the ticket.
 1. Add all required fields
 2. Add a comment confirming that the ticket is ready for closure review, and tag your discipline lead.
 3. Move the ticket to Validate
 
-**Intakes**
+#### Intakes
 
 If you are assigned to the last open work ticket on an intake (or you’re the only team member assigned), you are responsible for moving the intake. 
 1. Confirm that all the work tickets are closed
@@ -188,4 +190,8 @@ At least weekly, review the Validate column in the [work ticket view](https://gi
 2. If a ticket is not ready for closure, add a comment explaining why and next steps, and move the ticket to an active status swimlane (such as In Progress or Blocked)
 3. Add closed intakes and their attached work tickets to the [CAIA metric spreadsheet](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit?gid=1091370068#gid=1091370068) in the relevant sprint tab.
 4. Note: to close a ticket, you need to use "Close issue" button in the comments section of the ticket. Unfortunately, just dragging the ticket into the "Closed" column does not actually close the ticket.
-   
+</details>   
+
+> [!TIP]
+> - **Team Members:** Be sure to move your ticket to `validate` during or by the end of the sprint, where the work was completed.
+> - **"Leads"/Delivery:** Be sure to move your ticket to `closed` during or by the end of the sprint, where the work was completed.
