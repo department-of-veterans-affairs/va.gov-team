@@ -143,7 +143,7 @@ If you are assigned to the last open work ticket on an intake (or you’re the o
 
 ### Closure process for discipline "leads"/delivery
 
-At least weekly, review the Validate column and close intakes and work tickets related to your discipline. 
+At least weekly, review the Validate column in the [work ticket view](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1) and the [intake view](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/75) and close intakes and work tickets related to your discipline. 
 1. Confirm that all work tickets attached to an intake are closed
 2. If a ticket is not ready for closure, add a comment explaining why and next steps, and move the ticket to an active status swimlane (such as In Progress or Blocked)
 3. Add closed intakes and their attached work tickets to the [CAIA metric spreadsheet](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit?gid=1091370068#gid=1091370068) in the relevant sprint tab.
