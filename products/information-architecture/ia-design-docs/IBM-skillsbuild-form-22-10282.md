@@ -25,7 +25,7 @@
 
 ## <a name="flows"></a>User/page flows <br>
 See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1721776223889/18fdefd61696db7aa28191e3a54d8eb4b5ea599a?wid=0-1726073383280)
-<img width="921" alt="22-10282 flow" src="https://github.com/user-attachments/assets/d7f9ce6a-ba75-4520-b4bf-a6614518162e">
+![ibm 1 4](https://github.com/user-attachments/assets/cd5d4815-0aa5-4f92-86c2-ba88acd2c22b)
 
 
 ## <a name="map"></a>Page structure<br>
