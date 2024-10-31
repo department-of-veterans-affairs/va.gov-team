@@ -136,9 +136,11 @@ This section contains field data that is important for filtering and tracking is
 </details>
 
 ## Ticket Status
-The ticket status shows where work is in the CAIA pipeline and provides an overview of what's actually happening across the team. The status corresponds to which swim line the ticket will appear in on the [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1))(and task board) view in Github Projects. We use two sets of statuses for the two different ticket types:
+The ticket status shows where work is in the CAIA pipeline and provides an overview of what's actually happening across the team. The status corresponds to which swim lane the ticket will appear in on the [Task Table](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/1))(and task board) view in Github Projects. 
 
-### Intake status
+<details><summary>Expand to review information relative to intake status and work ticket status.</summary>
+
+### Intake Status
   -  **New Intakes** - this is where all new work comes into the board. When you create a ticket and add the sitewide-caia label, it will automatically appear here.
   -  **Intakes in Refinement** - Intakes that have been viewed by the Delivery Lead/Product Manager, but need more followup (feedback from OCTO, additional information from the requesting team, etc.)
   -  **Intakes in Progress** - Intakes where work has started and work tickets are moving through the swimlanes. 
@@ -146,11 +148,10 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
   -  **Epics** - used to group tickets related to the same product. Epics themself do not usually contain any direct work, rather they are a bucket for related intakes or work tickets where individual work is being tracked.
   -  **Closed** - all the work tickets related to the intake are complete, so the intake has been closed.
 
-### Work ticket status
+### Work Ticket Status
   -  **Icebox** - issues that have been deprioritized with no clear timeline or next steps. These are tickets we will only check on a quarterly or yearly basis, so if you anticipate action sooner than that, or need to keep a closer eye on the issue and check it more frequently, better to keep it in Backlog or Blocked.
   -  **Backlog** - issues that are not currently being worked on, but are still relevant and should be pulled in in the foreseeable future
   -  **Blocked** - issues where work has been stopped for more than a week or two. This includes any ticket where the next step belongs to a person that is external to CAIA:
-
      - Tickets that need a decision or review from a stakeholder/SME or OCTO PO
      - Tickets where artifacts required to complete work are missing or incomplete
      - Tickets that are blocked by normal pipeline process steps. For example, a piece of work going through the Collaboration Cycle that is waiting on a product team to finish research before we can help them make changes. There’s no blocker we need to remove, we’re just waiting for it to come back to us.
@@ -160,6 +161,10 @@ The ticket status shows where work is in the CAIA pipeline and provides an overv
   -  **Validate** - once CAIA work is complete on an issue, the person responsible for it at that stage should fill out the custom fields and move the ticket to validate. Naomi will close and track the ticket in the capacity spreadsheet. Make a note in the ticket for any cases where a product or page is published but needs additional review to ensure there are no bugs, stakeholder changes, or followup from the product team/OCTO.
  -  **Closed** - work completed for this issue. Updates are live, the product has launched, or feedback or deliverables have been provided to the team.
   - **OCTO Audits** - tickets created by OCTO leadership - usually audit work
+</details>
+
+> [!TIP]
+> **We use two sets of statuses for the two different ticket types:** Intake Status and Work Ticket Status. 
 
 ## Closing tickets
 The way we close tickets matters to our reporting, but we have different steps to complete, due to the range of ticket types and discipline setups on our team. 
