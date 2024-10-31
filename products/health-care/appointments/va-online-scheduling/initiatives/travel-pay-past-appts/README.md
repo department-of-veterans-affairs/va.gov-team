@@ -11,3 +11,8 @@ This initiative allows Veterans to file a mileage-only beneficiary travel (BT) r
 - [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-test-cases.md)
 - [QA Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-qa-plan.md)
 - [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-release-plan.md)
+
+## Other Documents
+- [Cross-team kickoff agenda to support travel reimbursement for past appointments on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/MeetingNotes/07-22-Mini-kickoff-for-travel-submission-and-Appointments-integration-on-VA.gov.md)
+- [Travel Pay Entry Points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/MeetingNotes/TravelPayEntryPoints.md)
+- [Travel Pay Omnichannel Collaboration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration)
