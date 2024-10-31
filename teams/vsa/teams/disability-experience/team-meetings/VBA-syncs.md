@@ -6,7 +6,8 @@ Goal of the meeting series: addressing policy related or other open questions fo
 1. 0781 opt out flow - when veterans opt out of 0781, should we automatically delete the 0781 evidence that they uploaded as well (supporting docs and treatment details)
 2. Question from shannon - 0781 supporting docs, what will they be labeled as?
 * RS - it will be hard coded
-* SF - ask VBA what will these docs be ideally typed as in VBMS? 
+* SF - ask VBA what will these docs be ideally typed as in VBMS?
+3. Aurora/Tommasina: Do we need to dynamically capture claimant certification (as a part of 5103 work) even though it is required in order to submit 526? 
 
 
 ## 10/01/24 Biweekly VBA-DBEX Check-in
