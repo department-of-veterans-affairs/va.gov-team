@@ -268,3 +268,4 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 
 ## Open Questions and Future Considerations
 1. What metrics should be tracked to measure the system's effectiveness and user satisfaction?
+2. Need to get what will be referred to as the providerID for the EPS system that matches to what's in the CCRA object. Refer to EPS document/yaml/json for the call `provider-services/{providerServiceId}`
