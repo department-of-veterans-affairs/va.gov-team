@@ -47,7 +47,7 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 **2) Form for IBM SkillsBuild - New**
 - URL: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282/
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > IBM SkillsBiuld Program > Introduction??
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > IBM SkillsBiuld Program > Apply for the IBM SkillsBuild program
 
 **3) About VA Form Form 22-10282 - New**
 - URL: va.gov/find-forms/about-form-22-10282/
@@ -59,12 +59,11 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
 
 ### Primary entry point
 
-1. **IBM SkillsBuild form intro page [page name TBD by Content]** - Add link to complete form
-  - Placement description: This form doesn't require log in, so there is no sign-in widget at the start of this form.
-  - Link label: Apply for the IBM SkillsBuild program
-  - Link destination: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282/
-
-<img width="507" alt="ibm primary entry b" src="https://github.com/user-attachments/assets/568c8880-6dac-4595-b0f5-2d2e871065c3">
+1. **Benefit Info (static Drupal page)** - Add
+- Placement description: The 'Benefit Info page' can be reached from the left nav (see Secondary Entry Point > Left Nav, below). The page contains a description of the benefit (see draft content in the [Content Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728998207284/c6a24447b96cefa10acf5138d27fdde8b07aca45?wid=0-1729001422687)), and a CTA to apply for the benefit.
+- CTA Link label: Apply for the IBM SkillsBuild program
+- Link destination: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282/
+<img width="461" alt="ibm 1 1" src="https://github.com/user-attachments/assets/103318d3-9c89-4675-8a74-dfb3205f5395">
 
 
 ### Secondary entry points
@@ -73,20 +72,15 @@ See most up-to-date user flow in Mural [here](https://app.mural.co/t/departmento
   - Placement description: In the left nav, under **Education and training > Get benefits > Other VA education benefits > [IBM Skillsbuild - H1 TBD]**
   - Left nav link label: IBM SkillsBuild program
   - Link destination: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/
-<img width="825" alt="ibm secondary nav" src="https://github.com/user-attachments/assets/530297e9-f80a-4e17-a432-80e8e83c82ce">
+<img width="437" alt="ibm 1 2" src="https://github.com/user-attachments/assets/c0c2242d-9c66-4292-a7d5-4d38b3453a58">
 
-2. **Benefit Info (static Drupal page)** - Add
-- Placement description: The 'Benefit Info page' can be reached from the left nav (see Secondary Entry Point > Left Nav, above). The page contains a description of the benefit (see draft content in the [Content Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728998207284/c6a24447b96cefa10acf5138d27fdde8b07aca45?wid=0-1729001422687)), and a CTA to apply for the benefit.
-- CTA Link label: Apply for the IBM SkillsBuild program
-- Link destination: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282/
-![ibm secondary entry benefit info](https://github.com/user-attachments/assets/5654f697-9798-4a82-9039-51260d26febb)
 
-3. **'About' page for form** - Add
+2. **'About' page for form** - Add
   - Note: Placement description: The 'Find a VA form' system's search result for this form should be updated with a link to the form, now that it can be filled out digitally.
   - Link label: Fill out VA form 22-10282 online
-  - Link destination: va.gov/education/other-va-education-benefits/[page name TBD by Content]/apply-form-22-10282/
-<img width="732" alt="ibm about 2" src="https://github.com/user-attachments/assets/1a37660a-3f6d-4396-8ab8-dc4b85cb2862">
-
+  - Link destination: va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282/
+  - Note: Stakeholders want *only* the digital form, not the PDF, available. So we may remove the link to the PDF. 
+<img width="605" alt="ibm 1 3" src="https://github.com/user-attachments/assets/67f9c598-d3ad-4f6b-86cf-94e9212074bf">
 
 
 
