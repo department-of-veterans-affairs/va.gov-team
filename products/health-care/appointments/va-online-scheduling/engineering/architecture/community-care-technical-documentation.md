@@ -194,7 +194,7 @@ sequenceDiagram
 ## Key Processes
 
 ### Nightly Job
-1. `getExternalReferralData()`: Pulls referral data from MAP for the next 3 months.
+1. `getExternalReferralData()`: Pulls referral data from MAP/CCRA for the next 3 months, or however long they allow.
 2. `parseConsultIntoReferral()`: Vets API parses consult data into a referral object.
 3. `checkReferralData()`: Ensures referrals are not expired and don't exist in the Postgres DB.
 4. `encryptReferralData()`: Encrypts referral data using the vets-api encryption library.
