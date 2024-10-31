@@ -3,7 +3,7 @@
 
 Created On: October 17, 2024
 
-Edited Last: October 29, 2024
+Edited Last: October 31, 2024
 
 ### Background
 Through the Veteran Transition Support (VTS) project, the Department of Veterans Affairs (VA) and Booz Allen Hamilton are working to help Veterans learn about available benefits, understand their eligibility, and begin the application process. The VTS teams aims to create a new, accessible, all-in-one prototype for Veteran benefit information that is helpful for current service members approaching separation and all Veterans regardless of the time since their separation. This prototype would clearly guide Veterans through the benefits discovery and eligibility check processes. The prototype will also provide comprehensive and accurate information about gathering required documentation, applying for benefits, and checking one’s application status.
@@ -187,7 +187,7 @@ Are you currently a Commanding Officer?
 We plan to interview Veterans, TSMs, and COs over approximately a 2-week period (October 31st through November 13th). Dates are subject to move based on participant availability.
 
 #### Prepare
-We will be testing our product on the [v2 Figma prototype](https://www.figma.com/proto/4J2vqMA2VY6wqgcjvhF2aT/v2-Prototype-Design?node-id=6007-18932&node-type=frame&t=vgmFBizBbqVw0xJw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1).
+We will be testing our product on the [v2 Figma prototype](https://www.figma.com/proto/4J2vqMA2VY6wqgcjvhF2aT/v2-Prototype-Design?node-id=6007-18932&node-type=canvas&t=UVG9putBh2OE0q45-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&disable-default-keyboard-nav=1).
 
 We do want to hold a kickoff call with the Perigean team. Please email the following people to schedule a kickoff call:
 
