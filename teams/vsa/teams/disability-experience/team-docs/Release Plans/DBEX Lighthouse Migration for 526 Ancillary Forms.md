@@ -48,20 +48,20 @@ After successfully passing the testing plan, we will then increase usage to 5%, 
 For the 0781 release, we want to start by setting the feature flipper to send 1% of 0781 uploads to Lighthouse. 
 After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
 
-- **Release date for 1%:** TBD
-- **Release date for 5%:** TBD
-- **Release date for 50%:** TBD
-- **Release date for 100%:** TBD
+- **Release date for 1%:** Monday Nov 18
+- **Release date for 5%:** Tuesday Nov 19
+- **Release date for 50%:** Thursday Nov 21
+- **Release date for 100%:** Monday Nov 25
 
 
 ### Veteran Evidence Uploads 
 For the Evidence Upload release, we want to start by setting the feature flipper to send 1% of uploads to Lighthouse. 
 After successfully passing the testing plan, we will then increase usage to 5%, 50%, then 100%.
 
-- **Release date for 1%:** TBD
-- **Release date for 5%:** TBD
-- **Release date for 50%:** TBD
-- **Release date for 100%:** TBD
+- **Release date for 1%:** Monday Nov 25
+- **Release date for 5%:** Tuesday Nov 26
+- **Release date for 50%:** Thursday Nov 28
+- **Release date for 100%:** Monday Dec 2
 
 
 **Team members:**
