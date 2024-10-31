@@ -698,7 +698,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### December 2 - 10: Global UX, Local Navigation, November/December 2019
 *Kevin Hoffman*
 - 16 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-plan.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b674446f648b743f9a8a29d8c14636f58e7fc162/products/information-architecture/research-and-analytics/2019-vamc-navigation/left-nav/research/research-plan.md)
 
 ### November 2019
 
