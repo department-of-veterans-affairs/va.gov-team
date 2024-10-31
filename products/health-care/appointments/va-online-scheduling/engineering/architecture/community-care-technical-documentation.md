@@ -138,7 +138,6 @@ sequenceDiagram
     participant VetsAPI as Vets API
     participant Sidekiq as Sidekiq Job
     participant Postgres as Postgres DB
-    participant MAP as MAP
     participant VistA as VistA
     participant EPS as EPS System
     participant VA as VA Notify
