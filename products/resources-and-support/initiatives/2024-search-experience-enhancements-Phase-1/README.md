@@ -170,6 +170,6 @@ Milestone | Date | Link to issue |
 - Product POCs:
    - Michelle Middaugh - OCTO PO
    - Fran Cross - A6 PM
-   - Jill Adams - A^ Delivery Manager
+   - Jill Adams - A6 Delivery Manager
 
 </details>
