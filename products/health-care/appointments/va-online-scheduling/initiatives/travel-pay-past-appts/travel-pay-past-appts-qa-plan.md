@@ -4,10 +4,12 @@
 - [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/travel-pay-past-appts/travel-pay-past-appts-test-cases.md)
 - TestRail
   - [Test Plan](https://dsvavsp.testrail.io/index.php?/plans/view/6172)
-      - [Product Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/6174&group_by=cases:section_id&group_order=asc)
-      - [UX Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/6173&group_by=cases:section_id&group_order=asc)
+      - [Product Test Run - iOS](https://dsvavsp.testrail.io/index.php?/runs/view/6174)
+      - [UX Test Run - iOS](https://dsvavsp.testrail.io/index.php?/runs/view/6173)
+      - [Product Test Run - Android](https://dsvavsp.testrail.io/index.php?/runs/view/6179)
+      - [UX Test Run - Android](https://dsvavsp.testrail.io/index.php?/runs/view/6178)      
   - [Regression Plan](https://dsvavsp.testrail.io/index.php?/plans/view/6175)
-      - [Regression Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/6176&group_by=cases:section_id&group_order=asc)
+      - [Regression Test Run](https://dsvavsp.testrail.io/index.php?/runs/view/6176)
   - Defect Summary Report - TBD
   - Coverage for References - TBD
 
