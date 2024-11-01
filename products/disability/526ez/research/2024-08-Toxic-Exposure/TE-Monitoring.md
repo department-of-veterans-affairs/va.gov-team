@@ -169,15 +169,15 @@ All Medalia survey data is reported as a % of 4+5 answers.
 ### Thematic Tags 
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 
-|Rank|Pre-launch (6 weeks)|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 75%**|
+|Rank|Pre-launch (6 weeks)|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** [no tagging] | **1.1 - 75%**|
 |--|--|--|--|--|
 |Total responses| 462| 207|
-|1|Usability (n=33)|Submission Issues (9)|--|||
-|2|Navigation (n=33)|Evidence Upload (7) |
-|3|PACT (n=26)|  PACT (7)|--|
-|4|Error (n=26)|In Progress Form Issues (6)| --|
-|5|Getting help (n=23)|BIRLS error (4)|
-</details>
+|1|Usability (n=33)|Submission Issues (9)|N/A|||
+|2|Navigation (n=33)|Evidence Upload (7) |N/A|
+|3|PACT (n=26)|  PACT (7)|N/A|
+|4|Error (n=26)|In Progress Form Issues (6)|N/A||
+|5|Getting help (n=23)|BIRLS error (4)|N/A|
+
 
 ## Contact Center MyVA 411 Data
 Data from the MyVA411 information line (800-698-2411) is logged in Salesforce by call center agents, then requested by researchers to review. 
