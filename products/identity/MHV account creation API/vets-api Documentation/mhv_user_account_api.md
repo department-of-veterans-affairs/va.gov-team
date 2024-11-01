@@ -44,7 +44,7 @@ fetch("https:/api.va.gov/v0/user/mhv_user_account", {
 | ----------------- | --------- | ---------------------------------------------------------- |
 | `user_profile_id` | `string`  | Unique identifier for the MHV user account.                |
 | `premium`         | `boolean` | User is premium                                            |
-| `champ_va`        | `boolean` | User is chanmp_va                                          |
+| `champ_va`        | `boolean` | User is champ_va                                          |
 | `patient`         | `boolean` | User is a patient                                          |
 | `message`         | `string`  | Timestamp for the last update to the user account details. |
 
