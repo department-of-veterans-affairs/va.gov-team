@@ -8,10 +8,20 @@
 
 ### 5 pages with the highest experience ratings 
 All pages have ratings of 4 or above.
--   
+-   [About VA DIC for spouses, dependents, and parents](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/)
+-   [VA benefits for family and caregivers](https://www.va.gov/family-and-caregiver-benefits/)
+-   [Print out your VA welcome kit](https://www.va.gov/welcome-kit/)
+-   Housing assistance/home loans (This rating was for several different pages within the housing benefit hub.)
+-   [Disaster help](https://www.va.gov/resources/disaster-help/)
+  
 ### 5 pages with the lowest experience ratings
 All pages have ratings of 2 or below.
--   
+-   Appointments/check-in (Note: This is an authenticated experience)
+-   [Commissary and exchange privileges for Veterans](https://www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/)
+-   [Managing your VA.gov profile](https://www.va.gov/resources/managing-your-vagov-profile/)
+-   [Privacy and security on VA.gov](https://www.va.gov/resources/privacy-and-security-on-vagov/#why-do-i-need-to-verify-my-ide) (Note: All of these went to the H2 WHy do I need to verify my identity to use advanced tools on VA.gov.)
+-   [My HealtheVet on VA.gov: what to know](https://www.va.gov/resources/my-healthevet-on-vagov-what-to-know)
+
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
