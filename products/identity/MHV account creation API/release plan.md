@@ -31,7 +31,7 @@
 ---
 
 ### Day 3: Phase 1 (5% then 50% on PROD - 1 hour each)  
-**Date:** November 5, 2024  
+**Date:** November 5, 2024 at 2pm eastern time
 **Objective:** Release the API to 10% of the user base for initial testing in a live environment.
 
 - **Rollout to 5% of Users for 1 hour**
