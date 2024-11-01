@@ -86,7 +86,14 @@ We still see the in progress form as a potential hotspot for problems with veter
   <summary>Click to expand UX Insights for 1.0 100% [Future reporting]
   </summary>
 
-    We are shifting our monitoring cadence so we do not review Medallia or My VA411 until 100% of 1.0 to ensure we have more data points
+### #1. Even at 100%, we are receiving minimal direct feedback about the toxic exposure questions from the Medallia surveys. 
+- In the first week at 100%, (10/21-27), only 4 out of 90 responses originated from Toxic Exposure urls (Herbicide and Additional Exposure pages). 
+- Veterans left low to neutral satisfaction ratings on the pages, but we do not have open test responses to explain the numbers. We are meeting with the Contact Center next week to ensure that we are not missing data from the time period.
+
+### #2. We read this silence in the data as good news, but expect to learn more about the user experience in upcoming usability testing. 
+- On Monday, 11/4, we briefly review recent MyVA411 data from the 100% release period to validate what we are seeing in the Medallia data.
+- We have started to plan for our upcoming usability testing, which we will run in early December. 
+    
 </details>
 
 ## 526ez Success Metrics
