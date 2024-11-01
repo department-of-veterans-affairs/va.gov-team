@@ -177,4 +177,7 @@ List any third-party services, libraries, or APIs integrated into the applicatio
 Include any additional notes or resources that may be relevant for developers or system administrators working on the project.
 
 ### Example Diagram 
-Add any architecture diagrams or flow charts to give more visual clarity to the setup.
+Below you will find links to diagrams so that in case we need to update the diagram(s), we can just update in the one place.
+* High level FSR graph: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/high-level-fsr-submission-graph.png
+* FSR dependency graph: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/fsr-submission-dependency-graph.png
+
