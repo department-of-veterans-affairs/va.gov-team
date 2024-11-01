@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), V1 Transition Experience, Transition Experience Team**
 
-Date: 10/31/2024
+Date: 11/01/2024
 
 Cora Goldston [cora.goldston@va.gov], Ronnie Young [veronica.young1@va.gov]
 
