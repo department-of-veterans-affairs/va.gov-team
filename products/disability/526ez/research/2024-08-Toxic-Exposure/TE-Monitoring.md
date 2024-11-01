@@ -88,8 +88,8 @@ We still see the in progress form as a potential hotspot for problems with veter
 - In the first week at 100%, (10/21-27), only 4 out of 90 responses originated from Toxic Exposure urls (Herbicide and Additional Exposure pages). 
 - Veterans left low to neutral satisfaction ratings on the pages, but we do not have open test responses to explain the numbers. We are meeting with the Contact Center next week to ensure that we are not missing data from the time period.
 
-### #2. We read this silence in the data as good news, but expect to learn more about the user experience in upcoming usability testing. 
-- On Monday, 11/4, we briefly review recent MyVA411 data from the 100% release period to validate what we are seeing in the Medallia data.
+### #2. We read this silence in the data as good news when paired with the low abandonment rate, but expect to learn more about the user experience in upcoming usability testing. 
+- On Monday, 11/4, we briefly review recent MyVA411 data from the 100% release period to validate what we are seeing in the Medallia data. Based on our monitoring to date, we do not expect to surface much insight from the Contact Center data.
 - We have started to plan for our upcoming usability testing, which we will run in early December. 
     
 </details>
