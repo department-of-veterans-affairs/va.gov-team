@@ -12,11 +12,11 @@ In these research studies, we used actual responses that have been sent to submi
 
 1. Veterans anticipate that inquiries marked as solved by VA will not actually feel solved for submitters. Even before they read a reply from VA, Veterans expect to be frustrated.
 
+> "Is it just [going to be typical] VA, like, no, you don't qualify for that, and that's the end of it. They say it's solved was like, well, I still have my issue. What else? What other things are available. What other resources are available to me?"
+
 2. Veterans always need a next step. Even if they've asked about a benefit or service that they're ineligible for, they expect to receive information or advice about other options.
 
 > "It doesn't seem like you're putting any care into this or trying to help a Veteran get the benefits that they deserve. You're just straight up, just like, no, not that."
-
-> "[It's typical] VA, like, no, you don't qualify for that, and that's the end of it. They say it's solved and, well, I still have my issue. What else? What other things are available? What other resources are available to me?"
 
 3. Veterans are likely to misunderstand the meaning of VA's response or have follow up questions. If anything is left to interpretation, they risk understanding it incorrectly or getting confused.
 
