@@ -241,6 +241,8 @@ Thank you for showing me that.
 - Does anything stand out from the previous page we were looking at?
 - Any changes that you notice while using this site? 
 
+- What other things can you do here/on this page?
+- How do you know? 
 
 #### Things to note 
 
@@ -304,9 +306,11 @@ _Additional prompts_
 
 - Okay, thank you. 
 - Now where do you think you are?/How would you describe where you are to a friend? 
+- What is this page all about?
+- Is this what you would expect?
 - Why don't you take a few minutes to move around, and while you do so, please try to think out loud so that I can try to understand your thoughts. 
-- Does anything stand out from the previous page we were looking at?
 
+  
 ### Things to note
 - Where do participants think they landed?/Do they understand where they’ve landed?
 - Anything exciting, interesting, or new that stands out? 
@@ -331,7 +335,8 @@ Additional prompts:
 - Does anything stand out from the previous page we were looking at?
 - Any changes that you notice while using this site?
   
-
+- What other things can you do here/on this page?
+- How do you know?
 
 #### Things to note 
 
@@ -400,8 +405,9 @@ _Additional prompts_
 
 - Okay, thank you. 
 - Now where do you think you are?/How would you describe where you are to a friend? 
+- What is this page all about?
+- Is this what you would expect?
 - Why don't you take a few minutes to move around, and while you do so, please try to think out loud so that I can try to understand your thoughts. 
-- Does anything stand out from the previous page we were looking at?
 
 _Additional prompts_
 
@@ -424,7 +430,10 @@ Now let's imagine that you want to make a follow-up appointment with your doctor
 - **Optional** How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
 
 - Does anything stand out from the previous page we were looking at?
-- Any changes that you notice while using this site? 
+- Any changes that you notice while using this site?
+
+- What other things can you do here/on this page?
+- How do you know?
 
 #### Things to note 
 
