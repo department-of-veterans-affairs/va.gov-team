@@ -208,9 +208,10 @@ Okay, now go ahead and select that link.
 ### Arrive on VA.gov (5 mins) 
 
 - Okay, thank you. 
-- Now where do you think you have arrived? How would you describe where you landed to a friend? 
+- Now where do you think you have arrived? How would you describe where you landed to a friend?
+- What is this page all about?
+- Is this what you would expect?
 - Why don't you take a few minutes to move around, and while you do so, please try to think out loud so that I can try to understand your thoughts. 
-- Does anything stand out from the previous page we were looking at?
 
 ### Things to note
 - Where do participants think they landed?/Do they understand where they’ve landed?
@@ -287,8 +288,7 @@ _Additional prompts_
 - Say you needed to look up driving directions for an upcoming appointment - Go ahead and show me how you would do that?
 - Let's say you needed to schedule a new appointment online, can you show me how you would schedule an appointment? 
 
-- Does anything stand out from the previous page we were looking at?
-- Any changes that you notice while using this site? 
+
 
 #### Things to note 
 
@@ -329,7 +329,9 @@ Additional prompts:
 - Say you wanted to look up the number of refills on a medication you are currently talking, how would you do that on this site we are looking at? 
 
 - Does anything stand out from the previous page we were looking at?
-- Any changes that you notice while using this site? 
+- Any changes that you notice while using this site?
+  
+
 
 #### Things to note 
 
@@ -338,7 +340,7 @@ Additional prompts:
 - Any positive changes that users notice while using the new portal?
   
 ### Secure message (5 mins)
-
+  
 Say you're confused by a medical result and you want to ask your doctor about it. Using this website, how would you send them a message? 
 
 - Again, if you could please tell me what you are thinking as you try to do this, it would be very helpful for me. 
