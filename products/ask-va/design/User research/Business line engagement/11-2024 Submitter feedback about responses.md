@@ -2,6 +2,8 @@
 
 Last updated by @tygindraux on November 1, 2024
 
+Ask VA VA.gov Team
+
 ## Background
 
 We regularly do user research with submitters to understand their experiences using Ask VA. During research, we've received feedback about what submitters expect from VA's responses through Ask VA. The purpose of this document is to share this feedback with Ask VA business lines.
