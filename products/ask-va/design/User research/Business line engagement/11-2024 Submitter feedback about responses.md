@@ -44,4 +44,4 @@ In these research studies, we used actual responses that have been sent to submi
 
 ## Questions
 
-If you have questions about the feedback or recommendations in this document, please contact Tyler Gindraux (tyler.gindraux@va.gov) and Becky Phung (becky.phung@va.gov). Thanks!
+If you have questions about the feedback or recommendations in this document, please contact Tyler Gindraux and Becky Phung. Thanks!
