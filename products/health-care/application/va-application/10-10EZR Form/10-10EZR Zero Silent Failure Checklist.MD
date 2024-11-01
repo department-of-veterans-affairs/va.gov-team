@@ -40,7 +40,7 @@ Reporting errors
 
 If not, then start filing Github issues for new categories of errors following this guidance
 
-- Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email? **Not yet, we need to add that. It is currently handled manually by the team and HEC Admins. We have a ticket for this** #[92911](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/92911)
+- Do all fatal errors thrown in your application end up visible to the end user either in the user interface or via email? **Yes!** #[92911](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/92911)
 
 If not, then file Github issues to capture error categories following this guidance
 Documentation
