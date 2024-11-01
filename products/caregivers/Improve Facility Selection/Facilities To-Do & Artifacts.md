@@ -32,8 +32,8 @@
      - [Staging](https://staging.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
      - [Production](https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-10-10cg-facility-selection.md)
-- Finalized design prototype or mockup
-- Content brief
+- [Finalized design](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2478-18708&node-type=SECTION&t=LIbnyXIFEnPa5jZz-0)
+- [Content brief](https://github.com/department-of-veterans-affairs/va.gov-team/issues/55327)
 - Regression test plans
 - TestRail 
      - Test cases
@@ -41,7 +41,7 @@
 - Technical diagrams (architecture diagram, sequence diagram)
 - Any new publicly-exposed endpoints
 - Any new interactions with dependent VA backends
-- Release plan
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Improve%20Facility%20Selection/10-10CG%20Facility%20Selection%20-%20Release%20Plan.md)
 - Product guide for contact center
 
 </Details>
