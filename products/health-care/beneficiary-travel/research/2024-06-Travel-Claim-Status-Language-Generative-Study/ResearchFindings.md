@@ -9,7 +9,8 @@ Cara Frissell [cara.frissell@adhocteam.us)
 
 RECOMMENDED: [9.26 PPT presentation in Sharepoint](https://dvagov-my.sharepoint.com/:p:/r/personal/cara_frissell_va_gov/Documents/Desktop/9.26%20Travel%20Claim%20Status%20Language%20Generative%20Study%20-%20Full%20Edition.pptx?d=w4b2f0cf5f08846f697a5d35c12492b0e&csf=1&web=1&e=iS82Ib)
 
-Preferred PDF: [9.26 Travel Claim Status Language Generative Study - Full Edition .pdf](https://github.com/user-attachments/files/17081275/9.26.Travel.Claim.Status.Language.Generative.Study.-.Full.Edition.pdf)
+Preferred PDF: [9.26 Travel Claim Status Language Generative Study - Full Archive Edition.pdf](https://github.com/user-attachments/files/17600578/9.26.Travel.Claim.Status.Language.Generative.Study.-.Full.Archive.Edition.pdf)
+
 
 
 ## **Research Goals**
