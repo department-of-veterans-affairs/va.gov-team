@@ -115,6 +115,18 @@ The addition of Datadog Real User Monitoring can have a net-positive effect for 
 - Improve VA.gov authentications by measuring and fixing web performance
 - Allow greater insights into VA.gov's authenticated experiences
 
+## Next steps
+- Update Identity's Datadog [frustration signals dashboard](https://vagov.ddog-gov.com/dashboard/k65-sji-dku/identity-frustration-signals?fromUser=false&refresh_mode=sliding&from_ts=1730471405246&to_ts=1730475005246&live=true) so that its easier to understand by our team and scoped appropriately between different environments, as well as filtering unsupported user frustrations (aka users using web extensions that have errors count against us in user frustration)
+- Use metrics to develop a web performance plan
+- Use metrics to develop a frustration reduction plan
+- Use web performance plan to improve web performance of Identity-owned code
+- Use frustration reduction plan to inform user research opportunities (UX) and/or improvement plan (Engineering)
+- Develop a policy & workflow to continuously evaluate user frustrations
+  - How many frustrations before Identity fixes an issue?
+  - Are they "real" frustrations?
+  - How can we inform other teams about user frustrations?
+- Use the user frustrations metrics together with the Domo survey data to better inform our POs
+
 ## Details
 
 Conducted by [Alexander Garcia](https://github.com/asg5704) on October 22, 2024.
