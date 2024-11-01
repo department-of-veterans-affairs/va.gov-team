@@ -1,7 +1,7 @@
 # Note: This page is in draft
 # Unauthenticated page experience ratings: October 2024
 ## Related overall scores
-- **Total customer satsifaction score:** XX.X (X% change from last period)
+- **Total customer satsifaction score:** 55.9 (0% change from last period)
 - **Average resources and support good/bad experience score:** XX% "good" experience rating overall XXXX out of XXXXX total)
 
 ## Experience ratings (1 to 5 scale)
