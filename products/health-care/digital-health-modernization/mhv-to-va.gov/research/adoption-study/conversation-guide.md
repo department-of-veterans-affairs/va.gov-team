@@ -501,7 +501,7 @@ On a scale of 1-5, 1 = not confident and 5 = confident, how confident are you th
  	- Why that rating?
 
 
-- On a scale of 1-5, 1 = not confident and 5 = confident, how confident you are that you have all the  information needed to help me start using the new site.
+- On a scale of 1-5, 1 = not confident and 5 = confident, how confident are you that you have all the  information needed to help me start using the new site.
 	- Why that rating?
         - Is there anything that would excite you and potentially get you to use the new site? 
 
