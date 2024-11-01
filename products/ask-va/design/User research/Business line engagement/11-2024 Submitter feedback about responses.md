@@ -30,7 +30,7 @@ In these research studies, we used actual responses that have been sent to submi
 
 > "It's telling you what alphabet suit group is responding."
 
-**5. Veterans are frustrated by responses that seem "obviously copy and pasted" or canned. If responses are not specific and personal, people prefer to use instant, automated tools. This includes business submitters, who often turn to Ask VA for more complex questions, expecting more specific answers.**
+**5. Veterans are frustrated by responses that seem "obviously copy and pasted" or canned. If responses are not specific and personal, people prefer to use instant, automated tools. This includes business submitters, who often choose Ask VA for more complex questions, expecting more specific answers.**
 
 > "This was a canned answer and I'm [frustrated with] him, her, they or the computer that generated it."
 
