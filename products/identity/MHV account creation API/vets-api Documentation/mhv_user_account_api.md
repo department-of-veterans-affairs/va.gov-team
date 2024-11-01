@@ -29,12 +29,18 @@ fetch("https:/api.va.gov/v0/user/mhv_user_account", {
 
 ```json
 {
-  "user_profile_id": "12345678",
-  "premium": true,
-  "champ_va": true,
-  "patient": true,
-  "sm_account_created": true,
-  "message": "Existing MHV Account Found for ICN"
+  "data": {
+    "id": "12345678",
+    "type": "mhv_user_account",
+    "attributes": {
+      "user_profile_id": "12345678",
+      "premium": true,
+      "champ_va": true,
+      "patient": true,
+      "sm_account_created": true,
+      "message": "some-message"
+    }
+  }
 }
 ```
 
