@@ -83,9 +83,9 @@
 - [N/A] Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket
 - [x] Create Use Cases
      - [N/A] Identify test users
-- [ ] Complete development
-     - [ ] Engineers work with Designers on any questions/clarifications
-     - [ ] Present to team for validation
+- [x] Complete development
+     - [x] Engineers work with Designers on any questions/clarifications
+     - [x] Present to team for validation
      - [ ] Present to Stakeholders for validation
 - [ ] Complete QA and Accessibility QA
 - [ ] Engage downstream system team for End-to-End QA coordination
