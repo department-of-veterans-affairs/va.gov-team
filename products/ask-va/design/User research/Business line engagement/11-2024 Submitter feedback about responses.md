@@ -16,13 +16,14 @@ In these research studies, we used actual responses that have been sent to submi
 
 > "[It's typical] VA, like, no, you don't qualify for that, and that's the end of it. They say it's solved and, well, I still have my issue. What else? What other things are available? What other resources are available to me?"
 
-3. Veterans often misunderstood the meaning of the reply from VA. They may interpret it differently than intended, which leads to more confusion.
+> "This is for family members of service members. Veterans, kind of, blah blah blah. Okay. So in other words, no, you don't get nothing."
+
+3. Veterans are likely to misunderstand the meaning of VA's response. If anything is unclear, they risk interpretting it incorrectly and being further confused. 
 
 4. Veterans are frustrated by responses that seem "obviously copy and pasted" or canned. If responses are not specific and personal, people prefer to use instant, automated tools. This includes business submitters, who often turn to Ask VA for more complex questions, expecting more specific answers.
 
-5. Veterans are generally unfamiliar with terminology
+> "This was a canned answer and I'm [frustrated with] him, her, they or the computer that generated it."
 
-"It's telling you what alphabet suit group is responding. That this is for family members of service members. Veterans kind of blah blah blah. Okay. So in other words, no, you don't get nothing."
+5. Veterans are generally unfamiliar with terminology and jargon internal to VA. This applies to acronyms and department names or structures.
 
-"The status that says 'Solved.' Does that mean that they've provided me an answer to the question I asked or that whatever I'm mailing to them has been solved?"
-
+> "It's telling you what alphabet suit group is responding."
