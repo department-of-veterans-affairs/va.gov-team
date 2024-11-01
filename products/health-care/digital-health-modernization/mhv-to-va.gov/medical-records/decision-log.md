@@ -130,7 +130,11 @@ Decisions made on OCC/OCTO Leadership meeting with Dr. Josephs, Theresa Hancock,
 | In the details view for an allergy, a user will be shown Allergy name, date entered, location entered, reaction, allergy type, whether it was observed or is historical, and any comments entered by the provider | |
 | The field formerly called reaction was updated to be called Signs and symptoms. | This was based on feedback from SMEs. Signs and symptoms is the terminology for this field used in the After Visit Summary. It also differentiates this field from the title of this entire section - Allergies and reactions |
 
-
+### Logging Decisions
+ | Date | Decision Maker(s) | Description of Decision | Rationale |
+|------|-------------------|-------------------------|-----------|
+| 7/18/2023 | Theresa Hancock, Bresha Lipscomb, Coulton Bunney, Marci McGuire  |  The User Interface for users to view their log info does not need to be baked into the applications in Phase 0, but we do need to provide a link from the new experience to the logs on My HealtheVet.  The timing for incorporating the log UI into the new experience will be determined based on the estimated lift to create that new page.  |  Getting the new experience in front of users was deemed to be a higher priority than replicating the logging access page in Phase 0 |
+| 6/13/2023 | Theresa Hancock, Bresha Lipscomb, Matthew Baum, Stephania Griffin, Peggy Pugh, Lauren Alexanderson, Coulton Bunney, Marci McGuire, Barry Egbert                  |  The logging in AAL can remain exactly the way it is set up in MHV currently  |  The current configuration was reviewed by Matt Baum and deemed sufficient.  |
 
 ## Product
  | Date | Decision Maker(s) | Description of Decision | Rationale |
@@ -185,7 +189,7 @@ Please see Accessibility design intent feedback [https://github.com/department-o
 
 - Why have a download and print button for similar results? 
 
-**Recomendation**
+**Recommendation**
 
 -  Because we are not having a “share” functionality wihin this flow - And based on accessbility feedback - we should strongly consider a download and print button/functionality  
 
