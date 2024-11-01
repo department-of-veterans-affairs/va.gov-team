@@ -112,8 +112,6 @@ Thanks for answering those questions. I want to transition us to exploring the s
 
 ### Task 1: Explore the page (think aloud walkthrough) Medications, Secure messages, and Appointments on MVH National Portal - 10 mins 
 
-- Take a few minutes to explore the page. It would really help me if you could talk me through what you are thinking while exploring the website.
-- How would you describe this page to your friend? 
 - What do you think you can do from here?/What kind of things can you do from this website?/What do you typically do here? 
 - Can you show me how you would do that? 
 
@@ -503,7 +501,7 @@ On a scale of 1-5, 1 = not confident and 5 = confident, how confident are you th
  	- Why that rating?
 
 
- On a scale of 1-5, 1 = not confident and 5 = confident, how confident you are that you have all the  information needed to help me start using the new site.
+- On a scale of 1-5, 1 = not confident and 5 = confident, how confident you are that you have all the  information needed to help me start using the new site.
 	- Why that rating?
         - Is there anything that would excite you and potentially get you to use the new site? 
 
@@ -515,6 +513,7 @@ On a scale of 1-5, 1 = not confident and 5 = confident, how confident are you th
         - Why that rating?
 
 - If you were going to describe to a friend what features the new site is offering, what would you say?
+	- What features are important to you? If any 
 
 - Anything I didn't ask you about that you want to share about your experience? Do you have any other questions for me? 
 
