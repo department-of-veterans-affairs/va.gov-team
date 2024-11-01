@@ -392,9 +392,15 @@ Thank you for showing me that.
 - Any challenges or hiccups with the new portal? 
 - Any positive changes that users notice while using the new portal?
 -------
-## <a name="cool-down"></a>Questionnaires (10 minutes)
+## <a name="cool-down"></a>Questionnaires/Interview (10 minutes)
 
-- Thank you for going through those tasks and all your insight. I just have a few final questions to ask you. You can stop sharing your screen now if you'd like to.
+- Thank you for going through those tasks and all your insight. I just have a few final questions to ask you.
+- Now that we looked at this "new" site together, if you wanted to come back to it, how would you do that? 
+	- Or _if you wanted to describe to a friend, who is also a Veteran, how to get to this site we just looked it, how would you do that?_
+	 
+- Okay, You can stop sharing your screen now if you'd like to.
+
+- 
 
 On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding what you were looking for in that site we just explored together?
     - Why that rating? 
