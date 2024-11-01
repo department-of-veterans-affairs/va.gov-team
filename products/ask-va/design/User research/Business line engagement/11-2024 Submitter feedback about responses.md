@@ -18,7 +18,7 @@ In these research studies, we used actual responses that have been sent to submi
 
 > "This is for family members of service members. Veterans, kind of, blah blah blah. Okay. So in other words, no, you don't get nothing."
 
-3. Veterans are likely to misunderstand the meaning of VA's response. If anything is unclear, they risk interpretting it incorrectly and becoming more confused than where they started.
+3. Veterans are likely to misunderstand the meaning of VA's response. If anything is left to interpretation, they risk understanding it incorrectly or getting confused.
 
 4. Veterans are frustrated by responses that seem "obviously copy and pasted" or canned. If responses are not specific and personal, people prefer to use instant, automated tools. This includes business submitters, who often turn to Ask VA for more complex questions, expecting more specific answers.
 
