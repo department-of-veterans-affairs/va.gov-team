@@ -163,7 +163,7 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |CSAT-Intercept| 36.2%|41.9% | 68% |33%|
 |Trust Overall|41% |52% |61%|29%|
 |**Total Feedback Responses**|**2,289**|**455**|**225**|**73**|
-|Feedback satisfaction|21.6%| 34.2%| 
+|Feedback satisfaction|21.6%| 34.2%| 26% |35%|
 |Task completion| 23% | 44.5% |36%| 42%|
 
 
