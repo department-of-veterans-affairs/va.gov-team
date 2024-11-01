@@ -489,14 +489,12 @@ Thank you for showing me that.
 ## <a name="cool-down"></a>Questionnaires/Interview (10 minutes)
 
 - Thank you for going through those tasks and all your insight. I just have a few final questions to ask you.
+
 - Now that we looked at this "new" site together, if you wanted to come back to it, how would you do that? 
 	- Or _if you wanted to describe to a friend, who is also a Veteran, how to get to this site we just looked it, how would you do that?_
-- How else would you expect or want to be able to get back to this site? 	 
+- How else would you expect or want to be able to get back to this site?   
 
 - Okay, You can stop sharing your screen now if you'd like to.
-
-- On a scale of 1-5, 1 = not confident and 5 = confident, How confident are you that you would be able to find this site again on your own in the future?
-	 - Why that rating?
  
 - On a scale of 1-5, 1 = not confident and 5 = confident, How confident do you feel about being able to manage your healthcare on the "new" site?
  	- Why that rating?
@@ -504,14 +502,13 @@ Thank you for showing me that.
 - On a scale of 1-5, 1 = difficult and 5 = easy, how would you rate the difficulty of using the site we just explored together?
         - Why that rating?
 
-- Do you feel 
+- On a scale of 1-5, 1 = needing more information and 5 = Having all the information, I would like more information on the website to help me start using the new site
+	- Why that rating?
+        - Is there anything that would excite you and potentially get you to use the new site? 
 
 - Now that you've seen both of these approaches to managing your healthcare - what are your thoughts about them?
 	- Was there anything that you excited you about the new site 
- - I would like more information on the website/support to help me start using the new site
 
-- 
-- If you were talking to a friend that is also a Veteran who wanted to use these tools, how would you describe the relationship between this site and the VA.gov?
 - Anything I didn't ask you about that you want to share about your experience? 
 
 - Do you have any questions for me? 
