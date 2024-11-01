@@ -1,4 +1,4 @@
-# IA Design for [Product/page name]
+# IA Design for [Re-naming of Post-9/11 GI Bill Statment of Benefits tool]
 **STATUS: [In progress]**
 
 **Team:** EDM
@@ -19,8 +19,6 @@
 
 
 ## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
-
 
 **1) Benefit Info drupal page - Existing**
 - URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/
@@ -39,7 +37,7 @@
 
 
 ## <a name="redirects"></a>Redirects <br>
-*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. The [redirect ticket for this work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94306) is already in place, and is ready to be updated once content is finalized.*
+*A list of any critical redirects needed as part of this product/feature launch. The [redirect ticket for this work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94306) is already in place, and is ready to be updated once content is finalized.*
 
 
 Current URL | Redirect to | Notes
@@ -54,8 +52,4 @@ va.gov/education/check-post-9-11-gi-bill-benefits/status/print/ | TBD | TBD by C
 No
 
 
-
-
-<hr>
-<hr>
 
