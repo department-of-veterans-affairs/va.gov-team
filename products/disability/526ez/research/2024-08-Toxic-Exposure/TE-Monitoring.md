@@ -120,7 +120,7 @@ We still see the in progress form as a potential hotspot for problems with veter
 
 | Step # | 526 Page | Baseline | 5% | 10% | 25% | 50% | 75% | 100% |Data Source |
 |--|--|--|--|--|--|--|--|--|--|
-|Step 1| Introduction | 46.73% | 46.73% | 44.24% | 41.6%| 44.01% | n/a | 44.27% |GA 526 Overall Form Abandonment|
+|Step 1| Introduction | 41.83% | 46.73% | 44.24% | 41.6%| 44.01% | n/a | 44.27% |GA 526 Overall Form Abandonment|
 |Step 7| Confirmation | - | - |  | | |  | |GA 526 Overall Form Abandonment|
 
 
