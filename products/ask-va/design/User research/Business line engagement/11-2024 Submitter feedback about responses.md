@@ -38,4 +38,6 @@ In these research studies, we used actual responses that have been sent to submi
 
 ## Takeaways
 
-
+1. Provide a next step. This could be a URL to read more information, advice about other avenues they can explore or someone else to contact.
+2. Use simple words and phrases and be concise. Short, conversational sentences without jargon or abbreviations are easier to read. This [plain language guidance](https://www.plainlanguage.gov/guidelines/words/) is helpful. 
+3. Remind people you're a human, too. Adding personality, empathy and specifics can help remind submitters that you're on their side and you're not a roboto. This is what makes Ask VA standout. 
