@@ -91,7 +91,7 @@ fetch("https:/api.va.gov/v0/user/mhv_user_account", {
 {
   "errors": [
     {
-      "message": "The server responded with status 400",
+      "title": "The server responded with status 400",
       "detail": "ICN provided is not the Primary ICN",
       "code": "802"
       "status": "422"
