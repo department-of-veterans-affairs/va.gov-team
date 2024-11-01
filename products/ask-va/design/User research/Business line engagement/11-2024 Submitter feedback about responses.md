@@ -41,7 +41,7 @@ In these research studies, we used actual responses that have been sent to submi
 These recommendations are meant to improve submitters' experiences with Ask VA. That being said, we're aware that many of you may already be doing these things when writing your responses.
 
 1. **Provide a next step.** This could be a URL to read more information, advice about other avenues they can explore or someone else to contact.
-2. **Use simple words and phrases and be concise. **Short, conversational sentences without jargon or abbreviations are easier to read. This [plain language guidance](https://www.plainlanguage.gov/guidelines/words/) is helpful. 
+2. **Use simple words and phrases and be concise.** Short, conversational sentences without jargon or abbreviations are easier to read. This [plain language guidance](https://www.plainlanguage.gov/guidelines/words/) is helpful. 
 3. **Remind submitters that you're human.** Being specific and empathetic reminds submitters that you're not a robot and you're on their side. This is what makes Ask VA standout. 
 
 ## Questions
