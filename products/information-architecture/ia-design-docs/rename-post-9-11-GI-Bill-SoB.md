@@ -1,5 +1,5 @@
-# IA Design for [Re-naming of Post-9/11 GI Bill Statment of Benefits tool]
-**STATUS: [In progress]**
+# IA Design for Re-naming of Post-9/11 GI Bill Statment of Benefits tool
+**STATUS: In progress**
 
 **Team:** EDM
 
