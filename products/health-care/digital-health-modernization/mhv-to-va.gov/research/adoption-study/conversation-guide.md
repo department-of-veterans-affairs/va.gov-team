@@ -127,11 +127,23 @@ _Once explored a bit_
 
 **Note:** Use the task participants said earlier in interview (what they typically do on MHV) 
 - Go ahead and show me how you [insert what task they typically do on MHV] 
+
 Additional prompts if needed: 
-- Go ahead and show me how you check your Messages from your doctor. 
-- Go ahead and show me how you would refill a medication that needs to be refilled.
-- Go ahead and show me how you would schedule an appointment with your doctor	using this website.
- 
+
+_Appointments_ 
+- Say you needed to look up driving directions for an upcoming appointment - Go ahead and show me how you would do that?
+- Let's say you needed to schedule a new appointment online, can you show me how you would schedule an appointment? 
+
+_Medciactions_ 
+- If you wanted to see what medications are available for refill? Can you show me How you would check to see if a medication is available to be refilled?
+- Say you wanted to look up the number of refills on a medication you are currently talking, how would you do that on this site we are looking at? 
+
+_Secure messaging_ 
+- Go ahead and show me how you check your Messages from your doctor.
+- Let's say you wanted to send a message to your doctor, how would you do that?
+- Do you know which messages are read/unread in your SM inbox?
+	- How do you know?
+        - Is that what you would expect? 
 
 _If attempts Medical records_
 
@@ -217,6 +229,14 @@ Say you're confused by a medical result and you want to ask your doctor about it
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger secure message section?/How would you get back to where you came from?
 
+Additional prompts: 
+
+- Go ahead and show me how you check your Messages from your doctor.
+- Let's say you wanted to send a message to your doctor, how would you do that?
+- Do you know which messages are read/unread in your SM inbox?
+	- How do you know?
+        - Is that what you would expect?
+          
 Thank you for showing me that. 
 
 #### Things to note 
@@ -235,7 +255,12 @@ Now, let’s say you needed a refill on a prescription that you are running low 
 - What are you looking for?
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger section of Medications?/How would you get back to where you came from?
-  
+
+Additional prompts: 
+
+- If you wanted to see what medications are available for refill? Can you show me How you would check to see if a medication is available to be refilled?
+- Say you wanted to look up the number of refills on a medication you are currently talking, how would you do that on this site we are looking at? 
+
 #### Things to note 
 
 - Are changes made to the national portal language or tools causing any confusion? 
@@ -250,7 +275,12 @@ Now let's imagine that you want to make a follow-up appointment with your doctor
 - I'm seeing you gravitate towards ______. Why are you going there first?
 - What are you looking for?
 - Why did you click those links? 
-- **Optional** How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
+- **Optional** How would you get back out to the larger/Appointments section?/How would you get back to where you came from?
+
+_Additional prompts_
+
+- Say you needed to look up driving directions for an upcoming appointment - Go ahead and show me how you would do that?
+- Let's say you needed to schedule a new appointment online, can you show me how you would schedule an appointment? 
 
 #### Things to note 
 
@@ -284,6 +314,12 @@ Now, let’s say you needed a refill on a prescription that you are running low 
 - What are you looking for?
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger section of Medications?/How would you get back to where you came from?
+
+Additional prompts: 
+
+- If you wanted to see what medications are available for refill? Can you show me How you would check to see if a medication is available to be refilled?
+- Say you wanted to look up the number of refills on a medication you are currently talking, how would you do that on this site we are looking at? 
+
   
 #### Things to note 
 
@@ -301,6 +337,14 @@ Say you're confused by a medical result and you want to ask your doctor about it
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger secure message section?/How would you get back to where you came from?
 
+Additional prompts: 
+
+- Go ahead and show me how you check your Messages from your doctor.
+- Let's say you wanted to send a message to your doctor, how would you do that?
+- Do you know which messages are read/unread in your SM inbox?
+	- How do you know?
+        - Is that what you would expect?
+          
 Thank you for showing me that. 
 
 #### Things to note 
@@ -320,6 +364,11 @@ Now let's imagine that you want to make a follow-up appointment with your doctor
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
 
+_Additional prompts_
+
+- Say you needed to look up driving directions for an upcoming appointment - Go ahead and show me how you would do that?
+- Let's say you needed to schedule a new appointment online, can you show me how you would schedule an appointment? 
+
 #### Things to note 
 
 - Are changes made to the national portal language or tools causing any confusion? 
@@ -335,6 +384,11 @@ Now let's imagine that you want to make a follow-up appointment with your doctor
 - Now where do you think you are?/How would you describe where you are to a friend? 
 - Why don't you take a few minutes to move around, and while you do so, please try to think out loud so that I can try to understand your thoughts. 
 - Does anything stand out from the previous page we were looking at?
+
+_Additional prompts_
+
+- Say you needed to look up driving directions for an upcoming appointment - Go ahead and show me how you would do that?
+- Let's say you needed to schedule a new appointment online, can you show me how you would schedule an appointment? 
 
 ### Things to note
 - Where do participants think they landed?/Do they understand where they’ve landed?
@@ -367,6 +421,11 @@ Now, let’s say you needed a refill on a prescription that you are running low 
 - What are you looking for?
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger section of Medications?/How would you get back to where you came from?
+
+Additional prompts: 
+
+- If you wanted to see what medications are available for refill? Can you show me How you would check to see if a medication is available to be refilled?
+- Say you wanted to look up the number of refills on a medication you are currently talking, how would you do that on this site we are looking at? 
   
 #### Things to note 
 
@@ -384,6 +443,14 @@ Say you're confused by a medical result and you want to ask your doctor about it
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger secure message section?/How would you get back to where you came from?
 
+Additional prompts: 
+
+- Go ahead and show me how you check your Messages from your doctor.
+- Let's say you wanted to send a message to your doctor, how would you do that?
+- Do you know which messages are read/unread in your SM inbox?
+	- How do you know?
+        - Is that what you would expect?
+          
 Thank you for showing me that. 
 
 #### Things to note 
