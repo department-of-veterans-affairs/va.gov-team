@@ -20,7 +20,7 @@ In these research studies, we used actual responses that have been sent to submi
 
 > "It doesn't seem like you're putting any care into this or trying to help a Veteran get the benefits that they deserve. You're just straight up, just like, no, not that."
 
-3. Veterans are likely to misunderstand the meaning of VA's response or have follow up questions. If anything is left to interpretation, they risk understanding it incorrectly or getting confused.
+3. Veterans are likely to misunderstand the meaning of VA's response or have follow up questions. If anything is left to interpretation, they risk not understanding or getting confused.
 
 > "So, when you read that whole thing, it's mumble jumbled like, okay, [I still have questions.]"
 
