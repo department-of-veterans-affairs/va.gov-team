@@ -20,8 +20,6 @@ In these research studies, we used actual responses that have been sent to submi
 
 3. Veterans are likely to misunderstand the meaning of VA's response or have follow up questions. If anything is left to interpretation, they risk understanding it incorrectly or getting confused.
 
-> "I'm looking for a reply with a definitive answer."
-
 > "So, when you read that whole thing, it's mumble jumbled like, okay, [I still have questions.]"
 
 > "Yeah, that is very confusing, [it's] like [one] run on sentence [...] It's a very confusing answer. So, I'm trying to decipher what they're saying."
