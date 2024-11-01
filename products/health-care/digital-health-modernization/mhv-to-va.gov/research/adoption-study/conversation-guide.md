@@ -494,24 +494,29 @@ Thank you for showing me that.
 	- Or _if you wanted to describe to a friend, who is also a Veteran, how to get to this site we just looked it, how would you do that?_
 - How else would you expect or want to be able to get back to this site?   
 
+On a scale of 1-5, 1 = not confident and 5 = confident, how confident are you that you would be able to find this site again on your own in the future?
+        - Why that rating? 
+	
 - Okay, You can stop sharing your screen now if you'd like to.
- 
+  
 - On a scale of 1-5, 1 = not confident and 5 = confident, How confident do you feel about being able to manage your healthcare on the "new" site?
  	- Why that rating?
 
-- On a scale of 1-5, 1 = difficult and 5 = easy, how would you rate the difficulty of using the site we just explored together?
-        - Why that rating?
 
-- On a scale of 1-5, 1 = needing more information and 5 = Having all the information, I would like more information on the website to help me start using the new site
+ On a scale of 1-5, 1 = not confident and 5 = confident, how confident you are that you have all the  information needed to help me start using the new site.
 	- Why that rating?
         - Is there anything that would excite you and potentially get you to use the new site? 
 
-- Now that you've seen both of these approaches to managing your healthcare - what are your thoughts about them?
-	- Was there anything that you excited you about the new site 
+- On a scale of 1-5, 1 = difficult and 5 = easy, how would you rate the difficulty of using the site we just explored together?
+        - Why that rating?
+  	- Now that you've seen both of these approaches to managing your healthcare - what are your thoughts about them?
+  
+- On a scale of 1-5, 1 = not likely and 5 = likely, How likely are you to use the "new" site instead of the old site?
+        - Why that rating?
 
-- Anything I didn't ask you about that you want to share about your experience? 
+- If you were going to describe to a friend what features the new site is offering, what would you say?
 
-- Do you have any questions for me? 
+- Anything I didn't ask you about that you want to share about your experience? Do you have any other questions for me? 
 
 ## Thank You and Closing - 1 minute
 
