@@ -46,7 +46,7 @@ fetch("https:/api.va.gov/v0/user/mhv_user_account", {
 | `premium`         | `boolean` | User is premium                                            |
 | `champ_va`        | `boolean` | User is champ_va                                          |
 | `patient`         | `boolean` | User is a patient                                          |
-| `message`         | `string`  | Timestamp for the last update to the user account details. |
+| `message`         | `string`  | Message indicating the current state of MHV account and/or if any changes were made |
 
 
 ## Error Responses
