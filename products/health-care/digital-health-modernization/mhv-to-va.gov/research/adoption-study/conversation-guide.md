@@ -208,7 +208,7 @@ Okay, now go ahead and select that link.
 ### Arrive on VA.gov (5 mins) 
 
 - Okay, thank you. 
-- Now where do you think you are?/How would you describe where you are to a friend? 
+- Now where do you think you have arrived? How would you describe where you landed to a friend? 
 - Why don't you take a few minutes to move around, and while you do so, please try to think out loud so that I can try to understand your thoughts. 
 - Does anything stand out from the previous page we were looking at?
 
