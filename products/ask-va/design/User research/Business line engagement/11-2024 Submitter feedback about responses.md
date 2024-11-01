@@ -4,7 +4,9 @@ Last updated by @tygindraux on November 1, 2024
 
 ## Background
 
-We regularly do user research with submitters to understand their experiences using Ask VA. Although it has not been the goal of any of our research studies, we've received feedback about what submitters expect from VA responses that they receive through Ask VA. The purpose of this document is to share this with people who respond to submitters through Ask VA.
+We regularly do user research with submitters to understand their experiences using Ask VA. While it hasn't been the focus of our research thus far, we have received feedback about what submitters expect from VA's responses through Ask VA.
+
+In these research studies, we used actual responses that have been sent to submitters through Ask VA in the past. The responses were anonymized and any minor changes we made maintained the integrity of the original response.
 
 ## Feedback
 
