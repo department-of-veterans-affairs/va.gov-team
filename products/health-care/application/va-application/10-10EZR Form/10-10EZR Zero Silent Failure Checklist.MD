@@ -25,7 +25,7 @@ If not, implement tagging standards. Adding the dependency tag is highly recomme
 
 If not, start directing errors in Datadog to a dedicated Slack channel. See #veteran-facing-forms-notifications for an example.
 
-- Does more than one person look at the Slack notifications channel containing errors on a daily basis? **The whole team, particularly developers, PM, DM, and Data Analyst**
+- Does more than one person look at the Slack notifications channel containing errors on a daily basis? **The whole team, particularly developers, PM, DM, and Data Analyst--[Error and Outage Procedures Doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Error%20and%20Outage%20Procedures%20for%201010%20Team.md)**
 
 If not, then follow this guide on managing errors 
 
@@ -54,7 +54,7 @@ If not, then create a user data flow diagram that captures this information.
 
 If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
 
-- Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody? Got this in email–**Yes in our repository for ZSF** 
+- Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody? Got this in email–**Yes [Here](https://)** 
 
 If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
 Please document the outcome of this conversation in your product's documentation in Github.
