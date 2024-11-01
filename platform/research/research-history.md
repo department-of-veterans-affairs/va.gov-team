@@ -705,6 +705,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 #### November 18 - 27: VAOS UAT Phase I (View Only)
 *VA: Lauren Alexanderson*
 - 25 participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/2019-11-uat-phase-1-view-appts)
 
 #### November 18 - 26: Benefits Rated Disabilities / View Dependents Usability Testing
 *GovCIO: James Adams*
