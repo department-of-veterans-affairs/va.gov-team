@@ -153,7 +153,7 @@ Before launch, we reviewed Medallia survey data **from July 1-August 9** to help
 All Medalia survey data is reported as a % of 4+5 answers.
 ### Success Metrics
 |**Data point**|**Baseline (1/1-6/30/24)**|**Pre-Launch**| **1.0 25% (8/28-9/20)** |**1.0 100% (10/21-27)** | **1.1 75%**|
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|
 |**Total Intercept Responses**| **282** |**86** |**22**|**17**|
 |CSAT-Intercept| 36.2%|41.9% | 68% |33%|
 |Trust Overall|41% |52% |61%|29%|
@@ -162,20 +162,11 @@ All Medalia survey data is reported as a % of 4+5 answers.
 |Task completion| 23% | 44.5% |36%| 42%|
 
 
-### Toxic Exposure feature
-|**Data point**|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
-|--|--|--|--|--|
-|**CSAT-Intercept**| N/A | | | |
-|**Feedback satisfaction**|N/A||
-|**Task completion**|N/A | | | |
-|**Trust Overall**|N/A | | | |
-
-
 ### Thematic Tags 
 I coded all qualitative user feedback--see Appendix for full list of codes/themes and definitions. 
 
-|Rank|Pre-launch (6 weeks)|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
-|--|--|--|--|--|--|
+|Rank|Pre-launch (6 weeks)|**1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 75%**|
+|--|--|--|--|--|
 |Total responses| 462| 207|
 |1|Usability (n=33)|Submission Issues (9)|--|||
 |2|Navigation (n=33)|Evidence Upload (7) |
