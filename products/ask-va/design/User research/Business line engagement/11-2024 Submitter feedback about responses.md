@@ -36,8 +36,12 @@ In these research studies, we used actual responses that have been sent to submi
 
 > "There's no personality to it. [...] It's zero compassion or empathy. It's cut and dry with the VA."
 
-## Takeaways
+## Recommendations
 
 1. Provide a next step. This could be a URL to read more information, advice about other avenues they can explore or someone else to contact.
 2. Use simple words and phrases and be concise. Short, conversational sentences without jargon or abbreviations are easier to read. This [plain language guidance](https://www.plainlanguage.gov/guidelines/words/) is helpful. 
 3. Remind people you're a human, too. Being specific and empathetic reminds submitters that you're not a robot and you're on their side. This is what makes Ask VA standout. 
+
+## Questions
+
+If you have questions about the feedback or recommendations in this document, please contact Tyler Gindraux (tyler.gindraux@va.gov) and Becky Phung (becky.phung@va.gov). Thanks!
