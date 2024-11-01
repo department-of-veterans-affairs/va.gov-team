@@ -38,7 +38,7 @@ If we are able to successfully connect a user to a record in MPI, we get back a 
 
 We can only connect a user to a Veteran Record in MPI if we are confident that they are who they say they are. Each identity provider has its own identity verification system used to assure [VA.gov](http://va.gov/) that the user's identity is trustworthy.
 
-A user may sign in with an LOA1 account, and have the option to upgrade their account to LOA3 on [VA.gov](http://va.gov/) through [ID.me](http://id.me/)'s identity verification process, [even if they logged in with a DS Logon or MHV account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/idme/idv-flow-updated-20170821.pdf).
+A user may sign in with an LOA1 account, and have the option to upgrade their account to LOA3 on [VA.gov](http://va.gov/) through [ID.me](http://id.me/)'s identity verification process, [even if they logged in with a DS Logon or MHV account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/idme/idv-flow-updated-20170821.pdf).
 
 Each identity provider has various account levels, which are mapped to [VA.gov](http://va.gov/)'s concept of LOA as shown below:
 
