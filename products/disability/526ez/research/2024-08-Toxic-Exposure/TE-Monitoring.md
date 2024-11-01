@@ -82,9 +82,7 @@ We still see the in progress form as a potential hotspot for problems with veter
 >
 </details>
 
-<details>
-  <summary>Click to expand UX Insights for 1.0 100% [Future reporting]
-  </summary>
+## UX Insights for 1.0 100% 
 
 ### #1. Even at 100%, we are receiving minimal direct feedback about the toxic exposure questions from the Medallia surveys. 
 - In the first week at 100%, (10/21-27), only 4 out of 90 responses originated from Toxic Exposure urls (Herbicide and Additional Exposure pages). 
