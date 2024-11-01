@@ -239,6 +239,10 @@ Additional prompts:
           
 Thank you for showing me that. 
 
+- Does anything stand out from the previous page we were looking at?
+- Any changes that you notice while using this site? 
+
+
 #### Things to note 
 
 - Are changes made to the national portal language or tools causing any confusion? 
@@ -261,6 +265,9 @@ Additional prompts:
 - If you wanted to see what medications are available for refill? Can you show me How you would check to see if a medication is available to be refilled?
 - Say you wanted to look up the number of refills on a medication you are currently talking, how would you do that on this site we are looking at? 
 
+- Does anything stand out from the previous page we were looking at?
+- Any changes that you notice while using this site? 
+
 #### Things to note 
 
 - Are changes made to the national portal language or tools causing any confusion? 
@@ -281,6 +288,9 @@ _Additional prompts_
 
 - Say you needed to look up driving directions for an upcoming appointment - Go ahead and show me how you would do that?
 - Let's say you needed to schedule a new appointment online, can you show me how you would schedule an appointment? 
+
+- Does anything stand out from the previous page we were looking at?
+- Any changes that you notice while using this site? 
 
 #### Things to note 
 
@@ -320,7 +330,9 @@ Additional prompts:
 - If you wanted to see what medications are available for refill? Can you show me How you would check to see if a medication is available to be refilled?
 - Say you wanted to look up the number of refills on a medication you are currently talking, how would you do that on this site we are looking at? 
 
-  
+- Does anything stand out from the previous page we were looking at?
+- Any changes that you notice while using this site? 
+
 #### Things to note 
 
 - Are changes made to the national portal language or tools causing any confusion? 
@@ -347,6 +359,9 @@ Additional prompts:
           
 Thank you for showing me that. 
 
+- Does anything stand out from the previous page we were looking at?
+- Any changes that you notice while using this site? 
+
 #### Things to note 
 
 - Are changes made to the national portal language or tools causing any confusion? 
@@ -368,6 +383,9 @@ _Additional prompts_
 
 - Say you needed to look up driving directions for an upcoming appointment - Go ahead and show me how you would do that?
 - Let's say you needed to schedule a new appointment online, can you show me how you would schedule an appointment? 
+
+- Does anything stand out from the previous page we were looking at?
+- Any changes that you notice while using this site? 
 
 #### Things to note 
 
@@ -405,6 +423,9 @@ Now let's imagine that you want to make a follow-up appointment with your doctor
 - Why did you click those links? 
 - **Optional** How would you get back out to the larger/Appintments section?/How would you get back to where you came from?
 
+- Does anything stand out from the previous page we were looking at?
+- Any changes that you notice while using this site? 
+
 #### Things to note 
 
 - Are changes made to the national portal language or tools causing any confusion? 
@@ -426,7 +447,10 @@ Additional prompts:
 
 - If you wanted to see what medications are available for refill? Can you show me How you would check to see if a medication is available to be refilled?
 - Say you wanted to look up the number of refills on a medication you are currently talking, how would you do that on this site we are looking at? 
-  
+
+- Does anything stand out from the previous page we were looking at?
+- Any changes that you notice while using this site? 
+
 #### Things to note 
 
 - Are changes made to the national portal language or tools causing any confusion? 
@@ -453,6 +477,9 @@ Additional prompts:
           
 Thank you for showing me that. 
 
+- Does anything stand out from the previous page we were looking at?
+- Any changes that you notice while using this site? 
+
 #### Things to note 
 
 - Are changes made to the national portal language or tools causing any confusion? 
@@ -464,22 +491,29 @@ Thank you for showing me that.
 - Thank you for going through those tasks and all your insight. I just have a few final questions to ask you.
 - Now that we looked at this "new" site together, if you wanted to come back to it, how would you do that? 
 	- Or _if you wanted to describe to a friend, who is also a Veteran, how to get to this site we just looked it, how would you do that?_
-	 
+- How else would you expect or want to be able to get back to this site? 	 
+
 - Okay, You can stop sharing your screen now if you'd like to.
 
-- 
+- On a scale of 1-5, 1 = not confident and 5 = confident, How confident are you that you would be able to find this site again on your own in the future?
+	 - Why that rating?
+ 
+- On a scale of 1-5, 1 = not confident and 5 = confident, How confident do you feel about being able to manage your healthcare on the "new" site?
+ 	- Why that rating?
 
-On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of finding what you were looking for in that site we just explored together?
-    - Why that rating? 
+- On a scale of 1-5, 1 = difficult and 5 = easy, how would you rate the difficulty of using the site we just explored together?
+        - Why that rating?
 
-On a scale of 1-5, 1 = easy and 5 = difficult, how would you rate the difficulty of using the site we just explored together?
-    - Why that rating? 
-
+- Do you feel 
 
 - Now that you've seen both of these approaches to managing your healthcare - what are your thoughts about them?
-- Did you find one version easier than another to use? Why? What about it?
+	- Was there anything that you excited you about the new site 
+ - I would like more information on the website/support to help me start using the new site
+
+- 
 - If you were talking to a friend that is also a Veteran who wanted to use these tools, how would you describe the relationship between this site and the VA.gov?
 - Anything I didn't ask you about that you want to share about your experience? 
+
 - Do you have any questions for me? 
 
 ## Thank You and Closing - 1 minute
