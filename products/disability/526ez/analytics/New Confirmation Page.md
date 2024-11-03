@@ -3,15 +3,18 @@
 ## Introduction
 This document outlines the analytics strategy for the New Confirmation Page feature, which we believe will improve Veteran experience by setting truthful expectations for submission timelines and increasing Veteran confidence in VA's efforts to submit their claim. By monitoring both quantitative and qualitative metrics, we'll gain insight into the feature's performance and its impact on Veterans. This document provides an overview of the success criteria, the metrics we will track, and the targets and expectations we have set for each metric.
 
-## Feature Overview
+### Feature Overview
 Once a Veteran hits “submit,” the messaging they receive does not reflect the true submission status, setting false expectations for Veterans on the timeline for their claims processing, and leading to a lack of confidence.
 
 Further details can be found in the [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md).
 
-## Success Criteria
+### Feature Success Criteria
 * Ensure expectations of the submission timeline are set truthfully for the Veteran
 * Ensure that Veterans feel confident the VA is trying to submit their claim
 * Ensure the language we use is straightforward so that Veterans feel understanding submission status is trivial
+
+### KPIs
+OCTO 2024 Key Result: CSAT for our web products have increse by 5 points.
 
 ## 3.0 Metrics
 ### 3.1 Quantitative Metrics
@@ -47,8 +50,10 @@ We’ll use a few collection methods to monitor the success of New Confirmation 
 
 ### 4.1 Data Sources
 
-* Leverage EP400 metrics or 526 Datadog monitoring to track the count of duplicate submissions (not CFI)
+* Leverage existing EP400 metrics (not CFI)
+* 526 Datadog monitoring to track the count of duplicate submissions (not CFI)
 * Google analytics events for
+  * disability-526EZ--submission-successful
   * disability-526EZ--submission-failed
   * disability-526EZ--submission-failed-client
   * disability-526EZ--submission-taking-too-long
@@ -71,10 +76,14 @@ Weeks 3-8:
 - Weekly check-ins will keep us consistent in making informed decisions based on the insights we gather
 
 Month 3 and beyond:
-- We'll transition to monthly monitoring, on the first Friday of each month
+- We'll transition to monthly monitoring, on the first Friday of each month. This is a more appropriate cadence for qualitative metrics.
 - As the New Confirmation Page stabilizes, monthly check-ins will be sufficient to track long-term trends and identify areas for continuous improvement
 
 We'll adjust this schedule as needed based on our findings and any trends or issues that arise. The goal is to be strategic about resource allocation while ensuring we maintain a clear understanding of the New Confirmation Page's performance over time.
+
+## 5.0 FAQ
+### How many failed submission are there per month on average?
+There are 489 failed submissions per month on average, according to Google Analytics. 
 
 ## 5.0 Open Questions
 * Will the same GA events continue to fire after changed to the Confirmation banner?
@@ -82,5 +91,3 @@ We'll adjust this schedule as needed based on our findings and any trends or iss
 * Do we have Datadog metrics for duplicate submissions?
 * Leveraging recent improvements to accessing Contact Center data, how might we get data on calls related to submission status?
 * How will we collect data on Veteran confidence? Is Medallia the right tool for this?
-
-
