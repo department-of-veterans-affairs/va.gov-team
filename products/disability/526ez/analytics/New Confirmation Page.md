@@ -6,6 +6,8 @@ This document outlines the analytics strategy for the New Confirmation Page feat
 ## Feature Overview
 Once a Veteran hits “submit,” the messaging they receive does not reflect the true submission status, setting false expectations for Veterans on the timeline for their claims processing, and leading to a lack of confidence.
 
+Further details can be found in the [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md).
+
 ## Success Criteria
 * Ensure expectations of the submission timeline are set truthfully for the Veteran
 * Ensure that Veterans feel confident the VA is trying to submit their claim
