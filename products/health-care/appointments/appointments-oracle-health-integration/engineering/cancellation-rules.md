@@ -56,7 +56,14 @@ A booked OH Appointment is cancellable by the patient, unless:
 
 ## VistA
 
-TODO
+A VAOS booked appointment is cancellable by the patient, unless:
+[Retrieve the appointment object from MAS at GET /appointments/v1/patients/{icn}.appointments/{id}]
+1. The MAS appointment has a location that is Cerner site
+2. The `appointment.isCancellable` value is set to `false`
+3. The `appointment.status` value is `PROPOSED`
+4. More than one VSP and one VVS source appointment are associated with the MAS appointment
+
+If one or more of these conditions are false, an HTTP 400 error will be returned with an appropriate message indicating the problem
 
 ## Accessing OH Scheduling Policies (CTPS)
 
