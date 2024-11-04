@@ -7,7 +7,7 @@
 This document references pages by number as defined in [this layout](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=9250-79571&node-type=section&t=coFOPPvO8yrT5Pcq-0)
 
 ### Strategy
-Esentially we roll through this from top to bottom. If that's 3 devs, then we simply pick up the next chunk. We can deploy these to staging without them being fully click-through accessible, as lont as the routes are set in stone. That makes it all pretty plug and play.
+Esentially we roll through this from top to bottom, adding functionality. If that's 3 devs, then we simply pick up the next chunk. When we hit the bottom we go back and roll through adding content. As long as the routes are set in stone, this should all be pretty plug and play
 
 This is just to get things functional. It does not take into account writting tests, accessibility testing, any advanced styling, rollout, etc.
 
