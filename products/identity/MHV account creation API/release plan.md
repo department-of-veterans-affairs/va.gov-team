@@ -1,4 +1,5 @@
-# Rollout Plan & Timeline for Guardian Access API
+# Rollout Plan & Timeline for Account Creation API
+*This is for backend changes ONLY.
 
 ### Pre-Launch Preparation (Turn on flipper = 50% on staging)
 **Objective:** Finalize all preparations and ensure readiness for a phased rollout.
