@@ -89,8 +89,6 @@ body:
     description: Review the [Assistive Technology Pilot Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) to learn about piloting with CAIA.
     options:
       - label: Yes, we are interested in doing a pilot
-  validations:
-    required: true
     
 
     
