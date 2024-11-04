@@ -92,7 +92,8 @@ We still see the in progress form as a potential hotspot for problems with veter
 - In the first week at 100% (10/21-27), **none** of 325 MyVA411 calls logged with a "Disability Claim Application" case type focused on issues with the new feature. 10 calls were tagged as the PACT Act, but all were general requests for where to file and how to upload documents.
 
 ### #3. We suspect that this silence in the Medallia and MyVA411 data demonstrates that Veterans are not experiencing major blockers in the toxic exposure flow. 
-- Veterans typically leave Medallia feedback or call MyVA411 when they are dealing with large blockers that prevent them from completing the form (examples include document uploads or BIRLS ID error). We also know from GA4 that very few Veterans are leaving toxic exposure mid-flow after opting in, further supporting our hypothesis that Veterans are not getting stuck and requiring help mid flow. 
+- Veterans typically leave Medallia feedback or call MyVA411 when they are dealing with large blockers that prevent them from completing the form (examples include document uploads or BIRLS ID error).
+- We also know from GA4 that very few Veterans are leaving toxic exposure mid-flow after opting in, further supporting our hypothesis that Veterans are not getting stuck and requiring help mid flow. 
 
 ### #4.  We expect to learn more about the user experience and non-blocking issues with the flow in upcoming usability testing. 
 - Based on toxic exposure usability testing in 2023, we presume that Veterans are facing non-blocking challenges to the feature.  We have started to plan for our upcoming Veteran research to evaluate the new feature, which we will run in early December.
