@@ -54,7 +54,12 @@ All pages have ratings of 2 or below.
    
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1.    
+1. [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov/) (21% good out of 1,617 total responses)
+2. [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) (25% good out of 1,047 total responses)
+3. [My HealtheVet on VA.gov: What to know](https://www.va.gov/resources/my-healthevet-on-vagov-what-to-know/) (39% good out of 972 total responses)
+4. [Privacy and security on VA.gov](https://www.va.gov/resources/privacy-and-security-on-vagov/) (53% good out of 313 total responses)
+5. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/) (25% good out of 302 total responses)
+   
 ## Analysis
 [Resources and support ratings spreadsheet]
 - This month R&S didn't meet our goal of 75% or higher "good" ratings, with a XX% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process but we will continue to monitor it.
