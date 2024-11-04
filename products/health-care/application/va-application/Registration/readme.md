@@ -74,19 +74,19 @@ There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Ex
      - [GA4 Authenticated](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/Xpk8PijJQpCkXPUsBezQbQ) and [GA4 Unauthenticated ](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/rsa8M9z3TwiggRM6G6fCRw)
      - [Datadog](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=true&refresh_mode=paused&from_ts=1727928000000&to_ts=1730260740000&live=false)
 
-|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
+|Timeblock|# of application starts|# of selection page views|# of accordion clicks|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
 |---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|
-| Historical Weekly Avg | 4,500 | 2,750 |N/A | 62 | 50 |12 | 2 |2%|19%|
-| 3-month Weekly Avg | 2,968 | 58 | 142 | 47 |5 | 34 | 0 |33%|72%|
+| Historical Weekly Avg | 4,500 | 2,750 |62 | N/A | 50 |12 | 2 |2%|19%|
+| 3-month Weekly Avg | 2,968 | 142 | 58 | 47 |5 | 34 | 0 |33%|72%|
 
 ### Monthly Totals and Average user activity
-|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
+|Timeblock|# of application starts|# of selection page views|# of accordion clicks|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
 |---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|
 |Target Monthly Average | 18,000 | 850 |N/A |250 | 200 |50 | 10 |29% | 20% |
-|Month 1| 11,872 | 234 | 567 | 188 |20 | 135 | 0 |33%|72%|
+|Month 1| 11,872 | 567 | 234 | 188 |20 | 135 | 0 |33%|72%|
 |Month 2| x | x | x | x |x | x | x |x | x |
 |Month 3| x | x | x | x |x | x | x |x | x |
-|Experiment Monthly Average |3,957 | 78 | 189 | 63 |7 | 45 | 0 |33% | 72% |
+|Experiment Monthly Average |3,957 | 189 | 78 | 63 |7 | 45 | 0 |33% | 72% |
 |3-month Total | x | x | x | x |x | x | x |x | x |
 
 ### Monthly totals of users who selected Registration, went back to the question, selected Enroll and moved forward through the form
