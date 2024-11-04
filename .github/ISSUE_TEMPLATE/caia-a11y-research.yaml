@@ -81,6 +81,18 @@ body:
     label: When is the timeframe for your testing?
   validations:
     required: true
+
+- type: checkboxes
+  id: pilot
+  attributes:
+    label: Are you interested in doing a pilot of your study with a CAIA accessibility specialist before the study begins?
+    description: Review the [Assistive Technology Pilot Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) to learn about piloting with CAIA.
+    options:
+      - label: Yes, we are interested in doing a pilot
+  validations:
+    required: true
+    
+
     
 - type: textarea
   id: artifacts
