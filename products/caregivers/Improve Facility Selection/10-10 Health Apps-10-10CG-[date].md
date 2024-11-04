@@ -22,6 +22,10 @@ Some of the items below may not apply to your work--that's okay. You may not be 
   - Identify any new design system components needed or changes to current components
     - None
   - Describe any product analytics being gathered
+    - Total applications being rerouted (source: stakeholder provided)
+    - Total Applications being submitted (source: [Datadog](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true))
+    - Facility Selection page - avg engagement time (source: [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA))
+    - New Facility Confirmation page - avg engagement time (source: [Google Analytics)](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
 - Backend changes
   - Does the project introduce any new or unusual infrastructure dependencies?
     - No
