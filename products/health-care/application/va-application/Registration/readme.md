@@ -82,7 +82,7 @@ There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Ex
 ### Monthly Totals and Average user activity
 |Timeblock|# of application starts|# of selection page views|# of accordion clicks|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
 |---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|
-|Target Monthly Average | 18,000 | 850 |N/A |250 | 200 |50 | 10 |29% | 20% |
+|Target Monthly Average | 18,000 | 11,000 |N/A |250 | 200 |50 | 10 |29% | 20% |
 |Month 1| 11,872 | 567 | 234 | 188 |20 | 135 | 0 |33%|72%|
 |Month 2| x | x | x | x |x | x | x |x | x |
 |Month 3| x | x | x | x |x | x | x |x | x |
