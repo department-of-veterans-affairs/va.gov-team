@@ -1,5 +1,14 @@
 # Running Design and Research Agenda
 
+## November 04 2024
+- Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
+	- Agenda Topics
+ 		- 1010 signer flow one more time together
+     		- Review of the Stakeholder/Monday sync readouts
+       		- Thoughts on the Research Roadmap Review (time permitting)
+
+         - ### Notes
+
 ## October 28 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
 	- Agenda Topics
