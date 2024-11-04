@@ -10,23 +10,24 @@
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
-    - **Sprint Goal is to ...**    
-     - FE STEP 2 - Appointments Page
-         - 🟩[Create the referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95266)
-     - FE STEP 3 - Referral For Page
-         - 🟩 [Hook up to the mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95269)
-         - 🟩 [Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95270)
-     - FE STEP 4 - Schedule an Appointment with your Provider Page
-         - 🟩 [Hook up to mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95271)
-         - 🟩 [Fix a few page details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95272)
-         - 🟩 [Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95274)
-     - FE STEP 5 - Review Your Appointment Details Page
-         - 🟩 [Create Review your appointment details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95281)
-     - BE STEP 1 - Implement EPSAppointments
-         - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96003)
-         - 🟦 [Implement token method in EPSService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96410)
-         - 🟦 [Implement get_appointments method in EPSAppointmentService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96411)
-         - 🟦 [Implement merge_eps_appointments method in AppointmentsService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96412)
+    - **Sprint Goal is to ...**
+    - 🟥 [Create Userflow for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96417)
+    - FE STEP 2 - Appointments Page
+        - 🟩[Create the referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95266)
+    - FE STEP 3 - Referral For Page
+        - 🟩 [Hook up to the mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95269)
+        - 🟩 [Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95270)
+    - FE STEP 4 - Schedule an Appointment with your Provider Page
+        - 🟩 [Hook up to mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95271)
+        - 🟩 [Fix a few page details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95272)
+        - 🟩 [Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95274)
+    - FE STEP 5 - Review Your Appointment Details Page
+        - 🟩 [Create Review your appointment details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95281)
+    - BE STEP 1 - Implement EPSAppointments
+        - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96003)
+        - 🟦 [Implement token method in EPSService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96410)
+        - 🟦 [Implement get_appointments method in EPSAppointmentService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96411)
+        - 🟦 [Implement merge_eps_appointments method in AppointmentsService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96412)
 - **Travel Claims for Past Appts**
     - **Sprint goal is to finish this by the end of the year**
     - 🟪 [Update Appointment Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94372)
