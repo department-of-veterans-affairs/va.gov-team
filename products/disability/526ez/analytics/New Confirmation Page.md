@@ -1,4 +1,4 @@
-# Confirmation Page Metrics
+# New Confirmation Page Metrics
 
 ## Introduction
 This document outlines the analytics strategy for the New Confirmation Page feature, which we believe will improve Veteran experience by setting truthful expectations for submission timelines and increasing Veteran confidence in VA's efforts to submit their claim. By monitoring both quantitative and qualitative metrics, we'll gain insight into the feature's performance and its impact on Veterans. This document provides an overview of the success criteria, the metrics we will track, and the targets and expectations we have set for each metric.
