@@ -88,10 +88,15 @@ We still see the in progress form as a potential hotspot for problems with veter
 - In the first week at 100%, (10/21-27), only 4 out of 90 responses originated from Toxic Exposure urls (Herbicide and Additional Exposure pages). 
 - Veterans left low to neutral satisfaction ratings on the pages, but we do not have open test responses to explain the numbers. We are meeting with the Contact Center next week to ensure that we are not missing data from the time period.
 
-### #2. We read this silence in the data as good news when paired with the low abandonment rate, but expect to learn more about the user experience in upcoming usability testing. 
+### #2. The MyVA411 data from the same period did not report any problems with the toxic exposure questions.
+- None of the MyVA411 calls logged under the case type of "Disability Claim Application" included keywords "toxic exposure." 10 calls were tagged as the PACT Act, but all were general requests for where to file and how to upload documents. 
+
+When paired with the low abandonment, we read this silence in the Medallia and MyVA411 data as good news.
 - On Monday, 11/4, we briefly review recent MyVA411 data from the 100% release period to validate what we are seeing in the Medallia data. Based on our monitoring to date, we do not expect to surface much insight from the Contact Center data.
 - We have started to plan for our upcoming usability testing, which we will run in early December. 
-    
+
+### #3.  We expect to learn more about the user experience and non-blocking issues with the flow in upcoming usability testing. 
+- 
 </details>
 
 ## 526ez Success Metrics
