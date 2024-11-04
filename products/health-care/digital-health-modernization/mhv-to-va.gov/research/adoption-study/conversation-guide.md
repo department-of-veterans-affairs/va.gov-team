@@ -533,6 +533,8 @@ On a scale of 1-5, 1 = not confident and 5 = confident, how confident are you th
 - If you were going to describe to a friend what features the new site is offering, what would you say?
 	- What features are important to you? If any 
 
+- Why he would choose/recommend to another person MHV Classic vs. VA.gov versions or vise versa?
+  
 - Anything I didn't ask you about that you want to share about your experience? Do you have any other questions for me? 
 
 ## Thank You and Closing - 1 minute
