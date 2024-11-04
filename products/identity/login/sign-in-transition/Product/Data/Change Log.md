@@ -3,8 +3,8 @@ A change log to document data and reporting changes, such as: query updates, rep
 
 ## Change Log
 
-| Date of Change | Description of Change          | Reason for Change                      | Author of Change |
-|----------------|--------------------------------|----------------------------------------|------------------|
-| YYYY-MM-DD     | Brief description of the change| Explanation for the modification       | Author's Name    |
-| YYYY-MM-DD     | Brief description of the change| Explanation for the modification       | Author's Name    |
-| YYYY-MM-DD     | Brief description of the change| Explanation for the modification       | Author's Name    |
+| #  | Date of Change | Description of Change       | Reason for Change                      | Author of Change |
+|----|----------------|-----------------------------|----------------------------------------|------------------|
+| 1  | YYYY-MM-DD     | Brief description of change | Explanation for the modification       | Author's Name    |
+| 2  | YYYY-MM-DD     | Brief description of change | Explanation for the modification       | Author's Name    |
+| 3  | YYYY-MM-DD     | Brief description of change | Explanation for the modification       | Author's Name    |
