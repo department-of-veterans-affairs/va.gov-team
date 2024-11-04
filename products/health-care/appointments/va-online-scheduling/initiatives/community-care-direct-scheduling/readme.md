@@ -100,6 +100,15 @@ Extrapolated from [CC VDSS SoPs](https://dvagov-my.sharepoint.com/:w:/g/personal
 
 **NOTE: there are 2 use cases, one where the Veteran clicks on the SMS/Email link and the other where they go directly to VA.gov and start from there**
 
+- % of Veterans who successfully scheduled a community care appointment who (1) have a digitial self-schedule preferance and (2) started scheduling an appointment
+  - via SMS push
+  - via VA.gov directly
+- Time to schedule a community care appointment, once started
+  - via SMS push
+  - via VA.gov directly
+
+### Metrics to Capture
+
 | Use Case | Metric | Description | Capture Method | Responsible |
 |----- |----- | ------- | ----- | ----- | 
 | SMS | Number who started the process | User clicked the link sent them via SMS/email | DataDog StatsD | UAE |
