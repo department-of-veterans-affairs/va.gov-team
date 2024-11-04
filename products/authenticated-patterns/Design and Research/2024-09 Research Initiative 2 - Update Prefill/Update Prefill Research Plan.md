@@ -113,7 +113,7 @@ We will hold the research sessions remotely on Zoom.
 
 ### Research materials
 
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Prefill%20Research%20Study%20Convo%20Guide.md)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Design%20and%20Research/2024-09%20Research%20Initiative%202%20-%20Update%20Prefill/Update%20Prefill%20Research%20Conversation%20Guide.md)
 * [Prototype](x)
 * [Designs](https://www.figma.com/design/1z3bAkQl4uR1IvAxmtyqZi/AE-Design-Patterns---Update-Prefill?node-id=3387-40809&t=jtwiX2vPAhxYW6U0-1)
 
@@ -199,7 +199,7 @@ We will recruit 7 Veterans to complete a **minimum** of 5 sessions. Half of them
 
 We will recruit 3 Veterans who use screen readers to complete a **minimum** of 2 sessions. They should be daily users of screen readers.
 
-We'd like to recruit people who use a mix of different screen readers, such as,[ NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenreaders).
+We'd like to recruit people who use a mix of different screen readers, such as [NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenreaders).
 
 <table>
   <tr>
@@ -273,7 +273,7 @@ We'd like to recruit people who use a mix of different screen readers, such as,[
 
 We will recruit 2 Veterans who use screen magnification to complete a **minimum** of 1 session. They should state that they always use screen magnification on VA.gov.
 
-We'd like to recruit people who use a mix of different screen magnification software, such as,[ ZoomText, ZoomText Fusion, Magnifier (Windows) and Zoom (Apple)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenmagnification).
+We'd like to recruit people who use a mix of different screen magnification software, such as [ZoomText, ZoomText Fusion, Magnifier (Windows) and Zoom (Apple)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenmagnification).
 
 <table>
   <tr>
