@@ -19,7 +19,6 @@ This is just to get things functional. It does not take into account writting te
 
 ## Pre-form routing: 1 sprint
 - where the entry point is the first page a vet would see if the flipper was on (2.1)
-- as a QA person i should be able to reach the following placeholder pages via click test
   - 2.1 (screener page)
     - checkboxes to select. combinations and resulting routing defined in above layout doc
       - PTSD
