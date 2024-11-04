@@ -78,16 +78,22 @@ There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Ex
 | 3-month Weekly Avg | 2,968 | 58 | 142 | 47 |5 | 34 | 0 |33%|72%|
 
 ### Results
-|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|# of Path changed|
+|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
 |---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|----------|
-|Target Monthly Average | 18,000 | 850 |N/A |250 | 200 |50 | 10 |29% | 20% |80%|
-|Month 1| 11,872 | 234 | 567 | 188 |20 | 135 | 0 |33%|72%|21%|
-|Month 2| x | x | x | x |x | x | x |x | x | x |
-|Month 3| x | x | x | x |x | x | x |x | x | x |
-|Experiment Monthly Average |3,957 | 78 | 189 | 63 |7 | 45 | 0 |33% | 72% | 21% |
-|3-month Total | x | x | x | x |x | x | x |x | x | 21% |
+|Target Monthly Average | 18,000 | 850 |N/A |250 | 200 |50 | 10 |29% | 20% |
+|Month 1| 11,872 | 234 | 567 | 188 |20 | 135 | 0 |33%|72%|
+|Month 2| x | x | x | x |x | x | x |x | x |
+|Month 3| x | x | x | x |x | x | x |x | x |
+|Experiment Monthly Average |3,957 | 78 | 189 | 63 |7 | 45 | 0 |33% | 72% |
+|3-month Total | x | x | x | x |x | x | x |x | x |
 
 
+|Month|# of users on Question Page|# of users on Reg page|# of users back to Question page|# of users select Enroll and move to next page|% of users changed Path|
+|---------|---------------|-------------|----------|---------------|---------------|
+|Monthly Target|850 |250 |200 |200 |80% |
+|October|832|99|56|42|21%|
+|November| x |x |x |x |x |
+|December| x |x |x |x |x |
 
 ## Research questions/Supplemental Metrics
 - Is there enough interest in registering for service connected care only?
