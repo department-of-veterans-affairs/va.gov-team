@@ -46,7 +46,12 @@ All pages have ratings of 2 or below.
    
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
 
-1.    
+1.    [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) (86% good out of 1,437 totals responses)
+2. [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (91% good out of 1,298 total responses)
+3. [What should I bring to my health care appointments](https://www.va.gov/resources/what-should-i-bring-to-my-health-care-appointments/) (91% good out of 1,144 total responses)
+4. [Disaster help](https://www.va.gov/resources/disaster-help/) (95% good out of 634 total responses)
+5. [Commissary and exchange privileges for Veterans](https://www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (96% good out of 285 total responses)
+   
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
 1.    
