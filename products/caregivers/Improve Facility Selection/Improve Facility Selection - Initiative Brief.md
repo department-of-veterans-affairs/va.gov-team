@@ -100,10 +100,11 @@
 
 ### Objectives and Key results (OKRs)
 
-- Objective: Make it easier for Veterans with representatives to fill out the online form
-  - Key result: Reduce the number of applications that are rerouted (obtained from CSP leadership)
-       - From Jan 1, 2022 through Jan 25, 2023, there were 5,496 CARMA cases rerouted to a different facility.
-       - At this time, there is no simple way to determine whether the case was rerouted at the Veteran/Caregiver request or due to having a non-caregiver supported facility on the form.
+### Objective: Make it easier for Veterans with representatives to fill out the online form
+#### Key result: Reduce the number of applications that are rerouted (obtained from CSP leadership)
+- From Jan 1, 2022 through Jan 25, 2023, there were 5,496 CARMA cases rerouted to a different facility.
+   - At this time, there is no simple way to determine whether the case was rerouted at the Veteran/Caregiver request or due to having a non-caregiver supported facility on the form.
+- Data Source: Caregiver Stakeholder team and [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true)
  
 |Applications | Monthly Average Baseline (Jan 2022-Jan 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
@@ -111,7 +112,8 @@
 |Total Apps Submitted | 5,923 | TBD | TBD |
 
 
-   - Key result: Maintain or reduce the amount of time a user selects a facility
+#### Key result: Maintain or reduce the amount of time a user selects a facility
+- Data Source: [Google Analytics - CG Facility page views & time](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
 
 |Average time on page |Monthly Average Baseline (Jan-Dec 2023)| Target | 1 Month after launch|
 |--------|-----------------------|----------|--------------------|
