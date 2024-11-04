@@ -3,7 +3,9 @@ sequenceDiagram
   actor Veteran as Veteran
 
   participant vets-website as Vets Website
+  participant mapbox as Mapbox
   participant vets-api as Vets API
+  participant lighthouse as Lighthouse
   participant mpi as MPI
 
   participant Okta
@@ -12,6 +14,15 @@ sequenceDiagram
 
   rect rgb(84, 39, 143)
   Veteran ->>+ vets-website: Fill out 10-10CG Form
+  rect rgb(22, 46, 81)
+    Veteran ->>+ vets-website: Search for caregiver facility
+    vets-website ->>+ mapbox: Fetch facility lat/long
+    mapbox -->>- vets-website: latitude/longitude result
+    vets-website ->>+ vets-api: Fetch facility list with lat/long
+    vets-api ->>+ lighthouse: Fetch facility list with lat/long
+    lighthouse -->>- vets-api: Paginated facility list
+    vets-api -->>- vets-website: Paginated facility list
+  end
   Veteran ->>+ vets-website: Upload supporting documents
   vets-website ->>+ vets-api: Upload attachments
   vets-api -->>- vets-website: Returns GUID
