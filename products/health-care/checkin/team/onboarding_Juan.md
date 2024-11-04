@@ -57,12 +57,15 @@
       - [VA Mobile Api](https://department-of-veterans-affairs.github.io/va-mobile-app/api/)
       - [Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board)
 - Feedback about cross-team coordination/collaboration (product + mobile):
-  - For larges efforts (multiple teams) we suggest using ToT meetings to align
+  - There are some gaps in a collaboration process, and cross-team tasks assignements - Despite mutiple meetings and cross team agreements on who does what, teams didn't follow these agreements (Travel Pay - VAHB)
+  - For larges efforts (multiple teams) we suggest using dedicated ToT meetings to align on the implamentation plan and involve VA stakeholders in those meetings, to ensure transparency in delivery timelines, and alignment.
 - Feedback about priority alignments (product team(s) + mobile team)
-  - The travel pay for past appointments initiative didn't seem to be prioritized for the mobile team: Engineering (UAE) may need to be on hold until designs are done on the mobile UX side
-         - For apps developped on mobile platfrom - do designs need to be handles by the mobile UX team? Can product team take over?
-  - Lack of transparency around design delivery (mobile team) and timelines
-  - Request to join ToT meetings 
+  - Example: Travel Pay for past appointments (VAHB) initiative wasn't prioritized for the mobile-design team, therefore their designs weren't ready for next few weeks/sprints. that resulted the Engineering on the UAE side to stay on hold until designs are ready.
+  - Dependency Question:
+    -  Could product teams (UAE) handle designs going forward?
+    -  Can designs be kept in the VA Figma, not partner owned Figma tools?
+
+   
 - Code Merges/ QA review process:
   - 1+ Day to code review
   - Initial recomendation is after PR is made, some one will review it, ask for PR review if not reviewed within 24hrs. But it might be better to get a PR into peoples radar by just asking for a review sooner via slack message.
