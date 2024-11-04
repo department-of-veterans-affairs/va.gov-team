@@ -21,13 +21,13 @@ Jump to:
 
 ## Next steps
 ### Updating Contact us
-- [ ] Beth and Becky confirm content updates
+- [ ] Nov 4 to Nov 22: Beth and Becky confirm content updates
   - Draft phone descriptions
   - Draft content for new addition of VA secure messaging 
   - Draft content for Ask VA description ([additional request from Ask VA team here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78906))
-- [ ] Beth mock up page in Drupal preview and send for review
-- [ ] All (Danielle, Beth, Becky, Chante) review
-- [ ] Beth update Contact us page
+- [ ] Nov 25: Beth mock up page in Drupal preview and send for review
+- [ ] Dec 2 to Dec 6: All (Danielle, Beth, Becky, Chante) review
+- [ ] Dec 9: Beth update Contact us page
 
 ### Further exploration
 - [ ] Becky touchbase with Randi on further GA4 analysis for Contact us (tracking link click events)
