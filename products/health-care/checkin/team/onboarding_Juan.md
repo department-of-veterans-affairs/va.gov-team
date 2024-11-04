@@ -56,14 +56,15 @@
       - [brainstorming](https://balsamiq.cloud/s4uw4la/pnnwuqv/r8E01)
       - [VA Mobile Api](https://department-of-veterans-affairs.github.io/va-mobile-app/api/)
       - [Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board)
-- Feedback about cross-team coordination/collaboration (product + mobile):
-  - There are some gaps in a collaboration process, and cross-team tasks assignements - Despite mutiple meetings and cross team agreements on who does what, teams didn't follow these agreements (Travel Pay - VAHB)
-  - For larges efforts (multiple teams) we suggest using dedicated ToT meetings to align on the implamentation plan and involve VA stakeholders in those meetings, to ensure transparency in delivery timelines, and alignment.
-- Feedback about priority alignments (product team(s) + mobile team)
-  - Example: Travel Pay for past appointments (VAHB) initiative wasn't prioritized for the mobile-design team, therefore their designs weren't ready for next few weeks/sprints. that resulted the Engineering on the UAE side to stay on hold until designs are ready.
-  - Dependency Question:
-    -  Could product teams (UAE) handle designs going forward?
-    -  Can designs be kept in the VA Figma, not partner owned Figma tools?
+- Feedback on Cross-Team Coordination/Collaboration (Product team UAE + Mobile):
+There are gaps in the collaboration process and in assigning cross-team tasks. Despite multiple meetings and established agreements on task ownership across teams, these agreements were not consistently followed (e.g., Travel Pay - VAHB). For larger efforts involving multiple teams, we suggest using dedicated Team of Teams (ToT) meetings to align on implementation plans and ensure VA stakeholder participation. This would promote transparency in delivery timelines and alignment across all teams.
+- Feedback on Priority Alignment (Product Teams + Mobile Team):
+Example: In the Travel Pay for Past Appointments (VAHB) initiative, the mobile design team did not prioritize the necessary designs, delaying their readiness for upcoming sprints. This resulted in engineering on the UAE side having to pause work until the designs were completed.
+
+Dependency Questions:
+
+Could the product teams (UAE) take on design responsibilities in the future?
+Can designs be managed in the VA Figma rather than in partner-owned Figma environments?
 
    
 - Code Merges/ QA review process:
