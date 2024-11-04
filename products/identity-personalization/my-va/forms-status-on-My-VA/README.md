@@ -152,4 +152,6 @@ TK
 <img width="360" alt="Screenshot 2024-10-29 at 10 08 16 AM" src="https://github.com/user-attachments/assets/cf862267-88f5-48fc-87df-a0b8f303fac2">
 
 **VFF confirmation page**
-TK
+
+<img width="693" alt="Screenshot 2024-11-03 at 8 52 55 PM" src="https://github.com/user-attachments/assets/13dd727a-a96b-46e7-83e5-2c860af0a86f">
+
