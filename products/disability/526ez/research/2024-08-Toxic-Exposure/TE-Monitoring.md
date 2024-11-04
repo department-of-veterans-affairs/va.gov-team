@@ -85,11 +85,11 @@ We still see the in progress form as a potential hotspot for problems with veter
 ## UX Insights for 1.0 100% 
 
 ### #1. Even at 100%, we are receiving minimal direct feedback about the toxic exposure questions from the Medallia surveys. 
-- In the first week at 100%, (10/21-27), only 4 out of 90 responses originated from Toxic Exposure urls (Herbicide and Additional Exposure pages). 
+- In the first week at 100% (10/21-27), only 4 out of 90 responses originated from Toxic Exposure urls (Herbicide and Additional Exposure pages). 
 - Veterans left low to neutral satisfaction ratings on the pages, but we do not have open test responses to explain the numbers. We are meeting with the Contact Center next week to ensure that we are not missing data from the time period.
 
 ### #2. The MyVA411 data from the same period did not report any problems with the toxic exposure questions.
-- None of 325 MyVA411 calls logged under the case type of "Disability Claim Application" included keywords "toxic exposure" during the first week of the release (10/21-27). 10 calls were tagged as the PACT Act, but all were general requests for where to file and how to upload documents.
+-In the first week at 100% (10/21-27), **none** of 325 MyVA411 calls logged with a "Disability Claim Application" case type focused on issues with the new feature. 10 calls were tagged as the PACT Act, but all were general requests for where to file and how to upload documents.
 
 ### #3. We suspect that this silence in the Medallia and MyVA411 data demonstrates that Veterans are not experiencing major blockers in the toxic exposure flow. 
 - Veterans typically leave Medallia feedback or call MyVA411 when they are dealing with large blockers that prevent them from completing the form (examples include document uploads or BIRLS ID error). We also know from GA4 that very few Veterans are leaving toxic exposure mid-flow after opting in, further supporting our hypothesis that Veterans are not getting stuck and requiring help mid flow. 
