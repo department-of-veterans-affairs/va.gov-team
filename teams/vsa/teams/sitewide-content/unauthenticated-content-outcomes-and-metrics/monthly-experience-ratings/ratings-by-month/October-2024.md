@@ -1,8 +1,7 @@
-![image](https://github.com/user-attachments/assets/a52283fd-7171-425b-9d2c-339ef7b904cd)# Note: This page is in draft
 # Unauthenticated page experience ratings: October 2024
 ## Related overall scores
-- **Total customer satsifaction score:** 55.9 (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall XXXX out of XXXXX total)
+- **Total customer satisfaction score:** 55.9 (0% change from last period)
+- **Average resources and support good/bad experience score:** 64% "good" experience rating overall 8,414 out of 13,096 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -25,8 +24,14 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  -     
+  - 51% (65 of 127) R&S pages have a 75% or higher "good" score
+  - 22% (28 of 127) R&S pages have a 51% - 74% "good" score
+  - 27% (34 of 127) R&S pages have a 50% or lower "good" score
+    
 - **Breakdown of resources and support scores by 10s:*
+![image](https://github.com/user-attachments/assets/77be25e5-c9f4-48e4-9286-4fa4f3a1b8a5)
+
+![image](https://github.com/user-attachments/assets/82e06389-91dd-4109-87d8-74a39496415c)
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
@@ -61,11 +66,13 @@ All pages have ratings of 2 or below.
 5. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/) (25% good out of 302 total responses)
    
 ## Analysis
-[Resources and support ratings spreadsheet]
-- This month R&S didn't meet our goal of 75% or higher "good" ratings, with a XX% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process but we will continue to monitor it.
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20October%202024.xlsx?d=wf6a1b0e59310435982d6f6418a465391&csf=1&web=1&e=7FU3ae)
+- This is the second month in a row R&S didn't meet our goal of 75% or higher "good" ratings, with a 64% "good" average rating. This can be attributed to large numbers of "bad" ratings for sign-in related pages. This will most likely continue during the sign-in transition process but we will continue to monitor it.
 - Performance isn't as high when broken down to individual pages:
-  - XX% of pages are scoring at 90% or higher "good"
-  - XX% of pages are meeting our goal of 75% or higher "good," while XX% of pages are scoring 70% or higher
-  - XX% of pages are scoring at less than 50% "good," with X% scoring at less than 10% "good" 
+  - 25% of pages are scoring at 90% or higher "good"
+  - 51% of pages are meeting our goal of 75% or higher "good," while 58% of pages are scoring 70% or higher
+  - 26% of pages are scoring at less than 50% "good," with 6% scoring at less than 10% "good" 
 - Sign-in related content continues to have the highest volume of total responses with "bad" ratings. The total number of responses have gone up for these pages since we launched the sign-in transition campaign.
-- The PACT Act page continues to be the page with the most responses and has a very high number of "good" responses. 
+- The PACT Act page continues to be the page with the most responses and has a very high number of "good" responses.
+- This was the first month our Disaster help page was in production. It had a high number of responses (634 total) with 95% getting a good rating, putting it at one of our top 5 pages with the highest volume of total responses with >50% "good" rating
+- Our Commissary and exchange privileges for Veterans page had one of the lowest experience ratings for the month but also had a high number of "good" responses (96% good out of 285 total responses). We'll review Medallia feedback to try to understand the discrepancy.
