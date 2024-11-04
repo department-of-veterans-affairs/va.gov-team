@@ -65,7 +65,7 @@ _These takeaways for the 1.0 rollout 5-25% (or 8/28-9/20) will gather weave toge
 
 ### #3. Veterans call the Contact Center with a high volume of questions about the PACT Act.
 - The [volume of the Contact Center data--over 1700 entries--](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/TE-Monitoring.md#contact-center-myva-411-data) gave us stronger sense of some of the trends we were already seeing in the much smaller Medallia data set.
- - We are embarking on discovery to learn how to best quickly and efficiently process Contact Center data in the future-- there is no thematic coding available for this data set. [Review here on Sharepoint.](https://dvagov-my.sharepoint.com/:x:/g/personal/evelyn_davis3_va_gov/Eati06vqxD9MhBnbZgQ3g_gB38EQDDopf0zLkYXlEUOuNA?e=cQQTqc)
+- We are embarking on discovery to learn how to best quickly and efficiently process Contact Center data in the future-- there is no thematic coding available for this data set. [Review here on Sharepoint.](https://dvagov-my.sharepoint.com/:x:/g/personal/evelyn_davis3_va_gov/Eati06vqxD9MhBnbZgQ3g_gB38EQDDopf0zLkYXlEUOuNA?e=cQQTqc)
 > "Veteran calling in about a text he received about Vietnam Veterans being eligible for Compensation and wants to know more about it." **- Contact Center Employee**
 
 ### #4. There is a strong demand for clear guidance on where to file for the PACT Act.
@@ -89,7 +89,7 @@ We still see the in progress form as a potential hotspot for problems with veter
 - Veterans left low to neutral satisfaction ratings on the pages, but we do not have open test responses to explain the numbers. We are meeting with the Contact Center next week to ensure that we are not missing data from the time period.
 
 ### #2. The MyVA411 data from the same period did not report any problems with the toxic exposure questions.
--In the first week at 100% (10/21-27), **none** of 325 MyVA411 calls logged with a "Disability Claim Application" case type focused on issues with the new feature. 10 calls were tagged as the PACT Act, but all were general requests for where to file and how to upload documents.
+- In the first week at 100% (10/21-27), **none** of 325 MyVA411 calls logged with a "Disability Claim Application" case type focused on issues with the new feature. 10 calls were tagged as the PACT Act, but all were general requests for where to file and how to upload documents.
 
 ### #3. We suspect that this silence in the Medallia and MyVA411 data demonstrates that Veterans are not experiencing major blockers in the toxic exposure flow. 
 - Veterans typically leave Medallia feedback or call MyVA411 when they are dealing with large blockers that prevent them from completing the form (examples include document uploads or BIRLS ID error). We also know from GA4 that very few Veterans are leaving toxic exposure mid-flow after opting in, further supporting our hypothesis that Veterans are not getting stuck and requiring help mid flow. 
@@ -97,8 +97,6 @@ We still see the in progress form as a potential hotspot for problems with veter
 ### #4.  We expect to learn more about the user experience and non-blocking issues with the flow in upcoming usability testing. 
 - Based on toxic exposure usability testing in 2023, we presume that Veterans are facing non-blocking challenges to the feature.  We have started to plan for our upcoming Veteran research to evaluate the new feature, which we will run in early December.
 
-- 
-</details>
 
 ## 526ez Success Metrics
 | Product KPI | Baseline  | Target | 5% | 10%| 25%| 50%|75% |100%| Data Source |
