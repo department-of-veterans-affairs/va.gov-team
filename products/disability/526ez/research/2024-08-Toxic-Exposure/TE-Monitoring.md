@@ -151,7 +151,7 @@ We still see the in progress form as a potential hotspot for problems with veter
 
 
 ## Medallia Data 
-Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [See full report here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/2024-08-Medallia-Review.md)
+Before launch, we reviewed Medallia survey data **from July 1-August 9** to help set a baseline for the 526ez user experience. This 6 week period of data will appear in charts as "Pre-launch." [See full report here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-08-Toxic-Exposure/Toxic%20Exposure%20Pre-Launch%20Review%20of%20Medallia%20Data.md))
 
 All Medalia survey data is reported as a % of 4+5 answers.
 
