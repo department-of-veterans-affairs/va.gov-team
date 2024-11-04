@@ -32,7 +32,7 @@ It is the sum of many components shared across one or more pages that create an 
 * Adam Whitlock: Software Engineer @adamwhitlock1
 * Belle Poopongpanit: FS Developer @bellepx0
 * Christine Steiffer: UX Designer @ChristineRoseSteiffer 
-* Morgan Jones: UX Designer @Jones-Morgan 
+* Kristen Faiferlick: UX Designer @kristenfaiferlick
 
 ### Where to find us
 - **Slack channel**: [#tmf-auth-exp-design-patterns](https://dsva.slack.com/archives/C07909N7U8Z)
