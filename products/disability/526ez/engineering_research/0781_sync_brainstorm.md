@@ -13,6 +13,8 @@ This is just to get things functional. It does not take into account writting te
 
 ### Workable Chunks
 
+Each of these can be built and deployed esentially as 'sub apps' that start and end at predefined routes. 
+
 ## Build data storage 'solution': 1 sprint
 - define where form data is stored
 - ensure we have a FE API writing service / React store / Database harmony
