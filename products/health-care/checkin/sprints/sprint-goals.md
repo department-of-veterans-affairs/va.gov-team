@@ -24,6 +24,9 @@
          - 🟩 [Create Review your appointment details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95281)
      - BE STEP 1 - Implement EPSAppointments
          - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96003)
+         - 🟦 [Implement token method in EPSService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96410)
+         - 🟦 [Implement get_appointments method in EPSAppointmentService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96411)
+         - 🟦 [Implement merge_eps_appointments method in AppointmentsService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96412)
 - **Travel Claims for Past Appts**
     - **Sprint goal is to finish this by the end of the year**
     - 🟪 [Update Appointment Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94372)
@@ -35,6 +38,7 @@
     - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95473)
 - **Tech Debt & Analytics**
     - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)
+    - 🟦 [Recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96416)
 </details>
 
 ## SPRINT 19 - 10/30/2024-11/12/2024
