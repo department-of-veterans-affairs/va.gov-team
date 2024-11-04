@@ -53,6 +53,9 @@ Some of the items below may not apply to your work--that's okay. You may not be 
     - No Changes
   - Describe error and dead letter handling
     - No Changes
+- Background jobs
+  - List any required background processing
+  - Describe error and dead letter handling
 - Data storage
   - Describe new or modified databases, tables or columns
     - No Changes. The facility that is ultimately returned is used to pass the facility id as part of the 1010CG Form submission.
@@ -80,7 +83,7 @@ Some of the items below may not apply to your work--that's okay. You may not be 
     - The PM and Data Analyst will monitor analytics. If there is a spike in errors or unexpected behavior, the feature toggle will be used to disable the feature in production and issue triage will begin.
 - Internal administration tasks
   - What maintenance or administration tasks do you anticipate will need to be performed periodically?
-    - If either of the mapbox api or Lighthouse facilities api change we may need to do something. Those are not expected, and are used a few other places in `vets-website` and `vets-api` so these changes are not unique.
+    - The only potential change is if we need to update an api version for mapbox or Lighthouse facilities.Those are not expected, and are used a few other places in `vets-website` and `vets-api` so these changes are not unique.
   - Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
 - Security
   - What questions do you have regarding items on the security checklist?
