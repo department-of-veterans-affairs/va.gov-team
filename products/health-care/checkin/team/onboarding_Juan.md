@@ -56,12 +56,12 @@
       - [brainstorming](https://balsamiq.cloud/s4uw4la/pnnwuqv/r8E01)
       - [VA Mobile Api](https://department-of-veterans-affairs.github.io/va-mobile-app/api/)
       - [Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board)
-- Feedback on Cross-Team Coordination/Collaboration (Product team UAE + Mobile):
+- **Feedback on Cross-Team Coordination/Collaboration (Product team UAE + Mobile):**
 There are gaps in the collaboration process and in assigning cross-team tasks. Despite multiple meetings and established agreements on task ownership across teams, these agreements were not consistently followed (e.g., Travel Pay - VAHB). For larger efforts involving multiple teams, we suggest using dedicated Team of Teams (ToT) meetings to align on implementation plans and ensure VA stakeholder participation. This would promote transparency in delivery timelines and alignment across all teams.
-- Feedback on Priority Alignment (Product Teams + Mobile Team):
+- **Feedback on Priority Alignment (Product Teams + Mobile Team):**
 Example: In the Travel Pay for Past Appointments (VAHB) initiative, the mobile design team did not prioritize the necessary designs, delaying their readiness for upcoming sprints. This resulted in engineering on the UAE side having to pause work until the designs were completed.
 
-Dependency Questions:
+**Dependency Questions:**
 
 Could the product teams (UAE) take on design responsibilities in the future?
 Can designs be managed in the VA Figma rather than in partner-owned Figma environments?
