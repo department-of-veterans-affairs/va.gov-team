@@ -59,7 +59,7 @@
 - **Travel Claims for Past Appts - Web**
     - **Sprint Goals: Finish FE work knowing we are blocked with integrating with BE**
     - Rolled over from last sprint
-        - 🟩 [[FE] - Modify appointments api call to retrieve travel claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
+        - ✔️ 🟩 [[FE] - Modify appointments api call to retrieve travel claim status](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90974)
         - 🟩 [[FE] - Add past appointments features to details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90975)
 - **Check in with staff after checking in**
     - **Sprint Goals: Conduct unmoderated study and address design intent feedback**
@@ -73,7 +73,7 @@
     - 🟥 [[Research] Create research presentation for appointment details page card sort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93643)
     - 🟥 [Create readme doc for appointment details page research findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95000)
 - **Tech Debt & Analytics**
-    - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94769)
+    - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94769)
     - 🟦 [[Discovery] How to recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94038)
 
 ## SPRINT 18 - 10/16/2024-10/29/2024
