@@ -61,13 +61,11 @@ There are gaps in the collaboration process and in assigning cross-team tasks. D
 - **Feedback on Priority Alignment (Product Teams + Mobile Team):**
 Example: In the Travel Pay for Past Appointments (VAHB) initiative, the mobile design team did not prioritize the necessary designs, delaying their readiness for upcoming sprints. This resulted in engineering on the UAE side having to pause work until the designs were completed.
 
-**Dependency Questions:**
+   - **Dependency Questions:**
+     - Could the product teams (UAE) take on design responsibilities in the future?
+     - Can designs be managed in the VA Figma rather than in partner-owned Figma environments?
 
-Could the product teams (UAE) take on design responsibilities in the future?
-Can designs be managed in the VA Figma rather than in partner-owned Figma environments?
-
-   
-- Code Merges/ QA review process:
+- **Code Merges/ QA review process:**
   - 1+ Day to code review
   - Initial recomendation is after PR is made, some one will review it, ask for PR review if not reviewed within 24hrs. But it might be better to get a PR into peoples radar by just asking for a review sooner via slack message.
   - QA takes about 1 day
