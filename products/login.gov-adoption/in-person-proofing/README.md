@@ -10,7 +10,7 @@ For more information about this product, view the [product outline](https://gith
 
 Last updated: May 20, 2024
 
-This service is currently in Pilot phase, with a pilot scheduled for June xx at a VA Medical Center in Baltimore MD.
+This service is currently in Pilot phase, with a pilot scheduled for June 10-14, 2024 at a VA Medical Center in Baltimore MD.
 
 View the [application repository](https://github.com/department-of-veterans-affairs/va-in-person-identity-proofing) or the [pilot application](https://dev.lighthouse.va.gov/intake) (accessible only from VA network)
 
