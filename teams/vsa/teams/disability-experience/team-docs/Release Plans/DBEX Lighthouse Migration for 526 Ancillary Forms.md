@@ -41,7 +41,7 @@ After successfully passing the testing plan, we will then increase usage to 5%, 
 - **Release date for 1%:** Thursday Oct 24
 - **Release date for 5%:** Monday Oct 28
 - **Release date for 50%:** Thursday Oct 31
-- **Release date for 100%:** Monday Nov 6
+- **Release date for 100%:** Wednesday Nov 6
 
 
 ### 0781 
