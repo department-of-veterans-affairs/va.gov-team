@@ -1,9 +1,10 @@
 # My VA Benefit Applications and Forms Use Cases: User has a benefit application draft saved but not yet submitted
 
-**Last updated:** October 29, 2024 - added mention of LOA1
+**Last updated:** November 3, 2024 - added new link for Form Statuses
 
 For LOA3 users who sign in and have a benefit application draft saved (or multiple), we will show a card (or cards) for:
 - their saved application(s) in the Benefit applications and forms section on My VA that provides a link for them to continue their application
+- Note that [some completed forms that have been submitted may be visible as well](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/forms-status-on-My-VA)
 
 ## UX
 - Any logged in LOA1 or LOA3 user can see the Benefit applications and forms section on My VA.
