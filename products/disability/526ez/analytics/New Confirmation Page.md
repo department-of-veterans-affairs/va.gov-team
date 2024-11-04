@@ -26,24 +26,6 @@ Count of duplicate submissions by month
 
 Duplicate submissions are an important metric we need to monitor as we roll out New Confirmation Page. When Veterans hit the submit button more than once, it's usually because they're feeling unsure or uneasy about the expected timeline for processing their application, or they encountered an issue on the confirmation page that left them wondering if we even received their information. Sometimes they may want to change something about their application and figure it's easier to start from scratch. Some Veterans have been waiting a while without any updates, so they submit another application just to be safe.
 
-#### Calls to Contact Center
-Count of calls to the call center regarding submission status by month
-* Data Collection: Monitor the number of calls received by the contact center related to submission status inquiries each month
-* Target: Reduce the count of calls to the contact center about submission status by 5% month-over-month (MoM) 
-* Rationale: Fewer calls regarding submission status suggest that customers are better informed about the timeline and feel more confident in the process.
-
-Another important metric to track is the count of calls to the Contact Center regarding submission status each month. This qualitative metric provides insights into cases where Veterans feel uncertain about the status of their application and seek clarification by calling the Contact Center. An increase in such calls may indicate that the New Confirmation Page is not effectively communicating the submission status or timeline, leading to heightened anxiety or concern among Veterans.
-
-By tracking how many duplicates we get each month, monitoring the volume of calls to the Contact Center about submission status, and understanding Veteran confidence we'll have a better sense of whether New Confirmation Page is effectively solving the Veteran problem. If quantitative numbers start trending down, and qualitative metrics trend upwards, we'll know we're on the right track - the new page is giving Veterans the clarity and confidence they need to submit once and be done. But if duplicates are still coming in at the same rate (or worse, increasing), calls to the Contact Center remain high, and Veteran confidence is unchanged or decreasing, that's our cue to take another look and see where we can improve things.
-
-### 3.2. Qualitative Metrics
-#### Veteran Confidence 
-Measure Veteran confidence in VA’s efforts to submit their application
-* Data Collection: Gather feedback through surveys, user interviews, or other customer feedback channels to assess customer confidence levels.
-* Expectation: The New Confirmation Page is expected to have a positive impact on Veteran confidence
-* Learning Objective: Understand the extent to which the New Confirmation Page influences Veteran confidence in VA’s efforts to submit their claims.
-* Action Plan: Analyze qualitative feedback to identify trends, insights, and areas for improvement in the New Confirmation Page design and messaging.
-
 ## 4.0 Collection Methods
 
 We’ll use a few collection methods to monitor the success of New Confirmation Page. Further investigation into the exact techniques for tracking is needed.
@@ -52,13 +34,12 @@ We’ll use a few collection methods to monitor the success of New Confirmation 
 
 * Leverage existing EP400 metrics (not CFI)
 * 526 Datadog monitoring to track the count of duplicate submissions (not CFI)
+* we can check by user_uuid to submit_all_claim
 * Google analytics events for
   * disability-526EZ--submission-successful
   * disability-526EZ--submission-failed
   * disability-526EZ--submission-failed-client
   * disability-526EZ--submission-taking-too-long
-* Contact Center data
-* Medallia
 
 ### 4.2 Collection Schedule
 To ensure we have a comprehensive understanding of the New Confirmation Page's performance and its impact on Veterans, we'll follow a structured data collection schedule.
@@ -83,7 +64,26 @@ We'll adjust this schedule as needed based on our findings and any trends or iss
 
 ## 5.0 FAQ
 ### How many failed submission are there per month on average?
-There are 489 failed submissions per month on average, according to Google Analytics. 
+There are 489 failed submissions per month on average, according to Google Analytics.
+### What additional metrics will you be looking at as this feature matures?
+<details><summary>Calls to Contact Center</summary>
+Count of calls to the call center regarding submission status by month
+* Data Collection: Monitor the number of calls received by the contact center related to submission status inquiries each month
+* Target: Reduce the count of calls to the contact center about submission status by 5% month-over-month (MoM) 
+* Rationale: Fewer calls regarding submission status suggest that customers are better informed about the timeline and feel more confident in the process.
+
+Another important metric to track is the count of calls to the Contact Center regarding submission status each month. This qualitative metric provides insights into cases where Veterans feel uncertain about the status of their application and seek clarification by calling the Contact Center. An increase in such calls may indicate that the New Confirmation Page is not effectively communicating the submission status or timeline, leading to heightened anxiety or concern among Veterans.
+
+By tracking how many duplicates we get each month, monitoring the volume of calls to the Contact Center about submission status, and understanding Veteran confidence we'll have a better sense of whether New Confirmation Page is effectively solving the Veteran problem. If quantitative numbers start trending down, and qualitative metrics trend upwards, we'll know we're on the right track - the new page is giving Veterans the clarity and confidence they need to submit once and be done. But if duplicates are still coming in at the same rate (or worse, increasing), calls to the Contact Center remain high, and Veteran confidence is unchanged or decreasing, that's our cue to take another look and see where we can improve things.
+</details>
+
+<details><summary>Veteran Confidence</summary>
+Measure Veteran confidence in VA’s efforts to submit their application
+* Data Collection: Gather feedback through surveys, user interviews, or other customer feedback channels to assess customer confidence levels.
+* Expectation: The New Confirmation Page is expected to have a positive impact on Veteran confidence
+* Learning Objective: Understand the extent to which the New Confirmation Page influences Veteran confidence in VA’s efforts to submit their claims.
+* Action Plan: Analyze qualitative feedback to identify trends, insights, and areas for improvement in the New Confirmation Page design and messaging.
+</details>
 
 ## 5.0 Open Questions
 * Will the same GA events continue to fire after changed to the Confirmation banner?
