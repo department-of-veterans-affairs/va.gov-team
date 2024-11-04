@@ -183,16 +183,17 @@ I coded all qualitative user feedback--see Appendix for full list of codes/theme
 Data from the MyVA411 information line (800-698-2411) is logged in Salesforce by call center agents, then requested by researchers to review. 
 <details>
   <summary> Click to see tables highlighting trends below. </summary>
-    
-|Case type| Case Category| **1.0 - 25% (8/28-9/20)** |**1.0 - 100%** | **1.1 - 25%**|**1.1 - 100%**|
-|--|--|--|--|--|--|
-|**PACT Act**|Directory Assistance| 1358|
-|**PACT Act**| General Information | 365|
-|**Disability Claim Application**| Application submission issue| 10
-| **PACT Act (Concern)**|Concern VBA | 7
-|**Disability Claim Application**| Navigation Issues | 4
-|**Disability Claim Application**| Upload/Download documents | 3|
-|**Disability Claim Application**| Intent to File Issue| 3
+
+**Note:** Because we changed our approach to requesting MyVA411 data for 100%, this table does not provide useful insight into trends over time during the rollout. 
+|Case type| Case Category| **1.0 - 25% (8/28-9/20)** |**1.0 - 100% (10/21-27)**|**1.1 - 75%**|
+|--|--|--|--|--|
+|**PACT Act**|Directory Assistance| 1358| Not requested |
+|**PACT Act**| General Information | 365| Not requested |
+|**Disability Claim Application**| Application submission issue| 10 | 121 |
+| **PACT Act (Concern)**| Concern VBA | 7 | Not requested |
+|**Disability Claim Application**| Navigation Issues | 4 | 42 |
+|**Disability Claim Application**| Upload/Download documents | 3| 109 |
+|**Disability Claim Application**| Intent to File Issue| 3 | 17 |
 
 </details>
 
