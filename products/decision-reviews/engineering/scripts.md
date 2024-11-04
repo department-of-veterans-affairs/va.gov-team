@@ -174,3 +174,26 @@ def remediation_info(lighthouse_upload_id)
   }
 end
 ```
+## All Upload Failures After Date: Get Error and Evidence Failure Remediation Info for Contact Center
+```rb
+def upload_remediations_from_date(start_date)
+  errored_saved_claims = SavedClaim.where(type: [
+                                            'SavedClaim::NoticeOfDisagreement',
+                                            'SavedClaim::HigherLevelReview',
+                                            'SavedClaim::SupplementalClaim'
+                                          ])
+                                   .where('created_at > ?', start_date)
+                                   .where(delete_date: nil)
+                                   .where('metadata LIKE ?', '%error%')
+                                   .order(id: :asc)
+
+  errored_uploads = errored_saved_claims
+                    .map { |sc| JSON.parse(sc.metadata)['uploads'] }
+                    .flatten
+                    .select { |upload| upload&.fetch('status') == 'error' }
+
+  errored_uploads.map do |upload|
+    [upload['detail'], remediation_info(upload['id'])]
+  end
+end
+```
