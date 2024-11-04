@@ -68,6 +68,13 @@ There are a few other things I want to mention before we start:
 
 I’ve started recording. I'd like to confirm again: **Are you comfortable if I record our audio as we talk today?**
 
+Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+Start recording.
+
+I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+I’m also going to make sure transcriptions are turned on to improve our notes.
+
 ## <a name="warm-up"></a>Warm-up questions (5 minutes)
 
 1. What experience do you have with VA.gov?
