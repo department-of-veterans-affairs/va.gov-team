@@ -16,11 +16,14 @@
      - FE STEP 3 - Referral For Page
          - 🟩 [Hook up to the mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95269)
          - 🟩 [Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95270)
-     - BE STEP 2 - TBD
-         - TBD
+     - FE STEP 4 - Schedule an Appointment with your Provider Page
+         - 🟩 [Hook up to mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95271)
+         - 🟩 [Fix a few page details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95272)
+     - BE STEP 1 - Implement EPSAppointments
+         - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96003)
 - **Travel Claims for Past Appts**
     - **Sprint goal is to finish this by the end of the year**
-    - TBD
+    - 🟪 [Update Appointment Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94372)
 - **Pre-Check-in - VAHB**
     - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
     - 🟥 [Create User Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94232)
