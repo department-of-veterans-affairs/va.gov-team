@@ -1,6 +1,6 @@
 # Rollout Plan & Timeline for Guardian Access API
 
-### Day 1: Pre-Launch Preparation (Turn on flipper = 50% on staging)
+### Pre-Launch Preparation (Turn on flipper = 50% on staging)
 **Objective:** Finalize all preparations and ensure readiness for a phased rollout.
 
 - **API Readiness & Testing:**
@@ -20,7 +20,7 @@
 
 ---
 
-### Day 2: Pre-Launch Preparation (Turn on flipper = 100% on staging)
+### Pre-Launch Preparation (Turn on flipper = 100% on staging)
 **Objective:** Finalize all preparations and ensure readiness for a phased rollout.
 
 - **API Readiness & Testing:** Conduct final reviews, including load and stress testing.
@@ -30,7 +30,7 @@
 
 ---
 
-### Day 3: Phase 1 (5% then 50% on PROD - 1 hour each)  
+### Phase 1 (5% then 50% on PROD - 1 hour each)  
 **Date:** November 5, 2024 at 2pm eastern time
 **Objective:** Release the API to 10% of the user base for initial testing in a live environment.
 
@@ -47,7 +47,7 @@
 
 ---
 
-### Day 4: Phase 2 (20% User Rollout in PROD)
+### Phase 2 (20% User Rollout in PROD)
 **Objective:** Expand API access to 20% of users based on Phase 1 performance.
 
 - **Rollout to 20% of Users:**
@@ -61,7 +61,7 @@
 
 ---
 
-### Day 5: Phase 3 (50% User Rollout in PROD)
+### Phase 3 (50% User Rollout in PROD)
 **Objective:** Increase the API availability to 50% of the user base after monitoring Phase 2 results.
 
 - **Rollout to 50% of Users**
@@ -72,7 +72,7 @@
 
 ---
 
-### Day 6: Full Rollout (100% of Users)
+### Full Rollout (100% of Users)
 **Objective:** Complete the final rollout to the entire user base.
 
 - **Rollout to the Remaining Users:** Release the API to the full user base.
