@@ -72,20 +72,20 @@ There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Ex
 ### Targets
 - Source Data - Google Analytics, Datadog (Links TBD)
 
-|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
-|---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|
-| Historical Weekly Avg | 4,500 | 2,750 |N/A | 62 | 50 |12 | 2 |2%|19%|
-| 3-month Weekly Avg | 2,968 | 58 | 142 | 47 |5 | 34 | 0 |33%|72%|
+|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|# of Path changed|
+|---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|----------|
+| Historical Weekly Avg | 4,500 | 2,750 |N/A | 62 | 50 |12 | 2 |2%|19%| x |
+| 3-month Weekly Avg | 2,968 | 58 | 142 | 47 |5 | 34 | 0 |33%|72%| x |
 
 ### Results
-|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|
-|---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|
-|Target Monthly Average | 18,000 | 850 |N/A |250 | 200 |50 | 10 |29% | 20% |
-|Month 1| 11,872 | 234 | 567 | 188 |20 | 135 | 0 |33%|72%|
-|Month 2| x | x | x | x |x | x | x |x | x |
-|Month 3| x | x | x | x |x | x | x |x | x |
-|Experiment Monthly Average |3,957 | 78 | 189 | 63 |7 | 45 | 0 |33% | 72% |
-|3-month Total | x | x | x | x |x | x | x |x | x |
+|Timeblock|# of application starts|# of accordion clicks|# of selection page views|# of Registration selection|# of 'Back' button clicks|# of form exits after Registration selection|# of clicks to download 10-10EZ form|% Register vs Enroll|% Exits after Reg|# of Path changed|
+|---------|---------------|-------------|----------|---------------|---------------|----------|----------|----------|----------|----------|
+|Target Monthly Average | 18,000 | 850 |N/A |250 | 200 |50 | 10 |29% | 20% |80%|
+|Month 1| 11,872 | 234 | 567 | 188 |20 | 135 | 0 |33%|72%|21%|
+|Month 2| x | x | x | x |x | x | x |x | x | x |
+|Month 3| x | x | x | x |x | x | x |x | x | x |
+|Experiment Monthly Average |3,957 | 78 | 189 | 63 |7 | 45 | 0 |33% | 72% | x |
+|3-month Total | x | x | x | x |x | x | x |x | x | x |
 
 
 
