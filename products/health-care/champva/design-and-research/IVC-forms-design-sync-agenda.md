@@ -9,6 +9,29 @@
 
          - ### Notes
 
+* CHAMPVA Registration signer/ email questions
+    * Investigate relationship question on 1010: why do we need this? Is there a way to better word these options or make them into radios? 
+    * Won’t need to resubmit for staging review if we only have content updates from CAIA. 
+* Send Lois figma for ZSF VA notify 1010D so she can use it in her in person research session. The goal is to try to get feedback on if users understand the content on the email. Will send over some more ideas for in-person research.
+* Stakeholder research readout 
+    * Jamie to send over links to Research Readout slides for Lois to review. 
+    * Asked to give more context to the stakeholders in regards to the overall claims experience and why we are sharing this info with them. Perhaps do a short demo of the claims form at the start of the meeting
+    * We can trim down the slides further to save time. Only focus findings that matter to business rather than content and UI/UX issues
+* Slides to the Weekly UX sync
+    * Overall content presentation is good
+    * Send to lois for review
+    * Will work to fine tune slides and content. 
+    * May want to consider adding the findings about the CHAMPVA Member number if time permits
+* Research Roadmap
+    * Feedback: Maybe not all findings are relevant to put in front of the whole team.
+    * Felt rushed and maybe could have spent more time more complex findings 
+    * Might be better to have more of the solidified findings/ recommendations.
+    * Flesh out the recommendations with Lois a little more before we get to the research roadmap review. Will help figure out some of the “how’s” better.
+    * The research roadmap review made the research feel more actionable. 
+    * Timing could have been a little better so it was more relevant to what we are currently working on
+    * We could move through the lower impact (things that are easier to fix such as content) items more quicker. 
+    * Focus more on what findings surprised us the most. 
+    * Maybe look at each one more closely. We could have smaller workshops for each one if needed 
 ## October 28 2024
 - Attendees: Jamie Fiore, Rachel Pope, Lois Lewis, Premal Shah, Andrea Merrell, Bo Altes
 	- Agenda Topics
