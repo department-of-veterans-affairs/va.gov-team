@@ -53,13 +53,10 @@ _Most of the time this is the CTA on a tool static landing page (a sign in widge
 ### Secondary entry points
 _Any additional locations that the page should be navigable from.  This is often an about-a-form page, an R&S page about the feature, or can be left nav or mega menu.   These are secondary, and while they are still very important, are not required for launch._
 
-1. **[Careers and employment hub page](https://www.va.gov/careers-employment/)** - Add
-  - Placement description: In the 'More information and resources' section, after 'VetSuccess on Campus' and before 'Veteran Readiness and Employment glossary'
-  - Link label: TBD by content
-  - Link destination: TBD questionnaire static page
-![Screenshot 2024-07-31 at 12 30 45 PM](https://github.com/user-attachments/assets/1f4ed0b9-2bc5-4ea7-9e72-1e61f8c34e63)
-
-
+1. **[Service member hub page](https://www.va.gov/service-member-benefits/)** - Add
+  - Placement description: Add a new 'Other VA benefits and services' grey box section (like this one in the [disability hub](https://www.va.gov/disability/)), and link to the R+S page from there. 
+  - Link label: Getting started with the VA
+  - Link destination: https://www.va.gov/resources/getting-started-with-va/
 
 
 ## <a name="redirects"></a>Redirects <br>
