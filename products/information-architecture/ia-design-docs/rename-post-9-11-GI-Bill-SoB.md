@@ -22,19 +22,22 @@
 ## <a name="url"></a>URLs and breadcrumbs
 
 **1) Benefit Info drupal page - Existing**
-- URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/
+- URL: _No Change_
 - Breadcrumb: VA.gov home > Education and training > Check your remaining Post-9/11 GI Bill benefits
-- Notes: 
+- H1: Check your remaining Post-9/11 GI Bill benefits
+- Notes: The URL on the Drupal page is already updated. Only the H1 and Breadcrumb need changes.
 
 **2) Benefit Tool authenticated page - Existing**
 - URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/
 - Breadcrumb: VA.gov home > Education and training > Check your remaining Post-9/11 GI Bill benefits
-- Notes: 
+- H1: Check your remaining Post-9/11 GI Bill benefits
+- Notes: URL, H1, and breadcrumb all need changes.
 
 **2) Print Benefit Tool Info authenticated page - Existing**
 - URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/print/
 - Breadcrumb: VA.gov home > Education and training > Check your remaining Post-9/11 GI Bill benefits
-- Notes: 
+- H1: Check your remaining Post-9/11 GI Bill benefits
+- Notes: Question for Content - should the Print page have a different H1 from the benefit tool page?
 
 
 ## <a name="redirects"></a>Redirects <br>
@@ -43,7 +46,6 @@
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-va.gov/education/check-post-9-11-gi-bill-benefits/ | va.gov/education/check-post-9-11-gi-bill-benefits/ | Unauthenticated info page
 va.gov/education/gi-bill/post-9-11/ch-33-benefit/status | va.gov/education/check-post-9-11-gi-bill-benefits/status/ | Authenticated tool
 va.gov/education/gi-bill/post-9-11/ch-33-benefit/status/print/ | va.gov/education/check-post-9-11-gi-bill-benefits/status/print/ | Print view
  
