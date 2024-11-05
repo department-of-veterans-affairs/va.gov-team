@@ -38,7 +38,7 @@ If yes, what: TBD
 
 
 ## Phase II: Staged Rollout (also known as unmoderated production testing)
-The plan is ask for an exception and not go through a staged rollout and go for a complete release in January 23rd, 2023.
+The plan is ask for an exception and not go through a staged rollout and go for a complete release in December 7th, 2024.
 
 Per the feature flag documentation: “Teams can enable or disable a feature for all users, a percentage of all users, a percentage of all logged-in users, a list of users, or users defined in a method.”
 
