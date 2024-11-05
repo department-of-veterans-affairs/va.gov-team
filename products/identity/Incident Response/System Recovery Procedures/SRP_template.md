@@ -6,10 +6,10 @@ Follow these steps if the OCTO Identity {{insert service name here}} service nee
 
 The OCTO Platform team maintains the vets-api infrastructure. The following repositories contain modules, controllers, and components configured by Identity Platform team:
 
-- vets-api
-- vets-website
-- devops
-- vsp-infra-application-manifests
+- `vets-api`
+- `vets-website`
+- `devops`
+- `vsp-infra-application-manifests`
 
 The system recovery plan assumes:
 
