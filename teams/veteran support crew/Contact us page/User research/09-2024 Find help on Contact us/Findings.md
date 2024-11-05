@@ -78,8 +78,8 @@ We asked users to consider how they would use Contact us to find answers or cust
    
 ### Preferences
 7. (5 out of 10 people) People prefer more direct phone numbers.
-8. (x out of 10 people) People prefer using search, but searches aren't always successful on VA.gov.
-9. (x out of 10 people) People prefer talking to real people and online messaging (chat or email).
+8. (4 out of 10 people) People prefer using search, but searches aren't always successful on VA.gov.
+9. (8 out of 10 people) People prefer talking to real people and online messaging (chat or email).
 
 ## Details of Findings 
 Labels that apply to all findings: `AUD: Veterans`, `PRDT: Contact us`, `RESRCH: Remote`, `RESRCH: Usability Testing`, `VAT: Office Chief Technology Officer (OCTO)`
@@ -88,7 +88,7 @@ Labels below each finding are apply only to the finding.
 
 ### Behavior and expectations
 #### People scan for words related to their issue to find help and/or contact info.
-Scope: x out of 10 people
+Scope: 7 out of 10 people
 
 Labels: `TREND: Content`, `TREND: Browsing`
 
@@ -107,7 +107,7 @@ For the claims scenario, many people gravitated towards the "Check your VA claim
 >  I could do this, the claim or appeal... they could check the status of my disability. And also, they could probably update my my disability or give me information if I can apply for greater disability or greater payment.
 
 #### People expected the jump links to direct them to another page.
-Scope: Scope: x out of 10 people
+Scope: 4 out of 10 people
 
 Labels: `DSC: On this page jump link`
 
@@ -124,7 +124,7 @@ When there are a lot of options on one page, it can be hard to focus and pause o
 > I guess there's too many options. It needs to be more, here's your main thing to do to get to where you need to be.
 
 #### People weren't sure about the purpose of "Helpful online tools."
-Scope: Scope: x out of 10 people
+Scope: 3 out of 10 people
 
 Labels: `DSC: Link - Collection`, `TREND: Content`
 
@@ -139,7 +139,7 @@ Some people just overlooked the "Helpful online tools" label and skipped to the 
 > When you get a hyperlink like this where it says, "Change your address," or anything like that, you click on that, and it'll take you right to the page that you need to go to the either change the address or change the direct deposit or you need to change your VA claim or anything.
 
 #### People related "Contact us online through Ask VA" to chat support.
-Scope: x out of 10 people
+Scope: 4 out of 10 people
 
 Labels: `TREND: Content`
 
@@ -154,7 +154,7 @@ While some people interpreted "Contact us online through Ask VA" correctly, some
 > Now it looks like I may be able to get kind of a chat going. That's what I would think so. Because if it's online, it has to be some kind of chat, am I correct?... Oh, it doesn't say question and answer. I just put that in myself.  
 
 ### People misinterpreted "Resources and support" but understood "FAQs."
-Scope: x out of 10 people
+Scope: 4 out of 10 people
 
 Labels: `TREND: Content`
 
@@ -171,7 +171,7 @@ They understood what FAQs were.
 > Frequently asked questions popped in my head as something I should look at to see if it's something that could be of assistance.
 
 ### People weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
-Scope: x out of 10 people
+Scope: 2 out of 10 people
 
 Labels: `TREND: Content`
 
@@ -183,7 +183,7 @@ Some people understood there might be a difference, but they weren't sure what t
 
 ### Preferences
 #### People prefer more direct phone numbers.
-Scope: x out of 10 people
+Scope: 5 out of 10 people
 
 Labels: `DSC: Telephone`
 
@@ -204,7 +204,7 @@ VA markets the MyVA411 number to [reduce the complexity of trying to find the ri
 > The further away from the locale you are in almost every institution, the more difficult. I mean, whether it's the Social Security office here in town versus calling a 800 number, 800 numbers are just not as successful for me, I would guess.
 
 ### People prefer using search, but searches aren't always successful on VA.gov.
-Scope: x out of 10 people
+Scope: 4 out of 10 people
 
 Labels: `TREND: Search`, `PRDT: On-site-search`, `DSC: Search Input`
 
@@ -221,7 +221,7 @@ People suggested a better search to improve the Contact us page and VA.gov.
 > So it's just a matter of a search bar that is not limited
 
 ### People prefer talking to real people and online messaging (chat or email).
-Scope: x out of 10 people
+Scope: 8 out of 10 people
 
 Labels: `PRDT: Secure-messaging`, `MHV: Secure Messaging`, `PRDT: AVA`
 
