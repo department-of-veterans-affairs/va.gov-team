@@ -1,32 +1,44 @@
-# System Recovery Plan - Login.gov
+# System recovery plan - Login.gov
 
-In the event of a disaster in which the Login.gov credential service provider is offline, the following is the general order of operations that should be followed.
+Follow these steps if the OCTO Identity Login.gov integration needs to be redeployed from scratch.
 
 ## Presumption
 
-Vets-api infrastructure is maintained by the OCTO Platform team. Identity configures resources within vets-api, vets-website, devops, and vsp-infra-application-manifests github repositories. Within the repositories are defined modules, controllers, and components which facilitate all of the OCTO Identity services. The system recovery plan assumes these repositories are fully functional and the infrastructure which runs these services has been restored to the last known good state as available from these repositories. The requirement of the system recovery plan is to include steps required to ensure services critical to OCTO Identity have been restored. This document also assumes all AWS services have been fully restored to an operational state.
+The OCTO Platform team maintains the vets-api infrastructure. The following repositories contain modules, controllers, and components configured by Identity Platform team:
 
-Login.gov infrastructure is maintained by the Login.gov team; completion of the recovery steps in this document assumes that the Login.gov outage has been resolved and the service is again available at the production level.
+- `vets-api`
+- `vets-website`
+- `devops`
+- `vsp-infra-application-manifests`
 
-### Contact Information
+The system recovery plan assumes:
 
-Product Manager, Technical Lead, and dependent system contacts for incidents in the communications section below can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md#identity-team-incident-contacts).
+1. These repositories are fully functional.
+2. The infrastructure running these services was restored to the last available good state.
+
+The system recovery plan includes steps needed to restore critical OCTO Identity services.
+
+This document also assumes all AWS services have been fully restored to an operational state.
+
+Login.gov infrastructure is maintained by the Login.gov team. Completion of the recovery steps in this document assumes that the Login.gov outage has been resolved and the service is again available at the production level.
+
+## Contact information
+
+For incident communications, refer to [contacts for the Identity Platform team and dependent systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md#identity-team-incident-contacts).
 
 ## Communications
 
-In the event all Login.gov authentication options are lost in VA.gov, all of our Login.gov components monitored by Datadog should be alerting with `No Data` and the on-call support individual will be contacted via PagerDuty. When the on-call person identifies that none of the Login.gov authentication options are functioning, the following methods of contact should be used:
+In the event all Login.gov authentication options are lost in VA.gov, all of our Login.gov components monitored by Datadog should be alerting with `No Data`. The on-call support individual will be contacted via PagerDuty. When the on-call person identifies that none of the Login.gov authentication options are functioning, the following methods of contact should be used:
 
 1. On-call person should contact the team Product Manager (PM) / Technical Lead and request they notify the other engineers for troubleshooting.  
 2. Team PM / Technical Lead should start a thread in the [`#identity-support`](https://dsva.slack.com/archives/CSFV4QTKN) channel in the DSVA Slack workspace for communication with platform teams and customers.  
-3. Team PM / Technical Lead / Engineer should contact the Login.gov POC to open communication regarding system restoration. Login.gov POC and ticket submission information can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md\#logingov-sign-in).
+3. Team PM / Technical Lead / Engineer should [contact the Login.gov POC to open a ticket](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Support-Contacts.md\#logingov-sign-in) regarding system restoration.
 
-## Technical Recovery Details
+## Technical recovery details
 
-Once we have received notice that Login.gov has recovered, the following steps should be followed to bring back the components of the OCTO Identity platform:
+There are no technical recovery steps required of the Identity team. The OCTO Platform Team will notify the Identity Platform team when [VA.gov](http://va.gov/) infrastructure is restored.
 
-1. There are no technical recovery steps required of the Identity team.
-
-## Recovery Verification Steps
+## Recovery verification steps
 
 1. Confirm Critical Monitors have recovered:  
    1. [Production Login.gov Auth Success Rate Threshold Crossed SSOe](https://vagov.ddog-gov.com/monitors/120105?view=spans)  
