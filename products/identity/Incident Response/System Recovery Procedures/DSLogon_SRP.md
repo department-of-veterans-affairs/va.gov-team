@@ -1,6 +1,6 @@
-# System Recovery Plan - DSLogon
+# System Recovery Plan - DS Logon
 
-Follow these steps if the OCTO Identity Team DSLogon integration service needs to be redeployed from scratch.
+Follow these steps if the OCTO Identity Team DS Logon integration needs to be redeployed from scratch.
 
 ## Presumption
 
