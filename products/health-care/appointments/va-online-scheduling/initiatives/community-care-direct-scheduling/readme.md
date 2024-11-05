@@ -15,13 +15,15 @@
 - [CC VDSS SoPs](https://dvagov-my.sharepoint.com/:w:/g/personal/robert_meehan3_va_gov/ETsqC2BnBwJGiJuFsrBzdHABjHqlpcjoWh2TdN1lrKEB1g?e=aNMiDe)
 
 #### Design Artifcats
-- [Figma designs](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=2490-44318&t=4E3sLy8lYzxyOpUL-1)
-- [User and data flows (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/r/1675718737504?folderUuid=30f4b508-9720-4ebf-8105-40700da3c6aa)
+- [MVP Wireframes](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=2490-44318&t=4E3sLy8lYzxyOpUL-1)
+- [CC VSS After Consult Approval Workflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717007634301/2e9fa61206c18e8cf196e2deb612eb0b577fb458)
+- [CC VSS Referral to VA Notify Workflow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1724857034587/50f5a6735d13d9273970da070a5573385dd7fb2c)
 
 #### Engineering Artifacts
 - [Care Nav API Endpoints (SharePoint)](https://dvagov.sharepoint.com/:x:/s/HealthApartment/EVXEu66555xIs5UMghBrAvIBjUuwc-AMyLC_YsCmTJfQbg?e=Ec9AuH)
+- [Wellhive API Docs](https://github.com/wellhive/api-docs)
 - [External Referral Appointment Scheduling System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/architecture/community-care-technical-documentation.md)
-- [Requesting access to Palantir for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/referral/access-to-planatir.md)
+- ~[Requesting access to Palantir for referrals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/referral/access-to-planatir.md)~
 
 ## Overview
 
@@ -31,7 +33,6 @@
 
 **More information:** [Cleland Dole Act PDF](https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf)<br>
 Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2023 | Congress.gov | Library of Congress (Section 121, 125, 132, 133)
-
 
 ### CC scheduling current state
 
