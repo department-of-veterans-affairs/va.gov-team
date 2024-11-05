@@ -2,7 +2,7 @@
 
 [DRAFT]
 
-## Top findings
+## Top findings for category organization
 
 ### Finding #1: For both upcoming and past, participants created clearly defined Appointments sections.
 
@@ -17,10 +17,10 @@
 
 ### Finding #2: Participants created categories that separated tasks/statuses from static Appointment information. For upcoming appointments, 8 participants created a dedicated section focused mostly on pre-appointment info and actions. For past appointments, 14 participants created a category for post-appointment info and actions. 
 
-### Upcoming: 
+#### Upcoming: 
 8 participants created a Before appointment category with pre-appointment tasks.
 
-### Past: 
+#### Past: 
 Participants created three different sections for actions that come after the appointment. Most popular was Post-appointment information and actions, often overlapping with travel reimbursement and payments/financial information.
 
 
