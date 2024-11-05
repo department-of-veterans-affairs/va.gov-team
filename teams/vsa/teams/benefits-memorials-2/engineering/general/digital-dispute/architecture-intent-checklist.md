@@ -39,7 +39,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Describe new or modified databases, tables or columns
     + Describe indexes and constraints
     + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
-- [ ] Libraries and dependencies
+- [x] Libraries and dependencies
     + [VA Forms Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)
 - [ ] Metrics, logging, observability, alerting
     + Monitoring submissions is key, with alerts if there's an issue with submitting to `vets-api`
@@ -52,9 +52,8 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + List scope of any feature flags
     + Identify other teams to coordinate with
     + Describe rollback plan
-- [ ] Internal administration tasks
-    + What maintenance or administration tasks do you anticipate will need to be performed periodically?
-    + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
+- [x] Internal administration tasks
+    + Likely no regular maintenance or admin tasks that need to be  completed regularly.
 - [ ] Security
     + What questions do you have regarding items on the security checklist?
     + Are there any other security concerns about your project that you want to discuss?
