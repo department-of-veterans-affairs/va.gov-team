@@ -57,19 +57,19 @@ va.gov/education/gi-bill/post-9-11/ch-33-benefit/status/print/ | va.gov/educatio
 - Change to: Check your remaining Post-9/11 GI Bill benefits
 ![PGIB 3](https://github.com/user-attachments/assets/0066e2a3-7df2-49ac-85d6-f0f445a2bfbf)
 
-**1) Education hub page - Existing**
+**2) Education hub page - Existing**
 - Update text in the 'Manage your Veterans education benefits' section of the [Education hub page](https://www.va.gov/education/).
 - Current text: Check Post-9/11 GI Bill Statement of Benefits
 - Change to: Check your remaining Post-9/11 GI Bill benefit
 - ![PGIB 5](https://github.com/user-attachments/assets/dc1e3275-917e-499a-9ea0-555ae3c95668)
 
 
-**1) Left Nav of Education hub - Existing**
+**3) Left Nav of Education hub - Existing**
 - Current text: Check Post-9/11 GI Bill Statement of Benefits
 - Change to: Check your remaining Post-9/11 GI Bill benefits
 ![PGIB 4](https://github.com/user-attachments/assets/f3087695-b45d-43a7-a255-88171e55e90c)
 
-**1) MyVA page - Existing**
+**4) MyVA page - Existing**
 - Update text in the 'Education and training' section of the [MyVA page](https://staging.va.gov/my-va/).
 - Current text: Check your Post-9/11 GI Bill benefits
 - Change to: Check your remaining Post-9/11 GI Bill benefits
