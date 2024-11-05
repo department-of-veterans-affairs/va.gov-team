@@ -30,8 +30,10 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Describe expected call patterns
 - [ ] External API changes
     + List new or modified APIs for upstream or external systems
+      + We will be utilizing existing VBA endpoints to submit this new data. 
     + Describe expected call patterns
     + What PII or PHI will be transmitted to/from the external systems?
+      + Veteran name, address, SSN, selected debt information
 - [ ] Background jobs
     + List any required background processing
     + Describe error and dead letter handling
