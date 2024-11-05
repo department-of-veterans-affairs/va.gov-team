@@ -8,7 +8,6 @@
 
 |Stakeholder|Business area|
 |:--|:--|
-|Jennifer Mcalinden|VHA Caregiver Support|
 |Mary Ewers|VHA Caregiver Support|
 |Samantha Stewart|VHA Caregiver Support|
 |Amanda Scully|VHA ECM (Enrollment Case Management)|
