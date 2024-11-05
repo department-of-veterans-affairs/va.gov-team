@@ -20,6 +20,12 @@ Keep these items in mind while working through the **Steps** section below:
 - For quick communication/solutioning, prefer Slack Huddles or other video conferencing tools. After a huddle, **be sure to provide the key takeaway in writing** and share it to any relevant incident tickets/slack threads.
 - For visibility, keep all conversations relevant to the incident inside of the main DSVA  [#ivc-forms](https://dsva.slack.com/archives/C05UDS77ZPH) channel.
 
+## Key Personnel
+
+- Product Owner (PO): Premal Shah
+- Product Manager (PM): Bo Altes
+- Delivery Manager (DM): Andrea Merrill
+
 ## Steps
 
 When this monitor is triggered, follow these steps.
@@ -42,6 +48,7 @@ Resolution
 - IVC Forms engineering will provide updates on development and deployment of a solution and its status in each environment.
 - IVC Forms engineering will notify PM and DM when resolved
 - IVC Forms engineering will monitor outstanding missing statuses and ensure they are cleared appropriately. No statuses should be deleted or cleared without agreement from PO and/or PM.
+- Missing statuses can be changed to 'manually cleared' if a ticket to fix what caused the issue has been documented and sent to PM.  Notify PM that the status is being changed.
 - If traffic to the site has been altered, PO or PM will determine when to return to previous levels
   
 
