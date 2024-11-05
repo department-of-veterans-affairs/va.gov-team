@@ -10,6 +10,7 @@ Some of the items below may not apply to your work--that's okay. You may not be 
 
 - Product description
   - Brief overview of motivation for the change from an engineering & security point of view
+       - Initially, the facility selection page was based on U.S. State dropdown selection, then a facility dropdown selection, derived from a static JSON file. This caused our facilities list to easily be out-of-date and inaccurate.  We want to provide applicants with the option to search by city, state or postal code of any given facility, using the latest data from the Facilities API.
   - [Link to Collaboration Cycle Request issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51980)
 - UX design description
   - For user-facing changes, link to UX prototype or wireframes if available
@@ -18,7 +19,7 @@ Some of the items below may not apply to your work--that's okay. You may not be 
     - Overall, it is a fairly simple feature. We added two new api calls and a custom page component since we do not do this design anywhere else. We did have to build the front end component to handle both the selection and review aspects, as we were not able to use the built in forms library functionality for the review page here.
 - Frontend changes
   - Identify any significant code changes
-    - New `FacilitySearch.jsx` custom component that uses the `VaSearchInput` component and makes a request to the mapbox api with search criteria (zip code, city, state, or full address) and returns lat/long coordinates that are used to make a reuqest to the new caregivers facilities endpoint in `vets-api` that calls the Lighthouse facilities api from `vets-api`.
+    - New `FacilitySearch.jsx` custom component that uses the `VaSearchInput` component and makes a request to the mapbox api with search criteria (zip code, city, state, or full address) and returns lat/long coordinates that are used to make a request to the new caregivers facilities endpoint in `vets-api` that calls the Lighthouse facilities api from `vets-api`.
     - All changes are within the `caregivers` directory
   - Identify any new design system components needed or changes to current components
     - None
