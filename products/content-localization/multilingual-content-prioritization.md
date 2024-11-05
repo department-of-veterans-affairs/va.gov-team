@@ -42,7 +42,8 @@ Population data shows the following for total volume of language need:
 
     - Of the top 3 bilingual Veteran populations by race or ethnicity, the Hispanic or Latino Veteran population is projected to have the most growth over the coming decades.This group is projected to grow to be 12% of the total Veteran population by 2044. (Reference 3)
     
-    ![image](https://user-images.githubusercontent.com/62957278/176435994-9474b39c-babd-4ea3-9124-ea61335b016b.png)
+![Hispanic and Latino growth in military](https://github.com/user-attachments/assets/747a7bf5-a518-4a1b-971f-1bbe97259a7e)
+
 
     - 16% of active-duty spouses and 12% of reserve component spouses identify as Hispanic or Latino.
     - 2019 DoD survey of active-duty spouses
