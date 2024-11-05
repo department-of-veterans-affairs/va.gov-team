@@ -69,17 +69,17 @@ We asked users to consider how they would use Contact us to find answers or cust
 
 ## Key Findings
 ### Behavior and expectations
-1. People scan for words related to their issue to find help and/or contact info.
-2. People expected the jump links to direct them to another page.
-3. People weren't sure about the purpose of "Helpful online tools."
-4. Some people related "Contact us online through Ask VA" to chat support.
-5. Some people misinterpreted "Resources and support" but understood "FAQs."
-6. Some people weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
+1. (7 out of 10 people) People scan for words related to their issue to find help and/or contact info.
+2. (4 out of 10 people) People expected the jump links to direct them to another page.
+3. (3 out of 10 people) People weren't sure about the purpose of "Helpful online tools."
+4. (4 out of 10 people) People related "Contact us online through Ask VA" to chat support.
+5. (4 out of 10 people) People misinterpreted "Resources and support" but understood "FAQs."
+6. (2 out of 10 people) People weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
    
 ### Preferences
-7. People prefer more direct phone numbers.
-8. People prefer using search, but searches aren't always successful on VA.gov.
-9. People prefer talking to real people and online messaging (chat or email).
+7. (5 out of 10 people) People prefer more direct phone numbers.
+8. (x out of 10 people) People prefer using search, but searches aren't always successful on VA.gov.
+9. (x out of 10 people) People prefer talking to real people and online messaging (chat or email).
 
 ## Details of Findings 
 Labels that apply to all findings: `AUD: Veterans`, `PRDT: Contact us`, `RESRCH: Remote`, `RESRCH: Usability Testing`, `VAT: Office Chief Technology Officer (OCTO)`
@@ -88,6 +88,8 @@ Labels below each finding are apply only to the finding.
 
 ### Behavior and expectations
 #### People scan for words related to their issue to find help and/or contact info.
+Scope: x out of 10 people
+
 Labels: `TREND: Content`, `TREND: Browsing`
 
 In each scenario, people would scan the Contact us page for related keywords, such as "website access" and "request more compensation." 
@@ -105,6 +107,8 @@ For the claims scenario, many people gravitated towards the "Check your VA claim
 >  I could do this, the claim or appeal... they could check the status of my disability. And also, they could probably update my my disability or give me information if I can apply for greater disability or greater payment.
 
 #### People expected the jump links to direct them to another page.
+Scope: Scope: x out of 10 people
+
 Labels: `DSC: On this page jump link`
 
 After selecting the links, some people would continue scrolling and miss the content of the original link they selected. Not everyone recognized when this happened.
@@ -120,6 +124,8 @@ When there are a lot of options on one page, it can be hard to focus and pause o
 > I guess there's too many options. It needs to be more, here's your main thing to do to get to where you need to be.
 
 #### People weren't sure about the purpose of "Helpful online tools."
+Scope: Scope: x out of 10 people
+
 Labels: `DSC: Link - Collection`, `TREND: Content`
 
 People didn't understand how the "Helpful online tools" section would help them find contact information or help. Two participants said the section was "unrelated" and "repetitive."
@@ -132,7 +138,9 @@ Some people just overlooked the "Helpful online tools" label and skipped to the 
 
 > When you get a hyperlink like this where it says, "Change your address," or anything like that, you click on that, and it'll take you right to the page that you need to go to the either change the address or change the direct deposit or you need to change your VA claim or anything.
 
-#### Some people related "Contact us online through Ask VA" to chat support.
+#### People related "Contact us online through Ask VA" to chat support.
+Scope: x out of 10 people
+
 Labels: `TREND: Content`
 
 While some people interpreted "Contact us online through Ask VA" correctly, some did not. Ask VA is a contact form. Some people thought it was related to chat. They focused on the label and less on the descriptive text below it. 
@@ -145,7 +153,9 @@ While some people interpreted "Contact us online through Ask VA" correctly, some
 
 > Now it looks like I may be able to get kind of a chat going. That's what I would think so. Because if it's online, it has to be some kind of chat, am I correct?... Oh, it doesn't say question and answer. I just put that in myself.  
 
-### Some people misinterpreted "Resources and support" but understood "FAQs."
+### People misinterpreted "Resources and support" but understood "FAQs."
+Scope: x out of 10 people
+
 Labels: `TREND: Content`
 
 "Resources and support" is a separate area on VA.gov. It provides more specific support-related content that doesn't fit under benefits hub pages. People interpreted the words "resources" and "support" differently.
@@ -160,7 +170,9 @@ They understood what FAQs were.
 
 > Frequently asked questions popped in my head as something I should look at to see if it's something that could be of assistance.
 
-### Some people weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
+### People weren't sure how "VA benefits hotline" and "VA health benefits hotline" are different.
+Scope: x out of 10 people
+
 Labels: `TREND: Content`
 
 Some people understood there might be a difference, but they weren't sure what the difference between these numbers is.
@@ -171,6 +183,8 @@ Some people understood there might be a difference, but they weren't sure what t
 
 ### Preferences
 #### People prefer more direct phone numbers.
+Scope: x out of 10 people
+
 Labels: `DSC: Telephone`
 
 People overwhelmingly don't have high expectations for phone calls. They prefer more direct phone numbers to mitigate the risk of long hold times, generic answers, transfers, and unhelpful phone agents.
@@ -190,6 +204,8 @@ VA markets the MyVA411 number to [reduce the complexity of trying to find the ri
 > The further away from the locale you are in almost every institution, the more difficult. I mean, whether it's the Social Security office here in town versus calling a 800 number, 800 numbers are just not as successful for me, I would guess.
 
 ### People prefer using search, but searches aren't always successful on VA.gov.
+Scope: x out of 10 people
+
 Labels: `TREND: Search`, `PRDT: On-site-search`, `DSC: Search Input`
 
 People tried searching for answers on VA.gov either through the main search tool or the search on the "Resources and support" page. Most people weren't successful with finding an answer. 
@@ -205,6 +221,8 @@ People suggested a better search to improve the Contact us page and VA.gov.
 > So it's just a matter of a search bar that is not limited
 
 ### People prefer talking to real people and online messaging (chat or email).
+Scope: x out of 10 people
+
 Labels: `PRDT: Secure-messaging`, `MHV: Secure Messaging`, `PRDT: AVA`
 
 People like talking to real people and dislike automation, like phone trees and chatbots. Automation doesn't work as well (right now) as talking to a real person.
