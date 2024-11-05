@@ -6,7 +6,28 @@
 Based on information from teams, we wanted to discover how we might revise the address fields in the Contact Information section (product) of the Profile page on VA.gov.
 
 Observations leading to this thinking included:
--   The unusual structure of the address fields in Contact Information: "Street address", "Street address line 2", and "Street address line 3"
+- The unusual structure of the address fields in Contact Information: "Street address", "Street address line 2", and "Street address line 3"
 
--   Ad
+- That these do not match patterns in PDF versions of forms
 
+- Current hint text may not match the mental modesl of users nor the models of forms 
+
+Based on this, we wanted to discover any technical or pattern blocks to simplifying the forms, with the hypothesis that this could lead to fewer entry errors, which in turn would lead to better delivery of services to Veterans.
+
+## Activities
+
+- Review the existing work on Contact Information address screens
+
+- Work with BE engineers to map out how the data from Contact Information is stored and accessed by other teams, products and forms
+
+- Hold conversations with teams that manage and consume this data
+
+- Discover whether the three fields are all critical to any systems
+
+- Collaborate to build a visual map of the data paths and availability from the Contact Information product
+
+## Artifacts
+
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730232487967/085a6a71cecae9478490ce491e2b618130ea64f5)
+
+[Existing digitized forms](https://docs.google.com/spreadsheets/d/1rJ9TeLPWuBzMeOGka9LUvDqnieJNNai0O49utpFvNFo/edit?gid=1369494017#gid=1369494017)
