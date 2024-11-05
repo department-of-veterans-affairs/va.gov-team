@@ -8,16 +8,16 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 
 ## Checklist
 
-- [ ] Product description
-    + Brief overview of motivation for the change from an engineering & security point of view
-    + Link to Collaboration Cycle Request issue
-- [ ] UX design description
-    + For user-facing changes, link to UX prototype or wireframes if available
-    + Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
-- [ ] Frontend changes
-    + Identify any significant code changes
-    + Identify any new design system components needed or changes to current components
-    + Describe any product analytics being gathered
+- [x] Product description
+    + Establish an online process for Veterans to dispute VBA Benefit Overpayment debts.
+    + [Collaboration Cycle for Debt Resolution - Digital Debt Dispute #95575](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/95575)
+- [x] UX design description
+    + [High level user flow](https://www.figma.com/design/D8tfoPhUZlqBUomMTxzkQb/Dispute-Form-(VHA-VBA)?node-id=1-339&node-type=section&t=goKw5ro0hQI1r0kX-0)
+    + [Figma initial page designs](https://www.figma.com/design/D8tfoPhUZlqBUomMTxzkQb/Dispute-Form-(VHA-VBA)?node-id=19-220&node-type=canvas&t=SBl5HnEgdHTYujeY-0)
+- [x] Frontend changes
+    + Creating new form application with VA Forms Library
+    + All of the pages leverage existing components/functionality that we can generate with the Forms Library or source from the existing FSR 
+    + It's a petty short form, so we're not expecting any significant coding challenges (knock on wood)
 - [ ] Backend changes
     + Does the project introduce any new or unusual infrastructure dependencies?
     + Do you need to poll any APIs for status?
@@ -39,14 +39,14 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Describe indexes and constraints
     + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
 - [ ] Libraries and dependencies
-    + List new or updated dependencies
+    + [VA Forms Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)
 - [ ] Metrics, logging, observability, alerting
-    + Identify key areas to monitor
+    + Monitoring submissions is key, with alerts if there's an issue with submitting to `vets-api`
 - [ ] Infrastructure and network changes
     + List any changes or additions
 - [ ] Test strategy
-    + Describe automated, manual and user acceptance test strategy
-    + Describe required test data and test user accounts
+    + We will utilize Cypess for e2e testing and include unit tests for helpers & custom components. 
+    + We can leverage our existing test users for this new application
 - [ ] Rollout plan
     + List scope of any feature flags
     + Identify other teams to coordinate with
