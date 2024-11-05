@@ -1,0 +1,61 @@
+## VetsAPI Sprint 23 Planning
+Sprint 23: 11/5/24 - 11/18/24
+
+## 📅 Upcoming Dates  & 🏖️ PTO
+* 
+
+
+## 📣 Announcements
+* Lauren Alexanderson gave a prod date of December 2024
+
+## 🏆 Overarching Goals
+* 🔴 Appointment Cancellation
+* 🟢 Appointment Requests
+  * 🟩 Add support for routing appointment requests to VetsAPI Patient Gateway
+  * 🟩 🟦 Implement Patient Eligibility verification at Oracle Health sites 
+* 🔵 Direct Scheduling
+  * 🟦 Support Oracle Health slot search
+  *  🟩 🟦 Implement Patient Eligibility verification at Oracle Health sites
+* 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
+* 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
+* 🟣 Testing/Admin/Operational Support
+ 
+## 📋 Previous Sprint Summary:
+In Sprint 22 the team provided support for multiple features and initiatives, outlined as follows:  
+* #### Backend support for Oracle Health to enable direct scheduling
+   * [#94556 VPG: Test OH booked appointment reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94556)
+   * [#95579 CES-1200: VPG: filter out missing ReasonCode Coding elements from FHIR Appointments](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95579)
+   * [#95578 CES-1201: VPG: Populate minutesDuration field for Cerner appointments](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95578)
+   * 🐞[#95850 CES-1234: VPG: ensure that default paging values are used on Clinics endpoint](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95850)
+   * 🐞 [#95753 CES-1214: VPG: clinics endpoints is incorrectly enforcing JWT resource constraints](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95753)  
+* #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
+    * [#95614 CES-1208: Add restrict resource list](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95614)
+    * [#95612 CES-1166: Address logging issues and test coverage](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95612)
+* #### Backend support for Slot Search for Appointment Requests
+   * 
+* #### Backend support for Oracle Health to enable Appointment Cancellation
+   * [#81329 Add careType eligibility logic to cancellation business rules document](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81329)
+  * [#94547 Remove unused feature flag for OH reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94547)
+* #### Backend support for Oracle Health to enable appointment requests
+  * [#94555 VPG: Test OH proposed appointment reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94555) 
+* #### Testing/Admin/Operational Support
+   * [#95576 CES-1203: VPG: add property value descriptions](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95576)
+
+## 🏆 Sprint Goals and Stories
+🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
+* 🟡 Build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
+    * 🚧 [#94576 CES-917: Unify appointment search parameters](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94576)
+    * 🚧 [#94543 Migrate VAOS appointment sepcs to separate files](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94543)
+    * 🚧 [#95577 CES-1202: update to mobile-framework 2.2.0](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95577) 
+* 🔵 Direct Scheduling
+  
+* 🔴 Appointment Cancellation
+ 
+* 🟢 Appointment Requests
+
+* 🟣 Testing/Admin/Operational Support
+  * 🚧 [#93478 Add alternate global route for vaos module](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/93478)
+  
+
+
+## ✈️ Planned Releases
