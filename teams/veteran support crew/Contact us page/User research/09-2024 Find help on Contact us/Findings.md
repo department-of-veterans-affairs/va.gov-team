@@ -84,7 +84,7 @@ We asked users to consider how they would use Contact us to find answers or cust
 ## Details of Findings 
 Labels that apply to all findings: `AUD: Veterans`, `PRDT: Contact us`, `RESRCH: Remote`, `RESRCH: Usability Testing`, `VAT: Office Chief Technology Officer (OCTO)`
 
-Labels below each finding are apply only to the finding.
+Labels below each finding apply only to the finding.
 
 ### Behavior and expectations
 #### People scan for words related to their issue to find help and/or contact info.
