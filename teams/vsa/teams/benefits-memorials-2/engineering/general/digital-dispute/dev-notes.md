@@ -28,7 +28,6 @@ I think ideally we stick with as much vanilla form system stuff as we can. I do 
 ](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/82950)
 
 ### Platform docs
-- <a href="https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview" target="_blank">VA Forms Library Overview</a>
 - [VA Forms Library Overview](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)
   - Steps for making a new form all in one spot
 - [VA Forms Library - Getting Started with the Forms Library: Create a new form application with Yeoman generator](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-getting-started-with-the-forms-li)
