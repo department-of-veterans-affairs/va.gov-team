@@ -43,6 +43,7 @@
   - Enable for 50% and monitor key metrics.
 
 - **Monitoring & Logging:** Real-time tracking with alerts for critical issues.
+- *Before moving to Phase 2 - Revisit requirements, confirm whether we want to call for all applications or solely VA.gov
 - **User Feedback Collection:** Gather initial user feedback, record bugs or usability issues.
 - **Fixes & Adjustments:** Analyze data and user feedback for immediate bug fixes.
 
