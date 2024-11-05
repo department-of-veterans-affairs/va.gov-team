@@ -1,5 +1,18 @@
 # Design Weekly Sync Agenda
 
+## 2024-11-04
+Attendees: Angela, Hieu, Jessica, Lois, & Renata.
+
+#### EZR updates
+- Social Listening Presentation Deck is almost done, needs review/polish.
+- Zero Silent Failure is being deployed.
+- Next of Kin is in the process
+- Ideation workshop for the Social Listening work coming soon.
+
+#### CG Synthesis
+- Team discuss findings and refinements to the the findings.
+
+
 ## 2024-10-28
 Attendees: Angela, Hieu, Jessica, & Lois.
 
