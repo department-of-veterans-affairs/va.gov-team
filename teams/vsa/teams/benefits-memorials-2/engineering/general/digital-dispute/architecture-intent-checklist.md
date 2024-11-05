@@ -14,6 +14,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - [x] UX design description
     + [High level user flow](https://www.figma.com/design/D8tfoPhUZlqBUomMTxzkQb/Dispute-Form-(VHA-VBA)?node-id=1-339&node-type=section&t=goKw5ro0hQI1r0kX-0)
     + [Figma initial page designs](https://www.figma.com/design/D8tfoPhUZlqBUomMTxzkQb/Dispute-Form-(VHA-VBA)?node-id=19-220&node-type=canvas&t=SBl5HnEgdHTYujeY-0)
+    + Design intent scheduled for Nov 7, 2024@1:30pm EST
 - [x] Frontend changes
     + Creating new form application with VA Forms Library
     + All of the pages leverage existing components/functionality that we can generate with the Forms Library or source from the existing FSR 
