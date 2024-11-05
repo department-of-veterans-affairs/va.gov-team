@@ -1,4 +1,4 @@
-# Sample STS Service Account Checklist
+# MHV Account Creation - Staging Checklist
 
 ## Tasks
 
@@ -12,6 +12,7 @@
 - [ ] Deploy Sign-in Service integration to production
 - [ ] Verify production integration and monitor
 - [ ] Leave feedback on your experience integrating with Sign-in Service
+
 ## Notes
 - Ensure all feedback is documented.
 - Monitor performance metrics post-deployment.
