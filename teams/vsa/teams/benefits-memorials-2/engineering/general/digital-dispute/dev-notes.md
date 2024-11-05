@@ -2,10 +2,11 @@
 I think ideally we stick with as much vanilla form system stuff as we can. I do believe there's generic platform components for both Veteran Info and Contact information, so we can even leverage those for this new app instead of lifting from FSR. Besides that it's looking like a radio button and text input field with varying copy depending on radio button selection. 
 
 ## Stuff we need 
-- [ ] Initial designs
-- [ ] URL name
+- [ ] **Initial designs**
+- [ ] **URL name** - must have to really start dev work
   - Generally decided with CAIA input
-- [ ] Form name (in `vets-website`)
+- [x] Form name (in `vets-website`)
+  - `digital-dispute` seems the most reasonable
 - [ ] Form submission destination (in `vets-api`)
 - [ ] Background jobs? (`vets-api`)
 - [ ] Data storage? (`vets-api`)
