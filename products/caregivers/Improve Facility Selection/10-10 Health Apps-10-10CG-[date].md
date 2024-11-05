@@ -15,6 +15,7 @@ Some of the items below may not apply to your work--that's okay. You may not be 
   - For user-facing changes, link to UX prototype or wireframes if available
     - [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=2478-18708&node-type=SECTION&t=LIbnyXIFEnPa5jZz-0)
   - Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
+    - Overall, it is a fairly simple feature. We added two new api calls and a custom page component since we do not do this design anywhere else. We did have to build the front end component to handle both the selection and review aspects, as we were not able to use the built in forms library functionality for the review page here.
 - Frontend changes
   - Identify any significant code changes
     - New `FacilitySearch.jsx` custom component that uses the `VaSearchInput` component and makes a request to the mapbox api with search criteria (zip code, city, state, or full address) and returns lat/long coordinates that are used to make a reuqest to the new caregivers facilities endpoint in `vets-api` that calls the Lighthouse facilities api from `vets-api`.
