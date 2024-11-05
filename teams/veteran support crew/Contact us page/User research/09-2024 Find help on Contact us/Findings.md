@@ -56,16 +56,16 @@ We asked users to consider how they would use Contact us to find answers or cust
 -	Increasing disability compensation for an existing condition
 
 ## Hypotheses and Conclusions
-|Hypothesis|Conclusion|Explanation|
-|:--|:--|:--|
-|Most of the time, people will be able to find general answers to questions online.|Likely false|Most participants couldn't find answers to in each scenario.|
-|It will be more difficult for people to find personalized answers online.|Not enough information|Many people expected to sign in to find answers in each scenario. We didn't test the authenticated experience of searching for answers on VA.gov|
-|People will primarily use the headings to navigate to each section to find answers or contact information.|Definitely true|Almost all of the participants primarily read the headings aloud when scanning pages. They usually skipped over descriptions.|
-|People will prefer different contact channels in different contexts.|Mostly true|Most participants chose different contact channels for each scenario. However, some participants also expressed strong preferences for specific channels regardless of context, like VA secure messaging or talking to a live person.|
-|People will choose more direct phone numbers rather than general lines to avoid being transferred.|Definitely true|If they chose to call, most participants chose a specific number rather than the MyVA411 main information line. Some even expressed distrust of national phone support numbers in general.|
-|People won’t be highly confident they’re choosing the right phone number with current phone number details.|Likely False|Most participants were able to choose a phone number with current details available. However, some still expected to be transferred after calling. And some were uncertain about the differences between certain numbers, like the VA benefits hotline compared to the VA health benefits hotline.|
-|People primarily use Contact us to look for ways to contact VA (like phone numbers).|Not enough information|We only briefly asked about people's previous experiences contacting VA. Some participants mentioned the Contact us page and some didn't.|
-|People don’t expect to find answers to questions from Contact us.|Not enough information|While some participants ended up navigating to other pages from Contact us, we don't know if they expected this experience starting from the Contact us page. Some weren't surprised at seeing the FAQs section though.|
+|Hypothesis|Conclusion|Explanation|Scope
+|:--|:--|:--|:--|
+|Most of the time, people will be able to find general answers to questions online.|Likely false|Most participants couldn't find answers to in each scenario.|7/10 doesn't support hypothesis|
+|It will be more difficult for people to find personalized answers online.|Not enough information|Many people expected to sign in to find answers in each scenario. We didn't test the authenticated experience of searching for answers on VA.gov|6/10 neither support nor disprove|
+|People will primarily use the headings to navigate to each section to find answers or contact information.|Definitely true|Almost all of the participants primarily read the headings aloud when scanning pages. They usually skipped over descriptions.|8/10 supports hypothesis|
+|People will prefer different contact channels in different contexts.|Mostly true|Most participants chose different contact channels for each scenario. However, some participants also expressed strong preferences for specific channels regardless of context, like VA secure messaging or talking to a live person.|6/10 supports hypothesis|
+|People will choose more direct phone numbers rather than general lines to avoid being transferred.|Definitely true|If they chose to call, most participants chose a specific number rather than the MyVA411 main information line. Some even expressed distrust of national phone support numbers in general.|8/10 supports hypothesis|
+|People won’t be highly confident they’re choosing the right phone number with current phone number details.|Likely False|Most participants were able to choose a phone number with current details available. However, some still expected to be transferred after calling. And some were uncertain about the differences between certain numbers, like the VA benefits hotline compared to the VA health benefits hotline.|6/10 doesn't support hypothesis|
+|People primarily use Contact us to look for ways to contact VA (like phone numbers).|Not enough information|We only briefly asked about people's previous experiences contacting VA. Some participants mentioned the Contact us page and some didn't.|7/10 neither support nor disprove|
+|People don’t expect to find answers to questions from Contact us.|Not enough information|While some participants ended up navigating to other pages from Contact us, we don't know if they expected this experience starting from the Contact us page. Some weren't surprised at seeing the FAQs section though.|5/10 neither support nor disprove|
 
 ## Key Findings
 ### Behavior and expectations
