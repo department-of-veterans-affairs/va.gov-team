@@ -18,15 +18,15 @@
 ### Finding #2: Participants created categories that separated tasks/statuses from static Appointment information. For upcoming appointments, 8 participants created a dedicated section focused mostly on pre-appointment info and actions. For past appointments, 14 participants created a category for post-appointment info and actions. 
 
 #### Upcoming: 
-8 participants created a Before appointment category with pre-appointment tasks.
+- 8 participants created a Before appointment category with pre-appointment tasks.
 
 #### Past: 
-Participants created three different sections for actions that come after the appointment. Most popular was Post-appointment information and actions, often overlapping with travel reimbursement and payments/financial information.
+- Participants created three different sections for actions that come after the appointment. Most popular was Post-appointment information and actions, often overlapping with travel reimbursement and payments/financial information.
 
 
 ### Finding #3: 8 Participants created canceling/rescheduling categories, and canceling/rescheduling tasks were often separate from other tasks/information
 
-Findings:
+#### Upcoming:
 - Canceling/rescheduling: 8 participants created Canceling/rescheduling groups in which they put Cancel and schedule actions and information together, often along with appointment change information
 
 
@@ -45,8 +45,7 @@ Findings:
 
 ## Recommendations
 
-**For finding 1:**
-- For both past and upcoming, create a dedicated Appointments section/area that includes appointment information in a clearly called-out component or section (such as the appointment detail card) that is separate from other information on the page.
+- [Finding 1:](link) For both past and upcoming, create a dedicated Appointments section/area that includes appointment information in a clearly called-out component or section (such as the appointment detail card) that is separate from other information on the page.
   - Include the following information:
     - Modality,
     - provider name,
@@ -55,17 +54,16 @@ Findings:
     - Location,
     - type of care,
     - clinic phone number
-- Either include the schedule action link as part of the appointments section or separate out on its own.
-- Either include the print button as part of that section or pull out of that section on it's own - because mentioned on many pages.
+- [Finding 1:](link) Either include the schedule action link as part of the appointments section or separate out on its own.
+- [Finding 1:](link) Either include the print button as part of that section or pull out of that section on it's own - because mentioned on many pages.
 
-**For finding 2:**
-- Create a separate section for travel reimbursement, and consider combining travel reimbursement with other payment-related items. OR consider including these actions within a post-appointment category (post appointment information or actions often overlap with travel reimbursement and payments items).
+- [Finding 2:](link) Create a separate section for travel reimbursement, and consider combining travel reimbursement with other payment-related items. OR consider including these actions within a post-appointment category (post appointment information or actions often overlap with travel reimbursement and payments items).
   - Consider including this information:
     - File for travel reimbursement
     - You filed your travel reimbursement claim for this appointment
     - Review the travel reimbursement claim you filed
     - Pay your copay
-- Whether as a separate section or within notifications, consider creating a different section/treatment of these tasks and info that apply to post and pre-appointment tasks and categories. Explore if a notifications pattern can help surface these noticeably without taking over the page
+- [Finding 2:](link) Whether as a separate section or within notifications, consider creating a different section/treatment of these tasks and info that apply to post and pre-appointment tasks and categories. Explore if a notifications pattern can help surface these noticeably without taking over the page
   - Before appointment/ pre-appointment actions and info:
     - Answer health-related questions
     - You answered health-related questions
@@ -81,7 +79,7 @@ Findings:
     - You filed your travel reimbursement claim for this appointment
     - Review the travel reimbursement claim you filed
     - Pay your copay
-- Incorporate information like checking in and confirming information into a larger category(ies) for pre/post-appointments actions and/or notifications:
+- [Finding 2:](link) Incorporate information like checking in and confirming information into a larger category(ies) for pre/post-appointments actions and/or notifications:
   - Check in now
   - You checked in
   - Review your address and contact information
@@ -89,11 +87,9 @@ Findings:
   - You answered health-related questions
   - Answer health-related questions
 
-**For finding 3:**
-- Cancel/reschedule/make changes: Stick with a dedicated cancel/reschedule/make changes section
+- [Finding 3:](link) Continue to use a dedicated cancel/reschedule/make changes section
 
-**For finding 4:**
-- Include smaller categories, such as clinic information, critical information, modifying/managing appointments, and provider details, these in bigger categories (likely the Appointments section) - consider using as sub-categories
+- [Finding 4:](link) Include smaller categories, such as clinic information, critical information, modifying/managing appointments, and provider details, these in bigger categories (likely the Appointments section) - consider using as sub-categories
   - Modify / manage appointment: Disperse this information throughout other categories where it was mentioned by participants more often.
   - Location/reason and Clinic information: Keep the information from these categories within Appointments info - or as a subsection of appointments info
   - Clinic information, Critical information, Provider details:  keep the information from these categories within Appointments info - or as a subsection of appointments info
