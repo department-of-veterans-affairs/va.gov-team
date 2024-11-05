@@ -31,3 +31,17 @@ Based on this, we wanted to discover any technical or pattern blocks to simplify
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730232487967/085a6a71cecae9478490ce491e2b618130ea64f5)
 
 [Existing digitized forms](https://docs.google.com/spreadsheets/d/1rJ9TeLPWuBzMeOGka9LUvDqnieJNNai0O49utpFvNFo/edit?gid=1369494017#gid=1369494017)
+
+[screen shot of existing form as PDF, showing "Number & street name" and "Apt./Unit" as the only two address fields]
+
+[screen shot of digitized form, showing only two address fields]
+
+## Discussion
+
+In conversations with Mike Richard of the VA Profile team and Tricia Baker of the VFF team, we learned that any change to the structure of the address fields, such as changing to two fields, would break the data structures on various backend systems. Therefore, this was not an option for any design exporation or change, at least currently. 
+However, we did leard that our existing hint text did not match any of what exists in print or digital versions of the forms that the Contact Information would pre-fill.
+
+## Recommendations
+- Do not make changes to the three-line structure of address fields in Contact Information
+
+- Build new ticket, based on research with teams that consume the Contact Information, as discovered in the course of this ticket, to build new hint text for the address fields that better match where the data will go.
