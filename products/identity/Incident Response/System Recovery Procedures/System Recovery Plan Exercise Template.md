@@ -1,14 +1,14 @@
-# System Recovery Procedure Exercise Template
+# System recovery procedure exercise template
 
 ## Objective
 
 To ensure that all team members can effectively execute the system recovery procedure.
 
-## {{ service name }} Outage exercise
+## {{ Service name }} outage exercise
 
-### Preparation Details
+### Preparation details
 
-**Responder(s):** {{ name of identity team member(s) }}
+**Responder(s):** {{ name of Identity team member(s) }}
 
 **Link to relevant SRP:** {{ github link to SRP document }}
 
