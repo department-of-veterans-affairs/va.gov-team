@@ -65,8 +65,11 @@ Some of the items below may not apply to your work--that's okay. You may not be 
     - No Changes
 - Libraries and dependencies
   - List new or updated dependencies
+    - Lighthouse Facilities API (New to the 10-10CG, but used in VA.gov)
+    - Mapbox API (New to the 10-10CG, but used in VA.gov)
 - Metrics, logging, observability, alerting
   - Identify key areas to monitor
+    - Monitor api status for mapbox api and Lighthouse facilities api
 - Infrastructure and network changes
   - List any changes or additions
 - Test strategy
