@@ -5,6 +5,10 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 11/6/24
+*   F
+
+  
 ## 10/23/24
 *   Figma account transition
     *   blue sky dream: everyone at VA is on one Organizational account
