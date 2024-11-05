@@ -15,6 +15,7 @@ Feature Toggle:
 - [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
 - [ ] Unit tests and E2E tests are complete
 - [ ] QA by Michael + ARM team
+- [ ] Enable backend feature flag `use_veteran_models_for_appoint`
 - [ ] Any third party services ready for use (frontend or backend) ❓
 - [ ] Any lingering issues that are needed to address prior to rollout?
 
