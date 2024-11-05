@@ -1,4 +1,4 @@
-# System Recovery Plan - DS Logon
+# System recovery plan - DS Logon
 
 Follow these steps if the OCTO Identity Team DS Logon integration needs to be redeployed from scratch.
 
@@ -35,7 +35,7 @@ If [VA.gov](http://va.gov/) loses OCTO Identity services, our components monitor
 There are no technical recovery steps required of the Identity team. The OCTO Platform Team will notify the Identity Platform team when [VA.gov](http://va.gov/) infrastructure is restored.
 
     
-## Recovery Verification Steps
+## Recovery verification steps
 
 1. Confirm High Monitors have recovered:  
    - [Prod External: DSLogon authentication success rate is \< 20% in the past 15 minutes](https://vagov.ddog-gov.com/monitors/119917)  
