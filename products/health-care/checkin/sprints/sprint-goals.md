@@ -12,8 +12,10 @@
 - **Community Care Direct Scheduling**
     - **Sprint Goal is to ...**
     - 🟥 [Create Userflow for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96417)
+    - FE STEP 1 - Mock Data
+        - 🟩 [Integrate referral mock ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96439)
     - FE STEP 2 - Appointments Page
-        - 🟩[Create the referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95266)
+        - 🟩 [Create the referrals and requests page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95266)
     - FE STEP 3 - Referral For Page
         - 🟩 [Hook up to the mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95269)
         - 🟩 [Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95270)
@@ -37,6 +39,7 @@
     - 🟩 [Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96034)
     - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95473)
 - **Tech Debt & Analytics**
+    - 🟥 [[Design Debt] VADS spacing updated](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96429)
     - 🟪 [VSignals & Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96180)
     - 🟦 [Recover when a text message fails on Travel Pay Submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96416)
 </details>
