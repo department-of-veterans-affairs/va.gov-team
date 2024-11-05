@@ -4,9 +4,9 @@
 
 The Proof of Veteran Status is an official document verifying Veteran status, accessible to Veterans with honorable discharges. It can be used to access discounts and other non-VA benefits without carrying a DD214 document.
 
-**2. How can I obtain and use the Proof of Veteran Status?**
+**2. How can I use the Proof of Veteran Status?**
 
-You can download and print it yourself or keep a digital copy on your mobile device. Use it to prove your Veteran status to businesses and organizations offering discounts. Acceptance may vary, so check with specific entities in advance.
+Use it to prove your Veteran status to businesses and organizations offering discounts. Acceptance may vary, so check with specific entities in advance.
 
 **3. What information does the Proof of Veteran Status include?**
 
