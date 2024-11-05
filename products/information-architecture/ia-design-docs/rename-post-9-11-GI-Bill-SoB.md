@@ -10,6 +10,7 @@
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Redirects](#redirects)
+- [Text changes](#textchanges)
 
 
 ## <a name="map"></a>Page structure<br>
@@ -48,8 +49,11 @@ va.gov/education/check-post-9-11-gi-bill-benefits/status/print/ | TBD | TBD by C
  
 
 
-## <a name="stagedrollout"></a>Staged Rollout<br>
-No
+## <a name="textchanges"></a>Text changes
+*Additional pages that povide navigational entry points to the tool need text changes to update the tool name.*
 
+**1) Education Hub page - Existing**
+- URL: va.gov/education/check-remain
 
+- 
 
