@@ -10,7 +10,6 @@
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
-    - **Sprint Goal is to ...**
     - 🟥 [Create Userflow for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96417)
     - FE STEP 1 - Mock Data
         - 🟩 [Integrate referral mock ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96439)
@@ -30,7 +29,6 @@
         - 🟦 [Implement token method in EPSService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96410)
         - 🟦 [Implement get_appointments method in EPSAppointmentService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96411)
 - **Travel Claims for Past Appts**
-    - **Sprint goal is to finish this by the end of the year**
     - 🟪 [Update Appointment Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94372)
 - **Pre-Check-in - VAHB**
     - 🟥 [Complete initial onboarding for working in VAHB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94639)
