@@ -1,6 +1,21 @@
 # VA Mobile team sprint demo meeting analytics
 
 This file serves as a high level meeting log and demo inventory for the VA Health and Benefit mobile core team.
+***
+## November 5, 2024: Sprint 109 [VA Mobile Sprint Demo - Sprint 109.pdf](https://github.com/user-attachments/files/17638741/VA.Mobile.Sprint.Demo.-.Sprint.109.pdf)
+
+
+https://adhocteam-us.zoom.us/rec/share/bgKhr4zAHl4_PECJqFuVUeMligcpZQZMspn4M8YYdILoySoIFZwZskV6nwJFRnyR.N-U74rXxJfcSDxYZ
+Passcode: T9arWY?8
+
+| Team | Topic | 
+|---|---|
+| Flagship: Global | SSO to full browser spike |
+| Flagship: Health & Benefits | Step process pattern |
+| Platform: QA & Release | Automation updates |
+| Platform: API | sprint status update |
+| Platform: Design System | Custom Focus Styling spike |
+
 
 ***
 ## October 22, 2024: Sprint 108 [VA Mobile Sprint Demo - Sprint 108.pdf](https://github.com/user-attachments/files/17481393/VA.Mobile.Sprint.Demo.-.Sprint.108.pdf)
