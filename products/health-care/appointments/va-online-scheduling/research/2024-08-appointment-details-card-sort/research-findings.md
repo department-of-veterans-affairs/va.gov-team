@@ -14,19 +14,6 @@
   - Some participants also included: Review your after visit summary (6), You completed your video appointment (5), Review or complete a clinical order (4).
   - For both Upcoming and Past card sorts, participants identified an Appointment (info) category with similar cards (and rated this category as #1 or #2 importance).
 
-#### Recommendations:
-- **For both past and upcoming, create a dedicated Appointments section/area that includes appointment information in a clearly called-out component or section (such as the appointment detail card) that is separate from other information on the page.**
-  - Include the following information:
-    - Modality,
-    - provider name,
-    - time of appointment,
-    - your reason for wanting this appointment,
-    - Location,
-    - type of care,
-    - clinic phone number
-- **Either include the schedule action link as part of the appointments section or separate out on its own.**
-- **Either include the print button as part of that section or pull out of that section on it's own - because mentioned on many pages.**
-
 
 ### Finding #2: Participants created categories that separated tasks/statuses from static Appointment information. For upcoming appointments, 8 participants created a dedicated section focused mostly on pre-appointment info and actions. For past appointments, 14 participants created a category for post-appointment info and actions. 
 
@@ -36,7 +23,42 @@
 ### Past: 
 Participants created three different sections for actions that come after the appointment. Most popular was Post-appointment information and actions, often overlapping with travel reimbursement and payments/financial information.
 
-### Recommendations
+
+### Finding #3: 8 Participants created canceling/rescheduling categories, and canceling/rescheduling tasks were often separate from other tasks/information
+
+Findings:
+- Canceling/rescheduling: 8 participants created Canceling/rescheduling groups in which they put Cancel and schedule actions and information together, often along with appointment change information
+
+
+### Finding #4: A small number of participants created categories such as provider details, clinic information, location/reason, modify / manage appointment
+
+#### Upcoming
+- Modifying/managing appointments: 4 participants included a category for modifying/managing appointments. However, there were not clear trends for the information included within the categories.
+- Location/reason: 3 participants included a category for location/reason. However, there were not clear trends for the information included within the categories and this information was mentioned more often elsewhere.
+- Clinic information: 3 participants included Clinic information categories.
+
+#### Past
+- 3 participants included a category for clinic information. However, this information was mentioned more often elsewhere.
+- 2 participants included a category for critical information. However, this information was mentioned more often elsewhere.
+- 2 participants included a category for provider details. However, this information was mentioned more often elsewhere.
+
+
+## Recommendations
+
+**For finding 1:**
+- For both past and upcoming, create a dedicated Appointments section/area that includes appointment information in a clearly called-out component or section (such as the appointment detail card) that is separate from other information on the page.
+  - Include the following information:
+    - Modality,
+    - provider name,
+    - time of appointment,
+    - your reason for wanting this appointment,
+    - Location,
+    - type of care,
+    - clinic phone number
+- Either include the schedule action link as part of the appointments section or separate out on its own.
+- Either include the print button as part of that section or pull out of that section on it's own - because mentioned on many pages.
+
+**For finding 2:**
 - Create a separate section for travel reimbursement, and consider combining travel reimbursement with other payment-related items. OR consider including these actions within a post-appointment category (post appointment information or actions often overlap with travel reimbursement and payments items).
   - Consider including this information:
     - File for travel reimbursement
@@ -67,70 +89,48 @@ Participants created three different sections for actions that come after the ap
   - You answered health-related questions
   - Answer health-related questions
 
-
-### Finding #3: 8 Participants created canceling/rescheduling categories, and canceling/rescheduling tasks were often separate from other tasks/information
-
-Findings:
-- Canceling/rescheduling: 8 participants created Canceling/rescheduling groups in which they put Cancel and schedule actions and information together, often along with appointment change information
-
-Recommendations:
+**For finding 3:**
 - Cancel/reschedule/make changes: Stick with a dedicated cancel/reschedule/make changes section
 
-
-### Finding #4: A small number of participants created categories such as provider details, clinic information, location/reason, modify / manage appointment
-
-#### Upcoming
-- Modifying/managing appointments: 4 participants included a category for modifying/managing appointments. However, there were not clear trends for the information included within the categories.
-- Location/reason: 3 participants included a category for location/reason. However, there were not clear trends for the information included within the categories and this information was mentioned more often elsewhere.
-- Clinic information: 3 participants included Clinic information categories.
-
-#### Past
-- 3 participants included a category for clinic information. However, this information was mentioned more often elsewhere.
-- 2 participants included a category for critical information. However, this information was mentioned more often elsewhere.
-- 2 participants included a category for provider details. However, this information was mentioned more often elsewhere.
-
-#### Recommendations
-- Include these in bigger categories (likely the Appointments section) - consider using as sub-categories
+**For finding 4:**
+- Include smaller categories, such as clinic information, critical information, modifying/managing appointments, and provider details, these in bigger categories (likely the Appointments section) - consider using as sub-categories
   - Modify / manage appointment: Disperse this information throughout other categories where it was mentioned by participants more often.
   - Location/reason and Clinic information: Keep the information from these categories within Appointments info - or as a subsection of appointments info
   - Clinic information, Critical information, Provider details:  keep the information from these categories within Appointments info - or as a subsection of appointments info
-
-
 
 -------
 
 ## Overall category trends
 
-### Upcoming appointments
+### Finding:
+Most participants created categories based on two methods: organizing both tasks and info into genre/type (18 for Upcoming and 25 for Past) and organizing tasks and information into different stages of an appointment (before, during, after) (13 for Upcoming and 10 for Past)
+
+#### Upcoming appointments
 Participants created categories based on the following trends:
 - By tasks & info combined and organized by genre/type (18)
 - By different stages of an appointment (before, during, after) (13)
 - By splitting out personal and appointment information (6)
 - By Info vs. tasks (0)
 
-#### Finding:
-Most participants created categories based on two methods: organizing both tasks and info into genre/type (18) and organizing tasks and information into different stages of an appointment (before, during, after) (13)
-
-#### Recommendation:
-Explore how the detail page could be formatted to organize both tasks and information based on genre/type and different stages of the appointment.
-
-### Past appointments
+#### Past appointments
 Participants created categories based on the following trends:
 - By tasks & info combined and organized by genre/type (25)
 - By different stages of an appointment (before, during, after) (10)
 - By Info vs. tasks (2)
 
-#### Finding:
-Most participants created categories based on two methods: organizing both tasks and info into genre/type (25) and organizing tasks and information into different stages of an appointment (before, during, after) (10)
-
-#### Recommendation:
+### Recommendation:
 Explore how the detail page could be formatted to organize both tasks and information based on genre/type and different stages of the appointment.
 
 -------
 
 ## Most to least mentioned categories
 
-### Upcoming appointments
+### Finding:
+The top 5 most mentioned categories for upcoming appointments were 13 Appointment (info), 13 Scheduling / making an appointment, 8 Canceling / rescheduling, 8 before appointment, 7 Checking in
+
+The top 5 most mentioned categories for past appointments were 20 Appointment (info), 14 Post appointment information and actions, 12.5 Travel reimbursement, 9.5 Payments / financial information, 4 Scheduling/setting up an appointment
+
+#### Upcoming appointments
 1. Appointment info (13)
 2. Scheduling/making an appointment (13)
 3. Canceling / rescheduling (8)
@@ -143,28 +143,23 @@ Explore how the detail page could be formatted to organize both tasks and inform
 10. Location/reason (3)
 11. Clinic information (3)
 
-#### Finding:
-The top 5 most mentioned categories for upcoming appointments were  13 Appointment (info), 13 Scheduling / making an appointment, 8 Canceling / rescheduling, 8 before appointment, 7 Checking in
+#### Past appointments
+1. Appointment info (20)
+2. Post appointment information and actions (14)
+3. Travel reimbursement (12.5)
+4. Payments / financial information (9.5)
+5. Scheduling / setting up an appointment (4)
+6. Critical information (2)
+7. Provider details (2)
 
-#### Recommendation:
-Use these as guidelines for how information could be organized on the page, prioritizing the categories that appeared most often.
-
-### Past appointments
-Appointment info (20)
-Post appointment information and actions (14)
-Travel reimbursement (12.5)
-Payments / financial information (9.5)
-Scheduling / setting up an appointment (4)
-Critical information (2)
-Provider details (2)
-Finding:
-The top 5 most mentioned categories for past appointments were .20 Appointment (info), 14 Post appointment information and actions, 12.5 Travel reimbursement, 9.5 Payments / financial information, 4 Scheduling/setting up an appointment
-Recommendation:
+### Recommendation:
 Use these as guidelines for how information could be organized on the page, prioritizing the categories that appeared most often.
 
 ------
 
 ## Where terms appeared most in categories
+
+(INCLUDE TABLE INSTEAD?)
 
 ### Upcoming
 
@@ -299,27 +294,21 @@ You checked in
 
 ## Category importance ratings
 
-### Upcoming appointments
-- Only 5 out of 24 participants numbered their categories to show which were most or least important. As a result, this information in inconclusive / more research is needed. However, the findings from this small participant pool align with the trend that scheduling/the appointment information section is most important to Veterans.
+### Finding
+- Only 5 out of 24 participants numbered their categories to show which were most or least important for upcoming appointments, and only 6 out of 27 participants numbered their categories to show which were most or least important for past appointments. As a result, this information in inconclusive / more research is needed.
 
-#### Findings:
+- However, the findings from this small participant pool align with the trend that the appointment information section is most important to Veterans.
+
+#### Upcoming:
 - Veterans listed Appointment information and scheduling (preliminary steps) as most important
 - Veterans listed other actions completed by the Veteran as less important (confirming information, notifications, cancel scheduled appointment)
 
-#### Recommendations:
-- Because this aligns with other findings, continue to follow recommendations that prioritize Appointment information and scheduling, while exploring how other tasks could be noticeable but possibly housed elsewhere or in the notification pattern, so as to not take up too much space on the page.
-
-### Past appointments
-Only 6 out of 27 participants numbered their categories to show which were most or least important. As a result, this information in inconclusive / more research is needed.
-
-However, the findings from this small participant pool align with the trend that the appointment information section is most important to Veterans.
-
-#### Findings:
+#### Past:
 - Veterans listed Appointment information and information they marked as “most vital” (example?) as most important
 - Veterans listed actions by the Veteran such as travel pay or financial-related items (co-pay) as less important
 
-#### Recommendations:
-- Because this aligns with other findings, continue to follow recommendations that prioritize Appointment information, while exploring how other tasks could be noticeable but possibly housed elsewhere or in the notification pattern, so as to not take up too much space on the page.
+### Recommendations:
+- Because this aligns with other findings, continue to follow recommendations that prioritize Appointment information (and scheduling, for Upcoming appointments), while exploring how other tasks could be noticeable but possibly housed elsewhere or in the notification pattern, so as to not take up too much space on the page.
 
 ------
 ## Missing items
