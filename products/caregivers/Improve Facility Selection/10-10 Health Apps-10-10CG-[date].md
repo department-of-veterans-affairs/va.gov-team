@@ -74,6 +74,7 @@ Some of the items below may not apply to your work--that's okay. You may not be 
   - List any changes or additions
 - Test strategy
   - Describe automated, manual and user acceptance test strategy
+    - All new frontend and backend code have corresponding unit tests and Cypress integration tests as per VA.gov test coverage standards.
   - Describe required test data and test user accounts
     - This is an aunauthenticated form, meaning that a user does not need to be signed in to complete and submit it. We do not use any data from an authenticated user to pre-fill this form or provide any statuses.
 - Rollout plan
