@@ -101,8 +101,9 @@ Extrapolated from [CC VDSS SoPs](https://dvagov-my.sharepoint.com/:w:/g/personal
 
 **NOTE: there are 2 use cases, one where the Veteran clicks on the SMS/Email link and the other where they go directly to VA.gov and start from there**
 
+- Veteran satisfaction
 - Number of authorized CC referrals where Veteran has indicated a digital self-schedule preference
-- % of Veterans who successfully scheduled a community care appointment who (1) have a digitial self-schedule preferance and (2) started scheduling an appointment
+- % of Veterans who successfully or unsuccessfully scheduled a community care appointment who (1) have a digitial self-schedule preferance and (2) started scheduling an appointment
   - via SMS push
   - via VA.gov directly
 - Time to schedule a community care appointment, once started
@@ -113,18 +114,19 @@ Extrapolated from [CC VDSS SoPs](https://dvagov-my.sharepoint.com/:w:/g/personal
 
 | Use Case | Metric | Description | Capture Method | Responsible |
 |----- |----- | ------- | ----- | ----- | 
-| SMS | Number who started the process | User clicked the link sent them via SMS/email | DataDog StatsD | UAE |
-| SMS | Number who successfully scheduled an appointment | Successful calls to the scheduling API | DataDog StatsD | UAE |
-| SMS | Number who received an error while scheduling | Failed calls to the schedulihng API | DataDog StatsD | UAE |
-| SMS | Time to complete the process | Time between starting and completing the process | DataDog StatsD | UAE |
-| VA.gov | Number who started the process | User clicked the "Schedule your appointment" link for a referral on the Referrals and Requests page | DataDog StatsD | UAE |
-| VA.gov | Number who successfully scheduled an appointment | Successful calls to the scheduling API | DataDog StatsD | UAE |
-| VA.gov | Number who received an error while scheduling | Failed calls to the schedulihng API | DataDog StatsD | UAE |
-| VA.gov | Time to complete the process | Time between starting the process and call to sheduling API | DataDog StatsD | UAE |
 | All | Customer/Veteran Experience | CSAT from Medallia survey on CC confirmation page and CC scheduling workflow pages | Medallia | UAE |
 | All | Number of authorized CC referrals where Veteran has indicated a digital self-schedule preference | same | DataDog StatsD | UAE (we could do this if we are doing the other StatsD work) |
+| SMS | Number who started the process | User clicked the link sent them via SMS/email | DataDog StatsD | UAE |
+| SMS | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
+| SMS | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
+| SMS | Time to complete the process | Time between clicking the link and call to CC scheduling API  | DataDog StatsD | UAE |
+| VA.gov | Number who started the process | User clicked the "Schedule your appointment" link for a referral on the Referrals and Requests page | DataDog StatsD | UAE |
+| VA.gov | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
+| VA.gov | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
+| VA.gov | Time to complete the process | Time between clicking "Schedule your appointment" and call to CC sheduling API | DataDog StatsD | UAE |
 
-
+<details>
+<summary>OLD KPIS</summary>
 | KPIs | Source |
 |----- | ------- |
 | Number of scheduled VDSS appointments via VA.gov | VAOS backend service |
@@ -132,7 +134,9 @@ Extrapolated from [CC VDSS SoPs](https://dvagov-my.sharepoint.com/:w:/g/personal
 | Customer/Veteran Experience | CSAT from Medallia a11 survey on confirmation page and responses from feedback button usage on scheduling workflow pages on VA.gov | 
 | Total number of authorized CC PT referrals | New referrals received from VAOS backend service that are unfiltered based on patient scheduling preference |
 | Time between Veteran choosing VDSS to when they Self-Schedule | Time from referral authorization, received from VAOS backend service, to booked appointment in EPS |
-| Number of error detections between referral authorization and booked appointment in EPS | Error detections by type between referral authorization, received from VAOS backend service, to booked appointment in EPS |
+| Number of error detections between referral authorization and booked appointment in EPS | Error detections by type between referral authorization, received from VAOS backend service, to booked appointment in EPS |    
+  </details>
+
 
 [#### Feature]: # 
 [- Downtime % | baseline]: # 
