@@ -23,11 +23,14 @@ Sprint 23: 11/5/24 - 11/18/24
 ## 📋 Previous Sprint Summary:
 In Sprint 22 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-   * [#94556 VPG: Test OH booked appointment reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94556)
-   * [#95579 CES-1200: VPG: filter out missing ReasonCode Coding elements from FHIR Appointments](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95579)
-   * [#95578 CES-1201: VPG: Populate minutesDuration field for Cerner appointments](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95578)
-   * 🐞[#95850 CES-1234: VPG: ensure that default paging values are used on Clinics endpoint](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95850)
-   * 🐞 [#95753 CES-1214: VPG: clinics endpoints is incorrectly enforcing JWT resource constraints](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95753)  
+   * Conducted tests on Oracle Health booked appointment reads, comparing results returned from VPG with those from VAOS direct appointments.
+   * VetsAPI Patient Gateway was updated to  filter out missing ReasonCode coding elements from FHIR appointments
+   * Enhanced VetsAPI Patient Gateway to populate the minutesDuration field for Oracle Health appointments, allowing VetsAPI consumers to access the time duration for all scheduled appointments.
+   * Resolved a bug in VetsAPI Patient Gateway to ensure that default paging values are correctly applied on the Clinics endpoint.
+   * Addressed a bug in VetsAPI Patient Gateway to update the endpoint, eliminating certain resource restrictions.
+ 
+
+
 * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
     * [#95614 CES-1208: Add restrict resource list](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95614)
     * [#95612 CES-1166: Address logging issues and test coverage](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95612)
@@ -52,18 +55,14 @@ In Sprint 22 the team provided support for multiple features and initiatives, ou
     * [CES-1270 CES: Determine EHR on appointment creation request](https://issues.mobilehealth.va.gov/browse/CES-1270)
     * [CES-1262 VPG: Check future provider ability during get relationships](https://issues.mobilehealth.va.gov/browse/CES-1262)
     * [CES-1243 VPG: Filter OH patient relationships by the OH TOC scheduling config relationship age](https://issues.mobilehealth.va.gov/browse/CES-1243)
-
-* 🔴 Appointment Cancellation
- 
-* 🟢 Appointment Requests
-
 * 🟣 Testing/Admin/Operational Support
   * 🚧 [#93478 Add alternate global route for vaos module](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/93478)
   * [CES-1266 Research moving Appointment modality logic from FE to BE](https://issues.mobilehealth.va.gov/browse/CES-1266)
   * [CES-1257 Research TH appts - executive summary](https://issues.mobilehealth.va.gov/browse/CES-1257)
   * [CES-1271 VPG: rework sameDay eligibility logic to consistently pass tests](https://issues.mobilehealth.va.gov/browse/CES-1271)
-* NOT SURE WHERE IT GOES
-  *  [CES-1268 VPG: remove unused cerner client paging code](https://issues.mobilehealth.va.gov/browse/CES-1268)
-
+  * [CES-1268 VPG: remove unused cerner client paging code](https://issues.mobilehealth.va.gov/browse/CES-1268)
+* 🔴 Appointment Cancellation
+ 
+* 🟢 Appointment Requests
 
 ## ✈️ Planned Releases
