@@ -21,15 +21,6 @@ Jump to:
 - Intercept survey triggered for 5% of users who are on ask.va.gov for at least 20 seconds.
 - The survey triggers only once per session.
 
-**Intercept survey questions**
-|Question|Answer choices|
-|:---|:---|
-|How was your experience contacting VA today?|Very bad<br>Somewhat bad<br>Neither good nor bad<br>Somewhat good<br>Very good|
-|Why did you select that rating?|Please don't enter personal information into the text box. This includes your name, address, Social Security Number, medical information or anything else that someone could use to identify you.|
-|Please rate how understandable this site's information is.|Difficult to understand<br>Somewhat difficult to understand<br>Some is easy, some is difficult<br>Somewhat easy to understand<br>Easy to understand|
-|How did this interaction change your trust in Veterans Affairs?|Decreased my trust<br>Somewhat decreased my trust<br>Neither increased nor decreased my trust<br>Somewhat increased my trust<br>Increased my trust|
-|How much do you trust Veterans Affairs to fulfill our country’s commitment to Veterans?|High level of distrust<br>Modest level of distrust<br>Neither trust or distrust<br>Modest level of trust<br>High level of trust|
-
 ### Future form: va.gov/contact-us/ask-va
 - Intercept survey triggered for 5% of users.
 - The survey triggers only once per session.
@@ -38,6 +29,18 @@ Jump to:
 See **Your contact information** page:
 <br>
 <img src="https://github.com/user-attachments/assets/b3599d4e-f3c9-4f4c-aff8-30c51758f794" alt="Screenshot of Your contact information page" width="70%" height="auto">
+
+
+**Intercept survey questions**
+These questions will be the same both on ask.va.gov and VA.gov.
+
+|Question|Answer choices|
+|:---|:---|
+|How was your experience contacting VA today?|Very bad<br>Somewhat bad<br>Neither good nor bad<br>Somewhat good<br>Very good|
+|Why did you select that rating?|Please don't enter personal information into the text box. This includes your name, address, Social Security Number, medical information or anything else that someone could use to identify you.|
+|Please rate how understandable this site's information is.|Difficult to understand<br>Somewhat difficult to understand<br>Some is easy, some is difficult<br>Somewhat easy to understand<br>Easy to understand|
+|How did this interaction change your trust in Veterans Affairs?|Decreased my trust<br>Somewhat decreased my trust<br>Neither increased nor decreased my trust<br>Somewhat increased my trust<br>Increased my trust|
+|How much do you trust Veterans Affairs to fulfill our country’s commitment to Veterans?|High level of distrust<br>Modest level of distrust<br>Neither trust or distrust<br>Modest level of trust<br>High level of trust
 
 ## Feedback survey
 100% of users will see the pop-up modal, if they click the feedback button.
