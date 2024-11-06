@@ -3,14 +3,13 @@
 **Last updated:** November 6, 2024 - updated to reflect updates with form status tracking
 
 There are two different types of content that can be shown in the Benefit application and forms section of My VA: 
-- Drafts
-- Submitted forms (that are supported)
+- __Drafts__
+- __Submitted forms (that are supported)__
 
 ## Overview of Drafts:
 
-- For all of these use cases, the user must be LOA3 (identity verified). All LOA3 users will see this section on My VA.
-- [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
-- This feature shows a card for any benefit applications that a user has started and saved but not yet submitted, or text stating that the user has no benefit application drafts.
+- For all of these use cases, the user must be LOA3 (identity verified). All LOA3 (and LOA1) users will see this section on My VA.
+- This feature shows a card for any benefit applications that a user has started and saved but not yet submitted, or text stating that the user has no benefit applications or forms (if there are no tracked submitted forms as well).
   - Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
 - An 'accordion' component with information pertaining to tracking benefit application and form statuses is visible at the bottom of this section unless an error is preventing the display of forms.
 
@@ -29,4 +28,6 @@ The data for saved applications is gathered from the same API as the main user c
 
 ## Overview of Submitted Forms:
 
+- For all of these use cases, the user must be LOA3 (identity verified). All LOA3 (and LOA1) users will see this section on My VA.
+- This feature shows a card for any benefit application or form that a user has completed and submitted that can be tracked and displayed on My VA, or text stating that the user has no benefit applications or forms (if there are no drafts as well).
 
