@@ -42,25 +42,53 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 Notes:
 1: 02/23/2024 - Requirement not yet met
 
+
+### Empty states and alerts
+
+From [ticket 69846](https://app.zenhub.com/workspaces/appointments-fe-ux-5fff340c2d80a4000fb6f69c/issues/gh/department-of-veterans-affairs/va.gov-team/69846)
+
+We retrieve the appointment information using one of the following calls:
+
+- From appointment list: `/vaos/v2/appointments?_include=facilities,clinics&start={today-120}&end={today+1}&statuses[]=proposed&statuses[]=cancelled` and `/vaos/v2/appointments?_include=facilities,clinics&start={today-30}&end={today+395}&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled`
+- From appointment details page: `/vaos/v2/appointments/${id}?_include=facilities,clinics,avs`
+
+Data points:
+
+| Role | Section name | Source field name | Empty state logic |
+| - | - | - | - |
+| Link to Join URL | How to join | `appt.telehealth.url` | This link is only displayed for upcoming appointments from 30 minutes before the start time to 4 hours afterwards. If this is unavailable, it will display "Please contact your facility for help joining this appointment." along with the facility or clinic phone number. |
+| Preferred date and time | When | `appt.localStartTime` | Start time always populated |
+| Type of Care | What | `appt.serviceType` | Do not display if not available |
+| Provider Name | Who | `appt.practitioners[0].name` | Do not display if not available |
+| Facility Name | Need to make changes/Scheduling Facility | `facilityData[locationId].name` or `appt.location.attributes.name` | For upcoming appointments, display "Facility not available" if not available. For past/cancelled appointments, do not display if not available. The heading is "Need to make changes" for upcoming appointments and "Scheduling Facility" for past/cancelled appointments |
+| Facility Address | Need to make changes/Scheduling Facility | `facilityData[locationId].physicalAddress` or `appt.location.attributes.physicalAddress` | For upcoming appointments, display "Facility not available" if not available. For past/cancelled appointments, do not display if not available. The heading is "Need to make changes" for upcoming appointments and "Scheduling Facility" for past/cancelled appointments |
+| Clinic Name | Need to make changes/Scheduling Facility | `appt.friendlyName` or `appt.serviceName` | Display "Clinic not available" if not available. The heading is "Need to make changes" for upcoming appointments and "Scheduling Facility" for past/cancelled appointments |
+| Phone number | Need to make changes/Scheduling Facility | `facilityData[locationId].phone.main` or `appt.location.attributes.phone.main` or `appt.extension.clinic.phoneNumber` | Phone number priority: 1. Clinic phone number, 2. Facility phone number, 3. VA phone number. The heading is "Need to make changes" for upcoming appointments and "Scheduling Facility" for past/cancelled appointments |
+
+Note that we don't display "Modality" and "Veteran Reason For Appointment". These may have become obsolete after this ticket was filed. There are also a few other details we do display that weren't covered in the original ticket including "Facility Name" and "Clinic Name"
+ 
+ 
+### Screenshots
+
+| Upcoming | Past | Cancelled | Empty state | 
+| - | - | - | - | 
+| ![Image](https://github.com/user-attachments/assets/82000d01-b302-43af-baf6-6fa90bbd13b2) | ![Image](https://github.com/user-attachments/assets/abf301f0-d63b-4da5-a91a-56cf94f29a32) | ![Image](https://github.com/user-attachments/assets/bdb03047-ac5d-496a-8425-d40c277d4ffa) | ![Image](https://github.com/user-attachments/assets/9bd1cf45-5681-4591-9ec0-fca59aeac0ce) |
+
+
 ### Technical notes
 
 See [Creating Video Visits in VistA](../appointment-types/all-appointment-types.md#creating-video-visits-in-vista).
 
 ## Specifications
 
+## Specifications
+
 **User flows**
-- [Upcoming appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=2019-19997&t=jIup4zOCLhBYNOvO-4)
-- [Past appointments](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=127-22836&t=jIup4zOCLhBYNOvO-4)
+- [Upcoming appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2925&t=kDXwMWn2YUhVmLLB-4)
+- [Past appointments](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3497&t=kDXwMWn2YUhVmLLB-4)
 
 **UI design specs**
-- [Upcoming](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
-- [Past](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
-- [Canceled](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=867-26354&mode=design&t=XoWmwKDNFveoItRx-11)
-
-**Page content**
-- [Upcoming](../../content/appointment-details.md#va-vvc-at-home-appointment---upcoming)
-- [Past](../../content/appointment-details.md#va-vvc-at-home-appointment---past)
-- [Canceled](../../content/appointment-details.md#va-vvc-at-home-appointment---canceled)
+[VA video care at home](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-86021&t=W6qupE1wzXd7CUz3-4)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
@@ -76,19 +104,6 @@ See [Creating Video Visits in VistA](../appointment-types/all-appointment-types.
 
 [All events VAOS tracks](Link TBD)
 
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 
