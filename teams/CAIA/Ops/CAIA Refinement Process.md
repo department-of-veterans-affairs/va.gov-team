@@ -81,11 +81,13 @@ Review [New Intakes Column](https://github.com/orgs/department-of-veterans-affai
 
 Review [Collaboration Cycle intakes](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/12?filterQuery=no%3Acaia+-status%3AClosed%2C%22Post+Staging+Review%22+-label%3A%22CAIA-Collab%22+)
 - Determine whether CAIA needs to be involved
-- If CAIA work is needed, create an intake on the CAIA board using the CAIA intake template
-  - If CAIA already has related work, cross-link CC intake to CAIA intake
-- Add the CC intake to the CAIA intake as a sub-issue or hyperlink
-- Add "CAIA-collab" label to CC intake OR select "Involved" in the "CAIA" column (working this out with Shira)
+- If CAIA involvement is not needed: select "no" in the "working with CAIA?" column
+- If CAIA involvement is needed:
+  - Create a CAIA intake
+  - Cross-link by adding the CAIA intake in a comment on the Collab Cycle request, and hyperlink to the Collab Cycle ticket on the CAIA intake
+- Add the "CAIA-collab" label to the Collab Cycle intake 
 - Reach out to product team in a comment in the CC intake to share the CAIA intake and ask about timeline
+
 
 Review CAIA intakes 
 - Confirm we should take on this work.
