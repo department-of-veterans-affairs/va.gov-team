@@ -10,7 +10,7 @@ Some of the items below may not apply to your work--that's okay. You may not be 
 
 - Product description
   - Brief overview of motivation for the change from an engineering & security point of view
-       - Initially, the facility selection page was based on U.S. State dropdown selection, then a facility dropdown selection, derived from a static JSON file. This caused our facilities list to easily be out-of-date and inaccurate.  We want to provide applicants with the option to search by city, state or postal code of any given facility, using the latest data from the Facilities API.
+    - Initially, the facility selection page was based on U.S. State dropdown selection, then a facility dropdown selection, derived from a static JSON file. This caused our facilities list to easily be out-of-date and inaccurate. We want to provide applicants with the option to search by city, state or postal code of any given facility, using the latest data from the Facilities API.
   - [Link to Collaboration Cycle Request issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/51980)
 - UX design description
   - For user-facing changes, link to UX prototype or wireframes if available
@@ -43,7 +43,7 @@ Some of the items below may not apply to your work--that's okay. You may not be 
   - Do you have API documentation?
     - No, the only change is a new endpoint in the caregivers controller.
   - Describe expected call patterns
-    - `vets-website` calls this endpoint to a list of paginated facilities
+    - `vets-website` calls this endpoint to receive a list of paginated facilities
 - External API changes
   - List new or modified APIs for upstream or external systems
     - No Changes
@@ -60,11 +60,11 @@ Some of the items below may not apply to your work--that's okay. You may not be 
   - Describe error and dead letter handling
 - Data storage
   - Describe new or modified databases, tables or columns
-    - No Changes. The facility that is ultimately returned is used to pass the facility id as part of the 1010CG Form submission.
+    - No Changes. The facility that is ultimately returned is used to pass the facility id as part of the 1010CG Form submission, the same way we do it now.
   - Describe indexes and constraints
     - No Changes
   - Identify PII and PHI and where and how it will be stored, processed, expired and deleted
-    - No Changes
+    - The only potential PII would be the lat/long of the address that is searched for if it is a Veteran's home address. See security question for more detail.
 - Libraries and dependencies
   - List new or updated dependencies
     - Lighthouse Facilities API (New to the 10-10CG, but used in VA.gov)
@@ -96,11 +96,14 @@ Some of the items below may not apply to your work--that's okay. You may not be 
     - The PM and Data Analyst will monitor analytics. If there is a spike in errors or unexpected behavior, the feature toggle will be used to disable the feature in production and issue triage will begin.
 - Internal administration tasks
   - What maintenance or administration tasks do you anticipate will need to be performed periodically?
-    - The only potential change is if we need to update an api version for mapbox or Lighthouse facilities.Those are not expected, and are used a few other places in `vets-website` and `vets-api` so these changes are not unique.
+    - The only potential change is if we need to update an api version for mapbox or Lighthouse facilities. Those are not expected, and are used a few other places in `vets-website` and `vets-api` so these changes are not unique. The api's handle updating all relevant address and facility data.
   - Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
+    - Those would be code changes, so it would need an engineer to update the api.
 - Security
   - What questions do you have regarding items on the security checklist?
+    - The new search form has a text field that is used to query the mapbox api. Mapbox returns the lat/long of the text, and we send those values in the query params to `vets-api` which makes the api request to the Lighthouse Facilies api. The lat/long values could potentially be the home address of the Veteran. Is there a security concern there around PII?
   - Are there any other security concerns about your project that you want to discuss?
+    - No
   - What [threat modeling][threats] have you done, and how did the results influence your planned architecture?
 
 ## Where to put this checklist and what to name it
