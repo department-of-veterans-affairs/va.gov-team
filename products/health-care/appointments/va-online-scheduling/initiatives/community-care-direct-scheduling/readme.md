@@ -119,9 +119,9 @@ Extrapolated from [CC VDSS SoPs](https://dvagov-my.sharepoint.com/:w:/g/personal
 | VA.gov | Number who started the process | User clicked the "Schedule your appointment" link for a referral on the Referrals and Requests page | DataDog StatsD | UAE |
 | VA.gov | Number who successfully scheduled an appointment | Successful calls to the scheduling API | DataDog StatsD | UAE |
 | VA.gov | Number who received an error while scheduling | Failed calls to the schedulihng API | DataDog StatsD | UAE |
-| VA.gov | Time to complete the process | Time between starting and completing the process | DataDog StatsD | UAE |
-| All | Customer/Veteran Experience | CSAT from Medallia survey on confirmation page and scheduling workflow pages | Medallia | UAE |
-| All | Number of authorized referrals where Veteran has indicated a digital self-schedule preference | same | DataDog StatsD | UAE (we could do this if we are doing the other StatsD work) |
+| VA.gov | Time to complete the process | Time between starting the process and call to sheduling API | DataDog StatsD | UAE |
+| All | Customer/Veteran Experience | CSAT from Medallia survey on CC confirmation page and CC scheduling workflow pages | Medallia | UAE |
+| All | Number of authorized CC referrals where Veteran has indicated a digital self-schedule preference | same | DataDog StatsD | UAE (we could do this if we are doing the other StatsD work) |
 
 
 | KPIs | Source |
