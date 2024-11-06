@@ -26,7 +26,8 @@ Jump to:
 - The survey triggers when the user lands on the **Your contact information** page.
 
 See **Your contact information** page:
-<br>
+
+
 <img src="https://github.com/user-attachments/assets/b3599d4e-f3c9-4f4c-aff8-30c51758f794" alt="Screenshot of Your contact information page" width="70%" height="auto">
 
 ### Intercept survey questions
