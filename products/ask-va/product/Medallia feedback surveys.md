@@ -31,14 +31,13 @@ Jump to:
 |How much do you trust Veterans Affairs to fulfill our country’s commitment to Veterans?|High level of distrust<br>Modest level of distrust<br>Neither trust or distrust<br>Modest level of trust<br>High level of trust|
 
 ### Future form: va.gov/contact-us/ask-va
-🚧 9/25 note: we need to revise this section, since we've updated our form design.
 - Intercept survey triggered for 5% of users.
 - The survey triggers only once per session.
-- The trigger step will be when the user lands on the **Your contact information** page.
+- The survey triggers when the user lands on the **Your contact information** page.
 
 See **Your contact information** page:
 <br>
-![image](https://github.com/user-attachments/assets/b3599d4e-f3c9-4f4c-aff8-30c51758f794)
+<img src="https://github.com/user-attachments/assets/b3599d4e-f3c9-4f4c-aff8-30c51758f794" alt="Screenshot of Your contact information page" width="70%" height="auto">
 
 ## Feedback survey
 100% of users will see the pop-up modal, if they click the feedback button.
