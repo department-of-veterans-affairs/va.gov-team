@@ -51,8 +51,11 @@ Design & Research (How we use Figma, Balsamiq, Mural, where files live, etc)
     * You can view our [research repo in Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research) (if you don’t have Github access reach out to Tim Wright)
     * [VA Mobile Feedback Hub](https://feedback-hub-e659c24714b9.herokuapp.com/) scrapes data from Reddit, Google Play Store reviews, and Apple App Store reviews and makes it searchable
     * [Research](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/Foundations/Research/)
-    * [Conducting remote research w pre release prod app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-operations/research-pre-release-prod-app-build-how-to.md) * [How we work](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/How-We-Work/) (UX)
-       * Includes links to how we work with others, designing the UI, Figma information, etc.
+    * [Conducting remote research w pre release prod app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-operations/research-pre-release-prod-app-build-how-to.md)
+    
+* [**How our team works**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/How-We-Work/)
+   * Includes links to how we work with others, designing the UI, Figma information, etc.
+
 ## Step 3. Get up to speed on native mobile best practice resources
 
 If you’re new to designing for native mobile (or maybe it’s time for a refresher?), spend some time getting to know Apple’s Human Interface Guidelines and Google’s Materials design guidelines. The VA mobile app’s design is based on principles and best practices from a combination of guidelines that are used by all native mobile apps:
