@@ -104,18 +104,7 @@ This initiative allows Veterans to directly schedule a community care appointmen
 | Time between Veteran choosing VDSS to when they Self-Schedule | Time from referral authorization, received from VAOS backend service, to booked appointment in EPS |
 | Number of error detections between referral authorization and booked appointment in EPS | Error detections by type between referral authorization, received from VAOS backend service, to booked appointment in EPS |    
 
-[#### Feature]: # 
-[- Downtime % | baseline]: # 
-[- Customer satisfaction score avg. | baseline]: # 
-
-[#### Transactions]: #  
-[- Appointments scheduled | baseline]: # 
-[- Errors when attempting to schedule | baseline]: # 
-[- Latency of error | baseline]: # 
-
-[#### Usage]: #  
-[- Audience reach | baseline]: # 
-[- Conversion rate % | baseline]: # 
-[- Error failure rate % | baseline]: #
+### Metrics Dashboards
+- TBD
 
 
