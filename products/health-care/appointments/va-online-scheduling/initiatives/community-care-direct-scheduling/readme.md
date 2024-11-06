@@ -64,7 +64,7 @@ This initiative allows Veterans to directly schedule a community care appointmen
       - Expectations for VA Staff Follow-Up
           - The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time.
            
-## Measuring success
+## Measuring Success
 
 ### Key performance indicators (KPIs)
 
