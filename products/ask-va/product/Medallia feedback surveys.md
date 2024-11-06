@@ -58,16 +58,15 @@ To determine the trigger event(s) for the intercept survey we considered:
 
 Alternative: If this targeting rule isn't feasible, we could also trigger it when a user clicks `Next` on the second page in the form, regardless of what that page is. So, sometimes it'd be `Tell us about yourself` and other times it'd be `Tell us about the Veteran` (and you're not the Veteran).
 
-
 ### Future form: va.gov/contact-us/ask-va
 🚧 9/25 note: we need to revise this section, since we've updated our form design.
+- Intercept survey triggered for 5% of users.
+- The survey triggers only once per session.
+- The trigger step will be when the user lands on the **Your contact information** page.
 
-For Ask VA on VA.gov, when a user clicks ‘Continue’ on the `Tell us who has a question` page or `Your relationship to VA` page (Category: Education), they will see a modal.
-
-See example:
+See **Your contact information** page:
 <br>
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135838070/ea484acb-e48a-4343-af4a-7f27071c2360)
-
+![image](https://github.com/user-attachments/assets/b3599d4e-f3c9-4f4c-aff8-30c51758f794)
 
 ## Feedback survey
 100% of users will see the pop-up modal, if they click the feedback button.
