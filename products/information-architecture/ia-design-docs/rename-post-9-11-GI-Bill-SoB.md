@@ -22,23 +22,20 @@
 ## <a name="url"></a>URLs and breadcrumbs
 
 **1) Benefit Info drupal page - Existing**
-- URL: _No Change_
+- URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/
 - Breadcrumb: VA.gov home > Education and training > Check your remaining Post-9/11 GI Bill benefits
 - H1: Check your remaining Post-9/11 GI Bill benefits
-- Notes: The URL on the Drupal page is already updated. Only the H1 and Breadcrumb need changes.
 
 **2) Benefit Tool authenticated page - Existing**
 - URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/
 - Breadcrumb: VA.gov home > Education and training > Check your remaining Post-9/11 GI Bill benefits
 - H1: Check your remaining Post-9/11 GI Bill benefits
-- Notes: URL, H1, and breadcrumb all need changes.
 
 **2) Print Benefit Tool Info authenticated page - Existing**
-- URL: va.gov/education/check-remaining-post-9-11-gi-bill-benefits/status/print/
-- Breadcrumb: VA.gov home > Education and training > Check your remaining Post-9/11 GI Bill benefits
-- H1: Check your remaining Post-9/11 GI Bill benefits
-- Notes: Question for Content - should the Print page have a different H1 from the benefit tool page?
-
+- URL: va.gov/education/your-post-9-11-gi-bill-benefits/print/
+- Breadcrumb: VA.gov home > Education and training > Your Post-9/11 GI Bill benefits
+- H1: Your Post-9/11 GI Bill Statement of Benefits
+  
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. The [redirect ticket for this work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94306) is already in place, and is ready to be updated once content is finalized.*
