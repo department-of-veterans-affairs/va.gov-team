@@ -25,7 +25,8 @@
       - 0781/a release plan
 
 ## Research and Design
-[DBEX-CARBS HCD Sprint 42 Goals](https://dsva.slack.com/docs/T03FECE8V/F07N6EH4EUE)
+[DBEX-CARBS HCD Sprint Goals](https://dsva.slack.com/docs/T03FECE8V/F07N6EH4EUE) 
+- With only one R&D person, the time will mainly be focused supporitng the engineering team on 0781 and wrapping up the 526 ZSF Email notification. 
 
 
 
