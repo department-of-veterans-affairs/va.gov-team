@@ -1,8 +1,12 @@
-# My VA: Benefit Applications Drafts Use Cases
+# My VA: Benefit Applications and Forms Use Cases
 
-**Last updated:** October 29, 2024 - fixed typo
+**Last updated:** November 6, 2024 - updated to reflect updates with form status tracking
 
-## Overview of Benefit Applications and Forms Drafts:
+There are two different types of content that can be shown in the Benefit application and forms section of My VA: 
+- Drafts
+- Submitted forms (that are supported)
+
+## Overview of Drafts:
 
 - For all of these use cases, the user must be LOA3 (identity verified). All LOA3 users will see this section on My VA.
 - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
@@ -22,4 +26,7 @@ The data for saved applications is gathered from the same API as the main user c
 
 ## Flow diagrams:
 - [User flow for benefit application drafts on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7642&mode=design&t=CREOF8xG3jKa75nz-1)
+
+## Overview of Submitted Forms:
+
 
