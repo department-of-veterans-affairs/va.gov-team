@@ -2,7 +2,7 @@
 
 [DRAFT]
 
-## Top findings for category organization
+## Breakdown of category organization
 
 ### Finding #1: For both upcoming and past, participants created clearly defined Appointments sections.
 
@@ -98,7 +98,7 @@
 
 ## Overall category trends
 
-### Finding:
+### Finding #5:
 Most participants created categories based on two methods: organizing both tasks and info into genre/type (18 for Upcoming and 25 for Past) and organizing tasks and information into different stages of an appointment (before, during, after) (13 for Upcoming and 10 for Past)
 
 #### Upcoming appointments
@@ -121,7 +121,7 @@ Explore how the detail page could be formatted to organize both tasks and inform
 
 ## Most to least mentioned categories
 
-### Finding:
+### Finding #6:
 The top 5 most mentioned categories for upcoming appointments were 13 Appointment (info), 13 Scheduling / making an appointment, 8 Canceling / rescheduling, 8 before appointment, 7 Checking in
 
 The top 5 most mentioned categories for past appointments were 20 Appointment (info), 14 Post appointment information and actions, 12.5 Travel reimbursement, 9.5 Payments / financial information, 4 Scheduling/setting up an appointment
@@ -290,7 +290,7 @@ You checked in
 
 ## Category importance ratings
 
-### Finding
+### Finding #7
 - Only 5 out of 24 participants numbered their categories to show which were most or least important for upcoming appointments, and only 6 out of 27 participants numbered their categories to show which were most or least important for past appointments. As a result, this information in inconclusive / more research is needed.
 
 - However, the findings from this small participant pool align with the trend that the appointment information section is most important to Veterans.
@@ -309,7 +309,7 @@ You checked in
 ------
 ## Missing items
 
-### Findings:
+### Finding #7:
 - For upcoming appointments, 3 participants mentioned items they expected to find in the list that were missing: 1) is parking available 2) Taking medication/over the counter medication/taking additional supplements 3) ‘Your appointment was modified’...I didn’t not see in the list but that would be useful
 - For past appointments, 6 participants mentioned items they expected to find in the list that were missing: 1) a list of prior visit results 2) being able to make a clinical appt for a specialty clinic, instead of calling, 3) information on care/aftercare/follow up 4) referrals for specialty care, follow up appointments (or # in series if appt was a follow up) 5) prescriptions 6) date of appointment
 
