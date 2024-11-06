@@ -12,6 +12,7 @@
     - 0781 approach/plan
          
  - Scott Regenthal
+    - [ZSF] Create ZSF monitor playbooks  
    
  - Kyle Soskin
     - Zero silent failure support
@@ -33,6 +34,6 @@
 ## Sumary
 Lisa is out of office this sprint. 
 
-Delivering Lighhouse Migration feature will be the highest priority this sprint. The plan is to get 0781 to production quickly followed by Veteran Evidence document uplaods. The engineers will also be working on an approach/plan for the 0781 work. 
+Delivering Lighhouse Migration feature will be the highest priority this sprint. The plan is to get 0781 to production quickly followed by Veteran Evidence document uplaods. The engineers will also be working on an approach/plan for the 0781 work and wrapping up Zero Silent Failures work. 
 
 [Roadmap for Disability Benefits (DBEX) Team 2 (Carbs)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=0-1728398176278)
