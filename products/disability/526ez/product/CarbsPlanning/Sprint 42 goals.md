@@ -8,14 +8,15 @@
       
   - Sam Stuckey
     - Zero silent failure email for 526
-      - 526 email testing and production release 
+      - 526 email testing and production release
+    - 0781 approach/plan
 
  - Scott Regenthal
-    - 0781 paper sync 
+    - 
       
  - Kyle Soskin
     - Zero silent failure support
-    - 0781 paper sync support
+    - 0781 paper sync approach/plan
   
   - Alison Jones
     - Lighthouse migration of the 0781/a
@@ -32,6 +33,6 @@
 ## Sumary
 Lisa is out of office this sprint. 
 
-Zero silent failures emails to Veterans will be our highest priority along with making improvements to Datadog monitoring and alerts. We'll continue to work on delivering Lighhouse Migration. We'll begin the discovery and solutioning work HCD team. 
+Delivering Lighhouse Migration feature will be the highest priority this sprint. The plan is to get 0781 to production quickly followed by Veteran Evidence document uplaods. The engineers will also be working on an approach/plan for the 0781 work. 
 
 [Roadmap for Disability Benefits (DBEX) Team 2 (Carbs)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?wid=0-1728398176278)
