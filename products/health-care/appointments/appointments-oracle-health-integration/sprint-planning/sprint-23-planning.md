@@ -28,12 +28,13 @@ In Sprint 22 the team provided support for multiple features and initiatives, ou
    * Enhanced VetsAPI Patient Gateway to populate the minutesDuration field for Oracle Health appointments, allowing VetsAPI consumers to access the time duration for all scheduled appointments.
    * Resolved a bug in VetsAPI Patient Gateway to ensure that default paging values are correctly applied on the Clinics endpoint.
    * Addressed a bug in VetsAPI Patient Gateway to update the endpoint, eliminating certain resource restrictions.
- 
+ * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
+    * Restricted certain resources in Clinical Encounter Service that are not currently available for use.
+    * Updated Clinical Encounter Service to enhance test coverage and address existing logging issues. 
 
 
-* #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
-    * [#95614 CES-1208: Add restrict resource list](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95614)
-    * [#95612 CES-1166: Address logging issues and test coverage](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95612)
+
+
 * #### Backend support for Slot Search for Appointment Requests
    * 
 * #### Backend support for Oracle Health to enable Appointment Cancellation
@@ -42,7 +43,7 @@ In Sprint 22 the team provided support for multiple features and initiatives, ou
 * #### Backend support for Oracle Health to enable appointment requests
   * [#94555 VPG: Test OH proposed appointment reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94555) 
 * #### Testing/Admin/Operational Support
-   * [#95576 CES-1203: VPG: add property value descriptions](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/95576)
+   * The property values used by VetsAPI Patient Gateway were documented in metadata.yaml and appropriate descriptions for each value  were updated to indicate whether they are optional or required.
 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
