@@ -1,5 +1,38 @@
 # Sprint goals for Benefits Disability Experience Team 1 (DBEX-TREX)
 
+**Sprint 10 Goals**
+- [Watch Dog of Watch Dogs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526/monitors/%5BZSF%5D%20DBEX%20Teams%20SOP%20(Standard%20Operating%20Procedure)%20for%20monitor%20and%20alert%20response.md): @aurora-a-k-a-lightning 
+
+**Paper Form Sync**
+
+- Product Discovery: Reevaluate the remaining Paper Form Sync work
+
+**Toxic Exposure**
+
+- Rollout TE 1.1 to 10% and 25% traffic
+- Finalize TE research study materials and submit to Platform
+
+**Submission Experience**
+
+- Implement New Confirmation Page w/ no claim ID flow
+- Release Planning for New Confirmation Page and New Email Touchpoints
+- Create toggle & trigger for Received email
+- Design the HTML version of “Provide a Copy” (Release horizon 1.0)*
+- Design 5103 language
+- Product Discovery: Display Submission Status on va.gov
+
+**Platform**
+
+- Begin BRD (Separation Locations) migration
+
+**Product Enhancements**
+- Technical Discovery: V3 Component re-discovery & prioritization
+
+
+
+
+
+
 ## Sprint 9
 10/23 - 11/5
 
