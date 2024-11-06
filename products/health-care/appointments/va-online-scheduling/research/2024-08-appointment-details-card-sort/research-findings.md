@@ -43,7 +43,7 @@
 - 2 participants included a category for provider details. However, this information was mentioned more often elsewhere.
 
 
-## Recommendations
+### Recommendations
 
 - [Finding 1:](link) For both past and upcoming, create a dedicated Appointments section/area that includes appointment information in a clearly called-out component or section (such as the appointment detail card) that is separate from other information on the page.
   - Include the following information:
