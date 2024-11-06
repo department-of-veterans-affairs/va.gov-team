@@ -57,7 +57,9 @@ Some of the items below may not apply to your work--that's okay. You may not be 
     - No Changes
 - Background jobs
   - List any required background processing
+    - No new background jobs were added. The 10-10CG uses sidekiq to submit the form to mulesoft, but these changes do not change anything there.
   - Describe error and dead letter handling
+    - None
 - Data storage
   - Describe new or modified databases, tables or columns
     - No Changes. The facility that is ultimately returned is used to pass the facility id as part of the 1010CG Form submission, the same way we do it now.
