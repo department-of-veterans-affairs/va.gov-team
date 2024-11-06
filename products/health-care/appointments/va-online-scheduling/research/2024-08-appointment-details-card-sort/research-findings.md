@@ -98,8 +98,7 @@
 
 ## Overall category trends
 
-### Finding #5:
-Most participants created categories based on two methods: organizing both tasks and info into genre/type (18 for Upcoming and 25 for Past) and organizing tasks and information into different stages of an appointment (before, during, after) (13 for Upcoming and 10 for Past)
+### Finding #5: Most participants created categories based on two methods: organizing both tasks and info into genre/type (18 for Upcoming and 25 for Past) and organizing tasks and information into different stages of an appointment (before, during, after) (13 for Upcoming and 10 for Past)
 
 #### Upcoming appointments
 Participants created categories based on the following trends:
@@ -121,8 +120,7 @@ Explore how the detail page could be formatted to organize both tasks and inform
 
 ## Most to least mentioned categories
 
-### Finding #6:
-The top 5 most mentioned categories for upcoming appointments were 13 Appointment (info), 13 Scheduling / making an appointment, 8 Canceling / rescheduling, 8 before appointment, 7 Checking in
+### Finding #6: The top 5 most mentioned categories for upcoming appointments were 13 Appointment (info), 13 Scheduling / making an appointment, 8 Canceling / rescheduling, 8 before appointment, 7 Checking in
 
 The top 5 most mentioned categories for past appointments were 20 Appointment (info), 14 Post appointment information and actions, 12.5 Travel reimbursement, 9.5 Payments / financial information, 4 Scheduling/setting up an appointment
 
@@ -290,8 +288,7 @@ You checked in
 
 ## Category importance ratings
 
-### Finding #7
-- Only 5 out of 24 participants numbered their categories to show which were most or least important for upcoming appointments, and only 6 out of 27 participants numbered their categories to show which were most or least important for past appointments. As a result, this information in inconclusive / more research is needed.
+### Finding #7: Only 5 out of 24 participants numbered their categories to show which were most or least important for upcoming appointments, and only 6 out of 27 participants numbered their categories to show which were most or least important for past appointments. As a result, this information in inconclusive and more research is needed.
 
 - However, the findings from this small participant pool align with the trend that the appointment information section is most important to Veterans.
 
