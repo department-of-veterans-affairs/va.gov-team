@@ -10,10 +10,9 @@
     - Zero silent failure email for 526
       - 526 email testing and production release
     - 0781 approach/plan
-
+         
  - Scott Regenthal
-    - 
-      
+   
  - Kyle Soskin
     - Zero silent failure support
     - 0781 paper sync approach/plan
