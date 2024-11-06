@@ -1,4 +1,4 @@
-# Veteran Self-Scheduling Community Care (VSS CC) Initiative Brief 
+# Veteran Self-Schedule Community Care (VSS CC) Initiative Brief 
 
 - [Artifacts](#artifacts)
     - [Requirements Artifacts](#requirements-artifacts)
