@@ -87,6 +87,7 @@ Review [Collaboration Cycle intakes](https://github.com/orgs/department-of-veter
   - Cross-link by adding the CAIA intake in a comment on the Collab Cycle request, and hyperlink to the Collab Cycle ticket on the CAIA intake
 - Add the "CAIA-collab" label to the Collab Cycle intake 
 - Reach out to product team in a comment in the CC intake to share the CAIA intake and ask about timeline
+- Temporary: While CC intakes are still being pulled into the CAIA board, update the status to "CC Intakes" 
 
 
 Review CAIA intakes 
