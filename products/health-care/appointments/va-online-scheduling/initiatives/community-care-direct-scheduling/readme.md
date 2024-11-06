@@ -1,5 +1,21 @@
 # Veteran Self-Scheduling Community Care (VSS CC) Initiative Brief 
 
+- [Artifacts](#artifacts)
+    - [Requirements Artifacts](#requirements-artifacts)
+    - [Product Artifacts](#product-artifacts)
+    - [Design Artifcats](#design-artifcats)
+    - [Engineering Artifacts](#engineering-artifacts)
+- [Research](#research)
+    - [Current State](#current-state)
+    - [Previous Research](#previous-research)
+    - [Recent research](#recent-research)
+- [Testing](#testing)
+- [Releasing](#releasing)
+- [Measuring Success](#measuring-success)
+    - [Key Performance Indicators](#key-performance-indicators}
+    - [Metrics to Capture](#metrics-to-capture)
+    - [Metrics Dashboards](#metrics-dashboards)
+
 ## Overview
 
 This initiative allows Veterans to directly schedule a community care appointment via VA.gov when they have indicated their preference for community care appointments is to self-schedule. This initiative came out of the [Cleland-Dole Act](https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf), which addresses Veteran homelessness, access to care, community care, mental health, research, telehealth, prostate cancer, provider oversight and transparency, long-term care, rural health, benefits, information technology and more.
@@ -44,7 +60,7 @@ This initiative allows Veterans to directly schedule a community care appointmen
     - Participants liked knowing a provider’s distance, but **some wanted to see the provider list in alphabetical order so they could find someone who they already knew - either an existing provider, or one they had researched.**
     - **Most participants said they would spend time researching providers before reaching this step,** googling review sites to get a sense of the provider’s reputation.
 
-#### Recent research 
+#### Recent Research 
 - Community Care Self-Scheduling - Usability and Concept Testing Research Findings 
   - [2024-06 Research Findings - Community Care Self-Scheduling Findings Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md)
   - Key Findings
@@ -63,10 +79,17 @@ This initiative allows Veterans to directly schedule a community care appointmen
           - Participants knew how to cancel their appointments in the prototype and understood there was no reason to take an additional step to call. Although 1 participant still said they’d call the office after canceling to make sure it had worked.
       - Expectations for VA Staff Follow-Up
           - The majority of participants said they would expect VA to contact them if they haven't self-scheduled their appointment within a certain amount of time.
+
+## Testing
+- [Test Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/cc-direct-scheduling-test-cases.md)
+- [QA Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/cc-direct-scheduling-qa-plan.md)
+
+## Releasing
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/cc-direct-scheduling-release-plan.md)
            
 ## Measuring Success
 
-#### Key performance indicators (KPIs)
+#### Key performance indicators 
 
 - **Satisfaction**: avg. CSAT score for all surveys completed from any CC scheduling workflow page or the CC confirmation page
 - **Audience**: % of referrals where Veteran chose to begin to self schedule
