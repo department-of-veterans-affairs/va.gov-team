@@ -68,31 +68,32 @@ This initiative allows Veterans to directly schedule a community care appointmen
 
 ### Key performance indicators (KPIs)
 
-**NOTE: there are 2 use cases, one where the Veteran clicks on the SMS/Email link and the other where they go directly to VA.gov and start from there**
-
-- Veteran satisfaction
-- Number of authorized CC referrals where Veteran has indicated a digital self-schedule preference
-- % of Veterans who successfully and unsuccessfully scheduled a community care appointment who (1) have a digitial self-schedule preferance and (2) started scheduling an appointment
-  - via SMS push
-  - via VA.gov directly
-- Time to schedule a community care appointment, once started
-  - via SMS push
-  - via VA.gov directly
+- **Satisfaction**: avg. CSAT score for all surveys completed from any CC scheduling workflow page or the CC confirmation page
+- **Audience**: % of referrals where Veteran chose to self schedule
+    - Out of all approved referrals for Veterans who had a digital self-schedule preference, what % started the self-scheduling process 
+- **Completions**: % of referrals where Veteran successfully self scheduled
+    - Out of those who (1) indicated a digital self-schedule preferance and (2) started scheduling an appointment, what % got a success message back from the scheduling API
+- **Failures**: % of referrals where Veteran failed to self schedule
+    - Out of those who (1) indicated a digital self-schedule preferance and (2) started scheduling an appointment, what % got a failure message back from the scheduling API
+- **Time to Complete**: avg. time to self schedule
+    - Avg. time it took to finish self-scheduling after starting
 
 ### Metrics to Capture
 
-| Use Case | Metric | Description | Capture Method | Responsible |
-|----- |----- | ------- | ----- | ----- | 
-| All | Customer/Veteran Experience | CSAT from Medallia survey on CC confirmation page and CC scheduling workflow pages | Medallia | UAE |
-| All | Number of authorized CC referrals where Veteran has indicated a digital self-schedule preference | same | DataDog StatsD | UAE (we could do this if we are doing the other StatsD work) |
-| SMS | Number who started the process | User clicked the link sent them via SMS/email | DataDog StatsD | UAE |
-| SMS | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
-| SMS | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
-| SMS | Time to complete the process | Time between clicking the link and call to CC scheduling API  | DataDog StatsD | UAE |
-| VA.gov | Number who started the process | User clicked the "Schedule your appointment" link for a referral on the Referrals and Requests page | DataDog StatsD | UAE |
-| VA.gov | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
-| VA.gov | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
-| VA.gov | Time to complete the process | Time between clicking "Schedule your appointment" and call to CC sheduling API | DataDog StatsD | UAE |
+**NOTE: there are 2 use cases, one where the Veteran clicks on the SMS/Email link and the other where they go directly to VA.gov and start from there**
+
+| Use Case | Metric No. | Metric | Description | Capture Method | Responsible |
+|----- |----- | ------- | ------- | ----- | ----- | 
+| All | 1 | Customer/Veteran Experience | CSAT from Medallia survey on CC confirmation page and CC scheduling workflow pages | Medallia | UAE |
+| All | 2 | Number of approved CC referrals where Veteran has indicated a digital self-schedule preference | same | DataDog StatsD | UAE (we could do this if we are doing the other StatsD work) |
+| SMS | 3 | Number who started the process | User clicked the link sent them via SMS/email | DataDog StatsD | UAE |
+| SMS | 4 | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
+| SMS | 5 | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
+| SMS | 6 | Time to complete the process | Time between clicking the link and call to CC scheduling API  | DataDog StatsD | UAE |
+| VA.gov | 7 | Number who started the process | User clicked the "Schedule your appointment" link for a referral on the Referrals and Requests page | DataDog StatsD | UAE |
+| VA.gov | 8 | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
+| VA.gov | 9 | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
+| VA.gov | 10 | Time to complete the process | Time between clicking "Schedule your appointment" and call to CC sheduling API | DataDog StatsD | UAE |
 
 ### OLD KPIs
 | KPIs | Source |
