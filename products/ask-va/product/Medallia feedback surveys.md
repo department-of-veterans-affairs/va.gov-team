@@ -17,7 +17,6 @@ Jump to:
 ## Intercept survey
 
 ### Current form: ask.va.gov
-#### Current decision
 - Intercept survey triggered for 5% of users who are on ask.va.gov for at least 20 seconds.
 - The survey triggers only once per session.
 
@@ -30,8 +29,7 @@ See **Your contact information** page:
 <br>
 <img src="https://github.com/user-attachments/assets/b3599d4e-f3c9-4f4c-aff8-30c51758f794" alt="Screenshot of Your contact information page" width="70%" height="auto">
 
-
-**Intercept survey questions**
+### Intercept survey questions
 These questions will be the same both on ask.va.gov and VA.gov.
 
 |Question|Answer choices|
