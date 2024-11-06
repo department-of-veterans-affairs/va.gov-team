@@ -72,7 +72,7 @@ This initiative allows Veterans to directly schedule a community care appointmen
 
 - Veteran satisfaction
 - Number of authorized CC referrals where Veteran has indicated a digital self-schedule preference
-- % of Veterans who successfully or unsuccessfully scheduled a community care appointment who (1) have a digitial self-schedule preferance and (2) started scheduling an appointment
+- % of Veterans who successfully and unsuccessfully scheduled a community care appointment who (1) have a digitial self-schedule preferance and (2) started scheduling an appointment
   - via SMS push
   - via VA.gov directly
 - Time to schedule a community care appointment, once started
