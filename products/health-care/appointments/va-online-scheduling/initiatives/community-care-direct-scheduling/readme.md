@@ -1,4 +1,4 @@
-# CC Direct Scheduling initiative brief 
+# Veteran Self-Scheduling Community Care (VSS CC) Initiative Brief 
 
 ## Overview
 
