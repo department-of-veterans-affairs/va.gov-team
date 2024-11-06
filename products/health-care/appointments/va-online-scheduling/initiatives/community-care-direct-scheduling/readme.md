@@ -101,6 +101,7 @@ Extrapolated from [CC VDSS SoPs](https://dvagov-my.sharepoint.com/:w:/g/personal
 
 **NOTE: there are 2 use cases, one where the Veteran clicks on the SMS/Email link and the other where they go directly to VA.gov and start from there**
 
+- Number of authorized CC referrals where Veteran has indicated a digital self-schedule preference
 - % of Veterans who successfully scheduled a community care appointment who (1) have a digitial self-schedule preferance and (2) started scheduling an appointment
   - via SMS push
   - via VA.gov directly
