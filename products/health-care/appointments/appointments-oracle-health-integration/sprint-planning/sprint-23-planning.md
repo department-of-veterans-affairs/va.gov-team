@@ -2,7 +2,8 @@
 Sprint 23: 11/5/24 - 11/18/24
 
 ## 📅 Upcoming Dates  & 🏖️ PTO
-* 
+* Brittany PTO 11/8/24
+* Kenzie PTO 11/18/24
 
 
 ## 📣 Announcements
