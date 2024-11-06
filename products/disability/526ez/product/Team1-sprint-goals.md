@@ -17,7 +17,7 @@
 - Implement New Confirmation Page w/ no claim ID flow
 - Release Planning for New Confirmation Page and New Email Touchpoints
 - Create toggle & trigger for Received email
-- Design the HTML version of “Provide a Copy” (Release horizon 1.0)*
+- ~Design the HTML version of “Provide a Copy” (Release horizon 1.0)*~
 - Design 5103 language
 - Product Discovery: Display Submission Status on va.gov
 
