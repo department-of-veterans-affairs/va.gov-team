@@ -10,7 +10,6 @@
     - **Move to New AWS Instance**
       - TBD
 - **Community Care Direct Scheduling**
-    - 🟥 [Create Userflow for Aynsychronous Appt Scheduling Notification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96417)
     - FE STEP 1 - Mock Data
         - 🟩 [Integrate referral mock ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96439)
     - FE STEP 2 - Appointments Page
