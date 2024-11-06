@@ -69,8 +69,10 @@ This initiative allows Veterans to directly schedule a community care appointmen
 ### Key performance indicators (KPIs)
 
 - **Satisfaction**: avg. CSAT score for all surveys completed from any CC scheduling workflow page or the CC confirmation page
-- **Audience**: % of referrals where Veteran chose to self schedule
+- **Audience**: % of referrals where Veteran chose to begin to self schedule
     - Out of all approved referrals for Veterans who had a digital self-schedule preference, what % started the self-scheduling process 
+- **Conversions**: % of referrals where Veteran finished the self schedule process
+    - Out of all approved referrals for Veterans who had a digital self-schedule preference, what % finished the self-scheduling process (succes or failure)
 - **Completions**: % of referrals where Veteran successfully self scheduled
     - Out of those who (1) indicated a digital self-schedule preferance and (2) started scheduling an appointment, what % got a success message back from the scheduling API
 - **Failures**: % of referrals where Veteran failed to self schedule
