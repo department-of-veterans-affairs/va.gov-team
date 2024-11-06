@@ -62,7 +62,8 @@ In Sprint 22 the team provided support for multiple features and initiatives, ou
   * [CES-1266 Research moving Appointment modality logic from FE to BE](https://issues.mobilehealth.va.gov/browse/CES-1266)
   * [CES-1257 Research TH appts - executive summary](https://issues.mobilehealth.va.gov/browse/CES-1257)
   * [CES-1271 VPG: rework sameDay eligibility logic to consistently pass tests](https://issues.mobilehealth.va.gov/browse/CES-1271)
-  
+* NOT SURE WHERE IT GOES
+  *  [CES-1268 VPG: remove unused cerner client paging code](https://issues.mobilehealth.va.gov/browse/CES-1268)
 
 
 ## ✈️ Planned Releases
