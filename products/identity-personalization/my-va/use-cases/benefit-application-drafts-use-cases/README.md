@@ -29,5 +29,6 @@ The data for saved applications is gathered from the same API as the main user c
 ## Overview of Submitted Forms:
 
 - For all of these use cases, the user must be LOA3 (identity verified). All LOA3 (and LOA1) users will see this section on My VA.
-- This feature shows a card for any benefit application or form that a user has completed and submitted that can be tracked and displayed on My VA, or text stating that the user has no benefit applications or forms (if there are no drafts as well).
+- This feature shows a card for any benefit application or form that a user has completed and submitted __that can be tracked and displayed on My VA__, or text stating that the user has no benefit applications or forms (if there are no drafts as well).
+- Submitted form cards have three different states: submission in progress, received, and action needed
 
