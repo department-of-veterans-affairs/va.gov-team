@@ -15,7 +15,7 @@
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). Check the [IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1729870366894/cbb1d2306f42be585325ae5594d230a27e002677?wid=136-1729870372728) for this diagram and other related IA work on this project*
-![PGIB 1](https://github.com/user-attachments/assets/c6eae62f-6f56-45d0-a681-1a2837f621ce)
+![PGIB 7](https://github.com/user-attachments/assets/22ee8555-310c-40c2-8698-0c2cea3e6693)
 
 
 
