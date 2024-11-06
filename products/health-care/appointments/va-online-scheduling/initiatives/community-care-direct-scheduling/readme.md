@@ -8,8 +8,8 @@ This initiative allows Veterans to directly schedule a community care appointmen
 ## Artifacts 
 
 #### Requirements Artifacts
-- [Business and legislative requirements tracker (SharePoint)](https://dvagov-my.sharepoint.com/:x:/g/personal/robert_meehan3_va_gov/EdTXJw53krNIt1qysxRDLwABl1cbCz0Hi4fYhzyxSoEVmA?e=8R3ypc) (mapping business requirements to Pilot Program Reqs tab)
-- [EPS-VAOS Integration Vision Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/14924023/VAOS.Discovery.Review.with.VAOS.03122024.Edited.1.1.pptx)<br><br>
+- [Business and legislative requirements tracker (SharePoint)](https://dvagov-my.sharepoint.com/:x:/g/personal/robert_meehan3_va_gov/EdTXJw53krNIt1qysxRDLwABl1cbCz0Hi4fYhzyxSoEVmA?e=8R3ypc)
+- [EPS-VAOS Integration Vision Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/14924023/VAOS.Discovery.Review.with.VAOS.03122024.Edited.1.1.pptx)
 - [CC DVSS Process Flow](https://dvagov-my.sharepoint.com/:u:/g/personal/robert_meehan3_va_gov/EZ8ifg_TwetKmevHKDieolABMkHlo2Ovtt4NOrxB5Fb10Q?e=v4nRRy)
 - [Original EPS-VAOS Schedule Overview](https://dvagov.sharepoint.com/:p:/s/HealthApartment/EaymMOj8IRVLgeceh1kS-OQB1K4Cnr39NJHeSSVmOrZ14g?e=zHH3UW)
 
@@ -30,12 +30,12 @@ This initiative allows Veterans to directly schedule a community care appointmen
 
 ## Research 
 
-### Current State
+#### Current State
 - [Review Community Care Appointments service blueprint (Mural) - CX Catalog Team](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=761-6444&t=Jf1WJ4OgStd1sByq-4)
 - [Download Community Care Self-Scheduling Flow Map (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/15395579/Attachment.D.-.Community.Care.Veteran.Self-Scheduling.Flow.Map.pdf)
 - [(VAOS) Application and HealthShare Referral Management (HSRM) Standard Operating Procedure [December 16, 2022]](https://github.com/user-attachments/files/16069320/CC.VAOS_HSRM_SOP_2022121622_v_Final.pdf)
 
-### Previous Research 
+#### Previous Research 
 - CC Provider Selection Usability Study Research Findings
   - [Research findings from 2020-10 full report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability/research-findings.md#findings-and-recommendations)
   - Key takeaways
@@ -44,7 +44,7 @@ This initiative allows Veterans to directly schedule a community care appointmen
     - Participants liked knowing a provider’s distance, but **some wanted to see the provider list in alphabetical order so they could find someone who they already knew - either an existing provider, or one they had researched.**
     - **Most participants said they would spend time researching providers before reaching this step,** googling review sites to get a sense of the provider’s reputation.
 
-### Recent research 
+#### Recent research 
 - Community Care Self-Scheduling - Usability and Concept Testing Research Findings 
   - [2024-06 Research Findings - Community Care Self-Scheduling Findings Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/research-findings.md)
   - Key Findings
@@ -66,7 +66,7 @@ This initiative allows Veterans to directly schedule a community care appointmen
            
 ## Measuring Success
 
-### Key performance indicators (KPIs)
+#### Key performance indicators (KPIs)
 
 - **Satisfaction**: avg. CSAT score for all surveys completed from any CC scheduling workflow page or the CC confirmation page
 - **Audience**: % of referrals where Veteran chose to begin to self schedule
@@ -80,7 +80,7 @@ This initiative allows Veterans to directly schedule a community care appointmen
 - **Time to Complete**: avg. time to self schedule
     - Avg. time it took to finish self-scheduling after starting
 
-### Metrics to Capture
+#### Metrics to Capture
 
 **NOTE: there are 2 use cases, one where the Veteran clicks on the SMS/Email link and the other where they go directly to VA.gov and start from there**
 
@@ -97,7 +97,7 @@ This initiative allows Veterans to directly schedule a community care appointmen
 | VA.gov | 9 | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
 | VA.gov | 10 | Time to complete the process | Time between clicking "Schedule your appointment" and call to CC sheduling API | DataDog StatsD | UAE |
 
-### Metrics Dashboards
+#### Metrics Dashboards
 - TBD
 
 
