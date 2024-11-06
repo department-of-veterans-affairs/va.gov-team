@@ -97,16 +97,6 @@ This initiative allows Veterans to directly schedule a community care appointmen
 | VA.gov | 9 | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
 | VA.gov | 10 | Time to complete the process | Time between clicking "Schedule your appointment" and call to CC sheduling API | DataDog StatsD | UAE |
 
-### OLD KPIs
-| KPIs | Source |
-|----- | ------- |
-| Number of scheduled VDSS appointments via VA.gov | VAOS backend service |
-| Number of scheduled appointments in EPS | Appointments submitted to EPS from vets-api |
-| Customer/Veteran Experience | CSAT from Medallia a11 survey on confirmation page and responses from feedback button usage on scheduling workflow pages on VA.gov | 
-| Total number of authorized CC PT referrals | New referrals received from VAOS backend service that are unfiltered based on patient scheduling preference |
-| Time between Veteran choosing VDSS to when they Self-Schedule | Time from referral authorization, received from VAOS backend service, to booked appointment in EPS |
-| Number of error detections between referral authorization and booked appointment in EPS | Error detections by type between referral authorization, received from VAOS backend service, to booked appointment in EPS |    
-
 ### Metrics Dashboards
 - TBD
 
