@@ -24,7 +24,7 @@ Sprint 23: 11/5/24 - 11/18/24
 ## 📋 Previous Sprint Summary:
 In Sprint 22 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-   * Conducted tests on Oracle Health booked appointment reads, comparing results returned from VPG with those from VAOS direct appointments.
+   * Conducted tests on Oracle Health booked appointment reads, comparing results returned from VetsAPI Patient Gateway with those from VAOS direct appointments.
    * VetsAPI Patient Gateway was updated to  filter out missing ReasonCode coding elements from FHIR appointments
    * Enhanced VetsAPI Patient Gateway to populate the minutesDuration field for Oracle Health appointments, allowing VetsAPI consumers to access the time duration for all scheduled appointments.
    * Resolved a bug in VetsAPI Patient Gateway to ensure that default paging values are correctly applied on the Clinics endpoint.
@@ -32,17 +32,11 @@ In Sprint 22 the team provided support for multiple features and initiatives, ou
  * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
     * Restricted certain resources in Clinical Encounter Service that are not currently available for use.
     * Updated Clinical Encounter Service to enhance test coverage and address existing logging issues. 
-
-
-
-
-* #### Backend support for Slot Search for Appointment Requests
-   * 
 * #### Backend support for Oracle Health to enable Appointment Cancellation
-   * [#81329 Add careType eligibility logic to cancellation business rules document](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81329)
-  * [#94547 Remove unused feature flag for OH reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94547)
+   * VetsAPI was updated to add careType eligibility logic to cancellation business rules. 
+   * VetsAPI removed the va_online_scheduling_enable_OH_reads feature flag since it is no longer used; documentation was updated to reflect this change.
 * #### Backend support for Oracle Health to enable appointment requests
-  * [#94555 VPG: Test OH proposed appointment reads](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/94555) 
+  * Conducted tests on Oracle Health appointment requests, comparing results returned from VetsAPI Patient Gateway with those from VAOS direct appointments.
 * #### Testing/Admin/Operational Support
    * The property values used by VetsAPI Patient Gateway were documented in metadata.yaml and appropriate descriptions for each value  were updated to indicate whether they are optional or required.
 
