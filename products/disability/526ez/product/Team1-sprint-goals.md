@@ -9,7 +9,7 @@
 
 **Toxic Exposure**
 
-- Rollout TE 1.1 to 10% and 25% traffic
+- Rollout TE 1.1 to 100%
 - Finalize TE research study materials and submit to Platform
 
 **Submission Experience**
