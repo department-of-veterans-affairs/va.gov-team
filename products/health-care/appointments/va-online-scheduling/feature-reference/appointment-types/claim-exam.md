@@ -40,25 +40,47 @@ See [user stories for all appointment types](./all-appointment-types#user-storie
 Notes:
 1: 02/23/2024 - Requirement not yet met
 
-## Technical note
+### Technical note
 
 A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with the type of care "Claim exam".
+
+### Empty states and alerts
+
+From ticket [69854](https://app.zenhub.com/workspaces/appointments-fe-ux-5fff340c2d80a4000fb6f69c/issues/gh/department-of-veterans-affairs/va.gov-team/69854)
+
+We retrieve the appointment information using one of the following calls:
+
+- From appointment list: `/vaos/v2/appointments?_include=facilities,clinics&start={today-120}&end={today+1}&statuses[]=proposed&statuses[]=cancelled` and `/vaos/v2/appointments?_include=facilities,clinics&start={today-30}&end={today+395}&statuses[]=booked&statuses[]=arrived&statuses[]=fulfilled&statuses[]=cancelled`
+- From appointment details page: `/vaos/v2/appointments/${id}?_include=facilities,clinics,avs`
+
+Data points:
+
+| Role | Section name | Source field name | Empty state logic |
+| - | - | - | - |
+| Preferred date and time | When | `appt.localStartTime` | Start time always populated |
+| Type of Care | What | `vaos.apiData.serviceCategory.[first].text` | Do not display if not available. Note that the field on the appointment will return `COMPENSATION & PENSION` which is translated into the friendly name "Claim exam" in the source code |
+| Provider Name | Who | `appt.practitioners[0].name` | Do not display if not available |
+| Facility Name | Where to attend/Where/Scheduling Facility | `facilityData[locationId].name` or `appt.location.attributes.name` | The heading is "Where to attend" for upcoming appointments and "Where" for past/cancelled appointments. A potential duplicate "Scheduling Facility" section is also displayed for past/cancelled appointments. When not available, display "Facility details not available" and display a link to find or view facility information. |
+| Facility Address | Where to attend/Where | `facilityData[locationId].physicalAddress` or `appt.location.attributes.physicalAddress` | The heading is "Where to attend" for upcoming appointments and "Where" for past/cancelled appointments. When not available, display "Facility details not available" and display a link to find or view facility information. |
+| Clinic Name | Where to attend/Where | `appt.friendlyName` or `appt.serviceName` | Display "Clinic not available" if not available. The heading is "Where to attend" for upcoming appointments and "Where" for past/cancelled appointments |
+| Phone number | Need to make changes/Scheduling Facility/Where/Where to attend | `facilityData[locationId].phone.main` or `appt.location.attributes.phone.main` or `appt.extension.clinic.phoneNumber` | Phone number priority: 1. Clinic phone number, 2. Facility phone number, 3. VA phone number. The heading is "Need to make changes" and "Where to attend" for upcoming appointments and "Where" and "Scheduling facility" for past/cancelled appointments. |
+ 
+### Screenshots
+
+| Upcoming | Past | Cancelled | Empty state | 
+| - | - | - | - | 
+| ![Image](https://github.com/user-attachments/assets/69467f74-226a-4cca-b2ab-41d97162d074) | ![Image](https://github.com/user-attachments/assets/51285a50-810b-450c-a4a4-4625128fa9be) | ![Image](https://github.com/user-attachments/assets/44ec1c42-68a9-4beb-bbbf-9c67bd9100ce) | ![Image](https://github.com/user-attachments/assets/c4939c2d-340d-401b-afab-f9e9a4705d8e) |
+
+Looking at the logic and screenshots, I think the "Scheduling facility" section is redundant and should be removed, what do you think @outerpress?
 
 ## Specifications
 
 **User flows:**
 - [Upcoming](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=2019-19997&t=lDUJykyhV8NRJ2zc-4)
-[Past](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=127-22836&t=lDUJykyhV8NRJ2zc-4)
+- [Past](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=127-22836&t=lDUJykyhV8NRJ2zc-4)
 
-**UI design specs:**
-- Upcoming (TBD)
-- Past (TBD)
-- Canceled (TBD)
-
-**Page content:**
-- [Upcoming](../../content/appointment-details.md#claim-exam-booked---upcoming)
-- [Past](../../content/appointment-details.md#claim-exam-booked---past)
-- [Canceled](../../content/appointment-details.md#claim-exam-booked---canceled)
+**UI design specs**  
+[Claim exam details pages](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-107343&t=W6qupE1wzXd7CUz3-4)
 
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
@@ -74,19 +96,6 @@ A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must d
 
 [All events VAOS tracks](Link TBD)
 
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
 
 ## Technical design
 <!-- Endpoints and sample responses -->
