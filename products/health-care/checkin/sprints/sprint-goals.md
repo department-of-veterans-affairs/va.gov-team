@@ -21,8 +21,6 @@
         - 🟩 [Hook up to mock data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95271)
         - 🟩 [Fix a few page details](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95272)
         - 🟩 [Unit tests](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95274)
-    - FE STEP 5 - Review Your Appointment Details Page
-        - 🟩 [Create Review your appointment details page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95281)
     - BE STEP 1 - Implement EPSAppointments
         - 🟦 [Implement RedisClient: Implement #get method to retrieve the access_token](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96003)
         - 🟦 [Implement token method in EPSService](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96410)
