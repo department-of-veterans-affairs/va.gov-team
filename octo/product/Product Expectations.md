@@ -1,7 +1,14 @@
 # Product expectations
 This document outlines product expectations for Product leads, Product managers, and Product owners/VA stakeholders (coming soon). 
 
-Any questions, please visit our #product channel on Slack. 
+Have questions? Visit our #product channel on Slack. 
+
+Jump to: 
+- [Overview](#overview)
+- [Shared expectations](#shared-expectations)
+- [Product Lead](#product-lead)
+- [Product Manager](#product-manager)
+- [Product Owner/Business (VA) Stakeholder]
 
 ## Overview
 This document outlines the unique and shared expectations of the Product Lead (OCTO government staff, sometimes referred to as Product Owner) and the Product Manager (usually a contractor). Please review this document together when starting work and then periodically as a check in — it will improve your communication and reduce stress.
@@ -16,7 +23,7 @@ There are three key trigger points for when to have these conversations – outs
 
   * Existing team is taking on a new initiative that warrants revisiting existing expectations 
 
-## Shared Expectations
+## Shared expectations
 Additional, specific expectations related to these categories are described in the following PO/PM-specific sections. 
 
 **Product documentation** Ensure product documentation — like the Product Outline — is up to date and publicly available on GitHub (or other appropriate locations). Document key decisions and product pivots. Onboard new team members by sharing documentation with them and explaining it. 
@@ -58,14 +65,11 @@ Additional, specific expectations related to these categories are described in t
  
 
 **Data Driven** 
-
   * Analyze qualitative and quantitative data related to products and services, and be able to speak to that with any audience 
-
     * This looks like 
-
        * Provide feedback on discovery session plans and findings 
-
-       * Approve KPI goals 
+       * Approve KPI goals
+         
 ## Product Lead
 Product Leads are primarily accountable for the outcomes of their products and services. They are sometimes referred to as the OCTO team member, government lead, or Product Owner — although VA stakeholders are also frequently referred to as Product Owners, so this can create some confusion. (Occasionally, contractor Product Managers do some of this work.) 
 
