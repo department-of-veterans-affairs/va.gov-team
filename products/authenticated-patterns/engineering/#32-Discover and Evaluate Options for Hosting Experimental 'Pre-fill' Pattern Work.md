@@ -1,4 +1,4 @@
-# 1) vets-website _mock-form folder
+# 1) using a vets-website _mock-form folder app folder and deploying prototypes to staging environment
 
 **Kevin mentioned doing it this way. Might be strong suggestion**
 
