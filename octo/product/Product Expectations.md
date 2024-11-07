@@ -8,7 +8,7 @@ Jump to:
 - [Shared expectations](#shared-expectations)
 - [Product Lead](#product-lead)
 - [Product Manager](#product-manager)
-- [Product Owner/Business (VA) Stakeholder]
+- [Product Owner/Business (VA) Stakeholder](#product-ownerbusiness-va-stakeholder)
 
 ## Overview
 This document outlines the unique and shared expectations of the Product Lead (OCTO government staff, sometimes referred to as Product Owner) and the Product Manager (usually a contractor). Please review this document together when starting work and then periodically as a check in — it will improve your communication and reduce stress.
