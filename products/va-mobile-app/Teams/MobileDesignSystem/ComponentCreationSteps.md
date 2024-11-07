@@ -5,7 +5,7 @@ Resources:
 - [Mobile DS Documentation](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Intro)
 
 
-Component creation Steps:
+## Component creation Steps:
 
 #### Step 1:
 Practice: **UX**<br>
@@ -21,7 +21,7 @@ Before implementation, we need to align this component with VADS and write docum
 - [ ] Audit component with VADS to determine if we need to update it to be more aligned
 - [ ] Update component in Figma based on alignment decisions
 
-## Acceptance Criteria
+**Acceptance Criteria**
 - [ ] Write documentation 
 - [ ] Update Figma design library
      - [ ] Implement [plan](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/5457) to simplify the Assets panel by removing frames/groups and nesting/hiding lower level components
@@ -34,7 +34,7 @@ Before implementation, we need to align this component with VADS and write docum
      - [ ] Add link to component in Figma design library - #195
 - [ ] Update [component documentation spreadsheet](https://docs.google.com/spreadsheets/d/1_EAH2LWSzwF8Om7o4LAYJf6gT9UWENANYpF7SZy3j8w/edit#gid=0) 
 
-
+____________________________________________________________________________________
 #### Step 2:
 Practice: **UX**<br>
 Story Estimate: **3**<br>
@@ -42,36 +42,36 @@ Story Title: **[Component Name] - Prep for Eng Handoff** <br>
 Story Details:<br>
 Before implementation, UX needs to review the original design work and update the component as needed.
 
-## Acceptance Criteria
+**Acceptance Criteria**
 - [ ] Compare component to VADS component
 - [ ] Compare component to related components (Checkbox)
 - [ ] Ensure correct design tokens are used in Figma
 - [ ] Create handoff documentation
 - [ ] Create any follow-on tickets
 
-
+____________________________________________________________________________________
 #### Step 3:
 Practice: **front-end**<br>
 Story Estimate: **5**<br>
 Story Title: **[Component Name] - Tech Discovery** <br>
 Story Details:<br>
-## Description 
+**Description**
 This story is to look at the [Component Name] Component to determine any technical complexity we will need to account for during development. 
 
 
-## Important links
+**Important links**
 - [Current documentation]()
 - [Current primary code location]()
 - [Current primary test location]()
 - [npm package]()
 - [Component List](https://docs.google.com/spreadsheets/d/1_EAH2LWSzwF8Om7o4LAYJf6gT9UWENANYpF7SZy3j8w/edit#gid=106854297)
 
-## Design updates
+**Design updates**
 - [Master component]() in Figma 
 - [Examples]() of how the component may appear 
 - [Handoff notes]()
 
-## Acceptance Criteria
+**Acceptance Criteria**
 <!-- Add a checkbox for each item required to fulfill the user story/issue. -->  
 
 -  [ ] Determine the variants needed for the component 
@@ -80,32 +80,32 @@ This story is to look at the [Component Name] Component to determine any technic
 -  [ ] Create stub stories for any 1-off things needed for the component
 -  [ ] create POC to confirm our plans (if needed)
 
-
+____________________________________________________________________________________
 #### Step 4:
 Practice: **front-end**<br>
 Story Estimate: **8**<br>
 Story Title: **[Component Name] - Component Implementation** <br>
 Story Details:<br>
-## Description
+**Description**
 
 This is a ticket to extract the [Component Name] component from the mobile app and install it into the component library.
 
-## Important links
+**Important links**
 - [Current documentation]()
 - [Technical Discovery]()
 - [Component List](https://docs.google.com/spreadsheets/d/1_EAH2LWSzwF8Om7o4LAYJf6gT9UWENANYpF7SZy3j8w/edit#gid=106854297)
 
-## Design updates
+**Design updates**
 - [Master component]() in Figma 
 - [Examples]() of how the component may appear 
 - [Handoff notes]()
 
-## Acceptance Criteria
+**Acceptance Criteria**
 - [ ] Component has been updated based on the design updates
 - [ ] Component has been added and merged into `main`
 - [ ] Component has been manually tested inside the app in at least one place
 
-
+____________________________________________________________________________________
 #### Step 5:
 Practice: **front-end**<br>
 Story Estimate: **5**<br>
