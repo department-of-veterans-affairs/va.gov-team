@@ -66,15 +66,15 @@ Example: In the Travel Pay for Past Appointments (VAHB) initiative, the mobile d
      - Can designs be managed in the VA Figma rather than in partner-owned Figma environments?
 
 - **Code Merges/ QA review process:**
-  - 1+ Day to code review
-  - Initial recomendation is after PR is made, some one will review it, ask for PR review if not reviewed within 24hrs. But it might be better to get a PR into peoples radar by just asking for a review sooner via slack message.
-  - QA takes about 1 day
-  - If small changes are needed the process can be extended an extra day.
-  - Process is ok but not ideal due to significant time needed for review. 
+  - Typically takes 1+ Day from PR creation to first eyes on the code.
+  - Any PR that needs changes, even if they are small changes, takes significantly longer to get reviewed 2+ additional days. 
+  - It might be better to get a PR into peoples radar by just asking for a review as soon as the PR is ready via slack.
+  - QA takes about 1 day after code is reviwed.
+  - Process is fine but not ideal due to significant time needed for review. 
 
   
 - Feedback about mentoring: (anything around if you got what you needed, if the guide and response was helpful, any imporvements to make it more productive, what communication type worked the best? ceremonies? slack ? or etc) 
-  - xyz
+  - Mentoring was minimal and did not help all that much. 
   -
   -
 - Feedback about mobile team ceremonies: (anything around if you got what you needed, to help you with onboarding, any imporvements to make it more productive for you as onbordee, what communication type worked the best? ceremonies? slack ? or etc) 
