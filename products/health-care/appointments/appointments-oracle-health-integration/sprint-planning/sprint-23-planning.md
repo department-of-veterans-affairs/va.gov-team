@@ -24,16 +24,16 @@ Sprint 23: 11/5/24 - 11/18/24
 ## 📋 Previous Sprint Summary:
 In Sprint 22 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-   * Conducted **_local_** tests on Oracle Health booked appointment reads, comparing results returned from VetsAPI Patient Gateway with those from VAOS direct appointments **_in order to identify gaps in the response payload_**.
+   * Conducted **_local_** tests on Oracle Health booked appointment reads, comparing results returned from VetsAPI Patient Gateway with those from VAOS direct appointments, in order to identify gaps in the response payload.
    * VetsAPI Patient Gateway was updated to  filter out missing ReasonCode coding elements from FHIR appointments
    * Enhanced VetsAPI Patient Gateway to populate the minutesDuration field for Oracle Health appointments, allowing VetsAPI consumers to access the time duration for all scheduled appointments.
    * Resolved a bug in VetsAPI Patient Gateway to ensure that default paging values are correctly applied on the Clinics endpoint.
-   * Addressed a bug in VetsAPI Patient Gateway to ~update the endpoint, eliminating certain resource restrictions~ **_remove unnecessary constraints on eligibility endpoint_**.
+   * Addressed a bug in VetsAPI Patient Gateway to remove unnecessary constraints on eligibility endpoint.
  * #### Backend support for Oracle Health to build CES infrastructure to extend VAOS module with Oracle Health write-back capabilities
     * Restricted certain resources in Clinical Encounter Service that are not currently available for use.
     * Updated Clinical Encounter Service to enhance test coverage and address existing logging issues. 
 * #### Backend support for Oracle Health to enable Appointment Cancellation
-   * ~VetsAPI~ **_Developer documentation_** was updated to add careType eligibility logic to cancellation business rules. 
+   * Developer documentation was updated to add careType eligibility logic to cancellation business rules. 
    * VetsAPI removed the va_online_scheduling_enable_OH_reads feature flag since it is no longer used; documentation was updated to reflect this change.
 * #### Backend support for Oracle Health to enable appointment requests
   * Conducted tests on Oracle Health appointment requests, comparing results returned from VetsAPI Patient Gateway with those from VAOS direct appointments.
