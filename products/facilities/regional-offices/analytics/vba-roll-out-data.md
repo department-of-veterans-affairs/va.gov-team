@@ -37,7 +37,6 @@ Source: GA4
 | New users 	 | 	42		 | 1,078	 | 	2,478	 | 		 | 		 | 		  	
 |	Returning users  |  211| 	 	2,126	 | 5,335		 | 		 | 		  	
 |	Engagement rate | 	86.52% | 79.99%		 | 	79.17%	 | 		 | 			
-| Event count | 2,066 |30,080 | 	73,605	 | 		 | 		 | 	 
 
 ## Accordion interactions
 (measured by accordions opened)
