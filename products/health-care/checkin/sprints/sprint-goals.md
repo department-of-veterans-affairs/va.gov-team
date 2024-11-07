@@ -74,7 +74,7 @@
     - 🟥 [[Research] Submit unmoderated survey research materials to Shane and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95704)
     - 🟥 [Kick off Unmoderated Study with Perigean & Monitor](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95475)
     - 🟥 [Design Intent - IA Feedback - Modernized Check-in, eCheck-in, Check in with MSAs after eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95736)
-    - 🟥 [Design Intent - Accessibility Feedback - Modernized Check-in, eCheck-in, Check in with MSAs after eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95751)
+    - ✔️ 🟥 [Design Intent - Accessibility Feedback - Modernized Check-in, eCheck-in, Check in with MSAs after eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95751)
     - 🟥 [[DESIGN] Update Check-in to tell Veterans to go up to MSAs 5 min after appointment time](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95964)
 - **Research Cards & Their Headers**
     - **Sprint Goals: finish the research presentation and present**
