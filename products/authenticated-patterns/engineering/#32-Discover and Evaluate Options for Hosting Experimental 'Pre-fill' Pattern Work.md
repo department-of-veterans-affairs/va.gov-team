@@ -118,33 +118,24 @@ Codespaces are easily configured to stay active for 4 hours, and Adam has alread
 
 # Conclusion
 
-Option 1: Creating a mock form app in the vets-website repo and using staging to host pattern work. 
+We have considered 2 main paths forward, Codespaces and Staging environement. We have decided to use Codespaces to run user research sessions.
+
+### Codespaces notes:
+
+1) Within Codespaces it is possible to completely mock auth, use a mock server for all backend interactions, and provide exactly the experience that we are looking to show to the user. There are still downsides, but overall provides a way to show a prototype to a user that is almost identical to the production website, and doesn't require logging into the site or exposing PII or other sensitive data.
+2) Complex api interactions need to be considered. The mock api is skin deep, and when updating things like the address or phone number, there is typically no database to persist these changes in the mock data. One solution that we have used is an in memory data store that can semi-persist while the mock server is running. This allows lookups of user data to occur and the appearance that the data has saved. Since the data only persists in memory, once the server is restarted, all the original mock data is reset for future sessions and no information is stored.
+3) Documenting the solution space is valuable for other teams, and so far noone else that we have seen has been able to fully mock out the backend server in a codespace and get it working like we have. We think it warrants contributing to the platform docs if these experiments are deemed successful.
+3) Since the Codespace runs on any branch of the vets-website repo, an experimental branch can be used and the main branch does not have to be what is displayed to a research participant. Furthermore you can update code on the fly, api responses, or styles if desired.
+4) Potential downsides include 4 hour limit of uptime of the Codespace (there are ways to extend this), a unique url for each codespace, required coordination between engineers and researchers to make sure Codespace is ready, and other logistical considerations. 
+
+
+### Staging environment notes:
+
 [Staging link](https://staging.va.gov/mock-form-ae-design-patterns)
 
-Option 5: Using GitHub codespaces to provide a live url for sessions
+1) Staging provides a liveurl that is easily accessible, but requires a user to have staging credentials. These staging credentials will have to be shared and research participants will have to log into the site to do research sessions. After the session, the password should be revoked / changed.
+2) Having custom data for users is difficult and data will persist if changes are made to staging, so there is the potential for accidental PII to be entered into a staging account by a research participant during a session. Complex data mocking scenarios are pretty much impossible in staging. One example would be getting a staging user that has a specific date of birth, has unique benefit enrollment data, and has a specific disability rating. Since the staging environement does connect to upstream services, it is very difficult to simulate complex data scenarios.
+3) Prefill Endpoint: if we want to create specific information to come back from the prefill form endpoint, that is not possible. In progress form status will persist, and prefilled data will come from the respective services.
+4) We initially tried to mock auth in a skin-deep method for our app only and ran into lots of issues with it and couldn't make it work in a way that wasn't buggy or unreliable.
 
-
-### Option 1 notes:
-
-This currently stands as the most viable choice due to its straightforward deployment and direct integration with our existing codebase. However, further discovery is needed in a few key areas:
-
-1) Displaying Pattern Variations: We need to determine the optimal way to present different pattern variations. Initially, we considered incorporating all variations into a single form app, with each variation on a separate page. However, if a variation requires a different intro page, this could pose a UX challenge.
-   
-One potential solution is to include a new intro page for each variation within the form app (even if it appears in the middle of the form process). This approach requires further investigation to address the following questions:
-
-- Will adding an introductory page in the middle of the form process be user-friendly or more confusing for test participants? If it's more confusing, how can we make it less confusing and more user-friendly for them? 
-- Can we easily technically implement this solution within the current codebase?
-
-2) Prefill Endpoint: We need to develop an endpoint in the vets-api to ensure that the prefill functionality works correctly in staging for our mock form app.
-
-3) Test User Login Issue: There is a login issue with our mock form app on staging (staging.va.gov/mock-form-ae-design-patterns). When attempting to log in as a test user, the login times out. If you reload the page, the login is successful. We suspect this issue may be related to the vets-api endpoint problem mentioned above and will plan to do more discovery work on this.
-4) Authentication: We would like to mock auth so that research session participants are not required to log in with test user accounts. This continues to be an issue. Due to the deep integration with authentication and the need to overwrite various user data within out app with mocked data, it is proving challenging to fully mock authentication.
-
-### Option 5 notes:
-
-Codespaces is a parallel option that can be used alongside the staging environment. Within Codespaces it is possible to completely mock auth, use a mock server for all backend interactions, and provide exactly the experience that we are looking to show to the user.
-There are still downsides, but it is worth continuing to explore as an option for user studies.
-
-1) Complex api interactions will need to be considered. The mock api is skin deep, and when updating things like the address or phone number, there is no database to persist these changes in the mock data. One solution is to use an in memory data store that can semi-persist while the server is running. This would allow lookups of user data to occur and the appearance that the data has saved. This will require the capturing of requests and the lookup of this data so that it can be fleshed out completely. Within the prefill pattern work, the green-task does currently implement this idea for the mailing address update as long as a certain address is input into the update form.
-2) Documenting the solution space is valuable for other teams, and so far noone else that we have seen has been able to fully mock out the backend server in a codespace and get it working like we have. We think it warrants contributing to the platform docs if these experiments are deemed successful.
 
