@@ -18,6 +18,7 @@ The HLR paper form was updated this year with new isntructions and content to ad
 - Update content in homelessness question (Section 1: Veteran information)
 - Update "Issues for review" content (Section 2: Issues for review)
 - Update content on the Request an informal conference page (Section 3: Informal conference)
+- New page for person to contact (Section 3: Informal conference)
 - Update to "Review application" content (Section 3: Review application) 
 
 
