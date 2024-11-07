@@ -19,6 +19,7 @@ Jump to:
 ### Current form: ask.va.gov
 - Intercept survey triggered for 5% of users who are on ask.va.gov for at least 20 seconds.
 - The survey triggers only once per session.
+- The survey can trigger at any point in the form.
 
 ### Future form: va.gov/contact-us/ask-va
 - Intercept survey triggered for 5% of users.
