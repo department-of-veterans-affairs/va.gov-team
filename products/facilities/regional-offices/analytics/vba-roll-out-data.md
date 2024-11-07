@@ -1,30 +1,32 @@
 ## VBA Regional office roll-out data
+- Roll-out training and publishing milestones
+  - [Training](#training)
+  - [Publishing](#publishing)
+- [General user and interaction statistics](#general-user-and-interaction-statistics)
+- Accordion interactions
+  - [Prepare for your visit](#prepare-for-your-visit)
+  - [Services](#services) 
 
-## Roll-out phase
 
-### Training and publishing milestones
+## Roll-out training and publishing milestones
 
+###  Training 
 | Training Cohort | Number of Regional offices represented (cumulative % of total - 58)| Kick-off date 
 | --- | :---:| ---| 
 | 1 | 8 (14%) | January 23, 2024
 | 2 | 10 (31%)  | May 29, 2024
 | 3 | 10 (48%) | September 16, 2024
 
+### Publishing
 
-| Date |  # of new Regional offices modernized pages | cumulative % (58)
-| --- | :---:| :---:| 
-| July 2024 | 1 | 2% | 
-| August 2024 | 4 | 9% | 
-| September 2024  | 4 | 15% |
-| October 2024 | 5 | 24% | 
-| November 2024 | | | 
-| December 2024 | | |
+| Metric | 	 	July-24 | Aug-24	 | 	Sep-24	 | Oct-24		 | 	Nov-24		 | Dec-24		 |  
+|	---| 	:---:	 | 	:---: | 	:---:	 | 	:---: | 	:---:	 | :---:	 |
+| # of new Regional offices modernized pages | 1 | 4 | 4 | 5 | | | 
+| cumulative % (58) | 2% | 9% | 15% | 24% | | | 
 
 
 ## General user and interaction statistics
 Source: GA4
-
-August - December 2024
  
 |	Metric | 	 	Aug-24	 | 	Sep-24	 | Oct-24		 | 	Nov-24		 | Dec-24		 |
 |	---| 	:---:	 | 	:---: | 	:---:	 | 	:---: | 	:---:	 | 	
@@ -48,9 +50,6 @@ events for related accordions groups as headers are locally controlled
 | What to bring	|	27	|	405	|	351 | | |
 | Parking/Building/Access 	|	27	|	458	|	674 | | |
 | Public transportation 	|	27	|	296	|	216 | | |
-
-
-
 
 ### Services 
 | Service | 	Aug-24	 | 	Sep-24	 | Oct-24		 | 	Nov-24		 | Dec-24		 |
