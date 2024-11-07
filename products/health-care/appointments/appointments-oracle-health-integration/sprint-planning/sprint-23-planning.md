@@ -24,8 +24,8 @@ Sprint 23: 11/5/24 - 11/18/24
 ## 📋 Previous Sprint Summary:
 In Sprint 22 the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health to enable direct scheduling
-   * Conducted **_local_** tests on Oracle Health booked appointment reads, comparing results returned from VetsAPI Patient Gateway with those from VAOS direct appointments, in order to identify gaps in the response payload.
-   * VetsAPI Patient Gateway was updated to  filter out missing ReasonCode coding elements from FHIR appointments
+   * Conducted local tests on Oracle Health booked appointment reads, comparing results returned from VetsAPI Patient Gateway with those from VAOS direct appointments, in order to identify gaps in the response payload.
+   * VetsAPI Patient Gateway was updated to filter out missing ReasonCode coding elements from FHIR appointments
    * Enhanced VetsAPI Patient Gateway to populate the minutesDuration field for Oracle Health appointments, allowing VetsAPI consumers to access the time duration for all scheduled appointments.
    * Resolved a bug in VetsAPI Patient Gateway to ensure that default paging values are correctly applied on the Clinics endpoint.
    * Addressed a bug in VetsAPI Patient Gateway to remove unnecessary constraints on eligibility endpoint.
