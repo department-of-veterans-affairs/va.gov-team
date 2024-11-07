@@ -89,7 +89,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - How will you make the product available in production while limiting the number of users who can find/access it: Feature toggle
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Abandonment rate: TBD
-  - Contact Center calls due to inability to complete the form caused by errors <2 calls
+  - Contact Center calls due to inability to complete the form caused by errors <2 calls (reach out in advance to inform them of the HLR form updates release)
   - Submission volume:
     - Canary: 10 submissions
     - 25%/50%/75%: >10 submissions
