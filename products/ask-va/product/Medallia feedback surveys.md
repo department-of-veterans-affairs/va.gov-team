@@ -24,6 +24,7 @@ Jump to:
 - Intercept survey triggered for 5% of users.
 - The survey triggers only once per session.
 - The survey triggers when the user lands on the **Your contact information** page.
+   - Joe mentioned can call the script from anywhere in the form. 
 
 See **Your contact information** page:
 
