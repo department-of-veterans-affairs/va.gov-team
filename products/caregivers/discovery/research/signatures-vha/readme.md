@@ -8,4 +8,4 @@ Currently, the VA Delegation Forms will be signed online by Veterans to give the
 ![img1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/signatures-vha/iam_esig_01.jpg)
 
 2) User views/prints their electronically signed form and submits to VA:
-![img2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/signatures/vha/iam_esig_02.jpg)
+![img2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/signatures-vha/iam_esig_02.jpg)
