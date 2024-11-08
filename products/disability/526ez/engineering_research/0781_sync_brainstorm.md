@@ -15,6 +15,11 @@ This is just to get things functional. It does not take into account writting te
 
 Each of these can be built and deployed esentially as 'sub apps' that start and end at predefined routes. 'Predefined route'. 'Exit Points' are considered to be outside scope, we simply need the routing to lead a user to that endpoint. Exit Points *should not* be placeholder pages, just empty URLs. This will allow us to avoid merge conflicts
 
+
+---
+
+TODO: spike writing / reading In progress form 
+
 ---
 
 ### JSON to PDF transformation service XL
