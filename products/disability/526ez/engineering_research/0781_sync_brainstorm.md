@@ -15,7 +15,7 @@ This is just to get things functional. It does not take into account writting te
 
 Each of these can be built and deployed esentially as 'sub apps' that start and end at predefined routes. 'Predefined route'
 
-
+---
 
 ### Flipper Protected Entry Point
 #### Description
@@ -29,7 +29,7 @@ Set up a bare bones entry point to the new flow.
 #### Deliverable
 - A testable, flipper based entry point deployed in staging
 
-
+---
 
 ### Choice Page V1
 
