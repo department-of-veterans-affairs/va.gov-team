@@ -39,12 +39,13 @@
 
 **Phase 4: Reorganize** 
 
-- see what big files/components can be split into smaller pieces - Dashboard 
-- push product to give us time to do this
+- see what big files/components can be split into smaller pieces
+  - e.g. our root [Dashboard component](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/Dashboard.jsx)  
+- advocate for time to do this with product 
 
 **Phase 5: Revisit**
 
-- create a standing epic/document for internal dev “improvements”
+- create an evergreen epic/document for internal dev “improvements”
 - jot down notes for what we accomplish 
 
 ## ✅ Action items
